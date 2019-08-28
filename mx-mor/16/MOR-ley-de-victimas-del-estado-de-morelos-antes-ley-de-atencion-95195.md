@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-victimas-del-estado-de-morelos-antes-ley-de-atencion-951
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2019-05-22"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "MOR"
 ---
 # LEY DE VICTIMAS DEL ESTADO DE MORELOS -- ANTES LEY DE ATENCION Y REPARACION A VICTIMAS DEL DELITO Y DE VIOLACIONES A LOS DERECHOS HUMANOS PARA EL ESTADO DE MORELOS --
 
-> <small>[N. DE E. EL DECRETO NÚMERO DOS MIL DOSCIENTOS CINCO, EXPEDIDO POR LA QUINCUAGÉSIMA TERCERA LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE OCTUBRE DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+[NOTA 1: EL DECRETO NÚMERO DOS MIL DOSCIENTOS CINCO, EXPEDIDO POR LA QUINCUAGÉSIMA TERCERA LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE OCTUBRE DE 2017, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL "DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO", PUBLICADO EN P.O. 10 DE ABRIL DE 2019.]
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL "DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO", PUBLICADO EN P.O. 10 DE ABRIL DE 2019]</small>
 
 LEY DE VÍCTIMAS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -175,67 +177,7 @@ Las autoridades deberán contar con mecanismos efectivos de rendición de cuenta
 
 XXIV. Trato preferente: Todas las autoridades en el ámbito de sus competencias tienen la obligación de garantizar el trato digno y preferente a las víctimas.
 
-[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE QUE ESTE ARTÍCULO 6 SE MODIFICÓ CONFORME AL TEXTO QUE TENÍA ANTES DEL DECRETO DE REFORMA INTEGRAL, DEL 31 DE OCTUBRE DE 2017, A SABER: “ARTÍCULO 6. Los mecanismos, medidas y procedimientos establecidos en esta Ley, se determinarán, implementarán y evaluarán, de conformidad con los principios establecidos y definidos en la Ley General de Víctimas, tales como:
-
-I. Dignidad: La dignidad humana es un valor, principio y derecho fundamental base y condición de todos los demás. Implica la comprensión de la persona como titular y sujeto de derechos y a no ser objeto de violencia o arbitrariedades por parte del Estado o de los particulares.
-
-En virtud de la dignidad humana de la víctima, todas las autoridades del Estado están obligadas en todo momento a respetar su autonomía, a considerarla y tratarla como fin de su actuación. Igualmente, todas las autoridades del Estado y sus Municipios están obligadas a garantizar que no se vea disminuido el mínimo existencial al que la víctima tiene derecho, ni sea afectado el núcleo esencial de sus derechos;
-
-II. Buena fe: Las autoridades presumirán la buena fe de las víctimas: Los servidores públicos que intervengan con motivo del ejercicio de derechos de las víctimas no deberán criminalizarla o responsabilizarla por su situación de víctima y deberán brindarle los servicios de ayuda, atención y asistencia desde el momento en que lo requieran, así como respetar y permitir el ejercicio efectivo de sus derechos;
-
-III. Complementariedad: Los mecanismos, medidas y procedimientos contemplados en esta Ley, en especial los relacionados con la asistencia, ayuda, protección, atención y reparación integral a las víctimas, deberán realizarse de manera armónica, eficaz y eficiente entendiéndose siempre como complementarias y no excluyentes.
-
-Tanto las reparaciones individuales, administrativas o judiciales, como las reparaciones colectivas deben ser complementarias para alcanzar la integralidad que busca la reparación;
-
-IV. Debida diligencia: El Estado deberá realizar todas las actuaciones necesarias dentro de un tiempo razonable para lograr el objeto de esta Ley, en especial la prevención, ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como sujeto titular de derecho;
-
-V. El Estado deberá remover los obstáculos que impidan el acceso real y efectivo de las víctimas a las medidas reguladas por la presente Ley, realizar prioritariamente acciones encaminadas al fortalecimiento de sus derechos, contribuir a su recuperación como sujetos en ejercicio pleno de sus derechos y deberes, así como evaluar permanentemente el impacto de las acciones que se implementen a favor de las víctimas;
-
-VI. Enfoque diferencial y especializado con perspectiva de género: Esta Ley reconoce la existencia de grupos de población con características particulares o con mayor situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad y otros, en consecuencia, se reconoce que ciertos daños requieren de una atención especializada que responda a las particularidades y grado de vulnerabilidad de las víctimas;
-
-Las autoridades que deban aplicar esta Ley ofrecerán, en el ámbito de sus respectivas competencias, garantías especiales y medidas de protección a los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas y niños, jóvenes, mujeres, adultos mayores, personas en situación de discapacidad, migrantes, miembros de pueblos indígenas, personas defensoras de Derechos Humanos, periodistas y personas en situación de desplazamiento interno. En todo momento se reconocerá el interés superior de la infancia.
-
-Este principio incluye la adopción de medidas que respondan a la atención de dichas particularidades y grado de vulnerabilidad, reconociendo igualmente que ciertos daños sufridos por su gravedad requieren de un tratamiento especializado para dar respuesta a su rehabilitación y reintegración a la sociedad;
-
-VII. Enfoque transformador: Las autoridades que deban aplicar la presente Ley realizarán, en el ámbito de sus respectivas competencias, los esfuerzos necesarios encaminados a que las medidas de ayuda, protección, atención, asistencia y reparación integral a las que tienen derecho las víctimas, contribuyan a la eliminación de los esquemas de discriminación y marginación que pudieron ser la causa de los hechos victimizantes;
-
-VIII. Gratuidad: Todas las acciones, mecanismos, procedimientos y cualquier otro trámite que implique el derecho de acceso a la justicia y demás derechos reconocidos en esta Ley, serán gratuitos para la víctima;
-
-IX. Igualdad y no discriminación: En el ejercicio de los derechos y garantías de las víctimas y en todos los procedimientos a los que se refiere la presente Ley, las autoridades se conducirán sin distinción, exclusión o restricción, ejercida por razón de sexo, raza, color, orígenes étnicos, sociales, nacionales, lengua, religión, opiniones políticas, ideológicas o de cualquier otro tipo, género, edad, preferencia u orientación sexual, Estado civil, condiciones de salud, pertenencia a una minoría nacional, patrimonio y discapacidades, o cualquier otra que tenga por objeto o efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas. Toda garantía o mecanismo especial deberá fundarse en razones de enfoque diferencial;
-
-X. Integralidad, indivisibilidad e interdependencia: Todos los derechos contemplados en esta Ley se encuentran interrelacionados entre sí. No se puede garantizar el goce y ejercicio de los mismos sin que a la vez se garantice el resto de los derechos. La violación de un derecho pondrá en riesgo el ejercicio de otros.
-
-La violación de un derecho pondrá en riesgo el ejercicio de otros.
-
-Para garantizar la integralidad, la asistencia, atención, ayuda y reparación integral a las víctimas se realizará de forma multidisciplinaria y especializada.
-
-XI. Máxima protección: Toda autoridad de los órdenes de gobierno deberá velar por la aplicación más amplia de medidas de protección a la dignidad, libertad, seguridad y demás derechos de las víctimas del delito y de violaciones a los Derechos Humanos.
-
-Las autoridades adoptarán en todo momento medidas para garantizar la seguridad, protección, bienestar físico y psicológico así como la intimidad de las víctimas.
-
-XII. Mínimo existencial: Constituye una garantía fundada en la dignidad humana como presupuesto del Estado democrático y consiste en la obligación del Estado de proporcionar a la víctima y a su núcleo familiar un lugar en el que se les preste la atención adecuada para que superen su condición y se asegure su subsistencia con la debida dignidad que debe ser reconocida a las personas en cada momento de su existencia;
-
-XIII. No criminalización: Las autoridades no deberán agravar el sufrimiento de la víctima ni tratarla en ningún caso como sospechosa o responsable de la comisión de los hechos que denuncie.
-
-Ninguna autoridad o particular podrá especular públicamente sobre la pertenencia de las víctimas al crimen organizado o su vinculación con alguna actividad delictiva. La estigmatización, el prejuicio y las consideraciones de tipo subjetivo deberán evitarse;
-
-XIV. Victimización secundaria: Las características y condiciones particulares de la víctima no podrán ser motivo para negarle su calidad. El Estado tampoco podrá exigir mecanismos o procedimientos que agraven su condición ni establecer requisitos que obstaculicen e impidan el ejercicio de sus derechos ni la expongan a sufrir un nuevo daño por la conducta de los servidores públicos.
-
-XV. Participación conjunta: Para superar la vulnerabilidad de las víctimas, el Estado deberá implementar medidas de ayuda, atención, asistencia y reparación integral con el apoyo y colaboración de la sociedad civil y el sector privado, incluidos los grupos o colectivos de víctimas;
-
-XVI. Progresividad y no regresividad: Las autoridades que deben aplicar la presente Ley tendrán la obligación de realizar todas las acciones necesarias para garantizar los derechos reconocidos en la misma y no podrán retroceder o supeditar los derechos, estándares o niveles de cumplimiento alcanzados;
-
-XVII. Publicidad: Todas las acciones, mecanismos y procedimientos deberán ser públicos, siempre que esto no vulnere los Derechos Humanos de las víctimas o las garantías para su protección;
-
-XVIII. El Estado deberá implementar mecanismos de difusión eficaces a fin de brindar información y orientación a las víctimas acerca de los derechos, garantías y recursos, así como acciones, mecanismos y procedimientos con los que cuenta, los cuales deberán ser dirigidos a las víctimas y publicitarse de forma clara y accesible;
-
-XIX. Rendición de cuentas: Las autoridades y funcionarios encargados de la implementación de la Ley, así como de los planes y programas que esta Ley regula, estarán sujetos a mecanismos efectivos de rendición de cuentas y de evaluación que contemplen la participación de la sociedad civil, particularmente de víctimas y colectivos de víctimas;
-
-XX. Transparencia: Todas las acciones, mecanismos y procedimientos que lleve a cabo el Estado en ejercicio de sus obligaciones para con las víctimas, deberán instrumentarse de manera que garanticen el acceso a la información, así como el seguimiento y control correspondientes.
-
-Las autoridades deberán contar con mecanismos efectivos de rendición de cuentas y de evaluación de las políticas, planes y programas que se instrumenten para garantizar los derechos de las víctimas, y,
-
-XXI. Trato preferente: Todas las autoridades en el ámbito de sus competencias tienen la obligación de garantizar el trato digno y preferente a las víctimas.”]
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -475,17 +417,7 @@ Las medidas de asistencia y atención no sustituyen ni reemplazan a las medidas 
 
 El Estado debe cubrir las erogaciones derivadas de las medidas de ayuda inmediata, ayuda, asistencia, atención y rehabilitación que brinde la Comisión Ejecutiva Estatal a través de los Recursos de Ayuda.
 
-[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE QUE ESTE TERCER PÁRRAFO DEL ARTÍCULO 12 SE MODIFICÓ CONFORME AL TEXTO QUE TENÍA ANTES DEL DECRETO DE REFORMA INTEGRAL, DEL 31 DE OCTUBRE DE 2017. SE SUGIERE CONSULTAR EL TEXTO COMPLETO DE ESTE ARTÍCULO EN LA CRONOLOGÍA DE REFORMAS HASTA ANTES DEL DECRETO DE REFORMA INTEGRAL DEL 31 DE OCTUBRE DE 2017. A SABER: "Artículo 12. .
-
-I. a III. .
-
-.
-
-Las víctimas de delitos o de violaciones de derechos contra la libertad y la integridad, recibirán ayuda médica y psicológica especializada de urgencia en los términos de la presente Ley y demás normativa aplicable. Además en los casos del delito de Trata de Personas las autoridades competentes deberán de realizar las acciones que resulten necesarias para otorgar la ayuda, asistencia y atención que requiera la víctima conforme la competencia prevista en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos y demás normativa aplicable.
-
-.
-
-. ."]
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -653,7 +585,7 @@ En caso de que la Comisión Ejecutiva Estatal no haya cubierto los gastos referi
 
 Cuando la víctima se encuentre amenazada en su integridad personal o en su vida o existan razones fundadas para pensar que estos derechos están en riesgo, en razón del delito o de la violación de derechos humanos sufrida, las autoridades del orden estatal o municipal de acuerdo con sus competencias y capacidades, adoptarán con carácter inmediato, las medidas de protección que sean necesarias para evitar que la víctima sufra alguna lesión o daño; para su implementación deberán observarse los principios a que refiere la Ley General.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE QUE ESTE ARTÍCULO 27 SE MODIFICÓ CONFORME AL TEXTO QUE TENÍA ANTES DEL DECRETO DE REFORMA INTEGRAL, DEL 31 DE OCTUBRE DE 2017, A SABER: "Artículo 27.- Cuando la víctima se encuentre en un lugar distinto a su lugar de residencia y desee regresar, el Poder Ejecutivo Estatal cubrirá los gastos correspondientes, garantizando, en todos los casos, que el medio de transporte usado por la víctima para su regreso sea el más seguro y el que le cause menos molestia de acuerdo con sus condiciones. La persona titular del Poder Ejecutivo del Estado reglamentará lo concerniente a los procedimientos necesarios que permitan garantizar que dicho retorno sea de carácter voluntario, seguro y digno."]</small>
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -728,6 +660,8 @@ El Sistema Estatal de Seguridad Pública recabará y concentrará información e
 ###### Artículo 33.
 
 Conforme a los lineamientos desarrollados por la Comisión Ejecutiva Estatal, las diferentes instituciones del Poder Ejecutivo Estatal y los Municipios deberán contar con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente Ley y, en particular, el enfoque diferencial para los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
+
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 > <small>(ADICIONADO, P.O. DE 10 DE ABRIL DE 2019)</small>
 
@@ -1607,29 +1541,7 @@ VIII. Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 IX. Las demás aplicables a la materia, que les conceda la Ley u otros ordenamientos jurídicos aplicables.
 
-[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE QUE LAS FRACCIONES I, II, III Y IV DEL CUARTO PÁRRAFO, AL IGUAL QUE LOS PÁRRAFOS PENÚLTIMO Y ÚLTIMO DEL ARTÍCULO 102 SE MODIFICARON CONFORME AL TEXTO QUE TENÍA ANTES DEL DECRETO DE REFORMA INTEGRAL, DEL 31 DE OCTUBRE DE 2017. SE SUGIERE CONSULTAR EL TEXTO COMPLETO DE ESTE ARTÍCULO EN LA CRONOLOGÍA DE REFORMAS HASTA ANTES DEL DECRETO DE REFORMA INTEGRAL DEL 31 DE OCTUBRE DE 2017, A SABER: "ARTÍCULO 102. …
-
-…
-
-…
-
-I y II. …
-
-…
-
-I. La persona titular del Poder Ejecutivo Estatal o el servidor público que éste designe, quien lo presidirá;
-
-II. La persona titular de la Secretaría de Desarrollo Social;
-
-III. Dos Diputados del Congreso al Estado, designados por el Pleno de la Asamblea Legislativa, a propuesta de los integrantes del órgano político de la misma; y
-
-IV. Los cinco comisionados o comisionadas a que se hace alusión en el siguiente artículo.
-
-…
-
-La persona titular del Poder Ejecutivo Estatal, designará a la persona titular de la Coordinación Ejecutiva, en los términos dispuestos en el Estatuto Orgánico, con apego a las disposiciones contenidas en la Ley Orgánica de la Administración Pública del Estado de Morelos, respecto de los requisitos a cumplir y atribuciones de los titulares de los organismos auxiliares.
-
-La persona titular del Ejecutivo Estatal expedirá el Reglamento de esta Ley."]
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -1659,21 +1571,7 @@ Todo empleador de una víctima, sea público o privado, deberá permitir y respe
 
 ### CAPÍTULO XII. DEL SISTEMA ESTATAL DE ATENCIÓN A VÍCTIMAS
 
-[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE QUE ESTAS FRACCIONES XIV, XVI Y XXXII DEL ARTÍCULO 104 SE MODIFICARON CONFORME AL TEXTO QUE TENÍA ANTES DEL DECRETO DE REFORMA INTEGRAL, DEL 31 DE OCTUBRE DE 2017. SE SUGIERE CONSULTAR EL TEXTO COMPLETO DE ESTE ARTÍCULO EN LA CRONOLOGÍA DE REFORMAS HASTA ANTES DEL DECRETO DE REFORMA INTEGRAL DEL 31 DE OCTUBRE DE 2017, A SABER: "ARTÍCULO 104. …
-
-I. A la XIII. …
-
-XIV. Nombrar, de entre las propuestas que le presente la persona titular de la Coordinación Ejecutiva, a las personas titulares del Fondo, Asesoría Jurídica y del Registro estatales, y demás responsables de las dependencias que establezca la estructura orgánica;
-
-XV.…
-
-XVI. Proponer a la persona titular del Poder Ejecutivo los proyectos de Reglamento de la presente Ley y otros reglamentos que resulten necesarios, así como sus reformas y adiciones;
-
-XVII. a XXXI. …
-
-XXXII. Recibir y evaluar los informes rendidos por quien sea la persona titular de la Coordinación Ejecutiva, incluyendo las incidencias del Fondo, de la Asesoría Jurídica y del Plan y emitir las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia; y
-
-XXXIII. … ."]
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -1691,7 +1589,7 @@ El Sistema Estatal deberá realizar las acciones necesarias para guardar la vinc
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, así como los sectores social y privado, deberán coordinarse para establecer los mecanismos de organización, supervisión, evaluación y control de los servicios en materia de protección, ayuda, asistencia y atención, acceso a la justicia, a la verdad y reparación integral a víctimas, previstos en esta Ley.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE QUE ESTE PRIMER PÁRRAFO DEL ARTÍCULO 105 SE MODIFICÓ CONFORME AL TEXTO QUE TENÍA ANTES DEL DECRETO DE REFORMA INTEGRAL, DEL 31 DE OCTUBRE DE 2017, A SABER: "ARTÍCULO 105. Para coadyuvar a la Comisión Estatal Ejecutiva y fungir como vínculo con las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, la persona Titular del Poder Ejecutivo del Estado integrará, con fundamento en el ejercicio de las facultades que se le otorgan en la Ley Orgánica de la Administración del Estado de Morelos, una Comisión Intersecretarial, compuesta por las personas Titulares de las Secretarías de Gobierno, Hacienda, Educación, Salud y Cultura o cualquiera otra, conforme a lo dispuesto en el Acuerdo que al efecto emita la persona titular del Poder Ejecutivo Estatal, quienes podrán nombrar representantes con nivel mínimo de Director General."]</small>
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -2179,9 +2077,7 @@ La solicitud de inscripción de la víctima no implica de oficio su ingreso al R
 
 El ingreso al Registro podrá solicitarse y tramitarse de manera personal y directa por la víctima, o a través de representante que, además de cumplir con las disposiciones aplicables, esté debidamente inscrito en el padrón de representantes que al efecto establezca la Comisión Ejecutiva Estatal, conforme a lo que se determine en las disposiciones reglamentarias correspondientes.
 
-[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE QUE ESTE PRIMER PÁRRAFO DEL ARTÍCULO 127 SE MODIFICÓ CONFORME AL TEXTO QUE TENÍA ANTES DEL DECRETO DE REFORMA INTEGRAL, DEL 31 DE OCTUBRE DE 2017. SE SUGIERE CONSULTAR EL TEXTO COMPLETO DE ESTE ARTÍCULO EN LA CRONOLOGÍA DE REFORMAS HASTA ANTES DEL DECRETO DE REFORMA INTEGRAL DEL 31 DE OCTUBRE DE 2017, A SABER: "ARTÍCULO 127. La persona Titular del Fondo tendrá las atribuciones y deberes que el Reglamento de esta Ley le confiera. En especial tendrá las obligaciones y atribuciones siguientes:
-
-… ."]
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -2201,7 +2097,7 @@ En los casos en que existiere soporte documental de los registros que reconocen 
 
 Dichas entidades serán responsables por el contenido de la información que transmiten al Registro Estatal de Víctimas.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE QUE ESTE SEGUNDO PÁRRAFO DEL ARTÍCULO 128 SE MODIFICÓ CONFORME AL TEXTO QUE TENÍA ANTES DEL DECRETO DE REFORMA INTEGRAL, DEL 31 DE OCTUBRE DE 2017, A SABER: "ARTÍCULO 128. La persona Titular del Fondo será el responsable de entregar la indemnización o compensación que corresponda otorgar a la víctima, previa autorización que al respecto emita la Comisión Ejecutiva Estatal. El pago de las indemnizaciones se regirá en los términos dispuestos por la presente Ley."]</small>
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -2417,9 +2313,7 @@ Cuando la situación lo amerite, en términos de lo establecido en el Reglamento
 
 #### SECCIÓN PRIMERA. DE LA ADMINISTRACIÓN
 
-[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 14 PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019, SE ADVIERTE QUE ESTE PRIMER PÁRRAFO DEL ARTÍCULO 143 SE MODIFICÓ CONFORME AL TEXTO QUE TENÍA ANTES DEL DECRETO DE REFORMA INTEGRAL, DEL 31 DE OCTUBRE DE 2017, A SABER: "ARTÍCULO 143. La persona Titular del Poder Ejecutivo Estatal reglamentará lo pertinente acerca de la conformación, garantía de capacidad institucional y funciones de la Asesoría Jurídica de Atención a las Víctimas del Estado de Morelos, determinando los ajustes institucionales necesarios y respetando los criterios generales establecidos por la Ley General de Víctimas.
-
-… ."]
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 > <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -3124,3 +3018,45 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL “DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO”.]</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan los artículos dispositivos Séptimo, Décimo Cuarto, Décimo Sexto, Décimo Séptimo, Vigésimo y Vigésimo Primero, del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO; incluidas las reformas en ellos contenidas a la Ley Orgánica de la Administración Pública del Estado de Morelos, la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos, la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos, la Ley Estatal de Responsabilidades de los Servidores Públicos, el Código Procesal Civil para el Estado Libre y Soberano de Morelos y el Código Procesal Familiar para el Estado Libre y Soberano de Morelos; para quedar como sigue:
+
+###### ARTÍCULO SÉPTIMO.
+
+Derogado.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Derogado.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Derogado.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Derogado.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Derogado.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Derogado.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL “DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial “Tierra y Libertad”, número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
