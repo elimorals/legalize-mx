@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidades-administrativas-para-el-estado-de-1227
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2018-05-31"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 18 de julio de 2017.
 
@@ -1257,9 +1257,11 @@ Las preguntas que se formulen a los testigos, así como sus correspondientes res
 
 Los testigos podrán ser tachados por las partes en la vía incidental en los términos previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 158.
 
-Son pruebas documentales todas aquellas en las que conste información de manera escrita, visual o auditiva, sin importar el material, formato o dispositivo en la que esté plasmada o consignada. La Autoridad Resolutora del asunto podrá solicitar a las partes que aporten los instrumentos tecnológicos necesarios para la apreciación de los documentos ofrecidos cuando éstos no estén a su disposición. En caso de que las partes no cuenten con tales instrumentos, dicha autoridad podrá solicitar la colaboración de la Procuraduría General de Justicia del Estado, o bien, de las instituciones públicas de educación superior, para que le permitan el acceso al instrumental tecnológico necesario para la apreciación de las pruebas documentales.
+Son pruebas documentales todas aquellas en las que conste información de manera escrita, visual o auditiva, sin importar el material, formato o dispositivo en la que esté plasmada o consignada. La Autoridad Resolutora del asunto podrá solicitar a las partes que aporten los instrumentos tecnológicos necesarios para la apreciación de los documentos ofrecidos cuando éstos no estén a su disposición. En caso de que las partes no cuenten con tales instrumentos, dicha autoridad podrá solicitar la colaboración de la Fiscalía General del Estado, o bien, de las instituciones públicas de educación superior, para que le permitan el acceso al instrumental tecnológico necesario para la apreciación de las pruebas documentales.
 
 ###### Artículo 159.
 
@@ -1289,9 +1291,11 @@ III. Los documentos cuya letra, firma o huella digital haya sido declarada en la
 
 IV. Las letras, firmas o huellas digitales que hayan sido puestas en presencia de la Autoridad Resolutora en actuaciones propias del procedimiento de responsabilidad, por la parte cuya firma, letra o huella digital se trate de comprobar.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 164.
 
-La Autoridad Substanciadora o resolutora podrá solicitar la colaboración de la Procuraduría General de Justicia del Estado, para determinar la autenticidad de cualquier documento que sea cuestionado por las partes.
+La Autoridad Substanciadora o Resolutora podrá solicitar la colaboración de la Fiscalía General del Estado, para determinar la autenticidad de cualquier documento que sea cuestionado por las partes.
 
 ###### Artículo 165.
 
@@ -1341,9 +1345,11 @@ Presentados los dictámenes por parte de los peritos, la Autoridad Resolutora co
 
 Las partes absolverán los costos de los honorarios de los peritos que ofrezcan.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 176.
 
-De considerarlo pertinente, la Autoridad Resolutora del asunto podrá solicitar la colaboración de la Procuraduría General de Justicia del Estado, o bien, de instituciones públicas de educación superior, para que, a través de peritos en la ciencia, arte, técnica, industria, oficio o profesión adscritos a tales instituciones, emitan su dictamen sobre aquellas cuestiones o puntos controvertidos por las partes en el desahogo de la prueba pericial, o sobre aquellos aspectos que estime necesarios para el esclarecimiento de los hechos.
+De considerarlo pertinente, la Autoridad Resolutora del asunto podrá solicitar la colaboración de la Fiscalía General del Estado, o bien, de instituciones públicas de educación superior, para que, a través de peritos en la ciencia, arte, técnica, industria, oficio o profesión adscritos a tales instituciones, emitan su dictamen sobre aquellas cuestiones o puntos controvertidos por las partes en el desahogo de la prueba pericial, o sobre aquellos aspectos que estime necesarios para el esclarecimiento de los hechos.
 
 ###### Artículo 177.
 
@@ -1772,3 +1778,9 @@ P.O. 31 DE MAYO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO DÉCIMO OCTAVO. SE REFORMAN LOS ARTÍCULOS 158, 164 Y 176 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
