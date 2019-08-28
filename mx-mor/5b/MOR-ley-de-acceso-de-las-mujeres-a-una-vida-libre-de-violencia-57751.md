@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2019-05-22"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -279,39 +277,15 @@ El Estado y los Municipios participaran de manera conjunta en la implementación
 
 ### CAPÍTULO VI BIS. DE LA VIOLENCIA POLÍTICA
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 19 Quater.
 
-La violencia contra las mujeres en el ámbito político es cualquier acto u omisión que limite, niegue, obstaculice, lesione, dañe la integridad y libertad de las mujeres a ejercer en plenitud sus derechos políticos en cuestiones como:
+La violencia política es cualquier acción, conducta u omisión, que basada en elementos de género, tenga por objeto o resultado menoscabar, anular, obstaculizar o restringir el reconocimiento o ejercicio de los derechos políticos de las mujeres, su participación en asuntos públicos, o de las prerrogativas inherentes a un cargo público.
 
-I.- Participación igualitaria en materia política;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-II.- Acceso a puestos públicos por elección o designación estatal como municipal, en agrupaciones, partidos políticos o función pública;
-
-III.- Acceso a los medios, información, recursos presupuestarios y espacios públicos, necesarios para su desarrollo, promoción, capacitación y participación;
-
-IV.- El acceso a programas, proyectos, actividades a los que sean sujetas de derecho;
-
-V.- La libre expresión de sus ideas, filiación o visión política;
-
-VI.- El respeto a sus opiniones, imagen, posturas y posicionamientos, y
-
-VII.- La erradicación al acoso, violencia y agresiones por razones políticas.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE ABRIL DE 2019)</small>
-
-Artículo 19 Quintus.- El Estado y los Municipios, deberán garantizar e impulsar la defensa del pleno ejercicio de los derechos políticos de las mujeres, debiendo implementar políticas públicas con el fin de erradicar la violencia política, como una práctica que atenta contra los derechos de las mujeres. Con tal fin, en el ámbito de sus competencias, deberán:
-
-I.- Realizar las reformas necesarias a sus ordenamientos jurídicos a fin de garantizar a las mujeres una vida libre de violencia en el ámbito político, con disposiciones que garanticen la protección de las mujeres que incursionan en las actividades políticas y sancionen las acciones u omisiones que impidan o dificulten su participación;
-
-II.- Establecer políticas públicas que garanticen a las mujeres el derecho a una vida libre de violencia en el ámbito político;
-
-III.- Establecer acciones a fin de que las mujeres conozcan y hagan uso de las instituciones y los instrumentos legales que existen para defender sus derechos político electorales y, si son víctimas de discriminación o violencia, denuncien, demanden o impugnen;
-
-IV.- Documentar los casos de violencia contra las mujeres en la actividad política, y
-
-V.- Impulsar la investigación en el tema en las instituciones de carácter público.
+Artículo 19 Quintus.- Las autoridades de los distintos órdenes de gobierno, el Instituto Morelense de Procedimientos Electorales y Participación Ciudadana, la Fiscalía General del Estado de Morelos, el Tribunal Electoral del Estado de Morelos y los demás integrantes del Sistema Estatal, coordinarán las acciones e instrumentos interinstitucionales que permitan avanzar en materia de combate de la violencia política contra las mujeres.
 
 ### CAPÍTULO VII. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
 
@@ -743,7 +717,9 @@ VIII.- El Instituto de la Mujer para el Estado de Morelos, que ocupará la Secre
 
 IX.- El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-X.- La Secretaría del Trabajo;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+X.- La Secretaría de Desarrollo Económico y del Trabajo;
 
 XI.- La Secretaría de Desarrollo Social;
 
@@ -751,7 +727,9 @@ XII.- La Secretaría de Desarrollo Agropecuario;
 
 XIII.- El Instituto de Desarrollo y Fortalecimiento Municipal, y
 
-XIV.- La Comisión de Equidad de Género del Congreso del Estado de Morelos.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XIV.- La Comisión de Igualdad de Género del Congreso del Estado de Morelos.
 
 Lo anterior sin perjuicio de la participación que se requiera de las personas titulares del resto de las Secretarías, Dependencias y Entidades que forman parte de la Administración Pública Estatal, quienes podrán ser convocadas cuando los asuntos a tratar en las sesiones correspondientes sean de su competencia y conforme a lo dispuesto en el Reglamento de la presente Ley.
 
@@ -1183,29 +1161,45 @@ VII.- Capacitar y sensibilizar al personal para proporcionar una atención con p
 
 VIII.- Las demás previstas para el cumplimiento de esta ley.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2019)</small>
 
-#### SECCIÓN DÉCIMA. DE LA SECRETARÍA DEL TRABAJO
+#### SECCIÓN DÉCIMA. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y DEL TRABAJO
 
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 59 Bis.
 
-Corresponde a la Secretaría del Trabajo:
+Corresponde a la Secretaría de Desarrollo Económico y del Trabajo:
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 I.- Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 II.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 III.- Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 IV.- Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 V.- Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 VI.- Establecer, utilizar y supervisar todos los instrumentos y acciones del Sistema Estatal, así como participar en la elaboración del Programa Estatal;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
+
 VII.- Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2019)</small>
 
 VIII.- Las demás previstas para el cumplimiento de la presente Ley.
 
@@ -1507,7 +1501,7 @@ Se derogan todas las disposiciones que se opongan con lo dispuesto por el presen
 
 P.O. 12 DE ABRIL DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS SEIS POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, Y DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, CON EL PROPÓSITO DE COMBATIR DE MANERA INTEGRAL LA VIOLENCIA POLÍTICA EN CONTRA DE LAS MUJERES".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS SEIS POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MÓRELOS, DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, DE LA LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, Y DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, CON EL PROPÓSITO DE COMBATIR DE MANERA INTEGRAL LA VIOLENCIA POLÍTICA EN CONTRA DE LAS MUJERES".]
 
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -1638,3 +1632,15 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega - recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial "Tierra y Libertad" 5611.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL “DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial “Tierra y Libertad”, número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
