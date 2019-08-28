@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-etica-de-los-servidores-publicos-del-poder-96677"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-20"
-last_updated: "2017-12-19"
+last_updated: "2019-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,21 @@ state: "TAM"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA DE LAS Y LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS TERCERO DEL CÓDIGO DE ÉTICA DE LAS Y LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE TAMAULIPAS Y DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE TAMAULIPAS, PUBLICADOS EN EL P.O. DE 19 DE DICIEMBRE DE 2017 Y P.O. 28 DE AGOSTO DE 2019, RESPECTIVAMENTE; EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2017 (ABROGADO).
 
+(REPUBLICADA SU ABROGACIÓN, P.O. 28 DE AGOSTO DE 2019)
+
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 20 de noviembre del 2013.
 
 EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, en ejercicio de las facultades que al Ejecutivo a mi cargo confieren los artículos 77, 91 fracciones VI, XI y XX, 93, 95, 134 segundo párrafo y 149 de la Constitución Política del Estado; 2 párrafo 1, 3, 10, 15, 22 párrafo 1, 24 fracción XXVIII y 37 fracción XIV de la Ley Orgánica de la Administración Pública del Estado de Tamaulipas; y 47 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 En mérito de la fundamentación y motivación expuestas, he tenido a bien expedir el siguiente:
 
@@ -120,3 +124,13 @@ Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 Segundo. La Dependencia o Entidad del Poder Ejecutivo del Gobierno del Estado, a través de sus Comités, emitirán las reformas necesarias a sus Códigos de Conducta para que se ajusten al presente Código.
 
 Tercero. Se abroga el Código de Ética de las y los Servidores Públicos del Poder Ejecutivo del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado, el día 20 de noviembre del 2013.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE TAMAULIPAS".]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+Segundo. La Dependencia o Entidad del Poder Ejecutivo del Gobierno del Estado, a través de sus Comités, emitirán las reformas necesarias a sus Códigos de Conducta para que se ajusten al presente Código.
+
+Tercero. Se abroga el Código de Ética de las y los Servidores Públicos del Poder Ejecutivo del Estado de Tamaulipas, publicado en el Periódico Oficial del Estado, el día 20 de noviembre del 2013. Dado en Ciudad Victoria, Capital del Estado de Tamaulipas, a los 30 días del mes de noviembre de dos mil diecisiete, el Titular de la Contraloría Gubernamental del Estado de Tamaulipas.
