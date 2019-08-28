@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-anticorrupcion-para-el-estado-de-122704
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, el martes 18 de julio de 2017.
 
@@ -545,7 +545,9 @@ VII. No haber sido registrado como candidato, ni haber desempeñado cargo alguno
 
 VIII. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos cuatro años anteriores a la designación; y,
 
-IX. No ser Secretario de Estado, ni Procurador General de la República o Procurador de Justicia de alguna Entidad Federativa, Subsecretario u Oficial Mayor en la Administración Pública Federal o Estatal, Jefe de Gobierno de la Ciudad de México, ni Gobernador, ni Secretario de Gobierno, Consejero de la Judicatura, a menos que se haya separado de su cargo un año antes al día de su designación.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+IX. No ser Secretario de Estado, ni Fiscal General de la República o Fiscal General de alguna Entidad Federativa, Subsecretario u Oficial Mayor en la Administración Pública Federal o Estatal, Jefe de Gobierno de la Ciudad de México, ni Gobernador, ni Secretario de Gobierno, Consejero de la Judicatura, a menos que se haya separado de su cargo un año antes al día de su designación.
 
 ###### Artículo 37.
 
@@ -780,3 +782,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 06 seis días del mes de julio del año 2017 dos mil diecisiete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- LIC. ADRIÁN LÓPEZ SOLÍS.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO VIGÉSIMO SEGUNDO.- SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 36 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
