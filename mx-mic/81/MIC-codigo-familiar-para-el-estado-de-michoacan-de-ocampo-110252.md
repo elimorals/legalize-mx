@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2017-08-18"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -789,7 +789,9 @@ Los derechos y obligaciones contraídas (sic) con anterioridad al proceso admini
 
 El acta de nacimiento primigenia quedará reservada, no se publicará y solo se expedirá, a petición del registrado, de la investigación del delito o por disposición judicial.
 
-Cumplido el trámite, se enviarán los oficios con la información en calidad de reservada a la Secretaría de Gobernación, Secretaría de Hacienda y Crédito Público, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Procuraduría General de la República, Centro Nacional de Información del Sistema Nacional, al Consejo de la Judicatura Federal y al Supremo Tribunal de Justicia del Estado; además quedan vinculadas todas las autoridades para los efectos legales a que haya lugar.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+Cumplido el trámite, se enviarán los oficios con la información en calidad de reservada a la Secretaría de Gobernación, Secretaría de Hacienda y Crédito Público, Secretaría de Educación Pública, Secretaría de Salud, Secretaría de Relaciones Exteriores, Instituto Nacional Electoral, Fiscalía General de la República, Centro Nacional de Información del Sistema Nacional, al Consejo de la Judicatura Federal y al Supremo Tribunal de Justicia del Estado; además quedan vinculadas todas las autoridades para los efectos legales a que haya lugar.
 
 ###### Artículo 118.
 
@@ -7574,3 +7576,9 @@ P.O. 18 DE AGOSTO DE 2017.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 390 POR EL QUE “SE REFORMA EL ARTÍCULO 117 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO TRIGÉSIMO SÉPTIMO.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
