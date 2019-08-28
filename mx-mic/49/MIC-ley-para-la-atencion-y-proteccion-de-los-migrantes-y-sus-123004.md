@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-y-proteccion-de-los-migrantes-y-sus-123004
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-18"
-last_updated: "2018-08-14"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 18 de agosto de 2017.
 
@@ -383,7 +383,9 @@ c) Seguridad Pública;
 
 d) Educación;
 
-e) Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+e) Fiscalía General del Estado;
 
 f) Finanzas y Administración;
 
@@ -1114,3 +1116,9 @@ P.O. 14 DE AGOSTO DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. La Secretaría contará con 180 días, contados a partir de la entrada en vigor del presente Decreto, para iniciar la certificación de sus procesos. En caso de que, derivado de su asignación presupuestal no contara con el recurso económico necesario para dicho proceso, podrá auxiliarse de la Secretaría de Finanzas y Administración, a través de la Subsecretaría de Administración e Innovación de Procesos.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 147.- ARTÍCULO VIGÉSIMO NOVENO.- SE REFORMA EL INCISO E) DE LA FRACCIÓN III, DEL APARTADO A DEL ARTÍCULO 20 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
