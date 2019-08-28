@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2018-10-17"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -3205,9 +3205,9 @@ h) Declaración de intereses: Deberá manifestar aquellas actividades o relacion
 
 i) Declaración de situación fiscal emitida por la autoridad fiscal correspondiente; y,
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-j) Cartas de no antecedentes penales, expedidas por la Procuraduría General de Justicia del Estado y la Procuraduría General de la República, respectivamente, con una antigüedad no mayor a treinta días a la fecha de su presentación.
+j) Cartas de no antecedentes penales, expedidas por la Fiscalía General del Estado y la Fiscalía General de la República, respectivamente, con una antigüedad no mayor a treinta días a la fecha de su presentación.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2018)</small>
 
@@ -5481,6 +5481,12 @@ TERCERO. El Poder Judicial del Estado de Michoacán; el Instituto Electoral de M
 
 P.O. 17 DE OCTUBRE DE 2018.
 
-## [N. DE E. TRANSITORIO DEL DECRETO 646 POR EL QUE "SE REFORMA EL ARTÍCULO 230 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIO DEL DECRETO 646 POR EL QUE “SE REFORMA EL ARTÍCULO 230 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor una vez concluido el proceso electoral 2018 conforme a lo establecido en el Código Electoral y al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO TRIGÉSIMO SEXTO. SE REFORMA EL INCISO J) DE LA FRACCIÓN II DEL ARTÍCULO 189 DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
