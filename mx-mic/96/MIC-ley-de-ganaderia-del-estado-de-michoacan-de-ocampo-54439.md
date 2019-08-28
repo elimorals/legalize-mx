@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ganaderia-del-estado-de-michoacan-de-ocampo-54439"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-02"
-last_updated: "2018-10-17"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 2 de marzo de 2007.
 
@@ -201,7 +201,9 @@ III. Los ayuntamientos.
 
 Son autoridades coadyuvantes para efectos de esta Ley y su Reglamento en el ámbito de sus respectivas competencias:
 
-I. La Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+I. La Fiscalía General del Estado;
 
 II. La Secretaría de Seguridad Pública; y,
 
@@ -1316,3 +1318,9 @@ P.O. 17 DE OCTUBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El Ejecutivo del Estado contará con un término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, para adecuar el reglamento correspondiente.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO DÉCIMO.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 7 DE LA LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
