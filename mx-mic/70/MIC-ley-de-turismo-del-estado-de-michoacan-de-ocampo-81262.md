@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2019-05-22"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -107,7 +107,9 @@ IX. PATRIMONIO TURÍSTICO: El conjunto de bienes tangibles e intangibles que por
 
 X. PRESTADOR DE SERVICIOS TURÍSTICOS: La persona física o moral que habitualmente proporcione, intermedie o contrate con el turista, la prestación de los servicios a que se refiere la presente Ley;
 
-XI. PROCURADURÍA: A la Procuraduría General de Justicia del Estado de Michoacán;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XI. FISCALÍA: La Fiscalía General del Estado;
 
 XII. PROGRAMA ESTATAL DE TURISMO: Es aquel en el cual se establecen las estrategias, objetivos y acciones en materia turística, con la finalidad de promover el desarrollo turístico en el Estado, de acuerdo a los Planes Nacional y Estatal de Desarrollo, así como al Programa Sectorial de Turismo Federal;
 
@@ -333,9 +335,11 @@ V. En lo que corresponda, auxiliar como órgano de enlace con el consulado respe
 
 VI. En lo que corresponda, auxiliar como órgano de enlace con el consulado respectivo, cuando se trate de quejas provenientes desde el extranjero. Cuando se trate de turistas nacionales brindar la debida representación, si éste no está en posibilidades de comparecer personalmente, con motivo de las denuncias que presenten en contra de prestadores de servicios turísticos y servidores públicos.
 
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 18.
 
-Para los casos de la comisión de delitos en contra de turistas, la Secretaría, en coordinación con la Procuraduría, podrán establecer mecanismos o medidas adecuadas de atención y protección al turista, para lo cual celebrarán convenios de colaboración tanto al interior del Estado, como con otras instituciones de procuración de justicia de otras entidades federativas y, en su caso, con la Federación.
+Para los casos de la comisión de delitos en contra de turistas, la Secretaría, en coordinación con la Fiscalía, podrán establecer mecanismos o medidas adecuadas de atención y protección al turista, para lo cual celebrarán convenios de colaboración tanto al interior del Estado, como con otras instituciones de procuración de justicia de otras entidades federativas y, en su caso, con la Federación.
 
 ###### ARTÍCULO 19.
 
@@ -1382,3 +1386,9 @@ P.O. 22 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 126 POR EL QUE “SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 9 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- "ARTÍCULO VIGÉSIMO.- SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 4 Y EL ARTÍCULO 18 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
