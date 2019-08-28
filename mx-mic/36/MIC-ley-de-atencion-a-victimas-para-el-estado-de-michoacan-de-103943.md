@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-atencion-a-victimas-para-el-estado-de-michoacan-de-10394
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-10"
-last_updated: "2017-09-28"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 10 de diciembre de 2014.
 
@@ -347,7 +347,9 @@ b) El titular de la Secretaría de Gobierno;
 
 c) El titular de la Secretaría de Finanzas y Administración;
 
-d) El titular de la Procuraduría General de Justicia;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+d) El titular de la Fiscalía General del Estado;
 
 e) El titular de la Secretaría de Seguridad Pública;
 
@@ -1168,3 +1170,9 @@ SEXTO. El Congreso del Estado autorizará al Titular del Ejecutivo Estatal las m
 SÉPTIMO. La Comisión Ejecutiva deberá realizar las adecuaciones conducentes en términos del presente Decreto, en un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto. De igual forma deberá hacer las previsiones presupuestales necesarias para la operación de la presente Ley en el siguiente ejercicio fiscal, a su entrada en vigor.
 
 OCTAVO. La Secretaría de Finanzas y Administración supervisará que los recursos financieros, humanos y materiales destinados a la atención a víctimas de delitos o de violación a derechos humanos de la Procuraduría General de Justicia del Estado, se asignen a la Comisión Ejecutiva Estatal de Atención a Víctimas en un periodo no mayor a 90 días, con excepción de los destinados a la atención a víctimas en materia de delito de secuestro, los cuales continuarán formando parte de los recursos de la Procuraduría General de Justicia del Estado.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO TERCERO.- SE REFORMA EL INCISO D) DE LA FRACCIÓN I DEL ARTÍCULO 28 DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
