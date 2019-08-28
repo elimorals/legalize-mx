@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2018-12-21"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -1053,7 +1053,9 @@ VIII. Asesorar técnicamente a los ayuntamientos y a los sectores social y priva
 
 IX. Promover, en coordinación con la Secretaría de Finanzas y Planeación, el otorgamiento de estímulos de orden tributario con objeto de fomentar la participación de la iniciativa privada en la inversión productiva en la Entidad;
 
-X. Diseñar y establecer mecanismos administrativos tendientes a reducir y agilizar trámites en los procesos de establecimiento de nuevas empresas;
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2019)</small>
+
+X. En coordinación con autoridades federales, estatales y municipales, diseñar y establecer mecanismos administrativos tendientes a reducir y agilizar trámites en los procesos de establecimiento de nuevas empresas en un esquema de movilidad adecuada y desarrollo sustentable. Las autoridades que coincidan en cada proyecto, signarán los acuerdos de coordinación respectivos;
 
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -2850,3 +2852,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo contará con un plazo de sesenta días a partir de la entrada en vigor del presente Decreto para hacer las adecuaciones necesarias al Reglamento de la Ley que Regula las Construcciones Públicas y privadas del Estado de Veracruz de Ignacio de la Llave y demás disposiciones.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 289 QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 24 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
