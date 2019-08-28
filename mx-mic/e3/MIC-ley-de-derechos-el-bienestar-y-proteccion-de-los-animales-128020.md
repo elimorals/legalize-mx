@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-derechos-el-bienestar-y-proteccion-de-los-animales-12802
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2018-04-02"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DERECHOS Y PROTECCIÓN PARA LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Décima Sección del Núm. 58 del Periódico Oficial del Estado de Michoacán, el lunes 2 de abril de 2018.
 
@@ -109,7 +109,9 @@ IV. La Secretaría de Educación;
 
 V. La Secretaría de Seguridad Pública;
 
-VI. La Procuraduría General de Justicia del Estado de Michoacán; y,
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+VI. La Fiscalía General del Estado; y,
 
 VII. Los Gobiernos Municipales.
 
@@ -189,11 +191,15 @@ b) Los animales no humanos se encuentren en abandono o en situación de maltrato
 
 c) Se impida la venta de animales no humanos en la vía pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 11.
 
-Corresponde a la Procuraduría General de Justicia del Estado:
+Corresponde a la Fiscalía General del Estado:
 
-I. Recibir denuncias e integrar las carpetas de investigación, por incumplimiento a las disposiciones de esta Ley. En los lugares donde no existan oficinas de la Procuraduría, esta atribución corresponde a los gobiernos municipales a través del síndico municipal o quien ejerza esta función;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+I. Recibir denuncias e integrar las carpetas de investigación, por incumplimiento a las disposiciones de esta Ley. En los lugares donde no existan oficinas de la Fiscalía General, esta atribución corresponde a los gobiernos municipales a través del síndico municipal o quien ejerza esta función;
 
 II. Ejecutar acción penal en contra de quien incurra en la comisión de un delito en materia de la presente Ley; y,
 
@@ -646,3 +652,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- VICEPRESIDENTA DE LA MESA 
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 22 veintidós días del mes de marzo de 2018 dos mil dieciocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- ING. PASCUAL SIGALA PÁEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO QUINTO.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 5; Y EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL ARTÍCULO 11 DE LA LEY DE DERECHOS Y PROTECCIÓN PARA LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
