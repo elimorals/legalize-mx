@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2019-05-22"
+last_updated: "2019-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "MOR"
 
 [NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+[NOTA 3: DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL "DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO", PUBLICADO EN P.O. 10 DE ABRIL DE 2019]
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -117,13 +117,13 @@ El Gobernador del Estado es el Titular de la administración pública; a él cor
 
 El Gobernador del Estado contará con unidades de asesoría, de apoyo técnico, jurídico, de coordinación y de planeación del desarrollo que determine, de acuerdo con el presupuesto asignado a la administración pública. De igual forma podrá establecer unidades de dirección, control y supervisión del ejercicio del gasto público en todos sus aspectos, incluyendo las adquisiciones, enajenaciones, arrendamientos, obra pública y servicios relacionados con las mismas, a efecto de cumplir con el marco legal existente, de conformidad al Plan Estatal de Desarrollo, considerando inclusive la intervención respectiva en la concreción de Contratos Público Privados. Asimismo, se encuentra facultado para crear, mediante reglamento, decreto o acuerdo, los órganos desconcentrados, consejos, comisiones, comités y demás órganos de apoyo al desarrollo de las actividades de la administración pública del Estado.
 
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
+
 ###### Artículo 6.
 
 El Gobernador Constitucional del Estado, a través de las secretarías, dependencias y entidades privilegiará, promoverá y protegerá los derechos humanos, al ser éstos el eje central del proceso de planeación y desarrollo democrático del Estado, vigilando, en el ámbito de sus atribuciones, el respeto irrestricto de los derechos fundamentales de todas las personas.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
-
-En el diseño, ejecución, seguimiento y evaluación de las políticas públicas se tendrá como finalidad la eliminación de inequidades y desigualdades, con la aplicación de ejes transversales que conforman un gobierno red, rigiéndose, bajo el enfoque de los derechos humanos, por los principios de participación ciudadana, igualdad, equidad y perspectiva de género, coordinación, efectividad, sustentabilidad y pluralidad.
+En el diseño, ejecución, seguimiento y evaluación de las políticas públicas se tendrá como finalidad la eliminación de inequidades y desigualdades, con la aplicación de ejes transversales que conforman un gobierno red, rigiéndose, bajo el enfoque de los derechos humanos, por los principios de participación ciudadana, equidad de género, coordinación, efectividad, sustentabilidad y pluralidad.
 
 ###### Artículo 7.
 
@@ -131,13 +131,13 @@ Las secretarías, dependencias y entidades de la administración pública regir�
 
 En la ejecución del gobierno red a que se refiere el párrafo anterior, los sujetos participantes harán uso intensivo de las tecnologías de la información y comunicación, constituyendo una plataforma de gobierno digital, propiciando el acercamiento a la población a los trámites y servicios, con la finalidad de proporcionar información de manera clara y oportuna, contribuyendo a la democratización y socialización del conocimiento.
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 ###### Artículo 8.
 
-Los actos y procedimientos de la administración pública, se regirán por los principios de simplificación, agilidad, economía, información, precisión, legalidad, transparencia, austeridad, imparcialidad, equidad y perspectiva de género, en estricto respeto a los derechos humanos.
+Los actos y procedimientos de la administración pública, se regirán por los principios de simplificación, agilidad, economía, información, precisión, legalidad, transparencia, austeridad e imparcialidad, en estricto respeto a los derechos humanos.
 
-Los servidores públicos se sujetarán a los principios de legalidad, honradez, ética, lealtad, imparcialidad, eficiencia, no discriminación, profesionalización y eficacia, de conformidad con la Ley que expida, para este efecto, el Congreso del Estado.
+Los servidores públicos se sujetarán a los principios de legalidad, honradez, ética, lealtad, imparcialidad, eficiencia profesionalización y eficacia, de conformidad con la Ley que expida, para este efecto, el Congreso del Estado.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -2366,3 +2366,45 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega-recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL “DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO” QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO”.]</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan los artículos dispositivos Séptimo, Décimo Cuarto, Décimo Sexto, Décimo Séptimo, Vigésimo y Vigésimo Primero, del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO; incluidas las reformas en ellos contenidas a la Ley Orgánica de la Administración Pública del Estado de Morelos, la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos, la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos, la Ley Estatal de Responsabilidades de los Servidores Públicos, el Código Procesal Civil para el Estado Libre y Soberano de Morelos y el Código Procesal Familiar para el Estado Libre y Soberano de Morelos; para quedar como sigue:
+
+###### ARTÍCULO SÉPTIMO.
+
+Derogado.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Derogado.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Derogado.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Derogado.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Derogado.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Derogado.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL “DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial “Tierra y Libertad”, número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
