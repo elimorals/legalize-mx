@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-15838
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-03"
-last_updated: "2015-11-26"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EL DECRETO NUMERO 76, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 3 de junio de 1987.
 
@@ -77,921 +79,1195 @@ Generalidades.
 
 ## Transitorios.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2019)</small>
 
-### CAPITULO I. DEL PATRIMONIO E INVERSIONES
+### CAPÍTULO I. DEL RÉGIMEN DE SEGURIDAD SOCIAL
 
-###### ARTICULO 1.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-La presente Ley tiene por objeto el establecimiento de un régimen de Seguridad y Servicios Sociales en favor de los trabajadores públicos al servicio del Gobierno del Estado de Campeche, de sus Municipios y de los Organismos Públicos Descentralizados de carácter estatal, así como de sus familiares o dependientes económicos, con el propósito de proteger a los mismos y garantizarles los derechos que esta Ley les confiere.
+###### ARTÍCULO 1.
 
-###### ARTICULO 2.
+La presente Ley es de orden público e interés general, y tiene por objeto establecer un régimen de Seguridad Social en favor de las y los servidores públicos al servicio de los Poderes del Estado de Campeche, de los organismos descentralizados y de los Autónomos y, en su caso, de las y los servidores públicos de aquellos Municipios y Organismos Públicos Paramunicipales que se incorporen voluntariamente a ese régimen, con el propósito de proteger y garantizar las prestaciones que esta Ley les otorga.
 
-Para el cumplimiento de lo previsto en el Artículo anterior, se crea el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche, cuyas siglas serán: "ISSSTECAM". Este órgano será el encargado de la aplicación y cumplimiento de la presente Ley y para ello se le reconoce el carácter de Organismo Público Descentralizado, con personalidad jurídica, patrimonio, órganos de gobierno y administración propios. Su domicilio será la Ciudad de Campeche, Capital del Estado.
+La observancia de esta Ley es obligatoria para los sujetos de la misma, considerándose sujetos con derechos y obligaciones, los siguientes:
 
-###### ARTICULO 3.
+I. Entes Públicos:
 
-La observancia de esta Ley es obligatoria para los sujetos de la misma.
+a) La Administración Pública Centralizada, el Poder Legislativo, el Poder Judicial; y
 
-Son sujetos de esta Ley, con los derechos y obligaciones que imponen:
+b) La Administración Pública Paraestatal, así como los Organismos Públicos Autónomos, los Municipios y sus Entidades Paramunicipales que celebren o hayan celebrado un convenio de afiliación voluntaria, en el que se establezcan las modalidades, términos y condiciones de incorporación a este régimen.
 
-I.- El Gobierno del Estado de Campeche, los HH. Ayuntamientos de sus Municipios y sus Organismos Públicos Descentralizados; que en la presente Ley se les denominará Entidades Públicas;
+II. Las y los servidores públicos, entendiéndose por éstos, para los efectos de la presente Ley, a las personas que se encuentran mencionados en el artículo 89 de la Constitución Política del Estado de Campeche;
 
-II.- Los servidores públicos, entendiéndose por éstos para los efectos de la presente Ley, a las personas que mediante nombramiento por escrito de las Entidades señaladas, desempeñen un servicio remunerado de acuerdo a los respectivos presupuestos de egresos;
+III. Las personas que, de conformidad con esta Ley, adquieran el carácter de pensionadas o pensionados; y
 
-III.- Las personas que de conformidad con esta Ley, adquieran el carácter de jubilados o pensionados; y
+IV. Las y los familiares o dependientes económicos de las y los servidores públicos y de las y los pensionados.
 
-IV.- Los familiares o dependientes económicos de los servidores públicos y de los jubilados o pensionados.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 4.
+###### ARTÍCULO 2.
 
-Las personas derechohabientes que ampara la presente Ley son:
+Para efectos de esta Ley se entiende por:
 
-I.- Los trabajadores al servicio del Gobierno del Estado y de los Municipios;
+I. Afiliada o Afiliado: A la o el servidor público o sujeto de afiliación inscrito ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche, en los términos de esta Ley, así como al régimen obligatorio del Instituto Mexicano del Seguro Social;
 
-II.- Las personas que presten sus servicios en los organismos Públicos Descentralizados del Estado;
+II. Aportaciones: A las aportaciones de seguridad social establecidas en esta Ley a cargo del Ente Público;
 
-III.- Los jubilados y pensionados del Gobierno del Estado;
+III. Beneficiarias o Beneficiarios: A la o el cónyuge de la o el afiliado o la o el pensionado y a falta de éste, la concubina o el concubinario en su caso, así como las o los ascendientes y descendientes de la o el afiliado o la o el pensionado señalados en esta Ley;
 
-IV.- Los familiares o dependientes económicos de los servidores públicos y de los jubilados y pensionados, en los términos de esta Ley, y
+IV. Cuotas: A las aportaciones de seguridad social establecidas en esta Ley a cargo de la o el servidor público y/o la o el pensionado;
 
-V.- Las demás personas que por acuerdo del Instituto sean incorporadas a su régimen.
+V. Entes Públicos: A aquél que maneje, utilice, recaude, ejecute o administre recursos públicos:
 
-###### ARTICULO 5.
+a. Los Poderes Ejecutivo, Legislativo y Judicial; y
 
-No se considerarán servidores públicos:
+b. Los Organismos Públicos Descentralizados y los Autónomos, los Municipios y sus Entidades Paramunicipales, que celebren o hayan celebrado un convenio de afiliación voluntaria con el Instituto, en el que se establezcan las modalidades, términos y condiciones de incorporación a este régimen.
 
-I.- Las personas que presten sus servicios al Estado, Municipios, Organismos Públicos Descentralizados y al mismo Instituto mediante contrato sujeto a la legislación común;
+VI. IMSS: Al Instituto Mexicano del Seguro Social;
 
-II.- Quienes por cualquier motivo tengan percepciones con cargo a partida de honorarios y cuyos emolumentos no estén especificados en el inciso anterior; y
+VII. INPC: Al Índice Nacional de Precios al Consumidor;
 
-III.- Los trabajadores eventuales sujetos a trabajos inferiores a seis meses, así como los trabajadores de lista de raya.
+VIII. Instituto: Al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche;
 
-###### ARTICULO 6.
+IX. ISSSTE: Al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-Se establecen con carácter obligatorio, las siguientes prestaciones:
+X. Pensionada o Pensionado: La o el afiliado que por resolución del Instituto se le ha otorgado pensión por jubilación necesaria, voluntaria o complementaria, así como las y los beneficiarios de aquél cuando por resolución del Instituto se les ha otorgado pensión de viudez, orfandad o ascendencia;
 
-I.- Seguro de Prestaciones Médicas;
+XI. Seguro de Salud para la Familia: Seguro establecido en el Título Tercero, Capítulo Primero del Régimen Voluntario de la Ley del Seguro Social; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XII. Servidoras y Servidores Públicos: Las y los definidos en la Constitución Política del Estado de Campeche, adscritos a los Entes Públicos afiliados a este Instituto.
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-II.- Jubilaciones y Pensiones por Vejez, Invalidez, Viudez, Orfandad y Discapacidad;
+###### ARTÍCULO 3.
 
-III.- Seguro de Fallecimiento;
+Para el cumplimiento de lo previsto en el artículo 1 de esta Ley, se crea el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Campeche, cuyas siglas serán: "ISSSTECAM", y estará sectorizado a la Secretaría de Administración e Innovación Gubernamental del Poder Ejecutivo del Estado de Campeche. Este órgano será el encargado de la aplicación y cumplimiento de la presente Ley y para ello se le reconoce el carácter de Organismo Descentralizado, con personalidad jurídica y patrimonio propios, así como autonomía ejecutiva, operativa y de gestión; con órganos de gobierno y administración propios. Su domicilio estará ubicado en la Ciudad de San Francisco de Campeche, Capital del Estado de Campeche, y ejercerá sus facultades dentro de la circunscripción territorial del Estado.
 
-IV.- Seguro de Cesantía o Separación;
+###### ARTÍCULO 4.
 
-V.- Préstamos a Corto Plazo, Especiales e Hipotecarios;
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-VI.- Otras Prestaciones Sociales.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 7.
+###### ARTÍCULO 5.
 
-Los beneficiarios deberán cumplir con los requisitos que establece esta Ley y los reglamentos y acuerdos que expida el Instituto, para que puedan gozar de las prestaciones que les correspondan.
+No quedan comprendidos en el régimen de esta Ley:
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+I. Las personas que presten sus servicios en los Entes Públicos mediante contrato sujeto a la legislación civil o mercantil o quienes por cualquier motivo tengan percepciones en concepto de honorarios en los términos de la Ley del Impuesto Sobre la Renta; y
 
-###### ARTICULO 8.
+II. Las y los trabajadores eventuales, entendiéndose por éstos a los que tengan una relación de trabajo para obra determinada o por tiempo determinado en los términos de la Ley Federal del Trabajo.
 
-El Instituto proporcionará a todos sus beneficiarios una Cédula de Identificación permanente para que puedan ejercitar sus derechos, misma que deberá ser tramitada por el servidor público interesado, la organización sindical o la Dirección de Recursos Humanos correspondiente.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 9.
+###### ARTÍCULO 6.
+
+Se establece el otorgamiento de las siguientes prestaciones:
+
+I. Con carácter obligatorio, el Sistema de Pensiones y Seguros, constituido por:
+
+a) Pensiones por: Jubilación Necesaria o Voluntaria, Invalidez, Viudez, Orfandad, Discapacidad y Ascendientes;
+
+b) Seguro de Fallecimiento; y
+
+c) Seguro de Retiro.
+
+II. Con carácter facultativo:
+
+a) Préstamos; y
+
+b) Prestaciones Sociales.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 7.
+
+Para que las y los servidores públicos y sus beneficiarias y beneficiarios puedan gozar de las prestaciones que establece esta Ley, deberán estar afiliados o registrados al régimen obligatorio del IMSS, así como estar cubiertas las cuotas y aportaciones a que se refieren los artículos 30 y 31 de esta Ley, así como cumplir con los requisitos en ella establecidos, en sus Reglamentos y en los Lineamientos expedidos por el Instituto.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 8.
+
+La afiliación voluntaria a que se refiere el artículo 1 de esta Ley será a través de convenio de afiliación, en el que deberá establecerse:
+
+I. La fecha de inicio, reinicio o continuidad de la prestación de los servicios y los sujetos de aseguramiento que comprende;
+
+II. Su periodo de vigencia;
+
+III. Las prestaciones que se otorgarán;
+
+IV. Las cuotas y aportaciones a cargo de las y los afiliados y de los Entes Públicos;
+
+V. Los procedimientos de inscripción y los cobros de cuotas y aportaciones; y
+
+VI. Las demás modalidades que se requieran conforme a esta Ley y sus Reglamentos.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 9.
 
 Las controversias judiciales que surjan sobre la aplicación de esta Ley, así como todas aquéllas en que el Instituto tuviera el carácter de actor o demandado, serán de la competencia de los Tribunales del Estado.
 
-### CAPITULO II. GOBIERNO Y ADMINISTRACION
+> <small>(REFORMADO. P.O. 28 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+### CAPÍTULO II. PATRIMONIO E INVERSIONES
 
-###### ARTICULO 10.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 10.
 
 El patrimonio del Instituto lo constituirán:
 
-I.- Las propiedades, posesiones, derechos y obligaciones que al entrar en vigor esta Ley, integran el patrimonio de la Dirección de Pensiones Civiles del Estado de Campeche;
+I. Las cuotas de las o los servidores públicos y las o los pensionados;
 
-II.- Las aportaciones de los trabajadores y los pensionados en los términos de esta Ley;
+II. Las aportaciones que hagan los Entes Públicos;
 
-III.- Las aportaciones que hagan el Estado, Municipios y Organismos Públicos Descentralizados en los términos de esta Ley;
+III. Las propiedades, posesiones y derechos del Instituto;
 
-IV.- El importe e intereses de los créditos a favor del Instituto y a cargo de los trabajadores y del Estado, Municipios y Organismos Públicos Descentralizados;
+IV. El capital e intereses de los préstamos a favor del Instituto y a cargo de las y los afiliados;
 
-V.- Los intereses, rentas, plusvalías y demás utilidades que se obtengan de las inversiones que conforme a esta Ley haga el Instituto;
+V. Los montos de las actualizaciones que por el transcurso del tiempo y con motivo de los cambios de precios en el país se apliquen a las cuotas, aportaciones, préstamos y demás adeudos a favor del patrimonio del Instituto en términos de lo establecido en el Código Fiscal del Estado de Campeche;
 
-VI.- El importe de las indemnizaciones, pensiones caídas e intereses que prescriban en favor del Instituto;
+VI. Los intereses, rentas, plusvalías y demás utilidades que se obtengan de las inversiones que se realicen conforme a las disposiciones legales;
 
-VII.- El producto de las sanciones pecuniarias derivadas de la aplicación de esta Ley;
+VII. El importe de las indemnizaciones, pensiones caídas e intereses y recargos que prescriban en favor del Instituto;
 
-VIII.- Las donaciones, herencias y legados que se hicieren en favor del Instituto;
+VIII. Las donaciones, herencias y legados que se hicieren en favor del Instituto;
 
-IX.- Los muebles e inmuebles que el Estado, Municipios y Organismos Públicos Descentralizados destinen y entreguen para el servicio público que establece la presente Ley;
+IX. Los bienes muebles, inmuebles o de cualquier otra naturaleza que los Entes Públicos o terceros, transmitan a favor del Instituto;
 
-X.- Cualquiera otra percepción respecto de la cual el Instituto resultare beneficiario; y
+X. La reserva de equilibrio financiero; y
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1993)</small>
+XI. Cualquier otra percepción respecto de la cual el Instituto resulte beneficiario.
 
-XI.- Un fondo social permanente de N$20,000.00 (veinte mil nuevos pesos 00/100 M.N.)
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 11.
+###### ARTÍCULO 11.
 
-Los trabajadores contribuyentes no adquieren derecho alguno ni individual ni colectivo al patrimonio del Instituto, sino sólo a disfrutar de los servicios que esta Ley concede.
+Las o los servidores públicos y las o los pensionados no adquieren derecho alguno, ni individual ni colectivo, al patrimonio del Instituto, sólo tendrán derecho a disfrutar de los servicios que esta Ley concede.
 
-###### ARTICULO 12.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Los bienes muebles e inmuebles pertenecientes al Instituto, gozarán de las franquicias, prerrogativas y privilegios concedidos a los fondos y bienes del Estado en los términos de la legislación vigente.
+###### ARTÍCULO 12.
 
-El Instituto se considerará de acreditada solvencia y no estará obligado a constituir depósitos ni fianzas legales.
+El Instituto creará la Reserva de Equilibrio Financiero a que se refiere la fracción X del artículo 10 de esta Ley, con el objetivo de proveer estabilidad y certidumbre a la operación cotidiana del propio Instituto y facilitar la planeación de mediano plazo de las operaciones derivadas del otorgamiento de las prestaciones establecidas en esta Ley.
 
-###### ARTICULO 13.
+La Reserva de Equilibrio Financiero deberá constituirse, incrementarse y reintegrarse hasta representar un importe equivalente a 60 días del presupuesto de ingresos aprobado por la Junta de Gobierno en el ejercicio inmediato anterior y estará integrada por los ingresos ordinarios o extraordinarios que sean transferidos al Instituto de acuerdo a lo dispuesto y autorizado por la Junta de Gobierno para el cumplimento del objetivo de dicha Reserva, así como las actualizaciones a las que se refiere la fracción V del artículo 10 de esta Ley.
 
-Si llegase a ocurrir en cualquier tiempo que los recursos del Instituto no bastaren para cumplir con las obligaciones a su cargo establecidas por esta Ley, el déficit que hubiese será cubierto por el Estado, los Municipios y Organismos Públicos Descentralizados a que se refiere el Artículo 3 fracción I, de esta Ley, en la proporción que a cada uno corresponda.
+El Instituto podrá disponer de la Reserva de Equilibrio Financiero cuando requiera recursos para cumplir en tiempo y forma con su operatividad, hasta por un monto equivalente a 45 días del presupuesto de ingresos del ejercicio inmediato anterior aprobado por la Junta de Gobierno. Estos recursos deberán reintegrarse en un plazo no mayor a 90 días.
 
-###### ARTICULO 14.
+Los movimientos serán informados en las sesiones ordinarias de la Junta de Gobierno.
 
-La inversión de las reservas del Instituto deberá hacerse en las mejores condiciones de seguridad, rendimiento y liquidez, prefiriéndose en igualdad de circunstancias las que además garanticen mayor utilidad social.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 15.
+###### ARTÍCULO 13.
 
-Las reservas se invertirán preferentemente:
+El Instituto, para garantizar el cumplimiento oportuno de las obligaciones de pago de las prestaciones del Sistema de Pensiones y Seguros, creará un Fondo de Pensiones, mismo que estará plenamente identificado dentro del patrimonio del Instituto en un instrumento financiero que autorice la Junta de Gobierno y que contrate el Instituto con la Institución financiera que reúna las mejores condiciones de seguridad, rendimiento, liquidez y transparencia. Dicho Fondo estará constituido por:
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1993)</small>
+I. Los productos que generen la enajenación de los bienes inmuebles que integran el patrimonio del Instituto, cuya enajenación a título oneroso no afecte el objeto social al que estén destinados;
 
-I.- En bonos o títulos emitidos por el Gobierno Federal y del Estado, Instituciones de Crédito o entidades encargadas del manejo de servicios públicos;
+II. Una aportación trimestral, equivalente a la diferencia entre los ingresos establecidos en la fracción I de los artículos 30 y 31 de esta Ley y el pago de las prestaciones al Sistema de Pensiones y Seguros;
 
-II.- En la adquisición, construcción o financiamiento de habitaciones para trabajadores y demás muebles e inmuebles propios para los fines del Instituto; y
+III. Los intereses de préstamos que se generen a favor del Instituto, así como el monto del capital de préstamos que autorice transferir trimestralmente a la Junta de Gobierno;
 
-III.- En préstamos que se regirán por las disposiciones de los Capítulos respectivos de esta Ley.
+IV. Los intereses, rentas, plusvalías y demás utilidades que se obtengan de las inversiones que conforme a esta Ley realice el Instituto;
 
-###### ARTICULO 16.
+V. El importe de las indemnizaciones, pensiones caídas e intereses que prescriban en favor del Instituto;
 
-Todo acto, contrato o documento que implique obligación o derecho inmediato o eventual para el Instituto, deberá ser registrado en su contabilidad.
+VI. Las donaciones, herencias y legados que se hicieren a favor de este Fondo de Pensiones; y
 
-La contabilidad del Instituto mostrará por separado la situación de los servicios a que se refiere el Título Segundo de esta Ley.
+VII. Cualquier otra percepción respecto de la cual este Fondo resultare beneficiario.
 
-###### ARTICULO 17.
+El instrumento financiero que se contrate será el medio legal para la administración e inversión de los recursos destinados al pago del Sistema de Pensiones y Seguros, en el entendido que su supervisión y control estarán sujetos a lo previsto en las disposiciones legales aplicables.
 
-Las cuentas del Instituto quedarán sujetas a la revisión, glosa y aprobación de la Secretaría de Finanzas del Estado, la cual establecerá el servicio de auditoría permanente. El Instituto remitirá a dicha Secretaría dentro de los tres primeros meses de cada año, su balance general a fin de ejercicio, estado de pérdidas y ganancias y cuaderno de cuentas con los anexos correspondientes, a fin de poder precisar con la mayor exactitud la situación contable de la Institución.
+El Instituto podrá disponer de los recursos del Fondo de Pensiones sólo para cubrir pagos del Sistema de Pensiones y Seguros, cuando los ingresos derivados de cuotas y aportaciones destinados a su financiamiento, sean insuficientes para cubrir dichos pagos y previo acuerdo de la Junta de Gobierno del Instituto.
 
-### CAPITULO III. SUELDOS, CUOTAS Y APORTACIONES
+Si los recursos del Fondo de Pensiones no bastaren para cumplir plenamente con las obligaciones del Sistema de Pensiones y Seguros, el déficit que hubiere será cubierto por cada Ente Público en la proporción que le corresponda, de acuerdo con lo previsto en estudio actuarial.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 18.
+###### ARTÍCULO 14.
 
-El órgano máximo de gobierno del Instituto será el Consejo Directivo.
+El Instituto podrá realizar inversiones financieras y actividades comerciales con la finalidad de fortalecer sus reservas.
 
-###### ARTICULO 19.
+Las anteriores acciones deberán sujetarse en esta materia al Reglamento Financiero y de Inversiones de esta Ley, apegándose a los siguientes principios:
 
-El Consejo Directivo se integra:
+I. Las inversiones de las reservas deberán hacerse en las mejores condiciones de seguridad, rendimiento, liquidez y diversificación de riesgo, transparencia y respeto a las sanas prácticas del medio financiero nacional, y su disponibilidad debe ser acorde con la liquidez requerida para hacer frente al pago de las prestaciones correspondientes al Sistema de Pensiones y Seguros; y
 
-I.- Por un Presidente que será el C. Gobernador Constitucional del Estado o la persona que él designe;
+II. Las inversiones financieras deberán hacerse teniendo en cuenta las condiciones más favorables en términos de la calificación y rendimiento, el grado de riesgo del emisor y de la emisión, publicadas por calificadoras internacionales.
 
-II.- Un Secretario Técnico que será el C. Secretario de Finanzas del Estado, con su respectivo suplente;
+###### ARTÍCULO 15.
 
-III.- Un Secretario Ejecutivo que será el C. Oficial Mayor del Gobierno del Estado, con su respectivo suplente;
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-IV.- Seis Vocales Ejecutivos y sus suplentes, dos nombrados por el Ejecutivo del Estado y los demás serán: un representante del Magisterio, un representante del Municipio de Campeche, un representante de los trabajadores y un representante de los Organismos Públicos Descentralizados, designados respectivamente por sus agrupaciones;
+###### ARTÍCULO 16.
 
-V.- El Consejo tendrá un Vocal Secretario que será el C. Director del Instituto, quien participará con derecho a voz; y
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-VI.- Un Comisario y su suplente que serán designados y removidos por el Ejecutivo del Estado.
+###### ARTÍCULO 17.
 
-###### ARTICULO 20.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-Los suplentes sustituirán a los propietarios en sus ausencias.
+> <small>(REFORMADO. P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 21.
+### CAPÍTULO III. GOBIERNO Y ADMINISTRACION
 
-El Director General del Instituto será designado y removido libremente por el C. Gobernador Constitucional del Estado.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 22.
+###### ARTÍCULO 18.
 
-Los Vocales del Consejo Directivo durarán en sus funciones tres años y podrán ser reelectos o removidos por sus representados.
+El Instituto contará con una o un Director General y el órgano máximo de gobierno del Instituto será la Junta de Gobierno.
 
-###### ARTICULO 23.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Para ser Vocal del Consejo Directivo se requiere:
+###### ARTÍCULO 19.
 
-I.- Ser mexicano por nacimiento y en pleno ejercicio de sus derechos;
+La Junta de Gobierno se integra por:
 
-II.- Ser de reconocida competencia y honorabilidad; y
+I. Una o un Presidente que será la o el Titular de la Secretaría de Administración e Innovación Gubernamental de la Administración Pública Estatal;
 
-III.- Ser servidor público.
+II. La o el Titular de la Secretaría de Finanzas de la Administración Pública Estatal;
 
-###### ARTICULO 24.
+III. La o el Titular de la Secretaría de la Contraloría de la Administración Pública Estatal;
 
-Son funciones del Consejo Directivo:
+IV. Dos representantes del Poder Ejecutivo del Estado designados por la o el Presidente de la Junta de Gobierno;
 
-I.- Cumplir y hacer cumplir todas las disposiciones de esta Ley;
+V. Una o un representante del Sindicato que agrupe el mayor número de trabajadores del Magisterio al servicio del Estado; y
 
-II.- Planear las operaciones y servicios del Instituto;
+VI. Una o un representante del Sindicato que represente los intereses del mayor número de trabajadores al servicio del Estado.
 
-III.- Decidir las inversiones del Instituto que no estén estipuladas en este ordenamiento;
+Las o los miembros designados deberán tener preparación y conocimientos en materia financiera y de seguridad social.
 
-IV.- Dictar los acuerdos que resulten necesarios para satisfacer las prestaciones establecidas;
+Las y los Titulares de la Junta de Gobierno deberán designar por escrito a la o el suplente que les representará en el caso de ausencias.
 
-V.- Conceder, negar, suspender, modificar y revocar las jubilaciones y pensiones, en los términos previstos;
+Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto.
 
-VI.- Aprobar y poner en vigor los reglamentos interiores y de servicios médicos de cada una de las entidades afiliadas;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-VII.- Conferir poderes generales o especiales al Director General;
+###### ARTÍCULO 20.
 
-VIII.- Examinar para su aprobación y analizar en su caso, los balances anuales, los presupuestos de ingresos, egresos y el plan de labores del Instituto;
+La o el Director General del Instituto será designado conforme a lo que establece la Ley de la Administración Pública Paraestatal del Estado de Campeche.
 
-IX.- Proponer al Ejecutivo del Estado los proyectos de reformas a la presente Ley; y
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-X.- En general, realizar todos aquellos actos y operaciones autorizados y los que fueren necesarios para el mejor funcionamiento y administración del Instituto.
+###### ARTÍCULO 21.
 
-###### ARTICULO 25.
+Para ser Titular de la Dirección General, además de los que establece la Ley de la Administración Pública Paraestatal del Estado de Campeche, deberá contar con los siguientes requisitos:
 
-El Consejo Directivo sesionará por lo menos una vez cada noventa días y en forma extraordinaria cuantas veces sea convocado.
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos;
 
-###### ARTICULO 26.
+II. Tener título profesional expedido por Institución de educación superior en ramas afines a la seguridad social en sus vertientes económicas, actuarial, financiera o legal; y
 
-Son facultades y obligaciones del Director General del Instituto las siguientes:
+III. Contar con experiencia profesional no menor a cinco años en cargo público de nivel directivo.
 
-I.- Ejecutar los acuerdos del Consejo Directivo;
+###### ARTÍCULO 22.
 
-II.- Representar al Instituto en los asuntos administrativos y judiciales;
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-III.- Proponer al Consejo:
+###### ARTÍCULO 23.
 
-a).- El plan de inversiones con los proyectos de los presupuestos anuales de ingresos y egresos, y
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-b).- Los proyectos de reformas o adiciones a los reglamentos internos;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-IV.- Formular los estudios y dictámenes sobre las solicitudes de jubilación o pensión y demás prestaciones que requieran el acuerdo expreso del Consejo Directivo;
+###### ARTÍCULO 24.
 
-V.- Informar durante el mes de enero de cada año el estado financiero y del cumplimiento de las obligaciones del Instituto, así como de las actividades desarrolladas durante el período anual inmediato anterior;
+Son funciones de la Junta de Gobierno:
 
-VI.- Informar al Consejo Directivo, en caso de existir unidades médicas, de las actividades y estado en que se encuentran las mismas;
+I. Aprobar los planes y programas del Instituto;
 
-VII.- Convocar a sesiones ordinarias y extraordinarias del Consejo Directivo; y
+II. Analizar, aprobar y autorizar, en su caso:
 
-###### ARTICULO 26.
+a) Los programas presupuestales;
 
-Son facultades y obligaciones del Director General del Instituto las siguientes:
+b) Los presupuestos de ingresos y de egresos, así como sus modificaciones;
 
-I.- Ejecutar los acuerdos del Consejo Directivo;
+c) Las transferencias trimestrales del monto de capital de préstamos e intereses al Fondo de Pensiones;
 
-II.- Representar al Instituto en los asuntos administrativos y judiciales;
+d) La disposición de los recursos de la Reserva de Equilibro Financiero, por un monto de hasta 45 días;
 
-III.- Proponer al Consejo:
+e) La disposición del Fondo de Pensiones, cuando los recursos sean insuficientes;
 
-a).- El plan de inversiones con los proyectos de los presupuestos anuales de ingresos y egresos, y
+f) El programa operativo anual que contendrá las prestaciones sociales y económicas para las y los servidores públicos del Instituto; y
 
-b).- Los proyectos de reformas o adiciones a los reglamentos internos;
+g) Las cuentas y operaciones del Instituto;
 
-IV.- Formular los estudios y dictámenes sobre las solicitudes de jubilación o pensión y demás prestaciones que requieran el acuerdo expreso del Consejo Directivo;
+III. Autorizar las pensiones en los términos previstos por esta Ley e instruir a la o el Titular de la Dirección General la expedición de la resolución;
 
-V.- Informar durante el mes de enero de cada año el estado financiero y del cumplimiento de las obligaciones del Instituto, así como de las actividades desarrolladas durante el período anual inmediato anterior;
+IV. Conocer el resultado de la suficiencia y viabilidad financiera del Instituto, con base en los estudios actuariales, a fin de tomar las medidas pertinentes;
 
-VI.- Informar al Consejo Directivo, en caso de existir unidades médicas, de las actividades y estado en que se encuentran las mismas;
+V. Autorizar el otorgamiento de bonos, gastos de inhumación o complementos a las pensiones del Instituto, condicionados a la disponibilidad financiera y suficiencia presupuestaria del Instituto;
 
-VII.- Convocar a sesiones ordinarias y extraordinarias del Consejo Directivo; y
+VI. Proponer a la o el Gobernador del Estado los proyectos de reformas de esta Ley para su consideración, a través de la Dependencia coordinadora de sector;
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1993)</small>
+VII. Aprobar y expedir los reglamentos del Instituto;
 
-VIII.- Proponer al Consejo Directivo el nombramiento y, en su caso, la remoción de los servidores públicos de confianza del Instituto;
+VIII. Conocer y aprobar la suscripción de los contratos o convenios que celebre el Instituto en materia de afiliación voluntarias con los Entes Públicos y, en general, los contratos y convenios que suscriba con terceros en materia de obras públicas, adquisiciones, arrendamientos, comercialización y enajenaciones de bienes inmuebles y arrendamiento financiero;
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1993)</small>
+IX. Aprobar el programa financiero y de inversiones de las reservas del Instituto que proponga el Comité de Inversiones;
 
-IX.- Resolver, bajo su inmediata y directa responsabilidad, los asuntos urgentes a reserva de informar al Consejo Directivo, sobre las acciones realizadas y los resultados obtenidos;
+X. Conferir poderes especiales a la o a el Director General;
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1993)</small>
+XI. Aprobar la cancelación de la cartera vencida de los préstamos y de los adeudos a cargo de terceros y a favor del Instituto, cuando exista imposibilidad de cobro;
 
-X.- Establecer los métodos que permitan el óptimo aprovechamiento de los recursos y bienes muebles e inmuebles del Instituto, para la realización de su objeto social;
+XII. Conocer el dictamen de los auditores externos de los estados financieros del Instituto; y
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1993)</small>
+XIII. En general, proponer y autorizar todos aquellos actos y operaciones que consideren necesarios para el mejor funcionamiento y administración del Instituto.
 
-XI.- Presentar cuatrimestralmente al Consejo Directivo un informe sobre las actividades del Instituto, el avance de sus programas y el ejercicio de sus presupuestos de ingresos y egresos, anexando los estados financieros correspondientes; y
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XII.- Todas las demás que le fije esta Ley y los Reglamentos, o le señale el Consejo Directivo.
+###### ARTÍCULO 25.
 
-###### ARTICULO 27.
+Las sesiones de la Junta de Gobierno se llevarán a cabo:
 
-Las sesiones del Consejo Directivo serán válidas con la asistencia del 50% de los miembros más uno, debiendo en todo caso estar presentes el Presidente, el Secretario Técnico y el Secretario Ejecutivo.
+I. De manera ordinaria, al menos cuatro veces al año; y
 
-###### ARTICULO 28.
+II. En forma extraordinaria, cuantas veces sean convocadas por la o el Director General del Instituto.
 
-Los acuerdos del Consejo Directivo se tomarán por mayoría de votos de los miembros presentes. En caso de empate, el Presidente o quien haga sus veces, tendrá voto de calidad.
+El desarrollo de las sesiones se regulará en el Reglamento Interior del Instituto.
 
-### CAPITULO I. SEGURO DE PRESTACIONES MEDICAS
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 29.
+###### ARTÍCULO 26.
 
-El sueldo de cotización que se tomará como base para efectos de esta Ley deberá integrarse considerando el sueldo base nominal que corresponda de conformidad con el tabulador de puestos y sueldos autorizados por el Congreso del Estado o, en su caso, por los ayuntamientos, comprendido (sic) éste cualquier ingreso que se perciba pagado bajo nómina y que para efectos de la base aplicará como límite máximo veinticinco salarios mínimos generales diarios vigentes en el área geográfica “A”, que fija la Comisión Nacional de los Salarios Mínimos.
+Son facultades y obligaciones de la o el Director General del Instituto las siguientes:
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+I. Representar legalmente al Instituto;
 
-###### ARTICULO 30.
+II. Convocar a sesiones ordinarias y extraordinarias de la Junta de Gobierno;
 
-Los trabajadores aportarán el 8.5% del sueldo de cotización, más la cuota que establezca para los asegurados la institución a la que se subroguen las prestaciones, conforme al artículo 6. El 8.5% del sueldo de cotización se distribuirá de la siguiente forma:
+III. Ejecutar los acuerdos de la Junta de Gobierno y llevar el Libro de Actas de las sesiones que se celebren;
 
-I. El 7% para el financiamiento del Sistema de Pensiones y Seguros;
+IV. Presentar y/o proponer a la Junta de Gobierno, para su conocimiento y, en su caso, aprobación:
 
-II. El 0.5% para el financiamiento de Prestaciones Sociales y Culturales; y
+a) Los proyectos de programas y presupuestos anuales de ingresos y egresos; el plan de inversión anual elaborado por el respectivo Comité de Inversiones, así como el programa de actividades del siguiente ejercicio fiscal;
 
-III. El 1% para el financiamiento de los gastos generales de administración.
+b) En el primer trimestre de cada año, el estado financiero y la situación que guarda la administración del Instituto, así como las actividades desarrolladas y las prestaciones otorgadas durante el período anual inmediato anterior;
 
-En caso de que el Instituto no subrogue las prestaciones, el Consejo Directivo fijará anualmente el importe de las cuotas a cargo de los servidores públicos.
+c) En el segundo semestre de cada año, el avance de sus programas y el ejercicio de sus presupuestos de ingresos y egresos;
 
-Los pensionados aportarán una cuota equivalente al 6% del monto total de la pensión que se les otorgue.
+d) Las transferencias presupuestales que sean necesarias para la operación del ejercicio fiscal de que se trate;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+e) Los movimientos relativos a la Reserva de Equilibrio Financiero y del Fondo de Pensiones;
 
-###### ARTICULO 31.
+f) Los manuales de organización, procedimientos y demás aplicables al Instituto, así como sus modificaciones;
 
-Las Entidades Públicas aportarán el 13.5% del sueldo de cotización, más la cuota patronal y la que en su caso corresponda al Gobierno Federal que establezca la institución a la que se subroguen las prestaciones, conforme al artículo 6. Las aportaciones del 13.5% del sueldo de cotización se distribuirán de la siguiente forma:
+g) Los proyectos de modificaciones a esta Ley, reglamentos, acuerdos, criterios, políticas, lineamientos, manuales y demás normatividad aplicable al Instituto;
 
-I. El 12% para el financiamiento del Sistema de Pensiones y Seguros;
+h) La celebración de convenios con la Federación, el Estado, los Entes Públicos y otras Instituciones Públicas o Privadas;
 
-II. El 0.5% para el financiamiento de Prestaciones Sociales y Culturales; y
+i) La cancelación en registros contables de adeudos a cargo de terceros y afiliados y a favor del Instituto, por imposibilidad de cobro;
 
-III. El 1% para el financiamiento de los gastos generales de administración.
+j) El nombramiento y, en su caso, la remoción de las o los servidores públicos; y
 
-En caso de que el Instituto no subrogue las prestaciones, el Consejo Directivo fijará anualmente el importe de las aportaciones a cargo de las Entidades Públicas.
+k) El ejercer la facultad para recibir la dación en pago, así como aprobar la cesión de derechos de bienes propiedad de los Entes Públicos, que éstas realicen para solventar las omisiones de pago de las retenciones y en el entero de cantidades adeudadas;
 
-###### ARTICULO 32.
+V. Resolver, bajo su inmediata y directa responsabilidad, los asuntos urgentes a reserva de informar a la Junta de Gobierno, sobre las acciones realizadas y los resultados obtenidos;
 
-Las Entidades mencionadas en el Artículo anterior harán del conocimiento de la Dirección del Instituto dentro de los quince días siguientes a la fecha:
+VI. Expedir las resoluciones de pensiones en los términos previstos por esta Ley, previa autorización de la Junta de Gobierno;
 
-I.- Las altas, bajas y cambios de los servidores públicos; y
+VII. Realizar los proyectos de presupuestos de ingresos y egresos;
 
-II.- Las modificaciones de los sueldos.
+VIII. Establecer y organizar las áreas funcionales del Instituto;
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1993)</small>
+IX. Conceder licencias al personal del Instituto e imponer las correcciones disciplinarias previstas en las leyes aplicables;
 
-La afiliación de los servidores públicos al Instituto será automática con la expedición del nombramiento correspondiente.
+X. Aprobar, expedir y publicar el calendario oficial y horario de labores del Instituto y autorizar en caso extraordinario, la suspensión de labores;
 
-###### ARTICULO 33.
+XI. Expedir certificaciones de los documentos y expedientes relativos a los asuntos de su competencia o de las unidades administrativas que tenga bajo su adscripción. En caso de ausencia, esta facultad podrá ejercerla la o el servidor público de la jerarquía inmediata inferior competente en el asunto, sin perjuicio de lo que, en su caso, establezca el Reglamento Interior;
 
-Los servidores públicos están obligados a proporcionar al Instituto:
+XII. Solicitar la elaboración de estudios actuariales para conocer la viabilidad financiera del Instituto, al menos cada tres años;
 
-I.- Los nombres de los familiares o dependientes económicos en los términos de esta Ley; y
+XIII. Requerir el cumplimiento de las obligaciones de los Entes Públicos y de las y los afiliados que se hayan omitido, dictando medidas correctivas, determinando los préstamos y requiriendo su pago en términos de la presente Ley y del Código Fiscal del Estado de Campeche y demás leyes aplicables;
 
-II.- Los informes y documentos que se requieran relacionados con la aplicación de la misma.
+XIV. Designar a una o un servidor público adscrito al Instituto a efecto de otorgarle facultades para llevar a cabo la realización de todo tipo de notificaciones concernientes a los asuntos del Instituto, debiendo de realizarse la notificación conforme a la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche y a la legislación civil del Estado de aplicación supletoria; y
 
-###### ARTICULO 34.
+XV. Todas las demás que le fije esta Ley y demás disposiciones administrativas aplicables, o le señale la Junta de Gobierno.
 
-Las Entidades Públicas quedan obligadas a remitir sin demora al Instituto, los expedientes y datos que solicite de los servidores públicos, para las investigaciones correspondientes.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 27.
+
+Las sesiones de la Junta de Gobierno serán válidas con la asistencia de la mitad más uno de sus integrantes, debiendo en todo caso estar presentes la o el Presidente y dos representantes del Poder Ejecutivo.
+
+Las resoluciones se tomarán por decisión de la mayoría o por unanimidad de las y los integrantes presentes con derecho a voto, teniendo quien presida la sesión, voto de calidad para el caso de empate.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 28.
+
+Ninguna autoridad del Instituto estará facultada para conceder prestaciones adicionales a las establecidas por esta Ley, o tomar decisiones que, de acuerdo a los estudios financieros y actuariales correspondientes, perjudiquen la viabilidad financiera del Instituto.
+
+> <small>(REFORMADO. P.O. 28 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO IV. SUELDOS, CUOTAS, APORTACIONES Y OTRAS RETENCIONES
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 29.
+
+Para efectos de esta Ley, el sueldo base de cotización será el sueldo base nominal que corresponda con el Tabulador de Puestos y Sueldos autorizado por el H. Congreso del Estado o, en su caso, por los HH. Ayuntamientos.
+
+Para efectos de la base, se aplicará como límite inferior un salario mínimo mensual vigente y como límite superior 25 veces el salario mínimo mensual vigente.
+
+Para las y los servidores públicos que desempeñen dos o más empleos compatibles entre sí en los Entes Públicos, las cuotas y aportaciones se calcularán en su totalidad sobre cada uno de los sueldos base de cotización que tengan asignados.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 30.
+
+Las y los servidores públicos aportarán una cuota obligatoria del 10% del sueldo base de cotización, que se distribuirá de la siguiente forma:
+
+I. El 9.0 % para el financiamiento del sistema de Pensiones y Seguros;
+
+II. El 0.5 % para el financiamiento del Centro de Desarrollo Infantil; y
+
+III. El 0.5 % para el financiamiento de los gastos de administración.
+
+Las y los pensionados aportarán una cuota equivalente al 6% del monto total de la pensión que se les otorgue, para financiamiento de lo establecido en la fracción II del artículo 107 de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 31.
+
+Los Entes Públicos tendrán el carácter de retenedores de las cuotas que descuenten a sus servidoras y servidores públicos y deberán determinarlas y enterarlas al Instituto en los términos establecidos por esta Ley, sus reglamentos y el Código Fiscal del Estado de Campeche, para efectos de su actualización y recargos.
+
+Los Entes Públicos deberán aportar una cuota patronal del 15% del sueldo base de cotización de las y los servidores públicos a su servicio, que se distribuirá de la siguiente forma:
+
+I. El 13.5 % para el financiamiento del sistema de Pensiones y Seguros;
+
+II. El 0.5 % para el financiamiento del Centro de Desarrollo Infantil; y
+
+III. El 1.0 % para el financiamiento de los gastos de administración.
+
+Las aportaciones de los Entes Públicos tendrán el carácter de obligatorias y deberán consignarse en la partida que corresponda en sus respectivos presupuestos de egresos.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 32.
+
+Los Entes Públicos están obligados a hacer del conocimiento al Instituto a través de los medios electrónicos, magnéticos, digitales, ópticos o de cualquier naturaleza establecidos por éste, dentro de los cinco días hábiles siguientes a la fecha de:
+
+I. Las altas, bajas, ceses, remociones, renuncias, licencias, incapacidades temporales o definitivas y cualquier otro movimiento o cambio de adscripción de las y los servidores públicos afiliados al Instituto;
+
+Durante los periodos de incapacidad temporal de las y los servidores públicos, subsiste la obligación de los Entes Públicos de mantener a la o el servidor público afiliado al Instituto, con el entero en tiempo y forma correspondiente a sus cuotas y aportaciones establecidas; y
+
+II. Las modificaciones y descuentos de los sueldos de las y los servidores públicos afiliados.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 33.
+
+Las y los servidores públicos están obligados a proporcionar al Instituto y, en su caso, a los Entes Públicos en los que presten sus servicios:
+
+I. Los nombres de sus beneficiarias y beneficiarios;
+
+II. La edad, el grado de parentesco, la dependencia económica de las y los beneficiarios de la o el servidor público o la o el pensionado y demás requisitos que sean necesarios para acreditar los derechos de las y los beneficiarios, acompañando los documentos idóneos para ello; y
+
+III. Los informes y documentos que se requieran relacionados con la aplicación de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 34.
+
+Los Entes Públicos quedan obligados a remitir al Instituto información certificada de los expedientes y datos que se les solicite de las y los servidores públicos, para las investigaciones correspondientes, así como podrán obtener de las dependencias y entidades estatales y municipales, siempre que la legislación en la materia lo permita, cualquier dato, informe o documento que se considere necesario.
 
 ###### ARTICULO 35.
 
-Los servidores públicos que desempeñen dos o más empleos compatibles entre sí, en las Entidades Públicas, cubrirán sus cuotas sobre la totalidad de los sueldos base que tengan asignados.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 36.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Las Entidades Públicas están obligadas a efectuar los descuentos de las cuotas en los términos de los Artículos 29 y 30.
+###### ARTÍCULO 36.
 
-###### ARTICULO 37.
+Los Entes Públicos, al efectuar el pago de los sueldos de sus servidoras y servidores públicos deberán realizar las retenciones y descuentos vía nómina siguientes:
 
-Las Entidades Públicas cubrirán al Instituto las aportaciones que correspondan a los servidores públicos y las que a su cargo deban efectuar conforme a lo previsto en los Artículos que anteceden, quedando a su exclusivo cargo la responsabilidad correspondiente. En caso de demora de todas o una de las aportaciones, se suspenderán inmediatamente los derechos que esta Ley confiere. Tan pronto como se cubra el adeudo se reanudarán los servicios y obligaciones correspondientes. El Consejo Directivo dictará en cada caso resoluciones fundadas al respecto.
+I. Cuotas en los términos del artículo 30 de esta Ley; y
 
-###### ARTICULO 38.
+II. Abonos a los préstamos y obligaciones contraídas por las y los servidores públicos que se concedan en los términos del Título Segundo de esta Ley.
 
-La separación por licencia sin goce de sueldo o por suspensión de los efectos del nombramiento del servidor público, sólo se computará como tiempo de servicio en los siguientes casos:
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-I.- Cuando las licencias sean concedidas por un período que no exceda de seis meses;
+###### ARTÍCULO 37.
 
-II.- Cuando las licencias se otorguen para el desempeño de cargos públicos o comisiones sindicales, mientras duren éstos;
+Los Entes Públicos enterarán al Instituto, a través del sistema de pago, las cuotas, aportaciones y descuentos de préstamos u otras obligaciones contraídas, por meses vencidos a que se refieren los artículos 30, 31 y 36 fracción II de esta Ley, dentro de los veinte días naturales posteriores a la fecha del corte de la nómina mensual correspondiente, acompañado de los formatos de referencia de pago o usando el programa informático autorizado por el Instituto.
 
-III.- Cuando el servidor público sufra prisión preventiva seguida de sentencia absolutoria, mientras dure la privación de la libertad; y
+Cuando los Entes Públicos no enteren las cuotas, aportaciones, y descuentos de préstamos u otras obligaciones contraídas por la o el servidor público dentro del plazo establecido, el Instituto podrá suspender, total o parcialmente, las prestaciones que esta Ley confiere. Tan pronto como se cubra el adeudo se reanudarán las prestaciones correspondientes. La Junta de Gobierno dictará en cada caso resoluciones fundadas al respecto.
 
-IV.- Cuando el servidor público fuere suspendido, por todo el tiempo que dure dicha circunstancia y siempre que por resolución firme sea reinstalado en su empleo.
+El Instituto tendrá atribuciones para determinar las actualizaciones conforme al Código Fiscal del Estado de Campeche y demás aplicables. Dichas actualizaciones las deberán enterar los Entes Públicos al Instituto, además de las cuotas, aportaciones, descuentos de préstamos u otras obligaciones.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+Por ningún motivo el Instituto dejará de pagar oportunamente las pensiones en curso de pago. En el caso de suspensión de derechos que se prevé en el segundo párrafo de este artículo, el Instituto continuará cubriendo la pensión y cargará el importe de lo pagado a la cuenta respectiva del Ente Público, con sus intereses y actualizaciones correspondientes.
 
-###### ARTICULO 39.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Para disfrutar del cómputo mencionado en el Artículo anterior, el servidor público deberá cubrir mensualmente sus aportaciones al Instituto, conforme a lo establecido en el Artículo 30 de esta Ley, sobre la base de las percepciones de que disfrutaba al tiempo de su separación transitoria. En caso contrario, deberá pagar la totalidad de las cuotas insolutas más los intereses que hubiese causado dicha suma, conforme a la tasa de interés que apruebe el Consejo Directivo del Instituto para el otorgamiento de las prestaciones económicas que concede esta Ley.
+###### ARTÍCULO 38.
 
-###### ARTICULO 40.
+La separación por licencia sin goce de sueldo o por suspensión de los efectos del nombramiento de la o el servidor público, sólo se podrá computar como tiempo de cotización en los siguientes casos:
+
+I. Cuando las licencias sean concedidas por un período que no exceda de seis meses;
+
+II. Cuando las licencias o bajas se otorguen para el desempeño de cargos públicos de elección popular en el Estado de Campeche o de comisiones sindicales, siempre que no estén protegidos por otro régimen de Seguridad Social durante el periodo en el que ha desempeñado dicho cargo o comisión; y
+
+III. En los casos de incapacidades médicas, cuando éstas no sean cubiertas parcial o totalmente.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 39.
+
+Para el cómputo a que se refiere el artículo anterior, la o el servidor público deberá cubrir directamente las cuotas y aportaciones al Instituto, establecidas en los artículos 30 y 31 de esta Ley. El pago se hará sobre el último sueldo base de cotización al Instituto.
+
+En el caso de que el pago de cuotas y aportaciones se realice de forma vencida, el importe de la deuda se actualizará a la fecha que haga efectivo el pago.
+
+Cuando exista separación por licencia sin goce de sueldo o por suspensión de los efectos del nombramiento, la o el titular de un préstamo, deberá continuar con los abonos correspondientes, a través de los medios instaurados por el Instituto.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 40.
 
 Si el trabajador o empleado falleciere antes de reanudar sus labores y sus beneficiarios tuvieren derecho a pensión, éstos deberán cubrir el importe de esas cuotas si desean que se compute el período de servicios correspondiente.
 
-###### ARTICULO 41.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Cuando no se hubieren hecho a los servidores públicos los descuentos procedentes conforme a esta Ley, el Instituto exigirá a la Entidad Pública el pago correspondiente y vigilará que éste descuente hasta un 30% del sueldo de dicho servidor mientras el adeudo no esté cubierto.
+###### ARTÍCULO 41.
 
-## TITULO SEGUNDO. DE LAS PRESTACIONES
+Al término de una relación laboral de una o un servidor público será obligación del Ente Público dentro de las 72 horas siguientes comunicar al Instituto tal circunstancia con el propósito de que éste efectúe la revisión correspondiente para determinar la existencia o no de adeudos de la o del servidor público con el Instituto.
 
-### CAPITULO II. JUBILACIONES Y PENSIONES
+En caso de que el Instituto determinara la existencia de adeudos, lo comunicará de inmediato al Ente Público con la finalidad de que se efectúen las deducciones correspondientes dentro del finiquito y/o liquidación y se proceda al entero del adeudo al Instituto en un plazo no mayor de cinco días hábiles.
 
-###### ARTICULO 42.
+En el supuesto de que el monto del finiquito y/o liquidación no sea suficiente para cubrir la deuda, y se diera el caso de que la persona se haya reincorporado al servicio público, será obligación del Ente Público dar continuidad a las retenciones originadas por el adeudo, más las actualizaciones y recargos correspondientes, así como enterarlas al Instituto, hasta su liquidación.
 
-Los servicios podrán ser subrogados mediante convenio que celebre el Instituto con otras instituciones públicas o privadas.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 43.
+## TÍTULO SEGUNDO. DE LAS PRESTACIONES
 
-Cuando exista convenio de subrogación, el Instituto entregará mensualmente al subrogatario las aportaciones correspondientes a los servicios médicos.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 44.
+### CAPÍTULO I. SEGURO DE PRESTACIONES MÉDICAS
 
-Los subrogatarios a que se refiere el Artículo 42 de esta Ley, a solicitud del Instituto, informarán anualmente sobre el uso y destino de los fondos correspondientes al servicio médico, así como un informe de los servicios prestados.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 45.
+###### ARTÍCULO 42.
 
-Cuando los ingresos no sean suficientes para el sostenimiento de los servicios médicos, será el Consejo Directivo quien realice los estudios correspondientes y propondrá alternativas de solución a las partes interesadas.
+Con el fin de garantizar el servicio médico de las y los afiliados, los Entes Públicos deberán mantener inscritos a sus servidoras y servidores públicos en el régimen obligatorio del Instituto Mexicano del Seguro Social durante todo el tiempo de cotización al Instituto.
 
-###### ARTICULO 46.
+###### ARTÍCULO 43.
 
-Cuando exista incapacidad manifiesta por parte del subrogatario para administrar los servicios médicos satisfactoriamente, el Consejo Directivo está facultado para intervenir temporalmente en la administración de los mismos.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 47.
+###### ARTÍCULO 44.
 
-Tienen derecho a los servicios médicos, los servidores públicos, los jubilados o pensionados, así como los familiares o dependientes económicos de ambos, en los términos de la presente Ley.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 48.
+###### ARTÍCULO 45.
 
-Como familiares y dependientes económicos se consideran:
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-I.- El cónyuge;
+###### ARTÍCULO 46.
 
-II.- El cónyuge supérstite que no contraiga nupcias o viva en concubinato;
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-III.- Los hijos menores de 18 años, siempre que no hayan contraído matrimonio, comprendiéndose a los hijos adoptivos;
+###### ARTÍCULO 47.
 
-IV.- Los mayores de 18 años solteros y hasta 25 años como máximo, cuando estén cursando estudios a nivel medio superior, debiendo comprobar ante el Instituto periódicamente tanto la inscripción como el promedio de calificación aprobatoria y que dependan económicamente del servidor público;
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### ARTÍCULO 48.
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-V.- Seguirán siendo sujetos de esta Ley, los hijos discapacitados física o mentalmente, reservándose el Instituto el derecho a ordenar por su cuenta, los exámenes necesarios para comprobar su discapacidad;
+###### ARTÍCULO 49.
 
-VI.- A falta de esposa, la mujer con quien ha vivido como si lo fuera durante los últimos cinco años, o aun durante un término menor si con ella tuviere hijos, siempre que estén libres de matrimonio y dependan económicamente del servidor público;
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-VII.- Para recibir el beneficio establecido en el inciso anterior, el interesado justificará los requisitos con información testimonial certificada por autoridad judicial competente; y
+###### ARTÍCULO 50.
 
-VIII.- Los padres del servidor público, siempre que éste sea el único sostén económico, que vivan en el mismo domicilio y que no tengan por sí mismos derechos propios a este tipo de prestaciones; la madre cuando sea viuda y no trabaje, o el padre que esté incapacitado para trabajar o tenga más de 65 años de edad.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 49.
+###### ARTÍCULO 51.
 
-En caso de beneficiarios no previstos por esta Ley, sólo el Consejo del Instituto podrá determinar la procedencia o improcedencia de las solicitudes correspondientes.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 50.
+###### ARTÍCULO 52.
 
-El Instituto impartirá de acuerdo a sus posibilidades por él mismo o por conducto de los subrogatarios correspondientes, los servicios de asistencia médica, clínica, quirúrgica, farmacéutica y hospitalaria que sean necesarios para garantizar la salud del derechohabiente y sus beneficiarios.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 51.
+###### ARTÍCULO 53.
 
-Los servicios médicos que se mencionan en este Capítulo se impartirán en las unidades médicas reconocidas por el Instituto; sólo por prescripción facultativa se atenderá a los pacientes en su propio domicilio.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 52.
+###### ARTÍCULO 54.
 
-En el caso de imposibilidad técnica material para atender al paciente en las unidades médicas, cada unidad señalará la forma y el lugar en donde deba hacerse, de conformidad con los recursos económicos de que disponga.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 53.
+###### ARTÍCULO 55.
 
-El Instituto y las unidades médicas subrogadas no están obligadas a proporcionar servicios de cirugía cosmética ni a proveer dentífricos, cosméticos, lentes para corrección de defectos visuales y aparatos de prótesis; asimismo, no se hace responsable de los servicios médicos particulares contratados por el servidor público en los casos de emergencia o accidentes, mismos que se analizarán por cada unidad médica para resolver si procede o no su pago.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 54.
+###### ARTÍCULO 56.
 
-La prestación de los servicios médicos en favor de personas no comprendidas en esta Ley, se podrá realizar mediante el pago de tarifas especiales aprobadas por el Consejo Directivo del Instituto; esta clase de autorizaciones se otorgará sin perjuicio de que los servicios se deben otorgar preferentemente a los servidores públicos y sus beneficiarios.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 55.
+###### ARTÍCULO 57.
 
-Para que los servidores públicos y sus beneficiarios tengan derecho a las prestaciones que establecen los Artículos anteriores, es necesario que se encuentren cubiertas las cuotas a que se refieren los Artículos 30 y 31.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 56.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Será facultad y responsabilidad del Instituto:
+### CAPÍTULO II. DE LAS PENSIONES
 
-I.- Reglamentar el cuadro básico de medicamentos;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-II.- Formular el presupuesto de egresos y autorizar los gastos extraordinarios de la propia unidad;
-
-III.- Nombrar al personal, dictar las medidas administrativas y de control correspondientes; y
-
-IV.- Contratar y subrogar servicios con instituciones semejantes o especializadas con base en lo establecido en el Artículo 52 de esta Ley.
-
-###### ARTICULO 57.
-
-Las controversias y los actos contenciosos que se presentaren en relación a este Capítulo, los resolverá el Consejo Directivo del Instituto.
-
-### CAPITULO IV (SIC). SEGURO DE CESANTIA O SEPARACION
-
-###### ARTICULO 58.
+###### ARTÍCULO 58.
 
 Jubilación es la relevación de la obligación del servidor público de seguir desempeñando su empleo en razón de su edad, de su tiempo de servicios o por la imposibilidad física o mental, con derecho a percibir en calidad de pensión el total o parte de su último sueldo. El Instituto está obligado a pagar las pensiones por jubilación y de otra índole que se consignen en la presente Ley.
 
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2005)</small>
-
 Los servicios a que se refiere el presente capítulo relacionados con la materia de jubilaciones y pensiones podrán ser subrogados mediante convenio que celebre el Gobierno del Estado de Campeche o el Instituto con otras instituciones públicas o privadas. Cuando exista convenio de subrogación, el Instituto entregará al subrogatario las aportaciones correspondientes a estos servicios; en consecuencia, tanto el Gobierno del Estado como el Instituto quedarán relevados de la responsabilidad del pago de pensiones y jubilaciones, con excepción de lo establecido en el siguiente párrafo.
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2005)</small>
 
 En el caso de que el Gobierno del Estado o el Instituto hayan subrogado estos servicios específicamente con el Instituto Mexicano del Seguro Social, se estará a lo que disponga la ley que rija a ese organismo, como al convenio que se firme, para los efectos de los requisitos para la operación de las pensiones y jubilaciones. Asimismo, en el caso de que la jubilación o pensión que el Instituto Mexicano del Seguro Social como entidad subrogataria otorgue a los pensionados o jubilados del Estado no alcance a cubrir los montos y porcentajes que éstos tengan derecho a recibir conforme a esta Ley, debido al sistema de cotizaciones de ese Organismo Público Federal, el Instituto completará la cantidad que se requiera hasta cubrir los montos y porcentajes que conforme a esta Ley, tengan derecho a percibir las personas que se pensionen o jubilen, de conformidad con los años de servicio y tiempo de aportaciones. En este supuesto, el Gobierno del Estado y el Instituto no tendrán la obligación de otorgar pensión o jubilación al trabajador, excepto la parte complementaria que ha quedado señalada.
 
-###### ARTICULO 59.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-La jubilación o pensión se tramitará a solicitud escrita del interesado, o por acuerdo expreso del Consejo Directivo del Instituto, y se resolverá dentro de los 30 días hábiles siguientes de iniciado el expediente. Sólo por acuerdo del mismo Consejo se podrá ampliar este plazo en los casos en que el interesado no haya satisfecho los requisitos legales a que está obligado para obtener su jubilación o pensión.
+###### ARTÍCULO 59.
 
-###### ARTICULO 60.
+La solicitud de pensión la tramitará la o el interesado a través del Ente Público correspondiente y el Instituto resolverá dentro de los 30 días hábiles siguientes de haber recibido el expediente completo, que deberá incluir el dictamen de pensión del IMSS y/o el resolutivo de la Afore correspondiente, en los casos que proceda.
 
-Los servidores públicos adquieren derecho a pensión:
+No obstante, se podrá ampliar este plazo en casos de excepción justificada.
 
-I.- Por jubilación necesaria al cumplir 55 años de edad y 15 o más años de servicios, con igual tiempo de aportaciones.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-II.- Por jubilación voluntaria cuando hayan alcanzado 30 años de servicios, sin límite de edad, con igual tiempo de aportaciones.
+###### ARTÍCULO 60.
 
-III.- Por inhabilitación, cuando se hayan perdido las facultades físicas o intelectuales necesarias para el desempeño normal del servicio. La obligación para el Instituto queda condicionada a que se haya pagado íntegra y normalmente las aportaciones por el tiempo de servicios.
+Las y los servidores públicos afiliados adquieren derecho a pensión:
 
-La inhabilitación podrá ser:
+I. Por jubilación necesaria: al cumplir 55 años de edad y 15 o más años de cotizaciones;
 
-a).- A causa o consecuencia del servicio, en cuyo caso el derecho a pensión se adquiere cualquiera que sea el tiempo de servicios; y
+II. Por jubilación voluntaria cuando hayan alcanzado 30 años de cotizaciones, sin límite de edad;
 
-b).- Por causas ajenas al servicio, en cuyo caso el derecho a pensión se adquiere cuando los sujetos de esta Ley hayan alcanzado quince o más años de servicios y hayan cubierto las aportaciones a que están obligados.
+III. Por invalidez, al haber cotizado al menos cinco años al Instituto y que exista resolución de pensión del IMSS; y
 
-###### ARTICULO 61.
+IV. Por incapacidad permanente derivada de riesgos de trabajo, siempre que exista resolución de pensión del IMSS.
 
-La cuota de la pensión que se pague al servidor público, a título de jubilación, se fijará como sigue:
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-I.- Por jubilación necesaria o voluntaria, el tanto por ciento del sueldo último, en relación con los años de servicio, conforme a la tabla siguiente:
+###### ARTÍCULO 61.
 
-15 años de servicios: 50%
+El monto de la pensión mensual que corresponda conforme a lo establecido en esta Ley, salvo los casos de excepción que expresamente señale esta Ley, se determinará como sigue:
 
-16 años de servicios: 52%
+I. Por jubilación, aplicando los siguientes porcentajes al sueldo promedio mensual calculado conforme a los artículos 67 y 68, según el caso:
 
-17 años de servicios: 54%
+15 años de cotización: 50 %
 
-18 años de servicios: 56%
+16 años de cotización: 52 %
 
-19 años de servicios: 58%
+17 años de cotización: 54 %
 
-20 años de servicios: 60%
+18 años de cotización: 56 %
 
-21 años de servicios: 63%
+19 años de cotización: 58 %
 
-22 años de servicios: 66%
+20 años de cotización: 60 %
 
-23 años de servicios: 69%
+21 años de cotización: 63 %
 
-24 años de servicios: 72%
+22 años de cotización: 66 %
 
-25 años de servicios: 75%
+23 años de cotización: 69 %
 
-26 años de servicios: 80%
+24 años de cotización: 72 %
 
-27 años de servicios: 85%
+25 años de cotización: 75 %
 
-28 años de servicios: 90%
+26 años de cotización: 80 %
 
-29 años de servicios: 95%
+27 años de cotización: 85 %
 
-30 o más años de servicios: 100%
+28 años de cotización: 90 %
 
-II.- Por inhabilitación parcial a causa o consecuencia del servicio: se tomará como base el sueldo último del servidor público y se aplicará el porcentaje fijado en la tabla de valuación de incapacidades de la Ley Federal del Trabajo;
+29 años de cotización: 95 %
 
-III.- Por inhabilitación parcial por causas ajenas al servicio: el 80% de la pensión calculada en la forma en que se precisa en la fracción inmediata precedente;
+30 o más años de cotización: 100 %
 
-IV.- Por inhabilitación total a causa o consecuencia del servicio: el 100% del último sueldo; y
+II. Por invalidez, aplicando los siguientes porcentajes al sueldo promedio mensual calculado conforme a los artículos 67 y 68, según el caso:
 
-V.- Por inhabilitación total por causas ajenas al servicio: se aplicarán las tablas de la fracción I de este Artículo, disminuidas en un 20%.
+De 5 a 14 años de cotización: 50 %
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1993)</small>
+15 años de cotización: 52 %
 
-Las pensiones serán ajustadas de acuerdo a las revisiones establecidas en el Artículo 64 de esta Ley, y generalmente se incrementarán en forma proporcional al salario mínimo.
+16 años de cotización: 54 %
 
-###### ARTICULO 62.
+17 años de cotización: 56 %
 
-Los familiares o dependientes económicos del servidor público adquieren el derecho a pensión:
+18 años de cotización: 58 %
 
-I.- Al fallecer el servidor público si su fallecimiento acaeció a causa o consecuencia del servicio y hubiere pagado normalmente las aportaciones que señala esta Ley;
+19 años de cotización: 60 %
 
-II.- Al fallecer el servidor público, por causas ajenas al servicio, si tenía 15 o más años de servicios e igual tiempo de aportaciones; y
+20 años de cotización: 62 %
 
-III.- Al fallecer el servidor público pensionado.
+21 años de cotización: 64 %
 
-###### ARTICULO 63.
+22 años de cotización: 66 %
 
-La cuota diaria de la pensión a los familiares o dependientes económicos del servidor público se fijará como sigue:
+23 años de cotización: 68 %
 
-I.- Por fallecimiento del servidor público a causa o consecuencia del servicio: el sueldo último del que disfrutaba al ocurrir el fallecimiento;
+24 años de cotización: 70 %
 
-II.- Por fallecimiento del servidor público por causas ajenas al servicio: se aplicará la tabla de la fracción I del Artículo 61, disminuyendo la pensión en un 10% el segundo año y así sucesivamente en los años subsecuentes, hasta llegar a la mitad de la pensión original;
+25 años de cotización: 72 %
 
-III.- Por fallecimiento del servidor público pensionado:
+26 años de cotización: 74 %
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+27 años de cotización: 76 %
 
-a).- Si la pensión se le había concedido por jubilación o inhabilitación a causa o consecuencia del servicio: la última de que hubiere gozado el pensionado, con descuento de un 10% el segundo año, e igual deducción en los años subsecuentes, hasta llegar al 50% de la pensión original.
+28 años de cotización: 78 %
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+29 años de cotización: 80 %
 
-b).- Si la pensión la disfrutaba por inhabilitación por causas ajenas al servicio: la última que hubiere gozado el pensionado. Esta pensión sólo se pagará durante los seis meses siguientes al fallecimiento del pensionado.
+30 o más años de cotización: 85 %
 
-Las pensiones señaladas en los incisos a) y b) sólo se pagarán durante los seis meses siguientes al fallecimiento del pensionado.
+III. Por incapacidad permanente derivada de riesgo de trabajo, el 100 % del último sueldo base de cotización mensual de la o el servidor público.
 
-###### ARTICULO 64.
+Para el cómputo final de los años de cotización, toda fracción superior a seis meses se podrá acreditar como un año completo, siempre que la o el servidor público pague de forma voluntaria sus cuotas más las aportaciones del Ente Público que le corresponda.
 
-Las jubilaciones y pensiones que se paguen conforme a esta Ley, se revisarán en forma periódica por el Consejo Directivo de acuerdo a los estudios actuariales que se practiquen al menos en forma anual y con base a los recursos disponibles.
+El ajuste anual de las pensiones se llevará a cabo conforme a los incrementos porcentuales que emita el Estado de Campeche por conducto de la dependencia competente.
 
-###### ARTICULO 65.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Es obligatorio para el Instituto pagar las pensiones a su cargo a partir de:
+###### ARTÍCULO 62.
 
-I.- La fecha en que el servidor público deje de prestar sus servicios y cobrar sus remuneraciones en los casos a que se refiere la fracción correspondiente del Artículo 60 de esta Ley;
+Adquieren el derecho a pensión las y los beneficiarios de la o el servidor público o pensionado:
 
-II.- El día siguiente del deceso, para la pensión por fallecimiento del servidor público y de las personas jubiladas;
+I. Al fallecer la o el servidor público como consecuencia de un riesgo de trabajo, sin importar el tiempo de cotización que haya acreditado ante el Instituto, siempre que cumpla las condiciones establecidas en la Ley del Seguro Social;
 
-III.- La fecha de presentación de la respectiva solicitud en los casos a que se refiere el Artículo 87 de la presente Ley, siempre que previamente se hayan cumplido los requisitos para tener derecho a esa pensión.
+II. Al fallecer la o el servidor público por causas ajenas a un riesgo de trabajo; y
 
-###### ARTICULO 66.
+III. Al fallecer la o el pensionado.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 63.
+
+Las cuantías de las pensiones se asignarán conforme a lo siguiente:
+
+I. Por fallecimiento de la o el servidor público a consecuencia de un riesgo de trabajo, el 100 % del sueldo base de cotización mensual;
+
+II. Por fallecimiento de la o el servidor público por causas ajenas a riesgos de trabajo, el monto de la pensión que le hubiera correspondido a la o el servidor público fallecido en caso de invalidez, conforme a lo descrito en la fracción II del artículo 61 de esta Ley; y
+
+III. Por fallecimiento de la o el pensionado, el 60 % de la última pensión percibida.
+
+Cuando existan varias personas que tengan derecho a la pensión por determinación de autoridad competente, ésta se asignará en partes iguales.
+
+En cualquier caso, al fallecer o perder sus derechos cualquiera de los beneficiarios, la parte que le correspondiese se revertirá a favor del Instituto.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 64.
+
+En caso de no existir viuda, viudo, ni concubina o concubinario, así como tampoco hijas o hijos con derecho a pensión, la pensión se otorgará por partes iguales a cada una o uno de los ascendientes de la o el servidor público o la o el pensionado fallecido, de acuerdo al artículo 63 de esta Ley, siempre que se demuestre la dependencia económica conforme a la ley.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 65.
+
+El Instituto reconocerá el derecho a las pensiones a su cargo a partir de:
+
+I. La fecha de baja como servidora o servidor público;
+
+II. Al día siguiente del deceso de la o el servidor público o pensionada o pensionado, para las pensiones por viudez, orfandad y ascendencia; y
+
+III. La fecha de presentación de la respectiva solicitud en los casos a que se refiere el artículo 87 de esta Ley, siempre que se hayan cumplido los requisitos para tener derecho a la pensión.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 66.
 
 Concluye el disfrute de una pensión en los siguientes casos:
 
-I.- Al desaparecer la inhabilitación del servidor público en los casos a que se refiere la fracción III del Artículo 60;
+I. Al desaparecer el estado de invalidez;
 
-II.- Al día siguiente del fallecimiento de la persona jubilada o de quienes disfruten de pensión como familiares o dependientes económicos del servidor público fallecido;
+II. Al día siguiente del fallecimiento de la o el pensionado; y
 
-III.- A partir de la fecha en que contraiga matrimonio o vivan en concubinato la viuda, la concubina, el menor de edad dependiente económico del servidor público o del jubilado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2015)</small>
-
-IV.- Al día siguiente de que el hijo o el menor de edad dependiente económico del servidor público, jubilado o pensionado, cumpla 18 años de edad.
+III. Al día siguiente de que la o el hijo menor de edad beneficiaria o beneficiario de la o el servidor público o de la o el pensionado fallecido cumpla 18 años de edad.
 
 Se exceptúa de este límite:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a) Las y los que acrediten que les es necesaria la pensión para continuar sus estudios profesionales o técnicos. El disfrute de la pensión concluye, en todo caso, al cumplir 25 años de edad; y
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+b) A las y los beneficiarios dependientes económicos que acrediten una discapacidad física o mental que les impida valerse por sí mismos.
 
-a) Los discapacitados con alguna afección física o mental que les impida valerse por sí mismos y/o que carezcan de otro beneficio de seguridad social; y
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+###### ARTÍCULO 67.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2015)</small>
+El sueldo promedio mensual se calculará como sigue:
 
-b) Los que comprueben, a satisfacción del Consejo Directivo, que les es necesaria la pensión para continuar sus estudios profesionales o técnicos. La pensión no podrá extenderse después de los 25 años de edad, salvo los casos en que se trate de dependientes económicos discapacitados.
+I. El sueldo base de cotización con el que el Instituto haya recibido las cuotas y aportaciones, durante los últimos sesenta meses cotizados;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+II. Cada uno de los importes se actualizarán conforme al Índice Nacional de Precios al Consumidor. El sueldo a considerar será el que resulte de promediar los valores actualizados; y
 
-###### ARTICULO 67.
+III. El sueldo promedio resultante tendrá como tope máximo el sueldo vigente de cotización a la fecha de cálculo, con excepción del caso en que la o el servidor público haya tenido una disminución en su último nivel de tabulador con respecto a los anteriores en el periodo de sesenta meses. En este caso, se considerará el promedio resultante.
 
-Las pensiones concedidas en los términos de esta Ley, se calcularán con base en el sueldo promedio. Para calcular el sueldo promedio, se procederé como sigue:
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-I.- El salario de cotización con el que el Instituto haya recibido las cuotas y aportaciones, durante los tres años anteriores al otorgamiento de la pensión, será expresado en veces del salario mínimo vigente en la fecha en que el servidor público percibía dicho salario; y
+###### ARTÍCULO 68.
 
-II.- Se promediarán los valores obtenidos conforme a la fracción anterior y dicho promedio se aplicará al salario mínimo vigente en la fecha a partir de la cual deba de iniciar el pago de la pensión.
+El monto de las pensiones que se concedan, en ningún caso, será menor a un salario mínimo ni mayor a veinticinco salarios mínimos vigentes.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+###### ARTÍCULO 69.
 
-###### ARTICULO 68.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-La cuota diaria de la jubilación o pensión que se conceda a la fecha de la jubilación conforme a esta Ley, en ningún caso será mayor que veinticinco salarios mínimos generales diarios vigentes en el área geográfica “A”, que fija la Comisión Nacional de los Salarios Mínimos.
+###### ARTÍCULO 70.
 
-###### ARTICULO 69.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-La inhabilitación o el fallecimiento se reputarán como producidos a causa o consecuencia del servicio, cuando tengan las características de riesgo de trabajo que consigna la Ley Federal del Trabajo en su Artículo 473, así como en los demás casos que exista jurisprudencia al respecto.
+###### ARTÍCULO 71.
 
-###### ARTICULO 70.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-Los casos de inhabilitación o fallecimiento por riesgos de trabajo se justificarán con examen médico de profesional nombrado por el Consejo, y con la copia certificada de las respectivas diligencias judiciales o administrativas que se hubieran desahogado sobre el caso. Si el interesado no estuviere conforme con aquel dictamen sobre la evaluación de su caso, presentará el dictamen que haya obtenido de su médico particular. Si hubiere discrepancia fundamental, el Consejo designará un tercero, perito médico, escogido de la terna que presentarán los peritos que hubieran intervenido anteriormente. El dictamen del tercero será definitivo.
+###### ARTÍCULO 72.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 71.
+###### ARTÍCULO 73.
 
-La inhabilitación o el fallecimiento provocados por el mismo servidor público, los que resulten de una riña por él provocada o los que sean consecuencia de bebidas alcohólicas, barbitúricos o estupefacientes, no generan derecho alguno a jubilación o pensión. Si aquellos ocurren después de cinco años de prestar sus servicios el inhabilitado o fallecido, el servidor público o sus dependientes económicos podrán solicitar las dos terceras partes de las aportaciones a que se refiere el Artículo 30, las cuales cubrirá el Instituto dentro de los treinta días siguientes a la fecha de la solicitud respectiva.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-###### ARTICULO 72.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Al desaparecer la inhabilitación de un servidor público jubilado, perderá el derecho a la respectiva pensión mediante acuerdo fundado del Consejo Directivo. Si el interesado no admite que ha desaparecido su inhabilitación, deberán seguirse los procedimientos que señala el Artículo 70 de esta Ley.
+###### ARTÍCULO 74.
 
-###### ARTICULO 73.
+Se considerará aceptada una pensión cuando la o el interesado no haya manifestado su inconformidad dentro del plazo de 15 días hábiles contados a partir de la fecha en que se le hubiera notificado la resolución correspondiente.
 
-El Instituto queda facultado para examinar y atender los procesos de inhabilitación y recuperación de los servidores públicos. A su cargo se practicarán los reconocimientos que resulten necesarios y proporcionará la asistencia preventiva o curativa que prescriba el servicio médico o el especialista que intervenga en el caso.
+Aceptada la pensión, la o el servidor público queda obligado a separarse definitivamente del puesto o cargo que desempeña que dio origen a la misma y carecerá de derecho para solicitar otra pensión por la misma causa.
 
-###### ARTICULO 74.
+Cuando una o un servidor público tenga derecho a pensión y hubiese desempeñado dos o más cargos, para los fines del cálculo de su pensión se tomará en cuenta su mayor antigüedad y el promedio de los sueldos de cotización correspondientes a cada uno de los cargos, conforme a lo previsto en los artículos 67 y 68 de esta Ley.
 
-Cuando un servidor público, tenga derecho a pensión por jubilación y desempeñe dos o más cargos, se tomará en cuenta su mayor antigüedad y el promedio último de sueldos devengados, conforme a lo previsto en los artículos 67 y 68 de esta Ley.
+###### ARTÍCULO 75.
 
-La jubilación no es renunciable, y aceptada por el servidor público, carecerá de derecho para solicitar otra por el mismo concepto; salvo el caso de los inhabilitados que recuperen sus facultades y queden aptos para el servicio. Se considerará aceptada una jubilación o pensión cuando el interesado no haya manifestado su inconformidad dentro del plazo de treinta días hábiles contados a partir de la fecha en que se le hubiera participado el acuerdo respectivo del Consejo Directivo.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-Aceptada la jubilación, el servidor público queda obligado a separarse definitivamente del puesto o cargo que desempeña y que dio origen a su jubilación.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 75.
+###### ARTÍCULO 76.
 
-Cuando existan varias personas que tengan derecho a una pensión, la cuota diaria se dividirá en partes iguales. Al fallecer o perder sus derechos una o varias de aquellas personas, la parte o las partes de la pensión que les correspondía quedarán a beneficio del patrimonio del Instituto. Se mantendrá íntegra la cuota diaria o total de la pensión, si entre los partícipes con derechos vigentes se encuentra el cónyuge supérstite o la concubina reconocida legalmente.
+La percepción de una pensión concedida por el Instituto es incompatible con el desempeño de cualquier cargo remunerado en los Entes Públicos.
 
-###### ARTICULO 76.
+En el supuesto de que una o un pensionado cause alta en algún Ente Público, deberá informarlo de manera inmediata y por escrito al Instituto, a efecto de que éste suspenda el pago de la pensión.
 
-La percepción de una pensión concedida por el Instituto es incompatible con el desempeño de cualquier cargo remunerado en las Entidades Públicas, con excepción de los de elección popular.
+Concluido el cargo público, se recalculará la pensión conforme al nuevo tiempo cotizado y sueldo promedio resultante. Se realizará una excepción cuando la pensión recalculada resulte menor a la que percibía, por lo que se reactivará la pensión y se tendrá derecho a la devolución de las cuotas enteradas durante el periodo laborado.
 
-###### ARTICULO 77.
+Las pensiones a que se refiere esta Ley son compatibles con el disfrute de otras pensiones que se reciban con el carácter de beneficiaria o beneficiario.
 
-Cuando un jubilado o pensionado sea declarado reo por sentencia firme en los casos de delitos contra la seguridad exterior de la Nación o en contra de la integridad territorial del Estado, automáticamente se extinguirá su derecho.
+###### ARTÍCULO 77.
 
-###### ARTICULO 78.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-Las pensiones que establece esta Ley no son susceptibles de enajenarse, cederse, gravarse o embargarse, salvo en los casos de adeudos en favor del Instituto o cuando se trate de acatar un mandato judicial sobre alimentos.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 79.
+###### ARTÍCULO 78.
 
-Por ningún motivo el Instituto dejará de pagar oportunamente las jubilaciones o pensiones. En el caso de suspensión de derechos que prevé el Artículo 37 de esta Ley, el Instituto continuará cubriendo la jubilación o pensión, cuando así lo acuerde el Consejo Directivo y cargará el importe de lo pagado a la cuenta de la Entidad Pública respectiva con sus intereses correspondientes.
+Las pensiones y/o prestaciones que establece esta Ley no son susceptibles de enajenarse, cederse, gravarse o embargarse. Sólo en los casos de obligaciones alimenticias a cargo de la pensionada o pensionado pueden embargarse por la autoridad judicial las pensiones hasta por el porcentaje que establezca la legislación de la materia.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-### CAPITULO V. PRESTAMOS A CORTO PLAZO, ESPECIALES E HIPOTECARIOS
+###### ARTÍCULO 79.
 
-###### ARTICULO 80.
+La comprobación del pago de las pensiones será por medio de constancia de depósito, transferencia y/o cualquier otro medio electrónico convenido con las instituciones financieras que permitan identificar tales pagos.
 
-Se establece para el servidor público un seguro por fallecimiento, cuya cantidad no podrá ser menor a N$1,000.00 (mil nuevos pesos 00/100 M.N.), ya sea que esté en servicio activo, jubilado o pensionado.
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 81.
+### CAPÍTULO III. SEGURO DE FALLECIMIENTO
 
-Tendrán derecho a recibir el seguro por fallecimiento quienes aparezcan consignados como beneficiarios. El importe del mismo deberá entregarse en un plazo no mayor de sesenta días contados a partir de la fecha de fallecimiento del servidor público.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 82.
+###### ARTÍCULO 80.
 
-En caso de no existir beneficiarios designados, la entrega del seguro por fallecimiento será conforme a lo establecido en el Código Civil del Estado.
+Se establece para la o el servidor público un seguro de fallecimiento, cuya cantidad será de 24 meses del sueldo base de cotización, conforme a las condiciones generales y beneficios adicionales que establezca la póliza contratada.
 
-### CAPITULO VI. DE LAS OTRAS PRESTACIONES SOCIALES
+En el caso del fallecimiento de las y los pensionados por jubilación necesaria, voluntaria o invalidez, se establece un seguro por la cantidad de sesenta mil pesos que se actualizarán conforme al Índice Nacional de Precios al Consumidor de manera anual.
 
-###### ARTICULO 83.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Se establece el Seguro de Cesantía o Separación para el servidor público, que sin derecho a pensión, deje definitivamente el servicio por cualquier causa. El importe del seguro será igual a las dos terceras partes de las aportaciones a que se refiere el Artículo 30. El seguro lo cubrirá el Instituto dentro de los treinta días siguientes a la fecha de solicitud respectiva. Con su pago se extinguirán los derechos y obligaciones del afectado.
+###### ARTÍCULO 81.
 
-###### ARTICULO 84.
+Tendrán derecho a recibir la suma asegurada del seguro de fallecimiento quienes para tal efecto aparezcan consignados en la designación de beneficiarias o beneficiarios.
 
-Para la tramitación del Seguro de Cesantía o Separación deberá presentarse la solicitud correspondiente. La Dirección del Instituto lo someterá a la consideración de su Consejo, dentro de un plazo no mayor de veinte días hábiles contados a partir de la fecha de su presentación.
+El importe deberá hacerse efectivo en un plazo no mayor de treinta días naturales contados a partir de la fecha de la solicitud e integración del expediente de la o el servidor público o la o el pensionado fallecido.
 
-###### ARTICULO 85.
+En caso de no existir designación de beneficiarias o beneficiarios o que éstas o éstos hubiesen fallecido, la suma asegurada por fallecimiento se asignará conforme a lo establecido en la legislación civil del Estado de Campeche.
 
-Del importe del seguro se deducirán los adeudos por préstamos a corto plazo en favor del Instituto y a cargo del asegurado.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 86.
+###### ARTÍCULO 82.
 
-Si el servidor público que hubiere hecho efectivo el Seguro de Cesantía o Separación reingresa al servicio antes de diez años a contar de la fecha de su separación, tendrá derecho para los efectos de esta Ley, a que se le acrediten los años de servicio comprendidos en este Seguro, siempre que pague al Instituto el importe del seguro cobrado, más el interés que se señale en la reglamentación correspondiente, por el período comprendido entre la fecha en que hizo efectivo el Seguro y la de su reingreso. El Consejo podrá conceder un préstamo especial para este caso.
+Cuando alguna o algún pensionado falleciere, sus beneficiarias o beneficiarios o quien hubiese vivido con ella o él en la fecha de fallecimiento y se hubiere hecho cargo de los gastos de inhumación, tendrán derecho de recibir el importe de hasta diez mil pesos que se actualizarán conforme al Índice Nacional de Precios al Consumidor de manera anual, siempre que acredite con la documentación respectiva haber efectuado los referidos gastos.
 
-###### ARTICULO 87.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Cuando un servidor público con quince o más años de servicio e igual tiempo de aportaciones al patrimonio del Instituto, pero con menos de cincuenta y cinco años de edad, deje de ser sujeto de esta Ley, podrá optar por el Seguro de Cesantía o Separación o bien dejar su importe en poder del Instituto para que tan pronto como cumpla aquella edad, ejercite su derecho de jubilación. En ese caso deberá manifestar su reserva por escrito, dentro del término de treinta días a partir de la fecha en que deje de ser sujeto de esta Ley. Si fallece antes de haber alcanzado la edad de cincuenta y cinco años, sus familiares o dependientes económicos tendrán derecho a recibir el Seguro de Cesantía no cobrado.
+### CAPÍTULO IV. SEGURO DE RETIRO
 
-## TITULO TERCERO. GENERALIDADES
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-### CAPITULO I
+###### ARTÍCULO 83.
 
-###### ARTICULO 88.
+Se establece el Seguro de Retiro para la o el servidor público que, sin derecho a pensión en los términos y requisitos de esta Ley, termine su relación laboral en cualquiera de los Entes Públicos.
 
-El Instituto concederá a los servidores públicos y a los jubilados, préstamos a corto plazo, especiales e hipotecarios, utilizando a título de inversión los fondos y las reservas de su patrimonio. Los tipos de interés los fijará anualmente el Consejo Directivo, así como la reglamentación correspondiente.
+El importe del Seguro de Retiro será igual al valor actualizado conforme al INPC de las dos terceras partes de las cuotas ingresadas por la o el servidor público correspondientes a la fracción I del artículo 30 de esta Ley.
 
-###### ARTICULO 89.
+En el caso de la solicitud de pensión de las y los servidores públicos a quienes el Instituto complementaría la cantidad que se requiera para cubrir los montos y porcentajes conforme a lo establecido en el artículo 58 de esta Ley, y cuyo importe a cargo del Instituto sea menor al 30% de la pensión mínima, podrán optar por recibir en una sola exhibición el importe del Seguro de Retiro, actualizado conforme al INPC, o bien por el importe que les corresponda en forma vitalicia. Para el caso de las y los beneficiarios, la comparación del 30% deberá hacerse sobre el total de las pensiones de las y los beneficiarios, con cargo al Instituto y, en su caso, el monto del Seguro de Retiro será proporcional al importe que le hubiese correspondido a cada beneficiaria o beneficiario.
 
-En toda clase de préstamos se considerará que los abonos periódicos a que quede obligado el deudor no sobrepasen el 30% de sus percepciones mensuales, computables en los términos de la presente Ley o del alcance de la pensión jubilatoria.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 90.
+###### ARTÍCULO 84.
 
-Tendrá derecho a préstamos a corto plazo, el servidor público con más de un año de servicio. El importe del préstamo que se le conceda estará en relación directa con sus años de servicio, el monto de sus percepciones y el total de sus aportaciones que acredite haber efectuado al Instituto. Cuando haya alcanzado veinticinco años o más de servicio e igual tiempo de aportaciones al Instituto, tendrá derecho a obtener un préstamo hasta por la suma de sus percepciones correspondientes a ocho meses. En todo caso deberá acreditar haber contribuido al patrimonio del Instituto con aportaciones por un período mínimo de un año.
+Para la tramitación del Seguro de Retiro, el interesado o la interesada deberá presentar la solicitud correspondiente. El Instituto emitirá la resolución en un plazo no mayor a 30 días hábiles contados a partir de la fecha de su presentación.
 
-###### ARTICULO 91.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Las personas jubiladas por el Instituto gozarán también de los derechos señalados en el Artículo anterior, pero el monto del préstamo no será mayor del saldo que resulte del Seguro por Fallecimiento; excepcionalmente el Consejo Directivo podrá ampliar el importe del préstamo cuando estime que la cuantía de la jubilación garantiza el pago del crédito. En ningún caso excederá de la suma de ocho meses de pensión.
+###### ARTÍCULO 85.
 
-###### ARTICULO 92.
+Del importe de este Seguro se deducirán los adeudos en favor del Instituto a cargo de la o el asegurado.
 
-Los préstamos a corto plazo y sus intereses los cubrirá el deudor en abonos iguales, quincenales, en un plazo no mayor de 11 meses, y sólo se concederá un nuevo préstamo de esta clase cuando se encuentre liquidado el anterior. Sin embargo, podrá renovarse o ampliarse en su monto o plazo, si han transcurrido seis quincenas a partir de la fecha en que fue concedido y se esté al corriente en los abonos convenidos; además deberá cubrirse la prima de renovación que anualmente fije el Consejo Directivo, así como los intereses que devengue el préstamo renovado o ampliado.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 93.
+###### ARTÍCULO 86.
 
-Todo préstamo a corto plazo y sus intereses quedan garantizados con el importe del Seguro de Cesantía o Separación a que tenga derecho el deudor. En todo caso y sin excepción, para cubrir los saldos de préstamos insolutos, por baja o muerte del derechohabiente, se pagará la prima del 1% del importe del préstamo autorizado, para cubrir el seguro correspondiente.
+Con el pago del Seguro de Retiro se extinguirán las expectativas de derechos de la o el solicitante; no obstante, si ésta o éste reingresa a cualquiera de los Entes Públicos antes de transcurridos cinco años contados a partir de la fecha de su baja laboral, tendrá derecho a que se le computen los años cotizados para los efectos de esta Ley, siempre que pague al Instituto el importe del Seguro cobrado más las actualizaciones respectivas, por el período comprendido entre la fecha en que hizo efectivo el Seguro y la de su reingreso.
 
-###### ARTICULO 94.
+El Instituto podrá conceder un préstamo a la o el servidor público que servirá para realizar la devolución del Seguro pagado y sus actualizaciones.
 
-Todo préstamo a corto plazo se considera insoluto cuando el deudor sea separado definitivamente del servicio y no continúe cubriendo los abonos a que está obligado. En este caso se incrementarán las reservas especiales por acuerdo del Consejo Directivo, teniendo en cuenta el importe de los saldos anuales de los préstamos insolutos. Estas disposiciones no conceden ni suponen quita ni espera en favor del moroso. El Instituto deberá hacer efectivo el adeudo en los términos legales que procedan.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 95.
+###### ARTÍCULO 87.
 
-El préstamo especial con garantía colateral será aquél que llene tal requisito a satisfacción del Director General y estará destinado a resolver un problema económico urgente o a cubrir una necesidad apremiante que en uno u otro caso ayude a mejorar la situación económica del servidor público y de su familia. El Director General calificará su procedencia y señalará los términos de la garantía colateral.
+Cuando una o un servidor público que cumpla con el requisito mínimo de cotizaciones no hubiese alcanzado la edad de acceso a la pensión y dejara de ser sujeto de esta Ley, podrá optar por el Seguro de Retiro; o bien, dejar su importe en poder del Instituto para que, cuando cumpla la edad y los restantes requisitos exigidos, ejercite su derecho a pensión.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+Si falleciera antes de haber ejercido su derecho a pensión, las o los beneficiarios tendrán derecho a recibir la pensión de viudez y orfandad correspondientes, en los términos de esta Ley.
 
-###### ARTICULO 96.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-El préstamo especial con garantía colateral deberá cubrirse dentro de un plazo no mayor de treinta y seis meses, con los intereses que fije el Consejo Directivo, mediante pagos periódicos iguales o en una sola exhibición. Se documentará con arreglo a los títulos ejecutivos mercantiles y en ningún caso se hará la renovación o ampliación de esta clase de préstamos.
+## TÍTULO TERCERO. DE LAS PRESTACIONES FACULTATIVAS
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 97.
+### CAPÍTULO I. PRÉSTAMOS
 
-El Instituto concederá préstamos especiales para la adquisición de productos de consumo duradero según las disponibilidades del Instituto, siempre que el solicitante ofrezca garantía suficiente a Juicio del Director y lo amortice en un período no mayor de treinta y seis meses, con descuentos quincenales.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+###### ARTÍCULO 88.
 
-###### ARTICULO 98.
+El Instituto podrá conceder a las y los servidores públicos y a las y los pensionados por jubilación, invalidez y viudez préstamos, cuyo otorgamiento estará sujeto a la disponibilidad financiera y suficiencia presupuestaria del Instituto, condicionado a que exista factibilidad en la liquidez para hacer frente al pago de las obligaciones, según las proyecciones actuariales.
 
-Los servidores públicos y los jubilados por el Instituto tendrán derecho a obtener préstamos hipotecarios que se otorgarán por acuerdo del Consejo Directivo con los recursos del Instituto. Esta clase de préstamos se concederán al servidor público con cinco años como mínimo de contribución al patrimonio del Instituto, así como al servidor público jubilado. Se destinarán exclusivamente a resolver el problema de la habitación familiar y, por consiguiente, sólo se otorgarán para comprar o construir una casa habitación, incluyendo o no el valor del terreno; para realizar ampliaciones, reparaciones o ambos trabajos; o para redimir gravámenes constituidos sobre la casa habitación propiedad del solicitante.
+La tasa de interés de los préstamos será la establecida en el Reglamento de Prestaciones.
 
-###### ARTICULO 99.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-El préstamo hipotecario se cubrirá en un plazo que no exceda de 20 años con rentas mensuales de amortización cuyo importe fijará el Consejo Directivo, teniendo en cuenta las tablas respectivas que estarán en relación con el límite de los descuentos que señala el Artículo 89.
+###### ARTÍCULO 89.
 
-###### ARTICULO 100.
+En toda clase de préstamos se considerará que los abonos periódicos a que quede obligado la o el deudor no sobrepasen el 30% de sus percepciones salariales o de su pensión.
 
-En ningún caso el importe del préstamo hipotecario que se conceda, ya sea para una sola persona o dos o más en mancomún, podrá ser mayor del 80% del valor del avalúo del inmueble apegándose en todos los casos a la reglamentación que dicte el Instituto.
+Para el caso de las y los trabajadores de confianza, de conformidad con las disposiciones de la Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche, podrá excederse del porcentaje señalado en el párrafo anterior, siempre que ellas y ellos manifiesten su consentimiento expreso.
 
-###### ARTICULO 101.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-El importe del préstamo hipotecario podrá aumentarse con los gastos de la operación notarial correspondiente, cuando se trate de un préstamo para adquirir, construir, reparar o ampliar la casa habitación; la garantía se fincará sobre todo el inmueble incluyendo nuevas obras.
+###### ARTÍCULO 90.
 
-###### ARTICULO 102.
+Podrá solicitar el préstamo la o el servidor público que acredite haber cotizado al menos un año al Instituto. El monto del préstamo de la o el servidor público se establecerá en razón al sueldo base de cotización y al importe del Seguro de Retiro.
 
-El Instituto vigilará la correcta inversión del préstamo hipotecario. El deudor consentirá en esta vigilancia dando las facilidades que sean necesarias. El importe del préstamo se le entregará a medida que compruebe el monto de las inversiones que se hayan efectuado.
+Los préstamos de las o los servidores públicos, así como sus intereses, quedan garantizados con el importe del Seguro de Retiro correspondiente.
 
-###### ARTICULO 103.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Las operaciones hipotecarias que se realicen al amparo de esta Ley, se sujetarán a las disposiciones legales vigentes aplicables a la materia.
+###### ARTÍCULO 91.
 
-###### ARTICULO 104.
+El monto del préstamo de las y los pensionados en ningún caso podrá exceder de la suma de ocho meses de pensión, considerándose lo establecido en los artículos 92 y 93 de esta Ley.
 
-Los préstamos hipotecarios se acordarán y despacharán conforme al número progresivo del registro de las solicitudes, obedeciendo el plan de inversiones que anualmente formule el Consejo Directivo. Tendrán preferencia en el orden siguiente: préstamos para redimir gravámenes; préstamos para comprar o construir casa habitación, incluyendo o no el valor del terreno; préstamos destinados a realizar reparaciones y ampliaciones de las casas habitación propiedad de los sujetos de esta Ley; y de los préstamos para otras finalidades. Sólo en casos especiales a juicio del Consejo Directivo y por una causa que se estime fundada se modificará el orden antes establecido.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Sólo se concederá un préstamo hipotecario destinado a redimir gravámenes, siempre que se haya constituido con antelación a la solicitud para el préstamo hipotecario y que la garantía real en favor del Instituto sea en primer lugar.
+###### ARTÍCULO 92.
 
-###### ARTICULO 105.
+Los préstamos y sus intereses los cubrirá la o el deudor en abonos iguales, quincenales, retenidos a través de las nóminas de pagos del Ente Público respectivo, o directamente ante el Instituto cuando causen baja del servicio público, en un plazo no mayor de 36 meses, y sólo se concederá un nuevo préstamo cuando se encuentre liquidado el anterior.
 
-El solicitante de un préstamo hipotecario estará obligado a cumplir con los requisitos que se exijan para esta operación así como a pagar los gastos del avalúo, notariales y de otra índole. El Instituto queda facultado para deducir el importe de estos gastos del total del préstamo y en su caso, a ordenar los descuentos que correspondan a las percepciones del deudor.
+Cuando la o el interesado se encuentre al corriente en las obligaciones convenidas en el pagaré, podrá solicitar la reestructuración de su préstamo. El Instituto, considerando la capacidad de pago de la o el servidor público o la o el pensionado, decidirá sobre la reestructuración solicitada.
 
-###### ARTICULO 106.
+Solo podrá autorizarse la reestructuración por una ocasión sobre la misma línea de préstamo, conforme a las disposiciones del Reglamento de Prestaciones. Al realizar la reestructura del préstamo la o el deudor deberá pagar una prima de renovación, así como los intereses que devengue el préstamo renovado o ampliado.
 
-Sólo se concederán préstamos hipotecarios sobre inmuebles ubicados en el Estado de Campeche. Podrán ser ampliados en su importe, pero no prorrogados. La ampliación se otorgará previo examen técnico ordenado por el Instituto, a fin de determinar si resulta aconsejable para mantener en condiciones de habitabilidad el inmueble relacionado con la primitiva operación. Quien haya hecho un préstamo hipotecario no tendrá derecho a que se le conceda otro mientras permanezca insoluto el anterior; y sólo se le otorgará un nuevo préstamo de esta clase si han pasado dos años de haber liquidado el anterior y si el dinero se destina para redimir gravámenes o para ampliar la casa propiedad del solicitante o efectuar reparaciones en ella.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 107.
+###### ARTÍCULO 93.
 
-Dentro del régimen de Seguridad Social que establece este ordenamiento, el Instituto realizará actividades especiales y otorgará prestaciones que tiendan a mejorar las condiciones económicas, sociales y culturales de las personas físicas que son sujetos de esta Ley, mediante:
+Todo préstamo se considerará insoluto cuando la o el deudor sea separado del servicio público y no continúe cubriendo los abonos a que está obligado. El Instituto deberá hacer efectivo el adeudo en los términos legales que procedan.
 
-I.- El establecimiento de almacenes para la venta de artículos domésticos, de alimentación y de vestido;
+En todo caso y sin excepción, para cubrir los saldos de préstamos insolutos, por muerte de la afiliada o afiliado, se pagará anualmente una prima del 1% del importe del préstamo autorizado por concepto de seguro de amortización del préstamo.
 
-II.- La creación de guarderías y estancias infantiles, centros vacacionales y campos deportivos o recreativos;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-III.- Los servicios de hospedaje eventual;
+###### ARTÍCULO 94.
 
-IV.- La fundación de bibliotecas, centros de capacitación y de extensión educativa y cultural; y
+Cuando una o un servidor público que haya cotizado al menos cinco años, o una o un pensionado, se enfrente a una necesidad que ponga en peligro su estabilidad económica o patrimonial, podrá solicitar al Instituto la ampliación de los límites del monto o plazo del préstamo. La o el Director General calificará los términos de las garantías.
 
-V.- La promoción de viajes recreativos culturales.
+###### ARTÍCULO 95.
 
-###### ARTICULO 108.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-El Instituto organizará asociaciones encargadas de fomentar las actividades comprendidas en el Artículo anterior. Estos organismos auxiliares también se ocuparán de promover lo necesario para mejorar los lazos de cooperación mutua entre las personas físicas sujetas a esta Ley.
+###### ARTÍCULO 96.
 
-###### ARTICULO 109.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-El Consejo Directivo del Instituto considerará en su presupuesto anual de egresos los gastos que demanden el desarrollo de los programas y de las actividades que señala este Capítulo. Asimismo, se le faculta a dictar los acuerdos y expedir los reglamentos respectivos.
+###### ARTÍCULO 97.
 
-###### ARTICULO 110.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-El derecho a la jubilación y a la pensión que tienen los servidores públicos es imprescriptible.
+###### ARTÍCULO 98.
 
-###### ARTICULO 111.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-Las pensiones caídas, el seguro de cesantía o separación y cualquier prestación en dinero a cargo del Instituto que no se reclame dentro de los cinco años siguientes a la fecha en que hubieran sido exigibles, prescribirán a favor del Instituto.
+###### ARTÍCULO 99.
 
-###### ARTICULO 112.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-Los créditos respecto de los cuales el Instituto, tenga el carácter de acreedor, cualquiera que sea su especie, prescribirán en cinco años a partir de la fecha en que el propio Instituto pueda, conforme a la Ley, ejercitar sus derechos.
+###### ARTÍCULO 100.
 
-###### ARTICULO 113.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
-Las obligaciones que en favor del Instituto señala la presente Ley a cargo de las Entidades Públicas, prescribirán en el plazo de cinco años contados a partir de la fecha en que sean exigibles.
+###### ARTÍCULO 101.
 
-###### ARTICULO 114.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
+
+###### ARTÍCULO 102.
+
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
+
+###### ARTÍCULO 103.
+
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
+
+###### ARTÍCULO 104.
+
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
+
+###### ARTÍCULO 105.
+
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
+
+###### ARTÍCULO 106.
+
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO II. DE LAS PRESTACIONES SOCIALES
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 107.
+
+Dentro del Régimen de Seguridad Social que establece esta Ley, con criterios de racionalidad económica, el Instituto proporcionará los siguientes servicios y programas sociales, con el objetivo de mejorar las condiciones de vida de las y los afiliados:
+
+I. El Instituto, a través del Centro de Desarrollo Infantil, proveerá educación preescolar en sus tres niveles, durante la jornada laboral matutina de la madre o padre afiliado, o de aquella o aquel al que judicialmente se le hubiere confiado la custodia de sus hijas o hijos; y
+
+II. Para fortalecer el desarrollo personal y calidad de vida de las y los pensionados, impulsar y desarrollar su productividad y fomentar el cuidado de la salud, el Instituto, a través del Centro Integral del Adulto Mayor, proporcionará orientación, talleres y capacitación enfocados al envejecimiento activo y coordinará actividades culturales, sociales, deportivas y recreativas a favor de éstas y éstos.
+
+Además de las y los pensionados, en los términos de esta Ley, podrán acceder al Centro Integral del Adulto Mayor, sin costo alguno, las personas con 55 años o más que hayan cotizado al Instituto y causado baja sin derecho a pensión por no haber cumplido con los términos y requisitos para su obtención.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 108.
+
+El Instituto podrá ofrecer sus instalaciones estableciendo tarifas de recuperación de los costos correspondientes, a efectos de generar recursos para apoyar su financiamiento y mantenimiento.
+
+###### ARTÍCULO 109.
+
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+## TÍTULO CUARTO. GENERALIDADES
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO I. PRESCRIPCIÓN
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 110.
+
+El derecho al otorgamiento de las pensiones establecidas en esta Ley es imprescriptible.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 111.
+
+El Seguro de Retiro que no sea reclamado dentro del plazo de cinco años, en los términos establecidos en esta Ley, prescribirá a favor del Instituto.
+
+Las restantes prestaciones que no hayan sido exigibles dentro del plazo de un año prescribirán en favor del Instituto.
+
+El derecho de las y los pensionados para reclamar el pago de cualquier mensualidad devengada y no percibida prescribe en el plazo de un año.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 112.
+
+Los préstamos respecto de los cuales el Instituto tenga el carácter de acreedor, cualquiera que sea su especie, prescribirán en cinco años a partir de la fecha en que sean exigibles.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 113.
+
+Las obligaciones que en favor del Instituto señala la presente Ley a cargo de los Entes Públicos prescribirán en el plazo de diez años contados a partir de la fecha en que sean exigibles.
+
+En todos los supuestos contemplados en este capítulo, la prescripción se interrumpirá por cualquier gestión de cobro hecha por escrito judicial o extrajudicialmente.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 114.
 
 La prescripción se interrumpirá por cualquier gestión de cobro hecha por escrito judicial o extrajudicialmente.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 115.
+### CAPÍTULO II. DE LAS RESPONSABILIDADES
 
-Los servidores públicos que violen las disposiciones que les impone esta Ley, serán sancionados con multa de hasta cincuenta veces el salario mínimo vigente en el momento de su aplicación, según la gravedad del caso.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+###### ARTÍCULO 115.
 
-###### ARTICULO 116.
+Las y los servidores públicos del Instituto están obligados a cumplir con los principios de ética profesional, honradez, imparcialidad y eficiencia en la prestación de los servicios y en la atención a las y los afiliados, y estarán sujetos a las responsabilidades civiles, penales y administrativas en que puedan incurrir, de acuerdo con las disposiciones legales aplicables.
 
-Sin perjuicio de lo establecido en el Artículo anterior, los miembros del Consejo Directivo, el Director y los servidores públicos, estarán sujetos a la responsabilidad civil, administrativa o en su caso penal, que pudiera derivar, al tomar acuerdos o medidas notoriamente lesivas para la Institución; por lo que en salvaguarda de los intereses económicos y solidez financiera de la misma, deberán fundamentar sus decisiones en estudios económicos, los que una vez aprobados, se relacionarán y anexarán a las actas que contengan los respectivos acuerdos.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 117.
+###### ARTÍCULO 116.
 
-Se considerará como fraude y se sancionará como tal, en los términos del Código Penal del Estado, el obtener prestaciones que esta Ley concede a los servidores públicos, sin tener el carácter de derechohabientes o beneficiarios de los mismos mediante cualquier engaño ya sea en virtud de simulaciones, substitución de personas o cualquier otro acto.
+Las y los servidores públicos que dejen de cumplir con alguna de las obligaciones que les impone esta Ley, serán responsables en los términos de las disposiciones legales aplicables. El incumplimiento de esas obligaciones administrativas será notificado, en su caso, a la autoridad competente en los términos previstos en la Ley General de Responsabilidades Administrativas.
 
-###### ARTICULO 118.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-Cuando se establezca una responsabilidad pecuniaria a cargo del servidor público y a favor del Instituto por la imposición de las sanciones establecidas en este Capítulo o por haber recibido servicios indebidamente, las Entidades Públicas de quien dependa el servidor público, le harán a petición del Instituto, los descuentos correspondientes hasta por el importe de su responsabilidad.
+###### ARTÍCULO 117.
 
-###### ARTICULO 119.
+Cualquier persona que, mediante engaño, simulación, sustitución de persona, o cualquier otro medio, obtenga indebidamente las prestaciones que señala esta Ley, reintegrará al Instituto el importe de los montos obtenidos, así como las actualizaciones y recargos correspondientes, independientemente de la responsabilidad penal, civil, laboral o administrativa en que incurra.
 
-Los facultativos de las unidades médicas que expidan incapacidades improcedentes, conforme a la investigación que practique la Dirección del Instituto, serán denunciadas al Ministerio Público por la responsabilidad que conforme al Código Penal pueda resultar.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-###### ARTICULO 120.
+###### ARTÍCULO 118.
 
-Las sanciones previstas en los artículos anteriores, serán impuestas por el Director General después de oír al interesado y serán revisables por el Consejo Directivo, si se hace valer la inconformidad por escrito dentro del plazo de quince días.
+El Instituto está obligado a proporcionar la información o documentación solicitada por las autoridades investigadoras de presuntas faltas administrativas, en términos de la Ley General de Responsabilidades Administrativas.
+
+###### ARTÍCULO 119.
+
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO III. DE LOS MEDIOS DE DEFENSA
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 120.
+
+Los Entes Públicos, las personas afiliadas, pensionadas, así como beneficiarias, podrán interponer Recurso de Inconformidad contra las resoluciones y actos definitivos del Instituto, en relación con las prestaciones establecidas en la presente Ley, en los términos y conforme al procedimiento que establezca el Reglamento de Prestaciones.
+
+Las resoluciones o acuerdos del Instituto que no hubiesen sido impugnados en la forma y términos que señale el Reglamento de Prestaciones, se entenderán consentidos.
 
 ## TRANSITORIOS
 
@@ -1102,3 +1378,83 @@ P.O. 26 DE NOVIEMBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 76 POR EL QUE SE “MODFICA LA ESTRUCTURA DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE, REORDENANDO SUS TÍTULOS, CAPÍTULOS Y SUS RESPECTIVAS DENOMINACIONES, SE REFORMAN LOS ARTÍCULOS 1, 2, 3, 5 ,6, 7, 8, 10, 11, 12, 13, 14, 18, 19, 20, 21, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 38, 39, 41, 42, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 74, 76, 78, 79, 80, 81, 82, 83, ,84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 107, 108, 110, 111, 112, 113, 115, 116, 117, 118 Y 120 Y; SE DEROGAN LOS ARTÍCULOS 4, 15, 16, 17, 22, 23, 35, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 69, 70, 71, 72, 73, 75, 77, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 109 Y 119 DEL CITADO ORDENAMIENTO LEGAL, EL CUAL PARA SER EXPEDITA SU COMPRENSIÓN Y FACILITAR SU OBSERVANCIA Y APLICACIÓN SE REPRODUCE INTEGRALMENTE, EXPEDIDO POR LA LXIII LEGISLATURA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO No. 1005 SEGUNDA SECCIÓN DE FECHA 28 DE AGOSTO DE 2019”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero del año 2020, previa publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se autoriza a la o el Director General para que celebre o suscriba todos los documentos, contratos, convenios, mecanismos, instrucciones o cualquier instrumento financiero que autorice la Junta de Gobierno como fuente de pago, y pagar los gastos adicionales que conlleve incluyendo sin limitar, los costos y gastos asociados a su contratación, administración y cualquier otro concepto de la operación autorizada en esta Ley, tales como comisiones y costos de estructuración financiera y legal y demás gastos que sean necesarios.
+
+TERCERO.- Se autoriza al Instituto, a través de la o del Director General, para que, en cumplimiento del artículo Quinto Transitorio del Decreto 88 publicado en el Periódico Oficial del Estado el 4 de noviembre de 2016, así como el Duodécimo Transitorio del Decreto 32 publicado en el Periódico Oficial del Estado el 27 de diciembre de 2018, celebre convenios de regularización con aquellos Entes Públicos que en su momento hayan recibido financiamientos, con el propósito de restructurar el periodo de amortización con plazo máximo al 15 de junio del año 2021, así como a condonar los intereses ordinarios y moratorios que se hayan originado, condicionado a la suscripción del precitado convenio que garantice la recuperación de los adeudos durante el plazo señalado.
+
+Del mismo modo podrá procederse en los términos del párrafo anterior, en los casos de adeudos en general que tengan los Entes Públicos a favor del Instituto.
+
+CUARTO.- Las pensiones concedidas a la fecha de entrar en vigor esta Ley, pagadas por el Instituto con cargo al Presupuesto de Egresos del Gobierno del Estado de Campeche, continuarán haciéndose efectivas en las mismas condiciones hasta el último pensionado con vigencia de derechos, de acuerdo con el Convenio de Transferencia de Nómina de Pensionados, suscrito con la Secretaría de Administración e Innovación Gubernamental de fecha 13 de septiembre de 2016.
+
+QUINTO.- Las cuotas establecidas en el artículo 30 de esta Ley se aplicarán y entrarán en vigor de forma gradual conforme a la siguiente tabla:
+
+Año Cuota
+
+2020 8.75%
+
+2021 9.0%
+
+2022 9.25%
+
+2023 9.5%
+
+2024 9.75%
+
+2025 10%
+
+Respecto a la fracción III del artículo 30 de esta Ley, la disminución de la cuota en 0.5% correspondiente al financiamiento de los gastos de administración será trasladada al financiamiento de los sistemas de pensiones y seguros, establecido en la fracción I del mencionado artículo, de forma gradual conforme a la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 28 DE AGOSTO DE 2019, PÁGINA 25.]</small>
+
+Las cuotas se actualizarán siempre y cuando resulte un movimiento compensado a favor de los servidores públicos en los descuentos fiscales correspondientes.
+
+SEXTO.- Las aportaciones establecidas en el artículo 31 de esta Ley se aplicarán y entrarán en vigor de forma gradual conforme a la siguiente tabla:
+
+Año Aportación
+
+2020 14 %
+
+2021 14.50%
+
+2022 15%
+
+El incremento gradual establecido se aplicará para el financiamiento del Sistema de Pensiones y Seguros.
+
+SÉPTIMO.- Con el fin de garantizar el servicio médico a los maestros de educación básica afiliados al Instituto antes del 16 de agosto de 2012, el Poder Ejecutivo, por conducto de la Secretaría de Administración e Innovación Gubernamental, los mantendrá inscritos al seguro de salud del ISSSTE durante todo el tiempo de cotización al Instituto, hasta el último con vigencia de derechos.
+
+El Instituto, a solicitud del servidor público de educación básica afiliado al Instituto antes del 16 de agosto de 2012, contratará los servicios de un perito en medicina del trabajo para emitir resoluciones sobre el estado de invalidez.
+
+Asimismo, en caso de solicitud de la prestación de guardería por parte del servidor público de este grupo de educación básica, el Instituto cubrirá el costo de la subrogación mediante convenio con guarderías acreditadas por el IMSS.
+
+OCTAVO.- Las y los Servidores Públicos que hayan iniciado sus cotizaciones al Instituto con anterioridad al 1 de julio de 2005, y que a la entrada en vigor del presente Decreto aún no tengan derecho a pensión voluntaria por no contar con los 30 años de cotización al Instituto, conforme a lo dispuesto en la misma, se le aplicará al monto que le corresponda del porcentaje establecido en la siguiente tabla, de acuerdo a su edad:
+
+Edad de inicio de Pensión Porcentaje a percibir
+
+55 años o menos 90%
+
+56 años 92%
+
+57 años 94%
+
+58 años 96%
+
+59 años 98%
+
+60 años 100%
+
+En el caso de las personas que a la entrada en vigor del presente Decreto tengan derecho a una pensión necesaria, al momento de su jubilación, podrán optar entre el importe de la pensión calculada de acuerdo al artículo 61 o al monto correspondiente conforme al presente Decreto.
+
+NOVENO.- Los Entes Públicos de incorporación voluntaria al Instituto, contarán con un plazo de 180 días hábiles a partir de la publicación de esta Ley, para suscribir o, en su caso, renovar los convenios de afiliación con el Instituto.
+
+En el caso de que algún Ente Público de los señalados en el párrafo anterior no desee suscribir la renovación de su convenio de afiliación o decida su no permanencia al sistema de seguridad social que establece esta Ley través de este Instituto, podrá optar por solicitar su desafiliación, misma que estará sujeta al estudio actuarial sobre los mecanismos de portabilidad de los derechos de los servidores públicos.
+
+DÉCIMO.- La Junta de Gobierno del Instituto contará con un plazo que no exceda de 180 días naturales contados a partir de la publicación del presente Decreto, para emitir el Reglamento Interior, el Reglamento Financiero y de Inversiones y el Reglamento de Prestaciones del Instituto.
+
+UNDÉCIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, que se opongan al contenido del presente Decreto.
