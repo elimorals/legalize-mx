@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-financiamiento-rural-para-el-estado-de-michoacan-de-5974
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-12"
-last_updated: "2008-02-12"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 12 de febrero de 2008.
 
@@ -483,9 +483,11 @@ La Secretaría atendiendo la agenda de ejercicio de buen gobierno y para efectos
 
 ## TÍTULO VII. Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 43.
 
-Toda persona podrá denunciar ante las siguientes instancias: Secretaría de la Contraloría y Desarrollo Administrativo Estatal, Procuraduría General de Justicia del Estado, Procuraduría General de la República, Secretaría De Hacienda y Crédito Público, y ante cualquier otra dependencia u autoridad competente, todo hecho, acto u omisión que:
+Toda persona podrá denunciar ante las siguientes instancias: Secretaría de la Contraloría y Desarrollo Administrativo Estatal, Fiscalía General del Estado, Fiscalía General de la República, Secretaría De Hacienda y Crédito Público, y ante cualquier otra dependencia u autoridad competente, todo hecho, acto u omisión que:
 
 I. Viole o infrinja la normatividad federal, estatal y municipal, en materia de financiamiento rural;
 
@@ -522,3 +524,11 @@ PRESIDENTE.- DIP. GUSTAVO ARIAS GARDUÑO.- PRIMER SECRETARIO.- DIP. ROBERTO CRUZ
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 16 dieciséis días del mes de enero del año 2008 dos mil ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO NOVENO.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 43 DE LA LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
