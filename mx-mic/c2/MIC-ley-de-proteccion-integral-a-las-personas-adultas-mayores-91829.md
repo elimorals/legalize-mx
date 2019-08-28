@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-integral-a-las-personas-adultas-mayores-91829
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-24"
-last_updated: "2013-01-24"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el jueves 24 de enero de 2013.
 
@@ -131,7 +131,9 @@ f) Secretaría de Salud;
 
 g) Secretaría de Turismo;
 
-h) Procuraduría General de Justicia;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+h) Fiscalía General del Estado;
 
 i) Sistema DIF Michoacán;
 
@@ -201,7 +203,13 @@ VI. Recibir un trato digno y apropiado de las autoridades estatales y municipale
 
 VII. Recibir atención preferente, respetuosa, personalizada y expedita en las dependencias de Gobierno;
 
-VIII. Tener acceso a los servicios necesarios considerando alimentos, bienes, servicios y condiciones humanas ó materiales para su atención integral;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+VIII. Tener acceso a los servicios necesarios considerando alimentos, bienes, servicios y condiciones humanas o materiales para su atención integral.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+Tener acceso a acciones y programas orientados a fortalecer las capacidades económicas para lograr una alimentación nutritiva, suficiente y culturalmente adecuada a sus circunstancias y capacidades, así como a los satisfactores necesarios para ello, así como cuando carezcan de medios propios, recibir apoyos en materia alimenticia.
 
 IX. Tener acceso preferente a los servicios generales de salud estatal, así como a la atención hospitalaria inmediata en casos de emergencia, fundamentalmente en beneficio de aquella población no derechohabiente de ninguna institución de seguridad social y de quien se encuentre en extrema pobreza;
 
@@ -225,11 +233,19 @@ XVIII. Formar asociaciones, grupos u organizaciones de apoyo mutuo y de particip
 
 XIX. Gozar de igualdad de oportunidades en el acceso al trabajo digno y socialmente útil;
 
-XX. Acceder a actividades no lucrativas voluntarias, conforme a su oficio, habilidad manual o profesión, sin más restricción que su limitación física o mental, declarada en su caso por autoridad médica o legal competente;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XXI. Acceder a capacitación que le permita desarrollar una actividad o la prestación de un servicio;
+XX. Decidir libremente sobre su actividad laboral y a seguir siendo parte activa de la sociedad, recibiendo en consecuencia la oportunidad, en igualdad de condiciones, de desempeñarse en trabajos, actividades lucrativas o voluntarias, conforme a sus propios intereses, profesión, oficio o habilidad, aprovechando de esta manera sus capacidades y experiencias. Las deficiencias físicas, psíquicas, cognitivas o de cualquier otro carácter, no podrán ser tomadas válidamente como elementos que excluyan a las personas mayores de su derecho al trabajo. La denegación de llevar a cabo ajustes razonables, en el ejercicio pleno del derecho al trabajo de las personas mayores, será considerado como una discriminación en si misma por razón de edad;
 
-XXII. Ingresar a bolsas de trabajo de las instituciones públicas y privadas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XXI. Acceder a capacitación que le permita desarrollar una actividad o la prestación de un servicio acorde con su edad y capacidad, así como asesoría y seguimiento a iniciativas de gestión de crédito y micro crédito;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XXII. Ingresar a bolsas de trabajo de las instituciones públicas y privadas, así como gozar de igualdad de oportunidades en el acceso al trabajo o en otras opciones que les permitan un ingreso propio y un desempeño productivo.
+
+Acceder a las oportunidades de empleo en áreas especiales en las que pueda desarrollarse dentro de las fuentes de trabajo, con horarios accesibles, de acuerdo con las prestaciones de ley, con salarios dignos y reconocimiento al derecho de asociación y libertad sindical.
 
 XXIII. Disfrutar de los servicios públicos con perspectiva de género y calidad;
 
@@ -557,11 +573,15 @@ IX. Fomentar la creación de empleos permanentes así como temporales, en los cu
 
 X. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
-#### SECCIÓN VIII. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2019)</small>
+
+#### SECCIÓN VIII. DE LA FISCALÍA GENERAL DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 18.
 
-Corresponde a la Procuraduría General de Justicia del Estado de Michoacán de Ocampo a través de la Fiscalía Especializada para la Atención del Delito de Violencia Familiar y las áreas afines a la atención de las personas adultas mayores las siguientes atribuciones:
+Corresponde a la Fiscalía General del Estado a través de la Fiscalía Especializada para la Atención del Delito de Violencia Familiar y las áreas afines a la atención de las personas adultas mayores las siguientes atribuciones:
 
 I. Asesorar para la prevención y solución de conflictos en cualquier procedimiento legal en el que sean partes interesadas;
 
@@ -595,7 +615,9 @@ VI. Procurar servicios de albergues y estancias, con el objeto de satisfacer las
 
 VII. Brindar los servicios de asistencia social y atención integral que le corresponda;
 
-VIII. Coadyuvar con la Procuraduría General de justicia del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+VIII. Coadyuvar con la Fiscalía General del Estado, en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
 
 IX. Presentar denuncias ante las autoridades competentes, cuando sea procedente de cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general, cualquier acto que perjudique a las personas adultas mayores;
 
@@ -757,17 +779,49 @@ VII. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
 Corresponde a la Junta de Asistencia Privada del Estado las atribuciones siguientes:
 
-I. Verificar que las instituciones que asistan, alberguen o apoyen a las personas adultas mayores cumplan con lo siguiente:
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-a) Mantener el orden y velar por la convivencia armónica de los albergados;
+I. Verificar que las instituciones, organizaciones o asociaciones que asistan, alberguen o apoyen a las personas adultas mayores cumplan con lo siguiente:
 
-b) Contar con personal capacitado y especializado en la atención de personas adultas mayores;
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+a) Mantener el orden y velar por el cuidado y convivencia armónica de los albergados;
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+b) Contar con personal profesional, capacitado y especializado en la atención de personas adultas mayores;
 
 c) Proporcionar la convivencia entre el albergado y su familia;
 
-d) Gestionar recursos a nivel federal, estatal, municipal y la sociedad civil para mantener en óptimas condiciones las instalaciones;
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
-e) Emitir informes trimestrales sobre los siguientes aspectos:
+d) Proteger, dar seguridad e higiene a los albergados y del lugar;
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+e) Supervisar e inspeccionar en materia de salud y protección civil;
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+f) Fomentar el cuidado de la salud;
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+g) Brindar atención médica de primera mano con personal debidamente certificado;
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+h) Alimentar de manera adecuada y suficiente para una mayor y mejor nutrición;
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+i) Otorgar espacios para el descanso, esparcimiento, juego y actividades recreativas acordes a su edad;
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+j) Gestionar recursos a nivel federal, estatal, municipal y la sociedad civil para mantener en óptimas condiciones las instalaciones; y,
+
+k) Emitir informes trimestrales sobre los siguientes aspectos:
 
 I. Los ingresos y egresos que tenga la institución.
 
@@ -1182,3 +1236,25 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 11 once días del mes de septiembre del año 2012 dos mil doce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- ARTÍCULO DÉCIMO SEXTO. SE REFORMA EL INCISO H) DE LA FRACCIÓN I DEL ARTÍCULO 4, EL TÍTULO DE LA SECCIÓN VIII, EL ARTÍCULO 18 Y LA FRACCIÓN VIII DEL ARTÍCULO 19 DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 157.- ARTÍCULO ÚNICO.- SE ADICIONA UN PÁRRAFO A LA FRACCIÓN VIII; Y SE REFORMAN LAS FRACCIONES XX, XXI Y XXII DEL ARTÍCULO 9 DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 159 POR EL QUE “SE REFORMA LA FRACCIÓN I, INCISOS A) Y B), Y SE ADICIONAN LOS INCISOS D), E), F), G), H) E I), RECORRIÉNDOSE EL ORDEN DE LOS SUBSECUENTES DEL ARTÍCULO 26 DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
