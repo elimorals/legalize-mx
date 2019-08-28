@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2019-07-10"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -298,6 +298,18 @@ El Organismo Público Descentralizado, denominado Sistema para el Desarrollo Int
 ###### Artículo 12.
 
 El Sistema Estatal de Salud está constituido por las dependencias y entidades públicas, así como por todas las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado, así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho a la promoción y protección de la salud en el territorio del Estado.
+
+(NOTA: EL 7 DE JULIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### Artículo 12 Bis.
+
+El Personal médico y de enfermería que forme parte del Sistema Estatal de Salud, podrán ejercer la objeción de conciencia y excusarse de participar en la prestación de servicios que establece esta Ley.
+
+Cuando se ponga en riesgo la vida del paciente o se trate de una urgencia médica, no podrá invocarse la objeción de conciencia, en caso contrario se incurrirá en la causal de responsabilidad profesional.
+
+El ejercicio de la objeción de conciencia no derivará en ningún tipo de discriminación laboral.
 
 ###### Artículo 13.
 
@@ -2187,9 +2199,11 @@ III.- La educación sobre los efectos del alcohol en la salud y en las relacione
 
 IV.- El fomento de actividades cívicas, deportivas y culturales, que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en el grupo etario de 10 a 19 años, así como los considerados de alto riesgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 166.
 
-Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las autoridades sanitarias del Estado en coordinación con otras dependencias, y Entidades públicas, realizarán actividades de investigación en los siguientes aspectos:
+Para obtener la información que oriente las acciones contra el alcoholismo y el abuso de bebidas alcohólicas, las autoridades sanitarias del Estado en coordinación con la Secretaría de Educación del Estado, la Universidad Autónoma del Estado de Morelos, el Consejo de Ciencia y Tecnología del Estado de Morelos, las instituciones y universidades de educación superior reconocidas nacionalmente, así como las instituciones privadas en su carácter de coadyuvantes vinculadas con el tema, realizaran actividades de investigación, debiendo publicar el estudio respectivo cada dos años, en el órgano de difusión de la Secretaría de Salud del Estado, o en su caso en el Periódico Oficial "Tierra y Libertad'', dicho estudio se referirá a los siguientes aspectos:
 
 I.- Causas del alcoholismo y acciones para controlarlas;
 
@@ -4654,3 +4668,23 @@ PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder E
 SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del gobierno del estado de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SESENTA.- POR EL QUE SE REFORMA EL ARTÍCULO 166 DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad", Órgano de difusión oficial del gobierno del estado de Morelos.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SESENTA Y UNO POR EL QUE SE ADICIONA EL ARTÍCULO 12 BIS A LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado que sea el presente Decreto, remítase al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del gobierno del estado de Morelos.
+
+(NOTA: EL 7 DE JULIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 107/2019, DECLARÓ LA INVALIDEZ DE LA DISPOSICIÓN TRANSITORIA TERCERA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE JULIO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+TERCERA.- LA SECRETARÍA DE SALUD DEL ESTADO, TENDRÁ UN PLAZO DE 120 DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE DE LA PUBLICACIÓN DEL PRESENTE DECRETO, PARA EMITIR LAS DISPOSICIONES O LINEAMIENTOS NECESARIOS PARA EL EJERCICIO DE ESTE DERECHO EN LOS CASOS QUE ESTABLECE LA PRESENTE LEY.
