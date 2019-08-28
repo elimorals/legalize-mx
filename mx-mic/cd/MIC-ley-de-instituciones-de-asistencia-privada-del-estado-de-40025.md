@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-instituciones-de-asistencia-privada-del-estado-de-40025"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-09"
-last_updated: "2016-12-29"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 9 de junio de 2004.
 
@@ -197,11 +197,17 @@ II. Los bienes que constituyen el patrimonio de la institución, o bien, la form
 
 III. La clase de operaciones que realizará la institución para sostenerse, sujetándose a las limitaciones que establece esta Ley;
 
+> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN VI DE ESTE ARTÍCULO, P.O. 28 DE AGOSTO DE 2019]</small>
+
 IV. La clase de establecimientos de asistencia privada que deberá sostener la institución y el tipo de servicios que en ellos se deberán prestar;
 
 V. La clase de servicios de asistencia privada que prestará la institución cuando no sostenga establecimientos de los que trata la fracción anterior;
 
-VI. Los requisitos que deberán cumplir las personas beneficiarias de los servicios que se prestan;
+> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DE LA FRACCIÓN IV DE ESTE ARTÍCULO, P.O. 28 DE AGOSTO DE 2019]</small>
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+VI. La Clase de establecimientos de asistencia privada que deberá sostener la institución, el tipo de servicios que en ellos se deberá prestar, así como los criterios de salud, seguridad, higiene e infraestructura, apegados a las disposiciones legales aplicables;
 
 VII. Los nombres, domicilios y demás generales de la persona o personas que, en su caso, integrarán el órgano de administración y representación de la institución, así como las causas y forma de su substitución; establecerán así mismo, su organización, sus facultades y la de sus integrantes. Este último derecho es exclusivo del fundador o fundadores. Cuando él o ellos no lo ejerzan, la substitución de los patronos se regirá por las disposiciones de esta Ley;
 
@@ -937,27 +943,33 @@ VIII. Vigilar que los capitales productivos de las instituciones, se dispongan d
 
 IX. Vigilar que los patronatos empleen los ingresos con estricto apego a lo que dispone el presupuesto de egresos debidamente aprobado por la Junta;
 
-X. Cuidar que los patronatos cumplan con las disposiciones de esta Ley, de sus reglamentos y de sus estatutos;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XI. Revisar los estatutos de las instituciones, a fin de que los mismos se ajusten estrictamente a esta Ley, cuidando especialmente que en ellos no se contraríe la voluntad de los fundadores. La Junta indicará, en su caso, al patronato de una institución, las reformas que fueren necesarias hacer a sus estatutos y le señalará un término de sesenta días para llevar a cabo dichas reformas, previa audiencia del patronato, si la solicitare;
+X. Supervisar que los patronatos cumplan con las disposiciones de esta Ley, de sus reglamentos y demás disposiciones legales aplicables;
 
-XII. Declarar la constitución, y, en su caso, reconocimiento, autorización, otorgamiento de registro, la modificación y adecuación de estatutos y la extinción de las instituciones;
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XIII. Autorizar los estatutos de las instituciones, y en su caso, sus reformas y adecuaciones; y de no haber sido formulados por éstas, elaborarlos;
+XI. Vigilar y supervisar que las instituciones, organizaciones o asociaciones cumplan con los criterios establecidos en su infraestructura, en salud, seguridad e higiene necesarios para el desempeño de sus funciones;
 
-XIV. Ordenar la inscripción y en su caso, la afectación del patrimonio de las instituciones en el Registro Público de la Propiedad en el Estado, en los términos de la Ley;
+XII. Revisar los estatutos de las instituciones, a fin de que los mismos se ajusten estrictamente a esta Ley, cuidando especialmente que en ellos no se contraríe la voluntad de los fundadores. La Junta indicará, en su caso, al patronato de una institución, las reformas que fueren necesarias hacer a sus estatutos y le señalará un término de sesenta días para llevar a cabo dichas reformas, previa audiencia del patronato, si la solicitare;
 
-XV. Formular su propio proyecto de presupuesto de egresos, así como sus programas anuales y estados financieros para remitirlos al Consejo para su consideración y en su caso aprobación;
+XIII. Declarar la constitución, y, en su caso, reconocimiento, autorización, otorgamiento de registro, la modificación y adecuación de estatutos y la extinción de las instituciones;
 
-XVI. Coordinarse y coadyuvar con la Secretaría, así como con las demás entidades y dependencias que tengan a su cargo programas y presten asistencia, de conformidad con las disposiciones jurídicas aplicables, con el fin de unir esfuerzos y hacer más eficiente la promoción, fomento, desarrollo y la atención de las necesidades de las instituciones asistenciales existentes, mediante el intercambio de experiencias y la aplicación conjunta de recursos humanos, financieros y materiales;
+XIV. Autorizar los estatutos de las instituciones, y en su caso, sus reformas y adecuaciones; y de no haber sido formulados por éstas, elaborarlos;
 
-XVII. Establecer un registro de instituciones de asistencia privada, y basándose en éste, publicar semestralmente un directorio de las mismas en términos de lo dispuesto por esta Ley;
+XV. Ordenar la inscripción y en su caso, la afectación del patrimonio de las instituciones en el Registro Público de la Propiedad en el Estado, en los términos de la Ley;
 
-XVIII. Ejercer por sí o por medio de apoderado especial, todo tipo de acciones y derechos en beneficio de las instituciones afectadas en su patrimonio, cualquiera que sea la índole de la responsabilidad a fincar en contra de las personas que desempeñen o hayan desempeñado el cargo de patronos, asociados, órganos sociales y personas involucradas en fideicomisos, incluyendo a las instituciones fiduciarias y en general contra quien resulte responsable;
+XVI. Formular su propio proyecto de presupuesto de egresos, así como sus programas anuales y estados financieros para remitirlos al Consejo para su consideración y en su caso aprobación;
 
-XIX. Aplicar las sanciones administrativas previstas en el presente ordenamiento; y,
+XVII. Coordinarse y coadyuvar con la Secretaría, así como con las demás entidades y dependencias que tengan a su cargo programas y presten asistencia, de conformidad con las disposiciones jurídicas aplicables, con el fin de unir esfuerzos y hacer más eficiente la promoción, fomento, desarrollo y la atención de las necesidades de las instituciones asistenciales existentes, mediante el intercambio de experiencias y la aplicación conjunta de recursos humanos, financieros y materiales;
 
-XX. Las demás que le confiera esta Ley y otras disposiciones jurídicas aplicables.
+XVIII. Establecer un registro de instituciones de asistencia privada, y basándose en éste, publicar semestralmente un directorio de las mismas en términos de lo dispuesto por esta Ley;
+
+XIX. Ejercer por sí o por medio de apoderado especial, todo tipo de acciones y derechos en beneficio de las instituciones afectadas en su patrimonio, cualquiera que sea la índole de la responsabilidad a fincar en contra de las personas que desempeñen o hayan desempeñado el cargo de patronos, asociados, órganos sociales y personas involucradas en fideicomisos, incluyendo a las instituciones fiduciarias y en general contra quien resulte responsable;
+
+XX. Aplicar las sanciones administrativas previstas en el presente ordenamiento; y,
+
+XXI. Las demás que le confiera esta Ley y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 109.
 
@@ -1328,3 +1340,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 159 POR EL QUE “SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 15 Y LA FRACCIÓN X DEL ARTÍCULO 108; Y SE ADICIONA LA FRACCIÓN XI RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 108 DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
