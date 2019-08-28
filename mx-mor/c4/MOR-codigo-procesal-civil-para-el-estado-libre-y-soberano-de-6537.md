@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-civil-para-el-estado-libre-y-soberano-de-6537"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2019-04-10"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -231,11 +231,11 @@ Principio de oralidad. El despacho judicial de las controversias que regula este
 
 Para estos efectos se entiende por oralidad: el predominio de la palabra hablada, la inmediatividad procesal, la identidad física del Juez, la concentración procesal y la inimpugnabilidad de las providencias que resuelven incidentes.
 
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL ARTÍCULO VIGÉSIMO DEL DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019.]</small>
 
 ###### Artículo 13 Bis.
 
-El Juzgador en todo acuerdo o resolución que dicte deberá considerar el principio de perspectiva de género, el cual implica cuestionar y valorar la discriminación, desigualdad y exclusión de hombres y mujeres, a fin de garantizar el derecho a la igualdad previsto en el artículo 4° Constitucional y demás tratados internacionales del que el Estado mexicano sea parte.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2019)
 
 ###### Artículo 14.
 
@@ -1217,7 +1217,7 @@ Ausencia de señalamiento de plazos. Cuando este Código no señale plazos para 
 
 I. Cinco días para interponer el recurso de apelación de sentencia definitiva;
 
-II. Tres días para apelar autos y sentencias interlocutorias; y
+II. Tres días para apelar autos y sentencias interlocutorias;
 
 III. Tres días para la celebración de juntas, reconocimiento o exhibición de documentos, dictamen de peritos y otras diligencias, a no ser que por circunstancias especiales el Juez considere justo ampliar el plazo, lo cual podrá hacer por cinco días más; y,
 
@@ -3467,7 +3467,7 @@ IV. El Juez podrá interrogar al perito, sobre el fundamento de su dictamen o en
 
 V. El Juez podrá ordenar, de oficio o a petición de parte, que se repita o amplíe el peritaje o que el perito practique las indagaciones que estime pertinentes; y,
 
-VI. Si el motivo del dictamen pericial consistiere en la práctica de un avalúo, el perito tendrá en cuenta los precios de plaza, los frutos que en su caso produjere o fuere capaz de producir la cosa, objeto del avalúo, y todas las circunstancias que puedan influir en la determinación del valor comercial.
+VI. Si el motivo del dictamen pericial consistiere en la práctica de un avaluo, el perito tendrá en cuenta los precios de plaza, los frutos que en su caso produjere o fuere capaz de producir la cosa, objeto del avaluo, y todas las circunstancias que puedan influir en la determinación del valor comercial.
 
 ### CAPITULO XII. Del reconocimiento o inspección judicial
 
@@ -4577,7 +4577,7 @@ Normas para la continuación del juicio ejecutivo. La ejecución y el embargo se
 
 Cuando el deudor consignare en pago la cantidad reclamada reservándose el derecho de oponerse, se suspenderá el embargo, pero el emplazamiento se llevará adelante, depositando la cantidad consignada conforme a la Ley, sujeta a las resultas del juicio. Cuando la cantidad consignada no fuere bastante para cubrir lo reclamado y las costas, se practicará el embargo por lo faltante.
 
-En el caso de que no se encontraren bienes para efectuar el embargo, el actor podrá pedir que se corra traslado de la demanda y se emplace al demandado para el efecto de que se continúe el procedimiento y de que se dicte sentencia; quedando expedito su derecho para que el secuestro se practique en cualquier tiempo en el evento de que aparecieren bienes o a su elección podrá pedir que se suspenda la diligencia, para que se practique con posterioridad, suspendiendo en este último caso el correr traslado y el emplazamiento.
+En el caso de que no se encontraren bienes para efectuar el embargo, el actor podrá pedir que se corra traslado de la demanda y se emplace al demandado para el efecto de que se continue el procedimiento y de que se dicte sentencia; quedando expedito su derecho para que el secuestro se practique en cualquier tiempo en el evento de que aparecieren bienes o a su elección podrá pedir que se suspenda la diligencia, para que se practique con posterioridad, suspendiendo en este último caso el correr traslado y el emplazamiento.
 
 ###### Artículo 616.
 
@@ -7615,7 +7615,7 @@ DIPUTADO SECRETARIO NEREO BANDERA ZAVALETA
 
 DIPUTADA SECRETARIA IRMA OLIVAN REBOLLO
 
-Rúbricas
+R ú b r i c a s
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -7631,7 +7631,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ALFREDO DE LA TORRE Y MARTINEZ
 
-Rúbricas
+R ú b r i c a s
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
@@ -7717,6 +7717,8 @@ PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su 
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL ARTÍCULO VIGÉSIMO DEL DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, PUBLICADO EN EL P.O. DE 10 DE ABRIL DE 2019.]</small>
+
 P.O. 10 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CATORCE POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
@@ -7736,3 +7738,15 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL “DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial “Tierra y Libertad”, número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
