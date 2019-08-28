@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-10238
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-12"
-last_updated: "2018-05-11"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 12 de septiembre de 2014.
 
@@ -271,9 +271,11 @@ Las personas con discapacidad gozan de los derechos humanos reconocidos en los t
 
 La legislación relativa a los derechos humanos se interpretará favoreciendo en todo momento a las personas para la protección más amplia de sus prerrogativas.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 11.
 
-Queda prohibida toda discriminación de las personas con discapacidad motivada por el origen étnico, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales y la expresión de rol de género, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+Queda prohibida toda discriminación por motivos de discapacidad y/o vulnerabilidad. Se entenderá cualquier distinción, exclusión o restricción por motivos de discapacidad que tenga el propósito o el efecto de obstaculizar, menoscabar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones de todos los derechos humanos y libertades fundamentales en los ámbitos político, económico, social, cultural, civil o de otro tipo. Incluyendo todas las formas de discriminación, entre ellas la denegación de ajustes razonables.
 
 ###### Artículo 12.
 
@@ -314,6 +316,10 @@ E) Disponer de los medios necesarios para asegurar la transmisión y la proyecci
 F) Organizar y gestionar los recursos propios con el fin de asegurar el uso de su lengua en todas las funciones sociales; y,
 
 G) Codificar, estandarizar, preservar, desarrollar y promover su sistema lingüístico sin interferencias inducidas o forzadas.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XII. Pertenecer al censo y registro de personas con alguna discapacidad del Estado de Michoacán.
 
 ###### Artículo 13.
 
@@ -373,9 +379,11 @@ El apoyo y orientación psicológica estarán dirigidos a optimizar al máximo l
 
 El apoyo y orientación psicológica comprenderá también programas de educación y conocimiento de los derechos sexuales y reproductivos, para las personas con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 25.
 
-La Secretaría de Salud protegerá el derecho de las personas con discapacidad para que cuenten con los servicios de salud, así como de rehabilitación y habilitación sin discriminación, a través de programas y servicios diseñados y proporcionados, considerando criterios de calidad, especialización, género, gratuidad o precio accesible. Para tal efecto, realizará las siguientes acciones:
+La Secretaría de Salud protegerá el derecho de las personas con discapacidad para que cuenten con los servicios de salud, así como de rehabilitación y habilitación sin discriminación, para tal efecto la Secretaria de Salud creara un censo y registro de todas las personas con discapacidad. El censo servirá para la creación de programas y servicios diseñados con criterios de calidad, especialización, género y gratuidad o precio accesible; realizara las siguientes acciones:
 
 I. Diseñar, desarrollar, operar, supervisar y evaluar programas de prevención de enfermedades congénitas que de no ser atendidas de manera oportuna desembocan en discapacidad, así como de la difusión masiva de acciones básicas de prevención primaria, con la posibilidad de pedir el apoyo u opinión al Consejo;
 
@@ -395,9 +403,11 @@ VIII. Capacitar en coordinación con instituciones u organizaciones especializad
 
 IX. Establecer de manera coordinada con el Consejo y el DIF estatal, programas de capacitación para familiares que atienden a personas con discapacidad para orientarlos sobre la atención adecuada.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 26.
 
-La Secretaría de Salud deberá prever y reservar un fondo mínimo del 2% de su presupuesto en insumos, medicamentos, material de curación y recursos necesarios, para garantizar la suficiencia para la prevención y atención de las personas con discapacidad.
+La Secretaría de Salud deberá prever y reservar un fondo mínimo del 3% de su presupuesto en insumos, medicamentos, material de curación y recursos necesarios, para garantizar la suficiencia para la prevención y atención de las personas con discapacidad.
 
 ###### Artículo 27.
 
@@ -527,9 +537,11 @@ Asimismo, se deberá contar con un área determinada específicamente para perso
 
 ### CAPÍTULO IV. TRABAJO Y EMPLEO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 39.
 
-El Consejo, el Ejecutivo del Estado y los titulares de los gobiernos municipales, promoverán el derecho al trabajo y empleo de las persona con discapacidad en igual de oportunidad y equidad, que les otorgue certeza en su desarrollo personal, social y laboral. Para tal efecto procurarán preferentemente las siguientes acciones:
+El Consejo, el Ejecutivo del Estado y los titulares de los gobiernos municipales, promoverán el derecho al trabajo y empleo de las personas con discapacidad en igualdad de oportunidad y equidad, que les otorgue certeza en su desarrollo personal, social y laboral, así mismo deberán crear programas de capacitación y enseñanza de oficios para las personas con discapacidad en el Estado de Michoacán de Ocampo. Para tal efecto procurarán preferentemente las siguientes acciones:
 
 I. Prohibir cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación laboral, promoción profesional, asegurando condiciones de trabajo accesibles, seguras y saludables;
 
@@ -847,7 +859,9 @@ Se consideran personas con discapacidad a las que presenten uno o más de los si
 
 I. Discapacidad auditiva, restricción en la función auditiva por alteraciones en oído externo, medio, interno o retrococleares, que a su vez pueden limitar la capacidad de comunicación;
 
-II. Discapacidad intelectual, impedimento permanente en las funciones mentales. Como consecuencia de una alteración prenatal, perinatal, posnatal o alguna alteración que limita a la persona a realizar actividades necesarias para su conducta adaptativa al medio familiar, social, escolar o laboral;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+II. Discapacidad Intelectual, se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
 III. Discapacidad neuromotora, a la secuela de una afección en el sistema nervioso central, periférico o ambos y al sistema músculo esquelético;
 
@@ -1158,3 +1172,11 @@ P.O. 11 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 558.- SE REFORMAN LOS ARTÍCULOS 7 Y 33 DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 157.- ARTÍCULO ÚNICO.- SE ADICIONA UN PÁRRAFO A LA FRACCIÓN VIII; Y SE REFORMAN LAS FRACCIONES XX, XXI Y XXII DEL ARTÍCULO 9 DE LA LEY DE PROTECCIÓN INTEGRAL A LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
