@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2018-08-14"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -413,11 +413,15 @@ V. Remoción.
 
 ### CAPÍTULO II. PRISIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 31.
 
-Concepto y duración
+Concepto y duración.
 
-La prisión consiste en la privación de la libertad personal. Su duración no será menor de seis meses ni mayor de cuarenta años.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+La prisión consiste en la privación de la libertad personal. Su duración no será menor de seis meses ni mayor de cincuenta años:
 
 En toda pena de prisión que se imponga se computará el tiempo de la detención.
 
@@ -4086,3 +4090,9 @@ P.O. 14 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 613 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 302, 304, 306; Y SE ADICIONA EL ARTÍCULO 304 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 146.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 31 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
