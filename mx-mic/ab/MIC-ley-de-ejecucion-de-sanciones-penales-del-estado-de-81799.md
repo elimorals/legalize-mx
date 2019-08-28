@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ejecucion-de-sanciones-penales-del-estado-de-81799"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-14"
-last_updated: "2016-12-29"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el martes 14 de junio de 2011.
 
@@ -413,7 +413,9 @@ III. El titular de la Subsecretaría; y,
 
 IV. Los titulares de las Direcciones de los Centros.
 
-El titular de la Procuraduría General de Justicia del Estado intervendrá de conformidad con lo dispuesto en la Ley.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+El titular de la Fiscalía General del Estado intervendrá de conformidad con lo dispuesto en la Ley.
 
 ###### ARTÍCULO 35.
 
@@ -1165,13 +1167,17 @@ El traslado de personas internas de un-Centro a otro, deberá ser comunicado de 
 
 La Subsecretaría reglamentará el procedimiento para realizar los traslados de las personas con sentencia ejecutoriada, de un Centro a otro, debiendo en todo momento, tomar las medidas necesarias para el traslado y custodia.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 147.
 
-La Procuraduría General de Justicia del Estado, de conformidad con la disponibilidad de personal, auxiliará al personal de la Secretaría a realizar los traslados de personas internas procesadas de un Centro a otro, dentro de esta entidad federativa o de ésta a otra o viceversa, de conformidad con los convenios de colaboración que existan y de acuerdo a la normatividad aplicable.
+La Fiscalía General del Estado, de conformidad con la disponibilidad de personal, auxiliará al personal de la Secretaría a realizar los traslados de personas internas procesadas de un Centro a otro, dentro de esta entidad federativa o de ésta a otra o viceversa, de conformidad con los convenios de colaboración que existan y de acuerdo a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 148.
 
-La Subsecretaría ejecutará los traslados, custodia, vigilancia y reingreso de aquellas personas internas que son requeridas por la autoridad judicial para el desahogo de diligencias, pudiendo contar con el apoyo de la Procuraduría General de Justicia del Estado, de conformidad con la disponibilidad de personal.
+La Subsecretaría ejecutará los traslados, custodia, vigilancia y reingreso de aquellas personas internas que son requeridas por la autoridad judicial para el desahogo de diligencias, pudiendo contar con el apoyo de la Fiscalía General del Estado, de conformidad con la disponibilidad de personal.
 
 ## TÍTULO DÉCIMO PRIMERO. SUSTITUTIVOS PENALES Y BENEFICIOS DE LIBERTAD ANTICIPADA
 
@@ -1598,3 +1604,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO SÉPTIMO.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 34 Y LOS ARTÍCULOS 147 Y 148 DE LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
