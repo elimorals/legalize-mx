@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-extincion-de-dominio-del-estado-de-michoacan-de-100914"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-13"
-last_updated: "2016-12-29"
+last_updated: "2019-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE EXTINCION DE DOMINIO DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO PUBLICADA EN EL D.O.F. DE 9 DE AGOSTO DE 2019, DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN. SEGUNDO.- A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE ABROGA LA LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO LAS LEYES DE EXTINCIÓN DE DOMINIO DE LAS ENTIDADES FEDERATIVAS, Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO. TERCERO.- EN UN PLAZO QUE NO EXCEDERÁ DE CIENTO OCHENTA DÍAS CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS DEBERÁN ARMONIZAR SU LEGISLACIÓN RESPECTIVA CON EL PRESENTE DECRETO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 13 de mayo de 2014.
 
@@ -319,7 +321,9 @@ Si los bienes se encuentran a disposición de alguna otra autoridad, les informa
 
 Realizará el inventario de los bienes, cuando no exista constancia de su realización, y determinará las medidas cautelares necesarias previstas en el Capítulo Tercero de esta Ley.
 
-Para la etapa de preparación de la acción, el Agente del Ministerio Público Especializado tiene un término de noventa días hábiles, contados a partir de la recepción de las constancias. El término se podrá ampliar por acuerdo específico del Procurador General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+Para la etapa de preparación de la acción, el Agente del Ministerio Público Especializado tiene un término de noventa días hábiles, contados a partir de la recepción de las constancias. El término se podrá ampliar por acuerdo específico del Fiscal General del Estado.
 
 ###### Artículo 31.
 
@@ -349,13 +353,15 @@ IX. La petición para que se declare en la sentencia correspondiente la extinci�
 
 X. Las demás que considere necesarias para el cumplimiento del objeto de esta Ley.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 33.
 
-En los casos en que el Agente del Ministerio Público determine la improcedencia de la acción, deberá someter su resolución a la revisión del Procurador General de Justicia del Estado.
+En los casos en que el Agente del Ministerio Público determine la improcedencia de la acción, deberá someter su resolución a la revisión del Fiscal General del Estado.
 
-El Procurador General de Justicia del Estado, analizando los argumentos de la resolución de improcedencia, decidirá en definitiva si debe ejercitarse la acción ante el Juez.
+El Fiscal General del Estado, analizando los argumentos de la resolución de improcedencia, decidirá en definitiva si debe ejercitarse la acción ante el Juez.
 
-El Agente del Ministerio Público podrá desistirse de la acción, en cualquier momento hasta antes del cierre de la instrucción, cuando lo acuerde con visto bueno del Procurador General de Justicia del Estado. En los mismos términos podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción. En ambos casos pagará costas, en los términos de los artículos 136 a 141 del Código de Procedimientos Civiles para el Estado de Michoacán de Ocampo.
+El Agente del Ministerio Público podrá desistirse de la acción, en cualquier momento hasta antes del cierre de la instrucción, cuando lo acuerde con visto bueno del Fiscal General del Estado. En los mismos términos podrá desistirse de la pretensión respecto de ciertos bienes objeto de la acción. En ambos casos pagará costas, en los términos de los artículos 136 a 141 del Código de Procedimientos Civiles para el Estado de Michoacán de Ocampo.
 
 ### CAPÍTULO NOVENO. NOTIFICACIONES
 
@@ -371,9 +377,11 @@ III. Cuando el Juez estime que se trata de un caso urgente y así lo ordene expr
 
 Las demás notificaciones se realizarán a través de estrados o listas.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 35.
 
-En todos los casos que se admita el ejercicio de la acción, el Juez mandará publicar el auto respectivo por tres veces, de tres en tres días, debiendo mediar entre cada publicación dos días hábiles, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en estrados o lista y en un diario de circulación nacional, cuyo gasto correrá a cargo de la Procuraduría General de Justicia del Estado, para que comparezcan las personas que se consideren afectados, terceros, víctimas u ofendidos a manifestar lo que a su derecho convenga.
+En todos los casos que se admita el ejercicio de la acción, el Juez mandará publicar el auto respectivo por tres veces, de tres en tres días, debiendo mediar entre cada publicación dos días hábiles, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, en estrados o lista y en un diario de circulación nacional, cuyo gasto correrá a cargo del Fiscal General del Estado, para que comparezcan las personas que se consideren afectados, terceros, víctimas u ofendidos a manifestar lo que a su derecho convenga.
 
 ###### Artículo 36.
 
@@ -567,15 +575,19 @@ La revocación y la apelación se sustanciarán en los términos previstos en el
 
 ### CAPÍTULO DÉCIMO QUINTO. UNIDAD ESPECIALIZADA DE INTELIGENCIA PATRIMONIAL Y FINANCIERA
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 61.
 
-La Procuraduría General de Justicia del Estado, contará con la Unidad Especializada de Inteligencia Patrimonial y Financiera, con el objeto de detectar las estructuras financieras de la delincuencia, lograr una mayor eficiencia en la investigación y persecución de los delitos, y en el aseguramiento y la extinción de dominio de los bienes destinados a éstos.
+La Fiscalía General del Estado, contará con la Unidad Especializada de Inteligencia Patrimonial y Financiera, con el objeto de detectar las estructuras financieras de la delincuencia, lograr una mayor eficiencia en la investigación y persecución de los delitos, y en el aseguramiento y la extinción de dominio de los bienes destinados a éstos.
 
-Esta Unidad contará con agentes del Ministerio Público especializados que ejercitarán la acción de Extinción de Dominio e intervendrán en el procedimiento, en los términos de esta Ley, los demás ordenamientos legales aplicables y los acuerdos que emita el Procurador General de Justicia del Estado.
+Esta Unidad contará con agentes del Ministerio Público especializados que ejercitarán la acción de Extinción de Dominio e intervendrán en el procedimiento, en los términos de esta Ley, los demás ordenamientos legales aplicables y los acuerdos que emita el Fiscal General del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 62.
 
-La Unidad Especializada de Inteligencia Patrimonial y Financiera de la Procuraduría General de Justicia del Estado tendrá, por lo menos, las atribuciones siguientes:
+La Unidad Especializada de Inteligencia Patrimonial y Financiera de la Fiscalía General del Estado tendrá, por lo menos, las atribuciones siguientes:
 
 I. Generar, recabar, analizar y consolidar información fiscal, patrimonial y financiera relacionada con conductas que pudieran estar vinculadas con la comisión de algún delito;
 
@@ -601,7 +613,9 @@ X. Llevar el registro, inventario y control administrativo de los bienes que se 
 
 XI. Recabar informes de los depositarios de los bienes sujetos a medidas cautelares y en su caso, requerir al Ministerio Público para que realice las promociones conducentes ante la autoridad judicial con relación a la depositaria y administración de los mismos;
 
-XII. Someter a consideración del Procurador un informe sobre los resultados en la aplicación de esta Ley, que podrá servir de base para que se informe a la Legislatura, observando lo dispuesto en esta Ley y demás normas aplicables en materia de transparencia y acceso a la información; y,
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XII. Someter a consideración del Fiscal un informe sobre los resultados en la aplicación de esta Ley, que podrá servir de base para que se informe a la Legislatura, observando lo dispuesto en esta Ley y demás normas aplicables en materia de transparencia y acceso a la información; y,
 
 XIII. Las demás que le confieren otras disposiciones legales aplicables.
 
@@ -658,3 +672,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO OCTAVO.- SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 30; LOS ARTÍCULOS 33, 35, 61; Y EL PRIMER PÁRRAFO Y LA FRACCIÓN XII DEL ARTÍCULO 62 DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
