@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2018-08-14"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -91,7 +91,9 @@ XV. Granja Avícola: El sitio destinado a la explotación de aves para la produc
 
 XVI. Granja Porcícola: El sitio destinado a la cría y engorda de cerdos;
 
-XVII. Grupo Vulnerable: Los que por sus condiciones sociales, económicas, culturales o psicológicas se encuentren en situación de extrema dificultad para satisfacer sus necesidades básicas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XVII. Grupo Vulnerable: Los que por sus condiciones sociales, económicas, culturales o política, su origen étnico, nacionalidad, género, edad, discapacidad, religión, orientación sexual, o cualquier otra característica, se encuentren imposibilitados o en desventaja histórica, sistemática o estructural, frente al resto de la población, de dotarse por sí de los satisfactores mínimos que cubran sus necesidades básicas, o de acceder al goce o ejercicio, en igualdad de condiciones, de todos los derechos humanos y libertades fundamentales;
 
 XVIII. Guardería: Establecimiento que durante la jornada laboral de los padres o tutores proporciona atención integral a niños desde los 43 días de nacido hasta los 6 años de edad;
 
@@ -133,17 +135,29 @@ El derecho a la protección de la salud tiene las siguientes finalidades:
 
 I. El bienestar físico, mental y social del hombre, para contribuir al ejercicio pleno de sus capacidades;
 
-II. Aumentar la esperanza y la calidad de vida de la población;
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-III. La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de las condiciones de salud que contribuyan al desarrollo social;
+II. Garantizar la cobertura de los servicios de salud, para que toda persona pueda hacer efectivo su derecho a la protección de salud;
 
-IV. La extensión de actitudes solidarias y responsables hacia la población en la preservación, conservación, mejoramiento y restauración de la salud;
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-V. El acceso equitativo de los servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+III. Ofrecer en los centros de salud disponibles, el servicio de salud gratuito, a quienes carezcan de seguridad social;
 
-VI. La difusión, información y orientación de los servicios de salud para su adecuado y óptimo aprovechamiento y utilización; y,
+IV. Aumentar la esperanza y la calidad de vida de la población;
 
-VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+V. La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de las condiciones de salud que contribuyan al desarrollo social;
+
+VI. La extensión de actitudes solidarias y responsables hacia la población en la preservación, conservación, mejoramiento y restauración de la salud;
+
+VII. El acceso equitativo de los servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
+
+VIII. La difusión, información y orientación de los servicios de salud para su adecuado y óptimo aprovechamiento y utilización; y,
+
+IX. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+El Sistema Estatal de Salud debe garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
 
 ###### ARTÍCULO 4°.
 
@@ -263,7 +277,9 @@ XX. Estacionamientos;
 
 XXI. Compra y venta de ropa usada;
 
-XXII. Albergues y centros de desarrollo infantil; y,
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XXII. Albergues y centros de desarrollo infantil y del adulto mayor; y,
 
 XXIII. Las demás que determine esta Ley y las disposiciones aplicables.
 
@@ -398,6 +414,24 @@ Es derecho de todo paciente recibir atención médica de emergencia por personal
 ARTÍCULO 17 A. La mujer embarazada con signos de parto o en cualquier etapa de la gestación que se encuentre y que requiera atención médica de urgencia, debe recibirla de manera prioritaria, inmediata e impostergable, por las instituciones que presten servicios de salud, privilegiando siempre la vida de la madre y de su hijo, sin que medie requerimiento económico como condicionante.
 
 Las omisiones a lo anterior, serán sancionadas en los términos que establezcan las leyes de la materia.
+
+#### SECCIÓN PRIMERA. DE LA PREVENCIÓN, DIAGNÓSTICO Y ATENCIÓN DEL CÁNCER INFANTIL Y DE ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 39 TER. El cáncer infantil y de adolescentes, es el que afecta a niñas, niños y adolescentes, siendo una enfermedad provocada por un grupo de células que se multiplican sin control y de manera autónoma, invadiendo localmente y a distancia otros tejidos del cuerpo humano.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 39 QUATER. La Secretaría en coordinación con el Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, diseñará e implementará de forma permanente, en coordinación con las autoridades estatales y municipales, las acciones y programas necesarios para la prevención, diagnóstico y atención del cáncer infantil, de manera prioritaria para aquellos menores que no cuenten con algún sistema, seguro o servicio de atención a la salud, dichas acciones y programas deberán ser gratuitos.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 39 QUINQUIES. El Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, a través de su Presidente Ejecutivo, enviará al Congreso del Estado, un informe anual de sus actividades durante el mes de febrero de cada año.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+ARTÍCULO 39 SEXIES. Se establece el mes de febrero de cada año, como el «Mes Dorado», con el fin de fortalecer las campañas de detección oportuna, información, conciencia y solidaridad entre la población, en lo que respecta a la enfermedad del cáncer infantil y de adolescentes.
 
 ###### ARTÍCULO 18.
 
@@ -660,6 +694,8 @@ Es obligación denunciar ante las autoridades sanitarias del Estado todo hecho, 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
 ARTÍCULO 39 BIS. Se concede acción pública para denunciar ante autoridades administrativas, ministeriales o judiciales, las practicas no autorizadas de cirugía plástica y reconstructiva.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ### CAPÍTULO V. MEDICINA TRADICIONAL Y HERBOLARIA
 
@@ -2145,6 +2181,10 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 
 Sólo procederá esta sanción, si previamente se dictó alguna de las sanciones a que se refiere este capítulo; impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
+### CAPÍTULO I. LA INSUFICIENCIA RENAL
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 236.
 
 Los procedimientos que se establecen en esta Ley se sujetarán a los principios jurídicos y administrativos que señala la Ley General de Salud.
@@ -2266,6 +2306,60 @@ Cuando el presunto infractor impugnare los actos de la autoridad sanitaria compe
 ###### ARTÍCULO 261.
 
 Los interesados podrán hacer valer la prescripción, por la vía de excepción.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 2019)</small>
+
+## TÍTULO SÉPTIMO. ENFERMEDADES DE ATENCIÓN PRIORITARIAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 262.
+
+Se considera como paciente con insuficiencia renal o fallo renal, a todo aquel que presente dificultad en la eliminación adecuada de las toxinas y otras sustancias de desecho de la sangre fisiológicamente, la insuficiencia renal se presenta como una disminución en el flujo plasmático renal, lo que se manifiesta en una presencia elevada de creatinina en el suero.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 263.
+
+Las autoridades sanitarias, promoverán en el Estado, programas de atención médica para la prevención, detección oportuna y atención integral de la insuficiencia renal, así como de los recursos presupuestales necesarios para:
+
+I. Desarrollar y ejecutar programas de prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal;
+
+II. El tratamiento de la insuficiencia renal;
+
+III. Realizar campañas de información sobre la insuficiencia renal, sus principales causas, factores de riesgo y métodos preventivos;
+
+IV. Realizar estudios de investigación con la finalidad de identificar las regiones con mayor índice de riesgo de enfermedades renales; y,
+
+V. Las demás que sean necesarias para la atención medica de la insuficiencia renal que se presenten en la población.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 264.
+
+Con la finalidad de coadyuvar a la formulación de las políticas públicas en materia de enfermedades renales se integrará la Comisión de Atención a Enfermos Renales:
+
+I. La Comisión estará integrada por los miembros del sistema estatal de salud y por el Presidente de la Comisión de Salud y Asistencia Social del Congreso del Estado;
+
+II. La coordinación de la Comisión de Atención a Enfermos Renales estará a cargo del titular de la Secretaría de Salud del Estado;
+
+III. Los cargos de los integrantes de la Comisión serán honoríficos y por su desempeño no percibirán retribución, emolumento o compensación alguna; y,
+
+IV. La Comisión de Atención a Enfermos Renales deberá sesionar en forma ordinaria dos veces al año y de manera extraordinaria cuando haya asuntos urgentes que tratar.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+###### ARTÍCULO 265.
+
+La Comisión de Atención a Enfermos Renales tendrá las siguientes atribuciones:
+
+I. Participar y emitir opiniones para la formulación de las políticas públicas y reformas legislativas en materia de enfermos renales;
+
+II. Promover y establecer mecanismos para la coordinación de esfuerzos en materia de atención a enfermos renales;
+
+III. Elaborar anualmente un informe que contenga los datos estadísticos, como las tasas de mortalidad y morbilidad de la insuficiencia renal; y,
+
+IV. Promover la realización de estudios de investigación con la finalidad de identificar los factores de riesgo, principales causas, métodos de prevención y tratamiento de la insuficiencia renal.
 
 ## TRANSITORIOS
 
@@ -2424,3 +2518,59 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicaci�
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
 
 TERCERO. En el Decreto de Presupuesto de Egresos del Estado de Michoacán para el ejercicio del año dos mil diecinueve y subsecuentes, deberán hacerse las previsiones presupuestales necesarias a fin de lograr, de manera progresiva, el cumplimiento de lo dispuesto en el párrafo tercero del artículo 15 bis.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 152.- ARTÍCULO ÚNICO.- SE ADICIONA EL TÍTULO SÉPTIMO Y EL CAPÍTULO I; ASÍ COMO LOS ARTÍCULOS 262, 263, 264 Y 265 TODOS DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud tendrá un plazo de noventa días naturales posteriores a la publicación de este Decreto para emitir el Reglamento de la Comisión de Atención a Enfermos Renales para el ejercicio de este derecho en los casos que establece la Ley.
+
+TERCERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 153 POR EL QUE "SE ADICIONA LA SECCIÓN PRIMERA DE LA PREVENCIÓN, DIAGNÓSTICO Y ATENCIÓN DEL CÁNCER INFANTIL Y DE ADOLESCENTES, AL CAPÍTULO IV, DEL TÍTULO SEGUNDO, QUE CONTIENE LOS ARTÍCULOS 39 TER, 39 QUATER, 39 QUINQUIES Y 39 SEXIES, A LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El titular de la Secretaría de Salud en su calidad de Presidente Ejecutivo del Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia, por única ocasión, enviará al Congreso del Estado, un informe de los avances y del Programa Estatal, en esta materia, durante los 60 días naturales, siguientes a la publicación del presente Decreto.
+
+TERCERO. El Titular del Ejecutivo del Estado deberá de asignar y precisar en el proyecto del Presupuesto de Egresos para el Estado de Michoacán de Ocampo, del próximo ejercicio fiscal correspondiente, los recursos necesarios para las acciones y programas necesarios para la prevención, diagnóstico y atención del cáncer infantil, de manera prioritaria para aquellos menores que no cuenten con algún sistema, seguro o servicio de atención a la salud.
+
+CUARTO. Dese cuenta al titular del Poder Ejecutivo, en su carácter de Presidente Honorífico del Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia en el Estado.
+
+QUINTO. Dese cuenta al titular de la Secretaría de Salud del Estado, en su carácter de Presidente Ejecutivo, del Consejo Estatal para la Prevención y el Tratamiento del Cáncer en la Infancia y la Adolescencia en el Estado.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 154 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 3° DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO",]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 155.- ARTÍCULO ÚNICO.- SE ADICIONAN LAS FRACCIONES II Y III, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 3° DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos correspondientes.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 156 POR EL QUE “SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 2° DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 159.- “ARTÍCULO TERCERO. SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 7° DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
