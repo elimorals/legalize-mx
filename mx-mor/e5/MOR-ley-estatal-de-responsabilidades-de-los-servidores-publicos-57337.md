@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2019-04-10"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL "DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO", PUBLICADO EN P.O. 10 DE ABRIL DE 2019]</small>
+
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -351,13 +353,11 @@ El Consejero Jurídico del Poder Ejecutivo, el Oficial Mayor del Poder Ejecutivo
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>[N. DE E. ESTE ARTÍCULO FUE MODIFICADO MEDIANTE DECRETO NÚMERO 14 PUBLICADO EN P.O. DE 10 DE ABRIL DE 2019, DICHO DECRETO ES DEROGADO POR ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019]</small>
 
 ###### ARTÍCULO 26.
 
-Los Servidores Públicos en el desempeño de sus funciones, deberán cumplir con sus obligaciones bajo los principios de legalidad, honradez, no discriminación, perspectiva de género, lealtad, imparcialidad y eficiencia en el desempeño del empleo, cargo o comisión.
-
-… (SIC)
+(DEROGADO, POR LA DISPOSICIÓN TRANSITORIA OCTAVA DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO DE MORELOS, P.O. 19 DE JULIO DE 2017)
 
 ###### ARTÍCULO 27.
 
@@ -898,3 +898,45 @@ SEXTO.- El Poder Ejecutivo Estatal, a través de la Secretaría de Gobierno, deb
 SÉPTIMO.- El Ejecutivo deberá realizar las previsiones necesarias para el presupuesto correspondiente 2017-2018, con la finalidad de crear los Centros de Rehabilitación para Agresores a que se refiere, la Sección Tercera, Titulo Tercero, Capitulo II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos.
 
 OCTAVO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2019
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO TERCERO DEL DECRETO NÚMERO CUATROCIENTOS SETENTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL "DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO".]</small>
+
+###### ARTÍCULO TERCERO.
+
+Se derogan los artículos dispositivos Séptimo, Décimo Cuarto, Décimo Sexto, Décimo Séptimo, Vigésimo y Vigésimo Primero, del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO; incluidas las reformas en ellos contenidas a la Ley Orgánica de la Administración Pública del Estado de Morelos, la Ley de Atención y Reparación a Víctimas del Delito y de Violaciones a los Derechos Humanos para el Estado de Morelos, la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos, la Ley Estatal de Responsabilidades de los Servidores Públicos, el Código Procesal Civil para el Estado Libre y Soberano de Morelos y el Código Procesal Familiar para el Estado Libre y Soberano de Morelos; para quedar como sigue:
+
+###### ARTÍCULO SÉPTIMO.
+
+Derogado.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Derogado.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Derogado.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Derogado.
+
+###### ARTÍCULO VIGÉSIMO.
+
+Derogado.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Derogado.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO CUATROCIENTOS SETENTA POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL "DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial "Tierra y Libertad", número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
