@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-seguridad-privada-del-estado-de-michoacan-de-ocampo-7978
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-03"
-last_updated: "2016-12-29"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 3 de enero de 2011.
 
@@ -249,9 +249,11 @@ Son elementos de seguridad privada toda aquella persona que preste servicios de 
 
 Ningún elemento de las fuerzas armadas de la unión o cuerpos de seguridad pública, ya sean de la Federación, Estados o Municipios podrá desempeñarse como elemento de seguridad privada, cuando haya sido removido por alguna irregularidad o ilicitud cometida por éste en dichas Instituciones de seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 22.
 
-Previamente a la contratación de los elementos de seguridad privada, los prestadores del servicio deberán presentar por escrito, ante la Secretaría, la relación de aspirantes, conteniendo su nombre completo y Clave Única de Registro Poblacional, para que haga las consultas indispensables ante la Procuraduría General de Justicia del Estado, a la Procuraduría General de la República, al Sistema Nacional de Información en Seguridad Pública y a la Secretaría de Seguridad Pública Federal, sobre la información de los antecedentes de los aspirantes.
+Previamente a la contratación de los elementos de seguridad privada, los prestadores del servicio deberán presentar por escrito, ante la Secretaría, la relación de aspirantes, conteniendo su nombre completo y Clave Única de Registro Poblacional, para que haga las consultas indispensables ante la Fiscalía General del Estado, a la Fiscalía General de la República, al Sistema Nacional de Información en Seguridad Pública y a la Secretaría de Seguridad Pública Federal, sobre la información de los antecedentes de los aspirantes.
 
 La Secretaría deberá informar al prestador del servicio dentro de los diez días hábiles siguientes a la presentación del escrito, el resultado de la consulta.
 
@@ -650,3 +652,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO DÉCIMO NOVENO. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 22 DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
