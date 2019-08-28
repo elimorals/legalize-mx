@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-rural-integral-sustentable-del-estado-de-4820
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-18"
-last_updated: "2018-10-30"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
-Ley publicada en el periódico oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
+Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de enero de 2006.
 
 LÁZARO CÁRDENAS BATEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
@@ -285,7 +285,9 @@ II. Instituto de Planeación del Estado del Michoacán de Ocampo;
 
 III. Secretaría de Finanzas y Administración;
 
-IV. Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+IV. Fiscalía General del Estado;
 
 V. Secretaría de Seguridad Pública;
 
@@ -1411,7 +1413,7 @@ La Secretaría promoverá mecanismos e instrumentos de protección en la segurid
 
 ### Capítulo Único. De la Denuncia Popular
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 131.
 
@@ -1475,7 +1477,7 @@ Bajo el principio de equidad y para disminuir las asimetrías, la Secretaría, c
 
 ###### Artículo 137.
 
-Toda persona podrá denunciar ante las siguientes instancias: Coordinación de Contraloría, Procuraduría General de Justicia del Estado, Comisión Forestal del Estado, Procuraduría General de la República, Procuraduría Federal de Protección al Ambiente, Secretaría de Salud, Comisiones Nacional y Estatal de Derechos Humanos y ante cualquier otra dependencia u autoridad competente, todo hecho, acto u omisión que:
+Toda persona podrá denunciar ante las siguientes instancias: Coordinación de Contraloría, Fiscalía General del Estado, Comisión Forestal del Estado, Fiscalía General de la República, Procuraduría Federal de Protección al Ambiente, Secretaría de Salud, Comisiones Nacional y Estatal de Derechos Humanos y ante cualquier otra dependencia u autoridad competente, todo hecho, acto u omisión que:
 
 I. Viole o infrinja la normatividad federal, estatal y municipal, en materia de sanidad vegetal y animal, y que esa acción ponga en peligro la salud humana;
 
@@ -1578,3 +1580,9 @@ Artículo Tercero. El Titular del Poder Ejecutivo Estatal expediraí (sic) dentr
 Artículo Cuarto. La liquidación y extinción del Centro de Agronegocios del Estado de Michoacán, se ajustará a lo dispuesto en el Acuerdo que decreta su extinción, de fecha 23 de mayo (sic) 2016.
 
 Artículo Quinto. Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO SEXTO. SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 137 DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
