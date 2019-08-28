@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-alternativa-y-restaurativa-del-estado-de-97989"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2014-02-12"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA ALTERNATIVA Y RESTAURATIVA DEL ESTADO DE MICHOACÁN.
 
-TEXTO ORIGINAL.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -55,9 +53,13 @@ Esta Ley tiene como objeto fomentar y regular los mecanismos alternativos de sol
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Acuerdo reparatorio. Convenio que resulta del procedimiento de mecanismos alternativos llevado a cabo ante la Procuraduría, donde la víctima u ofendido, o el ofendido, y el imputado pactan resolver una controversia y establecen las obligaciones que contraen, dentro de las que necesariamente se encuentra la reparación del daño;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-II. Centros. Áreas especializadas del Poder Judicial y de la Procuraduría que llevan a cabo mecanismos alternativos;
+I. Acuerdo reparatorio. Convenio que resulta del procedimiento de mecanismos alternativos llevado a cabo ante la Fiscalía, donde la víctima u ofendido, o el ofendido, y el imputado pactan resolver una controversia y establecen las obligaciones que contraen, dentro de las que necesariamente se encuentra la reparación del daño;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+II. Centros. Áreas especializadas del Poder Judicial y de la Fiscalía que llevan a cabo mecanismos alternativos;
 
 III. Código. Código de Procedimientos Penales del Estado de Michoacán de Ocampo;
 
@@ -81,11 +83,15 @@ XII. Partes. Personas físicas o morales que participan como interesados en los 
 
 XIII. Poder Judicial. Poder Judicial del Estado de Michoacán de Ocampo;
 
-XIV. Procuraduría. Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XIV. Fiscalía. Fiscalía General del Estado;
 
 XV. Reglamento. Disposiciones reglamentarias en materia de mecanismos alternativos emitidas por el Poder Ejecutivo, el Poder Judicial y los ayuntamientos, en el ámbito de sus respectivas competencias; y,
 
-XVI. Unidad de atención. Lugares establecidos por el Poder Judicial, la Procuraduría y los ayuntamientos, a donde pueden acudir las partes para resolver controversias mediante el uso de los mecanismos alternativos.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
+
+XVI. Unidad de atención. Lugares establecidos por el Poder Judicial, la Fiscalía y los ayuntamientos, a donde pueden acudir las partes para resolver controversias mediante el uso de los mecanismos alternativos.
 
 ### CAPÍTULO SEGUNDO. MECANISMOS ALTERNATIVOS
 
@@ -129,13 +135,17 @@ Las unidades de atención contarán con los recursos humanos y materiales indisp
 
 Cada unidad contará con el número de facilitadores que permitan las posibilidades presupuestales.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 7.
 
-Las unidades de atención del Centro de la Procuraduría proporcionarán exclusivamente los mecanismos alternativos establecidos en el Código, ajustándose en lo conducente a esta Ley.
+Las unidades de atención del Centro de la Fiscalía proporcionarán exclusivamente los mecanismos alternativos establecidos en el Código, ajustándose en lo conducente a esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 8.
 
-El Poder Judicial y la Procuraduría, a través de sus institutos implementarán las acciones necesarias a fin de que los mecanismos alternativos sean cada vez más eficaces y eficientes, para lo cual impartirán al menos un curso de capacitación y actualización al año a sus facilitadores.
+El Poder Judicial y la Fiscalía, a través de sus institutos implementarán las acciones necesarias a fin de que los mecanismos alternativos sean cada vez más eficaces y eficientes, para lo cual impartirán al menos un curso de capacitación y actualización al año a sus facilitadores.
 
 Los cursos que imparta el Poder Judicial se harán extensivos a los facilitadores de los ayuntamientos de manera gratuita.
 
@@ -187,9 +197,11 @@ II. Cumplir con las obligaciones de dar, hacer o no hacer establecidas en el con
 
 ### CAPÍTULO CUARTO. FACILITADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 15.
 
-Los facilitadores serán nombrados por el Poder Judicial y por la Procuraduría, respectivamente, mediante convocatoria y concurso de oposición públicos. En el concurso de oposición que implemente la Procuraduría, se deberán tomar como referencia los supuestos y procedimientos establecidos en el Código, además de lo dispuesto en esta Ley.
+Los facilitadores serán nombrados por el Poder Judicial y por la Fiscalía, respectivamente, mediante convocatoria y concurso de oposición públicos. En el concurso de oposición que implemente la Fiscalía, se deberán tomar como referencia los supuestos y procedimientos establecidos en el Código, además de lo dispuesto en esta Ley.
 
 El proceso de selección será gratuito para los interesados y no estará condicionado a capacitación previa impartida por alguna institución en particular.
 
@@ -355,7 +367,9 @@ Por cada procedimiento se radicará un expediente debidamente identificado.
 
 En caso de que el asunto se refiera a una controversia ya planteada ante un juez, las partes informarán al facilitador del número de radicación de ese expediente, así como los datos de identificación del juzgado.
 
-Asimismo, el facilitador informará al juez competente para efectos de la suspensión de los plazos y términos judiciales por un periodo de treinta días naturales, en asuntos planteados ante las unidades de atención de la Procuraduría y de sesenta días naturales en asuntos planteados ante el Poder Judicial.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+Asimismo, el facilitador informará al juez competente para efectos de la suspensión de los plazos y términos judiciales por un periodo de treinta días naturales, en asuntos planteados ante las unidades de atención de la Fiscalía y de sesenta días naturales en asuntos planteados ante el Poder Judicial.
 
 ###### ARTÍCULO 31.
 
@@ -419,9 +433,11 @@ IV. La negativa de las partes para la suscripción del convenio o acuerdo repara
 
 V. Cuando se hayan girado dos invitaciones a la parte invitada y no se haya logrado su asistencia.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 41.
 
-En el caso de los asuntos que conozcan los facilitadores de la Procuraduría, si las partes no llegaren a un acuerdo, el asunto se canalizará ante la unidad de investigación correspondiente.
+En el caso de los asuntos que conozcan los facilitadores de la Fiscalía, si las partes no llegaren a un acuerdo, el asunto se canalizará ante la unidad de investigación correspondiente.
 
 ### CAPÍTULO SEXTO. CONTENIDO Y EFECTOS DE LOS CONVENIOS Y ACUERDOS REPARATORIOS
 
@@ -508,3 +524,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 15 quince días del mes de enero del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO, LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO DÉCIMO PRIMERO.- SE REFORMA LAS FRACCIONES I, II, XIV Y XVI DEL ARTÍCULO 2, EL ARTÍCULO 7, EL PRIMER PÁRRAFO DEL ARTÍCULO 8, EL PRIMER PÁRRAFO DEL ARTÍCULO 15, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 30 Y EL ARTÍCULO 41 DE LA LEY DE JUSTICIA ALTERNATIVA Y RESTAURATIVA DEL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
