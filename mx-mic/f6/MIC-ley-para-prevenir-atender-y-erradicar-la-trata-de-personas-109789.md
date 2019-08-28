@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-atender-y-erradicar-la-trata-de-personas-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-25"
-last_updated: "2017-05-15"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA DE LAS VÍCTIMAS EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el martes 25 de agosto de 2015.
 
@@ -139,9 +137,9 @@ IX. Ley: Ley para Prevenir, Atender y Erradicar la Trata de Personas y para la P
 
 X. Municipios: Los municipios del Estado de Michoacán de Ocampo;
 
-> <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-XI. Procuraduría: Procuraduría General de Justicia del Estado de Michoacán de Ocampo;
+XI. Fiscalía: Fiscalía General del Estado;
 
 > <small>(F. DE E., P.O. 15 DE MAYO DE 2017)</small>
 
@@ -405,7 +403,9 @@ V. Autorizar la utilización de cualquier medio, instrumentos o herramienta para
 
 VI. Toda aquella que determinen las leyes aplicables.
 
-El Ministerio Público podrá solicitar a la Procuraduría General de la República su colaboración para ejercer cualquiera de las atribuciones anteriores
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
+
+El Ministerio Público podrá solicitar a la Fiscalía General de la República su colaboración para ejercer cualquiera de las atribuciones anteriores.
 
 ###### Artículo 18.
 
@@ -756,3 +756,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia Michoacán, a los 11 once días del mes de agosto del año 2015 dos mil quince.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- LIC. JAIME AHUIZOTL ESPARZA CORTINA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO TRIGÉSIMO SEGUNDO.- SE REFORMA LA FRACCIÓN IX (SIC) DEL ARTÍCULO 4 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 17 DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA DE LAS VÍCTIMAS EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
