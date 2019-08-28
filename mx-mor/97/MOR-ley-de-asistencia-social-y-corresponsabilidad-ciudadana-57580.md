@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2019-05-22"
+last_updated: "2019-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
@@ -85,11 +83,11 @@ IX.- Ley: La Ley de Asistencia Social y Corresponsabilidad Ciudadana.
 
 ### CAPÍTULO II. DE LOS SUJETOS DE LA ASISTENCIA SOCIAL
 
-> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 4.
 
-Tienen derecho a la asistencia social las personas y familias que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar. Es especial, aquellas que pertenezcan a grupos en condiciones de vulnerabilidad, particularmente tratándose de mujeres, niñas y niños, adultos mayores y población indígena.
+Tienen derecho a la asistencia social las personas y familias que por sus condiciones físicas, mentales, jurídicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar; en especial, aquellas que pertenezcan a grupos en condiciones de vulnerabilidad, particularmente tratándose de mujeres, niñas y niños, adultos mayores y población indígena.
 
 ###### ARTÍCULO 5.
 
@@ -405,9 +403,9 @@ V.- La persona titular de la Secretaría de la Contraloría del Poder Ejecutivo 
 
 VI.- La persona titular de la Secretaría de Educación del Poder Ejecutivo Estatal, y
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
-VII.- La persona titular de la Secretaría de Cultura del Poder Ejecutivo Estatal.
+VII.- La persona titular de la Secretaría de Turismo y Cultura.
 
 El Presidente o Presidenta, el Director General y el Comisario Público del Sistema, participarán en las sesiones de la Junta de Gobierno con derecho a voz pero sin voto.
 
@@ -1154,3 +1152,15 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
+
+P.O. 28 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SETENTA.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES; Y SE DEROGAN Y REFORMAN DIVERSOS ARTÍCULOS DISPOSITIVOS DEL “DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial “Tierra y Libertad”, número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
