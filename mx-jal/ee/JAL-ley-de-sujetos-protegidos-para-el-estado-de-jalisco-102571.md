@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-sujetos-protegidos-para-el-estado-de-jalisco-102571"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-27"
-last_updated: "2018-12-11"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2014.
 
@@ -55,7 +55,9 @@ II. Víctima u ofendido: se considera víctima del delito al sujeto pasivo que r
 
 III. Ley: A la presente Ley;
 
-IV. Fiscalía: Fiscalía General del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+IV. Fiscalía: Fiscalía Estatal;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
 
@@ -506,3 +508,9 @@ Tribunal de Justicia
 SEXTO. Quienes hayan desempeñado un cargo de los enunciados en el articulo que anteceden podrán solicitar la distribución de horarios del personal asignado o la disminución de este, pero no se le asignara mayor personal del señalado en el mismo.
 
 SEPTIMO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27330/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2° DE LA LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
