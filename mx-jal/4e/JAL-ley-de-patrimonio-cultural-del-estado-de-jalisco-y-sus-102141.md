@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-patrimonio-cultural-del-estado-de-jalisco-y-sus-102141"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-26"
-last_updated: "2014-08-30"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 30 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 26 de agosto de 2014.
 
@@ -97,7 +95,9 @@ II. Declaratoria: Acto jurídico del Titular del Poder Ejecutivo o del Pleno del
 
 III. Intervención: Cualquier acción o modificación que se realice sobre los bienes considerados Patrimonio Cultural;
 
-IV. Inventario: Inventario Estatal del Patrimonio Cultural, a cargo de la Secretaría de Cultura del Estado de Jalisco, integrado con el registro sistemático, ordenado y detallado de bienes de todo género que constituyen Patrimonio Cultural;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+IV. Inventario: Inventario Estatal del Patrimonio Cultural, a cargo de la Secretaría de Cultura, integrado con el registro sistemático, ordenado y detallado de bienes de todo género que constituyen Patrimonio Cultural;
 
 V. Ley Federal: Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos;
 
@@ -111,7 +111,9 @@ IX. Registro: Registro Público de la Propiedad del Estado de Jalisco;
 
 X. Salvaguarda: Conjunto de acciones y medidas para garantizar la permanencia del Patrimonio Cultural del Estado a través de su identificación, documentación, investigación, preservación, protección, intervención, promoción, valorización, transmisión, revitalización y difusión;
 
-XI. Secretaría: Secretaría de Cultura del Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+XI. Secretaría: Secretaría de Cultura; y
 
 XII. SEMADET: Secretaría de Medio Ambiente y Desarrollo Territorial.
 
@@ -833,7 +835,9 @@ Asimismo, toda sanción deberá contemplar las medidas de restauración necesari
 
 A fin de evitar la imposición de cualquier sanción administrativa derivada de la presente ley, si el interesado demuestra fehacientemente que no cuenta con recursos económicos para llevar a cabo los trabajos, la autoridad podrá optar por cualquiera de las siguientes opciones:
 
-I. Celebrar convenio con la Secretaría de Planeación, Administración y Finanzas del Estado o la dependencia municipal que corresponda, a efecto de realizar las obras que se requieran, para lo cual se acordará un programa de trabajo, mismo que se ejecutará bajo la supervisión y asesoría de la Secretaría;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+I. Celebrar convenio con la Secretaría de Administración o la dependencia municipal que corresponda, a efecto de realizar las obras que se requieran, para lo cual se acordará un programa de trabajo, mismo que se ejecutará bajo la supervisión y asesoría de la Secretaría;
 
 II. Realizar de manera extraordinaria la adquisición del bien y los gastos de obras de restauración, cuando los bienes afectados ostenten cualidades artísticas o históricas relevantes para el Patrimonio Cultural del Estado y éstos corran peligro de pérdida o deterioro irreversible; y
 
@@ -910,3 +914,11 @@ El Secretario General de Gobierno
 MTRO. ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27318/LXII/19 QUE REFORMA LOS ARTÍCULOS 6 FRACCIONES IV Y XI, Y 84 FRACCIÓN I, DE LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
