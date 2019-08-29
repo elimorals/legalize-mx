@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-prevencion-y-atencion-de-la-violencia-37196"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-18"
-last_updated: "2016-10-11"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Septuagésima del Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 2003.
 
@@ -73,23 +71,37 @@ Son autoridades para la aplicación y vigilancia del cumplimiento de esta ley en
 
 I. Al Ejecutivo a través de:
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-a) La Secretaría de Desarrollo e Integración Social;
+a) La Secretaría del Sistema de Asistencia Social;
 
-b) La Secretaría General de Gobierno;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-c) La Secretaría de Educación;
+b) La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres;
 
-d) La Secretaría de Salud;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
+c) La Secretaría General de Gobierno;
 
-e) La Fiscalía General del Estado;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-f) (DEROGADO, P.O. 9 DE AGOSTO DE 2014)
+d) La Secretaría de Educación;
 
-g) El Sistema para el Desarrollo Integral de la Familia;
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+e) La Secretaría de Salud;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE AGOSTO DE 2019)</small>
+
+f) La Fiscalía Estatal;
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+g) La Secretaría de Seguridad; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE AGOSTO DE 2019)</small>
+
+h) El Organismo Estatal;
 
 > <small>(F. DE E., P.O. 26 DE FEBRERO DE 2004)</small>
 
@@ -143,11 +155,11 @@ Organismo Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia.
 
 El Estado coadyuvará en el resguardo de la familia como un espacio de afecto, seguridad y desarrollo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 7.
 
-Le corresponde a la Secretaría de Desarrollo e Integración Social, además del despacho de los asuntos descritos que la Ley Orgánica del Poder Ejecutivo establece las siguientes:
+Le corresponde a la Secretaría del Sistema de Asistencia Social, además del despacho de los asuntos descritos que la Ley Orgánica del Poder Ejecutivo establece, las siguientes:
 
 I. Promover acciones y programas de protección social a las víctimas de la violencia intrafamiliar;
 
@@ -203,27 +215,29 @@ V. Promover que se preste la atención a las víctimas de la violencia intrafami
 
 VI. Difusión y aplicación en todos los sectores de salud (sic) la norma oficial aplicable, referente a la prestación de servicios de salud, y los criterios para la atención médica de la violencia intrafamiliar.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 11.
 
-La Fiscalía General del Estado, además de las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo, para los efectos de esta ley, tendrá las siguientes:
+La Secretaría de Seguridad, además de las atribuciones señaladas en la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, para los efectos de esta ley, tendrá las siguientes:
 
-I. Atender los casos de violencia intrafamiliar que sean reportados y que constituyan delito;
+I. Coordinarse con la Fiscalía Estatal para la atención de los casos de violencia intrafamiliar que sean reportados y que constituyan delito;
 
-II. Instaurar cursos de formación y capacitación a los cuerpos policíacos sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención;
+II. Instaurar cursos de formación y capacitación a los elementos de seguridad sobre la dinámica y efectos de la violencia intrafamiliar, su prevención y atención; e
 
-III. Integrar comités de participación ciudadana y seguridad vecinal en colaboración con las autoridades responsables, con fines preventivos de la violencia intrafamiliar;
+III. Integrar comités de participación ciudadana y seguridad vecinal en colaboración con las autoridades responsables, con fines preventivos de la violencia intrafamiliar.
 
-IV. Turnar a las instancias competentes, los casos en que de la averiguación previa se determine que no hay delito que perseguir, pero se advierta que existen indicios o datos para considerar la existencia de violencia intrafamiliar;
-
-V. Realizar las acciones pertinentes que permitan brindarle seguridad al receptor, en términos de su competencia y de las leyes aplicables, una vez aplicado el tratamiento especializado por el personal capacitado; y
-
-VI. Promover la impartición de cursos y talleres de prevención y asistencia de violencia intrafamiliar a la policía investigadora y adoptar las medidas pertinentes cuando se presente algún caso.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 12.
 
-(DEROGADO, P.O. 9 DE AGOSTO DE 2014)
+La Fiscalía Estatal, además de las atribuciones señaladas en la Ley Orgánica de la Fiscalía del Estado de Jalisco, para los efectos de esta ley tendrá las siguientes:
+
+I. Turnar a las instancias competentes, los casos en que de la carpeta de investigación se determine que no hay delito que perseguir, pero se advierta que existen indicios o datos para considerar la existencia de violencia intrafamiliar;
+
+II. Realizar las acciones pertinentes que permitan brindarle seguridad al receptor, en términos de su competencia y de las leyes aplicables, una vez aplicado el tratamiento especializado por el personal capacitado; y
+
+III. Promover la impartición de cursos y talleres de prevención y asistencia de violencia intrafamiliar a la policía investigadora y adoptar las medidas pertinentes cuando se presente algún caso.
 
 ###### Artículo 13.
 
@@ -255,45 +269,69 @@ II. Establecer las bases de modelos de atención y coordinación entre las insti
 
 III. Impulsar y apoyar los trabajos de investigación y análisis relacionados con la violencia intrafamiliar.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2019, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO PASANDO DE XV FRACCIONES A XIV.]</small>
+
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 15.
 
 El órgano rector del Consejo será la Junta de Gobierno, la cual se conformará por los titulares de las entidades y dependencias enumeradas a continuación, o por quienes estos designen:
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-I. La Secretaría de Desarrollo e Integración Social, la cual lo presidirá y designará a un Director de dicha Secretaría para que funja como Secretario Técnico;
+I. Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, la cual lo presidirá y designará a un Director de dicha Secretaría para que funja como Secretario Técnico;
 
-II. Presidente del Organismo Estatal;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-III. Secretaría General de Gobierno;
+II. Secretaría del Sistema de Asistencia Social;
 
-IV. Secretaría de Educación;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-V. Secretaría de Salud;
+III. Presidente del Organismo Estatal;
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-VI. Fiscalía General del Estado;
+IV. Secretaría General de Gobierno;
 
-VII. (DEROGADA, P.O. 9 DE AGOSTO DE 2014)
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-VIII. Supremo Tribunal de Justicia del Poder Judicial del Estado;
+V. Secretaría de Educación;
 
-IX. Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-X. Consejo Estatal de Familia;
+VI. Secretaría de Salud;
 
-XI. Hogar Cabañas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2019)</small>
 
-XII. Instituto Jalisciense de Asistencia Social;
+VII. Secretaría de Seguridad;
 
-XIII. Instituto Jalisciense de las Mujeres;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-XIV. Tres especialistas en la materia propuestos por las instituciones de educación superior más representativas en el Estado, nombrados por el Presidente del Consejo, y
+VIII. Fiscalía Estatal;
 
-XV. Tres representantes de los organismos sociales que se hayan destacado por su trabajo y estudio en la materia de violencia intrafamiliar, invitados anualmente con carácter de vocales mediante convocatoria del Presidente de la Junta de Gobierno.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+IX. Supremo Tribunal de Justicia del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+X. Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+XI. Procuraduría de Protección de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+XII. Hogar Cabañas;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+XIII. Tres especialistas en la materia propuestos por las instituciones de educación superior más representativas en el Estado, nombrados por el Presidente del Consejo, y
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+XIV. Tres representantes de los organismos sociales que se hayan destacado por su trabajo y estudio en la materia de violencia intrafamiliar, invitados anualmente con carácter de vocales mediante convocatoria del Presidente de la Junta de Gobierno.
 
 ###### Artículo 16.
 
@@ -673,9 +711,11 @@ II. Multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Ac
 
 III. Arresto hasta por treinta y seis horas, en el caso de faltas graves cometidas durante el desarrollo de la audiencia.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 48.
 
-Cuando las autoridades, dependencias y entidades y servidores públicos de los poderes estatales y gobiernos municipales no cumplan con lo señalado en este ordenamiento legal y disposiciones reglamentarias serán sancionadas con conformidad en las disposiciones contenidas en la de la (sic) Ley de Responsabilidades de los Servidores Públicos.
+Cuando las autoridades, dependencias y entidades y servidores públicos de los poderes estatales y gobiernos municipales no cumplan con lo señalado en este ordenamiento legal y disposiciones reglamentarias serán sancionadas con (sic) conformidad en las disposiciones contenidas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ## TRANSITORIOS
 
@@ -766,3 +806,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27321/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
