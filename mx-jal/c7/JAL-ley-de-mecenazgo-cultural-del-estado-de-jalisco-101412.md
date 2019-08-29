@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-mecenazgo-cultural-del-estado-de-jalisco-101412"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-14"
-last_updated: "2014-07-26"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE MECENAZGO CULTURAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE JULIO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Jalisco, el sábado 14 de junio de 2014.
 
@@ -57,7 +55,9 @@ II.- Mecenas: la persona física o jurídica que otorga el apoyo económico o ma
 
 III.- Beneficiario: las personas físicas, entidades públicas o privadas sin fines de lucro, que presenten proyectos relacionados con la investigación, capacitación, difusión, creación y producción en los diferentes aspectos de la cultura;
 
-IV.- Secretaría: Secretaría de Cultura del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+IV.- Secretaría: Secretaría de Cultura;
 
 V.- Ley: Ley de Mecenazgo Cultural del Estado;
 
@@ -99,7 +99,9 @@ III.- El procedimiento y plazos para la recepción, evaluación y resguardo de l
 
 IV.- El procedimiento a seguir para la entrega de los apoyos al beneficiario;
 
-V.- Elaborar y publicar durante los meses de julio a agosto y de enero a febrero de cada año, un informe, en términos de la Ley de Transparencia y Acceso a la Información del Estado de Jalisco, que contenga los montos erogados durante el primero y segundo semestres del ejercicio fiscal respectivo, según corresponda, así como la relación de mecenas, personas y proyectos beneficiados;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+V.- Elaborar y publicar durante los meses de julio a agosto y de enero a febrero de cada año, un informe, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, que contenga los montos erogados durante el primero y segundo semestres del ejercicio fiscal respectivo, según corresponda, así como la relación de mecenas, personas y proyectos beneficiados;
 
 VI.- Informar en el portal de (sic) oficial de la Secretaría de Cultura, a los mecenas y a los aspirantes a beneficiarios, sobre los requisitos, alcances y beneficios del mecenazgo; y
 
@@ -158,3 +160,11 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27316/LXII/19 QUE REFORMA LOS ARTÍCULOS 2 FRACCIÓN IV Y 8 FRACCIÓN V, DE LA LEY DE MECENAZGO CULTURAL DEL ESTADO DE JALISCO”.]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
