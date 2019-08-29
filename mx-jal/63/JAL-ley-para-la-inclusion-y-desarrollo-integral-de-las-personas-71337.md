@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2018-12-05"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -125,9 +125,9 @@ XXVII. Rehabilitación: Acciones terapéuticas, médicas, psicológicas, sociale
 
 XXVIII. Registro Estatal: El Registro Estatal de Certificación de Reconocimiento y Calificación de Discapacidad;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-XXIX. Secretaría: Secretaría de Igualdad Sustantiva; y
+XXIX. Secretaría: Secretaría General de Gobierno; y
 
 XXX. Unidad de Valoración: órgano técnico dependiente de la Secretaría de Salud.
 
@@ -389,9 +389,9 @@ El Sistema Estatal para la Inclusión y Desarrollo de las Personas con Discapaci
 
 La Unidad de Valoración es un órgano técnico dependiente de la Secretaría de Salud que tiene por objeto la valoración de las personas para certificar la existencia de la discapacidad, su naturaleza, su grado y temporalidad, así como las posibilidades y requerimientos para la plena inclusión de la persona con discapacidad en el ámbito social, educativo, ocupacional, deportivo y laboral, en los términos de la Ley General, la presente Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-Para la emisión de los certificados a que se refiere el párrafo anterior, la Unidad de Valoración se coordinará con la Secretaría de Salud, la Secretaría de Igualdad Sustantiva y el DIF Estatal.
+Para la emisión de los certificados a que se refiere el párrafo anterior, la Unidad de Valoración se coordinará con la Secretaría de Salud, la Secretaría y el DIF Estatal.
 
 > <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
@@ -955,11 +955,11 @@ III. El desarrollo máximo de las potencialidades y aptitudes de la persona con 
 
 IV. Proporcionarle herramientas y conocimientos para facilitar a las personas con discapacidad su incorporación al mercado de trabajo.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 55.
 
-Las Secretarías de Cultura, Educación e igualdad Sustantiva, el DIF Estatal, los DIF Municipales y los municipios deberán fomentar programas para la inclusión en la práctica y el desarrollo de las aptitudes y habilidades artísticas y culturales de las personas con discapacidad, como elemento necesario del proceso de desarrollo de potencialidades y de rehabilitación.
+La Secretaría, las secretarías de Cultura y de Educación, el DIF Estatal, los DIF Municipales y los municipios deberán fomentar programas para la inclusión en la práctica y el desarrollo de las aptitudes y habilidades artísticas y culturales de las personas con discapacidad, como elemento necesario del proceso de desarrollo de potencialidades y de rehabilitación.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1073,11 +1073,11 @@ El transporte deberá cumplir con las especificaciones técnicas y especiales qu
 
 Cada unidad del servicio colectivo de pasajeros deberá contar con un mínimo de dos asientos preferenciales para personas con discapacidad, los cuales se fijarán de forma vertical, con el respaldo adherido a uno de los costados de la unidad y estarán cerca de la puerta de ingreso.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 71.
 
-El Ejecutivo del Estado, mediante estudios técnicos, determinará en la norma técnica correspondiente, que el transporte público, en particular las unidades del servicio colectivo de pasajeros, cuenten con aditamentos especiales, tales como rampas y elevadores o mecanismos especiales que permitan la entrada y salida a personas con discapacidad. La Secretaría de Movilidad y los Municipios vigilarán el cumplimiento de dicha norma técnica.
+El Ejecutivo del Estado, mediante estudios técnicos, determinará en la norma técnica correspondiente, que el transporte público, en particular las unidades del servicio colectivo de pasajeros, cuenten con aditamentos especiales, tales como rampas y elevadores o mecanismos especiales que permitan la entrada y salida a personas con discapacidad. La Secretaría del Transporte y los municipios vigilarán el cumplimiento de dicha norma técnica.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1091,7 +1091,9 @@ La regulación municipal establecerá el número de espacios de estacionamientos
 
 Las normas reglamentarias que al efecto expidan los Ayuntamientos privilegiarán el traslado de las personas con discapacidad.
 
-La Secretaría de Movilidad y los municipios vigilarán que se garantice y cumpla con las disposiciones para el uso adecuado de zonas preferenciales para el estacionamiento de vehículos en los que viajen personas con discapacidad, tanto en la vía pública, como en lugares de acceso al público, y en su caso, aplicarán las sanciones previstas por esta ley.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+La Secretaría del Transporte y los municipios vigilarán que se garantice y cumpla con las disposiciones para el uso adecuado de zonas preferenciales para el estacionamiento de vehículos en los que viajen personas con discapacidad, tanto en la vía pública, como en lugares de acceso al público, y en su caso, aplicarán las sanciones previstas por esta ley.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1173,9 +1175,9 @@ Será competencia de los municipios, en los términos de la regulación municipa
 
 Los municipios darán vista al DIF Municipal, según sea el caso, cuando tuvieren conocimiento de infracciones a la fracción III.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-Será competencia de la Secretaría de Movilidad y de los municipios aplicar las multas establecidas en la fracción II.
+Será competencia de la Secretaría del Transporte y de los municipios aplicar las multas establecidas en la fracción II.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1336,3 +1338,9 @@ QUINTO. Las facultades, derechos y obligaciones establecidos a cargo del organis
 SEXTO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente decreto.
 
 SÉPTIMO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente decreto.
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27320/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
