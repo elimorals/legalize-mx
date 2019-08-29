@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-en-materia-de-administracion-de-la-107813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-05-15"
-last_updated: "2018-03-02"
+last_updated: "2019-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107813&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-05-11"
 
 REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE AGOSTO DE 2019.
 
 Reglamento publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 15 de mayo de 2015.
 
@@ -977,9 +977,7 @@ X. Rendir al Comité de Gobierno y Administración, dentro de la primera quincen
 
 XI. Poner a disposición de las autoridades competentes en materia de administración y enajenación de bienes públicos, los bienes recibidos de forma gratuita por los servidores públicos de este Alto Tribunal con motivo del ejercicio de sus funciones, de conformidad con el artículo 40 de la Ley General de Responsabilidades Administrativas;
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
-
-XII. Recibir y tramitar quejas o denuncias por el probable incumplimiento de las obligaciones o por inobservancia de la ley por parte de los servidores públicos de la Suprema Corte; acordar el inicio de procedimientos administrativos disciplinarios; acordar el cierre de instrucción, y emitir los dictámenes que correspondan, en términos de las disposiciones aplicables en la materia;
+XII. (DEROGADA POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO IX/2019, D.O.F. 29 DE AGOSTO DE 2019)
 
 XIII. Informar al Presidente, y, cuando éste lo instruya, al Pleno o al Comité de Gobierno y Administración, las conductas probablemente delictuosas de los servidores públicos de la Suprema Corte, derivado de la práctica de auditorías o procedimiento de responsabilidades administrativas, coadyuvando con la representación legal de la Corte para la presentación de la denuncia o querella, según corresponda;
 
@@ -1091,9 +1089,7 @@ VI. Llevar el registro de la recepción de bienes y donaciones a los que se refi
 
 VII. Fungir como autoridad substanciadora en los procedimientos de responsabilidad administrativa en los términos de la Ley General de Responsabilidades Administrativas y de la normatividad interna aplicable;
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
-
-VIII. Proponer y, en su caso, acordar en forma conjunta con el titular de la Contraloría el desechamiento de quejas o denuncias por no acreditarse la existencia de una conducta infractora o la probable responsabilidad del servidor público, o bien el inicio del procedimiento de responsabilidad administrativa, así como los diversos acuerdos de trámite y los proyectos de dictamen en términos de las normas aplicables a la materia;
+VIII. (DEROGADA POR EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO IX/2019, D.O.F. 29 DE AGOSTO DE 2019)
 
 > <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2018)</small>
 
@@ -1589,7 +1585,7 @@ Artículo Quinto. Una vez que las disposiciones del presente Acuerdo General de 
 
 D.O.F. 2 DE MARZO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DE ADMINISTRACIÓN 1/2018, DEL VEINTE DE FEBRERO DE DOS MIL DIECIOCHO, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN 1/2018, DEL VEINTE DE FEBRERO DE DOS MIL DIECIOCHO, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
 
 Artículo Primero. El presente Acuerdo General entrará en vigor el día siguiente al de su aprobación.
 
@@ -1604,3 +1600,13 @@ Artículo Quinto. Los procedimientos en trámite a la entrada en vigor del prese
 Artículo Sexto. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta y en el Diario Oficial de la Federación, así como en medios electrónicos de consulta pública, conforme a lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
 
 Artículo Séptimo. Una vez que las disposiciones del presente Acuerdo General de Administración hayan entrado en vigor, intégrense al Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, a fin de que el contenido de éste se encuentre debidamente actualizado, en el portal de este Alto Tribunal, así como en todo tipo de publicaciones.
+
+D.O.F. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO IX/2019, DE VEINTE DE AGOSTO DE DOS MIL DIECINUEVE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE EXPIDEN LOS LINEAMIENTOS PARA EL EJERCICIO DE LAS FACULTADES Y ATRIBUCIONES CONFERIDAS A LA UNIDAD GENERAL DE INVESTIGACIÓN DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su firma.
+
+SEGUNDO. Se derogan los artículos 30, fracción XII y 33, fracción VIII del Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, únicamente en cuanto a la recepción y trámite de las denuncias o quejas, así como todas aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
+
+TERCERO. Publíquese en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet e Intranet de la Suprema Corte de Justicia de la Nación.
