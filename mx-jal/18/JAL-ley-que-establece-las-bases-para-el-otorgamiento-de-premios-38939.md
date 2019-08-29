@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2019-05-18"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -105,7 +105,9 @@ II. Secretaría de Educación;
 
 III. Secretaría de Cultura;
 
-IV. Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+IV. Secretaría de la Hacienda Pública;
 
 V. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
@@ -121,7 +123,7 @@ IX. Consejo Estatal para la Cultura y las Artes;
 
 X. Consejo Estatal de Ciencia y Tecnología;
 
-XI. Instituto Jalisciense de la Juventud; y
+XI. (DEROGADA, P.O. 29 DE AGOSTO DE 2019); y
 
 XII. La Federación de Colegios de Profesionistas de Jalisco.
 
@@ -317,9 +319,9 @@ XIV. Condecoración "Francisco Tenamaxtli", a quien se haya destacado en la prom
 
 Para el otorgamiento de las condecoraciones se seguirá el siguiente procedimiento:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-I. Las comisiones legislativas de Educación, de Cultura y de Innovación, Ciencia y Tecnología del Congreso, emitirán una convocatoria para la entrega de las condecoraciones a más tardar el día treinta de septiembre del año anterior a su entrega y será dirigida a los organismos sociales, colegios de profesionistas, universidades y a la sociedad en general, con finalidad de allegarse propuestas de candidatos; la cual será publicada en dos diarios de amplia circulación en el Estado y en la página web del Congreso del Estado de Jalisco.
+I. La Comisión Legislativa de Educación, Cultura y Deporte del Congreso, emitirá una convocatoria para la entrega de las condecoraciones a más tardar el día treinta de septiembre del año anterior a su entrega y será dirigida a los organismos sociales, colegios de profesionistas, universidades y a la sociedad en general, con finalidad de allegarse propuestas de candidatos; la cual será publicada en dos diarios de amplia circulación en el Estado y en la página web del Congreso del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -361,7 +363,9 @@ VI. Las situaciones no previstas en la presente ley serán resueltas por acuerdo
 
 Las comisiones señaladas en el artículo anterior podrán allegarse (sic) todos los medios de convicción necesarios a efecto de dictaminar sobre los méritos de los candidatos.
 
-En todo momento, las Comisiones de Educación, de Cultura y de Ciencia y Tecnología, mediante acuerdo interno, tendrá la facultad de solicitar los informes que juzgue oportunos a toda clase de autoridades e instituciones públicas o privadas, así como copias certificadas de los documentos que obren en oficinas y archivos públicos.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+En todo momento, la Comisión Legislativa de Educación, Cultura y Deporte, mediante acuerdo interno, tendrá la facultad de solicitar los informes que juzgue oportunos a toda clase de autoridades e instituciones públicas o privadas, así como copias certificadas de los documentos que obren en oficinas y archivos públicos.
 
 Asimismo, en el caso de los candidatos para recibir las condecoraciones José Clemente Orozco, y Juan Rulfo, tendrán la atribución de solicitar la opinión del Consejo Estatal para la Cultura y las Artes, que servirá como elemento para determinar si son merecedores de recibir dichas condecoraciones, de acuerdo a su trayectoria.
 
@@ -479,6 +483,12 @@ P.O. 8 DE ABRIL DE 2017.
 
 P.O. 18 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 27275/LXII/19 QUE REFORMA EL ARTÍCULO 9, FRACCIÓN VI DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 27275/LXII/19 QUE REFORMA EL ARTÍCULO 9, FRACCIÓN VI DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27317/LXII/19 QUE REFORMA LOS ARTÍCULOS 9 FRACCIONES IV Y DEROGA LA XI, 20 FRACCIÓN I Y 21, TODOS DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente día (sic) de su publicación en el periódico oficial "El Estado de Jalisco".
