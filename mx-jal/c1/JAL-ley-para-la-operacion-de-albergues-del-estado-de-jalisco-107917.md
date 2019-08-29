@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-operacion-de-albergues-del-estado-de-jalisco-107917
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-21"
-last_updated: "2017-03-04"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de mayo de 2015.
 
@@ -95,61 +95,59 @@ VII. Persona menor de edad: Toda persona menor de dieciocho años de edad;
 
 VIII. Registro Estatal de Albergues: Al registro público de albergues asentados en la entidad.
 
-IX. Residente: La persona que recibe el servicio de cuidado y vigilancia y, en su caso, la guarda y custodia, por parte de los albergues regidos por la presente Ley; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-X. Titular o administrador del albergue: La persona que en carácter de propietaria, administradora o cualquier otra denominación o figura jurídica, sea la responsable de la administración del albergue; todos los albergues deberán designar administrador.
+IX. Residente: La persona que recibe el servicio de cuidado y vigilancia y, en su caso, la guarda y custodia, por parte de los albergues regidos por la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2019)</small>
+
+X. Secretaría: La Secretaría del Sistema de Asistencia Social; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 29 DE AGOSTO DE 2019)</small>
+
+XI. Titular o administrador del albergue: La persona que en carácter de propietaria, administradora o cualquier otra denominación o figura jurídica, sea la responsable de la administración del albergue; todos los albergues deberán designar administrador.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-Corresponde a la Secretaría de Desarrollo e Integración Social el ejercicio de las siguientes atribuciones:
+###### Artículo 6°.
 
-I. Vigilar en el ámbito de su respectiva competencia, el cumplimiento de la presente Ley y sus disposiciones reglamentarias;
+Corresponde a la Secretaría el ejercicio de las siguientes atribuciones:
 
-II. Implementar las acciones necesarias para (sic) los residentes reciban atención y servicios de asistencia social;
+I. Vigilar en el ámbito de su respectiva competencia, el cumplimiento de la presente Ley, sus disposiciones reglamentarias y demás normas oficiales aplicables;
 
-III. Integrar, actualizar permanentemente, y publicar en su sitio oficial en internet el Registro Estatal de Albergues, y publicarlo en el Periódico Oficial “El Estado de Jalisco”;
+II. Promover, coordinar, apoyar y supervisar la prestación de servicios asistenciales que ofrezcan los albergues;
 
-IV. Expedir y publicar en su sitio oficial en internet y publicarlo en el Periódico Oficial “El Estado de Jalisco”; el reglamento de operación y las normas técnicas que rijan la expedición del Certificado de funcionamiento que para tal efecto propongan las autoridades a las que se refiere el artículo 8 de la presente ley;
+III. Implementar las acciones necesarias para que los residentes reciban atención y servicios de asistencia social;
 
-V. Elaborar un reglamento de operación modelo para albergues, el cual deberá contener los elementos mínimos para su observancia en cada albergue; los albergues podrán adicionar elementos para su mejor operación interna, sin que las disposiciones puedan ser contrarias a lo previsto en esta Ley y su Reglamento, y en el mismo reglamento de operación modelo;
+IV. Integrar, actualizar permanentemente, y publicar en su sitio oficial en internet el Registro Estatal de Albergues, y publicarlo en el periódico oficial "El Estado de Jalisco";
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Expedir y publicar en su sitio oficial en internet y publicarlo en el periódico oficial "El Estado de Jalisco", el reglamento de operación y las normas técnicas que rijan la expedición del Certificado de funcionamiento que para tal efecto propongan las autoridades a las que se refiere el artículo 8 de la presente ley;
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+VI. Elaborar un reglamento de operación modelo para albergues, el cual deberá contener los elementos mínimos para su observancia en cada albergue; los albergues podrán adicionar elementos para su mejor operación interna, sin que las disposiciones puedan ser contrarias a lo previsto en esta Ley y su Reglamento, y en el mismo reglamento de operación modelo;
 
-VI. Las demás que le establezcan otras disposiciones legales o reglamentarias aplicables.
+VII. Establecer los criterios de inspección y evaluación a los que se sujetarán los albergues;
 
-VII. Las demás que le establezcan otras disposiciones legales o reglamentarias aplicables.
+VIII. Aplicar las sanciones correspondientes, en caso de que en la verificación o inspección de los albergues se observen irregularidades, de conformidad con lo establecido en la presente Ley y su Reglamento;
 
-###### Artículo 7º.
+IX. Dictar la política estatal para la operación de albergues; y
 
-El Instituto Jalisciense de Asistencia Social tendrá las siguientes atribuciones:
+X. Las demás que le establezcan otras disposiciones legales o reglamentarias aplicables.
 
-I. Promover, coordinar, apoyar y supervisar la prestación de servicios asistenciales que ofrezcan los albergues;
+###### Artículo 7°.
 
-II. Vigilar el cumplimiento de la presente Ley, sus disposiciones reglamentarias y demás normas oficiales aplicables. En caso de que en la verificación o inspección se observen irregularidades, dar aviso a la Secretaría de Desarrollo e Integración Social para que imponga al albergue la sanción que corresponda, de conformidad con lo establecido en la presente Ley y su Reglamento;
+(DEROGADO, P.O. 29 DE AGOSTO DE 2019)
 
-III. Dictar la política estatal para la operación de albergues;
-
-IV. Establecer los criterios de inspección y evaluación a los que se sujetarán los albergues;
-
-V. Colaborar en la integración del Registro Estatal de Albergues y, en consecuencia, con el Registro Estatal de Asistencia Social; y
-
-VI. Las demás que le establezcan otras disposiciones legales o reglamentarias aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 8°.
 
-Corresponde al Instituto Jalisciense del Adulto Mayor y a la Procuraduría de Protección de Niñas, Niños y Adolescentes, en sus respectivos ámbitos de competencia, el ejercicio de las siguientes atribuciones:
+Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia, y a la Procuraduría de Protección de Niñas, Niños y Adolescentes, en sus respectivos ámbitos de competencia, el ejercicio de las siguientes atribuciones:
 
-I. Vigilar el cumplimiento de la presente Ley, sus disposiciones reglamentarias y demás normas oficiales aplicables.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-En caso de que en la verificación o inspección se observen irregularidades, dar aviso a la Secretaría de Desarrollo e Integración Social para que imponga al albergue la sanción que corresponda, de conformidad con lo establecido en la presente Ley y su Reglamento;
+I. Vigilar el cumplimiento de la presente ley, sus disposiciones reglamentarias y demás normas oficiales aplicables. En caso de que en la verificación o inspección se observen irregularidades, se dará aviso a la Secretaría para que imponga al albergue la sanción que corresponda, de conformidad con lo establecido en la presente Ley y su Reglamento;
 
 II. Expedir y, en su caso, revocar el Certificado de funcionamiento, según corresponda en los términos de esta Ley;
 
@@ -163,15 +161,13 @@ VI. Colaborar en la integración del Registro Estatal de Albergues;
 
 VII. Certificar la bitácora en las (sic) que los albergues deberán registrar ingresos y egresos, salidas temporales y cualquier eventualidad relativa a los residentes;
 
-VIII. Proponer e impulsar ante la Secretaría de Desarrollo e Integración Social, las disposiciones para que expida el reglamento de operación y las normas técnicas que rijan la expedición del Certificado de funcionamiento en sus respectivos ámbitos de competencia; y
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Proponer a la Secretaría e impulsar la expedición del reglamento de operación y las normas técnicas que rijan la expedición del Certificado de funcionamiento, en sus respectivos ámbitos de competencia;
 
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 IX. Aplicar el procedimiento administrativo de sanción conforme a lo establecido en la Ley del Procedimiento Administrativo del Estado de Jalisco; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -188,8 +184,6 @@ II. Expedir o negar la autorización sanitaria;
 III. El ejercicio del control sanitario en las instalaciones de los albergues; y
 
 IV. Las demás que le establezcan otras disposiciones legales, reglamentarias y normas oficiales aplicables.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -209,7 +203,9 @@ V. Atender oportunamente las solicitudes que los albergues efectúen para salvag
 
 VI. Conocer de aquellos casos de residentes en que se presuma incapacidad y brindarles asistencia para salvaguardar sus derechos.
 
-En caso de que en la verificación o inspección se observen irregularidades, la Procuraduría correspondiente dará aviso a la Secretaría de Desarrollo e Integración Social para que imponga al albergue la sanción que corresponda, de conformidad con lo establecido en la presente Ley y su reglamento, y ante cualquier otra autoridad para que proceda conforme el ámbito de su competencia.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+En caso de que en la verificación o inspección se observen irregularidades, la Procuraduría correspondiente dará aviso a la Secretaría para que imponga al albergue la sanción que corresponda, de conformidad con lo establecido en la presente Ley y su reglamento, y ante cualquier otra autoridad para que proceda conforme al ámbito de su competencia.
 
 Una vez que cualquier autoridad competente reciba comunicación sobre las condiciones de albergues o de sus residentes, las mismas deberán de abrir expediente e iniciar el procedimiento a que haya lugar.
 
@@ -287,7 +283,9 @@ El Certificado de funcionamiento será intransferible y tendrá una vigencia de 
 
 Para la obtención del Certificado de funcionamiento, se requerirá:
 
-I. Cumplir con los requisitos enunciados en el reglamento de operación y las normas técnicas que al efecto dicte la Secretaría de Desarrollo e Integración Social;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+I. Cumplir con los requisitos enunciados en el reglamento de operación y las normas técnicas que al efecto dicte la Secretaría;
 
 II. La autorización sanitaria;
 
@@ -313,15 +311,17 @@ Corresponderá la cancelación del Certificado de funcionamiento de albergue cua
 
 I. Se deje de cumplir con las condiciones mínimas requeridas para la obtención del Certificado de funcionamiento;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-II. Se suspenda la prestación de servicios sin previo aviso a la autoridad competente en materia de protección de niñas, niños, adolescentes y la familia, o al Instituto Jalisciense del Adulto Mayor, según corresponda, en un plazo mayor a treinta días naturales; o
+II. Se suspenda la prestación de servicios sin previo aviso a la autoridad competente en materia de protección de niñas, niños y adolescentes, o al Sistema Estatal para el Desarrollo Integral de la Familia, según corresponda, en un plazo mayor a treinta días naturales; o
 
 III. Por cambio de domicilio del albergue.
 
 En caso de que se presente cualquiera de los supuestos establecidos en el presente artículo, se apercibirá al titular o administrador del albergue y se le fijará un plazo según la naturaleza del acto, para que subsane las irregularidades detectadas.
 
-Una vez transcurrido el plazo, la autoridad competente remitirá las constancias a la Secretaría de Desarrollo e Integración Social para que proceda conforme a derecho.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+Una vez transcurrido el plazo, la autoridad competente remitirá las constancias a la Secretaría para que proceda conforme a derecho.
 
 ###### Artículo 21.
 
@@ -555,8 +555,6 @@ El expediente al que se refiere el presente artículo deberá estar actualizado 
 
 En el caso de residentes menores de edad, el expediente deberá contener información suficiente que permita que su situación sea revisada y valorada de manera particular, así como determinar procedimientos de ingreso y egreso con el apoyo de las autoridades competentes que faciliten su reincorporación al ambiente familiar o social.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 35.
@@ -579,7 +577,9 @@ VII. El estado de la situación jurídica del residente.
 
 Los albergues deberán cumplir con las disposiciones legales en materia de datos personales.
 
-El padrón a que se refiere el presente artículo será remitido de manera semestral a la Secretaría de Desarrollo e Integración social, y a las entidades previstas en esta legislación y su Reglamento, para lo cual podrá hacer uso de los medios electrónicos disponibles.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+El padrón a que se refiere el presente artículo será remitido de manera semestral a la Secretaría y a las entidades previstas en esta legislación y su Reglamento, para lo cual podrá hacer uso de los medios electrónicos disponibles.
 
 #### SECCIÓN SEGUNDA.. DE LOS ALBERGUESPARA (SIC) PERSONAS MENORES DE EDAD
 
@@ -619,19 +619,13 @@ XV. Brindar el cuidado y vigilancia a los residentes de manera permanente quedan
 
 XVI. Contar con el reglamento de operación, en los términos de esta Ley, y aprobado por el Sistema Nacional DIF;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
 XVII. Publicar en un lugar visible la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
-
-XVIII. Remitir semestralmente el padrón o base de datos de sus residentes con la información de la situación jurídica en la que se encuentren, a la Secretaría de Desarrollo e Integración Social y a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVIII. Remitir semestralmente el padrón o base de datos de sus residentes con la información de la situación jurídica en la que se encuentren, a la Secretaría y a la Procuraduría de Protección de Niñas, Niños y Adolescentes; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1032,5 +1026,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 P.O. 4 DE MARZO DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 26277/LXI/17 QUE REFORMAN LOS ARTÍCULOS 188 Y 191 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO: 20, 30, 63 Y 64 DE LA LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO, Y 60 Y 61 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27323/LXII/19 QUE REFORMA Y DEROGAN (SIC) DIVERSOS ARTÍCULOS DE LA LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
