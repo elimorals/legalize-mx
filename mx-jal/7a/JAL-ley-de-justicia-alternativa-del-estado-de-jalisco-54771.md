@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-justicia-alternativa-del-estado-de-jalisco-54771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-30"
-last_updated: "2018-11-17"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2007.
 
@@ -101,11 +103,9 @@ I. Voluntariedad: La participación de los interesados en el método alternativo
 
 II. Confidencialidad: La información derivada de los procedimientos de los métodos alternativos no podrá ser divulgada, por lo que será intransferible e indelegable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
-
-Sólo a petición de la autoridad ministerial y judicial se podrán entregar las actuaciones derivadas de los procedimientos de los métodos alternativos, los cuales se considerarán reservados para efectos de la Ley de Transparencia e Información Pública del estado de Jalisco;
+Sólo a petición de la autoridad ministerial y judicial se podrán entregar las actuaciones derivadas de los procedimientos de los métodos alternativos, los cuales se considerarán reservados para efectos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
 
 III. Flexibilidad: El procedimiento será susceptible de cambios o variaciones según las circunstancias o necesidades de los participantes;
 
@@ -118,8 +118,6 @@ VI. Equidad: El prestador del servicio deberá generar condiciones de igualdad p
 VII. Legalidad: Sólo podrán ser objeto del procedimiento previsto en esta ley, los conflictos derivados por la violación de un derecho legítimo o por incumplimiento indebido de una obligación y que no afecten el interés público;
 
 VIII. Honestidad: El prestador del medio alterno deberá excusarse de participar cuando reconozca que sus capacidades, limitaciones o intereses personales pueden afectar el procedimiento;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2008)</small>
 
@@ -211,9 +209,9 @@ V. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2018)
 
 VI. Ley Orgánica de la Fiscalía General del Estado de Jalisco;
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-VII. Ley Orgánica de la Procuraduría Social del Estado de Jalisco;
+VII. Ley Orgánica de la Procuraduría Social;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
@@ -269,15 +267,15 @@ Las personas jurídicas que presten los servicios de medios alternativos de solu
 
 Los mediadores, conciliadores y árbitros que operen en las instituciones que presten los servicios de medios alternativos de solución de conflictos deberán ser certificados por el Instituto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)
 
 ###### Artículo 15.
 
 Las cámaras empresariales, los colegios de profesionistas y los organismos estatal y municipales del Sistema para el Desarrollo Integral de la Familia, podrán funcionar como centros de resolución de conflictos a través de los medios alternos, en las áreas de su actividad, previa acreditación otorgada en los términos del artículo 13, salvo aquellos que tengan dichas facultades por disposición de la ley.
 
-La Secretaría General de Gobierno, la Fiscalía General del Estado, la Procuraduría Social, la Procuraduría de Protección de Niñas, Niños y Adolescentes y demás autoridades que por disposición legal tengan atribuciones para ello, podrán desempeñar las funciones de mediación o conciliación conforme a lo previsto en la presente ley y demás disposiciones aplicables, sin requerir la certificación ni las acreditaciones a que se refiere la presente ley.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+La Secretaría General de Gobierno, la Fiscalía Estatal, la Procuraduría Social, la Procuraduría de Protección de Niñas, Niños y Adolescentes y demás autoridades que por disposición legal tengan atribuciones para ello, podrán desempeñar las funciones de mediación o conciliación conforme a lo previsto en la presente ley y demás disposiciones aplicables, sin requerir la certificación ni las acreditaciones a que se refiere la presente ley.
 
 Todas las personas acreditadas como centros de resolución de conflictos, a través de los medios alternos, invariablemente deberán dar cuenta al Instituto de los convenios que realicen para su sanción y registro.
 
@@ -415,7 +413,9 @@ XI. Llevar la estadística general del Instituto, de los Centros y los demás pr
 
 XII. Rendir anualmente un informe de sus actividades.;
 
-XIII. Difundir el resultado de sus investigaciones, Informes y actividades en general a través de los medios de comunicación en los términos de la Ley de Transparencia e Información Pública del Estado;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+XIII. Difundir el resultado de sus investigaciones, Informes y actividades en general a través de los medios de comunicación en los términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios;
 
 XIV. Organizar y encargarse de la función del Instituto y de sus sedes regionales;
 
@@ -463,15 +463,21 @@ La responsabilidad y representación del Instituto de Justicia Alternativa estar
 
 El nombramiento del Director General del Instituto lo hará el Congreso del Estado, de acuerdo al siguiente procedimiento:
 
-I. Para otorgar el nombramiento de Director General del Instituto el Congreso, a través de la Comisión de Justicia, deberá convocar a la sociedad en general, con excepción de los partidos políticos, para que propongan candidatos. Con la propuesta deberá entregarse el expediente que acredite el cumplimiento de los requisitos señalados en el párrafo primero;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-II. La Comisión de Justicia podrá aplicar a los candidatos exámenes de aptitud para conocer su perfil profesional;
+I. Para otorgar el nombramiento de Director General del Instituto el Congreso, a través de la Comisión de Seguridad y Justicia, deberá convocar a la sociedad en general, con excepción de los partidos políticos, para que propongan candidatos. Con la propuesta deberá entregarse el expediente que acredite el cumplimiento de los requisitos señalados en el párrafo primero;
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+II. La Comisión de Seguridad y Justicia podrá aplicar a los candidatos exámenes de aptitud para conocer su perfil profesional;
 
 III. Será sometida a la consideración del pleno del Congreso del Estado la lista de todos los candidatos que cumplan con los requisitos del cargo;
 
 IV. El Director General será nombrado con el voto de cuando menos las dos terceras partes de los diputados presentes;
 
-V. En caso de que no se reúnan los votos en una primera ronda de votación, se realizarán tantas rondas sean necesarias hasta contabilizar los votos conforme a la fracción IV del presente artículo;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+V. En caso de que ningún candidato obtenga los votos necesarios, se realiza una segunda votación, y si persiste el empate se suspende la votación durante el plazo que estime razonable la Presidencia. Transcurrido el plazo, se repite la votación. Si se somete de nuevo a votación y no se reúnen los votos necesarios, se entiende desechada la propuesta y se emitirá nueva convocatoria; y
 
 VI. El Director General durará en el cargo cuatro años, pudiendo ser reelecto por una sola ocasión, en igualdad de circunstancias con todos los aspirantes, para desempeñarlo por otro periodo igual.
 
@@ -537,8 +543,6 @@ XVIII. Autorizar la expedición de copias certificadas por el Secretario Técnic
 
 XIX. Las demás que establezcan las leyes y reglamentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2008)</small>
 
 ###### Artículo 29.
@@ -547,19 +551,19 @@ El Consejo estará integrado de la siguiente manera:
 
 I. El Director General, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-II. Dos representantes del Poder Ejecutivo, que serán designados por el Gobernador, preferentemente de la Fiscalía General del Estado o de la Procuraduría Social del Estado;
+II. Dos representantes del Poder Ejecutivo, que serán designados por el Gobernador, preferentemente de la Fiscalía Estatal o de la Procuraduría Social del Estado;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 III. Dos representantes del Poder Judicial, que serán el Presidente del Supremo Tribunal de Justicia del Estado de Jalisco o quien éste designe, así como un juez de primera instancia designado por el Consejo de la Judicatura del Poder Judicial del Estado de Jalisco, y
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-IV. Dos representantes del Poder Legislativo, que serán los presidentes de las comisiones legislativas de Justicia y de Puntos Constitucionales, Estudios Legislativos y Reglamentos, o quienes éstos designen;
+IV. Dos representantes del Poder Legislativo, que serán los presidentes de las comisiones legislativas de Seguridad y Justicia, y de Puntos Constitucionales y Electorales, o quienes éstos designen.
 
-V. Un representante del Consejo Económico y Social del estado de Jalisco.
+V. (DEROGADA, P.O. 29 DE AGOSTO DE 2019)
 
 A propuesta de cualquier integrante se podrá invitar, con derecho a voz, a instituciones públicas, sociales privadas, o a personas que tengan que ver con el asunto a tratar.
 
@@ -1095,13 +1099,17 @@ II. Multa de diez a veinticinco veces el valor diario de la Unidad de Medida y A
 
 III. Impedimento para actuar en la sesión, y en caso de reincidencia, además, doble del monto de la multa señalada en la fracción anterior si se tratare de abogado patrocinador de alguna de las partes.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 85.
 
-Tratándose de prestadores del servicio que tengan el carácter de servidores públicos, en caso de violación a preceptos de la presente ley y sus reglamentos se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos y en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+Tratándose de prestadores del servicio que tengan el carácter de servidores públicos, en caso de violación a preceptos de la presente ley y sus reglamentos se estará a lo dispuesto en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, y en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 86.
 
-Los prestadores que no tengan el carácter de servidores públicos, podrán ser sancionados en los términos de esta ley y de la Ley para el Ejercicio de las Profesiones del Estado, sin perjuicio de la responsabilidad laboral, administrativa, penal o civil en que pudieran incurrir.
+Los prestadores que no tengan el carácter de servidores públicos, podrán ser sancionados en los términos de esta ley y de la Ley para el Ejercicio de las Actividades Profesionales del Estado, sin perjuicio de la responsabilidad laboral, administrativa, penal o civil en que pudieran incurrir.
 
 ###### Artículo 87.
 
@@ -1151,9 +1159,11 @@ V. La revocación de la acreditación y registro ante el Instituto en caso de re
 
 VI. Clausura del establecimiento cuando carezca del registro ante el Instituto para realizar las actividades propias de la mediación.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 89.
 
-Las multas podrán hacerse efectivas mediante el procedimiento administrativo de ejecución por medio de la Secretaría de Finanzas del Gobierno del Estado.
+Las multas podrán hacerse efectivas mediante el procedimiento administrativo de ejecución por medio de la Secretaría de la Hacienda Pública.
 
 ###### Artículo 90.
 
@@ -1161,11 +1171,13 @@ El Director General del Instituto, los directores de centros públicos podrán s
 
 ### CAPÍTULO VII. DE LOS RECURSOS
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 91.
 
-En contra de las resoluciones del Instituto mediante las cuales se impongan sanciones, nieguen las solicitudes de autorización, acreditación, renovación o certificación a que se refiere esta ley, se podrán interponer el recurso de revisión previsto en la Ley de Procedimiento Administrativo del Estado, o bien, en forma optativa, promover el juicio de nulidad ante el Tribunal de lo Administrativo del Estado de Jalisco.
+En contra de las resoluciones del Instituto mediante las cuales se impongan sanciones, nieguen las solicitudes de autorización, acreditación, renovación o certificación a que se refiere esta ley, se podrán interponer el recurso de revisión previsto en la Ley de Justicia Administrativa del Estado, o bien, en forma optativa, promover el juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
 
 El recurso de revisión se interpondrá ante el Director General del Instituto o, en su caso, ante sus equivalentes en las sedes regionales, aun cuando se promueva contra sus actos o resoluciones.
 
@@ -1366,3 +1378,9 @@ P.O. 17 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26950/LXI/18 QUE REFORMA LOS ARTÍCULOS 3, 43, 50 Y 53 DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO".]
 
 Único. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “EI Estado de Jalisco”.
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27327/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 4°, 8°, 15, 24, 27, 29, 85, 86, 89, Y 91 DE LA LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
