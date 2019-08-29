@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-centro-de-atencion-para-las-victimas-del-delito-12132"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "2016-03-03"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -117,15 +117,17 @@ V.- Cuatro Delegados Regionales; y
 
 VI.- El personal profesional técnico y especializado necesario para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 8.
 
-El Consejo de Administración será el órgano máximo de gobierno, y se integrará de la siguiente forma:
+El Consejo de Administración será el órgano máximo de gobierno y se integrará de la siguiente forma:
 
 I.- Un Presidente que será el Gobernador del Estado o quien él designe;
 
-(REFORMADA, P.O. 16 DE FEBRERO DE 2016) (REPUBLICADA, P.O. 3 DE MARZO DE 2016)
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-II.- Un Vicepresidente que será el Fiscal General del Estado de Jalisco o la persona que él designe;
+II.- Un Vicepresidente que será el Fiscal Estatal o la persona que él designe;
 
 III.- Un Secretario del Consejo que será el Director General del Centro;
 
@@ -133,9 +135,9 @@ IV.- Un vocal que represente a cada una de las siguientes dependencias:
 
 a) Al Supremo Tribunal de Justicia;
 
-(REFORMADO, P.O. 16 DE FEBRERO DE 2016) (REPUBLICADO, P.O. 3 DE MARZO DE 2016)
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-b) La Secretaría de Planeación, Administración y Finanzas;
+b) La Secretaría de Administración;
 
 c) (DEROGADO, P.O. 16 DE FEBRERO DE 2016) (REPUBLICADO, P.O. 3 DE MARZO DE 2016)
 
@@ -335,9 +337,9 @@ VII.- A comparecer por sí o a través de su representante a las audiencias y al
 
 VIII.- A participar en la diligencia de identificación del probable responsable, en un lugar en donde no pueda ser vista por éste, si así lo solicita, cuando se trate de delitos contra la libertad sexual y normal desarrollo psicosexual, así como por delitos graves calificados por el Código Penal;
 
-(REFORMADA, P.O. 16 DE FEBRERO DE 2016) (REPUBLICADA, P.O. 3 DE MARZO DE 2016)
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-IX.- A impugnar por vía judicial, en los términos que la legislación señale, las resoluciones que nieguen el ejercicio de la acción penal, el desistimiento de la misma, y las conclusiones no acusatorias, ratificadas por el Fiscal General del Estado; y
+IX.- A impugnar por vía judicial, en los términos que la legislación señale, las resoluciones que nieguen el ejercicio de la acción penal, el desistimiento de la misma, y las conclusiones no acusatorias, ratificadas por el Fiscal Estatal; y
 
 X.- Los demás que le otorguen las leyes en esta materia.
 
@@ -530,3 +532,9 @@ P.O. 3 DE MARZO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27325/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 8°, FRACCIÓN II Y IV, INCISO B) Y 21, FRACCIÓN IX, AMBOS DE LA LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
