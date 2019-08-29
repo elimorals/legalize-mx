@@ -4,7 +4,7 @@ identifier: "JAL-ley-contra-la-delincuencia-organizada-del-estado-de-jalisco-384
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-10"
-last_updated: "2016-10-11"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 10 de febrero de 2004.
 
@@ -123,11 +121,17 @@ III. Se utilice a menores de edad o incapaces para cometer cualquiera de los del
 
 I. Cuando un miembro de la delincuencia organizada contra el cual no exista averiguación previa en su contra, por tratarse de hechos delictivos que no son conocidos por el Ministerio Público, aporte elementos de prueba o que se deriven de la averiguación previa iniciada por su colaboración, no se le incluirá dentro de tal averiguación y dichos elementos de prueba no serán tomados en cuenta en su contra. Este beneficio sólo pude otorgarse por una ocasión respecto de la misma persona;
 
-II. Cuando exista averiguación previa en la que el colaborador se encuentre implicado, y éste aporte ante el Ministerio Público indicios o elementos de prueba ciertos y suficientes para iniciar el procedimiento en contra de otros miembros de la delincuencia organizada, ello produce el efecto de que los elementos de prueba que aporte o se deriven de la averiguación o averiguaciones previas que se inicien por su colaboración no serán tomados en cuenta en su contra, a juicio del Ministerio Público y con acuerdo del Procurador General de Justicia del Estado. Este beneficio sólo puede otorgarse en una ocasión a la misma persona;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-III. Cuando el procedimiento se encuentre radicado ante la autoridad judicial y el colaborador aporte elementos de prueba ciertos, suficientes e idóneos para consignar o sentenciar a otros miembros de la delincuencia organizada, el Juez, tomando en cuenta el grado de colaboración podrá disminuir las penas, con excepción de la reparación del daño, hasta llegar a la conmutación total. En este supuesto, el juez debe dar vista al Ministerio Público con los datos o información que le hubiese proporcionado el colaborador y otorgar a la representación social un plazo prudente para el efecto de que investigue y corrobore la veracidad de los mismos. Este beneficio se otorga únicamente cuando la autoridad judicial obtenga la opinión favorable del Ministerio Público sobre el particular y con el acuerdo del Procurador General de Justicia del Estado; al colaborador que se hubiere otorgado el citado beneficio que con posterioridad cometa un delito doloso se le revocará de inmediato el mismo, bastando para ello la emisión de la determinación del Ministerio Público en la que se proponga el ejercicio de la acción penal; y
+II. Cuando exista averiguación previa en la que el colaborador se encuentre implicado, y éste aporte ante el Ministerio Público indicios o elementos de prueba ciertos y suficientes para iniciar el procedimiento en contra de otros miembros de la delincuencia organizada, ello produce el efecto de que los elementos de prueba que aporte o se deriven de la averiguación o averiguaciones previas que se inicien por su colaboración no serán tomados en cuenta en su contra, a juicio del Ministerio Público y con acuerdo del Fiscal Estatal. Este beneficio sólo puede otorgarse en una ocasión a la misma persona;
 
-IV. Cuando dictada la sentencia en el procedimiento y con antelación a la resolución del recurso de apelación, el miembro de la delincuencia organizada aporte elementos de prueba idóneos, ciertos y suficientes para consignar o sentenciar a otros miembros de la delincuencia organizada, la pena que se le hubiere impuesto por el delito de delincuencia organizada podrá reducirse hasta en una mitad. La reducción de la pena será promovida por le Procurador General de Justicia del Estado ante la autoridad judicial que conozca del asunto.
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+III. Cuando el procedimiento se encuentre radicado ante la autoridad judicial y el colaborador aporte elementos de prueba ciertos, suficientes e idóneos para consignar o sentenciar a otros miembros de la delincuencia organizada, el Juez, tomando en cuenta el grado de colaboración podrá disminuir las penas, con excepción de la reparación del daño, hasta llegar a la conmutación total. En este supuesto, el juez debe dar vista al Ministerio Público con los datos o información que le hubiese proporcionado el colaborador y otorgar a la representación social un plazo prudente para el efecto de que investigue y corrobore la veracidad de los mismos. Este beneficio se otorga únicamente cuando la autoridad judicial obtenga la opinión favorable del Ministerio Público sobre el particular y con el acuerdo del Fiscal Estatal; al colaborador que se hubiere otorgado el citado beneficio que con posterioridad cometa un delito doloso se le revocará de inmediato el mismo, bastando para ello la emisión de la determinación del Ministerio Público en la que se proponga el ejercicio de la acción penal; y
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+IV. Cuando dictada la sentencia en el procedimiento y con antelación a la resolución del recurso de apelación, el miembro de la delincuencia organizada aporte elementos de prueba idóneos, ciertos y suficientes para consignar o sentenciar a otros miembros de la delincuencia organizada, la pena que se le hubiere impuesto por el delito de delincuencia organizada podrá reducirse hasta en una mitad. La reducción de la pena será promovida por el Fiscal Estatal, ante la autoridad judicial que conozca del asunto.
 
 ## TITULO SEGUNDO. Procedimiento especial contra la Delincuencia Organizada
 
@@ -159,7 +163,9 @@ IV. Cuando dictada la sentencia en el procedimiento y con antelación a la resol
 
 ###### Artículo 9.
 
-1. El Ministerio Público, puede solicitar a la Secretaría de Finanzas del Poder Ejecutivo del Estado, que realice auditorias especiales a personas físicas o jurídicas, cuando existan indicios suficientes que hagan presumir fundadamente que son miembros de la delincuencia organizada, debiendo remitir el resultado que se obtenga de las mismas exclusivamente al agente del Ministerio Público que la solicitó.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+1. El Ministerio Público, puede solicitar a la Secretaría de la Hacienda Pública, que realice auditorías especiales a personas físicas o jurídicas, cuando existan indicios suficientes que hagan presumir fundadamente que son miembros de la delincuencia organizada, debiendo remitir el resultado que se obtenga de las mismas exclusivamente al agente del Ministerio Público que la solicitó.
 
 ###### Artículo 10.
 
@@ -169,7 +175,9 @@ IV. Cuando dictada la sentencia en el procedimiento y con antelación a la resol
 
 ###### Artículo 11.
 
-1. Siempre que se trate de delitos contemplados como delincuencia organizada la Secretaria de Seguridad Pública, Prevención y Readaptación Social del Estado de Jalisco, previa solicitud del Ministerio Público, debe prestar apoyo y protección suficiente a magistrados, jueces, peritos, testigos, víctimas y demás personas cuando por su intervención en un procedimiento penal y como consecuencia de ello se ponga en riesgo su integridad.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+1. Siempre que se trate de delitos contemplados como delincuencia organizada la Secretaría de Seguridad, previa solicitud del Ministerio Público, debe prestar apoyo y protección suficiente a magistrados, jueces, peritos, testigos, víctimas y demás personas cuando por su intervención en un procedimiento penal y como consecuencia de ello se ponga en riesgo su integridad.
 
 2. El titular del Ministerio Público debe resolver bajo su criterio y responsabilidad, si procede la medida de protección según sea el caso, y para tal efecto puede girar las instrucciones correspondientes.
 
@@ -300,3 +308,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27329/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5°, 9° Y 11 DE LA LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
