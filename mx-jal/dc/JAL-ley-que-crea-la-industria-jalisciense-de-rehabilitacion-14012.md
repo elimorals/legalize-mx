@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-la-industria-jalisciense-de-rehabilitacion-14012"
 country: "mx"
 rank: "ley"
 publication_date: "1981-05-07"
-last_updated: "2014-08-07"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA LA INDUSTRIA JALISCIENSE DE REHABILITACIÓN SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 7 de mayo de 1981.
 
@@ -39,7 +39,7 @@ Número 10614. El Congreso del Estado Decreta:
 
 Ley que crea la Industria Jalisciense de Rehabilitación Social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 ###### Artículo 1°.
 
@@ -227,23 +227,25 @@ El Consejo de Administración será el órgano supremo de la Industria Jaliscien
 
 a) El Gobernador Constitucional del Estado quien fungirá como Presidente del Consejo;
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-b) El Fiscal General del Estado;
+b) El Secretario de Seguridad;
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-c) El Secretario de Planeación, Administración y Finanzas;
+c) El Secretario de Administración;
 
-d) (DEROGADO, P.O. 7 DE AGOSTO DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE AGOSTO DE 2019)</small>
+
+d) El Secretario de la Hacienda Pública;
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
 
 e) El Secretario de Desarrollo Económico; y
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-f) El Fiscal de Reinserción Social de la Fiscalía General del Estado.
+f) Director General de Reinserción Social.
 
 > <small>(F. DE E., P.O. 24 DE FEBRERO DE 2004)</small>
 
@@ -291,7 +293,7 @@ V. Encausar por vías Institucionales las manifestaciones de solidaridad de las 
 
 VI. Reglamentar el funcionamiento de los órganos administradores de las diversas fuentes de trabajo, industrias y empresas que constituyan el patrimonio del Instituto y las que en lo sucesivo lleguen a acrecentar el mismo, procurando siempre la rehabilitación del interno y la autosuficiencia de los establecimientos penitenciarios.
 
-VII. Disponer sin más limitaciones que las que las Leyes establezcan, de las Industrias, Empresas y Bienes Muebles; así como de los bienes que se adquieran en el futuro por cualquier titulo, a fin de realizar plena y eficazmente las funciones propieas (sic) de la Industria Jalisciense de Rehabilitación Social.
+VII. Disponer sin más limitaciones que las que las Leyes establezcan, de las Industrias, Empresas y Bienes Muebles; así como de los bienes que se adquieran en el futuro por cualquier título, a fin de realizar plena y eficazmente las funciones propieas (sic) de la Industria Jalisciense de Rehabilitación Social.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -349,7 +351,7 @@ IV. Someter a la consideración del Consejo de Administración los presupuestos 
 
 V. Los demás que le confiera la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 29.
 
@@ -459,15 +461,17 @@ Artículo 31 ter. El Consejo Consultivo para la Industria Jalisciense de Rehabil
 
 a) Un presidente que será el titular del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-b) El Fiscal General del Estado;
+b) El Secretario de Seguridad;
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-c) El Secretario de Planeación, Administración y Finanzas;
+c) El Secretario de Administración;
 
-d) (DEROGADO, P.O. 7 DE AGOSTO DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE AGOSTO DE 2019)</small>
+
+d) El Secretario de la Hacienda Pública;
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
 
@@ -477,21 +481,19 @@ e) El Secretario de Desarrollo Económico;
 
 f) El Secretario del Trabajo y Previsión Social;
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-g) El Secretario de Desarrollo e Integración Social;
+g) El Secretario del Sistema de Asistencia Social;
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-h) El Fiscal de Reinserción Social de la Fiscalía General del Estado;
+h) El Director General de Reinserción Social;
 
 i) Los directores de cada una de las instituciones penitenciarias en donde esté operando la Industria Jalisciense de Rehabilitación Social;
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-j) Dos representantes del Consejo Ciudadano de Seguridad Pública,
-
-Prevención y Reinserción Social;
+j) Dos representantes del Consejo Ciudadano de Seguridad y Procuración de Justicia;
 
 k) Dos representantes de las cámaras de industriales de la entidad, y
 
@@ -537,7 +539,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Alfonso de Alba Martín
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 30 DE DICIEMBRE DE 2003.
 
@@ -554,3 +556,9 @@ P.O. 25 DE ENERO DE 2007.
 P.O. 7 DE AGOSTO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27322/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA LA INDUSTRIA JALISCIENSE DE REHABILITACIÓN SOCIAL”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
