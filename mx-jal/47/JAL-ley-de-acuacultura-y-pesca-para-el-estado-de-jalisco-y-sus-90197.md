@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acuacultura-y-pesca-para-el-estado-de-jalisco-y-sus-9019
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-17"
-last_updated: "2019-05-11"
+last_updated: "2019-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre de 2012.
 
@@ -69,7 +69,7 @@ VI. Ley: la Ley de Acuacultura y Pesca para el estado de Jalisco y sus municipio
 
 VII. Ley General: la Ley General de Pesca y Acuacultura Sustentables;
 
-VIII. Línea de producción: sector comercial dedicado al cultivo especifico de ciertas especies hidrobiológica;
+VIII. Línea de producción: sector comercial dedicado al cultivo específico de ciertas especies hidrobiológica;
 
 IX. Ordenamiento acuícola: el proceso que se implementa para definir y vigilar el desarrollo equilibrado y sustentable de la actividad acuícola en el estado, así como el conjunto de disposiciones que lo regulan con base en el conocimiento actualizado de sus componentes biológicos, biotecnológicos, ambientales, económicos y sociales;
 
@@ -259,7 +259,7 @@ XLVII. Las demás que establezca la presente Ley y le confiera la Federación.
 
 I. La inspección y vigilancia del cumplimiento de la Ley General y demás disposiciones que de ella deriven;
 
-II. El ordenamiento territorial especifico para los desarrollos acuícolas y pesqueros que operen en aguas de jurisdicción federal;
+II. El ordenamiento territorial específico para los desarrollos acuícolas y pesqueros que operen en aguas de jurisdicción federal;
 
 III. Las acciones técnicas y operativas para incorporarse a programas federales que tengan por objeto garantizar la sanidad e inocuidad de los productos acuícolas y pesqueros;
 
@@ -371,7 +371,7 @@ XVIII. Esquemas de integración de las cadenas productivas y valor agregado;
 
 XIX. Los instrumentos y acciones integrales de inspección y vigilancia para el cumplimiento de la presente ley;
 
-XX. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca ilegal;
+XX. El Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;
 
 XXI. Los instrumentos y mecanismos para la ejecución de las acciones previstas en este programa;
 
@@ -477,7 +477,7 @@ De conformidad con lo establecido en la legislación en materia de transparencia
 
 ###### Artículo 26.
 
-El Anuario Estadístico de Acuacultura y Pesca del Estado de Jalisco, es el documento de carácter estadístico, que forma parte del Subsistema Estatal de información y se integrará con las estadísticas relativas a estas actividades, y contendrá la información que para tal efecto establezca la Secretaría.
+El Anuario Estadístico de Acuacultura y Pesca del Estado de Jalisco, es el documento de carácter estadístico, que forma parte del Subsistema Estatal de Información y se integrará con las estadísticas relativas a estas actividades, y contendrá la información que para tal efecto establezca la Secretaría.
 
 ###### Artículo 27.
 
@@ -585,7 +585,7 @@ III. La determinación de zonas para el desarrollo de la actividad pesquera;
 
 IV. Los recursos hidrobiológicos sujetos a aprovechamiento en cada zona del estado;
 
-V. Las especies y sus períodos de veda;
+V. Las especies y sus periodos de veda;
 
 VI. Las artes de pesca permitidas;
 
@@ -1231,7 +1231,7 @@ La Secretaría, a través del IAPEJ, pondrá a disposición de los interesados l
 
 ###### Artículo 109.
 
-La Secretaría, a través del IAPEJ, podrá realizar diligencias para el conocimiento de los hechos implicados en los requisitos para la obtención y, en su caso, la revalidación de los permisos a que se refiere el presente titulo, así como visitas de inspección a los interesados para verificar que los datos asentados en las solicitudes respectivas cumplan con las disposiciones legales y técnicas establecidas en la presente ley y su reglamento y en los planes de manejo.
+La Secretaría, a través del IAPEJ, podrá realizar diligencias para el conocimiento de los hechos implicados en los requisitos para la obtención y, en su caso, la revalidación de los permisos a que se refiere el presente título, así como visitas de inspección a los interesados para verificar que los datos asentados en las solicitudes respectivas cumplan con las disposiciones legales y técnicas establecidas en la presente ley y su reglamento y en los planes de manejo.
 
 ###### Artículo 110.
 
@@ -1239,7 +1239,7 @@ La Secretaría, a través del IAPEJ, resolverá las solicitudes de permiso dentr
 
 ###### Artículo 111.
 
-Cuando en la presentación de la solicitud se omitan información o algunos de los requisitos establecidos en las disposiciones aplicables, la Secretaría requerirá al interesado dentro de los cinco días hábiles siguientes a la recepción de la solicitud para que, en un término de cinco días hábiles, posteriores al requerimiento, subsane la omisión o cumpla con los requisitos faltantes. Sí el interesado no atiende el requerimiento dentro del término señalado, la Secretaría tendrá por no presentada la solicitud.
+Cuando en la presentación de la solicitud se omitan información o algunos de los requisitos establecidos en las disposiciones aplicables, la Secretaría requerirá al interesado dentro de los cinco días hábiles siguientes a la recepción de la solicitud para que, en un término de cinco días hábiles, posteriores al requerimiento, subsane la omisión o cumpla con los requisitos faltantes. Si el interesado no atiende el requerimiento dentro del término señalado, la Secretaría tendrá por no presentada la solicitud.
 
 ###### Artículo 112.
 
@@ -1247,7 +1247,7 @@ En caso de que la Secretaría o el IAPEJ, omita dar a conocer al interesado la r
 
 ###### Artículo 113.
 
-La falta de resolución a cualquier solicitud para la acuacultura, implicará responsabilidad para los servidores públicos que les competa emitirla, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco; así mismo, la Secretaría tendrá la obligación de tomar las medidas necesarias para que se sancione al funcionario responsable.
+La falta de resolución a cualquier solicitud para la acuacultura, implicará responsabilidad para los servidores públicos que les competa emitirla, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco; asimismo, la Secretaría tendrá la obligación de tomar las medidas necesarias para que se sancione al funcionario responsable.
 
 ###### Artículo 114.
 
@@ -1419,7 +1419,7 @@ La vigencia de los permisos para la pesca de fomento y didáctica será por el t
 
 ###### Artículo 137.
 
-Ninguna autoridad o persona física o jurídica, que tenga acceso a información a que se refiere este capítulo, deberá divulgar o transferir, por ningún medio, los datos y resultados obtenidos en proyectos de fomento o investigación y programas de estudio, sin la autorización previa del permisionario; de hacerlo, será responsable de resarcir los daños y perjuicios a que se refieren la Ley de la Propiedad industrial y la legislación civil aplicable, así como de los delitos que la legislación penal aplicable tipifique.
+Ninguna autoridad o persona física o jurídica, que tenga acceso a información a que se refiere este capítulo, deberá divulgar o transferir, por ningún medio, los datos y resultados obtenidos en proyectos de fomento o investigación y programas de estudio, sin la autorización previa del permisionario; de hacerlo, será responsable de resarcir los daños y perjuicios a que se refieren la Ley de la Propiedad Industrial y la legislación civil aplicable, así como de los delitos que la legislación penal aplicable tipifique.
 
 ### CAPÍTULO IV. DE LOS PERMISOS PARA LA PESCA DEPORTIVO-RECREATIVA
 
@@ -1697,7 +1697,7 @@ Para obtener la guía de tránsito el interesado deberá presentar el formato de
 
 ###### Artículo 171.
 
-Recibida la solicitud y cumplidos los requisitos contemplados en el artículo anterior, el instituto expedirá en un plazo máximo de tres días hábiles la guía de tránsito.
+Recibida la solicitud y cumplidos los requisitos contemplados en el artículo anterior, el Instituto expedirá en un plazo máximo de tres días hábiles la guía de tránsito.
 
 ###### Artículo 172.
 
@@ -1811,11 +1811,11 @@ El Comité Asesor Técnico Científico se integrará, organizará y funcionará 
 
 Para fomentar la integración del sector acuícola y pesquero dentro de los programas a desarrollar por el Ejecutivo del Estado, la Secretaría podrá contar con el Fondo Estatal de Acuacultura y Pesca. El Fondo será el instrumento para promover la operación de esquemas de financiamiento para la conservación, incremento y aprovechamiento sustentable de los recursos pesqueros y acuícolas, la investigación, el desarrollo y transferencia de tecnología, facilitando el acceso a los servicios financieros para la comunidad productiva del sector acuícola y pesquero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 187.
 
-El Fondo Estatal de Acuacultura y Pesca operará a través de un Comité Técnico, integrado por el Secretario de Agricultura y Desarrollo Rural del Estado, el Subsecretario, un representante de la SADER, los titulares de las dependencias estatales que incidan en el sector y, en todo caso, un representante por municipio o municipios que estén conveniados.
+El Fondo Estatal de Acuacultura y Pesca operará a través de un Comité Técnico, integrado por quien ejerza la titularidad de la Secretaría de Agricultura y Desarrollo Rural del Estado; una representación de la SADER, las y los titulares de la dependencias estatales que incidan en el sector y, en todo caso, una representación por municipio o municipios que estén conveniados.
 
 La existencia del fondo no limita la creación de diversos fondos privados o sociales que tengan una relación directa con el desarrollo del sector acuícola y pesquero.
 
@@ -2212,3 +2212,9 @@ P.O. 11 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27267/LXII/19, QUE REFORMA LOS ARTÍCULOS 5° FRACCIONES VI, XI, XVIII, XXV, XXVI Y XXVII; 8° FRACCIÓN I; 10 FRACCIÓN XVI; 12 FRACCIÓN III INCISO A), 36 FRACCIÓN I INCISO E), FRACCIÓN II INCISO C); 38, 45, 46, 62, 65, 72 Y 73 DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27331/LXII/19 MEDIANTE EL CUAL SE REFORMA LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
