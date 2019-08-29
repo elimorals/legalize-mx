@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-sistema-de-agua-potable-y-alcantarillado-del-20316"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-12"
-last_updated: "2014-02-22"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE ZAPOTLANEJO, JALISCO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 12 de marzo de 1992.
 
@@ -67,9 +67,11 @@ Para la explotación de pozos de agua, tanto en predios urbanos como suburbanos,
 
 ### CAPITULO SEGUNDO. DE LOS ORGANOS DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 6°.
 
-El Sistema será administrado por un Consejo de Administración, un Director General, y las Dependencias que sean necesarias para cumplir sus objetivos. El Consejo de Administración se integrará por:
+El Sistema será administrado por un Consejo de Administración, un Director General y las dependencias que sean necesarias para cumplir sus objetivos. El Consejo de Administración se integrará por:
 
 I. El Presidente Municipal o su representante, quien presidirá el Consejo;
 
@@ -79,13 +81,13 @@ III. El Director de Obras Públicas Municipales;
 
 IV. El Director General del Consejo, que será nombrado por el Cabildo;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-V. Un representante de la Secretaría de Infraestructura y Obra Pública del Estado de Jalisco;
+V. Un representante de la Secretaría de Infraestructura y Obra Pública;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-VI. Un representante de la Secretaría de Salud y Bienestar Social del Estado de Jalisco;
+VI. Un representante de la Secretaría de Salud;
 
 VII. Un representante de la Comisión Nacional del Agua;
 
@@ -137,9 +139,9 @@ XII. Resolver sobre las solicitudes para la prestación de los servicios de agua
 
 XIII. Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias para su conservación y reparación, resolviendo lo relativo a sus mejoras y ampliaciones;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
 
-XIV. Promover ante el Ayuntamiento de Zapotlanejo, o lo que corresponda, cuando se ejercite la facultad económica-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal, en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Planeación, Administración y Finanzas de la entidad se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos, a través de sus oficinas de recaudación fiscal correspondientes;
+XIV. Promover ante el Ayuntamiento de Zapotlanejo, o lo que corresponda, cuando se ejercite la facultad económica-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal, en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de la Hacienda Pública de la entidad se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos, a través de sus oficinas de recaudación fiscal correspondientes;
 
 XV. Vigilar el cumplimiento de las disposiciones de esta Ley y su Reglamento, por parte de los usuarios de los servicios, a través de su Director General y las Dependencias que lo determinen;
 
@@ -282,3 +284,9 @@ Lic. Enrique Romero González
 P.O. 22 DE FEBRERO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27324/LXII/19 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI DEL ARTÍCULO 6° Y LA FRACCIÓN XIV DEL ARTÍCULO 9° DE LA LEY DEL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE ZAPOTLANEJO, JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
