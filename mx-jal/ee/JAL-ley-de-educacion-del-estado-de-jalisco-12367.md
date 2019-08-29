@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2019-03-21"
+last_updated: "2019-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -2321,11 +2321,11 @@ Para contribuir en la preservación de la integridad física de los menores de e
 
 Para los efectos del artículo anterior, el Poder Ejecutivo dispondrá de un fondo subsidiario de apoyo para la contratación de dicho seguro, mismo que estará contemplado en los presupuestos de egresos respectivos.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 153.
 
-El Gobierno del Estado a través de la Secretaría de Educación y de Planeación, Administración y Finanzas, definirá las bases y términos a los que deberá sujetarse la contratación del seguro escolar contra accidentes personales, para que pueda ser apoyado con el fondo subsidiario.
+El Gobierno del Estado, a través de la Secretaría de Educación y de la Secretaría de Administración, definirá las bases y términos a los que deberá sujetarse la contratación del seguro escolar contra accidentes personales, para que pueda ser apoyado con el fondo subsidiario.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
@@ -2631,23 +2631,37 @@ El presente Título, de conformidad con lo dispuesto por la Ley General del Serv
 
 Sus disposiciones no serán aplicables a las universidades y demás instituciones a que se refiere la fracción VII del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, ni a los institutos de educación para adultos.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 29 DE AGOSTO DE 2019)</small>
 
 ###### ARTICULO 190.
 
 Para los efectos del presente Título se entenderá por:
 
-I.- Autoridad Educativa: A la Secretaría de Educación del Gobierno del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2019)</small>
+
+I.- Autoridad Educativa: A la Secretaría de Educación;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
 II.- Evaluación del desempeño: A la acción realizada para medir la calidad y resultados de la función docente, directiva, de supervisión, de Asesoría Técnica Pedagógica o cualquier otra de naturaleza académica;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 III.- Evaluador: Al servidor público que conforme a los lineamientos que el Instituto Nacional para la Evaluación de la Educación expida, se ha capacitado, cumple con el perfil correspondiente y cuenta con la certificación vigente para participar en los procesos de evaluación con ese carácter, conforme a lo establecido en la Ley General del Servicio Profesional Docente y en esta Ley;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
 IV.- Formación: Al conjunto de acciones diseñadas y ejecutadas por la Autoridad Educativa y las instituciones de educación superior para proporcionar al personal del Servicio Profesional Docente las bases teórico prácticas de la pedagogía y demás ciencias de la educación;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 V.- Incentivos: A los apoyos en dinero o en cualquier otra modalidad por el que se otorga o reconoce al personal del Servicio Profesional Docente para elevar la calidad educativa y/o reconocer los méritos;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 VI.- Ingreso: Al proceso de acceso formal al Servicio Profesional Docente;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 27 DE FEBRERO DE 2014)</small>
 
 VII.- Nombramiento: Al documento que expida el funcionario competente de la Autoridad Educativa o el Organismo Descentralizado para formalizar la relación jurídica con el Personal Docente, el Personal Docente con Funciones de Asesoría Técnica Pedagógica, el Personal Técnico Docente y con el Personal con Funciones de Dirección o Supervisión. En razón de su temporalidad podrá ser:
 
@@ -2657,31 +2671,55 @@ b) Por Tiempo Fijo: Es el Nombramiento que se otorga por un plazo previamente de
 
 c) Definitivo: Es el Nombramiento de base que se da por tiempo indeterminado en términos de la Ley General del Servicio Profesional Docente, de esta Ley, y de la legislación laboral aplicable;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 VIII.- Organismo Descentralizado: A la entidad paraestatal local, con personalidad jurídica y patrimonio propio que imparta Educación Media Superior;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
 IX.- Perfil: Al conjunto de características, requisitos, cualidades o aptitudes que deberá tener el aspirante a desempeñar un puesto o función descrito específicamente;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 X.- Permanencia en el Servicio: A la continuidad en el servicio educativo, con pleno respeto a los derechos constitucionales;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
 XI.- Personal con Funciones de Dirección: Aquel que realiza la planeación, programación, coordinación, ejecución y evaluación de las tareas para el funcionamiento de las escuelas de conformidad con el marco jurídico y administrativo aplicable, y tiene la responsabilidad de generar un ambiente escolar conducente al aprendizaje; organizar, apoyar y motivar a los docentes; realizar las actividades administrativas de manera efectiva; dirigir los procesos de mejora continua del plantel; propiciar la comunicación fluida de la escuela con los padres de familia, tutores u otros agentes de participación comunitaria y desarrollar las demás tareas que sean necesarias para que se logren los aprendizajes esperados.
 
 Este personal comprende a coordinadores de actividades, subdirectores y directores en la Educación Básica; a jefes de departamento, subdirectores y directores en la Educación Media Superior, y para ambos tipos educativos a quienes con distintas denominaciones ejercen funciones equivalentes conforme a la estructura ocupacional autorizada;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 XII.- Personal con Funciones de Supervisión: A la autoridad que, en el ámbito de las escuelas bajo su responsabilidad, vigila el cumplimiento de las disposiciones normativas y técnicas aplicables; apoya y asesora a las escuelas para facilitar y promover la calidad de la educación; favorece la comunicación entre escuelas, padres de familia y comunidades, y realiza las demás funciones que sean necesarias para la debida operación de las escuelas, el buen desempeño y el cumplimiento de los fines de la educación.
 
 Este personal comprende, en la Educación Básica, a supervisores, inspectores, jefes de zona o de sector de inspección, jefes de enseñanza o cualquier otro cargo análogo, y a quienes con distintas denominaciones ejercen funciones equivalentes en la Educación Media Superior;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 XIII.- Personal Docente: Al profesional en la Educación Básica y Media Superior que asume ante el Estado y la sociedad la responsabilidad del aprendizaje de los alumnos en la escuela y, en consecuencia, es responsable del proceso de enseñanza aprendizaje, promotor, coordinador, facilitador, investigador y agente directo del proceso educativo;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
 XIV.- Personal Docente con Funciones de Asesoría Técnica Pedagógica: Al docente que en la Educación Básica y Media Superior cumple con los requisitos establecidos en la Ley General del Servicio Profesional Docente y en esta Ley, y tiene la responsabilidad de brindar a otros docentes la asesoría señalada y constituirse en un agente de mejora de la calidad de la educación para las escuelas a partir de las funciones de naturaleza técnico pedagógica que la Autoridad Educativa o el Organismo Descentralizado le asigna. En la Educación Media Superior, este personal comprende a quienes con distintas denominaciones ejercen funciones equivalentes;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 XV.- Personal Técnico Docente: Aquel con formación técnica especializada formal o informal que cumple un perfil, cuya función en la Educación Básica y Media Superior lo hace responsable de enseñar, facilitar, asesorar, investigar o coadyuvar directamente con los alumnos en el proceso educativo en talleres prácticos y laboratorios, ya sea de áreas técnicas, artísticas o de deporte especializado;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
 XVI.- Promoción: Al acceso a una categoría o nivel docente superior al que se tiene, sin que ello implique necesariamente cambio de funciones, o ascenso a un puesto o función de mayor responsabilidad y nivel de ingresos;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 XVII.- Reconocimiento: A las distinciones, apoyos y opciones de desarrollo profesional que se otorgan al personal que destaque en el desempeño de sus funciones;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+
 XVIII.- Servicio de Asistencia Técnica a la Escuela: Al conjunto de apoyos, asesoría y acompañamiento especializados al Personal Docente, al Personal Técnico Docente y al Personal con Funciones de Dirección para mejorar la práctica profesional docente y el funcionamiento de la escuela, y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
 
 XIX.- Servicio Profesional Docente o Servicio: Al conjunto de actividades y mecanismos para el Ingreso, la Promoción, el Reconocimiento y la Permanencia en el servicio público educativo y el impulso a la formación continua, con la finalidad de garantizar la idoneidad de los conocimientos y capacidades del Personal Docente, del Personal Docente con Funciones de Asesoría Técnica Pedagógica, del Personal Técnico Docente y del Personal con Funciones de Dirección y de Supervisión en la Educación Básica y Media Superior que imparta la Autoridad Educativa y sus Organismos Descentralizados.
 
@@ -4038,3 +4076,9 @@ P.O. 21 DE MARZO DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Poder Ejecutivo del Estado y los ayuntamientos contarán con un plazo de 120 días naturales, contados a partir de la entrada en vigor de este decreto, para la implementación de las acciones derivadas de las disposiciones contenidas en las reformas del presente instrumento.
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27319/LXII/19 QUE REFORMA LOS ARTÍCULOS 153 Y 190 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
