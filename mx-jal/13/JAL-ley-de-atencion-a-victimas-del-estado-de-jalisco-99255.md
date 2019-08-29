@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-atencion-a-victimas-del-estado-de-jalisco-99255"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-27"
-last_updated: "2019-07-27"
+last_updated: "2019-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 27 de febrero de 2014.
 
@@ -439,9 +439,9 @@ Las organizaciones de la sociedad civil, tales como asociaciones profesionales, 
 
 Las autoridades competentes están obligadas a la preservación de los archivos relativos a los delitos o las violaciones de los derechos humanos así como a respetar y garantizar el derecho de acceder a los mismos, con la finalidad de proteger la integridad de las víctimas.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
 
-El Estado tiene el deber de garantizar la preservación de dichos archivos y de impedir su sustracción, destrucción, simulación o falsificación, así como de permitir su consulta pública, particularmente en interés de las víctimas y sus familiares con el fin de garantizar el pleno ejercicio de sus derechos; en los términos que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, y sujetándose a las sanciones previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, así como el Código Penal para el Estado Libre y Soberano de Jalisco y Código Nacional de Procedimientos Penales.
+El Estado tiene el deber de garantizar la preservación de dichos archivos y de impedir su sustracción, destrucción, simulación o falsificación, así como de permitir su consulta pública, particularmente en interés de las víctimas y sus familiares con el fin de garantizar el pleno ejercicio de sus derechos; en los términos que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios, y sujetándose a las sanciones previstas por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, así como el Código Penal para el Estado Libre y Soberano de Jalisco y Código Nacional de Procedimientos Penales.
 
 Cuando la consulta de los archivos persiga favorecer la investigación histórica, las formalidades de autorización tendrán por única finalidad salvaguardar la integridad y la seguridad de las víctimas y de otras personas y, en ningún caso, podrán aplicarse las formalidades de autorización con fines de censura.
 
@@ -579,7 +579,9 @@ III. Principio de confidencialidad: Toda la información y actividad administrat
 
 IV. Principio de oportunidad y eficacia: Las medidas deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima y deben ser otorgadas e implementadas a partir del momento y durante el tiempo que garanticen su objetivo.
 
-Los servidores públicos del estado y sus municipios que pongan en riesgo la seguridad de las víctimas serán sancionadas administrativa, civil o penalmente de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y sus Municipios y demás ordenamientos aplicables, ya sea a través de intimidación, represalias, amenazas directas, negligencia o cuando existan datos suficientes que demuestren que las víctimas podrían ser nuevamente afectadas por la colusión de dichas autoridades con los responsables de la comisión del delito o con un tercero implicado que amenace o dañe la integridad física o moral de una víctima.
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
+Los servidores públicos del estado y sus municipios que pongan en riesgo la seguridad de las víctimas serán sancionadas administrativa, civil o penalmente de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y demás ordenamientos aplicables, ya sea a través de intimidación, represalias, amenazas directas, negligencia o cuando existan datos suficientes que demuestren que las víctimas podrían ser nuevamente afectadas por la colusión de dichas autoridades con los responsables de la comisión del delito o con un tercero implicado que amenace o dañe la integridad física o moral de una víctima.
 
 ## TÍTULO CUARTO. MEDIDAS DE ASISTENCIA Y REPARACION
 
@@ -1649,9 +1651,11 @@ El servicio de la asesoría jurídica será gratuito y se prestará a todas las 
 
 ### Capítulo II. De las Responsabilidades de los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+
 ###### Artículo 120.
 
-El incumplimiento o inobservancia respecto de las obligaciones previstas en el texto de la presente Ley, imputable a los servidores públicos del Estado y sus municipios, sujetarán a quienes lo cometan a la responsabilidad penal, administrativa o política que determinen la Constitución Política del Estado de Jalisco, la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y sus Municipios y demás normatividad aplicable.
+El incumplimiento o inobservancia respecto de las obligaciones previstas en el texto de la presente Ley, imputable a los servidores públicos del Estado y sus municipios, sujetarán a quienes lo cometan a la responsabilidad penal, administrativa o política que determinen la Constitución Política del Estado de Jalisco, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y demás normatividad aplicable.
 
 ###### Artículo 121.
 
@@ -1760,5 +1764,11 @@ P.O. 18 DE MAYO DE 2019.
 P.O. 27 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27313/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL Y LA FRACCIÓN II DEL ARTÍCULO 60 DE LA LEY DE ATENCIÓN A VÍCTIMAS, AMBAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 29 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27328/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 17, 30 Y 120 DE LA LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
