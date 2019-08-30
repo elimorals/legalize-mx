@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-secretaria-de-finanzas-del-estado-1317
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-21"
-last_updated: "2018-11-21"
+last_updated: "2019-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE FINANZAS DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 30 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 30 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2019 (ABROGADO).
 
 Código publicado en la Sección Primera al Número 98 de la Gaceta del Gobierno del Estado de México, el miércoles 21 de noviembre de 2018.
 
@@ -505,3 +505,13 @@ A T E N T A M E N T E
 ________________________________
 
 NOMBRE Y FIRMA
+
+G.G. 30 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Código de Conducta de la Secretaría de Finanzas del Gobierno del Estado de México, publicado el 21 de noviembre de 2018 en el Periódico Oficial “Gaceta del Gobierno”, así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
