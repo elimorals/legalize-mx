@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-las-y-los-servidores-publicos-de-la-12993
 country: "mx"
 rank: "codigo"
 publication_date: "2018-06-19"
-last_updated: "2018-06-19"
+last_updated: "2019-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PUBLICOS DE LA SECRETARIA DEL MEDIO AMBIENTE DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DEL MEDIO AMBIENTE DEL GOBIERNO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 30 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DEL MEDIO AMBIENTE DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE AGOSTO DE 2019 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 19 de junio de 2018.
 
@@ -484,3 +486,15 @@ Secretaría: La Secretaría del Medio Ambiente del Estado de México.
 Servidor público. Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza, en la administración pública estatal.
 
 El presente Código de Conducta fue actualizado por el Comité de Vigilancia del Desarrollo e Implementación de Prácticas de Igualdad Laboral y No Discriminación de la Secretaría del Medio Ambiente, en su sesión de fecha 21 de mayo del 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 30 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DEL MEDIO AMBIENTE DEL GOBIERNO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Conducta para los Servidores Públicos de la Secretaría del Medio Ambiente del Gobierno del Estado de México, publicado el 19 de junio del año 2018, en el Periódico Oficial "Gaceta del Gobierno", así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
