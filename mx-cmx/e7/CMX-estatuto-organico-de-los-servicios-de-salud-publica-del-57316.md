@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-los-servicios-de-salud-publica-del-57316"
 country: "mx"
 rank: "estatuto"
 publication_date: "2007-10-31"
-last_updated: "2016-09-29"
+last_updated: "2019-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57316&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2007-09-11"
 ---
 # ESTATUTO ORGANICO DE LOS SERVICIOS DE SALUD PUBLICA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL AVISO POR EL QUE SE DA A CONOCER EL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD PÚBLICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 30 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE AGOSTO DE 2019 (ABROGADO).
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el miércoles 31 de octubre de 2007.
 
@@ -763,3 +765,15 @@ PRIMERO.- Las modificaciones al presente Estatuto Orgánico entrarán en vigor a
 SEGUNDO.- En tanto se expiden los manuales a que hace mención este Estatuto, se aplicarán los actuales en lo que no se opongan al mismo. El Director General queda facultado para resolver los asuntos que éstos deben establecer.
 
 TERCERO.- Las Unidades Administrativas con denominación nueva o distinta que aparecen en el presente Estatuto y que tienen competencia que anteriormente correspondían a otras áreas o unidades, se harán cargo de las mismas hasta su resolución.
+
+G.O. 30 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER EL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se abroga el Estatuto Orgánico de Servicios de Salud Pública del Distrito Federal, publicado el 29 de septiembre de 2016 en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO.- En tanto se expiden los manuales a que hace mención este Estatuto, se aplicarán los actuales en lo que no se opongan al mismo. La persona titular de la Dirección General queda facultada para resolver los asuntos que éstos deben establecer.
