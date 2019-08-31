@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2019-08-03"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -887,7 +887,9 @@ II. Que no dependa económicamente de alguien o que no tenga deudores alimentari
 
 III. Que carezca de medios para su subsistencia;
 
-IV. Que tenga una residencia mínima de 10 años en el Estado; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+IV. Que tenga una residencia mínima de 10 años en el Estado, la cual se acreditará a través de la constancia respectiva. Cuando por razones de salud o económicas no se cuente con la posibilidad de tramitar el documento idóneo, la residencia se podrá acreditar con diversos documentos que autentifiquen su residencia, como pueden ser el acta de nacimiento, recibos de pago, credenciales de identificación, recibos de luz, teléfono u otros similares, previa visita de verificación del Instituto; y
 
 V. Que se realice un estudio socioeconómico por el cual se determinen las circunstancias físicas, de calidad de vida y demás especiales del adulto.
 
@@ -1216,5 +1218,11 @@ SEGUNDO.- La emisión de la Convocatoria para la edición 2019 de la entrega anu
 P.O. 3 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 112 POR EL QUE SE REFORMAN LOS ARTÍCULOS 8°, 14 EN SU FRACCIÓN XIX, Y 27 PÁRRAFO CUARTO, TODOS DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS EN PLENITUD DEL ESTADO DE COLIMA Y SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚM. 73 APROBADO POR LA LIX LEGISLATURA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 130 POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 64, DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
