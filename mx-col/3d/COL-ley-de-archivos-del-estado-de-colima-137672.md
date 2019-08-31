@@ -4,7 +4,7 @@ identifier: "COL-ley-de-archivos-del-estado-de-colima-137672"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-14"
-last_updated: "2019-08-14"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ARCHIVOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 59 del Periódico Oficial del Estado de Colima, el miércoles 14 de agosto de 2019.
 
@@ -1147,7 +1147,9 @@ VIII. Aprobar la administración y distribución de los recursos que se obtengan
 
 IX. Definir las políticas y bases generales que regulen los convenios, acuerdos o contratos que celebre el Archivo con terceros, conforme a la normatividad aplicable;
 
-X. Aprobar la contratación, gestión, obtención de apoyos económicos, créditos, préstamos y financiamiento de cualquier naturaleza y facultar al Director General para realizar todos los actos necesarios con este propósito; para el cumplimiento de sus fines y el ejercicio de sus atribuciones; así como la disposición por cualquier medio de los activos, bienes, derechos e ingresos que integran el patrimonio del Archivo o que derivan de la prestación de sus servicios, incluyendo cualquier tipo de garantía, contrato, mandato e instrucción y de la cesión, afectación o enajenación de dichos activos, bienes, derechos e ingresos en favor de terceros, así como fideicomisos revocables o irrevocables;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+X. Presentar al Gobernador las solicitudes de autorización de financiamiento u obligaciones a cargo del Archivo General del Estado y, en su caso, la afectación de sus ingresos, bajo los términos previstos por la Ley de Deuda Pública del Estado de Colima y sus Municipios;
 
 XI. Aceptar las herencias, legados, donaciones y demás bienes que se otorguen a favor del Archivo General;
 
@@ -1587,7 +1589,9 @@ OCTAVO. El Archivo General del Estado pondrá en operación la plataforma del Re
 
 NOVENO. En un plazo de un año, contado a partir de la entrada en vigor del presente Decreto, los sujetos obligados deberán establecer programas anuales de capacitación y actualización en materia de gestión documental y administración de archivos.
 
-DÉCIMO. El monto del Fondo de Apoyo Económico para Archivos, establecido en el artículo 91 de la Ley de Archivos del Estado de Colima, se constituirá por lo menos con el importe correspondiente al 0.0005 del total de ingresos a recibir en cada ejercicio Fiscal.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
+DÉCIMO. El monto del Fondo de Apoyo Económico para Archivos, establecido en el artículo 91 de la Ley de Archivos del Estado de Colima, se constituirá por lo menos con el importe correspondiente al 0.0008% del total de ingresos estatales del Poder Ejecutivo en cada ejercicio fiscal, una vez tomada en consideración la evaluación de la disponibilidad presupuestal y que hayan sido cubiertas las prioridades de gasto enmarcadas en el Plan Estatal de Desarrollo para el ejercicio fiscal correspondiente.
 
 DÉCIMO PRIMERO. Los recursos humanos, materiales y financieros con los que venía operando la Dirección del Archivo Histórico del Estado de Colima, dependiente de la Secretaría de Cultura, así como el Fondo Documental, se trasferirán al Archivo General del Estado en los términos que establezcan en sus respectivos ámbitos de competencia.
 
@@ -1632,3 +1636,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ARNOLDO OCHOA GONZÁLEZ
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 133 POR EL QUE SE SE (SIC) REFORMAN LA FRACCIÓN X DEL ARTÍCULO 72 Y EL ARTÍCULO DÉCIMO TRANSITORIO DE LA LEY DE ARCHIVOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
