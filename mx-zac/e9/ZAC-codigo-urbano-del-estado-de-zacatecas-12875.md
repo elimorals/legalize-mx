@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2018-02-21"
+last_updated: "2019-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO URBANO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. DE 31 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO URBANO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 2019 (ABROGADO).
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -4994,3 +4996,39 @@ P.O. 21 DE FEBRERO DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO TERRITORIAL Y URBANO PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se abroga el Código Urbano del Estado de Zacatecas publicado en Suplemento 2 al número 73 del Periódico Oficial, Órgano de Gobierno del Estado, correspondiente al 11 de septiembre de 1996.
+
+Artículo tercero. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+Artículo cuarto. El Reglamento General de este Código deberá expedirse dentro de los 180 días posteriores a su entrada en vigor.
+
+Artículo quinto. Los Ayuntamientos deberán expedir o modificar sus reglamentos en la materia dentro de un plazo de 180 días, contados a partir del día siguiente al del inicio de la vigencia de este Código.
+
+Artículo sexto. El Consejo Estatal, las Comisiones Metropolitanas o Conurbadas y los Consejos Municipales expedirán sus reglamentos interiores en un plazo no mayor de 90 días, contados a partir de su constitución.
+
+Artículo séptimo. Los Municipios gestionarán lo pertinente para que dentro de un plazo de un año se revisen y, en su caso, se expidan o actualicen los Programas Municipales de Desarrollo Urbano, Programas de Desarrollo Urbano de Centros de Población y sus Programas Parciales de Desarrollo Urbano, en los términos de este ordenamiento.
+
+Artículo octavo. Dentro del plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Código, los Ayuntamientos en el ejercicio de las facultades de inspección y vigilancia a que se refiere el presente ordenamiento, deberán elaborar un inventario de asentamientos humanos, fraccionamientos, colonias o condominios irregulares en sus municipios, a efecto de que se incorporen a los programas de desarrollo urbano, en su caso, de regularización, como una acción de mejoramiento de los centros de población. Transcurrido el plazo señalado para la elaboración del inventario en referencia, las autoridades competentes estarán obligadas a denunciar la existencia de nuevos asentamientos humanos que incumplan las disposiciones de este Código y de inmediato dictar las medidas de seguridad que procedan.
+
+En (sic) inventario en referencia, deberá ser remitido a más tardar, dentro de los quince días hábiles contados a partir del vencimiento del plazo de ciento ochenta días señalado en el párrafo anterior, a esta Legislatura y a la Auditoría Superior del Estado para verificar su cumplimiento y para los efectos de revisión y fiscalización de la cuenta pública que corresponda.
+
+Artículo noveno. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este Código, la Legislatura del Estado aprobará la ley en materia de expropiación.
+
+En ese mismo plazo deberá armonizarse a las disposiciones de este Código la Ley de Construcción para el Estado y Municipios de Zacatecas y otros ordenamientos que resulten necesarios.
+
+Artículo décimo. Los procedimientos y asuntos pendientes de resolución cuyo trámite se haya iniciado antes de la vigencia de este Código, se tramitarán y resolverán conforme a las leyes que se abrogan.
+
+Artículo décimo primero. Los recursos de inconformidad tramitados atendiendo las disposiciones del Código que se abroga, continuarán su proceso hasta su conclusión en los términos de dichas disposiciones.
+
+Artículo décimo segundo. Dentro de los sesenta días siguientes a la entrada en vigor de este Decreto, el titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus competencias y en cumplimiento a lo establecido en el artículo 49 de este ordenamiento legal, emitirán la convocatoria pública respectiva para la constitución de los observatorios ciudadanos.
+
+Artículo décimo tercero. Con el propósito de evitar la indebida utilización del agua, y generar condiciones de sustentabilidad urbana, los Ayuntamientos ordenarán y verificarán que a más tardar en un año a partir de la publicación del presente Código, todos los edificios públicos, como escuelas, hospitales, edificios municipales, y cualquier otro, independientemente que sirva al gobierno federal, estatal o municipal así como los que se destinen a la atención al público, como hoteles, terminales de camiones, restaurantes, cines, bares, centros de distracción y cualquier otro que preste servicio al público, en sus instalaciones de baños y sanitarios deberá sustituir los mingitorios ordinarios con alimentación de agua, por mingitorios de uso ecológico. Asimismo, deberán de sustituirse en el mismo plazo las tazas sanitarias que utilicen más de seis litros en su depósito por tazas que utilicen seis o menos litros en su funcionamiento por descarga.
+
+Podrá además imponer multa hasta por cinco veces el valor de la Unidad de Medida y Actualización, de la autoridad responsable o del particular inclumplido con esta determinación, por cada verificación mensual que se realice, hasta que se cumpla debidamente, en los términos de este Código.
