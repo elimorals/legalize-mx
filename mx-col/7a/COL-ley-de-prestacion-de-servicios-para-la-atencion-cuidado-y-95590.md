@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-95590
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-03"
-last_updated: "2013-08-03"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 3 de agosto de 2013.
 
@@ -149,9 +149,11 @@ II. Sala de Maternales "A" 18 meses a 24 meses;
 
 III. Sala de Preescolar "2" de 4 a 5 años: y " 3 " de 5 a 6 años.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 10.
 
-Para la prestación de servicios de atención, cuidado y desarrollo integral infantil, se deberá cumplir con lo dispuesto por esta Ley, su Reglamento y las disposiciones y ordenamientos jurídicos en la materia en cuanto a servicios educativos, salubridad, infraestructura, equipamiento, seguridad, protección civil y medidas de higiene de los Centros de Atención Infantil, en cualquiera de sus modalidades.
+Para la prestación de servicios de atención, cuidado y desarrollo integral infantil, se deberá cumplir con lo dispuesto por esta Ley, su Reglamento y las disposiciones y ordenamientos jurídicos en la materia en cuanto a servicios educativos, salubridad, infraestructura, equipamiento, seguridad, protección civil y medidas de higiene de los Centros de Atención Infantil, en cualquiera de sus modalidades, debiendo otorgarse en un ámbito de corresponsabilidad de quienes prestan estos servicios, para lograr el máximo desarrollo social, psicológico, físico y emocional de las y los niños.
 
 ###### ARTÍCULO 11.
 
@@ -1019,7 +1021,9 @@ VII. Reincidir en alguna de las causas que originen las sanciones contenidas en 
 
 VIII. Cuando requerido por la autoridad sanitaria, el Director del Centro de Atención Infantil se niegue a cumplir con las indicaciones que legalmente le hubiere hecho la autoridad, para evitar riesgos en la salud de las niñas, niños o cualquier otra persona;
 
-IX. En caso de pérdida de la vida o la existencia de lesiones graves en las niñas o los niños, en tanto se deslinde la responsabilidad al Centro de Atención Infantil;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+IX. En caso de pérdida de la vida o la existencia de lesiones o cualquiera otro acto de maltrato en contra de las niñas o los niños a su cuidado, en tanto se deslinde la responsabilidad al Centro de Atención Infantil o personal relacionado con el mismo;
 
 X. Poner en peligro la seguridad o la salud de las niñas y los niños a su cargo, con motivo de la operación del Centro de Atención Infantil;
 
@@ -1031,7 +1035,9 @@ XII. Las demás que la Coordinación considere necesarias por casos de urgencia.
 
 Son causas de suspensión definitiva del establecimiento, revocación de la autorización de funcionamiento y la cancelación del registro las siguientes:
 
-I. La pérdida de la vida o la existencia de lesiones graves en una niña o niño, acreditadas mediante sentencia ejecutoria que haya causado estado y sean atribuibles al incumplimiento de las disposiciones contenidas en la presente Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+I. La pérdida de la vida o la existencia de lesiones o cualquier otro acto de maltrato en contra de una niña o niño a su cuidado, acreditadas mediante sentencia ejecutoria que haya causado estado y sean atribuibles al incumplimiento de las disposiciones contenidas en la presente Ley y demás disposiciones aplicables;
 
 II. La no regularización de la situación que dio origen a la imposición de una suspensión temporal, de tal forma que las causas que la originaron sigan vigentes;
 
@@ -1112,3 +1118,11 @@ Dado en Palacio de Gobierno el día 2 dos del mes de agosto del año 2013 dos mi
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ.- Rúbrica.- EL SECRETARIO DE SALUD Y BIENESTAR SOCIAL, DR. AGUSTIN LARA ESQUEDA. Rúbrica.- EL SECRETARIO DE EDUCACIÓN, MTRO.
 
 JOSÉ GUILLERMO RANGEL LOZANO.- Rúbrica.- EL SECRETARIO DE DESARROLLO SOCIAL, LIC. RIGOBERTO SALAZAR VELASCO.- Rúbrica.- EL SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL, LIC. URIEL ALBERTO MORENO FLORES.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 129 POR EL QUE SE REFORMAN LOS ARTÍCULOS 10, 111 Y 112, DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Colima".
