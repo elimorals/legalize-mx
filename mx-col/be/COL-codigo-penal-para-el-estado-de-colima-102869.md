@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2019-08-14"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1503,7 +1503,9 @@ III. Cuando el delito cometido atente contra el derecho a recibir alimentos de l
 
 Prescripción de antecedentes penales.
 
-Los antecedentes penales prescriben para todos los efectos legales, una vez que se hayan cumplido las sanciones impuestas en la sentencia ejecutoriada o en su defecto hayan prescrito las mismas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+
+Los antecedentes penales prescriben para todos los efectos legales, una vez que se hayan cumplido las sanciones impuestas en la sentencia ejecutoriada o en su defecto hayan prescrito las mismas. La declaratoria de prescripción de los antecedentes penales así como su cancelación, se realizarán de oficio por las autoridades.
 
 Entendiéndose como antecedentes penales para éste Código, aquellos registros que efectúa la autoridad administrativa con el propósito de llevar un control de las condenas recaídas a los sentenciados.
 
@@ -1617,9 +1619,9 @@ VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su
 
 La identidad de género, es la vivencia interna e individual del género tal como cada persona la experimenta profundamente, la cual podría corresponder o no con el sexo asignado al momento del nacimiento, incluyendo la vivencia personal del cuerpo (que podría involucrar la modificación de la apariencia o la función corporal a través de medios médicos, quirúrgicos o de otra índole, siempre que la misma sea libremente escogida) y otras expresiones de género como la vestimenta, el modo de hablar y los modales.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
-A quien cometa homicidio por razones de orientación sexual ó identidad sexual se le impondrán de treinta y cinco a cincuenta años de prisión y multa por el importe al equivalente de mil a mil quinientas unidades de medida y actualización.
+A quien cometa homicidio por razones de orientación sexual o identidad de género, se le impondrán de treinta y cinco a cincuenta años de prisión y multa por el importe al equivalente de mil a mil quinientas unidades de medida y actualización.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -1653,9 +1655,9 @@ VIII. El cuerpo de la víctima sea expuesto, depositado, arrojado o exhibido en 
 
 IX. Cuando la víctima se haya encontrado en un estado de indefensión, entiéndase éste como la situación de desprotección real o incapacidad que imposibilite su defensa. Ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o por que exista algún impedimento físico o material para solicitar el auxilio.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
-A quien cometa feminicidio se le impondrán de treinta y cinco a cincuenta años de prisión, multa por el importe equivalente de mil a mil quinientas unidades de medida y actualización, y privación de derechos que le pudieran corresponder en relación a la víctima, incluidos los de carácter sucesorio.
+A quien cometa feminicidio se le impondrán de cuarenta a sesenta años de prisión, multa por el importe equivalente de mil a mil quinientas unidades de medida y actualización, y privación de derechos que le pudieran corresponder en relación a la víctima, incluidos los de carácter sucesorio.
 
 ### CAPÍTULO II. LESIONES
 
@@ -1669,29 +1671,29 @@ Al que cause una lesión a otro se le impondrán:
 
 I. De treinta a noventa días de trabajo en favor de la comunidad si las lesiones tardan en sanar hasta quince días;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
 
-II. De tres meses a dos años de prisión, y multa por el importe equivalente de uno hasta veinte unidades de medida y actualización si tardan en sanar más de quince días;
+II. De seis meses a dos años de prisión, y multa por el importe equivalente de uno hasta veinte unidades de medida y actualización, si tardan en sanar más de quince días;
 
 > <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
 III. De dos a seis años de prisión, y multa por el importe equivalente de veinte hasta ochenta unidades de medida y actualización, cuando dejen cicatriz permanente y notable en la cara o alguna deformidad permanente en cualquier parte del cuerpo;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
 
-IV. De dos a siete años de prisión, y multa por el importe equivalente de cincuenta hasta noventa unidades de medida y actualización, cuando resulte la perturbación permanente de alguna función u órgano;
+IV. De dos años cuatro meses a siete años de prisión, y multa por el importe equivalente de cincuenta hasta noventa unidades de medida y actualización, cuando resulte la perturbación permanente de alguna función u órgano;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
 
-V. De dos a ocho años de prisión y multa por el importe equivalente de ochenta hasta cien unidades de medida y actualización, si ponen en peligro la vida;
+V. De dos años ocho meses a ocho años de prisión, y multa por el importe equivalente de ochenta hasta cien unidades de medida y actualización, si ponen en peligro la vida;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
 
-VI. De tres a ocho años de prisión, y multa por el importe equivalente de noventa hasta doscientas unidades de medida y actualización si producen la pérdida de cualquier función u órgano, o causen una enfermedad, cierta o probablemente incurable; y
+VI. De tres a nueve años de prisión, y multa por el importe equivalente de noventa hasta doscientas unidades de medida y actualización, si producen la pérdida de cualquier función u órgano, o causen una enfermedad, cierta o probablemente incurable; y
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
 
-VII. De tres a diez años de prisión, y multa por el importe equivalente de doscientas hasta cuatrocientas unidades de medida y actualización si causan incapacidad total permanente para trabajar.
+VII. De tres años cuatro meses a diez años de prisión, y multa por el importe equivalente de doscientas hasta cuatrocientas unidades de medida y actualización, si causan incapacidad total permanente para trabajar.
 
 ###### ARTÍCULO 127.
 
@@ -1699,9 +1701,9 @@ Cuando las lesiones sean calificadas, las penas a que se refiere el artículo an
 
 Igual sanción se aplicará cuando las lesiones sean producidas por disparo de arma de fuego o alguna de las armas consideradas como prohibidas.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
-Cuando las lesiones sean producidas por razones o conductas de género, identidad u oriental sexual, conforme a los supuestos de los artículos 123 Bis y 124 Bis de este Código, la pena se aumentará de seis meses a cinco años de prisión.
+Cuando las lesiones sean producidas por razones de género, de orientación sexual o de identidad de género, conforme a los supuestos de los artículos 123 Bis y 124 Bis de este Código, la pena se aumentará de seis meses a cinco años de prisión.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2019)</small>
 
@@ -4448,3 +4450,11 @@ NOVENO. En un plazo de un año, contado a partir de la entrada en vigor del pres
 DÉCIMO. El monto del Fondo de Apoyo Económico para Archivos, establecido en el artículo 91 de la Ley de Archivos del Estado de Colima, se constituirá por lo menos con el importe correspondiente al 0.0005 del total de ingresos a recibir en cada ejercicio Fiscal.
 
 DÉCIMO PRIMERO.- Los recursos humanos, materiales y financieros con los que venía operando la Dirección del Archivo Histórico del Estado de Colima, dependiente de la Secretaría de Cultura, así como el Fondo Documental, se trasferirán al Archivo General del Estado en los términos que establezcan en sus respectivos ámbitos de competencia.
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 132 POR EL QUE SE REFORMAN LOS ARTÍCULOS 115 PRIMER PÁRRAFO, 123 BIS TERCER PÁRRAFO, 124 BIS ÚLTIMO PÁRRAFO, 126 FRACCIONES II, IV, V, VI Y VII Y 127 TERCER PÁRRAFO, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Poder Judicial del Estado de Colima, en un término no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá contar con los mecanismos y herramientas necesarias para dar cumplimiento a lo previsto en el primer párrafo del artículo 115, contenido en este instrumento.
