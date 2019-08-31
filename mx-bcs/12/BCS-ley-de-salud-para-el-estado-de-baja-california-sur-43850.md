@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2017-07-20"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -83,7 +83,9 @@ III.- Planificación familiar;
 
 IV.- Salud mental;
 
-V.- Organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la integración de la Comisión Estatal de Arbitraje Médico;
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2019)</small>
+
+V.- Organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud, así como la integración de la Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur;
 
 VI.- Promoción de la formación de recursos humanos para la salud;
 
@@ -109,9 +111,7 @@ XV.- Salud ocupacional;
 
 XVI.- Prevención y control de las enfermedades transmisibles;
 
-XVII.- Prevención y control de las enfermedades no transmisibles y
-
-Accidentes;
+XVII.- Prevención y control de las enfermedades no transmisibles y Accidentes;
 
 XVIII.- Prevención de invalidez y rehabilitación de personas con discapacidad;
 
@@ -843,15 +843,21 @@ La Secretaría de Salud del Estado, conforme a las Normas Oficiales que establez
 
 A estos efectos se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
 
-### CAPÍTULO IX. DE LA COMISIÓN ESTATAL DE ARBITRAJE MÉDICO
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE AGOSTO DE 2019)</small>
+
+### CAPÍTULO IX. DE LA COMISIÓN DE MEDIACIÓN, CONCILIACIÓN Y ARBITRAJE MÉDICO
+
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 79.
 
-La Comisión Estatal de Arbitraje Médico es un Organismo Público Descentralizado, con participación ciudadana, dotado de autonomía de gestión, personalidad jurídica y patrimonio propio, cuyos objetivos pretenden la promoción de una buena práctica de la medicina como medio para elevar la calidad de los servicios de atención médica.
+La Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur, es un Organismo Público Descentralizado, con participación ciudadana, dotado de autonomía de gestión, personalidad jurídica y patrimonio propio, cuyos objetivos pretenden la promoción de una buena práctica de la medicina como medio para elevar la calidad de los servicios de salud; así como de recibir, investigar y atender las quejas por presuntas irregularidades, en la prestación de servicios de salud emitiendo opiniones, acuerdos y laudos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE AGOSTO DE 2019)</small>
 
 ###### ARTÍCULO 80.
 
-La Comisión Estatal de Arbitraje Médico tiene por objeto:
+La Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado Baja California Sur, tiene por objeto:
 
 I.- Contribuir a tutelar el derecho a la protección de la salud;
 
@@ -859,9 +865,21 @@ II.- Promover una buena práctica de la medicina, coadyuvando al proceso de la m
 
 III.- Brindar orientación a los usuarios de los servicios médicos, al personal de salud, así como a establecimientos e instituciones médicas sobre sus derechos y obligaciones en materia de prestación de servicios de atención médica;
 
-IV.- Contribuir a resolver las inconformidades de la población relativas a irregularidades en la atención médica, dictaminando técnicamente los casos de posible responsabilidad médica; y
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2019)</small>
 
-V.- Promover la mejoría de los servicios de atención médica mediante la emisión de recomendaciones sobre asuntos de interés general en materia de prestación de servicios de atención médica.
+IV.- Contribuir a resolver las inconformidades de la población relativas a irregularidades en la atención médica, dictaminando técnicamente los casos de posible responsabilidad médica;
+
+> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2019)</small>
+
+V.- Promover la mejoría de los servicios de salud mediante la emisión de recomendaciones sobre asuntos de interés general en materia de prestación de servicios de salud;
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2019)</small>
+
+VI.- Resolver los conflictos suscitados entre los usuarios de los servicios de salud y los prestadores de dichos servicios, y
+
+> <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2019)</small>
+
+VII.- Intervenir en amigable composición para mediar o conciliar los conflictos derivados de la prestación de los servicios de salud.
 
 ###### ARTÍCULO 81.
 
@@ -871,19 +889,17 @@ Los servicios que brinde la Comisión serán gratuitos.
 
 La Comisión tiene plena autonomía y tendrá las atribuciones que su propia ley le confiera.
 
-###### ARTÍCULO 83.
+> <small>(REFORMADO, B.O. 31 DE AGOSTO DE 2019)</small>
 
-Para el ejercicio de sus atribuciones la Comisión contará con:
+###### ARTICULO 83.
 
-I.- Un consejo consultivo designado por el Congreso del Estado, integrado por dos médicos, dos abogados y una secretaría técnica, previa terna que para cada cargo remita el Ejecutivo Estatal y cuya elección se realizará de conformidad a lo estipulado en la Ley de la Comisión Estatal de Arbitraje Médico;
+Para el ejercicio de sus atribuciones la Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur, contará con:
 
-II.- Un Comité Técnico de apoyo a la gestión, presidido por el comisionado e integrado por cuatro vocales;
+I.- Un Órgano de Gobierno, denominado Comité Técnico, integrado de conformidad a lo establecido por la Ley de la Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur;
 
-III.- Un comisionado y un subcomisionado designados por el Ejecutivo del Estado;
+II.- Las Unidades Administrativas que determine el Comité Técnico en términos del reglamento interno de la Comisión, y
 
-IV.- Las unidades administrativas que se determinen en su reglamento interno; y
-
-V.- Un miembro del Congreso del Estado preferentemente el Presidente de la Comisión Permanente de la Familia y la Asistencia Pública.
+III.- Un Consejo Consultivo de Apoyo a la Gestión, integrado de conformidad a lo establecido por la Ley de la Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur.
 
 ## TÍTULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
@@ -3288,3 +3304,35 @@ B.O. 20 DE JULIO DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 2456.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 110 DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2619 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR, Y SE EXPIDE LA LEY DE LA COMISIÓN DE MEDIACIÓN, CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que crea la Comisión de Conciliación y Arbitraje Médico para el Estado de Baja California Sur, bajo decreto 1626, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur No. 45 de fecha 31 de Octubre de 2006.
+
+###### ARTÍCULO TERCERO.
+
+Todas las remisiones en leyes diversas a la Ley que crea la Comisión de Conciliación y Arbitraje Médico para el Estado de Baja California Sur, se entenderán a partir de la entrada en vigencia del presente Decreto a la Ley de la Comisión de Mediación, Conciliación y Arbitraje Médico para el Estado de Baja California Sur.
+
+###### ARTÍCULO CUARTO.
+
+Se le concede a la Comisión hasta un término de 90 días hábiles para emitir el Reglamento correspondiente.
+
+###### ARTÍCULO QUINTO.
+
+Por única ocasión y con el fin de salvaguardar los derechos laborales de los funcionarios que han sido nombrados en términos de lo que establece la Ley que crea la Comisión de Conciliación y Arbitraje Médico para el Estado de Baja California Sur, estos durarán en su encargo hasta en tanto no sean removidos por el Titular del Poder Ejecutivo del Estado, en términos de lo dispuesto en la ley de la materia.
+
+###### ARTÍCULO SEXTO.
+
+El Comité Técnico previa disponibilidad presupuestal podrá contratar personal para el desahogo de los trabajos de la Comisión.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de esta Ley, serán concluidos conforme a las disposiciones aplicables vigentes a su inicio
