@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-asistencia-social-para-el-estado-de-89405"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-01"
-last_updated: "2015-09-26"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL SISTEMA DE ASISTENCIA SOCIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
 
 Ley publicada en el Suplemento No. 25 del Periódico Oficial del Estado de Colima, el sábado 01 de Septiembre de 2012.
 
@@ -77,7 +77,9 @@ IV. Regular la integración y el funcionamiento del Sistema para el Desarrollo I
 
 Para los efectos de interpretar esta Ley, se entenderá por:
 
-I. Adulto en Plenitud: A toda persona mayor de 65 años de edad;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+I. Adultos Mayores: A toda persona física de 60 años de edad o más;
 
 II. Asistencia Social: Al conjunto de acciones llevadas a cabo por los tres niveles de gobierno, y los sectores social y privado, tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en situación de vulnerabilidad, hasta lograr su incorporación a una vida plena y productiva;
 
@@ -165,9 +167,11 @@ La prestación de los servicios de asistencia social previstos por la Ley de Asi
 
 Los servicios de asistencia social que se presten en términos de esta Ley, por el Estado, los Municipios y, los sectores social y privado; integran el Sistema, que a su vez forma parte del Sistema Nacional de Asistencia Social Pública y Privada.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 9.
 
-Los servicios de asistencia social dirigidos al desarrollo de las personas menores de edad, los adultos en plenitud, la mujer, la familia y al desarrollo de la comunidad, serán de carácter preventivo, por lo que independientemente de lo señalado en otras disposiciones, se prestarán en todos los casos en que resultasen necesarios o exigibles, aún cuando no lo soliciten los presuntos beneficiados, salvo disposición en contrario. Las medidas que para los efectos anteriores se adopten, constituirán medios formativos y no tendrán carácter represivo, ni atentarán contra la salud o dignidad de las personas.
+Los servicios de asistencia social dirigidos al desarrollo de las personas menores de edad, los adultos mayores, la mujer, la familia y al desarrollo de la comunidad, serán de carácter preventivo, por lo que independientemente de lo señalado en otras disposiciones, se prestarán en todos los casos en que resultasen necesarios o exigibles, aun cuando no lo soliciten los presuntos beneficiados, salvo 12 (sic) disposición en contrario. Las medidas que para los efectos anteriores se adopten, constituirán medios formativos y no tendrán carácter represivo, ni atentarán contra la salud o dignidad de las personas.
 
 ###### ARTÍCULO 10.
 
@@ -191,13 +195,19 @@ Para los efectos de esta Ley, se entienden como servicios básicos en materia de
 
 I. La atención a personas en situación especialmente difícil o en estado de desventaja social, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
 
-II. La atención en establecimientos especializados a personas menores de edad, personas que no tengan la capacidad para comprender el significado del hecho y adultos en plenitud en estado de abandono o maltrato;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
 
-III. La promoción del bienestar del adulto en plenitud y el desarrollo de acciones de preparación para la senectud, a personas en estado de desventaja social;
+II. La atención en establecimientos especializados a personas menores de edad, personas que no tengan la capacidad para comprender el significado del hecho y adultos mayores en estado de abandono o maltrato;
+
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+III. La promoción del bienestar del adulto mayor y el desarrollo de acciones de preparación para la senectud, a personas en estado de desventaja social;
 
 IV. La vigilancia en el ejercicio de la tutela de personas menores de edad o personas que no tengan la capacidad para comprender el significado del hecho, en los términos de las disposiciones legales aplicables;
 
-V. La prestación de servicios de asistencia jurídica y de orientación social a personas menores de edad, adultos en plenitud, personas con discapacidad, víctimas de violencia familiar y prevención de sustracción de menores de edad, al extranjero;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+V. La prestación de servicios de asistencia jurídica y de orientación social a personas menores de edad, adultos mayores, personas con discapacidad, víctimas de violencia familiar y prevención de sustracción de menores de edad, al extranjero;
 
 VI. La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -215,13 +225,15 @@ XII. El desarrollo comunitario en localidades y zonas sociales en situación de 
 
 XIII. El establecimiento y manejo del Sistema Estatal de Información Básica en Materia de Asistencia Social;
 
-XIV. La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral, en aquellos aspectos concernientes a las personas menores de edad, la mujer, los adultos en plenitud y personas con discapacidad;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+XIV. La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación laboral, en aquellos aspectos concernientes a las personas menores de edad, la mujer, los adultos mayores y personas con discapacidad;
 
 XV. El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de las personas menores de edad a la satisfacción de sus necesidades y a la salud física y mental;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
 
-XVI. La Representación Coadyuvante oficiosa, a través de la Procuraduría de Protección en todos los procedimientos jurisdiccionales o administrativas (sic) en los que estén involucrados Niñas, Niños y Adolescentes, de conformidad con la Ley de los Derechos de las Niñas, Niños y Adolescentes, la Ley de la Procuraduría de Protección de Niñas, Niños y Adolescentes, y demás disposiciones aplicables; y
+XVI. La representación legal a través de la Procuraduría, en todas las controversias judiciales en las que sean parte interesada los sujetos de asistencia social y en especial las personas menores de edad, los adultos mayores y las personas con discapacidad, siempre y cuando las prestaciones demandadas, no contravengan los objetivos del DIF Estatal; y
 
 XVII. Los análogos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral de la familia.
 
@@ -239,7 +251,9 @@ c) Combatir la violencia familiar a través de la promoción de la convivencia p
 
 d) La realización de acciones contra las adicciones;
 
-e) El fomento de una cultura de dignificación del adulto en plenitud, que implica la difusión de información que permita conocer y comprender el proceso de envejecimiento, así como la detección oportuna de enfermedades, para prevenir secuelas discapacitantes y mantener la salud y autonomía de los mismos;
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
+e) El fomento de una cultura de dignificación del adulto mayor, que implica la difusión de información que permita conocer y comprender el proceso de envejecimiento, así como la detección oportuna de enfermedades, para prevenir secuelas discapacitantes y mantener la salud y autonomía de los mismos;
 
 f) La prevención de la discapacidad en los grupos en situación de vulnerabilidad, proveyendo a la familia y la comunidad de conocimientos y de técnicas efectivas para prevenirla;
 
@@ -255,7 +269,9 @@ k) Los demás que resulten necesarios para mejorar las circunstancias de caráct
 
 II. De atención:
 
-a) El cuidado en establecimientos asistenciales de menores de edad y adultos en plenitud que se encuentren en situación de vulnerabilidad;
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
+a) El cuidado en establecimientos asistenciales de menores de edad y adultos mayores que se encuentren en situación de vulnerabilidad;
 
 b) La asistencia jurídica en materia familiar a los sujetos de asistencia social;
 
@@ -277,7 +293,9 @@ j) La asistencia social en materia de nutrición, emprendiendo acciones para pro
 
 k) La promoción y apoyo del desarrollo comunitario en las localidades y zonas con población en estado de riesgo o desventaja social, poniendo especial interés en las comunidades rurales;
 
-l) Proporcionar a los adultos en plenitud que se encuentren en situación de vulnerabilidad, servicios de alojamiento, alimentación, vestido, atención médica, trabajo social, actividades culturales, recreativas, ocupacionales, psicológicas y capacitación para el trabajo; y
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
+l) Proporcionar a los adultos mayores que se encuentren en situación de vulnerabilidad, servicios de alojamiento, alimentación, vestido, atención médica, trabajo social, actividades culturales, recreativas, ocupacionales, psicológicas y capacitación para el trabajo; y
 
 m) Los demás que resulten necesarios para mejorar las circunstancias de carácter físico, social y mental que impidan a los sujetos de asistencia social, su desarrollo e incorporación a la sociedad.
 
@@ -359,7 +377,9 @@ IX. Procuraduría General de Justicia del Estado;
 
 X. Instituto Colimense de las Mujeres;
 
-XI. Instituto para la Atención de los Adultos en Plenitud;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+XI. Instituto para la Atención de los Adultos Mayores;
 
 XII. Instituto Colimense para la Discapacidad;
 
@@ -549,7 +569,9 @@ VI. Mujeres en períodos de gestación o lactancia, y las madres adolescentes, e
 
 VII. Madres solteras en situación de vulnerabilidad;
 
-VIII. Adultos en plenitud que se encuentren en desamparo, marginación, sujetos a maltrato, sujetos de violencia intrafamiliar, emocional o expuestos a ser víctimas de explotación o con alguna discapacidad;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+VIII. Adultos mayores que se encuentren en desamparo, marginación, sujetos a maltrato, sujetos de violencia intrafamiliar, emocional o expuestos a ser víctimas de explotación o con alguna discapacidad;
 
 IX. Personas con discapacidad;
 
@@ -715,7 +737,9 @@ IX. Cuidar y dar en adopción a niñas y niños expósitos o en estado de abando
 
 X. Coadyuvar con la Secretaría de Relaciones Exteriores en la representación del Gobierno Estatal para la ejecución y difusión de programas en materia de asistencia social, ante organismos nacionales;
 
-XI. Brindar atención a personas menores de edad y personas que no tengan la capacidad de comprender el significado de un hecho, por contar con alguna discapacidad y que sufran cualquier tipo de violencia, mujeres abandonadas y maltratadas, mujeres en periodo de gestación, adolescentes en situación de vulnerabilidad, adultos en plenitud y otros casos de personas en circunstancias parecidas;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+XI. Brindar atención a personas menores de edad y personas que no tengan la capacidad de comprender el significado de un hecho, por contar con alguna discapacidad y que sufran cualquier tipo de violencia, mujeres abandonadas y maltratadas, mujeres en periodo de gestación, adolescentes en situación de vulnerabilidad, adultos mayores y otros casos de personas en circunstancias parecidas;
 
 XII. Fomentar la paternidad responsable, que propicie la vigencia de los derechos de los menores de edad, a la satisfacción de sus necesidades, así como a su salud física y mental;
 
@@ -727,7 +751,9 @@ XV. Promover e impulsar el sano desarrollo físico, mental y social de las perso
 
 XVI. Establecer los apoyos necesarios para la restitución, a su lugar de origen, de las niñas, niños y adolescentes víctimas de la explotación sexual comercial infantil;
 
-XVII. Promover acciones para el bienestar del adulto en plenitud, así como para la preparación e incorporación a esta etapa de la vida;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+XVII. Promover acciones para el bienestar del adulto mayor, así como para la preparación e incorporación a esta etapa de la vida;
 
 XVIII. Operar establecimientos y programas en beneficio de los sujetos de la asistencia social;
 
@@ -753,7 +779,9 @@ c) Fijación del objeto, materia y alcances jurídicos de los compromisos que as
 
 XXVI. Promover en toda la Entidad la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares, las que, con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten dichos servicios con sujeción a los ordenamientos que las rijan;
 
-XXVII. Operar establecimientos de asistencia social en beneficio de personas menores de edad en estado de abandono o expósitos, personas que no tengan la capacidad para comprender el significado del hecho, adultos en plenitud en estado de abandono y de personas con alguna discapacidad;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+XXVII. Operar establecimientos de asistencia social en beneficio de personas menores de edad en estado de abandono o expósitos, personas que no tengan la capacidad para comprender el significado del hecho, adultos mayores en estado de abandono y de personas con alguna discapacidad;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2015)</small>
 
@@ -805,13 +833,17 @@ L. Investigar y establecer procedimientos de erradicación de vicios, enfermedad
 
 LI. Programar y realizar actividades permanentes de prevención de accidentes en el hogar, en la escuela y en la vía pública;
 
-LII. Fomentar en las personas menores de edad, sentimientos amor y apego a la familia, de respeto a los adultos en plenitud, a la sociedad y el interés por nuestra herencia histórica;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+LII. Fomentar en las personas menores de edad, sentimientos amor y apego a la familia, de respeto a los adultos mayores, a la sociedad y el interés por nuestra herencia histórica;
 
 LIII. Fomentar en la familia la práctica de sistemas de superación económica, como huertos familiares, fruticultura, avicultura y otros;
 
 LIV. Acudir inmediatamente en auxilio de los damnificados, en caso de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de naturaleza similar, coadyuvando en la coordinación de la atención de las personas que sufran algún tipo de accidente, con motivo de estos eventos;
 
-LV. Fomentar la utilización adecuada del tiempo libre, mediante la promoción y organización de actividades recreativas, artísticas y deportivas, dirigidas a la familia en general, así como a las personas menores de edad, personas con discapacidad, mujeres y adultos en plenitud;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+LV. Fomentar la utilización adecuada del tiempo libre, mediante la promoción y organización de actividades recreativas, artísticas y deportivas, dirigidas a la familia en general, así como a las personas menores de edad, personas con discapacidad, mujeres y adultos mayores;
 
 LVI. Elaborar y proponer a la Junta de Gobierno los reglamentos que se requieran en la materia, observando su estricto cumplimiento;
 
@@ -1385,11 +1417,15 @@ XII. Promover la utilización de los recursos existentes en las comunidades, inc
 
 XIII. Promover coordinadamente con la autoridad competente, la creación y mantenimiento de parques, jardines, áreas verdes y otros lugares de recreo en donde los menores de edad, puedan disfrutar de juegos seguros y adecuados a su edad;
 
-XIV. Establecer hogares de retiro para los adultos en plenitud;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+XIV. Establecer hogares de retiro para los adultos mayores;
 
 XV. Fomentar y fortalecer la conciencia de la nacionalidad y solidaridad humana, así como el amor a la patria mediante la exaltación de nuestros símbolos y el reconocimiento a los valores universales;
 
-XVI. Establecer programas de trabajo y ocupación para los adultos en plenitud; y
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+XVI. Establecer programas de trabajo y ocupación para los adultos mayores; y
 
 XVII. Las demás que se establezcan con ese propósito.
 
@@ -1543,7 +1579,9 @@ En cada uno de los municipios de la entidad, en base a sus características prop
 
 De conformidad con lo dispuesto en la Ley de Salud del Estado de Colima, compete a los Ayuntamientos de los Municipios del Estado, en materia de asistencia Social:
 
-I. Proporcionar servicios de asistencia social a las personas menores de edad, a personas que no tengan la capacidad para comprender el significado del hecho, personas con discapacidad, mujeres en estado de embarazo, adultos en plenitud y otros casos de personas en circunstancias parecidas;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+I. Proporcionar servicios de asistencia social a las personas menores de edad, a personas que no tengan la capacidad para comprender el significado del hecho, personas con discapacidad, mujeres en estado de embarazo, adultos mayores y otros casos de personas en circunstancias parecidas;
 
 II. Coordinar las acciones que en la materia del inciso anterior, realicen otras instituciones públicas, sociales y privadas;
 
@@ -1906,3 +1944,9 @@ CUARTO.- La Procuraduría de la Defensa del Menor y la Familia, pasa a llamarse 
 QUINTO.- Los expedientes jurisdiccionales vigentes a cargo de la Procuraduría de la Defensa del Menor y la Familia, continuarán su curso normal a cargo de la Procuraduría de Protección de Niñas, Niños y Adolescentes, prevista en esta Ley.
 
 SEXTO.- Los servidores públicos a que se refiere el artículo 7° de la Ley contenida en el ARTÍCULO PRIMERO de este Decreto conservarán la categoría con la que actualmente desempeñan sus labores.
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 131 POR EL QUE SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN I, 9, 12 FRACCIONES II, III, V, XIV Y XVI, 13 FRACCIONES I INCISO E) Y II INCISOS A) Y L), 22 FRACCIÓN XI, 38 FRACCIÓN VIII, 60 FRACCIONES IX, XVII, XXVII, LII Y LV, 86 FRACCIONES XIV Y XVI, 100 FRACCIÓN I, DE LA LEY DEL SISTEMA DE ASISTENCIA SOCIAL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
