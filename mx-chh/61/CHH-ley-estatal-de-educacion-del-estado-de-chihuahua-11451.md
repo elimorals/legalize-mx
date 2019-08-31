@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2018-09-29"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -1513,9 +1513,13 @@ La educación en valores se realizará en todos los niveles del Sistema Educativ
 
 El Estado otorgará los apoyos necesarios para que la educación en valores, fundamentada en los principios y características de la participación social, cobre mayor importancia en los centros escolares.
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
-Al respecto, diseñará e implementará acciones permanentes para que los programas y contenidos de la educación en valores, sean aplicados a los padres y madres de familia con el apoyo de sus asociaciones, bajo los principios de la participación social en la educación, con el propósito de fortalecer y coadyuvar en la formación adecuada de sus hijos.
+Al respecto, diseñará, impulsará e implementará talleres y acciones permanentes para que los programas y contenidos de la educación en valores, sean dirigidos a los padres y madres de familia o tutores con el apoyo de sus asociaciones, bajo los principios de la participación social en la educación, con el propósito de fortalecer y coadyuvar en la formación adecuada de sus hijas e hijos o pupilos, basada en valores que contribuyan al fortalecimiento familiar, reforzando con ello el tejido social.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
+Adicionalmente, se apoyarán y desarrollarán programas en coordinación con las diversas instancias de Gobierno, consistentes en cursos y actividades que fortalezcan la enseñanza de los padres y madres de familia o tutores, respecto al valor de la igualdad y solidaridad entre las hijas e hijos o pupilos, la prevención de la violencia escolar desde el hogar, y el respeto a sus maestras y maestros.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4388,3 +4392,11 @@ P.O. 29 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLEY/0870/2018 XVII P.E., POR MEDIO DEL CUAL SE ADICIONA AL ARTÍCULO 14 UN PÁRRAFO SEGUNDO, DE LA LEY ESTATAL DE EDUCACIÓN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXVI/RFLEY/0370/2019 II P.E., POR MEDIO DEL CUAL SE REFORMA Y ADICIONA EL ARTÍCULO 69 DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
