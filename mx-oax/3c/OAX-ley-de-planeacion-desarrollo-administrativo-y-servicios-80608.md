@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-planeacion-desarrollo-administrativo-y-servicios-80608"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-02"
-last_updated: "2011-04-16"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE PLANEACION, DESARROLLO ADMINISTRATIVO Y SERVICIOS PUBLICOS MUNICIPALES, DEL ESTADO DE OAXACA
 
-LEY DE PLANEACION, DESARROLLO ADMINISTRATIVO Y SERVICIOS PUBLICOS MUNICIPALES
+LEY DE PLANEACIÓN, DESARROLLO ADMINISTRATIVO Y SERVICIOS PÚBLICOS MUNICIPALES
 
-TEXTO ORIGINAL Y SEGUNDA PUBLICACION EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 2 de abril de 2011.
 
@@ -441,11 +441,13 @@ El Título de Concesión se deberá publicar en el Periódico Oficial del Gobier
 
 ### CAPÍTULO I. EL PLAN MUNICIPAL DE DESARROLLO
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
 ###### ARTÍCULO 45.
 
-El Plan Municipal de Desarrollo deberá ser elaborado, aprobado por mayoría calificada y publicado en el Periódico Oficial del Gobierno del Estado, Gaceta Municipal o revistas especializadas en temas Municipales, dentro de los primeros tres meses, contados a partir de la fecha de instalación del Ayuntamiento y su vigencia será por el periodo del ejercicio legal.
+El Plan Municipal de Desarrollo deberá ser elaborado, aprobado por mayoría calificada y publicado en el Periódico Oficial del Gobierno del Estado, Gaceta Municipal o revistas especializadas en temas Municipales, dentro de los primeros seis meses, contados a partir de la fecha de instalación del Ayuntamiento y su vigencia será por el periodo del ejercicio legal.
 
-La formulación, ejecución, control y evaluación del Plan Municipal de Desarrollo, estará a cargo del propio Ayuntamiento, que podrá auxiliarse de los órganos, dependencias ó servidores públicos que determine el mismo, conforme a la Ley de Planeación del Estado; para este efecto podrá solicitar cuando lo considere necesario la asesoría del Gobierno del Estado y de las Dependencias del sistema Estatal y Nacional de planeación.
+La formulación, ejecución, control y evaluación del Plan Municipal de Desarrollo, estará a cargo del propio Ayuntamiento, que podrá auxiliarse de los órganos, dependencias o servidores públicos que determine el mismo, conforme a la Ley Estatal de Planeación; para este efecto podrá solicitar cuando lo considere necesario la asesoría del Gobierno del Estado y de las Dependencias del Sistema Estatal y Nacional de Planeación.
 
 ###### ARTÍCULO 46.
 
@@ -701,7 +703,7 @@ Se respetarán las formas de organización de las comunidades indígenas del Est
 
 En los municipios que por sus características urbanas así lo requieran, se integrarán los Consejos de Colaboración Municipal, para coadyuvar en la solución de los problemas municipales y prestar la asesoría que se les solicite.
 
-(SEGUNDA PUBLICACION, P.O. 16 DE ABRIL DE 2011)
+(SEGUNDA PUBLICACIÓN, P.O. 16 DE ABRIL DE 2011)
 
 ###### ARTÍCULO 69.
 
@@ -766,3 +768,13 @@ Tlalixtac de Cabrera, Centro, Oax., a 10 de febrero del 2011.
 LA SECRETARIA GENERAL DE GOBIERNO.
 
 C. ANTONIA IRMA PIÑEIRO ARIAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 737.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN, DESARROLLO ADMINISTRATIVO Y SERVICIOS PÚBLICOS MUNICIPALES”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
