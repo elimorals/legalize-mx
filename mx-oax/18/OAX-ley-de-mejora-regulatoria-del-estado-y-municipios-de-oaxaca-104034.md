@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-mejora-regulatoria-del-estado-y-municipios-de-oaxaca-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2017-06-21"
+last_updated: "2019-08-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE OAXACA Y SUS MUNICIPIOS DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 31 DE AGOSTO DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 [N DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL, EN EL DECRETO NÚM. 603 Y DE ACUERDO CON LOS ARTÍCULOS 79, FRACCIÓN II Y 53 FRACCIÓN VI, PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LA PARTE VETADA, OBEDECIENDO AL MANDATO CONSTITUCIONAL, EN CONSECUENCIA SE PUBLICA EL DECRETO EN EL P.O. DE 21 DE JUNIO DE 2017.]
 
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019 (ABROGADO).
 
 Ley publicada en Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de mayo de 2014.
 
@@ -1076,3 +1078,31 @@ NOVENO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre
 P.O. 21 DE JUNIO DE 2017.
 
 [EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA.]
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 733.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE OAXACA Y SUS MUNICIPIOS”.]
+
+Primero. El presente Decreto será publicado en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Tercero. Los reglamentos de esta Ley deberán promulgarse en un plazo que no exceda los sesenta días naturales a la entrada en vigor de la presente Ley.
+
+Cuarto. El Consejo Estatal de Mejora Regulatoria deberá instalarse en un plazo que no exceda los noventa días naturales a la entrada en vigor de la presente Ley.
+
+Quinto. Las Autoridades de Mejora Regulatoria y el Sujeto Obligado dará cumplimiento a las obligaciones establecidas en la presente Ley con cargo a sus respectivos presupuestos y atendiendo a sus respectivas suficiencias presupuestales.
+
+Sexto. El Consejo Municipal de Mejora Regulatoria de cada Municipio deberá instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor del Reglamento Municipal de Mejora Regulatoria que expida cada Municipio.
+
+Séptimo. Las disposiciones normativas vigentes que se contrapongan a lo dispuesto por esta Ley, quedan sin efectos.
+
+Octavo. Los gastos que el Sujeto Obligado requiera para implementar acciones en materia de mejora regulatoria deberán ser considerados e incluidos en sus presupuestos y programas respectivos.
+
+Noveno. La Coordinación Estatal, publicará dentro del plazo que no exceda de un año contado a partir de la entrada en vigor de la presente Ley, los lineamientos de al menos las siguientes herramientas:
+
+I. Análisis de Impacto Regulatorio; y
+
+II. Programa de Mejora Regulatoria.
+
+Décimo. Se abroga la Ley de Mejora Regulatoria del Estado y Municipios de Oaxaca.
