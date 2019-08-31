@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2018-11-10"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
 
 Ley publicada en la Décima Primera Sección al Número 45 del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -102,6 +102,10 @@ II. Aguas residuales: Las aguas provenientes de actividades domésticas, industr
 III. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre, que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos, que interactúan en un espacio y tiempo determinados;
 
 IV. Aprovechamiento sustentable: La utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas;
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+IV Bis. ARBORIZAR: Poblar de árboles preferentemente de especies frutales, en las áreas urbanas existentes en una población, Municipio y el Estado; con independencia de que dichos árboles sean nativos o bien exóticos que hayan sido adaptados a las condiciones.
 
 V. Áreas naturales protegidas: Las zonas del territorio estatal, municipal y aquéllas sobre las que el Estado ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano y que por sus características ecológicas o bien para salvaguardar la biodiversidad, o en su caso, por el valor de los recursos naturales o los servicios ambientales que prestan, requieren ser preservadas, conservadas, restauradas y están sujetas al régimen previsto en la presente Ley;
 
@@ -311,7 +315,13 @@ XL. Promover y fomentar la investigación de protección del ambiente y la suste
 
 XLI. Fomentar e impulsar el desarrollo de proyectos o actividades de generación y uso de energías limpias y renovables, en donde los usos de los recursos naturales no estén reservados a la federación, conforme a los instrumentos jurídicos que para tal efecto celebre el Estado y en términos de la normatividad aplicable, y;
 
-XLII. La atención de los demás asuntos que, en materia de preservación del equilibrio ecológico y protección al ambiente, de energías y de cambio climático les concedan otros ordenamientos en la materia y que no estén otorgados expresamente a la Federación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2019)</small>
+
+XLII. Promover y ejecutar campañas para arborizar las áreas urbanas que, bajo cualquier causa, carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas conforme a los estudios pertinentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2019)</small>
+
+XLIII. La atención de los demás asuntos que, en materia de preservación del equilibrio ecológico y protección al ambiente, de energías y de cambio climático les concedan otros ordenamientos en la materia y que no estén otorgados expresamente a la Federación.
 
 ###### Artículo 7.
 
@@ -367,7 +377,13 @@ XXIV. La concertación de acciones con los sectores social y privado en materia 
 
 XXV. El establecimiento de las medidas necesarias para imponer las sanciones correspondientes por infracciones a la presente Ley o a los reglamentos o bandos de policía y buen gobierno, y;
 
-XXVI. La atención de los demás asuntos que, en materia de aprovechamiento sustentable de recursos naturales, preservación del equilibrio ecológico y protección al ambiente les conceda la Ley General del Equilibrio Ecológico y la Protección al Ambiente, ésta Ley u otros ordenamientos en concordancia con ellas y que no estén otorgados expresamente a la Federación o a los Estados.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2019)</small>
+
+XXVI. Arborizar y promover entre los particulares campañas para mencionado fin, en las áreas urbanas de su competencia que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2019)</small>
+
+XXVII. La atención de los demás asuntos que, en materia de aprovechamiento sustentable de recursos naturales, preservación del equilibrio ecológico y protección al ambiente les conceda la Ley General del Equilibrio Ecológico y la Protección al Ambiente, ésta Ley u otros ordenamientos en concordancia con ellas y que no estén otorgados expresamente a la Federación o a los Estados.
 
 ###### Artículo 8.
 
@@ -3068,3 +3084,13 @@ DÉCIMO SEGUNDO.- Se derogan las disposiciones de igual o menor jerarquía que s
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 25 de Septiembre de 2018.- Dip. José de Jesús Romero López, Presidente.- Dip. Fernando Huerta Cerecedo, Secretario.- Dip. Silvia Flores Peña, Secretaria.- Dip. León Leonardo Lucas, Secretario.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 16 de Octubre de 2018. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 748.- MEDIANTE EL CUAL ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PAR (SIC) EL ESTADO DE OAXACA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
