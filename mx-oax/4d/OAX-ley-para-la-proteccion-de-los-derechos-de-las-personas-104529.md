@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2017-12-08"
+last_updated: "2019-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -153,7 +153,27 @@ XIII. Riesgo social.- Situación de vulnerabilidad que cursan las y los adultos 
 
 XIV. Tecnologías de apoyo.- Todo tipo de equipo, sistema, producto, máquina, instrumento, programa y/o servicio utilizados para mantener, suplir, aumentar o compensar las deficiencias físicas o intelectuales de las personas con impedimentos o discapacidad, tanto en los apartados de movilidad como de accesibilidad.
 
-XV. Violencia contra las personas adultas mayores.- cualquier acción u omisión, directa o indirecta, dirigida en contra de una o varias personas adultas mayores que menoscabe su dignidad o su integridad física, sexual, psicológica o patrimonial.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2019)</small>
+
+XV. Violencia contra las personas adultas mayores.- Cualquier acción u omisión, directa o indirecta, dirigida en contra de una o varias personas adultas mayores que menoscabe su dignidad, les cause daño o sufrimiento psicológico o emocional, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
+###### Artículo 7 Bis.
+
+Los tipos de violencia contra las Personas Adultas Mayores, son:
+
+I.- La violencia psicológica o emocional. Es cualquier acto u omisión que dañe la estabilidad psicológica o emocional, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la persona adulta mayor a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II.- La violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar lesiones ya sean internas, externas o ambas;
+
+III.- La violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la persona adulta mayor. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la persona adulta mayor; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+IV.- La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la persona adulta mayor. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V.- La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la persona adulta mayor y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, y;
+
+VI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS RECTORES PARA LA ATENCIÓN DE LAS PERSONAS ADULTAS MAYORES Y LA PROTECCIÓN DE SUS DERECHOS
 
@@ -229,9 +249,17 @@ V. A la salud y alimentación, que comprende:
 
 a) El acceso a los satisfactores que efectivamente requiera, considerando en éstos los alimentos, bienes y servicios, a la par de las condiciones humanas o materiales, adecuadas para su desarrollo personal y protección integral;
 
-b) El acceso preferente a los servicios de salud, de conformidad a lo dispuesto en el párrafo vigésimo cuarto del artículo 12 de la Constitución Política del Estado Libre y Soberano de Oaxaca, con el objeto de gozar cabalmente de bienestar físico, mental, psicoemocional y sexual, para atender, detener o retrasar cualquier enfermedad que menoscabe su calidad de vida; y
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
-c) Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como en todo aquello que favorezca a su bienestar físico, mental, psicoemocional, sexual y cuidado personal.
+b) El acceso preferente a los servicios de salud, de conformidad a lo dispuesto en el párrafo vigésimo cuarto del artículo 12 de la Constitución Política del Estado Libre y Soberano de Oaxaca, con el objeto de gozar cabalmente de bienestar físico, mental, psicoemocional y sexual, para atender, detener o retrasar cualquier enfermedad que menoscabe su calidad de vida;
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
+c) Recibir orientación y capacitación en materia de salud, nutrición e higiene, así como en todo aquello que favorezca a su bienestar físico, mental, psicoemocional, sexual y cuidado personal; y
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)</small>
+
+d) A desarrollar y fomentar la capacidad funcional que les permita ejecutar sus tareas y desempeñar sus roles sociales.
 
 VI. A la educación, recreación, información y participación, que incluye:
 
@@ -722,3 +750,13 @@ P.O. 8 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 751.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE AGOSTO DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 743.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
