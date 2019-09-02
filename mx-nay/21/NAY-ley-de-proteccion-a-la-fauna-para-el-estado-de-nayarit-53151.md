@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-a-la-fauna-para-el-estado-de-nayarit-53151"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-16"
-last_updated: "2016-11-08"
+last_updated: "2019-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Sección Décima Tercera al Periódico Oficial del Estado de Nayarit, el sábado 16 de diciembre de 2006.
 
@@ -485,17 +485,23 @@ DE LA COMERCIALIZACIÓN, TRANSPORTE, EXPERIMENTACIÓN EXHIBICIÓN Y SACRIFICIO D
 
 ### CAPITULO I. DE LA COMERCIALIZACIÓN
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 46.
 
-La exhibición y venta de animales será realizada en locales o instalaciones adecuadas para su correcto cuidado, manutención y protección respetando las normas de salubridad y seguridad. En ningún caso dichas operaciones podrán efectuarse en vía pública.
+La exhibición y venta de animales será realizada en locales o instalaciones adecuadas para su correcto cuidado, manutención y protección respetando las normas de salubridad y seguridad, y deberá contar con el personal capacitado para ello. En ningún caso dichas operaciones podrán efectuarse en vía pública.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 47.
 
-Las autoridades estatales y municipales deberán supervisar periódicamente todo expendio de animales a fin de verificar que los mismos cumplan las disposiciones legales que establece ésta ley y las leyes sanitarias aplicables.
+Las autoridades estatales y municipales deberán supervisar periódicamente todo expendio de animales a fin de verificar que no se cometa maltrato en contra de los animales y que los mismos cumplan las disposiciones legales que establece esta ley y las leyes sanitarias aplicables.
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 48.
 
-Los establecimientos de venta de animales, deberán tener licencia otorgada por las autoridades municipales, comprobar la procedencia de los mismos, así como demostrar estar autorizado su comercio.
+Los establecimientos de venta de animales, deberán contar con la asesoría de un médico veterinario que brinde bienestar a los animales en el tiempo que se encuentren a la venta, así como con la licencia otorgada por las autoridades municipales, comprobar la procedencia de los mismos, así como demostrar estar autorizado su comercio.
 
 ###### ARTÍCULO 49.
 
@@ -585,6 +591,10 @@ V. En su caso, cuando el animal haya sido asegurado por haberse empleado en acto
 
 VI. Cuando la sobrepoblación extrema de la especie represente un riesgo para la salud pública o las actividades productivas.
 
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+
+La captura y sacrificio por motivos de salud pública señaladas en los supuestos de las fracciones II, III, V y VI, del presente artículo; se efectuará únicamente a través y bajo la supervisión de las autoridades sanitarias del Estado o municipios y por personas capacitadas debidamente y equipadas para tal efecto, quienes evitarán cualquier acto de crueldad, tormento, sobreexcitación o escándalo público.
+
 ###### ARTÍCULO 58.
 
 Se prohíbe el sacrificio de animales en la vía pública, salvo por causas de fuerza mayor, peligro inminente o sufrimiento innecesario. Tratándose de especies prioritarias para conservación, exótica, amenazadas o en peligro de extinción, el sacrificio sólo podrá ser realizado por profesionista en la materia o personal debidamente capacitado.
@@ -602,6 +612,14 @@ II. Introducirlos vivos o agonizantes a cualquier líquido o a refrigeradores;
 III. Permitir que unos animales presencien el sacrificio de otros; y
 
 IV. Efectuar el sacrificio mediante envenenamiento, asfixia, estrangulamiento, golpes, azotes, quemaduras, aplicación de ácidos corrosivos, estricnina, wartarina, cianuro, arsénico u otras substancias y procedimientos que causen dolor o agonía innecesarios.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+
+Los animales mamíferos destinados al sacrificio, deberán ser ubicados en corrales del rastro, los cuales tendrán condiciones mínimas de resguardo que deberán evitar que los animales sufran daño físico por inmovilidad o que las condiciones del lugar les provoquen heridas. En caso de que un animal que vaya a ser sacrificado deba estar más de doce horas en el rastro, se le deberá proporcionar agua y alimento. Queda prohibido el sacrificio de las hembras en la etapa de gestación, así como de éstas en período de lactancia.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+
+Las aves deberán ser sacrificadas inmediatamente a su arribo al rastro.
 
 ###### ARTÍCULO 60.
 
@@ -784,3 +802,15 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 2 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT, EN MATERIA DE MALTRATO ANIMAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los 60 días naturales posteriores a la entrada en vigor del presente Decreto, las autoridades municipales deberán realizar las adecuaciones normativas necesarias, para que de acuerdo a su disponibilidad presupuestaria, realicen actividades de supervisión sanitaria o bien destinen ésta tarea a personas adiestradas debidamente y equipadas para tal efecto, y así evitar cualquier acto de crueldad, tormento, sobreexcitación o escándalo público en el sacrificio de animales para no consumo humano.
