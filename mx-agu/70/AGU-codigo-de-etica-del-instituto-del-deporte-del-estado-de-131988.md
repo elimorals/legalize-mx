@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-del-deporte-del-estado-de-131988"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-03"
-last_updated: "2018-12-03"
+last_updated: "2019-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 2 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de diciembre de 2018.
 
@@ -150,3 +152,21 @@ ATENTAMENTE
 LA JUNTA DIRECTIVA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES
 
 Esta hoja de firmas forma parte integrante del CÓDIGO DE ÉTICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES, aprobado en la "Cuarta Sesión ordinaria del 2018", a los 23 días del mes de noviembre del año 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del “Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas”, publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el Código de Ética del Instituto del Deporte del Estado de Aguascalientes, publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, Tomo LXXXI, Número 49, de fecha 3 de diciembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan (sic) lo previsto en el presente Acuerdo.
