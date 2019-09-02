@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-de-la-procuraduria-estatal-de-proteccion-al-131
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-19"
-last_updated: "2018-11-19"
+last_updated: "2019-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de noviembre de 2018.
 
@@ -184,3 +184,21 @@ BIOL. KARLA ELIZABETH MACÍAS HERRERA, en representación del DR. EN C. FRANCISC
 DR. PEDRO GUADALUPE GUTIÉRREZ ROMO, Presidente del Consejo Coordinador Empresarial del Estado
 
 Esta hoja de firmas forma parte integrante del CÓDIGO DE ÉTICA DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE, aprobado en la “Tercera Sesión Ordinaria de 2018”, a los 03 días del mes de octubre del año dos mil dieciocho.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del "Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el Código de Ética de la Procuraduría Estatal de Protección al Ambiente, publicado en el Periódico Oficial del Estado de Aguascalientes en la Primera Sección del Periódico Oficial del Estado de Aguascalientes (sic), Tomo LXXXI, Número 47, el lunes 19 de noviembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
