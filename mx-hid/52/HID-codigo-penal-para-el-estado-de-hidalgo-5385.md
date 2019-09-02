@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2018-07-30"
+last_updated: "2019-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2019.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -751,7 +751,7 @@ VIII.- Las demás que establezcan las leyes según proceda. Las mismas consecuen
 
 ###### ARTICULO 71.
 
-Las consecuencias jurídicas a que se refiere el artículo anterior, podrán imponerse a las personas jurídicas colectivas, a juicio de la autoridad, en las siguiente forma:
+Las consecuencias jurídicas a que se refiere el artículo anterior, podrán imponerse a las personas jurídicas colectivas, a juicio de la autoridad, en la siguiente forma:
 
 I.- Intervención de sus órganos de representación, con las atribuciones que al interventor confiere la ley, sin que a su duración pueda exceder de dos años;
 
@@ -1033,7 +1033,7 @@ II.- Para el error de prohibición, se aplicará la mitad de la punibilidad prev
 
 ###### ARTICULO 101.
 
-Al que incurra en exceso en alguna de las causas de justificación se le impondrá sanción correspondiente al error de prohibición vencible, pero quedará subsistente la atribución del hecho a título doloso.
+Al que incurra en exceso en alguna de las causas de justificación se le impondrá la sanción correspondiente al error de prohibición vencible, pero quedará subsistente la atribución del hecho a título doloso.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -2055,7 +2055,11 @@ Este delito se perseguirá por querella, cuando la víctima fuere mayor de edad 
 
 En los delitos a que se refieren los capítulos I, II, IV y V de este título la reparación del daño comprenderá, en los términos del Código Familiar, el pago de alimentos a la mujer y a los hijos que hayan resultado de la relación sexual ilícita, sin que se requiera y sin que implique declaración sobre la paternidad para efectos puramente civiles. Tratándose del delito de violación, comprenderá además la reparación del daño psicosomático causado al ofendido.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+
 ## TITULO SEXTO. DELITOS CONTRA EL HONOR
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
 
 ### CAPITULO IV. FRAUDE
 
@@ -2063,73 +2067,59 @@ En los delitos a que se refieren los capítulos I, II, IV y V de este título la
 
 ###### ARTICULO 191.
 
-Al que mediante comunicación dolosa a otro, impute a una persona física o colectiva un hecho que cause a ésta descrédito, deshonra o afecte su reputación, se le impondrá prisión de tres meses a dos años o multa de 15 a 150 días.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
 ###### ARTICULO 192.
 
-Al acusado de difamación no se le admitirá prueba alguna para acreditar la verdad de su imputación, sino en dos casos:
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 1999)</small>
-
-I.- Cuando aquélla se haya hecho a un depositario o agente de la autoridad, o a cualquier otra persona que haya obrado con carácter público, si la imputación fuere relativa al ejercicio de sus funciones; o
-
-II.- Cuando el hecho imputado esté declarado cierto por sentencia irrevocable y el acusado obre por motivo de interés público o por interés privado, pero legítimo, y sin ánimo de dañar.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
-
-En estos casos, el hecho no será punible si el agente probare su imputación.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
 ###### ARTICULO 193.
 
-No se comete delito de difamación, cuando:
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
-I.- Se manifieste técnicamente un parecer sobre una producción literaria, artística, científica o industrial;
-
-II.- Se manifieste un juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si se probare que se obró en cumplimiento de un deber o por interés público que, con la debida reserva, se hizo por humanidad, por prestar un servicio a personas con quien se tenga parentesco o amistad, dándose informaciones que se hubieren pedido, si no se hiciere a sabiendas y con ánimo de dañar; o
-
-III.- Se presente un escrito o se pronuncie un discurso ante los tribunales que fuere difamatorio, relacionado con el asunto que se ventile, pues en tal caso, según la gravedad del hecho, podrán aplicarse al autor alguna de las correcciones disciplinarias de las que permita la ley. Si la imputación se extiende a personas extrañas al litigio o involucra hechos no relacionados con el asunto de que se trate, se aplicará la pena correspondiente a la difamación.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
 
 ### CAPITULO V. ADMINISTRACION FRAUDULENTA
 
 ###### ARTICULO 194.
 
-Al que impute falsamente a otro un hecho que la ley califique como delito, a sabiendas de que éste no existe o de que el imputado no es responsable del mismo, se impondrá prisión de tres meses a dos años y multa de 5 a 50 días.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
 ###### ARTICULO 195.
 
-La misma pena a que se refiere el artículo anterior, se impondrá al que para hacer que un inocente aparezca como responsable de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
 ###### ARTICULO 196.
 
-Si el acusado de calumnias se retractare públicamente antes de ejercitarse la acción penal quedará exento de pena.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
 ###### ARTICULO 197.
 
-Cuando esté pendiente el proceso seguido por un delito imputado calumniosamente, no correrá la prescripción para la persecución de la calumnia o, en su caso, se suspenderá el procedimiento iniciado por esta última, hasta que se dicte resolución irrevocable que ponga fin al primer proceso.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
-Cuando se haya dictado sentencia que haya causado ejecutoria, absolviendo al calumniado del delito que se le imputa, no se admitirá prueba alguna de dicha imputación al acusado.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
 
 ### CAPITULO VI. EXTORSION
 
 ###### ARTICULO 198.
 
-No se podrá proceder contra el responsable de algún delito de los que comprende este título, sino por querella de la persona ofendida.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
 ###### ARTICULO 199.
 
-Cuando la difamación o calumnia se refiere a persona ya fallecida, se procederá por querella de cónyuge, de los ascendientes, de los descendientes o de los hermanos o los representantes de la sucesión. Cuando la difamación o la calumnia se hubieren cometido con anterioridad al fallecimiento del ofendido, no se atenderá la querella de las personas mencionadas si aquél hubiera permitido la ofensa y pudiendo hacerlo, no hubiere presentado la querella, salvo que hubiera prevenido que lo hicieren sus herederos.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
 ###### ARTICULO 200.
 
-Los documentos u objetos que hubieren servido de medio para los delitos contra el honor, se decomisarán e inutilizarán, a menos de que se trate de algún documento público o de uno privado que importe obligación, liberación o transmisión de derecho, en cuyo caso, se hará en el documento una anotación sumaria de la sentencia pronunciada en contra el acusado.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
 ###### ARTICULO 201.
 
-Siempre que sea condenado el responsable de un delito de difamación o calumnia, se hará publicación de la sentencia si lo solicita la parte ofendida. Cuando el delito se haya cometido por medio de un órgano de comunicación social, los responsables de éste estarán obligados a dar a conocer el fallo en uno del mismo medio utilizado para su comisión, imponiéndoseles multa de 10 días por cada día que pase sin hacerlo, después de aquél en que se les notifique la sentencia. El importe de la multa no podrá exceder de quinientos días.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
 ###### ARTICULO 202.
 
-No servirá de excusa de la difamación o de la calumnia, que el hecho imputado sea notorio o que el agente se limite a reproducir lo ya publicado en la República o en otro país.
+(DEROGADO, P.O. 2 DE SEPTIEMBRE DE 2019)
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -3489,25 +3479,39 @@ USURPACIÓN DE FUNCIONES PÚBLICAS Y EN MATERIA DE SERVICIOS DE SEGURIDAD PRIVAD
 
 ARTICULO 321 BIS.- Comete el delito de uso ilícito de atribuciones y facultades y se impondrá de tres a seis años de prisión y multa de 20 a 100 veces el valor diario de la Unidad de Medida y Actualización, a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o servicio público o de otra persona, participe, solicite o promueva la perpetración de cualquiera de las conductas previstas en el artículo 309 ter.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+
+### CAPITULO X. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 321 TER.- Se entiende por número de emergencia, aquel administrado por instituciones públicas que brinden un sistema de respuesta para atender emergencias en materia de seguridad pública, protección civil, bomberos, servicios de salud o cualquier otro destinado a atender emergencias en la población.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 321 QUATER.- Al que realice llamadas o solicite de cualquier forma la intervención de los servicios de emergencia para dar un aviso que resulte falso y que provoque la movilización o presencia de personal de emergencia, se le impondrá de tres meses a dos años de prisión y multa de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+
+En caso de reincidencia, se duplicará la punibilidad prevista en el párrafo anterior.
+
+Este delito se perseguirá por querella de la institución encargada de brindar los servicios de emergencia.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JULIO DE 2017)</small>
-
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS, TORTURA Y DESAPARICION FORZADA DE PERSONAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
 
 ## TITULO DECIMO OCTAVO. DELITOS COMETIDOS EN LA PROCURACION Y ADMINISTRACION DE JUSTICIA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2013)</small>
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS, TORTURA Y DESAPARICION FORZADA DE PERSONAS
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 310.
 
 Al particular que promueva una conducta ilícita de un servidor público que se preste para ello o por interpósita persona promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, se le impondrá prisión de tres meses a tres años y multa de 10 a 50 días.
 
-### CAPITULO III. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
+### CAPITULO II. FRAUDE PROCESAL
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 311.
 
@@ -3523,9 +3527,7 @@ Se aplicará la misma pena prevista en el párrafo primero, a cualquier persona 
 
 El juez deberá imponer al cohechador la sanción de inhabilitación para desempeñar un cargo público, así como para participar en procedimientos de adquisiciones, arrendamientos, servicios u obras públicas y servicios relacionados con las mismas, o para obtener concesiones para la prestación de servicios públicos.
 
-### CAPITULO IV. EVASION DE PRESOS
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+### CAPITULO III. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
 
 ###### ARTICULO 312.
 
@@ -3533,7 +3535,7 @@ Al particular que estando obligado legalmente, a la custodia, administración o 
 
 Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o haga figurar como suyos, bienes que un servidor público haya adquirido en contravención a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPITULO V. INCUMPLIMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+### CAPITULO IV. EVASION DE PRESOS
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -3549,7 +3551,9 @@ La sanción podrá ser de tres meses a tres años de prisión y multa de 20 a 10
 
 Además de las penas a que se refiere este artículo, el perito, intérprete o traductor sufrirá inhabilitación para desempeñar sus funciones de tres meses a dos años.
 
-### CAPITULO VI. ENCUBRIMIENTO
+### CAPITULO V. INCUMPLIMIENTO DE PENAS NO PRIVATIVAS DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 314.
 
@@ -3573,15 +3577,13 @@ Al que por medio de la violencia física o moral exija a una autoridad la ejecuc
 
 Cuando la ley autorice el empleo de medios de apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumarán los delitos de resistencia y desobediencia cuando se hubiesen agotado tales medios.
 
-### CAPITULO VII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO VI. ENCUBRIMIENTO
 
 ###### ARTICULO 319.
 
 Al que quebrante los sellos impuestos por orden de la autoridad pública competente, se le impondrá prisión de tres meses a dos años y de 5 a 25 días multa.
 
-### CAPITULO VIII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
+### CAPITULO VII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### ARTICULO 320.
 
@@ -3591,7 +3593,9 @@ Para los efectos de esta disposición, se entiende por ultraje toda acción o ex
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JULIO DE 2018)</small>
 
-### CAPITULO I. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+### CAPITULO VIII. DELITOS DE ABOGADOS, DEFENSORES Y LITIGANTES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 321.
 
@@ -3617,13 +3621,17 @@ Se duplicará la punibilidad prevista en este artículo, cuando cualquiera de la
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE JULIO DE 2017)</small>
 
+### CAPITULO I. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
+
 ### CAPITULO II. DELITOS CONTRA EL COMERCIO, LA INDUSTRIA, LA AGRICULTURA Y LA ESTABILIDAD ECONOMICA
 
 ### CAPITULO III. DELITOS CONTRA LA RIQUEZA FORESTAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO III BIS. DELITOS CONTRA El AMBIENTE
+## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA DEL ESTADO Y EL BIENESTAR SOCIAL
+
+### CAPITULO III BIS. DELITOS CONTRA EL AMBIENTE
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -3696,28 +3704,6 @@ ARTICULO 349 NONIES.- La reducción de las penas por los delitos previstos en es
 A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo el dictamen técnico favorable emitido por la autoridad ambiental competente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE AGOSTO DE 2016)</small>
-
-## TITULO DECIMO NOVENO. DELITOS CONTRA LA ECONOMIA DEL ESTADO Y EL BIENESTAR SOCIAL
-
-### CAPÍTULO III TER. DELITOS EN CONTRA DE LOS ANIMALES
-
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
-
-ARTICULO 349 DECIES.- Al que dolosamente realice actos de maltrato en contra de animales domésticos o ferales, causándoles lesiones se le impondrá de 15 días a 1 mes de prisión y multa de 25 a 50 Unidades de Medida y Actualización en su modalidad de valor diario; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 1 mes a 6 meses de prisión y multa de 50 a 150 Unidades de Medida y Actualización en su modalidad de valor diario.
-
-> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
-
-ARTICULO 349 UNDECIES.- Para efectos de este Capítulo, se entenderá por:
-
-I. Animal doméstico: los que dependan de un ser humano para subsistir y habiten con éste en forma regular, sin que exista actividad lucrativa de por medio;
-
-II. Animal feral: Aquellos pertenecientes a especies domésticas que al quedar fuera del control del ser humano, se establecen en el entorno natural; y
-
-III. Maltrato: Actos que siendo innecesarios dañan la salud, integridad física, instinto, desarrollo o crecimiento del animal.
-
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
-
-ARTICULO 349 DUODECIES.- Se impondrán de tres meses a dos años de prisión y multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, a quien organice, realice, promueva, anuncie, promocione, difunda, fináncie, patrocine o presencie, cualquier acto cuyo objetivo sea la pelea de perros, así como a quien permita que se realice en inmuebles de su propiedad o bajo su posesión.
 
 ###### ARTICULO 322.
 
@@ -3871,7 +3857,25 @@ No podrá invocarse como causa de justificación, en la comisión de la conducta
 
 La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
 
-### CAPITULO IV. APROVECHAMIENTO INDEBIDO DE BIENES EJIDALES O COMUNALES
+### CAPÍTULO III TER. DELITOS EN CONTRA DE LOS ANIMALES
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 349 DECIES.- Al que dolosamente realice actos de maltrato en contra de animales domésticos o ferales, causándoles lesiones se le impondrá de 15 días a 1 mes de prisión y multa de 25 a 50 Unidades de Medida y Actualización en su modalidad de valor diario; en caso de que las lesiones causen la muerte al animal doméstico o feral, se impondrá de 1 mes a 6 meses de prisión y multa de 50 a 150 Unidades de Medida y Actualización en su modalidad de valor diario.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2016)</small>
+
+ARTICULO 349 UNDECIES.- Para efectos de este Capítulo, se entenderá por:
+
+I. Animal doméstico: los que dependan de un ser humano para subsistir y habiten con éste en forma regular, sin que exista actividad lucrativa de por medio;
+
+II. Animal feral: Aquellos pertenecientes a especies domésticas que al quedar fuera del control del ser humano, se establecen en el entorno natural; y
+
+III. Maltrato: Actos que siendo innecesarios dañan la salud, integridad física, instinto, desarrollo o crecimiento del animal.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+
+ARTICULO 349 DUODECIES.- Se impondrán de tres meses a dos años de prisión y multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, a quien organice, realice, promueva, anuncie, promocione, difunda, fináncie, patrocine o presencie, cualquier acto cuyo objetivo sea la pelea de perros, así como a quien permita que se realice en inmuebles de su propiedad o bajo su posesión.
 
 ###### ARTICULO 323.
 
@@ -3879,13 +3883,13 @@ Al que para perjudicar a alguien u obtener un beneficio indebido para sí o para
 
 Cuando un abogado sea autor o partícipe en la comisión de este tipo penal, además, se le impondrá suspensión de hasta tres años para ejercer la profesión.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO IV. APROVECHAMIENTO INDEBIDO DE BIENES EJIDALES O COMUNALES
 
 ###### ARTICULO 324.
 
 Al que con propósito de inculpar a alguien como responsable de un delito ante la autoridad, le impute un hecho falso o simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrá prisión de seis meses a tres años y de 10 a 50 días multa.
 
-### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 325.
 
@@ -3921,7 +3925,7 @@ Cuando la evasión de presos la propicien dos o más personas, la punibilidad pr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
-### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
+### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
 
 ###### ARTICULO 330.
 
@@ -3931,7 +3935,7 @@ Al que favorezca el incumplimiento de la pena o medida de seguridad, se le impon
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
-### CAPITULO IV. DELITOS ELECTORALES COMETIDOS POR SERVIDORES PUBLICOS
+### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
 
 ###### ARTICULO 331.
 
@@ -3967,15 +3971,13 @@ c).- Los que estén ligados con el delincuente por amor, respeto, gratitud o est
 
 El encubrimiento se perseguirá a petición de parte ofendida, cuando se refiera a tipo penal también perseguible por querella.
 
-### CAPITULO V. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS PARTIDISTAS
+### CAPITULO IV. DELITOS ELECTORALES COMETIDOS POR SERVIDORES PUBLICOS
 
 ###### ARTICULO 332.
 
 Al que para hacer efectivo un derecho o pretendido derecho que debe ejercitar por vía legal, empleare violencia, se le aplicará prisión de tres meses a tres años y de 10 a 40 días multa. Este delito se perseguirá a petición de parte ofendida.
 
-### CAPITULO ÚNICO. USURPACIÓN DE IDENTIDAD
-
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
+### CAPITULO V. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS PARTIDISTAS
 
 ###### ARTICULO 333.
 
@@ -4002,6 +4004,10 @@ Los litigantes sólo cometerán estos delitos, cuando no sean ostensiblemente pa
 ## TITULO VIGESIMO. DE LOS DELITOS EN MATERIA ELECTORAL
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE JULIO DE 2018)</small>
+
+### CAPITULO ÚNICO. USURPACIÓN DE IDENTIDAD
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2018)</small>
 
 ###### ARTICULO 334.
 
@@ -4546,5 +4552,11 @@ SEGUNDO. Los procedimientos penales iniciados antes de la entrada en vigor del p
 P.O. 30 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NUM. 465 "QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 202 QUE ADICIONA EL CAPÍTULO X USO INDEBIDO DE LOS SERVICIOS DE EMERGENCIA, AL TÍTULO DÉCIMO SÉPTIMO DEL LIBRO SEGUNDO Y LOS ARTÍCULOS 321 TER Y 321 QUATER, Y SE DEROGA EL TITULO SEXTO DEL LIBRO SEGUNDO, DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
