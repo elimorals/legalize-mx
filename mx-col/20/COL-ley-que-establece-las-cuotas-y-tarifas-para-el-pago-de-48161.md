@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48161"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2018-02-28"
+last_updated: "2019-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA
 
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 316/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 138, POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 10 Y LA FRACCIÓN III AL ARTÍCULO 11, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO, DEL MUNICIPIO DE MANZANILLO, COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TRES DE SEPTIEMBRE DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 25 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -437,7 +441,7 @@ I.- Suministro de agua a barcos.- Comprende las tomas que sean utilizadas para s
 
 Los usuarios de los servicios de agua potable pagarán los derechos por la conexión a la red, de conformidad con las siguientes cuotas:
 
-I.- Contratación individual tratándose de tomas de 1/2” de diámetro:
+I.- Contratación individual tratándose de tomas de 1/2" de diámetro:
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -477,7 +481,7 @@ i) Uso industrial 55.5749
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-j) Uso comercial “B” 19.062
+j) Uso comercial "B" 19.062
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -507,15 +511,23 @@ a).- Urbanizaciones y nuevas áreas:
 
 3.- Todas aquellas personas tanto físicas como jurídicas, que resulten beneficiadas y soliciten hacer uso de los servicios que generen todas aquellas obras efectuadas por la CAPDAM, bajo el sistema de cooperación, deberán de cubrir además de lo estipulado en el presente artículo, la cantidad de 1,838.97 por una sola vez por cada litro por segundo que dichas personas requieran.
 
-En apoyo a los programas de fomento a la vivienda de interés social y popular con base en el Acuerdo de Coordinación Especial para el fomento y Desregulación de la Vivienda, se otorgará una reducción del 50 por ciento en los derechos de incorporación a los fraccionamientos y desarrollos habitacionales de este tipo.
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 316/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 138 POR EL QUE SE ADICIONA LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-En cualquiera de los casos comprendidos en este artículo se deberá recabar la factibilidad técnica por parte de la CAPDAM.
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
+
+IV. CUANDO SE TRATE DE LOS SERVICIOS POR LA CONEXIÓN A LA RED DE AGUA POTABLE DE ESCUELAS PERTENECIENTES AL SISTEMA DE EDUCACIÓN PÚBLICA DEL ESTADO O DE LA FEDERACIÓN, QUEDARÁN EXENTOS DE PAGAR LOS DERECHOS CORRESPONDIENTES.
+
+EN APOYO A LOS PROGRAMAS DE FOMENTO A LA VIVIENDA DE INTERÉS SOCIAL Y POPULAR CON BASE EN EL ACUERDO DE COORDINACIÓN ESPECIAL PARA EL FOMENTO Y DESREGULACIÓN DE LA VIVIENDA, SE OTORGARÁ UNA REDUCCIÓN DEL 50 POR CIENTO EN LOS DERECHOS DE INCORPORACIÓN A LOS FRACCIONAMIENTOS Y DESARROLLOS HABITACIONALES DE ESTE TIPO.
+
+EN CUALQUIERA DE LOS CASOS COMPRENDIDOS EN ESTE ARTÍCULO SE DEBERÁ RECABAR LA FACTIBILIDAD TÉCNICA POR PARTE DE LA CAPDAM.
 
 ###### ARTICULO 11.
 
 Los usuarios de los servicios de agua potable, pagarán por la conexión a la red de alcantarillado cuando la descarga se realice por abajo de las concentraciones permisibles conforme a las normas técnicas ecológicas y las condiciones particulares de descarga vigentes, los derechos conforme a las siguientes cuotas:
 
-I.- Contratación individual tratándose de descargas de aguas residuales con diámetro no mayor a 6”, para usuarios con toma de agua de 1/2”.
+I.- Contratación individual tratándose de descargas de aguas residuales con diámetro no mayor a 6", para usuarios con toma de agua de 1/2".
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -543,7 +555,7 @@ f) Uso industrial 44.8342
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
-g) Uso comercial “B” 14.2240
+g) Uso comercial "B" 14.2240
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -561,9 +573,17 @@ En todas aquellas zonas en que no se cuente con el servicio de alcantarillado sa
 
 En caso de que el fraccionador no desee realizar la construcción de la planta de tratamiento en su desarrollo deberá de pagar una cuota adicional de 20.2085 por vivienda, a fin de expedir la factibilidad de saneamiento. El monto de lo captado por este concepto será destinado a la construcción de plantas de tratamiento por parte de la CAPDAM.
 
-En apoyo a los programas de fomento a la vivienda de interés social y popular con base en el Acuerdo de Coordinación Especial para el fomento y Desregulación de la Vivienda, se otorgará una reducción del 50 por ciento en los derechos de incorporación a los fraccionamientos y desarrollos habitacionales de este tipo.
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 316/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 138 POR EL QUE SE ADICIONA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-En cualquiera de los casos comprendidos en este artículo se deberá recabar la factibilidad técnica por parte de la CAPDAM.
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
+
+III. CUANDO SE TRATE DE LOS SERVICIOS POR LA CONEXIÓN A LA RED (SIC) ALCANTARILLADO Y DRENAJE DE ESCUELAS PERTENECIENTES AL SISTEMA DE EDUCACIÓN PÚBLICA DEL ESTADO O DE LA FEDERACIÓN, QUEDARÁN EXENTOS DE PAGAR LOS DERECHOS CORRESPONDIENTES.
+
+EN APOYO A LOS PROGRAMAS DE FOMENTO A LA VIVIENDA DE INTERÉS SOCIAL Y POPULAR CON BASE EN EL ACUERDO DE COORDINACIÓN ESPECIAL PARA EL FOMENTO Y DESREGULACIÓN DE LA VIVIENDA, SE OTORGARÁ UNA REDUCCIÓN DEL 50 POR CIENTO EN LOS DERECHOS DE INCORPORACIÓN A LOS FRACCIONAMIENTOS Y DESARROLLOS HABITACIONALES DE ESTE TIPO.
+
+EN CUALQUIERA DE LOS CASOS COMPRENDIDOS EN ESTE ARTÍCULO SE DEBERÁ RECABAR LA FACTIBILIDAD TÉCNICA POR PARTE DE LA CAPDAM.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -854,6 +874,16 @@ P.O. 28 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 452 POR EL QUE SE REFORMA EL TRANSITORIO SEGUNDO DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+(NOTA: EL 15 DE AGOSTO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 316/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 138, POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 10 Y LA FRACCIÓN III AL ARTÍCULO 11, DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO, DEL MUNICIPIO DE MANZANILLO, COLIMA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TRES DE SEPTIEMBRE DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 25 DE AGOSTO DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+P.O. 3 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 138 POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 10 Y LA FRACCIÓN III AL ARTÍCULO 11, AMBOS DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE MANZANILLO, COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
 
 ###### ARTICULO UNICO.
 
