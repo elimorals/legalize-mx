@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2019-04-09"
+last_updated: "2019-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -2247,11 +2247,11 @@ IX. Las demás que señale la ley.
 
 El Tribunal Electoral del Estado hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Art. 71.
 
-El Tribunal Electoral se integrará por cinco magistrados, de entre los cuales será electo, por ellos mismos, su Presidente.
+El Tribunal Electoral se integrará por tres magistrados, de entre los cuales será electo, por ellos mismos, su Presidente.
 
 Las sesiones de resolución serán públicas.
 
@@ -3978,3 +3978,13 @@ PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Las reformas en materia de revocación de mandato entrarán en vigor una vez que la Constitución Política de los Estados Unidos Mexicanos contemple dicha figura en las entidades federativas.
 
 Una vez entrando en vigor el mecanismo de revocación de mandato, su regulación se ajustará en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 3 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27269/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO ACUERDO NÚMERO 28-LXII-19, EMITIDO POR EL CONGRESO DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. En respeto a la estabilidad laboral de los Magistrados que integran el Tribunal Electoral del Estado de Jalisco, el Pleno se integrará por 03 tres Magistrados una vez que fenezca el nombramiento de los que fueron designados por el Senado de la República el 02 dos de Octubre del 2014 dos mil catorce por el periodo de 05 cinco años.
+
+TERCERO. El Tribunal Electoral deberá de realizar las modificaciones y adecuaciones reglamentarias, presupuestales y administrativas necesarias para dar el cumplimiento debido al presente decreto.
