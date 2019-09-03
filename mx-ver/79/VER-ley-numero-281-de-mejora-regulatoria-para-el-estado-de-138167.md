@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-281-de-mejora-regulatoria-para-el-estado-de-138167"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-12"
-last_updated: "2019-08-12"
+last_updated: "2019-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 281 DE MEJORA REGULATORIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE SEPTIEMBRE DE 2019 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE MEJORA REGULATORIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 3 DE SEPTIEMBRE DE 2019.]</small>
 
 Ley publicada en el Número Extraordinario 320 de la Gaceta Oficial del Estado de Veracruz, el lunes 12 de agosto de 2019.
 
@@ -277,9 +277,11 @@ X. Aprobar, a propuesta de la Comisión, el Reglamento Interior del Consejo; y
 
 XI. Las demás que establezcan esta Ley u otras disposiciones aplicables.
 
+> <small>(F. DE E., G.O. 3 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 14.
 
-Los integrantes señalados en el artículo 12 de la presente ley podrán nombrar a un suplente que solamente deberá ser de nivel jerárquico inmediato inferior, y tendrá derecho a voz y voto.
+Los integrantes señalados en el artículo 11 de la presente ley podrán nombrar a un suplente que solamente deberá ser de nivel jerárquico inmediato inferior, y tendrá derecho a voz y voto.
 
 ###### Artículo 15.
 
@@ -413,7 +415,9 @@ VII. Proponer al titular de la Secretaría el proyecto de Reglamento Interior de
 
 VIII. Expedir sus manuales de organización y las disposiciones estratégicas de carácter general, organizacional y administrativo; y
 
-IX. Las demás que le confieran esta Ley, Reglamento, el Reglamento Interior de la Comisión, el Consejo y demás disposiciones aplicables.
+> <small>(F. DE E., G.O. 3 DE SEPTIEMBRE DE 2019)</small>
+
+IX. Las demás que le confieran esta Ley, su Reglamento, el Reglamento Interior de la Comisión, el Consejo y demás disposiciones aplicables.
 
 ### CAPÍTULO V. De los Municipios
 
@@ -481,7 +485,9 @@ V. Proponer las acciones necesarias para optimizar el proceso de mejora regulato
 
 VI. Aprobar la creación de mesas temáticas de mejora regulatoria para tratar y solucionar aspectos específicos de esta política pública;
 
-VII. Formular, para su aprobación por el ayuntamiento, el Reglamento de Mejora Regulatoria Municipal, que se incluirá (sic) los términos para la operación del Consejo; y
+> <small>(F. DE E., G.O. 3 DE SEPTIEMBRE DE 2019)</small>
+
+VII. Formular, para su aprobación por el ayuntamiento, el Reglamento de Mejora Regulatoria Municipal, en el que se incluirán los términos para la operación del Consejo; y
 
 VIII. Las demás que le confiera esta Ley y demás disposiciones jurídicas aplicables.
 
