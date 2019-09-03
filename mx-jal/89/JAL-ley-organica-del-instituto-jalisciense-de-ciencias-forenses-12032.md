@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-jalisciense-de-ciencias-forenses-120
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-07"
-last_updated: "2019-05-18"
+last_updated: "2019-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2019.
 
-Ley publicada en la Sección Segunda, del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 1998.
 
 Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
@@ -203,31 +203,31 @@ IV. La Contraloría.
 
 ### Capítulo IV. De la Junta de Gobierno y sus atribuciones
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 12 DE NOVIEMBRE DE 2015, PÁGINAS DE LA 7 A LA 8.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
 
-###### Artículo 8º.
+###### Artículo 8°.
 
-La Junta de Gobierno es la primera autoridad del Instituto. Se integrará por once vocalías honoríficas y sus respectivos suplentes, con derecho a voz y voto, conforme a la siguiente relación:
+La Junta de Gobierno es la primera autoridad del Instituto. Se integrará por diez vocalías honoríficas y sus respectivos suplentes, con derecho a voz y voto, conforme a la siguiente relación:
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
 
-I. El Titular de la Secretaría General de Gobierno, quien presidirá la Junta;
+I. El Titular de la Coordinación General Estratégica de Seguridad, quien presidirá la Junta;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
 
-II. Titular de la Secretaría de Planeación, Administración y Finanzas;
+II. El Titular de la Secretaría de la Hacienda Pública;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
 
-III. Titular de la Procuraduría Social;
+III. El Titular de la Procuraduría Social del Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
 
-IV. Titular de la Comisaría de Seguridad Pública;
+IV. El Titular de la Secretaría de Seguridad;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2019)</small>
 
-V. El Secretario de Salud;
+V. El Titular de la Secretaría de Salud;
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -744,3 +744,9 @@ P.O. 18 DE MAYO DE 2019.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo. Se conformará una Comisión Especial integrada por la autora de la iniciativa, la Presidenta de la Comisión de Estudios Legislativos y Reglamentos y un integrante de cada Grupo Parlamentario para que en conjunto con las autoridades correspondientes se celebre un acto solemne en el cual se lleve a cabo la develación de las letras del Instituto Jalisciense de Ciencias Forenses, Dr. Jesús Mario Rivas Souza, donde las autoridades del mismo lo señalen.
+
+P.O. 3 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27355/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8° DE LA LEY ORGÁNICA DEL INSTITUTO JALISCIENSE DE CIENCIAS FORENSES, DR. JESÚS MARIO RIVAS SOUZA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
