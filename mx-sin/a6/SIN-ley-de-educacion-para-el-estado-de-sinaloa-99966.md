@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-99966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-26"
-last_updated: "2018-10-05"
+last_updated: "2019-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 26 de marzo de 2014.
 
@@ -132,6 +132,10 @@ I. Contribuir al desarrollo integral del individuo, para que ejerza plena y resp
 II. Favorecer el desarrollo de facultades para adquirir conocimientos, así como la capacidad de observación, análisis y reflexión críticos;
 
 III. Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del Estado y del País;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2019)</small>
+
+III Bis. Promover el estudio y análisis de los contenidos de la Constitución Política de los Estados Unidos Mexicanos, y de la Constitución Política del Estado de Sinaloa, entre la población estudiantil de los diferentes niveles educativos;
 
 IV. Promover, mediante la enseñanza, el conocimiento de la pluralidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas.
 
@@ -2068,3 +2072,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. En los niveles de educación básica, normal, media superior y superior, las autoridades educativas, en el ámbito de su competencia, establecerán en un plazo no mayor a 180 días, criterios generales para realizar los ajustes razonables que garanticen la educación inclusiva, con atención al principio de progresividad.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 261 POR EL QUE SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
