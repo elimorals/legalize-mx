@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-etica-de-la-universidad-politecnica-del-estado-de-101
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-18"
-last_updated: "2017-04-26"
+last_updated: "2019-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MOR"
 ---
 # CODIGO DE ETICA DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 4 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA UNIVERSIDAD POLITÉCNICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el miércoles 18 de junio de 2014.
 
@@ -211,3 +213,11 @@ P.O. 26 DE ABRIL DE 2017.
 PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO. Dado en las instalaciones de la Universidad Politécnica del Estado de Morelos, en el Municipio de Jiutepec, Estado de Morelos, a los 06 días del mes de Abril del año 2017.
+
+P.O. 4 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CODIGO DE CONDUCTA DE LA UNIVERSIDAD POLITECNICA DEL ESTADO DE MORELOS”.]
+
+PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abroga el Código de Ética de la Universidad Politécnica del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5491, de fecha veintiséis de abril de dos mil diecisiete.
