@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2019-07-22"
+last_updated: "2019-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -3677,7 +3677,7 @@ III. Cumplir con la estatura mínima requerida y con peso corporal acorde con su
 
 IV. Tener entre 18 a 33 años de edad;
 
-V. No contar con tatuajes permanentes que resulten visibles aún vistiendo el pantalón y la camisa de manga corta de la policía preventiva;
+V. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2019)
 
 VI. Saber conducir vehículos automotores y tener licencia de manejo vigente;
 
@@ -4056,3 +4056,9 @@ Los procedimientos iniciados por el delito de tortura antes de la entrada en vig
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 297 QUE DEROGA LA FRACCIÓN V DEL ARTÍCULO 244, DE LA LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
