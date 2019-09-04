@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-secretaria-de-desarrollo-urbano-y-1307
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-18"
-last_updated: "2018-09-18"
+last_updated: "2019-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO URBANO Y METROPOLITANO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO URBANO Y METROPOLITANO, PUBLICADO EN LA G.G. DE 4 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO URBANO Y METROPOLITANO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2019 (SIN EFECTOS).
 
 Código publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el martes 18 de septiembre de 2018.
 
@@ -679,3 +681,15 @@ LIC. PAULINA PINEDA NAVA
 SUBDIRECCIÓN DE REGULARIZACIÓN Y VOCAL DEL COMITÉ
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 4 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO URBANO Y METROPOLITANO”.]
+
+PRIMERO. Publíquese el presente Código en el Periódico Oficial “Gaceta del Gobierno".
+
+SEGUNDO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se deja sin efectos el Código de Conducta de los Servidores Públicos de la Secretaría de Desarrollo Urbano y Metropolitano, publicado en el Periódico Oficial “Gaceta del Gobierno”, en fecha 18 de septiembre de 2018.
