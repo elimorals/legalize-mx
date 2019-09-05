@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2018-05-10"
+last_updated: "2019-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -255,7 +255,9 @@ IX. El Instituto Mexiquense del Emprendedor;
 
 X. El Poder Judicial;
 
-XI. La Comisión Legislativa de Equidad y Género de la Legislatura;
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2019)</small>
+
+XI. La Legislatura a través de la Presidencia de la Comisión Legislativa Para la Igualdad de Género y de la o las Comisiones Especiales que se relacionen con el objeto y atribuciones del Sistema Estatal;
 
 XII. Los organismos autónomos;
 
@@ -652,3 +654,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Las dependencias del Ejecutivo y sus organismos auxiliares, los Poderes Legislativo y Judicial, los organismos autónomos y los municipios, crearán las Unidades de Igualdad de Género y Erradicación de la Violencia con base a la suficiencia presupuestal correspondiente.
 
 CUARTO. Las autoridades estatales y municipales realizarán las adecuaciones normativas necesarias para el cumplimiento del presente Decreto.
+
+G.G. 5 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 80.- POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 35 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO Y LA FRACCIÓN XI DEL ARTÍCULO 11 DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
