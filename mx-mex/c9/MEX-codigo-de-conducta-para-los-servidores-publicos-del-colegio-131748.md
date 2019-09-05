@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-para-los-servidores-publicos-del-colegio-131
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-15"
-last_updated: "2018-11-15"
+last_updated: "2019-09-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA PARA LOS SERVIDORES PUBLICOS DEL COLEGIO DE BACHILLERES DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 5 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 15 de noviembre de 2018.
 
@@ -448,3 +450,15 @@ M. EN A.P. ARMANDO MÉNDEZ GUTIÉRREZ
 DIRECTOR GENERAL Y PRESIDENTE DEL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTO DE INTERESES DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 5 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL COLEGIO DE BACHILLERES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Código en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Código entrará en vigencia al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Código de Conducta para los Servidores Públicos del Colegio de Bachilleres del Estado de México, publicado en fecha 15 de noviembre de 2018, en el Periódico Oficial "Gaceta del Gobierno", así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
