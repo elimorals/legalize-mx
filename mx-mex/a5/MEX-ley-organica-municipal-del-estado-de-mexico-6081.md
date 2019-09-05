@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2019-06-12"
+last_updated: "2019-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -786,6 +786,10 @@ XXIII. Preservar, conservar y restaurar el medio ambiente; así como generar las
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
 
 Además, podrán fomentar una mayor asignación presupuestal para mantenimiento de parques, jardines e infraestructura municipal procurando que éste sea destinado a la generación de empleos para los adultos mayores en trabajos de conservación y mantenimiento.
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2019)</small>
+
+En los municipios con población forestal, se deberá formular, aprobar, implementar y ejecutar los programas y acciones necesarias para un desarrollo forestal sustentable, que promueva el cuidado ambiental a través de la conservación de los bosques y su aprovechamiento racional y ordenado en beneficio de las condiciones de vida de sus propietarios y posesionarios, en apego con la Ley General de Desarrollo Forestal Sustentable y en colaboración con dependencias del orden federal y estatal.
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -4916,3 +4920,11 @@ G.G. 12 DE JUNIO DE 2019.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 5 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 81.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO A LA FRACCIÓN XXIII DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MEXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
