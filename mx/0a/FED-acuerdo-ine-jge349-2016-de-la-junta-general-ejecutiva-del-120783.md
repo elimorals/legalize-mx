@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-jge349-2016-de-la-junta-general-ejecutiva-del-12078
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-04-10"
-last_updated: "2017-04-10"
+last_updated: "2019-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120783&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2017-03-28"
 
 INE/JGE349/2016. ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE ORGANIZACIÓN GENERAL DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 6 DE SEPTIEMBRE DE 2019, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE SEPTIEMBRE DE 2019.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 10 de abril de 2017.
 
@@ -58,3 +60,23 @@ Acuerdo: http://www.ine.mx/archivos2/DS/recopilacion/JGEor201612-19ac_01P07-01.p
 Manual: http://www.ine.mx/archivos2/DS/recopilacion/JGEor201612-19ac_01P07-01x01.pdf
 
 Ciudad de México, a 28 de marzo de 2017.- El Director Ejecutivo de Administración, Bogart Montiel Reyna.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE SEPTIEMBRE DE 2019.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO INE/JGE96/2019 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL INSTITUTO NACIONAL ELECTORAL, APROBADO MEDIANTE ACUERDO INE/JGE349/2016", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO.- Se aprueba la actualización del Manual de Organización General del Instituto Nacional Electoral, aprobado mediante Acuerdo INE/JGE349/2016, el cual se anexa al presente Acuerdo y forma parte integrante del mismo, junto con su Dictamen Técnico.
+
+SEGUNDO.- El presente Manual entrará en vigor al día siguiente de su aprobación por la Junta General Ejecutiva (JGE).
+
+TERCERO.- Quedarán sin efecto, todas aquellas disposiciones que se contrapongan al Manual al que se refiere el Punto de Acuerdo Primero (sic) del presente.
+
+CUARTO.- Se instruye a la Dirección Ejecutiva de Administración para que haga del conocimiento de todas las unidades administrativas del Instituto Nacional Electoral el presente Acuerdo.
+
+QUINTO.- El Acuerdo INE/JGE349/2016 abrogó el Manual aprobado según Acuerdo JGE186/2013 de fecha 11 de diciembre de 2013, con excepción de los objetivos y funciones de Director de Área hasta Jefe de Departamento de las áreas adscritas a las unidades administrativas del Instituto Nacional Electoral, los cuales quedarán vigentes, en tanto no se emitan los Manuales de Organización específicos correspondientes.
+
+SEXTO.- Publíquese el presente Acuerdo, en el Diario Oficial de la Federación, en la NormaINE y en el portal de internet del Instituto Nacional Electoral, así como un extracto del mismo, con la liga electrónica para la ubicación del Anexo en el DOF.
