@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2019-09-05"
+last_updated: "2019-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE SEPTIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE SEPTIEMBRE DE 2019.]</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2389,7 +2389,7 @@ La pena prevista en este artículo se incrementará hasta una mitad de la que co
 
 Cuando en el delito cometido esté implicado un servidor público se impondrá de cuatro a ocho años de prisión y de trescientos a seiscientos días multa, así como inhabilitación para desempeñar algún empleo, cargo o comisión en el servicio público por un plazo igual a la pena privativa de libertad impuesta.
 
-> <small>(ADICIONADO [N. DE E. REPÚBLICADO], G.G. 5 DE SEPTIEMBRE DE 2019)</small>
+> <small>(F. DE E., G.G. 6 DE SEPTIEMBRE DE 2019 )</small>
 
 ## TITULO SEGUNDO. DELITOS CONTRA LA COLECTIVIDAD
 
@@ -2767,11 +2767,11 @@ También comete este delito la persona que dolosamente obstruya por cualquier me
 
 Al responsable de este delito se le impondrá una pena de cinco a diez años de prisión y de mil a mil quinientos días multa, la destitución del cargo e inhabilitación de cinco a diez años para desempeñar empleo, cargo o comisión públicos.
 
-> <small>(ADICIONADO [N. DE E. REPÚBLICADO], G.G. 5 DE SEPTIEMBRE DE 2019)</small>
+> <small>(F. DE E., G.G. 6 DE SEPTIEMBRE DE 2019)</small>
 
 SUBTITULO CUARTO
 
-DELITOS CONTRA EL PLENO DESARROLLO Y LA DIGNIDAD DE LA PERSONA
+DELITOS CONTRA EL PLENO DESARROLLO Y LA DIGNIDAD DE LAS PERSONAS
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -2959,11 +2959,11 @@ Este delito se perseguirá por querella de la parte de la ofendida.
 
 A quien coaccione, hostigue o exija a otra persona, la elaboración o remisión de imágenes o grabaciones de voz o contenidos audiovisuales de naturaleza erótico, sexual o pornográfico bajo la amenaza de revelar, publicar, difundir o exhibir sin su consentimiento el material de la misma naturaleza que previamente la víctima le haya compartido directamente o que haya obtenido por cualquier otro medio, se le impondrá de tres a siete años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización.
 
-> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2019)</small>
+(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2019) (F. DE E., G.G. 6 DE SEPTIEMBRE DE 2019)
 
 ###### Artículo 211 Quinquies.
 
-Las penas a que se refieren los dos artículos anteriores, se aumentarán HASTA EL DOBLE cuando el delito se cometa en contra de una persona menor de dieciocho años o que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, aun y cuando mediare su consentimiento.
+Las penas a que se refieren los dos artículos anteriores, se aumentarán hasta el doble cuando el delito se cometa en contra de una persona menor de dieciocho años o que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, aun y cuando mediare su consentimiento.
 
 Esta conducta será perseguida de oficio.
 
