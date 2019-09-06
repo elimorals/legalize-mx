@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2019-09-04"
+last_updated: "2019-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE SEPTIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2019.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE SEPTIEMBRE DE 2019 NO APLICA AL ARTÍCULADO DEL DECRETO 463 PUBLICADO EN EL P.O. DEL 4 DE SEPTIEMBRE DE 2019.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -715,7 +715,7 @@ XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecno
 
 XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo.
 
-(ADICIONADA, P.O. 28 DE AGOSTO DE 2019) (REPUBLICADA, P.O. 4 DE SEPTIEMBRE DE 2019)
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
 XXII. Instaurar acciones encaminadas al fortalecimiento del núcleo familiar, a fin de que todas las niñas, niños y adolescentes logren un adecuado desarrollo integral.
 
@@ -745,7 +745,7 @@ IX. Promover el valor de la justicia, de la observancia de la ley y de la iguald
 
 X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
 
-(ADICIONADA, P.O. 28 DE AGOSTO DE 2019) (REPUBLICADA, P.O. 4 DE SEPTIEMBRE DE 2019)
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
 XI. Impulsar en niñas, niños y adolescentes la importancia del fortalecimiento e Integración del núcleo familiar.
 
