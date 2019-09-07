@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-12383
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-21"
-last_updated: "2017-10-19"
+last_updated: "2019-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE OCTUBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Extra Periódico Oficial del Estado de Oaxaca, el jueves 21 de septiembre de 2017.
 
@@ -147,9 +145,13 @@ II. La práctica de auditorías sobre el desempeño para verificar el grado de c
 
 La fiscalización de la Cuenta Pública tiene el objeto establecido en esta Ley y se llevará a cabo conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 5.
 
 Tratándose de los informes de Resultados, específicos e individuales a que se refieren las fracciones XXI, XXII y XXIII del artículo 2 de ésta Ley, la información contenida en los mismos será publicada en la página de Internet del Órgano Superior de Fiscalización del Estado de Oaxaca, en formatos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, siempre y cuando no se revele información que se considere temporalmente reservada o que forme parte de un proceso de investigación, en los términos previstos en la legislación aplicable. La información reservada se incluirá una vez que deje de serlo.
+
+Respecto de los informes de Resultados, el mismo día de su presentación ante el Congreso, el Órgano Superior de Fiscalización del Estado de Oaxaca tendrá la obligación de publicarlos conforme a las reglas establecidas en el párrafo anterior, cumpliéndose el criterio de inmediatez.
 
 ###### Artículo 6.
 
@@ -567,13 +569,15 @@ En aquellos casos en que la Comisión detecte errores en el Informe de Resultado
 
 La Comisión podrá formular recomendaciones al Órgano Superior de Fiscalización del Estado de Oaxaca, las cuales serán incluidas en las conclusiones sobre el Informe de Resultados.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 49.
 
-La Comisión someterá a votación del Pleno el dictamen correspondiente a más tardar antes de la conclusión del segundo periodo ordinario de sesiones del año siguiente al de la presentación de la Cuenta Pública.
+El Congreso concluirá su revisión, dictamen y votación a más tardar el 15 de diciembre del año de la presentación de la Cuenta Pública del Estado.
 
-La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría, mismas que seguirán el procedimiento previsto en la presente Ley y el Código.
+La aprobación del dictamen que corresponda no suspende el trámite de las acciones promovidas por el Órgano Superior de Fiscalización del Estado de Oaxaca, mismas que seguirán el procedimiento previsto en la presente Ley y el Código.
 
-El dictamen deberá contar con el análisis pormenorizado de su contenido y estar sustentado en conclusiones técnicas del Informe de Resultados y recuperando las discusiones técnicas realizadas en la Comisión, para ello acompañará a su dictamen, en un apartado de antecedentes, el análisis realizado por la Comisión.
+El dictamen deberá contar con el análisis pormenorizado de su contenido y estar sustentado en conclusiones técnicas del Informe de Resultados, recuperando las discusiones técnicas realizadas en la Comisión; para ello acompañará a su dictamen en un apartado de antecedentes, el análisis realizado por la Comisión.
 
 ### Capítulo VI. De la revisión de las situaciones excepcionales
 
@@ -1224,3 +1228,15 @@ SEPTIMO.- Para dar cumplimiento a lo dispuesto en el artículo 12 de la presente
 "Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 30 de Agosto de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Donovan Rito García, Secretario.- Dip. Rosa Elía Romeron Guzmán, Secretaria.- Dip. Paola Gutiérrez Galindo, Secretaria.- Rúbricas."
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 13 de Septiembre de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 750.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no lo estén expresamente.
