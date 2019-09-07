@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2019-08-17"
+last_updated: "2019-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -201,9 +201,9 @@ VIII. La violencia simbólica: Es la que se ejerce a través de patrones estereo
 
 IX. La Violencia cibernética: Acción que mediante el uso de tecnologías de la información y comunicación, redes sociales, páginas web, correo electrónico, blogs, mensajes de texto, videos, o cualquiera otra, lesionen, afecten o dañen la dignidad, seguridad, libertad e integridad de las mujeres en cualquier ámbito de su vida.
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-X. La violencia obstétrica: Es toda acción u omisión por parte del personal de salud, público o privado, que atenta contra el derecho a la salud sexual, los derechos reproductivos de las mujeres durante el embarazo, el parto y el puerperio y su autonomía para ejercerlos de manera informada; así como el abuso de medicalización y patologización de los procesos naturales, trayendo consigo la pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y su sexualidad, daño físico, psicológico, o la muerte de la madre o del producto por negligencia o impericia, y
+X. La violencia obstétrica: Es toda acción u omisión por parte del personal de salud, público o privado, que atenta contra el derecho a la salud sexual, los derechos reproductivos de las mujeres durante el embarazo, el parto y el puerperio y su autonomía de los procesos naturales, trayendo consigo la pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y su sexualidad, daño físico, psicológico, o la muerte de la madre o del producto por negligencia o impericia, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -233,7 +233,9 @@ IV. (DEROGADA, P.O. 10 DE NOVIEMBRE DE 2018)
 
 V. Proteger los derechos de la víctima y vigilar que el agresor garantice la reparación del daño;
 
-VI. Ordenar la separación y alejamiento del agresor con respecto a la víctima; y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+VI. Ordenar la separación y alejamiento del agresor con respecto a la víctima; en términos del Código Nacional de Procedimientos Penales, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, la Ley General de Víctimas y la presente Ley.
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -247,9 +249,43 @@ Se prohíbe la aplicación de los mecanismos de mediación, conciliación o alte
 
 ### Capítulo Segundo. En el Ámbito Institucional y Político
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 10.
 
-Violencia en el ámbito institucional, son los actos u omisiones de las y los servidores públicos del Estado o los Municipios que en forma intencional discriminen, dilaten, obstaculicen, entorpezcan o impidan el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar la violencia de género en cualquiera de sus tipos y modalidades.
+Violencia institucional: Son los actos u omisiones de las y los servidores públicos del Estado o los Municipios que discriminen o tengan como fin dilatar, obstaculizar, entorpecer o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 10 Bis.
+
+A efecto de erradicar la violencia obstétrica como parte de la violencia institucional, el Gobierno del Estado, establecerá políticas para que, en todos los centros de atención médica del Sistema Estatal de Salud, sean públicos o privados, realicen las acciones procedentes para garantizar el derecho de las mujeres a una vida libre de violencia obstétrica.
+
+Son actos de violencia obstétrica, los siguientes:
+
+I. La negativa, el retraso o la omisión injustificada de brindar atención médica oportuna y eficaz a las mujeres en el embarazo, parto, puerperio o en emergencias obstétricas;
+
+II. El trato deshumanizado, denigrante, discriminatorio o negligente cuando una mujer solicita asesoramiento o requiere atención durante el embarazo, el parto o el puerperio;
+
+III. Alterar el proceso natural del parto de bajo riesgo mediante técnicas de aceleración o de inducción al trabajo de parto normal, o la ruptura artificial de las membranas con el solo motivo de adelantar el parto;
+
+IV. El uso irracional de procedimientos médicos como la episiotomía;
+
+V. Practicar el parto por vía cesárea existiendo condiciones para el parto natural, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+
+VI. Imponer algún método anticonceptivo, ya sea temporal o permanente, especialmente durante la atención del parto, sin el consentimiento informado de la mujer;
+
+VII. Negarse a administrar analgésicos cuando no existe impedimento médico para ello;
+
+VIII. Obligar a la mujer a parir en una posición en específico, cuando existan los medios técnicos para que lo realice en la posición que ella elija;
+
+IX. Obstaculizar sin causa médica justificada el apego precoz del recién nacido con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
+
+X. Utilizar a la mujer como recurso didáctico sin su consentimiento y sin ningún respecto (sic) a su dignidad humana y derechos a la privacidad;
+
+XI. Retener a la mujer o al recién nacido, en los centros de atención médica del Sistema Estatal de Salud, debido a su incapacidad de pago, y
+
+XII. Cualquier otro análogo que, atente contra la autonomía de las mujeres a ejercer sus derechos reproductivos y sexuales, les niegue el acceso a la salud reproductiva de calidad durante el embarazo, el parto y el puerperio, y el derecho a la información respecto de los procedimientos médicos y quirúrgicos a los que están expuestas.
 
 ###### Artículo 11.
 
@@ -269,7 +305,9 @@ c) Proporcionen a las mujeres candidatas o autoridades electas o designadas info
 
 d) Eviten por cualquier medio que las mujeres electas, titulares o suplentes, o designadas a una función pública, asistan a la toma de protesta de su encargo, así como a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones, impidiendo o suprimiendo el derecho a voz y voto en igualdad de condición que los hombres.
 
-e) Proporcionen al instituto electoral datos falsos o información incompleta de la identidad o sexo de la persona candidata.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+e) Proporcionen al Instituto Nacional Electoral o Estatal, según corresponda datos falsos o información incompleta de la identidad o sexo de la persona candidata.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2017)</small>
 
@@ -320,6 +358,18 @@ u) Impedir o restringir su incorporación o acceso al cargo o función, para el 
 > <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2017)</small>
 
 v) Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos, en razón de género.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 11 Ter.
+
+El Estado y los Municipios con el propósito de prevenir, atender, investigar, sancionar y erradicar la violencia por razones de género, establecerán en el marco de sus competencias:
+
+I. Políticas para prevenir la discriminación en la atención de las mujeres en los servicios públicos y programas sociales;
+
+II. Erradicar las practicas, prejuicios o costumbres de las y los funcionarios públicos que impiden o limitan el ejercicio de los derechos de las mujeres, y
+
+III. Capacitar a las y los funcionarios públicos sobre los derechos humanos de las mujeres y la violencia de género.
 
 ### Capítulo Tercero. En el Ámbito Laboral y Docente
 
@@ -383,7 +433,9 @@ I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
 
 II. Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
 
-III. Crear procedimientos administrativos claros y precisos en las escuelas y los centros laborales, para sancionar estos ilícitos e inhibir su comisión;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+III. Establecer un Protocolo para la atención e investigación del hostigamiento y acoso sexual en la Administración Pública, el sistema educativo y los centros laborales; así como crear procedimientos administrativos, para sancionar estos ilícitos e inhibir su comisión;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
@@ -409,13 +461,21 @@ VI. Implementar e imponer sanciones administrativas en el ámbito de sus compete
 
 Violencia en el ámbito social o en la comunidad, son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 19.
 
-El Estado y los Municipios deben garantizar a las mujeres la erradicación de la violencia social o en la comunidad, de conformidad con lo dispuesto en el capítulo III, Título Segundo de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+El Estado y los Municipios deben garantizar a las mujeres la erradicación de la violencia social o en la comunidad, a través de:
+
+I. La educación libre de estereotipos, prejuicios o costumbres que impidan el ejercicio de los derechos de las mujeres, así como la información que dé cuenta del riesgo que enfrentan las mujeres derivada de la discriminación y la violencia que prevalezca en la sociedad, y;
+
+II. El diseño de un sistema de monitoreo, mismo que deberá ser instaurado por el Sistema Estatal de Seguridad Pública, sobre violencia contra las mujeres en la comunidad.
 
 > <small>(ADICIONADO [N. DE E. COMPRENDE LOS ARTÍCULOS DEL 19 BIS AL 23], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 ### Capítulo Quinto. De las Ordenes de Protección a favor de la Víctima
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 19 Bis.
 
@@ -451,23 +511,35 @@ IV. Proporcionar un refugio seguro a las víctimas, e;
 
 V. Informar a las Instituciones Policiales o Ministerio Público de los casos de violencia que ocurran en los centros educativos.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 21.
 
-Las víctimas de violencia protegidas por esta Ley, tendrán los siguientes derechos:
+Las víctimas de cualquier tipo de violencia tendrán los derechos siguientes:
 
-I. Protección inmediata y efectiva por parte de las autoridades;
+I. Ser tratada con respecto (sic) a su integridad y al ejercicio pleno de sus derechos;
 
-II. Trato digno y respetuoso durante cualquier entrevista o actuación como víctima de violencia;
+II. Contar con protección inmediata y efectiva por parte de las autoridades;
 
-III. Atención legal necesaria para los trámites jurídicos relacionados con la violencia de la cual sea víctima;
+III. Recibir información veraz y suficiente que les permita decidir sobre las opciones de atención;
 
-IV. Atención médica y psicológica para la atención de las consecuencias generadas por la violencia;
+IV. Contar con asesoría jurídica gratuita y expedita. En caso de ser víctima de un delito contaran con un asesor jurídico en términos del Código Nacional de Procedimientos Penales;
 
-V. Acciones de asistencia social que contribuyan a su pleno desarrollo;
+V. Recibir información médica y psicológica;
 
-VI. Atención en un refugio temporal; y
+VI. Contar con un refugio, mientras lo necesite;
 
-VII. Las demás que establezcan esta Ley, su reglamento y otras disposiciones legales aplicables.
+VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+
+VIII. En los casos de violencia familiar, permanecer en el domicilio conyugal con sus hijas e hijos, salvo caso excepcional la autoridad propondrá remitir a las víctimas a un refugio;
+
+IX. A ser integrada en los programas sociales, educativos, de salud y económicos de que disponga el Estado o Municipio, y
+
+X. Los demás contenidos en la Ley General de Víctimas, Código Nacional de Procedimientos Penales y leyes relativas.
+
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
+
+La víctima no será obligada a participar en mecanismos de conciliación con su agresor
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2019)</small>
 
@@ -475,15 +547,21 @@ VII. Las demás que establezcan esta Ley, su reglamento y otras disposiciones le
 
 El Estado y los Municipios, impulsarán programas para difundir la cultura de defensa y protección a los derechos humanos de las mujeres y la no discriminación hacia ellas, debiendo contar para ello con instancias especializadas y personal calificado para la atención de las víctimas y supervivientes directas e indirectas de violencia por situación de género, además deberán coordinarse para la implementación de acciones y programas de desarrollo social y empoderamiento económico de los dependientes y familiares de las víctimas de feminicidio.
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 23.
 
-Para enfrentar y erradicar la violencia feminicida en un territorio determinado, la Declaratoria de Alerta de Violencia de Género, se solicitará y estará a lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+Alerta de violencia de género es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia de género en un Municipio o región determinada, ya sea ejercida por personas o por la propia comunidad. Tendrá como objetivo fundamental garantizar la seguridad de las mismas, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación, acciones o política pública, usos o costumbres que agravien sus derechos humanos, se solicitará y estará conforme lo dispuesto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ### Capítulo Primero. Del Sistema
 
 ###### Artículo 24.
 
-Las órdenes de protección, son actos de protección y de urgente aplicación en función del interés superior de la Víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad competente, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+Las órdenes de protección, son actos de protección y de urgente aplicación en función del interés superior de la Víctima y son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad judicial, el Ministerio Público o en caso de urgencia el Síndico Municipal, inmediatamente que conozca de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+
+El Ministerio Público y el Síndico Municipal en caso de urgencia, bajo su más estricta responsabilidad, ordenarán fundada y motivadamente la aplicación de las medidas de protección idóneas, cuando estime que el agresor representa un riesgo inminente en contra de la seguridad de la víctima, en términos del artículo 137 del Código Nacional de Procedimientos Penales, esta Ley y la Ley General, según corresponda.
+
+El Síndico Municipal, una vez que emita las órdenes de emergencia preventivas, según corresponda, hará del conocimiento del Ministerio Público, dentro de las veinticuatro horas siguientes, los hechos y el tipo de órdenes otorgadas, para que este asuma sus facultades constitucionales y legales, como representante de la sociedad ofendida.
 
 ###### Artículo 25.
 
@@ -765,7 +843,9 @@ III. Incorporar acciones afirmativas con carácter programático para lograr la 
 
 IV. Orientar y promover entre la comunidad las políticas y acciones de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-V. Validar los protocolos que rijan la operación de los refugios para la atención a mujeres víctimas de violencia y de los centros de reeducación para agresores;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+V. Validar los protocolos de actuación y de atención a mujeres en situación de violencia, los centros de reeducación para agresores, así como los relativos a la operación de refugio;
 
 VI. Promover la investigación científica con perspectiva de género en las materias propias de esta Ley;
 
@@ -795,7 +875,9 @@ XVI. Suscribir convenios de colaboración con los Consejos Municipales del Estad
 
 XVII. Aprobar el informe anual que rinda la Secretaría Ejecutiva del Sistema;
 
-XVIII. Promover la instalación de Unidades de Atención Integral, Refugios, Centros Reeducativos y módulos de información en las principales cabeceras distritales del Estado;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+XVIII. Promover la instalación de Unidades de Atención Integral, para las Mujeres; Centros de Atención y Refugios para mujeres víctimas de violencia; Centros Reeducativos y Módulos de Información sobre los derechos de las mujeres en los Municipios y principales cabeceras distritales del Estado;
 
 > <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
 
@@ -985,9 +1067,11 @@ XV. Evaluar el cumplimiento de los objetivos propuestos en el propio Programa; y
 
 XVI. Promover en la comunidad la cultura de denuncia de la violencia contra las mujeres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 52.
 
-El Programa guardará congruencia con los Instrumentos Internacionales, las disposiciones legales federales en la materia y las establecidas en esta Ley, además, contendrá entre otros los siguientes puntos:
+El Programa guardará congruencia con los Instrumentos Internacionales, las disposiciones legales federales en la materia y las establecidas en esta Ley, incorpore la perspectiva de género y la interculturalidad, además, contendrá entre otros los siguientes puntos:
 
 I. El diagnóstico de la situación actual de la violencia contra las mujeres en el Estado;
 
@@ -998,6 +1082,10 @@ III. Las estrategias a seguir para el logro de sus objetivos;
 IV. Las acciones o metas operativas correspondientes, incluyendo aquellas que sean objeto de coordinación con instituciones públicas o privadas; y
 
 V. Las unidades administrativas responsables de su ejecución.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+El programa deberá establecer los mecanismos de monitoreo, seguimiento y evaluación, así como el alcance derivado de su implementación. Además, establecerá las competencias entre las instancias estatales y municipales y los mecanismos de coordinación.
 
 ### Capítulo Tercero. De los Centros de Reeducación para Agresores
 
@@ -1207,7 +1295,9 @@ e) De las instituciones encargadas de promover los derechos humanos de las mujer
 
 Los resultados serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia de género;
 
-XI. Promover la cultura de denuncia de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+XI. Promover la cultura de denuncia de la violencia contra las mujeres y áreas especializadas en las instituciones de seguridad pública, procuración e impartición de justicia;
 
 XII. Organizar actividades públicas y sociales alusivas a la erradicación de la violencia contra las mujeres;
 
@@ -1337,15 +1427,19 @@ IX. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-X. Coadyuvar y participar en la operación y ejecución del programa “Alerta Rosa” en todo el estado;
+X. Coadyuvar y participar en la operación y ejecución del programa "Alerta Rosa" en todo el estado;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-XI. Colaborar con la Fiscalía General del Estado de Oaxaca, en la vigilancia del cumplimiento de las órdenes de protección que otorgue esta o los jueces y tribunales; y
+XI. Colaborar con la Fiscalía General del Estado de Oaxaca, en la vigilancia del cumplimiento de las órdenes de protección que otorgue esta o los jueces y tribunales;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-XII. Las demás previstas para el complimiento de la presente Ley.
+XII. Establecer áreas especializadas con personal capacitado y perspectiva de género para la atención de las mujeres víctimas de violencia de género, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+XIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 ###### Artículo 62.
 
@@ -1990,3 +2084,11 @@ P.O. 17 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 654.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO."]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 736.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Oaxaca.
