@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-municipal-del-estado-de-oaxaca-108199"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-05-09"
-last_updated: "2016-12-31"
+last_updated: "2019-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Código publicado en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de mayo de 2015.
 
@@ -59,7 +59,9 @@ La Federación, Entidades Federativas y Municipios, Dependencias, Órganos Autó
 
 Las personas que de conformidad con las leyes fiscales no estén obligadas a pagar contribuciones, únicamente tendrán las otras obligaciones que establezcan en forma expresa las propias leyes.
 
-A los actos y procedimientos administrativos de naturaleza fiscal previstos en este Código no les serán aplicables las disposiciones contenidas en la Ley de Justicia Administrativa para el Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+A los actos y procedimientos administrativos de naturaleza fiscal previstos en este Código no les serán aplicables las disposiciones contenidas en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 ###### Artículo 2.
 
@@ -395,7 +397,9 @@ XXIX. A ser informados, al inicio de las facultades de comprobación de las auto
 
 Se tendrá por informados a los contribuyentes sobre sus derechos, cuando les sea entregado un documento en que se mencionen los derechos del contribuyente y así se asiente en la actuación que corresponda.
 
-La omisión de lo dispuesto en esta fracción no afectará la validez de las actuaciones que lleve a cabo la autoridad fiscal, pero dará lugar a que se finque responsabilidad administrativa al servidor público que incurrió en la omisión, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+La omisión de lo dispuesto en esta fracción no afectará la validez de las actuaciones que lleve a cabo la autoridad fiscal, pero dará lugar a que se finque responsabilidad administrativa al servidor público que incurrió en la omisión, de conformidad con la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
 XXX. A corregir en cualquier momento su situación fiscal, incluso cuando se ejerzan por parte de las autoridades fiscales las facultades de comprobación que la ley les conceden (sic);
 
@@ -1641,11 +1645,15 @@ II. Por la de embargo, incluyendo el señalado en la fracción V del artículo 8
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco municipal.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a cinco salarios mínimos generales vigentes en el Estado, se cobrará esta cantidad.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a cinco veces el valor diario de la Unidad de Medida y Actualización, se cobrará esta cantidad.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven del embargo señalado en la fracción V del artículo 83 de este Código, que comprenderán los de transporte de los bienes embargados, avalúos, impresión y publicación de convocatorias y edictos, investigaciones, inscripciones, cancelaciones o solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Municipio y las contribuciones que se paguen por el Municipio para liberar de cualquier gravamen a los bienes que sean objeto de remate, o cualquier otro que no siendo de los previstos dentro del procedimiento aplicable, se eroguen con carácter extraordinario.
 
-En ningún, caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Municipio para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de dos salarios mínimos generales vigentes en el Estado elevados al año.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+En ningún, caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Municipio para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de dos veces el valor anual de la Unidad de Medida y Actualización.
 
 Los gastos de ejecución, tienen la finalidad de resarcir a la administración pública de los gastos que se originan al mantener y poner en movimiento el aparato administrativo necesario para rescatar a través del procedimiento administrativo de ejecución los créditos que siendo firmes en favor del Municipio, no sean pagados espontáneamente dentro de los plazos establecidos en este Código por el deudor, y se establecerán en cantidad líquida por la autoridad ejecutora, debiendo ser pagados junto con los demás créditos fiscales.
 
@@ -2329,9 +2337,11 @@ Son responsables de la comisión de las infracciones previstas en este Código l
 
 Cuando sean varios los responsables, deberán emitirse resoluciones independientes y cada uno deberá pagar el total de la multa que se imponga.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 179.
 
-Los servidores públicos de la administración pública municipal que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, para no incurrir en responsabilidad administrativa en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, lo comunicarán a la Tesorería, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
+Los servidores públicos de la administración pública municipal que en ejercicio de sus funciones conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, para no incurrir en responsabilidad administrativa en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, lo comunicarán a la Tesorería, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
 Tratándose de servidores públicos, la comunicación a que se refiere el párrafo anterior la harán en los plazos y forma establecidos en los procedimientos a que estén sujetas sus actuaciones.
 
@@ -2796,3 +2806,13 @@ P.O. 31 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil diecisiete, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 767.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
