@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2019-08-03"
+last_updated: "2019-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -189,7 +189,9 @@ b) A los predios no edificados que formen parte de una unidad comercial o indust
 
 El impuesto a pagar con base en los avalúos y modificaciones entrará en vigor a partir del bimestre siguiente a la fecha en que estos se hayan modificado. En los casos mencionados en la fracción I, inciso b) de (sic) artículo 7o. entrará en vigor a partir del bimestre siguiente a la fecha de celebración del contrato respectivo, aunque no se otorgue en escritura pública.
 
-El impuesto anual mínimo sobre la propiedad raíz rústica será de 1 salario mínimo diario y para la urbana de 2 salarios mínimos diarios.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+El impuesto anual mínimo sobre la propiedad raíz rústica será de 1 vez el valor diario de la Unidad de Medida y Actualización (UMA) y para la urbana de 2 veces el valor diario de la Unidad de Medida y Actualización (UMA).
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
@@ -393,7 +395,9 @@ III Tratándose de adquisiciones efectuadas a través del fideicomiso, cuando se
 
 IV Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
 
-En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Registro Público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en el Instituto de la Función Registral del Estado de Oaxaca, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
@@ -435,31 +439,33 @@ Son sujetos de este impuesto, las personas físicas o morales que realicen los a
 
 La base gravable para determinar el importe a pagar por concepto de este impuesto, lo será la superficie del predio atendiendo al tipo de fraccionamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 36.
 
-El impuesto sobre fraccionamiento y fusión de bienes inmuebles se causará y pagará aplicando las cuotas y tarifas previstas en las Leyes de Ingresos Municipales respectivas que al efecto propongan los Ayuntamientos a la Legislatura del Estado, y sólo para el caso de que no se publiquen estas, el impuesto se pagará por metro cuadrado de superficie vendible según el tipo de fraccionamiento en salarios mínimos diarios vigentes en el lugar que (sic) se encuentre ubicado y de conformidad con la siguiente tarifa.
+El impuesto sobre fraccionamiento y fusión de bienes inmuebles se causará y pagará aplicando las cuotas y tarifas previstas en las Leyes de Ingresos Municipales respectivas que al efecto propongan los Ayuntamientos a la Legislatura del Estado, y sólo para el caso de que no se publiquen estas, el impuesto se pagará por metro cuadrado de superficie vendible según el tipo de fraccionamiento en el valor diario de la Unidad de Medida y Actualización (UMA) en el lugar que (sic) se encuentre ubicado y de conformidad con la siguiente tarifa.
 
 Tipo Cuota por M2.
 
-Habitacional residencial. .15 S.M.
+Habitacional residencial. 0.15 del valor diario de la Unidad de Medida y Actualización (UMA).
 
-Habitacional tipo medio. .07 S.M.
+Habitacional tipo medio. 0.07 del valor diario de la Unidad de Medida y Actualización (UMA).
 
-Habitacional popular. .05 S.M.
+Habitacional popular. 0.05 del valor diario de la Unidad de Medida y Actualización (UMA).
 
-Habitacional de interés social. .06 S.M.
+Habitacional de interés social. 0.06 del valor diario de la Unidad de Medida y Actualización (UMA)
 
-Habitacional campestre. .07 S.M.
+Habitacional campestre. 0.07 del valor diario de la Unidad de Medida y Actualización (UMA)
 
-Granja. .07 S.M.
+Granja. 0.07 del valor diario de la Unidad de Medida y Actualización (UMA)
 
-Industrial. .07 S.M.
+Industrial. 0.07 del valor diario de la Unidad de Medida y Actualización (UMA)
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 37.
 
-Cuando en los fraccionamientos se integren zonas comerciales o de oficina, se pagará adicionalmente por cada 100 metros cuadrados o fracción que exceda de la superficie vendible para estos usos del suelo, una cuota correspondiente a 10 días de salario mínimo general para el municipio.
+Cuando en los fraccionamientos se integren zonas comerciales o de oficina, se pagará adicionalmente por cada 100 metros cuadrados o fracción que exceda de la superficie vendible para estos usos del suelo, una cuota correspondiente a 10 veces el valor diario de la Unidad de Medida y Actualización (UMA).
 
 ###### ARTICULO 38.
 
@@ -1153,37 +1159,47 @@ ARTICULO 94 BIS C.- Los retenedores de los ingresos que por este derecho se reca
 
 ### CAPITULO UNICO. DEL SANEAMIENTO
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-ARTICULO 94 A.- Los costos de las obras de infraestructura necesarias para realizar las conexiones de agua potable de las redes a los predios, tuberías de drenaje, pavimento, banqueta y guarniciones se sujetarán a las disposiciones de la Ley de Desarrollo Urbano para el Estado de Oaxaca y la Ley de Cooperación para Obras Públicas del Estado de Oaxaca.
+ARTICULO 94 A.- Los costos de las obras de infraestructura necesarias para realizar las conexiones de agua potable de las redes a los predios, tuberías de drenaje, pavimento, banqueta y guarniciones se sujetarán a las disposiciones de la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca y la Ley de Cooperación para Obras Públicas del Estado de Oaxaca.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 Este derecho se pagará conforme a las cuotas y tarifas aplicables previstas en las Leyes de Ingresos Municipales respectivas que al efecto propongan los Ayuntamientos a la Legislatura del Estado. Para el caso de que no se publiquen cuotas especificas de recuperación para alguna obra determinada o no se celebren con anterioridad a la ejecución de la misma, convenios con los usuarios o propietarios de los predios, se aplicará la siguiente tarifa:
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+Número el valor diario de la Unidad de Medida y Actualización (UMA).
+
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-Número de salarios mínimos
-
-generales diarios de la zona
-
-económica que corresponda.
 
 I. Introducción de agua potable,
 
 varios (red de distribución). 10.00
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 II. Introducción de red de drenaje,
 
 varios. 10.00
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 III. Electrificación 10.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 IV. Revestimiento de las calles m2 1.00
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 V. Pavimentación de calles m2 2.50
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+
 VI. Banquetas m2 3.00
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 VII. Guarniciones metro lineal 3.50
 
@@ -1357,19 +1373,27 @@ En ningún caso los cobros por corralón y arrastre de vehículos excederán las
 
 ### CAPITULO II. DERIVADOS DE BIENES MUEBLES
 
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTICULO 125.
 
-Queda obligada la Tesorería Municipal a llevar un inventario de los bienes muebles propiedad del municipio, el cual deberá ser permanentemente actualizado, debiendo comunicar al Congreso del Estado las altas y bajas que se realicen durante los primeros cinco días del mes siguiente a aquel en que se hayan efectuado. Esta obligación no será aplicable cuando se trate de bienes muebles cuyo valor no exceda del importe de tres días de salario mínimo de la zona a que pertenezca el municipio.
+Queda obligada la Tesorería Municipal a llevar un inventario de los bienes muebles propiedad del municipio, el cual deberá ser permanentemente actualizado, debiendo comunicar al Congreso del Estado las altas y bajas que se realicen durante los primeros cinco días del mes siguiente a aquel en que se hayan efectuado. Esta obligación no será aplicable cuando se trate de bienes muebles cuyo valor no exceda del importe de tres veces el valor diario de la Unidad de Medida y Actualización (UMA).
 
 ###### ARTICULO 126.
 
 Podrán los municipios percibir productos por concepto de la enajenación de sus bienes muebles, siempre y cuando estos resulten innecesarios para la administración municipal, o bien que resulten antieconómicos en su mantenimiento y conservación, debiendo sujetarse las enajenaciones a las siguientes reglas:
 
-I Los bienes inferiores a diez veces el salario mínimo diario, podrán ser enajenados por el Tesorero Municipal.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-II Los bienes cuyo valor sea inferior a cincuenta veces el salario mínimo diario, podrán ser enajenados por el Presidente Municipal.
+I Los bienes inferiores a diez veces el valor diario de la Unidad de Medida y Actualización (UMA), podrán ser enajenados por el Tesorero Municipal.
 
-III Los bienes con valor superior a cincuenta días de salario mínimo, sólo podrán ser enajenados por el Presidente Municipal.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+II Los bienes cuyo valor sea inferior a cincuenta veces el valor diario de la Unidad de Medida y Actualización (UMA), podrán ser enajenados por el Presidente Municipal.
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+III Los bienes con valor superior a cincuenta veces el valor diario de la Unidad de Medida y Actualización (UMA), sólo podrán ser enajenados por el Presidente Municipal.
 
 ###### ARTICULO 127.
 
@@ -1738,3 +1762,13 @@ P.O. 3 DE AGOSTO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO: Publíquese en el Período (sic) Oficial del Gobierno del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 766.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
