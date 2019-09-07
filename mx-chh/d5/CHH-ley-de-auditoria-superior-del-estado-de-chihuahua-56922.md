@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-auditoria-superior-del-estado-de-chihuahua-56922"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2018-06-13"
+last_updated: "2019-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DE AUDITORIA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2007.
 
@@ -884,3 +884,39 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los Poderes Ejecutivo y Legislativo deberán integrar el Panel de Especialistas encargado de la selección de la terna de aspirantes a ocupar la titularidad de la Auditoría Superior del Estado, dentro de los veinte días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/0379/2019 I P.O., POR MEDIO DEL CUAL SE EXPIDE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA Y, SE REFORMAN Y DEROGAN DIVERSAS FRACCIONES DEL ARTÍCULO 114 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la fecha de entrada en vigor del presente Decreto, todas las menciones a la Ley de Auditoría Superior del Estado de Chihuahua previstas en las leyes locales, así como en cualquier disposición jurídica, se entenderán referidas a la Ley de Fiscalización Superior del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Auditoría Superior del Estado de Chihuahua, aprobada mediante Decreto No. 986/07 X P.E., publicada en el Periódico Oficial del Estado de fecha 12 de septiembre de 2007, así como todas aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Auditoría Superior tendrá un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para expedir la normatividad interna, a fin de dar certeza a sus actos de fiscalización, incluyendo el Reglamento Interior de la Auditoría Superior del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Las referencias, remisiones o contenidos del presente Decreto, vinculados con la aplicación de las facultades del Tribunal Estatal de Justicia Administrativa entrarán en vigor en los términos del Artículo Octavo Transitorio del Decreto No. LXV/RFCNT/0362/2017 VI P.E., publicado en el Periódico Oficial del Estado número 69, de fecha 30 de agosto de 2017.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos administrativos de auditoría que se encuentren en trámite o pendientes de resolución a la entrada en vigor del presente Decreto, se resolverán hasta su conclusión definitiva, de acuerdo a la Ley vigente al momento del inicio de los procesos de fiscalización respectivos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Con la entrada en vigor de la Ley de Fiscalización Superior del Estado de Chihuahua, quedarán abrogadas todas aquellas disposiciones que se opongan a lo previsto en dicha Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los nombramientos y facultades correspondientes a estos, así como todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad emitida por cualquier órgano u (sic) unidad administrativa de la Auditoría Superior continuarán en vigor, en lo que no se oponga a la presente Ley, hasta en tanto la Auditoría Superior emita su Reglamento Interior, o sus órganos competentes determinen su reforma o abrogación.
