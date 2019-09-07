@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2019-08-17"
+last_updated: "2019-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -729,15 +729,15 @@ Se concede acción popular para denunciar ante las autoridades sanitarias del Es
 
 La acción popular podrá ejercitarse por cualquier persona, bastando para darle curso el señalamiento de los datos que permitan localizar la causa del riesgo.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-### CAPITULO IV. ATENCION INFANTIL
+### CAPITULO IV. ATENCIÓN MATERNO-INFANTIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 56.
 
-La atención infantil tiene carácter prioritario y comprende las siguientes acciones:
+La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
 I.- (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 1998)
 
@@ -761,6 +761,30 @@ V.- La prevención, detección oportuna y, en su caso, tratamiento de enfermedad
 
 VI.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera y prevenir su tratamiento, en todos sus grados;
 
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+VII.- La atención de la mujer durante el embarazo, el parto y el puerperio, en los hospitales y clínicas de los servicios de salud en consultas periódicas de vigilancia de embarazo, teniendo acceso a medicamentos, servicio de laboratorio, control de peso, orientación nutricional, y complementos vitamínicos;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+VIII.- La mujer embarazada deberá ser atendida preferentemente en parto natural y solo en casos de excepción, por estar en riesgo la salud materno-infantil, ser intervenida quirúrgicamente a través (sic) una cesárea;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+IX.- El recién nacido después del momento del parto deberá tener contacto físico con la madre, si el estado de salud de ambos lo permite;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+X.- La mujer embarazada deberá ser acompañada por algún familiar, amistad o persona de su confianza en toda la atención materno-infantil;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+XI.- Toda madre deberá tener acceso a los mecanismos de ayuda: económicos, asistenciales y médicos previstos por la ley para ellas incluyendo el periodo de postparto, y;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+XII.- Toda madre embarazada tiene derecho a ser informada de manera personalizada, suficiente, y comprensible.
+
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 ###### ARTICULO 57.
@@ -773,11 +797,35 @@ En los servicios de salud se promoverá la organización institucional de comit�
 
 La protección de la salud física y mental de los menores es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos, el Estado y la sociedad en general.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 59.
 
-En la organización y operación de los servicios de salud destinados a la atención infantil las autoridades sanitarias del Estado de Oaxaca establecerán acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años.
+En la organización y operación de los servicios de salud destinados a la atención materno-infantil las autoridades sanitarias del Estado de Oaxaca establecerán acciones:
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+I.- Para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+III.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+IV.- Acciones de capacitación dirigidas al personal de salud, público o privado, para evitar toda acción u omisión que atente contra el derecho a la salud sexual, los derechos reproductivos de las mujeres durante el embarazo, el parto y el puerperio y su autonomía para ejercerlos de manera informada;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+V.- Acciones de capacitación para evitar el abuso de medicalización y patologización de los procesos naturales, trayendo consigo la pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y su sexualidad, daño físico, psicológico, o la muerte de la madre o del producto por negligencia o impericia, y;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+VI.- Acciones de equipamiento y áreas especializadas para la atención materno-infantil.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -833,13 +881,11 @@ V.- La participación en el establecimiento de mecanismos idóneos para la deter
 
 VI.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas.
 
-VII.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+VII.- (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2019)
 
 VIII.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2015)</small>
-
-IX.- Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de edad y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno; y
+IX.- (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2019)
 
 X.- Detección del cáncer cérvico-uterino y de mama, en todas las unidades de atención a población abierta.
 
@@ -1065,9 +1111,17 @@ III.- A la prevención y control de los problemas de salud que se consideren pri
 
 IV.- Al conocimiento y control de los efectos nocivos del ambiente en la salud;
 
-V.- Al estudio de las técnicas y métodos que se recomienden para la prestación de los servicios de salud; y
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-VI.- A la producción nacional de insumos para la salud.
+V.- Al estudio de las técnicas y métodos que se recomienden para la prestación de los servicios de salud;
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+VI.- A la producción nacional de insumos para la salud; y
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+VII.- Al estudio e investigación de la nutrición materno-infantil.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1785,7 +1839,7 @@ II.- Organizar campañas educativas tendientes a erradicar la violencia intrafam
 
 III.- Procurar la atención especializada de las víctimas de violencia intrafamiliar, abuso sexual y abandono así como su protección.
 
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
 ### CAPITULO III. DE LAS CONSTRUCCIONES
 
@@ -2583,7 +2637,7 @@ V. Los demás que determine la Ley General de Salud, esta Ley y demás disposici
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-ARTICULO 260 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
+ARTICULO 260 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo, una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto sí se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
 
 El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
 
@@ -2807,7 +2861,7 @@ Las demás dependencias y entidades públicas en el Estado coadyuvarán a la vig
 
 ###### ARTICULO 297.
 
-El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
+El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procedieren, las mediadas de seguridad y las sanciones correspondientes en esos casos.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3183,7 +3237,7 @@ XI.- Buena fe.
 
 ###### ARTICULO 333.
 
-La Secretaría de Salud del Estado y los municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
+La Secretaría de Salud del Estado y los municipios con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3506,3 +3560,11 @@ P.O. 17 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 657.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 749.- MEDIANTE EL CUAL REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
