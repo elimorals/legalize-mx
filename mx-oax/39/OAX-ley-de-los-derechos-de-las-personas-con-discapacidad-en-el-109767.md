@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-las-personas-con-discapacidad-en-el-1097
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-24"
-last_updated: "2015-08-26"
+last_updated: "2019-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO ORDENADO POR LA SOBERANÍA CONSTITUCIONAL EN EL DECRETO NÚM. 1268 Y DE ACUERDO CON LOS ARTÍCULOS 79, FRACCIÓN II Y 53 FRACCIÓN VI, PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECEN LAS FACULTADES DE VETO AL PODER EJECUTIVO Y DE PROMULGAR Y PUBLICAR LA PARTE VETADA, POR LO QUE OBEDECIENDO AL MANDATO CONSTITUCIONAL, TENGO A BIEN PUBLICAR LAS PARTES VETADAS, DEL CITADO DECRETO POR EL QUE SE CREA LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA, EN CONSECUENCIA SE PUBLICA EL CITADO DECRETO EN EL P.O. 26 DE AGOSTO DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 24 de agosto de 2015.
 
@@ -341,7 +341,11 @@ I. Proporcionar servicios de salud públicos gratuitos y de calidad que sean nec
 
 II. Implementar estrategias y programas de detección temprana de las discapacidades durante el embarazo y al momento de nacer, como el tamiz metabólico y tamiz auditivo neonatal, u otros estudios y pruebas para iniciar de manera oportuna la rehabilitación o habilitación, según sea el caso.
 
-III. Garantizar los servicios de estimulación temprana, rehabilitación y atención integral especializada para las diferentes discapacidades.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+III. Implementar y garantizar en coordinación con el Sistema para el Desarrollo Integral de la Familia y el Instituto de Educación Pública del Estado de Oaxaca; programas y servicios de detección oportuna, rehabilitación y atención integral especializada de las diferentes discapacidades, en los niveles de educación de tipo básico.
+
+Las autoridades mencionadas en el párrafo anterior, deberán rendir un informe anual de los logros y resultados obtenidos en la implementación de estas acciones a esta Secretaría.
 
 IV. Garantizar establecimientos de salud con programas que proporcionen los servicios señalados en la fracción anterior, los cuales se implementarán en zonas urbanas, rurales y comunidades indígenas; respetando los derechos humanos, la dignidad inherente, la autonomía y las necesidades de las personas con discapacidad;
 
@@ -831,4 +835,14 @@ P.O. 26 DE AGOSTO DE 2015.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
 
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
 ### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 742.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
