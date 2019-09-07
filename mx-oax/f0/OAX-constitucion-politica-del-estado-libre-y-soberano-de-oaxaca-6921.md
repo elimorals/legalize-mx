@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-08-31"
+last_updated: "2019-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -369,9 +369,9 @@ En el Estado nadie podrá desempeñar trabajos personales sin la justa retribuci
 
 Toda persona tiene derecho a una alimentación suficiente, nutricionalmente adecuada, sana y culturalmente aceptable para llevar una vida activa y saludable. A fin de evitar las enfermedades de origen alimentario, el Estado deberá implementar las medidas que propicien la adquisición de buenos hábitos alimenticios entre la población, fomentará la producción y el consumo de alimentos con alto valor nutricional y apoyará en esta materia a los sectores más vulnerables de la población.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
-Se reconoce el derecho a la práctica del deporte para alcanzar una mejor calidad de vida y desarrollo físico. El Estado y los Municipios impulsarán el fomento, la organización y la promoción de las actividades formativas, recreativas y competitivas del deporte en la Entidad, así como el crecimiento de su infraestructura.
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia, mediante el fomento de la cultura física se alcanzará una mejor calidad de vida y desarrollo físico, garantizando en todo momento la igualdad de género y la no discriminación en la práctica del deporte. El Estado y los Municipios impulsarán el fomento, la organización y la promoción de las actividades formativas, recreativas y competitivas del deporte en la Entidad, vigilando la equidad de género así como el crecimiento de su infraestructura.
 
 > <small>(REFORMADO, P.O. 6 DE JUNIO DE 1998)</small>
 
@@ -614,6 +614,10 @@ La ley reglamentaria establecerá normas y procedimientos que permitan la eficaz
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
 Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas y afromexicanas, el Estado tiene la obligación de asegurar el acceso efectivo a los servicios de salud, aprovechando debidamente la medicina tradicional.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+Se reconoce a las lenguas indígenas de los pueblos, comunidades indígenas y afromexicanas del Estado de Oaxaca como patrimonio cultural intangible del mismo, por lo que las autoridades del propio Estado, deberán proveer lo necesario para su preservación, enseñanza y difusión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -2342,6 +2346,10 @@ XIX. Celebrar convenios con el Gobierno Federal o con los ayuntamientos para coo
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 Previa autorización del Congreso del Estado, celebrar convenios amistosos para el reconocimiento de límites territoriales del Estado de Oaxaca con las entidades federativas colindantes de conformidad con la Ley de la materia;
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+XIX BIS. Promover la suscripción de convenios amistosos para el reconocimiento de límites territoriales entre los municipios del Estado de Oaxaca, y brindar el apoyo técnico, en términos de la ley de la materia.
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -5371,7 +5379,7 @@ TERCERO. El Congreso del Estado dentro de los 120 días naturales siguientes a l
 
 P.O. 24 DE AGOSTO DE 2019.
 
-## [N.DE E. TRANSITORIO DEL “DECRETO NÚM. 710.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 710.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese.
 
@@ -5382,3 +5390,19 @@ P.O. 31 DE AGOSTO DE 2019.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 752.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 754.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
