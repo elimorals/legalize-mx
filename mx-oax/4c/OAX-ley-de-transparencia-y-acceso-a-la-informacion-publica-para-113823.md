@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-113
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-11"
-last_updated: "2019-08-27"
+last_updated: "2019-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 11 de marzo de 2016.
 
@@ -1435,11 +1435,11 @@ Se exceptúa de lo anterior el ejercicio de la docencia o la investigación acad
 
 Las percepciones de los Comisionados serán de conformidad al presupuesto anual aprobado y de acuerdo al tabulador de salarios vigente.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2019)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 En los procedimientos para la selección de los Comisionados, se deberán garantizar la transparencia, independencia y participación de la sociedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 84.
 
@@ -1447,7 +1447,7 @@ La designación de los Comisionados estará a cargo del Congreso del Estado, a t
 
 I. El Congreso del Estado, emitirá una convocatoria pública para que cualquier ciudadano que aspire al cargo de comisionado, pueda registrarse;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 II. Concluido el plazo para el registro de los aspirantes al cargo de Comisionado, la Comisión de acuerdo a la normatividad del Congreso del Estado, publicará el número de aspirantes registrados y determinará quiénes cumplieron con los requisitos exigidos en la presente Ley, mismos que continuarán con el procedimiento de selección;
 
@@ -1455,7 +1455,7 @@ III. Los aspirantes que hubieren cumplido los requisitos serán convocados a com
 
 IV. Concluido el periodo de comparecencias, la Comisión realizará la propuesta de aquellos aspirantes que cumplan con el perfil necesario para ser designados como comisionados, mediante el dictamen correspondiente, que contenga las ternas para Comisionados y lo presentará al Pleno del Congreso del Estado, para su discusión y, en su caso, aprobación, y
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
 V. Las dos terceras partes de los diputados presentes, elegirán a la persona de acuerdo a la terna propuesta por la Comisión.
 
@@ -2856,6 +2856,16 @@ TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, q
 P.O. 27 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 768.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PÚBLICA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 768.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
