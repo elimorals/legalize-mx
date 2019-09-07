@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2019-08-24"
+last_updated: "2019-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2509,9 +2509,9 @@ II.- Se hiciere uso de violencia física o moral; y
 
 III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
 
-(REFORMADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-Cuando el delito fuere cometido contra persona menor de doce años, incapaz o cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena será de siete a doce años de prisión y multa de trescientos a setecientos días de salario mínimo. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
+Cuando el delito fuere cometido contra una persona menor de doce años, incapaz o cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena será de ocho a quince años de prisión y multa de trescientos a setecientas veces el valor diario de la unidad de medida y actualización. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -3915,9 +3915,9 @@ V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, les
 
 VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en casos de violación.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-405.- A quien cometa el delito de violencia familiar se le impondrá de tres a nueve años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+405.- A quien cometa el delito de violencia familiar se le impondrá de tres a nueve años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado en el Centro de Reeducación para Hombres que Ejercen Violencia contra las Mujeres, que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
 
 La pena señalada en el párrafo anterior, se aumentará hasta en una mitad de su mínimo y su máximo; en los casos en que la violencia se ejerza en contra de personas adultas mayores, persona con discapacidad, mujeres en estado de gravidez o durante tres meses posteriores al parto.
 
@@ -3932,6 +3932,10 @@ En ningún caso se entenderá como tratamiento o rehabilitación, la violencia h
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
 En caso de determinarse el ejercicio de la acción penal, el Ministerio Público solicitará al Juez la confirmación, ampliación o cancelación, en su caso, de las órdenes de protección o medidas precautorias referidas en el párrafo que antecede, quién deberá resolver lo conducente sin dilación.
+
+> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+En caso de tratarse de que el ejercicio de la acción penal recaiga sobre un hombre, este deberá ser canalizado al Centro de Reeducación para Hombres que Ejercen Violencia contra las Mujeres, medida que en ningún caso excederá del tiempo impuesto en la pena de prisión independientemente de las sanciones que correspondan por cualquier otro delito.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4992,3 +4996,19 @@ P.O. 24 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 704.- MEDIANTE EL CUAL SE ADICIONA Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 734.- MEDIANTE EL CUAL REFORMAN Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 735.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+Primero.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
