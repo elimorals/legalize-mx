@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2017-12-15"
+last_updated: "2019-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -656,6 +656,10 @@ XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación, y
 
 XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al sistema educativo estatal. Se prohíben las sanciones por causa de embarazo de una niña o de una adolescente, caso en el que se respetará su privacidad e intimidad.
+
+> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+XXII. Garantizar que los centros educativos tengan áreas de esparcimiento dignos y seguros para el desarrollo de actividades escolares, recreativas y deportivas de niñas, niños y adolescentes, así como procurar el mantenimiento y reparación de los mismos.
 
 ###### Artículo 49.
 
@@ -1790,3 +1794,11 @@ P.O. 15 DE DICIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 749.- MEDIANTE EL CUAL SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 745.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entraré en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
