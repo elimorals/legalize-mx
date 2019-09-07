@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2019-07-20"
+last_updated: "2019-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1177,33 +1177,51 @@ La Comisión de Fiscalización tendrá las atribuciones siguientes:
 
 I.- Ser el conducto de comunicación entre el Congreso y la Auditoría Superior del Estado.
 
-II.- Recibir de la Presidencia de la Mesa Directiva, las cuentas públicas del Gobierno del Estado y de los municipios, así como los informes trimestrales que presenten, y turnarlos a la Auditoría Superior del Estado.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-III.- Conocer y emitir observaciones sobre el proyecto de presupuesto anual de la Auditoría Superior del Estado, para sus consideraciones, y turnarlo a la Junta de Coordinación Política del Congreso, para su inclusión en el Proyecto de Presupuesto de Egresos para el siguiente ejercicio fiscal.
+II.- Evaluar el cumplimiento de los objetivos y metas del Programa Anual de Auditorías de la Auditoría Superior y establecer los indicadores que considere pertinentes para medir la eficiencia y eficacia de los resultados de la Auditoría Superior.
 
-IV.- Dictaminar el informe anual del ejercicio del presupuesto, que presente la Auditoría Superior del Estado y someterlo a consideración del Pleno.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-V.- Conocer y evaluar los programas y sus modificaciones, que implemente la Auditoría Superior del Estado, para el debido cumplimiento de sus atribuciones.
+III.- Proponer la adición de entidades fiscalizadas no contempladas en el Programa Anual de Auditoría.
 
-VI.- Evaluar el desempeño de la Auditoría Superior del Estado, respecto al cumplimiento de su mandato, atribuciones y ejecución de las auditorías, que le confieren la Constitución Política del Estado y la Ley que regula su funcionamiento.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-VII.- Presentar al Pleno el dictamen de los informes de resultados que formule el Auditor Superior del Estado, en los términos de la Ley de la materia.
+IV.- Hacer las recomendaciones que considere pertinentes al Programa Anual de Auditoría de la Auditoría Superior.
 
-VIII.- Citar, por conducto de su Presidencia, a quien encabece la Auditoría Superior del Estado para conocer, en lo específico, los informes de resultados.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-IX.- Ordenar a la Auditoría Superior del Estado la práctica de auditorías especiales.
+V.- Citar, por conducto de quien la presida y previo acuerdo de la misma, a la persona titular de la Auditoría Superior.
 
-X.- Conocer y, opinar, en su caso, sobre el Reglamento Interior de la Auditoría Superior del Estado.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-XI.- Tener acceso a los documentos de trabajo que se generen con motivo de las revisiones practicadas a los entes fiscalizables por la Auditoría Superior del Estado.
+VI.- Evaluar el desempeño de la Auditoría Superior respecto al cumplimiento de su mandato, atribuciones y ejecución de auditorías; proveer lo necesario para garantizar su autonomía técnica y de gestión; así como requerir informes sobre la evolución de los trabajos de fiscalización.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2016)</small>
+La evaluación del desempeño tendrá por objeto conocer si la Auditoría Superior cumple con las atribuciones que conforme a la Constitución Política del Estado y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los entes públicos, en los resultados de los programas y proyectos autorizados en el Presupuesto de Egresos, y en la administración de los recursos públicos que ejerzan. De dicha evaluación podrá hacer recomendaciones para la modificación de los lineamientos a que se refiere el artículo 9 de esta Ley.
 
-XII.- Recibir de los Entes Fiscalizables las aclaraciones, información y documentación que estimen pertinentes para solventar las observaciones contenidas en los Informes Técnicos de Resultados.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE OCTUBRE DE 2016)</small>
+VII.- Ordenar a la Auditoría Superior la práctica de auditorías cuando, derivado del análisis de los informes, cuente con documentos o evidencias mediante los cuales se presuma el manejo, aplicación o custodia irregular de recursos públicos, o de su desvío.
 
-XIII.- Las demás que establezcan esta Ley, sus reglamentos y demás disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+VIII.- Tener acceso a los documentos de trabajo que se generen con motivo de las revisiones practicadas a las entidades fiscalizadas por la Auditoría Superior.
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+IX.- Recibir de la Auditoría Superior el informe general para su análisis y dictamen correspondiente.
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+X.- Invitar a la sociedad civil organizada a que participe como observadores o testigos sociales en las sesiones ordinarias de la Comisión; así como en la realización de ejercicios de contraloría social en los que se articule a la población con los entes fiscalizados.
+
+> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+
+XI.- Las demás que le confiera la Constitución Política del Estado, la Ley Orgánica del Poder Legislativo del Estado, esta Ley y demás ordenamientos legales.
+
+XII.- (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2019)
+
+XIII.- (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2019)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2019)</small>
 
@@ -2910,3 +2928,41 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Comité de Adquisiciones, Arrendamientos y Servicios del Poder Legislativo, deberá constituirse y celebrar su primera reunión en un plazo no mayor de treinta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/0379/2019 I P.O., POR MEDIO DEL CUAL SE EXPIDE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CHIHUAHUA Y, SE REFORMAN Y DEROGAN DIVERSAS FRACCIONES DEL ARTÍCULO 114 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+A la fecha de entrada en vigor del presente Decreto, todas las menciones a la Ley de Auditoría Superior del Estado de Chihuahua previstas en las leyes locales, así como en cualquier disposición jurídica, se entenderán referidas a la Ley de Fiscalización Superior del Estado de Chihuahua.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley de Auditoría Superior del Estado de Chihuahua, aprobada mediante Decreto No. 986/07 X P.E., publicada en el Periódico Oficial del Estado de fecha 12 de septiembre de 2007, así como todas aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La Auditoría Superior tendrá un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para expedir la normatividad interna, a fin de dar certeza a sus actos de fiscalización, incluyendo el Reglamento Interior de la Auditoría Superior del Estado.
+
+###### ARTÍCULO QUINTO.
+
+Las referencias, remisiones o contenidos del presente Decreto, vinculados con la aplicación de las facultades del Tribunal Estatal de Justicia Administrativa entrarán en vigor en los términos del Artículo Octavo Transitorio del Decreto No. LXV/RFCNT/0362/2017 VI P.E., publicado en el Periódico Oficial del Estado número 69, de fecha 30 de agosto de 2017.
+
+###### ARTÍCULO SEXTO.
+
+Los procedimientos administrativos de auditoría que se encuentren en trámite o pendientes de resolución a la entrada en vigor del presente Decreto, se resolverán hasta su conclusión definitiva, de acuerdo a la Ley vigente al momento del inicio de los procesos de fiscalización respectivos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Con la entrada en vigor de la Ley de Fiscalización Superior del Estado de Chihuahua, quedarán abrogadas todas aquellas disposiciones que se opongan a lo previsto en dicha Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los nombramientos y facultades correspondientes a estos, así como todas las disposiciones, normas, lineamientos, políticas, criterios y demás normatividad emitida por cualquier órgano u (sic) unidad administrativa de la Auditoría Superior continuarán en vigor, en lo que no se oponga a la presente Ley, hasta en tanto la Auditoría Superior emita su Reglamento Interior, o sus órganos competentes determinen su reforma o abrogación.
+
+Los poderes, mandatos y, en general, las representaciones otorgadas y las facultades concedidas por la Auditoría Superior con anterioridad a la entrada en vigor de la presente Ley, subsistirán, en sus términos, en tanto no sean modificados o revocados expresamente.
