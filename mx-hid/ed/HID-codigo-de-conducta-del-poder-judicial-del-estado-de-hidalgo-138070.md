@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-conducta-del-poder-judicial-del-estado-de-hidalgo-138
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-02"
-last_updated: "2019-09-02"
+last_updated: "2019-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # CODIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE SEPTIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE SEPTIEMBRE DE 2019.]
 
 Código publicado en el Alcance Uno al Número 35 del Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2019.
 
@@ -59,15 +59,25 @@ Glosario
 
 Para efectos del presente Código se entenderá por:
 
-VI (SIC). Poder Judicial: Poder Judicial del estado de Hidalgo;
+> <small>(F. DE E., P.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
-VII. Personas servidoras públicas: personas servidoras públicas empleadas del Poder Judicial del estado de Hidalgo;
+I. Poder Judicial: Poder Judicial del estado de Hidalgo;
 
-VIII. Comité de Ética: Comité de Ética Judicial;
+> <small>(F. DE E., P.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
-IX. Código de Conducta: Código de Conducta del Poder Judicial del estado de Hidalgo, y
+II. Personas servidoras públicas: personas servidoras públicas empleadas del Poder Judicial del estado de Hidalgo;
 
-X. Código de Ética: Código de Ética del Poder Judicial del estado de Hidalgo.
+> <small>(F. DE E., P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+III. Comité de Ética: Comité de Ética Judicial;
+
+> <small>(F. DE E., P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+IV. Código de Conducta: Código de Conducta del Poder Judicial del estado de Hidalgo, y
+
+> <small>(F. DE E., P.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+V. Código de Ética: Código de Ética del Poder Judicial del estado de Hidalgo.
 
 Compromiso institucional
 
