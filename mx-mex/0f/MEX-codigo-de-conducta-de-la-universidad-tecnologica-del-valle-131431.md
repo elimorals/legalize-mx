@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-universidad-tecnologica-del-valle-1314
 country: "mx"
 rank: "codigo"
 publication_date: "2018-10-17"
-last_updated: "2018-10-17"
+last_updated: "2019-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131431&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,13 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLOGICA DEL VALLE DE TOLUCA DEL ESTADO DE MEXICO
 
-CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA, PUBLICADO EN LA G.G. DE 9 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA DEL ESTADO DE MÉXICO
 
-Código publicado en la Sección Primera Número 75 de la Gaceta del Gobierno del Estado de México, el miércoles 17 de octubre de 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE SEPTIEMBRE DE 2019 (ABROGADO).
+
+Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 17 de octubre de 2018.
 
 Código de Conducta de la Universidad Tecnológica del Valle de Toluca
 
@@ -543,3 +545,17 @@ e Invitada Permanente y Asesora. (RÚBRICA).
 Mario Justino Miranda Martínez, Contralor
 
 Interno e Invitado Permanente y Asesor. (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 9 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA”.]
+
+PRIMERO. El presente Código de Conducta, fue aprobado por los integrantes del Comité de Ética de la Universidad Tecnológica del Valle de Toluca, en la II Sesión Extraordinaria del Comité de Ética de la Universidad Tecnológica del Valle de Toluca, de fecha 21 de agosto de 2019.
+
+SEGUNDO. Publíquese el presente Código de Conducta en el Periódico Oficial “Gaceta de (sic) Gobierno”.
+
+TERCERO. El presente Código de Conducta entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial “Gaceta de (sic) Gobierno”.
+
+CUARTO. Se abroga el Código de Conducta para los servidores públicos de la Universidad Tecnológica del Valle de Toluca, publicado en fecha 17 de octubre del 2018, en el Periódico Oficial “Gaceta de (sic) Gobierno”, así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Código.
