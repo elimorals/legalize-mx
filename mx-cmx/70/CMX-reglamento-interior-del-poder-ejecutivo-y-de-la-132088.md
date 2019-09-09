@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-08-07"
+last_updated: "2019-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE SEPTIEMBRE DE 2019.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -6688,11 +6688,11 @@ XIX. Coordinar la difusión de los eventos y programas sociales que la Secretar�
 
 XX. Las demás que le sean encomendadas por la persona titular de la Secretaría, congruentes con la normatividad aplicable y que tengan alguna de las finalidades enunciadas en la ley de la materia y en el presente Reglamento.
 
-> <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 160.
 
-Corresponde a la Dirección Ejecutiva de Asuntos Jurídico Normativa (sic):
+Corresponde a la Dirección Ejecutiva Jurídico Normativa:
 
 I. Dirigir y coordinar las funciones y acciones jurídicas necesarias para la defensa de los intereses de la Secretaría, así como de sus Unidades Administrativas;
 
@@ -11074,7 +11074,9 @@ XXIII. Las demás que le instruya la persona titular de la Secretaría de la Con
 
 ### CAPÍTULO CUARTO. DE LAS ATRIBUCIONES DE LAS PERSONAS TITULARES DE LAS UNIDADES DE INVESTIGACIÓN, SUBSTANCIACIÓN Y DE RESOLUCIÓN DE LA SECRETARÍA DE CONTRALORÍA GENERAL
 
-#### SECCIÓN IV. ADSCRITO A LA SECRETARÍA DEL MEDIO AMBIENTE
+#### SECCIÓN IV. ADSCRITO A LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN
+
+> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 268.
 
@@ -12372,6 +12374,310 @@ VI. Coadyuvar, con las instancias competentes, en la revisión y producción de 
 
 El Órgano Desconcentrado Sistema Público de Radiodifusión de la Ciudad de México, contará con un Consejo Ciudadano con el objeto de asegurar su independencia y una política editorial imparcial y objetiva. Será integrado por nueve consejeros honorarios que serán elegidos mediante una amplia consulta pública por el voto de dos terceras partes de los miembros presentes del Congreso de la Ciudad de México o, en sus recesos, de la Comisión Permanente.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 302 Bis.
+
+El Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”, tendrá una vocación eminentemente social y tendrá por objeto cubrir las necesidades educativas de nivel superior de la Ciudad de México, mediante planes y programas de estudio de calidad, innovadores y con pertinencia sociocultural.
+
+> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 302 Ter.
+
+Para el despacho de los asuntos que competen al Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”, tiene adscritas:
+
+1. Dirección General del Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”.
+
+2. Secretaría General.
+
+3. Dirección Ejecutiva de Asuntos Estudiantiles.
+
+4. Dirección Ejecutiva de Campus.
+
+5. Dirección Ejecutiva del Campus Virtual.
+
+> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 302 Quater.
+
+Corresponde a la Dirección General del Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”:
+
+I. Establecer y dirigir las políticas del Instituto y coordinar sus actividades;
+
+II. Proponer a la persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación para su conocimiento y posterior aprobación de la Junta de Gobierno, los decretos, reglamentos, acuerdos, circulares y órdenes sobre asuntos de interés del Instituto;
+
+III. Proponer a la persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación para su conocimiento y posterior aprobación de la Junta de Gobierno, las propuestas de perfiles para los nombramientos de las personas Titulares de las Secretarías, Direcciones de las Unidades Académicas, así como del personal con nivel de Dirección de Área;
+
+IV. Proponer a la persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación para su conocimiento y posterior aprobación de la Junta de Gobierno, la creación, modificación o supresión de las Unidades Académicas, que requieran las finalidades sustantivas del Instituto;
+
+V. Conformar de manera libre, las comisiones, comités y grupos de trabajo que considere convenientes para el mejor desahogo de asuntos de carácter institucional;
+
+VI. Proponer a la titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación, para su sometimiento y posterior aprobación de la Junta de Gobierno, en coordinación con las Unidades Administrativas competentes, el calendario académico del Instituto y vigilar su cumplimiento;
+
+VII. Supervisar académicamente los requisitos para los procesos de selección, admisión e ingreso, acreditación, registro, certificación, otorgamiento de diplomas y grados académicos de posgrado en las diversas modalidades educativas que imparta el Instituto, de acuerdo con las normas y políticas establecidas, y en su caso replantearlas;
+
+VIII. Intervenir, en los convenios que celebre el Gobierno de la Ciudad de México o las Unidades Administrativas que lo conforman y que involucren aspectos de la competencia del Instituto;
+
+IX. Promover y atender en el ámbito nacional e internacional las modalidades de vinculación académica, científica, tecnológica, cultural y deportiva del Instituto y designar a sus representantes ante las instancias correspondientes;
+
+X. Fomentar y promover el intercambio y la participación cultural y deportiva del Instituto con organismos y entidades afines, nacionales e internacionales, que contribuyan en la integración social de los servicios y el fortalecimiento del deporte, la cultura y la imagen institucional;
+
+XI. Aprobar los programas institucionales de intercambio educativo, científico, tecnológico, cultural y deportivo con Instituciones y Organismos nacionales e internacionales;
+
+XII. Concertar acciones específicas en materia educativa, de investigación, científica, tecnológica, cultural y deportiva con organismos del sector público, social y privado, nacional e internacional, y celebrar los instrumentos jurídicos que correspondan;
+
+XIII. Promover la participación y colaboración de los tres órdenes de gobierno, de organismos del sector privado y social y de personas físicas o morales, en la realización de las finalidades y objetivos del Instituto;
+
+XIV. Invitar a representantes de organizaciones de los sectores público, social y privado para integrar el Comité Asesor del Instituto;
+
+XV. Otorgar la equivalencia y la revalidación de estudios, conforme a los criterios establecidos por la Secretaría de Educación, Ciencia, Tecnología e Innovación;
+
+XVI. Aprobar la creación y la operación de los mecanismos de información, y difusión de los programas, acciones y resultados del cumplimiento de las finalidades del Instituto;
+
+XVII. Establecer los criterios correspondientes para autorizar a terceros el uso o explotación, por cualquier forma o medio, de la propiedad intelectual del Instituto observando la normativa aplicable;
+
+XVIII. Promover ante personas y organismos de los sectores público, social y privado, nacionales e internacionales, las aportaciones de donativos o cualquier acto de otra naturaleza tendientes a la obtención de recursos para la realización de las finalidades y el cumplimiento de las atribuciones del Instituto;
+
+XIX. Realizar acciones que generan influencia permanente en los estudiantes, que les permita el desarrollo de sus competencias y que les influya a lo largo de toda su existencia;
+
+XX. Celebrar y suscribir instrumentos de naturaleza educativa, científica, tecnológica, cultural y deportiva, o cualquier otro, inherentes a los objetivos institucionales;
+
+XXI. Evaluar las estrategias y acciones de las diversas Unidades y en su caso replantearlas para orientar los servicios educativos del Instituto hacia el logro de los programas, planes y proyectos institucionales, de acuerdo a los lineamientos establecidos, así como para fortalecer y consolidar el carácter integral de la formación para los estudiantes;
+
+XXII. Evaluar la integración, operación y control del acervo que forma parte del Instituto, a cargo de la Unidad Administrativa correspondiente;
+
+XXIII. Coordinar el diseño, desarrollo y actualización de los modelos educativos, de la oferta curricular, planes y programas de estudio en materia de educación, desarrollo de evaluaciones con fines de investigación y de procesos, proyectos y estrategias para la diversa oferta educativa;
+
+XXIV. Supervisar que las políticas de calidad e innovación sean congruentes con los programas autorizados por la Junta de Gobierno;
+
+XXV. Establecer las directrices en materia de recursos financieros, humanos y materiales, así como las políticas salariales y de prestaciones al interior del Instituto a fin de que éstas cumplan con el presupuesto autorizado, lineamientos, normas y procedimientos aplicables y someterlas para su aprobación a la Junta de Gobierno;
+
+XXVI. Posicionar al Instituto y sus servicios, a fin de impulsar el desarrollo de nuevas alianzas y estrategias de colaboración educativo, científico, tecnológico, cultural y deportivo;
+
+XXVII. Coordinar las acciones necesarias, a fin de asegurar el cumplimiento y la aplicación de las disposiciones que rige al Instituto;
+
+XXVIII. Supervisar y ejecutar acciones para el mejoramiento del registro y control de los servicios escolares;
+
+XXIX. Supervisar el calendario académico del Instituto, para su sometimiento y aprobación de la Junta de Gobierno;
+
+XXX. Signar para su validación los certificados y diplomas y junto con la persona titular de la Secretaría de Educación, Ciencia, Tecnología e Innovación, validar los títulos y grados académicos que expida el Instituto;
+
+XXXI. Ejercer las demás facultades que las disposiciones legales y administrativas le confiera.
+
+> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 302 Quinquies.
+
+Corresponde a la Secretaría General:
+
+I. Auxiliar a la Dirección General en el ejercicio de las funciones que le encomiende;
+
+II. Desempeñar las comisiones encomendadas por la Dirección General, para apoyar el cumplimiento de los objetivos institucionales;
+
+III. Suplir a la persona titular de la Dirección General en sus ausencias, en los términos de la normativa aplicable, y rendirle un informe detallado de su gestión;
+
+IV. Planear, coordinar y evaluar las acciones necesarias para asegurar la correcta convivencia de todos los sectores que componen a la comunidad del Instituto;
+
+V. Realizar visitas a las Unidades Académicas y Administrativas del Instituto y coordinar con los titulares de las mismas la información necesaria para conocer su problemática y presentar a la Dirección General los informes y propuestas de solución correspondientes;
+
+VI. Proponer a la Dirección General mecanismos de participación de la comunidad en los asuntos necesarios para la solución de conflictos o el cumplimiento de objetivos, o aquellos que por su relevancia así se consideren;
+
+VII. Promover y preservar la identidad Institucional, así como los valores plasmados en el Decreto de Creación;
+
+VIII. Asistir a la Dirección General en la coordinación y seguimiento de las actividades a realizar por las Unidades del Instituto;
+
+IX. Asistir a la Dirección General en la coordinación de las actividades Institucionales, con excepción de aquellas que el Director General asigne a otras áreas;
+
+X. Presentar a la Dirección General el programa de presupuesto y el cuadro anual de necesidades de recursos de la Secretaría conforme a la información proporcionada por las Direcciones Ejecutivas, en los términos de la normativa aplicable;
+
+XI. Promover el fortalecimiento de vida interna del Instituto, mediante la interacción de acciones con otras instancias de los diferentes niveles de gobierno, el fortalecimiento de la vida interna del Instituto;
+
+XII. Fungir en su caso, a propuesta y designación de la Dirección General, como Secretario Técnico de los Órganos Colegiados que se integren al interior del Instituto, emitir convocatorias, levantar las actas de cada sesión y dar seguimiento a los acuerdos aprobados;
+
+XIII. Proponer a la Dirección General las convocatorias para la elección de representantes de la comunidad estudiantil y académica ante la Junta de Gobierno o de cualquier órgano colegiado que la Dirección General determine;
+
+XIV. Proporcionar, en el ámbito de su competencia, la información solicitada por la Unidad de Enlace del Instituto, en los términos de la normativa correspondiente;
+
+XV. Coordinar y supervisar los servicios educativos establecidos para fortalecer y consolidar el carácter integral de la formación de los estudiantes;
+
+XVI. Coordinar y supervisar, con las dependencias competentes, la integración, operación y el control del acervo que forma parte del Instituto;
+
+XVII. Coordinar los apoyos y asesorías a la comunidad estudiantil para la organización de actividades y eventos culturales, deportivos y de cultura física que contribuyan en la formación integral de los estudiantes, en el marco del modelo educativo y de conformidad con los recursos disponibles para el efecto;
+
+XVIII. Ejecutar acciones que permitan el intercambio y la participación cultural y deportiva del Instituto con organismos y entidades afines, nacionales e internacionales, que contribuyan en la integración social de los servicios y el fortalecimiento del deporte, la cultura y la imagen institucional;
+
+XIX. Proponer a la Dirección General, para su sometimiento a la Junta de Gobierno, en coordinación con las Unidades Administrativas competentes, el calendario académico del Instituto y vigilar su cumplimiento, y
+
+XX. Las demás sean necesarias para el ejercicio de las anteriores, las que las disposiciones legales y administrativas le otorguen y las que le sean conferidas expresamente por la Dirección General.
+
+> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 302 Sexies.
+
+Las Direcciones Ejecutivas del Instituto tendrán las siguientes atribuciones genéricas:
+
+I. Acordar con la Dirección General y en su caso, previa disposición de ésta, con las Unidades competentes, los asuntos y la ejecución de acciones que les sean encomendados;
+
+II. Administrar el funcionamiento de las áreas que tenga adscritas, mediante la programación de planeación, programación, organización, coordinación y control de su actuación conforme a las políticas del Gobierno de la Ciudad de México relacionadas con la cultura de la legalidad y del respeto a los derechos humanos, la equidad de género y la promoción del desarrollo sustentable, así como la cultura de la calidad;
+
+III. Aplicar en las áreas de su adscripción las normas, criterios, sistemas y procedimientos de trabajo que dicte la Dirección General, y los establecidos en la normativa vigente;
+
+IV. Proponer a la Dirección General la creación, organización, modificación, fusión o supresión de las áreas de su competencia, para la decisión en su sometimiento para su aprobación de la Junta de Gobierno.
+
+V. Ejercer las acciones que se les deleguen, por la Dirección General, así como los actos que les correspondan por suplencia;
+
+VI. Informar a la Dirección General sobre las necesidades de las distintas áreas del Instituto, para la integración del programa de presupuesto y cuadro anual de necesidades;
+
+VII. Proponer a la persona titular de la Dirección General, las acciones pertinentes a integrar el programa estratégico de desarrollo de mediano plazo, del operativo anual y del anteproyecto de presupuesto anual de las áreas que tengan adscritas y vigilar su correcta y oportuna ejecución;
+
+VIII. Contribuir en la formulación, ejecución y control de los programas institucionales;
+
+IX. Participar en la ejecución de los recursos asignados que se deriven de las acciones de vinculación e integración social, o cualquier otra, de acuerdo con la normativa aplicable;
+
+X. Someter a la aprobación de la Dirección General los estudios y proyectos de modernización y simplificación que se elaboren;
+
+XI. Celebrar y suscribir instrumentos de naturaleza educativa, científica, tecnológica, cultural y deportiva, o cualquier otro, inherentes a los objetivos institucionales, por instrucciones de la Dirección General;
+
+XII. Proporcionar la información solicitada por la Unidad de Enlace del Instituto, en los términos de la normativa aplicable;
+
+XIII. Planear, dirigir y controlar las estrategias y acciones que permitan orientar los servicios educativos del Instituto hacia el logro de los programas y proyectos institucionales congruentes con los aprobados por la Junta de Gobierno;
+
+XIV. Las demás atribuciones que sean necesarias para el cumplimiento de las anteriores.
+
+> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 302 Septies.
+
+Corresponde a la Dirección Ejecutiva de Asuntos Estudiantiles:
+
+I. Proponer a la Dirección General las normas, políticas, programas, objetivos y metas para la integración, coordinación, operación, administración, control y evaluación de la administración escolar de las modalidades escolarizada, a distancia y mixta, en congruencia con el modelo educativo y supervisar su cumplimiento;
+
+II. Planear, diseñar, dirigir, operar y evaluar, con la participación de las áreas competentes, los procedimientos de selección, ubicación admisión para el ingreso (sic) modalidades escolarizada, a distancia y mixta;
+
+III. Planear, diseñar, dirigir, controlar y evaluar los procedimientos administrativos de inscripción, reinscripción, cambios de programa académico o de unidad, movilidad académica, incorporación a programas académicos adicionales, y altas y bajas de los estudiantes en los niveles y modalidades que imparte el Instituto;
+
+IV. Dirigir, controlar y evaluar el registro de las trayectorias escolares de los estudiantes, la expedición de constancias y certificados de estudios y el otorgamiento de diplomas, títulos profesionales y grados académicos;
+
+V. Expedir, validar y autenticar con su firma las constancias, certificados, títulos, diplomas y grados académicos de las personas que hayan concluido sus estudios en el Instituto;
+
+VI. Planear, dirigir, operar y evaluar el sistema institucional de gestión escolar y controlar su aplicación en las Unidades Académicas del Instituto;
+
+VII. Dirigir, administrar, controlar y resguardar el acervo académico documental e histórico de los estudiantes y egresados;
+
+VIII. Dirigir, realizar, controlar y evaluar los trámites de la administración escolar relativos al otorgamiento de equivalencias o revalidación de estudios;
+
+IX. Informar a la Dirección General acerca del desarrollo y resultados de sus funciones, en cumplimiento a las políticas institucionales relacionadas con la cultura de la legalidad, del respeto a los derechos humanos, la equidad de género y la promoción del desarrollo sustentable;
+
+X. Regular el registro y control de los servicios escolares, a través de las Unidades Académicas y mecanismos digitalizados;
+
+XI. Dictaminar los casos de los estudiantes que le soliciten revisión de situación escolar;
+
+XII. Coordinar el desarrollo de los servicios de apoyo a los estudiantes del Instituto;
+
+XIII. Participar, en el ámbito de su competencia, en el diseño y aplicación del proceso de admisión, ubicación, e ingreso de los estudiantes del Instituto;
+
+XIV. Emitir opciones técnicas sobre la definición de equivalencias de estudios entre los diversos planes de estudio ofrecidos por el Instituto y los ofrecidos por otras Instituciones;
+
+XV. Realizar los trámites correspondientes al Registro Académico de los estudiantes del Instituto;
+
+XVI. Regular el registro y control de los servicios escolares en las Unidades Académicas y coordinar el desarrollo de los servicios de apoyo a los estudiantes del Instituto;
+
+XVII. Emitir opiniones con respecto a las solicitudes de otorgamiento o revocación de reconocimiento de validez oficial de estudios;
+
+XVIII. Participar en la elaboración de la normativa para las equivalencias o revalidaciones de estudios y emitir los dictámenes correspondientes;
+
+XIX. Coordinar, controlar y supervisar la elaboración de los contenidos académicos y aplicación de los exámenes ordinarios, extraordinarios y a título de suficiencia; autorizar y dar seguimiento a aquellos que se realicen fuera de los periodos establecidos en el calendario académico, y orientar y asesorar a las Unidades Académicas sobre el particular;
+
+XX. Proponer a la Dirección General, para su sometimiento a la Junta de Gobierno, en coordinación con las Unidades Administrativas competentes, el calendario académico del Instituto y vigilar su cumplimiento, y
+
+XXI. Las demás que sean necesarias para el ejercicio de las anteriores, las que las disposiciones legales y administrativas le otorguen y las que les sean conferidas expresamente por la Dirección General.
+
+> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 302 Octies.
+
+Corresponde a la Dirección Ejecutiva de Campus:
+
+I. Establecer, en coordinación con las Unidades Académicas del Instituto los cupos máximos de admisión de los estudiantes, conforme a criterios académicos, planta docente, capacidad instalada y equilibrio entre oferta y demanda, entre otros;
+
+II. Proponer, impulsar y supervisar la aplicación de las normas que para tal efecto emita la Dirección General respecto a los perfiles y procedimientos de admisión para el ingreso, permanencia y egreso de los estudiantes;
+
+III. Establecer acciones pertinentes para alcanzar las metas de retención y eficiencia terminal que sean señaladas institucionalmente;
+
+IV. Aprobar, supervisar y evaluar las prácticas y visitas escolares, técnicas y profesionales, con la finalidad de fortalecer las relaciones teórico-prácticas en la formación de los estudiantes del Instituto;
+
+V. Promover, supervisar y controlar la integración y operación de las plantillas docentes de las Unidades Académicas, así como su participación en el desarrollo educativo a nivel intra e interinstitucional, de acuerdo con la normatividad aplicable;
+
+VI. Planear, coordinar y evaluar los programas de intercambio académico de docentes, investigadores y estudiantes con instituciones y organismos nacionales e internacionales, en los términos de las normas y políticas correspondientes;
+
+VII. Participar en la operación de los programas académicos;
+
+VIII. Participar con las instancias correspondientes en la elaboración e implantación de proyectos que apoyen la prestación del servicio social y las prácticas profesionales y titulación;
+
+IX. Impulsar y coordinar la participación de las Unidades Académicas en los procesos de acreditación y certificación, de acuerdo con las estrategias de calidad del Modelo Educativo;
+
+X. Desarrollar acciones de vinculación entre los diferentes órdenes de gobierno, instituciones educativas, organizaciones civiles y sector productivo que beneficien a la formación de los estudiantes del Instituto;
+
+XI. Proponer los criterios académicos para el diseño y adecuación de los espacios educativos, la adquisición y uso de equipos, instrumentos y otros medios didácticos para impartir los programas académicos del Instituto;
+
+XII. Evaluar la estructura académica de las Unidades;
+
+XIII. Proponer a la Dirección General los programas y acciones para actualizar, modernizar y optimizar la infraestructura física y técnica de las Unidades Académicas;
+
+XIV. Impulsar y coordinar acciones de integración institucional de los estudiantes, personal académico, administrativo y directivo de las Unidades Académicas;
+
+XV. Informar a la Secretaría General acerca del desarrollo y los resultados de sus funciones;
+
+XVI. Consolidar la información académica, supervisar su eficiencia, calidad y oportunidad, así como elaborar la estadística de su competencia;
+
+XVII. Proponer a la Dirección General, para su sometimiento a la Junta de Gobierno, en coordinación con las Unidades Administrativas competentes, el calendario académico del Instituto y vigilar su cumplimiento, y
+
+XVIII. Las demás que sean necesarias para el ejercicio de las anteriores, las que las disposiciones legales y administrativas le otorguen y las que les sean conferidas expresamente por la Dirección General.
+
+> <small>(ADICIONADO, G.O. 9 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 302 Nonies.
+
+Corresponde a la Dirección Ejecutiva del Campus Virtual:
+
+I. Proponer a la Dirección General y, en su caso, a las instancias competentes los proyectos de normas, políticas, programas, lineamientos, estrategias, objetivos, metas e instrumentos para la planeación, desarrollo, diversificación, operación y evaluación de la oferta educativa en modalidades a distancia y mixta, en concordancia con los modelos educativos y de integración social, así como para el diseño, selección, uso y gestión de recursos y medios tecnológicos aplicados a entornos educativos, en el ámbito de su competencia;
+
+II. Coordinar y aprobar, con la participación de las áreas competentes, la metodología, los modelos y procesos para diseñar, implantar, operar y evaluar las modalidades educativas electrónicas; a distancia y mixta, de acuerdo con el modelo educativo y los lineamientos de tecnologías de información y comunicación;
+
+III. Coordinar con las áreas competentes el diseño y elaboración de materiales educativos y en la aplicación de recursos tecnológicos para la operación de la oferta educativa en modalidades presencial, a distancia y mixta;
+
+IV. Diseñar la metodología, los modelos y procesos para implantar, operar y evaluar las modalidades educativas presencial, a distancia y mixta, de acuerdo con el modelo educativo y asegurar la correspondencia de los programas, diseños, materiales y medios con los requerimientos de la oferta educativa del Instituto y realizar acciones de diagnóstico con sus resultados;
+
+V. Diseñar, proponer, actualizar y coordinar el desarrollo de proyectos en materia de tecnologías de información y comunicación para impulsar el diseño y utilización de nuevas tecnologías y apoyar en la inserción de los estudiantes a la sociedad del conocimiento;
+
+VI. Administrar y establecer en coordinación con las dependencias competentes los criterios de planeación, operación e implementación del uso de las tecnologías de la información y comunicación, así como el óptimo aprovechamiento de la infraestructura de video, teleconferencia, televisión, internet y otras tecnologías de la información y comunicación dispuestas para los servicios de las Unidad (sic) Académicas;
+
+VII. Participar en el diseño, actualización, adecuación, ampliación y diversificación de la oferta educativa del Instituto en modalidades a distancia y mixta, así como apoyar su desarrollo didáctico;
+
+VIII. Diseñar procesos de selección, inscripción, promoción, seguimiento a la trayectoria académica, movilidad y egreso de los estudiantes en modalidades a distancia y mixta;
+
+IX. Coadyuvar, en el ámbito de su competencia, con las dependencias responsables en el diseño de los procesos de selección, inscripción, promoción, seguimiento a la trayectoria escolar, movilidad y egreso de los estudiantes y docentes de los programas académicos en modalidades a distancia y mixta;
+
+X. Gestionar la actualización y optimización de los medios y sistemas informáticos y de comunicación requeridos para el funcionamiento de las Unidades Académicas;
+
+XI. Coordinar los programas de equipamiento, actualización y mantenimiento de la infraestructura en informática;
+
+XII. Identificar, probar, participar, adaptar e impulsar el desarrollo de soluciones de tecnología educativa acordes a las necesidades de los programas en modalidades presencial, a distancia y mixta, así como para apoyar el trabajo académico colaborativo;
+
+XIII. Promover el establecimiento de redes académicas virtuales intra e interinstitucionales en los ámbitos nacional e internacional, así como operar y participar en aquellas que apoyen el desarrollo de la educación en modalidades a distancia y mixta;
+
+XIV. Conjuntamente con las áreas competentes, promover, coordinar y realizar investigación sobre modalidades educativas a distancia y mixta, así como difundir sus resultados y fomentar su aplicación;
+
+XV. Coordinar, desarrollar y aplicar las tecnologías de la información y comunicación, para mejorar los aprendizajes, la investigación, extensión y gestión de los servicios institucionales;
+
+XVI. Establecer lineamientos y criterios para el diseño, elaboración y uso de tecnologías de apoyo para los procesos académicos del Instituto;
+
+XVII. Diseñar, instrumentar y aplicar los programas de formación, actualización y desarrollo permanente del personal de todos los niveles jerárquicos en el Instituto;
+
+XVIII. Diseñar, proponer, actualizar y difundir programas y proyectos de educación continua, actualización y formación académica, y
+
+XIX. Las demás atribuciones que sean necesarias para el ejercicio de las anteriores, las que las disposiciones legales y administrativas le otorguen y las que le sean conferidas expresamente por la Dirección General.
+
 ###### Artículo 303.
 
 El Sistema de Aguas de la Ciudad de México es el Órgano Desconcentrado que tiene por objeto ser el operador en materia de recursos hidráulicos y de prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y reuso de aguas residuales y cuenta con las siguientes atribuciones:
@@ -13429,6 +13735,14 @@ SEGUNDO.- El presente Decreto amplía el publicado el día catorce de junio de d
 G.O. 7 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 9 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
