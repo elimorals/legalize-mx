@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2019-09-03"
+last_updated: "2019-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1917,7 +1917,7 @@ En tratándose de personas de escasos recursos, dependientes económicos, jornal
 
 ### CAPITULO II. De Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Art. 56.
 
@@ -1935,11 +1935,47 @@ El Instituto de Justicia Alternativa del Estado es un órgano con autonomía té
 
 El Instituto y las sedes regionales, a través de sus titulares, tendrán facultad para elevar a sentencia ejecutoriada los convenios que resuelvan los asuntos que se le presenten. La ley establecerá la competencia, atribuciones y estructura orgánica del Instituto.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+El Poder Judicial contará con un sistema de evaluación de control de confianza para garantizar la probidad y honorabilidad de sus funcionarios, el cual se regirá con los lineamientos que establezca la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+El sistema contará con un órgano de evaluación de control de confianza, cuyo titular durará en su encargo cinco años sin derecho a reelección, y será nombrado por el Congreso del Estado, mediante el voto de las dos terceras partes de los diputados integrantes del Congreso, en los términos que establezca la ley, a propuesta de la terna remitida por el pleno del Supremo Tribunal de Justicia del Estado de Jalisco. Para ser titular del órgano se deberá cumplir con los mismos requisitos que se requieren para ser Magistrado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+Dicho órgano contará además con una comisión de vigilancia integrada por el Presidente del Supremo Tribunal, dos Magistrados, un Consejero del Consejo de la Judicatura y un integrante del Comité de Participación Social del Sistema Estatal Anticorrupción, quienes serán designados en los términos que establezca la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+2019)
+
+Las evaluaciones de control de confianza incluirán cuando menos los siguientes exámenes:
+
+I. Patrimonial y entorno social;
+
+II. Médico;
+
+III. Psicométrico y psicológico;
+
+IV. Poligráfico;
+
+V. Toxicológico; y
+
+VI. Los demás que establezca la Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+Los resultados de las evaluaciones de evolución patrimonial, desempeño y probidad que realice el órgano de manera permanente, deberán ser publicados mensualmente, con excepción de los datos de carácter reservado conforme a la Constitución y la ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Art. 57.
 
-La ley garantizará la independencia de los propios tribunales, la de los magistrados, consejeros y jueces en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
+La ley garantizará la independencia de los propios tribunales, la de los magistrados, consejeros y jueces en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones, así como los principios que habrán de regir la función judicial y los mecanismos de evaluación permanente de los mismos.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 Los tribunales del Poder Judicial resolverán con plenitud de jurisdicción todas las controversias que en el ámbito de su competencia se presenten.
 
@@ -1951,6 +1987,8 @@ Todos los magistrados, consejeros y jueces que integran el Poder Judicial del Es
 
 El pleno del Supremo Tribunal elaborará su propio proyecto de presupuesto. El Consejo de la Judicatura lo hará para el resto del Poder Judicial. Con ellos se integrará el del Poder Judicial, que será remitido por el Presidente del Supremo Tribunal al titular del Poder Ejecutivo, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía y de conformidad con la ley.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+
 A la iniciativa de Presupuesto de Egresos del Estado que presente el titular del Poder Ejecutivo ante el Congreso, se deberá adjuntar, para su valoración, invariablemente, el proyecto de presupuesto elaborado por el Poder Judicial.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2016)</small>
@@ -1961,7 +1999,11 @@ Salvo lo dispuesto por la legislación en materia de disciplina financiera de la
 
 La competencia del Supremo Tribunal de Justicia, su funcionamiento en pleno o salas; la competencia y funcionamiento de los juzgados de primera instancia, menores y de paz, así como de los jurados, se regirá por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+
 La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial, funcionando en pleno o en salas, sobre interpretación de leyes de su competencia, así como los requisitos para su interpretación o modificación, sin que se contravenga la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 El personal de los tribunales, juzgados y demás órganos del Poder Judicial, regirá sus relaciones de trabajo conforme a las disposiciones generales y a las reglas especiales que para cada caso señalen esta Constitución y las leyes aplicables.
 
@@ -1979,83 +2021,93 @@ Las sesiones del pleno serán públicas y, por excepción, reservadas, en los ca
 
 El pleno del Supremo Tribunal de Justicia determinará los magistrados que integrarán cada sala, las cuales serán colegiadas, así como la competencia de las mismas.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Art. 59.
 
 Para ser electo Magistrado del Supremo Tribunal de Justicia del Estado se requiere:
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles; ser nativo del Estado o, en su defecto, haber residido en la entidad durante los últimos cinco años, salvo en el caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del país;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 II. Tener cuando menos treinta y cinco años cumplidos al día de la elección;
 
-III. Poseer el día de la elección, con antigüedad mínima de diez años, título profesional de licenciado en Derecho, abogado o su equivalente, expedido por autoridad o institución legalmente facultada para ello y registrado en la Dirección de Profesiones del Estado;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+III. Poseer el día de la elección, con antigüedad mínima de diez años, título profesional de licenciado en derecho, abogado o su equivalente, expedido por autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General del Estado, Fiscal Central, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia o integrante del Consejo de la Judicatura, Magistrado del Tribunal de Justicia Administrativa o Magistrado del Tribunal de Arbitraje y Escalafón, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento durante el año previo al día de la elección, y
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General del Estado, Fiscal Ejecutivo de Investigación Criminal, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia o integrante del Consejo de la Judicatura, Magistrado del Tribunal de Justicia Administrativa o Magistrado del Tribunal de Arbitraje y Escalafón, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento durante el año previo al día de la elección;
 
-VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día en que tenga verificativo la elección.
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2007)</small>
+VI. No haber sido Secretario de Estado, Fiscal General de la República, Senador o Diputado Federal, a menos que se separe de su encargo un año antes al día en que tenga verificativo la elección; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+VII. Realizar y aprobar las evaluaciones correspondientes, en los términos de esta Constitución y la ley.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Art. 60.
 
-Para la elección de los magistrados del Supremo Tribunal de Justicia, el Consejo de la Judicatura, previa convocatoria realizada por el Congreso del Estado a la sociedad en general, con excepción de los partidos políticos, someterá a consideración del Congreso del Estado una lista de candidatos que contenga, cuando menos, el doble del número de magistrados a elegir, remitiendo los expedientes para acreditar que los ciudadanos propuestos cumplen con los requisitos establecidos en el presente capítulo y tienen aptitud para ocupar dicho cargo.
+Para la elección de los magistrados del Supremo Tribunal de Justicia, se estará a lo siguiente:
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+I. El Congreso del Estado emitirá convocatoria pública abierta a la sociedad en general;
 
-El Congreso del Estado, por acuerdo de las dos terceras partes de los diputados presentes, elegirá al Magistrado que deba cubrir la vacante, dentro de un término improrrogable de treinta días. En caso de que el Congreso no resolviere dentro de dicho término, se entenderá que rechaza la totalidad de los candidatos propuestos.
+II. El Congreso del Estado recibirá las solicitudes y los expedientes de los aspirantes, cubriendo los requisitos que establece la Constitución y acompañando la acreditación de la evaluación de control de confianza, realizada por la institución precisada en la convocatoria;
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+III. Cerrado el registro de los aspirantes, el Congreso del Estado remitirá al Comité de Participación Social del Sistema Anticorrupción del Estado, copia de los expedientes de los aspirantes, para que practique las evaluaciones curriculares y de aptitudes y elabore un informe con sus opiniones técnicas de idoneidad de cada aspirante, el cual deberá ser remitido al Congreso del Estado;
 
-En caso de que el Congreso rechace la totalidad de los candidatos propuestos, el Consejo de la Judicatura someterá una nueva propuesta integrada por personas distintas a la inicial, en los términos de este artículo.
+IV. El Congreso del Estado, a través de la comisión legislativa competente, realizará una entrevista pública a cada aspirante, a la cual se invitará al Comité de Participación Social para que participe en la misma;
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+V. Los aspirantes deberán acreditar un examen teórico práctico de conocimientos jurídicos, para lo cual el Congreso del Estado a través de la comisión legislativa competente deberá solicitar el apoyo a instituciones de educación superior públicas y privadas, y/o a organismos especializados en evaluación, con el seguimiento y vigilancia de representantes de organismos privados y de la sociedad civil;
 
-En igualdad de circunstancias, el Congreso del Estado elige en libertad soberana los nombramientos de magistrados que serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+VI. La comisión legislativa competente debe emitir el dictamen con la lista de los candidatos que hayan cumplido con los requisitos y aprobado las evaluaciones a que se refieren la fracciones II y V de este artículo, acompañando la opinión técnica del Comité de Participación Social; y
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
+VII. El Congreso del Estado, en votación por cédula, y con el voto de cuando menos las dos terceras partes de los diputados integrantes, elegirá dentro de un término improrrogable de treinta días una vez que sea entregado el dictamen por parte de la comisión legislativa competente, al Magistrado que debe cubrir la vacante, en caso de declararse desierta la convocatoria, se procederá a emitir una nueva convocatoria, pudiendo participar aquellos aspirantes registrados dentro de la convocatoria previa.
 
-Los diputados emitirán libremente su voto, en cualquier sentido de los que prevea la ley, de entre la lista de los candidatos que cumplan con los requisitos de elegibilidad, sin que su voto esté condicionado por lo señalado en el párrafo anterior.
+Se declarará desierta la convocatoria cuando:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2008)</small>
+a) No se elija al Magistrado dentro del plazo señalado en la fracción anterior, o
+
+b) Después de tres votaciones ningún candidato alcance la mayoría requerida, debiendo mediar al menos cinco días naturales entre cada votación, pero siempre dentro del plazo anterior.
+
+El Congreso del Estado elige con libertad soberana a los magistrados, en igualdad de circunstancias, preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezca por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+Los diputados emitirán su voto libre y secreto, en cualquier sentido de los que prevea la ley, sin que su voto esté condicionado por lo señalado en el párrafo anterior.
+
+En la designación de magistrados será obligatorio observar el principio de alternancia para la paridad de género.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Art. 61.
 
-Los magistrados del Supremo Tribunal de Justicia durarán en el ejercicio de su encargo siete años, contados a partir de la fecha en que rindan protesta de ley, al término de los cuales podrán ser ratificados y, si lo fueren, continuarán en esa función por diez años más, durante los cuales sólo podrán ser privados de su puesto en los términos que establezcan esta Constitución, las leyes en materia de responsabilidad de los servidores públicos o como consecuencia del retiro forzoso.
+Los magistrados del Supremo Tribunal de Justicia durarán en el ejercicio de su encargo doce años improrrogables, contados a partir de la fecha en que rindan protesta de ley.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2003)</small>
+Los magistrados solo podrán ser removidos de sus cargos en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.
 
-Tres meses antes de que concluya el periodo de siete años para el que fue nombrado un magistrado, el Pleno del Supremo Tribunal de Justicia elaborará un dictamen técnico en el que se analice y emita opinión sobre la actuación y desempeño del magistrado. El dictamen técnico, así como el expediente del magistrado será enviado al Congreso del Estado para su estudio.
+Los magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2003)</small>
+Son causas de retiro forzoso:
 
-El Congreso del Estado decide soberanamente sobre la ratificación o no ratificación de los magistrados mediante el voto de las dos terceras partes de los diputados presentes.
+I. Haber concluido el periodo por el que fue electo;
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2003)</small>
+II. Haber cumplido setenta años de edad;
 
-Si el Congreso del Estado resuelve la no ratificación, el magistrado cesará en sus funciones a la conclusión del periodo para el que fue designado y se procederá a realizar un nuevo nombramiento en los términos de este capítulo.
+III. La incapacidad total permanente declarada por autoridad judicial o administrativa competente; o
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE ENERO DE 2008)</small>
+IV. No aprobar las evaluaciones de control de confianza.
 
-Los magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria. Son causas de retiro forzoso:
-
-I. Haber concluido los diez años del segundo periodo a que se refiere el primer párrafo del presente artículo, o
-
-II. Haber cumplido setenta años de edad.
-
-(NOTA: EL 22 DE ABRIL DE 2010, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO Y EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 25/2008, DECLARÓ LA INVALIDEZ EN LA PORCIÓN NORMATIVA DEL PENÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 28 DE ABRIL DE 2010 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2008)</small>
-
-La Ley Orgánica del Poder Judicial del Estado fijará las causas del retiro voluntario y el haber que tendrá el Magistrado que se retire forzosa o voluntariamente. EL HABER A QUE SE REFIERE ESTE ARTÍCULO ÚNICAMENTE SE ENTREGARÁ A AQUELLOS MAGISTRADOS QUE HUBIESEN CUMPLIDO LA CARRERA JUDICIAL A QUE SE REFIERE LA LEY.
-
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2008)</small>
-
-Los magistrados ratificados para concluir el periodo de diecisiete años no podrán en ningún caso volver a ocupar el cargo, así como los magistrados que habiendo concluido el periodo de siete años, no hubiesen sido ratificados por el Congreso del Estado.
+Las evaluaciones de control de confianza, serán aplicables cada cuatro años a magistrados, mismas que se integrarán a su expediente laboral el cual será de carácter reservado.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2085,25 +2137,27 @@ X. Elegir, de entre sus miembros, al Presidente del Supremo Tribunal de Justicia
 
 XI. Las demás que determinen esta Constitución y las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Art. 63.
 
-Los jueces de primera instancia, menores y de paz, serán elegidos por el Consejo de la Judicatura, con base en los criterios, requisitos y procedimientos que establezca esta Constitución, la Ley Orgánica del Poder Judicial; durarán en el ejercicio de su cargo cuatro años, al vencimiento de los cuales podrán ser reelectos. Los jueces que sean reelectos sólo podrán ser privados de su puesto en los términos establecidos por esta Constitución y las leyes secundarias en materia de responsabilidad de los servidores públicos. Durante su ejercicio, los jueces sólo podrán ser removidos o cambiados de adscripción por acuerdo del Consejo de la Judicatura dictado en los términos que establezca la ley.
+Los jueces de primera instancia, menores y de paz, serán elegidos por el Consejo de la Judicatura, con base en los criterios, requisitos y procedimientos que establezca esta Constitución y la Ley Orgánica del Poder Judicial; el periodo de ejercicio judicial de un juez será de cuatro años, al vencimiento del cual podrá ser reelecto. Los jueces de primera instancia a fin de ser reelectos, deberán acreditar previamente la aprobación de las evaluaciones de control de confianza.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+Los jueces que sean reelectos por segunda ocasión, sólo podrán ser privados de su puesto en los términos establecidos por esta Constitución y las leyes secundarias en materia de responsabilidad de los servidores públicos. Durante su ejercicio, los jueces sólo podrán ser removidos o cambiados de adscripción por acuerdo del Consejo de la Judicatura dictado en los términos que establezca la ley.
 
-En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
+Las evaluaciones de control de confianza serán aplicables cada cuatro años a jueces, las que se integrarán a su expediente laboral el cual será de carácter reservado. Será causa de retiro forzoso el no acreditar las evaluaciones de control de confianza.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2017)</small>
+En la designación de jueces de primera instancia, será obligatorio observar el principio de alternancia para la paridad de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Art. 64.
 
 La administración, vigilancia y disciplina del Poder Judicial, con excepción del Supremo Tribunal de Justicia, estarán a cargo del Consejo de la Judicatura en los términos que establezcan las leyes, con base en esta Constitución.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-El Consejo de la Judicatura estará integrado con cinco miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia, quien lo presidirá, uno se elegirá de entre los jueces de primera instancia inamovibles que tengan más de cuatro años en la judicatura y los otros tres serán de origen ciudadano que no hubieren desempeñado un cargo dentro de la carrera judicial durante los cuatro años anteriores. La elección será por cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa convocatoria a la sociedad.
+El Consejo de la Judicatura estará integrado con cinco miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia, quien lo presidirá, uno se elegirá de jueces de primera instancia que tengan más de tres años en el cargo y los otros tres serán de origen ciudadano que no hubieren desempeñado un cargo dentro de la carrera judicial durante los cuatro años anteriores. La elección será por cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa convocatoria a la sociedad.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2125,17 +2179,17 @@ El Consejo de la Judicatura deberá funcionar en pleno o en comisiones, sus reso
 
 En la designación de los jueces se preferirá, en igualdad de circunstancias, a aquellas personas que hayan prestado sus servicios en el Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial, así como la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial, así como la carrera judicial, la cual se regirá por los principios de independencia judicial, honestidad, diligencia, imparcialidad, honradez, veracidad, excelencia profesional, eficiencia, eficacia, honorabilidad, objetividad, legalidad, rectitud, lealtad, celeridad, probidad y competencia.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
 El Consejo de la Judicatura estará facultado para determinar el número y competencia de los juzgados de primera instancia, menores y de paz, así como para expedir los acuerdos necesarios para el ejercicio adecuado de sus funciones, de conformidad con lo que establezca la ley.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-Las decisiones del Consejo General serán definitivas e inatacables.
+Las decisiones del Consejo de la Judicatura serán definitivas e inatacables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE JULIO DE 2017)</small>
 
@@ -2155,15 +2209,41 @@ Los procedimientos para la aplicación de las sanciones mencionadas anteriorment
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal, bursátil, fiduciaria o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+El Tribunal de Justicia Administrativa contará con un sistema de evaluación de control de confianza el cual se regirá conforme a los lineamientos que establezca la ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+Las evaluaciones de control de confianza serán aplicables cada cuatro años a los magistrados y serán realizadas por el órgano de evaluación de conformidad en lo establecido en su ley orgánica.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Art. 66.
 
-Los magistrados del Tribunal de Justicia Administrativa durarán en su encargo siete años, tendrán derecho a ser reelectos para el periodo inmediato posterior de siete años y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+Los magistrados del Tribunal de Justicia Administrativa durarán en su encargo doce años improrrogables, contados a partir de la fecha en que rindan protesta de ley.
+
+Los magistrados solo podrán ser removidos de sus cargos en los términos que establezcan esta Constitución, las leyes en materia de responsabilidad de los servidores públicos.
+
+Los magistrados del Tribunal de Justicia Administrativa se retirarán de sus cargos en forma forzosa o voluntaria.
+
+Son causas de retiro forzoso:
+
+I. Haber concluido el periodo por el que fue electo;
+
+II. Haber cumplido setenta años de edad;
+
+III. La incapacidad total permanente declarada por autoridad judicial o administrativa competente; o
+
+IV. No aprobar las evaluaciones de control de confianza.
+
+Las evaluaciones de control de confianza, serán cada cuatro años mismas que se integrarán a su expediente laboral el cual será de carácter reservado.
 
 Los requisitos para ser magistrado del Tribunal de Justicia Administrativa serán los mismos que esta Constitución establece para los magistrados del Supremo Tribunal de Justicia.
 
-Los Magistrados del Tribunal de Justicia Administrativa serán elegidos por cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, mediante convocatoria pública en términos de ley.
+Los Magistrados del Tribunal de Justicia Administrativa serán elegidos mediante el procedimiento de designación de los Magistrados del Supremo Tribunal de Justicia del Estado señalado en esta Constitución.
+
+En la designación de magistrados es obligatorio observar el principio de alternancia para la paridad de género.
 
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -3988,3 +4068,23 @@ PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicaci�
 SEGUNDO. En respeto a la estabilidad laboral de los Magistrados que integran el Tribunal Electoral del Estado de Jalisco, el Pleno se integrará por 03 tres Magistrados una vez que fenezca el nombramiento de los que fueron designados por el Senado de la República el 02 dos de Octubre del 2014 dos mil catorce por el periodo de 05 cinco años.
 
 TERCERO. El Tribunal Electoral deberá de realizar las modificaciones y adecuaciones reglamentarias, presupuestales y administrativas necesarias para dar el cumplimiento debido al presente decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27296/LXII/19 QUE REFORMA LOS ARTÍCULOS 56, 57, 59, 60, 61, 63, 64, 65 Y 66 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO; EN MATERIA DEL PODER JUDICIAL Y DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las reformas constitucionales contenidas en los artículos 61 y 66 en lo relativo al periodo de duración en el cargo de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Justicia Administrativa del Estado de Jalisco, respectivamente, no serán aplicables a aquellos que se encuentren en funciones al momento de la entrada en vigor del presente decreto.
+
+TERCERO. La reforma constitucional contenida en el artículo 63, en lo que respecta a la reelección de jueces de primera instancia cada cuatro años, no será aplicable a quienes ya hayan sido ratificados; lo anterior no comprende la obligación de aprobar las evaluaciones de control de confianza.
+
+CUARTO. El Congreso del Estado deberá aprobar las adecuaciones necesarias a la legislación local, dentro del plazo de noventa días hábiles a partir de la entrada en vigor del presente decreto.
+
+QUINTO. El Poder Judicial y el Tribunal de Justicia Administrativa dispondrán de un plazo de noventa días naturales a partir de la aprobación de las adecuaciones en sus respectivas leyes orgánicas, para crear el sistema de evaluación de control de confianza al que se refieren respectivamente los artículos 56 y 65 de esta Constitución. Una vez creado el sistema de evaluación de control de confianza, los magistrados y jueces que se encuentren en funciones, dispondrán de un plazo máximo de seis meses para acreditar haber aprobado las evaluaciones de control de confianza.
+
+SEXTO. Para efectos de cumplir con el último párrafo de los artículos 60 y 66, a partir de la siguiente vacante de magistrado o magistrada que se genere después de la entrada en vigor o que exista al momento de la entrada en vigor del presente decreto, se emitirán las convocatorias públicas una exclusiva para aspirantes mujeres y una exclusiva para aspirantes hombres y así sucesivamente, para lograr la Igualdad en el número de magistrados entre hombres y mujeres.
+
+SÉPTIMO. El órgano a que se refiere el artículo 56 y 65 del presente decreto, deberá estar certificado en sus procesos de evaluación por organismos debidamente acreditados y reconocidos.
+
+OCTAVO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
