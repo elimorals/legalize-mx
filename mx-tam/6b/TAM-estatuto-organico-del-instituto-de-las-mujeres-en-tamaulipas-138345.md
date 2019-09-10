@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-instituto-de-las-mujeres-en-tamaulipas-13
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-09-05"
-last_updated: "2019-09-05"
+last_updated: "2019-09-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,17 +21,19 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE LAS MUJERES EN TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE SEPTIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO DE LAS MUJERES EN TAMAULIPAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS EL 10 DE SEPTIEMBRE DE 2019.]</small>
 
 Estatuto publicado al Número 108 del Periódico Oficial del Estado de Tamaulipas, el jueves 5 de septiembre de 2019.
 
 SECRETARÍA DE BIENESTAR SOCIAL
 
-INSTITUTO DE LA MUJER TAMAULIPECA
+> <small>(F. DE E., P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+INSTITUTO DE LAS MUJERES EN TAMAULIPAS
 
 MARÍA ELENA FIGUEROA SMITH, Directora General del Instituto de las Mujeres en Tamaulipas, en ejercicio de las facultades que me confieren los artículos 21 de la Ley de Entidades Paraestatales del Estado de Tamaulipas y 45 inciso e) de la Ley para la Igualdad de Género en Tamaulipas; y
 
