@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2019-07-08"
+last_updated: "2019-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -725,29 +725,35 @@ La Presidencia de la Mesa Directiva y la Presidencia de la Junta de Gobierno y C
 
 La Mesa Directiva es el Órgano que conduce el Pleno del Congreso y es el Órgano que supervisa el trabajo legislativo de las Comisiones y Comités; asegura el debido desarrollo de los debates, discusiones, votaciones y garantiza que en los trabajos legislativos se observe lo previsto en la Constitución Política del Estado Libre y Soberano de Puebla, en esta Ley, y su Reglamento Interior.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-La Mesa Directiva ejercerá sus funciones del 15 de septiembre al 14 de septiembre del año siguiente. El Presidente deberá entregar un informe de actividades por escrito a más tardar el día 14 de septiembre del periodo que corresponda.
+La Mesa Directiva ejercerá sus funciones de acuerdo a lo siguiente:
 
-I.- (DEROGADA, P.O. 4 DE MARZO DE 2019)
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-II.- (DEROGADA, P.O. 4 DE MARZO DE 2019)
+I.- La primera Mesa Directiva ejercerá funciones del quince de septiembre al quince de marzo del año siguiente; el presidente de la Mesa deberá entregar un informe de actividades por escrito a más tardar el quince de marzo del periodo que corresponda; y
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+II.- La segunda Mesa Directiva ejercerá funciones del dieciséis de marzo al catorce de septiembre; el presidente de la Mesa Directiva deberá entregar un informe de actividades por escrito a más tardar el catorce de septiembre del periodo que corresponda.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 65.
 
-La Mesa Directiva se integra por un Presidente, un Vice-presidente, dos Secretarios y dos Pro-secretarios, atendiendo el principio de paridad de género en su integración.
+La Mesa Directiva se integra por un Presidente, dos Vicepresidentes, dos Secretarios y dos Prosecretarios, atendiendo el principio de paridad de género en su integración.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 66.
 
-En caso de ausencia del Presidente, será sustituido en sus funciones por el Vice-presidente y éste a su vez por uno de los Secretarios.
+Las ausencias de los integrantes de la Mesa Directiva se cubrirán de conformidad con el orden de prelación contenido en la propuesta que resulte electa por el Pleno.
 
-En caso de ausencia de los Secretarios, serán sustituidos por los Pro-secretarios.
+En caso de que las ausencias lo ameriten, el Pleno del Congreso, a propuesta de ésta, determinará por mayoría de votos que Diputados complementarán su integración, únicamente para el desarrollo de la sesión respectiva.
 
 ###### ARTÍCULO 67.
 
-Cuando no concurran el Presidente ni el Vice-presidente, los Secretarios de la Mesa Directiva elegirán por consenso quién de ellos asumirá la Presidencia y Vice-presidencia, llamando a los Diputados Pro-secretarios para que ocupen el cargo de Secretarios de la sesión respectiva.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2019)
 
 ###### ARTÍCULO 68.
 
@@ -871,11 +877,15 @@ XXI.- Las demás que le señalen la Constitución Política del Estado Libre y S
 
 En sus determinaciones el Presidente estará subordinado al voto del Pleno del Congreso y el suyo, en todo caso, será como el de otro Diputado.
 
-#### SECCIÓN SEGUNDA. DEL VICE-PRESIDENTE DE LA MESA DIRECTIVA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS VICEPRESIDENTES DE LA MESA DIRECTIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 76.
 
-Son atribuciones del Vice-presidente:
+Son atribuciones de los Vicepresidentes:
 
 I.- Auxiliar al Presidente en el ejercicio de sus funciones;
 
@@ -923,7 +933,7 @@ XIII.- Las demás que le señale esta Ley, su Reglamento Interior o le encomiend
 
 Al asignar responsabilidades a los Secretarios, el Presidente deberá hacerlo de manera equitativa.
 
-Los Secretarios serán substituidos en sus ausencias por los Pro-secretarios.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ### CAPÍTULO III. DE LA COMISIÓN PERMANENTE
 
@@ -931,11 +941,11 @@ Los Secretarios serán substituidos en sus ausencias por los Pro-secretarios.
 
 La Comisión Permanente es un Órgano Legislativo que funciona durante los periodos de receso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 80.
 
-La Comisión Permanente se integra por nueve Diputados, cuyos integrantes serán los de la Mesa Directiva correspondiente, asumiendo las funciones de Presidente y Secretario, el Presidente y Vicepresidente, respectivamente, y como miembros los Secretarios y Pro-Secretarios. Los tres vocales restantes serán electos por el Pleno, a propuesta de la Junta de Gobierno y Coordinación Política, en la última sesión del periodo ordinario correspondiente, atendiendo el principio de paridad de género en su integración.
+La Comisión Permanente se integra por nueve Diputados, cuyos integrantes serán los de la Mesa Directiva correspondiente, asumiendo las funciones de Presidente y Secretario, el Presidente y el primer Vicepresidente, respectivamente, y como miembros el resto de sus integrantes. Los dos miembros restantes serán electos por el Pleno, a propuesta de la Junta de Gobierno y Coordinación Política, en la última sesión del periodo ordinario correspondiente, atendiendo el principio de paridad de género.
 
 El nombramiento de la Comisión Permanente correspondiente al último periodo de sesiones del tercer año de ejercicio legal, se comunicará al Consejo General del Instituto Electoral del Estado y al Tribunal Electoral del Estado.
 
@@ -981,21 +991,25 @@ Los Grupos Legislativos corresponden a cada uno de los Partidos Políticos con r
 
 Los Diputados de la misma filiación partidista no podrán constituir más de un Grupo Legislativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 87.
 
-Para la constitución de los Grupos o Representaciones Legislativas se requiere presentar a la Mesa Directiva:
+Para la constitución de los Grupos y Representaciones Legislativas se requiere presentar a la Mesa Directiva:
 
-I.- Acta en la que se haga constar que la mayoría de los Diputados de un mismo Partido Político aceptan constituirse en Grupo Legislativo; el documento deberá contener el nombre del Grupo y la lista de sus integrantes y el nombre del Diputado que haya sido electo Coordinador del Grupo Legislativo; y
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+I.- Acta en la que se haga constar que la mayoría de los Diputados de un mismo Partido Político aceptan constituirse en Grupo Legislativo; el documento deberá contener el nombre del Grupo y la lista de sus integrantes y el nombre de los Diputados que hayan sido electos como Coordinador y Vicecoordinador de éste, respectivamente; y
 
 II.- Los Diputados con derecho a asumir una Representación Legislativa solicitarán su registro por escrito para tal efecto ante la Mesa Directiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 88.
 
-Los Grupos Legislativos deberán acreditar su formación y designar Coordinador en la segunda sesión del primer año de ejercicio legal de la Legislatura, procurando atender el principio de paridad de género en su designación, quien podrá ser removido en cualquier tiempo por la mayoría de sus integrantes.
+Los Grupos Legislativos deberán acreditar su formación y designar Coordinador y Vicecoordinador en la segunda sesión del primer año de ejercicio legal de la Legislatura, procurando atender el principio de paridad de género en su designación, quienes podrán ser removidos en cualquier tiempo por la mayoría de sus integrantes, atendiendo lo dispuesto en el artículo anterior.
 
-En el supuesto de que los Diputados pertenecientes a un mismo partido político no lleguen a un acuerdo respecto de quien fungirá como Coordinador del Grupo Legislativo respectivo, comunicarán esta situación a la Mesa Directiva y la designación a que se refiere el párrafo anterior podrá realizarse en cualquier momento.
+En el supuesto de que los Diputados pertenecientes a un mismo Grupo Legislativo no lleguen a un acuerdo respecto de quienes asumirán las funciones de Coordinador o Vicecoordinador, comunicarán esta situación a la Mesa Directiva y las designaciones respectivas podrán realizarse en cualquier momento.
 
 ###### ARTÍCULO 89.
 
@@ -1011,9 +1025,11 @@ La Coalición Legislativa podrá constituirse mediante convenio suscrito por los
 
 Una vez que la Mesa Directiva del Congreso haya revisado el Acta requerida, hará la declaratoria de constitución de Coalición, Grupo o Representación Legislativa y a partir de ese momento ejercerán las atribuciones previstas por esta Ley y su Reglamento Interior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 92.
 
-Los Coordinadores de los Grupos y los Representantes Legislativos serán el conducto para concertar la realización de las funciones legislativas con los Órganos Legislativos.
+Los Coordinadores y Vicecoordinadores de los Grupos, y los Representantes Legislativos, serán el conducto para concertar la realización de las funciones legislativas con los Órganos Legislativos.
 
 Durante el ejercicio de la Legislatura, los Coordinadores de los Grupos Legislativos comunicarán las modificaciones que ocurran en la integración de su grupo, al Presidente de la Mesa Directiva para que realice el registro del número de integrantes y sus modificaciones, y al Presidente de la Junta de Gobierno y Coordinación Política para la determinación exacta del voto ponderado y demás efectos legales.
 
@@ -1048,6 +1064,10 @@ La Junta de Gobierno y Coordinación Política es el órgano plural y colegiado 
 ###### ARTÍCULO 96.
 
 La Junta de Gobierno y Coordinación Política estará integrada por los Coordinadores de los Grupos Legislativos y por los Diputados de las Representaciones Legislativas quienes tendrán derecho de voz y voto; así como por el Presidente de la Mesa Directiva quien únicamente participa con voz.
+
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+Las ausencias de los Coordinadores de los Grupos Legislativos a las sesiones de la Junta de Gobierno y Coordinación Política, serán cubiertas por los Vicecoordinadores de los mismos, quienes tendrán derecho a voz y voto en términos de esta Ley y de su Reglamento.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -1135,7 +1155,9 @@ XVIII.- Las demás que le confiera esta Ley o su Reglamento Interior.
 
 Son atribuciones del Presidente de la Junta de Gobierno y Coordinación Política:
 
-I.- Convocar y presidir las sesiones;
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+I.- Convocar y presidir las sesiones de manera directa o, en su caso, a través del Vicecoordinador del Grupo Legislativo correspondiente;
 
 II.- Coordinar las funciones y actividades de la Junta de Gobierno y Coordinación Política;
 
@@ -1517,7 +1539,9 @@ V.- Comunicación Social.
 
 Las determinaciones del Congreso tendrán el carácter de Ley, Decreto o Acuerdo. Las Leyes y Decretos se sujetarán a los trámites establecidos por los artículos 64 y 140 de la Constitución Política del Estado Libre y Soberano de Puebla, cuando se refiera a reformas o adiciones a la misma.
 
-Los Acuerdos se tramitarán en los términos señalados en la presente Ley y su Reglamento Interior. Las Leyes, Decretos y Acuerdos serán firmados por el Presidente, el Vice-presidente y los Secretarios.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+Los Acuerdos se tramitarán en los términos señalados en la presente Ley y su Reglamento Interior. Las Leyes, Decretos y Acuerdos serán firmados por el Presidente, y por cualquiera de los Vicepresidentes y los Secretarios.
 
 ###### ARTÍCULO 135.
 
@@ -1763,9 +1787,11 @@ El Pleno a solicitud verbal de cualquier Diputado y por mayoría de los presente
 
 El orden del día de las sesiones del Pleno se publicará en la Gaceta Legislativa.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 163.
 
-Las Sesiones del Pleno requerirán, para su validez, la conducción del Presidente de la Mesa Directiva, del Vice-presidente y de los Secretarios, así como la presencia de la mayoría de los integrantes de la Legislatura.
+Las Sesiones del Pleno requerirán, para su validez, la conducción del Presidente de la Mesa Directiva, de los Vicepresidentes y de los Secretarios, así como la presencia de la mayoría de los integrantes de la Legislatura.
 
 ###### ARTÍCULO 164.
 
@@ -1799,9 +1825,11 @@ Los oradores hablarán de forma alternada hasta por diez minutos en contra o a f
 
 Si el orador estuviese ausente cuando le corresponda intervenir se le colocará al último de la lista. Si al terminar las intervenciones no estuviera presente, se procederá a la votación.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 170.
 
-Cuando el Presidente o un integrante de la Mesa Directiva intervengan en las sesiones con ese carácter permanecerá sentado, si quisiera intervenir en las discusiones, lo hará conforme a las reglas aplicables a los Diputados; mientras lo hace, sus funciones serán ejercidas por otro miembro de la Mesa Directiva.
+Cuando el Presidente o un integrante de la Mesa Directiva intervengan en las sesiones con ese carácter permanecerán sentados, si quisieran intervenir en las discusiones, lo harán conforme a las reglas aplicables a los Diputados; mientras lo hacen, sus funciones serán ejercidas por el integrante de la Mesa Directiva que corresponda.
 
 ###### ARTÍCULO 171.
 
@@ -2828,3 +2856,13 @@ P.O. 8 DE JULIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2019.
+
+[N. DE E TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO. Para la atención de lo dispuesto dentro de los artículos 87, fracción I, y 88 del presente Decreto, se considerará para todos sus efectos la integración vigente de los Grupos Legislativos, con sus respectivas designaciones. En cuyo caso bastará con la designación de la o el Diputado que asumirá las funciones de Vicecoordinador, respectivamente.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
