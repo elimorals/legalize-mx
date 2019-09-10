@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-junta-de-asistencia-privada-del-102461"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-24"
-last_updated: "2014-09-24"
+last_updated: "2019-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE SEPTIEMBRE DE 2019.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 24 de septiembre de 2014.
 
@@ -75,11 +75,13 @@ Sectorización de la junta
 
 La junta forma parte de la Administración Pública estatal, por tanto, estará sectorizada a la Secretaría de Desarrollo Social del Gobierno del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 7.
 
 Estructura orgánica de la junta
 
-La junta, para el cumplimiento de su objeto, contará con la estructura orgánica siguiente:
+La junta estará integrada por:
 
 I. Órganos de gobierno:
 
@@ -87,15 +89,13 @@ a) Órgano de gobierno.
 
 b) Director general.
 
-II. Unidades técnico-operativas:
+II. Unidades operativas y administrativas:
 
-a) Dirección de evaluación asistencial.
+a) Dirección de Fomento y Desarrollo.
 
-b) Dirección jurídica.
+b) Dirección de Servicios Internos y Enlace Institucional.
 
-c) Dirección de evaluación financiera.
-
-III. Consejo Consultivo de Asistencia Privada.
+c) Dirección de Evaluación y Vigilancia.
 
 ### Capítulo III. Funcionamiento de la junta
 
@@ -113,11 +113,15 @@ II. El Secretario General de Gobierno.
 
 III. El Secretario de Administración y Finanzas.
 
-IV. El Secretario Técnico del Gabinete, Planeación y Evaluación.
+IV. (DEROGADA, D.O. 10 DE SEPTIEMBRE DE 2019).
 
 V. El Secretario de Salud.
 
 VI. El Secretario de Desarrollo Social.
+
+> <small>(ADICIONADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+VII. El Secretario de Educación.
 
 El titular del Poder Ejecutivo presidirá el órgano de gobierno y en los casos de ausencia será suplido por el Secretario General de Gobierno.
 
@@ -295,7 +299,9 @@ Facultades del director general
 
 El director general, además de las facultades que le confieren el Código de la Administración Pública de Yucatán y la ley, tendrá las siguientes:
 
-I. Expedir las políticas, planes y programas de trabajo en materia de asistencia social del estado, para su análisis y aprobación, así como llevar a cabo su instrumentación y evaluación.
+> <small>(REFORMADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+I. Expedir las políticas, planes y programas de trabajo en materia de asistencia social privada del estado, para análisis y aprobación del órgano de gobierno, así como llevar a cabo su instrumentación y evaluación.
 
 II. Someter al órgano de gobierno los manuales, instructivos, acuerdos y los demás que sean necesarios para el mejor desempeño de las labores de la junta, así como difundirlos una vez aprobados.
 
@@ -307,9 +313,13 @@ V. Nombrar y remover al personal que se encargará de la organización administr
 
 VI. Dar cumplimiento a los acuerdos y resoluciones emitidos por el órgano de gobierno y presentarle los informes respectivos.
 
-VII. Contribuir al crecimiento y desarrollo de las instituciones, a través del otorgamiento de herramientas, asesoría y supervisión para su operación eficaz y confiable.
+> <small>(REFORMADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-VIII. Ordenar la práctica de visitas de inspección a las instituciones, así como iniciar y substanciar procedimientos administrativos para la vigilancia del cumplimiento de la ley.
+VII. Contribuir al fomento y fortalecimiento de las instituciones, para su operación eficaz y confiable.
+
+> <small>(REFORMADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+VIII. Ordenar la práctica de visitas de inspección a las instituciones y de los procedimientos administrativos que correspondan, de conformidad con las disposiciones legales y normativas aplicables.
 
 IX. Emitir las declaratorias de procedencia de constitución, reforma y extinción de las instituciones, así como ordenar su registro y aprobar sus estatutos respectivos.
 
@@ -317,25 +327,37 @@ X. Realizar el procedimiento de constitución por sucesión testamentaria de las
 
 XI. Celebrar contratos, acuerdos, convenios de coordinación, de concertación y de cooperación técnica, y cualquier otro instrumento jurídico para el mejor desempeño de su responsabilidad, así como intervenir en los actos jurídicos en los que la junta sea parte dentro de su competencia.
 
-XII. Recibir los informes periódicos que presenten las instituciones.
+> <small>(REFORMADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-XIII. Conocer la procedencia y demás aspectos relacionados con las donaciones y brindar apoyo para su obtención y perfeccionamiento.
+XII. Recibir y evaluar los informes periódicos que presenten las instituciones.
 
-XIV. Difundir a las instituciones, las convocatorias para la presentación de proyectos y obtención de donativos.
+XIII. (DEROGADA, D.O. 10 DE SEPTIEMBRE DE 2019)
 
-XV. Promover y fomentar la creación de instituciones.
+> <small>(REFORMADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-XVI. Promocionar los servicios asistenciales que proporcionan las instituciones, así como las actividades que realiza la junta para el desarrollo de la asistencia social en el estado.
+XIV. Difundir entre las instituciones las convocatorias de entidades donantes, ya sean públicas o privadas.
+
+> <small>(REFORMADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+XV. Promover y fomentar la creación de instituciones de asistencia privada, de acuerdo con las políticas públicas del estado en la materia.
+
+> <small>(REFORMADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+XVI. Difundir los servicios asistenciales que proporcionan las instituciones y las actividades que realiza la junta para el desarrollo de la asistencia social en el estado.
 
 XVII. Solicitar a las instituciones la información y los documentos que deban rendir a la junta, conforme a las disposiciones legales y normativas aplicables.
 
-XVIII. Evaluar el informe de actividades que presenten las instituciones y emitir, en su caso, las recomendaciones tendientes al cumplimiento de su objeto social.
+XVIII. (DEROGADA, D.O. 10 DE SEPTIEMBRE DE 2019)
 
-XIX. Administrar los recursos humanos y asegurar los recursos materiales, tecnológicos y financieros que permitan una operación eficaz de la junta para cumplir sus objetivos y satisfacer la demanda de servicios de las instituciones.
+> <small>(REFORMADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+XIX. Administrar los recursos humanos y asegurar los recursos materiales, tecnológicos y financieros que permitan a la junta una operación eficaz, para el cumplimiento de sus objetivos.
 
 XX. Representar a la junta ante los tribunales estatales o federales, a efecto de contestar demandas, ejercitar acciones, formular excepciones y defensas, así como cualquier otro acto necesario para la defensa de los intereses de dicho organismo.
 
-XXI. Integrar y mantener actualizado el Registro Estatal de Instituciones de Asistencia Privada, a que hace referencia la ley.
+> <small>(REFORMADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+XXI. Integrar, mantener actualizado y publicar el Registro Estatal de Instituciones de Asistencia Privada.
 
 XXII. Determinar la responsabilidad de los patronos y, en su caso, su remoción por realizar conductas contrarias a las establecidas en la ley y demás disposiciones legales y normativas aplicables, sin menoscabo de las sanciones de índole penal o civil que correspondan a las autoridades competentes.
 
@@ -343,123 +365,145 @@ XXIII. Elaborar y ejecutar los programas de capacitación y profesionalización 
 
 XXIV. Establecer las coordinaciones de proyectos especiales que se requieran, siempre que sean de carácter temporal, previa autorización del órgano de gobierno.
 
-XXV. Las demás que señale la ley, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
-#### Sección tercera. Unidades técnico-operativas
+XXV. Obtener, analizar y estudiar información relacionada con el objeto de la junta, para generar políticas públicas o estrategias que permitan el desarrollo de las actividades de las instituciones de asistencia privada en el estado.
+
+XXVI. Las demás que señale la ley, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
+
+#### Sección tercera. Unidades operativas y administrativas
+
+> <small>(REFORMADO, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 28.
 
-Unidades técnico-operativas y personal del centro
+Unidades operativas y administrativas
 
-La junta contará con las unidades administrativas establecidas en el artículo 7, fracción II, de este estatuto orgánico y aquellas que apruebe la junta de gobierno para el cumplimiento de su objeto de conformidad a la disponibilidad presupuestal.
+La junta contará con las unidades operativas y administrativas establecidas en el artículo 7, fracción II, de este estatuto orgánico y aquellas que apruebe el órgano de gobierno para el cumplimiento de su objeto, de conformidad con la disponibilidad presupuestal de la junta.
 
-De igual forma, los titulares de las unidades técnico-operativas de la junta estarán auxiliados por el personal que requieran las necesidades del servicio, siempre que lo permita su presupuesto.
+Los titulares de las unidades operativas y administrativas de la junta estarán auxiliados por el personal que requieran las necesidades del servicio, siempre que lo permita su presupuesto.
+
+> <small>(REFORMADO, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 29.
 
-Facultades de carácter general de las unidades técnico-operativas
+Facultades y obligaciones generales de los titulares de las unidades operativas y administrativas
 
-Las unidades técnico-operativas tendrán las atribuciones de carácter general siguientes:
+Los titulares de las unidades operativas y administrativas de la junta tendrán las siguientes facultades y obligaciones generales:
 
-I. Programar, organizar, instrumentar y evaluar en forma coordinada la asistencia social y las funciones encomendadas a la unidad administrativa a su cargo.
+I. Programar, organizar, ejecutar y evaluar las actividades y tareas de la unidad a su cargo.
 
-II. Proponer al director general, la resolución de los asuntos que competan al área administrativa a su cargo.
+II. Proponer al director general la atención de los asuntos que le competan a la unidad a su cargo.
 
-III. Ejecutar en la esfera de sus atribuciones los acuerdos que el órgano de gobierno le instruya al director general.
+III. Ejecutar, en el ámbito de sus respectivas competencias, los acuerdos que el órgano de gobierno de la junta le instruya al director general.
 
-IV. Elaborar los proyectos de manuales de organización, de procedimientos y de servicios que preste la junta, con apego a lo establecido en las disposiciones legales y normativas aplicables.
+IV. Elaborar los proyectos de (sic) manual de organización, de procedimientos y de servicios que correspondan a la unidad a su cargo, de conformidad con las disposiciones legales y normativas aplicables.
 
-V. Realizar investigaciones, estudios y emitir dictámenes, informes y opiniones que contribuyan al fortalecimiento de la asistencia social.
+V. Presentar al director general un informe mensual sobre los asuntos que conozca.
 
-VI. Proporcionar asesoría financiera, legal y dar capacitación a las organizaciones civiles o personas interesadas en constituir una institución de asistencia privada en el estado de Yucatán.
+VI. Las demás que establezcan la ley y otras disposiciones legales y normativas aplicables.
 
-VII. Presentar al director general un informe bimestral de los asuntos que conozca.
-
-VIII. Las demás que establezca la ley y otras disposiciones legales y normativas aplicables en la esfera de su competencia.
+> <small>(REFORMADO, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 30.
 
-Facultades y obligaciones del director de evaluación asistencial
+Facultades y obligaciones del director de Fomento y Desarrollo
 
-El director de evaluación asistencial tendrá las facultades y obligaciones siguientes:
+El director de Fomento y Desarrollo tendrá las facultades y obligaciones siguientes:
 
-I. Elaborar el proyecto de políticas generales en materia de asistencia social.
+I. Asesorar a los ciudadanos que lo soliciten en lo relacionado con la constitución, administración, funcionamiento y desarrollo de las instituciones, así como en los demás asuntos que permitan el cumplimiento de su objeto.
 
-II. Sistematizar los modelos de atención que brinde la junta, o en su caso, ampliar los que sean necesarios para la mejor prestación de los servicios y cumplimiento del objeto de la ley.
+II. Presentar el proyecto de dictamen correspondiente a las solicitudes de constitución de instituciones o de modificación de su objeto social.
 
-III. Asesorar a las instituciones que lo soliciten en lo relacionado a su constitución, desarrollo, funcionamiento, administración y demás aspectos relativos al cumplimiento de su objeto.
+III. Solicitar los programas anuales de trabajo de las instituciones.
 
-IV. Participar con los directores, jurídico y de evaluación financiera, en el análisis y dictamen de solicitudes de aprobación relacionadas con la constitución, transformación, reformas y emisión de estatutos, transformación o fusión de las instituciones, así como emitir opiniones sobre los documentos respectivos y los fines asistenciales que persigan para la posterior resolución que al efecto emita el director general.
+IV. Diseñar el programa anual de fortalecimiento institucional para las instituciones, considerando, entre otros aspectos, los dictámenes de la Dirección de Evaluación y Vigilancia de la junta.
 
-V. Revisar los programas anuales de trabajo de las instituciones y entregarlos a la dirección general para la presentación y, en su caso, aprobación del órgano de gobierno.
+V. Diseñar un programa de difusión que permita dar a conocer las actividades desarrolladas por las instituciones y la junta.
 
-VI. Elaborar y ejecutar los programas de capacitación y profesionalización de las instituciones.
+VI. Proporcionar, a los patronatos que lo soliciten orientación y ayuda para la buena administración de los bienes de las instituciones y para que estas proporcionen de mejor manera los servicios relacionados con sus fines.
 
-VII. Proporcionar a los patronatos que lo soliciten, orientación y ayuda para la buena administración de los bienes de las instituciones, así como para que proporcionen de la mejor manera los servicios inherentes a sus fines.
+VII. Obtener información sobre las problemáticas sociales atendidas por las instituciones y las áreas de oportunidad que existen en el estado en materia de asistencia social.
 
-VIII. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+VIII. Realizar estudios e investigaciones que permitan el fortalecimiento de la asistencia social.
+
+IX. Emitir dictámenes, opiniones e informes en materia de asistencia social.
+
+X. Prestar asesoría a las instituciones en materia administrativa, legal, contable y asistencial.
+
+XI. Apoyar a las instituciones en el desarrollo de los trámites que deban realizar ante las autoridades correspondientes, para el cumplimiento de su objeto social.
+
+XII. Las demás que determine el director general o establezcan este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 31.
 
-Facultades y obligaciones del director jurídico
+Facultades y obligaciones del director de Servicios Internos y Enlace Institucional
 
-El director jurídico tendrá las facultades y obligaciones siguientes:
+El director de Servicios Internos y Enlace Institucional tendrá las facultades y obligaciones siguientes:
 
-I. Atender, dirigir, coordinar y supervisar los asuntos jurídicos de la junta, así como proporcionar asistencia jurídica al director general en los actos que se requieran.
+I. Atender los asuntos administrativos, financieros y jurídicos de la junta, y representarla legalmente en los asuntos que determine el director general.
 
-II. Dar asesoría a las instituciones que lo soliciten, sobre aspectos legales para la buena administración de los bienes, la elaboración de sus estatutos y, en general, para que desarrollen las actividades de asistencia social y prestación eficaz de los servicios inherentes a sus fines.
+II. Promover, a solicitud de las instituciones, y cuando proceda, las modificaciones de sus estatutos orgánicos, para que se ajusten a las disposiciones legales y normativas aplicables.
 
-III. Asesorar a las personas interesadas en crear o modificar las instituciones previstas en la ley, sobre los requisitos que deben contener las actas de asamblea, sus estatutos, así como los trámites que deban ser planteados a la junta o de tipo notarial a que hubiera lugar.
+III. Recibir, conocer y archivar las copias de las actas de las sesiones de los patronatos de las instituciones.
 
-IV. Asesorar a los representantes legales o apoderados de las asociaciones civiles ya constituidas legalmente, que tengan un objeto social análogo al concepto de asistencia privada, para que en el caso de estimarlo conveniente, constituyan instituciones.
+IV. Recibir y atender los documentos que presenten las instituciones para el desarrollo de los trámites legales que deban ser llevados ante la junta conforme a la legislación aplicable.
 
-V. Realizar el dictamen técnico legal de procedencia de constitución o transformación de las instituciones, así como elaborar la resolución que al efecto dicte el director general.
+V. Revisar los proyectos de estatuto de las instituciones que se vayan a constituir y presentar al órgano de gobierno de la junta el dictamen correspondiente.
 
-VI. Substanciar los recursos administrativos que se interpongan contra actos y resoluciones de la junta y elaborar las resoluciones que al efecto correspondan para la firma del director general.
+VI. Realizar el documento de resolución de procedencia o improcedencia de constitución de las instituciones.
 
-VII. Substanciar el procedimiento administrativo instaurado a las instituciones, elaborar el proyecto de resolución de constitución, reformas o extinción que dicte el director general.
+VII. Substanciar el procedimiento administrativo y de extinción instaurado a las instituciones.
 
-VIII. Asesorar legalmente al director general y demás unidades administrativas de la junta con motivo del desempeño de sus atribuciones, así como emitir opinión sobre las consultas que en materia jurídica le formulen, procurando unificar criterios en la aplicación de la ley, este estatuto orgánico y demás disposiciones legales y normativas aplicables.
+VIII. Elaborar el proyecto de resolución de aplicación de sanciones o de extinción de instituciones que determine el órgano de gobierno de la junta.
 
-IX. Las demás que establezca la ley, este estatuto orgánico y demás disposiciones legales y normativas aplicables.
+IX. Emitir opinión sobre las consultas jurídicas que le formulen el director general y las unidades operativas y administrativas de la junta, y procurar la unificación de criterios en la aplicación de la ley, de este estatuto orgánico y de las demás disposiciones legales y normativas aplicables.
+
+X. Elaborar los proyectos de convenios o contratos que deba celebrar la junta con otras instituciones públicas o privadas.
+
+XI. Representar a la junta en pleitos y cobranzas, actos de dominio y gestiones administrativas y laborales.
+
+XII. Apoyar a la dirección general en la elaboración de los programas presupuestales y operativos de la junta, de acuerdo con lo que establezca la Secretaría de Administración y Finanzas.
+
+XIII. Fungir como enlace institucional de la junta para el desarrollo de las actividades y el cumplimiento de las obligaciones dispuestas por los organismos administrativos y fiscalizadores en materia financiera, fiscal, presupuestal y jurídica.
+
+XIV. Integrar y mantener actualizado el Registro Estatal de Instituciones de Asistencia Privada.
+
+XV. Las demás que determine el director general o establezcan este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 32.
 
-Facultades y obligaciones del director de evaluación financiera
+Facultades y obligaciones del director de Evaluación y Vigilancia
 
-El director de evaluación financiera tendrá las facultades y obligaciones siguientes:
+El director de Evaluación y Vigilancia tendrá las facultades y obligaciones siguientes:
 
-I. Llevar los asuntos financieros de la junta y apoyar al director general en la elaboración del programa operativo anual.
+I. Recabar la información relacionada con los bienes que constituyan el patrimonio de las instituciones y con las donaciones que reciban.
 
-II. Proporcionar asesorías contables, fiscales y administrativas a las instituciones para su mejor operación, la consecución de sus fines y el debido cumplimiento de la ley.
+II. Realizar las visitas de inspección y verificación a las instituciones, para vigilar el cumplimiento de las disposiciones legales y normativas aplicables; gestionar, para tal efecto, la participación de las autoridades relacionadas con el objeto social de las instituciones a visitar; y evaluar su desempeño.
 
-III. Recabar la información que presenten las instituciones a la junta, relacionada con los bienes que constituyan su patrimonio y las donaciones que reciban, para llevar un control e informar al director general.
+III. Revisar la información de las instituciones con respecto a las donaciones que reciban.
 
-IV. Conocer y dar seguimiento a los actos que realicen las instituciones para el cumplimiento de su objeto.
+IV. Realizar los dictámenes que resulten de las visitas de inspección y verificación realizadas a las instituciones, y presentarlos al director general de la junta, para el conocimiento del órgano de gobierno.
 
-V. Emitir el dictamen financiero de las instituciones para la procedencia de su transformación, extinción y liquidación.
+V. Las demás que determine el director general o establezcan este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
-VI. Apoyar en la gestión de las autorizaciones para recibir donativos deducibles de impuestos que establece la ley hacendaria, correspondientes a las instituciones.
-
-VII. Comprobar la viabilidad de los eventos que propongan celebrar las instituciones con la finalidad de procurarse fondos.
-
-VIII. Asesorar a las instituciones que lo soliciten en la elaboración del informe anual al que hace referencia la ley.
-
-IX. Las demás que señale la ley y otras disposiciones legales y normativas aplicables.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 #### Sección cuarta. Consejo Consultivo de Asistencia Privada
 
 ###### Artículo 33.
 
-Objeto del consejo
-
-La junta para el cumplimiento de su objeto contará con el Consejo Consultivo de Asistencia Privada, como un espacio ciudadano, plural, incluyente y representativo de la sociedad civil, en general, y de las instituciones, en particular; que tiene por objeto promover la participación ciudadana en materia de asistencia social.
+(DEROGADO, D.O. 10 DE SEPTIEMBRE DE 2019)
 
 ###### Artículo 34.
 
-Organización y funcionamiento del consejo
-
-La organización y funcionamiento del Consejo Consultivo de Asistencia Privada, se sujetará a lo dispuesto en la ley, el Reglamento Interior del Consejo Consultivo de Asistencia Privada y demás disposiciones legales y normativas aplicables.
+(DEROGADO, D.O. 10 DE SEPTIEMBRE DE 2019)
 
 ### Capítulo IV. Patrimonio
 
@@ -524,3 +568,17 @@ Aprobado por el Órgano de Gobierno de la Junta de Asistencia Privada del Estado
 CIUDADANA BERTA ALICIA ROSADO RODRIGUEZ
 
 DIRECTORA GENERAL DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE YUCATAN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 10 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO JAPEY 1/2019 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA JUNTA DE ASISTENCIA PRIVADA DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general de la Junta de Asistencia Privada del Estado de Yucatán, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá de realizar la inscripción de las modificaciones efectuadas al Estatuto Orgánico de la Junta de Asistencia Privada del Estado de Yucatán en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas.
