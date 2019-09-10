@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2019-05-11"
+last_updated: "2019-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -1311,73 +1311,45 @@ Tratándose de permutas, se considerará que se efectúan dos adquisiciones.
 
 Es sujeto de este impuesto la persona física o jurídica que, como resultado de cualquiera de los actos jurídicos o contratos a que se refiere el artículo inmediato anterior, adquiera el dominio, derechos de propiedad, copropiedad o cualquier derecho real sobre uno o más bienes inmuebles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Art. 114.
 
 En la determinación de la base del impuesto sobre transmisiones patrimoniales, se aplicarán las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2017)</small>
+I. Será base del impuesto sobre Transmisiones Patrimoniales, el valor más alto entre:
 
-I. Será base del Impuesto sobre Transmisiones Patrimoniales, el valor más alto entre:
-
-a) Valor de avalúo practicado por perito autorizado y aprobado por la Dirección de Catastro del Municipio correspondiente.
+a) Valor de avalúo practicado por perito autorizado y aprobado por la dirección de Catastro del Municipio correspondiente.
 
 b) El valor o precio de operación pactado y señalado en el aviso de transmisión patrimonial, contrato o escritura pública.
 
-Tratándose de la transmisión, cualquiera que sea la forma en que se haga, de inmuebles destinados exclusivamente a casa habitación, o lotes de terreno que se dedicarán a tal fin, la base del impuesto será el valor de avalúo autorizado por la Dirección de Catastro del Municipio correspondiente.
+Tratándose de la transmisión, cualquiera que sea la forma en que se haga, de inmuebles destinados exclusivamente a casa habitación, o lotes de terreno que se dedicarán a vivienda unifamiliar, la base del impuesto será el valor de avalúo autorizado por la Dirección de Catastro del Municipio correspondiente.
 
-Por lo que ve al destino o uso del inmueble materia de la operación, el adquirente lo manifestará en el contrato o escritura pública, bajo protesta de decir verdad; en caso que manifieste destino o uso habitacional y posteriormente lo destine a otro uso o fin diverso, el adquirente deberá pagar el diferencial, de haberlo, con actualización y recargos correspondientes, conforme a lo dispuesto en los incisos a) y b) que anteceden.
-
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+Por lo que ve al destino o uso del inmueble materia de la operación, el adquiriente lo manifestará en el contrato o escritura pública, bajo protesta de decir verdad; en caso que manifieste destino o uso habitacional unifamiliar y posteriormente lo destine a otro uso o fin diverso, el adquiriente deberá pagar el diferencial, de haberlo, con actualización y recargos correspondientes, conforme a lo dispuesto en los incisos a) y b) que anteceden.
 
 II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, deberá presentarse avalúo practicado por perito valuador acreditado o dictamen de valor elaborado por la autoridad catastral, conforme a las disposiciones de la Ley de Catastro Municipal;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
-
 III. Tratándose de inmuebles que cuenten con accesorios o instalaciones especiales, deberá practicarse avalúo por perito valuador acreditado;
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 IV. Los peritos valuadores acreditados deberán presentar sus avalúos ante la autoridad catastral municipal para fines de revisión y, en su caso, aprobación;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
-
 V. Si las autoridades advierten que los avalúos consignan valores inferiores a los reales, se practicará nuevo avalúo por un perito valuador acreditado, con cargo a la Tesorería Municipal correspondiente, a efecto de dar cumplimiento a lo dispuesto en la fracción II de este artículo;
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 VI. Cuando el contribuyente considere que el dictamen de valor asignado al inmueble, con base en lo preceptuado en la fracción I de este artículo, es superior al valor real, podrá solicitar la reclasificación de los datos catastrales, a fin de que la autoridad catastral haga la ratificación o rectificación según corresponda, en los términos de la Ley de Catastro Municipal;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
-
 VII. Cuando la autoridad catastral considere que el avalúo presentado para su revisión es coincidente con los valores reales, y éstos sean inferiores a los valores de tablas, estará facultada para emitir un dictamen, fundado y motivado, mediante el cual apruebe el avalúo correspondiente;
-
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
 VIII. Para la actualización del valor catastral, se podrán tomar en consideración los datos y características del inmueble, que se consignen en el avalúo practicado por el perito valuador acreditado;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
-
 IX. En la constitución, adquisición, acrecentamiento o extinción del usufructo, del derecho de superficie o de la nuda propiedad, y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el avalúo o dictamen de valor según sea el caso, de conformidad con la fracción I de este artículo. Para los fines de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos del 50% cincuenta por ciento del valor de la propiedad;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
-
-X. Tratándose de permutas será base de este impuesto el 100% cien por cien (sic) del valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en las fracciones I y II de este artículo;
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
+X. Tratándose de permutas será base de este impuesto el 100% cien por ciento del valor de cada uno de los bienes permutados, determinado de conformidad con lo dispuesto en las fracciones I y II de este artículo;
 
 XI. En los casos de transmisión o cesión de derechos hereditarios, o de disolución de copropiedad o de sociedad legal, la base del impuesto será el valor de la parte proporcional del bien o bienes que correspondan a los derechos que se transmiten o en que se incrementen las correspondientes porciones de los copropietarios o coherederos, determinado de acuerdo con lo señalado en las fracciones I y II de este artículo;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
-
 XII. Si en la disolución de copropiedad o de la sociedad legal se recurre a la compensación de valores pecuniarios que repercuta en los inmuebles a repartir, la Tesorería Municipal estará facultada para exigir que se acredite la existencia de los mismos a efecto de determinar este impuesto;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
-
 XIII. Cuando los inmuebles que forman el patrimonio de la copropiedad o sociedad conyugal se ubiquen en distintos municipios, el excedente se cubrirá en aquél en que exista el mayor porcentaje de valor del patrimonio; y
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
 XIV. En el caso de municipios que no cuenten con tablas de valores actualizadas, el dictamen de valor se hará con base en las tablas vigentes, multiplicadas por el factor que establezcan sus respectivas leyes de ingresos.
 
@@ -3966,3 +3938,9 @@ P.O. 11 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27256/LXII/19 QUE REFORMA EL ARTÍCULO 136 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; LOS ARTÍCULOS 36, 63, 318, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL; EL ARTÍCULO 70 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD; ARTÍCULOS 3° Y 57 DE LA LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LOS ARTÍCULOS 7°, 18, 28, 117, 140 BIS, 141 Y 142 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO, TODAS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 10 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27334/LXII/19 QUE REFORMA EL ARTÍCULO 114 DE LA LEY DE HACIENDA MUNICIPAL EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor a los 30 días de su publicación en el periódico oficial "El Estado de Jalisco".
