@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-21-2009-del-pleno-del-consejo-de-la-68808"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-06-12"
-last_updated: "2009-11-06"
+last_updated: "2019-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68808&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 ACUERDO GENERAL 21/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGION, CON RESIDENCIA EN EL DISTRITO FEDERAL, CON JURISDICCION EN LA REPUBLICA MEXICANA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE SEPTIEMBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de junio de 2009.
 
@@ -51,13 +51,23 @@ ACUERDO
 
 PRIMERO. El Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, tendrá competencia y jurisdicción en toda la República, su domicilio estará en el inmueble ubicado en avenida Insurgentes Sur número 1888, colonia Florida, delegación Alvaro Obregón, en México, Distrito Federal, código postal 01030, e iniciará funciones el dieciséis de junio de dos mil nueve, el cual funcionará conforme a lo establecido en el Acuerdo General 20/2009 del Pleno del Consejo de la Judicatura Federal.
 
-> <small>(REFORMADO POR PUNTO UNICO DEL ACUERDO GENERAL 57/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO POR PUNTO ÚNICO DEL ACUERDO GENERAL 10/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2019)</small>
 
-SEGUNDO. El Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, será especializado en Materia de Extinción de Dominio y además apoyará a los juzgados de Distrito de toda la República en el dictado de sentencias.
+SEGUNDO. El Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, con jurisdicción en toda la República Mexicana, será especializado en las acciones de extinción de dominio y de los procedimientos de la Ley Nacional de Extinción de Dominio y, además, apoyará a los Juzgados de Distrito de toda la República en el dictado de sentencias.
 
-La Comisión de Creación de Nuevos Organos a propuesta de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, determinará el inicio en el apoyo de los asuntos relativos a la Ley Federal de Extinción de Dominio, así como la logística de envío. Asimismo y con respecto de los asuntos de su competencia auxiliar la propia Comisión determinará el tiempo, número y cualidad de los asuntos que se deberán enviar a la Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+La Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, queda facultada para dictar los acuerdos tendientes a regular el turno y tipo de asuntos, que como juzgado auxiliar reciba el órgano jurisdiccional de que se trata.
 
-TERCERO. Las circunstancias no previstas en este acuerdo serán resueltas por el Pleno del Consejo de la Judicatura Federal o las Comisiones de Administración, de Carrera Judicial, de Adscripción, y de Creación de Nuevos Organos, en la esfera de su competencia.
+> <small>(REFORMADO POR PUNTO ÚNICO DEL ACUERDO GENERAL 10/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2019)</small>
+
+TERCERO. Para dar cumplimiento a los principios de oralidad, publicidad, inmediación, contradicción, continuidad y concentración que rige al proceso de extinción de dominio previsto en la Ley Nacional de Extinción de Dominio, el Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región utilizará la sala de audiencia instalada en el edificio Prisma del Consejo de la Judicatura Federal, ubicado en avenida Insurgentes Sur número 2065, colonia San Ángel, Alcaldía Álvaro Obregón, código postal 01000, en la Ciudad de México, o cualquier otra que se llegue a determinar en los inmuebles del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO POR PUNTO ÚNICO DEL ACUERDO GENERAL 10/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2019)</small>
+
+CUARTO. Los Tribunales Unitarios en Materias Civil, Administrativa y Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones del Primer Circuito, en la Ciudad de México, conocerán de los medios de impugnación previstos en la Ley Nacional de Extinción de Dominio.
+
+> <small>(ADICIONADO POR PUNTO ÚNICO DEL ACUERDO GENERAL 10/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE SEPTIEMBRE DE 2019)</small>
+
+QUINTO. Las circunstancias no previstas en este Acuerdo serán resueltas por el Pleno del Consejo de la Judicatura Federal o las Comisiones de Administración, de Carrera Judicial, de Adscripción, y de Creación de Nuevos Órganos, en la esfera de su respectiva competencia.
 
 ## TRANSITORIOS
 
@@ -76,3 +86,15 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 21/2009, del Pleno del Consejo de la Judicatura Federal, Relativo al Inicio de Funciones del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, con Jurisdicción en la República Mexicana.
+
+D.O.F. 11 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 10/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR 21/2009, RELATIVO AL INICIO DE FUNCIONES DEL JUZGADO TERCERO DE DISTRITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN EL DISTRITO FEDERAL, CON JURISDICCIÓN EN LA REPÚBLICA MEXICANA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información, deberán difundir electrónicamente el presente Acuerdo en el portal del Consejo de la Judicatura Federal en intranet e internet, en el Sistema Integral de Seguimiento de Expedientes y en el relativo a las Oficinas de Correspondencia Común, como aviso importante. Asimismo, habilitarán los campos de captura necesarios para esta clase de asuntos, en el sistema de cómputo del Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región.
+
+Las áreas administrativas del Consejo de la Judicatura Federal, en el ámbito de su competencia, adoptarán las medidas necesarias para la implementación del sistema de grabación o reproducción de imágenes o sonidos, de los registros y su conservación derivadas de las actuaciones del órgano jurisdiccional materia del presente Acuerdo.
