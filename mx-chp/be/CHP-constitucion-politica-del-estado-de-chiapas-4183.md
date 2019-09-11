@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2019-02-14"
+last_updated: "2019-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2019.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -141,173 +141,175 @@ El territorio del Estado de Chiapas es el que posee desde que forma parte de los
 
 41. Frontera Hidalgo.
 
-42. Huehuetán.
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
 
-43. Huitiupán.
+42. Honduras de la Sierra
 
-44. Huixtán.
+43. Huehuetán.
 
-45. Huixtla.
+44. Huitiupán.
 
-46. Ixhuatán.
+45. Huixtán.
 
-47. Ixtacomitán.
+46. Huixtla.
 
-48. Ixtapa.
+47. Ixhuatán.
 
-49. Ixtapangajoya.
+48. Ixtacomitán.
 
-50. Jiquipilas.
+49. Ixtapa.
 
-51. Jitotol.
+50. Ixtapangajoya.
 
-52. Juárez.
+51. Jiquipilas.
 
-53. La Concordia.
+52. Jitotol.
 
-54. La Grandeza.
+53. Juárez.
 
-55. La Independencia.
+54. La Concordia.
 
-56. La Libertad.
+55. La Grandeza.
 
-57. La Trinitaria.
+56: La Independencia.
 
-58. Larráinzar.
+57. La Libertad.
 
-59. Las Margaritas.
+58. La Trinitaria.
 
-60. Las Rosas.
+59. Larráinzar.
 
-61. Mapastepec.
+60. Las Margaritas.
 
-62. Maravilla Tenejapa.
+61. Las Rosas.
 
-63. Marqués de Comillas.
+62. Mapastepec.
 
-64. Mazapa de Madero.
+63. Maravilla Tenejapa.
 
-65. Mazatán.
+64. Marqués de Comillas.
 
-66. Metapa.
+65. Mazapa de Madero.
 
-67. Mezcalapa.
+66. Mazatán.
 
-68. Mitontic.
+67. Metapa.
 
-69. Montecristo de Guerrero
+68. Mezcalapa.
 
-70. Motozintla.
+69. Mitontic.
 
-71. Nicolás Ruiz.
+70. Montecristo de Guerrero
 
-72. Ocosingo.
+71. Motozintla.
 
-73. Ocotepec.
+72. Nicolás Ruiz.
 
-74. Ocozocoautla de Espinosa.
+73. Ocosingo.
 
-75. Ostuacán.
+74. Ocotepec.
 
-76. Osumacinta.
+75. Ocozocoautla de Espinosa.
 
-77. Oxchuc.
+76. Ostuacán.
 
-78. Palenque.
+77. Osumacinta.
 
-79. Pantelhó.
+78. Oxchuc.
 
-80. Pantepec.
+79. Palenque.
 
-81. Pichucalco.
+80. Pantelhó.
 
-82. Pijijiapan.
+81. Pantepec.
 
-83. Pueblo Nuevo Solistahuacán.
+82. Pichucalco.
 
-84. Rayón.
+83. Pijijiapan.
 
-85. Reforma.
+84. Pueblo Nuevo Solistahuacán.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2017)</small>
+85. Rayón.
 
-86. Rincón Chamula San Pedro
+86. Reforma.
 
-87. Sabanilla.
+87. Rincón Chamula San Pedro
 
-88. Salto de Agua.
+88. Sabanilla.
 
-89. San Andrés Duraznal.
+89. Salto de Agua.
 
-90. San Cristóbal de Las Casas.
+90. San Andrés Duraznal.
 
-91. San Fernando.
+91. San Cristóbal de Las Casas.
 
-92. San Juan Cancuc.
+92. San Fernando.
 
-93. San Lucas.
+93. San Juan Cancuc.
 
-94. Santiago El Pinar.
+94. San Lucas.
 
-95. Siltepec.
+95. Santiago El Pinar.
 
-96. Simojovel.
+96. Siltepec.
 
-97. Sitalá.
+97. Simojovel.
 
-98. Socoltenango.
+98. Sitalá.
 
-99. Solosuchiapa.
+99. Socoltenango.
 
-100. Soyaló.
+100. Solosuchiapa.
 
-101. Suchiapa.
+101. Soyaló.
 
-102. Suchiate.
+102. Suchiapa.
 
-103. Sunuapa.
+103. Suchiate.
 
-104. Tapachula.
+104. Sunuapa.
 
-105. Tapalapa.
+105. Tapachula.
 
-106. Tapilula.
+106. Tapalapa.
 
-107. Tecpatán.
+107. Tapilula.
 
-108. Tenejapa.
+108. Tecpatán.
 
-109. Teopisca.
+109. Tenejapa.
 
-110. Tila.
+110. Teopisca.
 
-111. Tonalá.
+111. Tila.
 
-112. Totolapa.
+112. Tonalá.
 
-113. Tumbalá.
+113. Totolapa.
 
-114. Tuxtla Chico.
+114. Tumbalá.
 
-115. Tuxtla Gutiérrez:
+115. Tuxtla Chico.
 
-116. Tuzantán.
+116. Tuxtla Gutiérrez:
 
-117. Tzimol.
+117. Tuzantán.
 
-118. Unión Juárez.
+118. Tzimol.
 
-119. Venustiano Carranza.
+119. Unión Juárez.
 
-120. Villa Comaltitlán.
+120. Venustiano Carranza.
 
-121. Villa Corzo.
+121. Villa Comaltitlán.
 
-122. Villaflores.
+122. Villa Corzo.
 
-123. Yajalón.
+123. Villaflores.
 
-124. Zinacantán.
+124. Yajalón.
+
+125. Zinacantán.
 
 Los asuntos inherentes a los límites territoriales del Estado y sus Municipios, se resolverán por acuerdo del titular del Poder Ejecutivo, con la aprobación del Congreso del Estado y de cuando menos la mitad más uno de los Ayuntamientos.
 
@@ -4522,3 +4524,77 @@ P.O. 14 DE FEBRERO DE 2019.
 Artículo Primero: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo: Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 248 POR EL QUE SE REFORMA EL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, POR EL QUE SE CREA EL MUNICIPIO HONDURAS DE LA SIERRA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El municipio Honduras de la Sierra, tendrá su cabecera municipal en la localidad denominada Honduras de la Sierra.
+
+###### ARTÍCULO CUARTO.
+
+El municipio Honduras de la Sierra, tendrá los siguientes datos de población, extensión territorial y colindancias:
+
+El municipio Honduras de la Sierra, tiene una población aproximada de 10,883 habitantes las (sic) cuales 5,542 son hombres y 5,341 son mujeres según estimaciones del Censo de Población y Vivienda 2010, se ubica en la región socioeconómica XI Sierra Mariscal, limitada al norte con Chicomuselo, al sur con el Municipio de Escuintla, al este con el Municipio de Siltepec, al oeste con los Municipios de Capitán Luis Ángel Vidal y Ángel Albino Corzo; Las coordenadas de la cabecera municipal son : 15°35'21.00" de latitud norte y 92°28'35.00" de latitud oeste y se ubica a una altitud de 1,214 metros sobre el nivel del mar. De conformidad con la siguiente tabla de construcción de la poligonal resultante, estructurada de la siguiente forma:
+
+> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 11 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 11 A LA 21.]</small>
+
+El Municipio Honduras de la Sierra, estará conformado por las localidades siguientes:
+
+> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 11 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 22 A LA 24.]</small>
+
+###### ARTÍCULO QUINTO.
+
+El Poder Legislativo del Estado, dentro del término de 180 días contados a partir de la entrada en vigor del presente decreto, deberá adecuar la legislación correspondiente.
+
+###### ARTÍCULO SEXTO.
+
+Dentro del término de 180 días contados a partir de la entrada en vigor del presente decreto, el Congreso del Estado o la Comisión Permanente en su caso, designará a los ciudadanos integrantes del Concejo Municipal del municipio Honduras de la Sierra, los cuales se conformarán con la estructura prevista por los artículos 80 y 81, de la Constitución Política del Estado Libre y Soberano de Chiapas vigente; así mismo debiendo integrarse con equidad de género y la inclusión de los diferentes grupos representativos.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Concejo Municipal del municipio Honduras de la Sierra, a que se refiere el artículo anterior, concluirán sus funciones el día 30 de septiembre del año 2021.
+
+El Ayuntamiento del Municipio Honduras de la Sierra, cuyo ejercicio iniciaran el primero de octubre de dos mil veintiuno, serán electos a través de comicios ordinarios que para ese periodo se celebren, conforme a lo dispuesto en la Constitución Política del Estado Libre y Soberano de Chiapas y el Código de Elecciones y Participación Ciudadana del Estado de Chiapas.
+
+###### ARTÍCULO OCTAVO.
+
+El Concejo Municipal de Honduras de la Sierra, queda facultado para que se coordine con el gobierno municipal de Siltepec en la realización del proceso de transferencia de los servicios públicos e infraestructura, así como en lo relativo al catastro, registros fiscales y contables y demás información necesaria que permitan la continuidad en la prestación de los servicios públicos y el ejercicio de las atribuciones del Municipio que se crea mediante el presente Decreto.
+
+###### ARTÍCULO NOVENO.
+
+Las transferencias que con motivo del artículo anterior se realicen deberán ser aprobadas mediante el Acuerdo de Cabildo del municipio de Siltepec dentro del ámbito de su competencia.
+
+###### ARTÍCULO DÉCIMO.
+
+En lo que comprende a los procesos de entrega-recepción se observará lo dispuesto por la ley de Entrega-Recepción del Estado de Chiapas.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se autoriza al Ejecutivo del Estado, para que a través de la Secretaría de Hacienda del Estado, a redistribuir las participaciones y aportaciones que le corresponda al municipio Honduras de la Sierra, ajustando las participaciones y aportaciones de los demás Municipios del Estado. Lo anterior de acuerdo a lo establecido en la Ley de Coordinación Fiscal Federal y demás disposiciones legales aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Concejo Municipal de Honduras de la Sierra, deberán (sic) expedir su propia reglamentación y disposiciones municipales, hasta en tanto, continuarán aplicándose los reglamentos y disposiciones del Municipio de Siltepec, Chiapas.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Las Leyes en materia de hacienda, ingresos y en general todas aquellas aplicables al Municipio de Siltepec, lo será en lo conducente al Municipio Honduras de la Sierra, hasta en tanto la Legislatura del Estado expida las leyes o realice las adecuaciones correspondientes.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Los Órganos Jurisdiccionales Locales con competencia en el Municipio de Siltepec, conservará (sic) su jurisdicción territorial que hasta ahora han tenido, hasta en tanto se adecúan, en su caso, las leyes o disposiciones correspondientes.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente decreto, la Secretaría de Hacienda deberá gestionar ante el Instituto Nacional de Estadística y Geografía el registro de nombre y la georeferenciación del nuevo municipio Honduras de la Sierra, conforme al Marco Geoestadístico Nacional a fin de obtener la clave municipal correspondiente.
