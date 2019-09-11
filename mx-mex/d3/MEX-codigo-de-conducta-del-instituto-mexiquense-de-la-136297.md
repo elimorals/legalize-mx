@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-instituto-mexiquense-de-la-136297"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-05-10"
-last_updated: "2019-05-10"
+last_updated: "2019-09-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FISICA EDUCATIVA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, PUBLICADO EN LA G.G. DE 11 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2019 (SIN EFECTOS).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 10 de mayo de 2019.
 
@@ -516,3 +518,23 @@ C. Alejandro Armando Pineda Galván
 Invitado Asesor
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 11 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE EXPIDE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL INSTITUTO MEXIQUENSE DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA”.]
+
+PRIMERO. Publíquese el presente Código de Conducta en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente ordenamiento entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se deja sin efectos el Código de Conducta del Instituto Mexiquense de la Infraestructura Física Educativa, publicado en el Periódico Oficial “Gaceta del Gobierno”, en fecha 10 de mayo de 2019.
+
+CUARTO. El presente instrumento fue aprobado por unanimidad en la Cuadragésima Novena Sesión Ordinaria de la Junta Directiva del Instituto Mexiquense de la Infraestructura Física Educativa, celebrada en fecha 22 de agosto de 2019.
+
+QUINTO. De conformidad con lo establecido en la disposición décimo segunda de la Guía para la elaboración de los Códigos de Conducta y Reglas de Integridad de las Dependencias y Organismos Auxiliares del Estado de México, publicada en el Periódico Oficial “Gaceta del Gobierno”, en fecha 05 de julio de 2019.
+
+El Comité anualmente analizará los resultados de la instrumentación del Código de Conducta, así como su contenido, con la finalidad de determinar si éste sigue vigente o es procedente su actualización.
+
+Para el caso de continuar vigente, se deberá ratificar el contenido del Código de Conducta y las Reglas de Integridad, para lo cual se dejará constancia, mediante acuerdo, que obre en acta del Comité. En caso de determinar que la modificación o adición es necesaria, se deberá proceder a su actualización, observando lo dispuesto en la Guía en mención.
