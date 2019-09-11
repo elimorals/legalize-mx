@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-tecnologico-de-estudios-superiores-13531
 country: "mx"
 rank: "codigo"
 publication_date: "2019-03-12"
-last_updated: "2019-03-12"
+last_updated: "2019-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE SAN FELIPE DEL PROGRESO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE SAN FELIPE DEL PROGRESO, PUBLICADO EN LA G.G. DE 11 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA SERVIDORES PÚBLICOS DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE SAN FELIPE DEL PROGRESO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 12 de marzo de 2019.
 
@@ -520,3 +522,15 @@ VOCAL Lic. Adriana Díaz Suárez (Rúbrica).
 QUINTO
 
 VOCAL Ing. Cybele Rodríguez Serrano (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 11 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE SAN FELIPE DEL PROGRESO".]
+
+PRIMERO: Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO: El Presente Acuerdo entra en vigor el día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+TERCERO: Se abroga el Código de Conducta del Tecnológico de Estudios Superiores de San Felipe del Progreso publicado en fecha 12 de marzo de 2019 en el Periódico "Oficial Gaceta del Gobierno" así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente acuerdo.
