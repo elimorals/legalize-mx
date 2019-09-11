@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2019-09-06"
+last_updated: "2019-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE SEPTIEMBRE DE 2019 NO APLICA AL ARTÍCULADO DEL DECRETO 463 PUBLICADO EN EL P.O. DEL 4 DE SEPTIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -514,6 +512,10 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 ###### Artículo 41.
 
 Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
+
+Artículo 41 bis. La edad mínima para contraer matrimonio será los 18 años, de acuerdo a la legislación civil correspondiente.
 
 ### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
@@ -1712,3 +1714,11 @@ Publíquese en la gaceta Legislativa y remítase para su divulgación al Periód
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 11 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y NUEVE.- POR EL QUE SE ADICIONA EL ARTÍCULO 41 BIS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS, EN MATERIA DE MATRIMONIO INFANTIL”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
