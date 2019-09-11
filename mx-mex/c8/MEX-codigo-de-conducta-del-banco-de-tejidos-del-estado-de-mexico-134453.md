@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-banco-de-tejidos-del-estado-de-mexico-13
 country: "mx"
 rank: "codigo"
 publication_date: "2019-01-17"
-last_updated: "2019-01-17"
+last_updated: "2019-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL BANCO DE TEJIDOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 11 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Sección Primera del Número 10 de la Gaceta del Gobierno del Estado de México, el jueves 17 de enero de 2019.
 
@@ -75,7 +77,7 @@ INTRODUCCIÓN
 
 Mediante el Decreto Número 146 de la "LVII" Legislatura del Estado de México, se expidió la Ley que crea el Banco de Tejidos del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" el 6 de septiembre de 2010. El Banco de Tejidos del Estado de México, se crea como un Organismo Público Descentralizado con personalidad jurídica y patrimonio propio. Cuyo objeto es brindar las condiciones higiénicas y la calidad de los tejidos, en el refinamiento de los procedimientos de procuración, reservación, conservación y utilización del tejido a fin de mejorar la calidad de vida de cualquier solicitante.
 
-Asimismo, el pasado 30 de mayo del 2017, se publicó en el Periódico Oficial "Gaceta del Gobierno", la Ley de Responsabilidades Administrativas del Estado de México y Municipios, y en el Capítulo Segundo, Directrices que rigen la actuación de los Servidores Públicos, Artículos 6 y 7, menciona la forma de conducirse el (sic) servidor público.
+Asimismo, el pasado 30 de mayo del 2017, se publicó en el Periódico Oficial "Gaceta del Gobierno", la Ley de Responsabilidades Administrativas del Estado de México y Municipios, y en el Capítulo Segundo, Directrices que rigen la actuación de los Servidores Públicos, Artículos 6 y 7, menciona la forma de conducirse el servidor público.
 
 Por lo que el Banco de Tejidos del Estado de México, con la finalidad de fomentar la ética e integridad de las(os) servidoras(es) públicas(os) y promover cambios de manera individual y colectiva, en una cultura de servicio, actualiza el Código de Conducta de éste Organismo, armonizándolo con el marco normativo vigente, que para su cumplimiento, señala los valores éticos y la forma de comportamiento para el desempeño de las funciones de las(os) servidoras(es) públicas(os), describiendo las prácticas adecuadas y las responsabilidades que enmarcarán el bien actuar en congruencia con los objetivos institucionales que persigue el Organismo, previniendo responsabilidades administrativas y estableciendo políticas eficaces de ética pública y responsabilidad en el servicio público.
 
@@ -229,7 +231,7 @@ Conductas o actuaciones esperadas
 
 - Denunciar todo acto de discriminación, exclusión, intolerancia, violencia, desigualdad, y abuso.
 
-- Desempeñar toda actividad sustantiva entorno (sic) a la igualdad de oportunidades entre hombres y mujeres, tomando únicamente por diferencia las capacidades físicas.
+- Desempeñar toda actividad sustantiva entorno a la igualdad de oportunidades entre hombres y mujeres, tomando únicamente por diferencia las capacidades físicas.
 
 - Aceptar y respetar la inclusión social de las personas con discapacidad, en el marco de igualdad, respeto y equiparación de oportunidades para favorecer el desarrollo en todos los ámbitos de la vida.
 
@@ -562,3 +564,15 @@ Reglas de integridad: Las conductas para el ejercicio del empleo, cargo o comisi
 Valores: Cualidad que poseen algunas realidades consideradas bienes, por lo cual son estimables.
 
 Delación: Narrativa que formula cualquier persona sobre un hecho o conducta atribuida a una (un) servidora(or) pública(o) y que resulta presuntamente contraria al Código de Conducta y a las Reglas de Integridad.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 11 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Conducta para los Servidores Públicos del Banco de Tejidos del Estado de México, publicado en fecha 17 de enero de 2019, en el Periódico Oficial "Gaceta del Gobierno", así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
