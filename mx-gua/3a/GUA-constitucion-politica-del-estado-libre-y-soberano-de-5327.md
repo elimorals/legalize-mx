@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2018-11-14"
+last_updated: "2019-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -66,6 +66,10 @@ Para los efectos de esta Constitución y de las leyes que de ella emanen, person
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
+
+Esta Constitución reconoce y protege la participación de las mujeres en el desarrollo del estado, promueve la igualdad sustantiva y la paridad de género. Las autoridades adoptarán las medidas, para erradicar la discriminación, la desigualdad de género y toda forma de violencia contra las mujeres.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2017)</small>
 
@@ -541,11 +545,11 @@ La Ley establecerá las medidas de apremio que podrá imponer el organismo autó
 
 ### CAPITULO SEGUNDO. DE LAS GARANTIAS POLITICAS
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
 
-###### ARTICULO 15.
+###### ARTÍCULO 15.
 
-Todo ciudadano guanajuatense tiene derecho a participar en la vida política del Estado, en la forma y términos que señalen las Leyes.
+Todo ciudadano guanajuatense tiene derecho a participar en la vida política del Estado, en condiciones de igualdad, libre de todo tipo de violencia y discriminación en la forma y términos que señalen las Leyes.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -937,7 +941,9 @@ Jamás podrán reunirse dos o más de estos Poderes en un solo individuo o corpo
 
 El Congreso del Estado de Guanajuato se compondrá de representantes populares electos en su totalidad cada tres años, mediante votación libre, directa y secreta. Por cada Diputado Propietario se elegirá un Suplente.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
+
+En la integración del Congreso del Estado de Guanajuato, esta Constitución y la ley electoral determinarán los mecanismos para cumplir con el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -2414,6 +2420,10 @@ Los Municipios serán gobernados por un Ayuntamiento. La competencia de los Ayun
 ###### ARTICULO 108.
 
 Los Ayuntamientos se compondrán de un Presidente Municipal y del número de Síndicos y Regidores que determine la Ley Orgánica, sin que el número total de miembros que los integren sea menor de ocho ni mayor de diecinueve.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
+
+En la integración de los Ayuntamientos, esta Constitución y la ley electoral determinarán los mecanismos para cumplir con el principio de paridad de género.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -4088,3 +4098,9 @@ P.O. 14 DE NOVIEMBRE DE 2018.
 Artículo primero. El presente Decreto entra en vigor al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado.
 
 Artículo segundo. El Congreso del Estado deberá realizar los ajustes normativos que correspondan en un plazo de ciento ochenta días posteriores a la entrada en vigor y de conformidad con los alcances de este Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 95, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
