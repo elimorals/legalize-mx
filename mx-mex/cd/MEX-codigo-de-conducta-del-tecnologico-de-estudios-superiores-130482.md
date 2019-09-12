@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-tecnologico-de-estudios-superiores-13048
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-06"
-last_updated: "2018-09-06"
+last_updated: "2019-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130482&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE ECATEPEC DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE ECATEPEC, PUBLICADO EN LA G.G. DE 12 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE ECATEPEC
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 12 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en Sección Primera de la Gaceta del Gobierno del Estado de México, el jueves 6 de septiembre de 2018.
 
@@ -658,3 +660,15 @@ Analista Programador de Sistemas adscrito al Centro de Computación y Telemátic
 Séptimo Vocal
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 12 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE ECATEPEC”.]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Conducta del Tecnológico de Estudios Superiores de Ecatepec, publicado en fecha 06 de septiembre de 2018, en el Periódico Oficial "Gaceta del Gobierno", así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
