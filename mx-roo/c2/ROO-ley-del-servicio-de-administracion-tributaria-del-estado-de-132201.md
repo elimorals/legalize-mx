@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-servicio-de-administracion-tributaria-del-estado-de-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-02-28"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -123,7 +123,9 @@ El SATQ establecerá los mecanismos de evaluación de desempeño para medir los 
 
 El domicilio del SATQ será en la Ciudad de Chetumal, Municipio de Othón P. Blanco, en donde se ubicarán sus oficinas centrales. Contará con oficinas en las Cabeceras Municipales y demás poblaciones del Estado de Quintana Roo en las que se requiera en función de las necesidades de administración tributaria y la evolución comercial, industrial y de servicios que se observe en el Estado, para ofrecer una adecuada atención a los contribuyentes.
 
-El SATQ establecerá módulos de atención a contribuyentes en lugares estratégicos y centros comerciales, pudiendo celebrar convenios de colaboración para el cobro de contribuciones estatales en tiendas y supermercados.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+El SATQ establecerá módulos de atención a contribuyentes en lugares estratégicos y centros comerciales, pudiendo celebrar convenios de colaboración para el cobro de contribuciones estatales y federales coordinadas en tiendas y supermercados.
 
 ###### Artículo 8.
 
@@ -141,7 +143,9 @@ I. Los bienes muebles, inmuebles e intangibles, recursos humanos, recursos mater
 
 II. Los fondos y fideicomisos que se constituyan para los fines de fomento y desarrollo de las actividades del SATQ o en los que participe en representación de la SEFIPLAN;
 
-III. Los ingresos que obtenga por la prestación de servicios y gastos de ejecución, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+III. Los ingresos estatales y federales coordinados que obtenga por multas fiscales, honorarios de notificación y gastos de ejecución;
 
 IV. Las asignaciones que establezca el Presupuesto de Egresos de la SEFIPLAN y en su caso de la Federación y de los municipios coordinados.
 
@@ -237,7 +241,9 @@ XXXII. Ordenar la suspensión del procedimiento administrativo de ejecución, cu
 
 XXXIII. Realizar los actos jurídicos necesarios para la defensa del interés fiscal de la Hacienda Pública del Estado, de la Federación y de los municipios, estos dos últimos derivados de los convenios de colaboración administrativa en materia fiscal;
 
-XXXIV. Conocer y resolver las solicitudes de condonación de multas y recargos derivados de incumplimientos fiscales de contribuciones derivadas del convenio de colaboración administrativa celebrado con la federación conforme a lo establecido en el Código Fiscal de la Federación; o condonación y reducción de multas y recargos estatales conforme al Código Fiscal del Estado, así como a otra normatividad aplicable;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XXXIV. Conocer y resolver las solicitudes de condonación de multas y recargos derivados de incumplimientos fiscales de contribuciones derivadas del convenio de colaboración administrativa celebrado con la federación y los Municipios conforme a lo establecido en el Código Fiscal de la Federación y el Código Fiscal Municipal del Estado de Quintana Roo; o condonación y reducción de multas y recargos estatales conforme al Código Fiscal del Estado, así como a otra normatividad aplicable;
 
 XXXV. Resolver sobre las solicitudes de prescripción de créditos fiscales y extinción de facultades de las autoridades fiscales federales relacionados con contribuciones comprendidas en los convenios de colaboración administrativa en materia fiscal federal o convenios con los municipios, así como las derivadas de las contribuciones estatales, en apego a las disposiciones del Código Fiscal de la Federación y del Estado respectivamente;
 
@@ -311,13 +317,17 @@ II. Dirección General;
 
 III. Direcciones de Área;
 
-IV. Órgano de Control Interno, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+IV. Órgano Interno de Control, y
 
 V. Unidades Administrativas.
 
 Las Direcciones de Área contarán con las subdirecciones, jefaturas de departamento, coordinaciones, unidades administrativas y demás oficinas centrales y foráneas que se requieran para el cumplimiento de su objeto. Las direcciones de área, que establezca el Reglamento, realizarán sus funciones operativas y podrán tener oficinas en los municipios del Estado, atendiendo a las necesidades de atención y la condición socioeconómica de la población, actividad empresarial, comercial, industrial y de servicios de esas localidades. Podrán realizar una cobertura geográfica en uno o más municipios.
 
-El Reglamento del SATQ, establecerá las obligaciones, facultades y atribuciones de los Titulares de las Áreas señaladas en las fracciones III, IV y V de este artículo.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+El Reglamento del SATQ, establecerá las obligaciones, facultades y atribuciones de los Titulares de las unidades y áreas previstas en este artículo.
 
 Podrán constituirse comités de síndicos del contribuyente, que operarán de conformidad con lo que se establezca en el Reglamento.
 
@@ -387,13 +397,17 @@ XVI. Aprobar los mecanismos de pagos diferidos y en parcialidades utilizados en 
 
 XVII. Definir y aprobar la misión, visión, valores y código de conducta del SATQ y de los servidores públicos adscritos a este órgano desconcentrado;
 
-XVIII. Realizar la evaluación de la administración tributaria en función de los planes, programas, presupuestos, objetivos, metas e indicadores de desempeño aprobados, haciendo del conocimiento a la SEFIPLAN los resultados obtenidos trimestralmente, para su incorporación en el informe sobre la situación económica y las finanzas públicas que presenta el Ejecutivo estatal al Congreso del Estado, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XVIII. Realizar la evaluación de la administración tributaria en función de los planes, programas, presupuestos, objetivos, metas e indicadores de desempeño aprobados, haciendo del conocimiento a la SEFIPLAN los resultados obtenidos semestralmente, para su incorporación en el informe sobre la situación económica y las finanzas públicas que presenta el Ejecutivo estatal al Congreso del Estado.
 
 XIX. Las demás atribuciones que sean necesarias para llevar a cabo las disposiciones fiscales contenidas en esta Ley, su reglamento y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 18.
 
-La Junta de Gobierno celebrará dos tipos de sesiones, las ordinarias que se realizarán por lo menos cada tres meses, debidamente calendarizadas, en las que se tratarán y resolverán los asuntos relativos a la administración tributaria, sean normativos, programáticos, de operación, gestión, presupuestales y de resultados. En las sesiones extraordinarias, se tratarán y resolverán los demás asuntos no considerados en los temas anteriores o que por su urgencia deban atenderse fuera del calendario de las sesiones ordinarias, y se celebrarán cuando lo proponga el presidente, algún consejero o el Director General del SATQ.
+La Junta de Gobierno celebrará dos tipos de sesiones, las ordinarias que se realizarán dos veces al año en los meses de junio y diciembre, en las que se tratarán y resolverán los asuntos relativos a la administración tributaria, sean normativos, programáticos, de operación, gestión, presupuestales y de resultados. En las sesiones extraordinarias, se tratarán y resolverán los demás asuntos no considerados en los temas anteriores o que por su urgencia deban atenderse fuera del calendario de las sesiones ordinarias, y se celebrarán cuando lo proponga el presidente, algún consejero o el Director General del SATQ.
 
 Para que la sesión se considere válida, deberá ser convocada por su presidente y se requerirá de la asistencia de más de la mitad de sus integrantes. Las resoluciones se tomarán por mayoría de votos de los consejeros presentes y el presidente tendrá voto de calidad en caso de empate.
 
@@ -403,13 +417,17 @@ La convocatoria deberá establecer el tipo de Sesión, el lugar, fecha, hora en 
 
 Cada consejero de la Junta de Gobierno, que sea servidor público, podrá nombrar por escrito, a un suplente con nivel jerárquico inmediato inferior al de él, quien podrá, en suplencia, acudir a un máximo de dos sesiones ordinarias consecutivas.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 19.
 
-La Junta de Gobierno deberá convocar a sus sesiones, al titular del Órgano de Control Interno e invitar al personal que considere conveniente, con voz, pero sin voto. Los cargos de miembros de la Junta de Gobierno, Secretario de Actas y Acuerdos o de asistente a la misma, son de naturaleza honorífica. Ningún servidor público percibirá retribución, salario, emolumento o compensación alguna por su desempeño o participación en este cuerpo colegiado.
+La Junta de Gobierno deberá convocar a sus sesiones, al titular del Órgano Interno de Control e invitar al personal que considere conveniente, con voz, pero sin voto. Los cargos de miembros de la Junta de Gobierno, Secretario de Actas y Acuerdos o de asistente a la misma, son de naturaleza honorífica. Ningún servidor público percibirá retribución, salario, emolumento o compensación alguna por su desempeño o participación en este cuerpo colegiado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 20.
 
-El Director General es el representante legal y titular de la administración y gestión del SATQ, será nombrado por el Gobernador del Estado a propuesta del Secretario de Finanzas y Planeación del Estado de Quintana Roo y tiene por objeto vigilar el cumplimiento de las normas fiscales del Estado, de la Federación y de los Municipios coordinados. Planear, organizar, dirigir y controlar las acciones, facultades y atribuciones asignadas al SATQ, para darle cumplimiento a los objetivos de dicho Órgano Desconcentrado, adoptando la misión, visión y valores aprobados por la Junta de Gobierno.
+El Director General es el representante legal y titular de la administración y gestión del SATQ, será nombrado y removido por el Secretario de Finanzas y Planeación del Estado de Quintana Roo y tiene por objeto vigilar el cumplimiento de las normas fiscales del Estado, de la Federación y de los Municipios coordinados; planear, organizar, dirigir y controlar las acciones, facultades y atribuciones asignadas al SATQ, para darle cumplimiento a los objetivos de dicho Órgano Desconcentrado, adoptando la misión, visión y valores aprobados por la Junta de Gobierno.
 
 El Director General deberá reunir los requisitos siguientes:
 
@@ -423,9 +441,11 @@ IV. Presentar la documentación que acredite su experiencia y capacidades, la de
 
 V. No desempeñar durante el periodo de su encargo ninguna otra comisión o empleo remunerado dentro de la Federación, estados, municipios, organismos descentralizados, empresas de participación estatal o de algún particular, excepto los cargos o empleos de carácter docente y los honoríficos; así como también estará impedido para ejercer su profesión, salvo en causa propia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 21.
 
-Los titulares de las direcciones de área y unidades administrativas hasta el tercer nivel, con excepción del Titular del Órgano de Control Interno, serán nombrados por el Director General y deberán reunir los requisitos siguientes:
+Los titulares de las direcciones de área y unidades administrativas hasta el tercer nivel, con excepción del Titular del Órgano Interno de Control, serán nombrados por el Director General y deberán reunir los requisitos siguientes:
 
 I. Ser ciudadano mexicano; en pleno ejercicio de sus derechos;
 
@@ -437,11 +457,13 @@ IV. Presentar la documentación que acredite sus capacidades, la declaración de
 
 V. No desempeñar durante el periodo de su encargo ninguna otra comisión o empleo remunerado dentro de la Federación, estados, municipios, organismos descentralizados, empresas de participación estatal o de algún particular, excepto los cargos o empleos de carácter docente y los honoríficos; así como también estará impedido para ejercer su profesión, salvo en causa propia.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 22.
 
-El Titular del Órgano de Control Interno deberá reunir los requisitos que establece el artículo anterior, además de los que establezcan las normas de la Secretaría de la Contraloría aplicables a estos servidores públicos.
+El Titular del Órgano Interno de Control deberá reunir los requisitos que establece el artículo anterior, además de los que establezcan las normas de la Secretaría de la Contraloría aplicables a estos servidores públicos.
 
-El Titular del Órgano de Control Interno será nombrado por la Secretaría de la Contraloría, en los términos de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo.
+El Titular del Órgano Interno de Control será nombrado por la Secretaría de la Contraloría, en los términos de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo.
 
 ###### Artículo 23.
 
@@ -469,9 +491,9 @@ VIII. Elaborar conjuntamente con los titulares de las áreas responsables, con a
 
 IX. Expedir las políticas generales de operación, administración y presupuestales, necesarias para realizar oportuna y eficientemente el ejercicio de las funciones asignadas a las áreas, siempre que se apeguen a las normas relativas estatales y federales y adicionarlas a los manuales de organización y de procedimientos del SATQ.
 
-X. Asegurar la mejora en la prestación de los servicios al contribuyente, para ser eficientes, seguros y agiles, utilizando la mejor tecnología informática disponible y elaborar conjuntamente con los titulares de las áreas responsables y el apoyo de las áreas jurídica y de organización y métodos, la propuesta de modificaciones al manual de trámites y servicios del SATQ, que establezcan y autorice el uso de los formatos oficiales de avisos, declaraciones, solicitudes, manifestaciones y demás documentos requeridos para dar cumplimiento a las disposiciones fiscales estatales y establecer los lineamientos para su uso, llenado y presentación por parte de los contribuyentes y demás sujetos obligados.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-Las modificaciones de mejora se deberán poner a consideración de la Junta de Gobierno, y previa autorización, su publicación en el Periódico Oficial del Estado de Quintana Roo y medios de difusión necesarios, para su oportuna utilización, en apego a la normatividad fiscal aplicable;
+X. Asegurar la mejora en la prestación de los servicios al contribuyente, para ser eficientes, seguros y agiles, utilizando la mejor tecnología informática disponible y elaborar conjuntamente con los titulares de las áreas responsables y el apoyo de las áreas jurídica y de organización y métodos, la propuesta de modificaciones al manual de trámites y servicios del SATQ, que establezcan y autorice el uso de los formatos oficiales de avisos, declaraciones, solicitudes, manifestaciones y demás documentos requeridos para dar cumplimiento a las disposiciones fiscales estatales y establecer los lineamientos para su uso, llenado y presentación por parte de los contribuyentes y demás sujetos obligados.
 
 XI. Analizar y aprobar las propuestas obtenidas conjuntamente con los titulares de las áreas responsables y con el apoyo de las áreas jurídica y de organización y métodos, sobre mejora continua que incluyan entre otros aspectos, los relacionados con la disminución de los costos de recaudación, la evasión, elusión, contrabando, corrupción, así como la mejora continua en los servicios y seguridad jurídica al contribuyente, la rentabilidad en la recaudación y fiscalización, la simplificación administrativa y reducción de los costos en actos de cumplimiento del SATQ;
 
@@ -527,9 +549,25 @@ XXXVI. Proponer a la Junta de Gobierno para su aprobación, los procedimientos d
 
 XXXVII. Participar como autoridad fiscal del gobierno del Estado de Quintana Roo, en los organismos del Servicio de Administración Tributaria, de la Secretaria de Hacienda y Crédito Público y del Sistema Nacional de Coordinación Fiscal, en los términos de las facultades conferidas en esta Ley;
 
-XXXVIII. Solicitar y obtener de las dependencias y entidades que integran la administración pública del Estado de Quintana Roo y de los Municipios, la información de las personas físicas y morales que sea necesaria para corroborar el cumplimiento de las obligaciones fiscales estatales y, en su caso, municipales y federales coordinadas, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-XXXIX. Todas aquellas que correspondan al SATQ y no sean expresamente atribuibles a la Junta de Gobierno y las demás que establezca el Reglamento.
+XXXVIII. Solicitar y obtener de las dependencias y entidades que integran la administración pública del Estado de Quintana Roo y de los Municipios, la información de las personas físicas y morales que sea necesaria para corroborar el cumplimiento de las obligaciones fiscales estatales y, en su caso, municipales y federales coordinadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XXXIX. Representar legalmente al titular de la Secretaria de Finanzas y Planeación en las controversias fiscales, para la defensa del Estado ante los tribunales y autoridades, federales, estatales o municipales;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XL. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XLI. Ejecutar los acuerdos por los que se otorguen subsidios o estímulos fiscales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XLII. Todas aquellas que correspondan al SATQ y no sean expresamente atribuibles a la Junta de Gobierno y las demás que establezca el Reglamento.
 
 ###### Artículo 24.
 
@@ -543,13 +581,15 @@ Las direcciones de área, con funciones operativas de Asistencia al Contribuyent
 
 El SATQ podrá contar con instancias de consulta y comités especializados que le permitan mantener una vinculación efectiva y permanente con los contribuyentes y especialistas interesados en su operación y funcionamiento.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 27.
 
-El Órgano de Control Interno del SATQ, tiene por objeto verificar el correcto cumplimiento de los planes, programas y presupuestos aprobados por la Junta de Gobierno, así como, de las facultades, atribuciones y demás funciones asignadas a las áreas que integran la estructura organizacional, su apego a la normatividad fiscal y administrativa que les sea aplicable y al sistema de evaluación del desempeño, observando el cumplimiento de los resultados e indicadores programados, de conformidad con la normatividad aplicable.
+El Órgano Interno de Control del SATQ, tiene por objeto verificar el correcto cumplimiento de los planes, programas y presupuestos aprobados por la Junta de Gobierno, así como, de las facultades, atribuciones y demás funciones asignadas a las áreas que integran la estructura organizacional, su apego a la normatividad fiscal y administrativa que les sea aplicable y al sistema de evaluación del desempeño, observando el cumplimiento de los resultados e indicadores programados, de conformidad con la normatividad aplicable.
 
-El titular del Órgano de Control Interno deberá presentar a la Dirección General y a la Secretaría de la Contraloría un informe mensual sobre los resultados que obtenga y en su caso, propondrá las recomendaciones y mejoras que estime pertinentes sobre el control interno, sobre posibles responsabilidades de los servidores públicos y demás actos relacionados con el cumplimiento del objeto del SATQ. Deberá dar seguimiento a las observaciones realizadas y a las mejoras operativas implementadas y al impacto en los resultados.
+El titular del Órgano Interno de Control deberá presentar a la Dirección General y a la Secretaría de la Contraloría informes semestrales sobre los resultados que obtenga y en su caso, propondrá las recomendaciones y mejoras que estime pertinentes sobre el control interno, sobre posibles responsabilidades de los servidores públicos y demás actos relacionados con el cumplimiento del objeto del SATQ. Deberá dar seguimiento a las observaciones realizadas y a las mejoras operativas implementadas y al impacto en los resultados.
 
-El titular del Órgano de Control Interno podrá asistir a las sesiones de la Junta de Gobierno con voz, pero sin voto, pudiendo informar sobre los resultados de los trabajos realizados y las recomendaciones realizadas.
+El titular del Órgano Interno de Control podrá asistir a las sesiones de la Junta de Gobierno con voz, pero sin voto, pudiendo informar sobre los resultados de los trabajos realizados y las recomendaciones realizadas.
 
 ### Capítulo III. Disposiciones Especiales para el Programa de Servicio Público Fiscal al SATQ
 
@@ -653,27 +693,33 @@ XII. Incremento en el comportamiento del indicador de la cultura contributiva, o
 
 El cumplimiento de las metas del programa anual de mejora continua contribuye a mejorar la planeación y programación del objeto del SATQ, conjuntamente con los resultados observados en los indicadores de desempeño obtenidos del Programa Institucional de Administración Tributaria y los programas presupuestarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 38.
 
-El SATQ estará obligado a proporcionar mensualmente a la SEFIPLAN, la siguiente información relativa a las contribuciones estatales:
+El SATQ estaría obligado a proporcionar mensualmente a la SEFIPLAN la siguiente información relativa a las contribuciones:
 
-I. Evolución analítica de la recaudación, saldos de los créditos fiscales y número de contribuyentes, por concepto y tipo de ingreso, en los niveles de desagregación que se requiera;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+I. Evolución analítica de la recaudación, saldos de los créditos fiscales y número de contribuyentes, por concepto y tipo de ingreso;
 
 II. Evolución general de la recaudación, para su inclusión en los informes sobre la situación económica, las finanzas públicas y la deuda pública;
 
 III. Ingresos derivados de auditoría y de las acciones de fiscalización;
 
-IV. Los montos que representan para el erario estatal los estímulos y cancelación de créditos fiscales a que se refieren las disposiciones fiscales vigentes;
+IV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2019)
 
 V. Datos sobre los juicios ganados y perdidos por el SATQ ante tribunales, y en este último caso, las causas y medidas preventivas y correctivas adoptadas;
 
-VI. Cartera de créditos fiscales exigibles, así como el saldo de los créditos fiscales en sus distintas claves de tramitación de cobro;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+VI. Cartera de créditos fiscales exigibles;
 
 VII. Universo de contribuyentes inscritos en el registro estatal de contribuyentes y sus variaciones, por tipo de obligaciones o contribución, actividad económica, municipio y por personas físicas y morales;
 
 VIII. Importe de las devoluciones efectuadas y de las compensaciones aplicadas por cada uno de los impuestos;
 
-IX. Número de funcionarios respecto de los cuales el SATQ haya presentado denuncias o querellas ante el ministerio público o ante el Órgano de Control Interno, las áreas donde se detectaron los ilícitos y su localización geográfica;
+IX. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2019)
 
 X. Indicadores del comportamiento de la calidad del servicio de asistencia al contribuyente que incluyan, al menos los siguientes puntos:
 
@@ -687,73 +733,17 @@ d. Información recibida de acuerdo a las necesidades del contribuyente, y
 
 e. Tiempo del trámite.
 
-XI. El monto anual estimado de gasto fiscal, entendido como el monto que la hacienda estatal en su caso, deja de recaudar por contribuciones estatales por conceptos de tasas diferenciadas, tratamientos y regímenes especiales, estímulos, diferimientos de pagos, reducciones autorizadas y condonaciones de créditos establecidos en las leyes tributarias federales y estatales. Dicha información será presentada cuando menos por impuesto, por rubro principal, accesorios, y por tipo de contribuyente beneficiado. El monto anual estimado de gasto fiscal deberá presentarse junto con la iniciativa de Ley de Ingresos del Estado y el proyecto de presupuesto de egresos del Estado.
+XI. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2019)
 
 La información que el SATQ proporcione en los términos de este artículo deberá ser completa y oportuna. En caso de incumplimiento se estará a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y demás disposiciones aplicables.
 
 ###### Artículo 39.
 
-El SATQ proporcionará mensualmente a la SEFIPLAN los informes siguientes, relativos a las contribuciones federales:
-
-I. Recaudación, saldos de los créditos fiscales, número de contribuyentes, por sector de actividad y por tamaño de contribuyente, de acuerdo a la clasificación siguiente:
-
-A. Personas físicas.
-
-B. Personas físicas con actividades empresariales.
-
-C. Personas morales.
-
-II. Recaudación por actividad económica;
-
-III. Recaudación del impuesto sobre la renta de personas morales; personas físicas; residentes en el extranjero y otros regímenes fiscales que establece la ley de la materia; asimismo, presentar datos sobre el número de contribuyentes por régimen fiscal y recaudación por sector de actividad y por tamaño de contribuyente;
-
-IV. Recaudación del impuesto al valor agregado de personas físicas y morales; por sector de actividad económica; por tamaño de contribuyente; por régimen fiscal que establece la ley de la materia, desagregando cada uno de los rubros tributarios asociados al sector;
-
-V. Los derechos, aprovechamientos e ingresos propios;
-
-VI. Recaudación del impuesto especial sobre producción y servicios de cerveza y bebidas refrescantes; bebidas alcohólicas; tabacos labrados, y gas, gasolinas y diésel;
-
-VII. Monto de la recaudación estatal participable e integración de los fondos que se distribuirán a las entidades estatales y municipios vía Participaciones Estatales;
-
-VIII. Ingresos derivados de auditoría y de las acciones de fiscalización, así como los gastos efectuados con motivo de estas tareas;
-
-IX. Aplicación de multas fiscales;
-
-X. Los montos que representan para el erario estatal los estímulos fiscales a que se refieren las disposiciones fiscales, así como los sectores de la actividad económica que reciben los beneficios;
-
-XI. Datos sobre los juicios ganados y perdidos por el SATQ ante tribunales;
-
-XII. Información detallada sobre los sectores de la actividad económica beneficiados por los estímulos fiscales, así como el monto de los costos para la recaudación por este concepto;
-
-XIII. Cartera de créditos fiscales exigibles, así como el saldo de los créditos fiscales en sus distintas claves de tramitación de cobro y el importe mensual recuperado;
-
-XIV. Universo de sujetos inscritos en el registro federal de contribuyentes y sus variaciones, por tipo de obligaciones, actividad económica, municipio y por personas físicas y morales;
-
-XV. Importe de las devoluciones efectuadas y de las compensaciones aplicadas por cada uno de los impuestos;
-
-XVI. Número de funcionarios respecto de los cuales el SATQ haya presentado denuncias o querellas ante el ministerio público o ante la Contraloría Interna, las áreas donde se detectaron los ilícitos, y su distribución regional;
-
-XVII. Indicadores de la calidad del servicio al contribuyente, que incluyan al menos:
-
-A. Calidad de la atención personal de los funcionarios.
-
-B. Calidad del lugar.
-
-C. Información recibida de acuerdo a las necesidades del contribuyente.
-
-D. Tiempo del trámite.
-
-E. Costos de cumplimiento.
-
-XVIII. Datos estadísticos sobre el uso de los recursos informáticos del SATQ por los contribuyentes, y
-
-XIX. La información completa sobre el número de empleados del SATQ, así como su costo, por cada uno de los niveles y áreas establecidos en esta Ley y el Reglamento.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2019)
 
 ###### Artículo 40.
 
-El SATQ establecerá un sistema electrónico que permita controlar los programas de trabajo implementados y evaluar su desempeño con indicadores que midan el cumplimiento de las acciones programadas.
-
-Deberán incluirse indicadores que midan la eficiencia y eficacia en el cumplimiento de las metas establecidas en los programas presupuestarios, programa anual de mejora continua y programas operativos de las direcciones de área, a que hace referencia en esta Ley. Dichos indicadores podrán utilizarse en los informes que se proporcionen y medirán la evolución de cumplimiento.
+(DEROGADO, P.O. 13 DE SEPTIEMBRE DE 2019)
 
 ###### Artículo 41.
 
@@ -854,3 +844,11 @@ P.O. 28 DE FEBRERO DE 2019.
 Primero. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 353, POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO FISCAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, TODOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
