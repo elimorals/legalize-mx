@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-organismo-publico-descentralizado-de-la-110908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-29"
-last_updated: "2019-07-12"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 29 de diciembre de 2015.
 
@@ -155,19 +155,25 @@ IV. Con los subsidios y aportaciones periódicas o eventuales hechas a su favor,
 
 V. Con todos los demás bienes que adquiera por cualquier medio legal.
 
-> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-ARTÍCULO 6 BIS. El patrimonio inmobiliario del Organismo será de dos tipos:
+ARTÍCULO 6 BIS. El patrimonio inmobiliario del Organismo, será de dos tipos:
+
+> <small>(ADICIONADA, P.O. 12 DE JULIO DE 2019)</small>
 
 I. El patrimonio inmobiliario de uso institucional que el Organismo destine para fines administrativos, así como al servicio de afiliados y pensionados, el cual no podrá ser enajenado sino con autorización previa del Consejo Directivo y subsecuentemente del H. Congreso del Estado; y
 
-II. El patrimonio inmobiliario general que el Organismo adquiera con fines de reserva e inversión.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+II. El patrimonio inmobiliario general que el Organismo adquiera con fines de reserva e inversión, el cual en ningún momento podrá exceder del 10% del monto total del patrimonio del organismo.
 
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
 
 ARTÍCULO 6 TER. Respecto del patrimonio inmobiliario del Organismo, quedará prohibido lo siguiente:
 
-I. Conceder el uso, goce, disfrute o enajenación de bienes inmuebles propiedad del Organismo, a favor de partidos políticos, asociaciones, sociedades e instituciones en general que no sean de beneficencia pública o privada, de educación o investigación y reconocido prestigio y honorabilidad;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+I. Conceder el uso, goce, disfrute o enajenación de bienes inmuebles propiedad del Organismo, a favor de partidos políticos y de asociaciones religiosas.
 
 II. Adquirir, enajenar o conceder el uso o disfrute de los bienes inmuebles a los miembros del Consejo, trabajadores, jubilados, pensionados, parientes en línea recta sin limitación de grado, colaterales o afines hasta el segundo grado; y
 
@@ -1481,7 +1487,7 @@ AÑO PORCENTAJE
 
 DÉCIMO SEGUNDO. Para los efectos del artículo 70 de la presente Ley, los familiares beneficiarios de los pensionados y de los trabajadores en transición al fallecimiento de estos, tienen derecho a una pensión equivalente al 90% del importe de la pensión que venía disfrutando o a que tenía derecho el trabajador;
 
-DÉCIMO TERCERO. Se abroga la Ley que crea al Organismo Publico Descentralizado de la Administración Municipal Denominado “Dirección de Pensiones y otros Beneficios Sociales para los Trabajadores al Servicio del Municipio de Saltillo”, publicada en el Periódico Oficial, el martes 5 de abril de 1983.
+DÉCIMO TERCERO. Se abroga la Ley que crea al Organismo Publico Descentralizado de la Administración Municipal Denominado "Dirección de Pensiones y otros Beneficios Sociales para los Trabajadores al Servicio del Municipio de Saltillo", publicada en el Periódico Oficial, el martes 5 de abril de 1983.
 
 DÉCIMO CUARTO. Se derogan todas las disposiciones que se opongan a la presente ley.
 
@@ -1530,3 +1536,11 @@ P.O. 12 DE JULIO DE 2019.
 PRIMERO.- El presente decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los trabajadores que estén disfrutando de una pensión a la fecha de entrada en vigor de la presente Ley, o tengan derecho adquirido a disfrutar de alguna de ellas, la mantendrán en los términos y condiciones en los que las hayan adquirido.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 356.- SE REFORMA LA FRACCIÓN SEGUNDA DEL ARTÍCULO 6 BIS Y LA FRACCIÓN PRIMERA DEL ARTÍCULO 6 TER DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO "DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO”.]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+SEGUNDO.- Se derogan (sic) cualquier disposición contraria al presente Decreto.
