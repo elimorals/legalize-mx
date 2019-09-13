@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2019-07-16"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -363,7 +363,9 @@ XI. Daños, previsto por los artículos 161 y 162;
 
 XII. Peligro de devastación, previsto por el artículo 178;
 
-XIII. Delito contra el ambiente y la fauna, previsto por el artículo 179;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XIII. Delito contra el ambiente y la fauna, previsto por los artículos 179, 179 Quáter, 179 Quinquies, 179 Sexies;
 
 XIV. Falsificación de documentos y uso de documentos falsos, previsto por el artículo 189.
 
@@ -387,7 +389,9 @@ XXIII. Delitos contra la riqueza forestal del Estado, previsto por el artículo 
 
 XXIV. Cohecho, previsto por el artículo 255;
 
-XXV. Delitos contra el desarrollo urbano, previsto por el artículo 268; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XXV. Delitos contra el desarrollo urbano, previsto por los artículos 268 y 269 Bis segundo párrafo;
 
 XXVI. En los demás casos expresamente previstos en la legislación aplicable.
 
@@ -1559,6 +1563,14 @@ La misma pena se impondrá a quien no estando en condiciones de prestar el auxil
 
 Al que abandone una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla se le aplicará prisión de seis meses a tres años.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Cuando el abandono a que se refiere el primer párrafo de este artículo tenga como sujeto pasivo a una persona adulta mayor de sesenta años, y sea realizado por parte de los descendientes consanguíneos en línea recta o cualquier otro familiar que, conforme a la legislación civil, tenga la obligación de cuidarlo, se le impondrá multa de 30 a 100 días y trabajo en favor de la comunidad de tres meses a un año.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+El delito previsto en este artículo se perseguirá de oficio.
+
 ###### ARTICULO 112.
 
 Al que con motivo de tránsito de vehículo atropelle a una persona y no le preste el auxilio o no solicite la asistencia que requiere pudiendo hacerlo, se le aplicará de seis meses a un año de prisión o trabajo en favor de la comunidad de quince a noventa días, independientemente de la pena que corresponda con motivo del atropellamiento.
@@ -2233,6 +2245,8 @@ ARTICULO 151 BIS.- Se equipara al Abuso de confianza y se sancionará con la mis
 
 ### CAPITULO IX. DESPOJO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTICULO 152.
 
 Comete el delito de fraude el que engañando a alguien o aprovechándose del error en que éste se encuentra, obtenga alguna cosa ajena o alcance un lucro indebido para sí o para otro.
@@ -2285,6 +2299,10 @@ XIV.- El que venda a dos o más personas una misma cosa, sea mueble o inmueble y
 
 XV.- Al que por medio de tarjetas, títulos o documentos falsos relacionados con instituciones bancarias o comerciales, o bien auténticos, pero adquiridos indebidamente y sin autorización de quien está facultado para ello, haga el pago de cualquier bien o servicio u obtenga dinero en efectivo para sí o para otro. Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad más.
 
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XVI.- Al que, por sí o por interpósita persona, sin contar con las licencias, constancias y/o permisos y/o autorizaciones y/o requisitos previstos por la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y la Ley de Acciones Urbanísticas ambas del Estado de Quintana Roo, fraccione, subdivida, parcele o incorpore un terreno urbano o rústico, con o sin construcciones, propio o ajeno y transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre alguno de esos lotes.
+
 ###### ARTICULO 154.
 
 Se impondrá de seis meses a diez años de prisión y hasta quinientos días multa, al que, causando daño o perjuicio, transfiera o prometa transferir la propiedad, la posesión o cualquier otro derecho sobre un bien inmueble, sus instalaciones o parte de él, careciendo del previo permiso de la autoridad administrativa correspondiente, o cuando teniéndolo no cumpla con los requisitos.
@@ -2297,7 +2315,7 @@ Al que por cualquier razón tuviera a su cargo la administración o el cuidado d
 
 ### CAPITULO XI. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL PATRIMONIO
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 156.
 
@@ -2333,31 +2351,89 @@ Se impondrá de seis meses a tres años de prisión y de diez a quinientos días
 
 ###### ARTICULO 158.
 
-Se aplicará prisión de seis meses a seis años y de veinticinco a doscientos cincuenta días multa, al que sin consentimiento de quien tenga derecho a otorgarlo o engañando a éste:
+Se aplicará prisión de tres años a siete años, multa de trescientos a seiscientos días multa y reparación de los daños y perjuicios; en caso de las personas jurídicas previstas por el artículo 21 Bis, a las personas físicas o jurídicas que, sin el consentimiento de quien legalmente pueda otorgarlo o engañando a este, realice las siguientes conductas:
 
 I.- Ocupe un inmueble ajeno o haga uso de él o de un derecho real que no le pertenezca, o impida materialmente el disfrute de uno o de otro;
 
 II.- Ocupe un inmueble de su propiedad que halle en poder de otra persona por alguna causa legítima o ejerza actos de dominio que lesione los derechos del ocupante;
 
-III.- Altere términos o lindes de predios o cualquier clase de señales o mojones destinados a fijar los límites de los predios contiguos, tanto de dominio privado como de dominio público;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+III.- Altere o modifique señalamientos, mojoneras, linderos o cualquier clase de señal destinada a fijar los límites de predios, establecidos por autoridades competentes.
 
 IV.- Desvíe o haga uso de las aguas propias o ajenas, en los casos de que la Ley no lo permita, o haga uso de un derecho real sobre aguas que no le pertenezcan, o
 
 V.- Ejerza actos de dominio que lesione derechos legítimos del usuario de dichas aguas.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+VI.- Al que, disponga para sí o para otro, de un inmueble que ha recibido a título de depositario judicial.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Iniciada la investigación y previo análisis objetivo de los datos que consten en la misma, en términos del Código Nacional de Procedimientos Penales, el Ministerio Público, podrá abstenerse de ejercer la acción penal con base en la aplicación de criterios de oportunidad, siempre que, en su caso, se hayan reparado o garantizado los daños causados a la víctima u ofendido.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 159.
 
-Si el despojo se realiza por más de dos personas o con violencia, las penas previstas en el artículo anterior se aumentaran hasta en una mitad más.
+Se aplicará prisión de seis años a doce años y de trescientos a seiscientos días multa y reparación de los daños y perjuicios, a quien cometa el delito de despojo calificado.
 
-Al que planee, o induzca, o instigue, o financie, o dirija o propicie la acción de despojo, se les impondrá prisión de dos a nueve años de prisión y multa de cien a cuatrocientos días multa.
+Para los efectos del presente artículo se entenderá por despojo calificado aquel que se cometa:
 
-Cuando el despojo se realice sobre terrenos declarados como áreas naturales protegidas en sus diferentes modalidades, o que tengan el carácter de reserva territorial para el crecimiento urbano de los centros de población del Estado, se incrementará la penalidad hasta en una cuarta parte más de la señalada en el párrafo que antecede.
+I. Con violencia física, o furtivamente;
+
+Por violencia física se entenderá el empleo doloso de alguna parte del cuerpo, o de algún instrumento u objeto, con los que materialmente se sujete, inmovilice o golpee a otra persona, o se le cause daño a su integridad corporal;
+
+Si la violencia constituye otro delito, se aplicarán las reglas de la acumulación.
+
+Por furtividad se entenderá una maniobra oculta o clandestina para ocupar o usar el objeto material del delito, cuando el propietario o poseedor se encuentre ausente;
+
+II. Cuando el despojo se realice por grupo o grupos de dos o más personas;
+
+III. En terrenos ejidales o destinados a la ganadería o a la agricultura; y que sus destinos sean el asentamiento humano y las tierras de uso común, en términos de lo dispuesto por el artículo 51 de la Ley Federal de Reforma Agraria;
+
+IV. En áreas naturales protegidas estatales o municipales debidamente decretadas, zonas sujetas a conservación ecológica, parques locales establecidos para la preservación, restauración y mejoramiento ambiental.
+
+La Procuraduría de Protección al Ambiente del Estado de Quintana Roo, presentará la denuncia correspondiente, y emitirá la pericial de daños ambientales y las medidas necesarias para la remediación de los mismos.
+
+V. En predios ubicados en zonas o áreas consideradas no urbanizables o de riesgo grave o de alto riesgo en los planes o programas estatales y municipales de desarrollo urbano o en los atlas de riesgos nacional, estatal o municipal expedidos por las autoridades competentes.
+
+La Secretaría de Desarrollo Territorial Urbano Sustentable, presentará la denuncia correspondiente, y emitirá el informe que ubique y determine las zonas o áreas consideradas no urbanizables o de riesgo grave o de alto riesgo en los planes o programas estatales y municipales; por su parte, la autoridad responsable prevista en la Ley de Protección Civil del Estado de Quintana Roo, emitirá el dictamen sobre los predios identificados como de alto o grave riesgo, por encontrarse inscritos en el atlas de protección civil federal, estatal o municipal.
+
+VI. Cuando se determine la autoría y participación de un servidor público o fedatario público o miembro de los cuerpos de seguridad, procuración o impartición de justicia en ejercicio de sus funciones, como sujeto activo;
+
+VII. Se ocupen bienes patrimoniales del Estado, ya sean de dominio público o privado en términos de la Ley del Patrimonio del Estado de Quintana Roo o una vez ocupado, se impida la prestación del servicio público.
+
+Serán nulos de pleno derecho, los actos derivados del despojo, por los que se pretendan constituir o inscriban gravámenes sobre bienes de dominio público;
+
+VIII. Si el sujeto activo es reincidente en la comisión del delito de despojo, en cualquiera de sus modalidades de autoría y participación prevista por este Código;
+
+IX. Si el despojo se realiza en contra de una persona en situación de vulnerabilidad, persona mayor de sesenta años de edad o con discapacidad;
+
+La comisión del delito de Despojo en su modalidad calificada, se perseguirá de oficio por el Ministerio Público.
+
+Los autores previstos por el artículo 16 fracciones II, III y IV, o los que induzcan, instiguen, financien, dirijan, encabecen o propicien la acción de despojo en la modalidad calificada, se les impondrán de seis a catorce años de pena de prisión y de mil a mil quinientos días multa.
+
+Las penas señaladas en los párrafos precedentes se disminuirán hasta en una mitad cuando dentro de las cuarenta y ocho horas siguientes a la comisión de estos delitos, cesen los actos de desposesión y se produzca la desocupación voluntaria del inmueble que hubiere sido despojado y siempre que los sujetos activos del delito reparen el daño causado al ofendido.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 160.
 
-Las penas previstas en este capítulo se impondrán aunque el derecho de posesión sea dudoso o esté sujeto a litigio.
+Las sanciones previstas en este capítulo se impondrán, aunque el derecho a la posesión sea dudoso o esté sujeto a litigio.
+
+Salvo cuando en este último caso, la resolución correspondiente, que haya causado ejecutoria determine que el derecho a la posesión corresponde al sujeto activo, y la restitución se hubiera ordenado debidamente en vía de ejecución por parte de la Autoridad Judicial. En caso, contrario, se estará a un equiparado al despojo, al actuar el activo de manera indebida en el ejercicio de un derecho.
+
+Iniciada la investigación y previo análisis objetivo de los datos que consten en la misma, en términos del Código Nacional de Procedimientos Penales, el Ministerio Público, podrá abstenerse de ejercer la acción penal con base en la aplicación de criterios de oportunidad, siempre que, en su caso, se hayan reparado o garantizado los daños causados a la víctima u ofendido.
+
+No podrá ser considerado como causa de justificación excluyente de delito la presentación de algún tipo de contrato, que no haya sido elaborado con las formalidades que establece la ley civil vigente y debidamente inscrito en el Registro Público de la Propiedad y del Comercio.
+
+El agente del Ministerio Público desarrollará las técnicas de investigación necesarias, a efecto (sic) poder asegurar y/o embargar los bienes inmuebles objeto del delito, para corroborar los elementos probatorios y evidencia física necesaria, dando cumplimiento a las disposiciones previstas por los artículos 229, 230, 231, 232, 233 y demás relativos y aplicables del Código Nacional de Procedimientos Penales.
+
+El otorgamiento del perdón no generará derechos restitutorios en favor de la persona inculpada, y operará una vez que se haya restituido el inmueble y se hayan resarcido los daños causados.
+
+Este delito se perseguirá a petición de parte ofendida, siempre y cuando no concurran las calificativas previstas en el artículo 159.
 
 ### CAPITULO III. ABANDONO DE NIÑOS, NIÑAS Y ADOLESCENTES
 
@@ -2373,11 +2449,13 @@ Si el daño recae en bienes de valor científico, artístico, cultural o de util
 
 ###### ARTICULO 163.
 
-Los delitos previstos en este Título solo podrán perseguirse por querella de la parte ofendida, con excepción de los delitos de robo, en materia de apicultura, abigeato, extorsión y de lo previsto en (sic) párrafo segundo del Artículo 159 de este Código, respecto de estos delitos que se perseguirán de oficio. Estos delitos, previstos en los capítulos I, II y III, también serán perseguibles por querella, cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubino, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos.
+Los delitos previstos en este Título sólo podrán perseguirse por querella de la parte ofendida, con excepción de los delitos de robo, en materia de apicultura, abigeato, extorsión, despojo calificado previsto por el artículo 159, respecto de estos delitos que se perseguirán de oficio. Los delitos previstos en los capítulos I, II y III, también serán perseguibles por querella, cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubino, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 164.
 
-En los casos de los delitos previstos por este título, no se aplicará pena alguna si el agente restituye al agraviado del delito y paga los daños y perjuicios, o no siendo posible la restitución, antes de que la autoridad investigadora tome conocimiento del ilícito, cuando sea la primera vez que delinque y el delito no se hubiese cometido con violencia. Si antes de dictarse sentencia al inculpado hace la restitución o cubre su valor, en su caso, el producto de los daños y perjuicios correspondientes a ellos, se reducirán las penas a la mitad de las que corresponderían por el delito cometido.
+En los casos de los delitos previstos por este título, salvo lo dispuesto por el artículo 159, no se aplicará pena alguna si el agente restituye al agraviado del delito y paga los daños y perjuicios, o no siendo posible la restitución, antes de que la autoridad investigadora tome conocimiento del ilícito, cuando sea la primera vez que delinque y el delito no se hubiese cometido con violencia. Si antes de dictarse sentencia al inculpado hace la restitución o cubre su valor, en su caso, el producto de los daños y perjuicios correspondientes a ellos, se reducirán las penas a la mitad de las que corresponderían por el delito cometido.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2008)</small>
 
@@ -2689,6 +2767,72 @@ Por actos de maltrato o crueldad se estará a lo dispuesto en la Ley de Protecci
 
 Se exceptúan del presente capítulo los animales clasificados para abasto y producción de conformidad con la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### ARTICULO 179
+
+QUÁTER.- Se impondrá de seis meses a tres años de prisión y de diez a cincuenta días de multa, al que sustraiga a un animal de compañía, sin derecho y sin consentimiento de la persona que lo tenga bajo su cuidado.
+
+No se impondrá sanción alguna, cuando el culpable restituya el animal de compañía espontáneamente y pague todos los daños causados antes de que la autoridad tome conocimiento del delito.
+
+Este delito se perseguirá por querella de parte ofendida.
+
+Para efectos del presente artículo se entiende por animal de compañía, lo establecido en el artículo 4 fracción V de la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### ARTICULO 179
+
+QUÁTER.- (SIC) Se le impondrán de tres a nueve años de prisión y de mil a cinco mil días multa, a quien dolosamente haga un uso distinto al permitido del uso de suelo u obtenga un beneficio económico derivado de estas conductas.
+
+Las penas previstas en el párrafo anterior se aumentarán en una tercera parte, cuando la conducta se lleve a cabo en, o afecte cualquiera de los siguientes lugares:
+
+I. Un área natural protegida de competencia estatal, de conformidad con las disposiciones jurídicas aplicables;
+
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Estado y municipios aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
+
+Las penas previstas en este artículo se disminuirán en una mitad cuando, las actividades realizadas, aun siendo diferentes a las previstas en el uso de suelo correspondiente, se encuentren previstas en el programa o programas de ordenamiento ecológico Estatal y/o Municipal, o en el Programa o Programas de Desarrollo Urbano aplicables. No se considerará violatorio del uso de suelo el supuesto establecido en el artículo 37 de la Ley de Establecimientos Mercantiles.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### ARTICULO 179
+
+QUINQUIES.- Se le impondrán de seis meses a cinco años de prisión y de quinientos a dos mil días multa, a quien extraiga suelo o cubierta vegetal, piedra o tierra natural, por un volumen igual o mayor a dos metros cúbicos, de:
+
+I. Un área natural protegida de competencia del Estatal, de conformidad con las disposiciones jurídicas aplicables;
+
+II. El suelo de conservación en términos de lo establecido en el programa o programas de ordenamiento ecológico del Estado y municipios aplicables, así como lo establecido en el Programa o Programas de Desarrollo Urbano aplicables;
+
+III. Sin contar con los permisos y autorizaciones correspondientes, o sin el pago de los derechos de extracción previstos en la Ley de derechos del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### ARTICULO 179
+
+SEXIES.- Se le impondrán de seis meses a cinco años de prisión y de mil a tres mil días multa, al que obtenga una autorización proveniente de cualquier autoridad ambiental del Estado de Quintana Roo o de los Municipios, a partir de información falsa o de uno o más documentos falsos o alterados.
+
+Se les impondrán de seis meses a tres años de prisión y de veinte a quinientos días multa a los prestadores y laboratorios de servicios ambientales, que proporcionen documentos o información falsa u omitan datos con el objeto de que las autoridades ambientales otorguen o avalen cualquier tipo de permiso, autorización o licencia.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### ARTICULO 179
+
+SEPTIES.- Las penas previstas en este artículo se impondrán, siempre que la autoridad ambiental haya otorgado el permiso, autorización o licencia de que se trate.
+
+El Juez de oficio o a petición de parte, podrá reducir las penas correspondientes para los delitos previstos en este título, hasta en tres cuartas partes, cuando el agente haya reestablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta, y cuando ello no sea posible, ejecutando las acciones u obras que compensen los daños ambientales que se hubiesen generado.
+
+A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo dictamen técnico favorable emitido por la autoridad ambiental competente en el Estado de Quintana Roo. En los casos en que la persona procesada demuestre mediante dictamen técnico, que se ha reparado totalmente el daño ambiental causado y que además se han llevado a cabo acciones tendientes a favorecer el equilibrio ecológico o a establecer medidas permanentes de protección a un ecosistema, el Juez podrá determinar que no se le imponga sanción penal alguna. Sólo se podrá hacer uso de este beneficio por una sola vez.
+
+Para los efectos del presente Título, la reparación del daño se ordenará a petición del Ministerio Público u oficiosamente por el Juez, e incluirá además:
+
+I. La realización de las acciones necesarias para restaurar las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse el delito, cuando ello no sea posible, la ejecución de acciones u obras que permitan compensar los daños ambientales que se hubiesen generado, y si ninguna de ellas fuera posible, el pago de una indemnización que se integrará a los recursos del fondo ambiental público previsto en la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado.
+
+A fin de determinar el monto de la indemnización a que se refiere esta fracción, el Juez deberá considerar los daños ambientales ocasionados, el valor de los bienes afectados y el derecho de toda persona de tener un ambiente sano; debiendo apoyarse en todo caso, en un dictamen técnico emitido por la autoridad ambiental competente para fijar el monto de la indemnización correspondiente, la cual en ninguno de los casos deberá ser inferior al valor de los bienes afectados o de los beneficios obtenidos por la conducta.
+
+II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
+
+Tratándose de los delitos previstos en este título, el trabajo a favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
+
 ### CAPITULO III. VIOLENCIA DE CORRESPONDENCIA
 
 ###### ARTICULO 180.
@@ -2708,6 +2852,8 @@ Al que forme parte de manera permanente de una asociación o banda de tres o má
 ## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VIAS DE COMUNICACION Y DE LOS MEDIOS DE TRANSPORTE
 
 ### CAPITULO II. FALSIFICACION DE DOCUMENTOS Y USO DE DOCUMENTOS FALSOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ### CAPITULO III. USURPACION DE PROFESIONES
 
@@ -2775,7 +2921,7 @@ II.- Use indebidamente los objetos señalados en la fracción anterior.
 
 ###### ARTICULO 189.
 
-Se impondrá prisión de seis meses a tres años y de quince a noventa días multa, al que para obtener un beneficio o para causar un daño, falsifique o altere un documento público o privado.
+Se impondrá prisión de tres años a seis años, multa de cien a trescientos días multa, la suspensión, privación e inhabilitación de derechos o funciones y la reparación de los daños y perjuicios causados, al que para obtener un beneficio o para causar un daño, falsifique o altere un documento público o privado.
 
 Las mismas penas se impondrá (sic) al que, a sabiendas y con los fines a que se refiere el párrafo anterior, haga uso de un documento falso o alterado, o haga uso indebido de un documento verdadero, expedido en favor de otro, como si hubiera sido expedido a su nombre.
 
@@ -2798,6 +2944,18 @@ Las mismas penas se impondrán a quien utilice indebidamente información confid
 Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán hasta en una mitad más.
 
 En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo se aplicarán las reglas del concurso.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+V.- Falsifique o haga parecer como originales, documentos públicos o privados que carecen de las formalidades esenciales de validez, para acreditar la posesión de un bien inmueble;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+VI.- En ejercicio de su función como servidor público y/o fedatario público emita o ratifique un documento público o privado, que haga constar la posesión, sin contar con los elementos esenciales del acto jurídico y que tenga elementos suficientes para emitirlo.
+
+Al servidor público que incurra en dichos actos, además de las penas previstas en el presente Código, se le inhabilitará por el mismo tiempo de la sanción impuesta.
+
+El fedatario público que incurra en dichos actos, además de las penas previstas, se le impondrá como sanción la privación de la función notarial otorgada por el Estado y la reparación de los daños y perjuicios ocasionados con su actuar.
 
 ### CAPITULO V. VENTA DE NIÑOS, NIÑAS Y ADOLESCENTES
 
@@ -3011,7 +3169,9 @@ A los profesionistas o técnicos no comprendidos en las disposiciones anteriores
 
 ### CAPÍTULO VI. USO INDEBIDO DE INFORMACIÓN SOBRE LAS ACTIVIDADES DE SEGURIDAD PUBLICA Y PROCURACION DE JUSTICIA
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+(NOTA: EL 19 DE MAYO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 110/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 14 DE SEPTIEMBRE DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 358, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 199
 
@@ -3129,13 +3289,15 @@ Al que teniendo conocimiento de las actividades de un saboteador y de su identid
 
 ###### ARTICULO 204
 
-BIS.- Al que obtenga información privilegiada de las Instituciones de Seguridad Pública o de las Fuerzas Armadas y la utilice para avisar a terceros, para evitar que éstos sean detenidos o para que puedan concretar una actividad delictiva, se le impondrá una sanción de dos a seis años de prisión y de cien a mil días multa.
+BIS.- Al que a través de una conducta dolosa proporcione o comunique a terceros información de cualquier tipo, que impida y obstaculice la adecuada ejecución de las funciones policiales y laborales operativas de detención, investigación, prevención y reacción de las instituciones de Seguridad Pública del Estado, Federales, Nacionales o Fuerzas Armadas, ya sea que las ejecuten por sí o conjuntamente, se le impondrá la pena de tres a siete años de prisión y de quinientos a mil días multa.
 
-Cuando la conducta se lleve a cabo utilizando a personas menores de edad, personas que no tengan la capacidad de comprender la conducta o a personas discapacitadas la pena se aumentará hasta en una mitad de la señalada en el primer párrafo. Así mismo se aumentará la pena hasta en una mitad cuando la conducta se lleve a cabo por servidores públicos que pertenezcan o han pertenecido a alguna Institución de Seguridad Pública, a las Fuerzas Armadas o se trate de personas que han pertenecido o pertenezcan a personas morales que brinden Servicios de Seguridad Privada.
+La pena anterior se duplicará si dicha comunicación consistiere en información clasificada como reservada o confidencial en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo y fuere realizada por las personas responsables de su resguardo.
 
-Cuando la conducta se lleve a cabo utilizando equipo o vehículos oficiales, o vehículos de servicio de transporte público o mercantil, o que por sus características sean similares a esos en apariencia, la pena se aumentará hasta en una mitad de la señalada en el primer párrafo.
+Cuando la conducta se lleve a cabo utilizando a personas menores de edad, personas que no tengan la capacidad de comprender la conducta o a personas con discapacidad la pena se aumentará hasta en una mitad de la señalada en el primer párrafo.
 
-Para efectos de este artículo, se entenderá por Instituciones de Seguridad Pública, las previstas en el artículo 5 fracción XVI de la Ley de Seguridad Pública del Estado de Quintana Roo. Asimismo, se entenderá por información privilegiada aquella relacionada con las actividades provenientes de operativos, investigación y persecución de los delitos y sus autores, que en términos de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, es considerada como reservada o confidencial.
+Asimismo se aumentará la pena prevista en el primer párrafo hasta en una mitad y en lo aplicable se sancionará con destitución del empleo, cargo o comisión públicos o inhabilitación de dos a seis años para desempeñar cualquier cargo o comisión públicos cuando la conducta se lleve a cabo por servidores públicos que pertenezcan o han pertenecido a alguna Institución de Seguridad Pública, fuerzas armadas, al organismo garante del derecho a la información del Estado, o se trate de individuos destinados a la prestación de servicios de seguridad privada, contratados por personas físicas o morales.
+
+Cuando la conducta se lleve a cabo utilizando equipo o vehículos oficiales, que por sus características sean similares a esos en apariencia, o bien la realicen prestadores de servicios públicos de transporte de pasajeros o carga, o mediante cualquier tipo de embarcación marítima o aeronave, la pena se aumentará hasta en una mitad de la señalada en el primer párrafo.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VI] P.O. 30 DE NOVIEMBRE DE 2012)
 
@@ -3915,7 +4077,7 @@ Al que cometa el delito de intimidación se le impondrán de dos años a nueve a
 
 ## TITULO DECIMO PRIMERO. DELITOS CONTRA EL DESARROLLO URBANO
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 260.
 
@@ -4023,25 +4185,49 @@ Se impondrá sanción de suspensión de sus derechos políticos hasta por seis a
 
 ###### ARTICULO 268.
 
-Comete el delito a que se refiere este título:
+Comete el delito a que se refiere este título, la persona física o jurídica que:
 
-I.- El que fraccione sin contar con el permiso necesario de la autoridad administrativa o teniéndolo, no respete las especificaciones del mismo, con el objeto de transferir la posesión, la propiedad o cualquier otro derecho relacionado con los lotes divididos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+I.- Autorice, promueva, induzca, organice o aliente la formación o construcción de asentamientos humanos irregulares, por sí o por interpósita persona;
 
 II.- El que sin contar con los requisitos y autorizaciones de urbanización exigidos por las leyes respectivas, permita de propia autoridad en lote propio o en su legítima posesión, la constitución de asentamientos humanos integrados por dos o más familias, que impliquen el surgimiento de peticiones respecto de su regularización. Se considera que existe consentimiento por parte del propietario o legítimo poseedor del predio, cuando teniendo conocimiento del asentamiento humano, no denuncie el hecho al Ministerio Público;
 
-III.- El que cause una afectación al interés público o un daño o perjuicio privado al prometer transferir o que, transfiera por sí o por interpósita persona la posesión, la propiedad o cualquier otro derecho real respecto de lotes que hayan sido fraccionados sin la anuencia de la autoridad administrativa correspondiente, o contando con ésta, no se observen las especificaciones de la misma;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-IV.- El servidor público que valiéndose de su encargo expida, autorice u otorgue licencias, permisos, autorizaciones o cualquier otra disposición análoga, que permita fraccionar sin reunir las condiciones exigidas por las leyes, planes o programas de desarrollo urbano vigentes, o bien que los expidan sin estar autorizado para ello;
+III.- Autorice o expida licencias, permisos, autorizaciones, constancias de compatibilidad urbanística o dictámenes de uso de suelo, viabilidad, construcción, fraccionamiento, urbanización, conjuntos urbanos o acciones urbanísticas en contravención con la normativa vigente;
 
-V.- El servidor público que expida licencias, permisos, autorizaciones o cualquier otra disposición análoga, permitiendo el uso del suelo o la edificación de construcciones respecto de lotes previamente fraccionados, sin el permiso de la autoridad administrativa correspondiente, o que contándose con éste, no se hayan observado las especificaciones del mismo; igualmente, incurrirá en el delito el funcionario público que los otorgue sin estar autorizado para ello; así como el notario público que en ejercicio de sus funciones, dolosamente intervenga en un asentamiento humano irregular;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+IV.- Sustraiga, destruya, oculte, altere, utilice, inutilice o introduzca ilegalmente información o documentos auténticos, falsos, alterados o que no sean reconocidos por la autoridad que los expidió, en expedientes, archivos o bases de datos que se encuentren bajo su custodia o a los que tenga acceso en virtud de su empleo, cargo, comisión o cualquier otra clase de prestación de servicios, con la finalidad de que se expida o registre cualquier documento relacionado con los actos a los que hace referencia el presente artículo, en contravención con la normativa vigente;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+V.- Expida, modifique, permita que se modifique, autorice u otorgue licencias, permisos o autorizaciones para realizar cualquiera de los actos descritos en el presente artículo, sin haberse cumplido con los requisitos que exigen las leyes o códigos en la materia o los autorice sin tener la facultad legal para hacerlo;
 
 VI.- El que por sí o por interpósita persona, realice actividades de trazado tendientes a fraccionar, sin cerciorarse previamente de que el propietario cuenta con el permiso necesario de la autoridad administrativa para ello; y
 
-VII.- El que a sabiendas, ordene cualquier tipo de publicidad ofreciendo lotes de un fraccionamiento no autorizado.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+VII.- El que a sabiendas carece de todos los permisos, licencias y autorizaciones necesarios para construir y comercializar un bien inmueble, ordene cualquier tipo de publicidad, que tenga por efecto realizar una promesa de compraventa, de lotes, departamentos, o casas en un fraccionamiento no autorizado.
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+VIII.- Falte a la verdad en la supervisión de las obras de urbanización, infraestructura y equipamiento urbano autorizados;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+IX.- Inscriba, pretenda inscribir, registre o pretenda registrar ante las autoridades administrativas correspondientes, los actos o documentos a los que hace referencia el presente artículo, sin ajustarse a las disposiciones legales y administrativas aplicables;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+X.- El servidor público que, estando obligado a controlar, regular o vigilar la ocupación de predios o edificación de construcciones, tolere, auspicie o no denuncie la gestación o desarrollo de un asentamiento irregular.
 
 Cuando el infractor de este delito, fuere una empresa, sociedad o cualquier otra persona moral, las sanciones serán impuestas al gerente, director, administrador, representante o responsable de ella que hubiere intervenido en los hechos relacionados en las fracciones anteriores.
 
-Para los efectos del presente título, por fraccionar, debe entenderse la división de terrenos en lotes, dentro de los centros de población y zonas conurbadas.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Para los efectos del presente título, por fraccionar, debe entenderse cualquier terreno o parte de él, que se divida en 3 o más fracciones, ya sea para su venta en lotes, o bien para construcciones habitacionales, hoteleros, agropecuaria y demás aprovechamientos y usos.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -4049,19 +4235,37 @@ Para los efectos del presente título, por fraccionar, debe entenderse la divisi
 
 Las conductas anteriormente señaladas se sancionarán en la forma siguiente:
 
-I.- De uno a diez años de prisión y de mil ochocientos hasta tres mil días multa, por lo que hace a las conductas previstas en las fracciones I a III del artículo inmediato anterior;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-II.- De uno a seis años de prisión y de mil ochocientos hasta tres mil días multa y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión pública hasta por seis años, por lo que hace a las conductas previstas en las fracciones IV y V del artículo inmediato anterior; y
+I.- De cuatro a doce años de prisión y de mil ochocientos hasta tres mil días multa, por lo que hace a las conductas previstas en las fracciones I, III, IV, V, del artículo inmediato anterior.
 
-III.- De seis meses a tres años de prisión y de seiscientos hasta mil ochocientos días multa por lo que hace a la conducta prevista en las fracción VI y VII del artículo inmediato anterior.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+II.- De dos a ocho años de prisión y de mil ochocientos hasta tres mil días multa y destitución e inhabilitación para desempeñar otro empleo, cargo o comisión pública hasta por un término igual, por lo que hace a las conductas previstas en las fracciones II, VIII, IX, X. del artículo inmediato anterior;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+III.- De un año meses (sic) a cuatro años de prisión y de seiscientos hasta mil ochocientos días multa por lo que hace a la conducta prevista en la fracción VI del artículo inmediato anterior, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+IV.- Cuando los involucrados sean servidores públicos se procederá en términos de lo dispuesto por los artículos 206 y 207 de este Código y adicionalmente procederá la destitución e inhabilitación para desempeñar empleo, cargo o comisión públicos.
 
 La pena de prisión impuesta se incrementará hasta en una mitad más, cuando las conductas previstas, afecten áreas protegidas o de preservación ecológica, o se realicen respecto de zonas, consideradas no aptas para la vivienda de acuerdo las leyes, planes y programas de desarrollo urbano en vigor.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### ARTICULO 269
+
+BIS.- Al Director Responsable de Obra que autorice o permita el desarrollo de una construcción, de la que otorgó su responsiva, sin apego a la licencia, autorización, permiso, registro o la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para el Estado de Quintana Roo y sus municipios, se le impondrá de cuatro a doce años seis meses de prisión y de mil a diez mil días multa, así como suspensión para desempeñar profesión u oficio hasta por un período igual a la pena de prisión impuesta.
+
+La misma sanción se impondrá al propietario del inmueble donde se desarrolla la construcción, su representante legal o el constructor, que teniendo conocimiento permita la edificación sin apego a la licencia, autorización, permiso, registro o la normativa vigente relativa al desarrollo urbano, construcciones, inmuebles y ordenamiento territorial para el Estado de Quintana Roo y sus municipios con relación a la altura, número de niveles y área libre permitidas, siempre que no lo denuncie a la autoridad.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 270.
 
-Las licencias, permisos, autorizaciones o disposiciones análogas a que se hace referencia en las fracciones IV y V del artículo 268 estarán afectadas de nulidad absoluta.
+Las licencias, permisos, autorizaciones o disposiciones análogas a que se hace referencia en las fracciones III, IV y V del artículo 268 estarán afectadas de nulidad absoluta.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2010)</small>
 
@@ -4508,3 +4712,29 @@ P.O. 16 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 316 POR EL QUE SE ADICIONA EL CAPÍTULO VIII DENOMINADO "VENTA Y/O DISTRIBUCIÓN ILÍCITA DE BEBIDAS ALCOHÓLICAS" Y EL ARTÍCULO 220 SEXIES, AL TÍTULO TERCERO "DELITOS CONTRA LA ADMINISTRACIÓN PÚBLICA" DE LA SECCIÓN CUARTA "DELITOS CONTRA EL ESTADO" DEL LIBRO SEGUNDO "PARTE ESPECIAL" DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 351 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTICULO 111 DEL CÓDIGO PENAL Y SE REFORMA LA FRACCIÓN V DEL ARTICULO 1262 DEL CÓDIGO CIVIL, AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE PROTECCIÓN AL ADULTO MAYOR”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 352 POR EL QUE SE ADICIONA EL ARTÍCULO 179 QUÁTER AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 358 POR EL QUE SE REFORMA EL ARTÍCULO 204-BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 359, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
