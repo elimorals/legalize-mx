@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2019-08-09"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -7049,7 +7049,9 @@ III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata d
 
 IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del otro cónyuge;
 
-V.- El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus descendientes, de su cónyuge o persona con quien hizo vida marital;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+V.- El que haya sido condenado por un delito cometido contra el autor de la herencia, de sus descendientes, de su cónyuge o persona con quien hizo vida marital;
 
 VI.- El padre y la madre respecto del hijo abandonado por ellos;
 
@@ -9677,9 +9679,11 @@ II.- A las acciones interdictales de retener y recuperar la posesión.
 
 El pago de gastos y la responsabilidad por pérdida o menoscabo del bien poseído, cuando son a cargo de los poseedores derivados se rigen por las disposiciones que normen los negocios jurídicos por virtud de los cuales adquirieron esa posesión; pero cuando se trate de poseedores originarios se estará a lo dispuesto en los artículos 1802, 1803, 1805 a 1808.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 1800.
 
-Para que el poseedor tenga derecho al interdicto de recuperar, se requiere que no hayan pasado seis meses desde el despojo y se reputa que no fue perturbado o despojado el que judicialmente haya sido mantenido o restituido en su posesión.
+Para que el poseedor tenga derecho al interdicto de recuperar, se requiere que no haya pasado un año desde el despojo y se reputa que no fue perturbado o despojado el que judicialmente haya sido mantenido o restituido en su posesión.
 
 ###### Artículo 1801.
 
@@ -9875,9 +9879,11 @@ El concepto de dueño a que alude el artículo anterior, no puede quedar ni qued
 
 Si la posesión del bien que se pretende usucapir se adquirió a nombre ajeno, sólo será apta para ese desde que se comience a poseer en concepto de propietario, debiendo probarse la causa del cambio.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 1839.
 
-Los bienes inmuebles se adquieren por usucapión en cinco años si la posesión es de buena fe o si los inmuebles han sido objeto de una inscripción de posesión en los términos del artículo 1848; y en diez años si dicha posesión es de mala fe.
+Los bienes inmuebles se adquieren por usucapión en diez años si la posesión es de buena fe o si los inmuebles han sido objeto de una inscripción de posesión en los términos del artículo 1848; y en veinte años si dicha posesión es de mala fe.
 
 ###### Artículo 1840.
 
@@ -9911,9 +9917,17 @@ III.- Entre los incapacitados y sus tutores mientras dure la tutela;
 
 IV.- Entre copropietarios o coposeedores respecto del bien común;
 
-V.- Contra quienes se encuentren fuera del Estado en servicio público; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-VI.- Contra los militares en servicio activo, en tiempo de guerra.
+V.- Contra quienes se encuentren fuera del Estado en servicio público;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+VI.- Contra los militares en servicio activo, en tiempo de guerra, y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+VII.- Contra bienes patrimoniales del Estado, ya sean de dominio público o privado en términos de la Ley del Patrimonio del Estado de Quintana Roo.
 
 ###### Artículo 1846.
 
@@ -9945,9 +9959,11 @@ Quien se crea con derecho a los bienes a que alude el artículo anterior, podrá
 
 Si el opositor deja transcurrir noventa días, incluyendo los feriados, sin promover en el juicio de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 1852.
 
-Quien hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para usucapirlos, puede promover juicio contra quien aparezca en el Registro como propietario de esos bienes, a fin de que se declare que la usucapión se ha consumado y que el solicitante ha adquirido, por ende, la propiedad.
+Quien hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para usucapirlos, puede promover juicio contra quien aparezca en el Registro como propietario de esos bienes, y llamando como tercero con interés al Gobierno del Estado de Quintana Roo y al representante legal del Instituto previsto por la Ley del Patrimonio del Estado de Quintana Roo, a cargo de los bienes patrimoniales del Estado, de dominio público o privado, para que deduzcan las acciones pertinentes, a fin de que se declare que la usucapión se ha consumado y que el solicitante ha adquirido, por ende, la propiedad.
 
 ###### Artículo 1853.
 
@@ -17540,3 +17556,17 @@ PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el 
 SEGUNDO. En un plazo no mayor de 90 días contados a partir de la entrada en vigor del presente decreto, el Ejecutivo del Estado realizará las adecuaciones necesarias al Reglamento del Registro Civil y demás disposiciones aplicables para ajustar el funcionamiento de los entes gubernamentales involucrados con el Registro de Deudores Alimentarios Morosos del Estado de Quintana Roo.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 351 POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 111 DEL CÓDIGO PENAL Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 1262 DEL CÓDIGO CIVIL, AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, EN MATERIA DE PROTECCIÓN AL ADULTO MAYOR”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 359 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, Y DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
