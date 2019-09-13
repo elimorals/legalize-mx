@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-instituciones-de-asistencia-privada-para-la-ciudad-12950
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-14"
-last_updated: "2014-11-28"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12950&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-11"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de diciembre de 1998.
 
@@ -868,13 +868,17 @@ Los miembros del Consejo Directivo elegidos por las instituciones durarán en su
 
 En caso de que la presidencia de la Junta se encuentre vacante dentro de los últimos seis meses del ejercicio de dicho cargo, el Secretario Ejecutivo asumirá dichas funciones hasta el momento de la elección del nuevo Presidente. Si aconteciese en fecha anterior, se cubrirá siguiendo el procedimiento establecido en el Artículo 76.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 79.
 
-Para ser Presidente de la Junta se deberán cumplir los requisitos siguientes:
+La persona titular de la Presidencia de la Junta deberá cumplir los requisitos siguientes:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. No tener más de 75 años de edad, ni menos de 30 años al día de su nombramiento;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+II. Tener más de 18 años al día de su nombramiento;
 
 > <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2010)</small>
 
@@ -894,13 +898,17 @@ IX. No ser servidor público por lo menos seis meses anteriores al día de su no
 
 Para ser Secretario Ejecutivo de la Junta se deberán reunir los mismos requisitos que para ser Presidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 80.
 
-Para ser miembro del Consejo Directivo como representante de las instituciones de asistencia privada, se deberán cumplir los requisitos siguientes:
+Las personas integrantes del Consejo Directivo, como representantes de las instituciones de asistencia privada, deberán cumplir los requisitos siguientes:
 
 I. Gozar de buena reputación y no haber sido condenado por delito doloso;
 
-II. No tener más de 75 años de edad, ni menos de 30 años al día de la designación;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+II. Tener más de 18 años de edad al día de la designación;
 
 III. Tener conocimientos o haberse destacado en el ámbito de la asistencia social.
 
@@ -1399,3 +1407,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 79, EN SU PRIMER PÁRRAFO Y LA FRACCIÓN II; Y 80 EN SU PRIMER PÁRRAFO Y FRACCIÓN II DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
