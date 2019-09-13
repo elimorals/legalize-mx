@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-los-servidores-publicos-del-instituto-130
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-24"
-last_updated: "2018-09-24"
+last_updated: "2019-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADO EN LA G.G. DE 13 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Sección Primera en la Gaceta de Gobierno del Estado de México, el lunes 24 de septiembre de 2018.
 
@@ -999,3 +1001,15 @@ Alfredo del Mazo del Instituto
 de Seguridad Social del Estado
 
 de México y Municipios. (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO.- Publíquese el presente Código de Conducta en el Periódico Oficial “Gaceta del Gobierno".
+
+SEGUNDO.- El presente Código de Conducta entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Código de Conducta de los Servidores Públicos del Instituto de Seguridad Social del Estado de México y Municipios, publicado el 24 de septiembre de 2018, en el Periódico Oficial “Gaceta del Gobierno”, así como las disposiciones de igual o menor jerarquía que contravengan lo estipulado en el presente Código.
