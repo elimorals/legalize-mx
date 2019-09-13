@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-servicio-de-television-y-audio-restringidos-1565
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-02-29"
-last_updated: "2000-02-29"
+last_updated: "2019-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15659&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "2000-02-24"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES ABROGA DIVERSOS REGLAMENTOS EXPEDIDOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y EMITE DISPOSICIONES APLICABLES AL SERVICIO DE TELEFONÍA PÚBLICA Y LAS RELATIVAS AL PROCEDIMIENTO DE HOMOLOGACIÓN DE EQUIPOS, PUBLICADO EN EL D.O.F. DE 13 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-REGLAMENTO DEL SERVICIO DE TELEVISION Y AUDIO RESTRINGIDOS
+REGLAMENTO DEL SERVICIO DE TELEVISIÓN Y AUDIO RESTRINGIDOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 29 de febrero de 2000.
 
@@ -506,3 +506,17 @@ CUARTO. Los concesionarios y permisionarios deberán observar lo dispuesto por e
 Para los concesionarios que cuenten con menos de 4 mil suscriptores a la fecha de entrada en vigor del presente Reglamento, será obligatorio lo dispuesto por el artículo 26 a partir del 1o. de enero de 2002.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinticuatro días del mes de febrero de dos mil.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Diódoro Carrasco Altamirano.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Carlos Ruiz Sacristán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL EL PLENO DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES ABROGA DIVERSOS REGLAMENTOS EXPEDIDOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DE LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y EMITE DISPOSICIONES APLICABLES AL SERVICIO DE TELEFONÍA PÚBLICA Y LAS RELATIVAS AL PROCEDIMIENTO DE HOMOLOGACIÓN DE EQUIPOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Telecomunicaciones, publicado en el Diario Oficial de la Federación el 29 de octubre de 1990.
+
+TERCERO. Se abroga el Reglamento del Servicio de Telefonía Pública, publicado en el Diario Oficial de la Federación el 16 de diciembre de 1996.
+
+CUARTO. Se abroga el Reglamento del Servicio de Televisión y Audio Restringidos, publicado en el Diario Oficial de la Federación el 29 de febrero de 2000.
