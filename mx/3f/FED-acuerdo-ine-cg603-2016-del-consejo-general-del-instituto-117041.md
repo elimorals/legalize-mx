@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg603-2016-del-consejo-general-del-instituto-117041
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-11-01"
-last_updated: "2016-11-01"
+last_updated: "2019-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117041&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-08-26"
 ---
 # ACUERDO INE/CG603/2016 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA ACTUALIZACION DEL MARCO GEOGRAFICO ELECTORAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO INE/CG393/2019 DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 13 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBAN LOS “LINEAMIENTOS PARA LA ACTUALIZACIÓN DEL MARCO GEOGRÁFICO ELECTORAL”
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 1 de noviembre de 2016.
 
@@ -56,3 +58,19 @@ El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbric
 Los anexos pueden ser consultados en la siguiente dirección electrónica:
 
 http://www.ine.mx/archivos3/portal/historico/recursos/IFE-v2/DS/DS-CG/DS-SesionesCG/CG-acuerdos/2016/08_Agosto/CGor201608-26/CGor201608-26-ap-6-x1.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE SEPTIEMBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA ACTUALIZACIÓN DEL MARCO GEOGRÁFICO ELECTORAL Y SE ABROGAN LOS LINEAMIENTOS APROBADOS MEDIANTE ACUERDO INE/CG603/2016”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban los “Lineamientos para la Actualización del Marco Geográfico Electoral”, de conformidad con el Anexo que acompaña al presente Acuerdo y que forma parte integral del mismo.
+
+SEGUNDO. Se abrogan los “Lineamientos para la Actualización del Marco Geográfico Electoral”, aprobados mediante Acuerdo INE/CG603/2016.
+
+TERCERO. Se instruye a la Dirección Ejecutiva del Registro Federal de Electores haga del conocimiento de los integrantes de la Comisión Nacional de Vigilancia lo aprobado por este órgano superior de dirección.
+
+CUARTO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación por parte de este Consejo General.
+
+QUINTO. Publíquese el presente Acuerdo en la Gaceta Electoral y en el Diario Oficial de la Federación.
