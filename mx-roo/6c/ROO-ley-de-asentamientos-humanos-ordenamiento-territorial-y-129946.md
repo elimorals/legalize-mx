@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-ordenamiento-territorial-y-129946"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-16"
-last_updated: "2018-08-16"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quinta Roo, el jueves 16 de agosto de 2018.
 
@@ -3143,6 +3143,10 @@ UNDÉCIMO. Para el caso de inmuebles construidos con anterioridad a la vigencia 
 
 DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+DÉCIMO TERCERO. En tanto no sea debidamente publicado el Estatuto Orgánico que determine la organización y estructura del Instituto Quintanarroense de Vivienda, las funciones previstas por el artículo 16 de la Ley de Vivienda del Estado de Quintana Roo, serán ejercidas por el Titular de la Secretaría de Desarrollo Territorial Urbano Sustentable o por la persona que para tal efecto designe.
+
 Salón de sesiones del Honorable Poder Legislativo, en la ciudad de Chetumal, capital del estado de Quintana Roo, a los dieciséis días del mes de mayo del año dos mil dieciocho.
 
 DIPUTADO PRESIDENTE:
@@ -3170,3 +3174,13 @@ EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 RUBRICA
 
 LIC. FRANCISCO XAVIER LÓPEZ MENA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 355 POR EL QUE SE ADICIONA UN ARTÍCULO DÉCIMO TERCERO TRANSITORIO, AL DECRETO NÚMERO 194 EXPEDIDO POR LA H. XV LEGISLATURA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan a lo dispuesto en el presente Decreto.
