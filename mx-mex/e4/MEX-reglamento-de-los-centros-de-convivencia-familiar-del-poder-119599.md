@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-los-centros-de-convivencia-familiar-del-poder-119
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-01-18"
-last_updated: "2017-01-18"
+last_updated: "2019-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MEX"
 
 REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2019.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el miércoles 18 de enero de 2017.
 
@@ -77,6 +77,50 @@ Menor o descendiente: Niña, Niño o Adolescente a quien le asiste el derecho de
 Persona autorizada: A las personas autorizadas por parte de la autoridad judicial de acudir a la convivencia asistida.
 
 Tercero Emergente: Persona autorizada por parte de la autoridad judicial, para que en sustitución del ascendiente custodio acuda a la entrega y recepción del menor en el Centro.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Campañas de acompañamiento: Conjunto de actividades que se realizarán en los Centros, con la finalidad de compartir a los usuarios temas en beneficio de ellos mismos y su núcleo familiar. Buscando acompañarlos en el proceso judicial que viven de una forma propositiva y empática, en pro del bienestar de los niños.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Centro Estatal: Al Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Conciliación: Al proceso en el que uno o más conciliadores asisten a los interesados facilitándoles el diálogo y proponiendo soluciones legales, equitativas y justas al conflicto.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Convivencia supervisada: Aquella en que el menor de edad deberá convivir con el ascendiente no custodio o con quien le asista el derecho dentro de las instalaciones del Centro.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Convivencia de tránsito: Aquella en que se requiere la intervención del Centro, únicamente para la entrega-recepción del menor al inicio y fin de la convivencia.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Constancias administrativas: Documentos que contienen el inicio, suspensión o conclusión de la convivencia y que sólo podrán ser expedidas mediante orden judicial.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Mediación: Proceso en el que uno o más mediadores intervienen facilitando a los interesados la comunicación y el acercamiento, con la finalidad de que ellos construyan un convenio que dé solución plena, legal y satisfactoria al conflicto, buscando en todo momento el bienestar de los menores.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Período vacacional: Tiempo que determina el órgano jurisdiccional para que los ascendientes custodios, no custodios o convivientes convivan con los menores durante las vacaciones escolares.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Programa de integración y vinculación familiar: Procesos de fortalecimiento de lazos paterno filiales que se brindan por el Centro a través de especialistas, a los ascendientes, y a los descendientes que viven el proceso de separación, a través de la utilización de técnicas psicoterapéuticas que pretenden favorecer la vinculación e integración familiar, en pro de una convivencia respetuosa, tolerante, empática y libre, para lograr con ello una armonía en el núcleo familiar que favorezca el interés superior de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Restauración familiar: Procesos realizados por el Centro Estatal, dirigidos a involucrar a todos los que tengan un interés en el daño ocasionado en un núcleo familiar y que se encuentren cumpliendo una convivencia decretada por el órgano jurisdiccional, para identificar y atender colectivamente los daños, necesidades y obligaciones derivados de su situación familiar, con el propósito de sanar y reparar los daños de la mejor manera posible, anteponiendo, en todo momento, el interés superior del niño.
+
+> <small>(ADICIONADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Sesión de inducción: Reunión que se realiza entre el personal del Centro y los ascendientes custodios, no custodios o convivientes, en la que se les informará sobre la existencia del reglamento, su interpretación, la importancia de su participación en los talleres psicoeducativos y campañas de acompañamiento, el correcto uso de las instalaciones y los principales lineamientos de conducta a observar al interior del Centro.
 
 ###### Artículo 3.
 
@@ -192,7 +236,13 @@ XIX. Representar válidamente al Centro ante otras autoridades.
 
 XX. Llevar (sic) control de las visitas de los titulares de los órganos jurisdiccionales y remitirlos mensualmente a la Secretaria General de Acuerdos.
 
-XXI. Las demás que determine la Comisión y el Consejo.
+> <small>(REFORMADA, [N. DE E. ADICIONADA], G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XXI. Queda prohibido recibir cualquier tipo de petición o solicitud escrita de los usuarios o terceros en relación con la convivencia en desarrollo, la información que se requiera tendrá que hacerse por conducto y autorización del órgano jurisdiccional que la decretó.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XXII. Las demás que determine el Consejo y la Comisión.
 
 ###### Artículo 11.
 
@@ -216,7 +266,13 @@ VIII. Elaborar el reporte de la convivencia, con resumen de las actividades llev
 
 IX. Sugerir acciones para el mejor desarrollo de la convivencia, y entrega o regreso de los menores, según haya la necesidad.
 
-X. Las demás que señale el Consejo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+X. Participar en las campañas de acompañamiento y sesiones de inducción, según se les instruya por el titular del Centro.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XI. Las demás que señale el Consejo.
 
 ###### Artículo 12.
 
@@ -252,9 +308,17 @@ El ascendiente custodio deberá presentarse puntualmente, y retirarse una vez in
 
 En caso de que el custodio registre asistencia y se niegue a apoyar al especialista a efecto de facilitar la entrega del menor para la convivencia y no deje al menor para efectuar la convivencia, no le será tomado en cuenta el registro, generándose una inasistencia, misma que será informada al Órgano Jurisdiccional.
 
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Registrada la asistencia y en caso de que el ascendiente custodio no realice labor alguna para apoyar al especialista a efecto de facilitar la entrega del menor para la convivencia y no deje al menor para efectuar la misma, será informado pormenorizadamente al órgano jurisdiccional vía telefónica, correo electrónico, mediante oficio o cualquier otro medio de comunicación efectivo a su alcance, para los efectos legales conducentes.
+
 ###### Artículo 17.
 
 Los ascendientes custodios y no custodios, tienen 10 minutos de tolerancia en sus horarios reglamentarios, si se presentan después de este tiempo, se asentará en el informe el retardo por escrito, con exhortación debida, sin embargo, si se encuentran presentes los interesados se deberá propiciar en todo momento la ejecución de la convivencia.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+En la primera convivencia y por única ocasión el custodio y el conviviente tendrán una tolerancia de treinta minutos.
 
 Al término de la convivencia, el ascendiente no custodio deberá permanecer en el Centro, hasta en tanto se presente a recoger al menor el ascendiente custodio o tercero emergente.
 
@@ -291,6 +355,10 @@ El Centro podrá implementar un sistema propio de identificación para los asist
 ###### Artículo 20.
 
 Estos talleres serán diseñados y ejecutados por profesionistas en psicología y áreas afines, a efecto de favorecer el proceso de separación que existe entre el ascendiente custodio, el conviviente y los menores. La Incorporación de los miembros a dichos talleres es obligatoria, será ordenada de forma judicial y se hará del conocimiento de las partes mediante el auto en el que se ordena la convivencia.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+En los talleres psicoeducativos también podrán participar por instrucción del Órgano Jurisdiccional, las personas que no tengan decretada una convivencia familiar dentro del Centro, las personas que participen en un Proceso de Mediación-Conciliación y los justiciables o usuarios del Centro que tengan interés en los temas.
 
 ###### Artículo 21.
 
@@ -352,9 +420,13 @@ VI. Hacer uso adecuado de las instalaciones, mobiliario y libros, siendo respons
 
 VII. Conducirse con respeto hacia los usuarios y personal del Centro.
 
-VIII. Informar al personal del Centro, el estado de salud del menor, en caso de que éste se encuentre bajo tratamiento médico, y proporcionar la receta y medicinas correspondientes para que oportunamente le sean suministrados por el personal del Centro.
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
 
-IX. Proporcionar al personal del Centro lo necesario para la alimentación e higiene del menor conforme a la edad de éste.
+VIII. Informar al personal del Centro y al conviviente, el estado de salud del menor, en caso de que éste se encuentre bajo tratamiento médico, de ser el caso, y proporcionar la receta y medicinas correspondientes para que oportunamente le sean suministradas por el conviviente.
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+IX. Presentarse al Centro con lo necesario para la alimentación e higiene del menor conforme a la edad de éste.
 
 X. El conviviente deberá procurar los cuidados y atenciones necesarias al menor, velando sobre todo por su integridad, además de involucrarse de manera efectiva en el desarrollo de la convivencia familiar.
 
@@ -378,7 +450,9 @@ VI. Los menores no podrán ingresar al Centro aparatos electrónicos, ya que es 
 
 VII. No (sic) permitirá el uso de los objetos que se introduzcan sin autorización, cuando se hayan evadido las medidas de seguridad.
 
-VIII. No está permitido tomar fotografías, y las propias deberán ser solamente en la cabina de fotografías instantáneas que se tienen en el Centro, con la debida prudencia, sabedores que no podrán utilizarse como medios de prueba en ningún procedimiento.
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+VIII. Queda prohibido tomar fotografías, y las propias deberán ser solamente en el área de fotografía con que cuente el Centro, con la debida prudencia, sabedores que no podrán utilizarse como medios de prueba en ningún procedimiento. Tampoco deberán hacer uso de ellas en redes sociales o algún otro o medio de comunicación.
 
 IX. Las demás que determine el Consejo.
 
@@ -392,13 +466,127 @@ Las evaluaciones psicológicas que ordene la autoridad judicial serán responsab
 
 Los Centros facilitarán sus instalaciones a efecto de que las evaluaciones psicológicas u otras específicas que ordene la autoridad judicial, se practiquen en el horario señalado en este ordenamiento.
 
-### CAPÍTULO VIII. RESPONSABILIDADES Y SANCIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+### CAPITULO VIII. DE LA SESIÓN DE INDUCCIÓN Y DE LAS CAMPAÑAS DE ACOMPAÑAMIENTO
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 30.
 
-El Centro no está facultado para proporcionar a terceros información vía telefónica o en forma personal sobre las personas que participan en las convivencias familiares; ni para reportar recados a los usuarios.
+El órgano jurisdiccional, a su prudente arbitrio, podrá ordenar, en el auto que decrete la convivencia, la obligación de la parte custodia y conviviente de asistir al Centro de Convivencia Familiar para participar en una sesión de inducción y en las campañas de acompañamiento.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 31.
+
+La sesión de inducción se realizará los martes de cada semana de las 10:00 a las 12:00 horas y de las 16:00 a las 18:00 horas.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 32.
+
+Durante el desarrollo de la sesión se tratarán los siguientes temas:
+
+I. Hacer del conocimiento de las partes el presente reglamento;
+
+II. La trascendencia de cumplir las fechas y horarios de convivencia; haciendo de su conocimiento los días inhábiles, por si alguno de ellos coincide con su fecha de convivencia;
+
+III. Revisión de la forma en que se desarrolla el proceso de convivencia y los requerimientos que se tienen que cumplir;
+
+IV. La importancia de procurar se desarrolle la convivencia del menor con la parte no custodia, priorizando las necesidades del niño, niña o adolescente, fomentando en todo momento un ambiente seguro para cumplir la convivencia y procurando proporcionar al menor un ambiente de respeto y cordialidad.
+
+V. Revisión de los lineamientos de conducta dentro del Centro y el adecuado uso de las instalaciones.
+
+VI. La participación proactiva y propositiva en los talleres psicoeducativos y las campañas de acompañamiento.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 33.
+
+Las Campañas de acompañamiento serán diseñadas y ejecutadas por los especialistas adscritos al Centro, a efecto de trabajar el contexto y la naturaleza del núcleo familiar, revalorando y concientizando a las personas involucradas en la convivencia. La participación de los miembros a dichas campañas será ordenada por el juez o por acuerdo de las partes.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 34.
+
+Las Campañas tendrán una duración de tres meses, tratarán temas relacionados con el desarrollo humano y la armonía social; las actividades que se desarrollen tienen como fin impactar positiva y proactivamente en los usuarios del Centro.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 35.
+
+En caso de que el especialista observe por parte del ascendientes (sic) custodio y/o el conviviente acciones tendentes a menoscabar el trabajo que se realiza en las campañas, se suspenderá su participación en las mismas, según sea el caso, y se hará del conocimiento de la autoridad judicial para que en su caso, aplique las medidas de apremio que correspondan.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+### CAPITULO IX. DE LOS MÉTODOS DE SOLUCIÓN DE CONFLICTOS
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 36.
+
+La mediación, conciliación y justicia restaurativa, son métodos de solución de conflictos, que promueven las relaciones humanas armónicas y la paz social.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 37.
+
+Los titulares y especialistas que observen en los procesos de convivencia que se encuentren realizándose dentro del Centro, familias que puedan iniciar el proceso de restauración familiar, mediación o conciliación, deberán hacer del conocimiento a los usuarios la existencia de los mencionados procesos, informándoles sobre la naturaleza, principios y fines, realizando la invitación correspondiente para que puedan iniciar el procedimiento respectivo ante el Centro Estatal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+### CAPITULO X. DEL PROGRAMA DE INTEGRACIÓN Y VINCULACIÓN FAMILIAR
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 38.
+
+Este programa será diseñado y ejecutados (sic) por profesionistas en psicología y áreas afines, a efecto de fortalecer los lazos filiales entre el ascendiente custodio, el conviviente y los menores a través de diversas actividades que fomenten la integración y vinculación familiar.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 39.
+
+La participación de los miembros a dicho programa será determinada por las o los especialistas del Centro de Convivencia Familiar, quien solicitará al Órgano Jurisdiccional la participación del núcleo familiar al programa, para ser ordenada de forma judicial y se hará del conocimiento de las partes su participación de forma obligatoria mediante auto.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 40.
+
+Los participantes del programa deberán sujetarse a los horarios señalados por el Centro.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 41.
+
+El Programa a los (sic) que asistirán el ascendiente custodio, el conviviente y los menores tendrá una duración mínima de seis sesiones y una duración máxima de ocho sesiones, atendiendo a las observaciones del especialista involucrado, así como de la evolución de la convivencia.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 42.
+
+En caso de que el especialista detecte por parte del ascendiente custodio y/o el conviviente acciones tendentes a menoscabar el trabajo que se realiza en el programa (sic) los talleres, se concluirá el mismo y se hará del conocimiento de la autoridad judicial para lo que en su caso, aplique las medidas de apremio que correspondan, así como para que se canalice al o los individuos a psicoterapia individual en Instituciones Públicas.
+
+> <small>(ADICIONADO, G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 43.
+
+Al concluir el programa, el especialista informará al Órgano Jurisdiccional el resultado obtenido y las sugerencias que considere pertinentes en relación con la convivencia o con los participantes
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO [N. DE E. ANTES CAPÍTULO VIII], G.G. 13 DE SEPTIEMBRE DE 2019)</small>
+
+### CAPÍTULO XI. DE LAS RESPONSABILIDADES Y SANCIONES
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 30], G.G. 13 DE SEPTIEMBRE DE 2019)
+
+###### Artículo 44.
+
+El Centro no está facultado para proporcionar a terceros información vía telefónica o en forma personal sobre las personas que participan en las convivencias familiares; ni para reportar recados a los usuarios.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 31], G.G. 13 DE SEPTIEMBRE DE 2019)
+
+###### Artículo 45.
 
 Los servidores públicos que laboren en los Centros, quedarán sujetos a la responsabilidad administrativa que señala la Ley Orgánica del Poder Judicial del Estado de México y a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, así como cualquier otro ordenamiento jurídico aplicable.
 
@@ -423,3 +611,13 @@ SECRETARIA GENERAL DE ACUERDOS
 M. EN C. P. FABIOLA CATALINA APARICIO PERALES
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE MÉXICO, DE VEINTINUEVE DE AGOSTO DE DOS MIL DIECINUEVE, POR EL QUE SE REFORMA EL REGLAMENTO DE LOS CENTROS DE CONVIVENCIA FAMILIAR DEL PODER JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Por tratarse de un acuerdo de interés general, se determina su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado, Boletín Judicial y en el sitio oficial de internet del Poder Judicial del Estado de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado.
