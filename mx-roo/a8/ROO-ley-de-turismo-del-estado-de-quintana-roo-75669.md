@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-turismo-del-estado-de-quintana-roo-75669"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2019-04-22"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TURISMO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio de 2010.
 
@@ -183,9 +183,9 @@ XVIII. Secretaría Federal: La Secretaría de Turismo del Gobierno Federal;
 
 XIX. Trabajadores Turísticos: Aquella persona física que presta sus servicios en materia turística de manera subordinada y por el cual devenga un salario o percibe una remuneración económica;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-XX. Turistas: Las personas que viajan temporalmente fuera de su lugar de residencia habitual y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población;
+XX. Turistas: Las personas nacionales o extranjeras que viajan temporalmente fuera de su lugar de residencia habitual, transita (sic) o llega (sic) al territorio nacional y que utilice (sic) alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley de Migración;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -369,9 +369,17 @@ XIX. Brindar apoyo a la Secretaría Federal, para que ésta, ejerza sus facultad
 
 XX. Ejecutar las órdenes de verificación a que haya lugar, en términos de los acuerdos de coordinación que se suscriban con la Secretaría Federal;
 
-XXI.- Coadyuvar con las aseguradoras y/o agencias de viajes, cuando un turista que se encuentre en el Estado, recurra a una o varias de las coberturas que brinda el seguro de asistencia turística que hayan contratado; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-XXII. Las demás previstas en éste y otros ordenamientos.
+XXI. Coadyuvar con las aseguradoras y/o agencias de viajes, cuando un turista que se encuentre en el Estado, recurra a una o varias de las coberturas que brinda el seguro de asistencia turística que hayan (sic) contratado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XXII. Implementar, supervisar y mantener de manera permanente la seguridad pública, orden, tranquilidad y paz pública en las áreas desarrolladas o destinadas para la actividad turística y la prestación de servicios turísticos, incluyendo sitios históricos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XXIII. Las demás previstas en éste y otros ordenamientos.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DE LA SECRETARIA
 
@@ -399,7 +407,9 @@ VI. Coadyuvar con la Secretaría de Desarrollo Económico en las acciones tendie
 
 VII. Impulsar en coordinación con la Secretaría de Desarrollo Económico, ante las autoridades Federales, del Estado, y de los Municipios, competentes, la instrumentación de mecanismos y programas tendientes a facilitar los trámites y gestión de los inversionistas y demás integrantes del sector turístico, que permitan la expedita creación y apertura de negocios y empresas en los (sic) zonas turísticas del Estado;
 
-VIII. Analizar y coadyuvar con la Secretaría de Seguridad Pública, en los casos en que se determine que sea necesaria la protección de la integridad física de los turistas;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+VIII. Analizar y coadyuvar con la Secretaría de Seguridad Pública y los Municipios, en los casos en que se determine que sea necesaria la protección de la integridad física de los turistas;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
 
@@ -407,9 +417,11 @@ IX. Promover y fomentar con la Secretaría de Educación y Cultura del Estado la
 
 X. Colaborar con la Secretaría del Trabajo y Previsión Social, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-XI. Promover con la Secretaría de Educación y Cultura del Estado, el patrimonio histórico, artístico, arqueológico y cultural del Estado;
+XI. Promover conjuntamente con el Instituto de Cultura y las Artes del Estado, el patrimonio histórico, artístico, arqueológico y cultural del Estado, de acuerdo con el marco jurídico vigente.
+
+Para tal efecto, la Secretaría en coordinación con dicho Instituto y los organismos municipales en materia de turismo, diseñarán, instrumentarán y promoverán las rutas y programas destinados a la promoción turística de los lugares declarados patrimonio cultural del Estado, así como de nuestras manifestaciones culturales, artísticas, religiosas y gastronómicas;
 
 XII. Coadyuvar con otras dependencias y entidades de la Administración Pública del Estado, para impulsar a proyectos productivos y de inversión turística, que cumplan con las disposiciones legales y normativas aplicables;
 
@@ -1216,3 +1228,11 @@ P.O. 22 DE ABRIL DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 356 POR EL QUE SE REFORMAN LA FRACCIÓN XX DEL ARTÍCULO 4, LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 7, LAS FRACCIONES VIII Y XI DEL ARTÍCULO 9; Y SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 7, TODOS DE LA LEY DE TURISMO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
