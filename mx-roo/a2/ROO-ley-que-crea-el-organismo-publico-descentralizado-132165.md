@@ -4,7 +4,7 @@ identifier: "ROO-ley-que-crea-el-organismo-publico-descentralizado-132165"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-20"
-last_updated: "2018-12-20"
+last_updated: "2019-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 20 de diciembre de 2018.
 
@@ -91,7 +91,9 @@ El Secretariado Ejecutivo, tendrá su domicilio legal en la ciudad de Chetumal, 
 
 El Secretariado Ejecutivo tendrá como objeto coordinar, planear y ejecutar en el ámbito de su competencia, las acciones que se deriven de los programas y acuerdos del Sistema Nacional en el ámbito Estatal, así como la colaboración y participación ciudadana, para la realización de actividades correspondientes a las áreas prioritarias previstas en los Planes Nacional y Estatal de Desarrollo.
 
-Además de establecer y ejecutar los procesos de evaluación y certificación de control de confianza a los integrantes de las Instituciones de Seguridad Pública, y también las políticas públicas de prevención social de la violencia y la delincuencia, con participación ciudadana.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+Así como establecer y ejecutar las políticas públicas de prevención social de la violencia y la delincuencia, con participación ciudadana.
 
 ###### Artículo 6.
 
@@ -113,7 +115,7 @@ VII. Impulsar y dar seguimiento a la homologación de la Carrera Policial, la Pr
 
 VIII. Coordinar la realización de estudios especializados sobre la materia de Seguridad Pública y formular recomendaciones a las instancias de coordinación;
 
-IX. Proponer, establecer y ejecutar los procesos de evaluación y certificación de control de confianza a las Instituciones de Seguridad Pública en los términos de la Ley de Seguridad y de las demás disposiciones aplicables;
+IX. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2019)
 
 X. Preparar la evaluación del cumplimiento de las políticas, estrategias y acciones del Secretariado Ejecutivo en los términos de la normatividad aplicable;
 
@@ -125,13 +127,15 @@ XIII. Coadyuvar y proporcionar a la Auditoría Superior de la Federación y dem�
 
 XIV. Supervisar, en coordinación con las demás instancias competentes, la correcta aplicación de los recursos de los fondos por las dependencias ejecutoras y por los municipios;
 
-XV. Elaborar y someter a consideración del Consejo Estatal, opinión fundada y razonada por la que se recomiende la remoción de los titulares de las Instituciones de Seguridad Pública;
+XV. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2019)
 
 XVI. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema;
 
 XVII. Brindar asesoría a las Instituciones de Seguridad Publica para la integración de información, interconexión, acceso, uso, intercambio y establecimiento de medidas de seguridad para las bases de datos;
 
-XVIII. Formular propuestas para el Programa Rector de Profesionalización de los integrantes de las Instituciones de Seguridad Pública;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XVIII. Coordinar la integración de las propuestas para fortalecer el Programa Rector de Profesionalización de los integrantes de las Instituciones de Seguridad Pública para la consideración del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública para su aprobación por parte del Consejo;
 
 XIX. Dar seguimiento al cumplimiento de las obligaciones relacionadas con las bases de datos de las distintas Instituciones de Seguridad Pública al Centro Nacional de Información del Sistema Nacional de Seguridad Pública;
 
@@ -143,7 +147,9 @@ XXII. Gestionar ante diversas instancias nacionales e internacionales la coopera
 
 XXIII. Instalación, coordinación y seguimiento de los Consejos Municipales e Intermunicipales de Seguridad Pública en la Entidad;
 
-XXIV. Asesorar normativamente a los Municipios, así como analizar los expedientes técnicos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal y los demás que correspondan;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XXIV. Asesorar normativamente a los municipios sobre la aplicación de los recursos federales de fondos y subsidios que se otorgan para la seguridad pública;
 
 XXV. Presentar quejas o denuncias ante las autoridades competentes, respecto al manejo o aplicación indebidos de los recursos de los fondos por incumplimiento de la Ley General, la Ley de Seguridad, la Ley, los acuerdos generales, los convenios y demás disposiciones aplicables, y
 
@@ -199,7 +205,7 @@ III. El Centro Estatal de Prevención Social del Delito y Participación Ciudada
 
 IV. La Coordinación General de Información, Análisis y Prospectiva.
 
-V. El Centro Estatal de Evaluación y Control de Confianza.
+V. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2019)
 
 VI. La Coordinación de Planeación y Administración.
 
@@ -502,3 +508,27 @@ EN CUMPLIMIENTO DE LAS OBLIGACIONES QUE ME IMPONEN LOS ARTÍCULOS 91 FRACCIÓN I
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS DOCE DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECIOCHO.
 
 EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ, RUBRICA; EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO, LIC. FRANCISCO XAVIER LÓPEZ MENA, RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 354 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO; LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO Y LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las funciones y atribuciones del Centro Estatal de Evaluación y Control de Confianza, así como la substanciación, decisión de asuntos y procedimientos que actualmente se encuentran en trámite y que estén pendientes de resolución en dicho Centro Estatal, cualquiera que sea su estado, seguirán siendo atendidos y resueltos por el propio Centro, de conformidad con las disposiciones y procedimientos legales y administrativos aplicables, ahora con su naturaleza jurídico-administrativa como órgano desconcentrado.
+
+TERCERO. Se otorga un plazo de sesenta días hábiles, contados a partir de la fecha de publicación del presente Decreto, para que se expida el Reglamento Interior del Centro Estatal de Evaluación y Control de Confianza.
+
+CUARTO. El personal del Centro Estatal de Evaluación y Control de Confianza, en ninguna forma resultará afectado en su antigüedad, prestaciones, derechos y obligaciones laborales adquiridos en su relación laboral con la Administración Pública Estatal.
+
+QUINTO. En el caso de que existan adecuaciones a la estructura orgánica del Centro Estatal de Evaluación y Control de Confianza, las mismas se realizarán de acuerdo a la disponibilidad de recursos que prevea la Secretaría de Finanzas y Planeación.
+
+SEXTO. A la entrada en vigor del presente Decreto, y para el caso, de que no hayan sido transferidos los recursos humanos, materiales y financieros del Centro Estatal de Evaluación y Control de Confianza al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en términos del Decreto Legislativo Número 272 publicado el 20 de diciembre del 2018 en el Periódico Oficial del Estado de Quintana Roo, la Secretaría de Finanzas y Planeación, la Oficialía Mayor y la Secretaría de Gobierno, coordinarán sus acciones para la trasferencia directa de dichos recursos, de la Secretaría de Gobierno a la Secretaría de Seguridad Pública.
+
+SÉPTIMO. La Secretaría de Finanzas y Planeación, así como la Oficialía Mayor deberán realizar los ajustes necesarios para que el presupuesto, personal, recursos financieros, materiales, bienes muebles, así como archivos y expedientes, tanto en medio físico como en medio electrónico, sean modificados y/o reasignados administrativamente al órgano desconcentrado denominado Centro Estatal de Evaluación y Control de Confianza, correspondientes al presente ejercicio presupuestal y subsecuentes.
+
+OCTAVO. La Secretaría de Seguridad Pública deberá realizar las modificaciones correspondientes a su estructura orgánica, reglamento interior y demás instrumentos que requieran actualización, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del mismo.
+
+NOVENO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo ordenado en este Decreto.
