@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-secretaria-de-seguridad-publica-del-100406"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-04-07"
-last_updated: "2014-04-07"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 7 de abril de 2014.
 
@@ -147,7 +147,7 @@ III. Participar, conforme a los convenios respectivos, en el intercambio, trasla
 
 IV. Emitir las constancias de antecedentes no penales;
 
-V. Diseñar las políticas públicas para la aplicación de las medidas de seguridad a los imputables adultos que están sometidos a procedimiento especial, y (sic)
+V. Diseñar las políticas públicas para la aplicación de las medidas de seguridad a los imputables adultos que están sometidos a procedimiento especial, y
 
 VI. Administrar los Centros de Reinserción Social, los Centros de Ejecución de Penas Privativas de la Libertad y los Centros de Ejecución de Medidas para Adolescentes del Estado, dando cumplimiento a las resoluciones de los Jueces de Control y de Ejecución de Sentencias; así como, realizar los traslados de procesados y sentenciados que legalmente procedan;
 
@@ -248,6 +248,18 @@ VI. Academia Estatal de Seguridad Pública.
 a) Coordinación Académica, y
 
 b) Dirección Administrativa.
+
+> <small>(ADICIONADA [N. DE .E CON SUS INCISOS], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+VII. Centro Estatal de Evaluación y Control de Confianza;
+
+a) Dirección de Poligrafía;
+
+b) Dirección de Medicina y Toxicología;
+
+c) Dirección de Investigación Socioeconómica, y
+
+d) Dirección de Psicología.
 
 El Secretario contará con un despacho integrado por la secretaría particular, el área de asesores, gabinete de coordinación, órganos técnicos y demás unidades de apoyo contemplado dentro del presupuesto autorizado y que resulte necesario para el adecuado cumplimiento de sus facultades.
 
@@ -1015,6 +1027,92 @@ III. Proponer, implementar y ejecutar los programas de reinserción y reintegrac
 
 IV. Las demás que otras leyes y reglamentos establezcan.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+## TÍTULO SEXTO. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+### CAPÍTULO ÚNICO. DE LA ADMINISTRACIÓN DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 52.
+
+El Centro Estatal de Evaluación y Control de Confianza, se crea como un Órgano Desconcentrado de la Secretaría que goza de autonomía técnica y funcional, y se integrará por las Unidades Administrativas, el personal técnico, administrativo y de apoyo que se requiera para el cumplimiento de sus funciones, con domicilio en Chetumal, Quintana Roo, sin perjuicio de que puedan establecer oficinas para el logro de sus objetivos en otras localidades de la entidad, todo lo anterior, de conformidad con la suficiencia presupuestal autorizada.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 53.
+
+El Centro Estatal de Evaluación y Control de Confianza tiene como objeto realizar las evaluaciones de control de confianza, que, en los procesos de selección de aspirantes, evaluación para la permanencia, desarrollo y la promoción, con carácter obligatorio, establezcan las leyes aplicables, tanto para los aspirantes o integrantes de las instituciones policiales, de procuración de justicia, del sistema penitenciario y de las unidades encargadas de la seguridad pública a nivel estatal y municipal; así como para los encargados de su capacitación, formación y profesionalización durante el desarrollo del servicio de carrera, y para los prestadores del servicio de seguridad privada y todas aquellas personas que realicen funciones y servicios relacionados con la seguridad pública.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 54.
+
+El Centro Estatal de Evaluación y Control de Confianza para el cumplimiento de su objeto, además de las previstas en la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Pública, cuenta con las atribuciones siguientes:
+
+I. Establecer y aplicar el proceso de evaluación de control de confianza de los aspirantes e integrantes de las instituciones de seguridad pública, del personal encargado de la capacitación, formación y profesionalización de las referidas instituciones, así como de los auxiliares de la seguridad pública, conforme a la normativa expedida por el Centro Nacional de Certificación y Acreditación del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y demás aplicable en la materia;
+
+II. Aplicar evaluación por filtro, o bien, solo la fase toxicológica, cuando ello sea aplicado de acuerdo a la normativa correspondiente;
+
+III. Determinar las normas de carácter técnico que regirán el proceso de evaluación de control de confianza, de conformidad con los Criterios expedidos por el Centro Nacional de Certificación y Acreditación del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
+
+IV. Establecer un sistema de registro y control que permita preservar la confidencialidad y resguardo de expedientes, en términos de la normativa aplicable;
+
+V. Verificar el cumplimiento de los perfiles médico, ético y de personalidad de los aspirantes e integrantes de las instituciones de seguridad pública, el personal encargado de la capacitación, formación y profesionalización de las referidas instituciones y de los auxiliares de la seguridad pública en los procesos de evaluación de control de confianza;
+
+VI. Comprobar los niveles de escolaridad de los aspirantes e integrantes de las instituciones de seguridad pública, del personal encargado de la capacitación, formación y profesionalización de las referidas instituciones, así como de los auxiliares de la seguridad pública;
+
+VII. Determinar y aprobar el procedimiento de certificación de los aspirantes e integrantes de las instituciones de seguridad pública y procuración de justicia, así como del personal encargado de la capacitación, formación y profesionalización de las referidas instituciones, al igual que de los auxiliares de la seguridad pública, en términos de la normatividad emitida por el Centro Nacional de Certificación y Acreditación;
+
+VIII. Proponer los perfiles de grado de los integrantes de las instituciones de seguridad pública;
+
+IX. Proponer las bases de funcionamiento del Sistema de Evaluación, en términos de la normatividad emitida por el Centro Nacional de Certificación y Acreditación;
+
+X. Establecer las políticas de evaluación de los aspirantes e integrantes de las instituciones de seguridad pública, del personal encargado de la capacitación, formación y profesionalización de las referidas instituciones, así como de los auxiliares de la seguridad pública, de conformidad con la normativa aplicable y el principio de confidencialidad;
+
+XI. Informar a la instancia competente sobre los resultados de las evaluaciones que se realicen para el ingreso, promoción y permanencia, según corresponda, de los aspirantes e integrantes de las instituciones de seguridad pública, del personal encargado de la capacitación, formación y profesionalización de las referidas instituciones, así como de los auxiliares de la seguridad pública;
+
+XII. Solicitar a las áreas de adscripción correspondientes se efectúe el seguimiento individual de los integrantes de las instituciones de seguridad pública evaluados, en los que se identifiquen factores de riesgo que interfieran o pongan en riesgo el desempeño de sus funciones;
+
+XIII. Proporcionar a las instituciones de seguridad pública y a los auxiliares de la seguridad pública la asesoría que requieran sobre información de su competencia;
+
+XIV. Proporcionar a las autoridades competentes el resultado integral y cartas de autorización de los aspirantes e integrantes de las instituciones de seguridad pública correspondientes, así como a los auxiliares de la seguridad pública respecto de los cuales hayan sido evaluados y que se requieran en procesos administrativos o judiciales;
+
+XV. Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes a ingresar a las instituciones de seguridad pública;
+
+XVI. Proponer la celebración de convenios con empresas auxiliares de la seguridad pública, de conformidad con la normativa aplicable;
+
+XVII. Integrar el Sistema Nacional de Acreditación y Control de Confianza, en términos de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública, y
+
+XVIII. Las demás que le confieran otros ordenamientos jurídicos aplicables y las que resulten compatibles conforme a su objeto.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 55.
+
+Para el desarrollo de su objeto y sus funciones, el Centro Estatal de Evaluación y Control de Confianza podrá establecer los Comités o comisiones de asesoría, coordinación y planeación de las acciones en materia de evaluación de control de confianza que resulten necesarios, en términos de la normativa aplicable, cuyo procedimiento y mecanismo para su integración y funcionamiento se establecerán en su Reglamento Interno.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 56.
+
+El Centro Estatal de Evaluación y Control de Confianza contará con un Director General, quien será nombrado y removido libremente por el Gobernador del Estado a propuesta del Secretario, y deberá reunir los siguientes requisitos:
+
+I. Ser ciudadano (a) mexicano (a);
+
+II. Estar en pleno ejercicio de sus derechos políticos y civiles;
+
+III. Ser de notoria buena conducta, sin haber estado sujeto a proceso penal alguno por delito doloso, ni haber sido sancionado en virtud de responsabilidad administrativa;
+
+IV. Aprobar la evaluación de control de confianza correspondiente;
+
+V. Tener conocimientos y experiencia en materia administrativa, y
+
+VI. Tener 30 años de edad cumplidos a la fecha de su designación.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
@@ -1042,3 +1140,27 @@ LIC. ROBERTO BORGE ANGULO.
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 M. EN A. JOSÉ GABRIEL CONCEPCIÓN MENDICUTI LORÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 354, POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO, LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO Y LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las funciones y atribuciones del Centro Estatal de Evaluación y Control de Confianza, así como la substanciación, decisión de asuntos y procedimientos que actualmente se encuentran en trámite y que estén pendientes de resolución en dicho Centro Estatal, cualquiera que sea su estado, seguirán siendo atendidos y resueltos por el propio Centro, de conformidad con las disposiciones y procedimientos legales y administrativos aplicables, ahora con su naturaleza jurídico-administrativa como órgano desconcentrado.
+
+TERCERO. Se otorga un plazo de sesenta días hábiles, contados a partir de la fecha de publicación del presente Decreto, para que se expida el Reglamento Interior del Centro Estatal de Evaluación y Control de Confianza.
+
+CUARTO. El personal del Centro Estatal de Evaluación y Control de Confianza, en ninguna forma resultará afectado en su antigüedad, prestaciones, derechos y obligaciones laborales adquiridos en su relación laboral con la Administración Pública Estatal.
+
+QUINTO. En el caso de que existan adecuaciones a la estructura orgánica del Centro Estatal de Evaluación y Control de Confianza, las mismas se realizarán de acuerdo a la disponibilidad de recursos que prevea la Secretaría de Finanzas y Planeación.
+
+SEXTO. A la entrada en vigor del presente Decreto, y para el caso, de que no hayan sido transferidos los recursos humanos, materiales y financieros del Centro Estatal de Evaluación y Control de Confianza al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en términos del Decreto Legislativo Número 272 publicado el 20 de diciembre del 2018 en el Periódico Oficial del Estado de Quintana Roo, la Secretaría de Finanzas y Planeación, la Oficialía Mayor y la Secretaría de Gobierno, coordinarán sus acciones para la trasferencia directa de dichos recursos, de la Secretaría de Gobierno a la Secretaría de Seguridad Pública.
+
+SÉPTIMO. La Secretaría de Finanzas y Planeación, así como la Oficialía Mayor deberán realizar los ajustes necesarios para que el presupuesto, personal, recursos financieros, materiales, bienes muebles, así como archivos y expedientes, tanto en medio físico como en medio electrónico, sean modificados y/o reasignados administrativamente al órgano desconcentrado denominado Centro Estatal de Evaluación y Control de Confianza, correspondientes al presente ejercicio presupuestal y subsecuentes.
+
+OCTAVO. La Secretaría de Seguridad Pública deberá realizar las modificaciones correspondientes a su estructura orgánica, reglamento interior y demás instrumentos que requieran actualización, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del mismo.
+
+NOVENO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo ordenado en este Decreto.
