@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-publica-del-estado-de-quintana-roo-98705"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2018-12-20"
+last_updated: "2019-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -2055,11 +2055,11 @@ Los planes de estudio para la Profesionalización se integrarán por el conjunto
 
 ### CAPÍTULO ÚNICO. DEL CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 136.
 
-El Centro Estatal de Evaluación y Control de Confianza, se encuentra adscrito al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, y es el encargado de dirigir, coordinar, operar y calificar los procesos de evaluación de los integrantes de las Instituciones de Seguridad Pública y de Procuración de Justicia de Quintana Roo, con el objeto de obtener la aprobación y certificación para comprobar el cumplimiento de los perfiles físicos, médicos, éticos y de personalidad de los mismos.
+El Centro Estatal de Evaluación y Control de Confianza, es un órgano desconcentrado de la Secretaría de Seguridad Pública, encargado de dirigir, coordinar, operar y calificar los procesos de evaluación de los integrantes de las Instituciones de seguridad pública y de procuración de justicia de Quintana Roo, con el objeto de obtener la aprobación y certificación para comprobar el cumplimiento de los perfiles físicos, médicos, éticos y de personalidad de los mismos.
 
 ###### Artículo 137.
 
@@ -3866,3 +3866,25 @@ SÉPTIMO.- El Secretario Ejecutivo, deberá someter a aprobación de la Junta de
 OCTAVO.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento de la presente Ley, en plena observancia a las disposiciones aplicables.
 
 NOVENO.- El Ejecutivo del Estado contará con un plazo de 60 días hábiles posteriores a la entrada en vigor del presente decreto, para realizar las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Gobierno y demás disposiciones reglamentarias, en los términos de la presente Ley.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 354 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO; LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO Y LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las funciones y atribuciones del Centro Estatal de Evaluación y Control de Confianza, así como la substanciación, decisión de asuntos y procedimientos que actualmente se encuentran en trámite y que estén pendientes de resolución en dicho Centro Estatal, cualquiera que sea su estado, seguirán siendo atendidos y resueltos por el propio Centro, de conformidad con las disposiciones y procedimientos legales y administrativos aplicables, ahora con su naturaleza jurídico-administrativa como órgano desconcentrado.
+
+TERCERO. Se otorga un plazo de sesenta días hábiles, contados a partir de la fecha de publicación del presente Decreto, para que se expida el Reglamento Interior del Centro Estatal de Evaluación y Control de Confianza.
+
+CUARTO. El personal del Centro Estatal de Evaluación y Control de Confianza, en ninguna forma resultará afectado en su antigüedad, prestaciones, derechos y obligaciones laborales adquiridos en su relación laboral con la Administración Pública Estatal.
+
+QUINTO. En el caso de que existan adecuaciones a la estructura orgánica del Centro Estatal de Evaluación y Control de Confianza, las mismas se realizarán de acuerdo a la disponibilidad de recursos que prevea la Secretaría de Finanzas y Planeación.
+
+SEXTO. A la entrada en vigor del presente Decreto, y para el caso, de que no hayan sido transferidos los recursos humanos, materiales y financieros del Centro Estatal de Evaluación y Control de Confianza al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en términos del Decreto Legislativo Número 272 publicado el 20 de diciembre del 2018 en el Periódico Oficial del Estado de Quintana Roo, la Secretaría de Finanzas y Planeación, la Oficialía Mayor y la Secretaría de Gobierno, coordinarán sus acciones para la trasferencia directa de dichos recursos, de la Secretaría de Gobierno a la Secretaría de Seguridad Pública.
+
+SÉPTIMO. La Secretaría de Finanzas y Planeación, así como la Oficialía Mayor deberán realizar los ajustes necesarios para que el presupuesto, personal, recursos financieros, materiales, bienes muebles, así como archivos y expedientes, tanto en medio físico como en medio electrónico, sean modificados y/o reasignados administrativamente al órgano desconcentrado denominado Centro Estatal de Evaluación y Control de Confianza, correspondientes al presente ejercicio presupuestal y subsecuentes.
+
+OCTAVO. La Secretaría de Seguridad Pública deberá realizar las modificaciones correspondientes a su estructura orgánica, reglamento interior y demás instrumentos que requieran actualización, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del mismo.
+
+NOVENO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo ordenado en este Decreto.
