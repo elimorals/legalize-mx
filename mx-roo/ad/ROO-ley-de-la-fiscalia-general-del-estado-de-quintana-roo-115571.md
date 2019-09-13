@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-la-fiscalia-general-del-estado-de-quintana-roo-115571"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-05"
-last_updated: "2018-10-17"
+last_updated: "2019-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE LA FISCALIA GENERAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 13 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 5 de julio de 2016.
 
@@ -2662,3 +2664,41 @@ Tercero. La Secretaría de Finanzas y Planeación, realizará las acciones neces
 Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y las entidades de la Administración Pública, y organismos públicos autónomos, se cubrirán con cargo a sus presupuestos del presente ejercicio fiscal y los subsecuentes.
 
 Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 357, POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de la Fiscalía General del Estado de Quintana Roo, publicada el 05 de julio de 2016, y se derogan todas las disposiciones que se opongan al presente Decreto, salvo lo dispuesto en los siguientes artículos.
+
+TERCERO. Las disposiciones reglamentarias de la presente Ley, serán expedidas por el titular de la Fiscalía General, y serán publicadas en el Periódico Oficial del Estado de Quintana Roo. La Fiscalía General deberá emitir su Reglamento Interior y normativa interna, en un plazo de noventa días naturales, contados a partir del inicio de vigencia de la presente Ley.
+
+CUARTO. Para efecto de dar cumplimiento a lo previsto en los párrafos cuarto y quinto del artículo 22 de la presente ley, por única ocasión el titular de la Fiscalía Especializada en Combate a la Corrupción, remitirá su proyecto de presupuesto de egresos al Fiscal General dentro del plazo de diez días naturales contados a partir de la entrada en vigor de la presente ley, a fin de que sea incluido en el Anteproyecto de Presupuesto de Egresos de la Fiscalía General del Estado del ejercicio fiscal 2020.
+
+QUINTO. Las disposiciones previstas en el párrafo séptimo del artículo 22 de la presente ley, entrarán en vigor el 1° de enero de 2020.
+
+SEXTO. Dentro del plazo de treinta días naturales contados a partir de la entrada en vigor de la presente ley, la Fiscalía Especializada en Combate a la Corrupción deberá presentar al Fiscal General el proyecto de Reglamento Interior de dicha Fiscalía.
+
+Cumplido el plazo señalado en el párrafo anterior, dentro de los treinta días naturales siguientes, el Fiscal General del Estado deberá expedir y enviar a publicar en el Periódico Oficial del Estado de Quintana Roo el Reglamento Interno de la Fiscalía Especializada en Combate a la Corrupción.
+
+SÉPTIMO. La Fiscalía General del Estado, continuará aplicando las disposiciones reglamentarias y administrativas que no se opongan a la presente Ley, hasta en tanto el Fiscal General expida y mande publicar las correspondientes, y éstas entren en vigor en su ámbito de competencia. El Reglamento Interior de la presente Ley Orgánica, deberá ser expedido en un plazo no mayor a 90 días naturales contados a partir del día siguiente de su publicación.
+
+OCTAVO. Las carpetas de investigación que se encuentren en trámite a la entrada en vigor del presente Decreto serán resueltas en las unidades a las que están adscritos, conforme a las normas vigentes al momento de su inicio. Lo anterior, sin perjuicio de que se adscriban a nuevas unidades, en tanto se avanza en el cambio orgánico de la Fiscalía General del Estado.
+
+NOVENO. Los procedimientos jurisdiccionales, administrativos y de responsabilidad que estuviesen en trámite a la entrada en vigor de esta Ley, y (sic) se concluirán de conformidad a la normatividad vigente al inicio del procedimiento de que se trate, a través de los órganos de la Fiscalía General del Estado que esta Ley y las disposiciones reglamentarias señalen.
+
+DÉCIMO. Se faculta al Fiscal General para resolver las cuestiones que puedan suscitarse con motivo de la aplicación de esta Ley, en tanto se expidan las disposiciones reglamentarias correspondientes.
+
+DÉCIMO PRIMERO. La Fiscalía General del Estado, determinará las áreas o unidades administrativas, bienes y el número de personal requerido para el cumplimiento de la operación de las funciones a su cargo.
+
+DÉCIMO SEGUNDO. El Fiscal General del Estado, expedirá los nombramientos del personal a su cargo, así como la normatividad necesaria para el cumplimiento de las funciones en la Fiscalía General del Estado.
+
+DÉCIMO TERCERO. Los fondos públicos asignados o pertenecientes a la Fiscalía General del Estado, se regirán por las leyes en materia de manejo de recursos públicos y administración financiera vigentes. El Fiscal General del Estado y demás personas servidoras públicas que administren y/o ejecuten dichos fondos, adquieren el carácter de ejecutor responsable de los mismos, a partir de que los reciban.
+
+DÉCIMO CUARTO. Las facultades atribuidas al Procurador General de Justicia en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán conferidas al Fiscal General, siempre que sean compatibles con el carácter del órgano constitucional autónomo de la Fiscalía General del Estado y sus atribuciones contenidas en el presente Decreto.
+
+La mención de la Procuraduría General de Justicia del Estado o del Procurador General de Justicia, en leyes, reglamentos y demás disposiciones jurídicas, se entenderán referidas a la Fiscalía General del Estado o al Fiscal General, respectivamente en los términos precisados en el párrafo anterior.
+
+DÉCIMO QUINTO. El patrimonio administrado por la Procuraduría General de Justicia del Estado, integrado por bienes muebles, inmuebles, derechos, licencias, títulos, armas, cartuchos, chalecos, equipo de seguridad, tecnología, sistemas informáticos, dinero en efectivo o en documentos, órdenes de pago, valores, documentos, pólizas, obligaciones, contratos, convenios, acuerdos y cualquier otro que le éste asignado, de uso propio o de terceros, pasaran a formar parte del patrimonio de la Fiscalía General del Estado, quien podrá ejecutar las acciones de cualquier naturaleza necesarias para su administración, conservación y defensa, por lo que se le deberá transmitir su dominio.
