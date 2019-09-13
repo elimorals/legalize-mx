@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-propiedad-en-condominio-de-inmuebles-del-estado-de-77618
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-30"
-last_updated: "2018-08-16"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de noviembre de 2010.
 
@@ -269,7 +269,7 @@ Ambos harán oportunamente las notificaciones correspondientes al Administrador 
 
 En todo contrato de arrendamiento, comodato o cualquier otro instrumento jurídico, sin importar su denominación, mediante el cual se otorgue a un tercero el uso de una Unidad de Propiedad Exclusiva, se deberá incluir la obligación a cargo de éste de cumplir y respetar las disposiciones del Reglamento del Condominio, debiéndose de anexar una copia del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 20.
 
@@ -345,7 +345,7 @@ En los condominios de construcción vertical, las obras que requieran los techos
 
 ### CAPÍTULO II. De los Bienes Considerados de Propiedad Común
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2011)</small>
 
 ###### ARTÍCULO 23.
 
@@ -887,7 +887,7 @@ El procedimiento alternativo se sustanciará de conformidad a lo previsto en el 
 
 (DEROGADO, P.O. 22 DE MARZO DE 2011)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE MARZO DE 2011)</small>
 
 ## TÍTULO DÉCIMO. DE LAS SANCIONES
 
@@ -988,3 +988,15 @@ DÉCIMO. Durante el Ejercicio Fiscal de 2018, los derechos establecidos en la Le
 UNDÉCIMO. Para el caso de inmuebles construidos con anterioridad a la vigencia de este Decreto, el régimen de propiedad en condominio podrá constituirse cumpliendo con lo establecido en el artículo 4º de la Ley de Propiedad en Condominio de Inmuebles del Estado y sus disposiciones reglamentarias aplicables.
 
 DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+DÉCIMO TERCERO. En tanto no sea debidamente publicado el Estatuto Orgánico que determine la organización y estructura del Instituto Quintanarroense de Vivienda, las funciones previstas por el artículo 16 de la Ley de Vivienda del Estado de Quintana Roo, serán ejercidas por el Titular de la Secretaría de Desarrollo Territorial Urbano Sustentable o por la persona que para tal efecto designe.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 355, POR EL QUE SE ADICIONA UN ARTICULO DÉCIMO TERCERO TRANSITORIO, AL DECRETO NÚMERO 194 EXPEDIDO POR LA H. XV LEGISLATURA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan a lo dispuesto en el presente Decreto.
