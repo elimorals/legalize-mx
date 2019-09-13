@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-del-estado-de-quintana-roo-12991"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-15"
-last_updated: "2018-08-16"
+last_updated: "2019-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018 (ABROGADA).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial el 15 de junio de 1998.
 
@@ -183,7 +183,7 @@ XIII.- El ordenado aprovechamiento de la propiedad inmobiliaria en los centros d
 
 XIV.- La regulación del mercado de los terrenos y de la vivienda de interés social y popular;
 
-XV.- La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano, y (sic)
+XV.- La coordinación y concertación de la inversión pública y privada con la planeación del desarrollo regional y urbano, y
 
 XVI.- La participación social en la (sic) ordenamiento territorial de los asentamientos humanos y el desarrollo urbano sustentable de los centros de población.
 
@@ -1724,3 +1724,15 @@ DÉCIMO. Durante el Ejercicio Fiscal de 2018, los derechos establecidos en la Le
 UNDÉCIMO. Para el caso de inmuebles construidos con anterioridad a la vigencia de este Decreto, el régimen de propiedad en condominio podrá constituirse cumpliendo con lo establecido en el artículo 4º de la Ley de Propiedad en Condominio de Inmuebles del Estado y sus disposiciones reglamentarias aplicables.
 
 DUODÉCIMO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+DÉCIMO TERCERO. En tanto no sea debidamente publicado el Estatuto Orgánico que determine la organización y estructura del Instituto Quintanarroense de Vivienda, las funciones previstas por el artículo 16 de la Ley de Vivienda del Estado de Quintana Roo, serán ejercidas por el Titular de la Secretaría de Desarrollo Territorial Urbano Sustentable o por la persona que para tal efecto designe.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 355 POR EL QUE SE ADICIONA UN ARTÍCULO DÉCIMO TERCERO TRANSITORIO, AL DECRETO NÚMERO 194 EXPEDIDO POR LA H. XV LEGISLATURA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan a lo dispuesto en el presente Decreto.
