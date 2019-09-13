@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2018-12-20"
+last_updated: "2019-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -559,7 +559,9 @@ XVI. Recaudar los impuestos, derechos, productos y aprovechamientos que correspo
 
 XVII. Vigilar el exacto cumplimiento de las leyes y disposiciones fiscales; determinar créditos fiscales e imponer las sanciones que correspondan en caso de infracciones a las disposiciones tributarias;
 
-XVIII. Dentro del ámbito de su competencia, practicar visitas domiciliarias, auditorias, verificaciones, inspecciones, revisión de declaraciones y dictámenes, y los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de las contribuciones previstas en las leyes fiscales del Estado de Quintana Roo y de las contribuciones federales coordinadas, en términos de los acuerdos del Ejecutivo Federal;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XVIII. Dentro del ámbito de su competencia, practicar visitas domiciliarias, auditorias, revisiones electrónicas, verificaciones, inspecciones, revisión de declaraciones y dictámenes, y los demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones fiscales de los contribuyentes, responsables solidarios y demás obligados en materia de las contribuciones previstas en las leyes fiscales del Estado de Quintana Roo y de las contribuciones federales coordinadas, en términos de los acuerdos del Ejecutivo Federal;
 
 XIX. Establecer los estímulos y facilidades fiscales que promuevan el desarrollo social y económico del Estado, en coordinación con las dependencias y entidades relacionadas con los sectores de producción y desarrollo social del Estado, en el marco de la legislación y los planes y programas vinculados con la materia;
 
@@ -1845,13 +1847,17 @@ XXVII. Integrar y actualizar en forma permanente las Bases de Datos del Sistema 
 
 XXVIII. Implementar, administrar, supervisar, operar y dar mantenimiento a la infraestructura tecnológica de la red de comunicaciones en el Estado, que garantice la cobertura, disponibilidad y operación de la Red Nacional de Telecomunicaciones;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-XXIX. Organizar, coordinar, dirigir y supervisar a la Unidad de Servicios Especiales de vigilancia, y
+XXIX. Organizar, coordinar, dirigir y supervisar a la Unidad de Servicios Especiales de Vigilancia;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
-XXX. Las demás que le encomienden expresamente las leyes y reglamentos.
+XXX. Organizar y administrar al Centro Estatal de Evaluación y Control de Confianza, bajo la normativa correspondiente que permita el desarrollo de una función desconcentrada en este rubro, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+
+XXXI. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ## TÍTULO TERCERO. De la Administración Pública Paraestatal
 
@@ -2162,3 +2168,33 @@ SÉPTIMO. El Secretario Ejecutivo, deberá someter a aprobación de la Junta de 
 OCTAVO. Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento de la presente Ley, en plena observancia a las disposiciones aplicables.
 
 NOVENO. El Ejecutivo del Estado contará con un plazo de 60 días hábiles posteriores a la entrada en vigor del presente decreto, para realizar las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Gobierno y demás disposiciones reglamentarias, en los términos de la presente Ley.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO NÚMERO 353, POR LE (SIC) QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO FISCAL, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA, TODOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 354 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO; LEY ORGÁNICA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO Y LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Las funciones y atribuciones del Centro Estatal de Evaluación y Control de Confianza, así como la substanciación, decisión de asuntos y procedimientos que actualmente se encuentran en trámite y que estén pendientes de resolución en dicho Centro Estatal, cualquiera que sea su estado, seguirán siendo atendidos y resueltos por el propio Centro, de conformidad con las disposiciones y procedimientos legales y administrativos aplicables, ahora con su naturaleza jurídico-administrativa como órgano desconcentrado.
+
+TERCERO. Se otorga un plazo de sesenta días hábiles, contados a partir de la fecha de publicación del presente Decreto, para que se expida el Reglamento Interior del Centro Estatal de Evaluación y Control de Confianza.
+
+CUARTO. El personal del Centro Estatal de Evaluación y Control de Confianza, en ninguna forma resultará afectado en su antigüedad, prestaciones, derechos y obligaciones laborales adquiridos en su relación laboral con la Administración Pública Estatal.
+
+QUINTO. En el caso de que existan adecuaciones a la estructura orgánica del Centro Estatal de Evaluación y Control de Confianza, las mismas se realizarán de acuerdo a la disponibilidad de recursos que prevea la Secretaría de Finanzas y Planeación.
+
+SEXTO. A la entrada en vigor del presente Decreto, y para el caso, de que no hayan sido transferidos los recursos humanos, materiales y financieros del Centro Estatal de Evaluación y Control de Confianza al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en términos del Decreto Legislativo Número 272 publicado el 20 de diciembre del 2018 en el Periódico Oficial del Estado de Quintana Roo, la Secretaría de Finanzas y Planeación, la Oficialía Mayor y la Secretaría de Gobierno, coordinarán sus acciones para la trasferencia directa de dichos recursos, de la Secretaría de Gobierno a la Secretaría de Seguridad Pública.
+
+SÉPTIMO. La Secretaría de Finanzas y Planeación, así como la Oficialía Mayor deberán realizar los ajustes necesarios para que el presupuesto, personal, recursos financieros, materiales, bienes muebles, así como archivos y expedientes, tanto en medio físico como en medio electrónico, sean modificados y/o reasignados administrativamente al órgano desconcentrado denominado Centro Estatal de Evaluación y Control de Confianza, correspondientes al presente ejercicio presupuestal y subsecuentes.
+
+OCTAVO. La Secretaría de Seguridad Pública deberá realizar las modificaciones correspondientes a su estructura orgánica, reglamento interior y demás instrumentos que requieran actualización, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del mismo.
+
+NOVENO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo ordenado en este Decreto.
