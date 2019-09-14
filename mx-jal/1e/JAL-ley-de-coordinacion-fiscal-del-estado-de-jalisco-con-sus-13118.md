@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2018-09-25"
+last_updated: "2019-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -68,17 +68,11 @@ Las participaciones Federales y Estatales que correspondan a los municipios en l
 
 ### CAPÍTULO III. De las participaciones Federales y Estatales a los municipios
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
-
-###### Artículo 4º.
-
-El Fondo Municipal de Participaciones se integrará con los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la recaudación del Impuesto Especial sobre Producción y Servicios y del Impuesto sobre Automóviles Nuevos, así mismo del Fondo de Fomento Municipal, en los términos de la Ley Federal de Coordinación Fiscal, por los ingresos estatales derivados de los Impuestos sobre Nóminas, y Hospedaje.
-
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 4°.
 
-El Fondo Municipal de Participaciones se integrará con los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la Recaudación del Impuesto sobre Tenencia o Uso de Vehículos; del Impuesto Especial sobre Producción y Servicios y del Impuesto sobre Automóviles Nuevos, así mismo del Fondo de Fomento Municipal, en los términos de la Ley Federal de Coordinación Fiscal, por los ingresos estatales derivados de los Impuestos sobre Nóminas, y Hospedaje.
+El Fondo Municipal de Participaciones se integrará con los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la recaudación del Impuesto Especial sobre Producción y Servicios y del Impuesto sobre Automóviles Nuevos y del Fondo de Compensación del Impuesto sobre Automóviles Nuevos; así mismo del Fondo de Fomento Municipal, en los términos de la Ley Federal de Coordinación Fiscal, por los ingresos estatales derivados de los Impuestos sobre Nóminas, y Hospedaje.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -94,7 +88,9 @@ III. (DEROGADA, P.O. 8 DE ABRIL DE 2017)
 
 IV. El 22% del importe que perciba por concepto de participaciones del impuesto especial sobre producción y servicios;
 
-V. El 22% del importe que perciba en forma directamente por concepto de participaciones del impuesto sobre automóviles nuevos;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2019)</small>
+
+V. El 22% del importe que perciba por concepto de participaciones del Impuesto sobre Automóviles Nuevos y del Fondo de Compensación del Impuesto sobre Automóviles Nuevos;
 
 VI. El 40% del importe que perciba por concepto del impuesto estatal sobre nóminas;
 
@@ -142,9 +138,9 @@ I. De los ingresos federales.
 
 Se aplicarán los siguientes criterios y parámetros:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2019)</small>
 
-1) Se garantizarán a los Municipios los recursos entregados en el año 2013 en los porcentajes correspondientes, y en los términos establecidos en la Ley de Coordinación Fiscal, salvo en el caso de la conformación de un nuevo Municipio; y
+1) Se garantizarán a los Municipios los recursos entregados en el año 2013 en los porcentajes correspondientes, y en los términos establecidos en la Ley de Coordinación Fiscal, salvo en el caso del Fondo de Compensación del Impuesto sobre Automóviles Nuevos y de la conformación de un nuevo Municipio; y
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -254,21 +250,19 @@ Del total del porcentaje correspondiente a los municipios se distribuirá de la 
 
 2.- El 60% restante, se distribuirá entre todos los municipios del Estado en proporción directa a la recaudación que obtenga por el concepto de impuestos municipales generados en el año inmediato anterior al que se realiza el cálculo y reportado en las caratulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por este mismo concepto.
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 10 Bis.
 
-Las participaciones a favor de los municipios a que se refiere la fracción X del artículo 5º de esta Ley, correspondiente al Impuesto Especial sobre Producción y Servicios en gasolinas y diesel, se distribuirán.
+Las participaciones a favor de los municipios a que se refiere la fracción X del artículo 5° de esta Ley, correspondiente al Impuesto Especial sobre Producción y Servicios en gasolinas y diésel, se distribuirán.
 
 a) 70% en función directa al número de habitantes de cada municipio, en relación al total estatal, de conformidad a la última información oficial del Instituto Nacional de Estadística y Geografía.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 b) 30% en proporción al índice de marginación, según la última información oficial que dé a conocer el Consejo Nacional de Población, o la institución responsable de medir la marginación en el país.
 
 A través de un fondo denominado FIEPS, de conformidad con la fórmula siguiente:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. 14 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 4 A LA 5.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -599,3 +593,9 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26930/LXI/18 QUE REFORMA LOS ARTÍCULOS 8° Y 10 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+P.O. 14 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27356/LXII/19 QUE REFORMA LOS ARTÍCULOS 4°, 5°, 7° Y 10 BIS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
