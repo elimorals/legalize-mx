@@ -4,7 +4,7 @@ identifier: "COL-ley-de-residuos-solidos-del-estado-de-colima-50291"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-08"
-last_updated: "2018-10-20"
+last_updated: "2019-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 8 de abril de 2006.
 
@@ -111,9 +111,9 @@ XXIV. Planta de selección y tratamiento: La instalación donde se lleve a cabo 
 
 XXV. Pepenar: La acción de recoger entre los residuos sólidos aquellos que tengan valor en cualquier etapa del sistema de manejo;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2019)</small>
 
-XXV BIS.- Productos Plásticos: Corresponde a los productos de un solo uso como los popotes, poliestireno expandido y bolsas de plástico, los cuales atienden a un plan de manejo de residuos, para su adecuada disposición y reciclaje;
+XXV Bis. Plásticos de un solo uso descartables: aquellos elaborados con materiales plásticos derivados de combustibles fósiles, tales como: bolsas, popotes, vasos, charolas, cubiertos, platos, agitadores, tapas, hieleras y demás análogos, incluyendo sus similares de poliestireno expandido;
 
 XXVI. Programa: Al Programa Estatal de Gestión Integral de los Residuos Sólidos; y
 
@@ -543,13 +543,13 @@ XII. Mezclar residuos peligrosos con residuos sólidos e industriales no peligro
 
 XIII. Confinar o depositar en sitios de disposición final residuos en estado líquido o con contenidos líquidos que excedan los máximos permitidos por las Normas Oficiales Mexicanas o la (sic) Normas Ambientales del Estado de Colima;
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2019)</small>
 
-XIV. El uso de bolsas de polietileno para ser usadas y entregadas de manera gratuita por tiendas departamentales, autoservicios, almacenes, supermercados, mercados públicos, tianguis, negocios y comercios, para llevar, transportar o trasladar los productos adquiridos; y
+XIV. Se prohíbe a las entidades gubernamentales del ámbito estatal y municipal, paraestatal y paramunicipal y organismos públicos autónomos; y a establecimientos industriales, comerciales y de servicios en el Estado de Colima, proporcionar a título gratuito u oneroso, así como su uso para eventos de carácter público o privado, cualesquier tipo de plásticos de un solo uso descartables para fines de envoltura, carga o traslado de productos o mercancías, incluyendo sus similares de poliestireno expandido, así como en la venta y entrega de alimentos y bebidas; y
 
 > <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2018)</small>
 
-XV. El uso de productos plásticos en cualquier establecimiento mercantil para prestar sus servicios ubicado en el Estado de Colima, salvo que sean los que cumplan con los criterios establecidos en el título de la Norma Mexicana “INDUSTRIA DEL PLÁSTICO-PLÁSTICOS BIOBASADOS-MÉTODOS DE PRUEBA” con clave NMX-E-267-CNCP-2016.
+XV. El uso de productos plásticos en cualquier establecimiento mercantil para prestar sus servicios ubicado en el Estado de Colima, salvo que sean los que cumplan con los criterios establecidos en el título de la Norma Mexicana "INDUSTRIA DEL PLÁSTICO-PLÁSTICOS BIOBASADOS-MÉTODOS DE PRUEBA" con clave NMX-E-267-CNCP-2016.
 
 [N. DE E. PERTENECE AL ARTÍCULO 25, P.O. 20 DE OCTUBRE DE 2018)
 
@@ -563,19 +563,17 @@ El frente de las construcciones o inmuebles en demolición deberán (sic) manten
 
 Los responsables deberán transportar los escombros en vehículos adecuados que eviten su dispersión durante el transporte a los sitios que determine la normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 26 Bis.
 
-La utilización de productos plásticos solo se permitirá en caso de que hayan sido producidas incorporando un porcentaje mínimo del treinta por ciento (30%) de material reciclado y que la fabricación de los mismos sean con materiales y procesos de tecnología que permitan su ágil degradación acorde con los criterios establecidos en el título de la Norma Mexicana "INDUSTRIA DEL PLÁSTICO-PLÁSTICOS BIOBASADOS-MÉTODOS DE PRUEBA" con clave NMX-E-267-CNCP-2016 o las que la sustituyan.
+Se excluye de la prohibición prevista en la fracción XIV del artículo 25 de esta Ley, lo siguiente:
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+I. Los popotes que se empleen en hospitales o por cuestiones médicas, siempre y cuando sean de material biodegradable y/o compostable, refiriéndose estos últimos a los materiales que al desecharse se convierten en composta o abono;
 
-El porcentaje de material reciclado y la referencia de ágil degradación referidos en el párrafo anterior servirán como base para que las autoridades correspondientes, en la elaboración de los programas, normas y planes de manejo correspondientes, establezcan metas graduales de producción y consumo más limpias las cuales anualmente deberán ajustarse.
+II. Los productos que se empleen en casos de emergencia por catástrofes naturales; y
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
-
-Los establecimientos mercantiles y comerciantes podrán utilizar las bolsas de polietileno cuando, por cuestiones de salubridad, se destinen para almacenar, empacar y/o conservar alimentos, mercancía o insumos, y no resulte factible el uso de un material sustituto al polietileno.
+III. Por razones de higiene o conservación de alimentos, siempre y cuando sean de material biodegradable o compostable.
 
 ### CAPÍTULO II. DEL INVENTARIO DE LOS RESIDUOS SÓLIDOS Y SUS FUENTES GENERADORAS
 
@@ -1120,3 +1118,27 @@ P.O. 20 DE OCTUBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- En tanto se generen las condiciones para implementar lo señalado en el presente Decreto, el Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado de Colima, tendrá la obligación de verificar e inspeccionar que las personas físicas o morales que utilizan productos plásticos para sus negocios, no los ofrezcan ni proporcionen, salvo que el cliente o usuario así lo soliciten.
+
+P.O. 14 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 114 POR EL QUE SE REFORMAN LA FRACCIÓN XXV BIS DEL ARTÍCULO 3°, LA FRACCIÓN XIV DEL ARTÍCULO 25 Y EL ARTÍCULO 26 BIS, TODOS DE LA LEY DE RESIDUOS SÓLIDOS DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- La transición será gradual, hasta lograr la sustitución, eliminación y consecuente prohibición de cualquier tipo de plásticos de un solo uso descartables para fines de envoltura, carga o traslado de productos o mercancías, incluyendo sus similares de poliestireno expandido, proporcionados a título gratuito u oneroso, así como su uso en eventos de carácter público o privado, la cual se realizará de conformidad con lo siguiente:
+
+a) Los establecimientos comerciales que se encuentren en las inmediaciones de áreas naturales y áreas naturales protegidas, parques naturales, lagunas, esteros, ríos, grutas y reservas ecológicas del Estado, en un plazo de seis meses a partir de la entrada en vigor del presente Decreto.
+
+b) Los supermercados, tiendas de autoservicio, farmacias, tiendas de conveniencia, mercados, restaurantes y similares, en un plazo de doce meses contados a partir de la entrada en vigor del presente Decreto.
+
+c) Las entidades gubernamentales del ámbito estatal y municipal, paraestatal y paramunicipal y organismos públicos autónomos, en un plazo de doce meses contados a partir de la entrada en vigor del presente Decreto.
+
+d) Los productos empleados en la conservación y transportación de medicamentos y materiales con fines médicos, en un plazo de doce meses contados a partir de la entrada en vigor del presente Decreto.
+
+e) Los establecimientos dedicados a la venta al mayoreo y menudeo de los productos señalados en la fracción XXV Bis del artículo 3° de la Ley de Residuos Sólidos del Estado de Colima, en un plazo de doce meses contados a partir de la entrada en vigor del presente decreto.
+
+Una vez que hayan transcurrido los plazos señalados en los incisos anteriores, todos los establecimientos deberán de llevar a cabo la sustitución definitiva.
+
+La Secretaría de Infraestructura y Desarrollo Urbano del Gobierno del Estado, con apoyo del Instituto del Medio Ambiente y Desarrollo Sustentable del Estado y de los Ayuntamientos, podrá realizar inspecciones a fin de verificar la aplicación de la Ley.
+
+TERCERO.- El Poder del Ejecutivo del Estado y los Ayuntamientos del Estado, en un plazo de seis meses contados a partir de la entrada en vigor del presente Decreto, deberán adecuar sus reglamentos en materia ambiental para efectos de armonizarlos a las disposiciones contenidas en este Decreto.
