@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2018-02-26"
+last_updated: "2019-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES
 
-CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO
+CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -375,15 +375,17 @@ Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y v
 
 El H. Ayuntamiento del Municipio de San Francisco de los Romo, residirá en la Cabecera Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTICULO 24.
 
-Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal, los Regidores y el Síndico tanto del H. Ayuntamiento en funciones como el electo, se reunirán el día 31 de diciembre del año de la elección, en el local y hora que determine el H. Ayuntamiento en funciones, en sesión solemne se desarrollará conforme al siguiente procedimiento.
+Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal los Regidores y Síndico tanto del H. Ayuntamiento en funciones como el electo, se reunirán dentro de las setenta y dos horas anteriores al inicio del período constitucional, en el lugar y la hora que determine el H. Ayuntamiento en funciones, en sesión solemne se desarrollará conforme al siguiente procedimiento.
 
 I. El Secretario del H. Ayuntamiento saliente, dará lectura a la lista de los integrantes del H. Ayuntamiento, que hayan resultado electos y comprobando que se tiene la asistencia que establecen la Constitución Política del Estado de Aguascalientes, la Ley Municipal para del Estado de Aguascalientes y el presente Código, dará la palabra al Presidente Municipal electo;
 
-II. El Presidente Municipal electo solicitará a los Regidores y Síndicos electos asistentes que se pongan de pie, quien rendirá la protesta de ley en los siguientes términos: "Yo protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patriótica mente el cargo de Presidente Municipal del Municipio de San Francisco de los Romo, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el Municipio me lo demande";
+II. El Presidente Municipal electo solicitará a los Regidores y Síndicos electos asistentes que se pongan de pie, quien rendirá la protesta de ley en los siguientes términos: "Yo protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patriótica mente (sic) el cargo de Presidente Municipal del Municipio de San Francisco de los Romo, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el Municipio me lo demande";
 
-III. Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndicos electos, a quienes los interrogará en la forma siguiente: "Ciudadanos... Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndicos Propietarios respectivamente del Municipio de San Francisco de los Romo que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio "....." Sí Protesto". Contestan los Regidores y Síndicos;
+III. Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndicos electos, a quienes los interrogará en la forma siguiente: "Ciudadanos... Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndicos Propietarios respectivamente del Municipio de San Francisco de los Romo que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio "…" Sí Protesto". Contestan los Regidores y Síndicos;
 
 IV. Dirá entonces el Presidente Municipal: "Si así no lo hicieren que el Municipio se los demande";
 
@@ -391,7 +393,13 @@ V. Los Regidores y Síndico que no hubieren asistido a esta Sesión deberán ren
 
 VI. Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
 
-a) El H. Ayuntamiento del Municipio de San Francisco de los Romo, se declara constituido para el Período Constitucional del 10 de enero de..... al 31 de diciembre de...; y
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2019)</small>
+
+a) “El H. Ayuntamiento del Municipio de San Francisco de los Romo, se declara constituido para el Período Constitucional del 15 de Octubre de… (Deberá citar el año en que se está tomando protesta) al 14 de Octubre de… (Deberá citar el año en el que termina el periodo constitucional)”; y
+
+A esta sesión asistirá el Gobernador del Estado o su representante, el representante del Congreso del Estado, y el Presidente del Supremo Tribunal de Justicia del Estado o en su caso su representante.
+
+La toma de protesta surtirá efectos a partir de la primera hora del día quince de octubre del año en que resultaron electos.
 
 VII. Por último el Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal.
 
@@ -885,7 +893,9 @@ XVIII. Celebrar a nombre del Municipio y por acuerdo del H. Ayuntamiento, todos 
 
 XIX. Expedir a la Dirección General de Finanzas y Administración las órdenes de pago que sean conforme al presupuesto aprobado, firmado en unión del Regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios, si autorizasen algún gasto no previsto en dicho presupuesto;
 
-XX. Informar anualmente al H. Ayuntamiento, al término de cada ejercicio fiscal, del estado que guarda la Administración Municipal y de las labores realizadas;
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2019)</small>
+
+XX. Informar anualmente al H. Ayuntamiento, del estado que guarda la Administración Pública Municipal y de las actividades realizadas, en Sesión Solemne de Cabildo a celebrarse dentro de los primeros quince días hábiles del mes de noviembre de cada año, a excepción del año en que termina el periodo constitucional, éste deberá ser a más tardar el día 30 de septiembre del mismo año;
 
 XXI. Abstenerse de intervenir en cualquier forma de atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio económico para sí, sus parientes consanguíneos o por afinidad hasta el cuarto grado o por adopción o para terceros con los que tenga relaciones laborales o de negocios o para socios o sociedades de las que el Presidente Municipal o las personas antes referidas, formen o hayan formado parte;
 
@@ -9671,7 +9681,7 @@ Faltas Contra la Propiedad Pública
 
 > <small>(ADICIONADO, P.O. 24 DE MAYO DE 2010)</small>
 
-ARTICULO 879 C.-·Son consideradas faltas contra la propiedad pública, las cuales se sancionarán con arresto hasta por treinta y seis horas; multa de uno a treinta días de Salario Mínimo General Vigente en el Estado, o hasta seis horas de trabajo a favor de la comunidad las siguientes:
+ARTICULO 879 C.- Son consideradas faltas contra la propiedad pública, las cuales se sancionarán con arresto hasta por treinta y seis horas; multa de uno a treinta días de Salario Mínimo General Vigente en el Estado, o hasta seis horas de trabajo a favor de la comunidad las siguientes:
 
 I. Deteriorar intencionalmente bienes destinados al equipamiento urbano o hacer uso indebido de los servicios públicos;
 
@@ -21350,3 +21360,19 @@ P.O. 13 DE NOVIEMBRE DE 2017.
 P.O. 26 DE FEBRERO DE 2018.
 
 > <small>[N. DE E. LA "MODIFICACIÓN AL ARTÍCULO 163 DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO, EN EL CAPÍTULO V DEL SALARIO", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LOS ARTÍCULOS 24, PÁRRAFO PRIMERO, FRACCIÓN IV, INCISO A Y 81, FRACCIÓN XX DEL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma iniciará su vigencia al día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a lo dispuesto en la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de San Francisco de los Romo, Aguascalientes, deberá ajustarse al periodo constitucional correspondiente.
