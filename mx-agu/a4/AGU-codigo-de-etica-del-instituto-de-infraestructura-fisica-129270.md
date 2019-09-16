@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-de-infraestructura-fisica-129270"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-06-11"
-last_updated: "2018-06-11"
+last_updated: "2019-09-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL INSTITUTO DE INFRAESTRUCTURA FISICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DEL INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 16 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de junio de 2018.
 
@@ -180,3 +182,21 @@ SECRETARIO TÉCNICO DE LA JUNTA DE GOBIERNO DEL INSTITUTO DE INFRAESTRUCTURA FÍ
 Arq. Gerardo de Jesús Valadez Pérez,
 
 DIRECTOR GENERAL DEL INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DEL INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del "Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el CÓDIGO DE ÉTICA DEL INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE AGUASCALIENTES publicado en la Quinta Sección del Periódico Oficial del Estado de Aguascalientes, Tomo LXXXI, número 24, en fecha 11 de junio de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
