@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-secretaria-de-comunicaciones-del-12985
 country: "mx"
 rank: "codigo"
 publication_date: "2018-08-08"
-last_updated: "2018-08-08"
+last_updated: "2019-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE COMUNICACIONES DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE COMUNICACIONES DEL GOBIERNO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 17 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE COMUNICACIONES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 8 de agosto de 2018.
 
@@ -732,3 +734,17 @@ LIC. LUIS GILBERTO LIMÓN CHÁVEZ
 SECRETARIO DE COMUNICACIONES DEL ESTADO DE MÉXICO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 17 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE COMUNICACIONES DEL GOBIERNO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las Unidades Administrativas de la Secretaría de Comunicaciones del Gobierno del Estado de México, adoptarán las medidas necesarias para el cumplimiento del presente Acuerdo, con el objeto de dar cumplimiento al Código de Conducta de la Secretaría de Comunicaciones.
+
+CUARTO.- Se abroga el Código de Conducta de la Secretaría de Comunicaciones del Gobierno del Estado de México, publicado el 8 de agosto del año 2018, en el Periódico Oficial "Gaceta del Gobierno", así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Acuerdo.
