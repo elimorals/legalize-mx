@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-para-el-desarrollo-y-110544"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-11-19"
-last_updated: "2015-11-19"
+last_updated: "2019-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA EL DESARROLLO Y CERTIFICACION DE LA INFRAESTRUCTURA FISICA EDUCATIVA DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO PARA EL DESARROLLO Y CERTIFICACIÓN DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA Y ELÉCTRICA DE YUCATÁN, PUBLICADO EN EL D.O. DE 18 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA EL DESARROLLO Y CERTIFICACIÓN DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el jueves 19 de noviembre de 2015.
 
@@ -31,7 +33,9 @@ Acuerdo IDEFEY 01/2015 por el que se expide el Estatuto Orgánico del Instituto 
 
 La Junta de Gobierno del Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa de Yucatán, con fundamento en lo dispuesto por los artículos 68, 71 y 115, fracción VII, del Código de la Administración Pública de Yucatán; 7, fracción II, y 15 del Decreto 283/2015 por el que se regula el Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa de Yucatán, y
 
-Considerando:…
+Considerando:
+
+[...]
 
 Por las consideraciones expuestas, esta junta de gobierno ha tenido a bien expedir el presente:
 
@@ -740,3 +744,27 @@ ATENTAMENTE
 ING. VICTOR MIGUEL CASTILLO ESPINOSA
 
 DIRECTOR GENERAL DEL IDEFEY
+
+D.O. 18 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO IDEFEEY 1/2019 POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL INSTITUTO PARA EL DESARROLLO Y CERTIFICACIÓN DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA Y ELÉCTRICA DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este acuerdo queda abrogado el Estatuto Orgánico del Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa de Yucatán, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 19 de noviembre de 2015.
+
+Tercero. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa y Eléctrica de Yucatán deberá realizar la inscripción de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este acuerdo.
+
+Cuarto. Referencias a unidades administrativas
+
+Cuando en cualquier disposición normativa o administrativa se haga referencia a la Dirección de Proyectos, la Dirección de Construcción, la Dirección de Administración y la Dirección de Control y Normatividad del Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa de Yucatán, se entenderá que se refieren, en todos los casos, a la Dirección de Proyectos, la Dirección de Construcción, la Dirección de Administración y la Dirección Jurídica del Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa y Eléctrica de Yucatán, señaladas en este estatuto orgánico.
+
+Quinto. Trámite de asuntos
+
+Los acuerdos y convenios, así como los asuntos, expedientes y demás actos jurídicos, pendientes o en trámite, que se encuentren bajo cualquier concepto en la Dirección de Proyectos, la Dirección de Construcción, la Dirección de Administración y la Dirección de Control y Normatividad del Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa de Yucatán se transferirán y quedarán a cargo de la Dirección de Proyectos, la Dirección de Construcción, la Dirección de Administración y la Dirección Jurídica del Instituto para el Desarrollo y Certificación de la Infraestructura Física Educativa y Eléctrica de Yucatán, respectivamente.
