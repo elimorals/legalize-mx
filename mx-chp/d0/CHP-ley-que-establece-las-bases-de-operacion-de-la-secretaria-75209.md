@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2018-01-24"
+last_updated: "2019-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -71,9 +71,13 @@ En ese sentido, se deben establecer acciones efectivas para proveer y ejecutar m
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Carrera Policial: Al Servicio Profesional de Carrera Policial.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
 
-II. Fuerza Ciudadana: A la policía profesional y acreditada con enfoque de prevención del delito y atención a la ciudadanía, adscrita a la Subsecretaría de Seguridad Pública y Fuerza Ciudadana de la Secretaría de Seguridad y Protección Ciudadana.
+I. Carrera: Al Servicio Profesional de Carrera.
+
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+
+II. Fuerza Ciudadana: A la policía profesional y acreditada con enfoque de prevención del delito y atención a la ciudadanía, adscrita a la Subsecretaría de Seguridad Pública y Protección Ciudadana de la Secretaría de Seguridad y Protección Ciudadana.
 
 III. Instituciones de seguridad pública: A las Instituciones Policiales, de Procuración de Justicia, además a todas aquellas dependencias y entidades encargadas de la seguridad pública a nivel local y municipal.
 
@@ -187,7 +191,9 @@ II. Unidades de Apoyo al Secretario.
 
 III. Unidades de Apoyo a la Secretaría:
 
-a) Subsecretaría de Seguridad Pública y Fuerza Ciudadana.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+
+a) Subsecretaría de Seguridad Pública y Protección Ciudadana.
 
 b) Subsecretaría de Servicios Estratégicos de Seguridad
 
@@ -195,7 +201,9 @@ c) Subsecretaría de Seguridad Turística y Vial.
 
 d) Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
-e) Unidad de Protección y Promoción de los Derechos Humanos.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+
+e) Unidad de Protección y Promoción de los Derechos Humanos y Atención a Víctimas.
 
 f) Unidad de Apoyo Jurídico.
 
@@ -205,7 +213,9 @@ h) Unidad de Asuntos Internos.
 
 i) Unidad de Prevención del Delito y Política Criminal.
 
-j) Unidad de Sistemas y Plataforma México.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+
+j) Unidad de Transmisiones Digitales.
 
 IV. Órgano Desconcentrado:
 
@@ -213,7 +223,9 @@ a) Instituto de Formación Policial.
 
 V. Comisión de Honor y Justicia de la Secretaría.
 
-VI. Comisión del Servicio Profesional de Carrera Policial de la Secretaría.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+
+VI. Comisión del Servicio Profesional de Carrera.
 
 ### Capítulo II. De las Unidades de Apoyo al Secretario
 
@@ -229,7 +241,7 @@ II. Coordinación de Administración.
 
 III. Área de Rescate y Atención Médica.
 
-IV. Área de Servicios Privados de Seguridad.
+IV. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2019)
 
 ###### Artículo 9.
 
@@ -249,11 +261,11 @@ El Estado Mayor podrá integrar los aspectos que se requieran y especializarlas 
 
 El Secretario podrá, en su caso y mediante acuerdo por escrito, delegar funciones en materia de Seguridad Pública, operación y control de las Policías Preventivas del Estado; sin menoscabo del control central de las mismas que ejerce el Titular; estando en todo momento en capacidad de retirar las facultades asignadas si así lo determina.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 13.
 
-De conformidad con el inciso a) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Seguridad Pública y Fuerza Ciudadana, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento y demás disposiciones legales aplicables.
+De conformidad con el inciso a) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Seguridad Pública y Protección Ciudadana, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
@@ -299,11 +311,11 @@ Para la formación y operación de las Unidades de Apoyo a la Secretaría se ate
 
 La Comisión de Honor y Justicia de la Secretaría será la encargada de conocer, mediante los procedimientos señalados en la Ley y en su propio Reglamento, de las conductas en que incurran los integrantes de la Secretaría, así como, en caso de ser procedente, se sancionará con su separación o remoción.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 20.
 
-La Comisión del Servicio Profesional de Carrera Policial será la encargada de conocer sobre los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento de los integrantes de la Secretaría.
+La Comisión del Servicio Profesional de Carrera, será la encargada de conocer sobre los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento de los integrantes de la Secretaría.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
@@ -1160,3 +1172,13 @@ Artículo Cuarto.- La Secretaría de Salud y/o Instituto de Salud, deberá reali
 Artículo Quinto.- La Secretaría para el Desarrollo y Empoderamiento de las Mujeres, deberá realizar las acciones necesarias, para implementar el Programa Único de Capacitación, Sensibilización, Formación y Profesionalización, en Materia de Derechos Humanos de las Mujeres, que se impartirá a los servidores públicos del Gobierno del Estado.
 
 Artículo Sexto.- Las autoridades correspondientes, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia de las disposiciones aplicables.
+
+P.O. 18 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 254 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Titular de la Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración y aprobación del Titular del Ejecutivo del Estado, las adecuaciones al Reglamento de la Ley que Establece las Bases de Operación de la Secretaría de Seguridad y Protección Ciudadana del Estado de Chiapas, y demás normatividad que resulte aplicable, en un plazo no mayor a sesenta días hábiles siguientes a la entrada en vigor del presente Decreto.
