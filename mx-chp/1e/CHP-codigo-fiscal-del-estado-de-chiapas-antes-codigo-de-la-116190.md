@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2019-01-02"
+last_updated: "2019-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE ENERO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2019.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -3821,7 +3819,7 @@ El Fondo General Municipal se constituirá con las cantidades de las fracciones 
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 12.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 40 A LA 41; F. DE E. P.O. 2 DE ENERO DE 2019, PÁGINAS DE LA 1 A LA 3.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 40 A LA 41; F. DE E. P.O. 2 DE ENERO DE 2019, PÁGINAS DE LA 1 A LA 3; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 9 A LA 10.]</small>
 
 La fórmula anterior no será aplicable en el mes de cálculo, cuando las participaciones de los fondos que constituyen el Fondo General Municipal sean iguales o menores a la observada en el año 2015. En tales supuestos, la distribución se realizara en función de la cantidad efectivamente recibida por el estado en el año de cálculo, en proporción al monto asignado para cada municipio en el año 2015.
 
@@ -3833,7 +3831,7 @@ El Fondo de Fomento Municipal se constituirá con las cantidades de la fracción
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PAGINAS 13 Y 14.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 41 A LA 42.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 41 A LA 42; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 10 A LA 11.]</small>
 
 La fórmula del Fondo de Fomento Municipal no será aplicable cuando en el mes de cálculo, las participaciones recibidas por el Estado por concepto de este fondo, sean menores o iguales a las observadas en el año 2015. En tales supuestos, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo, en proporción al monto asignado para cada municipio en el año 2015.
 
@@ -3843,13 +3841,13 @@ La fórmula del Fondo de Fomento Municipal no será aplicable cuando en el mes d
 
 El Fondo de Fiscalización y Recaudación, se constituirá con las cantidades de la fracción V del artículo 272 de este Código, y se distribuirá a los municipios conforme a la siguiente fórmula:
 
-> <small>[N. DE E. VÉASE REFORMAS A LAS FORMULAS EN LOS PÁRRAFOS NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 14.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LAS FORMULAS EN LOS PÁRRAFOS NOVENO, DÉCIMO, DÉCIMO PRIMERO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 14; 18 DE SEPTIEMBRE DE 2019, PÁGINA 11.]</small>
 
 ###### Artículo 276.
 
 La participación del Impuesto a la venta Final de Gasolinas y Diésel, se constituirá con las cantidades de la fracción VI del artículo 272 de este Código, y se distribuirá a los municipios conforme a la siguiente fórmula:
 
-> <small>[N. DE E. VÉASE REFORMAS A LAS FORMULAS EN LOS PÁRRAFOS SÉPTIMO, NOVENO, DÉCIMO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 15.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LAS FORMULAS EN LOS PÁRRAFOS SÉPTIMO, NOVENO, DÉCIMO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 15; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 11 A LA 12.]</small>
 
 ###### Artículo 277.
 
@@ -3863,7 +3861,7 @@ El Fondo de Extracción de Hidrocarburos, se constituirá con las cantidades de 
 
 El Fondo de Compensación se constituirá con la cantidad de la fracción VII del artículo 272 de este Código, y se distribuirá a los municipios conforme a la siguiente fórmula:
 
-> <small>[N. DE E. VÉASE REFORMAS A LAS FORMULAS EN LOS PÁRRAFOS QUINTO, SÉPTIMO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 15 Y 16.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LAS FORMULAS EN LOS PÁRRAFOS QUINTO, SÉPTIMO Y DÉCIMO TERCERO, EN EL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINA 15 Y 16; 18 DE SEPTIEMBRE DE 2019, PÁGINAS DE LA 12 A LA 13.]</small>
 
 ###### Artículo 279.
 
@@ -3873,7 +3871,9 @@ El Fondo para Entidades Federativas y Municipios Productores de Hidrocarburos se
 
 El Estado enterará las participaciones en lo que se refiere la fracción I del artículo 272, que correspondan a los municipios de la siguiente manera:
 
-I. A más tardar el día 15 de cada mes o el día hábil anterior si éste no lo fuera, se pagará una cantidad equivalente al 40% de las participaciones que le correspondieron al Municipio en el mes inmediato anterior al que corresponda el pago, por concepto de anticipo a sus participaciones; siempre y cuando la Federación mantenga vigente el mecanismo de anticipos para el Estado.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+
+I. A más tardar el día 15 de cada mes o el día hábil anterior si éste no lo fuera, se pagará una cantidad equivalente al 40% de las participaciones que le correspondieron al Municipio en el mes inmediato anterior al que corresponda el pago, por concepto de anticipo a sus participaciones, a excepción del mes de diciembre, en el que se pagará una cantidad equivalente al 90%; siempre y cuando la Federación mantenga vigente el mecanismo de anticipos para el Estado.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -3901,17 +3901,21 @@ III. La recaudación de los ingresos asignados por impuesto predial y derechos p
 
 IV. Los municipios ubicados en la zona petrolera, son los especificados para el Programa de Ordenamiento Ecológico y Territorial de la Zona Petrolera de la Región Norte de Chiapas; según la publicación en el Diario Oficial de la Federación, que se encuentre vigente al momento de la determinación de los coeficientes de participaciones.
 
-V. El número de municipios incorporados en la distribución del 20% del Fondo de Fomento Municipal podrá incrementarse en la medida que suscriban Convenio de Colaboración Administrativa para que el Estado cobre y Administre el Impuesto Predial y sus Accesorios, una vez que se publiquen en el Periódico Oficial del Estado y sean debidamente notificados a la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
+
+V. El número de municipios incorporados en la distribución del 20% del Fondo de Fomento Municipal podrá incrementarse en la medida que suscriban Convenio de Colaboración Administrativa para que el Estado cobre y Administre el Impuesto Predial y sus Accesorios, una vez que se publiquen en el Periódico Oficial y sean debidamente notificados a la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, y ésta radique el recurso correspondiente.
+
+La cancelación del Convenio a que hace referencia el párrafo que antecede, dará lugar a la modificación del coeficiente de distribución de participaciones respectivo, a partir de la fecha en que se le notifique al municipio el inicio del cobro y administración del impuesto predial y sus accesorios.
 
 VI. Para el cálculo de las participaciones previstas en el presente capítulo, deberán ser considerados todos los municipios, sin excepción, que se encuentren señalados en el artículo 2 de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 VII. Las fórmulas establecidas en este capítulo, podrán complementarse con lo previsto en el reglamento del presente Código.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 283.
 
-El Estado enterará a los municipios, dentro de los cinco días hábiles siguientes al que reciba de la Federación, los ajustes de participaciones de cada uno de los fondos señalados en este libro.
+El Estado enterará a los municipios, dentro de los cinco días hábiles siguientes al que reciba de la Federación, los ajustes de participaciones de cada uno de los fondos señalados en este libro, mismos que se distribuirán con los coeficientes determinados para el ejercicio fiscal en curso.
 
 ###### Artículo 284.
 
@@ -6730,3 +6734,11 @@ P.O. 31 DE DICIEMBRE DE 2018.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 256 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
