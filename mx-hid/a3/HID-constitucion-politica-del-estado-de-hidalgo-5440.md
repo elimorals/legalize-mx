@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2017-10-16"
+last_updated: "2019-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "HID"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -205,9 +203,11 @@ El derecho de los pueblos y comunidades indígenas a la libre determinación se 
 
 Los pueblos y comunidades indígenas en ejercicio de su derecho de libre determinación, tienen derecho a la autonomía o el autogobierno en las cuestiones relacionadas con sus asuntos internos, respetando los preceptos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en ésta Constitución.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+(NOTA: EL 12 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2019 Y SU ACUMULADA 117/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 204 QUE REFORMA EL PÁRRAFO DÉCIMO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN QUE CONCLUYA EL PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO QUE ACTUALMENTE SE ENCUENTRA EN CURSO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-La Ley protegerá y promoverá la lengua y la cultura, así como las prácticas tradicionales, recursos y formas específicas de organización social de los pueblos y comunidades indígenas.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
+
+LOS PUEBLOS Y COMUNIDADES INDÍGENAS TIENEN DERECHO A LA PROTECCIÓN, SALVAGUARDA, PRESERVACIÓN, PROMOCIÓN Y DESARROLLO INTEGRAL DE SU PATRIMONIO CULTURAL, PARA TAL EFECTO, EL ESTADO ESTABLECERÁ LAS MEDIDAS LEGISLATIVAS Y ADMINISTRATIVAS NECESARIAS PARA GARANTIZAR ESE DERECHO, PREVIA CONSULTA A DICHOS PUEBLOS Y COMUNIDADES INDÍGENAS. LA LEY PROTEGERÁ Y PROMOVERÁ LA LENGUA Y LA CULTURA, ASÍ COMO LAS PRÁCTICAS TRADICIONALES, RECURSOS Y FORMAS ESPECÍFICAS DE ORGANIZACIÓN SOCIAL DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -219,7 +219,11 @@ II.- Aplicar sus propios sistemas normativos en la regulación y solución de su
 
 La Ley establecerá que se debe entender por conflictos internos y sistemas normativos, así como delimitar facultades y competencias.
 
-III.- Elegir de acuerdo con sus normas, procedimientos o prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando la participación de las mujeres en condiciones de equidad frente a los varones, en un marco que respete el pacto federal y la soberanía del Estado.
+(NOTA: EL 12 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2019 Y SU ACUMULADA 117/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 204 QUE REFORMA LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN QUE CONCLUYA EL PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO QUE ACTUALMENTE SE ENCUENTRA EN CURSO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
+
+III.- ELEGIR DE ACUERDO CON SUS NORMAS, PROCEDIMIENTOS O PRÁCTICAS TRADICIONALES, A LAS AUTORIDADES O REPRESENTANTES PARA EL EJERCICIO DE SUS FORMAS PROPIAS DE GOBIERNO INTERNO, GARANTIZANDO QUE LAS MUJERES Y HOMBRES INDÍGENAS DISFRUTARÁN Y EJERCERÁN SU DERECHO DE VOTAR Y SER VOTADOS EN CONDICIONES DE IGUALDAD; ASÍ COMO ACCEDER Y DESEMPEÑAR LOS CARGOS PÚBLICOS Y DE ELECCIÓN POPULAR PARA LOS QUE HAYAN SIDO ELECTOS O DESIGNADOS, EN UN MARCO QUE RESPETE EL PACTO FEDERAL, LA SOBERANÍA DEL ESTADO Y LA AUTONOMÍA DE LOS MUNICIPIOS. EN NINGÚN CASO LAS PRÁCTICAS COMUNITARIAS PODRÁN LIMITAR LOS DERECHOS POLÍTICO-ELECTORALES DE LA CIUDADANÍA EN LA ELECCIÓN DE SUS AUTORIDADES MUNICIPALES.
 
 IV.- Preservar y desarrollar su cultura, su lengua, conocimientos, y todos los elementos que constituyen parte de su identidad; así como las actividades y productos materiales y espirituales de cada pueblo y comunidad indígena.
 
@@ -299,6 +303,12 @@ La juventud tiene derecho a su desarrollo integral, el cual se alcanzará median
 
 El Estado y los Municipios, en función de sus atribuciones, tomarán en consideración la perspectiva de género para el diseño, ejecución, seguimiento y evaluación de las políticas públicas.
 
+(NOTA: EL 12 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2019 Y SU ACUMULADA 117/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 204 QUE ADICIONA EL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN QUE CONCLUYA EL PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO QUE ACTUALMENTE SE ENCUENTRA EN CURSO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
+
+TODA PERSONA TIENE EL DERECHO HUMANO A LA PARTICIPACIÓN CIUDADANA EN LOS ASUNTOS PÚBLICOS DEL ESTADO Y LOS MUNICIPIOS. LA LEY ESTABLECERÁ LOS MECANISMOS ESPECÍFICOS PARA LA PARTICIPACIÓN CIUDADANA.
+
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 5°.
@@ -351,17 +361,19 @@ El Estado apoyará la investigación científica, el desarrollo tecnológico y s
 
 El Estado procurará el acceso a programas de becas para los alumnos más destacados en su desempeño académico dentro de las instituciones de educación pública, así como de aquellos que su condición económica les impida la conclusión de estudios profesionales.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
 
-###### Artículo 9º.
+###### Artículo 9°.
 
-Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo.
 
-Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia, prohibidas las costas judiciales.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las Leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia, prohibidas las costas judiciales.
 
-El Estado regulará un Sistema de Justicia Alternativa, cuyo servicio también será gratuito.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
+
+Siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio, las autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales. El Estado regulará un Sistema de Justicia Alternativa, cuyo servicio también será gratuito.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE NOVIEMBRE DE 2014)</small>
 
@@ -375,7 +387,11 @@ El imputado, la víctima o el ofendido gozarán de los derechos que consagra la 
 
 La ley respectiva preverá mecanismos alternativos de solución de controversias. En la materia penal regulará su aplicación, asegurará la reparación del daño y establecerá los casos en los que se requerirá supervisión judicial.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
+
 Las leyes locales establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1987)</small>
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
@@ -404,16 +420,6 @@ El Estado implementará un Sistema Integral de Justicia para Adolescentes, en lo
 El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
 > <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
-
-###### Artículo 9°.
-
-Queda prohibida la pena de muerte o cualesquiera otras penas inusitadas y trascendentales.
-
-Toda persona reducida a prisión tiene derecho a la readaptación social y a los beneficios que de ella resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y reestructuración de su personalidad inspirados en un criterio de justicia social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
-
-El Gobierno del Estado creará instituciones especiales para el tratamiento de los menores infractores.
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 9 Bis.
 
@@ -955,11 +961,11 @@ Los Diputados que falten a una Sesión sin causa justificada o sin permiso del P
 
 Cuando algún Diputado deje de asistir a tres Sesiones consecutivas, sin previa autorización del Presidente de la Directiva o causa justificada, se llamará al Suplente respectivo, quien ejercerá las funciones durante el resto del periodo de Sesiones correspondiente.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 42.
 
-Durante el Primer Periodo Ordinario de Sesiones, y para que rijan en el año siguiente, el Congreso se ocupará prioritariamente de examinar y aprobar en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviarle a más tardar el quince de diciembre.
+Durante el Primer Período Ordinario de Sesiones, y para que rijan en el año siguiente, el Congreso se ocupará prioritariamente de examinar y aprobar en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviar a más tardar el 19 de noviembre y que deberá ser aprobado a más tardar el 22 de diciembre.
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
 
@@ -1079,11 +1085,11 @@ Las iniciativas se sujetarán al trámite que señala la ley Orgánica del Poder
 
 El día señalado para la discusión de un dictamen, se dará aviso al autor de la Iniciativa, a fin de que si lo estima pertinente, pueda participar en ella por sí o por medio de representante.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 51.
 
-Aprobado un Proyecto de Ley o de Decreto por el Congreso, se remitirá al Gobernador para su promulgación y publicación. El Gobernador, dentro de los diez días hábiles siguientes, podrá devolverlo con las observaciones que considere pertinentes.
+Aprobado un Proyecto de Ley o de Decreto por el Congreso, se remitirá al Gobernador para su promulgación y publicación, los reglamentos, decretos, acuerdos y disposiciones de carácter general que expida el Gobernador, requerirán para su validez la firma del secretario de Gobierno, así como la del secretario o secretarios del ramo. El Gobernador, dentro de los diez días hábiles siguientes, podrá devolverlo con las observaciones que considere pertinentes.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1691,9 +1697,9 @@ d) Celebrar los convenios con la Federación para la obtención de la garantía 
 
 XXXVII. Ejercer el presupuesto de egresos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE SEPTIEMBRE DE 2019)</small>
 
-XXXVIII. Presentar al Congreso del Estado para su aprobación, a más tardar el 15 de diciembre de cada año, la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado, que deberán regir en el año inmediato. Asimismo para su autorización en dicho presupuesto, presentar las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la Ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
+XXXVIII.- Presentar al Congreso del Estado para su aprobación, a más tardar el 19 de noviembre de cada año, la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado, que deberán regir en el año inmediato. Asimismo, para su autorización en dicho presupuesto, presentar las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la Ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
 
 > <small>(ADICIONADO, P.O. 21 DE MARZO DE 2011)</small>
 
@@ -4100,3 +4106,37 @@ QUINTO. Dentro del plazo a que se refiere el artículo segundo transitorio de es
 SEXTO. En cualquier caso, los derechos de los trabajadores que tienen a su cargo la atención de los asuntos en la Junta Local de Conciliación y Arbitraje, se respetarán conforme a la ley.
 
 SÉPTIMO. La Junta Local de Conciliación y Arbitraje deberá transferir los procedimientos, expedientes y documentación que, en el ámbito de su competencia tenga bajo su atención o resguardo al Tribunal Laboral y al Centro de Conciliación Laboral, los cuales se encargarán de resolver las diferencias y los conflictos entre patrones y trabajadores.
+
+(NOTA: EL 12 DE MARZO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 116/2019 Y SU ACUMULADA 117/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 204, QUE REFORMA EL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECINUEVE DE SEPTIEMBRE DE DOS MIL DIECINUEVE, LA CUAL SURTIRÁ SUS EFECTOS A PARTIR DEL DÍA SIGUIENTE A AQUÉL EN QUE CONCLUYA EL PROCESO ELECTORAL ORDINARIO DEL ESTADO DE HIDALGO QUE ACTUALMENTE SE ENCUENTRA EN CURSO, CUYA JORNADA HABRÁ DE VERIFICARSE EL SIETE DE JUNIO DE DOS MIL VEINTE, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+P.O. 19 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 204 QUE REFORMA EL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO. 205.- QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 51 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 206 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 42 Y LA FRACCIÓN XXXVIII DEL ARTÍCULO 71, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 207 QUE REFORMA LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 9, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO ".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
