@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2019-04-04"
+last_updated: "2019-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1525,17 +1525,23 @@ La reinserción social es el proceso penitenciario que tiene por objeto proporci
 
 #### SECCION SEXTA.- INDULTO
 
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 122.
 
-El Ejecutivo podrá discrecionalmente conceder indulto a los reos que reúnan los siguientes requisitos:
+De manera excepcional y discrecional, el Gobernador o Gobernadora podrá otorgar el indulto, por cualquier delito del orden común que no sea de los que merezcan prisión preventiva oficiosa o se clasifiquen como graves por la ley, previo dictamen del órgano ejecutor de la sanción en el que informe respecto a la viabilidad o no del beneficio, expresando sus razones y fundamentos, siempre que sea por cuestiones humanitarias, sociales o de equidad, o existan indicios consistentes de violaciones graves a los derechos humanos de la persona sentenciada, y ésta, además, de haber observado buena conducta durante su reclusión, reúna alguno de los requisitos siguientes:
 
-I.- Que hayan prestado importantes servicios a la Nación o al Estado;
+I.- Que se trate de una persona indígena, víctima de discriminación por su pertenencia a un grupo, etnia y diversidad cultural o de alguna otra violación grave a sus derechos humanos, en cuyo caso se analizarán los usos, costumbres, tradiciones y cultura inherentes a dicha unidad social;
 
-II.- Que sean merecedores de él, por razones humanitarias o sociales y que hayan observado buena conducta durante su reclusión;
+II.- Que se trate de persona mayor de 70 años y que haya cumplido con al menos una cuarta parte de la pena privativa de la libertad impuesta, independientemente del tiempo de su duración;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 1994)</small>
+III.- Que padezca una enfermedad en fase terminal, dictaminada por médico especialista o perito de Institución de salud pública, independientemente del tiempo compurgado;
 
-III.- Que el delito por el que se le condenó no sea de los que se clasifican como graves.
+IV.- Que haya realizado acciones destacadas en beneficio de la comunidad, siempre y cuando se hayan realizado de manera lícita;
+
+V.- Que se trate de mujer, cuya pena privativa de la libertad sea menor de cinco años, desde una perspectiva de género, o
+
+VI.- Que se trate de delitos cuyo origen revistan un carácter político.
 
 ###### Artículo 123.
 
@@ -6756,5 +6762,13 @@ P.O. 4 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE SE ADICIONAN LA SECCIÓN OCTAVA “DELITO DE CIBERACOSO”, AL CAPÍTULO UNDÉCIMO DELITOS SEXUALES; Y EL ARTÍCULO 278 NONIES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 122 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
