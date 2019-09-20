@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2019-06-03"
+last_updated: "2019-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -843,11 +845,31 @@ El Gobierno del Estado, coadyuvará con los Servicios de Salud de Nayarit, en la
 
 ### CAPITULO VII. SALUD MENTAL
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 66.
 
-Salud mental es el bienestar psíquico que experimenta el ser humano como resultado del buen desempeño de los aspectos cognoscitivos, afectivos y conductuales, para el ejercicio pleno de sus capacidades, logrando un desarrollo óptimo de sus potencialidades individuales y de convivencia en sociedad.
+La salud mental, se define como el bienestar psíquico que experimenta de manera consciente una persona como resultado de su buen funcionamiento en los aspectos cognoscitivos, afectivos y conductuales, que le permiten el despliegue óptimo de sus potencialidades individuales para la convivencia, el trabajo y la recreación, de manera que pueda contribuir a su comunidad.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
+
+Toda persona que habite o transite en el estado de Nayarit, independientemente de su origen étnico, género, edad, condición social, condiciones de salud, religión, opiniones, el estado civil, orientación sexual o cualquier otra que atente contra la dignidad humana, tienen derecho a la salud mental.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
+
+El Gobierno del Estado, las dependencias e instituciones públicas y sociales en el ámbito de sus respectivas competencias, tienen la obligación de garantizar el cumplimiento de este derecho, mediante una política transversal, con respeto a los derechos humanos y con un enfoque de género.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 66 BIS.- La familia desempeña una función esencial en el desarrollo de las potencialidades de las personas con trastornos mentales y del comportamiento, para ello procurará:
+
+I. Proporcionar apoyo, cuidados, educación, protección a la salud, alimentación suficiente y adecuada;
+
+II. Respetar los principios de autonomía individual, independencia, igualdad, no discriminación, y todos aquellos que garanticen la igualdad en el ejercicio de sus derechos, y
+
+III. Participar en actividades culturales, recreativas, deportivas y de esparcimiento, que contribuyan al desarrollo integral de las personas con algún trastorno mental y del comportamiento.
+
+Corresponde a la Secretaría de Salud del Estado, promover debida asistencia, asesoría, orientación, capacitación y adiestramiento necesario para enfrentar dicha enfermedad mental.
 
 > <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
 
@@ -855,33 +877,61 @@ Salud mental es el bienestar psíquico que experimenta el ser humano como result
 
 La prevención y atención de las enfermedades mentales tendrá carácter prioritario y se basará en el conocimiento de los factores que la afectan, especialmente en las causas que originen las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental, otorgando mayor prioridad a aquellos desequilibrios provocados por la violencia intrafamiliar en mujeres y menores de edad.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 68.
 
-La atención de los trastornos mentales y del comportamiento deberá brindarse con un enfoque comunitario y bajo una perspectiva de reinserción social con estricto respeto a los derechos humanos de los usuarios de estos servicios, ésta se basará en:
+Se consideran trastornos mentales en particular, aquellas afecciones psicopatológicas que presentan las personas y que requieren una atención prioritaria derivado del grado de peligrosidad para la vida del paciente, de terceros o de la propiedad.
 
-I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y
+> <small>(ADICIONADO [N. DE E. ÉSTE PÁRRAFO], P.O. 20 DE SEPTIEMBRE DE 2019)</small>
+
+La atención de los trastornos mentales y del comportamiento deberá brindarse con un enfoque comunitario y bajo una perspectiva de reinserción social con estricto respeto a los derechos humanos. Esta se basará en:
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
+
+I. La rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y
+
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
 
 II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 68 BIS.- El Gobierno, a través de la Secretaría podrá elaborar acciones para la promoción, prevención, diagnóstico oportuno, tratamiento y rehabilitación de las enfermedades mentales, a través de mecanismos de coordinación con el Gobierno Federal, sensibilizar a la sociedad sobre los trastornos mentales y las alternativas para la solución de sus problemas.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 68 TER.- Derivado de los trastornos mentales, que presentan los diversos sectores de la sociedad y en virtud de que requieren cada uno de ellos atención especializada, los tipos de atención en salud mental que proporcione la Secretaría buscarán dar prioridad a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores, hombres con afecciones mentales y personas que se encuentran en situación de calle, de emergencia o desastre.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 68 QUATER.- En el ámbito de su competencia y sin menoscabo de las demás que se encuentren estipuladas en esta Ley y demás ordenamientos legales, corresponde a la Secretaría:
+
+I. Elaborar el Programa de Salud Mental para el Estado de Nayarit, conforme a los lineamientos establecidos en la Ley General y las Normas Oficiales Mexicanas, desde un enfoque de derechos humanos y perspectiva de género;
+
+II. Llevar a cabo campañas educativas para orientar, motivar e informar a la población sobre el concepto de salud mental, los estigmas imperantes en la población, los diversos trastornos mentales existentes, los síntomas que se presentan, las formas de prevención, y modos de atención, en coordinación con las dependencias e instituciones competentes;
+
+III. Operar una línea telefónica de Salud Mental y crear una página electrónica para brindar orientación y canalización, en su caso, y
+
+IV. Las demás acciones que contribuyan a la promoción del fomento de la salud mental de la población.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 69.
 
-Para la promoción y atención de la salud mental, los Servicios de Salud de Nayarit, así como los organismos o centros de atención en la materia, en coordinación con las autoridades competentes, fomentarán y apoyarán:
+Para la prevención y promoción de la salud mental, los Servicios de Salud de Nayarit, así como los organismos o centros de atención en la materia, en coordinación con las autoridades competentes, fomentarán:
 
-I. El desarrollo de actividades educativas, socio-culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia;
+I. Acciones que procuren una vida saludable a través de actividades educativas, recreativas y cívicas;
 
-II. La difusión de las orientaciones para la promoción de la salud mental;
+II. La realización de programas para prevención del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias, que causen dependencia y alteraciones mentales;
 
-III. La realización de programas para prevención del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias, que causen dependencia y alteraciones mentales;
+III. La creación de Grupos de Autoayuda;
 
-IV. La realización de programas para la prevención del maltrato infantil y de la violencia intrafamiliar;
+IV. La elaboración, difusión de los programas de salud mental, y programas para la prevención del maltrato infantil y de la violencia intrafamiliar;
 
 V. La coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas según corresponda, para la atención a los enfermos mentales que se encuentran en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental;
 
-VI. La investigación multidisciplinaria en materia de salud mental, y
+VI. La instrumentación de acciones de participación en redes sociales de Internet y en medios masivos de comunicación con la finalidad de proporcionar información precisa, objetiva y con base en criterios científicos, enfocada a la detección, la atención y la prevención de algún tipo de trastorno mental que induzca al suicidio, y
 
 VII. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
@@ -893,27 +943,55 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
 
-ARTICULO 70 BIS.- La persona con trastornos mentales y del comportamiento tendrá los siguientes derechos:
+ARTICULO 70 BIS.- Además de los derechos a que se refiere la Ley General de Salud y los Tratados Internacionales las personas con trastornos mentales y del comportamiento tendrán derecho:
 
-I. La mejor atención disponible en materia de salud mental y acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona;
+I. Al acceso oportuno, a una atención integral y adecuada por los servicios de salud mental acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona;
 
-II. Contar con un representante que cuide en todo momento sus intereses. Para esto, la autoridad judicial deberá cuidar que no exista conflicto de intereses por parte del representante;
+II. A recibir información clara, veraz, oportuna y completa, para la toma de decisiones relacionadas con su atención, diagnóstico, tratamiento y pronóstico;
 
-III. Al consentimiento informado de la persona o su representante, en relación al tratamiento a recibir;
+III. A la atención médica en el momento que lo solicite;
 
-IV. El tratamiento que reciba deberá estar basado en un plan prescrito individualmente con historial clínico, revisado periódicamente y modificado llegado el caso;
+IV. A ser informado sobre las campañas, planes, programas y servicios que proporcione el Gobierno en materia de salud mental;
 
-V. No ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
+V. A conservar la confidencialidad de información personal, a una historia clínica de conformidad con lo establecido en las normas oficiales y al anonimato de los participantes en estudios;
 
-VI. Ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares, y
+VI. Contar con un representante que cuide en todo momento sus intereses. Para esto, la autoridad judicial deberá cuidar que no exista conflicto de intereses por parte del representante;
 
-VII. La confidencialidad de la información psiquiátrica sobre su persona.
+VII. A que se informe al padre, madre, tutor o representante legal con veracidad de la condición y el posible efecto del programa, campaña o tratamiento que reciba la persona usuaria, en caso de que sea menor de edad o incapaz.
+
+Lo anterior es aplicable a toda la población, incluida aquella que se encuentra en unidades médicas de reclusorios y comunidades para adolescentes, así como a grupos vulnerables;
+
+VIII. A que se le apliquen exámenes de valoración, confiables y actualizados que consideren su entorno social o característica a estudiar y a conocer los alcances y las limitaciones de las evaluaciones realizadas;
+
+IX. A solicitar su diagnóstico diferencial;
+
+X. Ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares;
+
+XI. A la rehabilitación que le permita la reinserción familiar, laboral y comunitaria;
+
+XII. A la accesibilidad de familiares u otras personas, en el acompañamiento de las personas usuarias de los servicios de salud mental, salvo que medie contraindicación profesional;
+
+XIII. A otorgar o no su consentimiento informado;
+
+XIV. A recibir el medicamento que requiera de acuerdo a su disponibilidad y que el mismo se encuentre dentro del Cuadro Básico de Medicamentos;
+
+XV. Derecho a acceder y mantener el vínculo con el sistema educativo y el empleo, y no ser excluido por causa de su trastorno mental;
+
+XVI. A recibir un trato digno y con respeto a sus derechos humanos, por parte de sus familiares y a que estos le proporcionen alimentos y cuidados necesarios para su rehabilitación integral, y
+
+XVII. A que no se divulgue a terceros por alguno de los medios de comunicación existentes, la atención brindada por el personal de salud mental en las diversas instituciones que presten el servicio, cuando no medie su autorización expresa, salvo disposición contraria en esta y demás ordenamientos aplicables.
 
 > <small>(ADICIONADO, P.O. 4 DE MAYO DE 2013)</small>
 
 ARTICULO 70 TER.- El internamiento de personas con trastornos mentales y del comportamiento, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos y a los requisitos que determine la Secretaría de Salud por conducto de los Servicios de Salud de Nayarit y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 70 QUATER.- La atención médica que proporcionen los prestadores de servicio de salud mental deberá incluir la prevención, promoción, protección y procurará restaurar al máximo posible la salud física y mental a través del tratamiento, rehabilitación o referencia a instancias especializadas, así como información de medidas médicas alternativas si el caso lo requiere y cuando sea solicitado.
+
+La Secretaría establecerá mecanismos gratuitos de asesoría, orientación y atención especializada para los tipos de trastornos mentales y del comportamiento, procurando ofrecer mecanismos remotos de recepción a través de una línea pública de atención telefónica y por medios electrónicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -3218,3 +3296,11 @@ P.O. 3 DE JUNIO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Órgano del Gobierno del Estado.
 
 SEGUNDO.- Los Servicios de Salud de Nayarit contarán con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente decreto, a fin de que realicen las adecuaciones reglamentarias, administrativas y demás que resulten necesarias para la plena eficacia de los artículos 56 y 59 del presente Decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT, EN MATERIA DE SALUD MENTAL".]
+
+PRIMERO. El presente decreto entrará en vigor 180 días después de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Las erogaciones previstas en el presente Decreto, deberán ser consideradas en el Presupuesto de Egresos del Estado de Nayarit para el Ejercicio Fiscal 2020 para el cumplimiento del presente decreto.
