@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-conducta-de-los-servidores-publicos-de-la-131262"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-10-10"
-last_updated: "2018-10-10"
+last_updated: "2019-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA SECRETARIA DEL ZACATECANO MIGRANTE DEL GOBIERNO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS A LA SECRETARÍA DEL ZACATECANO MIGRANTE DEL GOBIERNO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 21 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DEL ZACATECANO MIGRANTE DEL GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en el Suplemento al Número 81 del Periódico Oficial del Estado de Zacatecas, el miércoles 10 de octubre de 2018.
 
@@ -380,3 +382,15 @@ ATENTAMENTE
 NOMBRE Y FIRMA DEL SERVIDOR PÚBLICO
 
 ___________________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS A LA SECRETARÍA DEL ZACATECANO MIGRANTE”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se abroga el Acuerdo por el que se expide el Código de Conducta de las y los Servidores Públicos de la Secretaría, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en fecha 10 de octubre de 2018.
+
+TERCERO. Independientemente de la difusión oficial que se dé al presente Código de Conducta, tanto el Suscrito de la Secretaría, el Comité de Ética y de Prevención de Conflictos de Interés (CEPCI), así como los Directores de Área integrantes de la Secretaría, darán a conocer el presente Código de Conducta a todas las personas servidoras públicas adscritas a la Secretaría, para su debido cumplimiento.
