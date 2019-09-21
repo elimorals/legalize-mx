@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-rural-sustentable-del-estado-de-tabasco-68573
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-29"
-last_updated: "2018-05-30"
+last_updated: "2019-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Suplemento F del Periódico Oficial del Estado de Tabasco, el miércoles 29 de abril de 2009.
 
@@ -1361,7 +1361,9 @@ Además, apoyará la realización de estudios de mercado y la promoción de prod
 
 La política de financiamiento para el desarrollo rural sustentable se orientará a establecer un sistema financiero múltiple en sus modalidades, instrumentos, instituciones y agentes, que permita a los productores de todos los estratos y a sus organizaciones económicas y empresas sociales disponer de recursos financieros adaptados, suficientes, oportunos y accesibles para desarrollar exitosamente sus actividades económicas.
 
-Tendrán preferencia los pequeños productores y agentes económicos con bajos ingresos, las regiones del Estado con menor desarrollo económico y social, los proyectos productivos rentables o los que sean altamente generadores de empleo, así como la integración y fortalecimiento de la banca social y las cajas de ahorro rural. Serán reconocidas como parte de la banca social, todas aquellas instituciones financieras no públicas que, sin fines de lucro, busquen satisfacer las necesidades de servicios financieros de los agentes de la sociedad rural, en los términos de la legislación aplicable. La Comisión Intersecretarial Estatal, con la participación del Consejo Estatal, promoverá la integración del Sistema Estatal de Financiamiento Rural con la banca de desarrollo y la banca privada y social, las cuales desarrollarán sus actividades de manera concertada y coordinada.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+Tendrán preferencia los pequeños productores y agentes económicos con bajos ingresos, las regiones del Estado con menor desarrollo económico y social, los proyectos productivos rentables o los que sean altamente generadores de empleo, los que empleen tecnologías de mitigación y adaptación a los efectos del cambio climático, así como la integración y fortalecimiento de la banca social y las cajas de ahorro rural. Serán reconocidas como parte de la banca social, todas aquellas instituciones financieras no públicas que, sin fines de lucro, busquen satisfacer las necesidades de servicios financieros de los agentes de la sociedad rural, en los términos de la legislación aplicable. La Comisión Intersecretarial Estatal, con la participación del Consejo Estatal, promoverá la integración del Sistema Estatal de Financiamiento Rural con la banca de desarrollo y la banca privada y social, las cuales desarrollarán sus actividades de manera concertada y coordinada.
 
 ###### Artículo 119.
 
@@ -2148,3 +2150,11 @@ P.O. 30 DE MAYO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 117 POR EL QUE “SE REFORMA EL ARTÍCULO 118, PÁRRAFO SEGUNDO, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abrogan todas las disposiciones que se opongan al presente Decreto.
