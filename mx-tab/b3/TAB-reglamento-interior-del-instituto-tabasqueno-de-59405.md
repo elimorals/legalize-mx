@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-tabasqueno-de-59405"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-19"
-last_updated: "2017-08-30"
+last_updated: "2019-09-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2019.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de enero de 2008.
 
@@ -57,23 +57,37 @@ a) Comisionados: Comisionados del Instituto Tabasqueño de Transparencia y Acces
 
 b) Ley: Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
 
-c) Lineamientos Generales: Normas de carácter general y obligatorio que son expedidas por el Pleno del Instituto, para la debida observancia de las disposiciones de la Ley y todas las que sean necesarias para el ejercicio de la Transparencia y Acceso a la Información Pública.
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
 
-d) Pleno: Órgano Supremo del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+c) Ley de Datos: Ley de Protección de Datos Personales en posesión de Sujetos Obligados.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
 
-e) Órgano de Gobierno: Órgano colegiado integrado por los tres Comisionados propietarios que ejerce las facultades administrativas del Instituto.
+d) Lineamientos Generales: Normas de carácter general y obligatorio que son expedidas por el Pleno del Instituto, para la debida observancia de las disposiciones de la Ley y todas las que sean necesarias para el ejercicio de la Transparencia y Acceso a la Información Pública
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
 
-f) Presidente: Comisionado Presidente.
+e) Pleno: Órgano Supremo del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
-g) Reglamento: Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 21 DE SEPTIEMBRE DE 2019)</small>
 
-h) Reglamento Interior: Reglamento Interior del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+f) Órgano de Gobierno: Órgano colegiado integrado por los tres Comisionados propietarios que ejerce las facultades administrativas del Instituto.
 
-i) Secretario: Secretario Ejecutivo.
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+g) Presidente: Comisionado Presidente.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+h) Reglamento: Reglamento de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+i) Reglamento Interior: Reglamento Interior del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+j) Secretario: Secretario Ejecutivo
 
 ###### Artículo 3.
 
@@ -279,7 +293,9 @@ IV. Elegir y remover con causa justificada al Presidente;
 
 V. Aprobar la suscripción de convenios, acuerdos, bases de colaboración y demás actos a celebrarse con los demás sujetos obligados, con organismos públicos o privados, instituciones de educación y centros de investigación;
 
-VI. Resolver los recursos que se interpongan con fundamento en la Ley;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+VI. Resolver los recursos que se interpongan, así como los procedimientos establecidos en la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Tabasco.
 
 VII. Aprobar los mecanismos para el control y evaluación de las actividades del Instituto;
 
@@ -587,19 +603,19 @@ I. (DEROGADA, P.O. 30 DE AGOSTO DE 2017)
 
 II. (DEROGADA, P.O. 30 DE AGOSTO DE 2017)
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+III. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2019)
 
-III. Notificar los acuerdos y resoluciones que en su caso, le sean turnados por la Secretaría Ejecutiva, a través del Servidor Público que para tales efectos designe el Órgano de Gobierno;
-
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE SEPTIEMBRE DE 2019)</small>
 
 IV. Realizar las opiniones, estudios y proyectos solicitados por la Secretaría Ejecutiva, en los asuntos competencia del Instituto;
 
-V. Representar legalmente al Instituto en los procedimientos administrativos jurisdiccionales y judiciales que no correspondan a otra área;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2017)</small>
+V. Representar legalmente al Instituto en los procedimientos administrativos, laborales y judiciales que no correspondan a otra área;
 
-VI. Elaborar los proyectos de convenios, contratos y demás instrumentos jurídicos que deba suscribir el instituto.
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+VI. Elaborar los proyectos de convenios, contratos y demás instrumentos jurídicos, que deba suscribir el Instituto;
 
 VII. Realizar los trámites necesarios para que se publiquen en el Periódico Oficial del Estado, los acuerdos que el Instituto deba divulgar por ese medio;
 
@@ -607,27 +623,89 @@ VIII. Formular a nombre del Instituto o de su Presidente según corresponda, las
 
 IX. Apoyar y asesorar al Instituto en la elaboración de los informes que deban rendirse en los juicios de amparo promovidos en su contra y asistirlos en el trámite correspondiente;
 
-X. Custodiar la información reservada o confidencial cuando así sea solicitada por el Instituto para resolver un recurso;
+X. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
 
-XI. Elaborar, bajo la coordinación y supervisión de la Secretaría Ejecutiva, proyectos legislativos relacionados con el ámbito de competencia del Instituto;
+XI. Elaborar proyectos legislativos relacionados con el ámbito de competencia del Instituto;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE SEPTIEMBRE DE 2019)</small>
 
 XII. Asesorar a las unidades administrativas del Instituto;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
 
-XIII. Brindar asesoría a los Sujetos Obligados cuando así lo requieran, en asuntos relacionados con la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco y sus ordenamientos correlativos;
+XIII. Brindar asesoría a los Sujetos Obligados cuando así lo requieran, en asuntos relacionados con la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, la Ley de Datos y sus ordenamientos correlativos;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+XIV. Elaborar proyectos relativos a las disposiciones administrativas de carácter general para la debida aplicación y cumplimiento de las obligaciones de la Ley de Datos;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+XV. Proporcionar apoyo técnico a los Responsables para el cumplimiento de las obligaciones establecidas en la Ley de Datos;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+XVI. Elaborar y publicar previa aprobación del Pleno, estudios e investigaciones para difundir y ampliar el conocimiento sobre la Ley de Datos;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+XVII. Elaborar proyectos de convenios de colaboración con el Instituto Nacional y demás Órganos Garantes del país, para el cumplimiento de los objetivos previstos en la Ley General para la Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+XVIII. Vigilar y verificar el cumplimiento de la Ley de Datos y demás disposiciones que resulten aplicables en la materia;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+XIX. Aplicar Indicadores y criterios para evaluar el desempeño de los responsables respecto del cumplimiento de la Ley de Datos y demás disposiciones que resulten aplicables;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+XX. Emitir el dictamen con recomendaciones no vinculantes a las evaluaciones de impacto a la protección de Datos Personales que le sean presentadas;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+XXI. Realizar los trámites y sustanciación de los procedimientos de verificación por incumplimiento a las disposiciones de la Ley de Datos;
 
 > <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
 
-XIV. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
+XXII. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el Presidente o el Secretario Ejecutivo; y
 
 > <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2010)</small>
 
-XV. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
+XXIII. Las que le señale la Ley, el Reglamento o cualquier otra disposición legal aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 28 Bis.
+
+La Unidad de Protección de Datos Personales, fungirá como auxiliar a la Dirección Jurídica Consultiva y Protección de Datos Personales, en el desempeño de las siguientes acciones:
+
+I. Recibir, registrar y realizar los trámites y sustanciación de los procedimientos de verificación por incumplimiento a las disposiciones de la Ley de Datos, hasta dejarlos en estado de Resolución;
+
+II. Turnar la elaboración del proyecto de resolución correspondiente a los Comisionados Ponentes, de los procedimientos de verificación por incumplimiento a las disposiciones de la Ley de Datos que se encuentren en estado de resolución;
+
+III. Brindar asesoría a los Sujetos Obligados cuando así lo requieran, en asuntos relacionados con la Ley de Datos y sus ordenamientos correlativos;
+
+IV. Orientar y asesorar a los titulares en materia de protección de Datos Personales;
+
+V. Proporcionar apoyo técnico a los Responsables para el cumplimiento de las obligaciones establecidas en la Ley de Datos;
+
+VI. Elaborar proyectos de estudios e investigaciones para difundir y ampliar el conocimiento sobre la Ley de Datos;
+
+VII. Elaborar proyectos de convenios de colaboración con el Instituto Nacional y demás Órganos Garantes del país, para el cumplimiento de los objetivos previstos en Ley General para la Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables;
+
+VIII. Vigilar y verificar el cumplimiento de la Ley de Datos y demás disposiciones que resulten aplicables en la materia;
+
+IX. Elaborar proyectos de indicadores y criterios para evaluar el desempeño de los responsables respecto del cumplimiento de la Ley de Datos y demás disposiciones así como la aplicación de los mismos;
+
+X. Elaborar el proyecto de dictamen con recomendaciones no vinculantes a las evaluaciones de impacto a la protección de Datos Personales que le sean presentadas;
+
+XI. Las demás que le encomiende el Pleno, el Órgano de Gobierno, el presidente o el Director Jurídico Consultivo y Protección de Datos Personales; y
+
+XII. Las que le señale la Ley, el Reglamento o cualquier otra disposición normativa aplicable.
 
 ###### Artículo 29.
 
@@ -1054,3 +1132,11 @@ P.O. 30 DE AGOSTO DE 2017.
 PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su aprobación por parte del Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
 SEGUNDO. Publíquese para su debida difusión en el Periódico Oficial del Estado de Tabasco, en la Página Principal de Internet de este Órgano Garante, su Portal de Transparencia y a través de las cuentas oficiales en redes sociales.
+
+P.O. 21 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMAN, LOS INCISOS C), D), E), F). G), H), I) Y J) DEL ARTÍCULO 2, LAS FRACCIONES IV, XI, XII, XIII Y XIV DEL ARTÍCULO 28; SE ADICIONAN, EL INCISO E) DEL ARTÍCULO 2; LAS FRACCIONES XIV, XV, XVI, XVII, XVII (SIC), XIX Y XX DEL ARTÍCULO 28; EL ARTÍCULO 28 BIS; Y SE DEROGAN, LAS FRACCIONES III Y X DEL ARTÍCULO 28, TODOS DEL REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su aprobación por parte del Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+SEGUNDO.- Publíquese para su debida difusión en el Periódico Oficial del Estado de Tabasco, en la Página Principal de Internet de este Órgano Garante, su Portal de Transparencia y a través de las cuentas oficiales en redes sociales.
