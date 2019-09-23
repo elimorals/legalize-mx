@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2019-06-24"
+last_updated: "2019-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -119,7 +119,13 @@ e) Las instituciones de formación para el trabajo o las de cualquier otro tipo 
 
 f) El Servicio Profesional Docente;
 
-g) Sistema Estatal de Información Educativa.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+g) Sistema Estatal de Información Educativa; y
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+h) El Sistema Estatal para el Fortalecimiento de la Educación Media Superior y Superior;
 
 III. ELEMENTOS EDUCATIVOS
 
@@ -145,7 +151,9 @@ Para los efectos de esta Ley y las demás disposiciones que regulan al Sistema E
 
 Para efectos de esta ley se consideran instituciones educativas todas las que tienen como función única o principal la educación, mediante la realización de procesos escolarizados, no escolarizados o mixtos de cualquier tipo y nivel incluidos:
 
-I. La educación básica, en sus niveles de preescolar, primaria y secundaria en todos sus tipos y modalidades;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+I. La educación básica, en sus niveles de preescolar, primaria y secundaria en todas sus modalidades;
 
 II. La educación media superior, en sus diversas opciones de bachillerato profesional técnico;
 
@@ -337,7 +345,9 @@ El Ejecutivo del Estado ejercerá en coordinación con el Instituto de Educació
 
 Corresponden al Ejecutivo del Estado de manera concurrente con la Autoridad Educativa Federal, las atribuciones siguientes:
 
-I. Otorgar, negar o retirar el reconocimiento de validez oficial a estudios distintos de los de primaria, secundaria, normal y demás modalidades educativas para la formación de educadores de preescolar, primaria y secundaria que impartan los particulares, cumpliendo con los lineamientos que se fijen por la Autoridad Educativa;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+I. Otorgar, negar o retirar el reconocimiento de validez oficial a estudios distintos de los de preescolar, primaria, secundaria, normal y demás modalidades educativas para la formación de educadores de preescolar, primaria y secundaria que impartan los particulares, cumpliendo con los lineamientos que se fijen por la Autoridad Educativa;
 
 II. Apoyar y promover la investigación científica, tecnológica y humanística que de sustento a la innovación educativa;
 
@@ -355,9 +365,11 @@ VII. Vigilar el cumplimiento de esta Ley y las demás que con tal carácter esta
 
 El Instituto de Educación de Aguascalientes asumirá un papel de colaboración activa con el Ejecutivo del Estado y Autoridades Federales, buscando que los planes, programas y demás lineamientos federales se apliquen con calidad en todo el Estado y promoverá de manera permanente las modificaciones que resulten convenientes para el mejor desarrollo del Sistema Educativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 17.
 
-Corresponde al Ejecutivo del Estado; por conducto de la Autoridad Educativa competente, además de las atribuciones que le confiere la Ley General de Educación y de las concurrentes con las autoridades federales las siguientes:
+Corresponde al Ejecutivo del Estado, por conducto de la autoridad educativa local, además de las atribuciones que le confiere la Ley General de Educación y de las concurrentes con la autoridad educativa federal, las siguientes:
 
 I. Dirigir el Sistema Educativo Estatal de educación básica, media superior y superior, inicial, especial, de jóvenes y adultos y formación para el trabajo;
 
@@ -387,7 +399,9 @@ X. Proponer a la Secretaría de Educación Pública contenidos regionales que ha
 
 XI. Ajustar el calendario para cada ciclo lectivo de los tipos, niveles y modalidades a que se refiere la fracción anterior, conforme a lo dispuesto en el Artículo 51 de la Ley General de Educación, según los requerimientos y necesidades del Estado de Aguascalientes;
 
-XII. Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, y demás para la formación de maestros de educación básica, de acuerdo a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XII. Revalidar y otorgar equivalencias de estudios de la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, de acuerdo a la normatividad aplicable;
 
 XIII. Otorgar, negar o revocar autorización a los particulares para prestar la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
@@ -1109,7 +1123,13 @@ II. Un sistema estatal de becas, financiamientos y estímulos que integrará y c
 
 Las becas se destinarán a alumnos de educación básica, media y superior, los financiamientos a estudiantes de educación superior y los estímulos a la superación personal a estudiantes de todos los niveles; y
 
-III. Otros organismos que las autoridades estatales o municipales decidan crear para coadyuvar al logro de la calidad y equidad educativa.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+III. Un Sistema Estatal para el Fortalecimiento de la Educación Media Superior y Superior, integrado por personas al servicio de la educación, organismos públicos del sector educativo y demás elementos educativos que sean determinados mediante la normatividad que para tal efecto emita el Titular del Poder Ejecutivo, con el objeto de fortalecer la calidad educativa mediante la planeación, programación, organización y supervisión de los servicios educativos que brindan las Instituciones de Educación Media Superior y Superior; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+IV. Otros organismos que las autoridades estatales o municipales decidan crear para coadyuvar al logro de la calidad y equidad educativa.
 
 ### CAPÍTULO IX. Del Financiamiento de la Educación
 
@@ -1261,13 +1281,17 @@ VII. El fomento de una orientación vocacional y profesional adecuada; y
 
 VIII. La formación en valores humanos, así como el manejo de los sentimientos, emociones estados de ánimo; de acuerdo a su etapa de desarrollo.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 75.
 
-Las autoridades educativas del Estado, velarán porque exista un adecuado sistema estatal de orientación vocacional, cuyo propósito será el de establecer los lineamientos para que los estudiantes de nivel medio superior obtengan la información pertinente de las opciones profesionales y campos laborales.
+Las autoridades educativas del Estado, velarán porque exista un adecuado sistema estatal de orientación vocacional, cuyo propósito será el de establecer los lineamientos para que los estudiantes de tipo medio superior obtengan la información pertinente de las opciones profesionales y campos laborales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 76.
 
-El Instituto de Educación de Aguascalientes, en el ámbito de su competencia, y como coordinador del Sistema Educativo Estatal, será responsable de coordinar la planeación, instrumentación y evaluación de las instituciones que ofrezcan este tipo de educación, a través de la instancia u organismo que se establezca para tal efecto. Por tanto buscará:
+El Instituto de Educación de Aguascalientes, en el ámbito de su competencia, y como coordinador del Sistema Educativo Estatal, será responsable de coordinar la planeación, instrumentación y evaluación de las instituciones que ofrezcan este tipo de educación, a través del Sistema Estatal para el Fortalecimiento de la Educación Media Superior y Superior, por tanto buscará:
 
 I. Que los servicios de este tipo ofrecidos por los diversos subsistemas de la Entidad se complementen para responder a las necesidades sociales y al mercado productivo de Aguascalientes;
 
@@ -1285,33 +1309,21 @@ VII. Regular la oferta y la demanda de acceso a la educación media superior de 
 
 VIII. Establecer los lineamientos, para el cumplimiento del servicio social de educación media superior de formación profesional técnico, educación de formación bivalente y bachillerato tecnológico y para la expedición de los respectivos reglamentos internos de las instituciones educativas.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 77.
 
-Las instituciones que imparten la educación media superior deberán formar parte de la Comisión Estatal de Educación Media de conformidad a los requisitos y lineamientos aplicables, la cual estará integrada por:
+Como parte del Sistema Estatal para el Fortalecimiento de la Educación Media Superior y Superior funcionará la Comisión Estatal para la Planeación de la Educación Media Superior, con el objetivo de coadyuvar con el Instituto de Educación de Aguascalientes en la planeación, desarrollo y evaluación de los servicios que ofrezcan las Instituciones de Educación Media Superior, que operen en el Estado de Aguascalientes, así mismo coordinará con el Instituto de Educación de Aguascalientes los procesos de otorgamiento, seguimiento, actualización o revocación del Reconocimiento de Validez Oficial de Estudios.
 
-I. El C. Gobernador Constitucional del Estado, o quien el designe quien la presidirá;
+La integración, facultades, obligaciones y funcionamiento de la Comisión Estatal para la Planeación de la Educación Media Superior se establecerán en la normatividad que para tal efecto emita el Titular del Poder Ejecutivo.
 
-II. El Director General del Instituto de Educación de Aguascalientes, quien actuará como Secretario Ejecutivo;
-
-III. El Director de Educación Media y Superior del Instituto de Educación de Aguascalientes, quién representará a los subsistemas pertenecientes al Instituto de Educación de Aguascalientes;
-
-IV. El Representante Estatal de la Subsecretaría de Educación Media Superior, quién representará a los subsistemas pertenecientes al Instituto de Educación de Aguascalientes;
-
-V. Un representante de organismos públicos descentralizados de educación media;
-
-VI. El Secretario de Desarrollo Económico;
-
-VII. Un representante de la comunidad académica de educación media en el estado, designado por el Gobernador Constitucional del Estado;
-
-VIII. Un representante del sector productivo, que tenga nexos en sus actividades con el sector educativo, designado por el Gobernador del Estado; y
-
-IX. El Delegado de la Secretaría de Educación Pública.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 78.
 
-Para otorgar el reconocimiento de validez oficial de estudios, la Comisión Estatal de Educación Media, deberá aprobar mediante el voto de la mayoría sus integrantes, el reconocimiento de validez oficial de estudios.
+Para el otorgamiento de Reconocimientos de Validez Oficial de Estudios, la Comisión Estatal para la Planeación de la Educación Media Superior, deberá aprobar mediante el voto de la mayoría (sic) sus integrantes, las propuestas de incorporaciones previamente validadas por el Instituto de Educación de Aguascalientes.
 
-En el caso de los planes y programas de estudios que opera el Instituto de Educación de Aguascalientes, la Comisión determinará la autorización de reconocimiento de validez oficial de estudios, de conformidad a la modalidad educativa (sic) se presente.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 79.
 
@@ -1330,6 +1342,16 @@ Para implementar esta opción el Instituto de Educación de Aguascalientes, en c
 ###### Artículo 80.
 
 La educación superior se imparte después de la educación media superior y estará compuesta por educación técnica superior, profesional asociado, licenciatura, especialización, maestría y doctorado. La educación superior incluye la educación normal y demás para la formación de maestros, la tecnológica y la universitaria en todos sus niveles y especialidades.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+Artículo 80 A.- Como variante de la modalidad educativa mixta, las Instituciones de Educación Superior podrán contar con la opción de formación dual, la cual consiste (sic) el desarrollo del proceso enseñanza-aprendizaje, que se lleva a cabo de manera combinada tanto en las instituciones educativas, como en contextos reales en el sector productivo, es decir, se lleva a cabo de manera alternada, en el cual se privilegia el aprendizaje práctico en el entorno real de trabajo, con la posibilidad de acreditar las asignaturas en campo sin descuidar la formación teórica y práctica en la (sic) Instituciones de Educación Superior.
+
+Su objetivo es lograr una mayor pertinencia y empleabilidad de los egresados, al fortalecer sus competencias profesionales adquiridas en la Institución de Educación Superior, con una formación específica, acorde a las necesidades de las empresas de los sectores productivos de la región.
+
+Con el fin de impulsar dicha modalidad en las Instituciones de Educación Superior que operen en el Estado y como parte del Sistema Estatal para el Fortalecimiento de la Educación Media Superior y Superior se crea el Consejo Estatal para la Educación Superior en la Modalidad Dual, cuyo objetivo será coadyuvar con el Instituto de Educación de Aguascalientes en el establecimiento, revisión, seguimiento, actualización y verificación de los requisitos indispensables para la instalación y funcionamiento del Modelo Dual en las Instituciones de Educación Superior para lograr la vinculación exitosa y significativa entre las instituciones educativas, el sector productivo y los estudiantes.
+
+La integración, facultades, obligaciones y funcionamiento de dicho Consejo se establecerán en la normatividad que para tal efecto emita el Titular del Poder Ejecutivo.
 
 ###### Artículo 81.
 
@@ -1359,51 +1381,21 @@ III. Facultades y obligaciones de las autoridades individuales y de los cuerpos 
 
 IV. Una clara distinción entre los aspectos académicos y los laborales.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 84.
 
-La Autoridad Educativa Estatal, a través de la Comisión Estatal de Educación Superior, coordinará la planeación y evaluación de los servicios que ofrezca el conjunto de las instituciones de educación superior que operen en el Estado de Aguascalientes. Los Institutos Tecnológicos y otros servicios educativos aun no transferidos se regirán por la normatividad aplicable.
+Como parte del Sistema Estatal para el Fortalecimiento de la Educación Media Superior y Superior funcionará la Comisión Estatal para la Planeación de la Educación Superior, con el objetivo de coadyuvar con el Instituto de Educación de Aguascalientes en la planeación, desarrollo y evaluación de los servicios que ofrezcan las Instituciones de Educación Superior, que operen en el Estado de Aguascalientes, así mismo coordinará con el Instituto de Educación de Aguascalientes los procesos de otorgamiento, seguimiento, actualización o revocación del Reconocimiento de Validez Oficial de Estudios.
 
-Para otorgar el reconocimiento de validez oficial de estudios, la Comisión Estatal de Educación Superior, deberá aprobar mediante el voto de la mayoría (sic) sus integrantes, el reconocimiento de validez oficial de estudios.
+La integración, facultades, obligaciones y funcionamiento de la Comisión Estatal para la Planeación de la Educación Superior se establecerán en la normatividad que para tal efecto emita el Titular del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 85.
 
-La Comisión Estatal de Educación Superior, aprobará las actividades de planeación en materia de educación superior, así como los procesos de otorgamiento, seguimiento, renovación o revocación de reconocimiento de validez oficial de estudios de instituciones privadas de educación superior, la cual se integrará por:
+Para el otorgamiento de Reconocimientos de Validez Oficial de Estudios, la Comisión Estatal para la Planeación de la Educación Superior, deberá aprobar mediante el voto de la mayoría (sic) sus integrantes, las propuestas de incorporaciones previamente validadas por el Instituto de Educación de Aguascalientes.
 
-I. El Titular del Ejecutivo del Estado o quien él designe, quien la presidirá;
-
-II. El Director General del Instituto de Educación de Aguascalientes, quien será el Secretario Ejecutivo;
-
-III. El Director de Educación Media y Superior del Instituto de Educación de Aguascalientes;
-
-IV. Un representante del Sistema de Educación Superior Tecnológica Federal;
-
-V. Dos representantes de Instituciones Estatales de Educación Superior;
-
-VI. Dos representantes de Instituciones Privadas de Educación Superior;
-
-VII. Un representante del Subsistema de Educación Normal;
-
-VIII. El Secretario de Desarrollo Económico;
-
-IX. Un representante del sector productivo; y
-
-X. El Delegado de la Secretaría de Educación Pública.
-
-Para la designación de instituciones integrantes de la Comisión Estatal de Educación Superior, se considerarán a las instituciones de mayor antigüedad y las que demuestren mediante evaluaciones externas contar con los mayores estándares de calidad.
-
-La permanencia por parte de las instituciones de educación superior en la Comisión Estatal de Educación Superior será por un periodo de tres años, sin perjuicio de que puedan ser reelegidos.
-
-La Comisión Estatal de Educación Superior, actuará conforme al Reglamento Interior que para el efecto emitió conjuntamente con el Instituto de Educación de Aguascalientes.
-
-En dicho Reglamento se precisan:
-
-I. Las funciones y atribuciones que tendrá, tanto de carácter indicativo como imperativo;
-
-II. Sus mecanismos de operación y coordinación; y
-
-III. Los estudios para poder regular la oferta educativa de las instituciones de educación superior.
-
-Las resoluciones que emita la Comisión Estatal de Educación Superior serán vinculatorias para el Instituto de Educación de Aguascalientes y para toda institución privada que ofrezca servicios de educación superior en el Estado.
+Asimismo, las resoluciones que emita la Comisión Estatal para la Planeación de la Educación Superior serán vinculatorias para el Instituto de Educación de Aguascalientes y para toda institución privada que ofrezca servicios de educación superior en el Estado.
 
 ###### Artículo 86.
 
@@ -1413,13 +1405,17 @@ La planeación y la evaluación se orientarán a la definición de un proyecto e
 
 Las Universidades y demás instituciones de educación superior podrán suscribir convenios con el Instituto Nacional para la Evaluación de la Educación, en los términos de su Ley.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 87.
 
-El Instituto de Educación de Aguascalientes promoverá el establecimiento de convenios entre la autoridad estatal y la federal para que conjuntamente con la Comisión Estatal de Educación Superior, mediante los mecanismos que considere pertinentes, asuma en la Entidad el papel de supervisión de las instituciones de educación superior privadas que hayan obtenido reconocimiento de validez oficial de estudios a través de la federación.
+El Instituto de Educación de Aguascalientes promoverá el establecimiento de convenios entre la autoridad estatal y la federal para que conjuntamente con la Comisión Estatal para la Planeación de la Educación Superior, mediante los mecanismos que considere pertinentes, asuma en la Entidad el papel de supervisión de las instituciones de educación superior privadas que hayan obtenido reconocimiento de validez oficial de estudios a través de la federación.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 88.
 
-Los estudiantes de educación superior prestarán servicio social de conformidad con las disposiciones reglamentarias del Artículo 5° de la Constitución Política del (sic) Estados Unidos Mexicanos, del Artículo 24 de la Ley General de Educación, de la derivada de esta ley y demás normatividad aplicable. La prestación del servicio social deberá llevarse a efecto en instituciones con áreas acordes al perfil de la carrera y estará sujeto a la evaluación de los resultados.
+Los estudiantes de educación superior prestarán servicio social de conformidad con las disposiciones reglamentarias del Artículo 5° de la Constitución Política de los Estados Unidos Mexicanos, del Artículo 24 de la Ley General de Educación, de la derivada de esta ley y demás normatividad aplicable. La prestación del servicio social deberá llevarse a efecto en instituciones con áreas acordes al perfil de la carrera y estará sujeto a la evaluación de los resultados.
 
 ###### Artículo 89.
 
@@ -1939,9 +1935,11 @@ El recurso de revisión, versará exclusivamente respecto de la aplicación corr
 
 ### CAPÍTULO I. De la Dirección del Sistema Educativo Estatal
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 145.
 
-La responsabilidad de la dirección y de la operación del Sistema Educativo Estatal, es del Instituto de Educación de Aguascalientes, de acuerdo a lo establecido en el Artículo 3° del Decreto de Ley que lo creó el 17 de enero de 1993.
+La responsabilidad de la dirección y de la operación del Sistema Educativo Estatal, es del Instituto de Educación de Aguascalientes.
 
 ### CAPÍTULO II. Del Proceso Educativo
 
@@ -1967,6 +1965,8 @@ Los planes y programas de estudio, al igual que las normas administrativas y cua
 
 De acuerdo con el Artículo 49 de la Ley General de Educación, el proceso educativo se basará en los principios de libertad y responsabilidad que aseguren la armonía de relaciones entre educandos y educadores y promoverá el trabajo en grupo para asegurar la comunicación y el dialogo entre educandos, educadores, padres de familia e instituciones públicas y privadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 149.
 
 El maestro es el responsable inmediato de la operación y conducción del proceso educativo para lograr los fines de la educación, por lo que deberá:
@@ -1975,7 +1975,9 @@ I. Planear el desarrollo de sus clases acorde con los objetivos de los planes y 
 
 II. Impartir sus clases con responsabilidad y profesionalismo para que todos los alumnos aprendan y así cumplir con el mandato de la Constitución Política de los Estados Unidos Mexicanos de garantizar el derecho a la educación;
 
-III. Garantizar la normalidad mínima señalada en el Artículo 41 de esta Ley que requiere el proceso educativo, respetando el calendario escolar, el horario de clases y la entrega de libros y materiales educativos de que se disponga;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+III. Garantizar la normalidad mínima señalada en el Artículo 51 de esta Ley que requiere el proceso educativo, respetando el calendario escolar, el horario de clases y la entrega de libros y materiales educativos de que se disponga;
 
 IV. Realizar la evaluación formativa y sanativa del aprovechamiento escolar de sus alumnos;
 
@@ -2119,7 +2121,9 @@ IV.- Proponer las medidas que estimen conducentes para alcanzar los objetivos se
 
 V.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
 
-La organización y el funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a las disposiciones que la autoridad educativa federal señale.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+La organización y el funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a las disposiciones que la autoridad educativa señale.
 
 ###### Artículo 156.
 
@@ -2195,6 +2199,10 @@ La autorización y el reconocimiento incorporan a las instituciones que los obte
 
 Los reconocimientos tendrán una vigencia de cinco años, después de la cual, para poder renovarse, se deberán evaluar la calidad y pertinencia de los servicios ofrecidos, así como del cumplimiento de lo establecido en los Artículos 78, 84 y 165 de esta ley.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+Los Particulares podrán suspender el servicio educativo por una sola ocasión y hasta por tres ciclos escolares continuos, los cuales deberán renovarse anualmente, debiendo justificar dicha situación ante el Instituto de Educación de Aguascalientes, mediante aviso que presente en escrito libre, dentro de los diez días hábiles posteriores a la fecha de inicio del ciclo escolar que corresponda. El Instituto de Educación de Aguascalientes en un plazo no mayor a quince días hábiles posteriores a la recepción del citado aviso, emitirá la procedencia o improcedencia de la suspensión.
+
 ###### Artículo 165.
 
 El Instituto de Educación de Aguascalientes otorgará las autorizaciones y reconocimientos de validez oficial de estudios cuando los solicitantes cuenten además de los requisitos establecidos en los acuerdos de incorporación con lo siguiente:
@@ -2205,7 +2213,9 @@ I. Con personal que acredite la preparación adecuada y, en su caso, satisfaga l
 
 II. Con instalaciones que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad que el Instituto de Educación de Aguascalientes determine, además deberán contar con espacios adecuados para la disposición y separación de sus residuos, de acuerdo a la normatividad ambiental aplicable. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento;
 
-III. Para el caso de instituciones de educación superior, contar con la aprobación de la Comisión Estatal de Educación Superior, quien deberá resolver mediante el voto de la mayoría de sus integrantes, la procedencia de la autorización de reconocimiento de validez oficial de estudios, de conformidad con el Artículo 84 de esta Ley.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+III. Para el caso de instituciones de educación superior, contar con la aprobación de la Comisión Estatal para la Planeación de la Educación Superior, quien deberá resolver mediante el voto de la mayoría de sus integrantes, la procedencia del reconocimiento de validez oficial de estudios, de conformidad con el Artículo 84 de esta Ley.
 
 ###### Artículo 166.
 
@@ -2247,7 +2257,9 @@ VI. Pagar al Instituto de Educación de Aguascalientes, de acuerdo a lo establec
 
 VII. Participar en los programas que el Instituto de Educación de Aguascalientes promueva para el mejoramiento profesional de los maestros y directivos en servicio, así como a recibir materiales que en su oportunidad se entreguen para tal fin;
 
-VIII. Las instituciones de educación superior particulares deberán establecer programas de trabajo que les permitan dar cumplimiento a lo estipulado en los Artículos 81 y 88 de esta Ley. Dichos programas deberán ser aprobados por la Comisión Estatal de Educación Superior;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+VIII. Las instituciones de educación superior particulares deberán establecer programas de trabajo que les permitan dar cumplimiento a lo estipulado en los Artículos 81 y 88 de esta Ley. Dichos programas deberán ser aprobados por la Comisión Estatal para la Planeación de la Educación Superior;
 
 IX. Facilitar al Instituto de Educación de Aguascalientes cualquier tipo de información que éste le requiera relacionadas con la prestación del Servicio Educativo que impartan, lo anterior en los términos que el mismo Instituto establezca;
 
@@ -2309,83 +2321,149 @@ IV. Realizar certificaciones de competencias laborales en el caso de carreras tr
 
 Son infracciones de quienes presten servicios educativos:
 
-I. Realizar o permitir se realice publicidad dentro del plantel escolar que fomente el consumo, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, distintos de alimentos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-II. Realizar o permitir que se establezca propaganda política en el plantel escolar;
+I. Abstenerse de cumplir con las disposiciones del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y de cualquiera de las obligaciones previstas en los Artículos correspondientes de esta ley y demás normatividad aplicable;
 
-III. Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-IV. Suspender el servicio educativo sin que medie motivo justificado, caso fortuito o fuerza mayor, a excepción de los casos específicamente señalados por la Constitución Política de los Estados Unidos Mexicanos y las leyes reglamentarias;
+II. Realizar o permitir se realice publicidad dentro del plantel escolar que fomente el consumo, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, distintos de alimentos;
 
-V. Suspender clases en días y horas no autorizados por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-VI. No utilizar los libros de texto que la Secretaría de Educación Pública autorice y determine para la educación básica;
+III. Realizar o permitir que se establezca propaganda política en el plantel escolar;
 
-VII. Incumplir los lineamientos generales para el uso de material educativo para la educación preescolar, la primaria y la secundaria;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-VIII. Contravenir las disposiciones contempladas en el Artículo 7° de la Ley General de Educación;
+IV. Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento;
 
-IX. Cuando los particulares que impartan estudios con autorización o con reconocimiento omitan mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-X. Imponer a los educandos medidas disciplinarias que resulten denigrantes;
+V. Imponer a los educandos medidas disciplinarias que resulten denigrantes;
 
-XI. Atentar contra la integridad física, moral o psicológica de los educandos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XII. Efectuar actividades que, por su propia naturaleza, impliquen riesgos en la salud o seguridad de los miembros de la comunidad escolar;
+VI. Atentar contra la integridad física, moral o psicológica de los educandos;
 
-XIII. No informar de inmediato a la autoridad correspondiente de la comisión de algún delito en agravio de las y los educandos, cuando las y los educadores así como las autoridades educativas, tengan conocimiento del mismo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XIV. Abstenerse de cumplir con los planes y programas de estudio que las autoridades educativas hayan determinado;
+VII. Efectuar actividades que, por su propia naturaleza, impliquen riesgos en la salud o seguridad de los miembros de la comunidad escolar;
 
-XV. Proporcionar información falsa u ocultar información a las autoridades competentes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XVI. Hacer caso omiso a las solicitudes de Información que requiera el Instituto de Educación de Aguascalientes;
+VIII. No informar de inmediato a la autoridad correspondiente de la comisión de algún delito en agravio de las y los educandos, cuando las y los educadores así como las autoridades educativas, tengan conocimiento del mismo;
 
-XVII. No atender los citatorios que emita el Instituto de Educación de Aguascalientes;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XVIII. No proporcionar el número de becas en los términos establecidos en esta Ley;
+IX. Administrar a los educandos, medicamentos que contengan sustancias psicotrópicas o estupefacientes, vacunas o cualquier otro que requiera prescripción médica y consentimiento informado de los padres o tutores;
 
-XIX. No contar con el personal que acredite la preparación adecuada para impartir educación;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XX. No contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine;
+X. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
 
-XXI. No cumplir con los planes y programas de estudio que la autoridad otorgante considere procedentes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XXII. Dar a conocer antes de su aplicación, los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación, a quienes habrán de presentarlos;
+XI. Abstenerse de implementar, otorgar y registrar mensualmente las Capacitaciones para Padres de Familia establecidas en el Artículo 154 A de la presente Ley;
 
-XXIII. Administrar a los educandos, sin previa prescripción médica y consentimiento informado de los padres o tutores, medicamentos que contengan sustancias psicotrópicas o estupefacientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XXIV. Promover en los educandos, por cualquier medio, el uso de medicamentos que contengan sustancias psicotrópicas o estupefacientes;
+XII. No enviar a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes el listado de aquellos padres, madres o tutores que deban acudir a los Cursos Intensivos para Padres de conformidad con lo establecido por el Artículo 154 A de la presente Ley.
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XXV. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para su atención;
+XIII. Suspender clases en días y horas no autorizados por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor;
 
-XXVI. Oponerse a las actividades de evaluación, inspección y vigilancia de las autoridades competentes, así como no proporcionar información veraz y oportuna;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XXVII. Incumplir con las medidas correctivas derivadas de las visitas de inspección;
+XIV. No utilizar los libros de texto que la Secretaría de Educación Pública autorice y determine para la educación básica;
 
-XXVIII. Condicionar la incorporación o inscripción al servicio educativo público, las calificaciones o su permanencia en el mismo al pago, solicitando a los educandos, sus padres o tutores cuotas o aportaciones en efectivo o en especie;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XXIX. En el caso de educación inicial, no contar con personal que acredite la preparación adecuada para impartir educación; no contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad educativa determine;
+XV. Incumplir los lineamientos generales para el uso de material educativo para la educación preescolar, la primaria y la secundaria;
 
-XXX. Expedir u otorgar certificados, constancias, diplomas, títulos o grados académicos, sin que el educando haya cubierto los requisitos necesarios para el efecto;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XXXI. Impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente;
+XVI. Disponer indebidamente de los bienes y recursos destinados a la educación;
 
-XXXII. Ostentarse como plantel incorporado sin estarlo; u omitir que imparten estudios sin reconocimiento de validez oficial, en su correspondiente documentación y publicidad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XXXIII. Disponer indebidamente de los bienes y recursos destinados a la educación;
+XVII. Condicionar la incorporación o inscripción al servicio educativo público, las calificaciones o su permanencia en el mismo al pago, solicitando a los educandos, sus padres o tutores cuotas o aportaciones en efectivo o en especie;
 
-XXXIV.- Abstenerse de cumplir con las disposiciones del Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y de cualquiera de las obligaciones previstas en los Artículos correspondientes de esta ley y demás normatividad aplicable;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+XVIII. Expulsar, segregar o negarse a prestar el servicio educativo a personas con discapacidad o que presenten problemas de aprendizaje o condicionar su aceptación o permanencia en el plantel a someterse a tratamientos médicos específicos, o bien, presionar de cualquier manera a los padres o tutores para que acudan a médicos o clínicas específicas para su atención;
 
-XXXV.- Abstenerse de implementar, otorgar y registrar mensualmente las Capacitaciones para Padres de Familia establecidas en el Artículo 154 A de la presente Ley;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+XIX. Expulsar o suspender el servicio educativo a estudiantes de niveles educativos preescolar y primaria así como expulsar a estudiantes de nivel de educación secundaria;
 
-XXXVI.- No enviar a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes el listado de aquellos padres, madres o tutores que deban acudir a los Cursos Intensivos para Padres de conformidad con lo establecido por-el Artículo 154 A de la presente Ley.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XX. Dar a conocer antes de su aplicación, los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación, a quienes habrán de presentarlos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXI. Abstenerse de cumplir con los planes y programas de estudio que las autoridades educativas hayan determinado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXII. Proporcionar información falsa u ocultar información a las autoridades competentes.
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXIII. Hacer caso omiso a las solicitudes de Información y documentación que requiera el Instituto de Educación de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXIV. No atender los citatorios que emita el Instituto de Educación de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXV. En el caso de particulares incorporados, no proporcionar el número de becas en los términos establecidos en esta Ley;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXVI. En el caso de particulares incorporados, no contar con el personal que acredite la preparación adecuada para impartir educación;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXVII. En el caso de particulares incorporados para educación inicial no contar con instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXVIII. Cuando los particulares que impartan estudios con autorización o con reconocimiento de validez oficial de estudios omitan mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXIX. Oponerse a las actividades de evaluación, inspección y vigilancia de las autoridades competentes, así como no proporcionar información veraz y oportuna;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXX. Incumplir con las medidas correctivas derivadas de las visitas de inspección;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXXI. Expedir u otorgar certificados, constancias, diplomas, títulos o grados académicos, sin que el educando haya cubierto los requisitos necesarios para el efecto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXXII. Inscribir a un alumno en un grado que no le corresponda cursar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXXIII. Retener los documentos escolares que acreditan oficialmente las calificaciones y el grado de estudios de los educandos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXXIV. En el caso de particulares incorporados suspender el servicio más de tres ciclos escolares continuos o sin contar con la validación del Instituto de Educación de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXXV. Impartir la educación preescolar, la primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente; y
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XXXVI. Ostentarse como plantel incorporado sin estarlo; u omitir que imparten estudios sin reconocimiento de validez oficial, en su correspondiente documentación y publicidad.
 
 ### CAPÍTULO II. De las Sanciones
 
@@ -2405,43 +2483,21 @@ IV. Clausura de los establecimientos educativos.
 
 Para determinar la sanción se considerarán las circunstancias en que se cometió la infracción, la gravedad de la infracción según los daños y perjuicios que se hayan producido o puedan producirse a los educandos, las condiciones socioeconómicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 174.
 
 Quienes cometan las infracciones previstas en el Artículo 172 de la presente ley serán sancionados conforme a los siguientes criterios:
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+a) En los supuestos previstos en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI y XVII, se procederá a la amonestación, en caso de reincidir en la conducta se sancionará conforme la fracción II del artículo 173;
 
-a) En los supuestos previstos en las fracciones I, II, III, IV, V, VI, VII, VIII y IX se procederá a la amonestación.
+b) En los casos a que aluden las fracciones XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI, XXXII y XXXIII del artículo 172 de esta Ley, se sancionará conforme a la fracción II del artículo 173 y en caso de persistir la conducta infractora se sancionará conforme a lo establecido en la fracción III del artículo anterior;
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
+c) En los casos que aluden la fracción XXXIV del artículo 172 de esta Ley, se sancionará conforme la fracción III del artículo 173; y
 
-b) En los casos a que aluden las fracciones X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV y XXV del Artículo 172 de esta Ley, se sancionará en los términos de la fracción II del Artículo anterior;
+d) En los casos que aluden las fracciones XXXV y XXXVI del artículo 172 de esta Ley, se sancionará conforme la fracción IV del artículo 173.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
-
-c) En los supuestos establecidos en las fracciones XXVI, XXVII y XXIX del Artículo 172 de esta Ley, serán acreedores a una multa de cinco mil a seis mil veces el valor diario de la Unidad de Medida y Actualización vigente a la fecha en que se cometió la infracción, y en caso de persistir la conducta infractora, se sancionará conforme a lo establecido en la fracción III del Artículo anterior;
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
-
-d) A quien funja como Autoridad Educativa, director escolar, educador o trabajador de apoyo y asistencia al servicio de la educación pública e infrinja lo establecido en la fracción XXVIII del Artículo 172 de esta Ley, se le suspenderá sin goce de sueldo, de su empleo, cargo o comisión durante un periodo de quince a treinta días, valorando la cantidad de alumnos afectados y siguiendo los procedimientos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes;
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
-
-e) En el supuesto previsto en la fracción XXX del Artículo 172 de esta Ley, se sancionará conforme a lo dispuesto en la fracción III del Artículo anterior;
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
-
-f) En los supuestos a que aluden las fracciones XXXI y XXXII del Artículo 172 de esta Ley, se aplicará la sanción prevista (sic) la fracción IV del Artículo anterior;
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
-
-g) En el caso establecido en la fracción XXXIII del Artículo 172 de esta Ley, se sancionará al infractor de conformidad a la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; y
-
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2018)</small>
-
-h) En el caso previsto en la fracción XXXIV del Artículo 172 de esta Ley, se tomará en cuenta la gravedad y la reincidencia o no en la misma, con el fin de determinar si es procedente únicamente la multa o la revocación de la autorización e inclusive ambas.
+A quien funja como Autoridad Educativa, director escolar, educador o trabajador de apoyo y asistencia al servicio de la educación pública e infrinja lo establecido en las fracciones XVI y XVII se le seguirá el procedimiento de Responsabilidad Administrativa Disciplinaria establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 Las sanciones que prevé este capítulo se aplicarán sin perjuicio de las previstas en otras disposiciones legales, reglamentarias o administrativas.
 
@@ -2830,3 +2886,35 @@ P.O. 24 DE JUNIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 193.- SE REFORMAN LOS ARTÍCULOS 6°, 7°, 15, 17, 60, 75, 76, 77, 78, 84, 85, 87, 88, 145, 149, 155, 165, 168, 172, 174, Y SE ADICIONAN, LOS ARTÍCULOS 6°, 60, 80, 164, Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 78; TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto quedan sin efecto aquellas disposiciones que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a 60 días naturales el Titular del Poder Ejecutivo deberá expedir la Normatividad en la que se determine la integración y funcionamiento del Sistema Estatal para el Fortalecimiento de la Educación Media Superior y Superior.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a 60 días naturales el Titular del Poder Ejecutivo deberá expedir la Normatividad en la que se determine la integración, facultades, obligaciones y funcionamiento del Consejo Estatal para la Educación Superior en la Modalidad Dual.
+
+###### ARTÍCULO QUINTO.
+
+En un plazo no mayor a 60 días naturales el Titular del Poder Ejecutivo deberá expedir la Normatividad en la que se determine la integración, facultades, obligaciones y funcionamiento de la Comisión Estatal para la Planeación de la Educación Media Superior.
+
+En tanto se emita la normatividad a que se refiere el párrafo que antecede, seguirá vigente el Acuerdo que Crea la Comisión Estatal de Educación Media (“CEEM”), publicado en el Periódico Oficial del Estado de Aguascalientes Número 39, Tomo LXI, de fecha 27 de septiembre de 1998.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo no mayor a 60 días naturales el Titular del Poder Ejecutivo deberá expedir la Normatividad en la que se determine la integración, facultades, obligaciones y funcionamiento de la Comisión Estatal para la Planeación de la Educación Superior.
+
+En tanto se emita la normatividad a que se refiere el párrafo que antecede, seguirá vigente el Acuerdo que Crea la Comisión Estatal de Educación Superior del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes Número 15, Tomo LXI, de fecha 12 de abril de 1998; así como, el Reglamento Interior de la Comisión Estatal de Educación Superior publicado en el Periódico Oficial del Estado Número 44, Tomo LXXIII, de fecha 1° de noviembre de 2010.
