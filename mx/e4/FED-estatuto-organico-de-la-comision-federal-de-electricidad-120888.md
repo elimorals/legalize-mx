@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-120888
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-04-12"
-last_updated: "2019-06-13"
+last_updated: "2019-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120888&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-04-05"
 ---
 # ESTATUTO ORGANICO DE LA COMISION FEDERAL DE ELECTRICIDAD
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE DICIEMBRE DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2019.
 
 Estatuto publicado en la Segunda Sección al Número 8 del Diario Oficial de la Federación, el miércoles 12 de abril de 2017.
 
@@ -405,6 +407,10 @@ III. Subdirección de Evaluación Operativa; y
 
 IV. Subdirección de Seguridad Física.
 
+> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+V. Coordinación de Monitoreo y Análisis Operativo.
+
 ###### ARTÍCULO 16.
 
 A la Dirección Corporativa de Negocios Comerciales estarán adscritas las siguientes áreas:
@@ -575,7 +581,9 @@ III. Proponer medidas preventivas o correctivas en caso de que se presenten desv
 
 IV. Diagnosticar riesgos operativos;
 
-V. Establecer mecanismos para mejorar la operación de las actividades a que se refiere este artículo, el aprovechamiento de las economías de escala en la adquisición de combustibles y cualquier otro insumo, así como para la optimización de activos;
+> <small>(REFORMADA, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+V. Establecer mecanismos para mejorar la operación de las actividades a que se refiere este artículo;
 
 VI. Promover el desarrollo tecnológico y la calidad de los productos y servicios;
 
@@ -583,11 +591,11 @@ VII. Emitir opinión sobre los proyectos de normatividad y de políticas general
 
 VIII. Someter a consideración del Director General, para aprobación del Consejo, la creación, fusión o escisión de empresas productivas subsidiarias, así como de empresas filiales.
 
-> <small>(F. DE E., D.O.F. 10 DE MAYO DE 2017)</small>
+(F. DE E., D.O.F. 10 DE MAYO DE 2017) (REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
 
 ###### ARTÍCULO 28.
 
-A la Dirección Corporativa de Negocios Comerciales, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden, en relación con las actividades de suministro básico, suministro calificado, de proveeduría de insumos primarios, así como las Unidades de Negocio denominadas CFE TELECOM, Laboratorio de Pruebas de Equipos y Materiales, y Programa de Ahorro de Energía del Sector Eléctrico, las siguientes:
+A la Dirección Corporativa de Negocios Comerciales, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden, en relación con las actividades de suministro básico, suministro calificado, de Proveeduría de Insumos Primarios, así como las Unidades de Negocios denominadas CFE TELECOM, Laboratorio de Pruebas de Equipos y Materiales, y Programa de Ahorro de Energía del Sector Eléctrico, las siguientes:
 
 I. Proponer metas estratégicas e indicadores clave para el desempeño de los principales proyectos, productos o servicios, conforme al Plan de Negocios;
 
@@ -608,6 +616,10 @@ VIII. Someter a consideración del Director General, para aprobación del Consej
 IX. Identificar potenciales nuevos negocios, así como proponer estrategias para realizar asociaciones, alianzas, o coinversiones; y
 
 X. Analizar y emitir opinión respecto de estrategias de negocios, así como para la adopción de innovaciones tecnológicas y comerciales.
+
+> <small>(ADICIONADA, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XI. Vigilar y dar seguimiento a las actividades de gestión comercial de los contratos de combustibles de los que sea titular la Comisión Federal de Electricidad, realizadas por las áreas de la organización y estructura corporativa correspondientes.
 
 ###### ARTÍCULO 29.
 
@@ -751,7 +763,9 @@ I. Realizar evaluaciones para la modernización y la competitividad con base en 
 
 II. Analizar las principales estrategias operativas, así como proponer las medidas necesarias para cumplir con los objetivos de las mismas;
 
-III. Operar los mecanismos que se establezcan para mejorar la comercialización de servicios y productos, aprovechar las economías de escala en la adquisición de combustibles y cualquier otro insumo, así como para optimizar activos;
+> <small>(REFORMADA, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+III. Operar los mecanismos que se establezcan para mejorar la comercialización de servicios y productos;
 
 IV. Analizar la evolución de las energías limpias y renovables; y
 
@@ -808,6 +822,24 @@ IV. Proponer el Programa de Seguridad Integral de las instalaciones de la Comisi
 V. Coordinar la elaboración de los estudios, los proyectos y la operación de los sistemas para prevenir los riesgos a la seguridad física de las instalaciones de la Comisión; y
 
 VI. Elaborar los planes de emergencia para restablecer la seguridad en los centros de trabajo estratégicos de la Comisión que pudieran ver comprometida dicha seguridad.
+
+> <small>(ADICIONADO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 37 Bis.
+
+A la Coordinación de Monitoreo y Análisis Operativo, además de las funciones genéricas señaladas en el presente Estatuto, le corresponden las siguientes:
+
+I. Coadyuvar, con las Empresas Productivas Subsidiarias de generación, la Subdirección de Negocios no Regulados y las Empresas filiales de proveeduría de insumos primarios, en la planificación de los requerimientos de combustibles de corto, mediano y largo plazo para cada una de las centrales;
+
+II. Coadyuvar, con las Empresas Productivas Subsidiarias de generación, en la gestión de los requerimientos de combustibles para cada una de las centrales;
+
+III. Dar seguimiento y monitorear para fines estadísticos, los consumos en cada una de las centrales de las Empresas Productivas Subsidiarias de generación;
+
+IV. Verificar los protocolos y equipos para asegurar la correcta y oportuna medición de los combustibles suministrados en cada central de las Empresas Productivas Subsidiarias de generación, con apego a la normatividad vigente;
+
+V. Coadyuvar, con las Empresas Productivas Subsidiarias de generación, en la integración de las memorias de cálculo de los combustibles suministrados, como soporte al proceso de registro y pago de los combustibles, con el objetivo de realizar el pago oportuno, y medir el desempeño de cada central de las Empresas Productivas Subsidiarias de generación en función del consumo de combustibles; y
+
+VI. Analizar y diagnosticar las condiciones de la infraestructura de recepción y medición de combustibles en cada una de las centrales eléctricas de las Empresas Productivas Subsidiarias de generación, con el objetivo de proponer mejoras o acciones remediales para garantizar la continuidad de la operación.
 
 ### CAPÍTULO VIII. Funciones Específicas de las áreas adscritas a la Dirección Corporativa de Negocios Comerciales
 
@@ -1324,3 +1356,11 @@ D.O.F. 13 JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD, PUBLICADO EL 12 DE ABRIL DE 2017”.]
 
 ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE “MODIFICACIONES AL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD”.]
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para realizar las actividades puntualizadas de las funciones de la Dirección Corporativa de Negocios Comerciales y hasta en tanto se formalicen las posibles transferencias de bienes materiales, sistemas y recursos humanos, estos últimos podrán ser comisionados.
