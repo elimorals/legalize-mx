@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2018-12-07"
+last_updated: "2019-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -685,21 +685,31 @@ II. Ejercicio de la acción penal sin detenido por delitos calificados como grav
 
 III. Diligenciación de exhortos en que deba resolverse sobre la situación jurídica;
 
-IV. Solicitudes de orden de cateo
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LAS ÓRDENES DE TRASLADO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+IV. Solicitudes de orden de cateo;
 
 V. Solicitudes de intervención de comunicaciones privadas;
 
-VI. Solicitudes de extradición,
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LAS ÓRDENES DE TRASLADO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+VI. Solicitudes de extradición;
 
 VII. Orden de expulsión del país;
 
 VIII. Orden de arraigo;
 
-IX. Demandas de amparo contra actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento judicial, incomunicación, deportación o expulsión, destierro, extradición, desaparición forzada de personas, orden de traslado, malos tratos, tortura psicológica, segregación y demás prohibidos por el artículo 22 de la Constitución; así como, las presentadas por falta de atención médica especializada de las personas privadas de su libertad en un centro de reclusión;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LAS ÓRDENES DE TRASLADO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
-X. Declaración de inexistencia de huelga; y
+IX. Demandas de amparo contra actos que importen peligro de privación de la vida, ataques a la libertad personal fuera de procedimiento judicial, incomunicación, deportación o expulsión, destierro, extradición, desaparición forzada de personas, malos tratos, tortura psicológica, segregación y demás prohibidos por el artículo 22 de la Constitución; así como, las presentadas por falta de atención médica especializada de las personas privadas de su libertad en un centro de reclusión;
 
-XI. Incorporación forzosa al Ejército, Armada o Fuerza Aérea Nacionales.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LAS ÓRDENES DE TRASLADO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+X. Declaración de inexistencia de huelga;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LAS ÓRDENES DE TRASLADO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XI. Incorporación forzosa al Ejército, Armada o Fuerza Aérea Nacionales; y
 
 XII. Aquellos que revistan tal carácter, conforme a las leyes que los rijan.
 
@@ -3584,3 +3594,11 @@ SÉPTIMO. Las referencias a la Comisión de Vigilancia, Información y Evaluaci�
 Las que se hagan a la Unidad de Investigación de Responsabilidades Administrativas se entenderán referidas a la Unidad General de Investigación de Responsabilidades Administrativas.
 
 Y las hechas a la Dirección General de Responsabilidades se entenderán hechas a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
+
+D.O.F. 23 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, EN RELACIÓN CON LAS ÓRDENES DE TRASLADO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
