@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-anticorrupcion-de-la-ciudad-de-mexico-123182"
 country: "mx"
 rank: "ley"
 publication_date: "2017-09-01"
-last_updated: "2019-09-18"
+last_updated: "2019-09-23"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123182&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-08-31"
 ---
 # LEY DEL SISTEMA ANTICORRUPCION DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE SEPTIEMBRE DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Número 146 Ter de la Gaceta Oficial de la Ciudad de México, el viernes 1 de septiembre de 2017.
 
@@ -140,7 +142,7 @@ XIX. (DEROGADA, G.O. 15 DE ABRIL DE 2019)
 
 XX. Sistema Local: El Sistema Anticorrupción de la Ciudad de México;
 
-(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN XXI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE REFORMA LA FRACCIÓN XXI DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 > <small>(REFORMADA, G.O. 15 DE ABRIL DE 2019)</small>
 
@@ -1110,27 +1112,39 @@ El Fiscal Anticorrupción, al igual que las personas servidoras públicas que le
 
 ## TÍTULO SÉPTIMO. DE LOS ORGANISMOS AUTÓNOMOS
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE SEPTIEMBRE DE 2019)</small>
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA EL CAPÍTULO ÚNICO DEL TÍTULO SÉPTIMO DE ESTE ORDENAMIENTO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-### Capítulo Único
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.O. DE 23 DE SEPTIEMBRE DE 2019, SE DEJA SIN EFECTOS LA PUBLICACIÓN CONTENIDA EN EL EJEMPLAR 180 BIS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 18 DE SEPTIEMBRE DE 2019.]</small>
 
-De la Designación de las Personas Titulares de los Órganos Internos de Control de los Órganos Constitucionales Autónomos y del Tribunal de Justicia Administrativa
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 15 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADO, G.O. 18 DE SEPTIEMBRE DE 2019)</small>
+### CAPÍTULO ÚNICO
+
+DE LA DESIGNACIÓN DE LAS PERSONAS TITULARES DE LOS ÓRGANOS INTERNOS DE CONTROL DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS.
+
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.O. DE 23 DE SEPTIEMBRE DE 2019, SE DEJA SIN EFECTOS LA PUBLICACIÓN CONTENIDA EN EL EJEMPLAR 180 BIS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 18 DE SEPTIEMBRE DE 2019.]</small>
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2019)</small>
 
 ###### Artículo 74.
 
-Las personas titulares de los Órganos de Control Interno de los Organismos Autónomos así como del Tribunal de Justicia Administrativa de acuerdo a los artículos 40 y 46 a que se refiere la Constitución Política de la Ciudad de México, serán designadas por el Congreso de la Ciudad de México a través de la Comisión de Transparencia y Combate a la Corrupción y, la Comisión de Rendición de Cuentas y Vigilancia de la Auditoría Superior de la Ciudad de México mediante convocatoria pública abierta, se elegirá una persona titular por cada Organismo Autónomo.
+Las personas titulares de los Órganos de Control Interno de los Organismos Autónomos de acuerdo al artículo 46 de la Constitución Política de la Ciudad de México, serán designadas por el Congreso de la Ciudad de México a través de la Comisión de Transparencia y Combate a la Corrupción y, la Comisión de Rendición de Cuentas y Vigilancia de la Auditoría Superior de la Ciudad de México mediante convocatoria pública abierta, una persona titular por cada Organismo Autónomo.
 
-Las Comisiones de Transparencia y Combate a la Corrupción y Rendición de Cuentas y Vigilancia de la Auditoria Superior de la Ciudad de México, presentarán al pleno la propuesta de persona aspirante a titular de cada uno de los Órganos de Control Interno por cada Organismo Autónomo y del Tribunal de Justicia Administrativa de la Ciudad de México, dichos nombramientos deberán ser aprobados por las dos terceras partes del Pleno del Congreso de la Ciudad de México.
+Las Comisiones de Transparencia y Combate a la Corrupción y Rendición de Cuentas y Vigilancia de la Auditoría Superior de la Ciudad de México, presentarán al pleno una terna de personas aspirantes a titulares de Órganos de Control Interno por cada Organismo Autónomo, dentro de las cuales, serán electas una por cada terna para el Organismo Autónomo al que fueron propuestas, dichos nombramientos deberán ser aprobados por las dos terceras partes del Pleno del Congreso de la Ciudad de México.
 
-En caso en el que la primera propuesta por las comisiones no fuese aprobada, se presentará una nueva, hasta lograr la aprobación de las dos terceras partes del Pleno del Congreso.
+En caso en el que la primera terna propuesta por las comisiones no fuese aprobada, se presentará una nueva, hasta lograr la aprobación de las dos terceras partes del Pleno del Congreso.
 
-> <small>(REFORMADO, G.O. 18 DE SEPTIEMBRE DE 2019)</small>
+(NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.O. DE 23 DE SEPTIEMBRE DE 2019, SE DEJA SIN EFECTOS LA PUBLICACIÓN CONTENIDA EN EL EJEMPLAR 180 BIS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 18 DE SEPTIEMBRE DE 2019.]</small>
+
+> <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2019)</small>
 
 ###### Artículo 75.
 
-Para ser titular de los Órganos Internos de Control de los Organismos Autónomos, así como del Tribunal de Justicia Administrativa de la Ciudad de México, se deberán cumplir los mismos requisitos que para ser titular de los Órganos de Control Interno de las dependencias de la Administración Pública de la Ciudad de México en el caso que no se encuentren previstos dichos requisitos en las Leyes Aplicables de cada Organismo y del propio Tribunal de Justicia Administrativa de la Ciudad de México.
+Para ser titular de los Órganos Internos de Control de los Organismos Autónomos, se deberán cumplir lo (sic) mismos requisitos que para ser titular de los Órganos de Control Interno de las dependencias de la Administración Pública de la Ciudad de México en el caso que no se encuentren previstos dichos requisitos en las Leyes Aplicables de cada Organismo.
 
 ## TRANSITORIOS
 
@@ -1190,7 +1204,7 @@ DÉCIMO TERCERO. Los derechos, erogaciones y acciones previstas en este ordenami
 
 > <small>(ADICIONADO, G.O. 15 DE ABRIL DE 2019)</small>
 
-DÉCIMO CUARTO.- EN EL PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO, SE CONTEMPLARÁN LOS RECURSOS SUFICIENTES PARA LA OPERACIÓN DEL SISTEMA ANTICORRUPCIÓN, Y SE IDENTIFICARÁ POR ÁREA ESPECÍFICA EL MONTO APROBADO PARA EL RESPECTIVO EJERCICIO FISCAL, DE CONFORMIDAD CON LO DISPUESTO POR LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO Y LA NORMATIVIDAD APLICABLE.
+EN EL PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO, SE CONTEMPLARÁN LOS RECURSOS SUFICIENTES PARA LA OPERACIÓN DEL SISTEMA ANTICORRUPCIÓN, Y SE IDENTIFICARÁ POR ÁREA ESPECÍFICA EL MONTO APROBADO PARA EL RESPECTIVO EJERCICIO FISCAL, DE CONFORMIDAD CON LO DISPUESTO POR LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO Y LA NORMATIVIDAD APLICABLE.
 
 (NOTA: EL 16 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2017 Y SUS ACUMULADAS 122/2017, 123/2017 Y 135/2017, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL DECRETO QUE ADICIONA EL ARTÍCULO DÉCIMO QUINTO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
@@ -1216,6 +1230,8 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente decreto.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO PUBLICADO EN LA G.O. DE 23 DE SEPTIEMBRE DE 2019, “SE DEJA SIN EFECTOS LA PUBLICACIÓN CONTENIDA EN EL EJEMPLAR 180 BIS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 8 (SIC) DE SEPTIEMBRE DE 2019”.]</small>
+
 G.O. 18 DE SEPTIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL TÍTULO DEL CAPÍTULO ÚNICO DEL TÍTULO SÉPTIMO Y SE REFORMAN LOS ARTÍCULOS 74 Y 75 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DE LA CIUDAD DE MÉXICO".]
@@ -1223,3 +1239,11 @@ G.O. 18 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. Con la entrada en vigor del presente decreto queda sin efecto cualquier otro procedimiento para la designación de las personas titulares de los Órganos Internos de Control de los organismos que se mencionan, diversa a la señalada en el presente decreto, que se encuentre contenida en alguna otra Ley o Reglamento.
+
+G.O. 23 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE DEJA SIN EFECTOS LA PUBLICACIÓN CONTENIDA EN EL EJEMPLAR 180 BIS DE LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 8 (SIC) DE SEPTIEMBRE DE 2019".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor el día de su publicación.
