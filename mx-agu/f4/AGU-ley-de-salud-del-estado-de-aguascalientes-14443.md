@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2019-04-29"
+last_updated: "2019-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -739,7 +739,7 @@ Son servicios de derechohabientes, los prestados por la institución a que se re
 
 ###### ARTICULO 49.
 
-Son servicios de salud privados los que presten personas físicas o morales en las condiciones que convengan con los usuarios, y sujetadas a los ordenamientos legales, civiles y mercantiles.
+Son servicios de salud privados los que presten personas físicas o morales en las condiciones que convengan con los usuarios, y sujetas a los ordenamientos legales, civiles y mercantiles.
 
 Los servicios de salud de carácter social y privado, con excepción del servicio personal independiente, estarán sujetos a las tarifas que establezca la Secretaría de Economía, oyendo la opinión del Instituto de Salud y de los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado.
 
@@ -1171,9 +1171,9 @@ II.- La difusión de las orientaciones para la promoción de la salud mental;
 
 III.- La realización de programas para prevención del abuso del alcohol y del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras substancias que puedan causar alteraciones mentales o adicciones;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-IV.- La realización de programas para la atención y tratamiento de los trastornos mentales; y
+IV.- La realización de programas para la atención y tratamiento de los trastornos mentales, además de aquellos cuyo origen emocional derive en afecciones alimentarias; y
 
 V.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
@@ -1181,7 +1181,9 @@ V.- Las demás acciones que directa o indirectamente contribuyan al fomento de l
 
 La atención de las enfermedades mentales comprende:
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas; y
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
+
+I.- La atención de personas con padecimientos mentales, incluidos los trastornos de la conducta alimentaria, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas; y
 
 II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
 
@@ -1665,9 +1667,9 @@ El Gobierno del Estado formulará y desarrollará programas de nutrición estata
 
 Se deberá dar prioridad a la elaboración de programas nutricionales destinados a los adultos mayores, mujeres embarazadas y niños y niñas, en los que se indique el tipo de alimentos y bebidas que requieren consumir, así como aquellos que pueden ser distribuidos en las tiendas ubicadas en las escuelas de educación básica y en las casas de retiro o asilos.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2019)</small>
 
-El Consejo Estatal de Nutrición también formulará propuestas relativas al tipo de alimentación que deberán de consumir los pacientes con depresión, obesidad, diabetes e insuficiencia renal, dicha información estará a la vista en los hospitales y centros de salud del Estado.
+El Consejo Estatal de Nutrición también formulará propuestas relativas al tipo de alimentación que deberán de consumir los pacientes con depresión, sobrepeso, obesidad, trastornos de la conducta alimentaria incluidos aquellos de origen emocional, diabetes e insuficiencia renal, dicha información estará a la vista en los hospitales y centros de salud del Estado y su alcance será preventivo, terapéutico y de control a largo plazo.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3648,3 +3650,11 @@ P.O. 29 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 194.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 80; LA FRACCIÓN I DEL ARTÍCULO 81 Y EL TERCER PÁRRAFO DEL ARTÍCULO 111 DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigilancia (sic), al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
