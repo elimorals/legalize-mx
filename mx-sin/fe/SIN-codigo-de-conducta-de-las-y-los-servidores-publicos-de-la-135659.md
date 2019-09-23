@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-conducta-de-las-y-los-servidores-publicos-de-la-13565
 country: "mx"
 rank: "codigo"
 publication_date: "2019-04-24"
-last_updated: "2019-04-24"
+last_updated: "2019-09-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # CODIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2019 (DEROGADO).
 
 Código publicado en la Primera Sección al Número 49 del Periódico Oficial del Estado de Sinaloa.
 
@@ -57,37 +59,37 @@ Valores del Código de Ética de los Servidores Públicos de la Administración
 
 Estatal.
 
-• Responsabilidad.
+Responsabilidad.
 
-• Honestidad.
+Honestidad.
 
-• Legalidad.
+Legalidad.
 
-• Compromiso con el bien común.
+Compromiso con el bien común.
 
-• Solidaridad.
+Solidaridad.
 
-• Respeto.
+Respeto.
 
-• Honradez.
+Honradez.
 
-• Lealtad.
+Lealtad.
 
-• Integridad.
+Integridad.
 
-• Capacitación.
+Capacitación.
 
-• Vocación de Servicio.
+Vocación de Servicio.
 
-• Justicia.
+Justicia.
 
-• Eficacia y Eficiencia.
+Eficacia y Eficiencia.
 
-• Liderazgo.
+Liderazgo.
 
-• Secrecía.
+Secrecía.
 
-• Respeto a los Derechos Humanos.
+Respeto a los Derechos Humanos.
 
 Misión:
 
@@ -496,3 +498,17 @@ Es dado en la Ciudad de Culiacán Rosales, Sinaloa, al día dos del mes de abril
 Mtro. Cristóbal Castañeda Camarillo
 
 Secretario de Seguridad Pública del Estado.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA".]
+
+PRIMERO.- El presente Acuerdo por el que se da a conocer el Código de Conducta de la Secretaría de Seguridad Pública del Estado de Sinaloa, entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- En cumplimiento del Lineamiento Décimo Tercero de los Lineamientos para la emisión del Código de Ética, que dispone que el Código de Conducta debe ser difundido y publicado en (sic) periódico oficial que corresponda y en la página institucional.
+
+TERCERO.- Las Direcciones y Unidades de la Secretaría de Seguridad Pública del Estado de Sinaloa deberán hacer del conocimiento al personal adscrito a sus áreas el Código de Conducta de esta Dependencia, mediante oficio y acuse, una vez publicado el mismo.
+
+CUARTO.- Se deroga el Código de Conducta de las y los Servidores Públicos de la Secretaría de Seguridad Pública del Estado, publicado el 24 de abril de 2019 en el periódico oficial "El Estado de Sinaloa".
