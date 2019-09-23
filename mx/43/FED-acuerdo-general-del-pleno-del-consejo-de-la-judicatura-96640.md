@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2019-06-14"
+last_updated: "2019-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2019.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -365,9 +365,21 @@ II. Dirección General de Comunicación Social y Vocería.
 
 III. Coordinación de Asesores de la Presidencia:
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
-a) Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales.
+a) Dirección General de Derechos Humanos, Igualdad de Género y Asuntos Internacionales;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+b) Dirección General de Archivo y Documentación;
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+c) Dirección General de Estadística Judicial; y
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+d) Dirección General de Gestión Judicial.
 
 ### CAPÍTULO TERCERO. DE LOS DEMÁS CONSEJEROS
 
@@ -605,15 +617,15 @@ XXII. Administrar los bienes muebles e inmuebles del Poder Judicial de la Federa
 
 XXIII. Proponer al Pleno, para su aprobación, el proyecto de creación de estructuras administrativas y plazas definitivas para la atención de nuevos programas;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XXIV. Autorizar las plantillas de personal para los nuevos órganos jurisdiccionales creados por el Pleno, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Creación de Nuevos Órganos, y la Visitaduría Judicial, con la participación de la Dirección General de Estadística Judicial;
+XXIV. Autorizar las plantillas de personal para los nuevos órganos jurisdiccionales creados por el Pleno, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Creación de Nuevos Órganos, y la Visitaduría Judicial, con la participación de la Dirección General de Gestión Judicial;
 
 XXV. Proponer para autorización del Pleno, las plazas definitivas de nueva creación de defensores públicos y su personal de apoyo, así como de oficinas de correspondencia común, que se requieran con motivo de la creación de nuevos órganos jurisdiccionales;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XXVI. Proponer para la autorización del Pleno, las plazas definitivas de nueva creación cuando tengan por objeto homogeneizar plantillas de personal por tipo de órgano y ciudad, o para reforzar plantillas o programas ya autorizados, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Creación de Nuevos Órganos, y la Visitaduría Judicial; con la participación de la Dirección General de Estadística Judicial;
+XXVI. Proponer para la autorización del Pleno, las plazas definitivas de nueva creación cuando tengan por objeto homogeneizar plantillas de personal por tipo de órgano y ciudad, o para reforzar plantillas o programas ya autorizados, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Creación de Nuevos Órganos, y la Visitaduría Judicial; con la participación de la Dirección General de Gestión Judicial;
 
 XXVII. Someter al Pleno para su autorización la creación de nuevas estructuras orgánicas o la modificación de las ya existentes, la adscripción definitiva, retabulación y transferencia de plazas; así como contrataciones temporales por honorarios;
 
@@ -627,9 +639,9 @@ XXX. Autorizar los programas específicos en materia de recursos humanos, relati
 
 XXXI. Aprobar el monto de la remuneración y honorarios de los peritos;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
-XXXII. Determinar, a propuesta del Director General de Estadística Judicial, que haga por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, el nombramiento y remoción del personal de las oficinas de correspondencia común;
+XXXII. Determinar, a propuesta del Director General de Gestión Judicial, que haga por conducto de la Coordinación de Asesores de la Presidencia, el nombramiento y remoción del personal de las oficinas de correspondencia común;
 
 XXXIII. Determinar el nombramiento y remoción del titular y demás empleados de las unidades de notificadores que se establezcan;
 
@@ -1241,9 +1253,29 @@ IV. Coadyuvar con el Secretario General de la Presidencia, en la atención a los
 
 V. Asistir, en su caso, como invitado a las sesiones de Pleno, Comités, Comisiones y grupos de trabajo y demás reuniones institucionales que determine el Ministro Presidente. Salvo las que se refieran a sesiones del Pleno, el Coordinador de Asesores podrá designar a un servidor público para que lo represente en las demás reuniones.
 
-VI. Recibir el apoyo de las unidades administrativas y órganos auxiliares del propio Consejo, que sea requerido por la Coordinación de Asesores de la Presidencia para el cumplimiento de las atribuciones conferidas; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
-VII. Las demás que le confieran las disposiciones legales y acuerdos generales del Consejo, así como las que le sean encomendadas por el Ministro Presidente.
+VI. Recibir el apoyo de las unidades administrativas y órganos auxiliares del propio Consejo, que sea requerido por la Coordinación de Asesores de la Presidencia para el cumplimiento de las atribuciones conferidas;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+VII. Someter a la Comisión de Administración, la aprobación del Programa Anual de Desarrollo Archivístico; la normativa y los criterios específicos en materia de gestión documental y administración de archivo; de los instrumentos de control archivístico; así como de los proyectos de preservación y difusión de la información con valor histórico;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+VIII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a las áreas administrativas de su competencia;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+IX. Coordinar y supervisar el desarrollo y la implementación de los sistemas administrativos, de gestión y plataformas estadísticas en materia judicial, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+X. Instrumentar las políticas y directrices emitidas por el Pleno y las Comisiones para la operación de sistemas administrativos, de gestión y plataformas estadísticas en materia judicial, de conformidad con las disposiciones aplicables; y
+
+> <small>(ADICIONADA [N.DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XI. Las demás que le confieran las disposiciones legales y acuerdos generales del Consejo, así como las que le sean encomendadas por el Ministro Presidente.
 
 ###### Artículo 73.
 
@@ -1455,11 +1487,11 @@ XLVIII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a l
 
 XLIX. Las demás que establezcan el Pleno, y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 80.
 
-La Secretaría Ejecutiva de Administración programa, coordina, supervisa y evalúa los sistemas de recursos humanos, financieros y de planeación, de conformidad con las disposiciones aplicables, así como los sistema (sic) de recursos materiales, bienes muebles e inmuebles, y servicios generales; tecnologías de la información y comunicaciones; arrendamientos, obra pública y servicios relacionados con la misma; bienes asegurados y decomisados; la organización y archivos en el Consejo, así como la administración regional, de conformidad con las disposiciones aplicables.
+La Secretaría Ejecutiva de Administración programa, coordina, supervisa y evalúa los sistemas de recursos humanos, financieros y de planeación, de conformidad con las disposiciones aplicables, así como los sistemas de recursos materiales, bienes muebles e inmuebles, y servicios generales; tecnologías de la información y comunicaciones; arrendamientos, obra pública y servicios relacionados con la misma; bienes asegurados y decomisados; así como la administración regional, de conformidad con las disposiciones aplicables.
 
 El Secretario Ejecutivo de Administración es el responsable de proponer al Pleno y a la Comisión de Administración el establecimiento de los programas, sistemas y lineamientos generales para la administración eficaz, eficiente, económica, transparente y honrada de los recursos humanos, financieros y materiales a cargo del Consejo.
 
@@ -1545,9 +1577,9 @@ XXXVII. Proponer a la Comisión de Administración procedimientos de sistemas de
 
 XXXVIII. Presentar a la Comisión de Administración y al Pleno el Plan Estratégico de Tecnologías de la Información y Comunicaciones y el informe trimestral respecto de la ejecución y avances del mismo;
 
-XXXIX. Someter a consideración del Comité de Transparencia y, en su caso, a la Comisión de Administración, la aprobación del Programa Anual de Desarrollo Archivístico; de la normativa y los criterios específicos en materia de gestión documental y administración de archivo de los instrumentos de control archivístico; así como de los proyectos de preservación y difusión de la información con valor histórico; lo anterior de conformidad con lo establecido en las disposiciones aplicables;
+XXXIX. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
 
-XL. Solicitar al Instituto de la Judicatura las necesidades de capacitación, en materia de archivos a los servidores públicos de las áreas administrativas y de los órganos jurisdiccionales; y
+XL. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
 
 XLI. Las demás que establezcan la normatividad aplicable, el Pleno y las Comisiones.
 
@@ -1559,7 +1591,7 @@ La Secretaría Ejecutiva de Administración contará con las unidades administra
 
 I. Coordinación de Administración Regional;
 
-II. Dirección General de Archivo y Documentación;
+II. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
 
 III. Dirección General de Inmuebles y Mantenimiento;
 
@@ -1711,19 +1743,11 @@ XXXVII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a l
 
 XXXVIII. Las demás que establezcan el Pleno, y las Comisiones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 84 Bis.
 
-La Secretaría Ejecutiva de Creación de Nuevos Órganos, contará con las unidades administrativas siguientes:
-
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
-
-I. Dirección General de Estadística Judicial; y
-
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
-
-II. Las demás que determine el Pleno.
+La Secretaría Ejecutiva de Creación de Nuevos Órganos, contará con las unidades administrativas que determine el Pleno.
 
 > <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -1739,15 +1763,23 @@ El titular de la Secretaría Ejecutiva de Creación de Nuevos Órganos tendrá l
 
 I. Analizar y evaluar las solicitudes de creación de nuevos órganos jurisdiccionales, a fin de determinar la prioridad de su creación, para someterlas a la consideración de la Comisión de Creación de Nuevos Órganos;
 
-II. Instruir a la Dirección General de Estadística Judicial la elaboración de estudios estadísticos, así como analizar y evaluar los mismos, con el propósito de ponderar la viabilidad y prioridad para la creación de un órgano nuevo o determinar la especialización, cambio de sede, competencia y sistema de turno de los órganos jurisdiccionales;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+II. Solicitar a la Dirección General de Estadística Judicial la elaboración de estudios estadísticos, así como analizar y evaluar los mismos, con el propósito de ponderar la viabilidad y prioridad para la creación de un órgano jurisdiccional nuevo o determinar la especialización, cambio de sede, competencia y sistema de turno de los órganos jurisdiccionales;
 
 III. Elaborar y aprobar los dictámenes relativos a las plantillas del personal de nuevos órganos jurisdiccionales, que al efecto le remita la Dirección General de Recursos Humanos;
 
-IV. Elaborar los proyectos de acuerdos relativos a la creación, competencia, jurisdicción, reglas de distribución de los asuntos y fecha de inicio de funciones de los nuevos órganos jurisdiccionales, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren necesarios, con la finalidad de someterlos a la consideración de la Comisión de Creación de Nuevos Órganos;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
-V. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número y límites territoriales de los circuitos en que se divida el territorio de la República y, en su caso, los cambios de residencia de los órganos jurisdiccionales, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren convenientes;
+IV. Elaborar los proyectos de acuerdos relativos a la creación, competencia, jurisdicción, reglas de distribución de los asuntos y fecha de inicio de funciones de los nuevos órganos jurisdiccionales que a partir de la información de las cargas de trabajo que le presente la Dirección General de Estadística Judicial, considere necesarios, con la finalidad de someterlos a la consideración de la Comisión de Creación de Nuevos Órganos;
 
-VI. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número, límites territoriales y, en su caso, especialización por materia de los órganos jurisdiccionales en cada uno de los circuitos a que se refiere la fracción anterior, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren necesarios;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+V. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número y límites territoriales de los circuitos en que se divida el territorio de la República Mexicana y, en su caso, los cambios de residencia de los órganos jurisdiccionales que a partir de la información de las cargas de trabajo que le presente la Dirección General de Estadística Judicial, considere necesarios;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+VI. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número, límites territoriales y, en su caso, especialización por materia de los órganos jurisdiccionales en cada uno de los circuitos a que se refiere la fracción anterior que a partir de la información de las cargas de trabajo que le presente la Dirección General de Estadística Judicial, considere necesarios;
 
 VII. Proponer a la Comisión de Creación de Nuevos Órganos las disposiciones necesarias para regular el turno de los asuntos de la competencia de los órganos jurisdiccionales, cuando en un mismo lugar haya varios de ellos;
 
@@ -1763,9 +1795,9 @@ XII. Ejercer las atribuciones que le confiere a la Secretaría Ejecutiva, el Acu
 
 XIII. Solicitar, analizar y evaluar los informes de órganos jurisdiccionales que sean necesarios para el desarrollo de las funciones de la Secretaría Ejecutiva;
 
-XIV. Programar, coordinar, supervisar y evaluar los sistemas de estadística judicial, de conformidad con las disposiciones aplicables;
+XIV. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
 
-XV. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de estadística judicial;
+XV. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
 
 XVI. Formular y presentar al Pleno, el Programa Anual de Actividades de la unidad administrativa a su cargo;
 
@@ -1773,7 +1805,7 @@ XVII. Someter a la consideración de las Comisiones, las disposiciones, reglas, 
 
 XVIII. Informar a las Comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
-XIX. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y
+XIX. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
 
 XX. Las demás que establezcan el Pleno, y las Comisiones.
 
@@ -2623,7 +2655,9 @@ IX. Expresar ante la Comisión de Vigilancia las razones y causas que le impidan
 
 X. Implementar las visitas extraordinarias de inspección que el Presidente ordene; y designar al visitador judicial "A" que habrá de practicarlas, en caso de que no se asigne uno en especial;
 
-XI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XI. Elaborar y aprobar, de manera conjunta con la Secretaría Ejecutiva de Creación de Nuevos Órganos y la Dirección General de Gestión Judicial, los dictámenes relativos a las plantillas del personal de nuevos órganos jurisdiccionales, que al efecto le remita la Dirección General de Recursos Humanos;
 
 XII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 17 DE SEPTIEMBRE DE 2014)
 
@@ -2991,69 +3025,43 @@ VI. Las que establezcan el Pleno, y la Comisión de Administración.
 
 La Dirección General de Estadística Judicial será la encargada de proveer a las distintas áreas administrativas respecto de la información estadística relevante, oportuna y confiable que generan los órganos jurisdiccionales con motivo de su actividad jurisdiccional.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 150.
 
 El titular de la Dirección General de Estadística Judicial tendrá las siguientes atribuciones:
 
-I. Captar, validar, sistematizar, analizar e interpretar la información estadística que con motivo de sus actividades generan los órganos jurisdiccionales y sus oficinas de correspondencia común;
+I. Generar estadística judicial confiable y oportuna, a partir de los sistemas gestionados por el Consejo;
 
-II. Proporcionar la información estadística que las áreas administrativas le soliciten y expedir copias certificadas de la misma;
+II. Diseñar y administrar plataformas de estadística judicial que integren tableros y herramientas de visualización con datos e indicadores que permitan la toma de decisiones, transparencia y rendición de cuentas;
 
-III. Proponer la normativa, esquemas y criterios para el manejo y uso interno de la información estadística, así como para su divulgación pública;
+III. Proporcionar la información estadística que las áreas administrativas le soliciten y expedir copias certificadas de la misma;
 
-IV. Mantener actualizado el Sistema Integral de Seguimiento de Expedientes, a través de las modificaciones de los esquemas y normativa para la captura de datos;
+IV. Proponer la normativa, esquemas y criterios para el manejo y uso interno de la información estadística, así como para su divulgación pública;
 
-V. Revisar y validar la congruencia de la captura de datos de los expedientes que se tramitan en los órganos jurisdiccionales;
+V. Proponer mejoras a los sistemas gestionados por el Consejo, con el propósito de facilitar y optimizar la generación de la estadística judicial;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+VI. Diseñar e implementar procesos de análisis y verificación de la congruencia de la información de los sistemas gestionados por el Consejo, con el propósito de garantizar la confiabilidad de la estadística judicial generada;
 
-VI. Proponer al Pleno, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, la implantación de nuevos módulos, esquemas y normativa que deban agregarse al Sistema Integral de Seguimiento de Expedientes;
+VII. Colaborar con las áreas administrativas en el análisis y la elaboración de estudios que sirvan como marco de referencia para formular políticas y facilitar la toma de decisiones;
 
-VII. Verificar físicamente y de manera aleatoria la coincidencia en la captura de datos en el Sistema Integral de Seguimiento de Expedientes, respecto de los diferentes tipos de asuntos del conocimiento de los órganos jurisdiccionales;
+VIII. Colaborar en el diseño e integración del anexo estadístico del Informe Anual de Labores del Presidente;
 
-VIII. Mantener actualizado el padrón de analistas jurídicos encargados de la operación del Sistema Integral de Seguimiento de Expedientes, y corroborar su capacitación y actualización para el cumplimiento de las funciones que tienen encomendadas;
+IX. Proporcionar la asesoría y orientación necesarias para el uso de los tableros y herramientas de visualización de la estadística judicial;
 
-IX. Informar a las áreas administrativas correspondientes, acerca del seguimiento de las observaciones y manifestaciones contenidas en las actas de visita de inspección practicadas e informes circunstanciados de los órganos jurisdiccionales, en relación con la supervisión de los reportes estadísticos;
+X. Asesorar al Comité Técnico del Fondo de Apoyo a la Administración de Justicia, en relación con la estadística judicial obtenida a partir de los sistemas gestionados por el Consejo;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+XI. Diseñar plataformas de divulgación pública con estadística judicial e información pública de expedientes judiciales, con la intervención de la Dirección General de Tecnologías de la Información;
 
-X. Inspeccionar el funcionamiento de las oficinas de correspondencia común, vigilar el correcto turno de los asuntos a los órganos jurisdiccionales y supervisar el desempeño de los servidores públicos adscritos a éstas; así como proponer, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, a la Comisión de Creación de Nuevos Órganos las medidas necesarias para el mejoramiento administrativo del sistema de distribución de asuntos o implementarlas en casos urgentes;
+XII. Mantener actualizado el sitio de la Dirección General de Estadística Judicial en Internet e Intranet, con la intervención de la Dirección General de Tecnologías de la Información;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+XIII. Fungir como unidad productora de estadística judicial y georeferenciada del Consejo, como parte del Sistema Nacional de Información Estadística y Geográfica;
 
-XI. Proponer a la Comisión de Administración, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, a los candidatos para ocupar las plazas vacantes de las oficinas de correspondencia común, cuya aprobación hará del conocimiento de la Dirección General de Recursos Humanos para la debida expedición de sus nombramientos, así como la remoción del personal adscrito a dichas oficinas, y determinar la prórroga de los nombramientos respectivos;
+XIV. Evaluar el contenido y alcance de la información, documentación, análisis y propuesta de los asuntos que someta a consideración de su superior jerárquico, y mantenerlo informado de aquellos asuntos relevantes que conozca;
 
-XII. Solicitar, concentrar, analizar y sistematizar la información administrativa de aplicación estadística que generen los órganos jurisdiccionales y áreas administrativas que integran el Poder Judicial de la Federación, para la elaboración de los estudios que las distintas áreas de éste le soliciten;
+XV. Acordar con su superior jerárquico los asuntos que en ejercicio de sus atribuciones presentará a la consideración del Pleno y de las Comisiones; y
 
-XIII. Colaborar en el diseño e integración del anexo estadístico del Informe Anual de Labores del Presidente;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)</small>
-
-XIV. Proporcionar la asesoría y orientación necesarias para el uso y operación de los diferentes módulos que conforman el Sistema Integral de Seguimiento de Expedientes; así como plantear al Instituto de la Judicatura las necesidades de capacitación en la materia;
-
-XV. Asesorar al Comité Técnico del Fondo de Apoyo a la Administración de Justicia, en relación con los datos obtenidos del Sistema Integral de Seguimiento de Expedientes;
-
-XVI. Las inherentes al cargo de prosecretario del Comité Técnico Especial de Estadística y de Información Geográfica;
-
-XVII. Mantener actualizado el sitio de Internet dentro del portal del Consejo, con la intervención de la Dirección General de Tecnologías de la Información;
-
-XVIII. Solicitar la intervención de la Contraloría del Poder Judicial de la Federación cuando se detecte o presuma la existencia de irregularidades en las oficinas de correspondencia común, para el efecto de que se instruya el procedimiento de responsabilidad correspondiente;
-
-XIX. Fungir como unidad productora de información estadística judicial y georeferenciada del Consejo, para coordinar el proceso sistemático para la generación de la información judicial, que constituye parte de los Servicios Nacionales de Estadística y de Información Geográfica;
-
-XX. Revisar el contenido y alcance de la información, documentación, análisis y propuestas de los asuntos que someta a consideración del superior jerárquico al cual esté adscrito, y mantenerlo informado de aquellos relevantes que conozca en el ámbito de su competencia;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE SISE CONTROL BIOMÉTRICO, D.O.F. 11 DE MARZO DE 2016)</small>
-
-XXI. Coordinar las tareas tendientes al establecimiento, desarrollo y mantenimiento del SISE Control Biométrico;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
-
-XXII. Acordar con el titular de la Secretaría Ejecutiva de Creación de Nuevos Órganos, los asuntos que en ejercicio de sus atribuciones pretenda presentar a la consideración del Pleno y de las Comisiones; y
-
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
-
-XXIII. Las demás que establezcan el Pleno, y las Comisiones.
+XVI. Las demás que establezcan el Pleno, y las Comisiones.
 
 ###### Artículo 151.
 
@@ -3467,13 +3475,55 @@ Para la elaboración de los reportes, las áreas administrativas que intervengan
 
 XIII. Las demás que establezcan el Pleno y el Presidente.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 164 Bis.
 
-(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
+La Dirección General de Gestión Judicial será la encargada de administrar el Sistema Integral de Seguimiento de Expedientes (SISE) y los sistemas de gestión judicial, como herramientas de apoyo a la labor de los órganos jurisdiccionales y las oficinas de correspondencia común, siguiendo los principios de eficiencia, calidad, racionalidad y aprovechamiento de la tecnología; así como proporcionar el soporte y apoyo necesarios a sus usuarios y proveer a las distintas áreas administrativas de información sobre la gestión judicial.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 164 Ter.
 
-(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
+El titular de la Dirección General de Gestión Judicial tendrá las siguientes atribuciones:
+
+I. Administrar el Sistema Integral de Seguimiento de Expedientes y los sistemas de gestión judicial desarrollados e implementados por el Consejo y poner a disposición la información que en ellos se registre a las áreas que lo soliciten, así como expedir copias certificadas en el caso de que lo requieran;
+
+II. Otorgar acceso al Sistema Integral de Seguimiento de Expedientes y a los sistemas de gestión judicial y mantener actualizados los padrones de usuarios;
+
+III. Participar en el diseño de sistemas de gestión judicial;
+
+IV. Dar seguimiento a los sistemas que administra, con el objetivo de garantizar la existencia de registros confiables y oportunos;
+
+V. Realizar las acciones necesarias en materia de gestión judicial para impulsar el uso de tecnología para fortalecer la impartición de justicia pronta y expedita;
+
+VI. Proponer al Pleno, por conducto de la Coordinación de Asesores de la Presidencia, el desarrollo de los sistemas que administra y la normativa correspondiente, así como elaborar estudios y diagnósticos para realizar acciones de mejora en la gestión judicial;
+
+VII. Analizar, evaluar y autorizar las modificaciones que se propongan a los sistemas que administra;
+
+VIII. Verificar física y de manera aleatoria los registros que integran los sistemas que administra;
+
+IX. Mantener actualizado el padrón de los servidores públicos encargados de la operación de los sistemas que administra y brindar apoyo y orientación para su óptimo funcionamiento;
+
+X. Informar a las áreas administrativas correspondientes, acerca del seguimiento de las observaciones y manifestaciones contenidas en las actas de visita de inspección practicadas e informes circunstanciados de los órganos jurisdiccionales, en relación con los sistemas que administra;
+
+XI. Inspeccionar el funcionamiento de las oficinas de correspondencia común, vigilar el correcto turno de los asuntos a los órganos jurisdiccionales y supervisar el desempeño de los servidores públicos adscritos a éstas, así como proponer mejoras al sistema que las oficinas utilizan y alternativas de gestión en casos urgentes;
+
+XII. Proponer a la Comisión de Administración, a través de la Coordinación de Asesores de la Presidencia, a los candidatos para ocupar las plazas vacantes de las oficinas de correspondencia común y su aprobación se hará del conocimiento de la Dirección General de Recursos Humanos, para la debida expedición de sus nombramientos; así como la remoción del personal adscrito a dichas oficinas, y determinar la prórroga de los nombramientos respectivos;
+
+XIII. Colaborar con las áreas administrativas en el análisis y la elaboración de estudios que sirvan como marco de referencia para formular políticas y facilitar la toma de decisiones;
+
+XIV. Proporcionar la asesoría y orientación necesarias para el uso y operación de los sistemas que administra, así como plantear al Instituto de la Judicatura las necesidades de capacitación en la materia;
+
+XV. Asesorar al Comité Técnico del Fondo de Apoyo a la Administración de Justicia, en relación a los registros obtenidos de los sistemas que administra;
+
+XVI. Solicitar la intervención de la Contraloría del Poder Judicial de la Federación cuando se detecte o presuma la existencia de irregularidades que vulneren la integridad de los sistemas de gestión judicial en las oficinas de correspondencia común, a efecto de que se instruya el procedimiento de responsabilidad correspondiente;
+
+XVII. Evaluar el contenido y alcance de la información, documentación, análisis y propuesta de los asuntos que someta a consideración de su superior jerárquico, y mantenerlo informado de aquellos asuntos relevantes que conozca;
+
+XVIII. Acordar con su superior jerárquico los asuntos que en ejercicio de sus atribuciones pretenda presentar a la consideración del Pleno y de las Comisiones; y
+
+XIX. Las demás que establezca su superior jerárquico, el Pleno y las Comisiones.
 
 ###### Artículo 164 Quater.
 
@@ -3515,7 +3565,9 @@ IX. Promover la celebración de convenios con instituciones nacionales e interna
 
 X. Representar al Consejo ante el Sistema Nacional de Archivos en términos de las disposiciones aplicables;
 
-XI. Coordinar la elaboración del Programa Anual de Desarrollo Archivístico y someterlo a consideración de la Secretaría Ejecutiva de Administración y de la Comisión de Administración;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
+
+XI. Coordinar la elaboración del Programa Anual de Desarrollo Archivístico y someterlo a consideración de la Coordinación de Asesores de la Presidencia, para aprobación de la Comisión de Administración;
 
 XII. Dictaminar sobre la organización y condiciones de los archivos bajo administración del Consejo, así como el estado de las instalaciones que estos ocupan, para establecer acciones de mejora y conservación;
 
@@ -5830,3 +5882,15 @@ D.O.F. 14 DE JUNIO DE 2019.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 23 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
+
+CUARTO. Se instruye a la Dirección General de Asuntos Jurídicos, presentar a consideración del Pleno del Consejo de la Judicatura Federal, los proyectos de acuerdos generales para adecuar los instrumentos normativos correspondientes, dentro de los treinta días hábiles siguientes a la aprobación del presente Acuerdo.
