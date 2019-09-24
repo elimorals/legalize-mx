@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2019-07-12"
+last_updated: "2019-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
 
-Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de marzo de 2016.
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
 EL C. RUBÉN IGNACIO MOREIRA VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
@@ -537,6 +537,10 @@ Todas las acciones que se realicen con motivo de la prevención, atención, asis
 
 Las órdenes de protección, son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, podrán otorgarse de oficio o a petición de parte, por el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tenga conocimiento del hechos de violencia contra las mujeres presuntamente constitutivos de infracciones o delitos, evitando en todo momento que la persona agresora, por sí o a través de algún tercero, tenga contacto de cualquier tipo ya sea con la víctima directa, indirectas o ambas.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+Las órdenes de protección serán giradas de oficio tratándose de niñas, niños y adolescentes o incapaces y de urgente aplicación en función del interés superior de la víctima y de naturaleza precautorias y cautelares, en los términos de la Ley de la materia.
+
 ###### Artículo 18.
 
 Las órdenes de protección que consagra la presente Ley son personalísimas e intransferibles y podrán ser:
@@ -629,7 +633,11 @@ V. Brindar servicios reeducativos integrales especializados y gratuitos, con per
 
 Son órdenes de protección de naturaleza civil las siguientes:
 
-I. La suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+I. La suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes o con quien tenga la patria potestad, la tutela o custodia de las niñas, niños, adolescentes o incapaces;
+
+Lo anterior a fin de garantizar el respeto al principio de interés superior de la niñez, salvaguardando de manera plena sus derechos así como su integridad física y emocional.
 
 II. La prohibición a la persona agresora de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
 
@@ -2080,6 +2088,14 @@ P.O. 11 DE DICIEMBRE DE 2018.
 P.O. 12 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 310.- SE ADICIONA LA FRACCIÓN XI Y SE RECORRE LA SIGUIENTE FRACCIÓN DEL ARTÍCULO 8 Y SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 9 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 353.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 Y SE MODIFICA EL CONTENIDO DE LA FRACCIÓN I DEL ARTÍCULO 24 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
