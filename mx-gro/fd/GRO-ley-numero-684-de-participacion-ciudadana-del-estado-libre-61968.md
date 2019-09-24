@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-684-de-participacion-ciudadana-del-estado-libre-6196
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-04"
-last_updated: "2016-12-13"
+last_updated: "2019-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 684 DE PARTICIPACIÓN CIUDADANA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 4 de julio de 2008.
 
@@ -1381,9 +1381,11 @@ T R A N S I T O R I O S
 
 La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-La primera elección de Comités Ciudadanos a que se refiere la presente Ley se realizará en el término de los primeros seis meses del Ejercicio Fiscal del año próximo siguiente, a partir de que entre (sic) vigor la presente Ley, aplicándose en lo conducente los plazos y procedimientos a que se refiere esta Ley.
+La primera elección de Comités Ciudadanos a que se refiere la presente Ley se realizará en el término de los primeros seis meses del año inmediato siguiente, una vez concluido el próximo Proceso Electoral Local en el Estado de Guerrero 2020-2021, aplicándose en lo conducente los plazos y procedimientos a que se refiere esta Ley.
 
 ###### ARTÍCULO TERCERO.
 
@@ -1442,3 +1444,13 @@ P.O. 13 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales correspondientes.
+
+P.O. 24 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244 POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 684 DE PARTICIPACIÓN CIUDADANA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado, en la página oficial del Congreso del Estado y divúlguese en los medios de comunicación.
