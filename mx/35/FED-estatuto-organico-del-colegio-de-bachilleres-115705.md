@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-colegio-de-bachilleres-115705"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-07-20"
-last_updated: "2019-07-17"
+last_updated: "2019-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115705&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2009-12-29"
 ---
 # ESTATUTO ORGANICO DEL COLEGIO DE BACHILLERES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2019 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL COLEGIO DE BACHILLERES
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE SEPTIEMBRE DE 2019.]</small>
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de julio de 2016.
 
@@ -375,9 +375,9 @@ XVI. Autorizar los programas para el diseño e integración de los materiales ed
 
 XVII. Proponer a la Dirección General las políticas de difusión y uso de la información obtenida por los programas académicos a su cargo;
 
-> <small>(REFORMADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
+(REFORMADA, D.O.F. 17 DE JULIO DE 2019) (F. DE E., D.O.F. 24 DE SEPTIEMBRE DE 2019)
 
-XVIII. Proporcionar información y colaborar con las Secretarías de Servicios Institucionales y Administrativa en los servicios de apoyo y los recursos que faciliten la adecuada operación de los programas que desarrolla la Secretaría;
+XVIII. Proporcionar información y colaborar con la Secretaría de Servicios Institucionales y la Unidad de Administración y Finanzas en los servicios de apoyo y los recursos que faciliten la adecuada operación de los programas que desarrolla la Secretaría;
 
 XIX. Coadyuvar con la Secretaría de Servicios Institucionales en la promoción y posicionamiento de los productos y servicios que se ofrezcan a instituciones educativas y empresas nacionales e internacionales;
 
@@ -396,10 +396,6 @@ XXV. Normar la integración y conformación de la Gaceta (Órgano Informativo de
 > <small>(ADICIONADA, D.O.F. 12 DE DICIEMBRE DE 2018)</small>
 
 XXVI. Supervisar el cumplimiento de lo establecido por la Ley General del Servicio Profesional Docente.
-
-> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 2019)</small>
-
-XXVII. Expedir copias certificadas de las constancias que obran en los archivos de las áreas de su adscripción.
 
 ###### Artículo 19.
 
@@ -841,9 +837,11 @@ XXVII. Las demás que las disposiciones aplicables le confieran, las que le enco
 
 XXVIII. Expedir copias certificadas de las constancias que obran en los archivos de las áreas de su adscripción.
 
+> <small>(F. DE E., D.O.F. 24 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 28.
 
-La Secretaría Administrativa está conformada por la Dirección de Administración Presupuestal y Recursos Financieros y por la Dirección de Servicios Administrativos y Bienes.
+La Unidad de Administración y Finanzas está conformada por la Dirección de Administración Presupuestal y Recursos Financieros y por la Dirección de Servicios Administrativos y Bienes.
 
 ###### Artículo 29.
 
@@ -925,7 +923,9 @@ XVII. Proporcionar apoyo y asesoría a las unidades administrativas en materia d
 
 XVIII. Disponer las liquidaciones de pago de servicios personales del Colegio;
 
-XIX. Tramitar, en coordinación con el Abogado General, los contratos de obra, adquisiciones, arrendamientos y de prestación de servicios del Colegio, así como realizar los trámites necesarios ante las autoridades competentes y proveedores y contratistas;
+> <small>(F. DE E., D.O.F. 24 DE SEPTIEMBRE DE 2019)</small>
+
+XIX. Tramitar, en coordinación con el Titular de la Unidad Encargada del Apoyo Jurídico, los contratos de obra, adquisiciones, arrendamientos y de prestación de servicios del Colegio, así como realizar los trámites necesarios ante las autoridades competentes y proveedores y contratistas;
 
 XX. Vigilar que las obras de construcción, conservación, reparación, adaptación o mantenimiento de los bienes muebles se realicen conforme a las especificaciones de los contratos y proyectos respectivos;
 
