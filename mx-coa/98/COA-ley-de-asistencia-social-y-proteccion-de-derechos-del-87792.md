@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asistencia-social-y-proteccion-de-derechos-del-87792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-27"
-last_updated: "2019-08-23"
+last_updated: "2019-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 27 de abril de 2012.
 
@@ -229,7 +229,13 @@ XIII. Las carentes de capacidad para satisfacer sus requerimientos básicos de s
 
 XIV. Personas que por su extrema ignorancia requieran de los servicios de asistencia, y
 
-XV. Las demás personas consideradas en otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+XV. Las personas con VIH-SIDA; y
+
+(REUBICADA, P.O. 24 DE SEPTIEMBRE DE 2019)
+
+XVI. Las demás personas consideradas en otras disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2017)</small>
 
@@ -1440,3 +1446,9 @@ P.O. 23 DE AGOSTO DE 2019.
 PRIMERO.- Entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 SEGUNDO.- La presente reforma será aplicable a los nombramientos que se presenten con posterioridad a la entrada en vigor del Presente Decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 349.- SE REFORMA LA FRACCIÓN XV Y SE RECORRE LA FRACCIÓN XVI DEL ARTÍCULO 6 DE LA LEY DE ASISTENCIA SOCIAL Y PROTECCIÓN DE DERECHOS DEL ESTADO DE COAHUILA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
