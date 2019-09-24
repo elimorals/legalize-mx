@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2019-07-05"
+last_updated: "2019-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -168,6 +168,10 @@ d) Promover la generosidad en el uso de los recursos, en vistas de promover la s
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2019)</small>
 
 XVII. Fomentar las medidas necesarias para la protección y cuidados de las y los alumnos, para preservar su integridad física, emocional, psicológica y social, propensas a detectar, prevenir y evitar conductas violentas entre ellos, que atente en contra de su desarrollo y competencias; individuales, sociales e integridad física, sobre una base de respeto y dignidad.
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+XVIII. Promover, fomentar e impulsar en los educandos una cultura de paz, a través de técnicas de mediación y prácticas restaurativas para la solución de conflictos derivados del ámbito escolar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -1934,3 +1938,15 @@ P.O. 5 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 302.- SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 7 DE LA LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 352.- SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 7 DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
