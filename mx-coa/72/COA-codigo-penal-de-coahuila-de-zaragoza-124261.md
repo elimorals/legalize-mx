@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2019-08-23"
+last_updated: "2019-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
 
 Código publicado en la Tercera Sección al Número 86 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -3039,17 +3039,31 @@ Se impondrá de cuatro a nueve años de prisión y multa, a quien cometa un homi
 
 Artículo 188 (Tipo penal complementado de feminicidio)
 
-Se aplicará prisión de veinte a cincuenta años y multa, al que prive de la vida a una mujer por razón de género. Se considera que existe razón de género cuando concurra cualquiera de las siguientes circunstancias:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+Se aplicará prisión de cuarenta a sesenta años y multa, al que prive de la vida a una mujer por razón de género. Se considera que existe razón de género cuando concurra cualquiera de las siguientes circunstancias:
 
 I. Presente signos de violencia sexual de cualquier tipo, previa o posterior a la privación de la vida de la víctima infligida por el sujeto activo;
 
-II. Se le haya infligido por el sujeto activo una o más lesiones o mutilaciones infamantes o degradantes en zonas genitales o en cualquier otra, previa o posteriormente a la privación de la vida;
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+II. Se le haya infligido por el sujeto activo una o más lesiones o mutilaciones infamantes o degradantes en zonas genitales o en cualquier otra, previa o posteriormente a la privación de la vida o actos de necrofilia.
 
 III. Existan antecedentes o datos de cualquier tipo de violencia o discriminación por género en el ámbito familiar, laboral, o escolar, del sujeto activo contra la víctima;
 
 IV. Haya existido entre el sujeto activo y la víctima una relación sentimental, afectiva o de confianza;
 
-V. El cuerpo sea expuesto, depositado o arrojado en un lugar público, en circunstancias que degraden o menosprecien a la víctima.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+V. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA Y REFORMADA ANTES FRACCIÓN V], P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+VII. El cuerpo sea expuesto, depositado o arrojado en un lugar público.
 
 Además de la sanción anterior, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
 
@@ -7768,3 +7782,9 @@ P.O. 23 DE AGOSTO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 346.- SE REFORMA: EL SEGUNDO PÁRRAFO, LA FRACCIÓN II Y LA FRACCIÓN V DEL ARTÍCULO 188; SE ADICIONA: LA FRACCIÓN VI Y LA FRACCIÓN VII, DEL MISMO ARTÍCULO DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
