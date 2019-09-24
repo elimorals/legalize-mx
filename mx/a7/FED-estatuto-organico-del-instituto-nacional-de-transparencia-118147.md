@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-transparencia-11814
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-01-17"
-last_updated: "2018-02-13"
+last_updated: "2019-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118147&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-11-01"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE SEPTIEMBRE DE 2019.
 
 Estatuto publicado en la Segunda Sección al Número 13 del Diario Oficial de la Federación, el martes 17 de enero de 2017.
 
@@ -1889,71 +1889,101 @@ XIV. Las demás que deriven de la normatividad aplicable en la materia, y las qu
 
 ### CAPÍTULO DÉCIMO TERCERO. Del Órgano Interno de Control
 
+> <small>(REFORMADO, D.O.F. 24 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 51.
 
-El Órgano Interno de Control actuará con independencia técnica, operativa y de gestión para ejercer sus funciones, las cuales serán las siguientes:
+El Órgano Interno de Control está dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones, por lo que deberá regir su comportamiento bajo las estrategias de especialización técnica, profesionalización y los principios de máxima publicidad, transparencia y rendición de cuentas, teniendo a su cargo, en adición a lo establecido en el artículo 52 Ter de la Ley Federal de Transparencia y Acceso a la Información Pública, las siguientes atribuciones:
 
-I. Elaborar y remitir al Pleno para su aprobación, los lineamientos para el trámite de las quejas y denuncias que se presenten en contra de los servidores públicos del Instituto por el presunto incumplimiento a sus obligaciones administrativas, o por la inobservancia de las disposiciones normativas aplicables;
+l. Nombrar y remover libremente a las personas servidoras públicas de la estructura orgánica autorizada por el Pleno del Instituto para el Órgano Interno de Control, atendiendo al catálogo de descripción y perfil de puesto;
 
-II. Recibir quejas o denuncias que se formulen por el presunto incumplimiento de las obligaciones administrativas de los servidores públicos del Instituto y realizar las investigaciones a que haya lugar;
+II. Presentar al Pleno del Instituto la propuesta de modificación de su estructura orgánica; así como sobre la asignación de recursos materiales del Órgano Interno de Control, de acuerdo al presupuesto autorizado;
 
-III. Recibir, registrar y resguardar las declaraciones de situación patrimonial que deban presentar los servidores públicos del Instituto;
+III. En uso de su autonomía de gestión, decidir sobre la administración de los recursos humanos, materiales y financieros asignados para el ejercicio de sus atribuciones; así como sobre su organización y funcionamiento internos;
 
-IV. Verificar la evolución del patrimonio de los servidores públicos del Instituto;
+IV. Elaborar el manual de organización y de funcionamiento específico del Órgano Interno de Control; así como el manual de procedimientos a su cargo;
 
-V. Iniciar, instruir y resolver el procedimiento administrativo disciplinario y, en su caso, imponer las sanciones que correspondan;
+V. Elaborar el catálogo de descripción y perfil de puestos de la estructura orgánica autorizada, que contenga la descripción de las funciones y obligaciones, perfil, requisitos y condiciones necesarias para optimizar el desempeño de su personal;
 
-VI. Determinar el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de las obligaciones administrativas, en el ámbito de su competencia;
+VI. Emitir y ejecutar un plan anual de capacitación para los servidores públicos adscritos al Órgano Interno de Control en las materias técnicas y afines necesarias para el desarrollo de sus funciones;
 
-VII. Determinar la suspensión temporal del presunto responsable, de su empleo, cargo o comisión, si así conviene para la conducción o continuación de las investigaciones o de los procedimientos administrativos disciplinarios;
+VII. Emitir acuerdos, lineamientos, circulares, manuales, directrices y políticas de gestión interna, para el debido cumplimiento de las facultades que tiene conferidas, sin depender de criterios de comportamiento de otros órganos u organismos;
 
-VIII. Recibir, instruir y resolver los recursos de revocación que se interpongan en contra de las resoluciones de los procedimientos administrativos disciplinarios;
+VIII. Emitir, el Código de Ética Institucional conforme a los lineamientos que expida el Sistema Nacional Anticorrupción y presentarlo a las instancias que correspondan dentro del Instituto para su publicación, atendiendo al principio de máxima publicidad;
 
-IX. Presentar, por conducto del servidor público que expresamente designe el Titular del Órgano Interno de Control, las denuncias o, en su caso, solicitar a la Dirección General de Asuntos Jurídicos del Instituto, que formule las querellas respectivas, en los supuestos en que, en el ejercicio de sus atribuciones, detecte conductas que puedan ser constitutivas de delito;
+IX. Solicitar a la Secretaría Técnica del Pleno que las disposiciones normativas de carácter administrativo que se emitan sean publicadas en el Portal Nacional de Transparencia del Instituto y se incluyan en el marco normativo; independientemente de la solicitud de publicación en el Diario Oficial de la Federación, para lo cual, en su caso, el Órgano Interno de Control, a través del Pleno del Instituto, en coordinación y colaboración con la Dirección General de Asuntos Jurídicos, lleve a cabo los trámites internos correspondientes para su publicación;
 
-X. Recibir, instruir y resolver las inconformidades interpuestas por los licitantes en contra de actos que contravengan las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
+X. Emitir lineamientos generales para prevenir la comisión de faltas administrativas y hechos de corrupción, que deberán observar las personas servidoras públicas del Instituto en el desempeño de sus empleos, cargos o comisiones, de acuerdo a las directrices que fije el Sistema Nacional Anticorrupción.
 
-XI. Iniciar, instruir y resolver el procedimiento de intervenciones de oficio, si así se considera conveniente, por presumir la inobservancia de las disposiciones mencionadas en la fracción anterior;
+XI. Implementar acciones para orientar el criterio que deberán observar las personas servidoras públicas del Instituto en el desempeño de sus empleos, cargos o comisiones en situaciones específicas que prevengan la comisión de faltas administrativas; así como evaluar anualmente el resultado de dicha implementación.
 
-XII. Investigar, iniciar, instruir y resolver los procedimientos administrativos correspondientes e imponer las sanciones a los licitantes, proveedores y contratistas en los términos de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
+XII. Valorar las recomendaciones que haga el Comité Coordinador del Sistema Nacional Anticorrupción, con el objeto de adoptar las medidas necesarias para el fortalecimiento institucional en su desempeño y control interno, y con ello la prevención de faltas administrativas y hechos de corrupción, informando a dicho Comité de la atención que se dé a estas y, en su caso, sus avances y resultados;
 
-XIII. Tramitar los procedimientos de conciliación previstos en las disposiciones jurídicas en materia de adquisiciones, arrendamientos y servicios del sector público y de obras públicas y servicios relacionados con las mismas, así como presidir y conducir las sesiones de conciliación;
+XIII. Implementar el Protocolo de Actuación en Contrataciones que expida el Comité Coordinador del Sistema Nacional Anticorrupción;
 
-XIV. Recibir, instruir y resolver los recursos de revisión que se hagan valer en contra de las resoluciones de inconformidades e intervenciones de oficio, así como en contra de las resoluciones por las que se impongan sanciones a licitantes, proveedores y contratistas, previstos en las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
+XIV. Informar al Comité Coordinador del Sistema Nacional Anticorrupción, los avances y resultados de los mecanismos de coordinación que implemente el Instituto por determinación del propio Comité, en términos de la Ley General del Sistema Nacional Anticorrupción;
 
-XV. Realizar la defensa jurídica de las resoluciones que emita, ante las diversas instancias jurisdiccionales;
+XV. Promover la ejecución de acciones que coadyuven al mejoramiento de la gestión pública realizada por las unidades administrativas del Instituto, cuando derivado de la atención de los asuntos de su competencia así se determine;
 
-XVI. Participar conforme a las disposiciones vigentes en los Comités y Subcomités de los que el Órgano Interno de Control forme parte e intervenir en los actos que se deriven de los mismos;
+XVI. Solicitar y obtener de las autoridades competentes, en los términos de las disposiciones aplicables, la información necesaria para el cumplimiento de sus funciones;
 
-XVII. Llevar el registro de los servidores públicos sancionados; así como el de los licitantes, proveedores y contratistas sancionados;
+XVII. Suscribir acuerdos, convenios, bases de coordinación, de colaboración o cualquier otra figura semejante, tanto nacionales como internacionales, que se requiera a efectos de desempeñar de manera más eficiente las atribuciones que tiene conferidas en el ámbito de su competencia, haciendo efectiva su autonomía técnica y de gestión, informando previamente al Pleno de dicha expedición o suscripción, excepto aquellos que involucren o comprometan recursos financieros del Instituto, para lo cual, requerirá la aprobación del Pleno, de conformidad con lo establecido en la fracción XXXI, del artículo 12 del presente Estatuto;
 
-XVIII. Investigar, iniciar, instruir y resolver los procedimientos de responsabilidad que le correspondan, conforme a la normatividad aplicable;
+XVIII. Elaborar y presentar al Pleno del Instituto el Programa Anual de Auditoria dentro de los 45 días naturales al inicio de cada año;
 
-XIX. Elaborar y remitir al Pleno para su aprobación, las normas, procedimientos y sistemas para la práctica de las auditorías, revisiones y visitas que realice el Órgano Interno de Control;
+XIX. Incorporar en el Programa Anual de Auditoría el seguimiento y cumplimiento de la normativa para la contratación plurianual de bienes, servicios y arrendamientos que sean celebradas por el Instituto;
 
 XX. Programar, ordenar y realizar auditorías, revisiones y visitas a las unidades administrativas del Instituto, a fin de verificar que hayan cumplido con las disposiciones normativas aplicables, e informar de sus resultados a los responsables de las áreas revisadas;
 
-XXI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto;
+XXI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto; ya sea con motivo de una denuncia o del ejercicio de sus atribuciones fiscalizadoras, de supervisión o de investigación, ejercidas de oficio;
 
-XXII. Dar seguimiento a la atención de las recomendaciones y acciones de mejora que realice el propio Órgano Interno de Control y a las observaciones determinadas por otras instancias de fiscalización competentes;
+XXII. Dar seguimiento a la atención que las unidades administrativas del Instituto otorguen a las recomendaciones y acciones de mejora que determine el Órgano Interno de Control, así como de aquellas que sean determinadas por otras instancias de fiscalización competentes;
 
-XXIII. Intervenir en los actos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que correspondan;
+XXIII. Rendir un informe trimestral al Pleno del Instituto del avance en la ejecución del Programa Anual de Auditorías;
 
-XXIV. Rendir un informe anual al Pleno del Instituto, de los resultados de su gestión, conforme a sus programas de trabajo;
+XXIV. Participar, conforme a las disposiciones vigentes, en los Comités y Subcomités de los que el Órgano Interno de Control forme parte e intervenir en los actos que se deriven de los mismos;
 
-XXV. Rendir un informe trimestral al Comisionado Presidente del avance en la ejecución del Programa Anual de Auditorías;
+XXV. Recibir, registrar y resguardar, mediante medios electrónicos y empleando medios de identificación electrónica, las declaraciones de situación patrimonial, de conflicto de intereses que presenten las personas servidoras públicas del Instituto; así como el acuse respectivo de la declaración fiscal de cada uno de ellos;
 
-XXVI. Requerir la información y documentación necesaria para cumplir con sus funciones;
+XXVI. Realizar verificaciones aleatorias, o a través de investigaciones o auditorías, de las declaraciones patrimoniales que obren en el sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, así como de la evolución del patrimonio de las personas servidoras públicas. De no existir anomalías, expedir la certificación que corresponda. En caso contrario, iniciar la investigación correspondiente;
 
-XXVII. Nombrar y remover a los servidores públicos adscritos al Órgano Interno de Control;
+XXVII. Recibir las denuncias que se formulen por el presunto incumplimiento de las obligaciones administrativas de los servidores públicos del Instituto o de particulares por conductas sancionables en términos de la normativa aplicable, y realizar las investigaciones a que haya lugar;
 
-XXVIII. Promover el establecimiento de acciones que coadyuven al mejoramiento de la gestión en las unidades administrativas del Instituto, cuando derivado de la atención de los asuntos de su competencia así se determine, y
+XXVIII. Substanciar y resolver los procedimientos de responsabilidad administrativa por conductas no graves y, en su caso, imponer las sanciones correspondientes de acuerdo con lo previsto en la normativa aplicable;
 
-> <small>(ADICIONADA, D.O.F. 13 DE FEBRERO DE 2018)</small>
+XXIX. Imponer las medidas cautelares, las medidas de apremio, la resolución de los incidentes y ejercer las atribuciones que, con puntualidad como autoridad resolutora en los procedimientos de responsabilidad administrativa, le confiera la normativa en la materia;
 
-XXIX. Expedir copias certificadas de los documentos que obren en sus archivos, en los términos de la normatividad aplicable.
+XXX. Substanciar y resolver los recursos de su competencia que interpongan las personas servidoras públicas del Instituto en contra de las determinaciones que se emitan en los procedimientos de responsabilidad administrativa, de conformidad con la normativa aplicable a la materia;
 
-XXX. Las demás que las disposiciones legales y administrativas le confieran.
+XXXI. Substanciar y resolver las inconformidades interpuestas por los licitantes en contra de actos que contravengan las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
+
+XXXII. Substanciar y resolver el procedimiento de intervenciones de oficio, si así se considera conveniente, por presumir la inobservancia de las disposiciones mencionadas en la fracción anterior;
+
+XXXIII. Substanciar y resolver los procedimientos administrativos correspondientes e imponer las sanciones a los licitantes, proveedores y contratistas en los términos de las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
+
+XXXIV. Substanciar y resolver los procedimientos de conciliación previstos en las disposiciones jurídicas en materia de adquisiciones, arrendamientos y servicios del sector público y de obras públicas y servicios relacionados con las mismas, así como presidir y conducir las sesiones de conciliación;
+
+XXXV. Substanciar y resolver los recursos de su competencia que se hagan valer en contra de las resoluciones de inconformidades e intervenciones de oficío, así como de sanciones a licitantes, proveedores y contratistas, previstos en las disposiciones jurídicas en materia de adquisiciones, arrendamientos, servicios, obras públicas y servicios relacionados con las mismas;
+
+XXXVI. Determinar el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de las obligaciones administrativas, en el ámbito de su competencia;
+
+XXXVII. Presentar denuncias por hechos que las leyes señalen como delitos ante las instancias competentes;
+
+XXXVIII. Realizar la defensa jurídica de las resoluciones que emita ante las diversas instancias jurisdiccionales;
+
+XXXIX. Requerir a las unidades administrativas del Instituto, a las personas físicas o morales, públicas o privadas, información, documentación y coadyuvancia necesaria para cumplir con sus funciones;
+
+XL. Llevar el registro de las personas servidoras públicas sancionadas; así como el de los licitantes, proveedores y contratistas sancionados;
+
+XLI. Expedir copias certificadas de los documentos que obren en sus archivos, en los términos de la normativa aplicable;
+
+XLII. Solicitar a las unidades administrativas del Instituto asesoría, capacitación, consultoría y apoyo técnico para el desarrollo de las funciones que tiene conferidas, en coadyuvancia interinstitucional;
+
+XLIII. Atender las solicitudes de información, competencia del Órgano Interno de Control, en tiempo y forma;
+
+XLIV. Establecer los mecanismos de recepción de correspondencia y gestión documental necesarios para el ejercicio de sus atribuciones;
+
+XLV. Las demás obligaciones que las disposiciones legales y administrativas le confieran.
 
 ### CAPÍTULO DÉCIMO CUARTO. De las licencias y ausencias
 
@@ -2048,3 +2078,27 @@ QUINTO. Se instruye a la Secretaría Técnica del Pleno, para que, por conducto 
 El presente acuerdo y su anexo puede ser consultado en la dirección electrónica siguiente: http://inicio.inai.org.mx/AcuerdosDelPleno/ACT-EXT-PUB-06-12.2017.03.pdf
 
 SEXTO. El presente Acuerdo entrará en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE SEPTIEMBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS MODIFICACIONES AL ARTÍCULO 51 DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban diversas modificaciones al artículo 51 del Estatuto Orgánico del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, en los términos del documento que, como anexo único, forma parte de este Acuerdo.
+
+SEGUNDO. Se instruye a la Dirección General de Asuntos Jurídicos, que realice las gestiones necesarias, a efecto de que este Acuerdo se publique en el Diario Oficial de la Federación.
+
+TERCERO. Se instruye a la Secretaría Técnica del Pleno, para que, por conducto de la Dirección General de Atención al Pleno, realice las gestiones necesarias a efecto de que el presente Acuerdo se publique en el portal de internet del Instituto.
+
+El presente acuerdo y su anexo pueden ser consultados en las direcciones electrónicas siguientes:
+
+http://inicio.ifai.org.mx/AcuerdosDelPleno/ACT-PUB-11-09-2019.13.pdf
+
+www.dof.gob.mx/2019/INAI/ACT-PUB-11-09-2019-13.pdf
+
+CUARTO. Este Acuerdo y su anexo entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+QUINTO. El Titular del Órgano Interno de Control emitirá dentro de los 120 (ciento veinte) días hábiles posteriores a la expedición del presente, el Código de Ética Institucional.
+
+Para la expedición del resto de la normativa que derive del presente, se estará a lo programado para tales efectos por el Titular del Órgano Interno de Control, quien deberá informar dicha programación al Pleno del Instituto.
+
+SEXTO. Se deroga toda disposición que se oponga este Acuerdo.
