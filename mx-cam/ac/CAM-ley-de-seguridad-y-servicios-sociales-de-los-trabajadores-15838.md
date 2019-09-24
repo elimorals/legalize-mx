@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-15838
 country: "mx"
 rank: "ley"
 publication_date: "1987-06-03"
-last_updated: "2019-08-28"
+last_updated: "2019-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EL DECRETO NUMERO 76, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA, PUBLICADO EN EL P.O. DE 28 DE AGOSTO DE 2019, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE SEPTIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE SEPTIEMBRE DE 2019.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 3 de junio de 1987.
 
@@ -1433,7 +1433,9 @@ El Instituto, a solicitud del servidor público de educación básica afiliado a
 
 Asimismo, en caso de solicitud de la prestación de guardería por parte del servidor público de este grupo de educación básica, el Instituto cubrirá el costo de la subrogación mediante convenio con guarderías acreditadas por el IMSS.
 
-OCTAVO.- Las y los Servidores Públicos que hayan iniciado sus cotizaciones al Instituto con anterioridad al 1 de julio de 2005, y que a la entrada en vigor del presente Decreto aún no tengan derecho a pensión voluntaria por no contar con los 30 años de cotización al Instituto, conforme a lo dispuesto en la misma, se le aplicará al monto que le corresponda del porcentaje establecido en la siguiente tabla, de acuerdo a su edad:
+> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+OCTAVO.- Las y los Servidores Públicos que hayan iniciado sus cotizaciones al Instituto con anterioridad al 1 de julio de 2005, y que a la entrada en vigor del presente Decreto aún no tengan derecho a pensión voluntaria por no contar con los 30 años de cotización al Instituto, conforme a lo dispuesto en la misma, se le aplicará al monto que le corresponda, el porcentaje establecido en la siguiente tabla, de acuerdo a su edad:
 
 Edad de inicio de Pensión Porcentaje a percibir
 
