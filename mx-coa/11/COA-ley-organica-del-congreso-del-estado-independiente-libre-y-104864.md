@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2019-07-12"
+last_updated: "2019-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
 
@@ -2655,6 +2655,12 @@ Si las disposiciones tomadas por la o el Presidente de la Junta de Gobierno, la 
 
 Quien Presida la Junta de Gobierno, la Mesa Directiva o la Diputación Permanente podrá ordenar, siempre que lo considere conveniente, que se sitúe guardia militar o de policía en el salón de sesiones o, en su caso, en el lugar designado para sesionar, la cual estará sujeta exclusivamente a las órdenes de quien la dispuso.
 
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+ARTÍCULO 238 BIS. El Congreso del Estado deberá desarrollar anualmente las jornadas del parlamento infantil y juvenil, como órganos de participación ciudadana, de deliberación y debate, que permita a niñas, niños y jóvenes coahuilenses desarrollar el análisis, la exposición y discusión social y política de asuntos de interés en el Estado, así como fomentar el conocimiento de las prácticas parlamentarias.
+
+El pleno de este Congreso, organizará mediante convocatoria las jornadas del parlamento infantil y juvenil, durante el Segundo Periodo Ordinario de Sesiones, en la que se establecerán los requisitos y procedimientos para su instalación y desarrollo.
+
 ### CAPÍTULO VI. De las Resoluciones
 
 ###### ARTÍCULO 239.
@@ -3340,3 +3346,11 @@ P.O. 12 DE JULIO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor 90 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente decreto.
+
+P.O. 24 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 350.- SE ADICIONA EL ARTÍCULO 238 BIS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
