@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2019-07-12"
+last_updated: "2019-09-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1307,11 +1307,11 @@ Las sesiones de las comisiones podrán ser públicas, cuando la divulgación de 
 
 Sólo por causas graves calificadas por las dos terceras partes de los miembros del Ayuntamiento, podrá dispensarse o removerse del cargo a quien integre alguna comisión, haciéndose un nuevo nombramiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 111.
 
-Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; la de transparencia y acceso a la información, la de reglamentación y la de Igualdad de Género.
+Las comisiones podrán ser individuales o colegiadas y permanentes o transitorias, y su materia y funciones serán establecidas en el Reglamento Interior o por acuerdo del Ayuntamiento, siempre de conformidad con las necesidades municipales, teniendo el carácter de permanentes y obligatorias las de hacienda, patrimonio y cuenta pública; la de planeación, urbanismo y obras públicas; la de transparencia y acceso a la información, la de reglamentación, la de Igualdad de Género y la de Ciencia, Tecnología e Innovación.
 
 Cada una de estas comisiones, estarán integradas cuando menos por un regidor de la primera minoría.
 
@@ -1398,6 +1398,22 @@ II.- Vigilar la administración pública en cuanto a su reglamentación y actuac
 III.- Tutelar en cada momento la paridad de género en el desarrollo de la función pública municipal.
 
 IV.- Implementar un plan transversal de acción en materia de derechos humanos e igualdad de género, donde se garantice la proporcionalidad de prerrogativas a la ciudadanía en aras del crecimiento por igual de mujeres y hombres en el campo laboral y profesional.
+
+> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2019)</small>
+
+ARTÍCULO 113 BIS-3. La Comisión de Ciencia, Tecnología e Innovación tendrá las siguientes facultades y atribuciones:
+
+I. Establecer planes, programas y estrategias para el fomento de la investigación científica y desarrollo tecnológico;
+
+II. Efectuar las acciones necesarias para impulsar la ciencia, tecnología e innovación en el municipio, en coordinación con el titular del Ejecutivo Estatal.
+
+III. Propiciar en los presupuestos correspondientes los recursos necesarios para la realización de las actividades relacionadas con la ciencia, tecnología e innovación.
+
+IV. Asistir a la Conferencia Nacional de Ciencia, Tecnología e Innovación, con el fin de ampliar y compartir conocimientos.
+
+V. Proponer áreas de investigación tecnológica e innovación a fin de que las y los investigadores difundan sus conocimientos.
+
+VI. Auxiliarse en la Ley de Ciencia, Desarrollo Tecnológico e Innovación para el Estado de Coahuila de Zaragoza en lo relacionado al ámbito municipal.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -4719,8 +4735,16 @@ P.O. 12 DE JULIO DE 2019.
 
 P.O. 12 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 320.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 355 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 320.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 355 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 354.- SE REFORMA EL ARTÍCULO 111 Y SE ADICIONA EL ARTÍCULO 113 BIS-3 AL CÓDIGO MUNICIPAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
