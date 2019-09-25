@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-asentamientos-humanos-ordenamiento-territorial-y-124616"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-27"
-last_updated: "2019-03-25"
+last_updated: "2019-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 27 de noviembre de 2017.
 
@@ -3213,9 +3213,11 @@ Tratándose de industria dedicada a la explotación y extracción de yacimientos
 
 Respetando las dimensiones mínimas en los artículos anteriores, las dimensiones y características de las zonas de salvaguarda se determinarán en los planes o programas de desarrollo urbano atendiendo a los diversos usos que las requieran, cuando se trate de predios o instalaciones en que se realizan actividades riesgosas o se manejen materiales o residuos peligrosos, así como en aquellas en que se deban establecer por causas naturales o factores socio-organizativos para prevenir contingencias urbanas o ambientales. Será obligación de los propietarios de dichos predios o instalaciones contemplar el establecimiento de las zonas de salvaguarda que señalen los planes o programas al interior de los mismos y mantenerlas libres de construcciones e instalaciones, así como habilitarlas y conservarlas como áreas ajardinadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 166.
 
-El Estado y los Municipios ejercerán sus facultades de regulación y control y promoverán la construcción y habilitación de obras para el manejo integral de aguas pluviales, con el fin de garantizar la seguridad de los habitantes del Estado y sus bienes.
+El Estado y los Municipios ejercerán sus facultades de regulación y control y promoverán la construcción y habilitación de obras para el manejo integral de aguas pluviales, con el fin de garantizar la seguridad de los habitantes del Estado y sus bienes, así como para su aprovechamiento para uso sanitario, riego, mantenimiento de áreas verdes o en su caso, para su permeo hacia los mantos acuíferos del subsuelo, de acuerdo a las Normas Oficiales Mexicanas y contando con las autorizaciones correspondientes del Organismo Federal pertinente, establecido en la Ley de Aguas Nacionales.
 
 Quienes pretendan llevar a cabo acciones de crecimiento urbanas en los términos de esta Ley, deberán sujetarse en materia de manejo integral de aguas pluviales a lo que establecen las disposiciones particulares para el tipo de acción urbana de que se trate, así como a las disposiciones en materia de zonas de riesgos para las que se pretendan llevar a cabo en las mismas.
 
@@ -7548,3 +7550,9 @@ P.O. 25 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 106. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES I A XCVI DEL ARTÍCULO 3; LAS FRACCIONES VI Y VII DEL ARTÍCULO 190; Y POR ADICIÓN LAS FRACCIONES XCVII, XCVIII, XCIX, C DEL ARTÍCULO 3, Y LA FRACCIÓN VIII DEL ARTÍCULO 190 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN LA FRACCIÓN X DEL ARTÍCULO 170 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 153. SE REFORMA POR MODIFICACIÓN LOS ARTÍCULOS 23, 34, Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 43, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 34, TODOS DE LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO (SIC); Y SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTÍCULO 166 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
