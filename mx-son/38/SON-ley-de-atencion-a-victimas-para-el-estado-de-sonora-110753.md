@@ -4,7 +4,7 @@ identifier: "SON-ley-de-atencion-a-victimas-para-el-estado-de-sonora-110753"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-26"
-last_updated: "2015-11-26"
+last_updated: "2019-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR, PREVIA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL ESTADO DE SONORA, EN LOS TÉRMINOS ESTABLECIDOS EN EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 05, QUE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES SE INCORPORA AL RÉGIMEN JURÍDICO DEL ESTADO DE SONORA, PUBLICADO EN EL BOLETÍN OFICIAL NÚMERO 31, SECCIÓN III, EL DÍA JUEVES 15 DE OCTUBRE DE 2015.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 26 de noviembre de 2015.
 
@@ -55,6 +53,10 @@ Las disposiciones de esta Ley son de orden público y observancia en el Estado e
 
 La presente ley obliga, en sus respectivas competencias, a las autoridades del gobierno del estado, de los municipios, así como de sus poderes constitucionales, y a cualquiera de sus oficinas, dependencias, organismos o instituciones públicas o privadas cuyas facultades, funciones o atribuciones estén relacionadas con la ayuda, asistencia, protección o reparación integral a las víctimas.
 
+> <small>(ADICIONADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+Las autoridades e instituciones referidas en el párrafo anterior deberán actuar conforme a los principios y criterios establecidos en esta Ley, y brindar atención inmediata, en especial en materias de salud, educación y asistencia social; en caso contrario quedarán sujetas a las responsabilidades administrativas, civiles o penales a que haya lugar.
+
 ###### Artículo 2.
 
 Objeto
@@ -73,7 +75,9 @@ Glosario
 
 Para los efectos de esta Ley, además de los conceptos contenidos en el glosario de la Ley General de Víctimas se entenderá por:
 
-I.- Asesor Jurídico Estatal: Asesor Jurídico del estado para la Atención a Víctimas;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+I.- Asesor Jurídico o asesores jurídicos: Cada asesor jurídico o asesores jurídicos de atención a víctimas, adscritos a la Comisión Ejecutiva Estatal;
 
 II.- Asesoría Jurídica Estatal: Asesoría Jurídica estatal de Atención a Víctimas;
 
@@ -91,9 +95,17 @@ VIII.- Registro Estatal: Registro Estatal de Víctimas;
 
 IX.- Reglamento Estatal: Reglamento de la Ley De Atención a Víctimas para el Estado de Sonora;
 
-X.- Sistema Estatal: Sistema Estatal de Atención a Víctimas; y
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-XI.- Sistema Nacional: El Sistema Nacional de Víctimas previsto en la Ley General de Víctimas.
+X.- Recursos de Ayuda: Gastos de ayuda inmediata, ayuda, asistencia, atención y rehabilitación previstos en el Título Quinto de esta Ley y en los Títulos Segundo, Tercero y Cuarto de la Ley General en los aspectos que competan al Estado, con cargo al Fondo Estatal;
+
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XI.- Sistema Estatal: Sistema Estatal de Atención a Víctimas; y
+
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XII.- Sistema Nacional: El Sistema Nacional de Víctimas previsto en la Ley General de Víctimas.
 
 ###### Artículo 4.
 
@@ -105,11 +117,13 @@ I.- Empoderamiento y reintegración.- Todas las acciones que se realicen en bene
 
 II.- Factibilidad.- Las Instituciones sujetas a esta ley, están obligadas al diseño de políticas públicas y estrategias operativas viables, sustentables y de alcance definido en tiempo, espacio y previsión de recursos presupuestales, que permitan la articulación e implementación de esta Ley de forma armónica y garanticen la vigencia efectiva de los derechos de las víctimas.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 5.
 
 Provisión de recursos
 
-El Estado garantizará en todo momento los recursos necesarios para la implementación de la presente Ley, con el objetivo de permitir el fortalecimiento institucional, el capital humano, los recursos técnicos, materiales y otros que resulten necesarios.
+El Estado garantizará en todo momento los Recursos de Ayuda necesarios para la implementación de la presente Ley, con el objetivo de permitir el fortalecimiento institucional, el capital humano, los recursos técnicos, materiales y otros que resulten necesarios.
 
 ###### Artículo 6.
 
@@ -219,7 +233,9 @@ II.- Titular de la Secretaría de Gobierno;
 
 III.- Titular de la Secretaría de Hacienda;
 
-IV.- Titular de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+IV.- Titular de la Fiscalía General de Justicia del Estado de Sonora;
 
 V.- Titular de la Secretaría de Seguridad Pública;
 
@@ -263,9 +279,13 @@ Corresponderá al Presidente del Sistema Estatal la facultad de promover en todo
 
 El Presidente del Sistema Estatal será suplido en sus ausencias por el Secretario de Gobierno. Los demás integrantes del Sistema Estatal deberán asistir personalmente.
 
-Tendrán el carácter de invitados a las sesiones del Sistema Estatal o de sus comités, las instituciones u organizaciones privadas o sociales, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras, que por acuerdo del Pleno de la Comisión Ejecutiva deban participar en la sesión que corresponda.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-El Reglamento establecerá el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con derecho a voz pero sin voto.
+Tendrán el carácter de invitados a las sesiones del Sistema Estatal o de sus comités, las instituciones u organizaciones privadas o sociales, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras, que por acuerdo del Titular de la Comisión Ejecutiva Estatal deban participar en la sesión que corresponda.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+El Reglamento Estatal establecerá el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con voz pero sin voto.
 
 ###### Artículo 12.
 
@@ -297,49 +317,171 @@ XI.- Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO II. DE LA COMISIÓN EJECUTIVA ESTATAL DE ATENCIÓN A VÍCTIMAS
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 13.
 
 Comisión Ejecutiva Estatal
 
-La Comisión Ejecutiva Estatal de Atención a Víctimas es el órgano operativo del Sistema Estatal, contará con personalidad jurídica, patrimonio propio y gozará de autonomía técnica y de gestión.
+La Comisión Ejecutiva Estatal de Atención a Víctimas es un organismo no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión, y contará con los recursos que le asigne el Presupuesto de Egresos del Estado de Sonora.
+
+Las medidas y reparaciones que dicte la Comisión Ejecutiva Estatal serán determinadas por el Comisionado Ejecutivo en los términos de la fracción XIV del artículo 20 de esta Ley.
+
+La Comisión Ejecutiva Estatal tendrá por objeto garantizar, promover y proteger los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial los derechos a la asistencia, a la protección, a la atención, a la verdad, a la justicia, a la reparación integral y a la debida diligencia, en términos del artículo 2 de esta Ley; así como desempeñarse como el órgano operativo del Sistema Estatal y las demás atribuciones que esta Ley señale.
+
+El domicilio de la Comisión Ejecutiva Estatal estará en la ciudad de Hermosillo, y podrá establecer delegaciones y oficinas en otros lugares del Estado cuando así lo autorice la Junta de Gobierno de acuerdo con su disponibilidad presupuestaria.
 
 En la ejecución de las funciones, acciones, planes y programas previstos en esta Ley, la Comisión Ejecutiva Estatal garantizará la representación y participación directa de las víctimas y organizaciones de la sociedad civil, propiciando su intervención en la construcción de políticas públicas, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema con el objetivo de garantizar un ejercicio transparente de sus atribuciones.
 
-A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, la Comisión Ejecutiva Estatal contará con un Fondo, una asesoría jurídica y un registro de víctimas, los cuales operarán a través de las instancias correspondientes, para la atención a víctimas en los términos dispuestos por esta Ley.
+A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, de la Comisión Ejecutiva Estatal dependerán el Fondo Estatal, la Asesoría Jurídica Estatal y el Registro Estatal, los cuales operarán a través de las instancias correspondientes, para la atención a víctimas en los términos dispuestos por esta Ley.
+
+> <small>(ADICIONADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 13 Bis.
+
+Patrimonio de la Comisión Ejecutiva Estatal
+
+El patrimonio de la Comisión Ejecutiva Estatal se integra con:
+
+I.- Los recursos que le asigne el Congreso del Estado a través del Presupuesto de Egresos para el Estado;
+
+II.- Los bienes muebles e inmuebles que le sean asignados; y
+
+III.- Los demás ingresos, rendimientos, bienes, derechos y obligaciones que adquiera o se le adjudiquen por cualquier título legal.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 14.
 
 Integración de la Comisión Ejecutiva Estatal
 
-La Comisión Ejecutiva Estatal estará integrada por tres comisionados. El Ejecutivo Estatal enviará al Congreso del Estado, previa convocatoria pública, una terna por cada comisionado a elegir. El Congreso elegirá por el voto de las dos terceras partes de los presentes.
+La Comisión Ejecutiva Estatal cuenta con una Junta de Gobierno y un Comisionado Ejecutivo para su administración, y podrá contar con una Asamblea Consultiva como órgano de consulta y vinculación con las víctimas y la sociedad.
 
-Una vez cerrada la convocatoria, el Ejecutivo deberá publicar la lista de las propuestas recibidas.
+> <small>(ADICIONADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-Para garantizar que en la Comisión Ejecutiva Estatal estén representados colectivos de víctimas, especialistas y expertos que trabajen en la atención a víctimas, ésta se conformará con las propuestas presentadas al Ejecutivo Estatal, en los siguientes términos:
+###### Artículo 14 Bis.
 
-I.- De seis aspirantes, se elegirán dos comisionados que podrán ser: especialistas en derecho, psicología, derechos humanos, sociología o especialidades equivalentes con experiencia en la materia de esta Ley, propuestos por las universidades públicas o privadas del Estado y la Comisión de Derechos Humanos del Estado; y
+Integración de la Junta de Gobierno
 
-II.- De tres aspirantes, se elegirá un comisionado representando a colectivos de víctimas, propuestos por organizaciones no gubernamentales con actividad acreditada en atención a víctimas de al menos cinco años.
+La Junta de Gobierno estará integrada por:
 
-En el caso de las universidades privadas que postulen candidatos o candidatas para la conformación de la Comisión Ejecutiva Estatal, deberán contar con al menos cinco años de existencia y gozar de reconocimiento público por su calidad académica y sus aportes a la investigación en temas relacionados con la atención integral a víctimas.
+I.- Los Titulares de:
 
-Para la elección de los integrantes de la Comisión Ejecutiva Estatal, la Legislatura estatal recibirá las ternas enviadas por el Gobernador y llevará a cabo el proceso de selección.
+a).- La Secretaría de Gobierno, quien la presidirá;
 
-En su conformación, el Ejecutivo y la Legislatura Estatal garantizarán la representación de las diversas regiones geográficas de la Entidad y las especializaciones sobre hechos victimizantes, así como el enfoque transversal de género y diferencial.
+b).- La Secretaría de Hacienda;
+
+c).- La Secretaría de Educación y Cultura;
+
+d).- La Secretaría de Salud Pública;
+
+e).- La Secretaría de Seguridad Pública;
+
+f).- La Fiscalía General de Justicia;
+
+g).- La Secretaría de la Consejería Jurídica; y
+
+h).- Cuatro representantes de la Asamblea Consultiva.
+
+II.- El Comisionado Ejecutivo.
+
+Los suplentes de los integrantes referidos en la fracción I de este artículo deberán tener el nivel de subsecretario, director general o su equivalente, con excepción del inciso h) de la referida fracción.
+
+Los integrantes de la Junta de Gobierno tendrán derecho a voz y voto en las sesiones que se celebren.
+
+La Junta de Gobierno contará con un Secretario Técnico.
+
+La organización y el funcionamiento de la Junta de Gobierno se regirán por lo dispuesto en esta Ley y en las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 14 Ter.
+
+Sesiones de la Junta de Gobierno
+
+La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que proponga su Presidente, el Comisionado Ejecutivo o al menos tres de sus integrantes.
+
+Las sesiones de la Junta de Gobierno serán válidas con la asistencia de la mayoría de sus integrantes, siempre que esté presente el Presidente de la misma. Los acuerdos se adoptarán por mayoría de votos de los miembros presentes.
+
+> <small>(ADICIONADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 14 Quáter.
+
+Atribuciones de la Junta de Gobierno
+
+La Junta de Gobierno tendrá exclusivamente las siguientes atribuciones:
+
+I.- Aprobar y modificar su reglamento de sesiones, con base en la propuesta que presente el Comisionado Ejecutivo;
+
+II.- Aprobar las disposiciones normativas que el Comisionado Ejecutivo someta a su consideración en los términos de esta Ley y del Reglamento Estatal;
+
+III.- Definir los criterios, prioridades y metas de la Comisión Ejecutiva Estatal que proponga el Comisionado Ejecutivo;
+
+IV.- Conocer de los convenios y acuerdos de colaboración, coordinación y concertación que celebre la Comisión Ejecutiva Estatal de acuerdo con esta Ley, y
+
+V.- Aquellas que por su naturaleza jurídica le correspondan.
+
+En ningún caso la Junta de Gobierno tendrá competencia para conocer de los Recursos de Ayuda y la reparación integral que la Comisión Ejecutiva Estatal otorgue a las víctimas.
+
+> <small>(ADICIONADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 14 Quinquies.
+
+Asamblea Consultiva
+
+La Asamblea Consultiva es un órgano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrolle la Comisión Ejecutiva Estatal.
+
+La Asamblea Consultiva podrá estar integrada por representantes de colectivos de víctimas, organizaciones de la sociedad civil y académicos quienes serán electos por la Junta de Gobierno; durarán en su cargo cuatro años, y podrán ser ratificados sólo por un período igual, en los términos de lo dispuesto en el Reglamento Estatal.
+
+El carácter de miembro de la Asamblea Consultiva es honorífico, por lo que no se percibirá remuneración alguna por su desempeño.
+
+Para la integración de la Asamblea Consultiva la Comisión Ejecutiva Estatal emitirá una convocatoria pública que establecerá los criterios de selección y deberá ser publicada en el Boletín Oficial del Gobierno del Estado y en un periódico de mayor circulación en la entidad.
+
+La convocatoria para integrar la Asamblea Consultiva atenderá a un criterio de representación regional rotativa de cuando menos una institución, organización, colectivo o grupo por región.
+
+Las bases de la convocatoria pública deben ser emitidas por el Comisionado Ejecutivo y atender, cuando menos, a criterios de experiencia nacional o internacional en trabajos de protección, atención, asistencia, justicia, verdad y reparación integral de víctimas; desempeño destacado en actividades profesionales, de servicio público, sociedad civil o académicas, así como experiencia laboral, académica o de conocimientos especializados, en materias afines a esta Ley.
+
+La elección de los miembros de la Asamblea Consultiva deberá garantizar el respeto a los principios que dan marco a esta Ley, especialmente los de paridad y enfoque diferencial.
+
+Las funciones de la Asamblea Consultiva deberán preverse en el Reglamento Estatal.
+
+> <small>(ADICIONADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 14 Sexies.
+
+Designación del Comisionado Ejecutivo
+
+La Comisión Ejecutiva Estatal estará a cargo de un Comisionado Ejecutivo, el cual será elegido por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de la terna que enviará el titular del Ejecutivo Estatal, previa consulta pública a los colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia.
+
+El Comisionado Ejecutivo desempeñará su cargo por cinco años, sin posibilidad de reelección. Durante el ejercicio del cargo, no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 15.
 
 Requisitos para ser Comisionada/Comisionado
 
-Para ser comisionada/o, se requiere:
+Para ser Comisionado/a Ejecutivo/a se requiere:
 
 I.- Ser ciudadana o ciudadano mexicano;
 
 II.- No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
 
-III.- Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley; y
+III.- Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su designación;
 
-IV.- No haber ocupado cargo público, ni haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación, salvo aquellas personas cuyas funciones en el servicio público estuvieran relacionadas directamente con la atención a víctimas y haber destacado en el desempeño de la función con propuestas y proyectos implementados que incidieron en la mejor atención a las víctimas.
+IV.- Contar con título profesional, y
+
+V.- No haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
+
+Durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+
+> <small>(ADICIONADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 15 Bis.
+
+Designaciones del Comisionado Ejecutivo
+
+Para el desarrollo de las actividades de la Comisión Ejecutiva Estatal, el Comisionado Ejecutivo designará a las personas responsables del Fondo Estatal, la Asesoría Jurídica Estatal, el Registro Estatal y la Unidad de Evaluación.
 
 ###### Artículo 16.
 
@@ -369,7 +511,9 @@ X.- Cumplir las directrices para alimentar de información el Registro Nacional 
 
 XI.- Rendir un informe anual ante el Sistema Estatal, sobre los avances del Plan Estatal y demás obligaciones previstas en esta Ley;
 
-XII.- Administrar y vigilar el adecuado ejercicio del Fondo Estatal y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XII.- Vigilar el adecuado ejercicio del Fondo Estatal y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
 
 XIII.- Crear mecanismos e incentivos para nutrir de recursos al Fondo Estatal;
 
@@ -381,7 +525,9 @@ XVI.- Nombrar a los titulares del Fondo Estatal, del Registro Estatal y de la As
 
 XVII.- Proponer al Sistema Estatal el proyecto de Reglamento Estatal de la presente Ley, sus reformas y adiciones;
 
-XVIII.- Fijar medidas, lineamientos o directrices de carácter obligatorio que faciliten condiciones dignas, integrales y efectivas para la atención, asistencia y protección de las víctimas, que permitan su recuperación y restablecimiento para lograr el pleno ejercicio de su derecho a la justicia, a la verdad y a la reparación integral;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XVIII.- Fijar medidas, lineamientos o directrices de carácter obligatorio que faciliten condiciones dignas, integrales y efectivas para la atención, asistencia y protección de las víctimas, que permitan su recuperación y restablecimiento para lograr el pleno ejercicio de su derecho a la justicia, a la verdad y a la reparación integral, así como expedir lineamientos a efecto de que a las víctimas no se les causen mayores cargas de comprobación para la compensación que deba otorgar por los perjuicios, sufrimientos y pérdidas evaluables económicamente que sean consecuencia de los delitos referidos en el artículo 68 de la Ley General de Víctimas;
 
 XIX.- Promover la coordinación interinstitucional de las dependencias, instituciones y órganos nacionales, estatales y municipales;
 
@@ -411,43 +557,77 @@ XXXI.- Brindar apoyo de acuerdo a sus políticas y estrategias viables, sustenta
 
 XXXII.- Implementar los mecanismos de control, con la participación de la sociedad civil, que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas. La supervisión deberá ser permanente y los comités u órganos específicos que se instauren al respecto, emitirán recomendaciones que deberán ser respondidas por las instituciones correspondientes;
 
-XXXIII.- Recibir y evaluar los informes rendidos por los titulares del Fondo Estatal, del Registro Estatal y de la Asesoría Jurídica Estatal, y emitir las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia; y
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-XXXIV.- Las demás que se deriven de la normatividad aplicable.
+XXXIII.- Hacer públicos los informes anuales sobre el funcionamiento del Fondo Estatal y de la Asesoría Jurídica Estatal, así como sobre el Programa Estatal y las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XXXIV.- Celebrar convenios de coordinación, colaboración y concertación con la Comisión Ejecutiva de Atención a Víctimas del gobierno federal, con las entidades e instituciones estatales incluida la Comisión Estatal de Derechos Humanos, así como con las autoridades municipales competentes, en las materias que prevé la Ley General de Víctimas y para el cumplimiento de los fines del Sistema Estatal;
+
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XXXV.- Determinar y cubrir el monto de las compensaciones que deba pagar en forma subsidiaria con cargo al Fondo Estatal, de acuerdo con lo dispuesto por las disposiciones relativas de la Ley General de Víctimas y su Reglamento.
+
+El monto de la compensación subsidiaria a la que se podrá obligar al Estado será hasta de quinientas Unidades de Medida y Actualización mensuales, que ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento de la víctima;
+
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XXXVI.- Exigir a los sentenciados, en los términos previstos por la Ley General de Víctimas, la restitución al Fondo Estatal de los recursos erogados por concepto de compensaciones subsidiarias que hubiere otorgado a las víctimas por el delito que aquellos cometieron;
+
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XXXVII.- Garantizar, cuando proceda, el debido registro, atención y reparación, en los términos previstos por la Ley General de Víctimas, a las víctimas de desplazamiento interno cuya entidad de origen no sea el Estado de Sonora; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XXXVIII.- Las demás que se deriven de la normatividad aplicable.
 
 ###### Artículo 17.
 
-Sesiones de la Comisión Ejecutiva Estatal
+(DEROGADO, B.O. 25 DE SEPTIEMBRE DE 2019)
 
-La Comisión Ejecutiva Estatal sesionará al menos una vez a la semana y en sesión extraordinaria, cada que la situación urgente así lo requiera. Los integrantes tienen obligación de comparecer a las sesiones. Si un comisionado no asistiera a las sesiones ordinarias en más de tres ocasiones consecutivas durante un año en forma injustificada será removido de su cargo.
-
-Las determinaciones de la Comisión Ejecutiva se tomarán por la mayoría de los presentes.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 18.
 
-Comités de la Comisión Ejecutiva Estatal
+Unidad de Evaluación.
 
-La Comisión Ejecutiva Estatal contará con comités, cuyas atribuciones serán determinadas por el Reglamento de esta Ley, encaminados al estudio de grupos vulnerables tales como niños, adultos mayores, mujeres, indígenas, migrantes, personas con discapacidad, entre otros; de víctimas de delitos como violencia familiar, violencia sexual, trata y tráfico de personas, personas desaparecidas, no localizadas, ausentes o extraviadas, homicidio, tortura, tratos crueles, inhumanos o degradantes, detención arbitraria, y de víctimas de violaciones a derechos humanos.
+La Comisión Ejecutiva Estatal cuenta con una Unidad de Evaluación, con las siguientes facultades:
+
+I.- Elaborar los proyectos de dictamen de acceso a los recursos del Fondo Estatal para el otorgamiento de los Recursos de Ayuda;
+
+II.- Elaborar los proyectos de dictamen de reparación integral y, en su caso, la compensación, previstas en esta Ley y en la Ley General de Víctimas y su Reglamento;
+
+III.- Elaborar los proyectos de dictamen para la creación de fondos de emergencia, y
+
+IV.- Las demás establecidas en esta Ley, la Ley General de Víctimas y su Reglamento.
 
 ###### Artículo 19.
 
-Diagnósticos situacionales
+(DEROGADO, B.O. 25 DE SEPTIEMBRE DE 2019)
 
-Estos comités generarán diagnósticos situacionales precisos que les permita evaluar las leyes, políticas públicas o acciones estatales que impiden un acceso efectivo de las víctimas a la atención, asistencia, protección, justicia, verdad o reparación integral. Evaluarán también las políticas de prevención sobre la situación concreta que se evalúa desde una visión de seguridad ciudadana y humana. Las autoridades están obligadas a entregar toda la información que requieran estos comités para la evaluación y elaboración de los diagnósticos, cuidando la información de carácter privado de las víctimas.
+> <small>(REFORMADO PROEMIO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 20.
 
-Facultades del Comisionado Presidente
+Facultades del Comisionado Ejecutivo
 
-El Comisionado Presidente tendrá las siguientes facultades:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+El Comisionado Ejecutivo tendrá las siguientes facultades:
 
 I.- Administrar, representar legalmente y dirigir el cumplimiento de las atribuciones de la Comisión Ejecutiva Estatal;
 
-II.- Convocar, dirigir, coordinar y dar seguimiento a las sesiones que celebre la Comisión Ejecutiva Estatal;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+II.- Convocar y dar seguimiento a las sesiones que celebre la Junta de Gobierno;
 
 III.- Crear los lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de las funciones de la Comisión Ejecutiva Estatal;
 
-IV.- Notificar a los integrantes del Sistema Estatal los acuerdos asumidos por la Comisión Ejecutiva Estatal, que puedan resultar de su interés y, dar seguimiento a los mismos a través de las sesiones que se celebren;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+IV.- Notificar a los integrantes del Sistema Estatal los acuerdos asumidos y dar seguimiento a los mismos;
 
 V.- Coordinar las funciones del Registro Estatal de Víctimas, mediante la creación de lineamientos, mecanismos, instrumentos e indicadores para implementar y vigilar el debido funcionamiento de dicho registro;
 
@@ -457,23 +637,41 @@ VII.- Coordinar las acciones para el cumplimiento de las funciones de la Comisi�
 
 VIII.- Garantizar el registro de las víctimas que acudan directamente ante la Comisión Ejecutiva Estatal a solicitar su inscripción en el Registro Estatal de Víctimas, así como los servicios de ayuda, asistencia, atención, acceso a la justicia, acceso a la verdad y reparación integral que soliciten a través de las instancias competentes, dando seguimiento hasta la etapa final para garantizar el cumplimiento eficaz de las funciones de las instituciones;
 
-IX.- Proponer al Pleno de la Comisión Ejecutiva la creación de los Comités especializados en la materia;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-X.- Proponer al Pleno de la Comisión Ejecutiva Estatal los convenios de colaboración o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
+IX.- Crear comités especializados en la materia;
+
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+X.- Suscribir los convenios de coordinación, concertación y colaboración o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
 
 XI.- Realizar los programas operativos anuales y los requerimientos presupuestales anuales que corresponda a la Comisión Ejecutiva Estatal;
 
 XII.- Aplicar las medidas que sean necesarias para garantizar que las funciones de la Comisión Ejecutiva Estatal se realicen de manera adecuada, eficiente, oportuna, expedita y articulada;
 
-XIII.- Recabar información que pueda mejorar la gestión y desempeño de la Comisión Ejecutiva Estatal; y
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-XIV.- Las demás que se requiera para el cumplimiento de las funciones de la Comisión Ejecutiva Estatal.
+XIII.- Recabar información que pueda mejorar la gestión y desempeño de la Comisión Ejecutiva Estatal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XIV.- Determinar a propuesta de la Unidad de Evaluación, los Recursos de Ayuda y la reparación integral que la Comisión Ejecutiva Estatal otorgue a las víctimas, para lo cual el Comisionado Ejecutivo se podrá apoyar de la asesoría de la Asamblea Consultiva;
+
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XV.- Someter a la consideración y, en su caso, aprobación de la Junta de Gobierno la organización del servicio civil de carrera de la Asesoría Jurídica Estatal a establecerse en el Reglamento Interior de la Comisión Ejecutiva Estatal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XVI.- Las demás que se requiera para el cumplimiento de las funciones de la Comisión Ejecutiva Estatal.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 21.
 
 Estructura
 
-Para su adecuado funcionamiento, la Comisión Ejecutiva Estatal contará con Unidades de Atención Inmediata y primer contacto, encargada de brindar los servicios directos a las víctimas, conformadas por los asesores jurídicos y profesionales victimológicos, y de las demás unidades administrativas que dispongan su Estatuto Orgánico y el Reglamento de esta Ley.
+Para su adecuado funcionamiento, la Comisión Ejecutiva Estatal contará, además del Fondo Estatal, la Asesoría Jurídica Estatal, el Registro Estatal y Unidad de Evaluación, con las unidades administrativas que señale el Reglamento Interior de la misma.
 
 ### CAPÍTULO III. DEL PLAN Y PROGRAMA ESTATALES DE ATENCIÓN A VÍCTIMAS DEL ESTADO
 
@@ -507,7 +705,9 @@ En la elaboración del Programa Anual de Atención a Víctimas del Estado se ate
 
 Registro Estatal de Víctimas
 
-Se crea el Registro Estatal de Víctimas como mecanismo técnico y administrativo adscrito a la Comisión Ejecutiva Estatal, que soporta el proceso de ingreso y registro de las víctimas de delito y de violaciones de derechos humanos al Sistema creado por la Ley General de Víctimas, de forma complementaria al Registro Nacional de Víctimas.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+Se crea el Registro Estatal de Víctimas como mecanismo técnico y administrativo adscrito a la Comisión Ejecutiva Estatal, que soporta el proceso de ingreso y registro de las víctimas de delito y de violaciones de derechos humanos al Sistema Estatal creado por esta Ley, cuya información se integrará al Registro Nacional de Víctimas.
 
 El Registro Estatal de Víctimas recabará e integrará su información, entre otras, por las siguientes fuentes, siempre que cumplan con los requisitos contemplados en la Ley General de Víctimas y en la presente Ley:
 
@@ -521,7 +721,9 @@ Las entidades productoras y usuarias de la información sobre las víctimas a ni
 
 Los datos del Registro Estatal serán, como mínimo, los establecidos en los artículos 99 y 104 de la Ley General de Víctimas.
 
-El Reglamento de esta Ley establecerá la responsabilidad de las Instituciones que reciban la solicitud de ingreso al Registro Estatal.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+El Reglamento Estatal establecerá la responsabilidad de las Instituciones que reciban la solicitud de ingreso al Registro Estatal.
 
 ### CAPÍTULO II. DEL INGRESO DE LA VÍCTIMA AL REGISTRO ESTATAL DE VÍCTIMAS
 
@@ -579,7 +781,9 @@ Cancelación de inscripción
 
 Se podrá cancelar la inscripción en el Registro Estatal cuando, después de realizada la valoración contemplada en esta Ley, incluido el haber escuchado a la víctima o a quien haya solicitado la inscripción, la Comisión Ejecutiva Estatal encuentre que la solicitud de registro es contraria a la verdad respecto de los hechos victimizantes de tal forma que sea posible verificar que la persona no es víctima. La negación se hará en relación con cada uno de los hechos y no podrá hacerse de manera global o general.
 
-La decisión que cancela el ingreso en el Registro Estatal deberá ser fundada y motivada. Deberá notificarse personalmente y por escrito a la víctima, a su representante legal, a la persona debidamente autorizada por ella para notificarse o a quien haya solicitado la inscripción, con el fin de que la víctima pueda interponer, si lo desea, recurso de reconsideración de la decisión ante la Comisión Ejecutiva Estatal para que ésta sea aclarada, modificada, adicionada o revocada de acuerdo al procedimiento que establezca el Reglamento de la presente Ley.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+La decisión que cancela el ingreso en el Registro Estatal deberá ser fundada y motivada. Deberá notificarse personalmente y por escrito a la víctima, a su representante legal, a la persona debidamente autorizada por ella para notificarse o a quien haya solicitado la inscripción, con el fin de que la víctima pueda interponer, si lo desea, recurso de reconsideración de la decisión ante la Comisión Ejecutiva Estatal para que ésta sea aclarada, modificada, adicionada o revocada de acuerdo al procedimiento que establezca el Reglamento Estatal.
 
 La notificación se hará en forma directa. En el caso de no existir otro medio más eficaz para hacer la notificación personal, se le enviará a la víctima una citación a la dirección, al número telefónico o a la dirección de correo electrónico que figuren en el formato único de declaración o en los demás sistemas de información, a fin de que comparezca a la diligencia de notificación personal.
 
@@ -627,15 +831,25 @@ II.- El órgano jurisdiccional mediante sentencia ejecutoriada;
 
 III.- El juez en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
 
-IV.- Los órganos jurisdiccionales internacionales de protección de derechos humanos a los que México les reconozca competencia, y la Comisión Ejecutiva Estatal que podrá tomar en consideración las determinaciones de:
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-a).- El Ministerio Público;
+IV.- Los organismos públicos de protección de los derechos humanos;
 
-b).- La autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter;
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-c).- Los organismos públicos de protección de los derechos humanos; o
+V.- Los organismos internacionales de protección de derechos humanos a los que México les reconozca competencia;
 
-d).- Los organismos internacionales de protección de derechos humanos a los que México les reconozca competencia.
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+VI.- La autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter;
+
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+VII.- La Comisión Ejecutiva Estatal; y
+
+> <small>(ADICIONADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+VIII.- El Ministerio Público.
 
 El reconocimiento de la calidad de víctima tendrá como efecto que ésta pueda acceder a los recursos del Fondo Estatal y a la reparación integral de conformidad con lo previsto en la presente Ley, el Reglamento Estatal y demás disposiciones correlativas.
 
@@ -649,7 +863,9 @@ La Comisión Ejecutiva Estatal deberá estudiar el caso y, de ser procedente, da
 
 Fondo Estatal
 
-Se crea el Fondo Estatal, el cual tiene por objeto brindar los recursos necesarios para la ayuda, asistencia y reparación integral de las víctimas, en los términos previstos en esta Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+El Fondo Estatal tiene por objeto brindar los Recursos de Ayuda y la reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
 
 La víctima podrá acceder de manera subsidiaria al Fondo Estatal en los términos de esta Ley, sin perjuicio de las responsabilidades y sanciones administrativas, penales y civiles que resulten.
 
@@ -659,7 +875,9 @@ Integración del Fondo Estatal
 
 El Fondo Estatal se conformará con:
 
-I.- Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado, en un porcentaje que no será menor al 0.014% del Gasto Programable, sin que pueda disponerse de dichos recursos para fines diversos a los señalados por esta Ley;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+I.- Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado, en el rubro correspondiente, sin que pueda disponerse de éstos para un fin diverso y sin que pueda ser disminuido.
 
 II.- Recursos obtenidos por la enajenación de bienes decomisados y abandonados en la proporción que corresponda, en los términos establecidos en el Código Nacional de Procedimientos Penales;
 
@@ -695,11 +913,13 @@ Características del Fondo Estatal
 
 El Fondo Estatal estará exento de toda imposición de carácter fiscal, así como de los diversos gravámenes que pudieren estar sujetas las operaciones que se realicen con el Estado.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 37.
 
-Disposiciones para el funcionamiento del fondo
+Disposiciones para el funcionamiento del Fondo Estatal
 
-La Comisión Ejecutiva Estatal deberá emitir las disposiciones necesarias para el funcionamiento del Fondo, las cuales se regirán por lo establecido en esta Ley.
+La Comisión Ejecutiva Estatal deberá emitir las reglas de operación para el funcionamiento del Fondo Estatal, las cuales se regirán por lo establecido en esta Ley.
 
 ###### Artículo 38.
 
@@ -711,13 +931,13 @@ La Comisión Ejecutiva Estatal, en un plazo máximo de diez días, determinará 
 
 ### CAPÍTULO II. DE LA ADMINISTRACIÓN
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 39.
 
 Administración del Fondo Estatal
 
-Los recursos del Fondo Estatal serán administrados y operados por la Comisión Ejecutiva Estatal, a través de un fideicomiso público.
-
-El manejo, administración y ejercicio de los recursos del Fondo y su fiscalización se regirá por lo dispuesto en la Ley de Fiscalización Superior para el Estado de Sonora y demás normatividad aplicable.
+La Comisión Ejecutiva Estatal proveerá a las víctimas que corresponda los recursos para cubrir las medidas a que se refieren el Título Quinto de esta Ley y los Títulos Segundo, Tercero y Cuarto de la Ley General en los aspectos que competan al Estado, con cargo al Fondo Estatal.
 
 ###### Artículo 40.
 
@@ -725,23 +945,29 @@ Atribuciones del titular del Fondo Estatal
 
 El Titular del Fondo Estatal tendrá las facultades y atribuciones siguientes:
 
-I.- Administrar cautelosamente los recursos que conforman el Fondo Estatal a fin de permitir el cumplimiento efectivo del objeto de ésta Ley;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+I.- Vigilar que los recursos que conforman el Fondo Estatal se administren y ejerzan adecuadamente a fin de permitir el cumplimiento efectivo del objeto de esta Ley;
 
 II.- Gestionar lo pertinente para que los recursos asignados al Fondo Estatal ingresen oportunamente al mismo;
 
-III.- Presentar periódicamente informes y rendición de cuentas ante el Pleno de la Comisión Ejecutiva Estatal;
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+III.- Presentar periódicamente informes y rendición de cuentas ante la Junta de Gobierno;
 
 IV.- Realizar las previsiones necesarias a fin de procurar la solvencia del Fondo Estatal; y
 
 V.- Las demás que establezca la presente Ley, el Reglamento Estatal y demás disposiciones aplicables.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 41.
 
 Aplicación del Fondo Estatal
 
-Los recursos del Fondo Estatal se aplicarán para otorgar apoyos de carácter económico a la víctima, las cuales podrán ser de ayuda, asistencia o reparación integral, en los términos de la Ley General de Víctimas, la presente Ley, el Reglamento Estatal y demás disposiciones aplicables.
+Los recursos del Fondo Estatal se aplicarán para otorgar apoyos de carácter económico a la víctima, los cuales podrán ser de ayuda inmediata, ayuda, asistencia, atención y rehabilitación o reparación integral, en los términos de la Ley General de Víctimas, la presente Ley, el Reglamento Estatal y demás disposiciones aplicables.
 
-El Titular del Fondo Estatal será el responsable de instruir a la institución fiduciaria la entrega de la indemnización o compensación que corresponda otorgar a la víctima, previa autorización que al respecto emita la Comisión Ejecutiva Estatal. El pago de las indemnizaciones se regirá en los términos dispuestos por la presente Ley.
+La Comisión Ejecutiva Estatal determinará el apoyo o asistencia que corresponda otorgar a la víctima de los recursos del Fondo incluida la compensación, previa opinión que al respecto emita la Unidad de Evaluación, tomando en cuenta la capacidad de recursos en el Fondo.
 
 ###### Artículo 42.
 
@@ -767,13 +993,13 @@ Quien reciba la solicitud la remitirá a la Comisión Ejecutiva Estatal o comisi
 
 Las determinaciones de las comisiones respecto a cualquier tipo de pago, compensación o reparación del daño tendrán el carácter de resoluciones administrativas definitivas. Contra dichas resoluciones procederá el juicio de amparo.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 45.
 
-Comité interdisciplinario evaluador
+Unidad de Evaluación
 
-La Comisión Ejecutiva Estatal contará con un Comité Interdisciplinario Evaluador encargado de emitir opiniones técnicas sobre las solicitudes de acceso al Fondo Estatal de las víctimas y de elaborar los proyectos de compensación subsidiaria para que sean aprobados, en su caso, por aquélla.
-
-En cuanto se reciba una solicitud ésta se turnará al Comité Interdisciplinario Evaluador, para la integración del expediente que servirá de base para la propuesta que el comisionado presidente presente al Pleno de la Comisión Ejecutiva Estatal para determinar el apoyo o ayuda que requiera la víctima.
+En cuanto reciba una solicitud, la Comisión Ejecutiva Estatal la turnará a la Unidad de Evaluación para la integración del expediente que servirá de base para la determinación que el Comisionado Ejecutivo respecto de los Recursos de Ayuda y, en su caso, la reparación que requiera la víctima.
 
 ###### Artículo 46.
 
@@ -835,7 +1061,9 @@ V.- Los recursos disponibles en el Fondo Estatal.
 
 Determinación
 
-La Comisión Ejecutiva Estatal determinará el monto del pago de una compensación en forma subsidiaria a cargo del Fondo Estatal, tomando en cuenta:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+El Comisionado Ejecutivo determinará el monto del pago de una compensación en forma subsidiaria a cargo del Fondo Estatal, tomando en cuenta:
 
 I.- Las solicitudes para acceder a los recursos del Fondo en materia de reparación serán procedentes siempre que la víctima:
 
@@ -847,11 +1075,17 @@ c).- No haya recibido la reparación integral del daño por cualquier otra vía,
 
 d).- Presente solicitud de asistencia, ayuda o reparación integral, siempre y cuando dicha solicitud sea avalada por la Comisión Ejecutiva Estatal.
 
-II.- La determinación de la Comisión Ejecutiva Estatal deberá dictarse dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-El monto de la compensación subsidiaria no podrá exceder de quinientas veces el salario mínimo diario en la entidad, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+II.- La determinación del Comisionado Ejecutivo Estatal deberá dictarse dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
 
-Cuando la reparación del daño exceda de la cantidad prevista en el párrafo anterior, la Comisión Ejecutiva Estatal, por votación unánime de sus integrantes, podrá autorizar un monto compensatorio mayor, mediante resolución debidamente fundada y motivada, que justifique dicho monto.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+El monto de la compensación subsidiaria no podrá exceder de quinientas unidades de medida y actualización mensuales, que ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+Cuando la reparación del daño exceda de la cantidad prevista en el párrafo anterior, el Comisionado Ejecutivo podrá autorizar un monto compensatorio mayor, mediante resolución debidamente fundada y motivada, que justifique dicho monto.
 
 ###### Artículo 51.
 
@@ -871,11 +1105,15 @@ III.- Cuando parte del daño sufrido se explique a consecuencia del actuar u omi
 
 IV.- Cuando el daño haya sido causado por más de un agente y no sea posible identificar la exacta participación de cada uno de ellos, se establecerá una responsabilidad subsidiaria frente a la víctima, y se distribuirá el monto del pago de la indemnización en partes iguales entre todos los cocausantes previo acuerdo de la Comisión Ejecutiva Estatal.
 
-V.- Las medidas de ayuda y asistencia podrán ser de diversa índole, en cumplimiento de las disposiciones de esta Ley y su Reglamento. La reparación integral deberá cubrirse mediante moneda nacional, con la excepción de que se podrá pagar en especie de acuerdo a la resolución dictada por la Comisión Ejecutiva Estatal.
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+V.- Las medidas de ayuda y asistencia podrán ser de diversa índole, en cumplimiento de las disposiciones de esta Ley y del Reglamento Estatal. La reparación integral deberá cubrirse mediante moneda nacional, con la excepción de que se podrá pagar en especie de acuerdo a la resolución dictada por la Comisión Ejecutiva Estatal.
 
 VI.- La Comisión Ejecutiva Estatal tendrá facultades para cubrir las necesidades en términos de asistencia, ayuda y reparación integral, a través de los programas gubernamentales federales, estatales o municipales con que se cuente.
 
-VII.- Cuando proceda el pago de la reparación, el fondo registrará el fallo judicial que lo motivó y el monto de la indemnización, que será de consulta pública
+> <small>(REFORMADA, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+VII.- Cuando proceda el pago de la reparación, el Fondo Estatal registrará el fallo judicial que lo motivó y el monto de la indemnización.
 
 ###### Artículo 53.
 
@@ -901,29 +1139,29 @@ La Asesoría Jurídica Estatal estará integrada por asesores jurídicos de aten
 
 Contará con un Titular y las unidades administrativas que se requieran para el desempeño de sus funciones, en los términos que señalen las normas reglamentarias aplicables.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 56.
 
-Funciones del Titular de la Asesoría Jurídica
+Funciones del Titular de la Asesoría Jurídica Estatal
 
 El Titular de la Asesoría Jurídica Estatal tiene entre otras, las siguientes funciones:
 
-I.- Coordinar el servicio de asesoría jurídica para víctimas, a fin de garantizar los derechos de las víctimas contenidos en esta Ley, en tratados internacionales y demás disposiciones aplicables;
+I.- Asesorar y asistir a las víctimas en todo acto o procedimiento ante autoridad;
 
-II.- Coordinar el servicio de representación y asesoría jurídica de las víctimas en materia penal, familiar y de derechos humanos, a fin de garantizar el acceso a la justicia, a la verdad y la reparación integral;
+II.- Representar a la víctima en todo procedimiento jurisdiccional o administrativo derivado de un hecho victimizante;
 
 III.- Seleccionar y capacitar a los servidores públicos adscritos a la Asesoría Jurídica Estatal;
 
-IV.- Asignar por cada Unidad Investigadora del Ministerio Público, Tribunal en materia penal y Visitaduría de la Comisión Estatal de los Derechos Humanos, a Asesores Jurídicos Estatales y al personal de auxilio necesario, auxiliándose para ello de los Centros, Dirección de Atención a Víctimas, Sistemas Estatales y Municipales de Desarrollo para la Integración de la Familia, Dirección de Atención a la Mujer de los Municipios, Instituto Sonorense de la Mujer, Consejo Estatal para la Prevención, Atención de la Violencia Intrafamiliar, Centros de Justicia para las Mujeres, entre otras, en conjunto con el sistema Estatal;
+IV.- Asignar por cada Unidad Investigadora del Ministerio Público, Tribunal en Materia Penal y Visitaduría de la Comisión Estatal de Derechos Humanos, a un asesor jurídico de la Asesoría Jurídica Estatal y al personal de auxilio necesario, auxiliándose para ello de los Centros, Dirección de Atención a Víctimas, Sistemas Estatal y Municipales de Desarrollo Integral de la Familia, Dirección de Atención a la Mujer de los Municipios, Instituto Sonorense de las Mujeres, Consejo Estatal para la Prevención, Atención de la Violencia Intrafamiliar, Centros de Justicia para las Mujeres, entre otros, en conjunto con el Sistema Estatal;
 
-V.- Celebrar convenios de coordinación con las instituciones, organismos y asociaciones públicas y privadas que pueden coadyuvar en la defensa de los derechos de las víctimas;
+V.- Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de los abogados, peritos, profesionales y técnicos que integran a la Asesoría Jurídica Estatal;
 
-VI.- Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de los asesores jurídicos;
+VI.- Promover la realización de estudios tendientes a perfeccionar el servicio de Asesoría Jurídica Estatal;
 
-VII.- Promover la realización de estudios tendientes a perfeccionar el servicio de Asesoría Jurídica Estatal;
+VII.- Proponer para la aprobación del Comisionado Ejecutivo:
 
-VIII.- Proponer para la aprobación de la Comisión Ejecutiva Estatal:
-
-a).- Los lineamientos para la selección, ingreso y promoción de los asesores jurídicos de atención a víctimas;
+a).- La organización del servicio civil de carrera de la Asesoría Jurídica Estatal;
 
 b).- Las bases generales de organización y funcionamiento de la Asesoría Jurídica Estatal;
 
@@ -931,21 +1169,33 @@ c).- La propuesta de anteproyecto de presupuesto;
 
 d).- Las políticas que estime convenientes para la mayor eficacia de la defensa de los derechos e intereses de las víctimas; y
 
-f).- Aportar al proyecto del Plan Anual, el programa de Capacitación y Estímulos de la Asesoría Jurídica Estatal, así como un programa de difusión de sus servicios;
+e).- Aportar al proyecto del Plan Anual, el programa de Capacitación y Estímulos de la Asesoría Jurídica Estatal, así como un programa de difusión de sus servicios;
 
-IX.- Organizar, dirigir, evaluar y controlar los servicios de Asesoría Jurídica Estatal de las Víctimas que se presten, así como sus unidades administrativas;
+VIII.- Organizar, dirigir, evaluar y controlar los servicios de Asesoría Jurídica Estatal de las Víctimas que se presten, así como sus unidades administrativas;
 
-X.- Vigilar que se cumplan todas y cada una de las obligaciones impuestas a los Asesores Jurídicos Estatales;
+IX.- Vigilar que se cumplan todas y cada una de las obligaciones a cargo de los abogados, peritos, profesionales y técnicos que integran a la Asesoría Jurídica Estatal;
 
-XI.- Elaborar un informe anual de labores sobre las actividades integrales desarrolladas por todos y cada uno de los Asesores Jurídicos Estatales que pertenezcan a la Asesoría Jurídica Estatal, el cual deberá ser entregado a la Comisión Ejecutiva Estatal;
+X.- Elaborar un informe anual de labores sobre las actividades integrales desarrolladas por todos y cada uno de los Asesores Jurídicos Estatales que pertenezcan a la Asesoría Jurídica Estatal, el cual deberá ser entregado a la Comisión Ejecutiva Estatal;
 
-XII.- Las demás que sean necesarias para cumplir con el objeto de esta Ley.
+XI.- Procurar hacer efectivos cada uno de los derechos y garantías de la víctima, en especial el derecho a la protección, la verdad, la justicia y la reparación integral, por lo que podrá contar con servicios de atención médica y psicológica, trabajo social y aquéllos que considere necesarios para cumplir con el objetivo de esta fracción;
+
+XII.- Brindar a la víctima información clara, accesible y oportuna sobre los derechos, garantías, mecanismos y procedimientos que reconoce esta Ley;
+
+XIII.- Tramitar, supervisar o, cuando se requiera, implementar las medidas de ayuda inmediata, ayuda, asistencia, atención y rehabilitación previstas en esta Ley;
+
+XIV.- Formular denuncias o querellas; y
+
+XV.- Las demás que sean necesarias para cumplir con el objeto de esta Ley.
+
+> <small>(REFORMADO PROEMIO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 57.
 
-Derecho a la Asesoría Jurídica
+Derecho a la asesoría jurídica
 
-La víctima tendrá derecho a nombrar un abogado. En caso de no contar con abogado particular, la Comisión Ejecutiva Estatal deberá nombrarle un Asesor Jurídico Estatal.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+La víctima tendrá derecho a solicitarle a la Comisión Ejecutiva Estatal que le proporcione un asesor jurídico cuando no quiera o no pueda contratar un abogado particular, el cual elegirá libremente desde el momento de su ingreso al Registro Estatal. En este caso, la Comisión Ejecutiva Estatal deberá nombrarle uno a través de la Asesoría Jurídica Estatal.
 
 La víctima tendrá el derecho de que su abogado comparezca a todos los actos en los que ésta sea requerida.
 
@@ -961,11 +1211,15 @@ IV.- Los indígenas; y
 
 V.- Las personas que por cualquier razón social o económica tengan la necesidad de estos servicios.
 
+> <small>(REFORMADO PROEMIO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 58.
 
-Funciones del Asesor Jurídico Estatal
+Funciones de los asesores jurídicos
 
-El Asesor Jurídico Estatal tendrá las funciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+Los asesores jurídicos adscritos a la Asesoría Jurídica Estatal tendrán las funciones siguientes:
 
 I.- Asistir y asesorar a la víctima desde el primer momento en que tenga contacto con la autoridad;
 
@@ -1003,11 +1257,13 @@ IV.- No haber sido condenado por delito doloso con sanción privativa de liberta
 
 V.- Aprobar los cursos de formación continua.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 60.
 
-Asignación del Asesor Jurídico Estatal
+Asignación del asesor jurídico
 
-El Asesor Jurídico Estatal será asignado inmediatamente por la Comisión Ejecutiva Estatal, sin más requisitos que la solicitud formulada por la víctima o a petición de alguna institución, organismo de derechos humanos u organización de la sociedad civil.
+La asesoría jurídica será asignada inmediatamente por la Comisión Ejecutiva Estatal, sin más requisitos que la solicitud formulada por la víctima o a petición de alguna institución, organismo de derechos humanos u organización de la sociedad civil, desde el momento en que la víctima haya ingresado al Registro Estatal.
 
 ###### Artículo 61.
 
@@ -1015,17 +1271,17 @@ Servicio Civil de Carrera
 
 El servicio civil de carrera para el Asesor Jurídico Estatal, comprende la selección, ingreso, adscripción, permanencia, promoción, capacitación, prestaciones, estímulos y sanciones. Este servicio civil de carrera se regirá por lo establecido en las disposiciones reglamentarias aplicables.
 
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 62.
 
 Personal de Confianza
 
-El Titular y el personal técnico de la Asesoría Jurídica Estatal serán considerados servidores públicos de confianza.
+El Titular, los asesores jurídicos y el personal técnico de la Asesoría Jurídica Estatal serán considerados servidores públicos de confianza.
 
 ###### Artículo 63.
 
-Designación del Titular
-
-El Titular de la Asesoría Jurídica Estatal, será designado por el voto de la mayoría absoluta de la Comisión Ejecutiva Estatal y durará tres años en su cargo, pudiendo ser reelecto hasta por tres años más.
+(DEROGADO, B.O. 25 DE SEPTIEMBRE DE 2019)
 
 ###### Artículo 64.
 
@@ -1069,7 +1325,9 @@ VII.- Las demás que establezca el Reglamento Estatal.
 
 Las funciones que deban realizar los profesionales victimológicos, de forma específica, serán definidas en el Reglamento Estatal.
 
-En el reglamento se establecerán los lineamientos generales para la contratación de peritos y especialistas en las diversas áreas del conocimiento que se requieran.
+> <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+Asimismo, en el Reglamento Estatal se establecerán los lineamientos generales para la contratación de peritos y especialistas en las diversas áreas del conocimiento que se requieran.
 
 ## TÍTULO OCTAVO. DE LA CAPACITACIÓN, FORMACIÓN, ACTUALIZACIÓN Y ESPECIALIZACIÓN ASÍ COMO LA DIFUSIÓN DE DERECHOS
 
@@ -1172,3 +1430,45 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo. Sonora, a los diecisiete días del mes de noviembre del año dos mil quince.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO - CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 25 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 55, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La titular del Ejecutivo Estatal expedirá el Reglamento de la presente Ley dentro de los noventa días siguientes a la fecha en que este Decreto entre en vigor.
+
+###### ARTÍCULO CUARTO.
+
+Se contará con un plazo de noventa días para expedir los Lineamientos del Fondo Estatal, contado a partir de la fecha en que entre en vigor el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Una vez que entre en vigor el presente Decreto, la Secretaría de Hacienda del Ejecutivo Estatal deberá realizar las adecuaciones presupuestales conducentes.
+
+La Comisión Ejecutiva Estatal de Atención a Víctimas deberá hacer las previsiones presupuestales necesarias para la operación del presente decreto para el ejercicio fiscal siguiente al de su entrada en vigor.
+
+###### ARTÍCULO SEXTO.
+
+La Comisión Ejecutiva Estatal será la encargada de las reparaciones como consecuencia de la comisión de un delito o violaciones a sus derechos humanos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto.
+
+Dichas reparaciones comprenderán las medidas de restitución, rehabilitación, compensación, satisfacción y garantías de no repetición, en sus dimensiones individual, colectiva, material, moral y simbólica.
+
+La Secretaría de Gobierno, en un plazo de 30 días naturales contados a partir de la entrada en vigor del presente Decreto, remitirá los expedientes que se encuentren en trámite y resueltos, señalando las reparaciones que se estén pendientes de solventar, mismas que serán asumidas en su totalidad por la Comisión Ejecutiva Estatal.
+
+###### ARTÍCULO SÉPTIMO.
+
+Al año de la entrada en vigor del presente Decreto, la Comisión Ejecutiva Estatal rendirá un informe al Congreso del Estado, en el que indique las acciones que realizó para reparar el daño en las hipótesis a las que se refiere el artículo transitorio anterior.
+
+El Congreso podrá solicitar la comparecencia del titular de la Comisión Ejecutiva Estatal para que presente el informe correspondiente.
