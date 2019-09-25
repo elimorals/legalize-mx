@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-civil-para-el-estado-de-nayarit-33137"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-23"
-last_updated: "2016-11-08"
+last_updated: "2019-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 23 de Julio de 2003.
 
@@ -523,13 +523,17 @@ XXI. Tramitar y resolver el recurso administrativo previsto en esta ley; y
 
 XXII. La identificación y análisis de riesgos como sustento para la implementación de medidas de prevención y mitigación;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-XXIII. Elaborar el Atlas Municipal de Riesgos, y
+XXIII. Elaborar el Atlas Municipal de Riesgos;
 
-> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-XXIV. La (sic) demás que le señalen esta ley y otras normas y reglamentos aplicables.
+XXIV. Informar de manera escrita, visual y sonora, al inicio de todo acto público o acto oficial, sobre las medidas de seguridad en materia de protección civil que sean requeridas y necesarias con las que cuenta el lugar en que se desarrolla el evento; así como, avisar sobre la señalización de las salidas de emergencia, las zonas de seguridad y los procedimientos a seguir en caso de que ocurra un desastre o siniestro, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XXV. Las demás que le señalen esta ley y otras normas y reglamentos aplicables.
 
 ###### Artículo 13.
 
@@ -546,6 +550,10 @@ I. Los grupos voluntarios que prestan sus servicios en actividades de protecció
 II. Las asociaciones de vecinos constituidas conforme las disposiciones de la Ley Municipal; y
 
 III. Las unidades internas de las dependencias y organismos del sector publico; como también de las instituciones y empresas del sector privado, encargadas de instrumentar en el ámbito de sus funciones la ejecución de los programas de protección civil, atendiendo las necesidades especificas de prevención y atención de riesgos, para seguridad de su personal y bienes.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+Asimismo, las unidades, instituciones y empresas señaladas en el párrafo anterior, deberán informar de manera escrita, visual y sonora, al inicio de todo acto público o acto oficial, sobre las medidas de seguridad en materia de protección civil que sean requeridas y necesarias con las que cuenta el lugar en que se desarrolla el evento; así como, avisar sobre la señalización de las salidas de emergencia, las zonas de seguridad y los procedimientos a seguir en caso de que ocurra un desastre o siniestro.
 
 ###### Artículo 15.
 
@@ -1648,3 +1656,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 25 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
