@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-atencion-y-proteccion-de-las-personas-con-la-117818
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-17"
-last_updated: "2016-12-17"
+last_updated: "2019-09-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "NLE"
 ---
 # LEY PARA LA ATENCION Y PROTECCION DE LAS PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA Y/O TRANSTORNOS (SIC) DEL NEURODESARROLLO DEL ESTADO DE NUEVO LEON
 
-(NOTA: EL 1 DE OCTUBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2017, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 174 POR EL QUE SE EXPIDE ESTA LEY, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL DIECISIETE DE DICIEMBRE DE DOS MIL DIECISÉIS, LA CUAL SURTIRÁ SUS EFECTOS A LOS CIENTO OCHENTA DÍAS NATURALES SIGUIENTES A LA NOTIFICACIÓN DE LOS PUNTOS RESOLUTIVOS DE ESTA SENTENCIA AL CONGRESO DEL ESTADO DE NUEVO LEÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y/O TRANSTORNOS (SIC) DEL NEURODESARROLLO DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 17 de diciembre de 2016.
 
@@ -53,7 +51,9 @@ I. Asistencia Social: Conjunto de acciones tendientes a modificar y mejorar las 
 
 II. Barreras Socioculturales: Actitudes de rechazo e indiferencia por razones de origen étnico, género, edad, discapacidad, condición social entre otras, debido a la falta de información, prejuicios por parte de los integrantes de la sociedad que imponen su incorporación y participación plena en la vida social;
 
-III. Comisión: A la Comisión Interinstitucional Estatal;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+III. Comisión: A la Comisión Interinstitucional Estatal de Atención al Espectro Autista y Trastornos del Neurodesarrollo.
 
 IV. Concurrencia: Participación conjunta de dos o más dependencias o entidades de la administración pública Estatal o bien de los municipios que estén de acuerdo en intervenir en el ámbitos (sic) de su competencia, atiendan la gestión y, en su caso, la resolución de un fenómeno social;
 
@@ -215,11 +215,15 @@ III. Los padres o tutores, para otorgar los alimentos y representar los interese
 
 IV. Todos aquellos que determine la presente ley o cualquier otro ordenamiento jurídico que resulte aplicable.
 
-### Capítulo III. De la Comisión Interinstitucional Estatal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+### Capítulo III. De la Comisión Interinstitucional Estatal de Atención al Espectro Autista y Trastornos del Neurodesarrollo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 11.
 
-Se crea la Comisión lnterinstitucional Estatal como una instancia de carácter permanente del Gobierno del Estado, que tendrá por objeto garantizar que la ejecución de los programas en materia de atención a las personas con la condición del espectro autista o con trastornos del neurodesarrollo se realice de manera coordinada.
+Se crea la Comisión Interinstitucional Estatal de Atención al Espectro Autista y Trastornos del Neurodesarrollo como una instancia de carácter permanente del Gobierno del Estado, que tendrá por objeto garantizar que la ejecución de los programas en materia de atención a las personas con la condición del espectro autista o con trastornos del neurodesarrollo se realice de manera coordinada.
 
 Los acuerdos adoptados por la Comisión serán obligatorios, por lo que las autoridades competentes deberán cumplirlos a fin de lograr los objetivos de la presente Ley.
 
@@ -364,3 +368,11 @@ FERNANDO TURNER DÁVILA
 LA C. SECRETARIA DE DESARROLLO SOCIAL
 
 LUZ NATALIA BERRUN CASTAÑÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 155. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN III DEL ARTÍCULO 2; LA DENOMINACIÓN DEL CAPÍTULO III, EL PÁRRAFO PRIMERO DEL ARTÍCULO 11 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
