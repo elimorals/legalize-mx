@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-salud-del-estado-de-nuevo-leon-7631"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2019-05-22"
+last_updated: "2019-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -127,11 +127,17 @@ XX.- DISTRIBUIR LA CARTILLA NACIONAL DE SALUD DE LA MUJER; Y
 
 XXI.- ORGANIZAR, OPERAR, SUPERVISAR Y EVALUAR EL SISTEMA DE PROTECCIÓN SOCIAL EN SALUD EN EL ESTADO;
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-XXI BIS.- EL DISEÑO, PLANEACIÓN, ORGANIZACIÓN, COORDINACIÓN Y VIGILANCIA DEL REGISTRO ESTATAL DE CÁNCER; Y
+XXI BIS.- EL DISEÑO, PLANEACIÓN, ORGANIZACIÓN, COORDINACIÓN Y VIGILANCIA DEL REGISTRO ESTATAL DE CÁNCER;
 
-XXII.- LAS DEMÁS MATERIAS QUE ESTABLEZCA LA LEY GENERAL DE SALUD Y OTROS ORDENAMIENTOS LEGALES.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XXII.- LA PREVENCIÓN Y LA ATENCIÓN CON PERSPECTIVA DE GÉNERO DE LA SALUD FÍSICA Y MENTAL DE LAS VÍCTIMAS DE VIOLENCIA POR ACOSO Y HOSTIGAMIENTO SEXUAL; Y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+XXIII.- LAS DEMÁS MATERIAS QUE ESTABLEZCA LA LEY GENERAL DE SALUD Y OTROS ORDENAMIENTOS LEGALES.
 
 B.- EN MATERIA DE SALUBRIDAD LOCAL, NORMAR Y CONTROLAR LOS ASPECTOS SANITARIOS RELATIVOS A:
 
@@ -2440,3 +2446,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Las Secretarías tendrán un plazo de 90 días naturales para la adecuación de sus Reglamentos y demás disposiciones normativas en razón de lo reformado por el presente Decreto.
 
 Tercero.- Las acciones que realicen las dependencias de la Administración Pública del Estado para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los articulos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 25 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 154. SE REFORMAN POR MODIFICACIÓN LAS FRACCIONES XXI BIS, XXII, Y SE ADICIONA LA FRACCIÓN XXIII TODAS DE LA LETRA A DEL ARTÍCULO 4 DE LA LEY ESTATAL DE SALUD”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
