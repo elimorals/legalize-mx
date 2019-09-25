@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2019-06-03"
+last_updated: "2019-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -4177,31 +4177,53 @@ V. De tres meses a cinco años de prisión y multa, por el equivalente de cien y
 
 VI. De tres a ocho años de prisión y multa, por el equivalente de cien a diez mil días, a quien sin tomar las debidas precauciones e informar previamente a las autoridades municipales y ejidales inicie un incendio que rebase los límites del terreno que posea y dé lugar a un daño generalizado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 422.
 
-Se impondrá de tres meses a tres años de prisión y multa de sesenta a trescientos sesenta días, a quien siendo propietario o poseedor por cualquier título o encargado de la guarda o custodia de un animal vertebrado, realice en perjuicio de éste cualquiera de las conductas siguientes:
+Se impondrá de tres meses a tres años de prisión y multa de sesenta a trescientos sesenta días, al que realice actos de maltrato o crueldad animal.
 
-I. La muerte producida utilizando un medio que prolongue la agonía, causándole sufrimientos innecesarios, salvo en aquellos eventos autorizados por la autoridad competente;
+Se consideran actos de maltrato o crueldad animal:
 
-II. La mutilación orgánicamente grave, que no se efectué bajo el cuidado de un médico veterinario;
+I. Causar la muerte de un animal empleando métodos diversos a los establecidos en las normas oficiales mexicanas, o utilizando un medio que prolongue su agonía, causándole sufrimientos innecesarios;
 
-III. Toda privación de aire, luz, alimento, bebida, espacio suficiente o de abrigo contra la intemperie;
+II. La tortura, el sadismo, la zoofilia, la mutilación o alteración de la integridad física o modificación negativa de sus instintos naturales sin fines médicos justificados, o cualquier acción análoga que implique el sufrimiento de un animal;
 
-IV. La privación de atención veterinaria o sanitaria que cause o pueda causar daño al animal, y
+III. Toda privación de aire, luz, alimento, bebida, espacio suficiente para su esparcimiento o de abrigo contra la intemperie;
 
-V. Abandone en condiciones que hagan peligrar la vida o integridad del animal.
+IV. La privación de atención veterinaria o sanitaria que cause o pueda causar daño al animal;
+
+V. El abandono en condiciones que hagan peligrar la vida o integridad del animal, la de otros animales o de las personas;
+
+VI. Las lesiones causadas con cualquier objeto o medio que pongan en peligro la integridad o vida de un animal, que le generen una incapacidad parcial o total permanente, que disminuyan alguna de sus facultades, que afecten el normal funcionamiento de un órgano o miembro, o las que le causen alguna deformidad física;
+
+VII. El suministro o aplicación de substancias u objetos tóxicos que pongan en peligro la vida de un animal o le provoque la muerte;
+
+VIII. Incitar a los animales para que se ataquen entre ellos, siempre que por la ferocidad o fuerza de los animales se puedan provocar lesiones o la muerte, y
+
+IX. Cualquier otra conducta de tortura que se cause a un animal.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 423.
 
-Se aplicarán las mismas sanciones señaladas en el artículo anterior a la persona que realice en perjuicio de un animal vertebrado cualquiera de las conductas siguientes:
+Podrá aumentarse hasta el doble las sanciones señaladas en el artículo anterior en los casos siguientes:
 
-I. El atropellamiento deliberado, cuando se conduzca un vehículo automotor;
+I. Cuando el acto de maltrato o crueldad animal sea realizado por el propietario o poseedor, una vez sentenciado se le privará de todo derecho sobre dichos animales o los que aún tenga bajo su custodia o resguardo; dando aviso inmediato a asociaciones y organizaciones protectoras o dedicadas al cuidado de animales debidamente constituidas, las cuales podrán solicitar en cualquier momento al Ministerio Público o al Juez de Control, el resguardo temporal o definitivo del o los animales que se traten.
 
-II. El tiro al blanco en cualquier forma utilizando como objetivo animales vivos, y
+II. Que el sujeto activo además de realizar los actos de maltrato o crueldad animal, los capte en fotografía o video para hacerlos públicos por cualquier medio.
 
-III. Cualquier otra conducta de tortura que se cause a un animal.
+III. Cuando el acto de maltrato o crueldad animal sea realizado por médico veterinario o persona relacionada con el cuidado o resguardo de animales, o sea realizado por un servidor público en ejercicio o con motivo de sus funciones.
+
+Además, de la sanción impuesta, se inhabilitará por un lapso de seis meses a un año del empleo, cargo, autorización o licencia respectiva; y en caso de reincidencia, los sentenciados serán privados definitivamente del derecho a ejercer la actividad de que se trate, o se revocará en forma definitiva la autorización o licencia respectiva.
+
+Cuando las lesiones o la muerte del animal se cause con la finalidad de evitar un mal igual o mayor a una persona o animal, no se aplicará sanción alguna siempre y cuando se justifique el hecho en la necesidad de salvaguardar la integridad de la persona o el animal en peligro.
+
+> <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 424.
+
+No se considerarán para efectos del presente capitulo, como actos de crueldad o maltrato, los espectáculos de Tauromaquia, Charrería y Peleas de Gallos, siempre y cuando se realicen conforme a los Reglamentos y autorizaciones que al efecto emitan las autoridades competentes.
 
 TRANSITORIOS:
 
@@ -4388,3 +4410,11 @@ P.O. 3 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 308 Y UN TERCER PÁRRAFO AL ARTÍCULO 373 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 25 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE MALTRATO ANIMAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
