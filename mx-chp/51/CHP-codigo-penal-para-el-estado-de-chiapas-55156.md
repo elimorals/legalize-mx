@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2019-08-14"
+last_updated: "2019-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -331,57 +331,11 @@ B) EL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS Y OTRAS DISPOSICIONES LEGALES:
 
 EN SU CASO, LA COMISIÓN DE LOS DELITOS MENCIONADOS EN GRADO DE TENTATIVA, ASÍ COMO LOS ESTABLECIDOS EN LAS LEYES ESPECIALES Y LOS CONSIDERADOS COMO GRAVES POR LAS LEYES GENERALES QUE SEAN COMPETENCIA DEL ESTADO.
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 15 Ter.
 
-Se clasifican como delitos que ameritan prisión preventiva oficiosa los previstos en los siguientes artículos:
-
-1. Homicidio doloso, previsto en los artículos 160, 163, 164 y 171 del Código Penal del Estado.
-
-2. Feminicidio, previsto en el artículo 164 bis del Código Penal del Estado.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2016)</small>
-
-3. Violación y Pederastia, previstos en los artículos 233, 234, 235 y 236 del Código Penal para el Estado de Chiapas.
-
-(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-4. SECUESTRO, PREVISTO Y SANCIONADO EN LOS ARTÍCULOS 9, 10, 11, 17 Y 18 DE LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO.
-
-(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-5. DESAPARICIÓN FORZADA DE PERSONAS, PREVISTO Y SANCIONADO POR LA LEY PARA LA PREVENCIÓN Y SANCIÓN DE LA DESAPARICIÓN FORZADA DE PERSONAS EN EL ESTADO DE CHIAPAS.
-
-(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ DEL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-6. TORTURA, PREVISTO Y SANCIONADO EN EL ARTÍCULO 426 DEL CÓDIGO PENAL Y EN LOS ARTÍCULOS 4 Y 5 DE LA LEY ESTATAL PARA PREVENIR Y SANCIONAR LA TORTURA.
-
-7. Asociación delictuosa, previsto y sancionado en el artículo 370 del Código Penal del Estado.
-
-8. Delitos cometidos con medios violentos como armas y explosivos.
-
-Con independencia de la violencia con que se pudieran ejecutar los delitos reseñados en los incisos 1) al 7) del presente Decreto, se considerarán como delitos cometidos con medios violentos como armas y explosivos, los siguientes: a) Robo con violencia, previsto en el artículo 270, con relación al 274, 275, fracción IV, 276, fracciones VII, IX, X, XV, XVI y XVII del Código Penal del Estado y b) Ataques a las vías de comunicación, previsto en los artículos 379 al 382, con relación al 383 del Código Penal del Estado.
-
-9. Delitos graves que determine la Ley en Contra del Libre Desarrollo de la Personalidad.
-
-(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL INCISO a) DEL NUMERAL 9 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-Se consideran como delitos contra el libre desarrollo de la personalidad, los siguientes: a) TRATA DE PERSONAS, PREVISTO Y SANCIONADO POR LA LEY PARA COMBATIR, PREVENIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE CHIAPAS; b) Pornografía infantil, previsto y sancionado en los artículos 333, 334 y 337 del Código Penal del Estado; c) Lenocinio, previsto en los artículos 339, 340, 341, 342 y 343 del Código Penal del Estado y d) Corrupción de menores e incapaces, previsto y sancionado en el artículo 327 del Código Penal del Estado; siempre y cuando sean cometidos en agravio de menores de 18 años o personas que no tengan la capacidad de entender el significado del hecho.
-
-10. Delitos graves que determine la Ley en Contra de la Seguridad del Estado.
-
-Se consideran como delitos contra la seguridad del Estado, los siguientes: a) Delitos contra el orden constitucional y la seguridad del Estado, previsto en los artículos 344, 346, 347, 348 y 349 del Código Penal del Estado; b) Sedición, previsto y sancionado en el artículo 352 del Código Penal del Estado; c) Motín, previsto y sancionado en el artículo 353 del Código Penal del Estado; d) Conspiración, previsto y sancionado en el artículo 354 del Código Penal del Estado y e) Atentados contra la paz y la integridad corporal y patrimonial de la colectividad del Estado, previsto y sancionado en el artículo 369, párrafo primero del Código Penal del Estado.
-
-(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL NUMERAL 11 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-11. DELITOS GRAVES QUE DETERMINE LA LEY EN CONTRA DE LA SALUD.
-
-(NOTA: EL 31 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE SEPTIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-SE CONSIDERAN COMO DELITOS CONTRA LA SALUD, LOS SIGUIENTES: CONTRA LA SALUD, PREVISTOS Y SANCIONADOS EN LOS ARTÍCULOS 475 Y 476, EN RELACIÓN A LA TABLA CONTEMPLADA EN EL ARTÍCULO 479 DE LA LEY GENERAL DE SALUD.
-
-Además, en su caso, la comisión de los delitos mencionados en grado de tentativa.
+Se consideran como delitos que ameritan prisión preventiva oficiosa aquellos delitos que así lo establezca el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y el Código Nacional de Procedimientos Penales.
 
 ### Capítulo II. Reglas Generales Sobre la Responsabilidad
 
@@ -4667,9 +4621,9 @@ IV.- Permitir, fuera de los casos previstos por la Ley, la salida temporal de la
 
 A quien cometa los delitos previstos en este artículo, se le impondrá la pena de cuatro a diez años de prisión y de mil a dos mil días multa.
 
-### Capítulo XVI. Uso Ilícito de Atribuciones y Facultades
+### Capítulo XVI. Ejercicio Abusivo de Funciones
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 424.
 
@@ -4823,9 +4777,13 @@ Comete el delito de peculado:
 
 I. Todo servidor público que para su beneficio o el de una tercera persona física o moral, distraiga de su objeto dinero, valores, fincas o cualquier otra cosa perteneciente al Estado, al Municipio o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito, en posesión o por otra causa.
 
-II. El servidor público que ilícitamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
-III. Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de uso ilícito de atribuciones y facultades.
+II. El servidor público que ilícitamente utilice fondos públicos u otorgue alguno de los actos a que se refiere el artículo de Ejercicio Abusivo de Funciones con el objeto de promover la imagen política o social de su persona, la de su superior jerárquico o la de un tercero, o a fin de denigrar a cualquier persona.
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+III. Cualquier persona que solicite o acepte realizar las promociones o denigraciones a que se refiere la fracción anterior, a cambio de fondos públicos o del disfrute de los beneficios derivados de los actos a que se refiere el artículo de Ejercicio Abusivo de Funciones.
 
 IV. Cualquier persona que sin tener el carácter de servidor público y estando obligada legalmente a la custodia, administración o aplicación de recursos públicos, los distraiga de su objeto para usos propios o ajenos o les dé una aplicación distinta a la que se les destinó.
 
@@ -4849,13 +4807,15 @@ Comete el delito de concusión, el servidor público que con el carácter de tal
 
 Al responsable del delito de concusión, se le impondrán de tres meses a dos años de prisión cuando el valor de lo entregado no exceda de quinientos días de salario; cuando exceda de quinientos días se le impondrá de uno a diez años de prisión, y en ambos casos, además de la destitución e inhabilitación por el tiempo de la sanción impuesta para el desempeño de la comisión, cargo o empleo, se le aplicará al activo, una sanción pecuniaria hasta por trescientos días de salario atendiendo a la gravedad del delito.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
 
 ### Capítulo I. Atentados Contra el Saneamiento del Ambiente y la Ecología del Estado
 
 ###### Artículo 432.
 
-Comete el delito de Uso Ilícito de Atribuciones y Facultades:
+Comete el delito de Ejercicio Abusivo de Funciones:
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JUNIO DE 2017)</small>
 
 I. El servidor público que ilícitamente:
 
@@ -4869,19 +4829,27 @@ d) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, e
 
 e) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
 
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JUNIO DE 2017)</small>
+
 II.- El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
 
 a) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
 
 b) Siendo responsable de administrar y verificar directamente el cumplimiento de los términos de una concesión, permiso, asignación o contrato, se haya abstenido de cumplir con dicha obligación.
 
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
+
 III.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hacen referencia la fracción anterior o sea parte en las mismas.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2017)</small>
 
 IV.- El servidor público que teniendo a su cargo fondos públicos, les dé una aplicación distinta de aquella a que estuvieren destinados o haga un pago ilegal.
 
 Se impondrán las mismas sanciones previstas a cualquier persona que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o el servicio público o de otra persona participe, solicite o promueva la perpetración de cualquiera de los delitos previstos en este artículo.
 
 Al que cometa el delito a que se refiere el presente artículo, se le impondrán de seis meses a doce años de prisión y de treinta a ciento cincuenta días multa.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE JUNIO DE 2017)</small>
 
 V.- Al particular que, en su carácter de contratista, permisionario, asignatario, titular de una concesión de prestación de un servicio público de explotación, aprovechamiento o uso de bienes del dominio del Estado, con la finalidad de obtener un beneficio para sí o para un tercero:
 
@@ -6043,7 +6011,15 @@ Artículo Cuarto.- Las autoridades correspondientes, en el ámbito de sus respec
 
 P.O. 14 DE AGOSTO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 232 POR EL QUE SE ADICIONAN LAS FRACCIONES XIV, XV, XVI Y XVII AL ARTÍCULO 295 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 232 POR EL QUE SE ADICIONAN LAS FRACCIONES XIV, XV, XVI Y XVII AL ARTÍCULO 295 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 25 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 261 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS".]
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
