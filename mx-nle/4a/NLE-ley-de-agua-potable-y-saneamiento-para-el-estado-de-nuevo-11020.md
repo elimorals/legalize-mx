@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-agua-potable-y-saneamiento-para-el-estado-de-nuevo-11020
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-03"
-last_updated: "2010-12-24"
+last_updated: "2019-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEON
 
-LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEON
+LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de octubre de 1997.
 
@@ -43,7 +43,7 @@ LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO LEON
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las normas conforme a las cuales serán prestados los servicios públicos de agua potable y saneamiento en el Estado.
 
-> <small>(ADICIONADO, P.O 7 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
 En todo lo que en esta ley se refiere a agua potable y saneamiento, se entenderá también el drenaje pluvial.
 
@@ -73,7 +73,7 @@ h) Zona de Conurbación: La demarcación territorial formalmente declarada cuand
 
 i) Proyecto autorizado: Planos, normas y especificaciones autorizados por el organismo operador, para la construcción de las instalaciones y obras de infraestructura que debe realizar el interesado para que se proporcionen los servicios de agua potable y saneamiento, sin perjuicio de las atribuciones que correspondan a las demás autoridades competentes.
 
-> <small>(ADICIONADO, P.O 7 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
 j) Drenaje pluvial: medios de captación, conducción y colección de aguas pluviales.
 
@@ -231,9 +231,9 @@ En la zona conurbada del Area Metropolitana que comprende los Municipios de Apod
 
 El Organismo Público denominado "Servicios de Agua y Drenaje de Monterrey", I.P.D., efectuará la operación, mantenimiento y administración de las fuentes de abasto de agua subterránea y superficial que se aprovechan para el suministro del área metropolitana de Monterrey, con sus respectivos acueductos, y podrá en su caso, celebrar convenios con los Municipios donde se originan las fuentes de abasto o los que estén aledaños a los acueductos que conducen el agua al área metropolitana, para entregarles agua en bloque, de acuerdo a la dotación que establezca la Comisión Estatal de Agua y Saneamiento y conforme a las tarifas que tenga establecidas para tal efecto "Servicios de Agua y Drenaje de Monterrey", I.P.D.
 
-> <small>(ADICIONADO, P.O 7 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2007)</small>
 
-El organismo rector para la elaboración de un plan maestro de la red de drenaje pluvial y de los proyectos de obras de drenaje pluvial, será “Servicios de Agua y Drenaje de Monterrey” I.P.D., así como de las supervisión de las mismas hasta su entrega recepción al nivel de gobierno que corresponda para su operación y mantenimiento, pero los costos que éstas impliquen estarán a cargo de la Federación, del Estado, de los Municipios y/o de los particulares que correspondan salvo convenio en contrario.
+El organismo rector para la elaboración de un plan maestro de la red de drenaje pluvial y de los proyectos de obras de drenaje pluvial, será "Servicios de Agua y Drenaje de Monterrey" I.P.D., así como de las supervisión de las mismas hasta su entrega recepción al nivel de gobierno que corresponda para su operación y mantenimiento, pero los costos que éstas impliquen estarán a cargo de la Federación, del Estado, de los Municipios y/o de los particulares que correspondan salvo convenio en contrario.
 
 ###### ARTICULO 16.
 
@@ -313,7 +313,9 @@ Los demás usos previstos en las disposiciones jurídicas aplicables podrán var
 
 Es de interés público la promoción y ejecución de las medidas y acciones necesarias para proteger la calidad del agua, en los términos de la Ley.
 
-Las autoridades Estatales y Municipales, en el ámbito de su competencia, promoverán el establecimiento de sistemas de desinfección y potabilización del agua así como de tratamiento de aguas residuales y manejo de lodos, el fomento de sistemas alternos que sustituyan al drenaje sanitario, cuando éste no pueda construirse, y las demás acciones necesarias para obtener y mantener un óptimo nivel de calidad del agua.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+Las autoridades Estatales y Municipales, en el ámbito de su competencia, promoverán el establecimiento de sistemas de desinfección y potabilización del agua, así como de tratamiento de aguas residuales y manejo de lodos, el fomento de sistemas alternos que sustituyan al drenaje sanitario, cuando éste no pueda construirse, y las demás acciones necesarias para obtener y mantener un óptimo nivel de calidad del agua. Igualmente establecerán un sistema eficiente para la captación de las aguas pluviales que permitan su reutilización para uso sanitario, riego, mantenimiento de áreas verdes o en su caso, para su permeo hacia los mantos acuíferos del subsuelo, de acuerdo a las Normas Oficiales Mexicanas y contando con las autorizaciones correspondientes del Organismo Federal pertinente, establecido en la Ley de Aguas Nacionales.
 
 ###### ARTICULO 24.
 
@@ -379,9 +381,13 @@ En ningún caso el propietario o poseedor del predio podrá realizar por sí mis
 
 Independientemente de los casos en que conforme a la Ley o este ordenamiento proceda la suspensión o supresión de una toma de agua o de una descarga, el propietario o poseedor podrá solicitar la suspensión o supresión respectiva, expresando las causas en que se funden las mismas, observando lo establecido en el Artículo 27 de esta Ley.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTICULO 34.
 
-Las personas físicas o morales, fraccionadoras o urbanizadoras deberán tramitar ante el organismo operador el dictamen de factibilidad para la conexión a la red general de agua potable y drenaje sanitario. Una vez obtenido, y satisfechos los demás requisitos que determine la autoridad competente conforme a los ordenamientos jurídicos que rigen el desarrollo urbano, deberán construir por su cuenta las instalaciones internas y conexiones de agua potable y drenaje sanitario conforme al proyecto autorizado, así como las obras de infraestructura que en su caso se requieran, cuyo costo el interesado podrá derramar entre el área beneficiada en los términos del reglamento de esta Ley, salvo cuando el servicio sea operado por un concesionario quien tendrá las obligaciones inherentes al contrato de concesión. Las instalaciones mencionadas pasarán al dominio público para que se integren al patrimonio del organismo público operador que tenga a su cargo la operación y administración del servicio.
+Las personas físicas o morales, fraccionadoras o urbanizadoras deberán tramitar ante el organismo operador el dictamen de factibilidad para la conexión a la red general de agua potable y drenaje sanitario. Para obtener lo (sic) factibilidad es indispensable que en el proyecto ejecutivo urbanístico contenga el diseño de los sistemas de retención/detención o retención/detención/infiltración, previniendo que el escurrimiento de agua en condiciones naturales disminuya. La estructura de regulación, señalada en el citado proyecto, debe de garantizar que las obras de urbanización no generen ningún impacto pluvial, por lo que dicho volumen de regulación estará definido por lo (sic) diferencia entre los volúmenes de escurrimiento directo del predio urbanizado contra el predio sin urbanizar.
+
+Una vez obtenido, y satisfechos los demás requisitos que determine la autoridad competente conforme a los ordenamientos jurídicos que rigen el desarrollo urbano, deberán construir por su cuenta las instalaciones internas y conexiones de agua potable y drenaje sanitario conforme al proyecto autorizado, así como las obras de infraestructura que en su caso se requieran, cuyo costo el interesado podrá derramar entre el área beneficiada en los términos del reglamento de esta Ley, salvo cuando el servicio sea operado por un concesionario quien tendrá las obligaciones inherentes al contrato de concesión. Las instalaciones mencionadas pasarán al dominio público para que se integren al patrimonio del organismo público operador que tenga a su cargo la operación y administración del servicio.
 
 ###### ARTICULO 35.
 
@@ -513,7 +519,9 @@ l) Por otros usos.
 
 III.- CUOTAS DE APORTACION PARA OBRAS DE INFRAESTRUCTURA.
 
-El organismo público prestador de los servicios de agua y drenaje sanitario establecerá una cuota de aportación para la recuperación del valor actualizado de las inversiones de infraestructura hidráulica maestra realizadas por el mismo y lo recaudado formará parte de los recursos requeridos para la construcción de las obras de infraestructura que consisten esencialmente en las de captación, conducción, potabilización, tanques de almacenamiento, sistemas de bombeo, redes maestras de agua potable, colectores de drenaje sanitario y plantas de tratamiento de aguas residuales, que le hagan posible comprometerse a proporcionar los servicios dentro de las condiciones normales.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2019)</small>
+
+El organismo público prestador de los servicios de agua y drenaje sanitario establecerá una cuota de aportación para la recuperación del valor actualizado de las inversiones de infraestructura hidráulica maestra realizadas por el mismo y lo recaudado formará parte de los recursos requeridos para la construcción de las obras de infraestructura que consisten esencialmente en las de captación, conducción, potabilización, tanques de almacenamiento, sistemas de bombeo, redes maestras de agua potable, colectores de drenaje sanitario y plantas de tratamiento de aguas residuales o pluviales, que le hagan posible comprometerse a proporcionar los servicios dentro de las condiciones normales.
 
 En el caso que los servicios sean prestados por un concesionario, se aplicará lo dispuesto en el contrato de concesión.
 
@@ -798,3 +806,9 @@ Artículo Único.- El Presente Decreto entrará en vigor al día siguiente de su
 P.O. 24 DE DICIEMBRE DE 2010.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 153. SE REFORMA POR MODIFICACIÓN LOS ARTÍCULOS 23, 34, Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 43, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 34, TODOS DE LA LEY DE AGUA POTABLE Y SANEAMIENTO PARA EL ESTADO DE NUEVO (SIC); Y SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTÍCULO 166 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
