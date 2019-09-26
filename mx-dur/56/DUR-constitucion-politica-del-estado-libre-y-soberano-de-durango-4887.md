@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2019-02-28"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -627,7 +627,13 @@ El Estado impulsará la generación de un entorno económico, político, social 
 
 El Estado promoverá el desarrollo económico sustentable, basado en la regulación y fomento del uso de tecnologías para el manejo adecuado del medio ambiente y el aprovechamiento racional de los recursos naturales. En el Estado será prioritario el desarrollo y aprovechamiento de las fuentes renovables de energía.
 
-Las leyes definirán los mecanismos para el fomento y promoción de la inversión, el desarrollo económico, el empleo, la competitividad, la productividad, la conectividad de la economía local con los mercados nacionales y extranjeros, la mejora regulatoria, el desarrollo científico y tecnológico y la innovación para el desarrollo económico sustentable; e incentivarán, apoyarán y protegerán a las empresas y a los particulares establecidos en la entidad cuya actividad productiva se realice con observancia de las normas de protección ambiental.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+Las leyes definirán los mecanismos para el fomento y promoción de la inversión, el desarrollo económico, el empleo, la competitividad, la productividad, la conectividad de la economía local con los mercados nacionales y extranjeros, el desarrollo científico y tecnológico y la innovación para el desarrollo económico sustentable; e incentivarán, apoyarán y protegerán a las empresas y a los particulares establecidos en la entidad cuya actividad productiva se realice con observancia de las normas de protección ambiental.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+El Estado diseñará e implementará políticas públicas de mejora regulatoria para la simplificación de trámites, servicios y demás objetivos que establezca la Ley de la materia. Los Poderes del Estado, los órganos constitucionales autónomos y los municipios deberán ajustar sus trámites mediante un proceso continuo y sistemático de análisis, revisión y modificación de las normas jurídicas y administrativas de carácter general para hacer más eficientes y ágiles los procedimientos de los trámites que tienen que realizar los ciudadanos ante las autoridades, con el objeto de que dichas regulaciones generen beneficios superiores, el máximo bienestar para la sociedad y la consolidación de un marco normativo estatal y municipal moderno. La mejora regulatoria se sujetará a los principios señalados en la Ley de la materia.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -2863,7 +2869,7 @@ Los Jueces de Primera Instancia y Jueces Municipales foraneos rendirán por esta
 
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
-Dada en el Salón de Sesiones del Congroso (sic) Constituyente en la Ciudad de Durango a cinco de octubre de mil novecien (sic) diez y siete.- Dr. Pascual de la Fuente, Diputado Presidente por el Distrito de la Capital.- Miguel Jáquez, Vice-Presidente, Diputado por Tamazula- Jesús Enríquez, Diputado por Santiago Papasquiaro.- Pedro Solano, Diputado Prop. por el Distrito de Nombre de Dios.- Mariano Arce, Diputado por el Distrito de Nazas.- Alfredo Willhelm, Diputado por el Distrito de San Dimas.- Felipe Bonifant, Diputado por el Distrito de Lerdo y Gómez Palacio.- Lic. Rafael F. y Peimbert, Diputado Suplente por el Distrito de Cuencamé.- Carlos Cádenas, Diputado por el Distrito de Mapimí.- J. Guadalupe González, Diputado por el Distrito de San Juan del Río.- Ing. Celestino Simental, Diputado por el Distrito de Tepehuanes, Guanaceví, Secretario.- Lic. Francisco Martínez Escárzaga, Diputado por el Distrito de San Juan de Guadalupe, Secretario.
+Dada en el Salón de Sesiones del Congroso (sic) Constituyente en la Ciudad de Durango a cinco de octubre de mil novecien (sic) diez y siete.- Dr. Pascual de la Fuente, Diputado Presidente por el Distrito de la Capital.- Miguel Jáquez, Vice-Presidente, Diputado por Tamazula- Jesús Enríquez, Diputado por Santiago Papasquiaro.- Pedro Solano, Diputado Prop. por el Distrito de Nombre de Dios.- Mariano Arce, Diputado por el Distrito de Nazas.- Alfredo Willhelm, Diputado por el Distrito de San Dimas.- Felipe Bonifant, Diputado por el Distrito de Lerdo y Gómez Palacio.- Lic. Rafael F. y Peimbert, Diputado Suplente por el Distrito de Cuencamé.- Carlos Cárdenas, Diputado por el Distrito de Mapimí.- J. Guadalupe González, Diputado por el Distrito de San Juan del Río.- Ing. Celestino Simental, Diputado por el Distrito de Tepehuanes, Guanaceví, Secretario.- Lic. Francisco Martínez Escárzaga, Diputado por el Distrito de San Juan de Guadalupe, Secretario.
 
 Publíquese, circúlese y comuníquese a quienes corresponda para su exacta observancia.
 
@@ -3887,7 +3893,7 @@ Noveno.- Se deroga el Artículo Octavo Transitorio del Decreto 540, expedido por
 
 P.O. 29 DE JUNIO DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 164.- POR EL QUE SE ADICIONA UN PRIMER PARRAFO AL ARTICULO 175 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 164.- POR EL QUE SE ADICIONA UN PRIMER PÁRRAFO AL ARTICULO 175 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO".]
 
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3950,3 +3956,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Congreso del Estado en un plazo que no exceda de 90 días a partir de la entrada en vigor del presente decreto deberá expedir la normatividad que corresponda para dar cumplimiento al presente decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 97.- QUE CONTIENE REFORMA AL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 42 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE MEJORA REGULATORIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente Decreto.
+
+TERCERO.- El Congreso del Estado, en un plazo de 180 días a partir de la entrada en vigor del presente decreto deberá emitir o en su caso adecuar la legislación que corresponda a fin de dar cumplimiento al presente decreto.
+
+CUARTO.- Las dependencias y entidades de la administración pública estatal y municipal así como los organismos constitucionales autónomos deberán emitir o en su caso adecuar la reglamentación que corresponda a fin de dar cumplimiento al presente decreto a más tardar el 31 de diciembre de 2019.
