@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2017-12-27"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -713,29 +713,7 @@ Para efectos del proceso legislativo, son días y horas hábiles todos los del a
 
 ###### ARTÍCULO 73.
 
-El expediente de toda iniciativa de ley, decreto o propuesta de acuerdo parlamentario deberá contener:
-
-I. El original autógrafo de la iniciativa que le dio origen;
-
-II. Los originales de las iniciativas que se acumulen al mismo;
-
-III. Los documentos anexos a las iniciativas;
-
-IV. El acuerdo de admisión del trámite;
-
-V. El acuerdo de turno a la comisión dictaminadora;
-
-VI. La certificación de que fue leída la iniciativa completa o en síntesis al Pleno o en su defecto la dispensa de la lectura;
-
-VII. Todos los documentos relativos al estudio y análisis del asunto, tales como: convocatorias, opiniones, ponencias, escritos, oficios de solicitud y aportación de informes, datos y elementos, así como todas las constancias relativas a la materia de la iniciativa que hayan sido resultado del trabajo de la comisión;
-
-VIII. El original autógrafo del dictamen y de sus anexos;
-
-IX. La parte conducente del acta de la sesión del pleno en que fue discutido y votado el asunto;
-
-X. Copia autógrafa del decreto enviado al ejecutivo o del publicado por el Congreso; y
-
-XI. Constancia del periódico oficial respectivo.
+(DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2019)
 
 ### CAPÍTULO SEGUNDO. DE LAS SESIONES DEL PLENO
 
@@ -1029,7 +1007,9 @@ VIII. El original autógrafo del dictamen y de sus anexos;
 
 IX. La parte conducente del acta de la sesión del pleno en que fue discutido y votado el asunto;
 
-X. Copia autógrafa del decreto enviado al ejecutivo, o del publicado por el Congreso; y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+X. Original autógrafo del Decreto enviado al Ejecutivo, o del publicado por el Congreso; y
 
 XI. Constancia del periódico oficial respectivo.
 
@@ -2140,3 +2120,13 @@ PRIMERA. Una vez aprobado en el Pleno de este Congreso, remítase el presente De
 SEGUNDA. El presente Decreto iniciará su vigencia el día de su aprobación por el Pleno del Congreso del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Reforma.
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS SESENTA Y CUATRO.- POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 100 Y SE DEROGA EL ARTÍCULO 73, AMBOS DEL REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado de Morelos.
+
+SEGUNDA. El presente Decreto, entrara en vigor a partir de su aprobación por el Pleno de esta Asamblea Legislativa.
+
+TERCERA. Se Instruye a la Coordinación de Archivo Legislativo, exhorte al Ejecutivo a través de la Dirección del Periódico Oficial “Tierra y Libertad”, a brindar las facilidades necesarias a fin de remitir en “COPIA CERTIFICADA”, los decretos expedidos por este Poder Legislativo, que sean debidamente requeridos por la autoridad judicial, laboral o administrativa.
