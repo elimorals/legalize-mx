@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2017-11-17"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -487,7 +487,7 @@ Cuando haya dos o más hijos será preferido el que viva en compañía del padre
 
 ###### Artículo 88.
 
-Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quién de los dos ejercerá el cargo.
+Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quien de los dos ejercerá el cargo.
 
 ###### Artículo 89.
 
@@ -1073,9 +1073,7 @@ El tutor que sea reemplazado por otro estará obligado, y lo mismo sus herederos
 
 ###### Artículo 201.
 
-El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses, contados desde el día en que fenezca la tutela.
-
-El juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses, contados desde el día en que fenezca la tutela. El juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
 
 ###### Artículo 202.
 
@@ -1303,7 +1301,9 @@ La persona que se hubiere ausentado del lugar de su residencia ordinaria y tuvie
 
 Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez, a petición de cualquiera persona interesada o del Ministerio Público, abrirá el procedimiento declarando la ausencia, ordenará el aseguramiento de los bienes del ausente y nombrará un administrador de ellos, quien será a la vez representante del ausente, en juicio o fuera de él.
 
-En el mismo auto el juez mandará publicar por edictos su resolución de declaración de ausencia por tres veces con intervalo de siete días, en uno de los diarios de mayor circulación de la capital del Estado y de la capital de la República.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+En el mismo auto la Jueza o Juez, mandará publicar por edictos su resolución de declaración de ausencia, por tres veces con intervalo de siete días, en uno de los diarios de mayor circulación de la capital del Estado y de la capital de la República a (sic) dicha publicación correrá a costa del promovente. A su vez se publicará de manera gratuita en el Periódico Oficial (sic) Gobierno del Estado de Guerrero, por diez veces con intervalos de tres días; de la misma manera dicha publicación, se realizará de manera digital, en formato PDF en forma gratuita, por diez veces con intervalos de diez días, en la página del (sic) WEB del Poder Judicial del Estado de Guerrero en el apartado de notificaciones, edictos, resoluciones, avisos u otras comunicaciones. La publicación por edictos ordenada por la Jueza o Juez, en la página WEB, señalada en este artículo posee los efectos legales a los que haya lugar, indistintamente si no se publicó el edicto o los edictos en un periódico de la capital de la República o en los periódicos del Estado de Guerrero.
 
 ###### Artículo 242.
 
@@ -1339,7 +1339,7 @@ No podrá ser administrador representante quien no pueda ser designado tutor.
 
 ###### Artículo 248.
 
-Podrán excusarse los que puedan hacerlo de la tutela.
+Podrán excusarse los que puedan hacer lo de la tutela.
 
 ###### Artículo 249.
 
@@ -1637,7 +1637,7 @@ II. Los números ordinales, como el de las fechas o cualquier otro, estarán esc
 
 III. En ningún caso se emplearán abreviaturas;
 
-IV. No se hará raspadura alguna ni se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará una línea sobre ella, de manera que quede legible; a no ser que lo testado sea algún nombre o circunstancia que este Código prohiba expresamente que figure en las actas, en tal caso se testará de modo que no pueda leerse; y el oficial mencionará al final del acta la razón porque se hizo de este modo; y
+IV. No se hará raspadura alguna ni se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará una línea sobre ella, de manera que quede legible; a no ser que lo testado sea algún nombre o circunstancia que este Código prohiba expresamente que figure en las actas, en tal caso se testará de modo que no pueda leerse; y el oficial mencionará al final del acta la razón por que se hizo de este modo; y
 
 V. A fin de cada acta se salvará, con toda claridad, lo entrerrenglonado y testado.
 
@@ -1659,7 +1659,7 @@ En caso de existir duplicidad de registro de nacimiento en el que sólo variará
 
 ###### Artículo 317.
 
-La omisión del registro del reconocimiento de hijos en el caso del artículo 341, del registro de tutela y de la autorización de la adopción no priva de sus efectos legales al reconocimiento, tutela y adopción respectivamente, ni impide a los padres, tutores o adoptantes el ejercicio de sus facultades como tales ni puede alegarse por ninguna persona en perjuicio del reconocido o del incapaz a que se refieran estos actos; pero los responsables de la omisión incurrirán en una multa equivalente a cien días de salario mínimo general vigente en la Entidad, que se impondrá y hará efectiva por el juez ante quien se haga valer el reconocimiento, la tutela o la adopción.
+La omisión del registro del reconocimiento de hijos en el caso del artículo 341, del registro de tutela y de la autorización de la adopción no priva de sus efectos legales al reconocimiento, tutela y adopción respectivamente, ni impide a los padres, tutores o adoptantes el ejercicio de sus facultades como tales ni puede alegarse por ninguna persona en perjuicio del reconocido o del incapaz a que se refieran estos actos; pero los responsables de la omisión incurrirán en una multa equivalente a cien días de salario mínimo general vigente en la Entidad, que se impondrá y hará efectiva por el juez ante quien se haga valer el reconocimiento, la tutela o la adopción
 
 ###### Artículo 318.
 
@@ -2039,7 +2039,7 @@ El juicio de rectificación de acta se seguirá en la forma que se establezca en
 
 ###### Artículo 373.
 
-La aclaración de las actas del estado civil, procede cuando en el registro existan errores, caligráficos, ortográficos o de otra índole que no afecten los datos esenciales de aquellas y deberán tramitarse ante la Coordinación Técnica del Sistema Estatal del Registro Civil del Gobierno del Estado.
+La aclaración de las actas del estado civil, procede cuando en el registro existan errores, caligráficos, ortográficos o de otra índole que no afecten los datos esenciales de aquéllas y deberán tramitarse ante la Coordinación Técnica del Sistema Estatal del Registro Civil del Gobierno del Estado.
 
 ### Capítulo I. Disposiciones generales
 
@@ -2257,7 +2257,7 @@ Lo dispuesto en este artículo es aplicable a la obligación alimentaria entre c
 
 ###### Artículo 410.
 
-El cónyuge que se haya separado del otro, seguirá obligado a cumplir con los gastos a que se refiere el artículo 425. En tal virtud, el que no hubiere dado lugar a ese hecho, podrá pedir al juez de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo antes de aquélla, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que hubiere dejado de cubrirse desde la separación.
+El cónyuge que se haya separado del otro, seguirá obligado a cumplir con los gastos a que se refiere el artículo 425. En tal virtud, el que no hubiere dado lugar a ese hecho, podrá pedir al juez de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo antes de aquélla, así como también satisfaga los adeudos contraidos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que hubiere dejado de cubrirse desde la separación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2459,7 +2459,7 @@ Ni el varón podrá cobrar a la mujer ni ésta a aquél, retribución u honorari
 
 ###### Artículo 437.
 
-El régimen patrimonial del matrimonio será el de sociedad conyugal o el de separación de bienes. Los cónyuges en la sociedad conyugal, podrán celebrar capitulaciones matrimoniales, pero bastará que los cónyuges al contraer matrimonio, expresaren que lo hacen bajo el régimen de sociedad conyugal, aún cuando no celebraren capitulaciones para que se entienda que la sociedad conyugal habrá de constituirse con los bienes que los cónyuges adquieran durante el matrimonio; salvo los casos de excepción que aun existiendo el matrimonio, se prevean en la ley. La atención al hogar y el trabajo doméstico se considerarán como aportación al patrimonio familiar.
+El régimen patrimonial del matrimonio será el de sociedad conyugal o el de separación de bienes. Los cónyuges en la sociedad conyugal, podrán celebrar capitulaciones matrimoniales, pero bastará que los cónyuges al contraer matrimonio, expresaren que lo hacen bajo el régimen de sociedad conyugal, aún cuando no celebraren capitulaciones para que se entienda que la sociedad conyugal habrá de constituirse con los bienes que los cónyuges adquieran durante el matrimonio; salvo los casos de excepción que aún existiendo el matrimonio, se prevean en la ley. La atención al hogar y el trabajo doméstico se considerarán como aportación al patrimonio familiar.
 
 Cuando los cónyuges omitieren expresar el régimen patrimonial al que sujetarán sus bienes, se entenderá, por disposición de la ley, que lo hacen bajo el de separación de bienes.
 
@@ -2685,7 +2685,7 @@ La acción que dimana del parentesco por consanguinidad no dispensable, y la que
 
 ###### Artículo 464.
 
-El parentesco de consanguinidad no dispensado anulará el matrimonio. La acción que nace de esta causa de nulidad podrá deducirse por los cónyuges, sus ascendientes y por el Ministerio Público. Si antes de declararse ejecutoriadamente la nulidad se obtuviese la dispensa, quedará revalidado el matrimonio y surtirá todos su efectos legales desde el día en que se contrajo.
+El parentesco de consanguinidad no dispensado anulará el matrimonio. La acción que nace de esta causa de nulidad podrá deducirse por los cónyuges, sus ascendientes y por el Ministerio Público. Si antes de declararse ejecutoriadamente la nulidad se obtuviese la dispensa, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que se contrajo.
 
 La acción de nulidad que nace de la violación al artículo 418 podrá hacerse valer, en todo tiempo, por el Ministerio Público.
 
@@ -2879,7 +2879,7 @@ Las medidas terapéuticas a que hace referencia la fracción II del artículo qu
 
 ###### Artículo 494 Bis.
 
-El concubinato es la unión de hecho entre un solo hombre y una sola mujer, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala y hacen vida en común de manera notoria y permanente, situación que solo podrá demostrarse si han procreado hijos o han vivido públicamente como marido y mujer durante más de dos años.
+El concubinato es la unión de hecho entre un solo hombre y una sola mujer, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala y hacen vida en común de manera notoria y permanente, situación que sólo podrá demostrarse si han procreado hijos o han vivido públicamente como marido y mujer durante más de dos años.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -3233,7 +3233,7 @@ La adopción es una institución creada para cuidar y atender los intereses supe
 
 Las personas mayores de treinta años, en pleno ejercicio de sus derechos, podrán adoptar a un menor o a un incapacitado, aún cuando fuere mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que acredite:
 
-I.- Que tiene una solvencia económica estable, para proveer a la subsistencia y educación del infante, como hijo propio según las circunstancias de la persona que se trata de adoptar;
+I.- Que tiene una solvencia económica estable, para proveer a la subsistencia y educación del infante, como hijo propio según las circunstancias de la persona que se trate de adoptar;
 
 II.- Que la adopción será benéfica para la persona que trata de adoptarse;
 
@@ -3455,7 +3455,7 @@ La sentencia que la pronuncie podrá ser atacada de nulidad de acuerdo a las nor
 
 ###### Artículo 588 Bis.
 
-La adopción que se pretenda hacer por extranjeros o por mexicanos que residan permanentemente en otro país, se regirá sobre todos aquellos tratados y convenios internacionales ratificados por el Estado Mexicano, bajo el principio del bilateralidad, y en lo conducente por este Código y las Leyes del Estado de Guerrero.
+La adopción que se pretenda hacer por extranjeros o por mexicanos que residan permanentemente en otro país, se regirá sobre todos aquellos tratados y convenios internacionales ratificados por el Estado Mexicano, bajo el principio de bilateralidad, y en lo conducente por este Código y las Leyes del Estado de Guerrero.
 
 La adopción simple concedida a extranjeros o mexicanos radicados en otro país, tendrá los mismos efectos en lo dispuesto en el artículo 583 de este Código, siempre y cuando dos años después de otorgada, se solicite su conversión expresamente.
 
@@ -3659,7 +3659,7 @@ III. Cuando por la conducta irresponsable de quien ejerza la patria potestad o p
 
 IV. En los casos en que se dicte sentencia por el delito de violencia familiar, trata de personas, lesiones que pongan en peligro la vida del menor o delitos contra la libertad sexual por parte de quien ejerza la patria potestad o por la tolerancia para que otras personas lo hagan; y
 
-V. Por la exposición del menor que hiciere la persona que tenga a su cargo el ejercicio de la patria potestad; o porque le deje abandonado por más de seis meses, si quedare a cargo de alguna persona; y por más de un día si al abandonarlo, el hijo no hubiere quedado al cuidado de persona alguna
+V. Por la exposición del menor que hiciere la persona que tenga a su cargo el ejercicio de la patria potestad; o porque le deje abandonado por más de seis meses, si quedare a cargo de alguna persona; y por más de un día si al abandonarlo, el hijo no hubiere quedado al cuidado de persona alguna.
 
 ###### Artículo 623.
 
@@ -5017,7 +5017,7 @@ II. Cuando conocidamente toda la pared, vallado, cerca o seto están construidos
 
 III. Cuando la pared soporte las cargas y carreras, pasos y armaduras de una de las posesiones y no de la contigua;
 
-IV. Cuando la pared divisoria entre patios, jardines y otras heredades esté construida de modo que la albardilla caiga hacia una sola de las propiedades;
+IV. Cuando la pared divisoria entre patios, jardínes y otras heredades esté construida de modo que la albardilla caiga hacia una sola de las propiedades;
 
 V. Cuando la pared divisoria construida de mampostería presente piedras llamadas pasaderas, que de distancia en distancia salen fuera de la superficie sólo por un lado de la pared y no por el otro;
 
@@ -5571,7 +5571,7 @@ La persona que quisiera usar agua de que pueda disponer, tendrá derecho a hacer
 
 ###### Artículo 1019.
 
-Se exceptuarán de la servidumbre que establece el artículo anterior, los edificios, sus patios, jardines y demás dependencias.
+Se exceptuarán de la servidumbre que establece el artículo anterior, los edificios, sus patios, jardínes y demás dependencias.
 
 ###### Artículo 1020.
 
@@ -6015,9 +6015,9 @@ II. Las personas que carezcan, en el momento de testar, aunque sea transitoriame
 
 ###### Artículo 1112.
 
-Será válido el testamento hecho por un demente en un intervalo de lucidez, siempre que al efecto se observen las prescripciones siguientes:
+Será válido el testamento hecho por un demente en un intérvalo de lucidez, siempre que al efecto se observen las prescripciones siguientes:
 
-I. Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime conveniente, a fin de cerciorarse de su capacidad para testar;
+I. Siempre que un demente pretenda hacer testamento en un intérvalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al juez que corresponda. El juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El juez tiene obligación de asistir al examen del enfermo, y podrá hacerle cuantas preguntas estime conveniente, a fin de cerciorarse de su capacidad para testar;
 
 II. Se hará constar en acta formal el resultado del reconocimiento;
 
@@ -6117,7 +6117,7 @@ Por presunción de influjo contrario a la verdad e integridad del testamento, se
 
 ###### Artículo 1125.
 
-Los ministros de los cultos, sus ascendientes, descendientes, hermanos y cónyuges, así como las asociaciones religiosas a que aquellos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado.
+Los ministros de los cultos, sus ascendientes, descendientes, hermanos y cónyuges, así como las asociaciones religiosas a que aquéllos pertenezcan, serán incapaces para heredar por testamento, de las personas a quienes los propios ministros hayan dirigido o auxiliado espiritualmente y no tengan parentesco dentro del cuarto grado.
 
 ###### Artículo 1126.
 
@@ -6321,7 +6321,7 @@ No habrá obligación de dar alimentos a las personas que tengan bienes; pero si
 
 ###### Artículo 1171.
 
-Para tener derecho de ser alimentado se necesitará encontrarse al tiempo de la muerte del testador en alguno de los casos fijados en el artículo 1168 y cesará ese derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiera bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
+Para tener derecho de ser alimentado se necesitará encontrarse al tiempo de la muerte del testador en alguno de los casos fijados en el artículo 1168 y cesará ese derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiera bienes, aplicandose en este caso lo dispuesto en el artículo anterior.
 
 ###### Artículo 1172.
 
@@ -7543,7 +7543,7 @@ La concubina heredará al concubinario y éste a aquella, aplicándose las dispo
 
 I. Que los concubinos hubieren vivido juntos públicamente como si fueran cónyuges, durante los dos años que precedieron inmediatamente a la muerte de cualquiera de ellos; y
 
-II. Que hayan tenido hijos de ambos, cualquiera que haya sido la duración de la vida en común inmediatamente anterior a la muerte del autor de la herencia, siempre que no hubiere impedimento alguno para que pudieran haber contraído matrimonio entre sí.
+II. Que hayan tenido hijos de ambos, cualquiera que haya sido la duración de la vida en común inmediatamente anterior a la muerte del autor de la herencia, siempre que no hubiere impedimento alguno para que pudieran haber contraido matrimonio entre sí.
 
 ###### Artículo 1433.
 
@@ -8509,7 +8509,7 @@ El fin o motivo determinante de la voluntad de las partes, tampoco debe ser cont
 
 ###### Artículo 1628.
 
-Los bienes futuros podrán ser objeto de un negocio jurídico. Sin embargo no podrá serlo la herencia de una persona viva, aún cuando ésta dé su consentimiento.
+Los bienes futuros podrán ser objeto de un negocio jurídico. Sin embargo no podrá serlo la herencia de una persona viva, aún cuando ésta de su consentimiento.
 
 ###### Artículo 1629.
 
@@ -8543,7 +8543,7 @@ Si alguna de ellas no supiere o no pudiere firmar, lo hará otra a su ruego y en
 
 ###### Artículo 1635.
 
-Cuando la ley exija determinada forma para un negocio, mientras que éste no revista esa forma no será válido, salvo disposición legal en contrario; pero si la voluntad de las partes para celebrarlo y el objeto del mismo constan de manera fehaciente, cualquiera de ellas podrá exigir que se dé al negocio la forma legal omitida.
+Cuando la ley exija determinada forma para un negocio, mientras que éste no revista esa forma no será válido, salvo disposición legal en contrario; pero si la voluntad de las partes para celebrarlo y el objeto del mismo constan de manera fehaciente, cualquiera de ellas podrá exigir que se de al negocio la forma legal omitida.
 
 No será necesario el requisito de la forma cuando medie cumplimiento voluntario y la falta de formalidad no perjudique a terceros.
 
@@ -9313,7 +9313,7 @@ El deudor de un bien perdido o deteriorado sin culpa suya, estará obligado a ce
 
 Cuando la obligación de dar un bien cierto no importe la traslación de la propiedad, la pérdida o el deterioro será siempre de cuenta del propietario, a menos que exista culpa o negligencia de la otra parte.
 
-Habrá culpa cuando el obligado ejecute actos contrarios a la conservación del bien la no ejecución de la prestación de hacer; o se abstenga de realizar los actos necesarios para poder cumplir la obligación contraída.
+Habrá culpa cuando el obligado ejecute actos contrarios a la conservación del bien la no ejecución de la prestación de hacer; o se abstenga de realizar los actos necesarios para poder cumplir la obligación contraida.
 
 ###### Artículo 1785.
 
@@ -10329,7 +10329,7 @@ El pago de los gastos judiciales será a cargo del que faltare al cumplimiento d
 
 ###### Artículo 1980.
 
-Cuando, sin culpa o dolo del deudor, la prestación a su cargo se vuelva imposible, éste quedará eximido de cumplir con la obligación por él contraída.
+Cuando, sin culpa o dolo del deudor, la prestación a su cargo se vuelva imposible, éste quedará eximido de cumplir con la obligación por él contraida.
 
 ###### Artículo 1981.
 
@@ -11359,7 +11359,7 @@ I. Los adeudos fiscales provenientes de impuestos, con el valor de los bienes qu
 
 II. La deuda por gastos de salvamento, con el valor de la cosa salvada;
 
-III. La deuda contraída antes del concurso, expresamente para ejecutar obras de rigurosa conservación de algunos bienes, con el valor de éstos, siempre que se pruebe que la cantidad prestada se empleó en esas obras;
+III. La deuda contraida antes del concurso, expresamente para ejecutar obras de rigurosa conservación de algunos bienes, con el valor de éstos, siempre que se pruebe que la cantidad prestada se empleó en esas obras;
 
 IV. Los créditos por fabricación de muebles, con el precio de éstos;
 
@@ -11827,11 +11827,11 @@ La permuta será un contrato por el cual uno de los contratantes transmita al ot
 
 ###### Artículo 2256.
 
-Si uno de los contratantes hubiere recibido el bien que se le diere en permuta y acreditare que no era propio del que se lo dio, no podrá ser obligado a entregar el que él le ofreció en cambio, y cumplirá con devolver o depositar ante la autoridad competente el que recibió.
+Si uno de los contratantes hubiere recibido el bien que se le diere en permuta y acreditare que no era propio del que se lo dió, no podrá ser obligado a entregar el que él le ofreció en cambio, y cumplirá con devolver o depositar ante la autoridad competente el que recibió.
 
 ###### Artículo 2257.
 
-El permutante que sufriere evicción del bien que recibió en cambio, podrá reinvindicar el que dio, si se hallare aún en poder del otro permutante, o exigir el valor del bien ofrecido, además del pago de daños y perjuicios.
+El permutante que sufriere evicción del bien que recibió en cambio, podrá reinvindicar el que dió, si se hallare aún en poder del otro permutante, o exigir el valor del bien ofrecido, además del pago de daños y perjuicios.
 
 Lo dispuesto en el párrafo anterior no perjudicará los derechos que a título oneroso haya adquirido un tercero de buena fe sobre el bien que reclame el que sufrió la evicción.
 
@@ -11913,7 +11913,7 @@ Si la donación fuere de ciertos y determinados bienes, el donatario no responde
 
 ###### Artículo 2274.
 
-Si en contravención a lo dispuesto por el artículo 2260 la donación fuere de todos los bienes, el donatario será responsable de todas las deudas del donante anteriormente contraídas, pero sólo hasta la cantidad concurrente con los bienes donados y siempre que las deudas tengan fecha auténtica.
+Si en contravención a lo dispuesto por el artículo 2260 la donación fuere de todos los bienes, el donatario será responsable de todas las deudas del donante anteriormente contraidas, pero sólo hasta la cantidad concurrente con los bienes donados y siempre que las deudas tengan fecha auténtica.
 
 ###### Artículo 2275.
 
@@ -12099,7 +12099,7 @@ En caso de haberse pactado que la restitución se hará cuando pueda o tenga med
 
 ###### Artículo 2308.
 
-No se anularán las deudas contraídas por un menor de edad para proporcionarse los alimentos que necesitare, cuando su representante legítimo se encuentre ausente; pero sí cualquier otra deuda contraída en las condiciones antes dichas, para fines distintos al acabado de señalar.
+No se anularán las deudas contraidas por un menor de edad para proporcionarse los alimentos que necesitare, cuando su representante legítimo se encuentre ausente; pero sí cualquier otra deuda contraida en las condiciones antes dichas, para fines distintos al acabado de señalar.
 
 ### Capítulo único
 
@@ -12937,7 +12937,7 @@ III. En carta poder firmada por el otorgante y dos testigos sin ratificación de
 
 El mandato verbal será el otorgado de palabra entre presentes, hayan o no intervenido testigos; siempre será especial, y sólo podrá otorgarse para asuntos hasta por el equivalente a la cantidad que resulte de multiplicar por veinte el salario mínimo diario vigente en el lugar del otorgamiento.
 
-Cuando el mandato haya sido verbal, deberá ratificarse por escrito antes de que concluya el negocio para el que se dio.
+Cuando el mandato haya sido verbal, deberá ratificarse por escrito antes de que concluya el negocio para el que se dió.
 
 ###### Artículo 2474.
 
@@ -12971,7 +12971,7 @@ El mandato podrá otorgarse en escrito privado firmado ante dos testigos, sin qu
 
 ###### Artículo 2478.
 
-La omisión de los requisitos formales establecidos en los artículos que preceden, anulará el mandato, y sólo dejará subsistentes las obligaciones contraídas entre el tercero que haya procedido de buena fe y el mandatario, como si éste hubiese obrado en negocio propio.
+La omisión de los requisitos formales establecidos en los artículos que preceden, anulará el mandato, y sólo dejará subsistentes las obligaciones contraidas entre el tercero que haya procedido de buena fe y el mandatario, como si éste hubiese obrado en negocio propio.
 
 ###### Artículo 2479.
 
@@ -13089,11 +13089,11 @@ Si varias personas hubiesen nombrado a un sólo mandatario para algún negocio c
 
 ###### Artículo 2503.
 
-El mandante deberá cumplir todas las obligaciones que el mandatario hubiere contraído dentro de los límites del mandato.
+El mandante deberá cumplir todas las obligaciones que el mandatario hubiere contraido dentro de los límites del mandato.
 
 ###### Artículo 2504.
 
-El mandatario no tendrá acción para exigir el cumplimiento de las obligaciones contraídas a nombre del mandante, a no ser que esta facultad se hubiere incluido también en el poder.
+El mandatario no tendrá acción para exigir el cumplimiento de las obligaciones contraidas a nombre del mandante, a no ser que esta facultad se hubiere incluido también en el poder.
 
 ###### Artículo 2505.
 
@@ -13209,15 +13209,15 @@ El mandato podrá ser revocado en todo tiempo y libremente por el mandante o ren
 
 La parte que revoque o renuncie el mandato en tiempo inoportuno, deberá indemnizar a la otra, de los daños y perjuicios que le cause.
 
-El mandante no podrá revocar el mandato, ni el mandatario podrá renunciar a su ejercicio cuando su otorgamiento se hubiera estipulado como condición en un contrato bilateral de vigencia determinada como medio para cumplir una obligación contraída.
+El mandante no podrá revocar el mandato, ni el mandatario podrá renunciar a su ejercicio cuando su otorgamiento se hubiera estipulado como condición en un contrato bilateral de vigencia determinada como medio para cumplir una obligación contraida.
 
 ###### Artículo 2519.
 
-Cuando el mandato se otorgue como un medio para pagar una obligación contraída por el mandante en favor del mandatario, este último estará facultado para pagarse al ejercer el mandato.
+Cuando el mandato se otorgue como un medio para pagar una obligación contraida por el mandante en favor del mandatario, este último estará facultado para pagarse al ejercer el mandato.
 
 ###### Artículo 2520.
 
-Cuando se haya dado un mandato para tratar con determinada persona, el mandante deberá notificar a ésta la revocación del mandato, so pena de quedar obligado por los actos del mandatario ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
+Cuando se haya dado un mandato para tratar con determinada persona, el mandante deberá notificar a esta la revocación del mandato, so pena de quedar obligado por los actos del mandatario ejecutados después de la revocación, siempre que haya habido buena fe de parte de esa persona.
 
 ###### Artículo 2521.
 
@@ -13821,7 +13821,7 @@ La fianza deberá constar por escrito y constituirse de manera clara. Las cartas
 
 ###### Artículo 2645.
 
-No tendrá lugar la responsabilidad del artículo anterior, si el que dio la carta probase que no fue su recomendación la que condujo a tratar con su recomendado.
+No tendrá lugar la responsabilidad del artículo anterior, si el que dió la carta probase que no fue su recomendación la que condujo a tratar con su recomendado.
 
 ###### Artículo 2646.
 
@@ -13933,7 +13933,7 @@ El fiador que pague por el deudor, se subrogará en todos los derechos del acree
 
 I. De los intereses respectivos, desde que haya sido notificado el pago al deudor, aun cuando éste no estuviere obligado por razón del contrato a pagarlos al acreedor;
 
-II. De los gastos que haya hecho desde que dio noticia al deudor de haber sido requerido de pago; y
+II. De los gastos que haya hecho desde que dió noticia al deudor de haber sido requerido de pago; y
 
 III. De los daños y perjuicios que haya sufrido por causa del deudor.
 
@@ -14029,7 +14029,7 @@ La liberación hecha por el acreedor a uno de los fiadores sin el consentimiento
 
 Los fiadores, aun cuando sean solidarios, quedarán libres de su obligación, si por culpa o negligencia del acreedor no pudieren subrogarse en los derechos, privilegios o hipotecas del mismo acreedor.
 
-Lo dispuesto en el párrafo anterior sólo será aplicable respecto a las seguridades y privilegios constituidos antes de la fianza o en el acto en que ésta se diera; pero no, a las que se dieren al acreedor después del otorgamiento de la fianza.
+Lo dispuesto en el párrafo anterior sólo será aplicable respecto a las seguridades y privilegios constituidos antes de la fianza o en el acto en que esta se diera; pero no, a las que se dieren al acreedor después del otorgamiento de la fianza.
 
 Cuando la subrogación respecto de los derechos del acreedor se hubiere hecho imposible no en todo sino en parte, el fiador quedará libre en proporción a esa parte.
 
@@ -14931,7 +14931,7 @@ Las obligaciones que contraigan los socios administradores excediéndose de sus 
 
 ###### Artículo 2842.
 
-El socio o los socios administradores estarán obligados a rendir cuentas siempre que lo pidiere la mayoría de los socios, aún cuando no sea la época fijada en el contrato de sociedad.
+El socio o los socios administradores estarán obligados a rendir cuentas siempre que lo pidiere la mayoría de los socios, aun cuando no sea la época fijada en el contrato de sociedad.
 
 De la disolución de las sociedades
 
@@ -15285,7 +15285,7 @@ Las inscripciones y anotaciones podrán cancelarse por consentimiento de las per
 
 ###### Artículo 2902.
 
-Para que el asiento pueda cancelarse por consentimiento de las partes, éste deberá constar en escritura pública.
+Para que el asiento pueda cancelarse por consentimiento de las partes, este deberá constar en escritura pública.
 
 ###### Artículo 2903.
 
@@ -15509,7 +15509,7 @@ VII. La fecha del título, número si lo tuviera, y el funcionario que lo haya a
 
 Las anotaciones preventivas contendrán las circunstancias que expresa el artículo anterior, en cuanto resulten de los documentos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
 
-Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquéllas y el importe de la obligación que los hubiere originado.
+Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquellas y el importe de la obligación que los hubiere originado.
 
 Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionarán la fecha del decreto respectivo, la de su publicación en el Periódico Oficial del Estado y el fin de su utilidad pública que sirva de causa a la declaración.
 
@@ -15639,7 +15639,7 @@ C. BAUTISTA LOBATO SERNA.
 
 Rúbrica.
 
-En cumplimiento de lo dispuesto por las fracciones III y IV del Artículo 74 de la Constitución Política del Estado Libre y Soberano de Guerrero y para su debida publicación y observancia expido el presente Decreto en la residencia oficial del Poder Ejecutivo, en la Ciudad de Chilpancingo, Guerrero, a los veintiséis días del mes de febrero de mil novecientos noventa y tres.
+En cumplimiento de lo dispuesto por las fracciones III y IV del Artículo 74 de la Constitución Política del Estado Libre y Soberano de Guerrero y para su debida publicación y observancia expido el presente Decreto en la residencia oficial del Poder Ejecutivo, en la Ciudad de Chilpancingo, Guerrero, a los veintiseis días del mes de febrero de mil novecientos noventa y tres.
 
 El Gobernador Constitucional del Estado.
 
@@ -15683,7 +15683,7 @@ P.O. 30 DE DICIEMBRE DE 2008.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico del Gobierno del Estado de Guerrero.
 
-SEGUNDO.- Remítase al Titular del Poder Ejecutivo Estatal para los efectos legales conducentes.
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado para los efectos legales conducentes.
 
 P.O. 7 DE JULIO DE 2009.
 
@@ -15842,3 +15842,15 @@ P.O. 17 DE NOVIEMBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
 
 SEGUNDO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo para los efectos constitucionales y legales conducentes.
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231 POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129 Y DEL CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general y para los efectos legales respectivos.
+
+CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
