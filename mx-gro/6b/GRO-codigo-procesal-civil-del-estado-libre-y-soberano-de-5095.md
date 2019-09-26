@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "2015-07-24"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -1364,6 +1364,10 @@ II. Cuando se trate de personas cuyo domicilio se ignora; y
 III. En todos los demás casos previstos por la ley.
 
 En los casos de las fracciones I y II, los edictos se publicarán por tres veces de tres en tres días, en el Periódico Oficial y otro periódico de los de mayor circulación, haciéndose saber que debe presentarse el citado dentro de un término que no bajará de quince ni excederá de sesenta días.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+Los edictos serán publicados en la página WEB del Poder Judicial del Estado Libre y Soberano de Guerrero de acuerdo al artículo 92 y las disposiciones contenidas en la fracción IX de la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de Guerrero.
 
 ###### Artículo 161.
 
@@ -7212,3 +7216,15 @@ Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para 
 ###### ARTÍCULO QUINTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en el Portal web de este Honorable Congreso del Estado, para el conocimiento general.
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231 POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129 Y DEL CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general y para los efectos legales respectivos.
+
+CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
