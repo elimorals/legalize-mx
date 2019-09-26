@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-164
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-05-24"
-last_updated: "2018-08-28"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 24 de mayo de 2000.
 
@@ -693,7 +693,7 @@ VI.- De los demás asuntos que prevean las leyes y el Reglamento Interior del Tr
 
 Las Salas del Tribunal Superior de Justicia, tendrán Secretarios de Acuerdos, Secretarios de Acuerdos Auxiliares, Actuarios, Proyectistas y demás personal que sea necesario de conformidad a la capacidad presupuestal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2011)</small>
 
 ### CAPÍTULO V. DE LOS JUECES
 
@@ -1055,7 +1055,7 @@ Los Juzgados en Materia Penal y de justicia para adolescentes realizarán guardi
 
 Cuando en una Cabecera de Distrito Judicial funcionen dos o más Juzgados en materia Penal o de justicia para adolescentes, todos realizarán guardias en días inhábiles.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2011)</small>
 
 ###### ARTICULO 42.
 
@@ -1811,9 +1811,9 @@ II.- El Instituto para el Mejoramiento Judicial;
 
 III.- El Centro Estatal de Mecanismos Alternativos de Solución de Controversias;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
 
-IV.- La Unidad de Estadística, Evaluación y Seguimiento;
+IV.- La Unidad de Estadística, Evaluación, Informática, Comunicación Digital y Seguimiento;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2011)</small>
 
@@ -1963,11 +1963,15 @@ VII.- Haber aprobado los programas de capacitación y evolución, tanto psicomé
 
 Los responsables de los centros regionales de mecanismos alternativos de solución de controversias deberán satisfacer los mismos requisitos que se exigen para ser director, con excepción de los previstos en las fracciones III y IV de este artículo, bastando con que tengan veinticinco años de edad y práctica profesional de tres años.
 
-### CAPITULO VII. DE LA UNIDAD DE ESTADISTICA, EVALUACION Y SEGUIMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+### CAPITULO VII. DE LA UNIDAD DE ESTADISTICA, EVALUACION, INFORMATICA, COMUNICACION DIGITAL Y SEGUIMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 92.
 
-La unidad de Estadística, Evaluación y Seguimiento tendrá las siguientes atribuciones:
+La Unidad de Estadística, Evaluación, Informática, Comunicación Digital y Seguimiento tendrá las siguientes atribuciones:
 
 I.- Recopilar, recibir, registrar, clasificar y concentrar los datos relativos a las actividades jurisdiccionales que realizan los Juzgados y Salas del Tribunal;
 
@@ -1983,13 +1987,23 @@ VI.- Llevar por cada Juez, un control estadístico individualizado de las resolu
 
 VII.- Procesar por medios informáticos las acciones del Tribunal en las áreas de personal, contabilidad, recursos materiales y en las que se requieran; y
 
-VIII.- Auxiliar en todas aquellas actividades de la Administración de Justicia, que determine el Consejo de la Judicatura Estatal.
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+VIII.- Auxiliar en todas aquellas actividades de la Administración de Justicia, que determine el Consejo de la Judicatura Estatal; y
+
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+IX.- Colocar digital y gratuitamente los edictos y las publicaciones en la página WEB, del Tribunal Superior de Justicia que estén relacionadas con notificaciones, edictos, resoluciones, avisos u otras comunicaciones de los diversos órganos del Tribunal Superior de Justicia del Estado de Guerrero, conforme a lo que disponga la Ley. Su consulta para el público deberá ser de fácil acceso y se ordenará por rubro temático, actualizando sus contenidos de forma regular y archivando sus historiales respectivos para su consulta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTICULO 93.
 
-Para ser Jefe de la Unidad de Estadística, Evaluación y Seguimiento, se requiere:
+Para ser jefe de la Unidad de Estadística, Evaluación, Informática, Comunicación Digital y Seguimiento, se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+I.- Ser ciudadana mexicana o ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
 
 II.- Tener Título Profesional de Licenciado en Derecho, Licenciado en Informática o equivalente;
 
@@ -2593,7 +2607,7 @@ En caso de incumplimiento a la excitativa de justicia, el servidor público se h
 
 En contra de esta resolución no procede recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE JULIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JULIO DE 2011)</small>
 
 ## TITULO SEXTO. DE LAS VISITAS A LOS JUZGADOS, CENTROS DE REINSERCION SOCIAL Y CENTROS DE INTERNAMIENTO PARA ADOLESCENTES
 
@@ -2703,7 +2717,7 @@ C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE JULIO DE 2008.
 
@@ -2798,3 +2812,15 @@ P.O. 28 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 780, POR EL QUE SE REFORMAN LOS ARTÍCULOS 9 Y 14 PRIMER PÁRRAFO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231 POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358; DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129 Y DEL CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDA.- Remítase al Titular del Poder Ejecutivo para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general y para los efectos legales respectivos.
+
+CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
