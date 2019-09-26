@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2019-05-22"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -553,7 +553,9 @@ XVII. Firmar con los Secretarios de la Mesa Directiva, las leyes y decretos que 
 
 XVIII. Vigilar que las comisiones presenten sus dictámenes en el tiempo reglamentario; de no hacerlo, señalarles día para que los presenten y si no lo hicieren, deberá turnar el caso a la Junta Política y de Gobierno, para que ésta proponga al pleno la integración de una comisión especial que lo resuelva;
 
-XIX. Conceder el uso de la palabra en la tribuna a los servidores públicos que comparezcan ante el pleno;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+XIX. Conceder el uso de la palabra en la Tribuna a los servidores públicos que comparezcan ante el pleno, apercibiendo a que se conduzca con verdad, en términos de lo dispuesto en el primer párrafo del artículo 221 del Código Penal para el Estado de Morelos;
 
 XX. Declarar, con la información de los Secretarios de la Mesa Directiva, el sentido del resultado de las votaciones que se emitan durante la sesión;
 
@@ -2967,6 +2969,16 @@ QUINTA.- La Junta Política y de Gobierno propiciará la integración de Comisio
 
 P.O. 22 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO CIEN POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO CIEN POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
 
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), todos de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CUATROCIENTOS SESENTA Y CINCO POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 36 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS".]
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso.
+
+TERCERO (SIC).- Se derogan las disposiciones de igual o menor grado que se opongan a la presente reforma.
+
+SEGUNDO (SIC).- Remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos, para efectos de su divulgación.
