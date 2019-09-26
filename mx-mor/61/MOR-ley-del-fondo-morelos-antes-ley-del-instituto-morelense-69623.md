@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-fondo-morelos-antes-ley-del-instituto-morelense-69623"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-12"
-last_updated: "2016-09-14"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DEL FONDO MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE SEPTIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 12 de agosto de 2009.
 
@@ -81,7 +79,9 @@ V. Gobernador, a la persona Titular del Poder Ejecutivo Estatal;
 
 VI. Ley, al presente instrumento jurídico;
 
-VII. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado de Morelos;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+VII. Ley Orgánica, a la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos;
 
 VIII. Manuales Administrativos, a los Manuales de Organización, de Políticas y Procedimientos y demás instrumentos normativos aprobados por el Fondo Morelos, mediante los cuales se indican los pasos que deban seguirse para el desarrollo de cada una de las actividades de las unidades administrativas que lo conforman;
 
@@ -209,7 +209,9 @@ El Consejo Directivo es el máximo órgano de gobierno del Fondo Morelos y se in
 
 I. El Gobernador, quien lo presidirá por sí o por conducto del representante que designe al efecto;
 
-II. La persona titular de la Secretaría de Economía del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+II. La persona Titular de la Secretaría de Desarrollo Económico y del Trabajo;
 
 III. La persona titular de la Secretaría de Gobierno del Poder Ejecutivo Estatal;
 
@@ -217,11 +219,15 @@ IV. La persona titular de la Secretaría de Administración del Poder Ejecutivo 
 
 V. La persona titular de la Secretaría de Hacienda del Poder Ejecutivo Estatal;
 
-VI. La persona titular de la Secretaría de Turismo del Poder Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+VI. La persona Titular de la Secretaría de Turismo y Cultura;
 
 VII. La persona titular de la Secretaría de Desarrollo Agropecuario del Poder Ejecutivo Estatal;
 
-VIII. La persona titular de la Secretaría de Innovación, Ciencia y Tecnología del Poder Ejecutivo Estatal, y
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+VIII. La persona Titular de la Secretaría de Desarrollo Sustentable; y,
 
 IX. La persona titular de la Secretaría de Desarrollo Social del Poder Ejecutivo Estatal.
 
@@ -289,7 +295,9 @@ XV. Proponer el desarrollo de programas y productos que impulsen el crecimiento 
 
 La administración del Fondo Morelos estará a cargo del Director General quien será nombrado y removido libremente por el Gobernador, o previo acuerdo con la Secretaría o Dependencia coordinadora del sector al que pertenece el Fondo Morelos, dicha designación quedará a cargo del Consejo Directivo, en términos de lo dispuesto por la Ley Orgánica.
 
-Para ser Director General es necesario contar con los requisitos que se establecen en el artículo 83 de la Ley Orgánica y tener experiencia en el ramo financiero.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+Para ser Director General es necesario contar con los requisitos que se establecen en la Ley Orgánica y tener experiencia en el ramo financiero.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
 
@@ -331,11 +339,11 @@ XV. Vigilar que las reservas crediticias se mantengan en los niveles determinado
 
 ### CAPÍTULO V. DEL ÓRGANO INTERNO DE CONTROL
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
 
-###### Artículo 15.
+###### ARTÍCULO 15.
 
-El Fondo Morelos contará con un Órgano Interno de Control, que dependerá del Consejo Directivo, el cual estará a cargo de un Comisario Público propietario y un suplente, designados por la Secretaría de la Contraloría del Poder Ejecutivo Estatal, de conformidad con lo dispuesto por la Ley Orgánica, el cual tendrá como finalidad apoyar la función directiva y promover el mejoramiento de gestión del Fondo Morelos.
+El Fondo Morelos contará con un Órgano Interno de Control que estará bajo la dirección de un Comisario Público que dependerá y formará parte de la estructura de la Secretaría de la Contraloría, designado por esta última, de conformidad con lo dispuesto por la Ley Orgánica, el cual tendrá como finalidad evaluar la actividad general y por funciones del Fondo Morelos.
 
 Las funciones del Comisario Público se realizarán de acuerdo con las políticas que dicte la Secretaría de la Contraloría del Poder Ejecutivo Estatal y se sujetarán a lo dispuesto por la Ley Orgánica y demás normativa.
 
@@ -472,3 +480,19 @@ QUINTA. Dentro de un plazo de ciento veinte días hábiles a partir de la instal
 SEXTA. Los convenios, contratos y demás compromisos u obligaciones del Instituto Morelense para el Financiamiento del Sector Productivo, denominado también como Fondo Morelos, no se verán afectados en su vigencia o validez con motivo de la expedición de este instrumento, menos aún, sus obligaciones y derechos derivados de sus relaciones de trabajo y en materia de seguridad social.
 
 SÉPTIMA. Dentro de un plazo de diez días hábiles, contados a partir del inicio de la vigencia de este Decreto, el Director General del Fondo Morelos deberá solicitar en el Registro Público de los Organismos Descentralizados del Estado de Morelos, a cargo de la Secretaría de Hacienda del Poder Ejecutivo Estatal, la inscripción de este instrumento jurídico, de conformidad con lo dispuesto en el artículo 86 de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA.- POR EL QUE SE EXPIDEN Y REFORMAN DIVERSAS DISPOSICIONES A LA “LEY FONDO MORELOS”.]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. En un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá instalarse con su nueva integración el Consejo Directivo del Fondo Morelos, conforme a lo dispuesto en el presente Decreto.
+
+QUINTO. Dentro de un plazo de 20 días hábiles, contados a partir del inicio de la vigencia de este Decreto, la Dirección General del Fondo Morelos deberá solicitar en el Registro Público de los Organismos Descentralizados del Estado de Morelos, a cargo de la Secretaría de Hacienda del Poder Ejecutivo Estatal, la inscripción de este instrumento jurídico, de conformidad con lo dispuesto en el artículo 83 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+SEXTO. En un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, en su caso, deberán realizarse las modificaciones necesarias al Estatuto Orgánico del Fondo Morelos y demás normativa aplicable.
