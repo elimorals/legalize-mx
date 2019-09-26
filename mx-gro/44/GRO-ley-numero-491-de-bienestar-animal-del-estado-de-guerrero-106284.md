@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-491-de-bienestar-animal-del-estado-de-guerrero-10628
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2016-08-09"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2014.
 
@@ -487,7 +487,13 @@ III. El desarrollo de programas de educación no formal en las materias de la pr
 
 IV. Educar, en coordinación con la Secretaría de Salud, sobre el impacto psicológico y la influencia nociva que tiene en los menores el maltrato a los animales; y
 
-V. Las demás que esta Ley y otros ordenamientos jurídicos aplicables le confieran.
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+V. Educar, integrando en los contenidos de las asignaturas respectivas de la educación primaria y secundaria, la importancia del bienestar animal contempladas en esta Ley resaltando el trato digno y respetuoso como la tenencia responsable y de aquellas conductas consideras como delitos catalogadas como maltrato, en contra de los animales, como seres sinientes (sic), de compañía, domésticos, silvestres, o en condición de calle o de trabajo; y
+
+(REUBICADA [N. DE E. REFORMADA], P.O. 26 DE SEPTIEMBRE DE 2019)
+
+VI. Las demás que esta ley y otros ordenamientos jurídicos aplicables le confieren.
 
 ### Capítulo III. Del Consejo Consultivo Ciudadano
 
@@ -615,7 +621,13 @@ II. La promoción de campañas de esterilización;
 
 III. El desarrollo de las acciones establecidas en los convenios que la SEMAREN suscriba con los sectores social, privado, académico y de investigación en materia de la presente Ley; y
 
-IV. El mejoramiento del bienestar animal en los Centros de Control Animal.
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+IV. El mejoramiento para el bienestar animal y apoyo de cualquier tipo para los alberges (sic) contemplados en esta ley; y
+
+(REUBICADA [N. DE E. REFORMADA], P.O. 26 DE SEPTIEMBRE DE 2019)
+
+V. El mejoramiento para el bienestar animal en los centros de control animal.
 
 ###### Artículo 28.
 
@@ -925,7 +937,9 @@ El propietario de cualquier animal, está obligado a colocarle permanentemente u
 
 Asimismo, los propietarios serán responsables de recoger las heces de su animal cuando transite con él en la vía pública.
 
-Toda persona que no pueda hacerse cargo de su animal podrá venderlo o buscarle alojamiento y cuidado, y bajo ninguna circunstancia podrá abandonarlo en la vía pública o en zonas rurales.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+Toda persona que no pueda hacerse cargo de su animal, deberá buscarle alojamiento y cuidado, y bajo ninguna circunstancia podrá abandonarlos en la vía pública, en zonas rurales o semiurbanas, en propiedades de terceros, en carreteras o caminos. En tal caso se sujetará a lo dispuesto en lo referente al abandono de cualquier animal de compañía, doméstico, o que haya desempeñado tareas laborales contenidas en el Artículo 375 del Código Penal del estado de Guerrero.
 
 ###### Artículo 62.
 
@@ -999,13 +1013,17 @@ IV. Presente constancia de esterilización del animal. De no hacerlo y en caso d
 
 Cuando los animales capturados porten placa de identificación o se pueda identificar a los propietarios o poseedores de cualquier otra forma, los responsables de su custodia están obligados a notificar al propietario de manera pronta y fehaciente la captura del animal. A partir de la notificación empezará a contar el término de siete días para que éste pueda ser recogido por su dueño. Si el animal capturado muestra síntomas de estar enfermo de gravedad y que la enfermedad puede transmitirse al ser humano, el animal será sacrificado previo aviso a su propietario.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 73.
 
-El animal que no sea reclamado dentro del término de siete días, podrá ser entregado a las Asociaciones Protectoras de Animales que lo soliciten para su cuidado y reubicación, o vendido para subsanar los gastos de su captura. Si ninguna de las opciones anteriores fuese posible, será sacrificado.
+El animal que no sea reclamado dentro del término de siete días, podrá ser entregado a las asociaciones protectoras de animales que lo soliciten para su cuidado y adopción. Manteniendo su condición de adoptante hasta que se realice esta de forma plena para cumplir con los fines del bienestar animal y sinientes (sic) de esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 74.
 
-Los animales que porten identificación y deambulen libremente por la vía pública sin la vigilancia de su propietario y sean capturados por segunda ocasión por el mismo motivo, podrán ser devueltos a sus dueños, pero aquellos que sean capturados por tercera ocasión por la misma razón, quedarán retenidos en los Centros de Control Animal para ser vendidos o donados a los particulares que lo soliciten. Si al término de 30 días esto no es posible serán sacrificados.
+Los animales que porten identificación y deambulen libremente por la vía pública sin la vigilancia de su propietario y sean capturados por segunda ocasión por el mismo motivo, deberán ser devueltos a sus dueños, pero aquellos que sean capturados por tercera ocasión por la misma razón serán entregados al dueño o al poseedor o a un alberge de adopción para ser adoptado al particular que lo solicite. Queda prohibido el sacrificio de estos. Se considerará maltrato animal el contemplado en el capítulo del Código Penal del Estado. La condición de ser candidato a ser adoptado se extingue al final de su vida en tanto esta no se produzca.
 
 ###### Artículo 75.
 
@@ -1137,9 +1155,13 @@ El uso de animales de laboratorio se sujetará a lo establecido en las normas of
 
 En el Estado quedan expresamente prohibidas las prácticas de vivisección y de experimentación en animales con fines docentes o didácticos en los niveles de enseñanza primarios y secundarios. Dichas prácticas serán sustituidas por esquemas, videos, materiales biológicos y otros métodos alternativos.
 
-Ningún alumno podrá ser obligado a experimentar con animales contra su voluntad, y el profesor correspondiente deberá proporcionar prácticas alternativas para otorgar calificación aprobatoria. Quien obligue a un alumno a realizar estas prácticas contra su voluntad podrá ser denunciado en los términos de la presente Ley.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
 
-Ningún animal podrá ser usado más de una vez en experimentos de vivisección, debiendo previamente ser insensibilizado, según las características de la especie y del tipo de procedimiento experimental, curado y alimentado en forma debida, antes y después de la intervención. Si sus heridas son de consideración o implican mutilación grave, será sacrificado inmediatamente al término de la operación.
+Ningún alumno podrá ser obligado (sic) experimentar con animales contra su voluntad, y el docente correspondiente deberá proporcionar prácticas alternativas para otorgar calificación aprobatoria. Quien obligue a un alumno a realizar estas prácticas contra su voluntad podrá ser denunciado en los términos de la presente Ley y por maltrato animal de acuerdo a los dispuesto en el artículo 375 del Código Penal del Estado de Guerrero.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+Ningún animal podrá ser utilizado para experimentos de vivisección aplicándose en todo caso, a quien la realice lo dispuesto en el Código Penal del Estado referente al Capítulo de Maltrato o Crueldad Animal.
 
 ###### Artículo 92.
 
@@ -1367,7 +1389,7 @@ I. Apercibimiento o amonestación pública o privada;
 
 II. Multa de 40 a 240 días de salario mínimo general vigente en el Estado a la fecha en que se cometa la infracción;
 
-III. En el caso de conductas dolosas que se consideren como lesiones, tortura, maltrato, mutilación que causen o puedan causar la muerte del animal, la multa será de 60 a 360 días de salario mínimo general vigente en el Estado a la fecha en que se cometa la infracción;
+III. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2019)
 
 IV. Arresto administrativo hasta por 36 horas, el arresto administrativo no eximirá al infractor del pago de la sanción económica respectiva;
 
@@ -1590,3 +1612,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase al Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales procedentes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento general.
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499 Y DE LA LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se deroga (sic) fracción III del artículo 125 de la Ley Número 491 de Bienestar Animal del Estado de Guerrero.
+
+TERCERO.- Remítase al Titular del Poder Ejecutivo para su conocimiento y para los efectos legales conducentes.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general y para los efectos legales respectivos.
+
+QUINTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+SEXTO.- Comuníquese a la Secretaría de Educación del Estado de Guerrero para la aplicación en lo que le corresponde a la reforma realizada a la Ley Número 491 de Bienestar Animal del estado de Guerrero. Así como que informe a los órganos administrativos respectivos para su aplicación.
