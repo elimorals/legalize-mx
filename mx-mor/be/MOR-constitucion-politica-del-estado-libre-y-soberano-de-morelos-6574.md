@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2018-08-20"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,9 +24,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2018.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE AGOSTO DE 2018.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -420,9 +418,51 @@ Los habitantes de Morelos que ingresen a los Institutos de Salud Pública del Es
 
 DE LA PARTICIPACION CIUDADANA.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
 
-Artículo 19 bis.- Esta Constitución reconoce como medios de participación ciudadana los contemplados en la ley de la materia. El Instituto Morelense de Procesos Electorales y Participación Ciudadana, calificará su procedencia o improcedencia, y se encargará de su organización, desarrollo, cómputo y declaración de resultados, de conformidad con la normativa aplicable.
+Artículo 19 bis.- Esta Constitución reconoce la participación de la sociedad morelense en sus distintas formas de expresión, las cuales deberán llevarse a cabo de forma pacífica y por conducto de los canales y las disposiciones legales que para el efecto se establezcan, y siempre deberán tener como finalidad la consolidación de la democracia participativa para el desarrollo del Estado y de su población, en lo individual y/o colectivo.
+
+Los Poderes Públicos y todas las autoridades en el ámbito de su competencia, están obligadas a respetar, garantizar y cumplir con los objetivos de los mecanismos de participación ciudadana.
+
+La participación ciudadana tendrá lugar en la planeación estatal y municipal, en los términos previstos por la Ley. Asimismo, deberán establecer políticas públicas que fortalezcan la cultura participativa.
+
+Son principios de la participación ciudadana los siguientes: la legalidad, solidaridad, igualdad, equidad, bienestar social, justicia social y soberanía popular.
+
+Ningún mecanismo de participación ciudadana, tendrá como objetivo atentar o disminuir derechos humanos, las facultades constitucionales de los Poderes del Estado, de los Ayuntamientos o de los Órganos Autónomos.
+
+Esta Constitución y el Estado, reconocen como mínimo, los siguientes mecanismos de participación ciudadana:
+
+I. Plebiscito;
+
+II. Referéndum;
+
+III. Iniciativa Popular;
+
+IV. Consulta Ciudadana;
+
+V. Colaboración Ciudadana;
+
+VI. Rendición de Cuentas;
+
+VII. Audiencia Pública;
+
+VIII. Cabildo Abierto;
+
+IX. Congreso Abierto;
+
+X. Asamblea Ciudadana;
+
+XI. Presupuesto Participativo
+
+XII. Difusión Pública;
+
+XIII. Red de Contraloría
+
+XIV. Gobierno abierto
+
+El Congreso del Estado, el Instituto Morelense de Procesos Electorales y Participación Ciudadana y el Instituto Morelense de Información Pública y Estadística en el ámbito de su competencia, vigilarán y llevarán a cabo las acciones necesarias para su cumplimiento.
+
+Los mecanismos de participación ciudadana pueden tener origen popular o provenir de autoridad pública, según sean promovidos o presentados directamente mediante solicitud avalada por firmas ciudadanas o por una autoridad, en los términos de la normativa aplicable.
 
 ## TITULO SEGUNDO.
 
@@ -5413,3 +5453,13 @@ PRIMERO. Aprobado el presente Decreto por el Poder Reformador Local y hecha la d
 SEGUNDO. Las adiciones contenidas en el presente Decreto formarán parte de la Constitución Política del Estado Libre y Soberano de Morelos desde el momento en que se haga la Declaratoria a que se refiere la disposición precedente, en términos de lo dispuesto por el artículo 147, fracción II, de la propia Constitución.
 
 TERCERA. Se deroga (sic) las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CUATROCIENTOS CINCUENTA Y CUATRO POR EL QUE SE REFORMA INTEGRALMENTE EL ARTÍCULO 19 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), todos de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Hecha la Declaratoria a que se refiere la disposición transitoria anterior, remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y su publicación, de conformidad con los artículos 44 y 70 fracción XIII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
