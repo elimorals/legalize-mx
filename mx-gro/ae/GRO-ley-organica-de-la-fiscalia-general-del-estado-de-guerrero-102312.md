@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-fiscalia-general-del-estado-de-guerrero-1023
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-08-01"
-last_updated: "2018-01-16"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el alcance del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -315,7 +313,11 @@ i). Traslado de la víctima u ofendido a refugios o albergues temporales, así c
 
 j). El regreso de la víctima u ofendido a su domicilio, una vez que se salvaguarde su integridad.
 
-XXXIV. Las demás funciones que le atribuyan otras disposiciones legales, aplicables a diversas materias del derecho.
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+XXXIV. Iniciar de manera inmediata la investigación y búsqueda de la mujer o mujeres desaparecidas, una vez que tenga conocimiento del hecho delictivo de manera oficiosa o previa denuncia, debiendo observar lo dispuesto por la Ley Número 553 de Acceso de las Mujeres a una Vida Libre de Violencia del Estado Libre y Soberano de Guerrero, así como los protocolos de actuación en la materia. El incumplimiento de esta disposición será considerada (sic) como grave, en materia de responsabilidad del servidor público; y
+
+XXXV. Las demás funciones que le atribuyan otras disposiciones legales, aplicables a diversas materias del derecho.
 
 > <small>(REFORMADO, P.O. 18 DE JULIO DE 2017)</small>
 
@@ -515,13 +517,17 @@ XXVI. Conceder licencias, comisiones y aceptar las renuncias de los servidores p
 
 XXVII. Determinar el otorgamiento del servicio de seguridad y protección policial al Fiscal, a los Vicefiscales, al Visitador General, a los Fiscales Regionales y Especializados y a los ex servidores públicos que ocuparon alguno de los anteriores cargos, en la Fiscalía General, en términos de lo que establezca el reglamento;
 
+> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+XXVIII. Suspender o remover de su cargo, según sea el caso a los agentes del Ministerio Público, que incumplan lo dispuesto por la fracción XXXIV del artículo 11 de esta Ley;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+XXIX. Llevar acabo (sic) audiencias públicas; y
+
 > <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
 
-XXVIII. Llevar a cabo audiencias públicas; y
-
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
-
-XXIX. Las demás que se prevean en otras disposiciones aplicables.
+XXX. Las demás que se prevean en otras disposiciones aplicables.
 
 ###### ARTÍCULO 22.
 
@@ -1744,3 +1750,15 @@ Cuarto. El Congreso del Estado, deberá aprobar el presupuesto de la Fiscalía E
 Quinto. La Fiscalía General dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, deberá emitir un nuevo reglamento en apego a las nuevas disposiciones de esta Ley.
 
 Sexto. Se derogan todas las disposiciones que se opongan al presente Decreto, a partir de su entrada en vigor
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 222 POR EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO NÚMERO 500”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general.
+
+CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
