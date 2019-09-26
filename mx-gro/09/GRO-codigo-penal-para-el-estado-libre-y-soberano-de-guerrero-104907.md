@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2019-01-01"
+last_updated: "2019-09-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -4443,6 +4443,10 @@ Cuando en la comisión de un delito previsto en este título intervenga un servi
 
 ## Título Vigésimo Cuarto. Delitos contra la seguridad de las instituciones del estado
 
+### Capítulo Único. Del maltrato o crueldad en contra de los animales
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 368.
 
 Rebelión
@@ -4514,6 +4518,72 @@ IV. Sustraer de la obediencia de las autoridades legítimamente constituidas tod
 Agravación de la pena
 
 La pena señalada en este artículo se aumentará hasta en una mitad para quienes dirijan, organicen, inciten, induzcan o patrocinen económicamente a otros para cometer este delito.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+## Título Vigésimo Quinto. De los delitos contra los animales
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 375.
+
+Para efectos de este Capítulo, se entiende por animal doméstico, de compañía o de trabajo, a todo aquel que ha sido criado y condicionado para acompañar al ser humano en su convivencia diaria. Y por abandonado o en situación de calle, a aquel que fue protegido y cuidado por una o varias personas siendo abandonado por estas, sin considerar la dependencia para su vida a ellas. Provocando que este o estos, vivan en la intemperie sin cuidados, protección y alimentación, exponiendo cotidianamente su vida.
+
+Se le impondrá pena de seis meses a cuatro años de prisión y multa de trescientos cincuenta y cinco a mil ciento ochenta y cuatro de Unidades de Medida y Actualización Vigente, al momento de la comisión del delito a quien:
+
+I. Comete el delito de maltrato animal, al que cause lesiones dolosas a cualquier animal que no constituya plaga. Prive a un animal doméstico de compañía o de trabajo, abandonado o en situación de calle, de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos o alojamiento adecuado, acorde a su especie. Que cause o pueda causarle daño, o lo desatienda por períodos prolongados que comprometan el bienestar del mismo;
+
+II. Al que por medio de acto u omisión consciente o inconsciente, ocasione dolor o sufrimiento a los animales de compañía, domésticos o de trabajo, afectando su bienestar, poniendo en peligro su vida, su salud, que les cause invalidez o muerte o incluyendo su abuso en jornadas laborales o de producción que resulten extenuantes o se encuentren enfermos y/o fatigados. Al que los sacrifique sin causa justificada o provoque sufrimiento y miedo. Al que lo robe o secuestre. O produzca la muerte no inmediata, utilizando cualquier medio que prolongue la agonía dolorosa de cualquier animal que no constituya plaga;
+
+III. A quien abandone a cualquier animal de compañía o doméstico, sin importar su edad o condición física, en espacios públicos o privados, en carreteras de cualquier tipo, caminos vecinales o rurales, brechas y calles, tanto en zonas urbanas, en vías primarias o secundarias, áreas suburbanas o en áreas rurales de cualquier condición geográfica, incluyendo costas y litorales o en propiedades de terceros, de tal manera que este o estos, queden expuesto (sic) a riesgos que amenacen su integridad, la de otros animales o de las personas;
+
+IV. A quien realice actos de zoofilia o eróticos sexuales, a un animal o le introduzca por vía vaginal o rectal el miembro viril, o cualquier parte su cuerpo, un objeto o instrumento;
+
+V. A quien organice, induzca, provoqué, promueva o realice una o varias peleas de perros, públicas o privadas, con o sin apuestas o las permita en su propiedad. Al que anuncie o venda entradas para asistir a espectáculos que impliquen peleas de perros. A quien permita la realización, exhibición, de espectáculo o actividades que involucre una pelea entre dos o más perros hembras o machos;
+
+VI. A quien atropelle de manera intencional, cuando esto se pueda evitar ya sea en calles, avenidas o carreteras de cualquier tipo, vías primarias o secundarias, caminos rurales o comunales. O quien los induzca, traslade o arroje, a estas vías de comunicación para ser atropellados;
+
+VII. A quien, a los animales, los torture o los maltrate por maldad, brutalidad, egoísmo o negligencia o con fines de entretenimiento. O los haga ingerir bebidas alcohólicas o suministre drogas, sin fines terapéuticos. Al que los aislé en azoteas de forma permanente, en cuartos obscuros y terrenos baldíos igualmente; y/o les impida los movimientos que les son naturales, así como la realización de sus necesidades primarias como defecar, orinar, reposar o dormir o los deje en el interior de vehículos sin ventilación. O coloque accesorios que pongan en riesgo la integridad física de los animales o les cause dolor. Al que realice actos de maltrato animal a aquellos que se encuentren en condición de abandono o situación de calle;
+
+VIII. A quien realice o promueva cualquier mutilación parcial o total de alguno de sus miembros u órganos, incluyendo la mutilación por razones estéticas, excepto la castración eventual que será efectuada, siempre con anestesia y por un especialista debidamente autorizado;
+
+IX. A quien provoque la modificación negativa de los instintos naturales y que no se efectúe bajo el cuidado de un médico veterinario y que no sea necesaria efectuar para conservar su salud o la vida. A quien suministre a los animales de forma intencional o negligente de forma oculta o engañosa, sustancias u objetos para envenenarlos causándoles daños o su muerte;
+
+X. Cualquier otro maltrato o tortura como puncionar sus ojos, fracturar sus extremidades antes de sacrificarlos o arrojarlos vivos o agonizantes al agua hirviendo, quemarlos, golpearlos o asfixiarlos por cualquier medio, así como los actos u omisiones carentes de motivo razonable que causen sufrimiento o que pongan en peligro su vida;
+
+XI. El espolonamiento, latigazo, fustigamiento, golpes, así como cualquier otro acto de crueldad que perjudique a los animales en el trabajo; igualmente como la comercialización de animales enfermos, con lesiones traumatismos, fracturas o heridas;
+
+XII. A quien use animales vivos como blanco de ataque en el entrenamiento de animales adiestrados para espectáculos, deportes, seguridad, protección, guardia o como medio para verificar su agresividad, salvo en el caso de aquellas especies que formen parte de la dieta de las especies de fauna silvestre, incluyendo aquellas manejadas con fines de rehabilitación para su integración en su hábitat, así como las aves de presa, siempre y cuando medie autoridad competente o profesionales de la materia. O quien utilice el empleo de animales vivos para prácticas de tiro;
+
+XIII. A quien obsequie, distribuya, venda para cualquier uso animales vivos para fines de propaganda política o comercial, para obras benéficas, ferias, kermeses escolares o como premios de sorteos, juegos o concursos, rifas loterías o cualquier otra actividad análoga, con excepción de aquellos eventos que tienen como objeto la venta y/o adopción de animales y que están legalmente autorizados para ello;
+
+XIV. A quien realice la venta ambulante de toda clase de animales vivos en tiendas departamentales, tiendas de autoservicio y en general en cualquier otro establecimiento cuyo giro comercial autorizado sea diferente al de la venta de animales;
+
+XV. A quien realicé la práctica denominada "vivisección" en animales vivos. De conformidad con lo establecido en el artículo 91 de Ley número 491 de Bienestar Animal del estado de Guerrero;
+
+XVI. A quien venda, alquile, preste, done o entregue animales para que experimenten con ellos o capture animales ferales, abandonados o en condición de calle, en vía pública con los fines anteriores. Así como los centros de control animal bajo la jurisdicción del Estado o de los Municipios en caso de que establezcan programas de entrega de animales para fines experimentales se ajustaran a la pena impuesta en este artículo y a su destitución inmediata del cargo sin importar la Jerarquía administrativa que ocupen. Iniciándose y procediendo ante las autoridades competentes el proceso de inhabilitación para ocupar cargos públicos por un lapso de seis años;
+
+XVII. A quien sacrifique a un animal por envenenamiento, asfixia estrangulamiento, golpes, ácidos corrosivos, estricinina, warfarina, cianuro, arsénico u otras substancias o procedimientos que causen dolor innecesario o prolonguen la agonía o utilicen tubos, palos, varas con puntas de acero, látigos, instrumentos punzocortantes u objetos que produzcan traumatismos. De conformidad con lo dispuesto en el artículo 96 de la Ley número 491 de Bienestar Animal del Estado de Guerrero. Quedan exceptuados de esta fracción aquellos instrumentos que estén permitidos por las Normas Oficiales Mexicanas y siempre que se utilicen de conformidad a lo establecido en las mismas;
+
+XVIII. A quien se apropie de animales silvestres o para mantenerlos en cautiverio salvo que disponga de la autorización de las autoridades correspondientes;
+
+XIX. A quien compre o venda artículos fabricados con productos o subproductos de especies silvestres vedadas por la ley y/o en proceso de extinción; y
+
+XX. A quien sin el cuidado debido de su animal doméstico o de compañía, sin correa u otro aditamento para el control de éste en un lugar concurrido y público, como playas o eventos masivos, lesione a una persona u otro animal de compañía o doméstico causándole lesiones graves, sin que haya habido agresión previa de estos.
+
+La denuncia, sin menoscabo en lo dispuesto en los artículos 109, 110, 111, 112, 113, 114, 115 y 116 de la Ley número 491 de Bienestar Animal del Estado de Guerrero, la podrá realizar cualquier persona ante las instancias respectivas de la Fiscalía General del Estado, si considera que los hechos u omisiones de que se trate, pueden ser constitutivos de algún delito materia de este capítulo.
+
+Quedan exceptuadas de este capítulo las charreadas, jaripeos, rodeos, lidia de toros, novillos o becerros; peleas de gallos, el adiestramiento de animales; las actividades con fines cinegéticos, de pesca o de rescate, siempre y cuando estas actividades se realicen en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2019)</small>
+
+###### Artículo 376.
+
+Estableciendo el juzgador multa o la reparación del daño respectivo y/o aplicando las medidas cautelares procedentes sobre lo dispuesto en este Capítulo. Los recursos económicos generados por las multas se aplicarán y destinaran al Fondo Auxiliar Ambiental Estatal denominado "Fondo Verde", contemplado en los artículos 27, 28 y 132 de la Ley número 491 de Bienestar Animal del Estado de Guerrero.
+
+Siempre que exista el acto de maltrato animal contemplado en este título según sea el caso, la autoridad ministerial o judicial podrá decretar el aseguramiento temporal o permanente del maltratado (s), así como de todos aquellos que pudiera tener bajo su resguardo el sujeto activo del delito. El aseguramiento garantizará la vida permanente y bienestar del o los asegurados.
+
+El juzgador de la causa establecerá, la o las medidas cautelares establecidas en la Ley que considere procedentes para garantizar el pago de la multa. Así como lo dispuesto en el último párrafo del artículo 122 de la Ley número 491 de Bienestar Animal en el Estado de Guerrero.
 
 T R A N S I T O R I O S
 
@@ -4656,3 +4726,19 @@ SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general.
 
 CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 26 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 232 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499 Y DE LA LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se deroga (sic) fracción III del artículo 125 de la Ley Número 491 de Bienestar Animal del Estado de Guerrero.
+
+TERCERO.- Remítase al Titular del Poder Ejecutivo para su conocimiento y para los efectos legales conducentes.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general y para los efectos legales respectivos.
+
+QUINTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+SEXTO.- Comuníquese a la Secretaría de Educación del Estado de Guerrero para la aplicación en lo que le corresponde a la reforma realizada a la Ley Número 491 de Bienestar Animal del estado de Guerrero. Así como que informe a los órganos administrativos respectivos para su aplicación.
