@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-para-la-atencion-y-81465"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-05-27"
-last_updated: "2019-05-17"
+last_updated: "2019-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,13 @@ issue_date: "2011-04-14"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO PARA LA ATENCION Y PREVENCION DE LAS ADICCIONES EN LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE SEPTIEMBRE DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 > <small>[N. DE E. LAS REFORMAS APROBADAS MODIFICARON DE MANERA SUSTANCIAL PRÁCTICAMENTE TODO EL TEXTO DEL ESTATUTO DEL 30 DE NOVIEMBRE DE 2018, Y SI BIEN DIVERSOS ARTÍCULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN LA GACETA OFICIAL DEL 17 DE MAYO DE 2019.]</small>
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA ATENCIÓN Y PREVENCIÓN DE LAS ADICCIONES EN LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE MAYO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN GACETA OFICIAL DEL 27 DE SEPTIEMBRE DE 2019.]</small>
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el viernes 27 de mayo de 2011.
 
@@ -750,57 +750,153 @@ El Titular del Órgano Interno de Control del Instituto, será nombrado y removi
 
 Son atribuciones del Órgano Interno de Control del Instituto las siguientes:
 
-I. Proponer a la Contraloría General, para su aprobación el Programa Anual de Auditoria (PAA) y el Programa Anual de Control Interno (PACI) para cada ejercicio presupuestal, manteniendo un seguimiento sistemático de su ejecución;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-II. Programar, ordenar y ejecutar auditorías, investigaciones, inspecciones, revisiones y visitas a cada una de las unidades administrativas del Instituto; a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos, y de las disposiciones legales, reglamentarias y administrativas vigentes;
+I. Elaborar y presentar el proyecto de programas anuales de Auditoría y de Control Interno atendiendo a las disposiciones jurídicas y administrativas aplicables;
 
-III. Ejecutar verificaciones, revisiones, inspecciones, visitas e intervenir en todos los procesos administrativos en las materias relativas a información, estadística, organización, procedimientos, ingresos, egresos, programación, presupuestación, ejercicio presupuestal, inversión, financiamiento, fondos, valores, recursos económicos en general, deuda pública, subsidios, ayudas, donaciones, aportaciones y trasferencias (sic) federales, sistemas de registro, contabilidad y presupuesto, recursos humanos, adquisiciones, arrendamientos, servicios, obra pública, conservación, uso, destino, afectación, enajenación, adquisición y baja de bienes muebles, almacenes e inventarios, activos, pasivos y demás previstos en el marco normativo, a efecto de vigilar que cumplan con las normas y disposiciones jurídicas y administrativas aplicables;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-IV. Formular y emitir observaciones y recomendaciones preventivas y correctivas que se deriven de las auditorías ordinarias y extraordinarias; en cuanto a revisiones, verificaciones, visitas e inspecciones, emitir propuestas de mejora; dar seguimiento sistemático a las mismas; determinar su solventación;
+II. Solicitar la incorporación de auditorías extraordinarias y la modificación o cancelación de auditorías internas al programa anual, agregando la justificación conducente;
 
-V. Participar en los diferentes Cuerpos Colegiados instalados en la Entidad, según corresponda por competencia, en términos de las disposiciones jurídicas y administrativas aplicables;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-VI. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo de la práctica de auditorías, verificaciones, revisiones, inspecciones y visitas, procedimientos administrativos disciplinarios, y demás de las que tenga acceso con motivo del desarrollo de sus actividades;
+III. Presentar las propuestas de intervenciones a desarrollar en el año y en su caso, presentar las solicitudes de modificaciones, cancelaciones o adiciones de intervenciones una vez autorizadas, para ser incorporadas al correspondiente programa anual;
 
-VII. Atender los requerimientos que le formule la Contraloría General derivados de las funciones que tiene encomendadas;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-VIII. Requerir a los servidores públicos, así como a las diferentes Unidades Administrativas del Instituto, proveedores, contratistas y prestadores de servicio del Instituto, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y todos los que tengan alguna participación en los procedimientos previstos en el marco jurídico de la Ciudad de México, la información y documentación necesaria para el desempeño de sus funciones;
+IV. Atender las acciones de coordinación, supervisión y evaluación que ejecuten o soliciten las Direcciones de Coordinación de órganos internos de control que correspondan, incluyendo el desahogo de aclaraciones conducentes, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-IX. Intervenir en la entrega, recepción de cargos que realicen los titulares y servidores públicos del Instituto, a fin de vigilar que se cumpla la normatividad aplicable y en caso de incumplimiento, determinar las responsabilidades y sanciones administrativas correspondientes;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-X. Conocer, investigar, iniciar, desahogar y resolver procedimientos administrativos disciplinarios sobre actos u omisiones respecto de servidores públicos adscritos orgánica o funcionalmente, o bien que ejerzan o administren recursos en el Instituto;
+V. Atender o dar seguimiento a las recomendaciones u observaciones según sea el caso, determinadas por órganos de fiscalización interna o externa de la Ciudad de México o de la Federación;
 
-XI. Conocer, sustanciar y resolver los recursos de revocación que se promuevan en contra de resoluciones que impongan sanciones administrativas a los servidores públicos;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-XII. Acordar, en su caso, la suspensión temporal de los servidores públicos cuando a su juicio resulte conveniente para el desarrollo de las investigaciones respectivas;
+VI. Vigilar periódicamente el cumplimiento a las disposiciones emitidas para el manejo de los recursos locales y federales por parte de los entes de la Administración Pública correspondientes;
 
-XIII. Verificar que el Instituto dé cumplimientos (sic) a las observaciones y recomendaciones realizadas por cualquier Órgano Externo de Fiscalización, así como de la Contaduría Mayor de Hacienda del Congreso de la Ciudad de México;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-XIV. Verificar la aplicación de los indicadores de gestión establecidos por la Contraloría General a efecto de evaluar el desempeño y resultados de la Entidad;
+VII. Requerir la información y documentación a los entes de la Administración Pública, autoridades locales o federales, así como a proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualquier otra persona particular que intervengan las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenaciones y en general cualquier procedimiento de la administración pública, para el ejercicio de sus atribuciones;
 
-XV. Conocer, desahogar y resolver los procedimientos de aclaración, así como los procedimientos de conciliación, conforme a la Ley de Obras Públicas del Distrito Federal;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-XVI. Recibir, analizar, tramitar y resolver las solicitudes de afirmativa ficta, debiendo requerir o consultar directamente el expediente correspondiente y en su caso imponiendo las medidas de apremio en términos de la Ley de Procedimiento Administrativo de la Ciudad de México;
+VIII. Registrar e incorporar en los sistemas y plataformas digitales correspondientes, la información que se genere o se posea con motivo del ejercicio de sus atribuciones atendiendo a los plazos, formatos y condiciones que establezcan las instrucciones, instrumentos y disposiciones jurídicas y administrativas aplicables;
 
-XVII. Remitir a la Dirección General de Contralorías Internas en Entidades los informes que le sean requeridos;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-XVIII. Verificar el cumplimiento de las obligaciones fiscales por parte del Instituto según les corresponda por competencia;
+IX. Investigar actos u omisiones de personas servidoras públicas de la Administración Pública, o particulares vinculados, que pudieran constituir faltas administrativas así como substanciar y resolver procedimientos de responsabilidad administrativa, procediendo a la ejecución de las resoluciones respectivas en los términos de la normatividad aplicable, de manera directa o a través del personal que tenga adscrito y se encuentre facultado;
 
-XIX. Realizar visitas e inspecciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en los procesos administrativos, para vigilar que cumplan con lo establecido en los contratos, convenios, títulos concesión, acuerdos, permisos, cualquier otro instrumento jurídico, así como en las normas y disposiciones jurídicas aplicables;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-XX. Suspender temporal o definitivamente, declarar la nulidad y reposición, en su caso, de los procedimientos de licitación pública, invitación restringida a cuando menos tres proveedores o contratistas, adjudicaciones directas, así como cualesquiera otros procesos y procedimientos administrativos previstos en los ordenamientos aplicables vigentes;
+X. Imponer medidas cautelares y medidas de apremio como parte del procedimiento de responsabilidad administrativa de manera directa o a través del personal que tenga adscrito y que se encuentre facultado;
 
-XXI. Instruir al Instituto a suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, títulos concesión, acuerdos, actas, pagos, y demás instrumentos jurídicos y administrativos, en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos, enajenación y adquisición de bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo derivado de las irregularidades o inconsistencias detectadas;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-XXII. Realizar las investigaciones, disponer de las diligencias y actuaciones pertinentes, y solicitar toda clase de información y documentación que resulten necesarios, para la debida integración de los expedientes relacionados con las quejas y denuncias presentadas por particulares o servidores públicos;
+XI. Calificar la falta administrativa como grave o no grave y emitir el Informe de Presunta Responsabilidad Administrativa; o en su caso, emitir el Acuerdo de Conclusión y Archivo del expediente de conformidad con las disposiciones jurídicas y administrativas en materia de Responsabilidades Administrativas, de manera directa o a través del personal adscrito que se encuentre facultado;
 
-XXIII. Vigilar que el Instituto cumpla con las disposiciones jurídicas y administrativas en materia de Archivos, Datos Personales y de Derechos Humanos, así como lo dispuesto en la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México;
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-XXIV. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en asuntos que se encuentren relacionados con las facultades que tiene encomendadas;
+XII. Substanciar y resolver los procedimientos de Responsabilidad Administrativa que sean de su competencia, atendiendo a las disposiciones en materia de Responsabilidades Administrativas de manera directa o a través del personal adscrito que se encuentre facultado;
 
-XXV. Vigilar que el Instituto observe las disposiciones jurídicas y administrativas que se implementen para evitar la generación de daños en los bienes o derechos de los particulares por actividad administrativa irregular de la Administración Pública de la Ciudad de México; y,
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-XXVI. Las demás que le instruya el Titular de la Contraloría General de la Ciudad de México; el Titular de la Dirección de Contralorías Internas en Entidades, las que expresamente le atribuyan el Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México y las que le otorguen otros ordenamientos jurídicos o administrativos.
+XIII. Investigar, conocer, substanciar, resolver cuando proceda, procedimientos disciplinarios o sobre actos u omisiones de personas servidoras públicas, para determinar e imponer, en su caso, las sanciones que correspondan en los términos de las disposiciones jurídicas en materia de responsabilidades, aplicables en el momento de los actos;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XIV. Acordar la suspensión temporal de las personas servidoras públicas de sus empleos, cargos o comisiones cuando a su juicio resulte conveniente para la conducción o continuación de las (sic) investigación, substanciación o resolución de un procedimiento disciplinario o de Responsabilidad Administrativa, o a petición de otras autoridades investigadoras, en los casos que proceda y de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XV. Substanciar y resolver los recursos de revocación que se interpongan en contra de resoluciones que impongan sanciones administrativas a las personas servidoras públicas en términos de las disposiciones jurídicas aplicables;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XVI. Ejercer cuando corresponda todas las atribuciones de las autoridades o unidades de Investigación, Substanciación o Resolución, que señale la legislación y demás disposiciones jurídicas y administrativas en materia de Responsabilidades Administrativas;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XVII. Ejecutar las auditorías e intervenciones y control interno, programadas y las participaciones en los procesos administrativos que los entes de la Administración Pública efectúen en materia de: adquisiciones, servicios y arrendamientos; capital humano, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales, federales, presupuesto participativo, programas sociales y procesos electorales de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XVIII. Realizar intervenciones a las instalaciones de los proveedores, arrendadores, prestadores de servicios, contratistas, supervisores externos, concesionarios, permisionarios, o cualesquiera otros que intervengan en las adquisiciones, arrendamientos, prestación de servicios, obra pública, concesiones, permisos y demás procedimientos previstos en el marco jurídico de la Ciudad de México, que efectúen los entes de la Administración Pública correspondiente, para vigilar que cumplan con lo establecido en las bases, los contratos, convenios, títulos concesión, acuerdos, permisos, y en general todo instrumento jurídico, así como en las normas y disposiciones jurídicas y administrativas aplicables;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XIX. Determinar la emisión de suspensiones temporal o definitiva, la nulidad y reposición, en su caso, de los procedimientos de adjudicación de contratos, o cualquier otro procedimiento previsto en la normatividad en materia de adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, bienes muebles e inmuebles, almacenes e inventarios, y demás relativos al gasto público o al patrimonio de la Ciudad, incluyendo todas las consecuencias administrativas o legales que de éstos resulten;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XX. Instruir a los entes de la Administración Pública que correspondan, suspender temporal o definitivamente, revocar, rescindir o terminar anticipadamente los contratos, convenios, pagos, y demás instrumentos jurídicos y administrativos, en materia de: adquisiciones, arrendamientos, prestación de servicios, obra pública y servicios relacionados con la misma, concesiones, permisos, bienes muebles e inmuebles, así como todos aquellos previstos en el marco normativo, incluyendo todas las consecuencias administrativas o legales que de éstos resulten;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXI. Ejecutar auditorías ordinarias y extraordinarias, así como intervenciones y control interno a los entes de la Administración Pública correspondientes, conforme a los programas establecidos y autorizados, o por determinación de la persona titular de la Secretaría de la Contraloría General; a fin de promover la eficiencia en sus operaciones y verificar el cumplimiento de sus objetivos y de las disposiciones jurídicas y administrativas aplicables en materia de adquisiciones, servicios y arrendamientos; capital humano, obra pública y servicios relacionados con la misma, activos fijos, vehículos, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, egresos, gasto de inversión, ingresos, disponibilidades, pasivos, contabilidad, gasto corriente, control presupuestal, pagos, cuentas por liquidar certificadas, sistema de información y registro, estadística, organización, procedimientos, planeación, programación, presupuestación, deuda pública, aportaciones o transferencias locales y federales, y demás similares;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXII. Formular observaciones que se deriven de las auditorías, intervenciones y control interno, emitir las acciones preventivas y correctivas correspondientes, dar seguimiento sistemático a las mismas, determinar su solventación; de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXIII. Presentar demandas, querellas, quejas y denuncias, contestar demandas, rendir informes, realizar promociones e interponer recursos ante toda clase de autoridades administrativas, judiciales y jurisdiccionales, locales o federales, en representación de los intereses de su Unidad Administrativa, en todos los asuntos en los que sea parte, o cuando tenga interés jurídico y estos asuntos se encuentren relacionados con las facultades que tiene encomendadas, para lo cual la Secretaría de la Contraloría General otorgará el apoyo necesario, a través de las Unidades Administrativas competentes;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXIV. Asistir y participar en términos de la normatividad, en los órganos de gobierno, comités, subcomités, consejos directivos y demás cuerpos colegiados, así como, cuando lo estime conveniente en licitaciones públicas e invitaciones restringidas, de las Dependencias y Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública, según corresponda por competencia, en los términos que determinen las disposiciones jurídicas aplicables, por sí, o a través de las personas de las Unidades Administrativas de Apoyo Técnico-Operativo adscritas, o cuando no se cuente con Órgano Interno de Control;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXV. Intervenir en todas las actas de entrega-recepción que realicen las personas servidoras públicas y demás personal obligado, incluyendo el personal de las unidades de Administración y del Órgano de Control Interno en cada Dependencia, Órgano Desconcentrado, Alcaldía, Entidad de la Administración Pública de la Ciudad de México, y cuando resulte necesario, proceder a la investigación y procedimiento de Responsabilidad Administrativa correspondiente;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXVI. Conocer, desahogar y resolver los procedimientos de aclaración de los actos y los procedimientos de conciliación, en términos de la Ley de Obras Públicas del Distrito Federal;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXVII. Recibir, analizar, tramitar y resolver las solicitudes de afirmativa ficta, debiendo requerir o consultar directamente el expediente correspondiente y en su caso imponiendo las medidas de apremio en términos de la Ley de Procedimiento Administrativo de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXVIII. Evaluar a solicitud de las Unidades Administrativas competentes de la Secretaría, la gestión pública en las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXIX. Vigilar que las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades, observen las disposiciones jurídicas y administrativas que se implementen para evitar la generación de daños en los bienes o derechos de los particulares por actividad administrativa irregular de la Administración Pública de la Ciudad de México;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXX. Vigilar en el ámbito de su respectiva competencia, el cumplimiento por parte de los auditores externos de los instrumentos y disposiciones jurídicas y administrativas aplicables;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXXI. Solicitar a la Dirección General de Normatividad y Apoyo Técnico y a la Dirección General de Innovación y Mejora Gubernamental de la Secretaría de la Contraloría General cuando se estime necesario, su opinión o participación en auditorías o intervenciones o control interno, para sustentar investigaciones, observaciones, hallazgos, recomendaciones preventivas y correctivas, así como para la investigación de posibles faltas administrativas o la substanciación y resolución de procedimientos de responsabilidades administrativas;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXXII. Participar en la planeación de actividades de control interno que realicen las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública, en términos de las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXXIII. Expedir, copias certificadas de los documentos que obren en sus archivos, así como de los documentos a los que tenga acceso con motivo del ejercicio de sus facultades, previo cotejo;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXXIV. Cumplir con las disposiciones jurídicas y administrativas aplicables en materias de Transparencia y Acceso a la Información Pública, Protección de Datos Personales, Archivos y de Derechos Humanos;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXXV. Ejercer las atribuciones a que se refiere el presente artículo y todas las que correspondan a los órganos internos de control en términos de las disposiciones jurídicas aplicables, respecto de las unidades encargadas de la Administración en el ente público al que corresponda, así como de las personas servidoras públicas que le están adscritas, con independencia de la adscripción de dichas unidades encargadas de la Administración;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXXVI. Las atribuciones a que se refiere el presente artículo y todas las que correspondan a los órganos internos de control en términos de las disposiciones jurídicas aplicables, serán ejercidas por el órgano interno de control de la Dependencia respecto de sus Órganos Desconcentrados y órganos de apoyo cuando éstos no cuenten con Órgano Interno de Control;
+
+> <small>(F. DE E., G.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+XXXVII. Las demás que le instruya la persona titular de la Secretaría de la Contraloría General y las personas titulares de las direcciones generales de Coordinación de Órganos Internos de Control, las que correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo adscritas; así como las que expresamente le atribuyan el Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 > <small>(REFORMADO, G.O. 17 DE MAYO DE 2019)</small>
 
@@ -935,3 +1031,9 @@ PRIMERO.- Las presentes modificaciones al Estatuto Orgánico del Instituto para 
 SEGUNDO.- Los asuntos que se encuentren pendientes al entrar en vigor este Estatuto Orgánico que conforme al mismo deban transferirse de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquellas a las que se haya atribuido la competencia correspondiente.
 
 TERCERO.- La persona responsable de la liga electrónica es la Lic. Diana Hernández Ordoñez, teléfono 5532522328 y 46313035 extensión 1206.
+
+G.O. 27 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA “NOTA ACLARATORIA DEL AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁN SER CONSULTADAS LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA ATENCIÓN Y PREVENCIÓN DE LAS ADICCIONES EN LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, DE FECHA 17 DE MAYO DE 2019”.]
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
