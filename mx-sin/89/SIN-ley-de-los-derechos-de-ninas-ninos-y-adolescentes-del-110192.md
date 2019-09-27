@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-110192"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2019-08-21"
+last_updated: "2019-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2015.
 
@@ -642,6 +642,10 @@ III. Establecer medidas para garantizar la gratuidad de la educación pública o
 IV. Establecer las condiciones necesarias para fortalecer la calidad educativa;
 
 V. Destinar recursos humanos, materiales y presupuestarios adecuados y suficientes para garantizar la educación de calidad de niñas, niños y adolescentes;
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+El Gobierno del Estado incluirá en la iniciativa de Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa para el Ejercicio Fiscal correspondiente, una partida específica para garantizar la eficacia del Programa para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares;
 
 VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia;
 
@@ -1760,3 +1764,19 @@ P.O. 21 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 296 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 83 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 280 POR EL QUE SE EXPIDE LA LEY PARA LA DOTACIÓN GRATUITA DE UNIFORMES, CALZADO DEPORTIVO Y ÚTILES ESCOLARES; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El Comité Estatal Operativo quedará integrado en un plazo no mayor a treinta días naturales, a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo expedirá el Reglamento de la Ley para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares del Estado de Sinaloa, en un plazo no mayor de sesenta días naturales, a partir de la entrada en vigor del presente Decreto.
+
+El Reglamento de dicha Ley incluirá como mínimo, los lineamientos y reglas de operación del Programa para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares, así como los requisitos, derechos y obligaciones de los beneficiarios y de los proveedores del Programa antes referido.
+
+CUARTO. La entrega de los uniformes, calzado deportivo y útiles escolares a que se refiere la Ley para la Dotación Gratuita de Uniformes, Calzado Deportivo y Útiles Escolares del Estado de Sinaloa, aplicará a partir del ciclo escolar 2020-2021.
+
+Para garantizar la entrega de uniformes y útiles escolares del ciclo escolar 2019-2020 se estará a lo dispuesto por el Programa de Uniformes y Útiles Escolares emitido por el Poder Ejecutivo del Estado.
