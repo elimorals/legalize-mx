@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2019-06-28"
+last_updated: "2019-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -665,6 +665,10 @@ d) Título de la iniciativa, en el que deberá señalarse si se refiere a una le
 
 e) Propuesta de creación, interpretación, reforma, derogación o abrogación del texto legal.
 
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+f) Lenguaje incluyente y no sexista.
+
 Cuando la iniciativa proponga la creación de organismos, dependencias o la ampliación de la estructura gubernamental, deberá justificarse la suficiencia presupuestal.
 
 (REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
@@ -1151,11 +1155,11 @@ Los proyectos observados por el titular del Poder Ejecutivo del Estado deberán 
 
 ### Capítulo Primero. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
 ###### Artículo 89.
 
-(Sesiones del Pleno) Todas las sesiones del Pleno serán públicas y se transmitirán en tiempo real.
+(Sesiones del Pleno) Todas las sesiones del Pleno serán públicas y en ellas se contará con un intérprete en la Lengua de Señas Mexicana, éstas serán transmitidas en tiempo real a través de los medios de comunicación oficiales de la Legislatura del Estado de Querétaro, las cuales también podrán ser visualizadas mediante las herramientas tecnológicas y digitales con las que cuente el Poder Legislativo.
 
 Se considerarán solemnes las que se celebren:
 
@@ -3242,3 +3246,27 @@ Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 27 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA EL ARTÍCULO 42 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el pleno de la Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 27 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su aprobación por el Pleno de la Quincuagésima Novena Legislatura del Estado de Querétaro.
+
+Articulo Segundo. Se derogan todas las disposiciones contrarias a la presente Ley.
+
+Artículo Tercero. Las disposiciones previstas en el artículo 89 de la presente Ley, relativas a la participación de la persona intérprete en las sesiones del Pleno, contarán con un año a partir de la aprobación de la misma para su aplicación, plazo que será otorgado a efecto de que se capacite al personal del Poder Legislativo del Estado de Querétaro en el Lenguaje de Señas Mexicana, debiendo atender a la suficiencia presupuestaria que implica.
+
+Artículo Cuarto. La Dirección de Comunicación Social del Poder Legislativo del Estado de Querétaro, deberá hacer los ajustes necesarios a efecto de que las transmisiones en vivo de las Sesiones de Pleno, a través de los diferentes medios de comunicación visual, se ajusten para que sea accesible la visibilidad de la persona intérprete en la Lengua de Señas Mexicana.
+
+Artículo Quinto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
