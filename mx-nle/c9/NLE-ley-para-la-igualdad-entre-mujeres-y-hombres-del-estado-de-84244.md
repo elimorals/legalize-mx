@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2019-05-22"
+last_updated: "2019-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -835,9 +835,11 @@ VI. Incluir en sus programas y campañas de comunicación social contenidos que 
 
 ### CAPÍTULO PRIMERO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 58.
 
-El Instituto es el encargado de la observancia en el seguimiento, evaluación y monitoreo de la política estatal y municipal en materia de igualdad entre mujeres y hombres.
+El Instituto y la Comisión son los encargados de la observancia en el seguimiento, evaluación y monitoreo de la política estatal y municipal en materia de igualdad entre mujeres y hombres.
 
 En los Poderes Legislativo y Judicial la observancia será realizada por sus respectivos órganos internos de administración.
 
@@ -849,7 +851,9 @@ La observancia tiene por objeto la construcción de un sistema de información c
 
 La observancia en materia de igualdad entre Mujeres y Hombres consistirá en:
 
-I. Recabar, recibir y sistematizar información sobre políticas públicas, programas y acciones implementados por la administración pública, en materia de igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+l. Recabar, recibir, sistematizar información y emitir opiniones sobre políticas públicas, programas y acciones afirmativas o especificas implementados por la administración Pública, en materia de igualdad entre mujeres y hombres;
 
 II. Evaluar los beneficios y resultados en la sociedad, por la aplicación de esta Ley;
 
@@ -1098,3 +1102,9 @@ P.O. 22 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 123. SE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 27 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 159. SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 58 Y LA FRACCIÓN PRIMERA DEL ARTÍCULO 59 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
