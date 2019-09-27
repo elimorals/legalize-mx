@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2019-07-12"
+last_updated: "2019-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -33,7 +33,9 @@ LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Que
 
 LA QUINCUAGÉSIMA SEXTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Que por lo antes expuesto y fundado, la Quincuagésima Sexta Legislatura del Estado de Querétaro, emite la siguiente:
 
@@ -3813,9 +3815,9 @@ P.O. 16 DE MARZO DE 2018.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO, EN MATERIA DE TAXÍMETROS”.]
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-Artículo Primero. Para los municipios de Querétaro, Corregidora y El Marqués, la presente Ley iniciará su vigencia a partir del 1 de octubre de 2018; para el Municipio de San Juan del Río, la presente Ley iniciará su vigencia a partir del 1 de octubre de 2019, salvo en las comunidades en donde los estudios de mercado y tecnologías no aseguren la efectiva operación de los taxímetros. Para los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Huimilpan, Jalpan de Serra, Landa de Matamoros, Pedro Escobedo, Peñamiller, Pinal de Amoles, San Joaquín, Tequisquiapan y Tolimán, la presente Ley iniciará su vigencia cuando los estudios de mercado y tecnologías aseguren la efectiva operación de los taxímetros.
+Artículo Primero. Para los municipios de Querétaro, Corregidora y El Marqués, la presente Ley iniciará su vigencia a partir del 1 de octubre de 2019; para el Municipio de San Juan del Río, la presente Ley iniciará su vigencia a partir del 1 de octubre de 2019, salvo en las comunidades en donde los estudios de mercado y tecnologías no aseguren la efectiva operación de los taxímetros mediante aplicación tecnológica. Para los municipios de Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Ezequiel Montes, Huimilpan, Jalpan de Serra, Landa de Matamoros, Pedro Escobedo, Peñamiller, Pinal de Amoles, San Joaquín, Tequisquiapan y Tolimán, la presente Ley iniciará su vigencia cuando los estudios de mercado y tecnologías aseguren la efectiva operación de los taxímetros mediante aplicación tecnológica.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
@@ -3894,3 +3896,11 @@ P.O. 12 DE JULIO DE 2019.
 Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+P.O. 27 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO, EN MATERIA DE TAXÍMETROS”.]
+
+Artículo Primero. La presente Ley iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
