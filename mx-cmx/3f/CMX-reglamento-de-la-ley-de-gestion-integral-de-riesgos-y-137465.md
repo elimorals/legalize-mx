@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-gestion-integral-de-riesgos-y-137465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-08-07"
-last_updated: "2019-08-07"
+last_updated: "2019-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2019-08-06"
 ---
 # REGLAMENTO DE LA LEY DE GESTION INTEGRAL DE RIESGOS Y PROTECCION CIVIL DE LA CIUDAD DE MEXICO -- ANTES REGLAMENTO DE LA LEY DE GESTION INTEGRAL DE RIESGOS Y PROTECCION CIVIL --
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO, PUBLICADO EN LA G.O. DE 27 DE SEPTIEMBRE DE 2019, SE SUSPENDE LA APLICACIÓN DE LO ESTABLECIDO EN LOS ARTÍCULOS 117 Y DÉCIMO CUARTO TRANSITORIO DEL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO PUBLICADO EN LA G.O. DE 27 DE SEPTIEMBRE DE 2019, SE SUSPENDE LA APLICACIÓN DE LO ESTABLECIDO EN LOS ARTÍCULOS 117 Y DÉCIMO CUARTO TRANSITORIO DEL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO.]</small>
 
 REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE SEPTIEMBRE DE 2019.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de agosto de 2019.
 
@@ -1482,6 +1482,8 @@ La información existente en el Comité de Instalaciones Subterráneas contempla
 
 ### CAPÍTULO X. ESTUDIOS DE RIESGO DE OBRA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO PUBLICADO EN LA G.O. DE 27 DE SEPTIEMBRE DE 2019, SE SUSPENDE LA APLICACIÓN DE LO ESTABLECIDO EN EL PRESENTE ARTÍCULO.]</small>
+
 ###### Artículo 117.
 
 Previo al otorgamiento de manifestaciones de construcción tipo “B” o “C” conforme lo señala el Reglamento de Construcciones para el Distrito Federal, y antes del inicio de trabajos constructivos o de demolición, deberá presentar el Estudio de Riesgos de Obra, elaborado por un Tercero Acreditado con registro y autorización para realizar el estudio de riesgo-vulnerabilidad correspondiente, de acuerdo a lo establecido en el artículo 96 de la Ley, debe presentar un Estudio de Riesgos con estudios técnicos del sitio y documental, de acuerdo a los siguientes requerimientos:
@@ -2496,6 +2498,8 @@ DUODÉCIMO.- Para el caso de Centros de Educación Inicial que estén operando p
 
 DÉCIMO TERCERO.- Los responsables de la administración y funcionamiento de los Centros de Educación Inicial tendrán un término de 150 (ciento cincuenta) días naturales a partir de la entrada en vigor del presente Reglamento, para registrar el correspondiente Programa Interno, conforme lo establece la NOM-009-SEGOB-2015.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO PUBLICADO EN LA G.O. DE 27 DE SEPTIEMBRE DE 2019, SE SUSPENDE LA APLICACIÓN DE LO ESTABLECIDO EN EL PRESENTE ARTÍCULO.]</small>
+
 DÉCIMO CUARTO.- Los estudios de riesgos a que se refiere el presente Reglamento, se elaborarán conforme los Lineamientos que al efecto se expidan.
 
 DÉCIMO QUINTO.- La certificación de los estándares de competencia a que se refiere el artículo 128 será exigible a partir del 1 de octubre de 2021.
@@ -2517,3 +2521,19 @@ VIGÉSIMO SEGUNDO.- Se abroga el AVISO POR EL QUE SE DA A CONOCER LA “NORMA T�
 VIGÉSIMO TERCERO.- Se abroga el AVISO POR EL QUE SE DA A CONOCER LOS TÉRMINOS DE REFERENCIA PARA LA ELABORACIÓN DE PROGRAMAS INTERNOS DE PROTECCIÓN CIVIL PARA OBRAS EN PROCESO DE CONSTRUCCIÓN, REMODELACIÓN Y DEMOLICIÓN TR-SPC-003-PIPC-OBRAS- 2017”, publicado en la Gaceta Oficial de la Ciudad de México el 2 de marzo de 2017.
 
 Dado en la Residencia Oficial de la Jefatura de Gobierno de la Ciudad de México, a los seis días del mes de agosto del año dos mil diecinueve.- LA JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO, DRA. CLAUDIA SHEINBAUM PARDO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSA ICELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR.- FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, JOSÉ LUIS BEATO GONZÁLEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA, ILEANA AUGUSTA VILLALOBOS ESTRADA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, CIENCIA, TECNOLOGÍA E INNOVACIÓN, ROSAURA RUÍZ GUTIÉRREZ.- FIRMA.- LA SECRETARIA DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL, MYRIAM VILMA URZÚA VENEGAS.- FIRMA.- LA SECRETARIA DE INCLUSIÓN Y BIENESTAR SOCIAL, ALMUDENA OCEJO ROJO.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARINA ROBLES GARCÍA.- FIRMA.- EL SECRETARIO DE MOVILIDAD, ANDRÉS LAJOUS LOAEZA.- FIRMA.- LA SECRETARIA DE LAS MUJERES, GABRIELA RODRÍGUEZ RAMÍREZ.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, JESÚS ANTONIO ESTEVA MEDINA.- FIRMA.- LA SECRETARIA DE PUEBLOS Y BARRIOS ORIGINARIOS Y COMUNIDADES INDÍGENAS RESIDENTES, LARISA ORTIZ QUINTERO.- FIRMA.- LA SECRETARIA DE SALUD, OLIVA LÓPEZ ARELLANO.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, JESÚS ORTA MARTÍNEZ.- FIRMA.- LA SECRETARIA DE TRABAJO Y FOMENTO AL EMPLEO, HAYDEÉ SOLEDAD ARAGÓN MARTÍNEZ.- FIRMA.- EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES, HÉCTOR VILLEGAS SANDOVAL.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE SEPTIEMBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL PUNTO ÚNICO DEL ACUERDO POR EL QUE SE SUSPENDE LA APLICACIÓN DE LOS ARTÍCULOS 117 Y DÉCIMO CUARTO TRANSITORIO DEL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO Nº 151 BIS DE FECHA 07 DE AGOSTO DE 2019.]</small>
+
+ÚNICO.- Se suspende la aplicación de lo establecido en los artículos 117 y Décimo Cuarto Transitorio del Reglamento de la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE SUSPENDE LA APLICACIÓN DE LOS ARTÍCULOS 117 Y DÉCIMO CUARTO TRANSITORIO DEL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO Nº 151 BIS DE FECHA 07 DE AGOSTO DE 2019”.]
+
+PRIMERO.- Publíquese el presente acuerdo en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente acuerdo entrará en vigor el día de su publicación.
+
+TERCERO.- La observancia de lo establecido en los artículos 117 y Décimo Cuarto Transitorio del Reglamento de la Ley de Gestión Integral de Riesgos y Protección Civil de la Ciudad de México, quedará suspendida.
