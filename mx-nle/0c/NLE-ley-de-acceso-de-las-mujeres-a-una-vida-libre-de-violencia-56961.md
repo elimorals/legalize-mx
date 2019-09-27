@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2019-06-05"
+last_updated: "2019-09-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -145,9 +145,13 @@ VI. Violencia Política: Es el conjunto de acciones u omisiones cometidas por un
 
 VII. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden culminar en homicidio y otras formas de muerte violenta de mujeres.
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
-VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VIII. Violencia digital: Son aquellos actos de violencia de género cometidos en parte o totalmente, cuando se utilicen las tecnologías de la información y la comunicación, plataformas de redes sociales, correo electrónico, mensajes de texto o llamadas vía teléfono celular, que causen daño psicológico o emocional, refuercen los prejuicios, dañen la reputación, causen pérdidas económicas, planteen barreras a la participación en la vida pública o privada de la víctima o puedan conducir a formas de violencia sexual o física; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE SEPTIEMBRE DE 2019)</small>
+
+IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 7.
 
@@ -1178,3 +1182,9 @@ P.O. 5 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 142. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 160. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN VIII, Y POR ADICIÓN DE UNA FRACCIÓN IX, DEL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
