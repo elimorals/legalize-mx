@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-planeacion-desarrollo-administrativo-y-servicios-80608"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-02"
-last_updated: "2019-08-31"
+last_updated: "2019-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PLANEACIÓN, DESARROLLO ADMINISTRATIVO Y SERVICIOS PÚBLICOS MUNICIPALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 2 de abril de 2011.
 
@@ -175,9 +175,11 @@ II.- Cuando no se cuente con la infraestructura necesaria para prestar el servic
 
 III.- Cuando no cuente con recursos materiales, financieros o humanos para prestar el servicio o asumir la función municipal.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 19.
 
-Recibido el oficio del Ayuntamiento, la Oficialía Mayor del Congreso lo turnará a la Presidencia de la mesa directiva, la que podrá (sic) a consideración del Pleno para que decida si lo turna para su estudio a la Comisión que corresponda, misma que una vez recibida la solicitud deberá emitir su dictamen dentro del plazo de 30 días.
+Recibido el oficio del Ayuntamiento, la Secretaría de Servicios Parlamentarios del Congreso lo turnará a la Presidencia de la Mesa Directiva, la que pondrá a consideración del Pleno para que decida si lo turna para su estudio a la Comisión que corresponda, misma que una vez recibida la solicitud, deberá emitir su dictamen dentro del plazo de 30 días.
 
 ###### ARTÍCULO 20.
 
@@ -778,3 +780,9 @@ P.O. 31 DE AGOSTO DE 2019.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 773.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN, DESARROLLO ADMINISTRATIVO Y SERVICIOS PÚBLICOS MUNICIPALES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
