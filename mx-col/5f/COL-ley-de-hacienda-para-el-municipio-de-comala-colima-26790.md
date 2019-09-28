@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-08-24"
+last_updated: "2019-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2319,17 +2319,77 @@ Por cambio de propietario, las personas físicas o morales deberán solicitar la
 
 Por el cambio de domicilio de licencias de funcionamiento se pagará el 25 por ciento del costo total por expedición de la licencia correspondiente.
 
-Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley, no causarán el pago de derechos pero deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y refrendarse durante los meses de enero y febrero de cada año.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
-D) OTRAS LICENCIAS Y PERMISOS
+ARTICULO 81 BIS.- No se autorizará el refrendo de la licencia municipal de funcionamiento a que se refieren el artículo 79 y 81, último párrafo, de esta Ley a los establecimientos que tengan adeudos con la Tesorería Municipal por los derechos del artículo 94, inciso b), de este ordenamiento.
 
-Unidades de salario
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE DICIEMBRE DE 2012)</small>
+D).- ESTABLECIMIENTOS INDUSTRIALES, COMERCIALES Y DE PRESTACIÓN DE SERVICIOS
 
-ARTICULO 81 A.- No se autorizará el refrendo de la licencia municipal de funcionamiento a que se refieren el artículo 79 y 81, último párrafo, de esta Ley a los establecimientos que tengan adeudos con la Tesorería Municipal por los derechos del artículo 97, fracción I, inciso b), de este ordenamiento.
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 81 TER.- Causarán los derechos establecidos en esta sección, las personas físicas o morales que obtengan licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean establecimientos industriales, comerciales o de prestación de servicios sin venta de bebidas alcohólicas.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 81 QUATER.- Las licencias de funcionamiento de giros distintos a los referidos en el artículo 79 de esta Ley y contemplados en esta sección, deberán obtenerse por los interesados dentro de los treinta días siguientes a la fecha de inicio de operaciones y tratándose de refrendo se pagarán los derechos correspondientes durante los meses de enero y febrero de cada año.
+
+Pasados los treinta días siguientes a la fecha de inicio de operaciones, los interesados podrán extenderse hasta por dos meses más su permiso provisional, una vez pagados los respectivos derechos. Al terminar el plazo, el interesado está obligado, en caso de continuar operaciones, a solicitar la expedición de la licencia que corresponda a su giro y pagar los derechos contemplados en el siguiente artículo.
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 81 QUINQUIES.- Los derechos consignados en la presente sección se pagarán por anualidad, previo a la expedición a la licencia, autorización o permiso correspondiente, de conformidad con lo siguiente:
+
+UMA
+
+a) Por la expedición de licencias de funcionamiento,
+
+por ejercicio fiscal, por cada una para los establecimiento (sic)
+
+industriales sin venta de bebidas alcohólicas de 3.00 a 100.00
+
+b) Por la expedición de licencias de funcionamiento,
+
+por ejercicio fiscal, por cada una para los establecimiento (sic)
+
+comerciales sin venta de bebidas alcohólicas de 3.00 a 10.00
+
+c) Por la expedición de licencias de funcionamiento, por ejercicio fiscal, para los establecimientos de prestación de servicios sin venta de bebidas alcohólicas, de conformidad con lo siguiente:
+
+1.- En el caso de las asociaciones y organizaciones,
+
+específicamente relacionadas con servicios de transporte
+
+alternativo causarán y pagarán por cada unidad 60.00
+
+2.- Otros no especificados, por cada una de 3.00 a 50.00
+
+d) Por el refrendo anual de licencias de funcionamiento se pagará el 50 por ciento del costo total por expedición de la licencia correspondiente.
+
+e) Por el cambio de domicilio de licencias de funcionamiento se pagará el 25 por ciento del costo total por expedición de la licencia correspondiente.
+
+f) Por cambio de propietario, las personas físicas o morales deberán solicitar la expedición de una nueva licencia, teniendo como costo el 50 por ciento de lo señalado en los incisos a), b) y c) numeral 2 de este artículo.
+
+g) Para el otorgamiento del permiso provisional al que
+
+se hace referencia en el artículo 81 quater, las personas
+
+físicas o morales pagarán por cada mes 0.50
+
+> <small>(ADICIONADO [N. DE E. REUBICADO] , P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+E) OTRAS LICENCIAS Y PERMISOS
+
+> <small>(ADICIONADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 81 SEXIES.- Las personas físicas o morales que exploten el uso de máquinas de video juegos y sinfonolas, pagarán anualmente durante los meses de enero y febrero, por cada una, conforme a la siguiente tarifa:
+
+1.- Máquinas de video juegos 3.00
+
+2.- Sinfonolas 6.00
 
 #### SECCION SEGUNDA. DE LOS REGISTROS, CERTIFICACIONES Y LEGALIZACIONES
 
@@ -3658,3 +3718,9 @@ P.O. 24 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 123 POR EL QUE SE REFORMA LA FRACCIÓN XI, DEL ARTÍCULO 21; Y SE DEROGAN LAS FRACCIONES XII, XIII Y XIV, DEL ARTÍCULO 21, Y EL ARTÍCULO 30, TODOS DE LA LEY DE HACIENDA PARA CADA MUNICIPIO: ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MANZANILLO, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 142 POR EL QUE SE REFORMA EL ARTÍCULO 81 A PARA QUE PASE A SER ARTÍCULO 81 BIS; EL INCISO D), DE LA SECCIÓN PRIMERA, CORRESPONDIENTE AL CAPÍTULO II, DEL TÍTULO CUARTO, ASÍ COMO SU DENOMINACIÓN PARA QUE PASE A SER ESTABLECIMIENTOS INDUSTRIALES, COMERCIALES Y DE PRESTACIÓN DE SERVICIOS; SE ADICIONAN LOS ARTÍCULOS 81 TER, 81 QUATER Y 81 QUINQUIES, EN EL APARTADO DEL INCISO D); EL INCISO E), A LA SECCIÓN PRIMERA, CORRESPONDIENTE AL CAPÍTULO SEGUNDO, DEL TÍTULO CUARTO, QUE CONTENDRÁ LA DENOMINACIÓN DEL ACTUAL INCISO D), DEBIÉNDOSE HACER EL CORRIMIENTO RESPECTIVO DEL CONTENIDO DE SU CONCEPTO, MONTO Y PERIODICIDAD, EL ARTÍCULO 81 SEXIES DENTRO DEL APARTADO DEL INCISO E); Y SE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 81, TODOS DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
