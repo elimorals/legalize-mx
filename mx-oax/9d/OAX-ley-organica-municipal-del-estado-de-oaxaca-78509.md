@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2019-08-24"
+last_updated: "2019-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -347,13 +347,17 @@ El Ayuntamiento constituye el Órgano de Gobierno del Municipio. Se asentará en
 
 Se deberán expedir por el Ayuntamiento, en ejercicio de las atribuciones previstas en la fracción I, del artículo 43, el reglamento interior del mismo, el reglamento del Cabildo, los manuales de procedimientos, así como las demás disposiciones legales y administrativas necesarias para su buena organización y funcionamiento.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 30.
 
-El Ayuntamiento estará integrado por el Presidente Municipal y el número de Síndicos y Regidores que señale el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca.
+El Ayuntamiento estará integrado por el Presidente Municipal y el número de Síndicos y Regidores que señale la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 31.
 
-Los miembros del Ayuntamiento se eligen por sufragio universal, directo, libre y secreto de los ciudadanos según los principios de mayoría relativa y de representación proporcional, en los términos del Código de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca.
+Los miembros del Ayuntamiento se eligen por sufragio universal, directo, libre y secreto de los ciudadanos según los principios de mayoría relativa y de representación proporcional, en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
 
 En los Municipios que se rigen por usos y costumbres, para la elección del Ayuntamiento, se respetarán las tradiciones y prácticas democráticas en los términos de los ordenamientos aplicables.
 
@@ -385,9 +389,11 @@ Las renuncias, a que se refiere el párrafo anterior, deberán ratificarse perso
 
 De todos los casos conocerá el Congreso del Estado, hará la declaratoria que corresponda y proveerá lo necesario para cubrir la vacante si después de llamado el suplente, éste no acudiere.
 
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-Para ser miembro de un Ayuntamiento se requiere satisfacer los requisitos del artículo 113 fracción I párrafo octavo de la Constitución Política del Estado Libre y Soberano de Oaxaca; y cumplir con lo establecido por el Código de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca.
+Para ser miembro de un Ayuntamiento se requiere satisfacer los requisitos del artículo 113 fracción I párrafo octavo de la Constitución Política del Estado Libre y Soberano de Oaxaca; y cumplir con lo establecido en la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
 
 ###### ARTÍCULO 36.
 
@@ -1167,7 +1173,9 @@ Cuando se declare la suspensión O DESAPARICIÓN de un Ayuntamiento, el Congreso
 
 El titular del Poder Ejecutivo del Estado, quince días antes de que finalicen los noventa días de ejercicio del encargado de la Administración Municipal, propondrá al Congreso del Estado para su ratificación en los términos que establece la Constitución Local, la integración del Consejo (sic) Municipal.
 
-El Consejo (sic) Municipal se integrará por el mismo número de miembros propietarios y suplentes del Ayuntamiento, según corresponda; y concluirá el período de ejercicio constitucional del mismo. Sus miembros deberán reunir los requisitos de elegibilidad que establecen la Constitución Local, esta Ley y el Código de Instituciones Políticas y Procedimientos Electorales del Estado de Oaxaca
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+El Concejo Municipal se integrará por el mismo número de miembros propietarios y suplentes del Ayuntamiento, según corresponda; y concluirá el período de ejercicio constitucional del mismo. Sus miembros deberán reunir los requisitos de elegibilidad que establecen la Constitución Local, esta Ley y la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca.
 
 Los Concejos Municipales tendrán la competencia que para los Ayuntamientos determina esta Ley.
 
@@ -2427,15 +2435,19 @@ Se expedirá por el Ayuntamiento un Reglamento para el Procedimiento conciliator
 
 Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes en aplicación del presente ordenamiento, los particulares afectados podrán promover el recurso administrativo que corresponda y substanciado éste, también podrán interponer el juicio respectivo ante el Tribunal de lo Contenciosos (sic) Administrativo y de Cuentas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 148.
 
-Se procederá conforme a lo que disponga el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, en los casos siguientes:
+Se procederá conforme a lo que disponga la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca, en los casos siguientes:
 
 a) Cuando no se realice las elecciones ordinarias en un municipio;
 
 b) Cuando una elección se declare nula por las autoridades electorales; y
 
-c) cuando no se verifique la elección extraordinaria prevista en el Código de Instituciones Políticas y Procedimientos Electorales de Oaxaca, el Congreso designará un Concejo Municipal para que ejerza las funciones del ayuntamiento por el tiempo de su ejercicio constitucional.
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+c) Cuando no se verifique la elección extraordinaria prevista en la Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca, el Congreso designará un Concejo Municipal para que ejerza las funciones del ayuntamiento por el tiempo de su ejercicio constitucional.
 
 ### CAPÍTULO V. DEL RECURSO ADMINISTRATIVO DE REVOCACIÓN
 
@@ -3408,3 +3420,11 @@ P.O. 24 DE AGOSTO DE 2019.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 774.-: MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
