@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-mitigacion-y-adaptacion-ante-los-efectos-del-117394
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-22"
-last_updated: "2018-09-29"
+last_updated: "2019-09-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY PARA LA MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Suplemento No. 1 al Número 73 del Periódico Oficial del Estado de Colima.
 
@@ -455,7 +455,11 @@ c) Las disposiciones jurídicas que se requieran para la elaboración, integraci
 
 VII. Gestionar ante las instancias competentes la obtención de recursos económicos para implementar acciones positivas en el Estado, que den atención a la problemática derivada del cambio climático; y
 
-VIII. Las demás que prevea esta Ley y las disposiciones que sean aplicables.
+> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+VIII. Convocar al Consejo de manera ordinaria dos veces por año y extraordinariamente cuantas veces sea necesario o a petición de dos o más miembros del mismo; y
+
+IX. Las demás que prevea esta Ley y las disposiciones que sean aplicables.
 
 ###### Artículo 18.
 
@@ -571,11 +575,15 @@ II. El Secretario de Infraestructura y Desarrollo Urbano del Estado, en su cará
 
 III. Los titulares de las Secretarías General de Gobierno; de Planeación y Finanzas; de Administración y Gestión Pública; de Educación; de Fomento Económico; de Desarrollo Rural; de Turismo; de Movilidad; de Salud y Bienestar Social; de Desarrollo Social y, de Seguridad Pública, todos del Gobierno del Estado;
 
-IV. El Presidente de la Comisión de Protección y Mejoramiento Ambiental del Congreso del Estado;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+IV. Las o los titulares de las Presidencias de las Comisiones de Protección y Mejoramiento Ambiental, de Desarrollo Rural, Fomento Agropecuario y Pesquero y de Desarrollo Urbano, Municipios y Zonas Metropolitanas, del Congreso del Estado:
 
 V. El Director de la Comisión Estatal del Agua;
 
-VI. A invitación que formulará el Presidente del Consejo Estatal, un representante de las siguientes instituciones y agrupaciones, con el carácter de Vocales: Universidad de Colima, Instituto Tecnológico de Colima, Cámara Nacional de la Industria de la Transformación y Cámara Mexicana de la Industria de la Construcción; y
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+VI. A invitación que formulará el Presidente del Consejo Estatal, un representante de las siguientes instituciones y agrupaciones, con el carácter de Vocales: Universidad de Colima, Instituto Tecnológico de Colima, Universidad Tecnológica de Manzanillo, Cámara Nacional de la Industria de la Transformación y Cámara Mexicana de la Industria de la Construcción; y
 
 VII. El o la titular de la Dirección General de (sic) Instituto para el Medio Ambiente y Desarrollo Sustentable del Estado, quien fungirá como Secretario Técnico.
 
@@ -591,7 +599,9 @@ El Consejo Estatal funcionará con base en lo que disponga su Reglamento Interio
 
 Para el cumplimiento de su objeto, el Consejo Estatal tendrá las atribuciones siguientes:
 
-I. Coordinar las acciones de las dependencias y entidades de la Administración Pública Estatal, en la materia de esta ley, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
+
+I. Coordinar las acciones de las dependencias y entidades de la Administración Pública Estatal, en la materia de esta ley, en el ámbito de sus respectivas competencias, por lo que deberá sesionar en los términos de la fracción VIII del artículo 17 de esta Ley;
 
 II. Regular y determinar la temporalidad en la elaboración y actualización de la Estrategia Estatal, de las evaluaciones de impacto económico del cambio climático, de los atlas de riesgo y demás estudios que se consideren necesarios para hacer frente al cambio climático;
 
@@ -874,5 +884,11 @@ LIC. JOSÉ IGNACIO PERALTA SÁNCHEZ, Gobernador Constitucional del Estado Libre 
 P.O. 29 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 546 POR EL QUE SE APRUEBA REFORMAR LAS FRACCIONES XIII Y XIV DEL ARTICULO 20 Y ADICIONAR LAS FRACCIONES XV Y XVI AL ARTICULO 20 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 139 POR EL QUE SE REFORMAN LOS ARTÍCULOS 22 FRACCIONES IV Y VI Y 23 FRACCIÓN I Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 17 Y SE HACE EL CORRIMIENTO DE LA FRACCIÓN SUBSECUENTE, DE LA LEY PARA LA MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
