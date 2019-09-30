@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2019-06-28"
+last_updated: "2019-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -619,9 +619,15 @@ Los Poderes Legislativo y Judicial, así como los órganos Autónomos deberán e
 
 El Proyecto de Presupuesto de Egresos del Estado deberá ser entregado al Titular del Ejecutivo por la Secretaría, en un tiempo razonable para su correspondiente presentación al Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 26.
 
-El Proyecto de Presupuesto de Egresos del Municipio deberá ser presentado al Ayuntamiento por el Tesorero Municipal antes del 30 de octubre de cada año.
+El Proyecto de Presupuesto de Egresos del Municipio deberá ser presentado al Ayuntamiento por el Tesorero Municipal antes del 30 de octubre del ejercicio fiscal inmediato siguiente.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+Cuando el Ayuntamiento inicie su encargo en los términos previstos en el párrafo séptimo del artículo 66 de la Constitución Política del Estado de Aguascalientes, el Tesorero Municipal podrá presentar el proyecto correspondiente a más tardar el día 15 de noviembre del año previo al ejercicio fiscal inmediato siguiente.
 
 ###### Artículo 27.
 
@@ -684,6 +690,10 @@ El Titular del Ejecutivo presentará anualmente al Congreso, el Proyecto de Ley 
 ###### Artículo 34.
 
 Los Ayuntamientos propondrán anualmente al Congreso, a más tardar el día treinta de octubre de cada año el Proyecto de Ley de Ingresos del Municipio, a efecto de cubrir los gastos de sus respectivos Municipios, para el ejercicio fiscal inmediato siguiente.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+Cuando el Ayuntamiento inicie su encargo en los términos previstos en el párrafo séptimo del artículo 66 de la Constitución Política del Estado de Aguascalientes, hará llegar al Congreso del Estado la iniciativa de Ley de Ingresos a más tardar el día 15 de noviembre.
 
 ###### Artículo 35.
 
@@ -1542,3 +1552,11 @@ El Fidecomiso del Fondo de Estabilización, deberá realizar las modificaciones 
 ###### ARTÍCULO TERCERO.
 
 Los recursos que a partir de la entrada en vigor del presente Decreto se encuentren en el Patrimonio del Fideicomiso del Fondo de Estabilización que se deben aplicar conforme a los fines del fideicomiso, se sujetarán a las disposiciones del presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIO DEL “DECRETO NÚMERO 207.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 64, LA FRACCIÓN XII DEL ARTÍCULO 121, SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 36 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 26; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 26 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 34 DE LA LEY DEL PRESUPUESTO GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
