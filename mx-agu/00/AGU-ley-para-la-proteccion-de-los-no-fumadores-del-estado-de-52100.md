@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-de-los-no-fumadores-del-estado-de-52100"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-30"
-last_updated: "2018-06-11"
+last_updated: "2019-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY PARA LA PROTECCION DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE EXPIDE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 30 de octubre de 2006.
 
@@ -794,3 +796,27 @@ El presente decreto entrará en vigencia al siguiente día de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo del Estado, deberá Reformar, Adicionar y/o Derogar de conformidad, el Reglamento de esta Ley, en un plazo máximo de 180 días naturales, contados a partir de su entrada en vigor del presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 204.- SE EXPIDE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 60 días naturales siguientes de su publicación en el Periódico Oficial del Estado, Órgano oficial de difusión del Gobierno del Estado Libre y Soberano de Aguascalientes, con objeto de que las autoridades estatales y municipales cuenten con un tiempo razonable para sensibilizar a la población e informar sobre las nuevas disposiciones de la presente Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, se Abroga la Ley para la Protección de los No Fumadores en el Estado de Aguascalientes, publicada a través del Decreto Legislativo 215 de la LIX Legislatura, en el Periódico Oficial del Estado de Aguascalientes, de fecha 30 de octubre de 2006.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley, en un plazo máximo de 60 días hábiles, contados a partir de la fecha de la publicación del presente Decreto en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Se establece el plazo de 60 días para la operación de la línea telefónica a que se refiere el Artículo 36 de esta Ley.
+
+###### ARTÍCULO QUINTO.
+
+Se exhorta a las autoridades municipales a instrumentar en un plazo no mayor de 60 días naturales, a partir de la publicación de la presente Ley, los mecanismos de capacitación a su personal de seguridad pública y jueces Municipales para la correcta aplicación de sus atribuciones y la modificación correspondiente a su Código Municipal; así como de coadyuvancia a la autoridad estatal para el ejercicio de sus funciones de vigilancia sanitaria cuando se les requiera.
