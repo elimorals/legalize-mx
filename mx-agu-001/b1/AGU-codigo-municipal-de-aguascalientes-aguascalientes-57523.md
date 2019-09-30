@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2019-08-19"
+last_updated: "2019-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -373,9 +375,9 @@ XVI. Consejo Municipal de Medio Ambiente y Desarrollo Sustentable.
 
 XVII. Consejo Consultivo de Depuración Documental.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
 
-XVIII. Consejo Municipal de Consulta y Participación Ciudadana.
+XVIII. Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito y su Comité Técnico.
 
 XIX. Consejo Consultivo del Instituto Municipal de Planeación.
 
@@ -9095,7 +9097,9 @@ c) Dos integrantes de la Dirección de Policía Preventiva, uno de ellos, que co
 
 d) Un integrante de la Dirección de Tránsito y Movilidad que posea, la escolaridad de nivel medio superior, con al menos cinco años de servicio;
 
-e) Dos representantes del Consejo Municipal de Consulta y Participación Ciudadana; y
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+e) Dos representantes ciudadanos del Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito; y
 
 IV. Un Fiscal, que será el Director de Asuntos Internos de Seguridad Pública, quien contará sólo con voz y fungirá como instancia acusadora.
 
@@ -9125,7 +9129,9 @@ d) El Regidor Presidente de la Comisión de Seguridad Pública en su caso, notif
 
 e) De no haber solicitudes, sean insuficientes o que las presentadas no cumplieran con los requisitos, el Regidor Presidente de la Comisión de Seguridad Pública solicitará al Secretario proponga tres integrantes operativos de cada perfil que cumplan con los requisitos, para que de entre ellos se hiciere la designación.
 
-V. Los vocales que representan al Consejo Municipal de Consulta y Participación Ciudadana, serán electos de forma democrática al interior del mismo, considerando para su elección las aptitudes, experiencia, conocimientos e interés en materia de Seguridad Pública, debiendo informar los nombramientos realizados, a más tardar los primeros quince días del mes de febrero del año que corresponda, ante el presidente de la Comisión de Seguridad Pública.
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+V. Los vocales ciudadanos que representan al Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, serán electos de forma democrática al interior del mismo, considerando para su elección las aptitudes, experiencia, conocimientos e interés en materia de Seguridad Pública, debiendo informar los nombramientos realizados, a más tardar los primeros quince días del mes de febrero del año que corresponda, ante el presidente de la Comisión de Seguridad Pública.
 
 Los vocales a que se refieren los incisos c), d) y e) de la fracción III del artículo 605 durarán en su encargo un año, pudiendo ser reelectos.
 
@@ -9305,7 +9311,7 @@ Contra las determinaciones dictadas por el Secretario Técnico durante la audien
 
 (REFORMADO, P.O. 8 DE AGOSTO DE 2011) (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2016)
 
-###### Artículo 614.
+###### ARTÍCULO 614.
 
 La Comisión del Servicio Profesional de Carrera Policial es una instancia colegiada de carácter independiente en su funcionamiento, permanente e imparcial, que se encarga de vigilar la ejecución de los procesos y procedimientos del Servicio Profesional de Carrera Policial.
 
@@ -9327,7 +9333,9 @@ c) Un integrante de la Dirección de Tránsito y Movilidad que posea nivel de es
 
 d) Dos integrantes de la Comisión de Seguridad Pública, que serán elegidos democráticamente al interior de la misma; y
 
-e) Dos representantes del Consejo Municipal de Consulta y Participación ciudadana, los cuales serán elegidos democráticamente por los integrantes de dicho órgano.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+e) Dos representantes ciudadanos del Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, los cuales serán elegidos democráticamente por los integrantes de dicho órgano.
 
 Esta comisión sesionará con la presencia del Presidente y al menos la mitad más uno de sus vocales. Cada miembro de la Comisión podrá designar, por escrito, a un representante para que lo supla en las sesiones, los que deberán pertenecer a las mismas áreas y cubrir en su caso, los mismos requisitos.
 
@@ -9453,7 +9461,9 @@ f) El Director de Prevención del Delito;
 
 g) El Director de Asuntos Internos; y
 
-h) Un integrante designado por el titular del Consejo Municipal de Consulta y Participación Ciudadana.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+h) Un integrante ciudadano designado por el Consejo Permanente para la Seguridad Ciudadana y Prevención de Adicciones.
 
 Dichos consejeros contarán con voz y voto, cuya función principal será la de participar en las sesiones para el análisis, discusión y en su caso aprobación de los instrumentos sometidos a su consideración por parte del órgano técnico normativo permanente.
 
@@ -9487,37 +9497,99 @@ La normatividad interna que al efecto se aprobare, surtirá efectos a los cinco 
 
 ## TÍTULO QUINTO. Del Consejo Municipal de Consulta y Participación Ciudadana
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 619.
 
-El Consejo Municipal de Consulta y Participación Ciudadana tendrá como finalidad fomentar la participación de la sociedad civil, en colaboración con las instancias públicas respectivas, en la planeación, elaboración, evaluación y supervisión de las actividades en materia de seguridad pública, que se lleven a cabo en sus ámbitos de competencia, de acuerdo con este Código y los reglamentos correspondientes.
+El Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, tendrá como finalidad mejorar la Seguridad en Aguascalientes, mediante un plan permanente, coordinado por un órgano central, responsable de orientar y supervisar el trabajo multidisciplinario y transversal entre las dependencias de (sic) Gobierno Municipal, contando también con la participación ciudadana a efecto de identificar los problemas de seguridad pública que afectan al Municipio y así prevenirlos y combatirlos de manera eficaz mediante el desarrollo e implementación de estrategias que atiendan los factores que motivan el delito, siempre en apego a las Leyes y Reglamentos que conforman el marco jurídico del Municipio y con base en el protocolo que apruebe el propio consejo para su funcionamiento, sesionará de manera trimestral de forma ordinaria, pudiendo hacerlo de manera extraordinaria en las ocasiones que el mismo Consejo lo determine.
 
-El Consejo Municipal de Consulta y Participación Ciudadana, se conformará, por los siguientes integrantes:
+El Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito; se conformará por los siguientes integrantes, quienes contaran con voz y voto:
 
-I. Un Presidente, que será el Presidente Municipal. En todo momento podrá delegar la Presidencia en cualquier integrante de la Secretaría y contará con voz y voto de calidad;
+I.- Un Presidente, que será el Presidente Municipal. En todo momento podrá delegar la Presidencia en cualquier integrante del gabinete municipal y contará con voz y voto de calidad.
 
-II. Un Consejero Técnico, que será el Secretario de Seguridad Pública y contará con voz y voto;
+II.- Un Secretario, que será el Regidor Presidente de la Comisión Permanente de Seguridad Pública.
 
-III. Tres Consejeros Ciudadanos, designados por la mayoría calificada del H. Cabildo, de entre los propuestos por los diferentes sectores de la sociedad civil que atiendan a la convocatoria que se emita, y que deberán nombrarse considerando su reputación, participación e interés mostrado en materia de seguridad pública; contarán con voz y voto; y
+III.- El Secretario de Seguridad Pública.
 
-IV. Un Secretario Técnico, nombrado por el Presidente del Consejo Municipal de Consulta y Participación Ciudadana, el cual contará sólo con voz.
+IV.- El Secretario del H. Ayuntamiento y Director General de Gobierno.
 
-Los consejeros y el Secretario Técnico podrán designar un suplente para que los represente en las sesiones.
+V.- El Secretario de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+VI.- El Jefe de la Oficina Ejecutiva del Presidente Municipal.
+
+Así mismo el Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito; se conformará por los siguientes integrantes, quienes contaran con voz:
+
+I.- El Director del DIF Municipal.
+
+II.- El Secretario de Desarrollo Urbano.
+
+III.- El Secretario de Comunicación Social.
+
+IV.- El Director del Instituto Municipal de Juventud de Aguascalientes.
+
+V.- El Secretario de Servicios Públicos.
+
+VI.- El Director del Instituto Municipal de Planeación.
+
+VII.- El Director del Instituto Municipal de la Mujer de Aguascalientes.
+
+VIII.- El Director del Instituto Municipal Aguascalentense para la Cultura.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+ARTICULO 619 BIS.- El Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, contará para trabajar y operativizar sus determinaciones, con un Consejo Técnico, que sesionará en reuniones de trabajo mensuales y rendirá informes al Consejo en las sesiones ordinarias de éste o en las extraordinarias que se le requieran, pudiendo citar a integrantes de las diferentes áreas del Municipio para tratar temas relacionados con el funcionamiento transversal del Municipio en atención a sus atribuciones.
+
+El Consejo Técnico se formará con los siguientes integrantes:
+
+I.- El Regidor Presidente de la Comisión Permanente de Seguridad Pública.
+
+II.- El Titular del Estado Mayor.
+
+III.- El Titular de la Dirección de Prevención del Delito.
+
+IV.- El Titular de Justicia Municipal.
+
+V.- Dirección de Parques y Jardines.
+
+VI.- Dirección de Limpia.
+
+VII.- Dirección de Alumbrado.
+
+VIII.- Dirección de Conservación y Mantenimiento.
+
+IX.- Dirección de Reglamentos.
+
+X.- El Director del Instituto Municipal de la Mujer de Aguascalientes.
+
+XI.- El Director del Instituto Municipal Aguascalentense para la Cultura.
+
+XII.- El Jefe de la Oficina Ejecutiva del Presidente Municipal.
+
+XIII.- Dirección de Control Urbano.
+
+XIV.- Dirección de Educación, Cultura Física y Deporte.
+
+XV.- Dirección de Programas Sociales.
+
+XVI.- Y quienes el Consejo de Seguridad Ciudadana y Prevención del Delito considere pertinentes.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 620.
 
-La vigencia en las funciones de los miembros del Consejo Municipal de Consulta y Participación Ciudadana a que se refiere este Código subsistirá, para los servidores públicos, el tiempo que permanezcan en el cargo. Los Consejeros Ciudadanos podrán mantenerse en su encargo hasta seis meses posteriores al inicio del nuevo periodo de gobierno, tiempo en el cual podrán ser ratificados o designados otros que los sustituyan.
+La vigencia en las funciones de los miembros del Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito a que se refiere este Código subsistirá, para los servidores públicos, el tiempo que permanezcan en el cargo. Los Consejeros Ciudadanos podrán mantenerse en su encargo hasta seis meses posteriores al inicio del nuevo periodo de gobierno, tiempo en el cual podrán ser ratificados o designados otros que los sustituyan.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 621.
 
-Es competencia del Consejo Municipal de Consulta y Participación Ciudadana:
+Es competencia del Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito:
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 I. Promover la participación organizada de la sociedad, en actividades relacionadas con la seguridad pública;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 II. Establecer un sistema permanente que permita identificar la percepción de seguridad de la ciudadanía, del que puedan desprenderse conclusiones acerca de los puntos que deban atender las autoridades en seguridad pública para mejorar la percepción del ciudadano;
 
@@ -9525,15 +9597,23 @@ II. Establecer un sistema permanente que permita identificar la percepción de s
 
 III. Integrar un sistema de seguimiento y evaluación de las actividades que se realicen en el marco de los programas de seguridad pública y de prevención del delito, así como de la violencia familiar;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 IV. Formular propuestas para la elaboración de los programas de seguridad pública, así como la evaluación periódica de estos y otros relacionados;
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
 
 V. Evaluar la situación de la seguridad pública en el Municipio y proponer las acciones tendientes a su mejoramiento, considerando la violencia contra las mujeres en la comunidad y las zonas en donde se efectúa.
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VI. Evaluar con objetividad el comportamiento, eficiencia y preparación de los integrantes operativos de la Secretaría, su operación y funcionamiento en general, todo esto dirigido a propiciar mejores condiciones de seguridad en el Municipio;
 
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+
 VII. Elaborar propuestas de reformas a leyes, este Código, reglamentos y manuales en materia de seguridad pública, mismas que podrán ser presentadas ante el órgano correspondiente por medio de los sujetos legitimados para ello; y
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
 VIII. Ejercer las demás atribuciones que sean necesarias para cumplir los objetivos de este Código.
 
@@ -24565,6 +24645,14 @@ P.O. 19 DE AGOSTO DE 2019.
 
 P.O. 19 DE AGOSTO DE 2019.
 
-## [N. DE E. TRANSITORIO DE LA "REFORMA A LOS ARTÍCULOS 314, APARTADOS III Y IV, 320 BIS, TER Y QUATER Y LA ADICIÓN DE LOS ARTÍCULOS 320 QUINTUS Y SEXTUS, ASÍ COMO LA FRACCIÓN XVII DEL ARTÍCULO 342 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DE LA “REFORMA A LOS ARTÍCULOS 314, APARTADOS III Y IV, 320 BIS, TER Y QUATER Y LA ADICIÓN DE LOS ARTÍCULOS 320 QUINTUS Y SEXTUS, ASÍ COMO LA FRACCIÓN XVII DEL ARTÍCULO 342 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO: Las presentes reformas al Código Municipal de Aguascalientes, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL ARTÍCULO 15 FRACCIÓN XVIII, ARTÍCULO 605 INCISO E), ARTÍCULO 606 FRACCIÓN V, ARTÍCULO 614 ADICIONANDO EL INCISO E), ARTÍCULO 616 INCISO H), ARTÍCULO 619, ADICIÓN DEL ARTÍCULO 619 BIS, ARTÍCULO 620 Y ARTÍCULO 621 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO: La presente reforma al artículo 15 fracción XVIII, artículo 605 Inciso E), artículo 606 fracción V, Artículo 614 adicionando el Inciso E), artículo 616 Inciso H), artículo 619, adición Del artículo 619 BIS, artículo 620 y artículo 621 del Código Municipal de Aguascalientes, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: Se designaran 60 días naturales para la elaboración del Reglamento Interno y su Protocolo de Actuación.
