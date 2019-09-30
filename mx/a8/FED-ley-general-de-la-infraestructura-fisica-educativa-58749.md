@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-la-infraestructura-fisica-educativa-58749"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-02-01"
-last_updated: "2018-01-19"
+last_updated: "2019-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58749&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2008-01-31"
 ---
 # LEY GENERAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY GENERAL DE EDUCACIÓN, PUBLICADO EN EL D.O.F. DE 30 DE SEPTIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 1 de febrero de 2008.
 
@@ -510,3 +512,63 @@ D.O.F. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO NOVENO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL ARTÍCULO 5o. CONSTITUCIONAL RELATIVO AL EJERCICIO DE LAS PROFESIONES EN EL DISTRITO FEDERAL, LA LEY DEL SISTEMA NACIONAL DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA, LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS, LA LEY GENERAL EN MATERIA DE DELITOS ELECTORALES, LA LEY GENERAL DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL, LA LEY GENERAL DE EDUCACIÓN, LA LEY GENERAL DEL SERVICIO PROFESIONAL DOCENTE, LA LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA, LA LEY GENERAL DE BIBLIOTECAS, LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, LA LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE, LA LEY GENERAL DE VIDA SILVESTRE, LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS, LA LEY GENERAL DE CAMBIO CLIMÁTICO, LA LEY GENERAL DE PESCA Y ACUACULTURA SUSTENTABLES, LA LEY GENERAL DE BIENES NACIONALES, LA LEY GENERAL DE PROTECCIÓN CIVIL, LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE, LA LEY GENERAL DE SOCIEDADES COOPERATIVAS, LA LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLÓGICOS, ARTÍSTICOS E HISTÓRICOS, LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, Y LA LEY FEDERAL DE ARCHIVOS, EN MATERIA DE RECONOCIMIENTO DE LA CIUDAD DE MÉXICO COMO ENTIDAD FEDERATIVA, SUSTITUCIÓN DEL NOMBRE DE DISTRITO FEDERAL Y DEFINICIÓN, EN SU CASO, DE LAS FACULTADES CONCURRENTES PARA LAS DEMARCACIONES TERRITORIALES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY GENERAL DE EDUCACIÓN”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley General de Educación, publicada el 13 de julio de 1993 en el Diario Oficial de la Federación y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+
+Tercero. Se abroga la Ley General de la Infraestructura Física Educativa, publicada el 1 de febrero de 2008 en el Diario Oficial de la Federación y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general contrarias a este Decreto.
+
+Hasta que se expidan los lineamientos previstos en el artículo 103 de la Ley General de Educación y se realicen las adecuaciones normativas en esta materia de infraestructura educativa, seguirán en vigor aquellas disposiciones que se hayan emitido con anterioridad, en lo que no contravengan al presente Decreto.
+
+En tanto se lleva el proceso de extinción referido en el Artículo Transitorio Cuarto de este Decreto, el Instituto Nacional de la Infraestructura Física Educativa se encargará de llevar a cabo el cierre de programas y obligaciones contractuales en proceso, así como la atención y seguimiento de asuntos jurisdiccionales o administrativos en trámite o pendientes de resolución definitiva.
+
+Cuarto. A partir de la entrada en vigor de este Decreto, se iniciará el proceso para la extinción del organismo descentralizado denominado Instituto Nacional de la Infraestructura Física Educativa, el cual conservará su personalidad jurídica exclusivamente para efectos del proceso de liquidación y de lo señalado en el Artículo Transitorio Tercero de este Decreto, bajo las siguientes disposiciones:
+
+I. La Secretaría de Educación Pública, en su carácter de dependencia coordinadora del sector, establecerá las bases para llevar a cabo la liquidación del Instituto Nacional de la Infraestructura Física Educativa, las cuales deberán considerar la eficiencia, eficacia y transparencia en todo momento del proceso de liquidación, así como la adecuada protección del interés público;
+
+II. La liquidación del Instituto Nacional de la Infraestructura Física Educativa estará a cargo de la persona titular de la Coordinación de Órganos Desconcentrados y del Sector Paraestatal de la Secretaría de Educación Pública, para lo cual tendrá las más amplias facultades para actos de administración, dominio y pleitos y cobranzas, y para suscribir u otorgar títulos de crédito, incluyendo aquéllas que, en cualquier materia, requieran poder o cláusula especial en términos de las disposiciones aplicables, así como para realizar cualquier acción que coadyuve a un expedito y eficiente proceso de liquidación;
+
+III. Las asignaciones presupuestales, así como los recursos humanos, financieros y materiales con que cuenta el Instituto Nacional de la Infraestructura Física Educativa, pasarán a formar parte de la Secretaría de Educación Pública, una vez que concluya el proceso de extinción de aquél;
+
+IV. El acervo de información estadística, indicadores, estudios, bases de datos, informes y cualquier otro documento publicado o por publicar elaborado o en posesión del Instituto Nacional de la Infraestructura Física Educativa, pasarán a formar parte de la Secretaría de Educación Pública, y
+
+V. Se respetarán los derechos laborales de los trabajadores del Instituto Nacional de la Infraestructura Física Educativa conforme a lo dispuesto por el Contrato Colectivo de Trabajo, la Ley Federal del Trabajo y demás ordenamientos aplicables.
+
+Quinto. La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a ciento ochenta días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+
+Los procedimientos y trámites que se iniciaron con anterioridad a la entrada en vigor de este Decreto, continuarán, hasta su conclusión, regidos con los reglamentos, acuerdos y demás disposiciones de carácter general en los cuales se fundamentaron.
+
+Sexto. Dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, las Legislaturas de los Estados, en el ámbito de su competencia, deberán armonizar el marco jurídico de conformidad con el presente Decreto.
+
+Séptimo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a la disponibilidad presupuestaria que se apruebe para tal fin al sector educativo en el ejercicio fiscal de que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+Octavo. La Autoridad Educativa Federal en la Ciudad de México, mantendrá sus facultades y atribuciones correspondientes para la impartición de la educación inicial, básica, incluyendo la indígena, la educación especial, así como la normal y demás para la formación de maestros de educación básica, en el ámbito de la Ciudad de México, mientras se lleve a cabo la descentralización de los servicios educativos y la transferencia de los recursos humanos, materiales y presupuestales, conforme al Acuerdo que celebre la Federación y el Gobierno de la Ciudad de México.
+
+La Secretaría de Educación Pública, hasta que no se lleve a cabo el proceso de descentralización referido en el párrafo anterior, realizará las actividades en materia de infraestructura educativa que le correspondan a la Ciudad de México en términos del Capítulo I del Título Quinto de la Ley General de Educación.
+
+Noveno. Las autoridades educativas, en coordinación con las autoridades correspondientes, realizarán consultas de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, en pueblos y comunidades indígenas o afromexicanas relativo a la aplicación de las disposiciones que, en materia de educación indígena, son contempladas en este Decreto; hasta en tanto, las autoridades educativas no realizarán ninguna acción derivada de la aplicación de dichas disposiciones.
+
+Décimo. La Secretaría, conforme a lo establecido en el artículo 23 de la Ley General de Educación, realizará las modificaciones a los planes y programas de estudio para adecuar su contenido conforme a lo establecido en referida norma, con la finalidad de que, para el inicio del ciclo escolar de 2021-2022, los libros de texto cumplan con lo establecido por la ley en la materia. De igual forma, instrumentará las acciones necesarias para instrumentar lo señalado en esta disposición.
+
+Décimo Primero. La Secretaría emitirá los Principios Rectores y Objetivos de la educación inicial, en un plazo de noventa días naturales siguientes a la publicación de la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
+
+Décimo Segundo. Las autoridades educativas, en el ámbito de su competencia, preverán de manera progresiva y de acuerdo a la disponibilidad presupuestaria, los recursos presupuestales necesarios para garantizar la prestación de educación inicial, con el fin de lograr la universalidad de dicho servicio, conforme a lo que establezca la Estrategia Nacional de Atención a la Primera Infancia a que se refiere el Artículo Décimo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de los artículos 3o., 31 y 73 de la Constitución Política de los Estados Unidos Mexicanos, en materia educativa, publicado en el Diario Oficial de la Federación el 15 de mayo de 2019.
+
+En tanto se transita hacia la universalidad de la educación inicial, el Estado dará prioridad a la prestación de servicios de educación inicial, a niñas y niños en condiciones de vulnerabilidad y en riesgo de exclusión, considerando las condiciones socioeconómicas de sus madres y padres de familia o tutores.
+
+Décimo Tercero. En un plazo de ciento veinte días contados a partir de la entrada en vigor de este Decreto, la Secretaría presentará la Agenda Educativa Digital para el aprovechamiento de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en la impartición de la educación.
+
+Décimo Cuarto. La Secretaría, propondrá al Consejo Nacional de Autoridades Educativas en la sesión inmediata que corresponda a la entrada en vigor del presente Decreto, los lineamientos para su operación y funcionamiento.
+
+Décimo Quinto. Lo dispuesto en el artículo 146, párrafo tercero de la Ley General de Educación, no será aplicado respecto de aquellos trámites iniciados con anterioridad a la entrada en vigor de la misma.
+
+Décimo Sexto. Las autoridades educativas, en el ámbito de sus competencias, realizarán las acciones necesarias a efecto de que, la educación multigrado que impartan en términos del artículo 43 de la Ley General de Educación, sea superada de manera gradual.
+
+Décimo Séptimo. En el supuesto de que se ejerza la atribución a que se refiere el artículo 113, fracción XXI de la Ley General de Educación, la entidad federativa deberá celebrar un convenio con la Secretaría de Educación Pública y la Secretaría de Hacienda y Crédito Público, en el cual se indique la gradualidad en el cumplimiento de esa atribución; el porcentaje o monto de recursos que la entidad federativa deberá aportar y, en su caso, la Federación; las participaciones que se podrían afectar como fuente de pago de obligaciones contraídas por la entidad federativa; los tipos y grados educativos, así como la temporalidad del ejercicio de esa facultad, entre otros aspectos.
+
+Conforme a lo que se establezca en los convenios a que se refiere el párrafo anterior, la Secretaría de Educación Pública y la Secretaría de Hacienda y Crédito Público podrán constituir un fondo para la administración de los recursos respectivos.
