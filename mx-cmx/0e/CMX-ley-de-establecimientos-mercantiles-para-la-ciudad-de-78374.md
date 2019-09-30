@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-establecimientos-mercantiles-para-la-ciudad-de-78374"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-20"
-last_updated: "2018-05-04"
+last_updated: "2019-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78374&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-01-14"
 
 LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 30 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 20 de enero de 2011.
 
@@ -914,11 +914,19 @@ XIII. De venta de alimentos preparados;
 
 XIV. Los salones de belleza y peluquerías; y
 
-XVI (SIC). Los demás no comprendidos en el Titulo VI de esta Ley, en donde se desarrollen actividades relativas a la intermediación, compraventa, arrendamiento, distribución de bienes o prestación de servicios comerciales, con fines de lucro.
+> <small>(ADICIONADA, G.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+XV. De tatuajes, perforaciones y micropigmentación, y,
+
+XVI. Los demás no comprendidos en el Titulo VI de esta Ley, en donde se desarrollen actividades relativas a la intermediación, compraventa, arrendamiento, distribución de bienes o prestación de servicios comerciales, con fines de lucro.
 
 > <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2012)</small>
 
 Los establecimientos mercantiles a que se refiere este Titulo tienen prohibida la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo, para su consumo en el interior. Se exceptúan de lo anterior los establecimientos mercantiles que ejerzan como actividad preponderante el servicio de venta de alimentos preparados y cuya superficie total no exceda de 80 metros cuadrados, los cuales podrán vender exclusivamente cerveza y vino de mesa para su consumo con los alimentos preparados establecidos en su carta de menú, en el horario de las 12:00 a las 17:00 horas.
+
+> <small>(ADICIONADO, G.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+Los establecimientos mercantiles señalados en la fracción XV, deberán obtener previo al registro de su inicio de actividades, las autorizaciones sanitarias a que se refiere la Ley General de Salud.
 
 ###### Artículo 36.
 
@@ -1655,3 +1663,11 @@ G.O. 4 DE MAYO DE 2018.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 30 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA LA FRACCIÓN XV Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 35 DE LA LEY DE ESTABLECIMIENTOS MERCANTILES DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
