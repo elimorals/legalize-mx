@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2018-09-03"
+last_updated: "2019-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -761,9 +761,11 @@ La Comisión registrará las quejas que se le formulen y acusará recibo de ella
 
 La interposición de quejas ante la Comisión no interrumpe ni suspende los plazos en los procesos administrativos y judiciales. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la queja o denuncia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 49.
 
-La Comisión deberá determinar si se admite o no a trámite una queja en el momento de su presentación, y si esto no es posible por la complejidad del asunto, contará con un término de tres días para pronunciarse al respecto.
+La Comisión deberá determinar si se admite o no a trámite una queja en el momento de su presentación, y si esto no es posible por la complejidad del asunto, contará con un término de sesenta horas para pronunciarse al respecto.
 
 De ser necesario, se podrá requerir al interesado para que aclare la queja en un término no mayor a cinco días hábiles contados a parir de la notificación de tal requerimiento. Si el Quejoso no aclara el asunto se enviará al archivo definitivo.
 
@@ -776,6 +778,14 @@ En caso de que sea evidente la inexistencia de los hechos motivo de la queja, el
 ###### ARTÍCULO 51.
 
 La Comisión deberá resolver sobre las quejas en un plazo no mayor de noventa días naturales contados a partir de su presentación. Si el asunto es complejo, la Visitaduría, justificando tal circunstancia, podrá solicitar al Consejo la ampliación del plazo.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+Cuando los hechos se traten de violaciones graves a los derechos humanos, el Presidente podrá asumir de oficio directamente la investigación de la queja, debiendo dictar la resolución final lo antes posible así como recomendar todas las medidas que resulten necesarias de entre las establecidas en los Artículos 19 Fracción XXI y 64 de esta Ley, para brindar a las víctimas la protección más amplia, de conformidad con el Artículo 1° segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+Se consideran graves las quejas por hechos que violen el derecho a la vida, la libertad, integridad, seguridad o salud de las personas, así como la pérdida súbita de la vivienda o instrumentos de trabajo, y cualquier caso análogo.
 
 ###### ARTÍCULO 52.
 
@@ -1168,3 +1178,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan Derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 205.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 49 Y SE ADICIONAN EL SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 51 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Derechos Humanos del Estado de Aguascalientes deberá adaptar su reglamentación interna con la presente Reforma, en un plazo de noventa días naturales a partir de su entrada en vigor.
+
+###### ARTÍCULO TERCERO.
+
+Las quejas recibidas de manera previa a la publicación de la presente reforma, deberán substanciarse conforme a los plazos
