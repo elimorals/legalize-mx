@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2019-09-10"
+last_updated: "2019-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -1397,7 +1397,9 @@ XII.- Derechos Humanos;
 
 XIII.- Igualdad de Género;
 
-XIV.- Asuntos Indígenas;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+XIV.- Pueblos Indígenas;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
@@ -2866,3 +2868,19 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. Para la atención de lo dispuesto dentro de los artículos 87, fracción I, y 88 del presente Decreto, se considerará para todos sus efectos la integración vigente de los Grupos Legislativos, con sus respectivas designaciones. En cuyo caso bastará con la designación de la o el Diputado que asumirá las funciones de Vicecoordinador, respectivamente.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, ASÍ COMO LA FRACCIÓN XIV DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Comisión de Pueblos Indígenas estará conformada por los mismos integrantes de la Comisión de Asuntos Indígenas que cambia de denominación.
+
+TERCERO. Los asuntos presentados o turnados que se encuentran en trámite en la Comisión de Asuntos Indígenas, pasarán para su análisis y resolución procedente a la Comisión de Pueblos Indígenas.
+
+CUARTO. Todos los actos suscritos por la Comisión de Asuntos Indígenas y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión de Pueblos Indígenas.
+
+QUINTO. Todo instrumento jurídico, que a la entrada en vigor del presente Decreto, se refiera a la Comisión de Asuntos Indígenas, se entenderá realizada por la Comisión de Pueblos Indígenas conforme al presente Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
