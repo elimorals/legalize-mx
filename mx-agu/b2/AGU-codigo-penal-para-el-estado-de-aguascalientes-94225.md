@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2019-07-08"
+last_updated: "2019-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2591,6 +2591,24 @@ En este caso, la punibilidad será de 6 meses a 3 años de prisión y de 25 a 50
 
 La persona privada legítimamente de su libertad que se evada del establecimiento donde se encuentra internada, por estar cumpliendo una sanción privativa de la libertad, o en período de detención o prisión preventiva, no se le contará el tiempo que pase fuera del lugar en que deba hacerla efectiva.
 
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+Artículo 178 A.- Comete el delito de Atentados contra la Seguridad de los Centros Penitenciarios:
+
+I. Toda persona que introduzca o trafique en los Centros Penitenciarios o suministre a los internos en el mismo, algún aparato de telefonía celular o cualquier otro dispositivo o medio de comunicación con conectividad o vinculación inalámbrica, satelital, drones, o introduzca armas, o sustancias tóxicas tales como materiales solventes, alcoholes, y otras sustancias que produzcan efectos similares.
+
+II. Toda persona privada de la libertad dentro de los Centros Penitenciarios del Estado, que sea poseedor de algún aparato de telefonía celular o cualquier otro aparato o medio de comunicación con conectividad o vinculación inalámbrica, satelital, de drones, de armas, o sustancias tóxicas tales como materiales solventes, alcoholes, y otras sustancias que produzcan efectos similares.
+
+Al responsable del delito de Atentados contra la Seguridad de los Centros Penitenciarios descrito en la fracción I del párrafo anterior, se le aplicarán, de 3 a 6 años de prisión y de 25 a 200 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados.
+
+Al responsable del delito de Atentados contra la Seguridad de los Centros Penitenciarios descrito en la fracción II del párrafo primero, se le aplicarán, de 2 a 4 años de prisión y de 20 a 100 días multa, así como el pago total de la reparación de los daños y perjuicios ocasionados en su caso.
+
+Si el responsable del delito es Servidor Público adscrito a cualquiera de las Instituciones de Seguridad Pública de la Federación, de esta o cualquiera otra Entidad Federativa, o de los Órganos Jurisdiccionales del Estado, se aumentará la punibilidad que corresponda hasta en una mitad de sus mínimos y máximos. De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, conforme a los criterios previstos en el artículo 163 A, del presente Código.
+
+En el caso de que el responsable del delito sea Servidor Público, distinto de los señalados en el párrafo que antecede, se aumentará la punibilidad que corresponda hasta en un tercio de sus mínimos y máximos. De manera adicional a dichas sanciones, se impondrá a los responsables de su comisión, la pena de destitución y la inhabilitación para desempeñar empleo, cargo o comisión públicos, conforme los criterios previstos en el artículo 163 A, del presente Código.
+
+El hecho punible descrito en este artículo será aplicable también en el Centro Estatal para el Desarrollo del Adolescente.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
 
 ### CAPÍTULO XII. Tipos Penales Protectores de la Confidencialidad, la Intimidad de la Información y la Identidad de la Persona
@@ -3376,3 +3394,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 206.- SE ADICIONA EL ARTÍCULO 178 A AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
