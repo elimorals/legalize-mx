@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2019-04-12"
+last_updated: "2019-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -3343,11 +3343,15 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
-TERCERO. La Secretaría de Ecología y Gestión Ambiental dispondrá de un lapso de trescientos sesenta y cinco días posteriores a la vigencia de este Decreto, para promover mediante campañas de difusión, la no utilización de popotes de plástico, y bolsas plásticas desechables; así como impulsar el uso de reusables, biodegradables, y compostables.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+TERCERO. La Secretaría de Ecología y Gestión Ambiental dispondrá de un lapso de cuatrocientos ochenta y seis días posteriores a la vigencia de este Decreto, para promover mediante campañas de difusión, la no utilización de popotes de plástico, y bolsas plásticas desechables; así como impulsar el uso de reusables, biodegradables, y compostables.
 
 Transcurrido dicho término, los establecimientos comerciales y mercantiles que incurran en desacato, serán acreedores a lo establecido en el artículo 159 fracción I y 160 de la Ley Ambiental del Estado de San Luis Potosí.
 
-CUARTO. Los establecimientos comerciales y mercantiles dispondrán de un lapso de trescientos sesenta y cinco días posteriores a la vigencia del presente Decreto, para terminar su inventario de bolsas plásticas desechables y popotes de plástico; así como para elaborar el plan de sustitución de los mismos.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+CUARTO. Los establecimientos comerciales y mercantiles dispondrán de un lapso de cuatrocientos ochenta y seis días posteriores a la vigencia del presente Decreto, para terminar su inventario de bolsas plásticas desechables y popotes de plástico; así como para elaborar el plan de sustitución de los mismos.
 
 P.O. 28 DE FEBRERO DE 2019.
 
@@ -3386,3 +3390,11 @@ TERCERO. A partir de la entrada en vigor de este Decreto, el reglamento del Cons
 CUARTO. Las actuales administraciones municipales periodo 2018 - 2021, contarán con tres meses a partir de la entrada en vigor del presente Decreto, para integrar su Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable.
 
 QUINTO. Los consejos consultivos municipales de Medio Ambiente y Desarrollo Sustentable, que los ayuntamientos hayan integrado antes de la entrada en vigencia de este Decreto, quedan conformados en los términos y formas que se constituyeron, y su organización y funcionamiento se regirá por el Reglamento a que alude la fracción I Bis del inciso a) del artículo 31, de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí.
+
+P.O. 30 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0250.- SE REFORMAN LOS ARTÍCULOS TRANSITORIOS TERCERO Y CUARTO DEL DECRETO LEGISLATIVO NÚMERO 1203 PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO "PLAN DE SAN LUIS" EL UNO DE OCTUBRE DEL AÑO 2018".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
