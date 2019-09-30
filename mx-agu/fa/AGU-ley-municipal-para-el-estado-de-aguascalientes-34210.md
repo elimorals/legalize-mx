@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2019-04-15"
+last_updated: "2019-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -353,7 +353,13 @@ II. Señalar en sus reglamentos y bandos, las sanciones a que se sujetarán los 
 
 III. Presentar ante el Congreso del Estado las iniciativas de Ley, en asuntos de su competencia, en los términos de la Constitución Política del Estado;
 
-IV. Proponer anualmente al Congreso del Estado, a más tardar el día 30 de octubre de cada año, el proyecto de Ley de Ingresos, a efecto de cubrir los gastos ordinarios y extraordinarios de sus respectivos municipios, para el ejercicio fiscal inmediato, que deberá contener el proyecto de las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo en el plazo señalado, el Congreso del Estado declarará aplicable temporalmente para el siguiente ejercicio fiscal inmediato, el que se encuentra vigente, previniendo al Ayuntamiento para que subsane su omisión;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+IV. Proponer anualmente al Congreso del Estado su proyecto de Ley de Ingresos, a efecto de cubrir los gastos ordinarios y extraordinarios de sus respectivos municipios, para el ejercicio fiscal inmediato siguiente, que deberá contener el proyecto de las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. De no hacerlo en el plazo señalado, el Congreso del Estado declarará aplicable temporalmente para el siguiente ejercicio fiscal inmediato, el que se encuentra vigente, previniendo al Ayuntamiento para que subsane su omisión.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+El proyecto deberá proponerse en los términos señalados en la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
@@ -965,9 +971,11 @@ V. Concesionar los servicios públicos considerados como estratégicos, de confo
 
 Los ayuntamientos deberán enviar la solicitud de autorización para realizar cualquiera de los actos señalados en el artículo que precede al Congreso del Estado y acompañarse con los documentos y justificaciones necesarias y, en su caso, del dictamen técnico correspondiente.
 
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
 ###### Artículo 64.
 
-Los Ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura Estatal, a más tardar el 30 de Octubre del año anterior al ejercicio, las cuotas o tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
+Los Ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura Estatal, las cuotas o tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria para el Ejercicio Fiscal inmediato siguiente, en los términos señalados en la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios.
 
 ## TITULO CUARTO. PATRIMONIO Y HACIENDA
 
@@ -1677,7 +1685,9 @@ X. Custodiar y ejercer las garantías que se otorguen en favor de la hacienda mu
 
 XI. Proponer al Ayuntamiento la política de ingresos de la Secretaría de Finanzas;
 
-XII. Proponer al Ayuntamiento el proyecto de Presupuesto de Egresos antes del 30 de octubre de cada año;
+> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+XII. Proponer al Ayuntamiento el proyecto de Presupuesto de Egresos del Municipio para el Ejercicio Fiscal inmediato siguiente, en los términos señalados en la Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios;
 
 XIII. Intervenir en la elaboración del programa financiero municipal;
 
@@ -2522,3 +2532,11 @@ P.O. 15 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia el 15 de Octubre de 2019.
+
+P.O. 30 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 207.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 64, LA FRACCIÓN XII DEL ARTÍCULO 121, SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV DEL ARTÍCULO 36 (SIC) LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 26; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 26 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 34 DE LA LEY DEL PRESUPUESTO GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA."]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
