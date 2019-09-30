@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2019-04-23"
+last_updated: "2019-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -559,7 +559,9 @@ g) Conocer y realizar la fase de investigaciones de las quejas y denuncias por d
 
 h) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-XIV.- ASUNTOS INDÍGENAS:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE SEPTIEMBRE DE 2019)</small>
+
+XIV.- PUEBLOS INDÍGENAS:
 
 a) Redactar, analizar y generar iniciativas que tengan como objeto combatir cualquier práctica discriminatoria e impulsar el desarrollo integral y sustentable de los Pueblos y Comunidades Indígenas;
 
@@ -3336,5 +3338,21 @@ TERCERO. Los asuntos presentados o turnados que se encuentran en trámite en la 
 CUARTO. Todos los actos suscritos por la Comisión de Desarrollo Social y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión de Bienestar.
 
 QUINTO. Todo instrumento jurídico, que a la entrada en vigor del presente Decreto, se refiera a la Comisión de Desarrollo Social, se entenderá a la Comisión de Bienestar conforme al presente Decreto.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE SEPTIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, ASÍ COMO LA FRACCIÓN XIV DEL ARTÍCULO 48 DEL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Comisión de Pueblos Indígenas estará conformada por los mismos integrantes de la Comisión de Asuntos Indígenas que cambia de denominación.
+
+TERCERO. Los asuntos presentados o turnados que se encuentran en trámite en la Comisión de Asuntos Indígenas, pasarán para su análisis y resolución procedente a la Comisión de Pueblos Indígenas.
+
+CUARTO. Todos los actos suscritos por la Comisión de Asuntos Indígenas y/o su Presidencia a la entrada en vigor del presente Decreto, sus efectos se entenderán referidos a la Comisión de Pueblos Indígenas.
+
+QUINTO. Todo instrumento jurídico, que a la entrada en vigor del presente Decreto, se refiera a la Comisión de Asuntos Indígenas, se entenderá realizada por la Comisión de Pueblos Indígenas conforme al presente Decreto.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
