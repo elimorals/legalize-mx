@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2018-12-31"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -108,6 +108,10 @@ XVIII. Recomendaciones: A las sugerencias de acciones de mejora identificadas co
 > <small>(ADICIONADA, G.G. 30 DE MAYO DE 2017)</small>
 
 XIX. Recomendaciones de desempeño: A las sugerencias de acciones de mejora para el desempeño de las entidades fiscalizables y sus servidores públicos en el cumplimiento de objetivos y metas institucionales y programáticas, con énfasis en el diseño, instrumentación y resultado de indicadores estratégicos y de gestión.
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+XX. Unidad: Unidad Técnica de Evaluación y Control.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE ENERO DE 2007)</small>
 
@@ -677,9 +681,13 @@ II. Ausentarse por más de quince días naturales, sin contar con la licencia de
 
 El Organo Superior propondrá a la Comisión su proyecto de presupuesto anual, el cual será remitido por el Auditor Superior a más tardar el 15 de agosto de cada año, para su inclusión en el proyecto de presupuesto de egresos del Poder Legislativo.
 
-## TITULO TERCERO. DE LA COMISION DE VIGILANCIA
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-### CAPITULO UNICO. DE LA NATURALEZA, OBJETO Y ATRIBUCIONES DE LA COMISION DE VIGILANCIA
+## TITULO TERCERO. DE LA COMISION DE VIGILANCIA Y LA UNIDAD TECNICA DE EVALUACION Y CONTROL
+
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+### CAPITULO PRIMERO. DE LA NATURALEZA, OBJETO Y ATRIBUCIONES DE LA COMISION DE VIGILANCIA
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -687,13 +695,17 @@ El Organo Superior propondrá a la Comisión su proyecto de presupuesto anual, e
 
 La Comisión coordinará las relaciones entre la Legislatura y el Órgano Superior, evaluará el desempeño de este último; constituirá el enlace que permita garantizar la debida coordinación entre ambos, y podrá solicitarle información sobre el seguimiento de los trabajos de fiscalización.
 
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+La Comisión a través de la Unidad realizará la evaluación de desempeño del Órgano Superior, la cual deberá entregar a la Legislatura a más tardar el 30 de abril.
+
 ###### Artículo 31.
 
 Son facultades de la Comisión, las siguientes:
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-I. Revisar, analizar, aclarar y discutir los informes de resultados de las cuentas públicas del Estado, municipios y demás entidades fiscalizables elaborados por el Órgano Superior y turnarlos a la Legislatura para el trámite correspondiente, debiéndose realizar en reuniones de trabajo de la propia Comisión y con la presencia del Auditor Superior y el personal del propio Órgano Superior, que así se considere;
+I. Revisar, analizar, aclarar y discutir la cuenta pública del Estado, municipios y demás entidades fiscalizables, así como examinar el Informe de Resultados de la Cuenta Pública elaborados por el Órgano Superior. Para tales efectos, deben realizarse reuniones de trabajo de la propia Comisión y con la presencia del Auditor Superior y el personal del propio Órgano Superior, que así se considere;
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -733,15 +745,97 @@ XIII. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2016)
 
 XIV. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2016)
 
-XV. Las demás que establezca esta Ley.
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+XV. Recibir y analizar las solicitudes de auditorías presentadas por la ciudadanía y acordar, de ser procedente, la instrucción al Órgano Superior para practicarlas, y
+
+(REUBICADA, G.G. 1 DE OCTUBRE DE 2019)
+
+XVI. Las demás que establezca esta Ley.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 31 Bis.
+
+La solicitud ciudadana para la práctica de auditorías a que se refiere la fracción XV del artículo anterior, deberá cumplir con los requisitos siguientes:
+
+I. Solicitud de auditoría;
+
+II. Hechos, actos u omisiones que la motivan;
+
+III. Señalamiento de la autoridad a quien se atribuyan los hechos, actos u omisiones;
+
+IV. Pruebas que justifican la acción;
+
+V. Domicilio para recibir notificaciones, y
+
+VI. Nombre y firma de la persona solicitante.
+
+La Unidad apoyará en la revisión y análisis técnico para desechar o confirmar la procedencia de dichas solicitudes de auditoría, en un plazo máximo de diez días hábiles posteriores a su recepción.
+
+La Comisión hará del conocimiento de la Junta de Coordinación Política la presentación de dichas solicitudes y deberá reunirse una vez que la Unidad entregue los resultados de su análisis de procedencia y en su caso solicitará las auditorías al Órgano Superior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+### CAPITULO SEGUNDO. DE LA UNIDAD TECNICA DE EVALUACION Y CONTROL
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 31 Ter.
+
+Para el ejercicio de sus facultades, la Comisión se auxiliará de la Unidad, la cual estará encargada de vigilar el estricto cumplimiento de las atribuciones de los servidores públicos del Órgano Superior y que éstos se apeguen a lo establecido en la Ley de Responsabilidades Administrativas del Estado de México y Municipios y a las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 31 Quater.
+
+El Titular de la Unidad será designado por la Legislatura, por convocatoria emitida por la Junta de Coordinación Política en los términos del reglamento de la Unidad.
+
+Durará cuatro años en su encargo y podrá desempeñar nuevamente ese cargo por otro periodo igual.
+
+En caso de ausencia temporal del Titular de la Unidad, que exceda treinta días naturales, la Junta de Coordinación Política, a propuesta de la Comisión, designará a un encargado de despacho, el cual no podrá durar en su encargo más de ciento veinte días naturales.
+
+En caso de remoción o ausencia definitiva ocurrida durante la primera mitad de su encargo, se aplicará lo dispuesto en el primer párrafo del presente artículo, y si ocurriera en la segunda mitad, el Titular será designado por la Legislatura, a propuesta de la Junta de Coordinación Política.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 31 Quinquies.
+
+Tratándose de posibles faltas no graves, graves o delitos, cometidos por servidores públicos del Órgano Superior, la Unidad actuará en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 31 Sexies.
+
+La Unidad tendrá las siguientes atribuciones:
+
+I. Vigilar que el desempeño de los servidores públicos del Órgano Superior esté apegado a esta Ley y demás disposiciones aplicables;
+
+II. Proponer a la Comisión los indicadores y métodos de evaluación del Órgano Superior, así como el sistema de seguimiento a los mismos e informar sus resultados a la Comisión;
+
+III. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe de Resultados de las cuentas públicas y demás documentos que le envíe el Órgano Superior;
+
+IV. Recibir quejas por posibles faltas administrativas de los servidores públicos del Órgano Superior, iniciar investigaciones y proceder conforme a la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
+
+V. Participar en los actos de entrega-recepción de los servidores públicos de mando superior del Órgano Superior;
+
+VI. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad; así como los sistemas de seguimiento a las acciones y observaciones que promuevan tanto la Unidad como la Comisión, y
+
+VII. Las demás que le atribuyan esta ley y las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 31 Septies.
+
+Para el correcto ejercicio de sus funciones de la Unidad, dispondrá de los servidores públicos, unidades administrativas y áreas suficientes, en función del reglamento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+## TITULO CUARTO. DE LAS CUENTAS PUBLICAS, SU REVISION, FISCALIZACION Y CALIFICACION
 
 ### CAPITULO PRIMERO. DE LAS CUENTAS PUBLICAS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
-
-## TITULO CUARTO. DE LAS CUENTAS PUBLICAS, SU REVISION Y FISCALIZACION
-
-### CAPITULO SEGUNDO. DE LA REVISION Y FISCALIZACION DE LAS CUENTAS PUBLICAS
 
 ###### Artículo 32.
 
@@ -765,11 +859,15 @@ Los microfilms y los archivos guardados mediante procesamiento electrónico a qu
 
 El Organo Superior conservará en su poder las cuentas públicas del Estado y municipios de cada ejercicio fiscal y los informes de resultados de su revisión, en tanto no prescriban las responsabilidades derivadas de las irregularidades que se observen en las operaciones objeto de revisión. Asimismo, conservará las copias autógrafas de los pliegos que formulen y copias de los trámites que hubiere realizado ante las instancias competentes para la presentación de denuncias o querellas penales derivadas del ejercicio de sus funciones.
 
-### CAPITULO TERCERO. DE LAS CUENTAS PUBLICAS MUNICIPALES
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+### CAPITULO SEGUNDO. DE LA REVISION, FISCALIZACION Y CALIFICACION DE LAS CUENTAS PUBLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 35.
 
-La revisión y fiscalización de las cuentas públicas tiene por objeto determinar:
+La revisión, fiscalización y calificación de las cuentas públicas tiene por objeto determinar:
 
 I. Si los programas y su ejecución se ajustaron a los términos y montos aprobados;
 
@@ -786,6 +884,30 @@ VI. Si la gestión financiera cumple con las leyes, decretos, reglamentos y dem�
 VII. Si se ajustan a la Ley la recaudación, administración, manejo y aplicación de recursos estatales y municipales, y los federales en términos de los convenios respectivos; los actos, contratos, convenios, concesiones u operaciones que las entidades fiscalizables celebraron o realizaron; y
 
 VIII. Las conductas que den lugar al fincamiento de responsabilidades administrativas y, en su caso, a la imposición de sanciones.
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+IX. Si se remitieron a la Legislatura en los plazos dispuestos en esta Ley.
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+X. Si su contenido cumple con lo dispuesto en la Ley General de Contabilidad Gubernamental, el Código Financiero del Estado de México y Municipios, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+XI. Si su contenido corresponde con el contenido del presupuesto de egresos del ejercicio fiscal respectivo.
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+XII. Si las entidades públicas presentaron en la cuenta pública información sobre la aplicación de los recursos de gestión y de origen federal de forma suficiente y transparente, en términos de los convenios y normatividad correspondiente.
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+XIII. Si las entidades públicas presentaron en la cuenta pública información sobre la aplicación de recursos destinados a programas sociales de forma suficiente y transparente, y con alusión a los resultados obtenidos.
+
+> <small>(ADICIONADA, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+XIV. Si los resultados de desempeño de todos los programas presupuestarios obtuvieron parámetros satisfactorios reflejados en la Matriz de Indicadores para Resultados.
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -809,11 +931,15 @@ Respecto de los informes mensuales el Órgano Superior podrá emitir los resulta
 
 El Órgano Superior, en ejercicio de sus atribuciones de fiscalización, podrá realizar revisiones y auditorías en relación con el ejercicio fiscal sujeto a revisión.
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 40.
 
-Revisado por la Legislatura el Informe de Resultados a que se refiere el artículo 50 del presente ordenamiento y previa etapa de revisión, análisis, aclaración y discusión, el Órgano Superior procederá en términos de lo dispuesto en esta Ley, en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+Revisados por la Comisión las Cuentas Públicas y el Informe de Resultados referido en el artículo 50 del presente ordenamiento, y una vez que se haya elaborado el dictamen de aquéllas, y que dicho dictamen sea votado por el Pleno, el Órgano Superior procederá en términos de lo dispuesto en esta Ley, en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+
+El dictamen relativo a las Cuentas Públicas deberá contener un análisis pormenorizado y estar sustentado en las conclusiones técnicas de los Informes de Resultados de las Cuentas Públicas, recuperando las discusiones técnicas realizadas en la Comisión; su estructura considerará antecedentes, considerandos y resolutivos.
+
+Si el dictamen de la cuenta pública es aprobado por el Pleno de la Legislatura, quedará por concluida la revisión de la cuenta pública. De no aprobarse, la Comisión sesionará de forma extraordinaria para analizar y discutir nuevamente el contenido de la Cuenta Pública. Al efecto, la Comisión podrá solicitar mayor información al Órgano Superior, sobre la aplicación de los recursos públicos y los resultados obtenidos con ellos. Por consiguiente, formulará un nuevo dictamen que deberá presentar al Pleno de la Legislatura para su respectiva calificación.
 
 ###### Artículo 41.
 
@@ -859,9 +985,7 @@ Las personas a que se refiere el artículo anterior, tendrán el carácter de re
 
 Durante sus actuaciones, los comisionados que hubieren intervenido en las revisiones, deberán levantar acta circunstanciada, en presencia de dos testigos, en la que harán constar los hechos u omisiones que hubieren encontrado. Las actas, declaraciones, manifestaciones o hechos en ellas contenidos, harán prueba en los términos de Ley. Asimismo, podrán solicitar la documentación en copias certificadas e integrarán el expediente técnico correspondiente.
 
-### CAPITULO CUARTO. DEL INFORME DE RESULTADOS
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+### CAPITULO TERCERO. DE LAS CUENTAS PUBLICAS MUNICIPALES
 
 ###### Artículo 46.
 
@@ -893,17 +1017,23 @@ Los tesoreros municipales deberán notificar por escrito esta situación a los s
 
 Dichos documentos estarán disponibles en las oficinas de la Tesorería Municipal, cuando menos con cinco o con treinta días de anticipación a su presentación, según se trate de los informes o de la cuenta pública, respectivamente.
 
-### CAPITULO PRIMERO. DE LA ETAPA DE ACLARACION
+### CAPITULO CUARTO. DEL INFORME DE RESULTADOS
 
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 50.
 
-El Órgano Superior tendrá un plazo improrrogable que vence el 30 de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen, presentar ante la Comisión de Vigilancia del Órgano Superior de Fiscalización, transparentar sus resultados y rendir a la Legislatura, por conducto de la Comisión de Vigilancia, el correspondiente Informe de Resultados, mismo que tendrá inmediatamente después a su entrega, el carácter público y, en consecuencia, deberá ser publicado en medios electrónicos de manera inmediatamente posterior a la entrega que haga el Órgano Superior a la Comisión de Vigilancia; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
+El Órgano Superior tendrá un plazo improrrogable que vence el 30 de septiembre del año en que se entreguen las cuentas públicas, para presentar el Informe de Resultados ante la Comisión de Vigilancia del Órgano Superior de Fiscalización, mismo que tendrá el carácter público y, en consecuencia, deberá ser publicado en medios electrónicos de manera inmediatamente posterior a la entrega que haga el Órgano Superior a la Comisión de Vigilancia; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-La revisión, análisis, aclaración y discusión del informe a que hace referencia el párrafo anterior, la Comisión de Vigilancia del Órgano Superior de Fiscalización, deberá presentarla ante el Pleno de la Legislatura para su votación y emisión del decreto que tenga por revisadas y fiscalizadas las cuentas públicas del Estado y Municipios, a más tardar el 15 de noviembre del año en que se presente dicho informe, debiéndose realizar previamente, reuniones de trabajo de la propia Comisión.
+La revisión, análisis, aclaración y discusión del informe a que hace referencia el párrafo anterior, y el estudio del contenido de la cuenta pública, servirán como principal instrumento para que la Comisión de Vigilancia del Órgano Superior de Fiscalización elabore el dictamen de las cuentas públicas, el cual deberá presentarse ante el Pleno de la Legislatura para su votación y emisión del decreto que tenga por fiscalizadas las cuentas públicas del Estado y Municipios a más tardar el 05 de diciembre del año en que se presente dicho informe.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2019)</small>
+
+La calificación no suspende el trámite de las acciones promovidas o que se promuevan, por parte del Órgano Superior de Fiscalización del Estado de México, mismas que seguirán el procedimiento de acuerdo a las disposiciones legales aplicables.
+
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 La Comisión vigilara la publicación del Informe de Resultados, de todas y cada una de las reuniones de trabajo que realice para analizarlo y del decreto que emita la Legislatura, de manera inmediata a que cada uno acontezca.
 
@@ -955,7 +1085,7 @@ El Órgano Superior en el informe de resultados, dará cuenta por medio de la Co
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO SEGUNDO. DE LAS RESPONSABILIDADES
+### CAPITULO PRIMERO. DE LA ETAPA DE ACLARACION
 
 > <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -987,7 +1117,9 @@ IV. Si las observaciones no fueron debidamente solventadas o el daño reparado, 
 
 ## TITULO QUINTO. DE LAS RESPONSABILIDADES
 
-### CAPITULO TERCERO. DEL PROCEDIMIENTO DE FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS
+### CAPITULO SEGUNDO. DE LAS RESPONSABILIDADES
+
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 55.
 
@@ -1037,9 +1169,7 @@ IV. Apercibimiento que, en caso de no cumplir, se hará acreedor al procedimient
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE MAYO DE 2017)</small>
 
-### CAPITULO CUARTO. DEL MEDIO DE IMPUGNACION
-
-> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
+### CAPITULO TERCERO. DEL PROCEDIMIENTO DE FINCAMIENTO DE RESPONSABILIDADES RESARCITORIAS
 
 ###### Artículo 61.
 
@@ -1065,7 +1195,7 @@ IV. Apercibimiento que, en caso de no cumplir, se hará acreedor al procedimient
 
 (DEROGADO, G.G. 30 DE MAYO DE 2017)
 
-### CAPITULO QUINTO. DE LA PRESCRIPCION
+### CAPITULO CUARTO. DEL MEDIO DE IMPUGNACION
 
 > <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
@@ -1120,6 +1250,10 @@ Las resoluciones que se dicten en materia del recurso de revisión no admitirán
 ###### Articulo 73.
 
 (DEROGADO, G.G. 21 DE DICIEMBRE DE 2016)
+
+### CAPITULO QUINTO. DE LA PRESCRIPCION
+
+> <small>(REFORMADO, G.G. 30 DE MAYO DE 2017)</small>
 
 ###### Artículo 74.
 
@@ -1183,7 +1317,7 @@ C. CONSTANTINO ACOSTA DAVILA
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 22 DE DICIEMBRE DE 2004.
 
@@ -1516,3 +1650,17 @@ CUARTO.- Se considerarán vigentes durante el ejercicio 2019 las placas expedida
 QUINTO.- Las placas expedidas en los ejercicios 2015 y posteriores deberán renovarse al vencimiento de los cinco años contados a partir de su expedición.
 
 SEXTO.- Los años de referencia contenidos en la tabla del segundo párrafo de la fracción I del artículo 63 del Código Financiero del Estado de México y Municipios se actualizarán, siendo aplicable para el primer año de antigüedad el 2019 y para el último año el 2010, conservando íntegros los factores respectivos.
+
+G.G. 1 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 85.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Los recursos humanos, materiales y presupuestales de la Coordinación de Control y Auditoría Interna del Órgano Superior de Fiscalización del Estado de México se transferirán a la Unidad Técnica de Evaluación y Control de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
+
+CUARTO.- El Órgano Superior de Fiscalización del Estado de México en un plazo máximo de noventa días naturales, contados a partir de la entrada en vigor del presente, modificará su normatividad interna a efecto de ajustar sus disposiciones con el contenido de este Decreto, siendo sometida a consideración de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
+
+QUINTO.- El Reglamento de la Unidad Técnica de Evaluación y Control de la Comisión de Vigilancia del Órgano Superior de Fiscalización deberá publicarse a más tardar, en ciento veinte días naturales, después de la publicación de este Decreto.
