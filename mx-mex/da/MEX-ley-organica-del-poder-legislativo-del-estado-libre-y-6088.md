@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2019-05-15"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2019.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -315,9 +315,9 @@ La Legislatura recibirá, dentro del mes de septiembre, un informe acerca del es
 
 La Legislatura recibirá anualmente para su revisión las cuentas de gastos del Estado, correspondiente al año inmediato anterior, a más tardar el 15 de mayo, y de los municipios, dentro de los primeros quince días naturales del mes de marzo.
 
-> <small>(ADICIONADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 1 DE OCTUBRE DE 2019)</small>
 
-La Comisión de Vigilancia del Órgano Superior de Fiscalización deberá celebrar reunión de trabajo para revisar los Informes de Resultados presentados por el Órgano Superior de Fiscalización, a más tardar el 5 de noviembre.
+La Comisión de Vigilancia del Órgano Superior de Fiscalización deberá celebrar reunión de trabajo para revisar los Informes de Resultados presentados por el Órgano Superior de Fiscalización, a más tardar el 10 de octubre.
 
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -2220,3 +2220,17 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan a este Decreto.
 
 CUARTO.- El Poder Legislativo del Estado Libre y Soberano de México deberá expedir en un plazo no mayor a 60 días hábiles después de la entrada en vigor del presente Decreto, las adecuaciones al Reglamento del Poder Legislativo del Estado Libre y Soberano de México.
+
+G.G. 1 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 85.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los recursos humanos, materiales y presupuestales de la Coordinación de Control y Auditoría Interna del Órgano Superior de Fiscalización del Estado de México se transferirán a la Unidad Técnica de Evaluación y Control de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
+
+CUARTO.- El Órgano Superior de Fiscalización del Estado de México en un plazo máximo de noventa días naturales, contados a partir de la entrada en vigor del presente, modificará su normatividad interna a efecto de ajustar sus disposiciones con el contenido de este Decreto, siendo sometida a consideración de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
+
+QUINTO.- El Reglamento de la Unidad Técnica de Evaluación y Control de la Comisión de Vigilancia del Órgano Superior de Fiscalización deberá publicarse a más tardar, en ciento veinte días naturales, después de la publicación de este Decreto.
