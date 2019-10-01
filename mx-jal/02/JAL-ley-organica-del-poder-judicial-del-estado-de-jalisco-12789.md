@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2019-07-27"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -47,11 +47,11 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
 La presente Ley Orgánica del Poder Judicial, es reglamentaria de los artículos de la Constitución Política relativos a la administración de justicia en el Estado Libre y Soberano de Jalisco.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 2.
 
-Esta ley tiene por objeto regular la organización y funcionamiento del Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Especializados y Mixtos, Juzgados Menores y de Paz, Jurado Popular, Consejo de la Judicatura y demás órganos y dependencias que lo integren.
+Esta ley tiene por objeto regular la organización y funcionamiento del Supremo Tribunal de Justicia, Juzgados de Primera Instancia, Especializados y Auxiliares, Juzgados Menores y de Paz, Jurado Popular, Consejo de la Judicatura y demás órganos y dependencias que lo integren.
 
 ### CAPÍTULO II. DEL EJERCICIO, OBJETO Y JURISDICCIÓN
 
@@ -65,7 +65,9 @@ II. (DEROGADA, P.O. 8 DE JULIO DE 2014)
 
 III. (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 2017)
 
-IV. Los Juzgados de Primera Instancia, Especializados y Mixtos;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+IV. Los Juzgados de Primera Instancia, Especializados y Auxiliares;
 
 V. Los Juzgados Menores;
 
@@ -117,23 +119,25 @@ Con el objeto de simplificar, facilitar y agilizar las comunicaciones, actos jur
 
 Para el ingreso, promoción y permanencia de los servidores públicos del Poder Judicial, se estará a lo dispuesto por la Constitución Política del Estado, esta ley, su reglamento y demás ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 7.
 
-Los magistrados del Poder Judicial del Estado, previamente a ejercer su cargo, rendirán la protesta de ley ante el Congreso del Estado; los jueces protestarán ante el Pleno del Consejo de la Judicatura y los demás servidores públicos del Poder Judicial, lo harán ante la autoridad de quien dependan.
+Las y los magistrados del Poder Judicial del Estado, previamente a ejercer su cargo, rendirán la protesta de ley ante el Congreso del Estado; las y los jueces protestarán ante el Pleno del Consejo de la Judicatura y los demás servidores públicos del Poder Judicial, lo harán ante la autoridad de quien dependan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 8.
 
-Los jueces de primera instancia, especializados y mixtos, menores y de paz serán electos por el Consejo de la Judicatura y durarán en el ejercicio de su cargo cuatro años.
+Las y los Jueces de Primera Instancia, menores y de paz serán electos por el Consejo de la Judicatura y durarán en el ejercicio de su cargo cuatro años a partir de la fecha en que rindan protesta, y podrán ser reelectos.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+Las y los jueces podrán solicitar su cambio de adscripción a un Juzgado vacante al Consejo, quien en igualdad de circunstancias, preferirá a los de mayor antigüedad.
 
-El plazo se computará a partir de la fecha en que rindan la protesta, el cual deberá ser de servicio efectivo y, si a su vencimiento fueren ratificados, sólo podrán ser privados de su cargo en los términos que establece la Constitución Política del Estado de Jalisco y las leyes secundarias en materia de responsabilidad de los servidores públicos. Durante su ejercicio, los jueces sólo podrán ser removidos o cambiados de adscripción por acuerdo del Consejo de la Judicatura, dictado en los términos que establezca esta ley.
+Las y los Jueces de Primera Instancia, a fin de ser reelectos, deberán acreditar previamente la aprobación de las evaluaciones de desempeño y de control de confianza.
 
-En los casos de promoción, la inamovilidad en el nuevo empleo se adquirirá al transcurrir el plazo correspondiente a su ejercicio.
+Las y los jueces que sean reelectos por segunda ocasión, sólo podrán ser privados de su cargo en los términos que establece la Constitución Política del Estado y las leyes secundarias en materia de responsabilidad de los servidores públicos.
+
+Las y los Jueces de Primera Instancia deberán realizar y aprobar las pruebas de control de confianza cada cuatro años. Será causa de retiro forzoso el no acreditar las evaluaciones de control de confianza.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -163,9 +167,9 @@ El año judicial, se inicia el día primero de enero y termina el día treinta y
 
 Para la elección del Presidente del Supremo Tribunal de Justicia, el último día hábil de diciembre de cada dos años los magistrados en funciones, presididos por el de más antigüedad como magistrado, se reunirán en el Salón de Plenos del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-Acto seguido, por mayoría de sufragios, en votación secreta, por cédula y con escrutinio público, se elegirá al magistrado que funja como Presidente los dos años judiciales consecutivos siguientes a partir del día primero de enero, en caso de empate, el magistrado que presida la sesión tendrá voto de calidad.
+Acto seguido, por mayoría de sufragios, en votación secreta, por cédula y con escrutinio público, se elegirá a la magistrada o magistrado que funja como Presidente los dos años judiciales consecutivos siguientes a partir del día primero de enero, en caso de empate, la magistrada o el magistrado que presida la sesión tendrá voto de calidad.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2005)</small>
 
@@ -203,9 +207,163 @@ La infracción de estas disposiciones será sancionada con la separación defini
 
 El Magistrado, Juez y Secretario que pasen a formar parte del Consejo de la Judicatura, disfrutarán de licencia por el tiempo y términos que prevé la Constitución local; al concluir su encargo, en su caso, podrán reintegrarse a la actividad jurisdiccional.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO III BIS. DEL SISTEMA DE EVALUACIÓN DE CONTROL DE CONFIANZA
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 14 A.- El Sistema de Evaluación de Control de Confianza del Poder Judicial tendrá la finalidad de evaluar la probidad y honorabilidad de sus funcionarios.
+
+El Sistema contará con un Centro de Evaluación de Control de Confianza del Poder Judicial, el cual estará a cargo de un Director que durará en su cargo cinco años sin derecho a reelección.
+
+El Centro tendrá el personal necesario para el cumplimiento de sus fines, el cual deberá realizar y aprobar las evaluaciones de control de confianza ante una instancia acreditada. La estructura administrativa será determinada en su reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 14 B.- El Centro de Evaluación de Control de Confianza del Poder Judicial es un órgano de evaluación, con autonomía presupuestal, administrativa, técnica y de gestión, encargado de realizar las evaluaciones de evolución patrimonial y control de confianza de las y los Jueces de Primera Instancia y las y los Magistrados del Supremo Tribunal de Justicia del Estado de Jalisco.
+
+El Centro, como órgano técnico, coadyuvará con el Consejo de la Judicatura y la Comisión de Ética y Probidad del Supremo Tribunal de Justicia, en la realización de análisis de evolución patrimonial, cuando así se lo requieran.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 14 C.- El Director del Centro de Evaluación de Control de Confianza será nombrado por el Congreso del Estado, mediante el procedimiento siguiente:
+
+I. Al menos noventa días naturales antes de que se venza el plazo para el que fue nombrado el Director, el Pleno del Supremo Tribunal de Justicia deberá remitir la terna al Congreso del Estado;
+
+II. Si el Pleno del Supremo Tribunal de Justicia no envía la terna en el plazo señalado en la fracción anterior, el Presidente de la Mesa Directiva del Congreso enviará un recordatorio al Pleno del Supremo Tribunal para que la remita en un plazo no mayor a cinco días naturales. En caso de no hacerlo, el Congreso del Estado deberá emitir convocatoria en los mismos términos que para elegir magistrados;
+
+III. El Congreso del Estado de Jalisco nombrará al Director del Centro de Evaluación de Control de Confianza, mediante el voto de las dos terceras partes de los diputados que lo integran;
+
+IV. En caso de que el Congreso rechace la terna enviada o que ninguno de sus integrantes alcance la mayoría referida en la fracción anterior, requerirá al Supremo Tribunal de Justicia para que le envíe una nueva terna con personas distintas; y
+
+V. Si la nueva terna también es rechazada o ninguno de sus integrantes alcanza la mayoría calificada, el Congreso del Estado deberá designar al Director mediante insaculación que se lleve a cabo entre los integrantes de las dos ternas.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 14 D.- El Director del Centro de Evaluación de Control de Confianza deberá cumplir con los requisitos siguientes:
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles; ser nativo del Estado o, en su defecto, haber residido en la entidad durante los últimos cinco años, salvo en el caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del país;
+
+II. Tener cuando menos treinta y cinco años cumplidos al día de la elección;
+
+III. Poseer el día de la elección, con antigüedad mínima de diez años, título profesional de licenciado en derecho, abogado o su equivalente, expedido por autoridad o institución legalmente facultada para ello;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General del Estado, Fiscal Ejecutivo de Investigación Criminal, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia o integrante del Consejo de la Judicatura, Magistrado del Tribunal de Justicia Administrativa o Magistrado del Tribunal de Arbitraje y Escalafón, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento durante el año previo al día de la elección;
+
+VI. No haber sido Secretario de Estado, Fiscal General de la República, Senador o Diputado Federal, a menos que se separe de su encargo un año antes al día en que tenga verificativo la elección;
+
+VII. Realizar y aprobar las evaluaciones de control de confianza, ante una instancia acreditada;
+
+VIII. No tener relación familiar o de negocios con algún Juez de Primera Instancia, Magistrado del Supremo Tribunal de Justicia o Consejero del Consejo de la Judicatura.
+
+La relación familiar a que se refiere esta fracción, incluirá a los cónyuges, a los parientes por afinidad o civiles, y a los parientes consanguíneos hasta el cuarto grado.
+
+La relación de negocios incluye aquéllos de los que pueda resultar algún beneficio para él, para los familiares señalados en el párrafo anterior, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el aspirante o las personas antes referidas formen o hayan formado parte;
+
+En caso de que una vez nombrado el Director, fuese designado como Juez de Primera Instancia, Magistrado del Supremo Tribunal de Justicia o Consejero del Consejo de la Judicatura, alguna persona que tenga con el Director cualquiera de las relaciones familiares o de negocios referidas en esta fracción, la Comisión de Vigilancia determinará lo conducente en relación a la práctica de las evaluaciones de control de confianza materia de este Capítulo; y
+
+(NOTA: EL 15 DE ABRIL DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 125/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE ABRIL DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+IX. NO HABER SIDO SANCIONADO POR ALGUNA AUTORIDAD ADMINISTRATIVA FEDERAL, ESTATAL O MUNICIPAL, O POR EL CONSEJO DE LA JUDICATURA CON MOTIVO DE UNA QUEJA PRESENTADA EN SU CONTRA O DE UN PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA INICIADO DE OFICIO.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 14 E.- El Director del Centro de Evaluación de Control de Confianza, tendrá las atribuciones siguientes:
+
+I. Proponer a la Comisión de Vigilancia:
+
+a) El contenido de las evaluaciones de control de confianza del Poder Judicial;
+
+b) Los criterios para las evaluaciones de control de confianza de los Jueces de Primera Instancia y Magistrados del Supremo Tribunal de Justicia del Estado de Jalisco, de conformidad con las normas técnicas y estándares mínimos en la materia;
+
+c) Las normas y procedimientos técnicos para la evaluación de las y los Jueces de Primera Instancia y las y los Magistrados del Supremo Tribunal de Justicia del Estado de Jalisco;
+
+d) Los requisitos que deben contener los certificados de control de confianza de los funcionarios del Poder Judicial y aprobar sus características;
+
+e) El plan anual de trabajo del Centro de Evaluación de Control de Confianza, el cual deberá comprender la calendarización de las evaluaciones que se apliquen a Jueces de Primera Instancia y Magistrados del Supremo Tribunal de Justicia;
+
+f) La celebración de convenios de colaboración y coordinación con organismos, dependencias y entidades internacionales, federales, estatales y municipales;
+
+g) El reglamento interno del Centro de Evaluación de Control de Confianza,
+
+h) La plantilla de personal del Centro de Evaluación de Control de Confianza,
+
+i) El proyecto de presupuesto anual del Centro de Evaluación de Control de Confianza, que deberá ser remitido al Pleno del Supremo Tribunal de Justicia, para su inclusión en el proyecto de presupuesto del Supremo Tribunal de Justicia;
+
+II. Bajo su más amplia responsabilidad, realizar los citatorios a las y los Magistrados del Supremo Tribunal de Justicia y a las y los Jueces de Primera Instancia, para la realización de las evaluaciones de control de confianza;
+
+III. Rendir un informe anual a la Comisión de Vigilancia, o de manera extraordinaria cuando ésta se lo solicite; y
+
+IV. Las demás que le confieran la Constitución Política del Estado de Jalisco, las leyes y disposiciones reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 14 F.- El Centro de Evaluación de Control de Confianza contará con una Comisión de Vigilancia integrada por:
+
+I. El Presidente el Supremo Tribunal de Justicia del Estado de Jalisco;
+
+II. Dos Magistrados del Supremo Tribunal de Justicia del Estado de Jalisco, designados por el Pleno del mismo, por un periodo de dos años;
+
+III. Un Consejero del Consejo de la Judicatura designado por el Pleno del mismo, por un periodo de dos años; y
+
+IV. Un integrante del Comité de Participación Social del Sistema Estatal Anticorrupción, designado por dicho Comité, por un periodo de dos años.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 14 G.- La Comisión de Vigilancia del Centro de Evaluación de Control de Confianza del Poder Judicial tendrá las atribuciones siguientes:
+
+I. Aprobar los documentos que proponga el Director del Centro de Evaluación de Control de Confianza, referidos en la fracción I del artículo 14 E de esta ley. En el caso de los señalados en los incisos b), f), g) y h) de dicha fracción, una vez aprobados por ésta, deberán ser remitidos al Supremo Tribunal de Justicia para su aprobación definitiva;
+
+II. Analizar que los exámenes de las evaluaciones de control de confianza se practiquen conforme a los procedimientos, normas técnicas y estándares aprobados;
+
+III. Recibir el informe anual del Director;
+
+IV. Solicitar información extraordinaria al Director; y
+
+V. Las demás que le confieran la Constitución Política del Estado de Jalisco, las leyes y disposiciones reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 14 H.- Los resultados de los exámenes que comprendan las evaluaciones de control de confianza deberán valorarse de manera conjunta, conforme a los criterios aprobados por la Comisión de Vigilancia y el Pleno del Supremo Tribunal de Justicia.
+
+Los resultados de las evaluaciones de control de confianza serán de carácter confidencial, se integrarán al expediente laboral del funcionario y no podrán ser utilizados como prueba en procedimientos judiciales.
+
+Los resultados de las evaluaciones de evolución patrimonial que realicen la Comisión de Ética y Probidad del Supremo Tribunal, el Consejo de la Judicatura o el Centro de Evaluación del Control de Confianza, serán publicados, con excepción de los datos de carácter confidencial y reservado, conforme a la Constitución y la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 14 I.- Las y los Jueces de Primera Instancia así como las y los Magistrados del Supremo Tribunal de Justicia deberán realizar y aprobar las evaluaciones de control de confianza cada cuatro años.
+
 ### CAPÍTULO IV. DE LOS ÓRGANOS ADMINISTRATIVOS AUXILIARES DE LOS TRIBUNALES
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 15.
+
+El Supremo Tribunal de Justicia y el Consejo de la Judicatura de Jalisco, para el cabal desempeño de sus funciones, podrán crear las direcciones, unidades departamentales y órganos auxiliares que consideren necesarios, en sus respectivos ámbitos de competencia, conforme lo permitan su respectivo Presupuesto de Egresos, que deberán ejercer con plena autonomía y de conformidad con la ley.
+
+###### Artículo 16.
+
+Las dependencias administrativas se clasificarán en direcciones, unidades departamentales y órganos auxiliares, de acuerdo a los requerimientos y necesidades del funcionamiento, debiendo contar cada tribunal, cuando menos con las siguientes:
+
+I. Dirección de Administración, Recursos Humanos, Materiales y Servicios Generales;
+
+II. Dirección de Contraloría, Auditoría Interna y Control Patrimonial;
+
+III. Dirección de Comunicación Social y Difusión;
+
+IV. Departamento de Oficialía de Partes;
+
+V. Departamento de Archivo y Estadística; y
+
+VI. Departamento de Auxiliares de la Administración de Justicia.
+
+Para su organización y funcionamiento, las dependencias a que se refiere el presente artículo, se sujetarán a lo que establezca el reglamento interno de cada tribunal.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO V. DE LA PLANEACIÓN INSTITUCIONAL DEL PODER JUDICIAL
 
@@ -303,63 +461,49 @@ I. El Plan General del Poder Judicial, su actualización o modificación, se pub
 
 II. El programa operativo anual será aprobado a más tardar el día 25 de octubre, del año anterior a su aplicación.
 
-###### Artículo 15.
-
-El Supremo Tribunal de Justicia y el Consejo de la Judicatura de Jalisco, para el cabal desempeño de sus funciones, podrán crear las direcciones, unidades departamentales y órganos auxiliares que consideren necesarios, en sus respectivos ámbitos de competencia, conforme lo permitan su respectivo Presupuesto de Egresos, que deberán ejercer con plena autonomía y de conformidad con la ley.
-
-###### Artículo 16.
-
-Las dependencias administrativas se clasificarán en direcciones, unidades departamentales y órganos auxiliares, de acuerdo a los requerimientos y necesidades del funcionamiento, debiendo contar cada tribunal, cuando menos con las siguientes:
-
-I. Dirección de Administración, Recursos Humanos, Materiales y Servicios Generales;
-
-II. Dirección de Contraloría, Auditoría Interna y Control Patrimonial;
-
-III. Dirección de Comunicación Social y Difusión;
-
-IV. Departamento de Oficialía de Partes;
-
-V. Departamento de Archivo y Estadística; y
-
-VI. Departamento de Auxiliares de la Administración de Justicia.
-
-Para su organización y funcionamiento, las dependencias a que se refiere el presente artículo, se sujetarán a lo que establezca el reglamento interno de cada tribunal.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2007)</small>
+## TÍTULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 ### CAPÍTULO I. INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 2008)</small>
-
-## TÍTULO SEGUNDO. DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-### CAPÍTULO II. DEL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 17.
 
-El Supremo Tribunal de Justicia residirá en la capital del estado de Jalisco y estará integrado por treinta y cuatro magistrados propietarios. Funcionará en pleno en salas especializadas, regionales y mixtas en caso necesario, con la competencia que se determine por el pleno.
+El Supremo Tribunal de Justicia residirá en la capital del estado de Jalisco y estará integrado por treinta y cuatro magistrados propietarios.
 
-El Presidente del Supremo Tribunal de Justicia se designará de entre los magistrados propietarios y no integrará sala.
+En la designación de las y los magistrados será obligatorio observar el principio de alternancia para la paridad de género.
+
+Funcionará en pleno en salas especializadas, regionales y mixtas en caso necesario, con la competencia que se determine por el pleno.
+
+El Presidente del Supremo Tribunal de Justicia se designará de entre las y los magistrados propietarios y no integrará sala.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 18.
 
-Para ser magistrado del Supremo Tribunal de Justicia se requiere:
+Para ser magistrada o magistrado del Supremo Tribunal de Justicia se requiere:
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles; ser nativo del Estado o, en su defecto, haber residido en la entidad durante los últimos cinco años, salvo en el caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del país;
 
 II. Tener cuando menos treinta y cinco años cumplidos al día de la elección;
 
-III. Poseer el día de la elección, con una antigüedad mínima de diez años, título profesional de licenciado en derecho, abogado o su equivalente, expedido por la autoridad o institución legalmente facultada para ello y registrado en la Dirección de Profesiones del Estado;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+III. Poseer el día de la elección, con una antigüedad mínima de diez años, título profesional de licenciado en derecho, abogado o su equivalente, expedido por la autoridad o institución legalmente facultada para ello;
 
 IV. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General del Estado, integrante del Consejo de la Judicatura, Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día del nombramiento, y
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal del Estado, Fiscal Ejecutivo de Investigación Criminal, Fiscal Especializado en Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia o integrante del Consejo de la Judicatura, Magistrado del Tribunal de Justicia Administrativa o Magistrado del Tribunal de Arbitraje y Escalafón Diputado local, o Presidente, Síndico o Regidor de ayuntamiento, durante el año previo al día del nombramiento;
 
-VI. No haber sido secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día que tenga verificativo el nombramiento.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+VI. No haber sido secretario de Estado, Fiscal General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día que tenga verificativo el nombramiento; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+VII. Realizar y aprobar las evaluaciones correspondientes, en los términos de la Constitución Política del Estado de Jalisco y la Ley.
 
 ###### Artículo 19.
 
@@ -369,9 +513,17 @@ Serán comisiones internas permanentes del Supremo Tribunal de Justicia las sigu
 
 I. La de Gobierno y Administración, que será presidida por el Presidente del Supremo Tribunal;
 
-II. La Sustanciadora con motivo de conflictos laborales con sus servidores públicos de base; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-III. La de Adquisiciones.
+II. La Sustanciadora con motivo de conflictos laborales con sus servidores públicos de base;
+
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+III. La de Adquisiciones; y
+
+> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+IV. La Comisión de Ética y Probidad.
 
 Estas comisiones serán colegiadas en la forma que determine el Pleno y nombradas al inicio del año judicial.
 
@@ -381,9 +533,17 @@ Estas comisiones serán colegiadas en la forma que determine el Pleno y nombrada
 
 El Supremo Tribunal de Justicia del Estado tendrá un Presidente, que durará en su cargo dos años y podrá ser reelecto por una sola vez para el periodo inmediato.
 
-La Presidencia de las salas será rotatoria por designación entre los magistrados que la integren, lo que comunicarán al Pleno al inicio del año judicial para su sanción.
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-### CAPÍTULO III. DEL PRESIDENTE DEL SUPREMO TRIBUNAL DE JUSTICIA
+La Presidencia de las salas será rotatoria por designación entre las y los magistrados que la integren, lo que comunicarán al Pleno al inicio del año judicial para su sanción.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 20 A.- El procedimiento para la elección y evaluación de los magistrados, se sujetará a lo previsto en la Constitución Política del Estado de Jalisco, esta Ley, la Ley Orgánica del Poder Legislativo y su Reglamento.
+
+### CAPÍTULO II. DEL PLENO DEL SUPREMO TRIBUNAL DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
 
 ###### Artículo 21.
 
@@ -441,21 +601,21 @@ XIV. Aprobar, modificar o rechazar, los convenios que el Presidente en represent
 
 XV. Resolver los conflictos de competencia que se susciten entre las salas; en este caso sus integrantes sólo tendrán voz, pero no voto;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-XVI. Discutir y aprobar el Presupuesto de Egresos del Supremo Tribunal de Justicia, el cual se remitirá a su Presidente para que, junto con el elaborado por el Consejo de la Judicatura los envíe al Titular del Poder Ejecutivo;
+XVI. Discutir y aprobar el Presupuesto de Egresos del Supremo Tribunal de Justicia, el cual se remitirá a su Presidente para que, junto con los elaborados por el Consejo de la Judicatura y el Centro de Evaluación de Control de Confianza los envíe al Titular del Poder Ejecutivo;
 
 XVII. Presentar al Poder Legislativo iniciativas de ley, en el ramo de justicia;
 
 XVIII. Formular y expedir el reglamento y demás disposiciones necesarias para el funcionamiento interno del Supremo Tribunal de Justicia;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
-
-XIX. Conceder licencia al magistrado que pase a formar parte del Consejo de la Judicatura;
+XIX. (DEROGADA, P.O. 1 DE OCTUBRE DE 2019)
 
 XX. Nombrar las comisiones que sean necesarias para la atención de los asuntos de su competencia;
 
-XXI. Llevar el registro y seguimiento de la situación patrimonial de sus servidores públicos en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+XXI. Llevar el registro y seguimiento de la situación patrimonial de sus servidores públicos en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco;
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -469,37 +629,19 @@ XXIV. Emitir las bases mediante acuerdos generales, para que las adquisiciones, 
 
 XXV. Solicitar al Consejo de la Judicatura el cambio de adscripción de jueces y, en su caso, su remoción del cargo por causa justificada;
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
+XXVI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2019)
 
-XXVI. Elaborar el dictamen técnico en el que se analice y emita opinión sobre la actuación y el desempeño de los magistrados, de conformidad con el artículo 61 de la Constitución Política del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-Para estos efectos, el dictamen deberá contener todos los datos, elementos y opiniones que permitan al Congreso ilustrar su decisión, señalando por lo menos:
+XXVII. Proponer al Consejo de la Judicatura la modificación en el número y límites territoriales de los partidos y distritos judiciales en que se divide el territorio del Estado;
 
-a) El total de asuntos turnados al magistrado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2019)</small>
 
-b) El total de asuntos resueltos por el magistrado;
+XXVIII. Proponer ante el Congreso del Estado la terna para el Director del Centro de Evaluación de Control de Confianza del Poder Judicial previsto en el artículo 56 de la Constitución del Estado; y
 
-c) El total de asuntos turnados a la sala a la que pertenece el magistrado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE OCTUBRE DE 2019)</small>
 
-d) El total de asuntos resueltos por la sala a la que pertenece el magistrado;
-
-e) El número de resoluciones resueltas en los términos que establecen las leyes;
-
-f) El número de resoluciones confirmadas o modificadas a través del juicio de amparo;
-
-g) Los servidores públicos que auxilian al magistrado; y
-
-h) Las quejas presentadas en contra del magistrado y el sentido de su resolución.
-
-El dictamen técnico, así como los demás datos, informaciones y opiniones que se hagan llegar al Congreso del Estado, tanto del Supremo Tribunal de Justicia, como de particulares, servirán para el proceso de ratificación de los magistrados. Estos elementos no limitan la facultad soberana del Congreso del Estado, de ratificar o no ratificar a los magistrados del Supremo Tribunal de Justicia del Estado.
-
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
-
-XXVII. Proponer al Consejo de la Judicatura la modificación en el número y límites territoriales de los distritos judiciales en que se divide el territorio del Estado, y
-
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
-
-XXVIII. Las demás que le otorgue la constitución Política del Estado de Jalisco y las leyes aplicables.
+XXIX. Las demás que le otorgue la constitución Política del Estado de Jalisco y las leyes aplicables.
 
 ###### Artículo 24.
 
@@ -527,7 +669,7 @@ Para ser Secretario General de Acuerdos se requiere:
 
 I. Ser mexicano por nacimiento, en pleno goce de sus derechos civiles y políticos;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 1 DE OCTUBRE DE 2019)</small>
 
 II. Tener su domicilio dentro del Primer Distrito Judicial del Estado;
 
@@ -577,9 +719,7 @@ III. Vigilar el cumplimiento en el desempeño de las funciones asignadas al pers
 
 IV. Las demás que le confiera la Presidencia, y le señale el reglamento.
 
-### CAPÍTULO IV. DE LAS SALAS DEL SUPREMO TRIBUNAL DE JUSTICIA
-
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
+### CAPÍTULO III. DEL PRESIDENTE DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 ###### Artículo 33.
 
@@ -607,9 +747,9 @@ VIII. Sugerir al Pleno las medidas necesarias para la organización y funcionami
 
 IX. (DEROGADA, P.O. 22 DE ENERO DE 2008)
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-X. Formular anualmente el proyecto del Presupuesto de Egresos para someterlo a la aprobación del Tribunal Pleno y enviarlo, conjuntamente con el del Consejo de la Judicatura, al Titular del Poder Ejecutivo para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
+X. Formular anualmente el proyecto del Presupuesto de Egresos para someterlo a la aprobación del Tribunal Pleno y enviarlo, conjuntamente con el del Consejo de la Judicatura y el del Centro de Evaluación de Control de Confianza, al Titular del Poder Ejecutivo para su inclusión en el proyecto de Presupuesto de Egresos del Estado;
 
 XI. Integrar y presidir la Comisión de Gobierno y Administración del Supremo Tribunal de Justicia;
 
@@ -627,11 +767,39 @@ XVII. Proponer al Pleno las medidas necesarias para el buen servicio y disciplin
 
 XVIII. Vigilar que los presidentes de las salas proporcionen mensualmente los datos estadísticos de los asuntos de su competencia;
 
-> <small>(ADICIONADA, P.O. 1 DE MAYO DE 2003)</small>
+XIX. (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE OCTUBRE DE 2019)
 
-XIX. Remitir al Congreso del Estado el dictamen técnico a que se refiere la fracción XXVI, del artículo 23 de la presente ley;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE OCTUBRE DE 2019)</small>
 
-Para efectos de un adecuado control y evaluación de las labores del Supremo Tribunal de Justicia, elaborará y conservará un dictamen semestral de cada uno de los Magistrados, con los elementos que establece la fracción XXVI del artículo 23 de esta Ley.
+Para efectos de un adecuado control y evaluación de las labores del Supremo Tribunal de Justicia, elaborará y conservará un dictamen semestral de cada uno de las y los Magistrados, con los elementos siguientes:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+a) El total de asuntos turnados al magistrado;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+b) El total de asuntos resueltos por el magistrado;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+c) El total de asuntos turnados a la sala a la que pertenece el magistrado;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+d) El total de asuntos resueltos por la sala a la que pertenece el magistrado;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+e) El número de asuntos resueltos en los plazos que establecen las leyes;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+f) El número de resoluciones confirmadas o modificadas a través del juicio de amparo; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+g) Las quejas presentadas en contra del magistrado y el sentido de su resolución.
 
 XX. Proponer al Pleno del Supremo Tribunal los nombramiento (sic) del Secretario General de Acuerdos, de los directores y de los titulares de los órganos auxiliares del propio Tribunal, así como el del representante de este último, ante la correspondiente Comisión Substanciadora, y
 
@@ -643,7 +811,7 @@ XXI. Las demás que le confieran las leyes y el Pleno.
 
 La Presidencia del Supremo Tribunal contará con el personal de apoyo que permita el Presupuesto de Egresos correspondiente.
 
-### CAPÍTULO V. DEL PROCEDIMIENTO PARA LAS SUPLENCIAS DE LOS MAGISTRADOS
+### CAPÍTULO IV. DE LAS SALAS DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
 
@@ -827,7 +995,9 @@ Los conflictos de competencia que se susciten entre juzgados de la jurisdicción
 
 Las salas auxiliares y regionales mixtas en su caso, tendrán jurisdicción en los distritos judiciales que les adscriba el pleno, con las atribuciones y facultades que les sean asignadas.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO V. DEL PROCEDIMIENTO PARA LAS SUPLENCIAS DE LOS MAGISTRADOS
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2008)</small>
 
 ###### Artículo 52.
 
@@ -859,13 +1029,13 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 ## TÍTULO TERCERO. DEL TRIBUNAL DE LO ADMINISTRATIVO
 
-### CAPÍTULO II. DE LA INTEGRACIÓN DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 57.
 
 (DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
-### CAPÍTULO III. DEL PRESIDENTE DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO II. DE LA INTEGRACIÓN DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 58.
 
@@ -887,7 +1057,7 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 (DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
-### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO III. DEL PRESIDENTE DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 63.
 
@@ -897,13 +1067,13 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 (DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017
 
-### CAPÍTULO V. DE LAS SALAS DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 65.
 
 (DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
-### CAPÍTULO VI. DE LOS SECRETARIOS Y ACTUARIOS DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO V. DE LAS SALAS DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 66.
 
@@ -917,7 +1087,7 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 (DEROGADO, P.O. 26 DE SEPTIEMBRE DE 2017)
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO VI. DE LOS SECRETARIOS Y ACTUARIOS DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 69.
 
@@ -937,7 +1107,7 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 ## TÍTULO CUARTO. DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL
 
-### CAPÍTULO II. DE LOS REQUISITOS PARA SER MAGISTRADO ELECTORAL, SECRETARIO GENERAL DE ACUERDOS Y SECRETARIOS RELATORES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 73.
 
@@ -979,7 +1149,7 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-### CAPÍTULO III. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+### CAPÍTULO II. DE LOS REQUISITOS PARA SER MAGISTRADO ELECTORAL, SECRETARIO GENERAL DE ACUERDOS Y SECRETARIOS RELATORES
 
 ###### Artículo 83.
 
@@ -989,7 +1159,7 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL ELECTORAL
+### CAPÍTULO III. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
 ###### Artículo 85.
 
@@ -1003,7 +1173,7 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-### CAPÍTULO V. DE LAS SESIONES
+### CAPÍTULO IV. DEL PLENO DEL TRIBUNAL ELECTORAL
 
 ###### Artículo 88.
 
@@ -1013,7 +1183,7 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-### CAPÍTULO VI. DE LAS SALAS DE PRIMERA INSTANCIA DEL TRIBUNAL ELECTORAL
+### CAPÍTULO V. DE LAS SESIONES
 
 ###### Artículo 90.
 
@@ -1023,7 +1193,7 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-### CAPÍTULO VII. DE LA SALA DE SEGUNDA INSTANCIA DEL TRIBUNAL ELECTORAL
+### CAPÍTULO VI. DE LAS SALAS DE PRIMERA INSTANCIA DEL TRIBUNAL ELECTORAL
 
 ###### Artículo 92.
 
@@ -1037,7 +1207,7 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 (DEROGADO, P.O. 17 DE JULIO DE 2001)
 
-### CAPÍTULO VIII. DE LA JURISPRUDENCIA
+### CAPÍTULO VII. DE LA SALA DE SEGUNDA INSTANCIA DEL TRIBUNAL ELECTORAL
 
 ###### Artículo 95.
 
@@ -1051,11 +1221,23 @@ Si por defunción, renuncia, incapacidad médica o licencia concedida por un té
 
 (DEROGADO, P.O. 17 DE JULIO DE 2001)
 
-### CAPÍTULO IX. DE LOS PROCEDIMIENTOS ESPECIALES
+### CAPÍTULO VIII. DE LA JURISPRUDENCIA
 
 ###### Artículo 98.
 
 (DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+### CAPÍTULO IX. DE LOS PROCEDIMIENTOS ESPECIALES
+
+###### Artículo 99.
+
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+###### Artículo 100.
+
+(DEROGADO, P.O. 8 DE JULIO DE 2014)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ### CAPÍTULO X. DEL INSTITUTO DE INVESTIGACIONES Y CAPACITACIÓN ELECTORAL, E INSTITUTO "PRISCILIANO SÁNCHEZ"
 
@@ -1091,23 +1273,11 @@ Artículo 100 Ñ.- (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
 Artículo 100 O.- (DEROGADO, P.O. 8 DE JULIO DE 2014)
 
-###### Artículo 99.
-
-(DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-###### Artículo 100.
-
-(DEROGADO, P.O. 8 DE JULIO DE 2014)
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 2012)</small>
+## TÍTULO QUINTO. DE LOS JUZGADOS Y JURADO POPULAR
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE ABRIL DE 2014)</small>
-
-## TÍTULO QUINTO. DE LOS JUZGADOS Y JURADO POPULAR
-
-### CAPÍTULO II. DE LOS JUZGADOS MENORES Y DE PAZ
 
 ###### Artículo 101.
 
@@ -1213,11 +1383,13 @@ III. Ser abogado o licenciado en derecho, con título registrado en la Direcció
 
 IV. Acreditar cuando menos cinco años de práctica profesional desde la obtención de la cédula provisional, de conformidad con la Ley de Profesiones del Estado;
 
-V. Aprobar el examen de oposición;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+V. Aprobar las acreditaciones, evaluaciones y examen oral público que al efecto se aplique en los términos de la presente ley y su reglamento;
 
-VI. Tener reconocida probidad y honradez;
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+VI. Tener reconocida probidad y honradez, lo cual se acreditará mediante la aprobación de las evaluaciones de control de confianza;
 
 > <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1238,6 +1410,10 @@ X.- Satisfacer con eficiencia y probidad sus servicios en la administración de 
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
 
 XI. No ser ministro de culto religioso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+En caso de haber sido nombrado para integrar una lista de reserva con una antigüedad mayor a seis meses, previo a su toma de protesta, deberá acreditar nuevamente las evaluaciones y examen a que se refiere la fracción V.
 
 Para el nombramiento de jueces, en igualdad de circunstancias, se preferirá al aspirante que preste sus servicios con eficiencia, probidad y honradez en la administración de justicia.
 
@@ -1263,9 +1439,11 @@ II. Haber cursado cuando menos la mitad del plan de estudios de la carrera de ab
 
 III. No haber sido condenado por delito doloso que amerite pena corporal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 110.
 
-Los jueces de primera instancia tienen las siguientes obligaciones:
+Los Jueces de Primera Instancia tienen las siguientes obligaciones:
 
 I. Acordar y sentenciar oportuna, fundada y motivadamente con sujeción a las normas aplicables a cada caso, previstas en la ley, la jurisprudencia, la costumbre y la doctrina;
 
@@ -1279,9 +1457,9 @@ V. Excusarse en los casos previstos por la ley;
 
 VI. Acatar sin demora las ejecutorias y requerimientos de sus supervisores;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-VII. Residir en la cabecera del distrito judicial de su adscripción;
+VII. Residir en la cabecera del partido o distrito judicial de su adscripción;
 
 VIII. Cumplimentar sin demora alguna, los exhortos que se reciban de otras autoridades, siempre que a su juicio están ajustadas a la ley, procediendo en su caso como lo disponen las normas adjetivas correspondientes;
 
@@ -1303,11 +1481,11 @@ XIII. Las demás que les impongan las leyes.
 
 En el caso de la fracción XI, los jueces al proponer el personal del juzgado deberán hacerlo preferentemente a favor de quien tenga mejor derecho de acuerdo al sistema de Carrera Judicial, de no ser así, podrán hacerlo a favor de persona ajena al Poder Judicial, en cuyo caso deberá motivarse la propuesta. Si el Consejo no aprueba al candidato, el juez presentará otra y hasta una tercera propuesta, de ser necesario. De ser rechazadas el Consejo elegirá para el cargo a quien hubiere obtenido mayor votación.
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 111.
 
-El Juez Mixto de Primera Instancia o Especializado en materia penal del distrito judicial que corresponda, propondrá candidatos al Pleno del Consejo de la Judicatura para que se elija a los jueces menores o de paz.
+El Juez de Primera Instancia propondrá candidatos al Pleno del Consejo de la Judicatura para que se elija a los jueces menores o de paz.
 
 ###### Artículo 112.
 
@@ -1393,7 +1571,7 @@ En los juzgados especializados y mixtos fuera del Primer Distrito Judicial en lo
 
 Los notificadores deberán hacer las notificaciones y citaciones con la debida oportunidad, y con las formalidades prescritas por el procedimiento respectivo, sin dar preferencia a ninguna de las partes, devolviendo inmediatamente los expedientes al Secretario.
 
-### CAPÍTULO III. DEL JURADO POPULAR
+### CAPÍTULO II. DE LOS JUZGADOS MENORES Y DE PAZ
 
 ###### Artículo 116.
 
@@ -1451,9 +1629,7 @@ IV. Los demás que prevengan las leyes.
 
 Por cada Juez Menor o de Paz propietario, se nombrará un suplente que lo sustituya en sus faltas temporales, en tanto se nombra su propietario y éste tome posesión.
 
-### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS JUECES Y DEMÁS SERVIDORES
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+### CAPÍTULO III. DEL JURADO POPULAR
 
 ###### Artículo 121.
 
@@ -1533,9 +1709,9 @@ V. En general todos aquellos impedimentos o excusas que prevén las leyes proces
 
 El procedimiento, recusación, el orden que debe seguirse en las audiencias y en general todo lo relativo a las obligaciones y funciones de los jurados, se regirán por lo que dispongan las leyes aplicables.
 
-### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS JUECES Y DEMÁS SERVIDORES
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 130.
 
@@ -1577,9 +1753,9 @@ De presentarse esa hipótesis en salas regionales mixtas, lo suplirá el Secreta
 
 ## TÍTULO SEXTO. DEL CONSEJO DE LA JUDICATURA
 
-### CAPÍTULO II. DEL PLENO DEL CONSEJO DE LA JUDICATURA
+### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 136.
 
@@ -1591,13 +1767,15 @@ La administración, vigilancia, disciplina y Carrera Judicial del Poder Judicial
 
 El Consejo de la Judicatura velará en todo momento por la autonomía de los órganos jurisdiccionales y por la independencia e imparcialidad de sus integrantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 138.
 
-El Consejo de la Judicatura estará integrado por siete consejeros, de los cuales, uno será el Presidente del Supremo Tribunal de Justicia, y los seis restantes, serán electos por votación de cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa convocatoria a la sociedad, de conformidad a lo que establezcan la Constitución Política del Estado de Jalisco y la Ley Orgánica del Poder Legislativo de la Entidad. Uno de los consejeros deberá ser Magistrado del Supremo Tribunal de Justicia, otro se elegirá de entre los jueces de primera instancia y uno más de entre los secretarios de juzgado.
+El Consejo de la Judicatura estará integrado por cinco miembros, de los cuales, uno será el Presidente del Supremo Tribunal de Justicia, quien lo presidirá, uno se elegirá de entre los Jueces de Primera Instancia que tengan más de tres años en el cargo y los tres restantes serán de origen ciudadano que no hubieren desempeñado un cargo dentro de la carrera judicial durante los cuatro años anteriores, serán electos por votación de cuando menos las dos terceras partes de los diputados presentes del Congreso del Estado, a propuesta de los grupos parlamentarios, previa convocatoria a la sociedad, de conformidad a lo que establezcan la Constitución Política del Estado y las demás disposiciones aplicables.
 
-En la licencia que se otorgue al Secretario, Juez y Magistrado electos como consejeros, deberá garantizarse el cargo y adscripción que vinieren desempeñando.
+Para la integración del Consejo de la Judicatura, será obligatorio observar el principio de alternancia para la paridad de género.
+
+En la licencia que se otorgue al Juez electo como consejero, deberá garantizarse el cargo y adscripción que viniere desempeñando.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
@@ -1623,9 +1801,9 @@ Cuando a juicio del Pleno del Consejo de la Judicatura, los reglamentos, acuerdo
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2019)</small>
 
-### CAPÍTULO III. DEL PRESIDENTE DEL PLENO DEL CONSEJO DE LA JUDICATURA
+### CAPÍTULO II. DEL PLENO DEL CONSEJO DE LA JUDICATURA
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 142.
 
@@ -1745,9 +1923,9 @@ XXIII. Convocar a congresos estatales o regionales de jueces, asociaciones profe
 
 XXIV. Apercibir, amonestar e imponer multas, hasta de ciento ochenta veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, a quienes falten al respeto a algún órgano o miembro del Poder Judicial del Estado en las promociones que hagan ante el Consejo de la Judicatura;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-XXV. Elaborar anualmente una lista con los nombres de las personas que puedan fungir como auxiliares de la administración de justicia ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades y distritos judiciales;
+XXV. Elaborar anualmente una lista con los nombres de las personas que puedan fungir como auxiliares de la administración de justicia ante los órganos del Poder Judicial del Estado, ordenándolas por ramas, especialidades, partidos y distritos judiciales;
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1787,13 +1965,21 @@ XXXVI. Dictar las disposiciones necesarias para la recepción, control y destino
 
 XXXVII. Elaborar la base de datos para el registro único de profesionales del derecho que ejercen la abogacía ante los órganos jurisdiccionales del Poder Judicial.
 
-> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-XXXVIII. Acordar de conformidad con el Presupuesto de Egresos, el número necesario de juzgados de primera instancia, incluyendo los especializados, en la entidad; y
+XXXVIII. Acordar de conformidad con el Presupuesto de Egresos, el número necesario de Juzgados de Primera Instancia, incluyendo los Especializados y Auxiliares, en la entidad;
 
-> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2019)</small>
 
-XXXIX. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura del Poder Judicial del Estado.
+XXXIX. Establecer número y límites territoriales de los partidos y distritos judiciales según corresponda a la asignación en que se divide territorio del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+XL. Remover o cambiar de adscripción a las y los jueces; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+XLI. Desempeñar cualquier otra función que la ley encomiende al Consejo de la Judicatura del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2007)</small>
 
@@ -1803,7 +1989,7 @@ El Pleno del Consejo de la Judicatura contará con los servidores públicos supe
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2019)</small>
 
-### CAPÍTULO IV. DE LAS COMISIONES DEL CONSEJO
+### CAPÍTULO III. DEL PRESIDENTE DEL PLENO DEL CONSEJO DE LA JUDICATURA
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
@@ -1851,9 +2037,9 @@ IX. Firmar las resoluciones y acuerdos del Pleno del Consejo de la Judicatura de
 
 X. Las demás que determinen las leyes, los correspondientes reglamentos interiores y acuerdos generales.
 
-### CAPÍTULO V. DE LA SECRETARIA GENERAL DEL CONSEJO
+### CAPÍTULO IV. DE LAS COMISIONES DEL CONSEJO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 152.
 
@@ -1891,9 +2077,9 @@ Los dictámenes y acuerdos de las comisiones se tomarán por mayoría de votos d
 
 Cada comisión nombrará su respectivo presidente y determinarán de conformidad a sus acuerdos el tiempo que deba permanecer en el cargo y las funciones que deba ejercer.
 
-### CAPÍTULO VI. DE LA CAPACITACIÓN DE LOS INTEGRANTES DEL PODER JUDICIAL
+### CAPÍTULO V. DE LA SECRETARIA GENERAL DEL CONSEJO
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 158.
 
@@ -1965,7 +2151,9 @@ V. No haber sido condenado por delito doloso.
 
 El Secretario General del Consejo y los directores de Visitaduría, Disciplina y Responsabilidades, Formación y Actualización Judicial, y de Oficialía de Partes y Archivo, además de reunir los requisitos que contemplar (sic) las fracciones I, III, IV y V del artículo anterior, deberán tener título profesional de licenciado en derecho o abogado expedido legalmente con anterioridad mínima de cinco años.
 
-### CAPÍTULO VII. DE LAS VISITAS DE INSPECCIÓN JUDICIAL
+### CAPÍTULO VI. DE LA CAPACITACIÓN DE LOS INTEGRANTES DEL PODER JUDICIAL
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 162.
 
@@ -2003,9 +2191,7 @@ La Dirección de Investigación y Capacitación programará e impartirá cursos 
 
 La dirección contará con un área de investigación, la cual tendrá como función primordial la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado.
 
-### CAPÍTULO VIII. DE LA ADMINISTRACIÓN Y CONTRALORÍA DEL PODER JUDICIAL
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+### CAPÍTULO VII. DE LAS VISITAS DE INSPECCIÓN JUDICIAL
 
 ###### Artículo 167.
 
@@ -2103,23 +2289,9 @@ Del acta elaborada por el Visitador, deberán ser entregadas copias al titular d
 
 El Pleno del Consejo de la Judicatura y el Titular de la Dirección de Visitaduría podrán ordenar en cualquier momento la celebración de visitas extraordinarias de inspección, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por cualquier servidor público adscrito al Juzgado de Primera Instancia, Menor o de Paz.
 
-### CAPÍTULO VIII bis. DE LA ORGANIZACIÓN Y LOGÍSTICA DE LA FUNCIÓN JURISDICCIONAL
+### CAPÍTULO VIII. DE LA ADMINISTRACIÓN Y CONTRALORÍA DEL PODER JUDICIAL
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2014)</small>
-
-Artículo 179 bis.- Corresponde a la Dirección de Logística la organización y distribución ordenada de tareas necesarias para el desarrollo de las diligencias y audiencias a celebrar en los distintos órganos jurisdiccionales especializados en materia penal.
-
-La Dirección de Logística contará con las siguientes atribuciones:
-
-I. Proveer la programación de diligencias y audiencias necesarias para el desarrollo de la función jurisdiccional;
-
-II. Custodiar los bienes y valores que se encuentren a disposición de los Juzgados con motivo de la tramitación de asuntos;
-
-III. Distribuir equitativamente las labores en la agenda de los jueces;
-
-IV. Resolver previa autorización del Consejo, la ausencia y suplencia de los jueces; y
-
-VI. (SIC) Las demás que esta Ley, su Reglamento y demás disposiciones aplicables le confieran.
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 178.
 
@@ -2141,11 +2313,25 @@ III. Comprobar el cumplimiento por parte de los órganos administrativos de cada
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 11 DE ABRIL DE 2014)</small>
 
+### CAPÍTULO VIII bis. DE LA ORGANIZACIÓN Y LOGÍSTICA DE LA FUNCIÓN JURISDICCIONAL
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2014)</small>
+
+Artículo 179 bis.- Corresponde a la Dirección de Logística la organización y distribución ordenada de tareas necesarias para el desarrollo de las diligencias y audiencias a celebrar en los distintos órganos jurisdiccionales especializados en materia penal.
+
+La Dirección de Logística contará con las siguientes atribuciones:
+
+I. Proveer la programación de diligencias y audiencias necesarias para el desarrollo de la función jurisdiccional;
+
+II. Custodiar los bienes y valores que se encuentren a disposición de los Juzgados con motivo de la tramitación de asuntos;
+
+III. Distribuir equitativamente las labores en la agenda de los jueces;
+
+IV. Resolver previa autorización del Consejo, la ausencia y suplencia de los jueces; y
+
+VI. (SIC) Las demás que esta Ley, su Reglamento y demás disposiciones aplicables le confieran.
+
 ### CAPÍTULO IX. DE LA CARRERA JUDICIAL
-
-### CAPÍTULO X. DEL INGRESO A LA CARRERA JUDICIAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 180.
 
@@ -2159,7 +2345,7 @@ La carrera judicial está integrada por las siguientes categorías:
 
 I. Juez de Primera Instancia;
 
-II. Secretario General de Acuerdos de Tribunal;
+II. (DEROGADA, P.O. 1 DE OCTUBRE DE 2019)
 
 III. Secretario Relator de Magistrado;
 
@@ -2177,7 +2363,7 @@ IX. Actuario; y
 
 X. Juez Menor.
 
-No se considerará como parte de la carrera judicial, el cargo de Secretario General de Acuerdos de Tribunal, cuando recaiga en persona que ostente el nombramiento de Juez de Primera Instancia.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
@@ -2185,31 +2371,55 @@ No se considerará como parte de la carrera judicial, el cargo de Secretario Gen
 
 El Consejo de la Judicatura establecerá, de acuerdo con su Presupuesto de Egresos y la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos de especialización realizados, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios, respetando los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza y motivación.
 
-### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
+### CAPÍTULO X. DEL INGRESO A LA CARRERA JUDICIAL
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 183.
 
-El ingreso y promoción para las categorías de Juez de Primera Instancia, especializados y mixtos, se realizará a través de concurso interno de oposición y oposición libre en la proporción que fije el Pleno del Consejo de la Judicatura.
+El ingreso y promoción para las categorías de Juez de Primera Instancia, Especializados y Auxiliares, se realizará a través de concurso interno de oposición y oposición libre en la proporción que fije el Pleno del Consejo de la Judicatura.
 
-En los concursos internos de oposición para la plaza de Juez de Primera Instancia Especializado, únicamente podrán participar los jueces de primera instancia mixtos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-Para los concursos internos de plaza de Juez Mixto de Primera Instancia, podrán participar el Secretario General de Acuerdos de Tribunal, el Subsecretario General de Acuerdos de Tribunal, los secretarios relatores de magistrados, los secretarios de acuerdos de Sala, los secretarios de juzgado de primera instancia, los notificadoree (sic), actuarios y los jueces menores y de paz.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 El Consejo de la Judicatura tendrá la facultad de obtener y verificar, en todo momento, la información que los aspirantes le hubieren proporcionado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+No se podrán publicar convocatorias para ocupar cargos del Poder Judicial cuando éstos no se encuentren en el presupuesto de egresos vigente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Las listas de reserva de ciudadanos aprobados para ocupar una eventual vacante de juez, se aprobarán por materia y de forma anual por el Consejo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+El número de ciudadanos que integren cada una de las listas de reserva no podrá exceder el treinta por ciento del número total de juzgados existentes por materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Los procedimientos que se efectúen en contravención del párrafo anterior, serán nulos de pleno derecho y causal de responsabilidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+En la designación de Jueces de Primera Instancia será obligatorio observar el principio de alternancia para la paridad de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 184.
 
-Los concursos de oposición para el ingreso a las categorías de Juez Especializado o Juez Mixto de Primera Instancia, se sujetarán al siguiente procedimiento:
+Los concursos de oposición para el ingreso a las categorías de Juez de Primera Instancia, Especializado o Auxiliar, se sujetarán al siguiente procedimiento:
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
 
 I. El Consejo de la Judicatura emitirá una convocatoria que deberá ser publicada por una vez en el Boletín Judicial, y en tres de los diarios de mayor circulación en el Estado. En la convocatoria se deberá especificar si el concurso se trata de concurso abierto de oposición o de concurso interno de oposición.
 
-La convocatoria señalará las categorías y número de vacantes sujetas a concurso, el lugar, día y hora en que se llevarán a cabo los exámenes, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios;
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+La convocatoria señalará las categorías y número de vacantes sujetas a concurso, el lugar, día y hora en que se llevarán a cabo los exámenes, las evaluaciones de control de confianza, así como el plazo, lugar de inscripción y demás elementos que se estimen necesarios;
 
 II. Los aspirantes inscritos deberán resolver por escrito un cuestionario cuyo contenido versará sobre materias que se relacionen con la función de la plaza para la que se concursa.
 
@@ -2221,9 +2431,9 @@ III. Los aspirantes seleccionados, en términos de la fracción anterior, resolv
 
 Al llevar a cabo su evaluación, el Jurado tomará en consideración los cursos y estudios que haya realizado el sustentante, la antigüedad en el Poder Judicial del Estado, el desempeño, el grado académico y los cursos de actualización y especialización que haya acreditado, en términos del reglamento que dicte el Consejo de la Judicatura. Cuando ningún sustentante alcance el puntaje mínimo requerido, el concurso se declarará desierto; y
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-IV. Concluidos los exámenes orales, se levantará un acta final y el presidente del Jurado declarará quienes son los concursantes que hubieren resultado aprobados y el medio de selección utilizado, e informará de inmediato al Consejo de la Judicatura para que expida los nombramientos respectivos y los publique en el Boletín Judicial del Estado.
+IV. Concluidos los exámenes orales públicos, se levantará un acta final y el presidente del Jurado declarará quienes son los concursantes que hubieren resultado aprobados y el medio de selección utilizado, e informará de inmediato al Consejo de la Judicatura para que expida los nombramientos respectivos y los publique en el Boletín Judicial del Estado.
 
 ###### Artículo 185.
 
@@ -2259,17 +2469,25 @@ I. Un miembro del Consejo de la Judicatura del Estado, quien lo presidirá;
 
 II. Un Magistrado del Supremo Tribunal de Justicia;
 
-III. Un Juez de Primera Instancia ratificado; y
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2007)</small>
+III. Un Juez de Primera Instancia reelecto;
 
-IV. El titular del Instituto de Formación y Actualización Judicial.
+> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
+IV. El titular de la Dirección de Formación y Actualización Judicial; y
 
-### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2007)</small>
+V. Un integrante del Comité de Participación Social del Sistema Estatal Anticorrupción, sólo como un observador del proceso, quien tendrá derecho a voz.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento de la presente Ley.
+
+### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 189.
 
@@ -2290,6 +2508,10 @@ II. La antigüedad en el Poder Judicial del Estado o la experiencia profesional;
 III. En su caso, el desempeño en el Poder Judicial de la Entidad; y
 
 IV. El grado académico que comprende el nivel de estudios con que cuente el servidor público así como los diversos cursos de actualización y especialización acreditados de manera fehaciente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Cuando transcurra más de un año a partir de la aprobación de la lista sin que se realicen las adscripciones y los nombramientos respectivos, quedará sin efecto y se mantendrán a salvo los derechos para participar en nuevos concursos de oposición de los que la integran.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2014)</small>
 
@@ -2313,27 +2535,39 @@ VII. La cantidad de resoluciones dictadas que resulten infundadas o notoriamente
 
 El valor de cada elemento se determinará en el reglamento respectivo y deberá constar en las resoluciones del Consejo de la Judicatura en que se acuerde un cambio de adscripción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 192.
 
-Para la ratificación de los jueces de primera instancia, el Consejo de la Judicatura tomará en consideración, de conformidad con el reglamento respectivo, los siguientes elementos:
+Para la reelección de los Jueces de Primera Instancia, el Consejo de la Judicatura, seis meses previos a la fecha de terminación del nombramiento iniciará un análisis cualitativo y cuantitativo respecto a su desempeño.
 
-I. El desempeño que se haya tenido en el ejercicio de su función;
+El documento que contenga el análisis señalará cuando menos:
 
-II. Los resultados de las visitas de inspección;
+I. El total de asuntos turnados al juzgado;
 
-III. El grado académico que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
+II. El total de asuntos resueltos por el juez;
 
-IV. No haber sido sancionado por falta grave, con motivo de una queja de carácter administrativa; y
+III. El total de acuerdos o sentencias revocadas en segunda instancia;
 
-V. Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación.
+IV. El total de acuerdos o sentencias revocadas por juicios de amparo;
 
-### CAPÍTULO I. DE LOS MAGISTRADOS Y CONSEJEROS
+V. El número de resoluciones dictadas dentro de los plazos que establecen las leyes;
 
-(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4., ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA REFORMA A ESTE ARTÍCULO EN LA PORCIÓN NORMATIVA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+VI. El número de quejas presentadas en contra del juez y el sentido de su resolución;
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
+VII. El número de procedimientos de responsabilidad administrativa iniciados y terminados en contra del juez y sus resoluciones; y
+
+VIII. El análisis de evolución patrimonial del Juez, que realice el Centro de Evaluación de Control de Confianza.
+
+Adicionalmente, el Consejo de la Judicatura deberá tomar en consideración el grado académico que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 192 A.- El Consejo de la Judicatura resolverá sobre la reelección o no reelección del juez a más tardar el día en que se verifique la terminación del nombramiento. De no resolverse en esa fecha, se entenderá que fue reelecto.
+
+### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2007)</small>
 
 ###### Artículo 193.
 
@@ -2363,13 +2597,39 @@ El Consejo de la Judicatura podrá concesionar a particulares, la edición y ven
 
 Para los efectos de la Ley de Prensa, el impresor será responsable de su actuación.
 
-## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES Y CONFLICTOS LABORALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS FUNCIONARIOS JUDICIALES
+## TÍTULO SÉPTIMO. DE LA PROBIDAD, LAS RESPONSABILIDADES Y LOS CONFLICTOS LABORALES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO I. DE LOS MAGISTRADOS, CONSEJEROS Y JUECES DE PRIMERA INSTANCIA
+
+(NOTA: EL 24 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.2., VIII.3. Y VIII.4., ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2016, DECLARÓ LA INVALIDEZ DE LA REFORMA A ESTE ARTÍCULO EN LA PORCIÓN NORMATIVA INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2016)</small>
 
 ###### Artículo 196.
 
 Los magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo, así como los miembros del Consejo General del Poder Judicial del Estado, sólo podrán ser privados de sus puestos en la forma y términos que determina la Constitución Política del Estado de Jalisco Y CUANDO SE ENCUENTREN PRIVADOS DE LA LIBERTAD CON MOTIVO DE UN PROCESO PENAL.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 196 A.- Las y los Magistrados del Supremo Tribunal de Justicia, así como las y los Jueces de Primera Instancia podrán ser sancionados por no aprobar las evaluaciones de control de confianza.
+
+Las sanciones que se podrán imponer son:
+
+I. Amonestación pública o privada;
+
+II. Multa hasta por el importe de diez mil Unidades de Medidas y Actualización;
+
+III. Suspensión sin goce de sueldo;
+
+IV. Separación del cargo; y
+
+V. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+Será motivo de separación la inasistencia injustificada en dos o más ocasiones, a la cita para la realización de las evaluaciones de control de confianza.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2377,11 +2637,35 @@ Los magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administra
 
 Los magistrados del Supremo Tribunal serán responsables al establecer o fijar la interpretación de los preceptos legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
 
-### CAPÍTULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
+### CAPÍTULO I BIS. DEL PROCEDIMIENTO DE PROBIDAD
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 197 A.- Son competentes para substanciar y resolver los procedimientos de probidad de las y los Jueces de Primera Instancia, la Comisión de Vigilancia del Consejo de la Judicatura y el Pleno de dicho órgano, respectivamente.
+
+En el caso de las y los Magistrados, serán competentes la Comisión de Ética y Probidad y el Pleno del Supremo Tribunal de Justicia, respectivamente. En caso de que este último determine la procedencia de la separación, dará vista al Congreso del Estado para que determine lo conducente, en términos de la Constitución Política del Estado de Jalisco.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+Artículo 197 B.- El procedimiento de probidad a que se refiere el presente Capítulo, se sujetará a las bases siguientes:
+
+I. El Director del Centro de Evaluación de Control de Confianza del Poder Judicial emitirá un dictamen en el que haga constar los citatorios realizados al Magistrado o Juez de Primera Instancia, en su caso, las inasistencias, así como los resultados de las evaluaciones de control de confianza, el cual remitirá al órgano competente de la sustanciación del procedimiento;
+
+II. El órgano sustanciador, en caso de existir elementos, radicará el procedimiento y notificará al Magistrado o Juez de Primera Instancia el inicio del procedimiento de probidad, y lo citará a la audiencia de pruebas y alegatos, corriéndole traslado;
+
+III. La audiencia de pruebas y alegatos se celebrará en un plazo no menor de diez ni mayor de quince días hábiles posteriores al emplazamiento, en la que se le otorgará derecho de audiencia y defensa, y podrá ofrecer las pruebas que estime convenientes así como alegar lo que a su derecho convenga. Sólo serán admisibles pruebas documentales, las cuales se desahogarán por su propia naturaleza. La inasistencia del Magistrado o Juez de Primera Instancia a la audiencia, no impedirá la celebración de la misma;
+
+IV. En la misma audiencia se estudiarán las pruebas ofertadas con la finalidad de admitirlas o desecharlas;
+
+V. Desahogada la audiencia, el órgano sustanciador elaborará un informe con las conclusiones del asunto, el cual deberá remitir al órgano resolutor dentro de los cinco días hábiles siguientes a la terminación de la misma;
+
+VI. Recibido el informe, el órgano resolutor dictará la resolución dentro de los treinta días hábiles siguientes; y
+
+VII. La resolución del procedimiento de probidad no admitirá recurso ni juicio alguno.
+
+### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS FUNCIONARIOS JUDICIALES
 
 ###### Artículo 198.
 
@@ -2523,9 +2807,7 @@ VI. Incumplir las instrucciones de sus superiores jerárquicos relacionadas con 
 
 VII. Retirarse de su área de trabajo sin autorización o causa justificada.
 
-### CAPÍTULO V. DEL PROCEDIMIENTO EN CONFLICTOS LABORALES
-
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
+### CAPÍTULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
 ###### Artículo 201.
 
@@ -2621,7 +2903,9 @@ Si el Pleno de los Tribunales correspondientes, el Consejo de la Judicatura o su
 
 Las resoluciones por las que el Pleno del Consejo de la Judicatura imponga sanciones administrativas consistentes en la destitución del cargo de Juez de Primera Instancia, Menor o de Paz, podrán ser impugnadas por el servidor público ante el Tribunal de Justicia Administrativa mediante el recurso de revisión administrativa.
 
-### CAPÍTULO I. DE LOS TRIBUNALES
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 207.
 
@@ -2669,7 +2953,9 @@ La nulidad del acto que se reclame no producirá la invalidez de las actuaciones
 
 La interposición de la revisión administrativa no interrumpirá en ningún caso, los efectos de la resolución impugnada.
 
-### CAPÍTULO II. DE LOS JUZGADOS
+### CAPÍTULO V. DEL PROCEDIMIENTO EN CONFLICTOS LABORALES
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2019)</small>
 
 ###### Artículo 214.
 
@@ -2725,7 +3011,7 @@ III. Otras en que quede sin materia el procedimiento administrativo iniciado.
 
 ## TÍTULO OCTAVO. DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO III. DE LOS PERITOS E INTÉRPRETES
+### CAPÍTULO I. DE LOS TRIBUNALES
 
 ###### Artículo 222.
 
@@ -2737,7 +3023,7 @@ II. Vigilar la conducta de los auxiliares de la administración de justicia en l
 
 III. Las demás que le asignen las leyes, el reglamento y el Pleno del Tribunal respectivo en el ámbito de su competencia.
 
-### CAPÍTULO IV. DE LOS SÍNDICOS DE CONCURSO
+### CAPÍTULO II. DE LOS JUZGADOS
 
 ###### Artículo 223.
 
@@ -2781,7 +3067,7 @@ Sólo en el caso de que no existiere lista de peritos en el arte o ciencia de qu
 
 Los auxiliares de justicia, en la prestación de sus servicios, devengarán honorarios de acuerdo a la ley o aranceles aplicables.
 
-### CAPÍTULO V. DE LOS ALBACEAS, INTERVENTORES, DEPOSITARIOS, TUTORES Y CURADORES
+### CAPÍTULO III. DE LOS PERITOS E INTÉRPRETES
 
 ###### Artículo 228.
 
@@ -2795,7 +3081,7 @@ Los peritajes que versen sobre materias relativas a una profesión, deberán enc
 
 En los casos de extrema pobreza, a criterio del juzgador, los servicios que presten los peritos se estimarán de asistencia social, por lo que se otorgarán gratuitamente.
 
-### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA
+### CAPÍTULO IV. DE LOS SÍNDICOS DE CONCURSO
 
 ###### Artículo 231.
 
@@ -2839,9 +3125,7 @@ Los daños y perjuicios que se ocasionaren por culpa o negligencia del Síndico 
 
 La garantía no podrá ser cancelada ni devuelta hasta transcurridos seis meses de la conclusión del cargo.
 
-### CAPÍTULO I. DEL HABER POR RETIRO DE LOS MAGISTRADOS DEL PODER JUDICIAL
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+### CAPÍTULO V. DE LOS ALBACEAS, INTERVENTORES, DEPOSITARIOS, TUTORES Y CURADORES
 
 ###### Artículo 237.
 
@@ -2853,9 +3137,7 @@ Quedan sujetos a las determinaciones de esta ley, su reglamento y las demás ley
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE JULIO DE 2019)</small>
 
-### CAPÍTULO II. DEL HABER POR RETIRO DE LOS JUECES DEL PODER JUDICIAL
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA
 
 ###### Artículo 238.
 
@@ -2901,107 +3183,73 @@ II. Exista jurisprudencia definida por parte del Poder Judicial de la Federació
 
 La Jurisprudencia de las Salas será interrumpida al dictarse una sentencia en contrario.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-## TÍTULO DÉCIMO. DEL HABER POR RETIRO DE LOS FUNCIONARIOS DEL PODER JUDICIAL
+## TÍTULO DÉCIMO. DE LA CONCLUSIÓN DEL SERVICIO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO I. DEL HABER POR RETIRO DE LOS MAGISTRADOS DEL PODER JUDICIAL
 
 ###### Artículo 241.
 
-Los magistrados del Poder Judicial tendrán derecho al haber por retiro, el cual consistirá en una prestación económica que, en una sola exhibición, será entregada al magistrado que se retire de manera forzosa o voluntaria de su cargo.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2013)</small>
-
-El haber por retiro no se otorgará en los casos en que el magistrado sea privado de su cargo en forma definitiva por sanción que dispongan la Constitución Política del Estado, la Ley Orgánica del Poder Judicial, la Ley de Responsabilidades de los Servidores Públicos o el Código Penal, todos del estado de Jalisco.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
-
-El Supremo Tribunal de Justicia deberá establecer en su proyecto de presupuesto de egreso los recursos necesarios para hacer frente al haber de retiro.
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2019)
 
 ###### Artículo 242.
 
-El haber por retiro estará constituido por:
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
-
-I. El equivalente a doce meses del salario integrado que el cargo de magistrado tenga asignado conforme al Presupuesto de Egresos del año que corresponda al pago de esta prestación, y
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
-
-II. El equivalente a catorce días de salario integrado bajo los términos de la fracción anterior, por cada año de servicios prestados como magistrado.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2017)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2019)
 
 ###### Artículo 243.
 
-El presidente del Supremo Tribunal de Justicia o quien ejerza sus funciones, a solicitud por escrito del interesado, procederán a formular el cálculo de la prestación que corresponda al magistrado por concepto de haber por retiro, además de sus prestaciones laborales, tomando en cuenta su permanencia en el cargo de magistrado y el último sueldo mensual integrado.
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2019)
 
 ###### Artículo 244.
 
-Determinada la cuantía del haber por retiro se procederá a su liquidación, para lo cual se deberá notificar al interesado el acuerdo en que se determine la cuantía del haber por retiro, señalando con precisión los trámites que deban cubrirse para obtener el pago de este emolumento.
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2019)
 
 ###### Artículo 245.
 
-Si una vez ingresada la solicitud de haber por retiro, falleciere el magistrado, esta prestación se deberá otorgar a sus beneficiarios, de conformidad con la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2019)
 
-(NOTA: EL 25 DE JUNIO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 26/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-EN CASO DE QUE EL FALLECIMIENTO HUBIERE OCURRIDO ANTES DE HABER INGRESADO LA SOLICITUD, LOS BENEFICIARIOS DEL MAGISTRADO NO TENDRÁN DERECHO DE RECLAMAR DICHA PRESTACIÓN.
+### CAPÍTULO II. DE LA CONCLUSIÓN DEL SERVICIO DE LOS JUECES
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 246.
 
-Los jueces del Poder Judicial tendrán derecho al haber por retiro, el cual consistirá en una prestación económica que en una sola exhibición será entregada al juez que se retire de manera forzosa o voluntaria de su cargo.
+Los Jueces que cumplan con los requisitos señalados en el artículo siguiente, tendrán derecho a una indemnización por conclusión de servicios, que consistirá en:
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2013)</small>
+I. El equivalente a seis meses del salario del sueldo mensual promedio que haya percibido el Juez en el último año del ejercicio de sus funciones; y
 
-El haber por retiro no se otorgará en los casos en que el juez sea privado de su cargo en forma definitiva por sanción que dispongan la Constitución Política del Estado, la Ley Orgánica del Poder Judicial, la Ley de Responsabilidades de los Servidores Públicos o el Código Penal, todos del estado de Jalisco.
+II. El equivalente a catorce días de salario del sueldo mensual promedio que haya percibido el Juez en el último año del ejercicio de sus funciones, por cada año de servicios prestados como Juez.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2013)</small>
-
-El Consejo de la Judicatura deberá establecer en su proyecto de presupuesto de egresos los recursos necesarios para hacer frente al haber de retiro.
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 247.
 
-El haber por retiro estará constituido por:
+Para tener derecho a la indemnización referida en el presente capítulo, el Juez deberá cumplir con los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+I. Haber cumplido sesenta y cinco años de edad o treinta años como servidor público que cotice en el Instituto de Pensiones del Estado de Jalisco;
 
-I. El equivalente a doce meses del salario integrado que el cargo de juez tenga asignado conforme al Presupuesto de Egresos del año que corresponda al pago de esta prestación, y
+II. Haber sido reelecto en dos ocasiones; y
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2013)</small>
+III. No haber sido sancionado por falta grave con motivo de un procedimiento de probidad o de responsabilidad administrativa.
 
-II. El equivalente a catorce días de salario integrado, bajo los términos de la fracción anterior, por cada año de servicios prestados como juez.
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 248.
 
-El Consejo de la Judicatura, a solicitud por escrito del interesado, procederá a formular el cálculo de la prestación que corresponda al juez por concepto de haber por retiro, además de sus prestaciones laborales, tomando en cuenta su permanencia en el cargo de juez y el último sueldo mensual integrado.
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2011)</small>
+La indemnización prevista en este capítulo será con cargo al presupuesto de egresos del Consejo de la Judicatura.
 
 ###### Artículo 249.
 
-Determinada la cuantía del haber por retiro se procederá a su liquidación, para lo cual el Consejo de la Judicatura deberá notificar al interesado el acuerdo en que se determine la cuantía del haber por retiro, señalando con precisión los trámites que deban cubrirse para obtener el pago de este emolumento.
-
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2013)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2019)
 
 ###### Artículo 250.
 
-Si una vez ingresada la solicitud de haber por retiro, falleciere el juez, esta prestación se deberá otorgar a sus beneficiarios, de conformidad con la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 8 DE OCTUBRE DE 2013)</small>
+(DEROGADO, P.O. 1 DE OCTUBRE DE 2019)
 
 ## TRANSITORIOS
 
@@ -3422,3 +3670,27 @@ P.O. 27 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27313/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL Y LA FRACCIÓN II DEL ARTÍCULO 60 DE LA LEY DE ATENCIÓN A VÍCTIMAS, AMBAS DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 1 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27391/LXII/19 QUE REFORMA LOS ARTÍCULOS 2°, 3°, 7°, 8° Y 11; SE ADICIONA AL TÍTULO I, EL CAPÍTULO III BIS BAJO LA DENOMINACIÓN “DEL SISTEMA DE EVALUACIÓN DE CONTROL DE CONFIANZA”; SE ADICIONAN LOS ARTÍCULOS 14 A, 14 B, 14 C, 14 D, 14 E, 14 F, 14 G, 14 H, 14 I, 20 A, 192 A, 196 A 197 A, Y 197 B; SE REFORMAN LOS ARTÍCULOS 17, 18, 19, 20, 23, 29, 34, 106, 110, 111, 138, 148, 181, 183, 184, 188, 190 Y 192; SE MODIFICA LA DENOMINACIÓN DEL TÍTULO SÉPTIMO PARA QUEDAR: “DE LA PROBIDAD, LAS RESPONSABILIDADES Y LOS CONFLICTOS LABORALES”; CAPÍTULO I DEL TÍTULO SÉPTIMO PARA QUEDAR: “DE LOS MAGISTRADOS, CONSEJEROS Y JUECES DE PRIMERA INSTANCIA”; SE ADICIONA EL CAPÍTULO I BIS DEL TÍTULO SÉPTIMO PARA QUEDAR: “DEL PROCEDIMIENTO DE PROBIDAD”; SE MODIFICA LA DENOMINACIÓN DEL TÍTULO DÉCIMO PARA QUEDAR: “DE LA CONCLUSIÓN DEL SERVICIO”; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO I PARA QUEDAR: “DE LA PENSIÓN TEMPORAL A LOS MAGISTRADOS DEL PODER JUDICIAL”; SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO DÉCIMO PARA QUEDAR: “DE LA CONCLUSIÓN DEL SERVICIO DE LOS JUECES”; SE REFORMAN LOS ARTÍCULOS 246, 247 Y 248; SE DEROGAN LOS ARTÍCULOS: 241, 242, 243, 244, 245, 249 Y 250, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Si a la fecha de la entrada en vigor del presente decreto existiere algún ciudadano que tenga una expectativa de derecho para ser sujeto a designación o adscripción de juzgado, le serán aplicables las evaluaciones de control y confianza en razón de no contar con un derecho adquirido en cuanto al desempeño como juez.
+
+TERCERO. Para la integración del Centro de Evaluación y Control de Confianza del Poder Judicial, el Supremo Tribunal de Justicia y el Consejo de la Judicatura llevarán a cabo las adecuaciones administrativas, materiales y financieras para su operación, aplicando los criterios de austeridad y haciendo uso de los recursos humanos y materiales existentes.
+
+CUARTO. El Pleno del Supremo Tribunal de Justicia deberá remitir la terna a que hacen alusión el artículo 14 C de la Ley Orgánica del Poder Judicial, al Congreso del Estado, en un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente decreto.
+
+El Congreso del Estado deberá nombrar al Director del Centro de Evaluación del Poder Judicial en un plazo máximo de treinta días naturales a partir de la recepción de la terna.
+
+QUINTO. La Comisión de Vigilancia del Centro de Evaluación de Control de Confianza del Poder Judicial deberá instalarse dentro de los treinta días naturales siguientes a la entrada en vigor del presente decreto.
+
+SEXTO. La Comisión de Vigilancia deberá elaborar la propuesta del reglamento interno del Centro de Evaluación de Control de Confianza dentro de los treinta días naturales siguientes a la fecha en que sea instalada, y deberá remitirlo al Pleno del Supremo Tribunal de Justicia, quien deberá aprobarlo dentro de los quince días naturales siguientes.
+
+SÉPTIMO. El Supremo Tribunal de Justicia deberá realizar las adecuaciones necesarias al Reglamento de la Ley Orgánica del Poder Judicial e integrar la Comisión de Ética y Probidad en un plazo de treinta días a partir de la entrada en vigor del presente decreto.
+
+OCTAVO. El Congreso del Estado de Jalisco tiene un plazo de 30 días naturales, a partir de la entrada en vigor del presente decreto, para emitir las disposiciones reglamentarias referidas en el artículo 20 A de la presente ley.
+
+NOVENO. Los jueces de primera instancia que hayan adquirido la inamovilidad en el empleo previo a la entrada en vigor del presente decreto, estarán exentos de cumplir la segunda reelección del cargo, prevista por la fracción II del artículo 247 de la ley.
