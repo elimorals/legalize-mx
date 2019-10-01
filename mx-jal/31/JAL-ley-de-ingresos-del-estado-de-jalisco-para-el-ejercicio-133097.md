@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-133097"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-22"
-last_updated: "2019-07-06"
+last_updated: "2019-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "JAL"
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE OCTUBRE DE 2019.]</small>
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el sábado 22 de diciembre de 2018.
 
@@ -3235,7 +3237,7 @@ IV. Tratándose de operaciones de intercambio de tasa de interés (swaps), simil
 
 Los organismos públicos descentralizados y/o Municipios que cuenten con el aval o respaldo financiero del Estado en operaciones de deuda pública podrán así mismo realizar la contratación de estos instrumentos derivados siempre que el proceso de adquisición sea conducido o coordinado por la Secretaría de Hacienda del Estado y tenga por objeto la cobertura de operaciones de crédito público contraídas con una autorización previa del Congreso del Estado.
 
-> <small>[N. DE E. VÉASE ANEXO EN LA SECCIÓN IX DEL P.O. DE 22 DE DICIEMBRE DE 2018, PÁGINA 73.]</small>
+> <small>[N. DE E. VÉASE ANEXOS EN LA SECCIÓN IX DEL P.O. DE 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 73 A LA 84 Y F. DE E., P.O. 1 DE OCTUBRE DE 2019.]</small>
 
 Salón de Sesiones del Congreso del Estado
 
