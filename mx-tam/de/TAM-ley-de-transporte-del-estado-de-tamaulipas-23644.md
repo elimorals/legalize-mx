@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2019-08-20"
+last_updated: "2019-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -611,9 +611,11 @@ III.- Recibir y canalizar ante las autoridades competentes, las quejas de la com
 
 IV.- Las demás que a juicio del Comité Municipal del Transporte cumplan con sus objetivos, siempre que no contravengan las disposiciones de esta ley y sus reglamentos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-## TÍTULO TERCERO. DEL SERVICIO PÚBLICO, SERVICIOS AUXILIARES Y DEL CONTRATO DE TRANSPORTE
+## TÍTULO TERCERO
+
+DEL SERVICIO PÚBLICO, SERVICIOS AUXILIARES, DEL CONTRATO DE TRANSPORTE Y DEL SERVICIO DE TRANSPORTE EJECUTIVO.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -807,13 +809,149 @@ El contrato de transporte no requerirá formalidad alguna y se regirá por las e
 
 Cualquier pacto contrario a lo dispuesto por esta ley, sus reglamentos o las normas técnicas que al respecto se expidan, será nulo de pleno derecho.
 
-### CAPÍTULO I. CONCESIONES Y PERMISOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO III. DEL SERVICIO DE TRANSPORTE EJECUTIVO
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 35 Bis.
+
+Se considerará Empresa de Redes de Transporte a las sociedades mercantiles nacionales o extranjeras que, basándose en el desarrollo de las tecnologías de los teléfonos inteligentes y los sistemas de posicionamiento global, medien el acuerdo entre usuarios y conductores privados prestadores del Servicio de Transporte Ejecutivo.
+
+También podrán ser consideradas como Empresas de Redes de Transporte aquellas sociedades mercantiles nacionales o extranjeras que, por virtud de acuerdos comerciales vigentes, promuevan el uso de tecnologías o aplicaciones tecnológicas, propias o de terceros que permitan a usuarios en el Estado acceder al Servicio de Transporte Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 35 Ter.
+
+Para realizar actividades de mediación, administración o promoción en el Estado, las Empresas de Redes de Transporte deberán registrarse ante la Secretaría General de Gobierno, para lo cual deberán presentar copia simple de la siguiente información:
+
+I.- Acta constitutiva de la sociedad;
+
+II.- Nombre e identificación del representante legal, así como poder donde consten sus facultades de representación de la Empresa de Redes de Transporte;
+
+III.- Domicilio, teléfono y correo electrónico del representante legal;
+
+IV.- Copia de su Registro Federal de Contribuyentes;
+
+V.- Nombre, abreviatura y en su caso derivaciones de la aplicación operada por la Empresa de Redes de Transporte o una empresa relacionada a la misma.
+
+La Secretaría registrará a las Empresas de Redes de Transporte que presenten la información completa dentro de los 10 días hábiles siguientes a la presentación de su solicitud. En caso que la solicitud estuviere incompleta, la Secretaría otorgará a la Empresa de Redes de Transporte un plazo improrrogable de 15 días para que subsane su incumplimiento. En caso contrario la solicitud se tendrá por no presentada y se desechará.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 35 Quáter.
+
+Los registros de las Empresas de Redes de Transporte tendrán una vigencia de cinco años, a la conclusión del cual las Empresas de Redes de Transporte deberán presentar una solicitud de renovación a más tardar un mes antes de la expiración de la vigencia. La solicitud de renovación deberá incluir una declaración respecto a la veracidad y actualización de la información presentada al momento de obtener el registro original o en caso que hubieren modificaciones notificar cualquier cambio a la información que hubieren presentado en su registro original.
+
+La Secretaría otorgará dicha prórroga o renovación siempre que la Empresa de Redes de Transporte presente su solicitud en forma completa y en el tiempo establecido para tal efecto. En caso que la solicitud estuviere incompleta, la Secretaría otorgará a la Empresa de Redes de Transporte los tiempos para subsanar dichos incumplimientos en los mismos términos previstos para la obtención del registro original.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 35 Quinquies.
+
+El registro de la Empresa de Redes de Transporte será personalísimo, intransferible, inalienable e inembargable y no generará derechos reales de ninguna clase a favor de la Empresa de Redes de Transporte, salvo los que sean consecuencia inmediata de su naturaleza conforme a la presente Ley. Los actos mediante los cuales pretendan gravarse o enajenarse los registros de las Empresas de Redes de Transporte serán nulos y no producirán efecto legal alguno.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 35 Sexies.
+
+Las Empresas de Redes de Transporte tendrán las siguientes obligaciones:
+
+I.- Tener una política clara de no discriminación de usuarios y conductores privados que utilicen la Plataforma.
+
+II.- Coadyuvar con las autoridades para la detención de probables responsables de la comisión de los ilícitos proporcionando oportunamente la información que le sea solicitada por escrito por la autoridad competente;
+
+III.- Determinar las pruebas y estudios que deban realizar los conductores privados para poder ofrecer servicios de Transporte Ejecutivo a través de la Plataforma en protección de la seguridad de los usuarios de la Plataforma; y
+
+IV.- En caso que el propietario del vehículo afecto al Servicio de Transporte Ejecutivo o el conductor privado prestador del Servicio de Transporte Ejecutivo participaren en un percance automovilístico durante la prestación del Servicio de Transporte Ejecutivo y no contaren con un seguro vigente que cubra lo relativo a la responsabilidad civil frente a los usuarios del servicio y terceros, la Empresa de Redes de Transporte será considerada obligada subsidiaria del mismo y responderá en los términos que establece la legislación aplicable, hasta por el monto de cobertura del seguro que debió haber contratado dicho conductor privado prestador del Servicio de Transporte Ejecutivo para tal riesgo.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 35 Septies.
+
+Para efectos de la presente Ley, se considerarán Plataformas a las aplicaciones descargables en teléfonos móviles o instrumentos electrónicos a través de las cuales se puedan descargar o recibir datos o comunicaciones de voz a través de la telefonía celular o internet.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 35 Octies.
+
+Para proteger la seguridad de los usuarios del Servicio de Transporte Ejecutivo, las Plataformas permitirán al usuario conocer la identidad del conductor privado y datos del vehículo previo a abordar el mismo. El conductor privado también tendrá acceso al nombre de la persona que abordará el vehículo. Además, la Plataforma dará a los usuarios la opción de planificar las rutas automáticamente y dará a conocer en tiempo real la disponibilidad del servicio y estimados de tiempo para los trayectos.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 35 Nonies.
+
+Las Plataformas facilitarán los sistemas de evaluación y retroalimentación entre usuarios y conductores que utilicen la misma para contratar el Servicio de Transporte Ejecutivo. Los usuarios podrán calificar a los conductores privados que les ofrezcan el Servicio de Transporte Ejecutivo y los conductores privados podrán a su vez calificar a los usuarios que contraten dicho servicio. Para fomentar la calidad del servicio ambas partes podrán conocer la calificación de la otra parte previo a la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 35 Decies.
+
+El Servicio de Transporte Ejecutivo es aquél servicio de transporte privado que se basa en el desarrollo de tecnologías inteligentes, sistemas de posicionamiento global y Plataformas tecnológicas independientes que permiten conectar a usuarios que demandan un servicio de transporte privado de punto a punto con conductores privados que ofrecen dicho servicio en vehículos particulares.
+
+Dicho servicio no requerirá permisos, concesiones o autorización alguna, ni tampoco estará sujeto a tarifas, itinerarios, frecuencias de paso u horarios fijos. Cada Empresa de Redes de Transporte o sus empresas relacionadas podrá determinar en forma individual sus tarifas, así como el número de vehículos y conductores privados que puedan registrarse en su Plataforma o en la Plataforma de una empresa relacionada para prestar el Servicio de Transporte Ejecutivo.
+
+El Servicio de Transporte Ejecutivo se regirá única y exclusivamente por lo dispuesto en el presente Capítulo Tercero, sin que resulte aplicable ninguna otra disposición contenida en la presente Ley o sus Reglamentos.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 35 Undecies.- El Servicio de Transporte Ejecutivo se prestará únicamente a usuarios previamente registrados en la Plataforma que lo soliciten a través de la misma, por lo que queda estrictamente prohibido a los conductores privados hacer bases, aceptar paradas en la calle u ofertar de manera directa en la vía pública sus servicios.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 35 Duodecies.- Cada Empresa de Redes de Transporte determinará los métodos de pago que podrán ser utilizados por los usuarios de la Plataforma. Los usuarios tendrán derecho a seleccionar anticipadamente entre diversos métodos de pago para elegir el que más se adecue a sus necesidades.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 35 Terdecies.- Los usuarios podrán conocer el costo aproximado del viaje previo a aceptar el mismo. Cualquier modificación o variación en el destino o trayecto por el usuario durante el recorrido, tendrá como consecuencia una modificación en la tarifa cotizada por la Plataforma tecnológica. Al finalizar el viaje los usuarios deberán recibir por correo electrónico un recibo del viaje y podrán solicitar se les envíe a la dirección de correo electrónico una factura fiscal por el Servicio de Transporte Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 35 Quaterdecies.- Los conductores privados que deseen prestar el Servicio de Transporte Ejecutivo contratado a través de una plataforma tecnológica deberán cumplir por lo menos con los siguientes requisitos:
+
+I.- Contar mínimo con licencia de automovilista para conducir vehículos particulares Tipo A o cualquiera que la sustituya o su equivalente en otros estados del país;
+
+II.- Registrarse ante una Empresa de Redes de Transporte que a su vez esté registrada ante la Secretaría; y
+
+III.- Tomar los cursos, capacitaciones, exámenes de capacidad o psicométricos que establezca la Empresa de Redes de Transporte como condición para registrarse o permanecer registrado en su Plataforma o la Plataforma de su empresa relacionada.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 35 Quindecies.- Los vehículos particulares que se utilicen para prestar el Servicio de Transporte Ejecutivo no estarán sujetos a concesión o permiso, podrán o no ser propiedad de los conductores privados y deberán cumplir con los siguientes requisitos mínimos:
+
+I.- Tener cuatro puertas, aire acondicionado, cinturones de seguridad para todos los pasajeros y bolsas de aire delanteras;
+
+II.- Operar por un plazo de máximo 10 años a partir de su registro en la plataforma, prorrogable en dos ocasiones por 1 año adicional cada una, siempre que a criterio de la Empresa de Redes de Transporte ante la cual estén registrados cumplan con las condiciones físicas y mecánicas idóneas para la prestación del Servicio de Transporte Ejecutivo; y
+
+III.- Estar al corriente en el pago de sus obligaciones fiscales y cumplir con las demás disposiciones de carácter legal o administrativo que le resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 35 Sexdecies.- Cuando los vehículos afectos al Servicio de Transporte Ejecutivo se encuentren prestando dicho servicio, deberán portar lo siguiente:
+
+I.- Placas de circulación, engomados y hologramas de automóvil particular de manera visible;
+
+II.- Tarjeta de circulación; y
+
+III.- Copia de la póliza de seguro de cobertura vigente que cubra a todos los ocupantes del vehículo.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 35 Septendecies.- Las Empresas de Redes de Transporte o sus empresas relacionadas que recaben datos personales a través de las Plataformas tecnológicas, deberán publicar su aviso de privacidad detallando la información que recaben y el uso y tratamiento que se da a la información recabada. De igual forma, se otorgará al usuario la opción de excluir su correo de los mensajes promocionales que envíen las Empresas de Redes de Transporte o empresas relacionadas.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 35 Octodecies.- Las Empresas de Redes de Transporte o sus empresas relacionadas, deberán tomar las medidas de seguridad necesarias para proteger la información que recaben de los usuarios del Servicio de Transporte Ejecutivo a través de su Plataforma para prevenir filtraciones o un acceso indebido por terceros a dicha información.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 35 Novodecies.- Las Empresas de Redes de Transporte estarán obligadas a cumplir con sus obligaciones en materia de privacidad y protección de datos conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares.
 
 ## TÍTULO CUARTO
 
-### CAPÍTULO II. DE LA DURACIÓN DE LAS CONCESIONES Y PERMISOS
+### CAPÍTULO I. CONCESIONES Y PERMISOS
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -887,7 +1025,7 @@ Las concesiones y los permisos serán otorgados en el mismo orden en que sean so
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO III. DE LA ENAJENACIÓN DE LAS CONCESIONES Y PERMISOS
+### CAPÍTULO II. DE LA DURACIÓN DE LAS CONCESIONES Y PERMISOS
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -917,7 +1055,7 @@ Si la solicitud es presentada en tiempo y forma, la Secretaría tendrá como má
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO I. DERECHOS DE LOS USUARIOS
+### CAPÍTULO III. DE LA ENAJENACIÓN DE LAS CONCESIONES Y PERMISOS
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -1059,7 +1197,9 @@ Si la solicitud es presentada en tiempo y forma, el Poder Ejecutivo tendrá como
 
 ## TÍTULO QUINTO. DERECHOS Y OBLIGACIONES
 
-### CAPÍTULO II. DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS SERVICIOS AUXILIARES
+### CAPÍTULO I. DERECHOS DE LOS USUARIOS
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 53.
 
@@ -1125,9 +1265,7 @@ La Secretaría, en los casos que estime conveniente, para vigilar el respeto de 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO I. SERVICIOS Y EQUIPAMIENTOS AUXILIARES
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO II. DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS SERVICIOS AUXILIARES
 
 ###### ARTÍCULO 59.
 
@@ -1279,7 +1417,7 @@ No será causa de liberación de responsabilidad para los prestadores del servic
 
 ## TÍTULO SEXTO. INFRAESTRUCTURA AUXILIAR, FUNCIONAMIENTO Y CONTROL DEL SERVICIO
 
-### CAPÍTULO II. OPERACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS SERVICIOS AUXILIARES
+### CAPÍTULO I. SERVICIOS Y EQUIPAMIENTOS AUXILIARES
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -1341,7 +1479,7 @@ La ubicación, cambios, supresiones y mantenimiento de los servicios y equipamie
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO III. INSPECCIÓN Y VIGILANCIA DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS SERVICIOS AUXILIARES
+### CAPÍTULO II. OPERACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS SERVICIOS AUXILIARES
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -1411,9 +1549,9 @@ Las relaciones de trabajo que se originen por la explotación de una concesión 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO IV. LICENCIAS Y DOCUMENTOS DE IDENTIFICACIÓN VEHICULAR
+### CAPÍTULO III. INSPECCIÓN Y VIGILANCIA DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS SERVICIOS AUXILIARES
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 78.
 
@@ -1535,7 +1673,9 @@ Al momento de realizarse la visita, los visitados podrán formular las observaci
 
 A fin de llevar a cabo las visitas de inspección y verificación, la Secretaría podrá solicitar el auxilio de otras autoridades competentes para que se pueda efectuar la diligencia y en su oportunidad concluir con la misma, o en su caso, requerirles los informes o documentos que sean necesarios para el objeto de la inspección.
 
-### CAPÍTULO V. VEHÍCULOS, REVISIÓN MECÁNICA Y VERIFICACIÓN DE EMISIÓN DE GASES CONTAMINANTES
+### CAPÍTULO IV. LICENCIAS Y DOCUMENTOS DE IDENTIFICACIÓN VEHICULAR
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 88.
 
@@ -1569,43 +1709,7 @@ Para utilizar un vehículo en la prestación del servicio público de transporte
 
 En ningún caso se expedirán las placas sin la constancia de la Secretaría que acredite que el concesionario o permisionario y el vehículo han cumplido con todos los requisitos señalados en esta ley y en sus reglamentos.
 
-### CAPÍTULO VI. DE LAS ACCIONES DE INSPECCIÓN Y VIGILANCIA PARA LA PREVENCIÓN DE DELITOS
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
-
-ARTÍCULO 95 BIS.- La Secretaría de Seguridad Pública podrá llevar a cabo, en cualquier momento, acciones y operativos de inspección y vigilancia para la prevención de los delitos, ya sea en los domicilios de los prestadores del servicio público de transporte y de los servicios auxiliares, establecimientos, rutas, bases de servicio, terminales, cierres de circuito, centros de transferencia modal, en el lugar donde se encuentren prestando el servicio o en las propias oficinas de la Secretaría de Seguridad Pública.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
-
-ARTÍCULO 95 TER.- Los operativos de inspección y vigilancia para la prevención del delito, tendrán los siguientes objetivos:
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
-
-I.- Verificar la legítima propiedad o la posesión legal de la unidad que preste el servicio público de transporte y los servicios auxiliares de arrastre o traslado y salvamento, así como las bases de servicio, terminales y encierros, particularmente para evitar que tengan reporte de robo o que cuenten con partes o accesorios denunciados como robados;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
-
-II.- Verificar que el vehículo que preste el servicio público de transporte, los servicios auxiliares de arrastre o traslado y salvamento, las bases de servicio, terminales y encierros, no se utilicen para la comisión de delitos;
-
-III.- Verificar que el vehículo cuente con la documentación inherente a su circulación legal, como son la tarjeta y placas de circulación vigentes o, en su defecto, la autorización de la autoridad competente para circular;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
-
-IV.- Verificar que (sic) las placas y la documentación al amparo de las cuales se preste el servicio público de transporte y los servicios auxiliares de arrastre o traslado y salvamento, así como la veracidad de la información y los datos proporcionados a la Secretaría;
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
-
-V.- Verificar que las unidades con la (sic) que se preste el servicio público de transporte y los servicios auxiliares de arrastre o traslado y salvamento, correspondan físicamente a las debidamente autorizadas por el Poder Ejecutivo; y
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
-
-VI.- Verificar que las placas y la documentación al amparo de las cuales se preste el servicio público de transporte y los servicios auxiliares de arrastre o traslado y salvamento, se encuentren debidamente actualizadas, conforme a la presente ley.
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
-
-ARTÍCULO 95 QUATER.- Cuando en las acciones o los operativos de inspección y vigilancia, se detecte que una persona o unidad se encuentre en el supuesto de incumplir con la normatividad aplicable a la luz de cualquiera de las verificaciones previstas en el artículo anterior, se aplicarán las sanciones establecidas en la presente ley, sin perjuicio de las causas de remisión de las unidades a los depósitos vehiculares, la revocación de la concesión o permiso, y la responsabilidad civil o penal que resulten de los mismos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO V. VEHÍCULOS, REVISIÓN MECÁNICA Y VERIFICACIÓN DE EMISIÓN DE GASES CONTAMINANTES
 
 ###### ARTÍCULO 91.
 
@@ -1727,9 +1831,43 @@ La acreditación de la revista mecánica y documental se hará de la manera que 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2012)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VI. DE LAS ACCIONES DE INSPECCIÓN Y VIGILANCIA PARA LA PREVENCIÓN DE DELITOS
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+ARTÍCULO 95 BIS.- La Secretaría de Seguridad Pública podrá llevar a cabo, en cualquier momento, acciones y operativos de inspección y vigilancia para la prevención de los delitos, ya sea en los domicilios de los prestadores del servicio público de transporte y de los servicios auxiliares, establecimientos, rutas, bases de servicio, terminales, cierres de circuito, centros de transferencia modal, en el lugar donde se encuentren prestando el servicio o en las propias oficinas de la Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 95 TER.- Los operativos de inspección y vigilancia para la prevención del delito, tendrán los siguientes objetivos:
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+I.- Verificar la legítima propiedad o la posesión legal de la unidad que preste el servicio público de transporte y los servicios auxiliares de arrastre o traslado y salvamento, así como las bases de servicio, terminales y encierros, particularmente para evitar que tengan reporte de robo o que cuenten con partes o accesorios denunciados como robados;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+II.- Verificar que el vehículo que preste el servicio público de transporte, los servicios auxiliares de arrastre o traslado y salvamento, las bases de servicio, terminales y encierros, no se utilicen para la comisión de delitos;
+
+III.- Verificar que el vehículo cuente con la documentación inherente a su circulación legal, como son la tarjeta y placas de circulación vigentes o, en su defecto, la autorización de la autoridad competente para circular;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+IV.- Verificar que (sic) las placas y la documentación al amparo de las cuales se preste el servicio público de transporte y los servicios auxiliares de arrastre o traslado y salvamento, así como la veracidad de la información y los datos proporcionados a la Secretaría;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+V.- Verificar que las unidades con la (sic) que se preste el servicio público de transporte y los servicios auxiliares de arrastre o traslado y salvamento, correspondan físicamente a las debidamente autorizadas por el Poder Ejecutivo; y
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+
+VI.- Verificar que las placas y la documentación al amparo de las cuales se preste el servicio público de transporte y los servicios auxiliares de arrastre o traslado y salvamento, se encuentren debidamente actualizadas, conforme a la presente ley.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2012)</small>
+
+ARTÍCULO 95 QUATER.- Cuando en las acciones o los operativos de inspección y vigilancia, se detecte que una persona o unidad se encuentre en el supuesto de incumplir con la normatividad aplicable a la luz de cualquiera de las verificaciones previstas en el artículo anterior, se aplicarán las sanciones establecidas en la presente ley, sin perjuicio de las causas de remisión de las unidades a los depósitos vehiculares, la revocación de la concesión o permiso, y la responsabilidad civil o penal que resulten de los mismos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ## TÍTULO SÉPTIMO. DE LA CONTRAPRESTACIÓN Y DE LA TARIFA DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS SERVICIOS AUXILIARES
 
@@ -1847,7 +1985,7 @@ Los lineamientos y procedimientos que regirán al Registro Estatal se establecer
 
 ## TÍTULO NOVENO. DE LA REQUISA DE LOS BIENES Y SERVICIOS AFECTOS A LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE Y A LOS SERVICIOS AUXILIARES
 
-### CAPÍTULO I. DE LA SUSPENSIÓN DE LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS SERVICIOS AUXILIARES
+### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -1931,7 +2069,9 @@ Sólo será responsable el administrador de la requisa de daños o perjuicios qu
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO II. DE LAS CAUSAS DE EXTINCIÓN DE LAS CONCESIONES Y PERMISOS
+### CAPÍTULO I. DE LA SUSPENSIÓN DE LA PRESTACIÓN DEL SERVICIO PÚBLICO DE TRANSPORTE Y DE LOS SERVICIOS AUXILIARES
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 112.
 
@@ -1977,9 +2117,7 @@ Salvo la excepción antes señalada, en los demás casos de suspensión, como me
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-### CAPÍTULO I. INFRACCIONES Y SANCIONES
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
+### CAPÍTULO II. DE LAS CAUSAS DE EXTINCIÓN DE LAS CONCESIONES Y PERMISOS
 
 ###### ARTÍCULO 115.
 
@@ -2103,9 +2241,9 @@ La suspensión o extinción de los derechos derivados de las concesiones o los p
 
 ## TÍTULO DÉCIMO PRIMERO. INFRACCIONES, SANCIONES Y PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA SUSPENSIÓN Y REVOCACIÓN DE LAS CONCESIONES Y PERMISOS Y PARA LA APLICACIÓN DE SANCIONES
+### CAPÍTULO I. INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 119.
 
@@ -2299,7 +2437,7 @@ Cualquier autoridad que tenga conocimiento de violaciones o infracciones a la pr
 
 Cuando por la naturaleza de la infracción se afecte la prestación del servicio público de transporte o de los servicios auxiliares en perjuicio de los usuarios, la Secretaría podrá tomar las medidas necesarias para normalizar la prestación de ese servicio.
 
-### CAPÍTULO III. RECURSO DE REVOCACIÓN
+### CAPÍTULO II. DEL PROCEDIMIENTO ADMINISTRATIVO PARA LA SUSPENSIÓN Y REVOCACIÓN DE LAS CONCESIONES Y PERMISOS Y PARA LA APLICACIÓN DE SANCIONES
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -2357,7 +2495,7 @@ El Poder Ejecutivo se reserva el derecho de rescatar las concesiones o los permi
 
 Decretada la suspensión o extinción de los derechos derivados de las concesiones o los permisos, el concesionario o permisionario deberá entregar el título o documento en que conste al Poder Ejecutivo.
 
-### CAPÍTULO IV. RECURSO DE RECONSIDERACIÓN
+### CAPÍTULO III. RECURSO DE REVOCACIÓN
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -2383,9 +2521,9 @@ Las notificaciones se harán por cédula, que se fijará en los estrados de las 
 
 Concluido el plazo para desahogar pruebas, la Secretaría emitirá resolución dentro de los cinco días hábiles siguientes, por la cual confirme, modifique o revoque la resolución impugnada.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. RECURSO DE RECONSIDERACIÓN
 
-> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 133.
 
@@ -2412,6 +2550,10 @@ Concluido el término para alegar, la Secretaría, dentro de los cinco días há
 ## TÍTULO DÉCIMO SEGUNDO. DEL SISTEMA EMPRESARIAL
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MAYO DE 2015)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
 
 ###### ARTÍCULO 135.
 
@@ -2578,3 +2720,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-1018 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
