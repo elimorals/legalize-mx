@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-consejo-federal-para-la-mejora-47146"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-23"
-last_updated: "2015-11-17"
+last_updated: "2019-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47146&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2005-12-15"
 ---
 # REGLAMENTO INTERNO DEL CONSEJO FEDERAL PARA LA MEJORA REGULATORIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL CONSEJO NACIONAL DE MEJORA REGULATORIA, PUBLICADO EN EL D.O.F. DE 1 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DEL CONSEJO FEDERAL PARA LA MEJORA REGULATORIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2019 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 23 de diciembre de 2005.
 
@@ -232,3 +234,11 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 D.O.F. 17 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO NACIONAL DE MEJORA REGULATORIA, POR EL QUE SE APRUEBA EL REGLAMENTO INTERIOR DEL CONSEJO NACIONAL DE MEJORA REGULATORIA”.]
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interno del Consejo Federal para la Mejora Regulatoria, publicado en el Diario Oficial de la Federación el 23 de diciembre de 2005, y modificado por Acuerdos publicados el 17 de agosto de 2006 y el 17 de noviembre de 2015 en el referido medio oficial de difusión.
