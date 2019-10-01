@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-social-54100"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-01-16"
-last_updated: "2018-12-25"
+last_updated: "2019-10-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA PROCURADURIA SOCIAL
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 1 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-[NOTA 2: DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO NÚMERO 27218/LXII/18, PUBLICADO EN EL P.O. 6 DE DICIEMBRE DE 2018, TODAS LAS ATRIBUCIONES PREVISTAS EN CUALQUIER ORDENAMIENTO QUE REFIERA O VINCULE A LA PROCURADURÍA SOCIAL, RELATIVAS A LAS VISITAS A LAS NOTARÍAS PÚBLICAS, A LA ENTRADA EN VIGOR DEL PRESENTE, SE ENTENDERÁN REFERIDAS Y CONFERIDAS A LA SECRETARÍA GENERAL DE GOBIERNO".]
+LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL DEL ESTADO DE JALISCO
 
-LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 25 DE DICIEMBRE DE 2018 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 27218/LXII/18 PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 16 de enero de 2007.
 
@@ -1024,3 +1020,15 @@ CUARTO. Todas las atribuciones previstas en cualquier ordenamiento que refiera o
 QUINTO. Las órdenes emitidas para practicar visitas de inspección a notarías públicas, así como las visitas en práctica que hasta antes de la entrada en vigor del presente decreto estaban siendo substanciadas por la Procuraduría Social, continuarán siendo desahogadas por la Secretaría General de Gobierno hasta su conclusión.
 
 Por su parte, los procedimientos de queja, así como cualquier trámite procedimiento vinculado a la función notarial, que hasta antes de la entrada en vigor del presente Decreto estaban siendo substanciados por la Secretaría General de Gobierno, continuarán siendo tramitados por dicha Secretaría; y los trámites y procedimientos vinculados a la función notarial que den inicio de forma posterior a la entrada en vigor del presente decreto serán substanciados por la Consejería Jurídica del Poder Ejecutivo del Estado hasta su conclusión.
+
+P.O. 1 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27357/LXII/19 QUE EXPIDE LA LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se abroga la Ley Orgánica de la Procuraduría Social del Estado de Jalisco expedida mediante decreto 21752, así como sus posteriores reformas.
+
+TERCERO. A partir de la entrada en vigor del presente decreto, en las leyes y ordenamientos jurídicos, se debe entender indistintamente a la defensoría de oficio como defensoría pública y a los defensores de oficio como defensores públicos.
+
+CUARTO. Se autoriza al Titular del Poder Ejecutivo del Estado, a través de las Secretarías de Administración y de la Hacienda Pública, a realizar las adecuaciones administrativas y presupuestales necesarias para el cumplimiento del presente decreto.
