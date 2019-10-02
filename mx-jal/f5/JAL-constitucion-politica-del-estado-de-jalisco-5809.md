@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2019-09-10"
+last_updated: "2019-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -3123,6 +3123,62 @@ Si transcurriere un mes después de que se compruebe que ha sido recibido el pro
 
 Las reformas y adiciones a esta Constitución podrán ser sometidas a referéndum derogatorio, parcial o total, en los términos que esta Constitución y las leyes establezcan para las reformas, adiciones y creación de leyes que expida el Congreso, siempre y cuando, además de los requisitos ya establecidos por esta Constitución, los ciudadanos solicitantes radiquen en cuando menos la mitad más uno de los municipios del Estado.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2019)</small>
+
+###### Art. 117 Bis.
+
+Para crear una nueva Constitución, será necesaria la conformación de un Congreso Constituyente que se sujetará a las siguientes bases:
+
+I. Podrán solicitar la convocatoria para el Congreso Constituyente:
+
+a) El Gobernador del Estado, más el 5% del listado nominal en las dos terceras partes de los municipios de la entidad;
+
+b) Los Ayuntamientos que integren al menos las dos terceras partes de la totalidad de la entidad, más el 5% del listado nominal;
+
+c) Los ciudadanos, siempre que representen el ocho por ciento de la lista nominal de electores, distribuidos en por lo menos ochenta y cuatro municipios.
+
+II. Al Congreso del Estado le corresponderá aprobar la convocatoria, mediante la votación de dos terceras partes de los integrantes de la legislatura.
+
+La convocatoria deberá establecer las bases, requisitos y métodos de elección para el Congreso Constituyente.
+
+III. El Congreso Constituyente deberá considerar la más amplia participación ciudadana, garantizando la inclusión de los pueblos originarios, jaliscienses residentes en el extranjero, libre de toda discriminación y respetando en todo momento la perspectiva de género.
+
+IV. El Congreso Constituyente se integrará por:
+
+a) Diez representantes designados por el Congreso del Estado de Jalisco, de la legislatura en turno;
+
+b) Diez representantes designados por el Poder Ejecutivo;
+
+c) Diez representantes designados por el Poder Judicial;
+
+d) Cuatro representantes de los pueblos originarios del Estado de Jalisco;
+
+e) Cuatro representantes de la comunidad jalisciense radicada en el extranjero;
+
+f) Cuatro representantes por cada uno de los distritos electorales uninominales en el Estado de Jalisco, elegidos bajo el principio de mayoría relativa y veinte representantes bajo el principio de representación proporcional; atendiendo el principio de paridad de género.
+
+Los representantes electos en términos de los incisos e) y f), deberán cubrir los mismos requisitos que la presente Constitución establece para ser diputado del Congreso estatal.
+
+El cargo de diputado del Congreso Constituyente será honorífico.
+
+V. La elección de los representantes de cada uno de los distritos electorales uninominales, será organizada por la autoridad electoral, siendo aplicable la normativa de la materia;
+
+VI. El Congreso del Estado emitirá la normatividad reglamentaria para la elección, instauración, organización y funcionamiento del Congreso Constituyente, mediante consultas de parlamento abierto; en dicha normatividad deberá considerarse al menos mesas públicas de consulta social y ciudadana mediante formato previsto en dicha normatividad;
+
+VII. A partir de su instauración, el Congreso Constituyente tendrá un plazo de hasta 12 meses para aprobar el dictamen de la nueva Constitución.
+
+El Congreso Constituyente actuará conforme a los principios de soberanía, eficacia y transparencia que señalan los artículos 39, 40, 41 y 134 de la Constitución Política de los Estados Unidos Mexicanos.
+
+El Congreso Constituyente, al término de sus sesiones, presentará el resultado de sus trabajos al Congreso del Estado, con su respectivo diario de los debates, para ser sometido a la aprobación de las dos terceras partes de los diputados que integren la Legislatura y, de aprobarse, se enviará a los ayuntamientos del Estado para su aprobación; si del cómputo efectuado por el Congreso resultare que la mayoría de los ayuntamientos lo aprueban, se realizará la declaratoria del nuevo texto constitucional y se remitirá al Poder Ejecutivo para su publicación.
+
+El Congreso del Estado si lo juzga conveniente podrá hacer observaciones por una sola ocasión al dictamen de nueva Constitución remitido por el Congreso Constituyente, las cuales serán enviadas a éste para su nueva discusión, y que versará únicamente sobre las observaciones realizadas, sin poder alterarse en manera alguna los artículos no observados.
+
+El Congreso Constituyente, una vez llevada a cabo la discusión de las observaciones remitidas enviará la resolución de las mismas al Congreso del Estado para ser sometido a la aprobación de las dos terceras partes de los diputados que integren la Legislatura y de aprobarse se enviará a los ayuntamientos del Estado para su aprobación; si del cómputo efectuado por el Congreso resultare que la mayoría de los ayuntamientos lo aprueban, se realizará la declaratoria del nuevo texto constitucional y se remitirá al Poder Ejecutivo para su publicación.
+
+Si transcurriere un mes después de que se compruebe que ha sido recibido el proyecto de que se trata, sin que los ayuntamientos remitieren al Congreso el resultado de la votación, se entenderá que aceptan el nuevo texto constitucional.
+
+VIII. El Congreso Constituyente contará con un Consejo Técnico-Académico, que será un órgano de asesoría y de apoyo consultivo para los constituyentes, nombrado de conformidad a la normatividad reglamentaria del Constituyente.
+
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1997)</small>
 
 ###### Art. 118.
@@ -4088,3 +4144,11 @@ SEXTO. Para efectos de cumplir con el último párrafo de los artículos 60 y 66
 SÉPTIMO. El órgano a que se refiere el artículo 56 y 65 del presente decreto, deberá estar certificado en sus procesos de evaluación por organismos debidamente acreditados y reconocidos.
 
 OCTAVO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 2 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 27380/LXII/19 QUE ADICIONA UN ARTÍCULO 117 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO, ASÍ COMO EL ACUERDO LEGISLATIVO 30-LXII-19 POR EL QUE SE DECLARA APROBADA DICHA REFORMA CONSTITUCIONAL".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Congreso del Estado, deberá en un plazo de noventa días, a partir de la entrada en vigor del presente decreto, expedir la normatividad reglamentaria del artículo 117 Bis.
