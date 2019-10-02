@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2019-09-27"
+last_updated: "2019-10-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -411,25 +411,27 @@ II. Transformar los modelos socioculturales de conducta de mujeres y hombres, a 
 
 III. Educar y capacitar en materia de derechos humanos de las mujeres, al personal encargado de la procuración e impartición de justicia, policías y demás servidores públicos encargados de las políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-IV. Brindar servicios especializados y gratuitos para la atención y protección a las víctimas de delitos, por medio de las autoridades y las instituciones públicas, privadas o sociales;
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2019)</small>
 
-V. Fomentar y apoyar programas de educación pública y privada, destinados a concienciar a la sociedad sobre las causas y consecuencias de la violencia contra las mujeres;
+IV. Fomentar la eliminación de la discriminación y violencia contra las mujeres por razón de sus preferencias sexuales;
 
-VI. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
+V. Brindar servicios especializados y gratuitos para la atención y protección a las víctimas de delitos, por medio de las autoridades y las instituciones públicas, privadas o sociales;
 
-VII. Promover en los medios de comunicación la erradicación de todos los tipos de violencia contra la mujer y fortalecer el respeto a los derechos humanos, su dignidad e integridad.
+VI. Fomentar y apoyar programas de educación pública y privada, destinados a concienciar a la sociedad sobre las causas y consecuencias de la violencia contra las mujeres;
 
-VIII. Propiciar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+VIII. Promover en los medios de comunicación la erradicación de todos los tipos de violencia contra la mujer y fortalecer el respeto a los derechos humanos, su dignidad e integridad.
 
-IX. Publicar trimestralmente la información general y estadística sobre los casos de violencia contra las mujeres, para integrar el Banco Estatal y Nacional de Datos e Información sobre Casos Y Delitos de violencia contra las Mujeres;
+XI (SIC). Propiciar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
-X. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
+X. Publicar trimestralmente la información general y estadística sobre los casos de violencia contra las mujeres, para integrar el Banco Estatal y Nacional de Datos e Información sobre Casos Y Delitos de violencia contra las Mujeres;
 
-XI. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones, para garantizar su seguridad y su integridad; y
+XI. Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
 
-XII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanos de las mujeres, mismo que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
+XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones, para garantizar su seguridad y su integridad; y
+
+XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanos de las mujeres, mismo que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
 
 ###### Artículo 29.
 
@@ -1186,5 +1188,11 @@ P.O. 5 DE JUNIO DE 2019.
 P.O. 27 DE SEPTIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 160. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN VIII, Y POR ADICIÓN DE UNA FRACCIÓN IX, DEL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 2 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 158. SE ADICIONA LA FRACCIÓN IV, RECORRIÉNDOSE LAS ACTUALES FRACCIONES IV A XII PARA SER LAS NUEVAS FRACCIONES V A XIII, RESPECTIVAMENTE, DEL ARTÍCULO 28 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
