@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2019-03-21"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -655,9 +655,17 @@ Cuando en las actas del estado civil de las personas se adviertan alteraciones, 
 
 En caso de que se presuma la existencia de falsificación de las actas del estado civil de las personas, por ningún motivo se expedirán copias certificadas de éstas, y se procederá a presentar denuncia ante el Ministerio Público, sin perjuicio de las responsabilidades que señalen las leyes aplicables.
 
-Las copias certificadas del Registro Civil se harán en papel especial. Su contenido deberá coincidir exactamente con el de su original. Se identificaran con el nombre firma y sello del oficial del Registro Civil, o servidor público autorizado; y contendrán la firma de quien las hubiere elaborado y cotejado.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-Las copias certificadas se entregarán al interesado a más tardar el d (sic) después de la solicitud respectiva, previo el pago de los derechos que corresponda.
+Las copias certificadas del Registro Civil se harán en papel especial. Su contenido deberá coincidir exactamente con el de su original. Se identificarán con: el nombre, firma, y sello, del oficial del Registro Civil, o servidor público autorizado; y contendrán la firma de quien las hubiere elaborado y cotejado.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Las copias certificadas se entregarán al interesado a más tardar el día después de la solicitud respectiva, previo el pago de los derechos que corresponda.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Las certificaciones expedidas por el Registro Civil serán siempre vigentes, en tanto no estén rotas, ilegibles, o tengan tachaduras o enmendaduras. Las autoridades no podrán exigir su actualización o renovación para llevar a cabo algún trámite en el cual sean requeridas, bajo pena de incurrir en responsabilidades a que hubiere lugar.
 
 ### CAPÍTULO II. De las Actas de Nacimiento
 
@@ -665,17 +673,25 @@ Las copias certificadas se entregarán al interesado a más tardar el d (sic) de
 
 Las declaraciones de nacimiento se harán presentando al recién nacido, ante el Oficial, en su oficina, o en el domicilio donde se encuentre el menor.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 63.
 
-Tienen obligación de declarar el nacimiento, la madre y el padre, dentro del término de ciento ochenta días de ocurrido aquél.
+Tienen obligación de declarar el nacimiento, la madre y el padre, o cualquiera de ellos, a falta de éstos, los abuelos paternos y, en su defecto, los maternos.
+
+Los médicos cirujanos, matronas, o parteras, que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento a la o el Oficial del Registro Civil, dentro de las veinticuatro horas siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento.
+
+Si el nacimiento tuviere lugar en un sanatorio particular, o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo de la persona que dirija la institución, o la encargada de la administración.
 
 ###### ARTÍCULO 64.
 
 (DEROGADO, P.O. 21 DE MARZO DE 2019)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 65.
 
-Para la autorización de las actas relativas al registro de nacimientos que se realicen dentro de los seis meses siguientes al alumbramiento, los interesados deberán presentar:
+Para la autorización de las actas relativas al registro de nacimientos, los interesados deberán presentar:
 
 I. Solicitud de registro debidamente requisitada;
 
@@ -1570,6 +1586,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0135.- SE REFORMA EL ARTÍCULO 26 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0255.- SE REFORMA EL ARTÍCULO 61; Y ADICIONA AL MISMO ARTÍCULO 61 EL PÁRRAFO QUINTO, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0256.- SE REFORMAN LOS ARTÍCULOS 63 Y 65, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
