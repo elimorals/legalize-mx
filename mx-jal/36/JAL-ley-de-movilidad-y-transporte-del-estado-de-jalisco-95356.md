@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2019-08-10"
+last_updated: "2019-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -71,9 +73,9 @@ V. Establecer la coordinación del Estado y los municipios para integrar y admin
 
 VI. Establecer los esquemas de coordinación institucional, así como la delimitación de las atribuciones para el cumplimiento de los objetivos y fines de los programas de fomento a la cultura y educación vial; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-VII. Implementar preferentemente avances tecnológicos tendientes al mejoramiento del servicio público de transporte en todas sus modalidades, en lo que atañe al cobro de tarifas mediante el sistema de prepago; a la contratación y pago del servicio a través de medios electrónicos; a la realización de los trámites ante la Secretaría y el Registro Estatal de Movilidad y Transporte del Estado de Jalisco; así como al control vehicular mediante un dispositivo que permita su identificación por radiofrecuencia que en lo futuro sustituya a la placa metálica que actualmente se utiliza para esos efectos.
+VII. Implementar preferentemente avances tecnológicos tendientes al mejoramiento del servicio público de transporte en todas sus modalidades, en lo que atañe al cobro de tarifas mediante el sistema de prepago; a la contratación y pago del servicio a través de medios electrónicos; a la realización de los trámites ante la Secretaría y la Dirección de Área Registro Estatal de Movilidad y Transporte del Estado de Jalisco; así como al control vehicular mediante un dispositivo que permita su identificación por radiofrecuencia que en lo futuro sustituya a la placa metálica que actualmente se utiliza para esos efectos.
 
 Las disposiciones de esta ley y sus reglamentos son de orden público e interés social, debiéndose aplicar supletoriamente en lo conducente y no previsto, las disposiciones de la ley que regule el procedimiento administrativo del estado de Jalisco y las instancias que deriven del mismo.
 
@@ -157,9 +159,9 @@ III. Aplicación Móvil: el programa informático o plataforma electrónica de g
 
 IV. Calidad del servicio: niveles cualitativos y cuantitativos de la eficiencia de la ruta y nivel de servicio ofrecido al usuario, en términos de tiempos de transportación, frecuencia de paso, accesibilidad, limpieza y confort de la unidad, manejo y atención del conductor. La calificación de la calidad del servicio es con base en una serie de indicadores cuantitativos y cualitativos que define la norma técnica correspondiente;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2019)</small>
 
-V. Causa de utilidad pública: es de utilidad pública e interés general, la prestación de los servicios públicos de transporte en cualquiera de sus modalidades, ya sea a través de un organismo descentralizado, o bien, por conducto de personas físicas o jurídicas a quienes mediante concesiones, permisos, subrogaciones y autorizaciones el Ejecutivo del Estado, por conducto de la Secretaría de Movilidad encomiende la realización de dichas actividades, en los términos de este ordenamiento y demás disposiciones jurídicas y administrativas aplicables.
+V. Causa de utilidad pública: es de utilidad pública e interés general, la prestación de los servicios públicos de transporte en cualquiera de sus modalidades, ya sea a través de un organismo descentralizado, o bien, por conducto de personas físicas o jurídicas a quienes mediante concesiones, permisos, subrogaciones y autorizaciones el Ejecutivo del Estado, por conducto de la Secretaría encomiende la realización de dichas actividades, en los términos de este ordenamiento y demás disposiciones jurídicas y administrativas aplicables.
 
 Asimismo, se considera de utilidad pública y beneficio general, el establecimiento y uso adecuado de las áreas susceptibles de tránsito vehicular y peatonal; señalización vial y nomenclatura y, en general, la utilización de los servicios, la infraestructura y los demás elementos inherentes o incorporados a la vialidad de competencia del Estado, en términos de este ordenamiento y demás disposiciones jurídicas y administrativas aplicables;
 
@@ -167,9 +169,7 @@ Asimismo, se considera de utilidad pública y beneficio general, el establecimie
 
 VI. Chatarrización: el proceso mediante el cual se desechan las unidades de transporte público que han cumplido su vida útil, mediante la instrumentación de un programa institucional que la incentive;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
-
-VII. Comisión: la Comisión Metropolitana de Movilidad y Transporte;
+VII. (DEROGADA, P.O. 3 DE OCTUBRE DE 2019)
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
@@ -191,9 +191,9 @@ XI. Foto infracción: las infracciones a la ley o a sus reglamentos que sean det
 
 XII. Comprobante de verificación vehicular: constancia, calcomanía, holograma, formato o cualquier instrumento tecnológico, con características de seguridad e identificación, que autorice la Secretaría de Medio Ambiente y Desarrollo Territorial y que sirve para comprobar el cumplimiento con la verificación vehicular;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-XIII. Instituto: el Instituto Metropolitano de Planeación del Área Metropolitana de Guadalajara;
+XIII. Instituto: El Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
@@ -219,9 +219,9 @@ XVII. Registro Estatal: el Registro Estatal de Movilidad y Transporte;
 
 XVIII. Ruta: el trayecto con origen y destino que podrá ser troncal, alimentadora, integrada a un corredor o formar parte de una cuenca de servicio;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-XIX. Secretaría: La Secretaría de Movilidad;
+XIX. Secretaría: La Secretaría de Transporte;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
 
@@ -273,9 +273,9 @@ I. Se otorgará el derecho de preferencia a los peatones, personas con discapaci
 
 II. Se establecerán las medidas necesarias, a fin de garantizar al usuario el derecho a que el servicio público de transporte se preste en forma regular, continua, uniforme, permanente e ininterrumpida y en las mejores condiciones de seguridad, comodidad, higiene y eficiencia, cumpliendo con las reglas y condiciones de calidad del servicio, con estricto apego a la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2019)</small>
 
-III. Los ciudadanos tienen derecho a denunciar ante la Secretaría, cualquier irregularidad en la prestación del servicio de transporte público o cualquier tema inherente a la movilidad en el Estado, mediante los procedimientos que la propia Secretaría determine, debiendo informar al quejoso sobre las acciones tomadas, resultados obtenidos y resolución de la Secretaría.
+III. Los ciudadanos tienen derecho a denunciar ante la Secretaría, cualquier irregularidad en la prestación del servicio de transporte público y ante la Secretaría de Seguridad cualquier tema inherente a la movilidad en el Estado, mediante los procedimientos que se determinen en el Reglamento de ésta Ley, debiendo informar al quejoso en tiempo y forma sobre las acciones tomadas, resultados obtenidos y resolución que corresponda.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
 
@@ -291,9 +291,13 @@ A toda denuncia por incumplimiento a las obligaciones de esta ley, recaerá inic
 
 Tratándose del servicio que gestionan las empresas de redes de transporte, la Secretaría únicamente atenderá cualquier irregularidad relativa a la prestación del servicio de transporte, no así a las relacionadas con el funcionamiento y soporte virtual de la aplicación móvil o del sistema privado electrónico de pago, las que se rigen por la legislación en la materia.
 
-Para este efecto, independientemente de los órganos de control, la Secretaría establecerá en las áreas administrativas de la dependencia, y organismos descentralizados, relacionados con la prestación de los servicios públicos de transporte, Unidades de Información y Quejas que posibiliten a los interesados ejercer el derecho consignado en los párrafos que anteceden.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-En dichas unidades se establecerán módulos de atención ciudadana para combatir los actos irregulares de los servidores públicos y los sistemas de comunicación y enlace con la ciudadanía a través de los cuales se captarán y canalizarán las quejas, denuncias, recomendaciones y programas; para coordinar y unificar esfuerzos con las áreas internas de la Secretaría, así como con la Secretaría de Movilidad y los órganos de control gubernamental;
+Para este efecto, independientemente, de los órganos de control, la Secretaría y la Secretaría de Seguridad, respectivamente, establecerán en las áreas administrativas de las dependencias, y organismos descentralizados, relacionados con la prestación de los servicios públicos de transporte, Unidades de Información y Quejas que posibiliten a los interesados ejercer el derecho consignado en los párrafos que anteceden.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+En dichas unidades se establecerán módulos de atención ciudadana para combatir los actos irregulares de los servidores públicos y los sistemas de comunicación y enlace con la ciudadanía a través de los cuales se captarán y canalizarán las quejas, denuncias, recomendaciones y programas; para coordinar y unificar esfuerzos con las áreas internas de la Secretaría, así como con la Secretaría de Seguridad y los órganos de control gubernamental;
 
 IV. Los usuarios del transporte público colectivo tendrán los siguientes derechos:
 
@@ -471,7 +475,9 @@ e) Que se encuentren circulando por una ciclovía y los vehículos particulares 
 
 XI. Circular por todas las vialidades del Estado a excepción de los carriles de alta velocidad y vialidades que estén expresamente prohibidas mediante señalización; y
 
-XII. Contar con apoyo vial de la Secretaría de Movilidad así como de las autoridades municipales en materia de movilidad.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+XII. Contar con apoyo vial de la Secretaría y de la Secretaría de Seguridad, así como de las autoridades municipales en materia de movilidad.
 
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -493,7 +499,9 @@ VII. Rebasar sólo por el carril izquierdo; y
 
 VIII. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo o la mano.
 
-El Ejecutivo dispondrá en los reglamentos y normas técnicas correspondientes, los implementos con los que deban contar los vehículos de movilidad no motorizada.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+El Ejecutivo, los municipios y las instancias de coordinación metropolitana dispondrán en los reglamentos y normas técnicas correspondientes, los implementos con los que deban contar los vehículos de movilidad no motorizada.
 
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -508,6 +516,10 @@ Las autoridades encargadas de la administración de edificios públicos estatale
 ###### Artículo 13.
 
 En la aplicación de esta ley y sus normas reglamentarias, concurrirán el Ejecutivo del Gobierno del Estado y los ayuntamientos, en los ámbitos de sus respectivas competencias y conforme a las atribuciones que establece el presente ordenamiento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Las instancias de coordinación metropolitana, en el ámbito de sus respectivas competencias y de acuerdo a sus convenios, también podrán concurrir en la aplicación de la presente ley y de sus normas reglamentarias.
 
 ###### Artículo 14.
 
@@ -535,7 +547,9 @@ c) El otorgamiento y registro de concesiones, permisos, subrogaciones, vehículo
 
 d) La programación, construcción y administración de la infraestructura carretera y de la infraestructura y equipamiento vial, así como la reglamentación y control del tránsito en sus vías de comunicación;
 
-e) La regulación y administración del tránsito con la intervención de los ayuntamientos, cuando los programas y acciones afecten dos o más municipios de la Entidad;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+e) La regulación y administración del tránsito con la intervención de los ayuntamientos, cuando los programas y acciones afecten dos o más municipios de la Entidad, cuando no estén asociados en instancias de coordinación metropolitana para estos fines.
 
 f) La regulación y administración del transporte, y
 
@@ -575,21 +589,23 @@ b) La Secretaría General de Gobierno;
 
 c) La Secretaría;
 
-d) La Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+d) La Secretaría de la Hacienda Pública;
 
 e) El Registro Estatal;
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-f) La Secretaría de Movilidad del Estado, por conducto de la Policía Vial;
+f) La Secretaría de Seguridad, por conducto de la Policía Vial; y
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2014)</small>
 
 g) Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-h) El Instituto, y
+h) (DEROGADO, P.O. 3 DE OCTUBRE DE 2019)
 
-i) La Comisión.
+i) (DEROGADO, P.O. 3 DE OCTUBRE DE 2019)
 
 II. En los gobiernos municipales:
 
@@ -605,7 +621,9 @@ e) La Tesorería Municipal, y
 
 f) Las autoridades ejecutoras y recaudadoras que de ellos dependan, y
 
-III. En el Área Metropolitana de Guadalajara u otras zonas conurbadas que se definan, aquellos organismos y dependencias que tengan facultades de mando y decisión en materia de vialidad, movilidad y transporte.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+III. Las instancias de coordinación metropolitana, los organismos y dependencias que tengan facultades de planeación, mando y decisión en materia de vialidad, movilidad y transporte.
 
 ### Capítulo II. De las atribuciones del Ejecutivo del Estado
 
@@ -657,9 +675,9 @@ XX. Asesorar y apoyar a los municipios en materia de movilidad y transporte, con
 
 XXI. Aplicar las sanciones a quienes incurran en infracciones a las disposiciones de esta ley y a sus normas reglamentarias, en el ámbito de su competencia, y en la que, en su caso, asuma por la coordinación que establezca con los ayuntamientos;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-XXII. Establecer nuevos servicios; eliminar, sustituir y reformar los ya existentes previstos en esta ley, conforme a las condiciones y necesidades que presente la demanda del servicio público de transporte, dando intervención a los ayuntamientos que, por ámbito territorial, deban participar y considerando a la Comisión Metropolitana de Movilidad y Transporte del Estado de Jalisco, al Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado y al Consejo Consultivo de Movilidad y Transporte;
+XXII. Establecer nuevos servicios; eliminar, sustituir y reformar los ya existentes previstos en esta ley, conforme a las condiciones y necesidades que presente la demanda del servicio público de transporte, dando intervención a los ayuntamientos que, por ámbito territorial, deban participar y considerando al Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado y al Consejo Consultivo de Movilidad y Transporte;
 
 XXIII. Establecer en todo tiempo y con la participación del ayuntamiento que afecte las condiciones técnicas conforme a las cuales se preste o pretenda prestar un servicio público de transporte;
 
@@ -699,9 +717,11 @@ XXXVI. Fijar en la Ley de Ingresos de cada ejercicio fiscal, los estímulos fisc
 
 XXXVII. Las demás que determine la presente ley y otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 20.
 
-La Secretaría podrá llevar a cabo programas de control para prevenir accidentes generados por la ingestión de alcohol, en los cuales se realicen a los conductores de manera aleatoria, las pruebas de alcoholemia respectivas a través del empleo de instrumentos técnicos de medición, realizados por personal del área de peritos y del área jurídica.
+La Secretaría de Seguridad por conducto de la policía vial, podrá llevar a cabo programas de control para prevenir accidentes generados por la ingestión de alcohol, en los cuales se realicen a los conductores de manera aleatoria, las pruebas de alcoholemia respectivas a través del empleo de instrumentos técnicos de medición, realizados por personal del área de peritos y del área jurídica.
 
 En caso de que el conductor de un vehículo al cometer una infracción de las señaladas en la presente ley, presente aliento alcohólico, el Policía Vial o agente de tránsito procederá a solicitar al personal de peritos y del área jurídica, le aplique el examen respectivo, en el lugar de la infracción con el empleo de instrumentos de medición.
 
@@ -737,9 +757,7 @@ XII. Vigilar y controlar en los términos de lo establecido por esta ley y sus R
 
 XIII. Expedir las licencias para operar o conducir vehículos;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
-
-XIV. Detentar el mando de la policía vial;
+XIV. (DEROGADA, P.O. 3 DE OCTUBRE DE 2019)
 
 XV. Actuar en forma coordinada y coadyuvar con la Fiscalía General, y con el Ministerio Público en los casos que señale la ley, y
 
@@ -799,9 +817,11 @@ El ayuntamiento ejercerá sus atribuciones técnicas y administrativas en materi
 
 ### Capítulo IV. De la concurrencia y coordinación de las autoridades estatales y municipales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 24.
 
-Los ayuntamientos, en atención a sus condiciones territoriales y socioeconómicas, así como a su capacidad financiera y administrativa, podrán celebrar convenios de coordinación para la prestación del servicio público de vialidad y tránsito con el Ejecutivo del Estado, a efecto de que:
+Los ayuntamientos, en atención a sus condiciones territoriales y socioeconómicas, así como a su capacidad financiera y administrativa, podrán celebrar convenios de coordinación para la prestación del servicio público de vialidad y tránsito con el Ejecutivo del Estado o instancia de coordinación metropolitana, a efecto de que:
 
 I. El Ejecutivo estatal asesore y apoye al municipio para realizar acciones y estudios técnicos;
 
@@ -901,11 +921,9 @@ Son organismos de participación social y de consulta:
 
 I. El Consejo Consultivo;
 
-II. La Comisión;
+II. (DEROGADA, P.O. 3 DE OCTUBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
-
-III. Las comisiones intermunicipales;
+III. (DEROGADA, P.O. 3 DE OCTUBRE DE 2019)
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -963,7 +981,7 @@ VI. Formular su reglamento interno.
 
 ###### Artículo 34.
 
-La Comisión y las comisiones intermunicipales se integrarán y ejercerán las atribuciones que se señalen en las disposiciones que los regulen.
+(DEROGADO, P.O. 3 DE OCTUBRE DE 2019)
 
 ###### Artículo 35.
 
@@ -1003,9 +1021,11 @@ El Ejecutivo Estatal autorizará las reglas y condiciones de calidad del servici
 
 El Ejecutivo Estatal, para aplicar las reglas y condiciones de calidad en el servicio en un área metropolitana, intermunicipal o centro de población, determinará la participación que se convenga tanto para la Secretaría, como para el o los municipios involucrados, así como la coordinación entre las dependencias responsables de la seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 39.
 
-Los ayuntamientos, en concordancia con las disposiciones de esta ley, deberán expedir su reglamento de movilidad, siempre y cuando no hayan realizado convenio con la Secretaría, para la cual deberán:
+Los ayuntamientos, en concordancia con las disposiciones de esta ley, deberán expedir su reglamento de movilidad, siempre y cuando no hayan realizado convenio con el Gobierno Estatal o que formen parte de una instancia metropolitana, para lo cual deberán:
 
 I. Definir las normas de movilidad que establezcan el orden y control vial, para que la circulación de los peatones y vehículos sea segura y fluida, aplicando las normas técnicas de carácter general expedidas conforme a las bases establecidas en esta ley;
 
@@ -1115,11 +1135,11 @@ IV. De seguridad: los adaptados para servicios de seguridad, protección civil y
 
 ### Capítulo IV. Del registro y los requisitos para circular en la vía pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 44.
 
-Todo vehículo para transitar u ocupar la vía pública, deberá contar con los requisitos y condiciones requeridas de acuerdo a lo dispuesto por esta ley y su reglamento; para ello deberán estar inscritos en el registro estatal, portar los elementos de identificación conforme a su tipo y características, tales como placas, tarjeta de circulación, comprobante de verificación vehicular y constancia o póliza de seguro vial vigentes que garantice los daños y perjuicios contra terceros; así como cualquier otro mecanismo electrónico de identificación vehicular que para esos efectos implemente la Secretaría.
+Todo vehículo para transitar u ocupar la vía pública, deberá contar con los requisitos y condiciones requeridas de acuerdo a lo dispuesto por esta ley y su reglamento; para ello deberán estar inscritos en el registro de la Secretaría de la Hacienda Pública, portar los elementos de identificación conforme a su tipo y características, tales como placas, tarjeta de circulación, comprobante de verificación vehicular y constancia o póliza de seguro vial vigentes que garantice los daños y perjuicios contra terceros; así como cualquier otro mecanismo electrónico de identificación vehicular que para esos efectos implemente dicha dependencia.
 
 Dichos documentos deberán permanecer inalterables e inmodificables, así como evitar colocar cualquier medio que impida su correcta visualización, según sea el caso.
 
@@ -1149,11 +1169,11 @@ III. La exhibición de la constancia o póliza de seguro vigente que garantice l
 
 Los vehículos de transporte público deberán observar las disposiciones especiales que prevean la presente ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 47.
 
-Las placas de circulación y las calcomanías para los vehículos serán expedidas por la dependencia competente del Ejecutivo del Estado, con los colores, emblemas y matrículas que permitan la identificación del vehículo, si es particular, ecológico, de servicio público masivo o colectivo o es conducido por una persona con discapacidad, conforme a la clasificación establecida en esta ley.
+Las placas de circulación y las calcomanías para los vehículos serán expedidas por la Secretaría de la Hacienda Pública, con los colores, emblemas y matrículas que permitan la identificación del vehículo, si es particular, ecológico, de servicio público masivo o colectivo o es conducido por una persona con discapacidad, conforme a la clasificación establecida en esta ley.
 
 ###### Artículo 48.
 
@@ -1193,9 +1213,11 @@ VI. Presentar solicitud por escrito conforme al Reglamento de esta ley, y
 
 VII. Acreditar haber cumplido con el programa de verificación vehicular que emita la Secretaría de Medio Ambiente y Desarrollo Territorial de acuerdo con el calendario oficial de verificación vigente en el Estado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 53.
 
-Cuando con posterioridad al registro ocurra algún hecho o acto que modifique los datos o características de los vehículos, el propietario deberá comunicarlo a la Secretaría y llevar a cabo su actualización, dentro del plazo que establezca el Reglamento del Registro Estatal.
+Cuando con posterioridad al registro ocurra algún hecho o acto que modifique los datos o características de los vehículos, el propietario deberá comunicarlo a la Secretaría de la Hacienda Pública y llevar a cabo su actualización, dentro del plazo que establezca el Reglamento del Registro Estatal.
 
 ### Capítulo V. De las licencias de conducir y los requisitos para operar vehículos
 
@@ -1499,15 +1521,19 @@ Cuando se imponga un arresto administrativo, se comunicará la resolución a la 
 
 En cualquier caso y en todo el procedimiento, la autoridad deberá mostrar respeto irrestricto a los derechos humanos.
 
-La Secretaría integrará un registro de personas sancionadas conforme al presente artículo, para lo que las autoridades competentes deberán comunicarle y compartirle la información pertinente.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+La Secretaría en coordinación con la Secretaría de Seguridad, integrarán un registro de personas sancionadas conforme al presente artículo, para lo que las autoridades competentes deberán comunicarle y compartirle la información pertinente.
 
 ###### Artículo 73.
 
 La policía vial y la autoridad municipal en materia de vialidad y tránsito, conforme a las normas del reglamento respectivo y como medida de seguridad, retirarán de circulación los vehículos en los casos previstos y conforme al procedimiento que se establece en esta ley.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 74.
 
-La Secretaría y la policía vial, realizarán las acciones previstas en las leyes federales y estatales en materia de equilibrio ecológico y protección del medio ambiente, en relación a la operación de vehículos, a efecto de que se realice de conformidad a las normas técnicas ecológicas vigentes.
+La Secretaría de Medio Ambiente y Desarrollo Territorial, y la Secretaría de Seguridad a través de la policía vial, realizarán las acciones previstas en las leyes federales y estatales en materia de equilibrio ecológico y protección del medio ambiente, en relación a la operación de vehículos, a efecto de que se realice de conformidad a las normas técnicas ecológicas vigentes.
 
 ###### Artículo 75.
 
@@ -1555,13 +1581,17 @@ Para establecer y explotar servicios conexos a las vías públicas de comunicaci
 
 Los propietarios de terrenos contiguos a las vías públicas de comunicación local, en donde habitualmente exista ganado, deberán cercarlos en forma adecuada para evitar que el mismo represente algún peligro para la circulación.
 
-La Secretaría procederá a notificar al propietario o poseedor del predio, señalándole un plazo, no menor de treinta días, para que proceda a construir o reparar el cerco de que se trate.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+La Secretaría de Seguridad procederá a notificar al propietario o poseedor del predio, señalándole un plazo, no menor de treinta días, para que proceda a construir o reparar el cerco de que se trate.
 
 Si el propietario o poseedor del predio no cumplimenta el requerimiento, la autoridad competente podrá sancionarlo, de conformidad con lo dispuesto por esta ley y su reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 82.
 
-Las dependencias municipales competentes en materia de urbanización y edificación, para expedir licencias o permisos de construcción, requerirán el dictamen previo de la Secretaría cuando se solicite autorización para:
+Las dependencias municipales competentes en materia de urbanización y edificación, para expedir licencias o permisos de construcción, requerirán el dictamen previo de la instancia de coordinación metropolitana que corresponda o de la Secretaría de Medio Ambiente y Desarrollo Territorial, según corresponda, cuando se solicite autorización para:
 
 I. Ejecutar obras en el área del derecho de vía;
 
@@ -1883,11 +1913,11 @@ Para el caso de renovación de concesión para el transporte masivo o colectivo 
 
 Las concesiones únicamente se otorgarán a personas de nacionalidad mexicana, físicas o jurídicas, según el servicio de que se trate, constituidas conforme a las leyes del país.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 99.
 
-El Estado, previa convocatoria para la prestación del servicio público de transporte de pasajeros ya sea para renovarlo o los nuevos que se expidan, deberá contar con los estudios técnicos y proyectos que sustenten la necesidad del servicio, los cuales serán responsabilidad del Instituto cuando se trate del Área Metropolitana de Guadalajara o la Secretaría de Medio Ambiente y Desarrollo Territorial cuando se trate del interior del estado, conforme a las siguientes bases generales:
+El Estado, previa convocatoria para la prestación del servicio público de transporte de pasajeros ya sea para renovarlo o los nuevos que se expidan, deberá contar con los estudios técnicos y proyectos que sustenten la necesidad del servicio, los cuales serán responsabilidad del Instituto o la Secretaría de Medio Ambiente y Desarrollo Territorial según corresponda, conforme a las siguientes bases generales:
 
 I. La concesión otorga a su titular un derecho para prestar el servicio público de transporte en la modalidad y características que se especifiquen, sin perjuicio de lo establecido en la fracción II de este artículo;
 
@@ -2475,7 +2505,9 @@ II. Contar con una póliza de seguro de cobertura amplia, debiendo presentar par
 
 III. Que el vehículo cumpla con los requisitos previstos en el artículo 46 de esta Ley;
 
-IV. Que el vehículo se encuentre libre de adeudos ante la Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+IV. Que el vehículo se encuentre libre de adeudos ante la Secretaría de la Hacienda Pública;
 
 V. Acreditar haber cumplido con el programa de verificación vehicular semestral que emita la Secretaría de Medio Ambiente y Desarrollo Territorial de acuerdo con el calendario oficial de verificación vigente en el Estado;
 
@@ -2503,7 +2535,9 @@ III. Cuando con motivo de su autorización se llegare a causar un impacto negati
 
 IV. Cuando se contravenga alguno de los principios rectores de la movilidad que establece la presente Ley y su Reglamento.
 
-Lo anterior, previo estudio que realice el Instituto para tal efecto.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Lo anterior, previo estudio que realice el Instituto o la Secretaría de Medio Ambiente y Desarrollo Territorial, según corresponda, para tal efecto.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
 
@@ -2929,7 +2963,9 @@ III. Su organización interna y funcionamiento se determinará en el Reglamento 
 
 IV. Las autoridades estatales están obligadas a proporcionar al registro estatal la información estadística, documental, técnica, catastral y de planificación, que éste requiera para el mejor desempeño de sus funciones;
 
-V. La Secretaría promoverá la coordinación necesaria para reunir y procesar la información relativa a licencias, gafetes de identificación, concesiones, permisos y autorizaciones, integrándola al registro estatal, para acreditar los supuestos de suspensión y cancelación, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+V. La Secretaría promoverá la coordinación necesaria para reunir y procesar la información relativa a licencias, gafetes de identificación, concesiones, permisos y autorizaciones del servicio público de transporte, integrándola a la Dirección de Área Registro Estatal de Movilidad y Transporte, para acreditar los supuestos de suspensión y cancelación; y
 
 VI. El Ejecutivo del Gobierno del Estado prestará la asistencia técnica necesaria y se coordinará con los ayuntamientos, para garantizar la actualización de las inscripciones en el registro estatal y facilitar su consulta expedita a las autoridades municipales.
 
@@ -2947,7 +2983,7 @@ Deberán inscribirse en el registro estatal:
 
 I. Las licencias o permisos para operar o conducir vehículos que expida la Secretaría;
 
-II. Los vehículos domiciliados en el Estado;
+II. (DEROGADA, P.O. 3 DE OCTUBRE DE 2019)
 
 III. Las licencias, gafetes de identificación y contratos que permitirán a los conductores, choferes y operadores de vehículos, acreditar su antigüedad como trabajadores del servicio público de transporte;
 
@@ -3103,11 +3139,11 @@ XIII. Cuando el vehículo no porte, o se altere, destruya, imposibilite o inhabi
 
 En el caso de las fracciones V y VI, el conductor o propietario, para liberar el vehículo retirado de la circulación, deberá pagar la verificación vehicular, y tendrá un plazo de 30 días naturales a partir de la fecha en que se le entregue el vehículo para circular a efecto de verificarlo, de no hacerlo así se le considerará como reincidente en los términos del artículo 188 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 170.
 
-La Secretaría, por conducto de la policía vial o la policía de tránsito municipal, según corresponda, en los casos previstos en el artículo anterior, retirarán de la circulación a los vehículos, acatando las siguientes disposiciones:
+La Secretaría o la Secretaría de Seguridad por conducto de la policía vial o la policía de tránsito municipal, según corresponda, en los casos previstos en el artículo anterior, retirarán de la circulación a los vehículos, acatando las siguientes disposiciones:
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2015)</small>
 
@@ -3121,11 +3157,11 @@ IV. En el caso previsto en la fracción IV del artículo anterior, si el conduct
 
 V. En todo caso, el policía vial o la policía de tránsito municipal que intervenga levantará el acta correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 171.
 
-La Secretaría, por medio de sus policías viales y la policía de tránsito municipal, como medida de seguridad, podrán retirar un vehículo de la circulación y trasladarlo a un depósito público o, en su caso, privado sujeto a concesión, en contra de la voluntad de su propietario o conductor, en los supuestos siguientes:
+La Secretaría de Seguridad por conducto de la policía vial o la policía de tránsito municipal, como medida de seguridad, podrán retirar un vehículo de la circulación y trasladarlo a un depósito público o, en su caso, privado sujeto a concesión, en contra de la voluntad de su propietario o conductor, en los supuestos siguientes:
 
 I. Participación en flagrante delito en el que el vehículo sea instrumento del mismo;
 
@@ -3499,7 +3535,9 @@ III. A la persona que conduzca un vehículo y se le detecte una cantidad mayor a
 
 IV. Se cancelará definitivamente la licencia de conducir de la persona que, habiendo incurrido en una de las conductas sancionadas conforme a las dos fracciones inmediatamente precedentes, incurra nuevamente en una de dichas conductas, dentro de un período de dos años contados a partir de la fecha en que haya incurrido en una de dichas conductas por primera vez. Además, dicha persona será sometida a una investigación de trabajo social y a exámenes de toxicomanía y alcoholismo. La persona que haya sido sancionada conforme al presente párrafo, sólo podrá obtener una nueva licencia satisfaciendo los mismos requisitos necesarios para una licencia nueva, hasta que hayan transcurrido dos años de la fecha de la cancelación correspondiente;
 
-V. Cualquier persona sancionada en términos del presente artículo deberá asistir a un curso en materia de sensibilización, concientización y prevención de accidentes viales por causa de la ingesta de alcohol o el influjo de narcóticos, ante la instancia que indique la Secretaría;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+V. Cualquier persona sancionada en términos del presente artículo deberá asistir a un curso en materia de sensibilización, concientización y prevención de accidentes viales por causa de la ingesta de alcohol o el influjo de narcóticos, ante la instancia que indique la Secretaría de Seguridad;
 
 VI. Si se trata de la conducción de una unidad del transporte público, la sanción será aplicable aun cuando al conductor se le detecte una cantidad de alcohol inferior a la señalada en las fracciones I y II del presente artículo;
 
@@ -3509,7 +3547,9 @@ En estos casos, inmediatamente se practicará al conductor la prueba de alcohole
 
 VIII. La licencia o permiso del conductor podrá ser suspendido en los términos del tercer párrafo del artículo 188 de este ordenamiento.
 
-La Secretaría integrará un registro de personas sancionadas por la conducción de vehículos en los términos previstos en el presente artículo y del párrafo tercero del artículo 170 de esta ley.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+La Secretaría de Seguridad en coordinación con la Secretaría de Transporte a través de la Dirección de Área Registro Estatal de Movilidad y Transporte integrarán un registro de personas sancionadas por la conducción de vehículos en los términos previstos en el presente artículo y del párrafo tercero del artículo 170 de esta ley.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
 
@@ -3555,11 +3595,11 @@ Por la reincidencia en las infracciones previstas en los artículos 179, 187 y 1
 
 ### Capítulo III. De las sanciones administrativas en materia del servicio del transporte público
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 189.
 
-Las infracciones en materia de transporte serán sancionadas administrativamente mediante cédula de notificación de infracciones por la Secretaría de Movilidad, a través de la policía vial, en los términos de esta Ley y su reglamento, y se aplicarán al concesionario, subrogatario, permisionario, propietario o conductor del vehículo.
+Las infracciones en materia de transporte serán sancionadas administrativamente mediante cédula de notificación de infracciones por la Secretaría de Seguridad por conducto de la policía vial en coordinación con la Dirección General de Supervisión al Transporte Público, en los términos de esta Ley y su Reglamento, y se aplicarán al concesionario, subrogatario, permisionario, propietario o conductor del vehículo.
 
 ###### Artículo 190.
 
@@ -3705,23 +3745,27 @@ II. En los municipios, los presidentes municipales por conducto de la dependenci
 
 La ejecución de sanciones económicas se realizará conforme a las atribuciones y procedimientos que establezcan las leyes hacendarias y de ingresos aplicables, a través de:
 
-I. La Secretaría de Planeación, Administración y Finanzas y sus dependencias recaudadoras, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+I. La Secretaría de la Hacienda Pública y sus dependencias recaudadoras; y
 
 II. Las tesorerías municipales y sus dependencias recaudadoras.
 
 Cuando las dependencias a que se refiere la fracción I de este artículo, ejecuten una sanción económica impuesta por los municipios, el fisco estatal percibirá los gastos de ejecución y hasta un máximo del quince por ciento de las multas y recargos, por concepto de gastos de administración.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 198.
 
-Para elaborar las cédulas de notificación de infracciones serán competentes, la autoridad municipal en materia de movilidad por conducto de los agentes de movilidad y la Secretaría de Movilidad por conducto de la policía vial.
+Para elaborar las cédulas de notificación de infracciones serán competentes, la autoridad municipal en materia de movilidad por conducto de los agentes de movilidad y la Secretaría de Seguridad por conducto de la policía vial.
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 De igual forma, corresponderá a la Secretaría o a las autoridades municipales en su ámbito de atribuciones, la calificación e imposición de las sanciones correspondientes, así como las medidas de seguridad que procedan, según su competencia, quienes deberán fundar y motivar sus actos y notificarlos de conformidad con la presente ley y sus reglamentos.
 
-Las cedulas de notificación de foto infracción serán emitidas por el titular de la Unidad Administrativa en materia Jurídica de la Secretaría o por el funcionario en el que se delegue esta atribución, las cuales deberán contener la clave electrónica del equipo correspondiente, la firma electrónica del funcionario y demás requisitos establecidos en los reglamentos de la presente ley.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Las cédulas de notificación de foto infracción serán emitidas por el titular de la Secretaría de Seguridad o por el funcionario en el que se delegue esta atribución, las cuales deberán contener la clave electrónica del equipo correspondiente, la firma electrónica del funcionario y demás requisitos establecidos en los reglamentos de la presente ley.
 
 En el caso de las autoridades municipales, para las infracciones o foto infracciones así como para calificar e imponer las sanciones correspondientes al ámbito de su competencia, deberán sujetarse a lo establecido en la presente ley, a los reglamentos de ésta y a los reglamentos municipales correspondientes.
 
@@ -3735,7 +3779,7 @@ Para el caso de los créditos fiscales derivados de las infracciones previstas e
 
 Para el caso de la sanción económica a que se refiere el artículo 186 de esta ley respecto a los reincidentes, los plazos a que se refiere esta disposición correrán a partir del día hábil siguiente al en que el infractor debió asistir al curso a que se refiere el mismo artículo; en cuyo caso, sólo mediante la presentación de la constancia de asistencia se tendrá derecho a las referidas reducciones.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE OCTUBRE DE 2019)</small>
 
 El Poder Ejecutivo del Estado, a través de la Secretaría de la Hacienda Pública, podrá celebrar convenios con establecimientos comerciales para efectos de que reciban el pago de dichos créditos fiscales, dentro del plazo ordinario que no genera recargo, aplicando en su caso, los descuentos señalados.
 
@@ -3871,9 +3915,11 @@ I. Contra los actos de autoridades que impongan las sanciones a que esta ley se 
 
 II. Contra los actos de autoridades administrativas que los interesados estimen violatorios de esta ley.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 217.
 
-La inconformidad deberá interponerse ante la Secretaría, dentro del plazo de veinte días hábiles, computados a partir de la fecha en que fuere notificada la sanción o la medida de seguridad, o de la fecha en que la resolución se notifique o se haga del conocimiento del o los interesados, conforme a las disposiciones establecidas en la presente ley.
+La inconformidad deberá interponerse ante la autoridad que emitió el acto, dentro del plazo de veinte días hábiles, computados a partir de la fecha en que fuere notificada la sanción o la medida de seguridad, o de la fecha en que la resolución se notifique o se haga del conocimiento del o los interesados, conforme a las disposiciones establecidas en la presente ley.
 
 ###### Artículo 218.
 
@@ -4308,3 +4354,13 @@ P.O. 10 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27335/LXII/19 QUE REFORMA EL PRIMER ARTÍCULO TRANSITORIO DEL DECRETO NÚMERO 27288/LXII/2019 PUBLICADO EN EL PERIÓDICO OFICIAL "EL ESTADO DE JALISCO" EL DÍA 11 DE JULIO DEL 2019, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO.”]
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27342/LXII/19 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE, ASÍ COMO LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se exhorta al Gobernador Constitucional del Estado, a realizar las adecuaciones a los reglamentos correspondientes, conforme a las reformas del presente decreto.
+
+TERCERO. La Secretaría de Seguridad, por medio de la Policía Vial, contará con un plazo de hasta 60 días contados a partir de la entrada en vigencia del presente decreto, para realizar las adecuaciones administrativas correspondientes.
