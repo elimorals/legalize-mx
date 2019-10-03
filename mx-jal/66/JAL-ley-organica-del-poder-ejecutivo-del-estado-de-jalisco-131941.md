@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-131941"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-05"
-last_updated: "2019-07-11"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131941&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Especial al Número 24 Quater del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -381,7 +383,9 @@ XVII. Secretaría de Turismo;
 
 XVIII. Secretaría del Sistema de Asistencia Social; y
 
-XIX. Secretaría del Transporte.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+XIX. Secretaría de Transporte.
 
 ###### Artículo 17.
 
@@ -1141,7 +1145,9 @@ II. Expedir las bases para los procesos de licitación, adjudicación y contrata
 
 III. Programar, proyectar, ejecutar, licitar, adjudicar, contratar, controlar y vigilar la realización de toda la obra y la infraestructura pública a cargo del Estado;
 
-IV. Planear, programar, contratar, ejecutar, controlar y vigilar la conservación, mantenimiento y modernización de las vías e infraestructura pública de comunicación del Estado, así como la (sic) que se deriven de los convenios de colaboración con los tres niveles de gobierno, cuando así proceda, en coordinación con la Secretaría del Transporte;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+IV. Planear, programar, contratar, ejecutar, controlar y vigilar la conservación, mantenimiento y modernización de las vías e infraestructura pública de comunicación del Estado, así como la (sic) que se deriven de los convenios de colaboración con los tres niveles de gobierno, cuando así proceda, en coordinación con la Secretaría de Transporte;
 
 V. Planear, promover y ejecutar, directa o indirectamente, los proyectos necesarios a efecto de llevar a cabo políticas y programas de vivienda o adquisición de terreno, con la finalidad de que los habitantes del Estado que no tengan casa habitación o terreno para ello, puedan adquirirlos;
 
@@ -1685,7 +1691,9 @@ XIV. (SIC) Las demás que establezcan otras disposiciones legales y reglamentari
 
 ###### Artículo 35.
 
-1. Las atribuciones de la Secretaría del Transporte son las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+1. Las atribuciones de la Secretaría de Transporte son las siguientes:
 
 I. Planear, regular, vigilar y supervisar el uso adecuado de las comunicaciones terrestres y la operación del transporte en el Estado de conformidad con la Constitución Política de los Estados Unidos Mexicanos, y la particular del Estado, así como las leyes y reglamentos de la materia;
 
@@ -2557,9 +2565,9 @@ e) Cumplir las demás instrucciones acordadas por (sic) dependencia coordinadora
 
 ## TRANSITORIOS
 
-PRIMERO. El presente decreto entrará en vigor al día 6 de diciembre de 2018, previa su publicación en el periódico oficial “El Estado de Jalisco”.
+PRIMERO. El presente decreto entrará en vigor al día 6 de diciembre de 2018, previa su publicación en el periódico oficial "El Estado de Jalisco".
 
-SEGUNDO. Las modificaciones dispuestas en el presente Decreto, no son las suficientes y necesarias para el cumplimiento y la implementación correspondiente, conforme los supuestos establecidos en el artículo Tercero Transitorio del decreto legislativo 26408/LXI/17 publicado en el periódico oficial “El Estado de Jalisco” en su edición de fecha 18 de julio de 2017, mediante el cual se reformó la Constitución Política del Estado de Jalisco, por lo que la reforma a los dispositivos que se citan en dicho artículo permanecen sin iniciar su vigencia.
+SEGUNDO. Las modificaciones dispuestas en el presente Decreto, no son las suficientes y necesarias para el cumplimiento y la implementación correspondiente, conforme los supuestos establecidos en el artículo Tercero Transitorio del decreto legislativo 26408/LXI/17 publicado en el periódico oficial "El Estado de Jalisco" en su edición de fecha 18 de julio de 2017, mediante el cual se reformó la Constitución Política del Estado de Jalisco, por lo que la reforma a los dispositivos que se citan en dicho artículo permanecen sin iniciar su vigencia.
 
 > <small>(F. DE E., P.O. 18 DE DICIEMBRE DE 2018)</small>
 
@@ -2573,9 +2581,9 @@ La transferencia de recursos humanos, materiales y financieros que deban realiza
 
 Los derechos laborales del personal que, en virtud de lo dispuesto en el presente decreto, pasen de una dependencia a otra, se respetarán conforme a la ley de la materia.
 
-CUARTO. Para el ejercicio 2018, se autoriza la modificación del tabulador de sueldos que integra las nomenclaturas de los titulares de las dependencias que se crean o modifican en virtud del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo Número 24395/LX/13, y se autoriza al Titular del Poder Ejecutivo para que por conducto de la Secretaría de Administración lleve a cabo las modificaciones necesarias a la plantilla de personal vigente y las adecuaciones presupuestales en el capítulo 1000 “Servicios Personales” de conformidad a la suficiencia presupuestal, y realizar las erogaciones correspondientes con cargo a la Unidad Presupuestal que corresponda a la Unidad de Dependencias Auxiliares.
+CUARTO. Para el ejercicio 2018, se autoriza la modificación del tabulador de sueldos que integra las nomenclaturas de los titulares de las dependencias que se crean o modifican en virtud del presente Decreto, respecto de las dependencias anteriormente establecidas en el Decreto Legislativo Número 24395/LX/13, y se autoriza al Titular del Poder Ejecutivo para que por conducto de la Secretaría de Administración lleve a cabo las modificaciones necesarias a la plantilla de personal vigente y las adecuaciones presupuestales en el capítulo 1000 "Servicios Personales" de conformidad a la suficiencia presupuestal, y realizar las erogaciones correspondientes con cargo a la Unidad Presupuestal que corresponda a la Unidad de Dependencias Auxiliares.
 
-Así mismo, para el ejercicio 2018, se autoriza al Titular del Ejecutivo a realizar las adecuaciones necesarias en el capítulo de Servicios Personales hasta el límite de la suficiencia presupuestal, a fin de habilitar la partida “1221 Salarios al personal eventual” durante el mes de diciembre de 2018, para las erogaciones correspondientes al personal sin plaza en la plantilla, con cambio de nomenclatura o de nivel y que deban integrarse en el mes de diciembre de 2018 a las dependencias que se crean o modifican con motivo del presente decreto, respecto de las dependencias anteriormente establecidas en el decreto legislativo número 24395/LX/13.
+Así mismo, para el ejercicio 2018, se autoriza al Titular del Ejecutivo a realizar las adecuaciones necesarias en el capítulo de Servicios Personales hasta el límite de la suficiencia presupuestal, a fin de habilitar la partida "1221 Salarios al personal eventual" durante el mes de diciembre de 2018, para las erogaciones correspondientes al personal sin plaza en la plantilla, con cambio de nomenclatura o de nivel y que deban integrarse en el mes de diciembre de 2018 a las dependencias que se crean o modifican con motivo del presente decreto, respecto de las dependencias anteriormente establecidas en el decreto legislativo número 24395/LX/13.
 
 El titular del Poder Ejecutivo deberá informar al Poder Legislativo a más tardar el 30 de enero del 2019, las adecuaciones llevadas a cabo en los términos del presente artículo.
 
@@ -2721,7 +2729,9 @@ vulnerables; desarrollo social y
 
 desarrollo humano)
 
-Secretaría de Movilidad Secretaría del
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Secretaría de Movilidad Secretaría de
 
 Transporte
 
@@ -2751,7 +2761,9 @@ estatal)
 
 SEXTO. Las facultades o atribuciones que cualquier ordenamiento confiera a la Secretaría General de Gobierno, que estén vinculadas con aquellas facultades o atribuciones que el presente Decreto otorga a la Consejería Jurídica del Poder Ejecutivo, se entenderán como conferidas a ésta última.
 
-SÉPTIMO. El mando, coordinación y control de la Policía Vial conferidos a la Secretaría de Seguridad, estarán a cargo de ésta a partir de la entrada en vigor del presente decreto; en tanto que los aspectos y procesos meramente administrativos relativos a la policía vial continuarán a cargo de la Secretaría del Transporte, hasta que tengan lugar las adecuaciones administrativas y legales necesarias para su implementación y operación por parte de la Secretaría de Seguridad.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+SÉPTIMO. El mando, coordinación y control de la Policía Vial conferidos a la Secretaría de Seguridad, estarán a cargo de ésta a partir de la entrada en vigor del presente decreto; en tanto que los aspectos y procesos meramente administrativos relativos a la policía vial continuarán a cargo de la Secretaría de Transporte, hasta que tengan lugar las adecuaciones administrativas y legales necesarias para su implementación y operación por parte de la Secretaría de Seguridad.
 
 OCTAVO. Las órdenes emitidas para practicar visitas de inspección a notarías públicas, así como las visitas en práctica que hasta antes de la entrada en vigor del presente Decreto estaban siendo substanciadas por la Procuraduría Social, continuarán siendo desahogadas por la Secretaría General de Gobierno hasta su conclusión.
 
@@ -2958,3 +2970,13 @@ P.O. 11 DE JULIO DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La Secretaría del Trabajo y Previsión Social tendrá 180 días naturales para elaborar y presentar a los municipios el Convenio de Colaboración
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27342/LXII/19 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE MOVILIDAD Y TRANSPORTE, ASÍ COMO LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se exhorta al Gobernador Constitucional del Estado, a realizar las adecuaciones a los reglamentos correspondientes, conforme a las reformas del presente decreto.
+
+TERCERO. La Secretaría de Seguridad, por medio de la Policía Vial, contará con un plazo de hasta 60 días contados a partir de la entrada en vigencia del presente decreto, para realizar las adecuaciones administrativas correspondientes.
