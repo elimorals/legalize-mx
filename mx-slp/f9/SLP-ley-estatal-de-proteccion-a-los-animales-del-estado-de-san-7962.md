@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2019-05-15"
+last_updated: "2019-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -309,13 +309,17 @@ I. Administrar fármacos u otro tipo de sustancias para realizar el entrenamient
 
 II. Privar de alimento o agua como parte del entrenamiento, manejo u otra actividad relacionada con el trabajo que desempeñe;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE OCTUBRE DE 2019)</small>
+
 III. Cargar, montar o uncir al que presente llagas, atadura u otras lesiones provocadas por monturas, aparejos o arneses;
 
 IV. Obligar al que se haya caído, a levantarse sin haber retirado previamente la carga; ni golpear, fustigar, espolear o maltratar de manera que se comprometa su bienestar;
 
 V. Utilizar para carga, tiro y monta a aquellos en condiciones fisiológicas no aptas, como los desnutridos, enfermos, con lesiones en la columna vertebral o extremidades, contusiones, heridas o laceraciones;
 
-VI. Usar para la carga, tiro o monta sin causa justificada potrillos, o hembras en periodo próximo al parto, entendido éste como el último tercio de la gestación;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+VI. Usar para la carga, tiro o monta sin causa justificada potrillos o cualquier otro animal menor de un año, así como hembras en periodo próximo al parto, entendido éste como el último tercio de la gestación;
 
 VII. Evitar siempre el exceso de latigazos y otros medios de crueldad en su arreo, y
 
@@ -427,9 +431,9 @@ La comercialización de animales silvestres no está permitida, a no ser con la 
 
 Los lugares para la comercialización de animales domésticos o silvestres, quedarán restringidos a los permitidos por las autoridades correspondientes.
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-Al comercializarse se evitará que los animales queden expuestos a la luz solar directa por mucho tiempo, sin la posibilidad de buscar sombra o no protegerlos de las condiciones climatológicas.
+Al comercializarse se evitará que los animales queden expuestos a la luz solar directa, sin la posibilidad de buscar sombra o no protegerlos de las condiciones climatológicas.
 
 ## Título Cuarto.
 
@@ -835,6 +839,8 @@ ARTICULO 79 BIS.- Se prohíbe el establecimiento y operación de espectáculos c
 
 Del Procedimiento Administrativo.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 80.
 
 Para la aplicación de sanciones, por incumplimiento de las disposiciones de esta Ley y actos realizados en perjuicio de los animales, se otorga acción ciudadana y popular para denunciar por escrito ante los síndicos de los ayuntamientos, los hechos, aportando las pruebas conducentes.
@@ -895,19 +901,31 @@ Del Recurso de Reconsideración.
 
 ###### ARTICULO 86.
 
-El procedimiento administrativo se inicia con la denuncia ante el síndico del ayuntamiento, prosiguiendo con la visita de inspección autorizada y expedida por la misma autoridad.
+El procedimiento administrativo se inicia con la denuncia ante el síndico del ayuntamiento, prosiguiendo con la visita de inspección autorizada y expedida por la misma autoridad, misma que deberá ser ejecutada en un plazo no mayor a tres días hábiles, contados a partir de la recepción de la denuncia correspondiente.
 
 ###### ARTICULO 87.
 
 Cuando el síndico del ayuntamiento considere que existen elementos suficientes con motivo de la denuncia y de la inspección para la imposición de sanciones, lo hará del conocimiento del presunto infractor, con la finalidad de que dentro del plazo de quince días, manifieste lo que a su derecho convenga y aporte las pruebas en contrario.
 
-La autoridad responsable dictará resolución en un término de treinta días contados a partir del último día a que se refiere el párrafo anterior, en base a los datos proporcionados por el presunto infractor y al acta levantada por el inspector, así como con las demás constancias que obren en el expediente, tomando en cuenta las circunstancias en que se cometió la infracción, la gravedad de la misma, las condiciones socio económicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-El secretario del ayuntamiento deberá notificar personalmente la resolución al infractor y a la tesorería municipal para que la ejecute cuando se trate de exigir el cobro de multas.
+La autoridad responsable dictará resolución en un término de treinta días contados a partir del último día a que se refiere el párrafo anterior, con base a los datos proporcionados por el presunto infractor y al acta levantada por el inspector, así como con las demás constancias que obren en el expediente, tomando en cuenta las circunstancias en que se cometió la infracción, la gravedad de la misma, las condiciones socio económicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia. Resolución que deberá notificar en el término de tres días hábiles al secretario del ayuntamiento.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+En el término señalado en el párrafo anterior, el secretario del ayuntamiento deberá notificar personalmente la resolución al infractor y a la tesorería municipal para que la ejecute cuando se trate de exigir el cobro de multas.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 87 Bis.
+
+Para el caso de que el Síndico Municipal determine que existe evidencia suficiente en la que se presuma la consumación de un hecho con apariencia de delito, conforme a lo dispuesto por los artículos 317 y 317 BIS del Código Penal del Estado de San Luis Potosí, además de lo dispuesto por la presente Ley, tendrá la obligación de presentar ante la Fiscalía General del Estado la denuncia correspondiente, adjuntando los datos de prueba que se encuentren a su alcance.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 88.
 
-Para todo lo no previsto en este procedimiento, se aplicarán en forma supletoria las disposiciones contenidas en el Código Fiscal del Estado.
+Para todo lo no previsto en este procedimiento, se aplicarán en forma supletoria las disposiciones contenidas en el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTICULO 89.
 
@@ -1074,3 +1092,11 @@ P.O. 15 DE MAYO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0263.- SE REFORMAN LOS ARTÍCULOS 22 BIS, 38, 86, 87, Y 88; Y ADICIONA EL ARTÍCULO 87 BIS, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
