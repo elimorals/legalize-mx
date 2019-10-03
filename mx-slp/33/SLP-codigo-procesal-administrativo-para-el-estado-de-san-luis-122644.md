@@ -4,7 +4,7 @@ identifier: "SLP-codigo-procesal-administrativo-para-el-estado-de-san-luis-12264
 country: "mx"
 rank: "codigo"
 publication_date: "2017-07-18"
-last_updated: "2017-07-18"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SLP"
 
 CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
-Código publicado en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el martes 18 de julio de 2017.
+Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de julio de 2017.
 
 Juan Manuel Carreras López, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed: Que el Congreso del Estado ha Decretado lo siguiente:
 
@@ -973,7 +973,9 @@ La interrupción no podrá ser menor de tres meses, ni mayor de un año, para qu
 
 I. Se fijará el plazo en razón de la naturaleza del asunto;
 
-II. Se decretará por el Magistrado a partir de la fecha en que éste tenga conocimiento de la existencia de alguno de los supuestos a que se refiere el artículo que antecede;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+II. Se decretará por el Magistrado a partir de la fecha en que éste tenga conocimiento de la existencia de alguno de los supuestos a que se refiere el párrafo primeo (sic) de este artículo;
 
 III. Se notificará personalmente al albacea, tutor o representante legal que corresponda, en los domicilios registrados en autos y, en caso de que no se conozca la identidad de aquéllos o sus domicilios, deberán realizarse las investigaciones pertinentes para ubicar su paradero y proceder en consecuencia, y
 
@@ -1329,7 +1331,9 @@ La resolución a que se refiere el párrafo que antecede, se notificará tambié
 
 Si la Sala resuelve que hubo exceso o defecto en el cumplimiento de la sentencia o en la suspensión del acto reclamado, dejará sin efecto el acto o resolución que provocó la queja y concederá al funcionario responsable veinticuatro horas para que dé cumplimiento debido al fallo, señalando la forma y términos conforme a los cuales deberá cumplir.
 
-Si dentro del plazo señalado en el párrafo anterior las autoridades no cumpliesen con la sentencia o auto de cuya ejecución se trata, conforme a los lineamientos fijados al resolverse la queja, el Tribunal procederá conforme a sus atribuciones en términos de los artículos, 256, 258 y 265 de este Código, según sea el caso.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Si dentro del plazo señalado en el párrafo anterior las autoridades no cumpliesen con la sentencia o auto de cuya ejecución se trata, conforme a los lineamientos fijados al resolverse la queja, el Tribunal procederá conforme a sus atribuciones en términos de los artículos, 256; 259; y 266 en su párrafo segundo en relación con el artículo 127 de este Código, según sea el caso.
 
 # LIBRO SEGUNDO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
@@ -1421,9 +1425,11 @@ El acto administrativo que se declare jurídicamente nulo será inválido; no se
 
 En caso de que el acto se hubiera consumado, o bien, sea imposible de hecho o de derecho retrotraer sus efectos, sólo dará lugar a la responsabilidad del servidor público que lo hubiere emitido u ordenado.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 168.
 
-La omisión o irregularidad en los requisitos señalados en el artículo 178 de este Código, producirá la anulabilidad del acto administrativo.
+La omisión o irregularidad en los requisitos señalados en las fracciones, III, IV, V, y VI, del artículo 165 de este Código, producirá anulabilidad del acto administrativo.
 
 El acto declarado anulable se considerará válido; gozará de presunción de legitimidad y ejecutividad; y será subsanable por los órganos administrativos mediante el pleno cumplimiento de los requisitos exigidos por el ordenamiento jurídico para la plena validez y eficacia del acto. Tanto los servidores públicos como los particulares tendrán obligación de cumplirlo.
 
@@ -1919,7 +1925,9 @@ VIII. Contra disposiciones de carácter general, que no hayan sido aplicadas con
 
 IX. Contra actos cuyos efectos legales o materiales hayan cesado o que no puedan surtirse efectos por haber dejado de existir el objeto o materia del mismo;
 
-X. Contra actos y resoluciones distintos de los mencionados en el artículo 6º de la Ley Orgánica del Tribunal, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+X. Contra actos y resoluciones distintos de los enunciados en el artículo 7° de la Ley Orgánica del Tribunal, y
 
 XI. En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de cualquiera otra de naturaleza fiscal o administrativa.
 
@@ -1943,7 +1951,9 @@ V. Cuando de las constancias de autos apareciere claramente que no existe el act
 
 VI. Si el juicio queda sin materia;
 
-VII. Cuando en el caso del incidente de interrupción del procedimiento no comparezca el albacea, tutor o representante legal que corresponda, dentro del plazo establecido al efecto, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+VII. Cuando en el caso del incidente de interrupción del procedimiento previsto en la fracción IV del artículo 122 de este Código, no comparezca el albacea, tutor o representante legal que corresponda, dentro del plazo establecido al efecto, y
 
 VIII. En los demás casos en los que por disposición legal exista impedimento para emitir resoluciones en cuanto al fondo.
 
@@ -2049,7 +2059,9 @@ I. Cuando se impugne una negativa ficta;
 
 II. Contra el acto principal del que derive la resolución impugnada en la demanda, así como su notificación, cuando se den a conocer en la contestación;
 
-III. En los casos previstos en el artículo 235 de este Código;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+III. En los casos previstos en el artículo 236 de este Código;
 
 IV. Cuando con motivo de la contestación, se introduzcan cuestiones que no sean conocidas por el actor al presentar la demanda, y
 
@@ -2113,7 +2125,9 @@ VI. Las pruebas que ofrezca.
 
 La parte demandada deberá adjuntar a su contestación copias de la misma y de los documentos que acompañe, para cada una de las demás partes.
 
-Para efectos de lo anterior, se estará a lo dispuesto en el segundo párrafo del artículo 244 de este Código.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Para efectos de lo anterior, se estará a lo dispuesto en el párrafo segundo del artículo 235 de este Código.
 
 En la contestación de la demanda no podrá variarse la fundamentación y motivación del acto impugnado.
 
@@ -2123,11 +2137,13 @@ En la contestación de la demanda o antes de que se dicte sentencia, la autorida
 
 En ese caso, el Magistrado debe analizar si la revocación satisface las pretensiones del demandante, en su defecto continuará el trámite del juicio.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 245.
 
-En el mismo auto en el que se admita la contestación de la demanda o, en su caso, en el que se tenga por precluido el derecho correspondiente en términos del artículo 239 de este Código, se fijará el día y hora en que tendrá lugar la audiencia final, la cual deberá celebrarse dentro de los veinte días hábiles siguientes a la fecha del auto.
+En el mismo auto en el que se admita la contestación de la demanda o, en su caso, en el que se tenga por precluido el derecho correspondiente en términos del artículo 241 de este Código, se fijará el día y hora en que tendrá lugar la audiencia final, la cual deberá celebrarse dentro de los veinte días hábiles siguientes a la fecha del auto.
 
-Cuando se advierta que se está en uno de los supuestos del artículo 281 del presente Código, no se fijará día y hora para dicha audiencia, sino hasta en el auto en el que se tenga por contestada la ampliación de la demanda o, en su caso, cuando se declare precluido el derecho de la parte demandada para producir su contestación, o el del actor para presentar tal ampliación.
+Cuando se advierta que se está en uno de los supuestos del artículo 237 del presente Código, no se fijará día y hora para dicha audiencia, sino hasta en el auto en el que se tenga por contestada la ampliación de la demanda o, en su caso, cuando se declare precluido el derecho de la parte demandada para producir su contestación, o el del actor para presentar tal ampliación.
 
 ### Capítulo VI. Audiencia Final
 
@@ -2151,15 +2167,19 @@ Una vez iniciada la audiencia, ésta podrá suspenderse cuando existan causas ju
 
 ### Capítulo VII. Sentencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 248.
 
-Las sentencias se pronunciarán el (sic) Magistrado de la Sala.
+Las sentencias serán pronunciadas por el Magistrado de la Sala.
 
 Al pronunciar la sentencia se debe considerar que los actos impugnados gozan de presunción de legalidad.
 
 La Sala, al pronunciar sentencia suplirá las deficiencias de la queja planteada en la demanda, siempre y cuando de los hechos narrados se deduzca el agravio, pero en todos los casos se contraerá a los puntos de la litis.
 
-Las causas de sobreseimiento previstas en el artículo 248 fracciones I, III, IV y VI de este Código, podrán decretarse sin que se hubiere celebrado la audiencia final.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Las causas de sobreseimiento previstas en el artículo 229 fracciones, I, III, IV, y VI de este Código, podrán decretarse sin que se hubiere celebrado la audiencia final.
 
 ###### ARTÍCULO 249.
 
@@ -2269,9 +2289,11 @@ Si la parte actora o el tercero no contestan la vista, la Sala resolverá de ofi
 
 Si la sentencia está cumplida, la Sala ordenará el archivo del expediente; si no lo está, requerirá a la autoridad para que dé cumplimiento, en los términos que establece este artículo.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 258.
 
-Si el servidor público que deba ser destituido conforme al artículo anterior desempeña un cargo de elección popular, la Sala procederá conforme a la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+Si el servidor público que deba ser destituido conforme al artículo anterior desempeña un cargo de elección popular, la Sala procederá conforme a la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 259.
 
@@ -2532,3 +2554,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0269.- SE REFORMAN LOS ARTÍCULOS 124, 160, 168, 228, 229, 237, 244, 245, 248 Y 258 DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
