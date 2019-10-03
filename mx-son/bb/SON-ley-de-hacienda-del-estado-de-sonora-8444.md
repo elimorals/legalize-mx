@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2018-12-24"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -3299,6 +3299,14 @@ Por la expedición, canje o revalidación de placas de transporte privado, por e
 
 5.- Toda la recaudación que por concepto de esta cuota adicional se obtenga, será para el fortalecimiento y sostenimiento de la Cruz Roja.
 
+> <small>(ADICIONADO, B.O. 3 DE OCTUBRE DE 2019)</small>
+
+La Secretaría de Hacienda deberá de rendir un informe anual al Congreso del Estado, respecto al número y montos de transferencias de recursos que recaudó por concepto de contribución para el fortalecimiento y sostenimiento de la Cruz Roja correspondiente al ejercicio inmediato anterior. El informe deberá ser presentado a más tardar el día 31 de marzo del ejercicio fiscal siguiente.
+
+> <small>(ADICIONADO, B.O. 3 DE OCTUBRE DE 2019)</small>
+
+El patronato de la Cruz Roja en el Estado, deberá rendir un informe anual al Congreso del Estado, mediante el cual detalle el monto total de los recursos que le fueron transferidos por el Ejecutivo del Estado, a través de la Secretaría de Hacienda, por concepto de contribución para el fortalecimiento y sostenimiento de la Cruz Roja correspondiente al ejercicio inmediato anterior, así como el desglose de los conceptos en los cuales fueron erogados los recursos, precisando el concepto y el monto erogado en cada caso particular, anexando, además, la factura en PDF, XML y CFDI o cualquier otro formato de comprobación que mediante Reglas de Carácter General establezca la autoridad tributaria federal que justifique cada erogación hecha con dichos recursos. El informe deberá presentarse a más tardar el día 31 de marzo del ejercicio fiscal siguiente.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 8 DE MARZO DE 2018)</small>
 
 ###### Artículo 292 Bis
@@ -6439,9 +6447,9 @@ La Secretaría de Hacienda y las entidades paraestatales de la administración p
 
 a).- Adquisiciones
 
-1.- Monto presupuesto total autorizado de $200,000.00 hasta $3'000,000.00. $1,000.00
+1.- Monto presupuesto total autorizado de $200,000.00 hasta $3’000,000.00. $1,000.00
 
-2.- Monto presupuesto total autorizado de $3'000,001.00 en adelante. $2,000.00
+2.- Monto presupuesto total autorizado de $3’000,001.00 en adelante. $2,000.00
 
 b).- Servicios y Arrendamientos
 
@@ -6449,9 +6457,9 @@ b).- Servicios y Arrendamientos
 
 c).- Obra Pública
 
-1.- Monto presupuesto total autorizado de $2'015,000.00 hasta $5'000,000.00. $2,000.00
+1.- Monto presupuesto total autorizado de $2’015,000.00 hasta $5’000,000.00. $2,000.00
 
-2.- Monto presupuesto total autorizado de $5'000,001.00 en adelante. $3,000.00
+2.- Monto presupuesto total autorizado de $5’000,001.00 en adelante. $3,000.00
 
 d).- Servicios Relacionados con Obra Pública
 
@@ -7894,3 +7902,11 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Lo dispuesto en el artículo 41 Decies del Código Fiscal del Estado de Sonora, será aplicable a partir del ejercicio fiscal del año 2019, a efecto de que el primer dictamen se presente a más tardar el día 30 de julio de 2020, por el citado ejercicio fiscal del año 2019.
+
+B.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 56, QUE ADICIONA LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 292 BIS-5 DE LA LEY DE HACIENDA DEL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
