@@ -4,7 +4,7 @@ identifier: "SON-ley-de-mejora-regulatoria-para-el-estado-de-sonora-50713"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-29"
-last_updated: "2006-05-29"
+last_updated: "2019-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50713&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE MEJORA REGULATORIA PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ESTATAL DE MEJORA REGULATORIA, PUBLICADA EN EL B.O. DE 3 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE OCTUBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 29 de mayo de 2006.
 
@@ -556,3 +558,53 @@ EDUARDO BOURS CASTELO
 EL SECRETARIO DE GOBIERNO POR MINISTERIO DE LEY
 
 ENRIQUE PALAFOX PAZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY ESTATAL DE MEJORA REGULATORIA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Mejora Regulatoria para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora, en fecha 29 de mayo de 2006.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo Estatal de Mejora Regulatoria deberá estar instalado dentro un plazo de noventa días naturales siguientes a la entrada en vigor de la presente Ley. El Secretario Técnico del Consejo Estatal realizará las acciones conducentes para la debida instalación de éste.
+
+###### ARTÍCULO CUARTO.
+
+En los municipios con más de 50,000 habitantes, los Consejos Municipales de Mejora Regulatoria deberán estar instalados dentro de un plazo de 120 días naturales, contado a partir de la entrada en vigor de la presente Ley.
+
+Los municipios con menos de 50,000 habitantes que no tengan capacidad de establecer un sistema de mejora regulatoria, deberán nombrar un responsable de conducir la política de mejora regulatoria.
+
+Los nombramientos de los comisionados o responsables de conducir la política de mejora regulatoria, serán designados en un plazo de 60 días naturales, contado a partir de la entrada en vigor de esta Ley y se comunicará dicha designación a la Comisión Estatal en un plazo de 7 días hábiles, a partir de la fecha de designación.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones normativas vigentes en el Estado de Sonora, que no se contrapongan a lo dispuesto por la Ley General de Mejora Regulatoria y la presente Ley, continuarán surtiendo sus efectos.
+
+###### ARTÍCULO SEXTO.
+
+Las manifestaciones de impacto regulatorio presentadas por las autoridades con anterioridad a la entrada en vigor de la presente Ley, serán concluidas conforme a las disposiciones aplicables vigentes a la fecha de su presentación.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las Autoridades de Mejora Regulatoria y los Sujetos Obligados darán cumplimiento a las obligaciones establecidas en la presente Ley con cargo a sus respectivos presupuestos.
+
+###### ARTÍCULO OCTAVO.
+
+Los Sujetos Obligados de las dependencias del Poder Ejecutivo, sus órganos y entidades, los Poderes Legislativo y Judicial, los organismos con autonomía constitucional y los organismos con jurisdicción contenciosa, que no formen parte del Poder Judicial, así como aquellos del orden municipal, deberán, en el ámbito de su competencia, expedir las disposiciones jurídicas y realizar las adecuaciones normativas correspondientes en esta materia, dentro del año siguiente a la entrada en vigor de la presente Ley, para efectos de dar cumplimiento a lo dispuesto por la misma.
+
+###### ARTÍCULO NOVENO.
+
+Dentro de los noventa días a la entrada en vigor de esta ley deberán entrar en operación los Registros de Trámites y Servicios.
+
+###### ARTÍCULO DÉCIMO.
+
+Las obligaciones previstas en la presente Ley, cuyo cumplimiento se encuentre sujeto a la entrada en vigor de los lineamientos y demás normas administrativas generales que ordena expedir la Ley General de Mejora Regulatoria, serán exigibles cuando así lo establezcan dichas disposiciones.
