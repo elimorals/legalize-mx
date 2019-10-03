@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cambio-climatico-para-el-estado-de-san-luis-potosi-10973
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2019-03-05"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2015.
 
@@ -189,7 +189,9 @@ b) Establecer programas de reforestación.
 
 c) Aumentar el volumen de generación energética, principalmente energías renovables, como eólica, solar, mini hidroeléctrica y biomasa.
 
-d) Construir rutas de transporte público que deberán cumplir con la última generación de estándares de emisión, u otros sistemas de transporte colectivo más eficientes, y
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+d) Construir rutas de transporte público que deberán cumplir con la última generación de estándares de emisión, u otros sistemas de transporte colectivo más eficientes;
 
 III. Educación y cambios de patrones de conducta, consumo y producción:
 
@@ -203,9 +205,13 @@ c) Reconocer e incentivar a las empresas e instituciones que propicien que sus t
 
 d) Crear, en coordinación con la Secretaría de Ecología y Gestión Ambiental programas de difusión sobre la plantación, cuidado, conservación y preservación de árboles para toda la población, con el apoyo de las instituciones educativas del Estado y los municipios.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-e) Promover la innovación tecnológica empresarial en torno a la prevención, mitigación y control del cambio climático.
+e) Promover la innovación tecnológica empresarial en torno a la prevención, mitigación y control del cambio climático, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+IV. Usar datos comprobados, provenientes del Inventario Nacional de Energías Renovables, con el fin de identificar las zonas con las condiciones adecuadas para distintos proyectos de energías renovables en el Estado.
 
 ###### ARTÍCULO 10.
 
@@ -703,11 +709,11 @@ PRIMERO. Esta Ley entrará en vigor al día siguiente de su publicación en el P
 
 SEGUNDO. El Ejecutivo del Estado emitirá, en el ámbito de sus atribuciones, las disposiciones reglamentarias de la Ley de Cambio Climático para el Estado de San Luis Potosí, dentro del plazo de ciento ochenta días naturales contados a partir de su entrada en vigor.
 
-TERCERO. La Secretaría integrará la Comisión Intersecretarial, y el Consejo Consultivo en la materia, dentro del plazo de treinta días hábiles posteriores a la entrada en vigor de esta Ley; para tal efecto dará preferencia a las personas que conformaban dichos órganos, en términos del Decreto Legislativo de creación publicado en el Periódico Oficial del Estado el 21 de mayo de 2011.
+TERCERO. La Secretaría integrará la Comisión Intersecretarial, y el Consejo Consultivo en la materia, dentro del plazo de treinta días hábiles posteriores a la entrada en vigor de esta Ley; para tal efecto dará preferencia a las personas que conformaban dichos órganos en términos del Decreto Legislativo de creación publicado en el Periódico Oficial del Estado el 21 de mayo de 2011.
 
 Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
-DADO en el salón de sesiones "Ponciano Arriaga Leija" del Honorable Congreso del Estado, el once de agosto de dos mil quince.
+DADO en el salón de sesiones “Ponciano Arriaga Leija” del Honorable Congreso del Estado, el once de agosto de dos mil quince.
 
 Diputado Presidente, Crisógono Sánchez Lara; Diputado Primer Secretario, Jorge Adalberto Escudero Villa; Diputado Segundo Secretario, Jorge Alejandro Vera Noyola. (Rúbricas).
 
@@ -774,5 +780,13 @@ P.O. 5 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0128.- SE REFORMA EL ARTÍCULO 1°; Y ADICIONA EL ARTÍCULO 7° BIS DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0262.- SE REFORMA EL ARTÍCULO 9°; Y ADICIONA AL MISMO ARTÍCULO 9° LA FRACCIÓN IV, DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
