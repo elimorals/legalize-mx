@@ -4,7 +4,7 @@ identifier: "VER-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-131511
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-24"
-last_updated: "2018-08-24"
+last_updated: "2019-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "VER"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMO DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 3 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en el Número Extraordinario del Número 340 del Periódico Oficial del Estado de Veracruz, el viernes 24 de agosto del 2018.
 
@@ -635,3 +637,23 @@ PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de s
 SEGUNDO. Los Manuales de Organización y Procedimientos de la Secretaría Ejecutiva deberán expedirse a los 90 días de la publicación del presente estatuto, debiendo enviar la Estructura Orgánica a la Secretaría de Finanzas y Planeación para su registro.
 
 TERCERO. Los asuntos no previstos en el presente estatuto, serán resueltos por el Órgano de Gobierno.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Los procedimientos, trámites, acciones, compromisos iniciados ante las instancias, instituciones u organismos, que conforme a la expedición del presente Estatuto hayan modificado su nomenclatura o naturaleza jurídica, serán continuados ante las unidades administrativas que realicen las funciones sustantivas que correspondan, según el caso en concreto; para lo cual, deberán atender a su nueva denominación, sin que dicha condición altere, modifique, afecte o invalide el curso o la existencia de aquellos.
+
+Tercero. Los acuerdos, lineamientos o instrucciones emitidos por el Titular de la Secretaría Ejecutiva mediante el cual se deleguen funciones específicas a favor de servidoras o servidores públicos y donde se invoquen atribuciones conforme a las atribuciones consagradas en el Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Veracruz, publicado el veinticuatro de agosto de dos mil dieciocho, en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, conservarán su vigencia en tanto no se opongan al presente Estatuto.
+
+Cuarto. Las adecuaciones a los Manuales de Organización y Procedimientos de la Secretaría Ejecutiva que sean necesarias deberán realizarse en un plazo que no exceda de sesenta días a partir de la entrada en vigor del presente Estatuto, debiendo hacer del conocimiento de aquellas a la Secretaría de Finanzas y Planeación para lo que corresponda.
+
+Quinto. Las atribuciones encomendadas a la Unidad de Transparencia en cuanto hacen a la conservación de información, seguirán siendo realizadas por esta Unidad, hasta que existan condiciones presupuestarias favorables para la debida integración de las áreas que componen el Sistema Institucional de Archivos, al que hace referencia el artículo 21 de la Ley General de Archivos.
+
+Sexto. Los asuntos no previstos en el presente Estatuto, serán resueltos por el Órgano de Gobierno.
+
+Séptimo. Se abroga el Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Veracruz, publicado el veinticuatro de agosto de dos mil dieciocho, en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
