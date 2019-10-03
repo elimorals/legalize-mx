@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2019-09-30"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1699,9 +1699,9 @@ La SEGAM, en coordinación con los ayuntamientos, para los efectos de este capit
 
 I. El uso de sistemas de reciclamiento de desechos sólidos para disminuir su cantidad, a través de la separación y clasificación, así como la operación de sistemas de reciclaje y la eliminación del uso de bolsas de plástico;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-II. La implantación y mejoramiento de sistemas de recolección, tratamiento y disposición final de residuos sólidos urbanos y residuos de manejo especial;
+II. Podrán implementar estrategias para la recolección, tratamiento y disposición final de residuos sólidos urbanos, y residuos de manejo especial;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2014)</small>
 
@@ -3398,3 +3398,11 @@ P.O. 30 DE SEPTIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0261.- SE REFORMA EL ARTÍCULO 104 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
