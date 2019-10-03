@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-y-65768"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-18"
-last_updated: "2019-07-29"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -45,7 +45,9 @@ LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUIS P
 
 Esta Ley es de observancia general para el Estado y los municipios de San Luis Potosí; sus disposiciones son de orden público e interés social; y tienen por objeto:
 
-I. Fomentar y promover la lectura;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+I. Fomentar y promover la lectura, así como la comprensión de textos;
 
 II. Promover la producción, distribución, difusión, calidad y preservación del libro, y facilitar su acceso a toda la población;
 
@@ -53,11 +55,15 @@ III. Distribuir y coordinar entre los gobiernos municipales y el Gobierno Federa
 
 IV. Coordinar y concertar a los sectores social y privado en esta materia, y
 
-V. Establecer criterios que permitan generar políticas públicas para todas las regiones del Estado de San Luis Potosí, en materia de fomento y promoción de la lectura, con especial atención en las zonas rurales e indígenas.
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-###### ARTICULO 2º.
+V. Establecer criterios que permitan generar políticas públicas para todas las regiones del Estado de San Luis Potosí, en materia de fomento y promoción de la lectura, así como la comprensión de textos; con especial atención en las zonas rurales e indígenas.
 
-Dado que el derecho a la educación y a la cultura son garantías que consagra nuestra Constitución, esta Ley pretende elevar el fomento y promoción de la lectura en San Luis Potosí, como método eficaz para el enriquecimiento cultural del pueblo potosino.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 2°.
+
+Dado que el derecho a la educación y a la cultura son garantías que consagra nuestra Constitución, esta Ley pretende elevar el fomento y promoción de la lectura, así como la comprensión de textos en San Luis Potosí, como método eficaz para el enriquecimiento cultural del pueblo potosino.
 
 ###### ARTICULO 3°.
 
@@ -177,7 +183,9 @@ II. Un vicepresidente, que será el Secretario de Cultura del Estado;
 
 III. Un secretario ejecutivo, que será el director general de educación básica de la Secretaría de Educación de Gobierno del Estado, y
 
-IV. Hasta quince vocales, que serán los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE OCTUBRE DE 2019)</small>
+
+IV. Hasta dieciséis vocales, que serán los siguientes:
 
 a) El director general de desarrollo cultural de la Secretaría de Cultura.
 
@@ -194,6 +202,10 @@ f) El director general de bibliotecas de la Secretaría de Educación de Gobiern
 g) El titular del consejo estatal de participación social de la Secretaría de Educación de Gobierno del Estado.
 
 h) Hasta cinco titulares de los departamentos de cultura de los gobiernos municipales, que deberán ser elegidos cada año por el Presidente del Consejo, de entre los municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+i) Un representante de las asociaciones de expendedores de libros, bibliotecarios y escritores en el Estado.
 
 Los cargos de dicho consejo son honoríficos, es decir, quienes los ejercen no perciben remuneración alguna por desempeñarlos.
 
@@ -280,5 +292,21 @@ P.O. 29 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0210.- SE REFORMAN LOS ARTÍCULOS 4° Y 5°; Y ADICIONA A LOS ARTÍCULOS 5° UNA FRACCIÓN Y 7° EL PÁRRAFO SEGUNDO, DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0259.- SE REFORMAN LOS ARTÍCULOS 1° Y 2° DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0260.- SE REFORMA Y ADICIONA EL ARTÍCULO 10 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
