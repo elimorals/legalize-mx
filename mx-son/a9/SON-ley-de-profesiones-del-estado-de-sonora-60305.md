@@ -4,7 +4,7 @@ identifier: "SON-ley-de-profesiones-del-estado-de-sonora-60305"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-18"
-last_updated: "2018-04-26"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE PROFESIONES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de marzo de 2008.
 
@@ -231,6 +231,10 @@ II.- La prestación del servicio social; y
 
 III.- Los demás requisitos previstos por los ordenamientos jurídicos aplicables.
 
+> <small>(ADICIONADO, B.O. 3 DE OCTUBRE DE 2019)</small>
+
+El servicio social al que se refiere la fracción II de este artículo será considerado como experiencia profesional, sin que ésta pueda acreditarse como relación laboral.
+
 ###### Artículo 9.
 
 Para obtener la Cédula Profesional Estatal, se deberá contar con Título profesional debidamente registrado ante la Secretaría y cumplir con los requisitos que además señale el reglamento de esta ley.
@@ -317,7 +321,9 @@ VIII.- Las demás que se señalen en esta ley, su reglamento y demás disposicio
 
 Los estudiantes de las profesiones en los niveles de técnico, técnico superior y licenciatura, así como los profesionistas que ejerzan las profesiones previstas en la presente ley, deberán prestar el servicio social que les corresponda en los términos de esta ley, su reglamento y demás disposiciones aplicables.
 
-En todo caso, el servicio social que presten los estudiantes, sin perjuicio de las disposiciones que emitan las autoridades competentes, deberá enfocarse a vincularlos con las necesidades de su comunidad.
+> <small>(REFORMADO, B.O. 3 DE OCTUBRE DE 2019)</small>
+
+En todo caso, el servicio social que presten los estudiantes, sin perjuicio de las disposiciones que emitan las autoridades competentes, deberá enfocarse a vincularlos con las necesidades de su comunidad y será considerado como experiencia laboral, sin que ésta se acredite como relación laboral.
 
 ###### Artículo 19.
 
@@ -636,3 +642,11 @@ B.O. 26 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 57, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROFESIONES Y DE LA LEY DE EDUCACIÓN, AMBAS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
