@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-de-agentes-inmobiliarios-del-estado-de-san-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-06"
-last_updated: "2016-10-15"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82897&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de agosto de 2011.
 
@@ -147,7 +147,7 @@ d) Copia de la cédula de inscripción en el Registro Federal de Contribuyentes.
 
 e) Presentar los documentos e información previstos en los incisos b) y c) de la fracción anterior.
 
-f) Acreditar no contar con antecedes (sic) penales con motivo de la comisión de delito alguno de carácter patrimonial, u otros de naturaleza grave.
+f) (DEROGADO, P.O. 3 DE OCTUBRE DE 2019)
 
 > <small>(ADICIONADO, P.O. 10 DE ENERO DE 2015)</small>
 
@@ -350,5 +350,13 @@ SEGUNDO. Se deroga todo lo que se oponga al presente Decreto.
 P.O. 15 DE OCTUBRE DE 2016.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0265.- SE DEROGA DEL ARTÍCULO 6° EN SU FRACCIÓN II EL INCISO F), DE LA LEY DEL REGISTRO DE AGENTES INMOBILIARIOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
