@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2019-08-20"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -43,9 +43,11 @@ LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSI
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 1°.
 
-Las disposiciones de esta Ley son de orden público e interés social, y tienen por objeto determinar la integración del patrimonio y la hacienda pública de los municipios; señalar las características de los ingresos que pueden percibir éstos, así como fijar el sujeto, el objeto y la base de las contribuciones municipales y de sus accesorios.
+Las disposiciones de esta Ley son de orden público e interés social, y tienen por objeto determinar la integración del patrimonio y la hacienda pública de los municipios; señalar los ingresos que pueden percibir éstos y sus características, así como fijar el sujeto, el objeto, la base, la forma y época de pago y exenciones de las contribuciones municipales y de sus accesorios.
 
 ###### ARTICULO 2°.
 
@@ -79,11 +81,17 @@ VII. Los bienes y derechos que formen su patrimonio.
 
 Además de esta Ley, la hacienda municipal se regirá por la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las respectivas leyes de ingresos aprobadas por la Legislatura Estatal, por los respectivos presupuestos de ingresos y egresos de vigencia anual aprobados por los propios ayuntamientos; así como por la Ley de Coordinación Fiscal del Estado, la Ley de Deuda Pública del Estado y Municipios de San Luis Potosí, la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y los reglamentos municipales respectivos y aplicables; y por los convenios de coordinación y colaboración suscritos o que se suscriban con el Gobierno del Estado. El Código Fiscal del Estado se aplicará en forma supletoria de estas disposiciones. Sólo en ausencia de norma fiscal estatal se aplicarán las reglas del derecho fiscal y del derecho común.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 5°.
+
+Además de esta Ley, la hacienda pública municipal se regirá por la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las respectivas leyes de ingresos aprobadas por la Legislatura Estatal, por los respectivos presupuestos de ingresos y egresos de vigencia anual aprobados por los propios ayuntamientos; así como por la Ley de Coordinación Fiscal del Estado, la Ley de Deuda Pública Municipal, la Ley de Catastro del Estado y Municipios de San Luis Potosí, la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí, y los Reglamentos Municipales respectivos y aplicables; y por los convenios de coordinación y colaboración suscritos o que se suscriban con el Gobierno del Estado. El Código Fiscal del Estado se aplicará en forma supletoria de estas disposiciones. Sólo en ausencia de norma fiscal estatal se aplicarán las reglas del derecho fiscal y del derecho común.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2014)</small>
 
-###### ARTICULO 6°.
+###### ARTICULO 6º.
 
-Los municipios, por conducto de sus ayuntamientos, someterán anualmente ante el Congreso del Estado su correspondiente iniciativa de Ley de Ingresos, en la que se especificarán las fuentes de sus ingresos, sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que se estime serán transferidos por la Federación, a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones locales. Asimismo, se establecerán las tasas y tarifas que deben aplicarse a las contribuciones respectivas, sin modificar los demás elementos de las contribuciones, como sujetos, objeto, bases y períodos de pago.
+Los municipios, por conducto de sus ayuntamientos, someterán anualmente ante el Congreso del Estado su correspondiente iniciativa de Ley de Ingresos, en la que se especificarán las fuentes de sus ingresos, sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que se estime serán transferidos por la Federación, a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones locales. Asimismo, se establecerán las tasas, costos y cuotas que deben aplicarse a las contribuciones respectivas, sin modificar los demás elementos de las contribuciones, como sujetos, objeto, bases y períodos de pago.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
 
@@ -92,12 +100,6 @@ Dicha iniciativa debe incluir también las obligaciones de garantía o pago caus
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
 De conformidad con la Ley del Registro Público de la Propiedad y del Catastro para el Estado y Municipios de San Luis Potosí, someterán asimismo a la Legislatura estatal, la aprobación de las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
-
-###### ARTICULO 5°.
-
-Además de esta Ley, la hacienda pública municipal se regirá por la Constitución Política del Estado, la Ley Orgánica del Municipio Libre, las respectivas leyes de ingresos aprobadas por la Legislatura Estatal, por los respectivos presupuestos de ingresos y egresos de vigencia anual aprobados por los propios ayuntamientos; así como por la Ley de Coordinación Fiscal del Estado, la Ley de Deuda Pública Municipal, la Ley de Catastro del Estado y Municipios de San Luis Potosí, la Ley para la Administración de las Aportaciones Transferidas al Estado y Municipios de San Luis Potosí, y los Reglamentos Municipales respectivos y aplicables; y por los convenios de coordinación y colaboración suscritos o que se suscriban con el Gobierno del Estado. El Código Fiscal del Estado se aplicará en forma supletoria de estas disposiciones. Sólo en ausencia de norma fiscal estatal se aplicarán las reglas del derecho fiscal y del derecho común.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2014)</small>
 
 ###### ARTICULO 7°.
 
@@ -113,7 +115,9 @@ Los municipios podrán celebrar convenios con el Ejecutivo Estatal para la admin
 
 Las autoridades municipales no podrán otorgar exenciones, descuentos o reducciones de impuestos o derechos, con excepción de los señalados en los artículos 16 en su segundo párrafo, 18, 20 en su segundo y tercer párrafos, 27, 29 y 43 en su segundo, tercero y cuarto párrafos de esta Ley.
 
-Solamente previo acuerdo de cabildo podrá otorgarse reducciones y subsidios en recargos y multas, en forma general, cuando las circunstancias económicas lo justifiquen.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Solamente previo acuerdo de cabildo podrá (sic) otorgarse reducciones y subsidios en gastos de ejecución, recargos y multas, en forma general, cuando las circunstancias económicas lo justifiquen.
 
 ###### ARTICULO 10.
 
@@ -131,19 +135,25 @@ Las contribuciones municipales podrán dar lugar a su actualización y a la gene
 
 Ningún giro industrial, comercial, agrícola, ganadero, artesanal y de prestación de servicios, podrán iniciar operaciones sin autorización previa de las autoridades municipales.
 
-Para efectos de control, las autoridades municipales podrán expedir licencias para la realización de las actividades señaladas en el párrafo anterior, sin efectuar cobro alguno por la expedición de las mismas.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Para efectos de control, las autoridades municipales podrán expedir licencias para la realización de las actividades señaladas en el párrafo anterior, sin efectuar cobro alguno por la expedición de las mismas, de acuerdo a lo previsto por el artículo 10 A, de la Ley de Coordinación Fiscal Federal.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ### CAPITULO I. DEL IMPUESTO PREDIAL
 
 ###### ARTICULO 14.
 
-Las tesorerías municipales, dentro de los diez días siguientes a la fecha de presentación de las solicitudes del contribuyente, expedirán las cédulas de empadronamiento y las placas respectivas.
+Las tesorerías municipales, dentro de los diez días hábiles siguientes a la fecha de presentación de las solicitudes del contribuyente, expedirán las cédulas de empadronamiento y las placas respectivas.
 
-Las licencias, permisos, registros o placas que se expidan por la autoridad municipal serán validas por el año fiscal correspondiente, y con exclusividad para las personas, lugares, giros o actividad para las cuales se hubieran concedido. Las autoridades municipales quedan facultadas para revocarlas por causa de utilidad pública, interés social o causas graves y justificadas.
+Las licencias, permisos, autorizaciones, registros o placas que se expidan por la autoridad municipal serán válidas por el año fiscal correspondiente o que determine ésta, y con exclusividad para las personas, lugares, giros o actividad para las cuales se hubieran concedido. Las autoridades municipales quedan facultadas para revocarlas por causa de utilidad pública, interés social o causas graves y justificadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 15.
 
-Los propietarios a que se refiere el primer párrafo del artículo 13 de esta Ley, tienen la obligación de refrendar cada año su empadronamiento a efecto de obtener su cédula y autorización respectivas, dentro de los primeros quince días de cada año.
+Los propietarios o poseedores de las actividades a que se refiere el primer párrafo del artículo 13 de esta Ley, tienen la obligación de refrendar cada año su empadronamiento a efecto de obtener su cédula y autorización respectivas, dentro de los primeros quince días hábiles de cada año.
 
 Las cédulas de empadronamiento no serán transferidas.
 
@@ -1032,5 +1042,13 @@ P.O. 20 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0239.- SE REFORMAN LOS ARTÍCULOS 5°, 6°, 19 Y 30 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0270.- SE REFORMAN LOS ARTÍCULOS 1º, 6º, 9º, 13, 14, Y 15 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
