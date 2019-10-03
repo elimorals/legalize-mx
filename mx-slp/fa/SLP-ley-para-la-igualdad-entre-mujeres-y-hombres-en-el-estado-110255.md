@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-11025
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-12"
-last_updated: "2018-08-30"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 12 de septiembre de 2015.
 
@@ -331,9 +331,21 @@ VIII. Promover el empoderamiento de las mujeres, en especial en los ámbitos edu
 
 IX. Fomentar la participación y representación política con paridad entre mujeres y hombres;
 
-X. Reconocer y promover la igualdad de acceso y el pleno disfrute de los derechos civiles, políticos, económicos, sociales y culturales para las mujeres y los hombres, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-XI. Instrumentar acciones de formación y capacitación permanente con perspectiva de género, para funcionarias y funcionarios públicos encargados de la planeación y programación de las políticas públicas, en materia de igualdad y no discriminación.
+X. Reconocer y promover la igualdad de acceso y el pleno disfrute de los derechos civiles, políticos, económicos, sociales y culturales para las mujeres y los hombres;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+XI. Instrumentar acciones de formación y capacitación permanente con perspectiva de género, para funcionarias y funcionarios públicos encargados de la planeación y programación de las políticas públicas, en materia de igualdad y no discriminación;
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+XII. Garantizar la integración del principio de igualdad sustantiva en la formulación, desarrollo y evaluación de políticas, estrategias y programas en materias de salud, deporte, educación y cultura, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+XIII. Promover que en las prácticas de comunicación social de las instituciones públicas, así como en los medios masivos de comunicación electrónicos e impresos en el Estado, se elimine el uso de estereotipos sexistas, vejatorios y discriminatorios, e incorpore un lenguaje incluyente y de respeto de los derechos humanos.
 
 ### CAPÍTULO II. DE LOS INSTRUMENTOS DE POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
@@ -778,3 +790,11 @@ P.O. 30 DE AGOSTO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0253.- SE REFORMA EL ARTÍCULO 18; Y ADICIONA AL MISMO ARTÍCULO 18 LAS FRACCIONES, XII, Y XIII, DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
