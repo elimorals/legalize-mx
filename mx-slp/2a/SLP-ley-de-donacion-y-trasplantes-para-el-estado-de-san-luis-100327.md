@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-donacion-y-trasplantes-para-el-estado-de-san-luis-100327
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2017-10-03"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE DONACION Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSI -ANTES LEY DE DONACION Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS PARA EL ESTADO DE SAN LUIS POTOSI -ANTES LEY DE DONACION Y TRASPLANTES DE ORGANOS, TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSI-
 
-LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE SAN LUIS POTOSÍ
+LEY DE DONACIÓN Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 25 de marzo de 2014.
 
@@ -33,7 +33,9 @@ DECRETO 530
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS…
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por último, se incluye la regulación de un tema que de conformidad con lo dispuesto en la Ley General de Salud corresponde a las entidades federativas, a través de las autoridades en materia de salud, y que es la disposición de órganos, tejidos y componentes en cadáveres no reclamados.
 
@@ -41,9 +43,9 @@ Por último, se incluye la regulación de un tema que de conformidad con lo disp
 
 Se expide la Ley de Donación y Trasplantes de Órganos, Tejidos y Componentes para el Estado de San Luis Potosí
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE SAN LUIS POTOSÍ
+LEY DE DONACIÓN Y TRASPLANTES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -1190,5 +1192,13 @@ P.O. 3 DE OCTUBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0706.- REFORMAS, ADICIONES Y DEROGACIONES A LA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y COMPONENTES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0268.- SE REFORMA LA DENOMINACIÓN DE LA AHORA LEY DE DONACIÓN Y TRASPLANTES DE ÓRGANOS, TEJIDOS Y CÉLULAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
