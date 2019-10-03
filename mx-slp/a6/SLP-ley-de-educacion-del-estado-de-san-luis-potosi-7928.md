@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2019-08-20"
+last_updated: "2019-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -463,7 +463,9 @@ XVII.- Organizar, controlar y mantener al corriente el registro de los avances e
 
 XVIII.- Promover la participación de los educandos de la Entidad en los encuentros y competencias deportivas y culturales nacionales e internacionales;
 
-XIX.- Planear, ejecutar y evaluar programas para prevenir y atacar la farmacodependencia, el alcoholismo y el pandillerismo;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+XIX. Planear, ejecutar y evaluar programas para prevenir y atacar la farmacodependencia, el alcoholismo, el pandillerismo, y el abuso sexual;
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2018)</small>
 
@@ -813,9 +815,9 @@ La educación para adultos está destinada para las personas de quince años o m
 
 La formación para el trabajo procurará la adquisición de conocimientos, habilidades o destrezas, que permitan a quien la recibe desarrollar una actividad productiva demandada en el mercado, mediante alguna ocupación o algún oficio calificados. Esta educación incluirá un capítulo especial dirigido a personas con discapacidad.
 
-> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-Se proporcionará particular atención a las mujeres adultas mayores, indígenas, y mujeres que sufran alguna discapacidad, para que tengan acceso a este tipo de educación.
+Se proporcionará particular atención a las mujeres adultas mayores, indígenas, víctimas de violencia y que sufran alguna discapacidad, para que tengan acceso a este tipo de educación.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2018)</small>
 
@@ -2516,6 +2518,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0233.- SE REFORMA EL ARTÍCULO 9° DE LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0257.- SE REFORMA EL ARTÍCULO 22 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0258.- SE REFORMA EL ARTÍCULO 40 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
