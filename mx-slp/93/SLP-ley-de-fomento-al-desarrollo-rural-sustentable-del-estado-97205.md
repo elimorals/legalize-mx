@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2019-07-03"
+last_updated: "2019-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -63,7 +63,9 @@ II. Propiciar el desarrollo rural sustentable en el Estado, respetando el derech
 
 III. Planear, organizar, regular y promover el desarrollo, industrialización y comercialización agrícola, agroindustrial, así como los bienes, servicios y todas aquellas acciones tendientes a la elevación de la calidad de vida de la población rural, atendiendo las necesidades de protección ambiental del Estado;
 
-IV. Fomentar el desarrollo y protección de la biodiversidad genérica y el mejoramiento de la calidad de los recursos naturales, así como implementar acciones con el fin de lograr su aprovechamiento sustentable;
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+IV. Fomentar el desarrollo y protección de la biodiversidad genética y el mejoramiento de la calidad de los recursos naturales, así como implementar acciones con el fin de lograr su aprovechamiento sustentable;
 
 V. Valorar las diversas funciones económicas, ambientales, sociales y culturales en las diferentes manifestaciones de la actividad productiva en el sector rural;
 
@@ -124,6 +126,10 @@ XII. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales, de la admini
 XIII. (DEROGADA, P.O. 6 DE JULIO DE 2017)
 
 XIV. (DEROGADA, P.O. 6 DE JULIO DE 2017)
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+XV. Seguridad alimentaria: el abasto oportuno, permanente e incluyente de alimentos seguros, nutritivos y en cantidad suficiente para satisfacer los requerimientos nutricionales de la población, y así puedan llevar una vida activa y saludable.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
@@ -267,9 +273,9 @@ XII. Aplicar todas aquellas medidas tendientes a resolver de manera congruente e
 
 XIII. Promover la creación y el desarrollo de agroindustrias que fortalezcan el desarrollo de la Entidad, beneficiando de manera prioritaria a los grupos vulnerables, en especial mujeres, niños, personas con discapacidad, personas con enfermedades terminales y de la tercera edad en las comunidades rurales;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-XIV. Conservar, reproducir, mejorar, desarrollar y proteger la biodiversidad genérica de las especies agrícolas, flora y faunas silvestres con el fin de lograr su aprovechamiento sustentable;
+XIV. Conservar, reproducir, mejorar, desarrollar y proteger la biodiversidad genética de las especies agrícolas, flora y faunas silvestres, con el fin de lograr su aprovechamiento sustentable;
 
 XV. Promover convenios con los ingresos azucareros presentes en el Estado, para que se formalice la venta de la melaza a los productores de toda la Entidad, antes de comprometer su distribución para otros usos, y
 
@@ -1368,3 +1374,11 @@ P.O. 3 DE JULIO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0267.- SE REFORMAN LOS ARTÍCULOS 2° Y 9°; Y ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XV, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
