@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2019-06-13"
+last_updated: "2019-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -181,9 +181,11 @@ El Sistema Educativo tendrá una estructura que permita al alumno, en cualquier 
 
 La Secretaría dará a conocer a los maestros, alumnos, padres de familia y a la sociedad en general, los resultados que permitan medir el desarrollo y los avances de la educación en el Estado.
 
+> <small>(REFORMADO, B.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 16.
 
-Quienes hayan sido beneficiados directamente por los servicios educativos de los niveles medio superior y superior, tendrán obligación de prestar servicio social. La prestación del servicio social será requisito indispensable para obtener título profesional o el grado académico respectivo.
+Quienes hayan sido beneficiados directamente por los servicios educativos de los niveles medio superior y superior, tendrán obligación de prestar servicio social. La prestación del servicio social será requisito indispensable para obtener título profesional o el grado académico respectivo, y será considerado como experiencia laboral sin que ésta se acredite como relación laboral.
 
 ###### ARTÍCULO 17.
 
@@ -803,6 +805,10 @@ II.- La aplicación eficiente de los recursos asignados.
 
 La Secretaría, de acuerdo con la normatividad aplicable, vigilará, para que cumpla cabalmente su función, la prestación del servicio social que deberán realizar los estudiantes de las instituciones de educación superior con reconocimiento de validez oficial de estudios.
 
+> <small>(ADICIONADO, B.O. 3 DE OCTUBRE DE 2019)</small>
+
+El servicio social será considerado como experiencia laboral sin que ésta se acredite como relación laboral; para tal efecto, la Secretaría, a través del área administrativa que determine, expedirá al interesado una constancia que acredite su experiencia profesional por el tiempo que haya prestado el servicio social, sin costo para el solicitante y de conformidad con lo establecido en la Ley de Profesiones para el Estado de Sonora.
+
 ### CAPÍTULO IX. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
 ###### ARTÍCULO 66.
@@ -1360,3 +1366,11 @@ El presente Decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Educación y Cultura, en coordinación con la Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora, en un plazo no mayor a ciento ochenta días, contado a partir de la publicación de este Decreto, deberán integrar un programa de ordenamiento ecológico orientado a la separación de basura para reciclaje en las escuelas referidas en el presente Decreto.
+
+B.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 57, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROFESIONES Y DE LA LEY DE EDUCACIÓN, AMBAS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
