@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2019-08-20"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -99,13 +99,13 @@ El Gobernador del Estado contará con las unidades de asesoría y de apoyo técn
 
 El Gobernador del Estado contará con un Secretario Particular y el personal de apoyo que sea necesario, para la atención, trámite y acuerdo de los asuntos que correspondan a su despacho.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 8o.
 
-El Gobernador del Estado nombrará y removerá libremente a los Secretarios del Despacho, al Oficial Mayor y a los demás servidores públicos del Poder Ejecutivo, cuyo nombramiento y remoción no estén atribuidos expresamente por la ley a otra autoridad y presentará al Congreso el nombramiento del Procurador General del Estado para su ratificación.
+La o el titular del Poder Ejecutivo de la Entidad, nombrará y removerá libremente a las personas titulares de las secretarías del Despacho; de la Oficialía Mayor; así como a las y los demás servidores públicos del gabinete ampliado, cuyo nombramiento y remoción no estén atribuidos expresamente por la ley a otra autoridad.
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2013)</small>
-
-Los servidores públicos reseñados en el párrafo anterior, podrán ser designados preferentemente bajo el principio de equidad de género.
+Las o los servidores públicos a los que alude el párrafo anterior, se designarán de acuerdo al principio de paridad de género.
 
 ###### ARTICULO 9o.
 
@@ -2026,3 +2026,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. Se exceptúa del cumplimiento de la disposición del párrafo segundo del artículo 19 de este Decreto, a la Dirección General de Asuntos Jurídicos de la Secretaría General de Gobierno, en virtud de la existencia de la Subsecretaría de Derechos Humanos y Asuntos Jurídicos, dependiente de esa misma Secretaría, de la que a su vez depende la Dirección General de Derechos Humanos.
 
 CUARTO. La Oficialía Mayor del Poder Ejecutivo del Estado se coordinará con la Comisión Estatal de Derechos Humanos, o con las universidades o instituciones académicas públicas que considere, a fin de garantizar que el personal adscrito a las direcciones, subdirecciones, unidades o áreas de Asuntos Jurídicos y Derechos Humanos de las dependencias y entidades de la administración pública a que se refiere el presente Decreto, se encuentre debidamente capacitado en la materia de derechos humanos.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0252.- SE REFORMA EL ARTÍCULO 8º, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
