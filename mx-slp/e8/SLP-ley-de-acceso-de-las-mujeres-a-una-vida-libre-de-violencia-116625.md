@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1166
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-17"
-last_updated: "2019-01-08"
+last_updated: "2019-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 17 de septiembre de 2016.
 
@@ -1157,9 +1157,21 @@ III. Proporcionar a las víctimas la atención médica, psicológica y jurídica
 
 IV. Proporcionar un refugio seguro a las víctimas;
 
-V. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos, y
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
 
-VI. De manera específica brindar la atención, asesoría, acompañamiento, protección y reparación que establece la Ley de Víctimas del Estado.
+V. Informar a la autoridad competente de los casos de violencia que ocurran en los centros educativos;
+
+> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+VI. De manera específica brindar la atención, asesoría, acompañamiento, protección y reparación que establece la Ley de Víctimas del Estado, y
+
+> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+VII. Realizar las acciones tendientes a garantizar a las víctimas el derecho a la justicia.
+
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Los servidores públicos adscritos a las instituciones municipales, o estatales obligadas, que nieguen u omitan sin justa causa, la realización de las acciones de atención a las víctimas, serán sancionados de acuerdo a la Ley de Responsabilidades Administrativas para el Estado de San Luis Potosí, sin menoscabo de lo aplicable por esta Ley.
 
 ###### ARTÍCULO 43.
 
@@ -1366,5 +1378,13 @@ P.O. 8 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0052.- SE REFORMAN LOS ARTÍCULOS 3º, 17, 18, 25, 26 Y 32; Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 2º, 17, 18, 25, 32, 33 Y 39 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0254.- SE REFORMA EL ARTÍCULO 42; Y ADICIONA AL MISMO ARTÍCULO 42 LA FRACCIÓN VII, Y PÁRRAFO ÚLTIMO, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
