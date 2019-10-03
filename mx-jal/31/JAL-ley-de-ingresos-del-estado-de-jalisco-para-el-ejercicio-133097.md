@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-133097"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-22"
-last_updated: "2019-10-01"
+last_updated: "2019-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2019
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Jalisco, el sábado 22 de diciembre de 2018.
 
@@ -1973,6 +1973,12 @@ inexistencia de actas o anotaciones marginales
 
 relativas al estado civil: $96.00
 
+> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2019)</small>
+
+Las expediciones de constancias certificadas de inexistencia de actas expedidas que tengan por objeto el registro extemporáneo
+
+de nacimiento no tendrán costo.
+
 e) Expedición digital de copias o extractos
 
 certificados de actas del estado civil solicitadas
@@ -3392,3 +3398,9 @@ P.O. 6 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27298/LXII/19 MEDIANTE AL CUAL SE REFORMA EL ARTÍCULO 25 FRACCIÓN II, INCISO C), DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2019".]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 27336/LXII/19 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO AL INCISO D), DE LA FRACCIÓN II, DEL ARTÍCULO 26 DE LA SECCIÓN QUINTA DE LAS CERTIFICACIONES, EXPEDICIONES DE CONSTANCIAS Y SERVICIOS DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2019.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
