@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2019-07-29"
+last_updated: "2019-10-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE OCTUBRE DE 2019.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -2083,9 +2083,9 @@ Las leyes establecerán los procedimientos y sanciones en materia electoral que 
 
 Conforme a esta Constitución y la ley, los Organismos Autónomos del Estado contarán con personalidad jurídica y patrimonio propios, tendrán autonomía técnica, presupuestal, de gestión y para emitir las reglas conforme a las cuales sistematizarán la información bajo su resguardo, y sólo podrán ser fiscalizados por el Congreso del Estado.
 
-> <small>(ADICIONADO, G.O. 16 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2019)</small>
 
-Para efectos de que los Organismos Autónomos del Estado rindan cuentas sobre el estado que guarda su gestión, deberán presentar anualmente un informe de actividades al Congreso del Estado, conforme al formato que establezca la Ley Orgánica del Poder Legislativo y su respectivo Reglamento.
+Para efectos de que los Organismos Autónomos del Estado rindan cuentas sobre el estado que guarda su gestión, deberán presentar anualmente un informe de actividades a los Poderes Legislativo y Ejecutivo dentro de los primeros quince días del mes de diciembre, y sus titulares comparecer ante el Poder Legislativo en sesión pública en la última quincena del mes de enero, conforme al formato que establezca la Ley Orgánica del Poder Legislativo y su respectivo Reglamento. El Tribunal Estatal de Justicia Administrativa sólo estará obligado a presentar el informe de actividades.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 16 DE OCTUBRE DE 2017)</small>
 
@@ -2217,7 +2217,7 @@ Los informes de auditoría que emita tendrán carácter público.
 
 Sin perjuicio de lo anterior, el Órgano de Fiscalización Superior del Estado tendrá a su cargo:
 
-1.- Fiscalizar en forma posterior los ingresos, egresos y deuda pública; el manejo, la custodia y la aplicación de los fondos y recursos públicos estatales y municipales, la ejecución de obra pública, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales, a través del Informe del Resultado que se rendirá en los términos que disponga la ley.
+1. Fiscalizar en forma posterior los ingresos, egresos y deuda pública; el manejo, la custodia y la aplicación de los fondos y recursos públicos estatales y municipales, la ejecución de obra pública, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales, a través del Informe del Resultado que se rendirá en los términos que disponga la ley.
 
 En el caso de que el Estado y sus municipios celebren empréstitos y obligaciones de pago, con independencia del origen de los recursos afectados como garantía, el Órgano de Fiscalización Superior del Estado podrá fiscalizar el destino y ejercicio de los recursos correspondientes. Asimismo, fiscalizará los recursos estatales y municipales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, entidad o institución a la que esta Constitución o las leyes del Estado les den el carácter de ente fiscalizable, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
@@ -13056,5 +13056,13 @@ G.O. 29 DE JULIO DE 2019.
 [N. DE E TRANSITORIOS DEL “DECRETO NÚMERO 269 QUE REFORMA EL ARTÍCULO 21 PÁRRAFO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 291 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 67 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
