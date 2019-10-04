@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2019-04-25"
+last_updated: "2019-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE OCTUBRE DE 2019.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -397,9 +397,13 @@ e) Respecto a los usos y costumbres de los pueblos indígenas y su participació
 
 f) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
-XXII. La Comisión de Protección Civil, conocerá de los temas siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 4 DE OCTUBRE DE 2019)</small>
 
-a) Sobre las leyes que establezcan y regulen los temas integrales en materia de protección civil;
+XXII. La Comisión de Gestión Integral de Riesgos y Protección Civil, conocerá de los temas siguientes:
+
+> <small>(REFORMADO, G.G. 4 DE OCTUBRE DE 2019)</small>
+
+a) Sobre las leyes que establezcan y regulen los temas en materia de protección civil y gestión integral de riesgos de desastres;
 
 b) Los que promuevan la suscripción de convenios entre el Gobierno del Estado y los ayuntamientos, en materia de protección civil y de aquél con el Gobierno Federal;
 
@@ -2684,3 +2688,13 @@ G.G. 25 DE ABRIL DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 4 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 86.- POR EL QUE SE REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, ASÍ COMO LA FRACCIÓN XXII DEL ARTÍCULO 13 A, Y EL INCISO A) DE ESA MISMA FRACCIÓN DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- En un plazo no mayor a 30 días, la Comisión de Gestión Integral de Riesgos y Protección Civil, mediante iniciativa de Decreto ajustará las facultades de acuerdo a su denominación.
