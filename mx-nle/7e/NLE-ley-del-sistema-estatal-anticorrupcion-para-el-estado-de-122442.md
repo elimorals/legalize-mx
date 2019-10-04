@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-sistema-estatal-anticorrupcion-para-el-estado-de-122442
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-06"
-last_updated: "2018-12-31"
+last_updated: "2019-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DEL SISTEMA ESTATAL ANTICORRUPCION PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 6 de julio de 2017.
 
@@ -697,6 +699,10 @@ Los municipios difundirán de manera permanente entre sus servidores públicos, 
 
 Los municipios realizarán capacitaciones frecuentes sobre anticorrupción y el Código de Ética y Conducta, debiendo reportarlas conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Nuevo León.
 
+> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2019)</small>
+
+En apoyo a lo dispuesto por este artículo, los municipios crearán la Comisión Anticorrupción.
+
 ## TÍTULO TERCERO. DE LA PARTICIPACIÓN DEL SISTEMA ESTATAL ANTICORRUPCIÓN EN EL SISTEMA NACIONAL DE FISCALIZACIÓN
 
 ### Capítulo Único. Disposiciones Generales
@@ -866,3 +872,11 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 056. SE REFORMA POR MODIFICACIÓN DEL PÁRRAFO SEGUNDO, RECORRIENDO EL TEXTO ORIGINAL DEL PÁRRAFO SEGUNDO AL PÁRRAFO TERCERO Y SUBSECUENTEMENTE LOS DEMÁS, ADICIONANDO EL PÁRRAFO SEXTO AL ARTÍCULO 22 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 4 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 169. SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 40 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 43 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los ayuntamientos dispondrán de un plazo de hasta de noventa días naturales posteriores a la entrada en vigor del presente decreto para homologar sus respectivos Reglamentos.
