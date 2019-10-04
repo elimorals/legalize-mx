@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-gobierno-municipal-del-estado-de-nuevo-leon-108317"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-27"
-last_updated: "2019-05-24"
+last_updated: "2019-10-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de mayo de 2015.
 
@@ -661,9 +663,17 @@ V. De Salud Pública y Asistencia Social;
 
 VI. De Desarrollo Urbano y Obras Públicas;
 
-VII. De Servicios Públicos Municipales; y
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2019)</small>
 
-VIII. De Derechos Humanos.
+VII. De Servicios Públicos Municipales;
+
+> <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2019)</small>
+
+VIII. De Derechos Humanos; y
+
+> <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2019)</small>
+
+IX. Anticorrupción.
 
 La integración de las comisiones podrá ser renovada cada año, o bien, dentro del plazo que, al efecto, señalen los ordenamientos municipales correspondientes.
 
@@ -2606,3 +2616,11 @@ P.O. 24 DE MAYO DE 2019.
 Primero. El presente Decreto entrará en vigor a los treinta días naturales contados a partir de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los Ayuntamientos de los Municipios tendrán un plazo de ciento veinte días naturales, contados a partir del día de la vigencia del presente Decreto para adecuar sus reglamentos a lo establecido en el mismo.
+
+P.O. 4 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 169. SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 40 DE LA LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 43 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los ayuntamientos dispondrán de un plazo de hasta de noventa días naturales posteriores a la entrada en vigor del presente decreto para homologar sus respectivos Reglamentos.
