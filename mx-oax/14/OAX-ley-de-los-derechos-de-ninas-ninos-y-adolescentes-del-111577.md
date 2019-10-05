@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2019-09-07"
+last_updated: "2019-10-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -287,9 +287,17 @@ XXI. Derechos de niñas, niños y adolescentes migrantes;
 
 XXII. Derechos de Niñas, Niños y Adolescentes en Situación de Emergencias Naturales y Desastres Ecológicos;
 
-XXIII. Derechos de Niñas y Adolescentes Madres o Padres, y
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
 
-XXIV. Derechos de Niñas, Niños y Adolescentes con Madre o Padre Privado de su Libertad.
+XXIII. Derechos de niñas y adolescentes madres o padres;
+
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+XXIV. Derechos de niñas, niños y adolescentes con madre o padre privado de su libertad, y
+
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+XXV. Derecho de acceso a las tecnologías de información y comunicación.
 
 Las autoridades estatal y municipal, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -1017,13 +1025,33 @@ El Reglamento de esta Ley establecerá el procedimiento a seguir para determinar
 
 Niñas o niños nacidos de madres privadas de su libertad tienen derecho a recibir todos los servicios básicos y especializados durante y después de su nacimiento, y podrán permanecer con ella hasta los dos años de edad.
 
-### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2019)</small>
 
-### CAPÍTULO I. DE LA PROTECCIÓN
+### CAPÍTULO XXVI. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 84 Bis.
+
+Niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 84 Ter.
+
+El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 84 Quáter.
+
+Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+
+### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-### CAPÍTULO II. DE LOS CENTROS DE ASISTENCIA SOCIAL
+### CAPÍTULO I. DE LA PROTECCIÓN
 
 ###### Artículo 85.
 
@@ -1057,7 +1085,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO I. DE LAS AUTORIDADES
+### CAPÍTULO II. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
 ###### Artículo 91.
 
@@ -1065,7 +1093,7 @@ La familia es el entorno fundamental para el desarrollo integral de niñas, niñ
 
 En ausencia de los obligados originarios, el estado suplirá dicha obligación a través de los centros de asistencia social, que directamente administre el Sistema DIF o autorice a particulares.
 
-### CAPÍTULO II. DEL PROGRAMA LOCAL Y MUNICIPAL
+### CAPÍTULO I. DE LAS AUTORIDADES
 
 ###### Artículo 92.
 
@@ -1193,7 +1221,7 @@ La Procuraduría Estatal de Protección será coadyuvante de la Procuraduría de
 
 ## TÍTULO QUINTO. DE LAS AUTORIDADES PARA LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO III. DE LA EVALUACIÓN Y DIAGNÓSTICO
+### CAPÍTULO II. DEL PROGRAMA LOCAL Y MUNICIPAL
 
 ###### Artículo 100.
 
@@ -1583,7 +1611,7 @@ La instancia a que se refiere el presente artículo coordinará a los servidores
 
 La Defensoría de los Derechos Humanos del Pueblo de Oaxaca, en el ámbito de sus competencias, a través de su área especializada, dará seguimiento a la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, privilegiando siempre el interés superior del niño.
 
-### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO III. DE LA EVALUACIÓN Y DIAGNÓSTICO
 
 ###### Artículo 121.
 
@@ -1591,7 +1619,7 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Deberán Incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana, mismos que serán publicados en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 122.
 
@@ -1608,6 +1636,8 @@ De acuerdo con los resultados de las evaluaciones, el Consejo Estatal de Evaluac
 ###### Artículo 125.
 
 Los resultados de las evaluaciones serán entregados al Congreso del Estado.
+
+### CAPÍTULO II. DE LAS SANCIONES
 
 ### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
 
@@ -1802,3 +1832,11 @@ P.O. 7 DE SEPTIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entraré en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 772.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Gobernador del Estado de Oaxaca deberá prever lo necesario para el cumplimiento de estas disposiciones en el proyecto de Presupuesto de Egresos del Estado que deberá presentar a más tardar el 17 de noviembre de 2019.
