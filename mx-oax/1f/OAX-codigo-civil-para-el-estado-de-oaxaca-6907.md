@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2019-08-17"
+last_updated: "2019-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -312,6 +312,10 @@ La titularidad de las Oficialías del Registro Civil corresponde a los funcionar
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1997)</small>
 
 Los Oficiales del Registro Civil serán nombrados por el Gobernador del Estado a propuesta de la Dirección del Registro Civil, y sus ausencias temporales o incapacidad procesal, serán cubiertas por el Oficial que designe la Dirección.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+Corresponde a los Oficiales del Registro Civil, autorizar los actos del estado civil de las personas, extender las actas relativas al nacimiento, reconocimiento de hijos, adopción, tutela, matrimonio, divorcio, defunción, declaración de ausencia, presunción de muerte, pérdida o limitación de la capacidad legal para administrar bienes, y levantamiento de una nueva acta para el reconocimiento de identidad de género.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1151,9 +1155,15 @@ Cuando se recupere la capacidad legal para administrar bienes y la patria potest
 
 ### CAPITULO I. Requisitos necesarios para contraerlo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 136.
 
 La rectificación o modificación de una Acta del Estado Civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+En materia de reconocimiento de identidad de género, el procedimiento será por la vía administrativa, pudiendo realizarse ante la Oficialía del Registro Civil que corresponda en los términos del Reglamento Interno.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1165,9 +1175,63 @@ I. Por error de los datos contenidos en el acta respectiva;
 
 II. Por enmienda, cuando se solicite variar, agregar o suprimir un nombre o alguna otra circunstancia esencial del acto registrado.
 
-> <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE OCTUBRE DE 2019)</small>
 
-III. Cuando el nombre propio puesto a una persona le cause afrenta o constituya causa de burla.
+III. Cuando una persona solicite el reconocimiento de su identidad de género, en el ejercicio al libre desarrollo de la personalidad.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 137 Bis.
+
+Se entiende por identidad de género a toda aquella convicción personal e interna, tal como cada persona se percibe así (sic) misma, la cual puede corresponder o no, a su sexo al nacer y asignado en el acta primigenía. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico o procedimiento para el reconocimiento de la identidad de género.
+
+Las personas que requieran el reconocimiento de su identidad de género, deberán solicitar una nueva acta de nacimiento, previa la anotación correspondiente en su acta de nacimiento primigenia.
+
+Los efectos de la nueva acta de nacimiento para la identidad de género realizados, serán oponibles a terceros desde su levantamiento.
+
+El reconocimiento respectivo se llevará a cabo ante la Oficialía del Registro Civil que corresponda, cumpliendo todas las formalidades que exige el Reglamento.
+
+Los derechos y obligaciones contraídos con anterioridad al proceso para el reconocimiento de identidad de género y a la expedición de la nueva acta, no se modifican ni se extinguen con la nueva identidad jurídica de la persona, incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 137 Ter.
+
+Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, las personas interesadas deberán presentar:
+
+I. Solicitud debidamente requisitada;
+
+II. Copia certificada del acta de nacimiento primigenia para efecto de que se haga la reserva correspondiente;
+
+III. Original y copia fotostática de su identificación oficial, y
+
+IV. Comprobante de domicilio.
+
+El proceso se realizará por escrito ante la Oficialía del Registro Civil competente.
+
+El acta de nacimiento primigenia quedará reservada y no se publicará ni expedirá constancia alguna, salvo mandamiento judicial, solicitud de la persona que haya promovido el reconocimiento de identidad de género o petición ministerial; en consecuencia, el acta que se expida por ningún motivo podrá tener inscrita anotación marginal alguna que la vincule con el acta primigenia.
+
+Cuando el levantamiento de la nueva acta se realice en un lugar distinto en el que se llevó a cabo la declaración de nacimiento, se dará aviso a aquel donde se encuentre el acta primigenia, para que de inmediato realice la anotación y reserva correspondiente.
+
+Concluido el trámite, enviarán los oficios con la información, en la calidad de reservada, para los efectos legales procedentes, a las autoridades federales y estatales en materia fiscal y de población, de educación, de salud, de procuración de justicia, a la Secretaría de Relaciones Exteriores, Instituto Nacional Electoral y Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 137 Quáter.
+
+Además de lo señalado en el artículo anterior, para el levantamiento del acta correspondiente, se deberá cumplir con los siguientes requisitos:
+
+I. Ser de nacionalidad mexicana;
+
+II. Tener al menos dieciocho años de edad cumplidos.
+
+III. Acudir ante la Oficialía del Registro Civil del Estado, para la comparecencia que al efecto corresponda.
+
+IV. Manifestar el nombre completo y los datos registrales asentados en el acta primigenia;
+
+V. El nombre solicitado sin apellidos y, en su caso, el género solicitado.
+
+La autoridad llevará a cabo la revisión y cotejo de los documentos a que se refiere este artículo, en caso de estar cubiertos todos los requisitos señalados, tendrá verificativo una comparecencia de la persona solicitante ante el personal del Registro Civil correspondiente, en el cual manifieste, bajo protesta de decir verdad, que es su convicción personal cambiar su nombre o percibirse con un género diferente al que aparece en (sic) acta de nacimiento primigenia, por lo que solicita el levantamiento de una nueva acta de nacimiento con los cambios propuestos.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -1235,7 +1299,7 @@ En el caso de la fracción VI del artículo anterior, una vez aprobada la aclara
 
 ###### Artículo 143.
 
-El matrimonio es un contrato civil celebrado entre un solo hombre y una sola mujer, que se unen para perpetuar la especie y proporcionarse ayuda mutua en la vida.
+El matrimonio es un contrato civil celebrado entre dos personas, que se unen para realizar una vida en común y proporcionarse respeto, igualdad y ayuda mutua.
 
 El contrato de matrimonio solamente se disuelve por la muerte de alguno de los cónyuges o por el divorcio.
 
@@ -1245,11 +1309,13 @@ El Estado procurará, por todos los medios que estén a su alcance, que las pers
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 143 Bis.
 
-El concubinato es la unión de hecho, realizada voluntariamente, entre un solo hombre y una sola mujer, que estando en aptitud de contraer matrimonio entre sí, no lo han celebrado en los términos que la Ley señala y hacen vida en común; situación que sólo podrá demostrarse si han procreado uno o más hijos o han vivido públicamente como marido y mujer durante más de dos años continuos.
+El concubinato es la unión de hecho, realizada voluntariamente entre dos personas que hacen vida en común, que estando en aptitud de contraer matrimonio entre sí no lo han celebrado en términos que la Ley señala y hacen vida en común, situación que sólo podrá demostrarse si han procreado uno o más hijos o han vivido públicamente como cónyuges durante más de dos años continuos.
+
+> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se reputará concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios.
 
@@ -1267,7 +1333,9 @@ El concubinato genera entre los concubinos derechos alimentarios y sucesorios, i
 
 Son aplicables al concubinato las siguientes disposiciones:
 
-I. El concubino y la concubina, desde el inicio de la vida en común, se deben mutuamente alimentos en los mismos casos, términos y proporciones que la Ley señala para los cónyuges, mientras perdure su unión;
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+I. Los concubinos, desde el inicio de la vida en común, se deben mutuamente alimentos en los mismos casos, términos y proporciones que la Ley señala para los cónyuges, mientras perdure su unión;
 
 II. El concubinato termina por muerte de uno de los concubinos, por voluntad de uno o ambos, o por cualquier otra causa que implique la cesación de la vida en común; y,
 
@@ -1423,7 +1491,9 @@ Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente 
 
 Los cónyuges de común acuerdo, arreglarán todo lo relativo a la dirección y cuidado del hogar, la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan.
 
-En caso de que el marido y la mujer no estuvieren de acuerdo respecto de alguno de los puntos indicados, el Juez de lo Familiar competente procurará avenirlos, y si no lo lograse, resolverá de inmediato sin forma de juicio, lo que fuere más conveniente a la familia e intereses de los hijos.
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+En caso de que uno de los cónyuges no estuviere de acuerdo respecto de alguno de los puntos indicados, el Juez de lo Familiar competente procurará avenirlos, y si no lo lograse, resolverá de inmediato sin forma de juicio, lo que fuere más conveniente a la familia e intereses de los hijos.
 
 ###### Artículo 167.
 
@@ -1441,9 +1511,11 @@ En caso de que el marido y la mujer no estuvieren de acuerdo respecto de alguno 
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 171.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales.
+Los cónyuges tienen la capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesiten el consentimiento uno del otro, salvo lo que se estipule en las capitulaciones matrimoniales.
 
 ###### Artículo 172.
 
@@ -1463,9 +1535,11 @@ El contrato de compraventa sólo podrá celebrarse entre los cónyuges cuando el
 
 (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1995)
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 176.
 
-El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
+Los cónyuges, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
 
@@ -1671,11 +1745,11 @@ Ni la declaración de uno de los cónyuges que afirme ser suya una cosa, ni la c
 
 El dominio y la posesión de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; será necesario el consentimiento de ambos para la enajenación y gravamen de los bienes que forman el fondo de la sociedad, pudiendo el juez respectivo suplir el consentimiento de cualquiera de los esposos en caso de injustificada oposición para la enajenación o gravamen.
 
-REFORMADO, P.O. 7 DE FEBRERO DE 1998)
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 212.
 
-Ni el marido ni la mujer pueden repudiar o aceptar la herencia común sin el consentimiento del otro. En caso de discenso (sic) el Juez resolverá tomando en cuenta el interés superior de los hijos.
+Los cónyuges no pueden repudiar o aceptar la herencia común sin el consentimiento del otro. En caso de disenso el Juez resolverá tomando en cuenta el interés superior de los hijos.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1995)</small>
 
@@ -1685,9 +1759,11 @@ La administración de la sociedad conyugal legal, recaerá en ambos cónyuges o 
 
 En caso de desacuerdo entre los cónyuges, se estará a lo dispuesto en el último párrafo del artículo 166 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 214.
 
-Las deudas contraídas durante el matrimonio por ambos cónyuges o por el marido o por la mujer con autorización del otro cónyuge, son carga de la sociedad legal.
+Las deudas contraídas durante el matrimonio por ambos cónyuges o de forma individual con autorización del otro, son carga de la sociedad legal.
 
 Se exceptúa de lo dispuesto en este artículo:
 
@@ -1765,13 +1841,17 @@ Cada uno de los cónyuges debe contribuir a la educación, alimentación de los 
 
 Los bienes que los cónyuges adquieran en común, por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entretanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario. Para la enajenación de estos bienes y para todo cuanto con ellos se relacione, se seguirán las reglas de la mancomunidad.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 228.
 
-Ni el marido podrá cobrar a la mujer ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare o por los consejos y asistencia que le diere; pero si uno de los consortes por causa de ausencia o impedimento del otro no originada por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+Los cónyuges no podrán cobrarse entre sí retribución u honorario alguno por los servicios que le prestare o por los consejos y asistencia que diere; pero si uno de los consortes por causa de ausencia o impedimento del otro no originada por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 229.
 
-El marido y la mujer que ejerzan la patria potestad se dividirán entre sí por partes iguales la mitad del usufructo que la ley les concede.
+Los cónyuges que ejerzan la patria potestad se dividirán entre sí por partes iguales la mitad del usufructo que la ley les concede.
 
 ###### Artículo 230.
 
@@ -3729,7 +3809,7 @@ El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testam
 
 ### CAPITULO IV. De la tutela legítima de los mayores de edad incapaces
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 497.
 
@@ -3761,7 +3841,7 @@ La falta temporal del tutor legítimo se suplirá en los términos establecidos 
 
 ###### Artículo 501.
 
-La tutela del cónyuge declarado incapaz corresponde legítima y forzosamente al otro cónyuge.
+Los Cónyuges son tutores legítimos uno en pos del otro.
 
 ###### Artículo 502.
 
@@ -5049,13 +5129,13 @@ El valor máximo de los bienes afectos al patrimonio familiar, conforme al Artí
 
 El patrimonio de familia podrá constituirse:
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
 
-I. Por cualquiera de los ascendientes que ejerza la patria potestad;
+I. Por el miembro de la familia que ejerza la patria potestad;
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
 
-II. Por los cónyuges sobre sus bienes sin que, necesite autorización uno del otro.
+II. Por los cónyuges sobre sus bienes, sin que necesite autorización uno del otro.
 
 III. Por el pariente que suministre alimentos a sus ascendientes, descendientes o colaterales siempre que vivan formando una familia;
 
@@ -8731,7 +8811,7 @@ A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todo
 
 ### CAPITULO V BIS. De la sucesión de los concubinos
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1498.
 
@@ -8759,11 +8839,13 @@ A falta de los llamados en los artículos anteriores, sucederán los parientes m
 
 ###### Artículo 1502 Bis.
 
-La concubina hereda al concubino y éste a aquélla en las mismas porciones y lugar que establecen los Artículos 1492 al 1497, para el cónyuge supérstite, si reúnen una de las condiciones siguientes:
+Los concubinos se heredarán en las mismas porciones y lugar que establecen los Artículos 1492 al 1497, para el Conyugue supérstite, si reúnen una de las condiciones siguiente (sic):
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 I. Que el tiempo de vida en común que precedió inmediatamente a la muerte del autor de la herencia haya durado dos años o más si el supérstite no tuvo hijos con el autor de la sucesión; y,
+
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
 
 II. Que el supérstite haya tenido uno o más hijos del autor de la herencia, cualquiera que haya sido la duración de la vida en común inmediatamente anterior a la muerte de éste.
 
@@ -8937,9 +9019,11 @@ Pueden aceptar o repudiar la herencia todos los que tienen libre disposición de
 
 La herencia dejada a los menores y demás incapacitados, será aceptada por sus tutores.
 
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 1538.
 
-La mujer casada no necesita la autorización del marido para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el juez.
+Los cónyuges no necesitan la autorización uno del otro para aceptar o repudiar la herencia que les corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia, resolverá el juez.
 
 ###### Artículo 1539.
 
@@ -16718,3 +16802,17 @@ P.O. 17 DE AGOSTO DE 2019.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 5 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 771.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 777.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
