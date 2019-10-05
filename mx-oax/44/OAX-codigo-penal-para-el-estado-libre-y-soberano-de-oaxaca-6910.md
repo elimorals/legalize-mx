@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2019-09-07"
+last_updated: "2019-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2517,6 +2517,10 @@ Cuando el delito fuere cometido contra una persona menor de doce años, incapaz 
 
 Cuando el delito fuere cometido por un servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo primero, será inhabilitado, destituido o suspendido, de su empleo público o profesión.
 
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+Este delito se perseguirá por querella de la parte ofendida, salvo que se trate de una persona menor de edad será oficiosa.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 241 Bis.- Comete el delito de hostigamiento sexual el que valiéndose de su posición jerárquica o de poder derivada de la relación laboral, docente, doméstica, religiosa, familiar o cualquiera otra que genere subordinación, asedie a otra persona solicitándole favores o propuestas de naturaleza sexual para sí o para un tercero, o utilice lenguaje lascivo con ese fin, causando daño o sufrimiento psicoemocional que lesione su dignidad. Al responsable, se le impondrá prisión de dos a cuatro años, multa de doscientas a cuatrocientas veces el valor de la unidad de medida y actualización. Este delito se perseguirá por querella de parte ofendida.
@@ -3678,6 +3682,18 @@ I.- Con prisión de tres meses a tres años y multa de cinco a cien veces el sal
 II.- Con prisión de tres a seis años y multa de cien a ciento cincuenta veces el salario, cuando el valor de lo defraudado exceda de cien veces el salario; pero no de quinientas veces;
 
 III.- Con prisión de seis a doce años y multa de ciento cincuenta a quinientas veces el salario cuando el valor de lo defraudado exceda de ésta última cantidad.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+380 BIS.- Comete el delito de fraude por usura el que por medio de pactos orales o contratos de mutuo o prendarios y que sin contar con los permisos correspondientes realice préstamo de dinero, y obtenga para él o para un tercero beneficios económicos que estén en una notoria desproporción, en relación a la prestación de servicio, así como si los intereses son superiores a la tasa legal establecida en el Código Civil para el Estado de Oaxaca.
+
+Además de las sanciones establecidas en el artículo 380 del presente Código Penal, la prisión aumentará en una tercera parte de la pena impuesta, al que:
+
+I.- Se aproveche del estado de necesidad económica de otra persona para realizar el delito.
+
+II.- Por sí o por terceros haga uso de violencia psicológica o física, intimide o de cualquier forma coaccione con la finalidad de obtener el usufructo de la actividad ilícita.
+
+III.- Para disimular su actividad usuraria suscriba títulos de crédito, si no media otra causa que justifique su existencia.
 
 381.- Las mismas penas señaladas en el Artículo anterior se impondrán:
 
@@ -5012,3 +5028,15 @@ P.O. 7 DE SEPTIEMBRE DE 2019.
 Primero.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 Segundo.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 769.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 779.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
