@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-estatal-de-asistencia-social-del-estado-de-9027
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "2019-01-02"
+last_updated: "2019-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 27 de diciembre de 1986.
 
@@ -203,11 +203,11 @@ X.- Los análogos y conexos a los anteriores que tiendan a modificar y mejorar l
 
 La operación de los Servicios Básicos de Salud de Atención Local en materia de Asistencia Social, se sujetará a la normatividad técnica que emitan la Secretaría de Salud, y el Sistema Nacional para el Desarrollo Integral de la Familia.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 14.
 
-Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco. Igualmente, al mencionarse a la Secretaría de Salud, se refiere a la dependencia del Gobierno Federal encargada del despacho en materia de salud; y por Secretaría de Salud del Estado a la dependencia correspondiente en la instancia Estatal.
+Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco y cuando se refiera al Instituto, al Instituto de Beneficencia Pública del Estado de Tabasco. Igualmente, al mencionarse a la Secretaría de Salud, se refiere a la dependencia del Gobierno Federal encargada del despacho en materia de salud; y por Secretaría de Salud del Estado a la dependencia correspondiente en la instancia Estatal.
 
 ### CAPITULO SEGUNDO. EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
 
@@ -265,9 +265,7 @@ V. Poner a disposición del Ministerio Público, los elementos a su alcance para
 
 VI. Apoyar en la vigilancia de la aplicación de las Normas Oficiales Mexicanas en la materia;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
-
-VII. Administrar el Patrimonio de la Beneficencia Pública, e impulsar los programas de asistencia social que contribuyan al uso eficiente de los bienes que lo componen;
+VII. (DEROGADA, P.O. 5 DE OCTUBRE DE 2019)
 
 > <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -403,9 +401,9 @@ I.- Los derechos y bienes muebles e inmuebles que son de su dominio;
 
 II.- Los subsidios, subvenciones, aportaciones, bienes y demás ingresos que las Dependencias y Entidades del Gobierno Federal y Estatal le otorguen;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2019)</small>
 
-III.- Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales. Asimismo, todos aquellos bienes que carezcan de herederos conocidos y que deban ser adjudicados a la beneficencia pública, lo serán al DIF Tabasco.
+III.- Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales;
 
 IV.- Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
 
@@ -453,9 +451,7 @@ La Junta de Gobierno sesionará por lo menos tres veces al año.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2019)</small>
 
-###### ARTICULO 21 Bis.
-
-Para fortalecer la autonomía del Organismo, la esposa o esposo de el o la Titular del Ejecutivo Estatal no se considerará servidora o servidor público y no recibirá honorario, salario o compensación económica alguna, por lo que estará desvinculada o desvinculado legal, presupuestal y administrativamente de las acciones que realicen las autoridades sobre la operación interna y la administración patrimonial del Organismo.
+ARTICULO 21 BIS.- Para fortalecer la autonomía del Organismo, la esposa o esposo de el o la Titular del Ejecutivo Estatal no se considerará servidora o servidor público y no recibirá honorario, salario o compensación económica alguna, por lo que estará desvinculada o desvinculado legal, presupuestal y administrativamente de las acciones que realicen las autoridades sobre la operación interna y la administración patrimonial del Organismo.
 
 Se considerará honorífica la labor que realice relacionada con las atribuciones que tiene el Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, las contenidas en esta Ley y en general aquellas en materia de asistencia social.
 
@@ -585,9 +581,7 @@ V. Las demás que otras leyes le atribuyan y las que sean necesarias para el eje
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2019)</small>
 
-###### ARTICULO 26 Bis.
-
-El Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco se sujetará a los lineamientos y políticas de austeridad y eficiencia administrativa y financiera que emita la Secretaría de Administración e Innovación Gubernamental en su papel de dependencia consolidadora responsable de conducir y ejecutar la política general en materia de contrataciones públicas, de bienes y servicios; así como de la planeación y administración sobre recursos humanos.
+ARTICULO 26 BIS.- El Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco se sujetará a los lineamientos y políticas de austeridad y eficiencia administrativa y financiera que emita la Secretaría de Administración e Innovación Gubernamental en su papel de dependencia consolidadora responsable de conducir y ejecutar la política general en materia de contrataciones públicas, de bienes y servicios; así como de la planeación y administración sobre recursos humanos.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -721,11 +715,197 @@ Las relaciones laborales entre el Organismo y sus trabajadores se regirán por l
 
 Los trabajadores del Organismo Estatal estarán incorporados al régimen de la Ley del Instituto de Seguridad Social del Estado de Tabasco.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+### CAPITULO SEGUNDO BIS. DEL INSTITUTO DE BENEFICENCIA PUBLICA DEL ESTADO DE TABASCO
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 BIS.- El Instituto de Beneficencia Pública del Estado de Tabasco es un organismo descentralizado del Poder Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Salud del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 TER.- El Instituto tiene por objeto brindar asistencia social a los grupos en situación de vulnerabilidad, así como el apoyo para acceder a los servicios de salud estatales y en su caso prestar los que en el ámbito de su competencia le correspondan, para propiciar el bienestar de la sociedad.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 QUATER.- El Patrimonio del Instituto estará integrado por:
+
+I. Los bienes, recursos y presupuesto que le asigne el Gobierno del Estado;
+
+II. Los donativos que reciba;
+
+III. Los bienes provenientes de herencias, legados y adjudicaciones;
+
+IV. Los rendimientos financieros que le correspondan;
+
+V. Todos aquellos bienes que carezcan de herederos y que deban ser adjudicados a la beneficencia pública; y
+
+VI. Los demás bienes que reciba por cualquier otro título.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 QUINQUIES.- El Instituto tendrá las autoridades siguientes:
+
+I. La Junta de Gobierno;
+
+II. El Director General; y
+
+III. El Patronato.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 SEXIES.- La Junta de Gobierno es la máxima autoridad del Instituto. Estará integrada por:
+
+I. El titular del Poder Ejecutivo, quien fungirá como presidente, o en su caso, a quien este designe;
+
+II. Un representante del Organismo;
+
+III. Un representante de la Secretaría de Salud del Estado;
+
+IV. Un representante de la Coordinación General de Asuntos Jurídicos;
+
+V. Un representante de la Secretaría de Administración e Innovación Gubernamental;
+
+VI. Un representante de la Coordinación General Ejecutiva de la Gubernatura;
+
+VII. Un representante de la Secretaría de la Función Pública, en su calidad de Comisario, con voz, pero sin voto; y
+
+VIII. Un representante del Patronato, con voz, pero sin voto.
+
+Los integrantes señalados en el presente artículo podrán nombrar a un suplente, el cual tendrá las mismas facultades y obligaciones que su titular.
+
+La Junta de Gobierno contará con un Secretario Técnico, que será el Director General del Instituto.
+
+El desempeño del cargo de integrante de la Junta de Gobierno será honorífico, sin retribución de emolumento o compensación.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 SEPTIES.- La Junta de Gobierno sesionará de forma ordinaria cuando menos dos veces al año y de forma extraordinaria cuando por la naturaleza de los temas a tratar, sea necesario a juicio del presidente o de por lo menos tres integrantes de la Junta de Gobierno.
+
+La convocatoria se hará llegar a los integrantes de la Junta de Gobierno, por conducto del Secretario Técnico, por lo menos con cinco días de anticipación en el caso de las ordinarias y de tres días en el caso de las extraordinarias.
+
+Para sesionar se requerirá la asistencia de por lo menos la mitad más uno de los integrantes de la Junta de Gobierno. Sus acuerdos deberán tomarse por mayoría de votos y quien presida la sesión tendrá voto de calidad en caso de empate.
+
+La Junta de Gobierno, previo acuerdo de la mayoría de sus integrantes, podrá invitar a sus sesiones a las personas que considere necesarias, quienes contarán con voz, pero sin voto.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 OCTIES.- A la Junta de Gobierno del Instituto le corresponden las siguientes atribuciones:
+
+I. Establecer las políticas generales y aprobar el Programa Operativo Anual del Instituto;
+
+II. Analizar y aprobar el Proyecto de Presupuesto Anual, informes de actividades y estados financieros que le presente el Director General del Instituto;
+
+III. Conocer los informes, dictámenes y recomendaciones del titular del Órgano Interno de Control y en su caso del auditor externo;
+
+IV. Aprobar los Manuales de Organización, Procedimientos y de Servicios al Público del Instituto, así como las modificaciones que sean procedentes;
+
+V. Aprobar la designación de los servidores públicos de nivel jerárquico inmediato inferior al Director General del Instituto a propuesta de este;
+
+VI. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que le correspondan al Instituto;
+
+VII. Gestionar donativos y donaciones a favor del Instituto y sus beneficiarios;
+
+VIII. Conocer los acuerdos de coordinación que el Director General del Instituto celebre con los municipios de Tabasco y de otras entidades federativas, así como con dependencias y entidades públicas federales o de otras entidades federativas;
+
+IX. Promover y gestionar la enajenación de bienes pertenecientes al Instituto;
+
+X. Establecer los mecanismos necesarios para el uso y destino de los recursos del Instituto; y
+
+XI. Las demás que sean necesarias para el ejercicio de sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 NONIES.- El Instituto contará con un Director General, el cual será designado y removido por el titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 DECIES.- Para ser Director General del Instituto se requiere:
+
+1. Ser ciudadano mexicano;
+
+2. Tener veinticinco años como mínimo a la fecha de su designación; y
+
+3. Contar preferentemente con estudios y experiencia profesional relacionadas con las funciones que le correspondan al Instituto.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 UNDECIES.- Al Director General del Instituto le corresponden las siguientes atribuciones:
+
+I. Planear, dirigir y controlar el funcionamiento del Instituto con sujeción a las instrucciones de la Junta de Gobierno;
+
+II. Administrar y representar legalmente al Instituto;
+
+III. Actuar en representación del Instituto con facultades generales para actos de administración, de dominio, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a la normatividad aplicable;
+
+IV. Otorgar, sustituir y revocar poderes generales y especiales para actos de administración, pleitos y cobranzas, de conformidad con las disposiciones jurídicas aplicables;
+
+V. Ejecutar los acuerdos y disposiciones que la Junta de Gobierno ordene por conducto de su presidente;
+
+VI. Presentar a la Junta de Gobierno los informes y estados financieros trimestrales, acompañados de los comentarios que al efecto formule el titular del Órgano Interno de Control y en su caso el auditor externo;
+
+VII. Elaborar y someter a la aprobación de la Junta de Gobierno el Proyecto de Presupuesto Anual;
+
+VIII. Formular los proyectos de programas de corto, mediano y largo plazo, los presupuestos y las políticas institucionales, de conformidad con las directrices de la Junta de Gobierno;
+
+IX. Establecer los procedimientos generales para elaborar los informes de actividades y estados financieros del Instituto, previa aprobación de la Junta de Gobierno;
+
+X. Supervisar que durante el ejercicio del presupuesto cada unidad administrativa contribuya a la elaboración de los informes que deban presentar;
+
+XI. Proponer a la Junta de Gobierno las personas que ocuparán los cargos de nivel jerárquico inmediato inferior del Instituto;
+
+XII. Expedir los nombramientos del personal en los casos que corresponda, previa autorización de la Junta de Gobierno;
+
+XIII. Celebrar los convenios, acuerdos, contratos administrativos, así como ejecutar los actos administrativos y jurídicos que sean indispensables para el cumplimiento del objeto del Instituto;
+
+XIV. Enajenar o gravar bienes muebles o inmuebles propiedad del Instituto, previa autorización de la Junta de Gobierno, conforme a la normatividad aplicable;
+
+XV. Elaborar anualmente el Informe de Actividades del Instituto y someterlo a la aprobación de la Junta de Gobierno, para su integración en el Informe Anual de Gobierno del titular del Poder Ejecutivo del Estado; y
+
+XVI. Las demás que se establezcan en el Estatuto Orgánico del Instituto y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 DUODECIES.- El Patronato estará integrado por:
+
+l. Un presidente;
+
+II. Un secretario; y
+
+III. Tres vocales.
+
+El desempeño del cargo de integrante del Patronato será honorífico, sin retribución de emolumento o compensación.
+
+El Patronato, previo acuerdo de la mayoría de sus integrantes, podrá invitar a sus sesiones a representantes de la sociedad civil o cualquier persona que considere necesaria, quienes contarán con voz, pero sin voto.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 TERDECIES.- Al Patronato le corresponden las siguientes atribuciones:
+
+l. Gestionar la obtención de recursos, para lo cual podrá diseñar y ejecutar programas y estrategias específicas de captación de recursos;
+
+II. Participar y apoyar al Instituto en las actividades tendientes al cumplimiento de su objeto; y
+
+III. Las demás que señalen las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 QUATERDECIES.- El Estatuto Orgánico del Instituto normará las bases para la organización y funcionamiento de las unidades administrativas que integran la estructura orgánica del Instituto.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 QUINDECIES.- Las relaciones laborales entre el Instituto y su personal se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco, por las condiciones generales de trabajo y demás disposiciones que expida la Junta de Gobierno.
+
+> <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 46 SEXDECIES.- El Instituto contará con un Órgano Interno de Control, cuyo titular será designado y removido, previo acuerdo del Gobernador, por la Secretaría de la Función Pública y dependerá jerárquica y funcionalmente de la misma, de conformidad con lo establecido en la fracción X del artículo 43 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco.
+
+Este tendrá las funciones y responsabilidades que establece la Ley General de Responsabilidades Administrativas, las que señalen otros ordenamientos y lo que disponga la Secretaría de la Función Pública, y contará con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras con la finalidad de garantizar la independencia entre ambas en el ejercicio de dichas funciones.
+
 ### CAPITULO TERCERO. DE LA COORDINACION, CONCERTACION E INDUCCION
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
-
-### CAPITULO CUARTO. DE LOS ESTIMULOS O APOYOS ECONOMICOS A PARTICIPANTES EN PROGRAMAS SOCIALES
 
 ###### ARTICULO 47.
 
@@ -810,6 +990,8 @@ IV.- Formulación de sugerencias para mejorar los servicios de asistencia social
 V.- Otras actividades que coadyuven a la protección de la salud.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2017)</small>
+
+### CAPITULO CUARTO. DE LOS ESTIMULOS O APOYOS ECONOMICOS A PARTICIPANTES EN PROGRAMAS SOCIALES
 
 ###### ARTICULO 57.
 
@@ -950,3 +1132,15 @@ P.O. 2 DE ENERO DE 2019.
 PRIMERO. El presente Decreto iniciará su vigencia el 1° de enero de 2019, previa publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 5 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 119 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 14; Y 19 FRACCIÓN III; SE ADICIONA EL CAPÍTULO SEGUNDO BIS, DENOMINADO "DEL INSTITUTO DE BENEFICENCIA PÚBLICA DEL ESTADO DE TABASCO", INTEGRADO POR LOS ARTÍCULOS 46 BIS, 46 TER, 46 QUATER, 46 QUINQUIES, 46 SEXIES, 46 SEPTIES, 46 OCTIES, 46 NONIES, 46 DECIES, 46 UNDECIES, 46 DUODECIES, 46 TERDECIES, 46 QUATERDECIES, 46 QUINDECIES Y 46 SEXDECIES; Y SE DEROGA LA FRACCIÓN VII AL ARTÍCULO 16; TODOS DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. Los recursos humanos, financieros y materiales que se encuentran asignados a la beneficencia pública como parte del Organismo, pasarán a formar parte del nuevo organismo descentralizado que se crea por virtud del presente Decreto.
+
+CUARTO. El titular del Poder Ejecutivo del Estado deberá expedir el Estatuto Orgánico del Instituto de Beneficencia Pública en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto.
