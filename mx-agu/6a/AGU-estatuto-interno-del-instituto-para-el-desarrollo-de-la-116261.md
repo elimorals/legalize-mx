@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-interno-del-instituto-para-el-desarrollo-de-la-116261"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-08-29"
-last_updated: "2016-08-29"
+last_updated: "2019-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # ESTATUTO INTERNO DEL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO INTERNO DEL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 7 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO INTERNO DEL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de agosto de 2016.
 
@@ -1260,3 +1262,33 @@ SECRETARIA TÉCNICA DE LA JUNTA DE GOBIERNO.
 M. en C. Rafael Urzúa Macías,
 
 DIRECTOR GENERAL DEL IDSCEA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO INTERNO DEL INSTITUTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Interno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Interno del Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes, publicado el día 29 de agosto de 2016 en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Estatuto Interno.
+
+###### ARTÍCULO CUARTO.
+
+Se ordena inscribir el presente Estatuto Interno del Instituto para el Desarrollo de la Sociedad del Conocimiento del Estado de Aguascalientes, en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales.
+
+###### ARTÍCULO QUINTO.
+
+La Junta de Gobierno del Organismo Público Descentralizado en cuestión deberá efectuar las adecuaciones necesarias a la demás normatividad interna aplicable al referido Organismo, con motivo de la entrada en vigor del presente Estatuto.
+
+###### ARTÍCULO SEXTO.
+
+Una vez que sean emitidos los Lineamientos por parte de la Contraloría del Estado en materia de la regulación de los Órganos Internos de Control, la Junta de Gobierno del Organismo Público Descentralizado que nos ocupa deberá emitir sus Lineamientos con apego a los expedidos por la Contraloría del Estado, en un término no mayor a 90 días contados a partir de su publicación.
