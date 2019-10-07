@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2019-09-27"
+last_updated: "2019-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -557,9 +557,11 @@ II. Impulsar liderazgos igualitarios; y
 
 III. Establecer fondos para la promoción de la igualdad en el trabajo y los procesos productivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 37.
 
-Para los efectos de lo previsto en el Artículo anterior, la Secretaría de Desarrollo Económico y la Secretaría del Trabajo del Estado; así como los Municipios, el sector privado y social en sus diversos ámbitos de competencia desarrollarán las siguientes acciones:
+Para los efectos de lo previsto en el Artículo anterior, la Secretaría de Economía y Trabajo del Estado; así como los Municipios, el sector privado y social en sus diversos ámbitos de competencia desarrollarán las siguientes acciones:
 
 I. Detectar y analizar los factores que relegan la incorporación de las personas al mercado de trabajo, en razón de su sexo, e implementar las acciones para erradicarlos;
 
@@ -1108,3 +1110,9 @@ P.O. 27 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 159. SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 58 Y LA FRACCIÓN PRIMERA DEL ARTÍCULO 59 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 161. SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 37 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
