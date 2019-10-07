@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-consejo-de-evaluacion-del-desarrollo-1371
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-07-08"
-last_updated: "2019-07-08"
+last_updated: "2019-10-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,9 @@ issue_date: "2019-07-04"
 ---
 # ESTATUTO ORGANICO DEL CONSEJO DE EVALUACION DEL DESARROLLO SOCIAL DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.evalua.cdmx.gob.mx/storage/app/media/normatividad/EO0719.pdf]</small>
-
 ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE OCTUBRE DE 2019.
 
 Estatuto publicado en el Número 129 de la Gaceta Oficial de la Ciudad de México, el lunes 8 de julio de 2019.
 
@@ -158,15 +156,29 @@ X. Revisar, y en su caso, aprobar el programa anual de trabajo del Consejo de Ev
 
 XI. Diseñar, aprobar y organizar las actividades de capacitación en los temas de su competencia;
 
-XII. Formular los lineamientos para la elaboración de las reglas de operación de los programas sociales, así como revisarlos y publicarlos anualmente en la Gaceta:
+> <small>(REFORMADA, G.O. 7 DE OCTUBRE DE 2019)</small>
 
-XIII. Designar de manera rotativa de entre sus integrantes a quien asistirá en representación del Comité, a las sesiones de la Junta;
+XII. Revisar y, en su caso, aprobar los lineamientos para la elaboración de acciones sociales y de reglas de operación de programas sociales, así como publicarlos anualmente en la Gaceta;
 
-XIV. Invitar para participar en las sesiones o reuniones de trabajo, con voz, pero sin voto, a todas aquellas personas que considere conveniente;
+> <small>(ADICIONADA, G.O. 7 DE OCTUBRE DE 2019)</small>
 
-XV. Aprobar el programa de verificación de padrones de beneficiarios, usuarios o derechohabientes de los programas sociales en los términos señalados por el at1ículo 34 fracción IV de la Ley de Desarrollo, e informar de sus resultados al Congreso de la Ciudad de México por conducto de la Dirección General;
+XIII. Revisar y, en su caso, aprobar mediante dictamen fundado las acciones sociales del Gobierno de la Ciudad de México y de las alcaldías;
 
-XVI. Las demás necesarias para el cumplimiento de sus funciones.
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 7 DE OCTUBRE DE 2019)</small>
+
+XIV. Designar de manera rotativa de entre sus integrantes a quien asistirá en representación del Comité, a las sesiones de la Junta;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 7 DE OCTUBRE DE 2019)</small>
+
+XV. Invitar para participar en las sesiones o reuniones de trabajo, con voz, pero sin voto, a todas aquellas personas que considere conveniente;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 7 DE OCTUBRE DE 2019)</small>
+
+XVI. Aprobar el programa de verificación de padrones de beneficiarios, usuarios o derechohabientes de los programas sociales en los términos señalados por el artículo 34 fracción IV de la Ley de Desarrollo, e informar de sus resultados al Congreso de la Ciudad de México por conducto de la Dirección General;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 7 DE OCTUBRE DE 2019)</small>
+
+XVII. Las demás necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 10.
 
@@ -771,3 +783,13 @@ Ciudad de México a los cuatro días del mes de julio de dos mil diecinueve.
 DRA. ARACELI DAMIÁN GONZÁLEZ
 
 Directora General del Consejo de Evaluación del Desarrollo Social de la Ciudad de México
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DAN A CONOCER LAS MODIFICACIONES DEL ARTÍCULO 9 DEL ESTATUTO ORGÁNICO DEL CONSEJO DE EVALUACIÓN DEL DESARROLLO SOCIAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su debida observancia y aplicación.
+
+SEGUNDO.- El presente Aviso surtirá efectos a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
