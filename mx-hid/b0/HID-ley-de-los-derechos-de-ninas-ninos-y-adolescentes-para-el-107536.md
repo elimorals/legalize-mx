@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2018-07-30"
+last_updated: "2019-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -311,9 +311,9 @@ XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
 XIX. Derechos de niñas, niños y adolescentes migrantes; y
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
+XX. Derecho de acceso a las tecnologías de la información y comunicación.
 
 Las autoridades federales, estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -1089,7 +1089,9 @@ La Ley de Justicia para Adolescentes del Estado determina los procedimientos y l
 
 La legislación a que se refiere el párrafo anterior, deberá garantizar los derechos fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+### Capítulo Vigésimo. Derecho de Acceso a las Tecnologías de la Información y Comunicación
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 88.
 
@@ -1183,6 +1185,32 @@ Para garantizar de forma prioritaria la asistencia social y protección consular
 
 En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+
+###### Artículo 100 Bis.
+
+Las niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 100 Bis 1.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán a las niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 8 Bis de la Constitución Política del Estado de Hidalgo, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 100 Bis 2.
+
+Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 100 Bis 3.
+
+En concordancia con el Derecho a la Educación, las autoridades competentes deberán establecer mecanismos para fomentar que niñas, niños y adolescentes, hagan uso responsable y seguro de las tecnologías de información y comunicación.
+
 ### Capítulo Único. De los Centros de Asistencia Social
 
 ### Capítulo Primero. De las autoridades
@@ -1193,11 +1221,9 @@ En ningún caso una situación migratoria irregular de niña, niño o adolescent
 
 ### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
 
-### Capítulo Quinto. Del Programa Estatal
-
 ## TÍTULO TERCERO. De las Obligaciones
 
-### Capítulo Sexto. De la Secretaría Ejecutiva
+### Capítulo Quinto. Del Programa Estatal
 
 ###### Artículo 101.
 
@@ -1267,7 +1293,7 @@ No podrá declararse la caducidad, ni la prescripción en perjuicio de niñas, n
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Séptimo. De la Evaluación y Diagnóstico
+### Capítulo Sexto. De la Secretaría Ejecutiva
 
 ###### Artículo 106.
 
@@ -1399,7 +1425,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Octavo. De los Sistemas Municipales de Protección
+### Capítulo Séptimo. De la Evaluación y Diagnóstico
 
 ###### Artículo 113.
 
@@ -1407,7 +1433,7 @@ Las autoridades estatales y municipales y de los organismos constitucionales aut
 
 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
+### Capítulo Octavo. De los Sistemas Municipales de Protección
 
 ###### Artículo 114.
 
@@ -1529,7 +1555,7 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezca el ordenamiento jurídico estatal y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y el Sistema DIF Hidalgo.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
 
 ###### Artículo 118.
 
@@ -1622,6 +1648,8 @@ IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor pú
 El nombramiento de la persona Titular de la Procuraduría de Protección deberá ser aprobado por la Junta de Gobierno del Sistema DIF Hidalgo, a propuesta del Gobernador Constitucional del Estado de Hidalgo.
 
 La Procuraduría de Protección, contara con Subprocuradurías Regionales a efecto de que logre la mayor presencia y cobertura posible en los municipios, quienes contaran con unidades de atención acorde a la autonomía e independencia presupuestal de cada municipio.
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 122.
 
@@ -1926,3 +1954,11 @@ P.O. 30 DE JULIO DE 2018.
 > <small>[N. DE E. TRANSITORIO "DECRETO NUM. 459 QUE ADICIONA LAS FRACCIONES VII BIS Y VII TER AL ARTÍCULO 49 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 213.- QUE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 13; Y ADICIONA EL CAPÍTULO VIGÉSIMO DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN; Y LOS ARTÍCULOS 100 BIS, 100 BIS 1, 100 BIS 2 Y 100 BIS 3 A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
