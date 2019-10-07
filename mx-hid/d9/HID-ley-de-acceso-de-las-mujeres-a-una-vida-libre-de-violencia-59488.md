@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2018-08-01"
+last_updated: "2019-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -187,13 +187,17 @@ VIII. Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencion
 
 IX. Violencia mediática: Es toda publicación de mensajes e imágenes estereotipados que, a través de cualquier medio de comunicación o publicidad, ya sea impresos o electrónicos, de manera directa o indirecta, promuevan la explotación de mujeres, niñas o adolescentes, injurie, difame, discrimine, deshonre, humille o atente contra la dignidad de las misma, fomenten la desigualdad entre mujeres y hombres o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres, violando con ello sus derechos humanos;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-X. Violencia moral: Es toda acción u omisión encaminada a la vejación, sarcasmo y burla ejercida sobre la mujer víctima que se sienta afectada en su calidad humana y en su moral como persona, cuya finalidad esencial es exponerla al desprecio de los demás y le impiden el buen desarrollo de su integración social y que tiene como consecuencia denigrarla, vulnerando sus derechos humanos a la libertad, la seguridad y la integridad personal; y
+X. Violencia moral: Es toda acción u omisión encaminada a la vejación, sarcasmo y burla ejercida sobre la mujer víctima que se sienta afectada en su calidad humana y en su moral como persona, cuya finalidad esencial es exponerla al desprecio de los demás y le impiden el buen desarrollo de su integración social y que tiene como consecuencia denigrarla, vulnerando sus derechos humanos a la libertad, la seguridad y la integridad personal;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2019)</small>
 
-XI. Cualquier otra forma que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
+XI. Violencia digital: Es cualquier acto que se presenta a través de las Tecnologías de la Información y la Comunicación (TIC), plataformas de internet, redes sociales o correo electrónico, que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y/o su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XII. Cualquier otra forma que lesione o sea susceptible de dañar la dignidad, integridad o libertad de la mujer.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA
 
@@ -1316,3 +1320,15 @@ P.O. 1 DE AGOSTO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 482.- QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 210.- QUE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 5; Y ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
