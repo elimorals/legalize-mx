@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2019-06-24"
+last_updated: "2019-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -1077,11 +1077,21 @@ En la audiencia sólo se aceptarán las pruebas ofrecidas previamente, a no ser 
 
 Los trabajadores podrán comparecer por sí o por representantes acreditados mediante simple carta poder.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+Los representantes acreditados por simple carta poder, deberán, además: acreditar ser abogados o licenciados en derecho con cedula profesional, o personas que cuenten con carta de pasante vigente, expedida por la autoridad competente para ejercer dicha profesión. Solo se podrá autorizar a otras personas para oír notificaciones y recibirlas.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+En caso de que el Tribunal note el desconocimiento del profesionista o pasante en el Derecho Laboral deberá cuestionar a las partes si es su deseo continuar con ese profesionista o de lo contrario darle vista a la Procuraduría de la Defensa del Trabajo para el caso de que, si es trabajador o al superior del ente del Estado demandado, si es el patrón.
+
 Los Titulares podrán hacerse representar mediante simple oficio.
 
-###### ARTICULO 126.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-Las partes podrán comparecer acompañadas de los asesores que a su interés convenga.
+###### Artículo 126.
+
+Las partes podrán comparecer acompañadas de los asesores que deberán reunir los requisitos que para los representantes acreditados por carta poder se pide en el artículo anterior.
 
 ###### ARTICULO 127.
 
@@ -1340,3 +1350,9 @@ P.O. 24 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 195 QUE REFORMA Y ADICIONA EL ARTÍCULO 40 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO”.]
 
 UNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 212.- QUE REFORMA EL ARTÍCULO 126; Y SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFO, RECORRIÉNDOSE EL SUBSECUENTE AL ARTÍCULO 125 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
