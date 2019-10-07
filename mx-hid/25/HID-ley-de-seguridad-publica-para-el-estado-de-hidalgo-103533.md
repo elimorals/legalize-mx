@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2018-07-16"
+last_updated: "2019-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2019.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -61,9 +61,13 @@ Se expide la Ley de Seguridad Pública para el Estado de Hidalgo, para quedar co
 
 La presente Ley es de orden público, interés social, observancia general y tiene por objeto:
 
-I. Regular la coordinación entre ésta y los Municipios, y de ambos con la Federación, mediante la integración, la organización y el funcionamiento del Sistema Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-II. Normar la seguridad pública en el Estado de Hidalgo, que comprende la prevención general y especial de las faltas administrativas, así como la prevención de los delitos, la sanción de las faltas administrativas, la investigación de los delitos, la persecución de los probables responsables, así como la ejecución de las penas y medidas de seguridad;
+I. Regular la coordinación entre el Estado y los Municipios y de ambos con la Federación, mediante la integración, la organización y el funcionamiento del Sistema Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+II. Normar la Seguridad Pública en el Estado de Hidalgo, que comprende la prevención general y especial de las faltas administrativas, así como la prevención de los delitos, la sanción de las faltas administrativas, la investigación de los delitos, la persecución de los imputados, así como la administración y operación del Sistema Penitenciario;
 
 III. Establecer las bases para la conformación del Sistema Estatal de Seguridad Pública, y la coordinación que debe existir entre el Gobierno del Estado con la Federación, las demás Entidades Federativas, el Distrito Federal y los Municipios;
 
@@ -71,11 +75,15 @@ IV. Determinar las bases para el reclutamiento, selección, formación, capacita
 
 V. Que los ciudadanos y la población en general cuenten con la atención oportuna y eficiente de las instituciones de seguridad, ante cualquier denuncia o situación de emergencia;
 
-VI. Determinar los mecanismos y protocolos para la seguridad en las instalaciones estratégicas en el Estado;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VI. Supervisar que los integrantes de las Instituciones de Seguridad en la entidad, cumplan con los protocolos de actuación autorizados;
 
 VII. Establecer acciones para promover la participación ciudadana de mujeres y hombres, en actividades relacionadas con los fines de la Seguridad Pública;
 
-VIII. Regular el sistema de prevención y reinserción social del Estado, sus centros de custodia preventiva, además de los relativos al internamiento de adolescentes infractores, estableciendo las políticas y medidas tendentes a la reinserción social de los internos;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VIII. Regular el Sistema de Prevención y Reinserción Social del Estado y el Sistema Integral de Justicia para Adolescentes, los Centros Penitenciarios y el Centro de Internamiento para Adolescentes;
 
 IX. Desarrollar, desde la perspectiva de género, políticas en materia de prevención integral del delito e implementar programas y acciones para promover los valores culturales y cívicos, que fomenten el respeto a la legalidad y la protección a las víctimas del delito;
 
@@ -83,9 +91,19 @@ X. Autorizar, regular, verificar y en su caso sancionar a las empresas que prest
 
 XI. Normar la actuación e intervención de los Cuerpos de Seguridad Pública estatal y municipal en materia de violencia de género;
 
-XII. Promover la profesionalización de los Cuerpos de Seguridad en perspectiva de género y derechos humanos; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XII. Promover la profesionalización de los Cuerpos de Seguridad en perspectiva de género y derechos humanos;
 
 XIII. Establecer las bases para la evaluación y supervisión de las medidas cautelares y providencias precautorias previstas en el Código Nacional de Procedimientos Penales, así como de las condiciones establecidas en la suspensión condicional del proceso, dictadas por la autoridad judicial penal; vigilando en todo caso que éstas sean debidamente cumplidas.
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XIV. Administrar la Licencia Oficial Colectiva para portación de armas de fuego otorgada a la Secretaría y supervisar el armamento, municiones y material químico que tiene en los distintos cuerpos de seguridad en el Estado; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XV. Coadyuvar en la organización del tránsito de vehículos en las vías públicas del Estado.
 
 ###### Artículo 2.
 
@@ -99,11 +117,15 @@ III. Prevenir la comisión de infracciones administrativas y delitos;
 
 IV. Identificar los factores criminógenos para combatir a la delincuencia;
 
-V. Investigar los delitos y perseguir a los probables responsables, por orden y bajo la conducción y mando del Ministerio Público en el ejercicio de esta función;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+V. Investigar los delitos y perseguir a los imputados, por orden y bajo la conducción y mando del Ministerio Público en el ejercicio de su función;
 
 VI. Optimizar la labor de las instituciones policiales en la prevención de infracciones administrativas y el combate a la delincuencia;
 
-VII. Procurar la reinserción social de los sentenciados y de los adolescentes infractores;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VII. Procurar la reinserción social de los adultos sentenciados y de los adolescentes que resulten responsables de la comisión de hechos tipificados como delito;
 
 VIII. Orientar a las víctimas del delito y sus familiares respecto a sus derechos, buscando que reciban atención adecuada y oportuna por parte de las instituciones correspondientes;
 
@@ -139,17 +161,25 @@ II. Base de Datos: Al conjunto de datos informativos contenidos en los registros
 
 III. Carrera Policial: Al Servicio Profesional de Carrera Policial;
 
-IV. Centro: El Centro Estatal de Evaluación y Control de Confianza;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-V. C-4 Hidalgo: Al Centro de Control, Comando, Comunicaciones y Cómputo;
+IV. C3: El Centro Estatal de Evaluación y Control de Confianza;
 
-VI. Comisión: La Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+V. C5 I: El Centro de Control, Comando, Comunicaciones, Cómputo, Coordinación e Inteligencia;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VI. Comisión del Servicio: La Comisión del Servicio Profesional de Carrera Policial;
 
 VII. Consejo Estatal: El Consejo Estatal de Seguridad Pública;
 
 VIII. Consejo Ciudadano: El Consejo Ciudadano de Seguridad Pública;
 
-IX. Consejo de Honor: El Consejo de Honor y Justicia;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+IX. Comisión de Honor: La Comisión de Honor y Justicia.
 
 X. Consejos Intermunicipales: Los Consejos Intermunicipales de Coordinación de Seguridad Pública;
 
@@ -185,7 +215,9 @@ XXIV. Programa Estatal: El Programa Estatal de Seguridad Pública;
 
 XXV. Programa Municipal: Los Programas Municipales de Seguridad Pública;
 
-XXVI. Policía Industrial Bancaría del Estado de Hidalgo: Al organismo Descentralizado sectorizado a la Secretaría de Seguridad Pública, perteneciente a las Instituciones Policiales del Estado;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XXVI. Policía Industrial Bancaria del Estado de Hidalgo: El Organismo Descentralizado, sectorizado a la Secretaría de Seguridad Pública.
 
 XXVII. Secretaría: La Secretaría de Seguridad Pública del Estado;
 
@@ -196,6 +228,14 @@ XXIX. Sistema Estatal: El Sistema de Seguridad Pública del Estado de Hidalgo;
 XXX. Registros: El Registro de las Instituciones de Seguridad Pública, Registro de Identificación de Personas, Registro de Mandamientos Judiciales y Procedimientos Jurisdiccionales, Registro de Personal de Seguridad Pública y Organismos Auxiliares, Registro de Huellas Dactilares y Registro Público Vehicular, así como el registro de órdenes de protección ; y
 
 XXXI. Secretaría Técnica: A la Secretaría Técnica del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres.
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XXXII. Código Nacional: Código Nacional de Procedimientos Penales; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XXXIII. Programa Rector: Programa rector de profesionalización.
 
 ###### Artículo 5.
 
@@ -217,9 +257,11 @@ IV. El personal operativo de los organismos auxiliares.
 
 La función de la seguridad pública se realizará a través de las Instituciones de Seguridad Pública, conforme a lo dispuesto en la Constitución, la Constitución Estatal y en los demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 8.
 
-El Ejecutivo del Estado podrá auxiliar en la función de seguridad pública a los municipios, cuando exista solicitud expresa del ayuntamiento respectivo y se justifique la causa.
+El Ejecutivo del Estado podrá auxiliar en la función de seguridad pública a los municipios, de conformidad con los convenios de coordinación suscritos en materia de seguridad, cuando exista solicitud expresa del ayuntamiento respectivo y se justifique la causa.
 
 ###### Artículo 9.
 
@@ -269,9 +311,11 @@ VI. Los demás organismos auxiliares en la materia.
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 13.
 
-El Sistema Estatal es el conjunto de instrumentos jurídicos, principios, reglas, políticas, acciones, acuerdos y convenios que ordenan las atribuciones, los procedimientos y la actuación de las autoridades de Seguridad Pública del Estado y de los Municipios, así como la coordinación entre ellos, la Federación, otras Entidades Federativas y el Distrito Federal, tendentes a lograr los objetivos y fines de la seguridad pública, en los términos de los artículos 21 y 115 de la Constitución, la Ley General, la presente Ley y los demás ordenamientos aplicables.
+El Sistema Estatal es el conjunto de principios, reglas, políticas, acciones, acuerdos, instrumentos jurídicos y convenios que estipulan las atribuciones, los procedimientos y la actuación de las autoridades de seguridad pública del Estado y de los Municipios, así como la coordinación entre ellos, la Federación, Entidades Federativas y la Ciudad de México, tendentes a lograr los objetivos y fines de la seguridad pública, en términos de los artículos 21 y 115 de la Constitución, la Ley General, la presente Ley y los demás ordenamientos aplicables.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
@@ -331,11 +375,15 @@ I. Ejecutar las órdenes que dicte el Gobernador en materia de Seguridad Públic
 
 II. Vigilar el cumplimiento de esta Ley, su Reglamento, convenios, acuerdos y demás disposiciones legales sobre la materia;
 
-III. Establecer los programas tendentes a fomentar, desde la perspectiva de género, la cultura de la prevención de la denuncia, de observancia de la legalidad y de respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+III. Establecer los programas tendentes a fomentar la perspectiva de género, la cultura de la prevención del delito, de observancia de la legalidad y de respeto a los derechos humanos;
 
 IV. Dictar las disposiciones necesarias para garantizar el orden público; proteger a las personas, sus bienes y sus derechos; prevenir la comisión de delitos e infracciones administrativas, la violencia de género; y, solicitar se otorgue atención y asistencia a las víctimas de delito;
 
-V. Participar en la investigación de los delitos y persecución de los probables responsables, a través de las instituciones policiales a su mando, por orden del Ministerio Público, en términos de lo señalado por el artículo 21 de la Constitución, 92Bis de la Constitución Estatal y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+V. Participar en la investigación de los delitos y persecución de los imputados a través de las instituciones policiales a su mando, por orden del Ministerio Público, en términos de lo señalado por el artículo 21 de la Constitución, 92 Bis de la Constitución Estatal, 132 del Código Nacional, y demás normatividad aplicable;
 
 VI. Cumplir las obligaciones que establece el Código Nacional de Procedimientos Penales, en relación con el cumplimiento de las medidas cautelares dictadas por autoridades judiciales;
 
@@ -361,11 +409,13 @@ XVI. Vigilar que los programas de seguridad pública preventiva municipal sean c
 
 XVII. Determinar los niveles de restricción de acceso a la información en materia de seguridad pública, cuando se pueda comprometer la seguridad personal de los servidores públicos de la Secretaría, la de las instituciones dependientes del Gobierno del Estado y la seguridad pública en general;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-XVIII. Evaluar los resultados de los programas en materia de seguridad, prevención social de la violencia y la delincuencia con la participación ciudadana;
+XVIII. Evaluar los programas y sus resultados en materia de seguridad, investigación y prevención social de la violencia y la delincuencia, (sic) ejecute el Centro Estatal de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo;
 
-XIX. Autorizar el registro y supervisar el funcionamiento de los servicios de seguridad privada, aplicar en su caso las sanciones correspondientes y suspender o cancelar el mismo cuando lo requiera el interés público, así como en los casos que establece esta Ley, la ley de seguridad privada, su reglamento y demás normatividad aplicable;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XIX. Autorizar a particulares para que presten servicios de seguridad privada en el territorio del Estado, realizar su registro, supervisión, así como aplicar y ejecutar los medios de apremio y las sanciones correspondientes; suspender o cancelar dicha autorización cuando lo requiera el interés público y en los casos que establece esta Ley, la Ley de Seguridad Privada para el Estado de Hidalgo, su Reglamento y demás disposiciones legales que resulten aplicables;
 
 XX. Presidir por sí o por representante el Consejo de Honor y hacer cumplir sus resoluciones;
 
@@ -379,13 +429,19 @@ XXIV. Promover la participación ciudadana y de los diversos sectores de la soci
 
 XXV. Coordinar los servicios aeroportuarios y la flota aérea del Poder Ejecutivo del Estado;
 
-XXVI. Supervisar la carrera policial de los integrantes de las instituciones policiales, proponiendo al consejo académico de profesionalización del instituto, las mejoras convenientes a dicho servicio;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-XXVII. Controlar el sistema de prevención y reinserción social del Estado, proveyendo las medidas necesarias para la reinserción social integral de los internos, así como las relativas a los tratamientos y beneficios de ley correspondientes a la ejecución de penas;
+XXVI. Supervisar la carrera policial de los integrantes de las instituciones policiales, así como las decisiones tomadas al interior de la Comisión del Servicio;
+
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XXVII. Dirigir el Sistema de Prevención y Reinserción Social del Estado, proveyendo las medidas necesarias para prevenir la reincidencia y procurar la reinserción social integral de las personas privadas de la libertad en centros penitenciarios, así como de los adolescentes a quienes se les impute o resulten responsables de la comisión de hechos tipificados como delitos;
 
 XXVIII. Controlar los sistemas de radio-comunicación y de comunicación del Poder Ejecutivo;
 
-XXIX. Coordinar y supervisar el funcionamiento del Centro de Control, Comando, Comunicaciones y Cómputo C-4;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XXIX. Coordinar y supervisar el funcionamiento del C5 I;
 
 XXX. Vigilar que se cumplan los procedimientos disciplinarios, así como los relativos a los reconocimientos, estímulos y recompensas de los integrantes de las instituciones policiales;
 
@@ -395,13 +451,17 @@ XXXII. Establecer las medidas necesarias para regular el sistema de tránsito en
 
 XXXIII. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos;
 
-XXXIV. Acordar la clasificación que deba darse a los centros preventivos y de reinserción social, así como a los centros de internamiento para adolescentes, el inicio de su funcionamiento o la conclusión del mismo, en términos de lo que establezca el reglamento de los centros preventivos de reinserción social para adultos y de internamiento para adolescentes infractores de la ley penal;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XXXIV. Determinar la clasificación que deba darse a los Centros Penitenciarios del Estado, definiéndolos como Centros de Prisión Preventiva, Ejecución de Sanciones Penales y de Medidas de Seguridad, así como los Centros de Internamiento para Adolescentes; así como el inicio de su funcionamiento o la conclusión del mismo, en términos de lo que establezca el Reglamento de los Centros Penitenciarios del Estado, y el relativo a adolescentes;
 
 XXXV. Interpretar las leyes en materia de seguridad pública y resolver las discrepancias que se susciten en el ámbito administrativo con motivo de la interpretación ó aplicación de la legislación relativa a la función de seguridad pública, así como a las atribuciones y competencias de las instituciones y autoridades de seguridad pública.
 
 XXXVI. Crear, modificar ó extinguir mediante acuerdo las unidades administrativas con que deba operar la Secretaría;
 
-XXXVII. Establecer las bases sobre las cuales se prestarán los servicios de seguridad privada, autorizar el registro, regular, inspeccionar y vigilar, así como supervisar el funcionamiento de los servicios de seguridad privada, aplicar en su caso las sanciones correspondientes, suspender o cancelar el mismo cuando lo requiera el interés público, así como en los casos que establece esta ley, la Ley de Seguridad Privada para el Estado de Hidalgo, su Reglamento y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XXXVII. Establecer las bases sobre las cuales se prestarán los servicios de seguridad privada, de conformidad con la presente Ley, la Ley de Seguridad Privada para el Estado de Hidalgo, su Reglamento y las disposiciones aplicables en la materia;
 
 XXXVIII. Solicitar en situaciones de emergencia el auxilio de los prestadores de servicios de seguridad privada en la entidad de acuerdo a lo señalado por esta Ley, la Ley de Seguridad Privada para el Estado de Hidalgo, su Reglamento y demás disposiciones aplicables,
 
@@ -411,7 +471,9 @@ XXXIX. Vigilar y Establecer la inclusión de Programas de Igualdad y Género;
 
 XL. Establecer un Sistema de monitoreo permanente de la violencia con información diferenciada por sexo, origen étnico entre otras, en términos de la Ley de Acceso;
 
-XLI. Autorizar los protocolos de actuación de los Cuerpos Policiacos en materia de violencia de género;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XLI. Autorizar y vigilar la observancia de los protocolos mínimos de la actuación policial, así como los especializados en materia de violencia de género, enfocándose en su cumplimiento con total respeto a los derechos humanos;
 
 XLII. Establecer grupos o unidades que atenderán y operarán los protocolos señalados en la fracción anterior, así como promover su establecimiento en el ámbito municipal; y
 
@@ -437,7 +499,9 @@ IV. El Procurador General de Justicia del Estado;
 
 V. El Comandante de la 18/va Zona Militar;
 
-VI. El Delegado de la Procuraduría General de la República en el Estado;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VI. El Delegado de la Fiscalía General de la República en el Estado;
 
 VII. El Coordinador Estatal de la Policía Federal;
 
@@ -485,9 +549,17 @@ XII. Intervenir en la celebración de acuerdos y convenios de carácter vinculat
 
 XIII. Participar en los Programas de Cooperación Nacional e Internacional sobre seguridad pública, en coordinación con las dependencias correspondientes;
 
-XIV. Promover y evaluar acciones de coordinación entre las instituciones policiales para garantizar la seguridad con perspectiva de género y el cese de la violencia contra las mujeres; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-XV. Las demás que determinen las Leyes.
+XIV. Promover y evaluar acciones de coordinación entre las instituciones policiales para garantizar la seguridad con perspectiva de género y el cese de la violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XV. Coadyuvar con el Centro Estatal de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo, en la vinculación, articulación y formulación de programas, proyectos y acciones tendientes a la prevención social de la violencia, la delincuencia con las instituciones de seguridad pública; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XVI. Las demás que determinen las Leyes.
 
 #### SECCIÓN CUARTA. DEL SECRETARIO EJECUTIVO DEL CONSEJO
 
@@ -603,7 +675,9 @@ III. Cumplir y hacer cumplir la ley, el reglamento gubernativo y de policía, lo
 
 IV. Aplicar las directrices que dentro de su competencia señalen las autoridades federales o estatales en materia de seguridad pública;
 
-V. Nombrar al titular de la corporación de Seguridad Pública Municipal, previa consulta que se haga de sus antecedentes en el Registro Nacional de Personal de las Instituciones de Seguridad Pública, quien además deberá ser certificado por el Centro Estatal de Control de Confianza y tendrá que contar con una experiencia mínima comprobable de tres años como mando en cualquier corporación de seguridad pública;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+V. Nombrar al titular de la corporación de Seguridad Pública Municipal, previa consulta que se haga de sus antecedentes en el Registro Nacional de Personal de las Instituciones de Seguridad Pública, quien además deberá ser certificado por el C3 y contar con una experiencia mínima comprobable de tres años como mando en cualquier corporación de seguridad pública;
 
 VI. Nombrar a los integrantes de la Policía Preventiva Municipal en los términos de esta ley.
 
@@ -641,7 +715,9 @@ III. Investigación. Que tendrá por objeto la prevención, la elaboración de p
 
 IV. Reacción. Que tiene como propósito garantizar, mantener y restablecer la paz y el orden públicos, así como ejecutar los mandamientos ministeriales y judiciales; y
 
-V. Custodia. Que radica en la protección de las instalaciones, el personal de los tribunales, los centros de reinserción social y de internamiento para adolescentes, así como de los intervinientes en el proceso penal y, de requerirse, el traslado y la vigilancia de los imputados.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+V. Custodia. Radica en la vigilancia del orden y seguridad de los Centros Penitenciarios del Estado y los Centros de Internamiento para Adolescentes, salvaguardando la vida, la integridad y los derechos humanos del personal, de las personas privadas de la libertad en éstos y los visitantes en general; y en el traslado y vigilancia de los internos.
 
 Para el debido ejercicio de las atribuciones enumeradas en el párrafo anterior, la policía podrá contar con las siguientes divisiones, cuyas actividades específicas se regularán en el Reglamento aplicable:
 
@@ -657,111 +733,55 @@ V. De reacción; y
 
 VI. De protección y custodia.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 29.
 
 La Secretaría es una dependencia de la administración pública centralizada, que para el desempeño de sus atribuciones cuenta con las siguientes áreas:
 
-I. Subsecretaría de Prevención y Coordinación Institucional.
+I. Despacho de la o el Titular de la Secretaría;
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+a) Dirección General de Administración.
 
-d (SIC) Dirección General de Prevención Social de la Violencia y la Delincuencia y Participación Ciudadana;
+b) Dirección General de Supervisión e Inspección Interna.
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+c) Dirección General de Servicios Aéreos.
 
-e) Dirección General de la Unidad de Registro y Supervisión de Prestadores de Seguridad Privada; y
+d) Dirección General de Asuntos Jurídicos y Derechos Humanos.
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+e) Instituto de Formación Profesional.
 
-f) Dirección de Área de la Coordinación Interinstitucional.
+f) Dirección General de Planeación Estratégica.
 
-II. Subsecretaría de Seguridad Pública y Reinserción Social.
+g) Dirección General de Apoyo Técnico y Agenda Digital.
 
-a) Dirección General de Prevención y Reinserción Social, conformada por:
+h) Dirección General de Seguridad Institucional.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+i) C3; y
 
-1. Director de Policía Penitenciaria;
+j) Dirección General de Estadística.
 
-2. Director de Asuntos Jurídicos;
+II. Subsecretaría de Prevención y Coordinación Institucional.
 
-3. Director de Administración; y
+a) Unidad de Registro y Supervisión de Seguridad Privada.
 
-4. Directores de los Centros de Reinserción Social.
+III. Subsecretaría de Reinserción Social.
 
-b) Dirección General de Aeropuerto Estatal y de la Flota Aérea del Poder Ejecutivo;
+a) Dirección General de Prevención y Reinserción Social.
 
-c) Centro de Control, Comando, Comunicaciones y Cómputo; y
+b) Unidad de Medidas Cautelares.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+IV. Agencia de Seguridad del Estado de Hidalgo.
 
-d) Dirección General de Medidas Cautelares y Policía Procesal, conformada por:
+V. C5 I.
 
-1. Subdirección Administrativa;
+VI. Organismos Descentralizados, sectorizados a la Secretaría:
 
-2. Subdirección de Evaluación;
+a) Policía Industrial Bancaria.
 
-3. Subdirección de Supervisión;
+VII. Organismo Desconcentrado.
 
-4. Subdirección de Informática;
-
-5. Operadores de Evaluación y Supervisión; y
-
-6. Policía Procesal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
-
-III. Agencia de Seguridad del Estado de Hidalgo.
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
-
-a) Coordinación de Seguridad Estatal; y
-
-b) (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2015)
-
-IV. Policía Industrial Bancaria del Estado de Hidalgo;
-
-V. Instituto de Formación Profesional;
-
-VI. Centro Estatal de Evaluación y Control de Confianza;
-
-VII. Dirección General de Administración;
-
-VIII. Dirección General de Supervisión e Inspección Interna.
-
-a) Dirección de Área de Asuntos Internos.
-
-IX. Dirección General de Asuntos Jurídicos y Derechos Humanos;
-
-X. Dirección General de Registro, Control y Análisis de Información.
-
-a) Unidad de Comunicación Social;
-
-XI. Dirección General de Planeación y Programación.
-
-a) (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2015)
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
-
-XII. Dirección de Archivo, Transparencia y Acceso a la Información Pública Gubernamental.
-
-a) Unidad Central de Correspondencia;
-
-b) Archivo de Tramite;
-
-c) Archivo de Concentración;
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
-
-d) Archivo Histórico; y
-
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
-
-e) Unidad de Transparencia y Acceso a la Información Pública Gubernamental.
-
-XIII. Unidad Institucional de Género y,
-
-XIV. Las demás que sean necesarias para el desempeño de sus atribuciones, y que determine su Reglamento Interior, sin menoscabo de que en lo subsecuente se puedan crear otras áreas por acuerdo del Secretario de Seguridad Pública.
+a) Centro Estatal de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo.
 
 ###### Artículo 30.
 
@@ -777,7 +797,9 @@ IV. Principio de Promoción: Fomentar en la comunidad la cultura de la legalidad
 
 V. Perspectiva de género: Consiste en que a partir de identificar las desigualdades socialmente construidas entre mujeres y hombres, se detecte, prevenga y atienda la violencia contra las mujeres favoreciendo su protección y el acceso a la justicia.
 
-### CAPÍTULO II. DE LAS INSTITUCIONES POLICIALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO II. DE LAS INSTITUCIONES POLICIALES Y LA POLICÍA INDUSTRIAL BANCARIA
 
 > <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
@@ -787,35 +809,33 @@ Los integrantes de las instituciones Policiales, estarán sujetos a los derechos
 
 I. Los integrantes de los cuerpos policiales que dependen de la Secretaría operarán en todo el territorio del Estado, y se denominarán:
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+a) Policía Preventivo, integrante de la institución policial con funciones de prevención de conductas delictivas e infracciones administrativas;
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+b) Policía Penitenciario, integrante de la institución policial que se encarga de mantener la vigilancia, orden, seguridad y custodia de los centros penitenciarios, de prisión preventiva, de ejecución de las sanciones penales y medidas de seguridad, así como de los centros de internamiento para adolescentes;
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+c) Policía Industrial Bancario, integrante del cuerpo policial, cuya función será la de brindar el servicio de seguridad, en las modalidades de protección, custodia, vigilancia y traslado, para salvaguardar la integridad y bienes de las personas físicas y morales, públicas y privadas que requieran sus servicios y las demás que establezca la normatividad vigente; y
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+d) Policía Procesal, integrante de la institución policial adscrita a la Unidad de Medidas Cautelares que se encargará de cumplir con las atribuciones previstas en el Código Nacional, esta Ley y demás disposiciones legales aplicables.
+
+e) (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2015)
+
 > <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
-
-a. Policía Preventivo, con funciones de prevención de conductas delictivas e infracciones administrativas;
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
-
-b. Policía Penitenciario, que se encarga de la vigilancia y custodia de los Centros de Reinserción Social, así como en los Centros de Internamiento para adolescentes infractores;
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
-
-c. Policía Industrial Bancario, cuya función será la de brindar el servicio de seguridad, en las modalidades de protección, custodia, vigilancia y traslado, para salvaguardar la integridad y bienes de las personas físicas y morales, públicas y privadas que requieran sus servicios y las demás que establezca la normatividad vigente y aplicable; y,
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
-
-d. Policía Procesal; que se encargará de cumplir con las atribuciones previstas en el Código Nacional de Procedimientos Penales, esta Ley y demás disposiciones legales aplicables; y
-
-e. (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2015)
-
-(F. DE E., P.O. 29 DE DICIEMBRE DE 2014) [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICA AL DE LA FRACCIÓN IV, P.O. 16 DE NOVIEMBRE DE 2015]
 
 II. Los Cuerpos Preventivos de Seguridad Pública Municipal cuyos miembros se denominarán policías preventivos municipales, operarán en el territorio del municipio que corresponda o fuera de éste; en coordinación con las Instituciones Policiales del orden Federal, Estatal o Municipal.
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-III. Policía Investigadora, quién dependerá directamente de la Procuraduría General de Justicia del Estado de Hidalgo, operará en todo el territorio del Estado y estarán encargados de la Investigación científica de los delitos y perseguir a los probables responsables bajo la conducción y mando del Ministerio Público; así como de las atribuciones que señala la Ley General, esta Ley y demás disposiciones legales aplicables;
+III. Policía Investigadora, quien dependerá directamente de la Procuraduría General de Justicia del Estado de Hidalgo, operará en todo el territorio del Estado y estará encargada de la investigación científica de los delitos, perseguir a los imputados bajo la conducción y mando del Ministerio Público; así como de las atribuciones que señala la Ley General, esta Ley y demás disposiciones legales aplicables;
 
-> <small>(ADICIONADA [N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICA AL DE LA FRACCIÓN II], P.O. 16 DE NOVIEMBRE DE 2015)</small>
-
-IV. Los Cuerpos Preventivos de Seguridad Pública Municipal cuyos miembros se denominarán policías preventivos municipales, operarán en el territorio del municipio que corresponda o fuera de éste; en coordinación con las instituciones policiales del orden federal, estatal o municipal.
+IV. (DEROGADA, P.O. 7 DE OCTUBRE DE 2019)
 
 > <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
@@ -827,9 +847,13 @@ a) Mando supremo, que lo tendrá el ejecutivo de la Entidad sobre las fuerzas de
 
 b) Alto Mando, que estará a cargo del Ministerio Público de la Entidad sobre aquéllas, en términos de lo señalado por los artículos 21 de la Constitución Federal, 92 Bis de la Constitución Estatal y demás normatividad aplicable.
 
-c) Mando superior, que lo ejercerá el Secretario de Seguridad Pública del Estado sobre ésta.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-d) Mandos operativos, que los tendrán los Coordinadores, Directores o unidades equivalentes en los municipios.
+c) Mando superior, que lo ejercerá la persona Titular de la Secretaría sobre las instituciones policiales de la misma.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+d) Mandos operativos, que los tendrán el Comisario General respecto de la policía preventiva del Estado, la persona titular de la Dirección de Prevención y Reinserción Social respecto de la policía penitenciaria, la persona titular de la Unidad de Medidas Cautelares respecto de la policía procesal, y las personas titulares de las Direcciones de Seguridad Pública o equivalentes en los municipios, por lo que respecta a las policías preventivas municipales.
 
 e) Mandos subordinados, cuyos titulares serán los encargados de unidades diversas a las enunciadas.
 
@@ -847,27 +871,35 @@ DE LA AGENCIA DE SEGURIDAD DEL ESTADO DE HIDALGO.
 
 Para el cumplimiento de sus atribuciones la Secretaría, contará con una Agencia, con el propósito de cumplir los objetivos de esta ley y los fines de la función de seguridad pública en el ámbito de su competencia.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 33.
 
-La estructura normativa, operativa y organizacional de cada una de las áreas que integran la Agencia, se sujetarán a lo previsto en el Reglamento Interior de la Secretaría.
+La estructura normativa, operativa y organizacional de cada una de las áreas que integran la Agencia, se sujetará en lo aplicable a lo previsto en su Reglamento Interno, así como al Reglamento Interior de la Secretaría, los manuales y los protocolos correspondientes.
 
 #### SECCIÓN SEGUNDA. DE LAS UNIDADES ESPECIALIZADAS
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 34.
 
-La Secretaría podrá crear Unidades Especializadas de Intervención y de Reacción con personal altamente capacitado, para mantener y restablecer el orden y la paz pública.
+La Secretaría podrá crear Unidades Especializadas de Intervención y de Reacción, así como Unidades de Actuación Científica que estén vinculadas al manejo de las tecnologías de la información y comunicación, para la generación de inteligencia que permita prevenir y combatir conductas delictivas con alta precisión.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 35.
 
-La Secretaría llevará un riguroso control de los mecanismos de evaluación y control de confianza de los integrantes de las Unidades Especializadas de Intervención y de Reacción a que se refiere esta sección.
+La Secretaría llevará un riguroso control de los mecanismos de evaluación y control de confianza de los integrantes de las Unidades de Actuación Científica, Especializadas de Intervención y de Reacción, a que se refiere esta sección.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 36.
 
-Las instituciones policiales, se podrán coordinar en un esquema intermunicipal denominado Policía Metropolitana, METROPOL, con el objeto (sic) diseñar en conjunto las estrategias operativas para prevenir y controlar conductas delictivas o infracciones administrativas que afecten la paz, el orden y la tranquilidad pública.
+Las Instituciones Policiales del Estado y los Municipios, se podrán coordinar mediante convenios denominados del Mando Coordinado, con el objeto de diseñar en conjunto las estrategias operativas para prevenir y controlar conductas delictivas o infracciones administrativas que afecten la paz, el orden y la tranquilidad pública.
 
 ###### Artículo 37.
 
-La Secretaría se apoyará de la Policía Procesal para dar cumplimiento a mandamientos del Poder Judicial, donde se requiera la fuerza pública.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
 #### SECCIÓN TERCERA. DE LOS ORGANISMOS AUXILIARES
 
@@ -891,9 +923,11 @@ Las empresas y organismos que presten servicios de seguridad privada, que operen
 
 Los organismos auxiliares tienen por objeto prestar el servicio de seguridad, vigilancia y protección, así como combatir incendios y apoyar a la población civil en casos de desastre e intervenir en funciones que no estén reservadas específicamente a las autoridades e instituciones policiales.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-Los organismos auxiliares que son coadyuvantes de la función de seguridad pública, tienen la obligación de colaborar y brindar información oportuna a la Secretaría a través de la Dirección General de Registro, Control y Análisis de Información, así como a las autoridades e instituciones de seguridad.
+Los organismos auxiliares que son coadyuvantes de la función de seguridad pública, tienen la obligación de colaborar y brindar información oportuna a la Secretaría a través de la Dirección General de Estadística, así como a las autoridades e instituciones de seguridad.
 
 ###### Artículo 41.
 
@@ -1039,7 +1073,7 @@ XLVII. Las demás obligaciones que establezca la presente Ley y demás ordenamie
 
 Los integrantes de las instituciones policiales, además de las obligaciones señaladas en el artículo que antecede, tendrán las siguientes:
 
-A. (DEROGADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2015)
+A. (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2015)
 
 I. En los términos del Código Nacional de Procedimientos Penales:
 
@@ -1061,7 +1095,9 @@ VII. Ejecutar las órdenes que reciban de la línea de mando relativa y responde
 
 VIII. Mantener en buen estado, custodiar y devolver cuando se les ordene, el armamento, el material, las municiones, los vehículos y el equipo que se les asigne con motivo de sus funciones;
 
-IX. Actualizarse en el empleo de métodos de investigación que garanticen la recopilación técnica y científica de indicios y/o evidencias;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+IX. Recopilar técnica y científicamente indicios o evidencias, para lo cual deberá actualizarse en el empleo de métodos de investigación que garanticen su eficacia;
 
 X. Elaborar y utilizar los protocolos de investigación y de cadena de custodia adoptados por las instituciones de seguridad pública;
 
@@ -1069,7 +1105,9 @@ XI. Realizar bajo la conducción y mando del Ministerio Público la investigaci�
 
 XII. Participar en investigaciones conjuntas en delitos contra la salud en su modalidad de narcomenudeo;
 
-XIII. Informar al probable responsable al momento de su detención, sobre los derechos que a su favor establece la Constitución y demás normas aplicables;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XIII. Informar al imputado al momento de su detención, sobre los derechos que establece la Constitución y demás normas aplicables;
 
 XIV. Poner a disposición de la autoridad competente a los menores de edad que hubieren incurrido en acciones u omisiones, correspondientes a ilícitos tipificados por las leyes penales;
 
@@ -1081,17 +1119,23 @@ XVII. Practicar las diligencias necesarias que permitan el esclarecimiento de lo
 
 XVIII. Participar en la investigación, detención de personas y en el aseguramiento de bienes que el Ministerio Público considere se encuentren relacionados con los hechos delictivos, observando las disposiciones constitucionales y legales aplicables;
 
-XIX. Registrar de inmediato las detenciones en el Registro correspondiente e informar de las mismas sin demora al Ministerio Público;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XIX. Inscribir de inmediato las detenciones en el Registro correspondiente e informar de las mismas sin demora al Ministerio Público;
 
 XX. Poner a disposición de la autoridad competente a las personas detenidas sin dilación alguna, previa consulta de su identidad en los sistemas y registros de seguridad pública bajo su más estricta responsabilidad, así como los bienes que se encuentren en posesión de éstos al momento de su detención;
 
-XXI. Preservar el lugar de los hechos, los indicios, huellas o vestigios del delito, además de los instrumentos u objetos relacionados con éste;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XXI. Preservar en el lugar de su intervención, los indicios, huellas o vestigios del delito, además de los instrumentos u objetos relacionados con los hechos;
 
 XXII. Hacer constar cada una de sus actuaciones y darles seguimiento;
 
 XXIII. Dar cumplimiento en forma inmediata a los mandamientos ministeriales y judiciales que se le asignen;
 
-XXIV. Entrevistar a los testigos para conocer la verdad histórica de los hechos que se investiguen y recabar de ellos sus datos para ser localizados;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XXIV. Entrevistar a los testigos y recabar de ellos toda la información que sea necesaria para la investigación;
 
 XXV. Recabar los datos que sirvan para la identificación del imputado en la investigación del delito;
 
@@ -1147,7 +1191,13 @@ VIII. Verificar que para efectos de los traslados se cuenten con el equipamiento
 
 IX. Revisar a las personas, los objetos y vehículos que ingresen o salgan de los referidos centros, respetando los derechos de aquéllas; y
 
-X. Las demás que sean necesarias y análogas a las anteriores que le confieran esta Ley, los Reglamentos y demás disposiciones legales.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+X. Implementar las políticas, los programas y las estrategias establecidas en materia de seguridad y custodia penitenciaria, que para tal efecto diseñe la Autoridad Penitenciaria;
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+En la ejecución de las anteriores atribuciones, el custodio penitenciario observará de manera irrestricta los derechos humanos de las personas privadas de la libertad, de las personas que acuden a visitas y del personal del Centro.
 
 E. Policía Procesal. Los Policías procesales además de la custodia, traslado y vigilancia de audiencias judiciales, deberán:
 
@@ -1159,7 +1209,9 @@ I. Mantener estrictamente vigilados los establecimientos donde presten sus servi
 
 II. Cumplir, en el ámbito de su responsabilidad, las resoluciones dictadas por las autoridades jurisdiccionales en los procedimientos penales orales en el Estado;
 
-III. Resguardar la seguridad y el orden que permitan el desarrollo de las audiencias ante el Juez de Control, Tribunal de Enjuiciamiento y juez de ejecución de sanciones penales
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+III. Garantizar la seguridad y el orden que permitan el desarrollo de las audiencias ante el Juez de Control, Tribunal de Enjuiciamiento, Juez de Ejecución de Sanciones Penales y Juez Especializado en Justicia para Adolescentes.
 
 IV. Trasladar al imputado con las debidas medidas de seguridad a los Centros de detención, a los Centros de Prisión Preventiva, a la Sala de Garantías o Control, a la Sala de Tribunal Oral, a los Centros Penitenciarios, de conformidad con las órdenes que al efecto se dicten por las autoridades competentes;
 
@@ -1167,13 +1219,13 @@ V. Conducir los sujetos procesales intervinientes, a la sala de audiencia;
 
 VI. Salvaguardar la integridad física, la seguridad y los derechos de las partes y sujetos intervinientes en las audiencias y, en general, de los servidores públicos adscritos a las mismas, haciendo cumplir la normatividad correspondiente;
 
-VII. Conducir a los sujetos procesales intervinientes a las Salas de Garantías y de Tribunal Oral (Testigos, Peritos, Policías y demás sujetos intervinientes);
+VII. (DEROGADA, P.O. 7 DE OCTUBRE DE 2019)
 
 VIII. Garantizar que los imputados que van a declarar, si son varios, no se comuniquen entre sí antes de rendir la declaración, conduciéndolos al lugar pertinente para tal efecto;
 
-IX. Garantizar un ambiente de tranquilidad y orden en las Salas de Audiencias;
+IX. (DEROGADA, P.O. 7 DE OCTUBRE DE 2019)
 
-X. Cuidar que el público no interrumpa o altere el orden en las audiencias;
+X. (DEROGADA, P.O. 7 DE OCTUBRE DE 2019)
 
 XI. Vigilar el cumplimiento de las prohibiciones a los asistentes;
 
@@ -1181,7 +1233,7 @@ XII. Desalojar al imputado de la sala de audiencias cuando altere el orden y res
 
 XIII. Revisar que el público que ingresa a las Salas de Audiencia, no ingrese uniformado, ni porte armas u otros elementos aptos para interrumpir el desarrollo de la audiencia, o se encuentren en estado de ebriedad o bajo el influjo de cualquier tipo que pudiera ocasionar un comportamiento que impida el normal desarrollo de las audiencias;
 
-XIV. Informar al órgano jurisdiccional sobre la presencia de periodistas y medios de comunicación, para ubicarlos en el lugar adecuado;
+XIV. (DEROGADA, P.O. 7 DE OCTUBRE DE 2019)
 
 XV. Atender lo que determine el órgano jurisdiccional respecto al ingreso de periodistas y medios de comunicación, en el lugar en que se desarrolle la audiencia;
 
@@ -1189,7 +1241,7 @@ XVI. Desalojar al imputado o intervinientes de la Sala cuando alteren el orden y
 
 XVII. Mantener la secrecía de los datos o información personalísima de la víctima u ofendido, imputado, testigos, etc. ventilada en las audiencias, así como también de los datos sensibles;
 
-XVIII. Garantizar que los sujetos procesales y los intervinientes que van a declarar no se comuniquen entre sí; y
+XVIII. (DEROGADA, P.O. 7 DE OCTUBRE DE 2019)
 
 XIX. Las demás que sean necesarias y análogas a las anteriores que le confieran esta Ley, los Reglamentos y demás disposiciones legales.
 
@@ -1233,9 +1285,11 @@ XIV. Los demás que les confieran las leyes y reglamentos de la materia.
 
 Se entiende por ascenso, la promoción del elemento policial al grado inmediato superior, de acuerdo con lo que determine la reglamentación correspondiente.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 52.
 
-La Secretaría tramitará los ascensos de los miembros de seguridad pública del Estado, considerando los expedientes y resultados obtenidos en sus evaluaciones.
+La Secretaría a través de la Comisión del Servicio, en coordinación con la Institución Policial a la que se encuentre adscrito el puesto vacante o de nueva creación, emitirá convocatoria interna del proceso de promoción, la cual será dirigida a todo el personal que cumpla con los requisitos.
 
 ###### Artículo 53.
 
@@ -1309,43 +1363,97 @@ IV. Instrumentar e impulsar la capacitación y profesionalización permanente de
 
 V. Los demás que establezcan las disposiciones que deriven de esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 61.
 
 La organización jerárquica de las Instituciones Policiales del Estado son las siguientes:
 
-I. Escala básica:
+I. Policía Preventiva:
 
-a) Policía;
+1. Comisarios:
 
-b) Policía Tercero;
-
-c) Policía Segundo; y
-
-d) Policía Primero.
-
-II. Oficiales:
-
-a) Suboficial;
-
-b) Oficial; y
-
-c) Subinspector.
-
-III. Inspectores:
-
-a) Inspector;
-
-b) Inspector Jefe; e
-
-c) Inspector General.
-
-IV. Comisarios:
-
-a) Comisario;
+a) Comisario General;
 
 b) Comisario Jefe; y
 
-c) Comisario General.
+c) Comisario.
+
+2. Inspectores:
+
+a) Inspector General;
+
+b) Inspector Jefe; e,
+
+c) Inspector.
+
+3. Oficiales:
+
+a) Subinspector;
+
+b) Oficial; y,
+
+c) Suboficial.
+
+4. Escala Básica:
+
+a) Policía Primero;
+
+b) Policía Segundo;
+
+c) Policía Tercero; y,
+
+d) Policía.
+
+II. Policía Penitenciaria:
+
+1. Inspectores:
+
+a) Inspector.
+
+2. Oficiales:
+
+a) Subinspector
+
+b) Oficial; y
+
+c) Suboficial.
+
+3. Escala Básica:
+
+a) Policía Primero;
+
+b) Policía Segundo;
+
+c) Policía Tercero; y
+
+d) Policía.
+
+III. Policía Procesal:
+
+1. Inspectores:
+
+a) Inspector.
+
+2. Oficiales:
+
+a) Subinspector
+
+b) Oficial; y
+
+c) Suboficial.
+
+1. Escala Básica:
+
+a) Policía Primero;
+
+b) Policía Segundo;
+
+c) Policía Tercero; y
+
+d) Policía.
+
+De acuerdo a las categorías que correspondan a cada Institución Policial, los Comisarios tienen funciones de dirección y toma de decisiones, su nombramiento será por designación; los Inspectores tienen funciones de planeación y coordinación, los Oficiales tienen funciones básicas de supervisión, enlace y vinculación, y la Escala Básica desempeña funciones de operación y ejecución.
 
 ###### Artículo 62.
 
@@ -1385,11 +1493,13 @@ VI. Podrán ser cambiados de adscripción los integrantes de las instituciones p
 
 VII. La Secretaría determinará los procedimientos relativos a cada una de las etapas de la Carrera Policial.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 64.
 
-La carrera policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que el integrante llegue a desempeñar en las instituciones policiales. En ningún caso habrá inamovilidad en los cargos operativos y administrativos.
+La carrera policial es independiente de los nombramientos para desempeñar cargos administrativos o de dirección que se lleguen a desempeñar en las Instituciones Policiales, previa obtención de licencia en el cargo que se ostente dentro de la carrera policial. En ningún caso habrá inamovilidad en los cargos operativos y administrativos.
 
-Los titulares de las instituciones policiales podrán designar a los integrantes en cargos operativos y administrativos, en los términos establecidos en el reglamento de la presente Ley, respetando su grado policial y derecho a la Carrera Policial.
+Los titulares de las Instituciones Policiales podrán designar a los integrantes en cargos operativos y administrativos, en los términos establecidos en el reglamento de la presente Ley y el Reglamento del Servicio, respetando su grado policial y derecho a la Carrera Policial.
 
 ###### Artículo 65.
 
@@ -1401,27 +1511,31 @@ El ingreso a la carrera policial será por convocatoria pública y los ascensos 
 
 Las personas que decidan en forma voluntaria prestar sus servicios en las Instituciones Policiales Estatales, deberán permanecer en los Cuerpos de Seguridad Pública Estatal por el tiempo que determina esta Ley, y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 67.
 
-El Secretario, los Sub secretarios, los Coordinadores Estatales y los Directores de las instituciones policiales, no pertenecerán a la Carrera Policial, sus servicios en el activo estarán sujetos a la normatividad aplicable.
+La persona Titular de la Secretaría, de las Subsecretarías, de la Agencia de Seguridad del Estado, del C5 I y de las Direcciones Generales, no pertenecerán a la Carrera Policial, sus servicios estarán sujetos a la normatividad aplicable.
 
 ###### Artículo 68.
 
 El Reclutamiento del personal de las instituciones policiales estatales, se llevará a cabo de acuerdo a lo establecido en la Ley, el Reglamento del Servicio Profesional de Carrera Policial, y demás ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 69.
 
-Los cadetes o alumnos que sean admitidos para su formación profesional en el Instituto, además de permanecer el tiempo que dure la misma, deberán cumplir con una Estadía dentro de las Instituciones Policiales de la Secretaría por un periodo de tres años tratándose de Técnico Superior Universitario.
+Los cadetes o alumnos que sean admitidos para su formación inicial en el Instituto, conforme a los contenidos previstos en el programa rector, además de permanecer el tiempo que dure la misma, deberán cumplir con una estadía dentro de las Instituciones Policiales de la Secretaría, por un periodo de tres años tratándose de Técnico Superior Universitario.
 
-Tratándose de la Licenciatura, los Policías Investigadores deberán cumplir con una Estadía de seis años dentro de la Procuraduría General de Justicia del Estado de Hidalgo.
+Tratándose de la licenciatura, deberán cumplir con una estadía de seis años dentro de las Instituciones Policiales de la Secretaría.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 70.
 
-Los miembros de las Instituciones Policiales pertenecientes a la Secretaría o a la Procuraduría General de Justicia del Estado de Hidalgo, y que pertenezcan a la Carrera Policial, que sean designados o autorizados para efectuar el proceso de profesionalización, además del tiempo a que ya están obligados por disposición legal o por compromiso suscrito, servirán un año adicional por cada año o fracción que duren en esa situación.
+Los miembros de las Instituciones Policiales de la Secretaría, que pertenezcan a la carrera policial, designados o autorizados para efectuar el proceso de profesionalización, además del tiempo obligatorio por disposición legal, servirán un año adicional por cada año o fracción que permanezcan en esa situación.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
 En el caso de que los cursos se realicen en otra entidad o en el extranjero, si las erogaciones que causen sus gastos son a cargo del Erario Estatal, el tiempo adicional de servicios se duplicará.
 
@@ -1501,7 +1615,7 @@ XVI. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### Artículo 72.
 
-La terminación de la carrera policial se sujetará a lo dispuesto en el Artículo 56, fracciones I, II y III de la presente Ley.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2015)</small>
 
@@ -1517,25 +1631,35 @@ Permanencia: Artículo 71-b). Fracciones: I, III, VI, VIII, IX, X, XI, XII, XIII
 
 ### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 74.
 
-El Centro es la unidad administrativa dependiente de la Secretaría, facultada y responsable para llevar a cabo las investigaciones, exámenes y evaluaciones médico-toxicológico, psicológicas, poligráficas, de entorno (sic) socioeconómicos y demás análogas, necesarias, aptas y permisibles para establecer y determinar la confiabilidad de las personas que aspiren a ingresar o se encuentren en activo en las instituciones, instancias y corporaciones de seguridad pública del Estado y los municipios, de sus auxiliares, de las empresas de seguridad privada, del sistema penitenciario y de procuración de justicia, que se definen (sic) la presente Ley.
+El C3 es la unidad administrativa dependiente de la Secretaría, facultada y responsable para llevar a cabo las investigaciones, exámenes y evaluaciones médico-toxicológico, psicológicas, poligráficas, de entorno socioeconómicos (sic) y demás análogas, necesarias, aptas y permisibles para establecer y determinar la confiabilidad de las personas que aspiren a ingresar o se encuentren en activo en las instituciones, instancias y corporaciones de seguridad pública del Estado y los municipios, de sus auxiliares, de las empresas de seguridad privada, del sistema penitenciario y de procuración de justicia, que se definen en la presente Ley, de acuerdo a los lineamientos que para tal efecto expida el Centro Nacional de Acreditación y Certificación, dependiente del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
 
 La certificación será determinada con los resultados de las evaluaciones señaladas en la presente Ley y aquellas que se consideren en la normatividad aplicable.
 
-El personal que forme parte de una institución de seguridad pública, o que maneje información sensible, deberá presentar la (sic) evaluaciones de control de confianza a que se refiere esta Ley, para el caso del personal de las instituciones policiales no importa si pertenecen o no al sistema de Carrera Policial.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+El personal que forme parte de una institución de seguridad pública, privada o de procuración de justicia o que maneje información sensible, deberá presentar las evaluaciones de control de confianza a que se refiere esta Ley, para el caso del personal de las instituciones de seguridad pública, no importa si pertenecen o no al Sistema de Carrera Policial.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 75.
 
-La certificación es el resultado de un proceso de evaluación, mediante el cual los integrantes de las Instituciones de seguridad pública estatal y municipal, procuración de justicia, cuerpos policiales, empresas de seguridad privada y demás personal mencionado en la presente Ley, se someten a evaluaciones periódicas establecidas por el Centro Estatal, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
+La certificación es el resultado de un proceso de evaluación, mediante el cual los integrantes de las Instituciones de Seguridad Pública estatal y municipal, procuración de justicia, cuerpos policiales, empresas de seguridad privada y demás personal mencionado en la presente Ley, se someterán a evaluaciones periódicas establecidas por el C3, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
 
-El certificado que se expida con motivo del proceso al que se refiere el párrafo anterior, para su validez, deberá otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de evaluación, a efecto de que sea ingresado en el Registro Nacional de Personal de Seguridad Pública que para tal efecto se establezca. Dicha certificación y registro estarán sujetos a las evaluaciones a que se refiere la Ley General, esta Ley y demás ordenamientos legales aplicables.
+El certificado que se expida con motivo del proceso al que se refiere el párrafo anterior, para su validez, deberá otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de evaluación, a efecto de que sea ingresado en el Registro Nacional de Personal de Seguridad Pública.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 76.
 
-El Centro expedirá los certificados en los términos que establezca el Centro Nacional de Certificación y Acreditación y realizará sus funciones de conformidad a lo establecido en la Constitución, Constitución Estatal, Ley General, esta Ley y demás normatividad aplicable.
+El C-3 expedirá los certificados en los términos que establezca el Centro Nacional de Certificación y Acreditación y realizará sus funciones de conformidad a lo establecido en la Constitución, la Constitución Estatal, la Ley General, esta Ley y demás normatividad aplicable.
 
-La certificación asegura la confiabilidad del personal de las Instituciones de Seguridad Pública, mediante los procedimientos de evaluación establecidos en la normatividad aplicable:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE OCTUBRE DE 2019)</small>
+
+La certificación asegura la confiabilidad del personal de las Instituciones de Seguridad Pública, privada o de procuración de justicia, mediante los procedimientos de evaluación establecidos en la normatividad aplicable, por lo que:
 
 I. Reconoce habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por el Consejo Nacional de Seguridad Pública;
 
@@ -1559,9 +1683,11 @@ Las personas que aspiren a ingresar y permanecer a las Instituciones de Segurida
 
 Ninguna persona podrá ingresar o permanecer en las Instituciones de Seguridad Pública sin que cuente con la Certificación y registro vigentes.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 78.
 
-La certificación y registro tendrán una vigencia de acuerdo a lo que determine el Sistema Nacional de Seguridad Pública.
+La certificación y registro tendrán la vigencia que para tal efecto determine el Centro Nacional de Certificación y Acreditación del Sistema Nacional de Seguridad Pública.
 
 ###### Artículo 79.
 
@@ -1571,9 +1697,11 @@ Los servidores públicos de las instituciones de seguridad pública deberán som
 
 La vigencia del certificado será requisito indispensable para su permanencia en las instituciones policiales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 80.
 
-La cancelación del certificado de los servidores públicos de las instituciones de seguridad pública procederá:
+La cancelación del certificado que expida el C-3 procederá:
 
 I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
 
@@ -1585,7 +1713,9 @@ III. Por fenecer la vigencia del Certificado; y
 
 IV. Por las demás causas que establezcan las disposiciones aplicables.
 
-Las instituciones policiales al cancelar algún certificado deberán, de forma inmediata, hacer la anotación respectiva en el Registro Nacional correspondiente al cancelar algún certificado.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+Cuando proceda, los solicitantes del proceso de evaluación deberán informar al C3, para que éste lleve a cabo la cancelación del certificado respectivo e informe a las instancias correspondientes.
 
 ###### Artículo 81.
 
@@ -1593,13 +1723,15 @@ Los aspirantes a ingresar a la Procuraduría General de Justicia del Estado de H
 
 Ninguna persona que forme parte de las Instituciones de Procuración de Justicia, podrá ingresar o permanecer en la Procuraduría General de Justicia del Estado de Hidalgo, sin estar certificado y con su registro vigente.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 82.
 
-El Centro de Evaluación emitirá los certificados correspondientes a quienes acrediten los requisitos en los términos de la normatividad aplicable.
+El C3 emitirá los certificados correspondientes a quienes acrediten los requisitos en los términos de la normatividad aplicable.
 
 ###### Artículo 83.
 
-Los certificados a que se refiere el artículo anterior, para su validez, deberán otorgarse en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación, a efecto de que sea ingresado en el Registro Nacional que para tal efecto se establezca. Dicha certificación y registro tendrán una vigencia de tres años.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
 > <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
@@ -1609,45 +1741,43 @@ Los servidores públicos de la Institución de Procuración de Justicia deberán
 
 La revalidación del certificado será requisito indispensable para su permanencia en la Institución de Procuración de Justicia y deberá registrarse para los efectos a que se refiere el artículo anterior.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 85.
 
-Los servidores públicos que deseen prestar sus servicios en otra institución de seguridad pública, deberán acreditar haber sido evaluados y certificados presentando la constancia que les haya sido expedido previamente por la Institución a la que perteneció.
+El personal que desee prestar sus servicios en una Institución de Seguridad Pública, privada o de procuración de justicia, deberán informar si cuenta con certificado de evaluación vigente, para que, a su vez, la institución a la que desee ingresar, a través del C3, convalide la vigencia del certificado en cuestión. En caso contrario, previo a su ingreso, deberán someterse a los procesos de evaluación que correspondan.
 
-La Procuraduría General de Justicia del Estado de Hidalgo reconocerá la vigencia de los certificados debidamente expedidos y registrados, conforme a las disposiciones legales aplicables. En caso contrario, previo a su ingreso, el servidor público deberá someterse a los procesos de evaluación.
-
-En todos los casos, se deberán realizar las inscripciones que correspondan en el Registro Nacional.
+En todos los casos, se deberán realizar las inscripciones que correspondan en el Registro Nacional de Personal de Seguridad Pública.
 
 ###### Artículo 86.
 
-La cancelación del certificado de los Servidores Públicos de la Procuraduría General de Justicia del Estado de Hidalgo, procederá:
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
-I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
-
-II. Al ser removidos de su encargo;
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
-
-III. Por fenecer la vigencia del certificado, y;
-
-IV. Por las demás causas que establezcan las disposiciones aplicables.
-
-Cuando la Procuraduría General de Justicia del Estado de Hidalgo, cancele algún certificado deberá hacerse la anotación respectiva en el Registro Nacional correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 87.
 
-El Centro Estatal, para su organización y funcionamiento, se integrará por:
+El C3, para su organización y funcionamiento, se integrará por:
 
-I. El Director General del Centro Estatal, y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+I. El Director General del C3; y,
 
 II. Los Directores, Subdirectores, y demás servidores públicos que se requieran para el cumplimiento de su objeto, ajustándose al presupuesto designado para ello.
 
-La estructura orgánica del Centro, requerimientos generales, capacidad de atención, facultades y atribuciones no contempladas en la presente Ley, se establecerán en el Reglamento, acuerdos, circulares y demás disposiciones que al efecto se emitan.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-El Reglamento Interior del Centro será expedido en los plazos y términos establecidos en la presente ley.
+La estructura orgánica del C3, requerimientos generales, capacidad de atención, facultades y atribuciones no contempladas en la presente Ley, se establecerán en el Reglamento, acuerdos, circulares y demás disposiciones que al efecto se emitan.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+El Reglamento Interior del C3 será expedido en los plazos y términos establecidos en la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 88.
 
-El Centro Estatal tendrá a su cargo el diseño, elaboración y aplicación de procesos de evaluación, sistemáticos y periódicos, tanto de aspirantes como del personal sustantivo de las instituciones de Seguridad Pública del Estado y de Procuración de Justicia, para verificar que la actuación de los servidores públicos se ajuste al marco de conducta que dictan el Código de Ética y la normatividad institucional, con la intención de inhibir actos de corrupción, impunidad e infiltración del crimen organizado.
+El C3 tendrá a su cargo la elaboración y aplicación de procesos de evaluación, sistemáticos y periódicos, tanto de aspirantes como del personal sustantivo de las Instituciones de Seguridad Pública, privada y de Procuración de Justicia, para verificar que la actuación de las personas a evaluar se ajuste al marco de conducta que dicta el Código de Ética y la normatividad institucional, con la intención de inhibir actos de corrupción, impunidad e infiltración del crimen organizado.
 
 El proceso de evaluación de control de confianza constará de los exámenes siguientes:
 
@@ -1661,29 +1791,39 @@ IV. Poligráfico; y
 
 V. Los demás que establezcan las normas aplicables.
 
-Los exámenes a los que se refiere las fracciones anteriores, se valorarán en conjunto, el contenido de los expedientes y reportes de resultados derivados de los procesos de evaluación, tendrá el carácter de información confidencial y reservada.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-Los servidores públicos serán citados a la práctica de las evaluaciones correspondientes. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aprobados.
+Los exámenes a los que se refiere las fracciones anteriores, se valorarán en conjunto, el contenido de los expedientes y reportes de resultados derivados de los procesos de evaluación, tendrán el carácter de información confidencial y reservada, en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+Los servidores públicos a evaluar serán citados a la práctica de las evaluaciones correspondientes por conducto del enlace acreditado ante el C3. En caso de no presentarse sin mediar causa justificada, se les tendrá por no aprobados.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 89.
 
-El Centro Nacional de Certificación y Acreditación, será el responsable de la certificación y acreditación del Centro, asimismo, establecerá los criterios mínimos para la evaluación de los aspirantes e integrantes de las instituciones de seguridad pública, señalando los requisitos que debe contener el Certificado de Control de Confianza.
+El Centro Nacional de Certificación y Acreditación, será el responsable de la certificación y acreditación del C3, asimismo, establecerá los criterios mínimos para la evaluación de los aspirantes e integrantes de las Instituciones de Seguridad Pública, privada y de Procuración de Justicia, señalando los requisitos que debe contener el Certificado de Control de Confianza.
 
-Cuando en los procesos de certificación intervengan instituciones privadas, éstas deberán contar con la acreditación vigente del Centro Nacional de Certificación y Acreditación.
+Cuando en los procesos de certificación exista la necesidad de subrogar algún servicio del proceso de evaluación a instituciones privadas, éstas deberán cumplir con los lineamientos que para el efecto emita el Centro Nacional de Certificación y Acreditación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 90.
 
-El Centro certificará a los aspirantes y a los integrantes de las instituciones de seguridad pública y sus auxiliares, así como a los integrantes de las instituciones de procuración de justicia en los procesos de selección, permanencia y promoción conforme a los procedimientos que para el efecto establezca el Centro Nacional de Certificación y Acreditación.
+El C3 certificará a los aspirantes y a los integrantes de las Instituciones de Seguridad Pública y sus auxiliares, así como a los integrantes de las Instituciones de Procuración de Justicia en los procesos de selección, permanencia y promoción conforme a los procedimientos que para el efecto establezca el Centro Nacional de Certificación y Acreditación.
 
 La Secretaría podrá celebrar convenios para la evaluación y certificación del personal de instituciones públicas y privadas, relacionadas con la función de seguridad pública
 
 ###### Artículo 91.
 
-Los resultados que emita el Centro serán confidenciales y reservados en los términos del reglamento correspondiente del Centro Estatal, conforme al artículo 27 fracción III, de la Ley de Transparencia y Acceso a la Información Pública Gubernamental para el Estado de Hidalgo.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 92.
 
-El Centro Estatal aplicará las evaluaciones a que se refiere la Ley General, tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los Integrantes de las Instituciones de seguridad pública; para tal efecto, tendrá las siguientes facultades:
+El C3 aplicará las evaluaciones a que se refiere la Ley General, tanto en los procesos de selección de aspirantes, como en la evaluación para la permanencia, el desarrollo y la promoción de los Integrantes de las Instituciones de Seguridad Pública; para tal efecto, tendrá las siguientes facultades:
 
 I. Aplicar los procedimientos de Evaluación y de Control de Confianza conforme a los criterios y lineamientos expedidos por el Centro Nacional de Certificación y Acreditación;
 
@@ -1703,19 +1843,19 @@ VIII. Expedir y actualizar los Certificados conforme a los formatos autorizados 
 
 IX. Informar a las autoridades competentes, sobre los resultados de las evaluaciones que se practiquen;
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+X. (DEROGADA, P.O. 7 DE OCTUBRE DE 2019)
 
-X. Dar seguimiento del cumplimiento por parte de las Instituciones que correspondan, referente a las recomendaciones realizadas respecto de los integrantes de dichas instituciones, durante el proceso de evaluaciones, a fin de garantizar que desaparezcan los factores de riesgo que interfieran en el desempeño de sus funciones;
+XI. (DEROGADA, P.O. 7 DE OCTUBRE DE 2019)
 
-XI. Detectar áreas de oportunidad para establecer programas de prevención y atención que permitan solucionar la problemática identificada;
-
-XII. Proporcionar a las instituciones, la asesoría y apoyo técnico que requieran sobre información de su competencia;
+XII. (DEROGADA, P.O. 7 DE OCTUBRE DE 2019)
 
 XIII. Proporcionar a las autoridades competentes la información contenida en los expedientes de integrantes de las Instituciones de Seguridad Pública, Procuración de Justicia, cuerpos policiales y empresas que prestan el servicio de seguridad privada, que se requieran en procesos administrativos o judiciales, con las reservas previstas en las leyes aplicables;
 
 XIV. Elaborar los informes de resultados para la aceptación o rechazo de los aspirantes a ingresar a las Instituciones de Seguridad Pública,
 
-XV. Elaborar la estadística necesaria relativa a las evaluaciones de control de confianza practicadas y hacerla del conocimiento del Secretario de Seguridad Pública para las medidas pertinentes;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XV. Elaborar la estadística necesaria relativa a las evaluaciones de control de confianza practicadas y hacerla del conocimiento del Secretario y al Centro Nacional de Certificación y Acreditación para las medidas pertinentes;
 
 XVI. Coordinar y calificar los procesos de la evaluación y de control de confianza que se practiquen a los integrantes de un cuerpo o empresa que brinde servicios de seguridad privada;
 
@@ -1723,45 +1863,65 @@ XVII. Planear y establecer las políticas y lineamientos mediante las que se imp
 
 XVIII. Las demás que establezcan las disposiciones legales aplicables
 
-## TÍTULO QUINTO. DEL SISTEMA DE FORMACIÓN Y PROFESIONALIZACIÓN DEL PERSONAL DE SEGURIDAD PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+## TÍTULO QUINTO. DEL SISTEMA DE FORMACIÓN Y PROFESIONALIZACIÓN DE LOS ASPIRANTES E INTEGRANTES DE LAS INSTITUCIONES POLICIALES
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 93.
 
-La Profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de: formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de los integrantes de las Instituciones Policiales.
+La profesionalización es la acción permanente y progresiva que se integra por los procesos de formación inicial y continua, que comprende las etapas de actualización, especialización y alta dirección, así como promoción para desarrollar al máximo las competencias profesionales, capacidades, habilidades y ética de los aspirantes e integrantes de las Instituciones Policiales.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 94.
 
-La profesionalización de los integrantes de las instituciones policiales incluirá temas relacionados con la prevención, atención, sanción y erradicación de la violencia contra las mujeres y la igualdad real entre mujeres y hombres.
+La profesionalización de los integrantes de las Instituciones Policiales incluirá temas relacionados con la prevención, atención, sanción y erradicación de la violencia de género, la igualdad real entre hombres y mujeres, así como el respeto irrestricto a los derechos humanos reconocidos en la Constitución y los tratados internacionales.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 95.
 
-El Instituto es la única instancia rectora en materia de profesionalización en el Estado para las instituciones policiales, de conformidad con las disposiciones contenidas en esta Ley.
+El Instituto es la única instancia rectora en materia de formación y profesionalización en el Estado, para los aspirantes e integrantes de las Instituciones Policiales, conforme a los lineamientos del Programa Rector; así mismo será la única instancia facultada para certificar al personal operativo de seguridad privada con actividades en el Estado, de conformidad con las disposiciones contenidas en esta Ley.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 96.
 
-Los Municipios deberán elaborar programas compatibles de capacitación, actualización, profesionalización y desarrollo para sus corporaciones, observando las reglas mínimas que para el efecto establezca el Instituto.
+Los municipios deberán elaborar programas compatibles de capacitación, actualización, profesionalización y desarrollo de los conocimientos, habilidades y aptitudes para sus corporaciones policiales, observando las reglas mínimas que para el efecto establezca el Instituto de conformidad con el Programa Rector.
 
-Si el Municipio de que se trate cuenta con la infraestructura académica y administrativa, actuará bajo la supervisión del Instituto, en caso contrario, el Instituto determinará lo relativo a sus procesos de capacitación, actualización, profesionalización y desarrollo.
+Si el municipio de que se trate, cuenta con la estructura administrativa y el personal académico certificado, actuará bajo la supervisión del Instituto, incluyendo lo relativo a la emisión de las constancias respectivas, en caso contrario, el Instituto determinará lo relativo a sus procesos de capacitación, actualización, profesionalización y desarrollo.
 
-## TÍTULO SEXTO. DEL SISTEMA DE PREVENCIÓN Y REINSERCIÓN SOCIAL DEL INDIVIDUO Y DE LOS ADOLESCENTES INFRACTORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+## TÍTULO SEXTO
+
+DEL SISTEMA DE PREVENCIÓN Y REINSERCIÓN SOCIAL DE LAS PERSONAS PRIVADAS DE LA LIBERTAD EN CENTROS DE INTERNAMIENTO Y DE LOS ADOLESCENTES A QUIENES SE LES IMPUTE O RESULTEN RESPONSABLES DE LA COMISIÓN DE HECHOS TIPIFICADOS COMO DELITOS
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 97.
 
-La Secretaría a través de la Dirección General de Prevención y Reinserción Social, será la facultada de administrar los Centros Penitenciarios que se establezcan en el Estado, de acuerdo a lo señalado por la normatividad aplicable; así mismo tendrá por objeto procurar la reinserción del sentenciado a la sociedad, la reinserción social del adolescente infractor y prevenir en lo posible, la no desadaptación social de las personas procesadas.
+La Secretaría a través de la Dirección General de Prevención y Reinserción Social, será la facultada de administrar y operar los Centros Penitenciarios y de internamiento para adolescentes que se establezcan en el Estado, de acuerdo a lo señalado por la normatividad aplicable; así mismo tendrá por objeto procurar la reinserción de los adultos sentenciados y de los adolescentes que resulten responsables de la comisión de los hechos tipificados como delitos.
 
-La Dirección General de Prevención y Reinserción Social y los Centros Preventivos y de Reinserción Social y el Centro de Internamiento para Adolescentes, se regirán por lo señalado en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.
+La Dirección General de Prevención y Reinserción Social, los Centros Penitenciarios y el Centro de Internamiento para Adolescentes, se regirán por lo señalado en el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 98.
 
-La Secretaría a través de la Subsecretaría de Seguridad Pública y Reinserción Social, vigilará que la Dirección General de Prevención y Reinserción Social y los Centros Preventivos y de Reinserción Social, desarrollen programas sobre la base del trabajo, la capacitación para el mismo, la educación, la salud, el deporte y la terapia psicológica, respetando irrestrictamente los derechos humanos con la finalidad de alcanzar los fines del artículo 97 de la presente ley.
+La Secretaría a través de la Subsecretaría de Reinserción Social, supervisará que la Dirección General de Prevención y Reinserción Social y los Centros Penitenciarios y de Internamiento para Adolescentes, desarrollen programas sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para procurar la reinserción de la persona privada de la libertad a la sociedad y procurar que no vuelva a delinquir.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 99.
 
-El Subsecretario de Seguridad Pública y Reinserción Social de acuerdo al Reglamento Interior de la Secretaría, será integrante de la Conferencia Nacional del Sistema Penitenciario, a su vez, será quien en el ámbito de su competencia participe en la elaboración de los acuerdos que en la materia deban suscribirse, además de promover la homologación de los mecanismos, sistemas y procedimientos de seguridad en los Centros preventivos y de Reinserción Social y en los Centros de Internamiento y Reinserción Social de Adolescentes Infractores, así como lo relativo a los tratamientos individualizados que deba recibir la población de los mismos.
+La persona Titular de la Subsecretaría de Reinserción Social, será integrante de la Conferencia Nacional del Sistema Penitenciario, a su vez, será quien en el ámbito de su competencia participe en la elaboración de los acuerdos que en la materia deban suscribirse, además de promover la homologación de los mecanismos, sistemas y procedimientos de seguridad en los Centros Penitenciarios y en los Centros de Internamiento para Adolescentes.
 
 ###### Artículo 100.
 
@@ -1787,167 +1947,205 @@ El Reglamento de Honor y Justicia correspondiente contendrá el catálogo y desc
 
 Para la aplicación de cualquier medida disciplinaria, deberá previamente concederse al implicado el derecho de audiencia y debido proceso.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 104.
 
-Los elementos de las instituciones policiales que promuevan un juicio o medio de defensa en contra de las resoluciones de la Comisión en que se haya impuesto la separación y/o remoción y obtengan resolución favorable, serán indemnizados, sin que por ningún motivo proceda su reinstalación.
+Los correctivos disciplinarios o sanciones que procede aplicar a los integrantes de las Instituciones Policiales cuando incumplan el régimen disciplinario y atendiendo a la gravedad de la infracción son los siguientes:
+
+I. Amonestación pública;
+
+II. Amonestación privada;
+
+III. Arresto, hasta por treinta y seis horas; o
+
+IV. Suspensión temporal de funciones, hasta por quince días sin goce de sueldo.
 
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS COLEGIADOS
 
 ### CAPÍTULO I. DE LA COMISIÓN DE HONOR Y JUSTICIA
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 105.
 
-Cada institución policial deberá constituir una Comisión, procurando en su integración la paridad entre mujeres y hombres, la cual funcionará como órgano colegiado para conocer y resolver sobre la procedencia de las sanciones aplicables a sus integrantes, así como lo relativo a la separación de éstos por incumplimiento de los requisitos de permanencia, velando por su honorabilidad y buena reputación y evaluando las conductas que sean lesivas para la sociedad y para dichas instituciones.
+Por Órganos Colegiados se entiende a:
 
-La Comisión también conocerá y resolverá sobre estímulos, premios y recompensas, a quienes se hayan distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones o a propuesta de los ciudadanos, organizaciones sociales o de la institución a la que pertenezcan. También estará facultada para proponer ante el Consejo de Honor a los integrantes de las instituciones policiales que merezcan alguna de las condecoraciones que establece el Reglamento de Honor y Justicia y las demás disposiciones normativas aplicables, debiendo integrar las constancias suficientes para ello, a efecto de remitirlas al Consejo de Honor para su valoración y determinación.
+I. La Comisión de Honor y Justicia, será conformada de acuerdo con lo señalado en la Ley, su Reglamento Interno y demás ordenamientos legales aplicables; la cual tiene como función primordial velar que los integrantes de las instituciones policiales cumplan con los principios de actuación, resolviendo sobre conductas violatorias de las disposiciones legales, así como valorar su desempeño ya sea para ser sancionados o reconocidos.
+
+II. La Comisión del Servicio Profesional de Carrera Policial, que tendrá a su cargo la planeación y control de recursos humanos, ingreso, permanencia, desarrollo de los integrantes de las instituciones policiales basándose en las disposiciones contenidas en la Constitución, la Ley General, y en las demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 106.
 
-La Comisión que se constituya en cada institución policial dependiente de la Secretaría, deberá integrarse por:
+La Comisión de Honor, se integrará de la siguiente manera:
 
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+I. Un Presidente; que será designado por el titular de la Secretaría;
 
-I. El titular de la institución policial de que se trate, quien la presidirá y representará;
+II. Un Secretario Técnico;
 
-II. Un Secretario Técnico que deberá ser licenciado en derecho, designado por la Secretaría; que dará fe de las actuaciones;
+III. Dos Vocales Técnicos, que representarán a cada una de las siguientes áreas:
 
-III. Un vocal, que deberá ser elegido de entre los integrantes de la institución policial de que se trate, que no haya sido sancionado administrativa o penalmente. Este vocal deberá aceptar y protestar el cargo ante los demás integrantes de la Comisión y durará en su encargo dos años, sin que pueda ser reelecto;
+a) Mandos de la Institución;
 
-IV. Un vocal designado por la Comisión de Derechos Humanos del Estado; y
+b) Personal operativo.
 
-V. Un vocal designado por el órgano de control de la Secretaría de Seguridad Pública.
+IV. Tres Vocales, que representarán a cada una de las siguientes áreas:
 
-Todos los integrantes de la Comisión tendrán derecho a voz y voto. En todo asunto que deba conocer se abrirá un expediente, con las constancias que sean necesarias para resolver al respecto.
+a) Recursos Humanos;
 
-Cada Comisión deberá contar con un notificador, que gozará de fe pública en el ejercicio de esta función;
+b) Servicio Profesional de Carrera; e
 
-La integración y funcionamiento de las Comisiones de las instituciones policiales que no pertenezcan a la Secretaría, será conforme lo establezca el reglamento respectivo que para el caso deberán de emitir.
+c) Instituto de Formación Profesional.
+
+Todos los integrantes de la Comisión de Honor tendrán derecho a voz y voto.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 107.
 
-Para la aplicación de las sanciones, la Comisión tomará en consideración los siguientes elementos:
+La aplicación de las sanciones se hará con base en las probanzas desahogadas durante el procedimiento y deberá registrarse en el expediente personal del infractor la sanción que se le aplique.
 
-I. Suprimir prácticas policiales que afecten a la sociedad o lesionen la imagen de la institución;
+Para graduar con equidad la imposición de las sanciones, la Comisión de Honor, tomará en consideración los factores siguientes:
 
-II. La naturaleza del hecho y/o gravedad de la conducta del infractor;
+I. Gravedad de la infracción;
 
-III. Los antecedentes de la actuación policial y el nivel jerárquico del infractor;
+II. Daños causados a la institución y a la ciudadanía;
 
-IV. La repercusión en la disciplina o comportamiento en los demás integrantes de la institución;
+III. Antecedentes personales en el servicio;
 
-V. Las circunstancias del hecho y los medios de ejecución;
+IV. Prácticas que vulneren el funcionamiento de la Corporación;
 
-VI. La antigüedad en el servicio policial;
+V. Cargo, comisión, categoría, jerarquía o grado, el nivel académico y la antigüedad en el servicio;
 
-VII. La reincidencia del infractor; y
+VI. Circunstancias y modos de ejecución;
 
-VIII. El daño o perjuicio cometido a terceras personas.
+VII. Circunstancias socioeconómicas del infractor;
+
+VIII. Intencionalidad o negligencia;
+
+IX. Reincidencia del responsable; y
+
+X. Daños producidos a otros integrantes de las Instituciones Policiales.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 108.
 
-Las sanciones se impondrán por conducto de la Comisión mediante procedimiento disciplinario, que se sujetará a lo establecido en el Reglamento de Honor y Justicia, el cual deberá considerar cuando menos las siguientes disposiciones:
+Las sanciones se impondrán por conducto de la Comisión de Honor mediante el procedimiento disciplinario, que se sujetará a lo establecido en el Reglamento de Honor y Justicia, el cual deberá considerar el estricto apego a las disposiciones legales aplicables y observará en todo momento las formalidades esenciales del procedimiento.
 
-I. Se iniciará a petición del servidor público o persona que tenga conocimiento de alguna conducta indebida de algún integrante de las instituciones policiales, exponiendo los motivos por escrito o por comparecencia;
-
-II. La Comisión podrá suspender en sus funciones, sin goce de sueldo, previa notificación del acuerdo de inicio del procedimiento al servidor público, haciéndole saber el motivo y fundamento legal para iniciar el procedimiento.
-
-III. En el acuerdo de inicio se señalará el lugar, día y hora para la verificación de una audiencia que deberá realizarse en un plazo no menor de cinco, ni mayor de diez días hábiles, contados a partir del día siguiente al de la fecha de la notificación. Se le hará saber su derecho a ofrecer pruebas y alegar lo que a su interés convenga, por si o por licenciado en derecho titulado que lo represente, apercibido, que en caso de no comparecer sin causa justificada, se entenderán como aceptadas las acusaciones que se le hacen, así como precluido su derecho a ofrecer pruebas. El servidor público podrá manifestar lo que a su derecho convenga de forma verbal o por escrito respecto a la responsabilidad que se le imputa;
-
-IV. Si en la audiencia se advierten elementos que impliquen la configuración de otras causales de responsabilidad del servidor público sujeto a procedimiento o de la participación de otros, se les vinculará al mismo, cumpliendo con las formalidades establecidas en las fracciones que anteceden.
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
-
-V. Serán admisibles toda clase de pruebas, excepto las que fueren contrarias a derechos, la moral, las buenas costumbres y las que se obtuvieran vulnerando los derechos fundamentales de las personas; aplicándose para el efecto, así como para su desahogo y valoración, lo dispuesto en el Código de Procedimientos Civiles para el Estado de Hidalgo, de manera supletoria;
-
-VI. La Comisión en un término no mayor de diez días hábiles citará a las partes a la audiencia de desahogo de pruebas, una vez desahogadas éstas, el interesado podrá presentar en forma verbal o por escrito, al día siguiente hábil, los alegatos que a su derecho convengan;
-
-VII. La resolución tomará en consideración la falta cometida, la jerarquía y los antecedentes de la persona sujeta a procedimiento, las pruebas desahogadas y los alegatos presentados oportunamente;
-
-VIII. La Comisión resolverá de manera fundada y motivada, dentro de los diez días hábiles siguientes, a partir de la conclusión del término para la presentación de los alegatos, la existencia o inexistencia de responsabilidad, y en su caso, la sanción correspondiente notificando al servidor público de que se trate, dentro del término de dos días hábiles siguientes; y
-
-IX. De todo lo actuado se levantará constancia por escrito, debidamente firmada por los que intervinieron y quisieron hacerlo. Las resoluciones de la Comisión se agregarán a los expedientes u hojas de servicio del integrante de la institución policial y se solicitará se realicen las anotaciones en los Registros correspondientes.
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
-
-Contra la resolución emitida por la Comisión a la que hace mención el artículo 106 de este ordenamiento, procederá el recurso de inconformidad, el cual se presentará con la expresión de agravios ante la Comisión, dentro de los cinco días hábiles siguientes a la notificación personal.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 109.
 
-Las resoluciones que dicten la Comisión y el Consejo de Honor deberán cumplir con las exigencias y formalidades esenciales del procedimiento; en lo no previsto por la Ley y El Reglamento de Honor y Justicia, se aplicarán de manera supletoria los ordenamientos legales que prevea éste último.
+La Comisión de Honor, en el ámbito de su competencia, lleva a cabo las etapas en las que deberá observar el debido cumplimiento a los principios de actuación policial, de conformidad con el procedimiento establecido en el Reglamento de Honor y Justicia de las Instituciones Policiales de la Secretaría.
 
 ###### Artículo 110.
 
 La ejecución de las sanciones administrativas impuestas en resolución firme se llevará a cabo de inmediato en sus términos, y surtirán efectos al notificarse.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 110 Bis.
+
+La Comisión de Honor tendrá facultades para conocer y resolver respecto a las condecoraciones, estímulos y recompensas a que se hagan merecedores los integrantes de las Instituciones Policiales, por su valor, mérito y perseverancia en el servicio, las cuales se podrán otorgar en vida o post mortem; emitiendo, en su caso, la constancia que avale la propuesta de la Institución Policial.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ### CAPÍTULO II. DEL CONSEJO DE HONOR Y JUSTICIA
 
 ###### Artículo 111.
 
-El Consejo de Honor es el órgano colegiado de la Secretaría, que tiene como atribuciones conocer y resolver sobre el recurso de inconformidad que le planteen; examinando los expedientes y hojas de servicio, a efecto de dictar su resolución.
-
-Las resoluciones que emita el Consejo de Honor no admitirán medio de impugnación alguna y tendrán por efecto confirmar, modificar o revocar las resoluciones emitidas por la Comisión que se constituya en cada una de las instituciones policiales pertenecientes a la Secretaría.
-
-La integración y funcionamiento de los Consejos de Honor de las instituciones policiales que no pertenezcan a la Secretaría, será conforme lo establezca el reglamento respectivo que para el caso deberán de emitir.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
 ###### Artículo 112.
 
-El Consejo de Honor tendrá además facultades para conocer y resolver respecto a las condecoraciones a que se hagan merecedores los integrantes de las instituciones policiales, por su valor, mérito y perseverancia en el servicio, las cuales se podrán otorgar en vida o postmortem.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
 ###### Artículo 113.
 
-El Consejo de Honor se integrará por:
-
-I. El Secretario de Seguridad Pública, quien lo presidirá;
-
-II. Un Secretario Técnico, que será el titular de la Dirección de Asuntos Jurídicos de la Secretaría, quien dará fe de todas las actuaciones;
-
-III. Un vocal, que será el titular de la Agencia;
-
-IV. Un vocal, que será el Contralor Interno de la Secretaría;
-
-V. Un vocal designado por el Consejo Estatal;
-
-VI. Un vocal designado por la Comisión de Derechos Humanos del Estado;
-
-VII. Un vocal designado por el Comité;
-
-VIII. Un vocal que deberá ser insaculado por la institución policial a la que pertenezca el servidor público recurrente. Este Vocal durará en su encargo dos años y no podrá ser reelecto; y
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
-
-IX. La persona titular de la Unidad Institucional de Género de la Secretaría, en calidad de vocal, tratándose de actos de discriminación, misoginia o violencia de género o cuando el procedimiento se haya instruido en contra de una mujer.
-
-Todos los integrantes del Consejo de Honor tendrán derecho a voz y voto.
-
-El Consejo de Honor deberá contar con un notificador, que gozará de fe pública en el ejercicio de esta función.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
 ###### Artículo 114.
 
-El Consejo de Honor al recibir el expediente que contenga las actuaciones que dieron origen al recurso de inconformidad, procederá a lo siguiente:
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
-I. Ordenará su radicación y registro en el libro de Gobierno que para el efecto se instrumente, admitiéndose dicho recurso en efecto suspensivo si fue interpuesto en tiempo y forma, con la finalidad de confirmar, modificar o revocar la resolución recurrida;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-II. Posterior a la admisión del recurso interpuesto se notificará de inmediato en forma personal al recurrente, para hacer de su conocimiento la radicación de los autos, pudiendo nombrar en cualquier momento a persona de su confianza que lo represente.
+### CAPÍTULO III. DE LA COMISIÓN DEL SERVICIO PROFESIONAL DE CARRERA
 
-III. Las pruebas debidamente ofrecidas y desechadas por la Comisión, será motivo para que el Consejo de Honor determine la reposición del procedimiento, ordenando se deje insubsistente la resolución de mérito y se desahoguen los medios de prueba respectivos.
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-IV. Las pruebas supervenientes, podrán ofrecerse dentro de los cinco días hábiles siguientes contados a partir de la fecha en que se realice la notificación personal a que hace referencia el párrafo anterior.
+###### Artículo 114 Bis.
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2015)</small>
+La Comisión del Servicio, es el órgano colegiado con plena autonomía encargado de ejecutar las disposiciones administrativas relativas al servicio profesional de carrera.
 
-V. Transcurrido el plazo señalado en la fracción que antecede, si fueron ofrecidas pruebas por el recurrente o su representante en los términos señalados en el párrafo segundo de la fracción precedente, se señalará una audiencia para el desahogo de aquellas que hubiesen sido admitidas, aplicándose para el efecto, así como para su valoración, lo dispuesto en el Código de Procedimientos Civiles vigente en el Estado. Concluida ésta, se citará, en un plazo no mayor de quince días hábiles, para dictar la resolución que conforme a derecho proceda.
+Además de lo señalado por esta Ley y por el Reglamento del Servicio Profesional, su integración, funcionamiento, atribuciones y obligaciones, deberán establecerse en los lineamientos, manuales y demás ordenamientos legales y administrativos aplicables.
 
-VI. Si el recurrente no ofreciera pruebas en el plazo señalado, se procederá a citarlo para dictar la resolución correspondiente. En ambos casos las notificaciones se harán de manera personal; y
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-VII. El Consejo de Honor deberá efectuar un estudio integral y suplir total o parcialmente la ausencia de los motivos de la inconformidad o subsanar los insuficientemente formulados, sus resoluciones deberán estar debidamente fundadas y motivadas, constarán por escrito y tendrán que ser aprobadas por la mayoría de sus miembros; cuando alguno no estuviere de acuerdo con la resolución, expresará de manera sucinta las razones de su inconformidad en voto particular, el que se agregará a la resolución que deberá ser firmada por todos sus integrantes.
+###### Artículo 114 Ter.
 
-Las resoluciones que se impugnen no podrán ser modificadas en perjuicio de los recurrentes.
+La Comisión del Servicio, se integrará de la siguiente manera:
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+I. Un Presidente, que será designado por el titular de la Secretaría;
+
+II. Un Secretario Técnico, que será designado por el Presidente de la Comisión del Servicio;
+
+III. Dos Vocales Técnicos, que representarán a cada una de las siguientes áreas:
+
+a) Mandos de la Institución;
+
+b) Personal operativo.
+
+IV. Tres Vocales, que representarán a cada una de las siguientes áreas:
+
+a) Recursos Humanos;
+
+b) Servicio Profesional de Carrera; e
+
+c) Instituto de Formación Profesional.
+
+Todos los integrantes de la Comisión del Servicio contarán con derecho a voz y voto.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 114 Quater.
+
+Los integrantes de la Comisión del Servicio, además de las previstas en su Reglamento, lineamientos y manuales, tendrán las funciones siguientes:
+
+I. Coordinar y dirigir el servicio, en el ámbito de su competencia;
+
+II. Aprobar y ejecutar todos los procesos y mecanismos de la presente Ley, referentes a los procedimientos de planeación, reclutamiento, selección de aspirantes, formación inicial e ingreso, formación continua y especializada, evaluación para la permanencia, desarrollo y promoción, estímulos, sistema disciplinario, separación, retiro y recursos procedentes;
+
+III. Evaluar los procedimientos señalados en la fracción anterior a fin de determinar quienes cumplen con los requisitos que se establecen;
+
+IV. Verificar el cumplimiento de los requisitos de ingreso y permanencia del personal operativo y expedir los pases de examen para todas las evaluaciones;
+
+V. Aprobar directamente los mecanismos para el otorgamiento de estímulos al personal operativo;
+
+VI. Resolver, de acuerdo a las necesidades y disponibilidades presupuestales de la Corporación, la reubicación de los integrantes;
+
+VII. Proponer las reformas necesarias al servicio profesional de carrera;
+
+VIII. Conocer y resolver sobre el otorgamiento de constancias de grado;
+
+IX. Conocer y resolver las controversias que se susciten en materia del servicio profesional de carrera, de asuntos que no se encuentren dentro del ámbito de competencia de la Comisión de Honor;
+
+X. Informar al Titular de la Institución Policial que corresponda, aquellos aspectos del servicio, que por su importancia lo requieran;
+
+XI. Establecer los Comités del Servicio, que sean necesarios, de acuerdo al tema o actividad a desarrollar, supervisando su actuación;
+
+XII. Notificar a los elementos los resultados de la evaluación del desempeño, cuando sean aprobatorios y sin inconsistencias e informar a la Comisión de Honor del resultado de las evaluaciones del desempeño cuando no sean satisfactorias para el inicio del procedimiento de separación correspondiente;
+
+XIII. Coordinarse con todas las demás autoridades e instituciones, a cuya área de atribuciones y actividades correspondan obligaciones relacionadas con el servicio profesional de carrera; y
+
+XVI (SIC). Las demás que le confiera la Ley, su reglamento interior y demás disposiciones normativas aplicables.
 
 ## TÍTULO NOVENO. DEL SISTEMA ESTATAL DE REGISTROS E INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 115.
 
@@ -1957,9 +2155,15 @@ En virtud de la coordinación interinstitucional, se compartirá dicha informaci
 
 El Sistema Estatal de Registros e Información para la Seguridad Pública podrá incluir la base de datos, su recepción y emisión, que puedan ser utilizados para asuntos relacionados con la protección civil, salud o cualesquier otro servicio público en beneficio de la comunidad.
 
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+La utilización de los registros e información deberá hacerse bajo los más estrictos principios de confidencialidad y de reserva, el uso inapropiado por quienes tengan acceso a su contenido se sancionará conforme a la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 116.
 
-La Secretaría a través de la Dirección General de Registro, Control y Análisis de Información, será la encargada del resguardo, sistematización, consulta, análisis, actualización, custodia e integración de la información incluida en los Registros, relacionada con los siguientes elementos:
+La Secretaría a través de la Dirección General de Estadística, será la encargada del resguardo, sistematización, consulta, análisis, actualización, custodia e integración de la información incluida en los Registros, relacionada con los siguientes elementos:
 
 I. La estadística de delitos e infracciones administrativas;
 
@@ -1975,7 +2179,9 @@ VI. La información de apoyo a la Procuración de Justicia;
 
 VII. La información de procesados, sentenciados y ejecutoriados;
 
-VIII. El Registro de los Servicios de Atención a la Población a través del C-4 Hidalgo;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VIII. El Registro de los Servicios de Atención a la Población a través del C5 I;
 
 IX. La Información relativa a los infractores de las leyes y reglamentos administrativos y las sanciones impuestas.
 
@@ -1999,9 +2205,11 @@ También a través de estos, se fijará (sic) las condiciones de seguridad sobre
 
 Estos servidores públicos, deberán obtener la aprobación y certificación de control y confianza, de acuerdo al Sistema Nacional de Seguridad Publica, esta Ley, su Reglamento y demás disposiciones aplicables
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 117.
 
-La Dirección General de Registro, Control y Análisis de Información, implementará el sistema o subsistemas de registro en materia de Seguridad Pública, utilizando para tal fin los medios tecnológicos idóneos que permitan la concentración única de las bases de datos que puedan ser objeto de consulta, conforme al manual de operación que para tal efecto se expida por la Secretaría.
+La Dirección General de Estadística, implementará el sistema o subsistemas de registro en materia de Seguridad Pública, utilizando para tal fin los medios tecnológicos idóneos que permitan la concentración única de las bases de datos que puedan ser objeto de consulta, conforme al manual de operación que para tal efecto se expida por la Secretaría.
 
 Las autoridades estatales, municipales, los servicios de seguridad privada y demás auxiliares en la materia, tienen la obligación de proporcionar la documentación e información que se les solicite, a efecto de dar cumplimiento a las disposiciones contenidas en este (sic) en la presente Ley, su Reglamento y demás disposiciones aplicables.
 
@@ -2033,13 +2241,17 @@ El servidor público que incurra en alguna de las conductas previstas en el pres
 
 #### SECCIÓN PRIMERA. DEL REGISTRO DE ESTADÍSTICA DELICTIVA
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 120.
 
-La Secretaría por conducto de la Dirección General de Registro, Control y Análisis de Información, integrará el Registro de la Estadística Delictiva, con el propósito de sistematizar los datos, cifras e indicadores relevantes sobre aspectos relacionados con seguridad pública, prevención del delito, infracciones administrativas, procuración e impartición de justicia, ejecución de sentencias, sistemas penitenciarios, reinserción social y tratamiento de adolescentes infractores, así como los factores asociados con el fenómeno delictivo, sus consecuencias y cualquier otra información que sea pertinente para los fines de esta Ley, en términos del manual respectivo.
+La Secretaría por conducto de la Dirección General de Estadística, integrará el Registro de la Estadística Delictiva, con el propósito de sistematizar los datos, cifras e indicadores relevantes sobre aspectos relacionados con seguridad pública, prevención del delito, infracciones administrativas, procuración e impartición de justicia, ejecución de sentencias, sistemas penitenciarios, reinserción social y justicia penal para adolescentes, así como los factores asociados con el fenómeno delictivo, sus consecuencias y cualquier otra información que sea pertinente para los fines de esta Ley, en términos del manual respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 121.
 
-La Dirección General de Registro, Control y Análisis de Información, tendrá como objeto realizar:
+La Dirección General de Estadística, tendrá como objeto realizar:
 
 I. El diseño, seguimiento y evaluación de las bases de datos en materia de seguridad pública;
 
@@ -2089,7 +2301,9 @@ El Registro Estatal de Personal de Seguridad, estará constituido por el conjunt
 
 El Registro Estatal de Personal de Seguridad Pública contendrá la información de los servidores públicos de las instituciones de seguridad y se integrará al menos con lo siguiente:
 
-I. Los datos que permitan identificarlo y localizarlo, sus huellas digitales, fotografía de frente y de perfil, registro biométrico, de voz y tipo sanguíneo, escolaridad y antecedentes laborales, familiares, así como su trayectoria en los servicios de seguridad pública o privada;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+I. Los datos biométricos que permitan identificarlo y localizarlo, como lo son huellas digitales y de las palmas de las manos, fotografía de frente y perfiles, registro de voz, tipo sanguíneo, media filiación, señas particulares, así como escolaridad, antecedentes laborales, familiares, y su trayectoria en los servicios de seguridad pública o privada;
 
 II. La información relativa a la capacitación, actualización, desarrollo, profesionalización y especialización que hubiere recibido;
 
@@ -2103,19 +2317,25 @@ VI. Cualquier cambio de adscripción, actividad o rango, así como las razones q
 
 VII. Cuando a los integrantes se dicte cualquier auto de procesamiento, sentencia, sanción administrativa o resolución que modifique, confirme o revoque dichos actos, la autoridad que conozca del caso respectivo notificará inmediatamente al Registro Estatal de Personal; y
 
-VIII. La Secretaría por conducto de la Dirección General de Registro, Control y Análisis de Información, establecerá los mecanismos para dar seguimiento al personal que deje de laborar en las instituciones policiales.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VIII. La Secretaría por conducto de la Dirección General de Estadística, establecerá los mecanismos para dar seguimiento al personal que deje de laborar en las Instituciones Policiales.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 124.
 
-La Secretaría a través de la Dirección General de Registro, Control y Análisis de Información, inscribirá y mantendrá actualizado en el Registro Estatal de Personal, los datos relativos al personal de las instituciones policiales y verificará que se integre en el Registro Nacional del Personal de Seguridad Pública.
+La Secretaría a través de la Dirección General de Estadística, inscribirá y mantendrá actualizado en el Registro Estatal de Personal de Seguridad, los datos relativos al personal de las Instituciones Policiales y verificará que se integren en el Registro Nacional del Personal de Seguridad Pública.
 
 ###### Artículo 125.
 
 La consulta del Registro será obligatoria y previa al ingreso de todas las personas a cualquier institución de seguridad pública, policial o de seguridad privada, incluyendo las de formación y capacitación. Con los resultados de la consulta la autoridad procederá de conformidad con las normas conducentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 126.
 
-Los miembros de las instituciones de seguridad policial y sus auxiliares están obligados a notificar, a su superior jerárquico inmediato y éste a la Dirección General de Registro, Control y Análisis de Información, cualquier cambio o modificación que se produzca en los datos que hayan aportado con anterioridad al Registro Estatal de Personal de Seguridad, en un plazo no mayor de tres días hábiles contados a partir de que haya ocurrido el cambio.
+Los miembros de las Instituciones de Seguridad Policial y sus auxiliares están obligados a notificar, a su superior jerárquico inmediato y éste a la Dirección General de Estadística, cualquier cambio o modificación que se produzca en los datos que hayan aportado con anterioridad al Registro Estatal de Personal de Seguridad, en un plazo no mayor de tres días hábiles contados a partir de que haya ocurrido el cambio.
 
 La infracción a esta disposición se sancionará en términos de la normatividad aplicable.
 
@@ -2155,9 +2375,11 @@ La Secretaría proporcionará a los municipios en comodato armas de fuego de acu
 
 DE LA INFORMACIÓN DE APOYO A LA PREVENCIÓN Y PROCURACIÓN DE JUSTICIA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 133.
 
-La Dirección General de Registro, Control y Análisis de Información, integrará una base estatal de datos sobre probables responsables de delitos, imputados, detenidos, procesados, sentenciados o ejecutoriados, que deberá ser de consulta obligatoria en las actividades de Seguridad Pública; en ésta se incluirán las características criminales, medios de identificación, recursos y modos de operación.
+La Dirección General de Estadística, integrará una base estatal de datos sobre detenidos, imputados, procesados y sentenciados, que deberá ser de consulta obligatoria en las actividades de Seguridad Pública; en ésta se incluirán las características criminales, medios de identificación, recursos y modos de operación.
 
 Esta base de datos se actualizará permanentemente, se conformará con la información que aporten las instituciones de prevención, procuración e impartición de justicia, del Sistema Penitenciario y de Reinserción Social y en general, todas las instituciones que deban contribuir a la Seguridad Pública, relativa a las investigaciones, averiguaciones previas, órdenes de detención y aprehensión, sentencias o ejecución de penas.
 
@@ -2167,9 +2389,11 @@ Para efectos del Registro, el Ministerio Público sólo podrá reservarse la inf
 
 Las autoridades de Seguridad Pública del Estado y de los municipios deberán incorporar a esta base de datos la identificación biométrica de las personas detenidas por la comisión de alguna falta a los reglamentos gubernativos y de policía, para lo cual adoptarán los recursos tecnológicos apropiados para dicho fin. Invariablemente deberán consultar los sistemas y registros de seguridad pública, remitiendo además la información respectiva para incorporarla al registro de infracciones y sanciones administrativas.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 135.
 
-La Secretaría a través de la Dirección General de Registro, Control y Análisis de Información, llevará el Registro Estatal de personas procesadas, sancionadas administrativamente, así como de las procesadas, sentenciadas o ejecutoriadas, con el objeto de integrar la estadística penitenciaria y proponer lineamientos de tipo político criminológico para la elaboración de estrategias que permitan el cumplimiento del objeto y fines de esta Ley. Asimismo, deberá generar mecanismos de actualización de dicha información.
+La Secretaría a través de la Dirección General de Estadística, llevará el Registro Estatal de personas sancionadas administrativamente, así como de las procesadas y sentenciadas, con el objeto de integrar la estadística penitenciaria y proponer lineamientos de tipo político criminológico para la elaboración de estrategias que permitan el cumplimiento del objeto y fines de esta Ley. Asimismo, deberá generar mecanismos de actualización de dicha información.
 
 #### SECCIÓN QUINTA. DE LA COORDINACIÓN DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
 
@@ -2187,43 +2411,87 @@ Cualquier persona podrá grabar o video grabar a los servidores públicos de las
 
 El Estado y los municipios, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su red local correspondiente, con las bases de datos criminalísticos y de personal del Sistema Estatal de Información, previstas en la presente Ley.
 
-El servicio de llamadas de emergencia 066 y el servicio de denuncia anónima 089, operarán con un número único cada uno de atención a la ciudadanía.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+El servicio de llamadas de emergencia 911 y el servicio de denuncia anónima 089, operarán con un número único cada uno de atención a la ciudadanía.
 
 El Secretariado Ejecutivo adoptará las medidas necesarias para la homologación de los servicios que son obligación y responsabilidad de las instituciones de seguridad pública implementar.
 
 #### SECCIÓN SEXTA. DE LA COORDINACIÓN OPERATIVA DE LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 138.
 
-La Secretaría instrumentará a través del C-4 Hidalgo, la coordinación operativa y registro de la información con las finalidades siguientes:
+La Secretaría instrumentará a través del C5 I, la coordinación operativa y registro de la información con las finalidades siguientes:
 
 I. Desarrollar los criterios de operación para hacer eficiente el funcionamiento y despacho oportuno de los servicios de emergencias, denuncia anónima y la forma de atender las quejas ciudadanas;
 
-II. Facilitar el intercambio de entre los diversos cuerpos de Seguridad del Estado y de los municipios, incluyendo Protección Civil, Urgencias Médicas y otros servicios públicos;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+II. Facilitar el intercambio de información entre los diversos cuerpos de Seguridad del Estado y de los municipios, incluyendo Protección Civil, Urgencias Médicas y otros servicios públicos;
 
 III. Atender y dar seguimiento a las llamadas ciudadanas sobre denuncia, canalizándolas a las autoridades de Seguridad Pública que sean competentes para su atención;
 
-IV. Proveer el uso de instrumentos de información operativa, táctica y estratégica, para coordinar y facilitar el despliegue operativo policial; y
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+IV. Proveer el uso de instrumentos de información operativa, táctica y estratégica, para coordinar y facilitar el despliegue operativo policial;
 
 V. Dar seguimiento a las órdenes de protección emitidas por las autoridades competentes.
 
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VI. Mantener comunicación con sus homólogos de otras Entidades Federativas y del ámbito Federal, para apoyar la efectividad logística de la Red Nacional de los Centros de Control, Comando, Comunicaciones y Cómputo;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VII. Planear y ejecutar los programas de difusión y el buen uso del Servicio de llamadas de Emergencia 911 y del Servicio de Denuncia Anónima 089, a través de los medios de comunicación existentes en el Estado;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VIII. Diseñar e implementar nuevos programas que coadyuven en la operación del Servicio de llamadas de Emergencia 911, del Servicio de Denuncia Anónima 089, de la Red Estatal de Radiocomunicación y de la Red Estatal de Transporte de Datos, sistemas especializados del C5 I, así como los Subcentros Regionales;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+IX. Administrar y operar el Servicio de llamadas de Emergencia 911, el servicio de denuncia anónima 089, la Red Estatal de Radiocomunicación y la Red Estatal de Transporte de Datos;
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+X. Establecer los procedimientos necesarios para el buen funcionamiento del C5 I y los Subcentros Regionales; y
+
+> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+XI. Las demás que le confiera la o el Titular de la Secretaría, la presente Ley y las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 139.
 
-Las instituciones de seguridad pública, establecerán conjuntamente con el servicio telefónico de emergencias 066, para responder y orientar a la población en casos de emergencia, coordinar rápida y eficientemente a las instituciones policiales, de salud, bomberos, protección civil y las demás instancias de asistencia pública y privada.
+Las Instituciones de Seguridad Pública, establecerán conjuntamente con el Servicio de llamadas de emergencias 911 y denuncia anónima 089, acciones para responder y orientar a la población en casos de emergencia, coordinar rápida y eficientemente a las instituciones policiales, de salud, bomberos, protección civil y las demás instancias de asistencia pública y privada.
 
-El servicio telefónico de emergencias 066, deberá comprender, por lo menos, la recepción de reportes por delitos, infracciones, auxilio en la prestación de servicios médicos de urgencia y en la localización de personas, bienes y vehículos, recepción de quejas por faltas y actos delictivos, reportes de emergencias y aquellos otros servicios que se establezcan en la presente Ley y demás disposiciones legales aplicables al caso.
+El Servicio de llamadas de emergencias 911, deberá comprender la recepción de reportes por delitos, infracciones, auxilio en la prestación de servicios médicos de urgencia y en la localización de personas, bienes y vehículos, recepción de quejas por faltas y actos delictivos, reportes de emergencias y aquellos otros servicios que se establezcan en la presente Ley y demás disposiciones legales aplicables al caso.
+
+> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+El servicio de denuncia anónima en el Estado, será identificado con el número que integran los dígitos 089, cuya función será la recepción de las denuncias anónimas efectuadas por la población, con relación a la comisión de hechos ilícitos, las cuales se canalizarán a la autoridad correspondiente en los distintos niveles de gobierno, inclusive con representaciones de otros países.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 140.
 
-La Secretaría, coordinará la prestación del servicio telefónico de emergencias 066 a través del C-4 Hidalgo, el cual para su operación contará por lo menos con la participación de personal dependiente de la Procuraduría General de Justicia del Estado de Hidalgo, de las instituciones de seguridad pública, sus auxiliares y de las instituciones policiales estatal y municipales, quienes deberán designar al personal que de manera permanente operará en forma eficaz los trescientos sesenta y cinco días del año, las veinticuatro horas del día en el C-4 Hidalgo.
+La Secretaría, coordinará la prestación del Servicio de llamadas de emergencias 911 y servicio de denuncia anónima 089, a través del C5 I, el cual para su operación contará preferentemente con la participación de personal dependiente de la Procuraduría General de Justicia del Estado de Hidalgo, de las instituciones de seguridad pública estatal y municipales y sus auxiliares, quienes deberán designar al personal que de manera permanente operará en forma eficaz los trescientos sesenta y cinco días del año, las veinticuatro horas del día en el C5 I.
 
 El personal a que se hace mención en el párrafo anterior, deberá cumplir con los requisitos y aprobar los exámenes de control de confianza que para tal efecto establezca la Secretaría.
 
-Las Instituciones Policiales no podrán establecer centrales de mando alternas, relacionadas con la prestación del servicio telefónico de emergencias 066, que prevé esta Ley.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+Las Instituciones Policiales no podrán establecer centrales de mando alternas, relacionadas con la prestación del Servicio de llamadas de emergencias 911, que prevé esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 141.
 
-El C-4 Hidalgo, será la unidad administrativa encargada de la administración y resguardo de los Registros e información consiste en:
+El C5 I, será la unidad administrativa encargada de la administración y resguardo de los Registros e información consiste en:
 
 I. El servicio de registro, atención y despacho de llamadas de emergencia;
 
@@ -2231,7 +2499,9 @@ II. La Red Estatal de Comunicaciones como instancia integrante de la Red Naciona
 
 III. El servicio de registro, atención y seguimiento de la denuncia anónima;
 
-IV. Los mecanismos de video-vigilancia por circuito cerrado de televisión y de reconocimiento de placas de circulación para uso exclusivo de las instituciones de Seguridad, los municipios deberán integrar al C-4 Hidalgo cualquier sistema de cámaras de Video-vigilancia con que operen;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+IV. Los mecanismos de videovigilancia por circuito cerrado de televisión y de reconocimiento de placas de circulación para uso exclusivo de las instituciones de Seguridad, los municipios deberán integrar al C5 I cualquier sistema de cámaras de videovigilancia con que operen;
 
 V. El desarrollo e implementación de herramientas tecnológicas aplicadas a la Seguridad Pública;
 
@@ -2239,25 +2509,35 @@ VI. El servicio de registro, atención y seguimiento de las órdenes de protecci
 
 VII. Los registros que en los términos de ésta y demás disposiciones legales aplicables, resguarda la Secretaría.
 
-El C-4 Hidalgo para cumplir con estas acciones regirá sus funciones mediante lo establecido en esta Ley, el Reglamento de la misma, el Reglamento del C-4 Hidalgo y demás ordenamientos legales aplicables.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+El C5 I para cumplir con estas acciones regirá sus funciones mediante lo establecido en esta Ley, su Reglamento, el Reglamento del C5 I y demás ordenamientos legales aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 142.
 
-La Secretaría a través del C-4 Hidalgo, administrará la Red Estatal de Telecomunicaciones, para el intercambio de voz, datos e imágenes, a la cuál deberán estar enlazadas las instituciones policiales, sus organismos auxiliares, previstos en la presente Ley, así como aquellas dependencias pública (sic) que se consideren necesarias para el mejoramiento del servicio telefónico de emergencias 066 y en general los servicios de seguridad pública en el Estado.
+La Secretaría a través del C5 I, administrará la Red Estatal de Telecomunicaciones, para el intercambio de voz, datos e imágenes, a la cual deberán estar enlazadas las Instituciones Policiales, sus organismos auxiliares, previstos en la presente Ley, así como aquellas dependencias públicas que se consideren necesarias para el mejoramiento del Servicio de llamadas de emergencias 911 y en general los servicios de seguridad pública en el Estado.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 143.
 
-La Secretaría, por conducto del C-4 Hidalgo, en coordinación con el Sistema Nacional de Seguridad Pública, establecerá los criterios para la utilización en el Estado, de las frecuencias de Radiocomunicación asignadas por la Comisión Federal de Telecomunicaciones para ser utilizadas por las Instituciones Policiales y de Auxilio en el Estado.
+La Secretaría, por conducto del C5 I, en coordinación con el Sistema Nacional de Seguridad Pública, establecerá los criterios para la utilización en el Estado, de las frecuencias de Radiocomunicación asignadas por la Comisión Federal de Telecomunicaciones para ser utilizadas por las instituciones policiales y de auxilio en el Estado.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 144.
 
-La Secretaría a través del C-4 Hidalgo, adoptará las medidas pertinentes para el efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y funcional que permita la sistematización y el intercambio ágil de la información a que se refiere este ordenamiento, a fin de eficientar la función de seguridad pública y la consecución de sus fines.
+La Secretaría a través del C5 I, adoptará las medidas pertinentes para el efecto de instalar, actualizar y mantener una infraestructura tecnológica moderna y funcional que permita la sistematización y el intercambio ágil de la información a que se refiere este ordenamiento, para eficientar la función de seguridad pública y la consecución de sus fines.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 145.
 
-Se establece el Registro Administrativo de Detenciones a cargo de la Dirección General de Registro, Control y Análisis de Información de la Secretaría, que se interrelacionará con sus áreas semejantes de la Federación, de las Entidades Federativas y de los Municipios, de conformidad con los convenios que se suscriban en el marco del Sistema Nacional y Estatal de Seguridad Pública.
+Se establece el Registro Administrativo de Detenciones a cargo de la Dirección General de Estadística de la Secretaría, que se interrelacionará con sus áreas semejantes de la Federación, de las Entidades Federativas y de los Municipios, de conformidad con los convenios que se suscriban en el marco del Sistema Nacional y Estatal de Seguridad Pública.
 
-Los miembros de las instituciones policiales que realicen detenciones, de un mayor de edad al que se le imputa la comisión de un delito o de un menor de edad que probablemente cometió una conducta tipificada como delito por las leyes penales deberán dar aviso administrativo de inmediato mediante el Informe Policial Homologado y lo comunicará de inmediato a la Dirección General de Registro, Control y Análisis de Información en los términos de la presente Ley y la Ley General.
+Los miembros de las Instituciones Policiales que realicen detenciones, de un mayor de edad al que se le imputa la comisión de un delito o de un menor de edad que probablemente cometió una conducta tipificada como delito por las leyes penales, deberán dar aviso administrativo de inmediato mediante el Informe Policial Homologado y lo comunicará asimismo a la Dirección General de Estadística en los términos de la presente Ley y la Ley General.
 
 ###### Artículo 146.
 
@@ -2335,13 +2615,17 @@ III. Los asuntos atendidos por los Jueces Calificadores de los Municipios;
 
 IV. Los reportes de incidencias registrados por las instituciones policiales del Estado y de los Municipios;
 
-V. Las averiguaciones previas;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+V. Las carpetas de investigación;
 
 VI. Los procesos penales;
 
 VII. El Sistema Penitenciario y de Reinserción Social;
 
-VIII. El tratamiento de adolescentes y menores infractores;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+VIII. El sistema de justicia penal para adolescentes;
 
 IX. Los ofendidos y víctimas del delito y su clasificación;
 
@@ -2359,9 +2643,11 @@ Esta información también deberá ser procesada a través de sistemas de refere
 
 La información estadística descrita en el artículo anterior, estará integrada a un apartado que contenga su registro histórico, mismo que será resguardado y actualizado por parte de la Dirección General de Registro, Control y Análisis de Información de la Secretaría para el cumplimiento del objeto y fines de esta Ley.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 154.
 
-El Registro Estatal de Información de Apoyo a la Prevención del delito, se integrará con la información que remitan las instituciones encargadas de la prevención, procuración y administración de justicia, readaptación social y, en general, todas las instituciones que deban contribuir a la seguridad pública. Incluirá lo relativo a las averiguaciones previas o carpetas de investigación iniciadas; la emisión, cancelación y ejecución de órdenes de aprehensión o de comparecencia, sentencias y ejecución de penas y medidas de seguridad.
+El Registro Estatal de Información de Apoyo a la Prevención del Delito, se integrará con la información que remitan las instituciones encargadas de la prevención, procuración y administración de justicia, reinserción social y, en general, todas las instituciones que deban contribuir a la seguridad pública. Incluirá lo relativo a las averiguaciones previas o carpetas de investigación iniciadas; la emisión, cancelación y ejecución de órdenes de aprehensión o de comparecencia, sentencias y ejecución de penas y medidas de seguridad.
 
 ###### Artículo 155.
 
@@ -2381,61 +2667,121 @@ Dicha información se registrará como no disponible en la base de datos por res
 
 El Registro de Mandamientos Judiciales Pendientes de Ejecutar se integrará con las órdenes de aprehensión y presentación dictadas por la autoridad judicial competente. Las Corporaciones de Policía, al momento de realizar cualquier detención, tendrán la obligación de consultar el registro y poner al detenido a disposición inmediata de la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 159.
 
-Los policías y el personal de servicio de seguridad privada, tienen la obligación de informar al titular de la Corporación o institución a la que pertenezcan, sobre los procedimientos administrativos, judiciales o extrajudiciales que sean iniciados en su contra, en un plazo no mayor de quince días hábiles en que tenga conocimiento de ellos; dicho titular deberá a su vez informarlo a la Dirección General de Registro, Control y Análisis de Información de la Secretaría.
+Los policías y el personal de servicio de seguridad privada, tienen la obligación de informar a la persona titular de la Corporación o Institución a la que pertenezcan, sobre los procedimientos administrativos, judiciales o extrajudiciales que sean iniciados en su contra, en un plazo no mayor de quince días hábiles computados a partir del que tenga conocimiento de ellos; dicho titular deberá a su vez informarlo a la Dirección General de Estadística, a la Comisión del Servicio y a la Comisión de Honor.
 
 La omisión de lo anterior será causa de responsabilidad tratándose de policías y en el caso del personal de servicio de seguridad privada, de cancelación de la cédula de registro correspondiente.
 
-La Dirección General de Registro, Control y Análisis de Información de la Secretaría, vigilará el cumplimiento de esta disposición con la facultad de solicitar los informes respectivos.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-## TÍTULO DÉCIMO. DEL SISTEMA PARA LA PREVENCIÓN DEL DELITO
+La Dirección General de Estadística de la Secretaría, vigilará el cumplimiento de esta disposición con la facultad de solicitar los informes respectivos.
 
-### CAPÍTULO II. DE LOS PROGRAMAS SOBRE PREVENCIÓN DEL DELITO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 160.
-
-El Sistema para la Prevención del Delito tiene por objeto establecer las bases para la articulación de programas, proyectos y acciones tendentes a prevenir la comisión de algún delito o infracción administrativa, instrumentando las medidas necesarias para evitar su realización. Se ejecuta a través de los siguientes ámbitos de intervención:
-
-I. La prevención social;
-
-II. La prevención comunitaria; y,
-
-III. La prevención de enfoque policial;
-
-###### Artículo 161.
-
-La prevención social del delito tiene como propósito reducir los factores criminógenos mediante actividades multidisciplinarias e interinstitucionales relacionadas con el fortalecimiento de la familia, la educación, la salud, el desarrollo social, urbano y económico.
-
-###### Artículo 162.
-
-La prevención comunitaria del delito tiene por objeto promover la participación de la comunidad, en acciones tendentes a mejorar las condiciones de seguridad de su entorno y al desarrollo de prácticas que fomenten una cultura de prevención, desnaturalización de la violencia contra las mujeres, autoprotección, de la denuncia ciudadana y mecanismos alternativos de la solución de los conflictos, a través de programas que permitan erradicar la conducta delictiva y el fenómeno social
-
-###### Artículo 163.
-
-La prevención del delito realizada por las instituciones de Seguridad Pública del Estado y de los Municipios, tiene por objeto promover mediante un diagnóstico de la problemática delictiva en el territorio del Estado y de los municipios, las estrategias que procuren modificar el ambiente físico para dificultar las diferentes manifestaciones de los delitos y de las infracciones administrativas, así como reducir su incidencia.
-
-Este nivel de intervención deberá realizarse considerando la prestación de los servicios específicos, que de acuerdo al ámbito de sus competencias, corresponde realizar a las instituciones de Seguridad.
+## TÍTULO DÉCIMO. DEL CENTRO ESTATAL DE PREVENCIÓN SOCIAL DE LA VIOLENCIA, LA DELINCUENCIA Y PARTICIPACIÓN CIUDADANA DE HIDALGO
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 160.
+
+El Centro Estatal de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo, es el Órgano Administrativo Desconcentrado, jerárquicamente subordinado a la Secretaría de Seguridad Pública del Estado de Hidalgo.
+
+El Centro Estatal, aunado a lo establecido en su decreto de creación, tiene por objeto coadyuvar con las instituciones públicas en materia de prevención de la violencia y la delincuencia, será el encargado de establecer las bases para la articulación y formulación de programas, proyectos y acciones tendientes a la prevención social de la violencia, la delincuencia, instrumentando las medidas necesarias e indispensables para evitar su realización, vinculando la participación ciudadana en esta tarea.
+
+La prevención social de la violencia y delincuencia comprende los siguientes ámbitos de intervención:
+
+I. Social;
+
+II. Comunitario;
+
+III. Situacional, y
+
+IV. Psicosocial.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 161.
+
+La prevención social de la violencia y la delincuencia comprende el conjunto de políticas públicas, programas, estrategias y acciones orientadas a incentivar la participación ciudadana para alcanzar la reducción de los factores de riesgo que favorecen la generación de violencia y delincuencia y provocan efectos perjudiciales para la sociedad, así como a combatir sus múltiples causas y manifestaciones.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 162.
+
+La implementación de las políticas públicas, programas, estrategias y acciones que en materia de prevención social de la violencia y la delincuencia emita el Centro de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo, se realizarán por el Estado, los ayuntamientos y la sociedad, por conducto de las dependencias, entidades, oficinas u órganos de participación ciudadana, que en razón de sus atribuciones, deban contribuir directa o indirectamente al cumplimiento de las mismas y de acuerdo a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 163.
+
+La prevención social de la violencia y la delincuencia deberá observar como mínimo los siguientes principios:
+
+I. Respeto irrestricto a los derechos humanos, con apego a la Constitución Política de los Estados Unidos Mexicanos, a los Tratados Internacionales suscritos y ratificados por México y demás instrumentos en la materia;
+
+II. Integralidad. El Gobierno del Estado y los Ayuntamientos, en sus ámbitos de competencia, desarrollarán políticas públicas eficaces de prevención social de la violencia y la delincuencia, con la participación ciudadana y comunitaria;
+
+III. Intersectorialidad y transversalidad. Consiste en la articulación, homologación y complementariedad de las políticas públicas, programas, estrategias y acciones que emita el Centro de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo y los Ayuntamientos, incluidas las de procuración de justicia, seguridad pública, asistencia y desarrollo social, economía, cultura y derechos humanos, con atención particular a las dirigidas a niñas y niños, adolescentes, mujeres y población en situación de riesgo;
+
+IV. Cohesión Social. Comprende la relación e interrelación, así como el desarrollo de acciones conjuntas entre el Estado, los Municipios y los ciudadanos, éstos últimos organizados o no organizados, de manera corresponsable y subsidiaria;
+
+V. Continuidad. Implica la secuencia de las políticas públicas y acciones a fin de garantizar los cambios socioculturales en el mediano y largo plazo, a través del fortalecimiento de los mecanismos de participación ciudadana y comunitaria, la asignación de presupuesto, el monitoreo y evaluación de resultados;
+
+VI. Interdisciplinariedad. En el diseño de políticas públicas se tomará en cuenta conocimientos y herramientas de distintas disciplinas, así como las experiencias nacionales e internacionales;
+
+VII. Diversidad. Consiste en considerar las necesidades y circunstancias específicas determinadas por el contexto local territorial, el género, la procedencia étnica, sociocultural, religiosa, así como las necesidades de grupos vulnerables o en riesgo, mediante la atención integral diferenciada y acciones afirmativas;
+
+VIII. Proximidad. Comprende la resolución pacífica de conflictos, con estrategias claras, coherentes y estables, de respeto a los derechos humanos, promoción de la cultura de la paz y sobre la base del trabajo social comunitario, así como del contacto y participación permanente con los actores sociales y comunitarios;
+
+IX. Diagnóstico participativo. Análisis que permite identificar los problemas que afectan a la sociedad en materia de violencia y delincuencia, cuya identificación deriva de un estudio al fenómeno de la delincuencia tomando en consideración sus causas, factores de riesgo, consecuencias que afectan a la población, incluyendo a las autoridades, ciudadanos y comunidades organizadas, así como aquellas medidas y acciones que permitan mitigar el fenómeno de la delincuencia, y
+
+X. Transparencia y rendición de cuentas. Que consiste en la observancia de las normas que en la materia, establezcan los ordenamientos legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO II. DE LOS PROGRAMAS SOBRE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y DELINCUENCIA
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 164.
 
-El Programa Estatal deberá establecer las bases para la instrumentación, seguimiento y evaluación de los diversos ámbitos de intervención en materia de prevención del delito y será la Subsecretaría de Prevención y Coordinación Institucional, la instancia responsable de verificar su aplicación, en los términos de esta Ley y del Reglamento respectivo.
+El Programa Estatal de Prevención Social de la Violencia y la Delincuencia, deberá establecer las bases para la instrumentación, seguimiento y evaluación de los diversos ámbitos de intervención en materia de prevención y será el Centro Estatal de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo, la instancia responsable de verificar su aplicación, en los términos de esta Ley y demás ordenamientos jurídicos aplicables.
 
-El Consejo Estatal a iniciativa de sus integrantes, resolverá la instrumentación de acciones en materia de prevención del delito que no se encuentren previstas en el Programa Estatal y que por su naturaleza requieren la adopción inmediata de medidas para su prevención y control.
+El Consejo Estatal a iniciativa de sus integrantes, resolverá la instrumentación de acciones en materia de prevención social de la violencia y la delincuencia que no se encuentren previstas en el Programa Estatal y que por su naturaleza requieren la adopción inmediata de medidas para su prevención y control.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 165.
 
-Los programas de prevención del delito son el conjunto de actividades realizadas por las instituciones policiales o por sus organismos auxiliares, que tienen como finalidad contrarrestar los factores criminógenos y contener, disminuir o evitar la comisión de delitos, conductas antisociales e infracciones administrativas, así como prevenir la victimización.
+Los Ayuntamientos, en el ámbito de sus respectivas atribuciones, deberán incluir la prevención social de la violencia y la delincuencia en sus programas, atendiendo a los objetivos generales del Programa Estatal de Prevención Social de la Violencia y la Delincuencia que establezca el Centro de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 166.
 
-Los programas de prevención del delito deberán diseñarse considerando la participación interinstitucional con enfoque multidisciplinario y se encaminarán a contrarrestar los factores criminógenos, las consecuencias, daños e impacto social del delito.
+Los Programas del Estado y de los Ayuntamientos que incidan en la prevención social de la violencia y la delincuencia se diseñarán conforme a lo siguiente:
+
+I. Considerarán la participación interinstitucional con enfoque multidisciplinario, enfatizando la colaboración con instituciones académicas y de investigación;
+
+II. Evitarán duplicidades o contradicciones entre las estrategias y acciones que se desarrollen;
+
+III. Estarán orientados a contrarrestar, neutralizar o disminuir los factores de riesgo y
+
+IV. las consecuencias, daño e impacto social y comunitario de la violencia, infracciones administrativas y delitos;
+
+V. Tenderán a lograr un efecto multiplicador, fomentando la participación de servidores públicos de los diferentes ámbitos de gobierno;
+
+VI. Incentivarán la participación ciudadana y comunitaria, para un adecuado diagnóstico, diseño, implementación y evaluación de las políticas públicas encaminadas a esta materia.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 167.
 
-La Secretaría a través de la Subsecretaría de Prevención y Coordinación Institucional, será la encargada de verificar que se cumpla con la transversalidad y el alineamiento de los programas en materia de Prevención Social de la violencia, la Delincuencia y Participación Ciudadana que instauren los municipios de la Entidad, a fin de preservar los objetivos del Plan Nacional de Desarrollo y del Plan Estatal de Desarrollo.
+La Secretaría a través del Centro Estatal de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo, será la encargada de verificar que se cumpla con la transversalidad y el alineamiento de los programas en materia de prevención social de la violencia y la delincuencia que instauren los municipios de la Entidad, a fin de preservar los objetivos del Plan Nacional de Desarrollo y del Plan Estatal de Desarrollo.
 
 ###### Artículo 168.
 
@@ -2445,95 +2791,71 @@ Los programas tenderán a lograr soluciones integrales a través de la participa
 
 Las instituciones policiales, así como sus organismos auxiliares, promoverán la protección de las personas, de sus bienes, deberán incluir acciones a favor de personas discapacitadas, menores de edad y de aquellas que en razón de su sexo, preferencia sexual, edad, condición social, religiosa o étnica sean objeto de discriminación o rechazo.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 170.
 
-Para llevar a cabo el diseño, instrumentación, actualización y evaluación de los programas de prevención del delito, las autoridades de Seguridad Pública del Estado y de los Municipios deberán observar lo previsto en la ley de la materia, esta Ley y su Reglamento.
+Para llevar a cabo el diseño, instrumentación, actualización y evaluación de los programas de prevención social de la violencia y la delincuencia, las autoridades de seguridad pública del Estado, los municipios y demás dependencias públicas del Poder Ejecutivo Estatal, deberán observar lo previsto en la ley de la materia y demás ordenamientos jurídicos aplicables.
 
-## TÍTULO DÉCIMO PRIMERO. DEL SISTEMA DE PARTICIPACIÓN CIUDADANA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-### CAPÍTULO II. DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA DEL ESTADO
+## TÍTULO DÉCIMO PRIMERO. DE LA PARTICIPACIÓN CIUDADANA Y COMUNITARIA EN LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+
+### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 171.
 
-El Sistema a que se refiere este Título tiene como propósito promover la participación ciudadana para el cumplimiento de los objetivos y fines de este ordenamiento y se integra a través de los siguientes ámbitos de intervención:
+Centro Estatal de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo, tiene como propósito promover la participación ciudadana para el cumplimiento de los objetivos y fines de los ordenamientos legales aplicables y podrá integrarse a través de los siguientes ámbitos de intervención:
 
-I. El Consejo Ciudadano en materia de Seguridad Pública del Estado;
+I. Redes vecinales, escolares, gremiales y profesionales, para asegurar la participación activa de la comunidad en la planeación, gestión, desarrollo, monitoreo y evaluación de las políticas de prevención social de la violencia y la delincuencia;
 
-II. Los Consejos Ciudadanos Municipales de Seguridad Pública;
+II. Los Comités de Participación Comunitaria;
 
-III. Los Comités de Participación Comunitaria;
+III. Los Observatorios Ciudadanos; y,
 
-IV. Los Observatorios Ciudadanos de Seguridad Pública; y,
+IV. Cualquier organismo o institución del sector público, privado, social, empresarial o académico que se relacione con el objeto de este Título.
 
-V. Cualquier organismo o institución del sector público, privado, social, empresarial o académico que se relacione con el objeto de este Título.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 172.
 
-La participación ciudadana para la Seguridad Pública tiene por objeto promover, fomentar, difundir, discutir, analizar y evaluar aspectos vinculados con la prevención del delito, la cultura de la legalidad, la denuncia ciudadana, la protección o autoprotección ante el delito y en general, cualquier actividad que se relacione con esta Ley, buscando sensibilizar a la ciudadanía sobre la importancia de colaborar, ya sea de manera individual u organizada con las autoridades, para el cumplimiento de los y fines que en la misma se establecen.
+La participación ciudadana para la prevención social de la violencia y la delincuencia, tiene por objeto analizar, fomentar, promover, difundir, discutir, y evaluar los aspectos vinculados con la promoción de la cultura de la paz, de la legalidad, la denuncia ciudadana, la protección o autoprotección ante el delito, la solución de conflictos a través de la comunicación y la tolerancia, y en general, cualquier actividad que se relacione con esta Ley, buscando sensibilizar a la población sobre la importancia de colaborar, ya sea de manera individual u organizada con las autoridades para mantener el orden público y fortalecer el tejido social.
+
+La participación ciudadana y comunitaria, organizada o no organizada, se hace efectiva a través de la actuación de las personas en las comunidades, en las redes vecinales, y/o en las organizaciones, mediante acciones coordinadas que fomenten la prevención social de la violencia y la delincuencia.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 173.
 
-La Secretaría verificará que la integración y funcionamiento de este Sistema se haga con apego a las disposiciones contenidas en esta Ley, en su reglamento y en las demás disposiciones aplicables.
+La coordinación entre los diferentes mecanismos y espacios de participación ciudadana y comunitaria, será un objetivo fundamental del Centro Estatal de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo, para lo cual desarrollará lineamientos de participación y consulta.
 
-### CAPÍTULO III. DE LOS SISTEMAS ESTATALES DE DENUNCIA PÚBLICA Y DE LOCALIZACIÓN DE PERSONAS Y BIENES
+El Centro Estatal de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo, coordinará y fomentará las políticas que impulsen la organización de los ciudadanos y de la comunidad para que participen en la planeación, diseño, evaluación, ejecución y seguimiento de los mecanismos de prevención social de la violencia y la delincuencia.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO II. DEL CONSEJO CIUDADANO DE SEGURIDAD PÚBLICA DEL ESTADO
 
 ###### Artículo 174.
 
-El Consejo Ciudadano es una instancia ciudadana autónoma, conformada por veinte consejeros, que tiene por objeto coadyuvar con las Instituciones de Seguridad y los organismos auxiliares, en el análisis del fenómeno delictivo, de las conductas antisociales y de las infracciones administrativas, generando propuestas de planes, programas y acciones para la consecución de los fines de esta Ley.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
 ###### Artículo 175.
 
-El Consejo Ciudadano se integra por:
-
-I. Dos representantes de Organizaciones de Vecinos;
-
-II. Dos representantes de Asociaciones de Padres de Familia;
-
-III. Dos ciudadanos representantes de Organizaciones Sindicales de Trabajadores;
-
-IV. Dos ciudadanos representantes de Asociaciones de Profesionistas;
-
-V. Dos representantes de Asociaciones de Transporte;
-
-VI. Tres ciudadanos representantes de Organismos Empresariales;
-
-VII. Tres ciudadanos representantes de Instituciones de Educación Superior;
-
-VIII. Cuatro ciudadanos representantes de Organizaciones no Gubernamentales; y
-
-IX. Un enlace de la Subsecretaría de Prevención y Coordinación Institucional.
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
 ###### Artículo 176.
 
-Al Consejo Ciudadano le corresponden las siguientes atribuciones:
+(DEROGADO, P.O. 7 DE OCTUBRE DE 2019)
 
-I. Elaborar un programa de trabajo en el que describan los objetivos, metas, estrategias y acciones que le permita cumplir con las funciones encomendadas por la ley.
+### CAPÍTULO III. DE LOS SISTEMAS ESTATALES DE DENUNCIA PÚBLICA Y DE LOCALIZACIÓN DE PERSONAS Y BIENES
 
-II. Promover de conformidad con los fines de la Seguridad Pública establecidos en la presente Ley, la participación de la sociedad en actividades para elevar la calidad de los servicios de Seguridad Pública, vigilar el estricto respeto a los derechos humanos, a la igualdad de género, la eliminación de prácticas discriminatorias de cualquier tipo, y la atención en las acciones de prevención;
-
-III. Promover ante el Consejo Estatal la elaboración de los estudios que considere necesarios para dar cumplimiento a las atribuciones que le son conferidas en este artículo;
-
-IV. Dar a conocer ante la población el marco normativo de la Seguridad Pública;
-
-V. Establecer mecanismos de vigilancia y seguimiento sobre las actividades de las autoridades de seguridad pública;
-
-VI. Proponer sistemas de organización comunitaria que contribuyan a elevar la cultura de la denuncia de ilícitos y faltas administrativas;
-
-VII. Coordinar los esfuerzos de colaboración con las autoridades competentes en la difusión de los programas, estrategias y acciones encaminados a prevenir el delito, y cualquier tipo de violencia en la comunidad o en la familia;
-
-VIII. Canalizar ante la instancia competente las propuestas que hagan los ciudadanos respecto del buen desempeño de los integrantes de las instituciones policiales, que se distingan en su actuación para merecer condecoraciones, estímulos y recompensas, en los términos de esta Ley;
-
-IX. Promover la vinculación y colaboración con los Comités Municipales e Intermunicipales, cuyos objetivos sean afines a la presente ley;
-
-X. Fomentar la cultura de autoprotección ciudadana; y
-
-XI. Designar a la persona que deba fungir como vocal del Consejo de Honor.
-
-### CAPÍTULO I. DISPOSICIONES GENERALES
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 177.
 
-La Secretaría por conducto del C-4 Hidalgo, desarrollará y operará con empleo de tecnología de vanguardia, los siguientes sistemas:
+La Secretaría por conducto del C5 I, desarrollará y operará con empleo de tecnología de vanguardia, los siguientes sistemas:
 
 I. De denuncia ciudadana. Para que la población manifieste, bajo un esquema de confidencialidad, la probable comisión de un delito o la conducta indebida por parte de un servidor público. La denuncia se canalizará a la Institución competente, se le dará seguimiento, a petición expresa se proporcionará la información correspondiente, siempre y cuando no afecte algún procedimiento judicial o perjudique la reputación de terceros;
 
@@ -2559,9 +2881,7 @@ Los procedimientos de operación del Sistema Estatal de Denuncia Pública y de L
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
-### CAPÍTULO II. DE LA AUTORIZACIÓN Y REVALIDACIÓN
-
-> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 182.
 
@@ -2571,7 +2891,9 @@ Corresponde al Estado el control de los Servicios de Seguridad Privada que opere
 
 La seguridad privada consiste en la prestación de servicios por personas físicas o morales que comprenden la seguridad y protección personal, vigilancia y protección de bienes, custodia, traslado y vigilancia de bienes o valores, sistemas de prevención y responsabilidades, actividades inherentes a la seguridad privada, seguridad de la información, servicios de alarmas y de monitoreo electrónico y, en general, cualquier otra actividad relacionada directa o indirectamente con los servicios privados de seguridad.
 
-Las personas físicas o morales que presten servicios de seguridad privada en el territorio del Estado al amparo de una autorización federal, así como el personal que contraten, se regirán en lo conducente por lo establecido en este ordenamiento, en la Ley correspondiente y en los Reglamentos respectivos.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+Las personas físicas o morales que presten servicios de seguridad privada en el territorio del Estado al amparo de una autorización federal, así como el personal que contraten, se regirán en lo conducente por lo establecido en este ordenamiento, y en las disposiciones legales y reglamentarias en la materia, vigentes en el Estado de Hidalgo.
 
 Las personas que se dediquen al diseño, fabricación, reparación, mantenimiento, instalación o comercialización de equipos, dispositivos, aparatos, sistemas o procedimientos técnicos especializados de seguridad, así como el personal que contraten, se sujetarán al cumplimiento de la presente Ley, la Ley de Seguridad Privada para el Estado de Hidalgo, su Reglamento y demás disposiciones aplicables.
 
@@ -2585,7 +2907,9 @@ Los servicios de seguridad privada tienen por objeto otorgar la seguridad, prote
 
 El personal operativo de los prestadores de servicios de Seguridad Privada que desarrollen sus actividades en el Estado, deberán contar con la Certificación expedida por el Centro y el Instituto, además regirán su actuación por los principios básicos y las obligaciones previstas para los integrantes de las instituciones policiales, de conformidad con lo señalado por la presente Ley, la Ley de Seguridad Privada para el Estado de Hidalgo, su Reglamento y demás disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+### CAPÍTULO II. DE LA AUTORIZACIÓN Y REVALIDACIÓN
+
+> <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 186.
 
@@ -2621,11 +2945,15 @@ Las instalaciones que ocupa el Aeródromo Juan Guillermo Villasana, así como de
 
 Corresponde a la Secretaría coordinar y ejecutar las actividades aéreas que requiera el ejecutivo estatal, así como proporcionar los diferentes servicios de seguridad y custodia, tanto en esas instalaciones estratégicas como las que se requieran para la navegación aérea en la Entidad.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 192.
 
-Las aeronaves propiedad del Gobierno del Estado, en casos de desastres naturales, siniestros o alteración grave de la paz pública, deberán prestar el apoyo correspondiente a las instancias de seguridad pública, salud y protección civil.
+Corresponde a la Secretaría a través de la Dirección General de Servicios Aéreos, coordinar y prestar el apoyo correspondiente a las instancias de seguridad pública, salud y protección civil, en casos de extrema urgencia, con las aeronaves propiedad o al servicio del Estado.
 
-## TÍTULO DÉCIMO CUARTO. LA COORDINACIÓN PARA LA SEGURIDAD Y PROTECCIÓN DE LOS SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+## TÍTULO DÉCIMO CUARTO. DE LA DIRECCIÓN GENERAL DE SEGURIDAD INSTITUCIONAL
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
@@ -2643,7 +2971,9 @@ II. Presidente del Tribunal Superior de Justicia;
 
 III. Secretario de Gobierno;
 
-IV. Procurador General de Justicia, Sub Procuradores y Director General de Averiguaciones Previas;
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+IV. Procurador General de Justicia, con apoyo de la policía de investigación.
 
 V. Los Titulares de las Instituciones Policiales Estatales;
 
@@ -2653,19 +2983,25 @@ VII. Aquellos ex servidores públicos que por la naturaleza de sus funciones, em
 
 Para los efectos de las disposiciones contenidas en este Capítulo, se entiende por elementos necesarios, a la designación que se haga del número que sea indispensable de elementos policiales del Estado y de los Municipios, para brindar la seguridad y protección del servidor público y a la correspondiente asignación del armamento, municiones, equipo táctico y de comunicación, vehículos, bienes, instrumentos u objetos que faciliten dicha medida.
 
-Esta prestación se otorgará en forma gratuita y, como mínimo, por un periodo igual al que estuvo en funciones el servidor público beneficiado, pudiendo prorrogarse por el plazo que considere necesario previo acuerdo del Secretario, lo anterior en los términos del presupuesto respectivo, bajo los principios de optimización de recursos humanos, materiales y financieros y de conformidad con el Reglamento que para tal efecto emita el Titular del Poder Ejecutivo del Estado o el Ayuntamiento que corresponda.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+Esta prestación se otorgará en forma gratuita y como plazo máximo de un periodo igual al que estuvo en funciones el servidor público, pudiendo suspenderse cuando cese la causal de riesgo, lo anterior en los términos del presupuesto respectivo, bajo los principios de optimización de recursos humanos, materiales y financieros y de conformidad con el Reglamento que para tal efecto emita el Titular del Poder Ejecutivo del Estado o el Ayuntamiento que corresponda.
 
 ###### Artículo 195.
 
 Los ex servidores públicos señalados en la fracción VII del artículo 194, tendrán derecho a contar con el servicio de seguridad personal siempre y cuando se hayan desempeñado en el cargo como mínimo dos años.
 
-El servicio de seguridad personal se proporcionará a petición del interesado mediante escrito dirigido al Gobernador del Estado, según sea el caso, al dejar el cargo desempeñado o dentro de los quince días posteriores a su separación.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+El servicio de seguridad personal se proporcionará a petición del interesado mediante escrito dirigido al Gobernador del Estado con apoyo de elementos de prueba que acrediten el riesgo, según sea el caso, al dejar el cargo desempeñado o dentro de los quince días posteriores a su separación.
 
 ###### Artículo 196.
 
 El servicio de seguridad personal que se presta a los funcionarios señalados en el artículo 194 de esta Ley, será por el tiempo que dure el encargo o bien para ex servidores públicos comprendidos en los supuestos del artículo en cita, hasta por dos años contados a partir de la terminación de su encargo.
 
-De acuerdo a la naturaleza del riesgo, de la amenaza recibida o bien por las funciones que desempeña, también tendrán derecho a recibir las medidas de protección y seguridad el cónyuge del servidor público y los familiares en línea recta descendente hasta el primer grado, durante el mismo período de tiempo en que la reciba el servidor público.
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+
+De acuerdo a la naturaleza del riesgo, de la amenaza recibida o bien por las funciones que desempeña, excepcionalmente y también podrán recibir las medidas de protección y seguridad el cónyuge del servidor público y los familiares en línea recta descendente hasta el primer grado, durante el mismo período de tiempo en que la reciba el servidor público.
 
 ###### Artículo 197.
 
@@ -2698,6 +3034,8 @@ II. Desempeñen otro cargo, en materia de seguridad pública o procuración de j
 III. Cuando incurran en la comisión de algún delito de los considerados graves por la legislación penal federal o del Estado de Hidalgo.
 
 ## TÍTULO DÉCIMO QUINTO. DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
 ###### Artículo 200.
 
@@ -2766,5 +3104,11 @@ P.O. 15 DE AGOSTO DE 2016.
 P.O. 16 DE JULIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 453 QUE ADICIONA EL PÁRRAFO TERCERO DEL ARTÍCULO 136 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 211 QUE REFORMA ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
