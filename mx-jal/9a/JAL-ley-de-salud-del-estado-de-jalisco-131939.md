@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2019-06-29"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en la Número 24 Bis, Edición Especial del Periódico Oficial “El Estado de Jalisco”, el miércoles 5 de diciembre de 2018.
 
@@ -109,7 +109,9 @@ Autoridades sanitarias estatales
 
 I. El Gobernador del Estado;
 
-II. La Secretaría de Salud Jalisco;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+II. La Secretaría de Salud;
 
 III. La Comisión para la Protección Contra Riesgos Sanitarios de Jalisco; y
 
@@ -255,7 +257,9 @@ Del Sistema Estatal de Salud. Integración.
 
 Del Sistema Estatal de Salud. Mecanismos de coordinación.
 
-1. El Sistema Estatal de Salud, con la intervención que corresponda a la Secretaría de Salud Jalisco y al Comité de Planeación para el Desarrollo del Estado, definirá los mecanismos de coordinación y colaboración, en materia de planeación de los servicios de salud en el Estado, a fin de dar cumplimiento al derecho a la protección de la salud, de conformidad con las disposiciones de esta ley y las que al efecto sean aplicables.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+1. El Sistema Estatal de Salud, con la intervención que corresponda a la Secretaría de Salud y al Comité de Planeación para el Desarrollo del Estado, definirá los mecanismos de coordinación y colaboración, en materia de planeación de los servicios de salud en el Estado, a fin de dar cumplimiento al derecho a la protección de la salud, de conformidad con las disposiciones de esta ley y las que al efecto sean aplicables.
 
 ###### Artículo 16.
 
@@ -337,7 +341,9 @@ IV. Se expresarán las demás estipulaciones que, de común acuerdo, establezcan
 
 Sistema Estatal de Salud. Planeación.
 
-1. El titular del Poder Ejecutivo del Estado por conducto de la Secretaría de Salud Jalisco, y con la participación que corresponda al Comité de Planeación para el Desarrollo Estatal y a la Secretaría de Planeación, Administración y Finanzas, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+1. El titular del Poder Ejecutivo del Estado por conducto de la Secretaría de Salud, y con la participación que corresponda al Comité de Planeación para el Desarrollo Estatal y a la Secretaría de Planeación, Administración y Finanzas, elaborará el Programa Estatal de Salud, tomando en cuenta las prioridades y los servicios de los Sistemas Nacional y Estatal de Salud.
 
 ### CAPÍTULO IV. DEL SISTEMA ÚNICO DE INFORMACIÓN EN SALUD
 
@@ -345,7 +351,7 @@ Sistema Estatal de Salud. Planeación.
 
 Sistema Único de Información de Salud. Tipos de Información.
 
-1.La Secretaría de Salud, de conformidad con la Ley del Sistema Nacional de Información Estadística y Geografía captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública en la entidad.
+1. La Secretaría de Salud, de conformidad con la Ley del Sistema Nacional de Información Estadística y Geografía captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los Sistemas Nacional y Estatal de Salud, así como sobre el estado y evolución de la salud pública en la entidad.
 
 2. La información se referirá fundamentalmente, a los siguientes aspectos:
 
@@ -357,7 +363,9 @@ III. Recursos físicos, humanos y financieros disponibles para la protección de
 
 3. Para la operación de un Sistema Único de Información en Salud, la Secretaría promoverá la unificación y estandarización de las diversas bases de datos en materia de epidemiología, estadística de mortalidad y morbilidad, infraestructura y recursos humanos para la salud, riesgos sanitarios, informes de avance de proyectos, registro estatal de trámites y demás en las que participe en los tres niveles de gobierno.
 
-4. Para tal efecto la Secretaría, por sí o por conducto del Organismo Público Descentralizado Servicios de Salud Jalisco, podrá requerir a todas las dependencias y entidades de la administración pública estatal, le remitan informes, datos y padrones que contengan información pública relativa a salud. En la integración de bases y el intercambio de datos, contará con el apoyo técnico e informático de la Secretaría de Planeación, Administración y Finanzas.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+4. Para tal efecto la Secretaría, por sí o por conducto del Organismo Público Descentralizado Servicios de Salud Jalisco, podrá requerir a todas las dependencias y entidades de la administración pública estatal, le remitan informes, datos y padrones que contengan información pública relativa a salud. En la integración de bases y el intercambio de datos, contará con el apoyo técnico e informático de la Secretaría de Planeación y Participación Ciudadana.
 
 5. Para la integración de bases e intercambio de datos de salud en las plataformas nacionales, el Gobierno del Estado celebrará los convenios de colaboración correlativos.
 
@@ -415,7 +423,9 @@ V. Que en todos los procedimientos de atención a la salud en que participen se 
 
 VI. Acceder a una atención integral que comprenda todas aquellas acciones destinadas a la promoción de la salud, medicina preventiva, curativa, de rehabilitación y cuidados paliativos; y
 
-VII. En general, a gozar de los diferentes beneficios y prerrogativas a los que aluda la legislación sanitaria, sus reglamentos y normas; así como aquellos que consten en las declaratorias que emita la Secretaría de Salud Jalisco, con la participación de la Comisión Estatal de Bioética e Investigación de Jalisco.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+VII. En general, a gozar de los diferentes beneficios y prerrogativas a los que aluda la legislación sanitaria, sus reglamentos y normas; así como aquellos que consten en las declaratorias que emita la Secretaría de Salud, con la participación de la Comisión Estatal de Bioética e Investigación de Jalisco.
 
 ###### Artículo 27.
 
@@ -765,7 +775,9 @@ XI. Dar apoyo a la familia o a la persona de su confianza para ayudarla a sobrel
 
 Cuidados Paliativos. Autoridades
 
-1. La Secretaría de Salud Jalisco, a través del Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, y demás autoridades en el Estado en materia de salud, será la responsable de evitar, suprimir o paliar el dolor innecesario y evitable a los enfermos en el Estado, así como de elaborar y desarrollar programas de capacitación y actualización de los recursos humanos para la salud en materia de prevención y control del dolor y medicina paliativa.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+1. La Secretaría de Salud, a través del Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, y demás autoridades en el Estado en materia de salud, será la responsable de evitar, suprimir o paliar el dolor innecesario y evitable a los enfermos en el Estado, así como de elaborar y desarrollar programas de capacitación y actualización de los recursos humanos para la salud en materia de prevención y control del dolor y medicina paliativa.
 
 2. El Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, cómo órgano administrativamente desconcentrado de la Secretaría de Salud, y presupuestalmente subordinado al organismo público descentralizado Servicios de Salud Jalisco, tendrá las funciones que le sean otorgadas por esta Ley y las demás disposiciones aplicables.
 
@@ -775,7 +787,9 @@ Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos. Atribuciones.
 
 1. El Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos tendrá las siguientes atribuciones:
 
-I. Elaborar, conforme a las políticas dictadas por la Secretaría de Salud Jalisco, y dentro del marco de los sistemas nacional y estatal de salud, su programa anual de trabajo;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+I. Elaborar, conforme a las políticas dictadas por la Secretaría de Salud, y dentro del marco de los sistemas nacional y estatal de salud, su programa anual de trabajo;
 
 II. Organizar y operar la prestación de los servicios de atención médica especializada en materia de alivio al dolor y cuidados paliativos, en cumplimiento a lo dispuesto por la Ley Estatal de Salud, la Ley General de Salud, las Normas Oficiales Mexicanas, y las demás disposiciones jurídicas aplicables en la materia;
 
@@ -847,7 +861,9 @@ Atención del Dolor. Instituciones Públicas y Privadas.
 
 I. Observar en lo conducente lo previsto en la Ley General de Salud, en las Normas Oficiales Mexicanas, esta Ley y demás disposiciones aplicables;
 
-II. Coordinarse con la Secretaría de Salud Jalisco para recibir capacitación e información sobre cuidados paliativos; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+II. Coordinarse con la Secretaría de Salud para recibir capacitación e información sobre cuidados paliativos; y
 
 III. Atender el derecho preferentemente a la niñez de acuerdo a los principios establecidos en el Código Civil del Estado de Jalisco.
 
@@ -1039,7 +1055,9 @@ IV. Manifestar la indicación de recibir o no cualquier tratamiento, en caso de 
 
 V. Nombrar, en su caso, a uno o varios representantes para que éste vigile que se cumpla la voluntad del enfermo en situación terminal, el representante deberá aceptar dicho cargo en el mismo escrito mediante su firma; y
 
-VI. Suscribirse ante personal de la Secretaría de Saludo (sic) notario público.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+VI. Suscribirse ante personal de la Secretaría de Salud o notario público.
 
 ###### Artículo 77.
 
@@ -1273,7 +1291,9 @@ VIII. Las demás establecidas en la normatividad aplicable.
 
 Atención Materno-Infantil. Prevención de la Mortalidad Materno-Infantil.
 
-1. En la realización de acciones tendientes a la prevención de la mortalidad materno-infantil, los sistemas para el desarrollo integral de la familia, estatal y municipales, observarán las instrucciones que, sobre esta materia, reciban de la Secretaría de Salud Jalisco.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+1. En la realización de acciones tendientes a la prevención de la mortalidad materno-infantil, los sistemas para el desarrollo integral de la familia, estatal y municipales, observarán las instrucciones que, sobre esta materia, reciban de la Secretaría de Salud.
 
 2. En los establecimientos en que se presten servicios de atención médica materno-infantil se formarán los comités hospitalarios que determinen las Normas Oficiales Mexicanas aplicables, especialmente los destinados a prevenir la mortalidad materna y perinatal.
 
@@ -1381,13 +1401,19 @@ XI. La asequibilidad de los servicios sanitarios; y
 
 XII. La prevención de la discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 109.
 
 Salud Pública. Atención Médica. Desfibrilador.
 
-1. Será considerada acción de salud pública la obligación de que en todo edificio público o privado que genere concentraciones de al menos 500 personas en concurrencia, cuente con:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE OCTUBRE DE 2019)</small>
 
-I. Al menos un desfibrilador externo automático;
+1. Será considerada acción de salud pública la obligación de que en todo edificio público o privado que genere concentración de al menos 50 personas en concurrencia, cuente con:
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+I. Al menos un desfibrilador externo automático que será instalado en un lugar de fácil acceso, cuya ubicación, operación y funcionamiento deberá estar claramente señalizada;
 
 II. Con personal que presente la documentación que certifica su capacitación correspondiente.
 
@@ -1449,7 +1475,9 @@ Educación para la Salud. Programas.
 
 1. Las autoridades sanitarias estatales, en coordinación con las autoridades federales competentes, propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar la cobertura total de la población.
 
-2. El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+2. El Gobierno del Estado, por conducto de la Secretaría de Salud, en coordinación con las autoridades competentes, promoverá programas de educación para la salud, que puedan ser difundidos por los medios masivos de comunicación social en el Estado.
 
 #### SECCIÓN TERCERA. DE LA NUTRICIÓN Y EL COMBATE DE LA OBESIDAD, DIABETES, SOBREPESO Y TRASTORNOS DE LA CONDUCTA ALIMENTICIA
 
@@ -1457,7 +1485,9 @@ Educación para la Salud. Programas.
 
 De la nutrición y el combate de la obesidad, diabetes, sobrepeso y trastornos de la conducta alimenticia. Programas.
 
-1. El Gobierno del Estado, por conducto de la Secretaría de Salud Jalisco, elaborará, coordinará y desarrollará programas de nutrición estatales para la prevención y combate a la obesidad, diabetes, sobrepeso y trastornos de la conducta alimenticia, promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+1. El Gobierno del Estado, por conducto de la Secretaría de Salud, elaborará, coordinará y desarrollará programas de nutrición estatales para la prevención y combate a la obesidad, diabetes, sobrepeso y trastornos de la conducta alimenticia, promoviendo la participación de los organismos cuyas atribuciones tengan relación con los mismos, así como de los sectores social y privado.
 
 ###### Artículo 116.
 
@@ -1471,13 +1501,17 @@ De la nutrición y el combate de la obesidad, diabetes, sobrepeso y trastornos d
 
 1. El Consejo está integrado por:
 
-I. El titular de la Secretaría de Salud del Estado, que será quien lo presida;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-II. El titular de la Secretaría de Educación del Estado;
+I. El titular de la Secretaría de Salud, que será quien lo presida;
+
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+II. El titular de la Secretaría de Educación;
 
 III. El Titular del Organismo Público Descentralizado Hospital Civil de Guadalajara;
 
-IV. Una Secretaría Técnica, la cual estará a cargo de un servidor público adscrito a la Dirección de Prevención y Control de Enfermedades del organismo público descentralizado “Servicios de Salud Jalisco”;
+IV. Una Secretaría Técnica, la cual estará a cargo de un servidor público adscrito a la Dirección de Prevención y Control de Enfermedades del organismo público descentralizado "Servicios de Salud Jalisco";
 
 V. Dos representantes del sector social;
 
@@ -1543,7 +1577,9 @@ De la nutrición. Programa integral de prevención.
 
 De la nutrición. Acciones.
 
-1. La Secretaría de Salud Jalisco debe considerar al menos las siguientes acciones:
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+1. La Secretaría de Salud debe considerar al menos las siguientes acciones:
 
 I. Coordinarse con la Secretaría de Educación para la elaboración y publicación de catálogos de alimentos saludables para su consumo en los planteles educativos;
 
@@ -1661,7 +1697,9 @@ De la salud Ocupacional. Prevención.
 
 De los Efectos del Ambiente en la Salud. Autoridad y Atribuciones.
 
-1. La Secretaría de Salud Jalisco deberá tomar medidas y realizar las actividades tendientes a la protección de la salud humana, ante los riesgos y daños derivados de las condiciones del ambiente, sin perjuicio de la competencia que corresponda a otras autoridades y tendrá las siguientes facultades:
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+1. La Secretaría de Salud deberá tomar medidas y realizar las actividades tendientes a la protección de la salud humana, ante los riesgos y daños derivados de las condiciones del ambiente, sin perjuicio de la competencia que corresponda a otras autoridades y tendrá las siguientes facultades:
 
 I. Desarrollar investigación permanente y sistemática de los riesgos y daños que, para la salud de la población, origina la contaminación del ambiente;
 
@@ -1895,7 +1933,9 @@ Enfermedades Transmisibles. Acciones Preventivas Vectores.
 
 Enfermedades Transmisibles. Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida.
 
-1. Para la coordinación de acciones y programas para la prevención y control del síndrome de la inmunodeficiencia adquirida y la infección por el virus de la inmunodeficiencia Humana (VIH), se integra el Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida, como un órgano desconcentrado de la Secretaría de Salud Jalisco.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+1. Para la coordinación de acciones y programas para la prevención y control del síndrome de la inmunodeficiencia adquirida y la infección por el virus de la inmunodeficiencia Humana (VIH), se integra el Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida, como un órgano desconcentrado de la Secretaría de Salud.
 
 2. Para el apoyo directo a los municipios por parte del Estado, a través del Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida (COESIDA), se constituirán los Comités Municipales para la Prevención del Síndrome de Inmunodeficiencia Adquirida (COMUSIDA), a quienes el propio Consejo Estatal para la Prevención del Síndrome de Inmunodeficiencia Adquirida podrá, cuando así lo disponga su presupuesto anual, otorgar mediante los documentos jurídicos aplicables, bienes muebles para la realización de las tareas propias del programa en los municipios.
 
@@ -2013,9 +2053,13 @@ d) Secretaría de Educación;
 
 e) Secretaría de Cultura;
 
-f) Secretaría de Movilidad;
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-g) Fiscalía General del Estado;
+f) Secretaría del Transporte;
+
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+g) Secretaría de Seguridad;
 
 h) Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -2025,11 +2069,13 @@ j) Consejo Estatal para el Fomento Deportivo y el Apoyo a la Juventud;
 
 k) Comisión Estatal de Derechos Humanos
 
-l) Los presidentes de las Comisiones de Derechos Humanos, de Higiene y Salud Pública y de Familia, Desarrollo Humano e Integración Social del Congreso del Estado;
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+l) Los presidentes de las Comisiones de Derechos Humanos y pueblos originarios, de Higiene, Salud Pública y Prevención de las Adicciones, y de Asistencia social, Familia y Niñez, del Congreso del Estado;
 
 m) Comisión para la Protección contra Riesgos Sanitarios de Jalisco; y
 
-n) Instituto Jalisciense de la Juventud; y
+n) (DEROGADO, P.O. 8 DE OCTUBRE DE 2019)
 
 III. Del sector privado y social:
 
@@ -2267,7 +2313,9 @@ II. En el trabajo; y
 
 III. De tránsito.
 
-2. Para la mayor eficacia de las acciones preventivas y de control de accidentes, como órgano desconcentrado de la Secretaría de Salud Jalisco, se integra el Consejo Estatal para la Prevención de Accidentes, del que forman parte representantes de los sectores público social y privado.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+2. Para la mayor eficacia de las acciones preventivas y de control de accidentes, como órgano desconcentrado de la Secretaría de Salud, se integra el Consejo Estatal para la Prevención de Accidentes, del que forman parte representantes de los sectores público social y privado.
 
 3. Dicho Consejo se coordinará con el Consejo Nacional para la Prevención de Accidentes, dentro del marco de los sistemas nacional y estatal de salud.
 
@@ -2397,7 +2445,9 @@ VI. Guardar el secreto profesional, siempre que éste no contravenga disposicion
 
 VII. Salvaguardar su prestigio; y
 
-VIII. Los demás que establezca la legislación sanitaria, sus reglamentos y normas; así como aquellos que consten en las declaratorias que emita la Secretaría de Salud Jalisco, con la participación de la Comisión Estatal de Bioética e Investigación de Jalisco.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+VIII. Los demás que establezca la legislación sanitaria, sus reglamentos y normas; así como aquellos que consten en las declaratorias que emita la Secretaría de Salud, con la participación de la Comisión Estatal de Bioética e Investigación de Jalisco.
 
 ###### Artículo 187.
 
@@ -2761,9 +2811,11 @@ VI. Un representante de la Universidad de Guadalajara;
 
 VII. Un representante de la Universidad Autónoma de Guadalajara, y
 
-VIII. Un representante de la Secretaría de Salud Jalisco.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-2. La designación de consejeros deberá recaer en personas de reconocida solvencia moral y profesional. Los consejeros referidos en las fracciones III, IV, V, VI, VII Y VIII deberán además tener el carácter de profesionistas médicos. El cargo de consejero será honorífico y, por tanto, no remunerado, excepto en el caso del Comisionado.
+VIII. Un representante de la Secretaría de Salud.
+
+2. La designación de consejeros deberá recaer en personas de reconocida solvencia moral y profesional. Los consejeros referidos en las fracciones III, IV, V, VI, VII y VIII deberán además tener el carácter de profesionistas médicos. El cargo de consejero será honorífico y, por tanto, no remunerado, excepto en el caso del Comisionado.
 
 3. Podrán acreditar un representante ante el Consejo con derecho a voz, previa invitación que les gire la Comisión, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicio Social de los Trabajadores del Estado y la Comisión de Higiene y Salud Pública del Congreso del Estado de Jalisco.
 
@@ -4440,3 +4492,19 @@ P.O. 29 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27258/LXII/19 MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 157 DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27345/LXII/19 QUE REFORMA LOS ARTÍCULOS 4°, 15, 20, 21, 26, 56, 57, 61, 76, 101, 114, 115, 117, 121, 130, 131, 156, 165, 174, 186, Y 211, TODOS DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27346/LXII/19 QUE REFORMA EL ARTÍCULO 109 DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
