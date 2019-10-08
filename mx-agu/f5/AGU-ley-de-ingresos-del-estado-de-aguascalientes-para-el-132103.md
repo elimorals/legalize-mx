@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-132103"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2018-12-24"
-last_updated: "2018-12-24"
+last_updated: "2019-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132103&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2019
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
-Ley publicada en la Edición Vespertina de la Primera Sección al Número 52 del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2018.
+Ley publicada en la Edición Vespertina de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de diciembre de 2018.
 
 MARTÍN OROZCO SANDOVAL, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
 
@@ -52,6 +52,8 @@ LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2
 La Hacienda Pública del Estado percibirá durante el Ejercicio Fiscal del año 2019, de acuerdo con los ordenamientos fiscales, los siguientes ingresos por los conceptos y las cantidades estimadas en pesos que se indican a continuación:
 
 > <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DE LA PRIMERA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2018, PÁGINAS DE LA 2 A LA 7.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2019, PÁGINAS DE LA 2 A LA 3.]</small>
 
 El desglose de los ingresos para el Ejercicio Fiscal 2019 no contempla los conceptos y los numerales correspondientes a Cuotas y Aportaciones de Seguridad Social, Contribuciones de Mejoras y Transferencias, Asignaciones, Subsidios y Subvenciones, y Pensiones y Jubilaciones, establecidos en el Catálogo del Clasificador por Rubro de Ingresos en virtud de que no son aplicables para los ingresos que establece esta Ley.
 
@@ -101,6 +103,8 @@ Por los servicios prestados por las Autoridades de la Secretaria de Finanzas, se
 
 > <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DE LA PRIMERA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2018, PÁGINAS DE LA 11 A LA 12.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2019, PÁGINA 3.]</small>
+
 Los derechos previstos en este Artículo se pagarán previamente a la prestación de los servicios.
 
 Por los servicios que preste la Secretaría de Finanzas establecidos de manera particular en los Convenios Administrativos que celebre con los Municipios del Estado, en materia de la recaudación del Impuesto a la Propiedad Raíz. El monto se determinará en el Convenio y sus anexos correspondientes.
@@ -143,6 +147,8 @@ Por la prestación de servicios de las autoridades del Instituto Catastral, se c
 
 > <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DE LA PRIMERA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2018, PÁGINAS DE LA 17 A LA 19.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2019, PÁGINA 4.]</small>
+
 ### CAPÍTULO VIII. De las Autoridades de la Secretaría de Turismo
 
 ###### ARTÍCULO 11.
@@ -160,6 +166,8 @@ Con el fin de promover y fomentar la cultura turística, la historia y las tradi
 Por el uso o goce de bienes y por la prestación de servicios de la Coordinación General de Movilidad, se causarán y pagarán los derechos correspondientes, aplicando las siguientes tarifas:
 
 > <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DE LA PRIMERA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2018, PÁGINAS DE LA 20 A LA 21.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2019, PÁGINA 4.]</small>
 
 ### CAPÍTULO X. De las Autoridades de la Secretaría de Sustentabilidad, Medio Ambiente y Agua
 
@@ -281,6 +289,8 @@ Por el uso o goce y por la prestación de los servicios de las Entidades Paraest
 
 > <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DE LA PRIMERA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2018, PÁGINAS DE LA 29 A LA 116.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2019, PÁGINAS DE LA 4 A LA 5.]</small>
+
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
 ### CAPÍTULO I. Del Gobierno Central
@@ -290,6 +300,8 @@ Por el uso o goce y por la prestación de los servicios de las Entidades Paraest
 Quedan comprendidos en este rubro los ingresos que obtiene el Estado por concepto de los Productos especificados en el Artículo 81 de la Ley de Hacienda del Estado de Aguascalientes y para el efecto se observarán las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DE LA PRIMERA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2018, PÁGINA 116.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2019, PÁGINA 5.]</small>
 
 ###### ARTÍCULO 21.
 
@@ -398,6 +410,8 @@ Por los aprovechamientos provenientes de las Entidades Paraestatales, Organismos
 Por los Ingresos por Venta de Bienes, Prestación de Servicios y Otros Ingresos provenientes de las Entidades Paraestatales, Organismos Descentralizados, Órganos Desconcentrados y Autónomos, se observarán las siguientes cuotas:
 
 > <small>[N. DE E. VÉASE TABLA EN LA EDICIÓN VESPERTINA DE LA PRIMERA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2018, PÁGINAS DE LA 128 A LA 157.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 8 DE OCTUBRE DE 2019, PÁGINAS DE LA 5 A LA 6.]</small>
 
 ## TÍTULO SEPTIMO. INGRESOS DERIVADOS DE FINANCIAMIENTO
 
@@ -543,6 +557,28 @@ En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 
 
 > <small>[N. DE E. VÉASE ANEXO DE PROYECCIONES DE LAS FINANZAS PÚBLICAS, CONFORME EL ARTÍCULO 5° DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, EN LA EDICIÓN VESPERTINA DE LA PRIMERA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2018, PÁGINA 161.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO DE PROYECCIONES DE LAS FINANZAS PÚBLICAS, CONFORME EL ARTÍCULO 5° DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, EN EL P.O. DE 8 DE OCTUBRE DE 2019, PÁGINA 31.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO DE RESULTADOS DE LAS FINANZAS PÚBLICAS, CONFORME EL ARTÍCULO 5° DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, EN LA EDICIÓN VESPERTINA DE LA PRIMERA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2018, PÁGINA 162.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO DE INGRESOS POR FUENTE DE FINANCIAMIENTO, CONFORME EL ARTÍCULO 41 DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, EN LA EDICIÓN VESPERTINA DE LA PRIMERA SECCIÓN DEL P.O. DE 24 DE DICIEMBRE DE 2018, PÁGINA 163.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO DE INGRESOS POR FUENTE DE FINANCIAMIENTO, CONFORME EL ARTÍCULO 41 DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL, EN EL P.O. DE 8 DE OCTUBRE DE 2019, PÁGINA 32.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 209.- REFORMAS A LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2019”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto y los Anexos entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se exceptúan del presente Decreto, Adecuaciones Presupuestarias, Reasignaciones, Reasignaciones por Convenio, establecidas en términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios, y el Decreto del Presupuesto de Egresos del Estado de Aguascalientes, para el Ejercicio Fiscal del Año 2019.
+
+###### ARTÍCULO TERCERO.
+
+Se exceptúan del presente Decreto, aquellas ampliaciones a la Ley de Ingresos o Presupuesto de Egresos; de conformidad a lo establecido en el artículo 40 de la Ley de Presupuesto Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios; y demás disposiciones aplicables.
