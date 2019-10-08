@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2019-05-11"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2799,13 +2799,47 @@ Definida la paternidad conforme lo establece este Código, toda mujer tiene dere
 
 El obligado a dar alimentos cumple la obligación asignando una pensión adecuada al acreedor alimentario o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+Aquella persona que incumpla con el párrafo anterior por un periodo de noventa días se constituirá en deudor alimentario moroso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+El Juez ordenará al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+El juez ordenará al Registro Público de la Propiedad a efecto de que se anote el certificado respectivo en los folios reales de que sea propietario el Deudor Alimentario Moroso, debiendo informar si fue procedente la anotación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+El Registro Público verificará el Registro de Deudores Alimentarios Morosos para que en caso de que el deudor alimentario pretenda adquirir, transmitir, modificar, limitar, extinguir la propiedad o posesión de bienes raíces o cualquier derecho real deberá informar al Juez para que este resuelva lo que a su derecho corresponda y no podrá realizarse la inscripción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+El Juez dará aviso al Colegio de Notarios del Estado de Jalisco para que hagan del conocimiento a los Notarios del Estado que el deudor alimentario cuenta con las prohibiciones señaladas en el párrafo anterior, así corno su obligación de informar al Juez en caso de que el deudor alimentario pretenda reaiizar (sic) cualquiera de los actos jurídicos señalados en el presente artículo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+El deudor alimentario declarado judicialmente como moroso, que acredite con posterioridad ante la misma autoridad que realizó la citada declaratoria, que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+El Juez cancelará las inscripciones a que se refiere este artículo y dará aviso al Colegio de Notarios.
+
 ###### Art. 441.
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un divorciado que reciba alimentos del otro y cuando haya inconveniente legal para hacer esa incorporación.
 
-###### Art. 442.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-Los alimentos han de ser proporcionales a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+Art 442.- Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien deba recibirlos.
+
+Los alimentos que sean determinados por convenio o sentencia, tendrán un incremento automático mínimo equivalente al aumento porcentual anual correspondiente al Índice Nacional de Precios al Consumidor publicado por el Instituto Nacional de Estadística y Geografía, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+Art 442 Bis.- Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez de lo Familiar resolverá con base en la capacidad económica del deudor alimentista y a las necesidades de quien deba recibirlos, debiéndose revisar cada dos años de conformidad el artículo 442 del presente Código.
 
 ###### Art. 443.
 
@@ -2867,9 +2901,11 @@ IV. Cuando la necesidad de los alimentos depende de la conducta viciosa o de la 
 
 V. Si el acreedor alimentario, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables.
 
-###### Art. 452.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-El derecho de recibir alimentos es de orden público y no puede ser objeto de transacción; es irrenunciable e intransmisible; pero sí pueden ser objeto de las operaciones indicadas, las pensiones caídas.
+Art 452.- El derecho de recibir alimentos es de orden público y no puede ser objeto de transacción; es irrenunciable, intransmisible e imprescriptible; pero sí pueden ser objeto de las operaciones indicadas, las pensiones caídas.
+
+Los acreedores alimentarios tendrán derecho preferente sobre los gravámenes en bienes que se inscriban en el Registro Público de la Propiedad y descuentos por cargos que se realicen, ambos por resolución judicial, estos últimos sobre los ingresos de deudores alimentistas, respecto a los efectuados por acreedores de otra calidad.
 
 ###### Art. 453.
 
@@ -2881,9 +2917,15 @@ Cuando el deudor alimentista no estuviere presente o estándolo, rehusare entreg
 
 Cuando un cónyuge se vea obligado sin culpa suya, a vivir separado del otro; podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue a su cónyuge a darle alimentos durante la separación y que le ministre todos (sic) lo que haya dejado de darle desde que lo abandonó. El juez, según las circunstancias del caso, fijará la suma que deberá ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el cónyuge obligado pague los gastos que el cónyuge abandonado haya tenido que erogar con tal motivo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Art. 455.
 
-(DEROGADO, P.O. 22 DE SEPTIEMBRE DE 2006)
+Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles y responderá solidariamente con los obligados directos de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
+
+Las personas que se resistan a acatar las órdenes judiciales de descuento, o auxilien al deudor a ocultar o simular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo anterior, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+El deudor alimentario deberá informar de inmediato al Juez y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
 
 ### CAPITULO I. De los hijos de matrimonio
 
@@ -19082,3 +19124,11 @@ P.O. 11 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27264/LXII/19, QUE REFORMA LOS ARTÍCULOS 405 BIS Y 406 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27332/LXII/19 QUE REFORMA LOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+Segundo. Se concede al Poder Ejecutivo un plazo de noventa días, a partir de la entrada en vigor del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento de la ley del Registro Civil del Estado de Jalisco.
