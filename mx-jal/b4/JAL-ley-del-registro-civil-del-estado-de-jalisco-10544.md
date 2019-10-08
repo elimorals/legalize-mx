@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2019-06-29"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -114,6 +114,14 @@ La Dirección General del Registro Civil expedirá las certificaciones y extract
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
 
 Corresponde a la Dirección General del Registro Civil, la inspección, coordinación y supervisión de las Oficialías del Registro Civil en el Estado, a las cuales les proporcionará los manuales de procedimientos aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+La Dirección General del Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Estado de Jalisco, en el que se inscribirá el nombre de las personas que haya (sic) dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+El Registro expedirá un certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos, protegiendo los datos personales sensibles, no podrá darse a conocer el nombre del o los menores de edad acreedores, de conformidad con la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios.
 
 ###### Artículo 7.
 
@@ -773,6 +781,8 @@ La omisión del registro no quita a la emancipación sus efectos legales, pero s
 
 ### CAPITULO XI. De las actas de matrimonio
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 81.
 
 Las personas que pretendan contraer matrimonio, presentarán una solicitud al oficial del Registro Civil del domicilio de cualesquiera de ellos, que exprese:
@@ -788,6 +798,10 @@ III. Que es su voluntad unirse en matrimonio.
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
 Este escrito deberá ser firmado por los solicitantes y si alguno no puede o no supiere escribir, estampará el interesado su huella digital ante la presencia de dos testigos, quienes también deberán firmar o estampar su huella digital. Si el interesado no pudiere firmar ni imprimir su huella digital, podrá firmar a su ruego otra persona, ante el mismo número de testigos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+El oficial del Registro Civil informará a los contrayentes después de la solicitud, si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -1153,15 +1167,35 @@ f) De las actas de defunción: Nombre, apellidos, fecha de nacimiento, sexo, eda
 
 g) De las actas de inscripción de sentencia de tutela, emancipación, ausencia, presunción de muerte y pérdida o limitación de la capacidad legal para administrar bienes: Nombre, apellidos, estado civil, nacionalidad y edad de la persona de que se trata; fecha en que causó estado la sentencia, tribunal que las dictó, número de expediente y resumen de las proposiciones; nombre, apellidos y nacionalidad de quienes aparecieren en el acta respectiva con interés jurídico en el registro y carácter con el que comparecieron.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+### CAPITULO XV-Bis. Del Registro de Deudores Alimentarios Morosos
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 121 Bis.
+
+En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 440 del Código Civil para el Estado de Jalisco. El Registro contendrá:
+
+I. Nombre, apellidos y Clave Única del Registro de Población del deudor alimentario moroso;
+
+II. Nombre del acreedor o acreedores alimentarios;
+
+III. Datos del acta que acrediten el vínculo entre el deudor y acreedor alimentarios, en su caso;
+
+IV. Número de pagos incumplidos y monto del adeudo alimentario;
+
+V. Órgano jurisdiccional que ordena el registro; y
+
+VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+La información que se dé a conocer sobre el deudor deberá proteger los datos personales sensibles, no podrá darse a conocer el nombre del o los menores de edad, de conformidad con la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios.
+
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPÍTULO XV], P.O. 15 DE JUNIO DE 1999)
 
 ### CAPITULO XVI. De la nulificación, rectificación, aclaración y testadura de las actas del registro civil
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2018)</small>
-
-### CAPITULO XVII. De las Visitas de Orientación e Inspección
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 122.
 
@@ -1279,9 +1313,9 @@ La sentencia ejecutoria, la escritura pública o el testimonio expedido por el N
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPÍTULO XVI], P.O. 15 DE JUNIO DE 1999)
 
-### CAPITULO XVIII. De las sanciones
+### CAPITULO XVII. De las Visitas de Orientación e Inspección
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 138], P.O. 15 DE JUNIO DE 1999)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 134], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 136.
 
@@ -1306,6 +1340,10 @@ Las visitas de control administrativo tendrán por objeto asegurar la coordinaci
 Las visitas e inspecciones que corresponde realizar a la Procuraduría Social del Estado de Jalisco, se desarrollarán conforme a las disposiciones que regulan las actividades de verificación y control.
 
 (REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN [N. DE E. ANTES CAPÍTULO XVII], P.O. 15 DE JUNIO DE 1999)
+
+### CAPITULO XVIII. De las sanciones
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 138], P.O. 15 DE JUNIO DE 1999)
 
 ###### Artículo 140.
 
@@ -1648,3 +1686,11 @@ P.O. 29 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27257/LXII/19 MEDIANTE EL CUAL SE REFORMA LOS ARTÍCULOS 40, 42 Y 57 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27332/LXII/19 QUE REFORMA LOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO".]
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Se concede al Poder Ejecutivo un plazo de noventa días, a partir de la entrada en vigor del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento de la Ley del Registro Civil del Estado de Jalisco.
