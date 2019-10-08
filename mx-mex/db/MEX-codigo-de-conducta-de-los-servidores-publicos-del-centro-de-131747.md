@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-los-servidores-publicos-del-centro-de-131
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-15"
-last_updated: "2018-11-15"
+last_updated: "2019-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL CENTRO DE CONFIANZA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 8 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 8 DE OCTUBRE DE 2019 (ABROGADO).
 
 Código publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 15 de noviembre de 2018.
 
@@ -631,3 +633,15 @@ LIC. MARIBEL SÁNCHEZ DIMAS
 Servidora Pública adscrita a la Dirección de Poligrafía y Vocal del Comité de Ética y de Prevención de Conflicto de Intereses
 
 (Rúbrica).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el Presente Código de Conducta en el Periódico Oficial “Gaceta de (sic) Gobierno”.
+
+SEGUNDO. El presente Código entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Código de Conducta de los Servidores Públicos del Centro de Control de Confianza del Estado de México, publicado en fecha 15 de noviembre del año 2018, en el Periódico Oficial “Gaceta del Gobierno.
