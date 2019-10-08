@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2018-12-21"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -115,13 +115,17 @@ b) La regulación de los procedimientos y demás acciones relacionadas con:
 
 4. Las instancias responsables de cumplir y hacer cumplir las disposiciones conducentes en la materia;
 
-c) Las relativas a la atribución de la Dirección General de Asuntos Jurídicos de emitir opinión o dictamen de procedencia respecto de los proyectos de contratos, convenios, órdenes de servicio, pedidos, bases de coordinación o cualquier otro instrumento que genere derechos u obligaciones de cualquier tipo al Consejo, que elaboren en el ámbito de su competencia las áreas administrativas;
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+c) Las relativas a la atribución de la Dirección General de Asuntos Jurídicos de emitir opinión o dictamen jurídico respecto de los proyectos de contratos, convenios, órdenes de servicio, pedidos, bases de coordinación o cualquier otro instrumento que genere derechos u obligaciones de cualquier tipo al Consejo, que elaboren en el ámbito de su competencia las áreas administrativas;
 
 d) Las reglas de carácter general que deben observarse para la desincorporación de los bienes muebles al servicio del Poder Judicial de la Federación;
 
 e) La regulación de la administración y destino final de los bienes asegurados no reclamados y decomisados en los procedimientos penales federales, que hubieran sido puestos a disposición del Consejo antes del catorce de agosto de mil novecientos noventa y nueve, respecto de los cuales los órganos jurisdiccionales hayan emitido el certificado de disponibilidad respectivo;
 
-f) Lo relativo al Comité de Informática; y
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+f) Lo relativo al Comité de Tecnologías de la Información; y
 
 g) Determinar las atribuciones que se delegan a las unidades operativas encargadas de la administración de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en el Distrito Federal y la zona conurbada, en materia de recursos materiales, servicios generales y servicios de mantenimiento y conservación, así como establecer su organización y funcionamiento;
 
@@ -155,63 +159,403 @@ VII. Establecer las disposiciones relacionadas con la Firma Electrónica Certifi
 
 VIII. Regular la Compilación Normativa.
 
-### CAPÍTULO SEGUNDO. GLOSARIOS
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO SEGUNDO. GLOSARIO
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 2.
 
-Para efectos de este Acuerdo se entenderá:
+Para efectos de este Acuerdo se entenderá por:
 
-I. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa del propio Consejo;
+I. Acuerdo: Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo;
 
-II. Áreas administrativas: unidades administrativas y órganos auxiliares del Consejo de la Judicatura Federal;
+II. Adecuaciones presupuestarias: Modificaciones que se realizan durante el ejercicio, al presupuesto autorizado o los ajustes a los calendarios financieros, con el fin de permitir un mejor cumplimiento de los objetivos y programas autorizados. Las adecuaciones comprenden traspasos compensados, ampliaciones y reducciones líquidas de recursos;
 
-III. CENDI: Centro de Desarrollo Infantil del Poder Judicial de la Federación;
+III. Administraciones de edificios: Las unidades operativas encargadas de la administración de los edificios en propiedad o en uso del Consejo, ubicados en la Ciudad de México y en la zona conurbada;
 
-IV. Comisiones: Aquellas que señale el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
+IV. Administración de Inmuebles: La Dirección General de Servicios Generales, a través de los administradores de los Inmuebles ubicados en la Ciudad de México y en la zona conurbada, y la Coordinación de Administración Regional, por medio de las Administraciones Regionales o Delegaciones Administrativas, tratándose de los inmuebles ubicados en el interior de la República;
 
-V. Consejeros: Consejeros de la Judicatura Federal;
+V. Administración Regional: Las Administraciones Regionales, adscritas a la Coordinación de Administración Regional;
 
-VI. Consejo: Consejo de la Judicatura Federal;
+VI. Adscripción: La asignación de un servidor público a un órgano jurisdiccional o área administrativa en la que prestan sus servicios o ejercen sus funciones;
 
-VII. Constitución: Constitución Política de los Estados Unidos Mexicanos;
+VII. Agente Certificador: El servidor público por conducto del cual actuará la UNCOCEFI para tramitar la emisión, renovación y revocación de Certificados Digitales de la FIREL;
 
-VIII. Contraloría: Contraloría del Poder Judicial de la Federación;
+VIII. Agente Regulador: El encargado de instrumentar y operar las acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente, a reducir los riesgos y a controlar y prevenir los efectos adversos de un agente perturbador;
 
-IX. Fondo de Apoyo: Fondo de Apoyo a la Administración de Justicia;
+IX. Ahorro presupuestario: Remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
 
-X. ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+X. Aportaciones Ordinarias: Son las aportaciones que realiza el servidor público al Fondo, por un porcentaje del 2%, 5% o el 10% del monto de su sueldo básico y que se deduce a través del sistema de nómina. Así como, la cantidad de dinero que cubra el Consejo por cuenta y en nombre del servidor público por un monto igual al 2%, 5% o el 10% por el que haya optado el servidor público de su sueldo básico;
 
-XI. (DEROGADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)
+XI. Apoyos: Erogaciones, sujetas a comprobación, de conformidad con los lineamientos, montos y periodicidad aprobados por los órganos de gobierno, que podrán realizarse para que los servidores públicos estén en aptitud de desempeñar las funciones inherentes a su cargo;
 
-XII. Ley del ISSSTE: Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+XII. Área de Adquisiciones: Las direcciones generales de Recursos Materiales; de Servicios Generales; Administraciones de Edificios, y la Coordinación de Administración Regional, incluso a través de sus Administraciones Regionales y Delegaciones Administrativas, según corresponda de acuerdo a su competencia;
 
-XIII. Ley Federal de los Trabajadores al Servicio del Estado: Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del apartado B del artículo 123 de la Constitución;
+XIII. Área de Obras: La Dirección General de Inmuebles y Mantenimiento y, en su caso, las Administraciones de Edificios, y la Coordinación de Administración Regional, incluso a través de sus Administraciones Regionales y Delegaciones Administrativas;
 
-XIV. Ley Orgánica: Ley Orgánica del Poder Judicial de la Federación;
+XIV. Área solicitante: La que solicita o requiere formal u orgánicamente la adquisición o arrendamiento de bienes o la prestación de servicios; así como la obra pública o servicios relacionados con la misma;
 
-XV. Lista de Valores: Lista de valores mínimos para desechos de bienes muebles que generen las dependencias y entidades de la Administración Pública Federal;
+XV. Área técnica: El área administrativa que cuenta con competencia para resolver sobre especificaciones, características y demás aspectos técnicos de los bienes, servicios, obra pública y servicios relacionados con la misma que solicite el área solicitante;
 
-XVI. Órganos jurisdiccionales: Tribunales de Circuito y Juzgados de Distrito;
+XVI. Áreas administrativas: unidades administrativas y órganos auxiliares del Consejo de la Judicatura Federal;
 
-XVII. Pleno: Pleno del Consejo;
+XVII. Áreas asesoras: Las direcciones generales de Recursos Materiales; de Servicios Generales; de Inmuebles y Mantenimiento; y de Tecnologías de la Información, en el ámbito de su competencia;
 
-XVIII. Poder Judicial de la Federación: Los órganos señalados en el artículo 94 de la Constitución, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
+XVIII. Áreas Operativas: Las direcciones generales de Inmuebles y Mantenimiento; de Recursos Materiales; de Tecnologías de la Información; y de Servicios Generales, la Coordinación de Administración Regional; las Administraciones Regionales, las Delegaciones Administrativas y las Administraciones de Edificios en la Ciudad de México y zona conurbada;
 
-XIX. Presidente: Consejero Presidente del Consejo;
+XIX. Auxiliar de Asistencia y Puntualidad: Coordinador Técnico Administrativo de los órganos jurisdiccionales o el servidor público designado por el titular del área administrativa que corresponda, así como el servidor público que lo supla en caso de ausencia por determinación del titular respectivo;
 
-XX. SAE: El organismo descentralizado de la Administración Pública Federal denominado: Servicio de Administración y Enajenación de Bienes, previsto en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público; y
+XX. Auxilio: Respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
 
-XXI. Unidades administrativas: Aquellas que determine el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+XXI. Avalúo: El resultado del proceso de estimar en dinero el valor de los bienes por parte de los valuadores facultados para desarrollar dicha actividad;
+
+XXII. Baja: Separación definitiva del Poder Judicial de la Federación, independientemente de la causa que lo origine;
+
+XXIII. Bienes: Los bienes muebles, instrumentales y de consumo, que figuren en los inventarios del Consejo.
+
+Se ubican también dentro de esta definición los bienes muebles que por su naturaleza, en los términos del artículo 751 del Código Civil Federal, se hayan considerado como inmuebles y que hubieren recobrado su calidad de muebles por las razones que en el mismo precepto se establecen;
+
+XXIV. Bienes asegurados no reclamados: Los bienes muebles, inmuebles o derechos reales relacionados con procesos penales federales de los cuales se haya ordenado su devolución y que no hayan sido recogidos por quien tenga derecho a ello, en los plazos previstos por el Código Penal Federal, y se hayan puesto a disposición del Consejo para determinar su destino final;
+
+XXV. Bienes decomisados: Los bienes muebles, inmuebles o derechos reales que por resolución firme hayan adquirido ese carácter, en términos del artículo 40 del Código Penal Federal, puestos a disposición del Consejo;
+
+XXVI. Bienes de consumo: Los que por su utilización en el desarrollo de las actividades que realizan los órganos jurisdiccionales y áreas administrativas, tienen un desgaste parcial o total y son controlados a través de un registro global en sus inventarios, dada su naturaleza y finalidad en el servicio;
+
+XXVII. Bienes incosteables: Aquellos distintos a numerario, cuyo valor comercial sea inferior a sus costos de administración; a los gastos inherentes a obtener su disponibilidad, o bien que tengan un valor menor al equivalente a seis veces el valor mensual de la Unidad de Medida y Actualización;
+
+XXVIII. Bienes instrumentales: Los considerados como implementos o medios para el desarrollo de las actividades que realizan los órganos jurisdiccionales y áreas administrativas, siendo susceptibles de la asignación de un número de inventario dada su naturaleza y finalidad en el servicio;
+
+XXIX. Bienes no útiles: Los que por su estado físico o cualidades técnicas no resulten funcionales, no se requieran para el servicio al cual se destinaron o sea inconveniente seguirlos utilizando;
+
+XXX. Brigada: Grupo de personas que se organizan dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación estipuladas en el Programa Interno de Protección Civil del inmueble;
+
+XXXI. CENDI: Centro de Desarrollo Infantil del Poder Judicial de la Federación;
+
+XXXII. Certificación de Disponibilidad Presupuestal: Validación de la existencia de recursos presupuestales para un destino de gasto específico, con objeto de respaldar la solicitud de autorización para la adquisición o contratación de un bien o servicio ante la instancia competente, incluyendo los correspondientes a servicios personales;
+
+XXXIII. Certificado Digital de la FIREL: El documento electrónico emitido por la UNCOCEFI que asocia de manera segura y fiable la identidad del Firmante con una Llave Pública, permitiendo con ello identificar quién es el autor o emisor de un documento electrónico o mensaje de datos remitido mediante el uso de la FIREL;
+
+XXXIV. Certificado Intermedio del Consejo: El certificado digital emitido al Consejo por la Autoridad Certificadora Raíz del Poder Judicial de la Federación, a partir del cual la UNCOCEFI generará los certificados digitales de la FIREL para los Usuarios Finales;
+
+XXXV. Certificado OCSP: El certificado digital emitido por el Consejo para el uso del protocolo de la verificación en línea del estado de los certificados digitales de la FIREL emitidos por el propio Consejo;
+
+XXXVI. Certificado Raíz del PJF: El certificado digital único emitido por la Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas, que sirve de base a la infraestructura de firma electrónica de los órganos del Poder Judicial de la Federación y da origen a los certificados intermedios, los que a su vez servirán para generar los certificados digitales de la FIREL que emitan las Unidades de Certificación correspondientes;
+
+XXXVII. Certificado TSA: El certificado digital emitido por el Consejo para el uso de los sellos de tiempo;
+
+XXXVIII. Clasificador por Objeto del Gasto: Instrumento que define y permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación económica del gasto;
+
+XXXIX. Clave de Acceso a la Llave Privada del Certificado Digital de la FIREL: La cadena de caracteres alfanuméricos del conocimiento exclusivo del titular de un Certificado Digital de la FIREL, que le permite utilizar la Llave Privada para firmar un documento electrónico o, en su caso, para acceder a diversos sistemas que establezca el Consejo;
+
+XL. Clave de revocación: La cadena de caracteres alfanuméricos que introduce de manera secreta el Firmante durante la solicitud de un Certificado Digital de la FIREL, y que deberá capturarse al momento de requerir su revocación en línea;
+
+XLI. Comisión: Actividad asignada a los servidores públicos, inherente a su función, que realizan fuera de una faja circundante, que rebase los 50 kilómetros a la del lugar de su adscripción;
+
+XLII. Comisiones: Las que señale el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
+
+XLIII. Comité de Inversión: Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal;
+
+XLIV. CompraNet: El sistema electrónico de información pública gubernamental, a que hacen alusión el artículo 2, fracción II, de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público; y de la Ley Obras Públicas y Servicios relacionados con las mismas;
+
+XLV. Consejeros: Consejeros de la Judicatura Federal;
+
+XLVI. Consejo: Consejo de la Judicatura Federal;
+
+XLVII. Constitución: Constitución Política de los Estados Unidos Mexicanos;
+
+XLVIII. Continuidad de Operaciones: Al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas del Poder Judicial de la Federación, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
+
+XLIX. Contraloría: Contraloría del Poder Judicial de la Federación;
+
+L. Contratista: Persona física o moral con la que se celebren contratos de obra pública, de servicios relacionados con la misma o de cualquier naturaleza, según corresponda;
+
+LI. Coordinación de Seguridad: Coordinación de Seguridad del Poder Judicial de la Federación;
+
+LII. Costos de administración: La suma de todos los gastos, tanto directos como indirectos, que se requieran para la conservación, mantenimiento, supervisión, custodia, destrucción o enajenación de un bien, tales como los pagos que se generen por concepto de honorarios, pagos a terceros especializados, servicios de vigilancia, transporte, embalaje, almacenamiento, avalúos, contribuciones, seguros y energía eléctrica, entre otros, que se vinculen estrictamente con el bien de que se trate;
+
+LIII. Cuenta Pública: Cuenta de la Hacienda Pública Federal;
+
+LIV. CURP: Clave Única de Registro de Población;
+
+LV. Delegación Administrativa: Las Delegaciones Administrativas, adscritas a la Coordinación de Administración Regional;
+
+LVI. Desastre: Al resultado de la ocurrencia de uno o más agentes perturbadores severos o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
+
+LVII. Desechos: Los bienes muebles que por sus condiciones físicas se consideran desperdicios;
+
+LVIII. Destino final: La determinación de enajenar, donar, permutar, transferir, destruir u otorgar en dación en pago los bienes no útiles;
+
+LIX. Día(s) Hábil(es): Los días que se labore en el Consejo, comprendiéndose todos los del año, excluyéndose los sábados, domingos y los que establece como inhábiles el artículo 163 de la Ley Orgánica, así como los que determine el Pleno;
+
+LX. Dictamen jurídico: Documento que emite la Dirección General de Asuntos Jurídicos que contiene el análisis jurídico respecto del cumplimiento de la normativa en los procedimientos de contratación, previstos en el presente Acuerdo;
+
+LXI. Documento de Afectación Presupuestal: Documento que se elabora para efectos de registrar el compromiso de recursos presupuestales autorizados, a través de la presentación de los contratos, convenios, pedidos, órdenes de trabajo y de servicio, así como cualquier otro documento que represente una obligación de pago a cargo del Consejo;
+
+LXII. Documento electrónico: El generado, consultado, modificado o procesado por medios electrónicos;
+
+LXIII. Documentación comprobatoria: Los comprobantes electrónicos (pdf y xml) de gastos y su representación impresa efectuados por concepto de viáticos y transportación que cumplen con los requisitos fiscales vigentes al momento de su emisión, acompañada de la Relación de Gastos para Comprobación de Viáticos y Transportación;
+
+LXIV. Documentación justificatoria: Los documentos originales que deben obrar en los expedientes de las áreas solicitantes, que permiten tramitar y justificar la asignación de viáticos y transportación, para que un servidor público efectúe una comisión;
+
+LXV. Economías: Remanentes de recursos no devengados del presupuesto modificado;
+
+LXVI. Emergencia: Situación anormal que puede causar un daño a los servidores públicos del Poder Judicial de la Federación y propiciar un riesgo excesivo para su seguridad e integridad, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
+
+LXVII. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados en forma coherente, para identificar la asignación y aplicación de los recursos presupuestales conforme a la clasificación funcional y programática, económica, geográfica, administrativa, y de género que determine el Consejo para alcanzar el cumplimiento de sus objetivos y metas, de acuerdo con las políticas definidas en el Plan de Desarrollo Institucional que corresponda;
+
+LXVIII. Filtro de salud: La revisión que diariamente se debe practicar a los infantes por personal del CENDI, previo a su ingreso;
+
+LXIX. FIREL: La Firma Electrónica Certificada del Poder Judicial de la Federación;
+
+LXX. Firma electrónica: Es el conjunto de datos y caracteres que permiten la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente a él y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;
+
+LXXI. Firmante: La persona física que utiliza su Certificado Digital de la FIREL para suscribir documentos electrónicos y, en su caso, mensajes de datos;
+
+LXXII. Fondo: Es la prestación o beneficio establecido a favor de los servidores públicos de nivel operativo, que consiste en un Fondo de Reserva Individualizado que otorga el Consejo a quienes manifiesten voluntariamente su decisión de incorporarse a dicho beneficio, teniendo como finalidad fomentar el ahorro;
+
+LXXIII. Fondo de Apoyo: Fondo de Apoyo a la Administración de Justicia;
+
+LXXIV. Gasto programable: Erogaciones que el Consejo realiza en cumplimiento de sus atribuciones de carácter administrativo, en términos de los artículos 100 de la Constitución y 68 de la Ley Orgánica;
+
+LXXV. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de los servidores públicos. Involucra las etapas de: identificación de los riesgos y su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
+
+LXXVI. Guía: Guía de Solicitud y Comprobación de Viáticos y Transportación;
+
+LXXVII. Hospedaje: Importe otorgado al servidor público para cubrir el servicio de hotel cuando la comisión es por más de un día;
+
+LXXVIII. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
+
+LXXIX. Infantes: Los menores que asisten a los CENDI, hijos o pupilos de los servidores públicos que laboran en el Poder Judicial de la Federación;
+
+LXXX. Ingresos excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso a los aprobados al Consejo en el Presupuesto de Egresos de la Federación;
+
+LXXXI. Inmuebles: Los edificios en propiedad o en uso del Poder Judicial de la Federación;
+
+LXXXII. Instalaciones: Los inmuebles, en propiedad o en uso del Poder Judicial de la Federación con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
+
+LXXXIII. Institución: Persona moral de carácter financiero que determine el Pleno, misma que será la responsable de operar y administrar el patrimonio del Fondo;
+
+LXXXIV. Investigación de mercado: En materia de Adquisiciones, Arrendamientos y Servicios se deberá entender como: la verificación sistemática de la existencia de bienes, arrendamiento, servicios, de proveedores o prestadores de servicios a nivel nacional o internacional y del precio estimado basado en la información que se obtenga en el Consejo de organismos públicos o privados, de fabricantes de bienes, o prestadores del servicio, o cualquier otra fuente de información o una combinación de las mismas.
+
+En materia de obra pública se deberá entender como: La verificación de la existencia y costo de materiales, mano de obra, maquinaria y equipo, así como de contratistas, a nivel nacional o internacional, y del precio total estimado de los trabajos, basado en la información que se obtenga en términos del Capítulo Primero, del Título Primero del Libro Tercero de este Acuerdo;
+
+LXXXV. ISSSTE: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+LXXXVI. Justiciable: La persona física que solicite la expedición de un Certificado Digital de la FIREL, distinta a los servidores públicos del Consejo o de los órganos jurisdiccionales;
+
+LXXXVII. Ley de Ingresos: Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;
+
+LXXXVIII. Ley de Presupuesto: Ley Federal de Presupuesto y Responsabilidad Hacendaria;
+
+LXXXIX. Ley del ISSSTE: Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+XC. Ley Federal de los Trabajadores al Servicio del Estado: Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del apartado B) del Artículo 123 Constitucional;
+
+XCI. Ley Orgánica: Ley Orgánica del Poder Judicial de la Federación;
+
+XCII. Llave Privada: Los datos que el Firmante genera de manera secreta y bajo su estricto control al solicitar el Certificado Digital de la FIREL, vinculados de manera única y complementaria con su Llave Pública;
+
+XCIII. Llave Pública: Los datos contenidos en un Certificado Digital de la FIREL que permiten la verificación de la autenticidad de la FIREL del Firmante;
+
+XCIV. Lineamientos específicos: Disposiciones a las cuales se sujetan determinados programas y conceptos de gasto con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos;
+
+XCV. Lista de Valores: Lista de valores mínimos para desechos de bienes muebles que generen las dependencias y entidades de la Administración Pública Federal;
+
+XCVI. Mantenimiento: Acción tendiente a proveer a un bien de lo necesario para lograr su conservación y alargar su vida útil;
+
+XCVII. Mantenimiento y conservación: Actividades relacionadas con la instalación, reparación, mantenimiento y conservación de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en la Ciudad de México y en la zona conurbada;
+
+XCVIII. Medios de comunicación electrónica: La infraestructura tecnológica que permite efectuar la transmisión y recepción de mensajes de datos y de documentos electrónicos;
+
+XCIX. Medios electrónicos: La herramienta tecnológica relacionada con el procesamiento, impresión, despliegue, traslado, conservación y, en su caso, modificación de información;
+
+C. Mensaje de datos: La información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, que puede contener documentos electrónicos;
+
+CI. Mitigación: Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
+
+CII. Observador: Persona física que, a título individual, o en representación de las cámaras, asociaciones empresariales, organizaciones no gubernamentales o instituciones educativas, asiste a los actos públicos de los procedimientos de contratación, sin voz ni voto;
+
+CIII. Operación y supervisión de los sistemas de seguridad: El desarrollo y coordinación de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, que la Coordinación de Seguridad propondrá al Presidente;
+
+CIV. Opinión jurídica: Documento emitido por la Dirección General de Asuntos Jurídicos que contiene el análisis jurídico respecto de las consultas que realicen las áreas administrativas, para la eficaz observancia de la normativa;
+
+CV. Órganos jurisdiccionales: Tribunales de Circuito y juzgados de Distrito;
+
+CVI. Pasajes locales: Traslados realizados por el servidor público dentro de la zona metropolitana de la ciudad en la que se efectué la comisión, a través del servicio del transporte urbano de los que se disponga, siendo entre otros: taxi, autobús y transporte colectivo;
+
+CVII. Patrimonio del Fondo: Es la suma de dinero que se constituye por las aportaciones ordinarias y los rendimientos devengados por éstas y por los préstamos;
+
+CVIII. Peligro: Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
+
+CIX. Percepciones extraordinarias: Estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos a cargo del Consejo, así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones emitidas por el Pleno, la legislación laboral y demás ordenamientos aplicables;
+
+CX. Percepciones ordinarias: Pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado por el Pleno;
+
+CXI. Personal de Seguridad: Los servidores públicos adscritos a la Coordinación de Seguridad, que tienen como actividad preponderante la operación, supervisión y coordinación de los sistemas de seguridad implementados en las instalaciones;
+
+CXII. Personal de Vigilancia: Las personas o corporaciones policiacas contratadas por el Consejo para prestar los servicios de seguridad y vigilancia en las instalaciones;
+
+CXIII. Plan de Contingencia: Plan preventivo con una estructura estratégica y operativa que ayudará a controlar una situación de emergencia y a minimizar sus consecuencias negativas;
+
+CXIV. Pleno: Pleno del Consejo;
+
+CXV. Poder Judicial de la Federación: Los órganos señalados en el artículo 94 de la Constitución, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del Poder Judicial de la Federación;
+
+CXVI. Preparación: Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
+
+CXVII. Presidente: Presidente del Consejo;
+
+CXVIII. Prestación de servicios: Los servicios de custodia, alimentación, medicina preventiva y educación, que se brinda a los menores inscritos en los CENDI;
+
+CXIX. Prestador de servicios: La persona física o moral que otorgue servicios de cualquier naturaleza, salvo los relacionados con obra pública;
+
+CXX. Presupuesto devengado: Reconocimiento de las obligaciones de pago por parte de las unidades ejecutoras de gasto a favor de terceros, por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, así como de las obligaciones de pago que se derivan por mandato de leyes o decretos, resoluciones y sentencias definitivas;
+
+CXXI. Presupuesto de Egresos: Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, los anexos y tomos que lo integran;
+
+CXXII. Presupuesto de Egresos del Poder Judicial de la Federación: Con excepción del de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, es el Presupuesto de Egresos autorizado por el Pleno, que comprende el presupuesto autorizado por la Cámara de Diputados dentro del Presupuesto de Egresos de la Federación, así como las modificaciones derivadas de reducciones líquidas, y en su caso, las ampliaciones líquidas por ingresos excedentes que se obtengan durante el ejercicio;
+
+CXXIII. Presupuesto regularizable de servicios personales: Erogaciones que con cargo al Presupuesto de Egresos del Poder Judicial de la Federación implican un gasto permanente en subsecuentes ejercicios fiscales en materia de servicios personales, por concepto de percepciones ordinarias;
+
+CXXIV. Prevención: Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos;
+
+CXXV. Previsión: Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
+
+CXXVI. Programa Anual de Protección Civil: Programa rector que contiene las Directrices Generales en Materia de Protección Civil a implementarse en el Poder Judicial de la Federación;
+
+CXXVII. Programa Interno de Protección Civil: Instrumento de planeación y operación que se compone por el Plan Operativo para la Unidad Interna de Protección Civil, el Plan para la Continuidad de Operaciones y el Plan de Contingencias y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de una emergencia en los inmuebles;
+
+CXXVIII. Programas de inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura, como a la adquisición y modificación de inmuebles; adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, y mantenimiento;
+
+CXXIX. Protección Civil: Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente;
+
+CXXX. Proveedor: La persona física o moral que suministre o arriende bienes muebles;
+
+CXXXI. Provisión financiera: Fuente de recursos monetarios para atender las necesidades programadas y no programadas que representen una obligación o posibilidad de una erogación, a fin de dar cumplimiento a los objetivos y metas del Consejo;
+
+CXXXII. Reconstrucción: La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
+
+CXXXIII. Recuperación: Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
+
+CXXXIV. Recursos materiales: Los medios materiales y técnicos que hacen factible la operación de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en la Ciudad de México y en la zona conurbada;
+
+CXXXV. Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
+
+CXXXVI. Reembolso: Pago por concepto de gastos realizados en una comisión a favor del servidor público que los erogó, cuando en virtud de la urgencia no se tramitó oportunamente la asignación de viáticos o que por necesidades del servicio se excedieron los recursos asignados;
+
+CXXXVII. Registro automatizado: Registro automatizado de entrada y salida de servidores públicos;
+
+CXXXVIII. Reglas de Operación del Comité: El instrumento así denominado y aprobado por el Comité;
+
+CXXXIX. Rehabilitación costeable y conveniente: Aquélla reparación del bien que no exceda el 50% de su valor comercial;
+
+CXL. Reintegro: Devolución de recursos remanentes de viáticos, a través del sistema de depósitos referenciados por parte del servidor público que los recibió;
+
+CXLI. Relación de Gastos para Comprobación de Viáticos y Transportación: Documento que el servidor público comisionado elabora y entrega al área solicitante con la documentación comprobatoria;
+
+CXLII. Remuneraciones: Retribución económica que constitucionalmente corresponda a los servidores públicos por concepto de percepciones ordinarias y, en su caso, percepciones extraordinarias;
+
+CXLIII. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
+
+CXLIV. Responsabilidad Presupuestaria: La observancia de los principios y las disposiciones aplicables que procuren el equilibrio presupuestario, la disciplina en el gasto y el cumplimiento de las metas aprobadas por el Pleno;
+
+CXLV. Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
+
+CXLVI. Riesgo Inminente: Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
+
+CXLVII. SAE: El organismo descentralizado de la Administración Pública Federal denominado: Servicio de Administración y Enajenación de Bienes, previsto en la Ley Federal para la Administración y Enajenación de Bienes del Sector Público;
+
+CXLVIII. Secretaría de Hacienda: Secretaría de Hacienda y Crédito Público;
+
+CXLIX. Secretaría Técnica del Fondo: La Secretaría Técnica del Fondo de Apoyo;
+
+CL. Seguridad Institucional: Función a cargo del Consejo, que es realizada por medio de la Coordinación de Seguridad, y que tiene como fines preservar la seguridad de los servidores públicos, visitantes, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, y comprende el establecimiento de responsabilidades y actividades que contribuyen en la preservación de la autonomía, independencia e imparcialidad de dicho Poder, en términos de lo establecido en la Constitución;
+
+CLI. Sellos de tiempo: Cadena de caracteres emitidos que indican la hora y fecha de cuándo se firmó, envió, recibió o consultó un mensaje de datos;
+
+CLII. SEP: Secretaría de Educación Pública;
+
+CLIII. SEPJF: El Sistema Electrónico del Poder Judicial de la Federación;
+
+CLIV. Servidores públicos: Los adscritos a los órganos jurisdiccionales y a las áreas administrativas;
+
+CLV. Servicios generales: Son las actividades complementarias relacionadas con la función de apoyo material y logístico, para asegurar de manera permanente, general, regular y continua, que los usuarios de cada edificio puedan desarrollar sus actividades sin ningún obstáculo;
+
+CLVI. Simulacro: Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
+
+CLVII. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
+
+CLVIII. SISAC: Sistema de Seguimiento de Acuerdos de Comisiones;
+
+CLIX. SISE: El Sistema Integral de Seguimiento de Expedientes;
+
+CLX. Sistema de Administración de Viáticos SIAVI: Aplicación informática que permite a las áreas solicitantes gestionar en línea el trámite de solicitud y cancelación de recursos por concepto de viáticos y transportación para el desempeño de comisiones;
+
+CLXI. Sistema de Contabilidad: Conjunto de registros, procedimientos, criterios e informes, estructurados sobre la base de principios técnicos comunes destinados a capturar, valuar, registrar, clasificar, informar e interpretar, las transacciones, transformaciones y eventos que, derivados de la actividad económica, modifican la situación patrimonial de los rubros a cargo del Consejo;
+
+CLXII. Sistema electrónico presupuestal: Sistema informático en el que los usuarios registran, procesan, tramitan, contabilizan y archivan todas las operaciones que afectan al presupuesto en sus diferentes momentos, conforme a lo dispuesto en las normas y procedimientos vigentes;
+
+CLXIII. Sistema Informático SAP: Herramienta informática que permite realizar el registro presupuestal y contable de la comprobación de viáticos y transportación y, en su caso, el reembolso correspondiente;
+
+CLXIV. Sistemas de Seguridad: Conjunto de equipos, accesorios, programas, información, normas, procedimientos, entre otros medios, que interrelacionados e integrados, tienen como objetivo establecer los controles y la generación de información que permita mantener condiciones de Seguridad Institucional;
+
+CLXV. Sociedades de Inversión: Son instituciones financieras especializadas, que tienen por objeto la adquisición de valores y documentos seleccionados de acuerdo a un criterio de diversificación de riesgos establecidos previamente, el cual será constituido exclusivamente por valores gubernamentales que ofrezcan las mejores condiciones de mercado;
+
+CLXVI. Solicitud de Viáticos y Transportación: Documento o trámite vía electrónica en el que consta la petición oficial de recursos por conceptos de viáticos y transportación del área solicitante; en éste se consigna el objetivo, funciones, temporalidad y lugar donde debe llevarse a cabo la comisión y que constituye la justificación integral del gasto, producto de una comisión, siendo las áreas responsables de su trámite la Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas;
+
+CLXVII. Subejercicio de gasto: Disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso formal de su ejecución;
+
+CLXVIII. Sueldo Básico: Es el sueldo base más la compensación de apoyo que refleja el tabulador de sueldos del Consejo vigente;
+
+CLXIX. Tarifa de viáticos para comisión internacional: Importe diario que se otorga a los servidores públicos en la divisa que corresponda, para la realización de una comisión internacional, en el cual no se incluyen recursos para el hospedaje, ya que éste se otorga de conformidad con la cotización obtenida y la reservación realizada;
+
+CLXX. Tarifa de viáticos sin pernocta: Importe diario que se otorga a los servidores públicos para la realización de una comisión en la que no se requiera el servicio de hospedaje;
+
+CLXXI. Tarifa total unificada: Importe diario que se otorga a los servidores públicos que al efectuar una comisión nacional, requieren pernoctar en la ciudad de la comisión; se integra de la suma de la tarifa de viáticos sin pernocta más la correspondiente a hospedaje de conformidad con las tarifas aprobadas por la Comisión de Administración;
+
+CLXXII. Taxis para traslado: Importe que se otorga a los servidores públicos para abordar los taxis que les permitan trasladarse de casa-aeropuerto-hotel y viceversa; casa-central camionera-hotel y viceversa, aeropuerto-instalaciones del Poder Judicial de la Federación y viceversa; así como central camionera-instalaciones del Poder Judicial de la Federación y viceversa;
+
+CLXXIII. Testigo Social: Las organizaciones no gubernamentales y las personas físicas que cuenten con el registro correspondiente ante el Consejo y que, de conformidad con el presente acuerdo, participan con derecho a voz en todas las etapas de los procedimientos de contratación, desde su inicio hasta la formal terminación del contrato. En el supuesto de invitación a terceros también participarán en la revisión del proyecto de invitación; tratándose de concurso público sumario en la revisión de la solicitud de cotización, y en el caso de licitación pública, en la revisión de los proyectos de convocatoria y de las bases;
+
+CLXXIV. Transferencias: Movimientos de recursos financieros, materiales y plazas de personal entre los órganos del Poder Judicial de la Federación, con el fin de fortalecer la función jurisdiccional, de conformidad con las disposiciones normativas correspondientes;
+
+CLXXV. Transportación: Recursos económicos entregados al servidor público para su traslado al lugar donde se efectuará la comisión nacional e internacional, pudiendo ser para los siguientes medios de transporte: avión, tren, autobús, barco (ferry) y automóvil;
+
+CLXXVI. UNCOCEFI: La Unidad para el Control de Certificación de Firmas del Consejo;
+
+CLXXVII. Unidad: La Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas;
+
+CLXXVIII. Unidad de Medida y Actualización: La Unidad de Medida y Actualización contemplada en los párrafos sexto y séptimo del Apartado B, del artículo 26, de la Constitución Política de los Estados Unidos Mexicanos;
+
+CLXXIX. Unidad de Registro y Control de Asistencia: Encargada de la implementación, operación y funcionamiento del Registro, dependiente de la Dirección General de Recursos Humanos;
+
+CLXXX. Unidad Interna de Protección Civil: Órgano operativo cuyo ámbito de acción se circunscribe a las instalaciones o Inmuebles ubicados en la Ciudad de México, zona conurbada e interior de la República Mexicana, responsable de implementar, desarrollar, evaluar y mejorar continuamente las etapas de la Gestión Integral de Riesgos, así como elaborar, implementar y coordinar el Programa Interno de Protección Civil correspondiente. La responsabilidad de la coordinación, operación y funcionamiento de la Unidad Interna de Protección Civil recae en los Administradores de los edificios ubicados en la Ciudad de México, zona conurbada, así como los de los Administradores Regionales;
+
+CLXXXI. Unidades administrativas: Aquellas que determine el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo;
+
+CLXXXII. Unidades Administrativas Foráneas: Administraciones Regionales y Delegaciones Administrativas responsables de gestionar la asignación, así como de recibir y registrar la comprobación de los recursos otorgados por concepto de viáticos y transportación, para el desempeño de las comisiones en el ámbito regional;
+
+CLXXXIII. Unidades ejecutoras de gasto: Áreas administrativas y unidades globalizadoras;
+
+CLXXXIV. Unidades globalizadoras: Unidades del Consejo responsables de administrar y ejercer el presupuesto de las partidas de gasto de manera consolidada conforme a sus atribuciones;
+
+CLXXXV. Usuarios Finales: Los servidores públicos del Consejo y de los órganos jurisdiccionales, así como los justiciables que soliciten o hagan uso de un Certificado Digital de la FIREL;
+
+CLXXXVI. Viáticos: Recursos otorgados a los servidores públicos para cubrir los gastos necesarios en el cumplimiento de una comisión, tales como: alimentación, hospedaje, propinas, pasajes locales, llamadas telefónicas, entre otros;
+
+CLXXXVII. Vida útil: Tiempo de uso según norma del fabricante, régimen fiscal, tecnología y otras;
+
+CLXXXVIII. Visitantes: Las personas físicas distintas de los servidores públicos que ingresen a las instalaciones;
+
+CLXXXIX. Volante de Autorización Presupuestal: Documento por el cual se autoriza el ejercicio del Presupuesto para cubrir el pago de servicios personales, adquisición de bienes, prestación de servicios, y obra pública, a través de la presentación de facturas, recibos, resumen general de nóminas, o cualquier otro documento que pueda comprobar el pago; y
+
+CXC. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales.
 
 ###### Artículo 3.
 
-Para efectos del Capítulo Octavo, del Título Primero del Libro Segundo de este Acuerdo, se entenderá por:
-
-I. Auxiliar de Asistencia y Puntualidad: Coordinador Técnico Administrativo de los órganos jurisdiccionales o el servidor público designado por el titular del área administrativa que corresponda, así como el servidor público que lo supla en caso de ausencia por determinación del titular respectivo;
-
-II. Registro: Registro automatizado de entrada y salida de servidores públicos; y
-
-III. Unidad de Registro y Control de Asistencia: Encargada de la implementación, operación y funcionamiento del Registro, dependiente de la Dirección General de Recursos Humanos.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 4.
 
@@ -219,479 +563,51 @@ III. Unidad de Registro y Control de Asistencia: Encargada de la implementación
 
 ###### Artículo 5.
 
-Para efectos del Capítulo Tercero del Título Segundo del Libro Segundo de este Acuerdo se entenderá por:
-
-I. Aportación Ordinaria: Son las aportaciones que realiza el servidor público al Fondo, por un porcentaje del 2%, 5% o el 10% del monto de su sueldo básico y que se deduce a través del sistema de nómina. Así como, la cantidad de dinero que cubra el Consejo por cuenta y en nombre del servidor público por un monto igual al 2%, 5% o el 10% por el que haya optado el servidor público de su sueldo básico;
-
-II. Baja: Separación definitiva del Poder Judicial de la Federación, independientemente de la causa que lo origine;
-
-III. Comité de Inversión: Comité de Inversión de Recursos Financieros del Consejo de la Judicatura Federal;
-
-IV. Fondo: Es la prestación o beneficio establecido a favor de los servidores públicos de nivel operativo, que consiste en un Fondo de Ahorro o de reserva individualizado que otorga el Consejo a quienes manifiesten voluntariamente su decisión de incorporarse a dicho beneficio, teniendo como finalidad fomentar el ahorro;
-
-V. Institución: Persona moral de carácter financiero que determine el Pleno, misma que será la responsable de operar y administrar el patrimonio del Fondo;
-
-VI. Patrimonio del Fondo: Es la suma de dinero que se constituye por las aportaciones ordinarias y los rendimientos devengados por éstas y por los préstamos;
-
-VII. Servidores públicos: Personal operativo adscrito a los órganos jurisdiccionales o las áreas administrativas;
-
-VIII. Sociedades de Inversión: Son instituciones financieras especializadas, que tienen por objeto la adquisición de valores y documentos seleccionados de acuerdo a un criterio de diversificación de riesgos establecidos previamente, el cual será constituido exclusivamente por valores gubernamentales que ofrezcan las mejores condiciones de mercado; y
-
-IX. Sueldo Básico: Es el sueldo base más la compensación de apoyo que refleja el tabulador de sueldos del Consejo vigente.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 6.
 
-Para efectos del Capítulo Cuarto del Título Segundo del Libro Segundo de este Acuerdo se entenderá por:
-
-I. Director del CENDI: Servidor público encargado del CENDI respectivo;
-
-II. Filtro de salud: La revisión que diariamente se debe practicar a los infantes por personal del CENDI, previo a su ingreso;
-
-III. Infantes: Los menores que asisten a los CENDI, hijos o pupilos de los servidores públicos que laboran en el Poder Judicial de la Federación;
-
-IV. Personal: Los servidores públicos que laboran en los CENDI;
-
-V. Prestación de servicios: Los servicios de custodia, alimentación, medicina preventiva y educación, que se brinda a los menores inscritos en los CENDI;
-
-VI. SEP: Secretaría de Educación Pública;
-
-VII. Supervisor: Titular de la Dirección de los CENDI y de las Estancias Infantiles; y
-
-VIII. Trabajador: Los servidores públicos que laboren en el Poder Judicial de la Federación, y cuyos menores disfruten de los servicios que brinda el CENDI.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 7.
 
-Para efectos del Capítulo Primero, del Título Primero del Libro Tercero de este Acuerdo se entenderá por:
-
-I. Área administradora del contrato: El área de adquisiciones o de obra según corresponda;
-
-II. Áreas asesoras: Las direcciones generales de Recursos Materiales; de Servicios Generales; de Inmuebles y Mantenimiento; y de Tecnologías de la Información, en el ámbito de su competencia;
-
-III. Área de Adquisiciones: Las direcciones generales de Recursos Materiales; de Servicios Generales; Administradores de Edificios, y la Coordinación de Administración Regional, incluso a través de sus Administraciones Regionales y Delegaciones Administrativas, según corresponda de acuerdo a su competencia;
-
-IV. Área de Obras: La Dirección General de Inmuebles y Mantenimiento y, en su caso, los Administradores de Edificios, y la Coordinación de Administración Regional, incluso a través de sus Administraciones Regionales y Delegaciones Administrativas;
-
-V. Áreas Operativas: Las Direcciones Generales de Inmuebles y Mantenimiento; de Recursos Materiales; y de Servicios Generales, la Coordinación de Administración Regional; las Administraciones Regionales y las Administraciones de Edificios en el Distrito Federal y zona conurbada;
-
-VI. Área requirente: La que solicita o requiere formal u orgánicamente la adquisición o arrendamiento de bienes o la prestación de servicios; así como la obra pública o servicios relacionados con la misma;
-
-VII. Área técnica: El órgano administrativo que cuenta con competencia para resolver sobre especificaciones, características y demás aspectos técnicos de los bienes, servicios, obra pública y servicios relacionados con la misma que solicite el área requirente;
-
-VIII. Comité: El Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 1 DE JUNIO DE 2015)</small>
-
-IX. CompraNet: El sistema electrónico de información pública gubernamental, a que hacen alusión los artículos 2, fracciones II, de las leyes de Adquisiciones, Arrendamientos y Servicios del Sector Público; y de Obras Públicas y Servicios Relacionados con las Mismas;
-
-X. Contratista: La persona física o moral con la que se celebren contratos de obra pública, de servicios relacionados con la misma o de cualquier naturaleza, según corresponda;
-
-XI. Días Hábiles: Los días que se labore en el Consejo, comprendiéndose todos los del año, excluyéndose los sábados, domingos y los que establece como inhábiles el artículo 163 de la Ley Orgánica, así como los que determine el Pleno.
-
-En los periodos de receso o de vacaciones del Consejo, con motivo de los trabajos que se pacten a desarrollar por los proveedores, contratistas o prestadores de servicios en días inhábiles, las Áreas de Adquisiciones y de Obras mantendrán el personal suficiente para el debido cumplimiento de los actos materia del Capítulo Primero, del Título Primero del Libro Tercero de este Acuerdo;
-
-XII. Investigación de mercado: En materia de Adquisiciones, Arrendamientos y Servicios se deberá entender como: la verificación sistemática de la existencia de bienes, arrendamiento, servicios, de proveedores o prestadores de servicios a nivel nacional o internacional y del precio estimado basado en la información que se obtenga en el Consejo de organismos públicos o privados, de fabricantes de bienes, o prestadores del servicio, o cualquier otra fuente de información o una combinación de las mismas.
-
-En materia de obra pública se deberá entender como: La verificación de la existencia y costo de materiales, mano de obra, maquinaria y equipo, así como de contratistas, a nivel nacional o internacional, y del precio total estimado de los trabajos, basado en la información que se obtenga en términos del Capítulo Primero, del Título Primero del Libro Tercero de este Acuerdo;
-
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
-
-XIII. Observador: Persona física que, a título individual, o en representación de las cámaras, asociaciones empresariales, organizaciones no gubernamentales o instituciones educativas, asiste a los actos públicos de los procedimientos de contratación, sin voz ni voto;
-
-XIV. Prestador de servicios: La persona física o moral que otorgue servicios de cualquier naturaleza, salvo los relacionados con obra pública;
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
-
-XV. Proveedor: La persona física o moral que suministre, arriende bienes muebles o preste servicios, y
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
-
-XVI. Testigo social: Las organizaciones no gubernamentales y las personas físicas que cuenten con el registro correspondiente ante el Consejo y que, de conformidad con el presente acuerdo, participan con derecho a voz en todas las etapas de los procedimientos de contratación, desde su inicio hasta la formal terminación del contrato. En el supuesto de invitación a terceros también participarán en la revisión del proyecto de invitación; tratándose de concurso público sumario en la revisión de la solicitud de cotización, y en el caso de licitación pública, en la revisión de los proyectos de convocatoria y de las bases.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 8.
 
-Para los efectos del Capítulo Primero, del Título Segundo del Libro Tercero de este Acuerdo se entenderá por:
-
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 12 DE JUNIO DE 2015)</small>
-
-I. Áreas Operativas: La Dirección General de Recursos Materiales; la Dirección General de Servicios Generales, por conducto de los Administradores de Edificios; la Dirección General de Inmuebles y Mantenimiento; la Dirección General de Tecnologías de la Información; y la Coordinación de Administración Regional por conducto de las Administraciones Regionales y Delegaciones Administrativas;
-
-II. Asesores: Persona o personas que prestarán asesoría al Comité;
-
-III. Avalúo: El resultado del proceso de estimar en dinero el valor de los bienes por parte de los valuadores facultados para desarrollar dicha actividad;
-
-IV. Bienes: Los bienes muebles, instrumentales y de consumo, que figuren en los inventarios del Consejo.
-
-Se ubican también dentro de esta definición los bienes muebles que por su naturaleza, en los términos del artículo 751 del Código Civil Federal, se hayan considerado como inmuebles y que hubieren recobrado su calidad de muebles por las razones que en el mismo precepto se establecen;
-
-V. Bienes de consumo: Los que por su utilización en el desarrollo de las actividades que realizan los órganos jurisdiccionales y áreas administrativas, tienen un desgaste parcial o total y son controlados a través de un registro global en sus inventarios, dada su naturaleza y finalidad en el servicio;
-
-VI. Bienes instrumentales: Los considerados como implementos o medios para el desarrollo de las actividades que realizan los órganos jurisdiccionales, y áreas administrativas, siendo susceptibles de la asignación de un número de inventario dada su naturaleza y finalidad en el servicio;
-
-VII. Bienes no útiles: Los que por su estado físico o cualidades técnicas no resulten funcionales, no se requieran para el servicio al cual se destinaron o sea inconveniente seguirlos utilizando;
-
-VIII. Comité: El Comité de Desincorporación de Bienes Muebles;
-
-IX. Contratista: La persona física o moral con la que se celebren contratos;
-
-X. Desechos: Los bienes muebles que por sus condiciones físicas se consideran desperdicios;
-
-XI. Destino final: La determinación de enajenar, donar, permutar, transferir, destruir u otorgar en dación en pago los bienes no útiles;
-
-XII. Día Hábil: Los días de labores del Consejo, comprendiéndose, los que se encuentran dentro de los periodos de sesiones conforme al artículo 70 de la Ley Orgánica, excluyéndose los sábados y domingos, los que la propia Ley Orgánica establece como inhábiles en el artículo 163, así como los que determine el Pleno;
-
-XIII. Mantenimiento: Acción tendiente a proveer a un bien de lo necesario para lograr su conservación y alargar su vida útil;
-
-XIV. Rehabilitación costeable y conveniente: Aquélla reparación del bien que no exceda el 50% de su valor comercial;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
-
-XV. Unidad de Medida y Actualización: La Unidad de Medida y Actualización contemplada en los párrafos sexto y séptimo del Apartado B, del artículo 26, de la Constitución Política de los Estados Unidos Mexicanos; y
-
-XVI. Vida útil: Tiempo de uso según norma del fabricante, régimen fiscal, tecnología, etcétera.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 9.
 
-Para los efectos del Capítulo Segundo, del Título Segundo del Libro Tercero de este Acuerdo se entenderá por:
-
-I. Administración Regional: Coordinación de Administración Regional, y administradores regionales y delegados administrativos, cuando cuenten con la autorización de la propia Coordinación;
-
-II. Bienes asegurados no reclamados: Los bienes muebles, inmuebles o derechos reales relacionados con procesos penales federales de los cuales se haya ordenado su devolución y que no hayan sido recogidos por quien tenga derecho a ello, en los plazos previstos por el Código Penal Federal, y se hayan puesto a disposición del Consejo para determinar su destino final;
-
-III. Bienes decomisados: Los bienes muebles, inmuebles o derechos reales que por resolución firme hayan adquirido ese carácter, en términos del artículo 40 del Código Penal Federal, puestos a disposición del Consejo;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
-
-IV. Bienes incosteables: Aquellos distintos a numerario, cuyo valor comercia (sic) sea inferior a sus costos de administración; a los gastos inherentes a obtener su disponibilidad, o bien que tengan un valor menor al equivalente a seis veces el valor mensual de la Unidad de Medida y Actualización;
-
-V. Costos de administración: La suma de todos los gastos, tanto directos como indirectos, que se requieran para la conservación, mantenimiento, supervisión, custodia, destrucción o enajenación de un bien, tales como los pagos que se generen por concepto de honorarios, pagos a terceros especializados, servicios de vigilancia, transporte, embalaje, almacenamiento, avalúos, contribuciones, seguros y energía eléctrica, entre otros, que se vinculen estrictamente con el bien de que se trate;
-
-VI. Registro: Registro de bienes asegurados no reclamados y decomisados puestos a disposición del Consejo, de los cuales se haya expedido el certificado de disponibilidad; y
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
-
-VII. Unidad de Medida y Actualización: La Unidad de Medida y Actualización contemplada en los párrafos sexto y séptimo del Apartado B, del artículo 26, de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 10.
 
-Para los efectos del Capítulo Segundo del Título Tercero del Libro Tercero de este Acuerdo:
-
-I. Administraciones de edificios: Las unidades operativas encargadas de la administración de los edificios en propiedad o en uso del Consejo de la Judicatura Federal, ubicados en el Distrito Federal y en la zona conurbada;
-
-II. Órganos jurisdiccionales: Los órganos jurisdiccionales ubicados en el Distrito Federal y en la zona conurbada;
-
-III. Órganos administrativos: Las áreas administrativas ubicadas en el Distrito Federal y en la zona conurbada;
-
-IV. Inmuebles del Poder Judicial de la Federación: Los edificios en propiedad o en uso del Consejo, ubicados en el Distrito Federal y en la zona conurbada;
-
-V. Recursos materiales: Los medios materiales y técnicos que hacen factible la operación de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en el Distrito Federal y en la zona conurbada;
-
-VI. Servicios generales: Son las actividades complementarias relacionadas con la función de apoyo material y logístico, para asegurar de manera permanente, general, regular y continua, que los usuarios de cada edificio puedan desarrollar sus actividades sin ningún obstáculo; y
-
-VII. Mantenimiento y conservación: Son las actividades relacionadas con la instalación, reparación, mantenimiento y conservación de los edificios en propiedad o en uso del Poder Judicial de la Federación, ubicados en el Distrito Federal y en la zona conurbada.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 11.
 
-Para los efectos del Título Primero del Libro Cuarto de este Acuerdo se entenderá por:
-
-I. Adecuaciones presupuestarias: Modificaciones que se realizan durante el ejercicio, al presupuesto autorizado o los ajustes a los calendarios financieros, con el fin de permitir un mejor cumplimiento de los objetivos y programas autorizados. Las adecuaciones comprenden traspasos compensados, ampliaciones y reducciones líquidas de recursos;
-
-II. Ahorro presupuestario: Remanentes de recursos del presupuesto modificado una vez que se hayan cumplido las metas establecidas;
-
-III. Apoyos: Erogaciones, sujetas a comprobación, de conformidad con los lineamientos, montos y periodicidad aprobados por los órganos de gobierno, que podrán realizarse para que los servidores públicos estén en aptitud de desempeñar las funciones inherentes a su cargo;
-
-IV. Auditoría: Auditoría Superior de la Federación;
-
-V. Certificación de Disponibilidad Presupuestal: Validación de la existencia de recursos presupuestales para un destino de gasto específico, con objeto de respaldar la solicitud de autorización para la adquisición o contratación de un bien o servicio ante la instancia competente, incluyendo los correspondientes a servicios personales;
-
-VI. Clasificador por Objeto del Gasto: Instrumento que define y permite registrar de manera ordenada, sistemática y homogénea las compras, los pagos y las erogaciones autorizados en capítulos, conceptos y partidas con base en la clasificación económica del gasto;
-
-VII. Cuenta Pública: Cuenta de la Hacienda Pública Federal;
-
-VIII. Documento de Afectación Presupuestal: Documento que se elabora para efectos de registrar el compromiso de recursos presupuestales autorizados, a través de la presentación de los contratos, convenios, pedidos, órdenes de trabajo y de servicio, así como cualquier otro documento que represente una obligación de pago a cargo del Consejo;
-
-IX. Economías: Remanentes de recursos no devengados del presupuesto modificado;
-
-X. Eficacia en la aplicación del gasto público: Lograr en el ejercicio fiscal los objetivos y las metas programadas en los términos del citado Capítulo y demás disposiciones aplicables;
-
-XI. Eficiencia en el ejercicio del gasto público: Ejercicio del Presupuesto de Egresos del Poder Judicial de la Federación en tiempo y forma, en los términos del citado Capítulo y demás disposiciones aplicables;
-
-> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
-
-XII. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados en forma coherente, para identificar la asignación y aplicación de los recursos presupuestales conforme a la clasificación funcional y programática, económica, geográfica, administrativa, y de género que determine el Consejo para alcanzar el cumplimiento de sus objetivos y metas, de acuerdo con las políticas definidas en el Plan de Desarrollo Institucional que corresponda;
-
-XIII. Gasto programable: Erogaciones que el Consejo realiza en cumplimiento de sus atribuciones de carácter administrativo, en términos de los artículos 100 de la Constitución y 68 de la Ley Orgánica;
-
-XIV. Informes trimestrales: Informes sobre la situación financiera que el Consejo presenta a las autoridades correspondientes en términos de la legislación aplicable;
-
-XV. Ingresos excedentes: Recursos que durante el ejercicio fiscal se obtienen en exceso a los aprobados al Consejo en el Presupuesto de Egresos de la Federación;
-
-XVI. Ley de Ingresos: la Ley de Ingresos de la Federación para el ejercicio fiscal correspondiente;
-
-XVII. Ley de Presupuesto: Ley Federal de Presupuesto y Responsabilidad Hacendaria;
-
-XVIII. Lineamientos específicos: Disposiciones a las cuales se sujetan determinados programas y conceptos de gasto con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos;
-
-XIX. Percepciones extraordinarias: Estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos a cargo del Consejo, así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones emitidas por el Pleno, la legislación laboral y demás ordenamientos aplicables;
-
-XX. Percepciones ordinarias: Pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado por el Pleno;
-
-XXI. Presupuesto de Egresos: Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente, los anexos y tomos que lo integran;
-
-> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
-
-XXII. Presupuesto de Egresos del Poder Judicial de la Federación: Con excepción del de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, es el Presupuesto de Egresos autorizado por el Pleno, que comprende el presupuesto autorizado por la Cámara de Diputados dentro del Presupuesto de Egresos de la Federación, así como las modificaciones derivadas de reducciones líquidas, y en su caso, las ampliaciones líquidas por ingresos excedentes que se obtengan durante el ejercicio;
-
-XXIII. Presupuesto devengado: Reconocimiento de las obligaciones de pago por parte de las unidades ejecutoras de gasto a favor de terceros, por los compromisos o requisitos cumplidos por éstos conforme a las disposiciones aplicables, así como de las obligaciones de pago que se derivan por mandato de leyes o decretos, resoluciones y sentencias definitivas;
-
-XXIV. Presupuesto regularizable de servicios personales: Erogaciones que con cargo al Presupuesto de Egresos del Poder Judicial de la Federación implican un gasto permanente en subsecuentes ejercicios fiscales en materia de servicios personales, por concepto de percepciones ordinarias;
-
-XXV. Programas de inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública en infraestructura, como a la adquisición y modificación de inmuebles; adquisiciones de bienes muebles asociadas a estos programas, y rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, y mantenimiento;
-
-XXVI. Provisión financiera: Fuente de recursos monetarios para atender las necesidades programadas y no programadas que representen una obligación o posibilidad de una erogación, a fin de dar cumplimiento a los objetivos y metas del Consejo;
-
-XXVII. Remuneraciones: Retribución económica que constitucionalmente corresponda a los servidores públicos por concepto de percepciones ordinarias y, en su caso, percepciones extraordinarias;
-
-XXVIII. Responsabilidad Presupuestaria: La observancia de los principios y las disposiciones aplicables que procuren el equilibrio presupuestario, la disciplina en el gasto y el cumplimiento de las metas aprobadas por el Pleno;
-
-XXIX. Secretaría de Hacienda: Secretaría de Hacienda y Crédito Público;
-
-> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2017)</small>
-
-XXIX Bis. Sistema electrónico presupuestal: Sistema informático en el que los usuarios registran, procesan, tramitan, contabilizan y archivan todas las operaciones que afectan al presupuesto en sus diferentes momentos, conforme a lo dispuesto en las normas y procedimientos vigentes;
-
-> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2017)</small>
-
-XXIX Ter. Sistema de Contabilidad: Conjunto de registros, procedimientos, criterios e informes, estructurados sobre la base de principios técnicos comunes destinados a capturar, valuar, registrar, clasificar, informar e interpretar, las transacciones, transformaciones y eventos que, derivados de la actividad económica, modifican la situación patrimonial de los rubros a cargo del Consejo;
-
-XXX. Sistema Institucional de Evaluación: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer el impacto social de los programas y de los proyectos;
-
-XXXI. Subejercicio de gasto: Disponibilidades presupuestarias que resultan, con base en el calendario de presupuesto, sin cumplir las metas contenidas en los programas o sin contar con el compromiso formal de su ejecución;
-
-XXXII. Transferencias: Movimientos de recursos financieros, materiales y plazas de personal entre los órganos del Poder Judicial de la Federación, con el fin de fortalecer la función jurisdiccional, de conformidad con las disposiciones normativas correspondientes;
-
-> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2017)</small>
-
-XXXII Bis. Unidades Administrativas Foráneas: Administraciones Regionales y Delegaciones Administrativas;
-
-XXXIII. Unidades ejecutoras de gasto: áreas administrativas y unidades globalizadoras;
-
-XXXIV. Unidades globalizadoras: Unidades del Consejo responsables de administrar y ejercer el presupuesto de las partidas de gasto de manera consolidada conforme a sus atribuciones; y
-
-XXXV. Volante de Autorización Presupuestal: Documento por el cual se autoriza el ejercicio del Presupuesto para cubrir el pago de servicios personales, adquisición de bienes, prestación de servicios, y obra pública, a través de la presentación de facturas, recibos, resumen general de nóminas, o cualquier otro documento que pueda comprobar el pago.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 11 Bis.
 
-Para los efectos del Título Primero Bis del Libro Cuarto de este Acuerdo se entenderá por:
-
-I. Adscripción: La asignación de un servidor público a un órgano jurisdiccional o área administrativa en la que prestan sus servicios o ejercen sus funciones;
-
-II. Área solicitante: Área administrativa y órgano jurisdiccional solicitante;
-
-III. Comisión: Actividad asignada a los servidores públicos, inherente a su función, que realizan fuera de una faja de 50 kilómetros que circunde al lugar de su adscripción;
-
-IV. Documentación comprobatoria: Los comprobantes electrónicos (pdf y xml) de gastos y su representación impresa efectuados por concepto de viáticos y transportación que cumplen con los requisitos fiscales vigentes al momento de su emisión, acompañada de la Relación de Gastos para Comprobación de Viáticos y Transportación;
-
-V. Documentación justificatoria: Los documentos originales que deben obrar en los expedientes de las áreas solicitantes, que permiten tramitar y justificar la asignación de viáticos y transportación, para que un servidor público efectúe una comisión;
-
-VI. Guía: Guía de Solicitud y Comprobación de Viáticos y Transportación;
-
-VII. Hospedaje: Importe otorgado al servidor público para cubrir el servicio de hotel cuando la comisión es por más de un día;
-
-VIII. Relación de Gastos para Comprobación de Viáticos y Transportación: Documento que el servidor público comisionado elabora y entrega al área solicitante con la documentación comprobatoria;
-
-IX. Pasajes locales: Traslados realizados por el servidor público dentro de la zona metropolitana de la ciudad en la que se efectué la comisión, a través del servicio del transporte urbano de los que se disponga, siendo entre otros: taxi, autobús y transporte colectivo;
-
-X. Reembolso: Pago por concepto de gastos realizados en una comisión a favor del servidor público que los erogó, cuando en virtud de la urgencia no se tramitó oportunamente la asignación de viáticos o que por necesidades del servicio se excedieron los recursos asignados;
-
-XI. Reintegro: Devolución de recursos remanentes de viáticos, a través del sistema de depósitos referenciados por parte del servidor público que los recibió;
-
-XII. Sistema de Administración de Viáticos SIAVI: Aplicación informática que permite a las áreas solicitantes gestionar en línea el trámite de solicitud y cancelación de recursos por concepto de viáticos y transportación para el desempeño de comisiones;
-
-XIII. Sistema Informático SAP: Herramienta informática que permite realizar el registro presupuestal y contable de la comprobación de viáticos y transportación y, en su caso, el reembolso correspondiente;
-
-XIV. Solicitud de Viáticos y Transportación: Documento o trámite vía electrónica en el que consta la petición oficial de recursos por conceptos de viáticos y transportación del área solicitante; en éste se consigna el objetivo, funciones, temporalidad y lugar donde debe llevarse a cabo la comisión y que constituye la justificación integral del gasto, producto de una comisión, siendo las áreas responsables de su trámite la Dirección General de Tesorería y las Unidades Administrativas Foráneas;
-
-XV. Tarifa de viáticos sin pernocta: Importe diario que se otorga a los servidores públicos para la realización de una comisión en la que no se requiera el servicio de hospedaje;
-
-XVI. Tarifa de viáticos para comisión internacional: Importe diario que se otorga a los servidores públicos en la divisa que corresponda, para la realización de una comisión internacional, en el cual no se incluyen recursos para el hospedaje, ya que éste se otorga de conformidad con la cotización obtenida y la reservación realizada;
-
-XVII. Tarifa total unificada: Importe diario que se otorga a los servidores públicos que al efectuar una comisión nacional, requieren pernoctar en la ciudad de la comisión; se integra de la suma de la tarifa de viáticos sin pernocta más la correspondiente a hospedaje de conformidad con las tarifas aprobadas por la Comisión de Administración;
-
-XVIII. Taxis para traslado: Importe que se otorga a los servidores públicos para abordar los taxis que les permitan trasladarse de casa-aeropuerto-hotel y viceversa; casa-central camionera-hotel y viceversa, aeropuerto-instalaciones del Poder Judicial de la Federación y viceversa; así como central camionera-instalaciones del Poder Judicial de la Federación y viceversa;
-
-XIX. Transportación: Recursos económicos entregados al servidor público para su traslado al lugar donde se efectuará la comisión nacional e internacional, pudiendo ser para los siguientes medios de transporte: avión, tren, autobús, barco (ferry) y automóvil;
-
-XX. Unidades Administrativas Foráneas: Administraciones Regionales y Delegaciones Administrativas responsables de gestionar la asignación, así como de recibir y registrar la comprobación de los recursos otorgados por concepto de viáticos y transportación, para el desempeño de las comisiones en el ámbito regional; y
-
-XXI. Viáticos: Recursos otorgados a los servidores públicos para cubrir los gastos necesarios en el cumplimiento de una comisión, tales como: alimentación, hospedaje, propinas, pasajes locales, llamadas telefónicas, entre otros.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 12.
 
-Para los efectos del Capítulo Segundo, del Título Segundo del Libro Cuarto de este Acuerdo se entenderá por:
-
-I. Comité: El Comité Técnico del Fondo de Apoyo, integrado por el Presidente y los otros seis Consejeros;
-
-II. Comité de Inversión: El Comité de Inversión de Recursos Financieros del Consejo;
-
-III. Reglas de Operación del Comité: El instrumento así denominado y aprobado por el Comité;
-
-IV. Secretaría Técnica del Fondo: La Secretaría Técnica del Fondo de Apoyo;
-
-V. Secretario Técnico: El titular de la Secretaría Técnica del Fondo de Apoyo; y
-
-VI. SISE: El Sistema Integral de Seguimiento de Expedientes de la Dirección General de Estadística Judicial.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 13.
 
-Para los efectos del Capítulo Primero, del Título Segundo del Libro Quinto de este Acuerdo se entenderá por:
-
-I. Administración de Inmuebles: La Dirección General de Servicios Generales, a través de los administradores de los Inmuebles ubicados en el Distrito Federal y en la zona conurbada, y la Coordinación de Administración Regional, por medio de las Administraciones Regionales o Delegaciones Administrativas, tratándose de los inmuebles ubicados en el interior de la República;
-
-II. Coordinación de Seguridad: La Coordinación de Seguridad del Poder Judicial de la Federación;
-
-III. Instalaciones: Los inmuebles del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral;
-
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
-
-IV. Operación y supervisión de los sistemas de seguridad: El desarrollo y coordinación de los planes, programas, procedimientos y sistemas, tendentes a preservar la seguridad de los servidores públicos, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, que la Coordinación de Seguridad propondrá al Presidente;
-
-V. Personal de Seguridad: Los Servidores Públicos adscritos a la Coordinación de Seguridad, que tienen como actividad preponderante la operación, supervisión y coordinación de los sistemas de seguridad implementados en las instalaciones;
-
-VI. Personal de Vigilancia: Las personas o corporaciones policiacas contratadas por el Consejo para prestar los servicios de seguridad y vigilancia en las instalaciones;
-
-VII. Seguridad Institucional: Función a cargo del Consejo, que es realizada por medio de la Coordinación de Seguridad, y que tiene como fines preservar la seguridad de los servidores públicos, visitantes, instalaciones, equipos y demás bienes del Poder Judicial de la Federación, y comprende el establecimiento de responsabilidades y actividades que contribuyen en la preservación de la autonomía, independencia e imparcialidad de dicho Poder, en términos de lo establecido en la Constitución;
-
-VIII. Servidores Públicos: Los adscritos a los órganos jurisdiccionales y a las áreas administrativas;
-
-IX. Sistemas de Seguridad: Conjunto de equipos, accesorios, programas, información, normas, procedimientos, entre otros medios, que interrelacionados e integrados, tienen como objetivo establecer los controles y la generación de información que permita mantener condiciones de Seguridad Institucional; y
-
-X. Visitantes: Las personas físicas distintas de los Servidores Públicos que ingresen a las instalaciones.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 14.
 
-Para los efectos del Título Tercero del Libro Quinto de este Acuerdo se entenderá:
-
-I. Administraciones Centrales: Las administraciones de los inmuebles ubicados en el Distrito Federal y zona conurbada;
-
-II. Administración Regional: Las Administraciones Regionales del Consejo;
-
-III. Agente Regulador: El encargado de instrumentar y operar las acciones, instrumentos, normas, obras y en general todo aquello destinado a proteger a las personas, bienes, infraestructura estratégica, planta productiva y el medio ambiente, a reducir los riesgos y a controlar y prevenir los efectos adversos de un agente perturbador;
-
-IV. Auxilio: respuesta de ayuda a las personas en riesgo o las víctimas de un siniestro, emergencia o desastre, por parte de grupos especializados públicos o privados, o por las unidades internas de protección civil, así como las acciones para salvaguardar los demás agentes afectables;
-
-V. Brigada: Grupo de personas que se organizan dentro de un inmueble, capacitadas y adiestradas en funciones básicas de respuesta a emergencias tales como: primeros auxilios, combate a conatos de incendio, evacuación, búsqueda y rescate; designados en la Unidad Interna de Protección Civil como encargados del desarrollo y ejecución de acciones de prevención, auxilio y recuperación estipuladas en el Programa Interno de Protección Civil del inmueble;
-
-VI. Continuidad de Operaciones: Al proceso de planeación, documentación y actuación que garantiza que las actividades sustantivas del Poder Judicial de la Federación, afectadas por un agente perturbador, puedan recuperarse y regresar a la normalidad en un tiempo mínimo. Esta planeación deberá estar contenida en un documento o serie de documentos cuyo contenido se dirija hacia la prevención, respuesta inmediata, recuperación y restauración, todas ellas avaladas por sesiones de capacitación continua y realización de simulacros;
-
-VII. Delegación Administrativa: Las Delegaciones Administrativas;
-
-VIII. Desastre: Al resultado de la ocurrencia de uno o más agentes perturbadores severos o extremos, concatenados o no, de origen natural o de la actividad humana, que cuando acontecen en un tiempo y en una zona determinada, causan daños y que por su magnitud exceden la capacidad de respuesta de la comunidad afectada;
-
-IX. Emergencia: Situación anormal que puede causar un daño a los servidores públicos del Poder Judicial de la Federación y propiciar un riesgo excesivo para su seguridad e integridad, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
-
-X. Gestión Integral de Riesgos: El conjunto de acciones encaminadas a la identificación, análisis, evaluación, control y reducción de los riesgos, considerándolos por su origen multifactorial y en un proceso permanente de construcción, lo que facilita la realización de acciones dirigidas a la creación e implementación de políticas públicas, estrategias y procedimientos integrados al logro de pautas de desarrollo sostenible, que combatan las causas estructurales de los desastres y fortalezcan las capacidades de resiliencia o resistencia de los servidores públicos. Involucra las etapas de: identificación de los riesgos y su proceso de formación, previsión, prevención, mitigación, preparación, auxilio, recuperación y reconstrucción;
-
-XI. Identificación de Riesgos: Reconocer y valorar las pérdidas o daños probables sobre los agentes afectables y su distribución geográfica, a través del análisis de los peligros y la vulnerabilidad;
-
-XII. Inmuebles: Los inmuebles, en propiedad o posesión, del Poder Judicial de la Federación;
-
-XIII. Mitigación: Es toda acción orientada a disminuir el impacto o daños ante la presencia de un agente perturbador sobre un agente afectable;
-
-XIV. Peligro: Probabilidad de ocurrencia de un agente perturbador potencialmente dañino de cierta intensidad, durante un cierto periodo y en un sitio determinado;
-
-XV. Plan de Contingencia: Plan preventivo con una estructura estratégica y operativa que ayudará a controlar una situación de emergencia y a minimizar sus consecuencias negativas;
-
-XVI. Preparación: Actividades y medidas tomadas anticipadamente para asegurar una respuesta eficaz ante el impacto de un fenómeno perturbador en el corto, mediano y largo plazo;
-
-XVII. Prevención: Conjunto de acciones y mecanismos implementados con antelación a la ocurrencia de los agentes perturbadores, con la finalidad de conocer los peligros o los riesgos, identificarlos, eliminarlos o reducirlos; evitar o mitigar su impacto destructivo sobre las personas, bienes, infraestructura, así como anticiparse a los procesos sociales de construcción de los mismos;
-
-XVIII. Previsión: Tomar conciencia de los riesgos que pueden causarse y las necesidades para enfrentarlos a través de las etapas de identificación de riesgos, prevención, mitigación, preparación, atención de emergencias, recuperación y reconstrucción;
-
-XIX. Programa Anual de Protección Civil: Programa rector que contiene las Directrices Generales en Materia de Protección Civil a implementarse en el Poder Judicial de la Federación;
-
-XX. Programa Interno de Protección Civil: Instrumento de planeación y operación que se compone por el Plan Operativo para la Unidad Interna de Protección Civil, el Plan para la Continuidad de Operaciones y el Plan de Contingencias y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de una emergencia en los inmuebles del Poder Judicial de la Federación;
-
-XXI. Protección Civil: Es la acción solidaria y participativa, que en consideración tanto de los riesgos de origen natural o antrópico como de los efectos adversos de los agentes perturbadores, prevé la coordinación y concertación de los sectores público, privado y social en el marco del Sistema Nacional, con el fin de crear un conjunto de disposiciones, planes, programas, estrategias, mecanismos y recursos para que de manera corresponsable, y privilegiando la Gestión Integral de Riesgos y la Continuidad de Operaciones, se apliquen las medidas y acciones que sean necesarias para salvaguardar la vida, integridad y salud de la población, así como sus bienes; la infraestructura, la planta productiva y el medio ambiente;
-
-XXII. Reconstrucción: La acción transitoria orientada a alcanzar el entorno de normalidad social y económica que prevalecía entre la población antes de sufrir los efectos producidos por un agente perturbador en un determinado espacio o jurisdicción. Este proceso debe buscar en la medida de lo posible la reducción de los riesgos existentes, asegurando la no generación de nuevos riesgos y mejorando para ello las condiciones preexistentes;
-
-XXIII. Recuperación: Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
-
-XXIV. Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contempla la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de la protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura crítica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos, y el desarrollo de sistemas de alertamiento;
-
-XXV. Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos;
-
-XXVI. Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
-
-XXVII. Riesgo Inminente: Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
-
-XXVIII. Simulacro: Representación mediante una simulación de las acciones de respuesta previamente planeadas con el fin de observar, probar y corregir una respuesta eficaz ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
-
-XXIX. Siniestro: Situación crítica y dañina generada por la incidencia de uno o más fenómenos perturbadores en un inmueble o instalación afectando a su población y equipo, con posible afectación a instalaciones circundantes;
-
-XXX. SISAC: Sistema de Seguimiento de Acuerdos de Comisiones;
-
-XXXI. Unidad Interna de Protección Civil: Órgano operativo cuyo ámbito de acción se circunscribe a las instalaciones o Inmuebles del Poder Judicial de la Federación ubicados en el Distrito Federal, zona conurbada e interior de la República Mexicana, responsable de implementar, desarrollar, evaluar y mejorar continuamente las etapas de la Gestión Integral de Riesgos, así como elaborar, implementar y coordinar el Programa Interno de Protección Civil correspondiente. La responsabilidad de la coordinación, operación y funcionamiento de la Unidad Interna de Protección Civil recae en los Administradores de los edificios ubicados en el Distrito Federal, zona conurbada, así como los de los Administradores Regionales; y
-
-XXXII. Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 ###### Artículo 15.
 
-Para los efectos del Título Cuarto del Libro Quinto de este Acuerdo se entenderá:
-
-I. Agente Certificador: El servidor público por conducto del cual actuará la UNCOCEFI para tramitar la emisión, renovación y revocación de Certificados Digitales de la FIREL;
-
-II. Certificado Digital de la FIREL: El Documento Electrónico emitido por la UNCOCEFI que asocia de manera segura y fiable la identidad del Firmante con una Llave Pública, permitiendo con ello identificar quién es el autor o emisor de un Documento Electrónico o Mensaje de Datos remitido mediante el uso de la FIREL;
-
-III. Certificado Intermedio del Consejo: El certificado digital emitido al Consejo por la Autoridad Certificadora Raíz del PJF, a partir del cual la UNCOCEFI generará los certificados digitales de la FIREL para los Usuarios Finales;
-
-IV. Certificado OCSP: El certificado digital emitido por el Consejo para el uso del protocolo de la verificación en línea del estado de los certificados digitales de la FIREL emitidos por el propio Consejo;
-
-V. Certificado Raíz del PJF: El certificado digital único emitido por la Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas, que sirve de base a la infraestructura de firma electrónica de los órganos del Poder Judicial de la Federación y da origen a los certificados intermedios, los que a su vez servirán para generar los certificados digitales de la FIREL que emitan las Unidades de Certificación correspondientes;
-
-VI. Certificado TSA: El certificado digital emitido por el Consejo para el uso de los sellos de tiempo;
-
-VII. Clave de Acceso a la Llave Privada del Certificado Digital de la FIREL: La cadena de caracteres alfanuméricos del conocimiento exclusivo del titular de un Certificado Digital de la FIREL, que le permite utilizar la Llave Privada para firmar un documento electrónico o, en su caso, para acceder a diversos sistemas que establezca el Consejo;
-
-VIII. Clave de revocación: La cadena de caracteres alfanuméricos que introduce de manera secreta el Firmante durante la solicitud de un Certificado Digital de la FIREL, y que deberá capturarse al momento de requerir su revocación en línea;
-
-IX. CURP: La Clave Única de Registro de Población;
-
-X. Documento Electrónico: El generado, consultado, modificado o procesado por Medios Electrónicos;
-
-XI. FIREL: La Firma Electrónica Certificada del Poder Judicial de la Federación;
-
-XII. Firma electrónica: Es el conjunto de datos y caracteres que permiten la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente a él y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa;
-
-XIII. Firmante: La persona física que utiliza su Certificado Digital de la FIREL para suscribir documentos electrónicos y, en su caso, mensajes de datos;
-
-XIV. Justiciable: La persona física que solicite la expedición de un Certificado Digital de la FIREL, distinta a los servidores públicos del Consejo o de los órganos jurisdiccionales;
-
-XV. Llave Privada: Los datos que el Firmante genera de manera secreta y bajo su estricto control al solicitar el Certificado Digital de la FIREL, vinculados de manera única y complementaria con su Llave Pública;
-
-XVI. Llave Pública: Los datos contenidos en un Certificado Digital de la FIREL que permiten la verificación de la autenticidad de la FIREL del Firmante;
-
-XVII. Medios de comunicación electrónica: La infraestructura tecnológica que permite efectuar la transmisión y recepción de mensajes de datos y de documentos electrónicos;
-
-XVIII. Medios Electrónicos: La herramienta tecnológica relacionada con el procesamiento, impresión, despliegue, traslado, conservación y, en su caso, modificación de información;
-
-XIX. Mensaje de Datos: La información generada, enviada, recibida, archivada o comunicada a través de medios de comunicación electrónica, que puede contener documentos electrónicos;
-
-> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
-
-XX. Órganos auxiliares: Los señalados en el artículo 88 de la Ley Orgánica;
-
-XXI. Sellos de tiempo: Cadena de caracteres emitidos que indican la hora y fecha de cuándo se firmó, envió, recibió o consultó un Mensaje de Datos;
-
-XXII. SEPJF: El Sistema Electrónico del PJF;
-
-XXIII. UNCOCEFI: La Unidad para el Control de Certificación de Firmas del Consejo;
-
-XXIV. Unidad: La Unidad del Poder Judicial de la Federación para el Control de Certificación de Firmas; y
-
-XXV. Usuarios Finales: Los servidores públicos del Consejo y de los órganos jurisdiccionales, así como los justiciables que soliciten o hagan uso de un Certificado Digital de la FIREL.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 # LIBRO SEGUNDO. RECURSOS HUMANOS
 
@@ -955,11 +871,11 @@ En todo caso se dejará constancia del proceso de depuración.
 
 El servidor público que use o exhiba documentos falsos para ingresar o desempeñar algún empleo, cargo o comisión; o para integrar su expediente personal será sancionado administrativamente, de conformidad con lo previsto en la Ley General de Responsabilidades Administrativas, y demás disposiciones aplicables, sin perjuicio de las responsabilidades penal o civil a que haya lugar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 29.
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales a través de la Dirección General de Recursos Humanos, deberá sistematizar y digitalizar la documentación contenida en los expedientes personales bajo resguardo de la citada Dirección General, mediante la utilización de medios tecnológicos que proporcionará la Dirección General de Tecnologías de la Información, a efecto de contar con un mecanismo que facilite su control archivístico y su consulta de forma electrónica, evitando su deterioro y el préstamo físico del expediente personal.
+La Secretaría Ejecutiva de Administración a través de la Dirección General de Recursos Humanos, deberá sistematizar y digitalizar la documentación contenida en los expedientes personales bajo resguardo de la citada Dirección General, mediante la utilización de medios tecnológicos que proporcionará la Dirección General de Tecnologías de la Información, a efecto de contar con un mecanismo que facilite su control archivístico y su consulta de forma electrónica, evitando su deterioro y el préstamo físico del expediente personal.
 
 Asimismo, deberá privilegiarse la utilización de la firma electrónica o sello digital, para la certificación de los documentos que obren en los expedientes personales.
 
@@ -975,7 +891,7 @@ En este sentido, en los casos en que las áreas administrativas soliciten a la D
 
 ### CAPÍTULO SEXTO. DEL CESE
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 51 Y ADICIONA EL ARTÍCULO 51 BIS DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 51 Y ADICIONA EL ARTÍCULO 51 BIS DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
 
 ###### Artículo 31.
 
@@ -1001,51 +917,51 @@ Si así conviniere a sus intereses, el servidor público, durante la sustanciaci
 
 Los acuerdos de trámite dentro del procedimiento especial, serán emitidos por el Presidente y no serán recurribles.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 36.
 
-En el acuerdo de inicio del procedimiento especial, se transcribirá el acuerdo del Pleno en el que se haya decretado la suspensión del servidor público y en el mismo, se solicitará a la Dirección General de Servicios Médicos, la designación de un perito médico, de preferencia especialista en la probable enfermedad del servidor público.
+En el acuerdo de inicio del procedimiento especial, se transcribirá el acuerdo del Pleno en el que se haya decretado la suspensión del servidor público y en el mismo, se solicitará a la Dirección General de Servicios al Personal, la designación de un perito médico, de preferencia especialista en la probable enfermedad del servidor público.
 
-Asimismo, se requerirá a éste para que, si conviene a sus intereses, designe a su perito médico. La designación de los referidos peritos deberá ser hecha por la Dirección General de Servicios Médicos y por el servidor público, respectivamente, en un término de cinco días naturales contados a partir del día siguiente al de la notificación del acuerdo. Esta notificación se hará en forma personal al servidor público y por oficio a la citada unidad administrativa.
+Asimismo, se requerirá a éste para que, si conviene a sus intereses, designe a su perito médico. La designación de los referidos peritos deberá ser hecha por la Dirección General de Servicios al Personal y por el servidor público, respectivamente, en un término de cinco días naturales contados a partir del día siguiente al de la notificación del acuerdo. Esta notificación se hará en forma personal al servidor público y por oficio a la citada unidad administrativa.
 
-Si el servidor público no designa perito dentro del referido término, se entenderá que consiente el dictamen que rinda el perito designado por la Dirección General de Servicios Médicos, salvo lo dispuesto en el artículo 48 de este Acuerdo.
+Si el servidor público no designa perito dentro del referido término, se entenderá que consiente el dictamen que rinda el perito designado por la Dirección General de Servicios al Personal, salvo lo dispuesto en el artículo 48 de este Acuerdo.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 37.
 
-Hecha la designación de los peritos, se requerirá a éstos, por conducto de la Dirección General de Servicios Médicos y del servidor público, para que rindan sus correspondientes dictámenes, dentro del término de quince días a partir del día siguiente de la notificación respectiva. Este término podrá prorrogarse discrecionalmente por el Presidente o, por una sola vez y por igual lapso.
+Hecha la designación de los peritos, se requerirá a éstos, por conducto de la Dirección General de Servicios al Personal y del servidor público, para que rindan sus correspondientes dictámenes, dentro del término de quince días a partir del día siguiente de la notificación respectiva. Este término podrá prorrogarse discrecionalmente por el Presidente, por una sola vez y por igual lapso.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 38.
 
-El servidor público deberá proporcionar a los peritos, toda la información médica que éstos le requieran. Asimismo, deberá someterse a los exámenes y estudios clínicos que los mismos le soliciten, los que serán a costa del Consejo, exclusivamente cuando hayan sido solicitados por el perito nombrado por la Dirección General de Servicios Médicos, o por el perito tercero, designado en los términos del artículo 42 de este Acuerdo.
+El servidor público deberá proporcionar a los peritos, toda la información médica que éstos le requieran. Asimismo, deberá someterse a los exámenes y estudios clínicos que los mismos le soliciten, los que serán a costa del Consejo, exclusivamente cuando hayan sido solicitados por el perito nombrado por la Dirección General de Servicios al Personal, o por el perito tercero, designado en los términos del artículo 42 de este Acuerdo.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 39.
 
-El servidor público podrá ser citado a las oficinas de la Dirección General de Servicios Médicos, o al lugar que el titular de ésta indique, para que se someta a la revisión médica del perito designado por esa unidad administrativa.
+El servidor público podrá ser citado en las oficinas de la Dirección General de Servicios al Personal, o en el lugar que el titular de ésta indique, para que se someta a la revisión médica del perito designado por esa unidad administrativa.
 
-Si dicho servidor público, por su estado de salud, no está en condiciones de viajar, deberá, bajo protesta de decir verdad, manifestarlo dentro del término de cinco días a que se refiere el párrafo primero del artículo 36 de este Acuerdo. En tal caso, el perito médico designado por la Dirección General de Servicios Médicos, deberá trasladarse al lugar en el que resida el servidor público.
+Si dicho servidor público, por su estado de salud, no está en condiciones de viajar, deberá, bajo protesta de decir verdad, manifestarlo dentro del término de cinco días a que se refiere el párrafo segundo del artículo 36 de este Acuerdo. En tal caso, el perito médico designado por la Dirección General de Servicios al Personal, deberá trasladarse al lugar en el que resida el servidor público.
 
 ###### Artículo 40.
 
 Los dictámenes periciales deberán informar si el servidor público se encuentra o no impedido para el ejercicio de su cargo y, en su caso, si su incapacidad es de carácter temporal o permanente.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 41.
 
-Si el servidor público se niega a someterse a la revisión médica o a los estudios clínicos solicitados por el perito designado por la Dirección General de Servicios Médicos, se sobreseerá el procedimiento especial, con la consecuencia prevista en el artículo 47 de este Acuerdo.
+Si el servidor público se niega a someterse a la revisión médica o a los estudios clínicos solicitados por el perito designado por la Dirección General de Servicios al Personal, se sobreseerá el procedimiento especial, con la consecuencia prevista en el artículo 47 de este Acuerdo.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 42.
 
-Si los dictámenes emitidos por los peritos designados por la Dirección General de Servicios Médicos y por el servidor público, respectivamente, fueran contradictorios, el Presidente solicitará al ISSSTE o a la Procuraduría General de la República, en su caso, la designación de un perito tercero en discordia. En caso de que el ISSSTE y la Procuraduría General de la República no estén en posibilidad de proporcionar el perito correspondiente, podrá solicitarlo a otros organismos públicos.
+Si los dictámenes emitidos por los peritos designados por la Dirección General de Servicios al Personal y por el servidor público, fueran contradictorios, el Presidente solicitará al ISSSTE o a la Fiscalía General de la República, en su caso, la designación de un perito tercero en discordia. En caso de que el ISSSTE y la Fiscalía General de la República no estén en posibilidad de proporcionar el perito correspondiente, podrá solicitarlo a otros organismos públicos.
 
 ###### Artículo 43.
 
@@ -1069,11 +985,11 @@ Durante el lapso de separación temporal, el Pleno, discrecionalmente, podrá ot
 
 Para efectos laborales, la separación temporal del servidor público se equipara a la de los servidores públicos que disfrutan de licencia otorgada por el órgano competente del Consejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 47.
 
-Una vez transcurrido el término de suspensión temporal y sus prórrogas, si las hubo, el servidor público deberá someterse a un examen médico, practicado por el perito médico que designe la Dirección General de Servicios Médicos, así como a los estudios clínicos que el mismo señale. Dicho perito emitirá un dictamen en el que se determine si cesaron o no las causas que determinaron la incapacidad de aquél.
+Una vez transcurrido el término de suspensión temporal y sus prórrogas, si las hubo, el servidor público deberá someterse a un examen médico, practicado por el perito médico que designe la Dirección General de Servicios al Personal, así como a los estudios clínicos que señale. El perito emitirá un dictamen en el que se determine si cesaron o no las causas que determinaron la incapacidad de aquel.
 
 Si el referido dictamen es desfavorable al servidor público, o si éste no se sometiera al examen y estudios clínicos mencionados en el párrafo anterior, el Pleno, decretará su separación definitiva, teniendo aplicación, en tal supuesto, lo previsto en el artículo 45 de este Acuerdo.
 
@@ -1097,7 +1013,7 @@ Las notificaciones de las resoluciones, que se dicten dentro del procedimiento e
 
 En caso de que un trabajador de base adscrito a un área administrativa incurra en una causal de cese, el titular deberá ceñirse a las reglas que establece la Ley Federal de los Trabajadores al Servicio del Estado, y a los criterios correspondientes, aprobados por el Pleno.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 51 Y ADICIONA EL ARTÍCULO 51 BIS DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL ARTÍCULO 51 Y ADICIONA EL ARTÍCULO 51 BIS DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 10 DE JULIO DE 2015)</small>
 
 ###### Artículo 51 Bis.
 
@@ -1126,6 +1042,8 @@ Los procedimientos administrativos de imposición de sanciones como la destituci
 #### SECCIÓN QUINTA
 
 ### CAPÍTULO NOVENO. REGISTRO AUTOMATIZADO DE ENTRADA Y SALIDA
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 53.
 
@@ -1291,23 +1209,29 @@ Artículo 55 Quaterdecies. La Contraloría, a través de la Dirección General d
 
 ###### Artículo 56.
 
-Los servidores públicos obligados, en términos del Capítulo anterior y del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, a efectuar su registro de entrada y salida deberán realizarlo en los equipos biométricos de geometría de mano.
+Los servidores públicos obligados, en términos del Capítulo anterior y del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, al efectuar su registro automatizado de entrada y salida deberán realizarlo en los equipos biométricos de geometría de mano.
 
-El registro de salida y entrada del lapso de ingesta de alimentos podrá ser utilizado como medida de control interno, sin que las omisiones de registro conlleven descuento alguno. En todo caso, los titulares de los órganos jurisdiccionales y áreas administrativas podrán prescindir de dicho registro.
+El registro automatizado de salida y entrada del lapso de ingesta de alimentos podrá ser utilizado como medida de control interno, sin que las omisiones de registro automatizado conlleven descuento alguno. En todo caso, los titulares de los órganos jurisdiccionales y áreas administrativas podrán prescindir de dicho registro.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 57.
 
-Los servidores públicos obligados al registro deberán ser enrolados en el equipo biométrico de mano de su centro de trabajo por el Auxiliar de Asistencia y Puntualidad de su adscripción. Si por necesidades del servicio se encuentran comisionados a uno distinto, también deberán ser enrolados en el equipo de dicho centro, por el Auxiliar de Asistencia y Puntualidad respectivo.
+Los servidores públicos obligados al registro automatizado deberán ser enrolados en el equipo biométrico de mano de su centro de trabajo por el Auxiliar de Asistencia y Puntualidad de su adscripción. Si por necesidades del servicio se encuentran comisionados a uno distinto, también deberán ser enrolados en el equipo de dicho centro, por el Auxiliar de Asistencia y Puntualidad respectivo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 58.
 
-Los servidores públicos adscritos a la plantilla de plazas a disposición del Consejo, deberán realizar el registro de asistencia en los órganos jurisdiccionales y áreas administrativas, a los cuales se encuentren comisionados y durante el tiempo que dure ésta.
+Los servidores públicos adscritos a la plantilla de plazas a disposición del Consejo, deberán realizar el registro automatizado de asistencia en los órganos jurisdiccionales y áreas administrativas, a los cuales se encuentren comisionados y durante el tiempo que dure ésta.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 59.
 
-Los servidores públicos que incurran en omisiones de registro de entrada o salida, retardo o falta injustificada, se harán acreedores a los descuentos señalados en las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo de la Judicatura Federal.
+Los servidores públicos que incurran en omisiones de registro automatizado de entrada o salida, retardo o falta injustificada, se harán acreedores a los descuentos señalados en las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo de la Judicatura Federal.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
 
 El Auxiliar de Asistencia y Puntualidad deberá enviar las solicitudes de descuentos a la Dirección General de Recursos Humanos o al área de nómina de las Administraciones Regionales o Delegaciones Administrativas, según corresponda, a través del sistema que para tal efecto se encuentre operando, previa autorización del titular del órgano jurisdiccional, de cada ponencia en el caso de los tribunales Colegiados o área administrativa.
 
@@ -1319,13 +1243,17 @@ El Auxiliar de Asistencia y Puntualidad será el responsable de auxiliar al titu
 
 El Auxiliar de Asistencia y Puntualidad será el responsable de verificar previamente la identidad del personal que enrole en el lector biométrico, mediante una identificación oficial con fotografía y, en su caso, el recibo de pago correspondiente, a fin de validarlo con el número de expediente asignado por la Dirección General de Recursos Humanos. Lo mismo se observará en el supuesto de modificaciones que se realicen respecto a la geometría de mano.
 
-De lo anterior, el Auxiliar de Asistencia y Puntualidad deberá generar acta administrativa, en la que conste el alta o modificación del Registro y la verificación de identidad del servidor público de que se trate, la cual deberá ser firmada por ambos y remitida a la Unidad de Registro y Control de Asistencia.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
+De lo anterior, el Auxiliar de Asistencia y Puntualidad deberá generar acta administrativa, en la que conste el alta o modificación del registro automatizado y la verificación de identidad del servidor público de que se trate, la cual deberá ser firmada por ambos y remitida a la Unidad de Registro y Control de Asistencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 62.
 
-Previo al cierre de nómina, el Auxiliar de Asistencia y Puntualidad deberá asentar en el Registro, las justificaciones que previamente haya autorizado el titular del órgano jurisdiccional, de cada ponencia en el caso de los tribunales colegiados o área administrativa correspondiente.
+Previo al cierre de nómina, el Auxiliar de Asistencia y Puntualidad deberá asentar en el registro automatizado, las justificaciones que previamente haya autorizado el titular del órgano jurisdiccional, de cada ponencia en el caso de los tribunales colegiados o área administrativa correspondiente.
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
 
 Asimismo, dicho Auxiliar deberá resguardar, en su caso, la documentación idónea que acredite la justificación autorizada.
 
@@ -1333,15 +1261,17 @@ Asimismo, dicho Auxiliar deberá resguardar, en su caso, la documentación idón
 
 En caso de ausencia temporal o permanente del Auxiliar de Asistencia y Puntualidad, la Dirección General de Tecnologías de la Información deberá realizar el alta en el lector biométrico del servidor público que lo supla o sustituya, e informarlo a la Unidad de Registro y Control de Asistencia mediante correo electrónico.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 17 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 64.
 
-Los titulares de los órganos jurisdiccionales, de cada ponencia en el caso de los tribunales colegiados, y de las áreas administrativas, serán los únicos que podrán justificar omisiones de entrada, salida, retardos y faltas de los servidores públicos a su cargo, de conformidad con este Acuerdo y con lo dispuesto en el artículo 52 de las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo de la Judicatura Federal, por necesidades de organización y por las causas previstas en dichas disposiciones, así como autorizar el descuento correspondiente, en términos del artículo 59, segundo párrafo, de este Acuerdo.
+Los titulares de los órganos jurisdiccionales, de cada ponencia en el caso de los tribunales colegiados, y de las áreas administrativas, serán los únicos que podrán justificar omisiones de entrada, salida, retardos y faltas de los servidores públicos a su cargo, de conformidad con este Acuerdo y con lo dispuesto en el artículo 62 de las Condiciones Generales de Trabajo de los Servidores Públicos a cargo del Consejo de la Judicatura Federal, por necesidades de organización y por las causas previstas en dichas disposiciones, así como autorizar el descuento correspondiente, en términos del artículo 59, segundo párrafo, de este Acuerdo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 65.
 
-Para efectos del Registro, son casusas de justificación por omisión de registro de entrada, salida, retardos y faltas las siguientes:
+Para efectos del registro automatizado, son causas de justificación por omisión de registro automatizado de entrada, salida, retardos y faltas las siguientes:
 
 I. Por caso fortuito o fuerza mayor: Autorización otorgada por el titular del órgano jurisdiccional o área administrativa, por alguna de esas circunstancias;
 
@@ -1359,17 +1289,21 @@ VI. Por vacaciones; y
 
 VII. Por determinación del Pleno o Comisiones.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 66.
 
-La Unidad de Registro y Control de Asistencia, en su caso, con el apoyo de la Coordinación de Administración Regional y del Auxiliar de Asistencia y Puntualidad, realizará cotejos de identidad y revisiones periódicas de los registros de la geometría de mano de los servidores públicos.
+La Unidad de Registro y Control de Asistencia, en su caso, con el apoyo de la Coordinación de Administración Regional y del Auxiliar de Asistencia y Puntualidad, realizará cotejos de identidad y revisiones periódicas de los registros automatizados de la geometría de mano de los servidores públicos.
 
 ###### Artículo 67.
 
 La interpretación de este Capítulo corresponde a la Comisión de Administración.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 68.
 
-La Comisión de Administración podrá emitir disposiciones administrativas para la operación del Registro.
+La Comisión de Administración podrá emitir disposiciones administrativas para la operación del registro automatizado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
@@ -1525,7 +1459,7 @@ El premio se entregará en ceremonia especial, con motivo del Día del Servidor 
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 97.
 
@@ -1621,9 +1555,17 @@ VI. Los derechos de crédito derivados de las inversiones financieras realizadas
 
 Salen del patrimonio del Fondo, las cantidades de dinero que se entreguen a los servidores públicos en los términos y condiciones previstos en el presente Acuerdo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 110.
 
-Serán beneficiarios del Fondo los servidores públicos incorporados a él, así como las personas designadas por éstos ante el Consejo, o quien legalmente acredite tener dicho derecho.
+Serán beneficiarios del Fondo los servidores públicos incorporados a él, las personas designadas por éstos ante el Consejo, así como aquellos acreedores alimentarios designados por autoridad judicial o quien legalmente acredite tener derecho.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 110 Bis.
+
+Las áreas administrativas y órganos jurisdiccionales que reciban mandatos judiciales que afecten directa o indirectamente las percepciones de los trabajadores del Poder Judicial de la Federación deberán remitirlos a las Direcciones Generales de Servicios al Personal; y de Recursos Humanos, para los efectos correspondientes.
 
 ###### Artículo 111.
 
@@ -1701,25 +1643,23 @@ La sociedad de inversión sólo podrá llevar a cabo las actividades necesarias 
 
 Los servidores públicos se incorporarán al Fondo en forma voluntaria mediante la presentación del formato autorizado por el Consejo, de conformidad con los lineamientos que para tal efecto apruebe la Comisión de Administración.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL FONDO DE RESERVA INDIVIDUALIZADO, D.O.F. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 123.
 
-Los servidores públicos de nivel operativo inscritos en el Fondo podrán realizar el retiro total de sus aportaciones, cuando:
+Los servidores públicos de nivel operativo inscritos en el Fondo podrán realizar el retiro total de sus aportaciones, en los siguientes casos:
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+I. Cause baja por terminación de la relación laboral; y
 
-I. Se termine la relación laboral, ya sea por renuncia o fallecimiento; o bien,
+II. Cause baja por cambio de nivel operativo a mando medio o superior.
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-II. Una vez al año, en caso de baja por cambio de nivel operativo a mando medio o superior.
-
-En caso de fallecimiento del servidor público los recursos se entregarán a sus beneficiarios designados, a falta de éstos, a quien acredite legalmente tener derecho a ellos.
+En caso de fallecimiento del servidor público los recursos se entregarán a sus beneficiarios designados; a falta de éstos, a quien acredite legalmente tener derecho a ellos.
 
 En ambos casos, las solicitudes de pago se tramitarán ante la Dirección General de Servicios al Personal, quien las canalizará a la Institución para el pago correspondiente, quien deberá pagar dentro del plazo que se convenga con la Institución.
 
-El ahorro que tenga el trabajador en el Fondo, deberá ser entregado al trabajador cuando cause baja, o a sus beneficiarios en caso de defunción, sin posibilidad de dejar los recursos en el Fondo.
+En el supuesto de baja, el ahorro que tenga el trabajador en el Fondo será entregado a éste y en su caso, la parte proporcional determinada por autoridad competente, a sus acreedores alimentarios; en caso de defunción, a sus beneficiarios o a quien acredite legalmente tener derecho.
+
+La Dirección General de Servicios al Personal, determinará el trámite que atenderán los trabajadores o beneficiarios para la recuperación de sus aportaciones una vez que se haya expedido el aviso de baja.
 
 En ningún otro caso procederá el retiro, con excepción a lo dispuesto en el artículo 125 de este Acuerdo.
 
@@ -1755,7 +1695,7 @@ Cuando el servidor público cause baja y cuente con un préstamo vigente, de as�
 
 ###### Artículo 127.
 
-El Pleno, a propuesta de la Secretaría Ejecutiva de Finanzas y Servicios Personales, y previo visto bueno de la Comisión de Administración, podrá autorizar la creación de un CENDI, siempre que la disponibilidad presupuestal lo permita.
+El Pleno, a propuesta de la Secretaría Ejecutiva de Administración, y previo visto bueno de la Comisión de Administración, podrá autorizar la creación de un CENDI, siempre que la disponibilidad presupuestal lo permita.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
@@ -1763,11 +1703,11 @@ El Pleno, a propuesta de la Secretaría Ejecutiva de Finanzas y Servicios Person
 
 La organización y funcionamiento de los CENDI se regirá conforme a lo previsto en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil; este Capítulo y las demás disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 128.
 
-Los casos no previstos en este Capítulo serán resueltos por el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Finanzas y Servicios Personales, en su ámbito de competencia.
+Los casos no previstos en este Capítulo serán resueltos por el Pleno, la Comisión de Administración y la Secretaría Ejecutiva de Administración, en su ámbito de competencia.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
@@ -1795,11 +1735,11 @@ V. Igualdad de género.
 
 Asimismo, debe orientarse al logro de la observancia y ejercicio de los derechos a que se refiere el artículo 11 de la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 128 Quater.
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de la Dirección General de Servicios al Personal, deberá inscribir cada CENDI en el registro local que corresponda, previa revisión del cumplimiento de requisitos conforme a la modalidad y tipo que se trate y conforme a las leyes locales aplicables.
+La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Servicios al Personal, deberá inscribir cada CENDI en el registro local que corresponda, previa revisión del cumplimiento de requisitos conforme a la modalidad y tipo que se trate y conforme a las leyes locales aplicables.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
@@ -1955,9 +1895,9 @@ El Consejo procurará que los CENDI cuenten con personal capacitado en la atenci
 
 Los CENDI que tengan matriculados niñas y niños con discapacidad, conforme a la suficiencia presupuestal, deberán proporcionarles materiales y ayudas técnicas que apoyen su rendimiento académico.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de la Dirección General de Servicios al Personal, deberá adoptar las medidas necesarias para procurar que los CENDI que lo requieran cuenten con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas ciegas y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad, en términos de las disposiciones aplicables.
+La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Servicios al Personal, deberá adoptar las medidas necesarias para procurar que los CENDI que lo requieran cuenten con libros en braille, materiales didácticos, apoyo de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas con discapacidad visual y todos aquellos apoyos que se identifiquen como necesarios para brindar una educación con calidad, en términos de las disposiciones aplicables.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
 
@@ -1985,11 +1925,11 @@ IV. Área de psicología preventiva; y
 
 V. Área de nutrición.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 23 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 151.
 
-El Director General de Servicios al Personal establecerá los canales de coordinación con las instancias públicas correspondientes, para la atención de cuestiones vinculadas con la educación de los infantes y la Dirección General de Servicios Médicos hará lo mismo tratándose de la salud de los mismos.
+El Director General de Servicios al Personal establecerá los canales de coordinación con las instancias públicas correspondientes, para la atención de cuestiones vinculadas con la educación y salud de los infantes.
 
 ###### Artículo 152.
 
@@ -2247,9 +2187,9 @@ VII. Entregar los artículos de uso personal del infante y materiales didáctico
 
 VIII. En su caso, los demás que determine la Comisión de Administración.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-La Comisión de Administración podrá fijar requisitos adicionales a los previstos en este artículo, por ciclo escolar, a propuesta de la Secretaría Ejecutiva de Finanzas y Servicios Personales.
+La Comisión de Administración podrá fijar requisitos adicionales a los previstos en este artículo, por ciclo escolar, a propuesta de la Secretaría Ejecutiva de Administración.
 
 ###### Artículo 193.
 
@@ -2354,6 +2294,8 @@ La Dirección General de Protección Civil y Salud en el Trabajo deberá prever 
 SUBSECCIÓN PRIMERA
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 211.
 
@@ -2565,13 +2507,13 @@ El servidor público podrá presentar solicitud de reconsideración en contra de
 
 El plazo para formular la solicitud de reconsideración será de cinco días hábiles siguientes a la fecha en que se tenga por recibida la amonestación escrita, la suspensión o la notificación que niegue la inscripción.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 224.
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales será competente para resolver las solicitudes de reconsideración en las que se reclame una suspensión definitiva; en los demás casos será la Dirección General de Servicios al Personal, la unidad administrativa competente para emitir la resolución que corresponda.
+La Secretaría Ejecutiva de Administración será competente para resolver las solicitudes de reconsideración en las que se reclame una suspensión definitiva; en los demás casos será la Dirección General de Servicios al Personal, la unidad administrativa competente para emitir la resolución que corresponda.
 
-La solicitud de reconsideración se substanciará de plano por la Dirección General de Servicios al Personal, quien deberá emitir la resolución que corresponda dentro de los treinta días hábiles siguientes al de su recepción o, en su caso, proponer el proyecto de resolución a la Secretaría Ejecutiva de Finanzas y Servicios Personales.
+La solicitud de reconsideración se substanciará de plano por la Dirección General de Servicios al Personal, quien deberá emitir la resolución que corresponda dentro de los treinta días hábiles siguientes al de su recepción o, en su caso, proponer el proyecto de resolución a la Secretaría Ejecutiva de Administración.
 
 ###### Artículo 225.
 
@@ -2701,15 +2643,21 @@ No se otorgará el apoyo de vivienda a aquéllos magistrados de Circuito o juece
 
 El magistrado de Circuito o juez de Distrito una vez adscrito a un órgano jurisdiccional, solicitará por escrito a la Administración Regional o Delegación Administrativa del lugar de residencia del órgano de su adscripción el otorgamiento del apoyo de vivienda, quien le dará el trámite correspondiente con base en los lineamientos.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 227 Sexies.
 
-El otorgamiento del apoyo se formalizará mediante contrato administrativo de asignación previo dictamen de la Dirección General de Asuntos Jurídicos.
+El otorgamiento del apoyo se formalizará mediante contrato administrativo de asignación previa opinión o dictamen jurídico de la Dirección General de Asuntos Jurídicos.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
 La Dirección General de Asuntos Jurídicos elaborará el modelo de contrato y lo someterá a la consideración de la Comisión de Administración, al igual que sus modificaciones.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 22 DE FEBRERO DE 2016)</small>
+
 El apoyo de vivienda se otorgará sólo para una casa habitación del programa de vivienda de magistrados de Circuito o jueces de Distrito, salvo cuando, por disponibilidad de casas habitación en una nueva adscripción, se le puede asignar otra casa en el lugar de residencia del nuevo órgano de adscripción, en tanto desocupa la casa habitación otorgada como apoyo de vivienda en su anterior adscripción.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL PROGRAMA DE VIVIENDA PARA MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
 En todos los casos, en los contratos de asignación se establecerá el monto de la aportación económica que se obligarán a cubrir los magistrados de Circuito y jueces de Distrito.
 
@@ -2755,7 +2703,9 @@ Los magistrados de Circuito o jueces de Distrito que gocen del apoyo de vivienda
 
 Artículo 227 Undecies. El apoyo de vivienda no otorga derecho alguno que permita a los magistrados de Circuito o jueces de Distrito, transferir mediante instrumento legal el uso o disfrute de la casa habitación que les fue entregada como apoyo de vivienda o garantizar el cumplimiento de obligaciones a su cargo de carácter familiar, mercantil, civil o laboral previstas en las leyes, a ninguna otra persona, incluyendo a sus beneficiarios directos señalados en el artículo 227 Septies.
 
-En el caso de que el magistrado de Circuito o juez de Distrito que goce del apoyo de vivienda sea adscrito a otro órgano jurisdiccional con residencia en un lugar distinto al de ubicación de la casa habitación del programa y sus descendientes en línea recta de primer grado se encuentren cursando estudios de educación básica, media, media superior o licenciatura podrán solicitar a la Comisión de Administración autorización para continuar gozando del apoyo de vivienda de la casa habitación asignada por el tiempo exclusivamente necesario para la terminación del ciclo escolar correspondiente a ese año o en aquellos casos que por cuestiones médicas o de seguridad de sus beneficiarios directos previstos en el artículo 227 Septies así se requiera, previa opinión de la Dirección General de Servicios Médicos o de la Coordinación de Seguridad del Poder Judicial de la Federación, según corresponda.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+En el caso de que el magistrado de Circuito o juez de Distrito que goce del apoyo de vivienda sea adscrito a otro órgano jurisdiccional con residencia en un lugar distinto al de la ubicación de la casa habitación del programa, y sus descendientes en línea recta de primer grado se encuentren cursando estudios de educación básica, media, media superior o licenciatura podrán solicitar a la Comisión de Administración autorización para continuar gozando del apoyo de vivienda de la casa habitación asignada por el tiempo exclusivamente necesario para la terminación del ciclo escolar correspondiente a ese año o en aquellos casos que por cuestiones médicas o de seguridad de sus beneficiarios directos previstos en el artículo 227 Septies así se requiera, previa opinión de la Dirección General de Servicios al Personal o de la Coordinación de Seguridad del Poder Judicial de la Federación, según corresponda.
 
 En el supuesto del párrafo anterior, el magistrado de Circuito o juez de Distrito no podrá recibir el apoyo de vivienda respecto de otra casa habitación del programa, en el lugar de su nueva adscripción, hasta en tanto siga gozando del apoyo en la residencia anterior.
 
@@ -2923,6 +2873,8 @@ No se autorizarán sustituciones de servidores públicos que estén disfrutando 
 
 ### CAPÍTULO TERCERO. INSTRUMENTOS JURÍDICOS
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 #### SECCIÓN SEXTA. DIVERSAS DISPOSICIONES EN MATERIA DE OBRA PÚBLICA
 
 SUBSECCIÓN PRIMERA
@@ -2931,27 +2883,37 @@ EJECUCIÓN DE LOS TRABAJOS DE OBRA PÚBLICA
 
 ###### Artículo 242.
 
-El área administradora del contrato deberá llevar a cabo la administración, control y seguimiento de los contratos.
+El área de adquisiciones o de obra, según corresponda, deberá llevar a cabo la administración, control y seguimiento de los contratos.
 
 El área técnica elaborará las especificaciones técnicas que se deberán incluir en el procedimiento de contratación, evaluará la propuesta técnica de las proposiciones y deberá responder en la junta de aclaraciones, las preguntas que sobre estos aspectos realicen los licitantes.
 
 Cada una de esas áreas podrá tener distinto carácter en un mismo procedimiento de contratación; dicho carácter o caracteres serán especificados en las bases y en el contrato.
 
-Según lo haya solicitado para satisfacer las necesidades del Consejo, el área requirente será responsable, en el ámbito de su competencia, de verificar y validar que los bienes, servicios, obra pública y servicios relacionados con la misma, se entreguen, presten o realicen en la forma y plazo en que fueron contratados.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Las áreas asesoras deberán asesorar a los administradores de edificios y regionales, así como a los delegados administrativos en los procedimientos de contratación que lleven a cabo y, en su caso, a los órganos administrativos.
+Según lo haya solicitado para satisfacer las necesidades del Consejo, el área solicitante será responsable, en el ámbito de su competencia, de verificar y validar que los bienes, servicios, obra pública y servicios relacionados con la misma, se entreguen, presten o realicen en la forma y plazo en que fueron contratados.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Las áreas asesoras deberán orientar a los administradores de edificios y regionales, así como a los delegados administrativos en los procedimientos de contratación que lleven a cabo y, en su caso, a las áreas administrativas.
 
 ###### Artículo 243.
 
 Los contratos que celebre el Consejo en el marco de este Capítulo son de carácter administrativo, destinados a satisfacer las necesidades del Poder Judicial de la Federación, para el debido cumplimiento de las atribuciones encomendadas a dicho órgano colegiado por la Constitución y por la Ley Orgánica, y por tanto, su naturaleza se considera de interés público.
 
-Podrán celebrarse convenios de adjudicación o contratos con los entes públicos siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-I. Dependencias o entidades de la Administración Pública Federal, de las entidades federativas o municipales;
+Podrán celebrarse convenios o contratos con los entes públicos siguientes:
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+I. Dependencias o entidades de la Administración Pública Federal, de las entidades federativas o municipales y Alcaldías;
 
 II. Instituciones o corporaciones públicas; y
 
-III. Órganos u organismos y cualquier otro ente del Estado, nacional, federal, estatal, municipal y del Distrito Federal.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+III. Órganos u organismos y cualquier otro ente del Estado, nacional, federal, estatal, municipal y de la Ciudad de México.
 
 La celebración será en forma directa siempre que de la investigación de mercado se desprenda que dicha adjudicación resulta ser la más conveniente para el Consejo al cumplir con los criterios y principios previstos en el artículo 134 de la Constitución; y lo autorice el Comité, quien lo informará a la Comisión.
 
@@ -3029,7 +2991,9 @@ La Secretaría Ejecutiva de Administración por conducto del área correspondien
 
 En materia de obra pública, el área de obras deberá mantener adecuada y satisfactoriamente aseguradas las obras desde su inicio, para lo cual se podrá solicitar a los contratistas la adquisición de los seguros necesarios durante el desarrollo de los trabajos o contratarlos en forma directa.
 
-Asimismo, se deberá prever en las contrataciones que realicen las áreas operativas, cuando así lo consideren conveniente, que se establezca la obligación de los proveedores o contratistas de adquirir una póliza de seguro de responsabilidad civil.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Asimismo, se deberá prever en las contrataciones que realicen las áreas operativas, cuando así lo consideren conveniente, que se establezca la obligación de los proveedores, prestadores de servicios o contratistas de adquirir una póliza de seguro de responsabilidad civil.
 
 ###### Artículo 250.
 
@@ -3295,9 +3259,9 @@ f) Que, en caso de poder existir un conflicto de interés a futuro, su represent
 
 La Contraloría, propondrá al Pleno del Consejo el tabulador anual de contraprestaciones para los testigos sociales, para su aprobación, mismo que deberá publicarse una vez aprobado, en la página del Consejo de la Judicatura Federal conforme a las obligaciones en materia de transparencia y rendición de cuentas.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-La Dirección General de Programación y Presupuesto deberá considerar para efectos de la programación y presupuestación de los recursos el pago de la contraprestación de los testigos sociales.
+La Dirección General de Programación, Presupuesto y Tesorería deberá considerar para efectos de la programación y presupuestación de los recursos el pago de la contraprestación de los testigos sociales.
 
 > <small>(REFORMADO [N. DE E. ANTES ÚLTIMO PÁRRAFO DEL ARTÍCULO], POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 6 DE NOVIEMBRE DE 2018)</small>
 
@@ -3545,23 +3509,19 @@ COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS, OBRA PÚBLICA Y SERVICIOS
 
 El Comité es un cuerpo multidisciplinario con carácter permanente, que tiene por objeto dictaminar, discutir, proponer y, en su caso, autorizar la adquisición de bienes y servicios, arrendamientos y obra pública que requiera el Consejo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 266.
 
 El Comité estará integrado en los siguientes términos:
 
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
-
 I. Presidente: El titular de la Secretaría Ejecutiva de Administración; y
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-II. Vocales: Los titulares de la Secretaría Ejecutiva de Finanzas y Servicios Personales; y de la Coordinación de Administración Regional.
+II. Vocales: Los titulares de la Coordinación de Administración Regional; y de la Dirección General de Programación, Presupuesto y Tesorería.
 
 Los citados integrantes tendrán derecho a voz y voto durante las sesiones, y no podrán ser representados en éstas.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-Existirá quórum para celebrar válidamente una sesión cuando se cuente con la asistencia de dos de sus integrantes y en caso de ausencia del presidente del Comité, asumirá las funciones correspondientes el titular de la Secretaría Ejecutiva de Finanzas y Servicios Personales.
+Existirá quórum para celebrar válidamente una sesión cuando se cuente con la asistencia de dos de sus integrantes.
 
 La responsabilidad de cada integrante del Comité quedará limitada al voto o comentario que emita u omita, en lo particular, respecto al asunto sometido a su consideración, con base en la documentación que le sea presentada. En este sentido, las determinaciones y opiniones de los miembros del Comité, no comprenden las acciones u omisiones que posteriormente se generen durante el desarrollo de los procedimientos de contratación o en el cumplimiento de los contratos.
 
@@ -3579,7 +3539,9 @@ IV. Aprobar la procedencia de no celebrar licitaciones públicas por actualizars
 
 V. Autorizar la adjudicación de contratos en casos urgentes;
 
-VI. Atender y resolver las diferentes peticiones de los órganos administrativos en materia de adquisiciones, arrendamientos, servicios y obra pública, y servicios relacionados con la misma;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+VI. Atender y resolver las diferentes peticiones de las áreas administrativas en materia de adquisiciones, arrendamientos, servicios y obra pública, y servicios relacionados con la misma;
 
 VII. Autorizar la modificación de los pedidos y contratos, cuando se rebasen los montos y plazos conforme a lo dispuesto en el artículo 368 de este Acuerdo, informando de inmediato a la Comisión de Administración;
 
@@ -3643,7 +3605,9 @@ El Comité se auxiliará en lo administrativo con un secretario técnico designa
 
 I. Remitir las convocatorias de las sesiones del Comité;
 
-II. Someter a la aprobación del presidente del Comité el proyecto del orden del día, y una vez aprobado, remitirlo a los integrantes, observadores e invitados al Comité;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+II. Someter a la aprobación del presidente del Comité el proyecto del orden del día, y una vez aprobado, remitirlo a los integrantes, asesores e invitados al Comité;
 
 III. Incluir en el orden del día los asuntos para acuerdo, informativos y generales, y el seguimiento de los acuerdos de las sesiones precedentes;
 
@@ -3653,7 +3617,7 @@ IV. Pasar lista de asistencia para determinar si existe quórum en la sesión a 
 
 V. Suscribir los oficios en los que se den a conocer los acuerdos adoptados por el Comité;
 
-VI. Elaborar las versiones estenográficas de las actas correspondientes a las sesiones, para la aprobación del Comité e integrarlas en el expediente correspondiente;
+VI. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 VII. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del Comité, cuando proceda su expedición;
 
@@ -3661,9 +3625,13 @@ VIII. Registrar los acuerdos del Comité y dar seguimiento para informar del est
 
 IX. Integrar de manera completa los documentos que analizará el Comité y mantener actualizado el archivo de los asuntos tratados por el Comité;
 
-X. Grabar el desarrollo de la sesión y enviarla a los integrantes del Comité, observadores e invitados; así como a la Contraloría para su conocimiento y resguardo;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-XI. Recabar la firma de las actas y asuntos aprobados por el Comité; y
+X. Grabar el desarrollo de la sesión y enviarla a los integrantes del Comité, asesores e invitados; así como a la Contraloría para su conocimiento y resguardo;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XI. Elaborar las actas y recabar la firma de los asistentes con los asuntos aprobados por el Comité; y
 
 XII. Las demás que le encomiende el presidente del Comité o sus integrantes.
 
@@ -3675,19 +3643,25 @@ Las sesiones del Comité tendrán lugar siempre que sea necesario y se celebrar�
 
 I. Serán ordinarias y extraordinarias, y se llevarán a cabo en forma presencial;
 
-II. El orden del día, junto con la documentación soporte, se entregará a los integrantes del Comité, a los observadores e invitados, por conducto del al secretario técnico del Comité, con dos días hábiles de anticipación para la celebración de la sesión, cuando así sea posible;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-III. La convocatoria, el orden del día y la documentación soporte se entregará a los integrantes del Comité, a los observadores e invitados, por conducto del secretario técnico, con tres días hábiles de anticipación a la celebración de la sesión respectiva; salvo en caso de asuntos urgentes autorizados por el presidente del Comité, que de ser posible se podrán enviar con 24 horas de anticipación;
+II. El orden del día, junto con la documentación soporte, se entregará a los integrantes del Comité, a los asesores e invitados, por conducto del secretario técnico del Comité, con dos días hábiles de anticipación para la celebración de la sesión, cuando así sea posible;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-IV. Serán videograbadas desde su inicio hasta su conclusión sin ninguna interrupción y de cada una se levantará acta estenográfica, la cual será firmada por los integrantes asistentes, previa aprobación de ésta, dejando constancia de la videograbación; y
+III. La convocatoria, el orden del día y la documentación soporte se entregará a los integrantes del Comité, a los asesores e invitados, por conducto del secretario técnico, con tres días hábiles de anticipación a la celebración de la sesión respectiva; salvo en caso de asuntos urgentes autorizados por el presidente del Comité, que de ser posible se podrán enviar con 24 horas de anticipación;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+IV. Serán videograbadas desde su inicio hasta su conclusión sin ninguna interrupción y de cada una se levantará acta, la cual será firmada por los integrantes asistentes, previa aprobación de ésta, dejando constancia de la videograbación; y
 
 V. Proponer a la Comisión de Administración para su visto bueno a más tardar en la segunda sesión ordinaria del año, la propuesta de parámetros de adjudicación que regirán en los distintos procedimientos de adjudicación, los cuales se someterán a la aprobación del Pleno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 272.
 
-Los titulares de la Dirección General de Asuntos Jurídicos y de la Dirección General de Auditoría serán observadores permanentes del Comité y tendrán las siguientes funciones:
+Los titulares de la Dirección General de Asuntos Jurídicos y de la Dirección General de Auditoría serán asesores permanentes del Comité y tendrán las siguientes funciones:
 
 I. Asistir a las reuniones del Comité con derecho a voz pero sin voto;
 
@@ -3841,11 +3815,15 @@ Para ello, se requerirá solicitud por escrito a la que se deberán anexar las e
 
 La solicitud deberá presentarse en las siguientes instancias:
 
-I. Tratándose de áreas administrativas y órganos jurisdiccionales del Distrito Federal y zona conurbada, en la Administración del Edificio que les corresponda; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+I. Tratándose de áreas administrativas y órganos jurisdiccionales de la Ciudad de México y zona conurbada, en la Administración del Edificio que les corresponda; y
 
 II. Tratándose de áreas administrativas y órganos jurisdiccionales del interior de la República, en la Administración Regional o Delegación Administrativa que les corresponda.
 
-Para atender el requerimiento solicitado, las áreas operativas someterán la petición a la Secretaría Ejecutiva de Administración y exhibirán la documentación soporte para que, de considerarlo procedente, y de no encontrarse dentro de su ámbito de competencia, lo someta al Pleno para su aprobación, previa certificación de la Dirección General de Programación y Presupuesto de la disponibilidad presupuestal, conforme a lo dispuesto por las políticas y lineamientos para el ejercicio del Presupuesto de Egresos del Poder Judicial de la Federación.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Para atender el requerimiento solicitado, las áreas operativas someterán la petición a la Secretaría Ejecutiva de Administración y exhibirán la documentación soporte para que, de considerarlo procedente, y de no encontrarse dentro de su ámbito de competencia, lo someta al Pleno para su aprobación, previa certificación de la Dirección General de Programación, Presupuesto y Tesorería de la disponibilidad presupuestal, conforme a lo dispuesto por las políticas y lineamientos para el ejercicio del Presupuesto de Egresos del Poder Judicial de la Federación.
 
 ###### Artículo 285.
 
@@ -3927,9 +3905,13 @@ En todos los supuestos se deberá dejar constancia en el expediente de las solic
 
 La investigación de mercado no podrá tener una antigüedad mayor a un año contado a partir del momento de su formulación y hasta el acto de recepción y apertura de las ofertas del procedimiento de adjudicación. Para la realización de dicho acto y con base en esa vigencia, el área operativa deberá tomar en cuenta la naturaleza de los bienes, arrendamientos y servicios a adjudicar. La investigación de mercado que se utiliza como base para la convocatoria de éstos, deberá tomar en consideración la correspondiente actualización al Índice Nacional de Precios al Consumidor.
 
-La elaboración de la investigación de mercado es responsabilidad del área requirente y del área contratante, la investigación y su resultado deberán documentarse e integrarse al expediente de contratación correspondiente.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-El área requirente deberá proporcionar al área contratante, toda la documentación relativa a las investigaciones que haya realizado, atendiendo a los criterios de transparencia, coordinación y simplificación administrativa.
+La elaboración de la investigación de mercado es responsabilidad del área solicitante y del área contratante, la investigación y su resultado deberán documentarse e integrarse al expediente de contratación correspondiente.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+El área solicitante deberá proporcionar al área contratante, toda la documentación relativa a las investigaciones que haya realizado, atendiendo a los criterios de transparencia, coordinación y simplificación administrativa.
 
 ###### Artículo 293.
 
@@ -3963,9 +3945,13 @@ I. Adquirir un bien, obra o servicio determinado en distintos momentos y que la 
 
 II. Los trabajos objeto de las contrataciones se refieran a la misma obra o proyecto. Lo anterior, no resultará aplicable en los casos en que el área responsable de la contratación, haya acreditado la necesidad de contratar por especialidad ante la instancia competente;
 
-III. El área responsable de la contratación o el área requirente pudieron prever las contrataciones con el mismo objeto, de bienes, servicios, obras públicas y servicios relacionados con las mismas, en un solo procedimiento, sin que se haya realizado de esta forma; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-IV. Las solicitudes de contratación señaladas se hayan hecho por la misma área requirente y el área responsable de la contratación sea la misma, o bien, el área requirente sea la misma y el área responsable de la contratación sea diferente.
+III. El área responsable de la contratación o el área solicitante pudieron prever las contrataciones con el mismo objeto, de bienes, servicios, obras públicas y servicios relacionados con las mismas, en un solo procedimiento, sin que se haya realizado de esta forma; y
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+IV. Las solicitudes de contratación se hayan hecho por las mismas áreas solicitantes y responsables de la contratación; o bien, el área solicitante sea la misma y el área responsable de la contratación sea diferente.
 
 ###### Artículo 295.
 
@@ -4051,9 +4037,11 @@ Para efectos de transparencia todos los documentos generados en los procedimient
 
 Adicionalmente, en todos los casos dicha área deberá presentar un informe mensual a la Contraloría, por conducto de la Secretaría Ejecutiva de Administración.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 297.
 
-Previo al inicio de los procedimientos de adjudicación se deberá contar con saldo disponible en la partida presupuestal correspondiente, el que emitirá la Dirección General de Programación y Presupuesto, para ello adoptará los mecanismos necesarios a fin de que las áreas operativas cuenten con la información respectiva de manera ágil y expedita. El ejercicio del gasto deberá ser justificado conforme a las disposiciones aplicables en la materia.
+Previo al inicio de los procedimientos de adjudicación se deberá contar con saldo disponible en la partida presupuestal correspondiente, el que emitirá la Dirección General de Programación, Presupuesto y Tesorería, para ello adoptará los mecanismos necesarios a fin de que las áreas operativas cuenten con la información respectiva de manera ágil y expedita. El ejercicio del gasto deberá ser justificado conforme a las disposiciones aplicables en la materia.
 
 ###### Artículo 298.
 
@@ -4071,7 +4059,7 @@ II. Aquéllas con las que los servidores públicos que intervengan en cualquier 
 
 III. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien, las sociedades de las que dichas personas formen parte, sin la autorización previa y específica del Pleno; así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO A LA CELEBRACIÓN DE CONTRATOS EN MATERIA DE CAPACITACIÓN DEL INSTITUTO DE LA JUDICATURA, D.O.F. 7 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO A LA CELEBRACIÓN DE CONTRATOS EN MATERIA DE CAPACITACIÓN DEL INSTITUTO DE LA JUDICATURA, D.O.F. 7 DE FEBRERO DE 2018)</small>
 
 Se exceptúan de lo anterior, las personas que desempeñen un empleo, cargo o comisión en el servicio público, con los que se celebre contrato para la impartición de asignaturas que integran los programas académicos del Instituto de la Judicatura, supuesto en el cual no se requerirá autorización previa del Pleno. Para tal efecto, el Director General del Instituto deberá presentar un informe semestral de las contrataciones que realice conforme a lo previsto en este párrafo;
 
@@ -4135,9 +4123,11 @@ Para tal efecto el Consejo llevará, en forma coordinada con la Suprema Corte de
 
 Las áreas administrativas y los órganos jurisdiccionales requerirán a las áreas operativas la contratación de las adquisiciones, arrendamientos, prestación de servicios y de obra pública según sus necesidades, mediante los mecanismos que para ello establezca la Secretaría Ejecutiva de Administración en los manuales respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 302.
 
-La Dirección General de Asuntos Jurídicos elaborará dictamen legal para lo cual el licitante deberá proporcionar lo siguiente:
+La Dirección General de Asuntos Jurídicos elaborará dictamen jurídico para lo cual el licitante deberá proporcionar lo siguiente:
 
 I. Nombre de la persona física o razón o denominación social de la persona moral, así como el de su apoderado o representante legal;
 
@@ -4149,29 +4139,35 @@ IV. Identificación oficial vigente de la persona física licitante y, en su cas
 
 V. Instrumento en el que constan las facultades del apoderado o representante, así como su identificación oficial vigente.
 
-Una vez notificado del fallo, el o los adjudicados deberán presentar al área operativa los documentos a que se refiere este artículo en original y copia para su cotejo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Los documentos debidamente cotejados serán remitidos a la Dirección General de Asuntos Jurídicos para la elaboración del dictamen correspondiente, dentro de los tres días posteriores a la recepción de la totalidad de los mismos.
+Una vez notificado del fallo de la licitación pública, el o los adjudicados deberán presentar al área operativa los documentos a que se refiere este artículo en original y copia para su cotejo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Los documentos debidamente cotejados serán remitidos a la Dirección General de Asuntos Jurídicos para la elaboración del dictamen jurídico correspondiente, dentro de los tres días posteriores a la recepción de la totalidad de los mismos.
 
 Tratándose de licitantes extranjeros, dichos documentos deberán estar debidamente legalizados o apostillados, y tendrán que presentarse redactados en español, o acompañados de la traducción correspondiente.
 
-En caso de que el dictamen legal no sea favorable, previo a la firma del contrato, el Consejo iniciará en contra del adjudicado el procedimiento de impedimento al que se refiere el artículo 300 de este Acuerdo, independientemente de proceder a adjudicar conforme a lo establecido en el artículo 329 del mismo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELACIONADO CON EL DICTAMEN RESOLUTIVO FINANCIERO, D.O.F. 1 DE ABRIL DE 2016)</small>
+En caso de que el dictamen jurídico no sea favorable, previo a la firma del contrato, el Consejo iniciará en contra del adjudicado el procedimiento de impedimento al que se refiere el artículo 300 de este Acuerdo, independientemente de proceder a adjudicar conforme a lo establecido en el artículo 329 del mismo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 303.
 
-La Dirección General de Programación y Presupuesto realizará el dictamen resolutivo financiero con base en este Capítulo y los lineamientos que determine el Comité, en los cuales se especificarán las razones financieras que se deben valorar, las fórmulas de cálculo y los parámetros; así como los criterios de calificación de los participantes en función del giro o mercado de los bienes o servicios a adjudicar, y el objeto del procedimiento de contratación a fin de evaluar la capacidad financiera de los participantes. En todo caso los criterios de calificación y la documentación que será solicitada, deberán precisarse en las bases de licitación de cada procedimiento.
+La Dirección General de Programación, Presupuesto y Tesorería realizará el dictamen resolutivo financiero con base en este Capítulo y los lineamientos que determine el Comité, en los cuales se especificarán las razones financieras que se deben valorar, las fórmulas de cálculo y los parámetros; así como los criterios de calificación de los participantes en función del giro o mercado de los bienes o servicios a adjudicar, y el objeto del procedimiento de contratación a fin de evaluar la capacidad financiera de los participantes. En todo caso los criterios de calificación y la documentación que será solicitada, deberán precisarse en las bases de licitación de cada procedimiento.
 
-No obstante lo anterior, la Dirección General de Programación y Presupuesto podrá determinar si en el procedimiento, por la naturaleza de la operación, no se requiere del dictamen financiero.
+No obstante lo anterior, la Dirección General de Programación, Presupuesto y Tesorería podrá determinar si en el procedimiento, por la naturaleza de la operación, no se requiere del dictamen financiero.
 
 El Comité determinará los lineamientos antes de la aprobación de los Programas Anuales de Ejecución de Adquisiciones, Arrendamientos, Obra Pública y Servicios, con excepción de las contrataciones no programadas, de las cuales se emitirán a petición de las áreas operativas una vez aprobadas por el Pleno.
 
 La documentación financiera deberá presentarse en el procedimiento de adjudicación de que se trate, en el mismo acto de apertura de las propuestas.
 
-Dicha documentación no se solicitará en los procedimientos que determine la Dirección General de Programación y Presupuesto, salvo que por razón de las características de los trabajos a juicio del área operativa sea necesario; y en los de adjudicación directa, siempre y cuando no deriven de una licitación pública o invitación a cuando menos tres proveedores o contratistas, que sea declarada desierta.
+Dicha documentación no se solicitará en los procedimientos que determine la Dirección General de Programación, Presupuesto y Tesorería, salvo que por razón de las características de los trabajos a juicio del área operativa sea necesario; y en los de adjudicación directa, siempre y cuando no deriven de una licitación pública o invitación a cuando menos tres proveedores o contratistas, que sea declarada desierta.
 
-Cuando derivado del análisis de la documentación financiera se detecten errores aritméticos en la información, que no impacten en la estructura del activo, pasivo y capital contable, la Dirección General de Programación y Presupuesto, a través de las áreas operativas, podrá solicitar que la participante realice por escrito la aclaración correspondiente en un plazo de dos días hábiles a partir de la notificación.
+Cuando derivado del análisis de la documentación financiera se detecten errores aritméticos en la información, que no impacten en la estructura del activo, pasivo y capital contable, la Dirección General de Programación, Presupuesto y Tesorería, a través de las áreas operativas, podrá solicitar que la participante realice por escrito la aclaración correspondiente en un plazo de dos días hábiles a partir de la notificación.
 
 ###### Artículo 304.
 
@@ -4785,7 +4781,9 @@ II. El desarrollo del procedimiento de invitación considerando las incidencias 
 
 III. La propuesta de adjudicación que ofrezca las mejores condiciones para el Consejo.
 
-El dictamen deberá someterse a la consideración del Secretario Ejecutivo de Administración, a fin de que realice la valoración formal y, con base en ello, emita el fallo respectivo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+El dictamen deberá someterse a la consideración del Secretario Ejecutivo de Administración, para la emisión del fallo respectivo.
 
 ###### Artículo 339.
 
@@ -5027,7 +5025,9 @@ IV. Los participantes en el procedimiento contarán con un plazo máximo de cinc
 
 En el caso de que se requiera realizar visita al sitio o junta de aclaraciones, el plazo antes referido se contará a partir del día siguiente al en que se realice dicho evento.
 
-Los participantes podrán presentar sus propuestas directamente en el área de adquisiciones o de obras, según corresponda, ya sea en original, servicio postal o por medios electrónicos, en la fecha y horario señalados en la convocatoria y las bases;
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Los participantes podrán presentar sus propuestas directamente en el área de adquisiciones o de obras, según corresponda, ya sea en original, servicio postal o por medios electrónicos, en el plazo señalado en la convocatoria y en las bases;
 
 V. La autorización de adjudicación del procedimiento la otorgará el servidor público que corresponda conforme al artículo 263, fracción IV, de este Acuerdo, mediante la firma de un punto de acuerdo, el cual deberá estar debidamente fundado y motivado respecto del proveedor o contratista a adjudicar, exponiendo las razones por las que su propuesta reúne las mejores condiciones, así como que existe la presunción de certeza que el proveedor o contratista cumplirá dentro del plazo establecido las obligaciones que asumirá con la firma del instrumento jurídico correspondiente, con base en el historial que tenga, por ser recurrente o por la información que, en su caso, sea recabada por los áreas administrativas competentes del Consejo;
 
@@ -5217,9 +5217,11 @@ Cuando los proveedores, contratistas y prestadores de servicios demuestren la ex
 
 Cualquier modificación a los contratos deberá formalizarse por escrito por parte de las áreas operativas responsables, los instrumentos legales respectivos serán suscritos por el servidor público que haya firmado el contrato o quien lo sustituya o esté facultado para ello.
 
-El servidor público facultado para suscribir el contrato se abstendrá de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones –salvo el supuesto del párrafo siguiente- y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor o contratista, comparadas con las establecidas originalmente y a modificar un contrato cuya vigencia haya expirado.
+El servidor público facultado para suscribir el contrato se abstendrá de hacer modificaciones que se refieran a precios, anticipos, pagos progresivos, especificaciones -salvo el supuesto del párrafo siguiente- y, en general, cualquier cambio que implique otorgar condiciones más ventajosas a un proveedor o contratista, comparadas con las establecidas originalmente y a modificar un contrato cuya vigencia haya expirado.
 
-La modificación de especificaciones técnicas de bienes o condiciones en la prestación de servicios sólo será procedente en los casos en que resulte beneficiado el Consejo, con aprobación del Comité previo dictamen favorable del área requirente y, en su caso, de la Dirección General de Tecnologías de la Información; esto, siempre que se respeten las condiciones de precio, calidad y demás que se hayan pactado originalmente y no se altere el objeto del contrato.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+La modificación de especificaciones técnicas de bienes o condiciones en la prestación de servicios sólo será procedente en los casos en que resulte beneficiado el Consejo, con aprobación del Comité previo dictamen favorable del área solicitante y, en su caso, de la Dirección General de Tecnologías de la Información; esto, siempre que se respeten las condiciones de precio, calidad y demás que se hayan pactado originalmente y no se altere el objeto del contrato.
 
 #### SECCIÓN NOVENA. INCONFORMIDAD
 
@@ -5573,6 +5575,8 @@ Si del finiquito resulta que existen saldos a favor del Consejo, su importe se d
 
 #### SECCIÓN TERCERA. RESPONSABLE INMOBILIARIO
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 404.
 
 En las contrataciones que realice el Consejo en las materias objeto de este Capítulo, los proveedores y contratistas deberán otorgar a favor del propio Consejo las garantías previstas en esta Subsección.
@@ -5635,9 +5639,11 @@ Quedarán a salvo los derechos del Consejo para exigir el pago de las cantidades
 
 Esta garantía deberá ser entregada dentro del plazo de cinco días hábiles contados a partir de la fecha de recepción de los bienes o servicios, o bien, de los trabajos de obra pública o servicios relacionados.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 408.
 
-Las garantías a que se refiere esta Subsección deberán contar invariablemente con la aprobación de la Dirección General de Asuntos Jurídicos, en el sentido de que cumplen con los requisitos legales correspondientes.
+Las garantías a que se refiere esta Subsección deberán contar invariablemente con el dictamen jurídico de la Dirección General de Asuntos Jurídicos, en el sentido de que cumplen con los requisitos legales correspondientes; con excepción de aquellas garantías que deriven de los instrumentos jurídicos que no requerirán opinión o dictamen jurídico de esta unidad administrativa, de conformidad con el artículo 535 de este Acuerdo.
 
 SUBSECCIÓN SEGUNDA
 
@@ -5707,6 +5713,8 @@ Lo anterior, sin perjuicio de aplicar las penas convencionales que procedan y, e
 
 #### SECCIÓN CUARTA. ACCIONES PREVIAS AL ARRENDAMIENTO
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 416.
 
 Los contratos celebrados en la materia objeto de este Capítulo podrán darse por terminados, sin responsabilidad para el Consejo, en los siguientes supuestos:
@@ -5747,7 +5755,9 @@ En caso de incumplimiento de las obligaciones a cargo del proveedor o contratist
 
 No obstante lo previsto en el párrafo anterior, a solicitud debidamente justificada por escrito que formule el proveedor o contratista, el Comité podrá autorizar que se modifiquen las obligaciones contraídas originalmente, así como los plazos respectivos, a fin de que cumpla con las mismas. Lo anterior, sin perjuicio de que dicho órgano se pronuncie sobre la aplicación de las penas que, en su caso, procedan. En todo caso se deberá observar lo dispuesto en el artículo 368 de este Acuerdo y demás disposiciones aplicables.
 
-En caso de ser autorizada la modificación al proveedor o contratista, se elaborará un convenio modificatorio con la participación de la Dirección General de Asuntos Jurídicos, debiéndose verificar que la garantía presentada respecto del cumplimiento de las obligaciones continúe vigente o se otorgue una nueva para garantizar los términos de dicho convenio.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+En caso de ser autorizada la modificación al proveedor, prestador de servicios o contratista, se elaborará un convenio modificatorio respecto del cual la Dirección General de Asuntos Jurídicos emitirá el dictamen jurídico, debiéndose verificar que la garantía presentada respecto del cumplimiento de las obligaciones continúe vigente o se otorgue una nueva para garantizar los términos de dicho convenio.
 
 Si no se autoriza la modificación o si autorizada persiste incumplimiento, en todo caso deberá iniciarse procedimiento de rescisión y la aplicación de las penas establecidas en los contratos.
 
@@ -5861,7 +5871,7 @@ En los casos de rescisión o terminación anticipada de contratos en que se haya
 
 #### SECCIÓN QUINTA. ARRENDAMIENTOS
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 430.
 
@@ -6161,7 +6171,7 @@ V. La Coordinación de Administración Regional;
 
 VI. La Dirección General de Asuntos Jurídicos;
 
-VII. La Dirección General de Recursos Materiales;
+VII. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)
 
 VIII. La Dirección General de Servicios Generales;
 
@@ -6175,17 +6185,15 @@ X. Las Administraciones Regionales y Delegaciones Administrativas.
 
 El Comité de Administración Inmobiliaria, es de carácter permanente, y tendrá a su cargo el ejercicio de las atribuciones señaladas en el artículo 458 de este Acuerdo, sin perjuicio del ejercicio directo de las mismas por parte de la Comisión de Administración.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 457.
 
 El Comité de Administración Inmobiliaria estará integrado en los siguientes términos:
 
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
-
 I. Presidente: El titular de la Secretaría Ejecutiva de Administración; y
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-II. Vocales: Los titulares de la Secretaría Ejecutiva de Finanzas y Servicios Personales; y de la Coordinación de Administración Regional.
+II. Vocales: Los titulares de la Coordinación de Administración Regional; y de la Dirección General de Programación, Presupuesto y Tesorería.
 
 ###### Artículo 458.
 
@@ -6205,9 +6213,13 @@ V. Proponer a la Comisión de Administración la autorización de los incremento
 
 VI. Autorizar, previo informe que se rinda a la Comisión de Administración, los casos de excepción para realizar mejoras, adaptaciones e instalación de equipos especiales, antes de la firma del contrato respectivo; un plazo mayor a tres meses para la ejecución de mejoras a los inmuebles arrendados, cuando se acredite la justificación para ello y, en su caso, las estipulaciones distintas a las contenidas en los modelos de contrato elaborados por la Dirección General de Asuntos Jurídicos propuestas por los arrendadores;
 
-VII. Requerir a las áreas competentes del Consejo, señaladas en las fracciones V, VII y X del artículo 455 de este Acuerdo, de manera semestral, la información sobre los contratos de arrendamiento y sus renovaciones que hayan celebrado;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-VIII. Solicitar a la Comisión de Administración la autorización para la aceptación o devolución de bienes inmuebles que sean concedidos en comodato al Consejo, conforme a los dictámenes técnicos, funcionales y presupuestales que le sean presentados por las áreas requirentes;
+VII. Requerir a las áreas competentes del Consejo, señaladas en las fracciones V, VIII y X del artículo 455 de este Acuerdo, de manera semestral, la información sobre los contratos de arrendamiento y las renovaciones;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+VIII. Solicitar a la Comisión de Administración la autorización para la aceptación o devolución de bienes inmuebles que sean concedidos en comodato o asignación o por cualquier otra figura legal al Consejo, conforme a los dictámenes técnicos, funcionales y presupuestales que le sean presentados por las áreas requirentes;
 
 IX. Opinar sobre las solicitudes de adquisición, enajenación y desincorporación de bienes inmuebles federales al servicio del Poder Judicial de la Federación, que sean sometidas a su consideración, para la aprobación del Pleno, previo acuerdo de la Comisión de Administración;
 
@@ -6215,7 +6227,9 @@ X. Solicitar al Pleno, previa opinión de la Comisión de Administración, la ce
 
 XI. Determinar, previa opinión de la Comisión de Administración, la adjudicación que corresponda, mediante el fallo respectivo en los procedimientos de licitación pública para la enajenación onerosa de bienes inmuebles a cargo del Consejo;
 
-XII. Valorar y proponer al Pleno, previa opinión de la Comisión de Administración, la devolución de bienes inmuebles federales al Instituto de Administración y Avalúos de Bienes Nacionales, que no sean susceptibles de aprovechamiento por parte del Consejo;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XII. Valorar y proponer al Pleno, previa opinión de la Comisión de Administración, la recepción o devolución de bienes inmuebles federales al Instituto de Administración y Avalúos de Bienes Nacionales, que no sean susceptibles de aprovechamiento por parte del Consejo;
 
 XIII. Proponer a la Comisión de Administración, para su aprobación, los procedimientos de actualización y control del patrimonio inmobiliario del Poder Judicial de la Federación;
 
@@ -6225,7 +6239,9 @@ XV. Disponer que se tramiten por conducto de la Dirección General de Asuntos Ju
 
 XVI. Proporcionar el apoyo e información, dentro del marco de sus atribuciones, al Comité Técnico del Fondo de Apoyo; y
 
-XVII. Informar a la Comisión de Administración y, en su caso, al Pleno, según se determine, sobre el ejercicio de las atribuciones contenidas en este artículo, siendo las áreas administrativas correspondientes, las responsables por la información, evaluación y propuestas que presenten.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XVII. Informar a la Comisión de Administración y, en su caso, al Pleno, según se determine, sobre el ejercicio de las atribuciones contenidas en este artículo, siendo las áreas administrativas correspondientes, las responsables de la información, evaluación y propuestas que presenten.
 
 ###### Artículo 459.
 
@@ -6323,9 +6339,9 @@ Las sesiones del Comité se celebrarán de la siguiente forma:
 
 I. Tendrán lugar siempre que sea necesario y las decisiones se tomarán por mayoría de votos. En caso de empate el Presidente tendrá voto de calidad;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-II. Para la validez de las sesiones será necesaria la presencia del presidente y un vocal. En casos estrictamente necesarios, en ausencia del presidente, las sesiones serán presididas por el titular de la Secretaría Ejecutiva de Finanzas y Servicios Personales, con la asistencia del otro vocal;
+II. Para la validez de las sesiones será necesaria la presencia del presidente y un vocal;
 
 III. La convocatoria se notificará a los miembros del Comité con un día hábil de anticipación; sin embargo, en sesiones extraordinarias dicho término podrá reducirse;
 
@@ -6345,17 +6361,27 @@ VIII. Invariablemente deberá incluirse en el orden del día un apartado corresp
 
 ###### Artículo 464.
 
-En cumplimiento a lo dispuesto por la fracción IV del artículo 23 de la Ley General de Bienes Nacionales, el Secretario Ejecutivo Administración será el Responsable Inmobiliario del Consejo y tendrá a su cargo la coordinación, supervisión y evaluación de las acciones que en materia inmobiliaria realicen, en el ámbito de su competencia la Coordinación de Administración Regional, y las Direcciones Generales de Recursos Materiales; de Servicios Generales; y de Inmuebles y Mantenimiento, así como las Administraciones Regionales y Delegaciones Administrativas. De igual manera, podrá auxiliarse de la Dirección General de Asuntos Jurídicos.
+En cumplimiento a lo dispuesto por la fracción IV del artículo 23 de la Ley General de Bienes Nacionales, el Secretario Ejecutivo (sic) Administración será el Responsable Inmobiliario del Consejo y tendrá a su cargo la coordinación, supervisión y evaluación de las acciones que en materia inmobiliaria realicen, en el ámbito de su competencia las Direcciones Generales de Servicios Generales; de Inmuebles y Mantenimiento; la Coordinación de Administración Regional; las Administraciones Regionales y Delegaciones Administrativas. De igual manera, podrá auxiliarse de la Dirección General de Asuntos Jurídicos.
 
 ###### Artículo 465.
 
 Corresponde al Responsable Inmobiliario lo siguiente:
 
-I. Coordinar el acopio y actualización de la información y documentación relativa a los inmuebles al servicio del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+I. Coordinar el acopio y actualización de la información y documentación relativa a los inmuebles al servicio del Poder Judicial de la Federación.
+
+Asimismo, el Responsable Inmobiliario realizará a través de la Coordinación de Administración Regional y de la Dirección General de Servicios Generales en el ámbito de su competencia las funciones operativas inherentes al registro y actualización del sistema de administración de inmuebles, para la atención de requerimientos;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+I Bis. Suscribir instrumentos jurídicos en materia inmobiliaria con los titulares de otras dependencias federales, estatales o locales, previo dictamen jurídico de la Dirección General de Asuntos Jurídicos; atribución que podrá delegar a los titulares de la Coordinación de Administración Regional; de la Dirección General de Inmuebles y Mantenimiento; y de la Dirección General de Servicios Generales, según corresponda;
 
 II. Instruir a las áreas competentes para la conformación del inventario, catastro y sistema de administración de inmuebles respecto de los bienes inmuebles a que se refiere la fracción anterior;
 
-III. Proporcionar a la Secretaría de la Función Pública, en los términos establecidos por el artículo 24 de la Ley General de Bienes Nacionales, la información que generen las áreas competentes relativa a los inmuebles a cargo del Consejo, a efecto de que sea incorporada al Sistema de Información Inmobiliaria Federal y Paraestatal;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+III. Proporcionar, directamente o a través de la Coordinación de Administración Regional y la Dirección General de Servicios Generales, según corresponda, a la autoridad competente, en los términos establecidos por el artículo 24 de la Ley General de Bienes Nacionales, la información que generen las áreas referidas, relativa a los inmuebles a cargo del Consejo, a efecto de que sea incorporada al Sistema de Información Inmobiliaria Federal y Paraestatal;
 
 IV. Supervisar las acciones que realicen las áreas señaladas en el artículo anterior; la situación física, jurídica y administrativa de los inmuebles al servicio del Consejo, así como ordenar los levantamientos topográficos y elaboración de planos, para efectos de la conformación y actualización del inventario, catastro y registro de dichos inmuebles;
 
@@ -6377,7 +6403,7 @@ XI. Las demás que determine el Pleno y la Comisión de Administración.
 
 ###### Artículo 466.
 
-La Dirección General de Recursos Materiales tendrá a su cargo la localización y arrendamiento de inmuebles para el Poder Judicial de la Federación, que se requieran en el Distrito Federal y su zona conurbada; mientras que en el resto de la República Mexicana, dicha responsabilidad la tendrán las Administraciones Regionales, bajo la supervisión de la citada Dirección General, excepto que la Comisión de Administración determine que otras instancias pueden realizar esa función.
+La Dirección General de Servicios Generales tendrá a su cargo la localización y arrendamiento de inmuebles para el Poder Judicial de la Federación, que se requieran en la Ciudad de México y su zona conurbada; mientras que en el resto de la República Mexicana, dicha responsabilidad la tendrán las Administraciones Regionales, bajo la supervisión de la Coordinación de Administración Regional, excepto que la Comisión de Administración determine que otras instancias puedan realizar esa función.
 
 ###### Artículo 467.
 
@@ -6391,7 +6417,9 @@ III. En casos urgentes.
 
 La Dirección General de Inmuebles y Mantenimiento determinará las características del inmueble a localizar y las especificaciones necesarias, que entregará a las instancias que se encargarán de la búsqueda.
 
-En todos los casos, la Coordinación de Administración Regional y la Dirección General de Recursos Materiales, según corresponda, comunicarán, de manera permanente, a la Secretaría Ejecutiva de Administración, las acciones llevadas a cabo en la búsqueda de inmuebles, para su control y seguimiento.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+En todos los casos, la Coordinación de Administración Regional y la Dirección General de Servicios Generales, según corresponda, comunicarán de manera permanente a la Secretaría Ejecutiva de Administración, las acciones llevadas a cabo en la búsqueda de inmuebles, para su control y seguimiento.
 
 ###### Artículo 468.
 
@@ -6429,9 +6457,11 @@ XII. Los documentos del arrendador que lo acrediten como propietario del inmuebl
 
 En todos los casos se deberá prever que el inmueble propuesto tenga espacio suficiente para estacionamiento, tomando en consideración los requerimientos que en esta materia se prevén en las reglamentaciones locales. De resultar insuficiente para los requerimientos previstos, se contratará el servicio de estacionamiento o, en su caso, rentará un bien inmueble cercano que sirva para ese propósito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 471.
 
-Para la recepción de inmuebles se levantará acta circunstanciada por la Coordinación de Administración Regional o la Dirección General de Recursos Materiales, según corresponda, en la que se hará constar:
+Para la recepción de inmuebles se levantará acta circunstanciada por la Coordinación de Administración Regional o la Dirección General de Servicios Generales, según corresponda, en la que se hará constar:
 
 I. El inventario y las condiciones de las instalaciones y equipos propios del inmueble; y
 
@@ -6449,7 +6479,7 @@ Antes de formalizar el arrendamiento, la Dirección General de Inmuebles y Mante
 
 ###### Artículo 473.
 
-Los titulares de la Secretaría Ejecutiva de Creación de Nuevos Órganos; de la Coordinación de Administración Regional y de la Dirección General de Recursos Materiales presentarán al Comité de Administración Inmobiliaria, las necesidades de espacio para la instalación o reubicación de órganos jurisdiccionales o áreas administrativas.
+Los titulares de la Coordinación de Administración Regional y de la Dirección General de Servicios Generales presentarán al Comité de Administración Inmobiliaria, las necesidades de espacio para la instalación o reubicación de órganos jurisdiccionales, auxiliares o áreas administrativas.
 
 ###### Artículo 474.
 
@@ -6467,13 +6497,17 @@ Dichas instancias señalarán el plazo de vigencia del aviso, vencido éste se p
 
 III. Se solicitará al arrendador que exhiba los documentos que lo acrediten como propietario del inmueble, o que cuenta con la personalidad jurídica suficiente para ofrecerlo en arrendamiento y negociar los términos del mismo, así como los permisos y documentos que demuestren que el inmueble cuenta con el uso de suelo correspondiente; y
 
-IV. La Dirección General de Inmuebles y Mantenimiento, tratándose de inmuebles para albergar órganos jurisdiccionales, o las Administraciones, en el caso de las áreas administrativas, dictaminarán si el inmueble es viable y realizarán una estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado, lo que se comunicará a la Dirección General de Recursos Materiales, cuando se trate de inmuebles ubicados en el Distrito Federal y zona conurbada.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+IV. La Dirección General de Inmuebles y Mantenimiento, tratándose de inmuebles para albergar órganos jurisdiccionales, o las Administraciones, en el caso de las áreas administrativas, dictaminarán si el inmueble es viable y realizarán una estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado, lo que se comunicará a la Dirección General de Servicios Generales, cuando se trate de inmuebles ubicados en la Ciudad de México y zona conurbada.
 
 Cuando se trate de espacios ubicados en el resto de la República Mexicana, en los que se pretenda albergar áreas administrativas, el dictamen lo deberá elaborar la Coordinación de Administración Regional de que se trate, cumpliendo con los requisitos establecidos por la Dirección General de Inmuebles y Mantenimiento, y solo en los casos en que el inmueble presente afectaciones estructurales de importancia a consideración del área técnica de la Coordinación de Administración Regional, o los costos de adaptaciones no se ajusten a lo establecido en el artículo 477 de este Acuerdo, así como cuando por circunstancias particulares se considere necesaria la intervención de la Dirección General de Inmuebles y Mantenimiento, el dictamen técnico será elaborado por ésta última.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 475.
 
-Una vez definido el inmueble idóneo para el arrendamiento, la Dirección General de Recursos Materiales o las Administraciones Regionales, según corresponda, deberán negociar el contrato, tomando en cuenta lo siguiente:
+Una vez definido el inmueble idóneo para el arrendamiento, la Dirección General de Servicios Generales o las Administraciones Regionales, según corresponda, deberán negociar el contrato, tomando en cuenta lo siguiente:
 
 I. Que el precio sea acorde a las condiciones del mercado inmobiliario de la localidad, lo cual se verificará mediante avalúo de justipreciación de rentas, el cual podrá ser elaborado por las instituciones de crédito o sociedades nacionales de crédito o por la Sociedad de Ingenieros Civiles Valuadores, afiliada al Colegio de Ingenieros de México, por peritos especializados afiliados a las Sociedades Civiles o Colegios de Ingenieros de las localidades o aquellos registrados ante las autoridades correspondientes de los Estados, según se considere más conveniente; sólo por excepción podrá solicitarse avalúo distinto a los antes indicados y, en casos urgentes, prescindirse del mismo; y
 
@@ -6483,7 +6517,9 @@ II. El monto de la renta podrá variar del establecido en el avalúo, pero se de
 
 La Dirección General de Asuntos Jurídicos deberá proporcionar a las instancias encargadas de la negociación, los modelos de contratos de arrendamiento autorizados, así como una relación de los documentos necesarios para su tramitación; y si el arrendador acepta el modelo de contrato y exhibe los documentos de referencia, se llevará a cabo su formalización.
 
-Si hubiere discrepancia con alguna de sus cláusulas, o el arrendador propone otro modelo de contrato, dicha situación se hará del conocimiento de la Dirección General de Asuntos Jurídicos para su análisis y, en su caso, aprobación. Si el dictamen es el de respetar el modelo de contrato aprobado por el Consejo y el arrendador no lo acepta, el asunto se someterá a la consideración del Comité de Administración Inmobiliaria, por conducto de la Coordinación de Administración Regional o de la Dirección General de Recursos Materiales, según corresponda, para que decida en definitiva.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Si hubiere discrepancia con alguna de sus cláusulas, o el arrendador propone otro modelo de contrato, dicha situación se hará del conocimiento de la Dirección General de Asuntos Jurídicos para su análisis y, en su caso, aprobación. Si la opinión o el dictamen jurídico es el de respetar el modelo de contrato aprobado por el Consejo y el arrendador no lo acepta, el asunto se someterá a la consideración del Comité de Administración Inmobiliaria, por conducto de la Coordinación de Administración Regional o de la Dirección General de Servicios Generales, según corresponda, para que decida en definitiva.
 
 ###### Artículo 477.
 
@@ -6493,59 +6529,63 @@ El monto de las erogaciones en mejoras y adaptaciones, con excepción de equipos
 
 Corresponde a la Dirección General de Asuntos Jurídicos elaborar y mantener actualizados los modelos de contrato que se utilizarán en el Consejo, los cuales serán sometidos previamente a la aprobación de la Comisión de Administración.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 479.
 
-La vigencia de los contratos de arrendamiento que celebre el Consejo, podrá iniciar en cualquier fecha del año y tener una duración que exceda el ejercicio presupuestal en que inicie su vigencia. Los compromisos que abarquen más de dos ejercicios deberán autorizarse por la Dirección General de Programación y Presupuesto y atender lo estipulado para dichos casos en este Capítulo.
+La vigencia de los contratos de arrendamiento que celebre el Consejo, podrá iniciar en cualquier fecha del año y tener una duración que exceda el ejercicio presupuestal en que inicie su vigencia. Los compromisos que abarquen más de dos ejercicios deberán autorizarse por la Dirección General de Programación, Presupuesto y Tesorería y atender lo estipulado para dichos casos en este Capítulo.
 
-En caso de contratos de arrendamiento cuya vigencia abarque más de un ejercicio fiscal, la Dirección General de Recursos Materiales, así como las Administraciones Regionales deberán prever el gasto que generará el contrato, su vencimiento y el margen de incremento de la renovación, al realizar el anteproyecto anual de presupuesto.
+En caso de contratos de arrendamiento cuya vigencia abarque más de un ejercicio fiscal, la Dirección General de Servicios Generales, así como las Administraciones Regionales deberán prever el gasto que generará el contrato, su vencimiento y el margen de incremento de la renovación, al realizar el anteproyecto anual de presupuesto.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 480.
 
-La Coordinación de Administración Regional y la Dirección General de Recursos Materiales, según corresponda, deberán prever y gestionar ante la Dirección General de Programación y Presupuesto, las disponibilidades presupuestales que garanticen el pago oportuno de las rentas y de los servicios necesarios para la operación eficiente de los inmuebles que se arrienden y que permitan efectuar con oportunidad las erogaciones indispensables para su conservación, mantenimiento, mejora, adaptación y equipamiento, lo cual deberá ser acorde con la programación anual prevista por el área solicitante.
+La Coordinación de Administración Regional y la Dirección General de Servicios Generales, según corresponda, deberán prever y gestionar ante la Dirección General de Programación, Presupuesto y Tesorería, las disponibilidades presupuestales que garanticen el pago oportuno de las rentas y de los servicios necesarios para la operación eficiente de los inmuebles que se arrienden y que permitan efectuar con oportunidad las erogaciones indispensables para su conservación, mantenimiento, mejora, adaptación y equipamiento, lo cual deberá ser acorde con la programación anual prevista por el área solicitante.
 
 ###### Artículo 481.
 
 Los plazos de los contratos deberán pactarse con una vigencia suficiente que permita al Consejo, amortizar, en su caso, la inversión que se haya utilizado en su adaptación, para lo cual deberá observarse lo establecido en el artículo 474, fracción IV de este Acuerdo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 482.
 
-Los incrementos anuales por concepto de renta podrán negociarse conforme a lo dispuesto en el Índice Nacional de Precios al Consumidor, emitido por el Banco de México, correspondiente a la región en que se ubique el inmueble. Si el aumento pretendido por el arrendador rebasa el parámetro señalado, la Coordinación de Administración Regional o la Dirección General de Recursos Materiales podrá negociar dicho monto hasta un tope igual al factor que fije el Índice General de Precios al Consumidor, y si la pretensión del arrendador rebasa ambos parámetros, el asunto deberá someterse a la consideración del Comité de Administración Inmobiliaria, por conducto de la Coordinación de Administración Regional o de la Dirección General de Recursos Materiales, según corresponda para que, en su caso, previo acuerdo de la Comisión de Administración, se autorice la negociación.
+Los incrementos anuales por concepto de renta podrán negociarse conforme a lo dispuesto en el Índice Nacional de Precios al Consumidor, emitido por el Instituto Nacional de Estadística y Geografía, correspondiente a la región en que se ubique el inmueble. Si el aumento pretendido por el arrendador rebasa el parámetro señalado, la Coordinación de Administración Regional o la Dirección General de Servicios Generales, podrá negociar dicho monto hasta un tope igual al factor que fije el Índice Nacional de Precios al Consumidor, y si la pretensión del arrendador rebasa ambos parámetros, el asunto deberá someterse a la consideración del Comité de Administración Inmobiliaria, por conducto de la Coordinación de Administración Regional o de la Dirección General de Servicios Generales, según corresponda para que, en su caso, previo acuerdo de la Comisión de Administración, se autorice la negociación.
 
-La renovación de los contratos de arrendamiento celebrados por el Consejo, se realizará por la Dirección General de Recursos Materiales o por las Administraciones Regionales, según corresponda, con base en las normas establecidas en este Capítulo y los procedimientos que para tal efecto indique la primera.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+La renovación de los contratos de arrendamiento celebrados por el Consejo, se realizará por la Dirección General de Servicios Generales o por las Administraciones Regionales, según corresponda, con base en las normas establecidas en este Capítulo.
 
 Cuando el arrendador proponga cláusulas distintas a la normatividad vigente en la renovación del contrato, se procederá conforme a lo establecido en el artículo 476 de este Acuerdo.
 
 La renovación de los contratos que deban ser firmados por las áreas centrales del Consejo, en términos del artículo 483 de este Acuerdo, será negociada por los Administradores Regionales, quienes se encargarán de remitir los contratos a las áreas referidas para su formalización.
 
-La Dirección General de Recursos Materiales o las Administraciones Regionales como instancias responsables de la renovación de los contratos, deberán iniciar la negociación de los que deban renovarse, con tres meses de anticipación a la conclusión de la vigencia de los contratos de arrendamiento.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+La Dirección General de Servicios Generales o las Administraciones Regionales como instancias responsables de la renovación de los contratos, deberán iniciar la negociación de los que deban renovarse, con tres meses de anticipación a la conclusión de la vigencia de los contratos de arrendamiento.
 
 El incremento de los importes de la renta, en ningún caso podrá llevarse a cabo dentro de un término inferior a un año.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 483.
 
 El instrumento contractual se formalizará de la siguiente manera:
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+I. Si el monto mensual de la renta es hasta 1320 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, la firma del contrato quedará a cargo del Director General de Servicios Generales o del Administrador del Edificio que corresponda cuando se trate de inmuebles ubicados en la Ciudad de México y zona conurbada, y por el Coordinador de Administración Regional o Administradores Regionales, cuando se trate de inmuebles en el resto de la República Mexicana;
 
-I. Si el monto mensual de la renta es hasta 1320 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, la firma del contrato quedará a cargo del Director General de Recursos Materiales, cuando se trate de inmuebles ubicados en la Ciudad de México y zona conurbada, y por el Coordinador de Administración Regional o Administradores Regionales, cuando se trate de inmuebles en el resto de la República Mexicana;
+II. Si el monto mensual de renta es de 1321 a 2640 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, el contrato de arrendamiento deberá suscribirse por el titular de la Dirección General de Asuntos Jurídicos y por el Coordinador de Administración Regional o el Director General de Servicios Generales, según corresponda, así como por el Administrador del Edificio;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
-
-II. Si el monto mensual de renta es de 1321 a 2640 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, el contrato de arrendamiento deberá suscribirse por los titulares de la Dirección General de Asuntos Jurídicos y por el Coordinador de Administración Regional o el Director General de Recursos Materiales, según corresponda;
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
-
-III. Si el monto mensual de la renta es de 2641 a 13200 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, el contrato deberá suscribirse, previa autorización del Comité de Administración Inmobiliaria, por los Directores Generales de Asuntos Jurídicos y por el Coordinador de Administración Regional o el Director General de Recursos Materiales, según corresponda y por el Secretario Ejecutivo de Administración; y
-
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL DE ORGANIZACIÓN GENERAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE ABRIL DE 2016)</small>
+III. Si el monto mensual de la renta es de 2641 a 13200 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, el contrato deberá suscribirse, previa autorización del Comité de Administración Inmobiliaria, por el Director General de Asuntos Jurídicos y por el Coordinador de Administración Regional o el Director General de Servicios Generales, según corresponda y por el Secretario Ejecutivo de Administración; y
 
 IV. Si el monto mensual de la renta es superior a 13200 veces el valor diario de la Unidad de Medida y Actualización, más el impuesto al valor agregado, el contrato deberá ser firmado por los titulares a que se refiere la fracción anterior, previa autorización de la Comisión de Administración.
 
 En todos los casos, las acciones tendentes a la formalización de los contratos quedarán a cargo de las instancias competentes en los términos del artículo 466 de este Acuerdo y deberán acatar las modalidades indicadas.
 
-Las instancias responsables de la formalización de los contratos de arrendamiento, recabarán las copias necesarias con firma autógrafa de quienes en ella intervinieron, a fin de remitirlas a la Coordinación de Administración Regional y a las Direcciones Generales de Recursos Materiales; y de Asuntos Jurídicos, para que en cada una de estas áreas se lleve a cabo el resguardo y control correspondiente.
+Adicionalmente al pago de renta se podrá pagar una cuota de mantenimiento para las áreas comunes en aquellos inmuebles de uso compartido. El Consejo no cubrirá cuotas de mantenimiento superiores al 10% del importe del arrendamiento.
 
-Una vez formalizado el contrato de arrendamiento se dará aviso a la Dirección General de Asuntos Jurídicos para que proceda a solicitar, de conformidad con las disposiciones aplicables, la exención del pago de derechos por concepto de agua potable correspondiente.
+Las instancias responsables de la formalización de los contratos de arrendamiento, recabarán las copias necesarias con firma autógrafa de quienes en ella intervinieron, a fin de remitirlas a la Coordinación de Administración Regional y a las Direcciones Generales de Servicios Generales; y de Asuntos Jurídicos, para que en cada una de estas áreas se lleve a cabo el resguardo y control correspondiente.
 
 Sólo podrán realizarse mejoras, adaptaciones e instalaciones de equipos especiales, una vez que se haya firmado el contrato de arrendamiento por parte del arrendador, salvo que en casos excepcionales el Comité de Administración Inmobiliaria determine lo contrario.
 
@@ -6559,11 +6599,15 @@ La periodicidad en el pago de las rentas no podrá ser inferior a un mes, debié
 
 El Consejo en ningún caso deberá otorgar fianzas, ni realizar depósitos como garantía del cumplimiento de los contratos de arrendamiento.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 486.
 
-La Coordinación de Administración Regional y la Dirección General de Recursos Materiales, deberán informar semestralmente a la Secretaría Ejecutiva de Administración y al Comité de Administración Inmobiliaria, los arrendamientos suscritos y las renovaciones que hayan realizado.
+La Coordinación de Administración Regional y la Dirección General de Servicios Generales, deberán informar semestralmente a la Secretaría Ejecutiva de Administración y al Comité de Administración Inmobiliaria, los arrendamientos suscritos y las renovaciones que hayan realizado.
 
 #### SECCIÓN DÉCIMA PRIMERA. DEL CATASTRO Y CONTROL DEL PATRIMONIO INMOBILIARIO
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 487.
 
@@ -6591,11 +6635,23 @@ IV. Que se obligue a la devolución cuando sea requerido para ello, o cuando dej
 
 V. Que en ningún caso, se trate de servidores públicos del Poder Judicial de la Federación.
 
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 490 Bis.
+
+El Consejo podrá pactar el pago de cuotas de conservación y mantenimiento de bienes inmuebles que le sean asignados por otras dependencias federales o estatales a título oneroso.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 491.
 
-Corresponderá al Secretario Ejecutivo de Administración, otorgar la autorización para la asignación temporal de espacios, que someta a su consideración los Directores Generales de Recursos Materiales; de Servicios Generales; y de Inmuebles y Mantenimiento, tratándose de inmuebles ubicados en el Distrito Federal y zona conurbada, así como del Coordinador de Administración Regional para los inmuebles ubicados en el resto de la República; quienes, previamente a la propuesta que formulen, deberán verificar que, con su otorgamiento, no se afecte el interés público, ni del Poder Judicial de la Federación.
+Corresponderá al Secretario Ejecutivo de Administración, otorgar la autorización para la asignación temporal de espacios, que someta a su consideración el titular de la Dirección General de Servicios Generales; tratándose de inmuebles ubicados en la Ciudad de México y zona conurbada, así como del Coordinador de Administración Regional para los inmuebles ubicados en el resto de la República; quienes previamente a la propuesta que formulen, deberán verificar que con su otorgamiento, no se afecte el interés público, ni del Poder Judicial de la Federación.
 
-En los lineamientos para la asignación temporal de espacios que apruebe la Comisión de Administración, se establecerá la obligación del Secretario Ejecutivo de Administración, de presentarle informes periódicos sobre las autorizaciones otorgadas.
+El procedimiento para la asignación temporal de espacios de carácter gratuito y oneroso, será desarrollado en los lineamientos que apruebe el Pleno, previa autorización del Comité de Administración Inmobiliaria y de la Comisión de Administración, respectivamente.
+
+Los permisos administrativos temporales revocables, tanto de carácter gratuito como oneroso, para la asignación temporal de espacios en inmuebles ubicados en la Ciudad de México y zona conurbada una vez autorizados de conformidad con el primer párrafo de este artículo, y con los lineamientos para la asignación temporal de espacios aprobados por el Pleno, serán suscritos por el titular de la Dirección General de Servicios Generales; y/o por los Administradores de Edificios y el permisionario.
+
+Los permisos administrativos temporales revocables, tanto de carácter gratuito como oneroso, para la asignación temporal de espacios en inmuebles ubicados en el interior de la República, serán suscritos por el Coordinador de Administración Regional, el Administrador Regional o Delegado Administrativo correspondiente y el permisionario.
 
 ###### Artículo 492.
 
@@ -6607,13 +6663,23 @@ II. Por renuncia del asignatario debidamente ratificada;
 
 III. Por desaparición del objeto o justificación por el que se concedió;
 
-IV. Por nulidad, revocación o caducidad; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-V. Por cualquier otra contenida en la autorización respectiva.
+IV. Por nulidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+V. Por no iniciar el uso o aprovechamiento del inmueble asignado dentro del plazo señalado en el permiso, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+VI. Por cualquier otra contenida en el permiso respectivo.
 
 Será causa de caducidad no iniciar el uso o aprovechamiento del inmueble asignado, dentro del plazo señalado en la autorización.
 
-La Comisión de Administración será la instancia competente para determinar respecto de la extinción o caducidad, previa propuesta que formule la Dirección General de Recursos Materiales, con el visto bueno de la de Dirección General de Asuntos Jurídicos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+La Secretaría Ejecutiva de Administración será la instancia competente para determinar respecto de la extinción o caducidad, previa propuesta debidamente justificada que formulen las unidades administrativas que firmaron el permiso administrativo correspondiente, con la opinión jurídica de la de (sic) Dirección General de Asuntos Jurídicos.
 
 ###### Artículo 493.
 
@@ -6631,7 +6697,9 @@ V. Por dejar de cubrir oportunamente la contraprestación establecida en la auto
 
 VI. Por ceder los derechos u obligaciones derivados de la autorización, o por dar en arrendamiento o comodato, fracciones de la superficie asignada, sin contar previamente con el permiso correspondiente.
 
-La Comisión de Administración será la instancia competente para determinar respecto de la revocación de las asignaciones, previa propuesta que formule la Dirección General de Recursos Materiales, con el visto bueno de la Dirección General de Asuntos Jurídicos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+La Secretaría Ejecutiva de Administración, en su carácter de autoridad otorgante de la autorización para la asignación temporal de espacios, será la instancia competente para determinar la procedencia de la revocación de las asignaciones, previa propuesta que formulen las unidades administrativas que firmaron el permiso administrativo correspondiente, con la opinión jurídica de la Dirección General de Asuntos Jurídicos.
 
 #### SECCIÓN PRIMERA. INVESTIGACIÓN
 
@@ -6651,9 +6719,15 @@ III Bis. Sin perjuicio de lo previsto en las fracciones anteriores, y de que rec
 
 Dichas instancias señalarán el plazo de vigencia del aviso, vencido éste se podrán realizar publicaciones subsecuentes.
 
-IV. La Dirección General de Inmuebles y Mantenimiento deberá dictaminar si el inmueble que se pretende adquirir es viable para albergar a los órganos jurisdiccionales o áreas administrativas de que se trate y realizará la estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-V. La Dirección General de Servicios Generales deberá recabar el dictamen favorable a que se refiere la fracción anterior, así como las opiniones de la Coordinación de Seguridad del Poder Judicial de la Federación y de la Dirección General de Protección Civil y Salud en el Trabajo;
+IV. La Coordinación de Seguridad del Poder Judicial de la Federación, la Dirección General de Protección Civil y Salud en el Trabajo, así como la Dirección General de Inmuebles y Mantenimiento deberán dictaminar, en forma conjunta, si el inmueble que se pretende adquirir es viable para albergar a los órganos jurisdiccionales o áreas administrativas de que se trate.
+
+La Dirección General de Inmuebles y Mantenimiento realizará la estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+V. La Dirección General de Servicios Generales deberá recabar el dictamen favorable a que se refiere la fracción anterior, así como la información relativa a la estimación aproximada del monto de la inversión y tiempo de ejecución de las obras para que el inmueble esté en condiciones de ser ocupado;
 
 VI. A fin de garantizar los intereses del Consejo, la Dirección General de Servicios Generales recabará avalúo en el momento que lo estime oportuno;
 
@@ -6689,13 +6763,19 @@ IX. Los documentos a que se refieren los incisos a) y b) de la fracción anterio
 
 X. El Notario del Patrimonio Inmobiliario Federal deberá revisar la documentación necesaria para la adquisición del inmueble y elaborará el proyecto de instrumento jurídico que proceda para ese fin, para lo cual podrá solicitar a la Dirección General de Servicios Generales la información y documentación que estime necesaria.
 
-El proyecto que elabore el Notario del Patrimonio Inmobiliario Federal será remitido a la Dirección General de Asuntos Jurídicos para su dictamen. Si ésta considera que dicho proyecto cumple con los requisitos necesarios para su suscripción, lo remitirá al titular de la Dirección General de Servicios Generales. En el supuesto contrario, formulará los comentarios y las observaciones que estime procedentes y, en su caso, las remitirá al Notario del Patrimonio Inmobiliario Federal. El dictamen de la Dirección General de Asuntos Jurídicos debe precisar si los documentos a que se refiere la fracción VIII, incisos d) a g) de este artículo cumplen favorablemente con los requisitos legales.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+El proyecto que elabore el Notario del Patrimonio Inmobiliario Federal será remitido a la Dirección General de Asuntos Jurídicos para su dictamen jurídico. Si ésta considera que dicho proyecto cumple con los requisitos necesarios para su suscripción, lo remitirá al titular de la Dirección General de Servicios Generales. En el supuesto contrario, formulará los comentarios y las observaciones que estime procedentes y, en su caso, las remitirá al Notario del Patrimonio Inmobiliario Federal. El dictamen jurídico de la Dirección General de Asuntos Jurídicos debe precisar si los documentos a que se refiere la fracción VIII, incisos d) a g) de este artículo cumplen favorablemente con los requisitos legales;
 
 Cuando el Notario del Patrimonio Inmobiliario Federal considere que resulta jurídicamente improcedente realizar la adquisición o que falten requisitos para ello, elaborará un documento en el que especifique las razones de esa circunstancia y lo remitirá a la Dirección General de Asuntos Jurídicos, quien previa revisión y opinión del mismo lo remitirá a la Dirección General de Servicios Generales;
 
 XI. El expediente de viabilidad para la adquisición del inmueble deberá contener la información relativa a su justificación; destino y ubicación; superficie; características técnicas y funcionales; idoneidad de instalaciones; preservación de imagen institucional, así como las constancias a que se refieren las fracciones II y, en su caso, III de este artículo;
 
 XII. Antes de que ese expediente se someta a consideración del Comité de Administración Inmobiliaria, deberán preverse y gestionarse la disponibilidad presupuestal que permita la operación, así como las autorizaciones para las inversiones que, en su caso, se requieran para su adaptación, remodelación o construcción, y los demás que resulten o se consideren necesarias para su fin;
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XII Bis. En caso de que el proyecto de adquisición que se someta a consideración del Comité, provenga de un financiamiento con recursos de algún fideicomiso relacionado con el Consejo, éste deberá contar con la autorización del techo presupuestal correspondiente por parte del fideicomiso;
 
 XIII. La Dirección General de Servicios Generales deberá someter el expediente a consideración del Comité de Administración Inmobiliaria, para lo cual deberá acompañar los soportes documentales requeridos, salvo aquellos casos en que se estime conveniente presentarlo sin contar con la totalidad de éstos; y
 
@@ -6705,9 +6785,11 @@ XIV. El Comité de Administración Inmobiliaria deberá analizar el expediente y
 
 La Dirección General de Inmuebles y Mantenimiento elaborará las normas con los datos técnicos de necesidades, requisitos y condiciones que deban tener los inmuebles susceptibles de adquisición por parte del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 496.
 
-Para la adquisición de cualquier inmueble para uso del Poder Judicial de la Federación, se tomará en cuenta que el precio sea acorde a las condiciones del mercado inmobiliario de la localidad, lo cual se verificará mediante avalúo que será elaborado, a elección del Secretario Ejecutivo de Administración, por el Instituto de Administración y Avalúos de Bienes Nacionales; por instituciones de crédito; sociedades nacionales de crédito; o por la Sociedad de Ingenieros Civiles Valuadores (SICIV), afiliada al Colegio de Ingenieros de México. Excepcionalmente podrá solicitarse más de un avalúo o bien uno distinto a los antes indicados.
+Para la adquisición de cualquier inmueble para uso del Poder Judicial de la Federación, se tomará en cuenta que el precio sea acorde a las condiciones del mercado inmobiliario de la localidad, lo cual se verificará mediante avalúo que será elaborado, a elección del titular de la Dirección General de Servicios Generales, por el Instituto de Administración y Avalúos de Bienes Nacionales; por instituciones de crédito; sociedades nacionales de crédito; o por la Sociedad de Ingenieros Civiles Valuadores (SICIV), afiliada al Colegio de Ingenieros de México. Excepcionalmente podrá solicitarse más de un avalúo o bien uno distinto a los antes indicados.
 
 El perito valuador designado deberá cumplir con la normatividad aplicable para la validez del avalúo.
 
@@ -6721,11 +6803,13 @@ Cuando se considere aplicable la excepción a que se refiere el artículo 494, f
 
 En la recepción de los inmuebles, invariablemente se levantará acta circunstanciada en la que se haga constar el inventario, las condiciones de las instalaciones y equipos propios del inmueble, aplicándose en lo conducente, las prevenciones consignadas en el artículo 471 de este Acuerdo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 498.
 
-Aprobada por el Pleno la adquisición, el asunto se turnará a la Dirección General de Asuntos Jurídicos para que por su conducto se comunique al Notario del Patrimonio Inmobiliario Federal antes designado, que lleve a cabo las gestiones necesarias para formalizarla.
+Aprobada por el Pleno la adquisición, el asunto se turnará a la Dirección General de Servicios Generales para que por su conducto se comunique al Notario del Patrimonio Inmobiliario Federal antes designado, que lleve a cabo las gestiones necesarias para formalizarla.
 
-Esta Dirección General verificará que una vez firmado el instrumento jurídico respectivo, se inscriba en los Registros Público correspondientes a la ubicación del inmueble, dando aviso de ello al Secretario Ejecutivo de Administración.
+Esta Dirección General verificará que una vez firmado el instrumento jurídico respectivo, se inscriba en los Registros Públicos correspondientes a la ubicación del inmueble, dando aviso de ello al Secretario Ejecutivo de Administración.
 
 ###### Artículo 499.
 
@@ -6733,11 +6817,11 @@ En las operaciones contractuales en que participe el Poder Judicial de la Federa
 
 Los honorarios comprenderán las gestiones y trámites que, en su caso, lleve a cabo el Notario del Patrimonio Inmobiliario Federal para la obtención de los documentos a que se refiere el artículo 494, fracción VIII, de este Acuerdo, con independencia de que se formalice la adquisición.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 23 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 499 Bis.
 
-El Comité de Administración Inmobiliaria, a propuesta de la Coordinación de Administración Regional o de la Dirección General de Servicios Generales, podrá autorizar las erogaciones que sean necesarias para poder adquirir inmuebles por donación o comodato; y aquellas relacionadas con los inmuebles objeto de la negociación, que sean benéficas para los intereses del Poder Judicial de la Federación.
+El Comité de Administración Inmobiliaria, a propuesta de la Coordinación de Administración Regional o de la Dirección General de Servicios Generales, podrá autorizar las erogaciones que sean necesarias para poder adquirir inmuebles por donación o recibirlos en comodato, por asignación o por cualquier otra figura legal; y aquellas relacionadas con los inmuebles objeto de la negociación, que sean benéficas para los intereses del Poder Judicial de la Federación.
 
 #### SECCIÓN SEGUNDA. PROCEDIMIENTO ADMINISTRATIVO SANCIONADOR
 
@@ -6759,11 +6843,15 @@ Los inmuebles que por cualquier título haya adquirido el Poder Judicial de la F
 
 I. Enajenación a título oneroso;
 
-II. Permuta con entidades de la administración pública paraestatal; los gobiernos de los estados, del Distrito Federal y de los municipios, cuando por su ubicación, características y aptitudes satisfagan las necesidades de las partes;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+II. Permuta con entidades de la administración pública paraestatal; los gobiernos de las entidades federativas, de la Ciudad de México y de los municipios, cuando por su ubicación, características y aptitudes satisfagan las necesidades de las partes;
 
 III. Afectación a fondos de fideicomisos públicos en los que el Poder Judicial de la Federación sea fideicomitente o fideicomisario; y
 
-IV. Donación a favor de los gobiernos de los estados, del Distrito Federal y de los municipios, para que se utilicen los inmuebles en servicios de administración de justicia locales, fines de asistencia social, o para promover acciones de interés general o de beneficio colectivo.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+IV. Donación a favor de los gobiernos de las entidades federativas, de la Ciudad de México y de los municipios, para que se utilicen los inmuebles en servicios de administración de justicia locales, fines de asistencia social, o para promover acciones de interés general o de beneficio colectivo.
 
 Los ingresos provenientes por la enajenación de inmuebles a título oneroso, en los términos de la fracción II del artículo 243 de la Ley Orgánica, pasarán a integrar el patrimonio del Fondo de Apoyo a la Administración de Justicia.
 
@@ -6779,9 +6867,11 @@ Para disponer de los inmuebles que no resulten útiles para los fines del Poder 
 
 Una vez que la Comisión de Administración analice la propuesta referida, de estimarla procedente, la someterá a la aprobación del Pleno, para que resuelva en definitiva y confirme el tipo de enajenación que deberá llevarse a cabo, así como las condiciones particulares de la operación, el precio de venta, en su caso, y el servidor público facultado para suscribir el contrato respectivo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 505.
 
-Tratándose de terrenos donados condicionalmente al Poder Judicial de la Federación, por conducto del Consejo, por parte de gobiernos estatales, del Distrito Federal o municipales y estén sujetos a un plazo determinado para la construcción o instalación de órganos jurisdiccionales o áreas administrativas, al término de éste, sin que se hubiere iniciado la construcción pactada, podrá optarse por solicitar y negociar una prórroga al plazo convenido, o bien, en el supuesto de que no se tengan previsiones presupuestales para ello, deberá ser devuelto a la autoridad donante.
+Tratándose de terrenos donados condicionalmente al Poder Judicial de la Federación, por conducto del Consejo, por parte de gobiernos de las entidades federativas, de la Ciudad de México o municipales y estén sujetos a un plazo determinado para la construcción o instalación de órganos jurisdiccionales o áreas administrativas, al término de éste, sin que se hubiere iniciado la construcción pactada, podrá optarse por solicitar y negociar una prórroga al plazo convenido, o bien, en el supuesto de que no se tengan previsiones presupuestales para ello, deberá ser devuelto a la autoridad donante.
 
 ###### Artículo 506.
 
@@ -6825,9 +6915,11 @@ VI. Forma y porcentaje de la garantía de seriedad de las ofertas; y
 
 VII. Documentación que deberán presentar los interesados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 512.
 
-La Dirección General de Recursos Materiales realizará las licitaciones públicas en los plazos siguientes:
+La Dirección General de Servicios Generales realizará las licitaciones públicas en los plazos siguientes:
 
 I. La consulta y, en su caso, venta de bases se realizará durante un plazo mínimo de diez días hábiles, contados a partir de la fecha de publicación de la convocatoria;
 
@@ -6871,31 +6963,41 @@ En los procedimientos de enajenación por licitación pública, el Consejo exigi
 
 El monto de la garantía será por el equivalente al 10% del precio de avalúo, la que será devuelta a los interesados al término del acto de fallo, salvo aquélla que corresponda al licitante ganador, la cual se retendrá a título de garantía del cumplimiento del pago de los bienes adjudicados y su importe se podrá aplicar a la cantidad que se hubiere obligado a cubrir.
 
-Corresponderá a la Dirección General de Recursos Materiales calificar, aceptar, registrar, conservar en guarda y custodia y devolver las garantías que los licitantes presenten en la enajenación de bienes.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Corresponderá a la Dirección General de Servicios Generales calificar, aceptar, registrar, conservar en guarda y custodia y devolver las garantías que los licitantes presenten en la enajenación de bienes.
 
 ###### Artículo 515.
 
 Toda persona interesada que satisfaga los requisitos de las bases tendrá derecho a presentar ofertas.
 
-En la fecha y hora previamente establecidas, la Dirección General de Recursos Materiales deberá proceder a iniciar el acto de apertura de ofertas económicas, en el cual se dará lectura en voz alta de las propuestas presentadas por cada uno de los licitantes, informándose de aquellas que, en su caso, se desechen debido a que el participante no cumpla con alguno de los requisitos establecidos y las causas que motiven tal determinación.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+En la fecha y hora previamente establecidas, la Dirección General de Servicios Generales deberá proceder a iniciar el acto de apertura de ofertas económicas, en el cual se dará lectura en voz alta de las propuestas presentadas por cada uno de los licitantes, informándose de aquellas que, en su caso, se desechen debido a que el participante no cumpla con alguno de los requisitos establecidos y las causas que motiven tal determinación.
 
 Además, con la participación de la Contraloría y de la Dirección General de Asuntos Jurídicos, levantará el acta respectiva a fin de dejar constancia de los actos de apertura de ofertas económicas y de fallo, la cual será firmada por los asistentes. La omisión de firma por parte de los licitantes no invalidará su contenido y efectos.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 516.
 
-Para la adjudicación del bien inmueble, la Dirección General de Recursos Materiales elaborará un informe ejecutivo que deberá contener el cuadro comparativo de las propuestas económicas presentadas, indicando aquellas que cumplan con los requisitos establecidos en las bases, así como la propuesta de adjudicación.
+Para la adjudicación del bien inmueble, la Dirección General de Servicios Generales elaborará un informe ejecutivo que deberá contener el cuadro comparativo de las propuestas económicas presentadas, indicando aquellas que cumplan con los requisitos establecidos en las bases, así como la propuesta de adjudicación.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 517.
 
-Una vez autorizada la adjudicación por el Comité de Administración Inmobiliaria, previo acuerdo de la Comisión de Administración, la Dirección General de Recursos Materiales notificará por escrito el resultado del fallo a los participantes, informándole al ganador que deberá comparecer en la fecha que se señale para la firma de las escrituras públicas ante el Notario Público que haya designado el Consejo y en ese acto cubra la totalidad del precio de la compraventa del inmueble.
+Una vez autorizada la adjudicación por el Comité de Administración Inmobiliaria, previo acuerdo de la Comisión de Administración, la Dirección General de Servicios Generales notificará por escrito el resultado del fallo a los participantes, informándole al ganador que deberá comparecer en la fecha que se señale para la firma de las escrituras públicas ante el Notario Público que haya designado el Consejo y en ese acto cubra la totalidad del precio de la compraventa del inmueble.
 
 ###### Artículo 518.
 
 En caso de que el licitante ganador incumpla con el pago del bien inmueble adjudicado, el Consejo hará efectiva la garantía correspondiente y podrá adjudicar dicho bien sin necesidad de un nuevo procedimiento al participante que haya presentado la siguiente mejor oferta, siempre y cuando ésta no sea inferior al precio base determinado por el avalúo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 519.
 
-La Dirección General de Recursos Materiales declarará desierta la licitación pública en los siguientes supuestos:
+La Dirección General de Servicios Generales declarará desierta la licitación pública en los siguientes supuestos:
 
 I. Que no se registren concursantes a la licitación;
 
@@ -6923,11 +7025,15 @@ III. Adjudicar el inmueble en caso de haberse efectuado una segunda o tercera li
 
 Es facultad del Consejo proveer los espacios físicos, suficientes y adecuados, para la operación y funcionamiento de los órganos jurisdiccionales y áreas administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 522.
 
-Las Direcciones Generales de Inmuebles y Mantenimiento; de Recursos Materiales; de Servicios Generales, y la Coordinación de Administración Regional, de acuerdo con sus atribuciones, serán responsables de proponer al Comité de Administración Inmobiliaria, para la autorización del Pleno, previa opinión de la Comisión de Administración, las políticas, criterios y normas de diseño para la asignación, utilización y aprovechamiento de los espacios físicos en los inmuebles administrados por el Consejo, que servirán de base para la ejecución de las obras y proyectos arquitectónicos acordes a las necesidades y requerimientos, observando los principios de homogeneidad, austeridad, racionalidad y funcionalidad. Además, los proyectos y las obras respectivas deberán reflejar la imagen institucional del Poder Judicial de la Federación.
+Las Direcciones Generales de Inmuebles y Mantenimiento; de Servicios Generales; y la Coordinación de Administración Regional, de acuerdo con sus atribuciones, serán responsables de proponer al Comité de Administración Inmobiliaria, para la autorización del Pleno, previa opinión de la Comisión de Administración, las políticas, criterios y normas de diseño para la asignación, utilización y aprovechamiento de los espacios físicos en los inmuebles administrados por el Consejo, que servirán de base para la ejecución de las obras y proyectos arquitectónicos acordes a las necesidades y requerimientos del Poder Judicial de la Federación, observando los principios de homogeneidad, austeridad, racionalidad y funcionalidad. Además, los proyectos y las obras respectivas deberán reflejar la imagen institucional del Poder Judicial de la Federación.
 
-Los criterios y políticas deberán comprender la estandarización de espacios, mobiliario, equipo de administración, informático y de comunicación requerido, así como regular su aplicación dentro de los procesos de diseño que se efectúen dentro y fuera del Consejo, tanto en obra nueva, como en remodelaciones y adaptaciones, en inmuebles propios, destinados, arrendados o en comodato.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Los criterios y políticas deberán comprender la estandarización de espacios, mobiliario, equipo de administración, informático y de comunicación requerido, así como regular su aplicación dentro de los procesos de diseño que se efectúen dentro y fuera del Consejo, tanto en obra nueva, como en remodelaciones y adaptaciones, en inmuebles propios, destinados, asignados, arrendados, en comodato o recibidos por cualquier otra figura legal.
 
 El Responsable Inmobiliario coordinará y supervisará la realización de los trabajos a que se refiere este artículo.
 
@@ -6937,9 +7043,11 @@ Con la finalidad de que sea sometida a la aprobación de la Comisión de Adminis
 
 Asimismo, deberán considerarse en la propuesta los parámetros de superficie asignada por tipo de usuario, tomando en cuenta las características máximas a cumplir y los estándares de acabados, servicios y equipos, asignados por actividad de los servidores públicos del Consejo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 524.
 
-Corresponde a las Administraciones Regionales y Delegaciones Administrativas, atender las necesidades de conservación y mantenimiento de los inmuebles ubicados en el interior de la República, aplicando las políticas, métodos y procedimientos autorizados. Para los inmuebles localizados en el Distrito Federal y zona conurbada, tales responsabilidades recaen en la Dirección General de Recursos Materiales, por conducto de los Administradores de los inmuebles. La Dirección General de Inmuebles y Mantenimiento deberá proporcionar el apoyo que se requiera, cuando las actividades de conservación y mantenimiento, por su naturaleza o magnitud, rebasen los montos de los parámetros que se tengan establecidos.
+Corresponde a las Administraciones Regionales y Delegaciones Administrativas, atender las necesidades de conservación y mantenimiento de los inmuebles ubicados en el interior de la República, aplicando las políticas, métodos y procedimientos autorizados. Para los inmuebles localizados en la Ciudad de México y zona conurbada, tales responsabilidades recaen en la Dirección General de Servicios Generales, por conducto de los Administradores de los inmuebles. La Dirección General de Inmuebles y Mantenimiento deberá proporcionar el apoyo que se requiera, cuando las actividades de conservación y mantenimiento, por su naturaleza o magnitud, rebasen los montos de los parámetros que se tengan establecidos.
 
 ###### Artículo 525.
 
@@ -6953,15 +7061,17 @@ Las tres unidades administrativas, deberán gestionar y dar seguimiento, ante la
 
 ###### Artículo 526.
 
-El inventario de inmuebles del Poder Judicial de la Federación comprende el acervo de todos los bienes inmuebles administrados por el Consejo.
+El inventario de inmuebles comprende el acervo de todos los bienes inmuebles administrados por el Consejo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 527.
 
-El Responsable Inmobiliario, a través del Coordinador de Administración Regional, y de los Directores Generales de Recursos Materiales; y de Servicios Generales, en su ámbito de competencia, deberán establecer y mantener actualizado, con carácter permanente, un sistema de administración de inmuebles, que contendrá la información del inventario de los bienes inmuebles a que se refiere el artículo anterior.
+El Responsable Inmobiliario, a través del Coordinador de Administración Regional, y del Director General de Servicios Generales, en su ámbito de competencia, deberán establecer y mantener actualizado, con carácter permanente, un sistema de administración de inmuebles, que contendrá la información del inventario de los bienes inmuebles a que se refiere el artículo anterior.
 
-La Coordinación de Administración Regional, a través de sus Administraciones Regionales y Delegaciones Administrativas, deberá proporcionar la información requerida por la Dirección General de Recursos Materiales, cuando se trate de inmuebles adquiridos, en destino y comodato que se encuentren a disposición del Consejo, en el interior de la República.
+La Coordinación de Administración Regional, a través de sus Administraciones Regionales y Delegaciones Administrativas, deberá proporcionar la información requerida por la Dirección General de Servicios Generales, cuando se trate de inmuebles adquiridos por cualquier figura legal, en destino y comodato que se encuentren a disposición del Consejo, en el interior de la República.
 
-Cualquier modificación que se realice respecto al inventario, régimen jurídico, obra pública y, en general, aquella que afecte su situación física, jurídica o administrativa, deberá informarse de inmediato a la Dirección General de Recursos Materiales, para la actualización del catastro general.
+Cualquier modificación que se realice respecto al inventario, régimen jurídico, obra pública y, en general, aquella que afecte su situación física, jurídica o administrativa, deberá informarse de inmediato a la Dirección General de Servicios Generales, para la actualización del catastro general.
 
 ###### Artículo 528.
 
@@ -6971,11 +7081,13 @@ El Catastro de Inmuebles del Consejo es el registro sistematizado de documentos 
 
 El Catastro de Inmuebles del Consejo tiene como propósito constituir un instrumento de apoyo y consulta para alcanzar sus fines en las labores sustantivas de las áreas administrativas, mediante su plena identificación física.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 530.
 
-Corresponde a la Dirección General de Recursos Materiales, la compilación, organización, guarda, actualización y control de la información y documentación relativa al catastro de los inmuebles administrados por el Poder Judicial de la Federación.
+Corresponde a la Dirección General de Servicios Generales, la compilación, organización, guarda, actualización y control de la información y documentación relativa al catastro de los inmuebles administrados por el Poder Judicial de la Federación.
 
-La Coordinación de Administración Regional, y las Direcciones Generales de Asuntos Jurídicos; y de Inmuebles y Mantenimiento, en su ámbito de competencia, proporcionarán oportunamente a la Dirección General de Recursos Materiales la información y documentación a que se refiere el párrafo anterior.
+La Coordinación de Administración Regional, y las Direcciones Generales de Asuntos Jurídicos; y de Inmuebles y Mantenimiento, en su ámbito de competencia, proporcionarán oportunamente a la Dirección General de Servicios Generales la información y documentación a que se refiere el párrafo anterior.
 
 ###### Artículo 531.
 
@@ -6997,13 +7109,17 @@ VII. Acta de entrega-recepción en que se haga constar el inventario, condicione
 
 VIII. En su caso, órganos jurisdiccionales o áreas administrativas alojados en el inmueble.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 532.
 
-La Coordinación de Administración Regional y la Dirección General de Recursos Materiales, y las Administraciones Regionales, informarán al Responsable Inmobiliario todo cambio de situación respecto de los inmuebles administrados en cada entidad federativa, considerando la obligación del Consejo de salvaguardarlos, llevando a cabo las acciones pertinentes a fin de evitar que los mismos sean objeto de invasiones por terceros, vandalismo o de tiradero de desechos.
+La Coordinación de Administración Regional y la Dirección General de Servicios Generales, y las Administraciones Regionales, informarán al Responsable Inmobiliario todo cambio de situación respecto de los inmuebles administrados en cada entidad federativa, considerando la obligación del Consejo de salvaguardarlos, llevando a cabo las acciones pertinentes a fin de evitar que los mismos sean objeto de invasiones por terceros, vandalismo o de tiradero de desechos o cualquier acción que ponga en riesgo los inmuebles.
 
 En toda adquisición de inmuebles, la Dirección General de Servicios Generales deberá tramitar, tan pronto como sea posible, que los servicios de agua potable y energía eléctrica se presten a nombre del Consejo.
 
-Para el caso de las contribuciones vinculadas a los inmuebles al servicio del Poder Judicial de la Federación, se deberá dar aviso a la Dirección General de Asuntos Jurídicos, para que gestione las exenciones de pago que procedan, salvo lo previsto en el artículo 176, fracción XII, del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Para el caso de las contribuciones vinculadas a los inmuebles al servicio del Poder Judicial de la Federación, se deberá dar aviso a la Dirección General de Asuntos Jurídicos, para que gestione las exenciones de pago que procedan, salvo lo previsto en el artículo 176, fracción XVIII, del Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la organización y funcionamiento del propio Consejo.
 
 Asimismo, se establecerán las medidas de seguridad, vigilancia y protección civil, para preservar la seguridad e integridad física de los servidores públicos, público usuario y, en general, de los bienes que conforman su patrimonio, las cuales deberán ser compatibles con las expedidas por las autoridades federales y locales.
 
@@ -7011,21 +7127,23 @@ Asimismo, se establecerán las medidas de seguridad, vigilancia y protección ci
 
 ###### Artículo 533.
 
-Los titulares de las áreas administrativas, los Administradores Regionales, los Delegados Administrativos y los Administradores de Edificios en el Distrito Federal y zona conurbada, deberán remitir a la Dirección General de Asuntos Jurídicos, previamente a su suscripción, los proyectos de contratos, convenios, órdenes de servicio, pedidos, bases de coordinación o cualesquiera otro instrumento que generen derechos u obligaciones de cualquier tipo al Consejo, que elaboren en el ámbito de su competencia, a efecto de que dicha área emita la opinión o dictamen de procedencia que corresponda.
+Los titulares de las áreas administrativas, los Administradores Regionales, los Delegados Administrativos y los Administradores de Edificios en la Ciudad de México y zona conurbada, deberán remitir a la Dirección General de Asuntos Jurídicos, previamente a su suscripción, los proyectos de contratos, convenios, órdenes de servicio, pedidos, bases de coordinación o cualesquiera otro instrumento que generen derechos u obligaciones de cualquier tipo al Consejo, que elaboren en el ámbito de su competencia, a efecto de que dicha área emita opinión o dictamen jurídico que corresponda.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 534.
 
-La remisión de los documentos a que se refiere el artículo anterior, debidamente acompañada de la documentación soporte, salvo casos excepcionales, deberá realizarse con, por lo menos, cinco días hábiles de anticipación a la fecha programada para su suscripción, inserta en el propio instrumento o, en su caso, la que fije el inicio de su vigencia y efectos.
+A la solicitud de opinión o dictamen jurídico a que se refiere el artículo anterior, se acompañará el proyecto y la documentación soporte correspondiente de manera completa, y deberá presentarse, por lo menos con cinco días hábiles de anticipación a la fecha señalada en el propio instrumento para su suscripción.
 
-La Dirección General de Asuntos Jurídicos por su parte, emitirá la opinión o el dictamen de procedencia o, en su caso, las observaciones conducentes, en un plazo no mayor a tres días hábiles, contados a partir de la recepción del proyecto, siempre y cuando éste sea acompañado de los soportes documentales indispensables para ello. De resultar incompleta la información documental, dentro de las cuarenta y ocho horas siguientes a su recepción, deberá requerirse la faltante, con la finalidad de que la misma sea remitida a la brevedad posible.
+La Dirección General de Asuntos Jurídicos emitirá la opinión o el dictamen jurídico, en un plazo no mayor a cinco días hábiles, contados a partir de la recepción del proyecto, sin que su pronunciamiento verse sobre los aspectos técnicos, presupuestales, financieros u operativos de la materia, por corresponder al ámbito de competencia de otras instancias del Consejo.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 535.
 
-Los contratos, convenios, pedidos u órdenes de servicio que se celebren; bajo la más estricta responsabilidad de los titulares de las áreas administrativas; conforme a las disposiciones contenidas en el Título Primero del Libro Tercero, de este Acuerdo; y ajustándose a los formatos elaborados por la Dirección General de Asuntos Jurídicos y aprobados por los órganos colegiados respectivos, quedan exceptuados de la obligación de obtener opinión o dictamen de procedencia por parte de la citada unidad administrativa.
+Los instrumentos jurídicos que se celebren bajo el procedimiento de contratación por adjudicación directa por monto conforme al artículo 341, fracción I de este Acuerdo, bajo la más estricta responsabilidad de los titulares de las áreas administrativas y ajustándose a los formatos elaborados por la Dirección General de Asuntos Jurídicos aprobados por los órganos colegiados respectivos, no requerirán obtener opinión o dictamen jurídico.
 
-En estos casos, dichos instrumentos, una vez suscritos, deberán ser remitidos para su registro y custodia a la Dirección General de Asuntos Jurídicos en los términos previstos en este Capítulo.
-
-La excepción antes señalada, no será aplicable cuando se trate de contrataciones que deriven de licitación pública, adjudicaciones directas que se realicen con fundamento en el artículo 341, fracción II, de este Acuerdo o se trate de obra pública y servicios relacionados con la misma que efectúe este Consejo.
+En estos casos, una vez suscritos deberán ser remitidos para su registro y custodia a la Dirección General de Asuntos Jurídicos en los términos previstos en este Capítulo.
 
 ###### Artículo 536.
 
@@ -7139,7 +7257,9 @@ La custodia y resguardo de los instrumentos jurídicos se ajustará a las dispos
 
 ## TÍTULO SEGUNDO. BIENES
 
-### CAPÍTULO PRIMERO. COMITÉ DE INFORMATICA
+### CAPÍTULO PRIMERO. COMITÉ DE TECNOLOGÍAS DE LA INFORMACIÓN
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 #### SECCIÓN SEXTA. INVITACIÓN RESTRINGIDA
 
@@ -7177,15 +7297,15 @@ Antes de iniciar las áreas operativas algún procedimiento para la desincorpora
 
 El Comité es un cuerpo multidisciplinario, con carácter permanente dedicado específicamente a la enajenación de bienes que requiera realizar el Consejo, el cual cuenta con las atribuciones conferidas este Capítulo, sin perjuicio de que el Pleno o la Comisión de Administración las ejerzan de manera directa en cualquier momento.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 561.
 
-El Comité estará integrado en los siguientes términos:
+El Comité de Desincorporación de Bienes estará integrado en los siguientes términos:
 
 I. Presidente: El Secretario Ejecutivo de Administración; y
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-II. Vocales: Los titulares de la Secretaría Ejecutiva de Finanzas y Servicios Personales; y de la Coordinación de Administración Regional.
+II. Vocales: Los titulares de la Coordinación de Administración Regional; y de la Dirección General de Programación, Presupuesto y Tesorería.
 
 Los citados integrantes, que siempre serán tres, salvo la ausencia de alguno de ellos, tendrán derecho a voz y voto durante las sesiones.
 
@@ -7305,9 +7425,9 @@ Las sesiones del Comité se celebrarán de la siguiente manera:
 
 I. Tendrán lugar siempre que sea necesario y las decisiones se tomarán por mayoría de votos; el presidente del Comité tendrá voto de calidad;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-II. Para que se realicen las sesiones, será necesaria la asistencia de su presidente y un vocal. En ausencia del titular de la Secretaría Ejecutiva de Administración, las sesiones podrán llevarse a cabo, en casos estrictamente necesarios, presidiéndolas el titular de la Secretaría Ejecutiva de Finanzas y Servicios Personales, con la asistencia del otro vocal;
+II. Para que se realicen las sesiones, será necesaria la asistencia de su presidente y un vocal;
 
 III. El orden del día, junto con la documentación soporte, se entregará a los integrantes del Comité y asesores, con veinticuatro horas de anticipación para la sesión, cuando así sea posible;
 
@@ -7369,7 +7489,9 @@ IV. Recabarán el valor del bien o lote de bienes, conforme a los criterios señ
 
 V. Someterán a la autorización del Comité los procedimientos que por su monto le corresponda analizar;
 
-VI. Con base al destino final señalado en la autorización y una vez efectuado el procedimiento de enajenación, realizará los trámites conducentes para solicitar la baja administrativa del bien o bienes de los inventarios a la Dirección General de Recursos Materiales, así como a la Dirección General de Tecnologías de la Información, según sea el caso, y éstas a la Dirección General de Programación y Presupuesto; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+VI. Con base al destino final señalado en la autorización y una vez efectuado el procedimiento de enajenación, realizará los trámites conducentes para solicitar la baja administrativa del bien o bienes de los inventarios a la Dirección General de Recursos Materiales, así como a la Dirección General de Tecnologías de la Información, según sea el caso, y éstas a la Dirección General de Programación, Presupuesto y Tesorería; y
 
 VII. Llevarán a cabo los trámites señalados en este Capítulo para el destino final del bien o bienes.
 
@@ -7737,6 +7859,8 @@ La resolución que emita la Comisión de Administración respecto de la inconfor
 
 ### CAPÍTULO SEGUNDO. ADMINISTRACIONES DE LOS EDIFICIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 #### SECCIÓN SEXTA. PROCEDIMIENTOS DE ENAJENACIÓN
 
 SUBSECCIÓN PRIMERA
@@ -7856,6 +7980,8 @@ Procederá la incorporación a los activos del Consejo de todos aquellos bienes 
 Los bienes asegurados no reclamados y decomisados que hubieran sido puestos a disposición del Consejo, respecto de los cuales los órganos jurisdiccionales hayan emitido el certificado de disponibilidad respectivo, podrán ser donados, enajenados o destruidos sin necesidad de incorporarlos al patrimonio del Consejo.
 
 #### SECCIÓN DÉCIMA. DEL APROVECHAMIENTO DE LOS BIENES ASEGURADOS NO RECLAMADOS Y DECOMISADOS
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 612.
 
@@ -8369,7 +8495,7 @@ La secretaria técnica del Fondo de Apoyo, llevará un registro detallado de los
 
 ###### Artículo 673.
 
-Cuando la Comisión de Administración determine el aprovechamiento de los bienes asegurados no reclamados y decomisados, la Secretaría Ejecutiva de Administración y la Dirección General de Programación y Presupuesto procederán de conformidad con lo dispuesto en los siguientes artículos.
+Cuando la Comisión de Administración determine el aprovechamiento de los bienes asegurados no reclamados y decomisados, la Secretaría Ejecutiva de Administración y la Dirección General de Programación, Presupuesto y Tesorería procederán de conformidad con lo dispuesto en los siguientes artículos.
 
 ###### Artículo 674.
 
@@ -8421,85 +8547,79 @@ La Dirección General de Recursos Materiales o la Administración Regional comun
 
 #### SECCIÓN SEGUNDA. PROGRAMACIÓN Y PRESUPUESTACIÓN
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 681.
 
 En caso de duda o conflicto en la operación, aplicación o interpretación de este Capítulo, los representantes de las unidades administrativas instructoras propondrán de manera colegiada alternativas de solución, que se someterán a la consideración de la Comisión de Administración a fin de que resuelva lo conducente.
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-## TÍTULO TERCERO. DEL COMITÉ DE INFORMÁTICA Y DE LAS ADMINISTRACIONES DE EDIFICIOS
+## TÍTULO TERCERO. DEL COMITÉ DE TECNOLOGÍAS DE LA INFORMACIÓN Y DE LAS ADMINISTRACIONES DE EDIFICIOS
+
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 682.
 
-El Comité de Informática es un cuerpo multidisciplinario dedicado específicamente a coadyuvar en la formulación e integración de lineamientos, políticas y criterios que incidan en la planeación, organización, evaluación y ajuste integral de las actividades en materias de informática y de telecomunicaciones, y la definición de las necesidades institucionales, el establecimiento de prioridades de atención y la integración armónica de nuevas necesidades en pro del cumplimiento de los objetivos programados, contribuyendo a la modernización administrativa del Consejo y de los órganos jurisdiccionales a través del aprovechamiento ordenado y progresivo de los sistemas y tecnologías correspondientes.
+El Comité de Tecnologías de la Información es un cuerpo multidisciplinario dedicado específicamente a coadyuvar en la formulación e integración de lineamientos, políticas y criterios que incidan en la planeación, organización, evaluación y ajuste integral de las actividades en materias de informática y de telecomunicaciones, y la definición de las necesidades institucionales, el establecimiento de prioridades de atención y la integración armónica de nuevas necesidades en pro del cumplimiento de los objetivos programados, contribuyendo a la modernización administrativa del Consejo y de los órganos jurisdiccionales a través del aprovechamiento ordenado y progresivo de los sistemas y tecnologías correspondientes.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 683.
 
-El Comité de Informática estará integrado en los siguientes términos:
+El Comité de Tecnologías de la Información estará integrado en los siguientes términos:
 
 I. Presidente: El titular de la Secretaría Ejecutiva de Administración; y
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
-
-II. Vocales: Los titulares de la Secretaría Ejecutiva de Finanzas y Servicios Personales; y de la Coordinación de Administración Regional.
+II. Vocales: Los titulares de las direcciones generales de Programación, Presupuesto y Tesorería; Recursos Materiales; y de Innovación, Planeación y Desarrollo Institucional.
 
 Los integrantes tendrán derecho a voz y voto durante las sesiones.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 684.
 
-El Comité de Informática tendrá las siguientes funciones:
+El Comité de Tecnologías de la Información tendrá las siguientes funciones:
 
-I. Definir y proponer a la consideración de la Comisión de Administración y del Pleno los criterios, procedimientos y acciones relativas a la detección y atención de necesidades, a fin de coadyuvar en la debida integración y elaboración del Plan Estratégico de Tecnologías de la Información y Comunicaciones;
+I. Definir y proponer a opinión de la Comisión de Administración y someter a la aprobación del Pleno el Plan Estratégico de Tecnologías de la Información y Comunicaciones, así como sus actualizaciones, tomando en consideración las necesidades institucionales, las prioridades de atención y la disponibilidad de recursos presupuestarios;
 
-II. Someter a la consideración de la Comisión de Administración y del Pleno los lineamientos generales para el diseño e instrumentación, a corto, mediano y largo plazo de los proyectos informáticos y de telecomunicaciones, contemplando su impacto en los servicios que se ofrecen al Consejo, órganos jurisdiccionales, y ciudadanía en general, así como la adopción progresiva de las tecnologías más adecuadas para los fines institucionales;
+II. Someter a opinión de la Comisión de Administración, la Política Informática del Consejo, contemplando su impacto en los servicios que se ofrecen al Consejo, órganos jurisdiccionales, y ciudadanía en general, así como la adopción progresiva de las tecnologías más adecuadas para los fines institucionales;
 
-III. Conocer y opinar, previamente a su presentación ante la Comisión de Administración, el Plan Estratégico de Tecnologías de la Información y Comunicaciones y sus actualizaciones anuales, tomando en consideración las necesidades institucionales, las prioridades de atención y la disponibilidad de recursos presupuestarios;
+III. Aprobar los anteproyectos de presupuesto de egresos y los programas anuales de trabajo y de adquisiciones elaborados por la Dirección General de Tecnologías de la Información, a fin de coadyuvar en un desarrollo informático institucional acorde con los objetivos y metas de los programas a corto, mediano y largo plazo;
 
-IV. Dictaminar los anteproyectos de presupuesto de egresos y los programas anuales de trabajo y de adquisiciones elaborados por la Dirección General de Tecnologías de la Información, a fin de coadyuvar en un desarrollo informático institucional acorde con los objetivos y metas de los programas a corto, mediano y largo plazo;
+IV. Aprobar, con base en los lineamientos autorizados, los sistemas, proyectos o infraestructura informática que a través de la Dirección General de Tecnologías de la Información, soliciten las áreas administrativas y los órganos jurisdiccionales;
 
-V. Aprobar, con base en los lineamientos autorizados, los sistemas, proyectos o infraestructura informática que a través de la Dirección General de Tecnologías de la Información, soliciten las áreas administrativas y los órganos jurisdiccionales;
+V. Autorizar los lineamientos a los cuales deberán apegarse las áreas administrativas y los órganos jurisdiccionales para mejorar el uso y aprovechamiento de los bienes y servicios de tecnología de la información y de comunicaciones por medios electrónicos, coadyuvando en la agilización de los procesos judiciales y administrativos;
 
-VI. Definir las acciones para la correcta aplicación de los lineamientos a los cuales deberán apegarse las áreas administrativas y los órganos jurisdiccionales para mejorar el uso y aprovechamiento de los bienes y servicios de tecnología de la información y de comunicaciones por medios electrónicos, coadyuvando en la agilización de los procesos judiciales y administrativos;
+VI. Apoyar y, en su caso, participar en los programas de modernización administrativa autorizados por el Pleno o la Comisión de Administración;
 
-VII. Apoyar y, en su caso, participar en los programas de modernización administrativa autorizados por el Pleno o la Comisión de Administración;
+VII. Determinar acciones de seguimiento y evaluación de los resultados de los programas a corto, mediano y largo plazo y señalar, en su caso, las medidas correctivas;
 
-VIII. Determinar acciones de seguimiento y evaluación de los resultados de los programas a corto, mediano y largo plazo y señalar, en su caso, las medidas correctivas;
+VIII. Determinar en su caso la integración de grupos de trabajo, de carácter temporal o permanente, que actúen como instancias auxiliares del mismo Comité, convocando a las áreas que considere conveniente;
 
-IX. Determinar la integración de grupos de trabajo, de carácter temporal o permanente, que actúen como instancias auxiliares del mismo Comité, convocando a las áreas que considere conveniente;
+IX. Conocer y emitir opinión respecto de los asuntos relevantes que en su ámbito de competencia, le formule la Dirección General de Tecnologías de la Información;
 
-X. (DEROGADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 20 DE MARZO DE 2015)
+X. Elaborar y actualizar sus políticas de operación;
 
-XI. Conocer y emitir opinión respecto de los asuntos relevantes que en su ámbito de competencia le presente la Dirección General de Tecnologías de la Información;
+XI. Informar sobre el ejercicio de sus funciones al Pleno y a la Comisión de Administración, según se determine; y
 
-XII. Elaborar y actualizar sus políticas de operación;
+XII. Las demás que le sean conferidas por el Pleno o la Comisión de Administración.
 
-XIII. Informar sobre el ejercicio de sus funciones al Pleno y a la Comisión de Administración, según se determine; y
-
-XIV. Las demás que le sean conferidas por el Pleno o la Comisión de Administración.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 685.
 
-El presidente del Comité de Informática tendrá las siguientes funciones:
+El presidente del Comité de Tecnologías de la Información tendrá las siguientes funciones:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+I. Autorizar el orden del día de las sesiones a celebrar;
 
-I. Dirigir y moderar los debates durante las sesiones y ordenar su videograbación; así como emitir su voto respecto de los asuntos puestos a consideración del Comité;
+II. Representar al Comité, para el desahogo de los asuntos de su competencia;
 
-II. Autorizar el orden del día de las sesiones a celebrar;
+III. Vigilar el correcto funcionamiento del Comité; y
 
-III. Representar al Comité, para el desahogo de los asuntos de su competencia;
-
-IV. Requerir a las diversas áreas administrativas, la asesoría y estudio pormenorizado de cuestiones de carácter técnico especializado, respecto de asuntos competencia del Comité; y citar a sus titulares para que con el carácter de asesores temporales o invitados, internos o externos, concurran a las sesiones correspondientes;
-
-V. Vigilar el correcto funcionamiento del Comité;
-
-VI. Presentar a la consideración de la Comisión de Administración y del Pleno, los asuntos que determine el Comité; y
-
-VII. Las demás que le otorguen el Pleno o la Comisión de Administración.
+IV. Las demás que le otorguen el Pleno o la Comisión de Administración.
 
 ###### Artículo 686.
 
@@ -8531,43 +8651,59 @@ V. Ejecutar en el ámbito de sus atribuciones los acuerdos emitidos por el Pleno
 
 El contenido de la información y documentación técnica de los asuntos sometidos a consideración del Comité por el ponente, será bajo la absoluta y total responsabilidad de éste.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 688.
 
-El Comité de Informática tendrá un secretario técnico con preparación especializada en aspectos de tecnologías de la información y administración de proyectos, propuesto por el Secretario Ejecutivo de Administración, quien tendrá las funciones siguientes:
+El Comité de Tecnologías de la Información tendrá un secretario técnico con preparación especializada en aspectos de tecnologías de la información y administración de proyectos, propuesto por el Secretario Ejecutivo de Administración, quien tendrá las funciones siguientes:
 
 I. Convocar a las reuniones del Comité;
 
-II. Preparar y presentar el orden del día de la sesión, junto con los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que se requieran, de lo cual remitirá copia a cada integrante del Comité;
+II. Previa autorización del Presidente del Comité, requerir a las diversas áreas administrativas, la asesoría y estudio pormenorizado de cuestiones de carácter técnico especializado, respecto de asuntos competencia del Comité; y citar a sus titulares para que con el carácter de asesores temporales o invitados, internos o externos, concurran a las sesiones correspondientes.
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
+Previa autorización del Presidente del Comité, invitar a las personas físicas y morales y a los servidores públicos, que en razón de su competencia, profesión u oficio que desempeñen, puedan aportar sus conocimientos, experiencias y consejo para la resolución de los asuntos de la responsabilidad del Comité, teniendo derecho a voz, pero no a voto.
 
-III. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse y videograbar la sesión conforme a la orden del Presidente, en el soporte material respectivo y, en su caso, preparar una versión pública;
+Los servidores públicos y demás personas convocadas por el secretario técnico deberán guardar absoluta confidencialidad de la información a la que tengan acceso.
 
-IV. Suscribir los oficios cuya expedición haya acordado el Comité;
+Los servidores públicos convocados por el secretario técnico que participen en las sesiones del Comité de Tecnologías de la Información, en el ámbito de su competencia, deberán cumplir y hacer cumplir, las disposiciones establecidas en este Capítulo y demás ordenamientos aplicables, así como lo dispuesto en la Ley General de Responsabilidades Administrativas;
 
-V. Elaborar las actas de las sesiones para la aprobación del Comité e integrarlas en el expediente respectivo;
+III. Preparar y presentar el orden del día de la sesión, junto con los listados de los asuntos que se tratarán, incluyendo los documentos necesarios y los apoyos que se requieran, de lo cual remitirá copia a cada integrante del Comité;
 
-VI. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del propio Comité, cuando proceda su expedición;
+IV. Pasar lista de asistencia para determinar si existe quórum en la sesión a celebrarse y videograbar la sesión conforme a la orden del Presidente, en el soporte material respectivo y, en su caso, preparar una versión pública;
 
-VII. Cuidar que se registren los acuerdos del Comité y vigilar que se cumplan;
+V. Moderar los debates durante las sesiones;
 
-VIII. Vigilar que el archivo de los documentos analizados por el Comité esté completo y se mantenga actualizado, cuidando su conservación por el tiempo mínimo que establezcan las disposiciones aplicables;
+VI. Suscribir los oficios cuya expedición haya acordado el Comité;
 
-IX. Vigilar que cada asunto aprobado por el Comité esté respaldado con la firma de los integrantes, ponente, asesores e invitados asistentes a la sesión celebrada;
+VII. Elaborar las actas de las sesiones para la aprobación del Comité e integrarlas en el expediente respectivo;
 
-X. Apoyar, en el ámbito de sus atribuciones, en el debido cumplimiento de los objetivos y acuerdos del Comité; y
+VIII. Certificar las copias de las actas que se generen con motivo de las sesiones, así como los demás documentos que obren en los archivos del propio Comité, cuando proceda su expedición;
 
-XI. Las demás que le encomiende el Pleno, la Comisión de Administración o el presidente del Comité.
+IX. Cuidar que se registren los acuerdos del Comité y vigilar que se cumplan;
+
+X. Vigilar que el archivo de los documentos analizados por el Comité esté completo y se mantenga actualizado, cuidando su conservación por el tiempo mínimo que establezcan las disposiciones aplicables;
+
+XI. Vigilar que cada asunto aprobado por el Comité esté respaldado con la firma de los integrantes, ponente, asesores e invitados a la sesión celebrada;
+
+XII. Apoyar, en el ámbito de sus atribuciones, en el debido cumplimiento de los objetivos y acuerdos del Comité;
+
+XIII. Presentar a opinión de la Comisión de Administración y aprobación del Pleno, los asuntos que determine el Comité; y
+
+XIV. Las demás que le encomiende el Pleno, la Comisión de Administración o el presidente del Comité.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 689.
 
-El titular de la Dirección General de Estadística Judicial será asesor permanente del Comité de Informática y tendrá las siguientes funciones:
+El titular de la Dirección General de Gestión Judicial será asesor permanente del Comité de Tecnologías de la Información y tendrá las siguientes funciones:
 
 I. Asistir a las reuniones del Comité con derecho a voz, pero sin voto;
 
 II. Analizar los documentos relacionados con la competencia del Comité;
 
 III. Opinar y proporcionar la asesoría que estime pertinente en los asuntos de su especialización; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA] POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 IV. Proponer alternativas de solución, cuando le sean solicitadas.
 
@@ -8581,27 +8717,25 @@ Los servidores públicos y demás personas a las que se refiere este artículo d
 
 Los servidores públicos que participen en las sesiones del Comité de Informática, en el ámbito de su competencia, deberán cumplir y hacer cumplir, las disposiciones establecidas en este Capítulo y demás ordenamientos aplicables, así como lo dispuesto en la Ley General de Responsabilidades Administrativas.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 690.
 
-Las sesiones del Comité se celebrarán de la siguiente manera:
+Las sesiones del Comité de Tecnologías de la Información se celebrarán de la siguiente manera:
 
-I. En forma ordinaria una vez por mes y de manera extraordinaria cuando así lo convoque su presidente. Invariablemente, sesionará en las fechas previas a los calendarios establecidos para la presentación de los programas estratégicos en materias de informática y de telecomunicaciones;
+I. En forma ordinaria una vez cada tres meses y de manera extraordinaria cuando así lo convoque su presidente. Invariablemente, sesionará en las fechas previas en los calendarios establecidos para la presentación de los programas estratégicos en materia de tecnologías de la información;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+II. Deberán concurrir todos los integrantes del Comité; sin embargo, podrán llevarse a cabo con la presencia del presidente y, cuando menos, un vocal;
 
-II. Deberán concurrir todos los integrantes del Comité; sin embargo, podrán llevarse a cabo con la presencia del presidente y, cuando menos, un vocal. En ausencia del presidente y con la presencia de los dos vocales, aquel podrá ser suplido, en los casos debidamente justificados por el Secretario Ejecutivo de Finanzas y Servicios Personales;
-
-III. La convocatoria, el orden del día, junto con la documentación soporte, se entregarán a los integrantes del Comité, ponentes, asesores y, en su caso, invitados al menos con tres días hábiles de anticipación, a la celebración de sesiones ordinarias y un día hábil de anticipación tratándose de extraordinarias;
+III. La convocatoria, el orden del día, junto con la documentación soporte, se entregarán a los integrantes del Comité, ponente, asesores y, en su caso, invitados al menos con tres días hábiles de anticipación, a la celebración de sesiones ordinarias y dos días hábiles de anticipación tratándose de extraordinarias;
 
 IV. Las decisiones se tomarán por mayoría de votos de sus miembros presentes, en caso de empate el presidente tendrá voto de calidad;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON LA VIDEOGRABACIÓN DE LAS SESIONES DE LOS COMITÉS Y DEL ACTO DE APERTURA DE PROPUESTAS EN LAS LICITACIONES PÚBLICAS, ASÍ COMO LA DIFUSIÓN DE LOS FALLOS, D.O.F. 1 DE AGOSTO DE 2016)</small>
-
-V. Todas las sesiones serán videograbadas desde su inicio hasta su conclusión sin ninguna interrupción y de cada una se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes, ponentes, asesores e invitados asistentes, dejando constancia de la videograbación;
+V. Para todas las sesiones se levantará un acta con los acuerdos tomados, la cual será suscrita por los integrantes, ponente, asesores e invitados, dejando constancia de la sesión;
 
 VI. El Comité informará a la Comisión de Administración y, en su caso, al Pleno, los acuerdos adoptados en cada una de las sesiones que celebre. Los informes que se rindan deberán presentarse en un plazo no mayor a diez días hábiles; y
 
-VII. Deberá incluirse en el orden del día un apartado correspondiente al seguimiento de acuerdos emitidos en las sesiones anteriores. En el punto correspondiente a asuntos generales, podrán incluirse asuntos de carácter informativo.
+VII. Deberá incluirse en el orden del día un apartado correspondiente al seguimiento de acuerdos emitidos en las sesiones anteriores. En el punto de asuntos generales, podrán incluirse los de carácter informativo.
 
 ### CAPÍTULO SEGUNDO. PRESUPUESTO DE EGRESOS DEL PODER JUDICIAL DE LA FEDERACIÓN
 
@@ -8609,7 +8743,7 @@ VII. Deberá incluirse en el orden del día un apartado correspondiente al segui
 
 ###### Artículo 691.
 
-Las administraciones de edificios son las unidades operativas encargadas de atender de forma permanente, general, regular y continua la satisfacción de las necesidades que tengan los inmuebles del Poder Judicial de la Federación y sus usuarios, en materia de recursos materiales, servicios generales y de conservación y mantenimiento.
+Las administraciones de edificios son las unidades operativas encargadas de atender de forma permanente, general, regular y continua la satisfacción de las necesidades que tengan los inmuebles y sus usuarios, en materia de recursos materiales, servicios generales y de conservación y mantenimiento.
 
 Las administraciones de edificios operarán con un titular de la administración del edificio respectivo y con tantos subordinados como sean necesarios, quienes tendrán la categoría y percepciones que se fijen en el presupuesto para esos cargos y que determine la Comisión de Administración.
 
@@ -8621,9 +8755,11 @@ El titular de la Secretaría Ejecutiva de Administración deberá proponer a los
 
 El titular de la Dirección General de Servicios Generales será responsable de que el personal de las administraciones de edificios cumpla con los perfiles que para cada puesto se requieren.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 692.
 
-El titular de la Secretaría Ejecutiva de Administración se encargará de supervisar las acciones emprendidas por la Dirección General de Servicios Generales, para la adecuada administración de los inmuebles del Poder Judicial de la Federación. Para tal efecto, el citado Secretario Ejecutivo tendrá las siguientes atribuciones:
+El titular de la Secretaría Ejecutiva de Administración se encargará de supervisar las acciones emprendidas por la Dirección General de Servicios Generales, para la adecuada administración de los inmuebles. Para tal efecto, tendrá las siguientes atribuciones:
 
 I. Aprobar los criterios y procedimientos para la operación de las administraciones de edificios;
 
@@ -8697,7 +8833,9 @@ XIV. Operar el sistema de control de inventarios de bienes de consumo y de inver
 
 XV. Suministrar los recursos materiales a los órganos jurisdiccionales y administrativos que les correspondan, según los requerimientos y necesidades específicas;
 
-XVI. Formular el programa anual de mantenimiento y conservación de los inmuebles del Poder Judicial de la Federación que les corresponda;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XVI. Formular el programa anual de mantenimiento y conservación de los inmuebles que les corresponda;
 
 XVII. Colaborar en los trámites de los contratos de obra pública en los inmuebles del Consejo que les corresponda;
 
@@ -8837,7 +8975,9 @@ II. Ejercer su presupuesto observando lo dispuesto en la Ley, así como en este 
 
 III. Autorizar las adecuaciones a su presupuesto, observando las disposiciones de este Título y de la Ley de Presupuesto;
 
-IV. Realizar sus pagos a través de la Dirección General de Tesorería;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+IV. Realizar sus pagos a través de la Dirección General de Programación, Presupuesto y Tesorería;
 
 V. Determinar los ajustes que correspondan en su presupuesto en caso de disminución de ingresos; y
 
@@ -8853,13 +8993,15 @@ Los objetivos, estrategias y metas del Consejo, estarán encaminados al cumplimi
 
 El Presupuesto de Egresos del Poder Judicial de la Federación se elaborará de acuerdo con los objetivos, políticas, estrategias, prioridades y metas con base en indicadores de desempeño, contenidos en los programas para cada ejercicio fiscal aprobados por el Pleno, conforme a lo dispuesto en la Ley de Presupuesto y acorde con los criterios generales de política económica.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-La Dirección General de Innovación, Planeación y Desarrollo Institucional será la responsable de integrar el Programa Anual de Trabajo, los proyectos, objetivos, metas e indicadores anuales previstos por las áreas administrativas para el siguiente ejercicio fiscal y lo someterá a la aprobación de la Secretaría Ejecutiva de Finanzas y Servicios Personales, para autorización del Pleno, previa consideración favorable de la Comisión de Administración.
+La Dirección General de Innovación, Planeación y Desarrollo Institucional será la responsable de integrar los programas anuales de trabajo, los proyectos, objetivos, metas e indicadores anuales previstos por las áreas administrativas para el siguiente ejercicio fiscal y lo someterá a la aprobación de la Secretaría Ejecutiva de Administración, para autorización del Pleno, previa consideración favorable de la Comisión de Administración.
 
 Toda propuesta que implique aumento en el gasto corriente o de inversión, no contemplada inicialmente en el presupuesto autorizado, deberá contar con la autorización del Pleno.
 
-Dicha propuesta, se presentará por la unidad ejecutora de gasto, para autorización del Pleno, previa consideración favorable de la Comisión de Administración, en la que se precise la justificación motivada y fundada de la solicitud; y se anexe la certificación de suficiencia presupuestal, expedida por la Dirección General de Programación y Presupuesto.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Dicha propuesta, se presentará por la unidad ejecutora de gasto, para autorización del Pleno, previa consideración favorable de la Comisión de Administración, en la que se precise la justificación motivada y fundada de la solicitud; y se anexe la certificación de suficiencia presupuestal, expedida por la Dirección General de Programación, Presupuesto y Tesorería.
 
 El Pleno podrá autorizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos del Poder Judicial de la Federación, con cargo a los excedentes que, en su caso, resulten de las provisiones financieras originales. En el caso de los ingresos que tengan un destino específico por disposición expresa de leyes de carácter fiscal, éstos deberán reconocerse como ampliación al presupuesto autorizado del área ejecutora del gasto que los generó.
 
@@ -8875,31 +9017,41 @@ II. Registrarse ante la Secretaría de Hacienda conforme lo establece la Ley de 
 
 III. Informar a la Secretaría de Hacienda sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los informes trimestrales y la Cuenta Pública.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Para efectos de la aprobación a que se refiere la fracción I de este artículo, la Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de la Dirección General de Programación y Presupuesto, someterá a la autorización de la Comisión de Administración los montos, origen y conceptos de ampliación.
+Para efectos de la aprobación a que se refiere la fracción I de este artículo, la Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Programación, Presupuesto y Tesorería, someterá a la autorización de la Comisión de Administración los montos, origen y conceptos de ampliación.
 
-> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 701 Bis.
 
-La Dirección General de Programación y Presupuesto, rendirá informe mensual al Pleno, previo conocimiento de la Comisión de Administración, dentro de los primeros veinte días de cada mes, en el que precisará los ingresos registrados en el mes inmediato anterior en el sistema presupuestal, mismo que contendrá, por lo menos:
+La Dirección General de Programación, Presupuesto y Tesorería, rendirá informe mensual al Pleno, previo conocimiento de la Comisión de Administración, dentro de los primeros veinte días de cada mes, en el que precisará los ingresos registrados en el mes inmediato anterior en el sistema presupuestal, mismo que contendrá, por lo menos:
+
+> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 I. Descripción de los conceptos;
 
+> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 II. Monto de cada uno;
+
+> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 III. Partida o partidas presupuestales a las que se aplicará la ampliación líquida; y
 
+> <small>(ADICIONADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 IV. Suma total.
 
-La Dirección General de Programación y Presupuesto podrá, previa autorización de la Comisión de Receso, incorporar al Presupuesto de Egresos del Poder Judicial de la Federación como ampliación líquida, los ingresos excedentes registrados del 1° al 15 de noviembre de cada ejercicio fiscal. Esto se informará al Pleno en la primera sesión ordinaria del año inmediato posterior.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+La Dirección General de Programación, Presupuesto y Tesorería podrá, previa autorización de la Comisión de Receso, incorporar al Presupuesto de Egresos del Poder Judicial de la Federación como ampliación líquida, los ingresos excedentes registrados del 1° al 15 de noviembre de cada ejercicio fiscal. Esto se informará al Pleno en la primera sesión ordinaria del año inmediato posterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 702.
 
-En caso de que durante el ejercicio fiscal disminuyan las ministraciones por recorte al presupuesto autorizado al Consejo, el Pleno, por conducto de la Secretaría Ejecutiva de Finanzas y Servicios Personales, podrá aplicar las siguientes medidas de disciplina presupuestaria:
+En caso de que durante el ejercicio fiscal disminuyan las ministraciones por recorte al presupuesto autorizado al Consejo, el Pleno, por conducto de la Secretaría Ejecutiva de Administración, podrá aplicar las siguientes medidas de disciplina presupuestaria:
 
 > <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -8909,29 +9061,43 @@ I. Ajustes compensados con ingresos excedentes y transferencias financieras prov
 
 II. En el caso de que los ajustes compensados a que se refiere la fracción anterior no sean suficientes, se procederá a la reducción del gasto conforme a las prioridades que determine el Pleno, y demás disposiciones jurídicas aplicables, sin afectar programas de carácter sustantivo.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 703.
 
-En el ejercicio de sus presupuestos, las unidades ejecutoras de gasto se sujetarán a los calendarios mensuales de presupuesto autorizados por el Pleno. Para tal efecto, la Dirección General de Programación y Presupuesto será la responsable de:
+En el ejercicio de sus presupuestos, las unidades ejecutoras de gasto se sujetarán a los calendarios mensuales de presupuesto autorizados por el Pleno. Para tal efecto, la Dirección General de Programación, Presupuesto y Tesorería será la responsable de:
+
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 I. Recibir de las unidades ejecutoras de gasto, el proyecto de calendario mensual en los términos y plazos aprobados por el Pleno;
 
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 II. Integrar los calendarios tomando en consideración las necesidades institucionales y la oportunidad en la ejecución de los recursos para el mejor cumplimiento de los objetivos propuestos; y
+
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 III. Elaborar dichos calendarios, cuando no le sean presentados conforme a lo autorizado por el Pleno.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 704.
 
-La Dirección General de Programación y Presupuesto, reportará mensualmente a la Comisión de Administración, el estado de avance del ejercicio del presupuesto de las unidades ejecutoras de gasto, con el fin de informar sobre la acumulación de saldos y adoptar las medidas conducentes.
+La Dirección General de Programación, Presupuesto y Tesorería, reportará mensualmente a la Comisión de Administración, el estado de avance del ejercicio del presupuesto de las unidades ejecutoras de gasto, con el fin de informar sobre la acumulación de saldos y adoptar las medidas conducentes.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 La acumulación de saldos presupuestales de las unidades ejecutoras de gasto que resulten, deberán subsanarse a la brevedad, teniendo un plazo máximo de noventa días naturales, excepto en el último trimestre del año. En caso contrario, dichos recursos podrán ser reasignados a los programas y conceptos de gasto que determine la Comisión de Administración, con base en las expectativas de gasto que formulen las propias unidades ejecutoras de gasto.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 Por su parte, la Dirección General de Innovación, Planeación y Desarrollo Institucional informará mensualmente a la Comisión de Administración, el cumplimiento en la ejecución de programas anuales de trabajo de las unidades ejecutoras de gasto a fin de detectar oportunamente las variaciones respecto a lo programado; de manera conjunta con la unidad ejecutora involucrada, propondrá estrategias para corregir las deficiencias detectadas en la ejecución; y dará seguimiento a su correcta implementación.
 
-El registro histórico de indicadores que resulte del seguimiento físico y financiero formará parte del Sistema Institucional de Evaluación y será considerado en ejercicios subsecuentes.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+El registro histórico de indicadores que resulte del seguimiento físico y financiero formará parte del Sistema de Planeación Estratégica Institucional y será considerado en ejercicios subsecuentes.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 Lo previsto en este artículo tiene por objeto evitar el subejercicio de los recursos presupuestales al concluir el ejercicio fiscal, así como optimizar y racionalizar el uso de los mismos en cumplimiento al Plan de Desarrollo Institucional y los objetivos y metas institucionales.
 
@@ -8939,7 +9105,7 @@ Lo previsto en este artículo tiene por objeto evitar el subejercicio de los rec
 
 #### SECCIÓN CUARTA. DESCONCENTRACIÓN DEL EJERCICIO DEL GASTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 705.
 
@@ -8949,9 +9115,9 @@ El Pleno podrá autorizar la recepción o transferencia de recursos financieros,
 
 En el marco de la autonomía e independencia que la Constitución otorga al Poder Judicial de la Federación, y bajo el principio de respeto institucional entre Poderes, el Consejo podrá establecer canales de comunicación y colaboración institucional con las Cámaras de Senadores y de Diputados del Congreso de la Unión, con los Congresos Locales y con las dependencias de la Administración Pública Federal y de las Entidades Federativas, que coadyuven al cumplimiento de sus funciones.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda hacerlo individualmente y de lo establecido en la Constitución y en la Ley Orgánica, el Consejo, a través de la Secretaría Ejecutiva de Finanzas y Servicios Personales, podrá establecer de manera directa los vínculos institucionales con los órganos competentes de los Poderes Ejecutivo y Legislativo de la Federación, para la atención de las funciones financieras y administrativas relacionadas con la gestión de los recursos presupuestales autorizados.
+Sin detrimento de que cada instancia del Poder Judicial de la Federación pueda hacerlo individualmente y de lo establecido en la Constitución y en la Ley Orgánica, el Consejo, a través de la Secretaría Ejecutiva de Administración, podrá establecer de manera directa los vínculos institucionales con los órganos competentes de los Poderes Ejecutivo y Legislativo de la Federación, para la atención de las funciones financieras y administrativas relacionadas con la gestión de los recursos presupuestales autorizados.
 
 #### SECCIÓN PRIMERA. DEL SISTEMA DE CONTABILIDAD EN EL CONSEJO DE LA JUDICATURA FEDERAL
 
@@ -8979,25 +9145,25 @@ Las unidades ejecutoras de gasto, en términos del artículo 45 de la Ley de Pre
 
 El Presupuesto de Egresos del Poder Judicial de la Federación se administrará por resultados, para lo cual, las unidades ejecutoras de gasto, deberán establecer y registrar en su Programa Anual de Trabajo, los objetivos, metas e indicadores que pretendan lograr, de conformidad con un ejercicio eficiente y eficaz del gasto y a una efectiva rendición de cuentas. En consecuencia, se sujetarán a los controles programáticos y presupuestarios correspondientes, conforme a sus programas y presupuestos autorizados y a las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 709.
 
-La Comisión de Administración, por conducto de la Secretaría Ejecutiva de Finanzas y Servicios Personales, administrará los recursos del Consejo, de conformidad con el Presupuesto de Egresos del Poder Judicial de la Federación y las disposiciones jurídicas aplicables; bajo los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, y equidad de género.
+La Comisión de Administración, por conducto de la Secretaría Ejecutiva de Administración, administrará los recursos del Consejo, de conformidad con el Presupuesto de Egresos del Poder Judicial de la Federación y las disposiciones jurídicas aplicables; bajo los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas, y equidad de género.
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales verificará que se dé cumplimiento a lo dispuesto en el artículo 704 de este Acuerdo y propondrá los sistemas de control y de evaluaciones internas del ejercicio presupuestal, a través de las unidades administrativas competentes.
+La Secretaría Ejecutiva de Administración verificará que se dé cumplimiento a lo dispuesto en el artículo 704 de este Acuerdo y propondrá los sistemas de control y de evaluaciones internas del ejercicio presupuestal, a través de las unidades administrativas competentes.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 710.
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de la Dirección General de Programación y Presupuesto, establecerá la coordinación y comunicación adecuada con las demás unidades ejecutoras de gasto para que exista un flujo de información ágil y oportuna.
+La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Programación, Presupuesto y Tesorería, establecerá la coordinación y comunicación adecuada con las demás unidades ejecutoras de gasto para que exista un flujo de información ágil y oportuna.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 711.
 
-La Dirección General de Programación y Presupuesto será la encargada de elaborar la propuesta de programación, presupuestación, distribución y calendarización del presupuesto anual de egresos del Poder Judicial de la Federación, así como de llevar a cabo el registro y control del ejercicio del gasto en el Consejo. La evaluación de los resultados obtenidos corresponderá a la Dirección General de Innovación, Planeación y Desarrollo Institucional; mientras que la Contraloría inspeccionará y vigilará el cumplimiento de las disposiciones previstas en este Título y de la Ley de Presupuesto, así como de las que de ellas emanen, respecto de dicho gasto.
+La Dirección General de Programación, Presupuesto y Tesorería será la encargada de elaborar la propuesta de programación, presupuestación, distribución y calendarización del presupuesto anual de egresos del Poder Judicial de la Federación, así como llevar a cabo el registro y control del ejercicio del gasto en el Consejo. La evaluación de los resultados obtenidos corresponderá a la Dirección General de Innovación, Planeación y Desarrollo Institucional; mientras que la Contraloría inspeccionará y vigilará el cumplimiento de las disposiciones previstas en este Título y de la Ley de Presupuesto, así como de las que de ellas emanen, respecto de dicho gasto.
 
 ###### Artículo 712.
 
@@ -9013,7 +9179,7 @@ El Consejo establecerá los sistemas informáticos que sean adecuados para las d
 
 ###### Artículo 714.
 
-La Dirección General de Programación y Presupuesto deberá coordinarse con la Secretaría de Hacienda para efectos de la programación y presupuestación, de conformidad con la normatividad aplicable.
+La Dirección General de Programación, Presupuesto y Tesorería deberá coordinarse con la Secretaría de Hacienda para efectos de la programación y presupuestación, de conformidad con la normatividad aplicable.
 
 ###### Artículo 715.
 
@@ -9053,7 +9219,9 @@ I. Las categorías que comprenderán la función, la subfunción, el programa, e
 
 II. Los elementos que comprenderán la misión, la visión, los objetivos y las metas con base en indicadores de desempeño, y la unidad ejecutora del gasto, en congruencia con las políticas y estrategias que determine el Pleno;
 
-III. Los indicadores corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año, expresado en términos de cobertura, eficiencia, impacto económico y social, calidad, equidad o cualquier otro que se considere significativo y relevante de la función sustantiva del Consejo. Estos indicadores serán la base para el funcionamiento del Sistema Institucional de Evaluación; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+III. Los indicadores corresponderán a un índice, medida, cociente o fórmula que permita establecer un parámetro de medición de lo que se pretende lograr en un año, expresado en términos de cobertura, eficiencia, impacto económico y social, calidad, equidad o cualquier otro que se considere significativo y relevante de la función sustantiva del Consejo. Estos indicadores serán la base para el funcionamiento del Sistema de Planeación Estratégica Institucional; y
 
 IV. Las acciones que promuevan la igualdad entre mujeres y hombres.
 
@@ -9077,13 +9245,13 @@ IV. La geográfica, que agrupa a las previsiones de gasto con base en su destino
 
 V. La de género, la cual agrupa las previsiones de gasto con base en su destino por género, diferenciado entre mujeres y hombres.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 719.
 
-El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación, se formulará conforme a los criterios y lineamientos que autorice el Pleno. Dichos criterios y lineamientos serán propuestos al Pleno por la Secretaría Ejecutiva de Finanzas y Servicios Personales, previa aprobación de la Comisión de Administración.
+El anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación, se formulará conforme a los criterios y lineamientos que autorice el Pleno. Dichos criterios y lineamientos serán propuestos al Pleno por la Secretaría Ejecutiva de Administración, previa aprobación de la Comisión de Administración.
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales, por conducto de la Dirección General de Programación y Presupuesto está facultada para formular el anteproyecto de presupuesto de las unidades ejecutoras de gasto con la información que ésta tenga disponible, cuando las mismas no lo presenten en los plazos establecidos.
+La Secretaría Ejecutiva de Administración, por conducto de la Dirección General de Programación, Presupuesto y Tesorería está facultada para formular el anteproyecto de presupuesto de las unidades ejecutoras de gasto con la información que ésta tenga disponible, cuando las mismas no lo presenten en los plazos establecidos.
 
 ###### Artículo 720.
 
@@ -9123,7 +9291,7 @@ La Dirección General de Innovación, Planeación y Desarrollo Institucional y l
 
 #### SECCIÓN CUARTA. DEL ARCHIVO Y CONSERVACIÓN DE DOCUMENTOS
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 724.
 
@@ -9131,11 +9299,11 @@ Las unidades ejecutoras de gasto serán responsables de la administración por r
 
 El ejercicio del gasto público en el Consejo se efectuará con base en el calendario del ejercicio presupuestal autorizado por el Pleno. Dicho ejercicio comprenderá el manejo y aplicación que de los recursos realice el Consejo, por medio de las unidades ejecutoras de gasto, para dar cumplimiento a los objetivos y metas considerados en el Programa Anual de Trabajo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 725.
 
-Las políticas, lineamientos, directrices y criterios para el ejercicio del gasto público en el Consejo, serán formulados por la Dirección General de Programación y Presupuesto y presentados por la Secretaría Ejecutiva de Finanzas y Servicios Personales a la Comisión de Administración para su definición anual y su posterior autorización del Pleno.
+Las políticas, lineamientos, directrices y criterios para el ejercicio del gasto público en el Consejo, serán formulados por la Dirección General de Programación, Presupuesto y Tesorería y presentados por la Secretaría Ejecutiva de Administración a la Comisión de Administración para su definición anual y su posterior autorización del Pleno.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9213,9 +9381,9 @@ La autorización de contratos plurianuales se sujetará a las siguientes reglas:
 
 I. El monto total de los contratos plurianuales no deberá implicar riesgos de incumplimiento de las obligaciones a cargo del Consejo ni restricciones a la flexibilidad requerida para el adecuado ejercicio del gasto;
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-II. El monto máximo para la contratación plurianual, de cada ejercicio, deberá fijarse hasta por el monto que, como porcentaje del presupuesto en que se ejerza, autorice el Pleno a propuesta de la Secretaría Ejecutiva de Finanzas y Servicios Personales, lo que podrá ser reducido o ampliado conforme a las economías obtenidas en los capítulos de gasto corriente;
+II. El monto máximo para la contratación plurianual, de cada ejercicio, deberá fijarse hasta por el monto que, como porcentaje del presupuesto en que se ejerza, autorice el Pleno a propuesta de la Secretaría Ejecutiva de Administración, lo que podrá ser reducido o ampliado conforme a las economías obtenidas en los capítulos de gasto corriente;
 
 III. De ser el caso, se tomarán en consideración las erogaciones plurianuales aprobadas en ejercicios anteriores;
 
@@ -9227,11 +9395,11 @@ VI. En todo caso, las asignaciones de recursos de los ejercicios fiscales subsec
 
 Las unidades globalizadoras deberán informar al Pleno sobre cualquier variación significativa en los términos y estimaciones presentadas para obtener las autorizaciones correspondientes, así como cualquier asunto superveniente que afecte sustancialmente el desarrollo de la prestación de servicios de que se trate, en los términos de las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 731.
 
-El Consejo recibirá y operará sus recursos financieros a través de la Dirección General de Tesorería. Por lo que se refiere a los pagos, éstos serán realizados directamente por dicha Tesorería o por las Unidades Administrativas Foráneas y Administraciones de Edificios de la Ciudad de México y zona conurbada, conforme a este Título y demás disposiciones aplicables.
+El Consejo recibirá y operará sus recursos financieros, y realizará los pagos a su cargo, a través de la Dirección General de Programación, Presupuesto y Tesorería, con excepción de los que correspondan a las Unidades Administrativas Foráneas y Administraciones de Edificios de la Ciudad de México y zona conurbada, conforme a este Título y demás disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9319,11 +9487,11 @@ I. Con cargo a los programas y, en su caso, los subprogramas, proyectos y unidad
 
 II. Con sujeción al Clasificador por Objeto del Gasto del propio Consejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 741.
 
-Cuando los capítulos, partidas o conceptos del Clasificador por Objeto del Gasto, no satisfagan los requerimientos de registro presupuestario del Consejo, la Secretaría Ejecutiva de Finanzas y Servicios Personales a través de la Dirección General de Programación y Presupuesto podrá, conforme a sus funciones y requerimientos específicos, identificar sus erogaciones con una apertura y desagregación mayor a la prevista en dicho clasificador.
+Cuando los capítulos, partidas o conceptos del Clasificador por Objeto del Gasto, no satisfagan los requerimientos de registro presupuestario del Consejo, la Secretaría Ejecutiva de Administración a través de la Dirección General de Programación, Presupuesto y Tesorería podrá, conforme a sus funciones y requerimientos específicos, identificar sus erogaciones con una apertura y desagregación mayor a la prevista en dicho clasificador.
 
 > <small>(REFORMADO, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -9393,9 +9561,13 @@ V. Se apeguen a las demás disposiciones generales aplicables.
 
 Las erogaciones que se realicen por concepto de asesorías, estudios e investigaciones, gastos de orden social, congresos, convenciones, exposiciones, seminarios, espectáculos culturales o cualquier otro tipo de foro o evento análogo, se sujetarán a los lineamientos específicos autorizados por el Pleno.
 
-Las erogaciones relacionadas con gastos de orden social, seminarios, asesorías, estudios e investigaciones, que efectúe el Consejo a través de las áreas competentes, para la atención de necesidades urgentes, de ejecución inmediata y de montos relativamente menores, serán autorizadas por la Dirección General de Programación y Presupuesto.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-De los gastos realizados, la Dirección General de Programación y Presupuesto, deberá presentar mensualmente un informe a la Comisión de Administración.
+Las erogaciones relacionadas con gastos de orden social, seminarios, asesorías, estudios e investigaciones, que efectúe el Consejo a través de las áreas competentes, para la atención de necesidades urgentes, de ejecución inmediata y de montos relativamente menores, serán autorizadas por la Dirección General de Programación, Presupuesto y Tesorería.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+De los gastos realizados, la Dirección General de Programación, Presupuesto y Tesorería, deberá presentar mensualmente un informe a la Comisión de Administración.
 
 #### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
 
@@ -9483,13 +9655,15 @@ X. Cumplir con las demás disposiciones aplicables y con los acuerdos que al efe
 
 Las unidades ejecutoras de gasto deberán establecer los mecanismos necesarios para garantizar la recuperación de los pagos en exceso, ocasionados por cambios o bajas del personal, errores u omisiones.
 
-Independientemente de la forma de pago, el Consejo, a través de las Direcciones Generales de Recursos Humanos, Tesorería y de las Administraciones Regionales, según corresponda, deberá asegurarse de entregar a cada servidor público, directamente o por medios electrónicos, el comprobante de pago donde se especifiquen los conceptos y cantidades que correspondan a sus percepciones y descuentos. Asimismo, deberá conservar los documentos que emitan las instituciones bancarias de los abonos efectuados a las cuentas de los servidores públicos, lo que comprobará que efectivamente se efectuó el pago.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+Independientemente de la forma de pago, el Consejo, a través de las Direcciones Generales de Recursos Humanos; de Programación, Presupuesto y Tesorería, y de las Administraciones Regionales, según corresponda, deberá asegurarse de entregar a cada servidor público, directamente o por medios electrónicos, el comprobante de pago donde se especifiquen los conceptos y cantidades que correspondan a sus percepciones y descuentos. Asimismo, deberá conservar los documentos que emitan las instituciones bancarias de los abonos efectuados a las cuentas de los servidores públicos, lo que comprobará que efectivamente se efectuó el pago.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 755.
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales a través de sus unidades administrativas someterá a la autorización del Pleno, previa consideración favorable de la Comisión de Administración, el Manual de Percepciones y Prestaciones para los servidores públicos a cargo del Consejo; así como las reglas para su aplicación.
+La Secretaría Ejecutiva de Administración a través de sus unidades administrativas someterá a la autorización del Pleno, previa consideración favorable de la Comisión de Administración, el Manual de Percepciones y Prestaciones para los servidores públicos a cargo del Consejo; así como las reglas para su aplicación.
 
 El Manual a que se refiere este artículo deberá publicarse en el Diario Oficial de la Federación conforme a los plazos establecidos en las disposiciones aplicables.
 
@@ -9525,7 +9699,9 @@ IV. El monto mensual bruto que se pacte por concepto de honorarios no podrá reb
 
 La Dirección General de Asuntos Jurídicos dictaminará los contratos conforme a los modelos aprobados y de acuerdo a la normatividad aplicable para las contrataciones por servicios profesionales.
 
-La Dirección General de Programación y Presupuesto, deberá reportar en los informes trimestrales y en la Cuenta Pública, las contrataciones por honorarios que el Consejo realice durante el ejercicio fiscal.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+La Dirección General de Programación, Presupuesto y Tesorería, deberá reportar en los informes trimestrales y en la Cuenta Pública, las contrataciones por honorarios que el Consejo realice durante el ejercicio fiscal.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9581,29 +9757,41 @@ I. El análisis y evaluación que de las operaciones financieras y de la realiza
 
 II. Las situaciones coyunturales, contingentes y extraordinarias que incidan en el desarrollo de los programas.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 768.
 
-La Dirección General de Programación y Presupuesto, realizará las adecuaciones presupuestarias entre partidas, capítulos de gasto, o programas en los siguientes casos:
+La Dirección General de Programación, Presupuesto y Tesorería, realizará las adecuaciones presupuestarias entre partidas, capítulos de gasto, o programas en los siguientes casos:
+
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 I. Cuando previo análisis del comportamiento del gasto, se estimen pertinentes para un óptimo ejercicio de los recursos presupuestales;
 
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 II. Cuando se requiera dotar de suficiencia presupuestal a partidas por gastos extraordinarios o contingentes autorizados por el Pleno; y
+
+> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 III. A solicitud de las unidades ejecutoras de gasto, después de satisfacer el análisis y la evaluación correspondiente.
 
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+
 En todos los casos, las adecuaciones presupuestarias, deberán cumplir con las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 A nivel de gasto desconcentrado, la Coordinación de Administración Regional y las Direcciones Generales de Recursos Materiales; Servicios Generales; e Inmuebles y Mantenimiento, así como las Unidades Administrativas Foráneas y las Administraciones de Edificios de la Ciudad de México y zona conurbada, realizarán las adecuaciones que sean necesarias, conforme a la normatividad vigente.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-De los movimientos realizados, la Dirección General de Programación y Presupuesto, integrará el informe que presente la Secretaría Ejecutiva de Finanzas y Servicios Personales periódicamente a la Comisión de Administración y al Pleno.
+De los movimientos realizados, la Dirección General de Programación, Presupuesto y Tesorería, integrará el informe que presente la Secretaría Ejecutiva de Administración periódicamente a la Comisión de Administración y al Pleno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 769.
 
-La Dirección General de Programación y Presupuesto deberá recabar el dictamen previo favorable de la Contraloría cuando las adecuaciones presupuestarias impliquen los siguientes movimientos:
+La Dirección General de Programación, Presupuesto y Tesorería deberá recabar el dictamen previo favorable de la Contraloría cuando las adecuaciones presupuestarias impliquen los siguientes movimientos:
 
 I. Se realicen ampliaciones líquidas por ingresos generados por cualquier concepto;
 
@@ -9617,11 +9805,9 @@ IV. Cuando lo solicite de manera expresa la Comisión de Administración.
 
 ###### Artículo 770.
 
-Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Secretaría Ejecutiva de Finanzas y Servicios Personales podrá desconcentrar en las Unidades Administrativas Foráneas y las Administraciones de Edificios de la Ciudad de México y zona conurbada, la realización de funciones presupuestales y operaciones financieras, en los términos de este Título y demás disposiciones jurídicas aplicables.
+Con el fin de procurar el ejercicio eficiente y eficaz del gasto, la Secretaría Ejecutiva de Administración podrá desconcentrar en las Unidades Administrativas Foráneas y las Administraciones de Edificios de la Ciudad de México y zona conurbada, la realización de funciones presupuestales y operaciones financieras, en los términos de este Título y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
-
-La Dirección General de Programación y Presupuesto tendrá la atribución de supervisar el adecuado desarrollo de la desconcentración de las funciones y operaciones señaladas en el párrafo anterior, con la finalidad de mantener el control del gasto, y la integridad y consistencia de la información financiera.
+La Dirección General de Programación, Presupuesto y Tesorería tendrá la atribución de supervisar el adecuado desarrollo de la desconcentración de las funciones y operaciones señaladas en el párrafo anterior, con la finalidad de mantener el control del gasto, y la integridad y consistencia de la información financiera.
 
 ### CAPÍTULO SÉPTIMO. EVALUACIÓN, INFORMACIÓN Y TRANSPARENCIA
 
@@ -9651,7 +9837,7 @@ Al extinguirse los fideicomisos, los recursos públicos remanentes deberán dest
 
 #### SECCIÓN PRIMERA. EVALUACIÓN
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 773.
 
@@ -9663,11 +9849,13 @@ II. Facilitar la fiscalización de los activos, pasivos, ingresos, erogaciones y
 
 III. Generar estados financieros, confiables, oportunos, comprensibles, periódicos y comparables, los cuales serán expresados en términos monetarios que coadyuven a la toma de decisiones, la transparencia y la rendición de cuentas.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 774.
 
-La Dirección General de Programación y Presupuesto, será responsable del Sistema de Contabilidad y de vigilar el correcto registro de las operaciones en el sistema electrónico.
+La Dirección General de Programación, Presupuesto y Tesorería, será responsable del Sistema de Contabilidad y de vigilar el correcto registro de las operaciones en el sistema electrónico.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 Lo anterior, de conformidad con la Ley General de Contabilidad Gubernamental y los Acuerdos que emita el Consejo Nacional de Armonización Contable, así como la normativa que emita el Consejo.
 
@@ -9749,11 +9937,11 @@ Los procesos administrativos que impliquen transacciones presupuestarias y conta
 
 Para tales efectos, se dispondrá de clasificadores presupuestarios, listas de cuentas y catálogos de bienes o instrumentos similares que permitan su interrelación automática.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 781.
 
-Será responsabilidad de la Dirección General de Programación y Presupuesto, la confiabilidad de las cifras consignadas en su contabilidad, así como la representatividad de los saldos de las cuentas de balance en función de los activos, pasivos, patrimonio y cuentas presupuestales, adoptando para ello las medidas de control y depuración correspondientes.
+Será responsabilidad de la Dirección General de Programación, Presupuesto y Tesorería, la confiabilidad de las cifras consignadas en su contabilidad, así como la representatividad de los saldos de las cuentas de balance en función de los activos, pasivos, patrimonio y cuentas presupuestales, adoptando para ello las medidas de control y depuración correspondientes.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9761,11 +9949,11 @@ Será responsabilidad de la Dirección General de Programación y Presupuesto, l
 
 La contabilidad deberá contener registros auxiliares que muestren los avances presupuestarios y contables, que permitan realizar el seguimiento y evaluación del ejercicio del gasto público y la obtención del ingreso, así como el análisis y la integración de los saldos contenidos en sus estados financieros.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 783.
 
-Para el registro de las operaciones presupuestarias y contables, el Consejo a través de la Dirección General de Programación y Presupuesto, deberá ajustarse a sus respectivos catálogos de cuentas, cuyas listas de cuentas estarán alineadas, tanto conceptualmente como en sus principales agregados, al plan de cuentas que emita el Consejo Nacional de Armonización Contable.
+Para el registro de las operaciones presupuestarias y contables, el Consejo a través de la Dirección General de Programación, Presupuesto y Tesorería, deberá ajustarse a sus respectivos catálogos de cuentas, cuyas listas de cuentas estarán alineadas, tanto conceptualmente como en sus principales agregados, al plan de cuentas que emita el Consejo Nacional de Armonización Contable.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9773,17 +9961,17 @@ Para el registro de las operaciones presupuestarias y contables, el Consejo a tr
 
 Para modificar el catálogo de cuentas a que se refiere el artículo anterior, el Consejo deberá observar lo establecido en las disposiciones que, en su caso, emita el Consejo Nacional de Armonización Contable.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 785.
 
-La Dirección General de Programación y Presupuesto llevará a cabo la desagregación de las cuentas contables en los niveles que permitan el suministro de información interna para la toma de decisiones administrativas y para el control en la ejecución de las acciones, de acuerdo con las necesidades del Consejo.
+La Dirección General de Programación, Presupuesto y Tesorería llevará a cabo la desagregación de las cuentas contables en los niveles que permitan el suministro de información interna para la toma de decisiones administrativas y para el control en la ejecución de las acciones, de acuerdo con las necesidades del Consejo.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 786.
 
-La Dirección General de Programación y Presupuesto, registrará anualmente, como asiento de apertura en la contabilidad, los saldos finales de las cuentas de balance del ejercicio inmediato anterior.
+La Dirección General de Programación, Presupuesto y Tesorería, registrará anualmente, como asiento de apertura en la contabilidad, los saldos finales de las cuentas de balance del ejercicio inmediato anterior.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9799,13 +9987,15 @@ III. Transferencias electrónicas; y
 
 IV. Cualquier otro documento que acredite la entrada de recursos que por su naturaleza sea considerado ingreso.
 
-En los casos excepcionales en que no se cuente con alguno de los documentos antes citados, o se desconozca el origen del ingreso, la Dirección General de Programación y Presupuesto registrará, con base en los estados de cuenta bancarios en los cuales se identifique el ingreso a la cuenta correspondiente.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+En los casos excepcionales en que no se cuente con alguno de los documentos antes citados, o se desconozca el origen del ingreso, la Dirección General de Programación, Presupuesto y Tesorería registrará, con base en los estados de cuenta bancarios en los cuales se identifique el ingreso a la cuenta correspondiente.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 788.
 
-Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, deberán ser reintegradas a la Tesorería de la Federación por la Secretaría Ejecutiva de Finanzas y Servicios Personales, a través de la Dirección General de Programación y Presupuesto, previa opinión favorable de la Contraloría. Los reintegros que en el periodo de un mes excedan la cantidad de 41,073.3844 veces el valor de la Unidad de Medida y Actualización, deberán contar además con la autorización previa de la Comisión de Administración.
+Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, deberán ser reintegradas a la Tesorería de la Federación por la Secretaría Ejecutiva de Administración, a través de la Dirección General de Programación, Presupuesto y Tesorería, previa opinión favorable de la Contraloría. Los reintegros que en el periodo de un mes excedan la cantidad de 41,073.3844 veces el valor de la Unidad de Medida y Actualización, deberán contar además con la autorización previa de la Comisión de Administración.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9831,7 +10021,9 @@ III. La contabilización de los pagos correspondientes al pasivo por operaciones
 
 La contabilidad de las operaciones deberá estar respaldada con los documentos originales comprobatorios y justificativos.
 
-En casos excepcionales, cuando se carezca de los documentos justificativos o comprobatorios, la Dirección General de Programación y Presupuesto, o en su caso, las Unidades Administrativas Foráneas deberán consignar mediante acta circunstanciada o documento público, entre otros datos, la causa del faltante y su justificación, los importes y fechas de las operaciones, solicitando la autorización correspondiente a la Comisión de Administración a fin de proceder al registro contable, tomando en consideración las recomendaciones que para efectos de fiscalización y auditoría, emita la Contraloría.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+En casos excepcionales, cuando se carezca de los documentos justificativos o comprobatorios, la Dirección General de Programación, Presupuesto y Tesorería, o en su caso, las Unidades Administrativas Foráneas deberán consignar mediante acta circunstanciada o documento público, entre otros datos, la causa del faltante y su justificación, los importes y fechas de las operaciones, solicitando la autorización correspondiente a la Comisión de Administración a fin de proceder al registro contable, tomando en consideración las recomendaciones que para efectos de fiscalización y auditoría, emita la Contraloría.
 
 El Consejo estará obligado a conservar y poner a disposición de las autoridades competentes los documentos, comprobatorios y justificativos, así como los libros principales de contabilidad, de conformidad con los lineamientos que para tal efecto establezca el Consejo Nacional de Armonización Contable.
 
@@ -9927,9 +10119,11 @@ Las obras en proceso deberán registrarse, invariablemente, en una cuenta contab
 
 Las unidades administrativas responsables deberán registrar en una cuenta de activo, los fideicomisos sin estructura orgánica y contratos análogos sobre los que tenga derecho o de los que emane una obligación, conforme a los lineamientos establecidos para tales efectos.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 793.
 
-La Dirección General de Programación y Presupuesto recabará trimestralmente de las áreas administrativas competentes, la información necesaria relativa a los juicios o procedimientos de cualquier tipo que afecten recursos presupuestales del Consejo, con la finalidad de realizar los ajustes que correspondan a los saldos de las cuentas contables, previa autorización de la Comisión de Administración.
+La Dirección General de Programación, Presupuesto y Tesorería recabará trimestralmente de las áreas administrativas competentes, la información necesaria relativa a los juicios o procedimientos de cualquier tipo que afecten recursos presupuestales del Consejo, con la finalidad de realizar los ajustes que correspondan a los saldos de las cuentas contables, previa autorización de la Comisión de Administración.
 
 > <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -9937,23 +10131,23 @@ La Dirección General de Programación y Presupuesto recabará trimestralmente d
 
 Las unidades administrativas registrarán las provisiones que se constituyan para hacer frente a los pasivos de cualquier naturaleza. Dichas provisiones deberán ser revisadas y ajustadas para mantener su vigencia.
 
-> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 793 Ter.
 
-Las unidades ejecutoras de gasto serán las responsables de remitir a la Dirección General de Programación y Presupuesto, las solicitudes de pagos a terceros, así como las aportaciones por concepto de carga social que realiza el Consejo, con la documentación comprobatoria debidamente requisitada que ampare y justifique el pago, para su solicitud a la Dirección General de Tesorería.
+Las unidades ejecutoras de gasto serán las responsables de remitir a la Dirección General de Programación, Presupuesto y Tesorería, las solicitudes de pagos a terceros, así como las aportaciones por concepto de carga social que realiza el Consejo, con la documentación comprobatoria debidamente requisitada que ampare y justifique el pago.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 794.
 
-La Dirección General de Programación y Presupuesto realizará la depuración contable efectuando los registros de ajustes y reclasificaciones contables, anexando la documentación soporte, justificativa y comprobatoria, que refleje el trabajo realizado de depuración en los términos establecidos en las disposiciones jurídicas aplicables.
+La Dirección General de Programación, Presupuesto y Tesorería realizará la depuración contable efectuando los registros de ajustes y reclasificaciones contables, anexando la documentación soporte, justificativa y comprobatoria, que refleje el trabajo realizado de depuración en los términos establecidos en las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 795.
 
-En los casos que no se cuente con los elementos suficientes para la depuración o cancelación de saldos contables, la Dirección General de Programación y Presupuesto, de conformidad con los lineamientos autorizados por la Comisión de Administración, elaborará una acta narrativa de hechos en la que se describan las acciones que llevaron al resultado obtenido, a la cual deberá anexarse la documentación soporte que garantice que se han agotado los mecanismos de investigación, por cada uno de los saldos a depurar, y la presentará a la Comisión antes citada, para la autorización y cancelación de movimientos y saldos contables correspondientes.
+En los casos que no se cuente con los elementos suficientes para la depuración o cancelación de saldos contables, la Dirección General de Programación, Presupuesto y Tesorería, de conformidad con los lineamientos autorizados por la Comisión de Administración, elaborará un acta circunstanciada de hechos en la que se describan las acciones que llevaron al resultado obtenido, a la cual deberá anexarse la documentación soporte que garantice que se han agotado los mecanismos de investigación, por cada uno de los saldos a depurar, y la presentará a la Comisión antes citada, para la autorización y cancelación de movimientos y saldos contables correspondientes.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -10033,15 +10227,13 @@ IV. La información complementaria para generar las cuentas nacionales y atender
 
 Los estados analíticos sobre deuda pública y otros pasivos, y el de capital deberán considerar por concepto el saldo inicial del ejercicio, las entradas y salidas por transacciones, otros flujos económicos y el saldo final del ejercicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 797.
 
-La Dirección General de Programación y Presupuesto es la responsable de elaborar, autorizar y enviar a la Secretaría Ejecutiva de Finanzas y Servicios Personales y a la Contraloría, los estados financieros de manera mensual, en los términos establecidos en las disposiciones jurídicas aplicables.
+La Dirección General de Programación, Presupuesto y Tesorería es la responsable de elaborar, autorizar y enviar a la Secretaría Ejecutiva de Administración y a la Contraloría, los estados financieros de manera mensual, en los términos establecidos en las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
-
-La información financiera, de conformidad con este Título y con la Ley General de Contabilidad Gubernamental será organizada, sistematizada y difundida, al menos, trimestralmente en el portal de Internet del Consejo a solicitud de la Dirección General de Programación y Presupuesto, a más tardar treinta días después del cierre del período que corresponda, en términos de las disposiciones en materia de transparencia que le sean aplicables y, en su caso, de los criterios que emita el Consejo Nacional de Armonización Contable. La difusión de la información a través de Internet no exime de la obligación de presentar los informes ante las instancias correspondientes.
+La información financiera, de conformidad con este Título y con la Ley General de Contabilidad Gubernamental será organizada, sistematizada y difundida, al menos, trimestralmente en el portal de Internet del Consejo a solicitud de la Dirección General de Programación, Presupuesto y Tesorería, a más tardar treinta días después del cierre del período que corresponda, en términos de las disposiciones en materia de transparencia que le sean aplicables y, en su caso, de los criterios que emita el Consejo Nacional de Armonización Contable. La difusión de la información a través de Internet no exime de la obligación de presentar los informes ante las instancias correspondientes.
 
 > <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -10059,19 +10251,23 @@ IV. Contener información relevante del pasivo que se registra; y
 
 V. Proporcionar información relevante y suficiente relativa a los saldos y movimientos de las cuentas consignadas en los estados financieros, así como sobre los riesgos y contingencias no cuantificadas, o bien, de aquéllas en que aún conociendo su monto por ser consecuencia de hechos pasados, no ha ocurrido la condición o evento necesario para su registro y presentación, así sean derivadas de algún evento interno o externo siempre que puedan afectar la posición financiera y patrimonial.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 798.
 
-Para dar cumplimiento a la integración y presentación de la Cuenta Pública, al informe de avance de gestión financiera y a los informes trimestrales, la Dirección General de Programación y Presupuesto deberá consolidar la información financiera, presupuestal, programática y económica del Consejo, de conformidad con este Acuerdo, la Ley General de Contabilidad Gubernamental y las disposiciones que emita el Consejo Nacional de Armonización Contable.
+Para dar cumplimiento a la integración y presentación de la Cuenta Pública, al informe de avance de gestión financiera y a los informes trimestrales, la Dirección General de Programación, Presupuesto y Tesorería deberá consolidar la información financiera, presupuestal, programática y económica del Consejo, de conformidad con este Acuerdo, la Ley General de Contabilidad Gubernamental y las disposiciones que emita el Consejo Nacional de Armonización Contable.
 
-> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 798 Bis.
 
-Los estados financieros elaborados por la Dirección General de Programación y Presupuesto y demás información presupuestaria, programática y contable que emanen de los registros de las operaciones financieras, serán la base para la emisión de informes periódicos y para la formulación de la Cuenta Pública anual.
+Los estados financieros elaborados por la Dirección General de Programación, Presupuesto y Tesorería y demás información presupuestaria, programática y contable que emanen de los registros de las operaciones financieras, serán la base para la emisión de informes periódicos y para la formulación de la Cuenta Pública anual.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 El Consejo deberá elaborar los estados financieros de conformidad con las disposiciones normativas y técnicas de este Acuerdo o las que emitan las autoridades correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 Los estados relativos a los ingresos y gastos públicos presupuestarios se elaborarán sobre la base de devengado y, adicionalmente, se presentarán en flujo de efectivo.
 
@@ -10089,73 +10285,73 @@ Para lo anterior, se aplicarán las normas de auditoría para verificar que los 
 
 Como resultado de la elaboración y verificación de la Cuenta Pública, cuando se requiera, se efectuarán los ajustes correspondientes en la contabilidad del Consejo, de conformidad con las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 801.
 
-La Secretaría Ejecutiva de Finanzas y Servicios Personales, con la opinión favorable de la Contraloría, aprobará la Cuenta Pública integrada por la Dirección General de Programación y Presupuesto, y validada por su titular.
+La Secretaría Ejecutiva de Administración, con la opinión favorable de la Contraloría, aprobará la Cuenta Pública integrada por la Dirección General de Programación, Presupuesto y Tesorería, y validada por su titular.
 
-> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2015)</small>
+Una vez aprobada la Cuenta Pública el titular de la Dirección General de Programación, Presupuesto y Tesorería la remitirá a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de las disposiciones aplicables; e informará a la Comisión de Administración y al Pleno al respecto.
 
-Una vez aprobada la Cuenta Pública el titular de la Dirección General de Programación y Presupuesto la remitirá a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de las disposiciones aplicables; e informará a la Comisión de Administración y al Pleno al respecto.
-
-> <small>(ADICIONADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 801 Bis.
 
-La Dirección General de Programación y Presupuesto publicará la Cuenta Pública en la página de Internet del Consejo, conforme a lo dispuesto en las disposiciones jurídicas aplicables.
+La Dirección General de Programación, Presupuesto y Tesorería publicará la Cuenta Pública en la página de Internet del Consejo, conforme a lo dispuesto en las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 #### SECCIÓN SEGUNDA. CONTROL Y LA VIGILANCIA
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 802.
 
-La Dirección General de Programación y Presupuesto y las Unidades Administrativas Foráneas estarán obligadas a conservar en su poder y a disposición del Pleno y de las demás autoridades competentes, por los plazos que al respecto se establezcan en los ordenamientos legales aplicables y en los acuerdos del Consejo, los registros contables e información correspondiente, así como los documentos justificativos y comprobatorios de las operaciones financieras del Consejo.
+La Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas estarán obligadas a conservar en su poder y a disposición del Pleno y de las demás autoridades competentes, por los plazos que al respecto se establezcan en los ordenamientos legales aplicables y en los acuerdos del Consejo, los registros contables e información correspondiente, así como los documentos justificativos y comprobatorios de las operaciones financieras del Consejo.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 803.
 
-En el caso de que se carezca de documentos justificativos y comprobatorios, por pérdida o daño, la Dirección General de Programación y Presupuesto y las Unidades Administrativas Foráneas, según corresponda, deberán consignar mediante acta o documento público en presencia de la Contraloría, la existencia previa así como la causa del faltante o justificación en la cual se consignen los importes y las fechas de las operaciones.
+En el caso de que se carezca de documentos justificativos y comprobatorios, por pérdida o daño, la Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas, según corresponda, deberán consignar mediante acta circunstanciada o documento público en presencia de la Contraloría, la existencia previa así como la causa del faltante o justificación en la cual se consignen los importes y las fechas de las operaciones.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 804.
 
-Cuando se cumplan los plazos de conservación de documentación justificativa y comprobatoria, la Dirección General de Programación y Presupuesto, previo dictamen de la Contraloría, someterá a consideración de la Comisión de Administración, la solicitud de autorización para efectuar la baja y destrucción del archivo contable.
+Cuando se cumplan los plazos de conservación de documentación justificativa y comprobatoria, la Dirección General de Programación, Presupuesto y Tesorería, previo dictamen de la Contraloría, someterá a consideración de la Comisión de Administración, la solicitud de autorización para efectuar la baja y destrucción del archivo contable.
 
-Las Unidades Administrativas Foráneas someterán previamente a visto bueno de la Dirección General de Programación y Presupuesto, la lista de documentos justificativos y comprobatorios del gasto para su destrucción, revisado lo anterior, se someterá a dictamen de la Contraloría y a la consideración de la Comisión de Administración.
+Las Unidades Administrativas Foráneas someterán previamente a visto bueno de la Dirección General de Programación, Presupuesto y Tesorería, la lista de documentos justificativos y comprobatorios del gasto para su destrucción, revisado lo anterior, se someterá a dictamen de la Contraloría y a la consideración de la Comisión de Administración.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 805.
 
-La documentación contable que le sea requerida a la Dirección General de Programación y Presupuesto y a las Unidades Administrativas Foráneas, deberá ser consultada en las instalaciones del Consejo, en consecuencia no se permitirá su salida.
+La documentación contable que le sea requerida a la Dirección General de Programación, Presupuesto y Tesorería y a las Unidades Administrativas Foráneas, deberá ser consultada en las instalaciones del Consejo, en consecuencia no se permitirá su salida.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 806.
 
-Para dar cumplimiento a la normatividad aplicable, la Dirección General de Programación y Presupuesto y las Unidades Administrativas Foráneas deberán contar con los espacios suficientes, con la ubicación, orientación, iluminación, grado de humedad y ventilación apropiadas, además de establecer medidas de seguridad contra plagas, incendios, inundaciones y sustracciones de todo tipo para el archivo, conservación, control y resguardo de la documentación comprobatoria y justificativa de las operaciones financieras del Consejo.
+Para dar cumplimiento a la normatividad aplicable, la Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas deberán contar con los espacios suficientes, con la ubicación, orientación, iluminación, grado de humedad y ventilación apropiadas, además de establecer medidas de seguridad contra plagas, incendios, inundaciones y sustracciones de todo tipo para el archivo, conservación, control y resguardo de la documentación comprobatoria y justificativa de las operaciones financieras del Consejo.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 807.
 
-Con la finalidad de optimizar el gasto y los espacios para el archivo contable, la Dirección General de Programación y Presupuesto y las Unidades Administrativas Foráneas evitarán la recepción de documentación que no sea de carácter contable.
+Con la finalidad de optimizar el gasto y los espacios para el archivo contable, la Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas evitarán la recepción de documentación que no sea de carácter contable.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 808.
 
-Las unidades administrativas, en el ámbito de su competencia, serán las responsables del resguardo y conservación de la documentación comprobatoria de los pagos de nóminas. Para tal fin, conservarán para su guarda, manejo y custodia los recibos de pago de nómina y las nóminas por adscripción o, en su caso, el archivo electrónico que lo sustituya, de conformidad con lo establecido en las disposiciones jurídicas aplicables; asimismo remitirán a la Dirección General de Programación y Presupuesto o a las Unidades Administrativas Foráneas, según corresponda, el resumen general de nómina, para los efectos a que haya lugar.
+Las unidades administrativas, en el ámbito de su competencia, serán las responsables del resguardo y conservación de la documentación comprobatoria de los pagos de nóminas. Para tal fin, conservarán para su guarda, manejo y custodia los recibos de pago de nómina y las nóminas por adscripción o, en su caso, el archivo electrónico que lo sustituya, de conformidad con lo establecido en las disposiciones jurídicas aplicables; asimismo remitirán a la Dirección General de Programación, Presupuesto y Tesorería o a las Unidades Administrativas Foráneas, según corresponda, el resumen general de nómina, para los efectos a que haya lugar.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 809.
 
-La Dirección General de Programación y Presupuesto, así como las Unidades Administrativas Foráneas llevarán a cabo un programa de digitalización de documentación justificativa y comprobatoria de las operaciones financieras del Consejo que se encuentren bajo su resguardo.
+La Dirección General de Programación, Presupuesto y Tesorería, así como las Unidades Administrativas Foráneas llevarán a cabo un programa de digitalización de documentación justificativa y comprobatoria de las operaciones financieras del Consejo que se encuentren bajo su resguardo.
 
 ### CAPÍTULO SEGUNDO. AUTORIZACIÓN DE COMISIONES
 
@@ -10181,7 +10377,9 @@ La Contraloría vigilará que el ejercicio presupuestal se apegue a las disposic
 
 El control y vigilancia del gasto público en el Consejo, se basará en la información derivada de:
 
-I. La contabilidad que, conforme a las disposiciones jurídicas aplicables, lleve el propio Consejo, por conducto de la Dirección General de Programación y Presupuesto;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+I. La contabilidad que, conforme a las disposiciones jurídicas aplicables, lleve el propio Consejo, por conducto de la Dirección General de Programación, Presupuesto y Tesorería;
 
 II. La observación de los hechos, las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas por los órganos competentes del Consejo; y
 
@@ -10311,31 +10509,31 @@ Las responsabilidades a que se refiere este Título, se constituirán y exigirá
 
 #### SECCIÓN SEXTA. TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 830.
 
-El Consejo implementará un Sistema Institucional de Evaluación a que se refiere el artículo 111 de la Ley de Presupuesto, que incorporará indicadores para evaluar los resultados y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de la Ley de Presupuesto.
+El Consejo implementará un Sistema de Planeación Estratégica Institucional a que se refiere el artículo 111 de la Ley de Presupuesto, que incorporará indicadores para evaluar los resultados y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de la Ley de Presupuesto.
 
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2017)</small>
+Dicho sistema será autorizado por el Pleno, a propuesta de la Secretaría Ejecutiva de Administración y de la Dirección General de Innovación, Planeación y Desarrollo Institucional.
 
-Dicho sistema será autorizado por el Pleno, a propuesta de la Secretaría Ejecutiva de Finanzas y Servicios Personales y de la Dirección General de Innovación, Planeación y Desarrollo Institucional.
+La Dirección General de Innovación, Planeación y Desarrollo Institucional, evaluará mediante el Sistema de Planeación Estratégica Institucional el cumplimiento de los objetivos y metas de los programas aprobados y verificará los resultados de ejecución de los programas de las unidades ejecutoras de gasto, que deberán ser presentados en informes para identificar el cumplimiento de los criterios establecidos en el segundo párrafo del artículo 1 de la Ley de Presupuesto.
 
-La Dirección General de Innovación, Planeación y Desarrollo Institucional, evaluará mediante el Sistema Institucional de Evaluación el cumplimiento de los objetivos y metas de los programas aprobados y verificará los resultados de ejecución de los programas de las unidades ejecutoras de gasto, que deberán ser presentados en informes para identificar el cumplimiento de los criterios establecidos en el segundo párrafo del artículo 1 de la Ley de Presupuesto.
+El Sistema de Planeación Estratégica Institucional deberá incorporar indicadores específicos que permitan evaluar la incidencia de los programas en la igualdad entre mujeres y hombres, la erradicación de la violencia de género y de cualquier forma de discriminación de género, su elaboración y seguimiento será responsabilidad de la Dirección General de Innovación, Planeación y Desarrollo Institucional.
 
-El Sistema Institucional de Evaluación deberá incorporar indicadores específicos que permitan evaluar la incidencia de los programas en la igualdad entre mujeres y hombres, la erradicación de la violencia de género y de cualquier forma de discriminación de género, su elaboración y seguimiento será responsabilidad de la Dirección General de Innovación, Planeación y Desarrollo Institucional.
-
-La Dirección General de Innovación, Planeación y Desarrollo Institucional, realizará la evaluación de los programas aprobados. La Dirección General de Programación y Presupuesto aportará la información presupuestaría que se requiera para tales efectos.
+La Dirección General de Innovación, Planeación y Desarrollo Institucional, realizará la evaluación de los programas aprobados. La Dirección General de Programación, Presupuesto y Tesorería aportará la información presupuestaría que se requiera para tales efectos.
 
 La Contraloría llevará a cabo las revisiones procedentes, para evaluar los resultados y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de la Ley de Presupuesto de conformidad con sus atribuciones.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 831.
 
-La Dirección General de Innovación, Planeación y Desarrollo Institucional, integrará la información necesaria para el adecuado funcionamiento del Sistema Institucional de Evaluación.
+La Dirección General de Innovación, Planeación y Desarrollo Institucional, integrará la información necesaria para el adecuado funcionamiento del Sistema de Planeación Estratégica Institucional.
 
-Los resultados a los que se refiere este artículo podrán ser considerados, por la Dirección General de Programación y Presupuesto para efectos de la programación y presupuestación de los recursos.
+Los resultados a los que se refiere este artículo podrán ser considerados, por la Dirección General de Programación, Presupuesto y Tesorería para efectos de la programación y presupuestación de los recursos.
 
-Los indicadores del Sistema Institucional de Evaluación deberán formar parte del Presupuesto de Egresos del Poder Judicial de la Federación e incorporar sus resultados en la Cuenta Pública, explicando las variaciones y su correspondiente efecto económico.
+Los indicadores del Sistema de Planeación Estratégica Institucional deberán formar parte del Presupuesto de Egresos del Poder Judicial de la Federación e incorporar sus resultados en la Cuenta Pública, explicando las variaciones y su correspondiente efecto económico.
 
 ###### Artículo 832.
 
@@ -10381,13 +10579,13 @@ La tarifa total unificada se aplicará por los días que pernocta el servidor p�
 
 Artículo 835 Octodecies. (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE DEROGA EL ARTÍCULO 835 OCTODECIES DEL DIVERSO ACUERDO GENERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 5 DE OCTUBRE DE 2015)
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Artículo 835 Novodecies. El monto de los viáticos y transportación, para el caso de comisiones nacionales, podrá entregarse mediante cheque o transferencia electrónica en la cuenta bancaria del trabajador en la que percibe su nómina; para el caso de comisiones internacionales, se entregará el importe de los viáticos directamente en las divisas autorizadas.
+Artículo 835 Novodecies. El monto de los viáticos y transportación, para el caso de comisiones nacionales, se entregará mediante transferencia electrónica en la cuenta bancaria del trabajador en la que percibe su nómina y, sólo en caso de tener una limitante como se señala en la Guía, será a través de cheque; para el caso de comisiones internacionales, se entregará el importe de los viáticos directamente en las divisas autorizadas.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Artículo 835 Vicies. La Comisión de Administración, autorizará la actualización de las tarifas vigentes conforme a la situación que prevalezca en el mercado, siempre y cuando exista suficiencia de disponibilidad presupuestal para tales efectos, lo anterior, con base en el análisis elaborado por la Dirección General de Tesorería, el cual deberá considerar entre otros factores, el índice inflacionario del año inmediato anterior o el acumulado por el periodo que corresponda.
+Artículo 835 Vicies. La Comisión de Administración, autorizará la actualización de las tarifas vigentes conforme a la situación que prevalezca en el mercado, siempre y cuando exista suficiencia de disponibilidad presupuestal para tales efectos, lo anterior, con base en el análisis elaborado por la Dirección General de Programación, Presupuesto y Tesorería, el cual deberá considerar entre otros factores, el índice inflacionario del año inmediato anterior o el acumulado por el periodo que corresponda.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -10469,31 +10667,33 @@ Los casos no previstos se homologarán a su nivel tabular dentro de la estructur
 
 ### CAPÍTULO QUINTO. RESERVACIÓN Y CONTRATACIÓN DE HOSPEDAJE Y TRANSPORTACIÓN
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 Artículo 835 Unvicies. El trámite de reservación y contratación de hospedaje lo realizará el área solicitante, a través de los servidores públicos designados para tales efectos por el titular respectivo o, en su caso, por el propio servidor público comisionado, debiéndose considerar la duración de la comisión, procurando obtener beneficios adicionales sin costo, tales como: Internet, llamadas telefónicas, transportación hotel-aeropuerto-hotel, desayunos o descuentos en alimentos.
 
-En cuanto a las comisiones internacionales, la Dirección General de Tesorería o las Unidades Administrativas Foráneas, podrán a petición expresa del área solicitante, apoyar en la identificación de opciones de hospedaje, así como en la reservación y pago correspondiente.
+En cuanto a las comisiones internacionales, la Dirección General de Programación, Presupuesto y Tesorería o las Unidades Administrativas Foráneas, podrán a petición expresa del área solicitante, apoyar en la identificación de opciones de hospedaje, así como en la reservación y pago correspondiente.
 
-Por lo que respecta a las comisiones nacionales que se realicen con motivo de la celebración de un evento organizado por un área solicitante y, a petición de ésta, la Dirección General de Tesorería o las Unidades Administrativas Foráneas, podrán apoyar en la identificación de opciones de hospedaje y reservación de dicho servicio.
-
-Los beneficios que se obtengan por la adquisición de boletos de transportación y hospedaje, de todos los grupos y niveles, por parte de las empresas prestadoras de servicios se aplicarán a favor del Consejo.
+Los beneficios institucionales que se obtengan por la adquisición de boletos de transportación y hospedaje, de todos los grupos y niveles, por parte de las empresas prestadoras de servicios se aplicarán a favor del Consejo.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 Artículo 835 Duovicies. En lo relativo a la transportación, el área solicitante o los servidores públicos designados deberán elegir el medio de transporte que resulte más adecuado para el cumplimiento de las comisiones.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Artículo 835 Tervicies. En caso de determinarse la transportación aérea como el medio idóneo de traslado del servidor público comisionado, se reservarán y adquirirán boletos en clase turista o los que tengan el costo más bajo, con excepción de los boletos de avión para los servidores públicos del Grupo 1.
+Artículo 835 Tervicies. En caso de determinarse la transportación aérea como el medio idóneo de traslado del servidor público comisionado, se reservarán y adquirirán boletos en clase turista o los que tengan el costo más bajo.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 Artículo 835 Quatervicies. El trámite de reservación y compra de boletos de avión deberá observar los siguientes lineamientos:
 
-I. La Dirección General de Tesorería y las Unidades Administrativas Foráneas serán las encargadas de efectuar la reservación y compra de los boletos de avión, por lo que el área solicitante o el servidor público designado, únicamente deberá proporcionar los datos básicos de la propuesta del itinerario de la transportación aérea del comisionado;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-II. La Dirección General de Tesorería y las Unidades Administrativas Foráneas, de ser posible, con base en las reglas previstas en la Guía, efectuarán un análisis comparativo de ofertas para la reservación y compra de boletos de avión que ofrezcan las distintas empresas en el mercado, a fin de determinar cuál de ellas representa la mayor economía al Consejo. Se podrán incluir opciones de tarifas en clase turista, promocional o con restricciones; y
+I. La Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas serán las encargadas de efectuar la reservación y compra de los boletos de avión, por lo que el área solicitante o el servidor público designado, únicamente deberá proporcionar los datos básicos de la propuesta del itinerario de la transportación aérea del comisionado;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+II. La Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas, de ser posible, con base en las reglas previstas en la Guía, efectuarán un análisis comparativo de ofertas para la reservación y compra de boletos de avión que ofrezcan las distintas empresas en el mercado, a fin de determinar cuál de ellas representa la mayor economía al Consejo. Se podrán incluir opciones de tarifas en clase turista, promocional o con restricciones; y
 
 III. El área solicitante deberá requerir la compra de la transportación aérea con la mayor anticipación posible, a efecto de garantizar su traslado, así como un mejor precio al momento de la adquisición.
 
@@ -10509,9 +10709,11 @@ II. Que en caso de que el servidor público comisionado utilice el automóvil de
 
 Artículo 835 Sexvicies. Las áreas solicitantes o el servidor público designado, podrán solicitar recursos por concepto de taxis para traslado, mismos que deberán ser comprobados en su totalidad.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Artículo 835 Septvicies. La Dirección General de Tesorería y las Unidades Administrativas Foráneas podrán, a petición de las áreas solicitantes, contratar los servicios de paquetes de viaje que incluyan transportación y hospedaje, siempre y cuando dicha opción resulte conveniente en términos de costo y represente un ahorro para el Consejo.
+Artículo 835 Septvicies. La Dirección General de Programación, Presupuesto y Tesorería y las Unidades Administrativas Foráneas podrán, a petición de las áreas solicitantes, contratar los servicios de paquetes de viaje que incluyan transportación y hospedaje, siempre y cuando dicha opción resulte conveniente en términos de costo y represente un ahorro para el Consejo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 Los recursos que se otorgarán al servidor público comisionado, serán los relativos a la tarifa de viáticos sin pernocta, así como, en su caso, el correspondiente a taxis para traslado.
 
@@ -10585,25 +10787,31 @@ Artículo 835 Novovicies. La información y documentación comprobatoria tendrá
 
 Artículo 835 Tricies. La Dirección General de Recursos Humanos observará las disposiciones aplicables en la Ley del Impuesto Sobre la Renta y su Reglamento.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Untricies. Las áreas solicitantes deberán registrar en el Sistema Informático SAP los gastos efectuados con base en la documentación comprobatoria y entregarla a la Dirección General de Programación, Presupuesto y Tesorería, así como las Unidades Administrativas Foráneas, según corresponda; en un plazo no mayor a 10 días hábiles siguientes al término efectivo de la comisión, y 15 días hábiles como excepción para los servidores públicos adscritos al Instituto Federal de Defensoría Pública, por las características propias de sus funciones.
+
+Para aquellas áreas que no cuenten con sistema SAP, se sujetarán a lo señalado en la Guía de Solicitud y Comprobación de Viáticos y Transportación en el apartado de "Comprobación".
+
+De no entregar la documentación comprobatoria del gasto dentro del plazo establecido o el reintegro de los recursos correspondientes, se comunicará a la Dirección General de Recursos Humanos para la aplicación del descuento vía nómina al servidor público responsable, para la recuperación de los recursos que no hayan sido comprobados, sin la posibilidad de reembolso.
+
+Las áreas administrativas deberán remitir a la Dirección General de Programación, Presupuesto y Tesorería y/o a las Unidades Administrativas Foráneas según corresponda, la documentación comprobatoria del gasto acompañada de la Relación de Gastos para Comprobación de Viáticos y Transportación.
+
+Para el caso de los órganos jurisdiccionales se deberá remitir el oficio con firma mancomunada del comisionado y del Titular o persona facultada, acompañado de la relación anexa y la documentación comprobatoria correspondiente.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Duotricies. La documentación comprobatoria que no cumpla con algún requisito, será devuelta por la Dirección General de Programación, Presupuesto y Tesorería o la Unidad Administrativa Foránea que corresponda, por única ocasión a las áreas solicitantes, comunicándoles claramente cuál es el incumplimiento respectivo, debiendo enviarla nuevamente en un plazo no mayor a 5 días hábiles, a partir de la fecha de notificación.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Tetricies. La documentación comprobatoria del gasto obrará en el archivo contable de la Dirección General de Programación, Presupuesto y Tesorería o de la Unidad Administrativa Foránea, según corresponda, de conformidad con los plazos de conservación que indiquen las disposiciones normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Quatertricies. Las áreas solicitantes cuyos servidores públicos se encuentren adscritos en la Ciudad de México y zona metropolitana, realizarán el registro de afectación presupuestal y contable de la comprobación de viáticos en el Sistema Informático SAP, así como las modificaciones y correcciones que éste requiera, de conformidad con lo establecido en la Guía.
+
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Untricies. Las áreas solicitantes registrarán en el Sistema Informático SAP los gastos efectuados, con base en la documentación comprobatoria, en un plazo no mayor a 10 días hábiles siguientes al término efectivo de la comisión.
-
-De no registrarse la documentación comprobatoria del gasto dentro del plazo establecido o el reintegro de los recursos correspondientes, se comunicará a la Dirección General de Recursos Humanos para la aplicación del descuento vía nómina al servidor público responsable, para la recuperación de los recursos que no hayan sido comprobados, sin la posibilidad de reembolso.
-
-Una vez realizado el registro en el Sistema Informático SAP, el servidor público deberá remitir obligatoriamente a la Dirección General de Programación y Presupuesto y a las Unidades Administrativas Foráneas, según corresponda, la documentación comprobatoria del gasto acompañada de la Relación de Gastos para Comprobación de Viáticos y Transportación.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Duotricies. La documentación comprobatoria que no cumpla con algún requisito, será devuelta por la Dirección General de Programación y Presupuesto o la Unidad Administrativa Foránea que corresponda, por única ocasión, a las áreas solicitantes, comunicándoles claramente cuál es el incumplimiento respectivo, debiendo enviarla nuevamente en un plazo no mayor a 5 días hábiles.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Tetricies. La documentación comprobatoria del gasto obrará en el archivo contable de la Dirección General de Programación y Presupuesto o de la Unidad Administrativa Foránea, según corresponda, de conformidad con los plazos de conservación que indiquen las disposiciones normativas aplicables.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Quatertricies. Las áreas solicitantes cuyos servidores públicos se encuentren adscritos en el Distrito Federal y su zona metropolitana, realizarán el registro de afectación presupuestal y contable de la comprobación de viáticos en el Sistema Informático SAP, así como las modificaciones y correcciones que éste requiera, de conformidad con lo establecido en la Guía.
 
 En los demás casos, serán las Unidades Administrativas Foráneas quienes llevarán a cabo el registro, así como las modificaciones y correcciones de referencia.
 
@@ -10613,7 +10821,9 @@ En los demás casos, serán las Unidades Administrativas Foráneas quienes lleva
 
 Las áreas responsables de tramitar los viáticos y transportación para comisiones son:
 
-I. La Dirección General de Tesorería, para los servidores públicos adscritos en el Distrito Federal y su zona metropolitana; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+I. La Dirección General de Programación, Presupuesto y Tesorería, para los servidores públicos adscritos en la Ciudad de México y su zona metropolitana; y
 
 II. Las Unidades Administrativas Foráneas, para el caso del resto de la República.
 
@@ -10621,23 +10831,27 @@ II. Las Unidades Administrativas Foráneas, para el caso del resto de la Repúbl
 
 Artículo 835 Undecies. Todo trámite de solicitud de viáticos y transportación, se deberá realizar a través del Sistema de Administración de Viáticos SIAVI.
 
-En los órganos jurisdiccionales, las solicitudes de viáticos y transportación se gestionarán a través del Coordinador Técnico Administrativo asignado, y en ausencia de éste, por el servidor público que designe el titular del órgano jurisdiccional; mediante correo electrónico institucional, ante la Dirección General de Tesorería o las Unidades Administrativas Foráneas, según corresponda, siendo estos últimos los que registrarán y tramitarán en el Sistema de Administración de Viáticos SIAVI dichos requerimientos.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+En los órganos jurisdiccionales, las solicitudes de viáticos y transportación se gestionarán a través del Coordinador Técnico Administrativo asignado, y en ausencia de éste, por el servidor público que designe el titular del órgano jurisdiccional; mediante correo electrónico institucional, ante la Dirección General de Programación, Presupuesto y Tesorería o las Unidades Administrativas Foráneas, según corresponda, siendo estos últimos los que registrarán y tramitarán en el Sistema de Administración de Viáticos SIAVI dichos requerimientos.
 
-Artículo 835 Duodecies. Las Direcciones Generales de Tesorería y de Programación y Presupuesto, deberán establecer en la Guía las reglas para el trámite de la solicitud de viáticos y transportación, así como su comprobación.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Duodecies. La Dirección General de Programación, Presupuesto y Tesorería, deberá establecer en la Guía las reglas para el trámite de la solicitud de viáticos y transportación, así como su comprobación.
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 Artículo 835 Terdecies. Las áreas solicitantes deberán cuantificar la duración total de cada comisión, a efecto de prever, en el caso del traslado del servidor público, desde la fecha de salida del lugar de origen, hasta la fecha en que éste tenga su regreso.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Quaterdecies. El titular del área solicitante bajo su más estricta responsabilidad, podrá delegar en uno o más servidores públicos a su cargo, la facultad para realizar las gestiones necesarias para el trámite de la solicitud de recursos por concepto de viáticos y transportación, a través del Sistema de Administración de Viáticos SIAVI; para lo cual, deberá notificar dicha situación a la Dirección General de Programación, Presupuesto y Tesorería mediante oficio, indicando el nombre de la o las personas facultadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Artículo 835 Quindecies. La Dirección General de Programación, Presupuesto y Tesorería, y las Unidades Administrativas Foráneas, en su respectivo ámbito de competencia, podrán atender las solicitudes de viáticos y transportación recibidas para trámite normal con un plazo mínimo de anticipación de 5 días hábiles; para comisiones urgentes 2 días hábiles previo al inicio de la misma; en ambos casos para el territorio nacional; y para el caso de comisiones internacionales en el momento en que se toma conocimiento del acuerdo respectivo.
+
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Quaterdecies. El titular del área solicitante bajo su más estricta responsabilidad, podrá delegar en uno o más servidores públicos a su cargo, la facultad para realizar las gestiones necesarias para el trámite de la solicitud de recursos por concepto de viáticos y transportación, a través del Sistema de Administración de Viáticos SIAVI; para lo cual, deberá notificar dicha situación a la Dirección General de Tesorería mediante oficio, indicando el nombre de la o las personas facultadas.
-
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
-
-Artículo 835 Quindecies. La Dirección General de Tesorería y las Unidades Administrativas Foráneas, en su respectivo ámbito de competencia, podrán atender las solicitudes de viáticos y transportación recibidas para trámite normal con un plazo mínimo de anticipación de 5 días hábiles; para comisiones urgentes 2 días hábiles previo al inicio de la misma; en ambos casos para el territorio nacional; y para el caso de comisiones internacionales en el momento en que se toma conocimiento del acuerdo respectivo.
 
 En aquellos supuestos en que por necesidad del servicio el comisionado deba trasladarse de manera urgente sin los recursos de viáticos y transportación, los gastos iniciales correrán a cuenta de éste, estableciéndose en la Guía los mecanismos conducentes para su reembolso.
 
@@ -10645,13 +10859,17 @@ En aquellos supuestos en que por necesidad del servicio el comisionado deba tras
 
 ### CAPÍTULO SÉPTIMO. CANCELACIONES
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Artículo 835 Quintricies. Las cancelaciones deberán ser notificadas por el área solicitante o los servidores públicos designados, a la Dirección General de Tesorería o las Unidades Administrativas Foráneas, según corresponda, con al menos veinticuatro horas de anticipación a la fecha de traslado del comisionado y a través de los medios que al efecto se precisen en la Guía.
+Artículo 835 Quintricies. Las cancelaciones deberán ser notificadas por el área solicitante o los servidores públicos designados, a la Dirección General de Programación, Presupuesto y Tesorería o las Unidades Administrativas Foráneas, según corresponda, con al menos veinticuatro horas de anticipación a la fecha de traslado del comisionado y a través de los medios que al efecto se precisen en la Guía.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 Si dichas notificaciones se recibieron ya concluido el trámite, los recursos económicos otorgados deberán ser reintegrados en su totalidad conforme a lo indicado en la Guía.
 
-En caso de haberse generado cargos por las cancelaciones o cambios, éstos deberán ser cubiertos por el comisionado, o el servidor público que resulte responsable, si son imputables a ellos; o por el Consejo, en caso de que exista una causa justificada por parte del área solicitante, siendo responsabilidad del titular de dicha área o servidor público designado por éste, remitir el pronunciamiento correspondiente a la Dirección General de Tesorería o, en su caso, a las Unidades Administrativas Foráneas a través de su correo institucional.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+En caso de haberse generado cargos por las cancelaciones o cambios, éstos deberán ser cubiertos por el comisionado, o el servidor público que resulte responsable, si son imputables a ellos; o por el Consejo, en caso de que exista una causa justificada por parte del área solicitante, siendo responsabilidad del titular de dicha área o servidor público designado por éste, remitir el pronunciamiento correspondiente a la Dirección General de Programación, Presupuesto y Tesorería o, en su caso, a las Unidades Administrativas Foráneas a través de su correo institucional.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
@@ -10667,9 +10885,11 @@ Artículo 835 Septricies. El Pleno y las Comisiones en el ámbito de su competen
 
 El informe que se presente deberá incluir y acompañar la información correlativa a facturas de boletos de avión o transporte público que sean utilizados en cada comisión; trasportación local; facturas de hoteles y servicios de alimentos durante toda la estancia, incluyendo el nombre de los establecimientos y todos aquellos datos que sean necesarios para conocer el gasto dispersado real de cada comisión oficial.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-Artículo 835 Octotricies. La Dirección General de Tesorería, en el ámbito de su competencia, presentará trimestralmente un informe a la Comisión de Administración respecto de los ahorros obtenidos por las compras de los boletos de avión, derivado del análisis comparativo de las ofertas que se tengan disponibles, de conformidad con lo establecido en la Guía.
+Artículo 835 Octotricies. La Dirección General de Programación, Presupuesto y Tesorería, así como la Coordinación de Administración Regional, en el ámbito de su competencia, presentará trimestralmente un informe a la Comisión de Administración respecto de los ahorros obtenidos por las compras de los boletos de avión, derivado del análisis comparativo de las ofertas que se tengan disponibles, de conformidad con lo establecido en la Guía.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
 
 Dicho informe deberá contener, entre otros rubros, la cancelación de comisiones por área y servidor público comisionado, así como de aquellas que generaron un costo adicional al Consejo.
 
@@ -10701,6 +10921,8 @@ La Comisión de Administración resolverá respecto de aquellos supuestos que no
 
 ### CAPÍTULO SEGUNDO. ROL DE DIARIOS NACIONALES
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 836.
 
 El Comité de Inversión de Recursos Financieros, es de carácter permanente, y tiene por objeto analizar, aprobar, instruir, evaluar y, en su caso, proponer la conducción de la inversión de los recursos financieros del Consejo, a las instituciones financieras por éste contratadas.
@@ -10727,17 +10949,15 @@ d) Fondo de Reserva Individualizado, de conformidad con este Acuerdo; y
 
 III. Todos aquellos recursos de idéntica naturaleza que en lo futuro le corresponda administrar al Consejo, previa autorización del Pleno o de la Comisión de Administración.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 838.
 
 El Comité de Inversión de Recursos Financieros estará integrado de la siguiente forma:
 
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2017)</small>
+I. Presidente: El Secretario Ejecutivo de Administración; y
 
-I. Presidente: El Secretario Ejecutivo de Finanzas y Servicios Personales; y
-
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
-
-II. Vocales: Los directores generales de Tesorería y de Programación y Presupuesto.
+II. Vocales: Los directores generales de Programación, Presupuesto y Tesorería; e Innovación, Planeación y Desarrollo Institucional.
 
 Los integrantes del Comité tendrán derecho a voz y voto, y no podrán ser representados en las sesiones.
 
@@ -10757,9 +10977,9 @@ IV. Autorizar y supervisar que la o las instituciones financieras contratadas po
 
 V. Autorizar los criterios para la contratación de la o las instituciones financieras, garantizando las mejores condiciones de inversión y de administración de los recursos del Consejo. Para tal efecto, las áreas competentes deberán presentar un estudio de las condiciones del mercado y de las ofertas recibidas, así como la justificación de su propuesta, e informar de ello a la Comisión de Administración;
 
-VI. Autorizar la celebración, modificación, renovación o cancelación de contratos y demás instrumentos jurídicos que se requieran para la inversión de los recursos del Consejo.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-De todo contrato que se celebre, modifique o cancele, el Comité de Inversión de Recursos Financieros, deberá contar con el dictamen de la Dirección General de Asuntos Jurídicos;
+VI. De todo contrato que se celebre, modifique o cancele, el Comité de Inversión de Recursos Financieros, deberá contar con la opinión o el dictamen jurídico de la Dirección General de Asuntos Jurídicos;
 
 VII. Analizar los resultados de las estrategias aplicadas en las operaciones de inversión y sus rendimientos;
 
@@ -10849,9 +11069,9 @@ XII. Elaborar el informe trimestral del comportamiento de las inversiones de los
 
 XIII. Elaborar el informe semestral de la gestión del Comité;
 
-> <small>(ADICIONADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-XIV. En su caso, gestionar las operaciones de cierre de mesa de dinero respecto de aquellos recursos financieros que al efecto establezca el Comité, así como, informar oportunamente los resultados obtenidos a la Dirección General de Tesorería; y
+XIV. En su caso, gestionar las operaciones de cierre de mesa de dinero respecto de aquellos recursos financieros que al efecto establezca el Comité, así como, informar oportunamente los resultados obtenidos a la Dirección General de Programación, Presupuesto y Tesorería; y
 
 > <small>(ADICIONADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -10879,9 +11099,9 @@ I. El Comité sesionará de manera ordinaria trimestralmente y de forma extraord
 
 II. Las decisiones se tomarán por mayoría de votos de sus miembros presentes y, en caso de empate, el presidente del Comité tendrá voto de calidad;
 
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-III. Deberán concurrir todos los integrantes del Comité; sin embargo, podrá llevarse a cabo la sesión con la presencia del presidente y cuando menos un vocal. En ausencia del presidente, éste podrá ser sustituido, en los casos debidamente justificados y previo aviso a la Comisión de Administración o al presidente de dicha Comisión, por el Director General de Programación y Presupuesto, quien ejercerá las atribuciones propias del cargo;
+III. Deberán concurrir todos los integrantes del Comité; sin embargo, podrá llevarse a cabo la sesión con la presencia del presidente y cuando menos un vocal. En ausencia del presidente, éste podrá ser sustituido, en los casos debidamente justificados y previo aviso a la Comisión de Administración o al presidente de dicha Comisión, por el Director General de Programación, Presupuesto y Tesorería quien ejercerá las atribuciones propias del cargo;
 
 IV. La convocatoria y el orden del día, junto con la documentación soporte, se entregará a los miembros del Comité, secretario y asesores, con tres días hábiles de anticipación a la celebración de la sesión; sin embargo, podrá reducirse el tiempo señalado, cuando exista causa que lo amerite;
 
@@ -10915,7 +11135,7 @@ III. Asesorar en el ámbito de su competencia respecto de los asuntos que le sea
 
 IV. Proponer alternativas de solución cuando le sean solicitadas.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO AL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS, D.O.F. 23 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO AL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS, D.O.F. 23 DE FEBRERO DE 2018)</small>
 
 El titular de la Dirección General de Asuntos Jurídicos podrá ser representado, en casos excepcionales y con la debida justificación, por el servidor público que designe, lo que comunicará por escrito al Secretario Técnico del Comité, con la anticipación debida.
 
@@ -10931,7 +11151,7 @@ II. Vigilar que el desarrollo de las sesiones del Comité se lleve a cabo en est
 
 III. Informar a la Comisión de Administración, con la periodicidad que ésta indique, sobre el funcionamiento del Comité.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO AL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS, D.O.F. 23 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RESPECTO AL COMITÉ DE INVERSIÓN DE RECURSOS FINANCIEROS, D.O.F. 23 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 850.
 
@@ -10951,7 +11171,9 @@ II. Los representantes acreditados podrán participar en las sesiones del Comit�
 
 III. Los representantes cuando sean requeridos para ello, podrán exponer ante los integrantes del Comité sus propuestas de inversión y los rendimientos que ofrecen; y
 
-IV. El Comité no podrá revelar información a los grupos financieros que se haya clasificado como reservada, de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y demás disposiciones aplicables.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+IV. El Comité no podrá revelar información a los grupos financieros que se haya clasificado como reservada, de conformidad con la Ley Federal de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
 
 > <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
 
@@ -10959,7 +11181,9 @@ IV. El Comité no podrá revelar información a los grupos financieros que se ha
 
 Los contratos, convenios y demás instrumentos jurídicos que se requiera suscribir para realizar las inversiones de los recursos del Consejo, deberán cumplir con los requisitos que el Banco de México, la Comisión Nacional Bancaria y de Valores, y demás instituciones nacionales e internacionales establezcan para tal fin. En dichos instrumentos se cuidará en todo momento las mejores condiciones de inversión de los recursos que el Consejo administra o en los cuales es fideicomitente.
 
-La Dirección General de Asuntos Jurídicos deberá considerar las disposiciones jurídicas aplicables para emitir su dictamen, el cual no comprenderá la determinación de la institución financiera, ni las condiciones de inversión, situación que quedará bajo la responsabilidad del Comité de Inversión de Recursos Financieros.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+La Dirección General de Asuntos Jurídicos deberá considerar las disposiciones jurídicas aplicables para emitir su opinión o dictamen jurídico, los cuales no comprenderán la determinación de la institución financiera, ni las condiciones de inversión, situación que quedará bajo la responsabilidad del Comité de Inversión de Recursos Financieros.
 
 ###### Artículo 853.
 
@@ -11111,7 +11335,9 @@ Los depósitos en dinero o en valores constituidos ante los órganos jurisdiccio
 
 Los titulares de los órganos jurisdiccionales comunicarán dicha determinación y remitirán los billetes de depósito debidamente endosados al Fisco Federal o pondrán a disposición del mismo los valores a que se refiere este artículo.
 
-Los datos relativos a dichos movimientos se registrarán en el SISE, y no se informará ni dará aviso escrito alguno a la Dirección General de Tesorería o a la secretaría técnica del Fondo de Apoyo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+Los datos relativos a dichos movimientos se registrarán en el SISE, y no se informará ni dará aviso escrito alguno a la Dirección General de Programación, Presupuesto y Tesorería o a la Secretaría Técnica del Fondo de Apoyo.
 
 ###### Artículo 883.
 
@@ -11123,9 +11349,11 @@ En el certificado de depósito se deberá incluir una leyenda que comprenda la a
 
 Los billetes, certificados o instrumentos de depósito se podrán hacer efectivos en cualquier sucursal del país de la institución depositaria, previa orden de pago de la autoridad judicial competente.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 885.
 
-La secretaría técnica, y las demás áreas competentes del Consejo podrán solicitar a la Dirección General de Estadística Judicial que realice las adecuaciones necesarias al SISE con el objetivo de facilitar la emisión y conciliación de los certificados de depósito y órdenes de pago en forma electrónica.
+La secretaría técnica, y las demás áreas competentes del Consejo podrán solicitar a la Dirección General de Gestión Judicial que realice las adecuaciones necesarias al SISE con el objetivo de facilitar la emisión y conciliación de los certificados de depósito y órdenes de pago en forma electrónica.
 
 SUBSECCIÓN QUINTA
 
@@ -11135,9 +11363,11 @@ DEPÓSITOS DIVERSOS
 
 Los depósitos en dinero diversos a los depósitos judiciales corresponden, entre otros, a los depósitos en efectivo o billetes de depósito dados en garantía por terceros en la adjudicación de contratos por obra, contratos de mantenimiento y contratos de servicio en general, los cuales, hasta en tanto deban ser reintegrados a sus depositantes, deberán ser invertidos para que los intereses que generen esos depósitos puedan ser integrados al Fondo de Apoyo.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 887.
 
-La Dirección General de Programación y Presupuesto solicitará a la Dirección General de Tesorería que transfiera, en un plazo no mayor a diez días naturales, los ingresos a que se refiere el artículo anterior y tenga en su posesión, a la cuenta patrimonial del Fondo de Apoyo e informará de ello a la Secretaría Técnica y al Comité.
+La Dirección General de Programación, Presupuesto y Tesorería transferirá, en un plazo no mayor a diez días naturales, los ingresos a que se refiere el artículo anterior y tenga en su posesión, a la cuenta patrimonial del Fondo de Apoyo e informará de ello a la Secretaría Técnica y al Comité.
 
 #### SECCIÓN SEGUNDA. PROGRAMAS DE SEGURIDAD INSTITUCIONAL
 
@@ -11145,7 +11375,7 @@ La Dirección General de Programación y Presupuesto solicitará a la Dirección
 
 ###### Artículo 888.
 
-La Contraloría, la Visitaduría Judicial y la Dirección General de Estadística Judicial, en el ámbito de sus respectivas competencias, tendrán a su cargo las funciones de control e inspección del cumplimiento de las normas relativas al Fondo de Apoyo.
+La Contraloría, la Visitaduría Judicial y las Direcciones Generales de Estadística Judicial y Gestión Judicial, en el ámbito de sus respectivas competencias, tendrán a su cargo las funciones de control e inspección del cumplimiento de las normas relativas al Fondo de Apoyo.
 
 ###### Artículo 889.
 
@@ -11191,7 +11421,9 @@ La operatividad del Fondo de Apoyo estará a cargo de la secretaría técnica de
 
 La secretaría técnica del Fondo de Apoyo implementará los sistemas contables y automatizados necesarios para el tratamiento de los datos relativos a la administración, control, registro y operación del Fondo de Apoyo. Para este efecto, la secretaría técnica del Fondo de Apoyo contará con la colaboración necesaria de las áreas competentes del Consejo.
 
-El secretario técnico, previo acuerdo del Comité, podrá solicitar a la Dirección General de Estadística Judicial el acceso y la modificación del SISE con el objeto de contar oportunamente con los datos íntegros, actualizados, veraces y necesarios para controlar, administrar y conciliar la información correspondiente a los recursos del Fondo de Apoyo.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+El secretario técnico, previo acuerdo del Comité, podrá solicitar a la Dirección General de Gestión Judicial el acceso y la modificación del SISE con el objeto de contar oportunamente con los datos íntegros, actualizados, veraces y necesarios para controlar, administrar y conciliar la información correspondiente a los recursos del Fondo de Apoyo.
 
 Para el efecto anterior, los analistas jurídicos de los órganos jurisdiccionales responsables del procesamiento de la información del SISE, deberán capturar los datos relativos a la constitución, exhibición y orden de pago de los billetes de depósito o instrumentos análogos el mismo día en que se generen.
 
@@ -11219,9 +11451,11 @@ A fin de cumplir con el objeto del Fondo de Apoyo, el Comité podrá convenir co
 
 Para tales efectos, los recursos serán concentrados en el número de cuentas que se estimen pertinentes, mismas que estarán a nombre del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 898.
 
-Los convenios y contratos que tengan por objeto la inversión de la totalidad de recursos que constituyan el patrimonio del Fondo de Apoyo, serán suscritos de forma mancomunada por el secretario técnico y, por lo menos, alguno de los siguientes servidores públicos: el Director General de Programación y Presupuesto; el Director General de Tesorería; el Director de Administración Financiera; o el Director de Normatividad y Enlace Institucional del Fondo de Apoyo, por instrucción del Comité.
+Los convenios y contratos que tengan por objeto la inversión de la totalidad de recursos que constituyan el patrimonio del Fondo de Apoyo, serán suscritos de forma mancomunada por el secretario técnico y, por lo menos, alguno de los siguientes servidores públicos: el Director General de Programación, Presupuesto y Tesorería; el Director de Administración Financiera; o el Director de Normatividad y Enlace Institucional del Fondo de Apoyo, por instrucción del Comité.
 
 La inversión de los recursos del Fondo de Apoyo se hará, preferentemente, en instrumentos financieros de renta fija, gubernamentales y paraestatales que garanticen su seguridad, disponibilidad inmediata y el mayor rendimiento posible.
 
@@ -11235,7 +11469,9 @@ II. Cuando las garantías se constituyan en certificados de depósito, éstas se
 
 III. Que las garantías en dinero o en valores que reciban y que no hayan sido puestas a disposición de un órgano jurisdiccional les sean transferidas para estar en posibilidad de incorporarlas al Fondo de Apoyo;
 
-IV. Coordinarse con la secretaría técnica del Fondo, para que, con apoyo de la Dirección General de Estadística Judicial, y con independencia de otros controles, se lleve a cabo el registro y supervisión de la documentación que ampare los depósitos realizados; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+IV. Coordinarse con la secretaría técnica del Fondo, para que, con apoyo de la Dirección General de Gestión Judicial, y con independencia de otros controles, se lleve a cabo el registro y supervisión de la documentación que ampare los depósitos realizados; y
 
 V. Dejar constancia en los expedientes judiciales, de los documentos a través de los cuales se hayan efectuado, hecho efectivos o cancelado depósitos.
 
@@ -11295,7 +11531,7 @@ Las percepciones del secretario técnico y las del personal que se designe para 
 
 ###### Artículo 911.
 
-El Comité enviará en forma trimestral a la entidad de fiscalización superior de la Federación, el informe correspondiente al ejercicio de los recursos que integran el patrimonio del Fondo de Apoyo. Al mismo tiempo, se publicarán en el Diario Oficial de la Federación, previa aprobación del Comité, los ingresos del periodo, incluyendo los rendimientos financieros, egresos, destino y saldo patrimonial del Fondo y se difundirá a través de la página de Internet del Fondo de Apoyo.
+La Secretaría Técnica enviará en forma trimestral a la entidad de fiscalización superior de la Federación, el informe correspondiente al ejercicio de los recursos que integran el patrimonio del Fondo de Apoyo. Al mismo tiempo, se publicarán en el Diario Oficial de la Federación, previa revisión de la Dirección General de Auditoría, los ingresos del periodo, incluyendo los rendimientos financieros, egresos, destino y saldo patrimonial del Fondo y se difundirá a través de la página de Internet del Fondo de Apoyo.
 
 ###### Artículo 912.
 
@@ -11333,11 +11569,13 @@ La portación o el uso de identificaciones, insignias o placas metálicas o de c
 
 ###### Artículo 916.
 
-Corresponde a la Dirección General de Programación y Presupuesto, con apoyo en lo que para tal efecto disponga la Comisión de Administración, establecer los lineamientos que deben regir para la publicación de convocatorias, acuerdos generales, avisos, esquelas y demás comunicaciones que determinen las autoridades competentes del Consejo, sus montos máximos y las autorizaciones que correspondan.
+Corresponde a la Dirección General de Programación, Presupuesto y Tesorería, con apoyo en lo que para tal efecto disponga la Comisión de Administración, establecer los lineamientos que deben regir para la publicación de convocatorias, acuerdos generales, avisos, esquelas y demás comunicaciones que determinen las autoridades competentes del Consejo, sus montos máximos y las autorizaciones que correspondan.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 917.
 
-La Dirección General de Comunicación Social deberá presentar al Pleno y a la Comisión de Administración, los informes que se requieran respecto del ejercicio del presupuesto destinado a las publicaciones, así como del turno de los diarios en que se lleven a cabo.
+La Dirección General de Comunicación Social y Vocería deberá presentar al Pleno y a la Comisión de Administración, los informes que se requieran respecto del ejercicio del presupuesto destinado a las publicaciones, así como del turno de los diarios en que se lleven a cabo.
 
 ## TÍTULO SEGUNDO. SEGURIDAD
 
@@ -11487,9 +11725,11 @@ El Consejo, de conformidad con la suficiencia presupuestal y atendiendo a los es
 
 En la aplicación de los acuerdos generales y demás disposiciones del Consejo respecto de las niñas, niños y adolescentes, se deberán observar los principios previstos en el artículo 6 de la Ley General de los Derechos de Niñas, Niños y Adolescentes, que correspondan.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 933.
 
-El ingreso y estancia de periodistas y medios de comunicación en las instalaciones, requerirá la previa autorización de la Dirección General de Comunicación Social o del Administrador del Centro de Justicia Penal quienes, en todo caso, deberán dar aviso a la Coordinación de Seguridad a efecto de que se apliquen los protocolos o manuales correspondientes.
+El ingreso y estancia de periodistas y medios de comunicación en las instalaciones, requerirá la previa autorización de la Dirección General de Comunicación Social y Vocería o del Administrador del Centro de Justicia Penal quienes, en todo caso, deberán dar aviso a la Coordinación de Seguridad a efecto de que se apliquen los protocolos o manuales correspondientes.
 
 #### SECCIÓN QUINTA. DEROGADA
 
@@ -11691,13 +11931,19 @@ XXII. Dar seguimiento a las recomendaciones emitidas a los presidentes de las Un
 
 XXIII. Proponer la suscripción de convenios de colaboración con los sectores público, privado y académico en acciones de prevención y mitigación del riesgo;
 
-XXIV. Promover y evaluar los análisis de riesgos, desarrollo de estudios y modelaciones de posibles efectos de agentes perturbadores sobre los inmuebles del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-XXV. Promover, evaluar y generar acciones técnicas de prevención y mitigación de riesgos en la infraestructura física de los inmuebles del Poder Judicial de la Federación, así como el seguimiento a las recomendaciones que se emitan;
+XXIV. Promover y evaluar los análisis de riesgos, desarrollo de estudios y modelaciones de posibles efectos de agentes perturbadores sobre los inmuebles;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XXV. Promover, evaluar y generar acciones técnicas de prevención y mitigación de riesgos en la infraestructura física de los inmuebles, así como el seguimiento a las recomendaciones que se emitan;
 
 XXVI. Desarrollar y proponer las medidas de alertamiento ante situación anormal que pudiera causar un daño y propiciar un riesgo excesivo para la seguridad de los servidores públicos del Poder Judicial de la Federación, generada o asociada con la inminencia, alta probabilidad o presencia de un agente perturbador;
 
-XXVII. Asesorar, coordinar y dar seguimiento en la realización de simulacros que se lleven a cabo en los inmuebles del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XXVII. Asesorar, coordinar y dar seguimiento en la realización de simulacros que se lleven a cabo en los inmuebles;
 
 XXVIII. Proponer al área administrativa que corresponda, la adquisición de sistemas de detección de incendios, alarma y comunicación; sistemas de hidrantes, equipos de protección personal para los brigadistas; así como equipo complementario para la atención de emergencias o desastres que requiera el Consejo, en términos de las disposiciones aplicables;
 
@@ -12107,9 +12353,11 @@ Los servidores públicos deberán hacer del conocimiento de las autoridades comp
 
 La Unidad para el Control de Certificación de Firmas del Consejo (UNCOCEFI) será la responsable de llevar a cabo los procedimientos para la emisión, renovación, revocación y consulta de los certificados digitales de la FIREL, por sí o, en los términos de la normativa aplicable, por conducto de los agentes certificadores que la auxilien.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 998.
 
-La UNCOCEFI dependerá de la Dirección General de Estadística Judicial y tendrá la estructura orgánica que establezca el Pleno o la Comisión de Administración.
+La UNCOCEFI dependerá de la Dirección General de Gestión Judicial y tendrá la estructura orgánica que establezca el Pleno o la Comisión de Administración.
 
 ###### Artículo 999.
 
@@ -13009,7 +13257,7 @@ D.O.F. 6 DE NOVIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR".]
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE MODIFICA LA ENTRADA EN VIGOR DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DEN LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE MODIFICA LA ENTRADA EN VIGOR DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DEN LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, A EFECTO DE FORTALECER LA PARTICIPACIÓN DE LA CIUDADANÍA, A TRAVÉS DE LAS FIGURAS DE TESTIGO SOCIAL Y OBSERVADOR, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
 
 PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de febrero de dos mil diecinueve, salvo lo previsto en los transitorios CUARTO Y QUINTO los cuales entraron en vigor al día siguiente de la publicación del referido Acuerdo General en el Diario Oficial de la Federación.
 
@@ -13058,3 +13306,13 @@ PRIMERO.- El Acuerdo General del Pleno del Consejo de la Judicatura Federal, que
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo del Pleno del Consejo de la Judicatura Federal, por el que se modifica la entrada en vigor del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reforma el similar que establece las disposiciones en materia de actividad administrativa del propio Consejo, a efecto de fortalecer la participación de la ciudadanía, a través de las figuras de testigo social y observador, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de cinco de diciembre de dos mil dieciocho, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Jorge Antonio Cruz Ramos, Martha María del Carmen Hernández Álvarez y Alfonso Pérez Daza.- Ciudad de México, a trece de diciembre de dos mil dieciocho.- Conste.- Rúbrica."
+
+D.O.F. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los asuntos y procedimientos que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo, deberán concluirse conforme a las disposiciones con las que fueron iniciados.
