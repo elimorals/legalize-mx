@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2018-06-20"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -485,7 +485,9 @@ XXIII. Procurar el abastecimiento de productos agrícolas, tales como granos bá
 
 XXIV. Efectuar convenios con entidades públicas y privadas sobre distribución, consumo de bienes, insumos y productos agrícolas, que ofrezcan mejores servicios y precios de adquisición al agricultor, para evitar el intermediarismo;
 
-XXV. Establecer premios, estímulos y reconocimientos a las organizaciones o asociaciones y productores que se distingan por su creatividad, productividad y eficiencia;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+XXV. Establecer premios, estímulos y reconocimientos a las investigaciones sobresalientes sobre el desarrollo y tecnificación de la actividad agrícola, así como también a las organizaciones o asociaciones y productores que se distingan por su creatividad, productividad y eficiencia;
 
 XXVI. Promover, estimular y organizar la celebración de cursos de capacitación, congresos, ferias y exposiciones agrícolas en el Estado;
 
@@ -553,9 +555,17 @@ LVII. Convenir con la SAGARPA la contratación o adhesión de esquemas de asegur
 
 LVIII. Promover las acciones necesarias para lograr un campo libre de envases vacíos de Agroquímicos, de Insumos Agrícolas y de Subproductos Agrícolas, así como de cualquier plástico de uso agrícola;
 
-LIX. Supervisar los productos y subproductos agrícolas, permitiendo o negando su entrada o salida del Estado, según cumplan o incumplan con los requisitos legales para tal efecto; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-LX. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones relativas y aplicables.
+LIX. Supervisar los productos y subproductos agrícolas, permitiendo o negando su entrada o salida del Estado, según cumplan o incumplan con los requisitos legales para tal efecto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+LX. Fomentar y difundir entre los productores y organizaciones agrícolas cursos, seminarios, talleres y toda aquella información que les sea de utilidad a través de medios escritos y digitales, tendientes a impulsar la educación y tecnificación de la actividad agrícola; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+LXI. Las demás que le otorgue la presente Ley, su Reglamento y demás disposiciones relativas y aplicables.
 
 ###### Artículo 10.
 
@@ -1894,3 +1904,13 @@ Ma. Estela Cortés Meléndez,
 DIPUTADA SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 18 de junio de 2018.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 210.- SE REFORMAN LAS FRACCIONES XV Y XXV DEL ARTÍCULO 42 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
