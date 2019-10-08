@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-trata-de-personas-en-el-118681
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2017-01-30"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección al Número 5 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2017.
 
@@ -345,7 +345,9 @@ I.- Ser el vínculo con las autoridades federales, otras entidades federativas y
 
 II.- Gestionar e incluso proporcionar el auxilio necesario a las autoridades judiciales y a las dependencias cuando lleven a cabo alguna diligencia o actividad, en el marco de sus competencias, en la materia;
 
-III.- Ser el principal proponente de la realización de las campañas contempladas en la Fracción IX del Artículo 19 de la presente Ley; mismas que estarán dirigidas a los centros de trabajo del Estado, con el objeto de informar sobre las conductas y consecuencias en la materia;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+III.- Ser el principal proponente de la realización de las campañas contempladas en la Fracción VI del Artículo 16 de la presente Ley; mismas que estarán dirigidas a los centros de trabajo del Estado, con el objeto de informar sobre las conductas y consecuencias en la materia;
 
 IV.- Impulsar en el ámbito de su competencia, la realización de las acciones tendientes a prevenir los delitos en materia de trata de personas, con las asociaciones obrero-patronales del Estado;
 
@@ -660,3 +662,13 @@ Arturo Fernández Estrada,
 DIPUTADO SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 26 de enero de 2017.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Francisco Javier Luévano Núñez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 211.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 27 DE LA LEY PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS EN EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
