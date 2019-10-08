@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-publico-de-la-propiedad-del-estado-de-20207"
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-03"
-last_updated: "2019-05-11"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Jalisco, el sábado 3 febrero de 2001.
 
@@ -681,11 +681,17 @@ XIV. Los avisos cautelar y preventivo a que se refiere el capítulo VIII del Tí
 
 XV. Las medidas provisionales o cautelares que en materia de extinción de dominio se hayan dictado.
 
-XVI. Los actos, que siendo materia de inscripción preventiva o definitiva, no deba ésta realizarse, por existir de acuerdo al orden de prelación un aviso cautelar que lo impida; y
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2015)</small>
+XVI. Los actos, que siendo materia de inscripción preventiva o definitiva, no deba ésta realizarse, por existir de acuerdo al orden de prelación un aviso cautelar que lo impida;
 
-XVII. Cualquier otro documento relacionado con la propiedad inmueble, que sea anotable preventivamente, de acuerdo con esta Ley y otras leyes aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+XVII. La inscripción de los Deudores Alimentarios del Registro de Deudores Alimentarios Morosos a que se refiere el artículo 440 del Código Civil del Estado de Jalisco; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+XVIII. Cualquier otro documento relacionado con la propiedad inmueble, que sea anotable preventivamente, de acuerdo con esta Ley y otras leyes aplicables.
 
 Los registros preventivos se realizarán a través de una anotación dentro del folio correspondiente al inmueble de que se trate.
 
@@ -1610,3 +1616,11 @@ P.O. 11 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27256/LXII/19, QUE REFORMA EL ARTÍCULO 136 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO; LOS ARTÍCULOS 36, 63, 318, 319 Y 320 DE LA LEY DE HACIENDA MUNICIPAL; EL ARTÍCULO 70 DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD; ARTÍCULOS 3° Y 57 DE LA LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS; LOS ARTÍCULOS 7°, 18, 28, 117, 140 BIS, 141 Y 142 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO, TODAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27332/LXII/19 QUE REFORMA LOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO”.]
+
+Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Se concede al Poder Ejecutivo un plazo de noventa días, a partir de la entrada en vigor del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento de la Ley del Registro Civil del Estado de Jalisco.
