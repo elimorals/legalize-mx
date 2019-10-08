@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-regula-los-centros-de-atencion-infantil-en-el-99842"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-25"
-last_updated: "2019-05-18"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99842&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el 25 de marzo de 2014.
 
@@ -299,25 +299,29 @@ Se crea el Consejo Estatal de Prestación de Servicios para la Atención, Cuidad
 
 El Consejo se integrará con los titulares de las siguientes dependencias y entidades:
 
-I. La Secretaría de Salud Jalisco, quien lo presidirá;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+I. La Secretaría de Salud, quien lo presidirá;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE OCTUBRE DE 2019)</small>
 
 II. La Fiscalía Estatal;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-III. La Secretaría de Igualdad Sustantiva entre Mujeres y Hombres;
+III. La Secretaría del Sistema de Asistencia Social;
 
 IV. La Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE OCTUBRE DE 2019)</small>
 
 V. El Poder Legislativo, a través del Presidente de la Comisión de Higiene, Salud Pública y Prevención de las Adicciones;
 
 VI. La Unidad Estatal de Protección Civil y Bomberos;
 
-VII. Sistema para el Desarrollo Integral de la Familia del Estado;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+VII. Sistema Estatal para el Desarrollo Integral de la Familia;
 
 VIII. La Comisión Estatal Indígena;
 
@@ -329,7 +333,9 @@ XI. La delegación del Instituto Mexicano del Seguro Social; y
 
 XII. La delegación del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-Como invitado con derecho a voz y no a voto, un represente del Instituto Jalisciense de las Mujeres.
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+Como invitado con derecho a voz y no a voto, un representante de la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres.
 
 Las Instituciones a que se refieren las fracciones XI y XII, previa invitación y aceptación.
 
@@ -561,7 +567,9 @@ IV. Presentar el modelo de contrato de prestación del servicio, según las moda
 
 V. Presentar exámenes médicos y psicológicos del personal que labora en el Centro de Atención, expedida por las autoridades publicas correspondientes;
 
-VI. Contar con una póliza de seguro vigente ante eventualidades que pongan en riesgo la vida y la integridad física de niñas y niños durante su permanencia en los Centros de Atención. Asimismo, dicha póliza deberá cubrir la responsabilidad civil y riesgos profesionales del prestador del servicio frente a terceros a consecuencia de un hecho que cause daño. Las condiciones de las pólizas deberán ajustarse a lo dispuesto por la Ley General de Instituciones y Sociedades Mutualistas de Seguros, así como a las disposiciones que al efecto se expidan;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+VI. Contar con una póliza de seguro vigente ante eventualidades que pongan en riesgo la vida y la integridad física de niñas y niños durante su permanencia en los Centros de Atención. Asimismo, dicha póliza deberá cubrir la responsabilidad civil y riesgos profesionales del prestador del servicio frente a terceros a consecuencia de un hecho que cause daño. Las condiciones de las pólizas deberán ajustarse a lo dispuesto por la Ley de Instituciones de Seguros y de Fianzas, así como a las disposiciones que al efecto se expidan;
 
 VII. Contar con un Reglamento Interno;
 
@@ -743,9 +751,11 @@ I. Cuando se ponga en riesgo la vida de algún menor o la pérdida de la vida o 
 
 II. La existencia de cualquier delito sexual en contra de una niña o niño acreditado en las instalaciones del Centro de Atención.
 
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 60.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos del Estado o de los Municipios, constituyen infracción y serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos del Estado o de los Municipios, constituyen infracción y serán sancionados en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
 ###### Artículo 61.
 
@@ -824,5 +834,11 @@ P.O. 4 DE MARZO DE 2017.
 P.O. 18 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27274/LXII/19 QUE REFORMA EL ARTÍCULO 18 DE LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27351/LXII/19 QUE REFORMA LOS ARTÍCULOS 18, 44 Y 60 DE LA LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
