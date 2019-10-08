@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2019-07-08"
+last_updated: "2019-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -739,7 +739,7 @@ XXXIX.- Celebrar convenios con la Federación, Entidades del Ejecutivo o Municip
 
 XL.- Emitir la Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales y de Existencia de Créditos Fiscales en Ingresos Coordinados en materia fiscal federal, y
 
-> <small>(ADICIONADA [N.DE E. REUBICADA], P.O. 8 DE JULIO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE JULIO DE 2019)</small>
 
 XLI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
@@ -1351,7 +1351,9 @@ XIII.- Impulsar y apoyar los proyectos productivos que generen empleos e ingreso
 
 XIV.- Promover programas tendientes a la integración de actividades económicas para el desarrollo rural del Estado, que permitan la generación de empleos;
 
-XV.- Asesorar a los Ayuntamientos y organismos de productores que lo soliciten, en materia agrícola, pecuaria y forestal;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+XV.- Asesorar de manera periódica y regular, en materia agrícola, pecuaria y forestal, a los Ayuntamientos y organismos de productores;
 
 XVI.- Proponer y apoyar el desarrollo de infraestructura agrícola, pecuaria y forestal del Estado, en coordinación con los gobiernos Federal y municipales, y en concertación con las organizaciones de productores;
 
@@ -1371,7 +1373,9 @@ XXIII.- Elaborar y ejecutar, en coordinación con las autoridades competentes, e
 
 XXIV.- Realizar estudios de suelos para su clasificación y evaluación, que permitan su aprovechamiento racional, y su conservación y mejoramiento, en una perspectiva de desarrollo económico sustentable;
 
-XXV.- Apoyar los programas de investigación agrícola, pecuaria y forestal, así como fomentar la divulgación y aplicación de la tecnología y de los sistemas que mejoren la productividad;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+XXV.- Apoyar y promover, en coordinación con las Instituciones Educativas, Centros e Institutos de Investigación y Asociaciones Nacionales e Internacionales, dedicadas a la materia, los programas de investigación agrícola, pecuaria y forestal, así como fomentar la divulgación y aplicación de la tecnología y de los sistemas que mejoren la productividad;
 
 XXVI.- Formular el inventario de los recursos agrícola, pecuario y forestal, existentes en el Estado;
 
@@ -1985,7 +1989,7 @@ El Ejecutivo del Estado deberá proveer en la esfera administrativa para la exac
 
 P.O. 8 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 182.- ARTÍCULO PRIMERO.- SE EXPIDE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 182.- ARTÍCULO PRIMERO.- SE EXPIDE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2010,3 +2014,11 @@ Los procedimientos de contratación y ejecución de obra pública que se hayan c
 ###### ARTÍCULO SEXTO.
 
 La Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales, se entenderá a la Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales y de Existencia de Créditos Fiscales en Ingresos Coordinados en materia fiscal federal, por lo que un plazo no mayor a 180 días hábiles, la Secretaría de Finanzas del Estado, realizará las adecuaciones necesarias, reglamentarias, administrativas e informáticas que deriven del presente Decreto, mientras tanto prevalecerá para trámites correspondientes en materia de adquisiciones, arrendamientos, servicios u obra pública la Opinión de Situación Fiscal de Cumplimiento de Obligaciones Estatales, que emita la Secretaría de Finanzas del Estado.
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 210.- SE REFORMAN LAS FRACCIONES XV Y XXV DEL ARTÍCULO 42 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
