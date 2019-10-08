@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2019-08-20"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -633,13 +633,21 @@ z) Transparencia y Acceso a la Información Pública;
 
 aa) Pesca y Acuacultura;
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-ab) Familia; y
+ab) Familia;
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
-ac) Anticorrupción y Participación Ciudadana.
+ac) Anticorrupción y Participación Ciudadana;
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+ad) Cohesión Social; y
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+ae) Energía y Cambio Climático.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -3308,3 +3316,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LXIV-4 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 35, PÁRRAFO 2 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
