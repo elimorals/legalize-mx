@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2019-09-23"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -637,7 +637,9 @@ XXIX. Autorizar los calendarios y políticas para la aplicación de incrementos 
 
 XXX. Autorizar los programas específicos en materia de recursos humanos, relativos al ingreso, capacitación administrativa, estímulos, salarios, prestaciones y servicios, y de administración del personal del Poder Judicial de la Federación;
 
-XXXI. Aprobar el monto de la remuneración y honorarios de los peritos;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XXXI. Aprobar el arancel para el cálculo de los honorarios de los peritos;
 
 > <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)</small>
 
@@ -725,7 +727,9 @@ XV. Coordinar con la Comisión de Administración las acciones para que los magi
 
 XVI. Remitir al Pleno, las propuestas de publicaciones del Consejo en términos de la normativa que aquél emita;
 
-XVII. Aprobar la lista anual de las personas que puedan fungir como peritos ante los órganos jurisdiccionales y áreas administrativas clasificándolas por ramas, especialidades y circuitos judiciales;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XVII. Aprobar la Lista anual de las personas que puedan fungir como peritos ante los órganos del Poder Judicial de la Federación;
 
 XVIII. Coordinar y supervisar el funcionamiento del Instituto de la Judicatura Federal;
 
@@ -1313,9 +1317,17 @@ IX. Llevar el archivo y correspondencia de la Presidencia del Consejo;
 
 X. Asesorar al Presidente en asuntos que le requiera, y desempeñar las comisiones y funciones que le encomiende;
 
-XI. Asistir, en su caso, como invitado a las sesiones de Pleno, Comités, Comisiones y grupos de trabajo y demás reuniones institucionales e interinstitucionales que determine el Presidente; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-XII. Las demás que establezcan el Pleno y las Comisiones.
+XI. Asistir, en su caso, como invitado a las sesiones de Pleno, Comités, Comisiones y grupos de trabajo y demás reuniones institucionales e interinstitucionales que determine el Presidente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XII. Las atribuciones previstas en las fracciones V, VI, VII y VIII, podrá delegarlas en los servidores públicos adscritos a la Secretaría General de la Presidencia, sin perjuicio de que la ejerza directamente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XIII. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 76.
 
@@ -1681,11 +1693,11 @@ VIII. Tramitar ante la Comisión de Carrera Judicial, las consultas para que los
 
 IX. Tramitar ante la Comisión de Carrera Judicial las solicitudes de los magistrados de Circuito y jueces de Distrito, relativas al disfrute de períodos vacacionales a los que se refieren los artículos 159 y 160 de la Ley; y llevar el control de las autorizaciones correspondientes;
 
-X. Colaborar en el registro de peritos en los términos de las disposiciones aplicables;
+X. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)
 
 XI. Tramitar ante la Comisión de Carrera Judicial las licencias mayores de treinta días que soliciten los magistrados de Circuito o los jueces de Distrito, para que se sometan a la consideración del Pleno;
 
-XII. Elaborar anualmente la lista de las personas que puedan fungir como peritos ante los órganos jurisdiccionales y áreas administrativas, clasificándolas por ramas, especialidades y circuitos judiciales y someterla a la consideración de la Comisión de Carrera Judicial;
+XII. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)
 
 XIII. Llevar el sistema de turnos y efectuar los trámites requeridos para las resoluciones de las ratificaciones de magistrados de Circuito y jueces de Distrito;
 
@@ -2469,11 +2481,11 @@ Por cuanto hace al ámbito internacional, el informe anual contendrá todo lo re
 
 Asimismo, dicho informe contendrá los resultados del Programa Anual de Capacitación Administrativa.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 112.
 
-El Director General del Instituto Federal de Defensoría Pública en términos de los artículos 32, fracción X, de la Ley Federal de Defensoría Pública; y, 4o., fracción XI, de las Bases Generales de Organización del Instituto Federal de Defensoría Pública rendirá ante el Pleno un informe anual de labores.
-
-El informe anual será presentado en el salón de usos múltiples del edificio sede del Consejo.
+El Director General del Instituto Federal de Defensoría Pública en términos de los artículos 32, fracción XI, de la Ley Federal de Defensoría Pública; y 5, fracción XIII, de las Bases Generales de Organización del Instituto Federal de Defensoría Pública rendirá ante el Pleno un informe anual de labores.
 
 ###### Artículo 113.
 
@@ -3337,7 +3349,9 @@ XXI. Intervenir, en el ámbito de su competencia, en el desahogo de acciones rel
 
 XXII. Rendir por sí o por conducto de los secretarios técnicos adscritos a la Dirección General de Asuntos Jurídicos, los informes previos y justificados en los juicios de amparo promovidos en contra del Consejo, del Presidente, de los Consejeros, y de las unidades administrativas que lo integran, así como de sus órganos auxiliares, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XXIII. Intervenir en el proceso de integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación; en la propuesta de peritos; en la estimación de honorarios; así como en el procedimiento para la investigación del incumplimiento de las obligaciones de éstos, en términos de las disposiciones aplicables; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+XXIII. Elaborar la propuesta de integración de la Lista de personas que pueden fungir como peritos ante los órganos del Poder Judicial de la Federación; y demás atribuciones que en materia pericial le confiere el Acuerdo General aplicable; y
 
 XXIV. Las demás que establezcan el Pleno y las Comisiones.
 
@@ -5894,3 +5908,11 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para
 TERCERO. La Secretaría Ejecutiva de Administración, a través de las áreas administrativas de su adscripción deberá ejecutar las acciones necesarias para la implementación de este Acuerdo.
 
 CUARTO. Se instruye a la Dirección General de Asuntos Jurídicos, presentar a consideración del Pleno del Consejo de la Judicatura Federal, los proyectos de acuerdos generales para adecuar los instrumentos normativos correspondientes, dentro de los treinta días hábiles siguientes a la aprobación del presente Acuerdo.
+
+D.O.F. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO EN RELACIÓN CON LAS ATRIBUCIONES EN MATERIA PERICIAL; CON EL INFORME ANUAL DE LABORES DEL DIRECTOR GENERAL DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA; Y CON LAS ATRIBUCIONES DEL TITULAR DE LA SECRETARÍA GENERAL DE LA PRESIDENCIA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
