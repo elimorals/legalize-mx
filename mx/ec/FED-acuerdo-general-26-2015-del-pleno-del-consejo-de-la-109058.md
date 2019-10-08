@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-26-2015-del-pleno-del-consejo-de-la-109058"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-07-21"
-last_updated: "2016-06-08"
+last_updated: "2019-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109058&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-06-10"
 ---
 # ACUERDO GENERAL 26/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, [QUE REGULA EL TRAMITE AL QUE SE SUJETARAN LAS SOLICITUDES DE CONCENTRACION DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASI COMO SU PROCEDENCIA Y DECLARACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL TRÁMITE PARA LA CONCENTRACIÓN DE ASUNTOS EN LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO, PUBLICADO EN EL D.O.F. DE 3 DE JUNIO DE 2022, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL 26/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 21 de julio de 2015.
 
@@ -57,35 +59,67 @@ El Pleno del Consejo de la Judicatura Federal determinará la concentración de 
 
 Las resoluciones del Pleno del Consejo de la Judicatura Federal son definitivas e inatacables.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 11/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 2.
 
-Es procedente la solicitud de concentración de juicios de amparo en los siguientes casos:
+Es procedente la solicitud de concentración de juicios de amparo que reúna los siguientes requisitos:
 
-I. Cuando dos o más quejosos reclamen y aduzcan sobre un mismo acto u omisión ser titulares de un interés legítimo; y
+I. Que involucre a dos o más quejosos que aduzcan ser titulares de un interés legítimo;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE JUNIO DE 2016)</small>
+II. Que los juicios de amparo estén radicados en órganos jurisdiccionales distintos; y
 
-II. Cuando en ese mismo carácter, esto es, quejosos que aduzcan ser titulares de un interés legítimo, reclamen actos u omisiones distintos pero con perjuicios análogos, provenientes de la misma autoridad, y se tramiten en órganos jurisdiccionales diversos.
+III. Que los quejosos reclamen o aduzcan una afectación real y actual a su esfera jurídica producida por las mismas autoridades con motivo de:
+
+a) Las mismas normas, actos u omisiones; o
+
+b) Normas, actos u omisiones distintas, pero con perjuicios análogos.
 
 ###### Artículo 3.
 
 El trámite de la solicitud de concentración de juicios de amparo se sujetará a lo siguiente:
 
-I. Cualquiera de las partes en los juicios de amparo solicitarán ante el Consejo de la Judicatura Federal la concentración de los juicios de amparo, mediante escrito dirigido a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 11/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-II. Recibida la solicitud, la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos solicitará las constancias a los órganos jurisdiccionales que conocen de los asuntos a concentrar, y recabará la información necesaria que sea generada en los sistemas tecnológicos de gestión jurisdiccional que se encuentren en operación;
+I. Cualquiera de las partes en los juicios de amparo solicitará ante el Consejo de la Judicatura Federal la concentración de los juicios de amparo, mediante escrito dirigido a la Secretaría Ejecutiva de Creación de Nuevos Órganos;
 
-III. La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, elaborará el proyecto de resolución y lo remitirá a la Comisión de Creación de Nuevos Órganos para que de estimarlo procedente, lo someta a consideración del Pleno del Consejo de la Judicatura Federal; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 11/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
-IV. El Pleno del Consejo de la Judicatura Federal, en atención al interés social y al orden público, resolverá sobre la concentración de juicios de amparo, y de ser procedente ésta, fijará las condiciones y estados procesales de los asuntos que serán objeto de concentración, así como el órgano u órganos jurisdiccionales que conocerán de conformidad con su competencia.
+II. Recibida la solicitud, la Secretaría Ejecutiva de Creación de Nuevos Órganos recabará la información necesaria que sea generada en los sistemas tecnológicos de gestión jurisdiccional que se encuentren en operación y, en su caso, solicitará las constancias a los órganos jurisdiccionales que conocen de los asuntos a concentrar;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 11/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+III. La Secretaría Ejecutiva de Creación de Nuevos Órganos propondrá a la Comisión de Creación de Nuevos Órganos las providencias que, en su caso, resulten necesarias, así como el proyecto de resolución. De estimarlo procedente, la Comisión de Creación de Nuevos Órganos someterá la determinación a consideración del Pleno del Consejo de la Judicatura Federal.
+
+La resolución de la Comisión que determine la improcedencia de la solicitud de concentración es definitiva e inatacable; y
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 11/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+IV. El Pleno del Consejo de la Judicatura Federal, en atención al interés social y al orden público, resolverá sobre el planteamiento formulado por la Comisión. De ser procedente la concentración, aquél fijará las condiciones y estados procesales de los asuntos que serán objeto de concentración, el órgano u órganos jurisdiccionales que conocerán de conformidad con su competencia, así como cualquier otra providencia adicional que resulte necesaria.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 11/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 4.
 
-La concentración de juicios de amparo que decida el Pleno del Consejo de la Judicatura Federal, no implica pronunciamiento en relación con el interés legítimo que aduzcan las partes o los perjuicios análogos que alegan sufrir.
+La concentración de juicios de amparo que decida el Pleno del Consejo de la Judicatura Federal no implica pronunciamiento en relación con la afectación real y actual a la esfera jurídica de los quejosos.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 11/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 5.
 
-La Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal resolverá todas las cuestiones administrativas que se susciten en la aplicación del presente Acuerdo.
+En los asuntos donde se aduzca un interés jurídico podrá determinarse la concentración, en los términos del presente Acuerdo, a consideración del Pleno del Consejo de la Judicatura Federal, cuando se justifiquen causas de interés social, orden público o política judicial.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 11/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 6.
+
+La Comisión de Creación de Nuevos Órganos emitirá las reglas, criterios y/o circulares necesarias para la atención de las solicitudes de concentración y su difusión, y resolverá todas las cuestiones administrativas que se susciten en la aplicación del presente Acuerdo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 11/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 7.
+
+La facultad del Pleno del Consejo de la Judicatura Federal de dictar las providencias que resulten necesarias comprenderá, enunciativa más no limitativamente, la posibilidad de determinar en qué casos se entenderá que la concentración comprenda los asuntos no contenidos específicamente dentro de la solicitud de concentración, incluyendo los iniciados con posterioridad a la misma, o la posibilidad de instruir a la Comisión de Creación de Nuevos Órganos para pronunciarse de cuestiones referentes a una concentración previamente autorizada por el Pleno del Consejo.
 
 ## TRANSITORIOS
 
@@ -116,3 +150,13 @@ D.O.F. 8 DE JUNIO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 11/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 26/2015, QUE REGULA EL TRÁMITE AL QUE SE SUJETARÁN LAS SOLICITUDES DE CONCENTRACIÓN DE LOS JUICIOS DE AMPARO EN LOS JUZGADOS DE DISTRITO Y TRIBUNALES DE CIRCUITO, ASÍ COMO SU PROCEDENCIA Y DECLARACIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
+
+TERCERO. Las solicitudes presentadas con anterioridad a la entrada en vigor de este Acuerdo deberán resolverse conforme a las disposiciones del presente Acuerdo.
