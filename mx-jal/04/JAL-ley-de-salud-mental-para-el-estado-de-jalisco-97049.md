@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-mental-para-el-estado-de-jalisco-97049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-04"
-last_updated: "2018-12-05"
+last_updated: "2019-10-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO NÚMERO 24809/LX/13, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 30 DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "EL ESTADO DE JALISCO".</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 4 de enero de 2014.
 
@@ -159,9 +159,25 @@ III. Fijar los lineamientos de coordinación para que los municipios, en el ámb
 
 IV. Llevar a cabo los convenios de coordinación necesarios con los Municipios del Estado y el Instituto, para que en cada uno de los municipios del Estado, se cuente, mínimamente con un Módulo Comunitario de Atención en Salud Mental; y
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE OCTUBRE DE 2019)</small>
 
-V. las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
+V. Garantizar la atención del paciente con una conducta suicida, mediante un equipo multidisciplinario e interinstitucional, que de acompañamiento durante todas las etapas del proceso de tratamiento, rehabilitación y reincorporación social;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+VI. Implementar la guía práctica y el protocolo de intervención para los servicios de emergencia del paciente con conducta suicida;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+VII. Dar aviso de manera inmediata a la autoridad competente cuando se tenga conocimiento de una conducta suicida, a efecto de que se otorguen las medidas de protección integral de los derechos que correspondan;
+
+> <small>(ADICIONADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+VIII. Mantener la confidencialidad de la información en toda asistencia y/o tratamiento de un paciente con conductas suicidas bajo irrestricto apego a los protocolos de actuación; y
+
+(REUBICADA, P.O. 8 DE OCTUBRE DE 2019)
+
+IX. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
 ###### Artículo 9.
 
@@ -209,19 +225,53 @@ El internamiento de personas con padecimientos mentales se debe ajustar a princi
 
 el Instituto Jalisciense de Salud Mental, es un órgano administrativo desconcentrado de la Secretaría de Salud Jalisco; presupuestalmente subordinado al Organismo Público Descentralizado Servicios de Salud Jalisco. Dicho Instituto tendrá las funciones que le sean otorgadas por la presente ley y las demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 15.
 
-Al Instituto jalisciense de Salud Mental le corresponde:
+Al Instituto Jalisciense de Salud Mental le corresponde:
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 I. Elaborar, conforme a las políticas dictadas por la Secretaría de Salud, y dentro del marco de los sistemas nacional y estatal de salud, su programa anual de trabajo;
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 II. Diseñar y evaluar políticas de prevención y atención integral en materia de promoción y educación para la salud mental; atención integral médico-psiquiátrica, rehabilitación integral y participación ciudadana, así como analizar y asesorar los planes y proyectos de las acciones en la materia;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
 
 III. Sensibilizar a la sociedad sobre los trastornos mentales y las alternativas para la solución de sus problemas como son terapias, pláticas y orientación en los Módulos de Atención en Salud Mental, Centros Hospitalarios, Centros de Salud y demás espacios para la atención de su problema.
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+
 IV. Diseñar y ejecutar de manera permanente en los medios de difusión masiva y redes sociales, campañas de promoción y prevención para informar, motivar y orientar a la población sobre los elementos del concepto de salud mental, los estigmas y mitos imperantes, los diversos trastornos mentales existentes, los síntomas que se presentan, y las opciones de atención, en coordinación con las dependencias e instituciones competentes;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 8 DE OCTUBRE DE 2019)</small>
+
+V. Inducir la disminución en la incidencia del suicidio, mediante su prevención, atención y postvención para su erradicación, a través de las siguientes acciones:
+
+a) Elaborar estrategias integrales con enfoque coordinado, interdisciplinario y multisectorial para combatir la problemática del suicidio;
+
+b) Implementar acciones, considerando la participación interinstitucional con enfoque multidisciplinario, orientados a la prevención, atención, Postvención y erradicación del suicidio;
+
+c) Realizar tareas de sensibilización de la población, capacitación y profesionalización de recursos humanos, personal médico, paramédico y, en su caso, quienes atiendan a las personas en crisis, en instituciones gubernamentales y privadas para la detección de las personas con conductas suicidas, su prevención y atención. Postvención;
+
+d) Diseñar e implementar los procedimientos posteriores a una conducta suicida, para asistir y acompañar a las personas, familia o instituciones vinculadas a la persona que se privó la vida;
+
+e) Promover la integración, operación y funcionamiento de organismos consultivos en los que participen instituciones dedicadas a la investigación, y organizaciones civiles;
+
+f) Instrumentar acciones a través del uso de tecnologías de información y comunicación con la finalidad de proporcionar información precisa, objetiva y con base en criterios científicos, enfocada a la detección, la atención y la prevención de algún tipo de trastorno mental que induzca al suicidio;
+
+g) Elaborar y mantener actualizada una guía práctica para la atención del paciente con conducta suicida, garantizando los servicios del primer nivel;
+
+h) Diseñar un protocolo de intervención para los servicios de emergencia hospitalaria, considerando la coordinación entre las instituciones de servicios de salud del sector público y privado, línea telefónica de emergencia y otros ámbitos comunitarios intervinientes;
+
+i) Apoyar, asesorar, llevar registro, así como vigilancia de las instituciones, asociaciones, organizaciones no gubernamentales y profesionales del sector público y privado, que cumplan con los estándares establecidos por la autoridad de aplicación para la prevención, atención y Postvención del suicidio;
+
+j) Implementar un sistema de información estadística que contenga datos de los intentos, así como de suicidios cometidos en la entidad; y
+
+k) Promover los principios de equidad y no discriminación en el acceso y prestación a los servicios de salud de quienes presenten alguna conducta suicida.
 
 ### Capítulo IV. Del Consejo Estatal de Salud Mental
 
@@ -358,3 +408,11 @@ CUARTO. Dentro de los ciento veinte días a partir de la entrada en vigor de est
 QUINTO. En un plazo de doce meses el Sistema Único de Información en Salud del Estado de Jalisco deberá iniciar su funcionamiento, por lo que la Secretaría de Salud Jalisco emitirá los lineamientos para su establecimiento, así como para mantenerlo actualizado.
 
 SEXTO. El Consejo Estatal y sus consejeros seguirán en funciones y con las atribuciones contenidas en los artículos 7, 9 y 12 de la Ley de Prevención y Combate de la Obesidad, Sobrepeso y Trastornos de la Conducta Alimenticia del Estado de Jalisco. El Ejecutivo del Estado deberá con noventa días, expedir la normativa que corresponda la permanencia y funcionamiento.
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 27347/LXII/19, QUE REFORMA EL ARTÍCULO 8°, ADICIONANDO LAS FRACCIONES V, VI, VII, Y VIII, RECORRIENDO EL ORDEN DE LA FRACCIÓN SUBSECUENTE, Y ADICIONA LA FRACCIÓN V, DEL ARTÍCULO 15 DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE JALISCO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
