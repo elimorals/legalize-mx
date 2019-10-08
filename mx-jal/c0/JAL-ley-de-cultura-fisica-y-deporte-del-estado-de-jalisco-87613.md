@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2019-07-27"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -257,9 +257,11 @@ VII. Infraestructura de instalaciones; y
 
 VIII. Bases generales para el otorgamiento del Premio al Mérito Deportivo, que se entregará anualmente, de acuerdo a lo que establezca el reglamento de la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 20.
 
-La elaboración del programa estatal será responsabilidad del Code Jalisco, conforme a lo dispuesto en el Plan Estatal de Desarrollo del Estado, así como considerando las opiniones de los integrantes del sistema estatal y se incluirán los eventos y competencias que organice o en que participe el Estado.
+La elaboración del programa estatal será responsabilidad del Code Jalisco, conforme a lo dispuesto en el Plan Estatal de Desarrollo y Gobernanza, así como considerando las opciones de los integrantes del sistema estatal y se incluirán los eventos y competencias que organice o en que participe el Estado.
 
 En el reglamento de la presente ley se establecerán los lineamientos a partir de los cuales participarán las dependencias que forman parte del sistema estatal, para definir los criterios, objetivos, acciones y metas respecto a cada uno de los temas dentro del ámbito de su competencia.
 
@@ -775,7 +777,7 @@ I. Actividad física: Ejercicio o movimiento del cuerpo humano que se realiza pa
 
 II. Evento deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas conforme a las normas establecidas por éstas y por los organismos rectores;
 
-III. Evento deportivo masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el numero mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+III. Evento deportivo masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
 
 IV. Evento deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo; y
 
@@ -1080,3 +1082,9 @@ P.O. 27 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27314/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA; LA LEY DE ATENCIÓN A LA JUVENTUD; LEY DE BENEMÉRITOS, LEY DE BIBLIOTECAS; LEY DE FOMENTO A LA CULTURA; LEY DE CULTURA FÍSICA Y DEPORTE, TODAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27350/LXII/19 QUE REFORMA EL ARTÍCULO 20 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
