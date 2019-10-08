@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-tecnologico-jose-mario-molina-116227
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-23"
-last_updated: "2018-09-25"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en el número 17 de la Sección III, del Periódico Oficial del Estado de Jalisco el martes 23 de agosto de 2016.
 
@@ -159,7 +159,9 @@ I. El Secretario de Innovación, Ciencia y Tecnología, quien la presidirá;
 
 II. Ocho vocales, que son los siguientes:
 
-a) El Secretario de Planeación, Administración y Finanzas;
+> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+a) El Secretario de Administración;
 
 b) El Secretario de Desarrollo Económico;
 
@@ -888,3 +890,9 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26928/LXI/18 QUE REFORMA LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y ENRÍQUEZ Y LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27348/LXII/19 QUE REFORMA LOS ARTÍCULOS (SIC) 11, FRACCIÓN II, INCISO A), DE LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y HENRÍQUEZ".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
