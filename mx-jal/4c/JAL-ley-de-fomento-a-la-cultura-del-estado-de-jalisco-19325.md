@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2019-07-27"
+last_updated: "2019-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2000.
 
@@ -113,7 +113,9 @@ El Estado y los ayuntamientos promoverán los medios para la difusión y el desa
 
 Para los efectos de esta ley, se entiende por:
 
-I. Secretaría: La Secretaría de Cultura del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2019)</small>
+
+I. Secretaría: La Secretaría de Cultura;
 
 II. Sistema: El Sistema Estatal de Cultura;
 
@@ -1158,3 +1160,9 @@ P.O. 27 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27314/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA; LA LEY DE ATENCIÓN A LA JUVENTUD; LEY DE BENEMÉRITOS; LEY DE BIBLIOTECAS; LEY DE FOMENTO A LA CULTURA; LEY DE CULTURA FÍSICA Y DEPORTE, TODAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 8 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27349/LXII/19 QUE REFORMA EL ARTÍCULO 3 DE LA LEY DEL FOMENTO A LA CULTURA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
