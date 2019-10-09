@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2018-12-07"
+last_updated: "2019-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -1883,13 +1883,21 @@ Lo anterior, con excepción de los órganos jurisdiccionales de nueva creación,
 
 Los órganos jurisdiccionales que concluyan funciones antes de la fecha programada para su inspección ordinaria deberán rendir un informe de conclusión, que abarque el periodo no inspeccionado. Dicho informe contendrá aspectos similares a los del informe circunstanciado y deberá rendirse el último día en que el órgano jurisdiccional concluya funciones, con las formalidades señaladas en el artículo 236 de este Acuerdo.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+
+Tratándose de los Plenos de Circuito, la segunda etapa se llevará a cabo, a través de visita a distancia.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 234.
 
-La Comisión de Vigilancia acordará la aprobación de los formatos para la práctica de las visitas físicas, así como para la rendición del informe circunstanciado. Las visitas ordinarias se efectuarán conforme a dichos formatos. Los Visitadores Judiciales "B" se ceñirán estrictamente a su contenido. El Visitador General podrá proponer a la Comisión de Vigilancia razonadamente, la modificación de los formatos antes señalados.
+La Comisión de Vigilancia acordará la aprobación de los formatos para la práctica de las visitas físicas y a distancia, así como para la rendición del informe circunstanciado. Las visitas ordinarias se efectuarán conforme a dichos formatos. Los Visitadores Judiciales "B" se ceñirán estrictamente a su contenido. El Visitador General podrá proponer a la Comisión de Vigilancia razonadamente, la modificación de los formatos antes señalados.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 235.
 
-El Visitador General, de conformidad con el programa que elabore para la práctica de visitas físicas de inspección, fijará el periodo respecto del cual se deberán rendir los informes circunstanciados, procurando que éste no sea menor de cinco meses ni mayor de seis, contado a partir de la fecha en que inició la última visita física de inspección practicada al órgano jurisdiccional.
+El Visitador General, de conformidad con el programa que elabore para la práctica de las visitas físicas y a distancia, fijará el periodo respecto del cual deberán rendirse los informes circunstanciados, procurando que dicho periodo no sea menor de cinco meses ni mayor de seis, contado a partir del día siguiente a la conclusión del periodo que comprendió la visita previa practicada al órgano jurisdiccional.
 
 ###### Artículo 236.
 
@@ -1905,9 +1913,11 @@ III. El informe circunstanciado deberá rendirse conforme a los formatos acordad
 
 IV. Del informe y de las constancias que lo integran se imprimirá un tanto con sus respectivas relaciones, el que permanecerá en el órgano jurisdiccional para su posible consulta, y otro sin relaciones que se remitirá, ya sea por mensajería o bien se entregará de manera personal, a la Visitaduría Judicial para los efectos legales conducentes. Los documentos impresos serán firmados por el titular del órgano jurisdiccional, el presidente en caso de tribunal Colegiado de Circuito o Pleno de Circuito, el Juez de Despacho del Centro de Justicia Penal Federal, o el encargado del despacho, según corresponda, y por un secretario o asistente de constancia y registro que certifique y dé fe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 237.
 
-Las visitas físicas de inspección durarán, hasta:
+Las visitas físicas o a distancia, durarán hasta:
 
 I. Dos días para Plenos de Circuito;
 
@@ -1931,23 +1941,29 @@ V. Dos días para las unidades de notificadores comunes.
 
 El Visitador General podrá autorizar la modificación de los plazos y horario señalados, siempre que exista causa justificada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 238.
 
-Las visitas físicas se efectuarán en días y horas hábiles, a menos que sea imprescindible practicarlas aun en días y horas inhábiles. En este último supuesto se requerirá de la autorización del Visitador General y se harán constar en el acta las causas excepcionales que ameriten la medida.
+Las visitas físicas y a distancia se efectuarán en días y horas hábiles, a menos que sea imprescindible practicarlas aun en días y horas inhábiles. En este último supuesto se requerirá de la autorización del Visitador General y se harán constar en el acta las causas excepcionales que ameriten la medida.
 
 Para los efectos del párrafo anterior, se entenderán como días hábiles todos los del año, con excepción de aquellos que establece el artículo 5 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo. Como horas hábiles se entenderán las comprendidas entre las 9:00 a 15:00 y de 16:00 a 18:00 horas.
 
 El titular del órgano jurisdiccional, a propuesta del Visitador Judicial "B", designará a los servidores públicos necesarios para el auxilio en la práctica de la inspección, quienes permanecerán en dicho órgano, y en el caso de los Centros de Justicia Penal Federal, la designación le corresponderá al Administrador.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 239.
 
-El Visitador General elaborará un programa y calendario de las visitas físicas en el que proveerá lo necesario para que se lleven a cabo en el transcurso del año. El programa se presentará al titular de la Secretaría Ejecutiva de Vigilancia, a efecto de que realice el sorteo que señala el artículo 100 de la Ley Orgánica.
+El Visitador General elaborará un programa y calendario de las visitas físicas y a distancia en el que proveerá lo necesario para que se lleven a cabo en el transcurso del año. El programa se presentará al titular de la Secretaría Ejecutiva de Vigilancia, a efecto de que realice el sorteo que señala el artículo 100 de la Ley Orgánica.
 
-Una vez notificadas a la Comisión de Vigilancia, las fechas en que se realizarán las visitas físicas de inspección no se variarán, a no ser que exista causa justificada para ello, a juicio del Visitador General, quien en todo caso aprobará el cambio y lo informará a la Comisión de Vigilancia.
+Una vez notificadas a la Comisión de Vigilancia, las fechas en que se realizarán las visitas ordinarias de inspección no se variarán, a no ser que exista causa justificada para ello, a juicio del Visitador General, quien en todo caso aprobará el cambio y lo informará a la citada Comisión.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 240.
 
-Para efectos del artículo 100 de la Ley Orgánica, el titular de la Secretaría Ejecutiva de Vigilancia sorteará entre los Visitadores Judiciales "B" la práctica de las visitas físicas de inspección a los órganos jurisdiccionales y Centros de Justicia Penal Federal, de conformidad con el programa elaborado por el Visitador General. Al efectuar el sorteo, el titular de dicha Secretaría tendrá en cuenta que ningún Visitador podrá visitar el mismo órgano jurisdiccional o Centro de Justicia Penal Federal el año siguiente.
+Para efectos del artículo 100 de la Ley Orgánica, el titular de la Secretaria Ejecutiva de Vigilancia sorteará entre los Visitadores Judiciales "B" la práctica de visitas ordinarias de inspección a los órganos jurisdiccionales y Centros de Justicia Penal Federal, de conformidad con el programa elaborado por el Visitador General. Al efectuar el sorteo, el titular de dicha Secretaría tendrá en cuenta que ningún Visitador podrá visitar el mismo órgano jurisdiccional o Centro de Justicia Penal Federal el año siguiente.
 
 ###### Artículo 241.
 
@@ -2003,9 +2019,11 @@ En los Centros de Justicia Penal Federal, el Administrador, por lo que correspon
 
 El Visitador Judicial "B" pedirá la lista del personal del órgano jurisdiccional y, en su caso, de la Administración del Centro de Justicia Penal Federal, para comprobar su asistencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 252.
 
-Las visitas físicas se sujetarán a lo siguiente:
+Las visitas físicas y a distancia se sujetarán a lo siguiente:
 
 I. El periodo sujeto a revisión iniciará al día natural siguiente de aquel en que se haya cerrado el lapso que abarcó la inspección inmediata anterior;
 
@@ -2032,6 +2050,28 @@ De toda visita física se levantará acta circunstanciada, de acuerdo al formato
 El acta se levantará electrónicamente, imprimiéndose un tanto que se quedará en el órgano jurisdiccional y, en su caso, en la Administración del Centro de Justicia Penal Federal.
 
 El acta se remitirá electrónicamente con Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) a la Visitaduría Judicial y a la Secretaría Ejecutiva de Vigilancia, para los efectos conducentes.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO, D.O.F. 9 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 255 Bis.
+
+En la práctica de las visitas a distancia a Plenos de Circuito, se procederá conforme a lo siguiente:
+
+I. El Visitador General enviará con oportunidad al presidente del Pleno de Circuito, el oficio en el que informará la práctica de la visita a distancia. El aviso deberá señalar con precisión, el periodo que comprende la inspección, la fecha en que ésta iniciará, su duración, el nombre del Visitador Judicial "B" que la practicará, así como la forma y medios de la presentación del informe inicial que deberá rendir previo a la visita a distancia;
+
+II. El presidente del Pleno de Circuito deberá rendir el informe inicial dentro de los cinco días hábiles siguientes a la conclusión del periodo a inspeccionar. El Visitador General podrá modificar dicho plazo, cuando exista causa justificada para ello.
+
+El informe inicial será rendido con precisión, bajo protesta de decir verdad, y se remitirá electrónicamente, a través del Sistema Integral para la Práctica y Procesamiento de Visitas, con la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) del presidente del Pleno de Circuito y del secretario encargado de la visita. La información que se presente, se sujetará estrictamente a los formatos acordados por la Comisión de Vigilancia;
+
+III. La visita a distancia dará inicio en la fecha precisada en el oficio respectivo, y el Visitador Judicial "B" procederá a la verificación y complementación de la información proporcionada por el presidente del Pleno de Circuito;
+
+IV. Concluido lo anterior, el Visitador Judicial "B" levantará un acta circunstanciada de acuerdo al formato aprobado por la Comisión de Vigilancia y la dará a conocer al presidente del Pleno de Circuito para que se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga. Para esto último contará con un término máximo de tres horas. En el acta se asentará la hora y fecha tanto del momento en que se da a conocer su contenido, como el del envío de las manifestaciones relativas; y
+
+V. Una vez recibidas las manifestaciones o vencido el término para tal efecto, se procederá de inmediato a la firma y cierre del acta, asentándose la fecha y hora en que ello ocurra.
+
+El archivo que contenga el acta, se firmará electrónicamente con la Firma Electrónica Certificada del Poder Judicial de la Federación (FIREL) del Visitador Judicial "B", del presidente del Pleno de Circuito y del secretario encargado de atender la visita. Finalmente, se remitirá a la Visitaduría Judicial y a la Secretaría Ejecutiva de Vigilancia, a través del Sistema Integral para la Práctica y Procesamiento de Visitas, para los efectos conducentes; una copia impresa del acta se quedará en el Pleno de Circuito.
+
+Las cuestiones relativas a las visitas a distancia, que no se encuentren reguladas en este Acuerdo, serán resueltas, razonadamente, por el Visitador General, de oficio o a petición de parte.
 
 ###### Artículo 256.
 
@@ -2754,3 +2794,13 @@ NOVENO. Se abroga el Acuerdo General número 13/1997, del Pleno del Consejo de l
 DÉCIMO. Desde la entrada en vigor del presente Acuerdo y hasta el treinta de noviembre de dos mil dieciocho, las referencias que se hagan en este instrumento normativo al Juez de Despacho y Administrador de los Centros de Justicia Penal Federal, se entenderán hechas al Juez de Distrito que funja como Administrador.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de veintiocho de noviembre de dos mil dieciocho, en lo general por mayoría de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Jorge Antonio Cruz Ramos, Rosa Elena González Tirado, Alfonso Pérez Daza y J. Guadalupe Tafoya Hernández; con el voto en contra de la Consejera Martha María del Carmen Hernández Álvarez, quien anunció voto particular y aprobado en lo particular, con el voto en contra del Consejero Alfonso Pérez Daza respecto de algunos artículos.- Ciudad de México, a treinta de noviembre de dos mil dieciocho.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, EN RELACIÓN CON LA PRÁCTICA DE VISITAS A DISTANCIA A LOS PLENOS DE CIRCUITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
