@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2019-09-11"
+last_updated: "2019-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2019.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -311,7 +311,9 @@ El territorio del Estado de Chiapas es el que posee desde que forma parte de los
 
 125. Zinacantán.
 
-Los asuntos inherentes a los límites territoriales del Estado y sus Municipios, se resolverán por acuerdo del titular del Poder Ejecutivo, con la aprobación del Congreso del Estado y de cuando menos la mitad más uno de los Ayuntamientos.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+Los asuntos inherentes a los límites territoriales de los Municipios del Estado, se resolverán por acuerdo del titular del Poder Ejecutivo, con la aprobación del Congreso del Estado y de cuando menos la mitad más uno de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1237,13 +1239,13 @@ III.- Tener 30 años cumplidos al día de la elección.
 
 IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso o haberse separado ocho años antes de la fecha de la elección o, en su caso, designación.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2019)</small>
 
-V.- No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal, o renunciar o estar separado de cualquiera de ellos. En los casos de los cargos de elección popular, obtener la licencia respectiva antes de ocupar el cargo.
+V.- No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal, o renunciar o estar separado de cualquiera de ellos cuando menos ciento veinte días antes del día de la elección. En los casos de los cargos de elección popular, obtener la licencia respectiva en el plazo antes señalado.
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2019)</small>
 
-VI.- No haber ocupado anteriormente el cargo de Gobernador o Gobernadora por elección popular; lo anterior se exceptúa, cuando se trate del mismo periodo por el cual ejerció el cargo, en cuyo caso, no tendrá que rendir la protesta a que se refiere el artículo 54 de esta Constitución.
+VI.- No haber ocupado anteriormente el cargo de Gobernador o Gobernadora por elección popular.
 
 VII. No haber ocupado en el periodo inmediato anterior la Titularidad del Ejecutivo de manera provisional, interina o sustituta.
 
@@ -1881,7 +1883,9 @@ Los ayuntamientos tendrán una duración de tres años; serán asambleas deliber
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender ayuntamientos, declarar su desaparición y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves establecidas en la Ley, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-En caso de renuncia o falta definitiva de algunos de los miembros del ayuntamiento, éste enviará al Congreso del Estado una propuesta de entre sus miembros que quedaren, para hacer las sustituciones correspondientes; el Congreso del Estado designará de la propuesta que envíe el Ayuntamiento. En todos los casos esta designación garantizará que la o el sustituto, sea del mismo género a quien sustituye.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+En caso de renuncia o falta definitiva de algunos de los miembros del Ayuntamiento, el Congreso del Estado designará, de entre los que quedaren, las sustituciones correspondientes, debiendo observar las reglas y el principio de paridad entre los géneros establecidos en la Constitución.
 
 En caso de declararse desaparecido un ayuntamiento o por renuncia o falta definitiva de la mayoría de sus miembros, el Congreso del Estado designará un Concejo Municipal integrado por los miembros que establezca la ley, que deberán cumplir los mismos requisitos señalados para ser miembro de un Ayuntamiento. Se deberá asegurar que en su composición se cumpla con los principios de equidad de género con los que fue integrado el ayuntamiento constitucional electo.
 
@@ -4598,3 +4602,11 @@ Los Órganos Jurisdiccionales Locales con competencia en el Municipio de Siltepe
 ###### ARTÍCULO DÉCIMO QUINTO.
 
 En un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente decreto, la Secretaría de Hacienda deberá gestionar ante el Instituto Nacional de Estadística y Geografía el registro de nombre y la georeferenciación del nuevo municipio Honduras de la Sierra, conforme al Marco Geoestadístico Nacional a fin de obtener la clave municipal correspondiente.
+
+P.O. 9 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 003 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
