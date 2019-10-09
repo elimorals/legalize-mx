@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-para-el-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-17"
-last_updated: "2019-06-05"
+last_updated: "2019-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el viernes 17 de noviembre de 2017.
 
@@ -80,6 +82,10 @@ XIII. Ley: La Ley de Fomento a la Micro, Pequeña y Mediana Empresa para el Esta
 XIV. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, de los sectores industrial, comercial y de servicios que cumplan con lo establecido en la Ley Para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa, en el Artículo 3, Fracción III.;
 
 XV. Organizaciones Empresariales: Las Cámaras Empresariales y sus Confederaciones en su carácter de organismos de interés público; los Sindicatos de Patrones, así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+XV Bis. Premio: El Premio Estatal del Emprendedor;
 
 XVI. Red Estatal de Incubadoras: A la integración de una Red Estatal de Incubadoras de nuevas empresas, con el fin de apoyar el desarrollo de las MIPYMES, con enfoque prioritario a los proyectos de mayor valor agregado, innovación y contenido tecnológico;
 
@@ -365,9 +371,17 @@ VII. Recomendar mecanismos y esquemas que faciliten el acceso al financiamiento 
 
 VIII. Proponer a la Comisión Estatal de Mejora Regulatoria acciones que fortalezcan e impulsen el Sistema de Apertura de Empresas (SARE) para las micro, pequeñas y medianas empresas en el Estado de Nuevo León, de conformidad con la Ley para la Mejora Regulatoria y la Simplificación Administrativa del Estado de Nuevo León;
 
-IX. Promover que el Premio Estatal de Competitividad de las MIPYMES reconozca de manera natural a las empresas que se hayan destacado en los términos que el mismo Consejo determine; y
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2019)</small>
 
-X. Discutir y analizar las propuestas que realicen los Municipios y el sector privado para el desarrollo y cumplimiento de los objetivos de la presente Ley.
+IX. Promover que el Premio Estatal de Competitividad de las MIPYMES reconozca de manera natural a las empresas que se hayan destacado en los términos que el mismo Consejo determine;
+
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+X. Discutir y analizar las propuestas que realicen los Municipios y el sector privado para el desarrollo y cumplimiento de los objetivos de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+XI. Emitir la convocatoria y nombrar al jurado para la entrega del Premio Estatal del Emprendedor.
 
 ###### Artículo 22.
 
@@ -408,6 +422,70 @@ Cuando el Titular del Poder Ejecutivo asista a las sesiones del Consejo, fungir�
 ###### Artículo 27.
 
 De toda empresa que reciba algún tipo de apoyo de los estipulados en la presente Ley, o de aquellos que deriven de los programas o acciones de fomento a las MIPYMES en el estado, se llevará un registro ante la Secretaría, en el formato que establezca el reglamento de la presente Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO TERCERO BIS. DEL PREMIO ESTATAL DEL EMPRENDEDOR
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 27 Bis.
+
+El Premio Estatal del Emprendedor es el máximo reconocimiento que anualmente otorgará el Gobierno del Estado de Nuevo León que tiene por objeto reconocer a las ideas y modelos de negocios más innovadores impulsados por emprendedores del estado que busquen contribuir a la generación de nuevos empleos en la entidad.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 27 Bis 1.
+
+La convocatoria para el proceso de participación, selección y entrega del Premio será emitida por el Consejo durante el mes de septiembre de cada año, cuyas bases deberán contener como mínimo la siguiente información:
+
+I. Requisitos de participación, en los que se describan los documentos, las particularidades y las cualidades necesarias de los proyectos a evaluar;
+
+II. Fecha de entrega, la cual deberá ser durante el mes de Diciembre;
+
+III. Plazos para entrega de documentación;
+
+IV. Categorías de participación en las que se incluyan como mínimo: “Mujer Emprendedora”, “Idea Innovadora”, “De Trayectoria Emprendedora”, “De Emprendimiento de Alto Impacto”;
+
+V. Beneficios que obtendrá el ganador, lo (sic) cuales deberán incluir el monto de premiación, el reconocimiento y una medalla alusiva;
+
+VI. Criterios y procesos de evaluación; y
+
+VII. Mecanismos para atender las inconformidades.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 27 Bis 2.
+
+Corresponde al Consejo la selección de no menos de 3 y no más de 7 miembros del jurado para la entrega del Premio Estatal del Emprendedor.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 27 Bis 3.
+
+Los integrantes del jurado deberán reunir los siguientes requisitos:
+
+I. Ser ciudadanos del Estado de Nuevo León;
+
+II. No desempeñar ningún cargo público en ningún poder a nivel federal, estatal o municipal;
+
+III. Tener un modo honesto de vivir;
+
+IV. Contar con experiencia en áreas de innovación y emprendimiento; y
+
+V. Desempeñar el cargo de forma honorífica.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 27 Bis 4.
+
+Una vez entregado el premio de carácter económico, así como el reconocimiento y la medalla alusiva, la Secretaría elaborará una semblanza de los ganadores y la publicará en el Portal de Internet Oficial del Gobierno del Estado, en el Periódico Oficial del Estado y en al menos uno de los diarios de mayor circulación en la entidad.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 27 Bis 5.
+
+El Premio Estatal del Emprendedor se financiará del presupuesto destinado a la Secretaría de Economía y Trabajo, en el ejercicio fiscal correspondiente.
 
 ### CAPÍTULO CUARTO. DE LAS INCONFORMIDADES
 
@@ -478,3 +556,9 @@ P.O. 5 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 131. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN I DEL ARTÍCULO 7, LAS FRACCIONES V Y VI DEL ARTÍCULO 12 Y EL ARTÍCULO 13, ASÍ COMO POR ADICIÓN DE UNA FRACCIÓN VII DEL ARTÍCULO 12 TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES XXII Y XXIII Y POR ADICIÓN DE LA FRACCIÓN XXIV TODOS DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 167. LA LXXV LEGISLATURA AL CONGRESO DEL ESTADO DE NUEVO LEÓN, TIENE POR RECIBIDAS EN TIEMPO Y FORMA, LAS OBSERVACIONES AL DECRETO 134, POR EL CUAL SE REFORMA LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor el día 1° de Enero del año 2020.
