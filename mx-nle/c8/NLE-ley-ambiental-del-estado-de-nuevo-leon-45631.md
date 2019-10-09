@@ -4,7 +4,7 @@ identifier: "NLE-ley-ambiental-del-estado-de-nuevo-leon-45631"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-15"
-last_updated: "2019-05-22"
+last_updated: "2019-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 15 de julio de 2005.
 
@@ -3129,7 +3129,7 @@ La Secretaría reunirá informes y documentos relevantes que resulten de las act
 
 ### CAPÍTULO I. INSPECCION Y VIGILANCIA
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 205.
 
@@ -3265,13 +3265,21 @@ Quien reciba información ambiental de las autoridades competentes, será respon
 
 ###### Artículo 216.
 
-La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, conforme a las disposiciones de esta Ley, podrán realizar visitas de inspección para comprobar el cumplimiento de la misma, sus Reglamentos, Normas Oficiales Mexicanas, Normas Ambientales Estatales y demás ordenamientos aplicables en la materia. En su caso, podrán ordenar y ejecutar las medidas de seguridad y sanciones previstas en la presente Ley.
+La Secretaría y los Municipios, en el ámbito de sus respectivas competencias, conforme a las disposiciones de esta Ley realizarán visitas de inspección periódicas para comprobar el cumplimiento de la misma, sus Reglamentos, Normas Oficiales Mexicanas, Normas Ambientales Estatales y demás ordenamientos aplicables en la materia, incluyendo todas aquellas disposiciones que se desprendan de los acuerdos o convenios que se suscriban entre la Federación, el Estado y/o los Municipios, que tiendan a la preservación del equilibrio ecológico y a la prevención y disminución de la contaminación ambiental. En su caso, podrán ordenar y ejecutar las medidas de seguridad y sanciones previstas en la presente Ley.
 
 ###### Artículo 217.
 
 Las visitas de inspección podrán ser ordinarias y extraordinarias. Las ordinarias se efectuarán en días y horas hábiles y las segundas en cualquier tiempo. Se consideran días hábiles todos a excepción de sábado, domingo, días festivos por ley y los que por Decreto o Acuerdo del Ejecutivo del Estado, se declaren como inhábiles. Se entiende por horas hábiles las que medien desde las siete a las diecinueve horas.
 
-Iniciada una diligencia en horas hábiles podrá concluirse y será válida aun cuando se actúe en horas inhábiles sin necesidad de determinación especial de la autoridad competente; de igual forma podrá habilitar los días y las horas inhábiles para actuar o practicar diligencias, cuando hubiere causa urgente que las amerite, expresando cuál sea ésta y las diligencias que hayan de practicarse.
+> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+Iniciada una diligencia en horas hábiles podrá concluirse y será válida aun cuando se actúe en horas inhábiles sin necesidad de determinación especial de la autoridad competente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2019)</small>
+
+En aquellos casos en que medie una situación de emergencia o urgencia, la autoridad competente podrá efectuar debidamente fundados y motivados los actos y diligencias que sean necesarios sin sujetarse a los requisitos y formalidades del procedimiento previstos en esta ley, respetando en todo caso las garantías individuales de los particulares.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 9 DE OCTUBRE DE 2019)</small>
 
 En materia procesal, será aplicado supletoriamente en lo que no se oponga a esta Ley, el Código de Procedimientos Civiles del Estado de Nuevo León.
 
@@ -4002,3 +4010,17 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Las Secretarías tendrán un plazo de 90 días naturales para la adecuación de sus Reglamentos y demás disposiciones normativas en razón de lo reformado por el presente Decreto.
 
 Tercero.- Las acciones que realicen las dependencias de la Administración Pública del Estado para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 9 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM.162. SE REFORMA EL ARTÍCULO 216 Y EL ARTÍCULO 217 DE LA LEY AMBIENTAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al inicio del año fiscal posterior al que se publique en el Periódico Oficial del Estado.
+
+Segundo.- El Titular del Ejecutivo del Estado, así como los Presidentes Municipales, deberán de prever en sus proyectos de presupuesto de egresos para el ejercicio fiscal 2020, la partida presupuestal para dar cumplimiento al presente Decreto
+
+Tercero.- Para dar cumplimiento al presente Decreto, el Titular del Ejecutivo del Estado, dispondrá de un lapso de noventa días posteriores a la publicación del presente, para la modificación de sus disposiciones normativas.
+
+Cuarto.- Para dar cumplimiento al presente Decreto, los Municipios del Estado dispondrán de un lapso de noventa días posteriores a la publicación del presente, para la modificación de sus disposiciones normativas.
+
+Quinto.- Se derogan las disposiciones normativas que contravengan el presente Decreto.
