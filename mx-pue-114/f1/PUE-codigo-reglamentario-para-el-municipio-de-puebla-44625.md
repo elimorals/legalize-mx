@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2019-06-07"
+last_updated: "2019-10-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -19077,6 +19077,10 @@ XXXVII. Presidente Municipal: El Presidente Constitucional del Honorable Ayuntam
 
 XXXVIII. Propietario: Persona física o jurídica que tiene la propiedad jurídica de un bien inmueble o vehículo en el que se pretenda instalar un anuncio y su estructura;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+XXXVIII Bis. Publicidad sexista: Aquella que presenta hechos acciones, símbolos o expresiones basadas en estereotipos de los roles de género que atribuyen o asocien características denigrantes de exclusión, de sumisión, de racismo, de burla, de animadversión o cualquier otra forma de discriminación hacia el género femenino;
+
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XXXIX. Responsable Solidario: Toda persona física o jurídica que se obliga con el titular, a responder de las obligaciones derivadas de la instalación, modificación y/o retiro de un anuncio;
@@ -19092,6 +19096,14 @@ XLI. Tapial: Elemento de seguridad que sirve para cubrir y proteger perimetralme
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XLII. Titular: La persona física o jurídica debidamente acreditada y a cuyo nombre se expide la Licencia, Permiso o Permiso Publicitario;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+XLII Bis. Violencia Mediática: Publicación o difusión de mensajes e imágenes estereotipados a través de algún anuncio, que de manera directa o indirecta victimice a las mujeres asignándoles responsabilidad de los sucesos que le acontecieron como víctimas, promueva su explotación, discrimine, humille o atente contra la dignidad de las mujeres, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad.
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+XLII Ter. Violencia Simbólica: Tipo de violencia directa y no física que conlleva a una imposición del poder y autoridad a través de manifestaciones sutiles como imágenes o símbolos, que impiden oponer resistencia;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -19167,7 +19179,9 @@ IX. Establecer los lineamientos para la generación de placas o folios de identi
 
 X. Establecer los lineamientos para la generación de Zonas Publicitarias en el Municipio;
 
-XI. Establecer y difundir las especificaciones que debe tener cada anuncio nuevo, estableciendo, en su caso, periodos de transición hasta uniformar las características de los mismos;
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2019)</small>
+
+XI. Establecer y difundir las especificaciones que debe tener cada anuncio nuevo, estableciendo, en su caso, períodos de transición hasta uniformar las características de los mismos y cerciorase de que no contengan publicidad sexista, violencia mediática, simbólica o incite cualquier otro tipo de violencia contra las mujeres;
 
 XII. Proponer a la Secretaría de Gestión los instrumentos necesarios para coordinar y homologar programas en materia de anuncios con los Municipios conurbanos;
 
@@ -19292,6 +19306,12 @@ La Agencia contará con un Padrón de Anuncios, el cual tiene por objeto proporc
 ###### Artículo 1258.
 
 En la construcción, instalación, colocación, fijación, modificación, ampliación, conservación, mantenimiento, reparación, retiro y/o demolición de las estructuras de anuncios, así como en la distribución de éstas, deberá observarse lo dispuesto en el presente Capítulo, sin perjuicio del cumplimiento de la normatividad aplicable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 1258 Bis.
+
+Los anuncios (sic) que se refiere el presente capítulo, independientemente de su tipo, podrán contener la información gráfica y escrita necesaria para publicar el mensaje que se pretende difundir, en el cual se prohíbe que contenga violencia mediática o simbólica y que incite a cualquier tipo de violencia contra las mujeres, promuevan o provoquen conductas ilícitas o faltas administrativas, discriminación de razas, grupos o condición social, que contengan mensajes, lenguajes o estereotipos sexistas, degradantes o peyorativos sobre las mujeres o discriminatorios; que atenten contra los derechos humanos motivada por el origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas y que contengan ideas ofensivas o denigrantes y/o promuevan la violencia contra niños, niñas, adolescentes, hombres y mujeres.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
@@ -38250,3 +38270,11 @@ P.O. 7 DE JUNIO DE 2019.
 PRIMERO. El presente Dictamen entrará en vigor un día después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
+
+P.O. 9 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA LOS ARTÍCULOS 1254 TER FRACCIÓN XI Y 1258 BIS, Y ADICIONA LAS FRACCIONES XXXVIII BIS, XLII BIS Y XLII TER AL ARTÍCULO 1254, TODOS DEL LIBRO TERCERO, CAPÍTULO 18 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. Las adiciones y reformas aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
