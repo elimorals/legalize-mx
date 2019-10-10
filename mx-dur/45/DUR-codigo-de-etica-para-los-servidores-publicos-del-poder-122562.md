@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-etica-para-los-servidores-publicos-del-poder-122562"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-07-02"
-last_updated: "2017-07-02"
+last_updated: "2019-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2019 (ABROGADO).
 
 Código publicado en el Número 53 del Periódico Oficial del Estado de Durango, el domingo 2 de julio de 2017.
 
@@ -492,3 +492,19 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. MARÍA DEL ROSARIO CASTRO LOZANO
 
 SECRETARIA DE CONTRALORÍA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO.- DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER EJECUTIVO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en (sic) Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se abroga el Código de Ética para los Servidores Públicos del Poder Ejecutivo del Estado de Durango y las Reglas de Integridad para el ejercicio de la función pública, publicados en el Periódico Oficial del Gobierno del Estado de Durango el 02 de julio de 2017.
+
+TERCERO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+CUARTO. Las dependencias y entidades deberán emitir sus respectivos Códigos de Conducta alineados al presente Código de Ética a más tardar el 31 de enero de 2020.
+
+QUINTO. La normativa que rige a los Comités, y los mecanismos de evaluación, seguirán vigentes hasta en (sic) se emitan las actualizaciones correspondientes.
