@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2019-04-20"
+last_updated: "2019-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "BCS"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
 
-Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 4 de Mayo de 2016.
+Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 4 de mayo de 2016.
 
 CARLOS MENDOZA DAVIS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
@@ -675,13 +675,13 @@ Para ser comisionado del Instituto, deberá reunir los requisitos que señala la
 
 La elección de los comisionados se ajustará a lo dispuesto por la Constitución Política del Estado, y por el siguiente procedimiento:
 
-I. El Congreso del Estado a través de la Comisión Permanente de Transparencia, emitirá una convocatoria pública, la cual se publicará durante cinco días consecutivos en el diario de mayor circulación en el Estado, y simultáneamente en la página de internet del Congreso del Estado y del Instituto, para que el Consejo Consultivo reciba las propuestas de aspirantes, dicha convocatoria deberá expedirse cuando menos con dos meses de anticipación a la fecha de la renovación de los comisionados.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 10 DE OCTUBRE DE 2019)</small>
+
+I. El Congreso del Estado a través de la Comisión Permanente de Transparencia y Anticorrupción, emitirá una convocatoria pública, la cual se publicará durante cinco días consecutivos en el diario de mayor circulación en el Estado, y simultáneamente en la página de internet del Congreso del Estado y del Instituto, para que el Consejo Consultivo reciba las propuestas de aspirantes, dicha convocatoria deberá expedirse cuando menos con dos meses de anticipación a la fecha de la renovación de los comisionados.
 
 En el caso de que se diera el supuesto de una vacante de comisionado, la publicación de la convocatoria se realizará posterior a los cinco días siguientes de la recepción por parte del Congreso del Estado, del aviso que al efecto haga el Instituto de la existencia de la vacante.
 
-> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2017)</small>
-
-En ambos casos esta convocatoria será extensiva para que las fracciones parlamentarias legalmente constituidas al interior del Congreso por conducto del Presidente de la Junta de Gobierno y Coordinación Política presenten una propuesta para integrar la terna. Lo anterior sin perjuicio, de que la Comisión de Transparencia les notifique mediante oficio de la emisión de la convocatoria respectiva. La Junta de Gobierno y Coordinación Política del Congreso del Estado propiciará los acuerdos parlamentarios para unificar las propuestas de las fracciones parlamentarias.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 10 DE OCTUBRE DE 2019)</small>
 
 La convocatoria a que hacen referencia los párrafos anteriores deberá contener como mínimo:
 
@@ -701,19 +701,25 @@ II. El Consejo Consultivo deberá revisar que los aspirantes reúnan los requisi
 
 En el caso de vacante, el Consejo Consultivo, remitirá la lista de los aspirantes que hubieren cumplido con los requisitos y los expedientes respectivos, a los cinco días siguientes de la fecha límite de revisión de los requisitos de elegibilidad.
 
-La Comisión de Transparencia, dentro de los cinco días siguientes a la recepción de la lista de aspirantes, con apoyo del Consejo Consultivo entrevistarán a los aspirantes, con el propósito de verificar la idoneidad del perfil, una vez hecho lo anterior, procederá al análisis y revisión de los expedientes de los aspirantes y se seleccionará a los que integrarán la terna, que a juicio de la comisión reúnan los requisitos y sean los más idóneos para ocupar el cargo de Comisionado, terna en la cual se deberá observar la integración que dispone la Constitución Política del Estado.
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+La Comisión de Transparencia y Anticorrupción, dentro de los cinco días siguientes a la recepción de la lista de aspirantes, con apoyo del Consejo Consultivo entrevistarán a los aspirantes, con el propósito de verificar la idoneidad del perfil, una vez hecho lo anterior, procederá al análisis y revisión de los expedientes de los aspirantes y se seleccionará a los que integrarán la terna, que a juicio de la comisión reúnan los requisitos y sean los más idóneos para ocupar el cargo de Comisionado
 
 Para efecto de las entrevistas a que se refiere el párrafo anterior, la Comisión de Transparencia extenderá la invitación a los integrantes de la Legislatura para que estén presentes y puedan participar en las entrevistas, si así lo desean.
 
-Llevado a cabo lo anterior, la Comisión de Transparencia, elaborará el dictamen correspondiente, el cual presentara ante el Pleno del Congreso del Estado.
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+Llevado a cabo lo anterior, la Comisión de Transparencia y Anticorrupción, elaborará el dictamen correspondiente, el cual presentará ante el Pleno del Congreso del Estado.
 
 En todo momento se garantizará la máxima publicidad del proceso y de los documentos que compongan los expedientes de los aspirantes.
 
-III. Una vez presentado el dictamen ante el Pleno, se llevará a cabo la votación por cédula conforme a lo dispuesto por la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur. n (sic) caso de que ninguno de los integrantes de la terna alcance la mayoría requerida, se realizará una segunda votación; si vuelve a no alcanzarse la mayoría requerida podrá suspenderse la votación hasta por un día o realizarse una tercera votación enseguida; si vuelve a no alcanzarse la mayoría requerida se instruirá a la Comisión de Transparencia elabore un nuevo dictamen observando el procedimiento previsto en esta Ley; y
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ABRIL DE 2017)</small>
+III. Una vez presentado el dictamen ante el Pleno, se llevará a cabo la votación por cédula conforme a lo dispuesto por la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur. En caso de que ninguno de los integrantes de la terna alcance la mayoría requerida, se realizará una segunda votación; si vuelve a no alcanzarse la mayoría requerida podrá suspenderse la votación hasta por un día o realizarse una tercera votación enseguida; si vuelve a no alcanzarse la mayoría requerida se instruirá a la Comisión de Transparencia y Anticorrupción elabore un nuevo dictamen observando el procedimiento previsto en esta Ley; y
 
-IV. Excepcionalmente en el caso de que el Consejo Consultivo no remita la lista de aspirantes en el plazo a que se refiere la fracción II de este artículo o el Consejo Consultivo no estuviere instalado o se hubiere disuelto, la Comisión de Transparencia realizará el procedimiento de elección de conformidad con el presente numeral, pudiendo ajustar los tiempos previstos en el presente artículo para llevar a cabo el procedimiento de elección del comisionado con anticipación a la conclusión del periodo del comisionado saliente o en su caso para cubrir la vacante por ausencia definitiva del comisionado.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 10 DE OCTUBRE DE 2019)</small>
+
+IV. Excepcionalmente en el caso de que el Consejo Consultivo no remita la lista de aspirantes en el plazo a que se refiere la fracción II de este artículo o el Consejo Consultivo no estuviere instalado o se hubiere disuelto, la Comisión de Transparencia y Anticorrupción realizará el procedimiento de elección de conformidad con el presente numeral, pudiendo ajustar los tiempos previstos en el presente artículo para llevar a cabo el procedimiento de elección del comisionado con anticipación a la conclusión del periodo del comisionado saliente o en su caso para cubrir la vacante por ausencia definitiva del comisionado.
 
 En el caso de que el Gobernador del Estado objetare al comisionado electo en uso de su facultad de veto prevista en la Constitución del Estado, el Congreso del Estado, procederá de nueva cuenta a realizar el procedimiento de elección de conformidad con el presente numeral, para lo cual podrán ajustarse y reducirse los plazos previstos para el debido cumplimiento del procedimiento, y elegir a los comisionados previo al vencimiento de la fecha en la que deban ser renovados o cubrirse la vacante por ausencia definitiva.
 
@@ -738,6 +744,10 @@ VI. Las demás que establezca el Reglamento Interior.
 ###### Artículo 47.
 
 Los comisionados del Instituto durarán en el cargo siete años y no podrán ser reelectos. El Comisionado Presidente será rotado cada dos años, y será electo por la mayoría de los integrantes del Instituto, pudiendo ser reelecto para un periodo inmediato por una sola ocasión.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+La rotación o reelección, en su caso, del Presidente, se realizará en sesión pública dentro de los primeros quince días del mes de diciembre del año que corresponda, debiendo entrar en funciones el día siguiente al de su elección. Dicha sesión deberá ser convocada, al menos con 10 días hábiles de anticipación
 
 ### Capítulo IV. De las Ausencias y Remuneración de los Comisionados
 
@@ -2830,3 +2840,21 @@ B.O. 20 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2640 SE ADICIONA UN PÁRRAFO DECIMOQUINTO RECORRIÉNDOSE LAS SUBSECUENTES A LA FRACCIÓN VIII DEL APARTADO B Y SE REFORMA EL INCISO F) DE LA FRACCIÓN VIII DEL APARTADO B, AMBOS DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 47 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrara en vigor el 1.o (sic) de enero de 2020;
+
+SEGUNDO.- Por única ocasión la rotación del Comisionado Presidente del Instituto de Transparencia y Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, que deberá llevarse a cabo en el mes de septiembre de 2021 para relevar en el cargo al M. en C. Conrado Mendoza Márquez, tendrá un carácter de Presidencia Interina con una duración de septiembre de 2021 a diciembre del mismo año, en cuya fecha se elegirá al nuevo Presidente, conforme al presente decreto.
+
+Quien haya ocupado el cargo en la Presidencia de forma interina en términos del párrafo que precede podrá ser electo o electa para un primer periodo de 2 años.
+
+B.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2642 SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
