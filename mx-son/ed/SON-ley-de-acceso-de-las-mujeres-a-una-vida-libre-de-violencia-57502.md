@@ -4,7 +4,7 @@ identifier: "SON-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5750
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-29"
-last_updated: "2019-06-06"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 29 de octubre de 2007.
 
@@ -87,7 +87,9 @@ IX.- Sistema Nacional.- El Sistema Nacional para Prevenir, Atender, Sancionar y 
 
 X.- Sistema Estatal.- El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
 
-XI.- Violencia contra las Mujeres.- Cualquier acción u omisión, que cause muerte, daño o sufrimiento psicológico, físico, patrimonial, económico o sexual en la mujer;
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+XI.- Violencia contra las Mujeres.- Cualquier acción u omisión, que cause muerte, daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, obstétrico y de los derechos reproductivos en la mujer;
 
 XII.- Modalidades de Violencia.- Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
 
@@ -115,17 +117,31 @@ III.- La violencia patrimonial.- Es cualquier acto u omisión que afecta la supe
 
 IV.- Violencia económica.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V.- La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto; y
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2019)</small>
 
-VI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+V.- La violencia sexual.- Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE OCTUBRE DE 2019)</small>
+
+VI.- Violencia Obstétrica.- Es toda acción u omisión por parte del personal de salud, que atenta contra el derecho a la no discriminación, a la salud, la integridad física, la igualdad y la privacidad, especialmente en lo que ve a la salud sexual, los derechos reproductivos de las mujeres durante el embarazo, el parto y el puerperio y su autonomía para ejercerlos de manera informada; así como el abuso de medicalización y patologización de los procesos naturales; trayendo consigo la pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y su sexualidad, un daño físico o psicológico, o la muerte de la madre o del producto;
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+VII.- Violencia de los derechos reproductivos.- Es toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, con relación al número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, así como los servicios de atención prenatal, y obstétricos de emergencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 10 DE OCTUBRE DE 2019)</small>
+
+VIII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO SEGUNDO. MODALIDADES DE LA VIOLENCIA EN CONTRA DE LAS MUJERES
 
 ### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 6.
 
-La violencia familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad, afinidad o civil, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+La violencia familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, obstétrica y sexual a las mujeres, dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad, afinidad o civil, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
 
 En lo relativo a la violencia familiar se aplicarán las disposiciones en esta materia reguladas en los Códigos Civil y de Procedimientos Civiles, Penal y de Procedimientos Penales para el Estado de Sonora.
 
@@ -177,7 +193,95 @@ El Estado y los ayuntamientos promoverán las acciones conducentes para prevenir
 
 Violencia feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado o Municipios y culminar en homicidio y otras formas de muerte violenta de mujeres, con perturbación social en un territorio determinado o la existencia de un agravio que impida el ejercicio pleno de los derechos humanos de las mujeres.
 
-### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
+### CAPÍTULO VII. DE LA VIOLENCIA OBSTÉTRICA
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 18 BIS.- Se consideran actos de violencia obstétrica, los siguientes:
+
+I.- La negativa, el retraso o la omisión injustificada de brindar atención médica oportuna y eficaz a las mujeres en el embarazo, parto, puerperio o en emergencias obstétricas;
+
+II.- El trato deshumanizado, denigrante, discriminatorio o negligente cuando una mujer solicita asesoramiento o requiere atención durante el embarazo, el parto o el puerperio;
+
+III.- Alterar el proceso natural del parto de bajo riesgo mediante técnicas de aceleración o de inducción al trabajo de parto normal, o la ruptura artificial de las membranas con el solo motivo de aprontar el parto;
+
+IV.- El uso irracional de procedimientos médicos como la episiotomía;
+
+V.- Practicar el parto por vía cesárea existiendo condiciones para el parto natural; sin obtener (sic)
+
+(sic) el consentimiento voluntario, expreso e informado de la mujer;
+
+VI.- Imponer de manera coercitiva o sin el consentimiento informado algún método anticonceptivo, ya sea temporal o permanente, especialmente durante la atención del parto;
+
+VII.- Negarse a administrar analgésicos cuando no existe impedimento médico para ello;
+
+VIII.- Obligar a la mujer a parir en una posición en específico, cuando existan los medios técnicos para que lo realice en la posición que ella elija;
+
+IX.- Obstaculizar sin causa médica justificada el apego precoz del recién nacido con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
+
+X.- Acosar o presionar psicológicamente o con el manejo del dolor a una mujer en labor de parto con el fin de inhibir la libre decisión de su maternidad o coaccionar para obtener su consentimiento;
+
+XI.- Negarse a proporcionar a la mujer información respecto de los procedimientos médicos y quirúrgicos, o manipular la información para obtener su consentimiento;
+
+XII.- Utilizar a la mujer como recurso didáctico sin su consentimiento y sin ningún respeto a su dignidad humana y derecho a la privacidad;
+
+XIII.- Retener a la mujer o al recién nacido en los centros de salud o instituciones análogas debido a su incapacidad de pago; y
+
+XIV.- Cualquier otro análogo que, atente contra la autonomía de las mujeres a ejercer sus derechos reproductivos y sexuales, les niegue el acceso a la salud reproductiva de calidad durante el embarazo, el parto y el puerperio, y el derecho a la información respecto de los procedimientos médicos y quirúrgicos a los que están expuestas.
+
+No se considerará que existan actos de violencia obstétrica cuando, en los casos de las fracciones III, IV, V, VI y XII se obtenga el consentimiento previo voluntario, expreso e informado de la mujer.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 18 BIS 1.- En materia de prevención y erradicación de la violencia obstétrica, el personal médico y de enfermería de cualquier hospital público o privado está obligado a dar cumplimiento a las siguientes obligaciones:
+
+I.- Realizar la atención médica a la madre durante el embarazo y parto con apego irrestricto a los derechos humanos, la igualdad de género y el respeto a sus derechos reproductivos;
+
+II.- Entregar a la mujer embarazada desde su primera consulta con su ginecólogo, un folleto mediante el cual se le informe lo siguiente:
+
+a) Qué es la Violencia Obstétrica;
+
+b) Los tipos de Violencia Obstétrica;
+
+c) Qué hacer ante un caso de Violencia Obstétrica; y
+
+d) Ante quién denunciar un caso de Violencia Obstétrica.
+
+III.- La atención a la mujer durante el embarazo, parto y puerperio, y el recién nacido debe ser impartida con calidad y calidez en la atención;
+
+IV.- Abstenerse de realizar algún acto de violencia obstétrica;
+
+V.- Informar a la mujer de cualquier procedimiento médico o quirúrgico que deba practicarse en razón de su estado de gravidez, las razones médicas por las que se recomienda, las consecuencias o efectos secundarios, así como los riesgos e imprevistos que pudieren presentarse, y demás información necesaria; y
+
+VI.- Denunciar los actos de violencia obstétrica de los que tenga conocimiento por motivo de su actividad profesional.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 18 BIS 2.- La Secretaría de Salud Pública, elaborará un protocolo de actuación para atender los casos de violencia obstétrica que se susciten dentro de los hospitales públicos o privados, con base a las recomendaciones internacionales y federales en la materia y publicarlos en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 18 BIS 3.- La Secretaría de Salud Pública deberá incluir dentro de su proyecto de presupuesto de egresos, una partida económica suficiente para la realización de acciones de prevención, atención y erradicación de casos de violencia obstétrica en todo el Estado.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 18 BIS 4.- La Secretaría de Salud Pública, a través de la unidad administrativa correspondiente deberá de supervisar en todos los hospitales públicos y privados, el grado de cumplimiento del protocolo de actuación para la atención de casos de violencia obstétrica.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 18 BIS 5.- El personal médico y de enfermería de los hospitales públicos y privados deberá capacitarse y certificarse anualmente en materia de prevención, atención y erradicación de caso (sic) de violencia obstétrica ante la Secretaría de Salud Pública.
+
+Cuando la Secretaría de Salud Pública advierta que un médico o enfermero no cuente con la capacitación y certificación correspondiente, será sancionado con una multa equivalente de 50 a 100 Unidades de Medida y Actualización diarias.
+
+La Secretaría de Salud Pública, al imponer su sanción, deberá tomar en cuenta si el infractor es reincidente, en caso de ser así, se le impondrá la sanción máxima.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 18 BIS 6.- La Secretaría de Salud Pública podrá celebrar convenios de colaboración con autoridades federales en materia de salud para realizar visitas de inspección a los hospitales públicos y privados, a efecto de constatar el cumplimiento de la Norma Oficial Mexicana para la atención de la mujer durante el embarazo, parto y puerperio y de la persona recién nacida.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 18 BIS 7.- Los hospitales públicos y privados deberán contar con un módulo especial para la recepción de denuncias por casos de Violencia Obstétrica.
 
 ###### ARTÍCULO 16.
 
@@ -191,13 +295,15 @@ Cuando se presenten casos de violencia feminicida, el Estado y los municipios di
 
 El Estado y los municipios coadyuvarán con la Federación en la implementación de las medidas y acciones que se determinen en la declaratoria de alerta de violencia de género y participarán en los grupos interinstitucionales y multidisciplinarios que se formen para dar seguimiento a las acciones y medidas señaladas.
 
-### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE OCTUBRE DE 2019)</small>
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+### CAPÍTULO I. DEL OBJETO E INTEGRACIÓN DEL SISTEMA ESTATAL
+
+### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ## TÍTULO TERCERO. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### ARTÍCULO 19.
 
@@ -235,7 +341,7 @@ IX.- Los organismos y dependencias instituidos en el ámbito municipal para la p
 
 La Secretaría Ejecutiva del Sistema Estatal elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación, en su caso.
 
-### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
 
 ###### ARTÍCULO 22.
 
@@ -281,7 +387,7 @@ La Secretaría de Gobierno procurará la participación de los sectores público
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN, Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
+### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
 
 ###### ARTÍCULO 24.
 
@@ -498,6 +604,8 @@ VI.- Canalizar a las víctimas a programas reeducativos integrales que les permi
 VII.- Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia; y
 
 VIII.- Las demás previstas en esta ley y en otras disposiciones aplicables.
+
+### CAPÍTULO I. DE LA ATENCIÓN A VÍCTIMAS
 
 ### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
@@ -812,3 +920,19 @@ B.O. 6 DE JUNIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 65, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El protocolo de actuación para atender los casos de Violencia Obstétrica, deberá ser expedido por la Secretaría de Salud, dentro del plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los módulos de recepción de denuncias por casos de Violencia Obstétrica, a que se hace referencia en el artículo 18 BIS 7 del presente Decreto, deberá estar funcionando a más tardar dentro del plazo de 60 días naturales siguientes a la entrada en vigor del presente Decreto.
