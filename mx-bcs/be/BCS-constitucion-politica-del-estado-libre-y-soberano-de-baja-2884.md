@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2019-07-20"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -257,7 +257,7 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 
 Todos los habitantes del Estado tienen derecho a disfrutar de una vivienda digna, de calidad y sustentable, que sea la base de su patrimonio familiar, como objetivo de la permanente superación del nivel de vida de la población. Para tal efecto el Gobierno del Estado y los Gobiernos Municipales, deberán implementar políticas y programas de acceso a la vivienda; desarrollaran planes de financiamiento para la construcción de viviendas de interés social, en colaboración con el Gobierno Federal; inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones aplicables; y deberán garantizar la dotación de servicios públicos, en coordinación con los Municipios.
 
-> <small>[N. DE E. POR DECRETO DE REFORMAS NÚMERO 2345 PUBLICADO EN EL B.O. DE 27 DE ABRIL DE 2016, LOS ANTERIORES PÁRRAFOS OCTAVO Y NOVENO CON SUS FRACCIONES PASAN A SER APARTADO “A”.]</small>
+> <small>[N. DE E. POR DECRETO DE REFORMAS NÚMERO 2345 PUBLICADO EN EL B.O. DE 27 DE ABRIL DE 2016, LOS ANTERIORES PÁRRAFOS OCTAVO Y NOVENO CON SUS FRACCIONES PASAN A SER APARTADO "A".]</small>
 
 > <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -283,7 +283,7 @@ VII. Que en los planes y programas de desarrollo urbano se incluyan soluciones a
 
 VIII. Acceder a programas especiales de otorgamiento de vivienda exclusivos para personas con discapacidad que permitan su pleno desarrollo.
 
-> <small>[N. DE E. POR DECRETO DE REFORMAS NÚMERO 2345 PUBLICADO EN EL B.O. DE 27 DE ABRIL DE 2016, EL ANTERIOR PÁRRAFO DÉCIMO CON SUS FRACCIONES Y LOS ADICIONADOS DÉCIMO PRIMERO AL VIGÉSIMO SÉPTIMO PASAN A SER APARTADO “B”.]</small>
+> <small>[N. DE E. POR DECRETO DE REFORMAS NÚMERO 2345 PUBLICADO EN EL B.O. DE 27 DE ABRIL DE 2016, EL ANTERIOR PÁRRAFO DÉCIMO CON SUS FRACCIONES Y LOS ADICIONADOS DÉCIMO PRIMERO AL VIGÉSIMO SÉPTIMO PASAN A SER APARTADO "B".]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ABRIL DE 2016)</small>
 
@@ -347,13 +347,15 @@ La ley establecerá las medidas de apremio que podrá imponer el organismo garan
 
 Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
 
-> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
 
-El organismo garante se integrará por tres comisionados, garantizando la equidad de género. Para su nombramiento, el Congreso del Estado, a propuesta de las fracciones parlamentarias realizará una amplia consulta a la sociedad, siguiendo el procedimiento establecido en la Ley Reglamentaria del Poder Legislativo y la Ley de Transparencia Acceso a la Información Pública y Protección de Datos Personales.
+El organismo garante se integrará por tres comisionados, garantizando la equidad de género. Para su nombramiento, el Congreso del Estado, a través (sic)
 
-> <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
+(sic) de la Comisión Permanente respectiva realizará una amplia consulta pública a la sociedad, siguiendo el procedimiento establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
 
-Para la elección del Comisionado que deba cubrir la vacante, se integrará de una terna compuesta por dos propuestas de la sociedad y una de las fracciones parlamentarias, se requerirá el voto de las dos terceras partes de los miembros del Congreso.
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+Para la elección del Comisionado que deba cubrir la vacante se integrará una terna y se requerirá el voto de las dos terceras partes de los miembros del Congreso.
 
 > <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
 
@@ -374,6 +376,10 @@ Los Comisionados durarán en su encargo siete años y deberán cumplir con los r
 > <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
 
 El Comisionado presidente será electo entre los comisionados por un periodo de dos años, y podrá ser reelegido para el periodo inmediato; estará obligado a rendir un informe anual ante el Congreso del Estado de Baja California Sur, en la fecha y en los términos que disponga la ley.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+La rotación o reelección, en su caso, del Presidente, se realizará en sesión pública dentro de los primeros quince días del mes de diciembre del año que corresponda, debiendo entrar en funciones el día siguiente al de su elección. Dicha sesión deberá ser convocada, al menos con 10 días hábiles de anticipación
 
 > <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2016)</small>
 
@@ -397,7 +403,9 @@ d) No haber sido condenado por delito que amerite pena corporal de más de un a�
 
 e) No haber ejercido cargo de dirigencia partidista nacional, estatal o municipal, durante los cinco años anteriores al día de su elección;
 
-f) No haber contendido para un cargo de elección popular o ejercido alguno, durante los cinco años anteriores al día de su nombramiento;
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+f) No haber contendido o ejercido por el cargo de elección popular de gobernador, integrante de los ayuntamientos o diputado por mayoría, durante los cinco años anteriores al día de su nombramiento
 
 g) No haber sido Magistrado del Tribunal Superior de Justicia del Estado, Magistrado del Tribunal Estatal Electoral, Magistrados del Tribunal de Justicia Administrativa del Estado de Baja California Sur, Juez del Fuero Común, Secretario y Subsecretario del Despacho, Procurador y Subprocurador General de Justicia, Fiscales Especializados, Contralor General, Titular de la Auditoría Superior del Estado, Consejero Presidente o Consejero Electoral del Instituto Estatal Electoral, Presidente de la Comisión Estatal de Derechos Humanos, Oficial Mayor del Tribunal Superior de Justicia del Estado, Oficial Mayor del Congreso del Estado, Secretario General, Tesorero General, Oficial Mayor o Contralor de alguno de los Ayuntamientos de la Entidad, durante los cinco años anteriores al día de su nombramiento; y
 
@@ -4316,3 +4324,21 @@ c) Para el segundo periodo ordinario de sesiones, comprendido del día 15 de mar
 d) Para el segundo periodo de receso, comprendido del día 01 de julio al 31 de agosto del año 2021, la presidencia de la mesa directiva deberá recaer en el género masculino.
 
 Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2640 SE ADICIONA UN PÁRRAFO DÉCIMOQUINTO RECORRIÉNDOSE LAS SUBSECUENTES A LA FRACCIÓN VIII DEL APARTADO B Y SE REFORMA EL INCISO F) DE LA FRACCIÓN VIII DEL APARTADO B, AMBOS DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente decreto entrara en vigor el 1 .o de enero de 2020.
+
+SEGUNDO.- Por única ocasión la rotación del Comisionado Presidente del Instituto de Transparencia y Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, que deberá llevarse a cabo en el mes de septiembre de 2021 para relevar en el cargo al M. en C. Conrado Mendoza Márquez, tendrá un carácter de Presidencia Interina (sic) con una duración de septiembre de 2021 a diciembre del mismo año, en cuya fecha se elegirá al nuevo Presidente, conforme al presente decreto.
+
+Quien haya ocupado el cargo en la Presidencia de forma interina en términos del párrafo que precede podrá ser electo o electa para un primer periodo de 2 años.
+
+B.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2642 SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
