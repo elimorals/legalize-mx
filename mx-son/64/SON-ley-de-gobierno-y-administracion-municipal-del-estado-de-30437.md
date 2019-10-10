@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2019-06-19"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -475,11 +475,17 @@ Simultáneamente a la emisión de dicho acuerdo, el Ayuntamiento remitirá copia
 
 Los miembros del Ayuntamiento durarán en su cargo tres años e iniciarán sus funciones el día dieciséis de septiembre del año que corresponda a su elección.
 
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 50.
 
-El Ayuntamiento como órgano deliberante deberá resolver los asuntos de su competencia colegiadamente, y para tal efecto, celebrará sesiones ordinarias, extraordinarias y solemnes, que serán públicas, con excepción de aquellas que él mismo determine por el voto de las dos terceras partes de sus integrantes.
+El Ayuntamiento como órgano deliberante deberá resolver los asuntos de su competencia colegiadamente, y para tal efecto, celebrará sesiones ordinarias, extraordinarias, solemnes y de Ayuntamiento Abierto que serán públicas.
 
 Habrá por lo menos una sesión ordinaria cada mes y las extraordinarias que sean necesarias a juicio del Presidente Municipal o a petición de las dos terceras partes de los integrantes del Ayuntamiento, ajustándose en cada caso al Reglamento Interior.
+
+El Ayuntamiento deberá celebrar, por lo menos una vez al mes, una sesión de Ayuntamiento Abierto, en la cual los habitantes serán informados de las acciones de gobierno y participarán de viva voz frente a los miembros del Ayuntamiento. Todas las inquietudes planteadas en las sesiones de Ayuntamiento Abierto por los ciudadanos, serán abordadas y discutidas por los integrantes del Ayuntamiento, dándose respuesta a los ciudadanos de ser posible en esta misma sesión.
+
+El Ayuntamiento podrá celebrar eventualmente sesiones privadas, para lo que se requerirá el voto de las dos terceras partes de sus integrantes, para analizar temas extraordinarios y urgentes de seguridad pública del Municipio, con la excepción de cuando la sesión sea relativa a los nombramientos en materia de seguridad pública que le corresponde realizar al Ayuntamiento.
 
 ###### Artículo 51.
 
@@ -2347,7 +2353,7 @@ Se exceptúan de los anteriores supuestos, los vehículos en custodia o depósit
 
 El Ayuntamiento deberá publicar regularmente en su tablón de anuncios la lista de vehículos almacenados en los espacios destinados para tales efectos con una breve descripción de los mismos y el lugar de donde fue trasladado el vehículo.
 
-En los casos de las fracciones anteriores, previamente a la declaratoria de abandono, la Tesorería dará aviso a la Procuraduría General de Justicia del Estado, la Procuraduría General de la República, la Secretaría de Hacienda del Estado y la Secretaría de Hacienda y Crédito Público para que realicen las observaciones que consideren pertinentes; y mandará publicar dos veces, con intervalo de diez días, avisos en el Boletín Oficial del Gobierno del Estado y en un periódico de circulación masiva en el Estado, concediéndose un plazo de veinte días naturales a partir de la segunda publicación para que las citadas autoridades o el interesado presenten objeciones o para que éste último liquide o convenga con el Municipio el pago de los créditos fiscales correspondientes.
+En los casos de las fracciones anteriores, previamente a la declaratoria de abandono, la Tesorería dará aviso a la Procuraduría General de Justicia del Estado, la Procuraduría General de la República, la Secretaría de Hacienda del Estado, y la Secretaría de Hacienda y Crédito Público para que realicen las observaciones que consideren pertinentes; y mandará publicar dos veces, con intervalo de diez días, avisos en el Boletín Oficial del Gobierno del Estado y en un periódico de circulación masiva en el Estado, concediéndose un plazo de veinte días naturales a partir de la segunda publicación para que las citadas autoridades o el interesado presenten objeciones o para que éste último liquide o convenga con el Municipio el pago de los créditos fiscales correspondientes.
 
 Concluido el plazo de veinte días señalado en el párrafo anterior sin que se hubieren presentado objeciones o se liquiden o convenga el pago de los créditos fiscales respectivos, o en el caso de la fracción I de este artículo, la Tesorería hará la declaratoria de abandono del vehículo, debiendo publicar la resolución correspondiente tanto en el Boletín Oficial del Gobierno del Estado como en un periódico de circulación masiva en el Estado y, previo avalúo efectuado por perito designado por Sindicatura, procederá a su enajenación en subasta pública, dentro de los quince días naturales siguientes a la fecha de la publicación de la resolución, ante fedatario público.
 
@@ -4418,3 +4424,15 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 ###### ARTÍCULO TERCERO.
 
 Los Ayuntamientos del estado, contarán con un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente decreto, para llevar a cabo las acciones necesarias para la integración de sus comisiones anticorrupción y poner en funcionamiento las atribuciones establecidas en el artículo 78 BIS de la Ley de Gobierno y Administración Municipal.
+
+B.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 60, QUE REFORMA EL ARTÍCULO 50 DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos en un plazo no mayor a tres meses contado a partir de la entrada en vigor del presente Decreto, deberán de establecer los mecanismos de Ayuntamiento Abierto en su Reglamento Interior.
