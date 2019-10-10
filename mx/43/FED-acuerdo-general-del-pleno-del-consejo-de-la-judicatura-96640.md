@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2019-10-08"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -313,9 +313,9 @@ XIV. Dictar las providencias oportunas para la corrección o remedio inmediato d
 
 XIV Bis. Instruir la celebración de visitas extraordinarias de inspección cuando estime que se ha cometido una falta grave o cuando así lo solicite el Pleno de la Suprema Corte de Justicia de la Nación;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-XV. Instruir en materia de responsabilidad administrativa, a la Unidad General de Investigación de Responsabilidades Administrativas y a la Secretaría Ejecutiva de Disciplina, en el ámbito de sus respectivas competencias, la práctica de investigaciones de faltas administrativas respecto de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas, así como de particulares cuando la falta atribuida los vincule a alguno de esos servidores públicos, o a algún procedimiento jurisdiccional o administrativo del Consejo; además de proveer, en su caso, sobre su tramitación;
+XV. Instruir en materia de responsabilidad administrativa, a la Unidad General de Investigación de Responsabilidades Administrativas, a la Secretaría Ejecutiva de Disciplina y a la Contraloría del Poder Judicial de la Federación, en el ámbito de sus respectivas competencias, la práctica de investigaciones de faltas administrativas respecto de servidores públicos adscritos a órganos jurisdiccionales y áreas administrativas, así como de particulares cuando la falta atribuida los vincule a alguno de esos servidores públicos, o a algún procedimiento jurisdiccional o administrativo del Consejo; además de proveer, en su caso, sobre su tramitación;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -603,7 +603,9 @@ XVI. Opinar sobre las propuestas de nombramiento de los directores generales ads
 
 XVII. Designar, a propuesta del Presidente, al representante del Consejo en los procesos que se substancien ante la Suprema Corte de Justicia de la Nación, de acuerdo a la fracción XX del artículo 11 de la Ley;
 
-XVIII. Designar, a propuesta de su presidente, al Secretario Técnico de la Comisión de Administración y determinar, en su caso, su remoción;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XVIII. Designar, a propuesta del Secretario Ejecutivo de Administración, al Secretario Técnico de la Comisión de Administración y determinar, en su caso, su remoción;
 
 XIX. Nombrar al personal subalterno que fije el presupuesto;
 
@@ -675,7 +677,9 @@ III. Presentar al Pleno los proyectos de dictamen de cambios de adscripción, re
 
 IV. Coordinar con las Comisiones de Creación de Nuevos Organos y de Carrera Judicial las acciones para determinar el número de plazas necesarias para los nuevos órganos jurisdiccionales y proponer a la Comisión de Carrera Judicial el número de plazas vacantes que deban someterse a concurso;
 
-V. Designar, a propuesta de su presidente, al Secretario Técnico de la Comisión de Adscripción y determinar, en su caso, su remoción;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+V. Designar, a propuesta del Secretario Ejecutivo de Adscripción, al Secretario Técnico de la Comisión de Adscripción y determinar, en su caso, su remoción;
 
 VI. Nombrar al personal subalterno que fije el presupuesto;
 
@@ -737,7 +741,9 @@ XIX. Dictaminar y remitir al Pleno, para su aprobación, las bases de la políti
 
 XX. Conocer y autorizar las solicitudes de vacaciones de magistrados de Circuito y jueces de Distrito, en los términos de la normativa aplicable;
 
-XXI. Designar, a propuesta de su presidente, al Secretario Técnico de la Comisión de Carrera Judicial y determinar, en su caso, su remoción;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XXI. Designar, a propuesta del Secretario Ejecutivo de Carrera Judicial, al Secretario Técnico de la Comisión de Carrera Judicial y determinar, en su caso, su remoción;
 
 XXII. Nombrar al personal subalterno que fije el presupuesto;
 
@@ -775,7 +781,9 @@ VII. Someter a consideración del Pleno, al menos cada seis meses, el proyecto d
 
 VIII. Acordar las acciones tendentes a la adecuada y pronta instalación y cambio de domicilio de los órganos jurisdiccionales, entendido este último, como el cambio de ubicación del órgano jurisdiccional dentro de la misma ciudad o localidad en que se encuentra; para lo cual se dará aviso a la Comisión de Administración;
 
-IX. Designar, a propuesta de su presidente, al Secretario Técnico de la Comisión de Creación de Nuevos Órganos y determinar, en su caso, su remoción;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+IX. Designar, a propuesta del Secretario Ejecutivo de Creación de Nuevos Órganos, al Secretario Técnico de la Comisión de Creación de Nuevos Órganos y determinar, en su caso, su remoción;
 
 X. Nombrar al personal subalterno que fije el presupuesto;
 
@@ -841,7 +849,9 @@ XVI. Desahogar las audiencias a que se refiere el artículo 134, fracción III, 
 
 XVII. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
-XVIII. Designar, a propuesta de su presidente, al Secretario Técnico de la Comisión de Disciplina y determinar, en su caso, su remoción;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XVIII. Designar, a propuesta del Secretario Ejecutivo de Disciplina, al Secretario Técnico de la Comisión de Disciplina y determinar, en su caso, su remoción;
 
 XIX. Nombrar al personal subalterno que fije el presupuesto;
 
@@ -885,9 +895,9 @@ VI. Coordinar la elaboración de estudios así como la instrumentación y seguim
 
 VII. Actuar como instancia consultiva en los asuntos a que se refieren las fracciones IV y V de este artículo, con el propósito de proveer a las áreas competentes de los elementos necesarios para la toma de decisiones;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-VIII. Designar, a propuesta de su presidente, al Secretario Técnico de la Comisión de Vigilancia y determinar, en su caso, su remoción;
+VIII. Designar, a propuesta del Secretario Ejecutivo de Vigilancia, al Secretario Técnico de la Comisión de Vigilancia y determinar, en su caso, su remoción;
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -1589,6 +1599,10 @@ XXXVII. Proponer a la Comisión de Administración procedimientos de sistemas de
 
 XXXVIII. Presentar a la Comisión de Administración y al Pleno el Plan Estratégico de Tecnologías de la Información y Comunicaciones y el informe trimestral respecto de la ejecución y avances del mismo;
 
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XXXVIII Bis. Proponer al Secretario Técnico de la Comisión de Administración;
+
 XXXIX. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
 
 XL. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
@@ -1659,9 +1673,17 @@ X. Informar a las Comisiones, en los plazos establecidos, sobre el ejercicio de 
 
 XI. Dar cuenta, según corresponda, al Pleno y a la Comisión de Adscripción de los asuntos de su competencia;
 
-XII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-XIII. Las demás que establezcan el Pleno y las Comisiones.
+XII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XIII. Proponer al Secretario Técnico de la Comisión de Adscripción; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XIV. Las demás que establezcan el Pleno y las Comisiones.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -1701,7 +1723,9 @@ XII. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE 
 
 XIII. Llevar el sistema de turnos y efectuar los trámites requeridos para las resoluciones de las ratificaciones de magistrados de Circuito y jueces de Distrito;
 
-XIV. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XIV. Proponer al Secretario Técnico de la Comisión de Carrera Judicial;
 
 XIV (SIC). (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
@@ -1817,9 +1841,17 @@ XVII. Someter a la consideración de las Comisiones, las disposiciones, reglas, 
 
 XVIII. Informar a las Comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
-XIX. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DEL QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, POR EL QUE SE CREA LA DIRECCIÓN GENERAL DE GESTIÓN JUDICIAL Y SE INCORPORA ÉSTA, ASÍ COMO LA DIRECCIÓN GENERAL DE ARCHIVO Y DOCUMENTACIÓN Y LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL, A LA COORDINACIÓN DE ASESORES DE LA PRESIDENCIA DEL CONSEJO, D.O.F. 23 DE SEPTIEMBRE DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-XX. Las demás que establezcan el Pleno, y las Comisiones.
+XIX. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XX. Proponer al Secretario Técnico de la Comisión de Creación de Nuevos Órganos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XXI. Las demás que establezcan el Pleno, y las Comisiones.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -1831,9 +1863,9 @@ La Secretaría Ejecutiva de Disciplina auxiliará a la Comisión de Disciplina c
 
 Son atribuciones del titular de la Secretaría Ejecutiva de Disciplina:
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-I. Substanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos adscritos a órganos jurisdiccionales y a la Contraloría del Poder Judicial de la Federación, del Director General del Instituto Federal de Defensoría Pública, así como de particulares que sean de su competencia, de conformidad con las disposiciones jurídicas aplicables;
+I. Substanciar los procedimientos de responsabilidad administrativa en contra de las y los servidores públicos adscritos o comisionados a órganos jurisdiccionales y a la Contraloría del Poder Judicial de la Federación, del Director General del Instituto Federal de Defensoría Pública, así como de particulares que sean de su competencia, de conformidad con las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -1871,7 +1903,9 @@ X. Girar los oficios mediante los cuales se requiera el informe correspondiente 
 
 XI. Vigilar el cumplimiento de las medidas que dicten el Pleno, el Presidente o la Comisión de Disciplina, en términos de la fracción XXXVIII del artículo 81 de la Ley, para el buen servicio y la disciplina en los órganos jurisdiccionales;
 
-XII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XII. Proponer al Secretario Técnico de la Comisión de Disciplina;
 
 XIII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)
 
@@ -1973,7 +2007,9 @@ XVIII. Realizar los sorteos periódicos a que se refiere el artículo 100 de la 
 
 XIX. Comunicar sobre el resultado de los sorteos al Pleno y al titular de la Visitaduría Judicial, para su conocimiento;
 
-XX. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XX. Proponer al Secretario Técnico de la Comisión de Vigilancia;
 
 XXI. Las demás que establezcan el Pleno y las Comisiones.
 
@@ -2325,11 +2361,15 @@ VII. Los demás que determine el Pleno.
 
 La Contraloría del Poder Judicial de la Federación estará a cargo de un Contralor, a quien corresponde originalmente la representación, trámite y resolución de los asuntos de la competencia de aquélla.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 106.
 
-La Contraloría del Poder Judicial de la Federación tendrá a su cargo las facultades de control y la inspección del cumplimiento de las normas de funcionamiento administrativo que rigen a las áreas administrativas y servidores públicos del Consejo, por lo que será competente para realizar las auditorías, revisiones e inspecciones con el propósito de verificar el cumplimiento a la normativa aplicable; promover, evaluar y fortalecer el buen funcionamiento del control interno; así como para iniciar, substanciar y resolver, según corresponda, los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a las áreas administrativas y tratándose de los derivados de la situación patrimonial para iniciarlos, substanciarlos y resolverlos en los términos establecidos en las disposiciones aplicables.
+La Contraloría del Poder Judicial de la Federación tendrá a su cargo las facultades de control y fiscalización del cumplimiento de las normas de funcionamiento administrativo que rigen a las áreas administrativas y a las y los servidores públicos del Consejo, por lo que será competente para realizar las auditorías, revisiones y visitas de inspección con el propósito de verificar el cumplimiento a la normativa aplicable; así como las metas y objetivos de los programas; promover, evaluar, fortalecer y promover el buen funcionamiento del control interno; así como para iniciar, substanciar y resolver, según corresponda, los procedimientos de responsabilidad administrativa de los servidores públicos adscritos a las áreas administrativas.
+
+Además, llevar el registro, la verificación, seguimiento, substanciación y resolución de la situación patrimonial de las y los servidores públicos del Poder Judicial de la Federación, con excepción de quienes estén adscritos a la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del Poder Judicial de la Federación.
+
+Implementar al interior del Consejo las políticas, programas y acuerdos establecidos por el Sistema Nacional Anticorrupción, de conformidad con la normatividad aplicable; y fungir como enlace de coordinación con la Secretaría Ejecutiva del Sistema Nacional Anticorrupción en los términos que establezca el Pleno.
 
 ###### Artículo 107.
 
@@ -2357,17 +2397,25 @@ IV. Dirigir la supervisión del cumplimiento de las disposiciones normativas en 
 
 V. Dirigir la vigilancia del cumplimiento de la normativa en materia de: registro contable y presupuestal, servicios personales, servicios generales, recursos materiales, bienes muebles e inmuebles, almacenes, inventarios, arrendamientos, ejecución de obras y mantenimiento;
 
-VI. Coadyuvar en la mejora de los programas de modernización y desarrollo administrativo, simplificación de trámites y procedimientos, así como en los relativos a desconcentración y descentralización de la función administrativa que determine el Pleno, a través de las revisiones que lleva a cabo;
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-> <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+V Bis. Promover y difundir la cultura de la integridad y de la ética en el servicio público, así como de la rendición de cuentas y de la transparencia;
 
-VI Bis. Coordinar la promoción, evaluación y fortalecimiento del control interno para el funcionamiento institucional;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+VI. Coadyuvar en la mejora continua de los programas de modernización y desarrollo administrativo, simplificación de trámites y procedimientos, así como en los relativos a desconcentración y descentralización de la función administrativa que determine el Pleno, a través de las revisiones que lleva a cabo;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+VI Bis. Coordinar la promoción, evaluación y fortalecimiento del control interno para el funcionamiento institucional y promover su mejora continua;
 
 VII. Dirigir la práctica de auditorías, revisiones y visitas de inspección, no contempladas en el Programa Anual de Control y Auditoría que se requieran;
 
 VIII. Coordinar la elaboración del Programa Anual de Control y Auditoría, conforme a lo señalado en la normativa aplicable, con el fin de comprobar la observancia de las disposiciones para el ejercicio del gasto y su congruencia con el Presupuesto de Egresos de la Federación, y proponer medidas preventivas y correctivas para el manejo de los recursos humanos, materiales y financieros;
 
-IX. Presentar al Pleno, dentro de los primeros dos meses del año, por conducto de la Comisión de Administración, el Programa Anual de Control y Auditoría, conforme a lo señalado en los acuerdos generales;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+IX. Presentar al Pleno, en su última sesión del año, por conducto de la Comisión de Administración, el Programa Anual de Control y Auditoría del ejercicio fiscal siguiente que corresponda, conforme a lo señalado en los acuerdos generales;
 
 X. Instruir las modificaciones al Programa Anual de Control y Auditoría que se requieran;
 
@@ -2377,9 +2425,17 @@ XII. Vigilar que el ejercicio del gasto por concepto de adquisiciones, arrendami
 
 XIII. Vigilar que las operaciones relacionadas con los fideicomisos constituidos por el Consejo, se apeguen a la normativa aplicable;
 
-XIV. Dirigir la revisión de la elaboración de la cuenta pública, a fin de comprobar que se cumpla con la normativa respectiva y se apegue a los postulados básicos de contabilidad gubernamental;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-XV. Colaborar con la Auditoría Superior de la Federación, para efectos de revisión de la cuenta pública;
+XIV. Comprobar que la cuenta pública, cumpla con la normativa respectiva y se apegue a los postulados básicos de contabilidad gubernamental;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XV. Colaborar con la Auditoría Superior de la Federación, para efectos de revisión de la cuenta pública, así como en el intercambio de información para la planeación de las auditorías, con el propósito de evitar duplicidades y omisiones en la fiscalización;
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XV Bis. Coordinar acciones con las áreas administrativas del Consejo, para atender los asuntos relacionados con la Auditoría Superior de la Federación;
 
 XVI. Proponer a la Comisión de Administración y, en caso de que ésta lo considere pertinente, someter a la aprobación del Pleno, la solicitud de contratación de auditorías técnicas externas que se consideren necesarias;
 
@@ -2393,13 +2449,17 @@ XVIII. Coordinar la recepción y registro de las declaraciones de situación pat
 
 XIX. Vigilar que se lleve a cabo el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Poder Judicial de la Federación, con excepción de los adscritos a la Suprema Corte de Justicia de la Nación y al Tribunal Electoral; y, en su caso, coordinar las acciones correspondientes de verificación de la situación patrimonial conforme a la normativa aplicable;
 
-XX. (DEROGADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN A LA RECEPCIÓN Y REGISTRO DE LAS DECLARACIONES DE SITUACIÓN PATRIMONIAL Y DE INTERESES DE LOS SERVIDORES PÚBLICOS DEL CONSEJO, ASÍ COMO LA TRANSFORMACIÓN DE LA COORDINACIÓN DE DERECHOS HUMANOS, IGUALDAD DE GÉNERO Y ASUNTOS INTERNACIONALES EN DIRECCIÓN GENERAL, D.O.F. 14 DE JUNIO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XX. Celebrar convenios con las dependencias o entidades, federales o locales, para el intercambio de información relacionada con la evolución patrimonial de los servidores públicos, así como en materia de responsabilidades administrativas;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
 XXI. Instrumentar acciones en materia de verificación financiera y patrimonial, en términos de la normatividad aplicable;
 
-XXII. Vigilar que se atiendan las quejas e inconformidades que presenten los proveedores, prestadores de servicio y contratistas por los actos del procedimiento de adjudicación que consideren realizados en contravención de las disposiciones emitidas en el correspondiente Acuerdo General;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XXII. Resolver las inconformidades que presenten los proveedores, prestadores de servicio y contratistas por los actos del procedimiento de adjudicación que consideren realizados en contravención de las disposiciones emitidas en el correspondiente Acuerdo General;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -2409,17 +2469,31 @@ XXIII. Coordinar la recepción y trámite de las quejas o denuncias que se formu
 
 XXIII Bis. Hacer del conocimiento del Pleno la necesidad de formular la denuncia en términos del artículo 41 de la Ley General de Responsabilidades Administrativas, en los casos que proceda;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-XXIII Ter. Prevenir a las autoridades competentes en materia de auditoría interna y de la Auditoría Superior de la Federación para que subsanen los informes de presunta responsabilidad administrativa o acciones promovidas que adolezcan de alguno o algunos de los requisitos establecidos en las normas aplicables para su formulación o cuando la narración de los hechos que los sustentan fuera obscura o imprecisa y no permita identificar con exactitud la falta o faltas atribuidas y el probable o probables responsables, en los términos de la Ley General de Responsabilidades Administrativas, sin perjuicio de que la autoridad prevenida los pueda presentar nuevamente, siempre que la facultad para sancionar la falta administrativa en cuestión no hubiera prescrito;
+XXIII Ter. Prevenir a las autoridades competentes en materia de auditoría interna para que subsanen los informes de presunta responsabilidad administrativa que adolezcan de alguno o algunos de los requisitos establecidos en las normas aplicables para su formulación o cuando la narración de los hechos que los sustentan fuera obscura o imprecisa y no permita identificar con exactitud la falta o faltas atribuidas y el probable o probables responsables, en los términos de la Ley General de Responsabilidades Administrativas, sin perjuicio de que la autoridad prevenida los pueda presentar nuevamente, siempre que la facultad para sancionar la falta administrativa en cuestión no hubiera prescrito;
 
 > <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
 XXIV. Dirigir el Registro de Servidores Públicos y de Particulares Sancionados, así como establecer convenios de colaboración con los Poderes de la Federación; de las entidades federativas y los municipios para el intercambio de información en la materia;
 
-XXV. Certificar constancias de las actuaciones que realicen en el ejercicio de sus funciones; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-XXVI. Las demás que establezca la Ley; el Pleno, y las Comisiones.
+XXV. Expedir copias certificadas de los documentos materia de su competencia que obren en sus archivos, de conformidad con las disposiciones aplicables, así como certificar constancias de las actuaciones que realicen en el ejercicio de sus funciones.
+
+La atribución de certificar documentos y constancias relacionadas con la competencia y atribuciones del área a su cargo en términos del párrafo anterior, podrá delegarla en los directores generales, Titulares de Unidad, adscritos a la propia Contraloría, sin perjuicio de que la ejerza directamente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XXVI. Implementar al interior del Consejo de la Judicatura Federal las políticas, programas y acuerdos establecidos por el Sistema Nacional Anticorrupción, de conformidad con la normatividad aplicable;
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XXVII. Fungir como enlace de coordinación con la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, previa designación del Pleno y en los términos que éste determine.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XXVIII. Las demás que establezca la Ley; el Presidente; el Pleno, y las Comisiones.
 
 ###### Artículo 108.
 
@@ -3989,9 +4063,11 @@ XXVIII. Las demás que establezcan el Pleno y las Comisiones.
 
 (DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, EN RELACIÓN CON LA ESTRUCTURA ORGANIZACIONAL DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE MARZO DE 2019)
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 179.
 
-A la Dirección General de Auditoría corresponde: la fiscalización permanente de la administración de los recursos humanos, materiales y financieros del Consejo; el seguimiento de las operaciones financieras y del logro de los objetivos y metas durante el desarrollo de la ejecución de los programas aprobados; el examen de las operaciones del Consejo, cualquiera que sea su naturaleza, para verificar si los estados financieros presentan razonablemente la situación financiera; comprobar si la utilización de recursos se realiza en forma eficiente y si en el desarrollo de las actividades se cumplió con las disposiciones vigentes.
+A la Dirección General de Auditoría corresponde: la fiscalización permanente de la administración de los recursos humanos, materiales, financieros, fondos y fideicomisos, inversiones, patrimonio y demás activos del Consejo; el seguimiento de las operaciones financieras y del logro de los objetivos y metas durante el desarrollo de la ejecución de los programas aprobados; el examen de las operaciones del Consejo, cualquiera que sea su naturaleza, para verificar si los estados financieros presentan razonablemente la situación financiera; comprobar si la utilización de recursos se realiza en forma eficiente y si en el desarrollo de las actividades se cumplió con las disposiciones vigentes.
 
 ###### Artículo 180.
 
@@ -4001,7 +4077,9 @@ I. Analizar y evaluar el proceso de planeación y elaboración del anteproyecto 
 
 II. Comprobar el cumplimiento por parte de las áreas administrativas, de las obligaciones derivadas de las disposiciones en materia de planeación, programación, presupuestación, ingresos, egresos, financiamiento, inversión, patrimonio y fondos;
 
-III. Verificar que los recursos económicos de que dispone el Poder Judicial de la Federación, se administren con eficiencia, eficacia y honradez para satisfacer los objetivos a los que estén destinados, en los términos del artículo 134 constitucional y la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como el Acuerdo General respectivo;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+III. Verificar que los recursos económicos de que dispone el Poder Judicial de la Federación, se administren con base en criterios de legalidad, honradez, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género, para satisfacer los objetivos a los que estén destinados, en los términos del artículo 134 constitucional y la Ley Federal de Presupuesto y Responsabilidad Hacendaria, así como el Acuerdo General respectivo y demás normatividad aplicable;
 
 IV. (DEROGADA, D.O.F. 30 DE NOVIEMBRE DE 2017)
 
@@ -4009,45 +4087,71 @@ V. Elaborar y proponer al Contralor del Poder Judicial de la Federación el Prog
 
 VI. Coordinar y supervisar conforme al Programa Anual de Control y Auditoría, las auditorías o revisiones, así como las visitas de inspección que se requieran;
 
-VII. Elaborar los informes correspondientes de las auditorías, revisiones y visitas de inspección efectuadas, en apego a los lineamientos emitidos por la Contraloría del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-VIII. Verificar que el gasto público se ajuste al monto autorizado para los programas y partidas presupuestales, y que se realizaron los registros contables, presupuestales y financieros, con objeto de determinar si la información financiera que se produce se encuentra apegada a las disposiciones aplicables;
+VII. Elaborar los informes de resultados correspondientes de las auditorías, y visitas de inspección efectuadas;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+VIII. Verificar que el gasto público se ajuste al monto autorizado para los programas y partidas presupuestales, y que se realizaron los registros contables, presupuestales y financieros, en apego a las disposiciones aplicables;
 
 IX. Verificar que la elaboración de la cuenta pública cumpla con la normativa respectiva y se apegue a los postulados básicos aplicables al sector público;
 
-X. Participar en la coordinación de las auditorías practicadas por la Auditoría Superior de la Federación o por los auditores externos;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-XI. Participar en las actas de entrega-recepción de las áreas administrativas;
+X. Coadyuvar con la Auditoría Superior de la Federación, para efectos de la fiscalización superior de la cuenta pública; así como en el intercambio de información para la planeación de las auditorías;
+
+> <small>(ADICIONADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+X Bis. Coordinar acciones con las áreas administrativas del Consejo, para atender los asuntos relacionados con la Auditoría Superior de la Federación;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XI. Participar en las actas de entrega-recepción de los servidores públicos adscritos a las áreas administrativas del Consejo; así como designar al personal a su cargo, para tales efectos;
 
 XII. Revisar las operaciones de los fideicomisos en los que participa el Consejo;
 
-XIII. Realizar auditorías financieras, operacionales, administrativas, al desempeño, e integrales de las operaciones que realizan las áreas administrativas del Consejo;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XIII. Realizar auditorías financieras, operacionales, administrativas, al desempeño, e integrales de las operaciones que realizan las áreas administrativas del Consejo, así como designar al personal que las practique;
 
 XIV. Llevar a cabo auditorías adicionales a las programadas, instruidas por el Contralor del Poder Judicial de la Federación;
 
 XV. Vigilar el cumplimiento de la normativa aplicable para la administración de los recursos humanos del Consejo;
 
-XVI. Revisar y evaluar, mediante las auditorías consideradas en el Programa Anual de Control y Auditoría, que las compras de mobiliario, consumibles y todas aquellas adquisiciones de bienes, servicios y contratación de obras, se efectúen observando los criterios de disciplina presupuestal y en las mejores condiciones de precio, calidad, oportunidad y pago, así como que se apeguen a las normas y lineamientos previstos en el Acuerdo General en materia de contrataciones, y demás disposiciones aplicables;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XVI. Revisar y evaluar, mediante las auditorías consideradas en el Programa Anual de Control y Auditoría, que las compras de mobiliario, consumibles y todas aquellas adquisiciones de bienes, servicios y contratación de obras, se efectúen observando los criterios de disciplina presupuestal y en las mejores condiciones de precio, calidad, financiamiento, oportunidad y pago, así como que se apeguen a las normas y lineamientos previstos en el Acuerdo General en materia de contrataciones, y demás disposiciones aplicables y que coadyuve al cumplimiento de los objetivos de las áreas administrativas;
 
 XVII. Comprobar que la contratación de seguros patrimoniales, servicios en general y de arrendamiento de inmuebles y sus modificaciones, estén debidamente autorizados y observen los lineamientos aplicables, en las condiciones más favorables para el Consejo, en cuanto a precio, calidad, oportunidad, así como que cumplan los criterios de eficiencia, eficacia y economía;
 
 XVIII. Practicar visitas de inspección a las obras para verificar que se realicen las pruebas de resistencia que se requieran y, que la calidad de los materiales aplicados corresponda a lo contratado, para lo que deberán efectuar pruebas de calidad, y que el avance de la obra corresponda a lo programado;
 
-XIX. Revisar, conjuntamente con el área operativa y, en su oportunidad, con el contratista, el estudio para determinar el finiquito de la obra, proponiendo las retenciones y deducciones a que haya lugar, así como, que los pagos, adecuaciones presupuestales y registros contables se ajusten a la normativa vigente;
+XIX. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
 
 XX. Identificar y proponer las normas que fortalezcan el proceso administrativo en materia de recursos humanos, adquisiciones, informática, servicios generales y obra pública;
 
-XXI. Informar al titular de la Contraloría del Poder Judicial de la Federación de todas aquellas situaciones anómalas o resultados de las revisiones en los que se presuma responsabilidad administrativa y, en su caso, daño patrimonial e integrar el soporte documental correspondiente;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-XXII. Emitir las medidas preventivas y correctivas que solventen y eviten la recurrencia de las observaciones derivadas de las revisiones practicadas;
+XXI. Remitir a la autoridad correspondiente, previo acuerdo con la persona Titular de la Contraloría, el informe de presunta responsabilidad administrativa cuando del resultado de las auditorías y visitas de inspección se presuma responsabilidad administrativa y, en su caso, daño patrimonial e integrar el soporte documental correspondiente;
 
-XXIII. Llevar a cabo las revisiones y, en su caso, proponer las acciones de mejora del Plan de Desarrollo Institucional;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-XXIV. Solicitar a proveedores, prestadores de servicios y contratistas información o documentación de las operaciones realizadas con el Consejo, como parte del cumplimiento de sus atribuciones de verificación;
+XXII. Determinar las acciones que atiendan y eviten la recurrencia de las observaciones derivadas de las auditorías y visitas de inspección practicadas, así como realizar su seguimiento respectivo;
 
-XXV. Proponer al Contralor del Poder Judicial de la Federación la contratación de auditorías externas en materia de obra, informática y de control de calidad en adquisiciones, que se consideren necesarias para el mejor desempeño de las funciones de revisión; y
+XXIII. (DEROGADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
 
-XXVI. Las demás que establezcan el Pleno, y las Comisiones.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XXIV. Solicitar a licitantes, proveedores, prestadores de servicios y contratistas información o documentación de las operaciones realizadas con el Consejo, como parte del cumplimiento de sus atribuciones de verificación;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XXV. Proponer a la persona Titular de la Contraloría del Poder Judicial de la Federación la contratación de auditorías externas y servicios de especialistas en materia de obra, informática y de control de calidad en adquisiciones, que se consideren necesarias para el mejor desempeño de la fiscalización; y
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XXVI. Las demás que establezcan el Pleno, las Comisiones y la persona Titular de la Contraloría.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
 
@@ -4067,9 +4171,9 @@ II. Formular, revisar y someter a la aprobación del Contralor del Poder Judicia
 
 III. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-IV. Substanciar los procedimientos de responsabilidad administrativa, en los términos que establece la Ley, la Ley General de Responsabilidades Administrativas y el Acuerdo General en materia de responsabilidades administrativas, así como proponer por conducto del Contralor del Poder Judicial de la Federación, los proyectos de resolución al Pleno o a la Comisión de Disciplina, según corresponda;
+IV. Substanciar los procedimientos de responsabilidad administrativa, previo Informe de Presunta Responsabilidad Administrativa que emitan las áreas competentes, en los términos que establece la Ley, la Ley General de Responsabilidades Administrativas y el Acuerdo General en materia de responsabilidades administrativas, así como proponer por conducto de la persona Titular de la Contraloría del Poder Judicial de la Federación, los proyectos de resolución al Pleno o a la Comisión de Disciplina, según corresponda;
 
 > <small>(REFORMADA, D.O.F. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -4101,7 +4205,9 @@ XIII. Recibir y tramitar, las inconformidades que los proveedores y contratistas
 
 XIV. Elaborar y someter a la aprobación del Contralor del Poder Judicial de la Federación el dictamen relativo a las inconformidades que los proveedores y contratistas presenten por actos efectuados en contravención a los procedimientos establecidos en el Acuerdo General en materia de contrataciones, y notificar a los interesados las resoluciones emitidas por la Comisión de Administración, relacionadas con dichas inconformidades;
 
-XV. Efectuar la inspección de la administración y destino de los bienes asegurados, no reclamados y decomisados; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XV. Emitir opinión respecto a las propuestas de destino de los bienes asegurados, no reclamados y decomisados, que someterán las áreas competentes a consideración del Pleno y las Comisiones; y
 
 XVI. Las demás que establezcan el Pleno, y las Comisiones.
 
@@ -4125,9 +4231,17 @@ III. Difundir, capacitar, asesorar y evaluar el control interno institucional, a
 
 IV. Fomentar la cultura de administración de riesgos, así como capacitar y asesorar a las áreas administrativas en la elaboración de matrices de riesgos;
 
-V. Promover y verificar que las áreas administrativas atiendan oportunamente las recomendaciones y propuestas de mejora en materia de control interno; y
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-VI. Las demás que establezcan el Pleno y las Comisiones.
+V. Promover y verificar que las áreas administrativas atiendan oportunamente las recomendaciones y propuestas de mejora en materia de control interno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+VI. Llevar a cabo las revisiones y, en su caso, proponer las acciones de mejora del Plan de Desarrollo Institucional; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+VII. Las demás que establezcan el Pleno y las Comisiones.
 
 ### CAPÍTULO DÉCIMO. DE LOS SECRETARIOS TÉCNICOS
 
@@ -4149,9 +4263,11 @@ Los Consejeros propondrán a la Comisión de Administración a los secretarios t
 
 Las prórrogas de estos nombramientos aprobados por la Comisión de Administración serán enviadas por los Consejeros directamente a la Dirección General de Recursos Humanos para el trámite correspondiente.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 185.
 
-El Secretario Técnico de cada Comisión será designado por ésta a propuesta de su Presidente.
+El Secretario Técnico de cada Comisión será designado por ésta, a propuesta del Secretario Ejecutivo correspondiente y estará adscrito, junto con su personal, a la estructura de éste.
 
 ###### Artículo 186.
 
@@ -4159,25 +4275,37 @@ Los secretarios técnicos de las Comisiones tendrán las siguientes atribuciones
 
 I. Hacer llegar las convocatorias correspondientes a los miembros de la Comisión a que pertenezcan, así como la documentación relativa, por lo menos con cuarenta y ocho horas de antelación, y cinco días hábiles, tratándose del Secretario Técnico de la Comisión de Disciplina;
 
-II. Auxiliar al Presidente de la Comisión en la preparación del orden del día de las sesiones;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+II. Auxiliar al Presidente de la Comisión en la preparación del orden del día de las sesiones, así como al Secretario Ejecutivo para dar fe y cuenta de los asuntos que se ventilen en las sesiones de la Comisión;
 
 III. Coordinar los servicios de apoyo necesarios para la celebración de las sesiones de la comisión;
 
-IV. Suscribir, conjuntamente con el Presidente de la Comisión y con el secretario ejecutivo correspondiente, las actas aprobadas de las sesiones y llevar el registro respectivo;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-V. Dar seguimiento al cumplimiento de los acuerdos emitidos por la Comisión;
+IV. Suscribir, conjuntamente con el Presidente de la Comisión y con el Secretario Ejecutivo, las actas aprobadas de las sesiones y llevar el registro respectivo;
 
-VI. Expedir, previa autorización del Presidente de la Comisión, las copias y certificaciones solicitadas;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+V. Dar seguimiento al cumplimiento de los acuerdos emitidos por la Comisión, informando al Secretario Ejecutivo;
+
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+VI. Expedir, previa autorización del Presidente de la Comisión y con conocimiento del Secretario Ejecutivo, las copias y certificaciones solicitadas;
 
 VII. Citar a los servidores públicos que la Comisión determine, para el mejor conocimiento de los asuntos;
 
-VIII. Preparar el informe anual del Presidente de la Comisión;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+VIII. Preparar el proyecto de informe anual y someterlo a consideración del Presidente de la Comisión;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
 
 IX. Enviar al Secretario Ejecutivo del Pleno los asuntos dictaminados por su Comisión, que deban ser sometidos a la consideración del Pleno;
 
-X. Dar cuenta al Presidente de la Comisión con los asuntos que se turnen a dicho secretario para su análisis;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+X. Dar cuenta al Presidente de la Comisión de los asuntos que le turnen para su análisis, previo acuerdo con el Secretario Ejecutivo;
 
 > <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4187,9 +4315,9 @@ XI. Enviar al Presidente, al concluir el periodo de sesiones, un volumen con cop
 
 XII. Definir, revisar y ser responsables de los contenidos e información, que sean de su competencia, en los portales de Intranet e Internet del Consejo, y gestionar su publicación y actualización; y
 
-> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 3 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-XIII. Las demás que establezcan el Pleno y la Comisión.
+XIII. Las demás que establezcan el Pleno, la Comisión y el Secretario Ejecutivo.
 
 ###### Artículo 187.
 
@@ -5916,3 +6044,15 @@ D.O.F. 8 DE OCTUBRE DE 2019.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos que se encuentren en trámite el día de la aprobación, y por tanto de la entrada en vigor del presente Acuerdo, se resolverán conforme a las disposiciones contenidas en el mismo.
+
+CUARTO. Tratándose de las aclaraciones presentadas en el sistema de recepción de declaraciones, a que se refiere el artículo 46 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, la Dirección General de Tecnologías de la Información, contará con un plazo de tres meses para su implementación.
