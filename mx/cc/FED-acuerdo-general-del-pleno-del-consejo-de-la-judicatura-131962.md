@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-131962"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-07"
-last_updated: "2019-10-09"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131962&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-11-30"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2018.
 
@@ -73,11 +73,13 @@ ACUERDO
 
 ### CAPÍTULO PRIMERO. OBJETO Y DEFINICIONES
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 1.
 
-El presente Acuerdo tiene por objeto establecer los procedimientos para garantizar los principios que rigen el servicio público; para identificar, investigar, determinar y sancionar las responsabilidades administrativas de los servidores públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral, observándose en todo momento los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, publicidad, verdad material y respeto a los derechos humanos; y, para regular el registro y seguimiento de la evolución de su situación patrimonial y las declaraciones de situación patrimonial y de intereses, conforme a lo dispuesto por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación, y los Títulos Segundo y Tercero del Libro Primero de la Ley General de Responsabilidades Administrativas.
+El presente Acuerdo tiene por objeto establecer los procedimientos para garantizar los principios que rigen el servicio público; para identificar, investigar, determinar y sancionar las responsabilidades administrativas de los servidores públicos del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral, así como las que correspondan a los particulares vinculados con faltas administrativas graves, observándose en todo momento los principios de legalidad, presunción de inocencia, imparcialidad, objetividad, congruencia, exhaustividad, publicidad, verdad material y respeto a los derechos humanos; y, para regular el registro y seguimiento de la evolución de su situación patrimonial y las declaraciones de situación patrimonial y de intereses, conforme a lo dispuesto por el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, el Título Octavo de la Ley Orgánica del Poder Judicial de la Federación, y los Títulos Segundo y Tercero del Libro Primero de la Ley General de Responsabilidades Administrativas.
 
-Asimismo, establece las disposiciones conforme a las cuales los servidores públicos adscritos a las áreas administrativas y órganos auxiliares del Consejo con niveles del 2 al 10 del Manual General de Puestos del Consejo de la Judicatura Federal, con excepción de las plazas de carrera judicial, deberán al separarse de su empleo, cargo o comisión, rendir un informe de los asuntos a su cargo y del estado que guardan; así como realizar la entrega a quienes los sustituyan en sus funciones de los recursos humanos, materiales y financieros que tengan asignados para el ejercicio de sus atribuciones y de la documentación y archivos ordenados y clasificados, conforme a las disposiciones aplicables.
+Asimismo, establece las disposiciones conforme a las cuales los servidores públicos adscritos a las áreas administrativas y órganos auxiliares del Consejo con niveles del 2 al 10 del Manual General de Puestos del Consejo de la Judicatura Federal, con excepción de las plazas de carrera judicial, deberán al separarse de su empleo, cargo o comisión, rendir un informe de los asuntos a su cargo y del estado que guardan; así como realizar la entrega a quienes los sustituyan, de todos los bienes e información a su cargo.
 
 ###### Artículo 2.
 
@@ -115,7 +117,9 @@ XV. Defensor: Para efectos del artículo 139 de este Acuerdo el servidor Públic
 
 XVI. Dictamen conclusivo: El instrumento que emite la Unidad General de Investigación de Responsabilidades Administrativas o la Secretaría Ejecutiva de Disciplina, en el ámbito de sus respectivas competencias, en los casos en que no se adviertan elementos suficientes para demostrar la existencia de la falta administrativa y la presunta responsabilidad del servidor público o del particular;
 
-XVII. Dictamen electrónico: Dictamen que se elabora para denunciar el incumplimiento en la presentación de las declaraciones de situación patrimonial;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+XVII. Dictamen electrónico: Dictamen que se elabora para denunciar el incumplimiento en la presentación de las declaraciones de situación patrimonial y de intereses;
 
 XVIII. Dirección de Substanciación: Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial, adscrita a la Contraloría;
 
@@ -127,7 +131,7 @@ XXI. Documento Electrónico o Digital: Todo mensaje de datos que contiene texto 
 
 XXII. Expediente Electrónico: Conjunto de información contenida en archivos electrónicos o documentos digitales que conforman un procedimiento de responsabilidad administrativa, independientemente de que sea texto, imagen, audio o video, identificado por un número específico;
 
-XXIII. Firma Digital: Medio gráfico de identificación en el Sistema de Justicia en Línea, consistente en la digitalización de una firma autógrafa mediante un dispositivo electrónico, que es utilizada para reconocer a su autor y expresar su consentimiento;
+XXIII. (DEROGADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
 
 XXIV. Firma Electrónica: Conjunto de datos consignados en un mensaje electrónico adjuntados o lógicamente asociados que permita identificar a su autor mediante el Sistema de Justicia en Línea, y que produce los mismos efectos jurídicos que la firma autógrafa. La firma electrónica también permite actuar en el procedimiento de responsabilidad en línea;
 
@@ -225,6 +229,8 @@ III. Revelen la identidad de un denunciante anónimo protegido bajo los precepto
 
 Para efectos de la fracción anterior, los servidores públicos que denuncien una falta administrativa grave o faltas de particulares, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables; la solicitud deberá ser evaluada y atendida de manera oportuna.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 11.
 
 Las facultades del Consejo para imponer sanciones por causas de responsabilidad no graves prescribirán en tres años, contados a partir del día siguiente al que se hubieren cometido las faltas, o a partir del momento en que hubieren cesado.
@@ -233,11 +239,9 @@ El plazo de prescripción de faltas graves de los servidores públicos o de falt
 
 La prescripción se interrumpirá con la notificación del inicio del procedimiento de responsabilidad administrativa.
 
-Si se dejare de actuar en los procedimientos de responsabilidad administrativa y, como consecuencia de ello, se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se ordenó su inicio.
+Si se dejare de actuar en los procedimientos de responsabilidad administrativa y, como consecuencia de ello, se produjera la caducidad de la instancia, la prescripción se reanudará desde el día en que se admitió el informe de presunta responsabilidad administrativa.
 
 En ningún caso, en los procedimientos de responsabilidad administrativa podrá dejar de actuarse por más de seis meses sin causa justificada; en caso de actualizarse dicha inactividad, se decretará, a solicitud del presunto responsable, la caducidad de la instancia.
-
-Para efectos de lo previsto en el párrafo anterior, se considera causa justificada el hecho de que el servidor público se encuentre de vacaciones o gozando de una licencia para efectos del emplazamiento, por lo que no procederá la caducidad de la instancia.
 
 Los plazos a los que se refiere este artículo se computarán en días naturales.
 
@@ -343,19 +347,33 @@ Las personas morales serán sancionadas por la comisión de faltas de particular
 
 En la determinación de la responsabilidad de las personas morales a que se refiere el presente Acuerdo, se valorará si cuentan con una política de integridad, en los términos establecidos en la Ley de Responsabilidades.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 18.
 
-Para la individualización e imposición de sanciones conforme a los criterios previstos en este Acuerdo, se tendrá a la vista el expediente personal del servidor público correspondiente o, de ser el caso, el historial que del particular de que se trate lleve la Contraloría.
+Para la individualización e imposición de sanciones conforme a los criterios previstos en este Acuerdo, se tendrá a la vista el expediente personal del servidor público correspondiente o, de ser el caso, el historial que del particular de que se trate lleve la Contraloría. Asimismo, se solicitará información de antecedentes de sanción que se encuentren en el Sistema de Registro de Servidores Públicos Sancionados, el Registro de Particulares Sancionados y/o Registro de Empresas Sancionadas, según sea el caso, a que se refiere el numeral 20 del presente Acuerdo.
 
 ###### Artículo 19.
 
 Para efectos de la imposición de sanciones, se considera reincidente al que habiendo incurrido en una infracción que haya sido sancionada y hubiere causado ejecutoria, cometa otra del mismo tipo.
 
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+Para calificar la reincidencia, los efectos del registro de las sanciones administrativas en el Registro a que alude el artículo 20, tendrán una duración de tres años tratándose de faltas no graves y siete si se trata de faltas graves, contados a partir de la fecha en que se ejecute y concluya la sanción correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 20.
 
-La Contraloría inscribirá en el Registro de Servidores Públicos y de Particulares Sancionados, las sanciones impuestas por el Pleno, la Comisión y la Contraloría, derivadas de un procedimiento de responsabilidad administrativa, así como las resoluciones en las que por circunstancias particulares no pueda materializarse la ejecución de sanciones.
+La Contraloría inscribirá en el Sistema de Registro de Servidores Públicos Sancionados, el Registro de Particulares Sancionados y/o Registro de Empresas Sancionadas, según sea el caso, las sanciones impuestas; previstas en los artículos 12 y 16, por el Pleno, la Comisión y la Contraloría, derivadas de un procedimiento de responsabilidad administrativa.
 
-En el Registro de Servidores Públicos y de Particulares Sancionados también se inscribirán las resoluciones remitidas por los órganos competentes de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, las cuales deberán atender a lo previsto en este Acuerdo.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+En el Sistema de Registro de Servidores Públicos Sancionados, el Registro de Particulares Sancionados y/o Registro de Empresas Sancionadas, según sea el caso, también se inscribirán las resoluciones remitidas por los órganos competentes de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral, las cuales deberán atender a lo previsto en este Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+Asimismo, se anotarán aquellas abstenciones de sanción que haya realizado la autoridad substanciadora, en términos del artículo 23.
 
 ###### Artículo 21.
 
@@ -365,9 +383,13 @@ I. Nombre completo de la persona sancionada;
 
 II. Número de expediente personal del servidor público o del historial del particular;
 
-III. Puesto, en su caso;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-IV. Adscripción, en su caso;
+III. Puesto, ocupado al momento de la comisión de la infracción en su caso;
+
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+IV. Adscripción al momento de la comisión de la infracción, en su caso;
 
 V. Fecha de resolución y de notificación;
 
@@ -387,21 +409,33 @@ XI. Duración de los efectos de la sanción impuesta y, en su caso, fecha de ini
 
 La autoridad resolutora que imponga suspensión o inhabilitación, deberá acompañar a la resolución respectiva, copia certificada de la constancia de notificación efectuada al servidor público o al particular sancionado; señalando el periodo de ejecución aplicable a dichas sanciones, fecha de inicio y conclusión.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 23.
 
-En el Registro de Servidores Públicos y de Particulares Sancionados serán inscritas las sanciones previstas en los artículos 12 y 16 de este Acuerdo.
+Las autoridades substanciadoras, o en su caso, las resolutoras se podrán abstener de iniciar el procedimiento de responsabilidad administrativa o de imponer sanciones administrativas a un servidor público, según sea el caso, cuando de las investigaciones practicadas o derivado de la valoración de las pruebas aportadas en el procedimiento referido, adviertan que no existe daño ni perjuicio y que se actualiza alguna de las siguientes hipótesis:
+
+I. Que la actuación del servidor público, en la atención, trámite o resolución de asuntos a su cargo, esté referida a una cuestión de criterio o arbitrio opinable o debatible, en la que válidamente puedan sustentarse diversas soluciones, siempre que la conducta o abstención no constituya una desviación a la legalidad y obren constancias de los elementos que tomó en cuenta el servidor público en la decisión que adoptó, o
+
+II. Que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público o implique error manifiesto y en cualquiera de estos supuestos, los efectos que, en su caso, se hubieren producido, desaparecieron.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 24.
 
-Las sanciones y los datos correspondientes a los servidores públicos y particulares sancionados deberán inscribirse en el Registro de Servidores Públicos y de Particulares Sancionados en un plazo no mayor a tres días hábiles, contados a partir del día hábil siguiente en que se reciba en la Contraloría la resolución que haya causado estado.
+Las sanciones y los datos correspondientes a los servidores públicos y particulares sancionados deberán inscribirse en el Sistema de Registro de Servidores Públicos Sancionados, el Registro de Particulares Sancionados y/o Registro de Empresas Sancionadas, según sea el caso, y en un plazo no mayor a cinco días hábiles, contados a partir del día hábil siguiente en que se reciba en la Contraloría la resolución que haya causado estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 25.
 
-La Contraloría someterá a consideración del Pleno las normas para la operación del Registro de Servidores Públicos y de Particulares Sancionados, así como las constancias que acrediten la inscripción, inexistencia y cumplimiento de las sanciones.
+La Contraloría someterá a consideración del Pleno las normas para la operación del Sistema de Registro de Servidores Públicos Sancionados, el Registro de Particulares Sancionados y/o Registro de Empresas Sancionadas, según sea el caso, así como las constancias que acrediten la inscripción, inexistencia y cumplimiento de las sanciones.
 
 El interesado podrá obtener dichas constancias a través del sistema electrónico que al efecto establezca la Contraloría.
 
 ### CAPÍTULO TERCERO. ENTREGA-RECEPCIÓN DE RECURSOS, DOCUMENTOS Y ARCHIVOS
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 #### SECCIÓN PRIMERA. PRESENTACIÓN DE LA DECLARACIÓN
 
@@ -425,11 +459,15 @@ La Dirección de Registro Patrimonial, a través del sistema de recepción de de
 
 Para las declaraciones de situación patrimonial y de intereses que se presenten por escrito en los términos señalados en el artículo 27 de este Acuerdo, se generará un acuse de recibo provisional mientras se presente la referida declaración vía electrónica y para valorar la justificación que se haya formulado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 30.
 
-La declaración de situación patrimonial y de intereses deberá presentarse a través de medios remotos de comunicación electrónica, para lo cual se emplearán medios de identificación electrónica.
+La declaración de situación patrimonial y de intereses deberá presentarse a través de medios remotos de comunicación electrónica, para lo cual se emplearán medios de identificación electrónica, a saber, usuario y contraseña con la que tendrán acceso al sistema que para tal efecto se habilite, y que será asignada por Dirección de Registro Patrimonial.
 
-La Contraloría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los servidores públicos y llevará el control de ellos.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+La clave de usuario y contraseña, serán responsabilidad del titular de las mismas, así como la información que contengan las declaraciones patrimoniales, en caso de baja de un servidor público éstas no se inhabilitarán.
 
 Asimismo, la Contraloría someterá a la consideración del Pleno, los formatos mediante los cuales los servidores públicos deberán presentar las declaraciones de situación patrimonial y de intereses, así como los manuales e instructivos de apoyo.
 
@@ -461,6 +499,10 @@ Las consultas técnicas relativas a la operación del sistema estarán a cargo d
 
 La Contraloría instrumentará los sistemas informáticos que se requieran para llevar el registro patrimonial de los servidores públicos, su seguimiento y evaluación.
 
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+Asimismo, se coordinará en los términos que instruya el Pleno con la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, para el adecuado funcionamiento del sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal, de la Plataforma Digital Nacional, conforme a la normatividad aplicable.
+
 #### SECCIÓN SEGUNDA. SUJETOS OBLIGADOS
 
 ###### Artículo 37.
@@ -469,7 +511,7 @@ Están obligados a presentar ante la Contraloría declaración de situación pat
 
 ###### Artículo 38.
 
-La Contraloría elaborará un padrón general de los servidores públicos que tienen obligación de presentar declaración patrimonial y de intereses en los términos de este Acuerdo, y lo mantendrá actualizado mediante la información que le proporcione mensualmente la Dirección General de Recursos Humanos del Consejo.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
 
 ###### Artículo 39.
 
@@ -493,9 +535,9 @@ b) Reingreso, cuando hayan transcurrido más de sesenta días naturales de la co
 
 II. Declaración de modificación patrimonial: durante el mes de mayo de cada año, salvo que en ese mismo año se hubiese presentado la declaración de situación patrimonial a que se refieren las fracciones I y III de este artículo; y
 
-III. Declaración de conclusión del cargo: dentro de los sesenta días naturales siguientes a la conclusión. Dicho plazo iniciará al día siguiente al que terminen los efectos del nombramiento otorgado.
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-En caso de que la conclusión del cargo sea con motivo de la imposición de una sanción a cualquier servidor público; o sea consecuencia de la resolución del Consejo de no ratificar a un magistrado de Circuito o juez de Distrito, el plazo para presentar la declaración corre a partir de la fecha en que inicien los efectos de la resolución en la que se impone la destitución del puesto o remoción, o bien cuando inicien los de aquella que se dicte en el procedimiento de ratificación, respectivamente, aun cuando se haya interpuesto recurso de revisión administrativa o de reconsideración, según sea el caso.
+III. Declaración de conclusión del cargo: dentro de los sesenta días naturales siguientes a la conclusión. Dicho plazo iniciará al día siguiente al que terminen los efectos del nombramiento otorgado, con excepción que la conclusión obedezca a un cambio de adscripción o cargo y que el movimiento se otorgue dentro de los sesenta días naturales.
 
 La presentación de las declaraciones de situación patrimonial y de intereses podrá realizarse las veinticuatro horas del día.
 
@@ -505,47 +547,35 @@ El plazo y término previstos en las fracciones I y II de este artículo, no que
 
 ###### Artículo 42.
 
-Los servidores públicos señalados en el artículo 37 de este Acuerdo no estarán obligados a presentar declaración de situación patrimonial y de intereses en los siguientes casos:
-
-I. Inicial: cuando el nombramiento otorgado sea menor o igual a tres meses, excepto en el caso de que les sea otorgado otro nombramiento con el que excedan los tres meses en algún otro cargo, supuesto en el que sí estarán obligados a presentar la citada declaración;
-
-II. Inicial o Conclusión del cargo: si son nombrados en diversos cargos en el que hubiesen estado obligados a presentar la declaración correspondiente, o cuando el cargo cambie de nombre, siempre que el inicio del cargo sea dentro de los sesenta días naturales siguientes a la conclusión del anterior; y
-
-III. Conclusión: en los siguientes supuestos:
-
-a) Cambien de adscripción y continúen en alguno de los cargos obligados;
-
-b) Se les haya otorgado licencia que no exceda de tres meses; y
-
-c) Se les haya otorgado licencia por motivos de salud que no exceda de un año.
-
-El plazo de sesenta días naturales que establece el artículo 42, fracción III, de este Acuerdo, para presentar la declaración patrimonial de conclusión, iniciará a partir de que inicie la licencia respectiva.
-
-Cuando los servidores públicos mencionados se reincorporen al cargo en el que se les otorgó la licencia deberán presentar la declaración inicial.
-
-En el supuesto de que algún servidor público sea suspendido por una investigación, un procedimiento de responsabilidad, o una sanción, no deberá presentar declaración de conclusión ni de inicio cuando se reincorpore a su cargo.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
 
 #### SECCIÓN CUARTA. CONTENIDO DE LA DECLARACIÓN
 
+REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
+
 ###### Artículo 43.
 
-En las declaraciones de inicio y conclusión del cargo, se manifestarán con precisión los ingresos mensuales, vehículos, bienes inmuebles, muebles, inversiones y gravámenes con la fecha y valor de adquisición que soporten el patrimonio del declarante, su cónyuge, concubina o concubinario y sus dependientes económicos, sin importar que en otras declaraciones ya se haya hecho referencia a ello.
-
-Para la declaración de conclusión se manifestarán además, los vehículos, bienes inmuebles y muebles que hubieren sido enajenados, así como las inversiones que se hayan cancelado o gravámenes que se hayan adquirido, entre la última declaración presentada y la de conclusión del cargo.
+En las declaraciones patrimonial y de intereses, se manifestará la información de los formatos aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción, conforme a la normatividad aplicable.
 
 ###### Artículo 44.
 
-En las declaraciones de modificación patrimonial se manifestarán sólo las modificaciones al patrimonio del declarante, su cónyuge, concubina o concubinario y sus dependientes económicos, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
 
 ###### Artículo 45.
 
-Entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, se computarán los que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos, salvo que se acredite que éstos los obtuvieron por sí mismos y por motivos ajenos al servidor público.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
 
 #### SECCIÓN QUINTA. ACLARACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 46.
 
-La Contraloría, a través de la Dirección de Registro Patrimonial, recibirá en cualquier momento las aclaraciones a la declaración de situación patrimonial y de intereses formuladas por los servidores públicos obligados en los términos de este Capítulo, en tanto no se haya notificado el inicio del procedimiento de responsabilidad administrativa por alguna irregularidad detectada en las declaraciones presentadas y en la forma que la Contraloría establezca para tal efecto.
+La Contraloría, a través de la Dirección de Registro Patrimonial, en forma física o a través del sistema de recepción de declaraciones de situación patrimonial y de intereses, recibirá en cualquier momento las aclaraciones a la declaración de situación patrimonial y de intereses formuladas por los servidores públicos obligados en los términos de este Capítulo, en tanto no se haya notificado el inicio del procedimiento de responsabilidad administrativa por alguna irregularidad detectada en las declaraciones presentadas y en la forma que la Contraloría establezca para tal efecto.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+En el supuesto de que las aclaraciones sean presentadas mediante el sistema de recepción de declaraciones de situación patrimonial, la Dirección de Registro Patrimonial generará un comprobante electrónico al recibirlas.
 
 Para el caso de que el servidor público presente la declaración de situación patrimonial y de intereses con posterioridad a la notificación del inicio del procedimiento de responsabilidad administrativa, se le tendrá por omiso.
 
@@ -553,19 +583,27 @@ En caso de que la declaración de situación patrimonial y de intereses no conte
 
 #### SECCIÓN SEXTA. REGISTRO
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 47.
 
-La Contraloría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Consejo y de los órganos jurisdiccionales.
+La Contraloría a través de la Dirección de Registro Patrimonial llevará el registro de las declaraciones patrimonial y de intereses y el seguimiento de la evolución de la situación patrimonial de los servidores públicos del Consejo y de los órganos jurisdiccionales.
 
-En su caso, cuando así lo estime derivado de las revisiones que lleve a cabo, emitirá y tramitará conforme este acuerdo el informe de presunta responsabilidad administrativa que corresponda.
+En su caso, cuando derivado de las revisiones advierta probables causas de responsabilidad administrativa, la Dirección de Registro Patrimonial, emitirá el Informe de Presunta Responsabilidad Administrativa respectivo y lo remitirá a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial para el inicio del procedimiento de responsabilidad administrativa que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 48.
 
-El titular de la Contraloría proporcionará a la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, la información necesaria para el funcionamiento del sistema de evolución patrimonial, de declaración de intereses y de constancias de presentación de declaración fiscal, que se almacenará en la Plataforma Digital Nacional, conforme a lo previsto en el artículo 27 de la Ley de Responsabilidades, observando las disposiciones en materia de transparencia, respecto a los servidores públicos señalados en el artículo 37 de este Acuerdo.
+La persona Titular de la Contraloría proporcionará a la Secretaría Ejecutiva del Sistema Nacional Anticorrupción, la información necesaria para el funcionamiento del sistema de evolución patrimonial, de declaración de intereses y de constancias de presentación de declaración fiscal, que se almacenará en la Plataforma Digital Nacional, conforme a lo previsto en el artículo 27 de la Ley de Responsabilidades y en la normatividad aplicable, observando las disposiciones en materia de transparencia y protección de datos personales, respecto a los servidores públicos señalados en el artículo 37 de este Acuerdo.
 
-Las declaraciones patrimoniales y de intereses serán públicas salvo los rubros cuya publicidad pueda afectar la vida privada o los datos personales protegidos por la Constitución.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-La Contraloría expedirá las normas para la operación del registro y las constancias de sanciones de inhabilitación y de no existencia de sanciones, que acrediten la situación específica de los servidores públicos que, en su caso, las requieran.
+Las declaraciones patrimoniales y de intereses serán públicas conforme lo señalado en los formatos aprobados por el Comité Coordinador del Sistema Nacional Anticorrupción.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+La Contraloría expedirá las normas para la operación del registro y las constancias de sanciones de inhabilitación y de no existencia de sanciones, que acrediten la situación específica de los servidores públicos que, en su caso, las requieran, de conformidad con la normatividad aprobada por el Sistema Nacional Anticorrupción.
 
 Dichas constancias podrán obtenerse del sistema electrónico que establezca la Contraloría.
 
@@ -573,23 +611,31 @@ Dichas constancias podrán obtenerse del sistema electrónico que establezca la 
 
 ###### Artículo 49.
 
-Los servidores públicos adscritos a las áreas administrativas con niveles del 2 al 10 del Manual General de Puestos del Consejo de la Judicatura Federal, con excepción de las plazas de carrera judicial, deberán al separarse de su empleo, cargo o comisión, rendir un informe de los asuntos a su cargo y del estado que guardan; así como realizar la entrega a quienes los sustituyan en sus funciones de los recursos humanos, materiales y financieros que tengan asignados para el ejercicio de sus atribuciones y de la documentación y archivos ordenados y clasificados conforme a las disposiciones aplicables.
+Los servidores públicos adscritos a las áreas administrativas con niveles del 2 al 10 del Manual General de Puestos del Consejo de la Judicatura Federal, con excepción de las plazas de carrera judicial; así como aquellos que administren o manejen fondos, bienes y valores públicos, deberán al separarse de su empleo, cargo o comisión, rendir un informe de los asuntos a su cargo y del estado que guardan; así como realizar la entrega a quienes los sustituyan en sus funciones de los recursos humanos, materiales y financieros que tengan asignados para el ejercicio de sus atribuciones y de la documentación y archivos ordenados y clasificados conforme a las disposiciones aplicables.
+
+También deberán realizar procesos de entrega-recepción, los servidores públicos que por comisión, suplencia, encargo o bajo cualquier otra figura, hayan quedado como encargados provisionales de algún cargo, cuyo titular deba cumplir con esta obligación.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 50.
 
-Corresponderá a los titulares de las áreas administrativas, determinar en sus respectivas áreas de competencia, los servidores públicos no mencionados en el artículo anterior que por la naturaleza e importancia de las funciones que realizan o por administrar o manejar fondos, bienes y valores públicos, quedarán sujetos a estas disposiciones, lo que se les deberá notificar por escrito.
+Corresponderá a los titulares de las áreas administrativas, determinar en sus respectivas áreas de competencia, los servidores públicos no mencionados en el artículo anterior que por la naturaleza e importancia de las funciones que realizan quedarán sujetos a estas disposiciones, lo que se les deberá notificar por escrito.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 51.
 
-El informe de los asuntos a que se refiere el artículo 49 de este Acuerdo se formulará por escrito, e incluirá la descripción de los asuntos de la competencia del servidor público de que se trate y del estado que guardan al momento de la entrega; destacando las acciones y compromisos en proceso que requieran atención especial y, en su caso, aquellos que sea necesario atender de manera inmediata por los efectos que pudieran ocasionar. Este informe se integrará al acta de entrega-recepción.
+La entrega-recepción, así como el informe de los asuntos a que se refiere el artículo 49 de este Acuerdo se formulará por escrito, e incluirá la descripción de los asuntos de la competencia del servidor público de que se trate y del estado que guardan al momento de la entrega; destacando las acciones y compromisos en proceso que requieran atención especial y, en su caso, aquellos que sea necesario atender de manera inmediata por los efectos que pudieran ocasionar. Este informe se integrará al acta de entrega-recepción.
 
 ###### Artículo 52.
 
 La entrega-recepción de los recursos prevista en el artículo 49 de este Acuerdo, se efectuará mediante acta administrativa que contendrá, entre otros elementos, los aspectos programático; presupuestal y financiero; así como lo relativo a los recursos humanos y materiales; asuntos en trámite y la situación que guardan; las observaciones de auditoría en proceso; y otros hechos que se considere conveniente consignar; así como la documentación soporte de la información proporcionada, en los términos del anexo de este Acuerdo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 53.
 
-El servidor público saliente elaborará el acta de entrega-recepción, misma que se formalizará en la fecha en que el servidor público que lo sustituya en sus funciones tome posesión del empleo, cargo o comisión, previa designación de que sea objeto por la instancia competente.
+El servidor público saliente elaborará el acta de entrega-recepción, misma que se formalizará en un plazo máximo de treinta días naturales, contados a partir de que surta efectos la separación del empleo, cargo o comisión y se realizará al servidor público que lo sustituya en sus funciones.
 
 La suscripción del acta de entrega-recepción por parte de los servidores públicos que se separen de su empleo, cargo o comisión, y de quienes los sustituyan no podrá delegarse.
 
@@ -601,9 +647,11 @@ Si por el volumen de los informes, reportes, recursos materiales y financieros, 
 
 Los documentos e información que se agreguen al acta de entrega-recepción, deberán circunscribirse a los aspectos más relevantes de la entrega, para dejar constancia de ellos.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 55.
 
-La Contraloría, a petición de las áreas administrativas, designará al o los representantes que fueren necesarios para dejar constancia de los hechos que se susciten con motivo de la entrega-recepción.
+La Contraloría, a petición de las áreas administrativas, designará al o los representantes que fueren necesarios para dejar constancia de la formalización del acto con motivo de la entrega-recepción.
 
 ###### Artículo 56.
 
@@ -621,9 +669,11 @@ En caso de que el servidor público entrante tenga la calidad de Consejero, su p
 
 La entrega del despacho y de los asuntos en trámite encomendados al servidor público saliente, no lo exime de las responsabilidades en que hubiera incurrido en términos de las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 59.
 
-Cualquier servidor público de los señalados en los artículos 49 y 50 de este Acuerdo que al separarse de su empleo, cargo o comisión, omita hacer la entrega a que se refiere este Capítulo, será requerido por la Contraloría, para que, en un plazo no mayor a treinta días naturales, siguientes a aquel en que se notifique el requerimiento, cumpla con esta obligación.
+Cualquier servidor público de los señalados en los artículos 49 y 50 de este Acuerdo que, al separarse de su empleo, cargo o comisión, omita hacer la entrega a que se refiere este Capítulo, previa notificación que el titular del área administrativa correspondiente realice a la Contraloría, será requerido por ésta, para que, en un plazo no mayor a treinta días naturales, siguientes a aquel en que se notifique el requerimiento, cumpla con esta obligación.
 
 En el supuesto previsto en el párrafo anterior, el servidor público entrante al tomar posesión o, en su caso, el encargado del despacho o el designado para la recepción, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos en trámite y los recursos asignados; lo anterior, se hará del conocimiento de la Contraloría, para efectos del aludido requerimiento y de que, en su caso, ésta promueva por sí o a través del área competente, las acciones que correspondan en términos de las disposiciones aplicables.
 
@@ -639,15 +689,21 @@ Los titulares de las áreas administrativas que tengan adscritas unidades admini
 
 Con independencia de la causa o motivo que origine la separación, el servidor público saliente no quedará relevado de las obligaciones a que se refieren las disposiciones de este Acuerdo y de las demás aplicables en materia de responsabilidades, entre ellas, la Ley Orgánica y la Ley de Responsabilidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 63.
 
-El acta de entrega-recepción deberá levantarse en cinco tantos, firmarse por los que en ella intervienen y por dos testigos de asistencia. Los anexos deberán ir foliados en todas sus fojas y rubricarse por los servidores públicos, tanto el saliente como el entrante, con la siguiente distribución:
+El acta de entrega-recepción deberá levantarse en cuatro tantos, firmarse por los que en ella intervienen y por dos testigos de asistencia. Los anexos deberán ir foliados en todas sus fojas y rubricarse por los servidores públicos, tanto el saliente como el entrante, con la siguiente distribución:
 
-I. Acta y original de los anexos firmados de manera autógrafa: para la Secretaría Particular o Coordinación Administrativa del área administrativa, la que se encargará de su resguardo;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-II. Acta y copia de los anexos: para el servidor público que realiza la entrega y para el servidor público que recibe, así como para la Contraloría; y
+I. Acta y original de los anexos firmados de manera autógrafa: para la Secretaría Particular o Coordinación Administrativa del área administrativa, la que se encargará de su resguardo; y
 
-III. Acta sin anexos: para la Contraloría.
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+II. Acta y copia de los anexos contenidos en dispositivos ópticos no regrabables (disco compacto o disco versátil digital DVD), etiquetados y rubricados por el servidor público saliente, el que recibe y los testigos: para el servidor público que realiza la entrega y para el servidor público que recibe, así como para la Contraloría;
+
+III. (DEROGADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
 
 ###### Artículo 64.
 
@@ -659,11 +715,15 @@ La Contraloría vigilará, en el ámbito de sus atribuciones, el cumplimiento de
 
 #### SECCIÓN PRIMERA. FORMALIDADES
 
+REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
+
 ###### Artículo 65.
 
-Las actuaciones se practicarán en días y horas hábiles; expresarán el lugar, fecha y hora en que se realizan y las personas que en ellas intervengan; y se redactarán en idioma español.
+Las actuaciones se practicarán en días y horas hábiles; expresarán el lugar, fecha y hora en que se realizan y las personas que en ellas intervengan; y se redactarán en idioma español, quedando facultadas las autoridades investigadoras, substanciadoras o resolutoras del asunto, para habilitar días y horas inhábiles para la práctica de aquellas diligencias que lo requieran.
 
-En el acta que se levante se asentará únicamente lo que sea necesario para hacer constar el desarrollo que haya tenido la diligencia.
+Se estimarán como días hábiles todos los del año, con excepción de aquellos días que, por virtud de ley, algún decreto o disposición administrativa, se determine como inhábil.
+
+Serán horas hábiles las que medien entre las 9:00 y las 18:00 horas.
 
 ###### Artículo 66.
 
@@ -675,11 +735,15 @@ En caso de que el escrito sea presentado utilizando lengua extranjera o indígen
 
 Para efectos del cómputo de los plazos procesales en los procedimientos de responsabilidad, se considerarán como días inhábiles los establecidos en el Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 68.
 
-En las diligencias que practiquen los servidores públicos que deban tramitar el procedimiento de responsabilidad administrativa, éstos estarán acompañados de un secretario o de dos testigos de asistencia, que darán fe de todo lo que en aquellas acontezca.
+En las diligencias que practiquen los servidores públicos que deban tramitar el procedimiento de responsabilidad administrativa, éstos estarán acompañados de un secretario o de dos testigos de asistencia, que darán fe de todo lo que en aquellas acontezca, y firmarán las actas y diligencias en que intervengan.
 
-Dentro del procedimiento de responsabilidad administrativa, la autoridad substanciadora, o el servidor público que ésta designe, presidirá los actos en los que se reciban pruebas y aquellos en los que, en su caso, se desahoguen y se rindan declaraciones bajo protesta de decir verdad.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+Dentro del procedimiento de responsabilidad administrativa, la autoridad substanciadora, o el servidor público que ésta designe, presidirá las diligencias en que intervengan y los actos en los que se reciban pruebas y aquellos en los que, en su caso, se desahoguen y se rindan declaraciones bajo protesta de decir verdad.
 
 En la práctica o desahogo de las diligencias, podrá utilizarse, según el caso y a juicio del servidor público que las practique, cualquier medio electrónico o magnético. El medio utilizado y la reproducción deberán constar en el acta respectiva.
 
@@ -703,15 +767,19 @@ El referido servidor público guardará con la seguridad debida, bajo su respons
 
 Las actuaciones deberán ser autorizadas inmediatamente por los servidores públicos a quienes corresponda firmar, dar fe o certificar el acto.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 72.
 
-Las personas referidas en el artículo 69 de este Acuerdo, en el procedimiento de responsabilidad en el que intervengan, podrán solicitar, en todo tiempo y a su costa, copia certificada de constancias o documentos que obren en autos.
+Las personas referidas en el artículo 69 de este Acuerdo, en el procedimiento de responsabilidad en el que intervengan, podrán solicitar, en todo tiempo y a su costa, copia simple o certificada de constancias o documentos que obren en autos.
 
 #### SECCIÓN SEGUNDA. NOTIFICACIONES
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 73.
 
-Las notificaciones se realizarán a más tardar dentro de los tres días hábiles siguientes al día en que se dictan las resoluciones que las motiven, con excepción de la notificación de la resolución del procedimiento de responsabilidad administrativa, la cual se realizará dentro de las setenta y dos horas siguientes a su emisión.
+Las notificaciones se realizarán a más tardar dentro de los tres días hábiles siguientes al día en que se dictan las resoluciones que las motiven.
 
 ###### Artículo 74.
 
@@ -723,9 +791,13 @@ En las investigaciones, las notificaciones se harán por conducto de la Unidad G
 
 En las investigaciones a servidores públicos adscritos a la Unidad General, las notificaciones se realizarán por conducto de la Secretaría o del órgano auxiliar instructor que se comisione.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 76.
 
 El presunto responsable podrá autorizar para oír y recibir notificaciones en su nombre, a cualquier persona con capacidad legal, quien quedará facultada para ofrecer y rendir pruebas, alegar en las audiencias, solicitar la suspensión o diferimiento, pedir que se dicte resolución y realizar cualquier acto que resulte necesario para la defensa de los derechos del autorizante, pero no podrá substituir o delegar dichas facultades en un tercero.
+
+En caso de considerarlo necesario, el presunto responsable podrá revocar la autorización a que se refiere el párrafo anterior.
 
 ###### Artículo 77.
 
@@ -739,9 +811,15 @@ En caso de que la parte que deba ser notificada haya autorizado a varias persona
 
 Las notificaciones podrán hacerse personalmente, por lista, oficio, mensajería, telegrama o medio electrónico, como el fax o correo electrónico; en cualquiera de esos casos deberá agregarse la constancia respectiva en el expediente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 80.
 
-Las notificaciones surtirán efectos al día siguiente en que se realicen.
+Las notificaciones surtirán efectos al día hábil siguiente en que se realicen.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+Cuando la notificación se realice en día inhábil, se tendrá por hecha al día hábil siguiente.
 
 Los servidores públicos deberán informar cualquier cambio de domicilio, presentando el comprobante respectivo, de conformidad con el artículo 24, fracción I, inciso c), del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo.
 
@@ -771,9 +849,11 @@ Cuando la notificación deba realizarse en el domicilio particular, el notificad
 
 En caso de que el destinatario se niegue a recibir la notificación, ésta se fijará en la puerta de entrada o en lugar visible del domicilio, se asentará razón de ello y previa autorización se notificará por lista.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 83.
 
-En caso de que el interesado no se encuentre en el domicilio se le dejará con cualquier persona que allí resida un citatorio que contendrá:
+En caso de que el interesado no se encuentre en el domicilio se le dejará con cualquier persona mayor de edad que allí resida un citatorio que contendrá:
 
 I. Denominación del órgano que dictó el acuerdo o resolución que se pretende notificar;
 
@@ -921,6 +1001,8 @@ En ningún caso podrá exigirse el reintegro del monto de la percepción otorgad
 
 ### CAPÍTULO TERCERO. INVESTIGACIÓN
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 108.
 
 Los órganos competentes para conocer de las responsabilidades administrativas son los siguientes:
@@ -1063,8 +1145,6 @@ Antes del inicio del procedimiento de responsabilidad administrativa, de requeri
 
 La investigación se seguirá forzosamente por el hecho o hechos que se señalen en el inicio de ésta, si durante la indagatoria se advierten otros hechos probablemente constitutivos de responsabilidad, podrán ser objeto de investigación separada.
 
-La Unidad General y la Secretaría, según corresponda, informarán al Presidente y a la Comisión de Vigilancia sobre las investigaciones que hayan ordenado, respectivamente.
-
 ###### Artículo 119.
 
 Para conocer la verdad de los hechos la autoridad investigadora podrá solicitar información o documentación a cualquier persona física o moral ya sea que pertenezca a las partes o a terceros, sin más limitación que la de que las pruebas hayan sido obtenidas lícitamente, con pleno respeto a los derechos humanos y tengan relación inmediata con los hechos, solo estará excluida la confesional a cargo de las partes por absolución de posiciones.
@@ -1143,6 +1223,12 @@ VI. La solicitud de medidas cautelares, de ser el caso.
 
 La autoridad investigadora remitirá el informe de presunta responsabilidad administrativa a la autoridad substanciadora, que corresponda, para los efectos del artículo 136 de este Acuerdo.
 
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 129 Bis.
+
+En caso de que la Autoridad substanciadora advierta que el Informe de Presunta Responsabilidad Administrativa adolece de alguno o algunos de los requisitos señalados en el artículo 128 de este Acuerdo, o que la narración de los hechos fuere obscura o imprecisa, prevendrá a la autoridad que lo emitió para que los subsane en un término de tres días hábiles. En caso de no hacerlo se tendrá por no presentado dicho informe, sin perjuicio de que podrá presentarse nuevamente siempre que la sanción prevista para la falta administrativa en cuestión no hubiera prescrito.
+
 ### CAPÍTULO QUINTO. PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA EN LÍNEA
 
 #### SECCIÓN PRIMERA. INICIO DEL PROCEDIMIENTO ADMINISTRATIVO
@@ -1165,9 +1251,11 @@ En caso de que se adviertan indicios de conductas probablemente constitutivas de
 
 En el supuesto en que se cuestione la autenticidad de la suscripción de los escritos de queja o denuncia, y a fin de evitar alteración, falsificación o suplantación de la personalidad, la Secretaría, la Contraloría o la Unidad General, según corresponda, podrán requerir al promovente para que, previa identificación, ratifique el contenido del ocurso presentado a su nombre.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 134.
 
-En caso de que el escrito de queja o denuncia sea obscuro o irregular, la Secretaría o la Contraloría, según corresponda, deberán prevenir al promovente por una sola vez, para que en el plazo de tres días hábiles lo aclare o corrija, señalándole en forma concreta las irregularidades.
+En caso de que el escrito de queja o denuncia sea obscuro o irregular, y se adviertan indicios de conductas probablemente constitutivas de responsabilidad administrativa, la Secretaría o la Contraloría, según corresponda, deberá prevenir al promovente por una sola vez, para que en el plazo de tres días hábiles lo aclare o corrija, señalándole en forma concreta las irregularidades, hecho lo cual, se proveerá sobre su admisión o desechamiento.
 
 ###### Artículo 135.
 
@@ -1205,9 +1293,13 @@ III. El informe de presunta responsabilidad administrativa.
 
 En todo caso el presunto responsable estará en posibilidad de consultar el expediente en las instalaciones del área u órgano auxiliar instructor, sin perjuicio de solicitar copias de las constancias que considere necesarias, así como la ampliación del plazo a que se refiere el artículo 141 de este Acuerdo.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 139.
 
-Con el emplazamiento se citará al presunto responsable para que comparezca personalmente a la celebración de una audiencia pública ante la autoridad substanciadora que corresponda o el órgano auxiliar instructor designado para tal efecto, señalándole con precisión el día, domicilio y hora en que tendrá lugar. Del mismo modo, se le hará saber el derecho que tiene de no declarar en contra de sí mismo ni a declararse culpable, a tener una defensa adecuada por abogado, el cual elegirá libremente, si no quiere o no puede nombrarlo le será nombrado de oficio un defensor de los adscritos al Instituto Federal de Defensoría Pública, desde ese momento y hasta la ejecución de la sanción, en su caso.
+Con el emplazamiento se citará al presunto responsable para que comparezca personalmente a la celebración de una audiencia pública ante la autoridad substanciadora que corresponda o el órgano auxiliar instructor designado para tal efecto, señalándole con precisión el día, domicilio y hora en que tendrá lugar. Del mismo modo, se le hará saber el derecho que tiene de no declarar en contra de sí mismo ni a declararse culpable, a tener una defensa adecuada por abogado, el cual elegirá libremente, si no quiere o no puede nombrarlo le será nombrado de oficio un defensor de los adscritos al Instituto Federal de Defensoría Pública, durante la substanciación del procedimiento y hasta la ejecución de la sanción, en su caso.
+
+Para tales efectos, la autoridad substanciadora solicitará al Instituto Federal de Defensoría Pública, designe al Defensor o Defensores Públicos que estime necesarios para la representación.
 
 ###### Artículo 140.
 
@@ -1217,7 +1309,9 @@ La autoridad substanciadora o el órgano auxiliar instructor, según corresponda
 
 Entre la fecha de emplazamiento y la de la audiencia, deberá mediar un plazo no menor de diez ni mayor de quince días hábiles. El diferimiento de la audiencia sólo podrá otorgarse por causas de caso fortuito o de fuerza mayor debidamente justificadas, o bien mediante solicitud justificada de parte del presunto responsable, de conformidad con lo siguiente:
 
-I. Cinco días hábiles más: a simple petición;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+I. Cinco días hábiles más: a simple petición, por única ocasión;
 
 II. Diez días hábiles más: si se trata de servidor público que ya no está adscrito, por cualquier motivo, al órgano jurisdiccional o área administrativa en el que se hayan cometido las conductas que se le atribuyen; y
 
@@ -1225,13 +1319,13 @@ III. Quince días hábiles más: en el caso de ex-servidor público del Poder Ju
 
 Los plazos establecidos en las fracciones anteriores, según sea el caso, se aumentará un día más por cada doscientas fojas que contenga el expediente, sin exceder de treinta días hábiles.
 
-La solicitud de ampliación de plazo será calificada y, en su caso, autorizada por la autoridad substanciadora.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+La solicitud de diferimiento será calificada y, en su caso, autorizada por la autoridad substanciadora o el órgano auxiliar instructor.
 
 ###### Artículo 142.
 
-En caso de que el servidor público presunto responsable se encuentre de vacaciones o en el goce de una licencia, deberá emplazársele para la audiencia a partir de que se reintegre a sus labores, hecha excepción si se encuentra de comisión aprobada por el Consejo.
-
-Si una vez emplazado comienza el periodo vacacional del servidor público o el goce de una licencia, no se interrumpirá ningún plazo.
+(DEROGADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
 
 ###### Artículo 143.
 
@@ -1273,9 +1367,11 @@ Agotado lo anterior, no se admitirán más pruebas, salvo aquellas que a juicio 
 
 En los procedimientos de responsabilidad administrativa que se inicien con motivo de la declaración de situación patrimonial, si del informe rendido por el servidor público se advierte confesión expresa respecto de la irregularidad que se le atribuye o, en su caso, señale que no tiene pruebas que ofrecer, se procederá de inmediato a dictar la resolución correspondiente en los términos previstos por los artículos 111, 112 y 151 de este Acuerdo.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 146.
 
-Las copias certificadas de actuaciones judiciales o de otro documento que obre en un órgano jurisdiccional, una oficina de correspondencia común o un órgano del Consejo, serán gratuitas siempre que el servidor público o el particular que las solicite justifique que será con el objeto de exhibirlas dentro de un procedimiento de responsabilidad administrativa instaurado en su contra.
+Las copias simples y/o certificadas de actuaciones judiciales o de otro documento que obre en un órgano jurisdiccional, una oficina de correspondencia común o un órgano del Consejo, serán gratuitas siempre que el servidor público o el particular que las solicite justifique que será con el objeto de exhibirlas dentro de un procedimiento de responsabilidad administrativa instaurado en su contra.
 
 ###### Artículo 147.
 
@@ -1295,9 +1391,11 @@ La Comisión, por conducto de su presidente, informará al Pleno sobre las resol
 
 #### SECCIÓN TERCERA. RESOLUCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 150.
 
-Concluido el término para presentar alegatos, la autoridad substanciadora turnará el asunto dentro del plazo de cinco días hábiles, al Consejero que por turno corresponda, para que formule por escrito el proyecto de resolución, el cual será sometido a la consideración del Pleno o la Comisión, según sea el caso.
+En los procedimientos de responsabilidad administrativa instaurados por la Secretaría, concluido el término para presentar alegatos, la autoridad substanciadora turnará el asunto dentro del plazo de cinco días hábiles, al Consejero que por turno corresponda, para que formule por escrito el proyecto de resolución, el cual será sometido a la consideración del Pleno o la Comisión, según sea el caso.
 
 El plazo para elaborar el proyecto de resolución de los procedimientos de responsabilidad administrativa será de treinta días hábiles siguientes a la fecha en que el expediente sea recibido en la ponencia del Consejero que por turno corresponda.
 
@@ -1311,9 +1409,11 @@ En los procedimientos de responsabilidad administrativa instaurados por la Contr
 
 El plazo para dictar la resolución podrá ampliarse por una sola vez por otros treinta días hábiles más, cuando la complejidad del asunto así lo requiera, debiéndose expresar los motivos para ello.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 152.
 
-En caso de que el Consejero ponente o el titular de la Contraloría consideren necesaria la práctica de alguna investigación porque adviertan otros hechos que pueda implicar nueva responsabilidad administrativa, emitirán un dictamen que someterán a la consideración del Pleno o de la Comisión, según corresponda, para que determinen lo procedente, lo que deberá notificarse al presunto responsable.
+En caso de que el Consejero ponente o la persona Titular de la Contraloría adviertan otros hechos que pueda implicar nueva responsabilidad administrativa, en la propia resolución ordenarán remitir las constancias necesarias a la Unidad General, para que determinen lo procedente.
 
 Para conocer la verdad de los hechos la autoridad resolutora podrá solicitar información o documentación a cualquier persona física o moral ya sea que pertenezca a las partes o a terceros, sin más limitación que la de que las pruebas hayan sido obtenidas lícitamente, con pleno respeto a los derechos humanos y tengan relación inmediata con los hechos, solo estará excluida la confesional a cargo de las partes por absolución de posiciones.
 
@@ -1503,7 +1603,9 @@ Tramitado el recurso de reconsideración se remitirá, con el expediente y anexo
 
 Para la ejecución de las sanciones a que se refiere este Acuerdo, se observará lo siguiente:
 
-I. Se llevará a cabo cuando la resolución haya causado estado, con excepción de aquéllas en que se imponga como sanción la destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público, cuya ejecución será inmediata;
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+I. Se llevará a cabo cuando la resolución haya causado estado, con excepción de aquéllas en que se imponga como sanción la destitución o inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público, cuya ejecución será inmediata esto es, a partir del día siguiente al que haya sido notificado el sancionado; la destitución será ejecutada por parte de la Dirección General de Recursos Humanos;
 
 II. Tratándose de servidores públicos:
 
@@ -1511,7 +1613,13 @@ a) Apercibimiento privado y amonestación privada: se dará a conocer a través 
 
 b) Apercibimiento público y amonestación pública: en caso de que el servidor público sancionado sea magistrado de Circuito, juez de Distrito o titular de área administrativa será citado en el edificio sede del Consejo para que, en presencia de la Comisión, el presidente de la misma dé a conocer la sanción.
 
-En los demás casos, la Secretaría o la Contraloría, según corresponda, citará al servidor público con el apoyo de un juez de Distrito comisionado para tal fin, o del titular del área administrativa a la que se encuentre adscrito, para que el servidor público designado haga efectiva la sanción ante la presencia del personal del área, se levantará acta circunstanciada de la diligencia que firmarán todos los que hayan intervenido en ella;
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+En los demás casos, la Secretaría o la Contraloría, según corresponda, notificarán la resolución y será ejecutada por el titular del órgano jurisdiccional o unidad administrativa.
+
+> <small>(ADICIONADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+En caso de que se trate de un ex servidor público sancionado, será citado en las oficinas de la autoridad substanciadora para que, en presencia del personal actuante se dé a conocer la sanción.
 
 c) Sanción económica: se dará a conocer a través de la autoridad substanciadora en términos de este Acuerdo y deberá comunicarla al Servicio de Administración Tributaria para efectos de la ejecución; y
 
@@ -1529,11 +1637,15 @@ c) La suspensión de actividades cuando el particular tenga carácter de persona
 
 d) Disolución de la sociedad respectiva: la Secretaría o la Contraloría, según corresponda, procederán de conformidad con la Ley General de Sociedades Mercantiles en materia de disolución y liquidación de las sociedades o, en su caso, conforme a los Códigos sustantivos en materia civil federal o de las entidades federativas, según corresponda, y las demás disposiciones aplicables.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 178.
 
-El archivo electrónico de las resoluciones que causen estado e impongan sanción, según corresponda, deberán remitirse a la Dirección General de Recursos Humanos para que la agregue al expediente personal del servidor público sancionado y a la Contraloría para que, en su caso, la integre al historial del particular de que se trate y actualice el Registro de Servidores Públicos y de Particulares Sancionados.
+Deberá remitirse a la Dirección General de Recursos Humanos, el archivo electrónico de toda resolución que cause estado e imponga sanción, para que se agregue al expediente personal del servidor público o ex servidor público sancionado; y a la Contraloría para que actualice el Sistema de Registro de Servidores Públicos y de Particulares Sancionados.
 
-En caso de que la sanción impuesta sea la inhabilitación del servidor público, se enviarán copias certificadas a la Contraloría de la Suprema Corte de Justicia de la Nación, a la Contraloría del Tribunal Electoral, a la Secretaría de la Función Pública, y a las judicaturas y contralorías de las entidades federativas.
+Asimismo, se le informará a la Contraloría de aquellas abstenciones de sanción que haya realizado la autoridad substanciadora, para el efecto que se precisa en el artículo 20.
+
+En caso de que la sanción impuesta sea la inhabilitación del servidor público, se enviarán copias certificadas a la Contraloría de la Suprema Corte de Justicia de la Nación, a la Contraloría del Tribunal Electoral, a la Secretaría de la Función Pública o a quien administre la Plataforma Digital Nacional, que resulten necesarias.
 
 Las quejas y denuncias que sean desechadas, se declaren improcedentes o infundadas, y los procedimientos de responsabilidad administrativa en que se declare sin materia o prescrita la facultad para sancionar, únicamente se remitirá el archivo electrónico correspondiente a la Secretaría o Contraloría, según corresponda.
 
@@ -1561,9 +1673,11 @@ II. Cuando se hayan instaurado contra el mismo servidor, servidores públicos o 
 
 También procederá la acumulación cuando a juicio del órgano competente sea necesario para evitar resoluciones contradictorias.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 183.
 
-El Pleno o la Comisión, en sus respectivos ámbitos de competencia, podrán ordenar la acumulación, en cuyo caso, el procedimiento más reciente se acumulará al más antiguo, para lo cual se remitirá el expediente respectivo.
+El Pleno o la Comisión, en sus respectivos ámbitos de competencia, podrán ordenar la acumulación, en cuyo caso, el procedimiento más reciente se acumulará al más antiguo, para lo cual se remitirá el expediente original respectivo.
 
 ### CAPÍTULO SEXTO. SUPLETORIEDAD
 
@@ -1573,11 +1687,15 @@ El procedimiento de responsabilidad administrativa se promoverá, substanciará 
 
 El presunto responsable podrá manifestar en el informe o en la celebración de la audiencia a la que se refiere el artículo 139 de este Acuerdo la vía para tramitar el procedimiento, la cual una vez elegida no podrá modificarla. En caso de que no manifieste su elección, se entenderá que optó por la vía tradicional.
 
-En caso de que el presunto responsable opte por el trámite del procedimiento por medio del Sistema de Justicia en Línea, deberá precisar un domicilio en el que pueda ser localizado y un correo electrónico válido y vigente, para que le sea enviada la clave de acceso y contraseña provisional para ingresar al Sistema de Justicia en Línea y, en su caso, genere la clave de acceso y contraseña definitiva.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+En caso de que el presunto responsable opte por el trámite del procedimiento por medio del Sistema de Justicia en Línea, deberá precisar un domicilio en el que pueda ser localizado y un correo electrónico válido y vigente, para que le sea enviada la clave de acceso y contraseña provisional para ingresar al Sistema de Justicia en Línea y, en su caso, genere la clave de acceso y contraseña definitiva, así como los lineamientos de operación del Sistema.
 
 En caso de que no señale un correo electrónico o el domicilio en el que pueda ser localizado, las notificaciones posteriores se harán por lista.
 
-Todas las actuaciones del procedimiento del Sistema de Justicia en Línea deberán constar en el expediente físico correspondiente.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+Todas las actuaciones del procedimiento que se lleven a través del Sistema de Justicia en Línea o por la vía tradicional, se integrarán en un mismo expediente físico, sin que sea obstáculo que diversos presuntos responsables optaran por la vía tradicional o en línea y los acuerdos serán firmados electrónicamente.
 
 En el procedimiento de responsabilidad en línea deberán observarse los lineamientos que para tal efecto expidan de manera conjunta la Secretaría, la Contraloría y la Dirección General de Tecnologías de la Información.
 
@@ -1589,7 +1707,9 @@ La utilización de la contraseña de acceso al Sistema de Justicia en Línea pro
 
 En el Sistema de Justicia en Línea se integrará el expediente electrónico garantizando su seguridad, inalterabilidad, autenticidad, integridad y durabilidad, conforme a los lineamientos que expida la Contraloría y la Secretaría.
 
-Las pruebas documentales deberán remitirse físicamente a la autoridad substanciadora, con las cuales se formará un cuadernillo de anexos por separado.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+Las pruebas documentales que sean requeridas por los implicados o por la autoridad substanciadora a diversas instancias deberán remitirse físicamente a ésta, con las cuales se formará un cuadernillo de anexos por separado en caso de ser necesario.
 
 Las pruebas testimoniales se desahogarán personalmente ante la autoridad substanciadora u órgano auxiliar instructor o a través del método de videoconferencia cuando ello sea posible.
 
@@ -1615,7 +1735,9 @@ Cualquier actuación en el procedimiento de responsabilidad en línea se efectua
 
 Los instrumentos en los que se haga constar la existencia de pruebas diversas a las documentales se integrarán al expediente electrónico. El servidor público deberá digitalizar las constancias relativas y procederá a la certificación de su cotejo con los originales físicos, así como a garantizar el resguardo de éstos.
 
-Las pruebas diversas a las documentales deberán ofrecerse en el informe de contestación y presentarse en la misma fecha en la que se registre en el Sistema de Justicia en Línea su ofrecimiento, haciendo constar su recepción por vía electrónica.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+Las pruebas diversas a las documentales deberán ofrecerse en el informe de contestación y/o en la audiencia pública las cuales, en el momento oportuno, se registrarán en el Sistema de Justicia en Línea, o el presunto responsable podrá presentarlas a través del mismo.
 
 ###### Artículo 191.
 
@@ -1623,13 +1745,15 @@ Las notificaciones que se practiquen dentro del procedimiento de responsabilidad
 
 I. Todas las actuaciones y resoluciones que conforme a este Acuerdo deban notificarse en forma personal, mediante correo certificado con acuse de recibo, o por oficio, se deberán realizar a través del Sistema de Justicia en Línea, con excepción de aquellas que se refieran a la ejecución de sentencias;
 
-II. El notificador deberá elaborar la minuta electrónica en la que precise la actuación o resolución a notificar, así como los documentos que se adjunten a la misma;
+II. (DEROGADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)
 
 III. El notificador enviará a la dirección de correo electrónico de las partes a notificar, un aviso informando que se ha dictado una actuación o resolución en el expediente electrónico;
 
 IV. Se tendrá como legalmente practicada la notificación, cuando el Sistema de Justicia en Línea genere el acuse de recibo electrónico donde conste la fecha y hora en que las partes notificadas ingresaron al expediente electrónico, lo que deberá suceder dentro de los tres días hábiles siguientes a la fecha de envío del aviso a la dirección de correo electrónico proporcionado; y
 
-V. En caso de que el Sistema de Justicia en Línea no genere el acuse de recibo electrónico donde conste que la notificación fue realizada, la misma se efectuará mediante lista al tercer día hábil contado a partir de la fecha de envío del correo electrónico, fecha en que se tendrá por legalmente notificado.
+> <small>(REFORMADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+V. En caso de que el Sistema de Justicia en Línea no genere el acuse de recibo electrónico donde conste que la notificación fue realizada, la misma se efectuará mediante lista al cuarto día hábil contado a partir del día siguiente a la fecha de envío del correo electrónico, fecha en que se tendrá por legalmente notificado.
 
 ###### Artículo 192.
 
@@ -1703,11 +1827,43 @@ La información y documentación podrá solicitarse a las instituciones financie
 
 Dicha atribución podrá ser igualmente ejercida por el titular de la Contraloría en términos de las disposiciones aplicables, con independencia del ejercicio de sus atribuciones en materia de registro patrimonial.
 
-A fin de que pueda ser proporcionada la información requerida, deberá especificarse en la solicitud correspondiente la denominación de la dependencia o entidad a la que va dirigida; el nombre de la institución bancaria o financiera que corresponda; el nombre del servidor público o particular involucrado, su número de cuenta o cuentas; en su caso, otros datos y elementos que permitan su identificación plena; asimismo, debe precisarse la información, registros y datos que se solicitan.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+A fin de que pueda ser proporcionada la información requerida, deberá especificarse como mínimo en la solicitud correspondiente:
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+I. Nombre completo del servidor público o particular involucrado;
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+II. Su registro federal de contribuyentes especificando la homoclave y, en caso de no contar con dicho registro, a efecto de evitar homonimias, podrán proporcionar cualquiera de los datos siguientes: domicilio o clave única de registro de población o fecha de nacimiento;
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+III. El carácter que en la investigación, auditoría, revisión, fiscalización o procedimiento de que se trate, tengan las personas físicas o morales respecto de las cuales se formulen los Requerimientos;
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+IV. La existencia de vínculo fiscal, en caso de requerimientos a nombre de personas físicas o morales distintas al servidor público involucrado;
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+V. La información y documentación que se solicita, precisando si requiere saldos, contratos, estados de cuenta, tarjeta de registro de firmas, entre otros;
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+VI. La institución financiera y número de cuenta; y
+
+> <small>(ADICIONADA POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+VII. El período por el que se requiere dicha información y documentación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 204.
 
-El Consejo, en el ámbito de su competencia, dará puntual seguimiento al desarrollo y evolución de la situación patrimonial y financiera de los servidores públicos del Poder Judicial de la Federación; para tal fin, el Pleno o, en su caso, el titular de la Contraloría, autorizarán las acciones y medidas necesarias para el ejercicio de dicha atribución.
+El Consejo, en el ámbito de su competencia, dará puntual seguimiento al desarrollo y evolución de la situación patrimonial y financiera de los servidores públicos del Poder Judicial de la Federación; para tal fin, el Pleno o, en su caso, la persona Titular de la Contraloría, autorizarán las acciones y medidas necesarias para el ejercicio de dicha atribución, por conducto de las áreas a su cargo.
 
 La ejecución de las acciones y medidas corresponde a la Contraloría, cuyo titular podrá autorizar otras distintas, lo cual deberá hacer del conocimiento del Pleno.
 
@@ -1729,13 +1885,17 @@ La información de la situación bancaria de los servidores públicos del Poder 
 
 En el supuesto que los datos e información bancaria proporcionados no fueran suficientes, podrá solicitarse mayor información y datos; de estimarlo necesario el Presidente o la Comisión de Vigilancia decretarán, según corresponda, el inicio del procedimiento de investigación, con objeto de recabar la información que se requiera.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 208.
 
-En los nombramientos que se expidan se establecerá expresamente que el servidor público al aceptar el cargo conoce y acepta que se lleve a cabo la revisión de su situación bancaria, cuando así se requiera.
+En los nombramientos que se expidan se establecerá expresamente que el servidor público al aceptar el cargo conoce y acepta que se lleve a cabo la revisión de su situación patrimonial y de intereses, cuando así se requiera.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 209.
 
-Cuando en ejercicio de la atribución relativa a verificar la situación patrimonial y financiera del Presidente y de los Consejeros, se solicite información sobre sus registros y situación bancaria por estimarse necesaria, bastará que el titular de la Contraloría dé aviso al Pleno, sin que se requiera someter ese punto a votación.
+Cuando en ejercicio de la atribución relativa a verificar la situación patrimonial y de intereses del Presidente y de los Consejeros, se solicite información sobre sus registros y situación patrimonial y de intereses por estimarse necesaria, bastará que la persona Titular de la Contraloría dé aviso al Pleno, sin que se requiera someter ese punto a votación.
 
 ###### Artículo 210.
 
@@ -1745,11 +1905,15 @@ La documentación, información y datos que proporcionen las dependencias, entid
 
 El titular de la Contraloría revisará la documentación e información proporcionada e informará directamente al Pleno o al Presidente, según corresponda, a fin de que determine lo conducente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 212.
 
-La información y datos que se recaben, quedarán en resguardo del titular de la Contraloría o del área que el Pleno o el Presidente designe, bajo su más estricta responsabilidad.
+La información y datos que se recaben, quedarán en resguardo de las áreas, que el Pleno o el Presidente o la persona Titular de la Contraloría designen, bajo su más estricta responsabilidad.
 
-Los servidores públicos del Consejo están obligados a guardar confidencialidad sobre la información y datos que conozcan con motivo del ejercicio de sus atribuciones para llevar a cabo la revisión de la situación financiera y patrimonial de los magistrados de Circuito, jueces de Distrito y servidores públicos adscritos a los órganos jurisdiccionales y a las áreas administrativas, así como de particulares cuando se les atribuya alguna falta administrativa que los vincule a las funciones propias del Poder Judicial de la Federación.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+Los servidores públicos del Consejo están obligados a guardar reserva y confidencialidad sobre la información y datos que conozcan con motivo del ejercicio de sus atribuciones para llevar a cabo la revisión de la situación patrimonial y de intereses de los magistrados de Circuito, jueces de Distrito y servidores públicos adscritos a los órganos jurisdiccionales y a las áreas administrativas, así como de particulares cuando se les atribuya alguna falta administrativa que los vincule a las funciones propias del Poder Judicial de la Federación.
 
 Remitida al Consejo la información bancaria y datos financieros, los servidores públicos del Consejo son responsables, en los términos de las disposiciones aplicables, por violación del secreto bancario.
 
@@ -1763,15 +1927,19 @@ El servidor público que indebidamente quebrante la reserva o confidencialidad d
 
 Los procedimientos y acciones que se lleven a cabo para la revisión de los recursos financieros y situación bancaria se aplicarán sin menoscabo de los derechos de los servidores públicos o de particulares de que se trate, cumpliendo con las normas que rigen en materia de transparencia y protección de datos personales.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 215.
 
-El Pleno, a través del titular de la Contraloría, establecerá acciones de coordinación con la Secretaría de la Función Pública y con las dependencias o entidades públicas que correspondan, a fin de obtener la información y datos financieros relacionados con los registros y situación bancaria de los servidores públicos, cuando así se requiera.
+El Pleno, a través de la persona Titular de la Contraloría, establecerá acciones de coordinación con los integrantes del Sistema Nacional Anticorrupción y con las dependencias o entidades públicas que correspondan, a fin de obtener la información, datos financieros relacionados con los registros, situación bancaria, patrimonial y de intereses de los servidores públicos, cuando así se requiera.
 
-En materia de revisión de la situación financiera, el Pleno llevará a cabo las acciones necesarias para hacer efectivo el ejercicio de esta atribución.
+En materia de revisión de la situación patrimonial y de intereses, el Pleno llevará a cabo las acciones necesarias para hacer efectivo el ejercicio de esta atribución.
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 216.
 
-Los servidores públicos que en ejercicio de sus funciones tengan conocimiento cierto de alguna situación que pudiera resultar inusual o irregular, relacionada con las operaciones bancarias o ingresos económicos y situación financiera de los servidores públicos del Poder Judicial de la Federación, deberá informarlo al Pleno o al titular de la Contraloría, para que procedan en el ámbito de su competencia.
+Los servidores públicos que en ejercicio de sus funciones tengan conocimiento cierto de alguna situación que pudiera resultar inusual o irregular, relacionada con la situación patrimonial o de intereses de los servidores públicos del Poder Judicial de la Federación, deberá informarlo al Pleno o a la persona Titular de la Contraloría, para que procedan en el ámbito de su competencia.
 
 ###### Artículo 217.
 
@@ -1779,9 +1947,11 @@ Cuando de los datos, documentación e información bancaria proporcionados en re
 
 La decisión y resultados derivados de las acciones que se lleven a cabo en el ámbito penal o en materia de responsabilidad administrativa se informarán al Pleno, así como al titular de la Contraloría. En su caso, se harán los registros y anotaciones respectivos.
 
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 218.
 
-El titular de la Contraloría informará al Pleno sobre los resultados derivados de la revisión de la situación financiera de los servidores públicos, a fin de que, de estimarlo necesario, adopte las medidas conducentes e instruya al área o áreas administrativas competentes, para que, de ser el caso, procedan conforme a derecho corresponda.
+La persona Titular de la Contraloría informará al Pleno sobre los resultados derivados de la revisión de la situación patrimonial y de intereses de los servidores públicos, a fin de que, de estimarlo necesario, adopte las medidas conducentes e instruya al área o áreas administrativas competentes, para que, de ser el caso, procedan conforme a derecho corresponda.
 
 ## TÍTULO QUINTO. DEL FUNCIONAMIENTO DE LA VISITADURÍA JUDICIAL
 
@@ -1845,7 +2015,9 @@ La materia de las visitas ordinarias se limitará a los aspectos previstos en la
 
 La materia de las visitas extraordinarias se limitará a los aspectos previstos en la Ley Orgánica, en este Acuerdo y demás que determinen el Presidente y, en su caso, el Pleno.
 
-En caso de que, durante el desarrollo de una visita ordinaria, se presentare alguna queja por escrito, el Visitador Judicial "B" asentará en el acta dicha circunstancia y remitirá el escrito junto con la misma al Visitador General, para que la haga llegar al titular de la Secretaría. Los Visitadores Judiciales "A" estarán facultados para recibir quejas administrativas formuladas por escrito o verbalmente. En este último caso, levantarán un acta ante dos testigos de asistencia.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+En caso de que, durante el desarrollo de una visita ordinaria, se presentare alguna queja por escrito, el Visitador Judicial "B" asentará en el acta dicha circunstancia y remitirá el escrito junto con la misma al Visitador General, para que la haga llegar al titular de la Secretaría, o a la persona Titular de la Contraloría, según corresponda. Los Visitadores Judiciales "A" estarán facultados para recibir quejas administrativas formuladas por escrito o verbalmente. En este último caso, levantarán un acta ante dos testigos de asistencia.
 
 ###### Artículo 229.
 
@@ -2804,3 +2976,15 @@ D.O.F. 9 DE OCTUBRE DE 2019.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos que se encuentren en trámite el día de la aprobación, y por tanto de la entrada en vigor del presente Acuerdo, se resolverán conforme a las disposiciones contenidas en el mismo.
+
+CUARTO. Tratándose de las aclaraciones presentadas en el sistema de recepción de declaraciones, a que se refiere el artículo 46 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, la Dirección General de Tecnologías de la Información, contará con un plazo de tres meses para su implementación.
