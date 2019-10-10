@@ -4,7 +4,7 @@ identifier: "SON-ley-de-cultura-fisica-y-deporte-del-estado-de-sonora-66847"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-16"
-last_updated: "2018-06-25"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,15 @@ state: "SON"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 16 de febrero de 2009.
 
 EDUARDO BOURS CASTELO, Gobernador del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
 
-Que el Honorable Congreso del Estado, se ha servido dirigirme la siguiente LEY:
+Que el Honorable Congreso del Estado, se ha servido dirigirme la siguiente
+
+L E Y :
 
 NUMERO 254
 
@@ -53,7 +55,9 @@ I.- Fomentar la creación, conservación, mejoramiento, protección, difusión, 
 
 II.- Incentivar la inversión social y privada para el desarrollo de la cultura física y el deporte;
 
-III.- Fomentar el desarrollo de la cultura física y el deporte, como medio importante en la prevención del delito y de enfermedades, así como en la preservación de la salud;
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+III.- Fomentar el desarrollo de la cultura física y el deporte, como medio importante en la prevención del delito, de enfermedades, de adicciones y del uso indebido de substancias psicoactivas, así como en la preservación de la salud;
 
 IV.- Promover las medidas necesarias para erradicar la violencia y reducir los riesgos en la práctica de actividades físicas, recreativas o deportivas que pudieran derivarse del dopaje así como de otros métodos no reglamentarios;
 
@@ -255,7 +259,7 @@ I.- Secretaria de Educación y Cultura;
 
 II.- Secretaria de Hacienda;
 
-III.- Secretaría de Salud Pública;
+III.- Secretaria de Salud Pública;
 
 IV.- Sistema para el Desarrollo Integral de la Familia del Estado de Sonora;
 
@@ -807,11 +811,11 @@ La Comisión coordinará acciones con los municipios y concertará con los secto
 
 La Comisión formulará las normas y criterios técnicos de construcción requeridos en materia de instalaciones deportivo-recreativas, deportivas, del deporte en la rehabilitación y activación física deportiva, debiendo considerar la reglamentación emitida por los organismos rectores en materia deportiva a nivel federal.
 
-###### Articulo 63.
+###### Artículo 63.
 
 Las instalaciones destinadas a la cultura física y el deporte deberán proyectarse, construirse, operarse y administrarse en el marco de la normatividad aplicable, privilegiando la sana y pacífica convivencia, de manera que impidan las posibles acciones de violencia o conductas antisociales.
 
-###### Articulo 64.
+###### Artículo 64.
 
 En los términos de los convenios de coordinación y de colaboración administrativa respectivos, los municipios inscribirán sus instalaciones destinadas a la cultura física y deporte al Registro Estatal del Deporte, previa solicitud de los responsables o administradores de cualquier instalación de cultura física o deporte, con la finalidad de contar con la información actualizada de las mismas.
 
@@ -1233,7 +1237,7 @@ El reglamento de la presente ley deberá expedirse dentro de un plazo no mayor a
 
 COMUNÍQUESE AL TITULAR DEL PODER EJECUTIVO PARA SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.- SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- HERMOSILLO, SONORA, FEBRERO 6 DEL 2009.- DIPUTADA PRESIDENTA.- C. IRMA VILLALOBOS RASCÓN.- RUBRICA.- DIPUTADO SECRETARIO.- C. OLIVER FLORES BAREÑO.- RUBRICA.- DIPUTADO SECRETARIO.- C. ROGELIO M. DÍAZ BROWN RAMSBURGH.- RUBRICA.-
 
-POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS NUEVE DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL NUEVE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- WENCESLAO COTA MONTOYA.- RUBRICA.-
+POR TANTO, MANDO SE PUBLIQUE EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE HERMOSILLO, SONORA, A LOS NUEVE DÍAS DEL MES DE FEBRERO DEL AÑO DOS MIL NUEVE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- EDUARDO BOURS CASTELO.- RUBRICA.- EL SECRETARIO DE GOBIERNO.- WENCESLAO COTA MONTOYA.- RUBRICA.-
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -1280,3 +1284,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría y la Comisión del Deporte del Estado de Sonora, cuentan con 90 días a partir de la publicación del presente Decreto, para celebrar el convenio señalado en el párrafo tercero del artículo 78 de la Ley de Educación para el Estado de Sonora.
+
+B.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 58, QUE REFORMA EL ARTÍCULO 2, FRACCIÓN III DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
