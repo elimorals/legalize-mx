@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2018-04-26"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -469,15 +469,27 @@ La Secretaría, en coordinación con las dependencias competentes del Ejecutivo 
 
 Se entiende por atención médica el conjunto de servicios que se proporcionen al individuo, con el fin de proteger, promover y restaurar su salud.
 
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+Para efectos del párrafo anterior los prestadores de servicios de salud podrán apoyarse en las Guías de Práctica Clínica y los medios electrónicos de acuerdo con las normas oficiales mexicanas que al efecto emita la Secretaría de Salud.
+
 ###### ARTICULO 29.
 
 Las actividades de atención médica son:
 
 I. Preventivas, que incluyen las de promoción general y las de protección específica;
 
-II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno; y
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2019)</small>
 
-III. De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas y mentales.
+II. Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
+
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+III. De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad, y
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+IV. Paliativas, que incluyen el cuidado integral para preservar la calidad de vida del paciente, a través de la prevención, tratamiento y control del dolor, y otros síntomas físicos y emocionales por parte de un equipo profesional multidisciplinario.
 
 ### CAPITULO III. PRESTADORES DE SERVICIOS DE SALUD
 
@@ -699,29 +711,43 @@ La Administración Pública Estatal coadyuvará con la Secretaría de Salud en l
 
 Las disposiciones relativas a las atribuciones de las autoridades y los derechos y obligaciones en materia de salud mental serán reguladas por la ley especial que al efecto emita el Congreso del Estado de Sonora.
 
-### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+### CAPITULO VIII. DEL CENTRO DE ATENCION TELEFONICO DE LA SALUD
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 59.
 
-(DEROGADO, B.O. 16 DE DICIEMBRE DE 2013)
+En el Estado de Sonora existirá un Centro de Atención Telefónico de la Salud, a través del cual se brindarán los siguientes servicios:
+
+I.- Diagnósticos, prevención, tratamiento de enfermedades y lesiones, así como el seguimiento correspondiente, dirigido a pacientes que habiten en poblaciones en donde no existan los servicios de salud que requieren; y
+
+II.- Atención y apoyo para el traslado de pacientes de un municipio a otro, movilizando y coordinando a los servicios de emergencia a través de todo el Estado, canalizando de manera inmediata a dichos pacientes, y gestionando su ingreso al hospital, clínica o centro de salud correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 60.
 
-(DEROGADO, B.O. 16 DE DICIEMBRE DE 2013)
+Para la prestación de los servicios a su cargo, el Centro de Atención Telefónico de la Salud contará, al menos, con un profesional de la salud de cada una de las siguientes especialidades de la medicina: cardiología, ginecología, pediatría, traumatología y oncología.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 61.
 
-(DEROGADO, B.O. 16 DE DICIEMBRE DE 2013)
+El Centro de Atención Telefónico de la Salud se coordinará con el Servicio Único de Asistencia Telefónica de la Secretaría de Seguridad Pública, a efecto de atender las llamadas de asistencia médica de emergencia en las que sea necesario el traslado de pacientes de un municipio a otro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 10 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 62.
 
-(DEROGADO, B.O. 16 DE DICIEMBRE DE 2013)
+Los hospitales, clínicas, centros de salud y demás establecimientos de los sectores público y privado, los Ayuntamientos del Estado, así como los cuerpos de asistencia médica y primeros auxilios que operen en la Entidad, deberán colaborar con el Centro de Atención Telefónico de la Salud, en la atención de los servicios que deba prestar, brindando retroalimentación de la atención, seguimiento y resultados del evento que les sea canalizado.
 
-### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LA SALUD
 
-### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
+### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTICULO 63.
 
@@ -751,7 +777,7 @@ Para el ejercicio de actividades técnicas y auxiliares que requieran conocimien
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado, el número del registro ante la Secretaría y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPITULO UNICO
+### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
 ###### ARTICULO 67.
 
@@ -815,7 +841,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TITULO QUINTO. INVESTIGACION PARA LA SALUD
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 77.
 
@@ -869,7 +895,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO II. EDUCACION PARA LA SALUD
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 83.
 
@@ -887,7 +913,7 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
-### CAPITULO III. NUTRICION
+### CAPITULO II. EDUCACION PARA LA SALUD
 
 ###### ARTICULO 85.
 
@@ -907,7 +933,7 @@ IV. Salud ocupacional; y
 
 V. Fomento sanitario.
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPITULO III. NUTRICION
 
 ###### ARTICULO 87.
 
@@ -929,7 +955,7 @@ Las autoridades sanitarias estatales en coordinación con las autoridades federa
 
 Tratándose de comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán difundirse en español y la lengua o lenguas indígenas que correspondan.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTICULO 89.
 
@@ -953,7 +979,7 @@ V. Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo 
 
 ARTICULO 89 BIS.- Las tiendas escolares que vendan o fomenten el consumo de alimentos de bajo o nulo valor nutricional en instituciones de nivel básico y no se ajusten al control que dispongan el Ejecutivo Estatal y los ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 90.
 
@@ -993,7 +1019,7 @@ La Secretaría, en coordinación con las autoridades competentes, orientará a l
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTICULO 96.
 
@@ -1003,7 +1029,7 @@ Las autoridades estatales, en coordinación con las autoridades federales e inst
 
 La Secretaría ejercerá el control sanitario sobre los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deban reunir, de conformidad con lo que establezcan los reglamentos, normas técnicas y demás ordenamientos aplicables.
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTICULO 97.
 
@@ -1127,7 +1153,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinfección de alto nivel, desinsectación u otras medidas de saneamientos de lugares, edificios, vehículos y objetos.
 
-### CAPITULO I. DISPOSICIONES PRELIMINARES
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 111.
 
@@ -1151,7 +1177,7 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los prestadores de servicios de salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO II. PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
+### CAPITULO I. DISPOSICIONES PRELIMINARES
 
 ###### ARTICULO 114.
 
@@ -1185,7 +1211,7 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO III. DE LA BENEFICENCIA PUBLICA
+### CAPITULO II. PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
 ###### ARTICULO 116.
 
@@ -1227,7 +1253,7 @@ Para fomentar el desarrollo de programas públicos de asistencia social, el Gobi
 
 Asimismo, proporcionará los apoyos necesarios a los programas de asistencia social, públicos y privados.
 
-### CAPITULO IV. DE LAS INSTITUCIONES DE ASISTENCIA PRIVADA
+### CAPITULO III. DE LA BENEFICENCIA PUBLICA
 
 ###### ARTICULO 119.
 
@@ -1279,29 +1305,7 @@ Las autoridades sanitarias, en sus respectivos ámbitos de competencia y en form
 
 Las autoridades sanitarias tendrán entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
-
-ARTICULO 142 BIS.- Se entiende por alcoholismo a la enfermedad consistente en padecer una fuerte necesidad por consumir, incontroladamente, bebidas alcohólicas, interfiriendo con la salud física o mental del individuo y con las responsabilidades sociales, familiares u ocupacionales. Las categorías del alcoholismo se dividen en dependencia y abuso.
-
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
-
-ARTICULO 142 BIS 1.- Se entiende por tabaquismo a la enfermedad crónica sistemática de tipo adictiva, provocada por el componente activo de los productos del tabaco, es decir, la nicotina.
-
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
-
-ARTICULO 142 BIS 2.- Se entiende por farmacodependencia, el estado psíquico y a veces físico en el que un individuo tiene un impulso irreprimible de consumir fármacos en forma continua y periódica, esto con el fin de experimentar sus efectos psíquicos y, a veces, para evitar una sensación de malestar que surge al dejar de consumirlo.
-
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
-
-ARTICULO 142 BIS 3.- Se entiende por ludopatía el trastorno del comportamiento, entendiéndose éste como expresión de la psicología del individuo, consistente en la pérdida de control en relación con un juego de apuestas o más, tanto si incide en las dificultades que supone para el individuo dejar de jugar cuando está apostando, como en mantenerse sin apostar definitivamente en el juego, distorsionándose de esta manera el pensamiento, las emociones y la comunicación con las personas que lo rodean.
-
-> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
-
-ARTÍCULO 142 BIS 4.- Se entiende por cáncer cérvico-uterino o cáncer del cuello del útero, la enfermedad en la cual se encuentran células cancerosas malignas en los tejidos del cuello uterino.
-
-> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+### CAPITULO IV. DE LAS INSTITUCIONES DE ASISTENCIA PRIVADA
 
 ###### ARTICULO 128.
 
@@ -1329,7 +1333,29 @@ El Ejecutivo del Estado promoverá en el ámbito estatal la prestación de servi
 
 El Ejecutivo del Estado y los Ayuntamientos, en coordinación con las entidades públicas correspondientes, prestarán el auxilio que requieran aquellas zonas del Estado, en las que se padezcan desastres originados por sequías, terremotos, inundaciones y fenómenos naturales o contingencias con efectos similares.
 
-### CAPITULO I BIS. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
+### CAPITULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 142 BIS.- Se entiende por alcoholismo a la enfermedad consistente en padecer una fuerte necesidad por consumir, incontroladamente, bebidas alcohólicas, interfiriendo con la salud física o mental del individuo y con las responsabilidades sociales, familiares u ocupacionales. Las categorías del alcoholismo se dividen en dependencia y abuso.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 142 BIS 1.- Se entiende por tabaquismo a la enfermedad crónica sistemática de tipo adictiva, provocada por el componente activo de los productos del tabaco, es decir, la nicotina.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 142 BIS 2.- Se entiende por farmacodependencia, el estado psíquico y a veces físico en el que un individuo tiene un impulso irreprimible de consumir fármacos en forma continua y periódica, esto con el fin de experimentar sus efectos psíquicos y, a veces, para evitar una sensación de malestar que surge al dejar de consumirlo.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
+
+ARTICULO 142 BIS 3.- Se entiende por ludopatía el trastorno del comportamiento, entendiéndose éste como expresión de la psicología del individuo, consistente en la pérdida de control en relación con un juego de apuestas o más, tanto si incide en las dificultades que supone para el individuo dejar de jugar cuando está apostando, como en mantenerse sin apostar definitivamente en el juego, distorsionándose de esta manera el pensamiento, las emociones y la comunicación con las personas que lo rodean.
+
+> <small>(ADICIONADO, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
+
+ARTÍCULO 142 BIS 4.- Se entiende por cáncer cérvico-uterino o cáncer del cuello del útero, la enfermedad en la cual se encuentran células cancerosas malignas en los tejidos del cuello uterino.
+
+> <small>(ADICIONADO, B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 133.
 
@@ -1439,9 +1465,9 @@ PROGRAMAS CONTRA LAS ADICCIONES, LAS ENFERMEDADES CARDIOVASCULARES, OBESIDAD, DI
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 27 DE JUNIO DE 2013)</small>
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I BIS. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHÓLICAS
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 143.
 
@@ -1490,6 +1516,28 @@ II. Efectos de la publicidad en la incidencia del alcoholismo y en los problemas
 III. Hábitos de consumo de alcohol en los diferentes grupos de población; y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
+
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+
+###### ARTICULO 145.
+
+Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
+
+I. La prevención y el tratamiento de padecimientos originados por el tabaquismo;
+
+II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva; y
+
+III. La reglamentación del consumo del tabaco en espacios cerrados, a efecto de proteger a los no fumadores, incluyendo la prohibición de fumar en vehículos dedicados al transporte colectivo de personas.
+
+###### ARTICULO 146.
+
+Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
+
+I. La investigación de las causas del tabaquismo y de las acciones para controlarlas;
+
+II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes; y
+
+III. Los efectos de la publicidad en la incidencia del tabaquismo y en los problemas relacionados con el consumo del tabaco.
 
 ### CAPÍTULO IV. ENFERMEDADES CARDIOVASCULARES, OBESIDAD Y DIABETES, ASI COMO ENFERMEDADES RENALES EN LA POBLACION INFANTIL DEL ESTADO
 
@@ -1541,25 +1589,35 @@ IV.- Dietas alimenticias y rutinas de ejercicio recomendadas por rango de edad, 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE JUNIO DE 2013)</small>
 
-###### ARTICULO 145.
+###### ARTICULO 147.
 
-Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
+El Ejecutivo del Estado realizará acciones coordinadas con la Secretaría de Salud, en la ejecución de programas y acciones contra la farmacodependencia, en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
 
-I. La prevención y el tratamiento de padecimientos originados por el tabaquismo;
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
 
-II. La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva; y
+###### ARTICULO 148.
 
-III. La reglamentación del consumo del tabaco en espacios cerrados, a efecto de proteger a los no fumadores, incluyendo la prohibición de fumar en vehículos dedicados al transporte colectivo de personas.
+El Ejecutivo del Estado y los Ayuntamientos, para evitar y prevenir el consumo de sustancias inhalantes, drogas, narcóticos o de sustancias toxicas que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
 
-###### ARTICULO 146.
+I. Determinarán y ejercerán medios de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
 
-Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
+II. Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas sustancias, para evitar el empleo indebido de las mismas;
 
-I. La investigación de las causas del tabaquismo y de las acciones para controlarlas;
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
 
-II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes; y
+III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes;
 
-III. Los efectos de la publicidad en la incidencia del tabaquismo y en los problemas relacionados con el consumo del tabaco.
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
+
+IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes; y
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
+
+V.- El Ejecutivo del Estado en coordinación con los Ayuntamientos deberán instalar un sistema de comunicación visual, definido como señalética como espacio o zona libre de drogas, substancias inhalantes, drogas, narcóticos o de sustancias tóxicas, en las áreas públicas, campos deportivos, parques recreativos, jardines y áreas verdes, para el desarrollo óptimo de los menores de edad o de incapaces.
+
+A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los Ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ### CAPITULO V. PROGRAMA CONTRA LA LUDOPATÍA
 
@@ -1590,36 +1648,6 @@ IV.- Los efectos de la ludopatía en los ámbitos familiar, social, laboral, psi
 El Ejecutivo del Estado deberá destinar recursos suficientes para el cumplimiento de este programa.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 19 DE SEPTIEMBRE DE 2016)</small>
-
-###### ARTICULO 147.
-
-El Ejecutivo del Estado realizará acciones coordinadas con la Secretaría de Salud, en la ejecución de programas y acciones contra la farmacodependencia, en los términos del Acuerdo de Coordinación específico que celebren ambos órdenes de gobierno.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2017)</small>
-
-###### ARTICULO 148.
-
-El Ejecutivo del Estado y los Ayuntamientos, para evitar y prevenir el consumo de sustancias inhalantes, drogas, narcóticos o de sustancias toxicas que produzcan efectos psicotrópicos en las personas, se ajustarán a lo siguiente:
-
-I. Determinarán y ejercerán medios de control en el expendio de sustancias inhalantes, para prevenir su consumo por parte de menores de edad e incapaces;
-
-II. Establecerán sistemas de vigilancia en los establecimientos destinados al expendio y uso de dichas sustancias, para evitar el empleo indebido de las mismas;
-
-> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
-
-III.- Brindarán la atención médica que se requiera, a las personas que realicen o hayan realizado el consumo de inhalantes;
-
-> <small>(REFORMADA, B.O. 11 DE MAYO DE 2017)</small>
-
-IV.- Promoverán y llevarán a cabo campañas permanentes de información y orientación al público, para la prevención de daños a la salud provocados por el consumo de substancias inhalantes; y
-
-> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2017)</small>
-
-V.- El Ejecutivo del Estado en coordinación con los Ayuntamientos deberán instalar un sistema de comunicación visual, definido como señalética como espacio o zona libre de drogas, substancias inhalantes, drogas, narcóticos o de sustancias tóxicas, en las áreas públicas, campos deportivos, parques recreativos, jardines y áreas verdes, para el desarrollo óptimo de los menores de edad o de incapaces.
-
-A los establecimientos que vendan o utilicen inhalantes con efectos psicotrópicos que no se ajusten al control que dispongan el Ejecutivo Estatal y los Ayuntamientos, así como a los responsables de los mismos, se les aplicarán las sanciones administrativas que correspondan en los términos de esta ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 3 DE AGOSTO DE 2017)</small>
 
 ### CAPITULO VI. DEL PROGRAMA DE ATENCIÓN INTEGRAL CONTRA EL CÁNCER CÉRVICO-UTERINO
 
@@ -1661,6 +1689,8 @@ ARTÍCULO 148 TER 5.- Las acciones de diagnóstico, tratamiento y rehabilitació
 
 ### CAPITULO UNICO
 
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
+
 ### CAPITULO UNICO. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
 
 > <small>(ADICIONADO, B.O. 7 DE JULIO DE 2003)</small>
@@ -1701,8 +1731,6 @@ ARTÍCULO 154 BIS H.- La Secretaría de Salud Pública deberá proporcionar los 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS ALCOHOLICAS Y NO ALCOHOLICAS
-
 ### CAPITULO I. DISPOSICIONES COMUNES
 
 > <small>(REFORMADO, B.O. 10 DE MARZO DE 1997)</small>
@@ -1713,13 +1741,11 @@ ARTÍCULO 154 BIS H.- La Secretaría de Salud Pública deberá proporcionar los 
 
 > <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
-
 ## TITULO DECIMO PRIMERO BIS. DONACIONES Y TRASPLANTES DE ORGANOS, TEJIDOS Y CELULAS Y PERDIDA DE LA VIDA EN SERES HUMANOS
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 7 DE JULIO DE 2003)</small>
 
-### CAPITULO V. SERVICIO DE LIMPIA
+### CAPITULO IV. CEMENTERIOS Y CREMATORIOS
 
 ###### ARTICULO 149.
 
@@ -1759,17 +1785,15 @@ Corresponde a la autoridad municipal, con base en lo que dispongan los Bandos de
 
 ## TITULO DÉCIMO SEGUNDO. SALUBRIDAD LOCAL
 
+### CAPITULO V. SERVICIO DE LIMPIA
+
 ### CAPITULO VI. RASTROS
 
 ### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
-
 ## TITULO DECIMO TERCERO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL Y CENTROS DE TRATAMIENTO Y DE APLICACION DE MEDIDAS PARA ADOLESCENTES
-
-> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 155.
 
@@ -1839,7 +1863,9 @@ La autoridad sanitaria competente publicará en el Boletín Oficial del Gobierno
 
 Las notificaciones que conforme a esta ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
+### CAPITULO IX. RECLUSORIOS O CENTROS DE READAPTACION SOCIAL Y CENTROS DE TRATAMIENTO Y DE APLICACION DE MEDIDAS PARA ADOLESCENTES
+
+> <small>(REFORMADO, B.O. 4 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 162.
 
@@ -1859,7 +1885,7 @@ Los vendedores, locatarios y personas cuya actividad esté vinculada con los mer
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO X. BAÑOS Y ALBERCAS PUBLICOS
 
 ###### ARTICULO 165.
 
@@ -1899,7 +1925,7 @@ Los propietarios o poseedores de los establecimientos están obligados a ejecuta
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
-### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XI. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 173.
 
@@ -1943,7 +1969,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a forestaci
 
 Los procedimientos de refrigeración, exhumación, cremación de cadáveres y embalsamamiento deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida la autoridad sanitaria competente y las normas técnicas que dicte la Secretaría.
 
-### CAPITULO XIII. GASOLINERAS
+### CAPITULO XII. ESTABLECIMIENTOS PARA EL HOSPEDAJE
 
 ###### ARTICULO 179.
 
@@ -1983,7 +2009,7 @@ La autoridad municipal, proveerá de depósitos de basura en los parques, jardin
 
 Para toda la actividad relacionada con este Capítulo, se estará a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
+### CAPITULO XIII. GASOLINERAS
 
 ###### ARTICULO 185.
 
@@ -2021,9 +2047,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios que de
 
 El sacrificio de animales en los rastros autorizados se efectuará en los días y horas que fije la autoridad municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dicha autoridad y la autoridad sanitaria para realizar las verificaciones necesarias.
 
-### CAPÍTULO XV. ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTAS
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS PARA EL CUIDADO PERSONAL
 
 ###### ARTICULO 193.
 
@@ -2065,7 +2089,9 @@ Los proyectos para la implantación de sistemas de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos a ríos, acueductos, corrientes o canales por donde fluyan aguas destinadas a uso o consumo humano; en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
 
-### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
+### CAPÍTULO XV. ESTABLECIMIENTOS DONDE OPEREN MÁQUINAS ELECTRÓNICAS DE JUEGO CON SORTEO DE NÚMEROS Y APUESTAS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 202.
 
@@ -2099,17 +2125,7 @@ Las condiciones sanitarias que deban reunir los establecimiento (sic) a que se r
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPÍTULO XVII. PROGRAMA CONTRA LA RICKETTSIOSIS Y LA ENFERMEDAD DE LYME
-
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 234 BIS.- La Secretaría y las autoridades municipales, llevarán a cabo un programa permanente en contra de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, y en contra de la Enfermedad de Lyme, también conocida como Borreliosis, manteniendo campañas permanentes a través de talleres comunitarios impartidos por personal de la Secretaria de Salud, capacitado en materia de prevención y control de la Rickettsiosis o enfermedad de la Rickettsia, y de la enfermedad de Lyme, o Borreliosis.
-
-Los ayuntamientos con la asesoría y el apoyo técnico de las autoridades sanitarias, otorgarán información de cómo prevenir y controlar la Rickettsiosis o enfermedad de la Rickettsia, y la enfermedad de Lyme o Borreliosis, así como, la atención y el control de animales que presenten dichas problemáticas.
-
-> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 234 BIS 1.- Los propietarios de animales a que se refiere el artículo anterior, estarán obligado (sic) a brindarles la atención y cuidados de higiene necesarios, que permitan la eliminación o ausencia de piojos, pulgas o garrapatas que pueden ser trasmisores de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, o de la enfermedad de Lyme, también conocida como Borreliosis.
+### CAPITULO XVI. PROGRAMA CONTRA LA RABIA
 
 ###### ARTICULO 207.
 
@@ -2133,7 +2149,17 @@ Los responsables de los reclusorios, centros de readaptación social y Centros d
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO I. AUTORIZACIONES
+### CAPÍTULO XVII. PROGRAMA CONTRA LA RICKETTSIOSIS Y LA ENFERMEDAD DE LYME
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 234 BIS.- La Secretaría y las autoridades municipales, llevarán a cabo un programa permanente en contra de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, y en contra de la Enfermedad de Lyme, también conocida como Borreliosis, manteniendo campañas permanentes a través de talleres comunitarios impartidos por personal de la Secretaria de Salud, capacitado en materia de prevención y control de la Rickettsiosis o enfermedad de la Rickettsia, y de la enfermedad de Lyme, o Borreliosis.
+
+Los ayuntamientos con la asesoría y el apoyo técnico de las autoridades sanitarias, otorgarán información de cómo prevenir y controlar la Rickettsiosis o enfermedad de la Rickettsia, y la enfermedad de Lyme o Borreliosis, así como, la atención y el control de animales que presenten dichas problemáticas.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 234 BIS 1.- Los propietarios de animales a que se refiere el artículo anterior, estarán obligado (sic) a brindarles la atención y cuidados de higiene necesarios, que permitan la eliminación o ausencia de piojos, pulgas o garrapatas que pueden ser trasmisores de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, o de la enfermedad de Lyme, también conocida como Borreliosis.
 
 ###### ARTICULO 211.
 
@@ -2155,7 +2181,7 @@ Para abrir al servicio público estos establecimientos deberá obtenerse licenci
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 214.
 
@@ -2173,9 +2199,7 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 214 de esta ley, deberá sujetarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO III. CERTIFICADOS
-
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 217.
 
@@ -2193,7 +2217,9 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 La autoridad sanitaria competente, expedirá las autorizaciones a que se refieren los artículos anteriores, cuando el solicitante haya satisfecho los requisitos que establece esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
+
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 221.
 
@@ -2205,7 +2231,7 @@ Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 223.
 
@@ -2229,7 +2255,7 @@ Los instrumentos, aparatos, ropa y accesorios de uso público que se utilicen en
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 227.
 
@@ -2243,7 +2269,7 @@ Previo a las obras de edificación y a la obtención de licencias, permisos o au
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 230.
 
@@ -2269,11 +2295,11 @@ Queda prohibido poseer animales domésticos en aquellos edificios de condominios
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 235.
 
@@ -2348,6 +2374,8 @@ Las autorizaciones a que se refiere esta ley podrán ser revisadas por la autori
 ###### ARTICULO 244.
 
 Los derechos a que se refiere esta ley, se regirán por lo que disponga la legislación fiscal.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 245.
 
@@ -3292,3 +3320,15 @@ B.O. 26 DE ABRIL DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE SONORA Y A LA LEY QUE CREA LOS SERVICIOS DE SALUD DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo y los Ayuntamientos, deberán adecuar sus disposiciones reglamentarias a lo dispuesto en el presente Decreto, a más tardar, dentro de los ciento ochenta días naturales después de su entrada en vigor.
