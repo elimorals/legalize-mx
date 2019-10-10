@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-baja-7661
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-01"
-last_updated: "2016-10-31"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
 
 Ley publicada en el Extraordinario al Boletín Oficial del Estado de Baja California Sur, el domingo 1 de agosto de 2010.
 
@@ -499,13 +501,19 @@ Cada miembro propietario designará un suplente, quien asistirá a las sesiones 
 
 Los miembros propietarios y suplentes del Consejo desempeñarán su encargo a título honorífico sin recibir retribución económica alguna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 18.
 
-Las reuniones del Consejo tendrán periodicidad semestral, sin demérito de que puedan citarse a reuniones extraordinarias cuando las condiciones lo ameriten.
+Las reuniones ordinarias del Consejo tendrán periodicidad cuatrimestral, de las cuales, dos deberán celebrarse de manera obligatoria, lo anterior sin demérito de que puedan citarse a reuniones extraordinarias cuando las condiciones lo ameriten.
 
 La convocatoria deberá señalar lugar, fecha y hora de las reuniones e incluir el orden del día.
 
 Deberá distribuirse a sus Integrantes con al menos cinco días hábiles de anticipación.
+
+> <small>(ADICIONADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+La omisión injustificada de convocar a las reuniones ordinarias obligatorias señaladas en el primer párrafo constituirá falta administrativa y se sancionara de conformidad con lo dispuesto en la Ley de Responsabilidades Administrativa (sic) del Estado y Municipios de Baja California Sur.
 
 ###### ARTÍCULO 19.
 
@@ -763,7 +771,9 @@ La Secretaría integrará el Sistema Estatal de Información Pesquera y Acuícol
 
 El Sistema se integrará con la información siguiente:
 
-I. El Programa Estatal de Pesca y Acuacultura;
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+I. La Política Estatal y el Programa Estatal de Pesca y Acuacultura;
 
 II. El Registro Estatal de Pesca y Acuacultura;
 
@@ -777,9 +787,49 @@ VI. Las propuestas de inversión pública al sector pesquero y acuícola del Est
 
 VII. La información sobre precios, oferta y demanda de productos pesqueros y acuícolas, y
 
-VIII. La demás que considere la Secretaría, relacionada con el sector pesquero y acuícola.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE OCTUBRE DE 2019)</small>
 
-La Secretaría difundirá la información del Sistema Estatal en la página electrónica del Gobierno del Estado, con excepción de la considerada como reservada en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado.
+VIII. La convocatoria, actas o minutas de las sesiones celebradas por el Consejo;
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+IX. El presupuesto destinado al sector pesca y acuacultura.
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+X. Los convenios de colaboración celebrados con las autoridades federales competentes,
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+XI. Las acciones de prevención y combate a la pesca ilegal, así como en la formulación y evaluación del Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal;
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+XII. Los sitios de desembarque y acopio para las operaciones pesqueras y acuícolas;
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+XIII. Las exposiciones, ferias y eventos de interés para el sector pesquero y acuícola estatal celebrados y por celebrar;
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+XIV. Las acciones y promoción a la investigación, la innovación y el desarrollo tecnológico de la pesca y la acuacultura, así como el fortalecimiento de las capacidades tecnológicas de la planta productiva estatal llevadas a cabo por la Secretaria;
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+XV. Los proyectos, estudios económicos y sociales realizados con el propósito de estimular la pesca de las especies regionales y su industrialización, sin afectar el equilibrio ecológico y la sustentabilidad de los recursos marinos, así como identificar las ventajas comparativas y competitivas del sector para su desarrollo y fomento;
+
+> <small>(ADICIONADA, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+XVI. La normatividad establecida en materia pesquera y de sanidad acuícola;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 10 DE OCTUBRE DE 2019)</small>
+
+XVII. La demás que considere la Secretaría, relacionada con el sector pesquero y acuícola.
+
+> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2019)</small>
+
+La Secretaría difundirá y publicará la información del Sistema Estatal en la página electrónica del Gobierno del Estado, con excepción de la considerada como reservada en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado. La información señalada en el presente artículo deberá actualizarse de forma semestral, la omisión de su publicación en los términos previstos en el presente artículo constituirá falta administrativa y se sancionara de conformidad con lo dispuesto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur y leyes de la materia.
 
 ### CAPÍTULO SEGUNDO. DEL REGISTRO ESTATAL DE PESCA Y ACUACULTURA
 
@@ -1482,3 +1532,17 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2629 SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 18 Y LAS FRACCIONES I Y VIII Y EL ÚLTIMO PÁRRAFO AL ARTÍCULO 41, Y SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 18, LAS FRACCIONES IX, X, XI, XIII (SIC), XIV, XV, XVI Y XVII AL ARTÍCULO 41, AMBOS DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Presente Decreto entrara en vigor de conformidad con la siguiente gradualidad:
+
+a) Las reformas y adiciones al artículo 18, entraran en vigor el primero de enero del año dos mil veinte;
+
+b) Las reformas y adiciones al último párrafo del artículo 41, entrara en vigor el primero de octubre de dos mil diecinueve.
+
+TERCERO.- Se Derogan todas las disposiciones que se opongan al presente Decreto.
