@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-los-servicios-de-salud-del-estado-de-sonora-11992"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-10"
-last_updated: "2017-11-06"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LOS SERVICIOS DE SALUD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 6 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Número 20 del Boletín Oficial del Estado de Sonora, el lunes 10 de marzo de 1997.
 
@@ -71,9 +71,17 @@ IX.- Integrar un acervo de información y documentación que facilite a las auto
 
 X.- Difundir a las autoridades correspondientes y a la población en general, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, estudio, análisis y de recopilación de información, documentación e intercambio que realice;
 
-XI.- Administrar los recursos que le sean asignados, las cuotas de recuperación, así como las aportaciones que reciba de otras personas o instituciones; y
+> <small>(REFORMADA, B.O. 10 DE OCTUBRE DE 2019)</small>
 
-XII.- Las demás que esta Ley y otras disposiciones le confieran para el cumplimiento de sus funciones.
+XI.- Administrar los recursos que le sean asignados, las cuotas de recuperación, así como las aportaciones que reciba de otras personas o instituciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 10 DE OCTUBRE DE 2019)</small>
+
+XII.- Impulsar la incorporación de las tecnologías de la Información y la Comunicación para ampliar la cobertura de los servicios de salud que garantice la atención médica en todos los municipios del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 10 DE OCTUBRE DE 2019)</small>
+
+XIII.- Las demás que esta ley y otras disposiciones le confieran para el cumplimiento de sus funciones.
 
 ###### ARTICULO 3o.
 
@@ -328,3 +336,15 @@ B.O. 6 DE NOVIEMBRE DE 2017.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE SONORA Y A LA LEY QUE CREA LOS SERVICIOS DE SALUD DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo y los Ayuntamientos, deberán adecuar sus disposiciones reglamentarias a lo dispuesto en el presente Decreto, a más tardar, dentro de los ciento ochenta días naturales después de su entrada en vigor.
