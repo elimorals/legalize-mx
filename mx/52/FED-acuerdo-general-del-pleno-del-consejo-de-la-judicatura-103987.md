@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2019-10-08"
+last_updated: "2019-10-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -5509,7 +5509,9 @@ El área operativa que corresponda, bajo su responsabilidad, estará obligada a 
 
 El contratista comunicará al Consejo la conclusión de los trabajos que le fueron encomendados para que éste, dentro del plazo pactado, verifique la debida terminación de los mismos conforme a las condiciones establecidas en el contrato. Al finalizar la verificación de los trabajos, el Consejo contará con un plazo de cinco días naturales para proceder a su recepción física, mediante el levantamiento del acta correspondiente, quedando los trabajos bajo su responsabilidad.
 
-Se deberá invitar a la Contraloría al evento de entrega-recepción de los trabajos, para que participe en el ámbito de sus atribuciones. La Secretaría Ejecutiva de Administración informará al Comité de la formalización del acta de entrega- recepción respectiva.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+Se deberá invitar a la Contraloría al evento de entrega-recepción de los trabajos, una vez que éstos hayan sido totalmente concluidos en los términos contractuales para que participe en el ámbito de sus atribuciones. La Secretaría Ejecutiva de Administración informará al Comité de la formalización del acta de entrega- recepción respectiva.
 
 Recibidos físicamente los trabajos, las partes deberán elaborar dentro del término estipulado en el contrato, el finiquito de los trabajos, en el que se harán constar los créditos a favor o en contra que resulten para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante.
 
@@ -5529,17 +5531,19 @@ SUBSECCIÓN TERCERA
 
 FINIQUITO Y CONCLUSIÓN DE LOS CONTRATOS
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 400.
 
 El área operativa que corresponda, para dar por concluidos, parcial o totalmente, los derechos y obligaciones asumidos por las partes en los contratos, deberá elaborar el finiquito en el caso de los contratos de adjudicación directa por monto, según corresponda, anexando el acta recepción física de los trabajos, bienes o servicios. El finiquito será definitivo y sin posibilidad a ulterior reclamación.
 
-De conformidad con sus atribuciones, la Contraloría podrá dictaminar finiquitos presentados por las áreas operativas dentro del término de quince días hábiles, cuando deriven de contratos adjudicados a través del procedimiento de licitación pública, concurso público sumario, de invitación a cuando menos tres proveedores o contratistas y adjudicación directa.
+De conformidad con sus atribuciones, la Contraloría auditará los finiquitos presentados por las áreas operativas, cuando deriven de contratos adjudicados a través del procedimiento de licitación pública, concurso público sumario, de invitación a cuando menos tres proveedores o contratistas y adjudicación directa.
 
-El finiquito de los contratos que la Contraloría determine no dictaminar, serán finiquitados sin más trámite, bajo la más estricta responsabilidad del área operativa, debiendo informar a la Contraloría de su resultado y sin perjuicio de que ésta los revise cuando lo considere conveniente.
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 401.
 
-El área operativa competente deberá notificar al contratista o proveedor y, en su caso, al Director Responsable de Obra y al Supervisor Externo, tratándose de supervisión externa, la fecha, lugar y hora en que se llevará a cabo el finiquito, el que deberá realizarse dentro de un plazo máximo de sesenta días naturales contados a partir de la fecha en que se realice la recepción física de los trabajos, bienes o servicios, el cual incluye el término con el cual cuenta la Contraloría para emitir dictamen, en su caso. Los contratistas o proveedores, Director Responsable de Obra y Supervisor Externo, en su caso, tendrán la obligación de acudir al llamado que se les haga por escrito; de no hacerlo, se les comunicará el resultado conforme lo establece el tercer párrafo del artículo 397 de este Acuerdo.
+El área operativa competente deberá notificar al contratista o proveedor y, en su caso, al Director Responsable de Obra y al Supervisor Externo, tratándose de supervisión externa, la fecha, lugar y hora en que se llevará a cabo el finiquito, el que deberá realizarse dentro de un plazo máximo de sesenta días naturales contados a partir de la fecha en que se realice la recepción física de los trabajos, bienes o servicios. Los contratistas o proveedores, Director Responsable de Obra y Supervisor Externo, en su caso, tendrán la obligación de acudir al llamado que se les haga por escrito; de no hacerlo, se les comunicará el resultado conforme lo establece el tercer párrafo del artículo 397 de este Acuerdo.
 
 ###### Artículo 402.
 
@@ -5989,11 +5993,11 @@ La prueba superveniente podrá admitirse siempre que no se haya emitido resoluci
 
 La Comisión de Administración y la Contraloría podrán allegarse, para mejor proveer, los elementos de convicción que juzguen necesarios para el esclarecimiento de los hechos materia de la inconformidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F 7 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 442.
 
-Cerrada la instrucción la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial, elaborará y someterá, a la Comisión de Administración, en un término de cinco días hábiles, el proyecto de resolución de la inconformidad, previo visto bueno de la Contraloría.
+Cerrada la instrucción la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial, elaborará en un término de cinco días hábiles el proyecto de resolución de la inconformidad, y lo someterá para aprobación de la persona Titular de la Contraloría.
 
 El término referido podrá prorrogarse por otro igual a juicio de la Contraloría.
 
@@ -8097,7 +8101,9 @@ I. La Dirección General de Recursos Materiales o la Administración Regional, s
 
 II. La Dirección General de Asuntos Jurídicos; y
 
-III. La Dirección General de Auditoría.
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+III. La Contraloría del Poder Judicial de la Federación.
 
 Para el caso de invitaciones restringidas o adjudicaciones directas, las mismas serán instrumentadas por la Administración Regional o por la Dirección General de Recursos Materiales, según la ubicación de los bienes.
 
@@ -8913,7 +8919,9 @@ IV. Informar mensualmente a la Dirección General de Servicios Generales del eje
 
 V. Realizar el registro de todas las operaciones financieras que realicen, de conformidad con los lineamientos que para el efecto establezca la Dirección General de Servicios Generales;
 
-VI. Proporcionar a los auditores internos la información que les requieran en sus revisiones, así como a los auditores externos, previa autorización de la Comisión de Administración o el Pleno, y dar cumplimiento a las observaciones y recomendaciones que al respecto formulen;
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+VI. Proporcionar a los auditores internos la información que les requieran en sus revisiones, así como a los auditores externos, previa autorización de la Comisión de Administración o el Pleno, y dar cumplimiento a las observaciones y acciones que al respecto formulen;
 
 VII. Llevar un control sobre el manejo de documentos, cuentas bancarias, efectivo y valores del Consejo que tenga en su poder, así como efectuar las conciliaciones mensuales, y rendir un informe al respecto a la Dirección General de Servicios Generales;
 
@@ -9287,7 +9295,7 @@ IV. Registrar cada programa y proyecto en la cartera que integra la Dirección G
 
 La Dirección General de Innovación, Planeación y Desarrollo Institucional y las unidades globalizadoras deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos registrados en la cartera se podrán incluir en el anteproyecto de Presupuesto de Egresos del Poder Judicial de la Federación.
 
-### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO
+### CAPÍTULO SEXTO. CONTROL Y VIGILANCIA DEL GASTO PÚBLICO EN EL CONSEJO, Y CUMPLIMIENTO DE OBJETIVOS Y METAS
 
 #### SECCIÓN CUARTA. DEL ARCHIVO Y CONSERVACIÓN DE DOCUMENTOS
 
@@ -9571,6 +9579,8 @@ De los gastos realizados, la Dirección General de Programación, Presupuesto y 
 
 #### SECCIÓN PRIMERA. CONTROL Y VIGILANCIA
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 749.
 
 El Presupuesto de Egresos del Poder Judicial de la Federación por concepto de servicios personales, comprende la totalidad de recursos para cubrir los siguientes rubros:
@@ -9738,6 +9748,8 @@ Los pagos por concepto de defunción que se otorguen a los beneficiarios con mot
 Para que se tenga derecho a las pagas y apoyo por concepto de defunción, es indispensable que la persona fallecida no se hubiese encontrado disfrutando de licencia sin goce de sueldo, excepto cuando se trate de licencia por enfermedad.
 
 #### SECCIÓN SEGUNDA. AUDITORÍAS
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 766.
 
@@ -9991,11 +10003,11 @@ IV. Cualquier otro documento que acredite la entrada de recursos que por su natu
 
 En los casos excepcionales en que no se cuente con alguno de los documentos antes citados, o se desconozca el origen del ingreso, la Dirección General de Programación, Presupuesto y Tesorería registrará, con base en los estados de cuenta bancarios en los cuales se identifique el ingreso a la cuenta correspondiente.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 788.
 
-Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, deberán ser reintegradas a la Tesorería de la Federación por la Secretaría Ejecutiva de Administración, a través de la Dirección General de Programación, Presupuesto y Tesorería, previa opinión favorable de la Contraloría. Los reintegros que en el periodo de un mes excedan la cantidad de 41,073.3844 veces el valor de la Unidad de Medida y Actualización, deberán contar además con la autorización previa de la Comisión de Administración.
+Las recuperaciones de recursos presupuestales de ejercicios anteriores que se registren contablemente en el ejercicio fiscal en curso, deberán ser reintegradas a la Tesorería de la Federación a través de la Dirección General de Programación, Presupuesto y Tesorería. Los reintegros que en el periodo de un mes excedan la cantidad de 41,073.3844 veces el valor de la Unidad de Medida y Actualización, deberán contar además con la autorización previa de la Comisión de Administración.
 
 > <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
@@ -10021,9 +10033,9 @@ III. La contabilización de los pagos correspondientes al pasivo por operaciones
 
 La contabilidad de las operaciones deberá estar respaldada con los documentos originales comprobatorios y justificativos.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-En casos excepcionales, cuando se carezca de los documentos justificativos o comprobatorios, la Dirección General de Programación, Presupuesto y Tesorería, o en su caso, las Unidades Administrativas Foráneas deberán consignar mediante acta circunstanciada o documento público, entre otros datos, la causa del faltante y su justificación, los importes y fechas de las operaciones, solicitando la autorización correspondiente a la Comisión de Administración a fin de proceder al registro contable, tomando en consideración las recomendaciones que para efectos de fiscalización y auditoría, emita la Contraloría.
+En casos excepcionales, cuando se carezca de los documentos justificativos o comprobatorios, la Dirección General de Programación Presupuesto y Tesorería, o en su caso, las Unidades Administrativas Foráneas deberán consignar mediante acta circunstanciada o documento público, entre otros datos, la causa del faltante y su justificación, los importes y fechas de las operaciones, solicitando la autorización correspondiente a la Comisión de Administración a fin de proceder al registro contable, tomando en consideración las acciones que para efectos de fiscalización y auditoría, emita la Contraloría.
 
 El Consejo estará obligado a conservar y poner a disposición de las autoridades competentes los documentos, comprobatorios y justificativos, así como los libros principales de contabilidad, de conformidad con los lineamientos que para tal efecto establezca el Consejo Nacional de Armonización Contable.
 
@@ -10271,11 +10283,13 @@ El Consejo deberá elaborar los estados financieros de conformidad con las dispo
 
 Los estados relativos a los ingresos y gastos públicos presupuestarios se elaborarán sobre la base de devengado y, adicionalmente, se presentarán en flujo de efectivo.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 799.
 
-El Consejo, por conducto de la Contraloría, verificará que la elaboración de la Cuenta Pública cumpla con la normativa aplicable, en lo referente a lo emitido por la Secretaría de Hacienda, considerando los formatos requeridos para tal efecto.
+El Consejo, por conducto de la Contraloría, verificará que la elaboración de la Cuenta Pública cumpla con la normativa aplicable, en lo referente a lo emitido por la Secretaría de Hacienda.
+
+> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
 
 Para lo anterior, se aplicarán las normas de auditoría para verificar que los sistemas, procedimientos, métodos de contabilidad, registro contable y documentos comprobatorios del ingreso y Gasto Público Federal de la Cuenta Pública, comprueben que el ejercicio del gasto público sea congruente con el Presupuesto de Egresos del Poder Judicial de la Federación.
 
@@ -10285,11 +10299,13 @@ Para lo anterior, se aplicarán las normas de auditoría para verificar que los 
 
 Como resultado de la elaboración y verificación de la Cuenta Pública, cuando se requiera, se efectuarán los ajustes correspondientes en la contabilidad del Consejo, de conformidad con las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 801.
 
-La Secretaría Ejecutiva de Administración, con la opinión favorable de la Contraloría, aprobará la Cuenta Pública integrada por la Dirección General de Programación, Presupuesto y Tesorería, y validada por su titular.
+La Secretaría Ejecutiva de Administración, aprobará la Cuenta Pública integrada por la Dirección General de Programación, Presupuesto y Tesorería, y validada por su titular.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
 
 Una vez aprobada la Cuenta Pública el titular de la Dirección General de Programación, Presupuesto y Tesorería la remitirá a la Secretaría de Hacienda para su incorporación a la Cuenta Anual de la Hacienda Pública Federal, en los términos de las disposiciones aplicables; e informará a la Comisión de Administración y al Pleno al respecto.
 
@@ -10353,6 +10369,8 @@ Las unidades administrativas, en el ámbito de su competencia, serán las respon
 
 La Dirección General de Programación, Presupuesto y Tesorería, así como las Unidades Administrativas Foráneas llevarán a cabo un programa de digitalización de documentación justificativa y comprobatoria de las operaciones financieras del Consejo que se encuentren bajo su resguardo.
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ### CAPÍTULO SEGUNDO. AUTORIZACIÓN DE COMISIONES
 
 > <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, D.O.F. 24 DE JULIO DE 2015)</small>
@@ -10361,33 +10379,41 @@ La Dirección General de Programación, Presupuesto y Tesorería, así como las 
 
 ###### Artículo 810.
 
-El control y vigilancia del gasto público en el Consejo comprenderá:
+El control y vigilancia del gasto público y el cumplimiento de objetivos comprenderá:
 
-I. La fiscalización permanente de los activos, pasivos, ingresos y gastos;
+I. La fiscalización permanente de los activos, pasivos, patrimonio, ingresos y gastos;
 
-II. El seguimiento de las operaciones financieras durante el desarrollo de la ejecución de los programas aprobados; y
+II. El seguimiento de las operaciones financieras durante el desarrollo de la ejecución de los programas aprobados;
+
+II. Bis. La verificación del cumplimiento de los objetivos y metas contenidos en los programas conforme al gasto público asignado, a fin de promover la eficiencia, eficacia, economía, legalidad, transparencia y rendición de cuentas en la gestión; y
 
 III. Lo demás que establezcan las disposiciones legales aplicables y los acuerdos que emita el Pleno.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 811.
 
-La Contraloría vigilará que el ejercicio presupuestal se apegue a las disposiciones aplicables.
+La Contraloría vigilará que el ejercicio del gasto público se apegue a las disposiciones aplicables, así como las operaciones sean congruentes con los procesos aprobados de planeación, programación y presupuestación; y se dé cumplimiento a los objetivos y metas contenidos en los programas, para propiciar la consecución de los mismos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 812.
 
-El control y vigilancia del gasto público en el Consejo, se basará en la información derivada de:
+El control y vigilancia del gasto público en el Consejo, así como el cumplimiento de los objetivos y metas contenidos en los programas de las áreas administrativas, se basará en la información derivada de:
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON SU ESTRUCTURA ORGANIZACIONAL, D.O.F. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
-I. La contabilidad que, conforme a las disposiciones jurídicas aplicables, lleve el propio Consejo, por conducto de la Dirección General de Programación, Presupuesto y Tesorería;
+I. La contabilidad y el sistema de registro del presupuesto y del gasto que, conforme a las normas y disposiciones jurídicas aplicables, lleve el propio Consejo, por conducto de la Dirección General de Programación, Presupuesto y Tesorería;
 
 II. La observación de los hechos, las conclusiones y recomendaciones y, en general, los informes y resultados de las auditorías y visitas practicadas por los órganos competentes del Consejo; y
 
 III. Las demás fuentes y medios que se establezcan en las disposiciones legales aplicables y en los acuerdos que al efecto emita el Pleno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 813.
 
-La fiscalización y el seguimiento a que se refiere el artículo 810 de este Acuerdo se realizarán en la forma siguiente:
+La fiscalización, el seguimiento y la verificación del cumplimiento de objetivos y metas a que se refiere el artículo 810 de este Acuerdo se realizarán en la forma siguiente:
 
 I. Mediante visitas y auditorías que se efectúen en los términos de la Sección Segunda del Capítulo Sexto de este Título;
 
@@ -10397,25 +10423,29 @@ III. Revisiones específicas instruidas por la Comisión o el Pleno; y
 
 IV. En reuniones entre las áreas competentes del Consejo en materia de control y vigilancia del gasto.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 814.
 
-Con base en las conclusiones, informes y dictámenes que se deriven de las acciones comprendidas en el artículo anterior, el Consejo, por conducto de las unidades ejecutoras de gasto de conformidad con las disposiciones legales aplicables y con los acuerdos emitidos por el Pleno, efectuará, según el caso, las siguientes actividades:
+Con base en las conclusiones, informes y dictámenes que se deriven de las acciones comprendidas en el artículo anterior, el Consejo, por conducto de sus áreas administrativas, de conformidad con las disposiciones legales aplicables y con los acuerdos emitidos por el Pleno, efectuará, según el caso, las siguientes actividades:
 
-I. Aplicación de las medidas preventivas y correctivas que permitan la observancia de las normas, lineamientos, sistemas y demás instrumentos utilizados en el manejo del gasto público en el Consejo;
+I. Aplicación de las acciones que permitan la observancia de las normas, lineamientos, sistemas y demás instrumentos utilizados en el manejo del gasto público en el Consejo;
 
 II. Fincamiento de las responsabilidades, en términos de las disposiciones legales y normativas aplicables; y
 
-III. Adopción de medidas tendentes a mejorar la gestión y el control interno.
+III. Adopción de acciones tendentes a mejorar la gestión y el control interno.
 
 #### SECCIÓN CUARTA. INSTITUCIÓN DEPOSITARIA
 
 ###### Artículo 815.
 
-Con el objeto de inspeccionar y vigilar el adecuado cumplimiento de las disposiciones que emanen de la Ley de Presupuesto, de este Título y demás disposiciones aplicables, la Contraloría podrá realizar auditorías y visitas a las unidades ejecutoras de gasto.
+Con el objeto de inspeccionar y vigilar el adecuado cumplimiento de las disposiciones que emanen de la normatividad aplicable en materia de presupuesto y contabilidad la Contraloría, podrá realizar auditorías y visitas a las áreas administrativas del Consejo.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 816.
 
-Las auditorías tendrán por objeto examinar las operaciones, cualquiera que sea su naturaleza, con el propósito de verificar si los estados financieros presentan razonablemente la situación financiera; si la utilización de los recursos se ha realizado en forma eficiente; si los objetivos y metas se lograron de manera eficaz y congruente, y si en el desarrollo de las actividades se han cumplido las disposiciones aplicables.
+Las auditorías tendrán por objeto examinar las operaciones, cualquiera que sea su naturaleza, con el propósito de verificar si los estados financieros presentan razonablemente la situación financiera; si la utilización de los recursos se ha realizado con criterios de eficiencia, eficacia, economía, transparencia y honradez; si los objetivos y metas se lograron de manera eficaz y congruente, y si en el desarrollo de las actividades se han cumplido las disposiciones aplicables.
 
 ###### Artículo 817.
 
@@ -10423,9 +10453,11 @@ Las auditorías podrán ser de cualquier tipo, entre otras, financieras, operaci
 
 Estas auditorías se realizarán de conformidad con lo dispuesto por la Contraloría, a lo establecido en las normas aplicables en la materia, en las disposiciones legales aplicables y en los acuerdos que para tal efecto emita el Pleno.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 818.
 
-Las áreas auditadas deberán proporcionar a la Contraloría en los plazos en que les sean solicitados, los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar.
+Las áreas auditadas deberán proporcionar a la Contraloría en los plazos y términos en que les sean solicitados, los informes, documentos y, en general, todos aquellos datos que permitan la realización de las visitas y auditorías que determine efectuar. En caso de no atender los requerimientos formulados, se promoverán las acciones correspondientes ante las autoridades competentes.
 
 ###### Artículo 819.
 
@@ -10435,11 +10467,17 @@ I. Se practicarán mediante oficio de inicio de auditoría, el cual contendrá:
 
 a) El nombre del área o áreas administrativas a las que se le practicará la auditoría o visita;
 
-b) El nombre de los servidores públicos comisionados para la realización de la auditoría o visita; y
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+b) El nombre del jefe de grupo y del personal comisionado, designados para la realización de la auditoría o visita; y
 
 c) Especificación de los aspectos que deberá cubrir la auditoría o visita, tales como el objeto y el periodo que se revisará.
 
-II. Se formulará un dictamen o informe de resultados en el que se harán constar los hechos, omisiones y observaciones que resulten con motivo de la auditoría o visita para que, en su caso, se acuerde la adopción de medidas tendentes a mejorar la gestión y el control interno del auditado, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
+> <small>(REFORMADA POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
+II. Se formulará informe de resultados en el que se harán constar los hechos, omisiones y observaciones que resulten con motivo de la auditoría o visita para que, en su caso, se determine la adopción de acciones tendentes a mejorar la gestión y el control interno del auditado, así como a corregir las desviaciones y deficiencias que se hubieren encontrado, dentro de un plazo de 45 días hábiles.
+
+Las acciones resultantes de la auditoría o visita, deberán atenderse por las unidades auditadas, en un plazo de 45 días hábiles, contados a partir del día siguiente a la notificación del informe de resultados.
 
 ###### Artículo 820.
 
@@ -10455,19 +10493,23 @@ III. Los periodos estimados de realización.
 
 Para el caso de auditorías externas, los órganos facultados someterán a consideración de la Comisión de Administración o del Pleno la necesidad de llevarlas a cabo, así como la designación de los auditores que, en su caso, realicen las referidas auditorías.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 822.
 
-La Contraloría llevará el control de las observaciones y recomendaciones generadas en las auditorías, para efectuar el seguimiento sobre el cumplimiento de las medidas preventivas o correctivas que se hayan derivado.
+La Contraloría llevará el control de las observaciones y acciones generadas en las auditorías o visitas, para efectuar el seguimiento sobre el cumplimiento de las acciones que se hayan determinado.
 
-> <small>(REFORMADO, D.O.F. 27 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 823.
 
-Si como resultado de las auditorías se detectan irregularidades que ameriten fincar algún tipo de responsabilidad, se procederá en los términos de este Título y demás disposiciones jurídicas aplicables.
+Si como resultado de las auditorías o visitas, se detectan irregularidades que ameriten fincar algún tipo de responsabilidad, se procederá en los términos de este Título y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 824.
 
-La revisión y vigilancia que efectúe la Contraloría y en general las actividades propias de la auditoría, no deberán formar parte de las labores operativas y trámites administrativos que en forma directa realicen las unidades ejecutoras, por lo que los mecanismos de verificación y control interno que formen parte de los sistemas y procedimientos propios de la competencia, funciones y programas de las unidades ejecutoras, no podrán ser desarrollados por el personal de la Contraloría.
+La revisión y vigilancia que efectúe la Contraloría y en general las actividades propias de la auditoría, no deberán formar parte de las labores operativas y trámites administrativos que en forma directa realicen las unidades ejecutoras, por lo que los mecanismos de verificación y control interno que formen parte de los sistemas y procedimientos propios de la competencia, funciones y programas de las unidades ejecutoras, no deberán ser desarrollados por el personal de la Contraloría.
 
 #### SECCIÓN QUINTA. DESTINO
 
@@ -11139,11 +11181,11 @@ IV. Proponer alternativas de solución cuando le sean solicitadas.
 
 El titular de la Dirección General de Asuntos Jurídicos podrá ser representado, en casos excepcionales y con la debida justificación, por el servidor público que designe, lo que comunicará por escrito al Secretario Técnico del Comité, con la anticipación debida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES, D.O.F. 10 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 849.
 
-El Contralor por sí o por conducto de la Dirección General de Auditoría asistirá con voz en carácter de supervisor permanente a las sesiones del Comité de Inversión de Recursos Financieros, con las siguientes funciones:
+El Contralor por sí o por quien designe asistirá con voz en carácter de observador permanente a las sesiones del Comité de Inversión de Recursos Financieros, con las siguientes funciones:
 
 I. Asistir obligatoriamente a las sesiones del Comité;
 
@@ -13316,3 +13358,15 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 TERCERO. Los asuntos y procedimientos que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo, deberán concluirse conforme a las disposiciones con las que fueron iniciados.
+
+D.O.F. 10 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ACUERDOS GENERALES EN RELACIÓN CON LAS ATRIBUCIONES DE LA CONTRALORÍA DEL PODER JUDICIAL DE LA FEDERACIÓN DENTRO DEL PROCEDIMIENTO DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS Y EN MATERIA DE AUDITORÍA; ADSCRIPCIÓN DE LAS SECRETARÍAS TÉCNICAS DE COMISIONES A LAS SECRETARÍAS EJECUTIVAS CORRESPONDIENTES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los procedimientos que se encuentren en trámite el día de la aprobación, y por tanto de la entrada en vigor del presente Acuerdo, se resolverán conforme a las disposiciones contenidas en el mismo.
+
+CUARTO. Tratándose de las aclaraciones presentadas en el sistema de recepción de declaraciones, a que se refiere el artículo 46 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, la Dirección General de Tecnologías de la Información, contará con un plazo de tres meses para su implementación.
