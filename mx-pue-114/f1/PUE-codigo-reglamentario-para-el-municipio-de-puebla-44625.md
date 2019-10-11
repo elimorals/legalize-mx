@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2019-10-09"
+last_updated: "2019-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -243,9 +243,11 @@ No se perderá la vecindad cuando la persona se traslade a residir a otro lugar 
 
 Los derechos y prerrogativas de los ciudadanos del Municipio se suspenden, pierden y recuperan al mismo tiempo que los derechos y prerrogativas de los ciudadanos del Estado, conforme a los supuestos y términos previstos en la Constitución del Estado y las Leyes Locales.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 17.
 
-En el Municipio se reconoce la capacidad de las personas jurídicas colectivas creadas conforme a las leyes federales y del Distrito Federal, debiendo sujetarse el reconocimiento de las personas jurídicas colectivas extranjeras de naturaleza privada, a lo dispuesto en las leyes federales.
+En el municipio se reconoce la capacidad de las personas jurídicas colectivas creadas conforme a las leyes federales y de la Ciudad de México, debiendo sujetarse el reconocimiento de las personas jurídicas colectivas extranjeras de naturaleza privada, a lo dispuesto en las leyes federales.
 
 ###### Artículo 18.
 
@@ -5017,13 +5019,15 @@ Cuando el conductor de un vehículo detenga su marcha, deberá hacerlo pegándos
 
 Los vehículos particulares y los destinados al servicio de transporte en todas sus modalidades, además de cumplir con las condiciones óptimas para su circulación, deben especificar en la tarjeta de circulación respectiva, el tipo de combustible que requieran y, en caso de utilizar como combustible gas L.P., deberán contar con la autorización correspondiente, reunir las condiciones de seguridad requeridas y abastecerse únicamente en los lugares autorizados para tal efecto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
 ###### Artículo 309.
 
 Se prohíbe dejar abandonado o detener en la Vía Pública cualquier vehículo con el motor en funcionamiento, así como cargar combustible o descender todos sus ocupantes del mismo, sin suspender previamente el funcionamiento del motor.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2019)</small>
+
+La prohibición también es aplicable a cualquier vehículo con características de abandonado, tanto en la vía pública como en los estacionamientos públicos, por lo que en estos casos se procederá conforme a lo dispuesto por los artículos 1684 y 1684 Bis de este mismo Código, independientemente de la sanción a que se haga acreedor el propietario.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -12325,7 +12329,9 @@ b) Colegio de Arquitectos.
 
 c) Colegio de Ingenieros Mecánicos y Electricistas.
 
-VI. Los Colegios de Profesionistas a que se refiere esta fracción y otros, cuya actividad profesional o especialidad se encuentre directamente relacionada con la edificación, deberán estar registrados ante la Dirección, ante quien deberán acreditar su inscripción en la Secretaría de Educación Pública Federal conforme a las normas y procedimientos de la Ley Reglamentaria del Artículo 5o. Constitucional, relativo al ejercicio de las Profesiones en el Distrito Federal y
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2019)</small>
+
+VI. Los Colegios de Profesionistas a que se refiere esta fracción y otros, cuya actividad profesional se encuentre relacionada con la edificación, deberán estar registrados ante la Dirección y acreditar su inscripción en la Secretaría de Educación Pública Federal o Estatal conforme a las normas y procedimientos de la Ley Reglamentaria del Artículo 5° Constitucional, relativo al ejercicio de las profesiones en la Ciudad de México, y
 
 VII. Un vocal con voz y voto que será representante de cada uno de los siguientes Consejos de Participación Ciudadana:
 
@@ -12415,7 +12421,9 @@ d) Comité de Reglamentos.
 
 X. Emitir opinión sobre las obras que a su consideración y por sus características constructivas o de impacto público puedan afectar la traza urbana, los usos, las costumbres o la seguridad de la ciudadanía y
 
-XI. Validar las listas oficiales de DRO y Corresponsables, conforme a los procedimientos establecidos en este Capítulo, en términos de lo dispuesto por la Ley Reglamentaria del artículo 5° Constitucional, relativo al ejercicio de las Profesiones en el Distrito Federal.
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2019)</small>
+
+XI. Validar las listas oficiales de DRO y Corresponsables, conforme a los procedimientos establecidos en este Capítulo, en términos de los (sic) dispuesto por la Ley Reglamentaria del artículo 5° Constitucional, relativo al ejercicio de las Profesiones en la Ciudad de México.
 
 > <small>(REFORMADO, P.O. 10 DE ABRIL DE 2017)</small>
 
@@ -25865,29 +25873,31 @@ En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo 
 
 DE LOS VEHÍCULOS ABANDONADOS EN LA VÍA PÚBLICA Y EN LOS ESTACIONAMIENTOS PÚBLICOS
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1684.
 
-El Ayuntamiento, a través de la SSPTM retirará los vehículos abandonados en un término de quince días naturales contados a partir de que la autoridad municipal tenga conocimiento formal por medio de denuncia personal, telefónica o por escrito.
+El Ayuntamiento, a través de la SSPTM retirará los vehículos abandonados en un término de quince días naturales contados a partir de que la autoridad municipal lo detecte o tenga conocimiento formal de alguna denuncia ciudadana.
 
-La recepción de la denuncia se hará a través de la Dirección del Centro de Emergencia y Respuesta Inmediata, en caso de realizarse vía telefónica, y por la Dirección de Prevención del Delito y Atención a Víctimas, cuando se presente personalmente o por escrito, mismas que informarán de la denuncia a la Dirección de Tránsito Municipal para su atención correspondiente.
+La recepción de la denuncia se podrá hacer de manera personal, telefónica, por escrito o a través de las redes sociales que maneja la_SSPTM, lo cual se hará del conocimiento de la Dirección de Tránsito Municipal para su atención correspondiente.
 
-Una vez recibida la denuncia, la Dirección de Tránsito Municipal ordenará a los Agentes de Tránsito realizar la verificación del vehículo, en términos del artículo 348 de este Código, para obtener información suficiente para su identificación y ubicación, que permita a la Dirección del Centro de Emergencia y Respuesta Inmediata, a través del área correspondiente, tener acceso al Sistema Nacional de Seguridad Pública para realizar la consulta en la base de datos y elaborar el Informe correspondiente, a fin de verificar si el vehículo cuenta con reporte de robo, en caso afirmativo procederá a ponerlo a disposición de la autoridad competente, y en caso contrario se seguirá el procedimiento respectivo.
+Una vez recibida la denuncia, la Dirección de Tránsito ordenará a los_agentes de Tránsito realizar la inspección del vehículo, para obtener información suficiente de sus datos de identificación y ubicación, que permita a la Dirección del Centro de Emergencia y Respuesta Inmediata, a través del área correspondiente, tener acceso al Sistema Nacional de Seguridad Pública para realizar la consulta en la base de datos y elaborar el informe correspondiente, a fin de verificar si el vehículo cuenta con reporte de robo, en caso afirmativo procederá ponerlo a disposición de la autoridad competente, y en caso contrario se seguirá el procedimiento respectivo.
 
-En el acta de verificación que levanten, los Agentes de Tránsito anexarán pruebas gráficas en las que sea ostensible el abandono del vehículo y mediante las cuales se determine que se encuentra en estado de chatarra, o que tenga vegetación, fauna nociva, basura acumulada, herrumbre, piezas faltantes en la unidad, daño por exposición constante al medio ambiente, entre otros.
+En el acta de verificación, los agentes de Tránsito anexarán pruebas gráficas en las que sea ostensible el abandono del vehículo, mediante las cuales se determine que se encuentra en estado de chatarra, o que tenga vegetación, fauna nociva, basura acumulada, herrumbre, piezas faltantes, daño por exposición constante al medio ambiente, entre otros.
 
-La Dirección de Tránsito Municipal, notificará al propietario del vehículo para que en el término de cinco días hábiles, contados a partir de la notificación, proceda a retirarlo de la vía pública. Dicha notificación, se efectuará en el domicilio del propietario o se dejará en una parte visible del vehículo abandonado, en caso que éste no sea conocido.
+La Dirección de Tránsito notificará al propietario del vehículo para que dentro del término de cinco días hábiles, contados a partir de la fecha de notificación, proceda a retirarlo de la vía pública. Dicha notificación se efectuará en el domicilio del propietario o se dejará en una parte visible del vehículo abandonado, en caso de que aquel no sea conocido.
 
-Vencido el término otorgado y en caso de que el propietario no lo haya removido, la Dirección de Tránsito Municipal retirará el vehículo abandonado en la vía pública, ingresándolo al depósito vehicular oficial, en dicho caso, se aplicarán las disposiciones establecidas en el artículo 350 Quinquies y 351 del presente Código y las relativas al abandono de mercancías señaladas en el Código Fiscal y Presupuestario para el Municipio de Puebla.
+Vencido el término otorgado y en caso de que el propietario no lo haya retirado de la vía pública, la Dirección de Tránsito lo retirará, ingresándolo al depósito vehicular oficial y aplicará las disposiciones establecidas en el artículo 351 del presente Código y las relativas al abandono de mercancías señaladas en el Código Fiscal y Presupuestario para el Municipio de Puebla.
 
-Una vez que la Dirección de Tránsito Municipal haya ingresado el vehículo al depósito oficial, deberá dar vista a la Dirección de Prevención del Delito y Atención a Víctimas, para que ésta a su vez, dé contestación al ciudadano que realizó la denuncia.
+Una vez que la Dirección de Tránsito haya ingresado el vehículo al depósito oficial, deberá dar vista a la Dirección de Prevención del Delito y Atención a Víctimas, para que ésta a su vez y en su caso, dé contestación al ciudadano que realizó la denuncia.
 
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1684 Bis.
 
-Cuando los vehículos dados en guarda no sean reclamados por el usuario dentro de las setenta y dos horas siguientes a su ingreso y no se haya contratado el servicio de pensión, el propietario o representante legal del estacionamiento deberá presentar el vehículo, especificando sus características a la SSPTM.
+Cuando los vehículos dados en guarda no sean reclamados por el usuario dentro de las setenta y dos horas siguientes a su ingreso y no se haya contratado el servicio de pensión, el propietario o representante legal del estacionamiento deberá presentar el vehículo a la SSPTM, especificando sus características.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
 
 Los propietarios o representantes legales de los establecimientos donde se preste el servicio público de estacionamiento, podrán ejercitar las acciones legales que estimen convenientes en contra de los propietarios o poseedores de los vehículos para el cobro del servicio.
 
@@ -38274,6 +38284,22 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
 P.O. 9 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA LOS ARTÍCULOS 1254 TER FRACCIÓN XI Y 1258 BIS, Y ADICIONA LAS FRACCIONES XXXVIII BIS, XLII BIS Y XLII TER AL ARTÍCULO 1254, TODOS DEL LIBRO TERCERO, CAPÍTULO 18 DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. Las adiciones y reformas aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE ADICIONA EL SEGUNDO PÁRRAFO AL ARTÍCULO 309 Y LA REFORMA DE LOS ARTÍCULOS 1684 Y 1684 BIS PRIMER PÁRRAFO DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. La adición y reformas aprobadas en el presente Dictamen, entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA LOS ARTÍCULOS 17, 685 FRACCIÓN VI Y 687 FRACCIÓN XI DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, CON LA FINALIDAD DE ARMONIZAR ESTAS DISPOSICIONES CON LA REFORMA AL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE CAMBIA DE DENOMINACIÓN AL DISTRITO FEDERAL AL DE CIUDAD DE MÉXICO Y LA ELEVA A LA CATEGORÍA DE ENTIDAD FEDERATIVA”.]
 
 PRIMERO. Las adiciones y reformas aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
