@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-infraestructura-129831"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-27"
-last_updated: "2018-07-27"
+last_updated: "2019-10-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129831&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE OCTUBRE DE 2019.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el viernes 27 de julio de 2018.
 
@@ -71,19 +71,29 @@ VII. Jefaturas de Departamento: las Jefaturas de Departamento del Instituto.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA ORGÁNICA
 
+> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 4.
 
-Para el despacho de los asuntos que le competen, el Instituto contará con la siguiente estructura:
+El Instituto estará integrado por:
 
-I. Una Junta de Gobierno;
+I. Órganos de gobierno:
 
-II. Una Dirección General;
+a) Junta de Gobierno.
 
-III. Una Dirección Jurídica;
+b) Director General.
 
-IV. Una Dirección de Construcción, y
+II. Unidades administrativas:
 
-V. Una Dirección administrativa.
+a) Dirección de Construcción.
+
+b) Dirección Técnica.
+
+c) Dirección de Servicios Integrales.
+
+d) Dirección Administrativa.
+
+e) Dirección Jurídica.
 
 ###### Artículo 5.
 
@@ -117,7 +127,9 @@ VIII. Supervisar, y vigilar de manera directa el funcionamiento del Departamento
 
 IX. Las demás que le otorgue la Junta de Gobierno, el Código de la Administración Pública de Yucatán y su Reglamento, así como las que establezcan otras disposiciones legales aplicables.
 
-La Dirección General además de las áreas señaladas en el artículo 5 del presente Estatuto, tendrá a su cargo el Departamento de Concursos y el Departamento de Informática, quienes dependerán directamente de ella.
+> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+La Dirección General, además de las direcciones establecidas en el artículo 4, fracción II, de este estatuto, tendrá a su cargo el Departamento de Informática.
 
 ###### Artículo 8.
 
@@ -167,9 +179,13 @@ XIX. Las demás que les otorgue la Junta de Gobierno, el Director General, de ac
 
 Corresponden al Director de Construcción, las siguientes facultades y obligaciones:
 
-I. Realizar los anteproyectos y proyectos ejecutivos y constructivos de las obras que programe realizar el Instituto, en materia de vías terrestres, así como las memorias de cálculo respectivas;
+> <small>(REFORMADA, D.O. 11 DE OCTUBRE DE 2019)</small>
 
-II. Coordinar, supervisar, evaluar y aprobar, en su caso, los proyectos ejecutivos y constructivos que el Instituto contrate con particulares en materia de vías terrestres;
+I. Evaluar y diagnosticar los daños ocasionados a las vías de comunicación de jurisdicción estatal;
+
+> <small>(REFORMADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+II. Determinar los requerimientos para conservar en buen estado la Red de Carreteras Estatales;
 
 III. Efectuar la supervisión de las obras en materia de vías terrestres que se realicen por contrato o por administración directa, cuidando en cada caso la correcta aplicación de los recursos destinados a su ejecución;
 
@@ -179,19 +195,79 @@ V. Integrar un expediente técnico unitario por obra realizada o en proceso de e
 
 VI. Emitir los dictámenes u opiniones que en materia de construcción de vías terrestres sean solicitadas al Instituto por organismos públicos y dependencias de los tres órdenes de gobierno y las demás que de manera específica le sean pedidas por el Director General;
 
-VII. Elaborar los anexos técnicos de las obras y acciones de vías terrestres ejecutadas a través de los convenios de desarrollo social celebrados con la Federación;
+> <small>(REFORMADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+VII. Integrar y actualizar, de manera permanente, el catálogo de precios unitarios de conceptos de obra que ejecute o contrate el Instituto;
 
 VIII. Mantener un sistema de seguimiento y control del desarrollo de los proyectos que realice el Instituto en materia de vías terrestres, y
 
 IX. Las demás que le delegue directamente el Director General, de acuerdo con lo previsto en el Código de la Administración Pública de Yucatán y su Reglamento, así como las que le otorguen otras disposiciones normativas aplicables.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la dirección de Construcción contará con las jefaturas de los Departamentos de Construcción, Conservación, Planeación, Operaciones, Explosivos, Laboratorio y de Costos y Proyectos, y las demás áreas que determine el Director General de conformidad con la capacidad presupuestal del Instituto y que establezca el manual de operación correspondiente.
+> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+Para el despacho de los asuntos que le competen, la Dirección de Construcción contará con los departamentos de Explosivos y Construcción, de Conservación y de Operaciones; y con los demás que determine el Director General, de conformidad con disponibilidad presupuestal del Instituto.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO IV BIS. DE LA DIRECCIÓN TÉCNICA
+
+> <small>(ADICIONADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 9 Bis.
+
+Corresponden al Director técnico, las siguientes facultades y obligaciones:
+
+I. Coordinar la ejecución de los servicios conexos o relacionados con obra pública que tengan por objeto definir, diseñar y calcular los elementos que integren un proyecto de obra pública en materia de vías terrestres;
+
+II. Realizar los anteproyectos y proyectos, ejecutivos y constructivos, de las obras que programe realizar el Instituto en materia de vías terrestres, así como las memorias de cálculo respectivas;
+
+III. Aprobar, coordinar, supervisar y evaluar, en su caso, los proyectos ejecutivos y constructivos que, en materia de vías terrestres, el instituto contrate con particulares;
+
+IV. Elaborar el expediente técnico simplificado que corresponda para la obtención de recursos para obras en materia de vías terrestres, de acuerdo con los lineamientos que se establezcan según el origen del recurso;
+
+V. Elaborar las notas técnicas de las obras y acciones que, en materia de vías terrestres, hayan sido solicitadas y ejecutadas a través de los convenios celebrados con la federación;
+
+VI. Realizar el registro en la cartera de la Unidad de Gestión de la Inversión de la Secretaría de Administración y Finanzas de todas las obras que integren el presupuesto anual del Instituto y de las obras que se van incorporando al presupuesto anual durante todo el ejercicio fiscal correspondiente;
+
+VII. Crear las unidades básicas de presupuestación de todas las obras que tengan recursos autorizados para que ejecute el Instituto;
+
+VIII. Presentar, para la autorización del Director General, las opiniones técnicas que, sobre obra pública en materia de vías terrestres, requieran las autoridades administrativas o judiciales;
+
+IX. Emitir los dictámenes que le soliciten las instituciones de los tres niveles de gobierno y, de manera específica, el Director General sobre los proyectos competencia del Instituto;
+
+X. Establecer y mantener un sistema de seguimiento y control del desarrollo de los proyectos ejecutivos que realice el Instituto en materia de vías terrestres, y
+
+XI. Las demás que le confiera el Director General o establezcan otras disposiciones legales y normativas aplicables.
+
+Para el despacho de los asuntos que le competen, la Dirección Técnica contará con los departamentos de Planeación, de Costos y Proyectos, de Laboratorio, y de Licitaciones y Concursos; y con los demás que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO IV TER. DE LA DIRECCIÓN DE SERVICIOS INTEGRALES
+
+> <small>(ADICIONADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 9 Ter.
+
+Corresponde al Director de Servicios Integrales, las siguientes facultades y obligaciones:
+
+I. Elaborar los programas de saneamiento de carreteras estatales;
+
+II. Recibir de instituciones federales, estatales y municipales las recomendaciones para la reforestación y habilitación de áreas verdes;
+
+III. Proporcionar servicios de apoyo, limpieza y saneamiento de espacios públicos, y llevar el control de avance físico y financiero de ellos;
+
+IV. Realizar acciones de mantenimiento y conservación de la infraestructura de alumbrado público y de las áreas verdes propiedad del estado que se encuentren dentro de las vías terrestres de jurisdicción estatal y, en caso de daño, elaborar el presupuesto respectivo;
+
+V. Emitir dictámenes sobre los estudios y proyectos que, en materia de conservación y otros ramos afines, solicite, de manera específica, el Director General;
+
+VI. Coadyuvar con las autoridades competentes en la oportuna atención y apoyo de las comunidades en situaciones de contingencia, y
+
+VII. Las demás que le confiera el Director General o establezcan otras disposiciones legales y normativas aplicables.
+
+Para el despacho de los asuntos que le competen, la Dirección de Servicios Integrales contará con el Departamento Operativo y con los demás que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
 
 ### CAPÍTULO V. DE LA DIRECCIÓN ADMINISTRATIVA
-
-### CAPÍTULO VI. DE LA DIRECCIÓN JURÍDICA
-
-### CAPÍTULO VII. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 10.
 
@@ -225,7 +301,11 @@ XIII. Informar a las direcciones del Instituto sobre las asignaciones presupuest
 
 XIV. Las demás que le delegue el Director General o que le otorguen otras disposiciones normativas aplicables.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la dirección Administrativa contará con las jefaturas de los Departamentos de Recursos Humanos, Control presupuestal, Compras, Contabilidad, Caja, Control de Obra y de Activos Fijos, y las demás áreas que determine el Director General de conformidad con la capacidad presupuestal del Instituto y que establezca el manual de operación correspondiente.
+> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+Para el despacho de los asuntos que le competen, la Dirección Administrativa contará con los departamentos de Recursos Humanos; de Caja; de Control de Obra; de Contabilidad y Control Presupuestal; y de Adquisiciones, Activo Fijo y Servicios Generales; y con los demás que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
+
+### CAPÍTULO VI. DE LA DIRECCIÓN JURÍDICA
 
 ###### Artículo 11.
 
@@ -295,7 +375,11 @@ XXXI. Participar en los procesos de actualización y adecuación del orden jurí
 
 XXXII. Las demás que le otorguen otras disposiciones normativas aplicables.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la dirección Jurídica contará con las jefaturas de los Departamentos de Liberación de Derecho de Vía y de Gestión y Seguimiento y las demás áreas que determine el Director General de conformidad con la capacidad presupuestal del Instituto y que establezca el manual de operación correspondiente.
+> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+Para el despacho de los asuntos que le competen, la Dirección Jurídica contará con los departamentos de Liberación de Derecho de Vía y de Gestión y Seguimiento, y con los demás que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
+
+### CAPÍTULO VII. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 12.
 
@@ -318,3 +402,17 @@ Aprobado por la Junta de Gobierno del Instituto de Infraestructura Carretera de 
 ING. GILBERTO HERBÉ ENRÍQUEZ Y SOBERANIS
 
 DIRECTOR GENERAL DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATAN.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO JG/INCAY/IIISEO/02/19 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE INFRAESTRUCTURA CARRETERA DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto de Infraestructura Carretera de Yucatán, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá de realizar la inscripción de las modificaciones efectuadas al Estatuto Orgánico del Instituto de Infraestructura Carretera de Yucatán en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas.
