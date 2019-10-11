@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-para-la-construccion-y-130700"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-09-21"
-last_updated: "2018-09-21"
+last_updated: "2019-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA CONSTRUCCIÓN Y CONSERVACIÓN DE OBRA PÚBLICA EN YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE OCTUBRE DE 2019.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el viernes 21 de septiembre de 2018.
 
@@ -125,7 +125,7 @@ X. Emitir los fallos de los concursos donde se adjudiquen contratos de obra púb
 
 XI. Realizar los actos administrativos necesarios para cumplir con las atribuciones a su cargo;
 
-XII. Supervisar y dirigir de manera directa el funcionamiento de la Subdirección de Concursos, y
+XII. (DEROGADA, D.O. 11 DE OCTUBRE DE 2019)
 
 XIII. Las demás que le otorgue la Junta de Gobierno y las que establezcan otras disposiciones legales aplicables.
 
@@ -141,13 +141,13 @@ II. Dirección Técnica;
 
 III. Dirección de Planeación y Estudios de Preinversión;
 
-IV. Dirección de los Servicios Integrados para la Conservación del Estado de Yucatán;
+IV. (DEROGADA, D.O. 11 DE OCTUBRE DE 2019)
 
 V. Dirección Administrativa;
 
 VI. Dirección Jurídica, y
 
-VII. Subdirección de Concursos.
+VII. (DEROGADA, D.O. 11 DE OCTUBRE DE 2019)
 
 En caso de ausencia, los Directores se suplirán entre sí conforme al orden en que se relacionan en este artículo.
 
@@ -203,19 +203,7 @@ XXI. Las demás que les otorgue la Junta de Gobierno, el Director General y las 
 
 ###### ARTÍCULO 11.
 
-La Subdirección de Concursos dependerá directamente de la Dirección General y tendrá las siguientes atribuciones:
-
-I. Preparar los concursos de obra pública, servicios conexos o relacionados con las mismas que requiera el instituto, a solicitud de cualquiera de las direcciones, previa autorización de la Dirección General, elaborando al efecto, las bases, convocatorias, términos de referencia, anexos técnicos y demás documentación que se requiera para ello;
-
-II. Llevar a cabo los actos que integran el proceso de licitación o de invitación restringida de conformidad con las normas aplicables;
-
-III. Hacer la evaluación de las proposiciones presentadas por los licitantes, con la colaboración de la dirección que solicitó el concurso;
-
-IV. Preparar los dictámenes que sustentan los fallos que emitirá la Dirección General respecto de los concursos celebrados, y
-
-V. Las demás que le sean encomendadas por el Director General.
-
-Para el estudio, planeación y despacho de los asuntos que le competen, la Subdirección de Concursos contará con una Jefatura de Departamento de Concursos y demás áreas que determine el Director General de conformidad con la capacidad presupuestal del Instituto.
+(DEROGADO, D.O. 11 DE OCTUBRE DE 2019)
 
 ###### ARTÍCULO 12.
 
@@ -229,15 +217,19 @@ III. Integrar un expediente técnico unitario por obra realizada o en proceso de
 
 IV. Emitir las opiniones que en materia de construcción sean solicitadas al Instituto por organismos públicos y dependencias de los tres niveles de gobierno y las demás que de manera específica le sean ordenadas por el Director General;
 
-V. Mantener un registro actualizado de precios de insumos vigentes en el mercado que se requieran en las obras que ejecuta el Instituto;
+> <small>(REFORMADA, D.O. 11 DE OCTUBRE DE 2019)</small>
 
-VI. Analizar, integrar, revisar y actualizar de manera permanente el catálogo de precios unitarios de conceptos de obra que ejecute o contrate el Instituto;
+V. Desarrollar y mantener un sistema de seguimiento y control del proceso de ejecución de las obras y acciones realizadas por el Instituto, en el ámbito de su competencia;
 
-VII. Mantener un sistema de seguimiento y control del proceso de ejecución de las obras y acciones realizadas por el Instituto, en el ámbito de su competencia, y
+VI. (DEROGADA, D.O. 11 DE OCTUBRE DE 2019)
+
+VII. (DEROGADA, D.O. 11 DE OCTUBRE DE 2019)
 
 VIII. Las demás que le sean encomendadas por el Director General.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección de Construcción contará con las Subdirecciones de Construcción “A” y “B”, las Jefaturas de Departamento de Construcción “A”, “B”, “C”, “D” y “E”, las Jefaturas de Departamento de Verificación, de Costos y demás áreas que determine el Director General de conformidad con la capacidad presupuestal del Instituto.
+> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección de Construcción contará con la Subdirección de Construcción, los Departamentos de Construcción “A”, “B” y “C”, el Departamento de Verificación y las demás unidades administrativas que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
 
 ###### ARTÍCULO 13.
 
@@ -261,7 +253,9 @@ VIII. Mantener un sistema de seguimiento y control del desarrollo de los proyect
 
 IX. Mantener actualizado un banco de información básica estatal de los estudios y proyectos elaborados por esta dirección;
 
-X. Aplicar los lineamientos definidos en el Plan Estatal de Desarrollo y por el Comité de Planeación para el Desarrollo del Estado, para la elaboración y seguimiento de los programas operativos anuales y de los programas de presupuestos anuales en materia de estudios y proyectos;
+> <small>(REFORMADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+X. Aplicar los lineamientos y criterios que defina la autoridad competente para la elaboración y el seguimiento de los instrumentos de planeación competencia del Instituto;
 
 XI. Previa solicitud, asesorar a organismos y dependencias de los tres niveles de gobierno en la ejecución de proyectos relacionados con la obra pública;
 
@@ -275,7 +269,9 @@ XV. Elaborar los presupuestos base de todas las obras públicas a programar o ej
 
 XVI. Las demás que le sean encomendadas por el Director General.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección Técnica contará con la Subdirección Técnica, las Jefaturas de Departamento de Diseño, de Estructuras, de Instalaciones y demás áreas que determine el Director General de conformidad con la capacidad presupuestal del Instituto.
+> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección Técnica contará con la Subdirección Técnica, los Departamentos de Diseño, de Ingenierías, de Normatividad y Procesos, y de Costos, y las demás unidades administrativas que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
 
 ###### ARTÍCULO 14.
 
@@ -303,27 +299,13 @@ X. Supervisar el cumplimiento del programa anual de inversión en materia de obr
 
 XI. Las demás que le sean encomendadas por el Director General.
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección de Planeación y Estudios de Preinversión contará con la Subdirección de Planeación, las Jefaturas de Departamento de Programación, de Estudios de Preinversión y demás áreas que determine el Director General de conformidad con la capacidad presupuestal del Instituto.
+> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección de Planeación y Estudios de Preinversión contará con los Departamentos de Estudios de Preinversión y de Programación, y las demás unidades administrativas que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
 
 ###### ARTÍCULO 15.
 
-La Dirección de los Servicios Integrados para la Conservación del Estado de Yucatán tendrá las siguientes atribuciones:
-
-I. Elaborar, formular y diseñar los programas de saneamientos de carreteras;
-
-II. Coordinarse con las dependencias federales, estatales y municipales a fin de obtener las recomendaciones para la reforestación y habilitación de áreas verdes;
-
-III. Mantener un sistema de seguimiento y control de limpieza de escuelas y áreas públicas;
-
-IV. Proporcionar servicios de apoyo, limpieza y saneamiento en áreas públicas, llevando un control del avance físico y financiero de los mismos;
-
-V. Emitir los dictámenes de los estudios y proyectos en materia de conservación y otras análogas, que de manera específica solicite el Director General;
-
-VI. Coadyuvar con las autoridades competentes para la oportuna atención y apoyo a las comunidades en situaciones de contingencia, y
-
-VII. Las demás que le sean encomendadas por el Director General.
-
-Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección de Servicios Integrados para la Conservación del Estado de Yucatán contará con la Jefatura de Departamento Operativo y demás áreas que determine el Director General de conformidad con la capacidad presupuestal del Instituto.
+(DEROGADO, D.O. 11 DE OCTUBRE DE 2019)
 
 ###### ARTÍCULO 16.
 
@@ -353,11 +335,19 @@ XI. Participar en el proceso de organización de recursos en los diferentes prog
 
 XII. Participar en las gestiones de autorización del presupuesto del Instituto y su financiamiento, ante las autoridades competentes para la realización de sus programas;
 
-XIII. Informar a las direcciones del Instituto sobre las asignaciones presupuestales que les correspondan, y
+> <small>(REFORMADA, D.O. 11 DE OCTUBRE DE 2019)</small>
 
-XIV. Las demás que le sean encomendadas por el Director General.
+XIII. Informar a las direcciones del Instituto sobre las asignaciones presupuestales que les correspondan;
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección Administrativa contará con las Jefaturas de Departamento de Control Presupuestal, de Recursos Humanos, de Servicios Generales, de Informática, de Control Vehicular, de Compras, de Calidad y demás áreas que determine el Director General de conformidad con la capacidad presupuestal del Instituto.
+> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+XIV. Realizar los actos que integran los procesos de adjudicación directa en materia de adquisiciones y arrendamientos de bienes muebles, tanto en el orden estatal como federal, de conformidad con la normativa aplicable, y
+
+XV. Las demás que le sean encomendadas por el Director General.
+
+> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección Administrativa contará con los Departamentos de Recursos Humanos, de Control Presupuestal y Compras, de Informática, de Control Vehicular y Servicios Generales, y de Calidad, y las demás unidades administrativas que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
 
 ###### ARTÍCULO 17.
 
@@ -409,7 +399,7 @@ XXII. Rendir los informes que sean solicitados al Instituto por las autoridades 
 
 XXIII. Integrar los comités y grupos de trabajo interinstitucionales en materia jurídica a los que sea convocado el Instituto;
 
-XXIV. Ser enlace del Instituto con la Unidad de Acceso a la Información Pública del Poder Ejecutivo;
+XXIV. (DEROGADA, D.O. 11 DE OCTUBRE DE 2019)
 
 XXV. Auxiliar a los departamentos administrativos del Instituto en los procedimientos de licitación y adjudicación de contratos;
 
@@ -419,13 +409,37 @@ XXVII. Fijar, sistematizar, unificar y difundir para efectos administrativos los
 
 XXVIII. Formular, implementar, revisar y dictaminar la procedencia jurídica de las bases de los procesos de adjudicación de obras públicas y servicios conexos o relacionados con las mismas, de los contratos, convenios y demás actos jurídicos que deriven en obligaciones del Instituto;
 
-XXIX. Intervenir, de conformidad con las disposiciones jurídicas aplicables, en las licitaciones que lleve a cabo el Instituto para la adjudicación de contratos de obra pública y servicios conexos o relacionados con las mismas, así como de adquisiciones, arrendamientos y servicios del sector público;
+> <small>(REFORMADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXIX. Formular, revisar y dictaminar la procedencia jurídica de los procesos de adjudicación de las adquisiciones y los arrendamientos de bienes muebles, tanto en materia estatal como federal, en que esté involucrado el Instituto;
 
 XXX. Intervenir en la investigación de los actos o hechos que causen o puedan causar daños o perjudicar los intereses del Instituto;
 
-XXXI. Las demás que le sean encomendadas por el Director General.
+> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
 
-Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección Jurídica contará con las Jefaturas de Departamento de Contratos, de Licitaciones y Asuntos Administrativos y demás áreas que determine el Director General de conformidad con la capacidad presupuestal del Instituto.
+XXXI. Preparar, previa autorización del Director General, las adjudicaciones de obra pública, servicios relacionados con las mismas y de servicios conexos que requiera el Instituto, a solicitud de cualquiera de sus directores, y elaborar las bases, las convocatorias, los términos de referencia, los anexos técnicos y la demás documentación que se requiera para ello;
+
+> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXXII. Realizar los actos que integran los procesos de licitación, de invitación restringida y de asignación directa de las obras públicas y los servicios conexos, de conformidad con la normativa aplicable;
+
+> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXXIII. Realizar los actos que integran los procesos de licitación y de invitación restringida en materia de adquisiciones y arrendamientos de bienes muebles, tanto en el orden estatal como federal, de conformidad con la normativa aplicable;
+
+> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXXIV. Evaluar las proposiciones presentadas por los licitantes, con la colaboración de la dirección del Instituto que solicite el concurso;
+
+> <small>(ADICIONADA, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXXV. Elaborar los dictámenes que sustenten los fallos que emita el Director General del Instituto respecto de los concursos celebrados, y
+
+XXXVI. Las demás que le sean encomendadas por el Director General.
+
+> <small>(REFORMADO, D.O. 11 DE OCTUBRE DE 2019)</small>
+
+Para el estudio, planeación y despacho de los asuntos que le competen, la Dirección Jurídica contará con los Departamentos de Concursos, de Contratos y de Vinculación y Transparencia, y las demás unidades administrativas que determine el Director General, de conformidad con la disponibilidad presupuestal del Instituto.
 
 ## TRANSITORIOS
 
@@ -436,3 +450,17 @@ SEGUNDO. Se derogan todas las disposiciones de igual o menor rango, emitidas por
 Aprobado por la Junta de Gobierno del Instituto para la Construcción y Conservación de Obra Pública en Yucatán, en su segunda sesión ordinaria del año 2010, llevada a cabo en la ciudad de Mérida, capital del Estado de Yucatán, Estados Unidos Mexicanos a los 8 días del mes de julio del año 2010.
 
 ( RÚBRICAS )
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO INCCOPY 01/2019 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO PARA LA CONSTRUCCIÓN Y CONSERVACIÓN DE OBRA PÚBLICA EN YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto para la Construcción y Conservación de Obra Pública en Yucatán deberá inscribir en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas la modificación del Estatuto Orgánico del Instituto para la Construcción y Conservación de Obra Pública en Yucatán contenida en este acuerdo, dentro de un plazo de treinta días naturales, contado a partir de su entrada en vigor.
