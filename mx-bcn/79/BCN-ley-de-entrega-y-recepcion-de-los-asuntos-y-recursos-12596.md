@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-entrega-y-recepcion-de-los-asuntos-y-recursos-12596"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-07"
-last_updated: "2016-10-21"
+last_updated: "2019-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 7 de agosto de 1998.
 
@@ -147,11 +147,25 @@ II.- Detalle pormenorizado sobre la situación de los recursos materiales, finan
 
 III.- Detalle de los presupuestos, programas, estudios y proyectos;
 
-IV.- Obras públicas en proceso;
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2019)</small>
+
+IV.- Obras públicas, concesiones, contrataciones, adquisiciones, arrendamientos y licitaciones en proceso y próximas a realizar.
 
 V.- Reglamentos, manuales de organización y de procedimientos; y
 
 VI.- En general los aspectos relacionados con la situación administrativa, desarrollo, cumplimiento o en su caso desviación de programas y demás información y documentación relativa que señale el reglamento y/o manual de normatividad correspondiente.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VI], P.O. 11 DE OCTUBRE DE 2019)</small>
+
+Toda la información contenida en el presente artículo deberá estar disponible a las comisiones de enlace nombradas por la autoridad pública entrante en los términos y formas previstas por el artículo 13 de esta Ley.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VI], P.O. 11 DE OCTUBRE DE 2019)</small>
+
+En todos los procedimientos de contratación, adquisiciones, arrendamiento y licitaciones que lleven a cabo las autoridades públicas salientes del gobierno del Estado, Municipios, Organismos Descentralizados de la Administración Pública Estatal o Municipal, Empresas de Participación Estatal y Municipal y Fideicomisos Públicos en el que el Fideicomitente mayoritario sea el Gobierno del Estado o los Municipios, Organismos creados por ley o decreto, dentro de los noventa días previos a la entrada del nuevo gobierno, deberá participar como testigo un representante del gobierno entrante debidamente acreditado para dicho propósito.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN VI], P.O. 11 DE OCTUBRE DE 2019)</small>
+
+Durante el periodo de noventa días previos al inicio del gobierno estatal o municipales entrante ninguna unidad administrativa de un gobierno saliente podrá otorgar concesión o permiso alguno sobre bienes propiedad del Estado o de algún municipio. Está prohibido llevar a cabo cualquier basificación laboral de personal de confianza en ese mismo periodo para todos los niveles de la administración del Estado y de todos los Ayuntamientos.
 
 ###### ARTICULO 12.
 
@@ -161,9 +175,11 @@ El informe a que se refiere la Fracción I del Artículo anterior, deberá conte
 
 Los Titulares de los Órganos de Control al concluir su encargo, deberán incluir un Informe final que contenga la información y/o las observaciones que refieren los artículos 64 y 64 Bis de la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 13.
 
-Una vez reconocida legalmente por la Autoridad Electoral competente, la autoridad pública entrante constituirá comisiones de enlace a más tardar 60 días antes de tomar posesión, para que en coordinación con la autoridad obligada a hacer la entrega, quien igualmente deberá constituir las comisiones correspondientes, inicien la transferencia de información sobre el estado en que se encuentren los asuntos relacionados con recursos financieros, humanos, y materiales.
+Una vez reconocida legalmente por la Autoridad Electoral competente, la autoridad pública entrante constituirá comisiones de enlace, para que en coordinación con la autoridad obligada a hacer la entrega, quien igualmente deberá constituir las comisiones correspondientes, inicien la transferencia de información sobre el estado en que se encuentren los asuntos relacionados con recursos financieros, humanos, y materiales.
 
 Todos los Titulares de las Dependencias y Entidades de la Administración Pública Estatal y Municipal estarán obligados a brindar información correspondiente una vez que los Titulares del (sic) los Poderes del Estado y Municipios, según corresponda, les den a conocer los nombres de las personas designadas para la integración de las Comisiones de Enlace referidas en el párrafo anterior.
 
@@ -245,11 +261,11 @@ Si el servidor público saliente dejare de cumplir con esta disposición, incurr
 
 La entrega del despacho, de recursos y de los asuntos en trámite encomendados al servidor público saliente, no lo exime de las responsabilidades en que hubiere incurrido en los términos de las leyes correspondientes.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 23.
 
-Cuando el servidor público saliente entregue información incomprensible o incompleta; oculte, altere, destruya o inutilice total o parcialmente, sin causa justificada, la información, bienes y recursos que se encontraban bajo su custodia o, en su caso, no atienda los requerimientos de aclaración que se le formulen en el plazo establecido en la presente Ley, incurrirá en responsabilidad, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
+Cuando el servidor público saliente entregue información incomprensible o incompleta; oculte, altere, destruya o inutilice total o parcialmente, sin causa justificada, la información, bienes y recursos que se encontraban bajo su custodia o, en su caso, no atienda los requerimientos de aclaración que se le formulen en el plazo establecido en la presente Ley, incurrirá en responsabilidad, en los términos de la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
 El servidor público que recibe o sus representantes deberán hacer del conocimiento del órgano de control interno correspondiente, las circunstancias antes señaladas, para que proceda en los términos de la ley respectiva.
 
@@ -320,3 +336,9 @@ P.O. 21 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 33 y 49, fracción I de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+P.O. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 01MEDIANTE (SIC) EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN IV, ASÍ COMO LA ADICIÓN DE TRES PÁRRAFOS A LA FRACCIÓN VI DEL ARTÍCULO 11, COMO TAMBIÉN LAS REFORMAS A LOS ARTÍCULOS 13 Y 23 DE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA AL ARTÍCULO 53; LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 54, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 62 BIS DE NUEVA CREACIÓN A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
