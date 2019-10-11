@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2019-05-02"
+last_updated: "2019-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -129,11 +129,11 @@ I. PRIMER CIRCUITO:
 
 2. Nueve tribunales unitarios especializados: seis en materia penal y tres en materias Civil, Administrativa y Especializados en Competencia Económica, Radiodifusión y Telecomunicaciones, todos con residencia en la Ciudad de México.
 
-> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 2/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 20 DE MARZO DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 19/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE OCTUBRE DE 2019)</small>
 
-3. Sesenta y siete juzgados de Distrito en la Ciudad de México especializados:
+3. Sesenta y cuatro juzgados de Distrito en la Ciudad de México especializados:
 
-Doce de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil, y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
+Nueve de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
 
 > <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 37/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2018)</small>
 
@@ -153,9 +153,9 @@ II. SEGUNDO CIRCUITO:
 
 2. Ocho Tribunales Unitarios: cinco con sede en Toluca, dos con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
 
-> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 53/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2019)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 12/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE OCTUBRE DE 2019)</small>
 
-3. Treinta y un Juzgados de Distrito en el Estado de México; seis de Procesos Penales Federales, siete especializados en materia de Amparo y Juicios Federales y uno en Materia Mercantil Federal, todos con residencia en Toluca; doce Juzgados de Distrito Mixtos y uno en materia Mercantil Federal, todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
+3. Treinta y un Juzgados de Distrito en el Estado de México; cuatro de Procesos Penales Federales, nueve especializados en materia de Amparo y Juicios Federales y uno en Materia Mercantil Federal, todos con residencia en Toluca; doce Juzgados de Distrito Mixtos y uno en materia Mercantil Federal, todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
 
 III. TERCER CIRCUITO:
 
@@ -167,9 +167,9 @@ III. TERCER CIRCUITO:
 
 2. Seis tribunales unitarios: cinco con residencia en Zapopan y uno con sede en Guadalajara.
 
-> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 41/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 15/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE OCTUBRE DE 2019)</small>
 
-3. Treinta y dos juzgados de Distrito especializados: nueve de amparo en materia penal, siete con residencia en Zapopan y dos con sede en Puente Grande; dieciséis en materias administrativa, civil y de trabajo, todos con residencia en el municipio de Zapopan; y siete de procesos penales federales con residencia en Puente Grande.
+3. Treinta y dos juzgados de Distrito especializados: nueve de amparo en materia penal, cuatro con residencia en Zapopan y cinco con sede en Puente Grande; diecinueve en materias administrativa, civil y de trabajo, todos con residencia en el municipio de Zapopan; y cuatro de procesos penales federales con residencia en Puente Grande.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -331,9 +331,9 @@ XV. DECIMOQUINTO CIRCUITO:
 
 2. Nueve tribunales unitarios: cuatro con sede en Mexicali y cinco con residencia en Tijuana.
 
-> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 43/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 13/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 11 DE OCTUBRE DE 2019)</small>
 
-3. Veinte juzgados de Distrito en el Estado de Baja California, tres de ellos con sede en Ensenada; seis Mixtos; y uno en Materia Mercantil Federal, todos con sede en Mexicali; y diez con residencia en Tijuana, estos últimos comprenden cinco especializados en Procesos Penales Federales y cinco en Materia de Amparo y Juicios Federales.
+3. Veinte juzgados de Distrito en el Estado de Baja California, tres de ellos con sede en Ensenada; seis Mixtos; y uno en Materia Mercantil Federal, todos con sede en Mexicali y diez con residencia en Tijuana, estos últimos comprenden tres especializados en Procesos Penales Federales y siete en Materia de Amparo y Juicios Federales.
 
 XVI. DECIMOSEXTO CIRCUITO:
 
@@ -7408,3 +7408,75 @@ CUARTO. La Contraloría del Poder Judicial de la Federación, la Secretaría Eje
 QUINTO. Se abroga el Acuerdo 3/2014, del Pleno del Consejo de la Judicatura Federal, que modifica el diverso 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República, para establecer la redistribución de la plantilla laboral del Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con sede en Mazatlán, Sinaloa, y de la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías.
 
 SEXTO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en internet.
+
+D.O.F. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 12/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS SEXTO Y SÉPTIMO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN TOLUCA; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DE LOS CITADOS ÓRGANOS JURISDICCIONALES; SU CAMBIO DE DENOMINACIÓN Y COMPETENCIA E INICIO DE FUNCIONES COMO JUZGADOS OCTAVO Y NOVENO DE DISTRITO EN MATERIA DE AMPARO Y JUICIOS FEDERALES EN EL MISMO ESTADO Y RESIDENCIA, SU JURISDICCIÓN TERRITORIAL Y DOMICILIO; ASÍ COMO LA REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA ÚLTIMA MATERIA Y ENTIDAD FEDERATIVA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán a los órganos jurisdiccionales que inician funciones de la infraestructura y equipamiento que en el caso se requieran para el desempeño de sus labores, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las direcciones generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
+
+QUINTO. El Instituto Federal de la Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 13/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS CUARTO Y QUINTO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN TIJUANA; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DE LOS CITADOS ÓRGANOS JURISDICCIONALES; CAMBIO DE DENOMINACIÓN E INICIO DE FUNCIONES COMO JUZGADOS SEXTO Y SÉPTIMO DE DISTRITO EN MATERIA DE AMPARO Y JUICIOS FEDERALES EN EL MISMO ESTADO Y RESIDENCIA, SU COMPETENCIA, JURISDICCIÓN TERRITORIAL Y DOMICILIO; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA ÚLTIMA MATERIA Y ENTIDAD FEDERATIVA INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán a los órganos jurisdiccionales que inician funciones de la infraestructura y equipamiento que en el caso se requieran para el desempeño de sus labores, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las direcciones generales de Tecnologías de la Información y Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones, en un término de siete días naturales contados a partir de la aprobación del presente Acuerdo.
+
+QUINTO. El Instituto Federal de la Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este acuerdo.
+
+D.O.F. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 14/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN Y COMPETENCIA DE LOS ACTUALES JUZGADOS QUINTO, SEXTO Y SÉPTIMO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN E INICIO DE FUNCIONES COMO JUZGADOS DECIMOSÉPTIMO, DECIMOCTAVO Y DECIMONOVENO DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO EN EL MISMO ESTADO Y RESIDENCIA; A LA JURISDICCIÓN TERRITORIAL Y DOMICILIO; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Se faculta (sic) la Secretaría Ejecutiva de Creación de Nuevos Órganos, a la Dirección General de Gestión Judicial y a la Dirección General de Tecnologías de la Información, resuelvan en el ámbito de sus facultades, todas las situaciones que surjan con motivo de la aplicación del presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los órganos jurisdiccionales que inician funciones de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que darán servicio a los órganos jurisdiccionales que inician funciones.
+
+D.O.F. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 15/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS SÉPTIMO, OCTAVO Y NOVENO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE JALISCO, CON RESIDENCIA EN PUENTE GRANDE; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DE LOS CITADOS ÓRGANOS JURISDICCIONALES E INICIO DE FUNCIONES COMO JUZGADOS QUINTO, SEXTO Y SÉPTIMO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL MISMO ESTADO Y RESIDENCIA; A LA JURISDICCIÓN TERRITORIAL, COMPETENCIA Y DOMICILIO; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.”]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Se faculta la Secretaría Ejecutiva de Creación de Nuevos Órganos, a la Dirección General de Gestión Judicial y a la Dirección General de Tecnologías de la Información, resuelvan en el ámbito de sus facultades, todas las situaciones que surjan con motivo de la aplicación del presente Acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los órganos jurisdiccionales que inician funciones de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que darán servicio a los órganos jurisdiccionales que inician funciones.
+
+QUINTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+D.O.F. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO GENERAL 19/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS DECIMOPRIMERO, DECIMOTERCERO Y DECIMOSEXTO DE DISTRITO DE PROCESOS PENALES FEDERALES EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE, RESPECTIVAMENTE; LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DE LOS CITADOS ÓRGANOS JURISDICCIONALES; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA MATERIA Y SEDE INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los titulares de los Juzgados de Distrito que concluyen funciones serán readscritos por el Pleno del Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
+
+A efecto de respetar los derechos laborales de los servidores públicos adscritos a los órganos jurisdiccionales que concluyen funciones, éstos formarán parte de las plazas a disposición del Consejo de la Judicatura Federal, para posteriormente integrar el órgano jurisdiccional que se disponga.
+
+En caso de que algún servidor público cause baja en el órgano jurisdiccional que se le comisionará, la plaza se transferirá a la plantilla de plazas a disposición del Consejo de la Judicatura Federal para el fortalecimiento de órganos jurisdiccionales federales, puesto que la propuesta tiene como fin el respeto a los derechos laborales, pero con la limitante de recursos presupuestales.
