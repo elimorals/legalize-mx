@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-administrativas-del-estado-de-baja-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-07"
-last_updated: "2017-08-07"
+last_updated: "2019-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2019.
 
 Ley publicada en el Número Especial al Periódico Oficial del Estado de Baja California, el lunes 7 de agosto de 2017.
 
@@ -531,13 +531,19 @@ Las conductas previstas en el presente Capítulo constituyen faltas administrati
 
 Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos, parientes civiles o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
 
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 53.
 
-Cometerá peculado el servidor público que autorice, solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior, de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
+Cometerá peculado el servidor público que autorice, solicite o realice actos para el uso o apropiación para sí o para las personas a las que se refiere el artículo anterior, de recursos públicos, sean materiales, humanos, financieros, incluyendo la asignación de plazas de base o planta, sin fundamento jurídico o en contraposición a las normas aplicables.
 
 ###### Artículo 54.
 
 Será responsable de desvío de recursos públicos el servidor público que autorice, solicite o realice actos para la asignación o desvío de recursos públicos, sean materiales, humanos o financieros, sin fundamento jurídico o en contraposición a las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2019)</small>
+
+En ningún caso los servidores públicos podrán realizar contratación alguna de las previstas en la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California, tres meses antes de que concluya el periodo de gobierno de la administración correspondiente, salvo que exista autorización expresa del Congreso del Estado.
 
 ###### Artículo 55.
 
@@ -578,6 +584,12 @@ Cometerá tráfico de influencias el servidor público que utilice la posición 
 ###### Artículo 62.
 
 Será responsable de encubrimiento el servidor público que cuando en el ejercicio de sus funciones llegare a advertir actos u omisiones que pudieren constituir Faltas administrativas, realice deliberadamente alguna conducta para su ocultamiento.
+
+> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 62 Bis.
+
+El servidor público que no entregue, incumpla, retrase, oculte, destruya, altere, deforme, inutilice total o parcialmente la información pública que de acuerdo a la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos para el Estado de Baja California, esté obligado a proporcionar, en los plazos, términos y formas previstas en la legislación.
 
 ###### Artículo 63.
 
@@ -1349,7 +1361,7 @@ De considerarlo pertinente, la Autoridad resolutora del asunto podrá solicitar 
 
 ###### Artículo 177.
 
-La inspección en el procedimiento de responsabilidad administrativa, estará a cargo de la Autoridad resolutora, y procederá cuando así sea solicitada por cualquiera de las partes, o bien, cuando de oficio lo estime conducente dicha autoridad para el esclarecimiento de los hechos, siempre que no se requieran conocimientos especiales para la apreciación •de los objetos, cosas, lugares o hechos que se pretendan observar mediante la inspección.
+La inspección en el procedimiento de responsabilidad administrativa, estará a cargo de la Autoridad resolutora, y procederá cuando así sea solicitada por cualquiera de las partes, o bien, cuando de oficio lo estime conducente dicha autoridad para el esclarecimiento de los hechos, siempre que no se requieran conocimientos especiales para la apreciación de los objetos, cosas, lugares o hechos que se pretendan observar mediante la inspección.
 
 ###### Artículo 178.
 
@@ -1844,3 +1856,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GOMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 01 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN IV, ASÍ COMO LA ADICIÓN DE TRES PÁRRAFOS A LA FRACCIÓN VI DEL ARTÍCULO 11, COMO TAMBIÉN LAS REFORMAS A LOS ARTÍCULOS 13 Y 23 DE LA LEY DE ENTREGA Y RECEPCIÓN DE LOS ASUNTOS Y RECURSOS PÚBLICOS PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA AL ARTÍCULO 53; LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 54, ASÍ COMO LA ADICIÓN DE UN ARTÍCULO 62 BIS DE NUEVA CREACIÓN A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
