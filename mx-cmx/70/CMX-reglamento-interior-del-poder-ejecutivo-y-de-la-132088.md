@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-09-09"
+last_updated: "2019-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE OCTUBRE DE 2019.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -302,15 +302,7 @@ G) Coordinación General de Comunicación Ciudadana, a la que quedan adscritas:
 
 3. Dirección Ejecutiva de Estrategia Comunicativa;
 
-H) Subsecretaría de Capital Humano y Administración, a la que quedan adscritas:
-
-1. Coordinación General de Evaluación, Modernización y Desarrollo Administrativo a la que quedan adscritas:
-
-1.1. Dirección Ejecutiva de Desarrollo Organizacional;
-
-1.2. Dirección Ejecutiva de Análisis Normativo y Seguimiento Sectorial; y
-
-1.3. Dirección Ejecutiva de Evaluación y Registro Ocupacional;
+H) (DEROGADO, G.O. 11 DE OCTUBRE DE 2019)
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -359,6 +351,44 @@ J) Dirección General de Enlace y Programas Especiales;
 K) Dirección Ejecutiva de Seguimiento y Control Institucional; y
 
 L) Las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en la Administración Pública Central.
+
+> <small>(ADICIONADO [N. DE E. CON LOS NUMERALES QUE LO INTEGRAN], G.O. 11 DE OCTUBRE DE 2019)</small>
+
+M) Coordinación General de Evaluación, Modernización y Desarrollo Administrativo, a la que le quedan adscritas:
+
+1. Dirección Ejecutiva de Desarrollo Organizacional;
+
+2. Dirección Ejecutiva de Análisis Normativo y Seguimiento Sectorial; y
+
+3. Dirección Ejecutiva de Evaluación y Registro Ocupacional;
+
+> <small>(ADICIONADO [N. DE E. CON LOS NUMERALES QUE LO INTEGRAN], G.O. 11 DE OCTUBRE DE 2019)</small>
+
+N) Dirección General de Administración de Personal, a la que le quedan adscritas:
+
+1. Dirección Ejecutiva de Administración de Personal y Uninómina; y
+
+2. Dirección Ejecutiva de Política y Relaciones Laborales.
+
+> <small>(ADICIONADO [N. DE E. CON LOS NUMERALES QUE LO INTEGRAN], G.O. 11 DE OCTUBRE DE 2019)</small>
+
+O) Dirección General de Recursos Materiales y Servicios Generales, a la que le quedan adscritas:
+
+1. Dirección Ejecutiva de Adquisiciones de Bienes y Servicios;
+
+2. Dirección Ejecutiva de Almacenes e Inventarios; y
+
+3. Dirección Ejecutiva de Aseguramiento y Servicios.
+
+> <small>(ADICIONADO [N. DE E. CON LOS NUMERALES QUE LO INTEGRAN], G.O. 11 DE OCTUBRE DE 2019)</small>
+
+P) Dirección General de Patrimonio Inmobiliario, a la que le quedan adscritas:
+
+1. Dirección Ejecutiva de Avalúos;
+
+2. Dirección Ejecutiva de Administración Inmobiliaria; y
+
+3. Dirección Ejecutiva de Inventario Inmobiliario, Estudios Técnicos y de Información.
 
 III. A la Secretaría de la Contraloría General:
 
@@ -504,7 +534,7 @@ G) Coordinación General de Inclusión Educativa e Innovación.
 
 > <small>(ADICIONADO, G.O. 14 DE JUNIO DE 2019)</small>
 
-Asimismo, se le adscribe el Órgano Desconcentrado denominado Instituto de Estudios Superiores de la Ciudad de México “Rosario Castellanos”.
+Asimismo, se le adscribe el Órgano Desconcentrado denominado Instituto de Estudios Superiores de la Ciudad de México "Rosario Castellanos".
 
 VIII. A la Secretaría de Gestión Integral de Riesgos y Protección Civil:
 
@@ -1254,7 +1284,9 @@ XX. Participar en la formulación de anteproyectos de reformas y adiciones a dis
 
 XXI. Asesorar a las Unidades Responsables de Gasto cuando lo soliciten, respecto de las normas que emite la Subsecretaría;
 
-XXII. Dirigir, en coordinación con la Subsecretaría de Capital Humano y Administración, el proceso de estimación, programación y asignación de los recursos presupuestales que destinarán al capítulo de servicios personales las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades en su correspondiente anteproyecto de presupuesto de egresos, mismos que se sujetarán a las previsiones de ingresos que comunique la Secretaría;
+> <small>(REFORMADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXII. Dirigir, en coordinación con la Dirección General de Administración de Personal, el proceso de estimación, programación y asignación de los recursos presupuestales que destinarán al capítulo de servicios personales las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades en su correspondiente anteproyecto de presupuesto de egresos, mismos que se sujetarán a las previsiones de ingresos que comunique la Secretaría;
 
 XXIII. Analizar y, en su caso, someter a consideración del superior la propuesta de respuesta a las solicitudes presentadas por las Dependencias, Órganos Desconcentrados, Alcaldías y Entidades para comprometer recursos presupuestales en proyectos cuya ejecución comprenda más de un ejercicio fiscal;
 
@@ -1278,7 +1310,13 @@ XXXI. Coordinar el proceso de Armonización Contable a los Entes Públicos de la
 
 XXXII. Autorizar y evaluar los programas de inversión de las Dependencias y Entidades de la Administración Pública, y
 
-XXXIII. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXXIII. Coordinar a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las dependencias de la Administración Pública Central; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXXIV. Las demás que le fijen expresamente las leyes y reglamentos, así como las que le sean conferidas por sus superiores jerárquicos en el ámbito de su competencia.
 
 ###### Artículo 28.
 
@@ -1416,93 +1454,7 @@ XXXIII. Las demás que le atribuyan expresamente los reglamentos y demás dispos
 
 ###### Artículo 30.
 
-La Subsecretaría de Capital Humano y Administración tendrá las siguientes atribuciones:
-
-I. Emitir las normas y disposiciones, así como la interpretación de las leyes en la materia, que permitan a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, obtener una administración eficaz y eficiente de su capital humano, para el cumplimiento del programa general de desarrollo vigente;
-
-II. Coordinar que la incorporación de servidores públicos en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, se efectué bajo procesos de calidad, eficiencia y transparencia, priorizando la igualdad y equidad de género en los procesos de selección;
-
-> <small>(REFORMADO, G.O. 14 DE JUNIO DE 2019)</small>
-
-III. Implementar la política salarial, las prestaciones sociales y económicas que tenga a bien acordar con la persona titular de la Jefatura de Gobierno de la Ciudad de México, así como la formalización de nombramientos de las personas servidoras públicas de las Dependencias, Órganos Desconcentrados, Órganos de Apoyo Administrativo, Alcaldías y Entidades, pudiendo exentarlos inclusive del proceso de reclutamiento, selección y evaluación integral aplicable a las personas aspirantes o servidoras públicas a un puesto de estructura orgánica; así como a las personas aspirantes prestadores de servicios (folios mayores), cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura.
-
-IV. Implementar las acciones necesarias y suficientes que permitan que los sueldos y demás prestaciones del capital humano al servicio de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, se realice de manera oportuna a través de medios electrónicos y en apego a los calendarios establecidos, así como a las disposiciones vigentes relativas a la materia;
-
-V. Innovar mediante el uso y aprovechamiento de nuevas Tecnologías de la Información y Comunicación (TICs), los procesos de selección, ingreso y administración, inherentes al capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-VI. Dirigir el proceso de estimación y seguimiento a la programación, asignación y ejercicio de recursos presupuestales destinados al capítulo de servicios personales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-VII. Asumir la representación patronal en todas las negociaciones, ante las representaciones sindicales titulares de las condiciones generales de trabajo y contratos colectivos de trabajo vigentes en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para su revisión y/o formalización de las mismas ante la autoridad correspondiente, así como ante los juicios de orden laboral;
-
-VIII. Acordar directrices para establecer la atención de las relaciones laborales con el capital humano al servicio de la Administración Pública, con base en las disposiciones constitucionales y legales aplicables y los lineamientos que fije la persona titular de la Jefatura de Gobierno, así como resolver los asuntos laborales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, cuya atención no esté a cargo de otra autoridad conforme a las disposiciones jurídicas respectivas;
-
-IX. Dictaminar la imposición, reducción o revocación de las sanciones que pretendan aplicarse a los trabajadores de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, dentro de los plazos previstos por las leyes y cuyo dictamen no quede a cargo de otra autoridad, conforme a las disposiciones jurídicas respectivas;
-
-X. Supervisar la difusión y el cumplimiento de la normatividad laboral en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-XI. Acordar las normas para la profesionalización, el desarrollo laboral y personal, a través de plataformas digitales, del capital humano adscrito a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-XII. Supervisar el diseño e implementación de la Universidad Laboral y Escalafón Digitalizado, como un sistema de movilidad laboral ascendente de forma transparente y equitativo mediante el uso de plataformas digitales, en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-XIII. Supervisar la operación de las prestaciones sociales y económicas en materia educativa y de estímulos y recompensas del capital humano y/o sus beneficiarios a través de plataformas digitales;
-
-XIV. Coordinar la implementación de la cultura laboral a través de disposiciones normativas y acciones que coadyuven al desarrollo laboral, humano y profesional de grupos sustantivos de capital humano, así como establecer una administración eficaz y eficiente mediante el uso de las tecnologías;
-
-XV. Vigilar la operatividad de los Programas de Servicio Social y Prácticas Profesionales en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para la implementación de un sistema de empleabilidad del Gobierno de la Ciudad de México;
-
-XVI. Asumir la representación de la Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México ante las autoridades fiscales federales y locales para la presentación de avisos, declaraciones, manifestaciones y en general los actos y actividades tendientes a cumplir centralmente con las obligaciones fiscales a cargo de las dependencias, alcaldías, órganos desconcentrados y entidades del Gobierno de la Ciudad de México;
-
-XVII. Coordinar la administración, operación y control del Sistema Integral Desconcentrado de Nómina, mediante el cual se realizarán los registros y publicación de la Nómina de Pago, del Capital Humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades que usan el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, así como la administración del Sistema Integral de Comprobantes Fiscales Electrónicos (SICFE), el cual servirá para cumplir con las disposiciones fiscales federales, en materia de facturas electrónica (sic) y recibos de nómina digital;
-
-XVIII. Supervisar la correcta implementación de las disposiciones fiscales federales y locales para el oportuno cumplimiento de las obligaciones patronales, así como de la tramitación y pago de cuotas sindicales;
-
-XIX. Expedir los lineamientos y políticas para el diseño, implementación y operación del programa de apoyo al salario, descuento vía nómina, de los trabajadores, adscritos a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, así como suscribir los convenios respectivos;
-
-XX. Coordinar con la Subsecretaría de Egresos, el diseño, implementación, operación y administración del sistema de registro y control de las erogaciones de servicios personales a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
-
-XXI. Asumir la presidencia de los consejos de gobierno de los entes encargados de los sistemas de pensiones y jubilaciones, así como en los fondos y fideicomisos creados a favor del capital humano al servicio de la Administración Pública;
-
-XXII. Dictaminar la procedencia de los contratos de prestadores de servicios con remuneración equivalente a la de servidores públicos de estructura;
-
-XXIII. Suscribir convenios que faciliten el acceso a bienes y servicios para el mejoramiento de la calidad de vida del capital humano al servicio de la Administración Pública, así como a sus familias;
-
-XXIV. Coordinar a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las dependencias de la Administración Pública Central;
-
-XXV. Suscribir los documentos relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones;
-
-XXVI. Atender las necesidades administrativas de la Administración Pública Centralizada de la Ciudad de México;
-
-XXVII. Apoyar a los titulares de las Unidades Administrativas, y Unidades Administrativas de Apoyo Técnico-Operativo de las Dependencias, Entidades, Alcaldías y Órganos Desconcentrados en la satisfacción de sus necesidades de servicios y recursos materiales para su adecuado funcionamiento, así como en la instrumentación de los programas y acciones relativas a la simplificación administrativa, modernización, atención ciudadana e innovación de la actuación administrativa;
-
-XXVIII. Establecer, conducir, impulsar y difundir las políticas para regular la administración de recursos materiales, de servicios generales, de tecnologías de la información y comunicaciones, de bienes y servicios informáticos, del patrimonio inmobiliario, de los bienes muebles y del archivo documental, de la Administración Pública de la Ciudad de México, así como dar seguimiento a los sistemas, normas, procesos y procedimientos, emitir opiniones técnicas y propuestas de actualización normativa, en estas materias;
-
-XXIX. Establecer la política que regule el ejercicio de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales de las que sean parte las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México;
-
-XXX. Llevar a cabo las licitaciones públicas, invitaciones restringidas o adjudicaciones directas de las adquisiciones consolidadas de la Administración Pública de la Ciudad de México. Conforme a las disposiciones jurídico-administrativas; autorizar las adquisiciones de los bienes y servicios restringidos que requieran las dependencias, entidades y órganos desconcentrados;
-
-XXXI. Autorizar la adquisición de bienes y servicios, relacionados con telefonía convencional, telefonía celular y equipos para la transmisión de voz por radio necesarios para el desarrollo de las actividades de la Administración Pública de la Ciudad de México, así como administrar y mantener su funcionamiento;
-
-XXXII. Requerir a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública la información, datos o la cooperación técnica para el desarrollo de sus funciones;
-
-XXXIII. Adquirir y vigilar la correcta utilización de los artículos de consumo, así como del mobiliario y equipo que requieran las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
-
-XXXIV. Proyectar y supervisar la ejecución de obras de mantenimiento, remodelación y reparación de los bienes señalados en la fracción anterior, así como autorizar la contratación de los servicios generales y los que requieran Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, de conformidad con lo que señalen las disposiciones jurídicas aplicables;
-
-XXXV. Formalizar, salvo que la persona titular de la Jefatura de Gobierno establezca disposición distinta, la contratación conforme a la Ley de Adquisiciones y Ley de Obras Públicas, para la adecuada operación de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo;
-
-XXXVI. Coordinar las acciones y programas de protección civil en los inmuebles del patrimonio inmobiliario de la Administración Pública de la Ciudad de México, a fin de privilegiar la protección de la vida humana y la salvaguarda del patrimonio;
-
-XXXVII. Definir, actualizar, modificar y, en su caso, dictaminar las estructuras orgánicas de la Administración Pública de la Ciudad de México, así como establecer las normas y criterios;
-
-XXXVIII. Promover y coordinar los programas en materia de desarrollo organizacional de la administración pública;
-
-XXXIX. Definir, normar y conducir los programas de los sistemas, procedimientos e instrumentos relacionados con los trámites y servicios de atención al público;
-
-XL. Impulsar, revisar y registrar los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México;
-
-XLI. Diseñar, impulsar e implementar Manuales Únicos de la Administración Pública de la Ciudad de México en materia de adquisiciones, arrendamientos y prestación de servicios, obra pública, transparencia, administración de documentos, operación archivística, en coordinación con los órganos especializados en la materia, así como aquéllos que promuevan la simplificación y modernización administrativa en el Gobierno de la Ciudad de México; y
-
-XLII. Las demás que le sean conferidas por la Secretaría de Administración y Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
+(DEROGADO, G.O. 11 DE OCTUBRE DE 2019)
 
 #### SECCIÓN III. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
@@ -4380,7 +4332,13 @@ XXIV. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
 
 XXV. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
 
-XXVI. Las demás que instruya la persona titular de la Secretaría de Administración y Finanzas, y las que se le confieran en otros instrumentos jurídicos o administrativos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXVI. Suscribir los instrumentos jurídicos relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones Ejecutivas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXVII. Las demás que instruya la persona titular de la Secretaría de Administración y Finanzas, y las que se le confieran en otros instrumentos jurídicos o administrativos.
 
 ###### Artículo 107.
 
@@ -4480,9 +4438,67 @@ XIII. (DEROGADA, G.O. 14 DE JUNIO DE 2019)
 
 XIV. Las demás que instruya la persona titular de la Coordinación General de Evaluación, Modernización y Desarrollo Administrativo, y las que se le confieran en otros instrumentos jurídicos o administrativos.
 
+> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 110.
 
-Corresponde a la Dirección General de Administración de Personal y Uninómina:
+Corresponde a la Dirección General de Administración de Personal:
+
+I. Emitir las normas y disposiciones, así como la interpretación de las leyes en la materia, que permitan a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, obtener una administración eficaz y eficiente de su capital humano;
+
+II. Coordinar que la incorporación de servidores públicos en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, se efectué bajo procesos de calidad, eficiencia y transparencia, priorizando la igualdad y equidad de género en los procesos de selección;
+
+III. Implementar la política salarial, las prestaciones sociales y económicas que tenga a bien acordar con la persona titular de la Secretaría de Administración y Finanzas, así como la formalización de los nombramientos del personal de la Administración Pública, con excepción de las Entidades y Alcaldías, expedidos por la persona titular de la Secretaría de Administración y Finanzas, pudiendo exentarlos inclusive del proceso de reclutamiento, selección y evaluación integral aplicable a las personas aspirantes o servidoras públicas a un puesto de estructura orgánica; así como a las personas aspirantes prestadores de servicios (folios mayores), cuya remuneración sea equivalente a la de las personas servidoras públicas de estructura;
+
+IV. Implementar las acciones necesarias y suficientes que permitan que los sueldos y demás prestaciones del capital humano al servicio de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, se realice de manera oportuna a través de medios electrónicos y en apego a los calendarios establecidos, así como a las disposiciones vigentes relativas a la materia;
+
+V. Innovar mediante el uso y aprovechamiento de nuevas Tecnologías de la Información y Comunicación (TICs), los procesos de selección, ingreso y administración, inherentes al capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+
+VI. Dirigir el proceso de estimación y seguimiento a la programación, asignación y ejercicio de recursos presupuestales destinados al capítulo de servicios personales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+
+VII. Asumir la representación patronal en todas las negociaciones, ante las representaciones sindicales titulares de las condiciones generales de trabajo y contratos colectivos de trabajo vigentes en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para su revisión y/o formalización de las mismas ante la autoridad correspondiente, así como ante los juicios de orden laboral;
+
+VIII. Acordar directrices para establecer la atención de las relaciones laborales con el capital humano al servicio de la Administración Pública, con base en las disposiciones constitucionales y legales aplicables y los lineamientos que fije la persona titular de la Jefatura de Gobierno, así como resolver los asuntos laborales de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, cuya atención no esté a cargo de otra autoridad conforme a las disposiciones jurídicas respectivas;
+
+IX. Dictaminar la imposición, reducción o revocación de las sanciones que pretendan aplicarse a los trabajadores de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, dentro de los plazos previstos por las leyes y cuyo dictamen no quede a cargo de otra autoridad, conforme a las disposiciones jurídicas respectivas;
+
+X. Supervisar la difusión y el cumplimiento de la normatividad laboral en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+
+XI. Acordar las normas para la profesionalización, el desarrollo laboral y personal, a través de plataformas digitales, del capital humano adscrito a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+
+XII. Supervisar el diseño e implementación de la Universidad Laboral y Escalafón Digitalizado, como un sistema de movilidad laboral ascendente de forma transparente y equitativo mediante el uso de plataformas digitales, en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+
+XIII. Supervisar la operación de las prestaciones sociales y económicas en materia educativa y de estímulos y recompensas del capital humano y/o sus beneficiarios a través de plataformas digitales;
+
+XIV. Coordinar la implementación de la cultura laboral a través de disposiciones normativas y acciones que coadyuven al desarrollo laboral, humano y profesional de grupos sustantivos de capital humano, así como establecer una administración eficaz y eficiente mediante el uso de las tecnologías;
+
+XV. Vigilar la operatividad de los Programas de Servicio Social y Prácticas Profesionales en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para la implementación de un sistema de empleabilidad del Gobierno de la Ciudad de México;
+
+XVI. Asumir la representación de la Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México ante las autoridades fiscales federales y locales para la presentación de avisos, declaraciones, manifestaciones y en general los actos y actividades tendientes a cumplir centralmente con las obligaciones fiscales a cargo de las dependencias, alcaldías, órganos desconcentrados y entidades del Gobierno de la Ciudad de México;
+
+XVII. Coordinar la administración, operación y control del Sistema Único de Nómina, mediante el cual se realizarán los registros y publicación de la Nómina de Pago, del Capital Humano de las Dependencias, Unidades Administrativas; Órganos Desconcentrados, Alcaldías y Entidades que usan el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, así como la administración del Sistema Integral de Comprobantes Fiscales Electrónicos (SICFE), el cual servirá para cumplir con las disposiciones fiscales federales, en materia de facturas electrónicas y recibos de nómina digital;
+
+XVIII. Supervisar la correcta implementación de las disposiciones fiscales federales y locales para el oportuno cumplimiento de las obligaciones patronales, así como de la tramitación y pago de cuotas sindicales;
+
+XIX. Expedir los lineamientos y políticas para el diseño, implementación y operación del programa de apoyo al salario, descuento vía nómina, de los trabajadores, adscritos a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, así como suscribir los convenios respectivos;
+
+XX. Coordinar con la Subsecretaría de Egresos, el diseño, implementación, operación y administración del sistema de registro y control de las erogaciones de servicios personales a que se refiere la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+XXI. Asumir la presidencia de los consejos de gobierno de los entes encargados de los sistemas de pensiones y jubilaciones, así como en los fondos y fideicomisos creados a favor del capital humano al servicio de la Administración Pública;
+
+XXII. Suscribir convenios que faciliten el acceso a bienes y servicios para el mejoramiento de la calidad de vida del capital humano al servicio de la Administración Pública, así como a sus familias;
+
+XXIII. Suscribir los instrumentos jurídicos relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones Ejecutivas;
+
+XXIV. Establecer la política que regule el ejercicio de los servicios de traslado, viáticos y demás erogaciones relacionadas con las comisiones oficiales nacionales e internacionales de las que sean parte las Dependencias, Órganos Desconcentrados, y Entidades de la Administración Pública de la Ciudad de México; y
+
+XXV. Las demás que le sean conferidas por la Secretaría de Administración y Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos y/o administrativos.
+
+> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 111.
+
+Corresponde a la Dirección Ejecutiva de Administración de Personal y Uninómina:
 
 I. Autorizar y evaluar la organización de las plazas y puestos de trabajo de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, en función del grado de sistematización de sus procesos y naturaleza de los bienes y servicios que ofrecen a la ciudadanía;
 
@@ -4502,7 +4518,7 @@ VIII. Proponer las normas, disposiciones y sistemas de información electrónico
 
 IX. Proponer las disposiciones que deberán observar las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para la integración, actualización y resguardo del sumario histórico laboral electrónico del capital humano;
 
-X. Coordinar con las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, que la formulación de su anteproyecto de presupuesto correspondiente al capítulo de servicios personales, se formule acorde al número de puestos de trabajo autorizados y al techo presupuestal que para tales efectos determine la Secretaría;
+X. Coadyuvar con las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, que la formulación de su anteproyecto de presupuesto correspondiente al capítulo de servicios personales, se formule acorde al número de puestos de trabajo autorizados y al techo presupuestal que para tales efectos determine la Secretaría;
 
 XI. Fungir como secretario técnico en los consejos de gobierno de los entes encargados de los sistemas de pensiones y jubilaciones, así como en los fondos y fideicomisos creados a favor del capital humano al servicio de la Administración Pública;
 
@@ -4522,129 +4538,47 @@ XVIII. Implementar, operar y administrar en coordinación con la Subsecretaría 
 
 XIX. Supervisar la operación, administración y actualización del Sistema Integral de Comprobantes Fiscales Electrónicos, SICFE, mismo que deben utilizar las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para cumplir con las disposiciones fiscales federales en materia de facturas electrónicas y recibos de nómina digital;
 
-XX. Cumplir con las obligaciones derivadas de la designación del titular de la Subsecretaría como representante legal del Gobierno de la Ciudad de México, ante los Organismos Fiscales Federales y Locales;
+XX. Cumplir con las obligaciones derivadas de la designación de la persona titular de la Dirección General de Administración de Personal como representante legal del Gobierno de la Ciudad de México, ante los Organismos Fiscales Federales y Locales;
 
-XXI. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
+XXI. Implementar, coordinar y dirigir la realización de estudios que permitan detectar las competencias requeridas por el Capital Humano que labora en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para realizar las actividades asignadas a su puesto de trabajo, considerando la innovación y la sustentabilidad, como ejes transversales de los procesos para los proyectos derivados de los programas estratégicos generales y sectoriales;
 
-XXII. Las demás que le sean conferidas por la Subsecretaría de Capital Humano y Administración, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos;
+XXII. Normar, implementar, dar seguimiento y evaluar el Sistema de Formación Continua, en distintas modalidades, en la Administración Pública de la Ciudad de México, considerando al capital humano técnico-operativo y de estructura, a fin de promover su crecimiento, desarrollo y promoción, en coadyuvancia con las demás Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades y coadyuvar en la colaboración de los convenios de colaboración en esta materia con instituciones educativas públicas y/o privadas para su ejecución;
 
-###### Artículo 111.
+XXIII. Normar, autorizar y supervisar los Programas de Capacitación, Servicio Social, Prácticas Profesionales y Educación Abierta y a Distancia del capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para la construcción de un Sistema de Formación continua del Gobierno de la Ciudad de México;
 
-Corresponde a la Dirección Ejecutiva de Sistemas de Nómina:
+XXIV. Coadyuvar en la celebración (sic) convenios de vinculación con instituciones educativas nacionales y/o extranjeras, públicas y/o privadas para fomentar la captación de capital humano para la realización del servicio social y prácticas profesionales en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
-I. Colaborar con las dependencias, órganos desconcentrados, alcaldías y entidades para el registro, control y resguardo de los datos del capital humano, mediante el diseño, implementación, operación de los sistemas informáticos que permitan generar con oportunidad, los pagos de nómina para los trabajadores, así como brindar servicios vinculados con su trayectoria laboral;
+XXV. Impulsar la generación del conocimiento a través de la implementación de programas especiales que mejoren el desarrollo laboral, humano y profesional del capital humano del Gobierno de la Ciudad de México;
 
-II. Llevar la administración y control de los sistemas para la emisión de pagos y servicios vinculados con la trayectoria laboral del capital humano del Gobierno de la Ciudad de México;
+XXVI. Dirigir, normar y supervisar el diseño, la implementación y la evaluación de los cursos de inducción relativos a la organización, estructuración y relación laboral, al capital humano de nuevo ingreso que vaya a ocupar plaza de base o estabilidad laboral en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
 
-III. Evaluar y proponer las medidas tendientes para mantener permanentemente actualizados los sistemas para la emisión de pagos del capital humano, tanto en su fase de equipo como en el sistema informático (hardware y software);
+XXVII. Dirigir, normar y supervisar la movilidad laboral y profesional ascendente del capital humano a través del servicio profesional de carrera; así como emitir dictámenes en materia de formación continua y capacitación para el sistema escalafonario;
 
-IV. Formular y dar a conocer con la debida anticipación a las áreas de la Administración Pública de la Ciudad de México, los calendarios de proceso para la emisión de las nóminas para el pago oportuno del capital humano;
+XXVIII. Normar e implementar la cultura laboral de las y los trabajadores de la Administración Pública de la Ciudad de México mediante acciones y herramientas que permitan realizar acciones afirmativas a favor de los grupos en situación de vulnerabilidad del capital humano, generando la eficacia y eficiencia de la Administración Pública de la Ciudad de México;
 
-V. Vigilar que se apliquen los mecanismos de control de las diferentes etapas que se requieran para la apertura del sistema, ingreso de incidencias, emisión de prenómina, validaciones, cierre y entrega de los distintos reportes, así como la emisión y publicación de los recibos de nómina digital;
+XXIX. Implementar, dirigir y normar las prestaciones sociales y económicas que se le otorgan a las y los hijos de las y los trabajadores de base sindicalizados del Gobierno de la Ciudad de México, así como lo relacionado a estímulos y recompensas del capital humano a través de plataformas digitales;
 
-VI. Revisar que se cuente con los respaldos y resguardos de la base de datos en los medios adecuados;
+XXX. Regular la organización, administración y funcionamiento de los Centros de Atención y Cuidado Infantil (CACI) de la Secretaría de Administración y Finanzas, en coadyuvancia con la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
 
-VII. Vigilar que se mantenga un estricto control del registro y control de los usuarios que tengan los permisos para acceder a los distintos niveles del sistema de nómina;
+XXXI. Normar y vigilar el funcionamiento, así como la operación de los Centros de Atención y Cuidado Infantil (CACI) de las Alcaldías del Gobierno de la Ciudad de México;
 
-VIII. Verificar el correcto aprovechamiento de los beneficios fiscales para el Gobierno de la Ciudad de México;
+XXXII. Proponer la suscripción de los documentos relativos al ejercicio de sus atribuciones;
 
-IX. Probar el calendario y para la publicación del resumen de aportaciones de seguridad social;
+XXXIII. Dar seguimiento a los procedimientos en materia de Derechos Humanos, promover y realizar las acciones de coordinación para su atención, acorde al ámbito de su competencia y conforma (sic) a las directrices de la Secretaría de Administración y Finanzas;
 
-X. Aprobar el calendario para la captura de información del Impuesto Sobre la Renta y el Impuesto Sobre Nóminas;
+XXXIV. Participar como enlace ante las instancias competitivas en materia de derechos humanos y en su caso celebrar acuerdos o convenios para promoción y capacitación en derechos humanos;
 
-XI. Coordinar la Aplicación de las disposiciones fiscales para cumplir con las obligaciones de entero de Cuotas y Aportaciones de Seguridad Social y del Fondo de la Vivienda del Instituto de Seguridad Social al Servicio del Estado (FOVISSSTE), Impuesto Sobre Nóminas, retenciones del Impuesto Sobre la Renta, Impuesto al Valor Agregado y demás compromisos fiscales derivados de la relación laboral, de las dependencias, órganos desconcentrados, alcaldías y entidades que utilizan el Registro Federal de Contribuyentes del sector central;
+XXXV. Instrumentar las acciones necesarias para la atención de requerimientos y programas que se implementen vinculadas a la operación de la Secretaria de Administración y Finanzas;
 
-XII. Aprobar el calendario y los formatos para la recepción de la información de seguridad social a favor del ISSSTE, CAPTRALIR Y CAPREPOL derivado de pagos realizados fuera de la nómina SIDEN;
+XXXVI. Coordinar, en su caso, las acciones interinstitucionales que atiendan y promuevan la igualdad sustantiva entre mujeres y hombres, de conformidad con el ámbito de su competencia; y
 
-XIII. Autorizar las Cuentas por Liquidar Certificadas para el entero del Impuesto Sobre la Renta Retenido, así como del Impuesto al Valor Agregado a cargo y aportaciones de seguridad social;
+XXXVII. Las demás que le sean conferidas por la Dirección General de Administración de Personal, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
 
-XIV. Coordinar la presentación de las declaraciones quincenales de las aportaciones de Seguridad Social;
-
-XV. Coordinar la presentación de las declaraciones mensuales del Impuesto Sobre la Renta retenido, así como del Impuesto al Valor Agregado;
-
-XVI. Coordinar la presentación de las declaraciones mensuales del Impuesto Sobre Nóminas;
-
-XVII. Coordinar la solicitud de depósito a las Entidades, para realizar el entero de las aportaciones al Sistema de Ahorro para el Retiro (SAR) y al Fondo de Vivienda del Instituto de Seguridad Social al Servicio del Estado;
-
-XVIII. Autorizar las Cuentas por Liquidar Certificadas para el entero del Fondo de Ahorro de Retiro Jubilatorio, Fondo de Ahorro Capitalizable, Seguro Institucional;
-
-XIX. Aplicar los convenios, lineamientos, políticas, reglas de operación, calendarios y sistema informático para la operación y administración del programa de apoyo al salario, (descuentos vía nómina), del capital humano, adscrito a las dependencias, órganos desconcentrados, alcaldías y entidades) (sic);
-
-XX. Vigilar la correcta aplicación de los Lineamientos y las Reglas de Operación para el Programa de Apoyo al Salario, previo a su aprobación;
-
-XXI. Supervisar el proceso para la admisión de proveedores de bienes y servicios interesados en incorporarse al Programa;
-
-XXII. Supervisar las operaciones derivadas de la aplicación de los descuentos a los trabajadores, que adquieran bienes o contraten servicios;
-
-XXIII. Autorizar las Cuentas por Liquidar Certificadas para el pago de los descuentos a favor de los proveedores del Programa, vigilando que se retenga la aportación a favor del Gobierno de la Ciudad de México para cumplir con los Lineamientos;
-
-XXIV. Autorizar las Cuentas por Liquidar Certificadas para el pago de las aportaciones por ingresos autogenerados;
-
-XXV. Supervisar la emisión de los comprobantes fiscales para justificar las aportaciones recibidas por ingresos autogenerados;
-
-XXVI. Supervisar que se realice la atención de las quejas que presenten los trabajadores incorporados al Programa;
-
-XXVII. Supervisar la operación, administración y actualización del Sistema Integral de Comprobantes Fiscales Electrónicos, SICFE, mismo que deben utilizar las dependencias, órganos desconcentrados, alcaldías y entidades, para cumplir con las disposiciones fiscales federales en materia de facturas electrónicas y recibos de nómina digital;
-
-XXVIII. Comprobar el cumplimento de los Lineamientos y las Reglas de Operación para la autorización del Sistema Integral de Comprobantes Fiscales Electrónicos, SICFE; y
-
-XXIX. Supervisar el correcto funcionamiento del Sistema Integral de Comprobantes Fiscales Electrónicos.
+> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 112.
 
-Corresponde a la Dirección Ejecutiva de Bienestar y Previsión Social:
-
-I. Promover las normas, disposiciones y sistemas de información electrónicos que se observarán para el control y optimización del Capital Humano;
-
-II. Supervisar los mecanismos de control de plazas y puestos de trabajo;
-
-III. Difundir los lineamientos para el cumplimiento oportuno de las prestaciones de los servidores públicos;
-
-IV. Promover la autogestión a través de las plataformas digitales en el Sistema Único de Nómina;
-
-V. Acordar con su superior jerárquico la atención, de los asuntos que sean considerados de su competencia;
-
-VI. Promover las normas, disposiciones y sistemas de información electrónicos que se observarán en la instrumentación, operación, seguimiento y evaluación de los fondos, seguros, sistemas de ahorro y demás conceptos de previsión social constituidos directamente por el Gobierno de la Ciudad de México;
-
-VII. Coordinar la administración de los fondos, seguros y demás conceptos de previsión social;
-
-VIII. Expedir los sistemas de información de los seguros destinados a la protección del capital humano;
-
-IX. Coordinar los procesos de análisis, modificación y/o actualización de catálogos de puestos y tabuladores de sueldos, del capital humano de la Administración Pública de la Ciudad de México;
-
-X. Coordinar la difusión de los catálogos de puestos y tabuladores de sueldos autorizados para el capital humano de la Administración Pública de la Ciudad de México;
-
-XI. Coordinar los mecanismos de control para el proceso de validación y adecuación de plazas y puestos de trabajo, a través del sistema de plataforma digital;
-
-XII. Coordinar el proceso de dictaminación de las estructuras ocupacionales, conforme a la normatividad aplicable y a los requerimientos de los programas institucionales;
-
-XIII. Gestionar que se incorpore al SIDEN, la creación o modificación de las estructuras ocupacionales autorizadas por el titular de la Subsecretaría, con base en la suficiencia presupuestal asignada;
-
-XIV. Dirigir el proceso de sistematización de información, para la digitalización de la documentación laboral del capital humano de la Administración Pública de la Ciudad de México;
-
-XV. Coordinar la incorporación de las dependencias, órganos desconcentrados, alcaldías y entidades, al proceso de sistematización y desconcentración de registros del capital humano de la Administración Pública de la Ciudad de México, de acuerdo a la normatividad aplicable;
-
-XVI. Coordinar el proceso de incorporación del expediente electrónico del capital humano de la Administración Pública de la Ciudad de México al Sistema Único de Nómina, de conformidad con el marco normativo de aplicación;
-
-XVII. Supervisar que el otorgamiento de los servicios administrativos que se otorgan al capital humano, se realice de manera eficiente y de conformidad con la normatividad aplicable;
-
-XVIII. Comunicar a los responsables del capital humano en los órganos de la administración pública, la implementación de los mecanismos que permitan eficientar la prestación de los servicios administrativos al capital humano;
-
-XIX. Programar la gestión administrativa oportuna y eficiente de los asuntos de su competencia;
-
-XX. Supervisar la procedencia de las transformaciones y movimientos de plaza-puesto, así como la actualización de tabuladores de sueldos, verificando que sean congruente (sic) con la disposición presupuestal asignada;
-
-XXI. Controlar las acciones correspondientes a las adecuaciones de los catálogos institucionales de puestos y claves de adscripción, para que los movimientos que se efectúen se realicen de conformidad a la norma aplicable;
-
-XXII. Administrar oportunamente los asuntos de su competencia;
-
-XXIII. Analizar la estructura ocupacional y salarial de los Órganos de la Administración Pública de la Ciudad de México; y
-
-XXIV. Validar la actualización del catálogo de puestos del personal técnico operativo y de estructura, de los Órganos de la Administración Pública de la Ciudad de México.
-
-###### Artículo 113.
-
-Corresponde a la Dirección General de Política y Relaciones Laborales:
+Corresponde a la Dirección Ejecutiva de Política y Relaciones Laborales:
 
 I. Emitir normas, lineamientos y asesorar a las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades de la Administración Pública, en materia de relaciones laborales;
 
@@ -4652,7 +4586,7 @@ II. Establecer mecanismos que aseguren, en el ámbito de sus atribuciones, la in
 
 III. Establecer mecanismos de mejora regulatoria en materia laboral, que permitan identificar necesidades de normatividad en los diferentes procesos de la administración en la materia, mejorar el acervo normativo e implementar acciones con el apoyo de tecnologías de la información de simplificación administrativa para contar con un gobierno eficaz, digital y transparente;
 
-IV. Dirigir las relaciones laborales y atender los asuntos referentes al capital humano al servicio de la Administración Pública, con base en las disposiciones constitucionales y legales aplicables, conforme lo disponga la persona titular de la Jefatura de Gobierno, de la Secretaría de Administración y Finanzas y la Subsecretaría (sic) Capital Humano y Administración;
+IV. Dirigir las relaciones laborales y atender los asuntos referentes al capital humano al servicio de la Administración Pública, con base en las disposiciones constitucionales y legales aplicables, conforme lo disponga la persona titular de la Jefatura de Gobierno y de la Secretaría de Administración y Finanzas;
 
 V. Atender los asuntos referentes a la instrumentación, aplicación, operación y supervisión de las Condiciones Generales de Trabajo y los Contratos Colectivos de Trabajo;
 
@@ -4672,95 +4606,23 @@ XII. Promover e implementar los servicios preventivos de la Medicina del Trabajo
 
 XIII. Desarrollar e implementar sistemas de validación de funciones que coadyuven al cumplimiento de las obligaciones patronales, relacionadas con temas de Seguridad y Salud en el Trabajo;
 
-XIV. Dirigir la realización de estudios que permitan detectar las competencias requeridas por el capital humano que labora en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para realizar las actividades asignadas a su puesto de trabajo, considerando la innovación de los procesos mediante la digitalización y los que se requieran para los proyectos derivados de los programas estratégicos generales y sectoriales;
+XIV. Proponer la suscripción de los documentos relativos al ejercicio de sus atribuciones;
 
-XV. Regular los cursos de inducción relativos a la organización, estructuración y relación laboral, así como la aplicación de la evaluación digital, al capital humano de nuevo ingreso que vaya a ocupar plaza de base o estabilidad laboral en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
+XV. Dirigir normar y supervisar la movilidad laboral y profesional ascendente del capital humano a través del sistema escalafonario; y
 
-XVI. Implementar, normar, conducir y vigilar el sistema de profesionalización de la Administración Pública en línea a través de la Universidad Laboral considerando al capital humano técnico-operativo y de estructura, a fin de promover su crecimiento, desarrollo y promoción, así como su estabilidad en el empleo, en coadyuvancia con la Secretaría de Educación, Ciencia, Tecnología e Innovación y de los convenios de colaboración con instituciones educativas públicas y/o privadas para su ejecución;
+XVI. Las demás que le sean conferidas por la Dirección General de Administración de Personal, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
 
-XVII. Dirigir, normar y supervisar la movilidad laboral y profesional ascendente del capital humano a través del sistema del servicio profesional de carrera y escalafón digitalizado;
+###### Artículo 113.
 
-XVIII. Implementar, dirigir y normar las prestaciones sociales y económicas que se le otorgan a las hijas e hijos de los trabajadores de base sindicalizados del Gobierno de la Ciudad de México, así como lo relacionado a estímulos y recompensas del capital humano a través de plataformas digitales;
-
-XIX. Impulsar la generación del conocimiento a través de la implementación de programas especializados que mejoren el desarrollo laboral, humano y profesional del capital humano del Gobierno de la Ciudad de México;
-
-XX. Normar, implementar e innovar la cultura laboral mediante acciones y herramientas tecnológicas que permitan potencializar la competitividad de grupos sustantivos del capital humano generando la eficacia y eficiencia de la administración pública del Gobierno de la Ciudad de México;
-
-XXI. Normar, autorizar y vigilar los Programas de Capacitación, servicio social y prácticas profesionales del capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para la implementación de un sistema de empleabilidad del Gobierno de la Ciudad de México;
-
-XXII. Crear convenios de vinculación con instituciones educativas nacionales y/o extranjeras, públicas y/o privadas para fomentar la captación de capital humano para la realización del servicio social y prácticas profesionales en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-XXIII. Regular la organización, administración y funcionamiento de los Centros de Atención y Cuidado Infantil (CACI) de la Secretaría, en coadyuvancia con la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
-
-XXIV. Normar y vigilar el funcionamiento, así como la operación de los Centros de Atención y Cuidado Infantil (CACI) de las Alcaldías del Gobierno de la Ciudad de México;
-
-XXV. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
-
-XXVI. Las demás que le sean conferidas por la Subsecretaría de Capital Humano y Administración, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
+(DEROGADO, G.O. 11 DE OCTUBRE DE 2019)
 
 ###### Artículo 114.
 
-Corresponde a la Dirección Ejecutiva de Desarrollo de la Competencia Laboral:
-
-I. Dirigir la realización de estudios que permitan detectar las competencias requeridas por el Capital Humano que labora en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para realizar las actividades asignadas a su puesto de trabajo, considerando la innovación de los procesos mediante la digitalización y los que se requieran para los proyectos derivados de los programas estratégicos generales y sectoriales;
-
-II. Regular los cursos de inducción relativos a la organización, estructuración y relación laboral, así como la aplicación de la evaluación digital, al capital humano de nuevo ingreso que vaya a ocupar plaza de base o estabilidad laboral en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-III. Implementar, normar, conducir y vigilar el sistema de profesionalización de la Administración Pública en línea a través de la Universidad Laboral considerando al capital humano técnico-operativo y de estructura, a fin de promover su crecimiento, desarrollo y promoción, así como su estabilidad en el empleo, en coadyuvancia con la Secretaría de Educación, Ciencia, Tecnología e Innovación y de los convenios de colaboración con instituciones educativas públicas y/o privadas para su ejecución;
-
-IV. Dirigir, normar y supervisar la movilidad laboral y profesional ascendente del capital humano a través del sistema del servicio profesional de carrera y escalafón digitalizado;
-
-V. Implementar, dirigir y normar las prestaciones sociales y económicas que se le otorgan a los hijos de los trabajadores de base sindicalizados del Gobierno de la Ciudad de México, así como lo relacionado a estímulos y recompensas del capital humano a través de plataformas digitales;
-
-VI. Impulsar la generación del conocimiento a través de la implementación de programas especializados que mejoren el desarrollo laboral, humano y profesional del capital humano del Gobierno de la Ciudad de México;
-
-VII. Normar, implementar e innovar la cultura laboral mediante acciones y herramientas tecnológicas que permitan potencializar la competitividad de grupos sustantivos del capital humano generando la eficacia y eficiencia de la administración pública del Gobierno de la Ciudad de México;
-
-VIII. Normar, autorizar y vigilar los Programas de Capacitación, servicio social y prácticas profesionales del capital humano de las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades, para la implementación de un sistema de empleabilidad del Gobierno de la Ciudad de México;
-
-IX. Crear convenios de vinculación con instituciones educativas nacionales y/o extranjeras, públicas y/o privadas para fomentar la captación de capital humano para la realización del servicio social y prácticas profesionales en las Dependencias, Unidades Administrativas, Órganos Desconcentrados, Alcaldías y Entidades;
-
-X. Regular la organización, administración y funcionamiento de los Centros de Atención y Cuidado Infantil (CACI) de la Secretaría, en coadyuvancia con la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
-
-XI. Normar y vigilar el funcionamiento, así como la operación de los Centros de Atención y Cuidado Infantil (CACI) de las alcaldías del Gobierno de la Ciudad de México;
-
-XII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
-
-XIII. Las demás que le sean conferidas por la Subsecretaría de Capital Humano y Administración, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
+(DEROGADO, G.O. 11 DE OCTUBRE DE 2019)
 
 ###### Artículo 115.
 
-Corresponde a la Dirección Ejecutiva de Atención y Control de Asuntos Laborales:
-
-I. Revisar la normatividad que emita la Subsecretaría de Capital Humano y Administración, procurando que la misma sea uniforme, clara, precisa y se encuentre concentrada en una sola área de consulta;
-
-II. Asesorar a las Dependencias, Unidades Administrativas, Alcaldías, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México, en materia de relaciones laborales;
-
-III. Representar a la Subsecretaría de Capital Humano y Administración en los juicios en que sea emplazada como demandada o autoridad responsable;
-
-IV. Dar atención a los asuntos jurídicos de la Subsecretaría de Capital Humano y Administración;
-
-V. Coadyuvar en la conducción de las relaciones laborales del capital humano al servicio de la Administración Pública de la Ciudad de México, colaborando, además, en las revisiones salariales y contractuales;
-
-VI. Salvaguardar la aplicación y cumplimiento de las Condiciones Generales de Trabajo y difundirlas entre el capital humano;
-
-VII. Dictaminar la imposición de las sanciones, la suspensión y la terminación de los efectos del nombramiento, que pretendan aplicarse al capital humano de la Administración Pública de la Ciudad de México, dentro de los plazos previstos por las leyes;
-
-VIII. Dictaminar las Licencias con goce de sueldo (Comisiones Sindicales) del capital humano, anual y mensual;
-
-IX. Vigilar la aplicación de los lineamientos laborales, jurídicos y administrativos en materia laboral;
-
-X. Vigilar la atención a los asuntos laborales planteados por el capital humano, así como los conflictos con grupos o asociaciones de capital humano;
-
-XI. Supervisar la información generada con motivo de la atención a los asuntos y conflictos laborales planteados por el capital humano;
-
-XII. Dirigir el desarrollo, operación, actualización y difusión, de la prevención de riesgos de la seguridad del capital humano en sus centros de trabajo;
-
-XIII. Dirigir la implementación de un Sistema de Gestión, Seguridad y Salud en el Trabajo, y la supervisión del seguimiento de las incidencias detectadas en las verificaciones realizadas;
-
-XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
-
-XV. Las demás que le sean conferidas por la Subsecretaría de Capital Humano y Administración, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos de la legislación local o federal.
+(DEROGADO, G.O. 11 DE OCTUBRE DE 2019)
 
 ###### Artículo 116.
 
@@ -4802,7 +4664,13 @@ XVII. Coordinar y asesorar a las Dependencias, Órganos Desconcentrados y Entida
 
 XVIII. Presentar ante el Cabildo, un informe pormenorizado que contenga las mejores condiciones de costo, beneficio y condiciones de entrega respecto de las presupuestadas por la o las Alcaldías, cuando se trate de la compra consolidada de un bien o servicio; y
 
-XIX. Las demás que le sean conferidas por el titular de la Secretaría de Administración y Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XIX. Suscribir los instrumentos jurídicos relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones Ejecutivas; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XX. Las demás que le sean conferidas por la persona titular de la Secretaría de Administración y Finanzas, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 117.
 
@@ -4940,7 +4808,9 @@ XXXIII. Proponer la forma de pago de los servicios y gastos por los dictámenes 
 
 XXXIV. Asesorar, en el ámbito de sus atribuciones, a las Dependencias, Unidades Administrativas, los Órganos Desconcentrados y Entidades de la Administración Pública; así como a las Alcaldías;
 
-XXXV. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+> <small>(REFORMADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXXV. Suscribir escrituras públicas, permisos, concesiones, recuperaciones administrativas y demás actos jurídicos en materia inmobiliaria, relativos al ejercicio de sus atribuciones o que le sean delegados; así como certificar, por sí o a través de sus Direcciones Ejecutivas;
 
 XXXVI. Supervisar la elaboración del programa interno de protección civil de los inmuebles del patrimonio inmobiliario de la ciudad, asignados a los órganos de la Administración Pública de la Ciudad de México; y
 
@@ -5119,6 +4989,22 @@ VII. Analizar las fuentes de financiamiento Público, Privado y/o Concurrente qu
 VIII. Coordinar con las Unidades Administrativas de la Secretaría de Administración y Finanzas los esquemas y trámites necesarios para concretar los instrumentos idóneos para la participación del sector privado en los programas y/o proyectos Especiales de la Ciudad de México; y
 
 IX. Revisar, analizar y difundir información generada desde el interior de la Secretaría de Administración y Finanzas para la publicación en las redes sociales, internet y diferentes medios de comunicación.
+
+> <small>(ADICIONADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+X. Proponer a la persona titular de la Secretaría de Administración y Finanzas, el diseño de estrategias de difusión de los procesos de planeación, programación, seguimiento y evaluación del presupuesto;
+
+> <small>(ADICIONADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XI. Diseñar los materiales idóneos para la difusión de información relacionada con las atribuciones competencia de la Secretaría de Administración y Finanzas;
+
+> <small>(ADICIONADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XII. Generar, acorde a las directrices de la persona titular de la Secretaría de Administración y Finanzas, las acciones comunicativas para que la ciudadanía acceda de manera oportuna, clara y sencilla a información presupuestal y financiera del Gobierno de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XIII. Las demás que le sean conferidas por la persona titular de la Secretaría de Administración y Finanzas.
 
 ###### Artículo 128.
 
@@ -13747,3 +13633,13 @@ G.O. 9 DE SEPTIEMBRE DE 2019.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
+
+G.O. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN, ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las referencias hechas a la Subsecretaría de Capital Humano y Administración y/o a las unidades administrativas de su adscripción en el presente Reglamento, en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, respecto de las atribuciones que se transfieren por virtud del presente Decreto, se entenderán referidas a la que asuma las funciones que le correspondían a aquella.
