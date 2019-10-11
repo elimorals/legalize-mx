@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-para-la-ciudad-de-mexico-120451"
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-23"
-last_updated: "2017-03-23"
+last_updated: "2019-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120451&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-28"
 
 LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE OCTUBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 23 de marzo de 2017.
 
@@ -132,9 +132,11 @@ VI. Ubicación tomando en cuenta el acceso a oportunidades de empleo, servicios 
 
 VII. Adecuación a las soluciones arquitectónicas y urbanísticas, de los procesos productivos de la vivienda y el uso de materiales, con base en el respeto a la diversidad cultural, medioambiental y geográfica.
 
+> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 4.
 
-Por ningún motivo será obstáculo para el ejercicio del derecho a la vivienda, la condición económica y social, origen étnico o nacional, lengua, edad, género, discapacidad, condición de salud, preferencias, opiniones, estado civil, creencias políticas o religiosas.
+Por ningún motivo será obstáculo para el ejercicio del derecho a la vivienda, la condición económica, el origen étnico o nacional, apariencia física, color de piel, lengua, género, edad, discapacidades, condición social, situación migratoria, condiciones de salud, embarazo, religión, opiniones, preferencia sexual, orientación sexual, identidad de género, expresión de género, características sexuales, estado civil, creencias políticas.
 
 ###### Artículo 5.
 
@@ -204,7 +206,9 @@ XXXI. POBLACIÓN CALLEJERA: Toda persona o grupos de personas con o sin relació
 
 XXXII. POBLACIÓN EN SITUACIÓN DE RIESGO SOCIAL: Los habitantes que se encuentran en condiciones de hacinamiento, que su vivienda carezca de servicios, estén en mal estado o sean insalubres;
 
-XXXIII. POBLACIÓN VULNERABLE: La que señala la Ley de Atención Prioritaria para las Personas con Discapacidad y en Situación de Vulnerabilidad en el Distrito Federal;
+> <small>(REFORMADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XXXIII. GRUPOS DE ATENCIÓN PRIORITARIA: Los que señala la Constitución Política de la Ciudad de México en su artículo 11.
 
 XXXIV. POLÍTICA DE VIVIENDA: Son las medidas de carácter general que establece el Gobierno de la Ciudad de México para garantizar el derecho a la vivienda;
 
@@ -566,7 +570,9 @@ XVII. Impulsar zonas policéntricas, compactas, productivas, incluyentes y suste
 
 XVIII. Fomentar, apoyar y vincular los procesos de autoconstrucción, autoadministración y autoproducción;
 
-XIX. Promover la producción de la vivienda rural y para la población vulnerable de acuerdo a las necesidades y circunstancias de cada sector;
+> <small>(REFORMADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+XIX. Promover la producción de la vivienda rural y para los grupos de atención prioritaria de acuerdo a las necesidades y circunstancias de cada sector;
 
 XX. Crear mecanismos para combatir los procesos de acaparamiento, subutilización y especulación de los terrenos, que tiendan a revertir a favor de la sociedad el valor generado por el desarrollo y el crecimiento urbano;
 
@@ -622,7 +628,9 @@ I. Inversión directa del Gobierno de la Ciudad de México;
 
 II. Ahorro de los beneficiarios; y
 
-III. Otros fondos e instrumentos financieros nacionales y/o internacionales que promuevan recursos para la vivienda, que garanticen la atención de los grupos vulnerables.
+> <small>(REFORMADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+III. Otros fondos e instrumentos financieros nacionales y/o internacionales que promuevan recursos para la vivienda, que garanticen la atención de los grupos de atención prioritaria.
 
 ###### Artículo 30.
 
@@ -832,9 +840,11 @@ VI. Para la autoconstrucción, autoproducción y autoadministración, se brindar
 
 VII. Para el financiamiento de vivienda para la población indígena, se deberán aplicar esquemas de crédito y subsidio específicos, de acuerdo a su situación económica o social.
 
+> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 57.
 
-El Gobierno de la Ciudad de México, a través de la Secretaría y el Instituto, aplicará, de manera igualitaria los Programas de Vivienda para jefas y jefes de hogar y población vulnerable, con el objeto de satisfacer sus necesidades de acceso a una vivienda.
+El Gobierno de la Ciudad de México, a través de la Secretaría y el Instituto, aplicará, de manera igualitaria los Programas de Vivienda para jefas y jefes de hogar y los grupos de atención prioritaria, con el objeto de satisfacer sus necesidades de acceso a una vivienda.
 
 ###### Artículo 58.
 
@@ -846,9 +856,11 @@ Se garantizará la aplicación de programas de vivienda para las y los trabajado
 
 ### CAPÍTULO I. VIVIENDA EN ARRENDAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 59.
 
-El Gobierno de la Ciudad de México, a través de la Secretaría y/o el Instituto, en el ámbito de sus atribuciones, deberá fomentar la vivienda en arrendamiento, mediante esquemas y programas dirigidos a la población vulnerable, que contengan como mínimo:
+El Gobierno de la Ciudad de México, a través de la Secretaría y/o el Instituto, en el ámbito de sus atribuciones, deberá fomentar la vivienda en arrendamiento, mediante esquemas y programas dirigidos a los grupos de atención prioritaria, que contengan como mínimo:
 
 I. Ámbito de Aplicación;
 
@@ -954,9 +966,11 @@ III. Se impulsaran los principios y valores cooperativistas.
 
 El Gobierno de la Ciudad de México deberá adoptar las acciones necesarias para garantizar el derecho a la vivienda; para lograr este propósito podrá valerse del financiamiento público, la aplicación de medidas de carácter fiscal, la promoción en la aplicación de recursos de los Organismos Nacionales de Vivienda, de los Órganos Políticos Administrativos y del Gobierno Federal, así como de la participación de empresas y entidades financieras del sector privado.
 
+> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 73.
 
-Las medidas que adopte y promueva el Gobierno de la Ciudad de México deberán orientarse a la ejecución de los Programas contemplados en esta Ley y tendrán como principio generar una redistribución del ingreso para garantizar prioritariamente la realización de este derecho de los sectores de más bajos ingresos y de la población vulnerable.
+Las medidas que adopte y promueva el Gobierno de la Ciudad de México deberán orientarse a la ejecución de los Programas contemplados en esta Ley y tendrán como principio generar una redistribución del ingreso para garantizar prioritariamente la realización de este derecho de los sectores de más bajos ingresos y de los grupos de atención prioritaria.
 
 ###### Artículo 74.
 
@@ -1088,7 +1102,9 @@ I. La ejecución de acciones estratégicas para la generación de una oferta opo
 
 II. Fomentar esquemas y programas que contemplen recursos provenientes de crédito, ahorro y subsidio, para la adquisición de suelo; y
 
-III. Reducir y abatir los procesos de ocupación irregular de áreas y predios, en especial en suelo de conservación, áreas naturales protegidas o con valor ambiental o que propicien situaciones de riesgo a la población, mediante la oferta de la tierra que atienda preferentemente, las necesidades de la población indígena, en situación de pobreza, vulnerable o que habite en situación de riesgo.
+> <small>(REFORMADA, G.O. 11 DE OCTUBRE DE 2019)</small>
+
+III. Reducir y abatir los procesos de ocupación irregular de áreas y predios, en especial en suelo de conservación, áreas naturales protegidas o con valor ambiental o que propicien situaciones de riesgo a la población, mediante la oferta de la tierra que atienda preferentemente, las necesidades de la población indígena, en situación de pobreza, vulnerabilidad, formen parte de los grupos de atención prioritaria o que habite en situación de riesgo.
 
 ###### Artículo 94.
 
@@ -1295,3 +1311,13 @@ Una vez que se haya promulgado la Constitución de la Ciudad de México, el órg
 Recinto de la Asamblea Legislativa del Distrito Federal, a los quince días del mes de diciembre del año dos mil dieciséis.- POR LA MESA DIRECTIVA.- DIP. ADRIÁN RUBALCAVA SUÁREZ, PRESIDENTE.- DIP. EVA ELOISA LESCAS HERNÁNDEZ, SECRETARIA.- DIP. NURY DELIA RUIZ OVANDO, SECRETARIA.- FIRMAS.
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los veintiocho días del mes de febrero del año dos mil diecisiete.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE DE JESÚS GUTIÉRREZ GUTIÉRREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, SALOMÓN CHERTORIVSKI WOLDENBERG.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ, FIRMA.- EL SECRETARIO DE MOVILIDAD, HÉCTOR SERRANO CORTES.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Túrnese a la Jefa de Gobierno de la Ciudad de México, para los efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
