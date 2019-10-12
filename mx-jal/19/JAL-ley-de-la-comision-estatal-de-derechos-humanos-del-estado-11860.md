@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-11860
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2018-09-25"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -441,11 +441,13 @@ Los consejeros ciudadanos, previo acuerdo del Consejo, podrán solicitar informa
 
 Los consejeros ciudadanos no podrán arrogarse la representación del Consejo Ciudadano, ni difundir por sí los asuntos que sean del conocimiento de sus órganos o proporcionar información sobre las investigaciones de las quejas que se realizan y que aún no concluyan, ni expresar su opinión públicamente respecto de su fundamento y pertinencia.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 20.
 
-Los consejeros ciudadanos sólo podrán ser privados de su cargo por causa prevista en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+Los consejeros ciudadanos sólo podrán ser privados de su cargo por causa prevista en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
 
 Los consejeros ciudadanos que por alguna causa no hayan terminado el período de su nombramiento, serán sustituidos por los consejeros ciudadanos suplentes, quienes deberán rendir protesta de ley ante el Consejo Ciudadano, y éste a su vez, dará el aviso correspondiente al Congreso del Estado.
 
@@ -461,7 +463,9 @@ Del Secretario Técnico del Consejo Ciudadano.
 
 El Secretario Técnico del Consejo es el servidor público encargado de auxiliar a los consejeros ciudadanos y al Presidente en el desempeño de sus funciones.
 
-Deberá contar con título a nivel licenciatura legalmente expedido, tener como mínimo treinta años de edad y reunir los demás requisitos que establezca el Consejo Ciudadano; dependerá únicamente de los consejeros, quedando sujeto a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y al reglamento interno de la Comisión.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+Deberá contar con título a nivel licenciatura legalmente expedido, tener como mínimo treinta años de edad y reunir los demás requisitos que establezca el Consejo Ciudadano; dependerá únicamente de los consejeros, quedando sujeto a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y al reglamento interno de la Comisión.
 
 La designación del Secretario Técnico será realizada por el Consejo Ciudadano de una terna propuesta por el Presidente de la Comisión, durará en su cargo cinco años, podrá ser ratificado cuantas veces se crea conveniente y tendrá las siguientes atribuciones:
 
@@ -567,7 +571,9 @@ Asimismo, no podrá ejercer su profesión en forma privada, excepto en causa pro
 
 El Presidente de la Comisión no estará subordinado con motivo de sus funciones, a institución o autoridad alguna y desempeñará su cargo con plena autonomía.
 
-Sólo podrá ser privado de su cargo por causa justificada prevista en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+Sólo podrá ser privado de su cargo por causa justificada prevista en la Constitución Política del Estado y en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 En caso de falta temporal, el Presidente será substituido por el Primer Visitador General, en los términos que para tal efecto prevea el Reglamento Interior. Cuando la ausencia fuere definitiva, lo suplirá dicho Visitador, en tanto se designa al nuevo titular en un plazo no mayor de treinta días y conforme al presente ordenamiento.
 
@@ -591,9 +597,13 @@ VI. Enviar al Congreso del Estado, durante el mes de febrero, un informe anual d
 
 VII. Presentar un informe mensual ante el Consejo Ciudadano de la Comisión, conforme a los lineamientos que se establezcan en el reglamento interior;
 
-VIII. Solicitar al Congreso del Estado por conducto de la Comisión Legislativa de Derechos Humanos la revisión de la legislación cuando a su juicio algún ordenamiento legal contravenga disposiciones relativas a derechos humanos;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-IX. Remitir al Congreso del Estado, al final de cada ejercicio presupuestal, un informe que contenga los estados financieros y demás datos que muestren el registro de las operaciones efectuadas en el libre ejercicio del presupuesto de egresos de la Comisión; debiendo poner a su disposición la documentación que compruebe y justifique dichos movimientos financieros, proporcionando al órgano técnico de inspección y vigilancia del Congreso del Estado, la información que le solicite en el ejercicio de sus funciones;
+VIII. Solicitar al Congreso del Estado por conducto de la Comisión Legislativa de Derechos Humanos y Pueblos Originarios la revisión de la legislación cuando a su juicio algún ordenamiento legal contravenga disposiciones relativas a derechos humanos;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+IX. Remitir al Congreso del Estado, al final de cada ejercicio presupuestal, un informe que contenga los estados financieros y demás datos que muestren el registro de las operaciones efectuadas en el libre ejercicio del presupuesto de egresos de la Comisión; debiendo poner a su disposición la documentación que compruebe y justifique dichos movimientos financieros, proporcionando al órgano técnico de Vigilancia y Sistema Anticorrupción del Congreso del Estado, la información que le solicite en el ejercicio de sus funciones;
 
 X. Enviar a cualquier poder del Estado, dependencia u organismo descentralizado de la administración pública estatal o municipal, si así lo considera conveniente, un informe anual especial sobre el comportamiento de sus instituciones en cuanto al respeto a los derechos humanos, haciendo las observaciones y recomendaciones que incidan en la observancia de los derechos humanos;
 
@@ -605,13 +615,17 @@ XII. Elaborar con la aprobación del Consejo Ciudadano, el proyecto del Presupue
 
 XIII. Dictar las disposiciones que estime convenientes y establecer la creación de las áreas que le auxilien en su trabajo y hagan eficiente la función de la Comisión;
 
-XIV. Nombrar y remover libremente al Secretario Ejecutivo, visitadores y demás personal, con excepción del Secretario Técnico del Consejo, en los términos de la Ley de los Servidores Públicos del Estado (sic) Jalisco y sus Municipios, y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XIV. Nombrar y remover libremente al Secretario Ejecutivo, visitadores y demás personal, con excepción del Secretario Técnico del Consejo, en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, y demás disposiciones legales aplicables;
 
 XV. Otorgar licencias y permisos al personal de la Comisión en los términos del reglamento interior;
 
 XVI. Distribuir y delegar funciones a los visitadores y demás personal;
 
-XVII. Instaurar a través de la Contraloría de la Comisión, el procedimiento administrativo interno, cuando alguno de sus servidores públicos de la Institución incurra en alguna falta, e imponer las sanciones que procedan, de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XVII. Instaurar a través de la Contraloría de la Comisión, el procedimiento administrativo interno, cuando alguno de sus servidores públicos de la Institución incurra en alguna falta, e imponer las sanciones que procedan, de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco;
 
 XVIII. Proponer al Consejo Ciudadano el proyecto de reglamento interior, los manuales de organización de la Comisión, de procedimientos y de servicios al público, que deberán actualizarse cada vez que así se considere necesario para el buen desempeño de la institución;
 
@@ -1323,9 +1337,11 @@ En su caso, podrá solicitar a la autoridad señalada como responsable, un infor
 
 El desacato a las resoluciones que emitan los visitadores, el Director de Quejas, Orientación y Seguimiento y los secretarios de guardia con relación a este recurso, así como los informes falsos o incompletos que rindan las autoridades señaladas como responsables, se sancionará conforme las leyes en la materia.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 84.
 
-Proceden los recursos de queja e impugnación, en los casos y términos establecidos en la Ley de la Comisión Nacional de Derechos Humanos.
+Proceden los recursos de queja e impugnación, en los casos y términos establecidos en la Ley de la Comisión Nacional de los Derechos Humanos.
 
 ## Título Quinto
 
@@ -1335,11 +1351,11 @@ De las autoridades y Servidores Públicos.
 
 De las obligaciones y colaboración de las autoridades y servidores públicos con la Comisión.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 85.
 
-Todas las autoridades, dependencias y entidades de los poderes estatales y gobiernos municipales deberán proporcionar veraz y oportunamente, la información y documentación que solicite la Comisión. El incumplimiento de esta obligación faculta a ésta para solicitar a los superiores jerárquicos o a la Contraloría del Estado, fincar la responsabilidad a que hubiere lugar, de conformidad con las disposiciones contenidas en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos.
+Todas las autoridades, dependencias y entidades de los poderes estatales y gobiernos municipales deberán proporcionar veraz y oportunamente, la información y documentación que solicite la Comisión. El incumplimiento de esta obligación faculta a ésta para solicitar a los superiores jerárquicos o a la Contraloría del Estado, fincar la responsabilidad a que hubiere lugar, de conformidad con las disposiciones contenidas en la Constitución Política del Estado y en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ###### Artículo 86.
 
@@ -1512,3 +1528,9 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26929/LXI/18 QUE REFORMA LOS ARTÍCULOS 45 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, 25 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO Y 7° DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27364/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 20, 21, 27, 28, 84 Y 85 DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE JALISCO”.]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
