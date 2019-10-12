@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-instituto-de-la-infraestructura-fisica-96294"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2019-07-27"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el sábado 12 de octubre de 2013.
 
@@ -257,13 +257,15 @@ XII. Las demás que le señale esta ley, su reglamento y la Ley Orgánica del Po
 
 ### Capítulo IV. Del Órgano Interno de Control y Vigilancia
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 15.
 
-El Instituto contará con un Órgano Interno de Control y Vigilancia integrado por un Comisario Público propietario y un suplente, designados ambos por la Contraloría del Estado de Jalisco.
+El Instituto contará con un Órgano Interno de Control integrado por un Contralor designado por la Contraloría del Estado de Jalisco.
 
-El titular del Órgano Interno de Control y Vigilancia ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado, la Ley de Responsabilidades de los Servidores Públicos para el Estado de Jalisco y sus Municipios, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones estatales aplicables.
+El titular del Órgano Interno de Control ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado, la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones estatales aplicables.
 
-El Órgano Interno de Control y Vigilancia depende administrativamente del Director General, pero gozará de autonomía en el ejercicio de sus atribuciones.
+El Órgano Interno de Control depende administrativamente del Director General, pero gozará de autonomía en el ejercicio de sus atribuciones.
 
 ###### Artículo 16.
 
@@ -394,3 +396,9 @@ P.O. 27 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27314/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA; LA LEY DE ATENCIÓN A LA JUVENTUD; LEY DE BENEMÉRITOS; LEY DE BIBLIOTECAS; LEY DE FOMENTO A LA CULTURA; LEY DE CULTURA FÍSICA Y DEPORTE, TODAS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado· de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27376/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 15, DE LA LEY QUE CREA EL INSTITUTO DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE JALISCO”.]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
