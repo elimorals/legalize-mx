@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-organismo-publico-descentralizado-del-poder-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-24"
-last_updated: "2013-12-24"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Ley publicada en la sección X del Periódico Oficial del Estado de Jalisco, el martes 24 de diciembre de 2013.
 
@@ -179,7 +179,9 @@ f) Un representante de la Secretaría de Infraestructura y Obra Pública;
 
 g) Dos representantes de la Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-h) Dos representantes de la Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+h) Dos representantes de la Secretaría de Administración así como un representante de la Secretaría de la Hacienda Pública;
 
 i) Dos representantes de la Comisión Estatal del Agua;
 
@@ -337,7 +339,7 @@ XXVI. Determinar la cantidad líquida de los adeudos que los usuarios tengan con
 
 XXVII. Ejercer directamente o a través de sus unidades administrativas, en los términos de la legislación que regula la materia, en nombre y representación del organismo operador, la facultad económica-coactiva, así como aplicar sanciones de conformidad con el marco jurídico respectivo, a que se hagan acreedoras las personas físicas y jurídicas por la ilícita utilización de los servicios que preste en los términos señalados en las leyes y reglamentos correspondientes;
 
-XXVIII. Someter a la consideración de la junta de Gobierno las bases para la contratación de créditos financieros y suscribir los contratos, títulos de crédito y demás documentos que se requieran, con la firma mancomunada del responsable del área de finanzas del sistema;
+XXVIII. Someter a la consideración de la Junta de Gobierno las bases para la contratación de créditos financieros y suscribir los contratos, títulos de crédito y demás documentos que se requieran, con la firma mancomunada del responsable del área de finanzas del sistema;
 
 XXIX. Declarar, de oficio o a petición de parte, la prescripción de los adeudos de los usuarios morosos, en los términos de las leyes de la materia;
 
@@ -535,7 +537,7 @@ T R A N S I T O R I O S
 
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
-SEGUNDO. Se deroga el decreto número 19482, publicado en el periódico oficial El Estado de Jalisco, el 11 de junio de 2002, Sección II, que contiene la Ley que otorga el carácter de Organismo Fiscal Autónomo al Organismo Público Descentralizado Intermunicipal, denominado Sistema Intermunicipal para los Servicios de Agua Potable y Alcantarillado al Organismo Público Descentralizado Intermunicipal, denominado Sistema intermunicipal para los Servicios de Agua Potable y Alcantarillado, (sic) por la cual le otorgó el carácter de Organismo Fiscal Autónomo; asimismo se derogan todos los decretos y demás disposiciones que se opongan a los términos de la presente ley.
+SEGUNDO. Se deroga el decreto número 19482, publicado en el periódico oficial El Estado de Jalisco, el 11 de junio de 2002, Sección II, que contiene la Ley que otorga el carácter de Organismo Fiscal Autónomo al Organismo Público Descentralizado Intermunicipal, denominado Sistema Intermunicipal para los Servicios de Agua Potable y Alcantarillado al Organismo Público Descentralizado Intermunicipal, denominado Sistema Intermunicipal para los Servicios de Agua Potable y Alcantarillado, (sic) por la cual le otorgó el carácter de Organismo Fiscal Autónomo; asimismo se derogan todos los decretos y demás disposiciones que se opongan a los términos de la presente ley.
 
 Lo anterior no afectará la exigibilidad de los adeudos que por la prestación de los servicios de agua potable, alcantarillado o saneamiento se hubieran determinado o determinen a cargo de usuarios de dichos servicios en el ámbito territorial correspondiente a la zona metropolitana de la capital del Estado, por lo que el nuevo organismo Sistema intermunicipal de los Servicios de Agua Potable y Alcantarillado, podrá exigir el pago de los mismos y ejercer las atribuciones económico coactivas de referencia.
 
@@ -555,7 +557,7 @@ Los derechos laborales individuales y colectivos de los trabajadores sindicaliza
 
 SÉPTIMO. El titular del Poder Ejecutivo del Estado contará con treinta días naturales contados a partir de la fecha en que entre en vigor el presente decreto, para designar e instalar formalmente la Junta de Gobierno del Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado.
 
-La comisión tarifaria participarán en su integración, entre otros, los representantes de los municipios que constituyan el organismo operador además de los representantes que designen las instituciones o dependencias, cámaras, asociaciones o colegios que de manera enunciativa y no limitativa decida la junta de Gobierno, dentro de ellos: las cámaras, asociaciones o colegios mayoritarios que realicen actividades profesionales o económicas en el área metropolitana representativos de: comerciantes, industriales especializados, empresas de consultoría, propietarios urbanos, industriales promotores de vivienda, arquitectos, ingenieros civiles, asociaciones representativas de habitantes o vecinos del área metropolitana de Guadalajara.
+La comisión tarifaria participarán en su integración, entre otros, los representantes de los municipios que constituyan el organismo operador además de los representantes que designen las instituciones o dependencias, cámaras, asociaciones o colegios que de manera enunciativa y no limitativa decida la Junta de Gobierno, dentro de ellos: las cámaras, asociaciones o colegios mayoritarios que realicen actividades profesionales o económicas en el área metropolitana representativos de: comerciantes, industriales especializados, empresas de consultoría, propietarios urbanos, industriales promotores de vivienda, arquitectos, ingenieros civiles, asociaciones representativas de habitantes o vecinos del área metropolitana de Guadalajara.
 
 OCTAVO. El Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado contará con un plazo de trescientos sesenta y cinco días contados a partir de la fecha en que entre en vigor el presente decreto, para que realice las gestiones y actos jurídicos necesarios para llevar a cabo la suscripción de los contratos de prestación de servicios de adhesión, con los usuarios de los servicios que éste prestará.
 
@@ -606,3 +608,11 @@ El Secretario General de Gobierno
 ARTURO ZAMORA JIMÉNEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27369/LXII/19 MEDIANTE EL CUAL SE REFORMA EL INCISO H) DE LA FRACCIÓN III DEL ARTÍCULO 6°, DE LA LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL PODER EJECUTIVO DENOMINADO SISTEMA INTERMUNICIPAL DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
