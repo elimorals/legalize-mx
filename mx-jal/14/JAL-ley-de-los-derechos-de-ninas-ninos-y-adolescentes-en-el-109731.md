@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2019-05-18"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -243,9 +243,11 @@ Las autoridades deberán considerarles para el diseño y ejecución de las polí
 
 Los oficiales del Registro Civil, la Procuraduría Social y la Procuraduría de Protección de Niñas, Niños y Adolescentes, deberán coordinarse para la preservación y protección de los derechos de identidad de niñas, niños y adolescentes, conforme a la legislación estatal y general aplicable.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 15.
 
-No podrá condicionarse el acceso a los derechos de educación y salud por la falta de acta de nacimiento. Las instituciones del sistema educativo estatal y las entidades y personas del sistema estatal de salud, cuando detecten a alguna persona sin registro de nacimiento darán aviso y canalizarán a la persona o a sus progenitores o tutores, ante las autoridades competentes para la tramitación del registro, en los términos de la Ley del Registro Civil. Las instituciones del sistema educativo y entidades del sistema de salud deberán dar seguimiento e impulsar la tramitación del registro hasta su conclusión.
+No podrá condicionarse el acceso a los derechos de educación y salud por la falta de acta de nacimiento. Las instituciones del sistema educativo estatal y las entidades y personas del sistema estatal de salud, cuando detecten a alguna persona sin registro de nacimiento darán aviso y canalizarán a la persona o a sus progenitores o tutores, ante las autoridades competentes para la tramitación del registro, en los términos de la Ley del Registro Civil del Estado de Jalisco. Las instituciones del sistema educativo y entidades del sistema de salud deberán dar seguimiento e impulsar la tramitación del registro hasta su conclusión.
 
 ### CAPÍTULO V. Del Derecho a Desarrollarse en un Ambiente Familiar Sano y a la Unidad Familiar
 
@@ -453,9 +455,11 @@ XII. Las demás contenidas en la Ley General y la legislación en materia de sal
 
 Las niñas, los niños y adolescentes deberán ser atendidos por personal capacitado y deberán recibir información veraz y oportuna, relativa a su enfermedad, en los términos necesarios y comprensibles, acorde a su edad, desarrollo evolutivo cognoscitivo y madurez, acompañados por quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 39.
 
-En materia de niñas, niños y adolescentes con discapacidad, la Secretaría de Salud del Estado, a través del sistema estatal de salud, deberá:
+En materia de niñas, niños y adolescentes con discapacidad, la Secretaría de Salud, a través del sistema estatal de salud, deberá:
 
 I. Generar acciones para la detección temprana de discapacidades y asegurar los mayores niveles de atención y rehabilitación, en los términos de la legislación en la materia;
 
@@ -1087,7 +1091,9 @@ XIV. Ser coadyuvante de la Procuraduría Federal de Protección de Niñas, Niño
 
 XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
 
-XVI. Solicitar el apoyo, coordinación y coadyuvancia de la Fiscalía General del Estado, para la realización de las diligencias necesarias para salvaguardar los derechos e interés superior de las niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE 2019)</small>
+
+XVI. Solicitar el apoyo, coordinación y coadyuvancia de la Fiscalía Estatal, para la realización de las diligencias necesarias para salvaguardar los derechos e interés superior de las niñas, niños y adolescentes;
 
 XVII. Dictar ante cualquier situación, inclusive aquella donde se tenga retenida o privada de su libertad a una niña, niño o adolescente, las medidas necesarias para la protección integral, de asistencia social y, en su caso, restitución de sus derechos y garantizar que no sean objeto de discriminación;
 
@@ -1335,23 +1341,35 @@ II. La Vicepresidencia;
 
 III. La Secretaría Ejecutiva, quien sólo participará con derecho a voz;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE OCTUBRE 2019)</small>
+
 IV. Los titulares o directores generales de las siguientes dependencias y organismos, quienes podrán designar un suplente:
 
 a) Secretaría General de Gobierno;
 
-b) Secretaría de Desarrollo e Integración Social;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE 2019)</small>
 
-c) Fiscalía General;
+b) Secretaría de Igualdad Sustantiva entre Mujeres y Hombres;
 
-d) Secretaría de Salud Jalisco;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE 2019)</small>
 
-e) Secretaría de Educación Jalisco;
+c) Fiscalía Estatal;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE 2019)</small>
+
+d) Secretaría de Salud;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE 2019)</small>
+
+e) Secretaría de Educación;
 
 f) Secretaría de Trabajo y Previsión Social;
 
 g) Secretaría de Cultura;
 
-h) Secretaría de Planeación, Administración y Finanzas; y
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE 2019)</small>
+
+h) Secretaría de Planeación y Participación Ciudadana; y
 
 i) Procuraduría Social;
 
@@ -1764,3 +1782,9 @@ P.O. 18 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27282/LXII/19 QUE REFORMA EL ARTÍCULO 25 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27365/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 15, 39, 78 Y 95 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
