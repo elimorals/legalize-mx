@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transito-y-de-la-seguridad-vial-del-municipio-899
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-27"
-last_updated: "2019-03-02"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Reglamento publicado en el Suplemento No. 2 al Número 52 del Periódico Oficial del Estado de Colima, el sábado 27 de octubre de 2012.
 
@@ -57,81 +57,157 @@ Este reglamento tiene como objetivo primordial establecer las normas de tránsit
 
 Para efectos del presente Reglamento se entiende por:
 
-Municipio.- El municipio de Comala;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Ayuntamiento.- El Ayuntamiento de Comala;
+1. Alcoholímetro.- Sistema electrónico que cuantifica la presencia de la sustancia etílica en el aliento del sujeto analizado, siendo este valor obtenido del intercambio de bióxido de carbono por oxigeno durante el proceso pulmonar de transferencia en la sangre y determina el valor de porcentaje de alcohol en la muestra obtenida;
 
-Estado.- El Estado de Colima;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Ley.- La Ley de Transporte y de Seguridad Vial para el Estado de Colima;
+2. Antidoping.- Prueba química que se realiza para detectar la presencia de drogas en el conductor;
 
-Reglamento Estatal.- El Reglamento de la Ley del Transporte y de la Seguridad Vial para el Estado de Colima.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Reglamento.- El presente Reglamento de Tránsito y de la Seguridad Vial del Municipio de Comala;
+3. Ayuntamiento.- El H. Ayuntamiento de Comala;
 
-Director General.- El Director General de Seguridad Pública y Policía Vial del Municipio de Comala;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Director.- El Director Operativo de la Policía Vial del Municipio de Comala;
+4. Cabildo.- El H. Cabildo del Ayuntamiento de Comala;
 
-Corporación.- Dirección General de Seguridad Pública y Policía Vial del Municipio de Comala;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Policía Vial.- El Agente de Tránsito y Vialidad de la Dirección General de Seguridad Pública y Policía Vial;
+5. Cámara de video de vigilancia vial.- El dispositivo electrónico que tiene la capacidad de captar y archivar imágenes, que son evidencias objetivas de hechos de tránsito o de las infracciones que el usuario de las vialidades ejecuta en el ámbito del presente reglamento;
 
-Perito de Hechos de Tránsito Terrestre.- Es el Policía Vial Municipal, experto en Hechos de Tránsito Terrestre, que toma conocimiento de los mismos, que se desarrollen dentro de la jurisdicción municipal de Comala;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Conductor.- Toda persona que maniobre o ponga en movimiento un vehículo de motor o de propulsión humana y/o animal en la vía pública;
+6. Cámara Fotográfica.- Instrumento electrónico que captura imágenes, reproduciéndolas en gráficas de colores o en blanco y negro, para conservar y archivar las imágenes obtenidas, con un fin de aplicación legal de indicios o evidencias en un hecho de tránsito o infracción vial;
 
-Peatón.- Toda persona que camine o transite desplazándose por su esfuerzo físico en las vías públicas del municipio;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Persona con Discapacidad: Persona que presenta una alteración funcional física, mental o sensorial que dificulte su desplazamiento;
+7. Centro de Monitoreo.- Es el área Central Operativa de vigilancia, donde se almacena y recupera la información obtenida a través de la red, donde las cámaras fotográficas y de video mandan su información, para que el personal de policía vial, despache y alerte a los agentes operativos de las infracciones que se cometan, para que realicen las acciones correctivas, preventivas y la aplicación de sanciones viales, así como de la prestación de servicios de Seguridad Vial que demande de la población;
 
-Manejo precavido.- Conducir con precaución, previendo las acciones y maniobras de otros conductores o situaciones adversas del entorno vial;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Vehículo Terrestre de Uso Comercial.- Todo medio de transporte de propulsión mecánica, eléctrica, humana o de tracción animal, (No se consideran los juguetes infantiles);
+8. Conductor.- Toda persona que maniobre o ponga en movimiento un vehículo de motor o de propulsión humana y/o animal en la vía pública;
 
-Vía pública.- El espacio público destinado al tránsito de vehículos y peatones;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Derecho de Vía: Es el área que flanquea a los caminos o carreteras perfectamente delimitados, que se destinan como vía pública para ampliaciones o apertura de vías laterales;
+9. Corporación.- Dirección General de Seguridad Pública y Policía Vial del Municipio de Comala;
 
-Semáforo.- Sistema Electro Mecánico que efectúa a través de su Unidad Procesadora de Control, la correcta aplicación de datos almacenados, que refieren los tiempos de los ciclos de sus unidades de luz, para la administración del control de señales de luz o visuales que ordena el flujo vial en una o varias intersecciones;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Señalamientos Viales.- Es toda aquella información que se obtiene a través de la vista o el oído, y es producido por señales corporales, auditiva, gráfica o de luz;
+10. dB (A).- Nivel Sonoro, es el nivel de presión acústica sopesada en ponderación o sea, el nivel de presión acústica ponderado por una curva. Se mide dB, en ponderación A; es decir, dB (A);
 
-Dispositivos móviles.- Es el dispositivo informático utilizado para almacenar y consultar de manera remota la información que requiera el servicio de Tránsito y Vialidad, así mismo podrá recibir pagos de multas viales y entregar comprobantes por este concepto;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Alcoholímetro.- Sistema electrónico que cuantifica la presencia de la sustancia etílica en el aliento del sujeto analizado, siendo este valor obtenido del intercambio de bióxido de carbono por oxigeno durante el proceso pulmonar de transferencia en la sangre y determina el valor de porcentaje de alcohol en la muestra obtenida;
+11. Derecho de Vía.- Es el área que flanquea a los caminos o carreteras perfectamente delimitados, que se destinan como vía pública para ampliaciones o apertura de vías laterales;
 
-Estado de ebriedad.- Estado de intoxicación etílica del conductor, ciclista o peatón, producida por la ingesta de bebidas embriagantes, por lo que la dosis consumida afecte el control psicomotriz o la percepción sensorial del individuo, por lo que su corporeidad tendrá en proceso la sustancia suficiente que se catalogue como primero, segundo o tercer grado, o aliento alcohólico cuando no rebase los términos a este ordenamiento;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Antidoping.- Prueba química que se realiza para detectar la presencia de drogas en el conductor;
+12. Director General.- El Director General de Seguridad Pública y Policía Vial del Municipio de Comala;
 
-Dopado.- Persona a la cual se le ha detectado mediante examen antidoping como positivo en el consumo de drogas por lo que presenta una alteración anímica, emocional y física que disminuye la capacidad de reacción y entorpece las habilidades de las personas, según las capacidades óptimas para la conducción de vehículos;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Hechos de Tránsito Terrestre.- Es toda incidencia donde uno o más vehículos se colisionen, se vuelquen o arrollen a peatones o ciclistas, y derivado de esto, resulten daños, lesiones o muerte;
+13. Director.- El Director Operativo de la Policía Vial del Municipio de Comala;
 
-Sonómetro.- Es el aparato normalizado que comprende un micrófono, un amplificador, redes ponderables y un indicador de nivel, que se utiliza para la medida de niveles de ruido;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-dB (A).- Nivel Sonoro, es el nivel de presión acústica sopesada en ponderación o sea, el nivel de presión acústica ponderado por una curva. Se mide dB, en ponderación A; es decir, dB (A);
+14. Dispositivos móviles.- Es el dispositivo informático utilizado para almacenar y consultar de manera remota la información que requiera el servicio de Tránsito y Vialidad, así mismo podrá recibir pagos de multas viales y entregar comprobantes por este concepto;
 
-Radar.- Sistema electrónico que funciona en base a una emisión ultrasónica, dirigida a un objetivo en movimiento, que a través de la lectura de la refracción de la onda ultrasónica, el radar define la velocidad a la que se desplaza el objetivo verificado;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Cámara Fotográfica.- Instrumento electrónico que captura imágenes, reproduciéndolas en gráficas de colores o en blanco y negro, para conservar y archivar las imágenes obtenidas, con un fin de aplicación legal de indicios o evidencias en un hecho de tránsito o infracción vial;
+15. Dopado.- Persona a la cual se le ha detectado mediante examen antidoping como positivo en el consumo de drogas por lo que presenta una alteración anímica, emocional y física que disminuye la capacidad de reacción y entorpece las habilidades de las personas, según las capacidades óptimas para la conducción de vehículos;
 
-Cámara de video de vigilancia vial.- El dispositivo electrónico que tiene la capacidad de captar y archivar imágenes, que son evidencias objetivas de hechos de tránsito o de las infracciones que el usuario de las vialidades ejecuta en el ámbito del presente reglamento;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Servidor de almacenamiento y consulta de videos.- El dispositivo, que recibe la trasmisión de video de las cámaras de video vigilancia vial a través de la red inalámbrica municipal, la almacena la organiza y la pone a disposición para consulta;
+16. Estado de ebriedad.- Estado de intoxicación etílica del conductor, ciclista o peatón, producida por la ingesta de bebidas embriagantes, por lo que la dosis consumida afecte el control psicomotriz o la percepción sensorial del individuo, por lo que su corporeidad tendrá en proceso la sustancia suficiente que se catalogue como primero, segundo o tercer grado, o aliento alcohólico cuando no rebase los términos a este ordenamiento;
 
-Red inalámbrica municipal.- Es el medio de trasmisión que transporta la señal de la información que se traslada de un punto a otro y al servidor central y al área de monitoreo de video vigilancia y de administración de datos;
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Centro de Monitoreo.- Es el área Central Operativa de vigilancia, donde se almacena y recupera la información obtenida a través de la red, donde las cámaras fotográficas y de video mandan su información, para que el personal de policía vial, despache y alerte a los agentes operativos de las infracciones que se cometan, para que realicen las acciones correctivas, preventivas y la aplicación de sanciones viales, así como de la prestación de servicios de Seguridad Vial que demande de la población;
+17. Estado.- El Estado de Colima;
 
-Gps.- Sistema de localización que mediante el posicionamiento global, permite ubicar mediante coordenadas un sitio específico en la geografía del Municipio; y
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-Salario Mínimo.- (DEROGADO, P.O. 29 DE JULIO DE 2017)
+18. Gps.- Sistema de localización que mediante el posicionamiento global, permite ubicar mediante coordenadas un sitio específico en la geografía del Municipio;
 
-> <small>(ADICIONADO, P.O. 29 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-UMA.- La unidad de medida y actualización que sustituye al salario mínimo como escala para el pago de multas y otras obligaciones.
+19. Hechos de Tránsito Terrestre.- Es toda incidencia donde uno o más vehículos se colisionen, se vuelquen o arrollen a peatones o ciclistas, y derivado de esto, resulten daños, lesiones o muerte;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+20. Ley.- La Ley de Movilidad Sustentable para el Estado de Colima;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+21. Manejo precavido.- Conducir con precaución, previendo las acciones y maniobras de otros conductores o situaciones adversas del entorno vial;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+22. Municipio.- El municipio de Comala;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+23. Peatón.- Toda persona que camine o transite desplazándose por su esfuerzo físico en las vías públicas del Municipio;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+24. Perito de Hechos de Tránsito Terrestre.- Es el Policía Vial Municipal, experto en Hechos de Tránsito Terrestre, que toma conocimiento de los mismos, que se desarrollen dentro de la jurisdicción municipal de Comala;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+25. Persona con Discapacidad: Persona que presenta una alteración funcional física, mental o sensorial que dificulte su desplazamiento;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+26. Policía Vial.- El Agente de Tránsito y Vialidad de la Dirección General de Seguridad Pública y Policía Vial;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+27. Radar.- Sistema electrónico que funciona en base a una emisión ultrasónica, dirigida a un objetivo en movimiento, que a través de la lectura de la refracción de la onda ultrasónica, el radar define la velocidad a la que se desplaza el objetivo verificado;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+28. Red inalámbrica municipal.- Es el medio de trasmisión que transporta la señal de la información que se traslada de un punto a otro y al servidor central y al área de monitoreo de video vigilancia y de administración de datos;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+29. Reglamento Estatal.- El Reglamento de la Ley de Movilidad Sustentable para el Estado de Colima.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+30. Reglamento.- El presente Reglamento de Tránsito y de la Seguridad Vial del Municipio de Comala;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+31. Secretario.- El Secretario General del H. Ayuntamiento de Comala;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+32. Semáforo.- Sistema Electro Mecánico que efectúa a través de su Unidad Procesadora de Control, la correcta aplicación de datos almacenados, que refieren los tiempos de los ciclos de sus unidades de luz, para la administración del control de señales de luz o visuales que ordena el flujo vial en una o varias intersecciones;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+33. Señalamientos Viales.- Es toda aquella información que se obtiene a través de la vista o el oído, y es producido por señales corporales, auditiva, gráfica o de luz;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+34. Servidor de almacenamiento y consulta de videos.- El dispositivo, que recibe la trasmisión de video de las cámaras de video vigilancia vial a través de la red inalámbrica municipal, la almacena la organiza y la pone a disposición para consulta;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+35. Sonómetro.- Es el aparato normalizado que comprende un micrófono, un amplificador, redes ponderables y un indicador de nivel, que se utiliza para la medida de niveles de ruido;
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+36. Unidad de Medida y Actualización (UMA).- La unidad de medida y actualización que sustituye al salario mínimo como escala para el pago de multas y otras obligaciones.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+37. Vehículo Terrestre de Uso Comercial.- Todo medio de transporte de propulsión mecánica, eléctrica, humana o de tracción animal, (No se consideran los juguetes infantiles); y
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+38. Vía pública.- El espacio público destinado al tránsito de vehículos y peatones.
 
 ###### ARTÍCULO 4.
 
@@ -395,6 +471,24 @@ Las placas de circulación expedidas en otras entidades federativas que porten l
 
 La falta de cumplimiento de las disposiciones señaladas en el presente artículo será motivo de infracción vial.
 
+(NOTA: EL 25 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 342/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 18 Bis.
+
+Para que se autorice la circulación de vehículos para la prestación del servicio de transporte alternativo, deberá cumplir cada uno con los requisitos siguientes:
+
+I. Autorización por medio de acuerdo del Cabildo;
+
+II. Contar con licencia comercial de funcionamiento expedida por el Ayuntamiento;
+
+III. Tener a la vista en el medio de transporte alternativo, el tarjetón distintivo validado por el Secretario y el Director General;
+
+IV. Por lo que hace a la circulación con todos los requisitos que marca el artículo 18 y demás disposiciones aplicables del presente Reglamento; y
+
+V. Cumplir con todas las condiciones de funcionamiento que en su momento determine el Ayuntamiento.
+
 ###### ARTÍCULO 19.
 
 Los vehículos de carga pesada con capacidad de tres toneladas o más, deberán sujetarse a las restricciones de circulación y estacionamiento que dentro del perímetro urbano establezca la señalización de las áreas que la Dirección General determine.
@@ -611,9 +705,13 @@ Los vehículos no deberán llevar más pasajeros de los que indique la tarjeta d
 
 Los vehículos de seguridad y emergencia, podrán estacionarse en la vía pública solo cuando se hallen prestando ayuda o desarrollando algún servicio, que así lo requiera, sin necesidad de sujetarse a las disposiciones de este reglamento siempre que se garantice la seguridad de las personas y sus bienes, estableciendo la coordinación del flujo vial.
 
+(NOTA: EL 25 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 342/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 42.
 
-Todo vehículo de transporte público de pasajeros deberá contar con seguro de viajeros y de daños a terceros, la inobservancia a tal disposición conllevará el aseguramiento del vehículo y en caso de participar en un hecho de tránsito, se ajustará a lo dispuesto al artículo 70 del Código Penal vigente en el Estado de Colima.
+Todo vehículo de transporte público de pasajeros, así como los vehículos para la prestación del servicio de transporte alternativo autorizados por el H. Ayuntamiento, deberán contar con seguro de viajeros y de daños a terceros, la inobservancia a tal disposición conllevará el aseguramiento del vehículo y en caso de participar en un hecho de tránsito, se ajustará a lo dispuesto al artículo 76 del Código Penal vigente en el Estado de Colima.
 
 ###### ARTÍCULO 43.
 
@@ -1945,13 +2043,17 @@ Dará motivo a la detención del conductor y sus pasajeros o de terceras persona
 
 En el caso que el conductor tripule un vehículo sin placas y sin tarjeta de circulación, o no porte licencia de conducir, se le asegurará el vehículo, enviandolo al encierro vehicular hasta que regularice su proceso registral de obtención de placas para circulación y en su caso la licencia correspondiente.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 2 DE MARZO DE 2019, PÁGINA DE LA 4 A LA 7.]</small>
+(NOTA: EL 25 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 342/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+PARA EL CASO DE VEHÍCULOS PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE ALTERNATIVO QUE NO CUMPLA CON LOS REQUISITOS DEL ARTÍCULO 18 BIS DEL PRESENTE REGLAMENTO SE PROCEDERÁ A ASEGURAR EL VEHÍCULO ENVIÁNDOLO AL ENCIERRO VEHICULAR HASTA QUE REGULARICE SU AUTORIZACIÓN POR ACUERDO DEL H. CABILDO, SU OBTENCIÓN DE LICENCIA, TARJETÓN DISTINTIVO O CUALQUIER REQUISITO FALTANTE.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
 ###### ARTÍCULO 241.
 
-Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en unidades de medida y actualización (UMA), las violaciones a este reglamento, a través de acto administrativo de expedición de Boleta de Infracción, en las cuales se establecerán los códigos que a continuación se enumeran:
+Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en unidades de medida y actualización (UMA), las violaciones a este reglamento, a través de acto administrativo de expedición de Boleta de Infracción, en las cuales se establecerán los códigos que se enumeran en este artículo, cuando el infractor cometa alguna de las acciones u omisiones siguientes:
 
 001.- Abandonar, no brindar o solicitar auxilió para personas lesionadas o muertas cuando participe en un Hecho de Tránsito;
 
@@ -2415,13 +2517,19 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 136.- Circular vehículo que no cuente con la Constancia de Inscripción al Registro Público Vehicular;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-137.- Pintar el machuelo de la acera o banqueta con color amarillo tráfico, para disimular que esta área es exclusiva o privada; y
+137.- Pintar el machuelo de la acera o banqueta con color amarillo tráfico, para disimular que esta área es exclusiva o privada;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-138.- Exceder el número máximo de personas, que un vehículo de transporte público de pasajeros pueda transportar y para lo cual fue diseñado según marque en la tarjeta de circulación.
+138.- Exceder el número máximo de personas, que un vehículo de transporte público de pasajeros pueda transportar y para lo cual fue diseñado según marque en la tarjeta de circulación; y
+
+(NOTA: EL 25 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 342/2019, DECLARÓ LA INVALIDEZ DEL CÓDIGO 139 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+139.- PARA EL CASO DE VEHÍCULOS PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE ALTERNATIVO QUE CIRCULEN SIN AUTORIZACIÓN POR ACUERDO DEL H. CABILDO, SU LICENCIA EXPEDIDA POR EL H AYUNTAMIENTO, O EL TARJETÓN DISTINTIVO VALIDADO POR EL SECRETARIO DEL H. AYUNTAMIENTO.
 
 ###### ARTÍCULO 242.
 
@@ -2477,9 +2585,19 @@ XI. Cuando trasporte material, substancias, artículos o vegetales, que por su n
 
 XII. En auxilio de la autoridad judicial, administrativa o jurisdiccional, por mandato o solicitud;
 
-XIII. Cuando a petición del propietario, este lo hubiera dejado en algún taller mecánico para su reparación, en cualquiera de sus modalidades y circule en la vía pública sin su consentimiento; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XIV. Cuando el conductor realice maniobras de peligro que pongan en riesgo la vida o bienes de este, sus pasajeros o de terceros.
+XIII. Cuando a petición del propietario, este lo hubiera dejado en algún taller mecánico para su reparación, en cualquiera de sus modalidades y circule en la vía pública sin su consentimiento;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XIV. Cuando el conductor realice maniobras de peligro que pongan en riesgo la vida o bienes de este, sus pasajeros o de terceros; y
+
+(NOTA: EL 25 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 342/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XV. PARA EL CASO DE VEHÍCULOS PARA LA PRESTACIÓN DEL SERVICIO DE TRANSPORTE ALTERNATIVO QUE CIRCULEN SIN AUTORIZACIÓN POR ACUERDO DEL H. CABILDO, SU LICENCIA EXPEDIDA POR EL H AYUNTAMIENTO, O EL TARJETÓN DISTINTIVO VALIDADO POR EL SECRETARIO DEL H. AYUNTAMIENTO.
 
 ###### ARTÍCULO 246.
 
@@ -2661,7 +2779,33 @@ CUARTO.- A los que infrinjan las normas dispuestas en este reglamento se les apl
 
 > <small>[N. DE E. VÉASE TABULADOR DE SANCIONES EN EL P.O. DE 26 DE ENERO DE 2013, PÁGINAS DE LA 111 A LA 115.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR DE SANCIONES, P.O. 29 DE JULIO DE 2017, PÁGINA 1977; 2 DE MARZO DE 2019, PÁGINAS DE LA 7 A LA 11.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL TABULADOR DE SANCIONES, P.O. 29 DE JULIO DE 2017, PÁGINA 1977; P.O. 2 DE MARZO DE 2019, PÁGINAS DE LA 7 A LA 11; P.O. 12 DE OCTUBRE DE 2019, PÁGINAS DE LA 7 A LA 8.]</small>
+
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE TABULADOR SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+
+CÓDIGO INFRACCIÓN SANCIÓN SANCIÓN
+
+MÍNIMA MÁXIMA
+
+[…]
+
+(NOTA: EL 25 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 342/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL CÓDIGO 139 DEL TABULADOR DE SANCIONES DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+139 PARA EL CASO DE VEHÍCULOS PARA LA 50 100
+
+PRESTACIÓN DEL SERVICIO DE
+
+TRANSPORTE ALTERNATIVO QUE CIRCULEN
+
+SIN AUTORIZACIÓN POR ACUERDO DEL H.
+
+CABILDO, SU LICENCIA EXPEDIDA POR
+
+EL H AYUNTAMIENTO, O EL TARJETÓN
+
+DISTINTIVO VALIDADO POR EL SECRETARIO
+
+DEL H. AYUNTAMIENTO.
 
 Dado en el Salón de Cabildo, del Municipio de Comala, Col., a los 15 días del mes de Agosto del año 2012.
 
@@ -2708,6 +2852,14 @@ Para efecto de que proceda la cancelación de la boleta preventiva se deberá pr
 P.O. 2 DE MARZO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE AUTORIZA REFORMAR EL ARTÍCULO 241, ASÍ COMO, EL ARTÍCULO TRANSITORIO CUARTO QUE CONTIENE EL TABULADOR DE SANCIONES, AMBOS DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente disposición entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE APRUEBA REFORMAR EL ARTÍCULO 3, 42 PRIMER PÁRRAFO, CÓDIGOS 137 Y 138 DEL ARTÍCULO 241 Y LAS FRACCIONES XIII Y XIV DEL ARTÍCULO 245; ASÍ COMO, ADICIONAR EL ARTÍCULO 18 BIS, UN SEGUNDO PÁRRAFO AL ARTÍCULO 240, EL CÓGIO 139 AL ARTÍCULO 241 Y LA FRACCIÓN XV AL ARTÍCULO 245, ASÍMISMO, REFORMAR LAS SANCIONES MÍNIMAS Y MÁXIMAS DE LOS CÓDIGOS 002, 013, 025, 028, 035, 082, 093, 099, 119, 123, 132 Y 138 Y ADICIONAR EL CÓDIGO 139 AL TABULADOR DE SANCIONES DEL ARTÍCULO TRANSITORIO CUARTO, DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA".]
 
 ###### ARTÍCULO ÚNICO.
 
