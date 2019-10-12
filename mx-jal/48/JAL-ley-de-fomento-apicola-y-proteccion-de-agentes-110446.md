@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-apicola-y-proteccion-de-agentes-110446"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-20"
-last_updated: "2019-05-11"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
-Ley Publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el martes 20 de octubre de 2015.
+Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el martes 20 de octubre de 2015.
 
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
 
@@ -79,63 +79,101 @@ IV. Apicultor: Es toda persona física o jurídica que se dedique a la cría, ma
 
 V. Apicultura: Conjunto de actividades concerniente (sic) a la cría, cuidado y aprovechamiento racional de las colonias de abejas;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-VI. Certificado Zoosanitario: Documento oficial expedido por personal de la SADER ó por un profesionista aprobado y que avala la sanidad de las colmenas;
+VI. Asociaciones Apícolas: Asociación civil encargada de dar a conocer información divulgativa o científica sobre el manejo de las abejas.
 
-VII. Colmena: Caja de madera que en su interior aloja una colonia de abejas que consta de unos cuadros o bastidores con cera estampada y que se utiliza para que las abejas se multipliquen, construyan sus panales, y almacenen la miel, el polen, los propóleos y produzcan cera y jalea real;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-VIII. Colonia: Está constituida por varios miles de abejas obreras, que tienen una reina y varios cientos de zánganos que en su conjunto constituyen un superorganismo (sic) capaz de reproducirse, defenderse y sobrevivir de manera indefinida;
+VII. Certificado Zoosanitario: Documento oficial expedido por personal de la SADER ó por un profesionista aprobado y que avala la sanidad de las colmenas;
 
-IX. Comisión Intersecretarial: Comisión Intersecretarial del Estado de Jalisco para el Desarrollo Rural Sustentable;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-X. CESPA: Comité Estatal del Sistema Producto Apícola;
+VIII. Colmena: Caja de madera que en su interior aloja una colonia de abejas que consta de unos cuadros o bastidores con cera estampada y que se utiliza para que las abejas se multipliquen, construyan sus panales, y almacenen la miel, el polen, los propóleos y produzcan cera y jalea real;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XI. Comité Estatal para el Fomento y Protección Pecuaria: Organismo auxiliar de Sanidad Animal de la Secretaría, integrado por productores pecuarios que cuenten con autorización y registro oficial que llevan a cabo la operación de campañas y programas de sanidad en el Estado de Jalisco;
+IX. Colonia: Está constituida por varios miles de abejas obreras, que tienen una reina y varios cientos de zánganos que en su conjunto constituyen un súper organismo capaz de reproducirse, defenderse y sobrevivir de manera indefinida;
 
-XII. Comité Nacional: Comité Nacional del Sistema Producto;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XIII. Consejo Mexicano: Consejo Mexicano para el Desarrollo Rural Sustentable;
+X. Comisión Intersecretarial: Comisión Intersecretarial del Estado de Jalisco para el Desarrollo Rural Sustentable;
 
-XIV. Criadero de Reinas: Conjunto de colmenas tipo técnico divididas interiormente o de medidas especiales, destinadas principalmente a la reproducción de abejas reina;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XV. Enjambre: Conjunto de abejas en tránsito, sin lugar o alojamiento permanente, compuestas por reina y obreras, que por proceso natural tienden a dividirse de la colmena madre en búsqueda de un nuevo alojamiento para garantizar la preservación de la especie;
+XI. CESPA: Comité Estatal del Sistema Producto Apícola;
 
-XVI. Jalea Real: Sustancia segregada por las abejas obreras, por medio de las glándulas hipofaríngeas que constituye el alimento principal de la abeja reina;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XVII. Miel: Es el producto final restante de la recolección del néctar de las flores, al ser transportado, modificado y almacenado en las celdas de los panales por las abejas;
+XII. Comité Estatal para el Fomento y Protección Pecuaria: Organismo auxiliar de Sanidad Animal de la Secretaría, integrado por productores pecuarios que cuenten con autorización y registro oficial que llevan a cabo la operación de campañas y programas de sanidad en el Estado de Jalisco;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XVIII. Médico Veterinario Oficial: Persona acreditada para el ejercicio de la profesión con registro oficial de la SADER para realizar actividades en materia zoosanitaria;
+XIII. Comité Nacional: Comité Nacional del Sistema Producto;
 
-XIX. Movilización: Transportación de colmenas pobladas de abejas reinas, núcleos de abejas y material apícola, a otra región dentro de la entidad ó fuera de ella;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XX. Néctar: Líquido azucarado que se encuentra en el interior de las flores;
+XIV. Consejo Mexicano: Consejo Mexicano para el Desarrollo Rural Sustentable;
 
-XXI. Núcleo: Se le llama a una familia de abejas con su cría;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXII. Polinización: Partícula pequeña proveniente de los estambres de las flores, que cumple la función de fecundar los óvulos en el proceso de reproducción en las plantas con flores y que es recolectado, por las abejas y almacenado en la colmena para su posterior uso;
+XV. Criadero de Reinas: Conjunto de colmenas tipo técnico divididas interiormente o de medidas especiales, destinadas principalmente a la reproducción de abejas reina;
 
-XXIII. Polinizadores: Agentes estratégicos de los ecosistemas que permiten obtener mayor producción y mejor calidad en los cultivos de semilla, frutas y vegetales a través de la polinización;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXIV. Ruta y Zona Apícola: Las carreteras, los caminos, veredas, zonas o lugares susceptibles de explotación apícola y sitios permitidos para la instalación de apiarios;
+XVI. Enjambre: Conjunto de abejas en tránsito, sin lugar o alojamiento permanente, compuestas por reina y obreras, que por proceso natural tienden a dividirse de la colmena madre en búsqueda de un nuevo alojamiento para garantizar la preservación de la especie;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXV. SADER: Secretaría de Agricultura y Desarrollo Rural del Gobierno de México;
+XVII. Jalea Real: Sustancia segregada por las abejas obreras, por medio de las glándulas hipofaríngeas que constituye el alimento principal de la abeja reina;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXVI. Secretaría: Secretaría de Agricultura y Desarrollo Rural de Jalisco;
+XVIII. Miel: Es el producto final restante de la recolección del néctar de las flores, al ser transportado, modificado y almacenado en las celdas de los panales por las abejas;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXVII. SINIGA: Sistema de Identificación Individual de Ganado, programa de la SADER; y
+XIX. Médico Veterinario Oficial: Persona acreditada para el ejercicio de la profesión con registro oficial de la SADER para realizar actividades en materia zoosanitaria;
 
-XXVIII: UGREAPIJ: Unión Ganadera Regional Especializada de Apicultores, de conformidad con la Ley de Organizaciones Ganaderas.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XX. Movilización: Transportación de colmenas pobladas de abejas reinas, núcleos de abejas y material apícola, a otra región dentro de la entidad ó fuera de ella;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXI. Néctar: Líquido azucarado que se encuentra en el interior de las flores;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXII. Núcleo: Se le llama a una familia de abejas con su cría;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXIII. Polinización: Partícula pequeña proveniente de los estambres de las flores, que cumple la función de fecundar los óvulos en el proceso de reproducción en las plantas con flores y que es recolectado, por las abejas y almacenado en la colmena para su posterior uso;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXIV. Polinizadores: Agentes estratégicos de los ecosistemas que permiten obtener mayor producción y mejor calidad en los cultivos de semilla, frutas y vegetales a través de la polinización;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXV. Ruta y Zona Apícola: Las carreteras, los caminos, veredas, zonas o lugares susceptibles de explotación apícola y sitios permitidos para la instalación de apiarios;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXVI. SADER: Secretaría de Agricultura y Desarrollo Rural del Gobierno de México.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXVII. Secretaría: Secretaría de Agricultura y Desarrollo Rural de Jalisco;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXVIII. SINIGA: Sistema de Identificación Individual de Ganado, programa de la SADER; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXIX. UGREAPIJ: Unión Ganadera Regional Especializada de Apicultores, de conformidad con la Ley de Organizaciones Ganaderas.
 
 ### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES
 
@@ -799,7 +837,39 @@ Los criadores de reinas deberán proporcionar las facilidades necesarias a fin d
 
 Se prohíbe el mantenimiento de colmenas en una área de un radio de ocho kilómetros a partir de algún centro que se dedique a la cría de abejas reina, independientemente de los requisitos administrativos y sanitarios que se establezcan.
 
-### CAPÍTULO XV. DE LA INSPECCIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+CAPÍTULOXV (SIC)
+
+DEL CUIDADO Y RETIRO DE ENJAMBRES EN ZONAS URBANAS Y CONURBADAS
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 67
+
+Bis. La Secretaría deberá signar con Asociaciones Apícolas o Instituciones Educativas convenios de colaboración para elaborar un plan de capacitación para las áreas municipales de protección civil o las dependencias que ejerzan facultades en materia ecológica, con la finalidad de instruirlos para el cuidado, preservación y retiro de enjambres de abejas de sus respectivas circunscripciones y la importancia de salvaguardar la integridad de este ecosistema.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 67
+
+Ter. Los Ayuntamientos en sus áreas municipales de protección civil o la dependencia que ejerza facultades en materia ecológica, deberán contar con personal capacitado para el retiro de enjambres, salvaguardando en todo momento la supervivencia de la comunidad de abejas, o en su caso, dar aviso a los apicultores o asociaciones apícolas, con la finalidad de apoyar en el retiro de los enjambres y su reubicación.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 67
+
+Quáter. Queda prohibida la manipulación inapropiada del enjambre y el uso de técnicas exterminadoras para el retiro de enjambres de abejas, sin que medie un dictamen de la autoridad municipal responsable del manejo de enjambres, en el que se fundamente y motive dicha decisión.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 67
+
+Quinquies. Las áreas de protección civil o ecología, deberán realizar campañas de concientización ciudadana acerca del cuidado y preservación de las abejas.
+
+> <small>(REFORMADA SU NUMERACIÓN, 12 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO XVI. DE LA INSPECCIÓN
 
 ###### Artículo 68.
 
@@ -853,7 +923,9 @@ La Secretaría deberá informar a la SADER de las infracciones a la Ley Federal 
 
 Las medidas preventivas o de combate tendientes a evitar la propagación de plagas y enfermedades que afecten a las abejas que dicte la SADER, serán de carácter obligatorio para los apicultores del Estado.
 
-### CAPÍTULO XVI. DE LAS SANCIONES Y AMONESTACIONES
+> <small>(REFORMADA SU NUMERACIÓN, 12 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO XVII. DE LAS SANCIONES Y AMONESTACIONES
 
 ###### Artículo 74.
 
@@ -1036,5 +1108,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 P.O. 11 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27267/LXII/19, QUE REFORMA LOS ARTÍCULOS 5° FRACCIONES VI, XI, XVIII, XXV, XXVI Y XXVII; 8° FRACCIÓN I; 10 FRACCIÓN XVI; 12 FRACCIÓN III INCISO A), 36 FRACCIÓN I INCISO E), FRACCIÓN II INCISO C); 38, 45, 46, 62, 65, 72 Y 73 DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco''.
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27352/LXII/19, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5° Y SE ADICIONA UN CAPÍTULO DENOMINADO "DEL CUIDADO Y RETIRO DE ENJAMBRES EN ZONAS URBANAS Y CONURBADAS" A LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco''.
