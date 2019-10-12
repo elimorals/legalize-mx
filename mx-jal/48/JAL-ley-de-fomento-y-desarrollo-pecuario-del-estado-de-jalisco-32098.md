@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-y-desarrollo-pecuario-del-estado-de-jalisco-3209
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-24"
-last_updated: "2019-08-10"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Jalisco, el martes 24 de junio de 2003.
 
@@ -1395,11 +1395,13 @@ El Ejecutivo del Estado podrá celebrar convenios con los municipios de cada reg
 
 ### CAPÍTULO I. De las Responsabilidades
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 127.
 
-Las autoridades encargadas de aplicar esta ley, están sujetas a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado. Por lo tanto, cualquier persona, con aportación de pruebas y bajo su estricta responsabilidad, podrá denunciar actos u omisiones que constituyan causa de responsabilidad de los servidores públicos.
+Las autoridades encargadas de aplicar esta ley, están sujetas a las disposiciones de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco. Por lo tanto, cualquier persona, con aportación de pruebas y bajo su estricta responsabilidad, podrá denunciar actos u omisiones que constituyan causa de responsabilidad de los servidores públicos.
 
-Las denuncias, serán presentadas ante la Secretaría o, en su caso, ante la Contraloría General del Estado.
+Las denuncias, serán presentadas ante el Órgano Interno de Control de la Secretaría o, en su caso, ante la Contraloría del Estado.
 
 ### CAPÍTULO II. De las Sanciones
 
@@ -1670,3 +1672,9 @@ P.O. 10 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27299/LXII/19 QUE REFORMA LOS ARTÍCULOS 5, 7, 8, 9, 10, 11, 12, 13, 22, 36, 38, 43, 113, 128 Y 131 DE LA LEY DE FOMENTO Y DESARROLLO PECUARIO EL (SIC) ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27363/LXII/19 MEDIANTE EL CUAL SE MODIFICA LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO, LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
