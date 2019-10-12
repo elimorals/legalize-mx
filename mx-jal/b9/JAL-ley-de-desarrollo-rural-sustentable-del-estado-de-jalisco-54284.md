@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-desarrollo-rural-sustentable-del-estado-de-jalisco-54284
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-21"
-last_updated: "2019-08-10"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "JAL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
-Ley publicada en la Sección II al Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
+Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de diciembre de 2006.
 
 Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
 
@@ -99,61 +99,85 @@ X. Consejo Estatal. El Consejo Estatal para el Desarrollo Rural Sustentable;
 
 XI. Consejo Municipal. El Consejo Municipal para el Desarrollo Rural Sustentable;
 
-XII. Desarrollo Rural Sustentable. El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XIII. Desertificación. La pérdida de la capacidad productiva de las tierras, causada por el hombre, en cualquiera de los ecosistemas existentes en el territorio del Estado de Jalisco;
+XII. Consejo Intermunicipal. El Consejo Intermunicipal para el Desarrollo Rural Sustentable, conformado por dos o más municipios;
 
-XIV. Estado. El Estado Libre y Soberano de Jalisco;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XV. Organización de Productores. Conjunto de personas constituidas bajo un régimen legal con el propósito de realizar actividades productivas y económicas para un fin común;
+XIII. Desarrollo Rural Sustentable. El mejoramiento integral del bienestar social de la población y de las actividades económicas en el territorio comprendido fuera de los núcleos considerados urbanos de acuerdo con las disposiciones aplicables, asegurando la conservación permanente de los recursos naturales, la biodiversidad y los servicios ambientales de dicho territorio;
 
-XVI. Producto. Se consideran los resultados de la producción primaria de las especies o actividades productivas en el ámbito rural;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XVII. Producción Orgánica. Sistema de producción y procesamiento de alimentos, productos y subproductos animales, vegetales u otros satisfactores, sin la utilización de productos de síntesis química;
+XIV. Desertificación. La pérdida de la capacidad productiva de las tierras, causada por el hombre, en cualquiera de los ecosistemas existentes en el territorio del Estado de Jalisco;
 
-XVIII. Subproducto. Es el resultado de la producción primaria de las especies o actividades productivas en el ámbito rural, que han sufrido un proceso de transformación e industrialización destinados al consumo o servicio humano;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XIX. Productor. Persona física o jurídica que, directa o indirectamente, se dedica a la producción, transformación, industrialización o comercialización de productos o subproductos agropecuarios;
+XV. Estado. El Estado Libre y Soberano de Jalisco;
 
-XX. Programa Especial Concurrente. El programa Especial Concurrente para el Desarrollo Rural Sustentable, que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXI. Programas Sectoriales. Los programas específicos del Gobierno Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
+XVI. Organización de Productores. Conjunto de personas constituidas bajo un régimen legal con el propósito de realizar actividades productivas y económicas para un fin común;
 
-> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXII. Secretaría. La Secretaría de Agricultura y Desarrollo Rural del Gobierno del Estado de Jalisco;
+XVII. Producto. Se consideran los resultados de la producción primaria de las especies o actividades productivas en el ámbito rural;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXIII. Seguridad alimentaria. El abasto oportuno, suficiente e incluyente de alimentos inocuos y de calidad nutritiva a la población;
+XVIII. Producción Orgánica. Sistema de producción y procesamiento de alimentos, productos y subproductos animales, vegetales u otros satisfactores, sin la utilización de productos de síntesis química;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXIV. Servicio. La institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+XIX. Subproducto. Es el resultado de la producción primaria de las especies o actividades productivas en el ámbito rural, que han sufrido un proceso de transformación e industrialización destinados al consumo o servicio humano;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXV. Servicios ambientales. Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+XX. Productor. Persona física o jurídica que, directa o indirectamente, se dedica a la producción, transformación, industrialización o comercialización de productos o subproductos agropecuarios;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXVI. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
+XXI. Programa Especial Concurrente. El programa Especial Concurrente para el Desarrollo Rural Sustentadle (sic), que incluye el conjunto de Programas Sectoriales relacionados con las materias motivo de esta Ley;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXVII. Sistema-producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+XXII. Plan Regional: Documento de planeación que incluye los objetivos y estrategias con una visión de largo plazo, así como las líneas de acción y los proyectos estratégicos de corto y mediano plazo para el desarrollo integral y sustentable de cada una de las regiones de la entidad;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXVIII. Soberanía agroalimentaria y nutricional. La libre determinación del Estado para establecer políticas públicas preactivas e integrales que garanticen el abasto y acceso de alimentos a toda la población, fundamentalmente con producción estatal;
+XXIII. Programas Sectoriales. Los programas específicos del Gobierno Estatal que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Sustentable;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXIX. Unidad productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable; y
+XXIV. Secretaría. La Secretaría de Desarrollo Rural del Gobierno del Estado de Jalisco;
 
-> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XXX. Jornalero Agrícola. Toda persona que percibe un salario por su fuerza de trabajo, en una actividad propia del campo dentro de un proceso productivo.
+XXV. Seguridad alimentaria. El abasto oportuno, suficiente e incluyente de alimentos inocuos y de calidad nutritiva a la población;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXVI. Servicio. La institución pública responsable de la ejecución de programas y acciones específicas en una materia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXVII. Servicios ambientales. Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXVIII. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencia para lograr un determinado propósito;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXIX. Sistema-producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXX. Soberanía agroalimentaria y nutricional. La libre determinación del Estado para establecer políticas públicas preactivas e integrales que garanticen el abasto y acceso de alimentos a toda la población, fundamentalmente con producción estatal; y
+
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XXXI. Unidad productiva. Conjunto de recursos naturales, técnicos y económicos de uso racional que, a través de sistemas de producción basados en tecnologías, permitan una explotación eficiente con el propósito de satisfacer las necesidades individuales o colectivas de productores integrados o no, bajo un régimen legal, con el objeto de realizar actividades de producción, distribución y consumo de bienes y servicios que propicien un desarrollo rural sustentable.
 
 ###### Artículo 8.
 
@@ -171,7 +195,9 @@ Son auxiliares de las autoridades señaladas en el artículo anterior:
 
 I. La Comisión Intersecretarial;
 
-II. Los Consejos Estatal, Distritales y Municipales de Desarrollo Rural Sustentable;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+II. Los Consejos Estatal, Distritales, Municipales e intermunicipales de Desarrollo Rural Sustentable;
 
 III. Los organismos y fideicomisos de la Administración Pública Estatal, vinculados con actividades agropecuarias;
 
@@ -201,7 +227,9 @@ I. La Ley de Planeación Participativa para el Estado de Jalisco y sus Municipio
 
 II. La Ley para el Desarrollo Económico del Estado de Jalisco;
 
-III. Los programas sectoriales, especiales y el concurrente;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+III. Los programas sectoriales, regionales, especiales y el concurrente;
 
 IV. Los convenios de coordinación celebrados entre los ámbitos de Gobierno; y
 
@@ -269,13 +297,17 @@ XV. Impulso a los programas de protección civil para la prevención, auxilio, r
 
 XVI. Impulso a los programas orientados a la paz social;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XVII. Promoción de la investigación científica aplicada, el desarrollo e innovación tecnológica de las actividades agropecuarias, y difundir sus resultados, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación; y
+XVII. Promoción de la investigación científica aplicada, el desarrollo e innovación tecnológica de las actividades agropecuarias, y difundir sus resultados, observando para tal efecto lo dispuesto en la ley estatal en materia de ciencia, desarrollo tecnológico e innovación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XVIII. Las demás que determine el Ejecutivo Estatal.
+XVIII. Interconectividad regional e intermunicipal rural; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
+
+XIX. Las demás que determine el Ejecutivo Estatal.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
 
@@ -303,11 +335,11 @@ III. Disponibilidad de asistencia técnica y apoyo financiero para el desarrollo
 
 IV. Esquemas de coordinación con la Federación y Municipios para la ejecución de los proyectos de desarrollo rural sustentable.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 19.
 
-Para la ejecución del Programa para el Desarrollo Rural Sustentable de la administración pública estatal y en su caso federal, que participen en el programa especial concurrente y los programas sectoriales, se tomará como base la organización territorial y administrativa de los distritos de desarrollo rural, de los municipios y comunidades para la concertación con las organizaciones de productores y los sectores social y privado.
+Para la ejecución del Programa para el Desarrollo Rural Sustentable de la administración pública estatal y en su caso federal, que participen en el programa especial concurrente y los programas sectoriales y regionales, se tomará como base la organización territorial y administrativa de los distritos de desarrollo rural, de los municipios y comunidades para la concertación con las organizaciones de productores y los sectores social y privado.
 
 ###### Artículo 20.
 
@@ -321,9 +353,13 @@ III. Aprobará las propuestas políticas y programas de desarrollo rural sustent
 
 a) El Consejo Estatal acordará y solicitará al titular del Poder Ejecutivo el establecimiento de los programas necesarios o emergentes cuando existan circunstancias que los justifiquen, para lo que se solicitará la participación del Gobierno Federal y Municipal, de acuerdo a la competencia de actividades y ordenamientos normativos vigentes en la materia;
 
-b) Los programas sectoriales se coordinarán y darán congruencia a las acciones y programas institucionales de desarrollo rural sustentable a cargo de las dependencias y entidades del sector de los tres ámbitos de gobierno; y
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-c) Los programas sectoriales, concurrentes y los que se implementen, considerarán las propuestas de las organizaciones y agentes productivos que operen y tengan representación formal en la entidad, y se integrarán al programa los compromisos derivados de convenios o acuerdos formales o establecidos con el Gobierno Federal y Municipal.
+b) Los programas sectoriales y regionales se coordinarán y darán congruencia a las acciones y programas institucionales de desarrollo rural sustentable a cargo de las dependencias y entidades del sector de los tres ámbitos de gobierno; y
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+c) Los programas sectoriales, regionales, concurrentes y los que se implementen, considerarán las propuestas de las organizaciones y agentes productivos que operen y tengan representación formal en la entidad, y se integrarán al programa los compromisos derivados de convenios o acuerdos formales o establecidos con el Gobierno Federal y Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE AGOSTO DE 2019)</small>
 
@@ -435,9 +471,11 @@ V. Apoyar en la vigilancia y control de los programas relativos a los aspectos d
 
 VI. Procurar establecer en su presupuesto de egresos una partida para programas de fomento para el desarrollo rural sustentable;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-VII. Difundir los planes, programas y acciones que coadyuven al desarrollo rural sustentable de su Municipio;
+VII. Difundir los planes, programas y acciones que coadyuven al desarrollo rural sustentable de su Municipio.
+
+Los municipios que coincidan en vocacionamientos, actividades agropecuarias y en general cualquier proceso o actividad del medio rural, que rebasen la extensión territorial municipal, podrán conformar consejos intermunicipales, atendiendo el marco legal municipal aplicable; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE JULIO DE 2019)</small>
 
@@ -533,9 +571,11 @@ La Comisión Intersecretarial, con la participación del Consejo Estatal, determ
 
 Los Consejos de Desarrollo Rural Sustentable son instancias para la participación de los productores y demás agentes de la sociedad rural en la definición de prioridades regionales, planeación y distribución de los recursos que la Federación, el estado y los municipios destinen al apoyo de las inversiones productivas, y para el desarrollo rural sustentable conforme a las disposiciones señaladas en la Ley de Desarrollo Rural Sustentable y la presente Ley.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 29.
 
-La organización y funcionamiento del Consejo Estatal, Distritales y Municipales, se regirán por los lineamientos establecidos en la Ley de Desarrollo Rural Sustentable, la presente Ley y los convenios que al respecto se acuerden entre el Gobierno Federal y Estatal, quedando a cargo del primero la expedición de reglas generales sobre la materia para la atención de los asuntos de su competencia.
+La organización y funcionamiento del Consejo Estatal, Distritales, Municipales e Intermunicipales, se regirán por los lineamientos establecidos en la Ley de Desarrollo Rural Sustentable, la presente Ley y los convenios que al respecto se acuerden entre el Gobierno Federal y Estatal, quedando a cargo del primero la expedición de reglas generales sobre la materia para la atención de los asuntos de su competencia.
 
 ###### Artículo 30.
 
@@ -617,9 +657,11 @@ VI. Los representantes de las organizaciones sociales y privadas del sector rura
 
 En el caso de los municipios con población indígena originaria asentada en comunidad indígena conforme a la ley en la materia, un representante por cada comunidad, elegido de acuerdo a sus normas.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 38.
 
-Los Consejos Municipales definirán los instrumentos y acciones provenientes de los diversos programas sectoriales, mismos que se integrarán al programa concurrente.
+Los Consejos Municipales y los intermunicipales, definirán los instrumentos y acciones provenientes de los diversos programas sectoriales y regionales, mismos que se integrarán al programa concurrente.
 
 ###### Artículo 39.
 
@@ -627,11 +669,11 @@ Ningún núcleo rural está obligado a pagar contraprestación alguna, en efecti
 
 ### Capítulo V. De los Convenios y Acuerdos
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-El Gobierno del Estado celebrará los convenios necesarios con la federación o con los gobiernos municipales, según sea el caso, en los términos de las disposiciones de esta ley, en el que se definirán las responsabilidades de cada uno de los órganos de gobierno en el cumplimiento de los objetivos y metas de los programas sectoriales.
-
-Los convenios que se celebren entre la Federación y el Estado, se regirán conforme lo establece la Ley de Desarrollo Rural Sustentable.
+El Gobierno del Estado celebrará los convenios necesarios con la federación o con los gobiernos municipales, según sea el caso, en los términos de las disposiciones de esta ley, en el que se definirán las responsabilidades de cada uno de los órganos de gobierno en el cumplimiento de los objetivos y metas de los programas sectoriales y regionales.
 
 ###### Artículo 41.
 
@@ -857,7 +899,7 @@ En los programas, recursos y acciones que se orienten a la infraestructura y equ
 
 Con el objeto de otorgar certeza y seguridad jurídica a los productores rurales, la Secretaría proporcionará, en la medida de las posibilidades institucionales, asesoría técnica y orientación jurídica en la realización de negocios conexos a la actividad productiva del medio rural para la prevención de afectaciones patrimoniales en contra de los productores; derivándolos, en su caso, a las autoridades competentes.
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 12 DE OCTUBRE DE 2019)</small>
 
 La asesoría que otorgue la Secretaría no implica la aceptación obligada del productor, ya que éste será el responsable de su decisión; salvo aquellas que se deriven de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
@@ -961,9 +1003,11 @@ Las organizaciones de productores agropecuarios podrán celebrar convenios entre
 
 El Ejecutivo del Estado, a través de la Secretaría, coadyuvará con los productores agropecuarios e industriales, para establecer centros de acopio que faciliten la comercialización de los productos o subproductos agropecuarios y fomenten la máxima rentabilidad de la inversión en la entidad; así como celebrar convenios con los municipios de cada región o con las demás entidades federativas a fin de lograr una estratégica ubicación y óptimo funcionamiento de los centros de acopio, favoreciendo en todo a los productores y consumidores fomentando la comercialización directa.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 75.
 
-Los Consejos Distritales y Municipales de Desarrollo Rural Sustentable podrán celebrar convenios con organismos e instituciones públicas y privadas para la exportación y comercialización de los productos.
+Los Consejos Distritales, y Municipales e Intermunicipales de Desarrollo Rural Sustentable podrán celebrar convenios con organismos e instituciones públicas y privadas para la exportación y comercialización de los productos.
 
 ###### Artículo 76.
 
@@ -1145,7 +1189,9 @@ Con el objeto de reducir los índices de siniestralidad y la vulnerabilidad de u
 
 El Gobierno del Estado podrá destinar recursos para la prevención de desastres naturales que incluyan obras de conservación de suelo, agua y manejo de avenidas de la misma. Estos apoyos estarán encaminados a fomentar los programas de reconversión productiva.
 
-Los apoyos que se otorguen para la reconversión productiva deberán ser considerados en el plan estatal de desarrollo y en los programas sectoriales y deberán operar en forma coordinada complementaria con los programas de los tres ámbitos de gobierno.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+Los apoyos que se otorguen para la reconversión productiva deberán ser considerados en el plan estatal de desarrollo y en los programas sectoriales y regionales y deberán operar en forma coordinada complementaria con los programas de los tres ámbitos de gobierno.
 
 ### Capítulo VIII. De las ferias y exposiciones de la producción agropecuaria
 
@@ -1193,9 +1239,11 @@ La Secretaría colaborará con la administración pública federal y promoverá 
 
 Este padrón deberá actualizarse cada año y será necesario estar inscrito en él para la operación de los programas e instrumentos de fomento que establece esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 105.
 
-La Secretaría, a través de la Comisión Intersecretarial, en coordinación con las organizaciones de productores, los Consejos Distritales, Municipales y Comunitarios de Desarrollo Rural Sustentable, los Centros de Apoyo de Desarrollo Rural y los Ayuntamientos, brindarán a los diversos agentes de la sociedad rural, el apoyo para inscripción en el padrón único de organizaciones y sujetos beneficiarios del sector rural.
+La Secretaría, a través de la Comisión Intersecretarial, en coordinación con las organizaciones de productores, los Consejos Distritales, Municipales, Intermunicipales y Comunitarios de Desarrollo Rural Sustentable, los Centros de Apoyo de Desarrollo Rural y los Ayuntamientos, brindarán a los diversos agentes de la sociedad rural, el apoyo para inscripción en el padrón único de organizaciones y sujetos beneficiarios del sector rural.
 
 ## TITULO SEPTIMO. De la organización económica de los productores rurales y los sistemas producto
 
@@ -1277,7 +1325,9 @@ II. Los programas de alimentación, nutrición y desayunos escolares que aplique
 
 Los Consejos Municipales participarán en la prevención y detección de necesidades de salud, así como la creación de brigadas móviles para la atención sistemática de endemias y acciones eventuales contra epidemias, integrando el programa regional, en coordinación con la Secretaría de Salud;
 
-III. El Consejo Estatal, Distrital y Municipal, según sus atribuciones, coadyuvarán en las acciones y programas de población en el medio rural que instrumenten las autoridades Federales; y
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+III. El Consejo Estatal, Distrital, Municipal e Intermunicipal, según sus atribuciones, coadyuvarán en las acciones y programas de población en el medio rural que instrumenten las autoridades federales;
 
 > <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2008)</small>
 
@@ -1291,9 +1341,11 @@ En el marco del Programa Especial Concurrente, el Gobierno del Estado promoverá
 
 La participación de los productores y demás agentes involucrados en estos apoyos no limita su acceso a otros programas.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 117.
 
-Con base en indicadores y criterios que se establezcan coordinadamente con el Gobierno Federal, la Comisión Intersecretarial, con la participación del Consejo Estatal y de los Consejos Municipales, definirá las regiones de atención prioritaria para el desarrollo rural sustentable, que como tales serán objeto de consideración preferente de los programas de administración pública estatal en concordancia con el Programa Especial Concurrente.
+Con base en indicadores y criterios que se establezcan coordinadamente con el Gobierno Federal, la Comisión Intersecretarial, con la participación del Consejo Estatal y de los Consejos Municipales e Intermunicipales, definirá las regiones de atención prioritaria para el desarrollo rural sustentable, que como tales serán objeto de consideración preferente de los programas de administración pública estatal en concordancia con el Programa Especial Concurrente.
 
 ###### Artículo 118.
 
@@ -1596,3 +1648,15 @@ P.O. 10 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27300/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27353/LXII/19 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27363/LXII/19 MEDIANTE EL CUAL SE MODIFICA LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO, LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
