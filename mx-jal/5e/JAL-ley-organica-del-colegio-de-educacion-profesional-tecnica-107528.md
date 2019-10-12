@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-colegio-de-educacion-profesional-tecnica-10752
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-04-25"
-last_updated: "2018-09-25"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -143,7 +143,9 @@ a) El Secretario de Educación del Estado, quien la presidirá;
 
 b) El Coordinador de Educación Media Superior; y
 
-c) El representante de la Secretaría de Planeación, Administración y Finanzas;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+c) El representante de la Secretaría de la Hacienda Pública;
 
 II. Dos representantes del Gobierno Federal, designados por la Secretaría de Educación Pública; y
 
@@ -602,3 +604,9 @@ P.O. 25 DE SEPTIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 26928/LXI/18 QUE REFORMA LA LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO JOSÉ MARIO MOLINA PASQUEL Y ENRÍQUEZ Y LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27370/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 6° FRACCIÓN I INCISO C) DE LA LEY ORGÁNICA DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE JALISCO”.]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
