@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-los-derechos-y-el-desarrollo-de-los-pueblos-y-las-545
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-11"
-last_updated: "2019-07-11"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 11 de enero de 2007.
 
@@ -555,13 +555,13 @@ II. El titular de cada una de las siguientes Secretarías y dependencias del Gob
 
 a) General de Gobierno;
 
-(REFORMADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-b) Desarrollo e Integración Social;
+b) Igualdad Sustantiva entre Mujeres y Hombres;
 
-(REFORMADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-c) Planeación, Administración y Finanzas;
+c) La Hacienda Pública;
 
 (REFORMADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
 
@@ -577,15 +577,17 @@ g) Medio Ambiente y Desarrollo Territorial;
 
 h) (DEROGADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
 
-i) Desarrollo Rural;
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+i) Agricultura y Desarrollo Rural;
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2016)</small>
 
 j) Infraestructura y Obra Pública;
 
-(REFORMADO, P.O. 3 DE MARZO DE 2016) (REPUBLICADO, P.O. 16 DE JUNIO DE 2016)
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-k) Fiscalía General del Estado;
+k) Fiscalía Estatal;
 
 l) Trabajo y Previsión Social;
 
@@ -593,7 +595,9 @@ m) Salud;
 
 n) Turismo; y
 
-o) Comité de Planeación para el Desarrollo del Estado.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+o) Consejo de Participación y Planeación para el Desarrollo del Estado de Jalisco; y
 
 III. El Director General de la Comisión, sólo con derecho a voz.
 
@@ -937,6 +941,14 @@ P.O. 25 DE JULIO DE 2017.
 
 P.O. 11 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 27290/LXII/19 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 77 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 27290/LXII/19 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 77 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
 
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "EI Estado de Jalisco".
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “EI Estado de Jalisco”.
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27362/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 70 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
