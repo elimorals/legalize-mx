@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-sistema-de-agua-potable-y-alcantarillado-de-203
 country: "mx"
 rank: "ley"
 publication_date: "1996-10-08"
-last_updated: "2014-04-01"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20315&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA EL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE UNIÓN DE TULA, JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 8 de octubre de 1996.
 
@@ -79,11 +79,11 @@ V.- El Regidor encargado de la Comisión de Agua Potable y Alcantarillado.
 
 Los funcionarios citados en las fracciones anteriores durarán en su encargo el período correspondiente a la administración municipal;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-VI.- Un representante de la Secretaría de Medio Ambiente y Desarrollo Territorial del Estado de Jalisco;
+VI.- Un representante de la Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE OCTUBRE DE 2019)</small>
 
 VII.- Un representante de la Secretaría de Salud del Estado de Jalisco;
 
@@ -141,9 +141,9 @@ XII.- Resolver sobre las solicitudes para la prestación de los servicios de agu
 
 XIII.- Ejercer la vigilancia general que los servicios demanden y tomar las medidas necesarias para su conservación y reparación resolviendo lo relativo a sus mejoras y ampliaciones;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XIV.- Promover ante el Ayuntamiento de Unión de Tula, Jalisco, cuando se ejercite la facultad económico-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Planeación, Administración y Finanzas de la Entidad, se haga cargo de la recaudación o intervengan para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
+XIV.- Promover ante el Ayuntamiento de Unión de Tula, Jalisco, cuando se ejercite la facultad económica-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal, o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de la Hacienda Pública de la Entidad, se haga cargo de la recaudación o intervengan para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
 
 XV.- Vigilar el cumplimiento de las disposiciones de esta ley y su reglamento, por parte de los usuarios de los servicios, a través de su Director General y las dependencias que se determinen;
 
@@ -173,7 +173,9 @@ III.- Celebrar y subscribir los contratos que apruebe el Consejo de Administraci
 
 Los contratos de obra se celebrarán con las personas físicas o jurídicas, inscritas en el padrón de contratistas y constructoras de la Dirección de Obras Públicas Municipales del ayuntamiento, previo concurso de la obra, debiendo obtener cotizaciones previas. No podrán ser contratistas o proveedores del sistema, las empresas en las que obre cualquier clase de interés, los integrantes del Consejo, el Director General o los demás Servidores públicos del Sistema, sus cónyuges, ascendientes o descendientes, sin limitación de grado y las colaterales y afines hasta el cuarto grado, siendo causa de responsabilidad la violación de esta disposición;
 
-IV.- Formular bajo su responsabilidad, el balance general anual y los estados mensuales de contabilidad, con su anexos, y presentarlos a la consideración del Consejo de Administración, dentro de los treinta días siguientes a la terminación de los períodos respectivos para su revisión, para que a su vez, sean ratificados por el Cabildo, y así, estos informes formen parte de la cuenta pública del Ayuntamiento, así como para su glosa que debe efectuar la Contaduría Mayor de Hacienda del Congreso del Estado, de acuerdo con sus atribuciones legales;
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+IV.- Formular bajo su responsabilidad, el balance general anual y los estados mensuales de contabilidad, con su anexos, y presentarlos a la consideración del Consejo de Administración, dentro de los treinta días siguientes a la terminación de los períodos respectivos para su revisión, para que a su vez, sean ratificados por el Cabildo, y así, estos informes formen parte de la cuenta pública del Ayuntamiento, así como para su glosa que debe efectuar la Comisión de Vigilancia y Sistema Anticorrupción del Congreso del Estado, de acuerdo con sus atribuciones legales;
 
 V.- Informar mensualmente al Consejo, del estado de la contabilidad y el movimiento financiero;
 
@@ -306,3 +308,9 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 1 DE ABRIL DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27367/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6°, 9° Y 10 DE LA LEY QUE CREA EL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE UNIÓN DE TULA, JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
