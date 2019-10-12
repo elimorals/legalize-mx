@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acuacultura-y-pesca-para-el-estado-de-jalisco-y-sus-9019
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-17"
-last_updated: "2019-08-29"
+last_updated: "2019-10-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre de 2012.
 
@@ -893,9 +893,11 @@ Tratándose de los permisos para la acuacultura comercial y para laboratorios de
 
 En caso de que la Secretaría omita dar a conocer al interesado la resolución de su solicitud en el tiempo estipulado en el artículo anterior, se entenderá que el permiso es susceptible de otorgarse, para lo cual bastará que el solicitante presente un escrito manifestando, si así lo fuere, que ha cumplido con todos los requisitos, y tendrá un plazo de diez días hábiles para hacer valer este beneficio.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 73.
 
-La falta de resolución a cualquier solicitud de permiso para la acuacultura, implicará responsabilidad para los servidores públicos que les competa emitirla, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco; asimismo, la Secretaría tendrá la obligación de tomar las medidas necesarias para que se sancione al funcionario responsable.
+La falta de resolución a cualquier solicitud de permiso para la acuacultura, implicará responsabilidad para los servidores públicos que les competa emitirla, en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco; asimismo, la Secretaría tendrá la obligación de tomar las medidas necesarias para que se sancione al funcionario responsable.
 
 ###### Artículo 74.
 
@@ -1029,7 +1031,9 @@ X. Las demás que se establezcan en la presente ley y las disposiciones aplicabl
 
 Los permisionarios para la acuacultura de fomento y didáctica, además de las obligaciones contenidas en el artículo anterior, deberán presentar al Instituto, en los formatos que el mismo expida y con la periodicidad que se establezca en los permisos, los informes de resultados de los proyectos de estudio o de investigación que se realicen en materia acuícola.
 
-Ninguna autoridad, ni persona física o jurídica podrá divulgar, por ningún medio, los resultados del proyecto de fomento o programa de estudio sin la previa autorización del permisionario. A dicha información se le dará el trato confidencial que establece el capítulo VI de la Ley de la Propiedad Industrial, con las correspondientes obligaciones y responsabilidades, sin perjuicio de la aplicación de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
+Ninguna autoridad, ni persona física o jurídica podrá divulgar, por ningún medio, los resultados del proyecto de fomento o programa de estudio sin la previa autorización del permisionario. A dicha información se le dará el trato confidencial que establece el capítulo VI de la Ley de la Propiedad Industrial, con las correspondientes obligaciones y responsabilidades, sin perjuicio de la aplicación de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ###### Artículo 84.
 
@@ -1245,9 +1249,11 @@ Cuando en la presentación de la solicitud se omitan información o algunos de l
 
 En caso de que la Secretaría o el IAPEJ, omita dar a conocer al interesado la resolución de su solicitud en el tiempo estipulado en esta ley, se entenderá que el permiso es susceptible de otorgarse, para lo cual bastará que el solicitante presente un escrito manifestando, si así lo fuere, que ha cumplido con todos los requisitos para que se le otorgue; lo anterior deberá ocurrir en un término no mayor a treinta días hábiles, contados a partir de la fecha de término para que la autoridad emitiera la resolución correspondiente.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 113.
 
-La falta de resolución a cualquier solicitud para la acuacultura, implicará responsabilidad para los servidores públicos que les competa emitirla, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco; asimismo, la Secretaría tendrá la obligación de tomar las medidas necesarias para que se sancione al funcionario responsable.
+La falta de resolución a cualquier solicitud para la acuacultura, implicará responsabilidad para los servidores públicos que les competa emitirla, en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco; asimismo, la Secretaría tendrá la obligación de tomar las medidas necesarias para que se sancione al funcionario responsable.
 
 ###### Artículo 114.
 
@@ -2218,3 +2224,9 @@ P.O. 29 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27331/LXII/19 MEDIANTE EL CUAL SE REFORMA LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27363/LXII/19 MEDIANTE EL CUAL SE MODIFICA LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO, LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
