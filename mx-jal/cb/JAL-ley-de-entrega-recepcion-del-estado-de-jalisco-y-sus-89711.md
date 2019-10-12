@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-entrega-recepcion-del-estado-de-jalisco-y-sus-89711"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-13"
-last_updated: "2018-07-14"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 13 de octubre de 2012.
 
@@ -271,9 +271,11 @@ En caso de que durante la validación y verificación el servidor público entra
 
 En su caso, el órgano interno de control requerirá al servidor público que corresponda a efecto de que en forma personal o por escrito comparezca, en un plazo no mayor a cinco días a la recepción de la notificación, a manifestar lo que corresponda. En caso de no comparecer dentro del término requerido, se procederá de conformidad con la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y sus Municipios.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 29.
 
-En la comparecencia establecida en el artículo anterior, el órgano interno de control de que se trate, se encargará de levantar acta administrativa, en la cual se dejarán asentadas las manifestaciones que al respecto deseen rendir los servidores públicos sobre las inconsistencias detectadas; de considerarse por parte del servidor público entrante que no se aclaran dichas inconsistencias, el órgano de control procederá a realizar las investigaciones a que haya lugar y, de resultar que se constituye probable responsabilidad, se procederá conforme a la Ley de Responsabilidades de los Servidores Públicos.
+En la comparecencia establecida en el artículo anterior, el órgano interno de control de que se trate, se encargará de levantar acta administrativa, en la cual se dejarán asentadas las manifestaciones que al respecto deseen rendir los servidores públicos sobre las inconsistencias detectadas; de considerarse por parte del servidor público entrante que no se aclaran dichas inconsistencias, el órgano de control procederá a realizar las investigaciones a que haya lugar y, de resultar que se constituye probable responsabilidad, se procederá conforme a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ## Título Tercero. De las responsabilidades y sanciones
 
@@ -342,3 +344,9 @@ P.O. 14 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26840/LXI/18 QUE REFORMA LA LEY DE ENTREGA RECEPCIÓN DEL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27368/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 29 DE LA LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
