@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-crea-el-sistema-de-agua-potable-y-alcantarillado-de-202
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-16"
-last_updated: "2014-07-31"
+last_updated: "2019-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20212&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE CREA EL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CASIMIRO CASTILLO, JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 31 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 12 DE OCTUBRE DE 2019.
 
 Ley Publicada en el Periódico Oficial del Estado de Jalisco, el sábado 16 de noviembre de 1996.
 
@@ -141,9 +141,9 @@ XII. Resolver sobre las solicitudes para la prestación de los servicios de agua
 
 > <small>N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XIV, VÉASE PUBLICACIONES OFICIALES DE FECHAS 16 DE NOVIEMBRE DE 1996 Y 31 DE JULIO DE 2014.</small>
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2019)</small>
 
-XIII. Promover ante el Ayuntamiento de Casimiro Castillo, Jalisco, cuando se ejercite la facultad económica-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal; o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Planeación, Administración y Finanzas de la Entidad, se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
+XIII. Promover ante el Ayuntamiento de Casimiro Castillo, Jalisco, cuando se ejercite la facultad económica-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal; o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de la Hacienda Pública de la Entidad, se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
 
 XIV. Promover ante el Ayuntamiento de Casimiro Castillo, Jalisco, cuando se ejercite la facultad económica-coactiva, en el cobro de adeudos a cargo de usuarios morosos, debiéndose considerar para todos los efectos, dichos adeudos, como créditos fiscales, en los términos de la Ley de Hacienda Municipal; o en su caso, promover la celebración de convenios de coordinación entre el Ayuntamiento y el Gobierno del Estado, para que la Secretaría de Finanzas de la Entidad, se haga cargo de la recaudación o intervenga para los efectos de hacer efectivos los créditos insolutos a través de sus oficinas de Recaudación Fiscal competentes;
 
@@ -308,3 +308,9 @@ Lic. Raúl Octavio Espinoza Martínez
 P.O. 31 DE JULIO DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 12 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27366/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 9º DE LA LEY QUE CREA EL SISTEMA DE AGUA POTABLE Y ALCANTARILLADO DE CASIMIRO CASTILLO, JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
