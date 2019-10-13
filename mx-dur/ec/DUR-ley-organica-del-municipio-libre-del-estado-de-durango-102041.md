@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2019-05-30"
+last_updated: "2019-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -621,13 +623,17 @@ Compete al Presidente Municipal, ejecutar los acuerdos del Ayuntamiento. Carecen
 
 El Ayuntamiento podrá resolver la integración de comisiones de particulares para que, como órganos de consulta, auspicien la mejor ejecución de los programas de obras y servicios, propiciando la participación de la comunidad en la administración del Municipio.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 45.
 
-Las comisiones que se determinen, contarán con tres miembros del Ayuntamiento por lo menos, procurando la pluralidad política en su integración; de los cuales uno será presidente, otro secretario y el resto vocales. Las comisiones y su integración serán nombradas por el propio Ayuntamiento a propuesta del Presidente Municipal.
+Las comisiones que se determinen, contarán con tres miembros del Ayuntamiento por lo menos, procurando la pluralidad política y la paridad de género en su integración; de los cuales uno será presidente, otro secretario y el resto vocales. Las comisiones y su integración serán nombradas por el propio Ayuntamiento a propuesta del Presidente Municipal.
 
-###### Artículo 46.
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2019)</small>
 
-Las comisiones serán presididas por un miembro del Ayuntamiento; en el caso de la Comisión de Gobernación, será presidida por el Presidente Municipal; y la Comisión de Hacienda o su equivalente, será presidida por el síndico municipal.
+Artículo 46
+
+Las comisiones serán presididas por un miembro del Ayuntamiento, procurando criterios de paridad de género; en el caso de la Comisión de Gobernación, será presidida por el Presidente Municipal; y la Comisión de Hacienda o su equivalente, será presidida por el síndico municipal.
 
 ###### Artículo 47.
 
@@ -652,6 +658,14 @@ Las peticiones que realicen los integrantes del Ayuntamiento, deberán hacerse c
 ###### Artículo 51.
 
 Los integrantes del Ayuntamiento se regirán por los principios de lealtad, legalidad, honradez, imparcialidad y eficiencia.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2019)</small>
+
+Sin perjuicio de lo que establezca la legislación de responsabilidades administrativas de los servidores públicos, los integrantes del Ayuntamiento se abstendrán de participar en la atención, tramitación o resolución de asuntos en los que tenga conflicto de interés o impedimento legal.
+
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2019)</small>
+
+De igual manera, se abstendrán de participar en la selección, promoción, designación o nombramiento de personal del Ayuntamiento, de cualquier nivel, en los casos en que mantengan parentesco por consanguinidad hasta el cuarto grado o por afinidad hasta el segundo grado.
 
 ### Capítulo VI. De las Facultades y Obligaciones del Presidente Municipal, Síndico y Regidores
 
@@ -2113,6 +2127,10 @@ Cumplido el plazo por el que se haya otorgado la concesión, y no habiendo prór
 
 Los planes municipales de desarrollo de los municipios del Estado de Durango deben elaborarse, aprobarse y publicarse dentro de un período de tres meses contados a partir de la fecha de instalación de los ayuntamientos. Su vigencia será por el período de tres años que corresponda. Para este efecto, los ayuntamientos podrán solicitar cuando lo consideren necesario, la asesoría del Gobierno del Estado y de las dependencias federales correspondientes.
 
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2019)</small>
+
+Para la elaboración de los Planes Municipales de Desarrollo, los Ayuntamientos deberán organizar consultas públicas con el propósito de que la población formule opiniones para la elaboración, reajuste y cumplimiento de los Planes.
+
 ###### Artículo 209.
 
 El plan de cada municipio precisará los objetivos, estrategias y prioridades del desarrollo municipal; contendrá prevenciones sobre los recursos que serán asignados a tales fines y establecerá los instrumentos, unidades administrativas y responsables de su ejecución. Sus previsiones se referirán al conjunto de las actividades económicas y sociales de los programas que se derivan del plan.
@@ -2335,7 +2353,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNÁNDEZ SARACHO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 7 DE MAYO DE 2015.
 
@@ -2408,3 +2426,33 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
 
 TERCERO.- Los Ayuntamientos deberán expedir o adecuar la normatividad necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 60 días.
+
+P.O. 13 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 126.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 45 Y 46 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor el día 1 de septiembre de 2022, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+TERCERO.- Los Ayuntamientos deberán expedir o adecuar la normatividad necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 60 días, a partir de la entrada en vigor del presente.
+
+P.O. 13 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 127.- POR EL QUE SE ADICIONAN DOS PÁRRAFOS AL ARTÍCULO 51 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+TERCERO.- Los Ayuntamientos deberán expedir o adecuar la normatividad necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 60 días a partir de la entrada en vigor del mismo.
+
+P.O. 13 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 128.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 208 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente reforma entrará en vigor el día 1 de septiembre de 2022, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
+
+TERCERO.- Los Ayuntamientos deberán expedir o adecuar la normatividad necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 30 días a partir de la entrada en vigor del presente decreto.
