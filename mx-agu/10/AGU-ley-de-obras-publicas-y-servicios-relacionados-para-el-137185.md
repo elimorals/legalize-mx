@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-obras-publicas-y-servicios-relacionados-para-el-137185"
 country: "mx"
 rank: "ley"
 publication_date: "2019-07-08"
-last_updated: "2019-07-08"
+last_updated: "2019-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección al Número 27 del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2019.
 
@@ -1053,6 +1053,10 @@ VIII. Los demás lineamientos que para el efecto se emitan.
 
 Los Sujetos de la Ley, podrán dentro del techo financiero autorizado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obra pública mediante convenios, siempre y cuando éstos, considerados conjunta o separadamente no rebasen el veinticinco por ciento del monto pactado originalmente en el contrato, ni impliquen variaciones substanciales al proyecto original. Igual tratamiento operará para efectos del plazo, cuya prórroga podrá exceder del ejercicio fiscal de que se trate; ambos podrán formalizarse de manera conjunta o separada, independientemente del porcentaje de cada supuesto.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+Si las modificaciones exceden el porcentaje indicado en el párrafo anterior, se podrán celebrar convenios adicionales entre las partes, en los cuales se consideren las nuevas condiciones, en los términos de los Artículos 17 y 21 de esta Ley. Estos convenios adicionales deberán ser autorizados bajo la responsabilidad del titular del Sujeto de la Ley.
+
 Dichas modificaciones no podrán, en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales del objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley.
 
 En caso de requerirse el convenio señalado en el párrafo segundo, se informará del mismo al Órgano Superior de Fiscalización del H. Congreso del Estado.
@@ -1640,3 +1644,13 @@ ELSA LUCÍA ARMENDÁRIZ SILVA
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 4 de julio de 2019.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 216.- ARTÍCULO ÚNICO: SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 65, RECORRIÉNDOSE LOS CUATRO PÁRRAFOS SUBSECUENTES EN SU ACOMODO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS PARA EL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
