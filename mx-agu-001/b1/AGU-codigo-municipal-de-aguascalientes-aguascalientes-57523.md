@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2019-09-30"
+last_updated: "2019-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE OCTUBRE DE 2019.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -9516,6 +9516,22 @@ IV.- El Secretario del H. Ayuntamiento y Director General de Gobierno.
 V.- El Secretario de Desarrollo Social.
 
 VI.- El Jefe de la Oficina Ejecutiva del Presidente Municipal.
+
+> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2019)</small>
+
+VII.- El Presidente del Consejo de la Ciudad.
+
+> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2019)</small>
+
+VIII.- Tres Ciudadanos que atiendan a la convocatoria para integrar el Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito, mayores de edad y que acrediten interés y conocimiento en áreas de seguridad y prevención del delito.
+
+> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2019)</small>
+
+IX.- Dos Ciudadanos expertos en prevención de adicciones.
+
+> <small>(F. DE E., P.O. 14 DE OCTUBRE DE 2019)</small>
+
+Los integrantes previstos en las fracciones VIII y IX, serán electos por el pleno del Cabildo previa Convocatoria que emita la Comisión Permanente de Seguridad Pública del H. Ayuntamiento, misma que será expedida dentro de los 30 días hábiles posteriores a la integración de la Comisión del ramo.
 
 Así mismo el Consejo Permanente para la Seguridad Ciudadana y Prevención del Delito; se conformará por los siguientes integrantes, quienes contaran con voz:
 
