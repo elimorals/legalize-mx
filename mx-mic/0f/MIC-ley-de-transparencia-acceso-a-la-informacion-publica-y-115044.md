@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transparencia-acceso-a-la-informacion-publica-y-115044"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-18"
-last_updated: "2019-08-22"
+last_updated: "2019-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115044&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MIC"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
 
-Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 18 de mayo de 2016.
+Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 18 de mayo de 2016.
 
 SILVANO AUREOLES CONEJO, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
@@ -1165,19 +1165,35 @@ De manera excepcional, cuando, de forma fundada y motivada, así lo determine el
 
 En todo caso se facilitara su copia simple o certificada, así como su reproducción por cualquier medio disponible en las instalaciones del sujeto obligado o que, en su caso, aporte el solicitante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 71.
 
-Cuando los detalles proporcionados para localizar los documentos resulten insuficientes, incompletos o sean erróneos, la Unidad de Transparencia podrá requerir al solicitante, por una sola vez y dentro de un plazo que no podrá exceder de cinco días, contados a partir de la presentación de la solicitud, para que, en un término de hasta diez días, indique otros elementos o corrija los datos proporcionados o bien, precise uno o varios requerimientos de información.
+Cuando los detalles proporcionados para localizar los documentos resulten insuficientes, incompletos o sean erróneos, la Unidad de Transparencia podrá requerir al solicitante, por una sola vez y dentro de un plazo que no podrá exceder de cinco días, contados a partir de la presentación de la solicitud, para que, en un término de hasta diez días hábiles, indique otros elementos o corrija los datos proporcionados o bien, precise uno o varios requerimientos de información.
 
 Este requerimiento interrumpirá el plazo de respuesta establecido en la presente Ley, por lo que comenzará a computarse nuevamente al día siguiente del desahogo por parte del particular. En este caso, el sujeto obligado atenderá la solicitud en los términos en que fue desahogado el requerimiento de información adicional.
 
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+El requerimiento formulado por el sujeto obligado, al que refiere el primer párrafo del presente artículo, no podrá por ningún motivo, realizarse con la finalidad de no proporcionar la información, evadir la obligación a través de simulaciones o interpretaciones forzadas respecto de la solicitud presentada por el solicitante, mediante preguntas que presuman la intención de no querer proporcionar la información, o que vaya en contra de forma manifiesta, a los principios rectores de la materia de acceso a la información.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+El solicitante podrá interponer recurso de revisión ante el Órgano del Estado garante, siempre que de la prevención o requerimiento realizado por el sujeto obligado, éste presuma que se formula con la finalidad de evadir la responsabilidad de proporcionar la información solicitada, o que dicha prevención sea contraria a los criterios establecidos por los órganos garantes de acceso a la información.
+
 La solicitud se tendrá por no presentada cuando los solicitantes no atiendan el requerimiento de información adicional. En el caso de requerimientos parciales no desahogados, se tendrá por presentada la solicitud por lo que respecta a los contenidos de información que no formaron parte del requerimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 72.
 
-Los sujetos obligados deberán otorgar acceso a los Documentos que se encuentren en sus archivos o que estén obligados a documentar de acuerdo con sus facultades, competencias o funciones en el formato en que el solicitante manifieste, de entre aquellos formatos existentes, conforme a las características físicas de la información o del lugar donde se encuentre así lo permita.
+Los sujetos obligados deberán otorgar acceso a los documentos que se encuentren en sus archivos o que estén obligados a documentar de acuerdo con sus facultades, competencias o funciones en el formato en que el solicitante manifieste, de entre aquellos formatos existentes, conforme a las características físicas de la información o del lugar donde se encuentre así lo permita. Los anexos de un documento se consideran parte integral del mismo. Por lo anterior, ante solicitudes de información relacionadas con documentos que incluyen anexos, los sujetos obligados deberán entregarlos, con excepción de aquellos casos en que el solicitante manifieste expresamente su interés de acceder únicamente al documento principal.
 
 En el caso de que la información solicitada consista en bases de datos se deberá privilegiar la entrega de la misma en Formatos Abiertos.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+Cuando los particulares presenten solicitudes de acceso a la información sin identificar de forma precisa la documentación que pudiera contener la información de su interés, o bien, la solicitud constituya una consulta, pero la respuesta pudiera obrar en algún documento en poder de los sujetos obligados, éstos deben dar a dichas solicitudes una interpretación que les otorgue una expresión documental, aun y cuando de la interpretación realizada por el sujeto obligado, se desprenda que se contiene la respuesta en diversos documentos, para lo cual deberá dar respuesta en los términos establecidos en la presente Ley.
 
 ###### Artículo 73.
 
@@ -1531,13 +1547,33 @@ El Pleno será la instancia directiva y la Presidencia la ejecutiva, por lo tant
 
 Para ser Comisionado se requiere:
 
-I. Ser ciudadano mexicano, con una residencia efectiva de cuando menos tres años en el Estado previos a su designación;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+I. Ser ciudadano mexicano con una residencia efectiva en el Estado de Michoacán, de cuando menos dos años, previos a su designación;
 
 II. Tener por lo menos treinta años de edad al momento de su elección;
 
 III. Haberse desempeñado en forma destacada en actividades sociales, profesionales o académicas relacionadas con el objeto de esta Ley;
 
-IV. No haber desempeñado un cargo de elección popular, ni haber sido Magistrado, Juez de Primera Instancia, Secretario del Despacho, Procurador General de Justicia, Director General o su equivalente de alguna de las entidades de la Administración Pública Estatal, Presidente de alguno de los organismos autónomos previstos en la Constitución, Dirigente de algún Partido o Asociación Política, ni Ministro de algún culto religioso durante los tres años previos al día de su designación; y,
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 14 DE OCTUBRE DE 2019)</small>
+
+IV. No haber desempeñado durante un año previo al día de su designación, alguno de los siguientes cargos:
+
+a) De elección popular;
+
+b) Magistrado;
+
+c) Juez;
+
+d) Fiscal General del Estado;
+
+e) Secretario, Director General o su equivalente, de alguna de las entidades de la Administración Pública Estatal;
+
+f) Presidente de alguno de los organismos autónomos previstos en la Constitución; salvo aquél que pretenda ser reelegido como Consejero del Instituto;
+
+g) Dirigente de algún partido o asociación política; o,
+
+h) Ministro de algún culto religioso.
 
 V. No haber sido condenado por delito doloso.
 
@@ -1931,6 +1967,8 @@ El solicitante podrá interponer, por sí mismo o a través de su representante,
 
 En el caso de que se interponga ante la Unidad de Transparencia, ésta deberá remitir el recurso de revisión al organismo garante que corresponda a más tardar al día siguiente de haberlo recibido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 136.
 
 El recurso de revisión procederá en contra de:
@@ -1957,9 +1995,17 @@ X. La falta de trámite a una solicitud;
 
 XI. La negativa a permitir la consulta directa de la información;
 
-XII. La falta, deficiencia o insuficiencia de la fundamentación y/o motivación en la respuesta; o,
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
 
-XIII. La orientación a un trámite específico.
+XII. La falta, deficiencia o insuficiencia de la fundamentación y/o motivación en la respuesta;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XIII. La orientación a un trámite específico; o,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XIV. Requerimiento de aclaración de la solicitud.
 
 La respuesta que den los sujetos obligados derivada de la resolución a un recurso de revisión que proceda por las causales señaladas en las fracciones III, VI, VIII, IX, X y XI es susceptible de ser impugnada de nueva cuenta, mediante recurso de revisión, ante el Instituto.
 
@@ -2183,6 +2229,8 @@ Además de las medidas de apremio previstas en el presente Capítulo, las leyes 
 
 ### CAPÍTULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 161.
 
 Es motivo de sanción:
@@ -2213,9 +2261,17 @@ XII. Clasificar como reservada, con dolo o negligencia, la información sin que 
 
 XIII. No desclasificar la información como reservada cuando los motivos que le dieron origen ya no existan o haya fenecido el plazo, cuando el Instituto determine que existe una causa de interés público que persiste o no se solicite la prórroga al Comité de Transparencia;
 
-XIV. No atender los requerimientos establecidos en la presente Ley, emitidos por el Instituto, o
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
 
-XV. No acatar las resoluciones emitidas por el Instituto, en ejercicio de sus funciones.
+XIV. No atender los requerimientos establecidos en la presente Ley, emitidos por el Instituto;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XV. No acatar las resoluciones emitidas por el Instituto, en ejercicio de sus funciones; o,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XVI. Los sujetos obligados, que promuevan prevenciones simuladas o utilicen estas de manera sistemática con la finalidad de evadir, eludir o hacer nugatorio el derecho de acceso a la información, así como que dicha prevención o negativa sea de forma manifiesta, contraria a los principios rectores del acceso a la información.
 
 La presente Ley establecerá los criterios para calificar las sanciones conforme a la gravedad de la falta, en su caso, las condiciones económicas del infractor y la reincidencia. Asimismo, contemplarán el tipo de sanciones, los procedimientos y plazos para su ejecución.
 
@@ -2332,3 +2388,9 @@ P.O. 22 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Las autoridades, entidades, órganos y organismos de los poderes Legislativo, Ejecutivo y Judicial o de los municipios, órganos autónomos, partidos políticos y demás autoridades, contempladas en el presente Decreto, tendrán un plazo de ciento ochenta días hábiles para publicar las remuneraciones brutas y netas, por medios impresos y electrónicos, donde de entre otros desgloses, se adicione un apartado por sexo y cargo desempeñado, ateniendo al principio de igualdad y no discriminación.
+
+P.O. 14 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 151.- ARTÍCULO ÚNICO.- SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCER Y CUARTO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 71; SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN TERCERO AL ARTÍCULO 72; SE REFORMAN LAS FRACCIONES I Y IV DEL ARTÍCULO 109 Y LOS ARTÍCULOS 136 Y 161, TODOS DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
