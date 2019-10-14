@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-erradicar-la-discriminacion-del-estado-8746
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-23"
-last_updated: "2017-07-31"
+last_updated: "2019-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87465&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2012.
 
@@ -57,9 +57,11 @@ Es obligación de los Poderes Ejecutivo, Legislativo y Judicial, Ayuntamientos y
 
 Esta Ley tiene por objetivo crear mecanismos para prevenir y erradicar cualquier tipo de discriminación en el Estado, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, los Tratados Internacionales de los que el Estado Mexicano es parte y de las leyes aplicables a la materia.
 
-###### ARTÍCULO 4º.
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
 
-En términos de esta Ley, queda prohibida en el Estado de Aguascalientes, toda forma de discriminación, entendiéndose como todo acto u omisión realizada por particulares, servidores públicos de los poderes ejecutivo, legislativo y judicial; ayuntamientos, organismos autónomos o cualquier entidad de los poderes públicos estatales o municipales que generen negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos fundamentales de las personas, minorías o grupos, con la intención o sin ella, por la acción u omisión, sin motivo o causa que sea racionalmente justificada, así como aquella basada en el origen étnico o social, la nacionalidad, características genéticas, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, opiniones, orientación sexual, género, estado civil, edad, apariencia física, ocupación o actividad, antecedentes penales o cualquier otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y libertades fundamentales y la igualdad real de oportunidades entre las personas.
+###### ARTÍCULO 4°.
+
+En términos de esta Ley, queda prohibida en el Estado de Aguascalientes, toda forma de discriminación, entendiéndose como todo acto u omisión realizada por particulares, servidores públicos de los poderes ejecutivo, legislativo y judicial; ayuntamientos, organismos autónomos o cualquier entidad de los poderes públicos estatales o municipales que generen negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos fundamentales de las personas, minorías o grupos, con la intención o sin ella, por la acción u omisión, sin motivo o causa que sea racionalmente justificada, así como aquella basada en el origen étnico o social, la nacionalidad, características genéticas, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, opiniones, orientación sexual, género, estado civil, edad, apariencia física, ocupación o actividad, antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por efecto impedir, anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos, libertades y la igualdad real de oportunidades de las personas.
 
 ###### ARTÍCULO 5º.
 
@@ -167,9 +169,11 @@ Cuando se presenten diferentes interpretaciones, se deberá preferir aquella que
 
 ### CAPÍTULO II. Medidas para Prevenir la Discriminación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 11.
 
-Los órganos públicos estatales y municipales, en el ámbito de sus competencias, llevarán a cabo, como mínimo, las siguientes medidas para prevenir la discriminación:
+Los órganos públicos estatales, municipales y órganos autónomos, en el ámbito de sus competencias, llevarán a cabo, como mínimo, las siguientes medidas para prevenir la discriminación:
 
 I. Difundir el contenido de la presente Ley, de los tratados y convenios internacionales que México ha suscrito en la materia;
 
@@ -180,6 +184,30 @@ III. Implementar la elaboración de programas en los niveles de educación bási
 IV. Establecer, a través de los medios de comunicación oficial, prácticas orientadas a erradicar la discriminación en los contenidos que los propios medios oficiales y privados difundan; y
 
 V. Establecer en los bandos de policía y gobierno, la prohibición de conductas discriminatorias.
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+VI. Promover acciones de información, sensibilización, concientización, capacitación y difusión dirigidas e integrantes del servicio público con el objetivo de visibilizar, combatir y erradicar actitudes discriminatorias;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+VII. Promover que todos los espacios e inmuebles públicos o que presente servicios al público en el Estado de Aguascalientes sean accesibles bajo el principio de diseño universal;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+VIII. Promover el uso de intérpretes de lengua de señas mexicana en los eventos públicos masivos de todas las dependencias gubernamentales y en los tiempos oficiales de televisión;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+IX. Promover la adaptación de los puestos de trabajo para personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+X. Promover una cultura de denuncia de las prácticas discriminatorias; y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XI. Proponer políticas públicas que permitan identificar, visibilizar, prevenir, atender y erradicar la discriminación.
 
 ###### ARTÍCULO 12.
 
@@ -394,3 +422,11 @@ P.O. 31 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 219.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 4° Y 11°, Y SE ADICIONA (SIC) AL ARTÍCULO 11° LAS FRACCIONES VI, VII, VIII, IX, X, Y XI, AMBOS DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
