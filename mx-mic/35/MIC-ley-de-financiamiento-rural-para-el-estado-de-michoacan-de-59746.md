@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-financiamiento-rural-para-el-estado-de-michoacan-de-5974
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-12"
-last_updated: "2019-08-28"
+last_updated: "2019-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 12 de febrero de 2008.
 
@@ -247,11 +247,15 @@ VII. La Comisión Estatal del Agua y Gestión de Cuencas del Estado de Michoacá
 
 Son atribuciones del Titular del Poder Ejecutivo del Estado, entre otras:
 
-I. Expedir, actualizar y difundir el Programa Estatal de Financiamiento Rural, con el propósito de definir, concertar, impulsar, coordinar y evaluar las acciones a realizar en materia de financiamiento rural;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+I. Expedir y actualizar el Programa Estatal de Financiamiento Rural, con el propósito de definir, concertar, impulsar, coordinar y evaluar las acciones a realizar en materia de financiamiento rural. Su difusión será anual y obligatoria, además deberá mandatar, se dé a conocer a través de la Secretaría y las oficinas, sucursales y ventanillas bancarias, en municipios y comunidades de alta y muy alta marginación que se instalen de conformidad con el artículo 10 de esta Ley;
 
 II. Fomentar la participación organizada de los actores rurales para la instrumentación, crecimiento y consolidación del Sistema Estatal;
 
-III. Proponer en el Presupuesto de Egresos Estatal los recursos que sean posibles para apoyar el financiamiento rural de manera sostenible;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+III. Proponer que en el Decreto que contiene el Presupuesto Anual de Egresos del Gobierno del Estado de Michoacán de Ocampo, sean suficientes y oportunos los recursos para apoyar el financiamiento rural de manera sostenible y, preferentemente, el monto del presupuesto asignado no debe ser inferior al otorgado en el ejercicio inmediato anterior.
 
 IV. Fomentar el financiamiento rural mediante convenios de coordinación con autoridades federales, de otras entidades federativas y municipales, entidades paraestatales y descentralizadas, instituciones crediticias y organizaciones no gubernamentales, para dar mayor certidumbre y soporte al Sistema Estatal, así como facilitar el cumplimiento de las atribuciones, materia de esta Ley y su Reglamento;
 
@@ -363,19 +367,25 @@ Podrá contarse con Comités Técnicos, integrados por servidores públicos y, e
 
 ## TÍTULO V. De las Operaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 26.
 
-Los lineamientos y políticas de operación en el Sistema Estatal facilitarán, que las organizaciones productivas, empresas y productores rurales se beneficien del financiamiento por vía del crédito, préstamos sin interés y subsidios, observando en cada caso, las características de la documentación requerida para la contratación, el monto de captación de aportaciones y el tipo de garantías que se requieren.
+Los lineamientos y políticas de operación en el Sistema Estatal facilitarán, que las organizaciones productivas, empresas y productores rurales se beneficien del financiamiento por vía del crédito, préstamos sin interés y subsidios. Se privilegiarán a los pequeños productores y agentes económicos con bajos ingresos, las zonas del Estado con menor desarrollo económico y social y los proyectos productivos que sean altamente generadores de empleo; observando en cada caso, las características de la documentación requerida para la contratación, el monto de captación de aportaciones y el tipo de garantías que se requieren.
 
 La Secretaría hará una amplia difusión de los servicios que presta y sus servidores públicos orientarán, apoyando a los solicitantes de créditos para las gestiones ágiles que se requieran realizar.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 27.
 
-Son sujetos de financiamiento las personas físicas o morales, legalmente constituidas con capacidad jurídica para contratar crédito dedicadas a actividades agropecuarias, forestales, pesqueras o a cualquier otra actividad económica vinculada al medio rural; que realicen aportaciones, cuenten con solvencia económica y moral, que aseguren la total recuperación del financiamiento con el aval de la representación regional a que correspondan.
+Son sujetos de financiamiento las personas físicas o morales, legalmente constituidas con capacidad jurídica para contratar crédito dedicadas a actividades agropecuarias, forestales, pesqueras o a cualquier otra actividad económica vinculada al medio rural, principalmente en los municipios con mayor emigración; que realicen aportaciones, cuenten con solvencia económica y moral, que aseguren la total recuperación del financiamiento con el aval de la representación regional a que correspondan.
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 28.
 
-Los sujetos deberán contar preferentemente con un nivel adecuado de garantías que soporten la total recuperación del financiamiento, que no reporten adeudos vencidos con instituciones de banca múltiple o de desarrollo ni que tengan claves de prevención en una sociedad de información crediticia. En su caso, el municipio o el Gobierno del Estado podrán aportar la garantía líquida y servir como aval en las operaciones crediticias; privilegiando el servicio a aquellos productores clasificados como de bajos ingresos, como una medida de minimización de riesgos.
+Los sujetos deberán contar preferentemente con un nivel adecuado de garantías que soporten la total recuperación del financiamiento, que no reporten adeudos vencidos con instituciones de banca múltiple o de desarrollo ni que tengan claves de prevención en una sociedad de información crediticia. En su caso, el Municipio o el Gobierno del Estado, podrán aportar la garantía líquida y servir como aval en las operaciones crediticias; privilegiando el servicio a aquellos productores clasificados como de bajos ingresos.
 
 ###### Artículo 29.
 
@@ -532,3 +542,9 @@ P.O. 28 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 147.- “ARTÍCULO NOVENO.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 43 DE LA LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 170.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 14 FRACCIONES I Y III, 26, 27 Y 28 DE LA LEY DE FINANCIAMIENTO RURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
