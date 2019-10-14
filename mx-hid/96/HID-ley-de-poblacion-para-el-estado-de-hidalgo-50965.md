@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2019-06-17"
+last_updated: "2019-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -185,7 +185,9 @@ II.- Contribuir a la consolidación de una cultura demográfica Estatal, que pro
 
 III.- Promover, orientar y desarrollar actitudes participativas, responsables y críticas tendientes a mejorar las condiciones de vida de los Habitantes;
 
-IV.- Realizar programas de planificación familiar, en coordinación y apoyo con los servicios de salud pública y los demás que disponga el sector público Federal, Estatal y Municipal, vigilando que dichos programas y los que realicen los organismos no Gubernamentales, se lleven a cabo con absoluto respeto a las Leyes, con el objeto de regular racionalmente y estabilizar el crecimiento de la Población;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+IV.- Realizar programas de salud sexual y reproductiva y planificación familiar, en coordinación y apoyo con los servicios de salud pública y los demás que disponga el sector público Federal, Estatal y Municipal, vigilando que dichos programas y los que realicen los organismos no Gubernamentales, se lleven a cabo con absoluto respeto a las Leyes, con el objeto de regular racionalmente y estabilizar el crecimiento de la Población;
 
 V.- Influir en la dinámica de Población a través de los sistemas educativos y de salud, por medio de la salud pública o técnica;
 
@@ -339,13 +341,45 @@ XI.- Promover la integración del varón y la mujer, de los jóvenes y de los ad
 
 XII.- Realizar actividades tendientes a lograr la adecuada integración de los núcleos de Población indígena, que exista en el Municipio procurando su adecuada inclusión al desarrollo económico del Estado.
 
-### CAPITULO VI. DE LA PLANIFICACION FAMILIAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO VI. DE LA SALUD SEXUAL, REPRODUCTIVA Y LA PLANIFICACIÓN FAMILIAR
+
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 25.
 
-El Consejo Estatal de Población y los Consejos Municipales, realizarán en coordinación con las Entidades y Dependencias competentes, acciones y eventos para la Población abierta sobre planificación familiar, igualdad jurídica de la mujer y del varón, responsabilidades familiares compartidas, organización legal y desarrollo de la familia.
+El Consejo Estatal de Población y los Consejos Municipales, en coordinación con las Entidades y Dependencias competentes realizarán acciones y eventos para la Población abierta sobre salud sexual y reproductiva, planificación familiar, igualdad jurídica de la mujer y del varón, responsabilidades familiares compartidas, organización legal y desarrollo de la familia.
+
+Adicionalmente promoverán el derecho de todas las personas a la toma de decisiones libres, responsables e informadas en los ámbitos de la sexualidad y reproducción, por medio de:
+
+I. Realizar acciones de información, educación y comunicación orientadas a proporcionar de manera oportuna, suficiente y veraz, los elementos que le permitan a las personas tomar las decisiones para el ejercicio de una sexualidad responsable y libre de riesgos y una reproducción elegida;
+
+II. El acceso a servicios de salud sexual y reproductiva, oportunos, integrales y de calidad;
+
+III. Promover el uso de los diferentes tipos de métodos anticonceptivos que respondan a las necesidades de la población;
+
+IV. Contribuir a eliminar barreras socioculturales e institucionales que dificultan el acceso de las personas a servicios de salud sexual y reproductiva;
+
+V. Promover el ejercicio efectivo de los derechos sexuales y los derechos reproductivos de todas las personas;
+
+VI. Promover y apoyar el marco legal y de políticas públicas de educación integral en la sexualidad, la salud sexual y reproductiva de la población en el ámbito de sus competencias;
+
+VII. Fortalecer las acciones de prevención del embarazo en población adolescente, y
+
+VIII. Las demás que establezcan las disposiciones jurídicas aplicables.
 
 La orientación se hará a través de grupos multidisciplinarios.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+Artículo 25 BIS.- Para los efectos de esta Ley, la salud sexual y reproductiva implica contar con las condiciones de bienestar físico y mental que permita ejercer sus derechos sexuales y reproductivos, los cuales están basados en el reconocimiento a todas las personas para:
+
+I. Decidir libre y responsablemente el número y el espaciamiento de los hijos, así como a disponer de la información y los medios para ello;
+
+II. Lograr un nivel más elevado de servicios de salud sexual y reproductiva, y
+
+III. Tomar decisiones relativas a la reproducción libre de discriminación, coacción o violencia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -492,3 +526,9 @@ P.O. 17 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 193 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 214 QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 11; LA DENOMINACIÓN DEL CAPÍTULO VI DE LA SALUD SEXUAL, REPRODUCTIVA Y LA PLANIFICACIÓN FAMILIAR; EL ARTÍCULO 25; Y SE ADICIONA EL ARTÍCULO 25 BIS DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
