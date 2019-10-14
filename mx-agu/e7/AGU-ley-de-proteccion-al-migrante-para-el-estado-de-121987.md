@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-al-migrante-para-el-estado-de-121987"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-19"
-last_updated: "2018-12-31"
+last_updated: "2019-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AL MIGRANTE PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de junio de 2017.
 
@@ -283,11 +283,17 @@ VI. Celebrar toda clase de acuerdos y convenios administrativos mediante los cua
 
 VII. Coadyuvar con el Gobierno Federal en la prevención y erradicación del tráfico de personas, la discriminación, la xenofobia y la explotación de personas migrantes por la delincuencia organizada;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
 
-VIII. Formular y aplicar políticas de atención a personas migrantes, para lo cual deberán asignarse las partidas presupuestales necesarias y suficientes para su operación; y
+VIII. Formular y aplicar políticas de atención a personas migrantes, para lo cual deberán asignarse las partidas presupuestales necesarias y suficientes para su operación;
 
-IX. Las demás que establezcan otras disposiciones legales y reglamentarias.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE OCTUBRE DE 2019)</small>
+
+IX. Dar guía, apoyo y seguimiento en los trámites de repatriación de cadáveres o restos humanos ante la Secretaría de Relaciones Exteriores, a familiares de personas migrantes fallecidas en el extranjero; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE OCTUBRE DE 2019)</small>
+
+X. Las demás que establezcan otras disposiciones legales y reglamentarias.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2018)</small>
 
@@ -546,3 +552,11 @@ P.O. 31 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 14 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 218.- ARTICULO ÚNICO.- SE REFORMAN LAS FRACCIONES VIII Y IX, Y SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 15, DE LA LEY DE PROTECCIÓN AL MIGRANTE PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
