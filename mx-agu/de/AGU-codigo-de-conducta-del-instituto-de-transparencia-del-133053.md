@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-conducta-del-instituto-de-transparencia-del-133053"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-01-21"
-last_updated: "2019-01-21"
+last_updated: "2019-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 14 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019 (ABROGADO).
 
 Código publicado en la Tercera Sección al Número 3 del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de enero de 2019.
 
@@ -144,3 +146,15 @@ COMISIONADA.
 Lic. Rubén Díaz López,
 
 COMISIONADO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO DE TRANSPARENCIA DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO. El presente Código de Conducta, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Se abroga el Código de Conducta del Instituto de Transparencia del Estado de Aguascalientes, publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de enero de 2019.
+
+TERCERO. Difúndase mediante los mecanismos previstos en el artículo 24 del Código de Ética del Instituto de Transparencia del Estado de Aguascalientes. Adicionalmente, las Reglas de Conducta, deberán colocarse en las instalaciones del ITEA de manera que estén a la vista de sus servidores públicos, así como de usuarios o visitantes, incluyendo la siguiente leyenda: "Cualquier acción u omisión contraria a las Reglas de Conducta, podrá denunciarse ante la Contraloría Interna del ITEA".
