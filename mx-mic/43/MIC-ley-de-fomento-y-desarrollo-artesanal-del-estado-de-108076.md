@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-y-desarrollo-artesanal-del-estado-de-108076"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-21"
-last_updated: "2017-04-12"
+last_updated: "2019-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
 
 Ley publicada en la Novena Sección del Periódico Oficial del Estado de Michoacán, el jueves 21 de mayo de 2015.
 
@@ -181,11 +181,19 @@ Corresponde a la Secretaría de Turismo, el ejercicio de las atribuciones siguie
 
 I. Contemplar la actividad artesanal y todo lo que derive de ella dentro de sus programas de promoción turística;
 
-II. Promover que en cada una de las regiones turísticas del Estado se cuente con un establecimiento donde se puedan exhibir, promocionar y comercializar las artesanías, preferentemente de la región o localidad de que se trate.
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
 
-Así mismo, dentro de los programas de promoción que se tengan contemplados anualmente en el ámbito local, nacional o internacional, se contemplará dentro de los atractivos del Estado a la artesanía michoacana; y,
+II. Promover que en cada una de las regiones turísticas del Estado, se cuente con un establecimiento donde se puedan exhibir, promocionar y comercializar las artesanías, preferentemente de la región o localidad de que se trate.
 
-III. Las demás que establezcan otras disposiciones legales o reglamentarias aplicables.
+Así mismo, dentro de los programas de promoción que se tengan contemplados anualmente en el ámbito local, nacional o internacional, se contemplará dentro de los atractivos del Estado a la artesanía michoacana;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+III. Promover entre los prestadores de servicios turísticos la adquisición de artesanías elaboradas por artesanos del Estado, para ser utilizadas con fines utilitarios y ornamentales en sus establecimientos, utilizando para tal fin, los catálogos elaborados por el Instituto del Artesano Michoacano; y,
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+IV. Los (sic) demás que establezcan otras disposiciones legales o reglamentarias aplicables.
 
 ### CAPÍTULO III. DEL INSTITUTO DEL ARTESANO MICHOACANO
 
@@ -538,3 +546,9 @@ Remítase el presente Decreto al Gobernador del Estado para su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 14 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 171 POR EL QUE “SE REFORMA LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN III, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 10 DE LA LEY DE FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
