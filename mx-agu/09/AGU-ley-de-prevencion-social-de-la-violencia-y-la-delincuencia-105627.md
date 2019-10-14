@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-1056
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-30"
-last_updated: "2015-01-30"
+last_updated: "2019-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
 
-Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el viernes 30 de enero de 2015.
+Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de enero de 2015.
 
 CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
 
@@ -195,9 +195,11 @@ El Secretario Ejecutivo del Sistema, contará con el personal administrativo nec
 
 El Centro Estatal es un organismo desconcentrado de la Secretaria de Seguridad Pública del Estado, cuyo objetivo es coordinar la política pública de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 15.
 
-Para el logro de los objetivos de esta Ley, se deberá utilizar la metodología y los mecanismos que permitan identificar y comprender las variables sociales en las (sic) vida de los ciudadanos y las instituciones públicas y privadas con el fin de identificar, cuestionar y valorar las causas que han provocado la violencia y la delincuencia en el Estado y sus Municipios; a efecto de emprender acciones que generen las condiciones de cambio que permitan a la ciudadanía desarrollarse en un ambiente armónico y seguro.
+Para el logro de los objetivos de esta Ley, se deberá utilizar la metodología y los mecanismos que permitan identificar y comprender las variables sociales en la vida de los ciudadanos y las instituciones públicas y privadas con el fin de identificar, cuestionar y valorar las causas que han provocado la violencia y la delincuencia en el Estado y sus Municipios; a efecto de emprender acciones que generen las condiciones de cambio que permitan a la ciudadanía desarrollarse en un ambiente armónico y seguro.
 
 ###### Artículo 16.
 
@@ -259,7 +261,9 @@ XIII. Evaluar la eficiencia y eficacia de las políticas públicas, programas y 
 
 XIV. Efectuar estudios comparativos de las estadísticas oficiales de criminalidad;
 
-XV. Promover entre las autoridades del Estado y de los Municipios del interior, la participación ciudadana y comunitaria en las tareas de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XV. Promover entre las autoridades del Estado y de los Municipios, la participación ciudadana y comunitaria en las tareas de Prevención Social de la Violencia y la Delincuencia, brindando especial atención en los sectores vulnerables e instituciones de educación tanto públicas como privadas.
 
 XVI. Garantizar el libre acceso de la población a la información estadística en materia de delito y de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
 
@@ -337,13 +341,17 @@ XLVI. Promover programas y políticas públicas en coordinación con las autorid
 
 XLVII. Fomentar la investigación científica y tecnológica para identificar los factores que generan las conductas antisociales;
 
-XLVIII. Promover ante las instituciones públicas, el establecimiento de políticas que aseguren la prevención social del delito, atención y protección de grupos vulnerables;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XLVIII. Promover ante las instituciones públicas, el establecimiento de políticas que aseguren la prevención social del delito, atención y protección de grupos vulnerables. Cuando las políticas se enfoquen en niños, niñas, y adolescentes, se deberá contemplar también a instituciones privadas;
 
 XLIX. Proponer en coordinación con las autoridades competentes, políticas para la prevención, atención, sanción y erradicación de la violencia, especialmente la ejercida contra las niñas y los niños, los jóvenes, las mujeres, los indígenas, y los adultos mayores;
 
 L. Promover políticas para la igualdad y equidad de género;
 
-LI. Realizar campañas para prevenir la violencia generada por el uso de armas, el abuso de drogas, y alcohol, entre otros problemas de relevancia social, en coordinación con las autoridades competentes en dichas materias y la sociedad civil;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+LI. Realizar campañas para prevenir la violencia generada por el uso de armas, el abuso de drogas, y alcohol, entre otros problemas de relevancia social, en coordinación con las autoridades competentes en dichas materias, autoridades educativas y las organizaciones de la sociedad civil;
 
 LII. Llevar a cabo campañas de prevención de violencia infantil y juvenil en coordinación con las autoridades competentes; y
 
@@ -530,3 +538,13 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 30 de enero de 2015.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 217.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 15; LAS FRACCIONES XV, XLVIII, Y LI DEL ARTÍCULO 19, DE LA LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
