@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2018-07-30"
+last_updated: "2019-10-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2019.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -107,9 +107,41 @@ VIII.- El respeto y reconocimiento de las diferencias;
 
 IX.- La normalización que busca, que las personas con discapacidad lleven una vida normal accediendo a los mismos bienes, servicios y ámbitos que están a disposición de cualquier persona;
 
-X.- La participación, tanto de las personas con discapacidad como de las organizaciones que las representan, para intervenir en la toma de decisiones que afecten sus condiciones de vida; y
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
 
-XI.- La transversalidad de políticas públicas en materia de discapacidad.
+X.- La participación, tanto de las personas con discapacidad como de las organizaciones que las representan, para intervenir en la toma de decisiones que afecten sus condiciones de vida;
+
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XI.- La transversalidad de políticas públicas en materia de discapacidad;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XII.- La equidad;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XIII.- La justicia social;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XIV.- El respeto a la evolución de las facultades de los niños y las niñas con discapacidad y de su derecho a preservar su identidad;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XV.- La participación e inclusión plenas y efectivas en la sociedad;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XVI.- El respeto por la diferencia y la aceptación de la discapacidad como parte de la diversidad y la condición humanas;
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XVII.- La igualdad entre mujeres y hombres con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+XVIII.- Los demás que resulten aplicables.
 
 ###### Artículo 4.
 
@@ -129,7 +161,9 @@ I.- Estado.- Poder Ejecutivo del Estado;
 
 II.- Sistema Estatal para la Integración Social de las Personas con Discapacidad.- Instituto que coordinará, asesorará, planeará, implementará y evaluará las políticas públicas, programas, acciones, modelos, servicios, campañas de difusión, dirigidos a erradicar la exclusión social de las personas con discapacidad;
 
-III.- Persona con discapacidad.- Toda aquélla que, por razones congénitas o adquiridas, presenta una o más deficiencias físicas, intelectuales, o sensoriales, sea de carácter permanente o temporal y que debido a las barreras creadas por el entorno social, ve limitada su participación, inclusión e integración a una o más de las actividades de la vida cotidiana;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+III.- Persona con discapacidad. Toda aquélla que, por razones congénitas o adquiridas, presenta una o más deficiencias físicas, intelectuales, sensoriales o mentales, sea de carácter permanente o temporal y que debido a las barreras creadas por el entorno social, ve limitada su participación, inclusión e integración a una o más de las actividades de la vida cotidiana;
 
 IV.- Accesibilidad.- Combinación de elementos constructivos y operativos que permiten a cualquier persona con discapacidad entrar, desplazarse, salir, orientarse y comunicarse con un uso seguro, autónomo y cómodo en los espacios construidos, en mobiliario y equipo;
 
@@ -197,15 +231,19 @@ XXVIII.- Trato preferencial: Atención prioritaria a las personas con discapacid
 
 ### CAPÍTULO III. DE LA DISCAPACIDAD
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 6.
 
 Modalidades de la discapacidad:
 
-I.- Discapacidad física: Se manifiesta a través de algunas deficiencias que obstaculizan o impiden realizar diferentes actividades cotidianas;
+I.- Discapacidad física: Es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-II.- Discapacidad intelectual: Se caracteriza por la disminución de las funciones mentales con un funcionamiento intelectual inferior al término medio de la población; y
+II.- Discapacidad intelectual: Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-III.- Discapacidad sensorial: Se manifiesta por medio de una alteración del funcionamiento en el área del cerebro encargada de controlar los sentidos.
+III.- Discapacidad sensorial: Es la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás; y
+
+IV.- Discapacidad mental: Es la alteración o deficiencia en el sistema neuronal de una persona, que aunado a una sucesión de hechos que no puede manejar, detona un cambio en su comportamiento que dificulta su pleno desarrollo y convivencia social, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás.
 
 ###### Artículo 7.
 
@@ -251,9 +289,11 @@ Las políticas creadas para la atención de las personas con discapacidad deber�
 
 La rehabilitación consiste en la prestación oportuna efectiva apropiada con calidad y eficiencia de los servicios de atención y ayudas técnicas dirigidas a lograr la recuperación de las personas con discapacidad, aminorar las secuelas resultantes de éstas, o bien, fomentar el desarrollo de las capacidades individuales de que disponen las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 16.
 
-La administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para garantizar a las personas con discapacidad, su rehabilitación integral a fin de mejorar, mantener o compensar sus deficiencias físicas, intelectuales o sensoriales.
+La administración Pública Estatal y Municipal, en el ámbito de sus respectivas competencias, realizarán las acciones necesarias para garantizar a las personas con discapacidad, su rehabilitación integral a fin de mejorar, mantener o compensar sus deficiencias físicas, intelectuales, sensoriales o mentales.
 
 ### CAPÍTULO IV. DE LA CAPACIDAD JURÍDICA Y DEL ESTADO
 
@@ -313,9 +353,11 @@ IV.- Ante la Comisión de Derechos Humanos del Estado de Hidalgo, las quejas que
 
 Los procesos por violación e incumplimiento de los derechos de las personas con discapacidad darán origen a la indemnización o reparación del daño, si ésta llega a acreditarse. Así mismo (sic), la Administración Pública adoptará las medidas que sean necesarias para poner fin a la violación del derecho de que se trate y prevenir violaciones ulteriores.
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 26.
 
-Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico Estatal, sin distinción de origen étnico, género, edad, condición social, religión, preferencias sexuales, estado civil o cualquier otra característica.
+Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico Estatal, sin distinción de origen étnico, género, edad, o un trastorno de talla, condición social, económica o de salud, religión, preferencias sexuales, estado civil, opiniones, embarazo, identidad política, lengua, situación migratoria o cualquier otro motivo u otra característica propia de la condición humana o que atente contra su dignidad.
 
 ###### Artículo 27.
 
@@ -393,9 +435,11 @@ V.- Coadyuvar en el financiamiento de prótesis, órtesis u otras ayudas funcion
 
 ### CAPÍTULO VII. DE LA EDUCACIÓN Y TRABAJO
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 36.
 
-Toda persona con discapacidad tiene derecho a asistir a una institución o centro educativo para obtener educación, instrucción, capacitación o formación; siendo obligación del Estado garantizar una política de fomento de la educación y del proceso educativo, adecuado para las personas con discapacidad.
+Toda persona con discapacidad tiene derecho a asistir a una institución o centro educativo para obtener educación, instrucción, capacitación o formación; siendo obligación del Estado garantizar una política de fomento de la educación y del proceso educativo, adecuado para las personas con discapacidad en los niveles de enseñanza básica, media y superior.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
@@ -407,11 +451,19 @@ La educación pública y la privada, será inclusiva, incorporando las innovacio
 
 La discapacidad no es impedimento para el ingreso de las personas a instituciones de educación básica, media y superior; así como tampoco la edad para el ingreso o permanencia de personas con discapacidad en dichas instituciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 39.
 
-La Administración Pública, garantizará el derecho de las personas con discapacidad a recibir educación, a través de las siguientes acciones:
+La Administración Pública, garantizará el derecho de las personas con discapacidad a recibir educación en los niveles de enseñanza básica, media y superior, a través de las siguientes acciones:
 
-I.- Establecer programas de becas, ayudas para desplazamiento, de los alumnos con discapacidad que cursen los niveles de enseñanza básica, media o superior;
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+I.- Impulsar la inclusión de las personas con discapacidad con las medidas de acción positiva en los niveles de enseñanza básica, media y superior, desarrollando y aplicando normas y reglamentos que eviten su discriminación, estableciendo condiciones de accesibilidad en instalaciones educativas, proporcionando los apoyos didácticos, materiales y técnicos con los ajustes razonables y contando con personal docente capacitado.
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+I Bis.- Establecer programas de becas, ayudas para desplazamiento, de los alumnos con discapacidad que cursen los niveles de enseñanza básica, media o superior.
 
 II.- Crear los mecanismos especiales y adaptación de programas a fin de facilitar el Ingreso a la educación formal o a la capacitación de las personas que, con motivo de su discapacidad, no hayan iniciado o concluido su escolaridad obligatoria;
 
@@ -425,13 +477,17 @@ V.- Garantizar el acceso de las personas sordas o con discapacidad auditiva a la
 
 VI.- Incluir programas permanentes relativos a las personas con discapacidad, en todos sus niveles y modalidades;
 
-> <small>(REFORMADA, P.O. 14 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
 
-VII.- Utilizar los medios técnicos, didácticos y nuevas tecnologías que faciliten el aprendizaje de las personas con discapacidad; y
+VII.- Utilizar los medios técnicos, didácticos y nuevas tecnologías que faciliten el aprendizaje de las personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2019)</small>
 
-VIII.- Promover la aplicación de sistemas, métodos, técnicas y materiales específicos que propicien la autosuficiencia de las personas con discapacidad.
+VIII.- Promover la aplicación de sistemas, métodos, técnicas y materiales específicos que propicien la autosuficiencia de las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 2019)</small>
+
+IX.- Otorgar las facilidades que garanticen la formación, capacitación y actualización profesional del cuerpo docente y personal de apoyo de los niveles de enseñanza básica, media y superior, que tendrán a su cargo a las y los alumnos con discapacidad, a fin de facilitar el proceso de su integración y permanencia educativa.
 
 ###### Artículo 40.
 
@@ -1076,3 +1132,9 @@ P.O. 30 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 462.- QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 4 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 216.- QUE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 3; LA FRACCIÓN III DEL ARTÍCULO 5; ARTÍCULO 6; ARTÍCULO 16; ARTÍCULO 26; ARTÍCULO 36; Y PÁRRAFO PRIMERO, FRACCIONES I, VII Y VIII DEL ARTÍCULO 39; Y ADICIONA LAS FRACCIONES XII A XVIII AL ARTÍCULO 3; Y LAS FRACCIONES I BIS Y IX AL ARTÍCULO 39 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
