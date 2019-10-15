@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-prevencion-y-gestion-integral-de-residuos-del-56633
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-12"
-last_updated: "2017-06-25"
+last_updated: "2019-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de julio de 2007.
 
@@ -173,6 +173,10 @@ XLII. Tratamiento: El procedimiento mecánico, físico, químico, biológico o t
 
 XLIII. Valorización: Todo procedimiento que permite el aprovechamiento de los recursos contenidos en los residuos, la recuperación del valor remanente o el poder calorífico de los materiales que componen los residuos mediante su reincorporación en procesos productivos bajo criterios de corresponsabilidad, manejo integral y eficiencia ambiental, tecnológica y económica sin poner en peligro la salud humana y sin utilizar métodos que puedan causar perjuicios al medio ambiente.
 
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLIV. Procuraduría Ambiental: Procuraduría de Protección al Ambiente del Estado de Durango;
+
 ###### Artículo 4.
 
 El Estado y los Municipios, ejercerán sus atribuciones en materia de prevención de la generación, aprovechamiento, gestión integral de los residuos, de prevención de la contaminación de sitios y su remediación, de conformidad con la distribución de competencias prevista en esta Ley y en otros ordenamientos legales.
@@ -203,7 +207,9 @@ V. Expedir conforme a sus respectivas atribuciones, los reglamentos y los ordena
 
 VI. Autorizar la administración de residuos de manejo especial, e identificar los que dentro de su territorio puedan estar sujetos a planes de manejo;
 
-VII. Verificar el cumplimiento de los instrumentos y disposiciones jurídicas referidas anteriores en materia de residuos de manejo especial e imponer sanciones y medidas de seguridad que resulten aplicables;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+VII. Verificar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de residuos de manejo especial e imponer sanciones y medidas de seguridad que resulten aplicables;
 
 VIII. Autorizar y llevar a cabo el control de los residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo establezcan los convenios que suscriban con la secretaría y con los municipios, conforme a lo dispuesto a éste ordenamiento;
 
@@ -245,9 +251,11 @@ XXVI. Convocar a Municipios e instituciones, según corresponda, para el desarro
 
 XXVII. Las demás que se establezcan en éste y otros ordenamientos jurídicos que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 6.
 
-Las atribuciones que esta ley confiere al Poder Ejecutivo del Estado serán ejercidas a través de la Secretaría, salvo las que directamente correspondan a otra autoridad por disposición expresa de la Ley.
+Las atribuciones que esta ley confiere al Poder Ejecutivo del Estado serán ejercidas a través de la Secretaría y la Procuraduría Ambiental, salvo las que directamente correspondan a otra autoridad por disposición expresa de la Ley.
 
 Cuando debido a las características de las materias objeto de esta Ley y de conformidad con la Ley Orgánica de la Administración Pública del Estado de Durango y otras disposiciones legales aplicables, se requiera de la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 
@@ -292,6 +300,38 @@ II. Incorporar en los planes y programas de ordenamiento territorial, ordenamien
 III. Requerir a las autoridades Municipales correspondientes, y a los grandes generadores de residuos de la Entidad, la presentación de la información necesaria para la elaboración de los diagnósticos básicos integrales que sustentarán la gestión de los mismos; y
 
 IV. Formular e instrumentar un programa maestro con enfoque regional e intermunicipal, para regular la creación de tiraderos de residuos a cielo abierto en todo el Estado
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 8 Bis.
+
+Son facultades del Poder Ejecutivo del Estado de Durango a través de la Procuraduría Ambiental:
+
+I. Verificar el cumplimiento de los instrumentos y disposiciones jurídicas en materia de residuos de manejo especial y rellenos sanitarios;
+
+II. Verificar y controlar el cumplimiento de las Normas Oficiales Mexicanas relativas al desempeño ambiental que deberá prevalecer en el manejo integral de residuos sólidos urbanos, de manejo especial y su disposición final;
+
+III. Inspeccionar y vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley, su reglamento y demás aplicables;
+
+IV. Atender y resolver las denuncias ciudadanas, presentadas conforme a lo que establece esta Ley, su reglamento y demás aplicables;
+
+V. Participar en el establecimiento y operación, en el marco del Sistema Nacional de Protección Civil y en coordinación con la federación, de un sistema para la prevención y control de contingencias y emergencias ambientales derivadas de la gestión de residuos de su competencia;
+
+VI. Promover la participación de los sectores privado y social en el diseño e instrumentación de acciones para prevenir la generación de residuos de manejo especial, y llevar a cabo su gestión integral adecuada, así como para la prevención de la contaminación de sitios con estos residuos y su remediación, conforme a los lineamientos de esta Ley, su reglamento y las normas oficiales mexicanas correspondientes;
+
+VII. Verificar el cumplimiento de las Normas Oficiales Mexicanas para prevenir la contaminación por residuos cuya disposición final pueda provocar salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de agua;
+
+VIII. Solicitar a las autoridades municipales, a los generadores y a las empresas de servicios de manejo, la información necesaria para el cumplimiento de las disposiciones;
+
+IX. La emisión de recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la Ley Estatal;
+
+X. Emitir las resoluciones que pongan fin al procedimiento de inspección y vigilancia, así como cualquier resolución, que sea necesaria de conformidad con la presente Ley;
+
+XI. Imponer las sanciones y medidas de seguridad que procedan de acuerdo con la normatividad aplicable
+
+XII. Clausurar y suspender las actividades, establecimientos o rellenos sanitarios o en su caso, solicitar la revocación y cancelación de las licencias o permisos, cuando se violenten los criterios y disposiciones de esta Ley y su Reglamento; y
+
+XIII. Las demás que se establezcan en este y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 9.
 
@@ -1035,11 +1075,63 @@ Al final de su vida útil, las instalaciones para la disposición final de los r
 
 Las áreas ocupadas por las celdas de confinamiento de los residuos, al igual que el resto de las instalaciones de los rellenos sanitarios, cerradas debidamente de conformidad con la normatividad aplicable, podrán ser aprovechadas para crear parques, jardines y desarrollo de otro tipo de proyectos compatibles con los usos del suelo autorizados en la zona, siempre y cuando se realice el monitoreo de los pozos construidos con tal fin, por un periodo no menor a 15 años posteriores al cierre de los sitios de disposición final de residuos.
 
-### CAPÍTULO I. CADENAS DE RECICLAJE
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO VII (SIC). DEL MANEJO Y CONTROL DE NEUMATICOS DESECHADOS
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 82 Bis.
+
+El presente capítulo regulara la disposición, control, reciclaje, disposición final y prohibiciones del manejo de neumáticos desechados.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 82 Ter.
+
+Queda prohibido en todo el territorio Estatal:
+
+I.- Almacenar neumáticos desechados en un establecimiento sin fines de los procesos de transformación a los que alude el artículo siguiente;
+
+II.- Desechar neumáticos en lotes baldíos, áreas verdes, vía pública, carreteras o cualquier sitio que no esté destinado a los procesos de transformación a los que alude el artículo siguiente;
+
+III.- Quemar neumáticos desechados a excepción de los procesos que se mencionan en este capítulo;
+
+IV.- Enterrar neumáticos; y
+
+V.- Depositar neumáticos en los rellenos sanitarios de los municipios.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 82 Quáter.
+
+La disposición final de los neumáticos desechados deberá de contar con un proceso de transformación, que podrán ser:
+
+I. Generación de asfalto;
+
+II. Generación de combustibles a través de la pirolisis;
+
+III. Granulación; y
+
+IV. Los demás que no pongan en riesgo el medio ambiente y la salud de la población.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 82 Quinquies.
+
+Los sitios de disposición final de los neumáticos desechados, deberán de cumplir con las disposiciones establecidas en esta Ley, Normas oficiales Mexicanas, Decretos, Guías o Manuales expedidos por autoridades ambientales.
+
+El almacenamiento de neumáticos desechados deberá realizarse separando por tamaño, volumen y peso, depositados en celdas especiales y apiladas en torres de 8 niveles como máximo y de los confinamientos de residuos de manejo especial. Dicho almacenamiento no debe durar más de 6 meses para iniciar su proceso de transformación.
+
+Los almacenadores o plantas de transformación de neumáticos desechados deberán de contar con las autorizaciones correspondientes. La Secretaría deberá de llevar un control y listado actualizado de los almacenadores o plantas de transformación.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+Artículo 82 Séxies.- La Procuraduría Ambiental vigilará y sancionará a los almacenistas o plantas de transformación, que incumplan con la legislación ambiental aplicable.
 
 ## TÍTULO SÉPTIMO. DE LOS PARTICULARES QUE INTERVIENEN EN EL MANEJO DE LOS RESIDUOS
 
-### CAPÍTULO II. DE LOS SUELOS CONTAMINADOS Y SU REMEDIACIÓN
+### CAPÍTULO I. CADENAS DE RECICLAJE
 
 ###### Artículo 83.
 
@@ -1085,7 +1177,7 @@ V. Contar con personal capacitado y continuamente actualizado; y
 
 VI. Contar, en su caso, con garantías financieras para asegurar que al cierre de las operaciones en sus instalaciones, éstas queden libres de residuos y no presenten niveles de contaminación que puedan representar un riesgo para la salud humana y el ambiente, cuando así se juzgue pertinente, por la dimensión de sus operaciones y el riesgo que éstas conlleven, o haya sido reglamentado.
 
-### CAPÍTULO I. MEDIDAS DE CONTROL Y DE SEGURIDAD
+### CAPÍTULO II. DE LOS SUELOS CONTAMINADOS Y SU REMEDIACIÓN
 
 ###### Artículo 86.
 
@@ -1111,23 +1203,29 @@ IV. Los procedimientos para llevar a cabo su remediación, cuando sea el caso. P
 
 ## TÍTULO OCTAVO. MEDIDAS DE CONTROL Y DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
-### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO I. MEDIDAS DE CONTROL Y DE SEGURIDAD
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 88.
 
-La Secretaría realizará los actos de inspección y vigilancia para el cumplimiento de las disposiciones contenidas en el presente ordenamiento, en materia de prevención y gestión integral de residuos e impondrá las medidas de seguridad y sanciones que resulten procedentes, de conformidad con lo que establece esta Ley, la Ley de Gestión Ambiental, la Ley General Ambiental y la Ley General de Residuos.
+La Procuraduría Ambiental realizará los actos de inspección y vigilancia para el cumplimiento de las disposiciones contenidas en el presente ordenamiento, en materia de prevención y gestión integral de residuos e impondrá las medidas de seguridad y sanciones que resulten procedentes, de conformidad con lo que establece esta Ley, la Ley de Gestión Ambiental Sustentable del Estado de Durango, la Ley Orgánica de la Procuraduría de Protección al Ambiente, la Ley General Ambiental y la Ley General de Residuos.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 89.
 
-El Estado llevará a cabo actividades de inspección y vigilancia relacionadas con microgeneradores de residuos peligrosos, cuando el municipio no tenga la infraestructura para realizar dichas actividades.
+La Procuraduría Ambiental llevará a cabo actividades de inspección y vigilancia relacionadas con micro generadores de residuos peligrosos, cuando el municipio no tenga la infraestructura para realizar dichas actividades.
 
 ###### Artículo 90.
 
 Sí como resultado de una visita de inspección se detecta la comisión de un delito, se deberá dar vista a la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 91.
 
-En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos peligrosos, la Secretaría, de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
+En caso de riesgo inminente para la salud o el medio ambiente derivado del manejo de residuos de manejo especial peligrosos, la Procuraduría Ambiental de manera fundada y motivada, podrá ordenar alguna o algunas de las siguientes medidas de seguridad:
 
 I.- La Clausura temporal o parcial de las fuentes contaminantes, así como de las exhalaciones en que se generan, manejen o dispongan finalmente los residuos peligrosos involucrados en los supuestos a los que se refiere este precepto;
 
@@ -1141,13 +1239,17 @@ V.- La estabilización o cualquier acción análoga que impida que los residuos 
 
 Tratándose de residuos peligrosos generados por microgeneradores, las medidas de seguridad a las que se hace referencia en este artículo, serán aplicadas por las autoridades del gobierno estatal y de los municipios.
 
-La Secretaría podrá promover ante la autoridad competente, la ejecución de cualquier medida de seguridad que se establezca en otros ordenamientos.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
-### CAPÍTULO III. DE LA REPARACIÓN DEL DAÑO
+La Procuraduría Ambiental podrá promover ante la autoridad competente, la ejecución de cualquier medida de seguridad que se establezca en otros ordenamientos.
+
+### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 92.
 
-Los infractores de la presente Ley o quienes induzcan directa o indirectamente a alguien a infringirla, independientemente de las responsabilidades civiles o penales correspondientes, serán sancionadas por la Secretaría de conformidad con los siguientes criterios:
+Los infractores de la presente Ley o quienes induzcan directa o indirectamente a alguien a infringirla, independientemente de las responsabilidades civiles o penales correspondientes, serán sancionadas por la Procuraduría Ambiental de conformidad con los siguientes criterios:
 
 I. Cuando los daños causados al ambiente se produzcan por actividades debidas a diferentes personas, la autoridad competente imputará individualmente esta responsabilidad y sus efectos económicos;
 
@@ -1157,9 +1259,11 @@ III. Cuando sean varios los responsables y no sea posible determinar el grado de
 
 La imposición de cualquier sanción prevista por la presente Ley, no excluye la responsabilidad civil o penal y la eventual indemnización o reparación de daños y perjuicios que puedan recaer sobre el sancionado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 93.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionados administrativamente por la Secretaría y los Ayuntamientos, en el ámbito de sus atribuciones, sin perjuicio de lo que otros ordenamientos aplicables establezcan, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella emanen, serán sancionados administrativamente por la Procuraduría Ambiental y los Ayuntamientos, en el ámbito de sus atribuciones, sin perjuicio de lo que otros ordenamientos aplicables establezcan, con una o más de las siguientes sanciones:
 
 > <small>(REFORMADA, P.O. 25 DE JUNIO DE 2017)</small>
 
@@ -1179,17 +1283,21 @@ IV. La reparación del daño ecológico; y
 
 V. El arresto hasta por treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 94.
 
-Cuando la gravedad de la infracción lo amerite, la Secretaría y los gobiernos de los municipios, en su ámbito de competencia, promoverán lo conducente ante las autoridades competentes a efecto de que se proceda a la revocación o cancelación de la concesión, permiso, licencia, y en general, de toda autorización otorgada para operar, funcionar, prestar servicios o aprovechar los recursos naturales.
+Cuando la gravedad de la infracción lo amerite, la Procuraduría Ambiental y los gobiernos de los municipios, en su ámbito de competencia, promoverán lo conducente ante las autoridades competentes a efecto de que se proceda a la revocación o cancelación de la concesión, permiso, licencia, y en general, de toda autorización otorgada para operar, funcionar, prestar servicios o aprovechar los recursos naturales.
 
 ###### Artículo 95.
 
 Las infracciones a lo dispuesto en esta Ley, que en el cuerpo de la misma no tuviere señalada una sanción, serán sancionadas a juicio fundado y motivado de las autoridades competentes atendiendo a lo que se señale en los reglamentos respectivos.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 96.
 
-Para la imposición de sanciones, la Secretaría oirá previamente en defensa a los que se presuman infractores.
+Para la imposición de sanciones, la Procuraduría Ambiental oirá previamente en defensa a los que se presuman infractores.
 
 ###### Artículo 97.
 
@@ -1207,7 +1315,9 @@ V. El beneficio directamente obtenido por el infractor por los actos que motiven
 
 VI. Cuando se trate de materias primas forestales maderables y no maderables, provenientes de aprovechamientos para los cuales no exista autorización.
 
-En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Secretaría o los gobiernos de los municipios, en el ámbito de sus respectivas competencias, impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Procuraduría Ambiental o los gobiernos de los municipios, en el ámbito de sus respectivas competencias, impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
 ###### Artículo 98.
 
@@ -1221,7 +1331,7 @@ En caso de que se expidan licencias, permisos, autorizaciones o concesiones cont
 
 En todo lo no previsto en el presente Título, la autoridad correspondiente se sujetará a lo dispuesto por el Código de Justicia Administrativa para el Estado de Durango.
 
-### CAPÍTULO IV. DEL RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. DE LA REPARACIÓN DEL DAÑO
 
 ###### Artículo 100.
 
@@ -1231,13 +1341,17 @@ Se establece la responsabilidad solidaria, independiente de toda falta, de los g
 
 La exención de responsabilidad sólo se producirá acreditando que, a pesar de haberse adoptado todas las medidas destinadas a evitarlos, y sin mediar culpa concurrente del generador u operador de instalaciones, los daños y perjuicios se produjeron por culpa exclusiva de la víctima o de un tercero por quien no se deba responder.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 102.
 
-La Secretaría y las autoridades municipales, según su ámbito de competencia, podrán ser subsidiariamente responsables, atendiendo a su capacidad financiera y presupuestaria, por los perjuicios ocasionados a los usuarios, y están en la obligación de accionar contra los administradores, funcionarios y concesionarios que sean responsables por dolo o culpa sin perjuicio de las sanciones penales a que haya lugar.
+La Procuraduría Ambiental y las autoridades municipales, según su ámbito de competencia, podrán ser subsidiariamente responsables, atendiendo a su capacidad financiera y presupuestaria, por los perjuicios ocasionados a los usuarios, y están en la obligación de accionar contra los administradores, funcionarios y concesionarios que sean responsables por dolo o culpa sin perjuicio de las sanciones penales a que haya lugar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 103.
 
-Todo servidor público está en la obligación de denunciar ante la Secretaría cualquier alteración del ambiente, de que tenga conocimiento en razón de su cargo. Los funcionarios públicos que deban velar por el cumplimiento de lo establecido en la normatividad ambiental vigente, incurrirán en responsabilidad solidaria en caso de omisión o incumplimiento de deberes, sin perjuicio de las responsabilidades que correspondan al amparo de la legislación vigente.
+Todo servidor público está en la obligación de denunciar ante la Procuraduría Ambiental cualquier alteración del ambiente, de que tenga conocimiento en razón de su cargo. Los funcionarios públicos que deban velar por el cumplimiento de lo establecido en la normatividad ambiental vigente, incurrirán en responsabilidad solidaria en caso de omisión o incumplimiento de deberes, sin perjuicio de las responsabilidades que correspondan al amparo de la legislación vigente.
 
 Además serán proporcionalmente responsables por los daños causados al ambiente en el tanto que les sean imputables.
 
@@ -1245,23 +1359,31 @@ Además serán proporcionalmente responsables por los daños causados al ambient
 
 La prescripción de las responsabilidades establecidas en este capítulo es de cinco años a partir de la realización del hecho.
 
-### CAPÍTULO V. DE LA DENUNCIA CIUDADANA
+### CAPÍTULO IV. DEL RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 105.
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, y disposiciones que de ella emanen, podrán ser impugnadas, mediante el recurso de inconformidad conforme a las reglas establecidas en el Código de Justicia Administrativa para el Estado de Durango.
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, y disposiciones que de ella emanen, podrán ser impugnadas, mediante el recurso de inconformidad conforme a las reglas establecidas en la Ley de Justicia Administrativa para el Estado de Durango.
 
 ###### Artículo 106.
 
 Los afectados por los actos y resoluciones de las autoridades administrativas que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán imponer el recurso de revisión o, cuando proceda, intentar la vía jurisdiccional que corresponda.
 
+### CAPÍTULO V. DE LA DENUNCIA CIUDADANA
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 107.
 
-Toda persona, atendiendo al procedimiento establecido en la Ley Estatal, podrá denunciar ante la autoridad competente, todo hecho, acto u omisión contrario a lo dispuesto en la presente Ley y demás ordenamientos jurídicos aplicables.
+Toda persona, atendiendo al procedimiento establecido en la Ley Estatal, podrá denunciar ante la autoridad competente, todo hecho, acto u omisión derivado del manejo inadecuado de Residuos que cause o pueda causar daños al ambiente, a la salud pública o que sea contrario a lo dispuesto en la presente Ley y demás ordenamientos jurídicos aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 108.
 
-Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Secretaría todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales derivados del manejo inadecuado de los residuos sólidos, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la misma.
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Procuraduría Ambiental todo hecho, acto u omisión que produzca o pueda producir desequilibrio ecológico o daños al ambiente o a los recursos naturales derivados del manejo inadecuado de los residuos sólidos, o contravenga las disposiciones de la presente Ley y de los demás ordenamientos que regulen materias relacionadas con la misma, para que sea procedente basta con los datos necesarios que permita localizar la fuente contaminante o identificar los hechos denunciados.
 
 ###### Artículo 109.
 
@@ -1275,7 +1397,37 @@ III. Los datos que permitan identificar al presunto infractor o localizar la fue
 
 IV. Las pruebas que el denunciante pueda ofrecer.
 
-Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Secretaría investigue de oficio los hechos constitutivos de la denuncia.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+Asimismo, podrá formularse la denuncia por vía telefónica, en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría Ambiental, investigue de oficio los hechos constitutivos de la denuncia.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 110.
+
+Recibida la denuncia se procederá a localizar la fuente contaminante, efectuar las diligencias necesarias para la comprobación y evaluar los hechos y notificar a quién presuntamente sea responsable de los mismos.
+
+La Procuraduría Ambiental recibirá todas las denuncias que se le presenten, turnará a la brevedad, los asuntos de competencia municipal, sin perjuicio de que solicite a ésta la información que se requiera para dar seguimiento a los hechos denunciados.
+
+En todo asunto, la Procuraduría Ambiental llevará un registro de las denuncias que se presenten.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 111.
+
+Cuando la denuncia se presentare ante el Municipio y sea de competencia Estatal de inmediato la hará del conocimiento de la Procuraduría Ambiental, pero antes adoptará las medidas necesarias si los hechos denunciados son de tal manera grave que pongan en riesgo el medio ambiente y la integridad física de la población.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 112.
+
+La Procuraduría Ambiental o las Autoridades Municipales, a más tardar dentro de los quince días hábiles siguientes a la presentación de la denuncia, harán del conocimiento del denunciante el trámite que se haya dado a aquélla y dentro de los treinta días hábiles siguientes, el resultado de la verificación de los hechos y medidas impuestas.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 113.
+
+Cuando las infracciones a las disposiciones de esta Ley hubieren ocasionado daños o perjuicios, él o los interesados podrán solicitar a la Procuraduría Ambiental o a las Autoridades Municipales la formulación de un dictamen técnico al respecto, el cual tendrá el valor de prueba, en caso de ser presentado en juicio.
 
 ## TRANSITORIOS
 
@@ -1338,3 +1490,15 @@ P.O. 25 DE JUNIO DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor el día primero de enero de 2018, mismo que será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 15 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 145.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La tramitación y resolución de los asuntos que se encuentren pendientes de resolución en la Secretaría, se concluirán de conformidad con las disposiciones vigentes al momento de haberse iniciado los procedimientos respectivos.
+
+CUARTO.- En un término de ciento veinte días deberán realizarse las adecuaciones reglamentarias correspondientes.
