@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-procuraduria-de-proteccion-al-ambiente-12598
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-31"
-last_updated: "2017-12-31"
+last_updated: "2019-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 31 de diciembre de 2017.
 
@@ -57,9 +57,11 @@ LEY ORGÁNICA DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE DURAN
 
 La presente Ley es de orden público e interés social y tiene por objeto crear y establecer la estructura, atribuciones y procedimientos correspondientes de la Procuraduría de Protección al Ambiente del Estado de Durango.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 2.
 
-La Procuraduría Ambiental, como autoridad ambiental, es un Organismo Público Descentralizado de la administración pública estatal, sectorizado a la Secretaría de Recursos Naturales y Medio Ambiente, con personalidad jurídica y patrimonio propio, con autonomía técnica y operativa, para vigilar y evaluar el cumplimiento de las obligaciones y disposiciones previstas en esta Ley, en la Ley de Gestión Ambiental Sustentable para el Estado de Durango, y demás disposiciones aplicables a fin de incrementar su observancia y contribuir al desarrollo sustentable del Estado.
+La Procuraduría Ambiental, como autoridad ambiental, es un Organismo Público Descentralizado de la administración pública estatal, sectorizado a la Secretaría de Recursos Naturales y Medio Ambiente, con personalidad jurídica y patrimonio propio, con autonomía técnica y operativa, para vigilar y evaluar el cumplimiento de las obligaciones y disposiciones previstas en esta Ley, en la Ley de Gestión Ambiental Sustentable para el Estado de Durango, y demás disposiciones jurídicas aplicables en materia ambiental, a fin de incrementar su observancia y contribuir al desarrollo sustentable del Estado.
 
 ###### Artículo 3.
 
@@ -84,6 +86,22 @@ IV. Procuraduría Ambiental: La Procuraduría de Protección al Ambiente del Est
 V. Reglamento: Reglamento de la Procuraduría Ambiental del Estado de Durango; y
 
 VI. Secretaría: Secretaría de Recursos Naturales y Medio Ambiente del Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+VII. Acción Precautoria: Imposición fundada y motivada que en cualquier momento realice la Procuraduría Ambiental para evitar o detener la consumación irreparable de las presuntas violaciones a los derechos ambientales de los habitantes del Estado de Durango, o en su caso, se lleven a cabo todas aquellas acciones tendientes a lograr la mitigación, restauración y reparación de los daños causados, según corresponda;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+VIII. Recomendación: Resolución emitida por la Procuraduría Ambiental dirigida a las dependencias, órganos desconcentrados y entidades de la administración pública estatal y municipal, que tiene el propósito de promover la aplicación y el cumplimiento de las disposiciones jurídicas en materia ambiental cuando se acrediten actos, hechos u omisiones que constituyan violaciones, incumplimiento o falta de aplicación de esas disposiciones o cuando las acciones de las autoridades correspondientes generen o puedan generar desequilibrio ecológico, daños o deterioro grave del ambiente y los recursos naturales del Estado de Durango;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+IX. Reconocimiento de Hechos: Las visitas que realice la Procuraduría Ambiental practicadas en los términos de la presente Ley, para constatar el cumplimiento de las disposiciones jurídicas en materia ambiental y los actos, hechos u omisiones, que generen o puedan generar desequilibrio ecológico; daños o deterioro grave del ambiente y los recursos naturales del Estado de Durango; y
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+X. Medida de Seguridad: La acción tendiente a impedir la contaminación ambiental con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES
 
@@ -111,7 +129,9 @@ IX. Emplazar o exhortar a las personas físicas y/o morales para resarcir los da
 
 X. Dictar resoluciones derivadas de los procedimientos jurídicos administrativos que instaure e imponer las sanciones administrativas correspondientes, de conformidad con lo establecido en la Ley y demás disposiciones aplicables;
 
-XI. Dar atención, trámite y respuesta fundada y motivada de las quejas y denuncias que se presenten y se ratifiquen ante la Procuraduría Ambiental y, en su caso, informar sobre los asuntos que no son de su competencia, y canalizarlos a la autoridad competente;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XI. Dar atención, trámite y respuesta fundada y motivada de las quejas y denuncias que se presenten y se ratifiquen ante la Procuraduría Ambiental y, en su caso, notificar al denunciante el resultado de los reconocimientos de hechos realizados y de las acciones que se hayan tomado para su atención, informar sobre los asuntos que no son de su competencia, y canalizarlos a la autoridad competente;
 
 XII. Vigilar el cumplimiento de las obligaciones previstas en materia forestal y de vida silvestre, en atención a las leyes, disposiciones e instrumentos jurídicos aplicables;
 
@@ -133,7 +153,45 @@ XX. La Procuraduría Ambiental promoverá la difusión de sus funciones y servic
 
 XXI. Celebrar convenios o acuerdos de colaboración y/o coordinación con autoridades federales, estatales y municipales, con el propósito de atender y resolver problemas ambientales comunes y ejercer sus atribuciones, atendiendo a lo dispuesto en las leyes que resulten aplicables; y
 
-XXII. Las demás que le confieran otros ordenamientos legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXII. Promover e impulsar los proyectos de leyes, reglamentos, decretos y acuerdos que sean competencia de la Procuraduría Ambiental;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXIII. Supervisar y evaluar el funcionamiento de las áreas que integran la Procuraduría Ambiental;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXIV. Colaborar con las autoridades competentes en la difusión de campañas dirigidas en materia de preservación y restauración del equilibrio ecológico y la protección del ambiente;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXV. Dar seguimiento y cumplimiento a los compromisos derivados de los instrumentos jurídicos internacionales de los que el Estado Mexicano sea parte en las materias de su competencia, de conformidad en lo previsto en el artículo 1° de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXVI. Elaborar el anteproyecto de presupuesto de egresos anual de la Procuraduría Ambiental, y turnarlo a la Junta de Gobierno; para el trámite de aprobación respectivo y enviarlo a la Secretaría de Finanzas y de Administración para su integración al presupuesto del Gobierno del Estado, conforme a lo establecido en la legislación local aplicable;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXVII. Ejercer en el ámbito de sus facultades, los derechos que asisten a víctimas u ofendidos de delitos, de conformidad con la normatividad aplicable, ante las autoridades administrativas y jurisdiccionales locales o federales en materia penal, respecto a los procesos y procedimientos relacionados con delitos ambientales o de cualquier otra índole que tenga un efecto negativo en el ambiente, protección y bienestar animal o que atenten directamente contra el patrimonio y seguridad de la Procuraduría Ambiental y su personal en el ejercicio de sus funciones; así mismo, fungir cuando sea requerido por autoridad competente como consultor técnico en los procesos y procedimientos penales;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXVIII. Formular y difundir estudios, reportes e investigaciones respecto del cumplimiento y aplicación de las disposiciones jurídicas en materia ambiental, así como de actos u omisiones, que generen o puedan producir desequilibrios ecológicos o daños a los ecosistemas de (sic) entidad o sus elementos;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXIX. Proponer a las dependencias y entidades de la administración pública, estatal y municipal, las modificaciones normativas o de procedimientos necesarias, para fortalecer la aplicación y el cumplimiento de la legislación ambiental aplicable en esta Entidad;
+
+> <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXX. Fomentar una cultura para el cumplimiento de las disposiciones jurídicas en materia ambiental. Para este propósito elaborará contenidos y materiales educativos a fin de ponerlos a disposición del público por los medios a su alcance; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXI. Las demás que le confieran otros ordenamientos legales.
 
 ###### Artículo 7.
 
@@ -261,27 +319,41 @@ II. Representar a la Procuraduría Ambiental legalmente y ejercer las funciones 
 
 III. Acordar e informar oportunamente al titular de la Secretaría, los asuntos que sean competencia de la Procuraduría Ambiental;
 
-IV. Realizar y cumplir eficazmente con las diligencias y gestiones que le sean encomendadas por el titular de la Secretaría;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
-V. Elaborar y someter a consideración de la Junta de Gobierno los manuales de organización y de procedimientos de la Procuraduría Ambiental;
+IV. Realizar y cumplir eficazmente con las diligencias y gestiones que le sean encomendadas por la Junta de Gobierno;
 
-VI. Emitir las resoluciones administrativas a las que se refiere esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+V. Elaborar y someter a consideración de la Junta de Gobierno los manuales de organización y de procedimientos de la Procuraduría Ambiental, para el desempeño de sus atribuciones;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+VI. Emitir las resoluciones administrativas y suscribir los acuerdos a los que se refiere esta Ley y demás disposiciones aplicables;
 
 VII. Aplicar las sanciones previstas en esta Ley y demás disposiciones aplicables, con motivo del incumplimiento de las disposiciones previstas en materia de equilibrio ecológico y protección al ambiente, que sean de su competencia;
 
-VIII. Recibir, acordar la admisión y el otorgamiento o negación de la suspensión del acto recurrido y turnando al titular de la Secretaría para su resolución definitiva, los recursos administrativos que se interpongan contra resoluciones y actos que emita con motivo de sus funciones;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+VIII. Recibir, acordar la admisión y el otorgamiento o negación de la suspensión del acto recurrido para su resolución definitiva y los recursos administrativos que se interpongan contra resoluciones y actos que emita con motivo de sus funciones;
 
 IX. Expedir copias certificadas de los documentos que obran en sus archivos sobre asuntos que competan a la Procuraduría Ambiental, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
-X. Presentar al Congreso del Estado y al titular de la Secretaría un informe anual sobre las actividades y avancen (sic) en materia de protección y preservación del equilibrio ecológico, que la Procuraduría Ambiental haya realizado en dicho periodo;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+X. Presentar ante la Junta de Gobierno un informe anual sobre las actividades y avances en materia de protección y preservación del equilibrio ecológico, que la Procuraduría Ambiental haya realizado;
 
 XI. Delegar mediante poder la representación de la Procuraduría Ambiental, en el titular de la Coordinación Jurídica y el personal que estime conveniente;
 
-XII. Someter a consideración del titular de la Secretaría el proyecto de Reglamento y las demás disposiciones que sean necesarias para el ejercicio de las funciones;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XII. Someter a consideración de la Junta de Gobierno el proyecto de Reglamento y las demás disposiciones que sean necesarias para el ejercicio de las funciones;
 
 XIII. La firma de acuerdos de coordinación, de colaboración administrativa, así como los convenios de concertación y demás instrumentos jurídicos en las materias de su competencia; y
 
-XIV. Las demás que establezca esta Ley, la Ley de Gestión Ambiental Sustentable para el Estado de Durango, las disposiciones jurídicas aplicables, y las que le encomiende directamente el titular de la Secretaría.
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XIV. Las demás que establezca esta Ley, la Ley de Gestión Ambiental Sustentable para el Estado de Durango, las disposiciones jurídicas aplicables, y las que le encomiende directamente la Junta de Gobierno.
 
 ###### Artículo 18.
 
@@ -311,7 +383,9 @@ VI. Proponer al Procurador Ambiental, la expedición de lineamientos internos, q
 
 VII. Apoyar técnicamente la desconcentración y la delegación de facultades en las unidades administrativas bajo su responsabilidad;
 
-VIII. Nombrar, previo acuerdo con su superior jerárquico, y remover a los servidores públicos de nivel inmediato inferior, en los términos de la legislación aplicable, así como planear, programar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas adscritas a la Coordinación correspondiente y proponer su reorganización, fusión o extinción conforme a las políticas que determine el Procurador Ambiental, y con apego a las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+VIII. Tramitar los nombramientos de los servidores públicos de la Procuraduría Ambiental que autorice el Titular de la Procuraduría, ante las instancias correspondientes y planear, programar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas adscritas a la Coordinación correspondiente y proponer su reorganización, fusión o extinción conforme a las políticas que determine el Procurador Ambiental, con apego a las disposiciones jurídicas aplicables;
 
 IX. Coordinar a las unidades administrativas a su cargo y establecer mecanismos de integración e interrelación para el correcto desempeño de sus atribuciones;
 
@@ -353,37 +427,53 @@ III. Brindar asesoría jurídica a las unidades administrativas de la Procuradur
 
 IV. Recibir de las unidades administrativas de la Secretaría que correspondan, los informes, dictámenes y demás actuaciones administrativas necesarias para instaurar todos los actos que conforman los procedimientos jurídico administrativos de inspección y vigilancia, para dar trámite y respuesta a las quejas y denuncias que se presenten, así como para emitir los acuerdos, oficios y demás actos administrativos que sean necesarios, con motivo de sus funciones de acuerdo a lo establecido en esta Ley y demás disposiciones aplicables;
 
-V. Notificar personalmente o por correo certificado con acuse de recibo, las actuaciones, documentos, constancias, resoluciones, informes y demás de naturaleza análoga, que se emitan en la Procuraduría Ambiental con motivo de sus funciones;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+V. Notificar personalmente, por correo certificado con acuse de recibo, o por estrados, las actuaciones, documentos, constancias, resoluciones, informes y demás de naturaleza análoga, que emita la Procuraduría Ambiental con motivo de sus funciones;
 
 VI. Denunciar ante el Ministerio Público, en función de la atribución prevista en la fracción I de este artículo, toda conducta que sea o pueda ser constitutiva de delito contra el medio ambiente y la gestión ambiental;
 
-VII. Elaborar y someter a aprobación de los titulares de la Secretaría y de la Procuraduría Ambiental, los lineamientos y bases legales para todos los documentos y formatos que se emitan en la unidad a su cargo;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+VII. Elaborar y someter a aprobación del titular de la Procuraduría Ambiental, los lineamientos y bases legales para todos los documentos y formatos que se emitan en la unidad a su cargo;
 
 VIII. Emitir las opiniones de carácter jurídico que le sean solicitadas por el Procurador Ambiental;
 
 IX. Proponer y participar en la elaboración y modificación de leyes, reglamentos, normas técnicas estatales y demás disposiciones en materia ambiental;
 
-X. Mantener bajo su resguardo y responsabilidad los documentos y archivos que se generen dentro de la unidad administrativa bajo su responsabilidad y certificar los documentos que obren en archivos de la Procuraduría Ambiental, en atención a esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+X. Mantener bajo su resguardo y responsabilidad los documentos y archivos que se generen en la Coordinación Jurídica y certificar los documentos que obren en archivos de la Procuraduría Ambiental, en atención a esta Ley y demás disposiciones aplicables.
 
 XI. Dar atención y trámite a los recursos administrativos que se presenten en contra de actos y resoluciones de la Procuraduría Ambiental; y
 
 XII. Las demás que establezca esta ley y demás disposiciones aplicables.
 
-### CAPÍTULO V. DE LA COORDINACIÓN DE INSPECCIÓN, VIGILANCIA Y AUDITORÍA AMBIENTAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO V. DE LA COORDINACIÓN DE INSPECCIÓN, VIGILANCIA Y AUDITORÍA SUSTENTABLE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 21.
 
-La Coordinación de Inspección, Vigilancia y Auditoría Ambiental de la Procuraduría, tendrá bajo su responsabilidad el ejercicio de las siguientes atribuciones:
+La Coordinación de Inspección, Vigilancia y Auditoría Sustentable de la Procuraduría, tendrá bajo su responsabilidad el ejercicio de las siguientes atribuciones:
 
 I. Emitir las opiniones de carácter técnico y pericial que le sean solicitadas por el Procurador Ambiental, con motivo de sus funciones;
 
-II. Determinar la imposición de medidas preventivas, correctivas y de mitigación que de acuerdo a sus conocimientos técnicos, a la estricta observancia de la ley y a la situación específica requieran aplicarse, para la prevención o reparación de daños al medio ambiente;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
-III. Brindar apoyo y asesoría técnica a la Coordinación Jurídica, así como a las demás unidades administrativas que así lo requieran, para el correcto desarrollo de las funciones que tengan encomendadas;
+II. Determinar la imposición de medidas preventivas, correctivas, de seguridad y de mitigación que de acuerdo a sus conocimientos técnicos, a la estricta observancia de la ley y a la situación específica requieran aplicarse, para la prevención o reparación de daños al medio ambiente;
+
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+III. Brindar apoyo y asesoría técnica a la Coordinación Jurídica, a las demás Coordinaciones y Unidades Administrativas que así lo requieran, para el correcto desarrollo de las funciones que tengan encomendadas;
 
 IV. Formular un plan integral que incluya las actividades necesarias para llevar a cabo la verificación a los establecimientos que se les hubiese iniciado un procedimiento jurídico administrativo de inspección y vigilancia, y someterlo a consideración y aprobación del Procurador Ambiental;
 
-V. Coordinarse con la Coordinación Jurídica y, en su caso, con las unidades administrativas de la Secretaría para llevar a cabo las visitas de inspección y verificación que se requieran con motivo de la presentación de quejas y denuncias y de los programas y acciones de gestión para la protección ambiental;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+V. Llevar a cabo las visitas de inspección y verificación que se requieran con motivo de la presentación de quejas y denuncias, de los programas y acciones de gestión para la protección ambiental en conjunto con la Coordinación Jurídica y, en su caso, con las unidades administrativas de la Procuraduría Ambiental;
 
 VI. Coordinarse con la Coordinación Jurídica para la determinación de la aplicación de sanciones administrativas, derivadas de la instauración de un procedimiento jurídico administrativo, atendiendo las circunstancias técnicas y jurídicas de la conducta cometida y de acuerdo a lo establecido por esta ley y demás disposiciones aplicables;
 
@@ -397,7 +487,9 @@ X. Ejecutar las acciones que le sean instruidas por el Procurador Ambiental; y
 
 XI. Las demás que establezca esta ley y demás disposiciones que sean aplicables.
 
-El personal adscrito a la Coordinación de Inspección, Vigilancia y Auditoría Ambiental, deberá siempre identificarse con las personas con quien se vaya a entender la diligencia, así mismo contar con el equipamiento personal para realizar sus acciones correspondientes.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+El personal adscrito a la Coordinación de Inspección, Vigilancia y Auditoría Sustentable, deberá identificarse con las personas con quienes se vaya a entender la diligencia y contar con el equipamiento adecuado para realizar las funciones correspondientes.
 
 ### CAPÍTULO VI. DE LA COORDINACIÓN ADMINISTRATIVA
 
@@ -503,7 +595,11 @@ El personal de la Procuraduría Ambiental, deberá estar debidamente identificad
 
 El personal de la Procuraduría Ambiental deberá de estar capacitado con conocimientos en materia de protección ambiental, con la finalidad de agilizar los procedimientos que se llevan a cabo en la Procuraduría Ambiental.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ## TÍTULO III. DE LOS PROCEDIMIENTOS
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -525,19 +621,27 @@ Cuando no sea posible proporcionar los informes o copias certificadas que solici
 
 Los servidores públicos que incumplan con lo previsto en el presente artículo, incurrirán en responsabilidad administrativa y se harán acreedores a las sanciones previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado y sus Municipios.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 30.
 
-Los procedimientos administrativos que inicie la Procuraduría Ambiental con motivo del ejercicio de sus funciones se sujetarán a lo dispuesto en la presente Ley y su Reglamento.
+Los procedimientos administrativos que inicie la Procuraduría Ambiental con motivo de las visitas de inspección, vigilancia, auditoría sustentable, de las denuncias o quejas que le sean turnadas, se sujetarán a lo dispuesto en la Ley de Gestión Ambiental Sustentable para el Estado de Durango, la presente Ley y su Reglamento.
 
-Para el desahogo de los procedimientos citados, se aplicarán supletoriamente las Leyes Ambientales y de Justicia Administrativa, el Código de Procedimientos Civiles y el Código de Procedimientos Penales, todos del Estado de Durango, en el orden citado.
+En lo referente a las Notificaciones se observará lo establecido en el Capítulo VIII del Título III de la presente Ley.
+
+Para el desahogo de los procedimientos citados, se aplicarán supletoriamente las Leyes Ambientales y de Justicia Administrativa, el Código de Procedimientos Civiles, todos del Estado de Durango y la legislación procesal penal aplicable, en el orden citado.
 
 ###### Artículo 31.
 
 En todos los casos que se requiera, la Procuraduría Ambiental levantará acta circunstanciada o un informe detallado de sus actuaciones.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 32.
 
-La formulación de denuncias, así como las resoluciones, recomendaciones y sugerencias que emita la Procuraduría Ambiental, no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
+La formulación de denuncias y la elaboración de los proyectos de resolución derivados de los procedimientos administrativos que se instauren y los vinculados con recursos administrativos de inconformidad, deberán ser aprobados por el Procurador.
+
+Las recomendaciones y sugerencias que emita la Procuraduría Ambiental, no afectarán el ejercicio de otros derechos y medios de defensa que puedan corresponder a los afectados conforme a las leyes, no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o caducidad. Esta circunstancia deberá señalarse a los interesados en el acuerdo de admisión de la instancia.
 
 ### CAPÍTULO II. DE LA DENUNCIA CIUDADANA
 
@@ -765,13 +869,17 @@ La auditoría ambiental es una vía voluntaria y diferente a las acciones de ins
 
 El personal adscrito a la Coordinación de Inspección, Vigilancia y Auditoría Ambiental, serán quienes de manera exclusiva proporcionarán la asesoría técnica y normativa necesaria a fin de fomentar la realización de auditorías ambientales en el sector productivo, de acuerdo a los instrumentos señalados en las Normas Oficiales Mexicanas o Normas Ambientales, de manera oficial y gratuita brindarán atención a cualquier duda, aclaración o comentario que surja derivado del proceso de obtención o renovación de un Certificado Ambiental.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 62.
 
-Las empresas que decidan someterse a una auditoría ambiental o renovar su certificado por diagnóstico ambiental, podrán elegir y contratar libremente los servicios de un Auditor Ambiental que se encuentre dentro del padrón de auditores aprobados por esta Procuraduría Ambiental.
+Las empresas que decidan someterse a una auditoría sustentable o renovar su certificado por diagnóstico ambiental, podrán elegir y contratar libremente los servicios de un Auditor que se encuentre dentro del Padrón de Auditores aprobado por la Procuraduría Ambiental.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 63.
 
-La Procuraduría Ambiental propondrán (sic) los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan estarán a disposición de quienes resulten o puedan resultar directamente afectados, respetando en todo caso, las disposiciones legales en relación con la confidencialidad de la información industrial y comercial.
+La Procuraduría Ambiental propondrá los programas preventivos y correctivos derivados de las auditorías sustentables, el diagnóstico básico del cual derivan estará a disposición de quienes resulten o puedan resultar directamente afectados, respetando en todo caso, las disposiciones legales en relación con la confidencialidad de la información industrial y comercial.
 
 ### CAPÍTULO V. DE LAS RECOMENDACIONES Y SUGERENCIAS
 
@@ -957,6 +1065,10 @@ Si una vez impuestas las sanciones manifestadas en la presente Ley y vencido el 
 
 En caso de reincidencia, el momento de la multa podrá ser hasta por dos veces el monto originalmente impuesto, sin exceder del doble del máximo permitido.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+Se considera reincidente al infractor que incurra más de una vez en conductas que impliquen infracciones a un mismo precepto, en un periodo de dos años, contados a partir de la fecha en que se levante el acta en que se hizo constar la primera infracción, siempre que ésta no hubiese sido desvirtuada.
+
 ###### Artículo 82.
 
 Se considerarán conductas violatorias a la presente ley, las siguientes:
@@ -1047,6 +1159,88 @@ Los Municipios, en la esfera de su competencia, regularán las sanciones adminis
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos y disposiciones que de ellas emanen, podrán ser impugnadas por los afectados por medio del recurso de inconformidad previsto en la Ley de Gestión Ambiental Sustentable para el Estado de Durango; o intentar el juicio de nulidad previsto en el de la Ley de Justicia Administrativa del Estado de Durango; el primero de estos, se interpondrá dentro del término de quince días hábiles siguientes a la fecha de la notificación ante la autoridad que emitió la resolución impugnada, la que, acordará sobre su admisión y el otorgamiento o negación de la suspensión del acto recurrido.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO IX. DE LAS NOTIFICACIONES
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 89.
+
+Las notificaciones que realice la Procuraduría Ambiental se harán:
+
+I. Personalmente o por correo certificado con acuse de recibo del Servicio Postal Mexicano, firmado por aquél con quien deba entenderse la diligencia, cuando:
+
+a) Se trate de la primera notificación en el asunto;
+
+b) Se requiera documentación o informes;
+
+c) Se trate de resoluciones o acuerdos que impongan una medida correctiva y/o de seguridad o una sanción;
+
+d) La autoridad lo estime necesario; y
+
+e) En los demás casos que disponga la ley;
+
+II. Mediante mensajería, correo ordinario o telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
+
+III. Por instructivo, solamente en los casos y con las formalidades a que se refiere el último párrafo del artículo 90 de este ordenamiento; y
+
+IV. Por lista en estrados, ubicados en las Oficinas de la Procuraduría Ambiental, cuando así lo señale la parte interesada o no señale domicilio para oír y recibir notificaciones o lo hubiere cambiado sin haber notificado a la Procuraduría Ambiental, o se trate de actos distintos a emplazamientos, citaciones, requerimientos y demás acuerdos o resoluciones que puedan ser impugnados.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 90.
+
+Las notificaciones personales se harán en el domicilio del interesado o en el último domicilio que la persona a quien se deba notificar haya señalado ante la autoridad en el procedimiento administrativo de que se trate. En todo caso, el notificador deberá cerciorarse de que sea el domicilio del interesado, identificándose en el acto con oficio o credencial con fotografía, expedida por el Procurador Ambiental, debiendo entregar junto con la copia del documento en el que conste el acto que se notifique, una copia del acta que levante en el momento de la diligencia y en la que se hagan constar en forma circunstanciada los hechos, la fecha y hora en que la notificación se efectúa, recabando el nombre y las firmas de las personas con quien se entienda la diligencia y la de dos testigos. Si el interesado se niega a firmar, se hará constar en el acta de notificación, sin que ello afecte su validez.
+
+Las notificaciones personales, se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que el interesado espere a una hora fija del día hábil siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato, a quien se entregará copia simple del acuerdo o resolución que se notifica, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio, haciéndose constar lo anterior en acta circunstanciada la que obrará en el expediente.
+
+Si la persona a quien haya de notificarse no atendiere el citatorio, la notificación se entenderá con cualquier persona con capacidad de ejercicio que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla o en su caso de encontrarse cerrado el domicilio, se realizará por instructivo que se fijará en un lugar visible del domicilio. De estas diligencias, el notificador asentará en el expediente, razón por escrito, debidamente circunstanciada.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 91.
+
+Las notificaciones personales y por estrados surtirán sus efectos al día siguiente en que hubieren sido realizadas.
+
+Se tendrá como fecha de notificación por correo certificado del Servicio Postal Mexicano o telegrama, la que conste en el acuse de recibo y surtirá efectos en esa misma fecha.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 92.
+
+Toda resolución o acto que se notifique deberá efectuarse en el plazo máximo de diez días, a partir de la emisión de la misma, anexando el texto íntegro del acto, el fundamento legal en que se basa, con la indicación de si es o no definitivo en la vía administrativa y, en su caso, la expresión del recurso que contra la misma proceda, el órgano ante el cual deberá presentarse y el plazo para su interposición.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO X. DE LAS MEDIDAS DE SEGURIDAD
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 93.
+
+En los casos de contaminación ambiental con repercusiones peligrosas para los ecosistemas, sus componentes o para la salud pública, la Procuraduría Ambiental, en el ámbito de sus atribuciones, podrá aplicar de inmediato las siguientes medidas de seguridad:
+
+I. Aislamiento de áreas o zonas;
+
+II. Destrucción, control y/o aseguramiento precautorio de objetos, instrumentos, productos, sustancias o residuos;
+
+III. Suspensión de trabajos, actividades o servicios, aseguramiento de productos y materias primas, bienes, vehículos y equipo con el objeto de garantizar el valor de sanciones administrativas;
+
+IV. Desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio que pueda representar algún peligro;
+
+V. Prohibición de actos de uso;
+
+VI. Clausura temporal, parcial o total de las fuentes contaminantes, así como de las instalaciones en que se desarrollen las actividades que den lugar a los supuestos a que se refiere el primer párrafo de esta (sic) artículo; y
+
+VII. Las medidas urgentes que, a criterio de la autoridad, puedan evitar que se causen o continúen causando daños y poniendo en riesgo el ambiente.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 94.
+
+Cuando se ordene cualquier medida de seguridad, prevista en esta Ley, deberá informársele al interesado sobre las acciones que debe realizar para subsanar las irregularidades que motivaron la imposición de dicha medida, los plazos para su corrección, para que una vez que se ha cumplido con dichas acciones se ordene el retiro de la medida de seguridad impuesta.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entra en vigor, a los treinta días posteriores de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
@@ -1090,3 +1284,17 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 146.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La resolución de los asuntos que se encuentren en trámite en la Secretaría se concluirá de conformidad con las disposiciones vigentes al momento de iniciarse dichos procedimientos.
+
+CUARTO.- En un término de ciento veinte días deberán realizarse las adecuaciones reglamentarias correspondientes.
