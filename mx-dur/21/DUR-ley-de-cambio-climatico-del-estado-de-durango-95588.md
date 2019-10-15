@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cambio-climatico-del-estado-de-durango-95588"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-07"
-last_updated: "2014-03-18"
+last_updated: "2019-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95588&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de julio de 2013.
 
@@ -63,49 +63,97 @@ II. Atlas de Riesgos: Expediente dinámico con colección de mapas a escala con 
 
 III. Cambio climático: Variación del clima atribuida directa o indirectamente a la actividad humana, que altera la composición de la atmósfera global, y que se suma a la variabilidad natural del clima observada durante períodos comparables;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
 IV. Capacidad de Adaptación: Combinación de las fortalezas y recursos disponibles al interior de una comunidad o una organización que puede reducir el nivel de riesgo o los efectos de un desastre, puede incluir medios físicos, institucionales, económicos o sociales, así como habilidades humanas;
 
-IV (SIC). Clima: Estado medio de los elementos meteorológicos de una localidad, considerado en un espacio largo de tiempo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-V. Comisión: La Comisión Intersecretarial de Cambio Climático del Estado de Durango, creada por Decreto administrativo de fecha 27 de octubre del 2011, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No 34 de fecha 27 de octubre de 2011;
+V. Clima: Estado medio de los elementos meteorológicos de una localidad, considerado en un espacio largo de tiempo;
 
-VI. Compuestos de efecto invernadero: Gases de efecto invernadero, sus precursores y partículas que absorben y emiten radiación infrarroja en la atmósfera;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-VII. Deforestación: Conversión de bosque a otro uso de la tierra o la reducción a largo plazo de la cubierta forestal por debajo del diez por ciento, según la Organización de las Naciones Unidas para la Agricultura y la Alimentación;
+VI. Comisión: La Comisión Intersecretarial de Cambio Climático del Estado de Durango, creada por Decreto administrativo de fecha 27 de octubre del 2011, publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No 34 de fecha 27 de octubre de 2011;
 
-VII (SIC). Degradación: Reducción del contenido de carbono en la vegetación natural, ecosistemas o suelos, debido a la intervención humana, con relación a la misma vegetación ecosistemas o suelos, si no hubiera existido dicha intervención.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-VIII. Efectos adversos del cambio climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
+VII. Compuestos de efecto invernadero: Gases de efecto invernadero, sus precursores y partículas que absorben y emiten radiación infrarroja en la atmósfera;
 
-IX. Eficiencia energética eléctrica: Es la relación entre los productos y los servicios finales obtenidos y la cantidad de energía consumida;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-X. Emisión: Liberación a la atmosfera de gases y/o compuestos de efecto invernadero, o sus precursores, en un área y en un espacio de tiempo específicos, originados de manera directa o indirecta por actividad humana;
+VIII. Deforestación: Conversión de bosque a otro uso de la tierra o la reducción a largo plazo de la cubierta forestal por debajo del diez por ciento, según la Organización de las Naciones Unidas para la Agricultura y la Alimentación;
 
-XI. Estado: Estado Libre y Soberano de Durango;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XII. Estrategia Estatal: Estrategia Estatal de Mitigación y Adaptación ante los Efectos del Cambio Climático;
+IX. Degradación: Reducción del contenido de carbono en la vegetación natural, ecosistemas o suelos, debido a la intervención humana, con relación a la misma vegetación ecosistemas o suelos, si no hubiera existido dicha intervención.
 
-XIII. Fuentes Emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero a la atmósfera;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XIV. Gases de Efecto Invernadero: Aquellos componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y re emiten radiación infrarroja, y que están incluidos en el "Anexo A" del Protocolo de Kyoto: Dióxido de carbono (CO2), Metano (CH4), Óxido nitroso (N2O), Hidrofluorocarbonos (HFC), Perfluorocarbonos (PFC) y Hexafluoruro de azufre (SF6);
+X. Efectos adversos del cambio climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
 
-XV. Ley: Ley de Cambio Climático del Estado de Durango;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXIII (SIC). Mitigación: Aplicación de políticas y acciones destinadas a reducir las emisiones de las fuentes, o mejorar los sumideros de gases y compuestos de efecto invernadero.
+XI. Eficiencia energética eléctrica: Es la relación entre los productos y los servicios finales obtenidos y la cantidad de energía consumida;
 
-XVII (SIC). Protocolo de Kyoto: Tratado internacional ligado a la Convención Marco de las Naciones Unidas sobre el Cambio Climático, que establece mecanismos y medidas para limitar o reducir las emisiones de gases de efecto invernadero;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XVIII. Riesgo: Probabilidad de que se produzca un daño en las personas, en uno o varios ecosistemas, originado por un fenómeno natural o antropógeno;
+XII. Emisión: Liberación a la atmosfera de gases y/o compuestos de efecto invernadero, o sus precursores, en un área y en un espacio de tiempos específicos, originados de manera directa o indirecta por actividad humana;
 
-XIX. Secretaría: Secretaría de Recursos Naturales y Medio Ambiente del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XX. Seguridad Alimentaria: Acceso físico y económico a suficientes alimentos inocuos y nutritivos, que satisfagan las necesidades alimentarias para desarrollar una vida activa y sana;
+XIII. Estado: Estado Libre y Soberano de Durango;
 
-XXI. Servicios ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXII. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero y o sus precursores en la atmósfera incluyendo en su caso, compuestos de efecto invernadero, y
+XIV. Estrategia Estatal: Estrategia Estatal de Mitigación y Adaptación ante los Efectos del Cambio Climático;
 
-XXXIV (SIC). Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XV. Fuentes Emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero a la atmósfera;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XVI. Gases de Efecto Invernadero: Aquellos componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y re emiten radiación infrarroja, y que están incluidos en el "Anexo A" del Protocolo de Kyoto: Dióxido de carbono (CO2), Metano (CH4), Óxido nitroso (N2O), Hidrofluorocarbonos (HFC), Perfluorocarbonos (PFC) y Hexafluoruro de azufre (SF6);
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XVII. Ley: Ley de Cambio Climático del Estado de Durango;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XVIII. Mitigación: Aplicación de políticas y acciones destinadas a reducir las emisiones de las fuentes, o mejorar los sumideros de gases y compuestos de efecto invernadero.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XIX. Procuraduría Ambiental: Procuraduría de Protección al Ambiente del Estado de Durango;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XX. Protocolo de Kyoto: Tratado internacional ligado a la Convención Marco de las Naciones Unidas sobre el Cambio Climático, que establece mecanismos y medidas para limitar o reducir las emisiones de gases de efecto invernadero;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXI. Riesgo: Probabilidad de que se produzca un daño en las personas, en uno o varios ecosistemas, originado por un fenómeno natural o antropógeno;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXII. Secretaría: Secretaría de Recursos Naturales y Medio Ambiente del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXIII. Seguridad Alimentaria: Acceso físico y económico a suficientes alimentos inocuos y nutritivos, que satisfagan las necesidades alimentarias para desarrollar una vida activa y sana;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXIV. Servicios ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXV. Sumidero: Cualquier proceso, actividad o mecanismo que retira de la atmósfera un gas de efecto invernadero y o sus precursores en la atmósfera incluyendo en su caso, compuestos de efecto invernadero, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXVI. Vulnerabilidad: Nivel a que un sistema es susceptible, o no es capaz de soportar los efectos adversos del Cambio Climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática a la que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
 
 ### CAPÍTULO II. DE LOS CRITERIOS GENERALES PARA LA DEFINICIÓN DE POLÍTICAS DE MITIGACIÓN Y ADAPTACIÓN
 
@@ -175,9 +223,17 @@ I. El Gobernador Constitucional del Estado;
 
 II. El titular de la Secretaría de Recursos Naturales y Medio Ambiente;
 
-III. El titular de la Dirección de Protección Civil del Estado; y
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
-IV. Las demás que con ese carácter señalen otros ordenamientos legales, en materia ecológica o ambiental.
+III. El titular de la Dirección de Protección Civil del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+IV. El titular de la Procuraduría de Protección al Ambiente del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+V. Las demás que con ese carácter señalen otros ordenamientos legales, en materia ecológica o ambiental.
 
 ###### ARTÍCULO 9.
 
@@ -471,13 +527,17 @@ IV. Concertar acciones e inversiones con los sectores social y privado con la fi
 
 ### CAPÍTULO X. DE LAS RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 32.
 
-La Secretaría será el órgano competente para realizar actos de fiscalización, inspección y vigilancia en las fuentes emisoras sujetas a reporte, para verificar la información proporcionada, así como su entrega en tiempo y forma, de acuerdo con las disposiciones reglamentarias que de esta Ley se deriven.
+La Procuraduría Ambiental será el órgano competente para realizar actos de fiscalización, inspección y vigilancia en las fuentes emisoras sujetas a reporte, para verificar la información proporcionada, su entrega en tiempo y forma, de acuerdo con las disposiciones reglamentarias que de esta Ley se deriven.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### ARTÍCULO 33.
 
-Cuando del procedimiento de inspección se desprendan infracciones a esta Ley en materia de los reportes de emisiones, la Secretaría procederá conforme a lo establecido en ella misma, en la Ley de Gestión Ambiental Sustentable para el Estado de Durango y la Ley de Justicia Fiscal y Administrativa del Estado.
+Cuando del procedimiento de inspección se desprendan infracciones a esta Ley en materia de reportes de emisiones, la Procuraduría Ambiental procederá conforme a lo establecido en la Ley de Gestión Ambiental Sustentable para el Estado de Durango y en la Ley de Justicia Administrativa del Estado.
 
 ###### ARTÍCULO 34.
 
@@ -499,13 +559,17 @@ Los servidores públicos a que se refiere el presente capítulo serán responsab
 
 Los servidores públicos encargados de la aplicación y vigilancia del cumplimiento de esta Ley se harán acreedores a las sanciones administrativas aplicables en caso de incumplimiento de sus disposiciones, de acuerdo con lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios y demás leyes aplicables, sin perjuicio de la responsabilidad civil y penal a que haya lugar.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 38.
 
-La inspección y vigilancia se llevará a cabo por personal autorizado, aplicando la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+La inspección y vigilancia se llevará a cabo por personal autorizado, aplicando la Ley Orgánica de la Procuraduría de Protección al Ambiente del Estado de Durango y la Ley de Gestión Ambiental Sustentable del Estado de Durango.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### ARTÍCULO 39.
 
-Las dependencias, servidores públicos, y la Comisión, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrán denunciar ante la Secretaría conductas que contravengan las disposiciones de la presente Ley.
+Las dependencias, servidores públicos, y la Comisión, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrán denunciar ante la Procuraduría Ambiental conductas que contravengan las disposiciones de la presente Ley.
 
 En caso de la presunta comisión de delitos, se dará parte al Ministerio Público.
 
@@ -513,11 +577,11 @@ En caso de la presunta comisión de delitos, se dará parte al Ministerio Públi
 
 ### CAPÍTULO XI. DEL RECURSO ADMINISTRATIVO
 
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### ARTÍCULO 40.
 
-Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales estatales relativas al cambio climático y disposiciones que de ella emanen, podrán ser impugnadas sin que se pruebe el interés jurídico, mediante el recurso que corresponda conforme a las disposiciones de la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, sus reglamentos, normas ambientales estatales relativas al cambio climático y disposiciones que de ella emanen, podrán ser impugnadas sin que se pruebe el interés jurídico, mediante el recurso que corresponda conforme a las disposiciones de la Ley de Justicia Administrativa del Estado de Durango, la Ley de Gestión Ambiental Sustentable del Estado de Durango, la Ley Orgánica de la Procuraduría de Protección al Ambiente del Estado de Durango, y demás leyes que resulten aplicables.
 
 ## ARTICULOS TRANSITORIOS
 
@@ -562,3 +626,13 @@ P.O. 18 DE MARZO DE 2014.
 Artículo Primero. El presente decreto entrará en vigor al día de su publicación.
 
 Articulo Segundo. Se derogan todas las disposiciones que convengan a las contenidas en el presente.
+
+P.O. 15 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 143.- QUE CONTIENE REFORMAS A LOS ARTÍCULOS 2, 8, 32, 33, 38, 39 Y 40, ASÍ COMO ADICIÓN AL ARTÍCULO 8, DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. En un término de ciento veinte días deberán realizarse las adecuaciones reglamentarias correspondientes.
