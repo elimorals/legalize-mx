@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2019-07-05"
+last_updated: "2019-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2019.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -1011,9 +1011,13 @@ Los asuntos generales que se presenten en reuniones de Comisión. En caso de con
 
 El orden del día de las Comisiones Legislativas Unidas no contendrá asuntos generales.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 93.
 
-Las reuniones de Comisiones serán públicas, pero podrán ser privadas si así lo acuerdan sus integrantes, considerando la naturaleza del asunto.
+Las reuniones de Comisiones serán públicas.
+
+De manera excepcional podrán ser privadas si así lo acuerdan sus integrantes de manera fundada y motivada, considerando la naturaleza del asunto.
 
 ###### Artículo 94.
 
@@ -3255,6 +3259,10 @@ XV. Los demás documentos oficiales que dispongan la Mesa Directiva y la Junta d
 
 El orden del día, las iniciativas, dictámenes, votos particulares, actas, minutas, proposiciones o acuerdos deberán publicarse en la Gaceta a más tardar, veinticuatro horas antes de la sesión en la que se presenten.
 
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+Lo anterior se aplicará en lo conducente a las Comisiones Legislativas.
+
 ## TÍTULO DUODÉCIMO. Servicio Civil de Carrera
 
 ###### Artículo 293.
@@ -3386,5 +3394,11 @@ Artículo sexto. Una vez integrado el Observatorio Ciudadano Legislativo, sesion
 P.O. 5 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NO. 92, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 15 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 100, APROBADO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DE FECHA 10 DE OCTUBRE DE 2019, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 93 Y SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 292 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
