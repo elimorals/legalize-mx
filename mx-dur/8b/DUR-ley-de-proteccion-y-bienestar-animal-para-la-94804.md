@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-y-bienestar-animal-para-la-94804"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-19"
-last_updated: "2017-03-05"
+last_updated: "2019-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 19 de mayo de 2013.
 
@@ -133,85 +133,169 @@ XIX. Autoridad Municipal: La dependencia de la Administración Pública Municipa
 
 XX. Bienestar Animal: Conjunto de condiciones ambientales que permiten a un Animal la adecuada satisfacción de las condiciones biológicas y ambientales que requiere para su desarrollo y comportamiento propio de su especie;
 
-XXI. Bioparque: Área geográfica ubicada en un amplio espacio natural con límites físicos donde se albergan diferentes especies de Animales para su exhibición y en algunos casos para convivencia con las Personas, con el fin de ofrecer oportunidades de aprendizaje e investigación sobre la relación entre todos los diferentes componentes de los ecosistemas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXII. Cautiverio: Falta de libertad o aprisionamiento al que es sometido un Animal de manera deliberada por parte de las Personas;
+XXI. Bioética: Estudio de los aspectos éticos de las ciencias de la vida, así como de las relaciones del hombre con los demás seres vivos.
 
-XXIII. Centro de Asistencia Canino y Felino: Los Centros de Atención Antirrábico y de Esterilización dependientes de las autoridades municipales;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXIV. Certificado de Garantía: Documento que establece la responsabilidad que asume el criador y/o proveedor frente al consumidor, en los términos y condiciones establecidos en el contrato por la comercialización de Animales;
+XXII. Bioparque: Área geográfica ubicada en un amplio espacio natural con límites físicos donde se albergan diferentes especies de Animales para su exhibición y en algunos casos para convivencia con las Personas, con el fin de ofrecer oportunidades de aprendizaje e investigación sobre la relación entre todos los diferentes componentes de los ecosistemas;
 
-XXV. Certificado de Salud: Documento mediante el cual se describe el estado normal de las funciones orgánicas de un Animal y en el que se asienta que el mismo se encuentra clínicamente sano, siendo emitido y avalado por un médico veterinario;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXVI. Cuidados Apropiados: Trato respetuoso hacia los Animales que comprende sus necesidades físicas, de espacio, alimentación, resguardo, y de acuerdo a las necesidades especificas de su especie, en los términos de las Normas Oficiales Mexicanas y otros ordenamientos legales aplicables;
+XXIII. Cautiverio: Falta de libertad o aprisionamiento al que es sometido un Animal de manera deliberada por parte de las Personas;
 
-XXVII. Encargado: Persona física o moral que sin ser Poseedor o Propietario de un Animal se encuentra a cargo del mismo temporalmente y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXVIII. Enfermedad: Ruptura del equilibrio en la interacción entre un Animal, un agente biológico y el medio ambiente, que provoca alteraciones en las manifestaciones vitales del primero;
+XXIV. Centro de Asistencia Canino y Felino: Los Centros de Atención Antirrábico y de Esterilización dependientes de las autoridades municipales;
 
-XXIX. Espacio Vital: Espacio mínimo que necesita un Animal para poder realizar sus actividades y desplegar comportamientos propios de su especie;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXX. Establecimiento: Local comercial, destinado a la exposición y venta de Animales o de servicio, y/o en el que se presten servicios para su cuidado, custodia temporal y/o adiestramiento;
+XXV. Certificado de Garantía: Documento que establece la responsabilidad que asume el criador y/o proveedor frente al consumidor, en los términos y condiciones establecidos en el contrato por la comercialización de Animales;
 
-XXXI. Esterilización de Animales: Cirugía o método realizado por un médico veterinario para evitar su reproducción, que son la castración para los machos y la ovariohisterectomía para las hembras;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXXII. Fenotipo: Cualquier característica o rasgo observable de un Animal tales como su morfología, desarrollo, fisiología y comportamiento;
+XXVI. Certificado de Salud: Documento mediante el cual se describe el estado normal de las funciones orgánicas de un Animal y en el que se asienta que el mismo se encuentra clínicamente sano, siendo emitido y avalado por un médico veterinario;
 
-XXXIII. Función Zootécnica: Las diversas funciones o trabajos que puede desarrollar un Animal de acuerdo a su especie o raza, en función de los intereses humanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXXIV. Guía Informativa: Documento elaborado por el proveedor de animales en donde se incluye la garantía; se informe y describa al comprador las características del Animal, Cuidados Apropiados y Espacio Vital, para el Bienestar del Animal y las demás obligaciones de esta Ley;
+XXVII. Cuidados Apropiados: Trato respetuoso hacia los Animales que comprende sus necesidades físicas, de espacio, alimentación, resguardo y de acuerdo a las necesidades específicas de su especie, en los términos de las Normas Oficiales Mexicanas y otros ordenamientos legales aplicables;
 
-XXXV. Humanitario: Característica del trato o acción que implica ser benigno o aliviar de una forma indolora las enfermedades que padece un Animal;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXXVI. Identificación: collar, placa, tatuaje o chip que contenga los datos que permitan identificar al propietario o tenedor responsable del animal;
+XXVIII. Encargado: Persona física o moral que sin ser Poseedor o Propietario de un Animal se encuentra a cargo del mismo temporalmente y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
 
-XXXVII. Insensibilización: Acto por el cual se le somete a un Animal inhibiendo toda respuesta a cualquier estímulo que provoque dolor o malestar;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XXXVIII. Ley: Ley de Protección y Bienestar Animal para la Sustentabilidad en el Estado de Durango;
+XXIX. Enfermedad: Ruptura del equilibrio en la interacción entre un Animal, un agente biológico y el medio ambiente, que provoca alteraciones en las manifestaciones vitales del primero;
 
-XXXIX. Ley de Gestión Ambiental: Ley de Gestión Ambiental Sustentable para el Estado de Durango;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XL. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, poner en peligro la vida del animal o afecten su salud y bienestar, así como la sobreexplotación de su trabajo.
+XXX. Espacio Vital: Espacio mínimo que necesita un Animal para poder realizar sus actividades y desplegar comportamientos propios de su especie;
 
-XLI. Médico Veterinario: Profesional al servicio de la salud de los animales que cuenta con los conocimientos científico-técnicos y ético-humanísticos dirigidos al mejoramiento de la calidad de vida de los animales y el desarrollo sustentable. Promueve y ejecuta acciones tendientes a la prevención, diagnóstico clínico terapéutica médica y quirúrgica y que cuenta con cédula profesional de médico veterinario zootecnista.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XLII. Personal capacitado: Son los médicos veterinarios y otros técnicos en materia de cuidado, atención, manejo y aprovechamiento animal, que presten sus servicios y que cuenten con constancia oficial de estudios avalada por las autoridades competentes;
+XXXI. Establecimiento: Local comercial, destinado a la exposición y venta de Animales o de servicio, y/o en el que se presten servicios para su cuidado, custodia temporal y/o adiestramiento;
 
-XLIII. Plan de contingencia: Instrumento que se deriva de un análisis de riesgo de un establecimiento, en donde se identifican aquellas amenazas naturales e inducidas que pueden afectar a la salud de los seres vivos estableciendo las contramedidas más adecuadas y las diferentes alternativas para su estancia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XLIV. Poseedor: Persona física o moral que, sin tener el título de propietario o sin ser Encargado, posee un Animal y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
+XXXII. Esterilización de Animales: Cirugía o método realizado por un médico veterinario para evitar su reproducción, que son la castración para los machos y la ovariohisterectomía para las hembras;
 
-XLV. Propietario: Persona física o moral que posee un Animal a título de dueño y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XLVI. Protocolo de Adopción: Lineamientos establecidos en conjunto por las asociaciones protectoras y los Ayuntamientos para entregar animales en adopción a personas que llenen los requisitos para tal fin;
+XXXIII. Fenotipo: Cualquier característica o rasgo observable de un Animal tales como su morfología, desarrollo, fisiología y comportamiento;
 
-XLVII. Refugio: Lugar que asemeja las condiciones naturales donde un Animal puede albergarse, morar y resguardarse de las inclemencias del clima;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-XLVIII. Riesgo Zoosanitario: Probabilidad de transmisión de enfermedades de los Animales a otros animales o al ser humano;
+XXXIV. Función Zootécnica: Las diversas funciones o trabajos que puede desarrollar un Animal de acuerdo a su especie o raza, en función de los intereses humanos;
 
-XLIX. Sacrificio Humanitario: Procedimiento realizado por un médico veterinario por el cual se provoca la muerte al Animal sin sufrimiento, ya sea por métodos físicos o químicos, sin que el Animal muestre signos de angustia, verificando que haya ocurrido la muerte del Animal en cuestión al constatar la ausencia de signos vitales;
+> <small>(REFORMADA Y REUBICADA P.O. 15 DE OCTUBRE DE 2019)</small>
 
-L. Sacrificio Humanitario de emergencia: Sacrificio necesario con métodos humanitarios que se practica en cualquier Animal que haya sufrido lesiones traumáticas o afecciones que le causen dolor y sufrimiento; o para aquellos Animales que al estar fuera de control puedan causar algún daño o lesión a las Personas u otros Animales;
+XXXV. Guía Informativa: Documento elaborado por el proveedor de animales en donde se incluye la garantía; se informe y describa al comprador las características del animal, cuidados apropiados y espacio vital, para el bienestar del animal y las demás obligaciones de esta Ley;
 
-LI. Secretaría: La Secretaría de Recursos Naturales y Medio Ambiente del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-LII. SAGDR: La Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado;
+XXXVI. Humanitario: Característica del trato o acción que implica ser benigno o aliviar de una forma indolora las enfermedades que padece un Animal;
 
-LIII. Tatuaje: Identificador numérico único y permanente tatuado sobre la piel de los animales y que tiene un registro en la SAGDR o en cualquier otra dependencia de la administración pública;
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
 
-LIV. Tenencia Responsable: Conjunto de derechos y responsabilidades de Personas físicas o morales que conlleva la propiedad, posesión o custodia de un animal, y el proporcionarle los cuidados apropiados y el espacio vital, para el bienestar animal;
+XXXVII. Identificación: Collar, placa, tatuaje o chip que contenga los datos que permitan identificar al propietario o tenedor responsable del animal;
 
-LV. Uncimiento: Acción de colocar los arreos, riendas y sillas a los Animales de carga, tiro o monta; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
 
-LVI. Vehículos de Tracción Animal: Carros, carretas, instrumentos de labranza o carretones que para su movilización requieren ser tirados o jalados por un Animal.
+XXXVIII. Insensibilización: Acto por el cual se le somete a un Animal inhibiendo toda respuesta a cualquier estímulo que provoque dolor o malestar;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XXXIX. Ley: Ley de Protección y Bienestar Animal para la Sustentabilidad en el Estado de Durango;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XL. Ley de Gestión Ambiental: Ley de Gestión Ambiental Sustentable para el Estado de Durango;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLI. Ley Orgánica de la Procuraduría: Ley Orgánica de la Procuraduría de Protección al Ambiente del Estado de Durango;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLII. Maltrato: Todo hecho, acto u omisión consciente o inconsciente que pueda ocasionar dolor, sufrimiento, poner en peligro la vida del animal o afecten su salud y bienestar, así como la sobreexplotación de su trabajo.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLIII. Médico Veterinario.- Profesional al servicio de la salud de los animales que cuenta con los conocimientos científico-técnicos y ético-humanísticos dirigidos al mejoramiento de la calidad de vida de los animales y el desarrollo sustentable. Promueve y ejecuta acciones tendientes a la prevención, diagnóstico clínico terapéutica médica y quirúrgica y que cuenta con cédula profesional de médico veterinario zootecnista.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLIV. Personal capacitado: Son los médicos veterinarios y otros técnicos en materia de cuidado, atención, manejo y aprovechamiento animal, que presten sus servicios y que cuenten con constancia oficial de estudios avalada por las autoridades competentes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLV. Plan de contingencia: Instrumento que se deriva de un análisis de riesgo de un establecimiento, en donde se identifican aquellas amenazas naturales e inducidas que pueden afectar a la salud de los seres vivos estableciendo las contramedidas más adecuadas y las diferentes alternativas para su estancia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLVI. Poseedor: Persona física o moral que, sin tener el título de propietario o sin ser Encargado, posee un Animal y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLVII. Procuraduría Ambiental: Procuraduría de Protección al Ambiente del Estado de Durango;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLVIII. Propietario: Persona física o moral que posee un Animal a título de dueño y es responsable del cumplimiento de esta Ley y de los daños y perjuicios que el Animal ocasione a terceros;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+XLIX. Protocolo de Adopción: Lineamientos establecidos en conjunto por las asociaciones protectoras y los Ayuntamientos para entregar animales en adopción a personas que llenen los requisitos para tal fin;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+L. Refugio: Lugar que asemeja las condiciones naturales donde un Animal puede albergarse, morar y resguardarse de las inclemencias del clima;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LI. Riesgo Zoosanitario: Probabilidad de transmisión de enfermedades de los Animales a otros animales o al ser humano;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LII. Sacrificio Humanitario: Procedimiento realizado por un médico veterinario por el cual se provoca la muerte al Animal sin sufrimiento, ya sea por métodos físicos o químicos, sin que el Animal muestre signos de angustia, verificando que haya ocurrido la muerte del Animal en cuestión al constatar la ausencia de signos vitales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LIII. Sacrificio Humanitario de emergencia: Sacrificio necesario con métodos humanitarios que se practica en cualquier Animal que haya sufrido lesiones traumáticas o afecciones que le causen dolor y sufrimiento; o para aquellos Animales que al estar fuera de control puedan causar algún daño o lesión a las Personas u otros Animales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LIV. Secretaría: La Secretaría de Recursos Naturales y Medio Ambiente del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LV. SAGDR: La Secretaría de Agricultura, Ganadería y Desarrollo Rural del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LVI. Tatuaje: Identificador numérico único y permanente tatuado sobre la piel de los animales y que tiene un registro en la SAGDR o en cualquier otra dependencia de la administración pública;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LVII. Tenencia Responsable: Conjunto de derechos y responsabilidades de Personas físicas o morales que conlleva la propiedad, posesión o custodia de un animal, y el proporcionarle los cuidados apropiados y el espacio vital, para el bienestar animal;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LVIII. Uncimiento: Acción de colocar los arreos, riendas y sillas a los Animales de carga, tiro o monta; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2019)</small>
+
+LIX. Vehículos de Tracción Animal: Carros, carretas, instrumentos de labranza o carretones que para su movilización requieren ser tirados o jalados por un Animal.
 
 Los términos definidos en este artículo podrán ser utilizados indistintamente en singular o plural, conforme a la presente Ley a fin de adecuarlos al sentido gramatical correspondiente, sin que por ello se pierda el significado otorgado en el presente artículo.
 
-(REPUBLICADO, P.O. 12 DE DICIEMBRE DE 2013)
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 4.
 
-En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley de Gestión Ambiental, la Ley de Salud del Estado de Durango, la Ley Ganadera para el Estado de Durango y demás leyes, reglamentos, normas y ordenamientos aplicables que no se opongan a la misma.
+En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria las disposiciones contenidas en la Ley de Gestión Ambiental, la Ley Orgánica de la Procuraduría de Protección al Ambiente del Estado de Durango, la Ley de Salud del Estado de Durango, la Ley Ganadera para el Estado de Durango y demás leyes, reglamentos, normas y ordenamientos aplicables que no se opongan a la presente.
 
 ### CAPÍTULO III. De las autoridades
 
@@ -221,15 +305,17 @@ En todo lo no previsto en la presente Ley, se aplicarán de manera supletoria la
 
 La aplicación de esta Ley corresponde:
 
-I. Al Poder Ejecutivo del Estado, a través de la Secretaría, SAGDR, la Secretaría de Salud, Secretaría de Educación y demás dependencias sanitarias del Estado, en el ámbito de sus respectivas competencias; y,
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+I. Al Poder Ejecutivo del Estado, a través de la Secretaría, a la Procuraduría Ambiental, a la SAGDR, a la Secretaría de Salud, a la Secretaría de Educación y demás dependencias sanitarias del Estado, en el ámbito de sus respectivas competencias; y,
 
 II. A los Municipios del Estado, por conducto de las dependencias que se determine en sus Reglamentos.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 6.
 
-La Secretaría, en coordinación con la Secretaría de Salud, la Secretaría de Educación, en el ámbito de sus respectivas competencias y con la participación de Asociaciones, difundirán por los medios apropiados el objeto, contenido, alcance, derechos y obligaciones de esta Ley, buscando implementar programas educativos en materia de bioconservación y de la tenencia responsable de Animales tendientes a fomentar el respeto, el cuidado, la protección y el trato digno y humanitario hacia los Animales.
+La Secretaría y la Procuraduría Ambiental, en coordinación con la Secretaría de Salud, la Secretaría de Educación, en el ámbito de sus respectivas competencias y con la participación de Asociaciones, difundirán por los medios apropiados el objeto, contenido, alcance, derechos y obligaciones de esta Ley, buscando implementar programas educativos en materia de bioconservación y de la tenencia responsable de Animales tendientes a fomentar el respeto, el cuidado, la protección y el trato digno y humanitario hacia los Animales.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -237,29 +323,55 @@ La Secretaría, en coordinación con la Secretaría de Salud, la Secretaría de 
 
 La Secretaría de Educación promoverá en el ámbito de su competencia, una cultura de respeto a los animales.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 8.
 
 Corresponde al Ejecutivo del Estado, a través de la Secretaría:
 
+I. Conformar y actualizar, conforme a la información que le proporcionen los Municipios, el registro estatal de Personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales que no sean destinados al consumo humano y, en general, de toda organización relacionada con la conservación y aprovechamiento sustentable de los Animales;
+
+II. Promover la creación de Centros de Control Animal ante los Ayuntamientos del Estado;
+
+III. Coadyuvar, con la autoridad competente, en la ejecución de las medidas zoosanitarias, de higiene y de buen funcionamiento para los establecimientos con animales;
+
+IV. Asesorar a las autoridades municipales que lo soliciten, sobre la adopción de políticas y acciones para el bienestar de los animales y la creación de centros de esterilización que dependan del mismo, con servicio gratuito o a bajo costo, y
+
+V. Ejercer las demás atribuciones que determine la presente Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 8 Bis.
+
+Corresponde al Ejecutivo del Estado, a través de la Procuraduría Ambiental:
+
+I. Crear Normas Técnicas Ambientales en la materia;
+
+II. Coadyuvar con el Ayuntamiento para la creación de la reglamentación aplicable;
+
+III. Vigilar el cumplimiento de las disposiciones legales aplicables para la protección y trato digno y respetuoso a los animales;
+
+IV. Vigilar los centros de asistencia canina y felina municipales que cuenten con lo establecido en las Normas;
+
+V. Denunciar ante la autoridad competente las faltas, omisiones o delitos cometidos en contra de los animales; y
+
+VI. Las demás establecidas en la legislación aplicable en la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 8 Ter.
+
+Corresponde al Ejecutivo del Estado, a través de la Secretaría y de la Procuraduría Ambiental:
+
 I. Fomentar y apoyar la creación de Sociedades, Asociaciones o Grupos de Protección de Animales;
 
-II. Conformar y actualizar, conforme a la información que le proporcionen los Municipios, el registro estatal de Personas físicas o morales dedicadas a la protección, crianza, reproducción, comercialización, vigilancia, entrenamiento, exhibición o cualquier otra actividad análoga relacionada con animales que no sean destinados al consumo humano y, en general, de toda organización relacionada con la conservación y aprovechamiento sustentable de los Animales;
+II. Promover campañas de difusión en materia de protección y respeto a los Animales;
 
-III. Promover campañas de difusión en materia de protección y respeto a los Animales;
+III. Celebrar convenios con la Federación, los municipios, otras Entidades Federativas, así como con organismos e instituciones de los sectores social, académico y privado, relacionados con la materia de la presente Ley;
 
-IV. Promover la creación de Centros de Control Animal ante los Ayuntamientos del Estado;
+IV. Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la Federación, en las materias de su competencia; y
 
-V. Celebrar convenios con la Federación, los municipios, otras Entidades Federativas, así como con organismos e instituciones de los sectores social, académico y privado, relacionados con la materia de la presente Ley;
-
-VI. Coadyuvar, con la autoridad competente, en la ejecución de las medidas zoosanitarias, de higiene y de buen funcionamiento para los establecimientos con animales;
-
-VIII (SIC). Vigilar el cumplimiento de las normas oficiales mexicanas expedidas por la Federación, en las materias de su competencia;
-
-IX. Asesorar a las autoridades municipales que lo soliciten, sobre la adopción de políticas y acciones para el bienestar de los animales y la creación de centros de esterilización que dependan del mismo, con servicio gratuito o a bajo costo, y
-
-X. Ejercer las demás atribuciones que determine la presente Ley y otros ordenamientos aplicables.
+V. Las demás establecidas en la legislación aplicable en la materia.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
 
@@ -683,11 +795,11 @@ Los Animales de Carga y Tiro en condiciones fisiológicas no aptas, como los des
 
 Los vehículos de tracción animal no podrán ser cargados con un peso mayor al doble del peso del Animal que se utilice para tirar, y se tendrá en cuenta las condiciones físicas y fisiológicas de los Animales que se empleen.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 51.
 
-El Estado a través de la Secretaría, los municipios y las Asociaciones diseñarán e implementarán un programa de substitución progresiva de los Animales de Carga y Tiro utilizados para actividades de trabajo.
+El Estado a través de la Secretaría, la Procuraduría Ambiental, los municipios y las Asociaciones, diseñarán e implementarán un programa de substitución progresiva de los Animales de Carga y Tiro, utilizados para actividades de trabajo.
 
 ### CAPÍTULO V. De la exhibición, de la pensión, Adiestramiento y del Albergue de Animales
 
@@ -1045,13 +1157,15 @@ El Estado y los Municipios promoverán y facilitarán la participación efectiva
 
 El Consejo Consultivo Ciudadano para la atención y bienestar de los Animales del Estado de Durango y los Consejos Ciudadanos Municipales, serán órganos de consulta y participación ciudadana con la finalidad de realizar acciones de promoción cultural, proponer líneas concretas de acción para la formulación de políticas públicas que sobre todo involucren medidas preventivas y de control ético de la fauna urbana.
 
-El Consejo Consultivo Ciudadano para la atención y bienestar de los Animales del Estado de Durango y los Consejos Ciudadanos Municipales funcionarán y se integrarán conforme a lo dispuesto por los propios Reglamentos que emitan la Secretaría y los Municipios.
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2013)</small>
+El Consejo Consultivo Ciudadano para la atención y bienestar de los Animales del Estado de Durango y los Consejos Ciudadanos Municipales, funcionarán y se integrarán conforme a lo dispuesto por los propios Reglamentos que emitan la Secretaría, la Procuraduría Ambiental y los Municipios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 85.
 
-En el ámbito de sus respectivas competencias, la Secretaría y las Autoridades Municipales, llevarán un registro de las Asociaciones y personas interesadas con quienes celebren convenios de colaboración, para el cumplimiento de ésta Ley.
+En el ámbito de sus respectivas competencias, la Procuraduría Ambiental y las Autoridades Municipales, llevarán un registro de las Asociaciones y personas interesadas, con quienes celebren convenios de colaboración, para el cumplimiento de esta Ley.
 
 En el marco de cooperación con las autoridades responsables de la ejecución y cumplimiento de la Ley, las Asociaciones y personas interesadas que suscriban convenios de colaboración, podrán:
 
@@ -1694,3 +1808,15 @@ SEGUNDO.- El valor de la Unidad de Medida y Actualización, será el publicado p
 TERCERO.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 15 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 144.- QUE CONTIENE REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Las Autoridades Municipales promoverán, en un plazo no mayor a 120 días a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, o bien, para emitir el reglamento municipal respectivo en caso de no contar con el mismo.
+
+CUARTO. En un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto, se realizarán las adecuaciones pertinentes al Reglamento que permitan la exacta observancia de la Ley, en las materias de su competencia.
