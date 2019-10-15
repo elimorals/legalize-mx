@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-677-en-materia-de-desaparicion-de-personas-para-1299
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-20"
-last_updated: "2019-03-20"
+last_updated: "2019-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY NÚMERO 677 EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE OCTUBRE DE 2019.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el lunes 20 de agosto de 2018.
 
@@ -949,13 +949,25 @@ VII. Solicitar la intervención de expertos o peritos independientes nacionales 
 
 VIII. Ser informados de forma diligente, sobre los resultados de identificación o localización de restos, en atención a los protocolos en la materia;
 
-IX. Acceder de forma informada y hacer uso de los procedimientos y mecanismos que emanen de la presente Ley, además de los relativos a la Ley General y los emitidos por el Sistema Nacional de Búsqueda;
+> <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2019)</small>
 
-X. Ser informados de los mecanismos de participación derivados de la presente Ley, además de los relativos a la Ley General y los emitidos por el Sistema Nacional de Búsqueda;
+IX. Ser exentados del pago del derecho por la prestación de los servicios de inhumaciones y refrendo de fosas, cuando se trate de los restos mortales de víctimas directas e indirectas de estos delitos, previa petición ante la autoridad municipal correspondiente.
 
-XI. Participar en los diversos espacios y mecanismos de participación de Familiares, de acuerdo a los protocolos en la materia, y
+(REUBICADA, G.O. 15 DE OCTUBRE DE 2019)
 
-XII. Acceder a los programas y servicios especializados que las autoridades competentes diseñen e implementen para la atención y reparación del daño producto de los delitos contemplados en la Ley General.
+X. Acceder de forma informada y hacer uso de los procedimientos y mecanismos que emanen de la presente Ley, además de los relativos a la Ley General y los emitidos por el Sistema Nacional de Búsqueda;
+
+(REUBICADA, G.O. 15 DE OCTUBRE DE 2019)
+
+XI. Ser informados de los mecanismos de participación derivados de la presente Ley, además de los relativos a la Ley General y los emitidos por el Sistema Nacional de Búsqueda;
+
+(REUBICADA, G.O. 15 DE OCTUBRE DE 2019)
+
+XII. Participar en los diversos espacios y mecanismos de participación de Familiares, de acuerdo a los protocolos en la materia, y
+
+(REUBICADA, G.O. 15 DE OCTUBRE DE 2019)
+
+XIII. Acceder a los programas y servicios especializados que las autoridades competentes diseñen e implementen para la atención y reparación del daño producto de los delitos contemplados en la Ley General.
 
 ### CAPÍTULO QUINTO. De la Protección de Personas
 
@@ -1274,5 +1286,13 @@ G.O. 20 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 117 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 60 DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y LA FRACCIÓN XVI DEL ARTÍCULO 103 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; SE ADICIONA EL ARTÍCULO 652 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE; Y DEROGAN LOS ARTÍCULOS 77, 78 Y 79 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 292 QUE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 73 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS, RECORRIÉNDOSE LAS SUBSECUENTES; SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 230 DEL CÓDIGO HACENDARIO MUNICIPAL, ASÍ COMO A DIVERSAS DISPOSICIONES DE LOS CÓDIGOS HACENDARIOS PARA LOS MUNICIPIOS DE ALVARADO, BOCA DEL RÍO, COATEPEC, COATZACOALCOS, CÓRDOBA, COSOLEACAQUE, EMILIANO ZAPATA, MEDELLÍN, MINATITLÁN, MISANTLA, PAPANTLA, ORIZABA, TIERRA BLANCA, VERACRUZ Y XALAPA, TODOS PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
