@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2017-12-01"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -897,6 +897,12 @@ ARTICULO 72 BIS.
 
 3. Podrán requerir información en los términos de este artículo, quienes sean titulares de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Estado, los subsecretarios o subprocuradores respectivamente, o aquellos funcionarios que sean autorizados para tal efecto por los titulares, mediante acuerdo general publicado en el Periódico Oficial del Gobierno del Estado, la información que obtengan será reservada conforme a los dispuesto en el artículo 28 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 72 TER.
+
+En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista.
+
 ###### ARTÍCULO 73.
 
 Se consideran servicios turísticos, los prestados a través de:
@@ -1052,6 +1058,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 1 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-307 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 57; Y SE ADICIONAN LOS ARTÍCULOS 54 BIS Y 54 TER DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1046 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 72 TER; A LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
