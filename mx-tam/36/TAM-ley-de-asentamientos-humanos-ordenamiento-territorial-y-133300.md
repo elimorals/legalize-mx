@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asentamientos-humanos-ordenamiento-territorial-y-133300"
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-05"
-last_updated: "2019-02-05"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 5 de febrero de 2019.
 
@@ -2199,7 +2199,9 @@ II. Constancia que acredite la personalidad jurídica;
 
 III. Copia del acuerdo de autorización de ventas inscrito en el Instituto Registral y Catastral;
 
-IV. Garantía equivalente al 20% del monto total de las obras de urbanización, con vigencia de tres dos (sic) años por vicios ocultos, que respalde la calidad de pavimentos, guarniciones, banquetas, redes de agua potable, sistema de alumbrado público, redes de alcantarillado, drenaje pluvial en su caso, áreas verdes y demás obras especiales solicitadas, la autoridad municipal definirá la forma de la garantía;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IV. Garantía equivalente al 20% del monto total de las obras de urbanización, con vigencia de tres años por vicios ocultos, que respalde la calidad de pavimentos, guarniciones, banquetas, redes de agua potable, sistema de alumbrado público, redes de alcantarillado, drenaje pluvial en su caso, áreas verdes y demás obras especiales solicitadas, la autoridad municipal definirá la forma de la garantía;
 
 V. Copias de los recibos del pago de las contribuciones correspondientes; y
 
@@ -2233,7 +2235,9 @@ a) Iniciar las obras de urbanización autorizadas;
 
 b) Celebrar contratos o convenios con terceros con el propósito de enajenar la propiedad de los diferentes lotes que componen el fraccionamiento; y
 
-c) Obtener la liberación de la garantía de cumplimiento otorgada y de los compromisos contraídos a cargo; en todo caso, subsistirá por tres dos (sic) años la garantía necesaria contra vicios ocultos de pavimento, guarniciones, banquetas, energía eléctrica, alumbrado público, agua potable, alcantarillado, y drenaje pluvial, áreas verdes y demás obras especiales solicitadas.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+c) Obtener la liberación de la garantía de cumplimiento otorgada y de los compromisos contraídos a cargo; en todo caso, subsistirá por tres años la garantía necesaria contra vicios ocultos de pavimento, guarniciones, banquetas, energía eléctrica, alumbrado público, agua potable, alcantarillado, y drenaje pluvial, áreas verdes y demás obras especiales solicitadas.
 
 ###### Artículo 169.
 
@@ -3367,9 +3371,11 @@ V. Exigir a los particulares, bajo el título de colaboración u otra semejante,
 
 VI. Coadyuvar con particulares o constituir en lo individual asentamientos humanos irregulares en predios que no reúnan las condiciones exigidas por esta Ley.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 276.
 
-A los servidores públicos que incurran en las violaciones descritas en el artículo anterior, se les sancionará de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, sin perjuicio de las responsabilidades de carácter penal o civil en que hubieren incurrido.
+A los servidores públicos que incurran en las violaciones descritas en el artículo anterior, se les sancionará de acuerdo a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, sin perjuicio de las responsabilidades de carácter penal o civil en que hubieren incurrido.
 
 ###### Artículo 277.
 
@@ -3586,3 +3592,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los treinta días del mes de enero del año dos mil diecinueve.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1039 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 165; INCISO C) FRACCIÓN II DEL ARTÍCULO 168 Y EL ARTÍCULO 276 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
