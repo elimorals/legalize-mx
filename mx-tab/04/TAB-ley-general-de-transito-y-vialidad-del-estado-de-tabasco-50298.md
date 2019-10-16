@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2019-08-07"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -305,9 +305,17 @@ I. Que sea apto física y mentalmente para conducir el vehículo que corresponde
 
 II. En los casos de personas con discapacidad que puedan conducir con las adaptaciones pertinentes a sus vehículos, la autoridad deberá asegurarse mediante perito o especialista en la materia, que el estado físico del solicitante no constituye un impedimento insalvable que ponga en riesgo la vida e integridad corporal del conductor, sus pasajeros y demás conductores y peatones que hagan uso de la vía pública;
 
-III. Que el solicitante sepa leer y escribir, que apruebe los exámenes físicos, (aptitud visual, auditiva y motriz), psicológicos, de manejo en tres modalidades (conducción en circuito de prueba o en área urbana de bajo riesgo, conducción en área urbana de tránsito medio y conducción nocturna); y de conocimiento sobre las disposiciones normativas de circulación en la vía pública y carreteras, prevención de accidentes de tránsito y naturaleza de las señales viales; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-IV. Una declaración bajo protesta de decir verdad sobre el padecimiento de afecciones a su salud.
+III. Que el solicitante sepa leer y escribir, que apruebe los exámenes físicos, (aptitud visual, auditiva y motriz), psicológicos, de manejo en tres modalidades (conducción en circuito de prueba o en área urbana de bajo riesgo, conducción en área urbana de tránsito medio y conducción nocturna); y de conocimiento sobre las disposiciones normativas de circulación en la vía pública y carreteras, prevención de accidentes de tránsito y naturaleza de las señales viales;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IV. Una declaración bajo protesta de decir verdad sobre el padecimiento de afecciones a su salud; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+V. La constancia de educación vial expedida por la Dirección de Ingeniería de Tránsito, Educación y Seguridad Vial de la Policía Estatal de Caminos o la Dirección de Tránsito Municipal de su residencia.
 
 ###### ARTÍCULO 21.
 
@@ -887,6 +895,8 @@ Los incidentes que ocurran entre vehículos de tracción mecánica, humana o ani
 
 ### Capítulo II. Medidas cautelares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 67.
 
 El procedimiento administrativo que de origen a la aplicación de sanciones por violaciones a esta ley, su reglamento y demás legislación aplicable en la materia, será el previsto en la legislación relativa vigente en el Estado.
@@ -895,15 +905,19 @@ El procedimiento administrativo que de origen a la aplicación de sanciones por 
 
 ###### ARTÍCULO 68.
 
-La autoridad en la materia deberá detener o retener según corresponda, en términos de ley, dando inmediato conocimiento a la autoridad competente Federal, Estatal o Municipal, en los siguiente (sic) casos;
+La autoridad en la materia deberá detener o retener según corresponda, en términos de esta Ley, haciendo de conocimiento inmediato a la autoridad competente federal, estatal o municipal, en los siguientes casos:
 
 I. A los conductores cuando:
 
-a) Sean sorprendidos en estado de intoxicación alcohólica, por estupefacientes u otra sustancia que disminuya las condiciones psicofísicas normales, o en su defecto ante la presunción de alguno de los estados anteriormente enumerados; se requiere al momento de la retención, comprobante médico o de dispositivo instrumento analizador de aliento o medidor etílico que acredite tal estado. La retención será por el tiempo necesario para recuperar el estado normal, misma que no deberá exceder de treinta y seis horas;
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+a) Sean sorprendidos en estado de intoxicación alcohólica, por estupefacientes u otra sustancia que disminuya las condiciones psicofísicas normales. Ante la presunción de alguno de los estados anteriormente mencionados, al momento de la retención se requiere comprobante médico o de dispositivo instrumento analizador de aliento o medidor etílico que acredite tal estado. La retención será por el tiempo necesario para recuperar el estado normal, misma que no deberá exceder de treinta y seis horas;
 
 b) En casos de flagrancia en la comisión de un delito; hasta que sean puestos a disposición de la autoridad competente; y
 
-c) Se den a la fuga habiendo participando (sic) en un accidente o habiendo cometido alguna infracción, por el tiempo necesario para llevar a cabo las actuaciones policiales y ministeriales correspondientes.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+c) Se den a la fuga habiendo participado en un accidente o habiendo cometido alguna infracción, por el tiempo necesario para llevar a cabo las actuaciones policiales correspondientes.
 
 II. Las licencias de conducir, cuando:
 
@@ -911,11 +925,25 @@ a) Estuvieren vencidas;
 
 b) No se ajusten a los límites de edad correspondientes;
 
-c) Hayan sido alteradas o surja una evidente violación a los requisitos exigidos en esa Ley y su Reglamento;
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-d) Sea evidente la disminución de las condiciones psicofísicas del titular, con relación a la exigible al serle otorgada; y
+c) Hayan sido alteradas, falsificadas o surja una evidente violación a los requisitos exigidos en esta Ley y su Reglamento;
 
-e) El titular se encuentre inhabilitado o suspendido para conducir.
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+d) Sea evidente la disminución de las condiciones físicas o mentales del titular, con relación a la exigible al serle otorgada;
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+e) El titular se encuentre inhabilitado o suspendido para conducir; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2019)</small>
+
+f) El titular haya cometido alguna de las faltas graves en materia de tránsito y vialidad a las que se refiere la fracción XII del artículo 74 de esta Ley, en cuyo caso la devolución estará supeditada al cumplimiento de la sanción impuesta por la autoridad correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE OCTUBRE DE 2019)</small>
+
+El procedimiento para la retención y en su caso, la devolución de la licencia se sujetará a lo dispuesto en el Reglamento de esta Ley.
 
 III. Los vehículos:
 
@@ -933,6 +961,8 @@ e) Que estando mal estacionados obstruyan la circulación o la visibilidad, los 
 
 f) Cuando hayan sido reportados como robados, debiendo poner al conductor del vehículo a disposición del Ministerio Público, a efecto de deslindar responsabilidades; y
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 16 DE OCTUBRE DE 2019)</small>
+
 g) Cuando no acrediten haber cumplido con las normas oficiales mexicanas y demás disposiciones que regulan el uso del gas L. P. como combustible, emitidas por las autoridades competentes en la materia.
 
 IV. Los objetos que impliquen riesgos en la vía pública o se encuentren abandonados;
@@ -941,7 +971,9 @@ V. La documentación de los vehículos particulares, de transporte de pasajeros 
 
 a) No cumplan con los requisitos exigidos por la normativa vigente;
 
-b) Esté alterada o no haya congruencia entre lo declarado y las condiciones reales del automotor;
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+b) Esté alterada, falsificada o no haya congruencia entre lo declarado y las condiciones reales del automotor;
 
 c) Se infrinjan normas referidas especialmente a la circulación de los mismos o su habilitación; y
 
@@ -1169,7 +1201,7 @@ Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el sa
 
 P.O. 7 DE AGOSTO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 112 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN X; 3, FRACCIÓN I, INCISO B); 4; 7; 35, PÁRRAFO PRIMERO; 37, PÁRRAFO SEGUNDO; 50, FRACCIONES IX Y X; 52, FRACCIÓN XXVIII; Y SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 2; UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 35, PASANDO EL ACTUAL SEGUNDO A SER CUARTO; LAS FRACCIONES XI Y XII, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 50; LAS FRACCIONES XXVIII BIS Y XXVIII TER, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 52; Y EL ARTÍCULO 68-A; TODOS DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO 112 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIÓN X; 3, FRACCIÓN I, INCISO B); 4; 7; 35, PÁRRAFO PRIMERO; 37, PÁRRAFO SEGUNDO; 50, FRACCIONES IX Y X; 52, FRACCIÓN XXVIII; Y SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 2; UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 35, PASANDO EL ACTUAL SEGUNDO A SER CUARTO; LAS FRACCIONES XI Y XII, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 50; LAS FRACCIONES XXVIII BIS Y XXVIII TER, Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 52; Y EL ARTÍCULO 68-A; TODOS DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco, salvo lo dispuesto en el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, el cual entrará en vigor a partir del 1 de enero de 2020.
 
@@ -1182,3 +1214,13 @@ CUARTO. Las Reglas de Carácter General para la aplicación de lo dispuesto en e
 QUINTO. Los sistemas a que se refiere el artículo 81-A de la Ley de Hacienda del Estado de Tabasco, deberán entrar en funcionamiento el 1 de enero de 2020.
 
 SEXTO. La Secretaría de Finanzas realizará las previsiones presupuestales necesarias para el cumplimiento de lo establecido en el presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 126 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 20, FRACCIONES III Y IV; Y 68; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 20, TODOS DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO. El titular del Poder Ejecutivo deberá emitir dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto, las adecuaciones conducentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
