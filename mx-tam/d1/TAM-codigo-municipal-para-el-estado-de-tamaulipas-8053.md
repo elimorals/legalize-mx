@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2019-08-20"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -452,6 +452,10 @@ Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán por l
 Las sesiones de los Ayuntamientos se convocarán con un mínimo de 24 horas de anticipación a la hora señalada para su inicio, las cuales serán públicas salvo que exista motivo que justifique que éstas sean privadas; las causas serán calificadas previamente por el Ayuntamiento.
 
 Las sesiones de los Ayuntamientos se celebrarán en la Sala de Cabildos, o cuando la necesidad del acto lo requiera, en el recinto previamente declarado oficial para tal objeto.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+Los Ayuntamientos que cuenten con servicio de internet, deberán transmitir sus sesiones públicas preferentemente en tiempo real, y en su caso en un término no mayor a 72 horas.
 
 ###### ARTICULO 44.
 
@@ -1077,9 +1081,13 @@ El Cronista Municipal será designado por el Ayuntamiento entre la terna propues
 
 Por la naturaleza de la labor, los cargos recaerán en individuos apartidistas.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-VIII.- Las demás establecidas en la ley y sus reglamentos.
+VIII.- Vigilar que las Sesiones Públicas de Cabildo, se graben en audio y video y se transmitan por las redes interconectadas denominadas "internet", dichas grabaciones se conservaran como parte de los archivos del Ayuntamiento.
+
+(REUBICADA [N. DE E. REFORMADA], P.O. 16 DE OCTUBRE DE 2019)
+
+IX.- Las demás establecidas en la Ley y sus reglamentos.
 
 ###### ARTICULO 69.
 
@@ -2991,9 +2999,11 @@ Por cada 6 días de trabajo disfrutará el trabajador de un día de descanso, cu
 
 Serán días de descanso obligatorio los que señale el calendario oficial y el aniversario del sindicato.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 219.
 
-Las mujeres disfrutarán de 45 días de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros 45 días después del mismo. En el período de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos.
+Las mujeres disfrutarán de 45 días de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros 45 días después del mismo. En el periodo de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, para lo cual, en las instalaciones municipales se habilitarán los espacios para este efecto.
 
 ###### ARTICULO 220.
 
@@ -3084,6 +3094,10 @@ VI.- Establecer cursos de capacitación en administración pública, conforme a 
 VII.- Proporcionar al trabajador los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido.
 
 VIII.- Proporcionar de acuerdo a su capacidad económica los servicios de seguridad social a los trabajadores.
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IX.- Adecuar las instalaciones municipales para que las mujeres puedan alimentar a sus hijos lactantes.
 
 ### CAPITULO IX. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES AL SERVICIO DEL AYUNTAMIENTO
 
@@ -6242,3 +6256,23 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIII-1022 MEDIANTE EL CUAL SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 43, Y UNA FRACCIÓN VIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA ACTUAL PARA SER FRACCIÓN IX, DEL ARTÍCULO 68, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos, dispondrán de un término de 180 días, contados a partir del inicio de vigencia del presente Decreto, para implementar el sistema de transmisión por el internet y grabación en video y audio, de las sesiones de Cabildo.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-1042 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 219 Y SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 228 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
