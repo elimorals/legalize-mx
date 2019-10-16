@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-atencion-proteccion-e-inclusion-de-las-personas-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-26"
-last_updated: "2019-08-20"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 26 de mayo de 2016.
 
@@ -155,7 +155,9 @@ V. Recibir consultas clínicas y terapias de habilitación especializadas en la 
 
 VI. Disponer de su ficha personal en lo que concierne al área médica, psicológica, psiquiátrica y educativa;
 
-VII. Contar con los cuidados apropiados para su salud mental y física, con acceso a tratamientos y medicamentos de calidad, que les sean administrados oportunamente, tomando todas las medidas y precauciones necesarias;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+VII. Contar con los cuidados apropiados para su salud mental y física, con acceso a tratamientos, medicamentos y tecnologías de calidad, que les sean administrados oportunamente, tomando todas las medidas y precauciones necesarias;
 
 VIII. Ser inscritos en el Sistema de Protección Social en Salud, conforme a lo establecido en la Ley General de Salud;
 
@@ -271,7 +273,9 @@ III. Realizar campañas de información a la población sobre las característic
 
 IV. Implementar acciones de capacitación y actualización dirigidas al personal de salud, educación y demás áreas involucradas para la detección y atención de las personas con la condición del espectro autista;
 
-V. Atender a la población con la condición del espectro autista a través, según corresponda, de consultas externas, estudios clínicos y de gabinete, diagnósticos tempranos, terapias de habilitación, orientación nutricional, y otros servicios que a juicio de los Servicios Estatales de Salud, con apoyo de servicios de alta especialidad de los Institutos Nacionales, cuando el caso lo amerite y demás organismos y órganos del sector salud sean necesarios. Se exceptúa el servicio de hospitalización;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+V. Atender a la población con la condición del espectro autista a través, según corresponda, de consultas externas, estudios clínicos y de gabinete, diagnósticos tempranos, terapias de habilitación, orientación nutricional, acceso a tecnologías y otros servicios que a juicio de los Servicios Estatales de Salud, con apoyo de servicios de alta especialidad de los Institutos Nacionales, cuando el caso lo amerite y demás organismos y órganos del sector salud sean necesarios. Se exceptúa el servicio de hospitalización;
 
 VI. Promover políticas y programas para la protección de la salud integral de las personas con la condición del espectro autista;
 
@@ -360,6 +364,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1044 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 10 Y LA FRACCIÓN V DEL ARTÍCULO 16 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
