@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2019-08-20"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1987,13 +1987,15 @@ II.- Los cuchillos, las navajas de muelle, o cualquier otro instrumento que aún
 
 III.- Los boxes, manoplas, macanas, correas con varas, pesas o puntas y las demás similares;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-IV.- Las bombas, aparatos explosivos o de gases asfixiantes o tóxicos y los demás similares; y
+IV.- Las bombas, aparatos explosivos o de gases asfixiantes o tóxicos y los demás similares;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-V.- Las que otras leyes y reglamentos designen como tales.
+V.- Las armas réplica, que sin ser armas auténticas, parezcan, reúnan o simulen las características de éstas; y
+
+VI.- Las que otras leyes y reglamentos designen como tales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -6742,6 +6744,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-793 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II Y ADICIONA UNA FRACCIÓN III, AL ARTÍCULO 318 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-1038 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV; Y SE ADICIONA UNA FRACCIÓN V, AL ARTÍCULO 168, RECORRIENDO EN SU ORDEN NATURAL LA FRACCIÓN SUBSECUENTE, DEL CÓDIGO PENAL DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
