@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-116656"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-09-27"
-last_updated: "2019-08-20"
+last_updated: "2019-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -503,9 +503,25 @@ XXI. Emitir dictamen para la adquisición de equipo de procesamiento electrónic
 
 XXII. Administrar el Centro Cívico Gubernamental, llevar y mantener actualizado el Padrón de Proveedores de la Administración Pública del Estado, determinando los criterios y procedimientos para clasificar a las personas inscritas en el mismo;
 
-XXIII. Coordinar administrativamente a la entidad estatal denominada Instituto de Previsión y Seguridad Social del Estado de Tamaulipas y las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE OCTUBRE DE 2019)</small>
 
-XXIV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XXIII. Coordinar administrativamente a la entidad estatal denominada Instituto de Previsión y Seguridad Social del Estado de Tamaulipas y las demás entidades que determine el Ejecutivo del Estado, de acuerdo a la materia de su competencia;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+XXIV. Definir, desarrollar y operar en el ámbito de su competencia, la política pública estatal en materia de informática, tecnologías de la información, comunicación y de Gobierno Digital, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+XXV. Diseñar y desarrollar las redes de voz, video y datos e impulsar su aplicación para una efectiva operación en las dependencias y entidades de la administración pública estatal; y
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+XXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones
+
+(sic) jurídicas, así como las que le encomiende el Gobernador del Estado con (sic)
+
+relación a sus competencias.
 
 #### Sección V. De la Secretaría de Desarrollo Económico
 
@@ -1291,9 +1307,9 @@ XIX. Analizar y dictaminar las estructuras orgánicas y ocupacionales de las dep
 
 XX. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Adquisiciones para la Administración Pública del Estado de Tamaulipas y sus Municipios y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Tamaulipas, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir las normas, lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal y promover, con la intervención que corresponda a otras dependencias de la Administración Pública Estatal, la coordinación y cooperación con los Poderes del Estado, los órganos constitucionales autónomos, los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios en materia de contrataciones públicas, que permita contar con un sistema de contrataciones públicas articulado a nivel estatal;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-XXI. Definir la política de gobierno digital, gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal;
+XXI. Vigilar la aplicación de las políticas de gobierno digital, y definir las de gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal, en términos de las disposiciones aplicables;
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
 
@@ -1824,3 +1840,15 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-1030 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 40, FRACCIÓN XXI; Y SE ADICIONAN LAS FRACCIONES XXIII, XXIV Y XXV, RECORRIÉNDOSE LA ACTUAL XXIV PARA SER XXVI, AL ARTÍCULO 27 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales aplicables que se opongan al presente Decreto.
