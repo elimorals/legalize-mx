@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-catastro-del-estado-de-tamaulipas-22487"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-30"
-last_updated: "2019-08-20"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de octubre del 2001.
 
@@ -437,9 +437,11 @@ Los propietarios, copropietarios, poseedores, detentadores o sus representantes,
 
 Cuando en los términos del Código Municipal para el Estado de Tamaulipas haya adquisición, para los fines de la aplicación del Impuesto sobre Adquisición de Inmuebles, el adquiriente está obligado a presentar el manifiesto de cambio de propietario o de traslación de dominio, anexando el original o copia certificada del documento que haya servido de base para el pago del impuesto de referencia.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 23.
 
-Los notarios públicos o funcionarios que actúen con fe pública en el otorgamiento de contratos o actos que modifiquen la propiedad o posesión de inmuebles, no ejecutarán ninguna operación si el interesado no les presenta el avalúo pericial expedido por la autoridad competente o persona autorizada por la ley de la materia, relativo a los mismos y con antigüedad máxima hasta seis meses.
+Los notarios públicos o funcionarios que actúen con fe pública en el otorgamiento de contratos o actos que modifiquen la propiedad o posesión de inmuebles, no ejecutarán ninguna operación si el interesado no les presenta el avalúo pericial expedido por la autoridad competente o persona autorizada por la ley de la materia, relativo a los mismos y con antigüedad máxima hasta seis meses; así como el comprobante de no adeudo o recibo correspondiente que acredite que el inmueble no tiene adeudos por concepto de servicios de agua potable, drenaje y alcantarillado.
 
 ###### ARTICULO 24.
 
@@ -519,11 +521,17 @@ II.- Avaluó pericial con clave catastral, elaborada por la autoridad catastral.
 
 III.- Comprobante, expedido por la Tesorería Municipal, en donde se acredite que no existe adeudo por concepto de las contribuciones sobre la propiedad inmobiliaria, en la fecha en que se autoricen las escrituras, actos o contratos. La Tesorería Municipal presentará en un solo documento la constancia de no adeudo;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-IV.- Plano autorizado por la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas o de los Municipios, y en caso de que no existan planos catastrales oficiales, bastará un croquis de la ubicación del terreno dentro de la manzana, con sus medidas de linderos y colindancias, con la distancia del predio a la esquina más próxima de la manzana. En el caso de predios rústicos, un plano con la poligonal envolvente y su cuadro de construcción; y
+IV.- Plano autorizado por la Dirección de Catastro del Instituto Registral y Catastral de Tamaulipas o de los Municipios, y en caso de que no existan planos catastrales oficiales, bastará un croquis de la ubicación del terreno dentro de la manzana, con sus medidas de linderos y colindancias, con la distancia del predio a la esquina más próxima de la manzana. En el caso de predios rústicos, un plano con la poligonal envolvente y su cuadro de construcción;
 
-V.- Dictamen de opinión de uso del suelo expedido por la autoridad municipal encargada del desarrollo urbano, en los Municipios en donde existan planes de ordenamiento territorial y desarrollo urbano municipales, de centros de población, acciones en material de desarrollo urbano, planes parciales y declaratorias de usos de suelo, reservas y destinos.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+V.- Dictamen de opinión de uso del suelo expedido por la autoridad municipal encargada del desarrollo urbano, en los Municipios en donde existan planes de ordenamiento territorial y desarrollo urbano municipales, de centros de población, acciones en materia de desarrollo urbano, planes parciales y declaratorias de usos de suelo, reservas y destinos; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+VI.- Comprobante de no adeudo o recibo correspondiente que acredite que el inmueble no tiene adeudos por concepto de servicios de agua potable, drenaje y alcantarillado.
 
 ###### ARTICULO 39.
 
@@ -1212,3 +1220,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1048 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, Y LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, A FIN DE FORTALECER Y EFICIENTAR LA RECAUDACIÓN POR LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO PRESTADOS POR LOS ORGANISMOS OPERADORES EN EL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Estado de Tamaulipas.
