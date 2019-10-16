@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-ecologia-y-117478"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-12-02"
-last_updated: "2016-12-02"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-10-07"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO CLIMÁTICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE OCTUBRE DE 2019.
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 2 de diciembre de 2016.
 
@@ -93,7 +93,15 @@ Para los efectos del presente estatuto, se entenderá por:
 
 I. Comisión: Comisión Intersecretarial de Cambio Climático;
 
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+I. BIS. Ciclo de vida: Manejo de las sustancias en las etapas de Diseño, Extracción, Procesamiento, Almacenamiento, Distribución, Uso, Reciclaje y Disposición final.
+
 II. Consejo: Consejo de Cambio Climático;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+II. BIS. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse o actuar en la atmósfera, agua, suelo, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
 III. Convención Marco: Convención Marco de las Naciones Unidas sobre el Cambio Climático;
 
@@ -113,7 +121,9 @@ X. Inventario: Inventario Nacional de Emisiones de Gases y Compuestos de Efecto 
 
 XI. Junta de Gobierno: El Órgano de Gobierno del INECC;
 
-XII. LFEP: Ley Federal de Entidades Paraestatales;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XII. Ley Federal de las Entidades Paraestatales;
 
 XIII. LGCC: Ley General de Cambio Climático;
 
@@ -137,7 +147,9 @@ El INECC planeará y conducirá sus actividades con sujeción a los objetivos, e
 
 Domicilio
 
-El domicilio del INECC es en la Ciudad de México, y podrá establecer delegaciones estatales o regionales para cumplir su objeto, de acuerdo a las necesidades y a la disponibilidad presupuestal.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+El domicilio oficial del INECC es en la Ciudad de México.
 
 ###### Artículo 6.
 
@@ -183,7 +195,9 @@ III. Promover y difundir criterios, metodologías y tecnologías para la conserv
 
 IV. Coadyuvar en la preparación de recursos humanos calificados, a fin de atender la problemática nacional con respecto al medio ambiente y el cambio climático;
 
-V. Realizar análisis de prospectiva sectorial, y colaborar en la elaboración de estrategias, planes, programas, instrumentos y acciones relacionadas con el desarrollo sustentable, el medio ambiente y el cambio climático, incluyendo la estimación de los costos futuros asociados al cambio climático, y los beneficios derivados de las acciones para enfrentarlo;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+V. Realizar análisis de prospectiva sectorial, y colaborar en la elaboración de estrategias, planes, programas, instrumentos, contribuciones determinadas a nivel nacional y acciones relacionadas con el desarrollo sustentable, el medio ambiente y el cambio climático, incluyendo la estimación de los costos futuros asociados al cambio climático, y los beneficios derivados de las acciones para enfrentarlo;
 
 VI. Evaluar el cumplimiento de los objetivos de adaptación y mitigación previstos en la LGCC, así como las metas y acciones contenidas en la Estrategia Nacional, el Programa Especial y los programas de las entidades federativas a que se refiere dicho ordenamiento, y
 
@@ -289,21 +303,29 @@ C. Unidades Administrativas;
 
 I. Coordinación General de Mitigación del Cambio Climático;
 
-II. Coordinación General de Adaptación al Cambio Climático;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+II. Coordinación General de Adaptación al Cambio Climático y Ecología;
 
 III. Coordinación General de Contaminación y Salud Ambiental;
 
-IV. Coordinación General de Crecimiento Verde;
+IV. (DEROGADA, D.O.F. 16 DE OCTUBRE DE 2019)
 
-V. Coordinación General de Cambio Climático para la Evaluación de las Políticas de Mitigación y Adaptación,
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-VI. Unidad Ejecutiva de Administración, y
+V. Coordinación General de Divulgación, Seguimiento y Evaluación de Políticas Públicas de Cambio Climático;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+VI. Unidad de Administración y Finanzas;
 
 VII. Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia.
 
-Además, el INECC podrá contar con Delegaciones Regionales o Estatales, las cuales establecerá la Junta de Gobierno mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-Las Unidades Administrativas antes mencionadas, así como las Delegaciones, contarán con las áreas de apoyo necesarias para el cumplimiento de sus atribuciones, cuyas denominaciones y funciones se establecerán en el Manual General de Organización del INECC y en otros manuales administrativos.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+Las Unidades Administrativas antes mencionadas, contarán con las áreas de apoyo necesarias para el cumplimiento de sus atribuciones, cuyas denominaciones y funciones se establecerán en el Manual General de Organización del INECC y en otros manuales administrativos.
 
 ### CAPÍTULO CUARTO. DE LA JUNTA DE GOBIERNO
 
@@ -311,7 +333,9 @@ Las Unidades Administrativas antes mencionadas, así como las Delegaciones, cont
 
 Integración de la Junta de Gobierno del INECC
 
-La Junta de Gobierno es la máxima autoridad del INECC, estará presidida por el o la titular de la Secretaría, y su integración será de conformidad con lo previsto en el artículo 17 de la LGCC. Está integrada por los y las titulares de las siguientes dependencias, quienes tienen voz y voto:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+La Junta de Gobierno es la máxima autoridad del INECC, estará presidida por la persona titular de la Secretaría, y su integración será de conformidad con lo previsto en el artículo 17 de la LGCC. Está integrada por los y las titulares de las siguientes dependencias, quienes tienen voz y voto:
 
 I. Secretaría de Medio Ambiente y Recursos Naturales, quien la presidirá;
 
@@ -319,11 +343,15 @@ II. Secretaría de Gobernación;
 
 III. Secretaría de Hacienda y Crédito Público;
 
-IV. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+IV. Secretaría de Bienestar;
 
 V. Secretaría de Energía;
 
-VI. Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+VI. Secretaría de Agricultura y Desarrollo Rural;
 
 VII. Secretaría de Salud,
 
@@ -331,13 +359,19 @@ VIII. Secretaría de Desarrollo Agrario, Territorial y Urbano, y
 
 IX. Consejo Nacional de Ciencia y Tecnología.
 
-Cada integrante podrá nombrar un suplente con nivel jerárquico de subsecretario o su equivalente.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-La Junta de Gobierno podrá designar una Secretaría Técnica y una Prosecretaría Técnica, la primera designación se realizará a propuesta de la Presidencia de la Junta de Gobierno y la segunda, de la Dirección General del INECC.
+Cada integrante podrá nombrar una persona suplente con nivel jerárquico de subsecretaria o subsecretario o su equivalente.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+La Junta de Gobierno podrá designar una Secretaría Técnica y una Prosecretaría Técnica, la primera designación se realizará a propuesta de la Presidencia de la Junta de Gobierno entre personas ajenas a la entidad quienes podrán ser o no miembros del mismo y la segunda, de la Dirección General del INECC, de conformidad con el artículo 58 fracción XII de la Ley Federal de las Entidades Paraestatales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 11.
 
-Atribuciones del Presidente o Presidenta de la Junta de Gobierno
+Atribuciones de la Presidencia de la Junta de Gobierno
 
 I. Instalar, presidir y levantar las sesiones;
 
@@ -355,25 +389,35 @@ VI. Las demás que señalen otras disposiciones jurídicas aplicables.
 
 Atribuciones de la Secretaría Técnica y/o Prosecretaría Técnica de la Junta de Gobierno
 
-I. Por instrucciones de la Presidencia, convocar, con la antelación señalada en el artículo 18, fracción II del Reglamento de la LFEP, a las y los integrantes de la Junta de Gobierno para que concurran a las sesiones, haciéndoles entrega del orden del día de los asuntos a tratar en la sesión correspondiente;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+I. Por instrucciones de la Presidencia, convocar, con la antelación señalada en el artículo 18, fracción II del Reglamento de la LFEP, a las personas integrantes de la Junta de Gobierno para que concurran a las sesiones, haciéndoles entrega del orden del día de los asuntos a tratar en la sesión correspondiente;
 
 II. Tomar nota de los acuerdos que se aprueben en el transcurso de la sesión y encargarse del escrutinio;
 
-III. En caso de que se cancele la fecha de celebración de una sesión, hacerlo del conocimiento de las y los integrantes de la Junta de Gobierno;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-IV. Remitir el proyecto de acta correspondiente a cada sesión, en los tiempos que se señalan en este Estatuto, para revisión de las y los integrantes de la Junta de Gobierno y las y los comisarios;
+III. En caso de que se cancele la fecha de celebración de una sesión, hacerlo del conocimiento a la Junta de Gobierno;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+IV. Remitir el proyecto de acta correspondiente a cada sesión, en los tiempos que se señalan en este Estatuto, para ser revisado por la Junta de Gobierno y las y los comisarios;
 
 V. Emitir, en respuesta a solicitudes escritas, certificaciones de los acuerdos adoptados durante las sesiones de la Junta de Gobierno;
 
 VI. Dar seguimiento a la ejecución de los acuerdos adoptados por la Junta de Gobierno y recomendaciones emitidas por las y los comisarios de la Secretaría de la Función Pública, debiendo incluir invariablemente en el orden del día de cada sesión, un apartado específico para informar de la atención y cumplimiento de los mismos;
 
-VII. Custodiar las carpetas con los asuntos sometidos a consideración de las y los integrantes de la Junta de Gobierno, así como las actas que formarán el archivo documental de dicho Órgano Colegiado; mismo que podrá ser consultado por sus integrantes, previa solicitud por escrito dirigida a la Secretaría Técnica de la Junta de Gobierno, y
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+VII. Custodiar las carpetas con los asuntos sometidos a consideración de la Junta de Gobierno, así como las actas que formarán el archivo documental de dicho Órgano Colegiado; mismo que podrá ser consultado por sus integrantes, previa solicitud por escrito dirigida a la Secretaría Técnica de la Junta de Gobierno, y
 
 VIII. Las demás que le señalen la Presidencia e integrantes de la Junta de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 13.
 
-Atribuciones de las y los integrantes de la Junta de Gobierno
+Atribuciones de las personas integrantes de la Junta de Gobierno
 
 I. Estudiar y analizar la carpeta de asuntos a tratar en forma previa a la celebración de la sesión, a efecto de resolver adecuadamente los mismos;
 
@@ -397,11 +441,17 @@ Sesionará 4 veces al año de manera ordinaria y las que estime necesarias de ma
 
 En las sesiones extraordinarias, no se tratarán asuntos generales.
 
-Asimismo, en caso fortuito o de fuerza mayor, y estando presentes en una sesión todas y todos los integrantes propietarios o suplentes, la sesión extraordinaria será válida sin necesidad de convocatoria.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-Al inicio de cada sesión, las y los integrantes del Órgano de Gobierno registrarán su asistencia para que la o el Secretario Técnico determine el quórum legal. Las resoluciones se tomarán por mayoría de las y los integrantes presentes teniendo la o el titular de la Presidencia voto de calidad para el caso de empate.
+Asimismo, en caso fortuito o de fuerza mayor, y estando presentes en una sesión las personas integrantes, propietarios o suplentes, la sesión extraordinaria será válida sin necesidad de convocatoria.
 
-En caso de que no se reúna el quórum necesario para sesionar, se suspenderá la sesión a efecto de que la Secretaría Técnica emita, en su caso, una segunda convocatoria, hecha la cual, se podrá sesionar con las o los integrantes o sus suplentes acreditados, que se encuentren presentes.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+Al inicio de cada sesión, las personas integrantes del Órgano de Gobierno registrarán su asistencia para que la Secretaría Técnica determine el quórum legal. Las resoluciones se tomarán por la mayoría de las personas integrantes presentes, teniendo voto de calidad quien ocupe el cargo de Titular de la Presidencia para el caso de empate.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+En caso de que no se reúna el quórum necesario para sesionar, se suspenderá la sesión a efecto de que la Secretaría Técnica emita, en su caso, una segunda convocatoria, hecha la cual, se podrá sesionar con las personas integrantes o sus suplentes que cuenten con acreditación, que se encuentren presentes.
 
 ###### Artículo 15.
 
@@ -413,15 +463,23 @@ La carpeta se integrará con la información documental relativa a los asuntos q
 
 Acta de la Junta de Gobierno
 
-El acta será elaborada por la Prosecretaría Técnica, y en ella se deberán consignar los nombres y cargos de las y los asistentes, un resumen de los asuntos tratados, así como un extracto de los comentarios y opiniones vertidos por las y los integrantes y las y los comisarios, además de los acuerdos adoptados.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-El proyecto de acta deberá ser distribuido entre las y los integrantes de la Junta de Gobierno y las y los comisarios para su revisión y conformidad, quince días hábiles posteriores a la celebración de la sesión respectiva, y recibir sus comentarios en un plazo no mayor a diez días hábiles al de la fecha de recepción.
+El acta será elaborada por la Prosecretaría Técnica, y en ella se deberán consignar los nombres y cargos de las personas asistentes, un resumen de los asuntos tratados, así como un extracto de los comentarios y opiniones vertidos por las personas integrantes y las y los comisarios, además de los acuerdos adoptados.
 
-De no recibir observación alguna en el plazo señalado, el acta se tendrá por aprobada para su firma correspondiente, a no ser que en la siguiente sesión algún integrante o comisario justifique, a juicio de la Junta de Gobierno, la necesidad de corregirla.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+El proyecto de acta deberá ser distribuido entre la Junta de Gobierno y las y los comisarios para su revisión y conformidad, quince días hábiles posteriores a la celebración de la sesión respectiva, y recibir sus comentarios en un plazo no mayor a diez días hábiles al de la fecha de recepción.
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+De no recibir observación alguna en el plazo señalado, el acta se tendrá por aprobada para su firma correspondiente, a no ser que en la siguiente sesión algún integrante o el comisario o la comisaria justifique, a juicio de la Junta de Gobierno, la necesidad de corregirla.
 
 El acta de la sesión será firmada por la Presidencia, la Dirección General del INECC, la Secretaría Técnica y/o Prosecretaría Técnica y Comisariado Propietario y/o Suplente.
 
-Las actas originales firmadas obrarán en poder de la Secretaría Técnica y/o Prosecretaría Técnica y estarán a disposición de las y los integrantes de la Junta de Gobierno.
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+Las actas originales firmadas obrarán en poder de la Secretaría Técnica y/o Prosecretaría Técnica y estarán a disposición de quienes integren la Junta de Gobierno.
 
 ### CAPÍTULO QUINTO. DE LA DIRECCIÓN GENERAL
 
@@ -455,35 +513,69 @@ VIII. Expedir los acuerdos, políticas y procedimientos internos, lineamientos, 
 
 IX. Dar por terminados los efectos de nombramiento de las y los trabajadores de base, en términos de lo dispuesto en la Ley Federal de los Trabajadores al Servicio del Estado;
 
-X. Suscribir los convenios y acuerdos nacionales e internacionales relativos al ejercicio de sus atribuciones, mismos que deberán ser validados previamente, en el ámbito de sus competencias, por las y los titulares de las unidades técnica, jurídica y administrativa, o designar, en su caso, al servidor o servidora pública que deba suscribirlos en su representación;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+X. Suscribir los convenios y acuerdos nacionales e internacionales relativos al ejercicio de sus atribuciones, mismos que deberán ser validados previamente, en el ámbito de sus competencias, por las personas titulares de las unidades técnica, jurídica y administrativa, o designar, en su caso, a la persona servidora pública que deba suscribirlos en su representación;
 
 XI. Establecer y presidir los comités en materia de planeación estratégica, vinculación interinstitucional y/o académica, que en su caso se constituyan; así como expedir los lineamientos para su operación;
 
-XII. Representar al INECC en foros nacionales e internacionales, así como autorizar a las y los servidores públicos que, en su caso, podrán intervenir en éstos;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XII. Representar al INECC en foros nacionales e internacionales, así como autorizar a las personas servidoras públicas que, en su caso, podrán intervenir en éstos;
 
 XIII. Integrar la Coordinación de Evaluación en términos del artículo 23 de LGCC;
 
-XIV. Proponer al Sistema Educativo Nacional el contenido educativo de libros, libros de texto y materiales didácticos sobre cambio climático, de conformidad con la Ley General de Educación;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-XV. Fomentar, en coordinación con la Secretaría de Educación Pública y las instituciones de investigación y educación superior del país, la capacidad científica, tecnológica, y de innovación en materias de su competencia;
+XIV. Proponer al Sistema Educativo Nacional el contenido educativo de libros, libros de texto y materiales didácticos sobre cambio climático, de conformidad con la Ley General de Educación, con la participación que corresponda a las Coordinaciones Generales del INECC;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XV. Fomentar, en coordinación con la Secretaría de Educación Pública y las instituciones de investigación y educación superior del país, la capacidad científica, tecnológica, y de innovación en materias de su competencia, con la participación que corresponda a las demás Coordinaciones Generales del INECC;
 
 XVI. Integrar y proponer la definición de prioridades, asignación y optimización de recursos del gobierno federal para la investigación sobre medio ambiente y cambio climático;
 
-XVII. Integrar, con el apoyo de las unidades administrativas del INECC, las comunicaciones nacionales y los informes bienales que presenten los Estados Unidos Mexicanos ante la Convención Marco;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XVII. Integrar, con el apoyo de las Coordinaciones Generales del INECC, las comunicaciones nacionales y los informes bienales que presenten los Estados Unidos Mexicanos ante la Convención Marco;
 
 XVIII. Apoyar a la Comisión en la elaboración de la Estrategia Nacional y el Programa Especial;
 
 XIX. Autorizar licencias, permisos o comisiones, de conformidad con las necesidades del servicio y disposiciones jurídicas aplicables;
 
-XX. Delegar en las y los servidores públicos del INECC las facultades que expresamente determine, sin menoscabo de su ejercicio directo;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XX. Delegar en las personas servidoras públicas del INECC las facultades que expresamente determine, sin menoscabo de su ejercicio directo;
 
 XXI. Someter a la aprobación de la Junta de Gobierno el proyecto de Estatuto, así como sus modificaciones;
 
-XXII. Expedir las Condiciones Generales de Trabajo del INECC, previa autorización de la Secretaría de Hacienda y Crédito Público, cuando se prevean prestaciones económicas adicionales o nuevas para las y los trabajadores de base;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-XXIII. Resolver las dudas que se susciten sobre la interpretación o aplicación del presente Estatuto y sobre los casos no previstos en él, y
+XXII. Expedir las Condiciones Generales de Trabajo del INECC, previa autorización de la Secretaría de Hacienda y Crédito Público, cuando se prevean prestaciones económicas adicionales o nuevas para el personal de base;
 
-XXIV. Las demás que se deriven de las disposiciones jurídicas aplicables y las que le encomiende la Junta de Gobierno.
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXIII. Resolver las dudas que se susciten sobre la interpretación o aplicación del presente Estatuto, con apoyo de la Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia; y en los casos no previstos en éste se estará a lo aprobado por la Junta de Gobierno;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXIV. A fin de garantizar el cumplimiento del objeto del Instituto de manera articulada, congruente y eficaz, se podrán crear grupos de trabajo con la participación de expertos para el fortalecimiento de estudios, proyectos o instrumentos de investigación científica, tecnológico o de información responsabilidad del Instituto.
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXV. Emitir las opiniones, a las que hace referencia el art. 8 fracción XI del presente Estatuto, con la participación correspondiente de las Coordinaciones Generales en el ámbito de su competencia, así como las que estén previstas en otras leyes;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXVI. Proponer a la Junta de Gobierno el nombramiento o la remoción de las personas servidoras públicas del INECC que ocupen cargos con las dos jerarquías administrativas inferiores a la del Titular de la Dirección General, aprobar la fijación de sus sueldos y prestaciones, y a los demás que señale el presente Estatuto y concederles licencias.
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+Adicionalmente, el Titular de la Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia, y el Titular de la Unidad de Administración y Finanzas, deberán cumplir lo establecido en Ley Orgánica de la Administración Pública Federal; y
+
+(REUBICADA [N. DE E. ANTES FRACCIÓN XXIV], D.O.F. 16 DE OCTUBRE DE 2019)|
+
+XXVII. Las demás que se deriven de las disposiciones jurídicas aplicables y las que le encomiende la Junta de Gobierno.
 
 La Dirección General dispondrá del personal técnico y administrativo que requiera para la atención de los asuntos de su competencia, conforme a los presupuestos aprobados y con las funciones previstas en sus propios manuales de organización.
 
@@ -503,9 +595,13 @@ III. Suscribir, dirigir y coordinar los estudios, investigaciones, opiniones, di
 
 IV. Contribuir al diseño de la política nacional en materia ambiental y de cambio climático;
 
-V. Contribuir al diagnóstico de la situación ambiental con relación a los compromisos nacionales e internacionales;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-VI. Coadyuvar en la elaboración y/o revisión de instrumentos normativos en materia ambiental y de cambio climático;
+V. Contribuir al diagnóstico de la situación ambiental en relación con los compromisos internacionales, así como al diseño de políticas para cumplir con los mismos;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+VI. Coadyuvar en la elaboración y/o revisión de instrumentos normativos en materia ambiental y de cambio climático en el ámbito de sus atribuciones;
 
 VII. Coordinar la entrega de la información que, en su ámbito de atribución les corresponda, al Sistema de Información sobre el Cambio Climático y al Sistema Nacional de Información Ambiental y Recursos Naturales;
 
@@ -515,9 +611,11 @@ IX. Colaborar en el proceso de publicación, difusión y divulgación de los tra
 
 X. Organizar y participar en conferencias y talleres nacionales e internacionales, para la presentación de trabajos sobre los estudios científicos y desarrollos normativos, relacionados con las actividades del INECC;
 
-XI. Proponer, integrar y suscribir los convenios, contratos, acuerdos, bases de colaboración y todo tipo de instrumentos consensuales, así como los correspondientes anexos de ejecución, en las materias de su competencia, previa validación jurídica; y someter a consideración de la Dirección General o de la Unidad Ejecutiva de Administración, según corresponda, aquellos que por su naturaleza deban participar dichas unidades administrativas;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-XII. Coordinar la integración del proyecto de presupuesto de la unidad administrativa y de las áreas que le estén adscritas, remitirlo a la Unidad Ejecutiva de Administración para su análisis y, una vez aprobado por las instancias correspondientes, supervisar su correcta aplicación;
+XI. Proponer, integrar y suscribir los convenios, contratos, acuerdos, bases de colaboración y todo tipo de instrumentos consensuales, así como los correspondientes anexos de ejecución, en las materias de su competencia, previa validación jurídica; y someter a consideración de la Dirección General o de la Unidad de Administración y Finanzas, según corresponda, aquellos que por su naturaleza deban participar dichas unidades administrativas;
+
+XII. (DEROGADA, D.O.F. 16 DE OCTUBRE DE 2019)
 
 XIII. Coadyuvar en la rendición de cuentas de la gestión del INECC, proporcionando la documentación e información que le sea requerida en los términos que establezcan los ordenamientos aplicables;
 
@@ -527,9 +625,13 @@ XV. Elaborar y suministrar, en el ámbito de sus competencias, la información n
 
 XVI. Promover el intercambio de científicos con instituciones de investigación y enseñanza media superior y superior, tanto nacionales como internacionales;
 
-XVII. Proponer a la Unidad Ejecutiva de Administración el nombramiento y/o terminación de los efectos del nombramiento de las y los trabajadores de confianza de las áreas administrativas de su adscripción, distintas a los que competan a la Junta de Gobierno; lo anterior, sin perjuicio de la facultad de la Dirección General para determinar directamente dichos movimientos de personal;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-XVIII. Proponer a la Dirección General la terminación de los efectos del nombramiento de las y los trabajadores de base de las áreas administrativas de su adscripción;
+XVII. Proponer a la Unidad de Administración y Finanzas el nombramiento y/o terminación de los efectos del nombramiento de las y los trabajadores de confianza de las unidades administrativas de su adscripción, distintas a los que competan a la Junta de Gobierno; lo anterior, sin perjuicio de la facultad de la Dirección General para determinar directamente dichos movimientos de personal;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XVIII. Proponer a la Dirección General la terminación de los efectos del nombramiento del personal de base de las unidades administrativas de su adscripción;
 
 XIX. Promover y apoyar el desarrollo y capacitación del personal a su cargo; así como autorizar permisos o comisiones, de conformidad con las necesidades del servicio y disposiciones jurídicas aplicables;
 
@@ -537,7 +639,9 @@ XX. Proporcionar la información y documentación que requiera la Unidad Ejecuti
 
 XXI. Supervisar, asegurar, integrar y clasificar el archivo de trámite, así como los demás documentos que se generen en la unidad administrativa a su cargo;
 
-XXII. Atender los requerimientos que solicite la Unidad de Enlace en materia de transparencia y acceso a la información pública, en los términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXII. Atender los requerimientos que les formule la persona Titular de la Unidad de Transparencia, conforme a su competencia en los términos de las disposiciones legales aplicables;
 
 XXIII. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que le sean encomendados por delegación, o que le correspondan por suplencia;
 
@@ -545,7 +649,29 @@ XXIV. Presidir los comités que le asigne la Dirección General, así como repre
 
 XXV. Conocer y participar en las diligencias, actas, procedimientos y recursos administrativos relativos a su ámbito de atribuciones y/o en las que esté involucrado personal adscrito a sus áreas, y
 
-XXVI. Las demás que expresamente le confieran la Junta de Gobierno o la Dirección General, las que le señalen otras disposiciones jurídicas en la materia y las que competan a las áreas de su adscripción.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXVI. Emitir opiniones, respecto de las consultas que le formulen otras unidades administrativas del INECC, dependencias y entidades, así como las que estén previstas en otras leyes.
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXVII. Aportar insumos en el área de su competencia para proponer al Sistema Educativo Nacional el contenido educativo de libros de texto y materiales didácticos sobre cambio climático, de conformidad con la Ley General de Educación;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXVIII. Aportar insumos en el área de su competencia para fomentar, en coordinación con la Secretaría de Educación Pública y las instituciones de investigación y educación superior del país, la capacidad científica, tecnológica, y de innovación en materias de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXIX. Participar y dar seguimiento a las acciones que se lleven a cabo en foros, comités, grupos de trabajo, consorcios e iniciativas ambientales científicas, de investigación, educación y capacitación, así como mecanismos fiscales o financieros en los que participe el Instituto tanto nacionales como internacionales, conforme a las instrucciones de la Dirección General;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXX. Participar en el fomento y fortalecimiento de capacidades científicas y tecnológicas, el intercambio de expertos, así como la generación de conocimientos y mejores prácticas en el país respecto de acciones, proyectos, programas y políticas de cambio climático, y
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXVI], D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXXI. Las demás que expresamente le confieran la Junta de Gobierno o la Dirección General, las señaladas en otras disposiciones jurídicas en la materia y las que competan a las unidades administrativas de su adscripción.
 
 #### SECCIÓN PRIMERA. De la Coordinación General de Mitigación del Cambio Climático
 
@@ -553,7 +679,9 @@ XXVI. Las demás que expresamente le confieran la Junta de Gobierno o la Direcci
 
 Facultades de la Coordinación General de Mitigación del Cambio Climático
 
-I. Coordinar, promover y desarrollar, con la participación que corresponda a otras unidades administrativas del INECC, dependencias, entidades e instituciones, la investigación científica y tecnológica en materia de mitigación al cambio climático, incluyendo los siguientes temas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+I. Coordinar, promover y desarrollar, con la participación que corresponda a otras unidades administrativas del INECC, dependencias y entidades de los tres niveles de gobierno e instituciones, la investigación científica y tecnológica en materia de mitigación al cambio climático, incluyendo los siguientes temas:
 
 a) Desarrollo bajo en carbono y mitigación de emisiones de gases y compuestos de efecto invernadero;
 
@@ -565,7 +693,13 @@ d) Análisis técnicos que permitan establecer las proyecciones de emisiones de 
 
 e) Modelación económica para el análisis y diseño de la política de mitigación del cambio climático y sus impactos en los sistemas naturales y humanos;
 
-f) Estimación de emisiones y absorciones de los gases y compuestos de efecto invernadero del sector agropecuario, forestal y uso del suelo a fin de que se puedan cuantificar los sumideros de carbono, y se pueda considerar el balance de emisiones antropógenas y la absorción por sumideros;
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+e BIS) Estimar los impactos económicos y ambientales futuros, asociados a la política de mitigación del cambio climático, el agotamiento de recursos naturales; así como de los beneficios derivados de las acciones de mitigación;
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+f) Estimación de emisiones y absorciones de los gases y compuestos de efecto invernadero del sector agropecuario, forestal y uso del suelo a fin de que se puedan cuantificar la mitigación de éstos y los sumideros de carbono, para considerar el balance de emisiones antropógenas y la absorción por sumideros.
 
 g) Análisis y estudios que permitan establecer el esquema de monitoreo, reporte y verificación de las acciones de mitigación, basado en metodologías sectoriales;
 
@@ -579,7 +713,27 @@ k) Análisis de esquemas y estrategias de financiamiento climático para la redu
 
 l) Sustento técnico y científico para apoyar el cumplimiento de las metas de mitigación del país ante la comunidad internacional y poder elaborar los informes correspondientes;
 
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+m) Determinantes y efectos económicos, sociales y ambientales de la política y regulación ambiental en materia de Mitigación;
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+n) Valoración económica de los servicios ecosistémicos, para la captura y secuestro de carbono y recursos energéticos para la Mitigación;
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+o) Desarrollo y análisis de índices e indicadores para la economía y política ambiental en materia de Mitigación;
+
+> <small>(ADICIONADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+p) Esquemas para evaluar el desarrollo bajo en carbono en ciudades sustentables.
+
 II. Integrar, monitorear y actualizar el Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+II BIS. Elaborar los criterios de formatos, metodologías, procedimientos, e indicadores para la integración del inventario nacional de emisiones;
 
 III. Participar en la elaboración de las metodologías que se requieran para el cálculo y la integración de la información sobre las emisiones y absorciones por sumideros, de las categorías de las fuentes emisoras determinadas en el artículo 7, fracción XIV, de la LGCC;
 
@@ -587,7 +741,13 @@ IV. Analizar las decisiones de las Conferencias de las Partes de la Convención 
 
 V. Fomentar la construcción de capacidades de las entidades federativas y de los municipios, para la elaboración de las acciones de mitigación de sus programas de cambio climático y sus inventarios de emisiones de gases y compuestos de efecto invernadero;
 
-VI. Realizar análisis de prospectiva sectorial, y participar en la elaboración de estrategias, planes, programas, instrumentos y acciones relacionadas con la mitigación del cambio climático y el desarrollo bajo en carbono;
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+V. BIS. Participar en el diseño de instrumentos económicos, fiscales, financieros y de mercado de carbono en materia de mitigación del cambio climático;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+VI. Realizar análisis de prospectiva sectorial, y participar en la elaboración de planes, estrategias, y programas, instrumentos, contribuciones determinadas a nivel nacional en materia de mitigación y acciones relacionadas con la misma y el desarrollo bajo en carbono;
 
 VII. Coadyuvar en el diseño, monitoreo, reporte y verificación de las acciones de mitigación al cambio climático;
 
@@ -595,51 +755,133 @@ VIII. Estimar, con la participación que corresponda a otras unidades administra
 
 IX. Apoyar a la Secretaría y al Instituto Nacional de Estadística y Geografía en el desarrollo de los sistemas y tecnologías de la información para dar cumplimiento a los artículos 77, 78 y 79 de la LGCC.
 
-#### SECCIÓN SEGUNDA. De la Coordinación General de Adaptación al Cambio Climático
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+X. Elaboración de la línea base en materia de emisión de gases y compuestos de efecto invernadero en coordinación con los organismos nacionales que intervengan en la política económica y con la participación de los siguientes sectores productivos;
+
+- Transporte
+
+- Generación eléctrica
+
+- Residencial y comercial
+
+- Petróleo y gas
+
+- Industria
+
+- Agricultura, ganadería, bosques y otros usos de suelo
+
+- Residuos
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XI. Recopilar e integrar, en coordinación con la CICC, la información necesaria para la elaboración de los informes bienales que presenten los Estados Unidos Mexicanos ante la Convención Marco; así como participar en la revisión de otros informes bienales en el marco de transparencia de dicha Convención;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XII. Coadyuvar con las unidades administrativas de la Secretaría, en la cuantificación del costo de la mitigación; y
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XIII. Proponer, impulsar y apoyar técnicamente la elaboración de normas en materia de su competencia;
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. De la Coordinación General de Adaptación al Cambio Climático y Ecología
+
+> <small>(REFORMADO EN SU ENCABEZADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 21.
 
-Facultades de la Coordinación General de Adaptación al Cambio Climático
+Facultades de la Coordinación General de Adaptación al Cambio Climático y Ecología.
 
-I. Coordinar, promover y desarrollar, con la participación de otras unidades administrativas del INECC, dependencias, entidades e instituciones, la investigación científica y tecnológica relacionada con la política nacional en materia de adaptación al cambio climático, incluyendo los siguientes temas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-a) Análisis ambiental, biofísico, social, institucional y organizacional, para identificar y evaluar medidas de adaptación al cambio climático en el país;
+I. Coordinar, promover y desarrollar, con la participación que corresponda a otras unidades administrativas del INECC, dependencias y entidades de los tres niveles de gobierno e instituciones, la investigación científica y tecnológica en materia de adaptación al cambio climático, incluyendo los siguientes temas:
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+a) Análisis ambiental, institucional, económico, político, regulatorio, social y de vulnerabilidad al cambio climático para identificar, diseñar y evaluar medidas de adaptación;
 
 b) Análisis territorial para identificar las regiones y sectores vulnerables a la variabilidad climática y al cambio climático;
 
-c) Herramientas, métodos, criterios y lineamientos para el desarrollo de políticas públicas sobre vulnerabilidad y riesgos;
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-d) Evaluación de vulnerabilidad y riesgos por el cambio climático en diferentes regiones y sectores;
+c) Desarrollo de herramientas, métodos, índices, indicadores y lineamientos para el análisis y generación de políticas públicas en materia de adaptación, incluyendo el crecimiento verde para la adaptación y la reducción de riesgo de desastres por eventos climáticos;
 
-e) Evaluación de las acciones y programas relacionados con la planeación ambiental del territorio, el ordenamiento ecológico, el aprovechamiento y la conservación de los recursos naturales;
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-f) Servicios ambientales y funcionamiento eco-hidrológico de cuencas hidrográficas;
+d) Modelación económica y de evaluación de la vulnerabilidad y riesgos por cambio climático para el análisis y desarrollo de política ambiental para diferentes regiones y sectores;
 
-g) Integralidad y dinámica socio-ambiental de cuencas hidrográficas ante el cambio climático;
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-h) Conservación y aprovechamiento sustentable de la vida silvestre, de especies y ecosistemas prioritarios, así como especies migratorias y su resiliencia;
+e) Análisis de las acciones y programas relacionados con la planeación ambiental del territorio, el ordenamiento ecológico, el aprovechamiento y la conservación de los recursos naturales;
 
-i) Diagnóstico, monitoreo y restauración ambiental en ecosistemas y especies, y
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-j) Estudios de variabilidad climática, eventos climáticos extremos y escenarios de cambio climático, aplicables a los impactos potenciales, vulnerabilidad, riesgos por cambio climático y adaptación;
+f) Análisis de servicios ambientales en ecosistemas y cuencas, así como su valoración económica;
 
-II. Analizar las decisiones de las Conferencias de las Partes de la Convención Marco relativas a temas de adaptación al cambio climático y reducción de la vulnerabilidad, y coordinarse con la Secretaría para proponer mecanismos para su cumplimiento;
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-III. Participar en la elaboración de estrategias, planes, programas, instrumentos y acciones relacionadas con la adaptación al cambio climático;
+g) Análisis de la integralidad y dinámica social, económica y ambiental de cuencas hidrográficas ante el cambio climático;
 
-IV. Estimar los impactos futuros, regionales y sectoriales asociados al cambio climático, y los beneficios derivados de las acciones de adaptación y reducción de la vulnerabilidad;
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-V. Identificar líneas de investigación sobre adaptación, riesgos y vulnerabilidad al cambio climático, en colaboración con instituciones académicas, gubernamentales y de la sociedad civil, nacionales e internacionales, así como otorgar apoyo técnico a los programas que se realicen en los centro de investigación de la vida silvestre;
+h) Análisis de la conservación y aprovechamiento sustentable de los ecosistemas para fomentar su resiliencia y disminuir su vulnerabilidad;
 
-VI. Participar en la integración y toma de decisiones del Consejo Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre; así como en estudios científicos que tengan por objeto identificar las especies en riesgo, determinar las especies y poblaciones prioritarias para la conservación y promover la declaración de hábitats críticos y áreas de refugio;
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+i) Diagnóstico, monitoreo y restauración ambiental de ecosistemas y especies;
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+j) Estudios de variabilidad climática, eventos climáticos extremos y escenarios de cambio climático, para la evaluación de la vulnerabilidad e identificación de impactos actuales y potenciales;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+II. Generar insumos para la integración de la posición del país ante la Convención Marco en materia de adaptación al cambio climático; y coordinarse con la Secretaría para dar seguimiento a las decisiones de dicha Convención, en materia de adaptación al cambio climático;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+III. Participar en la elaboración de planes, estrategias, programas, instrumentos y contribuciones determinadas a nivel nacional en materia de Adaptación al Cambio Climático y acciones relacionadas con la materia;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+IV. Estimar los impactos económicos y ambientales futuros, asociados al cambio climático y el agotamiento de recursos naturales; así como de los beneficios derivados de las acciones de adaptación;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+V. Colaborar con instituciones académicas, gubernamentales y de la sociedad civil, nacionales e internacionales, y con el sector privado en temas relacionados a la adaptación al cambio climático; así como otorgar apoyo técnico a los programas que se realicen en los centros de investigación de la vida silvestre cuando éstos lo soliciten;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+VI. Participar en la integración y toma de decisiones del Consejo Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre cuando éste lo solicite; así como en estudios científicos que tengan por objeto identificar las especies en riesgo, determinar las especies y poblaciones prioritarias para la conservación y promover la declaración de hábitats críticos y áreas de refugio;
 
 VII. Brindar apoyo técnico en torno a las propuestas que justifiquen el establecimiento y recategorización de las áreas naturales protegidas de competencia federal, zonas de restauración, así como para la elaboración de los respectivos programas de manejo en el contexto de la adaptación al cambio climático;
 
-VIII. Proponer, impulsar y apoyar técnicamente la elaboración de normas en materia de ordenamiento ecológico, conservación de ecosistemas y especies de vida silvestre;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-IX. Generar insumos técnicos para apoyar la construcción de capacidades de las entidades federativas y de los municipios, para la elaboración de los Programas de Cambio Climático en materia de adaptación, y
+VIII. Proponer, impulsar y apoyar técnicamente la elaboración de normas en materia de ordenamiento ecológico, conservación de ecosistemas y especies de vida silvestre, vinculadas a la adaptación al cambio climático;
 
-X. Coadyuvar en el diseño, monitoreo y evaluación de las acciones de adaptación al cambio climático.
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+IX. Generar insumos técnicos y apoyar la construcción de capacidades de las Entidades Federativas y de los municipios e instituciones de educación para la elaboración de los Programas de Cambio Climático, en materia de adaptación al cambio climático;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+X. Monitoreo y evaluación de las acciones de adaptación al cambio climático.
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XI. Análisis e investigación de los determinantes y efectos económicos, sociales y ambientales de la política de adaptación, incluyendo el crecimiento verde para la adaptación;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XII. Coadyuvar con las unidades administrativas de la Secretaría, en la cuantificación del costo de la degradación ambiental y agotamiento de los recursos naturales; y
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XIII. Participar en el diseño de instrumentos económicos, fiscales, financieros y de mercado en materia de medio ambiente y cambio climático, en el ámbito de su respectiva competencia;
 
 #### SECCIÓN TERCERA. De la Coordinación General de Contaminación y Salud Ambiental
 
@@ -647,33 +889,57 @@ X. Coadyuvar en el diseño, monitoreo y evaluación de las acciones de adaptaci�
 
 Facultades de la Coordinación General de Contaminación y Salud Ambiental
 
-I. Coordinar, promover y desarrollar, con la participación que corresponda a otras unidades administrativas del INECC, dependencias, entidades e instituciones, la investigación científica y tecnológica, en los siguientes temas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+I. Coordinar, promover y desarrollar, con la participación que corresponda a otras unidades administrativas del INECC, dependencias y entidades de los tres niveles de gobierno e instituciones, la investigación científica y tecnológica en materia de contaminación y salud ambiental, incluyendo los siguientes temas:
 
 a) Saneamiento ambiental;
 
 b) Prevención y control de la contaminación ambiental;
 
-c) Manejo de las sustancias químicas, productos y residuos, así como de los materiales con potencial de contaminación al ambiente;
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-d) Tendencias espaciales y temporales de los contaminantes ambientales, de las sustancias químicas, productos y residuos, así como de los materiales con potencial de contaminación al ambiente;
+c) Manejo de las sustancias químicas a lo largo de su ciclo de vida, productos y residuos, así como los materiales con potencial de contaminación al ambiente;
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+d) Tendencias espaciales y temporales de los contaminantes ambientales, las sustancias químicas a lo largo de su ciclo de vida, productos y residuos, así como materiales con potencial de contaminación al ambiente;
 
 e) Métodos y modelos de simulación de la calidad del aire, ecotoxicológicos, de ciclo de vida y de los contaminantes en el ambiente;
 
-f) Herramientas de información de inventarios de emisiones y liberaciones de contaminantes en el ambiente, de sustancias químicas, productos y residuos, así como de materiales con potencial de contaminación al medio ambiente;
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-g) Exposición, riesgos e impactos de la contaminación ambiental en los ecosistemas y en la salud humana;
+f) Herramientas de información y estimación de inventarios de emisiones y liberaciones de contaminantes en el ambiente, de sustancias químicas a lo largo de su ciclo de vida, materiales, productos y residuos con potencial de contaminación al ambiente;
 
-h) Gestión ambiental de la movilidad y el transporte eficiente y sustentable, público y privado, así como de la producción y del consumo de bienes y servicios;
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-i) Monitoreo, evaluación y caracterización de contaminantes criterio, tóxicos, gases de efecto invernadero y forzadores de clima;
+g) Evaluación de la exposición, incluida la personal y la microambiental a contaminantes; así como la estimación de los riesgos y los impactos de la contaminación en los ecosistemas y en la salud ambiental;
 
-j) Evaluación de exposición personal y microambiental a contaminantes ambientales;
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-k) Transporte de contaminantes, su transformación e impacto;
+h) Transporte eficiente y sustentable, público y privado; en el ámbito de las facultades de esta coordinación;
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+i) Monitoreo, evaluación y caracterización de contaminantes criterio, tóxicos, y contaminantes climáticos a diferentes escalas espaciales y temporales;
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+j) Evaluación del impacto en la población, los cultivos, los ecosistemas y el patrimonio por exposición a contaminantes ambientales;
+
+> <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+k) Transporte y transformación de contaminantes;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+k BIS) Caracterización de emisiones de contaminantes criterio, tóxicos y climáticos; y
 
 l) Bioseguridad, monitoreo y difusión de los posibles riesgos que ocasionan las actividades con organismos genéticamente modificados en el medio ambiente y la diversidad biológica.
 
-II. Proponer, impulsar y apoyar técnicamente la elaboración de normas en materia de contaminación y calidad ambiental, de colecta de especímenes con fines científicos y de investigación, de aprovechamiento para su utilización en biotecnología, acceso a recursos genéticos, así como para la utilización confinada, el manejo, la movilización y la liberación experimental, en programas piloto y comercial, de organismos genéticamente modificados;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+II. Proponer, impulsar y apoyar técnicamente la elaboración de normas en materia de contaminación y salud ambiental, de colecta de especímenes con fines científicos y de investigación, de aprovechamiento para su utilización en biotecnología, conservación de los recursos genéticos, acceso a los recursos genéticos provenientes de variedades nativas, así como para la utilización confinada, el manejo, la movilización y la liberación experimental, en programas piloto y comercial, de organismos genéticamente modificados;
 
 III. Coordinar el funcionamiento de los laboratorios del INECC y proponer los manuales para dicho fin; y
 
@@ -685,51 +951,39 @@ b) Calibración de equipos de medición de contaminantes atmosféricos, y
 
 c) Detección e identificación de organismos genéticamente modificados.
 
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+V. Apoyar a la Secretaría conforme a la Ley Federal sobre Metrología y Normalización, en la Evaluación de la Conformidad de las normas en materia de análisis y calibración de equipos de medición de contaminantes, residuos, así como en la detección e identificación de organismos genéticamente modificados;
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
 #### SECCIÓN CUARTA. De la Coordinación General de Crecimiento Verde
 
 ###### Artículo 23.
 
-Facultades de la Coordinación General de Crecimiento Verde
+(DEROGADO, D.O.F. 16 DE OCTUBRE DE 2019)
 
-I. Coordinar, promover y desarrollar, en colaboración con otras unidades administrativas del INECC, dependencias, entidades, estados, municipios, e instituciones en general, según el caso lo amerite, la investigación científica aplicada y tecnológica, en los siguientes temas:
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-a) Desarrollo sustentable y crecimiento verde;
+#### SECCIÓN QUINTA. De la Coordinación General de Divulgación, Seguimiento y Evaluación de Políticas Públicas de Cambio Climático
 
-b) Determinantes y efectos económicos, sociales y ambientales de la política y regulación ambiental;
-
-c) Análisis económico, político, institucional, regulatorio y social de las acciones en materia ambiental y de cambio climático;
-
-d) Análisis de políticas públicas ambientales y de crecimiento verde;
-
-e) Valoración económica de capital natural, ecosistemas, especies, energía, recursos naturales y servicios ambientales;
-
-f) Modelación económica para el análisis y diseño de política ambiental y de cambio climático;
-
-g) Desarrollo y análisis de índices e indicadores para la economía y política ambiental;
-
-h) Diseño y análisis de medidas de política para el uso sustentable del capital natural;
-
-II. Participar en el diseño de instrumentos económicos, fiscales, financieros y de mercado en materia de medio ambiente y cambio climático;
-
-III. Diseñar y aplicar indicadores para evaluar el crecimiento verde y la protección ambiental, así como la sustentabilidad de las ciudades;
-
-IV. Participar en el diseño de mecanismos de financiamiento que permitan llevar a cabo los proyectos de investigación para la conservación y aprovechamiento sustentable de los recursos naturales, control de la contaminación y cambio climático, y
-
-V. Coadyuvar con las unidades administrativas de la Secretaría, en la cuantificación del costo de la contaminación del ambiente y el agotamiento de los recursos naturales provocados por las actividades económicas.
-
-#### SECCIÓN QUINTA. De la Coordinación General de Cambio Climático para la Evaluación de las Políticas de Mitigación y Adaptación
+> <small>(REFORMADO EN SU ENCABEZADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 24.
 
-Facultades de la Coordinación General de Cambio Climático para la Evaluación de las Políticas de Mitigación y Adaptación
+Facultades de la Coordinación General de Divulgación, Seguimiento y Evaluación de Políticas Públicas de Cambio Climático;
 
 I. Fungir como Secretaría Técnica de la Coordinación de Evaluación, en cumplimiento al artículo 24 de la LGCC;
 
 II. Coordinar, promover y desarrollar los programas, estudios, acciones y asesorías que aporten los elementos técnicos y científicos necesarios para la elaboración y cumplimiento del Programa de Trabajo de la Coordinación de Evaluación; para apoyar el desarrollo de la evaluación de la Política Nacional de Cambio Climático y la emisión de recomendaciones;
 
-III. Coordinar la implementación de los acuerdos de la Coordinación de Evaluación y gestionar las acciones necesarias ante dependencias y entidades de la Federación, entidades federativas y municipios, sectores social, académico y privado, para el cumplimiento de los mismos, y de las recomendaciones que se emitan; así como para obtener la información que ésta requiera para el ejercicio de sus funciones;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-IV. Promover y coordinar la participación de servidores públicos de la Federación, entidades federativas y municipios, así como de representantes de los sectores social, académico y privado en el proceso de evaluación de la Política Nacional de Cambio Climático y para el fortalecimiento de las capacidades de evaluación;
+III. Coordinar la implementación de los acuerdos de la Coordinación de Evaluación y gestionar las acciones necesarias ante dependencias y entidades de la Administración Pública Federal, en sus tres niveles de gobierno, así como de los sectores social, académico y privado, para el cumplimiento de los mismos y de las recomendaciones que se emitan; así como para obtener la información que ésta requiera para el ejercicio de sus funciones;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+IV. Promover y coordinar la participación de personas servidoras públicas de la Administración Pública Federal, en sus tres niveles de gobierno, así como de los sectores social, académico y privado en el proceso de evaluación de la Política Nacional de Cambio Climático y para el fortalecimiento de las capacidades de evaluación;
 
 V. Coordinar y organizar las sesiones de la Coordinación de Evaluación de conformidad con los instrumentos normativos que al efecto se emitan;
 
@@ -737,27 +991,73 @@ VI. Coordinar y realizar las gestiones necesarias para la publicación de los re
 
 VII. Proponer los instrumentos normativos, procedimentales y técnicos para el funcionamiento de la Coordinación de Evaluación, el desarrollo de las evaluaciones y la emisión de las recomendaciones;
 
-VIII. Apoyar el desarrollo de los lineamientos, criterios e indicadores de eficiencia e impacto que orienten la Evaluación de la Política Nacional de Cambio Climático a que se refiere el artículo 100 de la LGCC;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-IX. Apoyar en el desarrollo e instrumentación de un mecanismo para el seguimiento de las recomendaciones emitidas por la Coordinación de Evaluación;
+VIII. Proponer el desarrollo y actualización de los lineamientos, criterios e indicadores de eficiencia e impacto, así como participar en su seguimiento para orientar la Evaluación de la Política Nacional de Cambio Climático a que se refiere el artículo 100 de la LGCC;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+IX. Proponer el desarrollo e instrumentación de un mecanismo para identificar y dar seguimiento a los aspectos susceptibles de mejora derivados de las recomendaciones emitidas por la Coordinación de Evaluación;
 
 X. Promover, coordinar y dar seguimiento a la celebración de convenios, contratos y cualquier otro tipo de instrumento consensual que resulte necesario para la instrumentación de acuerdos de la Coordinación de Evaluación, el desarrollo de las evaluaciones y la emisión de las recomendaciones, así como participar en la suscripción de los mismos, en términos de las disposiciones normativas aplicables;
 
-XI. Brindar asesoría y coadyuvar en la construcción de capacidades de evaluación de la política de cambio climático en la federación, las entidades federativas y los municipios, en coordinación con dependencias y entidades de gobierno, instituciones de educación y de investigación del país.
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-#### SECCIÓN SEXTA. De la Unidad Ejecutiva de Administración
+XI. Brindar asesoría y coadyuvar en la construcción de capacidades de evaluación de la política de cambio climático en las dependencias entidades de la Administración Pública Federal, en sus tres niveles de gobierno, instituciones de educación y de investigación, organizaciones de la sociedad civil y otras unidades del INECC;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XII. Coordinar la participación de las Unidades Administrativas en la planeación estratégica del Instituto mediante la conformación de grupos de trabajo, e integrar y formular las propuestas y proyectos de instrumentos de planeación para aprobación de la Dirección General;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XIII. Integrar, coordinar y ejecutar el monitoreo, reporte y evaluación de las metas, objetivos e indicadores institucionales;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XIV. Coordinar y fomentar la gestión estratégica de información y conocimiento sobre medio ambiente, ecología y cambio climático;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XV. Participar, promover y fomentar la vinculación del Instituto con los diferentes órdenes de gobierno, instituciones académicas y de investigación, organizaciones de la sociedad civil nacionales e internacionales, con la participación que corresponda a otras unidades administrativas;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XVI. Participar, proponer y fungir como punto focal para la vinculación con las autoridades y para los fines a que se refiere el Artículo 19 Fracc. XXVIII del presente estatuto;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XVII. Coordinar la participación en el fomento y fortalecimiento de capacidades científicas y tecnológicas, intercambio de expertos, así como en el intercambio y generación de conocimientos y mejores prácticas en el país respecto de acciones, proyectos, programas y políticas de cambio climático;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XVIII. Coordinar la integración de información para elaborar las comunicaciones nacionales y los informes que presenten los Estados Unidos Mexicanos ante la Convención Marco; y
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XIX. Coordinar las tareas del Instituto encaminadas al desarrollo y actualización de la página de Internet sobre cambio climático a que se refiere el artículo 107 de la LGCC.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+#### SECCIÓN SEXTA. De la Unidad de Administración y Finanzas
+
+> <small>(REFORMADO EN SU ENCABEZADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 25.
 
-Facultades de la Unidad Ejecutiva de Administración
+Facultades de la Unidad de Administración y Finanzas
 
 I. Expedir, difundir, aplicar y dar seguimiento a las disposiciones normativas internas necesarias para la administración de los recursos humanos, financieros, materiales, informáticos, telecomunicaciones, bienes y servicios;
 
 II. Definir e implementar los mecanismos y lineamientos para instrumentar el proceso interno de programación, presupuesto, evaluación, control y contabilidad;
 
-III. Participar, en conjunto con las unidades administrativas del INECC, en la preparación de la cuenta pública anual de la entidad;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-IV. Coordinar, integrar y proponer el Anteproyecto de presupuesto para someterlo a la aprobación de la Dirección General, así como vigilar el ejercicio del presupuesto anual;
+III. Elaborar y preparar la cuenta pública anual de la entidad.
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+IV. Coordinar, integrar y proponer el Anteproyecto de presupuesto de recursos fiscales y de ingresos propios, para presentarlo a las instancias correspondientes, así como vigilar el ejercicio;
 
 V. Establecer y vigilar el sistema de contabilidad, así como elaborar los estados financieros y los informes del ejercicio presupuestal de cada ejercicio fiscal;
 
@@ -769,7 +1069,9 @@ VIII. Elaborar y sustanciar las actas administrativas y procedimientos que apliq
 
 IX. Proponer y administrar las políticas y lineamientos en materia de reclutamiento, selección, inducción, nombramientos, contrataciones, remuneraciones, capacitación profesionalización, desarrollo y movimientos de personal de las unidades administrativas, de acuerdo a las disposiciones en la materia y criterios establecidos;
 
-X. Coordinar y supervisar los movimientos de personal; así como emitir los documentos en los que consten los nombramientos respectivos, con excepción de los correspondientes a las y los servidores públicos que ocupen cargos con las dos jerarquías administrativas inferiores a las de la Dirección General, cuya emisión estará a cargo de ésta, en términos de lo dispuesto en los ordenamientos aplicables;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+X. Coordinar y supervisar los movimientos de personal; así como emitir los documentos en los que consten los nombramientos respectivos, con excepción de los correspondientes a las personas servidoras públicas que ocupen cargos con las dos jerarquías administrativas inferiores a las de la Dirección General, quienes serán nombrados conforme a los ordenamientos aplicables.
 
 XI. Concertar las relaciones laborales y sindicales de las y los trabajadores del INECC, para lo cual, en los casos que así lo amerite, deberá apoyarse en la Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia;
 
@@ -779,35 +1081,63 @@ XIII. Ejecutar los actos que se deriven de resoluciones, laudos o sentencias, co
 
 XIV. Determinar la rescisión, terminación anticipada o suspensión de los instrumentos consensuales, de acuerdo con las disposiciones legales aplicables, mismos que deberán ser validados previamente, en el ámbito de sus competencias, por las y los titulares de las unidades técnica, jurídica y administrativa;
 
-XV. Suscribir los convenios, contratos y demás instrumentos consensuales que incidan sobre el patrimonio y/o presupuesto del INECC; sin menoscabo del ejercicio directo por parte de la Dirección General;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XV. Suscribir los convenios, contratos y demás instrumentos consensuales que incidan sobre el patrimonio y/o presupuesto del INECC; así como los relativos al ejercicio de sus facultades; sin menoscabo del ejercicio por parte de la Dirección General;
 
 XVI. Elaborar los proyectos de dictámenes administrativos relacionados con las modificaciones de las estructuras orgánicas y ocupacionales, así como de las plantillas de personal operativo, conforme a las disposiciones aplicables en la materia;
 
 XVII. Coordinar la elaboración y actualización de los manuales de organización y procedimientos de las unidades administrativas y someterlos a la aprobación de la Dirección General;
 
-XVIII. Elaborar y actualizar el proyecto de políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios; y en su caso, para la contratación de obra pública;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-XIX. Establecer, controlar, evaluar y difundir los programas internos de protección civil, seguridad y vigilancia, seguridad e higiene, así como proponer las normas de operación, desarrollo y vigilancia de estos programas;
+XVIII. Elaborar y actualizar las políticas, bases y lineamientos en materia de adquisiciones, arrendamientos y servicios; y en su caso, para la contratación de obra pública; para someterse a la aprobación de la Junta de Gobierno;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XIX. Establecer, controlar, evaluar y difundir los programas internos actualmente en operación y los demás que por normatividad le correspondan;
 
 XX. Coordinar el registro, afectación, baja y disposición final de los bienes muebles, inmuebles y demás activos que tenga en propiedad o posesión el INECC, de acuerdo a las bases generales que para tal efecto apruebe la Junta de Gobierno;
 
 XXI. Asegurar la protección del patrimonio mobiliario e inmobiliario y de derechos adquiridos, así como realizar, con intervención de la Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia, los trámites legales para su adquisición, regularización y desincorporación;
 
-XXII. Administrar los almacenes y distribuir los bienes e insumos entre las unidades administrativas;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-XXIII. Desempeñar las funciones de la Coordinación General de Archivo, de acuerdo a la normatividad aplicable;
+XXII. Administrar los almacenes y distribuir los bienes, insumos, así como los espacios físicos entre las unidades administrativas;
 
-XXIV. Administrar, proporcionar, supervisar, controlar y evaluar las actividades, programas, objetivos, metas y requerimientos en materia de tecnologías de información y comunicaciones;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
-XXV. Coordinar, controlar y supervisar los procesos y resultados del mantenimiento correctivo y preventivo de equipos de cómputo, software e infraestructura de telecomunicaciones;
+XXIII. Desempeñar las funciones de coordinador general de archivo, de control interno y protección civil de acuerdo a la normatividad aplicable;
 
-XXVI. Administrar la seguridad informática institucional, a través de la protección de los activos de tecnologías de la información y centros de cómputo, a fin de preservar la confidencialidad, integridad y disponibilidad de la información;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXIV. Administrar, proporcionar, supervisar, controlar y evaluar los programas, objetivos, servicios y metas en materia de tecnologías de información y comunicaciones;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXV. Coordinar, controlar y supervisar los procesos y resultados del mantenimiento correctivo y preventivo de los dominios y activos de tecnologías de la información y comunicaciones;
+
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXVI. Coordinar y administrar la seguridad informática institucional, a través de la protección de los activos de tecnologías de la información y centros de cómputo, a fin de preservar la confidencialidad, integridad y disponibilidad de la información;
 
 XXVII. Coordinar los servicios de mantenimiento y conservación de los bienes muebles, inmuebles y demás activos que tenga en propiedad o posesión el INECC, conforme a las disposiciones aplicables en la materia;
 
 XXVIII. Coordinar la atención de las solicitudes y requerimientos que formule el Órgano Interno de Control y otras instancias fiscalizadoras en materia de procedimientos de investigación y/o auditorías, mejora regulatoria y procesos de mejoramiento de desarrollo institucional, y
 
 XXIX. Presidir los comités del INECC que por mandato de ley se constituyan, así como aquellos que le deleguen.
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXX. Autorizar licencias, permisos o comisiones, de conformidad con las necesidades del servicio y disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXXI. Establecer y aprobar la arquitectura tecnológica institucional en materia de tecnologías de la información y comunicaciones y seguridad de la información; y
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXXII. Proponer y administrar las políticas, lineamientos y procedimientos de los dominios y servicios informáticos.
 
 #### SECCIÓN SÉPTIMA. De la Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia
 
@@ -841,11 +1171,15 @@ XII. Compilar y difundir las normas jurídicas relacionadas con las actividades 
 
 XIII. Coordinar y establecer la postura institucional, desde el punto de vista jurídico, respecto a las solicitudes de opinión que en materia legislativa sean formuladas;
 
-XIV. Formular denuncias o querellas respecto de hechos que lo ameriten y en los que el INECC haya resultado ofendido o tenga interés; coadyuvar con la Agencia del Ministerio Público en la integración de las carpetas de investigación y en el trámite de los procesos penales correspondientes y, en su caso, otorgar el perdón legal o acordar conciliaciones;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XIV. Formular denuncias o querellas respecto de hechos que lo ameriten y en los que el INECC haya resultado ofendido o tenga interés; coadyuvar con las autoridades del Ministerio Público en la integración de las carpetas de investigación y en el trámite de los procesos penales correspondientes y, en su caso, otorgar el perdón legal o acordar conciliaciones;
 
 XV. Elaborar los informes previos y justificados que en materia de amparo deba rendir la Dirección General, así como los relativos a las demás unidades administrativas que sean señaladas como autoridades responsables, suplir sus ausencias y comparecer como tercero perjudicado cuando se requiera, además de formular y presentar todas las promociones que a dichos juicios se refieran;
 
-XVI. Representar a la Dirección General ante el Tribunal Federal de Conciliación y Arbitraje y, en su caso, ante otras autoridades laborales, en los conflictos de carácter laboral que se susciten, con todas las facultades de representación y defensa;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XVI. Representar a la Dirección General ante el Tribunal Federal de Conciliación y Arbitraje, Juntas Federal y/o Local de Conciliación y Arbitraje y en su caso, ante otras autoridades laborales, en los conflictos de carácter laboral que se susciten, con todas las facultades de representación y defensa;
 
 XVII. Participar en la aplicación de las disposiciones jurídicas en materia laboral, y en la ejecución de resoluciones en materia de responsabilidades de las y los servidores públicos;
 
@@ -861,19 +1195,27 @@ XXII. Realizar la inscripción, en el Registro Público de los Organismos Descen
 
 XXIII. Requerir la contratación de abogados o despachos externos, en su caso, para la atención de los asuntos a su cargo;
 
-XXIV. Ejercer las funciones que correspondan a la Unidad de Enlace en los términos aplicables de las leyes en materia de transparencia y acceso a la información pública;
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXIV. Ejercer las funciones que correspondan a la Unidad de Transparencia en los términos aplicables de las leyes en materia de transparencia y acceso a la información pública;
 
 XXV. Coordinar la atención de las solicitudes y requerimientos que formule el Órgano Interno de Control en materia de quejas o procedimientos de responsabilidades, con la participación que corresponda a las demás unidades administrativas, y
 
-XXVI. Designar y autorizar a las y los servidores públicos adscritos a esta Unidad para ejercer las atribuciones anteriores, así como para representar, contestar demandas, denunciar, querellarse, comparecer a las audiencias y a todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendientes a la defensa de los intereses del INECC.
+> <small>(REFORMADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXVI. Designar y autorizar a las personas servidoras públicas adscritas a esta Unidad para ejercer las atribuciones anteriores, así como para representar, contestar demandas, denunciar, querellarse, comparecer a las audiencias y a todo tipo de diligencias y actuaciones jurisdiccionales, ofrecer pruebas, interponer recursos y, en general, realizar todo tipo de actos tendientes a la defensa de los intereses del INECC; y
+
+> <small>(ADICIONADA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+XXVII. Las demás que le confieran este Estatuto Orgánico y la normatividad aplicable, así como las que le asigne la o el titular de la Dirección General.
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 16 DE OCTUBRE DE 2019)</small>
 
 #### SECCIÓN OCTAVA. De las Delegaciones
 
 ###### Artículo 27.
 
-Atribuciones de las Delegaciones
-
-Dichas delegaciones tendrán las atribuciones que dispongan los Manuales General de Organización, y Específicos que para tal efecto se emitan.
+(DEROGADO, D.O.F. 16 DE OCTUBRE DE 2019)
 
 ### CAPÍTULO SÉPTIMO. DE LOS ÓRGANOS DE CONTROL Y VIGILANCIA
 
@@ -881,13 +1223,17 @@ Dichas delegaciones tendrán las atribuciones que dispongan los Manuales General
 
 Del Órgano Interno de Control del INECC
 
-El Órgano Interno de Control en la Secretaría de Medio Ambiente y Recursos Naturales ejercerá las atribuciones de Órgano Interno de Control del INECC, por tanto, las y los servidores públicos del Instituto estarán obligados a atender con diligencia sus requerimientos y resoluciones.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+El Órgano Interno de Control en la Secretaría de Medio Ambiente y Recursos Naturales ejercerá las atribuciones de Órgano Interno de Control del INECC, por tanto, las personas servidoras públicas del Instituto estarán obligados a atender con diligencia sus requerimientos y resoluciones.
 
 ###### Artículo 29.
 
 Del Órgano de Vigilancia del INECC
 
-Contará con un Órgano de Vigilancia, integrado por una Comisaria o Comisario Público Propietario y un Suplente, designados por la Secretaría de la Función Pública, quienes ejercerán las atribuciones que les confieren la LFEP, su Reglamento y los demás ordenamientos legales y administrativos aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+Contará con un Órgano de Vigilancia, integrado por una Comisaria o Comisario Público Propietario y su Suplente, designados por la Secretaría de la Función Pública, quienes ejercerán las atribuciones que les confieren la LFEP, su Reglamento y los demás ordenamientos legales y administrativos aplicables.
 
 Asistirán a las sesiones ordinarias y extraordinarias de la Junta de Gobierno y del Comité de Control y Desempeño Institucional, en representación de la Secretaría de la Función Pública, con voz pero sin voto.
 
@@ -901,11 +1247,15 @@ Del Registro de Poderes
 
 La Dirección General llevará, con apoyo de la Unidad Ejecutiva de Asuntos Jurídicos, Información y Transparencia, un registro del otorgamiento, sustitución y revocación de los poderes generales y especiales.
 
+> <small>(REFORMADO EN SU ENCABEZADO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 31.
 
-De la Suplencia de las y los Servidores Públicos
+De la Suplencia por ausencia de las personas Servidoras Públicas
 
-Las ausencias de la o el Director General, las y/o los coordinadores generales, titulares de unidad, las y/o los delegados, las y/o los directores, las y/o los subdirectores y las y/o los jefes de departamento serán suplidas por las y los servidores públicos del nivel jerárquico inmediato inferior en los asuntos de su respectiva competencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+Las suplencias por ausencia de las personas servidoras públicas que ocupen los cargos de Dirección General, Coordinación General, Titular de Unidad, Direcciones, Subdirecciones y las Jefaturas de Departamento, serán suplidas por las personas servidoras públicas del nivel jerárquico inmediato inferior en los asuntos de su respectiva competencia.
 
 Las suplencias sólo tendrán efectos para el trámite y resolución de los asuntos que correspondan, y no representarán un nuevo nombramiento ni tendrán implicación alguna en el tabulador de sueldos y prestaciones.
 
@@ -915,7 +1265,9 @@ Las suplencias sólo tendrán efectos para el trámite y resolución de los asun
 
 De las Modificaciones
 
-Las modificaciones al presente Estatuto sólo tendrán lugar a iniciativa de las y los integrantes de la Junta de Gobierno o de la Dirección General, y seguirán el mismo procedimiento que se siguió para su aprobación.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE OCTUBRE DE 2019)</small>
+
+Las modificaciones al presente Estatuto sólo tendrán lugar a iniciativa de la Junta de Gobierno o de la Dirección General, y seguirán el mismo procedimiento que se siguió para su aprobación.
 
 ## TRANSITORIOS
 
@@ -938,3 +1290,25 @@ a) Las correspondientes a la Coordinación General de Mitigación del Cambio Cli
 b) Las correspondientes a la Coordinación General de Cambio Climático para la Evaluación de las Políticas de Mitigación y Adaptación por la Coordinación General de Evaluación de las Políticas de Mitigación y Adaptación al Cambio Climático.
 
 Ciudad de México, a 7 siete de octubre de 2016.- Este estatuto fue expedido por la Junta de Gobierno del Instituto Nacional de Ecología y Cambio Climático, mediante acuerdo ACU/ORD/03/04/2016 adoptado en su tercera sesión ordinaria celebrada el día siete de octubre de dos mil dieciséis.- La Directora General, María Amparo Martínez Arroyo.- Rúbrica.- El Prosecretario de la Junta de Gobierno, Gerardo Israel Gordoa Márquez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DAN A CONOCER LAS REFORMAS, ADICIONES Y DEROGACIONES A DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE ECOLOGÍA Y CAMBIO CLIMÁTICO”.]
+
+Primero. Las presentes modificaciones al Estatuto Orgánico del Instituto Nacional de Ecología y Cambio Climático entrarán en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan a las presentes modificaciones.
+
+Tercero. En tanto se obtiene por parte de las instancias competentes la autorización formal de la estructura que prevé este Estatuto y las plazas respectivas, las atribuciones conferidas a los Coordinadores Generales y Titulares de las Unidades previstas en este ordenamiento se ejercerán por los responsables de las unidades administrativas del INECC que a la fecha se encuentran autorizadas, de la siguiente forma:
+
+a) Las correspondientes a la Coordinación General de Adaptación al Cambio Climático y Ecología, por la Coordinación General de Adaptación al Cambio Climático;
+
+b) Las correspondientes a la Coordinación General de Divulgación, Seguimiento y Evaluación de Políticas Públicas de Cambio Climático, por la Coordinación General de Cambio Climático para la Evaluación de las Políticas de Mitigación y Adaptación;
+
+c) Las correspondientes a la Unidad de Administración y Finanzas por la Unidad Ejecutiva de Administración.
+
+Cuarto. Inscríbase en el Registro Público de Organismos Descentralizados para los efectos a que haya lugar.
+
+Quinto. Derivado de la nueva organización estructural, la Dirección General modificará el Manual General y los Manuales Específicos que correspondan, en un plazo no mayor a un año, contados a partir del día siguiente a que el presente Estatuto se publique en el órgano de difusión federal antes citado.
