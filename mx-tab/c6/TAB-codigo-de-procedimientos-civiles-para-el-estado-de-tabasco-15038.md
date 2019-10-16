@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-procedimientos-civiles-para-el-estado-de-tabasco-1503
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-12"
-last_updated: "2019-08-07"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de abril de 1997.
 
@@ -9625,6 +9625,14 @@ Si el juzgador encuentra fundada la solicitud, dispondrá que se publique durant
 
 El fallo que se pronuncie en el procedimiento de declaración de ausencia será apelable en el efecto suspensivo.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 751 Bis.
+
+Ausencia por desaparición
+
+Cuando la ausencia sea resultado de los delitos de desaparición forzada o desaparición cometida por particulares se estará a lo dispuesto en la Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema de Búsqueda de Personas para el Estado de Tabasco y en lo no previsto en dicha ley, a lo establecido por la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y demás normatividad aplicable.
+
 > <small>(F. DE E., P.O. 22 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 752.
@@ -9902,3 +9910,11 @@ Los expedientes civiles de los Juzgados de Paz foráneos se declinarán a los ju
 CUARTO. Los derechos laborales del personal que se desempeña en los Juzgados de Paz serán respetados en su totalidad. Para tales efectos, el Consejo de la Judicatura llevará a cabo las acciones administrativas que considere necesarias, con la finalidad de satisfacer eficazmente la operatividad de los restantes órganos jurisdiccionales, ponderando la carrera judicial y la experiencia de las y los trabajadores.
 
 QUINTO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 123 POR EL QUE “SE ADICIONA EL ARTÍCULO 751 BIS AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
