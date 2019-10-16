@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2017-05-16"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2017.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DEL 16 DE MAYO DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -1503,9 +1501,17 @@ e) Por no ajustarse al arancel aprobado;
 
 f) Por recibir y conservar en depósito cantidades de dinero, en contravención a esta Ley;
 
-g) Por negarse, sin causa justificada, al ejercicio de sus funciones cuando hubiere sido requerido para ello; o
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-h) Por no asegurarse debidamente de la identidad de los otorgantes en todos los actos y hechos en que intervenga, en términos del artículo 97 de esta ley;
+g).- Por negarse, sin causa justificada, al ejercicio de sus funciones cuando hubiere sido requerido para ello;
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+h).- Por no asegurarse debidamente de la identidad de los otorgantes en todos los actos y hechos en que intervenga, en términos del artículo 97 de esta ley; o
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+i).- Por autorizar una operación sobre enajenación de derechos de propiedad o posesión sobre bienes inmuebles que cuenten con adeudos por concepto de servicios de agua potable, drenaje y alcantarillado.
 
 III. Suspensión del cargo hasta por un año:
 
@@ -2348,3 +2354,11 @@ P.O. 8 DE MAYO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-1048 QUE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, Y LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, A FIN DE FORTALECER Y EFICIENTAR LA RECAUDACIÓN POR LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO PRESTADOS POR LOS ORGANISMOS OPERADORES EN EL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Estado de Tamaulipas.
