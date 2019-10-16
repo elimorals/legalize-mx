@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2019-08-20"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -457,9 +457,15 @@ IX.- Elaborar y ejecutar un programa de adecuación arquitectónica de las insta
 
 X.- Promover que los estudiantes presten apoyo a personas con discapacidad que así lo requieran, a fin de que cumplan con el requisito del servicio social;
 
-XI.- Diseñar e implementar programas de formación y certificación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas Mexicana; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-XII.- Proponer y ejecutar cursos de verano específicos para personas con discapacidad;
+XI.- Diseñar e implementar programas de formación y certificación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español y la Lengua de Señas Mexicana;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+XII.- Promover el desarrollo de acciones tendientes al otorgamiento de becas educativas, y de capacitación para personas con discapacidad en todos los niveles del Sistema Educativo Estatal; y
+
+XIII.- Proponer y ejecutar cursos de verano específicos para personas con discapacidad.
 
 ###### ARTÍCULO 29.
 
@@ -521,9 +527,17 @@ I.- Diseñar y ejecutar campañas de sensibilización sobre las diversas discapa
 
 II.- En conjunto con los Sistemas Municipales DIF, crear y operar Unidades Básicas de Rehabilitación donde se atienda a personas con discapacidad y en las que los costos de los servicios se determinen por el perfil socioeconómico;
 
-III.- Celebrar convenios con instituciones privadas, sociales y organizaciones de y para personas con discapacidad, que tengan como finalidad impulsar la investigación, desarrollo y producción de ayudas técnicas a costos accesibles para personas con discapacidad; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-IV.- Coadyuvar en la prestación de los servicios de habilitación y rehabilitación integral a las personas con discapacidad. Esto incluye asistencia y servicios interinstitucionales, que permita a las personas con discapacidad temporal o permanente su inclusión al desarrollo.
+III.- Celebrar convenios con instituciones privadas, sociales y organizaciones de y para personas con discapacidad, que tengan como finalidad impulsar la investigación, desarrollo y producción de ayudas técnicas a costos accesibles para personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IV.- Coadyuvar en la prestación de los servicios de habilitación y rehabilitación integral a las personas con discapacidad. Esto incluye asistencia y servicios interinstitucionales, que permita (sic) a las personas con discapacidad temporal o permanente su inclusión al desarrollo; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+V.- Promover, en coordinación con los Sistemas DIF municipales, ante las instancias públicas y privadas correspondientes, la adecuación, mejoramiento y construcción de lugares de esparcimiento y recreo libres de barreras arquitectónicas que permitan su uso por parte de personas con discapacidad, así como el libre acceso y tránsito de éstas en dichas instalaciones.
 
 ###### ARTÍCULO 33.
 
@@ -1012,6 +1026,22 @@ Ante la eventual renuncia de alguno de los representantes de la sociedad civil q
 P.O. 20 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-817 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE 36 LEYES Y 1 CÓDIGO, EN MATERIA DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-1041 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XI, Y SE ADICIONA LA FRACCIÓN XII, RECORRIÉNDOSE LA ACTUAL XII PARA SER XIII DEL ARTÍCULO 28 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIII-1045 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES III Y IV; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 32 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
