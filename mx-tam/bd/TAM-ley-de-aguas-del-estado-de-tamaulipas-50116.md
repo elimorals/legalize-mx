@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2019-08-20"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -2171,11 +2171,13 @@ No se podrán instalar sistemas hidroneumáticos directamente a la toma domicili
 
 Los predios ubicados en el área de factibilidad de los servicios públicos, por cuyo frente exista la infraestructura del servicio de agua potable, no podrán tener conexiones con otros sistemas de abastecimiento de agua.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 129.
 
-1. Los notarios públicos están obligados, antes de autorizar una operación de compraventa, a certificar que el predio no tenga acreditado ningún adeudo con el prestador de los servicios públicos.
+1. Los notarios públicos o funcionarios que actúen con fe pública en el otorgamiento de contratos o actos que modifiquen la propiedad o posesión de inmuebles, están obligados, antes de que se firme una operación de enajenación, a certificar que el predio no tenga acreditado ningún adeudo con el prestador de los servicios públicos.
 
-2. Los notarios serán deudores solidarios de los adeudos que se acrediten a una propiedad cuando hayan realizado una operación de compraventa donde el propietario vendedor tenga un adeudo con el prestador de los servicios públicos.
+2. Los notarios o funcionarios que actúen con fe pública en el otorgamiento de contratos o actos que modifiquen la propiedad o posesión de inmuebles serán deudores solidarios de los adeudos que se acrediten a una propiedad cuando hayan realizado una operación de enajenación donde el enajenante tenga un adeudo con el prestador de los servicios públicos.
 
 ###### Artículo 130.
 
@@ -3142,3 +3144,11 @@ P.O. 20 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-1048 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, Y LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, A FIN DE FORTALECER Y EFICIENTAR LA RECAUDACIÓN POR LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO PRESTADOS POR LOS ORGANISMOS OPERADORES EN EL ESTADO".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
