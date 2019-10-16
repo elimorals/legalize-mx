@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-inmueble-y-del-60255"
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2019-01-09"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Anexo Número 27 del Periódico Oficial del Estado de Tamaulipas, el jueves 28 de febrero de 2008.
 
@@ -1217,9 +1217,17 @@ II. Avalúo pericial, catastral o comercial. El avalúo tendrá una vigencia de 
 
 III. Comprobante del pago de impuesto predial, vigente a la fecha en que se autoricen las escrituras, actos o contratos;
 
-IV. Plano o croquis del inmueble señalándose su ubicación, superficie, medidas y colindancias; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-V. Acreditación de uso de suelo expedida por la autoridad municipal, cuando se trate de una finca rústica que se convierta en urbana.
+IV. Plano o croquis del inmueble señalándose su ubicación, superficie, medidas y colindancias;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+V. Acreditación de uso de suelo expedida por la autoridad municipal, cuando se trate de una finca rústica que se convierta en urbana; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+VI. Comprobante de no adeudo o recibo correspondiente que acredite que el inmueble no tiene adeudos por concepto de servicios de agua potable, drenaje y alcantarillado.
 
 ###### ARTICULO 143.
 
@@ -1570,3 +1578,11 @@ P.O. 9 DE ENERO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1048 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, Y LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD INMUEBLE Y DEL COMERCIO, A FIN DE FORTALECER Y EFICIENTAR LA RECAUDACIÓN POR LOS SERVICIOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO PRESTADOS POR LOS ORGANISMOS OPERADORES EN EL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Estado de Tamaulipas.
