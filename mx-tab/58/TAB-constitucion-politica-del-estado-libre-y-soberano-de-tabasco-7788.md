@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2019-06-05"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -465,15 +465,13 @@ VII.- La ley garantizará que los partidos políticos nacionales y locales cuent
 
 Al partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales, le será cancelado el registro. Esta disposición no será aplicable para los partidos políticos nacionales que participen en las elecciones locales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE OCTUBRE DE 2019)</small>
 
-VIII.- El financiamiento público para los partidos políticos que mantengan su registro y alcancen el tres por ciento de la votación en la elección para Gobernador o de Diputados por el principio de mayoría relativa inmediata anterior, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, así como las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, el que se otorgará conforme a lo siguiente y a lo que disponga la ley:
+VIII. El financiamiento público para los partidos políticos nacionales y locales, que mantengan su registro y alcancen el tres por ciento de la votación en la elección para Diputados inmediata anterior, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, así como las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, el que se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
-(NOTA: EL 5 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VIII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 100/2018 Y SUS ACUMULADAS 102/2018, 103/2018 Y 104/2018, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN VIII DEL APARTADO A DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 5 DE SEPTIEMBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)</small>
-
-a) EL FINANCIAMIENTO PÚBLICO PARA EL SOSTENIMIENTO DE SUS ACTIVIDADES ORDINARIAS PERMANENTES SE FIJARÁ ANUALMENTE, MULTIPLICANDO EL NÚMERO TOTAL DE CIUDADANOS INSCRITOS EN EL PADRÓN ELECTORAL DEL ESTADO POR EL TREINTA Y DOS PUNTO CINCO (32.5 %) POR CIENTO DEL VALOR DIARIO DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. EL 30% DE LA CANTIDAD TOTAL QUE RESULTE DE ACUERDO A LO SEÑALADO ANTERIORMENTE, SE DISTRIBUIRÁ ENTRE LOS PARTIDOS POLÍTICOS EN FORMA IGUALITARIA Y EL 70% RESTANTE SE DISTRIBUIRÁ ENTRE LOS MISMOS DE ACUERDO CON EL PORCENTAJE DE VOTOS QUE HUBIEREN OBTENIDO EN LA ELECCIÓN DE DIPUTADOS INMEDIATA ANTERIOR;
+a) El financiamiento público para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos locales se fijará anualmente en los términos establecidos por la Ley General de Partidos Políticos. El financiamiento público para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos nacionales se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral del Estado por el treinta y dos punto cinco por ciento (32.5 %) del valor diario de la Unidad de Medida y Actualización. El treinta por ciento (30%) de la cantidad total que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento (70%) restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados inmediata anterior;
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2014)</small>
 
@@ -3399,7 +3397,7 @@ PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 
 SEGUNDO.- La Secretaría de Salud tendrá un término de sesenta días, a partir de la entrada en vigor de esta ley, para implementar las acciones conducentes a su cumplimiento.
 
-TERCERO.- Se derogan todas la disposiciones que se opongan al presente Decreto.
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas fueron aprobadas por los 17 Ayuntamientos de la entidad.
 
@@ -3724,3 +3722,15 @@ Se derogan las disposiciones que se opongan al contenido del presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 De conformidad con lo establecido en el Artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, la presente reforma fue aprobada por los ayuntamientos de la Entidad.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 124 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO Y EL INCISO A) DE LA FRACCIÓN VIII DEL APARTADO A DEL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Congreso del Estado deberá adecuar la legislación secundaria en la materia dentro de los ciento ochenta días naturales a la entrada en vigor del presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, la presente reforma fue aprobada por los Ayuntamientos de la entidad.
