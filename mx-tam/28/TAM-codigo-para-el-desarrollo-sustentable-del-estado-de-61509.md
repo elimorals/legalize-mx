@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2018-11-27"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "TAM"
 
 CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
-EUGENIO HERNÁNDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
+EUGENIO HERNANDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
 Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
@@ -37,7 +37,9 @@ Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas
 
 LA SEXAGESIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 44 DE LA CONSTITUCION POLITICA LOCAL; Y EL ARTICULO 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-DECRETO No. LX - 18.- MEDIANTE EL CUAL SE EXPIDE EL CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS.
+D E C R E T O N o . L X - 1 8
+
+MEDIANTE EL CUAL SE EXPIDE EL CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS.
 
 CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
@@ -833,11 +835,17 @@ III. Celebrar convenios con los medios de comunicación masiva para la difusión
 
 IV. Promover el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad en el Estado para preservar y restaurar el medio ambiente en el mismo;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-V. Impulsar el fortalecimiento de la conciencia ambiental, a través de la realización de acciones conjuntas con la comunidad, grupos e instituciones interesadas para la conservación y mejoramiento del medio ambiente y el correcto manejo de residuos en la entidad; al efecto, la Secretaría podrá, en forma coordinada con los Ayuntamientos, celebrar convenios de colaboración con comunidades urbanas y rurales, así como con diversas organizaciones sociales en el Estado; y
+V. Impulsar el fortalecimiento de la conciencia ambiental, a través de la realización de acciones conjuntas con la comunidad, grupos e instituciones interesadas para la conservación y mejoramiento del medio ambiente y el correcto manejo de residuos en la entidad; al efecto, la Secretaría podrá, en forma coordinada con los Ayuntamientos, celebrar convenios de colaboración con comunidades urbanas y rurales, así como con diversas organizaciones sociales en el Estado;
 
-VI. Concertar acciones e inversiones con los particulares y con organizaciones de los sectores social y privado y de carácter académico y cívico para la conservación y restauración del medio ambiente en la entidad.
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+VI. Concertar acciones e inversiones con los particulares y con organizaciones de los sectores social y privado y de carácter académico y cívico para la conservación y restauración del medio ambiente en la entidad; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+VII. Fomentará acciones encaminadas a que los establecimientos de alimentos y bebidas no promuevan el consumo de popotes y agitadores de plástico para bebidas, salvo que el usuario así lo disponga.
 
 ###### ARTICULO 40.
 
@@ -4011,7 +4019,7 @@ DEL ACCESO A LA DOCUMENTACION E INFORMACION.
 
 2. Los promoventes podrán solicitar que les sea expedida a su costa, copia certificada de los documentos contenidos en el expediente administrativo en el que se actúa.
 
-### CAPITULO VIII. DE LA TRAMITACION y LAS PRUEBAS
+### CAPITULO VIII. DE LA TRAMITACION Y LAS PRUEBAS
 
 ###### ARTICULO 260.
 
@@ -4924,3 +4932,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1047 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES V Y VI, Y SE ADICIONA LA FRACCIÓN VII, AL ARTÍCULO 39, DEL CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
