@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2018-11-22"
+last_updated: "2019-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -59,67 +59,69 @@ Para los efectos de esta Ley se entiende por:
 
 I.- Agentes Destructivos.- A los fenómenos de carácter geológico, hidrometeorológico, químico-tecnológico, sanitario-ecológico, y socio-organizativo que pueden producir riesgo, alto riesgo, emergencia o desastre;
 
-II.- Alto Riesgo.- Al inminente o muy probable ocurrencia de una emergencia o desastre;
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-III.- Apoyo.- Al conjunto de actividades administrativas destinadas a la prevención, el auxilio y la recuperación de la población ante situaciones de emergencia o desastre;
+II.- Albergue.- Instalación temporal, estatal o municipal, o particular destinada a dar techo, cama y alimentos dignos, a los damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+III.- Alto Riesgo.- Al inminente o muy probable ocurrencia de una emergencia o desastre;
 
-IV.- Auxilio.- Las acciones destinadas primordialmente a salvaguardar la integridad física, salud y bienes de las personas; la planta productiva; y a preservar los servicios públicos y el medio ambiente, ante la presencia de desastres. Estas acciones son de: alertamiento; evaluación de daños; planes de emergencia; seguridad; búsqueda, salvamento y asistencia; servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento; comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad;
-
-V.- Damnificado.- A la persona que sufre en su integridad física o en sus bienes daños de consideración, provocados directamente por los efectos de un desastre; también se considerarán damnificados a sus dependientes económicos. Es aplicable este concepto, a la persona que por la misma causa haya perdido su ocupación o empleo, requiriendo consecuentemente del apoyo gubernamental para sobrevivir en condiciones dignas;
-
-VI.- Desastre.- Al evento determinado en tiempo y espacio en el cual, la sociedad o una parte de ella, sufre daños severos tales como: pérdida de vidas humanas, lesiones a la integridad física de las personas, daño a la salud, afectación de la planta productiva, daños materiales, daños al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad. También se les considera calamidades públicas;
-
-VII.- Emergencia.- La situación derivada de fenómenos naturales, actividades humanas o desarrollo tecnológico que pueden afectar la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente, cuya atención debe ser inmediata;
-
-VIII.- Establecimientos.- A las escuelas, oficinas, empresas, fábricas, industrias, o comercios, así como a cualquier otro local público o privado y, en general, a cualquier instalación, construcción, servicio u obra, en los que debido a su propia naturaleza, al uso a que se destine, o a la concurrencia masiva de personas, pueda existir riesgo. Para los efectos de esta ley, existen establecimientos de competencia Estatal, y de competencia Municipal;
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-IX.- Fenómeno geológico.- Calamidad que tiene como causa las acciones y movimientos violentos de la corteza terrestre. A esta categoría pertenecen los sismos o terremotos, las erupciones volcánicas, los tsunamis o maremotos y la inestabilidad de suelos, también conocido como movimientos de tierra, los que pueden adoptar diferentes formas: arrastre lento o reptación, deslizamiento, flujo o corriente, avalancha o alud, derrumbe y hundimiento;
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-X.- Fenómeno hidrometeorológico.- Calamidad que se genera por la acción violenta de los agentes atmosféricos, tales como: huracanes, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías y las ondas cálidas y gélidas;
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XI.- Fenómeno químico-tecnológico.- Calamidad que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas y radiaciones;
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XII.- Fenómeno sanitario-ecológico.- Calamidad que se genera por la acción patógena de agentes biológicos que atacan a la población, a los animales y a las cosechas, causando su muerte o la alteración de salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XIII.- Fenómeno socio-organizativo.- Calamidad generada por motivo de errores o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población;
-
-XIV.- Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constituidos y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que para tal efecto cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
-
-XV.- Prevención.- A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud, bienes de las personas, la planta productiva, los servicios públicos y el medio ambiente;
+IV.- Apoyo.- Al conjunto de actividades administrativas destinadas a la prevención, el auxilio y la recuperación de la población ante situaciones de emergencia o desastre;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
-XVI.- Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la integridad física, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en la Entidad;
+V.- Auxilio.- Las acciones destinadas primordialmente a salvaguardar la integridad física, salud y bienes de las personas; la planta productiva; y a preservar los servicios públicos y el medio ambiente, ante la presencia de desastres. Estas acciones son de: alertamiento; evaluación de daños; planes de emergencia; seguridad; búsqueda, salvamento y asistencia; servicios estratégicos, equipamiento y bienes; salud; aprovisionamiento; comunicación social de emergencia; reconstrucción inicial y vuelta a la normalidad;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+VI.- Damnificado.- A la persona que sufre en su integridad física o en sus bienes daños de consideración, provocados directamente por los efectos de un desastre; también se considerarán damnificados a sus dependientes económicos. Es aplicable este concepto, a la persona que por la misma causa haya perdido su ocupación o empleo, requiriendo consecuentemente del apoyo gubernamental para sobrevivir en condiciones dignas;
 
-XVII.- Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno), así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos;
+VII.- Desastre.- Al evento determinado en tiempo y espacio en el cual, la sociedad o una parte de ella, sufre daños severos tales como: pérdida de vidas humanas, lesiones a la integridad física de las personas, daño a la salud, afectación de la planta productiva, daños materiales, daños al medio ambiente, imposibilidad para la prestación de servicios públicos; de tal manera que la estructura social se desajusta y se impide el cumplimiento normal de las actividades de la comunidad. También se les considera calamidades públicas;
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+VIII.- Emergencia.- La situación derivada de fenómenos naturales, actividades humanas o desarrollo tecnológico que pueden afectar la vida y bienes de la población, la planta productiva, los servicios públicos y el medio ambiente, cuya atención debe ser inmediata;
 
-XVIII.- Riesgo.- La probabilidad de peligro o contingencia de que se produzca un desastre;
-
-> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
-
-XIX.- Zona de desastre.- Espacio territorial determinado en el tiempo para la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad; y
+IX.- Establecimientos.- A las escuelas, oficinas, empresas, fábricas, industrias, o comercios, así como a cualquier otro local público o privado y, en general, a cualquier instalación, construcción, servicio u obra, en los que debido a su propia naturaleza, al uso a que se destine, o a la concurrencia masiva de personas, pueda existir riesgo. Para los efectos de esta ley, existen establecimientos de competencia Estatal, y de competencia Municipal;
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
-XX.- Zona de salvaguarda.- Espacio territorial comprendido entre el área en la cual se realizan las actividades altamente riesgosas o riesgosas, con objeto de amortiguar las eventuales consecuencias para la población de la presencia de una contingencia o emergencia derivada de dichas actividades.
+X.- Fenómeno geológico.- Calamidad que tiene como causa las acciones y movimientos violentos de la corteza terrestre. A esta categoría pertenecen los sismos o terremotos, las erupciones volcánicas, los tsunamis o maremotos y la inestabilidad de suelos, también conocido como movimientos de tierra, los que pueden adoptar diferentes formas: arrastre lento o reptación, deslizamiento, flujo o corriente, avalancha o alud, derrumbe y hundimiento;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XI.- Fenómeno hidrometeorológico.- Calamidad que se genera por la acción violenta de los agentes atmosféricos, tales como: huracanes, inundaciones pluviales, fluviales, costeras y lacustres; tormentas de nieve, granizo, polvo y electricidad; heladas; sequías y las ondas cálidas y gélidas;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XII.- Fenómeno químico-tecnológico.- Calamidad que se genera por la acción violenta de diferentes sustancias derivadas de su interacción molecular o nuclear. Comprende fenómenos destructivos tales como: incendios de todo tipo, explosiones, fugas tóxicas y radiaciones;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XIII.- Fenómeno sanitario-ecológico.- Calamidad que se genera por la acción patógena de agentes biológicos que atacan a la población, a los animales y a las cosechas, causando su muerte o la alteración de salud. Las epidemias o plagas constituyen un desastre sanitario en el sentido estricto del término. En esta clasificación también se ubica la contaminación del aire, agua, suelo y alimentos;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XIV.- Fenómeno socio-organizativo.- Calamidad generada por motivo de errores o por acciones premeditadas, que se dan en el marco de grandes concentraciones o movimientos masivos de población;
+
+XV.- Grupos Voluntarios.- A las organizaciones y asociaciones legalmente constituidos y que cuentan con el reconocimiento oficial, cuyo objeto social sea prestar sus servicios en acciones de protección civil de manera comprometida y altruista, sin recibir remuneración alguna, y que para tal efecto cuentan con los conocimientos, preparación y equipos necesarios e idóneos;
+
+XVI.- Prevención.- A las acciones, principios, normas, políticas y procedimientos, tendientes a disminuir o eliminar riesgos o altos riesgos, así como para evitar desastres y mitigar su impacto destructivo sobre la vida, la salud, bienes de las personas, la planta productiva, los servicios públicos y el medio ambiente;
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+
+XVII.- Protección Civil.- Al conjunto de acciones, principios, normas, políticas y procedimientos preventivos o de auxilio, recuperación, y apoyo, tendientes a proteger la integridad física, la salud y el patrimonio de las personas, la planta productiva, la prestación de servicios públicos y el medio ambiente; realizadas ante los riesgos, altos riesgos, emergencias o desastres; que sean producidos por causas de origen natural, artificial o humano, llevados a cabo por las autoridades, organismos, dependencias e instituciones de carácter público, social o privado, grupos voluntarios y en general, por todas las personas que por cualquier motivo residan, habiten, o transiten en la Entidad;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XVIII.- Recuperación.- Al proceso orientado a la reconstrucción y mejoramiento del sistema afectado (población y entorno), así como a la reducción del riesgo de ocurrencia y la magnitud de los desastres futuros. Se logra con base en la evaluación de los daños ocurridos, en el análisis y la prevención de riesgos y en los planes de desarrollo establecidos;
+
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XIX.- Riesgo.- La probabilidad de peligro o contingencia de que se produzca un desastre;
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XX.- Zona de desastre.- Espacio territorial determinado en el tiempo para la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad; y
+
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
+
+XXI.- Zona de salvaguarda.- Espacio territorial comprendido entre el área en la cual se realizan las actividades altamente riesgosas o riesgosas, con objeto de amortiguar las eventuales consecuencias para la población de la presencia de una contingencia o emergencia derivada de dichas actividades.
 
 ###### ARTICULO 3°.
 
@@ -127,9 +129,17 @@ Para los efectos de esta ley, se considera de orden público e interés social:
 
 I.- El establecimiento y consecución de la protección civil en el Estado de Tamaulipas;
 
-II.- La elaboración, aplicación, evaluación y difusión del Programa Estatal y Municipal de Protección Civil, según corresponda; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-III.- Las acciones de capacitación, prevención, auxilio, recuperación, y apoyo que para el cumplimiento de la presente ley se realicen.
+II.- La elaboración, aplicación, evaluación y difusión del Programa Estatal y Municipal de Protección Civil, según corresponda;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- Las acciones de capacitación, prevención, auxilio, recuperación, y apoyo que para el cumplimiento de la presente ley se realicen; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IV.- La instalación de albergues temporales, por autoridades estatales, municipales, o privados, para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
 ###### ARTICULO 4°.
 
@@ -159,9 +169,15 @@ III.- Promover la participación de la sociedad en la protección civil;
 
 IV.- Crear los Fondos de Desastres Estatal o Municipal según sea el caso, para la atención de emergencias originadas por riesgos, altos riesgos, emergencias o desastres. La aplicación de estos Fondos, se hará conforme a las disposiciones presupuestales y legales aplicables;
 
-V.- Incluir acciones y programas sobre la materia, en los Planes de Desarrollo Estatal y Municipal, según corresponda; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-VI.- Celebrar convenios de colaboración y coordinación en materia de esta ley.
+V.- Incluir acciones y programas sobre la materia, en los Planes de Desarrollo Estatal y Municipal, según corresponda;
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+VI.- Instalar albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas; y
+
+VII.- Celebrar convenios de colaboración y coordinación en materia de esta ley.
 
 ###### ARTICULO 6°.
 
@@ -349,11 +365,15 @@ XIII.- Hacer la declaratoria formal de emergencia;
 
 XIV.- Autorizar:
 
-a).- La puesta en operación de los programas de emergencia para los diversos factores de riesgo; y
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+a).- La puesta en operación de los programas de emergencia para los diversos factores de riesgo, así como la implementación de albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas; y
 
 b).- La difusión de los avisos y alertas respectivas;
 
 XV.- Convocar al Centro Estatal de Operaciones; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 16 DE OCTUBRE DE 2019)</small>
 
 XVI.- Las demás que le confiera la ley y las que le otorgue el Consejo.
 
@@ -405,19 +425,21 @@ XIV.- Los demás que les confieran las leyes, sus reglamentos, el Consejo, su Pr
 
 ### CAPITULO IV. DEL CENTRO ESTATAL DE OPERACIONES
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 22.
 
-La Coordinación Estatal contará de manera permanente (sic) un Centro Estatal de Operaciones, responsable de atender operativamente los riesgos, emergencias o desastres que afecten al Estado. El Centro podrá integrar a los responsables de las dependencias de la administración pública estatal, municipal y, en su caso, de las federales que se encuentren establecidas en la entidad, así como representantes de los sectores social y privado y grupos voluntarios, cuya participación sea necesaria para el auxilio y recuperación de la población de la zona afectada.
+La Coordinación Estatal contará de manera permanente (sic) un Centro Estatal de Operaciones, responsable de atender operativamente los riesgos, emergencias o desastres que afecten al Estado y los albergues que se instalen. El Centro podrá integrar a los responsables de las dependencias de la administración pública estatal, municipal y, en su caso, de las federales que se encuentren establecidas en la entidad, así como representantes de los sectores social y privado y grupos voluntarios, cuya participación sea necesaria para el auxilio y recuperación de la población de la zona afectada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 23.
 
 Compete al Centro Estatal de Operaciones:
 
-I.- Coordinar y dirigir técnica y operativamente la atención del alto riesgo, emergencia o desastre;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+I.- Coordinar y dirigir técnica y operativamente la atención del alto riesgo, emergencia o desastre y los albergues que se instalen albergues (sic) para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas;
 
 II.- Realizar la planeación táctica, logística y operativa, de los recursos necesarios, su aplicación, y las acciones a seguir;
 
@@ -569,9 +591,17 @@ p).- Edificios para estacionamientos de vehículos;
 
 q).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área mayor de mil quinientos metros cuadrados;
 
-r).- Edificaciones para almacenamiento, distribución o expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines; y
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-s).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área mayor a los mil quinientos metros cuadrados;
+r).- Edificaciones para almacenamiento, distribución o expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines;
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+s).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área mayor a los mil quinientos metros cuadrados; y
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+t).- Albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
 XX.- Determinar la existencia de riesgos en los establecimientos, así como dictar las medidas para prevenir o controlarlos;
 
@@ -581,9 +611,9 @@ XXI.- Señalar las medidas de seguridad necesarias e imponer las sanciones corre
 
 XXII.- Coadyuvar, con el Consejo de Protección Civil del Estado de Tamaulipas, en la conducción y operación del Sistema Estatal de Protección Civil, así como en la reunión, introducción y actualización de la información del mismo;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-XXIII.- Elaborar y presentar anualmente para su aprobación al Presidente del Consejo de Protección Civil, el Programa Escolar de Protección Civil, con el propósito de establecer acciones de prevención, auxilio y recuperación destinadas a salvaguardar la integridad física de la comunidad educativa, así como proteger las instalaciones, bienes muebles e información, ante la ocurrencia de cualquier situación de emergencia, del cual se deberá rendir informe anual que indicará sus alcances;
+XXIII.- Elaborar y presentar anualmente para su aprobación al Presidente del Consejo de Protección Civil, el Programa Escolar de Protección Civil, con el propósito de establecer acciones de prevención, auxilio, albergue y recuperación destinadas a salvaguardar la integridad física de la comunidad educativa, así como proteger las instalaciones, bienes muebles e información, ante la ocurrencia de cualquier situación de emergencia, del cual se deberá rendir informe anual que indicará sus alcances;
 
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -649,7 +679,9 @@ I.- Formular los reglamentos de protección civil municipal, en congruencia con 
 
 II.- Prevenir y controlar las emergencias y contingencias que pudieran presentarse en el ámbito de su competencia;
 
-III.- Dar respuesta ante la (sic) situaciones de riesgo, alto riesgo, emergencia o desastre que se presenten en el Municipio, sin perjuicio de solicitar apoyo a las autoridades de protección civil; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- Dar respuesta ante la (sic) situaciones de riesgo, alto riesgo, emergencia o desastre que se presenten en el Municipio, incluyendo la implementación de albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas sin perjuicio de solicitar apoyo a las autoridades de protección civil;
 
 IV.- Concertar acciones con los sectores público, social y privado en materia de protección civil conforme a la ley;
 
@@ -781,13 +813,17 @@ q).- Actividades o establecimientos con una superficie menor de dos mil metros c
 
 r).- Destino final de desechos sólidos;
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-s).- Edificaciones para el almacenamiento, distribución y expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines; y
+s).- Edificaciones para el almacenamiento, distribución y expendio de hidrocarburos y otros combustibles, así como las instalaciones para estos fines;
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-t).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área hasta de mil quinientos metros cuadrados.
+t).- Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores y ocupen un área hasta de mil quinientos metros cuadrados; y
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+u).- Implementación de Albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
 VI.- Diseñar y llevar a cabo campañas masivas de divulgación en materia de protección civil;
 
@@ -823,9 +859,17 @@ Los grupos voluntarios deberán organizarse conforme a las siguientes bases:
 
 I.- Territoriales: Formados por los habitantes de una colonia, de una zona, de un centro de población, de uno o varios Municipios del Estado;
 
-II.- Profesionales o de Oficios: Constituidos de acuerdo a la profesión u oficio que tengan; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-III.- De Actividades Especificas: Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones especificas de auxilio.
+II.- Profesionales o de Oficios: Constituidos de acuerdo a la profesión u oficio que tengan;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- De Actividades Específicas: Atendiendo a la función de auxilio que desempeñen, constituidos por personas dedicadas a realizar acciones específicas de auxilio; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IV.- Planeación, implementación, organización y administración de albergues para atención de damnificados por fenómenos hidro - meteorológicos como huracanes, lluvias intensas, sequías, ondas gélidas y ondas cálidas.
 
 ###### ARTICULO 40.
 
@@ -881,7 +925,7 @@ X.- Participar en todas aquellas actividades del Programa Estatal o Municipal, q
 
 XI.- Las demás que les confieran otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO VIII. OBLIGACIONES DE LAS PERSONAS FISICAS O MORALES EN MATERIA DE PROTECCION CIVIL
 
@@ -1045,7 +1089,9 @@ El Programa Estatal de Protección Civil contará con los siguientes Subprograma
 
 I.- De Prevención;
 
-II.- De Auxilio; y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+II.- De Auxilio y Albergue; y
 
 III.- De Recuperación y Vuelta a la Normalidad.
 
@@ -1059,7 +1105,9 @@ II.- La identificación de los riesgos a que esta expuesto el Estado;
 
 III.- La identificación de los objetivos del Programa;
 
-IV.- Los Subprogramas de Prevención, de Auxilio, y de Recuperación y Vuelta a la Normalidad, con sus respectivas metas, estrategias y líneas de acción;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+IV.- Los Subprogramas de Prevención, de Auxilio, Albergue, Recuperación y Vuelta a la Normalidad, con sus respectivas metas, estrategias y líneas de acción;
 
 V.- La estimación de los recursos financieros; y
 
@@ -1077,7 +1125,9 @@ I.- Los estudios, investigaciones y proyectos de protección civil a ser realiza
 
 II.- Los criterios para integrar el mapa de riesgo;
 
-III.- Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- Los lineamientos para el funcionamiento y prestación de los distintos servicios públicos que deben ofrecerse a la población, incluido el de Albergue;
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
 
@@ -1089,15 +1139,23 @@ VI.- La política de comunicación social; y
 
 VII.- Los criterios y bases para la realización de simulacros.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 57.
 
-El Subprograma de Auxilio integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riesgo, emergencia o desastre, la integridad física de las personas, sus bienes y el medio ambiente. Para realizar las acciones de auxilio se establecerán las bases regionales que se requieran, atendiendo a los riesgos detectados en las acciones de prevención.
+El Subprograma de Auxilio y Albergue integrará las acciones previstas a fin de rescatar y salvaguardar, en caso de alto riesgo, emergencia o desastre, la integridad física de las personas, sus bienes y el medio ambiente.
+
+Para realizar las acciones de auxilio y Albergue se establecerán las bases regionales que se requieran, atendiendo a los riesgos detectados en las acciones de prevención.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 58.
 
-El Subprograma de Auxilio contendrá, entre otros, los siguientes criterios:
+El Subprograma de Auxilio y Albergue contendrá, entre otros, los siguientes criterios:
 
-I.- Los establecidos o estipulados en acciones que desarrollen las dependencias y organismos de la Administración Publica del Estado;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+I.- Los establecidos o estipulados en acciones que desarrollen las dependencias y organismos de la Administración Pública del Estado y los Municipios;
 
 II.- Los establecidos en mecanismos de concentración y coordinación con los sectores social y privado; y
 
@@ -1199,17 +1257,21 @@ I.- Identificación del alto riesgo, emergencia o desastre;
 
 II.- Infraestructura, bienes y sistemas afectables;
 
-III.- Determinación de las acciones de prevención y auxilio;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+III.- Determinación de las acciones de prevención, auxilio y Albergue;
 
 IV.- Suspensión de actividades públicas que así lo ameriten;
 
 V.- Instrucciones dirigidas a la población de acuerdo al Programa Estatal; y
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-VI.- Con base en los lineamientos del Sistema Nacional de Protección Civil, la Coordinación Estatal de Protección Civil, así como las Unidades Municipales de Protección Civil, son las autoridades competentes para definir donde habrá de establecerse un refugio temporal. Dicha definición y los procedimientos subsecuentes deben estar enmarcados en los planes de protección civil de cada Municipio y Entidad, de manera que exista un registro de instalaciones susceptibles de ser transformadas en refugios, en el que se señale la capacidad de alojamiento, y a partir de ese dato establecer las necesidades de todo tipo para la operación de cada refugio.
+VI.- Con base en los lineamientos del Sistema Nacional de Protección Civil, la Coordinación Estatal de Protección Civil, así como las Unidades Municipales de Protección Civil, son las autoridades competentes para definir donde habrá de establecerse un refugio temporal o Albergue. Dicha definición y los procedimientos subsecuentes deben estar enmarcados en los planes de protección civil de cada Municipio y Entidad, de manera que exista un registro de instalaciones susceptibles de ser transformadas en refugios o Albergues, en el que se señale la capacidad de alojamiento, y a partir de ese dato establecer las necesidades de todo tipo para la operación de cada refugio o Albergue.
 
-Los requisitos para establecer un refugio temporal son:
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO] P.O. 16 DE OCTUBRE DE 2019)</small>
+
+Los requisitos para establecer un refugio temporal o Albergue son:
 
 a).- Estar alejados de las zonas de peligro;
 
@@ -1670,3 +1732,15 @@ Dentro de un plazo de no más de sesenta días naturales a partir de la entrada 
 ###### ARTÍCULO CUARTO.
 
 Dentro de un plazo de no más de treinta días naturales a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado expedirá las reglas de carácter general para la emisión del dictamen de viabilidad financiera para instalación de establecimientos operadores de cruces y captación de apuestas; para la emisión de la opinión favorable de la entidad para la instalación de establecimientos operadores de cruces y captación de apuestas; y, para la creación y operación del registro estatal de máquinas, equipos y terminales electrónicas utilizadas para el cruce de apuestas, así como para la supervisión de las mismas.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-1021 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El funcionamiento de los albergues a que se refiere el presente Decreto, se considerará dentro de la previsión presupuestal que atañe a los gobiernos estatal y municipal en el rubro de protección civil, con base en el artículo 8 de la Ley de Protección Civil para el Estado de Tamaulipas.
