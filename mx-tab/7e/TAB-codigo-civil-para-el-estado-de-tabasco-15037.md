@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2019-06-05"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2019.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE JUNIO DE 2019.]
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -5738,6 +5736,12 @@ La declaración de ausencia se publicará por tres veces en uno de los periódic
 Sentencia
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá las mismas instancias que el Código de Procedimientos Civiles asigne para los negocios de mayor interés.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 679 BIS.- Ausencia por desaparición
+
+Cuando la ausencia sea resultado de los delitos de desaparición forzada o desaparición cometida por particulares se estará a lo dispuesto en la Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema de Búsqueda de Personas para el Estado de Tabasco, y para lo no previsto en dicha Ley, a lo establecido por la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas y demás normatividad aplicable.
 
 ### CAPITULO III. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
@@ -25842,6 +25846,14 @@ P.O. 18 DE MAYO DE 2019.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 123 POR EL QUE "SE ADICIONA EL ARTÍCULO 679 BIS AL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
