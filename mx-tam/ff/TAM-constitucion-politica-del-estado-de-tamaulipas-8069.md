@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2019-08-20"
+last_updated: "2019-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -78,6 +78,10 @@ El sistema de planeación democrática del desarrollo incluirá la planeación e
 > <small>(ADICIONADO, P.O. 9 DE ENERO DE 2019)</small>
 
 Las autoridades estatales y municipales, en el ámbito de su competencia, deberán implementar de manera permanente políticas públicas de mejora regulatoria, para la simplificación de regulaciones, trámites, servicios y procedimientos. La ley de la materia que expida el Congreso del Estado, dispondrá lo necesario para que las leyes emitidas por dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, garanticen beneficios superiores a sus costos, fortalezcan la competitividad económica, la creación de empleos en el Estado y, en consecuencia, su desarrollo económico. Asimismo, deberá sujetar sus disposiciones a lo dispuesto por la ley expedida para tal efecto por el Congreso de la Unión, en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+El gobierno digital es una política pública que contribuirá al crecimiento y desarrollo de la Entidad, promoviendo el uso estratégico de las tecnologías de la información y comunicaciones en todos los órganos del Estado, con el fin de mejorar las condiciones y la calidad de vida de los habitantes de Tamaulipas.
 
 ### CAPITULO II. De los tamaulipecos
 
@@ -1157,7 +1161,7 @@ XX. Conceder ammistía (sic) por delitos cuyo conocimiento corresponde exclusiva
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2018)</small>
 
-XXI.- Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, y a los Consejeros de la Judicatura, en los términos que establece la presente Constitución. Asimismo, aprobar por el voto de las dos terceras partes de los Diputados presentes en la sesión correspondiente del Congreso del Estado, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso, el nombramiento de los Magistrados del Tribunal de Justicia Administrativa a propuesta del Ejecutivo del Estado; y participar en el procedimiento de designación del Fiscal General del Estado en los términos de esta Constitución;
+XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, y a los Consejeros de la Judicatura, en los términos que establece la presente Constitución. Asimismo, aprobar por el voto de las dos terceras partes de los Diputados presentes en la sesión correspondiente del Congreso del Estado, en los periodos ordinarios, o en sesión extraordinaria en los periodos de receso, el nombramiento de los Magistrados del Tribunal de Justicia Administrativa a propuesta del Ejecutivo del Estado; y participar en el procedimiento de designación del Fiscal General del Estado en los términos de esta Constitución;
 
 Instituir la Fiscalía Especializada en combate a la corrupción, adscrita a la Fiscalía General de Justicia del Estado, como un órgano público con autonomía administrativa, técnica y operativa para investigar y perseguir los hechos de corrupción que la ley considera como delitos, y tendrá las atribuciones que señalen las leyes de la materia. En la ley orgánica respectiva se establecerán los requisitos para ocupar dicho cargo.
 
@@ -1197,7 +1201,7 @@ XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declarator
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-XXXI.- Para legislar sobre mecanismos de participación ciudadana;
+XXXI. Para legislar sobre mecanismos de participación ciudadana;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1215,7 +1219,7 @@ XXXVI. (DEROGADA, P.O. 10 DE JUNIO DE 1995)
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2017)</small>
 
-XXXVII.- Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia; a los Magistrados del Tribunal de Justicia Administrativa del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
+XXXVII. Recibir la protesta constitucional a los Diputados, al Gobernador y a quienes, en su caso, deban ejercer esta función; a los Magistrados del Supremo Tribunal de Justicia; a los Magistrados del Tribunal de Justicia Administrativa del Estado; a los Consejeros de la Judicatura, con excepción de su Presidente; al titular de la Presidencia y del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; a los Comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas, y a los servidores públicos que nombre y que conforme a las leyes deban rendirla;
 
 XXXVIII. Fomentar e impulsar la educación pública y todos los ramos de prosperidad en general;
 
@@ -1289,7 +1293,7 @@ LV. Legislar en materia de planeación sobre la formulación, instrumentación, 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2017)</small>
 
-LVI.- Para expedir leyes en materia de impartición de justicia administrativa, así como instituir el Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y establecer su organización, funcionamiento, procedimiento y, en su caso, recursos contra sus resoluciones. El Tribunal tendrá a su cargo dirimir controversias que se susciten entre la administración pública estatal o municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales, por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
+LVI. Para expedir leyes en materia de impartición de justicia administrativa, así como instituir el Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y establecer su organización, funcionamiento, procedimiento y, en su caso, recursos contra sus resoluciones. El Tribunal tendrá a su cargo dirimir controversias que se susciten entre la administración pública estatal o municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales, por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2017)</small>
 
@@ -1319,13 +1323,17 @@ LX. Designar, por el voto de las dos terceras partes de sus miembros presentes, 
 
 LXI. Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las concedidas a los otros Poderes por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan al régimen interior del Estado, y ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas;
 
-> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-LXII. Expedir la Ley en materia de Mejora Regulatoria, de conformidad con los artículos 25, último párrafo y 73, fracción XXIX-Y de la Constitución Política de los Estados Unidos Mexicanos; y
+LXII. Expedir la Ley en materia de Mejora Regulatoria, de conformidad con los artículos 25, último párrafo y 73, fracción XXIX-Y de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
-LXIII. Legislar en materia de identidad personal y su protección, así como establecer el Instituto Estatal de Protección a la Identidad.
+LXIII. Legislar en materia de identidad personal y su protección, así como establecer el Instituto Estatal de Protección a la Identidad; y
+
+> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+
+LXIV. Expedir la Ley en materia de Gobierno Digital, debiendo establecer los mecanismos institucionales y jurídicos que permitan su implementación, ejecución y consolidación de esta política pública en los ámbitos estatal y municipal.
 
 ###### Art. 59.
 
@@ -5070,3 +5078,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Estado habrá de proveer los recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes respectivas en la materia y con base en las previsiones presupuestarias aprobadas para el cumplimiento progresivo del derecho establecido en el presente Decreto.
+
+P.O. 16 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1027 MEDIANTE EL CUAL SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE GOBIERNO DIGITAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
