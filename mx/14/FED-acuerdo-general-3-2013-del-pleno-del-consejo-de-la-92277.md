@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2019-10-14"
+last_updated: "2019-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -427,7 +427,9 @@ XXII. VIGESIMO SEGUNDO CIRCUITO:
 
 XXIII. VIGESIMO TERCER CIRCUITO:
 
-1. Un tribunal colegiado con residencia en Zacatecas.
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 20/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+1. Dos tribunales colegiados con residencia en Zacatecas.
 
 > <small>(REFORMADO POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 42/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE NOVIEMBRE DE 2018)</small>
 
@@ -917,9 +919,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 8. El Centro Auxiliar de la Octava Región, se integrará por un Tribunal Colegiado de Circuito Auxiliar con residencia en Mérida, Yucatán.
 
-> <small>(REFORMADO, D.O.F. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 20/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
-9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, se integrará por dos tribunales colegiados de Circuito Auxiliares y cuatro juzgados de Distrito Auxiliares.
+9. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, se integrará por cuatro Juzgados de Distrito Auxiliares.
 
 10. El Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila de Zaragoza, se integrará por cuatro tribunales colegiados de Circuito Auxiliares, y tres juzgados de Distrito Auxiliares.
 
@@ -7524,3 +7526,27 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los órganos jurisdiccionales que cambian de denominación de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los órganos jurisdiccionales que cambian de denominación.
+
+D.O.F. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 20/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS DE CIRCUITO DEL CENTRO AUXILIAR DE LA NOVENA REGIÓN, CON RESIDENCIA EN ZACATECAS, ZACATECAS; CAMBIO DE DENOMINACIÓN DEL TRIBUNAL COLEGIADO DEL VIGÉSIMO TERCER CIRCUITO; INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DEL CITADO CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES EN EL CIRCUITO INDICADO; A LA CREACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES Y ABROGA EL ACUERDO GENERAL 53/2009”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones del Primer y Segundo Tribunales Colegiados de Circuito del Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, y el inicio del Segundo Tribunal Colegiado del Vigésimo Tercer Circuito, en el citado Estado y residencia, implicará el traslado del personal con su plaza respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente.
+
+Las cuatro plazas de Secretarios de los Tribunales que concluyen funciones que no formarán parte de la plantilla del órgano colegiado de nueva creación, se transferirán a la plantilla de plazas a disposición del Consejo de la Judicatura Federal, comisionados temporalmente de la manera siguiente:
+
+- 2 en el Primer Tribunal Colegiado del Vigésimo Tercer Circuito; y,
+
+- 2 en el Segundo Tribunal Colegiado del Vigésimo Tercer Circuito.
+
+En caso de que algún servidor público cause baja en el órgano jurisdiccional al que se le comisionará, la plaza se transferirá a la plantilla de plazas a disposición del Consejo de la Judicatura Federal para el fortalecimiento de órganos jurisdiccionales federales, puesto que la propuesta tiene como fin el respeto a los derechos laborales, pero con la limitante de recursos presupuestales.
+
+La Comisión de Adscripción definirá la readscripción de los Magistrados de Circuito de los Tribunales Colegiados auxiliares que concluyen funciones.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
