@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-51-2009-del-pleno-del-consejo-de-la-70472"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-10-21"
-last_updated: "2016-04-15"
+last_updated: "2019-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70472&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-09-30"
 
 ACUERDO GENERAL 51/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA NOVENA REGIÓN, CON RESIDENCIA EN ZACATECAS, ZACATECAS, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de octubre de 2009.
 
@@ -57,19 +57,31 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 16 DEL ACUERDO GENERAL 20/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
-PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, está conformado por dos tribunales colegiados Auxiliares y cuatro juzgados de Distrito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación es la siguiente:
+PRIMERO. CONFORMACION, UBICACION, COMPETENCIA Y DENOMINACION. El Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, está conformado por cuatro juzgados de Distrito Auxiliares, los cuales tendrán jurisdicción en toda la República y competencia mixta, para apoyar en el dictado de sentencias, su denominación es la siguiente:
+
+> <small>(REFORMADA POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
 
 I. Juzgado Primero de Distrito del Centro Auxiliar de la Novena Región.
 
+> <small>(REFORMADA POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
+
 II. Juzgado Segundo de Distrito del Centro Auxiliar de la Novena Región.
+
+> <small>(REFORMADA POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
 
 III. Juzgado Tercero de Distrito del Centro Auxiliar de la Novena Región.
 
+> <small>(REFORMADA POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
+
 IV. Juzgado Cuarto de Distrito del Centro Auxiliar de la Novena Región.
 
+> <small>(REFORMADA POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
+
 V. Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.
+
+> <small>(REFORMADA POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 38/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 3 DE AGOSTO DE 2015)</small>
 
 VI. Segundo Tribunal Colegiado de Circuito del Centro Auxiliar de la Novena Región.
 
@@ -85,9 +97,11 @@ CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Novena Regió
 
 QUINTO. (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES, D.O.F. 15 DE ABRIL DE 2016)
 
-SEXTO. PLANTILLAS. Las plantillas de los órganos jurisdiccionales serán las siguientes:
+> <small>(REFORMADO POR EL ARTÍCULO 16 DEL ACUERDO GENERAL 20/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
-(VEASE ARCHIVO ANEXO)
+SEXTO. La plantilla de los órganos jurisdiccionales será la siguiente:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.OF. DE 17 DE OCTUBRE DE 2019, PÁGINA 225.]</small>
 
 SEPTIMO. ESTADISTICA E INFORMES. Los titulares de los órganos jurisdiccionales que integran el Centro Auxiliar de la Novena Región, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística y Planeación Judicial.
 
@@ -220,3 +234,27 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Se deroga el punto Quinto de los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 20/2009, que crea el Centro Auxiliar de la Primera Región; 10/2008, por el que se crea el Centro Auxiliar de la Segunda Región, así como los órganos jurisdiccionales que lo integrarán; 18/2008, por el que se crea el Centro Auxiliar de la Tercera Región, así como los órganos jurisdiccionales que lo integrarán; 27/2008, por el que se crea el Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, así como los órganos jurisdiccionales que lo integrarán; 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán; 53/2008, por el que se crea el Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, así como los órganos jurisdiccionales que lo integrarán; 54/2008, por el que se crea el Centro Auxiliar de la Séptima Región, con residencia en Acapulco, Guerrero, así como los órganos jurisdiccionales que lo integrarán; 32/2010, que crea el Centro Auxiliar de la Octava Región, con residencia en Cancún, Quintana Roo, así como los órganos jurisdiccionales que lo integrarán; 51/2009, que crea el Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, así como los órganos jurisdiccionales que lo integrarán; 54/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Décima Región, con residencia en Saltillo, Coahuila, así como los órganos jurisdiccionales que lo integrarán; y 33/2011, que crea el Centro Auxiliar de la Decimoprimera Región, con residencia en Coatzacoalcos, Veracruz, así como los Órganos Jurisdiccionales que lo integrarán.
+
+D.O.F. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 20/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS DE CIRCUITO DEL CENTRO AUXILIAR DE LA NOVENA REGIÓN, CON RESIDENCIA EN ZACATECAS, ZACATECAS; CAMBIO DE DENOMINACIÓN DEL TRIBUNAL COLEGIADO DEL VIGÉSIMO TERCER CIRCUITO; INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DEL CITADO CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES EN EL CIRCUITO INDICADO; A LA CREACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES Y ABROGA EL ACUERDO GENERAL 53/2009".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones del Primer y Segundo Tribunales Colegiados de Circuito del Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, y el inicio del Segundo Tribunal Colegiado del Vigésimo Tercer Circuito, en el citado Estado y residencia, implicará el traslado del personal con su plaza respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente.
+
+Las cuatro plazas de Secretarios de los Tribunales que concluyen funciones que no formarán parte de la plantilla del órgano colegiado de nueva creación, se transferirán a la plantilla de plazas a disposición del Consejo de la Judicatura Federal, comisionados temporalmente de la manera siguiente:
+
+- 2 en el Primer Tribunal Colegiado del Vigésimo Tercer Circuito; y,
+
+- 2 en el Segundo Tribunal Colegiado del Vigésimo Tercer Circuito.
+
+En caso de que algún servidor público cause baja en el órgano jurisdiccional al que se le comisionará, la plaza se transferirá a la plantilla de plazas a disposición del Consejo de la Judicatura Federal para el fortalecimiento de órganos jurisdiccionales federales, puesto que la propuesta tiene como fin el respeto a los derechos laborales, pero con la limitante de recursos presupuestales.
+
+La Comisión de Adscripción definirá la readscripción de los Magistrados de Circuito de los Tribunales Colegiados auxiliares que concluyen funciones.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
