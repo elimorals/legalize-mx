@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-exterior-mexicano-121181"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-04-28"
-last_updated: "2018-11-02"
+last_updated: "2019-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2017-04-28"
 
 REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2019.
 
 Reglamento publicado en la Edición Vespertina del Diario Oficial de la Federación, el viernes 28 de abril de 2017.
 
@@ -2003,13 +2003,7 @@ Las disposiciones relacionadas con el ascenso de los Miembros del Servicio Exter
 
 Para efectos de las temporalidades de tránsito y permanencia dispuestas en el artículo 40-Bis de la Ley, éstas comenzarán a computarse para todos los Miembros del Servicio Exterior a partir de la entrada en vigor del presente Decreto.
 
-SEXTO. Para efectos de lo dispuesto en el artículo Noveno Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Servicio Exterior Mexicano, publicado en el Diario Oficial de la Federación el 19 de abril de 2018, los servidores públicos que sin ser Miembros del Servicio Exterior de carrera, se encuentren en el supuesto establecido en dicha disposición, podrán estar a lo siguiente:
-
-I. Solicitar el apoyo económico complementario, en términos de lo dispuesto en el artículo 55-BIS de la Ley, y
-
-II. Solicitar a la Secretaría su ingreso al Servicio Exterior Mexicano, pudiendo iniciar el proceso correspondiente a partir de la entrada en vigor del presente Decreto.
-
-Para el ingreso al Servicio Exterior Mexicano en términos de la fracción II de la presente disposición, los interesados podrán solicitar su ingreso como personal de carrera de la rama diplomático-consular, con el rango de Ministro; lo anterior sujeto a que exista disponibilidad de plazas. Al efecto, la Comisión de Personal, en el ejercicio de sus funciones, podrá tomar en consideración lo dispuesto en los artículos 28, fracciones I, II, III, IV, V y VI y 32 de la Ley, para determinar lo procedente.
+SEXTO. (DEROGADO, D.O.F. 17 DE OCTUBRE DE 2019)
 
 SÉPTIMO. El apoyo económico complementario al que tuvieran derecho los Miembros del Servicio Exterior de carrera que hubieren causado baja por jubilación del servicio con anterioridad a la entrada en vigor del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Servicio Exterior Mexicano, publicado en el Diario Oficial de la Federación el 19 de abril de 2018, se pagará de forma mensual conforme al procedimiento establecido en la (sic) Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario que para tal efecto emita la Secretaría.
 
@@ -2018,3 +2012,15 @@ Los Miembros del Servicio Exterior que hubiesen causado baja por jubilación al 
 Dicho apoyo es único e intransferible y será pagado por el Gobierno Federal mediante el procedimiento establecido en las Disposiciones Administrativas de Carácter General del Apoyo Económico Complementario que para tal efecto emita la Secretaría.
 
 OCTAVO. La Secretaría de Relaciones Exteriores realizará las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, se realicen con cargo al presupuesto aprobado a dicha Secretaría en el presente ejercicio fiscal y subsecuentes, por lo que no requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto regularizable de la Secretaría de Relaciones Exteriores para el presente ejercicio fiscal ni posteriores.
+
+D.O.F. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA EL ARTÍCULO SEXTO TRANSITORIO DEL DIVERSO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL SERVICIO EXTERIOR MEXICANO, PUBLICADO EL 2 DE NOVIEMBRE DE 2018”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Cualquier solicitud o procedimiento que, de conformidad con el Artículo Noveno del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Servicio Exterior Mexicano”, publicado en el Diario Oficial de la Federación el 19 de abril de 2018 y el Artículo Sexto Transitorio del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones del Reglamento de la Ley del Servicio Exterior Mexicano”, publicado en el Diario Oficial de la Federación el 2 de noviembre de 2018, se haya presentado ante la Comisión de Personal antes de la entrada en vigor del presente Decreto; deberá concluirse de conformidad con las disposiciones jurídicas vigentes al momento de su presentación.
+
+TERCERO. Se derogan todas aquellas disposiciones secundarias que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. La Secretaría de Relaciones Exteriores realizará las acciones necesarias para que las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto, se realicen con cargo al presupuesto aprobado a dicha Secretaría en el presente ejercicio fiscal y subsecuentes, por lo que no se requerirán recursos adicionales para tales efectos y no se incrementará el presupuesto regularizable de esa Secretaría para el presente ejercicio fiscal ni posteriores.
