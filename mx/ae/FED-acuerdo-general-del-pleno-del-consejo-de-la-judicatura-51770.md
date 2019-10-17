@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2018-12-07"
+last_updated: "2019-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-08-09"
 ---
 # ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -71,7 +73,9 @@ VII. Presidente: Presidente del Consejo de la Judicatura Federal;
 
 VIII. Comisión: Comisión de Carrera Judicial del Consejo de la Judicatura Federal;
 
-IX. Titulares: magistrados de circuito y jueces de distrito;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+IX. Titulares: Las y los magistrados de Circuito y las y los jueces de Distrito;
 
 X. (DEROGADA POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)
 
@@ -88,6 +92,10 @@ XV. Curso para secretarios: Curso Básico de Formación y Preparación de Secret
 XVI. Curso para actuarios: Curso Básico de Formación y Preparación para Actuarios del Poder Judicial de la Federación; y
 
 XVII. Eventos académicos: cursos, conferencias, mesas redondas, congresos y demás actividades análogas.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+Cualquier referencia en razón de género femenino o masculino, debe entenderse para ambos.
 
 ###### Artículo 3.
 
@@ -173,9 +181,11 @@ La Comisión podrá establecer prácticas en un Juzgado de Distrito o Tribunal d
 
 Los funcionarios que participen en el programa referido en el artículo anterior, recibirán el salario correspondiente al cargo que venían desempeñando. Tratándose de personas que no pertenezcan al Poder Judicial de la Federación se les podrán otorgar semejantes condiciones, con un ingreso mensual equivalente al de un secretario de juzgado, previa autorización de la Comisión de Administración.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 15.
 
-Los ganadores de los concursos de oposición para jueces de distrito y magistrados de circuito, podrán ser comisionados en proyectos del Consejo o permanecer en el lugar de su adscripción hasta en tanto se determina su nueva adscripción, percibiendo el salario del cargo que venían desempeñando o, en su caso, ser adscritos a juzgados de distrito itinerantes.
+Los ganadores de los concursos de oposición para jueces de Distrito y magistrados de Circuito, podrán ser comisionados en proyectos del Consejo o permanecer en el lugar de su adscripción hasta en tanto se determina su nueva adscripción, percibiendo el salario del cargo que venían desempeñando.
 
 ###### Artículo 16.
 
@@ -195,59 +205,59 @@ Los jueces de distrito que participen en los concursos para la designación de m
 
 El Consejo, a través del Instituto o del órgano designado por el Pleno, deberá expedir y entregar las constancias necesarias que acrediten fehacientemente el lugar, día y hora en que los servidores públicos realizaron su inscripción, sustentaron los exámenes, aprobaron los cursos y, en su caso, asistieron a los cursos propedéuticos correspondientes.
 
-> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 21 DE JULIO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 20.
 
-El Pleno podrá reincorporar a quien, habiendo ocupado el cargo de magistrado de Circuito o de juez de Distrito se hubiese separado de él, por motivos personales o por cualquier otra causa que no constituye un impedimento insalvable.
+Los titulares que se hayan separado del cargo de magistrado de Circuito o de juez de Distrito, por motivos personales o por cualquier otra causa que no constituya un impedimento insalvable, podrán ser reincorporadas por el Pleno, de acuerdo con el siguiente procedimiento:
 
-Para la reincorporación se deberá observar lo siguiente:
+I. Quien haya ocupado el cargo de juez de Distrito, de magistrado de Circuito o ambos, podrá presentar ante la Comisión, por una sola ocasión, la solicitud de reincorporación en la última categoría desempeñada;
 
-I. Quien haya ocupado el cargo de juez de Distrito o magistrado de Circuito deberá presentar ante la Comisión, por una sola ocasión, la solicitud de reincorporación en la última categoría desempeñada;
-
-II. La solicitud de reincorporación, debe formularse por escrito de manera respetuosa y motivada, a la que se acompañará:
+II. La solicitud de reincorporación debe formularse por escrito de manera respetuosa y motivada, precisando las razones por las que el titular se haya separado del cargo y aquéllas por las que desea reincorporarse, a la que se acompañará:
 
 a) Currículum Vitae;
 
-b) Constancia de las actividades profesionales desarrolladas durante el tiempo en que ha estado separado del cargo; y
+b) Constancia de las actividades profesionales desarrolladas durante el tiempo en que ha estado separado del cargo, y/o;
 
 c) Constancia de las actividades académicas realizadas en ese periodo;
 
-III. Recibida la solicitud, la Comisión:
+III. Recibida la solicitud, la Secretaría Ejecutiva formará y registrará el expediente bajo el número que corresponda, tras lo cual la Comisión someterá al Pleno el dictamen de elegibilidad para iniciar el procedimiento de reincorporación, lo cual se encontrará condicionado a que se acrediten los siguientes requisitos:
 
-a) Formará y registrará el expediente bajo el número que le corresponda;
+a) Transcurso de cuando menos un año y máximo cuatro años entre la fecha en que haya surtido efectos la separación del cargo y la presentación de la solicitud de reincorporación;
 
-b) Ordenará que se publique el inicio del procedimiento de reincorporación por una vez en el Diario Oficial de la Federación; e instruirá la colocación, por un período de cinco días hábiles, de avisos del citado procedimiento en el portal de internet del Consejo y en los estrados y lugares más visibles de los órganos jurisdiccionales ubicados en el o los circuitos en los que el solicitante se hubiera desempeñado como titular.
+b) Adecuado desempeño jurisdiccional durante los años en que fungió como titular, cuyo promedio no podrá ser inferior a ochenta puntos sobre cien, tanto en el resultado de sus visitas de inspección como en su productividad, de acuerdo con los parámetros establecidos en el artículo 44, fracción III, inciso a), del presente Acuerdo. Para la elaboración de este apartado del dictamen, la Secretaría Ejecutiva requerirá e integrará la información que remitan la Secretaría Ejecutiva de Vigilancia y las Direcciones Generales de Estadística Judicial y Gestión Judicial;
 
-Lo anterior, a efecto de hacer saber al público en general, el nombre de la persona que solicita su reincorporación para que, dentro del improrrogable plazo de cinco días hábiles contados a partir del siguiente al de la publicación en el Diario Oficial de la Federación, cualquier persona pueda formular por escrito, de manera respetuosa, las observaciones u objeciones que estime pertinentes en relación con esa solicitud;
+c) Idoneidad en el perfil como juzgadora o juzgador, de acuerdo con la valoración conjunta de los criterios definidos en el artículo 44, fracción III, inciso b), del presente Acuerdo. Para la elaboración de este apartado del dictamen, la Secretaría Ejecutiva requerirá e integrará la información que remitan la Secretaría Ejecutiva de Disciplina, la Unidad General de Investigación de Responsabilidades Administrativas, la Contraloría del Poder Judicial de la Federación y la Comisión Substanciadora Única del Poder Judicial de la Federación. Asimismo, requerirá a la Dirección General de Recursos Humanos para que remita en original o copia el expediente personal del solicitante; y
 
-c) Comunicará el inicio del trámite al solicitante respectivo; le entregará un ejemplar de la guía de estudio aprobada para los concursos internos de oposición de la plaza a reincorporar, y lo citará para que en la fecha, hora y lugar que determine, presente examen escrito de conocimientos, elaborado con base en la guía de estudio;
+d) El Pleno analizará la compatibilidad de las actividades desempeñadas durante el tiempo en que se separó y la actividad jurisdiccional, la cual se presumirá como no acreditada cuando la separación del cargo haya sido por cualquiera de las siguientes causas:
 
-d) Una vez que se realice el examen a que se refiere el inciso anterior, entrevistará al solicitante en la fecha, hora y lugar que determine. De esta diligencia se levantará acta circunstanciada y se hará registro de audio e imagen;
+1. La incapacidad total y permanente expedida por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-e) Requerirá al Contralor del Poder Judicial de la Federación para que rinda un informe de la evolución de la situación patrimonial del solicitante durante el tiempo en que se desempeñó como titular de (sic) órgano jurisdiccional;
+2. Actos constitutivos de delito, sanciones disciplinarias o no ratificación; o
 
-f) Requerirá a la Dirección General de Recursos Humanos para que remita en original o copia el expediente personal del solicitante;
+3. Alguna otra que se considere totalmente incompatible con la función jurisdiccional, como el desempeño de cargos que pudieran ocasionar posibles conflictos de intereses o poner en duda la imparcialidad, independencia u honorabilidad de los juzgadores.
 
-g) Ordenará recabar la información estadística sobre la actividad del solicitante en los órganos jurisdiccionales en que se hubiese desempeñado como titular;
+IV. En caso de que el Pleno apruebe por mayoría calificada el dictamen de elegibilidad, se dará inicio al procedimiento de reincorporación, para lo cual la Comisión:
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+a) Ordenará que se publique el inicio del procedimiento de reincorporación por una vez en el Diario Oficial de la Federación; e instruirá la colocación, por un período de cinco días hábiles, de avisos del citado procedimiento en el portal de internet del Consejo y en los estrados y lugares más visibles de los órganos jurisdiccionales ubicados en el o los circuitos en los que la persona solicitante se hubiera desempeñado como titular. Transcurridos los cinco días mencionados en el párrafo anterior, cualquier persona contará con treinta días naturales para formular por escrito y de manera respetuosa, las observaciones u objeciones que estime pertinentes en relación con esa solicitud;
 
-h) Requerirá a la Secretaría Ejecutiva de Vigilancia los resultados de las visitas de inspección practicadas y de los informes circunstanciados rendidos; y a la Secretaría Ejecutiva de Disciplina los procedimientos administrativos disciplinarios incoados en contra del solicitante; y
+b) Comunicará el inicio del trámite al solicitante respectivo, a quien, en ese acto entregará un ejemplar de la guía de estudio aprobada para los concursos internos de oposición de la plaza a reincorporar, y lo citará para que en la fecha, hora y lugar que determine, presente examen escrito de conocimientos ante el Instituto, elaborado con base en la guía de estudio;
 
-i) Turnará el expediente al Consejero Presidente de la Comisión a fin de que elabore el dictamen correspondiente para someterlo al Pleno;
+c) Una vez que se realice el examen a que se refiere el inciso anterior, se aplicará un examen oral al solicitante en la fecha, hora y lugar que determine. De esta diligencia se levantará acta circunstanciada y se hará registro de audio e imagen; y
 
-IV. El Pleno, en la sesión correspondiente evaluará el desempeño que el solicitante tuvo en su trayectoria dentro del Poder Judicial de la Federación, la conducta observada en su actuación, la fama pública de que goce después de separado del cargo, su preparación profesional, así como la conveniencia de su reincorporación. La decisión en el sentido de aceptar la reincorporación al cargo de juez de Distrito o magistrado de Circuito, según el caso, deberá tomarse por al menos cinco votos; y
+d) Turnará el expediente a un Consejero integrante de la Comisión a fin de que elabore el dictamen de reincorporación correspondiente para someterlo al Pleno;
 
-V. Aprobada la reincorporación y una vez que se designe el órgano jurisdiccional de adscripción, el funcionario deberá rendir la protesta que exige el artículo 97 de la Constitución.
+V. Para que proceda la reincorporación al cargo de juez de Distrito o magistrado de Circuito, según el caso, el Pleno deberá adoptar la resolución por al menos cinco votos;
 
-No procederá la reincorporación si el motivo de separación fue la incapacidad total y permanente expedida por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; o cuando la causa de separación hubiera derivado de actos constitutivos de delito, de reiteradas faltas a la moral o a la disciplina, o alguna otra que se considere totalmente incompatible con la función jurisdiccional, tales como las señaladas en las fracciones I a VI del artículo 131 de la Ley.
+VI. Aprobada la reincorporación y una vez que se designe el órgano jurisdiccional de adscripción, el servidor público deberá rendir la protesta que exige el artículo 97 de la Constitución; y
 
-La determinación de improcedencia o negativa adoptada será definitiva e inatacable, por lo que, en su contra, no procederá recurso alguno.
+VII. La determinación de improcedencia o negativa adoptada será definitiva e inatacable, por lo que, en su contra, no procederá recurso alguno.
 
 ### Capítulo II. De la Adscripción
 
 ### Capítulo III. De la Readscripción
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ## TITULO TERCERO. De la Protesta Constitucional
 
@@ -327,237 +337,285 @@ IV. El desempeño en el Poder Judicial de la Federación; y
 
 V. El grado académico que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización, acreditados de manera fehaciente.
 
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+Atendiendo a las necesidades en el servicio, el Pleno determinará la posibilidad de considerar de forma preferente para la asignación de adscripciones a personas con discapacidad, a jefes de familia que, en adición a la función jurisdiccional, realicen en el ámbito familiar labores de cuidado a hijos, menores de edad o personas que requieran cuidados especiales.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 32.
 
-El Consejo, sólo en casos excepcionales, destinará como primera adscripción a magistrados de circuito o a jueces de distrito, según corresponda, a un Tribunal Unitario de Circuito o a un Juzgado de Distrito de nueva creación, por el grado de dificultad que implícitamente lleva la entrada en funcionamiento de un órgano jurisdiccional; por la misma razón, sólo en casos excepcionales, se destinará a dos o más magistrados de primera adscripción para integrar un Tribunal Colegiado de Circuito de nueva creación.
+Sólo en casos excepcionales el Consejo destinará como primera adscripción para titulares, según corresponda, a un Tribunal Unitario de Circuito o a un Juzgado de Distrito de nueva creación. Asimismo, sólo excepcionalmente se destinará a dos o más magistrados de primera adscripción para integrar un Tribunal Colegiado de Circuito de nueva creación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 33.
 
-La valoración de los elementos para adscribir a magistrados de circuito y jueces de distrito, se expresará en puntos dentro de una escala de cero a cien, y se integrará otorgando las equivalencias siguientes:
+La valoración de los elementos para adscribir a los magistrados de Circuito y a los jueces de Distrito, se expresará en puntos dentro de una escala de cero a cien, y se integrará otorgando las equivalencias siguientes:
 
-I. Hasta veinte puntos a la calificación obtenida en el concurso de oposición;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
-II. Hasta quince puntos a los cursos que se hayan impartido o recibido en el Instituto de la Judicatura;
+I. Hasta cuarenta puntos a la calificación obtenida en el concurso de oposición;
 
-III. Hasta cuarenta puntos a la antigüedad en el Poder Judicial de la Federación, de conformidad con el artículo 25 de este Acuerdo o, en su caso, a la experiencia profesional, tratándose de concursos abiertos; y
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
-IV. Hasta veinticinco puntos al grado académico y los diversos cursos de actualización y especialización acreditados de manera fehaciente.
+II. Hasta cinco puntos a los cursos que se hayan impartido o recibido en el Instituto;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+III. Hasta diez puntos a la antigüedad en el Poder Judicial de la Federación, de conformidad con el artículo 25 de este Acuerdo o, en su caso, a la experiencia profesional, tratándose de concursos abiertos;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+IV. Hasta cuarenta puntos al desempeño jurisdiccional y profesional; y
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+V. Hasta cinco puntos al grado académico y los diversos cursos de actualización y especialización acreditados de manera fehaciente.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 34.
 
 Para obtener una ponderación detallada de los elementos mencionados en el artículo anterior, su valoración se hará como se establece a continuación:
 
-I. El candidato que haya obtenido la mayor calificación en el concurso de oposición recibirá el puntaje máximo indicado, es decir, veinte puntos. Esa calificación se tomará como base para determinar de forma proporcional el puntaje que corresponda a cada uno de los aspirantes restantes.
+I. El candidato que haya obtenido la mayor calificación en el concurso de oposición recibirá el puntaje máximo indicado. Esa calificación se tomará como base para determinar de forma proporcional el puntaje que corresponda a cada uno de los aspirantes restantes;
 
-II. Los Cursos del Instituto serán valorados de la siguiente manera:
+II. Los cursos del Instituto serán valorados de la siguiente manera:
 
-> <small>(F. DE E., D.O.F. 12 DE OCTUBRE DE 2006)</small>
+a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito, o los cursos equivalentes que imparta el Instituto: dos puntos;
 
-a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito: cinco puntos;
+b) Curso Básico de Formación y Preparación de Secretarios del Poder Judicial de la Federación: dos puntos; y
 
-> <small>(F. DE E., D.O.F. 12 DE OCTUBRE DE 2006)</small>
+c) Diplomados, cursos de preparación y capacitación para las distintas categorías judiciales, en la modalidad presencial, así como otros cursos especiales, seminarios y paneles: un punto;
 
-b) Curso Básico de Formación y Preparación de Secretarios del Poder Judicial de la Federación: cuatro puntos;
+III. El candidato que cuente con la mayor antigüedad recibirá el puntaje máximo indicado. Esa antigüedad se tomará como base para determinar de forma proporcional el puntaje que corresponda a cada uno de los aspirantes restantes;
 
-c) Diplomados: tres puntos;
+IV. Para evaluar el desempeño de secretarios, se considerará lo siguiente:
 
-d) Los cursos de preparación y capacitación para las distintas categorías judiciales, en la modalidad presencial: dos puntos; y
+a) La productividad, que tendrá un valor de hasta treinta puntos.
 
-e) Otros cursos especiales, seminarios y paneles: un punto.
+Para calcular lo anterior, se revisará la información estadística a la que tenga acceso el Consejo y, eventualmente, se considerará la pertinencia de recabar un informe de los órganos jurisdiccionales a los que hubiere estado adscrita o adscrito, para así poder determinar la forma de medir la productividad atendiendo a los parámetros que defina el Consejo atendiendo a lo esperado según factores como las funciones que desempeñaba la persona, el tipo de órgano y el tamaño de la plantilla; y
 
-Los cursos enumerados en cada uno de los incisos anteriores, aunque se hayan recibido o impartido en más de una ocasión, sólo se contabilizarán una vez, es decir, sólo se podrán obtener, en total, los puntos que en cada inciso se señalan.
+b) Su desarrollo en el ámbito laboral, que tendrá hasta diez puntos, a los cuales se restarán las notas desfavorables que obren en su expediente personal:
 
-> <small>(F. DE E., D.O.F. 12 DE OCTUBRE DE 2006)</small>
+1. Extrañamiento: menos un punto;
 
-El Curso de Especialización Judicial que se impartía anteriormente, se equipara a la Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito para efectos de su valoración en este rubro.
+2. Amonestación verbal: menos dos puntos; y
 
-III. El candidato que cuente con la mayor antigüedad recibirá el puntaje máximo indicado, es decir, cuarenta puntos. Esa antigüedad se tomará como base para determinar de forma proporcional el puntaje que corresponda a cada uno de los aspirantes restantes.
+3. Cese: menos cuatro puntos;
 
-IV. El grado académico y los cursos de actualización y especialización en el ámbito jurisdiccional, serán valorados de la siguiente manera:
+V. En el caso de los magistrados de Circuito que previamente hubieran ocupado el cargo de jueces de Distrito, su desempeño se evaluará conforme a los criterios previstos en el artículo 44, fracción III, inciso a);
 
-a) Doctorado: ocho puntos;
+VI. El grado académico y los cursos de actualización y especialización en el ámbito jurisdiccional, serán valorados de la siguiente manera:
 
-b) Maestría: cinco puntos;
+a) Doctorado: dos puntos;
 
-c) Especialidad: tres puntos;
+b) Maestría: uno punto cinco puntos;
 
-d) Diplomado: dos puntos;
+c) Especialidad y diplomado: un punto;
 
-e) Otros cursos: un punto;
+d) Otros cursos: cero punto cinco puntos;
 
-f) Obras publicadas: uno a tres puntos, a juicio del Pleno; y
+e) Obras publicadas: de cero punto cinco a dos puntos, a juicio del Pleno; y
 
-g) Docencia en materia jurídica a nivel licenciatura y postgrado: tres puntos.
+f) Docencia en materia jurídica a nivel licenciatura y posgrado: dos puntos.
 
-Los valores otorgados para los supuestos enumerados en cada uno de los incisos anteriores, aunque se cuente con más de uno en cada rubro, sólo se contabilizarán una vez, es decir, sólo se podrán obtener, en total, los puntos que en cada inciso se señalan.
+Los valores otorgados para los supuestos enumerados en cada uno de los incisos anteriores sólo se contabilizarán hasta acumular cinco puntos.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 35.
 
-Al puntaje total obtenido por cada aspirante a la plaza concursada se le descontarán puntos cuando, en su caso, de su desempeño en el Poder Judicial de la Federación se advierta la existencia de procedimientos disciplinarios resueltos desfavorablemente y, tratándose de magistrados de circuito que hubieran ocupado previamente el cargo de Juez de Distrito, de resultados no satisfactorios en las visitas de inspección, de conformidad con lo siguiente:
+Al puntaje total obtenido por cada aspirante a la plaza concursada se le descontarán puntos cuando de la revisión de su desempeño en el Poder Judicial de la Federación se advierta la existencia de procedimientos disciplinarios resueltos desfavorablemente, de conformidad con lo siguiente:
 
-I. Apercibimiento privado: menos dos puntos;
+I. Apercibimiento privado: menos tres puntos;
 
-II. Apercibimiento público: menos tres puntos;
+II. Apercibimiento público: menos cuatro puntos;
 
-III. Amonestación privada: menos cuatro puntos;
+III. Amonestación privada: menos cinco puntos;
 
-IV. Amonestación pública: menos cinco puntos;
+IV. Amonestación pública: menos siete puntos; y
 
-V. Suspensión: menos ocho puntos; y
+V. Suspensión: menos diez puntos.
 
-VI. Visitas de inspección: menos un punto. Unicamente serán objeto de valoración las últimas tres visitas de inspección y se descontará el puntaje señalado cuando de su análisis se advierta que no se han acatado las recomendaciones que, en su caso, se hayan formulado.
+En caso de reincidencia, los puntos se multiplicarán por dos.
+
+Siempre que no se hayan impuesto nuevas medidas disciplinarias, los puntos a descontar irán disminuyendo con el paso del tiempo, de conformidad con lo siguiente: a los cinco años de que la medida disciplinaria se haya impuesto, los puntos se multiplicarán por un factor de 0.7; a los siete años por un factor 0.5; y después de diez años, por un factor de 0.3. Transcurridos quince años sin otra sanción disciplinaria, dejarán de considerarse los puntos desfavorables.
 
 ### Capítulo III. De los Exámenes de Aptitud
 
 ###### Artículo 36.
 
-Corresponde al Consejo asignar los cambios de adscripción de magistrados de circuito y jueces de distrito, tomando en consideración los elementos previstos en el artículo 120 de la Ley.
+Corresponde al Consejo asignar los cambios de adscripción de los magistrados de Circuito y jueces de Distrito, tomando en consideración los elementos previstos en el artículo 120 de la Ley, de conformidad con las necesidades del servicio y a las solicitudes de los titulares.
 
 ###### Artículo 37.
 
 En los casos de readscripción en órganos especializados, además de tomar en cuenta los elementos previstos en el artículo 120 de la Ley, el Consejo tomará en consideración la experiencia en la materia en que el servidor público se haya desempeñado, conforme aparezca en el expediente personal que obre en Recursos Humanos.
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 38.
 
-El Consejo ponderará si deben o no tomarse en consideración las solicitudes de readscripción de magistrados que se encuentren a cargo de algún Tribunal Unitario de Circuito, cuando exista déficit de magistrados de circuito y, por tanto, dificultad para cubrir las necesidades en tales órganos.
+El Consejo realizará los cambios de adscripción, por necesidades del servicio, considerando los siguientes objetivos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 39 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 22 DE ABRIL DE 2010)</small>
+I. Garantizar la legitimidad de los órganos jurisdiccionales que integran al Poder Judicial de la Federación y de sus juzgadores, frente a la ciudadanía y al resto de las autoridades, poniendo especial énfasis en la percepción de imparcialidad. Así, enunciativamente, se justificará la realización de cambios de adscripción cuando puedan generarse cuestionamientos derivados de las relaciones familiares con otros trabajadores del Poder Judicial de la Federación en ese circuito y, particularmente en el órgano jurisdiccional de su adscripción, o cuando puedan percibirse posibles conflictos de intereses;
+
+II. Fortalecer los circuitos y órganos jurisdiccionales cuyo funcionamiento no haya sido óptimo a la luz de los estándares constitucionales y legales cuya implementación corresponde al Consejo, como puede ocurrir cuando se presente un número inusitado de impedimentos o existan problemas de productividad o de integración de órganos jurisdiccionales;
+
+III. Desarrollar adecuadamente sus atribuciones de vigilancia, supervisión, investigación y sanción de los servidores públicos que incurran en responsabilidades administrativas; y
+
+IV. Las demás que defina como parte de su política de adscripciones.
+
+Tratándose de cambios de adscripción entre órganos jurisdiccionales de la misma materia y en la misma ciudad, el Consejo no estará obligado a motivar las necesidades en el servicio.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 39.
 
-Los magistrados de Circuito y jueces de Distrito podrán proponer la plaza y materia del órgano al cual soliciten su readscripción, en concordancia con lo dispuesto en el artículo 118 párrafo tercero de la Ley, sujetándose a las siguientes disposiciones:
+Los magistrados de Circuito y jueces de Distrito podrán proponer la ubicación y materia del órgano al cual soliciten su readscripción, en concordancia con lo dispuesto en el artículo 118 párrafo tercero de la Ley, sujetándose a las siguientes disposiciones:
 
 I. Los criterios previstos por el artículo 120 de la Ley;
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 39 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 22 DE ABRIL DE 2010)</small>
+II. La solicitud de readscripción, la que deberá presentarse por escrito al Consejo, en el que se manifieste bajo protesta de decir verdad, las razones por las que se solicita el cambio de adscripción; los posibles conflictos de interés que pudieran existir con particulares o con otros servidores públicos con motivo del desempeño de la función jurisdiccional; y los nombres y grado de parentesco de todos los familiares dentro del cuarto grado por consanguinidad y por afinidad que laboren dentro del Poder Judicial de la Federación, así como relaciones que puedan generar vínculos análogos; y
 
-II. La solicitud de readscripción, la que deberá presentarse por escrito, dirigida a la Comisión de Adscripción, en la que se manifiesten las razones por las que se solicita el cambio de adscripción; y
-
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL ARTÍCULO 39 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 22 DE ABRIL DE 2010)</small>
-
-III. El acreditamiento de una antigüedad mínima de dos años en el órgano jurisdiccional al que se encuentre adscrito el solicitante, salvo los casos que exijan las necesidades del servicio, en los que el Pleno podrá exceptuar la presente regla.
+III. El acreditamiento de una antigüedad mínima de tres años en el órgano jurisdiccional al que se encuentre adscrito el solicitante, salvo los casos que exijan las necesidades del servicio, en los que el Pleno podrá exceptuar la presente regla.
 
 En caso de igualdad de puntuación, el Consejo preferirá a aquel servidor público que, en ocasión anterior, hubiera sido readscrito por necesidades del servicio.
 
+Cuando exista un número elevado de plazas vacantes de titulares en tribunales Colegiados y tribunales Unitarios, el Consejo procurará evitar la readscripción de titulares que se encuentren a cargo de algún Tribunal Unitario de Circuito.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-La valoración de los elementos relativos a la readscripción de magistrados de circuito y jueces de distrito, se expresará en puntos, dentro de una escala de cero a cien, y se integrará otorgando las equivalencias siguientes:
+La valoración de los elementos relativos a la readscripción que soliciten los magistrados de Circuito y jueces de Distrito, se expresará en puntos, dentro de una escala de cero a cien, y se integrará otorgando las equivalencias siguientes:
 
-I. Hasta quince puntos a los cursos que se hayan impartido o recibido en el Instituto de la Judicatura;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
-II. Hasta sesenta puntos a la antigüedad en el Poder Judicial de la Federación, de conformidad con el artículo 25 de este Acuerdo; y
+I. Hasta cinco puntos a los cursos que se hayan impartido o recibido en el Instituto;
 
-III. Hasta veinticinco puntos al grado académico y los diversos cursos de actualización y especialización acreditados de manera fehaciente.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+II. Hasta diez puntos a la antigüedad en el Poder Judicial de la Federación, de conformidad con el artículo 25 de este Acuerdo;
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+III. Hasta cinco puntos al grado académico y los diversos cursos de actualización y especialización acreditados de manera fehaciente;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+IV. Hasta cuarenta puntos al promedio del resultado de las visitas de inspección; y
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+V. Hasta cuarenta puntos al desempeño jurisdiccional, de acuerdo con la productividad del Titular, de conformidad con los criterios previstos en el artículo 44, fracción III, inciso a), numeral 2, para los procedimientos de ratificación.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 41.
 
 Para obtener una ponderación detallada de los elementos mencionados en el artículo anterior, su valoración se hará como se establece a continuación:
 
-I. Los Cursos del Instituto serán valorados de la siguiente manera:
+I. Los cursos del Instituto serán valorados de la siguiente manera:
 
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
+a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito, así como en Asistencia de Constancias y Registro de Tribunal de Alzada, Juzgado de Control y Tribunal de Enjuiciamiento: dos puntos;
 
-a) Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito, así como en Asistencia de Constancias y Registro de Tribunal de Alzada, Juzgado de Control y Tribunal de Enjuiciamiento: cinco puntos;
+b) Curso Básico de Formación y Preparación de Secretarios del Poder Judicial de la Federación: dos puntos; y
 
-> <small>(F. DE E., D.O.F. 12 DE OCTUBRE DE 2006)</small>
-
-b) Curso Básico de Formación y Preparación de Secretarios del Poder Judicial de la Federación: cuatro puntos;
-
-c) Diplomados: tres puntos;
-
-d) Los cursos de preparación y capacitación para las distintas categorías judiciales, en la modalidad presencial: dos puntos; y
-
-e) Otros cursos especiales, seminarios y paneles: un punto.
+c) Diplomados, cursos de preparación y capacitación para las distintas categorías judiciales, en la modalidad presencial, así como otros cursos especiales, seminarios y paneles: un punto.
 
 Los cursos enumerados en cada uno de los incisos anteriores, aunque se hayan recibido o impartido más de una ocasión, sólo se contabilizarán una vez, es decir, sólo se podrán obtener, en total, los puntos que en cada inciso se señalan.
 
-> <small>(F. DE E., D.O.F. 12 DE OCTUBRE DE 2006)</small>
-
-El Curso de Especialización Judicial que se impartía anteriormente, se equipara a la Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito para efectos de ser valorado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL ORDENAMIENTO QUE MODIFICA EL ACUERDO.</small>
-
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 23 DE NOVIEMBRE DE 2009)</small>
+El curso de Especialización Judicial que se impartía anteriormente, se equipara a la Especialidad en Secretaría de Juzgado de Distrito y Tribunal de Circuito para efecto de ser valorado.
 
 II. La antigüedad será valorada por el desempeño en cada una de las categorías de la carrera judicial, en los siguientes términos:
 
-a) Magistrado de Circuito; hasta 15 puntos, considerando 3 puntos por cada año de servicios hasta llegar a un máximo de cinco años.
+a) Magistrado de Circuito, hasta cuatro punto cinco puntos, considerando uno punto cinco puntos por cada año de servicio hasta llegar al máximo antes mencionado;
 
-b) Juez de Distrito; hasta 10 puntos, considerando 2 puntos por cada año de servicios hasta llegar a un máximo de cinco años.
+b) Juez de Distrito, hasta cuatro puntos, considerando un punto por cada año de servicio hasta llegar al máximo antes mencionado;
 
-c) Secretario General de Acuerdos de la Suprema Corte de Justicia o de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
+c) Secretario General de Acuerdos o Subsecretario General de Acuerdos de la Suprema Corte de Justicia o de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, Secretario de Estudio y Cuenta de Ministro o Secretarios de Estudio y Cuenta e Instructores de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación, y Secretario y Subsecretario de Acuerdos de Sala; hasta tres puntos, considerando cero punto setenta y cinco puntos por cada año de servicio hasta llegar al máximo antes mencionado;
 
-d) Subsecretario General de Acuerdos de la Suprema Corte de Justicia o de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
+d) Secretario de Tribunal de Circuito, Asistente de Constancias y Registro de Tribunal de Alzada o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación, Secretario de Juzgado de Distrito o Asistente de Constancias y Registro de Juez de Control o de Juez de Enjuiciamiento; hasta dos puntos, considerando cero punto cinco puntos por cada año de servicio hasta llegar al máximo antes mencionado; y
 
-e) Secretario de Estudio y Cuenta de Ministro o Secretarios de Estudio y Cuenta e Instructores de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
-
-f) Secretario de Acuerdos de Sala; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
-
-g) Subsecretario de Acuerdos de Sala; hasta 5 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cinco años.
-
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
-
-h) Secretario de Tribunal de Circuito, Asistente de Constancias y Registro de Tribunal de Alzada o Secretario de Estudio y Cuenta de las Salas Regionales del Tribunal Electoral del Poder Judicial de la Federación; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
-
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 19 DE NOVIEMBRE DE 2014)</small>
-
-i) Secretario de Juzgado de Distrito o Asistente de Constancias y Registro de juez de control o de juez de enjuiciamiento; hasta 4 puntos, considerando 1 punto por cada año de servicios hasta llegar a un máximo de cuatro años.
-
-j) Actuario del Poder Judicial de la Federación; hasta 2 puntos, considerando medio punto por cada año de servicios hasta llegar a un máximo de cuatro años.
+e) Actuario del Poder Judicial de la Federación; hasta un punto, considerando cero punto veinticinco puntos por cada año de servicio hasta llegar al máximo antes mencionado;
 
 III. El grado académico y los cursos de actualización y especialización en el ámbito jurisdiccional, serán valorados de la siguiente manera:
 
-a) Doctorado: ocho puntos;
+a) Doctorado: dos puntos;
 
-b) Maestría: cinco puntos;
+b) Maestría: uno punto cinco puntos;
 
-c) Especialidad: tres puntos;
+c) Especialidad y diplomado: un punto;
 
-d) Diplomado: dos puntos;
+d) Otros cursos: cero punto cinco puntos;
 
-e) Otros cursos: un punto;
+e) Obras publicadas: de cero punto cinco a dos puntos, valores que definirá la Comisión de Carrera; y
 
-f) Obras publicadas: uno a tres puntos, a juicio del Pleno; y
+f) Docencia en materia jurídica a nivel licenciatura y postgrado: dos puntos.
 
-g) Docencia en materia jurídica a nivel licenciatura y postgrado: tres puntos.
+Los valores otorgados para los supuestos enumerados en cada uno de los incisos anteriores sólo se contabilizarán hasta acumular cinco puntos.
 
-Los valores otorgados para los supuestos enumerados en cada uno de los incisos anteriores, aunque se cuente con más de uno en cada rubro, sólo se contabilizarán una vez, es decir, sólo se podrán obtener, en total, los puntos que en cada inciso se señalan.
+IV. El puntaje derivado de las visitas de inspección se calculará de forma proporcional al promedio obtenido a partir de las calificaciones de todas las visitas de inspección. La Secretaría Ejecutiva de Vigilancia calificará cada visita ordinaria con uno a cinco puntos, en el entendido de que las visitas de inspección sin observaciones tendrán calificación máxima, y que se podrá restar de uno a tres puntos dependiendo de la naturaleza de las observaciones y la trascendencia de las indicaciones preventivas y determinaciones correctivas. Para ello, se debe analizar, tratándose de la primera visita, si los problemas de funcionamiento son imputables al titular de órgano jurisdiccional, y, tratándose de ulteriores visitas, si se presentan nuevas problemáticas y si se atendieron las observaciones y recomendaciones formuladas anteriormente.
+
+La Secretaría Ejecutiva de Vigilancia, en el caso de las visitas extraordinarias y las realizadas con anterioridad al sistema de puntuación, rendirá un informe en el que plasmará las calificaciones que reflejen el sistema de puntuación antes descrito; y
+
+V. El puntaje de desempeño jurisdiccional se calculará de forma proporcional al promedio obtenido de los distintos porcentajes de productividad que el juzgador haya reportado en cada órgano jurisdiccional de su adscripción, según los parámetros que para tal efecto defina el Consejo y según se desprenda de la información estadística.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 42.
 
-Al puntaje total obtenido por cada aspirante a la plaza concursada se le descontarán puntos cuando, en su caso, del desempeño en el Poder Judicial de la Federación y de su desarrollo profesional se advierta la existencia de procedimientos disciplinarios resueltos desfavorablemente y, tratándose de magistrados de circuito que hubieran ocupado previamente el cargo de Juez de Distrito, de resultados no satisfactorios en las visitas de inspección, de conformidad con lo siguiente:
+Al puntaje total obtenido por cada aspirante a la plaza concursada se le descontarán puntos cuando, de la revisión de su desempeño en el Poder Judicial de la Federación y de su desarrollo profesional se advierta la existencia de procedimientos disciplinarios resueltos desfavorablemente y, tratándose de los magistrados de Circuito que hubieran ocupado previamente el cargo de juez de Distrito, dé resultados no satisfactorios en las visitas de inspección, de conformidad con lo siguiente:
 
-I. Apercibimiento privado: menos dos puntos;
+I. Apercibimiento privado: menos tres puntos;
 
-II. Apercibimiento público: menos tres puntos;
+II. Apercibimiento público: menos cuatro puntos;
 
-III. Amonestación privada: menos cuatro puntos;
+III. Amonestación privada: menos cinco puntos;
 
-IV. Amonestación pública: menos cinco puntos;
+IV. Amonestación pública: menos siete puntos; y
 
-V. Suspensión: menos ocho puntos; y
+V. Suspensión: menos diez puntos.
 
-VI. Visitas de inspección: menos un punto. Unicamente serán objeto de valoración las últimas tres visitas de inspección y se descontará el puntaje señalado cuando de su análisis se advierta que no se han acatado las recomendaciones que, en su caso, se hayan formulado.
+Siempre que no se hayan impuesto nuevas medidas disciplinarias, los puntos a descontar irán disminuyendo con el paso de tiempo, de conformidad con lo siguiente: a los cinco años de que la medida disciplinaria se haya impuesto, los puntos se multiplicarán por un factor de 0.7; a los siete años por un factor 0.5; y después de diez años, por un factor de 0.3. Transcurridos quince años sin otra sanción disciplinaria, dejarán de considerarse los puntos desfavorables.
 
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 43.
 
-Si la plaza vacante en determinado órgano jurisdiccional es interina, a fin de resolver sobre la readscripción, la Secretaría Ejecutiva de Adscripción hará del conocimiento de los solicitantes tal circunstancia, para que dentro del término de tres días, y por escrito dirigido a la Comisión de Adscripción, manifiesten si insisten en dicho cambio; la falta de contestación oportuna se entenderá en sentido negativo y, por ende, no se atenderá ninguna de dichas solicitudes.
+El Consejo podrá realizar cambios de adscripción por situaciones extraordinarias, como las derivadas de casos en donde la seguridad de los titulares se encuentre en riesgo o atendiendo a razones de carácter humanitario.
 
 ## TITULO QUINTO. De la Ratificación
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 44.
 
-Corresponde al Consejo declarar la inamovilidad de los juzgadores federales, en términos del primer párrafo del artículo 97 constitucional, cuando reúnan los siguientes requisitos:
+Corresponde al Consejo determinar la ratificación de los juzgadores federales, en términos del primer párrafo del artículo 97 constitucional, cuando reúnan los siguientes requisitos:
 
-> <small>(F. DE E., D.O.F. 23 DE MARZO DE 2007)</small>
+I. Tener seis años en el desempeño como juzgador federal, ya sea durante el tiempo en que ejerzan como juez de Distrito, como magistrado de Circuito o en ambos;
 
-I. Aprobar su desempeño como juzgadores, mediante evaluación en la que se consideren los elementos a que se refiere el artículo 121 de la Ley; y
+II. No haber sido sancionado por falta grave con motivo de una queja de carácter administrativo durante el lapso considerado para la ratificación; y
 
-II. Tener seis años en el desempeño como juzgador federal, ya sea durante el tiempo en que ejerzan como Juez de Distrito, como Magistrado de Circuito o en ambos.
+III. Tener una evaluación satisfactoria como juzgador federal, considerando los elementos a que se refiere el artículo 121 de la Ley, de conformidad con lo siguiente:
 
-La garantía de permanencia se reconocerá, según el caso, a través de una resolución de ratificación.
+a) Funcionamiento jurisdiccional, en donde se haya obtenido una calificación mínima de ochenta de cien puntos respecto de lo siguiente:
+
+1. Resultado de visitas de inspección, de conformidad con lo dispuesto en el artículo 41, fracción IV; y
+
+2. Desempeño con base en la productividad que se desprenda de la información estadística.
+
+b) Idoneidad, en donde se acredite lo siguiente:
+
+1. Que se haya conducido con honorabilidad ante las diversas instancias administrativas del Consejo;
+
+2. Grados académicos, de actualización y especialización;
+
+3. No haber sido sancionado por delitos o faltas que, puedan reflejar por su naturaleza o cantidad, patrones de conducta que se alejen de los estándares constitucionales de excelencia, objetividad, imparcialidad, profesionalismo e independencia; con independencia de la calificación que de las mismas se haya hecho originalmente; y
+
+4. Cumplir las normas laborales.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -567,53 +625,41 @@ La garantía de permanencia se reconocerá, según el caso, a través de una res
 
 El trámite de los expedientes de ratificación corresponderá al Presidente, por conducto del Secretario Ejecutivo de Carrera Judicial.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 46.
 
-El Director General de Recursos Humanos levantará, con seis meses de antelación, una certificación en el expediente personal del funcionario de que se trate, en la que hará constar el vencimiento del plazo de seis años a que alude el artículo 97, párrafo primero, de la Constitución. Acto seguido, comunicará dicha situación al Secretario Ejecutivo de Carrera Judicial y le remitirá el citado expediente. Asimismo, informará al Secretario Ejecutivo de Disciplina para que remita, a la brevedad, informe sobre los procedimientos administrativos disciplinarios formulados en contra del servidor público.
+El Director General de Recursos Humanos levantará, con seis meses de antelación, una certificación en el expediente personal del funcionario de que se trate, en la que hará constar el vencimiento del plazo de seis años a que alude el artículo 97, párrafo primero de la Constitución, y la remitirá a la Secretaría Ejecutiva de Carrera Judicial para la substanciación del procedimiento de ratificación.
 
-El Magistrado de Circuito o Juez de Distrito podrá hacer del conocimiento de cualquiera de dichos Secretarios Ejecutivos, el vencimiento del plazo, con la oportunidad mencionada.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 47.
 
-El Secretario Ejecutivo de Carrera Judicial dará cuenta con la certificación a que se refiere el artículo anterior al Presidente, quien emitirá un acuerdo en el que se decretará la procedencia o improcedencia del procedimiento de ratificación.
-
-De estimarse improcedente el inicio del procedimiento de ratificación, el Presidente ordenará la devolución del expediente a Recursos Humanos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+La Secretaría Ejecutiva de Carrera Judicial dará cuenta con la certificación a que se refiere el artículo anterior al Presidente, quien emitirá un acuerdo en el que se decretará la procedencia o improcedencia del procedimiento de ratificación.
 
 De ser procedente el inicio del procedimiento de ratificación, el Secretario Ejecutivo de Carrera Judicial:
 
 I. Dispondrá que se forme y registre el expediente de ratificación bajo el número que le corresponda, al cual deberá agregarse copia autorizada de la certificación a que se refiere el artículo anterior y, en su caso, el comunicado del funcionario;
 
-II. Ordenará que se publique el inicio del procedimiento de ratificación por una vez en el Diario Oficial de la Federación y la colocación, por un período de cinco días hábiles, de avisos del citado procedimiento en los estrados y lugares más visibles del órgano jurisdiccional de su adscripción y en aquéllos en los que se hubiera desempeñado como titular, a efecto de hacer saber a los litigantes, abogados postulantes y público en general, el nombre del servidor público a ratificar y que dentro del improrrogable plazo de cinco días hábiles, contados a partir del siguiente al en que se hubiera publicado en el Diario Oficial de la Federación, cualquier persona podrá formular por escrito, de manera respetuosa, las observaciones u objeciones que estime pertinentes en relación con dicho procedimiento;
+II. Ordenará que se publique el inicio del procedimiento de ratificación por una vez en el Diario Oficial de la Federación y la colocación, por un período de cinco días hábiles, de avisos del citado procedimiento en los estrados del órgano jurisdiccional de su adscripción y en aquéllos en los que se hubiera desempeñado como Titular, a efecto de hacer saber al público en general, el nombre del servidor público a ratificar y que dentro del plazo de treinta días hábiles, contados a partir del siguiente al en que se hubiera publicado en el Diario Oficial de la Federación, cualquier persona podrá formular por escrito, de manera respetuosa, las observaciones u objeciones que estime pertinentes en relación con dicho procedimiento;
 
-III. Comunicará el inicio del trámite al funcionario respectivo, para que ofrezca copia certificada de las constancias relativas a los cursos de posgrado que haya tomado, las clases que haya impartido y demás datos que estime pertinentes;
+III. Comunicará el inicio del trámite al funcionario respectivo, para que ofrezca copia certificada de las constancias relativas a los cursos de posgrado que haya tomado, las clases que haya impartido y cualquier otro documento que resulte relevante para el proceso de ratificación;
 
-IV. Requerirá al Contralor del Poder Judicial de la Federación para que remita informe de los procedimientos administrativos formados en contra del servidor público, así como un informe de la evolución de su situación patrimonial;
+IV. Recabará los siguientes informes:
 
-V. Ordenará recabar la información estadística sobre la actividad del funcionario a ratificar;
+a) De la Contraloría del Poder Judicial de la Federación, de los procedimientos administrativos formados, en su caso, en contra del servidor público, así como un informe de la evolución de su situación patrimonial;
 
-> <small>(REFORMADA POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, EN RELACIÓN CON LA REESTRUCTURA ORGANIZACIONAL EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, D.O.F. 7 DE DICIEMBRE DE 2018)</small>
+b) De la Unidad General de Investigaciones de Responsabilidades Administrativas, respecto de las quejas y denuncias de las que haya dado trámite en contra del servidor público y denuncias no admitidas cuando sean reiteradas;
 
-VI. Solicitará a la Secretaría Ejecutiva de Vigilancia los resultados de las visitas de inspección y de los informes circunstanciados; y a la Secretaría Ejecutiva de Disciplina los procedimientos administrativos disciplinarios formulados en contra del servidor público;
+c) De la Secretaría Ejecutiva de Disciplina, sobre los procedimientos administrativos disciplinarios formulados en contra del servidor público;
 
-VII. Turnará el expediente a un Consejero a fin de que elabore el dictamen correspondiente para someterlo al Pleno;
+d) De la Secretaría Ejecutiva de Vigilancia, de los resultados de las visitas de inspección y de los informes circunstanciados;
 
-> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE MODIFICA AL DIVERSO ACUERDO GENERAL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE FEBRERO DE 2009)</small>
+e) De la Dirección General de Estadística Judicial, del desempeño del servidor público; y
 
-VIII. El original del dictamen que al efecto se elabore, así como los documentos a que hacen referencia las fracciones II y III de este artículo, deberán enviarse al expediente personal del servidor público que obra en Recursos Humanos.
+f) De la Comisión Substanciadora Única del Poder Judicial de la Federación, de los conflictos de trabajo que se hayan suscitado entre el magistrado de Circuito o juez de Distrito y sus servidores públicos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+V. Turnará el expediente a un Consejero integrante de la Comisión con la opinión técnica del asunto, a fin de que elabore el dictamen correspondiente para someterlo al Pleno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
@@ -621,13 +667,15 @@ VIII. El original del dictamen que al efecto se elabore, así como los documento
 
 El Secretario Ejecutivo de Carrera Judicial debe vigilar la tramitación y seguimiento del procedimiento de ratificación en los términos establecidos en las disposiciones que al efecto emita el Pleno.
 
-La existencia de procedimientos de responsabilidad administrativa en trámite no impide la continuación y emisión de la resolución correspondiente a la ratificación.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+Cuando la decisión de la ratificación dependa de un procedimiento disciplinario en trámite, seguido por causas graves conforme al artículo 121 de la Ley se suspenderá la resolución de aquella, hasta que se resuelva sobre la imposición o no de la sanción al servidor público, sin que ello implique la separación del cargo.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 49.
 
-El Secretario Ejecutivo del Pleno comunicará a los magistrados de circuito y jueces de distrito, el sentido de la resolución que se dicte en el procedimiento de su ratificación, y se procurará celebrar una ceremonia solemne para ese efecto.
-
-La Comisión asumirá la organización de las ceremonias respectivas, con el objeto de entregar las citadas constancias.
+El Secretario Ejecutivo de Carrera Judicial comunicará a los magistrados de Circuito y jueces de Distrito, el sentido de la resolución que se dicte en el procedimiento de su ratificación.
 
 ## TITULO SEXTO. De los Secretarios y Actuarios
 
@@ -2112,3 +2160,13 @@ SÉPTIMO. Las referencias a la Comisión de Vigilancia, Información y Evaluaci�
 Las que se hagan a la Unidad de Investigación de Responsabilidades Administrativas se entenderán referidas a la Unidad General de Investigación de Responsabilidades Administrativas.
 
 Y las hechas a la Dirección General de Responsabilidades se entenderán hechas a la Dirección General de Substanciación, Registro y Seguimiento de la Evolución Patrimonial.
+
+D.O.F. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES, EN RELACIÓN CON LA REINCORPORACIÓN, ADSCRIPCIÓN, READSCRIPCIÓN Y RATIFICACIÓN DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Acuerdo, serán concluidos conforme a las disposiciones con las que fueron iniciados.
