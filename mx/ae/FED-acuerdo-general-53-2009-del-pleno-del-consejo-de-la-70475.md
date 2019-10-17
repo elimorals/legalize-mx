@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-53-2009-del-pleno-del-consejo-de-la-70475"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-10-21"
-last_updated: "2009-10-21"
+last_updated: "2019-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70475&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-09-30"
 ---
 # ACUERDO GENERAL 53/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [INICIO DE FUNCIONES DE DOS TRIBUNALES COLEGIADOS DE CTO. DEL CENTRO AUXILIAR DE LA NOVENA REGION, ZACATECAS, ZACATECAS]
 
-ACUERDO GENERAL 53/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DEL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS DE CIRCUITO DEL CENTRO AUXILIAR DE LA NOVENA REGION, CON RESIDENCIA EN ZACATECAS, ZACATECAS, CON JURISDICCION EN TODA LA REPUBLICA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 17 DEL ACUERDO GENERAL 20/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 17 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ACUERDO GENERAL 53/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL INICIO DE FUNCIONES DEL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS DE CIRCUITO DEL CENTRO AUXILIAR DE LA NOVENA REGIÓN, CON RESIDENCIA EN ZACATECAS, ZACATECAS, CON JURISDICCIÓN EN TODA LA REPÚBLICA
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2019 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 21 de octubre de 2009.
 
@@ -68,3 +70,29 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGAN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 53/2009, del Pleno del Consejo de la Judicatura Federal, Relativo al Inicio de Funciones del Primer y Segundo Tribunales Colegiados de Circuito del Centro Auxiliar de la Novena Región, con Residencia en Zacatecas, Zacatecas, con Jurisdicción en Toda la República, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de treinta de septiembre de dos mil nueve, por unanimidad de votos de los señores Consejeros: Presidente Ministro Guillermo I. Ortiz Mayagoitia, Luis María Aguilar Morales, Juan Carlos Cruz Razo, César Alejandro Jáuregui Robles y Oscar Vázquez Marín.- México, Distrito Federal, a trece de octubre de dos mil nueve.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 20/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL PRIMER Y SEGUNDO TRIBUNALES COLEGIADOS DE CIRCUITO DEL CENTRO AUXILIAR DE LA NOVENA REGIÓN, CON RESIDENCIA EN ZACATECAS, ZACATECAS; CAMBIO DE DENOMINACIÓN DEL TRIBUNAL COLEGIADO DEL VIGÉSIMO TERCER CIRCUITO; INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL COLEGIADO DEL CITADO CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES EN EL CIRCUITO INDICADO; A LA CREACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO; Y QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES Y ABROGA EL ACUERDO GENERAL 53/2009”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La conclusión de funciones del Primer y Segundo Tribunales Colegiados de Circuito del Centro Auxiliar de la Novena Región, con residencia en Zacatecas, Zacatecas, y el inicio del Segundo Tribunal Colegiado del Vigésimo Tercer Circuito, en el citado Estado y residencia, implicará el traslado del personal con su plaza respetando sus derechos laborales, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal realizará la implementación administrativa correspondiente.
+
+Las cuatro plazas de Secretarios de los Tribunales que concluyen funciones que no formarán parte de la plantilla del órgano colegiado de nueva creación, se transferirán a la plantilla de plazas a disposición del Consejo de la Judicatura Federal, comisionados temporalmente de la manera siguiente:
+
+- 2 en el Primer Tribunal Colegiado del Vigésimo Tercer Circuito; y,
+
+- 2 en el Segundo Tribunal Colegiado del Vigésimo Tercer Circuito.
+
+En caso de que algún servidor público cause baja en el órgano jurisdiccional al que se le comisionará, la plaza se transferirá a la plantilla de plazas a disposición del Consejo de la Judicatura Federal para el fortalecimiento de órganos jurisdiccionales federales, puesto que la propuesta tiene como fin el respeto a los derechos laborales, pero con la limitante de recursos presupuestales.
+
+La Comisión de Adscripción definirá la readscripción de los Magistrados de Circuito de los Tribunales Colegiados auxiliares que concluyen funciones.
+
+CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
+
+QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
