@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2018-12-25"
+last_updated: "2019-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1139,9 +1139,11 @@ En los casos de delitos culposos, se impondrán de tres meses a cinco años de p
 
 En relación a estos delitos, se tendrá en cuenta lo siguiente:
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2019)</small>
 
-I. Cuando a consecuencia de la conducta culposa de quien conduzca vehículos de transporte de pasajeros, escolar o de carga, de servicio público o privado, con autorización, permiso o licencia concedida por las autoridades competentes o sin cualquiera de ellas, se cause homicidio a dos o más personas, la sanción será de cuatro a ocho años de prisión, multa de doscientas ochenta y ocho hasta quinientas setenta y seis veces la Unidad de Medida y Actualización, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de igual naturaleza;
+I. Cuando a consecuencia de la conducta culposa de quien conduzca vehículos de transporte de pasajeros, escolar o de carga, de servicio público o privado, con autorización, permiso o licencia concedida por las autoridades competentes o sin cualquiera de ellas, se cometa el delito de lesiones, la sanción será de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos veces la Unidad de Medida y Actualización, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de igual naturaleza.
+
+Cuando a consecuencia de la conducta culposa descrita en el párrafo anterior, se cometa el delito de homicidio, la sanción será de cinco a diez años de prisión, y multa de trescientos sesenta a setecientos veinte veces la Unidad de Medida y Actualización, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de igual naturaleza.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2017)</small>
 
@@ -1799,11 +1801,13 @@ Cuando las lesiones sean calificadas, la pena se incrementará en dos terceras p
 
 La riña es la contienda de obra que se acepta de manera tácita o expresa entre dos o más personas con el ánimo de dañarse recíprocamente.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2019)</small>
 
 ###### ARTÍCULO 147.
 
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, brutal ferocidad, por razones de orientación sexual o identidad de género o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia.
+El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, brutal ferocidad, por razones de orientación sexual o identidad de género, por razones de género en contra de la mujer o por discriminación, aversión o rechazo en contra de la víctima; condición social o económica; por su origen étnico, raza, religión o discapacidad o en perjuicio de servidores públicos que se encarguen de la procuración o administración de justicia.
+
+Se consideran razones de género las mismas contempladas para el delito de feminicidio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2018)</small>
 
@@ -6170,3 +6174,19 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los juicios e investigaciones derivadas de un feminicidio que se encuentren en trámite continuarán su sustanciación hasta el final de las mismas, de conformidad con la legislación aplicable al momento de inicio de los mismos.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 148.- POR EL QUE SE REFORMA EL ARTÍCULO 147 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 149.- POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 79 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
