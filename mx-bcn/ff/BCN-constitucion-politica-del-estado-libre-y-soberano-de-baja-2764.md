@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2019-02-01"
+last_updated: "2019-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -4287,9 +4287,13 @@ a).- Los munícipes electos en el proceso electoral de 2016, iniciarán su perio
 
 b).- Los munícipes electos en el proceso electoral de 2019, iniciarán funciones el primero de octubre de 2019 y concluirán el treinta de septiembre del 2021.
 
-OCTAVO.- Para efecto de la concurrencia de la elección de Gobernador del Estado con el proceso electoral federal 2021, el Gobernador electo en el proceso electoral de 2019, iniciará funciones el primero de noviembre de 2019 y concluirá el 31 de octubre de 2021.
+(NOTA: EL 11 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 112/2019 Y SUS ACUMULADAS 113/2019, 114/2019, 115/2019, 119/2019 Y 120/2019, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 351 QUE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO, INDICADO CON MAYÚSCULAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA EL DIECISIETE DE OCTUBRE DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 11 DE MAYO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-La reforma al artículo 44, mediante el cual se adelanta la toma de posesión del Gobernador del Estado al mes de septiembre posterior a la elección, será aplicable al que sea electo en dicho cargo en el proceso electoral de 2027. Por única ocasión el Gobernador del Estado electo en el proceso electoral de 2021, iniciará funciones el primero de noviembre de 2021 y concluirá el treinta y uno de agosto del 2027.
+> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2019)</small>
+
+OCTAVO.- PARA EFECTO DE LA CONCURRENCIA DE LA ELECCIÓN DE GUBERNATURA DEL ESTADO CON EL PROCESO ELECTORAL FEDERAL DE 2024, LA GUBERNATURA ELECTA EN EL PROCESO ELECTORAL DE 2019, INICIARÁ FUNCIONES EL PRIMERO DE NOVIEMBRE DE 2019 Y CONCLUIRÁ EL 31 DE OCTUBRE DE 2024. LA REFORMA AL ARTÍCULO 44, MEDIANTE EL CUAL SE ADELANTA LA TOMA DE POSESIÓN DEL GOBERNADOR DEL ESTADO AL MES DE SEPTIEMBRE POSTERIOR A LA ELECCIÓN, SERÁ APLICABLE AL QUE SEA ELECTO EN DICHO CARGO EN EL PROCESO ELECTORAL DE 2030.
+
+POR ÚNICA OCASIÓN EL GOBERNADOR DEL ESTADO ELECTO EN EL PROCESO ELECTORAL DE 2024, INICIARÁ FUNCIONES EL PRIMERO DE NOVIEMBRE DE 2024 Y CONCLUIRÁ EL TREINTA Y UNO DE AGOSTO DEL 2030.
 
 NOVENO.- De conformidad con el artículo transitorio noveno del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, los actuales consejeros electorales del Consejo General Electoral del Instituto Electoral y de Participación Ciudadana del Estado, continuarán en su encargo hasta en tanto se realicen las nuevas designaciones en los términos de dicho transitorio.
 
@@ -4790,3 +4794,13 @@ SEGUNDO.- Una vez agotado el proceso legislativo en los términos del Artículo 
 TERCERO.- Se derogan todas las disposiciones que contravengan a esta reforma.
 
 CUARTO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 351 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE DECRETO POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, APROBADO MEDIANTE DECRETO NÚMERO 112, DE FECHA 11 DE SEPTIEMBRE DEL AÑO 2014”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO.- El Ejecutivo del Estado dispondrá se publique, circule y proveerá el debido cumplimiento al presente Decreto.
