@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-116341"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-09"
-last_updated: "2016-12-19"
+last_updated: "2019-10-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116341&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2016-09-07"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE ECONOMIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA, PUBLICADO EN EL D.O.F. DE 17 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2019 (ABROGADO).
 
 Reglamento, publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 9 de septiembre de 2016.
 
@@ -1996,3 +1998,57 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Las modificaciones a la estructura orgánica de la Secretaría de Economía que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentará el presupuesto regularizable de la Dependencia.
 
 TERCERO.- Las atribuciones y referencias previstas en otras disposiciones administrativas respecto de la Coordinación General de Minería, se entenderán hechas a la Subsecretaría de Minería.
+
+D.O.F. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Economía publicado en el Diario Oficial de la Federación el 9 de septiembre de 2016.
+
+La normativa administrativa expedida por la Secretaría de Economía, con fundamento en el Reglamento Interior que se abroga, continuará vigente y aplicándose, en lo que no se oponga al presente Reglamento.
+
+TERCERO.- Se abroga el Acuerdo que regula la organización y funcionamiento interno del Instituto Nacional del Emprendedor, publicado el 15 de abril de 2013, así como todas aquellas disposiciones que se opongan al presente Reglamento.
+
+CUARTO.- Las modificaciones a las estructuras orgánicas que se deriven del presente Reglamento se realizarán con cargo al presupuesto autorizado de la Secretaría de Economía, por lo que no se requerirán recursos adicionales ni se incrementará su presupuesto regularizable en materia de servicios personales.
+
+QUINTO.- Las referencias, atribuciones, facultades y obligaciones hechas a las unidades administrativas siguientes en otras disposiciones, así como en contratos, convenios o análogos que se hubieren celebrado y cualquier otro instrumento, se entenderán hechas ahora conforme a lo siguiente:
+
+a) Las hechas al Instituto Nacional del Emprendedor y a la Coordinación General del Programa Nacional de Financiamiento al Microempresario, o a las áreas administrativas adscritas a estos, se entenderán hechas a la Unidad de Desarrollo Productivo;
+
+b) Las hechas a la Oficialía Mayor se entenderán hechas a la Unidad de Administración y Finanzas;
+
+c) Las hechas a la Subsecretaría de Industria y Comercio o a la Subsecretaría de Competitividad y Normatividad se entenderán hechas a la Subsecretaría de Industria, Comercio y Competitividad;
+
+d) Las hechas a la Unidad de Competitividad o a la Unidad de Competencia y Políticas Públicas para la eficiencia de los mercados se entenderán hechas a la Unidad de Competitividad y Competencia;
+
+e) Las hechas a la Oficina del Abogado General se entenderán hechas a la Unidad de Apoyo Jurídico;
+
+f) Las hechas a la Unidad de Negociaciones Internacionales se entenderán hechas a la Unidad de Negociaciones Comerciales Internacionales;
+
+g) Las hechas a la Dirección General de Comercio Exterior se entenderán hechas a la Dirección General de Facilitación Comercial y de Comercio Exterior;
+
+h) Las hechas a la Dirección General de Promoción de Inversiones en el Sector Energético se entenderán hechas a la Unidad de Inteligencia Económica Global;
+
+i) Las hechas a la Dirección General de Reglas de Comercio Internacional se entenderán hechas a la Dirección General de Disciplinas de Comercio Internacional;
+
+j) Las hechas a la Dirección General de Programación, Organización y Presupuesto se entenderán hechas a la Dirección General de Programación, Presupuesto y Contabilidad;
+
+k) Las hechas a la Dirección General de Planeación y Evaluación se entenderán hechas a la Unidad de Prospectiva, Planeación y Evaluación;
+
+l) Las hechas a la Dirección General de Vinculación Política se entenderán hechas a la Oficina de Enlace Legislativo;
+
+m) Las hechas a la Dirección General de Comunicación Social se entenderán hechas a la Oficina de Comunicación Social, e
+
+n) Las hechas a la Subsecretaría de Minería, en su carácter de Unidad Responsable para los efectos del fideicomiso público sin estructura denominado Fondo para el Desarrollo de Zonas de Producción Minera, se entenderán hechas a la Dirección General del Fondo para el Desarrollo de Zonas de Producción Minera.
+
+En general las referencias hechas a las unidades administrativas que por efecto de la entrada en vigor del presente Reglamento cambien su denominación, se entenderán hechas a las denominaciones aquí establecidas.
+
+SEXTO.- Los asuntos que se encuentren en trámite ante las unidades administrativas u órganos administrativos desconcentrados de la Secretaría, cuyas atribuciones se transfieran a otras unidades administrativas u órganos administrativos desconcentrados de la Dependencia con motivo de la entrada en vigor del presente Reglamento Interior, serán atendidos y resueltos por estas últimas.
+
+SÉPTIMO.- En casos de duda respecto de la unidad administrativa u órgano administrativo desconcentrado que deba continuar con la atención de los asuntos, corresponderá a la persona Titular de la Secretaría la determinación de la unidad administrativa u órgano administrativo desconcentrado competente, con la opinión de la Unidad de Apoyo Jurídico.
+
+OCTAVO.- En las transferencias y readscripciones de personal, así como en las eventuales bajas, se respetarán en todo caso los derechos laborales de los servidores públicos.
+
+NOVENO.- Cuando, en términos del último párrafo del artículo 72 de este Reglamento, el auxilio que proporcione la Secretaría de Economía al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
