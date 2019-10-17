@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2019-06-04"
+last_updated: "2019-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDNNA"
 
 LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
 
@@ -152,11 +152,15 @@ XXV. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y
 
 XXVI. Sistemas Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
 
-XXVII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2019)</small>
 
-XXVIII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+XXVII. Sistema Municipal de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio;
 
-XXIX. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXVIII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+XXIX. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+
+XXX. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
 
@@ -1418,9 +1422,11 @@ Está prohibido devolver, expulsar, deportar, retornar, rechazar en frontera o n
 
 Cualquier decisión sobre la devolución de una niña, niño o adolescente al país de origen o a un tercer país seguro, sólo podrá basarse en los requerimientos de su interés superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 98.
 
-En caso de que los Sistemas DIF identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración a fin de adoptar medidas de protección especial.
+En caso de que los Sistemas DIF identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración, quien en colaboración con la Coordinación General de la Comisión Mexicana de Ayuda a Refugiados, adoptarán medidas de protección especial.
 
 El Sistema Nacional DIF y los sistemas de las entidades federativas, en coordinación con las instituciones competentes, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
 
@@ -1430,7 +1436,9 @@ El Sistema Nacional DIF deberá diseñar y administrar las bases de datos de ni�
 
 Los Sistemas de las Entidades enviarán al Sistema Nacional DIF la información en el momento en que se genere a fin de que se incorpore en las bases de datos a que se refiere el párrafo anterior.
 
-El Instituto Nacional de Migración deberá proporcionar la información y colaborar con el Sistema Nacional DIF para los efectos de este artículo.
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+
+El Instituto Nacional de Migración y en su caso la Coordinación General de la Comisión Mexicana de Ayuda a Refugiados, deberán proporcionar la información y colaborar con el Sistema Nacional DIF para los efectos de este artículo.
 
 ###### Artículo 100.
 
@@ -2459,5 +2467,11 @@ Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 4 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
