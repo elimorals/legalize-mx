@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2019-06-23"
+last_updated: "2019-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2019.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -1703,9 +1703,11 @@ Lo dispuesto en este artículo es aplicable a la obligación alimentaria entre e
 
 ART. 318.- El cónyuge, que sin culpa suya, se vea obligado a vivir separado, podrá pedir al Juez de Primera Instancia de su residencia, que obligue al que dio motivo de la separación a que ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo desde que abandonó al otro cónyuge, así como que satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se puede determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y la de lo que hubiere dejado de cubrir desde la separación.
 
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE OCTUBRE DE 2019)</small>
 
-ART. 318 BIS.- Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez de lo Familiar; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles y responderá solidariamente con los obligados directos, de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
+ART. 318 BIS.- Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez de lo Familiar; de no hacerlo dentro de los quince días hábiles siguientes al día en que se reciba el oficio correspondiente, será sancionada en los términos establecidos en el Código de Procedimientos Civiles y responderá solidariamente con los obligados directos, de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2004)</small>
 
 Las personas que se resistan a acatar las órdenes judiciales de descuento, o auxilien al obligado a ocultar o disimular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo anterior, sin perjuicio de lo dispuesto por otros ordenamientos legales.
 
@@ -6927,7 +6929,7 @@ ART. 1887.- Cada uno de los que han contraído conjuntamente una deuda indivisib
 
 La misma tiene lugar respecto de los herederos de aquel que haya contraído una obligación indivisible.
 
-ART. 1888.- Cada uno de los herederos del acreedor puede exigir la completa ejecución indivisible obligándose a dar suficiente garantía para la indemnización de los demás coherederos, pero no puede por sí solo perdonar el débito total ni recibir el valor en lugar de la cosa.
+ART. 1888.- Cada uno de los herederos del acreedor puede exigir la completa ejecución indivisible obligándose a dar suficiente garantía para la indemnización de los demás coherederos, pero no puede por si solo perdonar el débito total ni recibir el valor en lugar de la cosa.
 
 Si uno sool (sic) de los herederos ha perdonado la deuda o recibido el valor de la cosa, el coheredero no puede pedir la cosa indivisible sino devolviendo la porción del heredero que haya perdonado o que haya recibido el valor.
 
@@ -7221,7 +7223,7 @@ ART. 1978.- El ofrecimiento seguido de la consignación hace veces de pago, si r
 
 ART. 1979.- Si el acreedor rehusare sin justa causa recibir la prestación debida, o dar el documento justificativo de pago, o si fuere persona incierta o incapaz de recibir, podrá el deudor librarse de la obligación haciendo consignación de la cosa.
 
-ART. 1980.- Si el acreedor fuere conocido, pero dudosos sus derechos podrá el deudor depositar la cosa debida, con citación del interesado, a fin de que justifique sus derechos por los medios legales.
+ART. 1980.- Si el acreedor fuere conocido, pero dudosos sus derechos podrá el deudor depositar la cosa debida con citación del interesado, a fin de que justifique sus derechos por los medios legales.
 
 ART. 1981.- La consignación se hará siguiéndose el procedimiento que establezca el Código de la materia.
 
@@ -10782,3 +10784,11 @@ P.O. 23 DE JUNIO DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 147.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 318 BIS DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
