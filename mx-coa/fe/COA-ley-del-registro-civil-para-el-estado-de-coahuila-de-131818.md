@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-131818"
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-27"
-last_updated: "2019-06-25"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección al Número 95 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 27 de noviembre de 2018.
 
@@ -257,9 +257,11 @@ VIII. El octavo, actas de terminación de los pactos civiles de solidaridad.
 
 Toda acta deberá inscribirse en el número de ejemplares que correspondan al registro y en ellos, deberán constar las firmas autógrafas o electrónicas de la o el Oficial y de quienes comparecen, cuando así corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 25.
 
-Las actas del Registro Civil sólo se inscribirán en las formas siguientes: nacimiento, reconocimiento de hijos e hijas, matrimonio, defunción, divorcio, registro de pacto civil de solidaridad y terminación del mismo, inscripción de las sentencias ejecutoriadas que declaren la ausencia, la presunción de muerte, la tutela, las que declaren la necesidad de asistencia y representación para administrar bienes.
+Las actas del Registro Civil sólo se inscribirán en las formas siguientes: nacimiento, reconocimiento de hijos e hijas, matrimonio, defunción, divorcio, registro de pacto civil de solidaridad y terminación del mismo, inscripción de las sentencias ejecutoriadas que declaren la ausencia, la declaración especial de ausencia, la presunción de muerte, la tutela, las que declaren la necesidad de asistencia y representación para administrar bienes.
 
 En caso de adopción plena sólo se inscribirá acta de nacimiento.
 
@@ -597,15 +599,19 @@ Cuando de una exhumación se desprenda que la causa de la muerte es distinta a l
 
 ### CAPÍTULO SÉPTIMO. LAS ACTAS QUE DECLAREN LA AUSENCIA, LA PRESUNCIÓN DE MUERTE O LA NECESIDAD DE ASISTENCIA O REPRESENTACIÓN PARA ADMINISTRAR BIENES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 84.
 
-Las y los Oficiales, así como la Dirección, al recibir de la autoridad judicial copia certificada de la ejecutoria que declare la necesidad de asistencia o representación para administrar bienes o la que declare la ausencia o la presunción de muerte, en los términos de la Ley para la Familia, tendrán la obligación de levantar el acta en el formato de inscripción que corresponda insertando en el mismo la parte resolutiva de la sentencia judicial que se comunica, efectuando además, la anotación marginal respectiva en el acta de nacimiento a que pertenezca, previo pago de los derechos correspondientes.
+Las y los Oficiales, así como la Dirección, al recibir de la autoridad judicial copia certificada de la ejecutoria que declare la necesidad de asistencia o representación para administrar bienes o la que declare la ausencia, la que decrete la declaración especial de ausencia o la presunción de muerte, en los términos de la Ley para la Familia, tendrán la obligación de levantar el acta en el formato de inscripción que corresponda insertando en el mismo la parte resolutiva de la sentencia judicial que se comunica, efectuando además, la anotación marginal respectiva en el acta de nacimiento a que pertenezca, previo pago de los derechos correspondientes.
 
 También deberá requerir de las o los interesados la Clave Única de Registro de Población de la persona a que se refiera la inscripción.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 85.
 
-Cuando cese la necesidad de asistencia o representación para administrar bienes o se presente la persona declarada ausente o cuya muerte se presumía, la autoridad que corresponda, dará aviso a la Oficialía y a la Dirección, para que se cancele el acta relativa y la anotación que se hubiere hecho en el acta de nacimiento respectiva.
+Cuando cese la necesidad de asistencia o representación para administrar bienes o se presente la persona declarada ausente o con declaración especial de ausencia o cuya muerte se presumía, la autoridad que corresponda, dará aviso a la Oficialía y a la Dirección, para que se cancele el acta relativa y la anotación que se hubiere hecho en el acta de nacimiento respectiva.
 
 ### CAPÍTULO OCTAVO. EL LIBRO DE LAS ACTAS DE INSCRIPCIÓN DE LOS PACTOS CIVILES DE SOLIDARIDAD
 
@@ -1770,3 +1776,13 @@ P.O. 25 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 355.- SE REFORMA EL ARTÍCULO 114, Y SE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 113 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 90 Y 336 DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41, 128, 177, 187, LA FRACCIÓN II DEL ARTÍCULO 437; SE ADICIONA EL ARTÍCULO 247 BIS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 30 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 30 Y LA FRACCIÓN XI DEL ARTÍCULO 31 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 25, EL PÁRRAFO PRIMERO DEL ARTÍCULO 84 Y EL ARTÍCULO 85 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Poder Judicial del Estado de Coahuila de Zaragoza, a través del Instituto de Especialización Judicial, llevará a cabo programas de capacitación para los integrantes del poder judicial que estarán involucrados con la aplicación de la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza y conversatorios con los familiares de personas desaparecidas.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
