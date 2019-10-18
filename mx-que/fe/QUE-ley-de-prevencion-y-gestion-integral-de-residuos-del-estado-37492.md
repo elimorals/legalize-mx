@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-374
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-20"
-last_updated: "2017-01-13"
+last_updated: "2019-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga", el 20 de febrero de 2004.
 
@@ -71,39 +71,47 @@ La presente Ley es de observancia general en el Estado de Querétaro, sus dispos
 
 En la formulación y conducción de las políticas en las materias a que se refiere esta Ley, así como para la expedición de las disposiciones jurídicas y la emisión de actos que de ella deriven, los Gobiernos Estatal y de los Municipios, según corresponda, observarán los principios que establece la Ley General para la Prevención y Gestión Integral de los Residuos.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 3.
 
-En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente de Querétaro, la Ley General para la Prevención y Gestión Integral de los Residuos, así como en otros ordenamientos jurídicos relacionados.
+En todo lo no previsto en la presente Ley, se aplicarán las disposiciones contenidas en la Ley General del Equilibrio Ecológico y la Protección del Ambiente, la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro, la Ley General para la Prevención y Gestión Integral de los Residuos, así como en otros ordenamientos jurídicos relacionados.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 4.
 
-Para los efectos de la presente Ley, son aplicables las definiciones contenidas en la Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente de Querétaro y las normas oficiales mexicanas, que no contradigan las que establece la Ley General para la Prevención y Gestión Integral de los Residuos, así como las siguientes:
+Para los efectos de la presente Ley, son aplicables las definiciones contenidas en la Ley General del Equilibrio Ecológico y Protección al Ambiente, la Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro y las Normas Oficiales Mexicanas, que no contradigan las que establece la Ley General para la Prevención y Gestión Integral de los Residuos, así como las siguientes:
 
-I. Composteo: Tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
+I. Bolsa reutilizable: Bolsas confeccionadas con nylon, pet reciclado o materiales reutilizables, que pueden tener amplia vida útil por ser de fibras naturales o sintéticas;
 
-II. Contenedor: Receptáculo destinado al deposito generalmente de forma temporal de residuos sólidos urbanos;
+II. Composteo: Tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
 
-III. Eliminación: Acción tendiente a deshacerse de un bien o de un residuo, mediante una forma de tratamiento de cualquier índole, que lo transforme en un material inerte o de su disposición final en celdas de confinamiento;
+III. Contenedor: Receptáculo destinado al depósito generalmente de forma temporal de residuos sólidos urbanos;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+IV. Eliminación: Acción tendiente a deshacerse de un bien o de un residuo, mediante una forma de tratamiento de cualquier índole, que lo transforme en un material inerte o de su disposición final en celdas de confinamiento;
 
-IV. Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, incluyendo co-procesamiento de combustible alterno y cualquier otro proceso que genere dioxinas y furanos como subproductos, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. Sin incluir la pirolisis, gasificación por plasma y plasma, siempre y cuando sean sometidos a combustión en un ambiente mínimo de oxígeno a fin de que no generen dioxinas o furanos;
+V. Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, incluyendo co-procesamiento de combustible alterno y cualquier otro proceso que genere dioxinas y furanos como subproductos, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. Sin incluir la pirolisis, gasificación por plasma y plasma, siempre y cuando sean sometidos a combustión en un ambiente mínimo de oxígeno a fin de que no generen dioxinas o furanos;
 
-V. Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
+VI. Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
 
-VI. Ley Ambiental: La Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente de Querétaro;
+VII. Ley Ambiental: Ley de Protección Ambiental para el Desarrollo Sustentable del Estado de Querétaro;
 
-VII. Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar la generación de residuos y aprovechar, tanto como sea posible, el valor agregado de aquellos;
+VIII. Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar la generación de residuos y aprovechar, tanto como sea posible, el valor agregado de aquellos;
 
-VIII. Recolección: Toda operación consistente en recoger, clasificar, agrupar o preparar residuos para su transporte;
+IX. Plásticos de un solo uso: plásticos desechables, comúnmente utilizados para transportar pequeñas cantidades de mercancías, artículos destinados a ser utilizados una sola vez antes de ser desechados o reciclados. Estos Incluyen, entre otros, bolsa de plástico desechable para acarreo, botellas, popotes, envases, unicel, vasos, platos y cubiertos;
 
-IX. Recolección selectiva: El sistema de recolección diferenciada de materiales orgánicos fermentables y de materiales reciclables, así como cualquier otro sistema de recolección diferenciada que permita la separación de los materiales valorizables contenidos en los residuos;
+X. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas, sin perjuicio para la salud, los ecosistemas o sus elementos;
 
-X. Relleno sanitario: Instalación en la cual se depositan de manera temporal o permanente los residuos sólidos urbanos, en sitios y en condiciones apropiados, para prevenir o reducir la liberación de contaminantes al ambiente, prevenir la formación de lixiviados en suelos, evitar procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
+XI. Recolección: Toda operación consistente en recoger, clasificar, agrupar o preparar residuos para su transporte;
 
-XI. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Querétaro; y
+XII. Recolección selectiva: El sistema de recolección diferenciada de materiales orgánicos fermentables y de materiales reciclables, así como cualquier otro sistema de recolección diferenciada que permita la separación de los materiales valorizables contenidos en los residuos;
 
-XII. Sistemas de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de una organización, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta, con sus políticas de adquisiciones, la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
+XIII. Relleno sanitario: Instalación en la cual se depositan de manera temporal o permanente los residuos sólidos urbanos, en sitios y en condiciones apropiados, para prevenir o reducir la liberación de contaminantes al ambiente, prevenir la formación de lixiviados en suelos, evitar procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
+
+XIV. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Querétaro; y
+
+XV. Sistemas de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de una organización, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta, con sus políticas de adquisiciones, la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
 
 ### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y DE LA COORDINACIÓN
 
@@ -119,6 +127,10 @@ III. Requerir a las autoridades municipales correspondientes, y a los grandes ge
 
 IV. Formular e instrumentar un programa maestro con enfoque regional e intermunicipal, para detener la creación y proceder al cierre de tiraderos de residuos a cielo abierto en todo el Estado.
 
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+V. Promover mediante campañas de difusión y concientización dirigidas a la población sobre la importancia de la reducción, reutilización, sustitución y uso responsable de los plásticos de un sólo uso, así como las ventajas que traería consigo para la salud pública y el medio ambiente.
+
 ###### Artículo 6.
 
 Corresponde a las autoridades municipales el ejercicio de las facultades, respecto al objeto de esta Ley previstas en la Ley Ambiental y en la Ley General, así como las siguientes:
@@ -129,29 +141,61 @@ II. Fomentar el desarrollo de mercados para el reciclaje de residuos sólidos ur
 
 III. Concertar con los sectores corresponsables, el establecimiento de planes de manejo para tipos de residuos sólidos urbanos y de manejo especial de su competencia, susceptibles de aprovechamiento, de conformidad con las disposiciones de esta Ley y en coordinación con la Secretaría;
 
-IV. Elaborar inventarios de residuos sólidos urbanos y de manejo especial, a través de los estudios de generación y caracterización de residuos, y los muestreos aleatorios de cantidad y calidad de los residuos en las localidades, en coordinación con la Secretaría y las autoridades ambientales del Gobierno Federal, así como con el apoyo de los diversos sectores sociales de su localidad, para sustentar, con base en ellos, la formulación de los sistemas para su gestión integral;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2019)</small>
 
-V. Determinar los costos de las distintas etapas de la operación de los servicios de limpia, y definir los mecanismos a través de los cuales se establecerá el sistema de cobro y tarifas correspondientes, en función del volumen y características de los residuos recolectados, así como del tipo de generadores y hacer del conocimiento público la información sobre todos estos aspectos;
+IV. Expedir los programas municipales de Gestión y Prevención Integral de Residuos, que deberán incluir estrategias de sustitución y eliminación de bolsas plásticas y unicel, hacia materiales reutilizables para fines de envoltura, carga y traslado de productos, así como la eliminación de popotes en establecimientos con servicios de comidas, bebidas y demás similares;
 
-VI. Organizar e implantar los esquemas administrativos requeridos para recabar el pago por los servicios de recolección, transporte, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación o al Estado, y la aplicación de los recursos resultantes al fortalecimiento de los sistemas de limpia, así como hacerlos del conocimiento público;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2019)</small>
 
-VII. Definir los criterios generales de carácter obligatorio para la prestación del servicio de limpia y aseo público de su competencia, con base en las normas oficiales mexicanas y el Programa de Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Querétaro, y aplicar los instrumentos de política previstos en la presente Ley;
+V. Fomentar el uso de materiales reutilizables dentro de sus municipios mediante programas de concientización y educación ambiental;
 
-VIII. Organizar y operar la prestación del servicio de limpia y aseo público de su competencia, y supervisar la prestación del servicio concesionado;
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
 
-IX. Realizar controles sobre las concesiones para garantizar la competencia, transparencia y evitar monopolios;
+VI. Elaborar inventarios de residuos sólidos urbanos y de manejo especial, a través de los estudios de generación y caracterización de residuos, y los muestreos aleatorios de cantidad y calidad de los residuos en las localidades, en coordinación con la Secretaría y las autoridades ambientales del Gobierno Federal, así como con el apoyo de los diversos sectores sociales de su localidad, para sustentar, con base en ellos, la formulación de los sistemas para su gestión integral;
 
-X. Llevar un registro y control de empresas y particulares concesionarios dedicados a la prestación del servicio de limpia de su competencia;
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
 
-XI. Conservar y dar mantenimiento al equipamiento e infraestructura urbana de su competencia, y de todos aquellos elementos que determinen el funcionamiento e imagen urbana relacionados con la prestación del servicio de limpia;
+VII. Determinar los costos de las distintas etapas de la operación de los servicios de limpia, y definir los mecanismos a través de los cuales se establecerá el sistema de cobro y tarifas correspondientes, en función del volumen y características de los residuos recolectados, así como del tipo de generadores y hacer del conocimiento público la información sobre todos estos aspectos;
 
-XII. Registrar y, en su caso autorizar, las obras y actividades relacionadas con la instalación y operación de sitios e infraestructura y para el traslado de residuos sólidos;
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
 
-XIII. Establecer convenios con las autoridades estatales y federales competentes, para llevar a cabo el control de los residuos peligrosos generados a nivel domiciliario y por los establecimientos microgeneradores de este tipo de residuos;
+VIII. Organizar e implantar los esquemas administrativos requeridos para recabar el pago por los servicios de recolección, transporte, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial que no estén expresamente atribuidos a la Federación o al Estado, y la aplicación de los recursos resultantes al fortalecimiento de los sistemas de limpia, así como hacerlos del conocimiento público;
 
-XIV. Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en la materia de su competencia y, en su caso, imponer las sanciones que corresponda; y
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
 
-XV. Atender los demás asuntos que en materia de residuos sólidos urbanos y de manejo especial, de servicios de limpia, así como de prevención de la contaminación por residuos y la remediación de sitios contaminados con ellos, le conceda esta Ley y otros ordenamientos jurídicos aplicables, y que no estén expresamente atribuidos a la Federación o a otras dependencias o entidades de la administración pública del Estado de Querétaro.
+IX. Definir los criterios generales de carácter obligatorio para la prestación del servicio de limpia y aseo público de su competencia, con base en las normas oficiales mexicanas y el Programa de Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Querétaro, y aplicar los instrumentos de política previstos en la presente Ley;
+
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
+
+X. Organizar y operar la prestación del servicio de limpia y aseo público de su competencia, y supervisar la prestación del servicio concesionado;
+
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
+
+XI. Realizar controles sobre las concesiones para garantizar la competencia, transparencia y evitar monopolios;
+
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
+
+XII. Llevar un registro y control de empresas y particulares concesionarios dedicados a la prestación del servicio de limpia de su competencia;
+
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
+
+XIII. Conservar y dar mantenimiento al equipamiento e infraestructura urbana de su competencia, y de todos aquellos elementos que determinen el funcionamiento e imagen urbana relacionados con la prestación del servicio de limpia;
+
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
+
+XIV. Registrar y, en su caso autorizar, las obras y actividades relacionadas con la instalación y operación de sitios e infraestructura y para el traslado de residuos sólidos;
+
+(REUBICADA [N. DE E. REFORMADA], P.O. 18 DE OCTUBRE DE 2019)
+
+XV. Establecer convenios con las autoridades estatales y federales competentes, para llevar a cabo el control de los residuos peligrosos generados a nivel domiciliario y por los establecimientos micro-generadores de este tipo de residuos;
+
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
+
+XVI. Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en la materia de su competencia y, en su caso, imponer las sanciones que corresponda; y
+
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
+
+XVII. Atender los demás asuntos que en materia de residuos sólidos urbanos y de manejo especial, de servicios de limpia, así como de prevención de la contaminación por residuos y la remediación de sitios contaminados con ellos, le conceda esta Ley y otros ordenamientos jurídicos aplicables, y que no estén expresamente atribuidos a la Federación o a otras dependencias o entidades de la administración pública del Estado de Querétaro.
 
 ###### Artículo 7.
 
@@ -241,7 +285,9 @@ VIII. El diseño, construcción y operación de estaciones de transferencia, pla
 
 IX. El cierre de los tiraderos controlados y no controlados de residuos sólidos urbanos y de manejo especial, así como la remediación de los sitios en los que se encuentran ubicados, cuando sea el caso; y
 
-X. La reutilización, reciclaje, tratamiento y disposición final de envases y empaques, llantas usadas, papel y cartón, vidrio, residuos metálicos, plásticos y otros materiales.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE OCTUBRE DE 2019)</small>
+
+X. La reutilización, reciclaje, tratamiento y disposición final de envases y empaques, llantas usadas, papel y cartón, vidrio, residuos metálicos, plásticos, unicel y otros materiales.
 
 Al elaborar los referidos ordenamientos jurídicos se tomarán en cuenta los criterios de riesgo, realidad, gradualidad y flexibilidad, que hagan posible su cumplimiento eficaz y eficiente.
 
@@ -293,13 +339,17 @@ Asimismo, la autoridad educativa del Estado de Querétaro celebrará convenios c
 
 #### SECCIÓN V. DE LA PARTICIPACIÓN SOCIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 19.
 
-La Secretaría y las autoridades municipales, en el ámbito de sus respectivas competencias, promoverán la participación de todos los sectores de la sociedad, en acciones destinadas a evitar la generación y dar un manejo integral, ambientalmente adecuado y económicamente eficiente a los residuos sólidos urbanos y de manejo especial, así como a prevenir la contaminación por residuos mediante:
+La Secretaría y las autoridades municipales, en el ámbito de sus respectivas competencias, promoverán la participación de todos los sectores de la sociedad, en acciones destinadas a evitar la generación y dar un manejo integral, ambientalmente adecuado y económicamente eficiente a los residuos sólidos urbanos y de manejo especial, así como a promover el uso de materiales reutilizables y prevenir la contaminación por residuos mediante:
 
 I. El fomento y apoyo a la conformación, consolidación y operación de grupos intersectoriales que tomen parte en la formulación e instrumentación de las políticas y programas en estas materias;
 
-II. La difusión de información y promoción de actividades de educación y capacitación, que proporcionen los elementos necesarios para que los particulares eviten la generación, y contribuyan a la separación y aprovechamiento del valor de los residuos sólidos urbanos y de manejo especial, así como prevengan la contaminación ambiental por residuos;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+II. La difusión de información y promoción de actividades de educación y capacitación, que proporcionen los elementos necesarios para que los particulares prioricen el uso de materiales reutilizables, así como eviten la generación, y contribuyan a la separación y aprovechamiento del valor de los residuos sólidos urbanos y de manejo especial, así como prevengan la contaminación ambiental por residuos;
 
 III. La invitación a la sociedad a participar en proyectos pilotos y de demostración, destinados a generar elementos de información para sustentar programas de minimización y manejo sustentable de residuos sólidos urbanos y de manejo especial, con fines de acopio y envío a reciclado, reutilización, tratamiento o disposición final;
 
@@ -507,6 +557,14 @@ b) Mecanismos para proceder a su cierre.
 
 c) Mecanismos para evitar la creación de nuevos tiraderos.
 
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 18 DE OCTUBRE DE 2019)</small>
+
+VII. Lineamientos para la sustitución y abatimiento de bolsas de plástico desechable para acarreo y popotes plásticos de un solo uso.
+
+1. Estrategias de sustitución y abatimiento del uso de bolsas plásticas, vasos, platos y demás empaques de unicel, para alimentos para fines de envoltura, transportación, carga o traslado, así como de popotes en establecimientos que otorguen servicios de comidas y bebidas.
+
+2. Programa de difusión y concientización a los propietarios de establecimientos y comercios relacionados con la comercialización de sus productos sobre las ventajas del uso de materiales reutilizables para la movilización de los productos que los consumidores les adquieran.
+
 ### CAPÍTULO II. DE LOS SISTEMAS DE MANEJO AMBIENTAL
 
 ###### Artículo 33.
@@ -643,11 +701,23 @@ XII. La dilución o mezcla de residuos sólidos urbanos o de manejo especial con
 
 XIII. La mezcla de residuos sólidos urbanos y de manejo especial con residuos peligrosos, contraviniendo lo dispuesto en la Ley General, esta Ley y demás ordenamientos que de ellas deriven;
 
-XIV. El confinamiento o depósito final de residuos en estado líquido o con contenidos líquidos o de materia orgánica que excedan los máximos permitidos por las normas oficiales mexicanas; y
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2019)</small>
 
-XV. Todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes, o que interfiera con la prestación del servicio de limpia.
+XIV. La venta, facilitación y obsequio de bolsas de plástico desechable para acarreo, así como de popotes, en los establecimientos de servicios de comidas, bebidas y demás similares;
+
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
+
+XV. El confinamiento o depósito final de residuos en estado líquido o con contenidos líquidos o de materia orgánica que excedan los máximos permitidos por las normas oficiales mexicanas; y
+
+(REUBICADA, P.O. 18 DE OCTUBRE DE 2019)
+
+XVI. Todo acto u omisión que contribuya a la contaminación de las vías públicas y áreas comunes, o que interfiera con la prestación del servicio de limpia.
 
 Las violaciones a lo establecido en este artículo serán objeto de sanción, de conformidad con las disposiciones establecidas en la presente Ley, sin perjuicio de lo dispuesto en los demás ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+Queda excluida la prohibición de la fracción XIV, de este artículo, en aquellos que se empleen dichos materiales por razones de salud e higiene en términos de la Norma Oficial Mexicana.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES PARTICULARES
 
@@ -1141,19 +1211,27 @@ IV. Clausura temporal o permanente, parcial o total de las instalaciones; y
 
 V. Las demás que señalen las leyes o reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 101.
 
-Para aquellos casos en los que por primera vez se incumplan con las disposiciones contenidas en la fracción III del artículo 43, la fracción V del 44, y 52 de esta Ley, procederá la amonestación.
+Para aquellos casos en los que por primera vez se incumplan (sic) con las disposiciones contenidas en la fracción III, del artículo 43, las fracciones V y XIV, del artículo 44 y el artículo 52 de esta Ley, procederá la amonestación.
 
 ###### Artículo 102.
 
 Las sanciones por la violación de las disposiciones de la presente Ley, se aplicarán conforme a lo siguiente:
 
-I. Multa de 10 a 150 días de salario mínimo vigente en el estado de Querétaro, contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior de la presente Ley;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
 
-II. Multa de 150 a mil días de salario mínimo vigente en el estado de Querétaro; y
+I. Multa de 10 a 150 veces el valor diario de la UMA, contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior de la presente Ley;
 
-III. Arresto administrativo hasta por 36 horas o multa de mil a dos mil 500 días de salario mínimo vigente en el estado de Querétaro.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+II. Multa de 150 veces el valor diario de la UMA; y
+
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+III. Arresto administrativo hasta por 36 horas o multa de mil a dos mil 500 veces el valor diario de la UMA.
 
 ###### Artículo 103.
 
@@ -1294,3 +1372,21 @@ P.O. 13 DE ENERO DE 2017.
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. La prohibición establecida en la fracción XIV, del artículo 44, entrará en vigor en un plazo de 365 días naturales, contados a partir de la publicación de la presente Ley, en tanto, tendrán que ser atendidas las disposiciones comprendidas a la gradualidad.
+
+Artículo Cuarto. Dentro de un periodo de 365 días naturales a partir de la publicación de la presente Ley, los Municipios, atendiendo sus medidas presupuestales, instrumentarán los programas en materia de sustitución de plásticos de un solo uso; en dichos programas se señalarán la gradualidad y transición con la que todos los establecimientos o unidades económicas deberán llevarlo a cabo.
+
+Se entiende como unidad económica a aquella entidad productora de bienes y/o servicios, sea su situación legal o fiscal de personas físicas o morales.
+
+Se exceptúan de lo anterior, únicamente en cuanto ve a la implementación de la gradualidad, a todos aquellos Municipios que ya contemplen y apliquen la prohibición de proporcionar a los consumidores cualquier tipo bolsa de plástico desechable para acarreo o cualquier otra medida similar, sin dejar de lado todas las consideraciones de la presente Ley.
+
+Artículo Quinto. La Secretaría de Desarrollo Sustentable contará con un periodo de 365 días naturales a partir de la entrada en vigor de la presente Ley para integrar e instrumentar los Lineamientos para la sustitución y abatimiento de plásticos y unicel en el Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Querétaro.
