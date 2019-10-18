@@ -4,7 +4,7 @@ identifier: "CAM-ley-agricola-del-estado-de-campeche-16697"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-26"
-last_updated: "2011-12-19"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY AGRÍCOLA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 26 de junio de 2000.
 
@@ -303,9 +303,11 @@ La Secretaría contemplará en el Programa Sectorial Estatal de Desarrollo Agrí
 
 La Secretaría, a través de sus instrumentos y programas de apoyo y con fines de protección fitosanitaria, proveerá la compactación de superficies agrícolas, para integrar unidades productivas estratégicas.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 29.
 
-La Secretaría recabará la información correspondiente a las necesidades de ejecución de obras de infraestructura productiva y de apoyo, adecuadas para el fomento de la producción en zonas temporaleras, a fin de que se incorporen a los programas que promueva el Ejecutivo Estatal, por conducto de las instancias que concurren al desarrollo rural, a efecto de propiciar la transición de zonas marginadas y restringidas, a zonas de alta producción.
+La Secretaría recabará la información correspondiente a las necesidades de ejecución de obras de infraestructura productiva y de apoyo, adecuadas para el fomento de la producción en zonas temporaleras, a fin de que se incorporen a los programas que promueva el Ejecutivo Estatal, por conducto de las instancias que concurren al desarrollo rural, a efecto de propiciar la transición de zonas marginadas y restringidas, a zonas de alta producción. Para ello tendrán prioridad las comunidades consideradas de pobreza o pobreza extrema
 
 ###### ARTÍCULO 30.
 
@@ -770,3 +772,11 @@ P.O. 19 DE DICIEMBRE DE 2011.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 79 POR EL QUE “SE REFORMA EL ARTÍCULO 29 DE LA LEY AGRÍCOLA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal que se opongan al contenido del presente decreto.
