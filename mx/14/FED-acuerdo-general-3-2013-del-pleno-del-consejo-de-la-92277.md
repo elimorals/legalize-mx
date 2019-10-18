@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2019-10-17"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -227,9 +227,9 @@ VII. SEPTIMO CIRCUITO:
 
 2.- Cuatro tribunales unitarios: dos con residencia en Boca del Río, otro con sede en Xalapa y uno con residencia en Veracruz, Veracruz.
 
-> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 44/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 21/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE OCTUBRE DE 2019)</small>
 
-3.- Diecinueve Juzgados de Distrito en el Estado de Veracruz: dos de Procesos Penales Federales, con residencia en Villa Aldama; cinco Mixtos y uno en materia Mercantil Federal, con sede en Xalapa; cuatro Mixtos y uno en materia Mercantil Federal, con sede en Boca del Río; dos con sede en Tuxpan; dos con residencia en Poza Rica; y dos con sede en Córdoba.
+3.- Diecinueve Juzgados de Distrito en el Estado de Veracruz, dos en procesos penales federales y de amparo en materia penal, con residencia en Villa Aldama; cinco mixtos y uno en materia mercantil federal con sede en Xalapa, cuatro Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Boca del Río, dos con sede en Tuxpan, dos con residencia en Poza Rica y dos con sede en Córdoba.
 
 VIII. OCTAVO CIRCUITO:
 
@@ -713,7 +713,9 @@ Los Juzgados de Distrito en el Estado de Puebla, ejercerán jurisdicción territ
 
 VII. SEPTIMO CIRCUITO:
 
-Los juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acajete, Acatlán, Actopan, Alamo Temapache, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, San Rafael, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
+> <small>(REFORMADO POR EL ARTÍCULO 9 DEL ACUERDO GENERAL 21/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 18 DE OCTUBRE DE 2019)</small>
+
+Los Juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa y los Juzgados de Distrito de Procesos Penales Federales y de Amparo en Materia Penal en el Estado de Veracruz, con residencia en Villa Aldama, en los asuntos de amparo en materia penal, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acajete, Acatlán, Actopan, Alamo Temapache, Alpatláhuac, Alto Lucero de Gutiérrez Barrios, Altotonga, Apazapan, Atzalan, Ayahualulco, Banderilla, Calcahualco, Chiconquiaco, Coacoatzintla, Coatepec, Colipa, Comapa, Cosautlán de Carvajal, Coscomatepec, Emiliano Zapata, Huatusco, Ixhuacán de los Reyes, Ixhuatlán del Café, Jalacingo, Jalcomulco, Jilotepec, Juchique de Ferrer, Landero y Coss, Las Minas, Las Vigas de Ramírez, Martínez de la Torre, Miahuatlán, Misantla, Naolinco, Nautla, Perote, Rafael Lucio, San Rafael, Sochiapa, Tatatila, Tenampa, Tenochtitlán, Teocelo, Tepatlaxco, Tepetlán, Tlacolulan, Tlacotepec de Mejía, Tlalnelhuayocan, Tlaltetela, Tlapacoyan, Tonayán, Totutla, Vega de Alatorre, Villa Aldama, Xalapa, Xico, Yecuatla y Zentla.
 
 Los juzgados de Distrito en el Estado de Veracruz, con residencia en Boca del Río, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Acula, Alvarado, Amatitlán, Angel R. Cabada, Boca del Río, Carlos A. Carrillo, Catemaco, Cosamaloapan de Carpio, Cotaxtla, Chacaltianguis, Hueyapan de Ocampo, Ignacio de la Llave, Isla, Ixmatlahuacán, Jamapa, José Azueta, Juan Rodríguez Clara, La Antigua, Lerdo de Tejada, Manlio Fabio Altamirano, Medellín, Otatitlán, Paso de Ovejas, Playa Vicente, Puente Nacional, Saltabarranca, San Andrés Tuxtla, Santiago Sochiapan, Santiago Tuxtla, Soledad de Doblado, Tierra Blanca, Tlacojalpan, Tlacotalpan, Tlalixcoyan, Tres Valles, Tuxtilla, Ursulo Galván y Veracruz.
 
@@ -7550,3 +7552,15 @@ La Comisión de Adscripción definirá la readscripción de los Magistrados de C
 CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus labores.
 
 QUINTO. La Secretaría Ejecutiva de Creación de Nuevos Órganos, las Direcciones Generales de Tecnologías de la Información y Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
+
+D.O.F. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 21/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN Y AMPLIACIÓN DE COMPETENCIA DE LOS JUZGADOS PRIMERO Y SEGUNDO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE VERACRUZ, CON RESIDENCIA EN VILLA ALDAMA, PARA CONOCER DE JUICIOS DE AMPARO EN MATERIA PENAL; SU JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES, Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS DE AMPARO EN MATERIA PENAL, ENTRE ÉSTOS Y LOS JUZGADOS DE DISTRITO DE LA MISMA ENTIDAD FEDERATIVA CON SEDE EN XALAPA, Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, realizará la logística para el traslado de los asuntos de amparo en materia penal de la ciudad de Xalapa a Villa Aldama, que se turnen por la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa.
+
+Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa.
