@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2019-04-09"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -303,9 +303,11 @@ Los y las oficiales del Registro Civil asentarán las actas en las formas especi
 
 La infracción de esta disposición producirá la inexistencia del acta, y la destitución del responsable. Las inscripciones se harán mecanográficamente o empleando sistemas de cómputo, por quintuplicado, debiendo firmar el o la oficial del Registro Civil y los comparecientes en los cinco ejemplares.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 41.
 
-Las actas del Registro Civil sólo se pueden asentar en las formas siguientes: nacimiento, reconocimiento de hijos, matrimonio, divorcio, pacto civil de solidaridad, defunción, terminación del pacto civil de solidaridad y de inscripción de las sentencias ejecutoriadas que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes. En caso de adopción, se asentará acta de nacimiento.
+Las actas del Registro Civil sólo se pueden asentar en las formas siguientes: nacimiento, reconocimiento de hijos, matrimonio, divorcio, pacto civil de solidaridad, defunción, terminación del pacto civil de solidaridad y de inscripción de las sentencias ejecutoriadas que declaren la ausencia de conformidad con el Código Civil para el Estado de Coahuila o la declaración especial de ausencia conforme a la ley especial de la materia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes. En caso de adopción, se asentará acta de nacimiento.
 
 ###### Artículo 42.
 
@@ -873,9 +875,11 @@ El acta de terminación de pacto civil de solidaridad expresará el nombre, apel
 
 Inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte y la necesidad de asistencia o representación para administrar bienes.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 128.
 
-Las autoridades judiciales que declaren la ausencia, la presunción de muerte, las limitaciones a la capacidad jurídica de ejercicio o la necesidad de asistencia para administrar y ejercer actos de dominio sobre bienes, remitirán al o la oficial del Registro Civil correspondiente, copia certificada de la sentencia ejecutoria en el término de quince días para que se efectúe la inscripción correspondiente.
+Las autoridades judiciales que declaren la ausencia en términos del Código Civil para el Estado de Coahuila de Zaragoza o la declaración especial de ausencia conforme a la ley especial en la materia, la presunción de muerte, las limitaciones a la capacidad jurídica de ejercicio o la necesidad de asistencia para administrar y ejercer actos de dominio sobre bienes, remitirán al o la oficial del Registro Civil correspondiente, copia certificada de la sentencia ejecutoria en el término de quince días para que se efectúe la inscripción correspondiente.
 
 ###### Artículo 129.
 
@@ -1207,9 +1211,11 @@ La sociedad conyugal se regirá por las disposiciones de este Capítulo, por las
 
 La sociedad conyugal nace al celebrarse el matrimonio, o durante él al otorgarse capitulaciones matrimoniales. Puede comprender no sólo los bienes de que sean dueños los cónyuges al formarla, sino también los bienes que adquieran posteriormente.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 177.
 
-La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los cónyuges, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos por el artículo 179 de esta ley.
+La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los cónyuges, por la resolución que decrete la declaración especial de ausencia, la sentencia que declare la presunción de muerte del cónyuge ausente en términos de las disposiciones aplicables y en los casos previstos por el artículo 179 de esta ley.
 
 ###### Artículo 178.
 
@@ -1271,9 +1277,11 @@ Todo pacto que importe cesión de una parte de los bienes propios de cada cónyu
 
 No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 187.
 
-La sentencia que declare la ausencia de alguno de los cónyuges, modifica o suspende la sociedad conyugal en los casos señalados en esta ley.
+La sentencia que declare la ausencia de alguno de los cónyuges, de conformidad con el Código Civil para el Estado de Coahuila de Zaragoza, modifica o suspende la sociedad conyugal en los casos señalados en esta ley.
 
 ###### Artículo 188.
 
@@ -1672,6 +1680,16 @@ II. Impotencia sexual irreversible, siempre y cuando no tenga su origen en la ed
 III. Trastorno mental incurable, previa declaración judicial de la limitación a la capacidad jurídica que se haga respecto del cónyuge enfermo.
 
 En estos casos la autoridad judicial competente podrá decretar esa suspensión, con conocimiento de causa, quedando subsistentes las demás obligaciones derivadas del matrimonio.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 247 Bis.
+
+Si al inicio o durante el procedimiento de declaración especial de ausencia, el o la cónyuge presente solicita la disolución del vínculo matrimonial, la autoridad judicial debe nombrar al o la representante legal provisional de la persona desaparecida para efecto de la notificación respectiva.
+
+Tanto la disolución del vínculo matrimonial como las demás cuestiones inherentes al divorcio, deberán decretarse en la misma resolución que declare la ausencia, conforme a la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza, y las demás disposiciones que en lo conducente sean aplicables.
+
+En caso de que el divorcio se pida posteriormente a la resolución que declare la ausencia, se tramitará incidentalmente con notificación al o a la representante legal definitiva, salvo que sea el o la cónyuge, pues en tal supuesto deberá nombrarse distinta representación al ausente.
 
 ### CAPÍTULO DÉCIMO PRIMERO
 
@@ -3003,7 +3021,9 @@ Los derechos que confiere la patria potestad se suspenden:
 
 I. Por padecer alguna deficiencia en las funciones o estructuras corporales que sea de tal grado que impida que quien desempeña la patria potestad tome decisiones por sí mismo, para lo cual será necesario que exista declaración judicial.
 
-II. Por la ausencia declarada en forma.
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+II. Por la ausencia declarada en forma y por la declaración especial de ausencia, de conformidad con el Código Civil para el Estado de Coahuila de Zaragoza o con la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza.
 
 III. Por sentencia condenatoria que imponga como pena esta suspensión.
 
@@ -4518,3 +4538,13 @@ SEGUNDO.- Una vez entrado en vigor el presente decreto, la Secretaría del Traba
 TERCERO.- El Juez de lo familiar que determine la pensión alimentaria, deberá incluir en su resolución la obligación establecida en esta reforma a la ley para la familia.
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 355.- SE REFORMA EL ARTÍCULO 114, Y SE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 113 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 90 Y 336 DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41, 128, 177, 187, LA FRACCIÓN II DEL ARTÍCULO 437; SE ADICIONA EL ARTÍCULO 247 BIS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 30 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 30 Y LA FRACCIÓN XI DEL ARTÍCULO 31 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 25, EL PÁRRAFO PRIMERO DEL ARTÍCULO 84 Y EL ARTÍCULO 85 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Poder Judicial del Estado de Coahuila de Zaragoza, a través del Instituto de Especialización Judicial, llevará a cabo programas de capacitación para los integrantes del poder judicial que estarán involucrados con la aplicación de la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza y conversatorios con los familiares de personas desaparecidas.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
