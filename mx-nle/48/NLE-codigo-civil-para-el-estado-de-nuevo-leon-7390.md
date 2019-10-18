@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2018-12-31"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -2540,6 +2540,10 @@ V.- El Ministerio Público.
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
 
 VI.- La persona que tenga bajo su cuidado, custodia o depósito a un menor de edad.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+VII.- La Procuraduría de Protección prevista en el artículo 138 de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Nuevo León, dejando a salvo los derechos de los interesados.
 
 ###### Art. 316.
 
@@ -17694,3 +17698,9 @@ P.O. 31 DE DICIEMBRE DE 2018.
 (N. DE E. TRANSITORIO DEL “DECRETO NÚM. 047. SE REFORMA (SIC) LOS ARTÍCULOS 1812 BIS III EN SU PRIMER PÁRRAFO Y 1813 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 170. SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 315 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN XXXIII, Y SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 145 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
