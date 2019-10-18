@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2019-06-14"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -991,9 +991,9 @@ IV. La vigilancia de los alimentos que se expendan en las cooperativas, así com
 
 V. Programas para prevenir y atender las manifestaciones de violencia contra los educandos, preservando la salud mental y física de los mismos;
 
-> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
 
-VI. La lactancia materna en el entorno laboral, así como la instalación de lactarios en los centros de trabajo de los sectores público y privado; y
+VI. La lactancia materna en el entorno laboral, implementando las acciones necesarias para que los centros de trabajo de los sectores público y privado, cuenten con áreas especiales de lactarios, así como el cumplimiento de los ordenamientos legales que contemplan el tiempo suficiente para que las madres trabajadoras realicen la actividad de lactancia materna de forma segura y digna durante la jornada laboral; y
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 2012)</small>
 
@@ -2258,3 +2258,11 @@ P.O. 14 DE JUNIO DE 2019.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 67 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
