@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-etica-de-los-servidores-publicos-del-poder-124675"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-12-01"
-last_updated: "2018-01-12"
+last_updated: "2019-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO Y SUS ENTIDADES, PUBLICADO EN EL P.O. DE 18 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el viernes 1 de diciembre de 2017.
 
@@ -520,3 +520,13 @@ LIC. y C.P. Alfonso Chavéz Fierro
 Secretario de la Contraloría del Poder Ejecutivo del Estado de Querétaro.
 
 Rúbrica
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO Y SUS ENTIDADES”.]
+
+PRIMERO. El presente Código de Ética entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+SEGUNDO. Se abroga el Código de Ética de los servidores públicos del Poder Ejecutivo del Estado de Querétaro y sus entidades, y las Reglas de Integridad, publicado en (sic) Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”, el 1 de diciembre de 2017
+
+TERCERO. Los procedimientos administrativos y cualquier otro asunto vinculado con el presente Código, iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
