@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-patronato-de-las-unidades-de-103370"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-10-28"
-last_updated: "2014-10-28"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el martes 28 de Octubre de 2014.
 
@@ -99,6 +99,10 @@ b) Dirección de operaciones.
 
 c) Dirección jurídica.
 
+> <small>(ADICIONADO, D.O. 18 DE OCTUBRE DE 2019)</small>
+
+d) Dirección de unidad de gestión, evaluación y proyectos.
+
 III. Órganos auxiliares del patronato:
 
 a) Comité técnico
@@ -121,17 +125,21 @@ II. El Secretario General de Gobierno.
 
 III. El Secretario de Administración y Finanzas.
 
-IV. El Secretario Técnico del Gabinete, Planeación y Evaluación.
+IV. (DEROGADA, D.O. 18 DE OCTUBRE DE 2019)
 
 V. El Secretario de Educación.
 
 VI. El Secretario de Obras Públicas.
 
-VII. El Secretario de Fomento Económico.
+> <small>(REFORMADA, D.O. 18 DE OCTUBRE DE 2019)</small>
+
+VII. El Secretario de Fomento Económico y Trabajo.
 
 VIII. El Secretario de Fomento Turístico.
 
-IX. El Secretario de Desarrollo Urbano y Medio Ambiente.
+> <small>(REFORMADA, D.O. 18 DE OCTUBRE DE 2019)</small>
+
+IX. El Secretario de Desarrollo Sustentable.
 
 X. El Secretario de la Cultura y las Artes.
 
@@ -297,15 +305,13 @@ El patronato, en los términos del Código de la Administración Pública de Yuc
 
 Al término de su período, la persona que ocupe el cargo de director general, permanecerá en funciones hasta que se designe a quien deba sustituirlo.
 
+> <small>(REFORMADO, D.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 26.
 
 Requisitos para ser director general
 
-Para ser director general del patronato, en los términos del Código de la Administración Pública de Yucatán, se debe cumplir con los siguientes requisitos:
-
-I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos.
-
-II. No encontrarse en alguno de los impedimentos señalados por el Código de la Administración Pública de Yucatán.
+Para ser director general del patronato se deberá cumplir con los requisitos establecidos en el artículo 75 del Código de la Administración Pública de Yucatán y el artículo 14 de la Ley del Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán.
 
 ###### Artículo 27.
 
@@ -363,9 +369,13 @@ El director de administración y finanzas tendrá las siguientes facultades y ob
 
 I. Integrar el programa administrativo anual del patronato.
 
-II. Conducir la formulación del programa operativo anual.
+> <small>(REFORMADA, D.O. 18 DE OCTUBRE DE 2019)</small>
 
-III. Integrar el programa operativo anual del patronato y someterlo a la consideración del director general.
+II. Conducir la formulación de las unidades básicas de presupuestación.
+
+> <small>(REFORMADA, D.O. 18 DE OCTUBRE DE 2019)</small>
+
+III. Integrar las unidades básicas de presupuestación del patronato y someterlas a la consideración del director general.
 
 IV. Rendir los informes periódicos de estado de la administración del patronato y los que soliciten las autoridades competentes.
 
@@ -401,9 +411,11 @@ XIX. Controlar las cuentas bancarias para el manejo de los recursos financieros 
 
 XX. Establecer los mecanismos para el control de los bienes destinados a satisfacer las necesidades de las unidades administrativas del patronato.
 
-XXI. Implementar programas continuos de conservación y mantenimiento de los bienes muebles e inmuebles del patronato.
+> <small>(REFORMADA, D.O. 18 DE OCTUBRE DE 2019)</small>
 
-XXII. Establecer y vigilar el sistema de control de inventarios de bienes muebles e inmuebles del patronato, así como supervisar su aplicación.
+XXI. Suscribir y publicar las invitaciones, bases y convocatorias correspondientes a los procedimientos de contratación derivados de licitación pública y por invitación a, cuando menos, tres proveedores, así como de todos los actos que deriven de los procedimientos de adjudicación directa, conforme a lo dispuesto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios relacionados con bienes muebles del Estado de Yucatán y demás normativa aplicable.
+
+XXII. (DEROGADA, D.O. 18 DE OCTUBRE DE 2019)
 
 XXIII. Controlar la asignación y uso de los vehículos propiedad del patronato y fijar los procedimientos para su reparación, suministro de combustible y lubricantes.
 
@@ -425,7 +437,9 @@ I. Vigilar la operación de las unidades de servicios culturales y turísticos.
 
 II. Rendir informes periódicos de operación de las unidades de servicios del patronato.
 
-III. Controlar y reportar las incidencias del personal de las unidades de servicios culturales y turísticos, Centro de Convenciones Siglo XXI y cines Siglo XXI.
+> <small>(REFORMADA, D.O. 18 DE OCTUBRE DE 2019)</small>
+
+III. Controlar y reportar las incidencias del personal de las unidades de servicios culturales y turísticos.
 
 IV. Proponer al director general los programas para salvaguardar la integridad del patrimonio del patronato, así como establecer medidas de seguridad y de protección civil.
 
@@ -468,6 +482,46 @@ XII. Señalar los términos en los que se deberá asesorar, atender y desahogar 
 XIII. Supervisar la gestión de los diversos trámites ante las autoridades administrativas federales, estatales y municipales tendientes a salvaguardar los derechos del patronato.
 
 XIV. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 18 DE OCTUBRE DE 2019)</small>
+
+Artículo 32 BIS. Facultades y obligaciones del director de unidad de gestión, evaluación y proyectos
+
+El director de la unidad de gestión, evaluación y proyectos tendrá las siguientes facultades y obligaciones:
+
+I. Gestionar la elaboración de documentos con fines informativos, documentales, de difusión, referentes al plan anual de trabajo, programas, proyectos y acciones del patronato.
+
+II. Gestionar la elaboración de reportes técnicos del plan anual de trabajo, programas y proyectos del patronato.
+
+III. Gestionar la información cualitativa y cuantitativa para la elaboración de los informes necesarios.
+
+IV. Elaborar y revisar el programa anual de trabajo de la dirección a su cargo.
+
+V. Elaborar los informes de las actividades y de gobierno que deba rendir el director general, trimestral y anualmente, de conformidad con la normatividad aplicable.
+
+VI. Dirigir y coordinar el cumplimiento de las disposiciones y obligaciones en materia de planeación y seguimiento por parte del patronato, que sean dispuestas por la Secretaría Técnica de Planeación y Evaluación.
+
+VII. Coordinar la elaboración y el seguimiento del plan institucional de desarrollo.
+
+VIII. Coordinar los métodos estadísticos para el análisis y mejora de la información.
+
+IX. Impulsar y coordinar la planeación institucional del patronato para lograr una gestión por resultados, así como un presupuesto igualmente basado en resultados.
+
+X. Promover la aplicación de los lineamientos y criterios para la profesionalización, mejora regulatoria, simplificación administrativa y modernización de la ejecución de los servicios, programas, proyectos, procesos y procedimientos del patronato.
+
+XI. Elaborar y mantener actualizado, en coordinación con las unidades administrativas del patronato, las políticas y procesos de actualización de los manuales y demás documentos normativos del Sistema de Control Interno Institucional.
+
+XII. Diseñar, dirigir y vigilar los procesos de evaluación interna del patronato.
+
+XIII. Establecer los mecanismos de seguimiento a los resultados y recomendaciones de las evaluaciones y autoevaluaciones realizadas en materia de control interno, así como a los aspectos susceptibles de mejora que deriven de estas.
+
+XIV. Coordinar y vigilar el cumplimiento de las recomendaciones derivadas de las evaluaciones que les hayan sido aplicadas a la entidad, en materia de control interno.
+
+XV. Coordinar e integrar la evaluación de indicadores institucionales, así como su seguimiento.
+
+XVI. Evaluar el cumplimiento de los objetivos y las metas definidos en el plan anual de trabajo, así como de los programas presupuestarios a cargo del patronato, de conformidad con lo establecido en el plan estatal de desarrollo y demás instrumentos de planeación, así como difundir los resultados correspondientes.
+
+XVII. Las demás que le asigne el director general, este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
 #### Sección cuarta. Órganos auxiliares del patronato
 
@@ -558,3 +612,17 @@ LAE. ENRIQUE ANTONIO DE JESÚS MAGADÁN VILLAMIL
 DIRECTOR GENERAL DEL PATRONATO DE LAS UNIDADES DE
 
 SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+D.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CULTUR 3/2019 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURÍSTICOS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo.
