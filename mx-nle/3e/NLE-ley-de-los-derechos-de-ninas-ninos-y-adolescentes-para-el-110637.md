@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2019-01-25"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -1887,11 +1887,17 @@ XXXI. Asesorar a las autoridades competentes y a los sectores público, social y
 
 XXXII. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos;
 
-XXXIII. Rendir un informe bimestral al Sistema para el Desarrollo Integral de la Familia, con copia al Titular del Ejecutivo Estatal, de los trabajos realizados en su Dependencia;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+XXXIII. Rendir un informe bimestral al Sistema para el Desarrollo Integral de la Familia, con copia al Titular del Ejecutivo Estatal, al H. Congreso del Estado de Nuevo León y al Poder Judicial del Estado de Nuevo León, de los trabajos realizados en su Dependencia;
 
 XXXIV. La Procuraduría de Protección será la única autoridad facultada para capacitar, evaluar y certificar a las Instituciones Asistenciales y a los Sistemas DIF Municipales así como al personal que en estas labore, para llevar a cabo acogimiento familiar y/o adopción, de acuerdo al Código Civil del Estado; y
 
-XXXV. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+XXXV. Ejercer acción para el aseguramiento de alimentos, iniciando al (sic) procedimiento previsto en el Código de Procedimientos Civiles del Estado, a favor de los derechos de las niñas, niños y adolescentes, dejando a salvo los derechos de los interesados; Y
+
+XXXVI. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
 
 El Procurador de Protección podrá delegar a sus subalternos las atribuciones que se señalan (sic) este artículo.
 
@@ -2710,3 +2716,9 @@ Tercero.- El Ejecutivo del Estado de conformidad con el artículo 40 de la Ley d
 Cuarto.- Para el cumplimiento de las disposiciones del Artículo Segundo Transitorio de este Decreto, se deberá prever la partida correspondiente en la Ley de Egresos del Estado de Nuevo León para el ejercicio fiscal 2019.
 
 Quinto.- El fondo de apoyo municipal para la niñez, correspondiente al ejercicio fiscal 2020 y subsecuentes, deberá incrementarse al menos en términos reales, respecto al año anterior.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 170. SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 315 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN XXXIII, Y SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 145 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
