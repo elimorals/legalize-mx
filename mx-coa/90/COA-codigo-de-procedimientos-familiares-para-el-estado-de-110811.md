@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-familiares-para-el-estado-de-110811"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-15"
-last_updated: "2017-12-29"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -295,7 +295,13 @@ VII. Diligencias de consignación en todo lo relativo al derecho familiar.
 
 VIII. Asuntos sobre derechos de la personalidad que afecten al seno familiar.
 
-IX. En general, todas las cuestiones familiares que reclamen la intervención judicial.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE OCTUBRE DE 2019)</small>
+
+IX. Procedimientos de declaración especial de conformidad con la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE OCTUBRE DE 2019)</small>
+
+X. En general, todas las cuestiones familiares que reclamen la intervención judicial.
 
 ###### Artículo 31.
 
@@ -324,6 +330,10 @@ IX. En los procedimientos que versen sobre paternidad y maternidad, el del domic
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 X. En las controversias sobre anulación o rectificación de actas del estado civil, el juzgado del domicilio de la parte interesada.
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+XI. En los procedimientos de declaración especial de ausencia se determinará de acuerdo a los criterios que establece la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza.
 
 ###### Artículo 32.
 
@@ -2547,8 +2557,18 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 29 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 1192.- SE MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE COAHUILA; SE ADICIONA EL ARTÍCULO 241 BIS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; Y SE MODIFICA EL ARTÍCULO 152 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1192.- SE MODIFICAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO DEL ESTADO DE COAHUILA; SE ADICIONA EL ARTÍCULO 241 BIS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; Y SE MODIFICA EL ARTÍCULO 152 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 355.- SE REFORMA EL ARTÍCULO 114, Y SE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 113 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 90 Y 336 DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41, 128, 177, 187, LA FRACCIÓN II DEL ARTÍCULO 437; SE ADICIONA EL ARTÍCULO 247 BIS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 30 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 30 Y LA FRACCIÓN XI DEL ARTÍCULO 31 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 25, EL PÁRRAFO PRIMERO DEL ARTÍCULO 84 Y EL ARTÍCULO 85 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Poder Judicial del Estado de Coahuila de Zaragoza, a través del Instituto de Especialización Judicial, llevará a cabo programas de capacitación para los integrantes del poder judicial que estarán involucrados con la aplicación de la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza y conversatorios con los familiares de personas desaparecidas.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
