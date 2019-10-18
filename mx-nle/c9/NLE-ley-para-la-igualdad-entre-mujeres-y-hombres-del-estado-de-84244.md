@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-26"
-last_updated: "2019-10-07"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 2011.
 
@@ -311,7 +311,9 @@ III. Observar que la planeación presupuestal incorpore la perspectiva de géner
 
 IV. Implementar acciones para promover la igualdad de acceso y el pleno disfrute de los derechos sociales para las mujeres y los hombres;
 
-V. Observar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias;
+> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+V. Observar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral y social, con el fin de evitar la segregación laboral y eliminar las diferencias remuneratorias por medio del impulso de prácticas que hagan efectivo el pago equitativo de salarios entre ambos sexos por un trabajo de igual valor; así como por medio de incentivos a las empresas que apliquen acciones en la materia, con base a lo establecido en la presente Ley;
 
 VI. Fomentar bajo el principio de igualdad de trato y de oportunidades el acceso a recursos productivos, financieros y tecnológicos;
 
@@ -1114,5 +1116,11 @@ P.O. 27 DE SEPTIEMBRE DE 2019.
 P.O. 7 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 161. SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 37 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 171. SE REFORMA EL ARTÍCULO 19 FRACCIÓN V DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
