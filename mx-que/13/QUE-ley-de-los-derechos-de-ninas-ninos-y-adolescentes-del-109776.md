@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109776"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2015-09-03"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 60 DÍAS SIGUIENTES DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO "LA SOMBRA DE ARTEAGA".</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -1109,11 +1107,31 @@ Para garantizar de forma prioritaria la asistencia social y protección consular
 
 La condición de ser niña, niño o adolescente en situación migratoria irregular no representa en sí misma un delito, por lo tanto, no se preconcebirán la comisión de ilícitos por este mismo hecho.
 
-### Capítulo Único. De quienes ejercen la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+### Capítulo Vigésimo Primero. Derecho de Acceso a las Tecnologías de la Información y Comunicación
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 94 Bis.
+
+Niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal de Telecomunicaciones y Radiodifusión y en la Constitución Política del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 94 Ter.
+
+El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en la Constitución Federal y la Constitución Política del Estado de Querétaro, mediante políticas de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 94 Quáter.
+
+Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
 ## Título Tercero. De los derechos y obligaciones
 
-### Capítulo Único. De los centros de asistencia social
+### Capítulo Único. De quienes ejercen la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes
 
 ###### Artículo 95.
 
@@ -1207,7 +1225,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## Título Cuarto. De la protección de niñas, niños y adolescentes
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De los centros de asistencia social
 
 ###### Artículo 100.
 
@@ -1327,7 +1345,7 @@ La Procuraduría de Protección Estatal y las Procuradurías de Protección Muni
 
 ## Título Quinto. De la protección y restitución integral de los derechos de niñas, niños y adolescentes
 
-### Capítulo Segundo. De la Procuraduría de Protección Estatal
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 107.
 
@@ -1429,7 +1447,7 @@ IV. Operar y monitorear todas las acciones, programas y establecimientos destina
 
 V. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### Capítulo Tercero. Del Sistema Estatal de Protección
+### Capítulo Segundo. De la Procuraduría de Protección Estatal
 
 ###### Artículo 112.
 
@@ -1603,7 +1621,7 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 El nombramiento de Procurador de Protección Estatal deberá ser aprobado por la Junta Directiva del Sistema Estatal DIF, a propuesta de su Director General.
 
-### Capítulo Cuarto. De las Procuradurías de Protección Municipales
+### Capítulo Tercero. Del Sistema Estatal de Protección
 
 #### Sección Primera. De los integrantes
 
@@ -1781,7 +1799,7 @@ IV. Contar con al menos cinco años de experiencia en las áreas correspondiente
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### Capítulo Quinto. De los Sistemas Municipales de Protección
+### Capítulo Cuarto. De las Procuradurías de Protección Municipales
 
 ###### Artículo 126.
 
@@ -1803,7 +1821,7 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 El nombramiento de Procurador de Protección Municipal deberá ser aprobado por la Junta Directiva del Sistema Municipal DIF, a propuesta de su Director General.
 
-### Capítulo Sexto. De los Organismos de Protección de los Derechos Humanos
+### Capítulo Quinto. De los Sistemas Municipales de Protección
 
 #### Sección Única. De los integrantes
 
@@ -1827,13 +1845,13 @@ En casos excepcionales, el Presidente Municipal podrá ser suplido por el Síndi
 
 Los integrantes del Sistema Municipal de Protección Integral nombrarán por oficio a un suplente que deberá tener el nivel inmediato inferior al que le corresponda a su titular.
 
-### Capítulo Séptimo. Del Programa Local y de los Programas Municipales
+### Capítulo Sexto. De los Organismos de Protección de los Derechos Humanos
 
 ###### Artículo 130.
 
 La Defensoría de los Derechos Humanos de Querétaro deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### Capítulo Octavo. De la evaluación y diagnóstico
+### Capítulo Séptimo. Del Programa Local y de los Programas Municipales
 
 ###### Artículo 131.
 
@@ -1847,13 +1865,15 @@ III. Incluir mecanismos transparentes que permitan su evaluación y seguimiento,
 
 Para la implementación y aplicación de los Programas Local y Municipales, los Sistemas Estatal y Municipales de Protección, contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado.
 
-### Capítulo Único. De las infracciones y sanciones administrativas
+### Capítulo Octavo. De la evaluación y diagnóstico
 
 ###### Artículo 132.
 
 Corresponderá a las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido en la Constitución Política del Estado de Querétaro, esta Ley, el Programa Local de Protección y las demás disposiciones aplicables.
 
 ## Título Sexto. De las infracciones administrativas
+
+### Capítulo Único. De las infracciones y sanciones administrativas
 
 ###### Artículo 133.
 
@@ -1968,3 +1988,13 @@ Lic. Juan Carlos Espinosa Larracoechea
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
