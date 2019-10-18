@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-educacion-1108
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-01-05"
-last_updated: "2016-01-05"
+last_updated: "2019-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110847&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-08-31"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL PARA LA EDUCACION DE LOS ADULTOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS, PUBLICADO EN EL D.O.F. DE 18 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de enero de 2016.
 
@@ -750,3 +752,19 @@ CUARTO.- La implementación del presente Estatuto Orgánico será con cargo al p
 El presente Estatuto Orgánico del Instituto Nacional para la Educación de los Adultos, fue aprobado por unanimidad en la Tercera Sesión Ordinaria de 2015 de la Junta de Gobierno del Instituto Nacional para la Educación de los Adultos, celebrada el día 31 de agosto de 2015, en la Sala de Directores del citado Instituto, en la Ciudad de México, Distrito Federal.
 
 México, D.F., a 31 de agosto de 2015.- La Presidenta Suplente de la Junta de Gobierno del Instituto Nacional para la Educación de los Adultos, Marcela Santillán Nieto.- Rúbrica.- El Secretario Técnico de la Junta de Gobierno del Instituto Nacional para la Educación de los Adultos, Armando Garduño Pérez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS”.]
+
+PRIMERO.- El presente Estatuto Orgánico surtirá efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto Nacional para la Educación de los Adultos, publicado en el Diario Oficial de la Federación el 5 de enero de 2016.
+
+TERCERO.- Las Unidades Administrativas con facultades nuevas o distintas que aparecen en el presente Estatuto Orgánico y que tienen competencia en asuntos que anteriormente correspondían a otras Unidades, se harán cargo de los mismos, continuarán su substanciación o dictarán las resoluciones respectivas.
+
+CUARTO.- La implementación del presente Estatuto Orgánico será con cargo al presupuesto autorizado al INEA, por lo que no se requerirán recursos adicionales en el presente ejercicio fiscal, ni se incrementará su presupuesto regularizable.
+
+QUINTO.- Todas las referencias que hagan mención a las Delegaciones o Delegados en la normatividad vigente, se entenderán hechas a las Unidades de Operación o Titulares Operativos según corresponda.
