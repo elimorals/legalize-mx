@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-69505"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2019-01-21"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -31,7 +31,9 @@ LIC. FRANCISCO GARRIDO PATRÓN, Gobernador Constitucional del Estado de Queréta
 
 LA QUINCUAGÉSIMA QUINTA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO Y 81 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDOS.
+CONSIDERANDOS
+
+[...]
 
 Por lo anteriormente expuesto, la Quincuagésima Quinta Legislatura del Estado de Querétaro, expide la siguiente:
 
@@ -367,9 +369,11 @@ Los indígenas tienen derecho al uso y respeto de su identidad, nombres y apelli
 
 ### Capítulo Segundo. Educación y lenguas indígenas
 
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 35.
 
-El Poder Ejecutivo del Estado, en los términos de la Constitución Política del Estado de Querétaro y por conducto de sus instancias educativas, garantizará que las niñas y los niños indígenas, tengan acceso a la educación básica formal bilingüe e intercultural. Las madres y padres de familia indígenas, tendrán derecho a participar en los sistemas educativos, para la implementación de la enseñanza en sus propias lenguas dentro del marco legal vigente.
+El Poder Ejecutivo del Estado, en los términos de la Constitución Política del Estado de Querétaro y por conducto de sus instancias educativas, garantizará que las niñas y niños indígenas, tengan acceso a la educación básica obligatoria, formal, bilingüe e intercultural y garantizará que se asegure el respeto a la dignidad e identidad de las personas, así como a la práctica y uso de su lengua indígena. En los niveles medio y superior, se fomentará la interculturalidad, el multilingüismo y el respeto a la diversidad y los derechos lingüísticos. Las madres y padres de familia indígenas tendrán derecho a participar en los sistemas educativos, para la implementación de la enseñanza en sus propias lenguas dentro del marco legal vigente.
 
 ###### Artículo 36.
 
@@ -654,3 +658,11 @@ P.O. 21 DE ENERO DE 2019.
 Artículo Primero. La presente Ley entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 35 DE LA LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
