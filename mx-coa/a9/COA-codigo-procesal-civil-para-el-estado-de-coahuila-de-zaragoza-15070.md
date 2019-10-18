@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2018-11-27"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -929,13 +929,13 @@ V. El Ministerio Público, la Procuraduría de la Familia y los Defensores de lo
 
 VI. Cualquiera de los integrantes de un grupo afectado, que garantice una adecuada defensa para el interés general, o las instituciones, asociaciones o agrupaciones privadas, no políticas ni gremiales, especializadas en la defensa de los intereses sociales colectivos, cuando se trata de la tutela de intereses difusos, de grupos indeterminados que no constituyan una persona moral.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
 
 ###### ARTÍCULO 90.
 
 Personas facultadas para comparecer por los que no tengan capacidad procesal o ausentes.
 
-Por las personas físicas que no tengan capacidad procesal, comparecerán sus representantes legítimos o quienes deban asistirlos conforme a derecho. En los casos en que la ley lo determine, el juzgador de oficio, o a petición de parte legítima, o del Ministerio Público, proveerá el nombramiento de tutor especial para los niños o las niñas, o la persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, a fin de que los representen en un juicio determinado. Los ausentes o ignorados serán representados de acuerdo a lo dispuesto por el Código Civil.
+Por las personas físicas que no tengan capacidad procesal, comparecerán sus representantes legítimos o quienes deban asistirlos conforme a derecho. En los casos en que la ley lo determine, el juzgador de oficio, o a petición de parte legítima, o del Ministerio Público, proveerá el nombramiento de tutor especial para los niños o las niñas, o la persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, a fin de que los representen en un juicio determinado. Los ausentes o ignorados serán representados de acuerdo a lo dispuesto por el Código Civil o por la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza cuando cuenten con resolución de declaración especial de ausencia.
 
 ###### ARTÍCULO 91.
 
@@ -3391,13 +3391,13 @@ Si el acreedor fuere desconocido o incierto o cuyo domicilio se ignore, se le ci
 
 Lo dispuesto en este artículo es aplicable cuando el ofrecimiento de pago y consignación se hagan a persona cuyo domicilio se ignore.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
 
 ###### ARTÍCULO 336.
 
 Consignación a favor de un acreedor ausente o que requiera asistencia o representación para el ejercicio de su capacidad jurídica.
 
-Si el acreedor hubiere sido declarado ausente o requiriere asistencia o representación para el ejercicio de su capacidad jurídica, será citado su representante legítimo y se procederá de acuerdo con las reglas establecidas en los artículos anteriores, en lo conducente.
+Si el acreedor hubiere sido declarado ausente de conformidad con el Código Civil para el Estado de Coahuila o la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza o requiriere asistencia o representación para el ejercicio de su capacidad jurídica, será citado su representante legítimo y se procederá de acuerdo con las reglas establecidas en los artículos anteriores, en lo conducente.
 
 ###### ARTÍCULO 337.
 
@@ -12895,7 +12895,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. CARLOS JUARISTI SEPTIEN
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE JULIO DE 2003.
 
@@ -13146,3 +13146,13 @@ P.O. 27 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 93.- SE ADICIONA EL ARTÍCULO 900 BIS AL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 28 DE LA LEY DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 355.- SE REFORMA EL ARTÍCULO 114, Y SE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 113 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 90 Y 336 DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41, 128, 177, 187, LA FRACCIÓN II DEL ARTÍCULO 437; SE ADICIONA EL ARTÍCULO 247 BIS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 30 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 30 Y LA FRACCIÓN XI DEL ARTÍCULO 31 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 25, EL PÁRRAFO PRIMERO DEL ARTÍCULO 84 Y EL ARTÍCULO 85 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Poder Judicial del Estado de Coahuila de Zaragoza, a través del Instituto de Especialización Judicial, llevará a cabo programas de capacitación para los integrantes del poder judicial que estarán involucrados con la aplicación de la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza y conversatorios con los familiares de personas desaparecidas.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
