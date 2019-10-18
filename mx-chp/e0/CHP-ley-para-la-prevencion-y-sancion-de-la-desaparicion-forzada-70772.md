@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-prevencion-y-sancion-de-la-desaparicion-forzada-707
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-23"
-last_updated: "2014-11-27"
+last_updated: "2019-10-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY PARA LA PREVENCION Y SANCION DE LA DESAPARICION FORZADA DE PERSONAS EN EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 18 DE OCTUBRE DE 2019, ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A TREINTA DÍAS POSTERIORES A SU PUBLICACIÓN EN EL PERÍODICO OFICIAL.]</small>
+
 LEY PARA LA PREVENCIÓN Y SANCIÓN DE LA DESAPARICIÓN FORZADA DE PERSONAS EN EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -346,3 +348,33 @@ P.O. 27 DE NOVIEMBRE DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO, 010 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. La presente Ley entrará en vigor a treinta días posteriores a su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se abroga la Ley para la Prevención y Sanción de la Desaparición Forzada de Personas en el Estado de Chiapas, publicada mediante Decreto 319, en el Periódico Oficial número 189, segunda sección, de fecha 23 de septiembre de 2009. Así como las reformas de las que fue objeto.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Cuarto. El Sistema Estatal en materia de Búsqueda de Personas, deberá quedar instalado a más tardar dentro de los sesenta días posteriores a la entrada en vigor de la presente Ley.
+
+Artículo Quinto. Dentro de los sesenta días posteriores a la entrada en vigor de la presente Ley, el Gobernador del Estado, deberá de nombrar al Titular de la Comisión Estatal de Búsqueda de Personas, previa convocatoria pública conforme a lo establecido en la presente Ley, una vez que se haya creado dicha Comisión.
+
+La Comisión Estatal de Búsqueda de Personas, en un plazo de 120 días posteriores a su creación deberá emitir su Reglamento Interior.
+
+Artículo Sexto. En un plazo que no exceda de noventa días posteriores a la entrada en vigor de la presente Ley, deberán ser nombrados por el Congreso del Estado, los integrantes del Consejo Estatal Ciudadano, previa convocatoria pública conforme a lo establecido en la presente Ley.
+
+Artículo Séptimo. Dentro de los cuarenta y cinco días posteriores a la entrada en vigor de la presente Ley, la Fiscalía General del Estado deberá hacer las adecuaciones normativas conducentes, y actuaciones conforme a las disposiciones contenidas en este Decreto, a fin de atender con lo mandatado en el Capítulo Quinto, del Título Tercero de esta Ley.
+
+Artículo Octavo. Las Dependencias del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables; debiendo la Secretaría de Hacienda, emitir el dictamen correspondiente de la Comisión Estatal de Búsqueda de Personas, que por esta Ley se crea.
+
+Artículo Noveno. Dentro de los treinta días siguientes a que la Comisión Estatal de Búsqueda de Personas inicie sus funciones, ésta deberá emitir los protocolos rectores para su funcionamiento previstos en el artículo 31, fracción VII de esta Ley. Los servidores públicos que integran la Fiscalía y la Comisión Estatal de Búsqueda de Personas deberán estar certificados dentro del año posterior a la creación de dicha Comisión.
+
+La Comisión Estatal de Búsqueda de Personas deberá, a partir de que entre en funcionamiento, ejercer las atribuciones que la Ley General y esta Ley le confieren con relación a los procesos de búsqueda que se encuentren pendientes.
+
+Artículo Décimo. El Ejecutivo del Estado, en un plazo de treinta días hábiles a partir de la entrada en vigor de la presente Ley, deberá expedir el Reglamento de la misma.
+
+El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumplimiento al presente Decreto.
