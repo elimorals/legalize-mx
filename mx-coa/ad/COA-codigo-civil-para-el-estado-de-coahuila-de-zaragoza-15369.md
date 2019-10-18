@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2019-07-12"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -769,9 +769,15 @@ El juez, en el mismo auto por el que abra el procedimiento, mandará requerir al
 
 El representante del ausente será su cónyuge; pero a falta de éste o si está impedido, el juez elegirá de entre los hijos mayores de edad del ausente al que estime más apto, o en su defecto al ascendiente más próximo en grado o a alguno de los presuntos herederos que sean mayores de edad, y si no hubiere ninguno conocido, nombrará a una persona domiciliada en el lugar del juicio que llene los requisitos que este código exige para los tutores.
 
-###### ARTÍCULO 114.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2019)</small>
 
 Son aplicables por analogía al representante, las disposiciones que este código establece para los tutores.
+
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+###### ARTÍCULO 114.
+
+Cuando se trate de una persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito, se podrá promover el procedimiento de declaración especial de ausencia de conformidad con las disposiciones de la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza.
 
 #### SECCIÓN SEGUNDA. DE LOS EFECTOS DE LA DECLARACIÓN DE AUSENCIA
 
@@ -21244,3 +21250,13 @@ P.O. 12 DE JULIO DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los mandatos convenidos con anterioridad a la vigencia de este decreto, que fueron otorgados por personas físicas o morales, salvo los supuestos exceptuados en la disposición objeto de la presente reforma, tendrán la vigencia de tres años contados a partir de su entrada en vigor.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 355.- SE REFORMA EL ARTÍCULO 114, Y SE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 113 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 90 Y 336 DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN LOS ARTÍCULOS 41, 128, 177, 187, LA FRACCIÓN II DEL ARTÍCULO 437; SE ADICIONA EL ARTÍCULO 247 BIS DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA; SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 30 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 30 Y LA FRACCIÓN XI DEL ARTÍCULO 31 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 25, EL PÁRRAFO PRIMERO DEL ARTÍCULO 84 Y EL ARTÍCULO 85 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Poder Judicial del Estado de Coahuila de Zaragoza, a través del Instituto de Especialización Judicial, llevará a cabo programas de capacitación para los integrantes del poder judicial que estarán involucrados con la aplicación de la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza y conversatorios con los familiares de personas desaparecidas.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
