@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-escudo-y-el-himno-del-estado-de-chiapas-77146"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-22"
-last_updated: "2017-06-14"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL ESCUDO Y EL HIMNO DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 22 de septiembre de 2010.
 
@@ -33,7 +33,9 @@ Decreto Número 346
 
 La Honorable Sexagésima Tercera Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
 
-C o n s i d e r a n d o.
+C o n s i d e r a n d o
+
+[...]
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir el siguiente Decreto de:
 
@@ -241,97 +243,57 @@ La música oficial del Himno a Chiapas es la siguiente:
 
 ### Capítulo Sexto. De las fechas conmemorativas en el Estado de Chiapas
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 20.
 
 Son fechas conmemorativas en el Estado de Chiapas, además de las señaladas en el artículo 18 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, las siguientes:
 
-6 de Enero:
+I. 6 de Enero: El General Jesús Agustín Castro, Gobernador Preconstitucional del Estado expide el Decreto que instituye el Municipio Libre en Chiapas en 1915;
 
-El General Jesús Agustín Castro, Gobernador Preconstitucional del Estado expide el Decreto que instituye el Municipio Libre en Chiapas en 1915.
+II. 16 de Enero: La regencia del Imperio Mexicano expide el Decreto que declara a Chiapas incorporado a México en 1822;
 
-16 de Enero:
+III. 23 de Enero: Toma posesión como primer Gobernador del Estado de Chiapas don Manuel José de Rojas en 1825;
 
-La regencia del Imperio Mexicano expide el Decreto que declara a Chiapas incorporado a México en 1822.
+IV. 9 de Febrero: Se promulga la primera Constitución Política del Estado de Chiapas en 1826;
 
-23 de Enero:
+V. 18 de Febrero: Se jura y firma la primera Constitución Política del Estado de Chiapas en 1826;
 
-Toma posesión como primer Gobernador del Estado de Chiapas don Manuel José de Rojas en 1825.
+VI. 1 de Marzo: Aniversario del natalicio en 1816 de don Ángel Albino Corzo;
 
-9 de Febrero:
+VII. 17 de Marzo: Aniversario del natalicio en 1766 de Fray Antonio Matías de Córdova y Ordóñez;
 
-Se promulga la primera Constitución Política del Estado de Chiapas en 1826.
+VIII. 19 de Marzo: Aniversario luctuoso de Jaime Sabines Gutiérrez en 1999;
 
-18 de Febrero:
+IX. 25 de Marzo: Aniversario del natalicio en 1926 de Jaime Sabines Gutiérrez;
 
-Se jura y firma la primera Constitución Política del Estado de Chiapas en 1826.
+X. 25 de Abril: Aniversario del natalicio en 1863 del Dr. Belisario Domínguez.
 
-1 de Marzo:
+XI. 22 de Mayo: Aniversario del natalicio en 1856 del abogado Emilio Rabasa Estebanell;
 
-Aniversario del natalicio en 1816 de don Ángel Albino Corzo.
+XII. 25 de Mayo: Aniversario del natalicio en 1925 de la poetisa Rosario Castellanos Figueroa;
 
-17 de Marzo:
+XIII. 7 de Junio: Aniversario luctuoso de don Joaquín Miguel Gutiérrez Canales en 1838;
 
-Aniversario del natalicio en 1766 de Fray Antonio Matías de Córdova y Ordóñez.
+XIV. 27 de junio: Se Promulga la Constitución Chiapas Siglo XXI;
 
-19 de Marzo:
+XV. 7 de Agosto: Aniversario luctuoso de la poetisa Rosario Castellanos Figueroa en 1974;
 
-Aniversario luctuoso de Jaime Sabines Gutiérrez en 1999.
+XVI. 11 de Agosto: Se trasladan definitivamente los poderes gubernamentales a la Ciudad de Tuxtla Gutiérrez en 1892;
 
-25 de Marzo:
+XVII. 12 de Agosto: Aniversario luctuoso de Ángel Albino Corzo en 1875;
 
-Aniversario del natalicio en 1926 de Jaime Sabines Gutiérrez.
+XVIII. 21 de Agosto: Aniversario del natalicio en 1796 de Joaquín Miguel Gutiérrez Canales;
 
-25 de Abril:
+XIX. 17 de Octubre: Aniversario luctuoso de Fray Antonio Matías de Córdova y Ordóñez en 1828;
 
-Aniversario del natalicio en 1863 del Dr. Belisario Domínguez.
+XX. 21 de Octubre: Gloriosa Batalla de Chiapa de Corzo de 1863;
 
-Aniversario luctuoso del abogado Emilio Rabasa Estebanell en 1930.
+XXI. 02 de Diciembre: Aniversario luctuoso del Dr. Manuel Velasco Suárez en 2001; y
 
-22 de Mayo:
+XXII. 28 de Diciembre: Aniversario del natalicio en 1914 del Dr. Manuel Velasco Suárez.
 
-Aniversario del natalicio en 1856 del abogado Emilio Rabasa Estebanell.
-
-25 de Mayo:
-
-Aniversario del natalicio en 1925 de la poetisa Rosario Castellanos Figueroa.
-
-7 de Junio:
-
-Aniversario luctuoso de don Joaquín Miguel Gutiérrez Canales en 1838.
-
-27 de junio:
-
-Se Promulga la Constitución Chiapas Siglo XXI.
-
-7 de Agosto:
-
-Aniversario luctuoso de la poetisa Rosario Castellanos Figueroa en 1974.
-
-11 de Agosto:
-
-Se trasladan definitivamente los poderes gubernamentales a la Ciudad de Tuxtla Gutiérrez en 1892.
-
-12 de Agosto:
-
-Aniversario luctuoso de Ángel Albino Corzo en 1875.
-
-21 de Agosto:
-
-Aniversario del natalicio en 1796 de Joaquín Miguel Gutiérrez Canales.
-
-17 de Octubre:
-
-Aniversario luctuoso de Fray Antonio Matías de Córdova y Ordóñez en 1828.
-
-02 de Diciembre:
-
-Aniversario luctuoso del Dr. Manuel Velasco Suárez en 2001.
-
-28 de Diciembre:
-
-Aniversario del natalicio en 1914 del Dr. Manuel Velasco Suárez.
+Corresponde a todos los Órganos de Gobierno la conmemoración de todas estas fechas cívicas a través de actividades culturales y de difusión de estas.
 
 ### Capítulo Séptimo. De las competencias y sanciones
 
@@ -398,3 +360,11 @@ P.O. 14 DE JUNIO DE 2017.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 011 POR EL QUE SE REFORMA EL ARTÍCULO 20 DE LA LEY DEL ESCUDO Y EL HIMNO DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
