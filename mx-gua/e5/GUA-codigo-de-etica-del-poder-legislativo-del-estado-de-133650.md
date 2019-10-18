@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-poder-legislativo-del-estado-de-133650"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-13"
-last_updated: "2019-02-13"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE ÉTICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 13 de febrero de 2019.
 
@@ -457,7 +457,9 @@ Contravienen esta regla de manera enunciativa más no limitativa, las conductas 
 
 a) Realizar señales obscenas, sexualmente sugerentes con las manos o a través de los movimientos del cuerpo;
 
-b) Tener contacto físico sugestivo o de naturaleza sexual, como tocamientos, abrazos, besos, manoseo, jalones;
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+b) Realizar contacto físico sugestivo o actos de connotación sexual.
 
 c) Hacer regalos que hagan sentir de manera incomoda a quien los recibe, dar preferencias indebidas o notoriamente diferentes o manifestar abiertamente o de manera indirecta el interés sexual por una persona;
 
@@ -620,3 +622,11 @@ Guanajuato, Gto., a 30 de enero de 2019
 El Contralor Interno del Poder Legislativo del Estado de Guanajuato
 
 C. P. C. Rafael García Ríos
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MEDIANTE EL CUAL SE REFORMA EL INCISO B) DE LA FRACCIÓN XIII, DEL ARTÍCULO 7 DEL CÓDIGO DE ÉTICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NÚMERO 32, SEGUNDA PARTE, DE FECHA 13 DE FEBRERO DE 2019”.]
+
+Único. La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
