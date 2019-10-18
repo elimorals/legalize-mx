@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2019-08-23"
+last_updated: "2019-10-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -279,7 +279,9 @@ El Poder Público del Estado se divide para su ejercicio en las funciones: Legis
 
 No podrá ejercerse más de una de estas funciones por una persona o grupo de personas, ni depositarse la legislativa o la Judicial en un solo individuo.
 
-Los Poderes reconocidos por esta Constitución, en su conjunto, conforman al Gobierno del Estado.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+Los Poderes reconocidos por esta Constitución, en su conjunto, conforman al Gobierno del Estado, el Poder Legislativo se regirá bajo los principios de Parlamento Abierto en los términos de la legislación respectiva vigente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -871,7 +873,9 @@ III. Hasta tres Síndicos.(5)
 
 (5) En cumplimiento a la resolución de la Suprema Corte de Justicia de la Nación recaída en la acción de inconstitucionalidad 76/2008 y sus acumuladas 77/2008 y 78/2008, se modificó la fracción III del segundo párrafo del artículo 35 de esta Constitución.
 
-Los ayuntamientos se renovarán en su totalidad cada tres años y los miembros que los integran protestarán el cargo entre ellos mismos al entrar en funciones el primero de octubre del año de su elección.
+> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+
+Los ayuntamientos se regirán por el principio de Gobierno Abierto, en términos de las disposiciones legales aplicables, debiendo renovarse cada tres años. Los miembros que los integran protestarán el cargo al entrar en funciones el primero de octubre del año de su elección.
 
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2014)</small>
 
@@ -1874,3 +1878,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Las referencias que en la presente Ley y en las demás que de ella derivan en los que se refiera a la nomenclatura “Estado de Querétaro”, se entenderán como “Estado Libre y Soberano de Querétaro” hasta en tanto se realizan las adecuaciones pertinentes.
 
 Artículo Tercero. Los Magistrados Supernumerarios designados con anterioridad al inicio de la vigencia del presente Decreto, finalizarán su gestión y periodo para el que fueron nombrados, de conformidad con las disposiciones vigentes al momento de su designación.
+
+P.O. 18 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 13 Y 35 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
