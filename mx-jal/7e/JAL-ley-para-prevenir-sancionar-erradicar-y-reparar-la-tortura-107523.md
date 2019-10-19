@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-prevenir-sancionar-erradicar-y-reparar-la-tortura-1075
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-25"
-last_updated: "2015-04-25"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA PREVENIR, SANCIONAR, ERRADICAR Y REPARAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES E INHUMANOS O DEGRADANTES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 25 de abril de 2015.
 
@@ -89,9 +89,11 @@ III. La organización de cursos sobre los tratados internacionales y protocolos 
 
 IV. La profesionalización de los servidores públicos que participan en la custodia y tratamiento de toda persona sometida a arresto, detención, medidas cautelares o prisión, en una cultura de respeto a los derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 7.
 
-La Fiscalía General del Estado y sus dependencias, así como las corporaciones de seguridad pública municipales establecerán:
+La Fiscalía Estatal y sus dependencias, así como las corporaciones de seguridad pública Municipales establecerán:
 
 I. Programas de investigación, documentación, valoración médica y psicológica de casos de tortura, que deberán basarse en las reglas contempladas en el Protocolo de Estambul; y
 
@@ -236,3 +238,13 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27361/LXII MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 7 DE LA LEY PARA PREVENIR, SANCIONAR, ERRADICAR Y REPARAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES E INHUMANOS O DEGRADANTES DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
