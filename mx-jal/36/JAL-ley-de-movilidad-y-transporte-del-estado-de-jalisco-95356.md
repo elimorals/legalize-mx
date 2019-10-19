@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2019-10-08"
+last_updated: "2019-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE OCTUBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -481,7 +479,9 @@ XII. Contar con apoyo vial de la Secretaría y de la Secretaría de Seguridad, a
 
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
-Artículo 12 bis. Serán obligaciones de los ciclistas:
+###### Artículo 12 Bis.
+
+Serán obligaciones de los ciclistas:
 
 I. Respetar las disposiciones legales y reglamentarias, las señales de tránsito y las indicaciones de los oficiales y agentes responsables de vigilar el cumplimiento de las normas de tránsito;
 
@@ -495,9 +495,17 @@ V. Mantener su bicicleta en buen estado de modo que no corra riesgo de accidente
 
 VI. Usar aditamentos, bandas reflejantes y en su caso luces, para uso nocturno;
 
-VII. Rebasar sólo por el carril izquierdo; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-VIII. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo o la mano.
+VII. Rebasar sólo por el carril izquierdo;
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
+
+VIII. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo o la mano; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+IX. Abstenerse al conducir, de manipular aparatos telefónicos o dispositivos electrónicos.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
@@ -4364,3 +4372,9 @@ PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Se exhorta al Gobernador Constitucional del Estado, a realizar las adecuaciones a los reglamentos correspondientes, conforme a las reformas del presente decreto.
 
 TERCERO. La Secretaría de Seguridad, por medio de la Policía Vial, contará con un plazo de hasta 60 días contados a partir de la entrada en vigencia del presente decreto, para realizar las adecuaciones administrativas correspondientes.
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27372/LXII MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 12 BIS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
