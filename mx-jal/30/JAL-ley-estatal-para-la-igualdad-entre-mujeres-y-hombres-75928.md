@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-la-igualdad-entre-mujeres-y-hombres-75928"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-05"
-last_updated: "2019-04-10"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 5 de agosto de 2010.
 
@@ -789,9 +789,11 @@ V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ### CAPÍTULO SEGUNDO. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 84.
 
-La violación a los principios y programas que esta Ley prevé, por parte de las autoridades del Estado de Jalisco, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y, en su caso, por las leyes aplicables en el Estado de Jalisco que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Estado Libre y Soberano de Jalisco.
+La violación a los principios y programas que esta Ley prevé, por parte de las autoridades del Estado de Jalisco, será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y, en su caso, por las leyes aplicables en el Estado de Jalisco que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Estado Libre y Soberano de Jalisco.
 
 La violación a los principios y programas que esta Ley prevé, por parte de personas físicas o jurídicas, será sancionada de acuerdo a lo dispuesto por las Leyes aplicables en el Estado de Jalisco, que regulen esta materia, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal para el Estado Libre y Soberano de Jalisco.
 
@@ -876,3 +878,9 @@ SEXTO. El Congreso del Estado realizará las reformas que, en su caso, resulten 
 SÉPTIMO. El Congreso del Estado, en su caso, realizará las modificaciones presupuestales necesarias para dotar de recursos suficientes para la aplicación de este decreto.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27377/LXII MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 84 DE LA LEY ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
