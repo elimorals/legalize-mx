@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2018-11-17"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -4265,9 +4265,9 @@ Cuando el solicitante sea promotor inmobiliario, además de cumplir con los requ
 
 Toda solicitud para la autorización de un proyecto definitivo de urbanización deberá ir acompañada de la carta de aceptación de las personas que fungen como los directores responsables en los términos de lo establecido en el Titulo Décimo Primero.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-Sólo se autorizarán como directores responsables para intervenir en obras de urbanización o de condominios y conjuntos habitacionales los profesionistas con título de arquitecto, ingeniero civil o profesiones afines, conforme las reglas que expida la Comisión Municipal de Directores Responsables.
+Sólo se autorizarán como directores responsables para intervenir en obras de urbanización o de condominios y conjuntos habitacionales los profesionistas con título de arquitecto, ingeniero civil, ingeniero en obras y servicios o profesiones afines, conforme las reglas que expida la Comisión Municipal de Directores Responsables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
@@ -4275,9 +4275,9 @@ Sólo se autorizarán como directores responsables para intervenir en obras de u
 
 Para realizar obras de urbanización es indispensable que se cuente con el Proyecto Definitivo de Urbanización que ordene y regule el crecimiento urbano para la zona de que se trate.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-Los proyectos definitivos de urbanización deberán realizarse por un arquitecto, ingeniero civil, urbanista o cualquier profesionista con conocimientos en materia de urbanismo, con cédula legalmente expedida por la Dirección de Profesiones del Estado de Jalisco y registrado como director responsable, conforme a lo previsto en el presente Código.
+Los proyectos definitivos de urbanización deberán realizarse por un arquitecto, ingeniero civil, urbanista, ingeniero en obras y servicios o cualquier profesionista con conocimientos en materia de urbanismo, con cédula legalmente expedida por la Dirección de Profesiones del Estado de Jalisco y registrado como director responsable, conforme a lo previsto en el presente Código.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
@@ -4693,11 +4693,11 @@ Para suspender los trabajos de una obra durante la vigencia de la licencia, se d
 
 Para obtener la autorización de reinicio de obra, por la dependencia municipal competente, se deberá presentar la licencia con aviso de suspensión autorizado.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 278.
 
-Los proyectos y ejecución de obras de edificación, restauración e infraestructura deberán realizarse por un arquitecto, ingeniero civil o cualquier otra profesión que tenga por objeto el diseño y construcción de obra de infraestructura, servicios y equipamiento, con cédula legalmente expedida por la Dirección de Profesiones del Estado de Jalisco, registrado como director responsable conforme las disposiciones del Título Décimo Primero del presente Código.
+Los proyectos y ejecución de obras de edificación, restauración e infraestructura deberán realizarse por un arquitecto, ingeniero civil, ingeniero en obras y servicios o cualquier otra profesión que tenga por objeto el diseño y construcción de obra de infraestructura, servicios y equipamiento, con cédula legalmente expedida por la Dirección de Profesiones del Estado de Jalisco, registrado como director responsable conforme las disposiciones del Título Décimo Primero del presente Código.
 
 ###### Artículo 279.
 
@@ -4831,9 +4831,9 @@ El proyecto ejecutivo deberá cumplir los programas y planes de desarrollo urban
 
 El proyecto ejecutivo deberá contener los estudios de impacto ambiental elaborados por el promovente, de conformidad con la Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-Los proyectos y ejecución de obras de edificación y restauración deberán realizarse por un arquitecto, ingeniero civil o cualquier otra profesión que tenga por objeto el diseño y construcción de obra de infraestructura, servicios y equipamiento, con cédula legalmente expedida por la Dirección de Profesiones del Estado, registrado como perito conforme las disposiciones del título Décimo Primero del presente Código.
+Los proyectos y ejecución de obras de edificación y restauración deberán realizarse por un arquitecto, ingeniero civil, ingeniero en obras y servicios o cualquier otra profesión que tenga por objeto el diseño y construcción de obra de infraestructura, servicios y equipamiento, con cédula legalmente expedida por la Dirección de Profesiones del Estado, registrado como perito conforme las disposiciones del título Décimo Primero del presente Código.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
@@ -5491,9 +5491,9 @@ Los peritos en supervisión municipal tendrán una función de orden normativo, 
 
 Por la modalidad de su actuación y alcance de su responsabilidad los directores responsables y corresponsables, se clasifican según su desempeño y especialidad, de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-I. En Planeación Urbana: Son los profesionistas que apoyan a las autoridades en las tareas de la planeación del desarrollo urbano, con título, cédula profesional de arquitecto, ingeniero civil o urbanista, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y legalmente establecidos, responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, así como con otros niveles de planeación y demás leyes y reglamentos aplicables;
+I. En Planeación Urbana: Son los profesionistas que apoyan a las autoridades en las tareas de la planeación del desarrollo urbano, con título, cédula profesional de arquitecto, ingeniero civil, ingeniero en obras y servicios o urbanista, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y legalmente establecidos, responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, así como con otros niveles de planeación y demás leyes y reglamentos aplicables;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
@@ -5503,35 +5503,43 @@ a) De Edificación: Son los responsables de la elaboración de los proyectos eje
 
 b) De Restauración: Son los responsables de la elaboración de los proyectos ejecutivos de restauración de edificios y monumentos del patrimonio histórico y cultural, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, la Ley del Patrimonio Cultural y Natural del Estado de Jalisco y sus Municipios, el presente Código Urbano, los reglamentos municipales y demás leyes y disposiciones aplicables;
 
-c) Urbanización: Son responsables de la elaboración de los proyectos definitivos de cualquier género de obra urbana, con título, cédula profesional de arquitecto, urbanista o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables; y
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-d) De Infraestructura: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de infraestructura, con título, cédula profesional de ingeniero civil o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los programas y planes de desarrollo urbano aplicables; y
+c) Urbanización: Son responsables de la elaboración de los proyectos definitivos de cualquier género de obra urbana, con título, cédula profesional de arquitecto, urbanista, ingeniero en obras y servicios o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los planes y programas de desarrollo urbano aplicables; y
+
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+
+d) De Infraestructura: Son los responsables de la elaboración de los proyectos ejecutivos de cualquier género de obra de infraestructura, con título, cédula profesional de ingeniero civil, ingeniero en obras y servicios o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia y responsabilizándose que estos cumplan lo establecido en el presente Código Urbano, los reglamentos municipales y demás Leyes y Reglamentos aplicables, así como los programas y planes de desarrollo urbano aplicables; y
 
 III. En Obra: Son los profesionistas responsables del control y construcción de cualquier género de obra, que se encuentran legalmente establecidos, responsabilizándose que la ejecución de las obras que le sean encomendadas, cuidando y dirigiendo bajo su responsabilidad que, se realicen estrictamente de acuerdo a los proyectos ejecutivos y especificaciones aprobados por la autoridad municipal, de las leyes y reglamentos que correspondan, de las autorizaciones para el inicio, durante y la terminación de la misma, de las normas de seguridad, del sistema constructivo, de la calidad de los materiales, de la afectación a terceros y de todo cuanto se requiera durante el proceso, terminación y finiquito de la obra, clasificados en cuanto a su profesión, ejercicio, especialización y responsabilidad, de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-a) De Edificación: Son los responsables de cualquier género de obra de edificación, con título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia;
+a) De Edificación: Son los responsables de cualquier género de obra de edificación, con título, cédula profesional de ingeniero civil, arquitecto, ingeniero en obras y servicios o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia;
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 b) De Restauración: Son los responsables de cualquier género de obra de restauración de edificios y monumentos del patrimonio histórico, cultural y artístico, con título, cédula profesional de arquitecto o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad en la materia;
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-c) De Urbanización: Son los responsables de cualquier género de obra urbana, con título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia; e
+c) De Urbanización: Son los responsables de cualquier género de obra urbana, con título, cédula profesional de ingeniero civil, arquitecto, ingeniero en obras y servicios o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia; y
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-d) De infraestructura: Son los responsables de cualquier género de obra de infraestructura, con título, cédula profesional de ingeniero civil, o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia.
+d) De infraestructura: Son los responsables de cualquier género de obra de infraestructura, con título, cédula profesional de ingeniero civil, ingeniero en obras y servicios o profesión equivalente, expedida por la autoridad competente en materia de profesiones federal o estatal, con especialidad y experiencia en la materia.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 350.
 
-Los peritos en supervisión municipal son los profesionistas auxiliares de la autoridad municipal en la verificación de las obras de urbanización o edificación, con título, cédula profesional de ingeniero civil, arquitecto o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad y experiencia en la materia, que son los contratados por la autoridad municipal para auxiliarla en la verificación de las acciones urbanísticas, con el propósito de que éstas se ejecuten estrictamente de acuerdo a los proyectos y especificaciones aprobados por la autoridad municipal, reportando las anomalías que detecte, asumiendo en cada caso las responsabilidades legales que de tal proceso se deriven, teniendo, asimismo, la responsabilidad de informar periódicamente o antes en el caso de ser necesario, a la dependencia municipal correspondiente.
+Los peritos en supervisión municipal son los profesionistas auxiliares de la autoridad municipal en la verificación de las obras de urbanización o edificación, con título, cédula profesional de ingeniero civil, arquitecto, ingeniero en obras y servicios o profesión equivalente, expedida por la Dirección de Profesiones del Estado de Jalisco, con especialidad y experiencia en la materia, que son los contratados por la autoridad municipal para auxiliarla en la verificación de las acciones urbanísticas, con el propósito de que éstas se ejecuten estrictamente de acuerdo a los proyectos y especificaciones aprobados por la autoridad municipal, reportando las anomalías que detecte, asumiendo en cada caso las responsabilidades legales que de tal proceso se deriven, teniendo, asimismo, la responsabilidad de informar periódicamente o antes en el caso de ser necesario, a la dependencia municipal correspondiente.
 
-Los directores responsables deberán auxiliarse de los corresponsables de obra que son los profesionistas que tiene (sic) conocimientos especializados en un área específica del proyecto, de la construcción, de la restauración, de la urbanización o infraestructura y que por ello deben responsabilizarse junto con el Director Responsable de Proyecto u Obras, en el área específica de su especialidad deberá contar con su título, cédula profesional de ingeniero civil, arquitecto, profesión equivalente o del área de su especialidad, expedida por Dirección de Profesiones del Estado de Jalisco, con especialidad y experiencia en la materia
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+
+Los directores responsables deberán auxiliarse de los corresponsables de obra que son los profesionistas que tiene (sic) conocimientos especializados en un área específica del proyecto, de la construcción, de la restauración, de la urbanización o infraestructura y que por ello deben responsabilizarse junto con el Director Responsable de Proyecto u Obras, en el área específica de su especialidad deberá contar con su título, cédula profesional de ingeniero civil, arquitecto, ingeniero en obras y servicios profesión equivalente o del área de su especialidad, expedida por (sic) Dirección de Profesiones del Estado de Jalisco, con especialidad y experiencia en la materia.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
 La clasificación de los directores responsables y corresponsables no es limitativa, los profesionistas tienen la posibilidad de tener diversas, siempre y cuando reúnan los requisitos necesarios para desempeñar su actividad en diferentes especialidades, las cuales serán certificados de conformidad con la Ley para el Ejercicio de las Profesiones del Estado de Jalisco.
 
@@ -5573,11 +5581,11 @@ El Consejo Estatal de Peritos en Supervisión Municipal deberá llevar un catál
 
 La Secretaría de Infraestructura y Obra Pública y los municipios podrán auxiliarse del Consejo Estatal de Peritos Supervisión Municipal, como organismo técnico ciudadano que apoya la actuación y capacitación de los mismos, en los términos de las normas reglamentarias correspondientes.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 355.
 
-El Consejo Estatal de Peritos en Supervisión Municipal estará integrado por los representantes de los colegios de profesionistas de ingenieros civiles y arquitectos legalmente establecidos y registrados en el Estado de Jalisco y acreditados por la Dirección de Profesiones del Estado de Jalisco.
+El Consejo Estatal de Peritos en Supervisión Municipal estará integrado por los representantes de los colegios de profesionistas de ingenieros civiles, ingenieros en obras y servicios y los colegios de arquitectos legalmente establecidos y registrados en el Estado de Jalisco y acreditados por la Dirección de Profesiones del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
@@ -6434,3 +6442,13 @@ P.O. 17 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27059/LXI/18 QUE ADICIONA LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIO AL DIVERSO NÚMERO 26719/ LXI/17 QUE CONTIENE REFORMAS Y ADICIONALES AL CÓDIGO URBANO Y A LA LEY DE COORDINACIÓN METROPOLITANA, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO.- El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27358/LXII MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 250, 251, 278, 285, 349, 350 Y 355 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
+
+SEGUNDO. El poder ejecutivo del estado, dentro de los 180 días naturales siguientes a la entrada en vigor del presente decreto, deberá de realizar las adecuaciones reglamentarias necesarias para el cumplimiento al presente decreto.
+
+TERCERO. Los ayuntamientos dentro del plazo de 180 días naturales siguientes a la entrada en vigor del presente decreto, deberán de realizar las adecuaciones necesarias en sus reglamentos aplicables, para dar cumplimiento al presente decreto.
