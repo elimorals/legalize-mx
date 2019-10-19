@@ -4,7 +4,7 @@ identifier: "JAL-ley-sobre-los-derechos-y-el-desarrollo-de-los-pueblos-y-las-545
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-11"
-last_updated: "2019-10-12"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 11 de enero de 2007.
 
@@ -839,9 +839,11 @@ El Congreso del Estado deberá de auditar y fiscalizar a la Comisión, conforme 
 
 ### CAPITULO VI. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DE LA COMISION
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 82.
 
-Los servidores públicos de la Comisión están sujetos a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y la Ley para los Servidores Públicos del Estado y sus Municipios.
+Los servidores públicos de la Comisión están sujetos a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco y la Ley para los Servidores Públicos del Estado y sus Municipios.
 
 ### CAPITULO VII. DE LOS MEDIOS DE IMPUGNACION
 
@@ -947,8 +949,14 @@ P.O. 11 DE JULIO DE 2019.
 
 P.O. 12 DE OCTUBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 27362/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 70 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27362/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 70 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
 
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27359/LXII MEDIANTE EL CUAL SE MODIFICA EL ARTÍCULO 82 DE LA LEY SOBRE LOS DERECHOS Y EL DESARROLLO DE LOS PUEBLOS Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
