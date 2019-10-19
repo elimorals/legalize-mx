@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-deuda-publica-y-disciplina-financiera-del-estado-de-1174
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-26"
-last_updated: "2016-12-01"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,11 @@ state: "JAL"
 
 LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 1 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 > <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2016)</small>
 
-Ley publicada en la Sección LI al Número 8 del Periódico Oficial, el sábado 26 de noviembre de 2016.
+Ley publicada en la Sección LI del Periódico Oficial del Estado de Jalisco, el sábado 26 de noviembre de 2016.
 
 Al margen un sello que dice: Estados Unidos Mexicanos. Gobierno del Estado de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno.
 
@@ -663,7 +661,9 @@ IV. Tratándose de obligaciones de corto plazo, el ente público contratante deb
 
 La Secretaría, conforme a las disposiciones generales que emita, podrá requerir al ente público la información financiera, contable o legal complementaria a efecto de evaluar la capacidad de pago del mismo en términos de lo previsto por la fracción VIII del artículo 51 de la Ley de Disciplina.
 
-La responsabilidad respecto de la integridad de la información presentada por el ente público en el proceso de inscripción ante el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios será del funcionario o servidor público que suscriba la misma, quien en caso de falsedad, ocultamiento de información o parcialidad en su exposición será sancionado en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco y sus Municipios, sin perjuicio de las responsabilidades civiles o penales que correspondan.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+
+La responsabilidad respecto de la integridad de la información presentada por el ente público en el proceso de inscripción ante el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios será del funcionario o servidor público que suscriba la misma, quien en caso de falsedad, ocultamiento de información o parcialidad en su exposición será sancionado en términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, sin perjuicio de las responsabilidades civiles o penales que correspondan.
 
 La Secretaría resolverá dentro del término de diez días hábiles contados a partir del día siguiente de presentada una solicitud de inscripción sobre la procedencia de la misma, mediante la emisión de la constancia de inscripción respectiva, o bien, si existieran requisitos pendientes de satisfacer para su procedencia emitirá el requerimiento de información o documentación.
 
@@ -731,9 +731,11 @@ En cualquier otro caso, la contravención a las disposiciones de la presente ley
 
 ### Capítulo II. Infracciones y Sanciones
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 57.
 
-Los servidores públicos que infrinjan las disposiciones de esta ley o las normas que con base en ella se expidan o dicten, serán sancionados por los competentes que señala la Ley de Responsabilidades (sic) los Servidores Públicos del Estado de Jalisco, competentes para investigar, substanciar y sancionar los procedimientos administrativos de responsabilidad en el ámbito estatal o municipal según corresponda, sin perjuicio de la obligación de dar vista o comunicar al ministerio público las conductas o infracciones que puedan constituir algún ilícito penal.
+Los servidores públicos que infrinjan las disposiciones de esta ley o las normas que con base en ella se expidan o dicten, serán sancionados por los competentes que señala la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, competentes para investigar, substanciar y sancionar los procedimientos administrativos de responsabilidad en el ámbito estatal o municipal según corresponda, sin perjuicio de la obligación de dar vista o comunicar al ministerio público las conductas o infracciones que puedan constituir algún ilícito penal.
 
 ###### Artículo 58.
 
@@ -767,9 +769,11 @@ XIII. Celebran o comparezcan al otorgamiento de financiamiento a entes públicos
 
 XIV. Lleven a cabo cualquier acto, hecho o abstención en contravención a las disposiciones de la Ley de Disciplina, la Ley General, esta ley y a los reglamentos que de ella emanen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 59.
 
-Sin perjuicio de las indemnizaciones u otras sanciones que procedan, las conductas señaladas en el artículo anterior deben sancionarse, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco previo otorgamiento de la garantía de audiencia al servidor público o particular al que se impute la misma, con:
+Sin perjuicio de las indemnizaciones u otras sanciones que procedan, las conductas señaladas en el artículo anterior deben sancionarse, en términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco previo otorgamiento de la garantía de audiencia al servidor público o particular al que se impute la misma, con:
 
 I. Con multa de cincuenta a mil veces la Unidad de Medida y Actualización, las conductas previstas en las fracciones I, II, III, IV y V del artículo 58 anterior;
 
@@ -789,7 +793,9 @@ No deben imponerse sanciones cuando se haya incurrido en la infracción por caus
 
 Los servidores públicos que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta ley, o de las normas que de ella se derivan, deben comunicarlo al titular del ente público contratante y a la autoridad competente a efecto de proceder como corresponda.
 
-La omisión a lo dispuesto en el párrafo anterior debe sancionarse en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+
+La omisión a lo dispuesto en el párrafo anterior debe sancionarse en los términos de (sic) Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ## TRANSITORIOS
 
@@ -844,3 +850,11 @@ El Secretario General de Gobierno
 ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27378/LXII MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
