@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2019-08-29"
+last_updated: "2019-10-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -345,13 +345,17 @@ XVII.- Promover la transparencia en las escuelas públicas y particulares en las
 
 XVIII.- Instrumentar un sistema accesible a los ciudadanos y docentes para la presentación y seguimiento de quejas y sugerencias respecto del servicio público educativo, para ello podrá disponer de un número telefónico y un buzón en su portal de internet;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-XIX.- Evaluará en los ámbitos de su competencia los resultados de calidad educativa de los programas compensatorios señalados en el artículo 34 de la Ley General de Educación; y
+XIX.- Evaluará en los ámbitos de su competencia los resultados de calidad educativa de los programas compensatorios señalados en el artículo 34 de la Ley General de Educación;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2019)</small>
 
-XX.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+XX.- Crear un sistema estatal de prevención, detección temprana, atención y erradicación del ausentismo, abandono y deserción escolares, que incluya el diseño de modelos de inclusión escolar que permitan la reinserción de niñas, niños y adolescentes al sistema educativo; y
+
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
+
+XXI.- Las demás que con tal carácter establezca esta ley y otras disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE ABRIL DE 2014)</small>
 
@@ -1351,9 +1355,11 @@ DE LA EQUIDAD EN LA EDUCACIÓN.
 
 En la esfera de su competencia la Autoridad Educativa, los municipios y sus Organismos Descentralizados, tomarán las medidas necesarias para hacer expedito el derecho a la educación que tiene todo habitante del Estado, en igualdad de circunstancias y oportunidades de acceso y permanencia al sistema educativo estatal.
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-ARTICULO 90 BIS.- La Autoridad Educativa observará que en los centros escolares públicos o privados de cualquier nivel y modalidad en el Estado, otorguen dentro de sus facultades y atribuciones, apoyo educativo para coadyuvar a que las niñas, niños y adolescentes en circunstancias especialmente difíciles, den inicio, continuación y conclusión a sus estudios, conforme lo previsto en la presente Ley, la Ley de las Niñas, los Niños y Adolescentes del Estado de Jalisco, Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco y demás ordenamientos legales aplicables.
+ARTICULO 90 BIS.- La Autoridad Educativa observará que en los centros escolares públicos o privados de cualquier nivel y modalidad en el Estado, otorguen dentro de sus facultades y atribuciones, apoyo educativo para coadyuvar a que las niñas, niños y adolescentes en circunstancias especialmente difíciles, den inicio, continuación y conclusión a sus estudios, conforme lo previsto en la presente Ley, la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco, Ley para la Inclusión y Desarrollo Integral de las Personas con Discapacidad del Estado de Jalisco y demás ordenamientos legales aplicables.
+
+Además, deberá implementar mecanismos para notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de alumnos que cursen educación básica y media superior en los centros educativos, de conformidad con la Ley General de los Derechos de Niñas, Niños y Adolescentes y de la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2014)</small>
 
@@ -2089,13 +2095,17 @@ f) Conocer los resultados de las evaluaciones que efectúen las autoridades educ
 
 g) Otorgar estímulos a alumnos, docentes y escuelas que se destaquen; y
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-h) Vincularse con los Consejos Escolares y Municipales de Participación Social a efecto de lograr el mejor desarrollo de sus respectivas funciones; y
+h) Vincularse con los Consejos Escolares y Municipales de Participación Social a efecto de lograr el mejor desarrollo de sus respectivas funciones;
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-i) Promover la implementación de programas de avanzada en la detección y preparación de alumnos sobresalientes y la impartición de educación especial para los mismos.
+i) Promover la implementación de programas de avanzada en la detección y preparación de alumnos sobresalientes y la impartición de educación especial para los mismos; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+j) Proponer estrategias y acciones para la detección temprana, prevención y atención del ausentismo, abandono y deserción escolar.
 
 ###### ARTICULO 136.
 
@@ -4082,3 +4092,11 @@ P.O. 29 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27319/LXII/19 QUE REFORMA LOS ARTÍCULOS 153 Y 190 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27374/LXII MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado deberá llevar a cabo las adecuaciones reglamentarias necesarias para la debida implementación de los mecanismos de prevención, detección temprana, atención y erradicación del ausentismo, abandono y deserción escolares, dentro de un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente decreto.
