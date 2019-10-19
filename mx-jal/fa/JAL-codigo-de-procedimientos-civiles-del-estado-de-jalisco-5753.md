@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-civiles-del-estado-de-jalisco-5753"
 country: "mx"
 rank: "codigo"
 publication_date: "1938-12-24"
-last_updated: "2018-09-01"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el 24 de diciembre de 1938.
 
@@ -2256,9 +2256,17 @@ El juez dictará las medidas necesarias que estime procedentes para que se cumpl
 
 El juez con audiencia de las partes, podrá variar las disposiciones decretadas cuando exista causa justa que lo amerite o en vista de los padres, de común acuerdo o individualmente le soliciten, sin sujeción estricta a los términos y formas establecidas respecto de la jurisdicción contenciosa.
 
-En todo caso que se solicite la variación de los términos de la custodia, el juez, cuando ello sea posible, deberá escuchar a los hijos menores para resolver lo conducente.
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-Cuando al cónyuge a quien se hubiere otorgado la custodia de los hijos tenga una conducta nociva a la salud física o psíquica del menor, se le revocará aquella, una vez acreditada la existencia que con tal fin debe promoverse.
+En todo caso que se solicite la variación de los términos de la custodia, el juez deberá garantizar el derecho de los menores a ser escuchados sobre las cuestiones que se ventilen, haciéndoles saber en un lenguaje claro y comprensible, acorde con su edad y madurez, cuáles son sus derechos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+El juez podrá recabar oficiosamente la opinión de los hijos menores, cuando sea posible y lo considere necesario, haciéndoles saber sus derechos en la forma prevista en el párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+Cuando al cónyuge a quien se hubiere otorgado la custodia de los hijos tenga una conducta nociva a la salud física o psíquica del menor, se le revocará aquélla, una vez acreditada la existencia que con tal fin debe promoverse.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1998)</small>
 
@@ -2428,7 +2436,7 @@ Será competente para decretar las providencias cautelares el juez que lo sea pa
 
 ###### ARTICULO 251.
 
-De toda providencia precautoria queda responsable el que la pida, y si no se funda en instrumento público o título ejecutivo, el solicitante otorgará garantía bastante en cualesquiera de las formas previstas por la ley cuyo monto será fijado discrecionalmente por el juez, para asegurar el pago de los daños y perjuicios que se ocasionen, ya porque se revoque la providencia o ya por qué (sic) entablada la demanda, sea absuelto el demandado. Mientras no se exhiba la garantía no podrá decretarse la medida.
+De toda providencia precautoria queda responsable el que la pida, y si no se funda en instrumento público o título ejecutivo, el solicitante otorgará garantía bastante en cualesquiera de las formas previstas por la ley cuyo monto será fijado discrecionalmente por el juez, para asegurar el pago de los daños y perjuicios que se ocasionen, ya porque se revoque la providencia o ya por qué entablada la demanda, sea absuelto el demandado. Mientras no se exhiba la garantía no podrá decretarse la medida.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -6176,11 +6184,13 @@ Las medidas podrán ser levantadas en cualquier momento, previo dictamen que cer
 
 En todos los casos escuchará a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+ARTICULO 721 ter.- En todas las actuaciones el Juez deberá atender el interés superior de la niñez, tomando en cuenta la opinión de los hijos en función de su edad y madurez, de conformidad a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y el Código Civil.
 
-ARTICULO 721 TER.- En todas las actuaciones el Juez atenderá el interés superior de la niñez y tomará en cuenta la opinión de los hijos en función de su edad y madurez, de conformidad a lo previsto en la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, y el Código Civil.
+Asimismo, en toda actuación en que participen menores de edad, deberá garantizarse el derecho de los mismos a ser escuchados, haciéndoles saber en un lenguaje claro y comprensible, acorde con su edad y madurez, cuáles son sus derechos.
+
+El Juez podrá solicitar el apoyo de cualquier institución a fin de ser asesorado en el momento que recabe la opinión de los menores.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -7928,7 +7938,7 @@ V. Por el Agente de la Procuraduría Social;
 
 VI. Por el Sistema DIF estatal o municipal;
 
-VIl. Por aquel que tenga conocimiento de que existe un documento público de tutela voluntaria en donde se le designa como tutor; y
+VII. Por aquel que tenga conocimiento de que existe un documento público de tutela voluntaria en donde se le designa como tutor; y
 
 VIII. Por sus ascendientes y parientes consanguíneos en línea recta sin limitación de grados, los colaterales dentro del cuarto grado y los afines dentro del segundo.
 
@@ -9629,3 +9639,9 @@ TERCERO. Lo previsto en el artículo 21 fracción V, del presente decreto, no se
 CUARTO. Los Notarios adscritos a alguno de los municipios de los señalados en la fracción I del artículo 29 de esta Ley, que tengan su oficina notarial en un municipio distinto al de su adscripción con antelación a la vigencia del presente decreto, podrán mantener su oficina en ese municipio.
 
 QUINTO. Las presentes disposiciones surtirán todos sus efectos en tanto no se opongan expresamente a las disposiciones en materia procesal civil y familiar.
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27373/LXII MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS DEL DEL (SIC) ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
