@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2019-09-14"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -348,15 +348,15 @@ Las autoridades fiscales municipales, en el ejercicio de las facultades y funcio
 
 El Gobierno del Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas, el Congreso del Estado, por conducto de la Comisión de Hacienda y Presupuestos, y los Gobiernos Municipales, por conducto de sus Encargados de la Hacienda Municipal, participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de distribución de participaciones a que se refiere esta ley, y de la colaboración administrativa entre dichos niveles de gobierno, a través del Consejo Estatal Hacendario.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 19 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 19.
 
 El Consejo Estatal Hacendario se integrará por:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-I. El Gobierno del Estado, por conducto del Secretario de Planeación, Administración y Finanzas, o el Sub Secretario de Finanzas, quien lo presidirá;
+I. El Gobierno del Estado, por conducto del Secretario de la Hacienda Pública, quien lo presidirá;
 
 II. El Congreso del Estado, por conducto del Presidente de la Comisión de Hacienda y Presupuestos, y
 
@@ -366,13 +366,13 @@ III. Los 125 Municipios, por conducto de los Encargados de la Hacienda Municipal
 
 El Consejo Estatal Hacendario se establece como un órgano de consulta y análisis técnico, respecto del estudio, modificación y actualización de la legislación fiscal estatal y municipal de la entidad, en sus diversas modalidades, para proponerlos al Congreso del Estado, para su aprobación, por conducto de las instancias gubernativas correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE OCTUBRE DE 2019)</small>
 
 Las ausencias de los Titulares del Consejo Estatal Hacendario, podrá ser suplida (sic) de la forma siguiente:
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-1. El Secretario de Planeación, Administración y Finanzas por el Sub Secretario de Finanzas;
+1. El Secretario de la Hacienda Pública por el Titular de la Dirección General de Ingresos, dependiente de la Hacienda Pública;
 
 2. El Presidente de la Comisión de Hacienda y Presupuestos del Congreso, por un representante que invariablemente será integrante de la misma Comisión, y
 
@@ -599,3 +599,9 @@ P.O. 14 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27356/LXII/19 QUE REFORMA LOS ARTÍCULOS 4°, 5°, 7° Y 10 BIS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27379/LXII MEDIANTE EL CUAL REFORMA EL ARTÍCULO 19 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
