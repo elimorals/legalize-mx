@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-proteccion-y-apoyo-de-las-madres-jefas-de-86234"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-14"
-last_updated: "2018-09-13"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 14 de febrero de 2012.
 
@@ -151,11 +151,11 @@ IV. Que el ingreso que perciba por día no sea mayor a 2.5 salarios mínimos gen
 
 V. Los demás que prevean expresamente las disposiciones reglamentarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 11.
 
-Las madres jefas de familia deberán informar bimestralmente a la Secretaría de Desarrollo e Integración Social, a través de la Secretaría Técnica del Consejo:
+Las madres jefas de familia deberán informar bimestralmente a la Secretaría del Sistema de Asistencia Social, a través de la Secretaría Técnica del Consejo:
 
 I. La aplicación y destino de la ayuda económica mensual;
 
@@ -195,23 +195,23 @@ V. Cuando la madre jefa de familia reciba apoyo económico de otro programa fede
 
 La ayuda económica mensual a que tienen derecho las madres jefas de familia a que se refiere este capítulo, se otorgará a través de la implementación de un programa de apoyo estatal a madres jefas de familia, en el que se establecerá la temporalidad. Mientras subsistan las condiciones que dieron origen a la ayuda y el sujeto beneficiario cumpla con las obligaciones correspondientes, ésta no podrá suspenderse.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 15.
 
-Para efectos de lo dispuesto en el artículo anterior, la Secretaría de Desarrollo e Integración Social, a través de la Secretaría Técnica del Consejo, deberá llevar un registro y control de beneficiarias del programa, el cual deberá actualizar mensualmente. Este padrón será público y se integrará con expedientes individuales de los beneficiarios. La información ahí contenida será reservada en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
+Para efectos de lo dispuesto en el artículo anterior, la Secretaría del Sistema de Asistencia Social, a través de la Secretaría Técnica del Consejo, deberá llevar un registro y control de beneficiarias del programa, el cual deberá actualizar mensualmente. Este padrón será público y se integrará con expedientes individuales de los beneficiarios. La información ahí contenida será reservada en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Jalisco y sus Municipios.
 
 ### Capítulo IV. De las acciones gubernamentales
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 16.
 
-La Secretaría de Desarrollo e Integración Social será la autoridad encargada de operar, coordinar y ejecutar los programas de apoyo a favor de las madres jefas de familia.
+La Secretaría del Sistema de Asistencia Social será la autoridad encargada de operar, coordinar y ejecutar los programas de apoyo a favor de las madres jefas de familia.
 
-En la Secretaría de Desarrollo e Integración Social estarán sectorizadas las dependencias del Ejecutivo que éste considere necesarias para garantizar el acceso de las madres jefas de familia a los servicios y derechos contenidos en esta ley y demás disposiciones normativas aplicables.
+En la Secretaría del Sistema de Asistencia Social estarán sectorizadas las dependencias del Ejecutivo que éste considere necesarias para garantizar el acceso de las madres jefas de familia a los servicios y derechos contenidos en esta ley y demás disposiciones normativas aplicables.
 
-La Secretaría de Desarrollo e Integración Social deberá llevar a cabo un estudio socioeconómico a las madres jefas de familia para acreditar su situación de vulnerabilidad socioeconómica y valorar si califican o no como beneficiarias de los apoyos a que hace referencia esta ley, para tal efecto los interesados deberán aportar los elementos que les sean solicitados.
+La Secretaría del Sistema de Asistencia Social deberá llevar a cabo un estudio socioeconómico a las madres jefas de familia para acreditar su situación de vulnerabilidad socioeconómica y valorar si califican o no como beneficiarias de los apoyos a que hace referencia esta ley, para tal efecto los interesados deberán aportar los elementos que les sean solicitados.
 
 ###### Artículo 17.
 
@@ -227,11 +227,11 @@ Las dependencias y entidades estatales y municipales, si es el caso, podrán cel
 
 ### Capítulo V. Del Consejo Estatal para la Protección de las Madres Jefas de Familia
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 20.
 
-Se crea el Consejo Estatal para la Protección de las Madres Jefas de Familia como un órgano público auxiliar de la Secretaría de Desarrollo e Integración Social, con funciones técnicas, de gestión y de consulta.
+Se crea el Consejo Estatal para la Protección de las Madres Jefas de Familia como un órgano público auxiliar de la Secretaría del Sistema de Asistencia Social, con funciones técnicas, de gestión y de consulta.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2018)</small>
 
@@ -239,15 +239,17 @@ El Consejo será honorífico y su objeto es la elaboración de propuestas, progr
 
 El Ejecutivo podrá crear la estructura administrativa mínima necesaria para su funcionamiento en el reglamento de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 21.
 
 El Consejo Estatal estará integrado por:
 
 I. Un Presidente, que será el Gobernador del Estado;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-II. Un Secretario Técnico, que será el titular de la Secretaría de Desarrollo e Integración Social;
+II. Un Secretario Técnico, que será el titular de la Secretaría del Sistema de Asistencia Social;
 
 III. Los titulares de las dependencias del Ejecutivo que sean sectorizadas, y
 
@@ -259,13 +261,15 @@ Los integrantes del Consejo Estatal designarán a sus respectivos suplentes, qui
 
 El Consejo Estatal, a través de su presidencia, podrá invitar a las sesiones del mismo a representantes de las dependencias y entidades de la administración pública municipal, estatal y federal cuando los asuntos a tratar en las sesiones se relacionen con la materia en su competencia, así como a integrantes de la sociedad civil, organizaciones no gubernamentales y grupos de mujeres legalmente constituidos, que por sus conocimientos y experiencias contribuyan a la realización del objeto del Consejo Estatal, quienes, en todo caso, participarán únicamente con voz.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 22.
 
 El Consejo Estatal tendrá las siguientes funciones:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-I. Diseñar políticas orientadas al desarrollo y mejoramiento de las condiciones de vida de las madres jefas de familia y proponerlas a la Secretaría de Desarrollo e Integración Social;
+I. Diseñar políticas orientadas al desarrollo y mejoramiento de las condiciones de vida de las madres jefas de familia y proponerlas a la Secretaría del Sistema de Asistencia Social;
 
 II. Participar en la evaluación de programas para las madres jefas de familia, así como proponer a las instituciones encargadas de dichos programas los lineamientos y mecanismos para su ejecución;
 
@@ -275,9 +279,9 @@ IV. Incentivar la creación de fundaciones, asociaciones e instituciones privada
 
 V. Recibir y canalizar a las instituciones competentes las quejas y sugerencias sobre la atención que éstas brinden a las madres jefas de familia;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-VI. Elaborar, conservar y actualizar los convenios que firme la Secretaría de Desarrollo e Integración Social con los ayuntamientos y entidades federales en los términos de la presente ley y su reglamento;
+VI. Elaborar, conservar y actualizar los convenios que firmé la Secretaría del Sistema de Asistencia Social con los ayuntamientos y entidades federales en los términos de la presente ley y su reglamento;
 
 VII. Elaborar investigaciones sobre las madres jefas de familia y sus hijos menores de edad, sobre la evaluación e impacto de las políticas y acciones que esta ley genere y sobre las causas y posibles soluciones de este fenómeno social, y
 
@@ -402,3 +406,9 @@ SEGUNDO. El Consejo Estatal de Protección de las Madres Jefas de Familia deber�
 TERCERO. El Ejecutivo del Estado deberá realizar las adecuaciones necesarias al Reglamento correspondiente del Consejo Estatal de Protección de las Madres Jefas de Familia para el debido cumplimiento del presente decreto.
 
 CUARTO. El Presupuesto de Egresos del Estado de Jalisco del próximo año deberá tomar en cuenta el presente decreto.
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27371/LXII MEDIANTE EL CUAL SE REFORMA LOS ARTÍCULOS 11, 15, 16, 20, 21 Y 22 DE LA LEY PARA LA PROTECCIÓN Y APOYO DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
