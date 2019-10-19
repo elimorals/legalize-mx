@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2019-10-12"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -547,9 +547,17 @@ XII. Fomentar la participación en las escuelas y en su comunidad;
 
 XIII. Promover la igualdad de género;
 
-XIV. Brindar atención y orientación sensible y libre de discriminación a las adolescentes embarazadas y las madres menores de edad, para evitar la deserción escolar; y
+> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2019)</small>
 
-XV. Lo demás contenido en la Ley General y en las leyes de la materia.
+XIV. Brindar atención y orientación sensible y libre de discriminación a las adolescentes embarazadas y las madres menores de edad, para evitar la deserción escolar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+XV. Contribuir a garantizar la permanencia y conclusión de la educación básica y media superior de niñas, niños y adolescentes, así como para abatir el ausentismo, abandono y deserción escolares; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+XVI. Lo demás contenido en la Ley General y en las leyes de la materia.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes.
 
@@ -657,9 +665,11 @@ Niñas, niños o adolescentes afectados, considerando su edad, grado de desarrol
 
 ### CAPÍTULO XVII. Del Derecho a la Seguridad Jurídica y al Debido Proceso
 
+> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 56.
 
-En todo trámite o procedimiento jurisdiccional o administrativo las autoridades, en el ámbito de sus respectivas competencias, deberán garantizar el ejercicio al derecho a la seguridad jurídica y al debido proceso.
+En todo trámite o procedimiento jurisdiccional o administrativo las autoridades, en el ámbito de sus respectivas competencias, deberán garantizar el ejercicio al derecho a la seguridad jurídica y al debido proceso, así como al derecho de los menores a ser escuchados, haciéndoles saber en un lenguaje claro y comprensible, acorde con su edad y madurez, cuáles son sus derechos.
 
 ###### Artículo 57.
 
@@ -1155,17 +1165,33 @@ III. Acercarse a la familia o lugares en donde se encuentren las niñas, niños 
 
 IV. Requerir informes a instituciones públicas y privadas sobre asuntos relacionados con niñez de que conozcan; éstas deberán entregar la información a la brevedad en los términos que el reglamento establezca;
 
-V. Determinar en cada uno de los casos identificados los derechos que se encuentran restringidos o vulnerados;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE OCTUBRE DE 2019)</small>
 
-VI. Elaborar, bajo el principio del interés superior de la niñez, un diagnóstico sobre la situación de vulneración y un plan de restitución de derechos, que incluya las propuestas de medidas para su protección;
+V. Tomar en cuenta la opinión de los menores, haciéndoles saber los derechos que la ley les otorga, con un lenguaje claro y comprensible, de acuerdo con su edad y madurez;
 
-VII. Acordar y coordinar con las instituciones que corresponda el cumplimiento y la ejecución del plan de restitución de derechos; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2019)</small>
 
-VIII. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de la niña, niño o adolescente se encuentren garantizados.
+VI. Determinar en cada uno de los casos identificados los derechos que se encuentran restringidos o vulnerados;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+VII. Elaborar, bajo el principio del interés superior de la niñez, un diagnóstico sobre la situación de vulneración y un plan de restitución de derechos, que incluya las propuestas de medidas para su protección;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+VIII. Acordar y coordinar con las instituciones que corresponda el cumplimiento y la ejecución del plan de restitución de derechos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+IX. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de la niña, niño o adolescente se encuentren garantizados.
 
 En cualquier momento la Procuraduría de Protección de Niñas, Niños y Adolescentes solicitará el auxilio de autoridades de los tres órdenes de gobierno, según corresponda, para el otorgamiento de medidas de seguridad y protección de inmediata aplicación, sean cautelares, precautorias y de restitución.
 
 Dará seguimiento a las medidas de seguridad y protección que se dicten para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+La Procuraduría de Protección de Niñas, Niños y Adolescentes debe velar por el cumplimiento de sus determinaciones y no podrá dar por concluido ni archivar ningún asunto, sin antes dictar acuerdo en el que se verifique que se les dio cumplimiento.
 
 ###### Artículo 82.
 
@@ -1788,3 +1814,17 @@ P.O. 12 DE OCTUBRE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27365/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 15, 39, 78 Y 95 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27373/LXII MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS DEL DEL (SIC) ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27374/LXII MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado deberá llevar a cabo las adecuaciones reglamentarias necesarias para la debida implementación de los mecanismos de prevención, detección temprana, atención y erradicación del ausentismo, abandono y deserción escolares, dentro de un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente decreto.
