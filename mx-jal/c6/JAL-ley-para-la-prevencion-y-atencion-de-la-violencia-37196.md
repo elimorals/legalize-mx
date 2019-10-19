@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-prevencion-y-atencion-de-la-violencia-37196"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-18"
-last_updated: "2019-08-29"
+last_updated: "2019-10-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Septuagésima del Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 2003.
 
@@ -607,8 +607,6 @@ La dirección y el impulso de los procesos o procedimientos corresponde a quiene
 
 Están legitimados para presentar las quejas e iniciar el procedimiento ante las instancias competentes, la víctima, un familiar, vecino o cualquier otra persona, quien bajo protesta de decir verdad presentará su queja o denuncia por escrito o comparecencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2008)</small>
 
 ###### Artículo 37.
@@ -628,6 +626,22 @@ III. Cualquier miembro de la familia; y
 IV. Los maestros y directivos de las instituciones educativas, así como los Médicos, y directores de instituciones hospitalarios, cuando con motivos (sic) de su actividad, detecten cualquier circunstancia que haga presumible la existencia de violencia intrafamiliar.
 
 Los menores de edad también podrán ser citados a fin de recabar su opinión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+Las unidades que conozcan de estos asuntos deberán garantizar el derecho de los menores a ser escuchados y a tomar en cuenta su opinión, haciéndoles saber en un lenguaje claro y comprensible, acorde con su edad y madurez, cuáles son sus derechos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+Dichas unidades podrán recabar oficiosamente la opinión de los menores cuando lo consideren necesario y sea posible, haciéndoles saber los derechos que les otorga la ley, de la manera prevista en el párrafo anterior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+Las unidades podrán solicitar el apoyo de cualquier institución a fin de estar asesoradas en el momento que se recabe la opinión de los menores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+En todos los casos deberá darse intervención a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 ### CAPITULO III. DEL TRAMITE Y RESOLUCION DE LOS CONFLICTOS EN VIOLENCIA INTRAFAMILIAR
 
@@ -676,6 +690,18 @@ La información suministrada será mantenida en estricta confidencialidad, así 
 En los casos en que se considere que una persona es generadora de violencia intrafamiliar, sea por la vía administrativa o jurisdiccional, se podrá establecer en los convenios, el sometimiento al programa de terapia familiar aprobado por el Consejo. También podrá ordenársele, en su caso, participación concurrente en programas de rehabilitación por el consumo de alcohol u otras drogas.
 
 El término de los programas se fijará tomando en consideración los resultados de las terapias, previa evaluación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+Las unidades deberán informar a la Procuraduría de Protección de Niñas, Niños y Adolescentes el seguimiento y cumplimiento a sus determinaciones para la prevención y solución a los conflictos de violencia intrafamiliar.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+De acuerdo a la naturaleza y gravedad del caso, las unidades deberán dar vista a la Fiscalía del Estado para los efectos legales conducentes, de conformidad con el artículo 32 fracción IV de la presente Ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE OCTUBRE DE 2019)</small>
+
+Las unidades deberán vigilar el cumplimiento de sus resoluciones para dar solución a los conflictos de violencia intrafamiliar, y no podrán dar por concluido ni archivar ningún asunto, sin antes dictar acuerdo en el que verifiquen que se les dio cumplimiento.
 
 ### CAPITULO IV. MEDIDAS EMERGENTES
 
@@ -810,5 +836,11 @@ P.O. 11 DE OCTUBRE DE 2016.
 P.O. 29 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27321/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27373/LXII MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, TODOS DEL DEL (SIC) ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
