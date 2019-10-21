@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2019-06-05"
+last_updated: "2019-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -209,7 +209,9 @@ IX.- Fomentar el interés por la ciencia, la tecnología y las actitudes que est
 
 X.- Impulsar la creación artística, la adquisición, enriquecimiento y difusión de los bienes y valores universales, en especial de aquéllos que constituyen el patrimonio cultural de la Nación, y particularmente, de Nuevo León;
 
-XI.- Promover en todos los tipos y niveles educativos la conciencia para el uso racional de los recursos naturales y la responsabilidad personal, para lograr una vida en armonía con el medio ambiente y en particular, desarrollar una cultura del agua;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XI.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales y en particular, desarrollar una cultura del agua;
 
 XII.- Desarrollar actitudes solidarias en los individuos para crear conciencia sobre la planeación familiar, la paternidad y maternidad responsables, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
@@ -553,13 +555,17 @@ XVIII.- Disponer que en los planteles de educación básica el número de alumno
 
 XIX.- Participar con la Secretaria de Educación en el cumplimiento de la fracción VIII Bis del artículo 12 de la Ley General de Educación referente a las normas de control escolar como facilitadoras del proceso de inscripción, reinscripción, promoción, regularización, acreditación y certificación de estudios de los educandos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-XX.- Ofrecer en coordinación con las autoridades competentes la orientación y capacitación a los padres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los planteles educativos del Estado, con el objeto de contar con las condiciones necesarias para la atención de las niñas, niños y adolescentes con discapacidad; y
+XX.- Ofrecer en coordinación con las autoridades competentes la orientación y capacitación a los padres de familia, tutores o quienes ejerzan la patria potestad, así como al personal que labore en los planteles educativos del Estado, con el objeto de contar con las condiciones necesarias para la atención de las niñas, niños y adolescentes con discapacidad;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ENERO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
-XXI.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+XXI.- Establecer mecanismos tendientes a promover las actividades extracurriculares que fomenten el aprendizaje del estudiante de nivel básico, preferentemente en el ámbito socioemocional, colaborativo y de responsabilidad social. Dichas actividades podrán llevarse a cabo en alguna de las instituciones federales, estatales o municipales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XXII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -2210,3 +2216,17 @@ P.O. 5 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 131. SE REFORMA POR MODIFICACIÓN LA FRACCIÓN I DEL ARTÍCULO 7, LAS FRACCIONES V Y VI DEL ARTÍCULO 12 Y EL ARTÍCULO 13, ASÍ COMO POR ADICIÓN DE UNA FRACCIÓN VII DEL ARTÍCULO 12 TODOS DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES XXII Y XXIII Y POR ADICIÓN DE LA FRACCIÓN XXIV TODOS (SIC) DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 172. SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN DEL ESTADO”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 174. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES XX Y XXI Y POR ADICIÓN DE UNA FRACCIÓN XXII TODAS DEL ARTÍCULO 21 DE LA LEY DE EDUCACIÓN DEL ESTADO".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La presente reforma será aplicada a partir del ciclo escolar 2020-2021, para lo cual la Secretaría de Educación del Estado, tendrá un plazo de hasta 90 días, a partir de la entrada en vigor del presente Decreto, para emitir las reglas que permitan dar cumplimiento a la presente reforma.
