@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2016-06-15"
+last_updated: "2019-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE OCTUBRE DE 2019 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2019.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -135,7 +137,7 @@ Los recursos que de manera coyuntural corresponden a gasto de inversión deben s
 
 Para el cumplimiento de sus objetivos la Comisión tiene las atribuciones siguientes:
 
-l. Conocer de quejas o iniciar de oficio investigaciones, sobre presuntas violaciones a derechos humanos, por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público estatal o municipal;
+I. Conocer de quejas o iniciar de oficio investigaciones, sobre presuntas violaciones a derechos humanos, por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público estatal o municipal;
 
 II. Conocer de quejas o iniciar de oficio investigaciones, en contra de cualquier autoridad o servidor público que con su tolerancia, consentimiento o negativa a ejercer las atribuciones que legalmente le correspondan, de lugar a presuntas violaciones a derechos humanos provenientes de quienes presten servicios permisionados o concesionados por los gobiernos estatal o municipales u ofrezcan servicios al público;
 
@@ -221,9 +223,13 @@ XXXII. Impulsar la participación de las organizaciones privadas dedicadas a la 
 
 XXXIII. Implementar el uso estratégico de las tecnologías de la información para la presentación de quejas y el seguimiento de los procedimientos que se realizan ante la Comisión.
 
+> <small>(ADICIONADA, G.G. 21 DE OCTUBRE DE 2019)</small>
+
+XXXIV. Certificar en materia de derechos humanos a las y los Defensores Municipales de Derechos Humanos, con base en los criterios específicos determinados por la Comisión, cumpliendo con los principios de transparencia y máxima publicidad en los resultados.
+
 > <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XXXIV. Las demás que sean necesarias para el cumplimiento de sus objetivos, que se deriven de esta Ley y demás ordenamientos legales.
+XXXV. Las demás que sean necesarias para el cumplimiento de sus objetivos, que se deriven de esta Ley y demás ordenamientos legales.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2015)</small>
 
@@ -1185,7 +1191,11 @@ IV. Realizar y promover investigaciones en materia de derechos humanos,
 
 V. Impartir programas de estudios en materia de derechos humanos.
 
-VI. Las demás que establezca el Reglamento.
+> <small>(ADICIONADA, G.G. 21 DE OCTUBRE DE 2019)</small>
+
+VI. Establecer e impartir los programas de estudio para la certificación en materia de derechos humanos y coordinarse con las instituciones públicas de acuerdo con lo establecido en la Ley y el Reglamento Interno.
+
+VII. Las demás que establezca el Reglamento.
 
 > <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
 
@@ -1420,3 +1430,21 @@ SEGUNDO. Este Decreto entrará en vigor al día siguiente del inicio de la vigen
 TERCERO. El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de este Decreto.
 
 CUARTO. Se dejan sin efecto las disposiciones que se opongan al presente decreto.
+
+G.G. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89.- POR EL QUE SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 147 I, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XXXIV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 13, Y LA FRACCIÓN VI RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 129 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Comisión de Derechos Humanos del Estado de México contará con un plazo no mayor a 180 días naturales posteriores a la entrada en vigor del presente decreto, para cumplir con la autorización de ser un ente certificador.
+
+CUARTO.- A partir del establecimiento de la certificación por parte de la Comisión de Derechos Humanos del Estado de México, las y los Defensores Públicos Municipales de Derechos Humanos en funciones, tendrán un plazo no mayor a seis meses para cumplir el requisito que establece el presente decreto, a partir de la fecha de inicio del proceso de certificación expedido por la Comisión de Derechos Humanos del Estado de México.
+
+QUINTO.- La Comisión de Derechos Humanos del Estado de México realizará las modificaciones al Reglamento Interno y demás disposiciones tendientes a regular su organización y funcionamiento, dentro de los treinta días siguientes a la entrada en vigor del presente decreto.
+
+SEXTO.- La Legislatura realizará las adecuaciones presupuestales necesarias para el cumplimiento del presente decreto, bajo los principios de transparencia y rendición de cuentas.
+
+SÉPTIMO.- La Certificación de competencias por única ocasión tendrá vigencia de 18 meses para los Defensores Municipales de Derechos Humanos en funciones, posterior a ellos se tendrá vigencia de tres años.
