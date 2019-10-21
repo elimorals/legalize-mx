@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2019-07-22"
+last_updated: "2019-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -1055,9 +1055,11 @@ Las Comisiones no tienen facultades de decisión, toda vez que éstas correspond
 
 Las Comisiones deberán vigilar que se ejecuten las disposiciones y acuerdos del Ayuntamiento, así como las actividades que correspondan a sus ramos, comunicando al Ayuntamiento las irregularidades detectadas, y proponer en su caso las medidas de solución conducentes.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 95.
 
-Habrá Comisiones permanentes que funcionarán por todo el trienio y se integrarán a más tardar el 15 de enero del primer año de ejercicio constitucional y Comisiones especiales que podrán ser nombradas por acuerdo del Ayuntamiento para el estudio de un asunto determinado.
+Habrá Comisiones permanentes que funcionarán por todo el periodo constitucional, se integrarán a más tardar el 31 de octubre del primer año de ejercicio constitucional y Comisiones especiales que podrán ser nombradas por acuerdo del Ayuntamiento para el estudio de un asunto determinado.
 
 ###### Artículo 96.
 
@@ -1583,9 +1585,11 @@ XII.- Organizar programas en materia comercial y productiva que propicien la col
 
 ### CAPÍTULO I. De la Instalación del Ayuntamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 131.
 
-Para la instalación del Ayuntamiento, los Regidores y Síndico tanto del Ayuntamiento en funciones como del electo, se reunirán el día 31 de diciembre del año de la elección en el local y hora que determine el Ayuntamiento en funciones, en Sesión Solemne que se desarrollará conforme al siguiente procedimiento:
+Para la instalación del Ayuntamiento, los Regidores y Síndico tanto del Ayuntamiento en funciones como del electo, se reunirán dentro de las setenta y dos horas anteriores al inicio del periodo constitucional correspondiente, en el local y hora que determine el Ayuntamiento en funciones, en Sesión Solemne que se desarrollará conforme al siguiente procedimiento:
 
 I.- El Secretario del Ayuntamiento en funciones, dará lectura a la lista de Regidores y Síndico que hayan resultado electos y comprobado que se tiene el quórum legal, dará lectura a las constancias de mayoría y, en su caso, a los puntos resolutivos de las sentencias judiciales relativas al proceso electoral municipal y finalizando, dará inicio a la Sesión con los honores a la bandera;
 
@@ -1597,15 +1601,23 @@ Dirá entonces el Presidente Municipal: "Si así no lo hicieren que el Municipio
 
 Los Regidores y Síndico que no hubieren asistido a esta Sesión deberán rendir la protesta en la primera Sesión que convoque el Cabildo;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
 IV.- Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
 
-El Ayuntamiento del Municipio de Calvillo, Ags.; se declara constituido del 1º de enero de... al 31 de diciembre de...
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
+
+El Ayuntamiento del Municipio de Calvillo, Ags.; se declara legalmente instalado para el periodo constitucional del 15 de octubre de 2019 al 14 de octubre de 2021.
 
 V.- Luego de la protesta el Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Municipal;
 
 VI.- Para finalizar se entona el himno nacional mexicano; y
 
 VII.- Concluido el himno, el Secretario levantará la Sesión, citando para el día siguiente, a la primera Sesión oficial del Ayuntamiento entrante.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+Las protestas que refieren las fracciones II y III surtirán sus efectos de manera inmediata al momento en que inicie el ejercicio del período constitucional del Ayuntamiento entrante.
 
 ###### Artículo 132.
 
@@ -2491,7 +2503,7 @@ Los titulares de las dependencias ejercerán la competencia correspondiente a su
 
 ### CAPÍTULO II. De las Dependencias de la Administración Pública Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 304.
 
@@ -2499,35 +2511,29 @@ Para el estudio, planeación y despacho de los asuntos de su competencia, la Pre
 
 I.- Secretaría de Gobernación y del H. Ayuntamiento;
 
-II.- Secretaría del (sic) Finanzas y Administración;
+II.- Secretaría de Finanzas y Administración;
 
-III.- Secretaría de Contraloría Interna;
+III.- Órgano Interno de Control;
 
 IV.- Secretaría de Seguridad Pública y Vialidad;
 
-V.- (DEROGADA, P.O. 21 DE ABRIL DE 2014)
+V.- Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente,
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2017)</small>
+VI.- Secretaría de Servicios Públicos;
 
-VI.- Secretaría de Obras Públicas y Desarrollo Urbano;
+VII.- Secretaría de Desarrollo Social;
 
-VII.- Secretaría de Servicios Públicos;
+VIII.- Secretaría de Desarrollo Económico y Rural,
 
-VIII.- Secretaría de Desarrollo Social;
+IX.- Secretaría de Turismo y Cultura;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2015)</small>
+X. Secretaría de Desarrollo Integral de la Familia;
 
-IX.- Secretaría de Desarrollo Económico, Turismo y Rural,
+XI.- Secretaría Particular;
 
-X.- (DEROGADA, P.O. 19 DE ENERO DE 2015)
+XII.- Secretaría de Comunicación Social e Imagen Institucional;
 
-XI.- Secretaría de Desarrollo Integral de la Familia; y
-
-XII.- Secretaría Particular.
-
-XIII.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
-
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+XIII.- Secretaría Ejecutiva;
 
 XIV.- Instituto Municipal de Planeación
 
@@ -2555,15 +2561,15 @@ Los Manuales de Organización y Procedimientos, una vez publicados, imponen carg
 
 Los Manuales de Organización y Procedimientos serán elaborados por cada dependencia o en su caso, elaborados por la Secretaría encargada del ámbito administrativo interno municipal, de conformidad a los lineamientos de la dependencia correspondiente y aprobados en todo caso por el titular de la Secretaría respectiva o del organismo descentralizado correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 311.
 
 Las dependencias de la Administración Pública Municipal contarán con las siguientes Unidades Administrativas:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-I. Secretaría de Gobernación y del Ayuntamiento:
+I. Secretaría de Gobernación y del Ayuntamiento
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -2579,9 +2585,7 @@ c). Departamento de Reglamentos y Control Sanitario,
 
 d). (DEROGADO, P.O. 19 DE ENERO DE 2015)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
-
-e) Departamento de Atención al Migrante, Hermanamientos y Asuntos Internacionales;
+e). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -2595,9 +2599,9 @@ g). Departamento de Archivo General de Gobierno; y
 
 h). Departamento de Jueces Calificadores.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-II. Secretaría de Finanzas y Administración:
+II. Secretaría de Finanzas y Administración
 
 a). Departamento de Contabilidad,
 
@@ -2608,6 +2612,10 @@ c). Departamento de Recursos Materiales y Control Patrimonial,
 d). Departamento de Recursos Humanos, y
 
 e). Departamento de Ejecución, Apremios e Inspección Fiscal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+f).- Departamento de Recaudación de la Propiedad Raíz.
 
 > <small>(REFORMADA, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -2659,9 +2667,9 @@ b). Dirección Administrativa,
 
 2). Departamento de Prevención del Delito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-V. Secretaría de Obras Públicas y Desarrollo Urbano:
+V. Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -2677,15 +2685,23 @@ a). Dirección de Obras Públicas,
 
 5). Departamento de Parque de Maquinaria.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-b). Dirección de Desarrollo Urbano,
+b). Dirección de Desarrollo Urbano.
 
 1). Departamento de Desarrollo Urbano e Imagen Urbana,
 
-2). Departamento de Gestión Ambiental, y
+2). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
 3). Departamento Jurídico Administrativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+c). Dirección de Medio Ambiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+1). Departamento de Gestión Ambiental
 
 > <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -2701,9 +2717,9 @@ d). Departamento de Administración y Mantenimiento de Edificios, y
 
 e). Departamento del Rastro Municipal.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-VII. Secretaría de Desarrollo Social:
+VII. Secretaría de Desarrollo Social
 
 a). Departamento de Desarrollo Social,
 
@@ -2719,9 +2735,13 @@ d). Departamento de Coordinación de la Juventud de Calvillo (COJUCA).
 
 e). Departamento de Coordinación Educativa.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 17 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
-VIII. Secretaría de Desarrollo Económico y Rural:
+f). Departamento de Atención al Migrante.
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
+VIII. Secretaría de Desarrollo Económico y Rural
 
 1). Unidad Regional Calvillo del Servicio Nacional de Empleo;
 
@@ -2731,31 +2751,37 @@ VIII. Secretaría de Desarrollo Económico y Rural:
 
 4). Fomento Artesanal.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
-IX. Secretaría de Desarrollo Rural:
+e).(sic) Departamento de Desarrollo Agropecuario y
 
-a). Departamento de Desarrollo Agropecuario, y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
-b). Departamento de Proyectos Productivos.
+f). Departamento de Proyectos Productivos.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+IX. (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
+
+a) (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
+
+b) (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 X. Secretaría Particular:
 
-a). Departamento de Comunicación Social e Imagen Institucional,
+a). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
 b). Departamento de Relaciones Públicas,
 
 c). Departamento de Gestión Social,
 
-d). Departamento de Giras y Eventos, y
+d). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
-e). Departamento de Coordinación con Autoridades Auxiliares.
+e). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-XI. Secretaría para el Desarrollo Integral de la Familia;
+XI. Secretaría para el Desarrollo Integral de la Familia
 
 a). Departamento de Programas Alimenticios,
 
@@ -2764,6 +2790,10 @@ b). Departamento de Rehabilitación Física y Psicología,
 c). Departamento Jurídico de la Defensa del Menor y la Familia, y
 
 d). Departamento de Coordinación del INAPAM; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+e). Departamento de Centros de Desarrollo Comunitarios
 
 XII. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
@@ -2790,6 +2820,30 @@ XIV. Secretaría de Turismo y Cultura:
 3). Departamento de Cultura;
 
 4). Departamento de Proyectos y Promoción de Destino.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XV. Secretaría de Comunicación Social e Imagen Institucional
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+a). Departamento de Comunicación Social,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+b). Departamento de Giras y Eventos,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+c). Departamento de Imagen Institucional
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SU INCISO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XVI.- Secretaría Ejecutiva
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+a). Departamento de coordinación con autoridades auxiliares.
 
 ###### Artículo 312.
 
@@ -3067,11 +3121,11 @@ XLV.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupu
 
 XLVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 327.
 
-Corresponde a la Coordinación de Comunicación Social:
+Corresponde a la Secretaría de Comunicación Social e Imagen Institucional:
 
 I.- Dirigir la comunicación social del Gobierno Municipal;
 
@@ -3093,27 +3147,27 @@ IX.- Organizar las conferencias que a los medios de comunicación ofrezcan el H.
 
 X.- Presentar al Presidente Municipal los planes de trabajo, presupuesto y evaluaciones relativos a sus funciones;
 
-XI.- Establecer la clasificación de la información que no pueda brindarse al público en general por considerarse reservada;
+XI.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
-XII.- Mantener actualizada la página web del Municipio, con la información que debe presentarse de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado;
+XII.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
-XIII.- Establecer sistemas para la recepción de las audiencias del Presidente Municipal;
+XIII.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
 XIV.- Definir y diseñar métodos y formatos para la recepción de quejas, denuncias y opiniones de la ciudadanía respecto de la Administración Pública Municipal;
 
-XV.- Organizar la realización de los miércoles ciudadanos, sábados por tu comunidad y domingos comunitarios;
+XV.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
-XVI.- Proponer el establecimiento de módulos de información al público respecto a los diversos servicios que presta la Presidencia Municipal;
+XVI.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
-XVII.- Coordinar, conjuntamente con la Secretaría de la Contraloría Interna, la oficina de transparencia y acceso a la información pública de la Presidencia Municipal;
+XVII.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
-XVIII.- Servir de enlace entre la ciudadanía, la Presidencia Municipal y las Dependencias o Entidades del Gobierno Federal o Estatal que operen en el Municipio;
+XVIII.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
 XIX.- Proponer al Presidente Municipal el programa anual de giras y eventos públicos;
 
 XX.- Proveer de todos los requerimientos técnicos y estratégicos necesarios para que la realización de los eventos públicos que realice el Presidente Municipal se lleve a cabo con sumo decoro y calidad;
 
-XXI.- Establecer sistemas de captación de demandas populares en las giras que realice el Presidente Municipal y dar seguimiento a las mismas;
+XXI.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
 XXII.- Verificar los itinerarios y recorridos de las giras que realice el Presidente por las Comunidades del Municipio;
 
@@ -3397,7 +3451,7 @@ XXXVI.- Entregar la información requerida por el IMPLAN para realizar las Evalu
 
 #### SECCIÓN QUINTA. De la Secretaría de Planeación y Desarrollo Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 331.
 
@@ -3411,7 +3465,7 @@ II.- (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
 III.- Proponer la elaboración de los programas y esquemas de desarrollo urbano de la cabecera y comunidades de Calvillo; así como los esquemas en materia de desarrollo urbano y reservas territoriales para presentarlos al Ayuntamiento a través del Presidente Municipal;
 
-IV.- Aplicar las normas jurídicas de contenido ecológico y de preservación, cuidado, vigilancia y control del medio ambiente municipales;
+IV.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
 V.- Preparar los proyectos de programas y esquemas en materia de desarrollo urbano para presentarlos al Ayuntamiento a través del Presidente Municipal;
 
@@ -3463,11 +3517,11 @@ XXVIII.- Expedir normas técnicas complementarias para el debido cumplimiento en
 
 XXIX.- Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal;
 
-XXX.- Realizar acciones tendientes a la educación ambiental en el Municipio, en su caso, en colaboración con las instituciones educativas y culturales;
+XXX.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
-XXXI.- Fomentar las acciones tendientes a un adecuado aprovechamiento de los recursos naturales en el Municipio, buscando en todo el desarrollo municipal sustentable;
+XXXI.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
-XXXII.- Promover campañas de reciclaje ecológico y de limpieza de ríos y afluentes y demás lugares afectados por basuras o desechos; y
+XXXII.- (DEROGADA, P.O. 21 DE OCTUBRE DE 2019)
 
 XXXIII.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
@@ -3478,6 +3532,26 @@ XXXV (SIC).- Designar un enlace ante el IMPLAN para llevar a cabo los Programas 
 > <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
 
 XXXVI.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+Artículo 331 BIS.- Corresponde a la Dirección de Medio Ambiente:
+
+I.- Aplicar las normas jurídicas de contenido ecológico y de preservación, cuidado, vigilancia y control del medio ambiente municipales;
+
+II.- Realizar acciones tendientes a la educación ambiental en el Municipio, en su caso, en colaboración con las instituciones educativas y culturales;
+
+III.- Fomentar las acciones tendientes a un adecuado aprovechamiento de los recursos naturales en el Municipio, buscando en todo el desarrollo municipal sustentable;
+
+IV.- La administración, planeación y control del Centro de Estudios Medio Ambiental (CEMA);
+
+V.- Promover campañas de reciclaje ecológico y de limpieza de ríos y afluentes y demás lugares afectados por basuras o desechos;
+
+VI.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal;
+
+VII.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia; y
+
+VIII.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 #### SECCIÓN SEXTA. De la Secretaría de Obras Públicas
 
@@ -3851,7 +3925,7 @@ XXIV.- Entregar la información requerida por el IMPLAN para reali.tar las Evalu
 
 #### SECCIÓN DÉCIMA SEGUNDA. De la Secretaría Particular
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 338.
 
@@ -3877,19 +3951,41 @@ IX.- Estar al pendiente de las condiciones de seguridad e higiene de las áreas 
 
 X.- Apoyar al Presidente Municipal en el desarrollo de sus funciones; y
 
-XI.- Las demás que el Presidente Municipal le encomiende.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2017)</small>
+XI.- Establecer sistemas para la recepción de las audiencias del Presidente Municipal;
 
-XII.- Entregar la información requerida por el IMPLAN
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+XII.- Organizar la realización del día ciudadano que tenga a bien señalar el Presidente Municipal;
 
-XIII.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2018)</small>
+XIII.- Proponer el establecimiento de módulos de información al público respecto a los diversos servicios que presta la Presidencia Municipal;
 
-XIV.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XIV.- Coordinar, conjuntamente con el Órgano Interno de Control, la oficina de transparencia y acceso a la información pública de la Presidencia Municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XV.- Establecer sistemas de captación de demandas populares en las giras que realice el Presidente Municipal y dar seguimiento a las mismas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XVI.- Las demás que el Presidente Municipal le encomiende.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XVII.- Entregar la información requerida por el IMPLAN
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XVIII.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XIX.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 ###### ARTÍCULO 339.
 
@@ -3927,13 +4023,37 @@ XI.- Las demás que el Presidente Municipal le encomiende.
 
 XII.- Entregar la información requerida por el IMPLAN
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA (SIC). De la Secretaría Ejecutiva
+#### SECCIÓN DÉCIMA TERCERA.. De la Secretaría Ejecutiva
 
-###### Artículo 340 Bis.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
-(DEROGADO, P.O. 15 DE MAYO DE 2017)
+Artículo 340 BIS.- Corresponde a la Secretaría Ejecutiva:
+
+I.- Fungir como enlace bajo la supervisión del Presidente Municipal, para asegurar una adecuada vinculación de las dependencias y organismos de la Administración Pública Municipal con los diferentes niveles y poderes de gobierno, así como con las diversas instituciones y organizaciones de la sociedad en general;
+
+II.- Establecer los mecanismos necesarios para el seguimiento y cumplimiento de los acuerdos entre el Presidente Municipal y los Titulares de las Dependencias y Organismos de la Administración Pública Municipal;
+
+III.- Coordinar la organización de los trabajos de las Dependencias y Organismos de la Administración Pública Municipal en gabinetes temáticos para garantizar la eficiencia de la Administración Pública Municipal;
+
+IV.- Coordinar los servicios de asesoría y consultoría al Presidente Municipal;
+
+V.- Realizar análisis, estudios y encuestas en materia de opinión pública y documentar los resultados y datos estadísticos, así como coordinar la elaboración de otro tipo de estudios pertinentes para la innovación y mejora de la gestión pública y el desempeño gubernamentales;
+
+VI.- Coordinar las acciones con los Titulares de las Dependencias y Organismos de la Administración Pública Municipal para integrar y elaborar los documentos relacionados con los informes de Gobierno;
+
+VII.- Llevar a cabo la coordinación con la Secretaría Particular del Presidente Municipal para el diseño, seguimiento y evaluación de la agenda, así como para establecer las bases para la integración y contenido de las giras del Presidente Municipal;
+
+VIII.- Llevar a cabo la coordinación con la Secretaría de Comunicación Social e Imagen Institucional para la definición, seguimiento y evaluación de las políticas de difusión institucional;
+
+IX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal;
+
+X.- Servir de enlace entre la ciudadanía, la Presidencia Municipal y las Dependencias o Entidades del Gobierno Federal o Estatal que operen en el Municipio;
+
+XI.- Designar un enlace ante el IMPLAN para llevar a cabo los Programas Presupuestarios (Pp) en base a la Metodología del Marco Lógico (MML) del Presupuesto Basado en Resultados (PBR) y Sistemas de Evaluación del Desempeño (SED), en los términos de los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos; 80 de la Ley General de Contabilidad Gubernamental y demás Leyes aplicables a la materia; y
+
+XII.- Entregar la información requerida por el IMPLAN para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
 
 > <small>(ADICIONADO, P.O. 15 DE MAYO DE 2017)</small>
 
@@ -6059,9 +6179,11 @@ El Ayuntamiento en funciones, de conformidad a sus disponibilidades de recursos 
 
 La partida de transición se entregará médiate (sic) las ministraciones que el Ayuntamiento determine, aplicándose a una cuenta bancaria de cheques que el Presidente Municipal electo abra a nombre de "Municipio de Calvillo, Gobierno Municipal ---/---"(expresión de los años que integran el periodo de gobierno), mediante cheque o transferencia electrónica de fondos a nombre de igual beneficiario y se justificará, para efectos de cuenta pública por el Ayuntamiento saliente, con el recibo que firme el Presidente entrante.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 567.
 
-El ejercicio de la partida de transición será materia de rendición de cuentas con la cuenta pública del mes de enero del primer año del Gobierno Municipal para el que se asignó.
+El ejercicio de la partida de transición será materia de rendición de cuentas con la cuenta pública del mes de noviembre del primer año del Gobierno Municipal para el que se asignó.
 
 ###### Artículo 568.
 
@@ -24540,3 +24662,17 @@ Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del
 Artículo Tercero.- Las presentes adiciones y reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Cuarto.- Cúmplase.
+
+P.O. 21 DE OCTUBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO DE “REFORMAS AL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Segundo.- Todos los artículos del Código Municipal de Calvillo, Ags., que mencionan Secretaría de Contraloría Interna se refieren al Órgano Interno de Control.
+
+Artículo Tercero.- Todos los artículos del Código Municipal de Calvillo, Ags., que mencionan Secretaría de Obras Públicas, Secretaría de Obras Públicas y Desarrollo Urbano se refieren a la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente.
+
+Artículo Cuarto.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Quinto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Sexto.- Cúmplase.
