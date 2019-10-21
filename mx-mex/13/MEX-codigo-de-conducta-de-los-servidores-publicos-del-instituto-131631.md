@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-los-servidores-publicos-del-instituto-131
 country: "mx"
 rank: "codigo"
 publication_date: "2018-10-29"
-last_updated: "2018-10-29"
+last_updated: "2019-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL INSTITUTO HACENDARIO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 21 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2019 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 29 de octubre de 2018.
 
@@ -1315,3 +1317,15 @@ Vocal Suplente (RÚBRICA).
 Dr. Alfredo Carlos Victoria Marín
 
 Titular del Órgano Interno de Control (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO HACENDARIO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquense (sic) el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Código de Conducta de los Servidores Públicos del Instituto Hacendario del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha 28 de octubre de 2018.
