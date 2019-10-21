@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2019-10-14"
+last_updated: "2019-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -55,13 +53,17 @@ El presente Código lo constituyen el conjunto de normas expedidas por el Ayunta
 
 El Municipio de Aguascalientes está conformado por fraccionamientos, colonias, condominios, comunidades, poblados y rancherías que se ubican dentro de su territorio y se organizan políticamente en Delegaciones y Comisarías. Quedan obligados al cumplimiento y observancia del presente Código, sin distinción, todas y todos los habitantes que conformen la población del Municipio de Aguascalientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 3°.
+###### ARTÍCULO 3°.
 
-El territorio del Municipio de Aguascalientes se divide en diez Delegaciones y Zona Centro, mismos que deberán contar con la aprobación del Cabildo. La denominación y conformación de las Delegaciones, así como la integración de la Zona Centro será determinada por el Instituto Municipal de Planeación de Aguascalientes, debiendo mantenerlo permanentemente actualizado y publicarlo de manera trimestral.
+El territorio del Municipio de Aguascalientes se divide en 16 Delegaciones Municipales, de las cuales 12 son urbanas y 4 rurales.
 
-> <small>(DEROGADOS SEGUNDO, TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO PÁRRAFOS, P.O. 20 DE MARZO DE 2017)</small>
+La asignación, denominación, conformación territorial de las Delegaciones Municipales y sus actualizaciones, serán determinadas por el Instituto Municipal de Planeación de Aguascalientes atendiendo a los criterios de Equilibrio Poblacional, Compacidad Geométrica, Tiempos de Traslado, Socioeconómicos y Geográficos.
+
+La Secretaría del H. Ayuntamiento y Dirección General de Gobierno será la encargada de llevar a cabo su publicación en el Periódico Oficial del Estado para su vigencia.
+
+La información sobre la conformación territorial de las delegaciones deberá ser pública y estar disponible en el propio Instituto.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2012)</small>
 
@@ -1891,35 +1893,33 @@ Dirección de Turismo Municipal.
 
 Departamento de Turismo en tu Barrio.
 
-> <small>[N. DE E. DEL ANÁLISIS AL PROYECTO DE REFORMA PUBLICADO EN EL P.O. 20 DE MARZO DE 2017, SE ADVIERTE QUE LA PRESENTE FRACCIÓN SE MODIFICÓ DE FORMA SUSTANCIAL EN SU ESTRUCTURA Y CONTENIDO]</small>
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2017)</small>
+XIX. COORDINACIÓN GENERAL DE DELEGACIONES URBANAS Y RURALES
 
-XIX.- COORDINACIÓN GENERAL DE DELEGACIONES URBANAS Y RURALES
+DIRECCIÓN DE ENLACE OPERATIVO
+
+Departamento Jurídico.
+
+Departamento de Desarrollo Rural.
 
 DELEGACIONES URBANAS:
 
 Delegado.
 
-Departamento de Servicios Públicos.
+- Departamento de Servicios Públicos y Desarrollo Urbano.
 
-Departamento de Desarrollo Urbano y Obras Públicas
+- Departamento de Desarrollo Social.
 
-Departamento de Desarrollo Social
-
-DELEGACIONES URBANAS-RURALES:
+DELEGACIONES RURALES:
 
 Delegado.
 
-Departamento de Servicios Públicos.
+- Departamento de Servicios Públicos y Desarrollo Urbano.
 
-Departamento de Desarrollo Urbano y Obras Públicas
+- Departamento de Desarrollo Social.
 
-Departamento de Desarrollo Social
-
-Comisarios Municipales
-
-Dirección de Desarrollo Rural.
+- Comisarios Municipales.
 
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -2313,55 +2313,65 @@ APARTADO SEXTO-BIS
 
 Coordinación General De Delegaciones Urbanas Y Rurales
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-###### ARTÍCULO 105
+ARTÍCULO 105 BIS. Corresponde al Coordinador General de Delegaciones, así como a los Delegados Municipales lo siguiente:
 
-BIS.- Corresponde a la Coordinación General de Delegaciones Urbanas y Rurales, por conducto de su titular, lo siguiente:
+Al Coordinador General de Delegaciones
 
-I. Acordar con el Presidente Municipal, el despacho de los asuntos que le corresponden.
+I. Acordar con el Presidente Municipal, el despacho de los asuntos que le corresponden;
 
-II. Rendir informe de las actividades desempeñadas al Presidente Municipal, al Regidor o Síndico del ramo, cuando así se le requiera.
+II. Rendir informe de las actividades desempeñadas al Presidente Municipal, al Regidor o Síndico del ramo, cuando así se le requiera;
 
-III. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados.
+III. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes;
 
-IV. Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de sus respectivas áreas, con las unidades administrativas correspondientes con la finalidad de mejorar la calidad de vida de los habitantes.
+IV. Formular y proponer al Presidente Municipal los proyectos de planes y programas que les correspondan;
 
-V. Formular y proponer al Presidente Municipal los proyectos de planes y programas que les correspondan.
+V. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población;
 
-VI. Proporcionar información y cooperación técnicas a las dependencias de la Administración Pública Municipal.
+VI. Participar con la Dirección de Tecnologías de la Información y Comunicación en la modernización y simplificación de los sistemas administrativos;
 
-VII. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población.
+VII. Llevar a cabo reuniones mensuales con los delegados municipales e incluir el rubro de reportes de violencia contra las mujeres en la demarcación y acciones para eliminarla;
 
-VIII. Participar con la Dirección de Tecnologías de la Información y Comunicación en la modernización y simplificación de los sistemas administrativos.
+VIII. Hacer recorridos, con cada uno de los delegados, en colonias y comunidades para hacer un diagnóstico y resolver la problemática del lugar en materia de violencia de género, en especial contra las mujeres, servicios públicos y apoyos en desarrollo humano, urbano y rural, en su caso canalizarlo a las dependencias correspondientes;
 
-IX. Cumplir con la normatividad que emita la Dirección de Tecnologías de la Información y Comunicación en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia.
+IX. Coadyuvar con las distintas Secretarías respecto a los reportes de las necesidades del servicio público, alumbrado, agua potable y demás servicios con que cuente o necesite la comunidad;
 
-X. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias de la Administración Pública Municipal organizadas en su jurisdicción.
+X. Llevar un registro general de los casos donde se presenten actos de violencia de género, en especial contra las mujeres, en especial de violencia en la familia y violencia comunitaria, con datos desagregados de género, edad, escolaridad, urbana, rural o comunitaria, orientación sexual, origen étnico;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+XI. Nombrar un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
 
-XI. Llevar a cabo reuniones mensuales con los comisarios municipales e incluir el rubro de reportes de violencia contra las mujeres en la demarcación y acciones para eliminarla;
+XII. Llevar a cabo reuniones con los comisarios municipales;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+XIII. Las demás que señale la ley o el H. Ayuntamiento.
 
-XII. Hacer recorridos en colonias y comunidades para hacer un diagnóstico y resolver la problemática del lugar en materia de violencia de género, en especial contra las mujeres, servicios públicos y apoyos en desarrollo humano, urbano y rural, en su caso canalizarlo a las dependencias correspondientes;
+A los Delegados Municipales.
 
-XIII. Dar seguimiento a reportes de las necesidades del servicio público, alumbrado, agua potable y demás servicios con que cuente o necesite la comunidad.
+I. Vigilar que se cumpla estrictamente con las disposiciones legales en todos los asuntos asignados;
 
-XIV. Apoyar a la ciudadanía canalizándola a diversas instancias como hospitales, Sistema D.I.F., Seguridad Pública, entre otras.
+II. Proporcionar información y cooperación técnicas a las dependencias y entidades de la Administración Pública Municipal;
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+III. Mantener permanente comunicación con la Dirección de Atención Ciudadana y demás dependencias y entidades municipales, a efecto de responder, atender y dar seguimiento a las demandas y necesidades de la población;
 
-XV. Llevar un registro de los casos donde se presenten actos de violencia de género, en especial contra las mujeres, en especial de violencia en la familia y violencia comunitaria, con datos desagregados de género, edad, escolaridad, urbana, rural o comunitaria, orientación sexual, origen étnico;
+IV. Cumplir con la normatividad que emita la Dirección de Tecnologías de la Información y Comunicación en materia de operación, mantenimiento, aplicación y administración de los sistemas de cómputo y en general, con las normas que emitan las dependencias municipales dentro de sus áreas de competencia;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+V. Asistir y brindar el apoyo necesario para los eventos y actividades de las dependencias y entidades de la Administración Pública Municipal que se lleven a cabo dentro de su delegación o donde se les requiera por la Coordinación;
 
-XVI. Nombrar un enlace de género para la debida coordinación de acciones con el Instituto Municipal de la Mujer de Aguascalientes;
+VI. Llevar a cabo reuniones con los comisarios municipales e incluir el rubro de reportes de violencia contra las mujeres en la demarcación y acciones para eliminarla;
 
-> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2015)</small>
+VII. Hacer recorridos en colonias y comunidades para hacer diagnóstico y resolver la problemática en desarrollo humano, urbano y rural, servicios públicos y apoyos, así como en materia de violencia de género, en especial contra las mujeres, y en su caso canalizarlo a las dependencias y entidades correspondientes;
 
-XVII. Las demás que señale la ley o el H. Ayuntamiento.
+VIII. Coadyuvar con las distintas Secretarías con respecto a los reportes de las necesidades de los servicios públicos que brinda el Ayuntamiento, así como llevar un registro con el estatus de estos;
+
+IX. Atender los reportes que le realicen los Comisarios, así como llevar un registro con el estatus de estos;
+
+X. Apoyar a la ciudadanía canalizándola a diversas instancias públicas para la debida atención de sus necesidades;
+
+XI. Llevar un registro de los casos donde se presenten actos de violencia de género, en especial contra las mujeres, en especial de violencia en la familia y violencia comunitaria, con datos desagregados de género, edad, escolaridad, urbana, rural o comunitaria, orientación sexual, origen étnico;
+
+XII. Rendir a la Coordinación de Delegaciones informes de actividades, así como de atención y seguimiento a los reportes y registros establecidos en el presente artículo;
+
+XIII. Las demás que señale la ley, la Coordinación o el H. Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -19049,6 +19059,10 @@ k) Los demás que determine y solicite la Dirección de Reglamentos, para el cum
 
 l) El cumplimiento a las condicionantes establecidas en la autorización que expida la SEMADESU.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+m) Los giros que tengan música viva o grabada deberán Presentar consentimiento por escrito de la Sociedad de Autores y Compositores de México, Sociedad de Gestión Colectiva de Interés Público, para usar, comunicar, ejecutar, explotar, trasmitir, reproducir, o de cualquier otra forma o modalidad de comunicar obras musicales que son protegidas por la Ley Federal del Derecho de Autor; y
+
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 La Dirección de Reglamentos, determinará los casos en que aplicará el inciso i); La Secretaría de Seguridad Pública Municipal determinará el número de integrantes operativos que se requieran para el evento en atención al aforo que se pretende. Reunidos los requisitos correspondientes, la autoridad municipal tendrá la facultad potestativa para otorgar o negar el permiso correspondiente.
@@ -19557,6 +19571,10 @@ Las salas de cine deberán contar con licencia vigente, y permitir la entrada de
 
 Se debe vigilar que no existan eventos de acoso verbal o físico de carácter sexual, que pudieren constituir falta administrativa o la comisión de algún delito, debiendo dar aviso de inmediato a la Secretaria de Seguridad Pública Municipal o Autoridad competente.
 
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2019)</small>
+
+Además, las salas de cine deberán presentar por escrito la Licencia - autorización expedida por la sociedad de autores y compositores que corresponda para usar, comunicar, ejecutar, explotar, trasmitir, retrasmitir, reproducir o de cualquier otra forma o modalidad de comunicar obras musicales que contengan las películas a exhibir conforme a la Ley Federal del Derecho de Autor.
+
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO VII], P.O. 4 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO XVI. De Las Personas que se Dediquen a La Venta de "Revistas y Periódicos en Estanquillos, Kioscos o Locales
@@ -19674,6 +19692,10 @@ IV. Dos fotografías tamaño infantil.
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2009)</small>
 
 V. Recibo de pago del derecho correspondiente expedido por la Secretaría de Finanzas Públicas Municipales, conforme a lo establecido en la Ley de Ingresos del Municipio de Aguascalientes para el ejercicio fiscal que corresponda en los términos de las políticas de descuento aplicables y que sean establecidas por el H. Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
+VI. Deberán presentar por escrito la Licencia - autorización expedida por la sociedad de autores y compositores que corresponda para usar, comunicar, ejecutar, explotar, trasmitir, retrasmitir, reproducir o de cualquier otra forma o modalidad de comunicar obras musicales que son protegidas por la Ley Federal del Derecho de Autor.
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
@@ -24672,3 +24694,17 @@ P.O. 30 DE SEPTIEMBRE DE 2019.
 PRIMERO: La presente reforma al artículo 15 fracción XVIII, artículo 605 Inciso E), artículo 606 fracción V, Artículo 614 adicionando el Inciso E), artículo 616 Inciso H), artículo 619, adición Del artículo 619 BIS, artículo 620 y artículo 621 del Código Municipal de Aguascalientes, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO: Se designaran 60 días naturales para la elaboración del Reglamento Interno y su Protocolo de Actuación.
+
+P.O. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL INCISO M) DEL ARTÍCULO 1312, LA ADICIÓN DE UN PÁRRAFO TERCERO AL ARTÍCULO 1336 Y LA ADICIÓN DE LA FRACCIÓN VI AL ARTÍCULO 1341 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO: La presente reforma al inciso m) del artículo 1312, la adición de un párrafo tercero al artículo 1336 y la adición de la fracción VI al artículo 1341 del Código Municipal de Aguascalientes, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS A LOS ARTÍCULOS 3°, 98 FRACCIÓN XIX Y 105 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO. Publíquese el presente ordenamiento en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Este ordenamiento entrará en vigor al día siguiente de su publicación.
