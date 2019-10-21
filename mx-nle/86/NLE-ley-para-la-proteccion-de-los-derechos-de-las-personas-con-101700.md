@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-1017
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2019-04-24"
+last_updated: "2019-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY PARA LA PROTECCION DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de julio de 2014.
 
@@ -69,7 +71,9 @@ IX. Deficiencia: Toda pérdida total o parcial, temporal o permanente o anormali
 
 X. Discapacidad Visual: La disminución o pérdida de la percepción y agudeza visual;
 
-XI. Discapacidad auditiva: La disminución o pérdida total de la capacidad auditiva;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
+XI.- Discapacidad auditiva: restricción en la función de percepción de los sonidos externos, alteración de los mecanismos de transmisión, transducción, conducción e integración del estímulo sonoro, que a su vez pueden limitar la capacidad de comunicación. La deficiencia abarca al oído pero también a las estructuras y funciones asociadas a él;
 
 XII. Discapacidad Motora: Las dificultades que se presentan para la organización del acto motor en el individuo;
 
@@ -355,7 +359,9 @@ Las violaciones a estos derechos en todos los lugares con acceso al público ser
 
 Las personas con discapacidad tienen derecho a servicios públicos para la atención de su salud y rehabilitación integral. Para estos efectos, las autoridades competentes en la materia, en su respectivo ámbito de competencia, realizarán las siguientes acciones:
 
-I. Diseñar, ejecutar y evaluar acciones para la orientación, prevención, detección, estimulación temprana, atención integral y rehabilitación para las diferentes discapacidades;
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+
+I.- Diseñar, ejecutar y evaluar acciones para la orientación, prevención, detección y estimulación temprana, atención integral y rehabilitación para las diferentes discapacidades;
 
 II. Crear centros responsables de la ejecución de las acciones señalados en la fracción anterior, las cuales se extenderá a las regiones rurales y comunidades indígenas del Estado, considerando los derechos humanos, dignidad, autonomía y necesidades de las personas con discapacidad;
 
@@ -1054,3 +1060,13 @@ P.O. 24 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 120. SE MODIFICAN LAS FRACCIONES XIII Y XVI, Y SE ADICIONAN (SIC) LA FRACCIÓN XV AL ARTÍCULO 5 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 165. SE REFORMA EL ARTÍCULO 24, EL PRIMER PÁRRAFO Y LAS FRACCIONES II, III, V, VI Y VII DEL ARTÍCULO 25, Y SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 25, TODOS DE LA LEY ESTATAL DE SALUD; Y SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 2, Y LA FRACCIÓN I DEL ARTÍCULO 15, AMBOS DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.
+
+Primero.- El presente Decreto entrará en vigor el día uno de enero de 2020.
+
+Segundo.- El presupuesto de Egresos del Estado de Nuevo León, para el ejercicio fiscal 2020, deberá contemplar las previsiones financieras necesarias para el cumplimiento del presente Decreto.
+
+Tercero.- El Estado y los Municipios de Nuevo León, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
