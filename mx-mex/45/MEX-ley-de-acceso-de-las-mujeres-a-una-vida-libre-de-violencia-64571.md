@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2019-09-05"
+last_updated: "2019-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MEX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE OCTUBRE DE 2019 EN LA G.O. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -219,11 +221,11 @@ II. Modificar los ordenamientos penales para establecer que cualquier persona qu
 
 Se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión, abuso de poder, provocando daño a la autoestima, salud, integridad, libertad y seguridad de la víctima, e impide el libre desarrollo de la personalidad atentando contra sus derechos humanos. Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el hostigamiento o el acoso sexual.
 
-> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 10.
 
-Constituye Violencia Laboral la negativa a contratar o a respetar su permanencia o condiciones generales de trabajo por la exigencia de pruebas sobre embarazo, imposición de requisitos sexistas en la forma de vestir, exclusión de género en ciertos cargos por la edad; igualmente lo constituye la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género. Prohibición para iniciar o continuar con actividades escolares o laborales.
+Constituye Violencia Laboral la negativa a contratar o a respetar su permanencia o condiciones generales de trabajo por la exigencia de pruebas sobre embarazo, imposición de requisitos sexistas en la forma de vestir, exclusión de género en ciertos cargos por la edad; igualmente lo constituye la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el hostigamiento y/o acoso sexual, la negativa o impedimento a las mujeres de llevar a cabo la lactancia materna previsto en la Ley Federal del Trabajo, y todo tipo de discriminación por condición de género. Prohibición para iniciar o continuar con actividades escolares o laborales.
 
 ###### Artículo 11.
 
@@ -561,7 +563,7 @@ V. Las demás establecidas en otras disposiciones legales.
 
 Son órdenes de protección preventivas las siguientes:
 
-l. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+I. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
 
 II. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
 
@@ -1768,3 +1770,11 @@ G.G. 5 DE SEPTIEMBRE DE 2019.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 88 POR EL QUE SE REFORMA EL ARTÍCULO 10 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
