@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2019-06-03"
+last_updated: "2019-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -233,13 +233,17 @@ d) Recibir de manera preferente, educación conforme lo señala el artículo 3°
 
 e) Participar en la vida cultural, deportiva y recreativa de su comunidad;
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-f) Participar en los procesos productivos, de educación y capacitación de su comunidad; y
+f) Participar en los procesos productivos, de educación y capacitación de su comunidad;
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2019)</small>
 
-g) Formar parte de los diversos órganos de representación y consulta ciudadana.
+g) Formar parte de los diversos órganos de representación y consulta ciudadana; y
+
+> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2019)</small>
+
+h) A recibir capacitación necesaria sobre el uso de las nuevas tecnologías de la información y comunicación.
 
 V. El trabajo, que comprende:
 
@@ -262,6 +266,16 @@ d) Recibir la protección de las disposiciones de la Ley Federal del Trabajo y d
 VI. Asistencia social, que incluye:
 
 a) Ser sujeto de programas de asistencia social cuando se encuentren en caso de desamparo, discapacidad o pérdida de sus medios de subsistencia.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE OCTUBRE DE 2019)</small>
+
+VII. Del acceso a los servicios, que comprende:
+
+a) A tener una atención preferente en los establecimientos públicos y privados que prestan servicios al público.
+
+b) Los servicios y establecimientos de uso público deberán implementar medidas para facilitar el uso y/o acceso adecuado.
+
+c) A contar con asientos preferentes en los establecimientos que prestan servicios al público, así como en los servicios de transporte público y de pasajeros en el Estado.
 
 ## TÍTULO TERCERO
 
@@ -1096,3 +1110,13 @@ P.O. 3 DE JUNIO DE 2019.
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los Municipios, que correspondan para dar cumplimiento al presente Decreto, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 168. SE REFORMAN LOS INCISOS F) Y G), Y POR ADICIÓN UN INCISO H) A LA FRACCIÓN IV; ASIMISMO SE ADICIONA UNA FRACCIÓN VII CON LOS INCISOS A), B), Y C), TODOS DEL ARTÍCULO 5 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrara en vigor el día uno de enero de 2020.
+
+Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los municipios que correspondan para dar cumplimiento al presente Decreto, se ajustarán en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+Tercero.- El Ejecutivo Estatal y los 51 municipios del Estado de Nuevo (sic) deberán de contar con las provisiones suficientes para cumplir gradualmente con este Decreto a partir del inicio de su vigencia y hasta antes de la conclusión del año 2022, de conformidad con el artículo 8° de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
