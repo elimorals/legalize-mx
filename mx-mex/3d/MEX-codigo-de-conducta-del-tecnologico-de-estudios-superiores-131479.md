@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-tecnologico-de-estudios-superiores-13147
 country: "mx"
 rank: "codigo"
 publication_date: "2018-10-26"
-last_updated: "2018-10-26"
+last_updated: "2019-10-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE COACALCO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE COACALCO, PUBLICADO EN LA G.G. DE 21 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE COACALCO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2019 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 26 de octubre de 2018.
 
@@ -312,3 +314,19 @@ Y para que conste, firma la presente a los ___ días del mes de _____ del 2018.
 Atentamente
 
 Firma y Nombre del Servidor Público
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 21 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE COACALCO”.]
+
+PRIMERO. Publíquese el presente Código De Conducta y Reglas de la (sic) Integridad en la Página Oficial del Tecnológico de Estudios Superiores de Coacalco (TESCo), y medios de comunicación interna, garantizando la difusión, conocimiento y apropiación del Código de Conducta y Reglas de Integridad.
+
+SEGUNDO. El presente Código de Conducta y Reglas de Integridad entrará en vigor al siguiente día hábil de su publicación.
+
+TERCERO. Se abroga el código de conducta del Tecnológico de Estudios Superiores de Coacalco (TESCo), publicado en fecha 26 de octubre de 2018, en el Periódico Oficial Gaceta del Gobierno.
+
+CUARTA. Los casos no previstos en este Código serán resueltos por el Comité de Ética del Tecnológico de Estudios Superiores de Coacalco, de acuerdo a la naturaleza de los mismos.
+
+QUINTA. La guía para la elaboración de los códigos de conducta y reglas de integridad de las dependencias y organismos auxiliares, del Estado de México, constituye el mecanismo de actualización para el Código de Conducta y Reglas de Integridad.
