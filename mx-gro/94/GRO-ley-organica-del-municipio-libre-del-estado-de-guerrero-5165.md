@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2019-09-24"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -505,37 +505,31 @@ Cada Municipio será administrado por un Ayuntamiento de elección popular direc
 
 El Ayuntamiento radicará en la Cabecera del Municipio respectivo. Sólo con la aprobación del Congreso del Estado y con causa justificada, podrá trasladarse a otro lugar dentro de los límites territoriales del Municipio.
 
-###### ARTÍCULO 29.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+###### ARTICULO 29.
 
 Los Ayuntamientos a propuesta de los Presidentes Municipales, nombrarán a los siguientes servidores públicos, sin perjuicio de la denominación o rango jerárquico que los propios Ayuntamientos establezcan:
 
-I. Secretario;
+I. Secretario General;
 
 II. Oficial Mayor o Jefe de la Administración;
 
 III. Tesorero;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
-
-IV. Jefe de Seguridad Pública, quien deberá reunir los requisitos previsto (sic) en la Ley de Seguridad Pública del Estado de Guerrero, además de ser previamente evaluado, capacitado y certificado por las estancias estatales competentes;
-
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+IV. Jefe de Seguridad Pública; quien deberá reunir los requisitos previstos en la Ley de Seguridad Pública del Estado de Guerrero, además de ser previamente evaluado, capacitado y certificado por las instancias estatales competentes.
 
 V. Jefe de Obras Públicas;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2010)</small>
+VI. Jefe de la Unidad de Atención a la Juventud;
 
-VI. Jefe de la unidad u oficina de atención de la juventud, y
+VII. Director (a) de Fomento al Empleo;
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+VIII. Director (a) Municipal de la Mujer;
 
-VII.- Dirección de Fomento al Empleo, y
+IX. Titular de la Unidad de Protección Civil, quien deberá contar con la certificación de competencia expedida por alguna de las instituciones registradas en la Escuela Nacional, de conformidad con la Ley General de Protección Civil, y
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
-
-VIII.- Al Director (a) Municipal de la Mujer;
-
-IX.- Demás servidores de nivel equivalente.
+X. Demás servidores de nivel equivalente.
 
 Los servidores públicos a que se refiere este artículo no podrán ser parientes de ningún edil hasta el cuarto grado por afinidad o consanguinidad.
 
@@ -815,17 +809,13 @@ El Gobernador del Estado podrá asistir a Sesiones de los Ayuntamientos y tomar 
 
 A las sesiones de los Ayuntamientos deberán comparecer los servidores de la administración municipal, sólo con voz informativa, cuando se traten asuntos de su competencia o fueren requeridos para ello para rendir informes o aportar datos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 59.
 
 La vigilancia de la administración municipal se distribuirá entre los regidores, conforme a los siguientes ramos:
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2007)</small>
-
-I. De Desarrollo Urbano y Obras Públicas.
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+I. De Desarrollo Urbano y Obras Públicas;
 
 II. De Educación y Juventud;
 
@@ -835,33 +825,19 @@ IV. De Salud Pública y Asistencia Social;
 
 V. De Desarrollo Rural;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
-
 VI. De Equidad y Género;
-
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2007)</small>
 
 VII. De Atención y Participación Social de Migrantes;
 
-(ADICIONADA, P.O. 23 DE MARZO DE 2007) (REFORMADA [N. DE E. REPUBLICADA, P.O. 27 DE ABRIL DE 2012)
-
 VIII. De Medio Ambiente y Recursos Naturales;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+IX. De Asuntos Indígenas;
 
-IX. De Asuntos indígenas, y
+X. De Fomento al Empleo;
 
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2011)</small>
+XI. De Cultura, Recreación y Espectáculos, y
 
-X. De fomento al empleo.
-
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2012)</small>
-
-X (SIC). De Cultura, Recreación y Espectáculos.
-
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2019)</small>
-
-XI. De los derechos de las Niñas, Niños y Adolescentes.
+XII. De los derechos de las Niñas, Niños y Adolescentes.
 
 ###### ARTICULO 60.
 
@@ -1037,7 +1013,7 @@ XVIII. Todas aquellas que faciliten y aseguren el mejor desempeño de sus tareas
 
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
-ARTICULO 63 bis.- Son facultades y obligaciones de los Ayuntamientos en materia de Medio Ambiente y Recursos Naturales, las siguientes:
+ARTICULO 63 BIS.- Son facultades y obligaciones de los Ayuntamientos en materia de Medio Ambiente y Recursos Naturales, las siguientes:
 
 I. Participar en la creación y administración de zonas de reservas ecológicas, de acuerdo con los programas de ordenamiento ecológico; vigilar el uso en cuanto al entorno ecológico en sus jurisdicciones territoriales de conformidad con el Plan de Ordenamiento Ecológico Territorial;
 
@@ -1061,7 +1037,25 @@ X. Elaborar, aprobar y publicar el Plan de Ordenamiento Ecológico Territorial;
 
 XI. En el ámbito de su competencia regular en beneficio social el aprovechamiento de los elementos naturales susceptibles de apropiación con objeto de hacer una distribución equitativa de la riqueza pública y cuidar de su conservación logrando el desarrollo equilibrado del municipio;
 
-XII. Todas aquellas que en el ámbito de su competencia faciliten y aseguren el mejor desempeño de sus tareas relacionadas con la conservación, protección, preservación, mejoramiento, instauración o restauración del ambiente para evitar el deterioro e impacto ambiental y para coordinar la política ecológica municipal.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XII. Todas aquellas que en el ámbito de su competencia faciliten y aseguren el mejor desempeño de sus tareas relacionadas con la conservación, protección, preservación, mejoramiento, instauración o restauración del ambiente para evitar el deterioro e impacto ambiental y para coordinar la política ecológica municipal;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XIII. Ejercer las atribuciones que le competen en materia forestal establecidas en la ley general y estatal de desarrollo forestal sustentable;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XIV. Establecer los mecanismos de planificación, en coordinación con los gobiernos estatal y federal, para la programación del manejo (sic) fuego y de sus recursos forestales;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XV. Conformar brigadas para la vigilancia, prevención y combate de incendios forestales originados en sus demarcaciones territoriales, debidamente equipadas, entrenadas y capacitadas, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XVI. Todas aquellas que faciliten y aseguren el desempeño de sus funciones.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2019)</small>
 
@@ -1195,7 +1189,7 @@ I. Colaborar al incremento de la producción agrícola y ganadera, así como a l
 
 II. Establecer con las autoridades correspondientes programas para combatir el robo de productos agrícolas y el abigeato;
 
-III. Colaborar con las autoridades correspondientes en la vigilancia de los recursos forestales evitando la tala sin autorización y previniendo la destrucción forestal y los incendios;
+III. (DEROGADA, P.O. 22 DE OCTUBRE DE 2019)
 
 IV. Promover con la colaboración de las autoridades estatales en la implementación de programas de desarrollo rural Integral;
 
@@ -1207,7 +1201,7 @@ VI. Apoyar los trabajos de rehabilitación de Distritos de Riego y establecer si
 
 VII. Ejercer las facultades que le confiere la Ley Ganadera y en particular las que conciernen al fomento, mejoramiento, desarrollo y protección de las actividades pecuarias;
 
-VIII. Ejercer las atribuciones que le competen en materia forestal y en particular las que tiendan a evitar la tala inmoderada y la prevención y atención de incendios y devastación forestales;
+VIII. (DEROGADA, P.O. 22 DE OCTUBRE DE 2019)
 
 IX. Coadyuvar con las autoridades federales y estatales en los programas de desarrollo, protección y cuidado de la riqueza pesquera;
 
@@ -2047,9 +2041,37 @@ VIII.- Ser el enlace con los distintos órganos de gobierno y dependencias que t
 
 IX.- Las demás que le confieran el reglamento interno respectivo y otras disposiciones legales aplicables.
 
-### CAPITULO IV. DE LAS COMISIONES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-### CAPITULO V. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPITULO III BIS 3. DE LA UNIDAD DE PROTECCION CIVIL
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 109 BIS 3.- La Unidad de Protección Civil es el órgano dependiente del Ayuntamiento, responsable, en el ámbito de sus atribuciones, de elaborar, proponer, presupuestar, instrumentar y ejecutar el programa municipal y sus subprogramas de protección civil. Para tal efecto, coordinará sus acciones con las dependencias, instituciones y organismos de los sectores público, social y privado, con los grupos voluntarios y con la población en general, en cumplimiento a los acuerdos y resoluciones que emitan las autoridades competentes.
+
+Además de las atribuciones conferidas a los titulares de la Unidad de Protección Civil en la Ley de Protección Civil del Estado de Guerrero, la Unidad tendrá las atribuciones siguientes:
+
+I. Elaborar y proponer, al Presidente del Consejo Municipal, el Programa Municipal, así como los subprogramas, planes y programas especiales;
+
+II. Informar al Presidente del Consejo Municipal, para que este a su vez, difunda oportunamente a la población sobre la probable existencia de una situación de riesgo, alto riesgo, emergencia, siniestro o desastre, a efecto de tomar las medidas de protección civil adecuadas;
+
+III. Proponer, coordinar y ejecutar las acciones de auxilio y recuperación para hacer frente a las consecuencias de un riesgo, alto riesgo, emergencia o desastre, procurando el mantenimiento o pronto restablecimiento de los servicios públicos prioritarios en los lugares afectados;
+
+IV. Coordinarse con las autoridades federales y estatales, así como con instituciones y grupos voluntarios para prevenir y controlar las contingencias;
+
+V. Coadyuvar con el Consejo Municipal en la conducción y operación del Sistema Municipal;
+
+VI. Participar en el Centro Municipal de Operaciones;
+
+VII. Llevar un registro de las empresas establecidas en el municipio, con el fin de promover la integración de unidades internas de protección civil y vigilar su funcionamiento;
+
+VIII. Proponer la entrega de premios y estímulos a ciudadanos y ciudadanas u organizaciones gubernamentales, sociales, privados (sic) y grupos voluntarios que realicen acciones relevantes en materia de protección civil;
+
+IX. Fomentar la participación de los medios de comunicación, a fin de llevar a cabo campañas permanentes de difusión;
+
+X. Las demás que no estén reservadas por la Ley, al Estado o a la Federación.
+
+### CAPITULO IV. DE LAS COMISIONES
 
 ###### ARTICULO 110.
 
@@ -2067,7 +2089,7 @@ En cualquier tiempo el Ayuntamiento, a propuesta del Presidente, podrá designar
 
 Las comisiones someterán a la consideración del Ayuntamiento o del Presidente Municipal, según sea el caso, sus recomendaciones y acuerdos para que éstos dicten las medidas consecuentes.
 
-### CAPITULO VI. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPITULO V. DE LAS SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 114.
 
@@ -2087,7 +2109,7 @@ V. Indemnización al Ayuntamiento por los daños y perjuicios que se causen.
 
 Si el infractor a los reglamentos gubernativos y de policía fuere jornalero, obrero, campesino o indígena, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores asalariados la multa no excederá del equivalente a un día de su ingreso y tratándose de desempleados que no estuvieran dispuestos a pagar la multa, se les podrá conmutar hasta por dos días de trabajo comunitario a favor del Municipio.
 
-### CAPITULO I. DE LA HACIENDA MUNICIPAL
+### CAPITULO VI. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTICULO 116.
 
@@ -2147,7 +2169,7 @@ IV. Que no se causen daños y perjuicios a terceros a juicio del Ayuntamiento, a
 
 ## TITULO CUARTO. DEL PATRIMONIO MUNICIPAL
 
-### CAPITULO II. DEL CATALOGO DE INMUEBLES MUNICIPALES
+### CAPITULO I. DE LA HACIENDA MUNICIPAL
 
 ###### ARTICULO 123.
 
@@ -2221,7 +2243,7 @@ Todas las Secretarías, Direcciones, incluidas el Presidente Municipal, la Tesor
 
 El Ayuntamiento deberá establecer mecanismos que permitan la asignación equitativa, racional, eficiente, eficaz y transparente de los recursos públicos. Así como promover el desarrollo de estrategias de participación en la programación de sus presupuestos; de vigilancia y fiscalización de la gestión de los recursos públicos.
 
-### CAPITULO III. DEL INVENTARIO DE BIENES MUEBLES MUNICIPALES
+### CAPITULO II. DEL CATALOGO DE INMUEBLES MUNICIPALES
 
 ###### ARTICULO 131.
 
@@ -2265,7 +2287,7 @@ IX. Certificación de que el inmueble no tiene valor arqueológico, histórico o
 
 Las enajenaciones de bienes inmuebles propiedad de los Ayuntamientos, se efectuarán en subasta pública siguiendo el procedimiento que señala el Código de Procedimientos Civiles en vigor.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DEL INVENTARIO DE BIENES MUEBLES MUNICIPALES
 
 ###### ARTICULO 136.
 
@@ -2299,9 +2321,7 @@ VI.- Constancia en la que se especifique en qué será aplicado el recurso econ�
 
 ## TITULO QUINTO. DEL PRESUPUESTO Y GASTO PUBLICO MUNICIPAL
 
-### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 138.
 
@@ -2349,7 +2369,9 @@ ARTICULO 145 bis.- Cuando un servidor público municipal aplique los recursos fe
 
 Los servidores públicos municipales otorgarán los auxilios e información necesarios para la devolución de los recursos desviados y los correspondientes intereses legales, al personal de la Auditoría General del Estado, las Areas de Contraloría y Fiscalización y de las dependencias federales competentes que según las Leyes deban intervenir en estos asuntos.
 
-### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO MUNICIPAL
+### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2016)</small>
 
 ###### ARTICULO 146.
 
@@ -2399,7 +2421,7 @@ El Órgano de Control Interno Municipal, los Consejos Consultivos de Comisarios 
 
 El Presidente municipal, hará entrega a dichos cuerpos colegiados y al Órgano de Control Interno Municipal, la información necesaria para cumplir sus atribuciones establecidas en el párrafo que antecede, con cinco días de anticipación a la sesión donde vayan a ser aprobados.
 
-### CAPITULO IV. DE LA CONTABILIDAD MUNICIPAL
+### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO MUNICIPAL
 
 ###### ARTICULO 152.
 
@@ -2459,7 +2481,7 @@ Los Ayuntamientos no podrán otorgar garantías ni efectuar depósitos para el c
 
 Los Ayuntamientos están obligados a proporcionar a la Contraloría General del Estado, y a la Auditoría General del Estado, la información que se les solicite y permitir la práctica de visitas y auditorías para comprobar la correcta aplicación de los recursos provenientes del erario estatal y federal.
 
-### CAPITULO I. DEL DESARROLLO URBANO MUNICIPAL
+### CAPITULO IV. DE LA CONTABILIDAD MUNICIPAL
 
 ###### ARTICULO 165.
 
@@ -2485,11 +2507,7 @@ Los Ayuntamientos deberán remitir al Congreso del Estado, a través de la Audit
 
 ## TITULO SEXTO. DEL DESARROLLO MUNICIPAL
 
-### CAPITULO II
-
-DE LOS SERVICIOS PUBLICOS MUNICIPALES.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2003)</small>
+### CAPITULO I. DEL DESARROLLO URBANO MUNICIPAL
 
 ###### ARTICULO 170.
 
@@ -2547,7 +2565,11 @@ ARTICULO 175 D.- Cuando el estado físico de los inmuebles pueda provocar un da�
 
 Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias planearán y regularán de manera conjunta y coordinada, el desarrollo de dichos centros con apego a la Ley Federal de la materia.
 
-### CAPITULO III. DEL REGIMEN DE CONCESIONES
+### CAPITULO II
+
+DE LOS SERVICIOS PUBLICOS MUNICIPALES.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 177.
 
@@ -2609,7 +2631,7 @@ La construcción, operación, rehabilitación, mantenimiento y conservación de 
 
 Los Presidentes Municipales podrán convenir con los comisarios ejidales o de bienes comunales que el impuesto predial que cubran los núcleos ejidales se apliquen a obras y servicios públicos de provecho para sus miembros.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DEL REGIMEN DE CONCESIONES
 
 ###### ARTICULO 187.
 
@@ -2691,7 +2713,7 @@ Cuando se resuelva la cancelación u opere la caducidad de las concesiones, los 
 
 ## TITULO SEPTIMO. DE LOS ORGANOS AUXILIARES
 
-### CAPITULO II. DE LAS COMISARIAS Y DELEGACIONES MUNICIPALES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 196.
 
@@ -2731,7 +2753,7 @@ XII. Órgano de Control Interno Municipal.
 
 La presente Ley y otros ordenamientos establecerán los requisitos para la creación de estos órganos, y definirán su integración, facultades y responsabilidades.
 
-### CAPITULO III. DE LOS CONSEJOS CONSULTIVOS DE COMISARIOS MUNICIPALES
+### CAPITULO II. DE LAS COMISARIAS Y DELEGACIONES MUNICIPALES
 
 ###### ARTICULO 197.
 
@@ -2851,7 +2873,7 @@ ARTICULO 203 E.- Los Ayuntamientos deberán fijar las bases para la organizació
 
 ARTICULO 203 F.- El Presidente Municipal con base en lo acordado por el Ayuntamiento asignará a las Delegaciones los recursos humanos, financieros y materiales que sean indispensables para el eficiente ejercicio de las facultades delegadas y la atención oportuna de las necesidades populares conforme a criterios de descentralización, equilibrio territorial y disponibilidad.
 
-### CAPITULO IV. DE LOS CONSEJOS CONSULTIVOS DE CIUDADANOS DE LAS DELEGACIONES MUNICIPALES
+### CAPITULO III. DE LOS CONSEJOS CONSULTIVOS DE COMISARIOS MUNICIPALES
 
 ###### ARTICULO 204.
 
@@ -2875,7 +2897,7 @@ III. Presentar al Ayuntamiento sus propuestas para introducir mejoras en la admi
 
 Los Consejos Consultivos de Comisarios Municipales celebrarán sesiones ordinarias durante los meses de enero, mayo, agosto y octubre de cada año, asistiendo a las mismas los integrantes del Ayuntamiento.
 
-### CAPITULO V. DE LOS CONSEJOS CONSULTIVOS DE PRESIDENTES DE COMISARIADOS EJIDALES Y DE BIENES COMUNALES
+### CAPITULO IV. DE LOS CONSEJOS CONSULTIVOS DE CIUDADANOS DE LAS DELEGACIONES MUNICIPALES
 
 ###### ARTICULO 208.
 
@@ -2889,7 +2911,7 @@ El Consejo Consultivo de Ciudadanos de las Delegaciones Municipales estará pres
 
 Los Consejos Consultivos de Ciudadanos de las Delegaciones Municipales tendrán a su cargo opinar sobre los programas de obras públicas sobre la prestación de servicios públicos de interés para la Delegación, y fomentar la participación ciudadana.
 
-### CAPITULO VI. DE LOS CONSEJOS DE COLABORACION MUNICIPAL
+### CAPITULO V. DE LOS CONSEJOS CONSULTIVOS DE PRESIDENTES DE COMISARIADOS EJIDALES Y DE BIENES COMUNALES
 
 ###### ARTICULO 211.
 
@@ -2911,47 +2933,13 @@ III. Presentar al Ayuntamiento sus propuestas para introducir mejoras en la admi
 
 Los consejos a que se refiere este Capítulo celebrarán sesiones ordinarias durante los meses de enero, mayo, agosto y octubre de cada año, asistiendo a las mismas los integrantes del Ayuntamiento.
 
-### CAPITULO VII. DE LOS CONSEJOS CONSULTIVOS DE LA CIUDAD
+### CAPITULO VI. DE LOS CONSEJOS DE COLABORACION MUNICIPAL
 
 ###### ARTICULO 214.
 
 En cada Municipio funcionará uno o varios Consejos de colaboración municipal en los términos de la Ley que Establece las Bases para la Participación de la Comunidad y de la Ley de Desarrollo Urbano del Estado, para promover, cofinanciar y ejecutar obras públicas, o prestar conjuntamente servicios públicos.
 
-### CAPITULO VII BIS. DE LOS CONSEJOS DE PRESIDENTES DE COLONIAS
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
-
-ARTICULO 224 A.- En cada municipio el Ayuntamiento podrá contar con Consejos de Presidentes de Colonias, mismas que deberán ser a fines conforme a los indicadores urbanos y sociales, capacidad de pago, nivel de participación de sus vecinos, y localización territorial para agruparse para efectos del presente Capítulo.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
-
-ARTICULO 224 B.- Los Consejos de Presidentes de Colonias tendrán las siguientes atribuciones:
-
-I.- Conocer los programas de mejoramiento urbano y de mantenimiento preventivo y correctivo que se realicen en las colonias correspondientes;
-
-II.- Apoyar en la ejecución de obras de mejoramiento urbano a las autoridades municipales;
-
-III.- Formular recomendaciones a las autoridades competentes, respecto de la prestación de servicios públicos o la ejecución de obras de mejoramiento urbano;
-
-IV.- Promover la participación ciudadana para la ejecución de obras y la prestación de servicios públicos;
-
-V.- Coadyuvar a los programas del Consejo de Colaboración Municipal;
-
-VI.- Informar al Ayuntamiento de los acuerdos tomados en las sesiones del Consejo, y
-
-VII.- Las demás que sean necesarias para el ejercicio de las anteriores.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
-
-ARTICULO 224 C.- Cada Consejo se integrará por los Presidentes de las Colonias que para el efecto del presente Capítulo se hayan agrupado, uno de los cuales se elegirá Presidente del Consejo, el cual además de representar al Consejo convocará y presidirá las sesiones del mismo.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
-
-ARTICULO 224 D.- Cada Consejo celebrará sesiones ordinarias trimestrales a las que asistirá un representante del Ayuntamiento, preferentemente el servidor público responsable del área de desarrollo urbano y obras públicas.
-
-> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
-
-ARTICULO 224 E.- Cuando los asuntos a tratarse en las sesiones del Consejo estuviesen vinculados a las obras que realicen entidades o empresas públicas o privadas de servicios, se invitará a éstas a que designen un representante para asistir a las sesiones correspondientes.
+### CAPITULO VII. DE LOS CONSEJOS CONSULTIVOS DE LA CIUDAD
 
 ###### ARTICULO 215.
 
@@ -3013,9 +3001,43 @@ Los Ayuntamientos podrán otorgar reconocimientos a nivel municipal a personas f
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE JUNIO DE 1992)</small>
 
-### CAPITULO VIII. DE LOS CONSEJOS DE URBANISMO
+### CAPITULO VII BIS. DE LOS CONSEJOS DE PRESIDENTES DE COLONIAS
 
-### CAPITULO IX. DEL FONDO SOCIAL DE CREDITOS PARA OBRAS
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 224 A.- En cada municipio el Ayuntamiento podrá contar con Consejos de Presidentes de Colonias, mismas que deberán ser a fines conforme a los indicadores urbanos y sociales, capacidad de pago, nivel de participación de sus vecinos, y localización territorial para agruparse para efectos del presente Capítulo.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 224 B.- Los Consejos de Presidentes de Colonias tendrán las siguientes atribuciones:
+
+I.- Conocer los programas de mejoramiento urbano y de mantenimiento preventivo y correctivo que se realicen en las colonias correspondientes;
+
+II.- Apoyar en la ejecución de obras de mejoramiento urbano a las autoridades municipales;
+
+III.- Formular recomendaciones a las autoridades competentes, respecto de la prestación de servicios públicos o la ejecución de obras de mejoramiento urbano;
+
+IV.- Promover la participación ciudadana para la ejecución de obras y la prestación de servicios públicos;
+
+V.- Coadyuvar a los programas del Consejo de Colaboración Municipal;
+
+VI.- Informar al Ayuntamiento de los acuerdos tomados en las sesiones del Consejo, y
+
+VII.- Las demás que sean necesarias para el ejercicio de las anteriores.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 224 C.- Cada Consejo se integrará por los Presidentes de las Colonias que para el efecto del presente Capítulo se hayan agrupado, uno de los cuales se elegirá Presidente del Consejo, el cual además de representar al Consejo convocará y presidirá las sesiones del mismo.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 224 D.- Cada Consejo celebrará sesiones ordinarias trimestrales a las que asistirá un representante del Ayuntamiento, preferentemente el servidor público responsable del área de desarrollo urbano y obras públicas.
+
+> <small>(ADICIONADO, P.O. 9 DE JUNIO DE 1992)</small>
+
+ARTICULO 224 E.- Cuando los asuntos a tratarse en las sesiones del Consejo estuviesen vinculados a las obras que realicen entidades o empresas públicas o privadas de servicios, se invitará a éstas a que designen un representante para asistir a las sesiones correspondientes.
+
+### CAPITULO VIII. DE LOS CONSEJOS DE URBANISMO
 
 ###### ARTICULO 225.
 
@@ -3051,7 +3073,7 @@ El Consejo a que se refiere este Capítulo celebrará sesiones ordinarias bimens
 
 El Consejo de Urbanismo podrá establecer para la mejor atención de sus facultades comités de estudio y dictamen.
 
-### CAPITULO X. DEL CRONISTA MUNICIPAL
+### CAPITULO IX. DEL FONDO SOCIAL DE CREDITOS PARA OBRAS
 
 ###### ARTICULO 231.
 
@@ -3065,7 +3087,7 @@ Para la obtención de recursos para el fondo a que se refiere este capítulo, el
 
 El Organismo otorgará créditos con cargo al Fondo con sujeción a las reglas, condiciones, criterios y prioridades que aseguren la recuperación de los mismos y el logro de cometidos sociales.
 
-### CAPITULO XI. DE LOS COMITES DE DESARROLLO INDIGENISTA
+### CAPITULO X. DEL CRONISTA MUNICIPAL
 
 ###### ARTICULO 234.
 
@@ -3086,6 +3108,30 @@ Los Cronistas Municipales darán su opinión técnica sobre la pertinencia de qu
 ###### ARTICULO 238.
 
 En las Cabeceras Municipales y en las localidades que lo estimen necesario y conveniente el Ayuntamiento creará por acuerdo, el Consejo de Colaboración Municipal a que se refiere la Ley de Desarrollo Urbano, para la ejecución de obras y servicios públicos, designando con tal propósito a propuesta del Presidente Municipal, a los integrantes del mismo.
+
+### CAPITULO XI. DE LOS COMITES DE DESARROLLO INDIGENISTA
+
+###### ARTICULO 239.
+
+En los Municipios con alta densidad indígena se establecerán Comités del Desarrollo Indigenista con el propósito de lograr la armonía del etnodesarrollo municipal o regional.
+
+###### ARTICULO 240.
+
+Los Comités a que se refiere este capítulo coadyuvarán en las tareas que tienen encomendada la Procuraduría Social de la Montaña y el Instituto Nacional Indigenista y en general con los programas federales o estatales sobre desarrollo indigenista.
+
+###### ARTICULO 241.
+
+Los Comités de Desarrollo Indigenista tendrán las siguientes atribuciones:
+
+I. Promover la preservación cultural de las diferentes etnias existentes en el municipio.
+
+II. Promover el desarrollo económico, social y cultural de los grupos étnicos.
+
+III. Promover la correcta aplicación de las normas protectoras de los derechos de los indígenas y acudir a las instancias administrativas o judiciales correspondientes en caso de violación de estos, y
+
+IV. Promover la implantación de programas de alfabetización para adultos, de educación bilingüe, bicultural y de educación para los adultos en el medio indígena.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1993)</small>
 
 ### CAPITULO XII. DE LOS CENTROS MICROREGIONALES DE SERVICIOS PUBLICOS
 
@@ -3153,33 +3199,9 @@ XI.- Las demás que le sean afines a las anteriores.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2018)</small>
 
-###### ARTICULO 239.
-
-En los Municipios con alta densidad indígena se establecerán Comités del Desarrollo Indigenista con el propósito de lograr la armonía del etnodesarrollo municipal o regional.
-
-###### ARTICULO 240.
-
-Los Comités a que se refiere este capítulo coadyuvarán en las tareas que tienen encomendada la Procuraduría Social de la Montaña y el Instituto Nacional Indigenista y en general con los programas federales o estatales sobre desarrollo indigenista.
-
-###### ARTICULO 241.
-
-Los Comités de Desarrollo Indigenista tendrán las siguientes atribuciones:
-
-I. Promover la preservación cultural de las diferentes etnias existentes en el municipio.
-
-II. Promover el desarrollo económico, social y cultural de los grupos étnicos.
-
-III. Promover la correcta aplicación de las normas protectoras de los derechos de los indígenas y acudir a las instancias administrativas o judiciales correspondientes en caso de violación de estos, y
-
-IV. Promover la implantación de programas de alfabetización para adultos, de educación bilingüe, bicultural y de educación para los adultos en el medio indígena.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE FEBRERO DE 1993)</small>
-
 ### CAPITULO XIII. DEL ÓRGANO DE CONTROL INTERNO MUNICIPAL
 
 > <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2018)</small>
-
-### CAPITULO UNICO
 
 ###### ARTICULO 241-F.
 
@@ -3321,9 +3343,7 @@ Los procedimientos por responsabilidad administrativa se substanciarán conforme
 
 Y LOS AYUNTAMIENTOS
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+### CAPITULO UNICO
 
 ###### ARTICULO 247.
 
@@ -3377,7 +3397,7 @@ DE LOS ESTABLECIMIENTOS DE ESPECTACULOS Y DE CENTROS NOCTURNOS Y ANALOGOS EN MUN
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3407,7 +3427,7 @@ En esa clasificación se tendrá en cuenta las buenas costumbres en los término
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO III. DE LAS AUTORIZACIONES
+### CAPITULO II. DE LA DIRECCION DE ESPECTACULOS
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3453,9 +3473,7 @@ Los ayuntamientos reglamentarán sobre el tipo de uniforme, credenciales e ident
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO IV
-
-DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
+### CAPITULO III. DE LAS AUTORIZACIONES
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3485,7 +3503,9 @@ La Dirección de Espectáculos podrá autorizar la ampliación transitoria de lo
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
+### CAPITULO IV
+
+DEL COMITE MIXTO DE ESPECTACULOS Y DE LA ORGANIZACION DE LOS REPRESENTANTES DE LOS ESTABLECIMIENTOS.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3517,7 +3537,7 @@ La Secretaría de Fomento Turístico, junto con los ayuntamientos, y sin menosca
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-### CAPITULO VI. DE LAS SANCIONES
+### CAPITULO V. DE LAS OBLIGACIONES DE LOS ESTABLECIMIENTOS DE ESPECTACULOS, CENTROS NOCTURNOS Y ANALOGOS
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
@@ -3584,6 +3604,10 @@ Existirán servicios sanitarios para cada sexo absolutamente independientes y se
 Quedan prohibidos los espectáculos que agredan la dignidad humana, incluídos los valores sexuales, y aquellos que infrinjan dolor a los animales o provoquen su muerte, en los términos de la Ley de Protección de los Animales, salvo lo que se ajuste a las tradiciones del Estado.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+
+### CAPITULO VI. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
 ###### ARTICULO 280.
 
@@ -4146,6 +4170,22 @@ P.O. 24 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 239 POR EL QUE SE ADICIONA EL CAPÍTULO XII AL TÍTULO SEGUNDO Y LOS ARTÍCULOS 95 BIS 1, 95 BIS 2, 95 BIS 3 Y 95 BIS 4 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
 
 P.O. 24 DE SEPTIEMBRE DE 2019.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 240, POR EL QUE SE REFORMAN LOS ARTÍCULOS 29, 59 Y LA FRACCIÓN XII DEL 63 BIS; SE ADICIONAN LAS FRACCIONES XIII, XIV, XV Y XVI AL ARTÍCULO 63 BIS Y EL CAPÍTULO III BIS 3 QUE CONTIENE EL ARTÍCULO 109 BIS 3 Y SE DEROGAN LAS FRACCIONES III Y VIII DEL ARTÍCULO 68 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
 
 ###### ARTÍCULO PRIMERO.
 
