@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2019-10-16"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -191,7 +191,9 @@ Los derechos de ciudadanos tamaulipecos se suspenden:
 
 I. Por incapacidad declarada legalmente.
 
-II. Por estar procesado. La suspensión produce efectos desde el momento en que se notifique el auto de formal prisión o desde que se declare que hay lugar para la formación de causa, tratándose de funcionarios que gocen de fuero constitucional.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+II. Por estar procesado. La suspensión produce efectos desde el momento en que se notifique el auto de vinculación a proceso o desde que se declare que ha lugar para la formación de causa, tratándose de funcionarios que gocen de fuero constitucional;
 
 III. Por falta de cumplimiento sin causa justificada, de las obligaciones impuestas por el artículo anterior. Esta suspensión durará un año y se impondrá sin perjuicio de las otras penas que para la misma falta señale la ley.
 
@@ -417,9 +419,7 @@ V. Hacer que sus hijos, pupilos y menores que por cualquier título tengan a su 
 
 VI. Asistir los días y horas designados por el Ayuntamiento del Municipio en que residan, para recibir la instrucción cívica y militar que los mantenga aptos en el ejercicio de todos sus derechos de ciudadano, y diestros en el manejo de las armas y conocedores de la disciplina militar.
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2004)</small>
-
-VII. Tomar las armas en defensa del pueblo en que vivan cuando éste fuere amagado por partidas de malhechores, acatando las disposiciones que al efecto emanen de la autoridad local; y
+VII. (DEROGADA, P.O. 22 DE OCTUBRE DE 2019)
 
 > <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2004)</small>
 
@@ -863,9 +863,9 @@ V.- (DEROGADA, P.O. 13 DE JUNIO DE 2015)
 
 VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas, o Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral del Estado, a menos que no haya ejercido, concluyan o se separe del cargo dentro del plazo que establezcan la Constitución Federal, la ley general aplicable y la ley estatal de la materia; y
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-VII.- Los que estén procesados por delito doloso. El impedimento surte efectos desde el momento en que se notifique el auto de formal prisión. Tratándose de Servidores Públicos que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa.
+VII.- Los que estén procesados por delito doloso. El impedimento surte efectos desde el momento en que se notifique el auto de vinculación a proceso. Tratándose de Servidores Públicos que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 30], P.O. 9 DE SEPTIEMBRE DE 1978)
 
@@ -971,9 +971,9 @@ El Presidente del Congreso declarará a la Legislatura legítimamente constituid
 
 El Congreso tendrá dos períodos ordinarios de sesiones cada año legislativo: el primero, improrrogable, iniciará el primero de octubre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre; el segundo dará principio el quince de enero y terminará el treinta de junio.
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-En fecha de la segunda quincena de septiembre de cada año, que determine el Pleno o la Diputación Permanente, en su caso, celebrará sesión extraordinaria para el único objeto de recibir el informe del Gobernador del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución.
+En fecha de la primera quincena de marzo de cada año, que determine el Pleno, celebrará sesión pública y solemne para el único objeto de recibir el informe del Gobernador del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1753,9 +1753,9 @@ V.- Los Magistrados del Poder Judicial, consejeros de la Judicatura, Diputados l
 
 VI.- Los miembros de los Consejos General, Distritales y Municipales Electorales del Instituto Electoral de Tamaulipas, o Magistrado, Secretario General, Secretario de Estudio y Cuenta o Actuario del Tribunal Electoral del Estado, a menos que no hayan ejercido, concluyan o se separen del cargo dentro del plazo que establezcan la Constitución Federal, la ley general aplicable y la ley estatal de la materia; y
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-VII.- Los que estén sujetos a proceso criminal por delito que merezca pena corporal a contar de la fecha del auto de formal prisión.
+VII.- Los que estén sujetos a proceso criminal por delito que merezca pena corporal a contar de la fecha del auto de vinculación a proceso.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2008)</small>
 
@@ -1929,9 +1929,9 @@ XXXI.- Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere 
 
 XXXII.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, y deberá rendir el informe anual sobre el estado que guarda la administración pública estatal en sesión pública, ordinaria y solemne del Congreso que se verificará en la fecha de la segunda quincena de noviembre de cada año que determine el Congreso o la Diputación Permanente;
+XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, y deberá rendir el informe anual sobre el estado que guarda la Administración Pública Estatal en sesión pública y solemne del Congreso que se verificará durante la primera quincena de marzo de cada año que determine el Congreso;
 
 XXXIV.- Fomentar por todos los medios posibles la instrucción y educación públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad;
 
@@ -2027,9 +2027,9 @@ Las Secretarías que integren la Administración Pública Estatal conforme al p�
 
 Para ser Secretario de Despacho del Poder Ejecutivo se requiere ser ciudadano mexicano por nacimiento, estar en ejercicio de sus derechos y tener treinta años cumplidos.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-Durante la segunda quincena del mes de noviembre de cada año, mediante informe escrito, los Titulares de las Dependencias de la Administración Pública Estatal darán cuenta al Congreso del Estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
+Durante la primera quincena de marzo de cada año, mediante informe escrito, los titulares de las dependencias de la Administración Pública Estatal darán cuenta al Congreso del Estado que guarden sus respectivos ramos. A su vez, podrán ser citados por el Congreso para que brinden información cuando se discuta una ley o un asunto concerniente a los ramos de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
@@ -5082,6 +5082,38 @@ El Estado habrá de proveer los recursos y estímulos suficientes, conforme a la
 P.O. 16 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-1027 MEDIANTE EL CUAL SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE GOBIERNO DIGITAL”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-1015 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II, DEL ARTÍCULO 9; VII, DEL ARTÍCULO 30; Y VII, DEL ARTÍCULO 79, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales iniciados con anterioridad a la entrada en vigor del nuevo sistema procesal penal acusatorio previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-1028 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 44; 91, FRACCIÓN XXXIII; Y 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor a partir del primero de enero de dos mil veinte.
+
+###### ARTÍCULO SEGUNDO.
+
+Por única ocasión el informe que rinda el Gobernador del Estado en el año 2020, versará sobre el último trimestre del año 2019.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-1029 MEDIANTE EL CUAL SE DEROGA LA FRACCIÓN VII, DEL ARTÍCULO 18, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
