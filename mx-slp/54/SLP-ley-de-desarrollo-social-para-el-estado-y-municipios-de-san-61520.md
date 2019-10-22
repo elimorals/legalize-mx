@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2019-07-29"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -69,9 +69,17 @@ IX. Asegurar la transparencia y la rendición de cuentas en la ejecución de los
 
 X. Impulsar la participación ciudadana estableciendo mecanismos para que la sociedad civil sea corresponsable, en el cumplimiento de los objetivos de la política estatal y municipal en materia de desarrollo social;
 
-XI. Impulsar el desarrollo de la economía social, rural y urbana, como premisa para la generación de empleos e ingresos para la población en condiciones de pobreza, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-XII. Impulsar el desarrollo social desde las localidades, colonias y barrios, como unidades básicas de cambio, donde la familia sea el eje y principio de la política social para el mejoramiento corresponsable de su entorno comunitario.
+XI. Impulsar el desarrollo de la economía social, rural y urbana, como premisa para la generación de empleos e ingresos para la población en condiciones de pobreza;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XII. Impulsar el desarrollo social desde las localidades, colonias y barrios, como unidades básicas de cambio, donde la familia sea el eje y principio de la política social para el mejoramiento corresponsable de su entorno comunitario, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XIII. Impulsar la incorporación de la igualdad de género, la protección de las familias, las mujeres, las y los jóvenes, y de los grupos en desventaja, en especial niñas, niños y adolescentes, personas con discapacidad, personas con enfermedades terminales, indígenas y adultos mayores, en los programas de desarrollo social a cargo de (sic) Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 2010)</small>
 
@@ -431,7 +439,7 @@ VII. Los relativos a la no discriminación.
 
 Toda persona o grupo social en situación de pobreza, marginación, desigualdad social y vulnerabilidad tiene derecho a:
 
-I. Participar y beneficiarse de los programas de desarrollo social conforme a los principios rectores enunciados en el artículo 5 º de esta Ley, y en los términos que establezca la normatividad de cada programa, y
+I. Participar y beneficiarse de los programas de desarrollo social conforme a los principios rectores enunciados en el artículo 5º de esta Ley, y en los términos que establezca la normatividad de cada programa, y
 
 II. Recibir apoyos a través de acciones tendientes a disminuir su desventaja.
 
@@ -910,3 +918,11 @@ P.O. 29 DE JULIO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0276.- SE REFORMA Y ADICIONA EL ARTÍCULO 1, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
