@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-crea-la-medalla-nayarit-al-merito-97001"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-21"
-last_updated: "2013-12-21"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE CREA LA MEDALLA NAYARIT AL MÉRITO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Vigésima Séptima del Periódico Oficial del Estado de Nayarit, el sábado 21 de diciembre de 2013.
 
@@ -63,9 +63,17 @@ El Congreso del Estado concederá la Medalla Nayarit en las siguientes categorí
 
 I. Mérito Ciudadano;
 
-II. Mérito Profesional, y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-III. Mérito Cultural y Artístico.
+II. Mérito Profesional;
+
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+III. Mérito Cultural y Artístico, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+IV. Mérito en Ciencia, Tecnología e Innovación.
 
 ###### ARTÍCULO 6.
 
@@ -96,6 +104,10 @@ La Medalla Nayarit al Mérito Profesional se conferirá por destacar de manera p
 ###### ARTÍCULO 11.
 
 La Medalla Nayarit al Mérito Cultural y Artístico llevará el nombre "Emilia Ortiz", misma que se otorgará a quien destaque por sus acciones, producciones o trabajos docentes, de investigación o de divulgación del arte y la cultura.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+ARTÍCULO 11 BIS.- La Medalla Nayarit al Mérito en Ciencia, Tecnología e Innovación llevará el nombre "Luis Ernesto Miramontes Cárdenas'', misma que se otorgará a quien por sus acciones, producciones o trabajos docentes de investigación o de divulgación, haya contribuido al progreso de la ciencia, la tecnología o la innovación.
 
 ### Capítulo Cuarto. Del Comité de Premiación
 
@@ -160,3 +172,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" del Honorable Congr
 Dip. Armando García Jiménez, Presidente.- Rúbrica.- Dip. María Dolores Porras Domínguez, Secretaria.- Rúbrica.- Dip. Miguel Ángel Mú Rivera, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veinte días del mes de Diciembre del año dos mil trece.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA LA LEY QUE CREA LA MEDALLA NAYARIT AL MÉRITO”.]
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
