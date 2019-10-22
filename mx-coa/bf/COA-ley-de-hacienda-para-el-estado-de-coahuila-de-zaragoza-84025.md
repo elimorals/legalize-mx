@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2018-12-31"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "COA"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
-
-NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2019", PUBLICADA EN EL EXTRAORDINARIO SEGUNDA PARTE DEL P.O. DE 31 DE DICIEMBRE DE 2018.
+NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -521,19 +519,31 @@ Es objeto de este impuesto, la prestación de servicios de hospedaje, campamento
 
 Se consideran servicios de hospedaje, el acto por el cual se concede a una persona el uso, goce y demás derechos que se adquieran sobre un bien o parte del mismo, otorgados en establecimientos de hospedaje durante un período determinado, se encuentre o no registrado en la contabilidad de la empresa.
 
-Para los efectos de este artículo, se consideran establecimientos de hospedaje los hoteles, moteles, albergues, habitaciones con sistema de tiempo compartido o de operación hotelera, suites, villas o bungalows, ex-haciendas y construcciones en las que se proporcione el servicio de alojamiento.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+Para los efectos de este artículo, se consideran establecimientos de hospedaje los hoteles, moteles, albergues, habitaciones con sistema de tiempo compartido o de operación hotelera, suites, villas o bungalows, ex-haciendas departamentos y casas, total o parciamente (sic) y construcciones en las que se proporcione el servicio de alojamiento, a cambio de una contraprestación en dinero o en especie, sea cual fuere.
 
 SUJETO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 59.
 
-Son sujetos de este impuesto las personas físicas y morales, que presten los servicios a que se refiere el artículo anterior.
+Son sujetos de este impuesto las personas físicas y morales, que presten los servicios a que se refiere el artículo anterior, quienes deberán trasladar su importe a las personas que reciban los servicios objeto de este impuesto.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+En los supuestos de hospedaje de departamentos y casas, total o parcialmente, campamentos y paraderos de casas rodantes, previstos en el artículo 58, de esta Ley, cuando la contraprestación por servicios de hospedaje se cubra a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, éstas deberán retener y enterar este impuesto.
 
 BASE
 
 ###### ARTICULO 60.
 
 Es base de este impuesto el monto total de los ingresos que perciban las personas físicas o morales por los servicios de hospedaje que presten. Para los efectos de este impuesto sólo se considerarán los ingresos que se obtengan por el albergue, sin incluir los obtenidos por alimentos y demás servicios relacionados con los mismos.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+Este impuesto se causará en el momento del pago por la prestación del servicio de hospedaje recibido. Este impuesto no se causa por los servicios de albergue o alojamiento prestados por hospitales, clínicas o sanatorios
 
 TASA
 
@@ -557,15 +567,25 @@ Si el contribuyente tuviera varios establecimientos en el territorio de Coahuila
 
 Los contribuyentes que tengan varios establecimientos deberán conservar, en cada uno de ellos, copia de las declaraciones de pago, así como proporcionar copia de las mismas a las autoridades fiscales de las entidades federativas donde se encuentren ubicados esos establecimientos, cuando así lo requieran.
 
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+Las personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan este impuesto, deberán enterarlo mediante declaraciones definitivas en términos del primer párrafo de este artículo, proporcionando la información de las personas físicas o morales que prestaron el servicio de hospedaje y de la totalidad de las operaciones en las que hayan intervenido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 64.
 
-Los contribuyentes que obtengan ingresos por los servicios de hospedaje, además de las obligaciones señaladas en el presente capítulo, tendrán las siguientes:
+Los contribuyentes y retenedores que obtengan ingresos por los servicios de hospedaje, además de las obligaciones señaladas en el presente capítulo, tendrán las siguientes:
 
 I. Llevar contabilidad de conformidad con el Código Fiscal para el Estado de Coahuila de Zaragoza y efectuar los registros en la misma.
 
 II. Llevar un registro detallado por nombre, o en su defecto, por placa de vehículo, de las personas a quienes se presta el servicio de hospedaje.
 
 III. Presentar en las oficinas autorizadas las declaraciones mensuales de este impuesto.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+IV.- Solicitar su inscripción en el Registro Estatal de Contribuyentes, tratándose de personas físicas o morales que en su carácter de intermediarias, promotoras o facilitadoras retengan este impuesto.
 
 ###### ARTICULO 65.
 
@@ -3506,3 +3526,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 357.- SE REFORMAN EL TERCER PÁRRAFO DEL ARTÍCULO 58, EL PRIMER PÁRRAFO DEL ARTÍCULO 59, EL PRIMER PÁRRAFO DEL ARTÍCULO 64 Y SE ADICIONAN UN SEGUNDO PÁRRAFO AL ARTÍCULO 59, UN SEGUNDO PÁRRAFO AL ARTÍCULO 60 Y UN CUARTO PÁRRAFO AL ARTÍCULO 63 Y LA FRACCIÓN IV AL ARTÍCULO 64 DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
