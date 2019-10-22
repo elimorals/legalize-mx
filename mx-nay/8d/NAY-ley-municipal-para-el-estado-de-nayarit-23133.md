@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2019-04-08"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -1616,6 +1616,10 @@ Su objetivo principal será colaborar en coordinación con los Ayuntamientos en 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
 Los Comités de Acción Ciudadana podrán constituir Centros de Convivencia Vecinal que tendrán como finalidad asegurar la constante participación ciudadana y vecinal en las actividades socio-culturales del municipio mediante la implementación de actividades culturales, ambientales, deportivas y de integración social.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+En el otorgamiento de anuencias para la expedición de licencias de funcionamiento, el Ayuntamiento podrá consultar al Comité de Acción Ciudadana correspondiente, y éste a su vez, a sus representados, sobre la viabilidad de su autorización.
 
 > <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2013)</small>
 
@@ -4250,3 +4254,13 @@ SEGUNDO.- Los Ayuntamientos del Estado de Nayarit, a partir de la entrada en vig
 TERCERO.- Quedan derogadas todas las disposiciones que contravengan lo dispuesto por el presente Decreto.
 
 CUARTO.- Comuníquese a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE ADICIONA LA LEY MUNICIPAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PARTICIPACIÓN DE LOS COMITÉS DE ACCIÓN CIUDADANA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- Los veinte Ayuntamientos del Estado de Nayarit, a partir de la entrada en vigor del presente Decreto, en un plazo no mayor de sesenta días naturales, deberán realizar las reformas y adecuaciones a los reglamentos correspondientes, a fin de armonizarlos con lo dispuesto en el presente Decreto.
+
+TERCERO.- Comuníquese el presente Decreto, a los veinte Ayuntamientos del Estado de Nayarit, para los efectos conducentes.
