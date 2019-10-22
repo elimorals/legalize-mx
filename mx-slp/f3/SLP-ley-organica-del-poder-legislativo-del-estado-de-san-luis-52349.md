@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2019-08-20"
+last_updated: "2019-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1675,9 +1675,9 @@ XI. Informar al Congreso en forma trimestral, y en sus recesos a la Diputación 
 
 XII. Contar con los servicios de apoyo técnico o asesoría que apruebe la Junta de Coordinación Política;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-XIII. Presentar al Congreso del Estado la propuesta de los candidatos a ocupar el cargo de titular de la Auditoría Superior del Estado, así como la solicitud de su remoción, para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
+XIII. Presentar al Congreso del Estado la propuesta de los candidatos a ocupar el cargo de titular de la Auditoría Superior del Estado; y de titular de la Unidad de Evaluación y Control de la Comisión de Vigilancia, así como la solicitud de remoción de éstos, para lo cual podrá consultar a las organizaciones civiles y asociaciones que estime pertinente;
 
 > <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
 
@@ -2658,3 +2658,11 @@ P.O. 20 DE AGOSTO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0278.- SE REFORMA EL ARTÍCULO 118 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
