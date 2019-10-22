@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transporte-y-movilidad-sustentable-para-el-estado-de-127
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-10"
-last_updated: "2019-07-05"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 10 de noviembre de 2017.
 
@@ -152,6 +152,10 @@ XXXVII. Vehículo: Todo medio automotor que se usa para transportar personas o b
 XXXVIII. Vialidad: Conjunto integrado de vías de uso común que conforman la traza urbana de una ciudad o centro de población, cuya función es facilitar el tránsito eficiente y seguro de personas y vehículos;
 
 XXXIX. Vía pública: Acera, avenida, boulevard, calle, callejón, calzada, caminos, carreteras, carril confinado, ciclovía, circuito, corredor, corredor de transporte masivo, paseo, periférico, viaducto en la que circulen personas, semovientes, vehículos y bicicletas.
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XL. Niñas, niños y adolescentes. Se entiende por niños, niñas y adolescentes para efectos de esta ley, el concepto que señale la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 4.
 
@@ -1071,9 +1075,11 @@ V. Factura de las unidades y constancia de pago de tenencias y refrendos;
 
 VI. Los demás que señale la Secretaría conforme a las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 81.
 
-Los operadores del servicio de transporte especializado escolar deberán cursar y acreditar una capacitación para el correcto trato de menores de edad, así como de primeros auxilios.
+Los operadores del servicio de transporte especializado escolar deberán cursar y acreditar una capacitación para el correcto trato de niñas, niños y adolescentes, así como de primeros auxilios.
 
 La Secretaría supervisará que el operador cuente con la constancia de capacitación vigente, emitida por una institución previamente autorizada por la autoridad competente.
 
@@ -2291,7 +2297,9 @@ II. Las personas con discapacidad;
 
 III. Los adultos mayores de sesenta años o más.
 
-Los menores cuya estura (sic) no sobrepase los ciento diez centímetros quedarán exentos del pago de tarifa.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+Los niños y niñas cuya estatura no sobrepase los ciento diez centímetros quedarán exentos del pago de tarifa
 
 ###### ARTÍCULO 185.
 
@@ -2303,11 +2311,15 @@ II. Adultos mayores: con la credencial del Instituto Nacional de las Personas Ad
 
 III. Personas con discapacidad: credencial expedida por el Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza o institución oficial de salud o seguridad social;
 
-IV. Los menores de doce años: credencial emitida por parte del municipio a través de la dependencia encargada del transporte.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+IV. Los niños y niñas menores de doce años: credencial emitida por parte del municipio a través de la dependencia encargada del transporte.
+
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
 ###### ARTÍCULO 186.
 
-La autoridad competente determinará las medidas para que los menores de ciento diez centímetros tengan acceso al servicio sin costo.
+La autoridad competente determinará las medidas para que los niños, niñas y adolescentes cuya estatura no sobrepase los ciento diez centímetros tengan acceso al servicio sin costo.
 
 ## TÍTULO QUINTO. DE LOS DERECHOS Y OBLIGACIONES
 
@@ -2765,7 +2777,9 @@ IV. Utilizar el carril de extrema derecha de circulación, no deberá circular e
 
 V. Rebasar sólo por el carril izquierdo;
 
-VI. Circular preferentemente, por las vías destinadas para ello; no podrá circular sobre las banquetas y áreas reservadas al uso exclusivo de peatones; con excepción de las personas menores a doce años y los elementos de seguridad pública que conduzcan vehículos no motorizados en el cumplimiento de su deber;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+VI. Circular preferentemente, por las vías destinadas para ello; no podrá circular sobre las banquetas y áreas reservadas al uso exclusivo de peatones; con excepción de las niñas y niños menores de 12 años y los elementos de seguridad pública que conduzcan vehículos no motorizados en el cumplimiento de su deber;
 
 VII. Compartir de manera responsable con los vehículos y el transporte público la circulación en carriles de la extrema derecha;
 
@@ -2799,7 +2813,9 @@ Por seguridad los ciclistas y en su caso, los pasajeros que vayan con ellos esta
 
 I. Bandas o chalecos reflejantes;
 
-II. Casco obligatorio sólo en menores de 12 años de edad;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+II. Casco obligatorio sólo en niñas y niños menores de 12 años de edad;
 
 III. Las demás medidas previstas en la presente Ley y en los ordenamientos aplicables.
 
@@ -4476,3 +4492,9 @@ TERCERO.- La Secretaría de Salud, en coordinación con la Secretaría de Infrae
 CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes.
 
 QUINTO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en el presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 362.- SE ADICIONA LA FRACCIÓN XL DEL ARTÍCULO 3 Y REFORMAN EL ARTÍCULO 81 Y 184, ASÍ COMO LA FRACCIÓN IV DEL ARTÍCULO 185, EL ARTÍCULO 186, LA FRACCIÓN VI DEL ARTÍCULO 213 Y LA FRACCIÓN II DEL ARTÍCULO 216, DE LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
