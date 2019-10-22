@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2019-09-24"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -1061,7 +1061,9 @@ IX. En materia de derechos humanos.
 
 3. Rendir los informes solicitados por los organismos defensores de derechos humanos y pronunciarse sobre la aceptación o rechazo de sus recomendaciones, observaciones o resoluciones.
 
-4. Promover entre los integrantes de las diferentes instituciones de la administración pública municipal, y en los habitantes en general, una cultura de respeto irrestricto a los derechos humanos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE OCTUBRE DE 2019)</small>
+
+4. Capacitar a todos los servidores públicos de la administración municipal en los temas relativos al respeto, protección y garantía de los derechos humanos, así como promover y difundir la cultura de respeto a los derechos humanos entre la población.
 
 Las políticas públicas tendrán como finalidad eliminar las inequidades y desigualdades y promoverán la realización de los derechos humanos de grupos de población en situación de vulnerabilidad, mediante programas integrales que potencialicen las capacidades de las personas con la finalidad de contribuir a su desarrollo y mejorar sus condiciones de vida y faciliten el acceso pleno de éstos al ejercicio integral de los derechos humanos.
 
@@ -1093,7 +1095,13 @@ VIII. Recabar contribuciones correspondientes a fechas posteriores al período p
 
 IX. Excederse en sus erogaciones a las cantidades autorizadas que fijen las partidas globales de los presupuestos de egresos anuales.
 
-X. Lo demás que estuviere previsto en las leyes locales y federales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2019)</small>
+
+X. En la prestación de los servicios públicos y en todas las actuaciones que deba realizar el Ayuntamiento queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XI. Lo demás que estuviere previsto en las leyes locales y federales.
 
 ### CAPÍTULO VII. FACULTADES Y COMPETENCIAS DEL PRESIDENTE MUNICIPAL
 
@@ -4748,3 +4756,9 @@ P.O. 24 DE SEPTIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 363.- SE REFORMA EL NUMERAL 4 DE LA FRACCIÓN IX DEL ARTÍCULO 102, LA FRACCIÓN X DEL ARTÍCULO 103 Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 103 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
