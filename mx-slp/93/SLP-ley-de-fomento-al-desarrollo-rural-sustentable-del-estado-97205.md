@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-al-desarrollo-rural-sustentable-del-estado-97205
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2019-10-03"
+last_updated: "2019-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97205&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de diciembre de 2013.
 
@@ -815,9 +815,11 @@ XIV. Las demás disposiciones aplicables en la materia.
 
 ### Capítulo IV. Del Sistema Producto del Estado
 
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 36.
 
-El sistema producto es una forma de integración de productores con los demás sectores que participan en el proceso de producción-consumo, buscando mayores niveles de competitividad, poniendo especial énfasis en la empresarial de toda la cadena.
+El sistema producto es una forma de integración de productores con los demás sectores que participan en el proceso de producción-consumo de productos agropecuarios, incluyendo el abastecimiento técnico, insumos, recursos financieros, producción primaria, acopio, transformación, distribución y comercialización, buscando mayores niveles de competitividad, poniendo especial énfasis en la empresarial de toda la cadena, facilitando el control de calidad.
 
 ###### ARTÍCULO 37.
 
@@ -1380,5 +1382,13 @@ P.O. 3 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0267.- SE REFORMAN LOS ARTÍCULOS 2° Y 9°; Y ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XV, DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0277.- SE REFORMA EL ARTÍCULO 36 DE LA LEY DE FOMENTO AL DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
