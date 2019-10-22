@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2019-07-29"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1237,15 +1237,23 @@ ART. 267.- Confesada la demanda en todas sus partes o allanándose a ella o mani
 
 ART. 268.- Queda abolida la práctica de oponer excepciones o defensas contradictorias, aun cuando sea con el carácter de subsidiarias, debiendo los jueces desechar éstas de plano.
 
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-ART. 268 BIS.- En los juicios del orden civil, familiar y mercantil, una vez contestada la demanda y resueltas las excepciones de previo y especial pronunciamiento relativas a la legitimación de las partes, el Juez convocará a las partes a una audiencia, a fin de que comparezcan personalmente y conozcan la posibilidad de someter el conflicto a los mecanismos alternativos de mediación y conciliación, a través del Centro Estatal o de los Centros Públicos o Privados.
+ART. 268 BIS.- En los juicios del orden civil, familiar y mercantil, una vez contestada la demanda, el Juez convocará a las partes a una audiencia, a fin de que comparezcan personalmente y conozcan la posibilidad de someter el conflicto a los mecanismos alternativos de mediación y conciliación, a través del Centro Estatal o de los Centros Públicos o Privados.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
 En caso de que asistan y acepten, el Juez suspenderá el procedimiento hasta por el plazo de cuarenta y cinco días hábiles, prorrogable por quince días más, a solicitud de las partes, y notificará al Centro elegido por éstas, para que cite a los interesados a una audiencia informativa y aplique el mecanismo alternativo que las partes prefieran, en los términos que disponga la Ley de la materia.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
 La inasistencia de las partes a la audiencia convocada por el Juez para invitarlos a sujetarse a los mecanismos alternativos, se entenderá como una negativa a someter su conflicto a ellos, continuando con el procedimiento en la vía intentada.
 
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
+
 Tratándose de niños, niñas y adolescentes e incapaces, éstos serán representados por la persona o personas que ejerzan la patria potestad, tutela o curatela; en caso de que el conflicto sea con uno de sus tutores, se le deberá designar una persona que represente los intereses de este; sin perjuicio de lo anterior, se deberá escuchar al menor que esté en condiciones de formarse un juicio propio, para que exprese su opinión libremente sobre el asunto.
+
+> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 2012)</small>
 
 Las partes de común acuerdo podrán solicitar en cualquier etapa del procedimiento hasta antes de que se dicte sentencia, la suspensión del mismo, a efecto de que se apliquen los mecanismos alternativos de solución de conflictos en la forma y términos previstos en la Ley correspondiente.
 
@@ -5966,5 +5974,13 @@ P.O. 29 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0213.- SE REFORMA EL ARTÍCULO 1140 EN SU PÁRRAFO PRIMERO, DEL CÓDIGO DE PROCEDIMIENTO CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0275.- SE REFORMA EL ARTÍCULO 268 BIS EN SU PÁRRAFO PRIMERO DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
