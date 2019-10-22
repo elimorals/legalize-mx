@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-victimas-para-la-ciudad-de-mexico-126466"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-19"
-last_updated: "2019-01-09"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126466&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-02-15"
 
 LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 19 febrero de 2018.
 
@@ -92,7 +92,9 @@ V. Atención: La acción de proveer información, orientación y acompañamiento
 
 VI. Comisión de Derechos Humanos: A la Comisión de Derechos Humanos del Distrito Federal;
 
-VII. Comisión de Víctimas: A la Comisión de Atención a Víctimas de la Ciudad de México;
+> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2019)</small>
+
+VII. Comisión de Víctimas: A la Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México;
 
 VIII. Comisión Ejecutiva: A la Comisión Ejecutiva de Atención a Víctimas del Sistema Nacional;
 
@@ -1828,11 +1830,15 @@ IV. No cremar los cuerpos de familiares entregados, cuando la autoridad así lo 
 
 V. Cuando tengan acceso a información reservada o confidencial, respetar y guardar la secrecía de la misma.
 
-### CAPÍTULO IV. COMISIÓN DE ATENCIÓN A VÍCTIMAS DE LA CIUDAD DE MÉXICO
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 22 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO IV. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DE LA CIUDAD DE MÉXICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 112.
 
-Se crea la Comisión de Atención a Víctimas de la Ciudad de México, como organismo público descentralizado, sectorizado a la Secretaría de Gobierno de la Ciudad de México; con personalidad jurídica y patrimonio propios; con autonomía técnica, de gestión y presupuestaria.
+Se crea la Comisión Ejecutiva de Atención a Víctimas de la Ciudad de México, como organismo público descentralizado, sectorizado a la Secretaría de Gobierno de la Ciudad de México; con personalidad jurídica y patrimonio propios; con autonomía técnica, de gestión y presupuestaria.
 
 La Comisión de Víctimas tiene como objeto desarrollar mecanismos de coordinación entre dependencias e instituciones públicas y privadas locales y con el Sistema de Atención, a fin de garantizar el acceso efectivo de las víctimas a los derechos, mecanismos, procedimientos y servicios que establece esta Ley.
 
@@ -2625,3 +2631,9 @@ G.O. 9 DE ENERO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El Congreso de la Ciudad de México, a través de las Comisiones Unidas de Atención Especial a Victimas y la de Derechos Humanos, cuentan con un término de 15 días hábiles, para emitir la convocatoria para la elección de la terna, que será enviada a la o el Jefe de Gobierno, quien designará a la o el titular de la Comisión de Atención a Víctimas de la Ciudad de México, una vez que sea publicado en la Gaceta Oficial de la Ciudad de México el presente decreto.
+
+G.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE MODIFICAN LA FRACCIÓN VII DEL ARTÍCULO 3; EL PÁRRAFO PRIMERO DEL ARTÍCULO 112 Y EL CAPÍTULO IV PARA DECIR COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS, DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
