@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-cultura-fisica-y-el-deporte-para-el-estado-de-39876"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-08"
-last_updated: "2016-10-15"
+last_updated: "2019-10-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE LA CULTURA FISICA Y EL DEPORTE PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚM. 795 MEDIANTE EL CUAL SE EXPIDE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 22 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA CULTURA FÍSICA Y EL DEPORTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 8 de mayo de 2004.
 
@@ -868,3 +870,37 @@ PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca
 SEGUNDO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
 
 TERCERO.- El presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo (sic) contradigan.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 795.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Decreto 447 por el que la Quincuagésima Octava Legislatura Constitucional del Estado expidiera la Ley de la Cultura Física y el Deporte para el Estado de Oaxaca, publicado en el Periódico Oficial del Gobierno del Estado de fecha 8 de mayo de 2004, así como sus reformas.
+
+TERCERO. Derivado de la abrogación del Decreto 447 por el que la Quincuagésima Octava Legislatura Constitucional del Estado expidiera la Ley de la Cultura Física y el Deporte para el Estado de Oaxaca, queda sin efectos el Decreto expedido por el Titular del Poder Ejecutivo del Estado por el que crea el Organismo Público Descentralizado denominado "Comisión Estatal del Deporte" publicado en el Periódico Oficial del Gobierno del Estado con fecha 1° de diciembre de 2004, así mismo, el Decreto por el cual se Modifica la Denominación del Organismo público descentralizado "Comisión Estatal del Deporte", a "Comisión Estatal de cultura Física y Deporte, publicado en el Periódico Oficial del Gobierno del Estado con fecha 10 de septiembre de 2004.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo dispuesto en la presente Ley.
+
+CUARTO. El Instituto de Cultura Física y Deporte de Oaxaca, para el cumplimiento de las atribuciones que le confiere la presente Ley, operará con los bienes muebles e inmuebles, recursos humanos, materiales, financieros, y demás activos y pasivos, que la Comisión Estatal de Cultura Física y Deporte tenía a su cargo y, pasarán a formar parte del Instituto de Cultura Física y Deporte de Oaxaca.
+
+Por lo anterior el Ejecutivo del Estado a través de las Secretarías de Finanzas, de Administración, de la Contraloría y Transparencia Gubernamental, deberá en el ámbito de sus respectivas competencias, realizar el cambio en la estructura orgánica, supervisar la entrega-recepción de los bienes, realizar las adecuaciones programáticas y presupuestales y de más actos encaminados a la aplicación del presente Decreto, sin afectar el presupuesto ya asignado.
+
+QUINTO. La Secretaría de Administración determinará los inmuebles que por su naturaleza tengan por objeto la práctica y fomento de la cultura física y el deporte, propiedad del Gobierno del Estado de Oaxaca, mismos que pasarán a formar parte del patrimonio del referido Instituto, contando para ello con 30 días hábiles siguientes a la publicación de la presente Ley.
+
+SEXTO. Los acuerdos, convenios y cualquier acto jurídico celebrado por la Comisión Estatal de Cultura Física y Deporte, seguirán surtiendo sus efectos y se entenderán celebrados por el Instituto de Cultura Física y Deporte de Oaxaca, hasta cumplir con su objetivo.
+
+SÉPTIMO. Cuando en diversas disposiciones legales y reglamentarias se mencione a la Comisión Estatal de Cultura Física y Deporte, se entenderá referida al Instituto de Cultura Física y Deporte de Oaxaca.
+
+OCTAVO. Los derechos laborales de los trabajadores de base de la extinta Comisión serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y pasaran a formar parte del Instituto
+
+NOVENO. Todos los procedimientos y recursos administrativos relacionados con las materias de esta Ley, que se hubiesen iniciado bajo la vigencia de la Ley que se abroga, se tramitarán y resolverán conforme a dichas disposiciones.
+
+DÉCIMO. El Sistema Estatal de Cultura Física y Deporte deberá Constituirse, Instalarse y sesionar en un plazo no mayor a 90 días contados a partir de la entrada en vigor del presente decreto.
+
+DÉCIMO PRIMERO. El Reglamento de la presente Ley deberá expedirse por el Ejecutivo del Estado dentro de los 180 días naturales posteriores a la entrada en vigor de la presente ley.
+
+DÉCIMO SEGUNDO. Los Ayuntamientos expedirán los reglamentos municipales a que haya lugar en un plazo no mayor a 180 días naturales contado (sic) a partir de la entrada en vigor del presente decreto.
+
+DÉCIMO TERCERO. En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
