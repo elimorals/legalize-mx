@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-e-inclusion-de-las-personas-con-94481"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-31"
-last_updated: "2018-05-29"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 31 de mayo de 2013.
 
@@ -678,6 +678,10 @@ Los números telefónicos, los correos electrónicos, las páginas web, y demás
 ###### Artículo 52°.
 
 Las instituciones de gobierno estatal y municipal procuraran mantener en sus páginas de internet formatos audibles, para que la información que en ellas se contenga sea accesible a la comunidad de personas con discapacidad visual. En caso de haber mensajes de video, deberá adicionarse un recuadro en el que haya un intérprete de lengua de señas mexicana.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+Del mismo modo, los medios de comunicación en el Estado procurarán el uso de tecnología y, en su caso, de intérpretes de la lengua de señas mexicana, que permitan a la comunidad de personas sordas las facilidades de comunicación y el acceso al contenido de su programación, en especial aquel que tenga el carácter de informativo o noticioso.
 
 ### Capítulo VII. Del desarrollo social
 
@@ -1338,3 +1342,9 @@ P.O. 29 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 94 DE LA LEY PARA (SIC) DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 359.- SE ADICIONA UN PÁRRAFO AL ARTÍCULO 52 DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Gobierno del Estado.
