@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-impulso-y-desarrollo-de-la-actividad-116319"
 country: "mx"
 rank: "ley"
 publication_date: "2016-08-26"
-last_updated: "2017-12-26"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL IMPULSO Y DESARROLLO DE LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 26 de agosto de 2016.
 
@@ -43,11 +43,11 @@ Artículo 1
 
 La presente ley es de orden público e interés general en el estado de Coahuila de Zaragoza; tiene por objeto impulsar, fomentar, promover y difundir las actividades relacionadas al sector vitivinícola, así como proporcionar acciones de protección y defensa de productores y consumidores, propiciando la participación de los distintos órdenes de gobierno y el sector privado.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
 Artículo 2
 
-Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de la Secretaría de Economía y Turismo y de las demás dependencias de la administración pública estatal en el ámbito de sus atribuciones, así como a los municipios en su esfera competencial.
+Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de la Secretaría de Economía y de las demás dependencias de la administración pública estatal en el ámbito de sus atribuciones, así como a los municipios en su esfera de competencia.
 
 Artículo 3
 
@@ -135,9 +135,9 @@ Las dependencias de la administración pública del estado, sin perjuicio de las
 
 Artículo 10
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-La persona titular de la Secretaría de Economía y Turismo, tendrá las siguientes facultades:
+La persona titular de la Secretaría de Economía, tendrá las siguientes facultades:
 
 I. Formar parte de la Comisión y fungir como coordinador de la misma;
 
@@ -187,9 +187,9 @@ IV. Las demás que le sean conferidas en esta ley y otros ordenamientos aplicabl
 
 Artículo 14
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-La persona titular de la Secretaría de Medio Ambiente y Desarrollo Urbano, tendrá las siguientes facultades:
+La persona titular de la Secretaría de Medio Ambiente, tendrá las siguientes facultades:
 
 I. Formar parte de la Comisión;
 
@@ -198,6 +198,20 @@ II. Ejecutar los acuerdos de la Comisión que le correspondan en el ámbito de s
 III. Velar por el respeto al equilibrio ecológico y las condiciones de los hábitats naturales en el desarrollo de las actividades del sector;
 
 IV. Las demás que le sean conferidas en esta ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+Artículo 14 Bis
+
+La persona titular de la Secretaría de Turismo y Desarrollo de Pueblos Mágicos, tendrá las siguientes facultades:
+
+I.- Formar parte de la Comisión;
+
+II.- Ejecutar los acuerdos de la Comisión que le correspondan en el ámbito de sus atribuciones;
+
+III.- Proponer acciones para la promoción y difusión de la industria vitivinícola;
+
+IV.- Las demás que le sean conferidas en esta ley y otros ordenamientos aplicables.
 
 ### Capítulo III. De la Comisión
 
@@ -249,27 +263,35 @@ La Comisión se integra por:
 
 I. El Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-II. La Secretaría de Economía y Turismo;
+II. La Secretaría de Economía;
 
 III. La Secretaría de Desarrollo Rural;
 
 IV. La Secretaría de Salud;
 
-V. La Secretaría del Trabajo; y
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
+V. La Secretaría del Trabajo;
 
-VI. La Secretaría de Medio Ambiente y desarrollo Urbano.
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+VI. La Secretaría de Medio Ambiente; y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+VII. La Secretaría de Turismo y Desarrollo de Pueblos Mágicos.
 
 La Comisión será presidida por el titular del Ejecutivo del Estado y en su ausencia por el coordinador de la misma.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-Quien sea titular de la Secretaría de Economía y Turismo fungirá como coordinador de la Comisión.
+Quien sea titular de la Secretaría de Economía fungirá como coordinador de la Comisión.
 
-Podrán ser invitados con voz pero sin voto, operadores de reconocida trayectoria vitivinícola, representantes de instituciones educativas, asociaciones civiles y organismos privados integrantes de la sociedad civil que en razón de su profesión u ocupación, estén en posibilidad de hacer aportaciones o propuestas importantes relacionadas con la materia.
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+Podrán ser invitados con voz pero sin voto, un representante del Poder Legislativo, quien será el coordinador de la Comisión de Desarrollo Económico, Competitividad y Turismo, operadores de reconocida trayectoria vitivinícola, representantes de instituciones educativas, asociaciones civiles y organismos privados integrantes de la sociedad civil que en razón de su profesión u ocupación, estén en posibilidad de hacer aportaciones o propuestas importantes relacionadas con la materia.
 
 Los integrantes de la Comisión podrán designar suplentes.
 
@@ -389,11 +411,11 @@ El estado, los municipios y sus organismos descentralizados podrán convenir la 
 
 ### Capítulo VI. Del Registro Estatal de Vitivinicultores
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2019)</small>
 
 Artículo 36
 
-La Secretaría de economía y Turismo, estará a cargo del Registro Estatal de Vitivinicultores, el cual deberá contener el padrón de operadores en Coahuila de Zaragoza.
+La Secretaría de Economía, estará a cargo del Registro Estatal de Vitivinicultores, el cual deberá contener el padrón de operadores en Coahuila de Zaragoza.
 
 T R A N S I T O R I O S
 
@@ -518,3 +540,9 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 360.- SE REFORMAN EL ARTÍCULO 2º, EL PRIMER PÁRRAFO DEL ARTÍCULO 10°, EL PRIMER PÁRRAFO DEL ARTÍCULO 14, LAS FRACCIONES II, VI, PÁRRAFOS TERCERO Y CUARTO DEL ARTÍCULO 18; Y EL ARTÍCULO 36; Y SE ADICIONAN EL ARTÍCULO 14 BIS Y LA FRACCIÓN VII AL ARTÍCULO 18, TODOS DE LA LEY PARA EL IMPULSO Y DESARROLLO DE LA ACTIVIDAD VITIVINÍCOLA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
