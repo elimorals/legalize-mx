@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2019-10-03"
+last_updated: "2019-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -371,7 +371,9 @@ XXIX. La adopción de medidas de seguridad y la aplicación de sanciones adminis
 
 XXX. Establecer con la participación de los ayuntamientos respectivos por sí, o a través de los organismos operadores del agua, condiciones generales de descarga para los centros de población y condiciones particulares de descarga a los usuarios de los sistemas de drenaje y alcantarillado municipal;
 
-XXXI. La organización y operación, con participación en su caso de la autoridad sanitaria estatal y los ayuntamientos por sí, o por conducto de los organismos operadores del agua, del sistema estatal de monitoreo de la calidad de las aguas de jurisdicción estatal, de las aguas federales asignadas para la prestación de servicios públicos y de las aguas residuales que sean descargadas a los sistemas municipales de alcantarillado;
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XXXI. La organización y operación, con participación, en su caso, de la autoridad sanitaria estatal y los ayuntamientos por sí, o por conducto de los organismos operadores del agua, del sistema estatal de monitoreo de la calidad de las aguas de jurisdicción estatal; de las aguas federales asignadas para la prestación de servicios públicos; y de las aguas residuales que sean descargadas a los sistemas municipales de alcantarillado; así como la coordinación con las autoridades federales para el monitoreo de la calidad del agua, en términos del artículo 133 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 XXXII. La elaboración de informes periódicos sobre el estado del ambiente en el territorio estatal;
 
@@ -417,13 +419,21 @@ XL. Emitir certificación de viabilidad sobre el diseño, construcción, operaci
 
 XLI. Llevar a cabo los estudios que sustenten la necesidad de otorgar concesiones, autorizaciones, licencias y permisos para la prestación de los servicios públicos de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial;
 
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XLII. Expedir los dictámenes técnicos previos al otorgamiento de concesiones, autorizaciones, licencias y permisos para la prestación de los servicios públicos de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XLIII. Celebrar convenios y acuerdos con la Federación para asumir facultades en materia ambiental en su jurisdicción, en los términos de los artículos, 11, y 12, de la Ley General del Equilibrio Ecológico y la Protección al Ambiente;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XLIV. Celebrar convenios y acuerdos con otras entidades federativas para la atención y respuesta a problemas ambientales comunes, en términos del artículo 13 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
 
-XLII. Expedir los dictámenes técnicos previos al otorgamiento de concesiones, autorizaciones, licencias y permisos para la prestación de los servicios públicos de limpia, recolección, transporte, tratamiento y disposición final de los residuos sólidos urbanos y de manejo especial, y
-
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
-
-XLIII. Las demás atribuciones que le confieran esta Ley, así como otras disposiciones legales y reglamentarias aplicables.
+XLV. Las demás atribuciones que le confieran esta Ley, así como otras disposiciones legales y reglamentarias aplicables.
 
 Las facultades precedentes serán ejercidas indistintamente por el titular del Ejecutivo del Estado o por conducto de la SEGAM, a excepción de la establecida en la fracción XXXVII de éste artículo, que será de la competencia exclusiva del mismo.
 
@@ -517,13 +527,21 @@ XXXI. Aplicar por sí o a través de los organismos operadores del agua, las med
 
 XXXII. Expedir y adecuar los bandos de policía y gobierno, así como los reglamentos, circulares y demás actos administrativos que fueren convenientes o necesarios para la mejor observancia de la Ley;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-XXXIII. Expedir las autorizaciones de impacto ambiental en los casos que establece la ley, y
+XXXIII. Expedir las autorizaciones de impacto ambiental en los casos que establece la ley;
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2019)</small>
 
-XXXIV. Elaborar los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de manejo especial.
+XXXIV. Elaborar los Programas Municipales para la Prevención y Gestión Integral de los Residuos Sólidos Urbanos y de manejo especial;
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XXXV. Celebrar convenios y acuerdos para la atención y respuesta a problemas ambientales comunes con otros municipios, aunque pertenezcan a diferentes entidades federativas, en términos del artículo 13 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y
+
+> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2019)</small>
+
+XXXVI. Coordinarse con las autoridades federales para el monitoreo de la calidad de agua, en términos del artículo 133 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente.
 
 ###### ARTICULO 9o.
 
@@ -3401,7 +3419,15 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 P.O. 3 DE OCTUBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0261.- SE REFORMA EL ARTÍCULO 104 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0261.- SE REFORMA EL ARTÍCULO 104 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0273.- SE REFORMAN LOS ARTÍCULOS 7° Y 8°; Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 7° Y 8° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
