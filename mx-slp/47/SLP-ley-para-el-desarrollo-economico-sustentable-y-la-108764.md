@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2018-07-26"
+last_updated: "2019-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -33,7 +33,9 @@ DECRETO 1010
 
 La Sexagésima Legislatura Constitucional del Estado Libre y Soberano de San Luis Potosí, Decreta
 
-EXPOSICIÓN DE MOTIVOS...
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 ÚNICO. Se EXPIDE la Ley para el Desarrollo Económico Sustentable y la Competitividad del Estado de San Luis Potosí, para quedar como sigue
 
@@ -413,7 +415,9 @@ II. En materia de instrumentos de asesoría legal, administrativa y de capacitac
 
 a) Gestionar ante las autoridades municipales, estatales y federales, asesoría y facilidades en la ejecución de trámites.
 
-b) Promover contratos y/o convenios para actividades de capacitación, adiestramiento e investigación.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+b) Promover contratos y/o convenios para actividades de capacitación, adiestramiento e investigación y desarrollo de proveedores.
 
 c) Facilitar al inversionista el vínculo con servicios legales, administrativos, financieros y logísticos.
 
@@ -723,11 +727,15 @@ XIII. Elaborar en coordinación con los ayuntamientos, el Padrón Empresarial Di
 
 XIV. Promover el uso de tecnologías de información y comunicación en las MIPYMES;
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-XV. Promover la diferenciación y la explotación de nichos de mercado por parte de las MIPYMES, y
+XV. Promover la diferenciación y la explotación de nichos de mercado por parte de las MIPYMES;
 
-XVI. Las demás que emanen de las atribuciones del Consejo y el reglamento.
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+XVI. Realizar acciones como eventos, programas y asesoría específica para apoyar a las pequeñas y medianas empresas en la adquisición de conocimientos y destrezas, en lo referente al desarrollo de proveedores, y
+
+XVII. Las demás que emanen de las atribuciones del Consejo y el reglamento.
 
 ###### ARTÍCULO 65.
 
@@ -924,3 +932,11 @@ P.O. 26 DE JULIO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0286.- SE REFORMAN LOS ARTÍCULOS 30 Y 64; Y ADICIONA AL ARTÍCULO 64 UNA FRACCIÓN DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
