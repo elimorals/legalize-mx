@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2019-08-05"
+last_updated: "2019-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1655,6 +1655,10 @@ Para el trámite de los asuntos e iniciativas turnados a las comisiones y comit�
 
 Cuando un asunto por su naturaleza haya quedado sin materia sobre la cual resolver, la comisión, previo acuerdo y, a través de su presidente, mediante escrito lo hará del conocimiento de la Secretaría de la Directiva del Congreso, con atención a la Coordinación General de Servicios Parlamentarios, solicitando que tal asunto sea dado de baja de los listados de asuntos pendientes de la comisión o comité de que se trate.
 
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+El turno que no siendo iniciativa o punto de acuerdo, y que tenga como propósito dar atención a solicitudes de otra Entidad Federativa; del Congreso de la Unión; congresos locales; o de cualquier persona física o moral, y que no deba ser procesado en forma de dictamen legislativo, será desahogado mediante oficio, lo que se hará del conocimiento de la Secretaría de la Directiva para su baja.
+
 ###### ARTICULO 156.
 
 Las comisiones y comités resolverán los asuntos que se les turnen, conforme al orden cronológico en que hayan sido turnados, la urgencia, obvia resolución y factibilidad de resolverse.
@@ -2856,5 +2860,13 @@ P.O. 5 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0218.- SE REFORMA EL ARTÍCULO 154 BIS; Y ADICIONA EL ARTÍCULO 154 TER, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0284.- SE ADICIONA AL ARTÍCULO 155 EL PÁRRAFO TERCERO, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
