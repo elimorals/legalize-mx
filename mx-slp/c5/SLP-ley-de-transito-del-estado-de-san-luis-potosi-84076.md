@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2019-06-04"
+last_updated: "2019-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -440,6 +440,10 @@ Corresponde al Ejecutivo del Estado, a través de la Secretaría, la expedición
 Las placas y la tarjeta de circulación se entregarán en uso y custodia al interesado, ya que son documentos públicos, por lo que deberán entregarse al efectuar el canje correspondiente, o tramitar el aviso de baja a que se refiere el artículo 28 de esta Ley.
 
 La Secretaría, previo convenio con la autoridad municipal, podrá autorizar la entrega de permisos para circular sin placas y tarjeta de circulación por conducto de la autoridad municipal, para aquellos vehículos de su demarcación, previo cumplimiento de los requisitos de ley.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+Los permisos tendrán una vigencia de treinta días naturales y se podrán renovar por única vez por un periodo igual. Se consideran las excepciones aplicables en los supuestos del artículo 26 de esta Ley.
 
 En ningún caso se expedirá permiso a vehículos de procedencia extranjera que no se encuentren legalmente en el territorio del Estado.
 
@@ -1711,10 +1715,18 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 4 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0177.- SE REFORMA EL ARTÍCULO 6° EN SUS FRACCIONES, III, Y XIX, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0177.- SE REFORMA EL ARTÍCULO 6° EN SUS FRACCIONES, III, Y XIX, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Una vez publicado el presente Decreto en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”, los ayuntamientos tendrán sesenta días hábiles para realizar las adecuaciones a sus reglamentos respectivos.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en este Decreto.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0283.- SE ADICIONA (SIC) PÁRRAFO AL ARTÍCULO 20 DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
-SEGUNDO. Una vez publicado el presente Decreto en el Periódico Oficial del Gobierno del Estado "Plan de San Luis", los ayuntamientos tendrán sesenta días hábiles para realizar las adecuaciones a sus reglamentos respectivos.
-
-TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en este Decreto.
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
