@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2019-10-03"
+last_updated: "2019-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -1257,9 +1257,9 @@ III.- Promoverán centros de desarrollo infantil, centros de integración social
 
 IV.- Con enfoque de equidad y género prestarán servicios educativos para atender a quienes abandonaron el sistema regular, que les faciliten la terminación de la educación, preescolar, primaria, secundaria, y media superior, otorgando facilidades de acceso, reingreso, permanencia, egreso y tránsito, aún cuando los solicitantes carezcan de documentos académicos o de identidad; esta obligación se tendrá por satisfecha con el ofrecimiento de servicios educativos de calidad. Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos referidos, así como, en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y, en su caso, saberes que previa evaluación demuestren los educandos. Las autoridades educativas promoverán acciones similares para el caso de la educación superior;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-IV BIS.- Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad, implementando de forma progresiva, de conformidad con sus respectivos presupuestos, la existencia de escuelas y aulas accesibles para su libre desarrollo;
+IV BIS.- Fortalecerán la educación inclusiva dentro de la educación regular y la educación inicial, utilizando, cuando sea necesario, herramientas de atención especializada establecidas en el artículo 36 de la presente Ley, como medios auxiliares en el proceso de integración e inclusión;
 
 V.- Otorgarán apoyos pedagógicos a grupos con requerimientos educativos específicos, tales como programas encaminados a recuperar retrasos en el aprovechamiento escolar de los alumnos;
 
@@ -2534,6 +2534,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0258.- SE REFORMA EL ARTÍCULO 40 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0280.- SE REFORMA EL ARTÍCULO 75 EN SU FRACCIÓN IV BIS, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
