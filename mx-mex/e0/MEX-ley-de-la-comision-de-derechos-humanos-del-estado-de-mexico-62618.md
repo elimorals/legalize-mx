@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2019-10-21"
+last_updated: "2019-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE OCTUBRE DE 2019 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 23 DE OCTUBRE DE 2019.]</small>
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -1435,16 +1435,28 @@ G.G. 21 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 89.- POR EL QUE SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 147 I, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE ADICIONA LA FRACCIÓN XXXIV RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 13, Y LA FRACCIÓN VI RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 129 DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
 
-PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+> <small>(F. DE E., G.G. 23 DE OCTUBRE DE 2019)</small>
 
-SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO.- La Comisión de Derechos Humanos del Estado de México contará con un plazo no mayor a 180 días naturales posteriores a la entrada en vigor del presente decreto, para cumplir con la autorización de ser un ente certificador.
+> <small>(F. DE E., G.G. 23 DE OCTUBRE DE 2019)</small>
 
-CUARTO.- A partir del establecimiento de la certificación por parte de la Comisión de Derechos Humanos del Estado de México, las y los Defensores Públicos Municipales de Derechos Humanos en funciones, tendrán un plazo no mayor a seis meses para cumplir el requisito que establece el presente decreto, a partir de la fecha de inicio del proceso de certificación expedido por la Comisión de Derechos Humanos del Estado de México.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-QUINTO.- La Comisión de Derechos Humanos del Estado de México realizará las modificaciones al Reglamento Interno y demás disposiciones tendientes a regular su organización y funcionamiento, dentro de los treinta días siguientes a la entrada en vigor del presente decreto.
+> <small>(F. DE E., G.G. 23 DE OCTUBRE DE 2019)</small>
 
-SEXTO.- La Legislatura realizará las adecuaciones presupuestales necesarias para el cumplimiento del presente decreto, bajo los principios de transparencia y rendición de cuentas.
+TERCERO.- La Comisión de Derechos Humanos del Estado de México contará con un plazo no mayor a 180 días naturales posteriores a la entrada en vigor del presente Decreto, para cumplir con la autorización de ser un ente certificador.
+
+> <small>(F. DE E., G.G. 23 DE OCTUBRE DE 2019)</small>
+
+CUARTO.- A partir del establecimiento de la certificación por parte de la Comisión de Derechos Humanos del Estado de México, las y los Defensores Públicos Municipales de Derechos Humanos en funciones, tendrán un plazo no mayor a seis meses para cumplir el requisito que establece el presente Decreto, a partir de la fecha de inicio del proceso de certificación expedido por la Comisión de Derechos Humanos del Estado de México.
+
+> <small>(F. DE E., G.G. 23 DE OCTUBRE DE 2019)</small>
+
+QUINTO.- La Comisión de Derechos Humanos del Estado de México realizará las modificaciones al Reglamento Interno y demás disposiciones tendientes a regular su organización y funcionamiento, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+> <small>(F. DE E., G.G. 23 DE OCTUBRE DE 2019)</small>
+
+SEXTO.- La Legislatura realizará las adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto, bajo los principios de transparencia y rendición de cuentas.
 
 SÉPTIMO.- La Certificación de competencias por única ocasión tendrá vigencia de 18 meses para los Defensores Municipales de Derechos Humanos en funciones, posterior a ellos se tendrá vigencia de tres años.
