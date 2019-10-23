@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-estatal-anticorrupcion-de-san-luis-potosi-12181
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2018-05-15"
+last_updated: "2019-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado Libre y Soberano de San Luis Potosí, el jueves 25 de mayo de 2017.
 
@@ -185,9 +185,21 @@ XV. Promover el establecimiento de lineamientos y convenios de cooperación entr
 
 XVI. Disponer las medidas necesarias para que las autoridades competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos, accedan a la información necesaria para el ejercicio de sus atribuciones, contenida en los sistemas que se conecten con la Plataforma Digital;
 
-XVII. Participar, conforme a las leyes en la materia, en los mecanismos de cooperación nacional e internacional para el combate a la corrupción, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-XVIII. Las demás señaladas por esta Ley.
+XVII. Participar, conforme a las leyes en la materia, en los mecanismos de cooperación nacional e internacional para el combate a la corrupción;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE OCTUBRE DE 2019)</small>
+
+XVIII. Emitir exhortos públicos por acuerdo de sus integrantes;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+XIX. Integrar por acuerdo de sus integrantes, los subcomités que considere necesarios para el cumplimiento de sus funciones, y
+
+(REUBICADA, P.O. 23 DE OCTUBRE DE 2019)
+
+XX. Las demás señaladas por esta Ley.
 
 ###### ARTÍCULO 10.
 
@@ -421,9 +433,15 @@ XVIII. Proponer al Comité Coordinador mecanismos para facilitar el funcionamien
 
 XIX. Constituir comités municipales de participación ciudadana en cada municipio, integrados por tres ciudadanos de reconocida probidad y prestigio profesional que auxilien al Comité de Participación Ciudadana en el desarrollo y cumplimiento de sus atribuciones en términos de las normas internas que para tal efecto apruebe este último. Los integrantes de estos comités participarán de manera honorifica en los mismos y estarán sujetos a la restricción que establece el segundo párrafo del artículo 16 de esta Ley, y estarán sujetos al régimen de responsabilidades que determina la ley;
 
-XX. Aprobar o, en su caso, modificar la estructura organizacional de la Secretaría Técnica que proponga su titular, y las remuneraciones de sus integrantes, y
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-XXI. Las demás que determinen las leyes y el Reglamento.
+XX. Aprobar o, en su caso, modificar la estructura organizacional de la Secretaría Técnica que proponga su titular, y las remuneraciones de sus integrantes;
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+XXI. Proponer la emisión de exhortos públicos al Comité Coordinador, y
+
+XXII. Las demás que determinen las leyes y el Reglamento.
 
 ###### ARTÍCULO 24.
 
@@ -437,9 +455,11 @@ III. Preparar el orden de los temas a tratar, y
 
 IV. Garantizar el seguimiento de los acuerdos adoptados por el Comité.
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 25.
 
-El Comité de Participación Ciudadana podrá solicitar al Comité Coordinador la emisión de exhortos públicos cuando algún hecho de corrupción sobre el que se haya emitido recomendación, requiera de aclaración pública en relación con su cumplimiento. Los exhortos tendrán por objeto requerir a las autoridades competentes información sobre la atención al asunto de que se trate.
+El Comité de Participación Ciudadana podrá solicitar al Comité Coordinador la emisión de exhortos públicos cuando algún hecho de corrupción sobre el que se haya emitido recomendación, requiera de aclaración pública en relación con su cumplimiento, o bien en relación con resoluciones, requerimientos de información, o cumplimento de convenios. Los exhortos tendrán por objeto requerir a las autoridades competentes información sobre la atención al asunto de que se trate.
 
 ### Capítulo IV. De la Secretaría Ejecutiva del Sistema Estatal Anticorrupción
 
@@ -858,3 +878,11 @@ P.O. 15 DE MAYO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0285.- SE REFORMAN LOS ARTÍCULOS 9°, 23 Y 25; Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 9° Y 23 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
