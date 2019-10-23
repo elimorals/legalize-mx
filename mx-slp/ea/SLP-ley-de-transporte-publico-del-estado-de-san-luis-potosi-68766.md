@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2019-08-06"
+last_updated: "2019-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1379,7 +1379,9 @@ ARTICULO 71 BIS. Las Empresas de Redes de Transporte deberán contar con registr
 
 I. Exhibir acta constitutiva debidamente registrada en el Instituto Registral y Catastral del Estado de San Luis Potosí;
 
-II. Suscribir con el Poder Ejecutivo del Estado un convenio para la constitución de un fondo público económico, al que deberán aportar un 1.5% del monto efectivamente cobrado por cada viaje iniciado en el Estado de San Luis Potosí, por los prestadores del servicio a través de Empresas de Redes de Transporte que se encuentren debidamente registrados en la plataforma propiedad de la Empresa de Redes de Transporte, o promocionada por la misma, cuyos recursos se destinarán para el desarrollo de políticas públicas en materia de movilidad;
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+II. Suscribir, con el Poder Ejecutivo del Estado, un convenio para la constitución de un fondo público económico, al que deberán aportar un 1.5% del monto efectivamente cobrado por cada viaje iniciado en el Estado de San Luis Potosí, por los prestadores del servicio a través de Empresas de Redes de Transporte que se encuentren debidamente registrados en la plataforma propiedad de la Empresa de Redes de Transporte, o promocionada por la misma, cuyos recursos se destinarán para el desarrollo de políticas públicas en materia de transporte público;
 
 III. Acreditar ser propietaria, subsidiaria o contar con derechos de explotación o acuerdos comerciales para la promoción respecto de la aplicación tecnológica que permita mediar el servicio correspondiente, y
 
@@ -2555,27 +2557,59 @@ ARTICULO 132 BIS. Se impondrá una multa de trescientas hasta quinientas Unidade
 
 ### Capítulo II. Del Procedimiento para la Aplicación de las Sanciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 133.
 
-Los concesionarios, permisionarios, operadores del servicio de transporte público, en cualquiera de sus modalidades, así como las personas físicas o morales que prestan el servicio de transporte público sin la debida autorización del titular del Ejecutivo del Estado, o del titular de la Secretaría, según corresponda, serán acreedores a las sanciones a que se refiere este Ordenamiento, de acuerdo con el siguiente procedimiento:
+Los concesionarios, permisionarios, operadores del servicio de transporte público, en cualquiera de sus modalidades; así como las Empresas de Redes de Transporte y sus asociados o conductores, serán acreedores a las sanciones a que se refiere este Ordenamiento.
 
-I. Si como resultado de la investigación de una queja existen elementos suficientes, a juicio de la Secretaría, que deriven en responsabilidad del titular de la concesión o permiso y/o del operador, con independencia de la aplicación de las medidas de seguridad que procedan, él o los presuntos implicados deberán comparecer ante la Secretaría en audiencia pública, atendiendo al citatorio correspondiente o, en su caso, comparecer de inmediato en continuación a las labores de inspección, a fin de que se hagan de su conocimiento las causas que dieron origen a su comparecencia, y manifieste lo que a su derecho convenga. La contestación a la queja que da origen al procedimiento de mérito y el ofrecimiento de las pruebas, será de forma verbal o por escrito; al hacerlo de forma verbal se levantará un acta; en la misma audiencia se podrán ofrecer las pruebas que avalen su defensa, a menos de que por causas de tiempo se difiera ésta para fecha posterior, que en ningún caso podrá ser más de cinco días hábiles después de la primera, y
+I. Si como resultado de la investigación de una queja existen elementos suficientes, a juicio de la Secretaría, que deriven en responsabilidad del titular de la concesión o permiso y/o del operador, con independencia de la aplicación de las medidas de seguridad que procedan, él o los presuntos implicados deberán comparecer ante la Secretaría en audiencia pública, atendiendo al citatorio correspondiente o, en su caso, comparecer de inmediato en continuación a las labores de inspección, a fin de que se hagan de su conocimiento las causas que dieron origen a su comparecencia, y manifieste lo que a su derecho convenga.
+
+La contestación a la queja que da origen al procedimiento de mérito y el ofrecimiento de las pruebas, será de forma verbal o por escrito; al hacerlo de forma verbal se levantará un acta; en la misma audiencia se podrán ofrecer las pruebas que avalen su defensa, a menos de que por causas de tiempo se difiera ésta para fecha posterior, que en ningún caso podrá ser más de cinco días hábiles después de la primera, y
 
 II. Concluida la fase de desahogo de pruebas se procederá al análisis minucioso de la queja, de su contestación y de las pruebas.
 
-La Secretaría, en un término no mayor de quince días hábiles, notificará la resolución a las partes de forma personalísima. En caso de que se haya retirado de la circulación el vehículo destinado al servicio, se procederá a su devolución, previo cumplimiento de la sanción impuesta.
+La Secretaría, en un término no mayor de quince días hábiles, notificará la resolución a las partes de forma personalísima.
 
-En los casos no dispuestos por la presente Ley, se aplicará de manera supletoria la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
+En caso de que se haya retirado de la circulación el vehículo destinado al servicio, se procederá a su devolución, previo cumplimiento de la sanción impuesta.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE OCTUBRE DE 2019)</small>
+
+De igual forma, las personas que presten el servicio de transporte en cualquiera de las modalidades y formas establecidas en esta Ley, sin la concesión, permiso o autorización correspondiente, serán acreedores a las sanciones y medidas de seguridad prescritas en este Ordenamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+ARTICULO 133 BIS. Las sanciones, según corresponda, se aplicarán de acuerdo con lo siguiente:
+
+I. Para el caso de las sanciones a concesionarios, permisionarios y operadores del servicio de transporte público, Empresas de Redes de Transporte y sus asociados o conductores, derivadas de la infracción, omisión o incumplimiento a cualquiera de las obligaciones que les impone esta Ley; y con independencia de la aplicación de las medidas de seguridad que procedan, les serán impuestas las sanciones económicas previstas en el presente ordenamiento.
+
+De igual forma, la infracción de la prohibición de prestar servicio de transporte público en cualquiera de sus modalidades, o el servicio de Empresas de Redes de Transporte, por particulares sin contar con la autorización, concesión o permiso correspondiente, y con independencia de la aplicación de las medidas de seguridad que procedan, les serán impuestas las sanciones económicas previstas en el presente ordenamiento.
+
+En todos los casos previstos en esta fracción, la Secretaría con los elementos de prueba que sustenten la infracción o incumplimiento a la ley, impondrá las sanciones previstas en el presente ordenamiento.
+
+II. Tratándose de aquellas que deriven en responsabilidad del titular de la concesión o permiso y/o del operador con motivo de una queja, la Secretaría procederá a citar a la persona o personas implicadas, a fin de hacerles de su conocimiento el contenido de la queja, y en su caso, los elementos de prueba que corroboran la misma. Lo anterior con el fin de que el concesionario, permisionario u operador de que se trate, estén en aptitud de manifestar lo que a su derecho convenga en relación con los hechos que se les imputan en la queja.
+
+En los casos en que la queja no implique reclamo de reparación de daño por parte del quejoso, la Secretaría con los elementos de prueba, procederá en su caso a la imposición de las sanciones que procedan.
+
+Cuando la queja, contenga la petición de reparación de daños por parte del quejoso, y una vez analizada la queja y su contestación, la Secretaria de forma oficiosa citará a una audiencia conciliatoria, convocando a la parte quejosa y al concesionario o permisionario; y/u operador en el que se deberá proveer lo necesario para:
+
+a) Facilitar el dialogo, la mediación y el entendimiento entre los implicados, por parte del representante de la Secretaria que conozca del asunto;
+
+b) Aportar posibles opciones que solucionen el probable daño causado, por parte del representante de la Secretaria que conozca del asunto, y
+
+c) Asentar dentro de un acta de hechos, suscrita entre las partes involucradas, y con la intervención del representante del área que internamente corresponda de la Secretaría, si se llegase a un acuerdo o convenio, estableciéndolo debidamente, con lo que se tendría por concluido este procedimiento.
+
+Para todo lo no previsto por la presente Ley, se aplicará de manera supletoria el Código Procesal Administrativo del Estado de San Luis Potosí.
 
 ## TITULO DECIMO SEXTO. DEL RECURSO DE REVISION
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 134.
 
-Las resoluciones y acuerdos que en materia de transporte público emitan el Ejecutivo del Estado, la Secretaría de Comunicaciones y Transportes, así como las direcciones generales de, Transporte Colectivo Metropolitano, y de Comunicaciones y Transportes, podrán ser modificados, revocados o anulados por las propias autoridades, previa presentación del recurso de revisión que se interponga ante las mismas, dentro del plazo de quince días hábiles siguientes al que surta efectos su notificación, en los términos del Título Tercero Capítulo Sexto, y Título Cuarto de la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí o, en su defecto, mediante el juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado, de acuerdo a lo establecido en la Ley de Justicia Administrativa del Estado de San Luis Potosí.
+Las resoluciones y acuerdos que en materia de transporte público emitan el Ejecutivo del Estado, la Secretaría de Comunicaciones y Transportes, así como las direcciones generales de, Transporte Colectivo Metropolitano, y de Comunicaciones y Transportes, podrán ser modificados, revocados o anulados por las propias autoridades, previa presentación del recurso de revisión que se interponga ante las mismas, dentro del plazo de quince días hábiles siguientes al que surta efectos su notificación, en los términos del Código Procesal Administrativo del Estado de San Luis Potosí o, en su defecto, mediante el juicio de nulidad ante el Tribunal Estatal de Justicia Administrativa, de acuerdo a lo establecido en la Ley Orgánica del Tribunal Estatal de Justicia Administrativa.
 
 ## TRANSITORIOS
 
@@ -2954,3 +2988,21 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. La Secretaría de Comunicaciones y Transportes del Estado de San Luis Potosí, deberá implementar el cumplimiento de las aplicaciones de servicio y evaluación a que se refiere el presente Decreto, en un plazo de hasta ocho meses contados a partir de la entrada en vigor del mismo.
 
 TERCERO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0281.- SE REFORMA EL ARTÍCULO 71 BIS EN SU FRACCIÓN II DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0282.- SE REFORMAN LOS ARTÍCULOS 133 Y 134; Y SE ADICIONA EL ARTÍCULO 133 BIS, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. La Secretaría tendrá un plazo de noventa días naturales para que genere los ajustes a su Reglamento Interno, y para que gestione o celebre los convenios necesarios para llevar a cabo la capacitación en materia de conciliación, dirigida a los servidores públicos de las áreas que corresponda la atención de quejas por el servicio de transporte publico regular en cualquiera de sus modalidades.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
