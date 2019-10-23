@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-etica-para-los-servidores-publicos-de-la-81029"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-04-27"
-last_updated: "2011-04-27"
+last_updated: "2019-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81029&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-04-20"
 ---
 # CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL ACUERDO A/012/2019 POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS A LA PROCURADURÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 23 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DE LA PROCURADURIA GENERAL DE JUSTICIA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE OCTUBRE DE 2019 (ABROGADO).
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el miércoles 27 de abril de 2011.
 
@@ -269,3 +271,21 @@ México, D.F., a 20 de abril de 2011.
 Dr. Miguel Ángel Mancera Espinosa
 
 Procurador General de Justicia del Distrito Federal.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO A/012/2019 POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS ADSCRITAS A LA PROCURADURÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Acuerdo en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga el Acuerdo A/008/2011, por el que se expide el Código de Ética para los servidores públicos de la Procuraduría General de Justicia del Distrito Federal, emitido por su entonces titular.
+
+CUARTO. La instalación del Comité de Ética de la Procuraduría, señalado en el artículo 16, deberá efectuarse en un plazo no mayor a 30 días hábiles posteriores a la publicación del Manual Específico de Operación del citado Comité.
+
+QUINTO. El presente Acuerdo deberá ser difundido en la página institucional de la Procuraduría.
+
+SEXTO. Los titulares de las Unidades Administrativas de la Procuraduría darán a conocer el presente Acuerdo, a las personas servidoras públicas a ellos adscritas.
