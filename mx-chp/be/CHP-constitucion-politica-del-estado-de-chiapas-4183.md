@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2019-10-09"
+last_updated: "2019-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -1059,13 +1059,13 @@ XXXVIII. Nombrar al Titular del Centro de Conciliación Laboral de la terna que 
 
 Estas facultades serán ejercidas por el pleno del congreso en los términos de la ley.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 46.
 
-Dentro de los 185 días siguientes a la apertura del primer período de sesiones ordinarias del Congreso del Estado, el Gobernador del Estado presentará un informe por escrito acerca de la situación que guarden los diversos ramos de la administración pública estatal, pudiendo presentar dicho informe de manera personal. Realizado lo anterior, el Presidente del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
+Entre el 1 y el 15 de diciembre de cada año, el Gobernador del Estado presentará al Congreso del Estado, en sesión solemne, un informe por escrito acerca de la situación que guarden los diversos ramos de la Administración Pública Estatal, pudiendo presentarlo de manera personal. Una vez entregado, quien ocupe la Presidencia del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores.
 
-El Congreso del Estado podrá acordar que el informe se dé a conocer en cada Región, en las que el Ejecutivo del Estado deberá informar lo referente a los asuntos de competencia de la misma, a fin de que su análisis sea específico a los rubros informados. El Gobernador del Estado propondrá al Congreso las sedes y las sesiones que sean necesarias llevarse a cabo, así como el servidor público que deberá exponer el citado informe, de conformidad a la importancia de los asuntos a analizar.
+En el último año de ejercicio constitucional, el Gobernador del Estado podrá presentar el informe a partir del 15 de noviembre del año que corresponda, en la fecha que determine, notificando al Congreso del Estado cuando menos con quince días de anticipación.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -1361,11 +1361,9 @@ XVI. Iniciar ante el Congreso del Estado, las leyes y decretos que juzgue conven
 
 XVII. Solicitar a la Comisión Permanente que convoque al Congreso del Estado a Sesiones Extraordinarias.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-XVIII. Presentar al Congreso del Estado, dentro de los 185 días siguientes a la apertura del primer período de sesiones ordinarias del mismo, un informe debidamente documentado del estado que guarden los diversos ramos de la administración pública, así como en su caso, presentarse en las sesiones regionales acordadas por el Congreso del Estado.
-
-El Gobernador del Estado, en relación a los informes que se llevarán a cabo en cada región, podrá presentarlos por sí o a través de los servidores públicos que el designe, antes de los ocho días previos o cinco días posteriores a la réplica de los mismos.
+XVIII. Presentar al Congreso del Estado, en términos del artículo 46 de esta Constitución, un informe debidamente documentado del estado que guarden los diversos ramos de la Administración Pública Estatal.
 
 XIX. Presentar al Congreso del Estado y, en sus recesos, a la Comisión Permanente, la cuenta pública correspondiente al año anterior, a más tardar el día 30 de abril de cada año.
 
@@ -4610,3 +4608,11 @@ P.O. 9 DE OCTUBRE DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 012 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
