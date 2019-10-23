@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2019-10-02"
+last_updated: "2019-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -109,13 +111,17 @@ XII. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo d
 
 XIII. Transversalidad: acción de gobierno para el ejercicio e implementación de políticas públicas con perspectiva de género en las distintas dependencias y entidades de la Administración Pública Estatal o Municipal según sea el caso para la ejecución de programas y acciones coordinadas o conjuntas y en las realizadas por los sectores privado y social;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-XIV. Banco Estatal de Datos e Información sobre Casos y Delitos de Violencia Contra las Mujeres: Al sistema digital en el que se concentra el registro con los datos generales y sociodemográficos de las víctimas de violencia de género, las personas agresoras y las órdenes de protección dictadas en favor de las mujeres. Concentra la información proporcionada por las dependencias del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que son las encargadas de crear, procesar y actualizar los expedientes electrónicos únicos para cada caso de violencia contra la mujer y las órdenes de protección; y
+XIV. Banco Estatal de Datos e información sobre Casos y Delitos de Violencia Contra las Mujeres: Al sistema digital en el que se concentra el registro con los datos generales y sociodemográficos de las víctimas de violencia de género, las personas agresoras y las órdenes de protección dictadas en favor de las mujeres. Concentra la información proporcionada por las dependencias del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que son las encargadas de crear, procesar y actualizar los expedientes electrónicos únicos para cada caso de violencia contra la mujer y las órdenes de protección,
 
-> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-XV. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres.
+XV. Misoginia: Son conductas de odio hacia las mujeres y se manifiesta en actos violentos y crueles contra ellas por el hecho de ser mujeres; y
+
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+XVI. Parto humanizado: Modelo de atención en el que se facilita un ajuste de la asistencia médica a la cultura, creencias, valores y expectativas de la mujer, respetando la dignidad humana, así como sus derechos y los de la persona recién nacida, erradicando todo tipo de violencia física, psicológica e institucional, respetando los tiempos biológico y psicológico, evitando prácticas invasivas y suministro de medicación que no estén justificados médicamente;
 
 ### CAPÍTULO II. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES Y DE LOS ÁMBITOS EN QUE SE PRESENTAN
 
@@ -137,19 +143,43 @@ IV. Patrimonial: La acción u omisión que dañe intencionalmente el patrimonio 
 
 V. Violencia Económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima, a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, o la percepción de un salario menor por igual trabajo en un mismo centro laboral;
 
-> <small>(ADICIONADA, P.O. 18 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-VI. Violencia Política: Es el conjunto de acciones u omisiones cometidas por una o varias personas o a través de terceros, basadas en elementos de género que causen daño a una mujer y que tengan por objeto menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o prerrogativas inherentes a un cargo público.
+VI. Violencia Política: Es el conjunto de acciones u omisiones cometidas por una o varias personas o a través de terceros, basadas en elementos de género que causen daño a una mujer y que tengan por objeto menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o prerrogativas inherentes a un cargo público;
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-VII. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden culminar en homicidio y otras formas de muerte violenta de mujeres.
+VII. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden culminar en homicidio y otras formas de muerte violenta de mujeres;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2019)</small>
 
 VIII. Violencia digital: Son aquellos actos de violencia de género cometidos en parte o totalmente, cuando se utilicen las tecnologías de la información y la comunicación, plataformas de redes sociales, correo electrónico, mensajes de texto o llamadas vía teléfono celular, que causen daño psicológico o emocional, refuercen los prejuicios, dañen la reputación, causen pérdidas económicas, planteen barreras a la participación en la vida pública o privada de la víctima o puedan conducir a formas de violencia sexual o física; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE SEPTIEMBRE DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. CON LOS INCISOS QUE LA INTEGRAN], P.O. 23 DE OCTUBRE DE 2019)</small>
+
+VIII (SIC). Violencia Obstétrica: Es toda conducta u omisión por parte del personal de servicios de salud que tenga como consecuencia la pérdida de la autonomía y capacidad de la mujer para decidir libremente sobre su parto y sexualidad y que por negligencia y/o una deshumanizada atención médica durante el embarazo, parto o puerperio dañe, lastime o denigre a las mujeres de cualquier edad, que le genere una afectación física, psicológica o moral, que incluso llegue a provocar la pérdida de la vida de la mujer o, en su caso, del producto de la gestación o del recién nacido, derivado de la prestación de servicios médicos, mediante:
+
+a) No atender oportuna y eficazmente las emergencias obstétricas;
+
+b) No otorgar información suficiente sobre los riesgos de la cesárea de conformidad con la evidencia científica y las recomendaciones de la Organización Mundial de la Salud;
+
+c) Revisiones y prácticas de salud que consideren personal adicional no necesario;
+
+d) La imposición de métodos anticonceptivos o de esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer; en caso de ser menor de edad o que sufran alguna discapacidad mental, de sus padres o tutor;
+
+e) La práctica del parto vía cesárea existiendo posibilidad para efectuar parto natural y sin haber obtenido la renuncia voluntaria expresa e informada a la mujer de esta posibilidad;
+
+f) Alterar el proceso natural del parto de bajo riesgo, mediante el uso de técnicas de aceleración, sin obtener el consentimiento voluntario, expreso e informado de la mujer;
+
+g) Obstaculizar el apego precoz del niño o niña con su madre sin causa médica justificada, negándole la posibilidad de cargarlo o amamantarlo inmediatamente al nacer;
+
+h) Promover fórmulas lácteas en sustitución de la leche materna;
+
+i) No realizar las gestiones necesarias para que las mujeres que hubieren sufrido un aborto involuntario, reciban la debida atención médica y psicológica; y
+
+j) Todas aquellas previstas por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 23 DE OCTUBRE DE 2019)</small>
 
 IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
@@ -1196,3 +1226,9 @@ P.O. 2 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 158. SE ADICIONA LA FRACCIÓN IV, RECORRIÉNDOSE LAS ACTUALES FRACCIONES IV A XII PARA SER LAS NUEVAS FRACCIONES V A XIII, RESPECTIVAMENTE, DEL ARTÍCULO 28 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 175. SE REFORMAN LAS FRACCIONES XIV Y XV DEL ARTÍCULO 5° Y LAS FRACCIONES VI A LA VII DEL ARTÍCULO 6 Y SE ADICIONAN LAS FRACCIONES XVI AL ARTÍCULO 5O (SIC) Y LAS VIII Y IX AL ARTÍCULO 6, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
