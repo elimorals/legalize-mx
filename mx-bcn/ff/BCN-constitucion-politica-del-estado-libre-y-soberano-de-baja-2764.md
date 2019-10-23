@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2019-10-17"
+last_updated: "2019-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -785,9 +785,9 @@ No pueden ser electos diputados:
 
 I.- El Gobernador del Estado, sea Provisional, Interino o Encargado del Despacho durante todo el período de su ejercicio; aún cuando se separe de su cargo;
 
-> <small>(REFORMADA, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-II.- Los Magistrados y Jueces del Estado, Consejeros de la Judicatura del Estado, el Secretario General de Gobierno, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección;
+II.- Los Magistrados y Jueces del Estado, Consejeros de la Judicatura del Estado, el Secretario General de Gobierno, el Fiscal General del Estado, el Fiscal Especializado en Combate a la Corrupción, el Fiscal Especializado para la Atención de Delitos Electorales y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
@@ -849,7 +849,9 @@ APARTADO B. De la Glosa del Informe anual del Gobernador.
 
 Durante el Primer Período Ordinario de Sesiones, concluida la Glosa del Informe, el Congreso del Estado podrá solicitar durante los siguientes 15 días al Gobernador ampliar la información mediante el procedimiento de Pregunta Parlamentaria, misma que se hará por escrito y tendrá un plazo de 30 días para su respuesta. Los titulares de las dependencias del Poder Ejecutivo o de las entidades paraestatales, al comparecer ante el congreso rendirán sus informes bajo protesta de decir verdad. La Ley del Congreso y sus reglamentos regularán el ejercicio de esta facultad.
 
-Adicionalmente a lo dispuesto en el párrafo anterior, los Titulares de las Dependencias del Ejecutivo Estatal, incluido el Secretario General de Gobierno y el Procurador General de Justicia del Estado, así como los titulares e integrantes de Consejos Municipales, Directores Generales o sus equivalentes de las entidades paraestatales, estarán obligados a acudir a comparecer, bajo protesta de decir verdad, ante el Pleno o las Comisiones respectivas, cuando así lo acuerde el Congreso, por votación mayoritaria de sus integrantes.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+Adicionalmente a lo dispuesto en el párrafo anterior, los Titulares de las Dependencias del Ejecutivo Estatal, incluido el Secretario General de Gobierno y el Fiscal General del Estado, el Fiscal Especializado en Combate a la Corrupción, el Fiscal Especializado para la Atención de Delitos Electorales, así como los titulares e integrantes de Consejos Municipales, Directores Generales o sus equivalentes de las entidades paraestatales, estarán obligados a acudir a comparecer, bajo protesta de decir verdad, ante el Pleno o las Comisiones respectivas, cuando así lo acuerde el Congreso, por votación mayoritaria de sus integrantes.
 
 El Gobernador del Estado tendrá voz en el Congreso del Estado por sí o a través del Secretario General de Gobierno, para presentar iniciativas, informes o responder a preguntas, mediando solicitud para hacerlo o por invitación del Congreso del Estado, en los términos de esta Constitución y en las leyes que de ella emanen.
 
@@ -949,11 +951,11 @@ XII.- Revisar, analizar y auditar por medio de la Auditoria Superior del Estado,
 
 XIII.- Vigilar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión; el funcionamiento y desempeño de la Auditoría Superior del Estado. Al efecto, le podrá requerir informe sobre la evolución de sus trabajos en materia de fiscalización, por medio de la Comisión que determine la Ley;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 XIV.- Nombrar y remover al Auditor Superior del Estado, por el voto de las dos terceras partes de sus miembros; en la forma y términos establecidos en esta Constitución y por la Ley de la materia.
 
-Para efecto del procedimiento relativo a la designación del Auditor Superior del Estado, funcionará la Comisión Especial en los términos a que alude el artículo 70 párrafo VIII de esta Constitución. De igual manera, el Congreso del Estado, emitirá la convocatoria pública para el inicio del procedimiento citado, a la cual deberá darse amplia publicidad en los periódicos de mayor circulación del Estado y en la página oficial del Congreso del Estado.
+Para efecto del procedimiento relativo a la designación del Auditor Superior del Estado, funcionará la Comisión Especial en los términos que determine el Congreso del Estado.
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -1033,9 +1035,9 @@ XXXV.- Elaborar y aprobar el Plan de Desarrollo Legislativo en los términos de 
 
 XXXVI.- Expedir la Ley que regulará la estructura y funcionamiento interno del Congreso, su Reglamento Interior, y demás acuerdos que resulten necesarios para la adecuada organización administrativa del Congreso;
 
-> <small>(ADICIONADA, P.O. 20 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2019)</small>
 
-XXXVII.- Citar a los Secretarios del ramo, Procurador de Justicia del Estado, Titulares o Administradores de los Organismos Descentralizados Estatales o de las empresas de participación estatal mayoritaria, así como al Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura y a los Titulares de los Órganos Constitucionales Autónomos, para que informen cuando se discute una Ley, se realice la Glosa del Informe que rindan el Titular del Ejecutivo del Estado o del Poder Judicial o cuando se estudie un asunto concerniente a sus respectivos ramos o actividades.
+XXXVII.- Citar a los Secretarios del ramo, Fiscal General del Estado, al Fiscal Especializado en Combate a la Corrupción, al Fiscal Especializado para la Atención de Delitos Electorales, a los Titulares o Administradores de los Organismos Descentralizados Estatales o de las empresas de participación estatal mayoritaria, así como al Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura y a los Titulares de los Órganos Constitucionales Autónomos, para que informen cuando se discute una Ley, se realice la Glosa del Informe que rindan el Titular del Ejecutivo del Estado o del Poder Judicial o cuando se estudie un asunto concerniente a sus respectivos ramos o actividades. Para los efectos de la citación del Fiscal General del Estado se estará a lo dispuesto en el Artículo 70 de esta Constitución.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
@@ -1086,6 +1088,10 @@ XLIV.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JULIO DE 2017)</small>
 
 XLV.- Legislar en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano sustentable de los centros de población, atendiendo a las facultades concurrentes previstas en la Constitución Política de los Estados Unidos Mexicanos, en la presente Constitución y en las leyes aplicables.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE OCTUBRE DE 2019)</small>
+
+XLVI.- Designar al Fiscal General del Estado, al Fiscal Especializado en Combate a la Corrupción y al Fiscal Especializado para la Atención de Delitos Electorales, por mayoría calificada de conformidad con las reglas contenidas en esta Constitución.
 
 ### CAPITULO III.. DE LA INICIATIVA Y LA FORMACION DE LAS LEYES Y DECRETOS
 
@@ -1353,15 +1359,13 @@ La Ley determinará las bases, instancias, mecanismos de participación ciudadan
 
 ### CAPITULO I.. DEL PODER EJECUTIVO
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 1985) (F. DE E. 20 DE MARZO DE 1986)
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-###### ARTICULO 40.
+###### ARTÍCULO 40.
 
 El Ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado.
 
-El Gobernador del Estado conducirá la Administración Pública Estatal, que será Centralizada y Paraestatal, conforme a la Ley Orgánica que expida el Congreso, que distribuirá los asuntos del orden administrativo del Gobierno del Estado, que estarán a cargo de la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia, las Secretarías y las Direcciones del Ramo, y definirá las bases de creación de las entidades Paraestatales, la intervención del Gobernador en su operación y las relaciones entre éstas y la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, la Procuraduría General de Justicia, las Secretarías y las Direcciones del Ramo.
-
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+El Gobernador del Estado conducirá la Administración Pública Estatal, que será Centralizada y Paraestatal, conforme a la Ley Orgánica que expida el Congreso, que distribuirá los asuntos del orden administrativo del Gobierno del Estado, que estarán a cargo de la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, las Secretarías y las Direcciones del Ramo, y definirá las bases de creación de las entidades Paraestatales, la intervención del Gobernador en su operación y las relaciones entre éstas y la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, las Secretarías y las Direcciones del Ramo.
 
 La administración de las entidades paraestatales estará a cargo del titular de la entidad, y por un órgano de gobierno integrado con no menos de cinco ni más de trece integrantes propietarios, de los cuales la mayoría deberá pertenecer a la administración pública.
 
@@ -1403,9 +1407,9 @@ VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Munici
 
 No podrán ser electos Gobernador del Estado:
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-El Secretario General de Gobierno, los Magistrados y Jueces del Estado, Consejeros de la Judicatura del Estado, el Procurador General de Justicia y los Secretarios y Directores del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes del día de la elección.
+El Secretario General de Gobierno, los Magistrados y Jueces del Estado, Consejeros de la Judicatura del Estado, el Fiscal General del Estado, Fiscal Especializado en Combate a la Corrupción, el Fiscal Especializado para la Atención de Delitos Electorales los Secretarios y Directores del Poder Ejecutivo, salvo que se separen de sus cargos en forma definitiva, noventa días antes del día de la elección.
 
 Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
@@ -1557,13 +1561,13 @@ XXI.- Fomentar el turismo, el desarrollo industrial, agrícola, ganadero y el ap
 
 XXII.- Celebrar convenios con la Federación sobre participación de impuestos y coordinar sus esfuerzos en el Estado, a efecto de atender lo relativo a educación, salubridad y asistencia pública y para la construcción de caminos vecinales, así como en aquellas obras cuya ejecución pueda llevarse a cabo en cooperación con el Gobierno Federal y sujetándose el Ejecutivo Local a lo dispuesto por las Leyes respectivas;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-XXIII.- Nombrar libremente al Procurador General de Justicia del Estado, quien deberá reunir los requisitos que establezca la Ley de la materia;
+XXIII.- Presentar ternas al Congreso del Estado para la designación del Fiscal General del Estado, el Fiscal Especializado en Combate a la Corrupción, y para el Fiscal Especializado para la Atención de Delitos Electorales;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
-XXIV.- Remover al Procurador General de Justicia del Estado, en los términos de la Ley de la materia;
+XXIV.- Solicitar la remoción de los Fiscales a los que se refiere la fracción anterior en términos de esta Constitución;
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
 
@@ -1997,9 +2001,9 @@ Los Consejeros de la Judicatura, Magistrados, Jueces y demás funcionarios del P
 
 > <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
-### CAPITULO IV. DEL MINISTERIO PUBLICO
+### CAPITULO IV. DE LA FISCALIA GENERAL DEL ESTADO
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 68.
 
@@ -2017,7 +2021,7 @@ Concluido su encargo, no podrán asumir un cargo público en los órganos emanad
 
 El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas para su adecuado funcionamiento.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 ### CAPITULO I.. DEL MUNICIPIO Y DEL GOBIERNO MUNICIPAL
 
@@ -2025,73 +2029,85 @@ El Tribunal expedirá su Reglamento Interno y las disposiciones administrativas 
 
 ###### ARTICULO 69.
 
-El Ministerio Público es la Institución encargada de la investigación y persecución de los delitos, el cual se auxiliará con una policía que estará bajo su conducción y mando en el ejercicio de esta función, y tendrá las atribuciones y estructura que la Ley le establezca. Asimismo, intervendrá en todos los demás negocios que determinen esta Constitución y las leyes.
+La institución del Ministerio Público se organizará en una Fiscalía General del Estado, que será un órgano autónomo con personalidad jurídica y patrimonio propio, con autonomía técnica, operativa, presupuestaria, de decisión y de gestión y que tendrá a su cargo, la investigación y persecución de los delitos, ejercicio de la acción penal; promover, proteger, respetar y garantizar los derechos al conocimiento de la verdad, la reparación integral del daño y de no repetición de las víctimas, ofendidos en particular y de la sociedad en general. La Fiscalía General Ejercerá atribuciones de Seguridad Pública, a través del organismo que la ley determine para cumplir los fines establecidos por el Sistema Nacional de Seguridad Pública.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+Para la investigación de los delitos, el Ministerio Público se auxiliará de una policía que estará bajo su conducción y mando en el ejercicio de esta atribución. La Ley le establecerá su estructura y atribuciones. Asimismo, intervendrá en todos los demás asuntos que determinen esta Constitución y las leyes.
 
-La persecución de Delitos Electorales estará a cargo de la Fiscalía Especializada para la Atención de Delitos Electorales, en los términos de esta Constitución.
+Se crea el Centro Estatal de Inteligencia, integrado por la Fiscalía General y las Secretarías y Direcciones de Seguridad de los Ayuntamientos de Baja California, como órgano de coordinación en materia de seguridad pública. La coordinación del Centro estará a cargo del Fiscal General del Estado, con respeto a las autonomías de los municipios. La Ley fijará las atribuciones y responsabilidades del Fiscal General y demás participantes del Centro Estatal de inteligencia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+La Fiscalía General del Estado contará con un Órgano Interno de Control que contará con las atribuciones previstas en las leyes aplicables, denominado Fiscalía de Contraloría y Visitaduría; cuyo titular al igual que los demás fiscales que formen parte de la Fiscalía General del Estado serán nombrados y removidos por el Fiscal General del Estado.
 
-La persecución de Delitos relacionados con Hechos de Corrupción estará a cargo de la Fiscalía Especializada en Combate a la Corrupción, atendiendo a lo previsto en esta Constitución y las Leyes.
+El Fiscal General del Estado, en términos de las disposiciones legales aplicables, presentará de manera directa al Congreso del Estado el Proyecto de Presupuesto de Egresos del Ejercicio Fiscal que corresponda.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 70.
 
-El Procurador General de Justicia, los Subprocuradores y Agentes del Ministerio Público que determine la Ley, ejercen y representan al Ministerio Público.
+Al frente de la Fiscalía General del Estado estará un Fiscal General, que durará en su cargo seis años.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+Para ocupar el cargo de Fiscal General del Estado, se requiere:
 
-La Procuraduría General de Justicia del Estado y las Fiscalías Especializadas para la Atención de Delitos Electorales del Estado y en combate a la Corrupción, de acuerdo con la Ley Orgánica que las rige, sentarán las bases de coordinación para la investigación de los delitos, así como el auxilio de peritos y técnicos, y de la Policía Ministerial.
+I.- Ser ciudadano mexicano por nacimiento, y estar en pleno goce y ejercicio de sus derechos civiles;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+II.- Tener cuando menos treinta y cinco años de edad al día de la designación;
 
-Las Fiscalías Especializadas para la Atención de Delitos Electorales y la de Combate a la Corrupción, son órganos con autonomía técnica administrativa y operativa, con personalidad jurídica y patrimonio propio.
+III.- Tener por lo menos diez años de ejercicio profesional, contados a partir de la expedición de la cédula profesional de licenciado en derecho;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+IV.- No estar sujeto o vinculado a proceso penal o haber sido condenado por delito doloso;
 
-La Fiscalía Especializada para la Atención de Delitos Electorales, es responsable de la investigación y persecución de los delitos electorales, función que deberá de realizar con la más estricta reserva. Las autoridades y particulares están obligados a acatar sus requerimientos y la Ley establecerá su organización, funcionamiento y sanciones aplicables.
+V.- No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público, en los términos de las normas aplicables;
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+VI.- Haber residido en el Estado en forma continua e ininterrumpida durante los cinco años anteriores al día de la designación;
 
-El Fiscal Especializado para la Atención de Delitos Electorales, será nombrado por mayoría calificada del Congreso del Estado, mediante un procedimiento de consulta pública en los términos, requisitos y condiciones que establezcan las Leyes, durará en su cargo cuatro años y podrá ser reelecto por una sola ocasión.
+VII.- Presentar programa integral de trabajo sobre Procuración de Justicia en Baja California; y
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2017)</small>
+VIII.- Someterse a la evaluación de control de confianza correspondiente.
 
-La Fiscalía Especializada en Combate a la Corrupción, tiene por objeto la investigación y persecución de los delitos relacionados con hechos de corrupción cometidos por servidores públicos y por particulares, en los términos de la Ley.
+El Fiscal General del Estado será nombrado y removido de conformidad con esta Constitución por las causas graves que establezca la misma.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+La solicitud de remoción del Fiscal General estará a cargo del Congreso del Estado o del Titular del Ejecutivo Estatal. Para que se dé la remoción deberá aprobarse por el voto de las dos terceras partes de sus integrantes del Congreso. La solicitud de remoción podrá ser objetada dentro de un plazo de diez días hábiles, por el Ejecutivo o por el Congreso del Estado. Si el Ejecutivo o el Congreso no se pronunciaren sobre la remoción solicitada, se entenderá que no existe objeción y previo el procedimiento previsto en la Ley, será el Congreso quien por el voto de las dos terceras partes de sus integrantes determine su remoción. En todo caso el Congreso deberá otorgar el derecho de audiencia.
 
-La designación del titular de la Fiscalía Especializada en Combate a la Corrupción, se realizará mediante convocatoria pública y será nombrado por mayoría calificada del Congreso del Estado. Los requisitos, términos y procedimientos serán los que establezca la Ley de la materia. Durará en su cargo cuatro años y podrá ser reelecto por una sola ocasión. Solo podrá ser removido por mayoría calificada del Congreso por haber incurrido en faltas graves previstas en esta Constitución y en la Ley de la materia.
+Contra la resolución del Congreso del Estado no se admitirá recurso alguno.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+El Fiscal General del Estado no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-Para el nombramiento del titular de la Fiscalía Especializada en Combate a la Corrupción, se creará una Comisión Especial integrada por tres Diputados de la Comisión de Dictamen Legislativo pertenecientes a distintas fracciones parlamentarias y cuatro ciudadanos integrantes del Comité de Participación Ciudadana, la cual tendrá a su cargo el proceso de evaluación y comparecencia de los aspirantes al cargo, conforme a lo que establezca la Ley de la materia.
+El Fiscal General del Estado presentará anualmente al Poder Legislativo y Ejecutivo del Estado un informe de actividades. Asimismo, comparecerá ante el Pleno del Congreso del Estado cuando éste se lo solicite para rendir cuentas o a informar sobre su gestión.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+El Fiscal General del Estado será designado con base al procedimiento siguiente:
 
-Las Fiscalías deberán realizar sus funciones con la más estricta reserva. Las autoridades y particulares están obligados a acatar sus requerimientos y la Ley establecerá su organización, funcionamiento y sanciones aplicables.
+I. Tres meses antes de que concluya el cargo del Fiscal General del Estado o a partir de la ausencia definitiva, el Gobernador contará con veinte días hábiles para integrar una propuesta al cargo de Fiscal General del Estado, la cual enviará al Congreso.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+II. Recibida la propuesta, el Pleno del Congreso del Estado tendrá a su vez hasta cuatro días hábiles para resolver en sesión única sobre la designación del Fiscal General del Estado por mayoría calificada. Una vez iniciada la sesión, ésta no podrá suspenderse ni interrumpirse hasta que se resuelva sobre la designación.
 
-Los Titulares de las Fiscalías, estarán sujetos al sistema de responsabilidades que fija esta Constitución en su Título Octavo y la Ley de Responsabilidades de los Servidores Públicos del Estado y podrán ser removidos de su cargo cuando incurran en alguna de las causas previstas en esta Constitución y las Leyes.
+III. En caso de que el Congreso no apruebe la propuesta enviada, el Gobernador del Estado enviará una segunda propuesta. En caso de que el Congreso tampoco logre la aprobación de esta segunda propuesta le solicitará al Gobernador del Estado que haga llegar una tercera propuesta, misma que si no fuere aprobada provocará que la designación del Fiscal sea hecha por el propio titular del Poder Ejecutivo del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
-
-Los Titulares de las Fiscalías, deberán enviar un informe Semestral al Congreso, sobre la cantidad y naturaleza de las denuncias recibidas, el estado del número único de casos iniciados, los archivados, en los que no se ejercitó acción penal y los enviados a reserva, así como las consignaciones efectuadas, de los procesos y de los amparos, en su caso, así como de las funciones que en materia de prevención del delito le corresponden.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 71.
 
-El Procurador General de Justicia dirigirá al Ministerio Público, y será nombrado y removido de conformidad a esta Constitución y a la Ley.
+La Fiscalía Especializada para la Atención de Delitos Electorales estará a cargo de la investigación y persecución de delitos electorales. Las autoridades y particulares están obligados a acatar sus requerimientos y la Ley establecerá su organización, funcionamiento y sanciones aplicables.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
+La investigación y persecución de delitos relacionados con hechos de corrupción cometidos por servidores públicos y por particulares estará a cargo de la Fiscalía Especializada en Combate a la Corrupción. Las autoridades y particulares están obligados a acatar sus requerimientos y la Ley establecerá su organización, funcionamiento y sanciones aplicables.
+
+Los titulares de la Fiscalía Especializada en Combate a la Corrupción y Fiscal Especializado para la Atención de Delitos Electorales durarán en su cargo cuatro años y podrán ser reelectos por una sola ocasión; serán nombrados por mayoría calificada del Congreso del Estado a través del procedimiento que se establezca en la Ley.
+
+El titular de la Fiscalía Especializada para la Atención de Delitos Electorales así como el titular de la Fiscalía Especializada en Combate a la Corrupción, deberán reunir los requisitos establecidos en el artículo 70 de esta Constitución y serán nombrados por mayoría calificada del Congreso del Estado a través del siguiente procedimiento:
+
+I. Tres meses antes de que concluya el cargo o a partir de la ausencia definitiva, el Gobernador del Estado contará con veinte días hábiles para hacer llegar al Congreso del Estado la terna para ocupar la titularidad de la Fiscalía que corresponda.
+
+II. Recibida la terna, el Pleno del Congreso del Estado tendrá a su vez hasta cuatro días hábiles para resolver en sesión única sobre la designación del Fiscal que corresponda por mayoría calificada. Una vez iniciada la sesión, ésta no podrá suspenderse ni interrumpirse hasta que se resuelva sobre la designación.
+
+III. En caso de que el Congreso no apruebe la terna enviada, el Gobernador del Estado enviará una segunda terna. En caso de que el Congreso tampoco logre la aprobación de esta segunda terna le solicitará al Gobernador del Estado que haga llegar una tercera terna, misma que si no fuere aprobada provocará que la designación del Fiscal sea hecha por el propio titular del Poder Ejecutivo del Estado.
+
+Los Titulares de las Fiscalías estarán sujetos al sistema de responsabilidades que fija esta Constitución en su Título Octavo y la Ley de Responsabilidades Administrativas del Estado, y podrán ser removidos de su cargo cuando incurran en alguna de las causas previstas en esta Constitución y las Leyes.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 72.
 
-Los Subprocuradores serán nombrados y removidos por el Gobernador a propuesta del Procurador, en la forma que determine la Ley.
+El Fiscal General del Estado, el Fiscal Especializado en Atención a Delitos Electorales, el Fiscal Especializado en Combate a la Corrupción, los Fiscales y Agentes del Ministerio Público que determine la Ley, ejercen y representan a la institución del Ministerio Público.
+
+La Ley establecerá las bases para la formación y actualización de los servidores públicos de las Fiscalías, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2008)</small>
 
@@ -2287,7 +2303,9 @@ V.- No podrán ser electos miembros de un Ayuntamiento:
 
 1.- El Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo.
 
-2.- Los Magistrados y Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Procurador General de Justicia y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección.
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+
+2.- Los Magistrados y los Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Fiscal General del Estado, Fiscal Especializado para la Atención de Delitos Electorales, el Fiscal Especializado en Combate a la Corrupción y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección.
 
 3.- Los Diputados Locales, los Diputados y Senadores del Congreso de la Unión, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
 
@@ -2647,13 +2665,13 @@ La Ley señalará los casos de prescripción de la responsabilidad administrativ
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado respecto de las conductas a las que se refiere el presente Artículo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO –ANTES PRIMER PÁRRAFO-], P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO -ANTES PRIMER PÁRRAFO-], P.O. 28 DE JULIO DE 2017)</small>
 
 En materia de Juicio Político y Moción de Censura, se observarán las siguientes bases:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2019)</small>
 
-APARTADO A. Del Juicio Político.- Podrán ser sujetos de Juicio Político: los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Titulares de las Secretarías del Ejecutivo del Estado, Procurador General de Justicia del Estado, Presidente de la Comisión Estatal de los Derechos Humanos, Magistrados del Tribunal Estatal de Justicia Administrativa, Jueces, Presidentes Municipales, Regidores, Síndicos Municipales, Tesoreros, Secretarios de Gabinete y demás miembros de los Ayuntamientos de Elección Popular, Consejos Municipales, Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
+APARTADO A. Del Juicio Político.- Podrán ser sujetos de Juicio Político: los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Secretario General de Gobierno, Titulares de las Secretarías del Ejecutivo del Estado, Fiscal General del Estado, Fiscal Especializado para la Atención de Delitos Electorales, el Fiscal Especializado en Combate a la Corrupción, el Presidente de la Comisión Estatal de los Derechos Humanos, Magistrados del Tribunal Estatal de Justicia Administrativa, Jueces, Presidentes Municipales, Regidores, Síndicos Municipales, Tesoreros, Secretarios de Gabinete y demás miembros de los Ayuntamientos de Elección Popular, Consejos Municipales, Directores Generales o sus equivalentes de los Organismos Descentralizados, Empresas de Participación Mayoritaria, Sociedades y Asociaciones asimiladas a éstas y Fideicomisos Públicos.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
@@ -2675,37 +2693,61 @@ El Congreso del Estado concurriendo cuando menos las dos terceras partes del nú
 
 Las resoluciones que emita el Congreso del Estado, serán en ejercicio pleno de su soberanía, y por lo tanto, resolverá en forma libre y discrecional. Dichas resoluciones serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE OCTUBRE DE 2019)</small>
 
-B. De la Moción de Censura.- A petición de por lo menos una tercera parte de los miembros del Congreso, se podrá proponer una Moción de Censura en contra de los Titulares de las Dependencias del Ejecutivo Estatal, que hayan sido ratificados por el Congreso.
+APARTADO B. De la Moción de Censura.- A petición de por lo menos una tercera parte de los miembros del Congreso, se podrá proponer una Moción de Censura en contra de los Titulares de las Dependencias del Ejecutivo Estatal, que hayan sido ratificados por el Congreso.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Para aprobar la Moción de Censura se requerirá la mayoría de votos de los miembros presentes en caso de que el efecto sea el apercibimiento del funcionario. Cuando el efecto sea la remoción del cargo se requerirá el voto de las dos terceras partes de los miembros presentes.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
 La Moción de Censura podrá proceder exclusivamente contra los funcionarios ratificados por el Congreso del Estado, que refieren los artículos 27 y 49 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 La Moción de Censura será discutida en una sola sesión, el servidor público sujeto al procedimiento tendrá derecho a ser oído durante dicho debate.
 
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+
 La votación no podrá llevarse a cabo en la misma sesión, sino con posterioridad a los siguientes siete días hábiles, en caso de no realizarse en este plazo, se tendrá por desechada y no podrá presentarse una nueva moción de censura dirigida al mismo funcionario, dentro de un año después.
+
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Las decisiones que determine en esta materia el Congreso del Estado son definitivas e inatacables.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 94.
 
-Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Magistrados del Tribunal de lo Contencioso Administrativo, Secretario General de Gobierno, Procurador General de Justicia del Estado, Fiscal Especializado para la Atención de Delitos Electorales, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado o Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, bastará que el juez de control dicte auto de vinculación penal, en los términos del Código Nacional de Procedimientos Penales.
+Para proceder penalmente contra el Gobernador, los Diputados del Congreso del Estado, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Magistrados del Tribunal Estatal de Justicia Administrativa, Secretario General de Gobierno, Fiscal General del Estado, Fiscal Especializado en Combate a la Corrupción, Fiscal Especializado para la Atención de Delitos Electorales, Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos del Estado o Comisionados del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, bastará que el juez de control dicte auto de vinculación penal, en los términos del Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Si el Juez decreta la vinculación a proceso del servidor público, así como la imposición de medidas cautelares que impidan a este llevar el juicio en libertad en los términos de las disposiciones legales conducentes, bastará con la notificación personal respectiva para que surta efectos la separación del cargo del procesado. De igual manera, el Juez notificará de inmediato a los órganos internos de control, que el servidor público quedará a disposición de las autoridades judiciales, para que realicen los respectivos trámites legales con arreglo a la Ley. Si la sentencia fuese absolutoria, o en caso de sobrevenir alguna causa que extinga el proceso penal, los servidores públicos podrán reasumir su función si aún no ha fenecido el periodo por el cual fueron electos o designados.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 En tratándose de servidores públicos de elección popular, el Juez notificará al Congreso del Estado a fin de que sea éste quien haga cumplir la resolución, y le notifique la separación del cargo en los términos de ley.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Si la sentencia fuese condenatoria y se trata de un delito cometido durante el ejercicio de su encargo, no se concederá al reo la gracia del indulto, procediéndose siempre de conformidad con la Ley correspondiente para que cumpla su sentencia.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 En el caso de que la resolución del Juez fuese no vincular a proceso, o que vinculando al mismo, las medidas cautelares no impidiesen al servidor público permanecer en el cargo, este solo podrá ser separado por resolución judicial ejecutoriada, sin que lo anterior demerite o impida el desarrollo del debido proceso penal de que se trate.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 En el caso de violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales cometidas por el Gobernador del Estado, Diputados, Magistrados del Poder Judicial del Estado, Consejeros de la Judicatura del Estado, Presidentes Municipales, y a los miembros de los órganos a los que la Constitución otorgue autonomía, se procederá de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
+
 Las sanciones penales se aplicarán de acuerdo con lo dispuesto en la legislación penal, y tratándose de delitos de cuya comisión el autor obtenga un beneficio económico o cause daños y perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por su conducta ilícita.
+
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 2017)</small>
 
 Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
@@ -2981,9 +3023,11 @@ El Presidente del Congreso preguntará:
 
 "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Estatal de Justicia Administrativa que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
 
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 110.
 
-El Secretario de Gobierno, el Procurador de Justicia y demás altos funcionarios del Estado rendirán la protesta ante el Gobernador y los empleados en la forma que determinen las leyes respectivas.
+El Secretario de Gobierno, y demás altos funcionarios del Estado rendirán la protesta ante el Gobernador y los empleados en la forma que determinen las leyes respectivas. El Fiscal General del Estado, así como el Fiscal Especializado para la Atención de Delitos Electorales, y el Fiscal Especializado en Combate a la Corrupción rendirán protesta ante el Pleno del Congreso del Estado.
 
 ###### ARTICULO 111.
 
@@ -4804,3 +4848,35 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 TERCERO.- El Ejecutivo del Estado dispondrá se publique, circule y proveerá el debido cumplimiento al presente Decreto.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 07 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 18, 22, 27, 40, 42, 49, 69, 70, 71, 72, 80, 93, 94, 110, ASÍ COMO LA MODIFICACIÓN DEL CAPÍTULO IV DEL TÍTULO QUINTO, PARA DENOMINARSE "DE LA FISCALÍA GENERAL" TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- El Fiscal General del Estado, así como el Fiscal Especializado para la Atención de Delitos Electorales, y el Fiscal Especializado en Combate a la Corrupción que sean designados con motivo de la presente reforma tomaran protesta ante el Pleno de (sic) Congreso del Estado. Los anteriores fiscales designados en el año dos mil diecinueve durarán en su encargo 5 años.
+
+TERCERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+CUARTO.- Dentro del plazo de 90 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso deberá expedir la Ley Orgánica de la Fiscalía General del Estado y las Leyes que deberán regir el trabajo de las Fiscalías previstas en la presente reforma.
+
+En el mismo plazo, el Congreso del Estado realizará las modificaciones necesarias a la Ley Orgánica de la Administración Pública del Estado, así como a los demás ordenamientos legales que fueren necesarios.
+
+Hasta en tanto se expide la Ley Orgánica de la Fiscalía General del Estado y se realizan las modificaciones señaladas en el párrafo anterior, se seguirán aplicando las disposiciones normativas a que haya lugar, siempre que ello no contravenga el presente Decreto.
+
+QUINTO.- El Procurador General de Justicia del Estado que se encuentre en funciones a la entrada en vigor del presente Decreto seguirá en funciones hasta que el Congreso del Estado efectúe la designación del Fiscal General del Estado en términos del presente Decreto.
+
+SEXTO.- Los Subprocuradores que se encuentren en funciones deberán mantenerse en el cargo, hasta en tanto se designen a los Fiscales que correspondan conforme al presente Decreto.
+
+SÉPTIMO.- Una vez hecha la declaratoria de incorporación de estas reformas a la Constitución del Estado, se deberá dar inicio al procedimiento de designación del Fiscal General del Estado, así como del Fiscal Especializado para la Atención de Delitos Electorales, y del Fiscal Especializado en Combate a la Corrupción.
+
+OCTAVO.- Los bienes muebles e inmuebles, recursos financieros y demás activos con los que opere la Procuraduría General de Justicia del Estado y la Secretaría de Seguridad Pública del Estado se entenderán transferidos como patrimonio de la Fiscalía General del Estado y en su caso a la Fiscalía Especializada para la Atención de Delitos Electorales. En el caso de la Fiscalía Especializada en Combate a la Corrupción la Secretaría de Planeación y Finanzas y el Congreso del Estado deberán proveer en conjunto los recursos presupuestales suficientes para su funcionamiento. Lo anterior, sin perjuicio de que los recursos materiales, humanos y financieros pertenecientes a la Subsecretaría del Sistema Estatal Penitenciario deberán pasar íntegramente a formar parte de la Secretaría General de Gobierno a fin de cumplir con lo dispuesto por la Ley Nacional de Ejecución Penal.
+
+NOVENO.- Se declara desaparecida la Policía Estatal Preventiva, aunque en un término de seis meses contados a partir de la publicación de la presente reforma la Fiscalía General deberá instrumentar un programa de depuración para los Elementos de dicha corporación que quieran formar parte de la nueva corporación prevista en el artículo 69 de la presente reforma. De la misma forma se declara desaparecida la Secretaría de Seguridad Pública, aunque los trabajadores de la Procuraduría General de Justicia y de la Secretaría de Seguridad Pública del Estado, que formen parte de la Fiscalía General de Estado mantendrán sus derechos laborales en los mismos términos del régimen laboral bajo el cual fueron contratados. En el caso de los Agentes del Ministerio Público, Peritos y Policías Ministeriales conservarán con el Estado su relación administrativa, en los mismos términos y condiciones previstos en las leyes aplicables.
+
+DÉCIMO.- Dentro de los treinta días siguientes a la publicación del presente Decreto, se constituirá un Comité Intersecretarial integrado por el Secretario General de Gobierno, quien lo presidirá, el Oficial Mayor de Gobierno, el Secretario de Planeación y Finanzas y el Fiscal General del Estado, con el objeto de planificar, programar, proyectar, vigilar, evaluar y dar seguimiento a todas aquellas labores que sean necesarias para la correcta implementación del presente Decreto, así como coordinar las tareas entre las distintas áreas involucradas.
+
+DÉCIMO PRIMERO.- El trámite y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Procuraduría General de Justicia o ante la Secretaría de Seguridad Pública, serán continuados ante la Fiscalía General del Estado. Toda referencia que se haga en otras disposiciones legales y reglamentarias a la Procuraduría General de Justicia se entenderá hecha a la Fiscalía General del Estado.
+
+DÉCIMO SEGUNDO.- Las funciones, facultades, derechos y obligaciones a cargo de la Procuraduría General de Justicia y/o de la Secretaría de Seguridad Pública del Estado en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los Municipios, y con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado.
