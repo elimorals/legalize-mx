@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-del-25505
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-08-01"
-last_updated: "2018-12-28"
+last_updated: "2019-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25505&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,11 @@ issue_date: "2002-06-20"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
-
-[NOTA 2: DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL PUNTO SÉPTIMO DEL "ACUERDO 20/2018, DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL, POR EL QUE SE APRUEBA REFORMAR, ADICIONAR Y DEROGAR DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL" PUBLICADO EN LA G.O. DE 28 DE DICIEMBRE DE 2018, LA EXPRESIÓN REFERIDA A LA COORDINACIÓN DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN QUE SE ENCUENTRE REFERIDA EN NORMATIVIDAD INTERNA VIGENTE PARA ESTA COMISIÓN, SE ENTENDERÁ ALUSIVA A LA DIRECCIÓN DE TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN, CON BASE EN LOS TÉRMINOS PLANTEADOS EN EL PRESENTE ACUERDO.]
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 23 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE OCTUBRE DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de agosto de 2002.
 
@@ -2971,3 +2969,21 @@ OCTAVO. Hasta en tanto no entre en vigor este Acuerdo, subsistirán en sus térm
 ## TRANSITORIO
 
 ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+P.O. 23 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO”.]
+
+Primero. El presente Reglamento Interno fue aprobado por el Consejo de la Comisión de Derechos Humanos de la Ciudad de México, en sesión extraordinaria de fecha 08 de octubre de 2019. Entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Se abroga el Reglamento Interno de la Comisión de Derechos Humanos del Distrito Federal, así como las disposiciones que se opongan a lo establecido en el presente Reglamento.
+
+Cuarto. Los procedimientos que se encuentren sustanciando ante la Comisión de Derechos Humanos, con anterioridad a la entrada en vigor de la Ley Orgánica de la Comisión de la Ciudad de México, continuarán su trámite hasta su conclusión en los términos establecidos en la normatividad vigente al momento de su inicio y en los términos sobre la retroactividad previstos en el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Quinto. La normatividad interna e instrumentos administrativos que requieran modificación, actualización y armonización, derivadas del presente Reglamento entrarán en vigor a partir del 01 de enero de 2020.
+
+Sexto. A partir de la entrada en vigor del presente Reglamento, todas las menciones que se realicen a la Dirección General de Quejas y Orientación, a la Coordinación de Vinculación con la Sociedad Civil y de Política Públicas, a la Dirección Ejecutiva de Educación por los Derechos Humanos, al Centro de Investigación Aplicada en Derechos Humanos y a la Dirección Ejecutiva de Asuntos Legislativos y Evaluación, se entenderán que se realizan a la Dirección General de Quejas y Atención Integral, a la Dirección Ejecutiva de Promoción y Agendas en Derechos Humanos, a la Dirección Ejecutiva de Educación en Derechos Humanos, a la Dirección Ejecutiva de Investigación e Información en Derechos Humanos y a la Dirección Ejecutiva de Delegaciones y Enlace Legislativo, respectivamente.
+
+Séptimo. A más tardar el 31 de diciembre de 2019, las Áreas de la Comisión deberán transferir a las Áreas que corresponda, los archivos de los asuntos que tengan en trámite, con motivo de la asignación de las atribuciones derivadas de este Reglamento.
