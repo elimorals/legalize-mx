@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-sistema-de-coordinacion-fiscal-del-estado-de-125262"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2019-08-06"
+last_updated: "2019-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DEL SISTEMA DE COORDINACIÓN FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
 
 Ley publicada en la Segunda Sección al Número 592 del Periódico Oficial de Campeche, el miércoles 27 de diciembre de 2017.
 
@@ -627,19 +627,19 @@ EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- E
 
 > <small>[N. DE E. VÉASE ANEXO 1 EN EL P.O. DE 27 DE DICIEMBRE DE 2017, PÁGINA 90.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 1, P.O. 16 DE AGOSTO DE 2018, PÁGINAS DE LA 1 A LA 2; 31 DE ENERO DE 2019, PÁGINA 6.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 1, P.O. 16 DE AGOSTO DE 2018, PÁGINAS DE LA 1 A LA 2; 31 DE ENERO DE 2019, PÁGINA 6; 24 DE OCTUBRE DE 2019, PÁGINA 1.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 2 EN EL P.O. DE 27 DE DICIEMBRE DE 2017, PÁGINA 91.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 2, P.O. 31 DE ENERO DE 2019, PÁGINA 6.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 2, P.O. 31 DE ENERO DE 2019, PÁGINA 6; 24 DE OCTUBRE DE 2019, PÁGINA 2.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 3 EN EL P.O. DE 27 DE DICIEMBRE DE 2017, PÁGINA 92.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 3, P.O. 16 DE AGOSTO DE 2018, PÁGINA 3; 31 DE ENERO DE 2019, PÁGINA 7.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 3, P.O. 16 DE AGOSTO DE 2018, PÁGINA 3; 31 DE ENERO DE 2019, PÁGINA 7; 24 DE OCTUBRE DE 2019, PÁGINA 3.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 4 EN EL P.O. DE 27 DE DICIEMBRE DE 2017, PÁGINA 93.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 4, P.O. 16 DE AGOSTO DE 2018, PÁGINAS DE LA 4 A LA 6; 31 DE ENERO DE 2019, PÁGINA 8.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO 4, P.O. 16 DE AGOSTO DE 2018, PÁGINAS DE LA 4 A LA 6; 31 DE ENERO DE 2019, PÁGINA 8; 24 DE OCTUBRE DE 2019, PÁGINA 4.]</small>
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
@@ -660,3 +660,7 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
 Tercero. Se autoriza a la Secretaría de Finanzas con el propósito de que lleve a cabo las adecuaciones al presupuesto del Poder Ejecutivo a efecto de que cubra los montos que correspondan al ejercicio fiscal 2019 de los contratos plurianuales a que hacen referencia los párrafos segundo y tercero del artículo 25 de la Ley de Presupuesto de Egresos del Estado de Campeche para el ejercicio fiscal 2019.
+
+P.O. 24 DE OCTUBRE DE 2019.
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CAMPECHE.]</small>
