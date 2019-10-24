@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2019-04-10"
+last_updated: "2019-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -91,9 +93,9 @@ IX. Persona agresora: Quien ejerce cualquier tipo de violencia contra las mujere
 
 X. Perspectiva de igualdad de género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Propone eliminar las causas de la opresión de género como la desigualdad, la injusticia, la violencia y la jerarquización de las personas basada en su sexo. Promueve la igualdad entre las personas a través del adelanto para lograr el bienestar subjetivo de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, sobre una base de igualdad, derechos humanos y libertades fundamentales, para acceder a los recursos económicos y a la representación política, social, cultural y civil, tanto en todo los ámbitos de la vida;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-XI. Protocolo: Los documentos oficiales que rigen el actuar de las autoridades y de profesionales en la atención de víctimas de violencia;
+XI. Protocolo de actuación: Conjunto de reglas y procedimientos que rigen el actuar de las autoridades y de profesionales en la atención de víctimas de violencia contra las mujeres, niñas y de género que sirven como herramienta de apoyo que dé una base y guía para manejar de forma adecuada casos que se presenten.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -981,6 +983,8 @@ V. Las demás previstas para el cumplimiento de la ley.
 
 De la Universidad de Guadalajara y de las Instituciones Públicas de Educación Superior.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 24 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 39.
 
 Corresponde al Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar, además de lo establecido en otros ordenamientos:
@@ -1011,9 +1015,17 @@ Corresponde a la Universidad de Guadalajara y a las Instituciones Públicas de E
 
 I. Promover con la comunidad científica y académica la participación con el Gobierno del Estado en la elaboración de los planes y programas derivados de la aplicación de la presente ley;
 
-II. Promover la elaboración de estudios estadísticos sobre la violencia de género en el estado; y
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-III. Promover la difusión, entre la comunidad estudiantil, de una cultura de respeto a los derechos humanos de las mujeres.
+II. Promover la elaboración de estudios estadísticos sobre la violencia de género en el estado;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+III. Promover la difusión, entre la comunidad estudiantil, de una cultura de respeto a los derechos humanos de las mujeres; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2019)</small>
+
+IV. Aprobar, observar y aplicar protocolos de actuación especializados para la prevención, atención, sanción y erradicación de las violencias contra las mujeres, niñas y de género, de forma particular los relacionados con el acoso y hostigamiento sexual por parte de la comunidad universitaria.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2019)</small>
 
@@ -1459,7 +1471,41 @@ I. Tratamiento psicológico o psiquiátrico según lo requiera de acuerdo a un d
 
 II. Información jurídica sobre las consecuencias legales de su conducta.
 
-...
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+### CAPÍTULO VII
+
+DE LOS PROTOCOLOS DE ACTUACIÓN PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE VIOLENCIA CONTRA LAS MUJERES, NIÑAS Y DE GÉNERO.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 61.
+
+Los protocolos de actuación en materia de prevención, atención, sanción y erradicación de violencia contra las mujeres, niñas y de género a que se refiere esta ley deberán establecer cuando menos:
+
+I. Las reglas mínimas de actuación en la prevención, atención, sanción y erradicación de las violencias contra las mujeres y las niñas;
+
+II. Las acciones específicas necesarias para cada de (sic) tipo y modalidad de la violencia a la que va dirigido; y
+
+III. Los elementos teóricos, prácticos y técnicos para su ejecución.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 62.
+
+Los protocolos de actuación en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, niñas y de género a los que se refiere esta ley, deberán ser aplicados por las dependencias y entidades de los poderes del estado, y organismos constitucionales autónomos y gobiernos municipales.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 63.
+
+Las dependencias y entidades públicas que en el ejercicio de sus funciones tengan injerencia con instituciones privadas como centros educativos y laborales y de salud entre otros, deberán de expedir y vigilar la aplicación de los protocolos de actuación en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, niñas y de género a los que se refiere esta ley aplicables para dichas instituciones.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 64.
+
+En el caso de los protocolos especializados en la prevención, atención y erradicación del acoso y hostigamiento, además de lo que establece el artículo anterior deberán contemplar las medidas de reparación integral del daño y la protección en todo el proceso de la integridad de las víctimas, así como las garantías de no repetición de la conducta y el respeto al principio de presunción de inocencia.
 
 ## TRANSITORIOS
 
@@ -1574,3 +1620,11 @@ SEXTO. El Congreso del Estado realizará las reformas que, en su caso, resulten 
 SÉPTIMO. El Congreso del Estado, en su caso, realizará las modificaciones presupuestales necesarias para dotar de recursos suficientes para la aplicación de este decreto.
 
 OCTAVO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27385/LXII/19 QUE REFORMA EL ARTÍCULO 176 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, LOS ARTÍCULOS 2° FRACCIÓN XI, 40 Y SE ADICIONA UN CAPÍTULO VII AL TÍTULO TERCERO, DENOMINADO "DE LOS PROTOCOLOS DE ACTUACIÓN PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE VIOLENCIA CONTRA LAS MUJERES, NIÑAS Y DE GÉNERO" CON LOS ARTÍCULOS 61, 62, 63 Y 64 TODAS (SIC) LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
+
+SEGUNDO. Las dependencias y entidades obligadas por la presente ley a crear los protocolos contarán con un plazo de 180 días a partir de la publicación del presente decreto, para la elaboración y publicación de los mismos.
