@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-de-informacion-estadistica-y-96852"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-07"
-last_updated: "2015-03-28"
+last_updated: "2019-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY ORGANICA DEL INSTITUTO DE INFORMACION ESTADISTICA Y GEOGRAFICA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL INSTITUTO DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 7 de diciembre de 2013.
 
@@ -43,9 +45,11 @@ LEY ORGÁNICA DEL INSTITUTO DE INFORMACION ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO
 
 ### Capítulo I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden e interés público y tiene por objeto crear al Instituto de Información Estadística y Geográfica del Estado de Jalisco como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Planeación, Administración y Finanzas, así como regular su organización, funcionamiento y atribuciones.
+La presente ley es de orden e interés público y tiene por objeto crear al Instituto de Información Estadística y Geográfica del Estado de Jalisco como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría General de Gobierno, así como regular su organización, funcionamiento y atribuciones.
 
 ###### Artículo 2.
 
@@ -95,7 +99,9 @@ El instituto tiene su domicilio legal en el área metropolitana de Guadalajara.
 
 Son autoridades concurrentes en materia de información estadística, dentro de su ámbito de competencia:
 
-I. El Instituto Nacional de Estadística, Geografía e Informática;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+I. El Instituto Nacional de Estadística y Geografía;
 
 II. Los poderes Legislativo, Ejecutivo y Judicial del Estado;
 
@@ -117,9 +123,11 @@ El Sistema de Información Estratégica tendrá acceso a la información de las 
 
 La información contenida en el Sistema de Información es pública y estará en todo momento a disposición para su consulta, ya sea de manera física o a través de las tecnologías de la información implementadas por el Instituto.
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 9.
 
-El Sistema de Información contará con un comité asesor, integrado por especialistas técnicos, académicos o de investigación en materia socio-demográfica, económico-financiera y geográfico-ambiental.
+El Sistema de Información contará con un comité asesor, integrado por especialistas técnicos, académicos o de investigación en materia demográfica y social, económica y financiera, geográfica y ambiental, y de gobierno, seguridad pública e impartición de justicia.
 
 ### Capítulo III. Atribuciones del Instituto
 
@@ -227,31 +235,45 @@ El Instituto contará con el personal técnico y administrativo necesario para d
 
 La Junta de Gobierno se integra por:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-II. El Secretario de Planeación, Administración y Finanzas, quien la presidirá en ausencia del Gobernador del Estado;
+I. El Secretario General de Gobierno o quien determine el Gobernador del Estado, quien la presidirá;
 
-III. El Secretario de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-IV. El Secretario de Medio Ambiente y Desarrollo Territorial;
+II. El titular de las siguientes dependencias o a quien éste designe:
 
-V. El Secretario de Desarrollo e Integración Social;
+a) Secretaría de Desarrollo Económico;
 
-VI. El Secretario de Innovación, Ciencia y Tecnología;
+b) Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-VII. El Subsecretario de Planeación;
+c) Secretaría del Sistema de Asistencia Social;
 
-VIII. El Director General del Instituto, que fungirá como Secretario Técnico, quien únicamente tendrá derecho a voz;
+d) Secretaría de Innovación, Ciencia y Tecnología;
 
-IX. Representantes de tres Instituciones de Educación Superior de la entidad;
+e) Secretaría de Planeación y Participación Ciudadana;
 
-X. Un representante del Consejo Económico y Social del Estado de Jalisco; y
+f) Secretaría de Infraestructura y Obra Pública;
 
-XI. Tres representantes de las delegaciones de entidades federales especializadas en el manejo de información socio-demográfica, económico-financiera y geográfica-ambiental a invitación del Gobernador del Estado.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-Cada uno de los integrantes titulares de la Junta de Gobierno designará un suplente para que asista en su representación en casos de ausencia, los integrantes de la Junta de Gobierno tendrán el carácter de miembros honoríficos sin derecho a percibir salario o remuneración alguna por el desempeño de esta función, salvo el Director General.
+III. Una Secretaría Técnica, a cargo del Director General del Instituto, quien únicamente tendrá derecho a voz;
 
-La Junta de Gobierno puede invitar con derecho a voz a funcionarios públicos, representantes de los sectores privado, social o académico, o personas determinadas, cuando sea necesario para el desahogo de los asuntos de su competencia.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+IV. Representantes de tres Instituciones de Educación Superior de la entidad; y
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+V. Representante de la delegación del estado de Jalisco del Instituto Nacional de Estadística y Geografía, a invitación del presidente de la Junta de Gobierno.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+Cada uno de los integrantes titulares de la Junta de Gobierno designará un suplente para que asista en su representación en casos de ausencia, los integrantes de la Junta de Gobierno tendrán el carácter de miembros honoríficos sin derecho a percibir salario o remuneración alguna por el desempeño de esta función.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+El presidente de la Junta de Gobierno, por sí o a propuesta del Director General del Instituto, puede invitar con derecho a voz a funcionarios públicos, representantes de los sectores privado, social o académico o personas determinadas, cuando sea necesario para el desahogo de los asuntos de su competencia.
 
 ###### Artículo 14.
 
@@ -281,9 +303,11 @@ XI. Solicitar al Congreso del Estado la autorización para la transmisión o ena
 
 XII. Las demás necesarias para el ejercicio de las facultades anteriores, en los términos de los ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 15.
 
-La Junta de Gobierno celebrará anualmente una sesión ordinaria y las extraordinarias que sean necesarias, cuando el Presidente lo estime necesario.
+La Junta de Gobierno celebrará por lo menos una sesión ordinaria anualmente y las extraordinarias que sean necesarias, cuando el Presidente lo estime pertinente.
 
 Para cada sesión deberá formularse previamente el orden del día, que se dará a conocer a los miembros de la Junta de Gobierno por lo menos con dos días hábiles de anticipación. Habrá quórum cuando concurran más de la mitad de los integrantes de la Junta de Gobierno, siempre que esté su presidente o quien lo supla.
 
@@ -313,11 +337,13 @@ El Director General será designado por el Gobernador del Estado quien podrá re
 
 Para ser Director General del Instituto se requiere:
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-II. Ser mayor de 30 años de edad; y
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos; y
 
-III. Contar con título profesional debidamente registrado ante autoridad competente, preferentemente en ciencias sociales, económico-administrativas o desarrollo regional o acreditar experiencia en la misma al momento de su designación.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+II. Contar con título profesional debidamente registrado ante autoridad competente, preferentemente en ciencias sociales, económico-administrativas o desarrollo regional o acreditar experiencia en alguna de estas áreas al momento de su designación.
 
 ###### Artículo 19.
 
@@ -331,7 +357,9 @@ III. Proponer las políticas, normas y criterios de organización y administraci
 
 IV. Proponer a la Junta de Gobierno la instalación de oficinas en el interior del estado;
 
-V. Proponer a la Junta de Gobierno para su aprobación y publicación el Reglamento Interno o Estatuto Orgánico del Instituto;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+V. Proponer a la Junta de Gobierno para su aprobación (sic) proyecto de Reglamento Interno del Instituto en términos del artículo 74 fracción II de la Ley Orgánica del Poder Ejecutivo;
 
 VI. Proponer a la Junta de Gobierno los precios, cuotas y tarifas para el cobro de los bienes y servicios que preste el Instituto, para su aprobación;
 
@@ -355,57 +383,87 @@ XV. Nombrar y remover al personal del Instituto;
 
 XVI. Remitir al Congreso del Estado la solicitud de autorización para actos traslativos de dominio de bienes inmuebles propiedad del Instituto, aprobada por la Junta de Gobierno; y
 
-XVII. Los demás que le confieran los ordenamientos que le resulten aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE OCTUBRE DE 2019)</small>
 
-Para el cumplimiento de estas atribuciones, el Instituto contará con las unidades administrativas necesarias que establezca el Reglamento de conformidad con su presupuesto.
+XVII. Realizar las gestiones necesarias, así como girar los oficios respectivos para convocar a los invitados a sesión de la Junta de Gobierno; y
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+XVIII. Las demás que le confieran los ordenamientos que le resulten aplicables.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+Para el cumplimiento de estas facultades y obligaciones, el Instituto contará con las unidades administrativas necesarias que establezca el Reglamento Interno de conformidad con su presupuesto.
 
 #### Sección Cuarta. Consejo Consultivo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 20.
 
-El Consejo Consultivo es un órgano auxiliar del Instituto, de carácter permanente, con el objeto de formular, estudiar y analizar información estadística, presentar opiniones, recomendaciones y propuestas relativas a las atribuciones del Instituto integrado por:
+El Consejo Consultivo es un órgano auxiliar del Instituto, de carácter permanente, con el objeto de formular, estudiar y analizar información estadística y geográfica, presentar opiniones, recomendaciones y propuestas relativas a las atribuciones del Instituto, integrado por:
 
-I. Especialistas técnicos, académicos o de investigación en materia socio-demográfica, económico-financiera y geográfico-ambiental, con la participación coordinada de los sectores públicos y privados;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+I. Especialistas técnicos, académicos o de investigación en materia demográfica y social, económica y financiera, geográfica y ambiental, y de gobierno, seguridad pública e impartición de justicia, con la participación coordinada de sectores públicos y privados;
 
 II. Representantes de organismos no gubernamentales, organizaciones gremiales, organizaciones de profesionistas, instituciones académicas y sociedad en general vinculadas con la materia; y
 
-III. Los demás que establezca el Estatuto Orgánico.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+III. Los demás que establezca el Reglamento Interno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 21.
 
-Para la conformación del Consejo Consultivo, la Junta de Gobierno invitará a las instituciones académicas y de investigación del Estado, así como a dependencias federales, instituciones académicas y de investigación, organizaciones no gubernamentales especializadas en temas de información estadística.
+Para la conformación del Consejo Consultivo, la Junta de Gobierno invitará a las instituciones académicas y de investigación del Estado, así como a dependencias federales y organizaciones sociales especializadas en temas de información estadística.
 
 La Junta de Gobierno privilegiará la pluralidad de instituciones y de áreas de conocimiento. El cargo de integrante del Consejo Consultivo será honorífico.
 
 La integración y funcionamiento del Consejo Consultivo se determinará en el Reglamento.
 
-### Capítulo VI. De la extinción del Instituto
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2019)</small>
 
-#### Sección Quinta. Del Órgano de Control y Vigilancia
+El Director General del Instituto puede invitar, con derecho a voz, a personas determinadas, cuando lo considere pertinente para el desahogo de asuntos específicos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+### Capítulo VI. De las Disposiciones Complementarias
+
+> <small>(ADICIONADA [N. DE E. REFORMADA -ANTES SECCIÓN V DEL CAPÍTULO V-], P.O. 24 DE OCTUBRE DE 2019)</small>
+
+#### Sección Primera. Del Órgano Interno de Control
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 22.
 
-El Instituto contará con un Órgano Interno de Control y Vigilancia integrado por un Comisario Público propietario y un suplente, designados ambos por la Contraloría del Estado de Jalisco.
+La persona titular del órgano interno de control del Instituto será designada por el titular de la Contraloría del Estado, estará subordinado a ésta y su funcionamiento y atribuciones se sujetarán a las disposiciones que determine la Contraloría en el acuerdo o lineamientos que expida para tales efectos.
 
-El titular del Órgano Interno de Control y Vigilancia ejercerá sus funciones de acuerdo con lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado, la Ley de Responsabilidades de los Servidores Públicos para el Estado de Jalisco y sus Municipios, el Reglamento Interior de la Contraloría del Estado de Jalisco y demás disposiciones estatales aplicables.
-
-El Órgano Interno de Control y Vigilancia depende administrativamente del Director General, pero gozará de autonomía en el ejercicio de sus atribuciones.
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 23.
 
-Son atribuciones del Órgano Interno de Control y Vigilancia:
+La estructura del Órgano Interno de Control será determinada por la Contraloría, así como por las Secretarías de Administración y de la Hacienda Pública, y deberá ajustarse a lo previsto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, así como la Recomendación emitida por el Comité Coordinador del Sistema Estatal Anticorrupción sobre el Fortalecimiento Institucional de los Órganos Internos de Control.
 
-I. Vigilar el cumplimiento de los objetivos del Instituto, mediante la verificación del avance programático de sus planes y programas, del informe de avances de gestión financiera y del análisis de los informes solicitados;
+> <small>(ADICIONADA [N. DE E. CON EL ARTÍCULO QUE LA INTEGRA], P.O. 24 DE OCTUBRE DE 2019)</small>
 
-II. Verificar que los actos de sus servidores públicos se ajusten a las disposiciones legales y administrativas aplicables;
+#### Sección Segunda. De las relaciones laborales
 
-III. Supervisar el desarrollo eficiente y eficaz de los planes y programas del Instituto, sus sistemas, procedimientos, recursos y responsabilidades, utilizando metodologías de medición para la evaluación del desempeño de la gestión pública;
-
-IV. Promover medidas y acciones tendientes a prevenir irregularidades y brindar transparencia en las funciones del Instituto; y
-
-V. Las demás que establezcan el reglamento interno de la Contraloría del Estado de Jalisco y otros ordenamientos aplicables.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 24.
+
+Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA -ANTES CAPÍTULO VI-], P.O. 24 DE OCTUBRE DE 2019)</small>
+
+#### Sección Tercera. De la Extinción del Instituto
+
+> <small>(REFORMADO [N. DE E. REUBICADO -ANTES ARTÍCULO 24-], P.O. 24 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 25.
 
 Para extinguir al Instituto se requiere decreto aprobado por el Congreso del Estado que así lo declare.
 
@@ -486,3 +544,11 @@ ARTURO ZAMORA JIMÉNEZ
 P.O. 28 DE MARZO DE 2015.
 
 ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 24 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27383/LXII/19 QUE REFORMA LOS ARTÍCULOS 1°, 6°, 9°, 13, 15, 18, 19, 20, 21, 22, 23, 24, Y 25, ELIMINA LA SECCIÓN QUINTA DENOMINADA "DEL ORGANO INTERNO DE CONTROL Y VIGILANCIA" Y MODIFICA EL CAPÍTULO VI DENOMINADO "DE LA EXTINCIÓN DEL INSTITUTO" PARA QUEDAR COMO "DISPOSICIONES COMPLEMENTARIAS" Y SE ADICIONAN LAS SECCIONES PRIMERA, SEGUNDA Y TERCERA AL MENCIONADO CAPÍTULO TODOS DE LA LEY ORGÁNICA DEL INSTITUTO DE INFORMACIÓN ESTADÍSTICA Y GEOGRÁFICA DEL ESTADO DE JALISCO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO.- El Titular del Ejecutivo del Estado deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestales y administrativas correspondientes para dar el debido cumplimiento al presente decreto.
