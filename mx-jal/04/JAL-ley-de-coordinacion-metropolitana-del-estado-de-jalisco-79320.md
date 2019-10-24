@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-metropolitana-del-estado-de-jalisco-79320"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-03"
-last_updated: "2019-07-11"
+last_updated: "2019-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE COORDINACION METROPOLITANA DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 3 de febrero de 2011.
 
@@ -67,9 +69,9 @@ IV. Eficacia: el fin último de la coordinación y asociación municipal es el m
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2018)</small>
 
-###### Artículo 3º.
+###### Artículo 3.
 
-Conceptos de la ley.
+° Conceptos de la ley.
 
 1. Agenda: la Agenda Metropolitana es el Mecanismo de actualización periódica que define las prioridades y las materias de interés especial para el Área Metropolitana correspondiente, que se define y se expide directamente por la Junta de Coordinación Metropolitana de conformidad a la legislación en la materia.
 
@@ -117,22 +119,6 @@ Conceptos de la ley.
 
 15. Sistema: el Sistema Integral de Desarrollo metropolitano.
 
-###### Artículo 3.
-
-° Conceptos de la ley
-
-1. Área metropolitana es el centro de población, geográficamente delimitado, asentado en el territorio de dos o más municipios, con una población de cuando menos cincuenta mil habitantes, declarado oficialmente con ese carácter por decreto del Congreso del Estado.
-
-2. Región metropolitana es la delimitación geográfica integrada por un área metropolitana y uno o más centros de población, geográficamente cercanos, con tendencias de crecimiento que los acerquen y relaciones socioeconómicas con aquella, declarada oficialmente con ese carácter por decreto del Congreso del Estado.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2017)</small>
-
-3. Desarrollo Metropolitano: proceso de planeación, regulación, gestión, financiamiento, ordenamiento, crecimiento social y ejecución de acciones, obras y servicios, en zonas metropolitanas para el mejoramiento de la calidad de vida, la preservación del ambiente, la conservación y reproducción de los recursos naturales; de poblaciones que por su urbe, extensión y complejidad, actúan de manera coordinada los tres órdenes de gobierno de acuerdo a sus atribuciones;
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2017)</small>
-
-4. Programa de Desarrollo Metropolitano: es el instrumento de planeación que contempla un diagnóstico integral del área metropolitana, así como la definición de los objetivos y metas para la política metropolitana en: estructura socioeconómica, ordenamiento territorial, medio ambiente, servicios públicos, infraestructura urbana, movilidad urbana y mapa de riesgo.
-
 ###### Artículo 4.
 
 ° Supletoriedad de la ley
@@ -167,9 +153,11 @@ III. Constitución de las instancias de coordinación metropolitana: la cual tie
 
 ### Capítulo II. Declaración de área o región metropolitana
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 6.
 
-° Requisitos de procedencia de área metropolitana
+° Requisitos de procedencia de área metropolitana.
 
 1. Para que proceda la declaración de un área metropolitana se requiere:
 
@@ -183,7 +171,9 @@ c) El titular del Poder Ejecutivo del Estado;
 
 II. Que se demuestre la continuidad física de un centro de población de cuando menos cincuenta mil habitantes con base en el último censo o conteo oficial de población, que por crecimiento urbano comprenda total o parcialmente el territorio de los municipios solicitantes, sobre el cual se hará la declaración de área metropolitana, y
 
-III. Que se demuestre la existencia de relaciones socioeconómicas entre los municipios que constituirán un área metropolitana.
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+III. Que se demuestre la existencia de relaciones socioeconómicas entre los municipios que constituirán un área metropolitana, además de conexión entre los mismos vía servicio de transporte público.
 
 2. La acreditación de los requisitos de procedencia se realizará a través de la solicitud de declaración correspondiente y el expediente técnico.
 
@@ -253,9 +243,9 @@ b) Un diagnóstico técnico sobre la capacidad financiera, el desarrollo urbano 
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 11 DE ENERO DE 2018)</small>
 
-###### Artículo 10º.
+###### Artículo 10.
 
-Diagnóstico técnico.
+° Diagnóstico técnico.
 
 1. El diagnóstico técnico debe contener:
 
@@ -270,30 +260,6 @@ b) El análisis histórico y prospectivo del crecimiento urbano en cada municipi
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2018)</small>
 
 c) El análisis histórico y prospectivo de la creación, contenido y modificación de los planes de centro de población y planes parciales de desarrollo urbano existentes en cada municipio; y
-
-III. Para el caso del área metropolitana, un análisis de los servicios públicos de los municipios que la integrarán, que contenga:
-
-a) El análisis histórico y prospectivo de la suficiencia, eficiencia y eficacia en la prestación de los servicios públicos municipales constitucionales que presta cada municipio, y el comparativo de los recursos financieros, humanos y materiales dedicados a cada servicio en cada municipio, y
-
-b) El análisis técnico que precise la necesidad y viabilidad técnica, financiera, operativa y funcional de incluir determinados servicios públicos municipales a un esquema de coordinación metropolitana, así como las bases generales de operación de dicho esquema.
-
-2. Cuando la petición de declaratoria de región metropolitana se presente dentro del año siguiente a la celebración del convenio de coordinación de área metropolitana correspondiente, no es necesario realizar los análisis a que se refiere este artículo, relativos a los municipios integrantes de dicha área metropolitana.
-
-###### Artículo 10.
-
-Diagnóstico técnico
-
-1. El diagnóstico técnico debe contener:
-
-I. Un análisis de la capacidad financiera de los municipios que integrarán el área o región metropolitana;
-
-II. Un análisis del desarrollo urbano de los municipios que integrarán el área o región metropolitana, que contenga:
-
-a) El análisis histórico y prospectivo de la creación de infraestructura urbana de cada municipio y el comparativo con relación a la demanda existente de la misma;
-
-b) El análisis histórico y prospectivo del crecimiento urbano en cada municipio y de la existencia de áreas de reserva actuales y la posibilidad de constituirlas en el futuro, y
-
-c) El análisis histórico y prospectivo de la creación, contenido y modificación de los planes de centro de población y planes parciales de urbanización existentes en cada municipio, y
 
 III. Para el caso del área metropolitana, un análisis de los servicios públicos de los municipios que la integrarán, que contenga:
 
@@ -417,9 +383,9 @@ Requisitos para inclusión en declaratoria.
 
 I. Que el municipio interesado en ser incluido a un área o región metropolitana, solicite al Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana que corresponda, realizar un estudio técnico de factibilidad y a su vez lo solicite formalmente ante el Congreso del Estado, mediante la presentación de la solicitud individual y el expediente técnico anexo, en los términos de esta ley;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-II. Que el municipio solicitante, basado en el estudio técnico, demuestre que por crecimiento urbano existe continuidad física del centro de población constituido en área metropolitana dentro de su territorio, o que por cercanía geográfica, tendencias de crecimiento y relaciones socioeconómicas existe la necesidad viabilidad para ser incluido dentro del área o región metropolitana, respectivamente;
+II. Que el municipio solicitante, basado en el estudio técnico, demuestre que por crecimiento urbano existe continuidad física del centro de población constituido en área metropolitana dentro de su territorio, o que por cercanía geográfica, tendencias de crecimiento y relaciones socioeconómicas existe la necesidad viabilidad para ser incluido dentro del área o región metropolitana, respectivamente, además de demostrar en el mismo la existencia de conectividad vía servicio de transporte público entre los mismos;
 
 > <small>(REFORMADA, P.O. 11 DE ENERO DE 2018)</small>
 
@@ -1352,3 +1318,9 @@ P.O. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 27287/LXII/19 MEDIANTE EL CUAL SE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 24 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27382/ LXII/19 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY (SIC) COORDINACIÓN METROPOLITANA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
