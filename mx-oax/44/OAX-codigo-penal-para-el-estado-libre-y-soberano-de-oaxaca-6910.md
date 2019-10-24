@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2019-10-05"
+last_updated: "2019-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3029,33 +3029,61 @@ IV.- Que el infante no sea legítimo.
 
 Aborto.
 
-312.- Aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-313.- Al que hiciere abortar a una mujer, se le aplicarán de uno a seis años de prisión, sea cual fuere el medio que empleare, siempre que lo haga con consentimiento de ella. Cuando falte el consentimiento, la reclusión será de tres a ocho años; y, si mediare violencia física o moral, se impondrán al infractor de seis a diez años de prisión.
+312.- Aborto es la interrupción del embarazo después de la décima segunda semana de gestación.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+Para los efectos de este Código, el embarazo es la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+313.- Aborto forzado es la interrupción del embarazo, en cualquier momento, sin el consentimiento de la mujer embarazada. En este caso, el delito del aborto forzado podrá ser sancionado en grado de tentativa, en los términos dispuestos por el presente Código.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+Al que hiciere abortar a una mujer, sin el consentimiento de está, se le aplicarán de tres a seis años de prisión, sea cual fuere el medio que empleare. Si además mediare violencia física o moral, se impondrán al infractor de seis a diez años de prisión.
 
 314.- Si el aborto lo causare un médico, cirujano, comadrona o partera, además de las sanciones que le correspondan conforme al Artículo anterior, se le suspenderá de dos a cinco años en el ejercicio de su profesión.
 
-315.- Se impondrán de seis meses a dos años de prisión, a la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, si concurren estas tres circunstancias:
+> <small>[N. DE E. DE CONFORMIDAD CON LA APLICACIÓN DEL DECRETO 806 PUBLICADO EN EL PERIÓDICO OFICIAL DEL 24 DE OCTUBRE DE 2019, SE ADVIERTE QUE EN EL ARTÍCULO ÚNICO DE DICHO DECRETO, LA LXIV LEGISLATURA DEL CONGRESO DEL ESTADO DE OAXACA NO PRECISA MODIFICACIÓN ALGUNA AL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO, VÉASE PUBLICACIÓN PÁGINA 2]</small>
 
-I.- Que no tenga mala fama;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-II.- Que haya logrado ocultar su embarazo; y
+315.- Se impondrán de tres a seis meses de prisión o de 100 a 300 días de trabajo a favor de la comunidad, a la mujer que voluntariamente procure su aborto o consienta en que otra persona la haga abortar, una vez transcurridas las primeras doce semanas de gestación.
 
-III.- Que éste sea fruto de unión ilegítima.
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+Igual pena se aplicará al que haga abortar a la mujer con el consentimiento de ésta, en los términos del párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+En este caso, el delito de aborto únicamente se sancionará cuando se haya consumado.
 
 Faltando alguna de las circunstancias mencionadas, se le aplicarán de uno a cinco años de prisión.
 
-316.- No es punible el aborto en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+316.- Se consideran como excluyentes de responsabilidad penal en el delito de aborto:
 
 I.- Cuando el aborto sea causado sólo por imprudencia de la mujer embarazada;
 
-II.- Cuando el embarazo sea el resultado de una violación y decida la víctima por sí o por medio de sus representantes legítimos la expulsión del correspondiente producto, con intervención médica y dentro de los tres meses, contados a partir de esa violación;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+II.- Cuando el embarazo sea el resultado de una violación, independientemente de que exista, o no, denuncia sobre dicho delito previo al aborto.
 
-III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro en su salud o de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-IV.- Cuando el aborto se deba a causas eugenésicas graves según el previo dictámen de dos peritos.
+III.- Cuando el embarazo sea resultado de una inseminación artificial no consentida.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+IV.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro en su salud o de muerte, a juicio del médico que la asista.
+
+> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+V.- Cuando a juicio de un médico especialista exista razón para diagnosticar que el producto presente alteraciones genéticas o congénitas que puedan dar como resultados daños físicos o mentales en el mismo, siempre que se tenga consentimiento de la mujer embarazada.
 
 ### CAPITULO VIII.
 
@@ -5040,3 +5068,11 @@ P.O. 5 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 779.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 24 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 806.- MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
