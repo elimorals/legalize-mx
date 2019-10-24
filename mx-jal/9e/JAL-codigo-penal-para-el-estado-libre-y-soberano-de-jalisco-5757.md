@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2019-07-11"
+last_updated: "2019-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3495,11 +3497,17 @@ Comete el delito de hostigamiento sexual el que con fines o móviles lascivos as
 
 Comete el delito de acoso sexual el que con fines o móviles lascivos asedie o acose sexualmente a otra persona de cualquier sexo, al responsable se le impondrá sanción de uno a cuatro años de prisión.
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 24 DE OCTUBRE DE 2019)</small>
 
 Si el acosador u hostigador presta sus servicios en cualquier institución pública y utiliza medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su cargo y se le podrá inhabilitar hasta por el doble de la pena privativa de libertad impuesta.
 
-Estos delitos sólo serán perseguidos por querella del ofendido o de su legítimo representante, salvo que se trate de un incapaz o menor de edad en cuyo caso se procederá de oficio.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE OCTUBRE DE 2019)</small>
+
+Al responsable que cometa este delito en contra de servidores públicos que en el ejercicio de su (sic) funciones estén expuestos al contacto con la ciudadanía, se le podrá aumentar hasta en una mitad la pena prevista.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+Estos delitos sólo serán perseguidos por querella del ofendido o de su legítimo representante, salvo que se trate de un incapaz o menor de edad en cuyo caso se procederá de oficio. Una vez presentada la denuncia el delito se seguirá de oficio.
 
 > <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
@@ -6868,3 +6876,11 @@ P.O. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27295/LXII/19 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 145, 146, 147, 148, 150, 151, 152, 153 Y 154 DEL TÍTULO SÉPTIMO "DE LOS DELITOS POR HECHOS DE CORRUPCIÓN", SE DEROGA EL ARTÍCULO 149, SE ADICIONAN LAS FRACCIONES VI DEL ARTÍCULO 145, V DEL ARTÍCULO 146; RECORRIÉNDOSE EN AMBOS CASOS LAS FRACCIONES SUBSECUENTES, LA FRACCIÓN II, AL ARTÍCULO 147 Y LA FRACCIÓN II DEL ARTÍCULO 148, LA FRACCIÓN IX DEL NUMERAL 1, ASÍ COMO EL NUMERAL 2 DEL ARTÍCULO 152 Y LA FRACCIÓN VII AL ARTÍCULO 154-I, SE MODIFICA LA DENOMINACIÓN DEL TÍTULO SÉPTIMO BIS DENOMINÁNDOLO "DE LOS DELITOS COMETIDOS POR SERVIDORES PÚBLICOS O PARTICULARES CONTRA LA INTEGRIDAD FÍSICA Y MENTAL DE LAS PERSONAS" DONDE SE INTEGRAN LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, REFORMANDO LOS ARTÍCULOS 154-A, 154-B, 154-C, Y EL DELITO DE TORTURA, ARTÍCULOS 154-H, 154-I, 154-J; SE DEROGAN LOS ARTÍCULOS 154-L Y 154-M DEL CAPÍTULO XII, Y SE MODIFICA EL ACTUAL TÍTULO SÉPTIMO BIS PARA PASAR A SER EL TÍTULO SÉPTIMO TER DENOMINADO "DELITOS COMETIDOS POR PARTICULARES EN CONTRA DE LA ADMINISTRACIÓN DE JUSTICIA Y EN OTROS RAMOS DEL PODER PÚBLICO", TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 Único. El presente decreto entra en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco''.
+
+P.O. 24 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27385/LXII/19 QUE REFORMA EL ARTÍCULO 176 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, LOS ARTÍCULOS 2° FRACCIÓN XI, 40 Y SE ADICIONA UN CAPÍTULO VII AL TÍTULO TERCERO, DENOMINADO "DE LOS PROTOCOLOS DE ACTUACIÓN PARA LA PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE VIOLENCIA CONTRA LAS MUJERES, NIÑAS Y DE GÉNERO" CON LOS ARTÍCULOS 61, 62, 63 Y 64 TODAS (SIC) LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Las dependencias y entidades obligadas por la presente ley a crear los protocolos contarán con un plazo de 180 días a partir de la publicación del presente decreto, para la elaboración y publicación de los mismos.
