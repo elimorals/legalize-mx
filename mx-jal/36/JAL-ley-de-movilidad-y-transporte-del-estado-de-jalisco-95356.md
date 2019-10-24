@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2019-10-19"
+last_updated: "2019-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -717,13 +719,17 @@ XXXIV. Preparar y reunir lo necesario para facilitar el traslado de las personas
 
 XXXV. Fomentar la asociación, coordinación y colaboración de los concesionarios, permisionarios y subrogatarios a través de fondos o esquemas financieros, para la consecución de economías de escala benéficas para todos ellos y la mejor satisfacción de los intereses que les sean comunes, respetando el interés social y coadyuvando a la realización del mismo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-XXXVI. Fijar en la Ley de Ingresos de cada ejercicio fiscal, los estímulos fiscales aplicables a los contribuyentes que cuenten con vehículos híbridos o eléctricos con placa verde; y
+XXXVI. Fijar en la Ley de Ingresos de cada ejercicio fiscal, los estímulos fiscales aplicables a los contribuyentes que cuenten con vehículos híbridos o eléctricos con placa verde;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2019)</small>
 
-XXXVII. Las demás que determine la presente ley y otros ordenamientos aplicables.
+XXXVII. Coordinar con las diversas entidades federativas, las acciones para el cumplimiento de la normatividad estatal aplicable a la circulación de vehículos automotores con placas distintas a las de la entidad federativa donde transitan; y
+
+(REUBICADA, P.O. 24 DE OCTUBRE DE 2019)
+
+XXXVIII. Las demás que determine la presente ley y otros ordenamientos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2019)</small>
 
@@ -4378,3 +4384,9 @@ P.O. 19 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27372/LXII MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 12 BIS DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 24 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27381/LXII/19 QUE ADICIONA UNA FRACCIÓN XXXVII AL ARTÍCULO 19, RECORRIÉNDOSE SUBSECUENTEMENTE LAS YA EXISTENTES DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
