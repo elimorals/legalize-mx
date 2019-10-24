@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2019-10-19"
+last_updated: "2019-10-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY PARA EL DESARROLLO ECONOMICO DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE OCTUBRE DE 2019 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -97,7 +99,7 @@ XIII. Productividad: relación entre la producción obtenida por un sistema prod
 
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2017)</small>
 
-XIV. Promoción: Incentivos de capacitación y difusión que el Gobierno del Estado, a través de la Secretaría de Desarrollo Económico y las demás instancias públicas facultadas, otorga a los proyectos productivos, con aplicación a corto plazo, para el desarrollo de su crecimiento en forma sostenible y autosustentable;
+XIV. Promoción: incentivos de capacitación y difusión que el Gobierno del Estado, a través de la Secretaría de Desarrollo Económico y las demás instancias públicas facultadas, otorga a los proyectos productivos, con aplicación a corto plazo, para el desarrollo de su crecimiento en forma sostenible y autosustentable;
 
 XV. Proyectos productivos: conjunto de actividades coordinadas y planificadas en torno a un objetivo específico, para la generación de rentabilidad económica ante un capital de inversión dado;
 
@@ -139,7 +141,9 @@ El Gobierno del Estado, a través de la Secretaría y su Consejo, otorgará los 
 
 La presente ley tiene como objetivos específicos:
 
-I. Impulsar el desarrollo económico de la entidad;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+I. Impulsar el desarrollo económico sustentable de la entidad;
 
 II. Fomentar el crecimiento ordenado y descentralizado de la entidad, sus sectores y regiones, procurando el arraigo de los jaliscienses en sus lugares de origen, la reactivación de las zonas económicas más deprimidas y marginadas y el impulso de sectores estratégicos que coadyuven en la aceleración del desarrollo, en la productividad y en la competitividad del Estado;
 
@@ -245,7 +249,9 @@ Los proyectos productivos establecidos o por establecerse en el Estado, podrán 
 
 I. Demuestren fehacientemente el mantenimiento o refuerzo del vocacionamiento y/o encadenamiento productivo del municipio o región del Estado donde se establezcan;
 
-II. Acrediten la generación de nuevas fuentes de empleo directo, la conservación y mejoramiento de los ya existentes o realicen inversiones en activos fijos en el área o zona geográfica donde se establezcan dentro del Estado, conforme a los rangos y cantidades que en forma general determine el Reglamento;
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2019)</small>
+
+II. Acrediten la generación de nuevas fuentes de empleo directo, la conservación y mejoramiento de los ya existentes o realicen inversiones en activos fijos en el área o zona geográfica donde se establezcan dentro del Estado, conforme a los rangos y cantidades que en forma general determine el Reglamento, además de acreditar el cumplimiento de las obligaciones que en específico les señale la legislación ambiental aplicable en el Estado;
 
 III. Se observe la entrega y cumplimiento previo de las documentales requeridas por el Consejo, en los términos, plazos y condiciones establecidas en el Reglamento de la Ley, y
 
@@ -1558,5 +1564,13 @@ P.O. 19 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 27375/LXII MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 82, Y 90 DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO".]
 
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27384/LXII/19 QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 6° Y LA FRACCIÓN II DEL ARTÍCULO 9° DE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
