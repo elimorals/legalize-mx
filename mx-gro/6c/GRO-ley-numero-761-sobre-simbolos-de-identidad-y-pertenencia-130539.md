@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-761-sobre-simbolos-de-identidad-y-pertenencia-130539
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2018-07-31"
+last_updated: "2019-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "GRO"
 
 LEY NÚMERO 761 SOBRE SÍMBOLOS DE IDENTIDAD Y PERTENENCIA DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2019.
 
-Ley publicada en el Alcance I al No. 61 del Periódico Oficial del Estado de Guerrero, el martes 31 de julio de 2018.
+Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 31 de julio de 2018.
 
 LEY NÚMERO 761 SOBRE SÍMBOLOS DE IDENTIDAD Y PERTENENCIA DEL ESTADO DE GUERRERO.
 
@@ -265,6 +265,8 @@ El Calendario Cívico del Estado Libre y Soberano de Guerrero comprende las fech
 
 > <small>[N. DE E. VÉASE CALENDARIO CÍVICO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO EN EL P.O. DE 31 DE JULIO DE 2018, PÁGINAS DE LA 16 A LA 23.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS AL CALENDARIO CÍVICO EN EL P.O. DE 25 DE OCTUBRE DE 2019, PÁGINAS DE LA 9 A LA 10.]</small>
+
 ###### Artículo 31.
 
 El calendario cívico descrito (sic) el artículo 30 de la presente Ley, podrá ser modificado. Para tal efecto, la Secretaría de Cultura deberá integrar una Comisión para emitir el dictamen correspondiente, que justifique la iniciativa de reforma que corresponda
@@ -334,3 +336,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 251, POR MEDIO DEL CUAL SE ADICIONA UN PÁRRAFO AL ARTÍCULO 30 DE LA LEY NÚMERO 761 SOBRE SÍMBOLOS DE IDENTIDAD Y PERTENENCIA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+
+TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+CUARTO.- Comuníquese al cabildo del Municipio de Benito Juárez, Guerrero y a los restantes 80 municipios del Estado de Guerrero.
