@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-137
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-06-27"
-last_updated: "2019-06-27"
+last_updated: "2019-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137053&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-05-31"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE OCTUBRE DE 2019.
 
 Reglamento publicado en la Primera Sección al Número 21 del Diario Oficial de la Federación, el jueves 27 de junio de 2019.
 
@@ -155,37 +155,55 @@ iii. Dirección General Adjunta de Imagen Institucional.
 
 c. Dirección General Adjunta del Secretariado Técnico;
 
-IV. Unidad de Contratación y Seguimiento Jurídico de Actividades de Exploración y Extracción;
-
-a. Dirección General de Asignaciones y Procedimientos de Contratación;
-
-i. Dirección General Adjunta de Asignaciones,
-
-ii. Dirección General Adjunta de Procedimientos de Contratación.
-
-b. Dirección General de Contratos;
-
-i. Dirección General Adjunta de Contratos de Licencia y de Servicios;
-
-ii. Dirección General Adjunta de Contratos de Producción y de Utilidad Compartida,
-
-iii. Dirección General Adjunta de Ejecución de Contratos.
+IV. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2019)
 
 V. Unidad Jurídica;
 
-a. Dirección General de Proceso Regulatorio;
+> <small>(ADICIONADO [N. DE E. CON SU FRACCIÓN], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+a. Dirección General de Contratación para la Exploración y Extracción;
+
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+i. Dirección General Adjunta de Contratación para la Exploración y Extracción;
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+b. Dirección General Jurídica de Asignaciones y Contratos;
+
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+i. Dirección General Adjunta de Contratos de Licencia y de Servicios;
+
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+ii. Dirección General Adjunta de Contratos de Producción y de Utilidad Compartida;
+
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+iii. Dirección General Adjunta de Ejecución de Contratos,
+
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+iv. Dirección General Adjunta de Asignaciones.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+c. Dirección General de Regulación;
 
 i. Dirección General Adjunta de Análisis y Regulación;
 
 ii. Dirección General Adjunta de Mejora Regulatoria;
 
-b. Dirección General de lo Contencioso;
+d. Dirección General de lo Contencioso;
 
 i. Dirección General Adjunta de Asuntos Contenciosos,
 
 ii. Dirección General Adjunta de Servicios Legales.
 
-c. Dirección General Jurídica de Procedimientos y Consulta;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+e. Dirección General de Consulta;
 
 i. Dirección General Adjunta de Consultas Jurídicas;
 
@@ -269,9 +287,11 @@ ii. Dirección General Adjunta de Litotecas;
 
 iii. Dirección General Adjunta de Gestión de Información Geográfica;
 
-iv. Dirección General Adjunta de Enlace Interno, Procesos y Gestión de Información Técnica,
+iv. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2019)
 
-v. Dirección General Adjunta de Servicios a Externos.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+v. Dirección General Adjunta de Servicios a Usuarios.
 
 b. Dirección General de Prospectiva y Evaluación Económica;
 
@@ -373,6 +393,10 @@ l) Aprobar las solicitudes de periodos adicionales de Exploración y evaluación
 
 m) Realizar la aprobación de terceros independientes para la verificación de los sistemas de medición;
 
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+n) Aprobar la declaratoria de utilidad pública en predios de propiedad pública, social y privada en las actividades a que refiere el artículo 33 de la Ley.
+
 III. Aprobar los términos y condiciones de los contratos para realizar actividades de Reconocimiento y Exploración Superficial y ordenar se lleve a cabo el procedimiento para contratar a cualquier empresa productiva del Estado, entidades públicas, instituciones académicas o particulares para llevar a cabo dichas actividades conforme a la Normativa Aplicable;
 
 IV. Aprobar los términos y condiciones de los contratos de servicio de comercialización de Hidrocarburos y ordenar se lleve a cabo el procedimiento para contratar al comercializador de los Hidrocarburos a que se refiere el artículo 28 de la Ley de Hidrocarburos, conforme a la Normativa Aplicable;
@@ -403,7 +427,7 @@ c) Instruir las visitas de inspección que solicite la Secretaría y la Secretar
 
 d) Conocer de las posibles violaciones que se detecten al marco normativo, ordenar las medidas que correspondan y emitir recomendaciones al respecto;
 
-e) Ordenar la tramitación de los actos jurídicos que en su caso se requieran para hacer efectiva la declaratoria de utilidad pública en predios de propiedad pública, social y privada en las actividades a que refiere el artículo 33 de la Ley;
+e) (DEROGADO, D.O.F. 25 DE OCTUBRE DE 2019)
 
 f) Determinar los incumplimientos, así como la imposición y ejecución de penas convencionales y sanciones de los sujetos regulados;
 
@@ -697,9 +721,11 @@ II. Fungir como responsable oficial de mejora regulatoria de la Comisión en té
 
 III. Gestionar la inscripción y actualización de los servidores públicos autorizados para realizar visitas de verificación e inspección y demás información que se deba inscribir en el Registro Nacional de Visitas Domiciliarias a que hace referencia la Ley General de Mejora Regulatoria.
 
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 23.
 
-Suscripción de Contratos. Los Titulares de la Unidad de Contratación y Seguimiento Jurídico de Actividades de Exploración y Extracción, y de la Unidad de Administración Técnica de Asignaciones y Contratos, previa validación de la Unidad Jurídica, suscribirán junto con el Comisionado Presidente, los Contratos previstos en la Ley de Hidrocarburos.
+Suscripción de Contratos. Los Titulares de la Unidad Jurídica, y de la Unidad de Administración Técnica de Asignaciones y Contratos, previa validación de la Unidad Jurídica, suscribirán junto con el Comisionado Presidente, los Contratos previstos en la Ley de Hidrocarburos.
 
 ### Capítulo VI. Direcciones Generales
 
@@ -847,17 +873,23 @@ b) La Dirección General Adjunta de Asuntos Internacionales, a quien le correspo
 
 c) La Dirección General Adjunta de Imagen Institucional, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones VIII; IX; X y XI del presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 27.
 
-Facultades de la Dirección General de Asignaciones y Procedimientos de Contratación. La Dirección General de Asignaciones y Procedimientos de Contratación, adscrita a la Unidad de Contratación y Seguimiento Jurídico de Actividades de Exploración y Extracción, acordará con ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Facultades de la Dirección General de Contratación para la Exploración y Extracción. La Dirección General de Contratación para la Exploración y Extracción, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
 
-I. Coadyuvar jurídicamente con la Unidad de Administración Técnica de Asignaciones y Contratos en el seguimiento del cumplimiento de los términos y condiciones de las Asignaciones;
+I. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2019)
 
-II. Evaluar, en conjunto con la Unidad de Administración Técnica de Asignaciones y Contratos, la existencia de alguna de las causales de revocación de Asignaciones y, de estimarlo procedente, ponerla a consideración del Órgano de Gobierno;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
-III. Coadyuvar con las Unidades Administrativas que correspondan, en la integración de la información previa para llevar a cabo las visitas de verificación e inspección relacionadas con la administración técnica de las Asignaciones para su ejecución en coordinación con la Unidad Jurídica;
+II. Proponer al Órgano de Gobierno los términos para la emisión de la opinión respecto de los modelos de contratación para cada Área Contractual, a solicitud de la Secretaría;
 
-IV. Desahogar las consultas relacionadas con los términos y condiciones previstos en las Asignaciones, que sean formuladas por los Asignatarios o las Unidades Administrativas de la Comisión;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+III. Proporcionar al Órgano de Gobierno la opinión jurídica para valorar la coexistencia de actividades extractivas referidas en el artículo 27, párrafo séptimo de la Ley de Hidrocarburos y, en su caso, los montos y plazos de las indemnizaciones y contraprestaciones correspondientes en coordinación con las Unidades Administrativas competentes;
+
+IV. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2019)
 
 V. Organizar, implementar, ejecutar y emitir los actos y documentos relacionados con los procesos de contratación establecidos en la Ley de Hidrocarburos, proponiendo la integración del comité licitatorio respectivo;
 
@@ -865,23 +897,37 @@ VI. Organizar e implementar los actos necesarios para la suscripción de los Con
 
 VII. Atender los procedimientos administrativos relacionados con la evaluación del cumplimiento de requisitos de precalificación, incluso cuando se trate de una migración a un Contrato, así como de los que representen la cesión de intereses de participación de los Contratos, incluyendo aquellos donde exista un cambio de control corporativo y de gestión del Contratista o de las operaciones del Área Contractual;
 
-VIII. Llevar a cabo las actividades asociadas con la administración, o ejecución de las garantías presentadas en los procesos de contratación previstos en la Ley de Hidrocarburos, en coordinación con el área competente de la Unidad Jurídica;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+VIII. Llevar a cabo las actividades asociadas con la administración, o ejecución de las garantías presentadas en los procesos de contratación previstos en la Ley de Hidrocarburos;
 
 IX. Revisar y validar los acuerdos de operación conjunta presentados en los procesos de contratación por los licitantes ganadores, o en su caso, por los Contratistas, y
 
-X. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
-La Dirección General de Asignaciones y Procedimientos de Contratación, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+X. Revisar, opinar y en su caso validar las garantías de los Contratos de Exploración y Extracción de Hidrocarburos que presenten los Contratistas, y
 
-a) La Dirección General Adjunta de Asignaciones, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV y X del presente artículo, y
+XI. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
 
-b) La Dirección General Adjunta de Procedimientos de Contratación, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones V; VI; VII; VIII; IX y X del presente artículo.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+La Dirección General de Contratación para la Exploración y Extracción, en el ejercicio de las facultades señaladas en el presente artículo, ser (sic) asistida por:
+
+a) (DEROGADO, D.O.F. 25 DE OCTUBRE DE 2019)
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+b) La Dirección General Adjunta de Contratación para la Exploración y Extracción, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II; III; V; VI; VII; VIII; IX y X del presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 28.
 
-Facultades de la Dirección General de Contratos. La Dirección General de Contratos, adscrita a la Unidad de Contratación y Seguimiento Jurídico de Actividades de Exploración y Extracción, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Facultades de la Dirección General Jurídica de Asignaciones y Contratos. La Dirección General Jurídica de Asignaciones y Contratos, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
 
-I. Coadyuvar jurídicamente con la Unidad de Administración Técnica de Asignaciones y Contratos en el seguimiento del cumplimiento de los términos y condiciones de los Contratos;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+I. Coadyuvar jurídicamente con la Unidad de Administración Técnica de Asignaciones y Contratos en el seguimiento del cumplimiento de los términos y condiciones de las Asignaciones y de las cláusulas de los Contratos;
 
 II. Emitir opinión respecto del modelo de contratación para cada Área Contractual que solicite la Secretaría;
 
@@ -897,23 +943,49 @@ VII. Determinar en conjunto con la Unidad de Administración Técnica de Asignac
 
 Tratándose de penas convencionales relativas al pago de Contraprestaciones, éstas serán determinadas conjuntamente con la Unidad de Administración Técnica de Asignaciones y Contratos;
 
-VIII. Coadyuvar en la integración de la información previa para llevar a cabo las visitas de verificación e inspección relacionadas con la administración técnica de los Contratos para su ejecución en coordinación con la Unidad Jurídica;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
-IX. Desahogar las consultas que sean formuladas por las Unidades Administrativas que lo requieran, así como Contratistas con relación a las cláusulas previstas en los Contratos, y
+VIII. Coadyuvar con las Unidades Administrativas que correspondan, en la integración de la información previa para llevar a cabo las visitas de verificación e inspección relacionadas con la administración técnica de las Asignaciones y los Contratos para su ejecución;
 
-X. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
-La Dirección General de Contratos, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+IX. Desahogar las consultas relacionadas con los términos y condiciones de las Asignaciones y las cláusulas de los Contratos, que sean formuladas por las Unidades Administrativas que lo requieran, así como Asignatarios o Contratistas;
 
-a) La Dirección General Adjunta de Contratos de Licencia y de Servicios, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; VI, VII; VIII y X del presente artículo para el caso de los Contratos de Licencia y Servicios;
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
-b) La Dirección General Adjunta de Contratos de Producción y de Utilidad Compartida, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; VI, VII; VIII y X del presente artículo para el caso de los Contratos de Producción y Utilidad Compartida, y
+X. Evaluar, en conjunto con la Unidad de Administración Técnica de Asignaciones y Contratos, alguna de las causales de revocación de Asignaciones y, de estimarlo procedente, ponerla a consideración del Órgano de Gobierno;
 
-c) La Dirección General Adjunta de Ejecución de Contratos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones V; VIII; IX y X del presente artículo.
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+XI. Dar seguimiento jurídico a las actividades relacionadas con la operación de la comercialización y medición de Hidrocarburos, derivadas de los Términos y Condiciones de las Asignaciones y de las cláusulas de los Contratos de Exploración y Extracción, así como del contrato de comercialización, según corresponda, y
+
+XII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+La Dirección General Jurídica de Asignaciones y de Contratos, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+a) La Dirección General Adjunta de Contratos de Licencia y de Servicios, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; VI, VII; VIII y XII del presente artículo para el caso de los Contratos de Licencia y Servicios;
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+b) La Dirección General Adjunta de Contratos de Producción y de Utilidad Compartida, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; II; III; IV; VI, VII; VIII y XII del presente artículo para el caso de los Contratos de Producción y Utilidad Compartida;
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+c) La Dirección General Adjunta de Ejecución de Contratos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones V; VIII; IX, XI y XII del presente artículo, y
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+d) La Dirección General Adjunta de Asignaciones, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; VIII; IX; X; XI y XII del presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 29.
 
-Facultades de la Dirección General de Proceso Regulatorio. La Dirección General de Proceso Regulatorio, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Facultades de la Dirección General de Regulación. La Dirección General de Regulación, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
 
 I. En materia de elaboración de proyectos de regulación y normalización:
 
@@ -947,7 +1019,9 @@ IV. Desahogar las consultas jurídicas respecto de la regulación emitida por la
 
 V. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
-La Dirección General de Proceso Regulatorio, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+La Dirección General de Regulación, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
 
 a) La Dirección General Adjunta de Regulación, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; IV y V del presente artículo, y
 
@@ -999,9 +1073,11 @@ b) La Dirección General Adjunta de Servicios Legales, a quien le corresponderá
 
 Asimismo, la Dirección General de lo Contencioso, será auxiliada en el ejercicio de sus facultades, por el Director de lo Contencioso; el Director de Prevención, el Subdirector de Prevención, el Subdirector de lo Contencioso, el Jefe de Departamento de Procesos Judiciales y demás personal necesario para cumplir sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 31.
 
-Facultades de la Dirección General Jurídica de Procedimientos y Consulta. La Dirección General Jurídica de Procedimientos y Consulta, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+Facultades de la Dirección General de Consulta. La Dirección General de Consulta, adscrita a la Unidad Jurídica, acordará con el Titular de ésta el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
 
 I. En materia de procedimientos administrativos:
 
@@ -1015,13 +1091,15 @@ d) Proporcionar a las Unidades Administrativas que lo requieran los elementos ju
 
 e) Proponer al Órgano de Gobierno el inicio y resolución de los procedimientos de rescisión administrativa, rescisión contractual, terminación anticipada e imposición de penas convencionales de los Contratos, y
 
-f) Proporcionar al Órgano de Gobierno la opinión jurídica para valorar la coexistencia de actividades extractivas referidas en el artículo 27, párrafo séptimo de la Ley de Hidrocarburos y, en su caso, los montos y plazos de las indemnizaciones y contraprestaciones correspondientes en coordinación con las Unidades Administrativas competentes, en coordinación con la (sic) Unidades Administrativas competentes.
+f) (DEROGADO, D.O.F. 25 DE OCTUBRE DE 2019)
 
 II. En materia consultiva:
 
 a) Revisar, opinar y en su caso validar los proyectos de contratos, convenios e instrumentos jurídicos que, en el ámbito de su competencia, pretenda celebrar la Comisión de conformidad con la Normativa Aplicable;
 
-b) Desahogar las consultas en materia jurídica que le sean formuladas, en coordinación con las Unidades Administrativas cuando así lo considere necesario, con excepción de aquellas previstas en los artículos 27, fracción IV; 28, fracción IX y 29, fracción IV del presente Reglamento Interno;
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+b) Desahogar las consultas en materia jurídica que le sean formuladas, en coordinación con las Unidades Administrativas cuando así lo considere necesario, con excepción de aquellas previstas en los artículos 28, fracción IX y 29, fracción IV del presente Reglamento Interno;
 
 c) Proponer los criterios de interpretación para efectos administrativos, que emita la Comisión en la materia de su competencia, respecto a leyes, reglamentos y las disposiciones normativas o actos administrativos que emita;
 
@@ -1029,9 +1107,13 @@ d) Coadyuvar con la Secretaría Ejecutiva en la publicación de los criterios de
 
 e) Validar y proponer al Órgano de Gobierno los términos y condiciones de los contratos de servicios de comercialización de Hidrocarburos y los contratos para llevar a cabo actividades de Reconocimiento y Exploración Superficial.
 
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+f) Revisar, opinar y en su caso validar los proyectos de contratos, convenios e instrumentos jurídicos que, en el ámbito de su competencia, pretenda celebrar la Comisión de conformidad con la Normativa Aplicable.
+
 III. Coordinar la atención de las obligaciones de transparencia de la Comisión, en términos de la Normativa Aplicable;
 
-IV. Proponer al Órgano de Gobierno los términos para la emisión de la opinión respecto de los modelos de contratación para cada Área Contractual a solicitud de la Secretaría;
+IV. (DEROGADA, D.O.F. 25 DE OCTUBRE DE 2019)
 
 V. Brindar al Órgano de Gobierno, en conjunto con las Unidades Administrativas que correspondan, los elementos necesarios para la determinación de incumplimientos que, en su caso, deriven en la imposición de las sanciones previstas en la Ley de Hidrocarburos, así como tramitar y sustanciar, con apoyo de la Dirección General de lo Contencioso, los procedimientos administrativos correspondientes a las mismas, y llevar a cabo los actos necesarios para ejecutarlas;
 
@@ -1041,11 +1123,15 @@ VII. Coadyuvar con la Dirección General de lo Contencioso en el desarrollo de l
 
 VIII. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de sus atribuciones.
 
-La Dirección General Jurídica de Procedimientos y Consulta, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+La Dirección General de Consulta, en el ejercicio de las facultades señaladas en el presente artículo, será asistida por:
 
 a) La Dirección General Adjunta de Consultas Jurídicas, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones II; III; VI y VIII del presente artículo, y
 
-b) La Dirección General Adjunta de Procedimientos Administrativos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; IV; IV; V; VII y VIII del presente artículo.
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+b) La Dirección General Adjunta de Procedimientos Administrativos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I; V; VII y VIII del presente artículo.
 
 ###### Artículo 32.
 
@@ -1069,7 +1155,9 @@ IV. Requerir informes sobre cualquier siniestro, hecho o contingencia derivado d
 
 V. Analizar las referencias tecnológicas utilizadas conforme a las mejores prácticas de la industria en materia de su competencia;
 
-VI. Proporcionar a la Dirección General Jurídica de Procedimientos y Consulta los términos y condiciones de los contratos para llevar a cabo actividades de Reconocimiento y Exploración Superficial, y
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+VI. Proporcionar a la Dirección General de Consulta los términos y condiciones de los contratos para llevar a cabo actividades de Reconocimiento y Exploración Superficial, y
 
 VII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Titular de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
 
@@ -1247,7 +1335,9 @@ VIII. Difundir y remitir a las Unidades Administrativas y a las autoridades comp
 
 IX. Proponer al Órgano de Gobierno los elementos técnicos para la instalación de sistemas e instrumentos de medición;
 
-X. Proporcionar a la Dirección General Jurídica de Procedimientos y Consulta los términos y condiciones de los contratos de comercialización de Hidrocarburos para su validación;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+X. Proporcionar a la Dirección General de Consulta los términos y condiciones de los contratos de comercialización de Hidrocarburos para su validación;
 
 XI. Fungir como área requirente y suscribir los contratos, convenios y demás instrumentos jurídicos necesarios que en materia de comercialización de Hidrocarburos requiera la Comisión;
 
@@ -1293,7 +1383,9 @@ VI. Dar seguimiento a la ejecución de las actividades consideradas en los plane
 
 VII. Supervisar el abandono y desmantelamiento de equipos en Áreas Contractuales, en el ámbito de competencia de la Comisión;
 
-VIII. Evaluar, en coordinación con la Dirección General de Contratos la posible existencia de alguna causal de caso fortuito o fuerza mayor, rescisión administrativa o contractual, terminación anticipada y en general cualquier incumplimiento de obligaciones contractuales derivadas de Contratos, en la materia de su competencia;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+VIII. Evaluar, en coordinación con la Dirección General Jurídica de Asignaciones y Contratos la posible existencia de alguna causal de caso fortuito o fuerza mayor, rescisión administrativa o contractual, terminación anticipada y en general cualquier incumplimiento de obligaciones contractuales derivadas de Contratos, en la materia de su competencia;
 
 IX. Realizar el análisis respecto de las solicitudes de periodos adicionales de Exploración y evaluación presentada por los Contratistas, así como prórrogas a la vigencia de los Contratos;
 
@@ -1321,7 +1413,9 @@ IV. Dar seguimiento a la ejecución de las actividades consideradas en los plane
 
 V. Supervisar el abandono y desmantelamiento de equipos en Áreas de Asignación, en el ámbito de competencia de la Comisión;
 
-VI. Evaluar, en coordinación con la Dirección General de Asignaciones y Procedimientos de Contratación, la posible existencia de causales de revocación de Asignaciones;
+> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+VI. Evaluar, en coordinación con la Dirección General Jurídica de Asignaciones y Contratos, la posible existencia de causales de revocación de Asignaciones;
 
 VII. Conocer los avisos de cesión y renuncia de Asignaciones y proponer al Órgano de Gobierno el dictamen respectivo;
 
@@ -1393,9 +1487,11 @@ b) La Dirección General Adjunta de Litotecas, a quien le corresponderá, en el 
 
 c) La Dirección General Adjunta de Gestión de Información Geográfica, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, III, IV; V y VII del presente artículo;
 
-d) La Dirección General Adjunta de Enlace Interno, Procesos y Gestión de Información Técnica, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, II, III, IV, VI y VII del presente artículo, y
+d) (DEROGADO, D.O.F. 25 DE OCTUBRE DE 2019)
 
-e) La Dirección General Adjunta de Servicios a Externos, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, III, IV, V, VI, y VII del presente artículo.
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+e) La Dirección General Adjunta de Servicios a Usuarios, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I, III, IV, V, VI, y VII del presente artículo.
 
 ###### Artículo 42.
 
@@ -1459,7 +1555,9 @@ b) Coordinar y realizar todos los actos relativos a adquisiciones, arrendamiento
 
 c) Garantizar mediante la inclusión de las cláusulas respectivas, que los contratos convenios, pedidos, que se suscriban en la Comisión derivados de adquisiciones, arrendamientos, servicios y de obra pública, estarán sujetos a lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, a la Ley de Obras Públicas y Servicios Relacionados con las Mismas, a la Ley Federal de Responsabilidades de los Servidores Públicos, así como a las demás leyes, reglamentos y normas aplicables en materia de trasparencia y acceso a la información, de fiscalización y rendición de cuentas y combate a la corrupción;
 
-d) Suscribir convenios y contratos en materia de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como de cualquier otro instrumento relacionado que implique actos de administración, previo visto bueno de la Dirección General Jurídica de Procedimientos y Consulta;
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+d) Suscribir convenios y contratos en materia de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como de cualquier otro instrumento relacionado que implique actos de administración, previo visto bueno de la Dirección General de Consulta;
 
 e) Liberar garantías de contratos en materia de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y Ley de Obras Públicas y servicios Relacionadas con las Mismas, así como de cualquier otro instrumento relacionado, en términos de los lineamientos emitidos por la Unidad de Administración y Finanzas;
 
@@ -1535,9 +1633,13 @@ a) La Dirección General Adjunta de Finanzas, a quien le corresponderá, en el �
 
 b) La Dirección General Adjunta de Adquisiciones, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones I y VII del presente artículo;
 
-c) La Dirección General Adjunta de Servicios Generales, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones III y VII del presente artículo, y
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
 
-d) La Dirección General Adjunta de Recursos Materiales, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en las fracciones III y VII del presente artículo.
+c) La Dirección General Adjunta de Servicios Generales, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en los incisos a) y f) de la fracción III, así como la fracción VII del presente artículo, y
+
+> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 2019)</small>
+
+d) La Dirección General Adjunta de Recursos Materiales, a quien le corresponderá, en el ámbito de su respectiva competencia, acordar con el Director General el ejercicio de las facultades establecidas en los incisos a), b), c) d) y e) de la fracción III, así como la fracción VII del presente artículo.
 
 ###### Artículo 45.
 
@@ -1700,3 +1802,11 @@ TERCERO.- Hasta en tanto se autorice la estructura requerida por las autoridades
 CUARTO.- Inscríbase el presente Acuerdo CNH.E.29.009/19 en el Registro Público de la Comisión Nacional de Hidrocarburos.
 
 Ciudad de México, a 31 de mayo de 2019.- Comisionados Integrantes del Órgano de Gobierno de la Comisión Nacional de Hidrocarburos: los Comisionados: Alma América Porres Luna, Néstor Martínez Romero, Sergio Henrivier Pimentel Vargas, Héctor Moreira Rodríguez.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 25 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO CNH.E.59.007/19 POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
+
+PRIMERO.- El presente ACUERDO entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
