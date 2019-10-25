@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2019-10-22"
+last_updated: "2019-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -539,9 +539,11 @@ Los servidores públicos a que se refiere este artículo no podrán ser pariente
 
 El número y asignación de regidores de representación proporcional se ajustará a lo dispuesto por la Constitución Política del Estado de Guerrero.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 31.
 
-Los síndicos y regidores durante su encargo podrán ser autorizados por el Cabildo para desempeñarse como servidores públicos federales, estatales o municipales, siempre que lo hagan en las áreas docentes, de la salud o de beneficencia, y no afecten sus responsabilidades edilicias, a juicio del Congreso del Estado.
+Los integrantes del Ayuntamiento tienen prohibido desempeñar a la vez dos o más cargos o empleos públicos por los que se disfrute sueldo; excepto los regidores, que podrán ser autorizados por el Cabildo para desempeñarse en la docencia, investigación o beneficencia pública que no impliquen remuneración o estímulo económico, y que no afecten sus responsabilidades edilicias o resulten incompatibles a juicio del Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
@@ -4196,5 +4198,25 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
 
 ###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
+
+P.O. 25 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 254 POR EL QUE SE REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Decretos emitidos por la Sexagésima Segunda Legislatura al Congreso del Estado, en las solicitudes de compatibilidad de funciones, quedarán firmes por el tiempo que resta del cargo edilicio, siempre y cuando continúen las mismas condiciones valoradas, en su momento, para la resolución.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO CUARTO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Congreso del Estado, para su conocimiento general.
