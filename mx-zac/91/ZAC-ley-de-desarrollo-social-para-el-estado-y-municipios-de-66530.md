@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2019-08-24"
+last_updated: "2019-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -149,9 +149,11 @@ XII. Padrón: Relación oficial de beneficiarios que incluye a las personas aten
 
 XIII. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas, y
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2013)</small>
+XIV. (DEROGADA, P.O. 26 DE OCTUBRE DE 2019)
 
-XIV. Unidad: La Unidad de Planeación del Titular del Poder Ejecutivo.
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+XV. Sector social de la economía: sistema socioeconómico creado por organismos de propiedad social que participan en cualquiera de las fases del proceso productivo, basados en relaciones de solidaridad, cooperación, reciprocidad e igualdad de género, privilegiando al trabajo y al ser humano, conformados y administrados en forma asociativa, con el objeto de satisfacer las necesidades de sus integrantes y comunidades donde se desarrollan.
 
 ###### Artículo 7.
 
@@ -183,17 +185,21 @@ IX. Subsidiariedad: Es el reconocimiento de los derechos y obligaciones que perm
 
 X. Exigibilidad: Es el derecho de las personas a que, a través de un conjunto de normas y procedimientos, los derechos sociales sean progresivamente exigibles de acuerdo a la disposición presupuestal;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2019)</small>
 
-XI. Diversidad: Es el reconocimiento de todas las personas como sujetos de derechos sin importar su origen étnico, sexo, género, edad, discapacidades, condición social, condiciones de salud, religión, orientación sexual, opinión política, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad, y
+XI. Diversidad: Es el reconocimiento en términos de origen étnico, género, edad, discapacidades, condición social, condiciones de salud, religión, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2019)</small>
 
-XII. Transparencia: La información relativa al desarrollo social y los recursos públicos que se apliquen en este rubro es pública en los términos de las leyes en la materia. Las autoridades garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz.
+XII. Transparencia: La información relativa al desarrollo social y los recursos públicos que se apliquen en este rubro es pública en los términos de las leyes en la materia. Las autoridades garantizarán que la información gubernamental sea objetiva, oportuna, sistemática y veraz, y
 
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2019)</small>
 
 XIII. Interés Superior de la Niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General de Desarrollo Social, los tratados internacionales aplicables de los que el Estado Mexicano sea parte y la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+XIII (SIC). Transversalidad: Modelo organizativo de carácter horizontal que busca la integración, la coordinación y cooperación interinstitucional e intersectorial, caracterizada por plantear objetivos asumidos por todos los sectores de la administración pública pero que no son propios de ninguno de ellos sino de carácter general del conjunto institucional.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -203,9 +209,11 @@ Para efectos administrativos, en caso de duda sobre la interpretación y aplicac
 
 En el ámbito municipal y para los mismos efectos, se estará a lo que determine el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 9.
 
-En lo no previsto en la presente Ley, se aplicarán en forma supletoria la Ley General de Desarrollo Social, la Ley de Planeación para el Desarrollo del Estado, la Ley de Asistencia Social del Estado y demás disposiciones aplicables.
+En lo no previsto en la presente Ley, se aplicarán en forma supletoria la Ley de Planeación del Estado de Zacatecas y sus Municipios, la Ley de Asistencia Social del Estado de Zacatecas y demás disposiciones aplicables.
 
 ###### Artículo 10.
 
@@ -509,13 +517,17 @@ X. Las demás que se establezcan en otras disposiciones legales aplicables.
 
 La planeación se concretará a través del Programa y los programas municipales de desarrollo social, que en su conjunto constituyen el instrumento rector de la planeación en esta materia.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 28.
 
-El Programa Estatal será elaborado por la Secretaría, en congruencia con el Plan Estatal de Desarrollo y la política de desarrollo social del Estado y de acuerdo con lo establecido en la Ley de Planeación para el Desarrollo del Estado.
+El Programa Estatal será elaborado por la Secretaría, en congruencia con el Plan Estatal de Desarrollo y la política de desarrollo social del Estado y de acuerdo con lo establecido en la Ley de Planeación del Estado de Zacatecas y sus Municipios.
+
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 29.
 
-Los programas municipales de desarrollo social serán emitidos por los Ayuntamientos, en congruencia con el Plan Estatal de Desarrollo, los planes municipales de desarrollo, de conformidad con la Ley Orgánica del Municipio y la Ley de Planeación para el Desarrollo del Estado.
+Los programas municipales de desarrollo social serán emitidos por los Ayuntamientos, en congruencia con el Plan Estatal de Desarrollo, los planes municipales de desarrollo, de conformidad con la Ley Orgánica del Municipio del Estado de Zacatecas y la Ley de Planeación del Estado de Zacatecas y sus Municipios.
 
 ###### Artículo 30.
 
@@ -567,9 +579,11 @@ X. Los programas para la protección del ambiente y la preservación de los recu
 
 La o el Ejecutivo del Estado dentro de los 60 días naturales siguientes a la aprobación del presupuesto de egresos del Estado, deberá elaborar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado, así como en su página electrónica, las reglas de operación de los programas de desarrollo social.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 34.
 
-La o el Ejecutivo del Estado y los Ayuntamientos, dentro de ese mismo plazo, difundirán los programas operativos anuales en materia de desarrollo social y la normatividad respectiva, de conformidad con la Ley de Acceso a la Información Pública del Estado.
+La o el Ejecutivo del Estado y los Ayuntamientos, dentro de ese mismo plazo, difundirán los programas presupuestarios anuales en materia de desarrollo social y la normatividad respectiva, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas.
 
 ###### Artículo 35.
 
@@ -585,11 +599,11 @@ La publicidad e información de los programas de desarrollo social que emita la 
 
 Cuando en una comunidad se encuentre habitando una población indígena, aún y cuando sea de manera temporal, las autoridades municipales podrán, en caso de ser necesario, difundir en la lengua o dialecto respectivo, lo concerniente a los programas de desarrollo social que se estén implementando en el Municipio de que se trate.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 38.
 
-La Secretaría en coordinación con la Subsecretaría de las Personas con Discapacidad, promoverán la publicación en sistema braille, de los programas de desarrollo social y contarán con personal capacitado para dar asesoría sobre los mismos a las personas con discapacidad visual y auditiva.
+La Secretaría en coordinación con el Instituto para la Atención e Inclusión de las Personas con Discapacidad del Estado de Zacatecas, promoverán la publicación en sistema braille, de los programas de desarrollo social y contarán con personal capacitado para dar asesoría sobre los mismos a las personas con discapacidad visual y auditiva.
 
 ## TÍTULO SÉPTIMO. DEL FOMENTO AL DESARROLLO SOCIAL
 
@@ -607,7 +621,9 @@ Las partidas presupuestales contenidas en el presupuesto de egresos del Estado y
 
 Los recursos estatales y municipales presupuestados para los programas de desarrollo social, podrán ser complementados con recursos provenientes del gobierno federal o de organizaciones, fondos internacionales, donativos o los generados por cualquier acto jurídico.
 
-### Capítulo II. Del Fomento a las Actividades Productivas con Beneficio Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+### Capítulo II. Del Fomento a las Actividades Productivas relacionadas con el Sector Social de la Economía
 
 ###### Artículo 42.
 
@@ -638,6 +654,46 @@ III. Aportación estatal para obras de infraestructura pública, así como para 
 IV. Programas para promover exportaciones, y
 
 V. Apoyo para que puedan participar en ferias y eventos nacionales e internacionales.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 43 Bis.
+
+De conformidad con el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, la Ley de la Economía Social y Solidaria, Reglamentaria del párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía, la Ley General de Desarrollo Social y la presente Ley, el Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus competencias, promoverán la organización de personas, familias y grupos sociales, con el objeto de promover proyectos productivos; identificar oportunidades de inversión y brindar capacitación, asistencia técnica y asesoría para la organización y el diseño de proyectos y apoyo legal para la realización de estas actividades.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 43 Ter.
+
+La política estatal y municipal de desarrollo social deberá integrar entre sus estrategias el fomento al sector social de la economía y para tal efecto deberá:
+
+I. Impulsar el desarrollo de formas asociativas entre la ciudadanía, así como a sus formas de organización, para lo cual, establecerá políticas públicas específicas para promover su integración y desarrollo;
+
+II. Promover proyectos de apoyo a las actividades productivas del sector social de la economía que generen empleos e ingresos que beneficien a la comunidad, destinando recursos públicos para brindarles capacitación, asistencia técnica y asesoría legal;
+
+III. Integrar programas que cuenten con recursos para dar viabilidad a las empresas sociales y solidarias en apoyo de personas, familias y organizaciones cuyo objeto sea el financiamiento de proyectos de desarrollo social;
+
+IV. Generar proyectos para impulsar la cooperación, entre las organizaciones, asociaciones o empresas sindicales o cooperativas del sector social de la economía, a fin de establecer redes de colaboración entre ellas y, con ello, crear circuitos y polos productivos, y
+
+V. Establecer campañas de difusión para dar a conocer entre un mayor número de personas, la existencia de iniciativas y proyectos productivos de las organizaciones y entidades que integran al sector social de la economía, a efecto de que puedan participar, formar parte de ellas y promoverlas.
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2019)</small>
+
+###### Artículo 43 Quáter.
+
+El sector social de la economía se integra por las formas de organización social siguientes:
+
+I. Ejidos;
+
+II. Comunidades;
+
+III. Organizaciones de trabajadores;
+
+IV. Sociedades Cooperativas;
+
+V. Empresas que pertenezcan mayoritaria o exclusivamente a los trabajadores, y
+
+VI. En general, de todas las formas de organización social para la producción, distribución y consumo de bienes y servicios socialmente necesarios.
 
 ### Capítulo III. De los Fondos de Contingencia Social
 
@@ -807,9 +863,9 @@ III. El titular de la Secretaría de Finanzas;
 
 IV. El titular de la Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2019)</small>
 
-V. El titular de la Secretaría de Infraestructura;
+V. El titular de la Secretaría de Obras Públicas;
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -835,9 +891,9 @@ X. La titular de la Secretaría de las Mujeres;
 
 XI. El Director General del Instituto Zacatecano de Cultura "Ramón López Velarde";
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2019)</small>
 
-XII. El Director General de los Servicios de Salud del Estado, y
+XII. El titular de la Secretaría de Salud, y
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -927,9 +983,11 @@ Los nombramientos del Subcomité Sectorial de Desarrollo Social, serán de cará
 
 La Secretaría deberá prestar al Subcomité Sectorial de Desarrollo Social, la colaboración necesaria para el ejercicio de sus funciones.
 
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 64.
 
-Los Ayuntamientos podrán constituir Subcomités Municipales de Desarrollo Social, de conformidad con la Ley de Planeación para el Desarrollo del Estado y las disposiciones reglamentarias que para el efecto expidan.
+Los Ayuntamientos podrán constituir Subcomités Municipales de Desarrollo Social, de conformidad con la Ley de Planeación del Estado de Zacatecas y sus Municipios y las disposiciones reglamentarias que para el efecto expidan.
 
 ###### Artículo 65.
 
@@ -1198,6 +1256,14 @@ Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
 P.O. 24 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 163.- MEDIANTE EL CUAL SE REFORMA, ADICIONA Y DEROGO DIVERSAS DISPOSICIONES DEL (SIC) LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 26 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 166.- MEDIANTE EL CUAL SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
 
