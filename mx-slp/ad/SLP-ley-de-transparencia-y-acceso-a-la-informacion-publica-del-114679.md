@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2019-06-04"
+last_updated: "2019-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -459,9 +459,11 @@ V. No haber sido gobernador del Estado, titular de alguna de las dependencias y 
 
 VI. Contar con una residencia efectiva en el Estado, cuando menos de dos años previos a su elección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 31.
 
-Los comisionados durarán en su cargo cuatro años y, en ese lapso, podrán ser removidos de su cargo por las causas y a través de los procedimientos establecidos en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos; Título Décimo Segundo de la Constitución Política del Estado; y de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí y demás ordenamientos aplicables.
+Los comisionados durarán en su cargo cuatro años y, en ese lapso, podrán ser removidos de su cargo por las causas y a través de los procedimientos establecidos en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos; Título Décimo Segundo de la Constitución Política del Estado; y de conformidad con la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, y demás ordenamientos aplicables.
 
 El cargo de comisionado es de tiempo completo, e incompatible con cualquier otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia.
 
@@ -3048,3 +3050,11 @@ P.O. 4 DE JUNIO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis",
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0289.- SE REFORMA EL ARTÍCULO 31 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
