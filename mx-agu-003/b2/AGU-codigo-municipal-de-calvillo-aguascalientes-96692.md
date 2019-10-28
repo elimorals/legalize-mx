@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2019-10-21"
+last_updated: "2019-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2561,7 +2561,7 @@ Los Manuales de Organización y Procedimientos, una vez publicados, imponen carg
 
 Los Manuales de Organización y Procedimientos serán elaborados por cada dependencia o en su caso, elaborados por la Secretaría encargada del ámbito administrativo interno municipal, de conformidad a los lineamientos de la dependencia correspondiente y aprobados en todo caso por el titular de la Secretaría respectiva o del organismo descentralizado correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE. E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 311.
 
@@ -2779,7 +2779,7 @@ d). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
 e). (DEROGADO, P.O. 21 DE OCTUBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE.E. REPUBLICADO ESTE PÁRRAFO], P.O. 28 DE OCTUBRE DE 2019)</small>
 
 XI. Secretaría para el Desarrollo Integral de la Familia
 
@@ -2794,6 +2794,10 @@ d). Departamento de Coordinación del INAPAM; y
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
 
 e). Departamento de Centros de Desarrollo Comunitarios
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE OCTUBRE DE 2019)</small>
+
+f). Departamento de Trabajo Social
 
 XII. (DEROGADA, P.O. 15 DE MAYO DE 2017)
 
@@ -3363,7 +3367,9 @@ XXIII.- Designar, para el adecuado desarrollo del Sistema de Control y Evaluaci�
 
 XXIV.- Las demás que expresamente le señalen las leyes y reglamentos vigentes en el Municipio, el H. Ayuntamiento o el Presidente Municipal.
 
-#### SECCIÓN CUARTA. De la Secretaría de Seguridad Pública y Vialidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2019)</small>
+
+#### SECCIÓN CUARTA. De la Dirección de Desarrollo Urbano
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017)</small>
 
@@ -11971,7 +11977,9 @@ Los grupos de emergencia establecidos en el territorio municipal, habrán de pre
 
 La ordenación y regulación del Desarrollo Urbano y la Vivienda, en el Municipio de Calvillo, se normarán conforme a lo dispuesto por:
 
-I.- El Código Urbano para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+
+I.- El Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes
 
 II.- Los Planes Estatal y Municipal de Desarrollo;
 
@@ -12195,9 +12203,11 @@ XIII.- Anexo gráfico.
 
 La estructura y contenido de los programas de desarrollo urbano tendrán que adecuarse al marco legal vigente, así como a las características del ámbito territorial o sectorial de su aplicación, además a la capacidad técnica y administrativa de las autoridades urbanas encargadas de elaborarlos y ejecutarlos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 1207.
 
-El Programa Municipal de Desarrollo Urbano, atenderá el contenido que refiere el artículo 55 del Código Urbano para el Estado y además observará los puntos siguientes:
+El Programa Municipal de Desarrollo Urbano, atenderá el contenido que refiere los artículos 84, 92 y 94 del Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes y además observará los puntos siguientes:
 
 I.- La congruencia del Programa Municipal de Desarrollo Urbano, con los Planes Nacional, Estatal y Municipal de Desarrollo;
 
@@ -12491,17 +12501,17 @@ Para efectos de este Código, vía pública es todo espacio de uso común que po
 
 Todo inmueble consignado como vía pública en algún plano o registro oficial existente en cualquiera de las unidades administrativas del gobierno del Estado o del Municipio, en el Archivo Histórico del Estado, o en otro archivo, museo, biblioteca o dependencia oficial, se presumirá salvo prueba en contrario, que es vía pública y pertenece al propio Municipio. Esta disposición será aplicable a todos los demás bienes de uso común o destinado a un servicio público.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1233.
 
-Los predios o inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la Secretaría de Obras Públicas y Desarrollo Urbano, emitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro, para que se realicen los registros y las cancelaciones respectivas.
+Los predios o inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente a través de la Dirección de Desarrollo Urbano, emitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano, al Registro Público de la Propiedad y a la Dirección General de Catastro, para que se realicen los registros y las cancelaciones respectivas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1234.
 
-Se requiere permiso o autorización expresa de la Secretaría de Obras Públicas y Desarrollo Urbano para:
+Se requiere permiso o autorización expresa de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente o bien de la Dirección de Desarrollo Urbano, para:
 
 I.- Realizar obras, modificaciones o reparaciones en la vía pública;
 
@@ -12537,31 +12547,31 @@ V.- Para construir comercios semifijos en vías públicas; y
 
 VI.- Para aquellos otros fines que el Ayuntamiento considere contrarios al interés público.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1237.
 
-Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Secretaría de Obras Públicas y Desarrollo Urbano señale. Si este plazo fuese sobrexcedido, la misma Secretaría de Obras Públicas y Desarrollo Urbano, realizará los trabajos con cargo al propietario, independientemente de las sanciones que conforme al Libro Séptimo del presente Código, sean aplicables.
+Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Desarrollo Urbano señale. Si este plazo fuese sobrexcedido, la misma Dirección de Desarrollo Urbano con la colaboración de la Secretaría de Obras Públicas, desarrollo Urbano y Medio Ambiente, realizará los trabajos con cargo al propietario, independientemente de las sanciones que conforme al Libro Séptimo del presente Código, sean aplicables.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1238.
 
 Las instalaciones subterráneas para los servicios públicos de teléfonos, alumbrado, semáforos, energía eléctrica, gas y cualesquiera otras, deberán localizarse a lo largo de aceras y camellones.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Dirección de Desarrollo Urbano, podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras así lo requieran, respetando y observando la normatividad en la materia determinada para la instalación que corresponda.
 
-Cuando se localicen en las aceras, deberán distar por lo menos cincuenta centímetros del alineamiento oficial. La Secretaría de Obras Públicas y Desarrollo Urbano, podrá autorizar la construcción de instalaciones subterráneas fuera de las zonas descritas en el párrafo anterior, cuando la naturaleza de las obras así lo requieran, respetando y observando la normatividad en la materia determinada para la instalación que corresponda.
-
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1239.
 
-La Secretaría Obras Públicas y Desarrollo Urbano, fijarán en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
+La Dirección de Desarrollo Urbano, en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, fijarán en cada caso, la profundidad mínima y máxima a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1240.
 
-Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Secretaría de Obras Públicas y Desarrollo Urbano, determinarán la forma en que se lleven a cabo los trabajos.
+Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, La Dirección de Desarrollo Urbano en coordinación con la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, determinarán la forma en que se lleven a cabo los trabajos.
 
 ###### Artículo 1241.
 
@@ -12641,17 +12651,17 @@ I.- En intersección de dos vialidades, un mínimo de cuatro placas; y
 
 II.- En intersecciones mayores a dos vialidades, una placa por cada calle antes y después de la intersección.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1254.
 
-Los promotores inmobiliarios y fraccionadores, deberán presentar ante la Secretaría de Obras Públicas y Desarrollo Urbano, la propuesta de nomenclatura a vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la SEPLADE.
+Los promotores inmobiliarios y fraccionadores, deberán presentar ante la Dirección de Desarrollo Urbano, la propuesta de nomenclatura a vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la SEPLADE.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1255.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, tomará en cuenta la propuesta del promotor inmobiliario o fraccionador al momento de determinar sobre la nomenclatura, con el fin de someter al Cabildo la propuesta de dictamen de nomenclatura, debiéndose apegar a lo siguiente:
+La Dirección de Desarrollo Urbano, tomará en cuenta la propuesta del promotor inmobiliario o fraccionador al momento de determinar sobre la nomenclatura, con el fin de someter al Cabildo la propuesta de dictamen de nomenclatura, debiéndose apegar a lo siguiente:
 
 I.- Análisis de la propuesta de los promotores inmobiliarios y fraccionadores, expresando las razones que se tomaron en cuenta para estimar o desestimar dicha opinión;
 
@@ -12681,13 +12691,15 @@ II.- Tratándose de hombre o personajes ilustres, deberán acompañarse con los 
 
 III.- Los nombres propuestos no deberán contravenir a la moral y las buenas costumbres.
 
+> <small>(REFORMADO [N. DE. E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 1258.
 
 Toda solicitud de nomenclatura deberán apegarse al procedimiento siguiente:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
 
-I.- Presentada la solicitud por escrito a la Secretaría de Obras Públicas y Desarrollo Urbano quien emitirá dictamen positivo o negativo en base a lo establecido en este Código y demás disposiciones jurídicas aplicables;
+I.- Presentada la solicitud por escrito a la Dirección de Desarrollo Urbano, quien emitirá dictamen positivo o negativo en base a lo establecido en este Código y demás disposiciones jurídicas aplicables;
 
 II.- Cuando se dictamine improcedente la solicitud deberá notificarse personalmente al promovente;
 
@@ -12701,13 +12713,15 @@ V.- Una vez dictada la resolución definitiva se notificará a los interesados.
 
 Todo cambio o asignación de nomenclatura y números oficiales deberá ser notificado de inmediato a las Administraciones Fiscales de Hacienda, Catastro e Impuesto a la Propiedad Raíz; al Registro Público de la Propiedad y Comercio; a Finanzas Municipales; y a cualquier otra persona física o moral que lo requiera.
 
+> <small>(REFORMADO [N. DE. E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 1260.
 
 El trámite e instalación de números oficiales deberá apegarse a lo siguiente:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
 
-I.- Tramitar el número oficial en la ventanilla única de la Secretaría de Obras Públicas y Desarrollo Urbano instancia autorizada para la autorización del número oficial;
+I.- Tramitar el número oficial en la ventanilla única de la Dirección de Desarrollo Urbano, instancia autorizada para la autorización del número oficial;
 
 II.- La instalación en inmuebles construidos deberán colocarse en el exterior, al frente de la construcción junto al acceso principal;
 
@@ -12729,7 +12743,9 @@ IX.- Las placas de numeración deberán colocarse en una altura mínima de dos m
 
 X.- Cuando existan manzanas con diferente longitud, deberá prevalecer la numeración progresiva que dicte la manzana de mayor longitud;
 
-XI.- Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Secretaría de Planeación y Desarrollo Municipal; y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+
+XI.- Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Desarrollo Urbano; y
 
 XII.- Cuando las cabeceras de manzanas de una glorieta, plaza o sitio que cuente con nomenclatura propia y existan varias construcciones, con acceso desde éstas, se asignará una nueva numeración en nones con una sola centena bajo la nomenclatura de la glorieta, plaza o sitio que corresponda.
 
@@ -12743,11 +12759,11 @@ II.- Cuando se trate de propietarios de predios individuales: Copia certificada 
 
 III.- Cuando el promotor inmobiliario o fraccionador tramite los números oficiales de forma previa a las construcciones, para que el adquirente de los inmuebles reciba las placas correspondientes de los números, deberá presentar el documento en original de la boleta de asignación del número que le entregará el promovente o fraccionador.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1262.
 
-La Secretaría de Obras Públicas y Desarrollo Urbano, autorizará números oficiales al solicitante, cuando el fraccionador o promotor inmobiliario haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría facultada, en el ámbito de su competencia y de la legislación urbana aplicable
+La Dirección de Desarrollo Urbano, autorizará números oficiales al solicitante, cuando el fraccionador o promotor inmobiliario haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano o la Secretaría de Planeación Estatal, en el ámbito de su competencia y de la legislación urbana aplicable.
 
 ###### Artículo 1263.
 
@@ -12771,35 +12787,35 @@ III.- Constancia de alineamiento y compatibilidad urbanística; y
 
 IV.- Cuando se trate de subdivisiones o fusiones deberá acompañar el documento que acredite la autorización de las mismas según corresponda.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1265.
 
-Son causas de ratificación de número oficial: Cuando se requiera para comprobar la inexistencia de error en el número oficial y nomenclatura, incluyendo la certificación de cambio del nombre provisional de una vía pública, para poder expedirse este documento se deberá presentar solicitud por escrito ante la Secretaría de Obras Públicas y Desarrollo Urbano, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
+Son causas de ratificación de número oficial: Cuando se requiera para comprobar la inexistencia de error en el número oficial y nomenclatura, incluyendo la certificación de cambio del nombre provisional de una vía pública, para poder expedirse este documento se deberá presentar solicitud por escrito ante la Dirección de Desarrollo Urbano, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1266.
 
-Una vez satisfechos los requisitos que establece el presente Capítulo, la Secretaría de Obras Públicas y Desarrollo Urbano, procederá a expedir un documento en el que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
+Una vez satisfechos los requisitos que establece el presente Capítulo, la Dirección de Desarrollo Urbano, procederá a expedir un documento en el que se incluirá el número oficial y las placas correspondientes, debiendo presentar el original de la boleta y en su caso la constancia de compatibilidad urbanística y la licencia de construcción.
 
 ## TÍTULO SEGUNDO. DE LAS CONSTRUCCIONES
 
 ### CAPÍTULO I. De la Licencia de Construcción
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1267.
 
-Toda obra de construcción, edificación, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Secretaría de Obras Públicas y Desarrollo Urbano, con anterioridad al inicio de la obra.
+Toda obra de construcción, edificación, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Dirección de Desarrollo Urbano, con anterioridad al inicio de la obra.
 
 Dicha licencia deberá obtenerse en todo tipo de obras públicas o privadas, independientemente del régimen de propiedad o ubicación de los predios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1268.
 
-Son facultades de la Secretaría de Obras Públicas y Desarrollo Urbano en materia de construcciones, las siguientes:
+Son facultades de la Dirección de Desarrollo Urbano en materia de construcciones, las siguientes:
 
 I.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
 
@@ -12827,17 +12843,19 @@ XII.- Expedir normas técnicas complementarias para el debido cumplimiento del p
 
 XIII.- Asignar peritajes por servicio social a los peritos responsables de obra y especializados, en los casos que prevé este Código.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1269.
 
-Licencia de construcción es el documento expedido por la Secretaría de Obras Públicas y Desarrollo Urbano, por el cual se autoriza a los propietarios para construir o demoler una edificación y/o instalación en sus predios.
+Licencia de construcción es el documento expedido por la Dirección de Desarrollo Urbano, por el cual se autoriza a los propietarios para construir o demoler una edificación y/o instalación en sus predios.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1270.
 
-Las solicitudes de licencia de construcción deberán recibir resoluciones de expedición o rechazo expedidas por la Secretaría de Obras Públicas y Desarrollo Urbano, en un lapso no mayor a 10 días hábiles. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos y especificaciones contenidas en el presente Código y demás ordenamientos legales vigentes aplicables.
+Las solicitudes de licencia de construcción deberán recibir resoluciones de expedición o rechazo expedidas por la Dirección de Desarrollo Urbano, en un lapso no mayor a 10 días hábiles. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos y especificaciones contenidas en el presente Código y demás ordenamientos legales vigentes aplicables.
+
+> <small>(REFORMADO [N. DE. E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1271.
 
@@ -12861,9 +12879,9 @@ VIII.- Divisiones interiores prefabricadas en pisos de despachos o comercios, cu
 
 IX.- Impermeabilización y reparación de azoteas sin afectar elementos estructurales;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
 
-X.- Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Secretaría de Obras Públicas y Desarrollo Urbano, dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
+X.- Obras urgentes para la prevención de accidentes, a reserva de dar aviso a la Dirección de Desarrollo Urbano, dentro de un plazo de cuarenta y ocho horas contadas a partir del inicio de las mismas;
 
 XI.- Demoliciones hasta de un cuarto aislado de dieciséis metros cuadrados no consecutivo, si está desocupado y sin afectar la estabilidad del resto de las construcciones;
 
@@ -12893,25 +12911,25 @@ VI.- Las modificaciones al proyecto original de cualquier obra. Se deberá acomp
 
 No se concederá licencia cuando el cambio de uso sea incompatible con la zonificación de destinos, usos y reservas autorizadas en los diferentes Programas de Desarrollo Urbano, o bien el inmueble no reúna las condiciones de estabilidad y servicio para el nuevo uso. Las solicitudes para este tipo de licencias, se presentarán con la firma del propietario del predio y con la responsiva de un perito responsable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1273.
 
-El tiempo dé vigencia de las licencias de construcción que expida la Secretaría de Obras Públicas y Desarrollo Urbano, estará en relación con la naturaleza y magnitud de la obra por ejecutar de acuerdo a las bases siguientes:
+El tiempo de vigencia de las licencias de construcción que expida la Dirección de Desarrollo Urbano, estará en relación con la naturaleza y magnitud de la obra por ejecutar de acuerdo a las bases siguientes:
 
 I.- Para la construcción de obras con superficie hasta 300 m2 (trescientos metros cuadrados), la vigencia máxima será 12 meses (doce meses); de 301 m2 (trescientos un metros cuadrados) hasta 1000 m2 (mil metros cuadrados) de 24 meses, y de más de 1000 m2 (mil metros cuadrados) de 36 meses;
 
 II.- Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese concluido, para continuarla, deberá obtenerse refrendo de la licencia y cubrir los derechos por la parte no ejecutada de la obra; a la solicitud se acompañará una descripción de los trabajos que se llevarán a cabo y croquis o planos, cuando sea necesario; y
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
 
-III.- El responsable de la obra podrá solicitar a la Secretaría de Obras Públicas y Desarrollo Urbano, suspensión temporal de la licencia de construcción por un plazo no mayor a 6 meses, siempre y cuando se solicite dentro de la vigencia autorizada.
+III.- El responsable de la obra podrá solicitar a la Dirección de Desarrollo Urbano, suspensión temporal de la licencia de construcción por un plazo no mayor a 6 meses, siempre y cuando se solicite dentro de la vigencia autorizada.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1274.
 
-En zonas y predios catalogados con valor patrimonial, artístico, histórico, cultural, no podrán ejecutarse nuevas obras, construcciones, demoliciones o instalaciones de cualquier naturaleza sin la autorización de la Secretaría de Obras Públicas y Desarrollo Urbano, y previo dictamen de la Delegación Estatal del Instituto Nacional de Antropología e Historia. Esta autorización y dictamen aplica también para los predios colindantes.
+En zonas y predios catalogados con valor patrimonial, artístico, histórico, cultural, no podrán ejecutarse nuevas obras, construcciones, demoliciones o instalaciones de cualquier naturaleza sin la autorización de la Dirección de Desarrollo Urbano, y previo dictamen de la Delegación Estatal del Instituto Nacional de Antropología e Historia. Esta autorización y dictamen aplica también para los predios colindantes.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
 
@@ -12923,11 +12941,11 @@ Los propietarios de inmuebles y predios producto de subdivisión o fusión que p
 
 Los propietarios de inmuebles y predios que se encuentren en un conjunto o sujeto al régimen de propiedad en condominio, y deseen realizar cualquier tipo de obra deberán presentar oficio de autorización y planos del proyecto en dos tantos sellados y firmados por la administración del condominio y/o asamblea de condóminos legalmente constituida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1277.
 
-Para solicitar el trámite de licencia para construcciones, reparaciones, o ampliaciones menores de noventa metros cuadrados en casa habitación unifamiliar, se requiere que el particular presente ante la Secretaría de Obras Públicas y Desarrollo Urbano, los documentos siguientes:
+Para solicitar el trámite de licencia para construcciones, reparaciones, o ampliaciones menores de noventa metros cuadrados en casa habitación unifamiliar, se requiere que el particular presente ante la Dirección de Desarrollo Urbano, los documentos siguientes:
 
 I.- Constancia de compatibilidad urbanística y número oficial;
 
@@ -12961,11 +12979,11 @@ c).- Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento
 
 d).- Si la ampliación y construcción se realiza en inmueble o predio con uso habitacional y las obras a desarrollar son para uso comercial o de servicios o prevén usos habitacionales multifamiliares, deberá presentar constancia de compatibilidad urbanística de uso mixto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1279.
 
-Para solicitar el trámite de licencias para construcciones, reparaciones, o ampliaciones mayores de noventa metros cuadrados en una vivienda o construcción en serie de una o varias viviendas de cualquier superficie, se requiere presentar a la Secretaría de Obras Públicas y Desarrollo Urbano, los documentos siguientes:
+Para solicitar el trámite de licencias para construcciones, reparaciones, o ampliaciones mayores de noventa metros cuadrados en una vivienda o construcción en serie de una o varias viviendas de cualquier superficie, se requiere presentar a la Dirección de Desarrollo Urbano, los documentos siguientes:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -13001,13 +13019,15 @@ d).- Croquis de localización del predio indicando las medidas de éste, distanc
 
 e).- Cuadro de datos indicando: Tipo de obra, ubicación, propietario, contenido, nombre, número y firma en original del perito responsable de la obra, escalas y acotaciones; no se admitirán correcciones, enmendaduras, ni añadiduras de ningún tipo en los planos y memoria de cálculo. El proyecto deberá cumplir con lo estipulado en el título de proyecto arquitectónico del presente título de Construcciones.
 
+> <small>(REFORMADO [N. DE. E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 1280.
 
 Además, en los casos de construcción de casas en serie, se deberá presentar los documentos siguientes:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
 
-I.- Copia de la factibilidad de servicios de agua potable y alcantarillado, para los predios donde se pretenda construir, expedida por el Organismo Operador de los Servicios de Agua y Alcantarillado de Calvillo, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Secretaría de Obras Públicas y Desarrollo Urbano, el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
+I.- Copia de la factibilidad de servicios de agua potable y alcantarillado, para los predios donde se pretenda construir, expedida por el Organismo Operador de los Servicios de Agua y Alcantarillado de Calvillo, en caso de que la factibilidad esté condicionada, deberá demostrar ante la Dirección de Desarrollo Urbano, el cumplimiento oportuno de todas las condiciones para que la documentación le sea recibida;
 
 II.- En sustitución del requisito del numeral anterior, convenio suscrito con el Organismo Operador de los Servicios de Agua y Alcantarillado de Calvillo, en el que el constructor o propietario manifieste bajo protesta de decir verdad no entregar ninguna vivienda hasta que el adquirente contrate los servicios de agua potable y alcantarillado;
 
@@ -13025,11 +13045,11 @@ II.- Cuando el predio se ubique en una zona no regularizada como fraccionamiento
 
 III.- Cuando se trate de usos habitacional dúplex, multifamiliar o condominio vertical dúplex.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1282.
 
-Para solicitar el trámite de licencias de construcción para edificios de oficinas, comercio, servicios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar ante la Secretaría de Obras Públicas y Desarrollo Urbano, los documentos siguientes:
+Para solicitar el trámite de licencias de construcción para edificios de oficinas, comercio, servicios y otros usos diferentes al habitacional mayores de sesenta metros cuadrados construidos se requiere presentar ante la Dirección de Desarrollo Urbano, los documentos siguientes:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -13073,11 +13093,11 @@ h).- Cuando el proyecto considere ventilación o refrigeración artificial, debe
 
 i).- Se requerirá la autorización del proyecto por parte del Instituto de Servicios de Salud y de la Secretaría de Obras Públicas del Estado, para la construcción, remodelación, ampliación o modificación de centros de salud, clínicas, hospitales, laboratorios, bancos de sangre y consultorios de rayos X.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1283.
 
-Para solicitar el trámite de licencia de construcción para estaciones de servicio o gasolineras se requiere presentar ante la Secretaría de Obras Públicas y Desarrollo Urbano:
+Para solicitar el trámite de licencia de construcción para estaciones de servicio o gasolineras se requiere presentar ante la Dirección de Desarrollo Urbano
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -13157,11 +13177,11 @@ XII.- Anexo fotográfico; y
 
 XIII.- En caso de instalarse en zona habitacional tendrá que contar con firmas de colindantes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1285.
 
-Para solicitar el trámite para licencias de demolición, se deberán presentar ante la Secretaría de Obras Públicas y Desarrollo Urbano, los documentos siguientes:
+Para solicitar el trámite para licencias de demolición, se deberán presentar ante la Dirección de Desarrollo Urbano, los documentos siguientes:
 
 I.- Constancia de alineamiento, compatibilidad urbanística y número oficial;
 
@@ -13405,11 +13425,11 @@ Estos mismos elementos situados a una altura mayor de dos metros cincuenta cent�
 
 Los balcones abiertos situados a una altura mayor de dos metros cincuenta centímetros podrán salir del alineamiento, el ancho de la acera disminuido en sesenta centímetros hasta un metro, pero al igual que todos los elementos arquitectónicos, deberán ajustarse a las restricciones sobre distancias a líneas de transmisión.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1303.
 
-Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Secretaría de Obras Públicas y Desarrollo Urbano, fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
+Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Dirección de Desarrollo Urbano, fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
 
 ###### Artículo 1304.
 
@@ -13417,17 +13437,19 @@ Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera dismin
 
 Todos los elementos de la marquesina deberán estar situados a una altura mayor de dos metros cincuenta centímetros sobre el nivel de la banqueta, pero al igual deberán ajustarse a las restricciones sobre distancias a líneas de transmisión y a lo dispuesto en el Reglamento de Imagen Urbana.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1305.
 
-Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, y la Secretaría de Obras Públicas y Desarrollo Urbano, podrá revocarlos en cualquier momento que se juzgue conveniente.
+Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, y la Dirección de Desarrollo Urbano, podrá revocarlos en cualquier momento que se juzgue conveniente.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1306.
 
-Ningún punto de un edificio podrá estar a mayor altura que la que se marque en los contenidos correspondientes del Programa de Desarrollo Urbano para la ciudad de Calvillo vigente o lo que dictamine la Secretaría de Obras Públicas y Desarrollo Urbano
+Ningún punto de un edificio podrá estar a mayor altura que la que se marque en los contenidos correspondientes del Programa de Desarrollo Urbano para la ciudad de Calvillo vigente o lo que dictamine la Dirección de Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 1307.
 
@@ -13435,9 +13457,7 @@ Tratándose de asoleamiento entre viviendas unifamiliares y edificios superiores
 
 La Presidencia Municipal podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas, de acuerdo con este Código y demás legislación de la materia vigente.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2017)</small>
-
-La Secretaría de Obras Públicas y Desarrollo Urbano, podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas.
+La Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente, podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas.
 
 ###### Artículo 1308.
 
@@ -24676,3 +24696,17 @@ Artículo Cuarto.- Publíquese el presente Decreto en el Periódico Oficial del 
 Artículo Quinto.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Sexto.- Cúmplase.
+
+P.O. 28 DE OCTUBRE DE 2019.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL DECRETO POR EL QUE SE REFORMA EL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO”.]</small>
+
+Artículo Primero.- […]
+
+Artículo Segundo.- La creación del departamento de Trabajo Social adscrito a la Secretaría para el Desarrollo Integral de la Familia, administrativamente es con efectos retroactivos a partir del primero de septiembre de dos mil diecinueve.
+
+Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Cuarto.- Cúmplase.
