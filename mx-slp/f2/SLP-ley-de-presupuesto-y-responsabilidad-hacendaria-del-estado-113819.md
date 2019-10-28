@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2019-05-09"
+last_updated: "2019-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -581,6 +581,10 @@ a) Los ingresos por financiamiento.
 b) Saldo y composición de la deuda pública.
 
 c) La previsión de que, en caso de otorgarse avales o garantías, estos se ajustarán a lo dispuesto en la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2019)</small>
+
+Para el caso únicamente de los municipios, además de lo anterior, deberán incluir en la iniciativa de Ley de Ingresos, un comparativo de la Ley vigente con la iniciativa propuesta, en donde se puntualicen los incrementos, decrementos, creaciones o derogaciones de las contribuciones, debiendo ampliar en la exposición de motivos, las razones y fundamentos de las modificaciones respectivas.
 
 ###### ARTÍCULO 37.
 
@@ -1319,5 +1323,13 @@ P.O. 9 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0164.- SE REFORMAN LOS ARTÍCULOS 23 Y 82; Y ADICIONA AL ARTÍCULO 82 LA FRACCIÓN X, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0292.- SE ADICIONA AL ARTÍCULO 36 EL PÁRRAFO ÚLTIMO, DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
