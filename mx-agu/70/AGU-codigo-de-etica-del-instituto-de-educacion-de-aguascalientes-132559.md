@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-de-educacion-de-aguascalientes-13
 country: "mx"
 rank: "codigo"
 publication_date: "2019-01-03"
-last_updated: "2019-01-03"
+last_updated: "2019-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL INSTITUTO DE EDUCACION DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 28 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019 (ABROGADO).
 
 Código publicado en el Extraordinario al Número 1 del Periódico Oficial del Estado de Aguascalientes, el jueves 3 de enero del 2019.
 
@@ -158,3 +160,21 @@ LIC. FERNANDO AVILA VÁZQUEZ, Director General Jurídico en Suplencia del Arq. J
 LIC. MIGUEL BESS-OBERTO DE LA FUENTE, Coordinador General Jurídico de la Coordinación de Planeación y Proyectos del Estado de Aguascalientes en suplencia del M.D.S. Ricardo Alfredo Serrano Rangel, Coordinador General de Planeación y Proyectos del Estado de Aguascalientes
 
 Esta hoja de firmas forma parte integrante del Código de Ética del Instituto de Educación de Aguascalientes, aprobado en la “7/2016-2022 Sesión Ordinaria de 2018” a los 25 días del mes de octubre del año 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL INSTITUTO DE EDUCACIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del “Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas”, publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente, se abroga el Código de Ética del Instituto de Educación de Aguascalientes, publicado en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, de fecha 3 de enero del año 2019.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan lo previsto en el presente Acuerdo.
