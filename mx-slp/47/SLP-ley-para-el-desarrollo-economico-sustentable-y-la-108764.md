@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2019-10-23"
+last_updated: "2019-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -309,9 +309,11 @@ El Consejo sesionará válidamente con la concurrencia de la mayoría de sus mie
 
 ### CAPÍTULO V. De los Consejos Regionales para el Desarrollo Económico Sustentable y la Competitividad de los Municipios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 20.
 
-Los consejos regionales funcionarán en las cuatro zonas que comprende el Estado: altiplano; centro; media; y huasteca; como órganos técnicos y de consulta encargados de estudiar, analizar y proponer alternativas para el desarrollo de las actividades productivas de los municipios que las integran.
+Los consejos regionales funcionarán en las cuatro zonas que comprende el Estado: altiplano; centro; media; y huasteca; como órganos técnicos y de consulta encargados de estudiar, analizar y proponer alternativas para el desarrollo de las actividades productivas de los municipios que las integran con la prioridad de potenciar la vocación productiva de cada región.
 
 La creación de los consejos regionales para el desarrollo económico será promovida y apoyada por la Secretaría, en coordinación con las autoridades municipales.
 
@@ -323,9 +325,21 @@ I. Un Presidente; cargo que recaerá en el Secretario de Desarrollo Económico, 
 
 II. Un Secretario Técnico, quien será designado por el Presidente del Consejo;
 
-III. Los presidentes municipales de cada uno de los municipios de la región; quienes contarán con voz y voto, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
 
-IV. Un representante de cada uno de los organismos empresariales señalados en el artículo 15 de este Ordenamiento, que se encuentren establecidos en la región de que se trate, quienes también tendrán voz y voto.
+III. Los presidentes municipales de cada uno de los municipios de la región; quienes contarán con voz y voto;
+
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+
+IV. Un representante de cada uno de los organismos empresariales señalados en el artículo 15 de este Ordenamiento, que se encuentren establecidos en la región de que se trate, quienes también tendrán voz y voto;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+
+V. Representantes de los principales sectores y actividades de cada región, y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+
+VI. Por invitación, a especialistas en ramos pertinentes a las actividades económicas regionales, quienes tendrán voz en el Consejo.
 
 ###### ARTÍCULO 22.
 
@@ -343,9 +357,19 @@ III. Asesorar a los ayuntamientos de la región en la elaboración, ejecución y
 
 IV. Plantear reformas a las disposiciones municipales para facilitar la creación de, y funcionamiento de empresas productivas;
 
-V. Proponer a los ayuntamientos de la región, programas de estímulos para el establecimiento y desarrollo de empresas que contribuyan al incremento de la productividad regional, atendiendo a la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres, y
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
 
-VI. Las demás que establezca su Reglamento.
+V. Proponer a los ayuntamientos de la región, programas de estímulos para el establecimiento y desarrollo de empresas que contribuyan al incremento de la productividad regional, atendiendo a la perspectiva de género e impulsando en todo momento la igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+
+VI. Fomentar el desarrollo de las principales actividades económicas en la región;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+
+VII. Fomentar el desarrollo de nuevas actividades económicas de acuerdo a las condiciones existentes, tanto productivas, de recursos, naturales o de mercado, en la región y
+
+VIII. Las demás que establezca su Reglamento.
 
 ###### ARTÍCULO 24.
 
@@ -938,5 +962,13 @@ P.O. 23 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0286.- SE REFORMAN LOS ARTÍCULOS 30 Y 64; Y ADICIONA AL ARTÍCULO 64 UNA FRACCIÓN DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0288.- SE REFORMAN LOS ARTÍCULOS 20, 21 Y 23; Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 21 Y 23 DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
