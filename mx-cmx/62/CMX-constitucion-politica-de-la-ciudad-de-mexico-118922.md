@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2019-07-26"
+last_updated: "2019-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2019.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -2468,7 +2468,27 @@ A. Fiscalía General de Justicia
 
 4. La persona titular de esta Fiscalía durará cuatro años y será electa por mayoría calificada del Congreso a propuesta del Consejo Judicial Ciudadano, mediante un proceso de examinación público y abierto de conformidad con lo que establezca la ley. La o el Fiscal podrá ser ratificado por un periodo más a propuesta de este Consejo.
 
-5. Para ser Fiscal se requiere tener ciudadanía mexicana y cuando menos treinta y cinco años cumplidos el día de la designación; contar con título profesional de licenciado en Derecho con experiencia mínima de cinco años; gozar de buena reputación; no haber sido condenado por delito doloso; no haber ejercido una diputación en el Congreso, una magistratura, el cargo de juez ni ser integrante del Consejo de la Judicatura del Poder Judicial o titular de una Secretaría o equivalente, en los tres años previos al inicio del proceso de examinación.
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], G.O. 28 DE OCTUBRE DE 2019)</small>
+
+5. Para ser Titular de la Fiscalía de la Ciudad de México se requiere que al momento de su designación la persona, cumpla con los siguientes requisitos:
+
+a) Tener ciudadanía Mexicana;
+
+b) Tener cuando menos treinta y cinco años de edad;
+
+c) Contar con Título y Cédula de Licenciatura en Derecho, con experiencia mínima de 5 años;
+
+d) No haber sido condenada por delito doloso;
+
+e) Someterse y acreditar en los términos de la ley, las evaluaciones y certificación de confianza;
+
+f) Presentar y hacer pública en los términos de la ley su declaración patrimonial, fiscal y de intereses;
+
+g) No haber desempeñado un cargo de elección popular, o cargo de dirección de un Partido Político, un año previo.
+
+> <small>(ADICIONADO, G.O. 28 DE OCTUBRE DE 2019)</small>
+
+6. El perfil de la o el Fiscal General será de una persona honorable, con conocimientos y experiencia en el ámbito jurídico y de procuración de justicia, capacidad de administración y dirección institucional, diseño y ejecución de políticas públicas, independiente en su actuación, con una visión de respeto y protección a los derechos humanos, atención a las víctimas y perspectiva de género.
 
 B. Competencia
 
@@ -4099,3 +4119,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
 
 CUARTO.- Túrnese el presente Dictamen a la Mesa Directiva, a la Junta de Coordinación Política y a la Coordinación de Servicios Parlamentarios, para los efectos a que se refieren (sic) artículos 103, tercer párrafo y 105 del Reglamento del Congreso de la Ciudad de México.
+
+G.O. 28 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN (SIC) EL ARTÍCULO 44, APARTADO A, NUMERAL 5; ADICIONANDO UN NUMERAL 6, DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+Primero: El presente decreto entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Remítase a la Jefa de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Tercero. Para el cumplimiento de lo dispuesto en el inciso e, del numeral 5, del apartado A, del artículo 44 la persona Titular de la Jefatura de Gobierno, deberá ordenar la realización de los exámenes señalados de la persona que habrá de proponer al Congreso y remitir el resultado de los mismos, al momento de hacer su propuesta.
