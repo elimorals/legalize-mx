@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-secretaria-de-justicia-y-derechos-1295
 country: "mx"
 rank: "codigo"
 publication_date: "2018-05-25"
-last_updated: "2018-05-25"
+last_updated: "2019-10-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,13 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE JUSTICIA Y DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE JUSTICIA Y DERECHOS HUMANOS, PUBLICADO EN LA G.G. DE 28 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE JUSTICIA Y DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE OCTUBRE DE 2019 (ABROGADO).
 
-Código publicado en la Sección Quinta al Número 92 de la Gaceta del Gobierno del Estado de México, el viernes 25 de mayo de 2018.
+Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el viernes 25 de mayo de 2018.
 
 SECRETARÍA DE JUSTICIA Y DERECHOS HUMANOS
 
@@ -321,3 +323,15 @@ REPRESENTANTE DEL PERSONAL ADMINISTRATIVO Y OPERATIVO DE LA SECRETARÍA DE JUSTI
 LIC. EDUARDO VARA BOBADILLA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 28 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE JUSTICIA Y DERECHOS HUMANOS”.]
+
+PRIMERO. Publíquese el presente Código de Conducta en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Código de Conducta de la Secretaría de Justicia y Derechos Humanos, publicado en el Periódico Oficial “Gaceta del Gobierno” el 25 de mayo de 2018 y demás disposiciones de igual o menor jerarquía que se contrapongan a lo establecido en el presente Código de Conducta.
