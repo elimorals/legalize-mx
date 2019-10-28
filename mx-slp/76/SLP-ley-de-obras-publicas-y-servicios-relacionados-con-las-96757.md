@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2018-10-02"
+last_updated: "2019-10-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -1245,7 +1245,9 @@ XI. Forma en que la contratista reintegrará las cantidades que hubiere recibido
 
 XII. Procedimiento de ajuste de costos que deberá ser determinado desde las bases de la licitación por la dependencia o entidad, el cual regirá desde la presentación de las proposiciones y durante la vigencia del contrato, conforme a lo establecido en el artículo 131 de esta Ley;
 
-XIII. Descripción pormenorizada de la obra que se deba ejecutar, debiendo acompañar como parte integrante del contrato, los proyectos, planos, especificaciones, programas y presupuestos autorizados o validados por las autoridades correspondientes. Tratándose de servicios, los términos de referencia que deberán precisar el objeto y alcance del servicio, las especificaciones generales y particulares; el producto esperado, y la forma de presentación;
+> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2019)</small>
+
+XIII. Descripción pormenorizada de la obra que se deba ejecutar, identificación del lugar de ejecución en la que se incluyan las coordenadas georreferenciadas de su ubicación, debiendo acompañar como parte integrante del contrato, los proyectos, planos, especificaciones, programas y presupuestos autorizados o validados por las autoridades correspondientes. Tratándose de servicios, los términos de referencia que deberán precisar el objeto y alcance del servicio, las especificaciones generales y particulares; el producto esperado, y la forma de presentación;
 
 XIV. Causales y procedimientos mediante los cuales las instituciones podrán dar por rescindido el contrato, en términos del artículo 150 de esta Ley;
 
@@ -2324,3 +2326,11 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 28 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0291.- SE REFORMA EL ARTÍCULO 104 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
