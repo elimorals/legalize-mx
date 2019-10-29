@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2019-07-05"
+last_updated: "2019-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -103,7 +103,9 @@ A. En materia de Salubridad General:
 
 I. La atención médica, preferentemente en beneficio de grupos vulnerables;
 
-II. La atención materno-infantil;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+II. La atención materno-infantil, de cáncer cérvico uterino y el de mama de la mujer;
 
 III. La prestación de servicios de planificación familiar;
 
@@ -247,9 +249,9 @@ II. Contribuir al desarrollo demográfico armónico del Estado;
 
 III. (DEROGADA, P.O. 15 DE FEBRERO DE 2005)
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
 
-IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez y brindar todos los servicios médicos necesarios a las mujeres embarazadas y sus hijos en gestación y en infancia temprana.
+IV. Dar impulso al desarrollo de la familia y de la comunidad, a la integración social y al crecimiento físico y mental de la niñez y brindar todos los servicios médicos necesarios a las mujeres embarazadas y sus hijos en gestación y en infancia temprana, así como a los programas prioritarios, los de detección, diagnóstico y tratamiento del cáncer cérvico uterino y el de mama en la mujer;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2014)</small>
 
@@ -507,7 +509,9 @@ II. La prevención y el control de las enfermedades transmisibles de atención p
 
 III. La atención médica, que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
 
-IV. La atención materno-infantil;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+IV. La atención materno-infantil, así como la detección, diagnóstico y tratamiento del cáncer cérvico uterino y el de mama en la mujer;
 
 V. La planificación familiar;
 
@@ -717,7 +721,9 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+I. La atención de la mujer durante el embarazo, informando del derecho al acompañamiento de una persona de su confianza en el proceso de parto, incluida la cesárea y el puerperio;
 
 > <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -747,7 +753,9 @@ La protección de la salud física y mental de los menores es una responsabilida
 
 En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado de Coahuila establecerán:
 
-I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios, así como la inclusión del tema del acompañamiento de una persona de confianza, libremente elegida por la mujer en proceso de parto y puerperio, en instituciones de Salud públicas y privadas;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
 
@@ -1323,6 +1331,10 @@ II. Apoyar en el Estado el Sistema Nacional de Vigilancia Epidemiológica, de co
 
 III. Coadyuvar en la aplicación de programas y actividades que establezca la Secretaría de Salud del Gobierno Federal para la prevención y control de enfermedades y accidentes.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+IV. Coordinar acciones con la Secretaría de Salud del Gobierno Federal, para lograr la eliminación de transmisión materno infantil del VIH y Sífilis en el Estado.
+
 ### CAPITULO IV. ACCIDENTES
 
 ###### Artículo 107.
@@ -1361,6 +1373,10 @@ XIII. Síndrome de inmunodeficiencia adquirida (SIDA), y
 
 XIV. Las demás que determinen el Consejo de Salubridad General y otros tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+La Secretaría de Salud, llevará un registro de mujeres embarazadas y diagnosticadas con las enfermedades señaladas en las fracciones VIII y XIII de este artículo, para asegurar que reciban el tratamiento correspondiente y prevenir la transmisión materno infantil.
+
 ###### Artículo 108.
 
 Es obligatoria la notificación a la autoridad sanitaria más cercana, de las siguientes enfermedades y en los términos que a continuación se especifican:
@@ -1378,6 +1394,10 @@ V. Notificación obligatoria inmediata a la autoridad sanitaria más cercana de 
 ###### Artículo 109.
 
 Las personas que ejerzan la medicina o que realicen actividades afines, están obligadas a dar aviso a las autoridades sanitarias de los casos de enfermedades transmisibles, posteriormente a su diagnóstico o sospecha diagnóstica.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+Tratándose de mujeres embarazadas con diagnóstico positivo de VIH y sífilis, deberán dar aviso a la Secretaría de Salud para ingresarlas a un registro que llevará y puedan acceder a los beneficios del tratamiento para evitar la trasmisión materno infantil.
 
 ###### Artículo 110.
 
@@ -1419,9 +1439,17 @@ Para disminuir el riesgo reproductivo y prevenir las enfermedades a que se refie
 
 Esta disposición podrá aplicarse en instituciones de educación secundaria, cuando así se acuerde por parte de los padres de familia.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+En las instituciones de salud del Estado, deberá otorgarse el diagnóstico del VIH y sífilis a mujeres embarazadas y se le brindará información sobre el tratamiento que se ofrece para evitar la transmisión materno infantil.
+
 ###### Artículo 113.
 
 Los profesionales, técnicos y auxiliares de la salud, al tener conocimiento de un caso de enfermedad transmisible, están obligados a tomar las medidas necesarias, de acuerdo con la naturaleza y características del padecimiento, aplicando los recursos a su alcance para proteger la salud individual y colectiva.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+Tratándose de mujeres embarazadas con diagnóstico positivo de VIH y sífilis, procederán conforme al artículo 109 de esta Ley.
 
 ###### Artículo 114.
 
@@ -3838,3 +3866,17 @@ TERCERO.- La Secretaría de Salud, en coordinación con la Secretaría de Infrae
 CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las dependencias y entidades involucradas para el ejercicio fiscal respectivo y subsecuentes.
 
 QUINTO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en el presente decreto.
+
+P.O. 29 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 365.- SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 56, LA FRACCIÓN I DEL ARTÍCULO 59, LAS FRACCIONES II Y III DEL ARTÍCULO 106 Y SE ADICIONAN: LA FRACCIÓN IV AL ARTÍCULO 106, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 107, UN SEGUNDO PÁRRAFO AL ARTÍCULO 109, UN TERCER PÁRRAFO AL ARTÍCULO 112 BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 113 DE LA LEY ESTATAL DE SALUD; SE REFORMAN LOS ARTÍCULOS 2, 7, PRIMER PÁRRAFO DEL ARTÍCULO 9, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10, FRACCIÓN PRIMERA, SEGUNDA Y TERCERA DEL ARTÍCULO 11, FRACCIÓN VII DEL ARTÍCULO 15, PRIMER PÁRRAFO DEL ARTÍCULO 16, ARTICULO 24 ASÍ COMO EL ARTICULO 27; Y SE ADICIONAN UNA FRACCIÓN X AL ARTÍCULO 4, UN SEGUNDO PÁRRAFO AL ARTÍCULO 6, UN SEGUNDO PÁRRAFO AL ARTÍCULO 7, UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII, LA FRACCIÓN XI Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 15, LAS FRACCIONES XI Y XII DEL ARTÍCULO 20, LAS FRACCIONES VIII, IX, X Y XI AL ARTÍCULO 21, UN SEGUNDO PÁRRAFO AL ARTÍCULO 28 DE LA LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 367.- (SIC) REFORMAN EL ARTÍCULO 4, APARTADO A, FRACCIÓN II; ARTÍCULO 6, FRACCIÓN IV; Y EL ARTÍCULO 29, FRACCIÓN IV; TODOS DE LA LEY ESTATAL DE SALUD".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
