@@ -4,7 +4,7 @@ identifier: "COA-ley-de-vivienda-para-el-estado-de-coahuila-de-zaragoza-78302"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-17"
-last_updated: "2018-05-29"
+last_updated: "2019-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78302&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de diciembre de 2010.
 
@@ -61,9 +61,11 @@ En lo no previsto por esta ley y demás disposiciones que de ella se deriven, se
 
 La vivienda es un sector prioritario para el desarrollo económico y la integración social del Estado. El Gobierno del Estado y los municipios, impulsarán y organizarán las actividades inherentes en la materia con la participación de los sectores social y privado, de conformidad con las disposiciones de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
 ###### ARTÍCULO 5.
 
-La aplicación de las disposiciones previstas en esta ley deberá observar y cumplir con los principios de igualdad social, para que todas las personas, principalmente aquellas que se encuentren en estado de marginación o vulnerabilidad tengan acceso a una vivienda digna y decorosa, sin importar razones de género, edad, capacidades, estado civil, ideología y cualquier otra condición de naturaleza similar.
+La aplicación de las disposiciones previstas en esta ley deberá observar y cumplir con los principios de igualdad social, para que todas las personas, principalmente aquellas que se encuentren en estado de marginación o vulnerabilidad tengan acceso a una vivienda digna y decorosa, sin importar razones de género, edad, capacidades, estado civil, ideología, raza, idioma, religión, origen y cualquier otra condición de naturaleza similar.
 
 Las dependencias y entidades de la Administración Pública Estatal que lleven a cabo u otorguen financiamiento para programas o acciones de vivienda, quedan sujetas a lo establecido por esta ley y demás disposiciones aplicables.
 
@@ -1156,3 +1158,9 @@ SEXTO. En un plazo no mayor de un año contado a partir de la entrada en vigor d
 SÉPTIMO. Las autorizaciones, permisos y licencias expedidas conforme a las disposiciones aplicables durante la vigencia de la ley que se reforma, continuarán vigentes hasta la conclusión del término con el que fueron otorgadas.
 
 OCTAVO. Toda referencia a la Secretaría de Infraestructura y Transporte que haga alguna disposición legal o administrativa, así como a la Secretaría de Medio Ambiente y Desarrollo Urbano, en materia de asentamientos humanos, ordenamiento territorial y/o desarrollo urbano, deberá entenderse hecha a la Secretaría de Infraestructura, Desarrollo Urbano y Movilidad.
+
+P.O. 29 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 364.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 5, DE LA LEY DE VIVIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
