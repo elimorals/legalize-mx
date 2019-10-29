@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proteccion-a-la-maternidad-en-el-estado-de-coahuila-6461
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-24"
-last_updated: "2017-12-26"
+last_updated: "2019-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 24 de octubre de 2008.
 
@@ -43,9 +43,11 @@ LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA
 
 El objeto de la presente ley es asegurar la observancia y protección de los derechos de la mujer embarazada, resguardar su salud, la del producto en gestación y la infancia temprana.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 2.
 
-La protección de esta ley, incluye las etapas de embarazo, parto y maternidad en infancia temprana.
+La protección de esta ley, incluye las etapas de embarazo, parto, puerperio y maternidad en infancia temprana.
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2016)</small>
 
@@ -89,6 +91,10 @@ VIII. Derecho a la protección de la salud: Garantía individual que incluye acc
 
 IX. Puerperio: Es el periodo que se inicia con la expulsión o extracción del producto y sus anexos hasta lograr la involución de los cambios gestacionales, en términos de lo dispuesto por el Reglamento de la Ley General de Salud en Materia de Investigación para la Salud.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+X. Depresión perinatal: Comprende cualquier episodio depresivo menor o mayor que ocurra durante el embarazo o dentro de los 12 meses posteriores al parto.
+
 ###### Artículo 5.
 
 Toda mujer tiene derecho a la maternidad. Para tales efectos, el Gobierno de Coahuila fomentará y propiciará las condiciones para hacer efectivo este derecho.
@@ -101,9 +107,17 @@ A partir del momento en que un médico del servicio de salud público o privado 
 
 Deberá enfatizarse la difusión de esta información, tratándose de población con desventaja socioeconómicas y embarazadas adolescentes.
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+Asimismo, deberá informarle a la paciente, que si es portadora del virus VIH o sífilis, podrá recibir, en los tres trimestres del embarazo, tratamiento gratuito por parte de las instituciones de salud en el Estado, para evitar la transmisión materno infantil.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 7.
 
-El Gobierno del Estado a través de sus instituciones podrá brindar protección a la maternidad, en términos de la reglamentación correspondiente.
+El Gobierno del Estado a través de sus instituciones podrá brindar protección a la maternidad, en términos de la reglamentación correspondiente, con el fin de garantizar los derechos, y la estabilidad económica, educativa y social de madres e hijos.
+
+Igualmente favorecerá todo tipo de acciones institucionales encaminadas a eliminar la transmisión de madre a hijo del VIH/sida y de la sífilis congénita, para lo cual podrá efectuar diagnósticos a mujeres embarazadas.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -113,9 +127,11 @@ El Gobierno de Coahuila podrá implementar una Red de Apoyo a Mujeres Embarazada
 
 Para tales efectos, el Instituto Coahuilense de las Mujeres promoverá la participación, tanto de las instituciones públicas, privadas, académicas, empresariales, de cooperación, así como de organizaciones de la sociedad civil para la ejecución de proyectos en esta materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 9.
 
-El objeto de la Red de Apoyo a Mujeres Embarazadas, será reunir a las organizaciones públicas y privadas para que brinden asesoría y apoyo a la (sic) mujeres para superar cualquier conflicto que se les presente durante el embarazo.
+El objeto de la Red de Apoyo a Mujeres Embarazadas, será reunir a las organizaciones públicas y privadas para que brinden asesoría y apoyo a la (sic) mujeres para superar cualquier conflicto que se les presente durante el embarazo y el puerperio.
 
 Para incorporar a esta Red a las diferentes organizaciones públicas y privadas, deberá verificarse que no exista conflicto de intereses entre los objetivos de la Red y los de la organización.
 
@@ -123,7 +139,9 @@ Para incorporar a esta Red a las diferentes organizaciones públicas y privadas,
 
 Las personas que formen parte de las organizaciones integrantes de la Red de Apoyo a Mujeres Embarazadas deberán apoyar la confidencialidad en la información que se recabe con motivo de la asesoría y apoyo brindado a las mujeres embarazadas conforme a las leyes aplicables.
 
-Igualmente deberán respetar en todo momento las creencias religiosas y la libertad de culto de las mujeres embarazadas.
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+Igualmente deberán respetar en todo momento las creencias religiosas, la libertad de culto de las mujeres embarazadas, así como la debida reserva del diagnóstico de enfermedades de transmisión sexual.
 
 Las organizaciones responderán objetivamente por la violación a la confidencialidad prevista en este precepto, así como por la práctica de conductas discriminatorias o que atenten contra las garantías individuales y libertades de las mujeres que soliciten su ayuda.
 
@@ -133,11 +151,17 @@ Las organizaciones responderán objetivamente por la violación a la confidencia
 
 El Instituto Coahuilense de las Mujeres contará con un Programa Integral de Apoyo a las Mujeres Embarazadas, que establezca líneas de acción y objetivos para lograr el propósito. Este programa deberá definir:
 
-I. La identificación de los organismos y servicios a que puede acceder la embarazada, para lograr el apoyo necesario en el desarrollo de su embarazo;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
 
-II. La previsión y realización de campañas públicas, sobre métodos de sexo protegido y seguro;
+I. La identificación de los organismos y servicios a que puede acceder la embarazada, para lograr el apoyo necesario en el desarrollo de su embarazo y el puerperio;
 
-III. La instrumentación de campañas dirigidas a los adultos y adolescentes, para motivarles a asumir su responsabilidad ante un embarazo;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+II. La previsión y realización de campañas públicas, sobre métodos de sexo protegido y seguro; así como la prevención de las enfermedades de transmisión sexual y los riesgos de transmisión materno infantil del VIH y sífilis;
+
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+III. La instrumentación de campañas dirigidas a los adultos y adolescentes, para motivarles a asumir su responsabilidad ante un embarazo, así como de concientización sobre los factores de cambio en la salud física y mental de las mujeres durante y después del embarazo;
 
 IV. Las medidas que se pondrán en marcha para facilitar el acceso de la embarazada o nueva madre a los programas de apoyo social que sean adecuados a su situación; y
 
@@ -183,6 +207,10 @@ Además de los establecidos en otros ordenamientos, toda mujer embarazada tiene 
 
 I. Previo estudio de trabajo social, a consultas médicas, exámenes de laboratorios, ultrasonidos, atención ginecológica gratuita, orientación psicológica y psiquiátrica hasta el posparto, así como orientación y vigilancia en material de nutrición, a través de instituciones públicas de salud, o bien, a través de instituciones privadas, en cuyo caso, el Gobierno podrá otorgar un apoyo económico directo mensual suficiente a las mujeres que así lo soliciten y acrediten, en términos de la regulación de la materia;
 
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+La atención a que se refiere el párrafo anterior deberá incluir la adopción de medidas para el diagnóstico, atención y tratamiento de problemas de salud mental en mujeres durante el embarazo, incluyendo de manera enunciativa pero no limitativa la depresión perinatal o puerperio, los trastornos de ansiedad, alimentarios, por consumo de drogas o alcohol y las enfermedades mentales graves.
+
 II. A gozar de estabilidad en el empleo, cargo u ocupación que desarrolle, a no desempeñar jornadas laborales nocturnas, a no ser discriminada por el hecho de estar embarazada, a tener acceso al trabajo en las mismas condiciones que las mujeres no embarazadas y gozar de doce semanas de descanso, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 III. A ocupar cargos de elección popular o de designación en los órganos de Gobierno de Coahuila en igualdad de condiciones que lo hacen los hombres o mujeres no embarazadas;
@@ -199,7 +227,11 @@ V. A contar con asesoría legal por cualquier acto de discriminación, vejación
 
 VI. Al acceso a los Centros de Atención a la Mujer, gubernamentales o privados, mismos que conocerán a través de una línea de atención gratuita que implementará el Instituto Coahuilense de las Mujeres, o bien, a través de la implementación de una página de internet. Por medio de esta línea telefónica o de internet, se proporcionará la información necesaria a las mujeres para hacer efectivos sus derechos.
 
-VII. Recibir la ayuda psicológica o psiquiátrica durante el embarazo y después del parto cuando se trate de embarazos no previstos. Esta ayuda deberá hacerse extensiva al padre, madre y demás familiares, principalmente, cuando la madre sea menor de edad;
+> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+VII. Recibir la ayuda psicológica o psiquiátrica durante el embarazo y hasta un año después del parto. Esta ayuda deberá hacerse extensiva al padre, madre y demás familiares, principalmente, cuando la madre sea menor de edad, así como en aquellos casos en que le sea diagnosticada depresión perinatal o puerperio, o cuando él bebe nació muerto o fallece poco después del nacimiento.
+
+Asimismo, recibirá información sobre la importancia del acompañamiento de una persona de confianza en el proceso de parto incluida la cesárea y puerperio.
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -217,11 +249,21 @@ IX. A contar con descuentos en el transporte público, cuando su situación econ
 
 X. Gozar de noventa días de descanso, mismos que podrá distribuir de la manera que desee la madre, ya sea antes o después del parto.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+XI. A un diagnóstico del VIH y la sífilis en los tres trimestres del embarazo y en el momento del parto, así como a un tratamiento antirretroviral en caso de dar positivo;
+
 A efecto de dar cumplimiento a lo dispuesto por la fracción IV de este artículo, el Gobierno de Coahuila, implementará un programa de incentivos fiscales para las personas físicas o morales que contraten a mujeres embarazadas.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+Para dar cumplimiento a lo dispuesto por la fracción XI de este artículo, el Gobierno del Estado, por conducto de la Secretaría de Salud, implementará un programa para eliminar la transmisión materno infantil del VIH y sífilis en la entidad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 16.
 
-En el caso de mujeres embarazadas a las que haya sido diagnosticado síndrome de inmunodeficiencia adquirida, contarán además con atención especializada a efecto de garantizar su salud y la del niño en gestación, otorgando las mejores condiciones de atención médica procurando que los responsables de la atención cuenten con la certificación de médico especialista, conforme a lo dispuesto por el artículo 81 de la Ley General de Salud.
+En el caso de mujeres embarazadas a las que haya sido diagnosticado síndrome de inmunodeficiencia adquirida VIH o sífilis congénita, contarán además con atención especializada a efecto de garantizar su salud y la del niño en gestación, otorgando las mejores condiciones de atención médica procurando que los responsables de la atención cuenten con la certificación de médico especialista, conforme a lo dispuesto por el artículo 81 de la Ley General de Salud. La Secretaría de Salud del Estado llevará un registro de mujeres embarazadas y diagnosticadas con VIH o sífilis congénita, para asegurar que reciban el tratamiento correspondiente y prevenir la transmisión materno infantil.
 
 Asimismo, se deberá garantizar la confidencialidad de la identidad de la madre, del padre y del niño en todo momento conforme a la legislación aplicable.
 
@@ -303,6 +345,14 @@ IX. A recibir una atención cultural apropiada, es decir, una atención sensible
 
 X. A ser informada sobre el sistema de orientación y quejas disponibles para inconformarse por la prestación de los servicios de salud.
 
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+XI. A que se le realice una valoración de riesgo de problemas de salud mental durante el embarazo, así como a recibir las atenciones para prevenir y atender estas condiciones y sus trastornos conexos.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+XII. A recibir educación e información oportuna, veraz y comprensible sobre los beneficios de la lactancia materna, las técnicas para el amamantamiento, posibles dificultades y medios de solución.
+
 ### CAPITULO IV. DE LOS DERECHOS EN RELACIÓN AL PARTO
 
 ###### Artículo 21.
@@ -322,6 +372,22 @@ V. A decidir libremente sobre la conservación de las células madre del recién
 VI. A recibir, previo estudio de trabajo social, un apoyo económico por parte del Gobierno del Estado, en términos de la regulación aplicable, para pagar los gastos del parto, cuando conforme a la misma ley se amerite la necesidad de recibir dicho apoyo.
 
 VII. A dar en adopción al recién nacido, en términos de las disposiciones aplicables en materia civil, para lo cual recibirá asesoría psicológica y psiquiátrica gratuitas.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+VIII. A elegir una posición para el trabajo de parto y el parto que sean las más convenientes para ella y su bebé, siempre que su salud se lo permita y no exista contraindicación médica.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+IX. A contar con acompañamiento durante el parto, de alguna persona de su confianza en las instituciones públicas y privadas, las cuales deberán prever las medidas de higiene y seguridad necesarias, siempre y cuando el proceso no presente riesgo de tener complicaciones para la madre o el bebé.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+X. A mantener a su lado al recién nacido, siempre que este último o la madre no requieran cuidados médicos especiales.
+
+> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+XI. A que se fomente desde el momento mismo del nacimiento e independientemente de la vía del parto, el contacto del recién nacido con su madre y familiares directos y/o acompañantes que ésta disponga, sin poner en riesgo la condición de salud de ambos, y
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2017)</small>
 
@@ -357,9 +423,11 @@ Las mismas disposiciones previstas en este artículo se observarán cuando el pa
 
 Tratándose de partos múltiples o de niños con necesidades especiales, el Gobierno de Coahuila, podrá brindar un apoyo económico o en especie para que la madre pueda hacer frente a las necesidades imprevistas en la atención de sus hijos.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 24.
 
-Tratándose de partos prematuros o de madres con el síndrome de inmunodeficiencia adquirida, el Gobierno de Coahuila, podrá llevar a cabo acciones que garanticen atención médica y quirúrgica especializada bajo los más altos estándares de calidad en el servicio de la salud.
+Tratándose de partos prematuros o de madres con el síndrome de inmunodeficiencia adquirida VIH o sífilis, el Gobierno de Coahuila, podrá llevar a cabo acciones que garanticen atención médica y quirúrgica especializada bajo los más altos estándares de calidad en el servicio de la salud.
 
 ### CAPITULO V. DE LOS DERECHOS EN RELACION CON LA LACTANCIA
 
@@ -373,13 +441,19 @@ Asimismo, los descansos extraordinarios de media hora para lactancia, se hacen e
 
 ### CAPITULO VI. DE LOS DERECHOS EN RELACION CON LA INFANCIA TEMPRANA
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
 ###### Artículo 27.
 
-La protección de la maternidad con relación a la infancia temprana, se extiende tanto a madres biológicas, como filiales derivadas de la adopción.
+La protección de la maternidad con relación a la infancia temprana, se extiende tanto a madres biológicas como filiales derivadas de la adopción, o algún otro familiar que tenga a su cargo la custodia o patria potestad de un menor de edad en etapa inicial.
 
 ###### Artículo 28.
 
 Las disposiciones previstas en este capítulo aplicarán también para el caso de los padres que acrediten hacerse cargo del cuidado de sus hijos en infancia temprana, sin contar con el apoyo de la madre.
+
+> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2019)</small>
+
+Además, se brindará el apoyo que se considere necesario para su participación en programas, cursos y acciones que fortalezcan los valores familiares para un sano desarrollo.
 
 ###### Artículo 29.
 
@@ -558,3 +632,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 29 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 365.- SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 56, LA FRACCIÓN I DEL ARTÍCULO 59, LAS FRACCIONES II Y III DEL ARTÍCULO 106 Y SE ADICIONAN: LA FRACCIÓN IV AL ARTÍCULO 106, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 107, UN SEGUNDO PÁRRAFO AL ARTÍCULO 109, UN TERCER PÁRRAFO AL ARTÍCULO 112 BIS Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 113 DE LA LEY ESTATAL DE SALUD; SE REFORMAN LOS ARTÍCULOS 2, 7, PRIMER PÁRRAFO DEL ARTÍCULO 9, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 10, FRACCIÓN PRIMERA, SEGUNDA Y TERCERA DEL ARTÍCULO 11, FRACCIÓN VII DEL ARTÍCULO 15, PRIMER PÁRRAFO DEL ARTÍCULO 16, ARTICULO 24 ASÍ COMO EL ARTICULO 27; Y SE ADICIONAN UNA FRACCIÓN X AL ARTÍCULO 4, UN SEGUNDO PÁRRAFO AL ARTÍCULO 6, UN SEGUNDO PÁRRAFO AL ARTÍCULO 7, UN SEGUNDO PÁRRAFO A LA FRACCIÓN I, UN SEGUNDO PÁRRAFO A LA FRACCIÓN VII, LA FRACCIÓN XI Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 15, LAS FRACCIONES XI Y XII DEL ARTÍCULO 20, LAS FRACCIONES VIII, IX, X Y XI AL ARTÍCULO 21, UN SEGUNDO PÁRRAFO AL ARTÍCULO 28 DE LA LEY DE PROTECCIÓN A LA MATERNIDAD EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
