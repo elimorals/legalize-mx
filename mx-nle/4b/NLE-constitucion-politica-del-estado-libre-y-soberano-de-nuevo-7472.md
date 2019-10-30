@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2019-05-24"
+last_updated: "2019-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -1311,6 +1311,10 @@ Este organismo no será competente tratándose de asuntos electorales, y jurisdi
 
 La elección de Presidente de la Comisión Estatal de los Derechos Humanos, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2019)</small>
+
+Quien presida la Comisión Estatal de Derechos Humanos presentará anualmente a los poderes del Estado, un informe de actividades. Al efecto comparecerá ante el Congreso en los términos que disponga la Ley.
+
 > <small>(REFORMADO, P.O. 1o. DE FEBRERO DE 1975)</small>
 
 ###### Art. 88.
@@ -1759,9 +1763,11 @@ Los entes públicos estatales y municipales contarán con órganos internos de c
 
 IV.- La jurisdicción administrativa conocerá de las controversias en que se reclame a la Administración Pública Estatal o Municipal el pago de indemnización conforme al último párrafo del artículo 15 de esta Constitución.
 
+(NOTA: EL 1 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO DÉCIMO SEGUNDO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2019 Y SUS ACUMULADAS 71/2019 Y 75/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LAS PORCIONES NORMATIVAS DEL PÁRRAFO PRIMERO DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE MARZO DE 2021, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2017)</small>
 
-V.- El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en hechos de corrupción o actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación temporal o permanente para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos federales, locales o municipales. Las sanciones administrativas aplicables a las personas jurídicas, se extenderán en el ámbito administrativo a los propietarios, tenedores, y administradores y personas con poder de mando. También podrá ordenarse la suspensión de actividades, disolución o intervención de la persona jurídica cuando se trate de hechos de corrupción o faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que se acredite la participación de sus órganos de administración, decisión o vigilancia, o de sus socios, accionistas, dueños o personas con poder de mando, en aquellos casos en que se advierta que la persona jurídica es utilizada de manera sistemática para participar en la comisión de hechos de corrupción o faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Para sancionar los hechos de corrupción cometidos por particulares y personas jurídicas, la ley considerara la capacidad económica de los responsables y la cuantía de la afectación.
+V.- El Tribunal de Justicia Administrativa impondrá a los particulares que intervengan en hechos de corrupción o actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación temporal O PERMANENTE para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos federales, locales o municipales. LAS SANCIONES ADMINISTRATIVAS APLICABLES A LAS PERSONAS JURÍDICAS, SE EXTENDERÁN EN EL ÁMBITO ADMINISTRATIVO A LOS PROPIETARIOS, TENEDORES, Y ADMINISTRADORES Y PERSONAS CON PODER DE MANDO. También podrá ordenarse la suspensión de actividades, disolución o intervención de la persona jurídica cuando se trate de hechos de corrupción o faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos, federales, locales o municipales, siempre que se acredite la participación de sus órganos de administración, decisión o vigilancia, o de sus socios, accionistas, dueños o personas con poder de mando, en aquellos casos en que se advierta que la persona jurídica es utilizada de manera sistemática para participar en la comisión de hechos de corrupción o faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Para sancionar los hechos de corrupción cometidos por particulares y personas jurídicas, la ley considerara la capacidad económica de los responsables y la cuantía de la afectación.
 
 Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos hechos, actos u omisiones, así como las medidas precautorias para salvaguardar el patrimonio y los intereses del Estado.
 
@@ -4127,6 +4133,14 @@ P.O. 11 DE MARZO DE 2019.
 
 P.O. 24 DE MAYO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 140. SE REFORMA POR ADICIÓN DE UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN XXIV DEL ARTÍCULO 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 140. SE REFORMA POR ADICIÓN DE UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN XXIV DEL ARTÍCULO 85 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 183. SE ADICIONA UN PÁRRAFO DÉCIMO NOVENO AL ARTÍCULO 87 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Congreso, deberá realizar las modificaciones correspondientes a la Ley que crea la Comisión Estatal de Derechos Humanos, para regular lo dispuesto por el presente Decreto en un plazo no mayor a 120 días naturales posteriores a la entrada en vigor del mismo.
