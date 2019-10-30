@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-estatal-de-infraestructura-9500
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-06-26"
-last_updated: "2013-06-26"
+last_updated: "2019-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO ESTATAL DE INFRAESTRUCTURA EDUCATIVA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO ESTATAL DE INFRAESTRUCTURA EDUCATIVA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO ESTATAL DE INFRAESTRUCTURA EDUCATIVA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial Tierra y Libertad del Estado de Morelos el miércoles 26 de junio de 2013.
 
@@ -458,3 +460,23 @@ LA PRESIDENTA MUNICIPAL DEL H. AYUNTAMIENTO DE JOJUTLA, MORELOS E INTEGRANTE DE 
 HORTENCIA FIGUEROA PERALTA
 
 RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO ESTATAL DE INFRAESTRUCTURA EDUCATIVA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Estatuto Orgánico entrará en vigor a los cinco días siguientes de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Estatuto Orgánico del Instituto Estatal de Infraestructura Educativa, publicado en el Periódico Oficial "Tierra y Libertad", número 5099, de fecha veintiséis de junio del año dos mil trece.
+
+Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Estatuto Orgánico.
+
+TERCERA. Dentro del término de noventa días hábiles siguientes a la entrada en vigor del presente Estatuto Orgánico, el Instituto deberá emitir los Manuales Administrativos, así como los descriptivos de puestos y demás instrumentos administrativos que correspondan; en tanto esto sucede, se mantendrán vigentes los actuales, en lo que no se opongan al presente Estatuto Orgánico.
+
+CUARTA. Los casos no previstos en el presente Estatuto Orgánico se resolverán por la Junta de Gobierno del Instituto, de conformidad con lo dispuesto en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y las demás disposiciones jurídicas aplicables.
+
+QUINTA. Inscríbase el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por los artículos 83 y 84, fracción II, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
+
+SEXTA. De conformidad con lo dispuesto en los artículos 22, fracción XXV, de (sic) Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos; así como 9, fracción XXV, y 15, fracción XXV, del Reglamento Interior de la Secretaría de Gobierno; el Instituto, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los servidores públicos Titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
