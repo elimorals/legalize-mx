@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-de-la-educacion-basica-del-1064
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-03-11"
-last_updated: "2015-03-11"
+last_updated: "2019-10-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE LA EDUCACION BASICA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA CUARTA DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE LA EDUCACIÓN BÁSICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 30 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE LA EDUCACIÓN BÁSICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 11 de marzo de 2015.
 
@@ -1140,3 +1142,25 @@ LA SECRETARIA DE SALUD
 VESTA LOUISE RICHARDSON LÓPEZ COLLADA
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO DE LA EDUCACIÓN BÁSICA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. El presente Estatuto Orgánico del Instituto de la Educación Básica del Estado de Morelos entrará en vigor los cinco días hábiles siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. De conformidad con lo dispuesto por los artículos 22, fracción XXV, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos; y en los artículos 9, fracción XXV, y 15; fracción XXV, del Reglamento Interior de la Secretaría de Gobierno; el Instituto de la Educación Básica del Estado de Morelos, dentro del plazo a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe informar a la citada Secretaría de Gobierno, los cambios de denominación y supresión de las Unidades Administrativas de aquel, sufridos en virtud de este instrumento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los servidores públicos Titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+TERCERA. El Instituto de la Educación Básica del Estado de Morelos deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente, dentro del plazo a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento.
+
+CUARTA. Se abroga el Estatuto Orgánico del Instituto de la Educación Básica del Estado de Morelos, publicado en el Periódico Oficial “Tierra y Libertad”, número 5270, de fecha once de marzo de 2015.
+
+QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que contravengan lo dispuesto en el presente Estatuto Orgánico.
+
+SEXTA. Dentro del término de 180 días hábiles, contados a partir del día siguiente a la entrada en vigor del presente instrumento, se deberán expedir los Manuales Administrativos, respectivos, en tanto sucede esto, se mantendrán vigentes los actuales, en lo que no se opongan al presente instrumento, con la aplicación por cada unidad administrativa según su ámbito de competencia.
+
+SÉPTIMA. Los casos no previstos en el presente Estatuto Orgánico se resolverán de conformidad con lo dispuesto en la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y demás disposiciones jurídicas aplicables, por la Junta de Gobierno del IEBEM.
+
+OCTAVA. Inscríbase el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto por el artículo 83 y 84, fracción II, de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
