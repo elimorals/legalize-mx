@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-atencion-y-proteccion-a-personas-con-la-condicion-1288
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-12"
-last_updated: "2018-05-12"
+last_updated: "2019-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2019.
 
 Ley publicada en el Folleto Anexo al Número 38 del Periódico Oficial del Estado de Chihuahua, el sábado 12 de mayo de 2018.
 
@@ -233,9 +233,15 @@ VIII. La Secretaría de Innovación y Desarrollo Económico.
 
 IX. La Comisión Estatal de los Derechos Humanos.
 
-X. El Desarrollo Integral de la Familia del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2019)</small>
+
+X. El Desarrollo Integral de la Familia del Estado de Chihuahua, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 XI. Siete integrantes de la Sociedad Civil con experiencia y conocimientos en la materia.
+
+> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2019)</small>
+
+XII. El H. Congreso del Estado, a través de quien presida la Comisión de Salud.
 
 Serán invitados permanentes de la Comisión con derecho a voz, pero sin voto, las Delegaciones del Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
@@ -528,3 +534,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los dos días del mes de mayo del año dos mil dieciocho.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. MTRO. SERGIO CÉSAR ALEJANDRO JÁUREGUI ROBLES. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVI/RFLEY/0388/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN X Y SE ADICIONA LA FRACCIÓN XII, DEL ARTÍCULO 11, DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
