@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2018-06-25"
+last_updated: "2019-10-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2019.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -1361,57 +1361,57 @@ SECRETARIA PARTICULAR
 
 COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-SECRETARÍA DEL H. AYUNTAMIENTO
+SECRETARIA DEL H. AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-CONTRALORÍA MUNICIPAL
+CONTRALORIA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-DIRECCIÓN GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+DIRECCION GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 INSTANCIA DE LA MUJER
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-DIRECCIÓN DE SEGURIDAD PÚBLICA Y VIALIDAD
+DIRECCION DE SEGURIDAD PÚBLICA Y VIALIDAD
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-DIRECCIÓN DE SERVICIOS PÚBLICOS
+DIRECCION DE SERVICIOS PUBLICOS
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-DIRECCIÓN DE FINANZAS
+DIRECCION DE FINANZAS
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-DIRECCIÓN ADMINISTRATIVA
+DIRECCION ADMINISTRATIVA
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-DIRECCIÓN DE DESARROLLO SOCIAL
+DIRECCION DE DESARROLLO SOCIAL
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-DIRECCIÓN DE OBRAS PÚBLICAS
+DIRECCION DE OBRAS PÚBLICAS
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-DIRECCIÓN DE TURISMO
+DIRECCION DE TURISMO
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-DIRECCIÓN DEL DEPORTE
+DIRECCION DE ACCION CIVICA, CULTURA Y DEPORTE
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-DIRECCIÓN DE DESARROLLO AGROPECUARIO
+DIRECCION DE DESARROLLO URBANO, PLANEACION Y PROYECTOS
 
 De las Unidades Administrativas enunciadas dependerá la estructura siguiente:
 
@@ -1421,7 +1421,7 @@ I. PRESIDENCIA MUNICIPAL
 
 A. Secretaría Particular
 
-- Dirección de Atención Ciudadana
+> <small>(DEROGADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
 B. Asesor del Presidente
 
@@ -1429,7 +1429,9 @@ II. COMITÉ MUNICIPAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 A. Estará integrado por la Presidenta del Sistema D.I.F. Municipal, ocupándolo quien tenga el carácter de cónyuge. del Presidente Municipal, o en su defecto quién éste designe, y por las personas que se consideren necesarias y se nombren al momento de integrar el propio Comité para el desempeño de sus funciones, todo los cargos serán honoríficos y no podrán ser ocupados por funcionarios públicos de la administración municipal.
 
-III. SECRETARÍA DEL H. AYUNTAMIENTO
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 30 DE OCTUBRE DE 2019)</small>
+
+III. SECRETARIA DEL H. AYUNTAMIENTO
 
 A. Delegados y Comisarios
 
@@ -1445,15 +1447,17 @@ E. Área de Servicios Médicos y Trabajo Social
 
 F. Área de Jueces Calificadores
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
-
-G. Departamento de Acción Cívica y Cultura
+G. (DEROGADO, P.O. 30 DE OCTUBRE DE 2019)
 
 > <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2015)</small>
 
 H. Coordinación Municipal de Protección Civil
 
 I. Unidad Médica Prehospitalaria
+
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2019)</small>
+
+J. Departamento de Atención Ciudadana
 
 IV. CONTRALORIA MUNICIPAL
 
@@ -1515,9 +1519,11 @@ A. Subdirección de Desarrollo Social
 
 1. Área de Fomento a la Juventud
 
-2. (DEROGADO, P.O. 16 DE FEBRERO DE 2015)
+> <small>(ADICIONADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-3. Área de Desarrollo Económico
+2. Departamento de Desarrollo Agropecuario y Económico
+
+3. (DEROGADO, P.O. 30 DE OCTUBRE DE 2019)
 
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
@@ -1545,13 +1551,15 @@ B. Área de Reglamentos de imagen Urbana
 
 DIRECCIÓN DE TURISMO
 
-XV.- SECRETARÍA DE CULTURA Y DEPORTE
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 30 DE OCTUBRE DE 2019)</small>
 
-A.- Encargado de Deporte
+XV. DIRECCION DE ACCION CIVICA, CULTURA Y DEPORTE
 
-B.- Área de Acción Cívica
+A. Encargado de Deporte
 
-C.- Área de Logística y Giras
+B. Área de Acción Cívica y Cultura
+
+C. Área de Logística y Giras
 
 ### CAPÍTULO I. De Las Facultades de las Dependencias de la Administración Pública Municipal
 
@@ -1587,7 +1595,7 @@ I. Elaborar y mantener actualizada la agenda del Presidente Municipal;
 
 II. Atender a los funcionarios, comisionados, representantes de grupos y demás personas que soliciten entrevista con el Presidente Municipal;
 
-III. Coordinar la atención ciudadana;
+III. (DEROGADA, P.O. 30 DE OCTUBRE DE 2019)
 
 IV. Organizar, programar y dar seguimiento a las giras y eventos del PresidenteMunicipal (sic) y a los acuerdos que se deriven de las mismas, canalizando las solicitudes a las áreas correspondientes;
 
@@ -1659,7 +1667,11 @@ XXV. Expedir, en su caso, los permisos para la celebración de eventos públicos
 
 XXVI. Tener bajo su cargo el registro del Libro de los Fierros de Herrar Municipal y registrar los nuevos fierros;
 
-XXVII. Dar el debido seguimiento a los asuntos acordados por el H. Ayuntamiento; y,
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2019)</small>
+
+XXVII. Coordinar el Departamento de Atención Ciudadana.
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 30 DE OCTUBRE DE 2019)</small>
 
 XXVIII. Las demás que señalen las leyes, el presente código, la reglamentación municipal o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
@@ -2215,63 +2227,75 @@ XXII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por condu
 
 #### SECCIÓN DÉCIMA TERCERA. Dirección del Deporte
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-ARTÍCULO 156 BIS.- Corresponde a la Secretaría de Cultura y Deporte lo siguiente:
+ARTÍCULO 156 BIS.- Corresponde a la Dirección de Acción Cívica, Cultura y Deporte lo siguiente:
 
-I. Las que conforme a la Ley le correspondan, en materia de cultura física y deporte;
+I. Convocar a las dependencias y entidades del sector público y a las instituciones de los sectores social y privado;
 
-II. Convocar a las dependencias y entidades del sector público y a las instituciones de los sectores social y privado;
+II. Proponer, coordinar, dirigir, ejecutar, evaluar, las acciones en materia de deporte, cultura y recreación para la población del Municipio;
 
-III. Proponer, dirigir, ejecutar, evaluar y vigilar la política municipal de cultura física y deporte;
+III. Fomentar la actividad deportiva en las instituciones, educativas y en la población en general.
 
-IV. Celebrar acuerdos, convenios, contratos y bases con las autoridades de la Federación, del Estado y los Municipios de la entidad, a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes al fomento, promoción, incentivo y desarrollo de la cultura física y deporte;
+IV. Integrar el Programa Municipal de Cultura Física y Deporte;
 
-V. Integrar el Programa Municipal de Cultura Física y Deporte;
+V. Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones municipales, estatales, nacionales e internacionales, sin contravenir lo dispuesto por las reglas internacionales;
 
-VI. Establecer los lineamientos para la participación de los deportistas en cualquier clase de competiciones municipales, estatales, nacionales e internacionales, sin contravenir lo dispuesto por las reglas internacionales;
+VI. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte;
 
-VII. Fomentar y promover la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas a la cultura física y deporte;
+VII. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte;
 
-VIII. Diseñar y establecer estrategias y prioridades en materia de cultura física y deporte;
+VIII. Gestionar recursos y aplicarlos a la mejora de las instalaciones y al fomento de la práctica deportiva.
 
-IX. Diseñar y establecer los criterios para asegurar la uniformidad y congruencia entre los programas de cultura física y deporte del sector público municipal y la asignación de los recursos para los mismos fines.
+X (SIC). Impulsar la Cultura en el Municipio.
 
-X. Promover e incrementar con las previsiones presupuestales existentes, los fondos y fideicomisos ya sean públicos o privados, que en materia de cultura física y deporte se constituyan con el objeto de organizar la participación de los sectores social y privado, a efecto de contribuir al desarrollo deportivo del Municipio;
+XI. Convocar a las Instituciones educativas y dependencias del sector público para la realización de eventos conmemorativos y culturales.
 
-XI. Impulsar la práctica de actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
+XII. Impulsar la práctica de actividades de cultura física-deportiva, recreativo-deportivas, de deporte en la rehabilitación y deporte entre la población en general, como medio para la prevención del delito;
 
-XII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
+XIII. Formular programas para promover la cultura física y deporte entre las personas con discapacidad;
 
-XIII. Organizar eventos deportivos tendientes al fomento del deporte y la participación ciudadana en las actividades de la activación física.
+XIV. Organizar eventos deportivos tendientes al fomento del deporte y la participación ciudadana en las actividades de la activación física.
 
-XIV. Impulsar y estimular los valores deportivos y culturales del Municipio.
+XV. Impulsar y estimular los valores deportivos y culturales del Municipio.
 
-XV. Atender solicitudes de la ciudadanía para efectos del préstamo de instalaciones deportivas.
+XVI. Atender solicitudes de la ciudadanía para efectos del préstamo de instalaciones deportivas.
 
-XVI. Fomentar la creación de las escuelas deportivas municipales especializadas en algunas disciplinas.
+XVII. Fomentar la creación de las escuelas deportivas municipales especializadas en algunas disciplinas.
 
-XVII. Coordinar, mantener y promover la utilización de las diversas instalaciones deportivas públicas municipales.
+XVIII. Coordinar, mantener y promover la utilización de las diversas instalaciones deportivas públicas municipales.
 
-XVIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XIX. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 16 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA CUARTA. Dirección de Desarrollo Agropecuario
+#### SECCIÓN DÉCIMA CUARTA. Departamento de Desarrollo Agropercuario (Sic)
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE OCTUBRE DE 2019)</small>
 
-ARTÍCULO 156 TER.- Para ser Secretario de Cultura y Deporte del Municipio de San José de Gracia, Ags., se requiere de lo siguiente:
+ARTÍCULO 156 TER.- Corresponde al Departamento de Desarrollo Agropecuario y Económico lo siguiente:
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 I. Ser ciudadano en pleno uso de sus derechos políticos y civiles y ser vecino del Municipio de San José de Gracia;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
 II. Contar con título de licenciatura debidamente registrado.
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 III. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar dicho cargo, a juicio del Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
 IV. No estar inhabilitado para desempeñar cargo, empleo o comisión pública;
 
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+
 V. No haber sido sentenciado por delito intencional que merezca pena privativa de libertad; y,
+
+> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
 
 VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
 
@@ -13526,3 +13550,9 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Una vez que inicie la vigencia de este Reglamento, quedarán derogados los artículos 146 146 BIS y 146 TER del Código Municipal de San José de Gracia publicados en el Periódico Oficial del Estado el día 18 de diciembre de 2017, así como cualquier otra disposición reglamentaria que se oponga a lo establecido en el presente Reglamento.
 
 TERCERO.- Los procedimientos administrativos iniciados por el Órgano lnterno de Control, antes del inicio de la vigencia de este Reglamento, serán concluidos conforme a la normatividad vigente a su inicio.
+
+P.O. 30 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO MUNICIPAL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES AL CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA Y SE DEROGAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL ÓRGANO DE CONTROL INTERNO DEL MUNICIPIO DE SAN JOSÉ DE GRACIA”.]
+
+UNICO: El presente Punto de Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado del Estado (sic) de Aguascalientes.
