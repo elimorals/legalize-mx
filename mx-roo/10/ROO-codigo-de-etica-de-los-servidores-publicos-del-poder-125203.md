@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-etica-de-los-servidores-publicos-del-poder-125203"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-01-11"
-last_updated: "2018-01-11"
+last_updated: "2019-10-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO QUE TIENE POR OBJETO EMITIR EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LAS DEPENDENCIA (SIC) Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL PODER EJECUTIVO A QUE REFIERE EL ARTÍCULO 16 DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS, PUBLICADO EN EL P.O. DE 31 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DEL PODER EJECUTIVO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2019 (SIN EFECTO).
 
 Código publicado en el Número 5 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 11 de enero de 2018.
 
@@ -144,3 +146,15 @@ Dado en la ciudad de Chetumal, capital del Estado de Quintana Roo, a los ocho d�
 EL SECRETARIO DE LA CONTRALORÍA
 
 LIC. RAFAEL ANTONIO DEL POZO DERGAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE TIENE POR OBJETO EMITIR EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LAS DEPENDENCIA (SIC) Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL PODER EJECUTIVO A QUE REFIERE EL ARTÍCULO 16 DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS”.]
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Segundo.- La Secretaría de la Contraloría, publicará el presente acuerdo en su página de Internet, al día siguiente de la entrada en vigor.
+
+Tercero.- Se dejan sin efecto el Código de ética de los Servidores Públicos del Poder Ejecutivo así como las Reglas de Integridad para el ejercicio de la función pública ambas publicadas en el Periódico Oficial del Estado de Quintana Roo, el 11 del mes de enero del año 2018.
