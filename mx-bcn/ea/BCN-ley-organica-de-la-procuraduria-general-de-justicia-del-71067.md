@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2019-02-22"
+last_updated: "2019-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS CUARTO Y SÉPTIMO TRANSITORIOS DEL DECRETO NO. 10 MEDIANTE EL CUAL SE CREA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL NÚMERO ESPECIAL DEL 31 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EN UN PLAZO MÁXIMO DE UN AÑO A PARTIR DEL NOMBRAMIENTO DEL FISCAL GENERAL DEL ESTADO DE BAJA CALIFORNIA.]</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE FEBRERO DE 2019 NO APLICA AL ARTÍCULO CUARTO DEL DECRETO NÚMERO 237 PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -884,3 +884,39 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 31 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 10 MEDIANTE EL CUAL SE CREA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las atribuciones conferidas, así como las menciones hechas en otros ordenamientos jurídicos o instrumentos legales aplicables, a la Procuraduría General de Justicia del Estado, al Procurador General de Justicia del Estado, a la Secretaría de Seguridad Pública del Estado, al Secretario de Seguridad Pública del Estado, a cualquiera de los órganos de la Procuraduría General de Justicia del Estado o de la Secretaría de Seguridad Pública del Estado, o a sus titulares y funcionaros (sic), con excepción de las referencias que correspondan al Sistema Estatal Penitenciario; se concebirá que corresponderán a la Fiscalía General del Estado de Baja California, al Fiscal General, o en su caso, a los órganos que la integren o a sus titulares, respectivamente.
+
+Los convenios y actos jurídicos celebrados por la Procuraduría General de Justicia del Estado y la Secretaría de Seguridad Pública del Estado, se entenderán como vigentes y obligarán en sus términos a la Fiscalía General del Estado de Baja California, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente. Los asuntos relacionados con el objeto de la Procuraduría General de Justicia del Estado que se encuentren en trámite, las controversias y juicios en los que la misma sea parte, pasarán a la competencia de la Fiscalía General del Estado, debiendo para tal efecto la Fiscalía General, hacer del conocimiento de la autoridad respectiva de las reformas que le dan originen, así como si (sic) calidad de sustituto de la autoridad que tienen interés jurídico en los asuntos de referencia.
+
+Las disposiciones que se opongan a lo establecido en el presente Decreto se entenderán derogadas.
+
+TERCERO. Los Agentes adscritos a la desaparecida Policía Estatal Preventiva que quieran formar parte de la Guardia Estatal de Seguridad e Investigación, podrán hacerlo siempre y cuando cumplan con los requisitos de permanencia señalados en las leyes y reglamentos vigentes en la materia
+
+CUARTO. La abrogación de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Baja California, se efectuará una vez trascurrido el plazo a que hace referencia en (sic) artículo SÉPTIMO TRANSITORIO del presente decreto, por lo que sus disposiciones serán aplicadas supletoriamente en lo no previsto por la presente Ley, ni en el reglamento que para tal efecto se expida, en las áreas o direcciones que continúen en proceso de transición, de Procuraduría General de Justicia a Fiscalía General del Estado, dentro de los plazos previstos por la presente Ley.
+
+QUINTO. El Poder Legislativo dentro de un plazo de 180 días contados a partir de la entrada en vigor de la presente reforma, realizará las adecuaciones legislativas necesaria (sic) para el adecuado funcionamiento de la Fiscalía General del Estado de Baja California.
+
+SEXTO. El Congreso del Estado contemplará en el Presupuesto de Egresos para el ejercicio fiscal correspondiente, la asignación de recursos suficientes para la transición operativa de Procuraduría General de Justicia y Secretaría de Seguridad Pública a Fiscalía General del Estado, con la implementación y funcionamiento de todos los órganos que la integran en los términos de la presente Ley.
+
+Para el ejercicio fiscal vigente a la entrada en vigor de la presente Ley, el Ejecutivo del Estado de Baja California, deberá destinar a la Fiscalía General del Estado los recursos presupuestales aprobados para el ejercicio 2019 a la Procuraduría General de Justicia del Estado y la Secretaría de Seguridad Pública del Estado.
+
+SÉPTIMO. El Fiscal General del Estado de Baja California, contará con el plazo máximo de un año a partir de su nombramiento, para implementar en su totalidad la transición de Procuraduría General de Justicia y Secretaría de Seguridad Pública, a la Fiscalía General del Estado, así como para la instalación y operación de cada uno de los órganos que la integran en términos de la presente Ley.
+
+OCTAVO. El Fiscal General del Estado contará con un plazo de 180 días, contados a partir de la entrada en vigor del presente decreto, para expedir el Reglamento de la Ley Orgánica de la Fiscalía General del Estado.
+
+Hasta antes de la expedición de dicho reglamento, y en lo que no se oponga a la presente Ley, podrá permanecer vigente la estructura orgánica de la Procuraduría General de Justicia del Estado de Baja California, con las mismas facultades y obligaciones previstas en su Reglamento.
+
+NOVENO. Por única ocasión, el Fiscal General del Estado que asuma por primera vez la Titularidad de la Fiscalía General, durará en su encargo 5 años, en cumplimiento a lo previsto en el ARTÍCULO SEGUNDO transitorio del Decreto No. 07, Publicado el 23 de octubre del 2019, en el Periódico Oficial del Estado, relativo a la reforma Constitucional que da vida a la Fiscalía General del Estado.
+
+DÉCIMO. El personal adscrito a la Procuraduría General de Justicia del Estado, así como a la Secretaría de Seguridad Pública del Estado de Baja California, que pasen a formar parte de la Fiscalía General del Estado, conservarán su relación laboral_en términos de lo dispuesto por la Constitución Política del Estado Libre y Soberano de Baja California.
+
+Podrá ser separado del servicio público sin responsabilidad para la Fiscalía General del Estado de Baja California, el personal que se niegue a participar en los procesos de evaluación o que no los hubiere aprobado, conforme a lo dispuesto por la fracción XIII del apartado B del artículo 123 de la Constitución Federal.
+
+DÉCIMO PRIMERO. Los procedimientos de responsabilidad administrativa y de separación del cargo iniciados con antelación a la entrada en vigor de la presente Ley, serán resueltos en términos de las disposiciones legales con los que se les dio inicio.
