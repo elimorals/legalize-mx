@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2019-10-23"
+last_updated: "2019-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -1011,11 +1011,15 @@ XXX.- Designar entre los vecinos, a propuesta del Gobernador del Estado, los Con
 
 XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2019)</small>
 
-XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que el Gobernador haga del Secretario de Desarrollo Social y del Director de Control y Evaluación Gubernamental. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que el Gobernador haga del Secretario de Integración y Bienestar Social y del Secretario de la Honestidad y la Función Pública. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2011)</small>
 
 El Congreso podrá acordar la no ratificación de los aspirantes propuestos, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso el Gobernador procederá libremente a hacer la designación correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Cuando el Gobernador opte por el Gobierno de Coalición, ratificará a los Titulares de las Dependencias del Poder Ejecutivo, en los términos que dispongan esta Constitución y las leyes que de ella emanen.
 
@@ -1359,13 +1363,17 @@ La Ley determinará las bases, instancias, mecanismos de participación ciudadan
 
 ### CAPITULO I.. DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE OCTUBRE DE 2019)</small>
 
-###### ARTÍCULO 40.
+###### ARTICULO 40.
 
 El Ejercicio del Poder Ejecutivo se deposita en una sola persona que se denomina Gobernador del Estado.
 
-El Gobernador del Estado conducirá la Administración Pública Estatal, que será Centralizada y Paraestatal, conforme a la Ley Orgánica que expida el Congreso, que distribuirá los asuntos del orden administrativo del Gobierno del Estado, que estarán a cargo de la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, las Secretarías y las Direcciones del Ramo, y definirá las bases de creación de las entidades Paraestatales, la intervención del Gobernador en su operación y las relaciones entre éstas y la Secretaría General de Gobierno, la Oficialía Mayor de Gobierno, las Secretarías y las Direcciones del Ramo.
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+
+El Gobernador del Estado conducirá la Administración Pública Estatal, que será Centralizada y Paraestatal, conforme a la Ley Orgánica que expida el Congreso, que distribuirá los asuntos del orden administrativo del Gobierno del Estado, que estarán a cargo de la Secretaría General de Gobierno, Secretaría de Hacienda, las Secretarías y las Direcciones del Ramo, y definirá las bases de creación de las entidades Paraestatales, la intervención del Gobernador en su operación y las relaciones entre éstas y la Secretaría General de Gobierno, Secretaría de Hacienda, las Secretarías y las Direcciones del Ramo.
+
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 La administración de las entidades paraestatales estará a cargo del titular de la entidad, y por un órgano de gobierno integrado con no menos de cinco ni más de trece integrantes propietarios, de los cuales la mayoría deberá pertenecer a la administración pública.
 
@@ -1429,11 +1437,11 @@ Los impedimentos para volver a ocupar el cargo de Gobernador son los que consign
 
 El Gobernador será electo cada seis años, mediante el sufragio universal, libre, secreto, directo, personal e intransferible y entrará a ejercer sus funciones el día primero del mes de septiembre posterior a la elección.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 45.
 
-El Gobernador podrá ausentarse del Territorio del Estado o separarse de sus funciones hasta 30 días, dando aviso al Congreso y en esos casos el Secretario de Gobierno se hará cargo del despacho con las atribuciones que establezca la Ley Orgánica de la Administración Pública del Estado de Baja California.
+El Gobernador podrá ausentarse del territorio del Estado o separarse de sus funciones hasta 30 días, dando aviso al Congreso y en esos casos el Secretario General de Gobierno se hará cargo del despacho con las atribuciones que establezca la Ley Orgánica de la Administración Pública del Estado de Baja California.
 
 ###### ARTICULO 46.
 
@@ -1465,9 +1473,9 @@ En caso de falta absoluta ocurrida durante los dos primeros años del período, 
 
 La persona que sea designada Gobernador Provisional, tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DEL 2001)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
-Si la falta absoluta ocurriere después de los dos primeros años, el Congreso designará por mayoría absoluta y en un término no mayor de ocho días, un Gobernador Sustituto que termine el ejercicio constitucional del Ejecutivo; caso en el cual el Secretario de Gobierno se hará cargo del despacho, de conformidad con lo dispuesto por el Artículo 45 de esta Constitución.
+Si la falta absoluta ocurriere después de los dos primeros años, el Congreso designará por mayoría absoluta y en un término no mayor de ocho días, un Gobernador Sustituto que termine el ejercicio constitucional del Ejecutivo; caso en el cual el Secretario General de Gobierno se hará cargo del despacho, de conformidad con lo dispuesto por el Artículo 45 de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 6 DE OCTUBRE DEL 2000)</small>
 
@@ -1477,11 +1485,15 @@ El ciudadano que sea designado para suplir al Titular del Poder Ejecutivo como G
 
 Si al comenzar un período constitucional no se presentare el Gobernador electo o la elección no estuviere hecha o declarada, cesará sin embargo el Gobernador cuyo período hubiere concluido, y se designará por el Congreso a un provisional que se haga cargo del despacho hasta en tanto se presente el titular.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 48.
 
-Todos los acuerdos y disposiciones que el Gobernador diere en uso de sus facultades, deberán para su valides (sic) ser autorizados con la firma del Secretario de Gobierno o de quien conforme a la Ley haga sus veces.
+Todos los acuerdos y disposiciones que el Gobernador diere en uso de sus facultades, deberán para su validez ser autorizados con la firma del Secretario General de Gobierno o de quien conforme a la Ley haga sus veces.
 
 ### CAPITULO II.. DE LAS FACULTADES Y OBLIGACIONES DEL GOBERNADOR
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 49.
 
@@ -1519,11 +1531,11 @@ VIII.- Visitar los Municipios del Estado, cuando lo estime conveniente, proveyen
 
 IX.- Prestar a los tribunales el auxilio que éstos requieran para el ejercicio expedito de sus funciones y hacer cumplir sus fallos y sentencias;
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO No. 106, PUBLICADO EN EL P.O. 7 DE OCTUBRE DE 2011, LA PRESENTE FRACCIÓN INICIA SU VIGENCIA EL 1 DE NOVIEMBRE DE 2013.</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE OCTUBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+X.- Nombrar y remover libremente a los secretarios y demás funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad. Los nombramientos del Secretario de Integración y Bienestar Social, y del Secretario de la Honestidad y la Función Pública, estarán sujetos a la ratificación del Congreso conforme lo señala esta Constitución;
 
-X.- Nombrar y remover libremente a los Secretarios y demás funcionarios y empleados cuyo nombramiento y remoción no corresponda a otra autoridad. Los nombramientos del Secretario de Desarrollo Social, y del Director de Control y Evaluación Gubernamental, estarán sujetos a la ratificación del Congreso conforme lo señala esta Constitución;
+> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
 
 Cuando opte por el Gobierno de Coalición, someterá a cada uno de los Titulares de las Dependencias del Ejecutivo Estatal, por separado a ratificación del Congreso del Estado por mayoría simple de los miembros presentes. Si en el primer nombramiento no se alcanzara la mayoría de votos, el Gobernador del Estado hará un segundo nombramiento distinto, que deberá ser votado en los mismos términos y condiciones que el primero; si el segundo nombramiento no alcanzara la mayoría de votos, el Gobernador del Estado hará el nombramiento definitivo;
 
@@ -1575,19 +1587,27 @@ XXV.- Planear y conducir el desarrollo integral del Estado en la esfera de su co
 
 XXVI.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
 
-### CAPITULO III.. DEL SECRETARIO DE GOBIERNO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2019)</small>
+
+### CAPITULO III. DEL SECRETARIO GENERAL DE GOBIERNO
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 50.
 
-Para el despacho de los negocios del Poder Ejecutivo habrá un funcionario que se denominará Secretario de Gobierno.
+Para el despacho de los negocios del Poder Ejecutivo habrá un funcionario que se denominará Secretario General de Gobierno.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 51.
 
-Para ser Secretario de Gobierno se requiere reunir los mismos requisitos que para ser Gobernador del Estado.
+Para ser Secretario General de Gobierno se requiere reunir los mismos requisitos que para ser Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 52.
 
-Son atribucines (sic) del Secretario de Gobierno:
+Son atribuciones del Secretario General de Gobierno:
 
 I.- Autorizar con su firma las Leyes y Decretos que promulgue el Ejecutivo, así como las disposiciones y acuerdos que éste dicte en el uso de sus facultades;
 
@@ -1597,9 +1617,13 @@ II.- Substituir al Gobernador en los casos que esta Constitución indique;
 
 III.- Las demás que le confiera la Ley Orgánica de la Administración Pública del Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+
 ###### ARTICULO 53.
 
-El Secretario de Gobierno no podrá desempeñar otro puesto o empleo público o privado, con excepción de los docentes, ni ejercer profesión alguna durante el ejercicio de sus funciones.
+El Secretario General de Gobierno no podrá desempeñar otro puesto o empleo público o privado, con excepción de los docentes, ni ejercer profesión alguna durante el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
 ### CAPITULO I.. DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA
 
@@ -1607,7 +1631,7 @@ El Secretario de Gobierno no podrá desempeñar otro puesto o empleo público o 
 
 ###### ARTICULO 54.
 
-Las faltas del Secretario de Gobierno, serán suplidas por el Oficial Mayor del Gobierno del Estado.
+Las faltas del Secretario General de Gobierno, serán suplidas por el Secretario de Hacienda.
 
 ## TITULO QUINTO
 
@@ -2649,7 +2673,9 @@ II.- El Tribunal Estatal de Justicia Administrativa impondrá a los particulares
 
 III.- En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La Ley de la materia establecerá los procedimientos para que les sea entregada dicha información.
 
-IV.- La Auditoría Superior del Estado, la Secretaría de la Contraloría y Transparencia Gubernamental, así como los órganos internos de control de los entes públicos estatales y municipales, podrán recurrir las determinaciones de la Fiscalía Especializada en combate a la corrupción del Estado y del Tribunal Estatal de Justicia Administrativa, de conformidad con lo previsto en las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2019)</small>
+
+IV.- La Auditoría Superior del Estado, la Secretaría de la Honestidad y la Función Pública, así como los órganos internos de control de los entes públicos estatales y municipales, podrán recurrir las determinaciones de la Fiscalía Especializada en combate a la corrupción del Estado y del Tribunal Estatal de Justicia Administrativa, de conformidad con lo previsto en las disposiciones legales aplicables.
 
 APARTADO C.- De la Responsabilidad objetiva y directa del Estado.
 
@@ -2767,7 +2793,9 @@ a).- El Auditor Superior del Estado;
 
 b).- El Fiscal Especializado en Combate a la Corrupción del Estado;
 
-c).- El Secretario de la Contraloría y Transparencia Gubernamental del Ejecutivo del Estado;
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
+
+c).- El Secretario de la Honestidad y la Función Pública;
 
 d).- El Presidente del Tribunal Estatal de Justicia Administrativa;
 
@@ -3023,11 +3051,11 @@ El Presidente del Congreso preguntará:
 
 "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las Leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Estatal de Justicia Administrativa que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto continuo, dirá el Presidente del Congreso: "Si así no lo hiciereis que la Nación y el Estado os lo demanden".
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2019)</small>
 
 ###### ARTICULO 110.
 
-El Secretario de Gobierno, y demás altos funcionarios del Estado rendirán la protesta ante el Gobernador y los empleados en la forma que determinen las leyes respectivas. El Fiscal General del Estado, así como el Fiscal Especializado para la Atención de Delitos Electorales, y el Fiscal Especializado en Combate a la Corrupción rendirán protesta ante el Pleno del Congreso del Estado.
+El Secretario General de Gobierno, y demás altos funcionarios del Estado rendirán la protesta ante el Gobernador y los empleados en la forma que determinen las leyes respectivas. El Fiscal General del Estado, así como el Fiscal Especializado para la Atención de Delitos Electorales, y el Fiscal Especializado en Combate a la Corrupción rendirán protesta ante el Pleno del Congreso del Estado.
 
 ###### ARTICULO 111.
 
@@ -4880,3 +4908,15 @@ DÉCIMO.- Dentro de los treinta días siguientes a la publicación del presente 
 DÉCIMO PRIMERO.- El trámite y demás asuntos iniciados con anterioridad a la entrada en vigor del presente Decreto ante la Procuraduría General de Justicia o ante la Secretaría de Seguridad Pública, serán continuados ante la Fiscalía General del Estado. Toda referencia que se haga en otras disposiciones legales y reglamentarias a la Procuraduría General de Justicia se entenderá hecha a la Fiscalía General del Estado.
 
 DÉCIMO SEGUNDO.- Las funciones, facultades, derechos y obligaciones a cargo de la Procuraduría General de Justicia y/o de la Secretaría de Seguridad Pública del Estado en cualquier ordenamiento legal, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades del Gobierno del Estado, con dependencias y entidades de la Federación y de los Municipios, y con cualquier persona física o moral, serán asumidos por la Fiscalía General del Estado.
+
+P.O. 31 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 08 MEDIANTE EL CUAL SE APRUEBAN REFORMAS A LOS ARTÍCULOS 27 EN LA FRACCIÓN XXXII, 40, 45, 46, 48, 49, 50, 51, 52, 53, 54, 92 APARTADO B FRACCIÓN IV, 95 FRACCIÓN I) APARTADO C, 110 TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Aprobada la presente reforma por el pleno de este Congreso, remítase a los Ayuntamientos para el proceso legislativo previsto en el artículo 112 de nuestra Constitución Estatal.
+
+SEGUNDO.- Concluido el procedimiento previsto por el artículo 112 de la Constitución Estatal, remítase para su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las reformas contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- El Ejecutivo del Estado dentro de un Plazo no mayor a 180 días hábiles realizará las reformas complementarias a la legislación secundaria y reglamentaria impactada por la presente reforma
