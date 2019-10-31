@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-ciencias-penales-52
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-12-05"
-last_updated: "2018-05-30"
+last_updated: "2019-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52355&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-11-21"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2019.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de diciembre de 2006.
 
@@ -91,11 +91,11 @@ La administración del Instituto estará a cargo de la Junta de Gobierno y del D
 
 ### CAPITULO III. DE LA JUNTA DE GOBIERNO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 6.
 
-La Junta de Gobierno del Instituto Nacional de Ciencias Penales se integrará por: el Procurador General de la República, quien la presidirá; los Secretarios de Gobernación, de Educación Pública y de Hacienda y Crédito Público; el Subprocurador que el Procurador General de la República designe; el Procurador General de Justicia de la Ciudad de México; los rectores de la Universidad Nacional Autónoma de México y de la Universidad Autónoma Metropolitana; el Presidente de la Academia Mexicana de Ciencias Penales; el Director General del Consejo Nacional de Ciencia y Tecnología; así como por un Comisario Público Propietario, designado por la Secretaría de la Función Pública con derecho a voz y sin voto, quien tendrá las atribuciones a que se refieren los artículos 60 y 62 de la Ley Federal de las Entidades Paraestatales.
+La Junta de Gobierno del INACIPE se integrará por: el Fiscal General de la República, quien la presidirá, los titulares de las Secretarías de Gobernación, de Educación Pública y de Hacienda y Crédito Público; el titular del órgano a cargo de la función fiscal que el Fiscal General de la República designe; el titular de la Procuraduría General de Justicia de la Ciudad de México; los rectores de la Universidad Nacional Autónoma de México y de la Universidad Autónoma Metropolitana; el Presidente de la Academia Mexicana de Ciencias Penales; el Director General del Consejo Nacional de Ciencia y Tecnología; así como por un Comisario Público Propietario, designado por la Secretaría de la Función Pública con derecho a voz y sin voto, quien tendrá las atribuciones a que se refiere el artículo 60 de la Ley Federal de las Entidades Paraestatales.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -105,9 +105,9 @@ Los integrantes de la Junta de Gobierno podrán designar a sus respectivos suple
 
 Cuando la Junta de Gobierno lo estime pertinente, podrá invitar a participar en sus sesiones a representantes de los Poderes Legislativo y Judicial o de cualquiera otra institución pública o privada.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-La Junta ejercerá sus atribuciones conforme a la Ley Federal de las Entidades Paraestatales y su Reglamento, al Decreto por el que se crea el Instituto Nacional de Ciencias Penales, al presente Estatuto y demás normas aplicables.
+La Junta ejercerá sus atribuciones conforme a la Ley de Ciencia y Tecnología, la Ley Federal de las Entidades Paraestatales y su Reglamento, al Decreto por el que se crea el Instituto Nacional de Ciencias Penales, al presente Estatuto y demás normas aplicables.
 
 (REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE MAYO DE 2018]
 
@@ -175,11 +175,17 @@ XIV. Aprobar la celebración de convenios con el Consejo Nacional de Ciencia y T
 
 XV. Las demás que le confieran las leyes, los reglamentos, el Decreto de Creación y el presente Estatuto.
 
+> <small>[N. DE E. DEL ANÁLISIS A LAS REFORMAS DEL PRESENTE ARTÍCULO, SE ADVIERTE QUE LA PARTE FINAL DEL CONTENIDO DE ÉSTE PÁRRAFO ES SIMILAR AL PÁRRAFO SEGUNDO QUE SE ADICIONA EN EL D.O.F. 31 DE OCTUBRE DE 2019.]</small>
+
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 8.
 
 La Junta de Gobierno celebrará sesiones ordinarias, cuando menos, una vez cada tres meses, de conformidad con el calendario aprobado en la primera sesión ordinaria del ejercicio y las extraordinarias que juzguen necesarias su Presidente, el Director General del Instituto o, por lo menos, tres de sus miembros. Para la celebración de las reuniones, la convocatoria debe ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario de la Junta y recibidos por los miembros de ésta y el Comisario Público con una anticipación no menor de cinco días hábiles. En caso de que la reunión no pueda llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+Para la celebración de las reuniones, la convocatoria debe ir acompañada del orden del día y de la documentación correspondiente, los cuales deberán ser enviados por el Secretario o Prosecretario de la Junta y recibidos por los miembros de ésta y el Comisario Público con una anticipación no menor de cinco días hábiles. En caso de que la reunión no pueda llevarse a cabo en la fecha programada, deberá celebrarse entre los cinco y quince días hábiles siguientes.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -187,11 +193,11 @@ La Junta de Gobierno celebrará sesiones ordinarias, cuando menos, una vez cada 
 
 Para la validez de las reuniones de la Junta de Gobierno, se requerirá de la asistencia de, por lo menos, la mitad más uno de sus miembros y que la mayoría de los asistentes sean representantes de la Administración Pública Federal. Las resoluciones de la Junta se tomarán por mayoría de votos de los miembros presentes, teniendo el Presidente voto de calidad para el caso de empate.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 10.
 
-La Junta de Gobierno designará, de entre sus integrantes, un Secretario permanente.
+La Junta de Gobierno designará a su Secretario o Prosecretario, de conformidad con el artículo 58, fracción XII de la Ley Federal de las Entidades Paraestatales.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -216,6 +222,10 @@ La Junta de Gobierno podrá designar comisiones para el cumplimiento de determin
 El Consejo Académico se integrará por el Director General del Instituto; los Titulares de las Secretarías Generales Académica y de Extensión; el Director de Posgrado del Instituto; así como por tres consejeros representantes: un profesor, un investigador y un alumno, quien será elegido por sus compañeros del área en los términos de la convocatoria que para tal efecto apruebe el Consejo Académico.
 
 Los consejeros representantes serán electos cada año por los miembros del grupo o sector al que representen. Por cada propietario habrá un suplente.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+El titular de la Dirección Jurídica participará como asesor permanente, con derecho a voz, pero sin voto.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -423,7 +433,7 @@ XIX. Las demás que le encomienden las leyes, los reglamentos, el Decreto de cre
 
 ### CAPITULO I. DE SU INTEGRACION
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2019)
 
 ###### Artículo 32.
 
@@ -441,13 +451,15 @@ IV. Dirección de Educación Continua;
 
 V. Dirección de Publicaciones y Biblioteca;
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-VI. Dirección de Tecnologías de Información, Comunicación y Educación a Distancia;
+VI. Dirección de Educación a Distancia;
 
 VII. Dirección de Administración, y
 
 VIII. Dirección Jurídica.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 Asimismo, contará con el personal académico, administrativo y las unidades que sean necesarias para el cumplimiento de las funciones que tiene asignadas.
 
@@ -529,27 +541,41 @@ XVIII. Llevar a cabo todas aquellas funciones que le confiera o encomiende el De
 
 ### CAPITULO III. DE LA SECRETARIA GENERAL DE EXTENSION
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2019)
 
 ###### Artículo 36.
 
 Son funciones de la Secretaría General de Extensión las siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-I. Coordinar y supervisar las tareas de las Direcciones de Educación Continua, Publicaciones y Biblioteca y de Tecnologías de Información, Comunicación y Educación a Distancia;
+I. Coordinar y supervisar las tareas de las Direcciones de Educación Continua, Publicaciones y Biblioteca y de Educación a Distancia;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 II. Proponer los contenidos temáticos en materia de cursos, diplomados, seminarios, talleres y otras actividades académicas no escolarizadas;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 III. Formular y organizar proyectos de divulgación, a fin de cumplir eficazmente con los objetivos y metas establecidos;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 IV. Establecer la coordinación con instituciones nacionales y extranjeras para llevar a cabo acciones de intercambio interbibliotecario, editorial y de participación en seminarios y congresos, entre otros;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 V. Supervisar y establecer los lineamientos para el funcionamiento del programa anual de extensión, difusión, divulgación, publicaciones, asesoría, automatización, biblioteca y librería; así como, coordinar los procesos de registro de alumnos a las distintas actividades que se programen;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 VI. Proponer los mecanismos de selección de los ponentes, así como la impartición de los cursos de extensión del Instituto;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 VII. Proponer, coordinar y supervisar los programas de Educación a Distancia que desarrolle el Instituto, además impulsar las tecnologías de la educación;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 VIII. Proponer la firma de convenios con instituciones similares, nacionales o extranjeras y con organizaciones diversas para la elaboración de proyectos conjuntos y/o asesoría;
 
@@ -753,115 +779,171 @@ IX. Realizar todas aquellas funciones que le confiere la normatividad del Instit
 
 DIRECCION DE EDUCACION A DISTANCIA
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 42.
 
-Son funciones de la Dirección de Tecnologías de Información, Comunicación y Educación a Distancia:
+Son funciones de la Dirección de Educación a Distancia:
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+(REPUBLICADA, D.O.F. 31 DE OCTUBRE DE 2019)
 
 I. Planear, ejecutar y evaluar la plataforma de tecnologías para brindar educación a distancia, video bajo demanda, transmisión en vivo por internet, materiales y servicios educativos multimedia;
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+(REPUBLICADA, D.O.F. 31 DE OCTUBRE DE 2019)
 
 II. Planear, difundir y ejecutar programas académicos de cursos, diplomados, especialidades y maestrías en modalidades E-Learning y Aula Virtual;
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, [N. DE E. REPUBLICADA] D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-III. Elaborar y ejecutar el programa anual en materia de tecnologías de la información y educación;
+III. Establecer vínculos y convenios de colaboración académica con instituciones públicas y privadas a fin de desarrollar, capacitar o asesorar actividades en materia de Ciencias Penales y tecnologías de la educación;
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-IV. Establecer vínculos y convenios de colaboración académica con instituciones públicas y privadas a fin de desarrollar, capacitar o asesorar actividades en materia de Ciencias Penales y tecnologías de la educación;
+IV. Mantener actualizada a la comunidad académica del Instituto sobre las innovaciones tecnológicas y sus aplicaciones en las disciplinas relacionadas con las Ciencias Penales;
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-V. Mantener actualizada a la comunidad académica del Instituto sobre las innovaciones tecnológicas, avances en la informática y sus aplicaciones en las disciplinas relacionadas con las Ciencias Penales;
+V. Planear, diseñar, actualizar, innovar y operar los servicios que proporcione el Instituto a través de internet, tales como sitios web, micrositios y redes sociales que sean utilizadas para fines educativos y de difusión de las Ciencias Penales, y
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-VI. Planear, diseñar, actualizar, innovar y operar los servicios que proporcione el Instituto a través de internet, tales como sitios web, micrositios y redes sociales que sean utilizadas para fines educativos y de difusión de las Ciencias Penales;
+VI. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+VII. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2019)
 
-VII. Diseñar, desarrollar, suministrar, operar y brindar el soporte técnico a los sistemas y servicios en materia de telefonía, telecomunicaciones, informática, internet e infraestructura electrónica y tecnologías de información y comunicaciones;
+VIII. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2019)
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+IX. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2019)
 
-VIII. Diseñar, desarrollar, suministrar, operar y brindar el soporte técnico a los sistemas y servicios en materia de seguridad informática y comunicaciones empleando, en su caso, servicios de terceros;
-
-> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-IX. Desarrollar e implementar el programa de mantenimiento preventivo y correctivo y reemplazo de los equipos de telefonía, telecomunicaciones, informática, internet, e infraestructura electrónica del Instituto, y
-
-> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-X. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General de Extensión y el Director General del Instituto.
+X. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2019)
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 DIRECCION DE ADMINISTRACION
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2019)
 
 ###### Artículo 43.
 
 Son funciones de la Dirección de Administración:
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 I. Coordinar la integración del programa de actividades y del presupuesto de la Dirección General, de acuerdo a los lineamientos emitidos por la Secretaría de Hacienda y Crédito Público y la Junta de Gobierno;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 II. Proponer la contratación, desarrollo, capacitación, promoción y adscripción del personal del Instituto;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 III. Coordinar y acordar el ejercicio, registro y control del presupuesto asignado, emitiendo la documentación comprobatoria necesaria, conforme a la normatividad establecida;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 IV. Coordinar la administración de los recursos humanos, financieros, materiales y servicios generales asignados al Instituto para el eficaz cumplimiento de los objetivos y metas establecidas, así como difundir las prestaciones y servicios de carácter social a que tienen derecho los trabajadores;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 V. Vigilar que los recursos humanos, financieros y materiales que requieran las áreas para su funcionamiento, les sean proporcionados en forma oportuna y de acuerdo al programa de actividades establecido por el Director General del Instituto;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 VI. Informar a la Dirección General de Programación, Organización y Presupuesto de la Procuraduría General de la República, sobre el desarrollo de sus actividades y proporcionar los elementos adicionales de información que le sean requeridos;
 
-VII. Integrar y coordinar la organización y funcionamiento del Comité de Adquisiciones, Arrendamientos y Servicios, de acuerdo a lo dispuesto en la normatividad aplicable, y
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-VIII. Llevar a cabo todas aquellas funciones que le confiera o encomiende el presente Estatuto, las disposiciones aplicables o el Director General del Instituto.
+VII. Informar a la Dirección General de Programación, Organización y Presupuesto de la Fiscalía General de la República, sobre el desarrollo de sus actividades y proporcionar los elementos adicionales de información que le sean requeridos;
+
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+VIII. Integrar y coordinar la organización y el funcionamiento del Comité de Adquisiciones, Arrendamientos y Servicios, de acuerdo a lo dispuesto en la normatividad aplicable;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+IX. Elaborar y ejecutar el programa anual en materia de tecnologías de la información y comunicaciones;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+X. Diseñar, desarrollar, suministrar, operar y brindar el soporte técnico a los sistemas y servicios en materia de telefonía, telecomunicaciones, internet e infraestructura electrónica y tecnologías de información y comunicaciones;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+XI. Diseñar, desarrollar, suministrar, operar y brindar el soporte técnico a los sistemas y servicios en materia de seguridad informática y comunicaciones empleando, en su caso, servicios de terceros;
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+XII. Desarrollar e implementar el programa de mantenimiento preventivo y correctivo y reemplazo de los equipos de telefonía, telecomunicaciones, informática, internet e infraestructura electrónica del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+XIII. Llevar a cabo todas aquellas funciones que le confiera o encomiende el presente Estatuto, las disposiciones aplicables o el Director General del Instituto.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 DIRECCION JURIDICA
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2019)
 
 ###### Artículo 44.
 
 Son funciones de la Dirección Jurídica, las siguientes:
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 I. Realizar la defensa jurídica del Instituto Nacional de Ciencias Penales ante cualquier instancia y representar legalmente a su Director General, y demás funcionarios del mismo, ante las autoridades administrativas y judiciales;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 II. Formular querellas y denuncias por hechos probablemente constitutivos de delitos que afecten al Instituto, así como otorgar perdón cuando éste proceda;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 III. Revisar y, en su caso, formular los convenios y contratos que celebre el Instituto;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 IV. Llevar el registro, control y seguimiento de los convenios, contratos y ordenamientos normativos vigentes en el Instituto;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 V. Asesorar y apoyar jurídicamente a las diversas unidades administrativas del Instituto y desahogar las consultas que sobre la materia le formulen;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 VI. Realizar las gestiones y trámites de carácter administrativo ante las diversas autoridades federales y locales que sean necesarias como apoyo al cumplimiento de los fines del Instituto;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 VII. Formular y emitir opinión, en su caso, sobre los proyectos de ordenamientos normativos internos del Instituto;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 VIII. Participar como asesor, cuando así se requiera, en los diversos comités, consejos y comisiones mixtas del Instituto;
 
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 IX. Revisar y clasificar el Diario Oficial de la Federación, a efecto de informar a las diversas áreas del Instituto sobre las disposiciones jurídicas inherentes al mismo;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 X. Integrar y mantener actualizado el marco jurídico aplicable al Instituto;
 
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-XI. Fungir como Unidad de Transparencia del Instituto, y desempeñar las funciones que, al efecto, establece la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones en la materia;
+XI. Fungir como Unidad de Transparencia del Instituto y desempeñar las funciones que, al efecto, establecen la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables;
 
-XII. En general, realizar todas aquellas actividades de carácter jurídico que sean necesarias para apoyar el buen funcionamiento del Instituto, y
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-XIII. Las demás que le encomiende el Director General del Instituto.
+XII. Expedir certificación de documentos de carácter oficial que obren en los archivos del Instituto;
+
+(REUBICADA, D.O.F. 31 DE OCTUBRE DE 2019)
+
+XIII. En general, realizar todas aquellas actividades de carácter jurídico que sean necesarias para apoyar el buen funcionamiento del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+XIV. Las demás que le encomiende el Director General del Instituto, el presente Estatuto y demás disposiciones legales y normativas.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -985,41 +1067,45 @@ III. Aprobar la reforma con el voto de, por lo menos, dos tercios de los miembro
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
 ###### Artículo 55.
 
-El Comité de Transparencia del Instituto será la instancia máxima en transparencia, acceso a la información, protección de datos personales y archivo. Deberá coordinar y supervisar las acciones en la materia de conformidad con lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
+El Comité de Transparencia del Instituto será la instancia máxima en transparencia, acceso a la información, protección de datos personales y archivo. Deberá coordinar y supervisar las acciones en la materia de conformidad con lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás disposiciones aplicables.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O.F. 30 DE MAYO DE 2018)</small>
+(REPUBLICADO PRIMER PÁRRAFO, D.O.F. 31 DE OCTUBRE DE 2019)
 
 ###### Artículo 56.
 
 El Comité de Transparencia se integrará por:
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-I. El Titular de la Unidad de Transparencia, quien lo presidirá;
+I. La persona titular de la Unidad de Transparencia, quien lo presidirá;
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-II. El Director de Administración, quien fungirá como Secretario Técnico;
+II. La persona encargada de la Coordinación de Archivos, y
 
-> <small>(REFORMADA, D.O.F. 30 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 31 DE OCTUBRE DE 2019)</small>
 
-III. El Titular del Órgano Interno de Control en el Instituto;
+III. La persona titular del Órgano Interno de Control en el Instituto.
 
-> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
+IV. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2019)
 
-IV. El Director de Tecnologías de Información, Comunicación y Educación a Distancia, y
+V. (DEROGADA, D.O.F. 31 DE OCTUBRE DE 2019)
 
-> <small>(ADICIONADA, D.O.F. 30 DE MAYO DE 2018)</small>
-
-V. La unidad a la que el Director General asigne las actividades de Comunicación Social, en términos de los artículos 31, fracción XVIII y 32, segundo párrafo de este Estatuto.
-
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+(REPUBLICADO, D.O.F. 31 DE OCTUBRE DE 2019)
 
 Por cada integrante del Comité, habrá un suplente, quien deberá tener la jerarquía inmediata inferior a dicho titular. No podrá ser subordinado de algún otro miembro del Comité.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+El Comité contará con una Secretaría Técnica permanente, que tendrá la función de llevar la correspondencia y archivo, así como de levantar las actas y dar seguimiento a los acuerdos adoptados.
+
+> <small>(ADICIONADO, D.O.F. 31 DE OCTUBRE DE 2019)</small>
+
+La Secretaría Técnica estará a cargo de la persona que ocupe el cargo del nivel jerárquico inmediato inferior a la persona titular de la Unidad de Transparencia.
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
@@ -1072,3 +1158,19 @@ D.O.F. 30 DE MAYO DE 2018.
 Artículo Primero. Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico del Instituto Nacional de Ciencias Penales fueron aprobadas por la H. Junta de Gobierno en su Primera Sesión Extraordinaria de 2018, celebrada el 3 de abril de 2018, y entrarán en vigor al día siguiente de su aprobación por la misma.
 
 Artículo Segundo. Se instruye al Director General del Instituto realizar los trámites necesarios para la publicación de las presentes reformas, adiciones y derogaciones al Estatuto Orgánico en el Diario Oficial de la Federación. Los actos que realicen las diversas áreas del Instituto, previos a la fecha de publicación, podrán estar fundados en los artículos anteriores a las reformas y adiciones al Estatuto Orgánico aprobadas en este acto por la Junta de Gobierno.
+
+D.O.F. 31 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS, ADICIONES Y DEROGACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES”.]
+
+Artículo Primero. Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico del Instituto Nacional de Ciencias Penales fueron aprobadas por la H. Junta de Gobierno en su Primera Sesión Extraordinaria 2019, celebrada el 9 de octubre de 2019, y entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. Los actos que realicen las diversas áreas del Instituto, previos a la fecha de publicación, podrán estar fundados en los artículos anteriores a las reformas y adiciones al Estatuto Orgánico aprobadas en este acto por la Junta de Gobierno.
+
+Artículo Tercero. En el caso de la transición de las atribuciones en materia de tecnologías de la información y comunicaciones, de conformidad con el Manual Administrativo de Aplicación General en las Materias de Tecnologías de la Información y Comunicaciones y de Seguridad de la Información (MAAGTICSI), la Dirección de Tecnologías de Información, Comunicación y Educación a Distancia, que cambió su denominación a Dirección de Educación a Distancia y que está adscrita a la Secretaría General de Extensión, deberá transferir a la Dirección de Administración, mediante acta entrega-recepción, el Plan Estratégico de Tecnologías de la Información y Comunicaciones (PETIC) y el Portafolio de proyectos de TIC para el año 2019, debiendo identificar claramente la Cartera Ejecutiva de Proyectos de TIC y la Cartera Operativa de Proyectos de TIC, con la precisión de los avances y su porcentaje, así como un informe pormenorizado sobre las auditorías en curso a cargo del Órgano Interno de Control respecto de estos componentes del MAAGTICSI.
+
+Asimismo, la Dirección de Educación a Distancia deberá transferir a la Dirección de Administración la Cartera Ejecutiva de Proyectos de TIC para el año 2020, debiendo adjuntar, en su caso, la constancia de su presentación en la Herramienta de Gestión de la Política TIC, según lo que dispone el artículo 6 del Acuerdo por el que se modifican las políticas y disposiciones para la Estrategia Digital Nacional, en materia de Tecnologías de la Información y Comunicaciones, y en la de Seguridad de la Información, así como el Manual Administrativo de Aplicación General en dichas materias, publicado en el Diario Oficial de la Federación el 23 de julio de 2018.
+
+De igual forma, la Dirección de Educación a Distancia deberá transferir a la Dirección de Administración la administración de los contratos vigentes en materia de tecnologías de la información y comunicaciones y de seguridad de la información, de conformidad con la Ley de Adquisiciones, Arrendamientos y Servicios de Sector Público, el Manual Administrativo de Aplicación General en Materia de Adquisiciones, Arrendamientos y Servicios del Sector Público y el MAAGTICSI.
+
+La entrega-recepción que contempla este artículo deberá formalizarse en un plazo máximo de 15 días hábiles contados a partir de la entrada en vigor de las presentes reformas, adiciones y derogaciones al Estatuto Orgánico.
