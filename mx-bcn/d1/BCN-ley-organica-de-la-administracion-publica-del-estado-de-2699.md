@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2019-02-22"
+last_updated: "2019-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 31 DE OCTUBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE FEBRERO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 237 PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE OCTUBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -2262,3 +2262,47 @@ P.O. 19 DE OCTUBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- La conformación de las bases de datos de las personas privadas de la libertad, establecida en la fracción XVII del artículo 38 de la Ley Orgánica de la Administración Pública del Estado de Baja California, a cargo de la autoridad penitenciaria; se realizará en el plazo establecido en el Párrafo Primero del Artículo Segundo Transitorio de la Ley Nacional de Ejecución Penal.
+
+P.O. 31 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La abrogación (sic) la Ley Orgánica de la Administración Pública del Estado de Baja California, Publicada en el Periódico Oficial No. 2, Sección I, de fecha 20 de enero de 1986, Tomo XCIII. Se efectuará una vez transcurrido el plazo a que hace referencia el artículo TERCERO TRANSITORIO del presente Decreto, por lo que sus disposiciones serán aplicadas supletoriamente en lo no previsto por la presente Ley, y en los reglamentos correspondientes que para tal efecto se expidan.
+
+TERCERO.- Dentro de los trescientos sesenta y cinco días siguientes al inicio de la entrada en vigor del presente Decreto, deberán realizarse las reformas completarías (sic) de armonización legislativa a leyes y reglamentos en los términos de la presente reforma.
+
+CUARTO.- La Oficialía Mayor, realizará las acciones administrativas necesarias para que, el traspaso financiero, el mobiliario, los vehículos, instrumentos, aparatos, maquinaria, archivos, y personal con pleno respeto a sus derechos laborales, de las Secretarías o áreas Administrativas que se fusionan o pasarán de una dependencia del Ejecutivo a otra parte en los términos del presente Decreto, en un lapso no mayor a 45 días hábiles contados a partir de la entrega recepción de la administración formal de cada dependencia.
+
+QUINTO.- Para el debido cumplimiento de la presente Ley, la Oficialía Mayor tendrá un plazo de seis meses, contados a partir de la entrada en vigor de la presente reforma, para realizar las acciones administrativas, normativas y presupuestarias que concreten su fusión con la Secretaría de Hacienda.
+
+SEXTO.- Tratándose de los Organismos Públicos Descentralizados y Desconcentrados, que con motivo de las disposiciones contenidas en esta Ley pasen a formar parte de alguna dependencia diversa dentro de la administración pública estatal, la dependencia coordinadora del sector, planteará al Gobernador los mecanismos administrativos para la fusión o sectorización respectiva. Todos los recursos humanos, financieros y materiales pasarán a la Secretaría de que se trate, sin perjuicio de los derechos laborales de los trabajadores, así como los activos y pasivos del organismo respectivo.
+
+SEPTIMO.- Los asuntos administrativos, que con motivo de este Decreto, deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que estén conociendo de las mismas se incorporen a la dependencia que señale a (sic) Ley, dentro del período a que se contrae el transitorio segundo, a excepción de los urgentes o sujetos a plazos improrrogables que deberán atenderse con la inmediatez que se requiera.
+
+OCTAVO.- Cuando en otras disposiciones legales se dé una denominación distinta a alguna dependencia o entidad cuyas funciones estén establecidas por la presente Ley, dichas atribuciones se entenderán concedidas para su ejercicio a la dependencia que determina esta Ley, en tanto no se realicen los ajustes legislativos, reglamentarios o normativos que correspondan.
+
+NOVENO.- Se faculta al Gobernador, para que, en términos de la Ley correspondiente y en ejercicio del Presupuesto de Egresos del Estado para el ejercicio del año 2020, realice los ajustes necesarios a dicho presupuesto, a fin de que resulte congruente con las modificaciones a la estructura orgánica del Poder Ejecutivo. Debiendo comunicar de ello en los informes de evaluación del ejercicio del gasto público que legalmente se rinde al Congreso del Estado, a través de su órgano técnico.
+
+DECIMO.- El Gobernador habrá de emitir los nuevos reglamentos interiores de las dependencias y entidades de la administración pública que sean necesarios, en los 365 días naturales posteriores a la entrada en vigor de esta Ley, para regular debidamente lo concerniente al funcionamiento interno de las unidades administrativas adscritas a las dependencias.
+
+En igual período las entidades de la administración pública paraestatal que corresponda, a través de sus órganos de gobierno emitirán sus respectivos estatutos orgánicos, los cuales deberán ser enviados para su sanción ante el Titular del Poder Ejecutivo y su publicación en el Periódico Oficial del Estado.
+
+DECIMO PRIMERO.- En tanto se expiden los nuevos ordenamientos, que regulen aspectos sustantivos y adjetivos de este mandato, seguirán aplicándose en lo conducente en todo lo que no se opongan a esta Ley, las disposiciones legales, tanto reglamentarias como administrativas que regulaban los actos previstos en la Ley anterior.
+
+De igual forma, hasta en tanto no se emitan los nuevos reglamentos interiores de las dependencias y entidades de la administración pública, se aplicará la presente Ley en lo concerniente al funcionamiento interno de las unidades administrativas adscritas a las dependencias.
+
+DECIMO SEGUNDO.- La Secretaría del Trabajo y Previsión Social dentro de los 45 días naturales siguientes a la entrada en vigor de la presente reforma, elaborará un Programa Estatal de Implementación de la Reforma Laboral, en el cual contemplará las acciones y presupuesto necesario para realizar las adecuaciones normativas y de infraestructura que garanticen el cumplimiento de los objetivos de la reforma laboral en la entidad Federativa. Dicho programa será puesto a consideración del Gobernador para su validación y posterior publicación en el Periódico Oficial del Estado.
+
+DÉCIMO TERCERO.- La Secretaría de Hacienda dentro de los 90 días naturales contados a partir de la entrada en vigor de la presente Ley remitirá a la Secretaría General de Gobierno el proyecto de Ley del Servicio de Administración Tributaria del Estado de Baja California, así como las propuestas de modificación de convenio en materia tributaria con la Federación.
+
+DÉCIMO CUARTO.- La Secretaría de Hacienda, dentro los 90 días naturales contados a partir de la entrada en vigor de la presente Ley presentará al Gobernador del Estado, el programa de trabajo para la operación del Sistema de Administración Tributaria del Estado de Baja California, así como las propuestas de modificación a la legislación secundaria en la materia.
+
+DECIMO QUINTO.- La Secretaría General de Gobierno, dentro de los 90 días naturales contados a partir de la entrada en vigor de la presente reforma, emitirá el Reglamento Interno del Comité de Honestidad de la Proveeduría Pública.
+
+DÉCIMO SEXTO.- El Ejecutivo del Estado, en el ámbito de su competencia, designará a una Comisión Técnica coordinada por la Secretaría General de Gobierno, que será responsable de implementar las políticas, programas, acciones y adecuaciones jurídicas, administrativas, reglamentarias, normativas, técnicas, presupuestales y de logística necesarias para adecuar el funcionamiento interno y la operación de la administración pública estatal de conformidad a las disposiciones contenidas en esta Ley.
+
+DÉCIMO SÉPTIMO.- Hasta en tanto no se constituya formal y totalmente el Sistema de Administración Tributaria del Estado de Baja California, la Secretaria de Hacienda ejercerá en su totalidad las atribuciones previstas en la presente Ley.
+
+DÉCIMO OCTAVO.- No se afectarán los derechos adquiridos y demás prestaciones reconocidas a los trabajadores con anterioridad al presente Decreto.
