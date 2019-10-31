@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2019-06-19"
+last_updated: "2019-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -817,9 +817,17 @@ XXX.- Desarrollo Urbano;
 
 XXXI.- Transparencia;
 
-XXXII.- Anticorrupción; y
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2019)</small>
 
-XXXIII.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
+XXXII.- Anticorrupción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 31 DE OCTUBRE DE 2019)</small>
+
+XXXIII.- Atención a migrantes; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 31 DE OCTUBRE DE 2019)</small>
+
+XXXIV.- Especiales aprobadas por el pleno del Congreso del Estado con tal carácter.
 
 ###### ARTÍCULO 93.
 
@@ -2621,17 +2629,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 B.O. 19 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 39, QUE REFORMA EL ARTÍCULO 86 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 39, QUE REFORMA EL ARTÍCULO 86 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 297 BIS Y ADICIONA UN NUMERAL 261 BIS AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+B.O. 31 DE OCTUBRE DE 2019.
 
-ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 66, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ARTÍCULO 92 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 7 DE JUNIO DE 2021.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ATENTADOS AL PUDOR, ESTUPRO, VIOLACIÓN EQUIPARADA, HOSTIGAMIENTO O ACOSO SEXUAL, LESIONES A MUJERES CON SUSTANCIAS CORROSIVAS Y MALTRATO ANIMAL”.]
 
