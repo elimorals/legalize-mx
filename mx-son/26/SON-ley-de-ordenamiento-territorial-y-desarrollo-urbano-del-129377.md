@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129377"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2018-06-11"
+last_updated: "2019-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2019.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 11 de junio de 2018.
 
@@ -132,6 +132,10 @@ XXX.- Mejoramiento: la acción tendente a reordenar, renovar, consolidar y dotar
 XXXI.- Movilidad: capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal y la sustentabilidad;
 
 XXXII.- Ordenamiento Territorial de los Asentamientos Humanos: el ordenamiento territorial es una política pública que tiene como objeto la ocupación y utilización racional del territorio como base espacial de las estrategias de desarrollo socioeconómico y la preservación ambiental;
+
+> <small>(ADICIONADA, B.O. 31 DE OCTUBRE DE 2019)</small>
+
+XXXII BIS.- Pasos de Fauna: estructuras transversales a una vía con el objetivo de habilitar el paso seguro de fauna a los hábitats fragmentados por la construcción de infraestructura de transporte. Su funcionamiento puede estar restringido al desplazamiento de fauna o pueden compartir uso para otros propósitos como: drenaje, restitución de caminos, vías fluviales y vías pecuarias. Este tipo de pasos pueden ser superiores o inferiores a la vía;
 
 XXXIII.- Patrimonio Natural y Cultural: sitios, lugares o edificaciones con valor arqueológico, histórico, artístico, ambiental o de otra naturaleza, definidos y regulados por la legislación correspondiente;
 
@@ -468,6 +472,10 @@ a).- La red de caminos y carreteras que integran territorialmente a la región;
 b).- Las instalaciones requeridas para los medios de comunicación terrestre, aérea y marítima, así como el establecimiento de zonas de restricción;
 
 c).- Las zonas naturales de valor ecológico y paisajístico, así como la de protección de los acuíferos;
+
+> <small>(ADICIONADO, B.O. 31 DE OCTUBRE DE 2019)</small>
+
+d).- La elaboración de proyectos y construcción de pasos de fauna sobre carreteras que integran la región;
 
 V.- El establecimiento de las siguientes políticas:
 
@@ -2104,3 +2112,13 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los dieciocho días del mes de mayo del año dos mil dieciocho.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE OCTUBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 67, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
