@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2019-08-01"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -2605,6 +2605,14 @@ Los concubinos están obligados a darse alimentos, si la mujer o el varón viven
 
 Los padres están obligados a dar alimentos a sus hijos desde el momento en que son concebidos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximas en grado.
 
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2019)</small>
+
+Cuando se declare judicialmente la paternidad se genera, entre otros derechos, alimentos retroactivos desde el momento de la concepción.
+
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2019)</small>
+
+De ello puede prevalerse el interesado a cualquier edad. El monto retroactivo de los alimentos será fijado por el juez.
+
 ###### Art. 358.
 
 Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
@@ -3143,6 +3151,10 @@ III. A percibir la porción hereditaria y los alimentos que fije la ley.
 
 La adopción es un acto jurídico por el cual se confiere a uno o varios menores o incapacitados, aún cuando éstos sean mayores de edad, la posesión de estado de hijo del o de los adoptantes y a éstos los deberes inherentes a la relación de parentesco.
 
+> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 2019)</small>
+
+La adopción es también un derecho del menor o incapacitado de naturaleza restitutiva que le garantiza vivir, crecer y desarrollarse de manera plena, en el seno de una familia.
+
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 1996)</small>
 
 ###### Art. 447.
@@ -3227,9 +3239,9 @@ La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Est
 
 La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá autorizar a otras instituciones públicas y a asociaciones civiles constituidas legalmente, a que tengan en custodia a menores susceptibles de ser adoptados, a realizar la preparación psicológica para adoptar y a colaborar en la integración del expediente para emitir el certificado de idoneidad previa conformidad que aquella manifieste con la adopción correspondiente, cuando satisfagan los requisitos contemplados en la normativa que la Procuraduría establezca, la que al menos incluirá: la exigencia del cumplimiento de todas las disposiciones legales y normativas aplicables para su apertura y funcionamiento; contar con un programa de adopciones; las características y forma de comprobación de la solvencia patrimonial y técnica de las instituciones a autorizar, así como moral para el caso de instituciones privadas, incluyendo de quienes las conforman y de sus directivos; y las condiciones adecuadas que deben guardar su personal, al igual que instalaciones y servicios para el modelo de atención. Dicha normativa también contemplará la temporalidad de la autorización; las características, periodicidad y modalidades de las verificaciones obligatorias a las organizaciones autorizadas, para renovar la autorización; la periodicidad de los registros e informe de las niñas, niños y adolescentes susceptibles de adopción;
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2019)</small>
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá autorizar familias de acogimiento preadoptivo para que acoja provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, conforme a los procedimientos que prevea el reglamento respectivo; la que asumirá todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez. Asimismo se preverá en el Reglamento el procedimiento de reincorporación de los menores al Sistema Estatal de Protección que corresponda.
+La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato podrá autorizar familias de acogimiento preadoptivo para que acoja provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, conforme a los procedimientos que prevea el reglamento respectivo; la que asumirá todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez. Asimismo, se preverá en el Reglamento el procedimiento de reincorporación de los menores al Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato. El Juez deberá valorar para aprobar la adopción, el tiempo que el menor ha pasado y los lazos afectivos generados con quienes pretenden adoptarlo;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
@@ -17552,3 +17564,15 @@ Procesos de entrega recepción
 Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
 
 El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 1 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 98, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL ÚLTIMO PÁRRAFO DE LA FRACCIÓN II DEL ARTÍCULO 451; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 446 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 1 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 99, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 357 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
