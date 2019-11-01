@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2019-07-01"
+last_updated: "2019-11-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1327,7 +1327,9 @@ IV. De Desarrollo Urbano y Ordenamiento Ecológico Territorial;
 
 V. De Salud Pública y Asistencia Social;
 
-VI. De Educación, Cultura, Recreación y Deporte;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2019)</small>
+
+VI. De Educación, Cultura, Juventud y Deporte;
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -1447,23 +1449,39 @@ IV. Solicitar y obtener de los demás titulares de las dependencias y entidades 
 
 V. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO ACÁPITE, P.O. 1 DE NOVIEMBRE DE 2019)</small>
 
-Atribuciones de la comisión de Educación, Cultura, Recreación y Deporte
+Atribuciones de la comisión de Educación, Cultura, Juventud y Deporte
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 83
 
-7. La Comisión de Educación, Cultura, Recreación y Deporte tendrá las siguientes atribuciones:
+7. La Comisión de Educación, Cultura, Juventud y Deporte tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 I. Coadyuvar con los gobiernos federal y estatal en el cumplimiento de las disposiciones que en materia de educación establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, esta Ley u otros ordenamientos aplicables;
 
-II. Fomentar acciones en favor de la cultura, la recreación y el deporte;
+> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2019)</small>
+
+II. Fomentar acciones en favor de los habitantes del municipio en materia de educación, cultura, juventud, recreación y deporte;
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
 
 III. Revisar y opinar sobre los proyectos de reglamentos de su competencia;
 
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
 IV. Solicitar y obtener de los demás titulares de las dependencias y entidades de la administración pública municipal, la información necesaria para el cumplimiento de sus funciones; y
 
-V. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 1 DE NOVIEMBRE DE 2019)</small>
+
+V. Revisar, opinar y supervisar las acciones de los organismos municipales de educación, cultura, juventud y deporte; y
+
+> <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2016)</small>
+
+VI. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -4426,3 +4444,15 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de
 Expedición de disposiciones reglamentarias de la Ley
 
 Artículo Segundo. Los Ayuntamientos contarán con un periodo de 90 días posteriores a la entrada en vigor del presente Decreto, para adecuar sus reglamentos, en congruencia con el mismo.
+
+P.O. 1 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 97, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 83 FRACCIÓN VI Y EL 83-7 PÁRRAFO PRIMERO Y FRACCIÓN II; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 83-7 PASANDO LA ACTUAL FRACCIÓN V A SER VI, DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos del Estado contarán con un término de noventa días naturales para adecuar sus reglamentos, en congruencia con el presente Decreto.
