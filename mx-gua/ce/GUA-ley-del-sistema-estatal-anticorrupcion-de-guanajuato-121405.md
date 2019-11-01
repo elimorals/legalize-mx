@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-estatal-anticorrupcion-de-guanajuato-121405"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-16"
-last_updated: "2017-05-16"
+last_updated: "2019-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Segunda Parte al Número 78 del Periódico Oficial del Estado de Guanajuato, el martes 16 de mayo de 2017.
 
@@ -289,7 +289,9 @@ Los integrantes del Comité de Participación Ciudadana estarán sujetos al rég
 
 En relación con el párrafo anterior, le serán aplicables las obligaciones de confidencialidad, secrecía, resguardo de información, y demás aplicables por el acceso que llegaren a tener a las plataformas digitales de la Secretaría Ejecutiva y demás información de carácter reservado y confidencial.
 
-En la conformación del Comité de Participación Ciudadana se procurará que prevalezca la equidad de género.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2019)</small>
+
+En la conformación del Comité de Participación Ciudadana se respetará la equidad de género de manera de que en ningún caso podrán ser más de tres ciudadanos de un mismo género.
 
 ###### Artículo 20.
 
@@ -301,7 +303,9 @@ a) Convocará a las instituciones de educación superior y de investigación, pa
 
 b) Convocará a organizaciones de la sociedad civil especializadas en materia de fiscalización, de rendición de cuentas y combate a la corrupción, para seleccionar a cuatro miembros, en los mismos términos del inciso anterior.
 
-El cargo de miembro de la comisión de selección será honorario. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la comisión de selección.
+> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 2019)</small>
+
+En la integración de la Comisión se respetará la equidad de género de manera que en ningún caso podrá ser mas de cinco ciudadanos de un mismo género. El cargo de miembro de la Comisión de Selección será honorífico. Quienes funjan como miembros no podrán ser designados como integrantes del Comité de Participación Ciudadana por un periodo de seis años contados a partir de la disolución de la comisión de selección.
 
 II. La comisión de selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública estatal dirigida a toda la sociedad en general, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
@@ -842,3 +846,11 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 GUSTAVO RODRÍGUEZ JUNQUERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 96, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 19, QUINTO PÁRRAFO Y 20, FRACCIÓN I, SEGUNDO PÁRRAFO DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
