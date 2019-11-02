@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-gobierno-del-7000
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-28"
-last_updated: "2019-08-03"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Oaxaca, el 28 de diciembre de 1963.
 
@@ -631,6 +631,14 @@ Podrán gozar de las licencias señaladas, de manera continua o discontinua, una
 
 Respecto a licencias por otros motivos, podrán hacer uso de ellas sin goce de sueldo hasta por tres meses en un año.
 
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 68 Bis.
+
+Los empleados al servicio de los Poderes del Estado de Oaxaca, tendrán derecho a que se les conceda licencia de paternidad por cinco días laborables con goce de sueldo, contados a partir del día de nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante.
+
+En caso de enfermedad grave del infante recién nacido, así como de complicaciones graves de salud que pongan en riesgo la vida de la madre, la licencia de paternidad podrá extenderse por un periodo de cinco días hábiles continuos.
+
 ## TITULO QUINTO.
 
 ### CAPITULO PRIMERO.
@@ -926,3 +934,9 @@ P.O. 3 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 658: MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 784.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL GOBIERNO DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación.
