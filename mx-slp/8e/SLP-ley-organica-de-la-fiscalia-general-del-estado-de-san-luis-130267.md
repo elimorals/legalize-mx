@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-fiscalia-general-del-estado-de-san-luis-1302
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-20"
-last_updated: "2019-03-21"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de agosto de 2018.
 
@@ -525,7 +525,9 @@ VIII. Proponer al Ejecutivo Estatal los proyectos de iniciativas de ley o de las
 
 IX. Comparecer ante el Congreso del Estado, a citación de éste, para informar cuando se discuta una ley o se estudie un negocio concerniente a las actividades de la Fiscalía General. En estas comparecencias y bajo su responsabilidad, podrá reservarse la información que ponga en riesgo alguna investigación, o aquella que conforme a la ley se encuentre sujeta a reserva;
 
-X. Comparecer ante la Legislatura del Estado para rendir informe anual de actividades de la Fiscalía General del Estado, dentro de los primeros tres meses del año posterior a aquel que se informa;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+X. Comparecer ante la Legislatura del Estado para rendir informe anual de actividades de la Fiscalía General del Estado, dentro de los treinta días posteriores a la entrega del informe escrito que señala el artículo 122 TER de la Constitución del Estado;
 
 XI. Aprobar el anteproyecto de presupuesto anual de la Fiscalía General elaborado por el Director General de Administración;
 
@@ -1426,3 +1428,11 @@ P.O. 21 DE MARZO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0293.- SE REFORMA EL ARTÍCULO 122 TER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
