@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-ixtlahuacan-colima-26793"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-08-24"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1865,13 +1865,13 @@ d) Por la expedición de autorizaciones de funcionamiento en horario extraordina
 
 27.- Tiendas departamentales 1.50 a 5.00
 
-> <small>(ADICIONADO, P.O. 6 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-28.- Tiendas de conveniencia 1.50
+28.- Tiendas de Conveniencia 1.00 a 10.00
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
-29.-Venta de ponche 0.25 a 1.50
+29.- Venta de ponche 0.25 a 1.50
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
@@ -2743,9 +2743,13 @@ UMA
 
 I. Venta de lotes en propiedad, por metro cuadrado:
 
-a) Sección antigua 4.88
+a) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2019)
 
-b) Sección nueva 4.88
+b) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2019)
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+c) Lotes de terreno en cementerio urbano por metro cuadrado 12.00
 
 II. Construcción y venta de gavetas para fosas en el cementerio según contrato;
 
@@ -3184,3 +3188,9 @@ P.O. 24 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 123 POR EL QUE SE REFORMA LA FRACCIÓN XI, DEL ARTÍCULO 21; Y SE DEROGAN LAS FRACCIONES XII, XIII Y XIV, DEL ARTÍCULO 21, Y EL ARTICULO 30, TODOS DE LA LEY DE HACIENDA PARA CADA MUNICIPIO: ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MANZANILLO, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ”.]
 
 ÙNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 154 POR EL QUE SE REFORMA EL ARTÍCULO 81, INCISO D), NUMERAL 28; SE ADICIONA EL INCISO C) A LA FRACCIÓN I, Y SE DEROGAN LOS INCISOS A) Y B), DE LA FRACCIÓN I, DEL ARTICULO 111, DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
