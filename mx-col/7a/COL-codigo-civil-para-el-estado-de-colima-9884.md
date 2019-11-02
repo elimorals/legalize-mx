@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2019-07-20"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1053,6 +1053,10 @@ ART. 81.- La omisión del registro, en el caso del artículo que precede, no qui
 
 ART. 82.- En el acta de reconocimiento hecha con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
 
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+El reconocimiento hecho con posterioridad al nacimiento, administrativamente actualiza su identidad y relación filial en los demás actos y hechos del estado civil en que hubiere intervenido, mediante los procedimientos de aclaración y complementación de actas.
+
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 83.- Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el oficial del Registro Civil que autorice el acta de reconocimiento remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva e incorporarla al archivo físico y en la base de datos.
@@ -1391,71 +1395,61 @@ ART. 133.- Cuando se recobre la capacidad legal para administrar, se presente la
 
 ### CAPITULO X BIS. De la rectificación, nulidad, aclaración, complementación y Rectificación administrativa de las actas del Estado Civil
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-ART. 134.- La rectificación o modificación de las actas que se encuentran en los archivos físicos o electrónicos del Registro Civil, procede cuando se solicite variar el nombre de las personas que intervienen en el acta, o algún otro acto esencial y solamente podrá ser ordenada por la autoridad judicial o resolución administrativa emitida por la Dirección General del Registro Civil, salvo el reconocimiento que voluntariamente haga un padre respecto de su hijo. El cual se sujetará a las prescripciones de este Código.
+ART. 134.- Las actas del estado civil que se encuentran en los archivos físicos o electrónicos del Registro Civil podrán ser anuladas, rectificadas o modificadas por resolución emitida por autoridad jurisdiccional competente, en los siguientes casos:
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
+I. La nulidad de las actas del Registro Civil, sólo podrá ser decretada cuando se compruebe que el acto registrado no pasó, existan dos o más registros de un mismo acto o se está en los casos de nulidades de matrimonio decretado conforme a este Código por la autoridad judicial.
 
-La nulidad de las Actas del Registro Civil sólo podrá ser decretada por la autoridad judicial cuando se compruebe que el acto registrado no pasó o se está en los casos de nulidades de matrimonio decretado conforme a este Código por la autoridad judicial.
+Declarada la nulidad, el Juez remitirá copia de la resolución a la Dirección General del Registro Civil a efecto de que proceda a ordenar la anotación en el acta correspondiente, cuidando que la misma anotación se haga en los tantos que obran en los archivos de la Oficialía del Registro Civil; y
 
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+II. La rectificación o modificación de las actas del estado civil, por vía judicial, procederá en los casos siguientes:
 
-Sólo procederá por resolución judicial, la modificación del nombre a que se refiere el primer párrafo de este artículo, en los casos siguientes:
+a) En los casos de desconocimiento o reconocimiento de la paternidad o maternidad y de la adopción, de conformidad con lo previsto en este Código;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+b) En el caso de lo dispuesto por la fracción III del artículo 134 Bis de este Código;
 
-I. Cuando el nombre propio impuesto a una persona le cause afrenta;
+c) Cuando se resuelva improcedente la rectificación administrativa; y
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+d) Cualquiera de los demás casos no previstos en la vía administrativa.
 
-II. En los casos de desconocimiento o reconocimiento de la paternidad o maternidad y de la adopción, de conformidad con lo previsto en este Código; y
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+ART. 134 BIS.- Las actas del estado civil que se encuentran en los archivos físicos o electrónicos del Registro Civil del Estado podrán ser aclaradas, complementadas o rectificadas a través de procedimiento administrativo seguido ante la Dirección General del Registro Civil, mediante el cual emita resolución administrativa que así lo ordene, en los términos del presente artículo y del Reglamento de la materia, en las siguientes hipótesis:
 
-III.- Cuando una persona es conocida con nombre diferente al que aparece en su acta de nacimiento, a fin de adaptarlo a su realidad social.
+I. La aclaración procede, cuando en ellas existan errores de escritura, mecanográficos, ortográficos, numéricos y otros meramente accidentales, siempre y cuando resulten obvios;
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+II. La complementación o ampliación procede, cuando del contenido del acta del estado civil se desprendan de manera indubitable datos y circunstancias, relacionadas directamente con la persona registrada, que en su oportunidad no hayan sido correctamente definidos y determinados, o que no se hayan levantado en formatos autorizados; y
 
-Declarada la modificación o rectificación, en los casos que establece este ordenamiento, se asentará la misma en el acta de nacimiento, subsistiendo en los libros del Registro Civil los datos de la persona que primeramente se haya asentado. La copia certificada del acta rectificada le servirá al interesado para aclarar su identidad ante todo tipo de autoridades.
+III. La rectificación por vía administrativa procede cuando se solicite variar el nombre de la persona registrada o nombres de las personas que intervinieron en el acto o alguna otra característica esencial de la identidad de la persona; excepto cuando dicha corrección implique cambio a derechos y obligaciones relacionadas con la filiación y el parentesco o cuando éstas tengan su origen en sentencias judiciales, en estos casos, dichos cambios deberán solicitarse ante la autoridad jurisdiccional que corresponda.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+La rectificación de acta por vía administrativa procederá en los siguientes supuestos:
 
-La rectificación, nulidad, aclaración o complementación del cambio de nombre de una persona no liberan ni eximen a ésta de responsabilidades, derechos y obligaciones contraídas o tenga actualmente con el nombre o apellido anterior.
+a) Cuando una persona sea conocida con nombre diferente al que aparece en su acta de nacimiento, a fin de adaptarlo a su realidad social, derivado del uso invariable y constante de otro diverso en su vida social y jurídica, sin que se afecten los apellidos;
 
-> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2008)</small>
+b) Cuando el nombre propio impuesto a una persona le cause afrenta a su dignidad humana como consecuencia de la exposición al ridículo; y
 
-ART. 134 BIS.- El procedimiento administrativo mediante el cual, la Dirección General del Registro Civil emitirá la resolución administrativa que ordene la rectificación de un acta del estado civil, se sustentará en solicitud que tenga como finalidad la aclaración del acta que corresponda para corregir en ella errores mecanográficos, o cuando se trate de complementar o ampliar los datos contenidos en la misma, siempre que las circunstancias origen de la aclaración aparezcan del contenido del propio instrumento, y no sean modificados sus elementos esenciales.
+c) En los casos de homonimia, si le causa perjuicio moral o económico.
 
-El procedimiento administrativo ante la Dirección General del Registro Civil, se sujetará a las siguientes reglas:
+La aclaración y complementación se tramitará y resolverá en un plazo no mayor a tres días hábiles. La rectificación se tramitará y resolverá en un plazo no mayor a quince días hábiles. En todos los casos, la Dirección General del Registro Civil informará de su resolución a la Oficialía del Registro Civil competente, al Archivo Estatal del Registro Civil, así como al Registro Nacional de Población e Identificación Personal, para que se hagan las anotaciones que correspondan.
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+Declarada la aclaración, complementación o rectificación, en los casos que establece este Código, se asentará la misma en el acta de nacimiento, subsistiendo en los libros del Registro Civil los datos de la persona que primeramente se haya asentado. La copia certificada del acta con la anotación que recaiga a ésta le servirá al interesado para aclarar su identidad ante todo tipo de autoridades.
 
-I.- Se iniciará con la sola comparecencia del interesado de manera verbal o por escrito, ante la Dirección General del Registro Civil o, ante la Oficialía del Registro Civil que corresponda, para lo cual será necesario exhibir el acta del estado civil respectiva, las pruebas que aporte, haciéndose constar la concurrencia del interesado;
+Una vez resuelta y asentada la aclaración, complementación o rectificación, el dato que corresponda no podrá ser objeto de modificación posterior por vía administrativa, sino mediante la autoridad jurisdiccional competente. Tampoco podrá modificarse si la misma tuvo su origen en sentencia judicial. No obstante, sólo procederá la modificación mediante fe de erratas cuando haya inconsistencias en la anotación con relación a la resolución correspondiente.
 
-II.- En caso de que comparezca ante la Oficialía a que se refiere la fracción anterior, ésta sin más trámite, remitirá a la Dirección General del Registro Civil a la mayor brevedad posible dependiendo de la facilidad en las comunicaciones o dentro de las veinticuatro horas siguientes, la constancia de comparecencia del interesado junto con el acta cuya rectificación se solicita;
+La rectificación, nulidad, aclaración o complementación del cambio de nombre de una persona no liberan ni eximen a ésta de responsabilidades, derechos u obligaciones contraídas o que tenga actualmente con el nombre o apellido anterior; en todo caso, la nueva identidad de la persona debe asentarse en los demás actos del estado civil en que participe.
 
-III.- Recibida la solicitud, el Director General del Registro Civil resolverá lo que proceda dentro de un plazo de tres días hábiles, comunicándola de inmediato al Oficial del Registro Civil que corresponda para que realice las anotaciones marginales a que haya lugar dentro de veinticuatro horas siguientes y notifique al interesado;
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-IV.- La resolución que se dicte podrá ser impugnada por el interesado, en los términos de la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios;
+ART. 135.- El procedimiento administrativo ante la Dirección General del Registro Civil previsto en el artículo 134 Bis de este Código, se sujetará a las siguientes reglas:
 
-V.- Cualquier tercero podrá demandar en juicio ordinario, en cualquier tiempo del Oficial y el Director del Registro Civil involucrados y de quienes se hubiesen aprovechado de la aclaración o modificación del acta respectiva, la anulación de la resolución definitiva dictada en los términos del párrafo anterior. En estos casos, con la sola presentación de la demanda se suspenderán los efectos de la declaratoria administrativa y se mandará prevenir al interesado, bajo el apercibimiento de la pena que corresponda por el delito de desacato a la autoridad, que se abstenga de utilizar copias certificadas del acta respectiva donde no aparezca la anotación del juicio.
+I. Se iniciará con la sola comparecencia de cualquiera del interesado o de quien acredite tener interés jurídico, en términos de lo previsto en el artículo 136 de este Código, de manera verbal o por escrito ante la Dirección General del Registro Civil, para lo cual será necesario exhibir el acta del estado civil respectiva resguardada en la oficialía y en el Archivo Central, las pruebas que aporte, haciéndose constar la personalidad y concurrencia del interesado;
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
+II. Recibida la solicitud, el Director General del Registro Civil resolverá lo que proceda dentro del plazo previsto en el segundo párrafo del artículo 134 Bis de este Código, comunicándola de inmediato al Oficial del Registro Civil que corresponda para que realice las anotaciones marginales a que haya lugar dentro de veinticuatro horas siguientes y notifique al interesado;
 
-ART. 135.- La aclaración de Actas del Estado Civil de las personas procede cuando en ellas existan errores mecanográficos u ortográficos o de ambas especies que no afecten los datos esenciales de las mismas.
+III. La resolución que se dicte podrá ser impugnada por el interesado, en los términos de la Ley de Procedimiento Administrativo del Estado de Colima y sus Municipios; y
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1996)</small>
-
-Se tramitará este recurso por la autoridad administrativa que señale el Reglamento de la materia, resolviéndose de plano y ordenando la aclaración respectiva, que se comunicará lo mismo a la Oficialía del Registro Civil correspondiente, al Archivo Estatal del Registro Civil como a la Dirección General del Registro Nacional de Población, para que se hagan las anotaciones que correspondan.
-
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1996)</small>
-
-También procede la complementación de las actas del estado civil, respecto de aquellas que contengan imprecisiones o que no se hayan levantado en formatos debidamente preimpresos, siempre que de las mismas se desprenda de manera indubitable datos y circunstancias que se relacionen directamente con la persona registrada.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JUNIO DE 1996)</small>
-
-El Congreso del Estado expedirá las bases conforme a las cuales el Director o los Oficiales del Registro Civil podrán efectuar dicha complementación y expedir las copias certificadas correspondientes.
+IV. Cualquier tercero podrá demandar en juicio ordinario, en cualquier tiempo del Oficial y el Director General del Registro Civil involucrados y de quienes se hubiesen aprovechado de la aclaración o modificación del acta respectiva, la anulación de la resolución definitiva dictada en los términos de la fracción anterior. En estos casos, con la sola presentación de la demanda se suspenderán los efectos de la declaratoria administrativa y se mandará prevenir al interesado, bajo el apercibimiento de la pena que corresponda por el delito de desacato a la autoridad, que se abstenga de utilizar copias certificadas del acta respectiva donde no aparezca la anotación del juicio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2019)</small>
 
@@ -1525,35 +1519,25 @@ IV. Manifestar el nombre completo y los datos registrales asentados en el acta p
 
 V. Manifestar el nombre solicitado sin apellidos y, en su caso, el género solicitado.
 
-ART. 136.- Pueden pedir la rectificación de un acta del estado civil:
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-I.- Las personas de cuyo estado se trata;
+ART. 136.- Pueden promover la rectificación, modificación o la nulidad de las actas de los hechos o actos del estado civil, ya sea por vía judicial o administrativa:
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+I. La persona de cuya acta del estado civil se trata;
 
-II.- Las personas que se mencionan en el acta como relacionadas con el estado civil de alguno;
+II. Las personas que se mencionen en el acta como relacionadas con el estado civil de la persona registrada, sólo en cuanto a sus datos se refiere;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+III. Los herederos de las personas comprendidas en las dos fracciones anteriores, o por conducto del albacea;
 
-III.- Los herederos de las personas comprendidas en las dos fracciones anteriores;
+IV. Los tutores o personas que ejerzan la patria potestad o tutela de los menores e incapaces;
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+V. En el caso de los procedimientos administrativos, los terceros que se apersonen en términos del artículo 44 de este Código; y
 
-IV.- Los que, según los artículos 348, 349 y 350, pueden continuar o intentar la acción de que en ellos se trata;
+VI. Las demás personas a las que la ley concede expresamente esta facultad.
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-V.- El padre, la madre o quien ejerza la patria potestad del menor de doce años de edad o del incapaz; y
-
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
-
-VI.- La persona menor de dieciocho pero mayor de doce años de edad, con el consentimiento de su padre, de su madre, de su representante legal, o en su caso, de la persona o institución que lo tuviere a su cargo.
-
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2016)</small>
-
-En caso de que la registrada o el registrado tengan dos o más nombres en el sustantivo propio, sólo surtirá efecto en el sustantivo propio que sea peyorativo ó denotativo.
-
-ART. 137.- El juicio de rectificaciones de acta se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+ART. 137.- El juicio de rectificación, de modificación o de nulidad de actas se seguirá en la forma que se establezca en el Código de Procedimientos Civiles para el Estado de Colima.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 1989)</small>
 
@@ -1872,6 +1856,10 @@ ART. 196.- El abandono injustificado por más de tres meses del domicilio conyug
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
 Los bienes adquiridos individualmente por los cónyuges desde el día de la separación física libremente consentida y con el ánimo de concluir el matrimonio, no formarán parte del caudal de la sociedad conyugal, salvo convenio expreso que establezca lo contrario.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+ART. 196 BIS.- Desde el momento en que se ejerza la violencia económica y/o patrimonial contra uno de los cónyuges, cesarán los efectos de la sociedad conyugal en cuanto le favorezcan al cónyuge agresor, y éstos no podrán comenzar de nuevo sino por convenio expreso.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2016)</small>
 
@@ -11700,3 +11688,11 @@ P.O. 20 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 101 POR EL QUE SE REFORMAN LOS ARTÍCULOS 60 SEGUNDO PÁRRAFO, 80, 98, EN SU FRACCIÓN IV PRIMER Y TERCER PÁRRAFOS, 308, FRACCIÓN I, 311 BIS, 1546 Y 2485, FRACCIÓN V; SE ADICIONAN UN TERCER PÁRRAFO AL ARTÍCULO 164, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2445 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2485; Y SE DEROGAN LOS ARTÍCULOS 62, 64, FRACCIÓN V DEL ARTÍCULO 156 Y 243, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 147 POR EL QUE SE REFORMAN LOS ARTÍCULOS 134, 134 BIS, 135, 136 Y 137; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 82 Y EL ARTÍCULO 196 BIS, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA, ADEMÁS, SE ADICIONA LA FRACCIÓN XVIII TER AL ARTÍCULO 48 DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Poder Ejecutivo del Estado contará con un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, para que lleve a cabo las reformas reglamentarias que se deriven de éste, así como las que se requieran al sistema del Registro Civil.
