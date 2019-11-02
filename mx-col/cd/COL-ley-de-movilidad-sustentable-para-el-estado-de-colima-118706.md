@@ -4,7 +4,7 @@ identifier: "COL-ley-de-movilidad-sustentable-para-el-estado-de-colima-118706"
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-30"
-last_updated: "2019-09-18"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Especial Extraordinaria al Número 7 del Periódico Oficial del Estado de Colima, el lunes 30 de enero de 2017.
 
@@ -157,7 +157,9 @@ Jerarquía de la movilidad
 
 1. La Administración Pública Estatal y las municipales proporcionarán los medios necesarios para que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes, servicios y oportunidades que ofrece el Estado y sus municipios. Para el establecimiento de la política pública en la materia se considerará el nivel de vulnerabilidad de los usuarios, las externalidades que genera cada modo de transporte y su contribución a la productividad. Se otorgará prioridad en la utilización del espacio vial y se valorará la distribución de recursos presupuestales de acuerdo a la siguiente jerarquía de movilidad:
 
-I. Peatones, en especial personas con alguna discapacidad o movilidad limitada y otros sectores de la población con necesidades especiales como: población infantil, adultos en plenitud y mujeres en periodo de gestación;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+I. Peatones, en especial personas con alguna discapacidad o movilidad limitada y otros sectores de la población con necesidades especiales como: población infantil, adultos mayores y mujeres en periodo de gestación;
 
 II. Ciclistas;
 
@@ -333,7 +335,9 @@ XLVII. Funcionalidad de la vía pública: Al uso adecuado y eficiente de la vía
 
 XLVIII. Gafete de Chofer de Servicio Público: Al documento oficial que contiene los datos de quien conduce un vehículo de transporte de pasajeros en sus distintas modalidades que permite la conducción de un vehículo de esa naturaleza en el territorio del Estado;
 
-XLIX. Grupo Vulnerable: A los sectores de la población que por cierta característica puedan encontrar barreras para ejercer su derecho a la movilidad, tales como población de bajos ingresos, indígenas, personas con discapacidad, adultos en plenitud, mujeres en estado de gestación, y población infantil y demás personas que por su condición particular padezcan exclusión social;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+XLIX. Grupo Vulnerable: A los sectores de la población que por cierta característica puedan encontrar barreras para ejercer su derecho a la movilidad, tales como población de bajos ingresos, indígenas, personas con discapacidad, adultos mayores, mujeres en estado de gestación, y población infantil y demás personas que por su condición particular padezcan exclusión social;
 
 L. Hecho de tránsito: Al evento producido por el tránsito vehicular, en el que interviene por lo menos un vehículo, causando lesiones o muerte de personas y/o daños materiales;
 
@@ -683,13 +687,13 @@ XXXI. Asegurar las condiciones de vigilancia y de dirección técnico administra
 
 XXXII. Vigilar y garantizar que los servicios a cargo de concesionarios y permisionarios se lleven a cabo en condiciones (sic) higiene, seguridad, calidad y eficiencia, y demás disposiciones que al efecto señale la presente ley;
 
+XXXIII. Ordenar la suspensión temporal o total del servicio cuando no reúna las condiciones de seguridad, higiene, calidad y eficiencia;
+
 (NOTA: EL 18 DE MAYO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 91/2017, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XXXIV DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
 XXXIV. MODIFICAR LOS ITINERARIOS, HORARIOS Y FRECUENCIAS PREVIAMENTE AUTORIZADAS EN ATENCIÓN AL INTERÉS PÚBLICO Y A LA DEMANDA DEL TRANSPORTE;
-
-XXXIV. Modificar los itinerarios, horarios y frecuencias previamente autorizadas en atención al interés público y a la demanda del transporte;
 
 XXXV. Vigilar el cumplimiento de las tarifas para los servicios públicos de transporte;
 
@@ -2025,7 +2029,9 @@ XXII. Vigilar que el operador de la unidad preste el servicio con cortesía, ama
 
 XXIII. Respetar las tarifas, horarios, rutas e itinerarios autorizados, así como circular por las vialidades señaladas por la autoridad;
 
-XXIV. Tratándose del transporte colectivo urbano, suburbano y foráneo, deberán destinarse para personas con discapacidad y adultos en plenitud cuando menos dos asientos por cada diez que tenga el vehículo, debiendo estar éstos situados cercanos a la puerta de acceso, los cuales deberán contener un emblema o leyenda para su identificación; preferentemente las mujeres en periodo de gestación tendrán derecho a utilizar cualquier asiento; y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+XXIV. Tratándose del transporte colectivo urbano, suburbano y foráneo, deberán destinarse para personas con discapacidad y adultos mayores cuando menos dos asientos por cada diez que tenga el vehículo, debiendo estar éstos situados cercanos a la puerta de acceso, los cuales deberán contener un emblema o leyenda para su identificación; preferentemente las mujeres en periodo de gestación tendrán derecho a utilizar cualquier asiento; y
 
 XXV. Las demás que señalen esta Ley, sus reglamentos, la concesión o el permiso y demás disposiciones legales aplicables.
 
@@ -2035,7 +2041,9 @@ Corresponsabilidad entre concesionarios, permisionarios o arrendadores con los c
 
 1. Los titulares de las concesiones, permisos o contratos de renta, sean personas físicas o morales, serán solidariamente responsables respecto al pago de la reparación del daño en cualquier tipo de siniestro o incidente de tránsito en que se vea involucrado el operador del vehículo de servicio de transporte público.
 
-2. Además tendrán la obligación de vigilar que los operadores del servicio público de transporte, brinden especial atención y auxilio a los ascensos y descensos de personas con discapacidad, adultos en plenitud, mujeres en periodo de gestación y menores de edad. Asimismo se permitirá el acceso de perros guía para invidentes, o la portación de prótesis o cualquier aparato necesario para el desplazamiento de un discapacitado, siempre que el espacio del vehículo lo haga posible.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+2. Además tendrán la obligación de vigilar que los operadores del servicio público de transporte, brinden especial atención y auxilio a los ascensos y descensos de personas con discapacidad, adultos mayores, mujeres en periodo de gestación y menores de edad. Asimismo, se permitirá el acceso de perros guía para invidentes, o la portación de prótesis o cualquier aparato necesario para el desplazamiento de un discapacitado, siempre que el espacio del vehículo lo haga posible.
 
 ###### Artículo 88.
 
@@ -3573,7 +3581,9 @@ Vehículos destinados al servicio de transporte público y especiales
 
 1. Todos los vehículos vinculados al servicio del Sistema de Transporte Público, deberán contar con la autorización de la Secretaría para poder operar en las distintas modalidades de servicio.
 
-2. Los vehículos destinados a la prestación del servicio de transporte, deberán cumplir con las especificaciones sobre antigüedad, técnicas ecológicas, físicas, antropométricas, de seguridad, de capacidad, de comodidad y especiales para usuarios convencionales, con discapacidad, mujeres en periodo de gestación y adultos en plenitud, que se establezcan en la concesión, permiso o autorizaciones especiales.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+2. Los vehículos destinados a la prestación del servicio de transporte, deberán cumplir con las especificaciones sobre antigüedad, técnicas ecológicas, físicas, antropométricas, de seguridad, de capacidad, de comodidad y especiales para usuarios convencionales, con discapacidad, mujeres en periodo de gestación y adultos mayores, que se establezcan en la concesión, permiso o autorizaciones especiales.
 
 3. Ningún vehículo destinado a la prestación del servicio de transporte público de pasajeros individual, podrá realizar sus servicios llevando a bordo a un número mayor de usuarios permitidos que el de los asientos con los que cuente. Para el caso del servicio de transporte público colectivo, podrá llevar a bordo la cantidad de usuarios prevista en el Reglamento correspondiente, dadas las características del vehículo.
 
@@ -5713,7 +5723,9 @@ I. Los estudiantes inscritos en planteles educativos incorporados a la Secretar�
 
 II. Las personas con discapacidad;
 
-III. Los adultos en plenitud o de la tercera edad de sesenta años o más; y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+III. Los adultos mayores o de la tercera edad de sesenta años o más; y
 
 IV. Los menores de tres años quedarán exentos del pago de tarifa.
 
@@ -6172,3 +6184,9 @@ P.O. 18 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 141 POR EL QUE SE REFORMA LA FRACCIÓN IV DEL NUMERAL 1 DEL ARTÍCULO 121 DE LA LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADADANA (SIC) DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
