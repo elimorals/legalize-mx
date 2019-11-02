@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2018-09-18"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -2191,7 +2191,9 @@ La Fiscalía General contará, al menos, con las fiscalías especializadas en de
 
 La ley establecerá un servicio profesional de carrera que reglamente las bases para el ingreso, permanencia, ascensos, formación, profesionalización, y actualización de los servidores públicos de la Fiscalía, regido por los principios de, legalidad, objetividad, eficiencia, mérito, profesionalismo, honradez y respeto a los derechos humanos
 
-El Fiscal General presentará anualmente a los poderes, Legislativo; y Ejecutivo, un informe escrito de sus actividades y; en su caso, comparecerá personalmente al Congreso del Estado a informar sobre su gestión.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+El Fiscal General presentaraì (sic) a los poderes, Legislativo; y Ejecutivo, un informe escrito de sus actividades, la primera quincena del mes de noviembre de cada año; con excepción del último año de su periodo constitucional, en cuyo caso deberá hacerlo la primera quincena del mes de octubre; y, en su caso, compareceráì (sic) personalmente al Congreso del Estado a la glosa del mismo, en un plazo no mayor a treinta días posteriores a la entrega del informe escrito.
 
 (REUBICADO [N. DE E. ANTES TÍTULO DECIMOPRIMERO], P.O. 2 DE OCTUBRE DE 2017)
 
@@ -3339,8 +3341,16 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 18 DE SEPTIEMBRE DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 1175.- SE REFORMA EL ARTÍCULO 138 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1175.- SE REFORMA EL ARTÍCULO 138 EN SU PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0293.- SE REFORMA EL ARTÍCULO 122 TER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
