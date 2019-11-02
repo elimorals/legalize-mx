@@ -4,7 +4,7 @@ identifier: "COL-ley-estatal-de-obras-publicas-26796"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-16"
-last_updated: "2018-12-29"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY ESTATAL DE OBRAS PUBLICAS
 
-LEY ESTATAL DE OBRAS PÚBLICAS
+LEY ESTATAL DE OBRAS PÚBLICAS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 16 de noviembre de 2002.
 
@@ -35,7 +35,7 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN II Y 39 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN NOMBRE DEL PUEBLO, Y
 
-...
+[...]
 
 Por lo antes expuesto se tiene a bien expedir el siguiente:
 
@@ -323,7 +323,9 @@ XIV. Los permisos, autorizaciones y licencias que se requieran;
 
 XV. Los estudios de investigación y rescate arqueológico o de restauración y preservación de la arquitectura, cuando se trate de obras a realizar en la cercanía de zonas arqueológicas reconocidas o declaradas como tales, así como en los centros históricos que hayan sido declarados como tales y en los edificios y lugares que tengan declaratoria como patrimonio federal, estatal y municipal;
 
-XVI. Las instalaciones públicas deberán asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas para todas las personas y deberán cumplir con las normas de diseño y señalización que se emitan, circulaciones, servicios sanitarios y demás análogas para las personas con capacidades diferentes y adultos en plenitud; y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+XVI. Las instalaciones públicas deberán asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas para todas las personas y deberán cumplir con las normas de diseño y señalización que se emitan, circulaciones, servicios sanitarios y demás análogas para las personas con capacidades diferentes y adultos mayores; y
 
 XVII. Las demás previsiones y características de los trabajos.
 
@@ -1256,3 +1258,9 @@ P.O. 29 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 603 POR EL QUE SE REFORMAN LOS ARTÍCULOS 24, EL PÁRRAFO SEGUNDO; 46, FRACCIÓN VIII; 48, FRACCIONES I Y II; 52; 60, PÁRRAFO PRIMERO; 66, PÁRRAFO PRIMERO; ASIMISMO SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 6º BIS; UNA FRACCIÓN III AL ARTÍCULO 48; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 49 DE LA LEY ESTATAL DE OBRAS PÚBLICAS; SE REFORMA LA FRACCIÓN X DEL PÁRRAFO 1 DEL ARTÍCULO 38; EL PÁRRAFO 2 DEL ARTÍCULO 48; LA FRACCIÓN XIX DEL PÁRRAFO 1 DEL ARTÍCULO 49; EL PÁRRAFO 4 DEL ARTICULO 56; Y EL PÁRRAFO 1 DEL ARTÍCULO 58; ASIMISMO SE ADICIONA LA FRACCIÓN XI AL PÁRRAFO 1 DEL ARTÍCULO 38; Y LA FRACCIÓN IV AL PÁRRAFO 4 DEL ARTÍCULO 52; TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
