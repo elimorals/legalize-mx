@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-defensoria-publica-del-estado-de-colima-104887"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-13"
-last_updated: "2017-10-07"
+last_updated: "2019-11-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento No. 6 del Periódico Oficial del Estado de Colima, el sábado 13 de diciembre de 2014.
 
@@ -137,11 +137,11 @@ VI. Los adolescentes que requieran y que tengan entre 12 años cumplidos y menor
 
 > <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
 
-VII. […] (sic) Las personas incapaces o quienes ejerzan la patria potestad de los mismos y carezcan de recursos económicos para pagar los honorarios de un defensor particular;
+VII. [...] (sic) Las personas incapaces o quienes ejerzan la patria potestad de los mismos y carezcan de recursos económicos para pagar los honorarios de un defensor particular;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Los adultos en plenitud; y
+VIII. Los adultos mayores; y
 
 > <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2017)</small>
 
@@ -1482,3 +1482,9 @@ P.O. 7 DE OCTUBRE DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADADANA (SIC) DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
