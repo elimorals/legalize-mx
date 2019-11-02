@@ -4,7 +4,7 @@ identifier: "COL-ley-de-participacion-ciudadana-del-estado-de-colima-130712"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-29"
-last_updated: "2018-09-29"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento No. 1 al Número 71 del Periódico Oficial del Estado de Colima, el sábado 29 de septiembre de 2018.
 
@@ -701,9 +701,11 @@ Es responsabilidad de los Ayuntamientos definir las partidas presupuestales y pr
 
 Las autoridades que administren los recursos públicos sujetos a presupuesto participativo, son responsables de la (sic) trasgresiones a las leyes o reglamentos que se ocasionen en su ejecución o administración. Tal supuesto no exime de la responsabilidad que pudiere derivarse en la acción u omisión del servidor público que tenga a su cargo la vigilancia del ejercicio del presupuesto participativo.
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 80.
 
-Los ciudadanos podrán solicitar a las autoridades todo tipo de información relativa a la ejecución o administración del presupuesto participativo; y deberán hacer partícipe de sus decisiones en la materia a las asambleas ciudadanas, juntas, asociaciones o comités ciudadanos del fraccionamiento o sector que corresponda.
+Tanto el mecanismo de votación como el lugar en que se lleve a cabo deben ser incluyentes para personas con discapacidad y adultos mayores; además de garantizar al público en general la mínima carga posible en la etapa de votación.
 
 ###### Artículo 81.
 
@@ -964,3 +966,11 @@ SECRETARIO GENERAL DE GOBIERNO
 ARNOLDO OCHOA GONZÁLEZ
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADADANA DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
