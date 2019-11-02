@@ -4,7 +4,7 @@ identifier: "COL-ley-de-desarrollo-social-para-el-estado-de-colima-62342"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2018-07-07"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 19 de julio de 2008.
 
@@ -241,7 +241,9 @@ II.- La Ley de Planeación para el Desarrollo del Estado;
 
 III.- Ley sobre el Sistema Estatal de Asistencia Social de Colima;
 
-IV.- Ley para la Protección de los Adultos en Plenitud del Estado de Colima;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+IV.- Ley para la Protección de los Adultos Mayores del Estado de Colima;
 
 V.- Ley del Instituto Colimense de las Mujeres;
 
@@ -1571,9 +1573,11 @@ m) El Secretario Ejecutivo de Seguridad Pública;
 
 n) Director del Instituto Colimense de la Mujer;
 
-o) Director del Instituto Colimense de la Discapacidad:
+o) Director del Instituto Colimense de la Discapacidad;
 
-p) Director del Instituto de Atención de los Adultos en Plenitud;
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+p) Director del Instituto de Atención de los Adultos Mayores;
 
 q) El Director del Instituto Colimense del Deporte;
 
@@ -1609,7 +1613,9 @@ i) Equidad de Género;
 
 j) Atención a Pueblos Indígenas; y
 
-k) Niñez, Juventud, Discapacidad y Adultos en Plenitud.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+k) Niñez, Juventud, Discapacidad y Adultos Mayores.
 
 Sin perjuicio de las anteriores, el Consejo Consultivo podrá integrar adicionalmente comisiones de trabajo extraordinarias, según lo requiera la atención de las necesidades que deban cubrirse en ejercicio de las atribuciones del propio Consejo.
 
@@ -2424,3 +2430,9 @@ P.O. 7 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 508 POR EL QUE SE REFORMAN LAS FRACCIONES XII, XIII Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 7; ASIMISMO SE REFORMAN LAS FRACCIONES VII, IX, X Y ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 34 BIS 15, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADADANA (SIC) DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA. JOSÉ IGNACIO PERALTA SÁNCHEZ”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
