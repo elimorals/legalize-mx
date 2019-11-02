@@ -4,7 +4,7 @@ identifier: "COL-ley-de-la-procuraduria-de-la-defensa-del-adulto-mayor-para-9584
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-07"
-last_updated: "2013-09-07"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento No. 4 del Periódico Oficial del Estado de Colima, el sábado 7 de septiembre de 2013.
 
@@ -35,7 +35,9 @@ D E C R E T O
 
 EL HONORABLE CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIERE (SIC) LOS ARTICULOS 33 FRACCION II, Y 39 DE LA CONSTITUCIÓN POLÍTICA LOCAL, EN NOMBRE DEL PUEBLO, Y
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto se expide el siguiente:
 
@@ -51,9 +53,11 @@ LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 1o.
 
-La presente Ley es de orden público e interés social y tiene por objeto crear la Procuraduría de la Defensa del Adulto Mayor, como un órgano dependiente del Instituto para la Atención al Adulto en Plenitud.
+La presente Ley es de orden público e interés social y tiene por objeto crear la Procuraduría de la Defensa del Adulto Mayor, como un órgano dependiente del Instituto para la Atención al Adulto Mayor.
 
 ###### Artículo 2o.
 
@@ -63,9 +67,11 @@ La Procuraduría de la Defensa del Adulto Mayor tendrá como objeto la atención
 
 La Procuraduría de la defensa del Adulto Mayor tendrá su domicilio legal en la Ciudad de Colima, Colima.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 4o.
 
-Para los efectos de esta ley, además de las definiciones que se contienen en la Ley para la Protección a los Adultos en Plenitud del Estado de Colima, Ley de Asistencia Social y el Reglamento de los Comités de Consulta y Participación del Bienestar Social de los Adultos en Plenitud, se entenderá por:
+Para los efectos de esta ley, además de las definiciones que se contienen en la Ley para la Protección a los Adultos Mayores del Estado de Colima, Ley de Asistencia Social y el Reglamento de los Comités de Consulta y Participación del Bienestar Social de los Adultos Mayores, se entenderá por:
 
 I. Administración Pública: Las Dependencias, Entidades Paraestatales, Organismos desconcentrados, descentralizados, fideicomisos y demás órganos con que cuente el Gobierno del Estado de Colima;
 
@@ -75,19 +81,25 @@ III. Familia: A la unidad que se integra con dos o más miembros entre los cuale
 
 IV. Ley: A la presente Ley;
 
-V. Ley para los Adultos: A Ley para la Protección de los Adultos en Plenitud del Estado de Colima;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+V. Ley para los Adultos: A (sic) Ley para la Protección de los Adultos Mayores del Estado de Colima;
 
 VI. Procuraduría: A la Procuraduría de la Defensa del Adulto Mayor;
 
 VII. Procurador: Al Procurador de la Defensa del Adulto Mayor;
 
-VIII. Instituto: Al Instituto para la Atención de los Adultos en Plenitud del Estado de Colima;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Instituto: Al Instituto para la Atención de los Adultos Mayores del Estado de Colima;
 
 IX. DIF Estatal: Al Sistema Estatal para el Desarrollo Integral de la Familia;
 
 X. DIF Municipales: A los Sistemas Municipales para el Desarrollo Integral de la Familia;
 
-XI. Comités: A los "Comités de Consulta y Participación del Bienestar Social de los Adultos en Plenitud";
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+XI. Comités: A los “Comités de Consulta y Participación del Bienestar Social de los Adultos Mayores”;
 
 XII. Maltrato: Al daño físico, mental o emocional, la explotación o el desamparo; y
 
@@ -141,7 +153,9 @@ XIV. Citar con el auxilio de la autoridad competente, la presentación de los in
 
 XV. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto en plenitud, firmándola con asistencia de dos testigos;
 
-XVI. Determinar en los casos urgentes y de manera provisional el ingreso de los adultos mayores que se encuentran en estado de peligro, abandono, desamparo, omisión de cuidado, desnutrición o sujeto a cualquier tipo de maltrato, a los albergues o instituciones públicas o privadas más convenientes, para su cuidado como medida de protección, independientemente de la denuncia ante el Ministerio Público;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+XVI. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto mayor, firmándola con asistencia de dos testigos;
 
 XVII. Emplear, para hacer cumplir sus determinaciones cualesquiera de los medios de apremio o sanciones que establece la presente Ley;
 
@@ -243,9 +257,11 @@ La Procuraduría podrá iniciar investigaciones de oficio relacionadas con cualq
 
 ### CAPITULO II. DE LA DENUNCIA Y SU PROCESO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 22.
 
-Toda persona o institución que tenga conocimiento de que un adulto en plenitud se encuentre en cualquiera de las situaciones de violación a sus derechos mencionados en la presente ley, deberá comunicarlo en forma inmediata a la Procuraduría, sin perjuicio del derecho que corresponde al adulto en plenitud de hacerlo personalmente.
+Toda persona o institución que tenga conocimiento de que un adulto mayor se encuentre en cualquiera de las situaciones de violación a sus derechos mencionados en la presente ley, deberá comunicarlo en forma inmediata a la Procuraduría, sin perjuicio del derecho que corresponde al adulto en plenitud de hacerlo personalmente.
 
 Los directores y personal médico de las instituciones de salud pública o privada, ante cualquier indicio de violencia o abuso cometido hacia los adultos mayores, estarán obligados a denunciarlo ante las autoridades competentes. Igual obligación tendrán las autoridades y personal que labore en estancias de día o permanentes.
 
@@ -493,9 +509,13 @@ IV. Si la conducta del infractor implica reincidencia.
 
 Independientemente de las sanciones que correspondan, ya sea administrativa, civil o penal, la Procuraduría podrá aplicar a patrones, funcionarios públicos o cualquier otra persona que viole o amenace con violar los derechos de las personas adultas en plenitud, lo siguiente:
 
-I. La observación por escrito acerca de la violación o amenaza contra el derecho de que se trate en el caso particular, citándolos para ser informados debidamente sobre los derechos de las personas adultas en plenitud; y
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-II. Conminarlos para que cese de inmediato la situación que viola o pone en peligro el derecho en cuestión, cuando la persona llamada no se presente en el plazo conferido para tal efecto o bien, cuando se haya presentado pero continúe en la misma situación perjudicial a la persona adulta en plenitud.
+I. La observación por escrito acerca de la violación o amenaza contra el derecho de que se trate en el caso particular, citándolos para ser informados debidamente sobre los derechos de las personas adultos (sic) mayores; y
+
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+II. Conminarlos para que cese de inmediato la situación que viola o pone en peligro el derecho en cuestión, cuando la persona llamada no se presente en el plazo conferido para tal efecto o bien, cuando se haya presentado, pero continúe en la misma situación perjudicial a la persona adulta mayor.
 
 ###### Artículo 61.
 
@@ -544,3 +564,11 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 6 seis del mes de septiembre del año 2013 dos mil trece.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
