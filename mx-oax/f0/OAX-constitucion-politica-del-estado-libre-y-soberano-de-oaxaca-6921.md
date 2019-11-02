@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-09-07"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -49,7 +49,9 @@ En el Estado todas las personas gozarán de los derechos humanos reconocidos en 
 
 La interpretación de las normas relativas a los derechos humanos, se hará conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, favoreciendo en todo tiempo a las personas la protección más amplia. Para el ejercicio de los derechos humanos y las garantías constitucionales no se exigirán condiciones o requisitos que no estén establecidos en la Constitución o la ley. Ninguna norma jurídica podrá restringir los derechos humanos ni sus garantías.
 
-Las autoridades del Estado, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad, pluriculturalidad y progresividad. El Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes. En el caso de aquellos que se reserve el pueblo de Oaxaca, serán protegidos mediante el Juicio para la Protección de los Derechos Humanos. Todas las autoridades están obligadas a que en sus determinaciones o resoluciones que pronuncien deben de aplicar el control difuso, el control de constitucionalidad y el control de convencionalidad en materia de derechos humanos.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Las autoridades del Estado, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, pluriculturalidad y progresividad. El Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes. En el caso de aquellos que se reserve el pueblo de Oaxaca, serán protegidos mediante el Juicio para la Protección de los Derechos Humanos. Todas las autoridades están obligadas a que en sus determinaciones o resoluciones que pronuncien deben de aplicar el control difuso de constitucionalidad y convencionalidad en materia de derechos humanos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -522,6 +524,10 @@ Las autoridades adoptarán las medidas necesarias para asegurar el ejercicio de 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
 Toda persona dentro del territorio del Estado, tiene derecho a vivir en un medio ambiente sano para su desarrollo, salud y bienestar. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por las leyes.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Toda persona tiene derecho a gozar de los beneficios del progreso científico de sus aplicaciones, en los términos que establezca la ley.
 
 > <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -3943,39 +3949,43 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 
 Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 138.
 
-Todos los servidores públicos del Estado y de los Municipios, de sus dependencias, así como las entidades paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+Todos los servidores públicos del Estado y de los Municipios, de sus dependencias, así como las entidades paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades y las posibilidades del Presupuesto Público del Estado o del Municipio que corresponda.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-Dicha remuneración será determinada anual y equitativamente en los Presupuestos de Egresos correspondientes, observando en todo momento el principio de austeridad, por lo que el Congreso del Estado vigilará que se cumpla con dicho principio al momento de aprobarlos, bajo las siguientes bases:
+Dicha remuneración será determinada anual y equitativamente en los Presupuestos de Egresos correspondientes, observando en todo momento el principio de austeridad, por lo que el Congreso del Estado o el Ayuntamiento, en su caso vigilarán que se cumpla con dicho principio al momento de aprobarlos, bajo las siguientes bases:
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+I.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra que el servidor público del Estado o del Municipio tenga derecho a percibir, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado o Presidente Municipal en el presupuesto correspondiente.
+II.- Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado o Presidente Municipal en el presupuesto público estatal o municipal que corresponda.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-III. Ningún servidor publico podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los términos del artículo 136 de esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado o presidente Municipal en el presupuesto correspondiente.
+Lo dispuesto en el párrafo anterior es aplicable a todos los poderes del Estado, sus órganos autónomos constitucionales o por ley, las dependencias, entidades, fideicomisos y demás ejecutores del gasto público estatal, así como a las dependencias, entidades y demás ejecutores del gasto público municipal, en su caso.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que estas se encuentren asignadas por la Ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formaran parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+III .- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico autorizado en el presupuesto público, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los términos del artículo 136 de esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función , la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Gobernador del Estado o Presidente Municipal en el presupuesto correspondiente.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivos como en especie.
+IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que estas se encuentren asignadas por la Ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo legalmente pactadas. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-Toda ministración de dinero, todo emolumento o gratificación concedida a los referidos servidores, ya sea por concepto de gastos de representación, sobresueldo, o cualquier otro, se considerará como fraude al Estado, y las leyes y las autoridades impondrán las penas correspondientes, así a quien las autorice como a quien las reciba.
+V.- Las remuneraciones por servicios personales y sus tabuladores serán públicos y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables, tanto en efectivo como en especie.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Toda ministración de dinero, todo emolumento o gratificación concedida a los referidos servidores, ya sea por concepto de gastos de representación, sobresueldo, o cualquier otro, se considerará como fraude al Estado, y las leyes y las autoridades impondrán las penas correspondientes, así a quien las autorice como a quien las reciba. Para tal efecto las autoridades legalmente facultadas iniciarán los procedimientos de acuerdo a sus facultades y darán intervención a otras para que se sancionen tales conductas y se reintegre a la hacienda pública que corresponda el monto de lo defraudado.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 162], P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -5406,3 +5416,27 @@ P.O. 7 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 754.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 786.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan y contravengan a (sic) presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 797.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 798.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado da Oaxaca.
