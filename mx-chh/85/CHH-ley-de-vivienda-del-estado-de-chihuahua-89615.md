@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vivienda-del-estado-de-chihuahua-89615"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-26"
-last_updated: "2019-03-13"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2012.
 
@@ -1183,6 +1183,22 @@ El Ejecutivo del Estado fomentará la participación de los sectores público, s
 
 Así mismo, promoverá que las tecnologías sean acordes con los requerimientos sociales, regionales y a las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+El objeto de la aplicación de las eco-tecnologías, será:
+
+I. Mejorar la calidad de vida de las y los beneficiarios.
+
+II. Elevar la eficiencia energética en la vivienda.
+
+III. Propiciar la preservación y cuidado del medio ambiente, así como de los recursos naturales, mitigando las emisiones de dióxido de carbono a la atmósfera.
+
+IV. Incrementar el valor de la vivienda.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+El Poder Ejecutivo del Estado y los municipios gestionarán apoyos, subsidios o financiamiento, para la implementación de eco-tecnologías, considerando el acondicionamiento bioclimático de las viviendas que abone al bienestar térmico y el uso eficiente de la energía. Así mismo, promoverán de manera coordinada, la difusión de información de los programas ya existentes que tengan este objeto.
+
 ###### Artículo 86.
 
 Reglamentos de construcción.
@@ -1194,6 +1210,10 @@ La Comisión Estatal promoverá que las autoridades municipales expidan y apliqu
 Uso de materiales adecuados.
 
 El Estado y los municipios promoverán el uso de materiales y productos que contribuyan a evitar efluentes y emisiones que deterioren el medio ambiente, así como aquellos que propicien ahorro de energía, uso eficiente de agua, y un ambiente más confortable y saludable dentro de la vivienda de acuerdo con las características climáticas de la región.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Se considerarán los materiales en techos y muros que por su composición garanticen niveles mínimos aceptables de bienestar térmico en los espacios interiores de la vivienda, y cumplan con los ahorros esperados, la calidad, durabilidad y eficiencia, atendiendo a las normas en la materia.
 
 ###### Artículo 88.
 
@@ -1612,3 +1632,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/0382/2019 I P.O., POR MEDIO DEL CUAL SE ADICIONAN AL ARTÍCULO 85 UN TERCER Y CUARTO PÁRRAFOS; Y AL 87 UN SEGUNDO PÁRRAFO, AMBOS DE LA LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
