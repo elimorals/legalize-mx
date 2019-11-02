@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2019-09-28"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -479,6 +479,10 @@ XIV.- Calificar los casos en que las sesiones de Cabildo sean privadas;
 
 XV.- Formular, aprobar y ejecutar los planes de desarrollo municipal y los programas de obras correspondientes;
 
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Los programas de obras públicas a que hace referencia la presente ley, tratándose de instalaciones públicas e infraestructura urbana deberán asegurar la accesibilidad, evacuación, y libre tránsito, para todas las personas con discapacidad, para ello deberán cumplir con las normas de diseño y de señalización que contengan, asimismo, se deberá de proponer las adecuaciones tanto a las instalaciones públicas como infraestructura urbana existente, a efecto de que cubran las necesidades de las personas con discapacidad.
+
 XVI.- Administrar, vigilar y evaluar la formulación e instrumentación de los planes de desarrollo urbano y los mecanismos que se requieran para la adecuada conducción del mismo, la creación de zonas territoriales, de reserva ecológica y los de alta productividad agrícola, previo dictamen de la autoridad competente;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2011)</small>
@@ -725,21 +729,21 @@ LXXXIII.- Hacer del conocimiento por escrito al Órgano Superior de Fiscalizaci�
 
 LXXXIV.- Hacer pública la información del padrón a que hace referencia la fracción anterior, dando a conocer a los asesores que mejor han cumplido con las obligaciones contraídas con los municipios, así como de aquellos que no han observado un adecuado cumplimiento;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-LXXXV.- Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos del Estado de Oaxaca;
+LXXXV. Crear la instancia Municipal de la Mujer, que será la encargada de implementar la política municipal en materia de igualdad de derechos y obligaciones entre hombres y mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXXXV], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-LXXXVI. En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
+LXXXVI. Promover la organización y preservación de los archivos municipales conforme a la Ley de Archivos del Estado de Oaxaca.
 
-Para el fortalecimiento de la cultura indígena del Estado de Oaxaca, los municipios y las agencias municipales podrán crear y organizar el Instituto Comunitario Municipal de la Lengua Indígena que corresponda a su particular comunidad, para la preservación, enseñanza, hablada y escrita de sus lenguas originarias o nativas.
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN LXXXVI], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 716, PUBLICADO EN EL P.O. DE 24 DE AGOSTO DE 2017, PÁGINA 6.]</small>
+LXXXVII. En los municipios donde se encuentren asentados pueblos indígenas, los ayuntamientos promoverán, en el marco de las prácticas tradicionales de las Comunidades y Pueblos Indígenas, el desarrollo de sus lenguas, cultura, usos, costumbres, recursos naturales y sus formas específicas de organización social, atendiendo a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Particular del Estado y la Ley de los Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-LXXXVI (SIC). Las demás que les señalen las leyes y reglamentos municipales.
+LXXXVII (SIC). Las demás que les señalen las leyes y reglamentos municipales.
 
 ###### ARTÍCULO 44.
 
@@ -917,7 +921,9 @@ IX.- Bienes Municipales y Panteones;
 
 X.- Rastro;
 
-XI.- Ecología;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+XI.- Equilibrio Ecológico y Protección al Medio Ambiente;
 
 XII.- Espectáculos;
 
@@ -2289,7 +2295,9 @@ I.- Que dichos ordenamientos respeten las garantías individuales, consagradas e
 
 II.- Que no contravengan o invadan disposiciones o competencias federales y estatales;
 
-III.- Que tengan como propósito fundamental la seguridad, el bienestar y la tranquilidad de la población;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+III.- Que tengan como propósito fundamental la seguridad, el bienestar y la tranquilidad de la población, el equilibrio ecológico y el cuidado del medio ambiente;
 
 IV.- Que su aplicación fortalezca al municipio libre;
 
@@ -2339,7 +2347,9 @@ I.- Asegurar, preservar, mantener y restablecer el orden, la seguridad y la paz 
 
 II.- Propiciar la cultura del civismo y de los deberes y derechos de los habitantes del Municipio para con la sociedad y el Gobierno Municipal;
 
-III.- Estimular el cuidado y la conservación de las calles, plazas, parques, jardines, caminos y en general del patrimonio municipal;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+III.- Estimular el cuidado y la conservación del medio ambiente, de las calle (sic) plazas, parques, jardines, caminos y en general del patrimonio municipal;
 
 IV.- Cuidar que las actividades y espectáculos públicos, privados y en general toda actividad, se realice en un clima de respeto a la comunidad y a las instituciones municipales; y
 
@@ -2351,7 +2361,9 @@ Los reglamentos municipales tendrán los siguientes propósitos generales:
 
 I.- Instrumentar la normatividad para el adecuado funcionamiento del Ayuntamiento y de la correcta administración del patrimonio municipal;
 
-II.- Establecer las bases que garanticen, en beneficio de la sociedad, la adecuada prestación de los servicios públicos municipales directamente por el Ayuntamiento ó a través de concesionarios;
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+II.- Establecer las bases que garanticen, en beneficio de la sociedad y el medio ambiente, la adecuada prestación de los servicios públicos municipales directamente por el Ayuntamiento o a través de concesionarios.
 
 III.- Estimular la participación de la comunidad en la gestión municipal; particularmente en los municipios y poblaciones que se rigen bajo el sistema de usos y costumbres, y
 
@@ -3428,3 +3440,23 @@ P.O. 28 DE SEPTIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 780.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 787.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 788.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Remite el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
