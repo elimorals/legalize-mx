@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-corporacion-oaxaquena-de-radio-y-television-en-el-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-09"
-last_updated: "2015-10-09"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE LA CORPORACION OAXAQUEÑA DE RADIO Y TELEVISION EN EL ESTADO DE OAXACA
 
-LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN
+LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 9 de octubre de 2015.
 
@@ -82,6 +82,10 @@ La CORTV tiene por objeto prestar el servicio público de radio y televisión, c
 La CORTV tendrá los siguientes objetivos:
 
 I. La planeación, elaboración, producción y transmisión de programas de radio y televisión que promuevan el desarrollo del Estado, difundan y preserven la cultura de sus pueblos, los programas educativos de las autoridades competentes y las actividades gubernamentales que en cumplimiento a disposiciones legales y al contenido del Plan Estatal de Desarrollo, realicen por conducto de dependencias y entidades del Estado:
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Las transmisiones de televisión a que se refiere ésta fracción, también deberán ser difundidas a través de la Lengua de Señas Mexicana; para garantizar el acceso a la información y comunicación para las personas con discapacidad.
 
 II. Asociarse con personas físicas o morales incluidas las de derecho social, sin fines esencialmente lucrativos, para la elaboración, producción y transmisión de programas de radio y televisión, de conformidad con las disposiciones normativas aplicables a la materia;
 
@@ -412,3 +416,13 @@ Tlalixtac de Cabrera, Centro, Oax., 05 de octubre del 2015.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 744.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
