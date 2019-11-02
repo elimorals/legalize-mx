@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-09-28"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2781,27 +2781,45 @@ a). Por el registro de siniestralidad en establecimientos comerciales, industria
 
 1.- Alta
 
-A) Nivel 1 8.00
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-B) Nivel 2 10.00
+A) Nivel 1 10.00
 
-C) Nivel 3 15.00
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+B) Nivel 2 12.00
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+C) Nivel 3 18.00
 
 2.- Media
 
-A) Nivel 1 3.50
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-B) Nivel 2 5.00
+A) Nivel 1 5.00
 
-C) Nivel 3 7.00
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+B) Nivel 2 7.00
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+C) Nivel 3 9.00
 
 3.- Baja
 
-A) Nivel 1 0.50
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-B) Nivel 2 2.00
+A) Nivel 1 1.00
 
-C) Nivel 3 3.00
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+B) Nivel 2 3.00
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+C) Nivel 3 4.50
 
 Para fijar la tarifa se deberán considerar las condiciones económicas del negocio, número de empleados y su nivel de inversión.
 
@@ -2809,9 +2827,25 @@ En caso de ser necesario, la unidad de protección civil municipal emitirá su o
 
 El pago de los derechos a que se refiere esta fracción será anual. Deberá cubrirse a la expedición de la licencia municipal de funcionamiento y en el refrendo de la misma.
 
+> <small>(ADICIONADA [N. DE E. CON SUS NUMERALES], P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+II. Actividades complementarias:
+
+Los servicios contemplados en la presente fracción se pagarán por cada día, conforme a la siguiente tarifa:
+
+UMA
+
+1. Otorgamiento de servicios de
+
+ambulancia a evento (sic) particulares de 5.00 a 10.00
+
+2. Capacitaciones 4.00
+
+3. Otros derechos no especificados de 1.00 a 10.00
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
-D).-ECOLOGÍA
+D).- ECOLOGÍA
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -3722,5 +3756,11 @@ P.O. 24 DE AGOSTO DE 2019.
 P.O. 28 DE SEPTIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 142 POR EL QUE SE REFORMA EL ARTÍCULO 81 A PARA QUE PASE A SER ARTÍCULO 81 BIS; EL INCISO D), DE LA SECCIÓN PRIMERA, CORRESPONDIENTE AL CAPÍTULO II, DEL TÍTULO CUARTO, ASÍ COMO SU DENOMINACIÓN PARA QUE PASE A SER ESTABLECIMIENTOS INDUSTRIALES, COMERCIALES Y DE PRESTACIÓN DE SERVICIOS; SE ADICIONAN LOS ARTÍCULOS 81 TER, 81 QUATER Y 81 QUINQUIES, EN EL APARTADO DEL INCISO D); EL INCISO E), A LA SECCIÓN PRIMERA, CORRESPONDIENTE AL CAPÍTULO SEGUNDO, DEL TÍTULO CUARTO, QUE CONTENDRÁ LA DENOMINACIÓN DEL ACTUAL INCISO D), DEBIÉNDOSE HACER EL CORRIMIENTO RESPECTIVO DEL CONTENIDO DE SU CONCEPTO, MONTO Y PERIODICIDAD, EL ARTÍCULO 81 SEXIES DENTRO DEL APARTADO DEL INCISO E); Y SE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 81, TODOS DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 152 POR EL QUE SE REFORMAN LOS INCISOS A), B) Y C), DE LOS NUMERALES 1, 2 Y 3, TODOS DEL INCISO A), DE LA FRACCIÓN I; Y SE ADICIONA UNA FRACCIÓN II, AL ARTÍCULO 84 DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
