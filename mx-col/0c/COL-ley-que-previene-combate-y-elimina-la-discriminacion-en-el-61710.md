@@ -4,7 +4,7 @@ identifier: "COL-ley-que-previene-combate-y-elimina-la-discriminacion-en-el-6171
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-14"
-last_updated: "2017-04-01"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial en el Estado de Colima, el sábado 14 de junio de 2008.
 
@@ -273,7 +273,9 @@ V. Negar el acceso a la educación en cualquier nivel, salvo que no se cumplan l
 
 VI. Ofender, ridiculizar, hostigar o promover la violencia en su contra a través de mensajes e imágenes en los medios de comunicación; y
 
-VII. Todas las demás que se contemplan en la legislación para la protección de los adultos en plenitud vigente en el Estado.
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+VII. Todas las demás que se contemplan en la legislación para la protección de los Adultos Mayores vigente en el Estado.
 
 ###### Artículo 13.
 
@@ -593,7 +595,9 @@ II. Promover un programa de pensiones para jubilados, las cuales no podrán ser 
 
 III. Crear programas de apoyo financiero para la construcción de estancias y albergues; y
 
-IV. Todas las demás que se contemplan en la legislación para la Protección de los Adultos en Plenitud vigente en el Estado.
+> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+IV. Todas las demás que se contemplan en la legislación para la Protección de los Adultos Mayores vigente en el Estado.
 
 ###### Artículo 23.
 
@@ -1244,3 +1248,9 @@ P.O. 1 DE ABRIL DE 2017.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 257 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA".]
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADADANA (SIC) DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
