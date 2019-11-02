@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2019-07-20"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -1469,7 +1469,11 @@ XVIII.- Por solicitud de actas o constancias que obran en las oficinas registrad
 
 > <small>(ADICIONADA, P.O. 20 DE JULIO DE 2019)</small>
 
-XVIII Bis.- Por el derecho de reconocimiento de la Identidad de Género 7.00
+XVIII BIS.- Por el derecho de reconocimiento de la Identidad de Género 7.00
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+XVIII TER.- Por el procedimiento de rectificación administrativa del nombre en las actas del Registro Civil 13.000
 
 XIX.- (DEROGADA, P.O. 26 DE NOVIEMBRE DE 2011)
 
@@ -1615,9 +1619,9 @@ IV.- Por la expedición, renovación anual o reposición de la calcomanía fisca
 
 El derecho por la renovación anual de la calcomanía fiscal vehicular, deberán pagarlo las personas físicas y morales y las unidades económicas sin personalidad jurídica, que al 1° de enero del ejercicio fiscal de que se trate, mantengan inscritos vehículos en el Registro Público Vehicular del Estado de Colima, debiéndose realizar el pago a más tardar el 31 de marzo.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-Por los conceptos a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, respecto a un vehículo que tenga en propiedad, y que este sea de uso particular.
+Por los conceptos a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos mayores, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, respecto a un vehículo que tenga en propiedad, y que éste sea de uso particular.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
@@ -1675,9 +1679,13 @@ f) Reposición de cualquier tipo de licencia 5.000
 
 g) Reimpresión de cualquier tipo de licencia 5.000
 
-Por los conceptos consignados en los incisos a), b), c), d) y e) a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente para el caso de licencias para conducir vehículos de uso particular con vigencia de cuatro años.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
 
-Las personas adultas en plenitud acreditarán ser de escasos recursos económicos mediante constancia expedida por el Instituto para la Atención de Adultos en Plenitud.
+Por los conceptos consignados en los incisos a), b), c), d) y e) a que se refiere esta fracción, las personas que acrediten ser jubilados o pensionados por una institución pública, discapacitados acreditados por una institución de salud pública y adultos mayores, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente para el caso de licencias para conducir vehículos de uso particular con vigencia de cuatro años.
+
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Las personas adultas mayores acreditarán ser de escasos recursos económicos mediante constancia expedida por el Instituto para la Atención de Adultos Mayores.
 
 Para los efectos de los derechos señalados en los incisos f) y g), se respetará únicamente el tiempo restante de la licencia materia de reimpresión o reposición. Por renovación se cobrarán las mismas cuotas que se prevén para la expedición de las licencias.
 
@@ -1911,7 +1919,9 @@ l) Por reposición de placas y tarjeta de circulación por canje:
 
 3.- Canje por término del periodo de vigencia de las placas 12.000
 
-Por los conceptos consignados en los incisos a), b), c), d), e) y h), las personas que acrediten ser jubiladas o pensionadas por una institución pública, discapacitados acreditados por una institución de salud pública y adultos en plenitud, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente respecto a un sólo vehículo del que acredite ser propietario y que éste sea de uso particular.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+Por los conceptos consignados en los incisos a), b), c), d), e) y h), las personas que acrediten ser jubiladas o pensionadas por una institución pública, discapacitados acreditados por una institución de salud pública y adultos mayores, tendrán derecho a un descuento del 50 por ciento de la cuota establecida, únicamente respecto a un sólo vehículo del que acredite ser propietario y que éste sea de uso particular.
 
 VIII (SIC). Por reposición de placas de circulación, por robo, extravío o deterioro:
 
@@ -6354,3 +6364,17 @@ P.O. 20 DE JULIO DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Dentro de un término de 30 días naturales siguientes a la publicación de este Decreto, las y los ciudadanos interesados en formalizar el derecho de reconocimiento de la identidad de Género gozarán de gratuidad en el trámite respectivo, ante la Dirección Estatal del Registro Civil del Estado de Colima, y de gratuidad igualmente ante las Oficialías del Registro Civil de los 10 diez Ayuntamientos del Estado de Colima, con motivo del levantamiento del acta para el reconocimiento de identidad de género.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 147 POR EL QUE SE REFORMAN LOS ARTÍCULOS 134, 134 BIS, 135, 136 Y 137; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 82 Y EL ARTÍCULO 196 BIS, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA, ADEMÁS, SE ADICIONA LA FRACCIÓN XVIII TER AL ARTÍCULO 48 DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- El Poder Ejecutivo del Estado contará con un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, para que lleve a cabo las reformas reglamentarias que se deriven de éste, así como las que se requieran al sistema del Registro Civil.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 148 POR EL QUE SE REFORMAN CON LA FINALIDAD DE ARMONIZAR EL TÉRMINO DE ADULTO MAYOR EN SUSTITUCIÓN DEL TÉRMINO ADULTO EN PLENITUD EN LA LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE COLIMA, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE COLIMA, LEY DE HACIENDA PARA EL ESTADO DE COLIMA, LEY DE MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COLIMA, LEY ESTATAL DE OBRAS PÚBLICAS, LEY DE PARTICIPACIÓN CIUDADADANA DEL ESTADO DE COLIMA, LEY QUE PREVIENE, COMBATE Y ELIMINA LA DISCRIMINACIÓN EN EL ESTADO DE COLIMA Y LEY DE LA PROCURADURÍA DE LA DEFENSA DEL ADULTO MAYOR PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
