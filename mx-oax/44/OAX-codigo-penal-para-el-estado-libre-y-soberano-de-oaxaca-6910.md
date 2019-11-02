@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2019-10-24"
+last_updated: "2019-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1791,6 +1791,36 @@ Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confian
 
 206.- Para la individualización de las sanciones previstas en este Título, el juez tomará en cuenta, en su caso, el nivel jerárquico del servidor público y el grado de responsabilidad del encargo, su antigüedad en el empleo, sus antecedentes de servicio, sus percepciones, su grado de instrucción, la necesidad de reparar los daños y perjuicios causados por la conducta ilícita y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de funcionario o empleado de confianza será una circunstancia que podrá dar lugar a una agravación de la pena.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+### CAPITULO I BIS.. Delitos contra la administración de justicia, cometidos por servidores públicos
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+
+206 Bis.- Son delitos contra la administración de justicia, cometidos por servidores públicos los siguientes:
+
+I. Dictar, a sabiendas, una resolución de fondo o una sentencia definitiva que sean ilícitas por violar algún precepto terminante de la ley, o ser contrarias a las actuaciones seguidas en juicio u omitir dictar una resolución de trámite, de fondo o una sentencia definitiva ilícita, dentro de los términos dispuestos en la ley;
+
+II. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan a alguien una ventaja indebida;
+
+III. Abstenerse injustificadamente de ejercer la acción penal que corresponda de una persona que se encuentre detenida a su disposición como imputado de algún delito, cuando esta sea procedente conforme a la Constitución y a las leyes de la materia, en los casos en que la ley les imponga esa obligación; o ejercitar acción penal cuando no proceda denuncia, acusación o querella;
+
+IV. Ocultar al imputado el nombre de quien le acusa, salvo en los casos previstos por la ley, no darle a conocer el delito que se le atribuye o no realizar el descubrimiento probatorio conforme a lo que establece el Código Nacional de Procedimientos Penales;
+
+V. No dictar auto de vinculación al proceso o de libertad de un detenido, dentro de las setenta y dos horas siguientes a que lo pongan a su disposición, a no ser que el inculpado haya solicitado ampliación del plazo, caso en el cual se estará al nuevo plazo;
+
+VI. Abrir procedimiento penal contra un servidor público, con fuero, sin habérsele retirado éste previamente, conforme a lo dispuesto por la ley;
+
+VII. Admitir o nombrar un depositario o entregar a éste los bienes secuestrados, sin el cumplimiento de los requisitos legales correspondientes;
+
+VIII. Nombrar síndico o interventor en un concurso o quiebra, a una persona que sea deudor, pariente o que haya sido abogado del fallido, o a persona que tenga con el funcionario relación de parentesco, estrecha amistad o esté ligada con él por negocios de interés común; y
+
+IX. Permitir, fuera de los casos previstos por la ley, la salida temporal de las personas que están recluidas.
+
+A quien cometa los delitos previstos en las fracciones II, III, VIII y IX, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa.
+
+A quien cometa los delitos previstos en las fracciones I, IV, V, VI y VII, se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO II.
@@ -1875,6 +1905,10 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
+## TITULO SEPTIMO.
+
+Revelación de secretos.
+
 ### CAPITULO III.
 
 Abuso de Autoridad.
@@ -1917,9 +1951,11 @@ Al que cometa el delito de abuso de autoridad en los términos previstos por las
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
-## TITULO SEPTIMO.
+## TITULO OCTAVO.
 
-Revelación de secretos.
+Delitos por hechos de corrupción.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO IV.
 
@@ -1960,12 +1996,6 @@ Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestación e
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádivas entregadas, las mismas se aplicarán en beneficio del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
-## TITULO OCTAVO.
-
-Delitos por hechos de corrupción.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 ### CAPITULO V.
 
@@ -2303,6 +2333,10 @@ En caso de reincidencia se impondrá de dos a cuatro años de prisión y multa d
 
 Si la conducta del infractor provoca un accidente o daños se impondrá de tres a cinco años de prisión y multa de quinientos a mil días multa.
 
+## TITULO NOVENO.
+
+Responsabilidad Profesional.
+
 ### CAPITULO IV.
 
 Variación del nombre o del domicilio.
@@ -2316,10 +2350,6 @@ I.- Al que oculte su nombre o apellido y tome otro imaginario o el de otra perso
 II.- Al que para eludir la práctica de una diligencia judicial, o una notificación de cualquier clase o citación de una Autoridad, o para obtener algún documento, oculte su domicilio, o designe otro distinto o niegue de cualquier modo el verdadero.
 
 (ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-## TITULO NOVENO.
-
-Responsabilidad Profesional.
 
 ### CAPITULO IV BIS
 
@@ -2359,6 +2389,10 @@ II.- Al que se atribuye el carácter de profesionista sin tener titulo legal y e
 
 III.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
 
+## TITULO DECIMO.
+
+Falsedad.
+
 ### CAPITULO VI.
 
 Disposiciones comunes a los capítulos precedentes.
@@ -2374,10 +2408,6 @@ Disposiciones comunes a los capítulos precedentes.
 TITULO DECIMOPRIMERO.
 
 Delitos contra la economía pública.
-
-## TITULO DECIMO.
-
-Falsedad.
 
 ### CAPITULO I.
 
@@ -3667,6 +3697,12 @@ Los delitos previstos en este Capítulo se perseguirán por querella.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO III BIS.
 
 Retención.
@@ -3690,12 +3726,6 @@ Este delito se perseguirá de oficio.
 Para todos los efectos legales se entenderá que este delito se consuma cuando se niegue a la víctima la devolución o entrega de las cantidades reclamadas, lo que se acreditará por cualquier medio de prueba, sin necesidad de requerimiento judicial o notarial. Se considerará como negativa el hecho de que el local, oficina o sucursal destinados a la atención del público se encuentre temporal o definitivamente cerrado o clausurado.
 
 Si la entidad, organismo, empresa o negocio no cuenta con registro de las autoridades correspondientes o no ha concluido o iniciado sus trámites de regularización, la pena se incrementará de uno a cinco años.
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO IV.
 
@@ -4113,6 +4143,32 @@ Este delito se perseguirá de oficio.
 
 > <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
 
+###### Artículo 412.
+
+A quien cometa el delito de feminicidio se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma; además el sujeto activo en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ella.
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas, se impondrá hasta dos tercios más de la pena impuesta.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
+
+Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+Cuando la víctima sea niña, adolescente, persona adulta mayor, persona con discapacidad, se encuentre embarazada o el hecho de (sic) cometa frente a cualquier ofendido o víctima indirecta, además de la pena impuesta, ésta se aumentará hasta un tercio más.
+
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+En caso de no tener elementos suficientes del feminicidio, se judicializará por el delito de homicidio simple o calificado, según lo determine el Ministerio Público.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
+
 ### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
@@ -4146,32 +4202,6 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 418.- Los delitos previstos en este Título se perseguirán por querella, con excepción de cuando los acreedores sean las y los hijos menores de 18 años, o persona con discapacidad, en cuyo caso se perseguirá de oficio, atendiendo al Principio del Interés Superior de la Niñez y al Principio de Máxima Protección.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-###### Artículo 412.
-
-A quien cometa el delito de feminicidio se le impondrá una sanción de cincuenta a sesenta años de prisión y multa de quinientos a mil veces el valor diario de la unidad de medida y actualización.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-Si entre el activo y la víctima existió una relación de parentesco por consanguinidad o afinidad, adopción, matrimonio, concubinato, relación de convivencia, noviazgo, amistad, laboral, docente, tutela o cualquier otra que implique confianza, además de la pena que le corresponda, se le impondrá hasta un tercio más de la misma; además el sujeto activo en su caso, perderá la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, el derecho de alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto de los bienes de ella.
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-Cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas, se impondrá hasta dos tercios más de la pena impuesta.
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2018)</small>
-
-Asimismo, a quien dolosamente en el ejercicio de una función pública propicie, promueva o tolere, la impunidad; así como omita, retarde o entorpezca la investigación, persecución y sanción del delito contemplado en este capítulo, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión en el servicio público.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-Cuando la víctima sea niña, adolescente, persona adulta mayor, persona con discapacidad, se encuentre embarazada o el hecho de (sic) cometa frente a cualquier ofendido o víctima indirecta, además de la pena impuesta, ésta se aumentará hasta un tercio más.
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-En caso de no tener elementos suficientes del feminicidio, se judicializará por el delito de homicidio simple o calificado, según lo determine el Ministerio Público.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
 
 ### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
 
@@ -4217,16 +4247,6 @@ I. Dolosamente prive de la vida a un animal vertebrado.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
-
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-421.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
-
-I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
-
 ## TITULO VIGESIMO.
 
 Encubrimiento.
@@ -4249,6 +4269,16 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
 
+### CAPÍTULO TERCERO. Del Abuso Sexual a los Animales
+
+> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
+
+421.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
+
+I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
+
 ### CAPITULO CUARTO. Excluyentes
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
@@ -4268,40 +4298,6 @@ IV.- El sacrificio de un animal vertebrado para consumo humano.
 423.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
-
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 días de salario a quien:
-
-I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
-
-II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
-
-III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
-
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
-
-419 Bis.- Se impondrá pena de seis meses a cinco años de prisión y el equivalente de doscientos a dos mil Unidades de Medida y Actualización a quien:
-
-l. Críe o entrene a un perro con el propósito de hacerlo participar en cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros para fines recreativos, de entretenimiento o de cualquier otra índole;
-
-II. Posea, transporte, compre o venda perros con el fin de involucrarlos en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros;
-
-III. Organice, promueva, anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
-
-IV. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
-
-V. Ocasione que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
-
-VI. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
-
-La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
-
-Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 ## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
 
@@ -5076,3 +5072,13 @@ P.O. 24 DE OCTUBRE DE 2019.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 778.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto, serán concluidos conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+TERCERO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
