@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2019-02-11"
+last_updated: "2019-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -473,11 +473,15 @@ III. Se tomará en consideración el grado de parentesco; la relación de afinid
 
 IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 28.
 
-Cuando el Sistema DIF Estatal, haya autorizado la integración de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
+Cuando el Sistema DIF Estatal, haya autorizado la integración de niñas, niños o adolescentes a una familia de acogimiento pre-adoptivo, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
 
-En los casos que el Sistema DIF Estatal, constate que no se consolidaron las condiciones de adaptación de niñas, niños o adolescentes con la familia de acogida pre-adoptiva, iniciará el procedimiento a fin de reincorporarlos al cuidado alternativo que corresponda y se realizará, en su caso, una nueva integración.
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+En los casos que el Sistema DIF Estatal, constate que no se consolidaron las condiciones de adaptación de niñas, niños o adolescentes con la familia de acogimiento pre-adoptivo, iniciará el procedimiento a fin de reincorporarlos al cuidado alternativo que corresponda y se realizará, en su caso, una nueva integración.
 
 Cuando se verifique cualquier tipo de violación a los derechos de niñas, niños o adolescentes integrados, el Sistema DIF Estatal revocará la integración y ejercerá las facultades que le otorgan la presente Ley y demás disposiciones aplicables.
 
@@ -489,9 +493,17 @@ Corresponde al Sistema DIF Estatal:
 
 I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
 
-II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir las certificaciones correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
-III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría de Protección Federal.
+II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir las certificaciones correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría de Protección Federal; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+IV. Emitir una constancia mediante la cual autorice a los padres y madres de familias de acogida y de acogimiento pre-adoptivo, para realizar trámites de toda índole que busquen salvaguardar el derecho a la salud, cuidados y acceso a la educación de las niñas, niños y adolescentes bajo su cuidado y resguardo.
 
 ###### Artículo 30.
 
@@ -2220,6 +2232,14 @@ El presente decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 11 DE FEBRERO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 102.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 224.- ARTÍCULO ÚNICO: SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 28, LAS FRACCIONES II Y III DEL ARTÍCULO 29 ASÍ COMO SE ADICIONA UNA FRACCIÓN IV DEL ARTÍCULO 29 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
