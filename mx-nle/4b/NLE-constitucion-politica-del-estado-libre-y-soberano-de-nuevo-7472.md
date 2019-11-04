@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2019-10-30"
+last_updated: "2019-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -2871,7 +2871,7 @@ e) AQUELLOS CUYO VALOR DE ADQUISICIÓN O VALOR DE MERCADO, CONJUNTA O INDIVIDUAL
 
 > <small>(ADICIONADO, P.O. 1 DE MAYO DE 2009)</small>
 
-Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.
+Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para cono
 
 (NOTA: EL 1 DE SEPTIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS SUBAPARTADOS VIII.6.B., VIII.9. Y VIII.10., ASÍ COMO EN EL RESOLUTIVO OCTAVO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 169/2017, DECLARÓ LA INVALIDEZ DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE SEPTIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2934,6 +2934,14 @@ Serán inexistentes las enajenaciones, actos, convenios y contratos que no se aj
 > <small>(ADICIONADO, P.O. 22 DE JULIO DE 2005)</small>
 
 El Estado de Nuevo León y sus Municipios llevarán a cabo acciones coordinadas, entre sí y con la Federación en materia de reservas territoriales para el desarrollo urbano y la vivienda, con el objeto de establecer una política integral de suelo urbano y reservas territoriales, mediante la programación de las adquisiciones y la oferta de la tierra, evitando la especulación de inmuebles. Para ello, podrán a través de sus dependencias o entidades encargadas, ejercer el derecho de preferencia que las leyes otorgan.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+El Estado y los Municipios deberán establecer un sistema de modernización continua enfocada en la implementación de programas y herramientas tecnológicas que ayuden a resolver y facilitar la operatividad y desarrollo de los diversos servicios que se ofrecen a la población, a fin de que dentro de sus respectivas competencias se logre el concepto de ciudad inteligente, entendiéndose como tal, a la entidad que crea y utiliza la tecnología para el fortalecimiento de los derechos humanos, o para solucionar necesidades sociales de sus habitantes.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+El Estado y los Municipios en concordancia con el párrafo anterior, tendrán como prioridad el desarrollo de herramientas tecnológicas relacionadas con la seguridad, desarrollo urbano, movilidad, vías públicas, energías renovables, medio ambiente, salud, educación y cultura.
 
 ###### Art. 24.
 
@@ -4139,8 +4147,18 @@ P.O. 24 DE MAYO DE 2019.
 
 P.O. 30 DE OCTUBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 183. SE ADICIONA UN PÁRRAFO DÉCIMO NOVENO AL ARTÍCULO 87 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 183. SE ADICIONA UN PÁRRAFO DÉCIMO NOVENO AL ARTÍCULO 87 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
 
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- El Congreso, deberá realizar las modificaciones correspondientes a la Ley que crea la Comisión Estatal de Derechos Humanos, para regular lo dispuesto por el presente Decreto en un plazo no mayor a 120 días naturales posteriores a la entrada en vigor del mismo.
+
+P.O. 4 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 187. SE ADICIONAN LOS PÁRRAFOS DÉCIMO TERCERO Y DÉCIMO CUARTO AL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- El Estado cada año en la Ley de Egresos, deberá incluir una partida presupuestal destinada a los recursos que se eroguen al concepto de ciudad inteligente.
+
+Tercero.- Los Municipios en sus Presupuestos de Egresos, deberán aprobar una partida presupuestal destinada a los recursos que se eroguen al concepto de ciudad inteligente.
