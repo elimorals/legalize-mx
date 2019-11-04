@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2018-04-30"
+last_updated: "2019-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -1465,9 +1467,17 @@ Además de lo anterior, deberán de cumplir con los siguientes requisitos para t
 
 I. Todos los vehículos destinados al transporte público de personas, deberán contar con póliza de seguro o su equivalente a favor del pasajero y contra daños a terceros;
 
-II. Los vehículos destinados a la enseñanza de manejo, deberán contar con una póliza de seguro a favor del contratante y daños a terceros, cobertura que deberá estar debidamente prevista en el contrato de prestación de servicios respectivo. Dicha póliza es irrenunciable; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
-III. Los vehículos destinados al transporte público de personas deberán contar con botones de pánico, además de portar el número económico de la unidad para su identificación en el tablero u otro lugar visible del vehículo.
+II. Los vehículos destinados a la enseñanza de manejo, deberán contar con una póliza de seguro a favor del contratante y daños a terceros, cobertura que deberá estar debidamente prevista en el contrato de prestación de servicios respectivo. Dicha póliza es irrenunciable;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+III. Los vehículos destinados al transporte público de personas deberán contar con botones de pánico, además de portar el número económico de la unidad para su identificación en el tablero u otro lugar visible del vehículo; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+IV. Los vehículos destinados al transporte público de personas en la modalidad de transporte escolar, taxis y el contratado a través de plataformas tecnológicas, deberán de contar con los medios necesarios para brindar el servicio de transporte a personas con discapacidad que requieran trasladar accesorios como sillas de ruedas, andaderas u otros similares.
 
 ###### ARTÍCULO 91.
 
@@ -4650,3 +4660,13 @@ Ma. Estela Cortés Meléndez,
 DIPUTADA SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35 y 46 fracción I de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 27 de abril de 2018.- Martín Orozco Sandoval.- Rúbrica.- El Secretario General de Gobierno, Lic. Ricardo Enrique Morán Faz.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 225 ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES II Y III DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 90, Y SE ADICIONA UNA FRACCIÓN IV AL MISMO ARTÍCULO 90 DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 01 de Enero del 2020.
