@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-fideicomiso-desarrollos-industriales-de-131
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-12"
-last_updated: "2018-11-12"
+last_updated: "2019-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL FIDEICOMISO DESARROLLOS INDUSTRIALES DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL FIDEICOMISO DESARROLLOS INDUSTRIALES DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 4 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL FIDEICOMISO DESARROLLOS INDUSTRIALES DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Código Publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2018.
 
@@ -184,3 +186,21 @@ Directora General de Auditoria Gubernamental en su carácter de Suplente del Con
 C.P. JUVENAL ESPARZA MONTAÑEZ
 
 COMISARIO PÚBLICO PROPIETARIO DEL FIDEICOMISO DESARROLLOS INDUSTRIALES DE AGUASCALIENTES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DEL FIDEICOMISO DESARROLLOS INDUSTRIALES DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del "Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el Código de Ética del Fideicomiso Desarrollos Industriales de Aguascalientes, publicado en la primera Sección del Periódico Oficial del Estado de Aguascalientes, Número 46, Tomo LXXXI, de fecha 12 de noviembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan lo previsto en el presente Acuerdo.
