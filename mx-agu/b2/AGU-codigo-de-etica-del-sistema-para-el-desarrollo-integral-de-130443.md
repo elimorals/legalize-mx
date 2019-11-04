@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-sistema-para-el-desarrollo-integral-de-1304
 country: "mx"
 rank: "codigo"
 publication_date: "2018-09-17"
-last_updated: "2018-09-17"
+last_updated: "2019-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 4 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Primera Sección al Número 38 del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de septiembre de 2018.
 
@@ -202,3 +204,21 @@ Director de Administración y Finanzas del Sistema para el Desarrollo Integral d
 Invitado
 
 Esta hoja de firmas forma parte integrante del SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES, aprobado en la “Tercera Sesión Ordinaria de 2018", a los 04 días del mes de Mayo del año 2018.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del “Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas”, publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el Código de Ética del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes, Número 38, Tomo LXXXI, de fecha 17 de septiembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan a lo previsto en el presente acuerdo.
