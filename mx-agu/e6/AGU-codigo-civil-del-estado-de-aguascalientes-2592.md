@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2019-05-27"
+last_updated: "2019-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -3027,11 +3027,11 @@ Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de 
 
 (DEROGADO, P.O. 2 DE ABRIL DE 2012)
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 422.
 
-Las adopciones se sujetarán al procedimiento de jurisdicción voluntaria contemplado en el Capítulo Sexto, Título Décimo Cuarto del Código de Procedimientos Civiles, y las oposiciones aludidas en el Artículo 421 deberán tramitarse antes de la audiencia única, en la que deberán ser resueltas de plano.
+Las adopciones se sujetarán al procedimiento contemplado en el Capítulo Sexto, Título Décimo Cuarto del Código de Procedimientos Civiles, y las oposiciones aludidas en el Artículo 421 deberán tramitarse antes de la audiencia única, en la que deberán ser resueltas de plano.
 
 ###### Artículo 423.
 
@@ -17274,6 +17274,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 27 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 161.- SE REFORMAN LOS ARTÍCULOS 350, 369 Y 397 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 227.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 422 DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
