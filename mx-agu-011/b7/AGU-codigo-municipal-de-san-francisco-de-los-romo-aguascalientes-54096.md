@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-francisco-de-los-romo-aguascalientes-54
 country: "mx"
 rank: "codigo"
 publication_date: "2007-02-12"
-last_updated: "2019-09-16"
+last_updated: "2019-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 12 de febrero de 2007.
 
@@ -1049,7 +1049,7 @@ En todo lo no previsto en el presente Código, se recurrirá a las disposiciones
 
 ### CAPITULO I. De las Dependencias y Entidades de la Administración Municipal
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 99.
 
@@ -1057,13 +1057,15 @@ Para el despacho de los asuntos de la Administración Pública Municipal, el Pre
 
 Secretaría Particular;
 
+Coordinación Municipal de Gabinete;
+
 Coordinación de Asesores;
 
 Comité Municipal para el Desarrollo Integral de la Familia;
 
 Coordinación de Comunicación Social;
 
-Coordinación (sic) Relaciones Públicas;
+Coordinación de Relaciones Públicas;
 
 Coordinación de Gestión Social;
 
@@ -1095,11 +1097,13 @@ Dirección de Asuntos Jurídicos;
 
 Dirección de Seguridad Pública y Tránsito Municipal;
 
-De las unidades administrativas con que contara la Presidencia Municipal se desprenderá la estructura siguiente:
+De las Unidades Administrativas con que contará la Presidencia Municipal se desprenderá la estructura siguiente:
 
 I.- PRESIDENCIA MUNICIPAL:
 
 Secretaría Particular;
+
+Coordinación Municipal de Gabinete;
 
 Coordinación de Asesores;
 
@@ -1125,23 +1129,23 @@ Departamento de Asistencia Social Alimentaria;
 
 Departamento de Rehabilitación Física;
 
-Departamento de Atención a Personas Adultas Mayores
+Departamento de Atención a Personas Adultas Mayores;
 
 Departamento de Habilidades, Capacitación y Desarrollo Integral;
 
-Unidad de Vinculación con la Sociedad Civil.
+Departamento de Vinculación con la Sociedad Civil.
 
-Procuraduría Municipal de la Defensa de los Derechos de las niñas, niños y adolescentes;
+Departamento de Procuraduría Municipal de la Defensa de los Derechos de las niñas, niños y adolescentes;
 
 Departamento Jurídico;
 
-Unidad de Trabajo Social y Canalización;
+Departamento de Unidad de Trabajo Social y Canalización;
 
 Departamento de Psicología;
 
 III.- COORDINACIÓN DE COMUNICACIÓN SOCIAL
 
-Coordinador;
+Coordinador de Comunicación Social;
 
 Departamento de Comunicación e Información.
 
@@ -1159,29 +1163,27 @@ Subdelegado.
 
 VI.- SECRETARÍA DEL H. AYUNTAMIENTO Y DIRECCIÓN GENERAL DE GOBIERNO
 
-Secretaría del H. Ayuntamiento y Director General de Gobierno;
+Secretario del H. Ayuntamiento y Director General de Gobierno;
 
-Subdirección General de Gobierno;
-
-Departamento de Reglamentos y Mercados;
+Subdirector General de Gobierno;
 
 Coordinación de Fomento Deportivo;
 
-Departamento de Acción Cívica y Cultural;
+Coordinación de Acción Cívica y Cultural;
 
-Departamento de Desarrollo Turístico;
+Coordinación de Desarrollo Turístico;
+
+Departamento de Reglamentos y Mercados;
 
 Departamento de Control Sanitario y Rastros;
 
 Departamento de Protección Civil;
 
-Unidad Municipal de Paramédicos;
-
 Departamento de Logística;
 
-Unidad del Archivo Municipal.
+Unidad Municipal de Paramédicos;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+Unidad del Archivo Municipal.
 
 VII.- DIRECCIÓN DE FINANZAS Y ADMINISTRACIÓN.
 
@@ -1189,21 +1191,23 @@ Director de Finanzas y Administración;
 
 Subdirector de Finanzas, Administración y Control Presupuestal;
 
-Departamento de Presupuesto;
+Subdirector de Ingresos;
+
+Departamento de Presupuesto e Información Pública Financiera;
 
 Departamento de Ingresos y Recaudación Municipal;
 
-Departamento de Egresos:
+Departamento de Egresos y contabilidad;
 
 Departamento de Fondos Federales;
 
 Departamento de Compras y Suministros;
 
-Departamento de Mantenimiento Vehicular y Servicios Generales;
+Departamento de Recursos Humanos.
 
-Departamento de Recursos Humanos;
+Departamento de Control Patrimonial
 
-Departamento de Control Patrimonial.
+Departamento de Mantenimiento Vehicular y Servicios Generales
 
 VIII.- DIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
 
@@ -1217,7 +1221,7 @@ Departamento de Monitoreo y Evaluación;
 
 Departamento de Programación;
 
-Departamento de Seguimiento a la obra pública.
+Departamento de Seguimiento a la Obra Pública.
 
 IX.- DIRECCIÓN DE CONTRALORÍA MUNICIPAL.
 
@@ -1225,19 +1229,19 @@ Contralor Municipal;
 
 Departamento de Auditoría;
 
-Unidad Investigadora;
+Departamento de Unidad Investigadora;
 
-Unidad de Transparencia;
+Departamento de Unidad de Transparencia;
 
 Departamento Jurídico y Responsabilidades Administrativas;
 
-Coordinación de Mejora Regulatoria, simplificación administrativa e innovación.
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2017)</small>
+Departamento de Coordinación de Mejora Regulatoria, Simplificación Administrativa E Innovación.
 
 X.- DIRECCIÓN DE OBRAS PÚBLICAS.
 
 Director de Obras Públicas;
+
+Subdirector de Obras Públicas;
 
 Departamento de Costos y Licitaciones;
 
@@ -1249,7 +1253,7 @@ XI.- DIRECCIÓN DE DESARROLLO SOCIAL, ECONÓMICO Y AGROPECUARIO.
 
 Director de Desarrollo Social, Económico y Agropecuario;
 
-Subdirector;
+Subdirector de Desarrollo Social, Económico y Agropecuario;
 
 Departamento de Concertación Social;
 
@@ -1261,13 +1265,15 @@ XII.- DIRECCIÓN DE DESARROLLO URBANO.
 
 Director de Desarrollo Urbano;
 
+Subdirector de Desarrollo Urbano;
+
 Departamento de Planes y Proyectos;
 
 Departamento de Uso de Suelo;
 
-Departamento de Cartografía,
+Departamento de Cartografía;
 
-Departamento de Fraccionamientos y Regularización.
+Departamento de Fraccionamientos y Regularización;
 
 Departamento de Supervisión e Imagen Urbana.
 
@@ -1275,7 +1281,7 @@ XIII.- DIRECCIÓN DE SERVICIOS PÚBLICOS Y ECOLOGÍA.
 
 Director de Servicios Públicos y Ecología;
 
-Subdirección de Servicios Públicos y Ecología;
+Subdirector de Servicios Públicos y Ecología;
 
 Departamento de Panteones;
 
@@ -1283,13 +1289,13 @@ Departamento de Limpia y Aseo Público;
 
 Departamento de Alumbrado Público;
 
-Departamento de Parques, Jardines;
+Departamento de Parques y Jardines;
 
-Departamento de Ecología.
+Departamento de Ecología;
 
 XIV.- DIRECCIÓN DE ASUNTOS JURÍDICOS.
 
-Director;
+Director de Asuntos Jurídicos;
 
 Subdirector de Asuntos Jurídicos;
 
@@ -1299,7 +1305,7 @@ Departamento de Jueces Calificadores.
 
 XV.- DIRECCIÓN DE SEGURIDAD PÚBLICA Y TRÁNSITO MUNICIPAL.
 
-Director;
+Director de Seguridad Pública y Tránsito Municipal;
 
 Subdirector de Seguridad Pública y Tránsito Municipal;
 
@@ -1372,6 +1378,16 @@ XI. Informar por escrito a la Contraloría Municipal sobre la emisión, modifica
 XII. Proporcionar en tiempo y forma requerido por la Contraloría Municipal, todos los documentos, datos e informes que les sean solicitados; y
 
 XIII. las demás que les confiera la legislación vigente, o que les encomiende el H. Ayuntamiento, a través del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 102 (BIS). Corresponde a la Coordinación Municipal de Gabinete:
+
+I. Coordinar y supervisar el desempeño de la gestión municipal;
+
+II. Vincular los mecanismos que faciliten la coordinación entre las Dependencias Gubernamentales de otras instancias Municipales, Estatales y Federales, así como de Entes Privados;
+
+III. Brindar el apoyo y canalizar a la ciudadanía a las Áreas correspondientes en ausencia del presidente municipal; y
 
 APARTADO SEGUNDO
 
@@ -1895,7 +1911,7 @@ XIII. Solicitar la publicación de leyes, decretos, bandos y reglamentos y tener
 
 XIV. Elaborar con intervención del Síndico el inventario general de los bienes muebles e inmuebles propiedad del Municipio, de los destinados a un servicio público y los de uso común, expresando en el mismo todas las características de identificación;
 
-XV. Integrar un Sistema de Información que contenga datos de los aspectos socio-económicos básicos del Municipio; y (sic)
+XV. Integrar un Sistema de Información que contenga datos de los aspectos socio-económicos básicos del Municipio; y
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2011)</small>
 
@@ -21376,3 +21392,9 @@ Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opo
 ###### ARTÍCULO TERCERO.
 
 Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de San Francisco de los Romo, Aguascalientes, deberá ajustarse al periodo constitucional correspondiente.
+
+P.O. 4 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DE “REFORMAS AL CÓDIGO MUNICIPAL DE SAN FRANCISCO DE LOS ROMO”.]
+
+ÚNICO. - La presente reforma al Código Municipal de San Francisco de los Romo entrará en vigor al (sic) día 16 de octubre de 2019 y para su posterior publicación en el Periódico Oficial del Estado de Aguascalientes.
