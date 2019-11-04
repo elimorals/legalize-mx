@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-130614
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-09-24"
-last_updated: "2019-04-29"
+last_updated: "2019-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
 
 Estatuto publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de septiembre de 2018.
 
@@ -97,9 +97,17 @@ VIII.- Secretario Técnico: Al Secretario Técnico de la Secretaría Ejecutiva d
 
 IX.- Sistema Estatal Anticorrupción: A la coordinación y acciones del Comité Coordinador, el Comité de Participación Ciudadana, y el Comité Rector del Sistema Estatal de Fiscalización y de la Plataforma Digital Estatal, para con el resto de las dependencias y entidades de la Administración Pública Estatal, en materia de prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos.
 
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 5º.
+
 La Secretaría Ejecutiva para su organización y funcionamiento, se regirá por la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional Anticorrupción, la Constitución Política del Estado de Aguascalientes, la Ley del Sistema Estatal Anticorrupción de Aguascalientes, el presente Estatuto Orgánico y las demás disposiciones jurídicas que le resulten aplicables.
 
-ARTÍCULO 6° (SIC).- El patrimonio de la Secretaría Ejecutiva estará integrado por:
+###### ARTÍCULO 6°.
+
+El patrimonio de la Secretaría Ejecutiva estará integrado por:
 
 I.- Los bienes que le sean transmitidos para el desempeño de sus funciones;
 
@@ -141,7 +149,9 @@ a) La Dirección General de Vinculación y Políticas Públicas:
 
 2. Departamento de Vinculación y Comunicación; y
 
-3. Departamento de Riegos (sic) y Denuncias;
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+3. Departamento de Riesgos y Denuncias;
 
 b) La Dirección General Jurídica:
 
@@ -159,15 +169,21 @@ IV.- Los Comités:
 
 a) El Comité de Transparencia;
 
-b) El Comité (sic) Adquisiciones, Arrendamientos y Servicios; y
+> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+b) El Comité de Adquisiciones, Arrendamientos y Servicios; y
 
 c) El Comité de Bienes;
 
-V.- Las Unidades Administrativas, que en su caso sean autorizadas por la Junta de Gobierno, a propuesta del Secretario Técnico;
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
-VI.- La Comisión Ejecutiva; y
+V.- Consejo Editorial;
 
-VII.- El Órgano de Control Interno.
+VI.- Las Unidades Administrativas, que en su caso sean autorizadas por la Junta de Gobierno, a propuesta del Secretario Técnico;
+
+VII.- La Comisión Ejecutiva; y
+
+VIII.- El Órgano de Control Interno.
 
 La Secretaría Ejecutiva, a través de las direcciones generales y en su caso, las unidades administrativas, dará cumplimiento a las obligaciones de transparencia a que se refieren el Artículo 70 de la Ley General de Transparencia y Acceso a la Información Pública, el Artículo 55 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, y las demás disposiciones aplicables; así como observar las prescripciones en materia de protección de datos personales en los términos de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios.
 
@@ -291,7 +307,9 @@ XIII.- Actuar como secretario del Comité Coordinador y de la Junta de Gobierno;
 
 XIV.- Ejecutar y dar seguimiento a los acuerdos y resoluciones del Comité Coordinador y de la Junta de Gobierno;
 
-XV.- Elaborar y certificar los acuerdos que se tomen en el Comité Coordinador y en de (sic) la Junta de Gobierno, así como el de los instrumentos jurídicos que se generen en el seno de dicho órgano, llevando el archivo correspondiente en términos de las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XV.- Elaborar y certificar los acuerdos que se tomen en el Comité Coordinador y en la Junta de Gobierno, así como el de los instrumentos jurídicos que se generen en el seno de dichos órganos, llevando el archivo correspondiente en términos de las disposiciones aplicables;
 
 XVI.- Coordinar la elaboración de los anteproyectos de metodologías, indicadores y políticas integrales para ser discutidas en la Comisión Ejecutiva y, en su caso, sometidas a la consideración del Comité Coordinador;
 
@@ -321,9 +339,21 @@ XXV.- Participar en organismos y foros regionales, nacionales e internacionales 
 
 XXVI.- Expedir y certificar con fe pública administrativa, copia de los documentos o constancias que existan en los archivos de las áreas, y en su caso, unidades administrativas adscritas a la Secretaría Ejecutiva, de oficio o a petición de autoridad competente; así como llevar el archivo correspondiente en términos de las disposiciones aplicables;
 
-XXVII.- Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda la Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva, y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
-XXVIII.- Las que señalen las diversas leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
+XXVII.- Proveer a la Comisión Ejecutiva los insumos necesarios para la elaboración de las propuestas a que se refiere la Ley. Para ello, podrá solicitar la información que estime pertinente para la realización de las actividades que le encomienda la Ley, de oficio o a solicitud de los miembros de la Comisión Ejecutiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XXVIII.- Expedir las convocatorias referidas en el artículo 32 D, para la recepción (sic) artículos, ensayos o cualquier material académico o cultural, relacionado con el combate a la corrupción y el fomento a la cultura de la legalidad, a fin de ser considerados en el Consejo Editorial para su publicación;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XXIX.- Autorizar el diseño e imagen, de los productos avalados por el Consejo Editorial; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XXX.- Las que señalen las diversas leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas aplicables.
 
 ### CAPÍTULO IV. LA DIRECCIÓN GENERAL DE VINCULACIÓN Y POLÍTICAS PÚBLICAS
 
@@ -367,9 +397,29 @@ XIV.- Integrar los anteproyectos de informes que deba realizar la Secretaría Ej
 
 XV.- Elaborar e integrar los informes que se requieran, en el ámbito de su competencia, e informar al Secretario Técnico del desarrollo y resultados de las acciones a su cargo;
 
-XVI.- Revisar los formatos de transparencia que le correspondan a la Dirección General de Vinculación y Políticas Públicas, de acuerdo a las leyes en la materia; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
-XVII.- Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones jurídicas que resulten aplicables.
+XVI.- Revisar los formatos de transparencia que le correspondan a la Dirección General de Vinculación y Políticas Públicas, de acuerdo a las leyes en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XVII.- Proponer al Secretario Técnico, la emisión de convocatorias para la recepción de artículos, ensayos o cualquier material académico o cultural, relacionado con el combate a la corrupción y el fomento a la cultura de la legalidad, a fin de ser considerados en el Consejo Editorial para su publicación;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XVIII.- Recibir y revisar el material referido en la fracción anterior, a fin de determinar el cumplimiento de los requisitos formales que establezca la convocatoria respectiva;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XIX.- Coordinar el proceso de dictamen a doble ciego, realizado por los Consejeros del Consejo Editorial en términos de lo previsto en el artículo 32 E de este Estatuto;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XX.- Proponer al Secretario Técnico, el diseño e imagen de los productos avalados por el Consejo Editorial; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XXI.- Las demás que le confiera el Secretario Técnico, así como las que se señalen en otras disposiciones aplicables.
 
 #### Sección Segunda. El Departamento de Políticas Públicas
 
@@ -403,9 +453,17 @@ III.- Instrumentar las capacitaciones que lleve a cabo la Secretaría Ejecutiva;
 
 IV.- Elaborar e integrar los informes que se requieran, en el ámbito de su competencia, e informar a la Dirección General de Vinculación y Políticas Públicas del desarrollo y resultados de las acciones a su cargo;
 
-V.- Realizar, actualizar, corregir y entregar en tiempo y forma los formatos de transparencia que le correspondan, junto con sus documentos digitales; así como actualizar la información relativa en los portales de internet, de acuerdo a las leyes en la materia; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
-VI.- Las demás que le confiera el Secretario Técnico, el (sic) Dirección General (sic) Vinculación y Políticas Públicas, así como las que se señalen en otras disposiciones jurídicas que resulten aplicables.
+V.- Realizar, actualizar, corregir y entregar en tiempo y forma los formatos de transparencia que le correspondan, junto con sus documentos digitales; así como actualizar la información relativa en los portales de internet, de acuerdo a las leyes en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+VI.- Elaborar los proyectos de diseño e imagen, de los productos avalados por el Consejo Editorial; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+VII.- Las demás que le confiera el Secretario Técnico, el Director General de Vinculación y Políticas Públicas, así como las que se señalen en otras disposiciones aplicables.
 
 #### Sección Cuarta. El Departamento de Riesgos y Denuncias
 
@@ -481,9 +539,11 @@ XX.- Las demás que le confiera el Secretario Técnico, así como las que se se�
 
 #### Sección Segunda. El Departamento de Asuntos Jurídicos y de Transparencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-La Dirección General Jurídica contará con un Departamento de Asuntos Jurídicos y de Transparencia, la (sic) cual tendrá a su cargo las siguientes funciones:
+La Dirección General Jurídica contará con un Departamento de Asuntos Jurídicos y de Transparencia, el cual tendrá a su cargo las siguientes funciones:
 
 I.- Recibir y dar trámite a las solicitudes de acceso a la información y de protección de datos personales;
 
@@ -527,13 +587,17 @@ XVI.- Elaborar e integrar los informes que se requieran, en el ámbito de su com
 
 XVII.- Proporcionar la información necesaria para la integración del informe sobre el cumplimiento de las obligaciones de transparencia y demás disposiciones establecidas en la normatividad de la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
-XVIII.- Elaborar o revisar los convenios, contratos, bases de colaboración, acuerdos interinstitucionales, o cualquier instrumento jurídico, que le solicite el Secretario Técnico o el Director General Jurídico; y
+XVIII.- Elaborar o revisar los convenios, contratos, bases de colaboración, acuerdos interinstitucionales, o cualquier instrumento jurídico, que le solicite el Secretario Técnico o el Director General Jurídico;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
-XIX.- Las demás que le confiera el Director General Jurídico, y las que se desprendan de la normatividad aplicable.
+XIX.- Brindar asesoría, así como realizar trámites y gestiones en materia de propiedad intelectual, en asuntos en que la Secretaría Ejecutiva tenga interés; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XX.- Las demás que le confiera el Director General Jurídico, y las que se desprendan de la normatividad aplicable.
 
 #### Sección Tercera. El Departamento de Procesos Normativos
 
@@ -683,7 +747,9 @@ XIV.- Realizar, actualizar, corregir y entregar en tiempo y forma los formatos d
 
 XV.- Las que le confiera el Director General de Administración, y las que se desprendan de la normatividad aplicable.
 
-### CAPÍTULO VII. LOS COMITÉS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+### CAPÍTULO VII. LOS COMITÉS Y EL CONSEJO EDITORIAL
 
 #### Sección Primera. El Comité de Transparencia
 
@@ -754,6 +820,82 @@ Para el adecuado desarrollo de las atribuciones de la Secretaría Ejecutiva, és
 ###### ARTÍCULO 32.
 
 Para el adecuado desarrollo de las atribuciones de la Secretaría Ejecutiva, ésta contará con un Comité de Bienes, el cual se integrará y desarrollará sus atribuciones, en términos de la Ley de Bienes del Estado de Aguascalientes, y demás normatividad aplicable.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+#### Sección Cuarta. El Consejo Editorial
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 32 A.- El Consejo Editorial es el órgano especializado de la Secretaría Ejecutiva encargado de realizar el análisis, revisión, evaluación y posterior selección para su publicación en formato digital o impreso, de los artículos, ensayos o cualquier material académico o cultural, relacionado con el combate a la corrupción y el fomento a la cultura de la legalidad.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 32 B.- El Consejo Editorial se integrará por:
+
+I.- Un Presidente, que será el Secretario Técnico;
+
+II.- Un Secretario, que será el Director General de Vinculación y Políticas Públicas;
+
+III.- Un Vocal, designado por el Comité de Participación Ciudadana de entre sus integrantes; y
+
+IV.- Al menos tres Consejeros, quienes serán preferentemente catedráticos, profesionales o académicos provenientes del sector público o privado, los cuales serán designados y en su caso removidos por el Secretario Técnico, en su calidad de Presidente del Consejo Editorial.
+
+Todos los integrantes del Consejo Editorial contarán con voz y voto; y desempeñarán sus funciones de manera honoraria.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 32 C.- El Consejo Editorial, tendrá las siguientes atribuciones:
+
+I.- Autorizar la inclusión en la revista digital de la Secretaría Ejecutiva o en cualquier otro sus productos editoriales, de:
+
+a) Artículos, ensayos o cualquier material académico o cultural, que haya sido aprobado por los Consejeros, cumpliendo con las bases previstas en la convocatoria respectiva y luego de agotar el procedimiento doble ciego;
+
+b) Material o acuerdos generados por el Comité Coordinador, el Comité Rector del Sistema Estatal de Fiscalización, el Comité de Participación Ciudadana y la propia Secretaría Ejecutiva, así como por órganos del Sistema Nacional Anticorrupción o de otros sistemas locales en la materia; y
+
+c) Cualquier otro material, relacionado con el combate a la corrupción y el fomento a la cultura de la legalidad.
+
+II.- Proponer al Secretario Técnico, la celebración de convenios de cooperación, coproducción e intercambio de productos editoriales con instituciones académicas y empresas editoriales, así como organizaciones de la sociedad civil; y
+
+III.- Las demás que le confieran otras disposiciones.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 32 D.- El Secretario Técnico, en su calidad de Presidente del Consejo Editorial, estará facultado para expedir convocatorias, en las cuales se establecerá la metodología para cada una de las etapas del proceso editorial que incluye la recepción, selección y publicación de artículos, ensayos o cualquier tipo de material académico o cultural, relacionado con el combate a la corrupción y el fomento a la cultura de la legalidad.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 32 E.- Para el desahogo del procedimiento de doble ciego a que refiere el artículo 32 C la (sic) fracción I, la Dirección General de Vinculación y Políticas Públicas turnará a los consejeros el material que haya cumplido con los requisitos formales establecidos en la convocatoria, manteniendo el anonimato del autor y del Consejero que emite el dictamen.
+
+El material aprobado en definitiva, deberá remitirse al Consejo Editorial para que determine si procede su inclusión en el producto editorial de que se trate.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 32 F.- El Consejo Editorial celebrará sesiones ordinarias y extraordinarias.
+
+Serán sesiones ordinarias las primeras que se celebren en los meses de marzo y septiembre, siempre que se convoquen con al menos setenta y dos horas de anticipación; y extraordinarias las que se convoquen con menor anticipación dentro de dichos meses, o las que se convoquen en un mes diverso.
+
+Las sesiones extraordinarias podrán ser convocadas cuando lo estime necesario el Presidente, o cuando se lo soliciten al menos cuatro de los integrantes del Consejo Editorial y en ellas sólo se tratarán los asuntos para los que se convoque (sic).
+
+En todo caso, las sesiones serán convocadas por el Secretario Técnico, en su calidad de Presidente del Consejo Editorial, quien remitirá directamente o por conducto del Servidor Público que autorice, la documentación respectiva a los correos electrónicos que para el efecto, señalen los Consejeros. Tratándose del Secretario y del Vocal, la comunicación a que se refiere este párrafo se enviará a sus correos institucionales.
+
+Para efectos de este artículo, la notificación de la convocatoria se tendrá por realizada, el día y hora que obre en la cuenta de correo electrónico remitente.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 32 G.- El Consejo Editorial sesionará válidamente con la presencia de tres de sus miembros. Sus acuerdos se tomarán por mayoría de votos de los presentes y quien funja en la sesión como presidente, tendrá voto de calidad.
+
+Si a la hora señalada para el inicio de la sesión no existe el quórum referido en el párrafo anterior, se esperará a los ausentes hasta por quince minutos, transcurrido dicho tiempo sin que se logre el quórum, se podrá esperar el tiempo que acuerden los presentes y transcurrido éste, la sesión podrá diferirse, pudiéndose señalar en ese momento el día, hora y lugar para su desahogo, en cuyo caso quien esté presente se tendrán (sic) por notificado y a los ausentes, se les comunicará con al menos doce horas de anticipación a la nueva fecha y hora señaladas para el desahogo de la sesión, sin ser necesario remitir nuevamente la documentación respectiva.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 32 H.- El Presidente y el Secretario del Consejo Editorial, podrán designar mediante oficio, al Servidor Público de la Secretaría Ejecutiva habilitado para suplirlos en sus ausencias. El Vocal, de la misma manera, podrá designar como su suplente a otro miembro del Comité de Participación Ciudadana. Cuando el Presidente no realice designación, corresponderá al Secretario suplir su ausencia, en cuyo caso, el propio Secretario designará por oficio, al Servidor Público de la Secretaría Ejecutiva que lo sustituirá en la sesión.
+
+Quien supla conforme al párrafo anterior, contará sólo con las atribuciones que correspondan al titular, concernientes al desahogo de sesiones.
+
+Los Consejeros deberán participar directamente en las sesiones del Consejo Editorial, por lo que no se admitirán suplencias de los mismos.
+
+El Secretario Técnico, en su calidad de Presidente del Consejo Editorial, podrá invitar a participar a las sesiones a quien estime conveniente de acuerdo con los temas a tratar. Dichos invitados participarán sólo con voz.
 
 ### CAPÍTULO VIII. LAS UNIDADES ADMINISTRATIVAS
 
@@ -916,3 +1058,9 @@ PRIMERO.- El presente Acuerdo iniciará su vigencia al momento de su aprobación
 SEGUNDO.- Se abroga el Acuerdo por el que se expide el Perfil de Puestos de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Aguascalientes, publicado en el Periódico Oficial del Estado el 24 de septiembre de 2018.
 
 TERCERO.- Publíquese en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE LA JUNTA DE GOBIERNO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, POR EL QUE SE ADICIONA Y REFORMA EL ESTATUTO ORGÁNICO".]
+
+ÚNICO.- La presente reforma, iniciará su vigencia al momento de su aprobación.
