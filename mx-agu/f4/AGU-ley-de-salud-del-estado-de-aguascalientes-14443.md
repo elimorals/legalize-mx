@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2019-09-23"
+last_updated: "2019-11-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -235,9 +235,21 @@ XXI.- Dictar la normatividad en materia de salubridad local;
 
 XXII.- Establecer las acciones sanitarias en los límites territoriales con otras entidades federativas;
 
-XXIII.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los Municipios, buscando la aportación de recursos humanos y financieros de éstos, con sujeción a las políticas nacional y estatal de salud; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
-XXIV.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XXIII.- Promover, orientar, fomentar y apoyar las acciones en materia de salubridad local a cargo de los Municipios, buscando la aportación de recursos humanos y financieros de éstos, con sujeción a las políticas nacional y estatal de salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XXIV.- Promover la donación de órganos y tejidos, y células de seres humanos, y establecer los mecanismos necesarios para la donación y trasplante de órganos en las instituciones de Salud del Estado;
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XXV.- Fomentar, promover y desarrollar unidades administrativas para el almacenamiento y desarrollo de la investigación científica en el área de estudio de las células madre; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIV], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+XXVI.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -468,6 +480,10 @@ u).- Publicar anualmente en el Periódico Oficial del Estado la relación de pro
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
 v).- Los programas para la prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal y la diabetes;
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+w).- La atención temprana tanto quirúrgica como rehabilitación para personas con malformaciones congénitas como labio leporino y paladar hendido, sindactilia y polidactilia.
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -749,9 +765,15 @@ Los establecimientos particulares para el internamiento de enfermos, prestarán 
 
 Son servicios de salud de carácter social los que presten directamente o mediante la contratación de seguros individuales o colectivos los grupos y organizaciones sociales a sus miembros y a los beneficiarios de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 51.
 
-Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+Además, deberán buscar satisfacer la atención gratuita a favor de las mujeres embarazadas en estado de vulnerabilidad por pobreza, de conformidad con el Reglamento correspondiente que para tal efecto expida el titular del Poder Ejecutivo.
 
 ###### ARTICULO 52.
 
@@ -907,7 +929,9 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II.- La atención del niño y la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+II.- La atención prenatal durante el embarazo y en el momento del nacimiento, así como la detección de defectos al nacimiento mediante las pruebas y exámenes señalados en las Normas Oficiales Mexicanas aplicables, y la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
 
 III.- La promoción de la integración y del bienestar familiar.
 
@@ -943,11 +967,27 @@ VIII.- Octava consulta: entre las 38 a las 41 semanas.
 
 Toda mujer embarazada que necesite atención obstétrica deberá ser atendida de manera inmediata y gratuita en cualquier establecimiento público hospitalario, aunque no cuente con seguridad social, en los términos del Convenio General de Colaboración Interinstitucional para la Atención de la Emergencia Obstétrica.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 70.
 
-En los servicios de salud se promoverá la organización institucional de comités de carácter estatal o municipal de prevención de la mortalidad materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes, en todo el estado, en alguna región, municipio o sector específico.
+En los servicios de salud se promoverá la organización institucional de comités de carácter estatal o municipal de prevención de la mortalidad y atención materna e infantil, a efecto de conocer, sistematizar y evaluar el problema y adoptar las medidas conducentes, en todo el estado, en alguna región, municipio o sector específico.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+Dichos comités tendrán las siguientes facultades:
+
+I.- Difundir entre las instituciones públicas y privadas del sector salud y educativo, los programas públicos al que pueden acceder las mujeres embarazada (sic) en materia de salud;
+
+II.- Ofrecer atención psicológica a las mujeres embarazadas, antes, durante e inclusive después del embarazo;
+
+III.- Canalizar hacia los programas culturales y deportivos especializados para mujeres embarazadas ante las instancias correspondientes;
+
+IV.- Informar a las mujeres embarazadas de los programas que ofrezcan las diferentes Instancias gubernamentales y Organizaciones de la Sociedad Civil para la capacitación de oficios y preparación para el trabajo;
+
+V.- Brindar asesoría integral a las mujeres embarazadas que manifiesten su intención de dar en adopción a su hija o hijo sobre los programas de salud, desarrollo social y atención familiar que brinden tanto instancias gubernamentales como Organizaciones de la Sociedad Civil; y
+
+VII.- Celebrar convenios de todo tipo y naturaleza mediante los cuales logren llevar a cabo las facultades señaladas en las fracciones anteriores.
 
 ###### ARTICULO 71.
 
@@ -1099,9 +1139,17 @@ ARTICULO 83 SEPTIES.- Las autoridades sanitarias deberán implementar las siguie
 
 I.- Realizar campañas de información sobre la insuficiencia renal, sus principales causas, factores de riesgo y métodos preventivos;
 
-II.- Desarrollar y ejecutar programas de prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal; y
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
 
-III.- Realizar estudios de investigación con la finalidad de identificar las regiones con mayor índice de riesgo de enfermedades renales.
+II.- Desarrollar y ejecutar programas de prevención, diagnóstico, tratamiento y atención médica de la insuficiencia renal;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+III.- Realizar estudios de investigación con la finalidad de identificar las regiones con mayor índice de riesgo de enfermedades renales; y
+
+> <small>(ADICIONADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+IV.- Recabar, censar, recibir, resguardar y supervisar información de los pacientes con enfermedades renales, que reciben tratamiento y atención médica.
 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2018)</small>
 
@@ -1145,7 +1193,9 @@ I.- Participar y emitir opiniones para la formulación de las políticas públic
 
 II.- Promover y establecer mecanismos para la coordinación de esfuerzos en materia de atención a enfermos renales;
 
-III.- Elaborar anualmente un informe que contenga los datos estadísticos, como las tasas de mortalidad y morbilidad de la insuficiencia renal;
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+
+III.- Elaborar anualmente un informe que contenga los datos estadísticos, de los pacientes que reciben atención y tratamiento médico con padecimientos de insuficiencia renal, así como las tasas de mortalidad y morbilidad de este;
 
 IV.- Promover la realización de estudios de investigación con la finalidad de identificar los factores de riesgo, principales causas, métodos de prevención y tratamiento de la insuficiencia renal; y
 
@@ -3658,3 +3708,11 @@ P.O. 23 DE SEPTIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigilancia (sic), al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 226.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES XXIII Y XXIV DEL ARTÍCULO 9°; LA FRACCIÓN II DEL ARTÍCULO 69; EL PÁRRAFO PRIMERO DEL ARTÍCULO 70; LAS FRACCIONES II Y III DEL ARTÍCULO 83 SEPTIES; LA FRACCIÓN III DEL ARTÍCULO 83 UNDECIES; ASIMISMO SE ADICIONAN LAS FRACCIONES XXV Y XXVI AL ARTÍCULO 9°; UN INCISO W) A LA FRACCIÓN IV, APARTADO A) DEL ARTÍCULO 28; UN PÁRRAFO SEGUNDO AL ARTÍCULO 51; UN PÁRRAFO SEGUNDO QUE INCLUYE LAS FRACCIONES I A VII AL ARTÍCULO 70; Y LA FRACCIÓN IV AL ARTÍCULO 83 SEPTIES DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
