@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-del-regimen-estatal-de-proteccion-social-1167
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-09-26"
-last_updated: "2016-09-26"
+last_updated: "2019-11-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DEL REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL ACUERDO QUE MODIFICA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 4 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de septiembre de 2016.
 
@@ -1008,3 +1010,15 @@ REPRESENTANTE DE LA SECRETARIA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 RÚBRICA
 
 LAS FIRMAS CORRESPONDEN AL ACUERDO POR EL QUE LA JUNTA DE GOBIERNO APRUEBA EL ESTATUTO ORGÁNICO QUE REGIRÁ LA ESTRUCTURA ORGÁNICA Y FUNCIONAL DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE HIDALGO, EN REUNIÓN EXTRAORDINARIA CELEBRADA EL DÍA PRIMERO DE ENERO DEL AÑO DOS MIL DIECISÉIS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE MODIFICA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Acuerdo que contiene el Estatuto Orgánico del Régimen Estatal de Protección Social en Salud del Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo, con fecha 26 de septiembre de 2016 y todas las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO.- Se ordena la inscripción del presente documento en el Registro Público en términos de lo que establece la Ley de Entidades y su Reglamento.
