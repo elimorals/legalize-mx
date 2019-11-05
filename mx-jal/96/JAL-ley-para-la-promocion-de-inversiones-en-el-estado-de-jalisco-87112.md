@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-promocion-de-inversiones-en-el-estado-de-jalisco-87
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2018-01-25"
+last_updated: "2019-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -33,7 +33,7 @@ Emilio González Márquez, Gobernador Constitucional del Estado Libre y Soberano
 
 NÚMERO 23965/LIX/12. EL CONGRESO DEL ESTADO DECRETA:
 
-SE ABROGA LA LEY PARA EL FOMENTO ECONÓMICO DEL ESTADO DE JALISCO, SE EXPIDE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO Y LA LEY PARA LA PROMOCIÓN DE INVERSIONES DEL ESTADO DE JALISCO, SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 108 Y AGREGA UN 108-BIS A LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y SE ADICIONA UNA FRACCIÓN Y MODIFICA LA FRACCIÓN V DEL ARTÍCULO 48 Y MODIFICA EL ARTÍCULO 101 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO.
+SE ABROGA LA LEY PARA EL FOMENTO ECONÓMICO DEL ESTADO DE JALISCO, SE EXPIDE LA LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO Y LA LEY PARA LA PROMOCIÓN DE INVERSIONES DEL ESTADO DE JALISCO, SE ADICIONA UNA FRACCIÓN AL ARTICULO 108 Y AGREGA UN 108-BIS A LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO Y SE ADICIONA UNA FRACCIÓN Y MODIFICA LA FRACCIÓN V DEL ARTÍCULO 48 Y MODIFICA EL ARTÍCULO 101 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -155,49 +155,29 @@ XI. Instaurar un sistema de seguimiento y retroalimentación oportuna, expedita 
 
 XII. Favorecer la coordinación entre las diferentes entidades y organismos estatales y municipales de promoción y fomento a la inversión productiva, y hacer compatibles sus agendas y objetivos particulares, con la finalidad de potenciar sus resultados.
 
-> <small>[N. DE E. DEL ANÁLISIS AL DECRETO 26728/LXI/17 PUBLICADO EN EL P.O. 25 DE ENERO DE 2018, SE ADVIERTE QUE SE MODIFICARÓN Y REACOMODARON LAS FRACCIONES DE LA I A LA XII DEL ARTÍCULO 9]</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 9.
 
 Para la atención de los objetivos encomendados al Sistema Estatal de Promoción de Inversiones y para la concreción, instrumentación, seguimiento y evaluación de los acuerdos que con ese fin se adopten, se conformará un Consejo, integrado de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
-
 I. El Gobernador del Estado, quien lo presidirá;
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
 II. El Secretario de Desarrollo Económico, quien fungirá como Secretario Técnico y Ejecutivo;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+III. El Secretario de la Hacienda Pública;
 
-III. El Secretario de Planeación, Administración y Finanzas;
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
-
-IV. El Secretario de Desarrollo Rural;
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+IV. El Secretario de Agricultura y Desarrollo Rural;
 
 V. El Secretario de Turismo;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
-
 VI. El Secretario de Medio Ambiente y Desarrollo Territorial;
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
 
 VII. El Secretario de Trabajo y Previsión Social;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+VIII. El Secretario de Seguridad;
 
-VIII. El Fiscal General del Estado;
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
-
-IX. El Secretario de Movilidad; y
-
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2018)</small>
+IX. El Secretario del Transporte; y
 
 X. El Secretario de Innovación, Ciencia y Tecnología.
 
@@ -527,11 +507,11 @@ El seguimiento y valoración del cumplimiento de los compromisos recíprocos adq
 
 Corresponde a la Secretaría emprender todo tipo de acciones administrativas, jurisdiccionales o de justicia alternativa necesarios para asegurar el cumplimiento cabal de los contratos relativos al otorgamiento de incentivos, acordar su terminación anticipada o ejecutar las penalizaciones que deriven de su incumplimiento. En su caso y para tal fin, el Comité Técnico del Fondo señalado en el artículo 6° de esta Ley, deberá notificar a la Secretaría de la existencia de tales controversias y promoverá la reversión de los derechos y bienes, que en su caso, se encuentren en controversia, para en favor de la Secretaría.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 43.
 
-La Secretaría podrá solicitar a la Secretaría de Planeación, Administración y Finanzas la constitución de créditos a favor de la Hacienda del Estado, y su ejecución coactiva, por los adeudos que se deriven del incumplimiento de las obligaciones contraídas en los contratos que se celebren para el otorgamiento de incentivos, para exigir el reintegro de los beneficios concedidos, para cubrir las penalizaciones que fueran aplicables, para cubrir los compromisos que deriven de convenios administrativos, judiciales o de justicia alternativa, o para resarcir los daños que se hubieren causado, previa resolución que determine su cuantía, dictada por autoridad competente.
+La Secretaría podrá solicitar a la Secretaría de la Hacienda Pública la constitución de créditos a favor de la Hacienda del Estado, y su ejecución coactiva, por los adeudos que se deriven del incumplimiento de las obligaciones contraídas en los contratos que se celebren para el otorgamiento de incentivos, para exigir el reintegro de los beneficios concedidos, para cubrir las penalizaciones que fueran aplicables, para cubrir los compromisos que deriven de convenios administrativos, judiciales o de justicia alternativa, o para resarcir los daños que se hubieren causado, previa resolución que determine su cuantía, dictada por autoridad competente.
 
 ### Capítulo III. Del Acceso a la Información y la Protección de Datos
 
@@ -700,3 +680,9 @@ P.O. 25 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 26728/LXI/17 QUE REFORMA LOS ARTÍCULOS 9° Y 13 DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente de decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27394/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
