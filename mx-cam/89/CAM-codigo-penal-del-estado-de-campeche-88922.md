@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2019-06-10"
+last_updated: "2019-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1715,7 +1715,21 @@ IV.- Se hubiera administrado a la víctima alguna sustancia tóxica que afecte s
 
 V.- Si la víctima fuere menor de edad;
 
-Este delito se perseguirá por querella de parte.
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+En los supuestos precedentes este delito se perseguirá por querella de parte.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+A quien cometa el delito de abuso sexual en una niña, niño o adolescente con discapacidad o en persona que por sus condiciones físicas o mentales no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y multa de trescientas a quinientas Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+Dicha penalidad se aumentará en una mitad en su mínimo y en su máximo, si se hiciera uso de violencia en la niña, niño o adolescente con discapacidad o en persona que por sus condiciones físicas o mentales no tenga la capacidad de comprender el significado del hecho, o exista una relación sentimental entre el sujeto activo y la víctima, o cuando el agresor aproveche su posición de autoridad, o se encuentre ejerciendo la patria potestad, tutela o curatela, se fijará de manera expresa y obligatoria la suspensión de la convivencia entre la víctima y su agresor, y a éste se le destituirá del cargo o comisión de los que pudo valerse, así como la pérdida de la patria potestad, tutela o curatela que estuviere ejerciendo sobre la víctima.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+En los casos señalados en los dos párrafos anteriores se procederá de oficio.
 
 ### CAPÍTULO III. VIOLACIÓN A LA INTIMIDAD PERSONAL
 
@@ -4366,6 +4380,16 @@ P.O. 10 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NO. 53 POR EL QUE “SE ADICIONA EL CAPÍTULO IX BIS, AL TÍTULO QUINTO, LIBRO SEGUNDO; Y LOS ARTÍCULOS 219 BIS, 219 TER, 219 QUÁTER, 219 QUINQUIES, 219 SEXIES Y 219 SEPTIES, DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+P.O. 5 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 80 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 169 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
