@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2016-09-12"
+last_updated: "2019-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -471,7 +471,9 @@ VII. Prohibición de uso de teléfonos celulares a menos que el vehiculo cuente 
 
 VIII. Prohibición de instalar faros deslumbrantes al vehiculo que pongan en riesgo la seguridad de los demás conductores y peatones;
 
-IX. Ningún vehículo podrá circular en el estado si se obstruye la visibilidad del conductor o hacia el interior del vehículo debido a la intensidad del polarizado, oscurecido o ahumado de los vidrios o por la colocación de cualquier otro aditamento. Quedando prohibida la instalación de lo antes señalado en el cristal delantero;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+IX. Ningún vehículo podrá circular en el Estado si se obstruye la visibilidad del conductor o hacia el interior del vehículo debido a la intensidad del polarizado, oscurecido o ahumado de los vidrios o por la colocación de cualquier otro aditamento. Quedando prohibida la instalación de lo antes señalado en el cristal delantero. Quedan exceptuados los vehículos conducidos o al servicio de personas que padezcan enfermedades o afecciones de la piel que deban evitar exponerse directamente a la luz solar. Bastará la exhibición del justificante expedido por médico especialista o institución de salud pública, ante la autoridad que lo requiera para que opere esta excepción.
 
 X. Prohibición de transitar con más pasajeros de los permitidos de acuerdo a la (sic) características del vehiculo motorizado y que se señalaran en la tarjeta de circulación correspondiente;
 
@@ -1384,3 +1386,11 @@ P.O. 12 DE SEPTIEMBRE DE 2016.
 PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 5 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 81 POR EL QUE “SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 45 DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, que se opongan al contenido del presente decreto.
