@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2019-10-08"
+last_updated: "2019-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -493,13 +493,29 @@ Cuando sólo uno de los cónyuges presente al infante y exhiba copia certificada
 
 Cuando no se presente copia certificada o extracto del acta de matrimonio o no ocurran ambos progenitores, sólo se asentará el nombre del padre o de la madre, cuando éste lo solicite por sí o por apoderado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-Los abuelos maternos o los familiares más próximos podrán efectuar el registro de un nacimiento cuando la madre hubiese fallecido y no fuere casada.
+(NOTA: EL 19 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADO CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Podrá efectuar el registro de su hijo, el padre que en compañía de los abuelos maternos o los familiares más próximos o dos testigos declaren la relación afectiva que existió entre el padre y la madre fallecida.
+LOS ABUELOS MATERNOS O LOS FAMILIARES MÁS PRÓXIMOS PODRÁN EFECTUAR EL REGISTRO DE UN NACIMIENTO CUANDO LA MADRE HUBIESE FALLECIDO Y NO FUERE CASADA.
+
+(NOTA: EL 19 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+PODRÁ EFECTUAR EL REGISTRO DE SU HIJO, EL PADRE QUE EN COMPAÑÍA DE LOS ABUELOS MATERNOS O LOS FAMILIARES MÁS PRÓXIMOS O DOS TESTIGOS DECLAREN LA RELACIÓN AFECTIVA QUE EXISTIÓ ENTRE EL PADRE Y LA MADRE FALLECIDA.
+
+(NOTA: EL 19 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+EN CASO DE FALLECIMIENTO DEL PADRE, LA MADRE PODRÁ EFECTUAR EL REGISTRO DE SU HIJO EN COMPAÑÍA DE LOS ABUELOS PATERNOS O FAMILIARES HASTA EL CUARTO GRADO QUE DECLAREN LA RELACIÓN DE CONCUBINATO QUE EXISTIÓ ENTRE AMBOS PROGENITORES. LA CONCUBINA DEBERÁ EXHIBIR LAS CONSTANCIAS QUE ACREDITEN EL CONCUBINATO DE CONFORMIDAD CON EL ARTÍCULO AL ARTÍCULO (SIC) 778 PÁRRAFOS SEGUNDO Y TERCERO DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 43 Bis.
+
+Podrá efectuar el registro de su hijo, el concubinario o la concubina que exhiba las constancias que acrediten el concubinato de acuerdo al artículo 778 párrafos Segundo y Tercero del Código Civil del Estado de Jalisco y se deberá de asentar en el acta los nombres de ambos progenitores, así como las generales de los abuelos paternos y maternos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1694,3 +1710,9 @@ P.O. 8 DE OCTUBRE DE 2019.
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 Segundo. Se concede al Poder Ejecutivo un plazo de noventa días, a partir de la entrada en vigor del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento de la Ley del Registro Civil del Estado de Jalisco.
+
+P.O. 5 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27524/LXII/19 QUE REFORMA EL ARTÍCULO 43 Y ADICIONA EL ARTÍCULO 43 BIS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
