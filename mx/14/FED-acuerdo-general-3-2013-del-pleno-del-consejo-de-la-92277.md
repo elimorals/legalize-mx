@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2019-10-18"
+last_updated: "2019-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE NOVIEMBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -135,9 +135,9 @@ I. PRIMER CIRCUITO:
 
 Nueve de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
 
-> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 37/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 25/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 5 DE NOVIEMBRE DE 2019)</small>
 
-4. Tres Juzgados de Distrito en Materia Mercantil Especializados en Juicios de Cuantía Menor con residencia en la Ciudad de México.
+4. Cuatro Juzgados de Distrito en Materia Mercantil Especializados en Juicios de Cuantía Menor, con residencia en la Ciudad de México.
 
 5. (DEROGADO POR EL TRANSITORIO TRIGÉSIMO NOVENO DEL ACUERDO GENERAL 20/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE AGOSTO DE 2018)
 
@@ -447,7 +447,7 @@ XXIV. VIGESIMO CUARTO CIRCUITO:
 
 > <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 17/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 14 DE OCTUBRE DE 2019)</small>
 
-3. Ocho juzgados de Distrito en el Estado de Nayarit: dos especializados en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales con residencia en Tepic; dos en procesos penales federales y de amparo en materia penal con residencia en “El Rincón”, municipio de Tepic, y cuatro de amparo en materia penal con residencia en Tepic.
+3. Ocho juzgados de Distrito en el Estado de Nayarit: dos especializados en Materia de Amparo Civil, Administrativo y de Trabajo y de Juicios Federales con residencia en Tepic; dos en procesos penales federales y de amparo en materia penal con residencia en "El Rincón", municipio de Tepic, y cuatro de amparo en materia penal con residencia en Tepic.
 
 XXV. VIGESIMO QUINTO CIRCUITO:
 
@@ -7564,3 +7564,21 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, realizará la logística para el traslado de los asuntos de amparo en materia penal de la ciudad de Xalapa a Villa Aldama, que se turnen por la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa.
 
 Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de los Juzgados de Distrito en el Estado de Veracruz, con residencia en Xalapa.
+
+D.O.F. 5 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 25/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO OCTAVO DE DISTRITO EN MATERIA MERCANTIL ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA MERCANTIL ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR EN LA ENTIDAD FEDERATIVA INDICADA; Y QUE REFORMA EL SIMILAR 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesario para el desempeño de sus labores.
+
+CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que inicia funciones.
+
+La Dirección General de Servicios Generales implementará lo necesario para el envío cotidiano de los asuntos que sean turnados por la referida Oficina de Correspondencia Común al órgano jurisdiccional que inicia funciones.
+
+QUINTO. Se autoriza por necesidades del servicio el uso temporal compartido de la sala de audiencias instalada en el Edifico Prisma, ubicado en Avenida Insurgentes Sur 2065, colonia San Ángel, Alcaldía Álvaro Obregón, código postal 01000, en la Ciudad de México, por parte del Juzgado de Distrito que inicia funciones materia del presente acuerdo y el Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México.
+
+Los titulares de los órganos referidos deberán coordinarse entre sí para el uso eficiente de la sala, cualquier incidencia al respecto será resuelta por las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información.
