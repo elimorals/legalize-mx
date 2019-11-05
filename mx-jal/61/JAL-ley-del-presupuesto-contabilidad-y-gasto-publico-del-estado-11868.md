@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-presupuesto-contabilidad-y-gasto-publico-del-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-20"
-last_updated: "2019-03-21"
+last_updated: "2019-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el martes 20 de enero de 1998.
 
@@ -43,29 +43,39 @@ LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 1.
 
-La presente Ley tiene por objeto regular los principios de equilibrio, sostenibilidad financiera y responsabilidad hacendaria, así como regular las acciones relativas a la programación financiera, presupuestaron (sic), ejercicio, contabilidad, control, vigilancia, transparencia y evaluación del desempeño del gasto público estatal; además los procedimientos de coordinación para el registro e información de estas materias, correspondiendo su aplicación al Poder Ejecutivo del Estado a través de la Secretaría de Planeación, Administración y Finanzas.
+La presente Ley tiene por objeto regular los principios de equilibrio, sostenibilidad financiera y responsabilidad hacendaria, así como regular las acciones relativas a la programación financiera, presupuestación, ejercicio, contabilidad, control, vigilancia, transparencia y evaluación del desempeño del gasto público estatal; además los procedimientos de coordinación para el registro e información de estas materias, correspondiendo su aplicación al Poder Ejecutivo del Estado a través de la Secretaría de la Hacienda Pública.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
 Los entes públicos obligados a cumplir las disposiciones de esta Ley deberán observar que la administración de los recursos públicos del estado se realice con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y perspectiva de género.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+
 De igual forma, el Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría, dictará las normas para la aplicación e interpretación administrativa de esta Ley, lo anterior de conformidad con las demás disposiciones aplicables
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 2.
 
 Para los efectos de esta ley se entenderá por:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
-I. Secretaría: A la Secretaría de Planeación, Administración y Finanzas;
+I. Secretaría: A la Secretaría de la Hacienda Pública;
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
 
 II. Dependencias: A las secretarías y dependencias del Poder Ejecutivo y sus organismos desconcentrados;
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
+
 III. Entidades: A los organismos descentralizados, empresas de participación estatal mayoritaria, y los fideicomisos públicos en los que el fideicomitente sea el Gobierno del Estado, entendiéndose como tales, los que define la Ley Orgánica del Poder Ejecutivo;
+
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2007)</small>
 
 IV. El Comité: Al Comité Interno de Presupuesto del Poder Ejecutivo del Estado.
 
@@ -409,7 +419,9 @@ II. Presentar a la Secretaría la evaluación costo y beneficio de los programas
 
 III. Registrar cada programa y proyecto de inversión en la cartera que integrará la Secretaría, para lo cual se deberá presentar la evaluación costo y beneficio correspondiente. Las dependencias y entidades deberán mantener actualizada la información contenida en la cartera. Sólo los programas y proyectos de inversión registrados en la cartera se podrán incluir en el proyecto de Presupuesto de Egresos. El Titular del Poder Ejecutivo, por conducto de la Secretaría, podrá negar o cancelar el registro si un programa o proyecto de inversión no cumple con las disposiciones aplicables; y
 
-IV. Los programas y proyectos registrados en la cartera de inversión serán analizados por el Secretario de Planeación, Administración y Finanzas, quien determinará la prelación para su inclusión en el proyecto de presupuesto de egresos, así como el orden de su ejecución, para establecer un orden de los programas y proyectos de inversión en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+IV. Los programas y proyectos registrados en la cartera de inversión serán analizados por el Secretario de la Hacienda Pública, quien determinará la prelación para su inclusión en el proyecto de presupuesto de egresos, así como el orden de su ejecución, para establecer un orden de los programas y proyectos de inversión en su conjunto y maximizar el impacto que puedan tener para incrementar el beneficio social, observando principalmente los criterios siguientes:
 
 a) Rentabilidad socioeconómica;
 
@@ -737,11 +749,11 @@ III. Gastos de servicios personales, prioritariamente las erogaciones por concep
 
 En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 49.
 
-El Titular del Poder Ejecutivo del Estado, cuidará en todo tiempo por conducto de la Secretaría, que la aplicación de los recursos contenida en el presupuesto, cumpla de la manera más eficaz posible con el desarrollo de la programación oficial, evitando su uso inadecuado o deficiente, por lo que en casos de conveniencia general, previa comprobación de la disponibilidad de saldo, de acuerdo con los compromisos registrados por parte de la Secretaría, el propio Titular del Poder Ejecutivo, el Secretario de Planeación, Administración y Finanzas o el Subsecretario de Finanzas podrán autorizar las transferencias entre las partidas o los programas presupuestarios que a su juicio se justifiquen conforme a las siguientes reglas:
+El Titular del Poder Ejecutivo del Estado, cuidará en todo tiempo por conducto de la Secretaría, que la aplicación de los recursos contenida en el presupuesto, cumpla de la manera más eficaz posible con el desarrollo de la programación oficial, evitando su uso inadecuado o deficiente, por lo que en casos de conveniencia general, previa comprobación de la disponibilidad de saldo, de acuerdo con los compromisos registrados por parte de la Secretaría, el propio Titular del Poder Ejecutivo y el Secretario de la Hacienda Pública, podrán autorizar las transferencias entre las partidas o los programas presupuestarios que a su juicio se justifiquen conforme a las siguientes reglas:
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -767,9 +779,9 @@ c) Cuando las partidas de los capítulos mencionadas en el inciso b) incorpore r
 
 III. Las partidas de "Servicios Personales" no podrán ser consideradas como de destino, salvo en los casos que el recurso se dirija a la educación, salud o inversión pública, aún cuando la partida de origen sea de ampliación automática. Asimismo, podrán realizarse transferencias entre partidas del capítulo de "Servicios Personales" siempre y cuando éstas hayan sido previamente autorizadas en los presupuestos de una misma Dependencia, no se altere el techo financiero del capítulo y, no se modifique la plantilla de personal autorizada por el Congreso del Estado, observando en todos los casos lo dispuesto en la fracción I de este artículo;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
-IV. Las transferencias entre partidas o programas presupuestarios de una misma unidad que conforme a las reglas anteriores se efectúen, se podrán aprobar por acuerdo del Secretario de Planeación, Administración y Finanzas o del Subsecretario de Finanzas, previa justificación del Titular de la dependencia; y
+IV. Las transferencias entre partidas o programas presupuestarios de una misma unidad que conforme a las reglas anteriores se efectúen, se podrán aprobar por acuerdo del Secretario de la Hacienda Pública, previa justificación del Titular de la dependencia; y
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1612,3 +1624,9 @@ P.O. 21 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27239/LXII/19 SE REFORMA EL ARTÍCULO 17 DE LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO, PARA SU ARMONIZACIÓN CON LA NORMATIVIDAD RELATIVA AL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27395/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DEL PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial ''El Estado de Jalisco".
