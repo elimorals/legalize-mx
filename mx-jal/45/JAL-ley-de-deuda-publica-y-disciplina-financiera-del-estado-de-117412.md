@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-deuda-publica-y-disciplina-financiera-del-estado-de-1174
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-26"
-last_updated: "2019-10-19"
+last_updated: "2019-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
 
 > <small>(F. DE E., P.O. 1 DE DICIEMBRE DE 2016)</small>
 
@@ -115,7 +115,11 @@ XXVI. Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jali
 
 XXVII. Registro Público Único Federal: el registro federal para la inscripción de obligaciones y financiamientos que contraten los Entes Públicos a cargo de la Secretaría de Hacienda y Crédito Público y establecido por la Ley de Disciplina;
 
-XXVIII. Secretaría: Secretaría de Planeación Administración y Finanzas del Gobierno del Estado de Jalisco; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+XXVIII. Secretaría: Secretaría de la Hacienda Pública del Gobierno del Estado de Jalisco: y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 XXIX. Techo de Financiamiento Neto: el monto límite de financiamiento anual al que podrá acceder un Ente Público Estatal o Municipal, previa autorización del Congreso del Estado, calculado por la Secretaría de Hacienda y Crédito Público federal conforme al Sistema de Alertas establecido en el Capítulo V del Título Tercero de la Ley de Disciplina.
 
@@ -147,7 +151,9 @@ IV. Excepcionalidad: se recurrirá al financiamiento cuando no existan fuentes d
 
 V. Institucionalidad: el financiamiento previamente adquirido deberá cumplirse en sus términos por las administraciones públicas de los Entes Públicos Estatales y Municipales; para tal efecto, deberán dar suficiencia a sus obligaciones, en su presupuesto anual de egresos;
 
-VI. Planeación: la contratación de financiamiento o asunción de obligaciones se deberá realizar de manera ordenada y para proyectos de inversión pública productiva alineados a los objetivos del plan estatal o municipales de desarrollo que coadyuven al crecimiento económico; y
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+VI. Planeación: la contratación de financiamiento o asunción de obligaciones se deberá realizar de manera ordenada y para proyectos de inversión pública productiva alineados a los objetivos del plan estatal o municipales (sic) de desarrollo y gobernanza que coadyuven al crecimiento económico; y
 
 VII. Sostenibilidad; la contratación de financiamiento y obligaciones deberá realizarse con base en la capacidad de pago presente y futura, sin comprometer la estabilidad o balance presupuestario sostenible necesario de las finanzas públicas.
 
@@ -235,7 +241,9 @@ II. Un informe del estado y composición de la deuda pública previamente adquir
 
 III. La proyección financiera respecto a los ingresos que constituirán la fuente de pago o garantía específica o fuente alterna; de pagó del financiamiento u obligación financiera a adquirirse y del impacto presupuestal que tendrá el servicio del adeudo;
 
-IV. El análisis costo beneficio que acredite que las obras o acciones de inversión pública productiva a financiarse generan un beneficio social neto y su relación con el plan estatal o municipal de desarrollo o la oportunidad de su desarrollo;
+> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+IV. El análisis costo beneficio que acredite que las obras o acciones de inversión pública productiva a financiarse generan un beneficio social neto y su relación con el plan estatal o municipal de desarrollo y gobernanza o la oportunidad de su desarrollo;
 
 V. En su caso la proyección de los ingresos o economías presupuestales que se obtendrán con la ejecución del proyecto o acción de inversión pública productiva; así como cuando se determine viable, la forma o vehículo en que los mismos se direccionarán o afectarán al servicio del adeudo contraído para su ejecución;
 
@@ -661,7 +669,7 @@ IV. Tratándose de obligaciones de corto plazo, el ente público contratante deb
 
 La Secretaría, conforme a las disposiciones generales que emita, podrá requerir al ente público la información financiera, contable o legal complementaria a efecto de evaluar la capacidad de pago del mismo en términos de lo previsto por la fracción VIII del artículo 51 de la Ley de Disciplina.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 La responsabilidad respecto de la integridad de la información presentada por el ente público en el proceso de inscripción ante el Registro Estatal de Obligaciones de los Entes Públicos del Estado de Jalisco y sus Municipios será del funcionario o servidor público que suscriba la misma, quien en caso de falsedad, ocultamiento de información o parcialidad en su exposición será sancionado en términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, sin perjuicio de las responsabilidades civiles o penales que correspondan.
 
@@ -731,7 +739,7 @@ En cualquier otro caso, la contravención a las disposiciones de la presente ley
 
 ### Capítulo II. Infracciones y Sanciones
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 57.
 
@@ -769,7 +777,7 @@ XIII. Celebran o comparezcan al otorgamiento de financiamiento a entes públicos
 
 XIV. Lleven a cabo cualquier acto, hecho o abstención en contravención a las disposiciones de la Ley de Disciplina, la Ley General, esta ley y a los reglamentos que de ella emanen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 59.
 
@@ -793,9 +801,9 @@ No deben imponerse sanciones cuando se haya incurrido en la infracción por caus
 
 Los servidores públicos que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta ley, o de las normas que de ella se derivan, deben comunicarlo al titular del ente público contratante y a la autoridad competente a efecto de proceder como corresponda.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
 
-La omisión a lo dispuesto en el párrafo anterior debe sancionarse en los términos de (sic) Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
+La omisión a lo dispuesto en el párrafo anterior debe sancionarse en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ## TRANSITORIOS
 
@@ -856,5 +864,11 @@ ROBERTO LÓPEZ LARA
 P.O. 19 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27378/LXII MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 5 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27393/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE DEUDA PÚBLICA Y DISCIPLINA FINANCIERA DE JALISCO Y SUS MUNICIPIOS”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
