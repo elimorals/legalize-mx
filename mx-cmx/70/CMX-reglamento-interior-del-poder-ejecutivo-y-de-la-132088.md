@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-10-11"
+last_updated: "2019-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2019.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -13042,7 +13042,13 @@ XXIII. En coordinación con la autoridad competente, establecer las directrices 
 
 XXIV. En coordinación con las autoridades competentes determinará con base a la normatividad vigente los mecanismos de disposición final de los cadáveres de los animales;
 
-XXV. Realizar el registro estadístico de las sentencias firmes relacionadas a delitos de maltrato y crueldad animal; y
+> <small>(REFORMADA, G.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+XXV. Realizar el registro estadístico de las sentencias firmes relacionadas a delitos de maltrato y crueldad animal;
+
+> <small>(ADICIONADA, G.O. 5 DE NOVIEMBRE DE 2019)</small>
+
+XXV Bis. Suscribir los contratos, convenios y demás actos jurídicos o de carácter administrativo dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones, lo anterior sin perjuicio del ejercicio directo por parte de la persona titular de la Secretaría del Medio Ambiente; y
 
 XXVI. Las demás que le otorguen la legislación vigente.
 
@@ -13643,3 +13649,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Las referencias hechas a la Subsecretaría de Capital Humano y Administración y/o a las unidades administrativas de su adscripción en el presente Reglamento, en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, respecto de las atribuciones que se transfieren por virtud del presente Decreto, se entenderán referidas a la que asuma las funciones que le correspondían a aquella.
+
+G.O. 5 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXV Y SE ADICIONA LA FRACCIÓN XXV BIS, DEL ARTÍCULO 315, DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
