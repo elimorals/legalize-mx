@@ -4,7 +4,7 @@ identifier: "GUA-estatuto-del-sistema-de-evaluacion-del-estado-de-guanajuato-125
 country: "mx"
 rank: "estatuto"
 publication_date: "2017-12-18"
-last_updated: "2017-12-18"
+last_updated: "2019-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 ESTATUTO DEL SISTEMA DE EVALUACIÓN DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
 
 Estatuto publicado en la Sexta Parte del Número 22 del Periódico Oficial del Estado de Guanajuato, el lunes 18 de diciembre de 2017.
 
@@ -183,9 +183,11 @@ Si a pesar de haber manifestado su interés en permanecer en su cargo, el consej
 
 Procedimiento para determinar la remoción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 13.
 
-Para determinar la remoción de un consejero ciudadano, el Secretario Técnico deberá instaurar un procedimiento breve, dentro del plazo de treinta días naturales, a partir de que tenga conocimiento de que se haya verificado cualquiera de los supuestos previstos en el artículo 11 de este Estatuto, en el que se concederá al consejero ciudadano el derecho de audiencia y para ofrecer pruebas, si así lo desea. Una vez sustanciado el procedimiento, el Secretario Técnico formulará el proyecto de resolución, el cual será sometido a la aprobación del Ejecutivo del Estado, por conducto de la Coordinación General Jurídica de la Consejería y Enlace de Gubernatura.
+Para determinar la remoción de un consejero ciudadano, el Secretario Técnico deberá instaurar un procedimiento breve, dentro del plazo de treinta días naturales, a partir de que tenga conocimiento de que se haya verificado cualquiera de los supuestos previstos en el artículo 11 de este Estatuto, en el que se concederá al consejero ciudadano el derecho de audiencia y para ofrecer pruebas, si así lo desea. Una vez sustanciado el procedimiento, el Secretario Técnico formulará el proyecto de resolución, el cual será sometido a la aprobación del Ejecutivo del Estado, por conducto de la Coordinación General Jurídica.
 
 La resolución que se emita se notificará personalmente al consejero ciudadano. Sí se determina la remoción, ésta surtirá efectos el día en que se le notifique la resolución. El afectado podrá impugnar esta resolución ante el Tribunal de Justicia Administrativa, en los términos del Código de Procedimiento y Justicia Administrativa para el Estado y los Municipios de Guanajuato.
 
@@ -478,3 +480,25 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 GUSTAVO RODRÍGUEZ JUNQUERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO GUBERNATIVO NÚMERO 36, DE MODIFICACIÓN MÚLTIPLE, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DEL DECRETO GUBERNATIVO NÚMERO 2 POR EL QUE SE CREA LA JEFATURA DE GABINETE DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO; DEL DECRETO GUBERNATIVO NÚMERO 148, MEDIANTE EL CUAL SE REESTRUCTURA LA ORGANIZACIÓN INTERNA DEL INSTITUTO DE PLANEACIÓN, ESTADÍSTICA Y GEOGRAFÍA DEL ESTADO DE GUANAJUATO; DEL DECRETO GUBERNATIVO NÚMERO 158, POR EL CUAL SE CREÓ LA UNIDAD DE TRANSPARENCIA Y ARCHIVOS DEL PODER EJECUTIVO; DEL REGLAMENTO INTERIOR DE LA UNIDAD DE TRANSPARENCIA Y ARCHIVOS DEL PODER EJECUTIVO EXPEDIDO MEDIANTE EL DECRETO GUBERNATIVO NÚMERO 159; DEL REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER EJECUTIVO DEL ESTADO DE GUANAJUATO EXPEDIDO MEDIANTE EL DECRETO GUBERNATIVO NÚMERO 218; DEL DECRETO GUBERNATIVO NÚMERO 189, MEDIANTE EL CUAL SE CONSTITUYE EL SISTEMA DE EVALUACIÓN DEL ESTADO DE GUANAJUATO; DEL DECRETO GUBERNATIVO NÚMERO 207, MEDIANTE EL CUAL SE EXPIDE EL ESTATUTO DEL SISTEMA DE EVALUACIÓN DEL ESTADO DE GUANAJUATO; Y POR EL QUE SE DEROGA EL ARTÍCULO PRIMERO DEL DECRETO GUBERNATIVO NÚMERO 158, MEDIANTE EL CUAL SE REESTRUCTURA LA CONSEJERÍA Y ENLACE DE GUBERNATURA, COMO UNIDAD DEL GOBERNADOR DEL ESTADO, CONTENIDA EN EL DECRETO GUBERNATIVO NÚMERO 6".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Decreto Gubernativo de creación de la Consejería y Enlace de Gubernatura
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 6, mediante el cual se crea la Consejería y Enlace de Gubernatura, como unidad del Gobernador del Estado, publicado en el Periódico Oficial del Gobierno del Estado número 196, Tercera Parte, del 7 de diciembre de 2012.
+
+Coordinación General Jurídica
+
+Artículo Tercero. La Coordinación General Jurídica continuará ejerciendo la función y las atribuciones que le confieren el artículo 5 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y el Decreto Gubernativo número 172, publicado en el Periódico Oficial del Gobierno del Estado número 188, Segunda Parte, del 25 de noviembre de 2003, en tanto se expide el Decreto Gubernativo que reestructure su organización interna y atribuciones.
+
+Atribución de la SFIA
+
+Artículo Cuarto. La Secretaría de Finanzas, Inversión y Administración realizará los ajustes presupuestales para dar cumplimiento al presente Decreto Gubernativo.
