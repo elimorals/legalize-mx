@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2019-06-15"
+last_updated: "2019-11-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -141,7 +141,9 @@ II. La atención materno-infantil;
 
 III. La prestación de servicios de salud sexual y reproductiva.
 
-IV. La salud mental;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2019)</small>
+
+IV. La salud mental, garantizando el pleno cumplimiento del derecho a la salud de los grupos vulnerables;
 
 V. Los programas de salud en los pueblos y comunidades indígenas;
 
@@ -239,7 +241,9 @@ II. Contribuir al desarrollo demográfico armónico del Estado;
 
 III. Colaborar al bienestar social de la población del Estado de Tabasco, mediante servicios de asistencia social principalmente a menores en estado de abandono, ancianos desamparados y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
-IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2019)</small>
+
+IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez, considerando en todo momento el principio del interés superior de niñas, niños y adolescentes, atendiendo a los instrumentos internacionales, nacionales y todas las disposiciones aplicables en la materia;
 
 V. Impulsar el bienestar y el desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades político sociales y culturales; con su participación y tomando en cuenta y (sic) sus valores y organización social;
 
@@ -483,7 +487,9 @@ IV. La atención materno-infantil;
 
 V. La planificación familiar;
 
-VI. La salud mental;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2019)</small>
+
+VI. La salud mental que garantice el mayor grado posible de desarrollo, autonomía, integridad y dignidad personales, en especial de los grupos vulnerables;
 
 VII. La prevención y el control de las enfermedades bucodentales;
 
@@ -785,6 +791,14 @@ Los centros educativos en el Estado deberán brindar las facilidades al personal
 
 Las autoridades sanitarias y educativas del estado se coordinarán para que exista en todas las escuelas primarias un programa de fomento a la salud que incluya temas de higiene personal y alimentaría, y en el 5° y 6° grados de educación primaria y los tres de educación secundaria, además, programas de salud mental, prevención de adicciones, salud reproductiva y fomento al deporte.
 
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2019)</small>
+
+Las dependencias e instituciones públicas, sociales y privadas, deben garantizar el pleno cumplimiento del derecho a la salud mental atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2019)</small>
+
+Los programas de fomento a la salud mental en menores de edad, deben contemplar en todo tiempo el principio del interés superior de niñas, niños y adolescentes, atendiendo a los instrumentos internacionales de derechos humanos en la materia.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VI. Servicios de Salud Sexual y Reproductiva
@@ -833,7 +847,7 @@ En materia de salud sexual y reproductiva las actividades de promoción y orient
 
 ###### ARTÍCULO 71.
 
-El Gobierno del Estado, coadyuvará con la Secretaría de Salud Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud; y cuidará que se incorporen en los programas estatales de salud.
+El Gobierno del Estado, coadyuvará con la Secretaría de Salud Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales de salud.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2010)</small>
 
@@ -851,7 +865,9 @@ Para la promoción de la salud mental, la Secretaría de Salud del Estado y las 
 
 I. El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
-II. La difusión de las orientaciones para la promoción de la salud mental;
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2019)</small>
+
+II. La difusión de las orientaciones para la promoción de la salud mental. Tratándose de menores de edad, se debe tomar en cuenta en todo momento el principio del interés superior de niñas, niños y adolescentes, atendiendo a los instrumentos internacionales de derechos humanos en la materia;
 
 III. La realización de programas para prevención del uso de substancias psicotrópicas, estupefacientes, inhalantes y otras sustancias que puedan causar alteraciones mentales o dependencias, y para la rehabilitación de los adictos a ellas;
 
@@ -883,11 +899,13 @@ Los enfermos mentales que requieran internamiento en unidades de salud podrán s
 
 La Secretaría de Salud verificará que las instituciones públicas y privadas que brinden servicios de salud mental o rehabilitación de adicciones en la entidad cumplan con las disposiciones sanitarias.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 78.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores o custodia de personas con discapacidad, los responsables de su guarda, las autoridades y cualquier otra persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+Los padres, tutores o quienes ejerzan la patria potestad de menores o custodia de personas con discapacidad, los responsables de su guarda, las autoridades y cualquier otra persona que esté en contacto con los mismos, brindando la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales, procurando que se respete su dignidad, integridad, libertad y atendiendo al principio del interés superior de las niñas, niños y adolescentes.
 
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales, a fin de garantizarles una vida plena y decente, en condiciones que aseguren su dignidad, fomenten su autosuficiencia y faciliten su participación en la comunidad.
 
 ###### ARTÍCULO 79.
 
@@ -4047,7 +4065,7 @@ P.O. 20 DE MAYO DE 2015.
 
 P.O. 23 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 287 POR EL QUE “SE REFORMA: EL ARTÍCULO 5, LA FRACCIÓN XIX, DEL APARTADO A), Y SE ADICIONAN: LA FRACCIÓN XX DEL APARTADO A) DEL ARTÍCULO 5, RECORRIÉNDOSE EN SU ORDEN LA ANTERIOR FRACCIÓN XX PARA SER LA XXI; UN SEGUNDO PÁRRAFO AL ARTÍCULO 241; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 243; LOS ARTÍCULOS 248 BIS Y 248 BIS 1; UN CAPÍTULO II BIS DENOMINADO DEL CENTRO ESTATAL DE TRASPLANTES, AL TÍTULO DÉCIMO CUARTO, INTEGRADO POR LOS ARTÍCULOS 250 BIS, 250 BIS 1, 250 BIS 2; 250 BIS 3, 250 BIS 4, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO 287 POR EL QUE "SE REFORMA: EL ARTÍCULO 5, LA FRACCIÓN XIX, DEL APARTADO A), Y SE ADICIONAN: LA FRACCIÓN XX DEL APARTADO A) DEL ARTÍCULO 5, RECORRIÉNDOSE EN SU ORDEN LA ANTERIOR FRACCIÓN XX PARA SER LA XXI; UN SEGUNDO PÁRRAFO AL ARTÍCULO 241; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 243; LOS ARTÍCULOS 248 BIS Y 248 BIS 1; UN CAPÍTULO II BIS DENOMINADO DEL CENTRO ESTATAL DE TRASPLANTES, AL TÍTULO DÉCIMO CUARTO, INTEGRADO POR LOS ARTÍCULOS 250 BIS, 250 BIS 1, 250 BIS 2; 250 BIS 3, 250 BIS 4, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4102,3 +4120,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 6 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 127 POR EL QUE “SE REFORMAN LA FRACCIÓN IV, DEL INCISO A), DEL ARTÍCULO 5, LA FRACCIÓN IV DEL ARTÍCULO 7, LA FRACCIÓN VI DEL ARTÍCULO 28, LA FRACCIÓN II, DEL ARTÍCULO 73 Y EL ARTÍCULO 78; Y SE ADICIONAN UN SEGUNDO Y UN TERCER PÁRRAFO AL ARTÍCULO 65; TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
