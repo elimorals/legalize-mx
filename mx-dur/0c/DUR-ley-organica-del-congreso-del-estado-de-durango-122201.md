@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2019-03-17"
+last_updated: "2019-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -1855,7 +1855,13 @@ XII. Proporcionar los servicios de tesorería que comprende: programación y pre
 
 XIII. Tener a su cargo un área de asesoría de calidad y mejora continua y atender los requerimientos administrativos y financieros de la Biblioteca Pública del Congreso en auxilio de la Comisión Editorial y de Biblioteca;
 
-XIV. Las demás que esta Ley, el Pleno del Congreso y el Secretario General le confieran.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2019)</small>
+
+XIV. Elaborar y presentar a la Secretaría General del Congreso, a efecto de su formulación a la Comisión de Administración y Contraloría y aprobación por la Junta de Gobierno y Coordinación Política, un esquema administrativo interno, orientado a suprimir la adquisición de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo responsable sustentable. Dicho esquema deberá revisarse, actualizarse y evaluarse sus resultados de manera anual, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE NOVIEMBRE DE 2019)</small>
+
+XV. Las demás que esta Ley, el Pleno del Congreso y el Secretario General le confieran.
 
 B. SECRETARÍA DE SERVICIOS PARLAMENTARIOS
 
@@ -2930,3 +2936,15 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los puntos de acuerdo turnados a las comisiones legislativas hasta la entrada en vigor del presente decreto, se tienen por desestimados y la Secretaría de Servicios Parlamentarios del H. Congreso del Estado actualizara los registros correspondientes.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 190.- EL CUAL ADICIONA EL ARTÍCULO 160 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2020.
+
+SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entrada en vigor del presente Decreto, la Secretaría de Servicios Administrativos y Financieros deberá diseñar y presentar a la Secretaría General del Congreso, a efecto de su formulación a la Comisión de Administración y Contraloría, y aprobación por la Junta de Gobierno y Coordinación Política, el esquema administrativo referido en la fracción XIV del artículo 160 de la Ley Orgánica del Congreso del Estado de Durango, objeto del presente Decreto. La aprobación final de tal esquema administrativo por parte del Congreso del Estado deberá realizarse en un plazo máximo de 60 días hábiles contados a partir de la presentación del mismo por parte de la Secretaría de Servicios Administrativos y Financieros a la Secretaría General del Congreso del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
