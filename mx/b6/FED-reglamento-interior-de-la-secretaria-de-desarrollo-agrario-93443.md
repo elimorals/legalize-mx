@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-agrario-9344
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2014-10-31"
+last_updated: "2019-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-04-01"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO, PUBLICADO EN EL D.O.F. DE 7 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -1494,3 +1496,27 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a pr
 D.O.F. 31 DE OCTUBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. DE 7 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agrario, Territorial y Urbano, publicado en el Diario Oficial de la Federación el 2 de abril de 2013.
+
+Las disposiciones reglamentarias y administrativas que derivan del Reglamento que se abroga, continuarán vigentes en lo que no se opongan a las disposiciones de este Reglamento que se expide.
+
+TERCERO.- En términos del Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 2 de enero de 2013 en el Diario Oficial de la Federación, las atribuciones conferidas a la Secretaría de la Reforma Agraria, así como las que en materia de ordenamiento territorial de los asentamientos humanos, planeación y regulación de los centros de población, vivienda y desarrollo regional y urbano se confiere a la Secretaría de Desarrollo Social, en leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas, se entenderán conferidas a la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+
+Igualmente, las referencias realizadas a unidades administrativas en los programas sujetos a Reglas de Operación o Lineamientos que se transfieren a la Secretaría de Desarrollo Agrario, Territorial y Urbano, de las secretarías de la Reforma Agraria y de Desarrollo Social, se entenderán trasladadas a la Subsecretaría, Unidad, Coordinación o Dirección General a la que se le hubiera transferido la competencia en términos del presente Reglamento.
+
+CUARTO.- Las transferencias de funciones, recursos humanos, materiales y financieros, serán coordinadas y vigiladas por la Unidad de Administración y Finanzas.
+
+Estas transferencias incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como a las de recursos humanos y de activos patrimoniales, según corresponda, mismas que, en su caso, deberán realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no se autorizarán ampliaciones al presupuesto autorizado del Ramo 15 Desarrollo Agrario, Territorial y Urbano para el presente ejercicio fiscal ni subsecuentes como resultado de la entrada en vigor del presente Reglamento.
+
+QUINTO.- Los asuntos que con motivo de este Reglamento deban pasar de alguna unidad administrativa a otra, se transferirán en el último trámite que hubieren alcanzado.
+
+SEXTO.- Con relación a los expedientes, asuntos, procedimientos y recursos iniciados en la Secretaría de la Reforma Agraria, y que han sido asumidos por la Secretaría de Desarrollo Agrario, Territorial y Urbano, con la publicación en el Diario Oficial de la Federación del presente Reglamento, hace las veces de notificación a los interesados de que esta Secretaría continuará con el trámite y resolución de los mismos, para todos los efectos legales procedentes.
+
+SÉPTIMO.- Cuando, en términos del último párrafo del artículo 37 de este Reglamento, el auxilio que proporcione la Secretaría de Desarrollo Agrario, Territorial y Urbano al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
