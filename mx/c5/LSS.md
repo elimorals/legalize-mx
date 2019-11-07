@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2019-07-02"
+last_updated: "2019-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -1585,6 +1585,12 @@ Con la última mensualidad se otorgará al huérfano un pago finiquito equivalen
 ###### Artículo 137.
 
 Si no existieran viuda, viudo, huérfanos ni concubina o concubinario con derecho a pensión, ésta se otorgará a cada uno de los ascendientes que dependían económicamente del asegurado o pensionado por invalidez fallecido, por una cantidad igual al veinte por ciento de la pensión que el asegurado estuviese gozando al fallecer, o de la que le hubiera correspondido suponiendo realizado el estado de invalidez.
+
+> <small>(ADICIONADO, D.O.F. 7 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 137 Bis.
+
+Si un pensionado desaparece de su domicilio por más de un mes sin que se tengan noticias de su paradero, sus beneficiarios con derecho a la pensión, disfrutarán de la misma en los términos de la sección del ramo de vida del seguro de invalidez y vida con carácter provisional, y previa la solicitud respectiva, bastando para ello que se compruebe el parentesco y la desaparición del pensionado, exhibiendo la denuncia presentada ante el Ministerio Público correspondiente. Si posteriormente y en cualquier tiempo, el pensionado se presentase, tendrá derecho a disfrutar él mismo su pensión y a recibir las diferencias entre el importe original de la misma y aquél que hubiese sido entregado a sus beneficiarios, sin que en ningún caso pueda entenderse una obligación del Instituto respecto de aquellos importes que hubieran sido pagados a los beneficiarios. Cuando se compruebe el fallecimiento del pensionado, la transmisión será definitiva.
 
 #### SECCION CUARTA. DE LAS ASIGNACIONES FAMILIARES Y AYUDA ASISTENCIAL
 
@@ -4361,3 +4367,9 @@ Segundo.- En cumplimiento con la resolución del Amparo Directo 9/2018 (relacion
 Tercero.- En consecuencia de lo referido en el Transitorio que precede, las disposiciones relativas a la incorporación formal de las personas trabajadoras del hogar al régimen obligatorio de seguridad social iniciarán su vigencia una vez que se realicen las adecuaciones y reservas legales necesarias para dar completa operatividad al reconocimiento del derecho a que se refiere este Decreto, debiendo quedar totalmente concluida en un plazo no mayor a 6 meses contados a partir de la culminación del Programa Piloto y entrega al Legislativo del informe aludido en el citado dispositivo que antecede.
 
 Cuarto.- Hasta en tanto entren en vigor las disposiciones contenidas en el presente Decreto referentes a la Ley del Seguro Social para comprender el trabajo del hogar en el régimen obligatorio, el patrón garantizará la atención médica y los gastos por concepto de sepelio.
+
+D.O.F. 7 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 137 BIS A LA LEY DEL SEGURO SOCIAL”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
