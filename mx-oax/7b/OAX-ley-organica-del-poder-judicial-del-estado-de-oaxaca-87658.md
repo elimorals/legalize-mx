@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2017-09-28"
+last_updated: "2019-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -2277,405 +2277,151 @@ VII. El monto del beneficio, daño o perjuicio económico derivado del incumplim
 
 Los órganos encargados de imponer las sanciones por faltas de los servidores públicos del Poder Judicial, son los presidentes de las Salas del Tribunal Superior de Justicia, la visitaduría general, la comisión de disciplina y el pleno del Consejo de la Judicatura.
 
-> <small>N. DE E. EL DECRETO NÚMERO 1367, EXPEDIDO POR LA LXII LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE LIBRO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
 # LIBRO OCTAVO.
 
 DEL TRIBUNAL ESPECIALIZADO.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
 ## Título primero.
 
 Del Tribunal de lo Contencioso Administrativo y de Cuentas.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
+
 ### Capítulo I.
 
 Disposiciones preliminares.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
 ###### Artículo 145.
 
-El Tribunal de lo Contencioso Administrativo y de Cuentas es un órgano especializado del Poder Judicial, de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones. Es la máxima autoridad jurisdiccional del Estado de Oaxaca en materia de fiscalización, rendición de cuentas, responsabilidad de los servidores públicos, combate a la corrupción y administrativa.
-
-Las resoluciones de la Sala Superior del Tribunal serán definitivas e inatacables en el orden local.
-
-El recinto del Tribunal de lo Contencioso Administrativo y de Cuentas es inviolable. Toda fuerza pública tiene impedido el acceso, salvo con el correspondiente permiso del Presidente del Tribunal, bajo cuyo mando quedarán dichas fuerzas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 146.
 
-El Tribunal es competente para:
-
-I. Conocer, sustanciar y resolver mediante juicio de inconformidad contra las controversias suscitadas por resoluciones que en materia de cuentas emita la Auditoría Superior del Estado;
-
-II. Conocer, substanciar y resolver mediante juicio las resoluciones en materia de responsabilidad administrativa que emita la Auditoría o los Órganos de Control Interno de la Administración Pública;
-
-III. Conocer, sustanciar, resolver en única instancia e imponer las sanciones en los procedimientos de los servidores públicos relacionados con responsabilidades administrativas graves y resarcitorias;
-
-IV. Conocer, substanciar y resolver en los procedimientos relacionados con cualquier persona que haya cometido hechos de corrupción que no constituyan delitos, así como de aquellos que resulten beneficiados por los mismos, de igual forma, su participación en actos vinculados con responsabilidades administrativas graves;
-
-V. Determinar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal, municipal o al patrimonio de los entes públicos estatales;
-
-VI. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas, inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como el resarcimiento de los daños y perjuicios a los que se refiere la fracción que antecede. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá decretarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública, siempre que se acredite la participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos en que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves, en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva;
-
-VII. Resolver las controversias que se susciten entre la Administración Pública Estatal y los particulares. Así como las que se susciten entre los municipios entre sí o entre éstos y el Gobierno del Estado, como consecuencia de los convenios que se celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales conforme a la ley de la materia, y
-
-VIII. Conocer de las controversias que se susciten entre los particulares y la Administración Pública Municipal, cuando no haya organismos o disposiciones de carácter municipal aprobadas por el Congreso del Estado que diriman dichas controversias.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 147.
 
-El Tribunal, al resolver los procesos y procedimientos, garantizará que los actos y las resoluciones administrativas y de cuentas, se sujeten a los principios de imparcialidad, legalidad, igualdad, publicidad, audiencia, constitucionalidad, convencionalidad, presunción de inocencia, in dubio pro reo y pro persona.
-
-En los casos que involucren personas, comunidades, municipios y pueblos indígenas y afromexicano, se observarán los sistemas normativos indígenas y las determinaciones de dichos pueblos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 148.
 
-La administración, vigilancia y disciplina en este Tribunal, corresponderá al Consejo de la Judicatura, por conducto de la Comisión de Administración Vigilancia y Disciplina del Tribunal de lo Contencioso Administrativo y de Cuentas.
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
-La Comisión de Administración, Vigilancia y Disciplina del Tribunal propondrá al Pleno del Consejo de la Judicatura los Proyectos de Acuerdos Generales que sean necesarios para mejorar o hacer eficiente la administración del Tribunal.
-
-La Coordinación de Asesores dependerá de la Comisión de Administración del Tribunal.
-
-La Escuela Judicial tendrá a su cargo la capacitación y especialización del personal del Tribunal.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo II.
 
 Estructura del Tribunal.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
 ###### Artículo 149.
 
-El Tribunal se integrará por:
-
-I. Órganos jurisdiccionales:
-
-a) La Presidencia;
-
-b) La Sala Superior;
-
-c) Las salas unitarias de primera instancia que podrán tener el carácter de salas especializadas o auxiliares; y
-
-II. Órganos administrativos:
-
-a) La Comisión de Administración, Vigilancia y Disciplina.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 150.
 
-Los servidores públicos adscritos a los órganos, son:
-
-a) Magistrados;
-
-b) Secretario General de Acuerdos;
-
-c) Secretarios de Estudio y Cuenta;
-
-d) Secretarios de Acuerdos;
-
-e) Actuarios, y
-
-f) Los servidores públicos y auxiliares técnicos necesarios.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 151.
 
-La Sala Superior del Tribunal es la máxima autoridad del Tribunal, y se integrará por:
-
-I. Cinco magistrados;
-
-II. Secretario General de Acuerdos;
-
-III. Secretarios de Estudio y cuenta;
-
-IV. Actuarios;
-
-V. Empleados y demás Funcionarios técnicos.
-
-En la tramitación de los recursos de revisión, el Presidente de la Sala Superior actuará con el Secretario General de Acuerdos del Tribunal.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 152.
 
-El presidente de la Sala Superior será el presidente del Tribunal.
-
-Las resoluciones de la Sala Superior se tomarán por unanimidad o por mayoría de votos y sus sesiones serán públicas, salvo en los casos que por disposición de la ley o determinación de la propia Sala sean privadas cuando se estime que se pudiera afectar el orden público. En caso de disenso de una resolución los magistrados podrán emitir su voto particular.
-
-La Sala Superior tendrá las siguientes atribuciones:
-
-I. Vigilar la autonomía e independencia del Tribunal;
-
-II. Recibir y en su caso aceptar o rechazar, la renuncia al cargo de presidente del tribunal;
-
-III. Designar o remover a propuesta del presidente a quien ocupe la Secretaria General de Acuerdos;
-
-IV. Elegir al Presidente del Tribunal;
-
-V. Conocer y resolver las controversias que se susciten en materia de Cuentas y las impugnaciones de resoluciones sancionatorias, que emita la Auditoría Superior del Estado;
-
-VI. Conocer y calificar, en cada caso, los impedimentos o las excusas de los magistrados integrantes y de los magistrados unitarios;
-
-VII. Tramitar y resolver en segunda instancia, de las determinaciones de las salas unitarias, en los casos previstos en las fracciones VI, VII y VIII del artículo 146 de esta Ley;
-
-VIII. Emitir los acuerdos que sean necesarios para la pronta y eficaz administración de justicia;
-
-IX. Establecer, de acuerdo a su competencia, los criterios relevantes, en casos de obscuridad o ambigüedad de la ley;
-
-X. Habilitar un recinto alterno para sesionar, cuando las condiciones de seguridad no lo permitan;
-
-XI. Aprobar el proyecto de presupuesto de egresos, para su inclusión en el proyecto de presupuesto del Poder Judicial;
-
-XII. Aprobar su reglamento interno, y
-
-XIII. Las demás que le conceda esta ley, el Reglamento Interno del Tribunal y otras disposiciones legales que resulten aplicables.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 153.
 
-Las salas unitarias de primera instancia se integrarán por:
-
-I. Un magistrado;
-
-II. Secretarios de Acuerdos;
-
-III. Actuarios, Oficiales Administrativos, y demás personal técnico y administrativo que el Consejo de la Judicatura autorice al respecto.
-
-Las Salas unitarias conocerán de materias específicas, con la jurisdicción, competencia y residencia que se determinen en el Reglamento Interior, de acuerdo a los estudios y propuesta de la Comisión de Administración Vigilancia y Disciplina del Tribunal al Pleno del Consejo de la Judicatura, con base en las necesidades del servicio.
-
-Dichas Salas observaran para su organización, integración y en su caso funcionamiento, lo dispuesto en el Reglamento Interior y las posibilidades presupuestales.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 154.
 
-El Secretario de Acuerdos de la Sala Unitaria será propuesto por el magistrado unitario al Consejo de la Judicatura.
-
-El magistrado unitario calificará las excusas o impedimentos que presente el Secretario de Acuerdos y comunicará al Consejo de la Judicatura del impedimento calificado de legal para que se proceda a designar al Secretario de Acuerdos que sustituirá al que se encuentre impedido.
-
-En los casos de ausencia del magistrado de la Sala Unitaria por causa de fuerza mayor, el Consejo de la Judicatura podrá autorizar a un secretario de acuerdos para que resuelva los asuntos en ausencia del titular.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 155.
 
-El magistrado unitario podrá:
-
-I. Solicitar directamente, cuando así se requiera, el auxilio de la fuerza pública en su Sala; en este caso, dará aviso al presidente del Tribunal;
-
-II. Autorizar el ingreso a su Sala, de toda fuerza pública, quedando esta fuerza bajo su mando directo, y
-
-III. Las demás que le asigne la Ley y el Reglamento Interior del Tribunal.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 156.
 
-La Sala Superior residirá en la capital del estado o en la zona conurbada, y las salas unitarias de primera instancia tendrán la residencia y competencia territorial, que determine el Consejo de la Judicatura.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 157.
 
-La Comisión de Administración se integra por el Presidente del Tribunal y dos consejeros de la Judicatura, en los términos previstos en esta Ley.
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo III.
 
 De los Magistrados.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
 ###### Artículo 158.
 
-Los magistrados durarán en el ejercicio de su encargo ocho años, en los términos del periodo previsto en el artículo 111 de la Constitución Política del Estado Libre y Soberano de Oaxaca, pudiendo ser reelectos por un periodo igual; y podrán jubilarse en los términos del capítulo relativo a las jubilaciones para los magistrados del Tribunal Superior de Justicia.
-
-En los casos de retiro voluntario, o forzoso, o en el caso de fallecimiento del magistrado en activo, el Consejo de la Judicatura determinará la indemnización o pensión que le corresponda, atendiendo al periodo laborado.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 159.
 
-Los magistrados del Tribunal, además de satisfacer los requisitos señalados en el artículo 101 de la Constitución Política del Estado Libre y Soberano de Oaxaca, deberán contar con conocimientos en Derecho Administrativo, Fiscal, de Fiscalización o de Cuentas.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 160.
 
-Corresponde a los magistrados:
-
-I. Gozar del fuero que les concede la Constitución Política del Estado Libre y Soberano de Oaxaca;
-
-II. No ser privados de sus cargos, sino en los términos del artículo 117 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
-
-III. Percibir una remuneración adecuada, la cual no podrá ser reducida durante su encargo;
-
-IV. Desempeñar las comisiones que acuerde la Sala Superior o el Presidente del Tribunal, dando cuenta por escrito con el resultado de la encomienda, y
-
-V. Las demás que les fijen la Ley y el Reglamento Interior.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 161.
 
-Los Magistrados estarán impedidos para conocer de los juicios que se tramiten ante la Sala Superior o las salas unitarias, en los siguientes casos:
-
-I. Cuando tengan algún interés personal en el asunto;
-
-II. Cuando tengan interés directo o indirecto, su cónyuge, sus parientes consanguíneos en línea recta, sin limitación de grado, sus colaterales hasta el cuarto grado y los parientes por afinidad, hasta el segundo grado;
-
-III. Cuando hayan sido apoderados o patronos de alguna de las partes, dentro del mismo negocio;
-
-IV. Cuando hayan dictado el acto impugnado, o intervenido, con cualquier carácter, en la emisión del mismo o en su ejecución;
-
-V. Cuando figuren como parte en un juicio similar, pendiente de resolución en el Tribunal;
-
-VI. Cuando estén en una situación que pueda afectar su imparcialidad, en forma análoga o más grave que las mencionadas, y
-
-VII. Cuando exista entre el funcionario y alguna de las partes, sus abogados o representantes, una relación de amistad o enemistad manifiesta.
-
-En los juicios que se tramiten ante este tribunal no procede la recusación.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 162.
 
-La excusa se presentará ante la Presidencia de la Sala Superior, y de ser procedente, se remitirá el asunto al Magistrado que por turno corresponda.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 163.
 
-El Magistrado que teniendo impedimento para conocer de determinado asunto, no se excuse, o no teniéndolo, se excuse para que se le aparte de su conocimiento, incurrirá en responsabilidad; en este caso, la Sala Superior por conducto del Presidente del Tribunal, lo hará del conocimiento del Congreso del Estado para que inicie el procedimiento de juicio político; sin perjuicio de que si la Sala advierta la comisión de un delito, de vista a la Fiscalía para que determine lo conducente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 164.
 
-La falta definitiva de un magistrado, dará lugar a que el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura, lo comunique al Gobernador del Estado, para que convoque al procedimiento de selección; mientras tanto, se observará lo que determine el Reglamento Interior del Tribunal. Además el Presidente dará aviso al Consejo de la Judicatura, para que designe al magistrado que lo sustituya en tanto se realiza el procedimiento de selección.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 165.
 
-Los magistrados y demás servidores públicos del Tribunal, durante el tiempo de su ejercicio, estarán impedidos para litigar y asesorar, a empresas o particulares, salvo causa propia, y no podrán ocupar cargo alguno en partidos políticos ni desempeñar otro empleo, cargo o comisión en la federación, en cualquier estado de la República, en los municipios o en el ámbito privado; excepto la docencia o la investigación académica, que sea compatible con la magistratura.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 166.
 
-Las retribuciones y prestaciones que reciban los magistrados de este Tribunal, serán iguales a las que perciban los magistrados del Tribunal Superior de Justicia y lo que disponga su Reglamento Interior y que estarán señaladas en el presupuesto de egresos del Estado.
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo IV. De la Presidencia
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
 ###### Artículo 167.
 
-El Tribunal estará presidido por el magistrado de Sala Superior que, en votación secreta por cédula de los integrantes de la Sala Superior, resulte electo. El magistrado electo tomará inmediata posesión de su cargo y rendirá la protesta como presidente del Tribunal de lo Contencioso Administrativo y de Cuentas. Durará en su cargo tres años, con posibilidades de ser reelecto por un periodo adicional. Las ausencias del presidente menores de diez días hábiles, serán cubiertas por el magistrado que este designe. Las ausencias mayores de diez días, pero menores de seis meses, serán cubiertas por el magistrado que designe la Sala Superior en calidad de sustituto.
-
-Las ausencias mayores de seis meses, o si ocurriera la falta absoluta del presidente por cualquier causa, la Sala Superior elegirá un presidente interino para que termine el periodo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 168.
 
-Corresponde al Presidente del Tribunal:
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
-I. Representar legalmente al Tribunal;
-
-II. Representar al Tribunal en todos los actos oficiales; esta representación podrá delegarse en el servidor público del Tribunal que designe el propio presidente;
-
-III. Presidir y dirigir los debates del Pleno de la Sala Superior y las audiencias que celebre, conservando el orden durante su desarrollo;
-
-IV. Convocar a sesiones ordinarias y extraordinarias en los días, horas y términos que señale el reglamento interno del tribunal, las sesiones extraordinarias se celebraran cada vez que lo estime necesario el presidente o lo pida la mayoría de los magistrados;
-
-V. Tramitar todos los asuntos de la competencia de la Sala Superior, hasta ponerlos en estado de resolución; para ello podrá designar al magistrado ponente en cada asunto;
-
-VI. Autorizar, conjuntamente con el Secretario General, los acuerdos que dicte la Sala Superior en los asuntos de su competencia y las actas correspondientes a las sesiones, haciendo constar en estas, las deliberaciones, respecto de los asuntos de que se trate;
-
-VII. Vigilar el respeto al fuero constitucional y la inviolabilidad del recinto del Tribunal;
-
-VIII. Proponer a los magistrados de la Sala Superior los proyectos de acuerdos generales conducentes al mejoramiento de la justicia administrativa y de cuentas;
-
-IX. Proponer a la Sala Superior del Tribunal, el nombramiento del Secretario General de Acuerdos;
-
-X. Vigilar que la administración de justicia sea pronta y expedita;
-
-XI. Supervisar que los magistrados rindan los datos estadísticos del movimiento de asuntos de su competencia;
-
-XII. Presentar oportunamente a consideración de los magistrados de la Sala Superior, el anteproyecto del presupuesto de egresos del Tribunal elaborado por la Comisión de Administración del Tribunal para su oportuna integración al presupuesto del Poder Judicial;
-
-XIII. Presentar al Consejo de la Judicatura el proyecto de presupuesto de egresos para su inclusión en el proyecto de presupuesto del Poder Judicial;
-
-XIV. Rendir anualmente un informe de las actividades del tribunal y de la presidencia;
-
-XV. Presidir la Comisión de Administración, Vigilancia y Disciplina del Tribunal y representarla en términos de esta Ley y el Reglamento Interno del Tribunal;
-
-XVI. Publicar los acuerdos generales y los propios, en cada caso se indicará la forma de publicación;
-
-XVII. Proponer a la Sala Superior los criterios jurisprudenciales y relevantes en caso de obscuridad o ambigüedad de la ley, para su acuerdo y publicación correspondiente;
-
-XVIII. Firmar en representación del Tribunal, de la Sala Superior y de la Comisión de Administración, Vigilancia y Disciplina del Tribunal los informes que le sean solicitados;
-
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
-
-XIX. Celebrar acuerdos con instituciones públicas o privadas sobre asuntos de competencia del Tribunal;
-
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
-
-XX. Ser integrante del Comité Coordinador del Sistema Estatal de Combate a la Corrupción; y
-
-XXI. Las demás que señale esta ley, el Reglamento Interno del Tribunal y otros ordenamientos que resultan aplicables.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo V. De los Auxiliares
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
-
 ###### Artículo 169.
 
-El Tribunal contará para el ejercicio de sus atribuciones y el cumplimiento de sus obligaciones, con los siguientes auxiliares:
-
-I. Secretario General de Acuerdos;
-
-II. Secretarios de Estudio y Cuenta;
-
-III. Secretarios de Acuerdos; y
-
-IV. Actuarios.
-
-Cuando la Sala Superior del Tribunal lo estime conducente para la resolución del asunto, podrá solicitar la opinión de consultores especializados, en los términos regulados en el Reglamento Interior del Tribunal y de acuerdo a las posibilidades presupuestarias.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 170.
 
-El Secretario General de Acuerdos, deberá acreditar experiencia de tres años y reunir los requisitos que se exigen para el Secretario General de Acuerdos del Tribunal Superior de Justicia; sus funciones se encuentran previstas en la Ley y en el Reglamento Interior del Tribunal.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 171.
 
-Los secretarios de estudio y cuenta, de acuerdos, actuarios y consultores, deberán cumplir con los requisitos que se establecen en el Reglamento Interior para cada uno de esos cargos.
+(DEROGADO POR TRANSITORIO TERCERO DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, P.O. 7 DE NOVIEMBRE DE 2019)
 
 > <small>N. DE E. EL DECRETO NÚMERO 1367, EXPEDIDO POR LA LXII LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE LIBRO.</small>
 
@@ -2870,3 +2616,27 @@ P.O. 28 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 703.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 7 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE “PARTES NO VETADAS.- DEL DECRETO NÚMERO 805 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Publíquese.
+
+SEGUNDO.- Para los efectos del artículo 20 de la Ley Orgánica del Tribunal de Justicia Administrativa, el Presidente en funciones deberá convocar de inmediato al Pleno del Tribunal para la designación de un nuevo Presidente.
+
+El Presidente en funciones no podrá ser nombrado nuevamente para el periodo inmediato.
+
+TERCERO.- Se deroga el Libro Octavo de la Ley Orgánica del Poder Judicial del Estado, así como todas las demás disposiciones que se opongan a la presente Ley.
+
+CUARTO.- El Reglamento Interior del Tribunal de lo Contencioso Administrativo y de Cuentas del Poder Judicial del Estado de Oaxaca, así como el Reglamento Interno que se encuentran vigentes a la entrada en vigor de la presente Ley, seguirán aplicándose en aquello que no se oponga a ésta, hasta que el Pleno del Tribunal expida el nuevo Reglamento Interno de conformidad con lo previsto en este ordenamiento.
+
+QUINTO.- Los servidores públicos que venían ejerciendo cargos administrativos que desaparecen o se transforman conforme a lo dispuesto por esta Ley, continuarán desempeñando los mismos cargos hasta que el Pleno del Tribunal acuerde sobre la instalación de los nuevos órganos administrativos y decida sobre la designación mediante acuerdos específicos.
+
+SEXTO. A los servidores públicos del Tribunal de lo Contencioso Administrativo y de Cuentas del Poder Judicial del Estado de Oaxaca, se les respetarán sus derechos laborales.
+
+SÉPTIMO.- El Pleno del Tribunal de Justicia Administrativa del Estado de Oaxaca, aprobará el Reglamento Interno en un plazo de noventa días a partir de la entrada en vigor de esta Ley.
+
+OCTAVO.- Lo no previsto en esta Ley Orgánica, se establecerá en el Reglamento Interno y Acuerdos Generales del Pleno del Tribunal.
+
+NOVENO.- Todas las referencias que en las leyes se hagan al Tribunal de lo Contencioso Administrativo y de Cuentas del Poder Judicial del Estado de Oaxaca, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Oaxaca.
