@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-convivencia-para-el-hogar-ciudad-de-11906
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-13"
-last_updated: "2017-02-13"
+last_updated: "2019-11-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119062&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-02-01"
 ---
 # REGLAMENTO INTERNO DE CONVIVENCIA PARA EL HOGAR CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL HOGAR CDMX (CAIS HOGAR CDMX), PUBLICADO EN LA G.O. DE 7 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE CONVIVENCIA PARA EL HOGAR CDMX
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Reglamento publicado al Número 6 de la Gaceta Oficial de la Ciudad de México, el lunes 13 de febrero de 2017.
 
@@ -335,3 +337,23 @@ EL DIRECTOR GENERAL DEL INSTITUTO DE ASISTENCIA E INTEGRACIÓN SOCIAL
 (Firma)
 
 MTRO. HÉCTOR MALDONADO SAN GERMÁN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE CONVIVENCIA PARA LAS PERSONAS USUARIAS Y PERSONAS SERVIDORAS PÚBLICAS DEL CENTRO DE ASISTENCIA E INTEGRACIÓN SOCIAL HOGAR CDMX (CAIS HOGAR CDMX)”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Aviso entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se deroga el Reglamento Interno de Convivencia para el Hogar CDMX, publicado en la Gaceta Oficial de la Ciudad de México el 13 de Febrero de 2017.
+
+CUARTO.- Las disposiciones respecto al tiempo de estancia, tipo de atención y demás servicios sociales previstas en el Reglamento Interno de Convivencia para las personas usuarias del Centro de Asistencia e Integración Social, no tendrán efectos retroactivos para los usuarios que ya se encuentren registrados.
+
+QUINTO.- El responsable del Centro de Asistencia e Integración Social Hogar CDMX perteneciente al Instituto de Atención a Poblaciones Prioritarias, contará con un plazo de 60 días hábiles a partir de la entrada en vigor del ordenamiento para que, en coordinación con su equipo multidisciplinario evalúen la funcionalidad de los usuarios, realicen la actualización del Plan de Vida por usuario y se determine el tiempo y tipo de estancia a la que tendrán derecho conforme lo señalado en el artículo 8 del presente Reglamento. El Consejo Técnico deberá reunirse para autorizar lo que determine el equipo multidisciplinario. La resolución que se emita deberá hacerse de conocimiento a la Dirección de los Centros de Asistencia e Integración Social.
+
+SEXTO.- En la medida de la suficiencia presupuestal se expedirá el Gafete de Identificación referido en el presente Reglamento, dicho gafete podrá ser impreso o contar con algún dispositivo electrónico, que agilice el registro de los usuarios y los servicios sociales proporcionados.
+
+SÉPTIMO.- El Responsable del Centro tendrá 30 días hábiles a partir de la publicación del presente Reglamento para, elaborar el Manual Específico de Operación del Consejo Técnico.
