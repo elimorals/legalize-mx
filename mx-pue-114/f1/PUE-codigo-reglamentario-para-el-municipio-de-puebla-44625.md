@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2019-10-11"
+last_updated: "2019-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -10951,13 +10951,17 @@ VI. Invadir el arroyo vehicular, obstaculizar, las rampas, escalones, quicios, p
 
 VII. Ejecutar actividades que atenten contra la salud, las buenas costumbres o la Imagen Urbana tal como es el caso de niveles de ruido, malos olores productos, y procesos peligrosos y/o contaminantes, que atenten en general contra el medio ambiente y sus leyes y reglamentos respectivos;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Utilizar sus casetas, kioscos, carros, vehículos o bienes muebles, como casa habitación, u otros diferentes al comercial; y
+VIII. Utilizar sus casetas, kioscos, carros, vehículos o bienes muebles, como casa habitación, u otros diferentes al comercial.
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
 
-IX. Ejercer el comercio sin el permiso correspondiente.
+IX. Ejercer el comercio sin el permiso correspondiente; y
+
+> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2019)</small>
+
+X. Comercializar teléfonos celulares o cualquier dispositivo electrónico o de comunicación, nuevo o usado.
 
 > <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2013)</small>
 
@@ -38302,5 +38306,13 @@ P.O. 11 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA LOS ARTÍCULOS 17, 685 FRACCIÓN VI Y 687 FRACCIÓN XI DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, CON LA FINALIDAD DE ARMONIZAR ESTAS DISPOSICIONES CON LA REFORMA AL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, QUE CAMBIA DE DENOMINACIÓN AL DISTRITO FEDERAL AL DE CIUDAD DE MÉXICO Y LA ELEVA A LA CATEGORÍA DE ENTIDAD FEDERATIVA”.]
 
 PRIMERO. Las adiciones y reformas aprobadas en el presente Dictamen entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 7 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 4 DE SEPTIEMBRE DE 2019, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE REGLAMENTACIÓN MUNICIPAL, POR EL QUE REFORMA LAS FRACCIONES VIII Y IX DEL ARTÍCULO 651 Y ADICIONA LA FRACCIÓN X AL CITADO ARTÍCULO DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. Las reformas y adición aprobadas en el presente Dictamen, entrarán en vigor a partir del día hábil siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
