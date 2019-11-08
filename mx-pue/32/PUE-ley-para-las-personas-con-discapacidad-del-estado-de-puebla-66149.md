@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2019-07-12"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -265,9 +265,13 @@ j) La igualdad entre mujeres y hombres con discapacidad;
 
 k) La transversalidad, y
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-l) Los demás que resulten aplicables.
+l) Pro persona; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+m) Los demás que resulten aplicables.
 
 ## TÍTULO SEGUNDO. DE LOS SERVICIOS INSTITUCIONALES PARA PERSONAS CON DISCAPACIDAD
 
@@ -363,27 +367,45 @@ XI.- Las demás que le señalen el presente ordenamiento, su Reglamento y demás
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 16.
 
-Los derechos humanos, libertades fundamentales y los derechos que establece la presente Ley serán reconocidos a todas las personas con discapacidad, sin distinción por su origen étnico o nacional, el género, la edad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra situación que atente contra la dignidad humana y tenga por objeto discriminar, anular o menoscabarlos, de manera enunciativa y no limitativa entre otros, los de:
+Los derechos humanos, las libertades fundamentales y los derechos que establece la presente Ley serán reconocidos a todas las personas con discapacidad, sin distinción de origen étnico, nacional, género, edad, o un trastorno de talla, condición social, económica o de salud, religión, opiniones, preferencias sexuales, estado civil, embarazo, identidad política, lengua, situación migratoria o cualquier otra característica propia de la condición humana o que atente contra su dignidad y tenga por objeto discriminar, anular o menoscabar sus derechos, de manera enunciativa y no limitativa entre otros, los de:
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 I.- Gozar del respeto de los derechos de todo ciudadano, dentro del marco jurídico de las Leyes;
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 II.- Tener igualdad de oportunidades en los ámbitos económico, social, cultural, de salud, laboral, legal, educativo, y de otra índole;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 III.- Desplazarse libremente con las formas de asistencia humana, animal o cualquier otro medio técnico o electrónico, tecnológico que la ciencia aporte, en los espacios públicos abiertos o cerrados de cualquier índole;
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 IV.- Disfrutar de los servicios públicos estacionarios en igualdad de oportunidades y circunstancias;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 V.- Facilitar el acceso y desplazamiento con las formas de asistencia humana, animal o cualquier otro medio técnico o electrónico, tecnológico que la ciencia aporte, en el interior de espacios laborales, comerciales y recreativos;
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 VI.- A no ser sometido a cualquier forma de explotación, violencia, abuso y toda forma de discriminación;
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 VII.- Obtener el reconocimiento de las capacidades, méritos, habilidades y sus aportaciones en relación con el lugar de trabajo y mercado laboral;
 
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+
 VIII.- A que se respete su integridad física y mental en igualdad de condiciones con los demás, y
+
+> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
 IX.- Tener privacidad de la información y de la rehabilitación, en igualdad de condiciones con los demás.
 
@@ -892,6 +914,22 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 43, EL 48 Y 51 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL INCISO L) Y ADICIONA EL INCISO M) AL ARTÍCULO 10 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ACÁPITE DEL ARTÍCULO 16 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
