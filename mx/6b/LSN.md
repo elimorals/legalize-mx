@@ -4,7 +4,7 @@ identifier: "LSN"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-31"
-last_updated: "2005-12-26"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42803&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LSN"
 ---
 # LEY DE SEGURIDAD NACIONAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE SEGURIDAD NACIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 31 de enero de 2005.
 
@@ -102,9 +104,19 @@ IX. Actos ilícitos en contra de la navegación marítima;
 
 X. Todo acto de financiamiento de acciones y organizaciones terroristas;
 
-XI. Actos tendentes a obstaculizar o bloquear actividades de inteligencia o contrainteligencia, y
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
 
-XII. Actos tendentes a destruir o inhabilitar la infraestructura de carácter estratégico o indispensable para la provisión de bienes o servicios públicos.
+XI. Actos tendentes a obstaculizar o bloquear actividades de inteligencia o contrainteligencia;
+
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+XII. Actos tendentes a destruir o inhabilitar la infraestructura de carácter estratégico o indispensable para la provisión de bienes o servicios públicos, y
+
+(NOTA: EL 24 DE NOVIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2019 Y SU ACUMULADA 136/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+XIII. ACTOS ILÍCITOS EN CONTRA DEL FISCO FEDERAL A LOS QUE HACE REFERENCIA EL ARTÍCULO 167 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.
 
 ###### Artículo 6.
 
@@ -649,3 +661,11 @@ D.O.F. 26 DE DICIEMBRE DE 2005.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- Al entrar en vigor el presente Decreto y para los efectos del segundo párrafo del artículo 56 de este Decreto de Reformas, en un plazo de un año, deberán impulsarse las reformas y adiciones a la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos por parte del Congreso General de los Estados Unidos Mexicanos para contar con las atribuciones necesarias para el mejor desempeño de la Comisión Bicamaral.
+
+D.O.F. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE SEGURIDAD NACIONAL, DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DEL CÓDIGO PENAL FEDERAL".]
+
+Primero. El presente Decreto entrará en vigor el día 1o. de enero de 2020.
+
+Segundo. Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
