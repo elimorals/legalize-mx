@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-social-para-el-estado-de-puebla-52694"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-18"
-last_updated: "2019-07-16"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Sección al Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2006.
 
@@ -219,15 +219,23 @@ I.- Propiciar las condiciones que aseguren el disfrute de los derechos sociales,
 
 II.- Fortalecer el desarrollo regional y municipal de manera equilibrada, a través de los programas regionales que establezca el Estado como resultado de la coordinación con los Municipios, propiciando la equidad y el fortalecimiento institucional de los mismos. Para estos efectos, ambas instancias de gobierno concertarán mecanismos que permitan una mejor distribución y el ejercicio transparente y eficiente de los recursos;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-III.- Focalizar las acciones en beneficio de la población que presente mayor índice de pobreza multidimensional, considerando los resultados de las evaluaciones de organismos internacionales, o nacionales públicos o privados.
+III.- Priorizar las acciones en beneficio de la población que presente mayor índice de pobreza, multidimensional o de marginación considerando los resultados de la evaluación de organismos internacionales, o nacionales públicos o privados.
 
 IV.- Garantizar formas de participación social en la formulación, ejecución, instrumentación, evaluación y control de los Programas de Desarrollo Social;
 
-V.- Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución; y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-VI.- Fortalecer el Desarrollo Regional equilibrado.
+V.- Promover un desarrollo económico con sentido social que propicie y conserve el empleo, eleve el nivel de ingreso y mejore su distribución;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+VI.- Fortalecer el Desarrollo Regional equilibrado, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+VII.- Promover acciones y programas que incidan en la erradicación del hambre y desnutrición en la población del Estado.
 
 ###### Artículo 13.
 
@@ -772,3 +780,11 @@ P.O. 16 DE JULIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, V Y VI, Y ADICIONA LA FRACCIÓN VII, TODAS DEL ARTÍCULO 12 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
