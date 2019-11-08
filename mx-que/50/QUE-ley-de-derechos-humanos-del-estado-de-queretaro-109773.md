@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-humanos-del-estado-de-queretaro-109773"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2016-07-22"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -31,7 +31,9 @@ LIC. JOSÉ EDUARDO CALZADA ROVIROSA, Gobernador Constitucional del Estado de Que
 
 LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL ESTADO DE QUERÉTARO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 17, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO, 81 Y 87 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO, Y
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo expuesto, la Quincuagésima Séptima Legislatura del Estado de Querétaro expide la siguiente:
 
@@ -225,9 +227,11 @@ XII. Elaborar, conforme a sus necesidades, su proyecto de presupuesto anual de i
 
 XIII. Promover la política estatal de difusión, divulgación, educación, respeto, protección y defensa de los Derechos Humanos;
 
-XIV. Rendir, ante la Comisión de Derechos Humanos y Acceso a la Información Pública de la Legislatura del Estado, en la sesión que para el efecto se le convoque, a través de su Presidente, en forma personal y por escrito, durante la última semana del mes de febrero de cada año, un informe detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de sus actividades.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-De igual manera, en la misma semana informará a la ciudadanía sobre sus actividades en la forma que para ello determine previamente el Consejo;
+XIV. Rendir, a través de su Presidente, en el mes de febrero de cada año, ante la Legislatura del Estado, un informe por escrito, detallado y pormenorizado de sus resoluciones, del ejercicio de su presupuesto y de sus actividades.
+
+De igual manera, en el mismo mes se informará a la ciudadanía sobre sus actividades en la forma que para ello determine previamente el Consejo;
 
 XV. Promover y fortalecer las relaciones con organismos públicos en la materia, con el propósito de que, conjuntamente con las autoridades, se instrumenten las medidas pertinentes para garantizar a los particulares, programas preventivos en materia de protección de Derechos Humanos;
 
@@ -1218,3 +1222,11 @@ P.O. 22 DE JULIO DE 2016.
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 SEGUNDO.- Quedan abrogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente ordenamiento.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 17 DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
