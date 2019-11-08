@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2019-04-12"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -1026,6 +1026,10 @@ VI.- Para solicitar verificación del quórum.
 Los Diputados, sea desde su curul o en tribuna, podrán solicitar al Presidente de la Mesa Directiva instruya a la Secretaría dar lectura a algún texto breve relacionado con el tema de que se trata. De ser procedente, el tiempo de la lectura no excederá a cinco minutos y será adicional al que tenga derecho el orador.
 
 Si durante su intervención un Diputado presentara al Pleno cualquier material o documento relativo al tema de que se trate, el Presidente de la Mesa Directiva instruirá a la Secretaría se resguarde para los efectos a que haya lugar.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+Las Diputadas y Diputados que pertenezcan a una comunidad indígena, podrán hacer uso de la palabra en Tribuna en su lengua originaria cuando presenten alguna iniciativa de ley o de Decreto, para lo cual previamente lo harán saber a la Mesa Directiva, a fin de que ésta tome las previsiones correspondientes.
 
 ###### ARTÍCULO 80.
 
@@ -2385,7 +2389,9 @@ V. Concluida la discusión de un proyecto de dictamen o resolución, se proceder
 
 Las decisiones en las Comisiones se adoptarán con el voto de la mayoría de sus integrantes.
 
-Los Dictámenes y resoluciones que se produzcan bajo la modalidad de trabajo en Comisiones Unidas, serán aprobados por la mayoría de los integrantes de cada una de las Comisiones que participen. Los Diputados que sean integrantes de más de una de ellas, tendrán un voto por cada Comisión.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+Los Dictámenes y resoluciones que se produzcan bajo la modalidad de trabajo en Comisiones Unidas, serán aprobados por la mayoría de los integrantes de cada una de las Comisiones que participen. Los Diputados que sean integrantes de más de una de ellas, tendrán un voto por cada Comisión, teniendo el Presidente de la Comisión coordinadora voto de calidad, en caso de empate.
 
 ###### ARTÍCULO 194.
 
@@ -2393,7 +2399,9 @@ Cuando en una votación de Comisión o Comisiones Unidas sobre un asunto se prod
 
 Si resultare empate por segunda vez, se tratará el asunto en una reunión posterior, previo acuerdo de la Comisión o Comisiones.
 
-Si el empate persiste en la segunda reunión de la Comisión, se informará de ello a la Mesa Directiva y a la Junta de Coordinación para justificar el retraso en la presentación del dictamen o para los efectos conducentes.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+Si el empate persiste en la segunda reunión de la Comisión, el Presidente de la Comisión tendrá voto de calidad.
 
 ###### ARTÍCULO 195.
 
@@ -4246,3 +4254,27 @@ Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos legales 
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado y en el portal electrónico del Congreso para conocimiento general.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 262 POR EL QUE SE ADICIONA UN PÁRRAFO ÚLTIMO AL ARTÍCULO 79 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento general y efectos legales conducentes.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 263 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 193 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 194 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento general y efectos legales conducentes.
