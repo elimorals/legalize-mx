@@ -4,7 +4,7 @@ identifier: "CNPP"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-03-05"
-last_updated: "2019-08-09"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CNPP"
 
 CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de marzo de 2014.
 
@@ -2128,6 +2128,18 @@ X. Tráfico de menores, previsto en el artículo 366 Ter;
 
 XI. Contra la salud, previsto en los artículos 194, 195, 196 Bis, 196 Ter, 197, párrafo primero y 198, parte primera del párrafo tercero.
 
+(NOTA: EL 24 DE NOVIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2019 Y SU ACUMULADA 136/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SÉPTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+SE CONSIDERAN DELITOS QUE AMERITAN PRISIÓN PREVENTIVA OFICIOSA, LOS PREVISTOS EN EL CÓDIGO FISCAL DE LA FEDERACIÓN, DE LA SIGUIENTE MANERA:
+
+I. CONTRABANDO Y SU EQUIPARABLE, DE CONFORMIDAD CON LO DISPUESTO EN LOS ARTÍCULOS 102 Y 105, FRACCIONES I Y IV, CUANDO ESTÉN A LAS SANCIONES PREVISTAS EN LAS FRACCIONES II O III, PÁRRAFO SEGUNDO, DEL ARTÍCULO 104, EXCLUSIVAMENTE CUANDO SEAN CALIFICADOS;
+
+II. DEFRAUDACIÓN FISCAL Y SU EQUIPARABLE, DE CONFORMIDAD CON LO DISPUESTO EN LOS ARTÍCULOS 108 Y 109, CUANDO EL MONTO DE LO DEFRAUDADO SUPERE 3 VECES LO DISPUESTO EN LA FRACCIÓN III DEL ARTÍCULO 108 DEL CÓDIGO FISCAL DE LA FEDERACIÓN, EXCLUSIVAMENTE CUANDO SEAN CALIFICADOS, Y
+
+III. LA EXPEDICIÓN, VENTA, ENAJENACIÓN, COMPRA O ADQUISICIÓN DE COMPROBANTES FISCALES QUE AMPAREN OPERACIONES INEXISTENTES, FALSAS O ACTOS JURÍDICOS SIMULADOS, DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 113 BIS DEL CÓDIGO FISCAL DE LA FEDERACIÓN, EXCLUSIVAMENTE CUANDO LAS CIFRAS, CANTIDAD O VALOR DE LOS COMPROBANTES FISCALES, SUPEREN 3 VECES LO ESTABLECIDO EN LA FRACCIÓN III DEL ARTÍCULO 108 DEL CÓDIGO FISCAL DE LA FEDERACIÓN.
+
 El juez no impondrá la prisión preventiva oficiosa y la sustituirá por otra medida cautelar, únicamente cuando lo solicite el Ministerio Público por no resultar proporcional para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima y de los testigos o de la comunidad. Dicha solicitud deberá contar con la autorización del titular de la Procuraduría o el funcionario que en él delegue esa facultad.
 
 ###### Artículo 168.
@@ -2388,9 +2400,11 @@ II. Delitos culposos, o
 
 III. Delitos patrimoniales cometidos sin violencia sobre las personas.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+(NOTA: EL 24 DE NOVIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2019 Y SU ACUMULADA 136/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas.
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+No procederán los acuerdos reparatorios en los casos en que el imputado haya celebrado anteriormente otros acuerdos por hechos que correspondan a los mismos delitos dolosos, tampoco procederán cuando se trate de delitos de violencia familiar o sus equivalentes en las Entidades federativas. TAMPOCO SERÁN PROCEDENTES LOS ACUERDOS REPARATORIOS PARA LAS HIPÓTESIS PREVISTAS EN LAS FRACCIONES I, II Y III DEL PÁRRAFO SÉPTIMO DEL ARTÍCULO 167 DEL PRESENTE CÓDIGO.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 17 DE JUNIO DE 2016)</small>
 
@@ -2461,6 +2475,12 @@ III. Que hayan transcurrido dos años desde el cumplimiento o cinco años desde 
 > <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
 
 Lo señalado en la fracción III del presente artículo, no procederá cuando el imputado haya sido absuelto en dicho procedimiento.
+
+(NOTA: EL 24 DE NOVIEMBRE DE 2022 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 130/2019 Y SU ACUMULADA 136/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+LA SUSPENSIÓN CONDICIONAL SERÁ IMPROCEDENTE PARA LAS HIPÓTESIS PREVISTAS EN LAS FRACCIONES I, II Y III DEL PÁRRAFO SÉPTIMO DEL ARTÍCULO 167 DEL PRESENTE CÓDIGO.
 
 ###### Artículo 193.
 
@@ -3206,7 +3226,9 @@ VI. Cuando, a razón de las causas o circunstancias que rodean la comisión de l
 
 VII. (DEROGADA, D.O.F. 17 DE JUNIO DE 2016)
 
-No podrá aplicarse el criterio de oportunidad en los casos de delitos contra el libre desarrollo de la personalidad, de violencia familiar ni en los casos de delitos fiscales o aquellos que afecten gravemente el interés público.
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+No podrá aplicarse el criterio de oportunidad en los casos de delitos contra el libre desarrollo de la personalidad, de violencia familiar ni en los casos de delitos fiscales o aquellos que afecten gravemente el interés público. Para el caso de delitos fiscales y financieros, previa autorización de la Secretaría de Hacienda y Crédito Público, a través de la Procuraduría Fiscal de la Federación, únicamente podrá ser aplicado el supuesto de la fracción V, en el caso de que el imputado aporte información fidedigna que coadyuve para la investigación y persecución del beneficiario final del mismo delito, tomando en consideración que será este último quien estará obligado a reparar el daño.
 
 El Ministerio Público aplicará los criterios de oportunidad sobre la base de razones objetivas y sin discriminación, valorando las circunstancias especiales en cada caso, de conformidad con lo dispuesto en el presente Código así como en los criterios generales que al efecto emita el Procurador o equivalente.
 
@@ -5971,3 +5993,11 @@ Décimo. El titular del Ejecutivo Federal, dentro de un plazo que no excederá l
 Décimo Primero. El Gabinete Social de la Presidencia de la República, por conducto de su Secretaría Técnica expedirá en los noventa días naturales posteriores a la entrada en vigor del presente Decreto, su reglamento interior.
 
 Décimo Segundo. Dentro del año siguiente a la entrada en vigor de la Ley Nacional de Extinción de Dominio, la persona titular de la Fiscalía General de la República, realizará una convocatoria pública para la revisión del marco constitucional y jurídico en materia de extinción de dominio. Dicha convocatoria tendrá como objetivo la identificación, discusión y formulación de las reformas constitucionales y de la Ley Nacional de Extinción de Dominio para su óptimo funcionamiento. Los resultados obtenidos serán públicos y se comunicarán al Congreso de la Unión con el fin de que éste realice las adecuaciones al marco jurídico que considere sean necesarias y pertinentes.
+
+D.O.F. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA, DE LA LEY DE SEGURIDAD NACIONAL, DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DEL CÓDIGO PENAL FEDERAL".]
+
+Primero. El presente Decreto entrará en vigor el día 1o. de enero de 2020.
+
+Segundo. Al momento de la entrada en vigor del presente Decreto, quedan sin efectos todas las disposiciones contrarias al mismo, no obstante lo anterior, las conductas cometidas antes de la entrada en vigor del presente Decreto que actualicen cualquiera de los delitos previstos en los artículos 113, fracción III y 113 Bis del Código Fiscal de la Federación, así como el artículo 400 Bis del Código Penal Federal, continuarán siendo investigadas, juzgadas y sentenciadas, mediante la aplicación de dichos preceptos.
