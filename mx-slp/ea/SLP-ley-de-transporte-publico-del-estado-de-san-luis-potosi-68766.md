@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2019-10-23"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -1373,61 +1373,93 @@ A fin de preservar el medio ambiente y evitar el desequilibrio ecológico que pu
 
 ### CAPÍTULO III. De las Empresas de Redes de Transporte
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-ARTICULO 71 BIS. Las Empresas de Redes de Transporte deberán contar con registro ante la Secretaría, cuya vigencia será anual; dicho registro estará sujeto a los requisitos siguientes:
+ARTICULO 71 BIS. Las personas morales que busquen contar con registro en el Estado para operar como Empresas de Redes de Transporte, deberán presentar solicitud en los formatos que emita la Secretaría, y acreditar los siguientes extremos:
 
-I. Exhibir acta constitutiva debidamente registrada en el Instituto Registral y Catastral del Estado de San Luis Potosí;
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+I. Estar debidamente constituidas y registradas en el Instituto Registral y Catastral del Estado de San Luis Potosí, CON DOMICILIO SOCIAL Y FISCAL EN EL MISMO ESTADO;
 
 > <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 II. Suscribir, con el Poder Ejecutivo del Estado, un convenio para la constitución de un fondo público económico, al que deberán aportar un 1.5% del monto efectivamente cobrado por cada viaje iniciado en el Estado de San Luis Potosí, por los prestadores del servicio a través de Empresas de Redes de Transporte que se encuentren debidamente registrados en la plataforma propiedad de la Empresa de Redes de Transporte, o promocionada por la misma, cuyos recursos se destinarán para el desarrollo de políticas públicas en materia de transporte público;
 
-III. Acreditar ser propietaria, subsidiaria o contar con derechos de explotación o acuerdos comerciales para la promoción respecto de la aplicación tecnológica que permita mediar el servicio correspondiente, y
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-IV. Informar a la Secretaría los estándares de calidad y operación con que los conductores afectos prestarán sus servicios.
+III. Acreditar ser propietaria, subsidiaria o contar con derechos de explotación o acuerdos comerciales para la promoción respecto de la aplicación tecnológica que permita mediar el servicio correspondiente;
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-ARTICULO 71 TER. Las Empresas de Redes de Transporte, tendrán las obligaciones siguientes:
+IV. Informar a la Secretaría los estándares de calidad y operación con que los conductores afectos prestarán sus servicios, y
 
-I. Asegurar que el servicio que presten acate los estándares de calidad y operación que hayan informado a la Secretaría;
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-II. Solicitar la renovación de su registro cuando menos treinta días previo a su vencimiento;
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-III. Garantizar que las aplicaciones móviles y portales de internet asociadas a la plataforma tecnológica, mantenga de manera visible, permanente y de fácil acceso, las tarifas de cobro o el método por virtud del cual se calcularán;
+V. ACREDITAR QUE CUENTAN CON LOS CONVENIOS CON UNA O MÁS INSTITUCIONES DE CRÉDITO, PARA PODER LLEVAR A CABO EL COBRO DE TARIFA POR MEDIOS ELECTRÓNICOS.
 
-IV. Asegurar que la plataforma independiente cree y mantenga un portal de internet permanente y vinculada a la aplicación móvil que administren, promuevan o promocionen, a efecto de poner a disposición del público las condiciones de la prestación del servicio;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-V. Prestar todas las facilidades e información disponible que le requieran las autoridades federales, estatales y municipales en el ejercicio de sus funciones y dentro de la esfera de sus competencias, y
+ARTICULO 71 TER. Recibida la solicitud, la Secretaría podrá requerir de la solicitante la información que crea necesaria; asimismo, podrá llevar a cabo todos los actos que estime pertinentes, a fin de verificar la información proporcionada, o bien, realizar las pruebas suficientes para constatar que la plataforma que se presenta a registro, funcione de manera adecuada.
 
-VI. Enviar a la dirección de correo electrónico registrada por el usuario, un comprobante que acredite el pago del servicio.
+En su caso, la autorización otorgada tendrá vigencia por un año, contado a partir de la fecha de su expedición.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+La autorización podrá ser renovada, siempre y cuando la titular de la misma, haya cumplido con todas las obligaciones a su cargo, debiendo en todos los casos, solicitar la renovación con por lo menos treinta días hábiles anteriores a la fecha de su vencimiento.
 
-ARTICULO 71 QUÁTER. Las Empresas de Redes de Transporte deberán registrar anualmente ante la Secretaría, a sus prestadores de servicio, y propietarios de vehículos como personas físicas, pudiendo realizar dicho trámite a través de los portales o medios electrónicos que se pongan a su disposición, exhibiendo los documentos siguientes:
+Las renovaciones otorgadas tendrán vigencia de un año.
 
-I. Identificación oficial;
+Tanto la expedición de la autorización para operar, como su renovación, estarán condicionadas al pago de derechos que determine la Ley de Hacienda para el Estado de San Luis Potosí.
 
-II. Comprobante de domicilio;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-III. Registro Federal de Contribuyentes, y
+ARTICULO 71 QUATER. Para iniciar operaciones cualquier vehículo adherido a una Empresa de Redes de Transporte, deberá previamente ser dado de alta ante la Secretaría; de igual forma, los operadores deberán solicitar su alta y registro. Lo anterior de acuerdo con lo siguiente:
 
-IV. Documento que acredite la propiedad o legal posesión del vehículo por virtud del cual prestarán el servicio.
+I. De los Vehículos:
 
-Los prestadores de servicio de transporte de pasajeros a través de Redes de Transporte, deberán acreditar ante éstas, cursos de capacitación, exámenes toxicológicos, psicométricos y de salud.
+Para dar de alta vehículos, la Empresa de Redes de Transporte de que se trate, además de certificar la adhesión, de acuerdo con los procedimientos que determine la Secretaría, deberá acreditar que se cumplan los siguientes requisitos:
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DEL INCISO a) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
-ARTICULO 71 QUINQUE. Los vehículos a través de los cuales se preste el servicio de Redes de Transporte, deberán acreditar ante éstas los requisitos siguientes:
+a) Que el vehículo cuente con capacidad de cinco pasajeros incluyendo el operador, estar equipado con bolsas de aire y frenos antibloqueo o su equivalente, TENER UNA DISTANCIA MÍNIMA DE 2.60 METROS ENTRE EJES, contar con maletero de capacidad mínima de 260 litros, y TENER UN VALOR FACTURA DEL EQUIVALENTE A POR LO MENOS TRES MIL UNIDADES DE MEDIDA Y ACTUALIZACIÓN.
 
-I. Estar al corriente en el pago de los derechos de control vehicular del Estado de San Luis Potosí, y demás contribuciones a que esté afecto el vehículo;
+b) Ser de modelo del año de registro o superior.
 
-II. Contar con una póliza de seguro de cobertura en términos del artículo 81 fracción IX de esta Ley;
+c) Exhibir factura o carta factura, y tarjeta de circulación vigente, debiendo acompañar copia y original para su cotejo.
 
-III. Acreditar haber cumplido con el programa de verificación vehicular que emita la Secretaría de Ecología y Gestión Ambiental en el Estado, y
+d) Placas de circulación del Estado de San Luis Potosí.
 
-IV. El modelo del vehículo para la prestación del servicio, además de contar con bolsas de aire y frenos antibloqueo o su equivalente, no podrá ser mayor a cinco años de antigüedad.
+e) Póliza de seguro de cobertura en términos del artículo 81 fracción IX de esta Ley.
+
+Los vehículos registrados en una Empresa de Redes de Transporte, en todos los casos, podrán operar durante los cinco años siguientes a su alta, debiendo ser sustituidos al término por un vehículo del modelo del año que corresponda o superior, y
+
+II. De los operadores:
+
+Para poder ser operador de un vehículo adherido a una Empresa de Redes de Transporte, se deberá:
+
+a) Presentar licencia vigente en los términos de esta Ley, acompañando copia y original para su cotejo.
+
+b) Acreditar haber cumplido en forma satisfactoria con el curso de capacitación avalado por la Secretaría.
+
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+c) ACREDITAR QUE ES PROPIETARIO DE UN VEHÍCULO ADHERIDO A UNA EMPRESA DE RED DE TRANSPORTE, DEBIDAMENTE DADO DE ALTA ANTE LA SECRETARÍA.
+
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+A LAS PERSONAS QUE SE LES AUTORICE COMO OPERADORES, SÓLO PODRÁN CONDUCIR EL VEHÍCULO DE SU PROPIEDAD QUE ESTÉ PREVIAMENTE DADO DE ALTA ANTE LA SECRETARÍA.
+
+Previo pago de los derechos correspondientes, se les expedirá un gafete de identificación para cada operador, el que deberá tener de manera permanente, a la vista de los usuarios de ese servicio, cuyo incumplimiento será sancionado en los términos del presente Capítulo.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 71 QUINQUE. Los vehículos dados de alta por las Empresas de Redes de Transporte, en los términos de esta Ley, previo pago de derechos que determine la Ley de Hacienda para el Estado de San Luis Potosí, deberán cumplir de manera anual con el programa de revisión que lleve a cabo la Secretaría, en las fechas que dé a conocer, debiendo cumplir para ello los requisitos que determine la misma.
+
+De igual forma, deberán portar la identificación u hologramas que, en su caso, determine la Secretaría.
+
+El incumplimiento de estas obligaciones, será sancionada en los términos de este Capítulo.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -1439,11 +1471,71 @@ ARTICULO 71 SEPTIES. Queda estrictamente prohibido a las Redes de Transporte, su
 
 Asimismo, queda prohibido el subarrendamiento de los vehículos.
 
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+ASIMISMO, QUEDA PROHIBIDO QUE LOS VEHÍCULOS DADOS DE ALTA EN UNA EMPRESA DE REDES DE TRANSPORTE, SEAN CONDUCIDOS POR PERSONA AJENA AL PROPIETARIO, DE ACUERDO CON LA FACTURA O CARTA FACTURA.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+El incumplimiento de estas obligaciones será sancionada en los términos de este Capítulo.
+
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ARTICULO 71 OCTIES. Los prestadores del servicio de transporte por medio de aplicaciones previstos en el presente capítulo, no podrán realizar oferta directa en la vía pública sin que ésta se perfeccione a través de una solicitud iniciada por el usuario en la plataforma; ni podrán hacer sitio, matriz, base o similares, en las zonas de influencia de los automóviles de alquiler incluyendo terminales de transporte y zonas hoteleras.
 
 El servicio de transporte por medio de aplicaciones no estará sujeto a itinerarios, rutas, tarifas, frecuencias de paso ni a horarios fijos.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+El incumplimiento de estas obligaciones, será sancionada en los términos de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 71 NONIES. Con independencia de las sanciones previstas en el Código Penal para el Estado, la Secretaría sancionará las infracciones a las disposiciones contenidas en el presente Capítulo, mediante el retiro de la circulación, multa y, en su caso, suspensión temporal o cancelación.
+
+Al retirar de la circulación un vehículo, la Secretaría lo pondrá a resguardo de la pensión o pensiones que determine. Las sanciones de multa, suspensión temporal, o cancelación, serán conforme a lo siguiente:
+
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. SE IMPONDRÁ UNA SANCIÓN ECONÓMICA DE MULTA, EQUIVALENTE A QUINIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, AL PROPIETARIO DE UN VEHÍCULO QUE PRESTE EL SERVICIO DE EMPRESA DE REDES DE TRANSPORTE, SIN HABERLO DADO DE ALTA ANTE LA SECRETARÍA. DICHA SANCIÓN SE INCREMENTARÁ CON EL EQUIVALENTE A DOSCIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN EN CASO DE REINCIDENCIA;
+
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. SE IMPONDRÁ UNA SANCIÓN ECONÓMICA DE MULTA, EQUIVALENTE A TRESCIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, AL PROPIETARIO DE UN VEHÍCULO QUE PRESTE EL SERVICIO DE EMPRESA DE REDES DE TRANSPORTE DEBIDAMENTE REGISTRADA, Y HAGA EL COBRO DEL SERVICIO EN CONTRAVENCIÓN A LO QUE ESTABLECE EL ARTÍCULO 71 SEPTIES DE ESTE ORDENAMIENTO.
+
+PARA EL CASO DE REINCIDENCIA, SE SUSPENDERÁ LA AUTORIZACIÓN PARA OPERAR DICHO VEHÍCULO, POR UN TÉRMINO DE TREINTA DÍAS NATURALES.
+
+EN CASO DE UNA SEGUNDA REINCIDENCIA, SE CANCELARÁ EL ALTA DEL VEHÍCULO, QUEDANDO IMPEDIDO EL PROPIETARIO PARA SOLICITAR OTRO REGISTRO, EN UN PLAZO DE DOS AÑOS CONTADOS A PARTIR DE LA CANCELACIÓN;
+
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+III. SE IMPONDRÁ UNA SANCIÓN ECONÓMICA DE MULTA, EQUIVALENTE A TRESCIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, AL PROPIETARIO DE UN VEHÍCULO QUE PRESTE EL SERVICIO DE EMPRESA DE REDES DE TRANSPORTE DEBIDAMENTE REGISTRADA, QUE OFREZCA EL SERVICIO EN CONTRAVENCIÓN A LO QUE ESTABLECE EL ARTÍCULO 71 OCTIES DE ESTE ORDENAMIENTO.
+
+Para el caso de reincidencia, se suspenderá la autorización para operar dicho vehículo, por un término de treinta días naturales.
+
+En caso de una segunda reincidencia, se cancelará el alta del vehículo, quedando impedido el propietario para solicitar otro registro, en un plazo de dos años contados a partir de la cancelación;
+
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+IV. EN CASO DE QUE UN OPERADOR DADO DE ALTA ANTE LA SECRETARÍA, SEA SORPRENDIDO PRESTANDO EL SERVICIO AFECTO A UNA EMPRESA DE REDES DE TRANSPORTE, EN UN VEHÍCULO QUE NO SE ENCUENTRE REGISTRADO A SU NOMBRE, LE SERÁ CANCELADA SU ALTA COMO OPERADOR Y SU GAFETE DE IDENTIFICACIÓN, NO PUDIENDO TRAMITAR UNO NUEVO, SINO HASTA UN AÑO CONTADO A PARTIR DE LA SANCIÓN. ASIMISMO, EL VEHÍCULO DE QUE SE TRATE, LE SERÁ CANCELADA SU ALTA, NO PUDIENDO TRAMITARLA DE NUEVO EN NINGUNA EMPRESA DE REDES DE TRANSPORTE, SINO HASTA UN AÑO CONTADO A PARTIR DE LA CANCELACIÓN;
+
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+V. SE IMPONDRÁ UNA SANCIÓN ECONÓMICA DE MULTA, EQUIVALENTE A TRESCIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, AL OPERADOR QUE NO PORTE A LA VISTA DE LOS USUARIOS, EL GAFETE DE IDENTIFICACIÓN;
+
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VI. SE IMPONDRÁ UNA SANCIÓN ECONÓMICA DE MULTA, EQUIVALENTE A TRESCIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, AL PROPIETARIO DE UN VEHÍCULO QUE PRESTE EL SERVICIO DE EMPRESA DE REDES DE TRANSPORTE, QUE NO LO PRESENTE A REVISIÓN EN LAS FECHAS QUE DETERMINE LA SECRETARÍA;
+
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VII. SE IMPONDRÁ UNA SANCIÓN ECONÓMICA DE MULTA, EQUIVALENTE A TRESCIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, AL PROPIETARIO DE UN VEHÍCULO QUE NO CUENTE CON PÓLIZA DE SEGURO VIGENTE EN LOS TÉRMINOS DE ESTA LEY, Y
+
+(NOTA: EL 30 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 134/2019 Y SU ACUMULADA 137/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE FEBRERO DE 2024 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+VIII. SE IMPONDRÁ UNA SANCIÓN ECONÓMICA DE MULTA, EQUIVALENTE A SETECIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, A LA EMPRESA DE REDES DE TRANSPORTE QUE PERMITA POR MEDIO DE SU APLICACIÓN, LA MODALIDAD DE PAGO EN EFECTIVO DEL SERVICIO. LA REINCIDENCIA SERÁ CAUSA DE PÉRDIDA DEL REGISTRO; NO PUDIENDO OTORGÁRSELE OTRO, EN UN PLAZO DE DOS AÑOS CONTADOS A PARTIR DE LA PÉRDIDA.
 
 ## TITULO SEXTO. DEL REGISTRO DE TRANSPORTE PUBLICO
 
@@ -2551,9 +2643,7 @@ El mal uso comprobado fehacientemente de las tarifas especiales a que hacen refe
 
 Se hará acreedor a multa de trescientas a quinientas unidades de medida y actualización vigente, quien ofrezca o preste el servicio de transporte público de cualquier modalidad, y carezca de concesión o permiso otorgados por el Ejecutivo del Estado. Asimismo, la Secretaría estará facultada para retirar de la circulación y remitir a la pensión que determine, los vehículos que sean utilizados para ese fin.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
-
-ARTICULO 132 BIS. Se impondrá una multa de trescientas hasta quinientas Unidades de Medida de Actualización, a los propietarios o conductores de vehículos afectos a aplicaciones de Redes de Transporte, destinados a la prestación del servicio, cuando éstos cometan infracciones a lo dispuesto en esta Ley y demás normativa aplicable.
+ARTICULO 132 BIS. (DEROGADO, P.O. 8 DE NOVIEMBRE DE 2019)
 
 ### Capítulo II. Del Procedimiento para la Aplicación de las Sanciones
 
@@ -2573,7 +2663,7 @@ La Secretaría, en un término no mayor de quince días hábiles, notificará la
 
 En caso de que se haya retirado de la circulación el vehículo destinado al servicio, se procederá a su devolución, previo cumplimiento de la sanción impuesta.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2019)</small>
 
 De igual forma, las personas que presten el servicio de transporte en cualquiera de las modalidades y formas establecidas en esta Ley, sin la concesión, permiso o autorización correspondiente, serán acreedores a las sanciones y medidas de seguridad prescritas en este Ordenamiento.
 
@@ -3006,3 +3096,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. La Secretaría tendrá un plazo de noventa días naturales para que genere los ajustes a su Reglamento Interno, y para que gestione o celebre los convenios necesarios para llevar a cabo la capacitación en materia de conciliación, dirigida a los servidores públicos de las áreas que corresponda la atención de quejas por el servicio de transporte publico regular en cualquiera de sus modalidades.
 
 TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0295.- SE REFORMAN LOS ARTÍCULOS 71 BIS, 71 TER, 71 QUÁTER Y 71 QUINQUE; ADICIONES (SIC) PÁRRAFOS A LOS ARTÍCULOS 71 BIS, 71 SEPTIES Y 71 ÓCTIES, ASÍ COMO EL ARTÍCULO 71 NONIES; Y DERGOA (SIC) EL ARTÍCULO 132 BIS, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
