@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2019-08-05"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -275,7 +275,7 @@ Cada vez que un grupo cotizador incremente sus aportaciones para el fortalecimie
 
 El descuento a los trabajadores para el fortalecimiento de cada fondo podrá ser hasta el catorce por ciento del sueldo, sin tomar en consideración su edad; por lo que se refiere a las prestaciones que comprende (sic) los diversos conceptos a cotizar, quedarán reguladas en el reglamento de cada uno de los grupos cotizadores. Los trabajadores que desempeñen dos o más empleos en las instituciones de la administración pública estatal, o municipal, en su caso, cubrirán el descuento establecido en este artículo sobre el total de los sueldos efectivamente percibidos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 23.
 
@@ -507,7 +507,25 @@ La Dirección de Pensiones deberá resolver la solicitud de pensión en un plazo
 
 Cuando un trabajador a quien se haya otorgado una pensión siga en servicio sin haberla disfrutado, podrá renunciar a ella y obtener otra de acuerdo con los descuentos realizados y el tiempo de servicio prestados con posterioridad.
 
-Cuando un pensionista reingrese al servicio activo no podrá renunciar a la pensión que le hubiere sido concedida, para solicitar y obtener otra nueva, salvo el caso de inhabilitados que quedaren aptos para el servicio. Tales trabajadores y pensionistas que sigan prestando servicios al Estado, quedarán sujetos a los descuentos para el fondo de pensiones si desean disfrutar de los demás beneficios que esta Ley establece, incluso la devolución de los nuevos descuentos que se les hagan.
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+Cuando un pensionista al que se le haya otorgado pensión por edad avanzada o por invalidez derivada de una enfermedad general, reingrese al servicio activo y vuelva a cotizar al mismo sector del que se le paga ésta, se suspenderá el pago, el que se reactivará al dejar de laborar en los mismos términos de la pensión primitiva o a petición de parte, se podrá sujetar a los siguientes términos:
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+I. En caso de que el último sueldo cotizado sea mayor o igual al último pago efectuado por concepto de pensión, se incrementará únicamente el porcentaje de la pensión de acuerdo a los años cotizados, en los términos de la tabla del artículo 77 fracción II de la presente Ley, y
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+II. En caso de que el último sueldo sea menor al último pago por concepto de pensión, el derechohabiente deberá pagar la diferencia de las aportaciones patronales y del trabajador que exista entre el importe del último sueldo cotizado y el pago de la última pensión, correspondiente al periodo en el que fue reactivado en el empleo, las cuales serán cuantificadas a valor presente y se les aplicará el interés vigente del sector al que pertenezca, para efecto de que sea incrementado el porcentaje de pensión, en los términos de la tabla del artículo 77 fracción II de esta Ley.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+Los incrementos de las pensiones que establece este artículo serán del noventa por ciento del incremento de los salarios base de su homólogo en activo de la pensión primitiva.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+Tales trabajadores y pensionistas que sigan prestando servicio al Estado, quedarán sujetos a los descuentos para el fondo de pensiones si desean disfrutar de los demás beneficios que esta Ley establece, incluso la devolución de los nuevos descuentos que se les hagan, en caso de que no sea incrementado el porcentaje de la pensión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2019)</small>
 
@@ -921,7 +939,9 @@ I. Ser ciudadano mexicano;
 
 II. No estar desempeñando cargo alguno de elección popular, aun en caso de no estar en funciones, ni cargo sindical, y
 
-III. Ser de reconocida honorabilidad y no haber sido condenado por delitos contra la propiedad.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+III. Ser de reconocida honorabilidad.
 
 > <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2019)</small>
 
@@ -1069,15 +1089,15 @@ En las resoluciones tomadas por la Junta Directiva en las que se considere que s
 
 Para lo no previsto en esta Ley, la Junta Directiva de Pensiones resolverá las dudas que surjan, con la exacta observancia a las leyes civiles vigentes en el Estado y disposiciones administrativas aplicables.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ## TITULO OCTAVO. DE LAS PENSIONES DE LOS TRABAJADORES DEL SISTEMA EDUCATIVO ESTATAL REGULAR SINDICALIZADOS
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO I. DE LAS PENSIONES
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 112.
 
@@ -1087,7 +1107,7 @@ I. VALOR PRESENTE: es aquél que se obtiene de traer al presente las cotizacione
 
 II. MONTO DE LA PENSION: el valor presente del promedio del salario cotizado ante la Dirección de Pensiones en los últimos diez años de servicio.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 113.
 
@@ -1099,7 +1119,7 @@ II. Las pensiones serán incrementadas anualmente de acuerdo al porcentaje en qu
 
 Se exceptúa incluir cualquier otro concepto que no se haya cotizado en activo.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 114.
 
@@ -1111,13 +1131,13 @@ II. Pensión por edad avanzada: a la que tienen derecho las y los trabajadores q
 
 III. Pensión por invalidez: a la que tiene derecho los trabajadores que sean declarados inválidos a causa del servicio o a consecuencia de éste, sea cual fuere el tiempo que hubieren contribuido al fondo, a menos que la incapacidad hubiere sido producida voluntariamente por el trabajador; y los trabajadores que sean declarados inválidos por causas ajenas a su cargo, empleo o comisión, si tienen por lo menos quince años de cotización y hubieren contribuido al fondo por ese mismo tiempo y si la invalidez no es intencional, ni consecuencia del abuso de bebidas alcohólicas, barbitúricos o estupefacientes.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 115.
 
 Para los efectos de la fracción III del artículo anterior, la declaración de invalidez de un trabajador será hecha por peritos médicos designados por las instituciones de seguridad social correspondientes, y validados por la Junta Directiva de la Dirección de Pensiones; se considerará inválido el derechohabiente que por enfermedad o accidente no profesionales, por agotamiento de las fuerzas físicas o mentales, o por defectos físicos o mentales, padezca una afección o se encuentre en un estado que se pueda estimar de naturaleza permanente, por el cual se encuentre imposibilitado para procurarse mediante un trabajo proporcionado a sus fuerzas, a sus capacidades, a su formación, la remuneración habitual que en la misma región perciba un trabajador sano del mismo sexo, semejante capacidad, igual categoría y formación profesional análoga.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 116.
 
@@ -1129,29 +1149,29 @@ II. Cuando el pensionista se niegue injustificadamente a someterse a las investi
 
 III. Cuando el pensionista haya obtenido con engaños la pensión, o la causa de la invalidez sea preexistente al inicio de sus servicios al Gobierno del Estado.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 117.
 
 Los trabajadores adscritos al SEER, sindicalizados, que estén recibiendo o pretendan recibir la pensión por invalidez, están obligados a someterse a los tratamientos que se les prescriban para prevenir o curar su incapacidad, por la institución de seguridad social correspondiente.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 118.
 
 Cuando un pensionista por incapacidad física o mental recupere sus facultades, el SEER, avisado oportunamente por la Dirección de Pensiones, tendrá la obligación de restituirle en su empleo, si continúa apto para el mismo. En tanto no se restituya al trabajador en su empleo, o se le asigna otro en los términos de este artículo, seguirá percibiendo la pensión. En la concesión de pensiones por incapacidad física o mental transitoria, no será necesario que el trabajador cause baja en el servicio, pues podrá otorgarse aunque esté disfrutando de la licencia temporal correspondiente.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 119.
 
 Se establece un seguro de salud para la familia, proporcionado por una institución de seguridad social, en favor de los jubilados y pensionados por la Dirección de Pensiones del Estado, a fin de que reciban la asistencia médica, quirúrgica, farmacéutica y hospitalaria que sea necesaria en caso de enfermedad; derecho que se hace extensivo al cónyuge, concubina, concubinario, e hijos del pensionado, de acuerdo a la normatividad vigente del Instituto Mexicano del Seguro Social. Para tal efecto, la administración pública estatal cubrirá las cuotas correspondientes.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO II. DE LAS PENSIONES A LOS FAMILIARES DE LOS TRABAJADORES
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 120.
 
@@ -1173,7 +1193,7 @@ IV. Los beneficiarios del trabajador, en activo y con derecho a pensión, que hu
 
 V. Los deudos de los trabajadores que habiéndose separado del servicio después de haber contribuido al fondo no menos de veinticinco años, hubiesen dejado su fondo.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 121.
 
@@ -1209,7 +1229,7 @@ En caso de que dos o más interesados reclamen derecho a pensión como cónyuges
 
 Cuando un solicitante, ostentándose como cónyuge supérstite del trabajador o pensionado reclame un beneficio que ya se haya concedido a otra persona por el mismo concepto, sólo se revocará el anteriormente otorgado, si existe sentencia ejecutoriada en la que se declare la nulidad del matrimonio que sirvió de base para la concesión de la pensión. Si el segundo solicitante reúne los requisitos que esta Ley establece, se le concederá pensión, la cual percibirá a partir de la fecha en que se reciba la sentencia señalada, sin que tenga derecho a reclamar a la Dirección, las cantidades cobradas por el primer beneficiario.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 122.
 
@@ -1225,7 +1245,7 @@ En caso de menores de edad, cuando exista controversia entre quién o quiénes d
 
 Si el trabajador incluye en su escrito de designación de deudos personas diversas a las señaladas en el artículo 121 de esta Ley, la designación será nula únicamente en la parte conducente y se tendrá por no puesta.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 123.
 
@@ -1235,23 +1255,23 @@ Si un pensionado desapareciere de su domicilio por más de un mes sin que se ten
 
 En el caso del trabajador en activo y con derecho a pensión, que hubiere desaparecido de su domicilio por más de un mes sin que se tenga noticias de su paradero, el derechohabiente de aquél podrá solicitar que se le pague con el carácter de provisional la pensión, tan pronto presente la denuncia ante el Ministerio Público, se gire la orden de pesquisas, y demuestre su derecho a la pensión en los términos de la presente Ley; supuesto en el cual la Dirección de Pensiones queda relevada de responsabilidad alguna. Si el trabajador llegare a presentarse podrá recibir el pago de la pensión, descontando la parte entregada al beneficiario; o bien, de ser procedente, reintegrarse al servicio y seguir cotizando al fondo respectivo, descontándose la parte que se entregó al beneficiario. Una vez resueltas las diligencias que declaren la ausencia del trabajador o comprobado el fallecimiento del mismo, el pago del recurso tendrá el carácter de definitivo.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 124.
 
 El importe de las pensiones concedidas a deudos será otorgado a quien designe la autoridad judicial por sentencia que haya causado ejecutoria, en caso de que el trabajador en vida no hubiere hecho la declaración establecida en el artículo 122 de este Ordenamiento.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO III. DEL COMPUTO DEL TIEMPO DE SERVICIOS
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 125.
 
 El cómputo de los años de servicio de los trabajadores adscritos al SEER, sindicalizados, se hará conforme al calendario por el simple transcurso del tiempo, sin agregarse nada por el desempeño simultáneo de varios empleos, sean éstos los que fueren, y tomándose en consideración sólo el tiempo de servicios efectivamente cotizados a la Dirección de Pensiones.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 126.
 
@@ -1263,11 +1283,11 @@ II. Cuando las licencias sean concedidas por un periodo hasta de seis meses.
 
 En todo caso, para poder ser computables tales licencias, se requerirá que el trabajador siga cubriendo al fondo correspondiente, las aportaciones que sobre su sueldo corresponda aplicar, así como las estipuladas por los artículos 22 y 23 de esta Ley, durante todo el tiempo que comprenda la licencia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO IV. DEL MONTO DE LAS PENSIONES
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 127.
 
@@ -1361,7 +1381,7 @@ IX. Cuando fallezca un trabajador que haya pasado a ser pensionista por haber si
 
 X. Cuando fallezca un trabajador que hubiere pasado a ser pensionista por invalidez ajena al servicio, sus familiares recibirán únicamente el importe de seis meses de pensión que venía disfrutando, y no tendrán derecho a gratificación anual.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 128.
 
@@ -1393,7 +1413,7 @@ II. Cuando el derechohabiente asiente hechos e información falsa en los formato
 
 Para la aplicación de este artículo, la Dirección de Pensiones, con audiencia del interesado, procederá a la respectiva revisión y, en su caso, denunciará los hechos al Ministerio Público para los efectos que procedan, debiendo suspenderse el pago de la pensión hasta en tanto la autoridad judicial y/o administrativa correspondiente, determine si procede o no la pérdida del derecho a recibir el pago de la pensión en forma definitiva.
 
-> <small>(ADICIONADO, PO. 13 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2011)</small>
 
 ###### ARTICULO 130.
 
@@ -2398,5 +2418,21 @@ P.O. 5 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0220.- SE REFORMAN LOS ARTÍCULOS 1°, 3°, 7°, 12, 13, 15, 19, 21, 22, 24, 25, 26, 33, 46, 50, 54, 63, 68, 70, 70, 71, 85, 90, 93, 94, 98, 106, 109 Y 110 DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0297.- SE REFORMA EL ARTÍCULO 98 DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0298.- SE REFORMA Y ADICIONA EL ARTÍCULO 53 DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis.”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
