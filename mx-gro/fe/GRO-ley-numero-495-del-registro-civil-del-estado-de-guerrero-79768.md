@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2018-08-28"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -33,7 +33,9 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA QUINCUAGÉSIMA NOVENA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O ...
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto, y con fundamento en lo dispuesto por los artículos 47 fracciones I y XIX de la Constitución Política Local, y en el artículo 8° fracción I de la Ley Orgánica del Poder Legislativo del Estado de Guerrero número 286, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -769,37 +771,15 @@ Los registros de nacimiento correspondientes a quienes tengan mayor edad de la s
 
 La Coordinación Técnica del Sistema Estatal del Registro Civil otorgará autorizaciones administrativas de registros extemporáneos de nacimiento, sin la copia certificada de las diligencias de información testimonial respectiva.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 59.
 
-Se otorgarán autorizaciones administrativas de registros extemporáneos de nacimiento, en los casos siguientes:
+Se otorgarán gratuitamente autorizaciones administrativas de registros extemporáneos de nacimiento en los dos casos siguientes:
 
-I. Por no encontrarse asentados los registros de nacimiento correspondientes, previa exhibición de la boleta de nacimiento del Registro Civil; y
+I. Por no encontrase asentados los registros de nacimiento correspondientes, previa exhibición de la boleta de nacimiento o alumbramiento; y
 
-II. Por no existir los libros de actas respectivas, o porque los solicitantes carecen de recursos económicos.
-
-Lo anterior será siempre y cuando los solicitantes cumplan con los requisitos siguientes:
-
-I. Fe de bautizo;
-
-II. Constancia de inexistencia de registro de nacimiento, expedida por el Oficial del Registro Civil del lugar de nacimiento del solicitante;
-
-III. Constancia de inexistencia de registro de nacimiento, expedida por el Archivo Estatal del Registro Civil;
-
-IV. Dos fotografías recientes tamaño infantil;
-
-V. Presentación e identificación en forma personal del solicitante, ante la Coordinación Técnica del Sistema Estatal del Registro Civil;
-
-VI. Constancia de pobreza expedida por autoridad competente de la localidad de residencia del solicitante;
-
-VII. Constancia de radicación expedida por la autoridad competente de la localidad de residencia del solicitante;
-
-VIII. Documentación que compruebe el nombre del solicitante;
-
-IX. Acta de nacimiento de sus padres y hermanos, si los hubiere;
-
-X. Acta de matrimonio de los padres; y
-
-XI. Recibo de pago correspondiente a los derechos autorizados.
+II. Por no existir los libros de actas respectivas o porque los solicitantes carecen de recursos económicos.
 
 ###### Artículo 60.
 
@@ -1654,3 +1634,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales correspondientes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 250, POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 59 DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación, en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+
+TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
