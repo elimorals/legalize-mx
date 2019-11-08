@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2019-10-03"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -1277,9 +1277,9 @@ ARTICULO 41 QUATER. A la Secretaría de Seguridad Pública le corresponde el des
 
 I. Formular y proponer al titular del Poder Ejecutivo, políticas integrales, sistemáticas, continuas y evaluables; así como programas y estrategias, en materia de seguridad pública;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-II. Planear, organizar y ejecutar los programas y acciones relativas a la protección de los habitantes, el orden público, a la prevención de los delitos y conductas antisociales, en la que deban participar las diferentes instituciones policiales, así como del sistema penitenciario y de menores infractores;
+II. Planear, organizar, y ejecutar, los programas, y acciones relativas a la protección de los habitantes, el orden público, a la prevención de los delitos y conductas antisociales, en la que deban participar las diferentes instituciones policiales, así como del sistema penitenciario, y del sistema integral de justicia para adolescentes;
 
 III. Garantizar que los actos de los particulares se desarrollen dentro de los límites de respeto a la vida privada, a la paz y a la moral pública, y proteger los derechos de las personas;
 
@@ -1357,9 +1357,9 @@ XXXI. Administrar el Sistema Penitenciario; aplicar el modelo de reinserción so
 
 XXXI BIS. Administrar y operar el Sistema Penitenciario sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para procurar la reinserción social de las personas privadas de su libertad; en corresponsabilidad con otras instituciones y órganos, brindar el apoyo para prevenir la reincidencia, así como coadyuvar con las autoridades jurisdiccional y administrativa del Estado, en términos de la Ley Nacional de Ejecución Penal y del Código Nacional de Procedimientos Penales;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
-XXXII. Vigilar y coordinar, a través de la Dirección de Ejecución de Medidas para Menores, el funcionamiento de los centros de internamiento juvenil, y de los centros de ejecución de medidas en libertad; así como elaborar los programas personalizados de ejecución, y ejecutar las medidas de internamiento definitivo dictadas por el Juez Especializado en Justicia para Menores, y
+XXXII. Vigilar y coordinar, a través de la Coordinación Especializada en Justicia Penal para Adolescentes, el funcionamiento de los centros de internamiento para adolescentes, y de los centros de ejecución de medidas en libertad; así como elaborar los planes individualizados de ejecución, y ejecutar las medidas de sanción aprobadas por el Juez de Ejecución Especializado en Justicia Penal para Adolescentes, y
 
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
 
@@ -2030,6 +2030,14 @@ CUARTO. La Oficialía Mayor del Poder Ejecutivo del Estado se coordinará con la
 P.O. 3 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0252.- SE REFORMA EL ARTÍCULO 8º, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0299.- SE REFORMA EL ARTÍCULO 41 QUÁTER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 80 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
