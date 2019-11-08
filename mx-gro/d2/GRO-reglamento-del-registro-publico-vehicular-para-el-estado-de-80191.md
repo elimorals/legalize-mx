@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-del-registro-publico-vehicular-para-el-estado-de-801
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-25"
-last_updated: "2011-02-25"
+last_updated: "2019-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO DEL REGISTRO PUBLICO VEHICULAR PARA EL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMO DEL REGLAMENTO DEL REGISTRO PÚBLICO VEHICULAR PARA EL ESTADO DE GUERRERO, PUBLICADO EN EL P.O. DE 8 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL REGISTRO PÚBLICO VEHICULAR PARA EL ESTADO DE GUERRERO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el viernes 25 de febrero de 2011.
 
@@ -31,7 +33,9 @@ Al margen un sello con el Escudo Oficial que dice: Gobierno del Estado Libre y S
 
 C.P. CARLOS ZEFERINO TORREBLANCA GALINDO, GOBERNADOR DEL ESTADO DE GUERRERO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 74 FRACCIÓN IV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO; 6o., 10 Y 24 FRACCIONES X, XII Y XXII DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 433; Y 15 Y 50 FRACCIÓN VIII DE LA LEY NÚMERO 281 DE SEGURIDAD PÚBLICA DEL ESTADO DE GUERRERO, Y
 
-CONSIDERANDO .
+CONSIDERANDO
+
+[...]
 
 Por las razones que se han expuesto y refrendado la voluntad política y compromiso social de mi gobierno con la transformación de las instituciones policiales en el Estado, he tenido a bien expedir el siguiente:
 
@@ -536,3 +540,23 @@ EL SECRETARIO DE SEGURIDAD PUBLICA Y PROTECCIÓN CIVIL.
 GRAL. JUAN HERIBERTO SALINAS ALTÉS
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL REGISTRO PÚBLICO VEHICULAR PARA EL ESTADO DE GUERRERO”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+Segundo. La expedición de las constancias de inscripción, que se hayan realizado anteriormente a la vigencia del Reglamento conservará (sic) plena validez y vigencia.
+
+Tercero. Las autoridades estatales y municipales, deberán proporcionar a la SEFINA, en un plazo no mayor a sesenta días naturales, a partir de la entrada en vigor del presente Reglamento, la información relativa a sus parques vehiculares, incluyendo los números de identificación oficial que tengan asignados los vehículos, a efecto de integrarla a la base de datos del padrón vehicular estatal de Plataforma México.
+
+Cuarto. Los propietarios y en su caso a quien demuestre tener la posesión legal de sus vehículos, contemplados en el padrón vehicular estatal, tendrán un plazo improrrogable de un año a efecto de acudir a las oficinas centrales del REPUVEG o a las unidades móviles para tramitar la constancia de inscripción; plazo que contará a partir del día siguiente a la entrada en vigor del presente Reglamento; por lo que al día siguiente de haber fenecido el plazo, se aplicarán las infracciones correspondientes.
+
+Quinto. La SEFINA, en un plazo no mayor a seis meses actualizará el padrón vehicular estatal, plazo que podrá prorrogarse por única vez, previo acuerdo que celebre dicha dependencia y el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, primer plazo que surtirá afectos (sic), a partir del día siguiente de la publicación del presente Reglamento en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+Sexto. El Gobierno del Estado y los municipios, en un plazo no mayor a un año, contados (sic) a partir del día siguiente de la publicación del presente Reglamento en el Periódico Oficial del Gobierno del Estado de Guerrero, deberán de adecuar sus marcos normativos, a efecto de prever la figura de la infracción de tránsito para los conductores que circulen sin portar la constancia de inscripción.
+
+Séptimo. Se abroga el Reglamento del Registro Público Vehicular para el Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 16 de fecha 25 de febrero de 2011.
