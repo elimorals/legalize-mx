@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2019-09-20"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1577,11 +1577,13 @@ III.- Se aumentarán en dos tercios si el acusado o sentenciado permanece fuera 
 
 La prescripción de la acción penal y de la sanción no influyen en la responsabilidad civil proveniente de delito, la cual se rige por las leyes civiles correspondientes.
 
-> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
+(NOTA: EL 18 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 138/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO IMPUGNADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 128 Bis.
 
-La prescripción para cualquiera de sus efectos será improcedente para los delitos de violación, feminicidio y homicidio doloso.
+La prescripción para cualquiera de sus efectos será improcedente para los delitos de violación, feminicidio, homicidio doloso, DESAPARICIÓN FORZADA DE PERSONAS, Y DE DESAPARICIÓN COMETIDA POR PARTICULARES.
 
 2.- PRESCRIPCION DE LA ACCION PERSECUTORIA
 
@@ -3167,7 +3169,7 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 #### SECCION TERCERA.- VIOLACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 260.
 
@@ -3229,25 +3231,19 @@ En las fracciones II y III se presumirá la seducción o el engaño.
 
 ###### Artículo 267.
 
-Al que por medio de la violencia física o moral tuviere cópula con una persona sea cual fuere su sexo, se le aplicarán de ocho a veinte años de prisión y multa de cincuenta a quinientos días de salario.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+Al que por medio de la violencia física o moral tuviere cópula con una persona sea cual fuere su sexo, se le aplicarán de diez a treinta años de prisión y multa de cincuenta a quinientas Unidades de Medida y Actualización.
 
 Se entiende por cópula, la introducción del pene en el cuerpo humano por vía vaginal, anal o bucal.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
-
-Cuando el sujeto pasivo sea menor de 18 años de edad y mayor de 70 se duplicará la sanción establecida en el primer párrafo.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+Cuando el sujeto pasivo sea menor de dieciocho años y mayor de setenta se duplicará la sanción establecida en el primer párrafo.
 
 En el caso previsto por la fracción VII del artículo 269 del presente Código, sólo se procederá contra el responsable por querella de parte ofendida.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 268.
 
-Cuando la violación o su equiparable fuere cometida con intervención de dos o más personas, a todas ellas se impondrán de ocho a treinta años de prisión y multa de ciento veinte a mil doscientos días de salario.
+Cuando la violación o su equiparable fuere cometida con intervención de dos o más personas, a todas ellas se impondrán de diez a cuarenta años de prisión y multa de ciento veinte a mil doscientas Unidades de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
 
@@ -3667,7 +3663,9 @@ Cuando dos o más salteadores atacaren una población, se impondrán de quince a
 
 #### SECCION SEXTA.- DESAPARICIÓN FORZADA DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+(NOTA: EL 18 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 138/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO IMPUGNADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 299.
 
@@ -3763,17 +3761,67 @@ Para efectos de la fracción V del artículo 302, comete el delito de robo de in
 
 ###### Artículo 304 Bis.
 
-Al servidor público que con motivo de sus atribuciones sin causa legítima, detenga a una o varias personas con la finalidad de ocultarlo, o bien autorice, apoye o consienta que otros lo hagan sin reconocer la existencia de tal privación o niegue información sobre su paradero, se le sancionará con prisión de quince a cuarenta años y de trescientos a mil días de salario mínimo, destitución e inhabilitación para el desempeño de cualquier cargo, empleo o comisión hasta por diez años.
+Comete el delito de desaparición forzada de personas.
 
-Al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior, se le impondrán prisión de ocho a quince años y de ciento cincuenta a quinientos días de salario mínimo.
+I.- El servidor público o el particular que, con la autorización, el apoyo o la aquiescencia de un servidor público, prive de la libertad en cualquier forma a una persona, seguida de la abstención o negativa a reconocer dicha privación de la libertad o a proporcionar la información sobre la misma o su suerte, destino o paradero.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+II.- El servidor público, o el particular que, con la autorización, el apoyo o la aquiescencia de un servidor público, oculte o se niegue a proporcionar información sobre la privación de la libertad de una persona o sobre el paradero de una persona detenida, u oculte a una persona detenida en cualquier forma.
+
+III.- El servidor público o particular que omita entregar a la autoridad o Familiares al nacido de una víctima del delito de desaparición forzada de personas durante el periodo de ocultamiento, a sabiendas de tal circunstancia.
+
+IV.- El servidor público o particular que sin haber participado directamente en la comisión del delito de desaparición forzada de personas, retenga o mantenga oculto a la niña o niño que nazca durante el periodo de desaparición de la madre, a sabiendas de tal circunstancia.
+
+A las personas que incurran en las conductas previstas en las fracciones I y II se impondrá pena de cuarenta a sesenta años de prisión, y de diez mil a veinte mil unidades de medida y actualización; las personas que incurran en la conducta prevista en la fracción III se impondrá pena de veinte a treinta años de prisión y de quinientos a ochocientas unidades de medida y actualización y las personas que cometa (sic), la conducta prevista en el (sic) fracción IV se impondrá pena de veinticinco a treinta y cinco años de prisión.
+
+Adicionalmente, cuando el responsable tenga el carácter de servidor público, se impondrá la destitución e inhabilitación, según corresponda, para el desempeño de cualquier cargo, empleo o comisión pública, hasta dos veces el mismo lapso de la privación de la libertad impuesta, a partir de que se cumpla con la pena de prisión.
+
+Los superiores jerárquicos serán considerados autores del delito de desaparición forzada de personas en los términos de lo previsto en este artículo.
+
+(NOTA: EL 18 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 138/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO IMPUGNADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 304 Ter.
 
-Las sanciones previstas en el artículo que antecede se disminuirán en una tercera parte, cuando el agente suministre información que permita esclarecer los hechos y, en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
+Son circunstancias que aumentan o disminuyen la pena las siguientes:
 
-Este delito no se sujetará a las reglas de la prescripción.
+I.- Las sanciones para el delito de desaparición forzada de personas previstas en este Código, pueden ser aumentadas hasta en una mitad cuando:
+
+a) Durante o después de la desaparición, la Persona Desaparecida muera debido a cualquier alteración de su salud que sea consecuencia de dicha desaparición, o por enfermedad previa que no hubiere sido atendida en forma adecuada por los autores o partícipes del delito;
+
+b) La Persona Desaparecida sea niña, niño o adolescente, mujer, mujer embarazada, persona con discapacidad o persona mayor;
+
+c) La condición de persona migrante o afrodescendiente, la pertenencia a un pueblo o comunidad indígena o cualquier otro equiparable, sea la motivación para cometer el delito;
+
+d) La identidad de género o la orientación sexual de la víctima sea la motivación para cometer el delito;
+
+e) La persona haya sido desaparecida por su actividad como defensora de derechos humanos;
+
+f) La persona haya sido desaparecida en razón de su labor como periodista;
+
+g) La Persona Desaparecida sea integrante de las Instituciones de Seguridad Pública;
+
+h) El o los autores tengan vínculos de parentesco, amistad, relación laboral o de confianza con la víctima, o
+
+i) Los delitos se realicen con el propósito de impedir que las autoridades competentes conozcan de la comisión de otros delitos.
+
+II. Las sanciones para el delito de desaparición forzada de personas previstas en este Código, pueden ser disminuidas, conforme lo siguiente:
+
+a) Si los autores o partícipes liberan a la víctima espontáneamente dentro de los diez días siguientes a la desaparición, disminuirán hasta en una mitad;
+
+b) Si los autores o partícipes proporcionan información efectiva que conduzca a la localización con vida de la Persona Desaparecida, disminuirán hasta en una tercera parte;
+
+c) Si los autores o partícipes proporcionan información efectiva que conduzca a la localización del cadáver o los restos humanos de la Persona Desaparecida, disminuirán hasta en una cuarta parte, y
+
+d) Si los autores o partícipes proporcionan información efectiva que permita esclarecer los hechos o identificar a los responsables, disminuirán hasta en una quinta parte.
+
+(NOTA: EL 18 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 138/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO IMPUGNADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 304 Ter 1.
+
+El ejercicio de la acción penal y la ejecución de sanciones penales que se impongan judicialmente, para los delitos de desaparición forzada de personas y de desaparición cometida por particulares; son imprescriptibles y no están sujetos a criterios de oportunidad ni a formas de solución alterna al proceso u otras de similar naturaleza.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE AGOSTO DE 2016)</small>
 
@@ -3881,11 +3929,11 @@ c) Pérdida de la vista, del habla o de las funciones sexuales, o
 
 d) Incapacidad para engendrar o concebir.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 309.
 
-Las sanciones que corresponda imponer conforme a los artículos precedentes, se aumentarán desde una tercera parte de la mínima y hasta dos terceras partes de la máxima, cuando la víctima sea una mujer o en el caso de los varones cuando sean menores de catorce años así como cuando se cometan en agravio de la persona con quien se tenga o haya mantenido una relación sentimental.
+Las sanciones que corresponda imponer conforme a los artículos precedentes, se aumentarán en una tercera parte de la pena máxima, cuando la víctima sea una mujer, o la lesión sea motivada por razones de género, o en el caso de los hombres cuando sean menores de catorce años, así como cuando se cometan en agravio de la persona con quien se tenga o haya mantenido una relación sentimental.
 
 ###### Artículo 310.
 
@@ -3994,6 +4042,10 @@ No se entenderá que hay riña en la lucha que se entabla entre un agresor y un 
 ###### Artículo 323.
 
 El homicidio y las lesiones son calificadas cuando se cometen con: Premeditación, ventaja, alevosía, traición u odio.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+Para los efectos de los artículos 309 y 330 Bis, se considera que existen lesiones por razones de género cuando concurra alguna de las circunstancias previstas en el artículo 338 de este Código.
 
 ###### Artículo 324.
 
@@ -6768,6 +6820,34 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE SEPTIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 122 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO POR EL QUE REFORMA LOS ARTÍCULOS 267 Y 268 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 128 BIS, 304 BIS Y 304 TER, Y ADICIONA EL 304 TER 1, AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+(NOTA: EL 18 DE ENERO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 138/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DEL ARTÍCULO TRANSITORIO SEGUNDO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO IMPUGNADO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+SEGUNDO. EN LO APLICABLE SE DEBERÁ OBSERVAR LO DISPUESTO EN EL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 309 Y ADICIONA UN SEGUNDO PÁRRAFO AL 323 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
