@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2018-12-24"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE NOVIEMBRE DE 2019.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -72,9 +72,17 @@ IV.- La extensión de actitudes solidarias y responsables de la población en la
 
 V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud, y
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
+VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, y
+
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+VIII.- La promoción de la salud y la prevención de las enfermedades.
 
 ###### ARTICULO 3o.
 
@@ -1130,11 +1138,11 @@ III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la 
 
 IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excreta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 66.
 
-En materia de higiene escolar, corresponde a las autoridades sanitarias establecer las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar. Las autoridades educativas y sanitarias se coordinarán para la aplicación de las mismas.
+En materia de higiene escolar, corresponde a las autoridades sanitarias establecer las normas oficiales mexicanas para proteger la salud del educando y de la comunidad escolar, así como establecer acciones que promuevan una alimentación nutritiva y la realización de actividad física. Las autoridades educativas y sanitarias se coordinarán para la aplicación de las mismas.
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
@@ -2392,9 +2400,9 @@ La promoción de la salud comprende:
 
 I.- Educación para la salud;
 
-> <small>(REFORMADA, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
 
-II.- Nutrición, orientación alimentaria y activación física;
+II.- Alimentación nutritiva, actividad física y nutrición;
 
 > <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
@@ -2446,6 +2454,10 @@ Para la atención y mejoramiento de la nutrición de la población, la Secretar�
 
 La Secretaría de Salud, las entidades del sector salud y los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia, formularán y desarrollarán programas de nutrición, promoviendo la participación en los mismos de los organismos nacionales e internacionales cuyas actividades se relacionen con la nutrición, alimentos, y su disponibilidad, así como de los sectores sociales y privado.
 
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+Los programas de nutrición promoverán la alimentación nutritiva y deberán considerar las necesidades nutricionales de la población. Por lo que, propondrán acciones para reducir la malnutrición y promover el consumo de alimentos adecuados a las necesidades nutricionales de la población; y evitar otros elementos que representen un riesgo potencial para la salud.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 115.
@@ -2470,9 +2482,9 @@ V.- Promover investigaciones químicas, biológicas, sociales y económicas, enc
 
 VI.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población en general, y proveer en la esfera de su competencia a dicho consumo;
 
-> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
 
-VII.- Establecer las necesidades nutritivas que deban satisfacer los cuadros básicos de alimentos. Tratándose de las harinas industrializadas de trigo y de maíz, se exigirá la fortificación obligatoria de éstas, indicándose los nutrientes y las cantidades que deberán incluirse;
+VII.- Establecer las necesidades nutrimentales que deban satisfacer los cuadros básicos de alimentos evitando los altos contenidos en azúcares, grasas saturadas, grasas trans y sodio. Tratándose de las harinas industrializadas de trigo y de maíz, se exigirá la fortificación obligatoria de éstas, indicándose los nutrimentos y las cantidades que deberán incluirse;
 
 > <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -2986,9 +2998,9 @@ III.- La prevención específica en cada caso y la vigilancia de su cumplimiento
 
 IV.- La realización de estudios epidemiológicos, y
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
 
-V.- La difusión permanente de las dietas, hábitos alimenticios y procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población general, recomendados por la propia Secretaría, y
+V.- La difusión permanente de las dietas, hábitos alimenticios y procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población general y no exceder los máximos de azúcares, grasas saturadas, grasas trans y sodio, con base en lo recomendado por la propia Secretaría, y
 
 VI.- Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
@@ -4022,19 +4034,33 @@ Para expresar las unidades de medida y peso de los productos a que se refiere es
 
 Los productos que deben expenderse empacados o envasados llevarán etiquetas que deberán cumplir con las normas oficiales mexicanas o disposiciones aplicables, y en el caso de alimentos y bebidas no alcohólicas, éstas se emitirán a propuesta de la Secretaría de Salud, sin menoscabo de las atribuciones de otras dependencias competentes.
 
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+La Secretaría de Salud considerará los tratados y convenciones internacionales en los que el Estado Mexicano sea parte e incluyan materia de etiquetado y que se hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### ARTICULO 211.
 
 (DEROGADO, D.O.F. 14 DE JUNIO DE 1991)
 
-> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 212.
 
-La naturaleza del producto, la fórmula, la composición, calidad, denominación distintiva o marca, denominación genérica y específica, etiquetas y contra etiquetas, deberán corresponder a las especificaciones establecidas por la Secretaría de Salud, de conformidad con las disposiciones aplicables, y responderán exactamente a la naturaleza del producto que se consume, sin modificarse; para tal efecto se observará lo señalado en la fracción VI del artículo 115.
+La naturaleza del producto, la fórmula, la composición, calidad, denominación distintiva o marca, denominación genérica y específica, información de las etiquetas y contra etiquetas, deberán corresponder a las especificaciones establecidas por la Secretaría de Salud, de conformidad con las disposiciones aplicables, y responderán exactamente a la naturaleza del producto que se consume, sin modificarse; para tal efecto se observará lo señalado en la fracción VI del artículo 115.
 
-> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
 
-Las etiquetas o contra etiquetas para los alimentos y bebidas no alcohólicas, deberán incluir datos de valor nutricional, que consideren el contenido energético total que aporta el producto, así como el contenido de grasas saturadas, otras grasas, azúcares totales y sodio. Dicha información será presentada en los términos que determine la Secretaría de Salud conforme a lo previsto en las disposiciones reglamentarias y demás disposiciones jurídicas aplicables, la cual deberá contener elementos comparativos con los recomendados por las autoridades sanitarias, a manera de que contribuyan a la educación nutricional de la población.
+Las etiquetas o contra etiquetas para los alimentos y bebidas no alcohólicas, deberán incluir información nutrimental de fácil comprensión, veraz, directa, sencilla y visible.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+Además de lo dispuesto en el párrafo anterior, el etiquetado frontal de advertencia deberá hacerse en forma separada e independiente a la declaración de ingredientes e información nutrimental, para indicar los productos que excedan los límites máximos de contenido energético, azúcares añadidos, grasas saturadas, sodio y los demás nutrimentos críticos e ingredientes que establezcan las disposiciones normativas competentes.
+
+> <small>(ADICIONADO, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+La Secretaría de Salud podrá ordenar la inclusión de leyendas o pictogramas cuando lo considere necesario.
+
+> <small>(REFORMADO, D.O.F. 19 DE JUNIO DE 2003)</small>
 
 En la marca o denominación de los productos, no podrán incluirse clara o veladamente indicaciones con relación a enfermedades, síndromes, signos o síntomas, ni aquellos que refieran datos anatómicos o fisiológicos.
 
@@ -4073,6 +4099,14 @@ IV.- Aditivo: Cualquier substancia permitida que, sin tener propiedades nutritiv
 > <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 1997)</small>
 
 V.- Suplementos alimenticios: Productos a base de hierbas, extractos vegetales, alimentos tradicionales, deshidratados o concentrados de frutas, adicionados o no, de vitaminas o minerales, que se puedan presentar en forma farmacéutica y cuya finalidad de uso sea incrementar la ingesta dietética total, complementarla o suplir alguno de sus componentes.
+
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+VI.- Etiquetado frontal de advertencia de alimentos y bebidas no alcohólicas: Sistema de información simplificada en el área frontal de exhibición del envase, el cual debe advertir de manera veraz, clara, rápida y simple sobre el contenido que exceda los niveles máximos de contenido energético, azúcares añadidos, grasas saturadas, grasas, sodio y los nutrimentos críticos, ingredientes y las demás que determine la Secretaría.
+
+> <small>(ADICIONADA, D.O.F. 8 DE NOVIEMBRE DE 2019)</small>
+
+VII.- Nutrimentos críticos: Aquellos componentes de la alimentación que pueden ser un factor de riesgo de las enfermedades crónicas no transmisibles, serán determinados por la Secretaría de Salud.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -8905,3 +8939,11 @@ D.O.F. 24 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ADICIONA LA SUBSTANCIA ALFA-FENILACETOACETONITRILO (APAAN), A LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY FEDERAL PARA EL CONTROL DE PRECURSORES QUÍMICOS, PRODUCTOS QUÍMICOS ESENCIALES Y MÁQUINAS PARA ELABORAR CAPSULAS, TABLETAS Y/O COMPRIMIDOS, Y A LA FRACCIÓN I DEL ARTÍCULO 245 DE LA LEY GENERAL DE SALUD”.]
 
 ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD, EN MATERIA DE SOBREPESO, OBESIDAD Y DE ETIQUETADO DE ALIMENTOS Y BEBIDAS NO ALCOHÓLICAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal realizará las adecuaciones reglamentarias correspondientes, dentro de los 180 días posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación.
