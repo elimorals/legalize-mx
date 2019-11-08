@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2019-06-04"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1381,9 +1381,11 @@ Los ayuntamientos y la policía urbana, bancaria e industrial podrán contar con
 
 Los aspirantes que ingresen a las instituciones de seguridad pública, deberán contar con el certificado y registro correspondientes, de conformidad con lo establecido por la ley de la materia.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 80.
 
-El Gobierno del Estado debe contar con su Centro de Evaluación y Control de Confianza, el cual estará certificado de conformidad a la Ley General del Sistema de Seguridad Pública, y la presente Ley; en dicho centro se aplican las evaluaciones integrales de psicología, entorno social y económico, médico, toxicológico, y de polígrafo o diferenciado, al personal de seguridad pública. Su titular dependerá del Ejecutivo y será nombrado o removido por éste.
+El Gobierno del Estado debe contar con su Centro de Evaluación y Control de Confianza, el cual estará certificado de conformidad a la Ley General del Sistema de Seguridad Pública, y la presente Ley; en dicho centro se aplican las evaluaciones integrales de psicología, entorno social y económico, médico, toxicológico, y de polígrafo o diferenciado, al personal de seguridad pública. Su titular dependerá del Ejecutivo y será nombrado o removido por el Ejecutivo del Estado.
 
 ###### ARTICULO 81.
 
@@ -2763,6 +2765,14 @@ P.O. 4 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0176.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 51, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
 
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 0299.- SE REFORMA EL ARTÍCULO 41 QUÁTER DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA AL ARTÍCULO 80 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
