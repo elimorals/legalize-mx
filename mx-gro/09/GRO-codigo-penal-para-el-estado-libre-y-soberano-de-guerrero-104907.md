@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2019-09-26"
+last_updated: "2019-11-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -1577,13 +1577,25 @@ Lesiones en razón de parentesco o relación
 
 A quien cause lesiones a un ascendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, pareja sentimental, adoptante o adoptado, se le incrementará en dos terceras partes la pena que corresponda por las lesiones inferidas.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 140.
 
-Lesiones por condición de género
+Lesiones por condición de género.
 
-A quien cause lesiones a otra persona por su condición de género se le impondrá la pena correspondiente al delito de lesiones calificadas.
+A quien cause lesiones a otra persona por su condición de género y en razón de este, se le impondrán de seis a nueve años de prisión y multa de cuatrocientos a mil días de multa del valor diario de la Unidad de Medida y Actualización.
 
-Pero si se trata de lesiones por razón de género causadas a una mujer, se aumentará en una cuarta parte más la sanción correspondiente al delito de lesiones calificadas.
+Pero si se trata de lesiones por razón de género causadas a una mujer, se aumentará en una tercera parte más de la sanción correspondiente al delito de lesiones calificadas.
+
+Se consideran (sic) que existen razones de género cuando concurra cualquiera de los siguientes supuestos:
+
+I. Que las lesiones causadas sean infamantes, degradantes o se provoque mutilación del cuerpo;
+
+II. Que las lesiones sean provocadas mediante el empleo de ácidos o sustancias corrosivas o cualquier otra nociva para la salud;
+
+III. Cuando las lesiones consistan en la resección parcial o total de los genitales externos femeninos o masculinos. Así como otras lesiones de los órganos genitales por motivos no médicos; o
+
+IV. Que previo a la lesión infringida existan elementos de prueba, que establezcan que se han cometido amenazas, acoso o violencia del sujeto activo contra la víctima. Si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza, de parentesco, laboral, docente o cualquier (sic) que implique subordinación o superioridad y se prueba que en virtud de esa relación se infringieron las lesiones infamantes, degradantes o mutilaciones.
 
 ###### Artículo 141.
 
@@ -1682,6 +1694,10 @@ Cuando el homicidio o las lesiones se cometan culposamente con motivo del tráns
 I. Cuando el sujeto activo conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares, o
 
 II. No auxilie a la víctima del delito o se dé a la fuga.
+
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+III. Que el conductor transporte a menores de edad sin las protecciones necesarias y/o conduzca el vehículo automotor con un número mayor de pasajeros para la capacidad que fue diseñado.
 
 ### Capítulo IV. Ayuda e inducción al suicidio
 
@@ -2009,13 +2025,17 @@ Para los efectos de los delitos contemplados en este título, el consentimiento 
 
 ## Título Quinto. Delitos contra la libertad sexual y el normal desarrollo psicosexual
 
-### Capítulo V.
+### CAPÍTULO V. DE LA DIVULGACIÓN NO CONSENTIDA DE IMÁGENES O VIDEOS ÍNTIMOS O SEXUALES
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 178.
 
 Violación
 
-A quien por medio de la violencia física o moral realice cópula con otra persona, se le impondrán de ocho a dieciséis años de prisión y de cuatrocientos a ochocientos días multa.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+A quien por medio de la violencia física o moral realice cópula con otra persona, se le impondrán de doce a veinticuatro años de prisión y de seiscientos a mil doscientos días de multa del valor diario de la Unidad de Medida y Actualización.
 
 Se entiende por cópula, la introducción del pene en el cuerpo humano por vía vaginal, anal o bucal.
 
@@ -2029,7 +2049,9 @@ Se impondrá la pena prevista en este artículo, si entre los sujetos activo y p
 
 Violación equiparada
 
-Se equipara a la violación y se sancionará de ocho a treinta años de prisión:
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+Se equipara a la violación y se sancionará de diez a cuarenta años de prisión:
 
 I. Al que sin violencia realice cópula con persona menor de quince años de edad;
 
@@ -2045,7 +2067,9 @@ Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se
 
 Abuso sexual
 
-Al que sin consentimiento de una persona, sea cual fuere su sexo y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la haga ejecutarlo, se le impondrá de tres a seis años de prisión y de cincuenta a doscientos días multa.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+Al que sin consentimiento de una persona, sea cual fuere su sexo y sin el propósito de llegar a la cópula, ejecute en ella un acto o actos sexuales o la haga ejecutarlo, se le impondrá de tres a seis años de prisión y una multa de cuatrocientos cincuenta a novecientos del valor diario de la Unidad de Medida y Actualización.
 
 Para efectos de este código se entiende por acto sexual cualquier acción lujuriosa como tocamientos o manoseos corporales obscenos, o representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
 
@@ -2061,7 +2085,9 @@ Cuando la víctima sea menor de 15 años, se perseguirá de oficio.
 
 Abuso sexual de personas menores de edad
 
-Si el acto sexual se ejecuta en persona menor de doce años, en quien no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, se le aplicará una pena de cuatro años a ocho años de prisión y cincuenta a quinientos días multa.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+Si el acto sexual se ejecuta en persona menor de doce años, en quien no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo, se le aplicará una pena de diez a quince años de prisión y una multa de cuatrocientos cincuenta a novecientos del valor diario de la Unidad de Medida y Actualización y pago de la reparación del daño.
 
 Se aplicarán las mismas penas cuando el agente del delito obligue al pasivo a ejecutarle actos sexuales o la obligue a sí misma a realizarlo en su caso a un tercero.
 
@@ -2129,13 +2155,27 @@ Si se ejerciere violencia física o psicológica las penas previstas se aumentar
 
 Este delito se perseguirá por querella.
 
-> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo II. Privación de la libertad con fines sexuales
 
-###### Artículo 187.
+###### ARTÍCULO 187.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2017)
+De la divulgación no consentida de imágenes o videos íntimos o sexuales.
+
+Comete el delito de divulgación no consentida de imágenes o videos íntimos o sexuales, quien por cualquier medio publique, transmita, copie, reproduzca, modifique, emplee, difunda o comparta fotografías, imágenes, audios o videos con contenido sexual de otra persona sin su consentimiento, por medio de aplicaciones tecnológicas de mensajería y/o plataformas digitales de sistema de mensajería instantánea por mensaje cortos, de mensajería multimedia, redes sociales digitales u otro sistema de mensajería, sea cual fuese su denominación. Utilizando dispositivos electrónicos móviles de comunicación por medio de la red de comunicación denominada internet, o a través de las tecnologías de la información y telecomunicación o cualquier otro medio. Se impondrá prisión de tres a seis años, y multa de doscientos hasta mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando en la publicación o difusión señalada en el párrafo anterior esté involucrado un individuo que tenga relación de parentesco, consanguinidad, afinidad, civil, laboral, política o haya tenido alguna relación sentimental, afectiva o de confianza con la víctima, la pena aumentará hasta en una tercera parte en su mínimo y en su máximo.
+
+Las penas se aumentarán en una mitad más cuando las fotografías, imágenes, audios con imágenes o videos correspondan a menores de 18 años de edad o personas que no tienen capacidad de comprender el significado del hecho aun con su consentimiento.
+
+Cuando exista ánimo lucrativo, hostigamiento, de extorsión y/o para obtener beneficios sexuales para sí o para un tercero; en la revelación del contenido a que se refiere este artículo, la pena de prisión se aumentará hasta en una mitad adicional.
+
+El presente delito procederá a instancia de parte del ofendido o de sus representantes.
+
+Para efectos de esta disposición se entiende por Video: Como la tecnología de grabación, procesamiento, almacenamiento, transmisión de imágenes y reconstrucción por medios electrónicos digitales o analógicos de una secuencia de imágenes que representan escenas en movimiento.
+
+Se entiende como divulgación consentida de imágenes o videos íntimos o sexuales para los efectos de esta disposición, la aceptación expresa manifestada libre y sin presión de ningún tipo, que deberá quedar asentada por cualquier medio o herramienta tecnológica sobre el supuesto contemplado en este artículo.
 
 ### Capítulo III. Tráfico de personas menores de edad
 
@@ -2158,6 +2198,8 @@ Si a consecuencia de la comisión de alguno de los delitos previstos en este tí
 ## Título Sexto. Delitos contra la libertad personal
 
 ### Capitulo II. Violencia de género
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 190.
 
@@ -2285,9 +2327,11 @@ En todos los casos vinculados a violencia familiar o de género, el Ministerio P
 
 ###### Artículo 202.
 
-Violencia de género
+Violencia de género.
 
-Se le impondrán de dos a ocho años de prisión y multa de doscientos a quinientos días de salario mínimo a quien por razones de género, cause a persona de otro sexo, daño o sufrimiento económico, físico, obstétrico, patrimonial, psicológico, sexual o laboral tanto en el ámbito privado como en el público, afectando los derechos humanos o la dignidad de las personas.
+Se le impondrán de dos a ocho años de prisión y multa de trescientos a novecientos del valor diario de la Unidad de Medida y Actualización, a quien por razones de género, cause a persona de otro sexo, daño o sufrimiento económico, físico, obstétrico, patrimonial, psicológico, sexual o laboral tanto en el ámbito privado, público y político; afectando los derechos humanos o la dignidad de las personas.
+
+La pena aumentará hasta en una tercera parte, cuando se pruebe que sea mujer y se encuentre antecedida por cualquier conducta que denigre a esta.
 
 ###### Artículo 203.
 
@@ -2806,6 +2850,44 @@ A quien por medio del engaño o aprovechando el error en que otro se halle, le c
 Fraude equiparado
 
 A quien valiéndose del cargo que ocupe en el gobierno del Estado, o en cualquier agrupación sindical, o con la ayuda de algún servidor público o dirigente, obtenga dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo, un ascenso o aumento de salario en los mismos, se le impondrán de dos a siete años de prisión y de cien a trescientos cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 240 Bis.
+
+Usurpación de Identidad.
+
+Al que por sí o por interpósita persona, usando cualquier medio lícito o ilícito, se apodere, apropie, transfiera, utilice o disponga de datos personales sin autorización de su titular o suplante la identidad de una persona, para cometer un ilícito o favorezca su comisión se impondrá una sanción de uno a seis años de prisión y de cuatrocientos a seiscientas unidades de medida y actualización y en su caso, la reparación del daño que se hubiera causado.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 240 Ter.
+
+Usurpación de Identidad Equiparada.
+
+Se equipara a la Usurpación de Identidad y se impondrán las mismas penas previstas en el artículo anterior, cuando:
+
+I. Por algún uso o medio informático, telemático o electrónico obtenga algún lucro indebido para sí o para otro o genere un daño patrimonial a otro;
+
+II. Consienta la transferencia, posea o utilice datos identificatorios de otra persona para cometer, favorecer o intentar cualquier actividad ilícita; o
+
+III. Asuma, suplante, se apropie o utilice a través de internet, cualquier sistema informático o medio de comunicación, la identidad de una persona que no le pertenezca o utilice sus datos personales para producir un daño moral o patrimonial u obtenga un lucro o provecho indebido para sí o para otra persona.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 240 Quater.
+
+Agravación de la pena.
+
+Las sanciones previstas en los artículos anteriores aumentarán hasta en una mitad, cuando el sujeto activo:
+
+I. Sea Servidor Público o detente algún poder público por delegación expresa del Estado, que aprovechándose de sus funciones tenga acceso a base de datos;
+
+II. Sea pariente hasta en cuarto grado, aprovechándose de la información que pudiera surgir como consecuencia de las relaciones familiares.
+
+III. Tener experiencia en las ramas de la tecnología o licenciatura, ingeniería o cualquier otro grado académico en carrera afín a la informática o telemática.
+
+IV. Se valga de la homonimia, parecido físico o similitud de la voz para cometer el ilícito.
 
 ### Capítulo IX. Encubrimiento por receptación
 
@@ -4742,3 +4824,15 @@ CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 QUINTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
 
 SEXTO.- Comuníquese a la Secretaría de Educación del Estado de Guerrero para la aplicación en lo que le corresponde a la reforma realizada a la Ley Número 491 de Bienestar Animal del estado de Guerrero. Así como que informe a los órganos administrativos respectivos para su aplicación.
+
+P.O. 8 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 252, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+
+TERCERO.- Comuníquese al Poder Judicial del Estado Libre y Soberano de Guerrero.
+
+CUARTO.-. Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
