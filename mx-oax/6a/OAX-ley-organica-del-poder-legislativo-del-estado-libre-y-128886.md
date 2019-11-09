@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2019-04-20"
+last_updated: "2019-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -917,7 +917,9 @@ XXXI. Vigilancia del Órgano Superior de Fiscalización del Estado;
 
 XXXII. Vigilancia del Sistema Estatal de Combate a la Corrupción; y
 
-XXXIII. Zonas Económicas Especiales.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+XXXIII. Corredor Interoceánico y Programas de Desarrollo Regional.
 
 Dichas Comisiones tendrán la competencia que les corresponde en lo general a las otorgadas a las Dependencias y Entidades de la Administración Pública local, la derivada de su denominación en materia parlamentaria y las que se determinen específicamente en el Reglamento.
 
@@ -1372,3 +1374,15 @@ P.O. 20 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 608.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 803.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Todos los asuntos turnados a la actual Comisión Permanente de Zonas Económicas Especiales del H. Congreso del Estado Libre y Soberano de Oaxaca, se entenderán remitidos a la Comisión Permanente de Corredor Interoceánico y Programas de Desarrollo Regional. En el mismo sentido sobre la organización administrativa Interna en el Poder Legislativo y lo concerniente a la vinculación interinstitucional al exterior del Congreso.
+
+TERCERO. La integración y estructura de la Comisión Permanente del Corredor Interoceánico y Programas de Desarrollo Regional se mantendrá de la misma manera que la Comisión Permanente de Zonas Económicas Especiales.
+
+CUARTO. Se derogan todas las disposiciones jurídicas de igual o menor rango que se opongan al presente Decreto.
