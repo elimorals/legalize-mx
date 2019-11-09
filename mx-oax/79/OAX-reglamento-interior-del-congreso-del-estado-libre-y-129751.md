@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-libre-y-129751"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-12"
-last_updated: "2019-04-20"
+last_updated: "2019-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
 
 Reglamento publicado en la Décima Segunda Sección del Periódico Oficial del Estado de Oaxaca, el 12 de mayo de 2018.
 
@@ -661,7 +661,17 @@ d. Los que se refieran a las iniciativas de ley o modificaciones relacionadas co
 
 e. Realizar la difusión del Bando Solemne relativo a la Declaratoria de gobernador Electo, en términos de lo Dispuesto por la constitución Local;
 
-f. Lo relativo a la elección del Contralor General del Instituto Estatal electoral y de Participación Ciudadana del Estado, y;
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+f. Proponer al Pleno Legislativo, la convocatoria pública en el que se establezcan las bases, para la elección del Contralor General del Instituto Estatal Electoral y de Participación Ciudadana del Estado, así como el desarrollo del procedimiento hasta la conformación de la terna.
+
+La convocatoria para la designación del Contralor General, por lo menos, deberá contener:
+
+1) Las fechas y plazos de cada una de las fases del procedimiento de designación para el que se convoca, desde la presentación de documentos, revisión de los mismos, entrevistas, proceso de evaluación, hasta la formulación del dictamen que contenga la terna de candidatos aptos, para ser sometidos al Pleno Legislativo;
+
+2) Los requisitos legales que deben satisfacer los aspirantes y los documentos que deben presentar para acreditar cada uno de ellos, y;
+
+3) En la conformación de la terna para elegir al Contralor General del Instituto Estatal Electoral de Oaxaca, se observará la inclusión paritaria de hombres y mujeres.
 
 g. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
@@ -973,11 +983,13 @@ g. Lo relativo a la designación del Comité de Selección del Sistema Estatal d
 
 h. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
 
-XXXIII. Zonas Económicas Especiales; le corresponde el dictamen y conocimiento de los siguientes asuntos:
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-a. Conocerá de los planes y programas que tengan como fin impulsar el crecimiento económico y el desarrollo sustentable de la Zona y demás atribuciones contempladas en la Ley Federal y Estatal de la materia, y;
+XXXIII. Corredor Interoceánico y Programas de Desarrollo Regional; le corresponde el dictamen y conocimiento de los siguientes asuntos:
 
-b. Las demás que le confiera este Reglamento, las Leyes aplicables o los Acuerdos Parlamentarios y las que correspondan a su denominación.
+a. Conocerá de los planes y programas que tengan como fin impulsar el crecimiento económico regional y el desarrollo sostenible de los diversos programas y modelos en la materia.
+
+b. Las demás que les confiera este Reglamento, las leyes aplicables o los acuerdos Parlamentarios y las que correspondan a su denominación.
 
 ###### ARTÍCULO 43.
 
@@ -2684,3 +2696,21 @@ P.O. 20 DE ABRIL DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 608.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 802.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 803.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Todos los asuntos turnados a la actual Comisión Permanente de Zonas Económicas Especiales del H. Congreso del Estado Libre y Soberano de Oaxaca, se entenderán remitidos a la Comisión Permanente de Corredor Interoceánico y Programas de Desarrollo Regional. En el mismo sentido sobre la organización administrativa Interna en el Poder Legislativo y lo concerniente a la vinculación interinstitucional al exterior del Congreso.
+
+TERCERO. La integración y estructura de la Comisión Permanente del Corredor Interoceánico y Programas de Desarrollo Regional se mantendrá de la misma manera que la Comisión Permanente de Zonas Económicas Especiales.
+
+CUARTO. Se derogan todas las disposiciones jurídicas de igual o menor rango que se opongan al presente Decreto.
