@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2019-11-02"
+last_updated: "2019-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -2767,101 +2767,243 @@ III. El tercer ejemplar deberá remitirse conjuntamente con el expediente de Ent
 
 ### CAPÍTULO IV. DE LOS BIENES Y DOCUMENTACIÓN SUJETOS A ENTREGA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 177.
+
+Los bienes y documentación e información que la administración saliente deberá entregar a la entrante de manera enunciativa y no limitativa son las siguientes:
+
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
-
-###### ARTÍCULO 177.
-
-Los bienes y documentación que la administración saliente deberá entregar a la entrante de manera enunciativa y no limitativa son las siguientes:
 
 I. Recursos Humanos.
 
-a) Estructura Organizacional;
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-b) Plantilla actualizada del personal con nombre, puesto, adscripción y detalle de sus percepciones mensuales, así como la indicación de que si se encuentra sujeto a contrato por tiempo determinado, indeterminado o por obra determinada;
+a) Estructura Organizacional debidamente autorizada por el Ayuntamiento;
 
-c) Relación de personal con licencias y permisos;
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+b) Plantilla actualizada del personal debidamente autorizada por el Ayuntamiento en la que contenga:
+
+1. Nombre de cada uno de los servidores públicos;
+
+2. Puesto que desempeña cada uno de los servidores públicos;
+
+3. Área de adscripción de cada uno de los servidores públicos;
+
+4. Detalle de sus percepciones y retenciones mensuales de cada uno de los servidores públicos;
+
+5. Copia del contrato individual de trabajo por tiempo determinado, indeterminado o por obra determinada, en su caso, de cada uno de los servidores públicos contratados bajo esta modalidad;
+
+6. Copia del expediente del contrato colectivo de trabajo y los convenios modificatorios a estos; y
+
+7. Cualquier otro documento que incida en la relación laboral.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+c) Relación de personal con licencias y permisos y los documentos que guarden relación con esto;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 d) Relación de percepciones pendientes de cubrir a los trabajadores explicando las causas que las motivaron; y
 
-e) Relación de juicios laborales en trámite y laudos pendientes de cumplir.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+e) Relación de juicios laborales en trámite, estado procesal en el que se encuentran y laudos pendientes de cumplir.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 II. Recursos Materiales.
 
-a) Relación del mobiliario y equipo de oficina, así como de los artículos de decoración, libros y demás similares;
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-b) Relación de equipos de transporte;
+a) Relación del patrimonio municipal que incluya:
 
-c) Relación de vehículos siniestrados, adjuntando la documentación relativa al siniestro y la recuperación respectiva;
+1. Mobiliario y equipo de oficina, incluyendo equipo de cómputo, así como de los artículos de decoración, libros y demás similares;
 
-d) Relación de existencias en los almacenes, debidamente consignados en actas de levantamiento de inventario físico;
+2. Relación de equipo de transporte, especificando su estado;
 
-e) Relación de archivos;
+3. Relación de vehículos siniestrados, adjuntando la documentación relativa al siniestro y la recuperación respectiva;
 
-f) Relación de adquisiciones de bienes y servicios autorizados que se encuentran en trámite;
+4. Relación de maquinaria y equipo;
 
-g) Relación de maquinaria, equipo y herramienta propiedad del Ayuntamiento y en comodato, incluyendo los que fueron dados de baja; y
+5. Relación de bienes dados o recibidos en comodato;
 
-h) Relación de bienes inmuebles y la documentación que acredite la propiedad de los mismos.
+6. Relación de bienes inmuebles y los documentos que acrediten la propiedad;
+
+7. Relación de herramientas, y;
+
+8. Otros bienes propiedad del Municipio.
+
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+b) Relación de existencias en los almacenes, debidamente consignados en el acta de levantamiento físico siguientes:
+
+1. Del almacén de materiales y suministros;
+
+2. Del almacén de mobiliario y equipo de oficina nuevos;
+
+3. Del almacén de mobiliario y equipo de oficina usados;
+
+4. Del almacén de refacciones, y;
+
+5. Otros almacenes.
+
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+c) Relación de archivos, donde se contengan:
+
+1. Expedientes formados en las adquisiciones de bienes en todas las modalidades;
+
+2. Expedientes formados con las adquisiciones de servicios;
+
+3. Expedientes de entradas, salidas e inventarios de los almacenes;
+
+4. Expedientes de resguardos;
+
+5. Expedientes de control contable y administrativos de activos fijos;
+
+6. Expedientes de seguros adquiridos;
+
+7. Relación de adquisiciones de bienes y servicios autorizados para su adquisición que se encuentran en trámite;
+
+8. Relación de bienes dados de baja, y ;
+
+9. Otros expedientes propiedad del Municipio formados en la administración de los recursos materiales.
+
+d) (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2019)
+
+e) (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2019)
+
+f) (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2019)
+
+g) (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2019)
+
+h) (DEROGADO, P.O. 9 DE NOVIEMBRE DE 2019)
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 III. Recursos Financieros.
 
-a) Presupuesto de Egresos vigente;
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-b) Ley de Ingresos vigente y el Proyecto del siguiente ejercicio;
+a) Presupuesto de Egresos debidamente autorizado vigente;
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+b) Ley de Ingresos del Municipio vigente y el Proyecto del siguiente ejercicio fiscal;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 c) Ley de Hacienda Municipal del Estado de Oaxaca;
 
-d) Relación de cuentas bancarias que en su caso se manejen, acompañando su último estado de cuenta expedido por la institución bancaria correspondiente;
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+d) Relación de cuentas bancarias que en su caso se manejen, acompañando su último estado de cuenta mensual expedido por la institución bancaria correspondiente;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 e) Relación de inversiones, depósitos, títulos o cualquier otro contrato con instituciones de crédito, casas de bolsa u otra institución similar a éstas;
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 f) Relación de documentos y cuentas por cobrar;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 g) Programas de inversión en infraestructura, avance de los mismos e informe técnico justificativo;
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 h) Relación de pasivos y compromisos de corto plazo;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 i) Estado de la Deuda Pública debidamente autorizada por el Congreso del Estado;
 
-j) Estados financieros y presupuestales de la Hacienda Pública Municipal; y
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-k) Documentación comprobatoria y justificativa del ingreso y del gasto.
+j) Estados financieros y presupuestales y demás información que debe de emitirse en la Hacienda Pública Municipal, y;
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+k) La documentación comprobatoria y justificativa del ingreso y del gasto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+l) Pólizas de ingresos, egresos y diario, donde constan los registros en el sistema de contabilidad gubernamental, y;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+m) La demás documentación que se maneja en la hacienda pública municipal por disposición de cualquier ordenamiento legal.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 IV. Convenios, contratos, acuerdos de coordinación y de cualquier otra índole.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 a) Relación de acuerdos de coordinación, especificando alcance e importe de recursos económicos comprometidos;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 b) Relación de contratos de consultorías, arrendamientos, compra-venta, poderes otorgados, servicios, asesorías o de cualquier otra índole, debiéndose anexar los contratos relativos;
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 c) Relación de otros convenios, actos o hechos no señalados en los párrafos que anteceden de los cuales deriven o puedan derivar derechos u obligaciones;
 
-d) Relación de reglamentos municipales vigentes; y
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+d) Relación de reglamentos y otros ordenamientos legales vigentes, así como los manuales de procedimientos, de funciones y otros, y;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 e) Relación de libros de actas de sesiones de cabildo y el contenido de los mismos.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 V. Asuntos en Trámite.
 
-a) Relación de asuntos de trámite pendientes de resolver ante autoridades judiciales o administrativas, con la descripción clara de su situación procedimental, así como la especificación detallada de sus posibles consecuencias;
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
-b) Todos los asuntos administrativos que se les deba dar trámite dentro de los 60 días contados a partir del día de inicio de gestión de la nueva administración municipal; y
+a) Relación de asuntos de trámite pendientes de resolver ante autoridades judiciales o administrativas, con la descripción clara, de su situación procedimental, así como la especificación detallada de sus posibles consecuencias;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+b) Todos los asuntos administrativos que se les deba dar trámite dentro de los 60 días contados a partir del día de inicio de gestión de la nueva administración municipal, y;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 c) Todos aquellos asuntos que de alguna forma comprometan el patrimonio municipal.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 VI. Expedientes Fiscales.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 a) Padrón de contribuyentes;
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
 b) Inventario de formas valoradas;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 c) Inventario de recibos de ingresos;
 
-d) Relación de rezagos; y
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
+
+d) Relación de rezagos, y;
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
 e) Legislación fiscal.
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2018)</small>
 
-VII.- Expedientes que contengan observaciones, recomendaciones, requerimientos o apercibimientos emitidos por el Órgano Superior de Fiscalización del Estado de Oaxaca y por el Congreso a través de la Comisión correspondiente.
+VII. Expedientes que contengan observaciones, recomendaciones, requerimientos o apercibimientos emitidos por el Órgano Superior de Fiscalización del Estado de Oaxaca y por el Congreso a través de la Comisión correspondiente.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -3455,8 +3597,14 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 
 P.O. 2 DE NOVIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 788.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 788.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
 
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Remite el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 799.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
