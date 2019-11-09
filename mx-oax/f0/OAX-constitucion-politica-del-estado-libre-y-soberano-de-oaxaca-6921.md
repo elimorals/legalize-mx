@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2019-11-02"
+last_updated: "2019-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -609,9 +609,9 @@ En los juicios en que un indígena o un afromexicano sea parte, las autoridades 
 
 En los conflictos de límites ejidales, municipales o de bienes comunales, el Estado promoverá la conciliación y concertación para la solución definitiva, con la participación de las autoridades comunitarias de los pueblos y comunidades indígenas y afromexicanas.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-Se reconocen los sistemas normativos internos y comunidades indígenas y afromexicanas, así como jurisdicción a sus autoridades comunitarias; los cuales procurarán la paridad entre mujeres y hombres en los derechos políticos electorales. La ley reglamentaria establecerá los casos y formalidades en que proceda la jurisdicción mencionada y las formas de homologación y convalidación de los procedimientos, juicios, decisiones y resoluciones de las autoridades comunitarias.
+Se reconocen los sistemas normativos internos y comunidades indígenas y afromexicanas, así como jurisdicción a sus autoridades comunitarias, los cuales elegirán autoridades o representantes garantizando la participación de mujeres y hombres en condiciones de igualdad, observando el principio de paridad de género, conforme a las normas de la Constitución Federal, esta Constitución Local y las leyes aplicables. La ley reglamentaria establecerá los casos y formalidades en que proceda la jurisdicción mencionada y las formas de homologación y convalidación de los procedimientos, juicios, decisiones y resoluciones de las autoridades comunitarias.
 
 El Estado, en el ámbito de su competencia, reconoce a los pueblos y comunidades indígenas y afromexicano el derecho social al uso y disfrute de los recursos naturales de sus tierras y territorios, en los términos de la ley reglamentaria; asimismo, de acuerdo a sus programas presupuestales, dictará medidas tendientes a procurar el desarrollo económico, social y cultural de los pueblos y comunidades indígenas y afromexicano.
 
@@ -809,47 +809,51 @@ IV.- Dar la información verídica al Ejecutivo del Estado de las necesidades de
 
 V.- Formar parte del Ejército Nacional para la defensa del territorio, de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 24.
 
-Son prerrogativas de los ciudadanos del Estado:
+Son prerrogativas de las ciudadanas y ciudadanos del Estado:
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
 I.- Votar en las elecciones populares y participar en los procesos de plebiscito, referéndum, revocación de mandato, audiencia pública, cabildo en sesión abierta, consejos consultivos y en los que establezcan las leyes.
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-II.- Ser votados para los cargos de elección popular, como candidatos independientes o por los partidos políticos, de conformidad con las disposiciones normativas aplicables;
+II.- Ser votadas y votados, para todos los cargos de elección popular, como candidatas o candidatos independientes o por los partidos políticos, de conformidad con las disposiciones normativas aplicables;
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 1997)</small>
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado.
+III.- Las ciudadanas tendrán derecho a ser nombradas para cualquier empleo o comisión del servicio público, teniendo las calidades que establezca la ley;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE NOVIEMBRE DE 1956)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-IV.- Alistarse en la guardia nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
+IV.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-V.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a la que pertenecen como solidaridad moral a este fin, así como en caso de catástrofes, terremotos, inundaciones, incendios y otras causas consideradas de fuerza mayor;
+V.- Alistarse en la guardia nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriben las leyes;
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+VI.- Colaborar voluntariamente en los trabajos colectivos gratuitos para beneficio de la comunidad a la que pertenecen como solidaridad moral a este fin, así como en caso de catástrofes, terremotos, inundaciones, incendios y otras causas consideradas de fuerza mayor.
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+VII.- Ser promovidos a cualquier empleo, cargo o comisión.
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VI.- Ser promovidos a cualquier empleo, cargo o comisión;
+VIII.- Presentar iniciativas de Ley, en los términos y con los requisitos que señalen esta Constitución y la Ley de la materia;
 
 > <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
 
-VII.- Presentar iniciativas de Ley, en los términos y con los requisitos que señalen esta Constitución y la Ley de la materia;
+IX.- Ser observador en los procesos electorales y en los mecanismos de participación ciudadana, de conformidad con las leyes;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-VIII.- Ser observador en los procesos electorales y en los mecanismos de participación ciudadana, de conformidad con las leyes;
-
-> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
-
-Los ciudadanos oaxaqueños residentes en el extranjero tienen derecho a votar en la elección del Gobernador del Estado, de acuerdo al procedimiento establecido en la Ley;
+Las ciudadanas y ciudadanos oaxaqueños residentes en el extranjero tienen derecho a votar en la elección de la Gobernadora o Gobernador del Estado, de acuerdo al procedimiento establecido en la Ley;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -879,13 +883,13 @@ I. Las elecciones de Gobernador del Estado, Diputados Locales y de los Ayuntamie
 
 Las elecciones extraordinarias se celebraran en la fecha que señale la autoridad electoral;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-II. La ley protegerá y garantizará los Derechos Humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2°. Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de la Constitución Política del Estado Libre y Soberano de Oaxaca; establecerá los mecanismos para garantizar la plena y total participación de las mujeres en dichos procesos electorales y el ejercicio de su derecho a votar y ser votada garantizando la paridad entre mujeres y hombres y sancionará su contravención.
+II. La ley protegerá y garantizará los Derechos Humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como las prácticas democráticas en todas las comunidades del Estado de Oaxaca, para la elección de sus Ayuntamientos, en los términos establecidos por el artículo 2º Apartado A, fracciones III y VII de la Constitución Política de los Estados Unidos Mexicanos y 16 de la Constitución Política del Estado Libre y Soberano de Oaxaca; establecerá los mecanismos para garantizar la plena y total participación en condiciones de igualdad de las mujeres en dichos procesos electorales, y el ejercicio de su derecho a votar y ser votada garantizando la paridad entre las mujeres y hombres, así como el acceso a los cargos para los que fueron electas o designadas y sancionará su contravención.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-Las mujeres disfrutarán y ejercerán su derecho a votar y ser votadas en condiciones de igualdad con los varones; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electas o designadas. La ley sancionará en el ámbito administrativo y penal la violencia política e institucional ejercida en contra de la mujer.
+Las mujeres disfrutarán y ejercerán su derecho a votar y ser votadas en condiciones de igualdad con los hombres, así como a acceder y desempeñar los cargos políticos y de elección popular para los que hayan sido electas o designadas. La ley sancionará en el ámbito administrativo y penal la violencia política e institucional ejercida en contra de la mujer. En ningún caso las instituciones y prácticas comunitarias podrán limitar los derechos políticos y electorales de las ciudadanas y los ciudadanos de Oaxaca, a ser votadas y votadas (sic) en condiciones de igualdad observando el principio de paridad de género. Corresponderá al Instituto Estatal Electoral y de Participación Ciudadana y al Tribunal Estatal Electoral de Oaxaca garantizar el cumplimiento efectivo de la universalidad del sufragio, en los términos que marque la Ley.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -1277,7 +1281,9 @@ El Estado adopta para su régimen interior la forma de gobierno republicano, rep
 
 La elección de los ayuntamientos se hará mediante el sufragio universal, libre, secreto y directo. En los municipios con comunidades que se rigen por los sistemas normativos indígenas se observara lo dispuesto por el artículo 25 apartado A, fracción II de esta constitución y la legislación reglamentaria. No habrá autoridad intermedia entre estos y el Gobierno del Estado.
 
-Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos, electos popularmente por elección directa podrán ser electos consecutivamente para un periodo adicional, siempre y cuando el período del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+Las y los Presidentes Municipales, Regidoras o Regidores y Síndicas o Síndicos de los Ayuntamientos, electos popularmente por elección directa podrán ser electos consecutivamente para un período adicional, siempre y cuando el período del mandato de los ayuntamientos no sea superior a tres años. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato
 
 Ninguno de los servidores públicos municipales mencionados en el párrafo anterior, cuando hayan tenido el carácter de propietarios durante los dos periodos consecutivos, podrán ser electos para el periodo inmediato como suplentes, pero éstos sí podrán ser electos para el periodo inmediato como propietarios, pudiendo ser electos para el mismo cargo hasta por un periodo adicional.
 
@@ -1293,11 +1299,11 @@ El Poder Público del Estado se divide, para el ejercicio de sus funciones en Le
 
 #### SECCION PRIMERA. De la Legislatura
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 31.
 
-El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado por diputados que serán electos cada tres años por los ciudadanos oaxaqueños, mediante sufragio universal, libre, secreto y directo; por cada diputado propietario se elegirá un suplente.
+El Poder Legislativo se ejerce por el Congreso del Estado, y estará integrado por diputadas y diputados que serán electos cada tres años por los ciudadanos oaxaqueños, mediante sufragio universal, libre, secreto y directo; por cada diputada o diputado propietario se elegirá un suplente.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2016)</small>
 
@@ -2117,9 +2123,11 @@ El titular del Órgano Superior de Fiscalización del Estado de Oaxaca será ele
 
 #### SECCION PRIMERA. Del Gobernador del Estado
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 66.
 
-El Poder Ejecutivo del Estado de Oaxaca, se ejerce por un solo individuo que se denominará Gobernador del Estado.
+El Poder Ejecutivo del Estado de Oaxaca, se ejerce por un solo individuo que se denominará Gobernadora o Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2291,9 +2299,13 @@ III. Pedir a la Diputación Permanente la convocación de la Legislatura a perí
 
 IV. Instruir, cada vez que le sea solicitado por el Poder Legislativo, al Secretario o titular de la entidad, órgano desconcentrado u órgano auxiliar correspondiente, para que exponga lo relativo a sus responsabilidades y argumente lo conducente en las comisiones en las que se discutan leyes, decretos, planes, programas o proyectos relativos a sus respectivos ramos, así como cuando sean citados para responder a preguntas que se les formulen. En todo caso los integrantes del Ejecutivo no asistirán a las deliberaciones y votaciones de las comisiones legislativas;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-V. Nombrar y remover en los términos del artículo 88 de esta Constitución, al Secretario General de Gobierno, a los demás Secretarios, al Consejero Jurídico y a los servidores públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinadas de otro modo por esta Constitución y las leyes que de ella deriven; los nombramientos garantizarán la paridad entre mujeres y hombres; y, si ella no fuere posible porque el número de nombramientos a expedir sea impar, será lo más cercano al equilibrio numérico;
+V. Nombrar y remover en los términos del artículo 88 de esta Constitución a las o los titulares de la (sic) Secretarías, de la Consejería Jurídica y a las y los servidores públicos del Gobierno del Estado, cuyas designaciones o destituciones no estén determinadas de otro modo por esta Constitución y las leyes que de ella deriven; dicha designación deberá garantizar el principio de paridad de género en los nombramientos de las personas titulares; y, si ello no fuere posible porque el número de nombramientos a expedir sea impar, será lo más cercano al equilibrio numérico, aplicando el principio de alternancia.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+En la integración de los órganos autónomos se observara el mismo principio.
 
 VI. Decretar la expropiación por causa de utilidad pública, de acuerdo con lo prevenido en los artículos 27 y 11 transitorio de la Constitución Federal, ajustando sus procedimientos a las leyes vigentes;
 
@@ -2329,7 +2341,7 @@ XIV. Pedir la destitución de los funcionarios judiciales en los casos que proce
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2017)</small>
 
-XV.- Proponer al Congreso del Estado o a la Diputación Permanente en su caso, la integración de los Concejos Municipales, así como designar directamente al comisionado municipal provisional, cuando por cualquier circunstancia especial no se verificare la elección de algún ayuntamiento o se hubiere declarado nula o no válida, o bien se hubiese declarado la suspensión o desaparición del mismo, en los términos y plazos que señala esta Constitución. La función de los comisionados en ningún caso podrá exceder de sesenta días naturales. Estos servidores públicos serán responsables de atender exclusivamente los servicios básicos de los municipios.
+XV. Proponer al Congreso del Estado o a la Diputación Permanente en su caso, la integración de los Concejos Municipales, así como designar directamente al comisionado municipal provisional, cuando por cualquier circunstancia especial no se verificare la elección de algún ayuntamiento o se hubiere declarado nula o no válida, o bien se hubiese declarado la suspensión o desaparición del mismo, en los términos y plazos que señala esta Constitución. La función de los comisionados en ningún caso podrá exceder de sesenta días naturales. Estos servidores públicos serán responsables de atender exclusivamente los servicios básicos de los municipios.
 
 La ley determinará los requisitos que deberán reunir los referidos servidores públicos.
 
@@ -2397,15 +2409,19 @@ XXVII. Intervenir en la designación del Fiscal General del Estado de Oaxaca y r
 
 XXVIII. Todas las demás que le asignen las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 80.
 
-Son obligaciones del Gobernador:
+Son obligaciones de la gobernadora o el gobernador:
 
 I. Cuidar del exacto cumplimiento de la Constitución General y de las leyes y decretos de la Federación, expidiendo al efecto las órdenes correspondientes;
 
 II. Cuidar del puntual cumplimiento de esta Constitución y de las leyes, decretos, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes;
 
-III. (DEROGADA, P.O. 9 DE JULIO DE 1994)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+III. Garantizar la paridad entre mujeres y hombres en los nombramientos que realice en uso de la facultad contenida en la fracción V del artículo 79 de esta Constitución; y si no fuese posible por qué el número de nombramientos a expedir sea impar, se observará que no haya más hombres que mujeres. La paridad deberá cumplirse por separado en cada nivel administrativo.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
@@ -2729,11 +2745,11 @@ Como titular de la dependencia, estará una persona que se denominará Consejero
 
 #### SECCION PRIMERA. Del Ejercicio del Poder Judicial
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ENERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 99.
 
-El Poder Judicial se ejerce por el Tribunal Superior de Justicia y por los jueces de primera instancia.
+El Poder Judicial se ejerce por el Tribunal Superior de Justicia y por las juezas y los jueces de primera instancia.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
@@ -2753,21 +2769,19 @@ Una vez aprobado el Presupuesto de Egresos del Estado, las erogaciones previstas
 
 #### SECCION SEGUNDA. Del Tribunal Superior de Justicia
 
-> <small>(REFORMADO [N. DE E. PRIMER PÁRRAFO], P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 100.
 
-La Ley Orgánica del Poder Judicial del Estado determinará el funcionamiento del mismo, garantizará la independencia de los Magistrados y Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidores públicos.
+La Ley Orgánica del Poder Judicial del Estado determinará el funcionamiento del mismo, garantizará la independencia de las Magistradas y los Magistrados, las Juezas y los Jueces en el ejercicio de sus funciones y establecerá las condiciones para el ingreso, formación y permanencia de sus servidoras o servidores públicos, garantizando en todo momento el principio de paridad entre mujeres y hombres; y, si esto no fuere posible, atendiendo a que el número de nombramientos a expedir sea impar, será lo más cercano al equilibro (sic) numérico en todos los casos.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
 El Consejo de la Judicatura será el órgano del Poder Judicial del Estado con independencia técnica, de gestión y capacidad para emitir resoluciones y acuerdos generales. Es el encargado de conducir la administración, vigilancia y disciplina del Poder Judicial, con excepción del Tribunal Superior de Justicia, en los términos que señala esta Constitución y las leyes.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2017)</small>
-
-El Consejo de la Judicatura se integrará por cinco miembros. La Presidencia del Consejo recaerá en el Presidente del Tribunal Superior de Justicia. Habrá un Consejero Magistrado y un Consejero Juez, quienes serán designados bajo criterios de evaluación y antigüedad. Habrá un miembro designado por cada uno de los poderes Ejecutivo y Legislativo. Los consejeros no representan a quienes los designa, por lo que ejercerán su función con independencia e imparcialidad. De los miembros del Consejo de la Judicatura se designará un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción.
+El Consejo de la Judicatura se integrará por cinco miembros. La Presidencia del Consejo recaerá en la presidenta o Presidente del Tribunal Superior de Justicia. Habrá una Consejera Magistrada o Consejero Magistrado y una Consejera Jueza o Consejero Juez, quienes serán designados bajo criterios de evaluación y antigüedad. Habrá un miembro designado por cada uno de los poderes Ejecutivo y Legislativo. Los consejeros no representan a quienes los designa (sic), por lo que ejercerán su función con independencia e imparcialidad. De los miembros del Consejo de la Judicatura se designará un representante que deberá integrarse y formar parte del Comité Coordinador del Sistema Estatal de Combate a la Corrupción, respetando el principio de paridad de género y alternancia.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
@@ -2781,41 +2795,51 @@ Los consejeros, con excepción del presidente, durarán en su cargo cinco años,
 
 El Consejo de la Judicatura establecerá la configuración territorial de las Salas y Juzgados del Poder Judicial, administrará la carrera judicial; nombrará y removerá a los Jueces y demás servidores públicos del Poder Judicial con base en principios de idoneidad, experiencia, honorabilidad, pluralidad, equidad de género, apartidismo y no discriminación, así mismo les concederá licencia, y resolverá sobre la renuncia que presenten, en los términos que establezca la ley.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 122], P.O. 8 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 101.
 
-Para ser Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
+Para ser Magistrada o Magistrado del Tribunal Superior de Justicia del Estado, se necesita:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+I.- Ser ciudadana o ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DE LA PRESENTE FRACCIÓN FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
 
 II.- Tener cuando menos treinta y cinco años cumplidos el día de su nombramiento;
 
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
 III.- Poseer el día del nombramiento, con antigüedad mínima de diez años, título y cédula profesionales de licenciado en derecho, expedidas por la autoridad o institución legalmente facultada para ello;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
 
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+
 V.- Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-VI.- No haber sido Secretario de Despacho o su equivalente, Fiscal General del Estado de Oaxaca o Diputado Local, en el año anterior a su nombramiento;
+VI.- No haber sido Secretaria o Secretario de Despacho o su equivalente, Fiscal General del Estado de Oaxaca o Diputada o Diputado Local, en el año anterior a su nombramiento;
 
-> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VI], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VI], P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-Los nombramientos de los Magistrados serán hechos preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; los nombramientos garantizarán la paridad entre mujeres y hombres; y, si ello no fuere posible, serán lo más cercano al equilibrio numérico;
+Los nombramientos de las Magistradas y los Magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+No podrán reunirse en el Tribunal dos o más Magistradas o Magistrados que sean parientes entre sí por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
 Durante el ejercicio de su encargo no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público; excepto la docencia o la investigación académica. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE PÁRRAFO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
-
-Las personas que hayan ocupado el cargo de Magistrado, Juez de Primera Instancia o Consejero de la Judicatura, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos del Poder Judicial del Estado.
+Las personas que hayan ocupado el cargo de Magistrada o Magistrado o Jueza o Juez de Primera Instancia, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos del Poder Judicial del Estado.
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2849,19 +2873,17 @@ En caso de que el Congreso del Estado rechace la terna propuesta, ocupará el ca
 
 Todos los Magistrados, con excepción del Magistrado Presidente y del Magistrado Consejero de la Judicatura, deberán integrar sala, durarán en el ejercicio de su cargo ocho años, podrán ser reelectos por un periodo igual, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del artículo 117 de esta Constitución y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; podrán jubilarse en los términos que señale la Ley respectiva.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO NO. 633 PUBLICADO EN EL P.O. DE 4 DE MAYO DE 2019 QUE DEJÓ SIN EFECTO AL DECRETO 1539 DE FECHA 31 DE JULIO DEL AÑO 2018, EL TEXTO DEL PRESENTE ARTÍCULO FUE RESTITUIDO POR EL TEXTO DE LA REFORMA INMEDIATA ANTERIOR AL DECRETO 1539.]</small>
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 103.
 
-El Consejo de la Judicatura será presidido por el Presidente del Tribunal Superior de Justicia del Estado que elija el Pleno y que durará en ejercicio de sus funciones cuatro años pudiendo ser reelecto por un periodo más. Para ser Magistrado Presidente se requiere un mínimo de tres años integrando sala. El Magistrado Presidente tendrá la representación legal del Poder Judicial.
+El Consejo de la Judicatura del Poder Judicial del Estado de Oaxaca será presidido por la Presidenta o el Presidente del Tribunal Superior de Justicia del Estado que elija el Pleno y durará en el ejercicio de sus funciones cuatro años pudiendo ser reelecto por un período más. Para ser Magistrada o Magistrado Presidente se requiere un mínimo de tres años integrando sala. La Magistrada o el Magistrado Presidente tendrá la representación legal del Poder Judicial.
 
-REUBICADO [N. DE E. ANTES ARTICULO 125], P.O. 8 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 104.
 
-Las faltas temporales de los Magistrados serán cubiertas por los Jueces de Primera Instancia que designe el Pleno del Honorable Tribunal Superior de Justicia, tomando en consideración la antigüedad, eficiencia, capacidad y probidad en la impartición de justicia.
+Las faltas temporales de las Magistradas y los Magistrados serán cubiertas por las Juezas y los Jueces de Primera Instancia que designe el Pleno del Honorable Tribunal Superior de Justicia, tomando en consideración la antigüedad, eficiencia, capacidad y probidad en la impartición de justicia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2979,17 +3001,17 @@ Habrá Jueces de Primera Instancia y Jurados en todas las cabeceras de distrito 
 
 En los distritos judiciales con población mayoritariamente indígena, los juzgadores y jurado resolverán los asuntos de su competencia atendiendo las normas estatales y las normas indígenas en un marco de pluralismo jurídico.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 129], P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 108.
 
-Para ser Juez de Primera Instancia, se deberán reunir los requisitos que señale la Ley Orgánica del Poder Judicial.
+Para ser Jueza o Juez de Primera Instancia, se deberán reunir los requisitos que señale la Ley Orgánica del Poder Judicial, respetando el principio de paridad de género.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 130], P.O. 8 DE DICIEMBRE DE 2000)
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 109.
 
-El cargo de Juez de Primera Instancia es renunciable, por causa justificada que calificará el Tribunal Superior de Justicia, ante quien se presentará la renuncia.
+El cargo de Jueza o Juez de Primera Instancia es renunciable, por causa justificada, que calificará el Tribunal Superior de Justicia, ante quien se presentará la renuncia.
 
 ###### ARTICULO 110.
 
@@ -3051,9 +3073,9 @@ Los Municipios se erigirán y suprimirán de conformidad con las disposiciones c
 
 Los Municipios tienen personalidad jurídica propia y constituyen un nivel de gobierno.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Regidores y Síndicos que la ley determine, garantizándose la paridad y alternancia entre mujeres y hombres, conforme a la ley reglamentaria.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por una Presidenta o Presidente Municipal y el número de regidurías y sindicaturas que la ley determine, garantizándose la paridad y alternancia entre mujeres y hombres, conforme a la ley reglamentaria.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -5435,8 +5457,16 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 
 P.O. 2 DE NOVIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 798.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 798.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado da Oaxaca.
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 796.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno (sic) Estado de Oaxaca.
