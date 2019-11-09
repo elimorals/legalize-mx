@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2018-05-30"
+last_updated: "2019-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1903,7 +1903,7 @@ III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
 A)
 
-(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/)..
+(NOTA: EL 20 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 109/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 1447/2016 XX P.E., QUE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO, INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2016)</small>
 
@@ -7611,11 +7611,15 @@ Si no se obtiene la ratificación el otro contratante tendrá derecho de exigir 
 
 DEL CONSENTIMIENTO
 
-1697.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio, la voluntad deba manifestarse expresamente.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+1697.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito, por signos inequívocos, por medios electrónicos, ópticos o cualquier otro tipo de tecnología. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio, la voluntad deba manifestarse expresamente.
 
 1698.- Toda persona que propone a otra la celebración de un contrato fijándole un plazo para aceptar, queda ligada por su oferta hasta la expiración del plazo.
 
-1699.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla se aplicará a la oferta hecha por teléfono.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+1699.- Cuando la oferta se haga a una persona presente, sin fijación de plazo para aceptarla, el autor de la oferta queda desligado si la aceptación no se hace inmediatamente. La misma regla aplicará a la oferta hecha por teléfono, por medios electrónicos, ópticos o por cualquier otro tipo de tecnología que permita la comunicación y recepción inmediata de la oferta.
 
 1700.- Cuando la oferta se haga sin fijación de plazo a una persona no presente, el autor de la oferta quedará ligado durante tres días, además del tiempo necesario para la ida y vuelta regular del correo público, o del que se juzgue bastante, no habiendo correo público, según las distancias y la facilidad o dificultad de las comunicaciones.
 
@@ -7627,7 +7631,9 @@ DEL CONSENTIMIENTO
 
 1704.- El proponente quedará libre de su oferta cuando la respuesta que reciba no sea una aceptación lisa y llana, sino que importe modificación de la primera. En este caso la respuesta se considera como nueva proposición que se regirá por lo dispuesto en los artículos anteriores.
 
-1705.- La propuesta y aceptación hechas por telégrafo producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas contienen las firmas de los contratantes y los signos convencionales establecidos entre ellos.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+1705.- La propuesta y aceptación hechas por medios electrónicos, ópticos o por cualquier otro tipo de tecnología, tendrán plena validez legal y producirán todos sus efectos sin haber mediado una estipulación por escrito de las partes, en los términos previstos en el Código de Comercio, en su artículo 89 bis.
 
 VICIOS DEL CONSENTIMIENTO
 
@@ -13083,7 +13089,7 @@ El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o 
 
 P.O. 20 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DE “DECRETO N° RFCOD/0405/2017 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1219, FRACCIÓN II DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
+## [N. DE E. TRANSITORIO DE "DECRETO N° RFCOD/0405/2017 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1219, FRACCIÓN II DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -13144,6 +13150,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 30 DE MAYO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFCOD/0751/2018 II P.O., POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 338 Y 339 DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0391/2019 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
