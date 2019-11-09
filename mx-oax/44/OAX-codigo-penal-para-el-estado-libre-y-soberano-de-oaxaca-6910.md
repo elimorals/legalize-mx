@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2019-11-02"
+last_updated: "2019-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1879,6 +1879,10 @@ D) Otorgue, realice o contrate obras públicas, adquisiciones, arrendamientos, e
 
 E) Contrate deuda o realice colocaciones de fondos y valores con recursos públicos.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+F) Consienta la operatividad, expida permiso o licencia dentro de su jurisdicción a las entidades financieras integrantes del Sistema Financiero Mexicano, que no estén reguladas por la Comisión Nacional Bancaria y de Valores, sin perjuicio de que se le aplique la sanción administrativa, civil o de cualquier otra índole, a la que se haga acreedor.
+
 II.- El servidor público que a sabiendas de la ilicitud del acto, y en perjuicio del patrimonio o del servicio público o de otra persona:
 
 A) Niegue el otorgamiento o contratación de las operaciones a que hacen referencia la presente fracción, existiendo todos los requisitos establecidos en la normatividad aplicable para su otorgamiento, o
@@ -2385,7 +2389,7 @@ Usurpación de funciones públicas o de profesión y uso indebido de condecoraci
 
 I.- Al que, sin ser funcionario público, se atribuya ese carácter y ejerza algunas de las funciones de tal;
 
-II.- Al que se atribuye el carácter de profesionista sin tener titulo legal y ejerza los actos propios de la profesión;
+II.- Al que se atribuye el carácter de profesionista sin tener título legal y ejerza los actos propios de la profesión;
 
 III.- Al que usare uniforme, insignia, distintivo o condecoración a que no tenga derecho.
 
@@ -5082,3 +5086,11 @@ PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su
 SEGUNDO. Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto, serán concluidos conforme a las disposiciones aplicables vigentes al momento de su inicio.
 
 TERCERO. Se derogan todos los preceptos legales contemplados en cualquier otro ordenamiento legal de igual o menor rango y que se opongan a las disposiciones del presente Decreto.
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 794.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
