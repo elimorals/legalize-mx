@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2018-08-18"
+last_updated: "2019-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -787,9 +787,9 @@ XVII. Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 A la Secretaría de Innovación y Desarrollo Económico corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-I. Promover, fomentar e impulsar las actividades industriales, forestales, mineras, comerciales y turísticas en la Entidad;
+I. Promover, fomentar e impulsar las actividades industriales, mineras, comerciales, turísticas y de desarrollo de capital humano para los sectores productivos en la Entidad;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -803,29 +803,29 @@ III. Promover el crecimiento económico de los municipios y las regiones de la E
 
 IV. Proponer proyectos que propicien el desarrollo económico y equilibrado de los centros de población;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-V. Asesorar y orientar a los inversionistas extranjeros y nacionales para la creación de empresas industriales, forestales, mineras, comerciales y turísticas y demás sectores productivos, a fin de promover fuentes de empleo;
+V. Asesorar y orientar a los inversionistas extranjeros y nacionales para la creación de empresas industriales, mineras, comerciales y turísticas y demás sectores productivos, a fin de promover fuentes de empleo;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-VI. Establecer un sistema de información integral de los principales sectores productivos del Estado, incluyendo las actividades industrial, comercial, turística, minera, forestal, agroindustrial, frutícola, pecuaria y de todas las que por su importancia se consideren estratégicas para el desarrollo económico, así como los mecanismos necesarios para su difusión;
+VI. Establecer un sistema de información integral de los principales sectores productivos del Estado, incluyendo las actividades industrial, comercial, turística, minera y de todas las que por su importancia se consideren estratégicas para el desarrollo económico, así como los mecanismos necesarios para su difusión;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-VII. Elaborar y mantener actualizado el inventario de infraestructura industrial, turístico, forestal y minero;
+VII. Elaborar y mantener actualizado el inventario de infraestructura industrial, turístico y minero;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 VIII. Proporcionar asistencia técnica a la pequeña y mediana industria, en coordinación con los gobiernos federal y municipales, así como con los sectores privado y social;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-IX. Participar en los planes y programas que en materia financiera, fiscal, administrativa y social se requieran para lograr el fortalecimiento de los sectores industrial, comercial, turístico, minero, agroindustrial, forestal y pecuario y demás sectores productivos;
+IX. Participar en los planes y programas que en materia financiera, fiscal, administrativa y social se requieran para lograr el fortalecimiento de los sectores industrial, comercial, turístico, minero y demás sectores productivos;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-X. Promover y apoyar el desarrollo de empresas industrializadoras de productos agrícolas, pecuarios y frutícolas, preferentemente en las zonas rurales de la Entidad, con el fin de impulsar la creación de empleos y contribuir al arraigo de la población;
+X. Llevar a cabo la promoción, fomento y fortalecimiento del sector social de la economía, que contribuya al desarrollo social y económico del país, a la generación de fuentes de trabajo digno, al fortalecimiento de la democracia, a la equitativa distribución del ingreso y a la mayor generación del patrimonio social, preferentemente en las zonas rurales de la Entidad;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1121,13 +1121,17 @@ VI.- Apoyar la organización, funcionamiento y desarrollo de cuencas lecheras en
 
 VII.- Asesorar y vigilar el funcionamiento administrativo de los mancomunes y ejercer las facultades que le confiere la Ley para la Regularización de Colonias Agrícolas y Mancomunes Agropecuarios de Régimen Estatal;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones del desarrollo agropecuario y forestal, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores; y
+VIII.- Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación a las funciones del desarrollo agropecuario y forestal, así como vigilar la organización y el funcionamiento de las direcciones que ejerzan las atribuciones anteriores;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-IX.- Los demás que le fijen expresamente las leyes y sus reglamentos.
+IX.- Promover y apoyar el desarrollo de empresas industrializadoras de productos agrícolas, pecuarios y frutícolas, preferentemente en las zonas rurales de la Entidad, con el fin de impulsar la creación de empleos y contribuir al arraigo de la población;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+X.- Las demás que le fijen expresamente las leyes y sus reglamentos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1593,11 +1597,11 @@ XVIII. Publicar un informe anual sobre el desempeño de sus funciones, los avanc
 
 XIX. Las demás que establezcan las leyes.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 36.
 
-Además de las dependencias a que se refiere el artículo 24 de esta Ley, el Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con la Coordinación de Comunicación Social, la Coordinación de Relaciones Públicas, Coordinación de Asesores y Proyectos Especiales, Coordinación de Política Digital, Coordinación de Gobierno Abierto y la Consejería Jurídica.
+Además de las dependencias a que se refiere el artículo 24 de esta Ley, el Ejecutivo del Estado, para el mejor despacho de los asuntos del orden administrativo, contará con la Coordinación de Comunicación Social, la Coordinación de Relaciones Públicas, Coordinación de Asesores y Proyectos Especiales, Coordinación de Política Digital y la Consejería Jurídica.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -2932,3 +2936,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para el titular del área administrativa de la Oficialía Mayor, la obligación de contar con la certificación de competencia laboral a que hace mención el último párrafo del artículo 60 del Código Municipal para el Estado, tendrá vigencia una vez que se haya emitido el estándar de certificación por la autoridad federal competente.
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/RFLEY/0399/2019 I P.O., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 28, 32 Y 36; Y SE ADICIONA EL ARTÍCULO 32, LA FRACCIÓN X, TODOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal realizará las transferencias presupuestarias necesarias de acuerdo a los ajustes previstos en el presente Decreto a efecto de garantizar el ejercicio de las atribuciones transferidas, por las Dependencias competentes.
+
+La Secretaría de Hacienda establecerá las disposiciones o lineamientos necesarios para la transferencia de los recursos humanos, materiales o financieros correspondientes.
+
+TERCERO.- Las Dependencias cuyas funciones se modifican en virtud del presente Decreto realizarán los trámites de entrega recepción que procedan para transmitir los documentos, archivos u otros bienes, de conformidad con las disposiciones en la materia.
+
+CUARTO.- Las menciones contenidas en otras disposiciones legales, respecto de las Dependencias cuyas funciones, atribuciones, derechos u obligaciones se reforman en virtud del presente Decreto, se entenderán referidas a aquellas que reciben según las transferencias respectivas.
+
+QUINTO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por la Dependencia que resulte competente en virtud de este, hasta que se den las transferencias necesarias.
