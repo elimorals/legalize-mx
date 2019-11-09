@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-etica-de-los-servidores-publicos-de-la-130520"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-06-09"
-last_updated: "2018-06-09"
+last_updated: "2019-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE ETICA DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA ESTATAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL CUAL SE EMITE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 9 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en el Suplemento B del Periódico Oficial del Estado de Tabasco, el sábado 9 de junio de 2018.
 
@@ -166,3 +168,19 @@ DADO EN EL DESPACHO DE LA CIUDADANA SECRETARIA DE CONTRALORÍA DEL PODER EJECUTI
 L.C.P. Y M.A.P. LUCINA TAMAYO BARRIOS
 
 SECRETARIA DE CONTRALORÍA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL CUAL SE EMITE EL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+Segundo. Se abroga el Acuerdo mediante el cual se emite el Código de Ética de los Servidores Públicos de la Administración Pública Estatal y las Reglas de Integridad para el ejercicio de la función pública, y los Lineamientos Generales para el establecimiento de acciones permanentes que aseguren la integridad y el comportamiento ético de los servidores públicos estatales en el desempeño de sus empleos, cargos o comisiones, a través de los Comités de Ética y de Prevención de Conflicto de Interés, publicado el 9 de junio de 2018, en el Suplemento B del Periódico Oficial del Gobierno del Estado de Tabasco número 7905.
+
+Con excepción de lo dispuesto en el Artículo Sexto del Acuerdo citado, relativo a los Lineamientos generales para propiciar la integridad de los servidores públicos y para implementar acciones permanentes que favorezcan su comportamiento ético, a través de los Comités de Ética y de Prevención de Conflicto de Interés, que seguirá vigente hasta en tanto se emitan las actualizaciones correspondientes.
+
+Tercero. Las Dependencias y Entidades de la Administración Pública Estatal deberán integrar sus respectivos Comités de Ética, en un plazo no mayor a 30 días naturales siguientes a la entrada en vigor del presente Código de Ética.
+
+Cuarto. Los Comités de Ética que a la entrada en vigor del presente Acuerdo, se encuentren debidamente constituidos, tendrán un plazo de 45 días naturales para proponer al órgano Interno de Control respectivo, el Código de Conducta a que refiere el capítulo VI del presente Acuerdo.
