@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2019-06-15"
+last_updated: "2019-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1429,7 +1429,9 @@ g) Revelación de secretos;
 
 h) Estupro;
 
-i) Abusos sexuales, excepto los contemplados en los artículos 4 y 175 del Código Penal;
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+i) Abusos sexuales, excepto los contemplados en los artículos 174 y 175 del Código Penal;
 
 j) Hostigamiento sexual;
 
@@ -3863,6 +3865,8 @@ Se impondrá de seis meses a dos años prisión o de noventa a ciento cincuenta 
 
 ### CAPÍTULO V. SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 314.
 
 A quien con el propósito de inculpar a alguien como responsable de un delito ante la autoridad judicial, simule en su contra la existencia de pruebas materiales que hagan presumir su responsabilidad, se le impondrán de uno a cinco años de prisión y de cien a trescientos días multa.
@@ -3871,7 +3875,9 @@ A quien con el propósito de inculpar a alguien como responsable de un delito an
 
 Se aplicarán las mismas penas a quien simule o aporte pruebas falsas en cualquier procedimiento jurisdiccional con el propósito de obtener beneficios o causar un perjuicio indebidos.
 
-### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y A LOS MEDIOS DE TRANSPORTE
+### CAPÍTULO VI. DISPOSICIONES COMUNES PARA LOS DELITOS DE ESTE TÍTULO
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 315.
 
@@ -3893,7 +3899,7 @@ Si el responsable de los delitos previstos en este artículo es un defensor part
 
 V. Como representante de la víctima o el ofendido, se concrete a aceptar el cargo sin realizar gestiones, trámites o promociones relativas a su representación.
 
-### CAPÍTULO II. VIOLACIÓN DE CORRESPONDENCIA
+### CAPÍTULO I. ATAQUES A LAS VÍAS DE COMUNICACIÓN Y A LOS MEDIOS DE TRANSPORTE
 
 ###### Artículo 316.
 
@@ -3913,37 +3919,71 @@ No comete el delito a que se refiere al artículo anterior, quien oculte al resp
 
 ## TÍTULO VIGÉSIMO PRIMERO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN
 
-### CAPÍTULO III. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
+### CAPÍTULO II. VIOLACIÓN DE CORRESPONDENCIA
 
 ###### Artículo 318.
 
 Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables de los delitos que cometan en el ejercicio de su profesión, en los términos siguientes y sin perjuicio de las prevenciones contenidas en las normas sobre ejercicio profesional.
 
-Además de las sanciones fijadas para los delitos que resulten consumados, se les podrá imponer suspensión de un mes a dos años en el ejercicio de la profesión y estarán obligados a la reparación del daño por sus propios actos y los de sus auxiliares, cuando éstos actúen de acuerdo con las instrucciones de aquellos, siempre y cuando el resultado punible sea consecuencia directa e inmediata de dichas órdenes.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+Además de las sanciones fijadas para los delitos que resulten consumados, se les podrá suspender en el ejercicio de la profesión hasta por un tiempo igual al de la pena de prisión correspondiente y estarán obligados a la reparación del daño causado por sus propios actos y los de sus auxiliares, cuando estos actúen de acuerdo con las instrucciones de aquellos, siempre y cuando el resultado punible sea consecuencia directa e inmediata de dichas órdenes.
+
+### CAPÍTULO III. VIOLACIÓN DE LA COMUNICACIÓN PRIVADA
+
+###### Artículo 319.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+Se impondrán de dos a seis años de prisión y de doscientos a seiscientos días multa, a quien:
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+I. Se atribuya el carácter de auxiliar, técnico o profesionista u ostente postgrado, especialidad o certificación, sin haber cursado los estudios correspondientes en instituciones educativas con reconocimiento de validez oficial y obtenido el título, grado académico, certificación o autorización respectivos conforme a las leyes aplicables, y ofrezca o desempeñe sus servicios con ese carácter; o
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+II. Sin atribuirse ninguna de las calidades anteriores, lleve a cabo actividades que, de acuerdo con la ley, solo pueden desempeñar quienes cuenten con cédula profesional o de especialidad, certificación o autorización expedidas por la autoridad competente u organismos legalmente facultados para ello.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+Si como consecuencia de las actividades que, en los supuestos descritos, realice el sujeto activo, se causan otros delitos, las penas correspondientes a ellos se agregarán a las que establece este artículo.
 
 ### CAPÍTULO IV. DEL USO Y ACCESO ILÍCITO A LOS SISTEMAS Y EQUIPOS INFORMÁTICOS Y DE COMUNICACIÓN
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-###### Artículo 319.
-
-A quien se atribuya el carácter de profesionista u ostente algún postgrado, sin haber cursado los estudios para obtener el título o certificación expedida por autoridades u organismos legalmente facultados para ello y ofrezca o desempeñe sus servicios bajo ese carácter, se le impondrá de dos a seis años de prisión y de doscientos a quinientos días multa.
-
-### CAPÍTULO I. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
-
 ###### Artículo 320.
 
-Se impondrá de seis meses a seis años de prisión y de doscientos a cuatrocientos días multa al médico que:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-I. Realice una operación quirúrgica innecesaria;
+Se impondrá de seis meses a seis años de prisión, suspensión de derechos para el ejercicio profesional por el mismo lapso y de cuatrocientos a mil días multa al médico, o profesional, técnico o auxiliar de la salud que:
 
-II. Simule la práctica de una intervención quirúrgica; o
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-III. Sin autorización del paciente o de la persona que ante la imposibilidad de aquél pueda legítimamente otorgarla, salvo en casos de urgencia, realice una operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo o cause la pérdida de un miembro o afecte la integridad de una función vital.
+I. Realice una intervención quirúrgica o un procedimiento médico mínimamente invasivo innecesarios.
 
-### CAPÍTULO II. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+II. Simule la práctica de una intervención quirúrgica o un procedimiento médico mínimamente invasivo.
+
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+III. Sin autorización del paciente o de la persona que ante la imposibilidad de aquél pueda legítimamente otorgarla, salvo en casos de urgencia, realice una operación quirúrgica o un procedimiento invasivo que por su naturaleza ponga en peligro la vida del o de la paciente o cause la pérdida de un miembro o afecte la integridad de una función vital.
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+IV. Efectúe procedimientos médico quirúrgicos o mínimamente invasivos, incluso con fines meramente estéticos o cosméticos, brinde atención médica, especializada o no, prescriba o suministre medicamentos o preste algún servicio de salud que requieran certificación, autorización o cédula profesional o de especialidad, sin contar con ellas, o cuando teniéndolas, le hayan sido revocadas o canceladas o se encuentre suspendido o inhabilitado en sus derechos para el ejercicio profesional por determinación de autoridad administrativa o jurisdiccional.
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+V. Lleve a cabo cualquiera de dichos procedimientos en hospitales, sanatorios, clínicas u otro tipo de establecimiento dedicado a la prestación de servicios de salud, o lugar distinto a estos, que no cuenten con licencia sanitaria vigente, con conocimiento de esta circunstancia.
+
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+Cuando, con motivo de las conductas descritas, se causen daños o deterioros en la salud del paciente o se produzca su muerte, además de las penas que establece este artículo se aplicarán las correspondientes a los delitos de lesiones u homicidio y, en su caso, se inhabilitará al médico de uno a diez años para el ejercicio de la profesión.
+
+### CAPÍTULO I. FALSIFICACIÓN DE SELLOS, MARCAS, LLAVES, CUÑOS, TROQUELES, CONTRASEÑAS Y OTROS
 
 ###### Artículo 321.
 
@@ -3953,29 +3993,45 @@ I. Impidan la salida de un paciente, aduciendo adeudos de cualquier índole; o
 
 II. Impidan la entrega de un recién nacido, por el mismo motivo.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 321 Bis.
+
+A los directores, encargados o administradores de aquellos establecimientos dedicados a la prestación de servicios de salud que, a sabiendas de la inexistencia o falta de vigencia de la licencia sanitaria correspondiente, permitan la práctica de los procedimientos a que alude el artículo 320, o teniendo conocimiento de las conductas que este describe, no impidan que se lleven a cabo, pudiendo hacerlo, o no las denuncien una vez cometidas, les serán aplicables las sanciones en él previstas.
+
+Además, en el caso de personas morales, se les podrán aplicar las consecuencias legales previstas en el artículo 31 de este Código y las demás que establece la Ley General de Salud.
+
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2017)</small>
 
 ###### Artículo 322.
 
 Se impondrá suspensión de derechos para ejercer un cargo de seis meses a dos años o multa de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización, a los directores, encargados o administradores de hospitales, sanatorios, clínicas, dispensarios, enfermerías, o cualquier otro centro de salud, o de agencias funerarias, cuando la autoridad correspondiente haya ordenado la entrega de un cadáver y por motivo injustificado la nieguen o la retarden.
 
-### CAPÍTULO III. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
+### CAPÍTULO II. ELABORACIÓN O ALTERACIÓN Y USO INDEBIDO DE PLACAS, ENGOMADOS Y DOCUMENTOS DE IDENTIFICACIÓN DE VEHÍCULOS AUTOMOTORES
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 323.
 
-Al profesionista en medicina o enfermería que suministre un medicamento evidentemente inapropiado en perjuicio de la salud del paciente, se le impondrán de seis meses a tres años de prisión y de cincuenta a trescientos días multa.
+Al técnico, auxiliar, o profesionista en medicina o enfermería que suministre un medicamento o cualquier otra sustancia a sabiendas de que no cumplen con las especificaciones y requerimientos de la autoridad en materia de salud o que resulten evidentemente inapropiados, por su cantidad, calidad o falta de idoneidad, en perjuicio de la salud del paciente, se le impondrán de seis meses a tres años de prisión y de cincuenta a trescientos días multa.
 
 ###### Artículo 324.
 
 A las personas encargadas, empleadas o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente señalada por otra que ponga en peligro la salud, se les impondrán seis meses a dos años de prisión y de cincuenta a doscientos días multa.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE NOVIEMBRE DE 2019)</small>
+
+### CAPÍTULO III. FALSIFICACIÓN O ALTERACIÓN Y USO INDEBIDO DE DOCUMENTOS
+
+###### Artículo 324 Bis.
+
+El Ministerio Público, en todos los casos en que tenga conocimiento de la comisión de alguno de los delitos contenidos en este Título, y la autoridad jurisdiccional, siempre que dicte una sentencia condenatoria ejecutoriada, notificarán de inmediato a la Dirección Estatal de Profesiones o a la Secretaría de Salud o autoridad sanitaria local, según corresponda, y le remitirán la información pertinente para que, en uso de sus atribuciones, inicien la indagación conducente que les permita determinar si existen infracciones a las leyes de sus materias que ameriten alguna sanción en el ámbito de su competencia.
 
 ## TÍTULO VIGÉSIMO SEGUNDO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS
 
 VÍAS DE COMUNICACIÓN Y DE LOS MEDIOS DE TRANSPORTE
 
-### CAPÍTULO I. REBELIÓN
+### CAPÍTULO ÚNICO
 
 ###### Artículo 325.
 
@@ -3991,7 +4047,7 @@ Si alguno de los hechos a que se refiere este artículo, se ejecuta por medio de
 
 Estas sanciones se impondrán con independencia de las que procedan si se ocasiona algún otro ilícito.
 
-### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
+### CAPÍTULO I. REBELIÓN
 
 ###### Artículo 326.
 
@@ -4001,7 +4057,7 @@ Los delitos previstos en este artículo se perseguirán por querella.
 
 La misma sanción se impondrá en los casos en que la comunicación se encuentre registrada o archivada en sistemas o equipos de informática protegidos por algún mecanismo de seguridad.
 
-### CAPÍTULO III. SABOTAJE
+### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
 
 ###### Artículo 327.
 
@@ -4011,7 +4067,7 @@ A quien revele, divulgue, utilice indebidamente o en perjuicio de otro, informac
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE NOVIEMBRE DE 2011)</small>
 
-### CAPÍTULO IV. MOTÍN
+### CAPÍTULO III. SABOTAJE
 
 ###### Artículo 327 Bis.
 
@@ -4037,7 +4093,7 @@ Las penas previstas en este Capítulo se incrementarán en una mitad cuando las 
 
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA FE PÚBLICA
 
-### CAPÍTULO V. SEDICIÓN
+### CAPÍTULO IV. MOTÍN
 
 ###### Artículo 328.
 
@@ -4049,9 +4105,7 @@ II. Use o enajene los objetos falsificados o alterados señalados en la fracció
 
 Las penas se aumentarán en una mitad, cuando el objeto falsificado o alterado sea oficial.
 
-### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
+### CAPÍTULO V. SEDICIÓN
 
 ###### Artículo 329.
 
@@ -4059,9 +4113,9 @@ A quien elabore o altere, sin permiso de la autoridad competente, una placa, el 
 
 Las mismas penas se impondrán al que adquiera o enajene, cualquiera de los objetos a que se refiere el párrafo anterior, con conocimiento de que son falsificados o que fueron obtenidos indebidamente; así mismo, al que con cualquier finalidad instale en un vehículo placas de circulación o autorización oficial para circular, que no le correspondan legalmente, o a sabiendas de esta circunstancia haga uso del mismo.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. DELITOS AMBIENTALES
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 330.
 
@@ -4101,7 +4155,7 @@ V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
 
 ###### Artículo 334.
 
@@ -4148,6 +4202,10 @@ V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad
 (DEROGADO, P.O. 15 DE JUNIO DE 2019)
 
 ## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTRA LA SEGURIDAD DE LAS INSTITUCIONES DEL ESTADO
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
 
 ###### Artículo 345.
 
@@ -5289,7 +5347,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 15 DE JUNIO DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO N° LXV/RFLYC/0854/2018 XVI P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXV/RFLYC/0854/2018 XVI P.E., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVI/RFCOD/0381/2019 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFCOD/0394/2019 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 98, CUARTO PÁRRAFO, INCISO I), DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
