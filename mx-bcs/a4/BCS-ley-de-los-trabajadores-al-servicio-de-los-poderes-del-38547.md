@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2019-06-20"
+last_updated: "2019-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -378,6 +378,10 @@ El salario no es susceptible de embargo judicial o administrativo, salvo en los 
 ###### ARTICULO 43.
 
 Es nula la cesión de salarios en favor de tercera persona.
+
+> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 43 BIS.- Se prohíbe para el pago de cualquier remuneración o prestación a que tengan derecho los trabajadores, utilizar como unidad de cálculo, la Unidad de Medida y Actualización (UMA), la Unidad de Inversión (UDIS) o cualquier otra forma distinta a las previstas en la presente Ley.
 
 ### CAPITULO SEGUNDO. DE LAS OBLIGACIONES DE LOS TITULARES Y TRABAJADORES
 
@@ -1510,3 +1514,15 @@ B.O. 20 DE JUNIO DE 2019.
 ###### ARTÍCULO UNICO
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2650 SE ADICIONA EL ARTÍCULO 43 BIS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al presente decreto.
