@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2019-05-20"
+last_updated: "2019-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -77,11 +77,21 @@ Para la efectiva aplicación de la presente Ley se considerarán siempre los sig
 
 I.- Comunicación: son los lenguajes, la visualización de textos, el Braille, la lengua de señas mexicana, la comunicación táctil, los macro tipos, los dispositivos multimedia de fácil acceso, así como el lenguaje escrito, los sistemas auditivos, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
 
-II.- Ajustes razonables: son las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales; y
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-III.- Diseño universal: es el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas con discapacidad, a fin de lograr la accesibilidad en todos sus ámbitos en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. No excluye las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten.
+II.- Ajustes razonables: son las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-IV.- Asistencia social: es el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+III.- Diseño universal: es el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas con discapacidad, a fin de lograr la accesibilidad en todos sus ámbitos en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. No excluye las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+IV.- Asistencia social: es el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+V.- Desarrollo Integral Productivo: El conjunto de acciones y buenas prácticas en todos los sectores productivos, tanto públicos como privados, con el fin de que contraten, empleen y capaciten a las personas con discapacidad, con el fin de garantizar que tengan estabilidad económica y una vida plena.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2019)</small>
 
@@ -139,7 +149,9 @@ Se crea el Comité Coordinador de Integración Social y Productiva de las Person
 
 I.- Proponer al Ejecutivo del Estado la unificación de criterios de las Instituciones que otorguen el servicio social a favor de las personas con discapacidad;
 
-II.- Proponer a las Instituciones competentes por ley en materia de discapacidad la elaboración de planes, proyectos y programas que tiendan a brindar el apoyo integral a las personas con discapacidad;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+II.- Proponer a las Instituciones competentes por ley en materia de discapacidad la elaboración de planes, proyectos y programas que tiendan a brindar el apoyo integral a las personas con discapacidad, coordinándose con las Secretarias correspondientes con el fin de crear e impulsar políticas públicas que incentiven al sector público y privado para que contraten e impulsen el desarrollo de las personas con discapacidad.
 
 III.- Proponer las acciones conducentes a evitar duplicidad de servicios a personas con discapacidad por parte de los integrantes del Comité Coordinador;
 
@@ -918,3 +930,11 @@ P.O. 20 DE MAYO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 237.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES II, III Y IV DEL PÁRRAFO TERCERO DEL ARTÍCULO 3º; LA FRACCIÓN II DEL ARTÍCULO 7º; Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 3º; DE LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
