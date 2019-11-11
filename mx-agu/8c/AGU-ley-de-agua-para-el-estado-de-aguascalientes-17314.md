@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2019-04-15"
+last_updated: "2019-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -179,51 +179,475 @@ VII. La contaminación de los recursos hídricos conllevará la responsabilidad 
 
 VIII. Las autoridades implementarán las acciones necesarias para que el desarrollo de los centros urbanos, se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos de conformidad con esta Ley, procurando en todo momento el equilibrio hídrico.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017 "A PARTIR DEL PRIMERO DE ENERO DEL AÑO DOS MIL DIECINUEVE, SE DEROGA EL TÍTULO SEGUNDO DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES EN FECHA 24 DE JULIO DE 2000, QUEDANDO EXTINTO EL ORGANISMO PÚBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DENOMINADO "INSTITUTO DEL AGUA DEL ESTADO".]</small>
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)</small>
+ARTICULO 3o B.- Es facultad del Gobernador del Estado, expedir el Plan Hidráulico para el Estado de Aguascalientes, como instrumento rector en el tratamiento y atención de la problemática del suministro de agua en nuestra Entidad Federativa.
+
+Para lo cual, será competencia del Instituto, elaborar, modificar y actualizar la propuesta del Plan Hidráulico para el Estado de Aguascalientes, de acuerdo con la Ley de Planeación del Desarrollo Estatal y Regional para el Estado de Aguascalientes, mediante una Planeación de largo plazo.
+
+En las dependencias y organismos de los tres Poderes así como en los órganos constitucionales autónomos del Estado, se llevará a cabo una campaña permanente de uso racional del agua, los cuales permitirán a la población en general de acuerdo a su rango de edad conocer medidas específicas para el ahorro y evitar el desperdicio del recurso hídrico.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 3o C.- El Plan Hidráulico para el Estado de Aguascalientes tendrá por objeto establecer los criterios para la aplicación de las políticas públicas que permitan la detección de problemas en materia de agua así como su atención eficaz; el cual se integrará por lo menos con los siguientes apartados:
+
+I. Fundamentos legales, distinguiendo expresamente las competencias estatales y municipales, y su congruencia con la planeación del desarrollo Nacional y Estatal;
+
+II. Antecedentes, los cuales serán integrados por una justificación y descripción general del documento;
+
+III. Diagnóstico vigente de las condiciones del agua en el Estado, detectando las fortalezas, oportunidades, debilidades y amenazas que cuenta el Estado para el suministro de agua; señalando expresamente las causas de los problemas que aquejan a este sector; y
+
+IV. Análisis y prospección de los esfuerzos para atender este tema.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ## TITULO SEGUNDO. DEL INSTITUTO DEL AGUA DEL ESTADO
 
-> <small>(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 4o.
 
-(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
+El Instituto del Agua del Estado es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, con domicilio en el Estado de Aguascalientes. Gozará de autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objetivos, fines y metas, relacionadas con la política pública en materia de agua.
+
+El Instituto será el encargado del cumplimiento de los objetivos y fines de la política pública para la explotación, uso, aprovechamiento, preservación, recarga, distribución, tratamiento, saneamiento, ultrafiltración, reúso y disposición intermedia y final del agua de competencia del Estado de Aguascalientes, de los servicios públicos que éste haya asumido mediante acuerdos o convenios de colaboración con el Gobierno Federal y con los gobiernos municipales y, de las demás acciones que contribuyan a logro de los mismos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 5o.
 
-(DEROGADO [N. DE E. REPUBLICADO] POR EL ARTÍCULO SEGUNDO DEL DECRETO 62, PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2018)
+El Instituto del Agua del Estado dirigirá sus políticas, programas, servicios y acciones, observando los principios rectores, planes y programas sobre los que se desarrolla la Administración Pública Estatal, garantizando en todo momento la protección de los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+
+El Instituto tendrá las siguientes atribuciones:
+
+I. Gestionar y ejecutar la obra pública hidráulica y servicios relacionados con la misma, de competencia estatal y la que se realice en cumplimiento de los convenios de colaboración y coordinación celebrados por el Gobierno del Estado con el Gobierno Federal, con los municipios del Estado y con particulares;
+
+II. Realizar las funciones y prestar los servicios de agua potable, drenaje, alcantarillado, tratamiento y disposición de las aguas residuales municipales, que estando a cargo de los municipios del Estado, a juicio del ayuntamiento respectivo, sea necesario celebrar convenio de colaboración con el Gobierno del Estado, para que éste a través del Instituto, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio.
+
+III. Llevar a cabo las acciones necesarias encaminadas a los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso dentro de su competencia;
+
+IV. Realizar la construcción, reingeniería, operación y mantenimiento de plantas de tratamiento de aguas residuales y potabilizadoras, líneas y sistemas de conducción, distribución, almacenamiento, regulación, captación y recarga de agua; colectores pluviales y sanitarios; perforación de pozos para la explotación de aguas del subsuelo e inyección y observación de éstas y, cualquier otras acciones vinculadas con el agua, así como de sistemas e infraestructura para el manejo de lodos y generación de energía eléctrica a partir de la biodigestión de éstos y llevar a cabo todas las acciones necesarias para los servicios públicos de agua potable, alcantarillado, saneamiento y reúso del agua que correspondan al Estado;
+
+V. Establecer las relaciones entre las autoridades, los prestadores de los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso, los contratistas y los usuarios de dichos servicios;
+
+VI. Planear, promover, diseñar, programar, gestionar, ejecutar y administrar proyectos de obra pública de infraestructura hidráulica de cualquier tipo;
+
+VII. Prestar servicios de análisis de laboratorio de agua en sus diversas condiciones, de lodos residuales del tratamiento de aguas y demás servicios de laboratorio necesarios para el cumplimiento de los programas y acciones que el Instituto tenga a su cargo y los que le sean encomendados por el Titular del Ejecutivo del Estado;
+
+VIII. Dar seguimiento financiero, administrativo y operativo a los programas públicos para la conservación, uso, tratamiento, reúso y aprovechamiento sustentable y sostenible del agua, así como para la promoción y manejo de las políticas públicas aplicables para tales efectos;
+
+IX. Representar al Gobierno del Estado en los consejos de cuenca, comités hidráulicos de los distritos de riego y en las actividades de coordinación y concertación con cualquier órgano o institución que tenga relación con los asuntos del agua y, acudir y participar en las sesiones a las que sea invitado;
+
+X. Promover y fomentar el uso eficiente y preservación del agua y, la creación de una cultura del agua como recurso escaso y vital;
+
+XI. Asesorar técnicamente a las unidades y distritos de riego y, de temporal; así como asesorar a los usuarios de riego con el objeto de propiciar un aprovechamiento racional del agua;
+
+XII. Apoyar en la consolidación y desarrollo técnico de las asociaciones de usuarios de distritos y unidades de riego y drenaje;
+
+XIII. Solicitar y colaborar con las autoridades competentes en la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio, para el cumplimiento de sus funciones y en los términos de las normas jurídicas aplicables, así como tramitar los permisos y autorizaciones necesarios para el cumplimiento de las funciones que tiene atribuidas;
+
+XIV. Promover la potabilización del agua, considerando las Normas Oficiales Mexicanas en materia de salud, así como promover que el tratamiento de las aguas residuales se apegue a la normatividad correspondiente para evitar riesgos de contaminación al medio ambiente;
+
+XV. Promover el establecimiento y la difusión de la normatividad en lo referente a la materia de su competencia;
+
+XVI. Participar en la realización de estudios sobre el comportamiento dinámico de grietas, fallas geológicas y demás afectaciones ocasionadas por el comportamiento del agua en el Estado;
+
+XVII. Realizar la comunicación técnica y oficial de los temas del agua que le competen y, emitir opiniones jurídicas y técnicas relativas al recurso del agua;
+
+XVIII. Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica a los prestadores de los servicios del agua;
+
+XIX. Promover y apoyar la creación, desarrollo y autosuficiencia administrativa, técnica y financiera de los organismos operadores municipales e intermunicipales de los servicios de agua y coadyuvar con éstos en las gestiones de financiamiento y planeación de obras para los sistemas requeridos para la prestación de los servicios públicos que les correspondan;
+
+XX. Promover la participación social y privada en la prestación de los servicios públicos de agua;
+
+XXI. Promover y desarrollar programas de orientación permanente, con el objeto de preservar la calidad del agua y propiciar su aprovechamiento racional;
+
+XXII. Participar en los términos del marco jurídico aplicable, en el otorgamiento y administración de las concesiones para la prestación de los servicios públicos relacionados con el agua que tenga a su cargo o que asuma de conformidad con lo dispuesto en esta Ley y, supervisar y hacer efectivo el cumplimiento de las obligaciones de los concesionarios de acuerdo al título de concesión respectivo;
+
+XXIII. Recabar y mantener actualizada la información relacionada con los servicios públicos relacionados con el agua;
+
+XXIV. Promover el diseño, la construcción y el aprovechamiento de sistemas de riego tecnológicamente avanzados para los distritos y unidades de riego y, la infraestructura destinada a la recarga de agua al acuífero, de acuerdo a la normatividad aplicable;
+
+XXV. Fomentar, promover, realizar y difundir la investigación científica y aplicada en materia del agua;
+
+XXVI. Establecer programas permanentes de capacitación, en forma paralela a la construcción, puesta en marcha y en servicio de obras hidráulicas, con el fin de lograr un mejor aprovechamiento de las mismas;
+
+XXVII. Realizar la venta y suministro de agua tratada, potable, ultrafiltrada, lodos activados y demás productos obtenidos de las actividades del Instituto.
+
+XXVIII. Participar en la elaboración de los planes y programas para la conservación y el uso sustentable de las aguas de jurisdicción estatal;
+
+XXIX. Dar seguimiento a las obligaciones derivadas de los convenios de coordinación celebrados con los municipios del Estado en los términos establecidos por la Ley Municipal para el Estado de Aguascalientes;
+
+XXX. Las demás que en materia de agua sean concertadas por la Federación al Gobierno del Estado de Aguascalientes en los términos de Ley, de los convenios que al efecto se celebren, las que le sean encomendadas por el Titular del Ejecutivo del Estado relacionadas con los temas de su competencia en materia del agua, las que asuma derivadas de los convenios de colaboración celebrados con los municipios del Estado y las que sean necesarias para el cumplimiento de las demás funciones previstas en esta ley y en las demás normas jurídicas aplicables; y
+
+XXXI. Las demás que le atribuyan las normas jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 6o.
 
-(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
+El patrimonio del Instituto estará constituido por:
+
+I. Los activos propiedad del Instituto;
+
+II. Las aportaciones presupuestales estatales y federales a su favor;
+
+III. Los ingresos propios obtenidos por la venta de productos y la prestación de servicios públicos o privados que realice;
+
+IV. Las contribuciones, productos y aprovechamientos obtenidos en términos de las leyes aplicables;
+
+V. Los créditos y rendimientos financieros obtenidos de las instituciones del Sistema Financiero o de cualquier otra institución pública o privada autorizada por ley;
+
+VI. Los bienes adquiridos por compra, permuta, expropiación, donación, herencia, legado y demás formas de adquirir la propiedad; y
+
+VII. Los demás bienes y derechos reales o personales cuantificables en dinero obtenidos por cualquier título legal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 7o.
 
-(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
+Para el cumplimiento de su objeto y funcionamiento, el Instituto contará, al menos, con los siguientes órganos y unidades:
+
+l. Órganos de Gobierno:
+
+a) Consejo Directivo; y
+
+b) Dirección General;
+
+II. Órganos de Control y Evaluación:
+
+a) Órgano de Vigilancia; y
+
+b) Órgano Interno de Control:
+
+1. Unidad Auditora;
+
+2. Unidad Investigadora; y
+
+3. Unidad Substanciadora y Resolutora;
+
+III. Unidades administrativas: A la estructura orgánica y personal técnico necesarios para su funcionamiento, de conformidad con la disponibilidad presupuestaria y el Reglamento Interior que para tal efecto se expida.
+
+Los servidores públicos del primer nivel jerárquico inferior al de Director General, serán designados y removidos por el Titular del Poder Ejecutivo; y
+
+IV. Órgano Auxiliar:
+
+a) Consejo Estatal para la Atención de la Problemática del Agua.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 8o.
 
-(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
+El Consejo Directivo será el Órgano de Gobierno del Instituto y se integrará por los siguientes miembros:
+
+I. El Titular del Poder Ejecutivo, quien lo presidirá;
+
+II. El Titular de la Coordinación General de Gabinete;
+
+III. El Titular de la Coordinación General de Planeación y Proyectos;
+
+IV. El Titular de la Secretaría de Finanzas;
+
+V. El Titular de la Secretaría de Obras Públicas;
+
+VI. El Titular de la Secretaría Sustentabilidad, Medio Ambiente y Agua;
+
+VII. El Titular de la Secretaría de Desarrollo Rural y Agroempresarial;
+
+VIII. El Titular del Instituto de Servicios de Salud del Estado de Aguascalientes;
+
+IX. Un representante del Ayuntamiento del municipio capital;
+
+X. El Titular del órgano operador de servicios de Agua del municipio capital;
+
+XI. Dos representantes de los demás Ayuntamientos de los Municipios del Estado; y
+
+XII. Dos representantes de los usuarios de la sociedad civil organizada; representando los rubros de uso de agua agrícola e industrial.
+
+Los integrantes del Consejo Directivo a que se refieren las fracciones XI y XII deberán ser designados por el Presidente, cuya designación deberá estar justificada, a efecto de dar cumplimiento con el objeto de la presente Ley.
+
+Para el caso de los integrantes referidos en la fracción IX, X y XI permanecerán en su encargo por el periodo que dure la administración municipal correspondiente; respecto del integrante señalado en la fracción XII del presente artículo durarán en su encargo tres años, el cual podrá ser reelecto por un periodo adicional.
+
+Los integrantes del Consejo Directivo podrán designar a sus respectivos suplentes, quienes deberán tener el nivel jerárquico inmediato inferior o equivalente y tendrán las mismas atribuciones, con excepción de aquellos designados por el Presidente del Consejo.
+
+Los integrantes e invitados del Consejo Directivo participarán en el mismo de manera honorífica, por lo que no recibirán retribución económica alguna por las funciones que desempeñen con tal carácter.
+
+El Consejo Directivo contará con un Secretario Técnico, quien deberá ser el Director General y que tendrá las atribuciones establecidas en el Reglamento Interior.
+
+Se podrá invitar a formar parte del Consejo Directivo, con voz, pero sin voto, a representantes de los sectores público, privado y social, como apoyo para exposición de temas que requieran de una especialidad técnica o por cualquier otra causa justificada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 9o.
 
-(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
+Son facultades del Consejo Directivo:
+
+I. Analizar y aprobar los planes, proyectos y programas estratégicos del Instituto, que le presente el Director General;
+
+II. Aprobar las acciones que someta a su consideración el Director General, necesarias para la ejecución de las funciones derivadas de los convenios de colaboración y de coordinación que el Gobierno Federal celebre con el Gobierno del Estado; así como las que el Estado asuma por convenios celebrados con los Ayuntamientos;
+
+III. Cuando presten los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso, determinar las cuotas y tarifas de conformidad con lo establecido en esta Ley;
+
+IV. Emitir opinión y dictar líneas de acción relativas a las atribuciones encomendadas al Instituto;
+
+V. Resolver, en el ámbito de su competencia, los asuntos que someta a su consideración el Director General;
+
+VI. Aprobar los proyectos de inversión del Instituto;
+
+VII. Aprobar los estados financieros y los informes que someta (sic) su consideración el Director General;
+
+VIII. Nombrar y remover a propuesta del Director General, a los servidores públicos del Instituto que ocupen cargos en el segundo nivel jerárquico inferior al de aquél, así como aprobar la fijación de sueldos y prestaciones;
+
+IX. Aprobar el Reglamento Interior y sus reformas, así como demás disposiciones necesarias para el cumplimiento del objeto del Instituto;
+
+X. Autorizar la contratación, conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso y realización de las obras;
+
+XI. Administrar el patrimonio del Instituto y supervisar su adecuado manejo;
+
+XII. Aprobar el proyecto de presupuesto anual de egresos del Instituto, conforme a la propuesta formulada por el Director General;
+
+XIII. Autorizar la cancelación de las cuentas por cobrar que someta (sic) Director General, cuando su cobro sea incosteable, inconveniente o improcedente. En los primeros dos supuestos, el Director General deberá justificar la incosteabilidad o inconveniencia y en el último supuesto, será necesario que a la justificación se adicione la opinión jurídica que sustente la improcedencia del cobro;
+
+XIV. Autorizar la desincorporación del servicio público, de los bienes que sean obsoletos o inútiles para tales efectos y su enajenación, a excepción de los inmuebles, así como su baja, en términos de la legislación aplicable para tal efecto;
+
+XV. Emitir la declaratoria de dominio público de los bienes propiedad del Instituto que así procedan, en términos de la legislación aplicable para tal efecto; y
+
+XVI. Las demás que le atribuyen esta Ley y otras normas e instrumentos jurídicos aplicables.
+
+El Consejo Directivo tendrá como facultades indelegables las previstas para los órganos de gobierno en la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 9o A. El Consejo Directivo deberá sesionar de manera ordinaria en términos de lo establecido por la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes y de manera extraordinaria cuando así lo crea conveniente a sus intereses.
+
+El Reglamento Interior establecerá lo relativo al procedimiento y desarrollo de sus Sesiones y tomará sus resoluciones por la mayoría de sus integrantes, y en caso de empate el voto de calidad la tendrá su Presidente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 10.
 
-(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
+El Instituto contará con una Dirección General, cuyo Titular será un Director General nombrado y removido por el Titular del Ejecutivo, durará en su encargo tres años y podrá ser ratificado por una sola vez.
+
+El nombramiento deberá recaer en la persona que además de los requisitos establecidos en la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes, compruebe experiencia técnica, administrativa y profesional en materia del agua, y tendrá las siguientes atribuciones:
+
+I. Ejercer la representación legal del Instituto;
+
+II. Elaborar y someter al Consejo para su aprobación, los planes, programas, proyectos y demás acciones en los temas de competencia del Instituto;
+
+III. Solicitar la publicación en el Periódico Oficial del Gobierno del Estado y en uno de los diarios de mayor circulación de la localidad, las cuotas y tarifas determinadas por el Consejo Directivo, cuando el Estado, a través del Instituto, preste los servicios públicos con base en los instrumentos jurídicos que para tal efecto sean suscritos;
+
+IV. Certificar los documentos que obren en los archivos del Instituto;
+
+V. Emitir y notificar los actos administrativos, instrumentar y desahogar los procedimientos administrativos e, imponer y ejecutar sanciones y realizar el cobro de las multas determinadas y demás actuaciones que sean necesarias, en el ejercicio de las facultades que confieren a favor del Instituto, las leyes en materia de obras públicas y servicios relacionados con las mismas y, de adquisiciones, arrendamientos y servicios, aplicables tanto en materia federal, así como estatal, según sea el caso; así como exigir el cumplimiento de las obligaciones a cargo de las empresas contratistas de las obras públicas, de los proveedores de bienes y prestadores de servicios que contrate el Instituto;
+
+VI. Realizar las acciones necesarias para el cumplimiento de los planes, programas y proyectos aprobados por el Consejo Directivo del Instituto;
+
+VII. Coordinar las actividades técnicas, administrativas y financieras del Instituto para lograr una mayor eficiencia, eficacia y economía del mismo;
+
+VIII. Celebrar los actos jurídicos para pleitos y cobranzas, administración y de dominio que sean necesarios para el funcionamiento del Instituto;
+
+IX. Gestionar y obtener, conforme a la legislación aplicable y previa autorización del Consejo Directivo; el financiamiento para obras, servicios y amortización de pasivos, así como suscribir títulos de crédito y celebrar operaciones de crédito, contratos u obligaciones ante instituciones públicas y privadas;
+
+X. Percibir los ingresos del Instituto y gestionar el cobro de las cuentas por cobrar pendientes a su favor;
+
+XI. Aprobar los pagos de las estimaciones de obras públicas contratadas por el Instituto; realizar los demás pagos con cargo al presupuesto de egresos, someter a la aprobación del Consejo los gastos extraordinarios;
+
+XII. Rendir el informe anual de actividades del Instituto, incluyendo el cumplimiento de acuerdos del Consejo Directivo, el informe financiero, presupuestal y de gestión; así como la presentación de los proyectos de presupuestos de egresos y de ingresos para el siguiente periodo;
+
+XIII. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
+
+XIV. Representar al Gobierno del Estado en los temas relacionados con el agua, ante los consejos de cuenca y demás órganos colegiados, instituciones e instancias en materia de agua;
+
+XV. Ordenar que se practiquen las visitas de inspección y verificación, de conformidad con lo señalado en esta Ley y demás disposiciones normativas aplicables;
+
+XVI. Ordenar que se practiquen las visitas de inspección y verificación del cumplimiento de avances y demás en materia de obras públicas y servicios que sean contratados por el Instituto, así como las que le correspondan en términos de esta Ley y demás disposiciones normativas aplicables;
+
+XVII. Realizar las actividades que se requieran para lograr que el organismo preste a la comunidad servicios adecuados y eficientes;
+
+XVIII. Fungir como Secretario Técnico del Consejo Directivo con voz, pero sin voto, para lo cual se le citará a todas las sesiones;
+
+XIX. Otorgar y revocar poderes generales y especiales, para pleitos y cobranzas, actos de administración, actos de dominio, mandato judicial y/o suscripción de títulos y operaciones de crédito y demás facultades, en los términos del Código Civil del Estado de Aguascalientes y del Código Civil vigente en materia Federal, sin más limitación que la establecida por la ley;
+
+XX. Elaborar y someter a la aprobación del Consejo, los proyectos de Reglamento Interior y demás reglamentos del Instituto y gestionar la publicación de los mismos en el Periódico Oficial del Estado;
+
+XXI. Delegar facultades de su competencia que así procedan, y
+
+XXII. Las demás que le señale el Consejo Directivo, la Ley, el Reglamento Interior y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 11.
 
-(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
+El órgano de Vigilancia tiene a su cargo el estudio del ejercicio eficiente de los recursos, la evaluación de gestión y, en general, del desempeño de las actividades del Instituto; estará integrado por un Comisario Público Propietario y un Suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y de la Contraloría del Estado, para tal efecto.
+
+El Comisario Público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría del Estado le asigne específicamente conforme a la ley correspondiente.
+
+Para el cumplimiento de las funciones citadas el Consejo Directivo y el Director General deberán proporcionar la información que solicite tanto el Comisario Público del Instituto, como el Órgano Superior de Fiscalización del Estado, este último será solo respecto de las cuentas públicas que le sean presentadas.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 11 A. El Órgano Interno de Control tiene a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno del Instituto, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
+
+Para el ejercicio de sus funciones, el Órgano Interno de Control contará con las siguientes Unidades:
+
+I. Unidad Auditora;
+
+II. Unidad Investigadora; y
+
+III. Unidad Substanciadora y Resolutora.
+
+Los Titulares de dichas Unidades serán designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen los Titulares de la Secretaría General de Gobierno y la Contraloría del Estado, para tal efecto.
+
+El servidor público que ejerza la función de autoridad Substanciadora y Resolutora, será distinto de aquél que ejerza la de autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes.
+
+El Órgano Interno de Control dirigirá sus funciones conforme a los lineamientos que para tal efecto emita la Contraloría del Estado, además de las disposiciones aplicables en la materia.
+
+A. La Unidad Auditora es la encargada de fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno, y tiene las siguientes funciones:
+
+I. Elaborar y ejecutar, con aprobación la (sic) Consejo Directivo, el programa anual de auditorías a las diversas áreas que conforman el Instituto;
+
+II. Realizar auditorías para verificar y evaluar los sistemas de control interno, de registros contables y apego a las normas y procedimientos establecidos; asimismo practicar auditorías y revisiones que permitan evaluar el desempeño del Instituto;
+
+III. Presentar ante la Unidad Investigadora, las denuncias derivadas de la práctica de auditorías, revisiones, inspección y verificación a las diversas Áreas que conforman el Instituto;
+
+IV. Coordinar las acciones a fin de verificar que las Áreas que conforman el Instituto cumplan las políticas, normas y lineamientos establecidos por los diferentes ordenamientos legales y los emitidos por la Contraloría del Estado;
+
+V. Asistir y participar en los procedimientos para la adquisición y prestación de servicios en términos de lo establecido por la ley de la materia;
+
+VI. Comprobar mediante revisiones o inspección directa y selectiva, el cumplimiento por parte del Instituto sobre el correcto ejercicio del gasto público;
+
+VII. Llevar a cabo las acciones necesarias para la implementación de las Normas Generales de Control Interno en la Administración Pública Estatal en apego al Sistema Estatal Anticorrupción;
+
+VIII. Rendir informe trimestral al Consejo Directivo, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+
+IX. Elaborar y proporcionar los informes que le solicite la Contraloría del Estado y demás información correspondiente;
+
+X. Asesorar a los servidores públicos y Unidades Administrativas del Instituto en los asuntos de su competencia;
+
+XI. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de los procedimientos de su competencia;
+
+XII. Supervisar que el manual de contabilidad se encuentre actualizado y responda a las necesidades del Instituto y a la normatividad aplicable a la materia;
+
+XIII. Participar en los actos de entrega recepción de las Unidades Administrativas del Instituto; y
+
+XIV. Las demás atribuciones previstas en otras disposiciones legales y reglamentarias aplicables.
+
+B. La Unidad Investigadora es la encargada de recibir la denuncia y elaborar el informe de presunta responsabilidad administrativa de acuerdo con el procedimiento establecido en la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes, y tiene las siguientes funciones:
+
+I. Instrumentar los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas y probables hechos de corrupción de los servidores públicos adscritos al Instituto y de particulares, conforme a lo previsto en la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes y a lo que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, así como acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera dicho Comité y que sean del ámbito de su competencia;
+
+II. Recibir e investigar las quejas y denuncias que se promuevan con motivo del incumplimiento de las obligaciones de los servidores públicos adscritos al Instituto, así como de los particulares vinculados a faltas graves, de conformidad con la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes;
+
+III. Realizar la investigación correspondiente por la presunta responsabilidad de faltas administrativas, misma que iniciará de oficio, por denuncia o derivado de las auditorías practicadas por parte de las autoridades competentes o, en su caso, de auditores externos;
+
+IV. Solicitar información o documentación a cualquier autoridad o persona física o moral durante la investigación, con el objeto de esclarecer los hechos relacionados con la comisión de presuntas faltas administrativas;
+
+V. Implementar las acciones necesarias para la recepción de denuncias por faltas administrativas imputables a los servidores públicos del Instituto o bien, referidas a faltas de particulares en relación con el Instituto;
+
+VI. Realizar el trámite y desahogo de las investigaciones, por actos u omisiones de los servidores públicos adscritos al Instituto o de particulares que puedan constituir responsabilidades administrativas de acuerdo con la normativa aplicable, autorizando con su firma los acuerdos e informes;
+
+VII. Realizar las actuaciones, diligencias y notificaciones necesarias dentro de las investigaciones seguidas a los servidores públicos del Instituto o de los particulares, habilitando para ello al personal del área correspondiente;
+
+VIII. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con las investigaciones de su competencia;
+
+IX. Concluida la investigación, en su caso, elaborar y suscribir el informe de presunta responsabilidad administrativa en el que se determine si existen elementos que presuman conductas constitutivas de probables faltas administrativas, calificando además dichas faltas como graves o no graves. Hecho lo anterior, turnar el expediente a la Unidad Substanciadora y Resolutora adscrita al Instituto;
+
+X. Tramitar el recurso de inconformidad que se promueva contra la calificación de faltas no graves, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes;
+
+XI. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Investigadora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes;
+
+XII. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+XIII. Ordenar medidas de apremio y solicitar medidas cautelares;
+
+XIV. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+XV. Realizar, por sí o a través del personal a su cargo, todo tipo de notificaciones;
+
+XVI. Rendir informe trimestral a la (sic) Consejo Directivo, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+
+XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos;
+
+XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
+
+XIX. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
+
+C. La Unidad Substanciadora y Resolutora es la encargada de dirigir y conducir los procedimientos de responsabilidades administrativas, así como de resolver e imponer las sanciones correspondientes, según sea el caso, en términos de lo establecido por la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes, y tiene las siguientes funciones:
+
+I. Admitir el informe de presunta responsabilidad administrativa, emitido por la Autoridad Investigadora, con el objeto de tramitar y sustanciar los procedimientos de responsabilidad administrativa en contra de servidores públicos del Instituto, por conductas que pudieran constituir responsabilidad en los términos de la ley de la materia, en cuanto a las faltas administrativas graves, no graves y de particulares.
+
+Por lo que respecta a las faltas administrativas calificadas como no graves, además de las facultades señaladas en el párrafo anterior, podrá resolver los procedimientos de responsabilidad administrativa seguidos en contra de servidores públicos del Instituto.
+
+Tratándose de faltas graves y faltas de particulares vinculados con faltas administrativas graves, una vez realizada la sustanciación, procederá a turnar el expediente a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes para la continuación del procedimiento administrativo y su resolución.
+
+En términos del párrafo que antecede, habilitar como notificador a los servidores públicos a su cargo, a efecto de substanciar debidamente los asuntos en los que tenga competencia;
+
+II. Tramitar y resolver los recursos legales interpuestos en contra de las resoluciones recaídas en los procedimientos administrativos instaurados por ella;
+
+III. Presentar denuncias o querellas en asuntos de competencia del Órgano Interno de Control y de aquellas por probables responsabilidades del orden penal de los servidores públicos, y ratificar las mismas;
+
+IV. Emitir y acordar los escritos, promociones, oficios y demás documentos relacionados con los procedimientos de responsabilidad de su competencia;
+
+V. Llevar a cabo todos los actos procesales respectivos en carácter de Autoridad Substanciadora y Resolutora ante la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes;
+
+VI. Acordar la admisión y cumplimiento a las recomendaciones públicas no vinculantes que emitiera el Comité Coordinador del Sistema Estatal Anticorrupción y que sean del ámbito de su competencia;
+
+VII. Rendir informe trimestral a la (sic) Consejo Directivo, a través del Director General, sobre el estado que guardan los asuntos de su competencia;
+
+VIII. Habilitar días y horas inhábiles para la práctica de diligencias;
+
+IX. Solicitar el auxilio de la Fiscalía General del Estado para determinar la autenticidad de documentos;
+
+X. Ordenar medidas de apremio y dictar medidas cautelares en los casos en que se requiera;
+
+XI. Resolver los recursos de inconformidad interpuestos en contra de las resoluciones recaídas en los procedimientos de adquisición previstos en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, además de todos y cada uno de los recursos administrativos que sean considerados y procedentes en materia de adquisiciones;
+
+XII. Certificar documentos, actuaciones y resoluciones, que deriven de la tramitación de sus procedimientos; y
+
+XIII. Las demás atribuciones otorgadas por otras disposiciones legales y reglamentarias aplicables en la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 12.
 
-(DEROGADO POR EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 27 DE OCTUBRE DE 2017)
+El Instituto contará con un órgano auxiliar, que será el Consejo Estatal para la Atención de la Problemática del Agua, como un órgano técnico, auxiliar y de consulta, cuyo objeto será elaborar propuestas y análisis respecto de los problemas relacionados con el uso del agua en la entidad, el cual estará conformado por:
+
+I. El Director General del mismo Instituto, o el servidor público que él designe, quien lo presidirá;
+
+II. Un representante de cada uno de los organismos operadores de agua de los Municipios;
+
+III. Un representante de la Comisión Nacional del Agua;
+
+IV. Un representante de la Secretaría de Desarrollo Rural y Agroempresarial del Estado;
+
+V. Un Diputado integrante de la Comisión de Recursos Hidráulicos del Congreso del Estado de Aguascalientes;
+
+VI.- Un representante de la Secretaría de Agricultura y Desarrollo Rural, dependiente del Poder Ejecutivo Federal; y
+
+VII. Un representante de los usuarios del agua en los siguientes rubros: doméstico, agrícola, industrial y de servicios, así como un representante de las universidades que manifiesten su interés en participar.
+
+La organización y funcionamiento de este Consejo se establecerá en el Reglamento que para tal efecto emita el Gobernador del Estado, el cual tendrá por lo menos una sesión ordinaria cada 6 meses y las sesiones extraordinarias que sean necesarias.
+
+Los miembros del Consejo serán nombrados por los Titulares u Órganos Directivos de las dependencias que lo integran, salvo los señalados en la fracción VII, cuyo procedimiento de nombramiento se establecerá en el Reglamento que para tal efecto emita el Gobernador del Estado.
+
+El Consejo deberá constituirse como órgano auxiliar técnico con facultades para emitir opiniones y recomendaciones acerca de las políticas públicas y proyectos que conduzcan a la sustentabilidad del recurso hídrico, garantizando las mejores condiciones económicas y de rentabilidad para el Estado y su población.
+
+Cuando existan situaciones sociales que comprometan el buen desarrollo de los proyectos cuya sustentabilidad haya sido establecida, el Consejo apoyará y contribuirá en los procesos de concertación que garanticen las condiciones de gobernabilidad y la implementación del proyecto.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 12 A. La relación laboral entre el Instituto y su personal se regirá por las disposiciones del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
+
+El personal del Instituto estará incorporado en los términos de la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes.
+
+Los servidores públicos que presten sus servicios en el Instituto responderán administrativamente por el incumplimiento a las obligaciones contenidas en esta Ley teniéndose a lo establecido por la Ley de Responsabilidades Administrativas para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 12 B. Las ausencias y suplencias de los servidores públicos del Instituto deberán quedar establecidas en el Reglamento Interior.
 
 ## TITULO TERCERO. DE LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
@@ -1978,3 +2402,79 @@ El presente Decreto iniciará su vigencia, al día siguiente de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS; 41 FRACCIÓN XIV; Y, SE DEROGAN LAS FRACCIONES XXXV, XXXVI, XXXVII, XXXIX Y XLII DEL ARTÍCULO 38; Y, LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 41, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES. ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS DEL 4º AL 12; Y, SE ADICIONAN LOS ARTÍCULOS 3° B, Y 3° C AL TÍTULO PRIMERO "DISPOSICIONES GENERALES'', Y LOS ARTÍCULOS 9º A, 11 A, 12 A Y 12 B AL CAPÍTULO ÚNICO DEL TÍTULO SEGUNDO "DEL INSTITUTO DEL AGUA DEL ESTADO'', DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, se deja sin efectos el Artículo Cuarto Transitorio del Decreto Número 164 de la LXIII Legislatura del Congreso del Estado, publicado en el Periódico Oficial del Estado de Aguascalientes el 27 de octubre de 2017; reformado mediante el Decreto 91 de esa H. LXIV Legislatura del Congreso del Estado, publicado en el Periódico Oficial del Estado el 28 de diciembre de 2018, de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto del Agua del Estado, celebrará los acuerdos administrativos necesarios con las dependencias de la Administración Pública Estatal que corresponda, para la transferencia y el reclutamiento de la plantilla de personal para ocupar su estructura orgánica y para la provisión de los recursos materiales y financieros necesarios para realizar sus funciones, en términos de lo dispuesto por el presente decreto, así como para que reciba por transferencia en propiedad, comodato o de cualquier otra forma y según proceda legalmente, las plantas de tratamiento de aguas residuales, los pozos para explotación de aguas del subsuelo, de inyección y observación, colectores, instalaciones, inmuebles, muebles, vehículos, maquinaria, equipo y documentación e información necesaria para asumir las funciones que le encomienda el presente decreto y toda la que sea accesoria a dichos recursos materiales.
+
+Los recursos humanos y materiales transferidos por el Instituto del Agua del Estado, a la Secretaría de Sustentabilidad, Medio Ambiente y Agua y a la Secretaría de Obras Públicas del Estado, previo a la entrada en vigor del presente decreto, podrán ser destinados nuevamente para el cumplimiento de los fines y objetivos del Instituto del Agua del Estado; al efecto la Secretaría de Sustentabilidad, Medio Ambiente y Agua y la Secretaría de Obras Públicas del Estado, transferirán al Instituto del Agua del Estado mediante acuerdos administrativos, los recursos humanos y materiales que así consideren, a más tardar el 1° de enero de 2020 y el Instituto del Agua del Estado retomará el interés jurídico sobre los procesos y procedimientos jurídicos que había transferido a aquellas mediante los acuerdos administrativos 003 del 1° de febrero de 2018 y 013 del 31 de diciembre de 2018.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Obras Públicas en coordinación con la Secretaría de Sustentabilidad, Medio Ambiente y Agua del Estado, continuarán con la ejecución hasta su conclusión, de las obras públicas hidráulicas iniciadas previamente al primero de enero de dos mil veinte.
+
+La Secretaría de Sustentabilidad, Medio Ambiente y Agua del Estado, continuará prestando los servicios de tratamiento y reúso de aguas residuales que corresponde al Estado y el suministro de agua tratada y potable y demás que están a su cargo, en tanto son transferidas al Instituto el personal, recursos materiales, recursos financieros y los demás elementos materiales y documentales necesarios para que sean asumidos por el Instituto del Agua del Estado.
+
+###### ARTÍCULO QUINTO.
+
+El Director General del Instituto, gestionará oportunamente el proyecto presupuestal de la plantilla laboral del Instituto, así como el alta del personal ante el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes; la reanudación de las obligaciones en materia de transparencia y acceso a la información pública; el cambio de titularidad a su favor, de los permisos de descarga de aguas residuales de las plantas de tratamiento y concesiones para explotación de aguas del subsuelo de los pozos cuya operación asume en virtud del presente decreto, la recuperación del derecho de cobro o compensación de créditos fiscales subsistentes a su favor, así como todas las demás que sean procedentes para conseguir que el primero de enero del año dos mil veinte el Instituto del Agua del Estado reanude sus actividades ordinarias como organismo público descentralizado en los términos del presente Decreto y de la Ley en la materia.
+
+El Directo (sic) General continuará atendiendo los asuntos pendientes derivados del Artículo Primero del presente Decreto, hasta su conclusión y con base en la normatividad correspondiente.
+
+El Instituto del Agua del Estado continuará hasta su conclusión, con la ejecución de la obra pública en proceso de "Reingeniería y rehabilitación de la Planta de Tratamiento de Aguas Residuales de La Ciudad de 2,000 L/S, Tercera Etapa, Aguascalientes", que se realiza al amparo del contrato de obra pública número LO-2014-N59, celebrado el 31 de octubre de 2014, entre el Instituto del Agua del Estado como contratante y la empresa Operadora de Ecosistemas, S.A. de C.V., como contratista, así como con el ejercicio de las funciones que son inherentes a dicho contrato en cumplimiento de las disposiciones jurídicas aplicables en materia de obras públicas y servicios relacionados con las mismas y demás que sean aplicables por supletoriedad o conexas a las mismas.
+
+De igual forma, el Instituto del Agua del Estado continuará hasta su conclusión con los temas y procesos que tiene pendientes a la entrada en vigor del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+A partir del primero de enero del año dos mil veinte, corresponderá al Órgano Interno de Control del Instituto del Agua del Estado, el conocimiento, investigación, sustanciación y resolución, de los procedimientos de responsabilidades administrativas no concluidos, iniciados por denuncias interpuestas ante la Contraloría del Estado, previo a la entrada en vigor del presente Decreto y con motivo de las responsabilidades administrativas cometidas por personal de dicho Instituto.
+
+Al efecto, la Contraloría del Estado remitirá al Instituto del Agua del Estado mediante acuerdo administrativo, la totalidad de los expedientes que se encuentren en investigación o sustanciación correspondientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir del primero de enero del año dos mil veinte, la prestación de los servicios así como el otorgamiento del uso o goce de los bienes contenidos en la Ley de Ingresos del Estado de Aguascalientes, previstos para la Secretaría de Sustentabilidad, Medio Ambiente y Agua, en materia de Uso y Conservación del Agua, serán brindados por el Instituto del Agua del Estado, conservando la naturaleza de Derechos.
+
+La prestación de los servicios y el otorgamiento del uso y goce de los bienes que sean brindados por parte del Instituto del Agua del Estado, por los cuales se tenga el derecho de percibir ingresos a favor del Estado, se considerará parte legítima del patrimonio de dicho Instituto.
+
+Para efectos del párrafo anterior, los particulares deberán solicitar la prestación de servicios y el otorgamiento del uso y goce de los bienes ante el Instituto del Agua del Estado, previo pago de los derechos a que haya lugar, a fin de que, en su caso, les sea proporcionado el servicio o se les conceda el uso y goce de los bienes.
+
+No obstante lo anterior, durante el periodo de transición, la Secretaría de Sustentabilidad, Medio Ambiente y Agua podrá recaudar los ingresos correspondientes, mismos que deberán ser transferidos al Instituto del Agua del Estado a través de acuerdos administrativos que se celebren para prever la forma, términos y condiciones para la transferencia de los recursos presupuestales a favor del Instituto del Agua del Estado, a fin de asegurar el adecuado funcionamiento de éste.
+
+Asimismo, los adeudos generados con motivo del cobro de derechos previstos en la Ley de Ingresos del Estado de Aguascalientes para el ejercicio fiscal 2019 a favor de la Secretaría de Sustentabilidad, Medio Ambiente y Agua, serán recaudados por ésta y a su vez transferidos al Instituto del Agua del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado por conducto de la Secretaría de Finanzas llevará a cabo las acciones que se requieran para dotar de suficiencia presupuestal al Instituto del Agua del Estado.
+
+Para estos efectos, la Secretaría de Finanzas quedará facultada para llevar a cabo las reasignaciones presupuestarias que resulten necesarias a fin de dotar a dicho Instituto de los recursos suficientes para su adecuado funcionamiento.
+
+###### ARTÍCULO NOVENO.
+
+Se autoriza al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas para que las obras de infraestructura hidráulica en las que se utilicen recursos del Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal del año 2020, sean objeto de reasignación, a la Dependencia o Entidad que en función de sus atribuciones ejecute o deba dar continuidad a la ejecución de las obras y demás gastos.
+
+###### ARTÍCULO DÉCIMO.
+
+Se autoriza al Ejecutivo del Estado para que, en el ejercicio fiscal del año 2020, continúen con el ejercicio y aplicación de los recursos correspondientes a la conclusión de las inversiones públicas y demás gastos comprometidos en 2019 por la Secretaría de Sustentabilidad, Medio Ambiente y Agua, conforme al Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal del año 2019, por conducto de la Dependencia o Entidad que en función de sus atribuciones ejecute o deba dar continuidad a la ejecución de las obras y demás gastos.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Consejo Directivo del Instituto deberá sesionar dentro de los treinta días siguientes a la entrada en vigor del presente decreto para realizar su instalación.
+
+En dicha sesión el Consejo Directivo del Instituto deberá aprobar la estructura orgánica, el presupuesto para el ejercicio fiscal del año 2020 y el Reglamento Interior del Instituto del Agua del Estado.
+
+###### ARTÍCULO DECIMO SEGUNDO.
+
+En congruencia con lo dispuesto en el presente Decreto, quedan derogadas y por tanto se dejan sin efecto las disposiciones que se contravengan al mismo.
