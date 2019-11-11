@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2018-12-31"
+last_updated: "2019-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -713,9 +713,11 @@ VI.- Los demás que señale el Reglamento.
 
 Los vehículos a que se refiere el presente artículo serán liberados inmediatamente ante la presentación de los comprobantes de pago y elementos de identificación vehicular que correspondan, y previo el pago del importe que por almacenamiento tenga autorizado a cobrar el depósito vehicular.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 35.
 
-La remisión del vehículo será a los depósitos que para tales efectos se encuentren habilitados en el territorio del Estado, de conformidad con lo establecido en esta Ley, el Reglamento y demás disposiciones legales aplicables.
+La remisión del vehículo será a los depósitos que para tales efectos se encuentren habilitados en el territorio del Estado, de conformidad con lo establecido en esta Ley, el Reglamento y demás disposiciones legales aplicables. Los municipios, cuya capacidad presupuestal y financiera se los permita, podrán contar con depósitos propios para el resguardo vehicular, así como con la cantidad de grúas necesarias para el abastecimiento del servicio dentro de sus límites.
 
 Los importes a cobrar en los depósitos vehiculares por el almacenamiento de los vehículos serán los que establezcan las autoridades competentes en materia de construcción y operación de los mismos, y que deberán comprenderse en las disposiciones normativas correspondientes.
 
@@ -846,3 +848,9 @@ P.O. 31 DE DICIEMBRE DE 2018.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 1° de enero de 2019.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 220 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 35 DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
