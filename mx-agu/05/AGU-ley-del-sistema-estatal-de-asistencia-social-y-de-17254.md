@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2018-09-03"
+last_updated: "2019-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACION FAMILIAR, DEL ESTADO DE AGUASCALIENTES
 
-LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR
+LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
-Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes, sabed:
 
@@ -67,7 +67,9 @@ Para los efectos de esta Ley se entiende por asistencia social, al conjunto de a
 
 En los términos de esta Ley son beneficiarios de los servicios de asistencia social preferentemente los siguientes:
 
-I.- La Familia, considerándola como parte fundamental de la sociedad;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+I.- La Familia, considerándola como la base fundamental de la sociedad;
 
 II.- Menores en estado de abandono, desamparo, desnutrición o personas maltratadas;
 
@@ -149,9 +151,13 @@ La operación de Servicios Básicos de Salud de Atención Local en materia de As
 
 En los términos del Artículo 7o. de esta Ley, los servicios de salud en materia de asistencia social que se prestan como servicios públicos a la población en general, a nivel Estatal o Municipal, por las instituciones de seguridad social y los de carácter social y privado, se seguirán rigiendo por los ordenamientos legales específicos que le sean aplicables y de manera supletoria por lo establecido en la presente Ley.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 10.
 
-La coordinación del Sistema Estatal de Asistencia Social estará a cargo del organismo a que se refiere el Artículo 16 de esta Ley.
+El Sistema Estatal de Asistencia Social tiene como objeto promover y apoyar, con la participación de los sectores público, privado y las comunidades, las acciones en favor de la persona y la familia como núcleo de la sociedad. Para su funcionamiento y coordinación, contará con un órgano colegiado el cual podrá emitir opiniones, recomendaciones y líneas de acción para la prestación de servicios de asistencia social.
+
+La coordinación del Sistema Estatal de Asistencia Social estará a cargo del Organismo a que se refiere el Artículo 16 de esta Ley.
 
 ###### ARTICULO 11.
 
@@ -279,21 +285,35 @@ Las instituciones particulares podrán prestar los servicios de asistencia socia
 
 ### CAPITULO II. Del Sistema para el Desarrollo Integral de la Familia del Estado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 16.
 
-El Gobierno del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, el cual será el organismo rector de la asistencia social con domicilio en la ciudad de Aguascalientes, Aguascalientes.
+El Gobierno del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, el cual será el organismo rector de la asistencia social y el responsable de fomentar, promover e impulsar valores sociales y políticas públicas destinadas a fortalecer el desarrollo armónico de la familia como núcleo de la sociedad.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes podrá establecer delegaciones en las regiones y los municipios que lo requieran.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes, tendrá su domicilio en la ciudad de Aguascalientes, Aguascalientes, y podrá establecer delegaciones en las regiones y los municipios que lo requieran.
 
 El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes tendrá como objetivos los siguientes:
 
 I.- Coordinar el Sistema Estatal de Asistencia Social;
 
-II.- La promoción y prestación de la asistencia social;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-III.- La promoción de la interrelación sistemática de acciones que en la materia lleven a cabo instituciones públicas y privadas; y
+II.- Fomentar y coordinar la protección y desarrollo armónico de la familia;
 
-IV.- La realización de las demás acciones que establece esta Ley y las demás disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+III.- La promoción y prestación de la asistencia social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+IV.- La promoción de la interrelación sistemática de acciones que en la materia lleven a cabo instituciones públicas y privadas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+V.- La realización de las demás acciones que establece esta Ley y las demás disposiciones legales aplicables.
 
 ###### ARTICULO 17.
 
@@ -315,7 +335,9 @@ V.- Procuraduría: Procuraduría de Protección de Derechos de Niñas, Niños y 
 
 El Organismo, para el logro de sus objetivos, realizará las siguientes funciones:
 
-I.- Promover y prestar servicios de asistencia social;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+I.- Promover y prestar servicios de asistencia social en términos de la Ley de Salud del Estado de Aguascalientes y demás disposiciones normativas aplicables;
 
 > <small>(REFORMADA, P.O. 16 DE ABRIL DE 2018)</small>
 
@@ -1646,3 +1668,19 @@ Los planteles de educación especial, inicial, básica y media superior de insti
 ###### ARTÍCULO CUARTO.
 
 El Sistema para el Desarrollo Integral de la Familia del Estado tendrá 90 días naturales para elaborar los lineamientos para la realización de los Cursos Intensivos para Padres de Familia.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 203.- ARTÍCULO PRIMERO.- SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 4º Y LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 46 Y SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 46 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.- ARTÍCULO SEGUNDO.- SE ADICIONAN (SIC) UN PÁRRAFO SEGUNDO AL ARTÍCULO 3º DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES.- ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 4° FRACCIÓN I, EL ARTÍCULO 10, EL ARTÍCULO 16 PÁRRAFOS PRIMERO, SEGUNDO Y LAS FRACCIONES II, III Y IV DEL PÁRRAFO TERCERO Y EL ARTÍCULO 18 FRACCIÓN I; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 16 DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR.- (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, en un plazo no mayor a un año calendario contado a partir de la entrada en vigor del presente Decreto, deberá expedir todos aquellos actos administrativos, jurídicos y financieros necesarios para garantizar la protección, organización y desarrollo de los derechos de la familia como núcleo de la sociedad.
+
+###### ARTÍCULO TERCERO.
+
+Para dar cumplimiento al Artículo Segundo Transitorio del presente Decreto, el Ejecutivo Estatal, en un plazo de 30 días a partir de su entrada en vigor, deberá llevar a cabo la conformación de un Órgano Colegiado Estratégico, cuyos miembros tendrán un encargo honorifico, no debiendo generar gasto operativo alguno, y que tenga por objeto realizar el estudio, análisis, definición y demás acciones necesarias para su implementación, mismo que deberá desaparecer una vez cumplidos sus fines, sin mayor necesidad de declaración administrativa o legislativa.
