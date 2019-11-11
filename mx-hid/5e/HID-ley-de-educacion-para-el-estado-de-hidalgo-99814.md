@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-99814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-10"
-last_updated: "2019-06-10"
+last_updated: "2019-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2014.
 
@@ -123,7 +123,9 @@ VII. Orientar la educación hacia el desarrollo de competencias y habilidades pa
 
 VIII. Promover acciones en todos los tipos y modalidades educativas para estimular en las y los estudiantes el aprendizaje significativo. Que aprendan a aprender, aprendan a hacer, a vivir juntos iguales y diferentes, y aprendan a ser;
 
-IX. Promover en todos los tipos, niveles y modalidades de la educación, actitudes tendentes a lograr la erradicación de la violencia contra las mujeres, la igualdad sustantiva entre mujeres y hombres, la educación para la paz, la tolerancia y el respeto a la diversidad humana;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+IX. Promover en todos los tipos, niveles y modalidades de la educación, actitudes tendientes a lograr la erradicación de la violencia contra las mujeres, la igualdad sustantiva entre mujeres y hombres, la educación para la paz, la tolerancia, el respeto a la diversidad humana y el desarrollo de la inteligencia emocional;
 
 X. Fomentar actitudes que estimulen la investigación y la innovación científicas y tecnológicas;
 
@@ -1444,3 +1446,9 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Educación Pública del Estado, deberá adecuar en el ámbito de sus respectivas competencias, las disposiciones legales aplicables en la materia.
 
 TERCERO. En tanto se realizan las adecuaciones a que se refiere el artículo anterior, se continuarán aplicando las disposiciones vigentes.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 217 QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 7 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
