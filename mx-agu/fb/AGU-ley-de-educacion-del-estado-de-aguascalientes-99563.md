@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-99563"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-11"
-last_updated: "2019-09-23"
+last_updated: "2019-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 11 de marzo de 2014.
 
@@ -511,9 +511,17 @@ II. Una explicación de la propuesta pedagógica que le da sustento a planes y p
 
 III. Una fundamentación de la propuesta metodológica que permita desarrollar los planes y programas de estudio, así como el esquema de evaluación para dar seguimiento y comprender el éxito o fracaso del proyecto curricular en cuestión.
 
-c) El Instituto de Educación de Aguascalientes realizará revisiones y evaluaciones sistemáticas y continuas al aplicar los planes y programas de estudio, para sugerir la permanente actualización de éstos. Dicha revisión y evaluación será obligatoria y deberá efectuarse por lo menos una vez cada cinco años; y
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-d) Fomentará el aprendizaje de diferentes idiomas.
+c) El Instituto de Educación de Aguascalientes realizará revisiones y evaluaciones sistemáticas y continuas al aplicar los planes y programas de estudio, para sugerir la permanente actualización de éstos. Dicha revisión y evaluación será obligatoria y deberá efectuarse por lo menos una vez cada cinco años;
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+d) Fomentará el aprendizaje de diferentes idiomas; y
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+e) Fomentará el conocimiento del contenido de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado de Aguascalientes entre los educandos.
 
 ###### Artículo 19.
 
@@ -2918,3 +2926,11 @@ En tanto se emita la normatividad a que se refiere el párrafo que antecede, seg
 En un plazo no mayor a 60 días naturales el Titular del Poder Ejecutivo deberá expedir la Normatividad en la que se determine la integración, facultades, obligaciones y funcionamiento de la Comisión Estatal para la Planeación de la Educación Superior.
 
 En tanto se emita la normatividad a que se refiere el párrafo que antecede, seguirá vigente el Acuerdo que Crea la Comisión Estatal de Educación Superior del Estado de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes Número 15, Tomo LXI, de fecha 12 de abril de 1998; así como, el Reglamento Interior de la Comisión Estatal de Educación Superior publicado en el Periódico Oficial del Estado Número 44, Tomo LXXIII, de fecha 1° de noviembre de 2010.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 233.- ARTÍCULO ÚNICO.- SE REFORMAN LOS INCISOS C) Y D) Y SE ADICIONA UN INCISO E) AL ARTÍCULO 18 DE LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
