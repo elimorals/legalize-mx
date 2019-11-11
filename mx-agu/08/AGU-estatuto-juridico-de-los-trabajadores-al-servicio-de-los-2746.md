@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "2019-10-08"
+last_updated: "2019-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Estatuto publicado en el Suplemento de la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -853,9 +853,9 @@ A.- Por nacimiento de un hijo o hija;
 
 B.- Por adopción de un menor, a partir del día en que sea legalmente entregado el niño, la niña, o los niños, al trabajador por la autoridad competente;
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de sus menores hijos, de su cónyuge, concubina o concubinario; y
+C.- Por enfermedad o accidente que ponga en grave peligro la vida de alguno de sus hijos, de su cónyuge, concubina o concubinario y de sus ascendientes, padre o madre; y
 
 > <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2019)</small>
 
@@ -2154,3 +2154,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 8 DE OCTUBRE DE 2019.
 
 > <small>[N. DE E. EL “DECRETO NÚMERO 212.- SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 1° DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS, Y SE REFORMA LA DENOMINACIÓN DE LA LEY, PARA QUEDAR COMO SIGUE: ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE AGUASCALIENTES.]</small>
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232.- ARTÍCULO ÚNICO.- SE REFORMA EL INCISO C DE LA FRACCIÓN XI DEL ARTÍCULO 57, DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades de los tres poderes del Estado, los Organismos Constitucionalmente Autónomos y los Ayuntamientos tendrán un plazo de sesenta días naturales para reformar sus reglamentos internos en lo que contradiga a la presente reforma.
