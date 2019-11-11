@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2019-09-30"
+last_updated: "2019-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1528,6 +1528,10 @@ II. Colocarse dolosamente en estado de insolvencia con el objeto de eludir el cu
 III. La alteración o variación de nombre, domicilio o ingresos con el fin de eludir una responsabilidad de orden familiar o el incumplimiento de obligaciones alimentarias que el Código Civil del Estado de Aguascalientes determina, independientemente de que los alimentos sean proporcionados por quien tenga bajo su cuidado a los acreedores alimentarios o sean proporcionados por cualquier otra persona;
 
 Al responsable de Incumplimiento de las Obligaciones de Asistencia Familiar se le aplicarán de 6 meses a 3 años de prisión, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión o privación de los derechos de familia, en relación con la víctima.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+Cuando el acreedor alimentario sea una persona con discapacidad, la pena de prisión se aumentará hasta una tercera parte más respecto de los mínimos y máximos señalados en el párrafo anterior.
 
 ###### ARTÍCULO 132.
 
@@ -3402,3 +3406,11 @@ P.O. 30 DE SEPTIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 238.- ARTÍCULO ÚNICO.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 131 DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
