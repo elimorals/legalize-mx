@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2019-10-08"
+last_updated: "2019-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -56,6 +56,10 @@ El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien ten
 ###### Artículo 3°.
 
 Para el ejercicio de sus atribuciones y el despacho de orden administrativo que le corresponde, el Gobernador del Estado se auxiliará de la Administración Pública Estatal, que será Centralizada y Paraestatal, cuidando y promoviendo se cumplan los principios rectores.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+Todas las acciones de la Administración Pública Estatal deberán observar los principios previstos en la presente Ley, los valores sociales y las políticas públicas destinadas a fortalecer el desarrollo armónico de la familia como núcleo de la sociedad.
 
 ###### Artículo 4°.
 
@@ -629,7 +633,7 @@ XXVII.- Proporcionar los apoyos necesarios para la realización de los actos cí
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-XXVIII.- Proponer a las Entidades Paraestatales las directrices que emita la Secretaria de Administración en el ámbito de su competencia, con la finalidad de eficientar el desarrollo de sus funciones, sin perjuicio de lo establecido en su normatividad; y
+XXVIII.- Proponer a las Entidades Paraestatales las directrices que emita la Secretaría de Administración en el ámbito de su competencia, con la finalidad de eficientar el desarrollo de sus funciones, sin perjuicio de lo establecido en su normatividad; y
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -651,7 +655,7 @@ IV.- Intervenir en la elaboración y proponer para firma del Gobernador del Esta
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-V.- Suscribir, en el ámbito de su competencia, convenios de coordinación y colaboración con otras Dependencias y Entidades Federales, órganos Constitucionales Autónomos, Ayuntamientos del Estado o con otros Estados;
+V.- Suscribir, en el ámbito de su competencia, convenios de coordinación y colaboración con otras Dependencias y Entidades Federales, Órganos Constitucionales Autónomos, Ayuntamientos del Estado o con otros Estados;
 
 VI.- Ejercer las atribuciones que deriven de los convenios de coordinación fiscal o colaboración Administrativa o Administración y sus anexos, celebrados por el Gobierno del Estado con la Secretaría de Hacienda y Crédito Púbico del Gobierno Federal, o con los Ayuntamientos del Estado;
 
@@ -1081,19 +1085,15 @@ XXXIII.- Promover y preservar la diversidad genética, el manejo integral de los
 
 XXXIV.- Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio, para el cumplimiento de sus objetivos, en los términos de Ley;
 
-XXXV.- Llevar a cabo la coordinación entre los Municipios y el Estado y entre éste y la Federación, para la realización de las acciones relativas a la explotación, uso, aprovechamiento integral y sustentable, y reúso del agua;
+XXXV.- (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2019)
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+XXVI (SIC).- (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2019)
 
-XXXVI.- Llevar a cabo las acciones necesarias encaminadas a los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso dentro de su competencia;
-
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
-
-XXXVII.- Impulsar la organización y funcionamiento de los organismos operadores municipales e intermunicipales del agua;
+XXXVII.- (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2019)
 
 XXXVIII.- Promover la participación de los sectores gubernamental, social y privado en las diversas acciones previstas en las disposiciones legales aplicables;
 
-XXXIX.- Establecer las relaciones entre las autoridades, los prestadores de los servicios públicos de agua potable, alcantarillado, saneamiento y su reúso, los contratistas y los usuarios de dichos servicios;
+XXXIX.- (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2019)
 
 XL.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
@@ -1101,9 +1101,7 @@ XL.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
 XLI.- Promover ante las autoridades competentes la construcción de centros de educación ambiental y áreas recreativas en el Estado, en las que se incluyan espacios adecuados para niñas y niños con discapacidad; vigilando que las mismas permanezcan en condiciones óptimas para su utilización;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
-
-XLII.- Operar, administrar, conservar y mantener las plantas de tratamiento, pozos de agua propiedad del Estado, así como los sistemas de captación, conducción, almacenamiento, distribución, reúso y potabilización del agua, alcantarillado, saneamiento y explotación; y llevar a cabo la perforación de los pozos para fuentes de agua subterránea que cumpla con la normatividad aplicable;
+XLII.- (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2019)
 
 > <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -1295,7 +1293,9 @@ XII.- Dictar las normas y establecer los criterios que deban orientar la formula
 
 XIII.- Construir y conservar en buen estado la red carretera, puentes, caminos, obras conexas o accesorias de ellas, que sean de competencia local;
 
-XIV.- Ejecutar obras de infraestructura hidráulica y en materia de movilidad;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+XIV.- Celebrar convenios con los entes gubernamentales para la ejecución de obra pública cuando estos estén impedidos para ejecutarla;
 
 XV.- Solicitar a las autoridades competentes la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio, para el cumplimiento de sus objetivos, en los términos de Ley;
 
@@ -1303,9 +1303,9 @@ XVI.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
 XVII.- Efectuar periódicamente en coordinación con los ayuntamientos, los estudios sobre del comportamiento dinámico de las grietas y la formulación de las cartas urbanas que contengan las fallas geológicas detectadas y en caso de presentarse comportamientos dinámicos extraordinarios, deberá informar de manera inmediata a las dependencias y entidades competentes;
 
-XVIII.- Realizar la construcción de sistemas de riego tecnológicamente avanzados;
+XVIII.- (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2019)
 
-XIX.- Llevar a cabo la construcción de la infraestructura destinada a la recarga, de acuerdo a la normatividad aplicable;
+XIX.- (DEROGADA, P.O. 11 DE NOVIEMBRE DE 2019)
 
 XX.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2018)
 
@@ -1717,7 +1717,7 @@ VI.- Coordinar, controlar y evaluar a los Órganos de Vigilancia de la Administr
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
-VII.- Acordar con el Titular del Poder Ejecutivo, la designación y remoción de los titulares de los órganos de Control y Evaluación en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
+VII.- Acordar con el Titular del Poder Ejecutivo, la designación y remoción de los titulares de los Órganos de Control y Evaluación en términos de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes;
 
 VIII.- Prestar apoyo a las dependencias y entidades de la Administración Pública Estatal mediante:
 
@@ -2022,3 +2022,93 @@ P.O. 8 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 203.- ARTÍCULO PRIMERO.- SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 4º Y LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 46 Y SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 46 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.- ARTÍCULO SEGUNDO.- SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 3º DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES.- ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 4° FRACCIÓN I, EL ARTÍCULO 10, EL ARTÍCULO 16 PÁRRAFOS PRIMERO, SEGUNDO Y LAS FRACCIONES II, III Y IV DEL PÁRRAFO TERCERO Y EL ARTÍCULO 18 FRACCIÓN I; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 16 DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR.- (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, en un plazo no mayor a un año calendario contado a partir de la entrada en vigor del presente Decreto, deberá expedir todos aquellos actos administrativos, jurídicos y financieros necesarios para garantizar la protección, organización y desarrollo de los derechos de la familia como núcleo de la sociedad.
+
+###### ARTÍCULO TERCERO.
+
+Para dar cumplimiento al Artículo Segundo Transitorio del presente Decreto, el Ejecutivo Estatal, en un plazo de 30 días a partir de su entrada en vigor, deberá llevar a cabo la conformación de un Órgano Colegiado Estratégico, cuyos miembros tendrán un encargo honorifico, no debiendo generar gasto operativo alguno, y que tenga por objeto realizar el estudio, análisis, definición y demás acciones necesarias para su implementación, mismo que deberá desaparecer una vez cumplidos sus fines, sin mayor necesidad de declaración administrativa o legislativa.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235.- ARTÍCULO PRIMERO.- SE REFORMAN LOS ARTÍCULOS; 41 FRACCIÓN XIV; Y, SE DEROGAN LAS FRACCIONES XXXV, XXXVI, XXXVII, XXXIX Y XLII DEL ARTÍCULO 38; Y, LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 41, TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES.- ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS DEL 4° AL 12; Y, SE ADICIONAN LOS ARTÍCULOS 3° B, Y 3° C AL TÍTULO PRIMERO "DISPOSICIONES GENERALES", Y LOS ARTÍCULOS 9° A, 11 A, 12 A Y 12 B AL CAPÍTULO ÚNICO DEL TÍTULO SEGUNDO "DEL INSTITUTO DEL AGUA DEL ESTADO", DE LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, se deja sin efectos el Artículo Cuarto Transitorio del Decreto Número 164 de la LXIII Legislatura del Congreso del Estado, publicado en el Periódico Oficial del Estado de Aguascalientes el 27 de octubre de 2017; reformado mediante el Decreto 91 de esa H. LXIV Legislatura del Congreso del Estado, publicado en el Periódico Oficial del Estado el 28 de diciembre de 2018, de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto del Agua del Estado, celebrará los acuerdos administrativos necesarios con las dependencias de la Administración Pública Estatal que corresponda, para la transferencia y el reclutamiento de la plantilla de personal para ocupar su estructura orgánica y para la provisión de los recursos materiales y financieros necesarios para realizar sus funciones, en términos de lo dispuesto por el presente decreto, así como para que reciba por transferencia en propiedad, comodato o de cualquier otra forma y según proceda legalmente, las plantas de tratamiento de aguas residuales, los pozos para explotación de aguas del subsuelo, de inyección y observación, colectores, instalaciones, inmuebles, muebles, vehículos, maquinaria, equipo y documentación e información necesaria para asumir las funciones que le encomienda el presente decreto y toda la que sea accesoria a dichos recursos materiales.
+
+Los recursos humanos y materiales transferidos por el Instituto del Agua del Estado, a la Secretaría de Sustentabilidad, Medio Ambiente y Agua y a la Secretaría de Obras Públicas del Estado, previo a la entrada en vigor del presente decreto, podrán ser destinados nuevamente para el cumplimiento de los fines y objetivos del Instituto del Agua del Estado; al efecto la Secretaría de Sustentabilidad, Medio Ambiente y Agua y la Secretaría de Obras Públicas del Estado, transferirán al Instituto del Agua del Estado mediante acuerdos administrativos, los recursos humanos y materiales que así consideren, a más tardar el 1° de enero de 2020 y el Instituto del Agua del Estado retomará el interés jurídico sobre los procesos y procedimientos jurídicos que había transferido a aquellas mediante los acuerdos administrativos 003 del 1° de febrero de 2018 y 013 del 31 de diciembre de 2018.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Obras Públicas en coordinación con la Secretaría de Sustentabilidad, Medio Ambiente y Agua del Estado, continuarán con la ejecución hasta su conclusión, de las obras públicas hidráulicas iniciadas previamente al primero de enero de dos mil veinte.
+
+La Secretaría de Sustentabilidad, Medio Ambiente y Agua del Estado, continuará prestando los servicios de tratamiento y reúso de aguas residuales que corresponde al Estado y el suministro de agua tratada y potable y demás que están a su cargo, en tanto son transferidas al Instituto el personal, recursos materiales, recursos financieros y los demás elementos materiales y documentales necesarios para que sean asumidos por el Instituto del Agua del Estado.
+
+###### ARTÍCULO QUINTO.
+
+El Director General del Instituto, gestionará oportunamente el proyecto presupuestal de la plantilla laboral del Instituto, así como el alta del personal ante el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes; la reanudación de las obligaciones en materia de transparencia y acceso a la información pública; el cambio de titularidad a su favor, de los permisos de descarga de aguas residuales de las plantas de tratamiento y concesiones para explotación de aguas del subsuelo de los pozos cuya operación asume en virtud del presente decreto, la recuperación del derecho de cobro o compensación de créditos fiscales subsistentes a su favor, así como todas las demás que sean procedentes para conseguir que el primero de enero del año dos mil veinte el Instituto del Agua del Estado reanude sus actividades ordinarias como organismo público descentralizado en los términos del presente Decreto y de la Ley en la materia.
+
+El Directo (sic) General continuará atendiendo los asuntos pendientes derivados del Artículo Primero del presente Decreto, hasta su conclusión y con base en la normatividad correspondiente.
+
+El Instituto del Agua del Estado continuará hasta su conclusión, con la ejecución de la obra pública en proceso de "Reingeniería y rehabilitación de la Planta de Tratamiento de Aguas Residuales de La Ciudad de 2,000 L/S, Tercera Etapa, Aguascalientes", que se realiza al amparo del contrato de obra pública número LO-2014-N59, celebrado el 31 de octubre de 2014, entre el Instituto del Agua del Estado como contratante y la empresa Operadora de Ecosistemas, S.A. de C.V., como contratista, así como con el ejercicio de las funciones que son inherentes a dicho contrato en cumplimiento de las disposiciones jurídicas aplicables en materia de obras públicas y servicios relacionados con las mismas y demás que sean aplicables por supletoriedad o conexas a las mismas.
+
+De igual forma, el Instituto del Agua del Estado continuará hasta su conclusión con los temas y procesos que tiene pendientes a la entrada en vigor del presente decreto.
+
+###### ARTÍCULO SEXTO.
+
+A partir del primero de enero del año dos mil veinte, corresponderá al Órgano Interno de Control del Instituto del Agua del Estado, el conocimiento, investigación, sustanciación y resolución, de los procedimientos de responsabilidades administrativas no concluidos, iniciados por denuncias interpuestas ante la Contraloría del Estado, previo a la entrada en vigor del presente Decreto y con motivo de las responsabilidades administrativas cometidas por personal de dicho Instituto.
+
+Al efecto, la Contraloría del Estado remitirá al Instituto del Agua del Estado mediante acuerdo administrativo, la totalidad de los expedientes que se encuentren en investigación o sustanciación correspondientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+A partir del primero de enero del año dos mil veinte, la prestación de los servicios así como el otorgamiento del uso o goce de los bienes contenidos en la Ley de Ingresos del Estado de Aguascalientes, previstos para la Secretaría de Sustentabilidad, Medio Ambiente y Agua, en materia de Uso y Conservación del Agua, serán brindados por el Instituto del Agua del Estado, conservando la naturaleza de Derechos.
+
+La prestación de los servicios y el otorgamiento del uso y goce de los bienes que sean brindados por parte del Instituto del Agua del Estado, por los cuales se tenga el derecho de percibir ingresos a favor del Estado, se considerará parte legítima del patrimonio de dicho Instituto.
+
+Para efectos del párrafo anterior, los particulares deberán solicitar la prestación de servicios y el otorgamiento del uso y goce de los bienes ante el Instituto del Agua del Estado, previo pago de los derechos a que haya lugar, a fin de que, en su caso, les sea proporcionado el servicio o se les conceda el uso y goce de los bienes.
+
+No obstante lo anterior, durante el periodo de transición, la Secretaría de Sustentabilidad, Medio Ambiente y Agua podrá recaudar los ingresos correspondientes, mismos que deberán ser transferidos al Instituto del Agua del Estado a través de acuerdos administrativos que se celebren para prever la forma, términos y condiciones para la transferencia de los recursos presupuestales a favor del Instituto del Agua del Estado, a fin de asegurar el adecuado funcionamiento de éste.
+
+Asimismo, los adeudos generados con motivo del cobro de derechos previstos en la Ley de Ingresos del Estado de Aguascalientes para el ejercicio fiscal 2019 a favor de la Secretaría de Sustentabilidad, Medio Ambiente y Agua, serán recaudados por ésta y a su vez transferidos al Instituto del Agua del Estado.
+
+###### ARTÍCULO OCTAVO.
+
+El Ejecutivo del Estado por conducto de la Secretaría de Finanzas llevará a cabo las acciones que se requieran para dotar de suficiencia presupuestal al Instituto del Agua del Estado. Para estos efectos, la Secretaría de Finanzas quedará facultada para llevar a cabo las reasignaciones presupuestarias que resulten necesarias a fin de dotar a dicho Instituto de los recursos suficientes para su adecuado funcionamiento.
+
+###### ARTÍCULO NOVENO.
+
+Se autoriza al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas para que las obras de infraestructura hidráulica en las que se utilicen recursos del Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal del año 2020, sean objeto de reasignación, a la Dependencia o Entidad que en función de sus atribuciones ejecute o deba dar continuidad a la ejecución de las obras y demás gastos.
+
+###### ARTÍCULO DÉCIMO.
+
+Se autoriza al Ejecutivo del Estado para que, en el ejercicio fiscal del año 2020, continúen (sic) con el ejercicio y aplicación de los recursos correspondientes a la conclusión de las inversiones públicas y demás gastos comprometidos en 2019 por la Secretaría de Sustentabilidad, Medio Ambiente y Agua, conforme al Presupuesto de Egresos del Estado de Aguascalientes para el ejercicio fiscal del año 2019, por conducto de la Dependencia o Entidad que en función de sus atribuciones ejecute o deba dar continuidad a la ejecución de las obras y demás gastos.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Consejo Directivo del Instituto deberá sesionar dentro de los treinta días siguientes a la entrada en vigor del presente decreto para realizar su instalación.
+
+En dicha sesión el Consejo Directivo del Instituto deberá aprobar la estructura orgánica, el presupuesto para el ejercicio fiscal del año 2020 y el Reglamento Interior del Instituto del Agua del Estado.
+
+###### ARTÍCULO DECIMO SEGUNDO.
+
+En congruencia con lo dispuesto en el presente Decreto, quedan derogadas y por tanto se dejan sin efecto las disposiciones que se contravengan al mismo.
