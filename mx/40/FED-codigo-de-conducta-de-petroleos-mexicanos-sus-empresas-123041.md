@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-petroleos-mexicanos-sus-empresas-123041"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-08-28"
-last_updated: "2017-08-28"
+last_updated: "2019-11-11"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123041&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-08-15"
 ---
 # CODIGO DE CONDUCTA DE PETROLEOS MEXICANOS, SUS EMPRESAS PRODUCTIVAS SUBSIDIARIAS Y, EN SU CASO, EMPRESAS FILIALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DE PETRÓLEOS MEXICANOS, SUS EMPRESAS PRODUCTIVAS SUBSIDIARIAS Y, EN SU CASO, EMPRESAS FILIALES, PUBLICADO EN EL D.O.F. DE 11 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DE PETRÓLEOS MEXICANOS, SUS EMPRESAS PRODUCTIVAS SUBSIDIARIAS Y, EN SU CASO, EMPRESAS FILIALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2019 (SIN EFECTOS).
 
 Código publicado en el Diario Oficial de la Federación, el lunes 28 de agosto de 2017.
 
@@ -412,3 +414,25 @@ Segunda: La publicación del presente Código deja sin efectos al Código de Con
 El presente Código de Conducta de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, se emitió por el Director General de Petróleos Mexicanos, con fundamento en el artículo 10, fracción XII, del Estatuto Orgánico de Petróleos Mexicanos y Sección VI.2 del Código de Ética de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y Empresas Filiales, el día 31 de julio de 2017.
 
 Ciudad de México, a 15 de agosto de 2017.- El Director General de Petróleos Mexicanos, José Antonio González Anaya.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE NOVIEMBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL “AVISO POR EL QUE SE HACE DEL CONOCIMIENTO LA AUTORIZACIÓN DEL CÓDIGO DE CONDUCTA DE PETRÓLEOS MEXICANOS, SUS EMPRESAS PRODUCTIVAS SUBSIDIARIAS Y, EN SU CASO, EMPRESAS FILIALES”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+EL DIRECTOR GENERAL DE PETRÓLEOS MEXICANOS, con fundamento en el artículo 10, fracción X, del Estatuto Orgánico de Petróleos Mexicanos, así como en la Sección VI.2 del Código de Ética de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y Empresas Filiales autorizó y emitió el Código de Conducta de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, en donde se establecen las principales conductas éticas aplicables y obligatorias para todo el personal que labora en Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales.
+
+En ese sentido, se expide el siguiente:
+
+AVISO POR EL QUE SE HACE DEL CONOCIMIENTO LA AUTORIZACIÓN DEL CÓDIGO DE CONDUCTA DE PETRÓLEOS MEXICANOS, SUS EMPRESAS PRODUCTIVAS SUBSIDIARIAS Y, EN SU CASO, EMPRESAS FILIALES, ASÍ COMO LAS DIRECCIONES ELECTRÓNICAS EN DONDE PODRÁ SER CONSULTADO:
+
+https://www.pemex.com/acerca/marco_normativo/Documents/codigos/cc_2019.pdf
+
+www.dof.gob.mx/2019/PEMEX/codigo_de_conducta_102019.pdf
+
+DISPOSICIONES TRANSITORIAS
+
+Primera. El presente Código entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segunda. Con la entrada en vigor del presente Código se deja sin efectos el Código de Conducta de Petróleos Mexicanos, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, vigente a partir del 29 de agosto de 2017.
