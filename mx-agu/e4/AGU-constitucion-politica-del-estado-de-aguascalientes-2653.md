@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2019-08-12"
+last_updated: "2019-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -69,15 +69,15 @@ El Poder Público solamente puede actuar en uso de facultades expresas mientras 
 
 En el cumplimiento de la ley, si la autoridad requiere afectar o intervenir un derecho, deberá observar los principios de justicia, racionalidad, necesidad, idoneidad y proporcionalidad para hacerlo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 4o.
 
-La familia constituye la base fundamental de la sociedad. Cualquier doctrina o credo que en alguna forma mine sus cimientos se considerará atentatoria de la integridad misma del Estado. La Ley garantizará su protección, organización y desarrollo.
+La familia es la base fundamental de la sociedad, y tiene derecho a la protección de la sociedad y del Estado. Cualquier doctrina o credo que en alguna forma mine sus cimientos se considerará atentatoria de la integridad misma del Estado. La Ley garantizará su protección, organización y desarrollo sin discriminación alguna.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-Por la misma razón, el hogar y, particularmente, los niños, serán objeto de especial protección por parte de las Autoridades. Toda medida o disposición protectoras de la familia y de la niñez, se considerarán de orden público.
+Por la misma razón, la familia y, particularmente, niñas, niños, adolescentes, personas con discapacidad, personas adultas mayores y cualquier otra persona en situación de vulnerabilidad, serán sujetos de especial protección por parte de las autoridades. Toda medida o disposición protectoras de la familia se considerarán de orden público. El Estado deberá reconocer, fomentar, promover e impulsar valores sociales y políticas públicas destinadas a fortalecer el desarrollo armónico de la familia como núcleo de la sociedad.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
@@ -1079,13 +1079,17 @@ El gobierno de coalición se regulará por el convenio y el programa respectivos
 
 XX.- Objetar, en su caso, el nombramiento de los Comisionados del Instituto de Transparencia del Estado de Aguascalientes, designados por el Congreso del Estado, conforme a lo dispuesto por la Ley de la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-XXI.- Promover el desarrollo rural integral sostenible del Estado, en los términos que le asignen las Leyes; y
+XXI.- Promover el desarrollo rural integral sostenible del Estado, en los términos que le asignen las Leyes;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-XXII.- Las demás que esta Constitución y la Constitución Política de los Estados Unidos Mexicanos le confieren.
+XXII.- Fomentar, promover e impulsar valores sociales y políticas públicas destinadas a fortalecer el desarrollo armónico de la familia como núcleo de la sociedad; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+XXIII.- Las demás que esta Constitución, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, y otras disposiciones jurídicas le confieren.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -3272,3 +3276,19 @@ P.O. 12 DE AGOSTO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 203.- ARTÍCULO PRIMERO.- SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 4° Y LAS FRACCIONES XXI Y XXII DEL ARTÍCULO 46 Y SE ADICIONA LA FRACCIÓN XXIII AL ARTÍCULO 46 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES.- ARTÍCULO SEGUNDO.- SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 3° DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES.- ARTÍCULO TERCERO.- SE REFORMAN LOS ARTÍCULOS 4º FRACCIÓN I, EL ARTÍCULO 10, EL ARTÍCULO 16 PÁRRAFOS PRIMERO, SEGUNDO Y LAS FRACCIONES II, III Y IV DEL PÁRRAFO TERCERO Y EL ARTÍCULO 18 FRACCIÓN I; Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 16 DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR.- (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal, en un plazo no mayor a un año calendario contado a partir de la entrada en vigor del presente Decreto, deberá expedir todos aquellos actos administrativos, jurídicos y financieros necesarios para garantizar la protección, organización y desarrollo de los derechos de la familia como núcleo de la sociedad.
+
+###### ARTÍCULO TERCERO.
+
+Para dar cumplimiento al Artículo Segundo Transitorio del presente Decreto, el Ejecutivo Estatal, en un plazo de 30 días a partir de su entrada en vigor, deberá llevar a cabo la conformación de un Órgano Colegiado Estratégico, cuyos miembros tendrán un encargo honorifico, no debiendo generar gasto operativo alguno, y que tenga por objeto realizar el estudio, análisis, definición y demás acciones necesarias para su implementación, mismo que deberá desaparecer una vez cumplidos sus fines, sin mayor necesidad de declaración administrativa o legislativa.
