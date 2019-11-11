@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2019-11-04"
+last_updated: "2019-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -967,9 +967,9 @@ La atención materno-infantil tiene carácter prioritario y comprende las siguie
 
 I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-II.- La atención prenatal durante el embarazo y en el momento del nacimiento, así como la detección de defectos al nacimiento mediante las pruebas y exámenes señalados en las Normas Oficiales Mexicanas aplicables, y la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; y
+II.- La atención prenatal durante el embarazo y en el momento del nacimiento, así como la detección de defectos al nacimiento mediante las pruebas y exámenes señalados en las Normas Oficiales Mexicanas aplicables, y la vigilancia de su nutrición, crecimiento y desarrollo, incluyendo la promoción de la lactancia materna y la vacunación oportuna; y
 
 III.- La promoción de la integración y del bienestar familiar.
 
@@ -1037,9 +1037,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año de vida del menor;
+II.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses de vida y complementario hasta avanzado el segundo año de vida del menor; así como acciones para promover la instalación de lactarios o salas de lactancia en los centros de trabajo de los sectores público y privado;
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2012)</small>
 
@@ -1059,11 +1059,33 @@ I.- Los programas para padres destinados a promover la atención materno-infanti
 
 II.- Las actividades recreativas de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-III.- La vigilancia de actividades ocupaciones (sic) que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de escretas (sic); y
+III.- La vigilancia de actividades y ocupaciones que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-V.- Las demás que coadyuven a la salud materno-infantil.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+IV.- Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+V.- La promoción de habilitación de lactarios o salas de lactancia en los centros de trabajo de los sectores tanto público como privado; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+VI.- Las demás que coadyuven a la salud materno-infantil.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTICULO 73 Bis.
+
+La Secretaría será la encargada de conducir la política estatal en materia de lactancia materna, para lo cual promoverá:
+
+I.- La práctica de la lactancia materna informando a las mujeres embarazadas de sus ventajas e importancia;
+
+II.- La difusión, sensibilización y concientización de las familias y la sociedad respecto de los beneficios de la lactancia materna exclusiva durante los primeros seis meses de vida y complementaria hasta el segundo año de vida del menor; y
+
+III.- La donación de leche materna para abastecer los bancos de leche.
 
 ###### ARTICULO 74.
 
@@ -3757,33 +3779,13 @@ P.O. 4 DE NOVIEMBRE DE 2019.
 
 El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 39/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREAN JUZGADOS DE DISTRITO ESPECIALIZADOS EN MEDIDAS CAUTELARES Y CONTROL DE TÉCNICAS DE INVESTIGACIÓN".]
+P.O. 11 DE NOVIEMBRE DE 2019.
 
-PRIMERO. El presente Acuerdo entrará en vigor el veintiuno de junio de 2016, con excepción de lo dispuesto en el Transitorio OCTAVO.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 236.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN II DEL PRIMER PÁRRAFO DEL ARTÍCULO 69, LA FRACCIÓN II DEL ARTÍCULO 72, LAS FRACCIONES IV Y V DEL ARTICULO 73 Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 73 Y EL ARTÍCULO 73 BIS A LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. Los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación conocerán de las solicitudes que se presenten a partir de la entrada en vigor de este Acuerdo. Sin embargo, tratándose de las relacionadas con el nuevo sistema procesal penal acusatorio, además, tendrán que ser derivadas de asuntos iniciados a partir de la entrada en vigor de dicho sistema, con independencia de que los hechos hayan acontecido con anterioridad.
-
-CUARTO. Los asuntos regulados en el artículo 8 de este Acuerdo que a la entrada en vigor del mismo estén en trámite, en los Centros de Justicia Penal Federal, deberán concluirse con las disposiciones con las que fueron iniciados.
-
-QUINTO. Las firmas electrónicas que hayan sido expedidas con anterioridad a la entrada en vigor del presente Acuerdo seguirán vigentes.
-
-SEXTO. Se deroga toda disposición que se oponga al presente Acuerdo.
-
-SÉPTIMO. Los libros físicos que contengan las columnas que se modifican con motivo de la entrada en vigor de este Acuerdo que tengan en existencia el Consejo de la Judicatura Federal o los órganos jurisdiccionales o, cuya impresión ya haya sido contratada, podrán utilizarse.
-
-OCTAVO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para que los Juzgados de Distrito Especializados en Medidas Cautelares y Control de Técnicas de Investigación inicien funciones con los insumos necesarios, en la fecha señalada en el Transitorio Primero de este Acuerdo.
-
-NOVENO. Se reforma el artículo 102, fracción VI; la denominación de la Sección Sexta del Capítulo Segundo del Título Tercero; el artículo 116, primer párrafo; las fracciones I a III; los incisos a) y b) de la fracción IV; y las fracciones V y VI del mismo precepto; así como la Tabla 5 del Acuerdo General del Pleno del Consejo de la Judicatura Federal que establece las disposiciones en materia de actividad administrativa de los órganos jurisdiccionales, para quedar como sigue:
-
-"Artículo 102. …
-
-I. a V. …
-
-VI. Libro seis: medidas precautorias y cautelares, así como técnicas de investigación;
-
-VII. a XVII. …
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 42/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE COMIENZO DE FUNCIONES DE LOS JUZGADOS QUINTO Y SEXTO DE DISTRITO EN LA LAGUNA, CON RESIDENCIA EN TORREÓN, COAHUILA DE ZARAGOZA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
 
