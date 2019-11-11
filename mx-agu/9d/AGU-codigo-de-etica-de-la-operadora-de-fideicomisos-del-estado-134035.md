@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-de-la-operadora-de-fideicomisos-del-estado-1340
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-18"
-last_updated: "2019-02-18"
+last_updated: "2019-11-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DE LA OPERADORA DE FIDEICOMISOS DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LA OPERADORA DE FIDEICOMISOS DEL ESTADO DE AGUASCALIENTES, S.A. DE C.V., PUBLICADO EN EL P.O. DE 11 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA OPERADORA DE FIDEICOMISOS DEL ESTADO DE AGUASCALIENTES, S.A. DE C.V.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de febrero de 2019.
 
@@ -148,3 +150,21 @@ El Comité de Ética y de Prevención de Conflictos de Interés deberá estar co
 Una vez constituido el Comité de Ética y de Prevención de Conflictos de Interés a que se refiere el Artículo Tercero Transitorio del presente Acuerdo, se deberá emitir en un plazo de noventa días naturales el Código de Conducta.
 
 Aprobado por el Consejo de Administración de la Operadora de Fideicomisos del Estado de Aguascalientes, en la Ciudad de Aguascalientes, Aguascalientes, en la Tercera Sesión Ordinaria del 9 de noviembre del año dos mil dieciocho.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DE LA OPERADORA DE FIDEICOMISO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con fundamento en el Artículo Segundo Transitorio del "Acuerdo por el que se dan a conocer los Lineamientos para la Emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas", publicado el 12 de octubre de 2018 en el Diario Oficial de la Federación, y con la entrada en vigor del presente Acuerdo, se abroga el Código de Ética de la Operadora de Fideicomisos del Estado de Aguascalientes, S.A. de C.V., publicado en la Quinta Sección del Periódico Oficial del Estado de Aguascalientes, Tomo LXXXII, Número 7, de fecha 18 de febrero de 2019.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos aquellas disposiciones que se opongan a lo previsto en el presente Acuerdo.
