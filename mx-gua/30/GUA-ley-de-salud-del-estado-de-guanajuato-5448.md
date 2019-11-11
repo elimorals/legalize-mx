@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2019-03-12"
+last_updated: "2019-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -573,6 +573,18 @@ De conformidad con las normas oficiales mexicanas que emita la Secretaría de Sa
 
 La Secretaría de Salud del Estado, en los términos de las disposiciones legales aplicables determinará el funcionamiento, de acuerdo a los aspectos físicos sanitarios de los establecimientos a que se refiere este capítulo.
 
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 34 Bis.
+
+Los restaurantes deberán tener disponible agua purificada gratuita para los clientes que la soliciten.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 34 Ter.
+
+Los establecimientos donde se expendan alimentos, deberán retirar de las mesas la sal y colocarla a petición de los consumidores.
+
 ###### ARTICULO 35.
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
@@ -647,21 +659,25 @@ Los trabajadores de los establecimientos estatales de salud podrán participar e
 
 El Gobierno Estatal y los municipios podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 47.
 
-La Secretaría de Salud del Estado, en coordinación con las instituciones de educación superior, las autoridades educativas, colegios y asociaciones de profesionales, vigilará, en el Estado de Guanajuato, el ejercicio de los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos.
-
-La Secretaría de Salud Estatal establecerá un registro de quienes ejerzan estas actividades.
-
-Se concede acción popular para denunciar ante las autoridades sanitarias, a quienes ejerzan la profesión médica o, en su caso, de especialistas, sin el título o reconocimiento respectivo, debidamente registrados ante la Secretaría de Salud Estatal.
+La Secretaría de Salud del Estado, en coordinación con las instituciones de educación superior, las autoridades educativas, colegios y asociaciones de profesionales, vigilará, en el Estado de Guanajuato, el ejercicio de los profesionales, técnicos, especialistas en procedimientos médico quirúrgicos y los auxiliares de la salud en la prestación de los servicios respectivos.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
+La Secretaría de Salud Estatal establecerá un registro de quienes ejerzan estas actividades.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+
+Se concede acción popular para denunciar ante las autoridades sanitarias, a quienes ejerzan la profesión médica o, en su caso, de especialistas, sin el título o reconocimiento respectivo, debidamente registrados ante la Secretaría de Salud Estatal.
+
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 48.
 
-La Secretaría de Salud del Estado coadyuvará con las autoridades educativas competentes para promover y fomentar la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de salud, y estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, como promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+La Secretaría de Salud del Estado coadyuvará con las autoridades educativas competentes para promover y fomentar la constitución de colegios, asociaciones y organizaciones de profesionales, especialistas en procedimientos médico quirúrgicos, así como de técnicos y auxiliares de salud, y estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, como promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
 
 ### CAPITULO V. Usuarios de los Servicios de Salud y Participación de la Comunidad
 
@@ -1025,7 +1041,9 @@ VI.- El delegado en el Estado de Guanajuato del Instituto Mexicano del Seguro So
 
 VII.- El delegado en el Estado de Guanajuato del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-VIII.- Un representante de la Procuraduría General de Justicia del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+VIII.- Un representante de la Fiscalía General del Estado de Guanajuato;
 
 IX.- El titular del Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -1083,11 +1101,13 @@ IV.- Consentimiento para disposición de órganos y tejidos de cadáveres con fi
 
 V.- Estudio e interpretación confirmatorio de muerte encefálica; y
 
-VI.- Las demás que específicamente determine el protocolo de atención que al efecto aplique la Procuraduría General de Justicia.
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
+VI.- Las demás que específicamente determine el protocolo de atención que al efecto aplique la Fiscalía General del Estado de Guanajuato.
 
-ARTICULO 76 Terdecies.- La Procuraduría General de Justicia del Estado de Guanajuato y el Centro Estatal de Trasplantes determinarán los lineamientos de actuación para atender las solicitudes de intervención para la donación y extracción de órganos y tejidos de seres humanos con fines de trasplantes, en los casos en que la causa de la pérdida de la vida del donador se presuma vinculada con la comisión de hechos posiblemente constitutivos de delito, así como en los demás supuestos contemplados por la Ley General de Salud y su reglamento en materia de trasplantes.
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 76 Terdecies.- La Fiscalía General del Estado de Guanajuato y el Centro Estatal de Trasplantes determinarán los lineamientos de actuación para atender las solicitudes de intervención para la donación y extracción de órganos y tejidos de seres humanos con fines de trasplantes, en los casos en que la causa de la pérdida de la vida del donador se presuma vinculada con la comisión de hechos posiblemente constitutivos de delito, así como en los demás supuestos contemplados por la Ley General de Salud y su reglamento en materia de trasplantes.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2017)</small>
 
@@ -1113,11 +1133,29 @@ IV.- Los demás supuestos establecidos en la Ley General de Salud.
 
 Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
 
-### CAPITULO I. Profesionales, Técnicos y Auxiliares
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+### CAPÍTULO X. De los Establecimientos donde se realicen procedimientos, cirugía plástica, estética o reconstructiva
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 76 Septdecies.- Los procedimientos médico quirúrgicos de especialidad correspondientes a las cirugías plástica, estética y reconstructiva, en términos del artículo 272 Bis 1 de la Ley General de Salud, deberán realizarse por profesionales de la salud que cuenten con cédula de especialista legalmente expedida por las autoridades educativas competentes y con certificado vigente de especialista, que acredite capacidad y experiencia en la práctica de los procedimientos y técnicas correspondientes de cada especialidad, de acuerdo con lo que establece el artículo 78 de esta ley.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 76 Octodecies.- Los procedimientos médico quirúrgicos deberán efectuarse en establecimientos o unidades médicas que cuenten con licencia sanitaria vigente y cumplan con los requisitos legales para su funcionamiento.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 76 Novodecies.- Quienes realicen estos procedimientos médico quirúrgicos sin contar con los requisitos legales serán sancionados en términos de lo que dispone el artículo 235 del Código Penal del Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+ARTICULO 76 Vicies.- La publicidad de las instalaciones, servicios y procedimientos señalados en este capítulo, deberán incluir en forma clara, legible y verídica el nombre y número de la cédula del especialista, el nombre de la institución que expidió el título, diploma y certificado de especialidad vigente, en términos de lo establecido en la Ley General de Salud y demás disposiciones aplicables.
 
 ## TITULO CUARTO. Recursos Humanos para la Salud
 
-### CAPITULO II. Servicio Social de Pasantes y Profesionales
+### CAPITULO I. Profesionales, Técnicos y Auxiliares
 
 ###### ARTICULO 77.
 
@@ -1155,7 +1193,7 @@ Quienes ejerzan las actividades profesionales, técnicas y auxiliares, así como
 
 Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPITULO III. Formación, Capacitación y Actualización de los Recursos Humanos para la Salud
+### CAPITULO II. Servicio Social de Pasantes y Profesionales
 
 ###### ARTICULO 81.
 
@@ -1181,7 +1219,7 @@ Para los efectos del párrafo anterior, el Gobierno del Estado, en coordinación
 
 Las autoridades sanitarias del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Guanajuato, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO UNICO
+### CAPITULO III. Formación, Capacitación y Actualización de los Recursos Humanos para la Salud
 
 ###### ARTICULO 86.
 
@@ -1228,8 +1266,6 @@ La operación de los programas correspondientes en los establecimientos de salud
 ## TITULO QUINTO. Investigación para la Salud
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 91.
 
@@ -1291,9 +1327,9 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ## TITULO SEXTO. Información para la Salud
 
-### CAPITULO I. Disposiciones Comunes
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 96.
 
@@ -1311,13 +1347,17 @@ II.- Factores demográficos, económicos, sociales y ambientales vinculados a la
 
 III.- Recursos humanos, materiales y financieros disponibles para la protección de la salud de la población y su utilización.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 97.
 
-Los establecimientos que presten servicios de salud y los profesionales, técnicos y auxiliares de la salud del Estado, proporcionarán a éste y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar información que les señalen otras disposiciones legales.
+Los establecimientos que presten servicios de salud y los profesionales, los especialistas en procedimientos médico quirúrgicos, los técnicos y auxiliares de la salud del Estado, proporcionarán a éste y a las autoridades federales competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar información que les señalen otras disposiciones legales.
 
 ## TITULO SEPTIMO. Promoción de la Salud
 
-### CAPITULO II. Educación para la Salud
+### CAPITULO I. Disposiciones Comunes
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 98.
 
@@ -1347,7 +1387,7 @@ V.- Salud ocupacional; y
 
 VI.- Fomento Sanitario.
 
-### CAPITULO III. Nutrición
+### CAPITULO II. Educación para la Salud
 
 ###### ARTICULO 100.
 
@@ -1367,25 +1407,29 @@ III.- Orientar y capacitar a la población en materia de nutrición, salud menta
 
 IV.- Capacitar al personal de las dependencias públicas en materia de lactancia materna y salud materno-infantil a fin de fomentar el funcionamiento óptimo de las salas de lactancia implementadas en cada dependencia.
 
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+V.- Brindar información a los profesionales, técnicos, auxiliares para la salud y, a la población en general, respecto a las enfermedades crónicas, sus factores de riesgo, medidas de prevención, entre ellas, la modificación de hábitos, que permitan una mejor calidad de vida, así como su detección, tratamiento y control; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+VI.- Aprovechar todos los instrumentos y herramientas digitales para generar una cultura de salud, basada en información certera.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 101.
 
 La Secretaría de Salud, en coordinación con las autoridades federales, estatales y municipales competentes, formulará, propondrá, desarrollará y evaluará los programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-> <small>N. DE E. EN RELACIÓN CON EL ARTÍCULO CUARTO TRANSITORIO, LA SECRETARÍA DE SALUD DEL ESTADO DE GUANAJUATO EN EL ÁMBITO DE SU COMPETENCIA, DEBERÁ PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-La Secretaría de Salud formulará un programa para la salud destinado a la población escolar de los niveles de educación básica, a efecto de combatir la obesidad y el sobrepeso, el cual incluirá entre otras acciones, la medición de la masa corporal, el fomento de una dieta correcta, regular la venta de alimentos no saludables y el fortalecimiento de una adecuada activación física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
+La Secretaría de Salud formulará un programa para la salud destinado a la población escolar en todos los niveles educativos, a efecto de combatir la obesidad y el sobrepeso, el cual incluirá entre otras acciones, la medición de la masa corporal, el fomento de una dieta correcta, regular la venta de alimentos no saludables y el fortalecimiento de una adecuada activación física. Para efecto de su ejecución, la Secretaría de Salud se coordinará con las autoridades federales, estatales y municipales que resulten competentes.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE OCTUBRE DE 2017)</small>
 
 La Secretaría de Salud en coordinación con la Secretaría de Gobierno, el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la Procuraduría de los Derechos Humanos del Estado de Guanajuato y el Instituto para las Mujeres Guanajuatenses, formulará e implementará un Programa Estatal de Lactancia Materna, el cual tendrá como objeto proteger, promover y apoyar la práctica de la lactancia materna como alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de vida, a través de políticas públicas.
 
-### CAPITULO IV. Efectos del Ambiente en la Salud
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO III. Nutrición
 
 ###### ARTICULO 102.
 
@@ -1411,7 +1455,7 @@ III.- Realizar las investigaciones necesarias para determinar qué alimentos y b
 
 IV.- Promover investigaciones químicas, biológicas, sociales y económicas, encaminadas a conocer las condiciones de nutrición que prevalecen en la población y establecer las necesidades mínimas de nutrimentos, para el mantenimiento de las buenas condiciones de salud de la población; y
 
-V.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mismos de nutrimientos para la población en general y proveer en la esfera de su competencia a dicho consumo.
+V.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos para la población en general y proveer en la esfera de su competencia a dicho consumo.
 
 > <small>N. DE E. EN RELACIÓN CON EL ARTÍCULO CUARTO TRANSITORIO, LA SECRETARÍA DE SALUD DEL ESTADO DE GUANAJUATO EN EL ÁMBITO DE SU COMPETENCIA, DEBERÁ PROVEER LO CONDUCENTE, PARA QUE A PARTIR DEL 1° PRIMERO DE ENERO DE 2011 DOS MIL ONCE, SE APLIQUEN LAS DISPOSICIONES CONTENIDAS EN EL PRESENTE DECRETO.</small>
 
@@ -1419,7 +1463,7 @@ V.- Recomendar las dietas y los procedimientos que conduzcan al consumo efectivo
 
 VI.- En coordinación con la Secretaria de Educación del Estado de Guanajuato impartirá, en los meses de enero y septiembre de cada año, pláticas o cursos de capacitación dirigidos a los padres de familia sobre la preparación adecuada de alimentos balanceados y con mayores contenidos nutrimentales, por personal capacitado de la Secretaria de Salud y con la especialidad correspondiente, con la finalidad de implementar hábitos, prácticas y una cultura de alimentación sana, en beneficio de los educandos.
 
-### CAPITULO V. Salud Ocupacional
+### CAPITULO IV. Efectos del Ambiente en la Salud
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -1473,15 +1517,9 @@ Todo ciudadano tiene la obligación de denunciar, ante las autoridades sanitaria
 
 La Secretaría de Salud del Estado, en coordinación con las autoridades federales y municipales competentes, así como con la autoridad en el Estado encargada de la administración del distrito de riego, orientarán a la población para evitar la contaminación de aguas superficiales y subterráneas, que utilizan para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios de basura.
 
-### CAPITULO VI. Fomento Sanitario
+### CAPITULO V. Salud Ocupacional
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
-
-ARTICULO 111 BIS.- La Secretaría de Salud del Estado, en coordinación con las autoridades competentes orientarán sus acciones a la divulgación particularmente en los sectores productivo, comercial y de servicios, respecto a las medidas sanitarias que se deben observar para asegurar la calidad sanitaria de sus establecimientos, productos y servicios durante su proceso.
-
-Asimismo, proporcionará a la población información y conocimientos relativos a los daños provocados por el uso y consumo de ciertos productos, los efectos nocivos del ambiente en la salud, los riesgos y daños ocupacionales.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 110.
 
@@ -1494,6 +1532,16 @@ La Secretaría de Salud Estatal, tendrá a su cargo el control sanitario de los 
 El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes, desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipos de trabajo a las características del ser humano.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+### CAPITULO VI. Fomento Sanitario
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+
+ARTICULO 111 BIS.- La Secretaría de Salud del Estado, en coordinación con las autoridades competentes orientarán sus acciones a la divulgación particularmente en los sectores productivo, comercial y de servicios, respecto a las medidas sanitarias que se deben observar para asegurar la calidad sanitaria de sus establecimientos, productos y servicios durante su proceso.
+
+Asimismo, proporcionará a la población información y conocimientos relativos a los daños provocados por el uso y consumo de ciertos productos, los efectos nocivos del ambiente en la salud, los riesgos y daños ocupacionales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE OCTUBRE DE 2017)</small>
 
 ### CAPITULO VII. Lactancia Materna
 
@@ -1521,21 +1569,19 @@ VI. Difundir, a través de los medios masivos de comunicación sobre los benefic
 
 VII. Promover en coordinación con el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, la Procuraduría de los Derechos Humanos del Estado de Guanajuato y el Instituto para las Mujeres Guanajuatenses, la lactancia materna como un derecho humano y la no discriminación por lactar en público, a través de una campaña interinstitucional y permanente.
 
+## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
+
 ### CAPITULO I. Disposiciones Comunes
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
-
-## TITULO OCTAVO. Prevención y Control de Enfermedades y Accidentes
-
-### CAPITULO II. Enfermedades Transmisibles
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 112.
 
 El Gobierno del Estado, en coordinación con las autoridades federales, municipales e instituciones competentes, promoverán, desarrollarán y difundirán investigaciones multidisciplinarias que permitan prevenir y controlar las enfermedades y accidentes ocupacionales y estudios para adecuar los instrumentos y equipos de trabajo a las características del ser humano.
 
-### CAPITULO III. Enfermedades no Transmisibles
+### CAPITULO II. Enfermedades Transmisibles
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 113.
 
@@ -1721,7 +1767,7 @@ VIII.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Sa
 
 ###### ARTICULO 118.
 
-Las autoridades no sanitarias, que operarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de la Ley General de salud y de esta Ley, las que expida el Consejo de Salubridad General y las normas oficiales mexicanas.
+Las autoridades no sanitarias, cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de la Ley General de salud y de esta Ley, las que expida el Consejo de Salubridad General y las normas oficiales mexicanas.
 
 ###### ARTICULO 119.
 
@@ -1757,7 +1803,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfestación y otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO IV. Accidentes
+### CAPITULO III. Enfermedades no Transmisibles
 
 ###### ARTICULO 127.
 
@@ -1781,9 +1827,17 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO UNICO
+> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+###### ARTICULO 129 Bis.
+
+La Secretaría de Salud formulará y aplicará programas o campañas temporales y permanentes para prevenir enfermedades crónicas, e informar sobre los factores de riesgo y de los mecanismos para generar y mantener adecuados hábitos encaminados a una mejor calidad de vida. Estas acciones estarán construidas a partir de una perspectiva integral, que contemple al paciente, sus cuidadores, familiares y a la comunidad en general.
+
+Como parte de estas acciones, la Secretaría de Salud se coordinará con las autoridades en materia laboral, con las empresas y trabajadores, con el objeto de que las personas con una enfermedad crónica cuenten con un entorno laboral consciente de sus necesidades y respetuoso de sus derechos.
+
+Para los efectos del párrafo anterior, la Secretaría de Salud podrá coordinarse con todas las autoridades competentes, organizaciones de la sociedad civil dedicadas a la prevención y tratamiento de enfermedades crónicas, a efecto de desarrollar campañas y programas conjuntos, que se adapten a las necesidades y circunstancias particulares.
+
+### CAPITULO IV. Accidentes
 
 ###### ARTICULO 130.
 
@@ -1813,9 +1867,9 @@ Para mayor eficacia de las acciones a las que se refiere este Artículo, el Gobi
 
 ## TITULO NOVENO. Asistencia Social, Prevención de Discapacidad y Rehabilitación de las Personas con Discapacidad
 
-### CAPITULO I. Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
+### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 132.
 
@@ -1971,7 +2025,7 @@ El organismo del Gobierno Estatal, previsto en el Artículo 137 de esta Ley, ten
 
 ## TITULO DECIMO. Programas contra las Adicciones
 
-### CAPITULO II. Programa contra el Tabaquismo
+### CAPITULO I. Programa contra el Alcoholismo y el Abuso de Bebidas Alcohólicas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -2083,7 +2137,9 @@ II. Celebrar convenios de colaboración con instituciones estatales, nacionales 
 
 La ubicación de los centros, se basará en estudios epidemiológicos de las enfermedades derivadas del alcoholismo en cada región del Estado.
 
-### CAPITULO III. Programa contra la Farmacodependencia
+### CAPITULO II. Programa contra el Tabaquismo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 159.
 
@@ -2119,9 +2175,7 @@ II.- La educación a la familia para prevenir y disminuir el consumo de tabaco p
 
 ARTICULO 160 BIS.- El Consumo de tabaco se sujetará a lo dispuesto en el reglamento correspondiente y demás normatividad aplicable.
 
-### CAPITULO I. Disposiciones Comunes
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO III. Programa contra la Farmacodependencia
 
 ###### ARTICULO 161.
 
@@ -2151,7 +2205,7 @@ IV.- Promoverán y llevarán a cabo campañas permanentes de información y orie
 
 ## TITULO DECIMO PRIMERO. Salubridad Local
 
-### CAPITULO II. Mercados y Centros de Abasto
+### CAPITULO I. Disposiciones Comunes
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
@@ -2187,7 +2241,9 @@ El propietario de los establecimientos a que se refiere el Artículo Tercero, Ap
 
 La Secretaría de Salud del Estado, de conformidad con lo dispuesto por esta Ley, deberá publicar en el Periódico Oficial del Gobierno del Estado, las normas técnicas sanitarias que expida, en materia de salubridad local.
 
-### CAPITULO III. De las Construcciones
+### CAPITULO II. Mercados y Centros de Abasto
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 169.
 
@@ -2215,9 +2271,7 @@ Los mercados y centros de abastos serán objeto de verificaciones sanitarias per
 
 Los vendedores locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades, se sujetará a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas sanitarias correspondientes.
 
-### CAPITULO IV. De los Panteones o Cementerios, Crematorios y Funerarias
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO III. De las Construcciones
 
 ###### ARTICULO 173.
 
@@ -2277,9 +2331,9 @@ Para la creación, ampliación o modificación de colonias o fraccionamientos, s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-### CAPITULO V. Disposición Final de Residuos Sólidos Municipales
+### CAPITULO IV. De los Panteones o Cementerios, Crematorios y Funerarias
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 183.
 
@@ -2329,7 +2383,9 @@ Mientras este plazo no termine sólo podrán efectuarse las exhumaciones autoriz
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO VI. Rastros
+### CAPITULO V. Disposición Final de Residuos Sólidos Municipales
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 190.
 
@@ -2361,7 +2417,7 @@ La basura, por ningún motivo, se manipulará, excepto lo estrictamente indispen
 
 Para toda la actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley y otras disposiciones legales aplicables.
 
-### CAPITULO VII. Agua Potable y Alcantarillado
+### CAPITULO VI. Rastros
 
 ###### ARTICULO 196.
 
@@ -2405,7 +2461,7 @@ Queda prohibida en el Estado la venta de carnes para consumo humano, sin que est
 
 El transporte de carne, para el comercio dentro del territorio del Estado, deberá realizarse en los vehículos que cumplan con el reglamento sanitario vigente, previa verificación de la autoridad competente.
 
-### CAPITULO VIII. Establos, Granjas Avícolas y Porcícolas y otros Establecimientos Pecuarios
+### CAPITULO VII. Agua Potable y Alcantarillado
 
 ###### ARTICULO 203.
 
@@ -2471,9 +2527,7 @@ Los pozos o aljibes cuyas aguas se utilicen para el consumo humano, deberán cum
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO IX. Centros de Reinserción Social
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+### CAPITULO VIII. Establos, Granjas Avícolas y Porcícolas y otros Establecimientos Pecuarios
 
 ###### ARTICULO 214.
 
@@ -2513,9 +2567,9 @@ Las condiciones necesarias que deben reunir estos establecimientos estarán fija
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
-### CAPITULO X. Baños Públicos y Balneario
+### CAPITULO IX. Centros de Reinserción Social
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
 ###### ARTICULO 218.
 
@@ -2543,7 +2597,9 @@ La Secretaría de Salud del Estado, efectuará el control sanitario en los centr
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
-### CAPITULO XI. Centros de Reunión y Espectáculos
+### CAPITULO X. Baños Públicos y Balneario
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 222.
 
@@ -2567,9 +2623,7 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Le
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XII. Establecimientos dedicados a la prestación de servicios como Peluquerías, Salones de Belleza y Otros
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+### CAPITULO XI. Centros de Reunión y Espectáculos
 
 ###### ARTICULO 226.
 
@@ -2597,7 +2651,9 @@ Queda estrictamente prohibida la entrada a menores de cinco años a salas cinema
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XIII. Establecimientos de Hospedaje
+### CAPITULO XII. Establecimientos dedicados a la prestación de servicios como Peluquerías, Salones de Belleza y Otros
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 231.
 
@@ -2627,9 +2683,7 @@ III.- Lavadero público: el establecimiento al cual acuden los interesados para 
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XIV. Transporte Estatal y Municipal
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+### CAPITULO XIII. Establecimientos de Hospedaje
 
 ###### ARTICULO 236.
 
@@ -2653,7 +2707,9 @@ La autoridad sanitaria realizará las verificaciones que conforme a esta Ley y o
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO XV. Gasolineras
+### CAPITULO XIV. Transporte Estatal y Municipal
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 241.
 
@@ -2665,15 +2721,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes a que se refiere el artículo anterior y que circulen en el interior del Estado, deberán cumplir con los requisitos sanitarios que marca esta ley, las demás disposiciones legales aplicables y las normas técnicas sanitarias correspondientes.
 
-### CAPITULO XVI. De los establecimientos en donde se ejerce el Sexo Comercial
-
-ARTICULO 244 A.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
-
-ARTICULO 244 B.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
-
-ARTICULO 244 C.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
-
-ARTICULO 244 D.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+### CAPITULO XV. Gasolineras
 
 ###### ARTICULO 243.
 
@@ -2685,11 +2733,19 @@ ARTICULO 244 D.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO I. Autorizaciones
+### CAPITULO XVI. De los establecimientos en donde se ejerce el Sexo Comercial
+
+ARTICULO 244 A.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+
+ARTICULO 244 B.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+
+ARTICULO 244 C.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
+
+ARTICULO 244 D.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ## TITULO DECIMO SEGUNDO
 
-### CAPITULO II. Revocación de Autorizaciones Sanitarias
+### CAPITULO I. Autorizaciones
 
 ###### ARTICULO 245.
 
@@ -2739,9 +2795,7 @@ ARTICULO 244 D.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO III. Certificados
-
-(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE FEBRERO DE 2003)
+### CAPITULO II. Revocación de Autorizaciones Sanitarias
 
 ###### ARTICULO 257.
 
@@ -2775,9 +2829,9 @@ ARTICULO 244 D.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-### CAPITULO UNICO. Vigilancia Sanitaria
+### CAPITULO III. Certificados
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002) (F. DE E., P.O. 18 DE FEBRERO DE 2003)
 
 ###### ARTICULO 265.
 
@@ -2793,7 +2847,13 @@ II.- De defunción;
 
 III.- De muerte fetal; y
 
-IV.- Los demás que determine la Ley General de Salud y sus Reglamentos.
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+IV.- De discapacidad; y
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
+V.- Los demás que determine la Ley General de Salud y sus reglamentos.
 
 ###### ARTICULO 267.
 
@@ -2813,9 +2873,9 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO TERCERO
 
-### CAPITULO I. Medidas de Seguridad Sanitaria
+### CAPITULO UNICO. Vigilancia Sanitaria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 270.
 
@@ -2907,9 +2967,9 @@ ARTICULO 278 BIS-2.- (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
 ## TITULO DECIMO CUARTO. Medidas de Seguridad Sanitaria y Sanciones Administrativas
 
-### CAPITULO II. Sanciones Administrativas
+### CAPITULO I. Medidas de Seguridad Sanitaria
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 1993)</small>
 
 ###### ARTICULO 279.
 
@@ -3007,7 +3067,9 @@ Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitari
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud del ser humano.
 
-### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### CAPITULO II. Sanciones Administrativas
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTÍCULO 291.
 
@@ -3053,27 +3115,27 @@ IV.- La calidad de reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 294.
 
-Se sancionarán con multa equivalente hasta mil veces la Unidad de Medida y Actualización diaria, la violación a las disposiciones contenidas en los artículos 166, 172, 174, 175, 176, 180, 193, 211, 216, 228 y 232.
+Se sancionará con multa equivalente hasta mil veces el valor diario de la Unidad de Medida y Actualización, la violación a las disposiciones contenidas en los artículos 166, 172, 174, 175, 176, 180, 193, 211, 216, 228 y 232 de esta ley.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 295.
 
-Se sancionará con multa equivalente de mil hasta cuatro mil veces la Unidad de Medida y Actualización diaria, la violación a las disposiciones contenidas en los Artículos 212 y 276.
+Se sancionará con multa equivalente de mil hasta cuatro mil veces el valor diario de la Unidad de Medida y Actualización, la violación a las disposiciones contenidas en los artículos 212 y 276 de esta ley.
 
 ###### ARTICULO 296.
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2002)
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 297.
 
-Las infracciones no previstas en este Capítulo en lo que respecta a salubridad local serán sancionadas con multa equivalente hasta por quinientas veces la Unidad de Medida y Actualización diaria, atendiendo a lo establecido en el Artículo 293 de esta Ley.
+Las infracciones no previstas en este capítulo en lo que respecta a salubridad local serán sancionadas con multa equivalente hasta por quinientas veces el valor diario de la Unidad de Medida y Actualización, atendiendo a lo establecido en el artículo 293 de esta Ley.
 
 ###### ARTICULO 298.
 
@@ -3119,7 +3181,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO IV. Recurso de Inconformidad
+### CAPITULO III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 303.
 
@@ -3203,7 +3265,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de las sanciones administrativas que procedan.
 
-### CAPITULO V. Prescripción
+### CAPITULO IV. Recurso de Inconformidad
 
 ###### ARTICULO 313.
 
@@ -3332,6 +3394,8 @@ III.- Modificar u ordenar el acto impugnado, o bien dictar u ordenar expedir uno
 ###### ARTICULO 323.
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPITULO V. Prescripción
 
 ###### ARTICULO 324.
 
@@ -3508,3 +3572,23 @@ P.O. 12 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 55 EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XX AL APARTADO A, DEL ARTÍCULO 3, RECORRIÉNDOSE LA ACTUAL FRACCIÓN XX, PARA QUEDAR COMO XXI, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
 
 Artículo único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 102, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 47, 48 Y 97, Y ADICIONA AL TÍTULO TERCERO, UN CAPÍTULO X DENOMINADO DE LOS ESTABLECIMIENTOS DONDE SE REALICEN PROCEDIMIENTOS, CIRUGÍA PLÁSTICA, ESTÉTICA O RECONSTRUCTIVA, QUE CONTIENE LOS ARTÍCULOS 76 SEPTDECIES, 76 OCTODECIES, 76 NOVODECIES Y 76 VICIES DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 103, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 34 BIS Y 34 TER A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 11 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 76 NONIES, FRACCIÓN VIII; 76 DUODECIES, FRACCIÓN VI; 76 TERDECIES; 101, SEGUNDO PÁRRAFO; 294, 295 Y 297; SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 100; EL ARTÍCULO 129 BIS AL TÍTULO OCTAVO, CAPÍTULO III; ASÍ COMO LA FRACCIÓN IV AL ARTÍCULO 266, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo segundo. El Poder Ejecutivo del Estado deberá establecer los programas y acciones a que se refiere el artículo 101 del presente Decreto, en un plazo de 180 días posteriores a su entrada en vigor.
