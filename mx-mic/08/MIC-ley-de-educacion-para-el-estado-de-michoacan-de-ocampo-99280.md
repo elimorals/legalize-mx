@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-para-el-estado-de-michoacan-de-ocampo-99280"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2016-12-29"
+last_updated: "2019-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -31,7 +31,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 28 de febrero de 2014.
 
@@ -285,7 +285,9 @@ VI. Brindará apoyos pedagógicos a grupos con requerimientos educativos especí
 
 VII. Realizará campañas educativas que tiendan a elevar los niveles culturales, sociales y de bienestar de la población, tales como programas de alfabetización y de educación comunitaria;
 
-VIII. Desarrollará programas con perspectiva de género para otorgar becas y demás apoyos económicos compensatorios o asistenciales a educandos de todos los niveles y modalidades educativas en el Estado, basándose en la equidad y racionalidad del gasto, evitando la duplicidad de los apoyos otorgados, de conformidad con la suficiencia presupuestal disponible para tales efectos;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Desarrollará programas con perspectiva de género para otorgar becas y demás apoyos económicos compensatorios o asistenciales a educandos de todos los niveles y modalidades educativas en el Estado, priorizando la paridad en las becas y apoyos otorgados, basándose en la equidad y racionalidad del gasto, evitando la duplicidad de los apoyos otorgados, de conformidad con la suficiencia presupuestal disponible para tales efectos;
 
 IX. Impulsará programas y escuelas dirigidos a las madres, padres de familia o tutores, con el fin de concientizar a estos como principales custodios de la responsabilidad de educar a los menores, para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
 
@@ -1219,7 +1221,9 @@ I. Cumplir con lo dispuesto en el artículo 3° de la Constitución federal, en 
 
 II. Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado procedentes;
 
-III. Proporcionar becas en los términos de los lineamientos generales que la autoridad correspondiente haya determinado; y,
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+III. Proporcionar becas en los términos de los lineamientos generales que la autoridad correspondiente haya determinado, priorizando en todo momento la paridad en las becas y apoyos otorgados; y
 
 IV. Facilitar y colaborar en las actividades de supervisión, evaluación y vigilancia que las autoridades competentes realicen u ordenen.
 
@@ -1830,3 +1834,9 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO168.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 21 Y LA FRACCIÓN III DEL ARTÍCULO 94, AMBOS DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 35; Y LOS ARTÍCULOS 36 Y 37 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO". ]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
