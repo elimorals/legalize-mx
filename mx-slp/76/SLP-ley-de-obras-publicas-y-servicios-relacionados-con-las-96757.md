@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2019-10-28"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -225,9 +225,11 @@ Las instituciones deberán llevar un inventario de maquinaria y equipo de constr
 
 Cuando por las condiciones especiales de la obra pública y servicios relacionados con las mismas, se requiera la intervención de dos o más instituciones, quedará a cargo de cada una de ellas la responsabilidad sobre la ejecución de la parte de la obra y de los servicios relacionados con las mismas que le corresponda, sin perjuicio de la responsabilidad que, en razón de sus respectivas atribuciones, derive de la planeación y programación del conjunto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 15.
 
-Las controversias que se susciten con motivo de la interpretación o aplicación de esta Ley, o de los contratos celebrados con base en ella, serán resueltas por el Tribunal de lo Contencioso Administrativo del Estado, excepto cuando se trate de los poderes, Legislativo; y Judicial; así como de los organismos constitucionales autónomos; lo anterior, sin perjuicio de lo establecido en los tratados en que México sea parte, así como de las inconformidades que presenten los particulares en relación con los contratos antes referidos, en los términos del Título Sexto de esta Ley.
+Las controversias que se susciten con motivo de la interpretación o aplicación de esta Ley, o de los contratos celebrados con base en ella, serán resueltas por el Tribunal Estatal de Justicia Administrativa, excepto cuando se trate de los poderes, Legislativo; y Judicial; así como de los organismos constitucionales autónomos; lo anterior, sin perjuicio de lo establecido en los tratados en que México sea parte, así como de las inconformidades que presenten los particulares en relación con los contratos antes referidos, en los términos del Título Sexto de esta Ley.
 
 Serán nulos los actos, contratos y convenios que las instituciones realicen en contravención a lo dispuesto por esta Ley, previa determinación de la autoridad competente.
 
@@ -235,9 +237,11 @@ Serán nulos los actos, contratos y convenios que las instituciones realicen en 
 
 Para coordinar las acciones que en materia de obra pública y los servicios relacionados con las mismas, que realicen el Ejecutivo del Estado y los ayuntamientos, se constituirá el comité establecido para tal efecto, en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 17.
 
-En lo no previsto por esta Ley, serán aplicables, la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí; el Código Civil, y el Código de Procedimientos Civiles para el Estado, siempre que, tratándose de éstos últimos, su aplicación no sea contraria a la naturaleza administrativa de los actos y resoluciones que en materia de obra pública y servicios relacionados con las mismas se dicten.
+En lo no previsto por esta Ley, serán aplicables, el Código Procesal Administrativo para el Estado de San Luis Potosí; el Código Civil, y el Código de Procedimientos Civiles para el Estado, siempre que, tratándose de éstos últimos, su aplicación no sea contraria a la naturaleza administrativa de los actos y resoluciones que en materia de obra pública y servicios relacionados con las mismas se dicten.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN, PROGRAMACIÓN Y PRESUPUESTACIÓN
 
@@ -515,9 +519,11 @@ c) Cuando se estipule para las contrataciones financiadas con créditos externos
 
 En el caso de las licitaciones a que se refiere esta fracción, deberá negarse la participación a extranjeros cuando su país no conceda un trato recíproco a los licitantes, contratistas, bienes o servicios mexicanos.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 47.
 
-En las licitaciones públicas podrá requerirse la incorporación de materiales, maquinaria y equipo de instalación permanente nacional, por el porcentaje del valor de los trabajos que determine la convocante. Asimismo, deberá incorporarse por lo menos treinta por ciento de mano de obra nacional, sin perjuicio de lo dispuesto en los tratados internacionales.
+En las licitaciones públicas podrá requerirse la incorporación de materiales, maquinaria y equipo de instalación permanente nacional, por el porcentaje del valor de los trabajos que determine la convocante. Asimismo, deberá incorporarse por lo menos noventa por ciento de mano de obra nacional, sin perjuicio de lo dispuesto en los tratados internacionales.
 
 ###### ARTÍCULO 48.
 
@@ -629,7 +635,7 @@ El Reglamento de esta Ley establecerá, en su caso, los demás aspectos necesari
 
 Previo a la publicación de la convocatoria a la licitación pública, cuyo presupuesto estimado de contratación sea superior a diez mil veces el valor mensual de la unidad de medida y actualización vigente, el proyecto de convocatoria deberá ser difundido a través de CompraNet, al menos durante diez días hábiles; lapso durante el cual se recibirán los comentarios pertinentes en la dirección electrónica que para tal fin se señale.
 
-En los casos de licitaciones cuyo monto sea inferior al señalado en el párrafo anterior, la publicación previa de las convocatorias será opcional para las instituciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 Los comentarios y opiniones que se reciban al proyecto de convocatoria, serán analizados por las dependencias y entidades a efecto de, en su caso, considerarlas para fortalecer el proyecto.
 
@@ -1839,11 +1845,15 @@ V. Cuando sean varios los responsables, a cada uno se le impondrá el total de l
 
 VI. Tratándose de reincidencia, se impondrá otra sanción o multa mayor dentro de los límites señalados en esta Ley.
 
-En la tramitación del procedimiento para imponer las sanciones a que se refiere este Título, los órganos de control interno deberán observar lo dispuesto por el Título Cuarto, y demás aplicables de la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, aplicando, supletoriamente, tanto el Código Civil, y el Código de Procedimientos Civiles para el Estado.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+En la tramitación del procedimiento para imponer las sanciones a que se refiere este Título, los órganos de control interno deberán observar lo dispuesto por el Título Cuarto, y demás aplicables del Código Procesal Administrativo para el Estado de San Luis Potosí, aplicando, supletoriamente, tanto el Código Civil, y el Código de Procedimientos Civiles para el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 187.
 
-Los órganos de control interno aplicarán las sanciones que procedan a los servidores públicos que infrinjan las disposiciones de esta Ley, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y los Municipios de San Luis Potosí.
+Los órganos de control interno aplicarán las sanciones que procedan a los servidores públicos que infrinjan las disposiciones de esta Ley, conforme a lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 Los órganos de control interno, en uso de las atribuciones que les confiere la ley citada en el párrafo anterior, podrá abstenerse de iniciar los procedimientos previstos en ella, o de imponer sanciones administrativas, cuando de las investigaciones o revisiones practicadas se advierta que el acto u omisión no es grave, o no implique la probable comisión de algún delito o perjuicio patrimonial a la institución, o que el acto u omisión fue corregido o subsanado de manera espontánea por el servidor público, implique error manifiesto, o en cualquiera de los supuestos en que los efectos que hubieren producido, desaparecieron o se hayan resarcido.
 
@@ -1855,7 +1865,9 @@ Los contratistas que se encuentren en el supuesto de las fracciones, IV, V y VI 
 
 Conforme a lo previsto en la presente Ley, los órganos de control interno de las instituciónes que se trate, en ejercicio de sus atribuciones, verificarán, en su caso, que los titulares de las mismas apliquen las sanciones a que se refiere este Capítulo, y de proceder la suspensión de la ejecución de la obra en que incida la infracción.
 
-Sin perjuicio de lo anterior, a los servidores públicos que infrinjan las disposiciones de esta Ley, se les aplicarán las sanciones que procedan de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Sin perjuicio de lo anterior, a los servidores públicos que infrinjan las disposiciones de esta Ley, se les aplicarán las sanciones que procedan de conformidad con lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 ###### ARTÍCULO 190.
 
@@ -1919,7 +1931,9 @@ En los casos señalados en el artículo anterior, y en que se trate de licitante
 
 La inconformidad se considera parte integral del procedimiento, y no constituye un recurso o medio de defensa autónomo, por lo que será de agotamiento obligatorio.
 
-La resolución que le ponga fin o, en su caso, a la intervención de oficio, podrá impugnarse por el inconforme o tercero interesado mediante el recurso de revisión previsto en la Ley de Procedimientos Administrativos para el Estado y Municipios de San Luis Potosí, o bien, optativamente, mediante el juicio contencioso administrativo, en los términos de la Ley de Justicia Administrativa del Estado de San Luis Potosí, cuando así proceda.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+La resolución que le ponga fin o, en su caso, a la intervención de oficio, podrá impugnarse por el inconforme o tercero interesado mediante el recurso de revisión o bien, optativamente, mediante el juicio de nulidad en los términos del Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 197.
 
@@ -2103,17 +2117,23 @@ VI. Ordenar la firma del contrato, cuando haya resultado fundada la inconformida
 
 En los casos de las fracciones I y II de este artículo, cuando se determine que la inconformidad se promovió con el propósito de retrasar o entorpecer la contratación, se sancionará al inconforme, previo procedimiento, con multa en términos del artículo 180 de la presente Ley. Para ese efecto, podrá tomarse en consideración la conducta de los licitantes en anteriores procedimientos de contratación o de inconformidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 218.
 
-La resolución que ponga fin a la inconformidad o, en su caso, a la intervención de oficio, podrá impugnarse por el inconforme o tercero interesado mediante el recurso de revisión previsto en la Ley (sic) Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, que deberá presentarse ante la autoridad que emitió el acto impugnado, y será resuelto por el superior jerárquico; salvo que el acto provenga del titular en cuyo caso será resuelto por el mismo.
+La resolución que ponga fin a la inconformidad o, en su caso, a la intervención de oficio, podrá impugnarse por el inconforme o tercero interesado mediante el recurso de revisión previsto en el Código Procesal Administrativo para el Estado de San Luis Potosí, que deberá presentarse ante la autoridad que emitió el acto impugnado, y será resuelto por el superior jerárquico; salvo que el acto provenga del titular, en cuyo caso, será resuelto por él mismo.
 
-Cuando las resoluciones definitivas sean dictadas por dependencias del Poder Ejecutivo del Estado, o los ayuntamientos, así como de su administración paraestatal y paramunicipal, podrán optar por interponer el recurso de revisión, o acudir directamente ante el Tribunal de lo Contencioso Administrativo del Estado.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Cuando las resoluciones definitivas sean dictadas por dependencias del Poder Ejecutivo del Estado, o los ayuntamientos, así como de su administración paraestatal y paramunicipal, podrán optar por interponer el recurso de revisión, o acudir directamente ante el Tribunal Estatal de Justicia Administrativa.
 
 En atención al principio de definitividad, el juicio contencioso administrativo es improcedente contra los actos dictados dentro de los procedimientos de licitación pública, o invitación a cuando menos tres personas, contra los cuales deberá interponerse previamente la inconformidad ante el órgano de control interno competente.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 219.
 
-En la instancia de inconformidad y en los incidentes, serán admisibles toda clase de pruebas, con excepción de la confesional. Para el desahogo y valoración, el Órgano de Control Interno aplicará en lo que resulte conducente, lo dispuesto por el Código de Procedimientos Civiles para el Estado de San Luis Potosí.
+En la instancia de inconformidad y en los incidentes, serán admisibles toda clase de pruebas, con excepción de la confesional. Para el desahogo y valoración, el órgano de control interno aplicará en lo que resulte conducente, lo dispuesto por el Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ###### ARTÍCULO 220.
 
@@ -2131,11 +2151,15 @@ Con el escrito que se presente en los términos del artículo anterior, se reque
 
 En el caso de acreditarse que la resolución no fue cumplimentada según las directrices fijadas, la autoridad instructora dejará insubsistente el acto respectivo, y ordenará a la convocante su reposición en un plazo de tres días hábiles, de acuerdo a lo ordenado en la resolución que puso fin a la inconformidad. Si resultare que hubo una omisión total, requerirá a la convocante el acatamiento inmediato.
 
-La resolución que ponga fin al incidente previsto en este artículo, podrá impugnarse por el inconforme o tercero interesado mediante el recurso de revisión previsto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, o bien, optativamente, mediante el juicio contencioso administrativo en los términos de la Ley de Justicia Administrativa del Estado de San Luis Potosí, cuando proceda.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+La resolución que ponga fin al incidente previsto en este artículo, podrá impugnarse por el inconforme o tercero interesado mediante el recurso de revisión o bien, optativamente, mediante el juicio de nulidad en los términos del Código Procesal Administrativo para el Estado de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 224.
 
-El cumplimiento de las resoluciones y acuerdos que dicte el órgano de control interno, son de orden público e interés social, por lo que para garantizar su efectivo cumplimiento, aplicará en lo conducente lo previsto en la Ley de Justicia Administrativa del Estado de San Luis Potosí. Con independencia de lo anterior, el desacato de las convocantes a las resoluciones y acuerdos que emita el órgano de control interno en los procedimientos de inconformidad, será sancionado de acuerdo a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+El cumplimiento de las resoluciones y acuerdos que dicte el órgano de control interno, son de orden público e interés social, por lo que para garantizar su efectivo cumplimiento, aplicará en lo conducente lo previsto en el Código Procesal Administrativo para el Estado de San Luis Potosí. Con independencia de lo anterior, el desacato de las convocantes a las resoluciones y acuerdos que emita el órgano de control interno en los procedimientos de inconformidad, será sancionado de acuerdo a lo previsto en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 ###### ARTÍCULO 225.
 
@@ -2209,7 +2233,9 @@ Con el escrito que se presente en los términos del párrafo anterior, se requer
 
 Si se acredita que la resolución no fue cumplimentada según las directrices fijadas, el órgano de control interno dejará insubsistente el acto respectivo, y ordenará a la convocante su reposición en un plazo de tres días hábiles siguientes, de acuerdo a lo ordenado en la resolución que puso fin a la inconformidad. Si resultare que hubo una omisión total, requerirá a la convocante el acatamiento inmediato.
 
-La resolución que ponga fin al incidente previsto en este artículo, podrá impugnarse por el inconforme o tercero interesado, mediante el recurso de revisión previsto en la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí, o bien, optativamente, mediante el juicio contencioso administrativo en los términos de la Ley de Justicia Administrativa del Estado de San Luis Potosí
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+La resolución que ponga fin al incidente previsto en este artículo, podrá impugnarse por el inconforme o tercero interesado mediante el recurso de revisión o bien, optativamente, mediante el juicio de nulidad en los términos del Código Procesal Administrativo para el Estado de San Luis Potosí.
 
 ## TRANSITORIOS
 
@@ -2334,3 +2360,11 @@ P.O. 28 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0307.- SE REFORMAN LOS ARTÍCULOS 15, 17, 47, 186, 187, 189, 196, 218, 219, 223, 224, Y 238; Y DEROGA DEL ARTÍCULO 50 EL PÁRRAFO SEGUNDO, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto iniciará su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
