@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6519
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-01"
-last_updated: "2019-08-22"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el jueves 1 de enero de 2009.
 
@@ -351,6 +351,8 @@ II. Fomentar la integración de políticas públicas con perspectiva de género;
 
 III. Fortalecer los liderazgos sobre la base de la igualdad de género.
 
+> <small>(REFORMADO [N. DE E. REPULICADO PRIMER PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 35.
 
 Para los efectos de lo previsto en el artículo anterior, las autoridades y organismos públicos desarrollarán las siguientes acciones:
@@ -369,15 +371,21 @@ VI. Promover programas para la difusión de información y concientización sobr
 
 VII. Vincular los proyectos y programas para el adelanto de las mujeres;
 
-VIII. Elaborar y dar seguimiento a los lineamientos que aseguren la igualdad en la contratación del personal en la Administración Pública; y,
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Elaborar y dar seguimiento a los lineamientos que prioricen la paridad de género en la contratación del personal en la Administración Pública; y,
 
 IX. Diseñar programas y proyectos de desarrollo en la búsqueda de reducción de la pobreza con perspectiva de género.
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 36.
 
-La política estatal propondrá los mecanismos de operación adecuados para la participación equitativa entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
+La política estatal propondrá los mecanismos de operación adecuados para la participación paritaria entre mujeres y hombres en la toma de decisiones políticas y socioeconómicas.
+
+> <small>(REFORMADO [N. DE E. REPULICADO PRIMER PÁRRAFO], P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 37.
 
@@ -387,13 +395,29 @@ I. Favorecer el trabajo parlamentario con la perspectiva de género;
 
 ll. Garantizar que la educación, en todos sus niveles, se realice en el marco de la igualdad entre mujeres y hombres y se cree conciencia de la conveniencia de eliminar toda forma de desigualdad;
 
-III. Fomentar la participación equilibrada entre mujeres y hombres en los cargos de elección popular;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-IV. Promover la participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos políticos;
+III. Fomentar la participación paritaria entre mujeres y hombres en los cargos de elección popular;
 
-V. Generar la participación equitativa de mujeres y hombres en cargos públicos; y,
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-VI. Fomentar la participación equilibrada y de igualdad entre mujeres y hombres en la selección, contratación y ascensos en el personal al servicio de los poderes Legislativo, Ejecutivo y Judicial.
+IV. Promover la participación y representación paritaria entre mujeres y hombres dentro de las estructuras de los partidos políticos;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+V. Priorizar la participación paritaria de mujeres y hombres en cargos públicos; y,
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VI. Priorizar la participación paritaria y de igualdad entre mujeres y hombres en la selección, contratación y ascensos en el personal al servicio de los poderes Legislativo, Ejecutivo y Judicial, así como de los órganos autónomos constitucionales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Para garantizar el cumplimiento de las fracciones V y VI anteriores, los poderes del Estado podrán establecer de forma exclusiva para algún género, convocatorias o concursos de selección, contratación y ascensos en el personal, así como para la designación de cargos públicos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+La única excepción será la declaración desierta de la convocatoria o concurso, o bien que ninguno de los participantes del género al que fuera destinada, cumpliera con los requisitos constitucionales y legales que establezca el cargo respectivo.
 
 ### CAPÍTULO CUARTO. DE LA IGUALDAD DE ACCESO Y EL PLENO DISFRUTE DE LOS DERECHOS SOCIALES PARA LAS MUJERES Y LOS HOMBRES
 
@@ -542,3 +566,9 @@ P.O. 22 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Las autoridades, entidades, órganos y organismos de los poderes Legislativo, Ejecutivo y Judicial o de los municipios, órganos autónomos, partidos políticos y demás autoridades, contempladas en el presente Decreto, tendrán un plazo de ciento ochenta días hábiles para publicar las remuneraciones brutas y netas, por medios impresos y electrónicos, donde de entre otros desgloses, se adicione un apartado por sexo y cargo desempeñado, ateniendo al principio de igualdad y no discriminación.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 168.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 21 Y LA FRACCIÓN III DEL ARTÍCULO 94, AMBOS DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 35; Y LOS ARTÍCULOS 36 Y 37 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
