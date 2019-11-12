@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2019-08-20"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -353,7 +353,9 @@ V. Determinar la periodicidad y características de la información que deberán
 
 VI. Coordinar el proceso de programación de las actividades de salud en el Estado, con sujeción a las disposiciones legales aplicables;
 
-VII. Promover el establecimiento de un sistema estatal de información básica en materia de salud;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VII. Establecer un sistema estatal de información básica en materia de salud;
 
 VIII. Formular recomendaciones a las dependencias competentes, sobre la asignación de los recursos que requieran los programas de salud del Estado;
 
@@ -365,13 +367,19 @@ X. Colaborar con las dependencias federales competentes, a la regulación y cont
 
 XI. Apoyar la coordinación entre las instituciones de salud, públicas, sociales y privadas, las educativas, estatales y federales, para formar y capacitar con perspectiva de género, a los recursos humanos para la salud;
 
-XII. Contribuir a que la formación y distribución de los recursos humanos para la salud, sea congruente con las prioridades del Sistema Estatal de Salud;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XII. Coordinar, vigilar y evaluar que la formación y distribución de los recursos humanos para la salud, sea congruente con las prioridades del Sistema Estatal de Salud, informando a la ciudadanía de forma periódica los resultados de la evaluación correspondiente;
 
 XIII. Promover e impulsar la participación de la comunidad en el cuidado de su salud;
 
-> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XIII Bis. Promover e impulsar programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
+XIII Bis. Implementar y difundir permanentemente programas y campañas de información sobre los buenos hábitos alimenticios, una buena nutrición y la activación física;
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XIII Ter. Promover que las instituciones del Sistema Estatal de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo y de control, acorde con la edad, sexo y factores de riesgo de las personas con diabetes, obesidad y sobrepeso;
 
 XIV. Impulsar la permanente actualización de las disposiciones legales en materia de salud, y
 
@@ -392,6 +400,10 @@ XVI. Realizar campañas de información sobre las características propias de la
 XVII. Promover políticas y programas para la protección de la salud integral de las personas con la condición del espectro autista, y
 
 XVIII. Las demás atribuciones afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+En lo que respecta al contenido de las fracciones, VII, y XIII Bis, ambos deberán ser publicados en la página de internet de la Secretaría de Salud; de igual forma, los resultados que se obtengan de la implementación de las políticas públicas en materia de obesidad y sobrepeso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE AGOSTO DE 2012)</small>
 
@@ -4514,5 +4526,13 @@ P.O. 20 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0242.- SE REFORMAN LOS ARTÍCULOS 4° Y 140; Y ADICIONA A LOS ARTÍCULOS 4° LA FRACCIÓN XXI, 140 UNA FRACCIÓN, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0300.- SE REFORMA Y ADICIONA EL ARTÍCULO 8° DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
