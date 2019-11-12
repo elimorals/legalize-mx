@@ -4,7 +4,7 @@ identifier: "SLP-codigo-fiscal-del-estado-de-san-luis-potosi-14989"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-08-05"
-last_updated: "2019-02-28"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 1999.
 
@@ -701,15 +701,27 @@ Los funcionarios y empleados fiscales del Estado y los municipios, así como los
 
 Queda terminantemente prohibido a los funcionarios y empleados fiscales proporcionar datos escritos o verbales relativos a la situación de los contribuyentes. Esta información sólo podrá facilitarse a los interesados o a sus representantes legítimos y a las autoridades judiciales o administrativas competentes. Podrá proporcionarse también a los notarios, a juicio de la autoridad fiscal, si formulan su solicitud por escrito y fundan y motivan suficientemente su petición.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-ARTICULO 54 BIS. Las autoridades fiscales podrá (sic) condonar, total o parcialmente, las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual apreciará discrecionalmente las circunstancias del caso y los motivos que tuvo la autoridad al imponer la sanción.
+ARTICULO 54 BIS. Las autoridades fiscales podrán condonar, total o parcialmente, las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual se apegará a las reglas generales establecidas por la Secretaría de Finanzas.
 
-En todos los casos se atender á (sic) la gravedad y la reincidencia a la infracción, así como la capacidad económica del infractor y el perjuicio causado a la Hacienda Pública.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+En la aplicación de las reglas generales, se atenderá la gravedad y la reincidencia a la infracción, así como la capacidad económica del infractor y el perjuicio causado a la Hacienda Pública.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Para efectos de lo anterior, la Secretaría de Finanzas emitirá reglas y procedimientos generales, que contemplen los requisitos y los supuestos en los que proceda la condonación, tales como circunstancias del caso, condiciones socioeconómicas del infractor y motivos de infracción; así mismo, establecerá las bases de los términos de pago de la parte no condonada, en caso de condonaciones parciales.
+
+(REUBICADO, P.O. 12 DE NOVIEMBRE DE 2019)
 
 Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
+(REUBICADO, P.O. 12 DE NOVIEMBRE DE 2019)
+
 La solicitud de condonación de multas en los términos de este artículo no constituirá instancia, y las resoluciones que dicte la Secretaría de Finanzas al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código.
+
+(REUBICADO, P.O. 12 DE NOVIEMBRE DE 2019)
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
@@ -2518,5 +2530,13 @@ P.O. 28 DE FEBRERO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0119.- SE REFORMA EL ARTÍCULO 54, DEL CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0301.- SE REFORMA Y ADICIONA EL ARTÍCULO 54 BIS DEL CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
