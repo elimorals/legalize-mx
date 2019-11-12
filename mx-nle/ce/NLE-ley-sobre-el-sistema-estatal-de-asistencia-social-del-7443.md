@@ -4,7 +4,7 @@ identifier: "NLE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7443"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2018-11-14"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -87,13 +87,17 @@ X.- Habitantes del medio rural y de los urbanos marginados, que carezcan de lo i
 
 XI.- Mujeres en estado de gestación o de lactancia que no puedan valerse por sí mismas;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XII.- Personas víctimas de desastres; y
+XII.- Personas víctimas de desastres;
 
-> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XIII.- Personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permita valerse por sí mismas.
+XIII.- Personas con padecimientos crónicos u oncológicos cuya situación económica y de salud no les permita valerse por sí mismas; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XIV.- Los menores, que dependen económicamente de quien se encuentra desaparecido.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2015)</small>
 
@@ -596,3 +600,11 @@ P.O. 14 DE NOVIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 013. SE REFORMA LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN, POR MODIFICACIÓN DE LOS ARTÍCULOS 4° FRACCIONES IV, V, VIII, IX Y X; 10° FRACCIONES II, III, VI, VII; 13° FRACCIONES IX Y X; 19°, 36° Y 37° FRACCIÓN I”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 184. SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 18, Y LAS FRACCIONES II Y III DEL ARTÍCULO 42, Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 42, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEON; Y SE REFORMAN LAS FRACCIONES XII Y XIII, Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 4° DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los municipios que correspondan para dar cumplimiento al presente Decreto, se ajustarán en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
