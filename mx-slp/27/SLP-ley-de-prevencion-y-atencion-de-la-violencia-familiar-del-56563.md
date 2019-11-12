@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-prevencion-y-atencion-de-la-violencia-familiar-del-56563
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2018-07-27"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de julio de 2007.
 
@@ -114,6 +114,10 @@ f) Verbal: toda manifestación expresa que tenga el propósito de ofender a la p
 También se considera violencia familiar, cualquier forma de maltrato a las que se refieren los incisos anteriores, si la víctima está bajo tutela, custodia o protección del agresor, aunque no exista parentesco alguno.
 
 Se equiparan a la violencia familiar, los actos u omisiones de cualquier miembro de la familia, tendientes a limitar la capacitación y el trabajo, con el fin de controlar, someter o dominar a algún otro integrante de la misma.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Para efectos de tratamiento terapéutico, se equipara a la violencia familiar, la alienación parental, entendida como la manipulación o inducción que un progenitor realiza hacia su hijo, mediante la desaprobación o crítica tendiente a producir en el menor, rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
 
 ###### ARTICULO 6°.
 
@@ -631,7 +635,7 @@ Las niñas, niños y adolescentes podrán ser citados a fin de recabar su opini�
 
 ###### ARTICULO 41.
 
-Las diligencias sobre notificaciones y citatorios podrán practicarse personalmente, por conducto del servidor público autorizado de las Unidades de Atención, o por la (sic) policías Estatal, Ministerial o municipal y, según las circunstancias podrá efectuarse por correo, telégrafo u otro medio, previa constancia razonada del medio empleado.
+Las diligencias sobre notificaciones y citatorios podrán practicarse personalmente, por conducto del servidor público autorizado de las Unidades de Atención, o por la (sic) policías Estatal, Ministerial o municipal, y según las circunstancias podrá efectuarse por correo, telégrafo u otro medio, previa constancia razonada del medio empleado.
 
 ### CAPITULO II. Medidas de Protección Inmediata y Cautelares
 
@@ -795,7 +799,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 7 DE AGOSTO DE 2007.
 
@@ -856,5 +860,13 @@ P.O. 27 DE JULIO DE 2018.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1034.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 205 DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EN EL ARTÍCULO 43 UNA FRACCIÓN A LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0309.- SE ADICIONA AL ARTÍCULO 5º EL PÁRRAFO DÉCIMO CUARTO DE LA LEY DE PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
