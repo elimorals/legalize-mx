@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-12904
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-11"
-last_updated: "2019-08-20"
+last_updated: "2019-11-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 11 de junio de 2018.
 
@@ -703,15 +703,39 @@ La Auditoría Superior del Estado, en los términos de la Ley del Sistema Antico
 
 La tramitación del recurso de reconsideración, en contra de las sanciones impuestas por la Auditoría Superior del Estado, se sujetará a las disposiciones siguientes:
 
-I. Se iniciará mediante escrito que deberá presentarse dentro del término de quince días contados a partir de que surta efectos la notificación de la multa, que contendrá: la mención de la autoridad Administrativa que impuso la o las sanciones, el nombre y firma autógrafa del recurrente, el domicilio que señala para oír y recibir notificaciones, la o las sanciones que se recurre y la fecha en que se le notificó, los agravios que a juicio de la entidad fiscalizada y, en su caso, de los servidores públicos, o del particular, persona física o moral, les cause la sanción impugnada, asimismo se acompañará copia de ésta y de la constancia de notificación respectiva, así como las pruebas documentales o de cualquier otro tipo supervenientes que ofrezca y que tengan relación inmediata y directa con la sanción recurrida;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-II. Cuando no se cumpla con alguno de los requisitos establecidos en este artículo para la presentación del recurso de reconsideración, la Auditoría Superior del Estado prevendrá por una sola vez al inconforme para que, en un plazo de cinco días hábiles, subsane la irregularidad en que hubiere incurrido en su presentación;
+I. Se interpondrá mediante escrito ante la Auditoría Superior del Estado, dentro de los quince días hábiles siguientes contados a partir de aquél en que surta efectos la notificación de la sanción, el cual deberá contener:
+
+a) La mención de la autoridad Administrativa que impuso la o las sanciones.
+
+b) El nombre y firma autógrafa del recurrente.
+
+c) El domicilio que señala para oír y recibir notificaciones dentro de la circunscripción territorial del municipio de San Luis Potosí. En caso de no señalar domicilio en los términos prescritos, todas las notificaciones, aún las de carácter personal, se realizarán por estrados.
+
+d) La sanción que se recurre y la fecha en que se le notificó ésta o, en su defecto, la fecha en que haya tenido conocimiento de la misma.
+
+e) Los agravios que a juicio de la entidad fiscalizada y, en su caso, del servidor público, o del particular, persona física o moral, le cause la sanción impuesta.
+
+f) Copias del documento que contenga la sanción impuesta, así como de la constancia de notificación.
+
+g) Las pruebas que se estimen pertinentes; debiendo señalar aquellas que la autoridad deba requerir a un tercero, cuando el recurrente acredite que habiéndolas solicitado en tiempo y forma, no se le hayan expedido sin causa justificada. Las pruebas ofrecidas deberán guardar relación directa con los hechos que se controvierten. Las pruebas supervenientes podrán presentarse siempre que no se haya emitido la resolución del recurso;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+II. Cuando no se cumpla con alguno de los requisitos establecidos en la fracción anterior de este artículo, la Auditoría Superior del Estado prevendrá por una sola vez al inconforme para que, en un plazo de cinco días hábiles, subsane la irregularidad en que hubiere incurrido en su presentación.
+
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL DEL ÚLTIMO PÁRRAFO DE ESTE ARTÍCULO, P.O. 12 DE NOVIEMBRE DE 2019, VÉASE LA LITERALIDAD DE LA PUBLICACIÓN OFICIAL]</small>
+
+Una vez desahogada la prevención, la Auditoría Superior del Estado, en un plazo que no excederá de quince días hábiles, acordará sobre la admisión o el desechamiento del recurso. Será procedente el desechamiento cuando: se presente fuera del plazo señalado; el escrito de impugnación no se encuentre firmado por el recurrente; no acompañe cualquiera de los documentos a que se refiere la fracción I de este artículo; los actos impugnados no afecten los intereses jurídicos del promovente; no se exprese agravio alguno; o si se encuentra en trámite ante el Tribunal algún recurso o defensa legal o cualquier otro medio de defensa interpuesto por el promovente, en contra de la sanción recurrida;
 
 III. La Auditoría Superior del Estado al acordar sobre la admisión de las pruebas documentales y supervenientes ofrecidas, desechará de plano las que no fueren ofrecidas conforme a derecho y las que sean contrarias a la moral o al derecho, y
 
 IV. Desahogadas las pruebas, si las hubiere, la Auditoría Superior del Estado examinará todos y cada uno de los agravios hechos valer por el recurrente y emitirá resolución dentro de los sesenta días hábiles siguientes, a partir de que declare cerrada la instrucción, notificando dicha resolución al recurrente dentro de los veinte días hábiles siguientes a su emisión.
 
 El recurrente podrá desistirse expresamente del recurso antes de que se emita la resolución respectiva, en este caso, la Auditoría Superior del Estado lo sobreseerá sin mayor trámite.
+
+> <small>[N. DE E. EL CONTENIDO DE ESTE PÁRRAFO ES SIMILAR AL SEGUNDO PÁRRAFO DE LA FRACCIÓN DE ESTE ARTÍCULO, P.O. 12 DE NOVIEMBRE DE 2019, VÉASE LA LITERALIDAD DE LA PUBLICACIÓN OFICIAL]</small>
 
 Una vez desahogada la prevención, la Auditoría Superior del Estado, en un plazo que no excederá de quince días hábiles, acordará sobre la admisión o el desechamiento del recurso. En este último caso, cuando se ubique en los siguientes supuestos: se presente fuera del plazo señalado; el escrito de impugnación no se encuentre firmado por el recurrente; no acompañe cualquiera de los documentos a que se refiere la fracción anterior; los actos impugnados no afecten los intereses jurídicos del promovente; no se exprese agravio alguno; o si se encuentra en trámite ante el Tribunal algún recurso o defensa legal o cualquier otro medio de defensa interpuesto por el promovente, en contra de la sanción recurrida.
 
@@ -1170,5 +1194,13 @@ P.O. 20 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0231.- SE REFORMA EL ARTÍCULO 25 EN SU PÁRRAFO CUARTO, DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0311.- SE REFORMA EL ARTÍCULO 63 DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
