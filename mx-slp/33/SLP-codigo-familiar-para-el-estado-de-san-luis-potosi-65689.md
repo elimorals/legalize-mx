@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2019-05-20"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1778,6 +1778,10 @@ La patria potestad es el conjunto de derechos y deberes reconocidos y otorgados 
 ###### ARTICULO 269.
 
 Quienes estén sujetos a la patria potestad tendrán derecho a vivir con el ascendiente que tenga su custodia, a convivir con sus ascendientes, aún en el caso de que éstos no vivan juntos, por lo que la autoridad judicial deberá tomar siempre las medidas necesarias para proteger los derechos de convivencia.
+
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+A petición de alguno de los ascendientes, la recepción y entrega de la o el menor, podrá llevarse a cabo en instalaciones de dependencias del ámbito familiar, siempre y cuando no constituya un riesgo para el o la menor.
 
 > <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2015)</small>
 
@@ -3594,6 +3598,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0168.- SE REFORMAN LOS ARTÍCULOS 15, 105, Y 133 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0306.- SE ADICIONA AL ARTÍCULO 269 EL PÁRRAFO SEGUNDO, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
