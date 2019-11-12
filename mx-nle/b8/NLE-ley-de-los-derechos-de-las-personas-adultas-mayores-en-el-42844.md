@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2019-10-21"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -132,6 +132,10 @@ III.- Violencia Sexual: el acto que degrada o daña la sexualidad de la víctima
 IV.- Violencia Patrimonial: La acción u omisión que daña intencionalmente el patrimonio o afecta la supervivencia de la víctima; puede consistir en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar daños a bienes individuales y comunes;
 
 V.- Violencia Económica: es toda acción u omisión del agresor que controle o este encaminada a controlar u ocultar el ingreso de sus percepciones económica (sic) o de la víctima.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VI.- Cualquier otra forma o formas de violencia análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
 
 ## TÍTULO SEGUNDO. PRINCIPIOS Y DERECHOS
 
@@ -1120,3 +1124,9 @@ Primero.- El presente Decreto entrara en vigor el día uno de enero de 2020.
 Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los municipios que correspondan para dar cumplimiento al presente Decreto, se ajustarán en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
 
 Tercero.- El Ejecutivo Estatal y los 51 municipios del Estado de Nuevo (sic) deberán de contar con las provisiones suficientes para cumplir gradualmente con este Decreto a partir del inicio de su vigencia y hasta antes de la conclusión del año 2022, de conformidad con el artículo 8° de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 189. SE ADICIONA UNA ÚLTIMA FRACCIÓN AL ARTÍCULO 3° BIS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
