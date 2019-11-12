@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-88737
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-12"
-last_updated: "2018-10-02"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 12 de junio de 2012.
 
@@ -1053,6 +1053,14 @@ La dependencia o entidad, con la aprobación de la Secretaría o en su caso de l
 
 La dependencia o entidad no otorgará anticipos en los contratos, independientemente de su denominación, a menos que en el estudio de costo-beneficio se acredite que ello tendría un impacto positivo de significación.
 
+> <small>(ADICIONADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 62 Bis.
+
+En ningún contrato podrán pactarse cláusulas penales o indemnizaciones con cargo a la dependencia o entidad de que se trate, aún en caso de rescisión, que excedan del quince por ciento del saldo insoluto del crédito.
+
+Para el caso de que se pacten cláusulas en contravención al párrafo anterior, las mismas serán nulas de pleno derecho, además de la responsabilidad en que incurran los servidores públicos involucrados.
+
 ###### Artículo 63.
 
 En caso que los contratos de prestación de servicios contemplen la construcción de obras de infraestructura como parte de la prestación del servicio correspondiente por parte del inversionista proveedor, la dependencia o entidad podrá pactar en el contrato la realización de pagos periódicos al inversionista-proveedor. Dichos pagos estarán destinados a amortizar la inversión efectivamente realizada en relación con dichas obras de infraestructura. La dependencia o entidad podrá pactar el inicio de los pagos a que se refiere este párrafo con antelación a la fecha de conclusión de las obras correspondientes e incluso en caso de rescisión o terminación del contrato respectivo.
@@ -1378,3 +1386,11 @@ P.O. 2 DE OCTUBRE DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0310.- SE ADICIONA EL ARTÍCULO 62 BIS DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
