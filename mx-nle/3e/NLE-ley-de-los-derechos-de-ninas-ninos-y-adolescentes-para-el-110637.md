@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2019-10-18"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -331,7 +331,9 @@ IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenenci
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
 
-La Procuraduría de Protección, en el ámbito de sus respectivas competencias, orientarán a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+La Procuraduría de Protección, en el ámbito de sus respectivas competencias, orientarán a las autoridades que correspondan para que den debido cumplimiento al presente artículo. Coadyuvando de igual forma con las autoridades competentes para garantizar el derecho a la identidad de las niñas y niños que permanecen con sus madres en los centros de reclusión.
 
 Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
@@ -561,9 +563,17 @@ Las autoridades estatales y municipales y en el ámbito de sus respectivas compe
 
 I. Llevar a cabo las medidas apropiadas para prevenir, atender y erradicar la Discriminación Múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, afrodescendientes, peores formas de trabajo infantil o cualquiera otra condición de marginalidad;
 
-II. Adoptar medidas y a realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad, de oportunidades y el derecho a la no discriminación; y
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-III. Adoptará medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez.
+II. Adoptar medidas y a realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad, de oportunidades y el derecho a la no discriminación;
+
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+III. Adoptará medidas para la eliminación de usos, costumbres, prácticas culturales o perjuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez; y
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+IV. Adoptar medidas para garantizar los derechos de las niñas y niños que nazcan y permanezcan en cualquier centro de reclusión.
 
 La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
 
@@ -2601,7 +2611,7 @@ RÚBRICA
 
 EL C. SECRETARIO DE SEGURIDAD PÚBLICA
 
-GRAL DIV. D.E.M. RET. CUAUHTÉMOC ANTÚNEZ PÉREZ
+GRAL. DIV. D.E.M. RET. CUAUHTÉMOC ANTÚNEZ PÉREZ
 
 RÚBRICA
 
@@ -2722,3 +2732,11 @@ P.O. 18 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 170. SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 315 DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMA LA FRACCIÓN XXXIII, Y SE ADICIONA LA FRACCIÓN XXXV RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTÍCULO 145 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 184. SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 18, Y LAS FRACCIONES II Y III DEL ARTÍCULO 42, Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 42, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN; Y SE REFORMAN LAS FRACCIONES XII Y XIII, Y SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 4° DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado y de los municipios que correspondan para dar cumplimiento al presente Decreto, se ajustarán en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
