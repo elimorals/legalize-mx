@@ -4,7 +4,7 @@ identifier: "NLE-ley-estatal-de-salud-del-estado-de-nuevo-leon-7631"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-12"
-last_updated: "2019-10-21"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de diciembre de 1988.
 
@@ -283,6 +283,10 @@ VIII.- PROMOVER UN SISTEMA DE FOMENTO SANITARIO QUE COADYUVE AL DESARROLLO DE PR
 
 IX.- GARANTIZAR LA EXTENSIÓN CUANTITATIVA Y CUALITATIVA DE LOS SERVICIOS DE SALUD, PREFERENTEMENTE A LOS GRUPOS VULNERABLES.
 
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+X.- DISMINUIR EL ÍNDICE DE MORTALIDAD MATERNA DURANTE EL EMBARAZO, PARTO Y PUERPERIO.
+
 ###### ARTICULO 9o.
 
 LA COORDINACIÓN DEL SISTEMA ESTATAL DE SALUD ESTARÁ A CARGO DE LA SECRETARÍA ESTATAL DE SALUD, CORRESPONDIÉNDOLE A ÉSTA LAS SIGUIENTES ATRIBUCIONES:
@@ -431,13 +435,17 @@ V.- COMISIÓN CONSULTIVA EN MATERIA DE REGULACIÓN, CONTROL Y FOMENTO SANITARIO 
 
 VI.- COMISIÓN CONTRA EL CONSUMO ABUSIVO DEL ALCOHOL;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-VII.- COMISIÓN DE ATENCIÓN A ENFERMEDADES RARAS EN EL ESTADO; Y
+VII.- COMISIÓN DE ATENCIÓN A ENFERMEDADES RARAS EN EL ESTADO;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-VIII.- LAS DEMÁS QUE DETERMINE EL CONSEJO.
+VIII.- COMISIÓN PARA LA ATENCIÓN DE LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO; Y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+IX.- LAS DEMÁS QUE DETERMINE EL CONSEJO.
 
 LAS FUNCIONES DEL CONSEJO Y SUS COMISIONES, ASÍ COMO LA INTEGRACIÓN DE ÉSTAS SE REGULARÁN EN EL REGLAMENTO DEL CONSEJO ESTATAL DE SALUD.
 
@@ -513,7 +521,9 @@ SE ENTIENDE POR ATENCIÓN MÉDICA EL CONJUNTO DE SERVICIOS QUE SE PROPORCIONAN A
 
 LA ORGANIZACIÓN Y OPERACIÓN DE LOS SERVICIOS DE SALUD DESTINADOS A LA ATENCIÓN MATERNO-INFANTIL, TIENE (SIC) EL CARÁCTER DE PRIORITARIOS Y OBLIGATORIOS, MISMOS QUE COMPRENDEN LAS SIGUIENTES ACCIONES:
 
-I.- LA ATENCIÓN DE LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. LA ATENCIÓN ESPECIAL A LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO, QUE INCLUYE ACOMPAÑAMIENTO Y ASESORÍA; A LA MUJER EMBARAZADA EN ESTADO DE VULNERABILIDAD POR RAZÓN DE EDAD, VIOLENCIA, SITUACIÓN SOCIO ECONÓMICA, DISCAPACIDAD, O POR CUALQUIER OTRO MOTIVO, DE IGUAL MANERA SE PROPORCIONARÁ EDUCACIÓN PARA LA MATERNIDAD, APOYO PSICOLÓGICO Y MÉTODOS DE PREVENCIÓN DE EMBARAZO.
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2019)</small>
 
@@ -2468,3 +2478,11 @@ Primero.- El presente Decreto entrará en vigor el día uno de enero de 2020.
 Segundo.- El presupuesto de Egresos del Estado de Nuevo León, para el ejercicio fiscal 2020, deberá contemplar las previsiones financieras necesarias para el cumplimiento del presente Decreto.
 
 Tercero.- El Estado y los Municipios de Nuevo León, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 181. SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 8°; SE REFORMAN LAS FRACCIONES VII Y VIII, Y SE ADICIONA UNA FRACCIÓN IX TODAS DEL ARTÍCULO 17 BIS 1; Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 25, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Estado y los Municipios de Nuevo León, deberán de ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
