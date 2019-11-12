@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2019-10-22"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -505,7 +505,9 @@ IV. Cuando se trate de casos urgentes o cuando la ley lo ordene, o el juez funda
 
 Las demás resoluciones, se notificarán a las partes por lista en los estrados del juzgado y en la página de internet del Poder Judicial del Estado.
 
-La publicación de listas de acuerdos en internet, sólo tendrán carácter informativo, siendo la publicación en los estrados del Juzgado o Sala, la que dé validez a las notificaciones, dado que esa publicación es solo con el propósito de dar publicidad a las listas de acuerdos, pero no exime a las partes y sus representantes de acudir al órgano jurisdiccional para consultar las listas de acuerdos.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Se tendrá por válida la notificación por lista de acuerdos o resoluciones, cuando se verifique la publicación de la misma tanto en la página de internet del Poder Judicial del Estado, como en los estrados del Juzgado o Sala, y ambas publicaciones deberán contener nombre y firma del funcionario que realice las notificaciones, así como el sello del Tribunal.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1947,9 +1949,9 @@ XX.- Los demás en que así lo determine la Ley.
 
 ART. 415.- Para los efectos de la fracción I del artículo anterior, se estará a lo dispuesto en los artículos 156 y 157 de este Código. Si en la demanda no se fija el valor del negocio, se tendrá como tal el que aparezca en los documentos en que se funde la acción; y si tampoco aparece de ellos, el juez prevendrá al actor que precise el interés de su reclamación, cuando éste sea susceptible de estimación pecuniaria, sin cuyo requisito no dará curso a la demanda.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-ART. 416.- En los juicios extraordinarios el término para contestar la demanda será de tres días; el de ofrecimiento de pruebas de cinco; el de recepción de las mismas de quince; el de alegar tres días comunes, y de cinco para que el juez dicte la sentencia.
+ART. 416.- En los juicios extraordinarios el término para contestar la demanda será de seis días; el de ofrecimiento de pruebas de cinco; el de recepción de las mismas de quince; el de alegar tres días comunes; y de cinco para que el juez dicte la sentencia.
 
 ART. 417.- Las reglas del juicio ordinario se aplicarán al juicio extraordinario en lo que no se oponga a lo dispuesto en el presente Capitulo. No son admisibles la reconvención o la compensación sino cuando las acciones en que se funden estuvieren también sujetas a juicio extraordinario.
 
@@ -4359,7 +4361,9 @@ No puede apelar el que obtuvo lo que pidió; pero el vencedor que sólo parcialm
 
 ART. 938.- El procurador podrá apelar aún cuando el poder no tenga cláusula especial para ello.
 
-ART. 939.- La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro de las veinticuatro horas siguientes a esta notificación. En este caso la adhesión al recurso sigue la suerte de éste.
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+ART. 939.- La parte que venció puede adherirse a la apelación interpuesta al notificársele su admisión, o dentro del término de nueve días si la sentencia fuere definitiva, o dentro de seis si fuere interlocutoria, o auto, siguientes a esta notificación. En tal caso la adhesión al recurso sigue la suerte de éste.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2016)</small>
 
@@ -5980,6 +5984,30 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 22 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0275.- SE REFORMA EL ARTÍCULO 268 BIS EN SU PÁRRAFO PRIMERO DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0302.- SE REFORMA EL ARTÍCULO 416 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0303.- SE REFORMA EL ARTÍCULO 939 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0304.- SE REFORMA EL ARTÍCULO 109 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
