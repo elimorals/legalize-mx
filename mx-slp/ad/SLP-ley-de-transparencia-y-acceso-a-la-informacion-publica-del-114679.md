@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2019-10-28"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -203,7 +203,9 @@ XXXIII. Sistema Nacional: el Sistema Nacional de Transparencia, Acceso a la Info
 
 XXXIV. Solicitante: la persona física o moral que solicite, requiera o peticione a los sujetos obligados, información pública;
 
-XXXV. Sujetos Obligados: cualquier autoridad, entidad, órgano y organismo de los poderes, Ejecutivo; Legislativo; y Judicial; órganos autónomos; partidos políticos; fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XXXV. Sujetos Obligados: cualquier autoridad, entidad, órgano y organismo de los poderes, Ejecutivo; Legislativo; y Judicial; órganos autónomos; partidos políticos; candidatas y candidatos independientes; fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal;
 
 XXXVI. Unidad de Transparencia: las unidades administrativas de cada uno de los sujetos obligados, responsables de atender las solicitudes de acceso a la información pública, y
 
@@ -223,9 +225,11 @@ No podrá clasificarse como reservada aquélla información que esté relacionad
 
 Ninguna persona será objeto de inquisición judicial o administrativa con el objeto del ejercicio del derecho de acceso a la información, ni se podrá restringir este derecho por vías o medios directos e indirectos.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 6°.
 
-El Estado garantizará el efectivo acceso de toda persona a la información en posesión de cualquier entidad, autoridad, órgano y organismo de los poderes, Ejecutivo; Legislativo; y Judicial; municipios; organismos autónomos; partidos políticos; fideicomisos y fondos públicos; así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
+El Estado garantizará el efectivo acceso de toda persona a la información en posesión de cualquier entidad, autoridad, órgano y organismo de los poderes, Ejecutivo; Legislativo; y Judicial; municipios; organismos autónomos; partidos políticos; candidatas y candidatos independientes; fideicomisos y fondos públicos; así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
 
 ###### ARTÍCULO 7°.
 
@@ -335,9 +339,11 @@ En el procedimiento de acceso, entrega y publicación de la información se prop
 
 ### Capítulo III. De los Sujetos Obligados
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-Son sujetos obligados a transparentar y permitir el acceso a su información y proteger los datos personales que obren en su poder: cualquier autoridad, entidad, órgano y organismo de los poderes; Ejecutivo, Legislativo, y Judicial, y municipios, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal y municipal.
+Son sujetos obligados a transparentar y permitir el acceso a su información y proteger los datos personales que obren en su poder: cualquier autoridad, entidad, órgano y organismo de los poderes, Ejecutivo; Legislativo; y Judicial; y municipios, órganos autónomos, partidos políticos, candidatas y candidatos independientes, fideicomisos y fondos públicos, así como cualquier persona física, moral o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal y municipal.
 
 ###### ARTÍCULO 24.
 
@@ -529,7 +535,9 @@ XX. Aprobar el informe de los ingresos y egresos de la CEGAIP, en los términos 
 
 XXI. Imponer, en los casos que proceda, a los servidores públicos responsables de la CEGAIP, las sanciones que correspondan de acuerdo con esta Ley y demás disposiciones aplicables;
 
-XXII. Solicitar al Consejo Estatal Electoral y de Participación Ciudadana se descuenten de las prerrogativas de los partidos políticos, las multas a que se hayan hecho acreedores;
+> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XXII. Solicitar al Consejo Estatal Electoral y de Participación Ciudadana se descuenten de las prerrogativas de los partidos políticos, así como de candidatas y candidatos independientes, las multas a que se hayan hecho acreedores;
 
 XXIII. Requerir a la Auditoría Superior del Estado haga efectivas las multas a que se hayan hecho acreedores los servidores públicos responsables;
 
@@ -1617,9 +1625,9 @@ d) El registro de candidatos a cargos de elección popular.
 
 e) El catálogo de estaciones de radio y canales de televisión, pautas de transmisión, versiones de spots autorizados por el INE para su difusión en el Estado, incluyendo los partidos políticos de registro estatal y de aquellos candidatos independientes registrados;
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-f) Los montos de financiamiento público por actividades ordinarias, de campaña y específicas otorgadas a los partidos políticos, asociaciones de ciudadanos y demás asociaciones políticas, así como los montos autorizados de financiamiento privado y los topes de los gastos de campañas.
+f) Los montos de financiamiento público por actividades ordinarias, de campaña y específicas otorgadas a los partidos políticos, candidaturas independientes, asociaciones y agrupaciones políticas o de ciudadanos y demás asociaciones políticas, así como los montos autorizados de financiamiento privado y los topes de los gastos de campañas.
 
 > <small>(ADICIONADO, P.O. 5 DE JULIO DE 2018)</small>
 
@@ -2711,9 +2719,11 @@ Tratándose de entidades públicas, el servidor público que reiteradamente incu
 
 ### Capítulo II. De las Medidas de Apremio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 190.
 
-La CEGAIP, en el ámbito de su competencia, podrá imponer al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
+La CEGAIP, en el ámbito de su competencia, podrá imponer al servidor público encargado de cumplir con la resolución, o a los miembros de los sindicatos, partidos políticos, candidatas y candidatos independientes, o a la persona física o moral responsable, las siguientes medidas de apremio para asegurar el cumplimiento de sus determinaciones:
 
 I. Amonestación pública o privada, y
 
@@ -2805,9 +2815,11 @@ Dichas responsabilidades se determinarán, en forma autónoma, a través de los 
 
 Para tales efectos, la CEGAIP deberá denunciar ante las autoridades competentes cualquier acto u omisión violatoria de la Ley General o de esta Ley y aportar las pruebas que consideren pertinentes, en los términos de las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 200.
 
-Ante incumplimientos en materia de transparencia y acceso a la información por parte de los partidos políticos, la CEGAIP dará vista, según corresponda, al Consejo Estatal Electoral y de Participación Ciudadana, para que resuelvan lo conducente, sin perjuicio de las sanciones establecidas para los partidos políticos en las leyes aplicables.
+Ante incumplimientos en materia de transparencia y acceso a la información por parte de los partidos políticos, así como de candidatas y candidatos independientes, la CEGAIP dará vista, según corresponda, al Consejo Estatal Electoral y de Participación Ciudadana, para que resuelvan lo conducente, sin perjuicio de las sanciones establecidas para los partidos políticos en las leyes aplicables.
 
 En el caso de probables infracciones relacionadas con fideicomisos o fondos públicos, sindicatos o personas físicas o morales que reciban y ejerzan recursos públicos o realicen actos de autoridad, la CEGAIP deberá dar vista al órgano interno de control del sujeto obligado relacionado con éstos, cuando sean Servidores Públicos, con el fin de que instrumenten los procedimientos administrativos a que haya lugar.
 
@@ -2837,9 +2849,11 @@ Las personas físicas o morales que reciban y ejerzan recursos públicos estatal
 
 #### Sección Primera. Reglas Generales del Procedimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 205.
 
-Las infracciones a lo previsto en la Ley General y la presente Ley, por parte de sujetos obligados que no cuenten con la calidad de servidor público ni sean partidos políticos, serán sancionadas por la CEGAIP de conformidad con lo dispuesto en este Capítulo.
+Las infracciones a lo previsto en la Ley General y la presente Ley, por parte de sujetos obligados que no cuenten con la calidad de servidor público ni sean partidos políticos o, candidatas o candidatos independientes, serán sancionadas por la CEGAIP de conformidad con lo dispuesto en este Capítulo.
 
 Si con motivo del desahogo de una verificación que realice la CEGAIP, o denuncia que reciba éste, o tuviera conocimiento de un presunto incumplimiento de alguna disposición de esta Ley o de la Ley General, iniciará el procedimiento a que se refiere a los sujetos descritos en el párrafo anterior, a efecto de determinar la sanción que corresponda.
 
@@ -3054,6 +3068,14 @@ SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 P.O. 28 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0289.- SE REFORMA EL ARTÍCULO 31 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0308.- SE REFORMAN LOS ARTÍCULOS 3°, 6°, 23, 34, 88, 200 Y 205 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
