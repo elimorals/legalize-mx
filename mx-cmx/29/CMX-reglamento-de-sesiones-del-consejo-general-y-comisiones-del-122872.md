@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-sesiones-del-consejo-general-y-comisiones-del-122
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2017-09-14"
+last_updated: "2019-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122872&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2017-08-04"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 14 DE SEPTIEMBRE DE 2017.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE NOVIEMBRE DE 2019.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -132,6 +130,8 @@ REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL 
 
 El presente Reglamento es de observancia obligatoria y tiene por objeto regular la celebración, conducción y desarrollo de las sesiones del Consejo General y comisiones del Instituto Electoral de la Ciudad de México, así como la actuación de sus integrantes durante las mismas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 2.
 
 Para los efectos de este Reglamento, se entenderá por:
@@ -156,29 +156,51 @@ II. Comités: Órganos especiales y técnicos creados por acuerdo del Consejo Ge
 
 III. Consejo General: Consejo General del Instituto Electoral de la Ciudad de México;
 
-IV Consejera Presidenta o Consejero Presidente de la Comisión o Comité: La persona que ostenta la Presidencia de las Comisiones o Comités, según sea el caso;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-V. Consejera Presidenta o Consejero Presidente del Consejo General: La persona que ostenta la Presidencia del Consejo General del Instituto Electoral de la Ciudad de México;
+IV. Consejeras y Consejeros Electorales: Las personas que integran el Consejo General del Instituto Electoral de la Ciudad de México;
 
-VI. Consejeras y Consejeros Electorales: Las personas que integran el Consejo General del Instituto Electoral de la Ciudad de México;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-VII. Instituto Electoral: Instituto Electoral de la Ciudad de México;
+V. Instituto Electoral: Instituto Electoral de la Ciudad de México;
 
-VIII. Integrantes del Consejo General: La Consejera o Consejero Presidente, las seis Consejeras y Consejeros Electorales, la Secretaría del Consejo y las Representaciones de los Partidos Políticos;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+VI. Integrantes del Consejo General: La Consejera o Consejero Presidente, las seis Consejeras y Consejeros Electorales, la Secretaría del Consejo y las Representaciones de los Partidos Políticos;
 
-IX. Invitadas e invitados: El personal del Instituto Electoral, las y los especialistas externos que, a solicitud que les sea formulada por la Presidencia del Consejo General o las Presidencias de las Comisiones o Comités, participen con derecho a voz en las sesiones del Consejo General y de las Comisiones o Comités;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-X. Invitadas e invitados permanentes: Las y los representantes de los grupos parlamentarios del Congreso de la Ciudad de México a las sesiones del Consejo General;
+VII. Personas invitadas: El personal del Instituto Electoral, especialistas externos que, a solicitud que les sea formulada por la Presidencia del Consejo General o las Presidencias de las Comisiones o Comités, participen con derecho a voz en las sesiones del Consejo General y de las Comisiones o Comités;
 
-XI. Participantes del Consejo General: Integrantes del Consejo General, invitadas e invitados permanentes y representaciones de candidaturas que asistan a las sesiones del Consejo General;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XII. Representaciones de candidaturas: Las y los representantes de candidatas y candidatos sin partido para la elección de Jefatura de Gobierno de la Ciudad de México;
+VIII. Personas invitadas permanentes: Representantes de los grupos parlamentarios del Congreso de la Ciudad de México a las sesiones del Consejo General;
 
-XIII. Representantes de partido: Las personas titulares de las representaciones de los partidos políticos acreditados ante el Consejo General;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XIV. Secretaria o Secretario del Consejo: La persona que ostenta la Secretaría del Consejo General; y
+IX. Personas participantes del Consejo General: Integrantes del Consejo General, personas invitadas permanentes y representaciones de candidaturas que asistan a las sesiones del Consejo General;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+X. Presidencia de la Comisión o Comité: La persona que ostenta la Presidencia de las Comisiones o Comités, según sea el caso;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XI. Presidencia del Consejo General: La persona que ostenta la Presidencia del Consejo General del Instituto Electoral de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XII. Representaciones de candidaturas: Representantes de las candidaturas sin partido para la elección de Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XIII. Representaciones de partido: Las personas titulares de las representaciones de los partidos políticos acreditados ante el Consejo General;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XIV. Secretaría del Consejo: La persona que ostenta la Secretaría del Consejo General; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 XV. Secretaría Técnica: Secretaria Técnica o Secretario Técnico de las Comisiones.
 
@@ -186,25 +208,35 @@ XV. Secretaría Técnica: Secretaria Técnica o Secretario Técnico de las Comis
 
 La interpretación y aplicación de las disposiciones de este Reglamento se realizará de conformidad con la Constitución Federal, la Constitución Local y el Código, favoreciendo en todo tiempo la protección más amplia a las personas.
 
-Quienes integran el Consejo General y las Comisiones o Comités del Instituto Electoral deberán garantizar durante el desarrollo de las sesiones y, desde el ámbito de su competencia, el respeto, la protección y la promoción de la igualdad, principalmente en cuanto al ejercicio de los derechos político-electorales en contextos libres de discriminación y de violencia.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Las personas integrantes del Consejo General y las Comisiones o Comités del Instituto Electoral deberán garantizar durante el desarrollo de las sesiones y, desde el ámbito de su competencia, el respeto, la protección y la promoción de la igualdad, principalmente en cuanto al ejercicio de los derechos político-electorales en contextos libres de discriminación y de violencia.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 4.
 
-Las sesiones del Consejo General y Comisiones se llevarán a cabo en el domicilio oficial del Instituto Electoral. Sólo por causas de fuerza mayor o caso fortuito que a juicio de quien las presida, no garanticen el buen desarrollo y la libre participación de sus integrantes, podrá sesionarse en cualquier otro lugar dentro de la Ciudad de México.
+Las sesiones del Consejo General y Comisiones se llevarán a cabo en el domicilio oficial del Instituto Electoral. Sólo por causas de fuerza mayor o caso fortuito que a juicio de quien las presida, no garanticen el buen desarrollo y la libre participación de sus integrantes, podrá sesionarse en cualquier otro lugar dentro de la Ciudad de México, haciendo constar en el Acta correspondiente el motivo que generó dicha circunstancia.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 5.
 
-Las y los participantes del Consejo General y las invitadas e invitados que asistan a las sesiones del Consejo General y a Comisiones y Comités, deberán conducirse en todo momento con respeto durante el desarrollo de las mismas y propiciar su correcta celebración.
+Las personas participantes del Consejo General, de las Comisiones y Comités, así como las personas que asistan a las sesiones, deberán conducirse en todo momento con respeto durante su desarrollo, y propiciar su correcta celebración.
 
 ## TÍTULO SEGUNDO. De las Sesiones del Consejo General
 
 ### CAPÍTULO I. De las atribuciones de las y los asistentes a las sesiones del Consejo General
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 6.
 
-Corresponde a la Consejera Presidenta o Consejero Presidente:
+Corresponde a la Presidencia del Consejo:
 
-I. Convocar a los participantes del Consejo General a las sesiones y presidir las mismas;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Convocar a las personas participantes del Consejo General a las sesiones y presidir las mismas;
 
 II. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz y voto;
 
@@ -218,9 +250,13 @@ VI. Participar en la discusión de los asuntos, contenidos en el orden del día 
 
 VII. Manifestarse libremente sobre los temas que se traten en las sesiones;
 
-VIII. Conceder el uso de la palabra a las y los participantes del Consejo General conforme al procedimiento establecido en el Reglamento;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-IX. Consultar, en su caso, a las y los participantes del Consejo General, si el asunto del orden del día que se está analizando, ha sido suficientemente discutido;
+VIII. Conceder el uso de la palabra a las personas participantes del Consejo General conforme al procedimiento establecido en el Reglamento;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+IX. Consultar, en su caso, a las personas participantes del Consejo General, si el asunto del orden del día que se está analizando, ha sido suficientemente discutido;
 
 X. Proponer acuerdos o modificaciones a los documentos que se analicen en la sesión;
 
@@ -260,23 +296,23 @@ VIII. Excusarse de conocer de algún asunto en que tengan interés personal, por
 
 IX. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 8.
 
-Corresponde a la Secretaria o Secretario del Consejo:
+Corresponde a la Secretaría del Consejo:
 
 I. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz;
 
 II. Preparar los proyectos de orden del día, convocatorias e invitaciones a las sesiones del Consejo General;
 
-> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-III. Enviar a las y los integrantes del Consejo General y, en su caso, a las representaciones de candidaturas la convocatoria a las sesiones junto con los documentos y anexos de los asuntos incluidos en el orden del día, así como enviar a las invitadas e invitados permanentes la invitación respectiva.
+III. Enviar a las personas integrantes del Consejo General y, en su caso, a las representaciones de candidaturas la convocatoria a las sesiones junto con los documentos y anexos de los asuntos incluidos en el orden del día, así como enviar a las personas invitadas permanentes la invitación respectiva.
 
-Asimismo, ordenar la publicación en la página de Internet institucional tanto el orden del día como los documentos y anexos correspondientes conforme a lo dispuesto en el artículo 15 de este Reglamento;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
-
-IV. Pasar lista de asistencia a las y los integrantes del Consejo General y llevar el registro de ella, en su caso, dar cuenta de la asistencia de las invitadas e invitados permanentes, así como de las representaciones de candidaturas;
+IV. Pasar lista de asistencia a las personas integrantes del Consejo General y llevar el registro de ella, en su caso, dar cuenta de la asistencia de las personas invitadas permanentes, así como de las representaciones de candidaturas;
 
 > <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
@@ -310,13 +346,13 @@ XI. Ser enlace directo entre el Consejo General y los diversos órganos del Inst
 
 XII. Llevar el cómputo del tiempo de las intervenciones para los efectos previstos en el Reglamento;
 
-> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XIII. Informar sobre el cumplimiento de los acuerdos y resoluciones del Consejo General cuando lo solicite alguna o algún integrante del mismo;
+XIII. Informar sobre el cumplimiento de los acuerdos y resoluciones del Consejo General cuando lo solicite alguna persona integrante del mismo;
 
-> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XIV. Firmar con la Consejera Presidenta o Consejero Presidente del Consejo General las actas de las sesiones, las resoluciones y los acuerdos aprobados;
+XIV. Firmar con la Presidencia del Consejo General las actas de las sesiones, las resoluciones y los acuerdos aprobados;
 
 > <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
@@ -326,9 +362,11 @@ XV. Elaborar las versiones estenográficas de las sesiones del Consejo General y
 
 XVI. Las demás que le confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 9.
 
-Corresponde a las y los representantes de partido:
+Corresponde a las representaciones de partido:
 
 I. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz;
 
@@ -336,27 +374,35 @@ II. Participar en la discusión de los asuntos contenidos en el orden del día d
 
 III. Manifestarse libremente sobre los temas que se traten en las sesiones;
 
-IV. Ser convocadas y convocados oportunamente a las sesiones y recibir la documentación correspondiente;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+IV. Ser convocadas oportunamente a las sesiones y recibir la documentación correspondiente;
 
 V. Proponer acuerdos o modificaciones a los documentos que se analicen en la sesión;
 
-VI. Solicitar a la Consejera Presidenta o Consejero Presidente del Consejo General la inclusión de asuntos en el orden del día de las sesiones ordinarias del Consejo General;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VI. Solicitar a la Presidencia del Consejo General la inclusión de asuntos en el orden del día de las sesiones ordinarias del Consejo General;
 
 VII. Contribuir al correcto desarrollo de las sesiones;
 
 VIII. Solicitar por mayoría a la Consejera Presidenta o Consejero Presidente del Consejo General, convoque a sesiones extraordinarias;
 
-> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-IX. Alternarse durante el desarrollo de las sesiones, entre propietaria o propietario y suplente, si lo consideran necesario; y
+IX. Alternarse durante el desarrollo de las sesiones, entre propietaria y suplente, si lo consideran necesario; y
 
 X. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 10.
 
-Corresponde a las invitadas e invitados permanentes:
+Corresponde a las personas invitadas permanentes:
 
-I. Recibir oportunamente la invitación a las sesiones del Consejo General, junto con el proyecto de orden del día;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Recibir oportunamente la invitación a las sesiones del Consejo General, junto con el proyecto de orden del día y la documentación correspondiente;
 
 II. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz;
 
@@ -368,11 +414,15 @@ V. Contribuir al correcto desarrollo de las sesiones; y
 
 VI. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 11.
 
-Corresponde a las y los representantes de candidatas y candidatos sin partido:
+Corresponde a las representaciones de candidaturas:
 
-I. Ser convocadas y convocados oportunamente a las sesiones ordinarias, extraordinarias y urgentes del Consejo General cuando se trate algún asunto relacionado con la elección de la Jefatura de Gobierno, así como recibir la documentación correspondiente;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Ser convocadas oportunamente a las sesiones ordinarias, extraordinarias y urgentes del Consejo General cuando se trate algún asunto relacionado con la elección de la Jefatura de Gobierno, así como recibir la documentación correspondiente;
 
 II. Asistir a las sesiones del Consejo General y participar en ellas con derecho a voz, cuando en el orden del día se incluyan asuntos relacionados con la elección de la Jefatura de Gobierno;
 
@@ -384,27 +434,41 @@ V. Proponer acuerdos o modificaciones a los documentos que se analicen en la ses
 
 VI. Contribuir al correcto desarrollo de las sesiones;
 
-VII. Alternarse durante el desarrollo de las sesiones, entre propietaria o propietario y suplente, si lo consideran necesario; y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VII. Alternarse durante el desarrollo de las sesiones, entre propietaria y suplente, si lo consideran necesario; y
 
 > <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
 
 VIII. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
-La participación de las y los representantes de candidatas o candidatos en las sesiones del Consejo General tendrá lugar a partir de su registro y exclusivamente durante el proceso electoral sólo para tratar asuntos relacionados con la elección de Jefatura de Gobierno.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-La Consejera Presidenta o Consejero Presidente del Consejo General podrá interrumpir o llamar la atención a cualquier representante de candidatas o candidatos para hacerle notar, comedidamente, cuando el tema sobre el que esté opinando o pretenda opinar, no guarde relación con la elección de Jefatura de Gobierno.
+La participación de las representaciones de candidaturas en las sesiones del Consejo General tendrá lugar a partir de su registro y exclusivamente durante el proceso electoral sólo para tratar asuntos relacionados con la elección de Jefatura de Gobierno.
 
-Las y los representantes de candidatas o candidatos podrán permanecer en la mesa del Consejo General durante toda la sesión si así lo desean, guardando la compostura debida, o retirarse al concluir el tratamiento de los asuntos que involucran a su representada o representado.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+La Presidencia del Consejo General podrá interrumpir o llamar la atención a cualquier representación de candidaturas para hacerle notar, comedidamente, cuando el tema sobre el que esté opinando o pretenda opinar, no guarde relación con la elección de Jefatura de Gobierno.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Las representaciones de candidaturas podrán permanecer en la mesa del Consejo General durante toda la sesión si así lo desean, guardando la compostura debida, o retirarse al concluir el tratamiento de los asuntos que involucran a la persona representada.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 12.
 
-Las invitadas e invitados a la sesión podrán hacer uso de la palabra durante la misma, para rendir los informes o aclarar el asunto que se discuta, con la autorización previa del Consejo General o de la Consejera Presidenta o Consejero Presidente de la Comisión o Comité de que se trate.
+Las personas invitadas a la sesión podrán hacer uso de la palabra durante la misma, para rendir los informes o aclarar el asunto que se discuta, con la autorización previa del Consejo General o de la Presidencia de la Comisión o Comité de que se trate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 13.
 
-La Consejera Presidenta o Consejero Presidente del Consejo General, y las Consejeras y los Consejeros Electorales están impedidos para intervenir, en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para su persona, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceras personas con los que tenga relaciones profesionales, laborales o de negocios, o para socias, socios o sociedades de las que la o el servidor público o las demás personas antes referidas formen o hayan formado parte.
+La Presidencia del Consejo General, y las personas Consejeras Electorales están impedidos para intervenir, en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para su persona, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceras personas con los que tenga relaciones profesionales, laborales o de negocios, o para socias, socios o sociedades de las que la persona servidora pública o las demás personas antes referidas formen o hayan formado parte.
 
-Cuando la Consejera Presidenta o Consejero Presidente del Consejo General o cualquiera de las Consejeras y los Consejeros Electorales se encuentren en alguno de los supuestos enunciados en el párrafo anterior deberán excusarse.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Cuando la Presidencia del Consejo General o cualquiera de las Consejeras y los Consejeros Electorales se encuentren en alguno de los supuestos enunciados en el párrafo anterior deberán excusarse.
 
 Para el conocimiento y la calificación del impedimento, se observarán las reglas particulares siguientes:
 
@@ -422,13 +486,17 @@ Las sesiones del Consejo General podrán ser ordinarias, extraordinarias, urgent
 
 A) Las sesiones ordinarias se sujetarán a lo siguiente:
 
-I. Serán convocadas por la Consejera Presidenta o Consejero Presidente del Consejo General cada dos meses de forma ordinaria y cada mes, desde el inicio hasta la conclusión de los procesos electorales y de participación ciudadana; y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Serán convocadas por la Presidencia del Consejo General cada dos meses de forma ordinaria y cada mes, desde el inicio hasta la conclusión de los procesos electorales y de participación ciudadana; y
 
 II. Tendrán por objeto tratar los asuntos que se señalen en el orden del día, el cual deberá incluir un punto de asuntos generales.
 
 B) Las sesiones extraordinarias se sujetarán a lo siguiente:
 
-I. Serán convocadas por la Consejera Presidenta o Consejero Presidente del Consejo General o a petición que le formule la mayoría de las y los representantes de partido, de manera conjunta o de forma separada;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Serán convocadas por la Presidencia del Consejo General o a petición que le formule la mayoría de las representaciones de partido, de manera conjunta o de forma separada;
 
 II. Tendrán por objeto tratar asuntos que por su importancia o naturaleza para los fines del Instituto Electoral, no pueden esperar a ser desahogados en la siguiente sesión ordinaria; y
 
@@ -436,7 +504,9 @@ III. Solamente podrán tratarse aquellos asuntos para las que fueron convocadas.
 
 C) Las sesiones urgentes se sujetarán a lo siguiente:
 
-I. Serán convocadas por la Consejera Presidenta o Consejero Presidente del Consejo General o a petición que le formule la mayoría de las y los Consejeras y Consejeros Electorales, de manera conjunta o de forma separada;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Serán convocadas por la Presidencia del Consejo General o a petición que le formule la mayoría de las personas Consejeras Electorales, de manera conjunta o de forma separada;
 
 II. Tendrán por objeto tratar asuntos específicos que por su importancia y urgencia para los fines del Instituto Electoral, requieran atención inmediata; y
 
@@ -444,7 +514,9 @@ III. Solamente podrán tratarse aquellos asuntos para las que fueron convocadas.
 
 D) La sesión solemne se sujetará a lo siguiente:
 
-I. Será convocada por la Consejera Presidenta o Consejero Presidente del Consejo General;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Será convocada por la Presidencia del Consejo General;
 
 II. Tendrá por objeto conocer del informe anual de actividades a que hace referencia el artículo 77, fracción XII del Código, en el que se dé cuenta del estado general que guarda el Instituto Electoral; y
 
@@ -454,17 +526,23 @@ A la convocatoria a la sesión pública solemne deberá adjuntarse el orden del 
 
 #### SECCIÓN SEGUNDA. De la Convocatoria e Invitación a las Sesiones
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 15.
 
-La convocatoria a sesión dirigida a las y los integrantes del Consejo General, en su caso, a las y los representantes de candidatas o candidatos deberá contener el día y la hora en que la misma se deba celebrar, la mención de su carácter de ordinaria, extraordinaria, urgente o solemne y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán, en concordancia con los medios establecidos por el Código, los anexos necesarios para la discusión de los asuntos incluidos en el orden del día.
+La convocatoria a sesión dirigida a las personas integrantes del Consejo General, en su caso, a las representaciones de candidaturas deberá contener el día y la hora en que la misma se deba celebrar, la mención de su carácter de ordinaria, extraordinaria, urgente o solemne y un proyecto de orden del día para ser desahogado. A dicha convocatoria se acompañarán, en concordancia con los medios establecidos por el Código, los anexos necesarios para la discusión de los asuntos incluidos en el orden del día.
 
-La invitación que se emita a las invitadas e invitados permanentes para asistir a la sesión del Consejo General, deberá contener los mismos elementos señalados en el párrafo anterior.
+El oficio que se emita a las personas invitadas permanentes para que asistan a la sesión del Consejo General, deberá contener los mismos elementos señalados en el párrafo anterior.
 
-Los proyectos de acuerdo del Consejo General se publicarán en la página de Internet institucional, a partir de que sea notificada la convocatoria a la sesión correspondiente, excepto tratándose de resoluciones en materia de procedimientos sancionadores o de fiscalización.
+La documentación de los asuntos a desahogar en las sesiones del Consejo General se publicarán en la página de Internet institucional, a partir de que sea notificada la convocatoria a la sesión correspondiente, excepto tratándose de documentos que, por su naturaleza, contengan información confidencial, reservada o sean materia de procedimientos sancionadores o de fiscalización.
+
+Para efectos del párrafo que antecede, en la página de Internet institucional, se deberá colocar la siguiente leyenda en el punto del que se trate: “NOTA: Este documento no se publica debido a que se encuentra en alguno de los supuestos establecidos en el artículo 15, párrafo tercero, del Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral.”
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 16.
 
-Para la celebración de sesiones, la Consejera Presidenta o Consejero Presidente del Consejo General deberá convocar por escrito en los plazos siguientes:
+Para la celebración de sesiones, la Presidencia del Consejo General deberá convocar por escrito en los plazos siguientes:
 
 I. Sesión ordinaria, por lo menos con setenta y dos horas de anticipación a la hora fijada para la sesión;
 
@@ -474,23 +552,27 @@ III. Sesión urgente, por lo menos con doce horas de anticipación a la hora que
 
 IV. Sesión solemne, por lo menos con setenta y dos horas de anticipación a la hora fijada para la sesión, la cual se efectuará dentro del primer trimestre de cada año.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 17.
 
-Las Consejeras y los Consejeros Electorales, representantes de partido y representantes de candidatas o candidatos podrán solicitar a la Consejera Presidenta o Consejero Presidente del Consejo General incluir algún tema en el orden del día de las sesiones ordinarias, debiendo acompañar, en su caso, los documentos y anexos necesarios, mismos que serán distribuidos a las y los demás integrantes del Consejo General, por lo menos con veinticuatro horas de anticipación a la celebración de dicha sesión.
+Las Consejeras y los Consejeros Electorales, representaciones de partido y representaciones de candidaturas podrán solicitar a la Presidencia del Consejo General incluir algún tema en el orden del día de las sesiones ordinarias, debiendo acompañar, en su caso, los documentos y anexos necesarios, mismos que serán distribuidos a las y las (sic) demás personas integrantes del Consejo General, por lo menos con veinticuatro horas de anticipación a la celebración de dicha sesión.
 
-Cuando resulte procedente, la Consejera Presidenta o Consejero Presidente del Consejo General incluirá el asunto solicitado en el orden del día que corresponda.
+Cuando resulte procedente, la Presidencia del Consejo General incluirá el asunto solicitado en el orden del día que corresponda.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 18.
 
-En aquellos casos en los que, debido a los grandes volúmenes de documentación, no sea posible acompañar los anexos necesarios para la discusión de los asuntos incluidos en el orden del día, éstos se pondrán a disposición de las y los integrantes del Consejo General, a través de la Secretaría del mismo, para que a partir de la fecha de emisión de la convocatoria puedan ser consultados.
+En aquellos casos en los que, debido a los grandes volúmenes de documentación, no sea posible acompañar los anexos necesarios para la discusión de los asuntos incluidos en el orden del día, éstos se pondrán a disposición de las personas integrantes del Consejo General, a través de la Secretaría del mismo, para que a partir de la fecha de emisión de la convocatoria puedan ser consultados.
 
 #### SECCIÓN TERCERA. De la Duración de las Sesiones
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 19.
 
-El tiempo límite para la duración de las sesiones será de ocho horas. Agotado el límite señalado, el Consejo General podrá decidir por mayoría de sus integrantes con derecho a voto y sin mediar debate, la prolongación de la sesión. Para tal efecto y con el objeto de no interrumpir la continuidad de los trabajos, la Consejera Presidenta o Consejero Presidente del Consejo General realizará la consulta respectiva.
-
-Después de cada tres horas de prolongada la sesión, el Consejo General podrá decidir su continuación o no, siguiendo el procedimiento establecido en el párrafo anterior.
+El tiempo límite para la duración de las sesiones será de ocho horas. Agotado el límite señalado, el Consejo General podrá decidir por mayoría de sus integrantes con derecho a voto y sin mediar debate, la prolongación de la sesión. Para tal efecto y con el objeto de no interrumpir la continuidad de los trabajos, la Presidencia del Consejo General realizará la consulta respectiva.
 
 ###### Artículo 20.
 
@@ -502,25 +584,31 @@ Dicha sesión concluirá una vez que se hayan agotado o resuelto los asuntos que
 
 #### SECCIÓN PRIMERA. Del Inicio de las Sesiones
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 21.
 
-En el día y hora fijado para la sesión se reunirán las y los integrantes del Consejo General, la Consejera Presidenta o Consejero Presidente del Consejo General declarará iniciada la sesión, previa verificación de asistencia y certificación del quórum por parte de la Secretaria o Secretario del Consejo.
+En el día y hora fijado para la sesión se reunirán las personas integrantes del Consejo General, la Presidencia del Consejo General declarará iniciada la sesión, previa verificación de asistencia y certificación del quórum por parte de la Secretaría del Consejo.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 22.
 
-Para que el Consejo General pueda sesionar válidamente, es necesario contar con la mayoría de sus integrantes, entre quienes deberán encontrarse al menos cinco Consejeras o Consejeros Electorales.
+Para que el Consejo General pueda sesionar válidamente, es necesario contar con la mayoría de sus integrantes, entre quienes deberán encontrarse al menos cinco personas Consejeras Electorales.
 
-En el caso de las y los representantes de candidatas o candidatos, su asistencia no contará para efectos de quórum.
+En el caso de las representaciones de candidaturas, su asistencia no contará para efectos de quórum.
 
-La asistencia a las sesiones del Consejo General de las invitadas e invitados permanentes no contará para efectos del quórum.
+La asistencia a las sesiones del Consejo General de las personas invitadas permanentes no contará para efectos del quórum.
 
-Si llegada la hora prevista para la sesión no se reúne el quórum se dará un término de espera máximo de treinta minutos. Si transcurrido dicho tiempo aún no se logra la integración del quórum, se hará constar tal situación en un acta circunstanciada y se citará a una nueva sesión a las Consejeras y los Consejeros Electorales, representantes de partido, invitadas e invitados permanentes, y de ser el caso, a las y los representantes de candidatas o candidatos ausentes, quedando notificados quienes estuvieran presentes.
+Si llegada la hora prevista para la sesión no se reúne el quórum se dará un término de espera máximo de treinta minutos. Si transcurrido dicho tiempo aún no se logra la integración del quórum, se hará constar tal situación en un acta circunstanciada y se citará a una nueva sesión a las personas Consejeras Electorales, representaciones de partido, personas invitadas permanentes, y de ser el caso, a las representaciones de candidaturas ausentes, quedando notificados quienes estuvieran presentes.
 
-Dicha sesión se celebrará dentro de las doce horas siguientes durante los procesos electorales y de participación ciudadana o dentro de las veinticuatro horas siguientes fuera de ellos, con las Consejeras y los Consejeros Electorales, las y los representantes de partido, invitadas e invitados permanentes, y de ser el caso, las y los representantes de candidatas o candidatos del Consejo General que concurran a ella.
+Dicha sesión se celebrará dentro de las doce horas siguientes durante los procesos electorales y de participación ciudadana o dentro de las veinticuatro horas siguientes fuera de ellos, con las personas Consejeras Electorales, las representaciones de partido, personas invitadas permanentes, y de ser el caso, las y los (sic) representaciones de candidaturas del Consejo General que concurran a ella.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 23.
 
-Si en el transcurso de la sesión se ausentaran parte de sus integrantes y con ello se interrumpe el quórum, la Consejera Presidenta o Consejero Presidente del Consejo General declarará un receso o, en su caso, suspenderá la sesión del Consejo General y citará para su continuación dentro de los plazos señalados en el último párrafo del artículo anterior.
+Si en el transcurso de la sesión se ausentaran parte de sus integrantes y con ello se interrumpe el quórum, la Presidencia del Consejo General declarará un receso o, en su caso, suspenderá la sesión del Consejo General y citará para su continuación dentro de los plazos señalados en el último párrafo del artículo anterior.
 
 #### SECCIÓN SEGUNDA. Del Carácter Público y Orden en las Sesiones
 
@@ -532,9 +620,11 @@ Para el acceso y permanencia en el recinto, no se discriminará a ninguna person
 
 En el desarrollo de las sesiones y su transmisión, se contará con interpretación simultánea en lengua de señas mexicana.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 25.
 
-Para garantizar el correcto desarrollo de las sesiones, la Consejera Presidenta o Consejero Presidente del Consejo General podrá tomar las medidas siguientes:
+Para garantizar el correcto desarrollo de las sesiones, la Presidencia del Consejo General podrá tomar las medidas siguientes:
 
 I. Exhortar a guardar el orden;
 
@@ -548,61 +638,85 @@ III. Solicitar el auxilio de la fuerza pública, para desalojar a quienes hayan 
 
 Iniciada la sesión, se pondrá a consideración del Consejo General el contenido del orden del día.
 
-El Consejo General, mediante votación y a solicitud de alguna o alguno de sus integrantes, podrá modificar el orden del día, así como los asuntos contenidos en éste.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+El Consejo General, mediante votación y a solicitud de alguna persona integrante, podrá modificar el orden del día, así como los asuntos contenidos en éste.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 27.
 
-Al aprobarse el orden del día, se consultará en votación económica si se dispensa la lectura de los documentos previamente circulados. A petición de alguna o algún integrante del Consejo General, la Secretaria o Secretario del Consejo dará lectura a los documentos que se le soliciten para ilustrar la discusión, en esos casos se detendrá el cronómetro de participación de la o el orador y dicha lectura no podrá exceder de cinco minutos.
+Al aprobarse el orden del día, se consultará en votación económica si se dispensa la lectura de los documentos previamente circulados. A petición de alguna persona integrante del Consejo General, la Secretaría del Consejo dará lectura a los documentos que se le soliciten para ilustrar la discusión, en esos casos se detendrá el cronómetro de participación de la persona oradora y dicha lectura no podrá exceder de cinco minutos.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 28.
 
-En el caso de que un punto del orden del día aprobado este integrado con varios apartados, cuando se aborde el mismo, cualquiera de las y los integrantes del Consejo General podrá solicitar se separe para su discusión en lo particular uno o más apartados, observándose en cada caso lo establecido en el artículo 32 del presente Reglamento.
+En el caso de que un punto del orden del día aprobado este integrado con varios apartados, cuando se aborde el mismo, cualquiera de las personas integrantes del Consejo General podrá solicitar se separe para su discusión en lo particular uno o más apartados, observándose en cada caso lo establecido en el artículo 32 del presente Reglamento.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 29.
 
-Las y los participantes del Consejo General, que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de acuerdo o resolución del propio órgano superior de dirección, podrán presentarlas por escrito a la Secretaria o el Secretario del Consejo, de manera previa, sin perjuicio de que durante la discusión del punto correspondiente puedan presentarse nuevas observaciones, de manera verbal.
+Las personas participantes del Consejo General, que tengan interés en realizar observaciones, sugerencias o propuestas de modificaciones a los proyectos de acuerdo o resolución del propio órgano superior de dirección, podrán presentarlas por escrito a la Secretaría del Consejo, de manera previa, sin perjuicio de que durante la discusión del punto correspondiente puedan presentarse nuevas observaciones, de manera verbal.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 30.
 
-Las y los participantes del Consejo General sólo podrán hacer uso de la palabra con la autorización previa de la Consejera Presidenta o Consejero Presidente del Consejo General.
+Las personas participantes del Consejo General sólo podrán hacer uso de la palabra con la autorización previa de la Presidencia del Consejo General.
 
-Las y los participantes del Consejo General no podrán ser interrumpidas o interrumpidos cuando se encuentren en uso de la palabra, salvo por la Consejera Presidenta o Consejero Presidente del Consejo General para señalarle que su tiempo, en los términos establecidos en este ordenamiento, ha concluido, o para exhortarle a que se conduzca dentro de los supuestos previstos por el Reglamento. Si el o la oradora se apartan del asunto en debate o hace referencias o alusiones que ofendan a cualquiera de las y los participantes del Consejo General, la Consejera Presidenta o Consejero Presidente del Consejo General lo hará notar.
+Las personas participantes del Consejo General no podrán ser interrumpidas cuando se encuentren en uso de la palabra, salvo por la Presidencia del Consejo General para señalarle que su tiempo, en los términos establecidos en este ordenamiento, ha concluido, o para exhortarle a que se conduzca dentro de los supuestos previstos por el Reglamento. Si la persona oradora se aparta del asunto en debate o hace referencias o alusiones que ofendan a cualquiera de las personas participantes del Consejo General, la Presidencia del Consejo General lo hará notar.
 
-En el curso de las deliberaciones, las y los participantes del Consejo General se abstendrán de entablar polémicas o debates en forma de diálogo con otra u otro participante del Consejo General.
+En el curso de las deliberaciones, las personas participantes del Consejo General se abstendrán de entablar polémicas o debates en forma de diálogo con otra persona participante del Consejo General.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 31.
 
-Cualquier integrante del Consejo General podrá realizar mociones a la oradora u orador que esté haciendo uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención.
+Cualquier persona integrante del Consejo General podrá realizar mociones a la persona oradora que esté haciendo uso de la palabra, con el objeto de hacerle una pregunta o solicitarle una aclaración sobre algún punto de su intervención. Las mociones a la persona oradora deberán dirigirse a la Presidencia del Consejo General y contar con la anuencia de la persona a quien se hace. Cada persona integrante podrá formular hasta dos mociones por cada uno de los puntos del orden del día.
 
-Las mociones a la oradora o el orador deberán dirigirse a la Consejera Presidenta o Consejero Presidente del Consejo General y contar con la anuencia de la persona a quien se hace. Cada integrante podrá formular hasta dos mociones por cada uno de los puntos del orden del día.
+En caso de ser aceptada, la intervención de la persona solicitante de la moción no podrá durar más de un minuto y para dar respuesta a la moción formulada, la persona oradora contará con un minuto.
 
-En caso de ser aceptada, la intervención de la o el solicitante de la moción no podrá durar más de un minuto y para dar respuesta a la moción formulada, la oradora o el orador contará con un minuto.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 32.
 
-Para la discusión de los asuntos comprendidos en el orden del día de la sesión de que se trate, la Consejera Presidenta o el Consejero Presidente del Consejo General elaborará una lista de oradoras y oradores conforme al orden en que se lo soliciten, de acuerdo a lo siguiente:
+Para la discusión de los asuntos comprendidos en el orden del día de la sesión de que se trate, la Presidencia del Consejo General elaborará una lista de personas oradoras conforme al orden en que se lo soliciten, de acuerdo a lo siguiente:
 
 I. En cada sesión del Consejo General habrá hasta tres rondas de participación, en donde sus participantes podrán intervenir una sola vez en cada una de ellas. Las rondas de opinión tendrán una duración máxima de hasta diez, cinco y tres minutos, respectivamente;
 
-II. Concluida la primera o segunda ronda y después de que hayan intervenido todas y todos los oradores que así desearan hacerlo, la Consejera Presidenta o Consejero Presidente del Consejo General preguntará si el punto está suficientemente discutido y en caso de no ser así, se abrirá la siguiente ronda, según corresponda. Bastará que sólo una o un participante del Consejo General pida la palabra, para que la segunda o tercera ronda se lleve a efecto;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-III. En caso de que en alguna de las rondas no se registre para intervenir, alguna o alguno de los participantes del Consejo General, se procederá a la votación del asunto, o se dará por enterado el Consejo General, según corresponda;
+II. Concluida la primera o segunda ronda y después de que hayan intervenido todas las personas oradoras que así desearan hacerlo, la Presidencia del Consejo General preguntará si el punto está suficientemente discutido y en caso de no ser así, se abrirá la siguiente ronda, según corresponda. Bastará que sólo una persona participante del Consejo General pida la palabra, para que la segunda o tercera ronda se lleve a efecto;
 
-IV. Adicionalmente, las Consejeras y los Consejeros Electorales y la Secretaria o el Secretario del Consejo podrán intervenir en cada una de las rondas para responder preguntas, aclarar dudas o hacer precisiones sobre el asunto que se esté tratando;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-V. La Consejera Presidenta o Consejero Presidente del Consejo General y las Consejeras y los Consejeros Electorales podrán intervenir para razonar el sentido de su voto, sin exceder de cinco minutos;
+III. En caso de que en alguna de las rondas no se registre para intervenir, alguna de las personas participantes del Consejo General, se procederá a la votación del asunto, o se dará por enterado el Consejo General, según corresponda;
 
-Para los efectos del Reglamento, se entenderá por voto razonado, el conjunto de argumentos personales expresados de manera verbal por la Consejera Presidenta o Consejero Presidente del Consejo General o por las Consejeras y los Consejeros Electorales, mediante los cuales den a conocer los motivos y razones del sentido de su decisión, respecto de un punto del orden del día; y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-VI. Tratándose de asuntos generales, las intervenciones se llevarán a cabo en dos rondas de participación, en los términos establecidos en la fracción I de este artículo, las cuales no podrán exceder de cinco minutos la primera y de tres minutos la segunda, por oradora u orador.
+IV. Adicionalmente, las personas Consejeras Electorales y la Secretaría del Consejo podrán intervenir en cada una de las rondas para responder preguntas, aclarar dudas o hacer precisiones sobre el asunto que se esté tratando;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+V. La Presidencia del Consejo General y las personas Consejeras Electorales podrán intervenir para razonar el sentido de su voto, sin exceder de cinco minutos;
+
+Para los efectos del Reglamento, se entenderá por voto razonado, el conjunto de argumentos personales expresados de manera verbal por la Presidencia del Consejo General o por las Consejeras y los Consejeros Electorales, mediante los cuales den a conocer los motivos y razones del sentido de su decisión, respecto de un punto del orden del día; y
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VI. Tratándose de asuntos generales, las intervenciones se llevarán a cabo en dos rondas de participación, en los términos establecidos en la fracción I de este artículo, las cuales no podrán exceder de diez minutos la primera y de cinco minutos la segunda, por persona oradora.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 33.
 
-Las y los participantes del Consejo General podrán solicitar el uso de la palabra a la Consejera Presidenta o Consejero Presidente del Consejo General, por un tiempo que no excederá de un minuto para responder a las alusiones personales, por una sola vez, concediéndose exclusivamente en la segunda y tercera rondas de intervenciones.
+Las personas participantes del Consejo General podrán solicitar el uso de la palabra a la Presidencia del Consejo General, por un tiempo que no excederá de un minuto para responder a las alusiones personales, por una sola vez, concediéndose en las tres rondas de intervenciones.
 
-Para el caso anterior, la Consejera Presidenta o Consejero Presidente del Consejo General otorgará el uso de la palabra, al finalizar la intervención de la oradora u orador en turno.
+Para el caso anterior, la Presidencia del Consejo General otorgará el uso de la palabra, al finalizar la intervención de la persona oradora en turno.
 
-Para efectos de este Reglamento, se entenderá por alusión personal, cualquier referencia nominal a una o un participante del Consejo General, respecto de sus opiniones expresadas durante el desarrollo de la discusión.
+Para efectos de este Reglamento, se entenderá por alusión personal, cualquier referencia nominal a una persona participante del Consejo General, respecto de sus opiniones expresadas durante el desarrollo de la discusión.
 
 #### SECCIÓN CUARTA. De las Votaciones
 
@@ -610,23 +724,31 @@ Para efectos de este Reglamento, se entenderá por alusión personal, cualquier 
 
 Los acuerdos y resoluciones del Consejo General se tomarán por mayoría de votos de sus integrantes presentes con derecho a ello, salvo en los casos que la ley exija mayoría calificada.
 
-Una vez iniciado el proceso de votación, la Consejera Presidenta o Consejero Presidente del Consejo General no podrá conceder el uso de la palabra para continuar con la discusión del asunto, salvo que se solicite alguna moción exclusivamente para aclaración del procedimiento.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Una vez iniciado el proceso de votación, la Presidencia del Consejo General no podrá conceder el uso de la palabra para continuar con la discusión del asunto, salvo que se solicite alguna moción exclusivamente para aclaración del procedimiento.
 
 Las Consejeras y los Consejeros Electorales votarán levantando la mano para expresar el sentido de su decisión.
 
 La votación se tomará en el siguiente orden: contando el número de votos a favor y el número de votos en contra. Cuando no haya unanimidad se asentará en el acta el sentido del voto de las Consejeras y los Consejeros Electorales.
 
-En caso de empate, la Consejera Presidenta o Consejero Presidente del Consejo General tendrá voto de calidad.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+En caso de empate, la Presidencia del Consejo General tendrá voto de calidad.
 
 ###### Artículo 35.
 
 Los asuntos contenidos en el orden del día serán discutidos y, en su caso, votados, salvo cuando el propio Consejo General acuerde, mediante votación, posponer la discusión o votación de algún asunto en particular, así como su devolución para su adecuación y posterior presentación al Consejo General.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 36.
 
-A solicitud de alguna o algún integrante del Consejo General se podrá dividir la votación de un asunto en lo general y en lo particular. En estos casos, en primer lugar, se procederá a votar en lo general y simultáneamente los puntos que no fueran motivo de desacuerdo.
+A solicitud de alguna persona integrante del Consejo General se podrá dividir la votación de un asunto en lo general y en lo particular. En estos casos, en primer lugar, se procederá a votar en lo general y simultáneamente los puntos que no fueran motivo de desacuerdo.
 
-Posteriormente, se tomará la votación en lo particular sobre los puntos restantes. En caso de que existiera más de un proyecto de acuerdo o resolución, la Secretaria o el Secretario del Consejo tomará la votación para cada uno de ellos en el orden en que hayan sido presentados.
+Posteriormente, se tomará la votación en lo particular sobre los puntos restantes.
+
+En caso de que existiera más de un proyecto de acuerdo o resolución, la Secretaría del Consejo tomará la votación para cada uno de ellos en el orden en que hayan sido presentados.
 
 ###### Artículo 37.
 
@@ -642,53 +764,71 @@ El voto particular, el voto concurrente y el voto razonado que en su caso formul
 
 #### SECCIÓN QUINTA. De las Ausencias e Inasistencias
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 38.
 
-Si transcurridos treinta minutos a la hora en que fue convocada la sesión del Consejo General, se verifica la ausencia de la Consejera Presidenta o Consejero Presidente, la persona titular de la Secretaría Ejecutiva declarará el inicio de la sesión y, acto seguido, consultará al Consejo General sobre la Consejera o el Consejero Electoral que designará para que presida.
+Si transcurridos treinta minutos después de la hora en que fue convocada la sesión del Consejo General, se verifica la ausencia de la Presidencia, la persona titular de la Secretaría Ejecutiva declarará el inicio de la sesión y, acto seguido, consultará al Consejo General sobre la Consejera o el Consejero Electoral que designará para que presida.
 
-Las ausencias momentáneas de la Consejera Presidenta o Consejero Presidente en las sesiones del Consejo General podrán suplirse por la Consejera o el Consejero Electoral que la propia Presidencia designe.
+Las ausencias momentáneas de la Presidencia en las sesiones del Consejo General podrán suplirse por la Consejera o el Consejero Electoral que la propia Presidencia designe.
 
-En caso de ausencia del titular de la Secretaría Ejecutiva, las funciones de Secretaria o Secretario del Consejo estarán a cargo de alguno de los Directores Ejecutivos designado por quien preside.
+En caso de ausencia de la Secretaría Ejecutiva, las funciones de la Secretaría del Consejo estarán a cargo de la persona titular de alguna de las Direcciones Ejecutivas designada por quien preside.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 39.
 
-En el supuesto de que alguna Consejera o algún Consejero Electoral se encuentre imposibilitada o imposibilitado para asistir a la sesión, deberá notificar tal circunstancia a la Consejera Presidenta o Consejero Presidente del Consejo General antes de iniciar la sesión respectiva.
+En el supuesto de que alguna persona Consejera Electoral se encuentre imposibilitada para asistir a la sesión, deberá notificar tal circunstancia a la Presidencia del Consejo General antes de iniciar la sesión respectiva.
 
 #### SECCIÓN SEXTA. De la Suspensión de las Sesiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-La Consejera Presidenta o Consejero Presidente del Consejo General, previa instrucción a la Secretaria o Secretario del Consejo para verificar y certificar la situación, podrá declarar la suspensión de la sesión, si se actualiza alguna de las causas siguientes:
+La Presidencia del Consejo General, previa instrucción a la Secretaría del Consejo para verificar y certificar la situación, podrá declarar la suspensión de la sesión, si se actualiza alguna de las causas siguientes:
 
 I. Cuando no exista quórum para celebrar la sesión del Consejo General, de conformidad con lo establecido por el Código;
 
-II. Cuando dejen de prevalecer las condiciones que garanticen el buen desarrollo de la sesión, la libre expresión de las ideas, o la seguridad de las y los integrantes del Consejo General; y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+II. Cuando dejen de prevalecer las condiciones que garanticen el buen desarrollo de la sesión, la libre expresión de las ideas, o la seguridad de las personas integrantes del Consejo General;
 
 III. Las demás que expresamente se establecen en el Reglamento.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 41.
 
-En caso de suspenderse la sesión, la Consejera Presidenta o Consejero Presidente del Consejo General citará para su continuación dentro de los mismos plazos a que se refiere el último párrafo del artículo 22 del Reglamento, o bien, cuando se haya superado la causa que motivó la suspensión.
+En caso de suspenderse la sesión, la Presidencia del Consejo General citará para su continuación dentro de los mismos plazos a que se refiere el último párrafo del artículo 22 del Reglamento, o bien, cuando se haya superado la causa que motivó la suspensión.
 
 #### SECCIÓN SÉPTIMA. De las Actas de Sesiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 42.
 
-De cada sesión se levantará un acta que contendrá los datos de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones y del voto de las y los integrantes del Consejo General con derecho a ello, así como los acuerdos y resoluciones aprobados.
+De cada sesión se levantará un acta que contendrá los datos de la sesión, la lista de asistencia, los puntos del orden del día, el sentido de las intervenciones y del voto de las personas integrantes del Consejo General con derecho a ello, así como los acuerdos y resoluciones aprobados.
 
-La Secretaria o Secretario del Consejo someterá el proyecto de acta de cada sesión al órgano superior de dirección del Instituto Electoral, para su aprobación en la siguiente sesión ordinaria, salvo cuando la misma se realice en días seguidos, o se refiera a la realización de los cómputos que por disposición de la ley deba efectuar, casos en que se presentará para su aprobación hasta la siguiente sesión.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+La Secretaría del Consejo someterá el proyecto de acta de cada sesión al órgano superior de dirección del Instituto Electoral, para su aprobación en la siguiente sesión ordinaria, salvo cuando la misma se realice en días seguidos, o se refiera a la realización de los cómputos que por disposición de la ley deba efectuar, casos en que se presentará para su aprobación hasta la siguiente sesión.
 
 El acta aprobada deberá incluir, en su caso, las modificaciones que el Consejo General haya acordado.
 
 Se elaborará una versión estenográfica que contendrá íntegramente lo tratado en la sesión, la cual servirá de base para la formulación del proyecto de acta a que alude este artículo, cuya elaboración será responsabilidad de la Secretaría del Consejo.
 
-Las versiones estenográficas no podrán ser modificadas. Las y los participantes del Consejo General podrán solicitar a la Secretaría del Consejo un ejemplar de la versión estenográfica.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Las versiones estenográficas no podrán ser modificadas. Las personas participantes del Consejo General podrán solicitar a la Secretaría del Consejo un ejemplar de la versión estenográfica.
 
 #### SECCIÓN OCTAVA. De la publicación de los acuerdos y resoluciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 43.
 
-Dentro de los plazos establecidos en el Código, la Secretaria o Secretario del Consejo deberá remitir en medio electrónico u óptico, los acuerdos y resoluciones aprobados a las y los participantes del Consejo General, órganos ejecutivos, técnicos y desconcentrados del Instituto Electoral, para su debido cumplimiento en el ámbito de sus atribuciones:
+Dentro de los plazos establecidos en el Código, la Secretaría del Consejo deberá remitir en medio electrónico u óptico, los acuerdos y resoluciones aprobados a las personas participantes del Consejo General, órganos ejecutivos, técnicos y desconcentrados del Instituto Electoral, para su debido cumplimiento en el ámbito de sus atribuciones:
 
 El Consejo General ordenará la publicación en la Gaceta Oficial de la Ciudad de México de los acuerdos y resoluciones que determine.
 
@@ -704,31 +844,47 @@ Salvo que el Código o el Consejo General establezcan un plazo especial, todos l
 
 Las Comisiones son instancias colegiadas con facultades de deliberación, opinión y propuesta. Estarán conformadas de la siguiente forma:
 
-I. Tres Consejeras y Consejeros Electorales con derecho a voz y voto, una o uno de ellos ocupará la Presidencia;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-II. Las y los representantes de partido serán integrantes con derecho a voz, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización y en ningún caso conformarán quórum;
+I. Tres Personas Consejeras Electorales con derecho a voz y voto, una de ellas ocupará la Presidencia;
 
-III. Las y los representantes de candidatas o candidatos con acreditación a partir de su registro y exclusivamente durante el proceso electoral, contarán con derecho a voz, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización y no conformarán quórum; y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-IV. Las invitadas e invitados permanentes, durante los procesos electorales, se integrarán a los trabajos de las Comisiones de Organización Electoral y Geoestadística, y de Participación Ciudadana y Capacitación, así como a los trabajos de las Comisiones Provisionales previstas en el artículo 71 del Código, sólo con derecho a voz, su intervención únicamente estará vinculada al proceso electoral y no contarán para efectos del quórum.
+II. Las representaciones de partido serán integrantes con derecho a voz, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización y en ningún caso conformarán quórum;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+III. Las representaciones de candidaturas con acreditación a partir de su registro y exclusivamente durante el proceso electoral, contarán con derecho a voz, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización y no conformarán quórum; y
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+IV. Las personas invitadas permanentes, durante los procesos electorales, se integrarán a los trabajos de las Comisiones de Organización Electoral y Geoestadística, y de Participación Ciudadana y Capacitación, así como a los trabajos de las Comisiones Provisionales previstas en el artículo 71 del Código, sólo con derecho a voz, su intervención únicamente estará vinculada al proceso electoral y no contarán para efectos del quórum.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 45.
 
-Las Comisiones contarán con una Secretaria o Secretario Técnico sólo con derecho a voz.
+Las Comisiones contarán con una Secretaría Técnica sólo con derecho a voz.
 
 ### CAPÍTULO II. De las Atribuciones de sus Integrantes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 46.
 
-Corresponde a las Consejeras Presidentas y Consejeros Presidentes de las Comisiones:
+Corresponde a las Presidencias de las Comisiones:
 
-I. Convocar a las y los integrantes de la Comisión y presidir las sesiones;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Convocar o en su caso, instruir a la Secretaría Técnica a fin de que convoque a las personas integrantes de la Comisión y presidir las sesiones;
 
 II. Asistir a las sesiones de su Comisión;
 
 III. Participar en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate;
 
-IV. Proponer a la Secretaria o Secretario Técnico, conforme a lo establecido en este Reglamento;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+IV. Proponer a la Secretaría Técnica, conforme a lo establecido en este Reglamento;
 
 V. Declarar el inicio y término de las sesiones;
 
@@ -742,9 +898,13 @@ IX. Conducir las sesiones y conceder el uso de la palabra;
 
 X. Proponer acuerdos o modificaciones a los documentos que se analicen en la sesión;
 
-XI. Consultar, en su caso, a las y los integrantes de la Comisión, si el asunto del orden del día que se está analizando ha sido suficientemente discutido;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-XII. Solicitar a la Secretaria o Secretario Técnico someter a votación los proyectos de acuerdo y resolución;
+XI. Consultar, en su caso, a las personas integrantes de la Comisión, si el asunto del orden del día que se está analizando ha sido suficientemente discutido;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XII. Solicitar a la Secretaría Técnica someter a votación los proyectos de acuerdo y resolución;
 
 XIII. Contribuir al correcto desarrollo de las sesiones;
 
@@ -756,7 +916,9 @@ XVI. Declarar, por causas de fuerza mayor o caso fortuito, la suspensión tempor
 
 XVII. Firmar las minutas de las sesiones a las que haya asistido;
 
-XVIII. Solicitar y recibir, por conducto de la Secretaria o Secretario Ejecutivo del Instituto Electoral la colaboración, informes y documentos necesarios para el cumplimiento de los asuntos de su competencia. En caso de que, para el desarrollo de una sesión, la Comisión requiriera de un documento urgente, la Consejera Presidenta o Consejero Presidente de la misma podrá solicitarlo directamente a quien ostente la titularidad del área que corresponda; y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XVIII. Solicitar y recibir, por conducto de la Secretaría Ejecutiva del Instituto Electoral la colaboración, informes y documentos necesarios para el cumplimiento de los asuntos de su competencia. En caso de que, para el desarrollo de una sesión, la Comisión requiriera de un documento urgente, la Presidencia de la misma podrá solicitarlo directamente a quien ostente la titularidad del área que corresponda; y
 
 XIX. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
@@ -780,19 +942,25 @@ VII. Firmar las minutas de las sesiones a las que haya asistido; y
 
 VIII. Las demás que les confiera el Código, el Reglamento Interior y la normativa que rige al Instituto Electoral.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 48.
 
-Las Presidentas o Presidentes de las Comisiones tienen la facultad de proponer como Titular de la Secretaría Técnica de su Comisión a una servidora o un servidor público con adscripción a su oficina, que tenga un perfil profesional acorde con los trabajos de la Comisión en la que se desempeñará o quien ostente la titularidad de la Dirección Ejecutiva o Unidad Técnica de la materia más afín.
+Las Presidencias de las Comisiones tienen la facultad de proponer como Titular de la Secretaría Técnica de su Comisión a una persona servidora pública con adscripción a su oficina, que tenga un perfil profesional acorde con los trabajos de la Comisión en la que se desempeñará o quien ostente la titularidad de la Dirección Ejecutiva o Unidad Técnica de la materia más afín.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 49.
 
-Corresponde a las Secretarias o Secretarios Técnicos:
+Corresponde a las Secretarías Técnicas:
 
 I. Asistir a las sesiones de las Comisiones;
 
 II. Preparar la documentación para la realización de las sesiones de las comisiones;
 
-III. Enviar, por instrucción de la Consejera Presidenta o Consejero Presidente de la Comisión: documentos, invitaciones a reuniones de trabajo, convocatorias a las sesiones de la Comisión y demás documentos que sean necesarios para el desarrollo de los trabajos de la Comisión;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+III. Por instrucción de la Presidencia de la Comisión, convocar a las sesiones y enviar documentos, invitaciones a reuniones de trabajo, y demás documentos que sean necesarios para el desarrollo de los trabajos de la Comisión;
 
 IV. Pasar lista de asistencia al inicio de cada sesión;
 
@@ -802,9 +970,9 @@ VI. Participar en la discusión de los asuntos contenidos en el orden del día d
 
 VII. Tomar las votaciones y dar a conocer los resultados de las mismas;
 
-> <small>(F. DE E., G.O. 14 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Apoyar a la Consejera Presidenta o Consejero Presidente de la Comisión durante el desarrollo de las sesiones;
+VIII. Apoyar a la Presidencia de la Comisión durante el desarrollo de las sesiones;
 
 IX. Llevar un registro de los dictámenes, acuerdos y resoluciones adoptados en cada sesión;
 
@@ -818,15 +986,21 @@ XIII. Dar cuenta de los escritos que se presenten a la Comisión;
 
 XIV. Verificar el cumplimiento de los acuerdos adoptados por la Comisión;
 
-XV. Informar sobre el cumplimiento de los acuerdos y resoluciones de la Comisión cuando lo solicite alguna o alguno de sus integrantes;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XV. Informar sobre el cumplimiento de los acuerdos y resoluciones de la Comisión cuando lo solicite alguna persona integrante;
 
 XVI. Llevar el archivo de la Comisión; y
 
-XVII. Las demás que les confiera el Código, el Reglamento Interior, la Consejera Presidenta o Consejero Presidente de su Comisión y la normativa que rige al Instituto Electoral.
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+XVII. Las demás que les confiera el Código, el Reglamento Interior, la Presidencia de su Comisión y la normativa que rige al Instituto Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 50.
 
-Corresponde a las y los Representantes de partido:
+Corresponde a las Representaciones de partido:
 
 I. Asistir a las sesiones de las Comisiones;
 
@@ -840,19 +1014,25 @@ V. Manifestarse libremente sobre los temas que se traten en las sesiones;
 
 VI. Contribuir al correcto desarrollo de las sesiones;
 
-VII. Alternarse durante el desarrollo de las sesiones, entre propietaria o propietario y suplente, si lo consideran necesario; y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VII. Alternarse durante el desarrollo de las sesiones, entre persona propietaria o suplente, si lo consideran necesario; y
 
 VIII. Las demás que les confiera el Código, el Reglamento y demás normativa que rige al Instituto Electoral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 51.
 
-Corresponde a las y los representantes de candidatas o candidatos:
+Corresponde a las Representaciones de candidatura:
 
 I. Asistir a las sesiones de las Comisiones donde se traten asuntos relacionados con la elección de la Jefatura de Gobierno;
 
 II. Participar sólo en la discusión de los asuntos contenidos en el orden del día de la sesión de que se trate vinculados con la elección de la Jefatura de Gobierno;
 
-III. Ser convocadas y convocados oportunamente y recibir la documentación respectiva;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+III. Ser convocadas oportunamente y recibir la documentación respectiva;
 
 IV. Proponer acuerdos o modificaciones a los documentos que se analicen en la sesión, siempre y cuando se traten de asuntos relacionados con la elección de la Jefatura de Gobierno;
 
@@ -860,7 +1040,9 @@ V. Manifestarse libremente sobre los temas que se traten en las sesiones, exclus
 
 VI. Contribuir al correcto desarrollo de las sesiones;
 
-VII. Alternarse durante el desarrollo de las sesiones, entre propietaria o propietario y suplente, si lo consideran necesario; y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VII. Alternarse durante el desarrollo de las sesiones, entre propietaria y suplente, si lo consideran necesario; y
 
 VIII. Las demás que les confiera el Código, el Reglamento y demás normativa que rige al Instituto Electoral.
 
@@ -868,11 +1050,17 @@ VIII. Las demás que les confiera el Código, el Reglamento y demás normativa q
 
 Las Consejeras y los Consejeros Electorales tendrán impedimento para intervenir, en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tengan interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él o ella, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros o terceras con los que tenga relaciones profesionales, laborales o de negocios, o para socias, socios o sociedades de las que la persona servidora pública o las demás personas referidas, formen o hayan formado parte.
 
-Cuando las Consejeras y los Consejeros Electorales se encuentren en alguno de los supuestos enunciados en el párrafo anterior, deberán excusarse.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Cuando las personas Consejeras Electorales se encuentren en alguno de los supuestos enunciados en el párrafo anterior, deberán excusarse.
+
+(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MAYO DE 2017), G.O. 12 DE NOVIEMBRE DE 2019)
 
 Para el conocimiento y la calificación del impedimento, se observarán las reglas particulares siguientes:
 
-I. Deberá presentar a la Secretaria o Secretario Técnico, previamente al inicio de la discusión del punto correspondiente, un escrito en el cual exponga, de manera fundada y motivada, las consideraciones fácticas y/o legales por las que no pueda conocer el asunto; y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Deberá presentar a la Secretaría Técnica, previamente al inicio de la discusión del punto correspondiente, un escrito en el cual exponga, de manera fundada y motivada, las consideraciones fácticas y/o legales por las que no pueda conocer el asunto; y
 
 II. La Comisión deberá resolver de inmediato respecto de la procedencia de la excusa que se haga valer.
 
@@ -890,7 +1078,9 @@ II. En el orden del día se incluirá un punto de asuntos generales a tratar, en
 
 B) Las sesiones extraordinarias se sujetarán a lo siguiente:
 
-I. Serán convocadas y convocados por la Consejera Presidenta o Consejero Presidente de la Comisión cuando lo estime necesario o a petición que le formulen la mayoría de las Consejeras y los Consejeros Electorales que la integren;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Serán convocadas las personas integrantes por la Presidencia de la Comisión cuando lo estime necesario o a petición que le formulen la mayoría de las personas Consejeras Electorales que la integren;
 
 II. Tendrán por objeto tratar asuntos que por su importancia o naturaleza para los fines del Instituto Electoral, no puedan esperar a ser desahogados en la siguiente sesión ordinaria; y
 
@@ -898,29 +1088,43 @@ III. Solamente podrán tratarse aquellos asuntos para los que se les convocó.
 
 C) Las sesiones urgentes se sujetarán a lo siguiente:
 
-I. Serán convocadas y convocados por la Consejera Presidenta o Consejero Presidente de la Comisión cuando lo estime necesario o a petición de la mayoría de las Consejeras y los Consejeros Electorales que la integren;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+I. Serán convocadas las personas integrantes por la Presidencia de la Comisión cuando lo estime necesario o a petición de la mayoría de las personas Consejeras Electorales que la integren;
 
 II. Tendrán por objeto tratar asuntos específicos que por su importancia y carácter urgente para los fines del Instituto Electoral, deben ser atendidos de manera inmediata; y
 
 III. Solamente podrán tratarse aquellos asuntos para los que se convocó.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 54.
 
-Para la discusión de los asuntos comprendidos en el orden del día de la sesión de que se trate, la Consejera Presidenta o Consejero Presidente de la Comisión elaborará una lista de oradoras y oradores conforme al orden en que se lo soliciten, de acuerdo a lo siguiente:
+Para la discusión de los asuntos comprendidos en el orden del día de la sesión de que se trate, la Presidencia de la Comisión elaborará una lista de personas oradoras conforme al orden en que se lo soliciten, de acuerdo a lo siguiente:
 
 I. En cada sesión, habrá hasta tres rondas de participación, en donde sus asistentes podrán intervenir una sola vez en cada una de ellas. Las rondas de opinión tendrán una duración máxima de hasta ocho, cuatro y dos minutos, respectivamente;
 
-II. En cada una de las rondas y después de que hayan intervenido todas las oradoras y todos los oradores que así desearan hacerlo, la Consejera Presidenta o Consejero Presidente de la Comisión preguntará si el punto está suficientemente discutido y en caso de no ser así, se realizará una segunda o tercera ronda, según corresponda. Bastará que una sola o un solo asistente de la Comisión pida la palabra, para que la segunda o tercera ronda se lleve a efecto;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+II. En cada una de las rondas y después de que hayan intervenido todas las personas oradoras que así desearan hacerlo, la Presidencia de la Comisión preguntará si el punto está suficientemente discutido y en caso de no ser así, se realizará una segunda o tercera ronda, según corresponda. Bastará que una sola persona asistente de la Comisión pida la palabra, para que la segunda o tercera ronda se lleve a efecto;
 
 III. En caso de que en alguna de las rondas no se registren para intervenir ninguna o ninguno de los asistentes de la Comisión, se procederá a la votación del asunto, o se dará por enterada la Comisión, según corresponda;
 
-IV. Adicionalmente, las Consejeras y los Consejeros Electorales y la Secretaria o el Secretario Técnico podrán intervenir en cada una de las rondas para responder preguntas, aclarar dudas o hacer precisiones sobre el asunto que se esté tratando;
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-V. La Consejera Presidenta o el Consejero Presidente de la Comisión y las Consejeras y los Consejeros Electorales podrán intervenir para razonar el sentido de su voto, sin exceder de tres minutos;
+IV. Adicionalmente, las personas Consejeras Electorales y la Secretaría Técnica podrán intervenir en cada una de las rondas para responder preguntas, aclarar dudas o hacer precisiones sobre el asunto que se esté tratando;
 
-VI. Para los efectos del Reglamento, se entenderá por voto razonado, el conjunto de argumentos personales expresados de manera verbal por la Consejera Presidenta o el Consejero Presidente de la Comisión o por las Consejeras y los Consejeros Electorales, mediante los cuales den a conocer los motivos y razones del sentido de su decisión, respecto de un punto del orden del día; y
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
-VII. Tratándose de asuntos generales, las intervenciones se llevarán a cabo en dos rondas de participación, en los términos establecidos en el primer párrafo de este artículo, las cuales no podrán exceder por oradora u orador, de cinco y tres minutos, respectivamente.
+V. La Presidencia de la Comisión y las personas Consejeras Electorales podrán intervenir para razonar el sentido de su voto, sin exceder de tres minutos;
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VI. Para los efectos del Reglamento, se entenderá por voto razonado, el conjunto de argumentos personales expresados de manera verbal por la Presidencia de la Comisión o por las Consejeras y los Consejeros Electorales, mediante los cuales den a conocer los motivos y razones del sentido de su decisión, respecto de un punto del orden del día; y
+
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+VII. Tratándose de asuntos generales, las intervenciones se llevarán a cabo en dos rondas de participación, en los términos establecidos en el primer párrafo de este artículo, las cuales no podrán exceder por persona oradora, de cinco y tres minutos, respectivamente.
 
 ###### Artículo 55.
 
@@ -934,23 +1138,31 @@ Las convocatorias a las sesiones ordinarias serán emitidas por lo menos con set
 
 Las Comisiones podrán declararse en sesión permanente por mayoría de votos de las Consejeras y los Consejeros Electorales que las integren, para tratar los asuntos que así lo requieran. La sesión concluirá una vez que se hayan desahogado los asuntos que motivaron la declaración.
 
-La Consejera Presidenta o Consejero Presidente de la Comisión deberá remitir a la Presidencia del Consejo General y a la Secretaría Ejecutiva del Instituto Electoral, copia de la convocatoria y de los documentos que se anexen.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+La Presidencia de la Comisión deberá remitir a la Presidencia del Consejo General y a la Secretaría Ejecutiva del Instituto Electoral, copia de la convocatoria y de los documentos que se anexen.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 58.
 
-En el supuesto de que la Consejera Presidenta o Consejero Presidente de la Comisión no asista a la sesión a la que haya convocado, o se ausente definitivamente de la sesión, ésta será presidida por la Consejera o el Consejero Electoral que siga en la prelación establecida en el acuerdo de integración de la Comisión de que se trate.
+En el supuesto de que la Presidencia de la Comisión no asista a la sesión a la que haya convocado, o se ausente definitivamente de la sesión, ésta será presidida por la Consejera o el Consejero Electoral que siga en la prelación establecida en el acuerdo de integración de la Comisión de que se trate.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 59.
 
-Las y los integrantes de las Comisiones podrán proponer la inclusión de asuntos en el orden del día de una sesión, dentro de las doce horas siguientes a la fecha en que reciba la convocatoria para la misma. Por lo que hace a las y los representantes de candidatas o candidatos, sólo podrán proponer temas relacionados con la elección de la Jefatura de Gobierno.
+Las personas integrantes de las Comisiones podrán proponer la inclusión de asuntos en el orden del día de una sesión, dentro de las doce horas siguientes a la fecha en que reciba la convocatoria para la misma. Por lo que hace a las representaciones de candidaturas, sólo podrán proponer temas relacionados con la elección de la Jefatura de Gobierno.
 
-La Consejera Presidenta o Consejero Presidente, cuando resulte procedente, incluirá el asunto solicitado en el orden del día correspondiente.
+La Presidencia de la Comisión, cuando resulte procedente, incluirá el asunto solicitado en el orden del día correspondiente.
 
 ### CAPÍTULO IV. Del Inicio y Desarrollo de las Sesiones
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 60.
 
-En el día y hora fijado para la sesión se reunirán las y los integrantes de la Comisión, la Consejera Presidenta o Consejero Presidente de la Comisión declarará el inicio de la sesión, previa verificación de asistencia certificación del quórum por parte de la Secretaria o Secretario Técnico.
+En el día y hora fijado para la sesión se reunirán las personas integrantes de la Comisión, la Presidencia de la Comisión declarará el inicio de la sesión, previa verificación de asistencia y certificación del quórum por parte de la Secretaría Técnica.
 
 ###### Artículo 61.
 
@@ -960,47 +1172,67 @@ Si llegada la hora prevista para la sesión no se reúne el quórum, se dará un
 
 Dicha sesión se celebrará dentro de las doce horas siguientes durante los procesos electorales y procedimientos de participación ciudadana o dentro de las veinticuatro horas siguientes fuera de ellos, con las Consejeras y los Consejeros Electorales que concurran a ella.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 62.
 
-La Consejera Presidenta o Consejero Presidente podrá declarar la suspensión temporal de la sesión de la Comisión si se presenta alguna de las causas siguientes:
+La Presidencia de la Comisión podrá declarar la suspensión temporal de la sesión si se presenta alguna de las causas siguientes:
 
 I. No existan las condiciones que garanticen el buen desarrollo de la sesión;
 
 II. Exista alteración del orden; y
 
-III. Cuando lo solicite alguna o algún integrante de la Comisión, y lo apruebe la mayoría de sus integrantes presentes con derecho a voto.
+> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+III. Cuando lo solicite alguna persona integrante de la Comisión, y lo apruebe la mayoría de sus integrantes presentes con derecho a voto.
 
 En caso de suspensión de la sesión, se asentarán en la minuta respectiva las causas que dieron origen a la misma; los asuntos ya discutidos y, en su caso, votados; así como los puntos del orden del día que quedaron pendientes, los cuales serán tratados en la reanudación de la sesión. La sesión se reanudará cuando se hayan superado las causas que motivaron la suspensión.
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 63.
 
-Cuando el tratamiento de los asuntos de las Comisiones así lo requiera, podrá solicitarse la intervención de invitadas e invitados con derecho a voz, previo acuerdo de la Comisión respectiva.
+Cuando el tratamiento de los asuntos de las Comisiones así lo requiera, podrá solicitarse la intervención de personas invitadas con derecho a voz, previo acuerdo de la Comisión respectiva.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 64.
 
-Durante la sesión, los asuntos serán discutidos y, en su caso, votados conforme al orden del día. La Comisión podrá posponer la discusión o votación de algún asunto en particular si así lo acuerdan la mayoría de sus integrantes. A solicitud de algún o alguna integrante de la Comisión, la votación de un asunto se podrá dividir en lo general y en lo particular.
+Durante la sesión, los asuntos serán discutidos y, en su caso, votados conforme al orden del día. La Comisión podrá posponer la discusión o votación de algún asunto en particular si así lo acuerdan la mayoría de sus integrantes. A solicitud de alguna persona integrante de la Comisión, la votación de un asunto se podrá dividir en lo general y en lo particular.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 65.
 
-Para hacer uso de la palabra, las y los integrantes de la Comisión deberán solicitarlo a la Consejera Presidenta o Consejero Presidente de la Comisión. Una vez iniciada su intervención, no serán interrumpidas o interrumpidos excepto por la Consejera Presidenta o Consejero Presidente de la Comisión, para exhortarles a que se conduzcan dentro de los supuestos previstos por el Reglamento.
+Para hacer uso de la palabra, las personas integrantes de la Comisión deberán solicitarlo a la Presidencia de la Comisión. Una vez iniciada su intervención, no serán interrumpidas o interrumpidos excepto por la Presidencia de la Comisión, para exhortarles a que se conduzcan dentro de los supuestos previstos por el Reglamento.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 66.
 
-Los informes, dictámenes, acuerdos o proyectos de resolución de la Comisión, se asumirán por mayoría de votos de las Consejeras y los Consejeros Electorales presentes que integran dicha Comisión. En caso de empate, la Consejera Presidenta o Consejero Presidente de la Comisión tendrá voto de calidad.
+Los informes, dictámenes, programas de trabajo anuales, acuerdos o proyectos de resolución de la Comisión se asumirán por mayoría de votos de las personas Consejeras Electorales presentes que integran dicha Comisión. En caso de empate, la Presidencia de la Comisión tendrá voto de calidad.
 
 ### CAPÍTULO V. De las Minutas de las Sesiones
 
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 67.
 
-De cada sesión de las Comisiones se elaborará una minuta que contendrá la fecha de la sesión, hora de inicio y conclusión, la lista de asistencia, los puntos del orden del día, una síntesis de las intervenciones, la denominación e identificación de las determinaciones adoptadas y el sentido del voto de las y los integrantes de la Comisión.
+De cada sesión de las Comisiones se elaborará una minuta que contendrá la fecha de la sesión, hora de inicio y conclusión, la lista de asistencia, los puntos del orden del día, una síntesis de las intervenciones, la denominación e identificación de las determinaciones adoptadas y el sentido del voto de las personas integrantes de la Comisión.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 68.
 
-La Consejera Presidenta o Consejero Presidente de la Comisión deberá incluir en el orden del día de la siguiente Sesión Ordinaria, un punto relativo a la aprobación de la minuta de la sesión anterior.
+La Presidencia de la Comisión deberá incluir en el orden del día de la siguiente Sesión Ordinaria, un punto relativo a la aprobación de la minuta de la sesión anterior.
+
+La minuta será firmada por las personas Consejeras Electorales que hayan asistido a la sesión que se hace referencia en la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 69.
 
-Dentro de las cuarenta y ocho horas siguientes a la conclusión de cada sesión, las Consejeras Presidentas o Consejeros Presidentes de las Comisiones deberán enviar a la Consejera Presidenta o Consejero Presidente del Consejo General y a la Secretaria o Secretario Ejecutivo del Instituto Electoral, la minuta aprobada por las y los integrantes de la Comisión.
+Dentro de las cuarenta y ocho horas siguientes a la conclusión de cada sesión, las Presidencias de las Comisiones deberán enviar a la Presidencia del Consejo General y a la Secretaría Ejecutiva del Instituto Electoral, la minuta aprobada por las personas integrantes de la Comisión.
 
 Asimismo, dichas minutas deberán difundirse en términos de la normativa en materia de Transparencia y Acceso a la Información Pública.
 
@@ -1010,11 +1242,15 @@ Asimismo, dichas minutas deberán difundirse en términos de la normativa en mat
 
 Dos o más Comisiones podrán sesionar en forma conjunta como Comisiones Unidas para analizar asuntos de sus respectivas competencias cuyo desahogo se encuentre vinculado, con objeto de fortalecer la articulación y agilidad de los trabajos del Instituto Electoral.
 
-Una vez que las Comisiones Unidas concluyan los trabajos para los cuales fueron integradas, deberán elaborar y aprobar un acta de cierre de los trabajos, que contenga un resumen ejecutivo de los acuerdos adoptados.
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
+
+Una vez que las Comisiones Unidas concluyan los trabajos para los cuales fueron integradas, deberán elaborar y aprobar acta de cierre de los trabajos, así como rendir un informe sobre las actividades realizadas, en el que incluya una valoración cuantitativa y cualitativa respecto del cumplimiento de la tarea encomendada.
+
+> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 71.
 
-La Presidencia de dichas Comisiones Unidas recaerá en la Consejera Presidenta o Consejero Presidente que las mismas Comisiones designen, quien a su vez designará a la Secretaria o el Secretario Técnico de la misma, a efecto de que elabore la convocatoria correspondiente y desempeñe las demás labores inherentes al cargo que le fue conferido.
+La Presidencia de dichas Comisiones Unidas recaerá en la Presidencia que las mismas Comisiones designen, quien a su vez designará a la Secretaría Técnica de la misma, a efecto de que elabore la convocatoria correspondiente y desempeñe las demás labores inherentes al cargo que le fue conferido.
 
 ###### Artículo 72.
 
@@ -1043,3 +1279,13 @@ G.O. 14 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA EXPEDICIÓN Y ENTRADA EN VIGOR DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO, APROBADO EN SESIÓN PÚBLICA EL CUATRO DE AGOSTO DE DOS MIL DIECISIETE. (ACLARACIÓN)".]
 
 ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 12 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL Y COMISIONES DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO, CON MOTIVO DE LA ACTUALIZACIÓN NORMATIVA DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Las reformas al presente Reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México
