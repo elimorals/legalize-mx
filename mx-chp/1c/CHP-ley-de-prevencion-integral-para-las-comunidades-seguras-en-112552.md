@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-prevencion-integral-para-las-comunidades-seguras-en-1125
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2019-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE PREVENCION INTEGRAL PARA LAS COMUNIDADES SEGURAS EN EL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 018 POR EL QUE SE ABROGA LA LEY DE PREVENCIÓN INTEGRAL PARA LAS COMUNIDADES SEGURAS EN EL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PREVENCIÓN INTEGRAL PARA LAS COMUNIDADES SEGURAS EN EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 31 de diciembre de 2015.
 
@@ -446,3 +448,13 @@ Dado en el Salón de Sesiones del Honorable Congreso del Estado Libre y Soberano
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas, a los 22 días del mes de diciembre del año dos mil quince.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 018 POR EL QUE SE ABROGA LA LEY DE PREVENCIÓN INTEGRAL PARA LAS COMUNIDADES SEGURAS EN EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente Decreto.
