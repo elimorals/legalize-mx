@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2019-10-23"
+last_updated: "2019-11-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2019.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -811,9 +811,17 @@ m) Dictámenes expedidos por el ISSSTE;
 
 n) Copia certificada por la oficina del Registro Civil correspondiente del acta de defunción del servidor público o el documento homólogo en caso de fallecimiento en el extranjero;
 
-o) Formato original de solicitud de inscripción individual al Fondo de Ahorro Capitalizable de los Trabajadores al Servicio del Estado, en su caso; y
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL FORMATO PARA LA DESIGNACIÓN DE BENEFICIARIOS PARA EL PAGO DE SALARIOS Y PRESTACIONES LABORALES A LIQUIDAR A LOS BENEFICIARIOS, EN CASO DE FALLECIMIENTO DEL SERVIDOR PÚBLICO, D.O.F. 13 DE NOVIEMBRE DE 2019)</small>
 
-p) Acuse del oficio para solicitar el pago por concepto de ayuda de gastos funerarios, pago de defunción, ayuda por invalidez y estímulo por jubilación.
+o) Formato original de solicitud de inscripción individual al Fondo de Ahorro Capitalizable de los Trabajadores al Servicio del Estado, en su caso;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL FORMATO PARA LA DESIGNACIÓN DE BENEFICIARIOS PARA EL PAGO DE SALARIOS Y PRESTACIONES LABORALES A LIQUIDAR A LOS BENEFICIARIOS, EN CASO DE FALLECIMIENTO DEL SERVIDOR PÚBLICO, D.O.F. 13 DE NOVIEMBRE DE 2019)</small>
+
+p) Formato para la designación de beneficiarios para el pago de salarios y prestaciones laborales a liquidar a los beneficiarios, en caso de fallecimiento del servidor público; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO] POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL FORMATO PARA LA DESIGNACIÓN DE BENEFICIARIOS PARA EL PAGO DE SALARIOS Y PRESTACIONES LABORALES A LIQUIDAR A LOS BENEFICIARIOS, EN CASO DE FALLECIMIENTO DEL SERVIDOR PÚBLICO, D.O.F. 13 DE NOVIEMBRE DE 2019)</small>
+
+q) Acuse del oficio para solicitar el pago por concepto de ayuda de gastos funerarios, pago de defunción, ayuda por invalidez y estímulo por jubilación.
 
 III. Documentación disciplinaria:
 
@@ -13308,3 +13316,15 @@ SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y
 TERCERO. Los asuntos y procedimientos que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo, deberán concluirse conforme a las disposiciones con las que fueron iniciados.
 
 CUARTO. Los testigos sociales registrados ante el Consejo de la Judicatura Federal, mantendrán su registro con la vigencia en la que fue otorgado.
+
+D.O.F. 13 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON EL FORMATO PARA LA DESIGNACIÓN DE BENEFICIARIOS PARA EL PAGO DE SALARIOS Y PRESTACIONES LABORALES A LIQUIDAR A LOS BENEFICIARIOS, EN CASO DE FALLECIMIENTO DEL SERVIDOR PÚBLICO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Dirección General de Recursos Humanos verificará que el personal de nuevo ingreso suscriba el formato correspondiente dentro del procedimiento para su alta como servidor público.
+
+CUARTO. La Dirección General de Recursos Humanos contará con un plazo de tres meses, para instrumentar las acciones necesarias a efecto de que todas y todos los servidores públicos que se encuentren en activo llenen el formato correspondiente.
