@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transito-y-vialidad-del-estado-de-yucatan-79786"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-22"
-last_updated: "2018-04-30"
+last_updated: "2019-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Gobierno del Estado de Yucatán, el martes 22 de febrero de 2011.
 
@@ -504,6 +504,14 @@ El Reglamento establecerá los conocimientos, habilidades y el procedimiento que
 Durante el proceso de expedición o renovación de licencia se le podrá preguntar al Conductor si desea ser donador de órganos o tejidos, en caso afirmativo se deberá indicar esta circunstancia en la licencia.
 
 La Secretaría deberá proporcionar al Registro Estatal de Trasplantes, los datos generales de las personas que hayan aceptado ser donadores de órganos o tejidos al momento de la expedición de la licencia de conducir.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 31 Bis.
+
+Además de los requisitos exigidos para la expedición de licencias o permisos de conducir, el interesado deberá aprobar el examen de pericia y capacidad suficiente en el manejo del vehículo correspondiente, mediante una prueba práctica realizada por el área encargada de la Secretaría, habilitando los espacios que se consideren adecuados para tal fin y que permita comprobar de manera fehaciente que los interesados cumplen cabalmente con este requisito.
+
+En términos del párrafo anterior, se entenderá por pericia a la capacidad suficiente para demostrar o acreditar la conducción de un vehículo automotor en los lugares o espacios habilitados para ello, con la finalidad de obtener la licencia de conducir.
 
 ###### Artículo 32.
 
@@ -1150,3 +1158,11 @@ D.O. 30 DE ABRIL DE 2018.
 Artículo único. Entrada en vigor
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el diario oficial del estado.
+
+D.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 110/2019 POR EL QUE SE MODIFICA LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN".]
+
+Artículo Primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
