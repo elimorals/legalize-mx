@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2019-07-31"
+last_updated: "2019-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -91,9 +91,9 @@ El Estado tiene una composición pluricultural sustentada originalmente en el pu
 
 El derecho a la identidad constituye uno de los cimientos del desarrollo de la cultura maya, por lo que la conciencia de esta identidad es el criterio fundamental para determinar que a una persona le son aplicables las disposiciones sobre el pueblo maya yucateco y sus comunidades.
 
-> <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-Los derechos sociales del pueblo maya, se ejercerán de manera directa, a través de sus representantes, o de las autoridades establecidas.
+Los derechos sociales del pueblo maya, se ejercerán de manera directa, a través de sus representantes, o de las autoridades establecidas. En la elección de sus representantes ante los ayuntamientos se observará el principio de paridad de género.
 
 > <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
@@ -355,7 +355,9 @@ Apartado A. De los Partidos Políticos y Agrupaciones Políticas.
 
 Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal, las formas específicas de su participación en el proceso electoral, los derechos, obligaciones y prerrogativas que les corresponden, así como las reglas para garantizar la paridad de género en la asignación de candidaturas a diputados y de candidaturas para ayuntamientos, en sus dimensiones horizontal y vertical.
 
-Son fines esenciales de los partidos políticos: promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política estatal y, como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público; de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Son fines esenciales de los partidos políticos: promover la participación del pueblo en la vida democrática, contribuir a la integración paritaria de los órganos de representación política estatal y, como organizaciones de ciudadanos, hacer posible el acceso de estos al ejercicio del poder público; de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo.
 
 Solo los ciudadanos, de manera libre e individual, podrán afiliarse a los partidos y agrupaciones políticas; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa a ellos.
 
@@ -363,7 +365,9 @@ Los partidos políticos tendrán el derecho de solicitar el registro de candidat
 
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta constitución y las leyes respectivas.
 
-En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, fórmulas, planillas o listas, por sí mismos, en coalición o en candidatura común con otros partidos.
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+En los procesos electorales los partidos políticos tendrán derecho a postular candidatos, fórmulas, planillas o listas de forma paritaria, por sí mismos, en coalición o en candidatura común con otros partidos.
 
 La fiscalización de las finanzas de los partidos políticos se realizará a través de una Unidad Técnica dependiente del Instituto Electoral y de Participación Ciudadana de Yucatán; asimismo, contará con una estructura orgánica y de operación, debiendo ejercitar las facultades que en su caso, le delegue el Instituto Nacional Electoral de conformidad con lo previsto en la ley respectiva.
 
@@ -487,11 +491,11 @@ El Presidente del Congreso en los términos de las leyes garantizará la inviola
 
 ### CAPITULO II. De la Elección e Instalación del Congreso
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 20.
 
-El Congreso del Estado de Yucatán se compondrá de veinticinco Diputadas y Diputados electos popularmente cada tres años, de los cuales, quince serán electos por el principio de mayoría relativa y los restantes, por el de representación proporcional, mediante el procedimiento que la Ley establezca. Por cada Diputada o Diputado Propietario de mayoría relativa, se elegirá un Suplente.
+El Congreso del Estado de Yucatán se compondrá de veinticinco Diputadas y Diputados, observando el principio de paridad de género conforme a las normas aplicables, que serán electos popularmente cada tres años, de los cuales, quince serán electos por el principio de mayoría relativa y los restantes, por el de representación proporcional, mediante el procedimiento que la Ley establezca. Por cada Diputada o Diputado Propietario de mayoría relativa, se elegirá un Suplente.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -569,11 +573,11 @@ X.- Estar inscrito en Registro Federal de Electores y contar con Credencial para
 
 El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 24.
 
-El Instituto Electoral y Participación Ciudadana de Yucatán declarará la validez de las elecciones de Gobernadora o Gobernador, diputadas y diputados, regidoras y regidores, y síndicos; efectuará la asignación de las y los diputados y regidores según el principio de representación proporcional; y expedirá las constancias respectivas a los candidatos electos.
+El Instituto Electoral y (sic) Participación Ciudadana de Yucatán declarará la validez de las elecciones de Gobernadora o Gobernador, diputadas y diputados, regidoras y regidores, y síndicos; efectuará la asignación de diputados y regidores según el principio de representación proporcional de forma paritaria; y expedirá las constancias respectivas a los candidatos electos.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -597,15 +601,15 @@ El Congreso para tratar y resolver los asuntos programados y los demás que se l
 
 En los períodos ordinarios, se ocupará del estudio, discusión, dictaminación y votación de todos los asuntos, conforme a esta Constitución y la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 28.
 
-El Gobernador del Estado presentará al Congreso del Estado, el tercer domingo del mes de enero de cada año, un informe por escrito y en formato digital, del estado de la Administración Pública Estatal del período comprendido entre el 1 de enero y el 31 de diciembre del año anterior, el cual deberá guardar congruencia con el Plan Estatal de Desarrollo. El informe deberá contener un apartado que incluya un resumen del mismo en lengua maya. Recibido el informe, el Congreso efectuará la glosa del mismo.
+El Gobernador del Estado presentará al Congreso del Estado, el tercer domingo del mes de enero de cada año, un informe por escrito y en formato digital, del estado de la Administración Pública Estatal del período comprendido entre el 1 de enero y el 31 de diciembre del año anterior, el cual deberá guardar congruencia con el Plan Estatal de Desarrollo. Igualmente el informe deberá constar en lengua maya. Recibido el informe, el Congreso efectuará la glosa del mismo.
 
-> <small>(REFORMADO, D.O. 26 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-Durante la glosa podrán comparecer los funcionarios de la Administración Pública Estatal que acuerde el Titular del Poder Ejecutivo, previa solicitud del Congreso del Estado; asimismo, los diputados durante el tiempo en que se realice ésta, podrán formular por escrito, preguntas derivadas de las comparecencias a los funcionarios respectivos, una vez concluidas las mismas.
+Durante la glosa deberán comparecer, bajo formal protesta de decir verdad, los funcionarios de la Administración Pública Estatal que considere el Titular del Poder Ejecutivo previa solicitud del Congreso del Estado, así como los que determine el propio Congreso, de acuerdo a su competencia; asimismo, los diputados durante el tiempo que se realicen las comparecencias, podrán formular preguntas derivadas de las mismas y del texto del referido informe; una vez realizadas las preguntas, cada una de ellas deberá ser contestada con objetividad verbal y documental por los funcionarios respectivos. Los funcionarios públicos que comparezcan con motivo del informe deberán permanecer hasta la conclusión del mismo.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -615,9 +619,9 @@ Se exceptúa de lo dispuesto en el primer párrafo, el primer informe que abarca
 
 En el año que corresponda a la renovación ordinaria del Titular del Poder Ejecutivo, el Gobernador del Estado que concluya su período, deberá presentar al Congreso, el segundo domingo de septiembre, su último informe.
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-El Gobernador del Estado, dentro del informe a que se refiere este artículo, podrá dar respuesta a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, las cuales deberán ser presentadas a más tardar el 15 de diciembre del año anterior y tratándose del último, el 15 de julio o, en su caso, el 31 de agosto, en los términos de la parte final del párrafo segundo del artículo 27. Las preguntas comprenderán exclusivamente asuntos relativos a la Administración Pública del período comprendido en el informe del Ejecutivo.
+El Gobernador del Estado, dentro del informe a que se refiere este artículo, deberá dar respuesta a las preguntas que le hubieren formulado los integrantes del Congreso, a través del Presidente en turno, las cuales deberán ser presentadas a más tardar el 15 de diciembre del año anterior y tratándose del último, el 15 de julio o, en su caso, el 31 de agosto, en los términos de la parte final del párrafo segundo del artículo 27. Las preguntas, así como las respuestas de las mismas, comprenderán exclusivamente asuntos relativos a la Administración Pública comprendido en el informe del Ejecutivo.
 
 > <small>(REFORMADO, D.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -945,9 +949,9 @@ XLVII.- Determinar los servicios públicos que tendrán a su cargo los municipio
 
 XLVIII.- Ratificar el nombramiento de la secretaria o secretario responsable del control interno del Poder Ejecutivo, que haga la Gobernadora o Gobernador;
 
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-XLIX.- Designar a la o al vicefiscal especializado en Combate a la Corrupción, a través del mismo procedimiento dispuesto en esta Constitución para la o el fiscal general del estado, y
+XLIX.- Designar a la o el Fiscal Especializado en Combate a la Corrupción, a través del mismo procedimiento dispuesto en esta constitución para la o el fiscal general del estado, y
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -1053,11 +1057,11 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 ### CAPITULO V. De la Diputación Permanente y sus atribuciones
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 42.
 
-Para funcionar durante los recesos, el Congreso designará a mayoría de votos una diputación permanente compuesta de tres diputados y por cada uno de éstos un suplente.
+Para funcionar durante los recesos, el Congreso designará a mayoría de votos una diputación permanente, debiendo integrarse de forma paritaria, compuesta de tres diputados y por cada uno de éstos un suplente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -1127,7 +1131,9 @@ Las entidades fiscalizadas a que se refiere el párrafo anterior deberán llevar
 
 La Auditoria Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, solo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
 
-Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones y términos que determine la ley, derivado de denuncias, la Auditoría Superior del Estado, previa autorización del titular podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones que en esta se prevean. La Auditoría Superior del Estado rendirá un informe específico al Congreso y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado de Yucatán, la Vicefiscalía Especializada en Combate a la Corrupción o las autoridades competentes.
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones y términos que determine la ley, derivado de denuncias, la Auditoría Superior del Estado, previa autorización del titular podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones que en esta se prevean. La Auditoría Superior del Estado rendirá un informe específico y detallado al Congreso y, en su caso, remitirá el expediente y promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado de Yucatán, la Fiscalía Especializada en Combate a la Corrupción o a las autoridades competentes.
 
 II.- Entregar al Congreso el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la cuenta pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, deberá entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la cuenta pública estatal, el cual se someterá a la consideración del Pleno del Congreso. El informe general ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre estas.
 
@@ -1145,7 +1151,9 @@ La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y o
 
 III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales, y efectuar visitas domiciliarias, para solicitar la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos.
 
-IV.- Promover, derivado de sus investigaciones, las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Yucatán y la Vicefiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+IV.- Promover y denunciar, derivado de sus investigaciones, las responsabilidades administrativas o penales que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Yucatán y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
 
 El Congreso del estado designará al Auditor Superior del Estado por el voto de las dos terceras partes de sus miembros integrantes. La ley en la materia determinará el procedimiento para su designación. El Auditor Superior del Estado será electo para desempeñar su cargo por ocho años y podrá ser reelecto por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el título décimo de esta Constitución.
 
@@ -1161,11 +1169,11 @@ Los servidores públicos estatales y municipales, así como cualquier entidad, p
 
 ### CAPITULO I. Del Gobernador del Estado
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 44.
 
-Se deposita el Poder Ejecutivo del Estado en una ciudadana o ciudadano que se denominará "Gobernadora o Gobernador del Estado de Yucatán".
+Se deposita el Poder Ejecutivo del Estado en una ciudadana o ciudadano que se denominará "Gobernadora o Gobernador del Estado de Yucatán", observando el principio de paridad de género en la integración de su gabinete.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -1501,7 +1509,13 @@ El Ministerio Público es la Institución única e indivisible que representa lo
 
 La Institución del Ministerio Público, en su carácter de representante de la sociedad, vigilará por el cumplimiento de las leyes y se regirá por los principios de buena fe, justicia, imparcialidad, independencia, legalidad, objetividad, y unidad.
 
-Para el cumplimiento de su objeto, el Ministerio Público estará a cargo de la Fiscalía General del Estado de Yucatán, la cual es una dependencia del Poder Ejecutivo, con autonomía técnica y de gestión, bajo el mando del Fiscal General del Estado, quien será su representante legal; y se auxiliará, para la investigación de los delitos, de las instituciones policiales, que actuarán bajo su conducción y mando, de acuerdo con lo que establezcan las leyes.
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Para el cumplimiento de su objeto, el Ministerio Público estará a cargo de la Fiscalía General del Estado de Yucatán y de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+La Fiscalía General del Estado de Yucatán, es una dependencia del Poder Ejecutivo, con autonomía técnica y de gestión, bajo el mando del Fiscal General del Estado, quien será su representante legal; y se auxiliará, para la investigación de los delitos, de las instituciones policiales, que actuarán bajo su conducción y mando, de acuerdo con lo que establezcan las leyes.
 
 > <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
@@ -1559,13 +1573,13 @@ La ley regulará la integración, funcionamiento, competencia y administración 
 
 El Poder Judicial del Estado se deposita en el Tribunal Superior de Justicia, en el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, en los Juzgados de Primera instancia y en los demás establecidos o que en adelante establezca la ley. En el ejercicio de la función judicial impartirá justicia con apego a los principios de autonomía, imparcialidad, independencia, legalidad, objetividad y seguridad jurídica.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-La ley establecerá y organizará los Juzgados de Primera Instancia; así mismo, fijará el procedimiento para la designación de las juezas y jueces, y los requisitos para su permanencia en el cargo.
+La ley establecerá y organizará los Juzgados de Primera Instancia; así mismo, fijará el procedimiento para la designación de las juezas y jueces, y los requisitos para su permanencia en el cargo. En la designación de estos deberá observarse el principio de paridad de género.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial y estará integrado por once Magistradas y Magistrados, quienes tendrán su respectivo suplente para casos de ausencias mayores a tres meses; funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta constitución y las leyes.
+El Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial y estará integrado por once Magistradas y Magistrados, quienes tendrán su respectivo suplente para casos de ausencias mayores a tres meses; funcionará en Pleno y en Salas, de conformidad con lo dispuesto por esta constitución y las leyes. En su conformación se observará el principio de paridad de género.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
@@ -1797,9 +1811,9 @@ La ley determinará los procedimientos para la substanciación de las Cuestiones
 
 El Consejo de la Judicatura es el órgano del Poder Judicial del Estado, dotado de autonomía técnica y de gestión, al que corresponde conocer y resolver todos los asuntos sobre la administración, vigilancia y disciplina del Poder Judicial del Estado, que no estén reservados de manera exclusiva a la competencia del Tribunal Superior de Justicia, de conformidad con lo que dispongan esta Constitución y la ley.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-El Consejo de la Judicatura se integrará por cinco miembros de los cuales, uno será la Presidenta o Presidente del Tribunal Superior, quien también lo será del Consejo y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de las y los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por la o el titular del Poder Ejecutivo.
+El Consejo de la Judicatura se integrará por cinco miembros de los cuales, uno será la Presidenta o Presidente del Tribunal Superior, quien también lo será del Consejo y no recibirá remuneración adicional por el desempeño de tal función; dos Consejeros nombrados por el Pleno del Tribunal Superior, de entre los miembros de la carrera judicial; un Consejero designado por la mayoría de los Diputados del Congreso del Estado, presentes en la sesión en que se aborde el asunto y, un Consejero designado por el titular del Poder Ejecutivo. No podrá haber más de tres miembros del mismo género.
 
 Para ser Consejero se requiere:
 
@@ -1897,13 +1911,17 @@ II.- El Instituto Estatal de Transparencia, Acceso a la Información Pública y 
 
 III.- El Instituto Electoral y de Participación Ciudadana de Yucatán;
 
-> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-IV.- El Tribunal Electoral del Estado de Yucatán, y
+IV.- El Tribunal Electoral del Estado de Yucatán;
 
-> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-V.- El Tribunal de Justicia Administrativa del Estado de Yucatán.
+V.- El Tribunal de Justicia Administrativa del Estado de Yucatán, y
+
+> <small>(ADICIONADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+VI.- La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán.
 
 Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo, rendirán informe de su cuenta pública en los términos que señale la ley en la materia.
 
@@ -1941,9 +1959,9 @@ El Instituto Estatal de Transparencia, Acceso a la Información Pública y Prote
 
 Las resoluciones del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales son vinculatorias, definitivas e inatacables para los sujetos obligados.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se integrará por tres comisionadas y comisionados, quienes serán designados por el Congreso del Estado, con el voto de las dos terceras partes de sus integrantes, a propuesta de los grupos parlamentarios, previa realización de una amplia consulta en la que se garantizará la transparencia, independencia y participación de la sociedad. Para su conformación se privilegiará la igualdad de género y la experiencia en materia de acceso a la información pública y protección de datos personales.
+El Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales se integrará por tres comisionadas y comisionados, quienes serán designados por el Congreso del estado, con el voto de las dos terceras partes de sus integrantes, a propuesta de los grupos parlamentarios, previa realización de una amplia consulta en la que se garantizará la transparencia, independencia y participación de la sociedad. Para su conformación se garantizará la paridad de género y la experiencia en materia de acceso a la información pública y protección de datos personales.
 
 > <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
@@ -1953,9 +1971,9 @@ Los comisionados durarán en su cargo siete años y deberán cumplir con los req
 
 El comisionado presidente será designado por los propios comisionados, mediante voto secreto, para un período de dos años, con posibilidad de ser reelecto por un período igual. El comisionado presidente estará obligado a rendir un informe anual ante el Congreso del estado, en la fecha y en los términos que disponga la ley.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-Para la gestión y el desempeño de sus atribuciones, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales contará con una estructura administrativa y un consejo consultivo integrado por seis consejeras y consejeros cuyos cargos serán honoríficos. Las consejeras y consejeros serán elegidos por el Congreso del estado para un período de dos años y no podrán ser reelectos. La ley determinará el procedimiento a seguir para la presentación de las propuestas por el Congreso, el cual deberá garantizar la igualdad de género y la inclusión de personas con experiencia en materia de acceso a la información pública y protección de datos personales y derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
+Para la gestión y el desempeño de sus atribuciones, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales contará con una estructura administrativa y un consejo consultivo integrado por seis consejeras y consejeros cuyos cargos serán honoríficos. Las consejeras y consejeros serán elegidos paritariamente por el Congreso del estado para un período de dos años y no podrán ser reelectos. La ley determinará el procedimiento a seguir para la presentación de las propuestas por el Congreso, el cual deberá garantizar la paridad de género y la inclusión de personas con experiencia en materia de acceso a la información pública y protección de datos personales y derechos humanos, provenientes de organizaciones de la sociedad civil y la academia.
 
 Toda autoridad o servidor público estará obligado a coadyuvar con el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales y sus integrantes para el buen desempeño de sus funciones. La ley establecerá las medidas de apremio que podrá imponer el organismo para asegurar el cumplimiento de sus decisiones.
 
@@ -1971,7 +1989,9 @@ El Instituto Estatal de Transparencia, Acceso a la Información Pública y Prote
 
 El Instituto Electoral y de Participación Ciudadana de Yucatán es un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio; autoridad en la materia, autónomo en su funcionamiento, independiente en sus decisiones y profesional en su desempeño; en cuya integración participan el Instituto Nacional Electoral, los partidos políticos y los ciudadanos, en términos de ley.
 
-El Instituto Electoral y de Participación Ciudadana de Yucatán contará con un Consejo General, que será su órgano de dirección superior, integrado por siete consejeros electorales, con derecho a voz y voto, uno de los cuales tendrá el carácter de Presidente; y concurrirán, únicamente con derecho a voz, los representantes de los partidos políticos y un Secretario Ejecutivo. Los consejeros electorales durarán en su cargo siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley.
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+El Instituto Electoral y de Participación Ciudadana de Yucatán contará con un Consejo General, que será su órgano de dirección superior, integrado por siete consejeros electorales, con derecho a voz y voto, uno de los cuales tendrá el carácter de Presidente; y concurrirán, únicamente con derecho a voz, los representantes de los partidos políticos y un Secretario Ejecutivo. Los consejeros electorales durarán en su cargo siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley. No podrá haber más de cuatro Consejeros del mismo género.
 
 Los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos en la ley.
 
@@ -1999,9 +2019,9 @@ La ley determinará las bases del servicio profesional electoral nacional y las 
 
 El Tribunal Electoral del Estado de Yucatán es un organismo público, autónomo e independiente en sus decisiones, máxima autoridad jurisdiccional en la materia y órgano especializado, competente para conocer y resolver los procedimientos, juicios e impugnaciones que se presenten contra actos y omisiones en materia electoral, cuyas funciones deben cumplirse bajo los principios de certeza, imparcialidad, independencia, objetividad, legalidad, máxima publicidad y probidad; para su adecuado funcionamiento, contará con el personal jurídico y administrativo necesario.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-El Tribunal Electoral del Estado de Yucatán funcionará en Pleno, se integrará por tres magistradas o magistrados quienes serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, durarán en su cargo siete años.
+El Tribunal Electoral del Estado de Yucatán funcionará en Pleno, se integrará por tres magistradas y magistrados quienes serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, durarán en su cargo siete años. No podrá haber más de dos magistrados del mismo género.
 
 > <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
@@ -2009,21 +2029,37 @@ La Magistrada Presidenta o el Magistrado Presidente será designado de entre sus
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE ABRIL DE 2016)</small>
 
+### CAPÍTULO VII. De la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 75 Quater.
 
 El Tribunal de Justicia Administrativa del Estado de Yucatán es un organismo público, autónomo e independiente en sus decisiones, tiene competencia para conocer, resolver y dirimir las controversias de carácter administrativo y fiscal que se susciten entre la Administración Pública centralizada y paraestatal del estado y sus municipios, y los particulares; e imponer, en los términos que disponga la ley, las sanciones a los servidores públicos por responsabilidades administrativas graves, y a los particulares que participen en actos vinculados con faltas administrativas graves, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos del (sic) estatales o municipales.
 
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-El Tribunal de Justicia Administrativa del Estado de Yucatán estará integrado por tres magistrados, designados por la Gobernadora o Gobernador y ratificados por el voto de las dos terceras partes de las y los integrantes del Congreso. Durarán en su encargo cinco años pudiendo ser considerados para nuevos nombramientos, hasta para dos períodos más, y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
+El Tribunal de Justicia Administrativa del Estado de Yucatán estará integrado por tres magistrados, designados por la Gobernadora o Gobernador y ratificados por el voto de las dos terceras partes de los miembros integrantes del Congreso. Durarán en su encargo cinco años pudiendo ser considerados para nuevos nombramientos, hasta para dos períodos más, y sólo podrán ser removidos de sus cargos por las causas graves que señale la ley. No podrá haber más de dos magistrados del mismo género.
 
 Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado de Yucatán se deberán cumplir los mismos requisitos que para ser nombrado Magistrado del Poder Judicial del Estado. El magistrado presidente será designado de entre sus integrantes, por la votación mayoritaria de los magistrados del tribunal, de conformidad con el procedimiento que establezca la ley respectiva.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 75 Quinquies.
+
+La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán es un organismo público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, presupuestal y de gestión, con capacidad para determinar su organización interna y el ejercicio de sus recursos con arreglo a las normas aplicables, cuyo objeto es investigar, perseguir y consignar ante la autoridad jurisdiccional las conductas que la ley prevé como delitos por hechos de corrupción.
+
+El Fiscal Especializado en Combate a la Corrupción durará en el cargo siete años, al término de los cuales podrá ser ratificado para un segundo período de la misma duración.
+
+El Fiscal Especializado en Combate a la Corrupción será designado conforme al mismo procedimiento previsto para el Fiscal General del Estado y solo podrá ser removido, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Décimo de esta Constitución.
+
+El Fiscal Especializado en Combate a la Corrupción no podrá tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia. Tampoco podrá asumir un cargo público en las dependencias y entidades estatales ni en los órganos constitucionales autónomos.
 
 (REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
 ## TITULO OCTAVO. De los Municipios del Estado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 ## TITULO NOVENO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
 
@@ -2031,7 +2067,7 @@ Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado
 
 ###### Artículo 76.
 
-El Estado tiene como base de su división territorial y organización política y administrativa, al Municipio. Este será gobernado por un Ayuntamiento electo mediante el voto popular libre, directo y secreto; integrado por una Presidenta o Presidente Municipal, Regidoras, Regidores y un Síndico, de conformidad con lo que establezca la ley de la materia. Entre éste y el Gobierno del Estado, no habrá autoridades intermedias.
+El Estado tiene como base de su división territorial y organización política y administrativa, al Municipio. Este será gobernado por un Ayuntamiento electo mediante el voto popular libre, directo y secreto; integrado por una Presidenta o Presidente Municipal, Regidoras, Regidores y un Síndico, de conformidad con lo que establezca la ley de la materia, observando el principio de paridad de género. Entre éste y el Gobierno del Estado, no habrá autoridades intermedias.
 
 > <small>(REFORMADO, D.O. 26 DE MAYO DE 2005)</small>
 
@@ -2649,7 +2685,9 @@ Para la investigación, substanciación y sanción de las responsabilidades admi
 
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
 
-Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Yucatán; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Vicefiscalía Especializada en Combate a la Corrupción.
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Los entes públicos estatales y municipales tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa del Estado de Yucatán; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
 IV.- El Tribunal de Justicia Administrativa del Estado de Yucatán impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 
@@ -2733,7 +2771,9 @@ El Sistema Estatal Anticorrupción es la instancia de coordinación entre las au
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I.- El sistema contará con un comité coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Vicefiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa del Estado de Yucatán; el presidente del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; así como por un representante del Consejo de la Judicatura del Estado y otro del comité de participación ciudadana.
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+I.- El sistema contará con un comité coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa del Estado de Yucatán; el presidente del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; así como por un representante del Consejo de la Judicatura del Estado y otro del comité de participación ciudadana.
 
 II.- El comité de participación ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
 
@@ -4382,3 +4422,89 @@ El congreso deberá realizar las adecuaciones normativas correspondientes, dentr
 Tercero. Derogación expresa
 
 Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
+
+D.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 115/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE GLOSA”.]
+
+Primero. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Derogación expresa.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
+
+Tercero. Informe en Lengua Maya.
+
+En cuanto al informe en lengua maya al que se refiere el presente decreto, será presentado por el titular del Poder Ejecutivo a partir del Informe de Gobierno que presente al Congreso del Estado en el mes de enero del año 2021.
+
+Por única ocasión, el Informe de Gobierno correspondiente al mes de enero del año 2020 contendrá un resumen en lengua maya.
+
+D.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 118/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE PARIDAD DE GÉNERO”.]
+
+Publicación y entrada en vigor.
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado, previa declaratoria constitucional que lleve a cabo el H. Congreso del Estado de Yucatán de conformidad con lo dispuesto en el párrafo segundo del artículo 108 de la Constitución Política del Estado de Yucatán; dicha publicación deberá realizarse posterior a la declaratoria constitucional que efectúe la H. Cámara de Diputados del Congreso de la Unión respecto de las reformas constitucionales en materia de paridad de género, y al inicio de vigencia de ésta, en términos de su publicación en el Diario Oficial de la Federación.
+
+Adecuación normativa
+
+Artículo Segundo.- El Congreso del Estado de Yucatán deberá adecuar la legislación secundaria correspondiente en un plazo de 180 días naturales contados a partir de la formal entrada en vigor del presente decreto.
+
+Derogación expresa
+
+Artículo Tercero.- Se derogan todas las normas de igual o menor rango que se opongan al presente decreto.
+
+D.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 128/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE AUTONOMÍA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación normativa
+
+El Congreso del estado deberá expedir las leyes y modificaciones a la legislación para armonizarla conforme a lo previsto en este decreto, dentro de un plazo de ciento ochenta días naturales contado a partir de su entrada en vigor.
+
+Tercero. Legislación transitoria
+
+En tanto se expiden las modificaciones a la legislación aplicable a la Fiscalía Especializada en Combate a la Corrupción, esta ejercerá las atribuciones y competencias que las leyes vigentes otorgan a la Vicefiscalía Especializada en Combate a la Corrupción.
+
+Cuarto. Referencia
+
+En lo sucesivo, cuando en alguna norma se haga referencia a la Vicefiscalía Especializada en Combate a la Corrupción, se entenderá hecha a la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán.
+
+Quinto. Referencia a la Fiscalía General del Estado
+
+En los casos en los que las leyes le otorguen facultades y obligaciones a la Fiscalía General del Estado de Yucatán, se entenderá que dichas facultades y obligaciones son propias de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, exclusivamente en cuanto a los delitos por hechos de corrupción.
+
+Sexto. Vicefiscal especializado
+
+Con el objeto de no afectar derechos adquiridos con anterioridad a este decreto, el Vicefiscal Especializado en Combate a la Corrupción, que hasta antes de la entrada en vigor de este decreto se desempeñaba como tal, continuará como Fiscal Especializado en Combate a la Corrupción a partir de la entrada en vigor de este decreto y concluirá su cargo en los términos del decreto relativo a su nombramiento respectivo, con derecho a ser reelecto por una sola vez para un periodo más en términos del artículo 75 Quinquies de este decreto.
+
+Séptimo. Trámite de asuntos
+
+Las carpetas de investigación, acuerdos, convenios, así como los asuntos, expedientes y demás actos jurídicos pendientes y en trámite, que se encuentren bajo cualquier concepto en la Vicefiscalía Especializada en Combate a la Corrupción, se transferirán y quedarán a cargo de la Fiscalía Especializada en Combate a la Corrupción, a partir de la entrada en vigor de este decreto.
+
+Octavo. Derechos laborales
+
+Los trabajadores que se encuentren prestando sus servicios en la Vicefiscalía Especializada en Combate a la Corrupción, a la entrada en vigor de este decreto, seguirán conservando su misma calidad y derechos laborales que les corresponden ante la Fiscalía Especializada en Combate a la Corrupción, en los términos de la legislación aplicable.
+
+Noveno. Transferencia de recursos
+
+Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Vicefiscalía Especializada en Combate a la Corrupción, incluyendo todos sus bienes y los derechos derivados de fondos o fideicomisos vigentes, pasarán a formar parte de la Fiscalía Especializada en Combate a la Corrupción.
+
+Décimo. Exención
+
+La Fiscalía Especializada en Combate a la Corrupción queda exenta, por única ocasión, de los derechos, impuestos y obligaciones fiscales, municipales y estatales, que puedan ser causados con motivo de la regularización de sus bienes y servicios para el cumplimiento de este decreto.
+
+Décimo primero. Previsiones presupuestales
+
+El Congreso deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a lo dispuesto en este decreto.
+
+Décimo segundo. Recursos y espacios de la vicefiscalía
+
+En tanto se llevan a cabo las adecuaciones presupuestales, las transferencias y demás actos necesarios para dotar de recursos propios a la Fiscalía Especializada en Combate a la Corrupción continuará ejerciendo los recursos y ocupando los espacios que actualmente tiene asignados la Vicefiscalía Especializada en Combate a la Corrupción en la Fiscalía General del Estado.
