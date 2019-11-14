@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108625"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-12"
-last_updated: "2019-07-31"
+last_updated: "2019-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el viernes 12 de junio de 2015.
 
@@ -134,6 +134,66 @@ Sistemas municipales
 Los ayuntamientos deberán establecer consejos municipales de protección integral de los derechos de niñas, niños y adolescentes, los cuales contarán con una secretaría ejecutiva, estarán presididas por el presidente municipal y se integrarán por las dependencias y entidades vinculadas con la protección de los derechos de niñas, niños y adolescentes. Las Secretarías ejecutivas garantizarán la participación de los sectores social y privado, así como de las niñas, niños y adolescentes en los consejos municipales.
 
 Los ayuntamientos contarán con unidades administrativas especializadas de primer contacto con niñas, niños o adolescentes, las cuales coordinarán a los servidores públicos municipales cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos de niñas, niños y adolescentes, a efecto de que se de vista a la Procuraduría de Protección de la Defensa del Menor y la Familia, de forma inmediata.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 11 bis. Requisitos del Titular de la Unidad administrativa especializada de primer contacto
+
+La persona titular de la unidad administrativa especializada de primer contacto con niñas, niños o adolescentes será designada por la Presidencia del Consejo Municipal de Protección Integral de los derechos de niñas, niños y adolescentes y deberá cumplir con los requisitos siguientes:
+
+I. Tener la ciudadanía mexicana y encontrarse en pleno goce de sus derechos civiles y políticos.
+
+II. Contar con título y cédula profesional de licenciatura en derecho, abogacía, medicina, psicología o trabajo social, que estén legalmente expedidos, cuando menos, cinco años antes al nombramiento.
+
+III. Acreditar al menos un año de experiencia en materia de protección y defensa de los derechos de niñas, niños y adolescentes.
+
+IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 11 ter. Integración
+
+La unidad administrativa especializada de primer contacto con niñas, niños y adolescentes de los municipios, deberá contar al menos con personas que cumplan con el perfil profesional de licenciatura en derecho, abogacía, trabajo social, psicología, medicina y demás personal técnico y operativo necesario para el cumplimiento de las atribuciones que le confiere esta Ley.
+
+Su personal deberá acreditar, al menos, un año de experiencia en áreas de primer contacto o atención a víctimas y no contar con antecedentes penales.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 11 quater. Atribuciones
+
+Para el cumplimiento de su objeto, la unidad administrativa especializada de primer contacto con niñas, niños o adolescentes, ejercerá las atribuciones siguientes:
+
+I. Articular esfuerzos entre las autoridades municipales para detectar casos de posibles violaciones a los derechos de niñas, niños y adolescentes.
+
+II. Recibir reportes de las diversas áreas administrativas del ayuntamiento por posibles violaciones a los derechos de niñas, niños y adolescentes.
+
+III. Coordinar y ordenar que se realicen las gestiones necesarias para dar vista a la Procuraduría de Defensa del Menor y la Familia del Estado de Yucatán en forma inmediata de las posibles violaciones a los derechos de niñas, niños y adolescentes.
+
+IV. Elaborar diagnóstico o informe inicial sobre la situación de una posible violación de derechos de la niña, niño o adolescente, y dar a conocer los resultados a la persona responsable del mismo.
+
+V. Elaborar un Protocolo que contenga las directrices de actuación para las y los servidores públicos del ayuntamiento, al momento de detectar una posible violación a los derechos de niñas, niños y adolescentes dentro de su dependencia.
+
+VI. Establecer mecanismos de comunicación accesibles para que niñas, niños y adolescentes puedan reportar una posible violación de alguno de sus derechos sin la necesidad de la intervención de un adulto en el ayuntamiento.
+
+VII. Brindar acompañamiento inicial a la niña, niño o adolescente en tanto recibe atención de la Procuraduría de la Defensa del Menor y la Familia del Estado de Yucatán.
+
+VIII. Procurar la capacitación y sensibilización de las y los servidores públicos que provean herramientas para la detección de posibles violaciones a los derechos de niñas, niños y adolescentes, y
+
+IX. Las demás que le otorguen las disposiciones legales aplicables a la materia.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 11 quinquies. Protocolo de actuación
+
+El Protocolo que contenga las directrices de actuación para las y los servidores públicos del ayuntamiento a que se refiere la fracción V del artículo anterior, deberá considerar lo siguiente:
+
+I. La elaboración del diagnóstico e informe inicial;
+
+II. Los mecanismos para escuchar a la niña, niño o adolescente considerando su edad, desarrollo evolutivo, cognoscitivo y grado de madurez;
+
+III. La canalización en forma inmediata a la Procuraduría de Defensa del Menor y la Familia del Estado de Yucatán, y
+
+IV. La emisión de un informe estadístico en forma semestral sobre los casos que hayan detectado.
 
 #### Sección segunda. Consejo de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán
 
@@ -546,3 +606,23 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 113/2019 POR EL QUE SE MODIFICA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS y ADOLESCENTES DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Adecuaciones normativas
+
+Los 106 municipios del Estado de Yucatán tendrán un plazo de 90 días naturales a partir de la entrada en vigor de este decreto, para realizar las modificaciones a sus ordenamientos para dar cumplimiento al presente decreto.
+
+Artículo tercero. Nombramiento del titular
+
+El titular y el equipo técnico de la unidad administrativa especializada de primer contacto de niñas, niños y adolescentes deberán ser nombrado (sic) en un plazo no mayor de 120 días hábiles contados a partir de la entrada en vigor de este decreto.
+
+Artículo cuarto. Derogación tácita
+
+Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a las contenidas en el presente decreto.
