@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-55245"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-23"
-last_updated: "2019-04-22"
+last_updated: "2019-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 23 de abril de 2007.
 
@@ -233,21 +233,25 @@ XV.- Fomentará actitudes positivas hacia el trabajo productivo, el amor a la fa
 
 XVI.- Los establecidos en el artículo 58 de la Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-XVII.- Inculcará los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales.
+XVII.- Inculcará los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sostenible, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
-> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-XVIII.- Contribuir al desarrollo sostenible por medio de procesos de información, actualización, capacitación y profesionalización para llevar a cabo las acciones relativas a la protección al medio ambiente y la conservación y restauración de los recursos naturales, en forma individual y colectiva, y
+XVIII.- Contribuir al desarrollo sostenible por medio de procesos de información, actualización, capacitación y profesionalización para llevar a cabo las acciones relativas a la protección al medio ambiente y la conservación y restauración de los recursos naturales, en forma individual y colectiva;
 
-> <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-XIX.- Generar una cultura ambiental a través del conocimiento, la ética y el desarrollo de competencias que posibiliten un aprendizaje sobre la realidad local y alcanzar una mejor comprensión de las causas, consecuencias y posibles soluciones de los problemas ambientales.
+XIX.- Generar una cultura ambiental a través del conocimiento, la ética y el desarrollo de competencias que posibiliten un aprendizaje sobre la realidad local y alcanzar una mejor comprensión de las causas, consecuencias y posibles soluciones de los problemas ambientales;
 
-> <small>(ADICIONADA, D.O. 30 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-XX.- Promover la educación vial como disciplina consistente en fomentar la creación de hábitos y actitudes en el individuo que le permita comportarse con orden y seguridad en la vía pública.
+XX.- Promover la educación vial como disciplina consistente en fomentar la creación de hábitos y actitudes en el individuo que le permita comportarse con orden y seguridad en la vía pública, y
+
+> <small>(ADICIONADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+XXI.- Promover que la educación digital fomente en los alumnos el uso crítico, ético, responsable y formativo de las tecnologías de la información y comunicación entre las que se encuentran: el Internet, redes sociales, mensajería instantánea o correo electrónico, con la finalidad de prevenir el acoso escolar, conductas antisociales e ilícitas que se cometan por conducto de estos medios.
 
 Los fines anteriores se ajustarán a la edad y al nivel de desarrollo de los escolares y al tipo, nivel y modalidad de educación que a éstos se imparta.
 
@@ -745,11 +749,13 @@ La Secretaría de Educación organizará y financiará una oferta académica par
 
 Los directores escolares serán los responsables de dirigir y coordinar los esfuerzos de profesores, trabajadores sociales, alumnos y padres de familia, así como del aprovechamiento de los recursos y medios disponibles en su plantel, y sus funciones son de carácter técnico, pedagógico y administrativo.
 
-> <small>(REFORMADO, D.O. 5 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 37.
 
-Es responsabilidad de la Secretaría de Educación, a través de las autoridades educativas de los centros escolares, vigilar que en el funcionamiento de las escuelas se fomenten hábitos y actitudes que propicien la sana convivencia, el respeto al medio ambiente y la alimentación con alto valor nutricional.
+Es responsabilidad de la Secretaría de Educación mediante las autoridades educativas de los centros escolares, vigilar que en el funcionamiento de las escuelas se fomenten hábitos y actitudes que propicien la sana convivencia, incluyendo la que se genere por medio de las tecnologías de la información y comunicación entre las que se encuentran: el Internet, redes sociales, mensajería instantánea o correo electrónico.
+
+> <small>(REFORMADO, D.O. 5 DE ENERO DE 2012)</small>
 
 Asimismo, la Secretaría de Educación deberá Implementar, en coordinación con la Secretaría de Salud, los lineamientos generales para la venta y distribución de alimentos y bebidas dentro de las escuelas de educación básica.
 
@@ -791,9 +797,11 @@ Los supervisores y jefes de sector trabajarán coordinadamente, para favorecer l
 
 Sin detrimento de la atribución exclusiva de la autoridad educativa federal de determinar los planes y programas de la educación preescolar, primaria, secundaria y normal, la autoridad educativa estatal promoverá su enriquecimiento con contenidos regionales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 41.
 
-Al promover el mejoramiento de los planes y programas a que se refiere el artículo inmediato anterior, la autoridad estatal deberá procurar que el trabajo escolar:
+Al promover el mejoramiento de los planes y programas a que se refiere el artículo inmediato anterior, la autoridad educativa estatal deberá procurar que el trabajo escolar:
 
 I.- Sea un sustento adecuado para el aprendizaje y el desarrollo integral de la personalidad del alumno. Para ello especificarán metas en cada nivel y grado en términos de valores, conocimientos, habilidades y actitudes;
 
@@ -807,13 +815,17 @@ V.- Aporte, en lo relativo a contenidos y metodología, elementos de los que pue
 
 VI.- Fomente el amor y respeto a nuestra cultura, historia, ecosistema y patrimonios de la Entidad;
 
-> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-VII.- Haga conciencia de la necesidad del aprovechamiento racional de los recursos naturales y de la protección del ambiente a través de la educación ambiental, basada en los principios de sostenibilidad, interdisciplinariedad, interculturalidad, responsabilidad, respeto por el medio ambiente y participación ciudadana, considerando las problemáticas ambientales actuales y futuras y las características regionales de la entidad, y
+VII.- Haga conciencia de la necesidad del aprovechamiento racional de los recursos naturales y de la protección del ambiente a través de la educación ambiental, basada en los principios de sostenibilidad, interdisciplinariedad, interculturalidad, responsabilidad, respeto por el medio ambiente y participación ciudadana, considerando las problemáticas ambientales actuales y futuras y las características regionales de la entidad;
 
-> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-VIII.- Preste especial atención a la formación fundamental en valores tanto morales como cívicos de los educandos y promueva el establecimiento de una nueva y adecuada cultura vial.
+VIII.- Preste especial atención a la formación fundamental en valores tanto morales como cívicos de los educandos y promueva el establecimiento de una nueva y adecuada cultura vial, y
+
+> <small>(ADICIONADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+IX.- Fomente que la educación digital permita la formación crítica, ética y responsable, en todo el personal que labore en sus dependencias, en los educandos y en los padres de familia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JULIO DE 2018)</small>
 
@@ -827,9 +839,105 @@ El maestro es el responsable de la conducción del proceso educativo en el aula;
 
 Es responsabilidad del docente, fungir como guía y formador del alumno durante el proceso educativo en el aula, vigilando y apoyando los conocimientos adquiridos, así como orientándolos a obtener el perfil requerido en cada grado, a fin de terminar la educación básica con alto nivel de desarrollo educativo.
 
-### CAPÍTULO III. De la Evaluación
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-### CAPÍTULO IV. De los Tipos Niveles (sic) y Modalidades Educativos
+### CAPÍTULO II BIS. De la Educación Emocional
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 42 Bis.
+
+Este capítulo tiene por objeto crear técnicas para el proceso educativo mediante la implementación de mecanismos que permitan potenciar el desarrollo emocional como complemento indispensable del desarrollo cognitivo, mismos que son elementos esenciales para el desarrollo integral. Teniendo como propósito primordial el desarrollo de habilidades sobre las emociones con el fin de capacitar al alumno para fomentar el bienestar personal y social, optimizando su calidad de vida.
+
+Mediante este sistema se busca potenciar la competencia emocional de forma sistemática mediante procesos educativos en la educación básica. Destacando la importancia de los aspectos emocionales y no solo los académicos.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 42 Ter.
+
+Para los efectos del presente capítulo se entenderá por:
+
+I.- Educación Emocional.- es el proceso educativo continuo y permanente que busca el desarrollo humano; es decir, el desarrollo personal y social; el desarrollo de la personalidad integral del individuo. Esto incluye el desarrollo de la inteligencia emocional y su aplicación en las situaciones de la vida. Por extensión esto implica fomentar actitudes positivas ante la vida, habilidades sociales, empatía, etcétera, como factores de desarrollo de bienestar personal y social.
+
+II.- Inteligencia Emocional.- es la habilidad para percibir, generar y acceder a emociones que faciliten el pensamiento, para comprender el conocimiento emocional y para regular las emociones de manera efectiva permitiendo el crecimiento intelectual y emocional. Es a su vez, la capacidad de sentir, entender, controlar y modificar estados anímicos propios y ajenos.
+
+Inteligencia emocional es el uso inteligente de las emociones: hacer que, intencionalmente, las emociones trabajen para nosotros, utilizándolas de manera que nos ayuden a guiar la conducta y los procesos de pensamiento, a fin de alcanzar el bienestar personal.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 42 Quáter.
+
+Para el cumplimiento de los objetivos del presente capítulo, se deberán establecer actividades dentro de las aulas, al igual que en las áreas comunes de las escuelas, así como también programas en los planteles educativos que favorezcan el desarrollo de la autonomía y la gestión de los propios conflictos, así como:
+
+I.- Desarrollo de prácticas socioeducativas que fomenten el autoconocimiento, autonomía y autorregulación, capacidades de diálogo, capacidad para transformar el entorno, comprensión crítica, empatía y perspectiva social, habilidades sociales para la convivencia y la inteligencia emocional. Ayudar a los niños a identificar sus emociones y a reconocerlas en otros niños y adultos.
+
+II.- Ayudar a gestionar y modular las diferentes emociones que surjan. Un equipo docente preparado y sensible a esta necesidad puede ser un buen medio para ayudar a los niños y niñas a resolver los diferentes conflictos que sin duda existirán en el contexto educativo.
+
+III.- Ayudar a los niños y niñas a tener una visión positiva del mundo, una actitud proactiva y una buena tolerancia a la frustración. De igual modo enseñar a los niños y niñas a manejar los conflictos interpersonales y a prevenirlos. Esto se puede favorecer con programas que mejoren el clima escolar como por ejemplo la implantación y desarrollo de programas de mediación escolar.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 42 Quiquies.- La Secretaría de Educación, con apoyo de los directores, maestros y demás personal de apoyo y asistencia a la educación, así como de padres de familia, en el ámbito de sus respectivas competencias, deberá favorecer el desarrollo de competencias emocionales: conciencia emocional, regulación emocional, autogestión, inteligencia interpersonal, habilidades de vida y bienestar; bajo la premisa de que la educación emocional fomenta el autoconocimiento, el autoestima y la empatía, entre otros.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 42 Sexies.
+
+La educación emocional se impartirá en la educación básica que comprende el sistema educativo. Las autoridades educativas y escolares en sus respectivos ámbitos de intervención y atribuciones correspondientes deberán:
+
+I.- Conseguir un desarrollo integral del alumnado, potenciando no sólo aspectos cognitivos e intelectuales del individuo, sino también otros tan importantes como el desarrollo de la personalidad, las actitudes, los valores, la motivación y el esfuerzo, etcétera.
+
+II.- Diseñar y desarrollar políticas, planes y programas educativos específicos para educar las habilidades socio-emocionales.
+
+III.- Promover el desarrollo de una actitud de esfuerzo, trabajo y responsabilidad en el estudio y de curiosidad e interés por el aprendizaje, fortaleciendo la confianza en las propias posibilidades de aprender.
+
+IV.- Formar personas para que sean capaces de desenvolverse de forma competente en la vida.
+
+V.- Educar para que los niños y niñas de hoy sean adultos independientes y seguros, capaces de gestionar sus propias vidas, con sus satisfacciones y dificultades. Para que al llegar a convertirse en adultos sean capaces de cooperar eficientemente y relacionarse de forma positiva con los demás para resolver diferentes problemas o emprender diferentes proyectos vitales, personales o profesionales.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 42 Septies.
+
+La fundamentación teórica de la educación emocional desembocará en la selección de contenidos para los programas de intervención. Los criterios a tener en cuenta en la selección de contenidos deberán:
+
+I.- Adecuarse al nivel educativo del alumnado al que va dirigido el programa;
+
+II.- Ser aplicables a todo el grupo clase;
+
+III.- Favorecer procesos de reflexión sobre las propias emociones y las emociones de los demás; y
+
+IV.- Enfocarse al desarrollo de competencias emocionales.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 42 Octies.
+
+Las autoridades educativas locales propondrán contenidos en relación a la educación emocional apegado a lo dispuesto en el presente capítulo y las demás disposiciones reglamentarias en la materia en el que se establece el plan y los programas de estudios para la educación básica, aprendizaje clave para la educación integral.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 42 Novies.- En el proceso educativo deberá asegurarse la participación activa del educando, estimulando su iniciativa y sentido de responsabilidad social. Los contenidos de la educación emocional serán definidos en planes y programas de estudio.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 42 Decies.
+
+Las acciones con fundamentos de la educación emocional que se instrumentarán estarán a cargo de docentes, profesionales o técnicos con formación específica y con capacitación docente, mismos que emplearán técnicas psicopedagógicas con enfoque en educación emocional en función de los contenidos que se aprueben. Mismos que tenderán a la formación y desarrollo de seres humanos aptos para convivir en sociedad como sujetos con capacidad afectiva, cognitiva, comunicativa y creativa.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 42 Undecies.- El proceso de enseñanza/aprendizaje deberá atender a las diferentes capacidades de los alumnos en las diferentes etapas escolares, potenciando en cada niño aquellas más desarrolladas y entrenando las menos desarrolladas. La finalidad es el desarrollo de competencias emocionales que contribuyan a un mejor bienestar personal y social.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 42 Duodecies.- Las autoridades deben tomar en cuenta el interés superior de la niñez en todos los programas, planes y acciones de gobierno que realicen, por lo que habrá una atención prioritaria a los problemas que aquejan a las niñas, los niños y adolescentes.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 42 Terdecies.- Para alcanzar los objetivos y finalidades que se persiguen en este capítulo de la presente ley, se deberá realizar una capacitación docente, incluso al personal de apoyo a la educación que entienda conceptos como consciencia emocional, regulación emocional, autogestión, inteligencia interpersonal, habilidades de vida y bienestar siempre y cuando haya viabilidad.
+
+### CAPÍTULO III. De la Evaluación
 
 ###### Artículo 43.
 
@@ -925,9 +1033,7 @@ La Secretaría de Educación tendrá bajo su resguardo las hojas de respuesta de
 
 La Secretaría de Educación integrará un comité de transparencia que tendrá por objeto vigilar los procesos de evaluación dispuestos por la Ley General del Servicio Profesional Docente y esta Ley, para que se lleven a cabo conforme a los principios de legalidad, certeza, imparcialidad, objetividad, y transparencia, así como detectar y recibir inconformidades de los evaluados y turnarlas a las autoridades competentes para su conocimiento y resolución. El comité estará integrado por el Director Jurídico de la Secretaría de Educación, representantes de las escuelas públicas del estado, de sus docentes por regiones, por nivel y modalidad educativa y de asociaciones civiles relacionadas con la materia.
 
-### CAPÍTULO V. Del Sistema Estatal de Formación, Actualización y Superación Profesional para Profesores
-
-> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
+### CAPÍTULO IV. De los Tipos Niveles (sic) y Modalidades Educativos
 
 #### Sección Primera. De los Tipos y Modalidades en General
 
@@ -979,7 +1085,9 @@ III.- Habilidades intelectuales básicas para localizar, procesar y analizar inf
 
 IV.- Conocimientos elementales y capacidades de apreciación de las diversas manifestaciones culturales y artísticas regionales, nacionales y universales;
 
-V.- Conocimientos básicos y fundamentos éticos idóneos para participar libremente, de manera crítica, constructiva y responsable en la vida familiar, comunitaria y social;
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+V.- Conocimientos básicos y fundamentos éticos idóneos para participar libremente, de manera crítica, constructiva y responsable en la vida familiar, comunitaria y social, tanto de manera presencial como digital.
 
 VI.- Conocimientos básicos, valores y hábitos adecuados para la conservación de la salud individual y colectiva, y
 
@@ -1099,7 +1207,9 @@ La educación media-superior tendrá como propósito ser la base para integrarse
 
 I.- El manejo hábil de lenguajes básicos, incluido el español en su forma oral y escrita, el lenguaje de la matemática y el dominio funcional de un segundo idioma;
 
-II.- El dominio funcional del uso de la computadora, la informática y otras tecnologías del mundo actual;
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+II.- El dominio de la informática y las tecnologías de la información y comunicación del mundo actual, fortaleciendo en estas y las nuevas que se generen, el uso crítico, ético, responsable y formativo;
 
 III.- Los conocimientos, habilidades y actitudes necesarios para la resolución de problemas;
 
@@ -1597,7 +1707,9 @@ VIII.- Verificar la correcta aplicación del presupuesto e informar acerca de su
 
 IX.- Las demás que le confiera esta ley, la Secretaría de Educación Pública del Estado y demás disposiciones legales y normativas aplicables.
 
-### CAPÍTULO VI. Del Calendario Escolar
+### CAPÍTULO V. Del Sistema Estatal de Formación, Actualización y Superación Profesional para Profesores
+
+> <small>(ADICIONADA, D.O. 28 DE MARZO DE 2018)</small>
 
 #### Sección Primera. Disposiciones Generales
 
@@ -1865,9 +1977,7 @@ Los integrantes del Consejo Consultivo para el Desarrollo Profesional Docente de
 
 Artículo 79 Quaterdecies.- El instituto, por conducto de su junta de gobierno, regulará, mediante acuerdo, lo relativo a las atribuciones, organización y funcionamiento de las sesiones del Consejo Consultivo para el Desarrollo Profesional Docente del Estado de Yucatán, así como las formalidades de sus convocatorias y las facultades de quienes lo integran.
 
-### CAPÍTULO I. De los Consejos
-
-> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
+### CAPÍTULO VI. Del Calendario Escolar
 
 ###### Artículo 80.
 
@@ -1993,7 +2103,9 @@ El Estado podrá establecer un sistema de acreditación dirigido a quienes demue
 
 ## TÍTULO SÉPTIMO. DE LA PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
-### CAPÍTULO II. De los Padres de Familia y sus Asociaciones
+### CAPÍTULO I. De los Consejos
+
+> <small>(REFORMADO, D.O. 22 DE ABRIL DE 2019)</small>
 
 ###### Artículo 94.
 
@@ -2049,7 +2161,7 @@ V.- Proponer y supervisar que los alimentos que se vendan al interior de los cen
 
 La Secretaría de Educación realizará acciones a fin de procurar que los padres de familia participen de manera activa y con propuestas en el proceso educativo de sus hijos para tal fin promoverá reuniones en las que se discutan temas relacionados con la educación y el desarrollo de los alumnos; asimismo, establecerá mecanismos directos de atención a la ciudadanía, para promover la participación social.
 
-### CAPÍTULO III. De los Medios de Comunicación
+### CAPÍTULO II. De los Padres de Familia y sus Asociaciones
 
 ###### Artículo 100.
 
@@ -2087,13 +2199,17 @@ III.- Colaborar con las instituciones educativas en las que estén inscritos sus
 
 IV.- Respetar y vigilar que se cumplan los preceptos contenidos en la legislación educativa federal y estatal;
 
-> <small>(REFORMADA, D.O. 22 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-V.- Cumplir con las disposiciones de la presente ley y demás normas aplicables, y
+V.- Cumplir con las disposiciones de la presente ley y demás normas aplicables;
 
-> <small>(REFORMADA, D.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-VI.- Colaborar con el personal docente y los trabajadores sociales en el diagnóstico y atención de las dificultades escolares de sus hijos o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y la seguridad, o de violencia física o psicológica.
+VI.- Colaborar con el personal docente y los trabajadores sociales en el diagnóstico y atención de las dificultades escolares de sus hijos o pupilos y apoyar a los directivos y docentes en la prevención y solución de problemas de conducta, de afectación a la integridad y la seguridad, o de violencia física o psicológica, y
+
+> <small>(ADICIONADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+VII.- Coadyuvar con el personal docente para que la educación digital fomente el uso crítico, ético, responsable y formativo de los alumnos, llevando al (sic) cabo acciones de prevención en su ámbito familiar.
 
 ###### Artículo 102.
 
@@ -2132,6 +2248,8 @@ Las asociaciones de padres de familia no podrán imponer cuota determinada a los
 ###### Artículo 104.
 
 En los niveles en los que sea factible, se promoverá la formación de sociedades de alumnos para fortalecer la cultura de participación democrática, con base en los lineamientos generales que para ello expida la Secretaría de Educación.
+
+### CAPÍTULO III. De los Medios de Comunicación
 
 ###### Artículo 105.
 
@@ -2424,3 +2542,17 @@ Artículo Segundo.- La Secretaría de Educación del Gobierno del Estado dispond
 Artículo Tercero.- El Ejecutivo del Estado deberá prever en su Presupuesto de Egresos de manera paulatina hasta el 2024 las partidas presupuestales necesarias que garanticen la contratación y pago de los trabajadores sociales que se requieran; así como celebrar convenios y acuerdos de colaboración.
 
 Artículo Cuarto.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+D.O. 14 DE NOVIEMBRE DE 2019.
+
+> <small>[N. DE E. TRANSITORIO “DECRETO 124/2019 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN DIGITAL”.]</small>
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 125/2019 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN EMOCIONAL”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo.- Las disposiciones establecidas en el presente Decreto serán aplicables a partir del ciclo escolar 2020 – 2021.
