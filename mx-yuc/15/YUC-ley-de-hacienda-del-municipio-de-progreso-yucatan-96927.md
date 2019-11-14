@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-progreso-yucatan-96927"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2013-12-27"
+last_updated: "2019-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE PROGRESO, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -35,11 +35,15 @@ CIUDADANO ROLANDO RODRIGO ZAPATA BELLO, GOBERNADOR DEL ESTADO DE YUCATÁN, CON F
 
 "EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 29 Y 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA, 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 117 Y 118 DEL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, TODAS DEL ESTADO DE YUCATÁN, EMITE LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, HUNUCMÁ, PROGRESO, SINANCHÉ, TAHMEK, TEKAX, TELCHAC PUERTO y VALLADOLID, DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S: …
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud y con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción IV inciso a) de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
-D E C R E T O: …
+D E C R E T O:
+
+[...]
 
 ###### ARTÍCULO TERCERO.
 
@@ -83,7 +87,9 @@ Los cuales se establecen en esta Ley y en la Ley de Ingresos del Municipio de Pr
 
 Son disposiciones fiscales Municipales:
 
-I.- El Código Fiscal de la Federación;
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+I.- El Código Fiscal del Estado de Yucatán;
 
 II.- La Ley de Coordinación Fiscal del Estado de Yucatán;
 
@@ -93,7 +99,13 @@ IV.- La Ley de Ingresos del Municipio de Progreso, Yucatán;
 
 V.- Las disposiciones que autoricen Ingresos Extraordinarios, y
 
-VI.- Los Reglamentos Municipales y las demás Leyes, que contengan disposiciones de carácter hacendario.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+VI.- El Código Fiscal de la Federación.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+VII.- Los Reglamentos Municipales y las demás Leyes, que contengan disposiciones de carácter hacendario.
 
 ###### Artículo 4.
 
@@ -305,9 +317,11 @@ Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes 
 
 #### Sección Sexta. De los Recargos
 
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 30.
 
-Los recargos se calcularán y aplicarán en la forma y términos establecidos en el Código Fiscal de la Federación.
+Los recargos se calcularán y aplicarán en la forma y términos establecidos en el Código Fiscal del Estado de Yucatán.
 
 #### Sección Séptima. De la Causación de Recargos
 
@@ -439,7 +453,9 @@ La revalidación de las licencias de funcionamiento estará vigente desde el dí
 
 Son sujetos del impuesto predial:
 
-I.- Los propietarios o usufructuarios de predios urbanos, rústicos, ejidales y comunales ubicados dentro del territorio municipal, así como de las construcciones permanentes edificadas en ellos.
+> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+I.- Los propietarios o usufructuarios de predios urbanos, rústicos, ejidales y comunales ubicados dentro del territorio del Municipio de Progreso, así como de las construcciones permanentes edificadas en ellos.
 
 II.- Los fideicomitentes por todo el tiempo que el fiduciario no transmitiere la propiedad o el uso de los inmuebles a que se refiere la fracción anterior, al fideicomisario o a las demás personas que correspondiere, en cumplimiento del contrato de fideicomiso.
 
@@ -519,13 +535,35 @@ El impuesto a que se refiere este capítulo, se calculará aplicando a la base s
 
 #### Sección Sexta. Del Pago
 
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 46.
 
-Cuando se pague el impuesto durante el primer bimestre del año, el contribuyente gozará de un descuento del 10% anual. Asimismo los pensionados y jubilados que demuestren esta condición gozarán de un descuento del 50% anual sí pagan su impuesto durante el primer bimestre del año.
+El Impuesto se causará anualmente y deberá cubrirse por meses vencidos dentro de los primeros quince días de cada uno de los meses siguientes, excepto el que corresponde a enero cuyo vencimiento será el último día del mes de febrero de cada año.
+
+Los pagos mensuales serán el resultado de dividir el impuesto anual total entre los doce meses.
+
+Cuando el contribuyente pague en una sola exhibición el impuesto predial correspondiente a una anualidad, durante los meses de enero y febrero de dicho año, gozará de un descuento del 10% anual.
+
+Asimismo, los pensionados y jubilados que demuestren esta condición gozarán de un descuento del 50% anual si pagan su impuesto durante los meses de enero y febrero del año que se causa.
+
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 47.
 
-El impuesto predial con base en las rentas o frutos civiles que produzcan los inmuebles, se causará aplicando al monto de la contraprestación pactada, los factores que se establecen, en la Ley de Ingresos del Municipio de Progreso, Yucatán.
+El impuesto predial con base en las rentas o frutos civiles, o cualquier otro tipo de contraprestación que produzcan los inmuebles, se causará aplicando al monto de la contraprestación pactada, los factores que se establecen, en la Ley de Ingresos del Municipio de Progreso, Yucatán.
+
+Esta base de la contraprestación, sólo aplicará cuando al determinarse el impuesto conforme a los factores establecidos en la Ley de Ingresos del Municipio de Progreso, Yucatán, diere como resultado un impuesto mayor al que se pagaría sobre la base del valor catastral.
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 47 Bis.
+
+Los propietarios, fideicomisarios, fideicomitentes, fiduciarios, arrendadores, usufructuarios o concesionarios de inmuebles incluyendo los del dominio público de la federación, del estado y municipio, cuando por cualquier título se utilicen total o parcialmente para fines distintos a su objeto; que se encuentren en los supuestos previstos en el artículo anterior referentes a otorgarlo en uso o goce mediante el pago de una contraprestación, estarán obligados a empadronarse en la Dirección de Finanzas y Tesorería Municipal en un plazo máximo de treinta días, contados a partir de la fecha de celebración del contrato correspondiente, entregando copia del mismo a la propia Dirección.
+
+La terminación de la relación jurídica que dio lugar a la contraprestación mencionada en el artículo inmediato anterior que generó el pago del impuesto predial sobre la base a que se refiere ese mismo artículo, será notificada a la Dirección de Finanzas y Tesorería Municipal, en un plazo de quince días, contados a partir de la fecha en que surta efecto. En tanto el sujeto obligado no notifique la terminación de la relación jurídica, recién mencionada, para efectos de esta Ley seguirá obligado a pagar sobre esta base, en los términos y condiciones del propio artículo 47, sin perjuicio de las sanciones que correspondan a esa infracción, de conformidad con lo previsto en esta Ley.
+
+Cuando de un inmueble formen parte dos o más departamentos y éstos se encontraren en los supuestos del citado artículo 47, el contribuyente deberá empadronarse por cada departamento. Los fedatarios públicos ante quienes se otorgare, firmare o ratificare el contrato, el convenio o el documento, que dio lugar a la situación jurídica, que permita al propietario, fideicomisario, fideicomitente, usufructuario o concesionario, obtener una contraprestación, en los términos señalados en el mismo artículo 47 de esta Ley, estarán obligados a entregar una copia certificada del mismo a la Dirección de Finanzas y Tesorería Municipal, en un plazo de treinta días, contados a partir de la fecha del otorgamiento, de la firma o de la ratificación del documento respectivo.
 
 #### Sección Séptima. Exenciones
 
@@ -1486,3 +1524,13 @@ GOBERNADOR DEL ESTADO DE YUCATÁN
 C. VÍCTOR EDMUNDO CABALLERO DURÁN
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 123/2019 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE PROGRESO, YUCATÁN".]
+
+Entrada en vigor
+
+Artículo Único.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
