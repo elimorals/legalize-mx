@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-del-poder-legislativo-del-estado-de-yucatan-768
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2019-04-22"
+last_updated: "2019-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 4 de octubre de 2010.
 
@@ -781,11 +781,21 @@ d) Lo relativo a los derechos de las personas con discapacidad y su integración
 
 e) Los asuntos relacionados con el fortalecimiento de la familia como núcleo básico de la sociedad;
 
-f) La vigilancia del cumplimiento de la política estatal en materia de respeto y defensa de los derechos humanos, así como la integración y funcionamiento de la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-g) Los que se refieran a la expedición de reformas, adiciones y derogaciones de la legislación estatal de la materia, y
+f) La vigilancia del cumplimiento de la política estatal en materia de respeto y defensa de los derechos humanos, la integración y funcionamiento de la Comisión Estatal de Derechos Humanos, así como realizar el análisis del informe de actividades que rinda anualmente quien tenga la titularidad de la Comisión Estatal ante el pleno de la legislatura, para lo cual deberá citar la comisión a comparecer a las autoridades o funcionarios públicos responsables de dicho organismo, para que den cuenta del estado que guarda su dependencia y el cumplimiento de la política de protección a los derechos humanos en el estado;
 
-h) Implementar las reformas constitucionales en materia de derechos humanos; desarrollar acciones para prevenir violaciones a los derechos humanos; proponer acciones para el fortalecimiento de las políticas públicas del Estado en materia de derechos humanos.
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+g) Los que se refieran a la expedición de reformas, adiciones y derogaciones de la legislación estatal de la materia;
+
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+h) Implementar las reformas constitucionales en materia de derechos humanos; desarrollar acciones para prevenir violaciones a los derechos humanos; proponer acciones para el fortalecimiento de las políticas públicas del Estado, en materia de derechos humanos, y
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+i) Cuando se le solicite al Congreso o a la Diputación Permanente, las comparecencias que señala el párrafo quinto del artículo 74 de la Constitución Política del Estado de Yucatán, esta comisión permanente realizará el procedimiento que se describe en el reglamento de esta ley.
 
 > <small>(ADICIONADA, D.O. 9 DE OCTUBRE DE 2015)</small>
 
@@ -1622,3 +1632,17 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Diario
 Segundo. Derogación Expresa.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 111/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE
+
+YUCATÁN, EN MATERIA DE DERECHOS HUMANOS”.]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
