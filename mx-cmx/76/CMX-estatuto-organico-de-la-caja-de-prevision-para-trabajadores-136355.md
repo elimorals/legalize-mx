@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-la-caja-de-prevision-para-trabajadores-136
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-05-24"
-last_updated: "2019-05-24"
+last_updated: "2019-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136355&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2019-05-10"
 
 ESTATUTO ORGÁNICO DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA DEL GOBIERNO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 14 DE NOVIEMBRE DE 2019.
 
 Estatuto publicado en el Número 98 de la Gaceta Oficial de la Ciudad de México, el viernes 24 de mayo de 2019.
 
@@ -96,15 +96,23 @@ Las bases de organización y funcionamiento del Organismo, se establecen en el p
 
 El gobierno del Organismo estará a cargo de un Consejo Directivo y la administración a cargo de un Director General, quienes para su desempeño tendrán las facultades y atribuciones que el presente Estatuto les otorga.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 7.
 
-El Consejo será el órgano de gobierno del Organismo y estará integrado por los siguientes miembros propietarios:
+El Consejo será el Órgano de Gobierno del Organismo y estará integrado por los siguientes miembros propietarios:
 
-I. Un Presidente, que será el Subsecretario de Capital Humano y Administración de la Secretaría de Administración y Finanzas de la Ciudad de México, con derecho a voz y voto;
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-II. Un Secretario que será designado por el Presidente del Consejo, con derecho a voz, pero sin voto;
+I. Un Presidente, que será el o la Titular de la Dirección General de Administración de Personal de la Secretaría de Administración y Finanzas de la Ciudad de México, con derecho a voz y voto;
 
-III. El Director General de Administración de Personal y Uninómina de la Subsecretaria de Administración y Capital Humano de la Secretaría de Administración y Finanzas de la Ciudad de México, como miembro propietario, con derecho a voz y voto
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+II. Un Secretario Técnico que será el o la Titular de la Dirección Ejecutiva de Administración de Personal y Uninómina de la Secretaría de Administración y Finanzas de la Ciudad de México, con derecho a voz, pero sin voto;
+
+> <small>(REFORMADA, G.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+III. El o la Titular de la Dirección Ejecutiva de Política y Relaciones Laborales de la Secretaría de Administración y Finanzas de la Ciudad de México, como miembro propietario, con derecho a voz y voto;
 
 IV. Dos representantes de la Secretaría de Administración y Finanzas del Gobierno de la Ciudad de México, designados por el titular de la propia Secretaria, como miembros propietarios, con derecho a voz y voto;
 
@@ -1175,3 +1183,13 @@ EL DIRECTOR GENERAL DE LA CAJA DE PREVISIÓN PARA TRABAJADORES A LISTA DE RAYA D
 (Firma)
 
 L.C. JORGE FRANCO AMBROCIO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE EL H. CONSEJO DIRECTIVO AUTORIZA LA REFORMA DEL ARTÍCULO 7° FRACCIONES I, II Y III DEL CAPÍTULO SEGUNDO DE SU ESTATUTO ORGÁNICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
