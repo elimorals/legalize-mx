@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-gobierno-del-poder-legislativo-del-8401
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-01"
-last_updated: "2019-03-01"
+last_updated: "2019-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 1 de diciembre de 2011.
 
@@ -1291,6 +1291,40 @@ Las abstenciones se tomarán como voto en contra, a menos que el diputado tenga 
 
 En caso de empate, el Presidente de la Comisión tendrá el voto de calidad.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+#### Sección Décimo Tercera. Del Procedimiento de las Comparecencias a solicitud de la Comisión Estatal de Derechos Humanos
+
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 150 Bis.
+
+Para las comparecencias de las autoridades o servidores públicos a los que hace referencia el quinto párrafo del artículo 74 de la Constitución Política del Estado de Yucatán, la Comisión Permanente de Derechos Humanos, se encargará de realizar el procedimiento siguiente:
+
+I. Una vez que ingrese al lugar destinado para sesionar la servidora o servidor público compareciente, la diputada o diputado Presidente de la Comisión Permanente de Derechos Humanos del Congreso procederá a tomarle protesta de decir verdad y le hará saber las responsabilidades de los servidores públicos que incurran en falsedad.
+
+El Presidente de la Comisión de Derechos Humanos del estado acudirá como invitado a la sesión de la comisión, el cual tendrá el uso de la voz cuando así lo solicite alguno de los legisladores presentes pero sin derecho al voto.
+
+II. Posteriormente la diputada o diputado Presidente de la Comisión Permanente de Derechos Humanos del Congreso del Estado le otorgará el uso de la voz para que exponga de manera fundada y motivada su negativa para dar cumplimiento a la recomendación que le emitió la Comisión de Derechos Humanos del estado.
+
+III. Posteriormente podrán hacer uso de la palabra los legisladores presentes que así lo soliciten en la comparecencia realizada en la Comisión. Estas intervenciones se realizarán en el orden que previamente lo hayan solicitado a la mesa directiva y cada una de ellas no excederá de diez minutos.
+
+IV. En el caso de que existan cuestionamientos o interpelaciones a la servidora o servidor público compareciente, la presidenta o presidente de la comisión dispondrá, previa aprobación de la Comisión, el procedimiento que se seguirá para responder a estos.
+
+V. A continuación, las y los legisladores podrán formular sus preguntas de manera directa al servidor público compareciente. Al final de cada una de ellas, el servidor público citado hará uso de la palabra para dar respuesta a cada una de ellas.
+
+Las preguntas e interpelaciones que hacen las diputadas y diputados al compareciente, ya sea por escrito o en forma verbal, deben ser concisas y expresarse de tal modo que permitan una respuesta similar que representen el interés público.
+
+Las respuestas deben ser breves y directamente vinculadas con las preguntas o interpelaciones hechas. Cuando a juicio de quien presida la comisión respectiva, el compareciente no responda en los términos del párrafo anterior, le concederá nuevamente el uso de la palabra a la diputada o diputado que formuló la pregunta o interpelación a fin de que señale las omisiones de la respuesta; para la contestación precisa el compareciente dispone del tiempo necesario para explicar con suficiencia y a satisfacción de la comisión.
+
+Cuando un servidor público no responda satisfactoriamente o evada las preguntas que se le formulan, la persona que presida la comisión le solicitará que a más tardar dentro de las cuarenta y ocho horas siguientes al de la comparecencia, responda por escrito y remita la información completa o la omitida, misma que presentará ante la Secretaria General del Poder Legislativo, quien la transmitirá inmediatamente a todos los diputados que conformen la Legislatura. De no hacerlo así, previo acuerdo del Pleno de la Comisión Permanente de Derechos Humanos del Congreso, se le convocará a una segunda comparecencia, ya sea ante la misma Comisión o ante el Pleno del Congreso del Estado.
+
+La Secretaría General deberá proveer el apoyo necesario para el mejor desarrollo de las comparecencias.
+
+VI. Una vez finalizados los cuestionamientos la servidora o servidor público compareciente, emitirá su conclusión y acto seguido, quien presida la Comisión de Derechos Humanos del Estado de Yucatán podrá hacer uso de la palabra sobre el tema para el que fue citado el servidor público, siempre y cuando así lo solicite alguno de los legisladores presentes.
+
+VII. Una vez realizada la comparecencia, se levantará un acta en la que se hará constar todo lo sucedido en la misma, y se dará vista a la autoridad competente, para los efectos legales correspondientes.
+
 ### CAPÍTULO II. De las faltas en comisiones de los Diputados
 
 ###### Artículo 151.
@@ -1744,3 +1778,15 @@ Artículo Segundo.- La implementación de las reformas contenidas en el presente
 Derogación expresa
 
 Artículo Tercero.- Se derogan todas las disposiciones de igual o menor rango que contravengan lo dispuesto en este Decreto.
+
+D.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 111/2019 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN Y EL REGLAMENTO DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN, EN MATERIA DE DERECHOS HUMANOS”.]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación expresa
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
