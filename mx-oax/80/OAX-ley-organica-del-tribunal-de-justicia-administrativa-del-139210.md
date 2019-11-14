@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-tribunal-de-justicia-administrativa-del-139210
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-11-07"
-last_updated: "2019-11-07"
+last_updated: "2019-11-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "OAX"
 ---
 # LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
 
+[N DE E. DE CONFORMIDAD CON LO ORDENADO POR EL ARTÍCULO 53 FRACCIÓN VI, PÁRRAFO SEGUNDO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECE QUE EN CASO DE QUE EL CONGRESO DEL ESTADO NO RESUELVA EN EL PLAZO ESTABLECIDO EN LA FRACCIÓN V DEL MISMO ARTÍCULO, SE TENDRÁN COMO APROBADAS LAS OBSERVACIONES QUE FUERON PRESENTADAS CON EL VETO POR EL PODER EJECUTIVO, PARA SURTIR INMEDIATAMENTE LOS EFECTOS CONDUCENTES DE PROMULGACIÓN Y PUBLICACIÓN, EN CONSECUENCIA SE PUBLICA EL ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE QUEDAN APROBADAS LAS OBSERVACIONES REALIZADAS AL DECRETO 805 POR EL QUE SE EXPIDE LA LEY ORGANICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA, EN EL P.O. 14 DE NOVIEMBRE DE 2019.]
+
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LO ORDENADO POR EL ARTÍCULO 53 FRACCIÓN VI, PÁRRAFO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA, QUE ESTABLECE QUE EN CASO DE QUE EL CONGRESO DEL ESTADO NO RESUELVA EN EL PLAZO ESTABLECIDO LA APROBACIÓN O RECHAZO DE LAS OBSERVACIONES PRESENTADAS CON EL VETO, SE TENDRÁN POR APROBADAS, PARA SURTIR INMEDIATAMENTE LOS EFECTOS CONDUCENTES DE PROMULGACIÓN Y PUBLICACIÓN, EN CONSECUENCIA SE PUBLICA EL ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE QUEDAN APROBADAS LAS OBSERVACIONES REALIZADAS AL DECRETO 805 EN EL P.O. 14 DE NOVIEMBRE DE 2019.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico del Oficial del Estado de Oaxaca, el jueves 7 de noviembre de 2019.
 
@@ -317,9 +321,11 @@ Los acuerdos, una vez aprobados por el Pleno, deberán publicarse en el boletín
 
 ### CAPÍTULO IV. DE LA PRESIDENCIA DEL TRIBUNAL
 
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 14 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 19.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/042/2019, fechado el 15 de octubre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+El Pleno del Tribunal elegirá de entre sus integrantes, mediante cédula en votación secreta, a la Presidenta o Presidente, quien lo será del Pleno del Tribunal y de la Sala Superior durante un periodo de dos años, con posibilidad de ser reelecto para otro periodo igual.
 
 ###### ARTÍCULO 20.
 
@@ -379,9 +385,11 @@ La Presidencia del Tribunal, para el ejercicio de sus atribuciones y el cumplimi
 
 ### CAPÍTULO I. DE LA SALA SUPERIOR
 
+> <small>(ADICIONADO [N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO], P.O. 14 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 22.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/042/2019, fechado el 15 de octubre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+La Sala Superior del Tribunal se integrará por cinco Magistradas o Magistrados y actuará en Pleno serán designadas y designados por el Gobernador del Estado y ratificados por el voto de las dos terceras de los miembros presentes de la Legislatura, en términos del artículo 114 QUÁTER de la Constitución.
 
 ###### ARTÍCULO 23.
 
@@ -711,7 +719,9 @@ V. Cuando figuren como parte en un juicio similar, pendiente de resolución en e
 
 VI. Cuando estén en una situación que pueda afectar su imparcialidad, en forma análoga o más grave que las mencionadas;
 
-VII. Cuando la Magistrada o Magistrado haya tenido relación de subordinación con alguna de las partes, sus abogados o representantes, y
+> <small>[N. DE E. CONTIENE LAS OBSERVACIONES DEL PODER EJECUTIVO DEL ESTADO, P.O. 14 DE NOVIEMBRE DE 2019]</small>
+
+VII. El contenido normativo de la presente fracción queda sin efectos conforme a las observaciones vertidas anteriormente.
 
 VIII. Cuando exista entre la Magistrada o el magistrado y alguna de las partes, sus abogados o representantes, una relación de amistad o enemistad manifiesta.
 
@@ -1298,3 +1308,15 @@ NOVENO.- Todas las referencias que en las leyes se hagan al Tribunal de lo Conte
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 25 de septiembre de 2019.- Dip. César Enrique Morales Niño, Presidente.- Dip. Yarith Tannos Cruz, Secretaria.- Dip. Arsenio Lorenzo Mejía García, Secretario.- Dip. Griselda Sosa Vásquez, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 05 de noviembre de 2019. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO.- DEL EJECUTIVO DEL ESTADO POR EL QUE QUEDAN APROBADAS LAS OBSERVACIONES REALIZADAS AL DECRETO 805 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. El contenido de los artículos publicados en este Acuerdo, formará parte íntegra del Decreto 805 por el que se expide la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Oaxaca.
