@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-agrario-1390
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-11-07"
-last_updated: "2019-11-07"
+last_updated: "2019-11-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139023&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2019-11-05"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE NOVIEMBRE DE 2019 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 15 DE NOVIEMBRE DE 2019.]</small>
 
 Reglamento publicado en el Número 5 del Diario Oficial de la Federación, el jueves 7 de noviembre de 2019.
 
@@ -1665,6 +1665,8 @@ QUINTO.- Los asuntos que con motivo de este Reglamento deban pasar de alguna uni
 
 SEXTO.- Con relación a los expedientes, asuntos, procedimientos y recursos iniciados en la Secretaría de la Reforma Agraria, y que han sido asumidos por la Secretaría de Desarrollo Agrario, Territorial y Urbano, con la publicación en el Diario Oficial de la Federación del presente Reglamento, hace las veces de notificación a los interesados de que esta Secretaría continuará con el trámite y resolución de los mismos, para todos los efectos legales procedentes.
 
-SÉPTIMO.- Cuando, en términos del último párrafo del artículo 37 de este Reglamento, el auxilio que proporcione la Secretaría de Desarrollo Agrario, Territorial y Urbano al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
+> <small>(F. DE E., D.O.F. 15 DE NOVIEMBRE DE 2019)</small>
+
+SÉPTIMO.- Cuando, en términos del último párrafo del artículo 39 de este Reglamento, el auxilio que proporcione la Secretaría de Desarrollo Agrario, Territorial y Urbano al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
 
 Dado en la Residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, a 5 de noviembre de 2019.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Desarrollo Agrario, Territorial y Urbano, Román Guillermo Meyer Falcón.- Rúbrica.
