@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2009-del-pleno-del-consejo-de-la-68807"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-06-12"
-last_updated: "2018-03-27"
+last_updated: "2019-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN EL DISTRITO FEDERAL, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de junio de 2009.
 
@@ -57,9 +57,9 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO] POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 4/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 26/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2019)</small>
 
-PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Primera Región está conformado por cuatro tribunales Colegiados de Circuito Auxiliares, dos con residencia en la Ciudad de México y dos con residencia en Naucalpan de Juárez, Estado de México, y tres juzgados de Distrito Auxiliares con sede en la Ciudad de México.
+PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Primera Región está conformado por dos tribunales Colegiados de Circuito Auxiliares, con residencia en la Ciudad de México, y tres juzgados de Distrito Auxiliares con sede en la Ciudad de México.
 
 Los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias, y su denominación será la siguiente:
 
@@ -71,9 +71,9 @@ b) Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Regi�
 
 c) (DEROGADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 4/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 27 DE MARZO DE 2018)
 
-d) Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
+d) (DEROGADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 26/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2019)
 
-e) Octavo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
+e) (DEROGADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 26/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2019)
 
 II. Juzgados de Distrito:
 
@@ -91,9 +91,9 @@ SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura 
 
 TERCERO. LIBROS DE GOBIERNO. Los órganos jurisdiccionales auxiliares que formarán parte del Centro Auxiliar de la Primera Región, como mecanismo de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de estos, contarán con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
 
-> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 8 DEL ACUERDO GENERAL 26/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2019)</small>
 
-CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. El Centro Auxiliar de la Primera Región cuenta con las Oficinas de Correspondencia Común siguientes: Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal; y Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México; éstas se integrarán con las plazas que fije la Dirección General de Estadística Judicial.
+CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. El Centro Auxiliar de la Primera Región cuenta con la Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México; ésta se integrará con las plazas que fije la Dirección General de Gestión Judicial.
 
 QUINTO. (DEROGADO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA EL MECANISMO DE ENVÍO, RECEPCIÓN Y DEVOLUCIÓN DE LAS REMESAS RELATIVAS A LOS APOYOS QUE PRESTAN LOS ÓRGANOS JURISDICCIONALES AUXILIARES, D.O.F. 15 DE ABRIL DE 2016)
 
@@ -400,3 +400,19 @@ OCTAVO. Los asuntos que hayan sido de la competencia del Tribunal Colegiado de C
 El Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos previo a su conclusión de funciones, deberá devolver al Primer y Segundo Tribunales Colegiados en Materias Penal y Administrativa del Decimoctavo Circuito, los asuntos pendientes de resolución en los que les estuviera prestando auxilio.
 
 NOVENO. Los asuntos que se encuentren en el Juzgado Sexto de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos, que concluye funciones se enviarán al Juzgado Primero de Distrito del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, a efecto de que integre la remesa correspondiente al mes de abril.
+
+D.O.F. 15 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 26/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SÉPTIMO Y OCTAVO TRIBUNALES COLEGIADOS DE CIRCUITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO Y DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA SERVICIO; Y QUE REFORMA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los magistrados del Séptimo y Octavo Tribunales Colegiados de Circuito del Centro Auxiliar de la Primera Región serán readscritos por el Pleno, a propuesta de la Comisión de Adscripción.
+
+A efecto de respetar los derechos laborales de los servidores públicos adscritos a los órganos jurisdiccionales auxiliares que concluyen funciones, la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal, realizará la implementación administrativa correspondiente para integrar a los órganos jurisdiccionales que se disponga.
+
+En caso de que algún servidor público cause baja en el órgano jurisdiccional que se le comisionará, la plaza se transferirá a la plantilla de plazas a disposición del Consejo de la Judicatura Federal para el fortalecimiento de órganos jurisdiccionales federales, puesto que las propuestas tienen como fin el respeto a los derechos laborales, pero con la limitante de recursos presupuestales.
+
+La transferencia de las plazas de los titulares que causan baja y la conversión de las plazas de los servidores públicos de confianza, se realizará conforme a la propuesta de la Dirección General de Recursos Humanos.
