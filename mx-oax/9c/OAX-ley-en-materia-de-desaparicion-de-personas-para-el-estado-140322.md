@@ -4,7 +4,7 @@ identifier: "OAX-ley-en-materia-de-desaparicion-de-personas-para-el-estado-14032
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-04"
-last_updated: "2019-10-04"
+last_updated: "2019-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2021.
 
 Ley publicada en el Número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 4 de octubre de 2019.
 
@@ -465,7 +465,29 @@ VII. Las demás que señalen las leyes y demás disposiciones legales aplicables
 
 ###### Artículo 36.
 
-(Observado por el Gobernador Constitucional del Estado, por oficio GEO/037/2019 fechado el 23 de septiembre de 2019, de conformidad con lo dispuesto en los artículos 53 fracción III y 79 fracción II de la Constitución Política del Estado Libre y Soberano de Oaxaca).
+Para ser Titular de la Comisión Estatal de Búsqueda se requiere:
+
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2021)</small>
+
+I.- Ser ciudadana o ciudadano mexicano;
+
+II. Contar con conocimientos y experiencia en defensa y/o promoción de derechos humanos, en búsqueda de personas, investigación de delitos de desaparición u otros delitos de alto impacto o complejidad, conocimientos en ciencias forenses o investigación criminal u otras materias relevantes para el ejercicio de sus funciones;
+
+III Tener por lo menos 25 años de edad, al día de su designación;
+
+IV. No haber sido condenado en sentencia ejecutoria por la comisión de un delito doloso o inhabilitado como servidor público;
+
+V. No haber resultado responsable de violaciones a derechos humanos en resoluciones jurisdiccionales o de organismos públicos autónomos de derechos humanos de las entidades federativas o del organismo nacional;
+
+VI. No haber recibido sanciones administrativas por acciones, omisiones, obstrucción y/o incumplimiento del deber en el desempeño de su trabajo;
+
+VII. No tener conflicto de interés en la búsqueda de personas o con el cargo de Comisionado Estatal;
+
+VIII. No haber desempeñado cargo en algún partido político, dentro de los cuatro años previos a su nombramiento;
+
+IX. Contar con título profesional, preferentemente en alguna de las disciplinas de las ciencias sociales y las humanidades, y
+
+X. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su nombramiento.
 
 ### CAPÍTULO ÚNICO. DE LA DISPOSICIÓN DE CADÁVERES
 
@@ -1136,3 +1158,13 @@ DÉCIMO. (Observado por el Gobernador Constitucional del Estado, por oficio GEO/
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro, Oaxaca, a 11 de septiembre de 2019.- Dip. César Enrique Morales Niño, Presidente.- Dip. Yarith Tannos Cruz.- Secretaria.- Dip. Arsenio Lorenzo Mejía García, Secretario.- Dip. Griselda Sosa Vásquez, Secretaria.- Rúbricas.”
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno, Centro, Oax., a 2 de octubre de 2019. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Lic. Héctor Anuar Mafud Mafud.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 826.- MEDIANTE EL CUAL DETERMINA EL RECHAZO DE LAS OBSERVACIONES ENVIADAS POR EL GOBERNADOR DEL ESTADO A TRAVÉS DEL VETO PARCIAL CONTENIDO EN SU OFICIO GEO/037/2019 POR LO QUE QUEDA FIRME LA REDACCIÓN DE LOS ARTÍCULOS 18, 20, 28, 29, 30, 32, 33, 34, 35 Y TRANSITORIO DÉCIMO DEL DECRETO 785; DETERMINA PROCEDENTE LA OBSERVACIÓN REFERIDA A INCLUIR COMO REQUISITO DE LA FRACCIÓN I DEL ARTÍCULO 36 DEL DECRETO 785, "SER CIUDADANA O CIUDADANO MEXICANO", POR LO QUE SE APRUEBA LA REDACCIÓN PROPUESTA AL ARTÍCULO CITADO, RECORRIENDOSE EN SU ORDEN NUMÉRICO LAS SIGUIENTES FRACCIONES”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación. Publíquese en términos de lo establecido en el párrafo tercero de la fracción VI del artículo 53 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Se instruye a la Secretaría de Servicios Parlamentarios, realice los trámites correspondientes para el cumplimiento de lo dispuesto en el presente Decreto.
