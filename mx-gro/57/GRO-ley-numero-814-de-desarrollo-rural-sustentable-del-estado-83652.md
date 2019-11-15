@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-814-de-desarrollo-rural-sustentable-del-estado-83652
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-21"
-last_updated: "2011-10-21"
+last_updated: "2019-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 814 DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 21 de octubre de 2011.
 
@@ -193,6 +193,10 @@ III. Contribuir a la soberanía y seguridad alimentaria del estado y la Nación 
 
 IV. Asegurar la conservación y mejoramiento de las especies, y semillas criollas y nativas relacionadas con la soberanía alimentaria; así como la preservación y aprovechamiento sustentable de la biodiversidad, y los recursos naturales existentes en el territorio estatal.
 
+> <small>(ADICIONADA, P.O. 15 DE NOVIEMBRE DE 2019)</small>
+
+V. Disminuir la brecha de género y establecer la igualdad de oportunidades entre hombres y mujeres que habitan y laboran en el sector rural, en la inclusión y el acceso a programas de subsidios productivos, equipamiento, asistencia técnica, seguros y financiamiento.
+
 ###### Artículo 7.
 
 Todos los programas y acciones de desarrollo rural sustentable que implemente el Gobierno del Estado, y en los que se coordine con los Gobiernos Federal y municipales, productores y las organizaciones de productores, se considerará la disponibilidad, la aptitud, el potencial y la calidad de los recursos naturales y productivos; así como las variables de carácter social, económico, cultural. Al respecto, preferentemente en tierras frágiles se establece como condición que previo a la realización de dichas acciones, promueva estudios de impacto ambiental, y/o de ordenamiento ecológico territorial; y que se tome en cuenta la tipología de productores que definan la Comisión Intersecretarial del Gobierno Federal y el Consejo Mexicano, validado y ajustado por el Consejo Guerrerense, a fin de generar las estrategias de atención de acuerdo a cada escenario y situación socioeconómica y cultural.
@@ -241,7 +245,9 @@ XV. Optimizar las estructuras del Gobierno estatal a través, de la descentraliz
 
 XVI. Fortalecer a nivel de organizaciones de productores, las funciones operativas en materia de desarrollo rural sustentable a través, de la planeación del territorio considerando como unidades básicas para ello la subcuenca y microcuenca.
 
-XVII. Incluir en los programas y acciones de desarrollo rural sustentable, la equidad de género y la participación organizada de los sectores tradicionalmente excluidos, tales como: las mujeres, los jóvenes, los indígenas, los migrantes, los minusválidos y los adultos mayores, entre otros.
+> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2019)</small>
+
+XVII. Incluir en los programas y acciones de desarrollo rural sustentable, la equidad de género y la participación organizada de los grupos sociales en situación de vulnerabilidad vinculados al sector agropecuario, específicamente mujeres, indígenas, jóvenes, jornaleros agrícolas, migrantes, adultos mayores, personas con discapacidad, de acuerdo con el artículo 111 de ésta Ley, y
 
 XVIII. Las demás acciones que acuerde o proponga el Consejo Guerrerense en congruencia con los propósitos de la presente ley y la normatividad de los programas públicos.
 
@@ -759,15 +765,31 @@ III. Se incorporará gradualmente el uso de abonos orgánicos, abonos verdes, bi
 
 IV. Para contrarrestar la práctica de rosa-tumba-quema se impulsará la labranza de conservación.
 
-V. Se rescatarán y mejorarán las semillas criollas y nativas
+V. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2019)
 
 VI. Se impulsará el intercambio de experiencias productivas entre campesinos
 
-VII. Se recuperará la cultura del maíz para fomentar su diversidad de usos, estableciendo el día conmemorativo del maíz a nivel estatal.
+VII. (DEROGADA, P.O. 15 DE NOVIEMBRE DE 2019)
 
 VIII. Establecer un programa estatal de bancos de maíz como una reserva técnica para las zonas deficitarias, las épocas de escases (sic) y el mercado estatal.
 
 IX. Se impulsará la siembra con alta densidad de plantas por hectárea, en zonas de alto potencial productivo, asegurando a la vez una adecuada fertilidad del suelo.
+
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 60 Bis.
+
+Para los fines de ésta Ley, el Ejecutivo Estatal a través de la Secretaría y los Ayuntamientos a través de sus Comisiones de Desarrollo Rural, serán los encargados de coordinar mecanismos de protección, producción y fomento de maíz nativos y criollos, conformación de Consejos Locales de Productores y guardianes del Maíz nativo, con el objeto de la preservación y conservación de las semillas de Maíz nativas y criollas, para lo cual
+
+I. Deberá establecer los mecanismos de protección al maíz nativo y criollo, en cuanto a su producción, comercialización, consumo y diversificación constante;
+
+II. Promover la productividad, competitividad y biodiversidad del maíz nativo y criollo;
+
+III. Fomentar el desarrollo sustentable del maíz nativo.
+
+IV. Para el almacenamiento, distribución y comercialización del maíz nativo y criollo, se fomentará la creación de centros de distribución;
+
+V. Constituir Consejos Locales de Productores y designar guardianes del maíz nativo y criollo, con el objeto de transferir los conocimientos y cosmovisiones del maíz nativo a las nuevas generaciones.
 
 ### CAPÍTULO IV. DEL DESARROLLO PECUARIO Y ACUÍCOLA
 
@@ -933,11 +955,11 @@ Además, apoyará la realización de estudios de mercado y la promoción de prod
 
 ### CAPÍTULO III. DEL FINANCIAMIENTO, SEGURO Y AHORRO RURAL
 
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 91.
 
-El Gobierno del Estado promoverá ante el sistema financiero, que las actividades y agentes económicos del medio rural accedan al financiamiento para el desarrollo productivo sustentable, mediante sistemas, esquemas y tratamientos que faciliten, amplíen y fortalezcan el uso del crédito, sobre todo a productores y comunidades de mayor rezago económico y social.
-
-El Gobierno del Estado colaborará de acuerdo a sus atribuciones, funciones y recursos en la integración del Sistema Nacional de Financiamiento Rural y desde la Comisión Intersecretarial, buscará fortalecer dicho sistema promoviendo el funcionamiento de una banca social en los términos de la legislación vigente.
+El Gobierno del estado promoverá ante el sistema financiero, que las actividades y agentes económicos del medio rural accedan al financiamiento para el desarrollo productivo sustentable, mediante sistemas, esquemas y tratamientos que faciliten, amplíen y fortalezcan el uso del crédito, sobre todo a productores y comunidades de mayor rezago económico y social, tomando en consideración los criterios de equidad de género, para disminuir la brecha en el acceso al financiamiento de hombres y mujeres en el sector rural.
 
 ###### Artículo 92.
 
@@ -1394,3 +1416,25 @@ EL SECRETARIO DE DESARROLLO RURAL.
 LIC. SOFIO RAMÍREZ HERNÁNDEZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 256 POR EL QUE SE REFORMAN LA FRACCIÓN XVII DEL ARTÍCULO 9 Y EL ARTÍCULO 91 Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 6, DE LA LEY NÚMERO 814 DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, en la Gaceta Parlamentaria del Congreso del Estado de Guerrero, en (sic) Página Web del Congreso y sus Redes Sociales, para su difusión y conocimiento general.
+
+P.O. 15 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257 POR EL QUE SE ADICIONA EL ARTÍCULO 60 BIS Y SE DEROGAN LAS FRACCIONES V Y VII DEL ARTÍCULO 60 DE LA LEY NÚMERO 814 DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, en la Gaceta Parlamentaria del Congreso del Estado de Guerrero, en (sic) Página Web del Congreso y sus Redes Sociales, para su difusión y conocimiento general.
