@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-la-sala-constitucional-del-poder-judicial-de-la-128261"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-04"
-last_updated: "2019-04-26"
+last_updated: "2019-11-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128261&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2018-05-03"
 
 LEY DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, REGLAMENTARIA DEL ARTÍCULO 36 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -54,83 +54,39 @@ LEY DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, REGLAM
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, regirán en la Ciudad de México, su aplicación corresponde al Poder Judicial de la entidad, a través de la Sala Constitucional y tiene por objeto reglamentar el artículo 36 de la Constitución Política de la Ciudad de México.
-
-La Sala Constitucional tiene un carácter permanente y será la máxima autoridad local en materia de interpretación de la Constitución Política de la Ciudad de México.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 2.
 
-La Sala Constitucional conocerá y resolverá con base en las disposiciones de la presente Ley sobre:
-
-I. Las acciones de inconstitucionalidad;
-
-II. Las controversias constitucionales;
-
-III. Las acciones por omisión legislativa;
-
-IV. Las acciones de cumplimiento en contra de las personas titulares de los poderes públicos, los organismos autónomos y las alcaldías;
-
-V. Del juicio de restitución obligatoria de derechos humanos, por recomendaciones aceptadas y no cumplidas, a fin de emitir medidas para su ejecución;
-
-VI. Las impugnaciones por resoluciones emitidas por los jueces de tutela en acción de protección efectiva de derechos humanos; y
-
-VII. Las impugnaciones que se presenten en el desarrollo del procedimiento de referéndum para declarar la procedencia, periodicidad y validez de este.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 3.
 
-En la interpretación y aplicación de esta ley, la Sala Constitucional deberá preservar la defensa, integridad, control y supremacía de la Constitución Local, y la integridad del sistema jurídico local, sin perjuicio de lo previsto en la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 4.
 
-La Sala Constitucional no tendrá competencia respecto de recursos ordinarios en contra de resoluciones judiciales definitivas emitidas por otras Salas del propio Tribunal Superior de Justicia.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 5.
 
-Para los efectos de esta ley se entenderá por:
-
-I. Constitución federal: Constitución Política de los Estados Unidos Mexicanos;
-
-II. Constitución local: Constitución Política de la Ciudad de México;
-
-III. Ley orgánica: Ley Orgánica del Poder Judicial de la Ciudad de México;
-
-IV. Autoridad: Dependencia, entidad, poder u órgano;
-
-VI (SIC). Gaceta oficial: Gaceta oficial de la Ciudad de México;
-
-VII. Sala Constitucional: Sala Constitucional del Poder Judicial de la Ciudad de México; y
-
-VIII. Presidente de la sala: Presidente de la Sala Constitucional.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 6.
 
-La Sala Constitucional deberá sujetarse a los siguientes principios:
-
-I. Interpretación conforme a la Constitución y con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia;
-
-II. Maximización de los derechos fundamentales establecidos en la Constitución federal y en los Tratados Internacionales de los que México sea parte y hayan sido ratificados conforme a derecho;
-
-III. Criterio de interpretación material de las disposiciones constitucionales y legales, conforme al estado social y democrático de derecho;
-
-IV. Criterio de interpretación procesal, considerando que el objeto de los procesos constitucionales, es obtener la observancia y cumplimiento de la Constitución local; y
-
-V. Impulsar de manera oficiosa el proceso, durante cada una de sus etapas. Los términos procesales precluyen por su simple cumplimiento.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 7.
 
-La Sala Constitucional se integrará por siete Magistradas y Magistrados designados por el Pleno del Tribunal Superior de Justicia de la Ciudad de México; el proceso de selección se llevará a cabo en sesiones abiertas y transparentes de acuerdo al procedimiento que establezca la Ley Orgánica. El número de integrantes de un mismo género no podrá ser mayor a cuatro.
-
-Los magistrados o magistradas de la Sala Constitucional durarán en el cargo ocho años, podrán ser ratificados y si lo fueren, solo podrán ser privados de sus puestos en los términos del Título Cuarto de la de la Constitución Federal y del Capítulo Segundo, del Título Sexto de la Constitución local. Para la ratificación, deberá observarse el mismo procedimiento que para la designación. Todo Magistrado al término de su encargo, será sometido al procedimiento de ratificación.
-
-La Sala elegirá anualmente en forma alterna entre sus miembros un presidente.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 8.
 
-La Sala Constitucional sesionará cada vez que se requiera; pudiendo establecer mediante acuerdos generales los días y horas en que ésta sesione. La Sala Constitucional estará en funciones hasta agotar el trámite de los asuntos de su competencia enlistados en el orden del día.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 9.
 
-Para ser nombrado Magistrado se requiere cumplir con los requisitos establecidos en la Ley orgánica.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ### Capítulo II. De los términos
 
@@ -582,467 +538,321 @@ b) Cuando sea injustificado o hubiera transcurrido el plazo sin que se hubiese c
 
 Las mismas providencias se tomarán respecto del superior jerárquico de la autoridad responsable si hubiese incurrido en responsabilidad, así como de los titulares que, habiendo ocupado con anterioridad el cargo de la autoridad responsable, hubieran incumplido la ejecutoria.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)</small>
+
 ## TÍTULO SEGUNDO. DE LOS MEDIOS DE CONTROL CONSTITUCIONAL
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo I. De las Controversias Constitucionales
 
 ###### Artículo 73.
 
-La Sala Constitucional conocerá de las controversias constitucionales que se susciten entre:
-
-I. La persona titular de una Alcaldía y el Concejo;
-
-II. Dos o más Alcaldías;
-
-III. Una o más Alcaldías y el Poder Ejecutivo o Legislativo, o algún organismo constitucional autónomo de la Ciudad;
-
-IV. Los Poderes legislativo y Ejecutivo de la Ciudad; y
-
-V. Los organismos constitucionales autónomos de la Ciudad y el Poder Ejecutivo o Legislativo de la Ciudad
-
-Lo anterior, siempre que tales controversias no sean competencia de la Suprema Corte de Justicia de la Nación conforme al artículo 105, fracción I, de la Constitución federal.
-
-Las controversias tendrán por objeto resolver si la disposición local de carácter general, el acto o actos impugnados son conformes o contrarios a la Constitución local, y declarar su validez o invalidez.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 74.
 
-En las controversias constitucionales se aplicarán en todo aquello que no se encuentre previsto en este Título, en lo conducente, las disposiciones contenidas en el Titulo I.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 75.
 
-El plazo para la interposición de la demanda será:
-
-I. Tratándose de actos, de treinta días contados a partir del día siguiente al en que conforme a la Ley del propio acto surta efectos la notificación de la resolución o acuerdo que se reclame; del que se haya tenido conocimiento de ellos o de su ejecución; o del que el actor se ostente sabedor de los mismos, y
-
-II. Tratándose de normas locales de carácter general, de treinta días contados a partir del día siguiente a la fecha de su publicación, o del día siguiente al en que se produzca el primer acto de aplicación de la norma que dé lugar a la controversia.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 76.
 
-Admitida la demanda, el magistrado instructor dará vista a las autoridades que hubieren emitido el acto o la norma impugnada y en su caso, a la autoridad que la hubiere promulgado, para que dentro del término de quince días produzcan su contestación.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 77.
 
-Las sentencias que resuelven controversias constitucionales establecerán en definitiva que autoridad es la competente.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
-La Sala Constitucional, podrá disponer lo que fuera procedente respecto de las situaciones de hecho o de derecho generadas al amparo de la competencia controvertida.
-
-Las sentencias producirán sus efectos a partir de la fecha que en las mismas se determine.
-
-La declaración de inconstitucionalidad no tendrá efectos retroactivos, salvo en materia penal, en la que regirán los principios generales y disposiciones legales aplicables en esta materia.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo II. De las Acciones de Inconstitucionalidad
 
 ###### Artículo 78.
 
-En las acciones de inconstitucionalidad se aplicarán en todo aquello que no se encuentre previsto en este Título, en lo conducente, las disposiciones contenidas en el Título I.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 79.
 
-El plazo para ejercitar la acción de inconstitucionalidad será de treinta días naturales contados a partir del día siguiente a la promulgación y publicación de normas locales de carácter general que se consideren total o parcialmente contrarias a la Constitución local o de aquellas que, aun siendo normas constitucionales de carácter local hubieren presentado vicios o violaciones en los procedimientos de su formación.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 80.
 
-Las acciones de inconstitucionalidad, podrán ser interpuestas por:
-
-I. La o el Jefe de Gobierno de la Ciudad de México;
-
-II. Cuando menos el treinta y tres por ciento de las y los diputados del Congreso;
-
-III. Cualquier organismo constitucional autónomo en la materia de su competencia;
-
-IV. La o el Fiscal General de Justicia;
-
-V. Los partidos políticos en materia electoral; y
-
-VI. La ciudadanía que considere afectados sus derechos por la vigencia de dicha Ley, siempre que la solicitud cuente con al menos cinco mil firmas de las personas inscritas en la lista nominal de electores de la Ciudad.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 81.
 
-En los casos previstos en la fracción II del artículo anterior, la demanda en que se ejercite la acción deberá estar firmada por cuando menos el treinta y tres por ciento de los integrantes del Congreso, por disposiciones locales de carácter general expedidas por este.
-
-La parte demandante, deberá designar como representantes comunes a cuando menos dos de sus integrantes, quienes actuarán conjunta o separadamente durante todo el procedimiento y aun después de concluido este. Si no se designaren representantes comunes, el Presidente de la Sala Constitucional lo hará de oficio. Los representantes comunes podrán autorizar delegados para que hagan promociones, concurran a las audiencias y en ellas rindan pruebas y formulen alegatos, así como para que promuevan los incidentes y recursos previstos en esta Ley.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 82.
 
-Admitida la demanda, el magistrado dará vista a las autoridades que hubieren emitido la norma y en su caso, la autoridad que la hubiere promulgado, para que dentro del término de quince días rindan un informe que contenga las razones y fundamentos tendientes a sostener la validez de la norma general impugnada o la improcedencia de la acción de inconstitucionalidad.
-
-La admisión de una acción de inconstitucionalidad no dará lugar a la suspensión de la norma cuestionada.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 83.
 
-Las causales previstas en las fracciones III y IV del artículo 31 solo podrán aplicarse cuando los supuestos contemplados en estas se presenten respecto de otra acción de inconstitucionalidad.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 84.
 
-Salvo en los casos en que el Fiscal General hubiere ejercitado la acción, el magistrado instructor le dará vista con el escrito y con los informes a que se refiere el artículo 73, a efecto de que hasta antes de la citación para sentencia, formule el pedimento que corresponda.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 85.
 
-Después de presentados los informes previstos en el artículo 82 o habiendo transcurrido el término para ello, el magistrado instructor pondrá los autos a la vista de las partes a fin de que dentro del término de cinco días formulen alegatos.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 86.
 
-Hasta antes de dictarse sentencia, el magistrado instructor podrá solicitar a las partes o a quien juzgue conveniente, todos aquellos elementos que a su juicio resulten necesarios para la mejor solución del asunto.
-
-Agotado el procedimiento, el magistrado instructor propondrá al Pleno de la Sala Constitucional el proyecto de sentencia para la resolución definitiva del asunto planteado.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 87.
 
-El Presidente de la Sala Constitucional, de oficio o a petición de parte, podrá decretar la acumulación de dos o más acciones de inconstitucionalidad siempre que en ellas se impugne la misma norma.
-
-Cuando exista conexidad entre acciones de inconstitucionalidad, controversias constitucionales y acciones de protección efectiva de derechos humanos, se estará a lo dispuesto en el artículo 51 de esta Ley.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 88.
 
-Contra los autos del magistrado instructor que decreten la improcedencia o el sobreseimiento de la acción procederá el recurso de reclamación.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 89.
 
-Al dictar sentencia, la Sala Constitucional deberá corregir los errores que advierta en la cita de los preceptos invocados y suplirá los conceptos de invalidez planteados en la demanda. La Sala Constitucional podrá fundar su declaratoria de inconstitucionalidad en la violación de cualquier precepto de la constitución local, haya o no sido invocado en el escrito inicial.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo III. De las Acciones por Omisión Legislativa
 
 ###### Artículo 90.
 
-Las acciones por omisión legislativa procederán cuando el Poder Legislativo o el Ejecutivo no hayan aprobado o publicado alguna Ley, decreto, norma local de carácter general o reglamentaria de la Constitución local, o habiéndolas aprobado se estime que no cumplen con los preceptos constitucionales.
-
-El ejercicio de esta acción podrá plantearse en cualquier momento, mientras subsista la omisión.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 91.
 
-Las acciones por omisión legislativa, podrán ser interpuestas por:
-
-I. La o el Jefe de Gobierno de la Ciudad de México;
-
-II. Cualquier organismo Constitucional autónomo local en la materia de su competencia;
-
-III. El o la Fiscal General;
-
-IV. Las alcaldías;
-
-V. El equivalente al quince por ciento de los integrantes del Congreso; y
-
-VI. La ciudadanía, siempre que la solicitud cuente con al menos cinco mil firmas de las personas inscritas en la lista nominal de electores de la Ciudad.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 92.
 
-En las acciones por omisión legislativa se aplicarán en todo aquello que no se encuentre previsto en este Título, en lo conducente, las disposiciones contenidas en el Título I.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 93.
 
-Admitida la demanda, el magistrado instructor dará vista a los órganos demandados, para que dentro del término de diez días rindan un informe en el que se exprese si la norma cuya omisión se plantea ha sido o no expedida.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 94.
 
-En todos los casos, se pedirá al Director de la Gaceta Oficial de la Ciudad de México que remita, dentro del plazo de cinco días, un informe en el que especifique si ha sido publicada la norma cuya omisión se plantea; y en caso afirmativo deberá anexar los ejemplares correspondientes en los que conste dicha norma y sus modificaciones.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 95.
 
-Si la demandada manifestare que su omisión obedece, a su vez, a la omisión de otra autoridad, se llamará al proceso como demandada a esa autoridad; y en la sentencia definitiva que se dicte, se resolverá sobre ambas omisiones.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 96.
 
-La sentencia que declare fundada la acción deberá ser aprobada por una mayoría de cuando menos cinco votos. La Sala Constitucional notificará al Congreso para que, en el periodo de sesiones ordinarias en que sea notificado, inicie el estudio del asunto materia de la omisión mediante el procedimiento legislativo que corresponda.
-
-En el caso de omisión de normas locales de carácter general, se obligará a la autoridad correspondiente a expedirla o cumplir lo ordenado en un plazo no mayor a noventa días naturales, pudiendo disminuir este plazo cuando el interés público lo amerite. La Sala revisará que haya sido subsanada en su totalidad.
-
-Si transcurrido el plazo señalado en el párrafo anterior no se atiende la resolución, la Sala Constitucional dictará las bases a que deban sujetarse las autoridades, en tanto se expide dicha norma local de carácter general.
-
-En caso de que la autoridad encargada de legislar no diese cumplimiento en tiempo a lo establecido en la sentencia, esta indicará los lineamientos generales para el debido cumplimiento del mandato omitido, pudiendo proceder, según el caso, en términos del Capítulo II, del Título Sexto de la Constitución local.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 97.
 
-La sentencia que emita el Pleno de la Sala Constitucional que decrete fundada la acción por omisión legislativa, surtirá sus efectos al día siguiente de su legal notificación a la parte demandada.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo IV. De las Acciones de Cumplimiento
 
 ###### Artículo 98.
 
-Las acciones de cumplimiento se interpondrán ante la Sala Constitucional en contra de toda acción u omisión de las personas titulares de los poderes públicos, los organismos autónomos y las alcaldías cuando se muestren renuentes a cumplir con sus obligaciones constitucionales y con las resoluciones judiciales.
-
-El ejercicio de esta acción podrá ejercitarse en cualquier tiempo, mientras subsista la renuencia por parte de la autoridad a cumplir con sus obligaciones constitucionales y con las resoluciones judiciales.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 99.
 
-Podrá ejercitar la Acción de Cumplimiento toda persona física o moral afectada por el incumplimiento de una obligación constitucional o resolución judicial a las (sic) cual se encuentren exigidos a cumplir las personas titulares de los poderes públicos, organismos autónomos y alcaldías.
-
-Estas acciones podrán ser interpuestas por cualquier Persona cuando se trate de derechos humanos.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 100.
 
-Con el propósito de constituir la renuencia, la procedencia de la acción requerirá que el accionante previamente haya reclamado el cumplimiento de una obligación constitucional o resolución judicial y la autoridad se haya ratificado en su incumplimiento o no contestado dentro de los diez días siguientes a la presentación de la solicitud.
-
-Excepcionalmente se podrá prescindir de este requisito, cuando el cumplirlo genere el inminente peligro de sufrir un perjuicio irremediable para el accionante, caso en el cual deberá ser justificado en la demanda.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 101.
 
-La Acción de Cumplimiento no procederá cuando el afectado tenga o haya tenido otro instrumento judicial para lograr el efectivo cumplimiento de la resolución y en el caso de cumplimiento de obligaciones constitucionales, cuando estas no sean materia de otro medio de control constitucional local.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 102.
 
-La demanda deberá contener:
-
-I. El nombre, identificación y lugar de residencia de la persona que instaura la acción;
-
-II. La determinación de la obligación constitucional o resolución judicial, de las cuales, en su caso, deberá adjuntarse copia del mismo;
-
-III. Una narración de los hechos constitutivos del incumplimiento;
-
-IV. Acreditación de la renuencia, salvo lo contemplado en la excepción del párrafo segundo del artículo 100 de la presente Ley, y que consistirá en la demostración de haberle pedido directamente su cumplimiento a la autoridad respectiva;
-
-V. Solicitud de pruebas y enunciación de las que pretendan hacer valer; y
-
-VI. La manifestación bajo protesta de decir verdad, de no haber presentado otra solicitud respecto a los mismos hechos o derechos ante ninguna otra autoridad.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 103.
 
-Dentro de los cinco días siguientes a la presentación de la demanda el magistrado instructor decidirá sobre su admisión o rechazo. Si la solicitud careciere de alguno de los requisitos señalados en el artículo anterior se prevendrá al solicitante para que la corrija en el término de tres días. Si no lo hiciere dentro de este término la demanda será desechada.
-
-En caso de que no aporte la prueba del cumplimiento del requisito de procedibilidad previsto en la fracción II del artículo que precede, salvo que se trate de la excepción allí contemplada, el desechamiento procederá de plano.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 104.
 
-El magistrado instructor podrá requerir informes a la autoridad contra quien se hubiere presentado la demanda y en su caso, el expediente o la documentación donde consten los antecedentes del asunto, los cuales deberán ser enviados dentro del plazo de cinco días. En caso de omisión injustificada en el envío de esas pruebas al magistrado instructor, este podrá aplicar las medidas de apremio previstas en esta ley para su cumplimiento.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 105.
 
-Si encontrándose en trámite la Acción de Cumplimiento, la autoridad contra quien se hubiere dirigido la acción cumpliere con la conducta requerida por la constitución o resolución judicial, se dará por terminado el trámite de la acción dictando auto en el que se declarará tal circunstancia.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 106.
 
-El cumplimiento de la obligación constitucional o resolución judicial antes de emitir sentencia no impedirá que se proceda contra la autoridad, si las acciones u omisiones en que incurrió generasen responsabilidad.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 107.
 
-La Acción de Cumplimiento no tendrá fines indemnizatorios. Cuando del incumplimiento de obligaciones constitucionales o resoluciones judiciales se generen perjuicios, los afectados podrán solicitar las indemnizaciones por medio de las acciones judiciales pertinentes.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 108.
 
-La sentencia se notificará a las partes en la forma establecida en esta Ley. Emitida la sentencia que ordena el cumplimiento del deber omitido, la autoridad renuente deberá cumplirlo sin demora.
-
-Si no lo hiciere dentro del plazo definido en la sentencia, el Juez se dirigirá al superior del responsable y le requerirá para que lo haga cumplir e inicie el procedimiento disciplinario que corresponda. Pasados cinco días ordenará iniciar el procedimiento correspondiente conforme a lo establecido en el artículo 36 de la Constitución local contra el Titular del órgano que no hubiere procedido conforme a lo ordenado y adoptará directamente todas las medidas para el cabal cumplimiento del mismo.
-
-El magistrado establecerá los demás efectos de la sentencia para el caso concreto y mantendrá la competencia hasta que cese el incumplimiento.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 109.
 
-Si la autoridad renuente incumple de manera injustificada la sentencia emitida, incurrirá en desobediencia. La Sala Constitucional procederá a separar de su cargo al titular del órgano responsable y dará vista a la autoridad competente, conforme a lo dispuesto por el régimen de responsabilidades previsto en el Capítulo II, del Título Sexto de la Constitución local según corresponda. La sanción será impuesta por el mismo magistrado mediante trámite incidental.
-
-Si la autoridad renuente incumple la sentencia emitida, pero dicho incumplimiento es justificado, la Sala Constitucional, otorgará un plazo que no excederá de 10 días para que proceda a su cumplimiento, plazo que podrá ampliarse a solicitud de la autoridad. Cuando hubiera transcurrido el plazo sin que se hubiese cumplido, se procederá en términos del párrafo anterior.
-
-Las mismas providencias se tomarán respecto del superior jerárquico de la autoridad responsable si hubiese incurrido en responsabilidad, así como de los titulares que, habiendo ocupado con anterioridad el cargo de la autoridad renuente, hubieran incumplido con sus obligaciones constitucionales y con las resoluciones judiciales.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 110.
 
-El afectado podrá solicitar el cumplimiento sustituto de las sentencias de la acción de cumplimiento a la Sala Constitucional, o decretado de oficio por esta, cuando la ejecución de la sentencia afecte a la sociedad en mayor proporción a los beneficios que pudiera obtener el afectado, o cuando, por las circunstancias del caso, sea imposible o desproporcionadamente gravoso restituir la situación que imperaba antes de la violación.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
-No podrá archivarse acción de cumplimiento alguno, sin que se haya cumplido la sentencia que ordena el cumplimiento de obligaciones constitucionales y de resoluciones judiciales.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo V. Del Juicio de Restitución Obligatoria de Derechos Humanos
 
 ###### Artículo 111.
 
-La Sala Constitucional conocerá del Juicio de restitución obligatoria de derechos humanos, a fin de que se emitan medidas para su ejecución.
-
-El juicio de restitución obligatoria de derechos humanos procederá en contra de cualquier acto, hecho u omisión de la autoridad, que conculque los derechos fundamentales reconocidos por la Constitución local.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 112.
 
-El juicio será sumario, de una sola instancia y tendrá como finalidad primordial emitir las medidas para la ejecución de recomendaciones aceptadas y no cumplidas dentro del procedimiento de queja por violación a derechos humanos causadas por entes públicos locales.
-
-La Sala Constitucional suplirá la queja en favor de la parte agraviada.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 113.
 
-El juicio de restitución será promovido por la Comisión de Derechos Humanos de la Ciudad de México, por recomendaciones aceptadas y no cumplidas respecto del procedimiento de queja por violación a derechos humanos causadas por entes públicos locales.
-
-Una vez que la Comisión de Derechos Humanos de la Ciudad de México expida la recomendación, le dará seguimiento y verificará que se cumpla en forma cabal.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 114.
 
-La Comisión de Derechos Humanos de la Ciudad de México no podrá conocer ni emitir recomendaciones sobre los siguientes asuntos:
-
-I. Actos y resoluciones de organismos y autoridades electorales;
-
-II. Resoluciones de carácter jurisdiccional;
-
-III. Quejas extemporáneas;
-
-III (SIC). Conflictos de carácter laboral;
-
-IV. Asuntos de la competencia de la Comisión Nacional de Derechos Humanos o de las Comisiones de Derechos Humanos de otras entidades federativas; y
-
-V. Asuntos en los cuales la Comisión Nacional de Derechos Humanos haya ejercitado la facultad de atracción que le confiere el artículo 60 de la Ley de la propia Comisión Nacional;
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 115.
 
-Las autoridades o servidores públicos serán responsables penal y administrativamente por los actos y omisiones indebidos en que incurran durante y con motivo de la tramitación de quejas y denuncias ante la Comisión de Derechos Humanos de la Ciudad de México, de conformidad con lo establecido en las disposiciones constitucionales y legales aplicables.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 116.
 
-La autoridad o servidor público que haya aceptado la recomendación emitida por la Comisión de Derechos Humanos de la Ciudad de México tendrá la responsabilidad de su total cumplimiento.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 117.
 
-Las Recomendaciones contendrán los siguientes elementos:
-
-I. Nombre del quejoso, autoridad señalada como responsable, número de expediente de la queja, lugar y fecha;
-
-II. Descripción de los hechos violatorios de Derechos Humanos;
-
-III. Enumeración de las evidencias que demuestran la violación a Derechos Humanos;
-
-IV. Descripción de la situación jurídica generada por la violación a Derechos Humanos y del contexto en el que los hechos se presentaron;
-
-V. Observaciones, adminiculación de pruebas y razonamientos lógico-jurídicos y de equidad en los que se soporte la convicción sobre la violación de Derechos Humanos reclamada;
-
-VI. Recomendaciones específicas, que son las acciones u omisiones solicitadas de la autoridad para la efectiva restitución de los agraviados en sus derechos fundamentales; si procede, para la reparación de los daños y perjuicios que se hubiesen ocasionado, y para sancionar a los responsables.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 118.
 
-La demanda deberá presentarse por escrito ante la Sala Constitucional, en la cual se acompañará el expediente que se haya integrado y que dio origen a la recomendación aceptada.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 119.
 
-Recibida la demanda, se turnará al magistrado instructor de la Sala Constitucional que corresponda, quien determinará la admisión de la misma y en general proveerá todo lo conducente hasta poner el asunto en estado de resolución.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 120.
 
-Admitida la demanda, se requerirá a la autoridad responsable para que en un término de cuarenta y ocho horas rinda un informe sobre los hechos que se le atribuyen.
-
-La falta de informe dentro del término legal por parte de la autoridad, tendrá el efecto de que se presuman ciertos los actos que se le imputan en la demanda, salvo prueba en contrario.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 121.
 
-La sentencia se dictará dentro del plazo máximo de diez días naturales contados a partir de la interposición de la demanda.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 122.
 
-En la (sic) sentencias se señalarán las medidas que procedan para la efectiva restitución de los afectados en sus derechos fundamentales y, si procede para la reparación de los daños y perjuicios que se hubiesen ocasionado, así como la sanción concerniente a los responsables de violaciones de derechos humanos causados por la actividad irregular de sus funciones.
-
-El magistrado instructor podrá solicitar al Pleno de la Sala Constitucional la revisión de algún criterio para aclarar el alcance de un derecho o evitar un perjuicio grave al emitir las medidas de ejecución de recomendaciones.
-
-En dicha sentencia se mandará notificar a la autoridad el contenido de la misma, y les requerirá para que en un plazo que no exceda de treinta días, dependiendo la naturaleza del derecho afectado, informen por escrito a la Sala Constitucional sobre su cumplimiento.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 123.
 
-Si al concluir el término indicado en el artículo anterior, la sentencia no ha sido cumplida o no se halle en vías de ejecución, la Sala Constitucional, de oficio o a instancia de parte, solicitará a la autoridad que justifique la razón del incumplimiento. Si esta no lo hace, se dará aviso al titular del órgano que corresponda, para que la obligue a cumplirla inmediatamente.
-
-Si la autoridad responsable, pese a habérselo ordenado el titular del órgano de que depende no cumple la sentencia, la Sala Constitucional, dejando copia certificada de las constancias, remitirá el original del expediente a la Fiscalía General de Justicia de la Ciudad de México para que proceda conforme a derecho.
-
-Los superiores jerárquicos de las autoridades responsables a quienes se hubiese requerido en términos del párrafo anterior, serán también responsables por el incumplimiento de la sentencia y se procederá conforme a lo dispuesto en el capítulo II, del Título Sexto de la Constitución local según corresponda.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 124.
 
-La Sala Constitucional dispondrá las medidas necesarias para el cumplimiento de la sentencia emitida, haciendo uso de los medios de apremio previstos en esta ley y adoptará directamente todas las medidas para el cabal cumplimiento del mismo.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 125.
 
-Ningún juicio para la restitución obligatoria de derechos humanos podrá archivarse si la sentencia que lo resolvió no está cumplida, salvo que ya no hubiera materia para su ejecución.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo VI. De la Impugnación de Resoluciones dictadas por Jueces de Tutela
 
 ###### Artículo 126.
 
-La Sala Constitucional conocerá sobre las impugnaciones a las resoluciones definitivas emitidas por las o los Jueces de tutela, las cuales deberán ser interpuestas por la parte quejosa dentro del término de diez días contados a partir de aquel en que surta efectos la notificación de la resolución emitida.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 127.
 
-Podrá recurrirse únicamente las resoluciones definitivas emitidas por el Juez de Tutela respecto de la acción de protección efectiva de derechos.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 128.
 
-La impugnación a resolución emitida por Juez de tutela debe interponerse por escrito ante la Sala Constitucional y tiene por objeto que ésta confirme, revoque o modifique la resolución.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 129.
 
-El escrito se presentará sin mayor formalidad mas que la manifestación de los conceptos de violación que contengan los agravios por los cuales no le satisface el sentido de la resolución.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 130.
 
-La impugnación a resolución emitida por Juez de tutela, solo puede interponerse por la parte agraviada, entendiéndose por tal, toda persona, grupo o comunidad natural o jurídica a quien perjudique o esté en inminente peligro de ser perjudicada por toda acción u omisión de cualquier autoridad local, que viole los derechos individuales y colectivos reconocidos en la Constitución Política de la Ciudad de México.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 131.
 
-Interpuesta una Impugnación, el magistrado instructor la admitirá sin substanciación alguna si fuere procedente, siempre que en el escrito se hayan hecho valer los conceptos de violación respectivos.
-
-El magistrado instructor en el mismo auto admisorio ordenará se forme el expediente respectivo, solicitando al Juez de tutela envíe todas las constancias que obren en el expediente que se tramitó ante él en un plazo que no excederá de tres días. De igual manera, al tener por interpuesta la impugnación, dará vista con la misma a la autoridad responsable, para que en el término de cinco días de contestación al recurso.
-
-La sala, al recibir las constancias que remita el Juez de tutela, citará a las partes en el mismo auto para dictar sentencia, la que pronunciará y notificará por Boletín Judicial, dentro del término de quince días;
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 132.
 
-En el caso del artículo anterior, se suspenderá la ejecución de la resolución impugnada, en tanto se emita la sentencia de la Sala Constitucional.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 133.
 
-Los criterios de resoluciones de la Sala Constitucional con relación a la acción de protección efectiva de derechos humanos serán vinculantes para las y los jueces de tutela.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 134.
 
-En los escritos de expresión de conceptos de violación y contestación, las partes solo podrán ofrecer pruebas, cuando hubieren ocurrido hechos supervenientes, especificando los puntos sobre los que deben versar las pruebas, que no serán extrañas ni a la cuestión debatida ni a los hechos sobrevenidos y la Sala Constitucional será la que admita o deseche las pruebas ofrecidas.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo VII. Del Referéndum
 
 ###### Artículo 135.
 
-La Sala Constitucional, será competente para substanciar y resolver sobre las impugnaciones que se presenten en el desarrollo del procedimiento de referéndum sobre adiciones, reformas o derogaciones constitucionales aprobadas por las dos terceras partes de las y los miembros del Congreso local, las cuales podrán ser interpuestas por la parte legitimada ante la Sala Constitucional en un plazo de diez días, contados a partir de aquel en que sean publicados los actos materia de controversia.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 136.
 
-La Sala Constitucional tendrá competencia para declarar la procedencia, periodicidad y validez del referéndum en los términos previstos por la Constitución local y las leyes en la materia.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 137.
 
-Estarán legitimados para promover impugnaciones en el procedimiento de referéndum:
-
-I. Al menos el cero punto cuatro por ciento de las y los ciudadanos inscritos en la lista nominal de electores de la Ciudad; y
-
-II. Cuando menos el treinta y tres por ciento de las y los diputados del Congreso.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 138.
 
-Las Impugnaciones podrán ser promovidas por el ciudadano cuando:
-
-I. El Congreso de la Ciudad no valide los porcentajes ciudadanos para solicitar el referéndum; y
-
-II. El Congreso de la Ciudad emita actos o resoluciones que violen o transgredan los resultados vinculatorios del referéndum.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 139.
 
-Las impugnaciones en el procedimiento de referéndum se tramitarán ante la Sala Constitucional, y procederán en contra de:
-
-I. La admisión o desechamiento de la petición de referéndum;
-
-II. La declaratoria de procedencia e inicio del procedimiento de referéndum;
-
-III. Las determinaciones sobre la periodicidad del procedimiento de referéndum;
-
-IV. La declaratoria de validez del referéndum; y
-
-V. Las demás que se presenten en el desarrollo del procedimiento previstas en la Ley de la materia.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 140.
 
-Las decisiones legislativas en las materias de derechos humanos, penal o tributaria, no serán sometidas a referéndum, así como las reservadas a la Federación, y las adecuaciones a la Constitución local, provenientes de la Constitución Política de los Estados Unidos Mexicanos y las leyes federales.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 141.
 
-El resultado de un Referéndum, tendrá los siguientes efectos:
-
-I.- Vinculatorio.- Cuando el resultado de la consulta obliga a la autoridad a su cumplimiento, siempre que la participación total corresponda, al menos, al treinta y tres por ciento de las y los ciudadanos inscritos en la lista nominal de electores.
-
-II.- Indicativo.- Cuando la opinión manifestada por parte de los ciudadanos en determinado sentido, no sujeta a la autoridad a su observancia, a falta del porcentaje mínimo establecido en la fracción anterior.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 142.
 
-El procedimiento de referéndum se tendrá por concluido con la declaración de validez y publicación que el Congreso de la Ciudad de México haga de los resultados de este, en la Gaceta Oficial de la Ciudad de México.
-
-Si las reformas aprobadas sujetas a referéndum fueren rechazadas en su totalidad y el resultado del referéndum tuviera efecto vinculante, se emitirá un acuerdo ordenando su archivo, y no podrá volver a presentarse en el mismo periodo ordinario de sesiones.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 143.
 
-El Congreso de la Ciudad de México determinará la entrada en vigor de las leyes o decretos de su competencia, conforme al resultado del referéndum que pudiera celebrarse.
+(DEROGADO POR EL TRANSITORIO TERCERO DE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, G.O. 15 DE NOVIEMBRE DE 2019)
 
 ### Capítulo VIII. De las Declaratorias de Inconstitucionalidad
 
@@ -1085,3 +895,21 @@ G.O. 26 DE ABRIL DE 2019.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. La presente reforma entrará en vigor inmediatamente después de que entre (sic) entren en vigor las reformas correspondientes al articulado transitorio de la Constitución de la Ciudad de México aludido en este decreto.
+
+G.O. 15 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA SALA CONSTITUCIONAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO: La presente ley entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: Remítase a la Jefa de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO: Se derogan los artículos 1ero a 9no., y el Título Segundo que comprende los artículos 73 al 143 de la Ley de la Sala Constitucional del Poder Judicial de la Ciudad de México, Reglamentaria del Artículo 36 de la Constitución Política de la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México el 04 de mayo de 2018; relativas a la organización y funcionamiento de la Sala Constitucional; subsistiendo las disposiciones procesales de dicho ordenamiento, en tanto se expide la Ley Procesal Constitucional de la Ciudad de México.
+
+CUARTO: Para efectos de lo previsto por el artículo 7 Fracción V inciso b) de esta ley, las Magistradas y Magistrados cuya designación se haya realizado en el periodo en que la legislación aplicable permita su retiro a los 75 años de edad, podrán designarse para ejercer funciones en la Sala Constitucional, siempre y cuando cuenten con una edad menor a los 67 años al día de la designación, salvo lo dispuesto en el siguiente transitorio.
+
+QUINTO: Para la designación de la primera integración de la Sala Constitucional en 2019, por única ocasión podrán participar todas las Magistradas y Magistrados que a la fecha de la designación hayan sido previamente ratificados, y no se sujetarán al requisito de edad a que se refiere el artículo 7 Fracción V inciso b) de esta ley, sin embargo, su retiro se realizará al cumplir la edad para la jubilación que les resulte aplicable, independientemente de que no sea posible concluir un periodo de 8 años como integrante de la Sala Constitucional. Las vacantes por jubilación de las Magistradas y Magistrados designados para la primera integración de la Sala Constitucional serán cubiertas en los términos de esta ley.
+
+SEXTO: La designación como integrante de la Sala Constitucional, de ninguna forma podrá constituir una extensión del mandato otorgado para el ejercicio del cargo de Magistrada o Magistrado, por lo que solo funcionará como una adscripción de competencia extraordinaria por materia, adicional a la que las Magistradas y Magistrados que la integren, tengan previamente asignada.
+
+SÉPTIMO: En tanto no entre en funciones la Fiscalía General de Justicia de la Ciudad de México, todas las menciones hechas en la presente Ley, se entenderán hechas a la Procuraduría General de Justicia de la Ciudad de México.
