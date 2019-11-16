@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-fomento-economico-del-estado-de-tabasco-9017"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-18"
-last_updated: "2017-12-09"
+last_updated: "2019-11-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE FOMENTO ECONOMICO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 153 POR EL QUE SE EXPIDE LA LEY PARA EL DESARROLLO ECONÓMICO SOSTENIBLE DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 16 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO ECONÓMICO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 18 de mayo de 1996.
 
@@ -1168,3 +1170,23 @@ Con la finalidad de vigilar el cumplimiento de las disposiciones fiscales relati
 DÉCIMO. El 30% del coeficiente de distribución de la recaudación excedente del Fondo de Fomento Municipal con respecto a 2013, y el año en que se efectúe el cálculo, en términos de la fórmula establecida en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, que a la entrada en vigor del presente decreto le corresponda a los municipios, se distribuirá en términos de lo dispuesto en el artículo 16 Quáter de la presente Ley.
 
 DÉCIMO PRIMERO. Las promociones a que se refiere el artículo 19 del Código Fiscal del Estado de Tabasco, que se hubieran presentado con anterioridad a la entrada en vigor del presente decreto, continuarán su trámite hasta su resolución conforme a las disposiciones vigentes a la fecha de su presentación.
+
+P.O. 16 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 153 POR EL QUE “SE EXPIDE LA LEY PARA EL DESARROLLO ECONÓMICO SOSTENIBLE DEL ESTADO DE TABASCO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga la Ley de Fomento Económico del Estado de Tabasco, publicada en el Periódico Oficial del Estado, número 5603, de fecha 18 de mayo de 1996.
+
+TERCERO. El Ejecutivo estatal expedirá el Reglamento de la Ley en un término no mayor al de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. El Consejo deberá instalarse dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. La Secretaría deberá constituir el Sistema y el Registro Público Estatal de Certificaciones dentro de los trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Decreto.
+
+SEXTO. El Registro Único de Empresas y el Registro Municipal de Empresas se constituirán en un plazo no mayor a los ciento ochenta días hábiles posteriores a la entrada en vigor del Reglamento.
+
+SÉPTIMO. Los incentivos otorgados de conformidad con la Ley que por virtud del presente Decreto se abrogan, continuarán en los términos en que fueron acordados.
+
+OCTAVO. La Secretaría de Finanzas previo acuerdo con el titular del Poder Ejecutivo determinará la integración del Comité Técnico del fideicomiso que se menciona en el Capítulo IX de la presente Ley, de conformidad con lo dispuesto en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, para lo cual deberá realizar las adecuaciones pertinentes al Contrato de Fideicomiso y a las Reglas de Operación del "Fideicomiso para el Fomento y Desarrollo de las Empresas del Estado de Tabasco" en un plazo no mayor a ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
