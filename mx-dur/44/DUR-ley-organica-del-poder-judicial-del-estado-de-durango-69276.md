@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2019-07-02"
+last_updated: "2019-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -1807,9 +1807,17 @@ IV. Elaborar los manuales de organización y procedimientos de las diversas unid
 
 V. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativas a los sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Poder Judicial;
 
-VI. Comprobar el cumplimiento por parte de los órganos administrativos de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
-VII. Las demás que le señale el Consejo de la Judicatura.
+VI. Comprobar el cumplimiento por parte de los órganos administrativos de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+VII. Elaborar y presentar al Consejo de la Judicatura, a efecto de su acuerdo y aprobación, un esquema administrativo interno, orientado a suprimir en el Poder Judicial del Estado, la adquisición oficial de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable. Dicho esquema deberá revisarse, actualizarse y evaluarse sus resultados de manera anual; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Las demás que le señale el Consejo de la Judicatura.
 
 ###### ARTÍCULO 118.
 
@@ -3590,3 +3598,15 @@ P.O. 2 DE JULIO DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 186.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2020.
+
+SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entrada en vigor del presente Decreto, el órgano de Auditoría Interna del Poder Judicial del Estado deberá diseñar y presentar al Consejo de la Judicatura del Poder Judicial del Estado de Durango, a efecto de su acuerdo y aprobación, el esquema administrativo referido en la fracción VII del artículo 117 de la Ley Orgánica del Poder Judicial del Estado de Durango, objeto del presente Decreto. La aprobación final de tal esquema administrativo por parte del Consejo de la Judicatura deberá realizarse en un plazo máximo de 60 días hábiles contados a partir de la presentación del mismo por parte de (sic) órgano de Auditoría Interna del Poder Judicial.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
