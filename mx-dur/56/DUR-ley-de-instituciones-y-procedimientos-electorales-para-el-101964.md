@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2017-06-29"
+last_updated: "2019-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -1484,6 +1486,12 @@ VIII. Revisar que a los, partidos políticos, a las agrupaciones políticas y a 
 IX. Asistir a las sesiones del Consejo General, y
 
 X. Las demás que le confiera esta Ley y el Consejo General.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 101 BIS
+
+La Dirección de Administración diseñará e implementará, en conjunto con el Secretario Ejecutivo, un esquema administrativo interno, orientado a suprimir en el Instituto la adquisición oficial (sic) plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable. Dicho esquema deberá revisarse, actualizarse y evaluarse sus resultados de manera anual.
 
 ARTÍCULO 102
 
@@ -5384,3 +5392,15 @@ P.O. 29 DE JUNIO DE 2017.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales, en lo que se opongan al presente decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 188.- QUE CONTIENE ADICIÓN A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2020.
+
+SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entrada en vigor del presente Decreto, la Dirección de Administración, en conjunto con el Secretario Ejecutivo, deberá haber elaborado y publicado internamente el esquema administrativo referido en el artículo 101 BIS de la Ley de Instituciones y Procedimientos Electorales para el Estado de Durango, objeto del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
