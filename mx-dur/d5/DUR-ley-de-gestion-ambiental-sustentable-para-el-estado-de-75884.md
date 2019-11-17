@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-gestion-ambiental-sustentable-para-el-estado-de-75884"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-24"
-last_updated: "2018-11-18"
+last_updated: "2019-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de junio de 2010.
 
@@ -36,6 +36,8 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 Con fecha 07 de junio del presente año, el C. C.P. Ismael Alfredo Hernández Deras, Gobernador Constitucional del Estado, envió a esta H. LXIV Legislatura Local, Iniciativa de Decreto, que contiene LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Ecología integrada por los CC. Diputados: Pedro Herrera Favela, Hipolito Pasillas Ortíz, Alfredo Miguel Herrera Deras, Mariano Soto Caldera y Servando Marrufo Fernández; Presidente, Secretario y Vocales respectivamente los cuales emitieron su dictamen favorable con base en los siguientes:
 
 C O N S I D E R A N D O S:
+
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
@@ -211,125 +213,137 @@ XXXIII. Inspección: Actuación mediante la cual se reconoce la situación en qu
 
 XXXIV. Ley Estatal: Ley de Gestión Ambiental Sustentable para el Estado de Durango;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
-XXXV. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
-
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
-
-XXXVI. Licencia Ambiental Única: Instrumento de regulación directa de carácter estatal que conjunta en un solo proceso la evaluación y dictamen de las obligaciones ambientales de las fuentes fijas en materia de impacto y riesgo ambiental, emisiones contaminantes a la atmósfera, generación y tratamiento de residuos peligrosos, que aunado con otras autorizaciones, son base inicial para la integración de la base de datos;
+XXXV. Ley Orgánica: Ley Orgánica de la Procuraduría de Protección al Ambiente del Estado de Durango;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXXVII. Manifestación de impacto ambiental: Documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XXXVI. Ley General: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXXVIII. Mejoramiento Ambiental: El incremento de la calidad del ambiente;
+XXXVII. Licencia Ambiental Única: Instrumento de regulación directa de carácter estatal que conjunta en un solo proceso la evaluación y dictamen de las obligaciones ambientales de las fuentes fijas en materia de impacto y riesgo ambiental, emisiones contaminantes a la atmósfera, generación y tratamiento de residuos peligrosos, que aunado con otras autorizaciones, son base inicial para la integración de la base de datos;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XXXIX. Mitigación: Acción o acciones tomadas para atenuar, eliminar o compensar el efecto de impactos ambientales negativos;
+XXXVIII. Manifestación de impacto ambiental: Documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental significativo y potencial que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XL. Monitoreo: Evaluación sistemática cualitativa y cuantitativa de la calidad del agua, suelo o atmósfera;
+XXXIX. Mejoramiento Ambiental: El incremento de la calidad del ambiente;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLI. Ordenamiento ecológico: Instrumento de política ambiental cuyo objeto es la planeación, dirigida a evaluar y programar el uso de suelos y el manejo de los recursos naturales en el territorio estatal y municipal, para preservar y restaurar el equilibrio ecológico, proteger el ambiente y aprovechar los recursos naturales de acuerdo a su potencialidad;
+XL. Mitigación: Acción o acciones tomadas para atenuar, eliminar o compensar el efecto de impactos ambientales negativos;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLII. Órganos Consultivos: Asociación de ciudadanos, constituidos para fines determinados en la presente Ley;
+XLI. Monitoreo: Evaluación sistemática cualitativa y cuantitativa de la calidad del agua, suelo o atmósfera;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLIII. Preservación: Conjunto de actividades y medidas para mantener las condiciones propicias para la evolución y continuidad de los procesos;
+XLII. Ordenamiento ecológico: Instrumento de política ambiental cuyo objeto es la planeación, dirigida a evaluar y programar el uso de suelos y el manejo de los recursos naturales en el territorio estatal y municipal, para preservar y restaurar el equilibrio ecológico, proteger el ambiente y aprovechar los recursos naturales de acuerdo a su potencialidad;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLIV. Prestador de Servicios: Persona física o moral certificada, registrada o autorizada por la dependencia o entidad correspondiente, que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o terceros y que es responsable del contenido de los mismos;
+XLIII. Órganos Consultivos: Asociación de ciudadanos, constituidos para fines determinados en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+XLIV. Plásticos de un solo uso: Son aquellos que están diseñados para ser utilizados una única vez y son desechados sin contar con una reutilización
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLV. Prevención: Conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+XLV. Preservación: Conjunto de actividades y medidas para mantener las condiciones propicias para la evolución y continuidad de los procesos;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLVI. Protección: Conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
+XLVI. Prestador de Servicios: Persona física o moral certificada, registrada o autorizada por la dependencia o entidad correspondiente, que elabora informes preventivos, manifestaciones o estudios de impacto ambiental o de riesgo por cuenta propia o terceros y que es responsable del contenido de los mismos;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+XLVII. Prevención: Conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente.
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLVII. Recursos Biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
+XLVIII. Protección: Conjunto de políticas y medidas para mejorar el ambiente, prevenir y controlar su deterioro;
+
+> <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+XLIX. Procuraduría Ambiental: La Procuraduría de Protección al Ambiente del Estado de Durango.
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLVIII. Recursos Genéticos: Todo material genético, con valor real o potencial que provenga de origen vegetal, animal, microbiano, o de cualquier otro tipo y que contenga unidades funcionales de la herencia, existentes en el territorio nacional y en las zonas donde la nación ejerce soberanía y jurisdicción;
+L. Recursos Biológicos: Los recursos genéticos, los organismos o partes de ellos, las poblaciones, o cualquier otro componente biótico de los ecosistemas con valor o utilidad real o potencial para el ser humano;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-XLIX. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
+LI. Recursos Genéticos: Todo material genético, con valor real o potencial que provenga de origen vegetal, animal, microbiano, o de cualquier otro tipo y que contenga unidades funcionales de la herencia, existentes en el territorio nacional y en las zonas donde la nación ejerce soberanía y jurisdicción;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-L. Región ecológica: La unidad del territorio nacional que comparte características ecológicas comunes;
+LII. Recurso natural: Elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LI. Remediación: Remoción de contaminación o contaminantes del suelo, subsuelo, agua, y la atmosfera, para la protección general de la salud humana y del ambiente o de sitios provistos para el desarrollo;
+LIII. Región ecológica: La unidad del territorio nacional que comparte características ecológicas comunes;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+LIV. Remediación: Remoción de contaminación o contaminantes del suelo, subsuelo, agua, y la atmosfera, para la protección general de la salud humana y del ambiente o de sitios provistos para el desarrollo;
 
 > <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LIII. Residuo Peligroso: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, representen un peligro para el equilibrio ecológico o el ambiente;
+LV. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+
+LVI. Residuo Peligroso: Todos aquellos residuos, en cualquier estado físico, que por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico-infecciosas, representen un peligro para el equilibrio ecológico o el ambiente;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LIV. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+LVII. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LV. Registro de Emisiones y Transferencia de Contaminantes (RETC): Base de datos pública que contiene información sobre emisiones al aire, agua, suelo y subsuelo y transferencia en residuos y en descargas de aguas residuales de contaminantes y de sustancias que determine el estado a través de la autoridad competente;
+LVIII. Registro de Emisiones y Transferencia de Contaminantes (RETC): Base de datos pública que contiene información sobre emisiones al aire, agua, suelo y subsuelo y transferencia en residuos y en descargas de aguas residuales de contaminantes y de sustancias que determine el estado a través de la autoridad competente;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LVI. Sanción: Consecuencia jurídico legal por la comisión u omisión de ciertos actos, o por la infracción de ciertos preceptos;
+LIX. Sanción: Consecuencia jurídico legal por la comisión u omisión de ciertos actos, o por la infracción de ciertos preceptos;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LVII. Secretaría: Secretaría de Recursos Naturales y Medio Ambiente;
+LX. Secretaría: Secretaría de Recursos Naturales y Medio Ambiente;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LVIII. Servicios ambientales: Actos o procesos por los cuales la naturaleza ofrece un servicio potencial de agua, electricidad, oxigenación u otro de naturaleza semejante;
+LXI. Servicios ambientales: Actos o procesos por los cuales la naturaleza ofrece un servicio potencial de agua, electricidad, oxigenación u otro de naturaleza semejante;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LIX. Servidumbre ecológica: Acuerdo entre dos o más propietarios de bienes inmuebles, para limitar o restringir el uso de suelo, con el fin de preservar la riqueza biológica o escénica;
+LXII. Servidumbre ecológica: Acuerdo entre dos o más propietarios de bienes inmuebles, para limitar o restringir el uso de suelo, con el fin de preservar la riqueza biológica o escénica;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LX. Sistemas de drenaje y alcantarillado urbano o municipal: Conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, incluyendo las pluviales;
+LXIII. Sistemas de drenaje y alcantarillado urbano o municipal: Conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, incluyendo las pluviales;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LXI. Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado;
+LXIV. Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LXII. Utilidad pública: De interés o beneficio para el pueblo;
+LXV. Utilidad pública: De interés o beneficio para el pueblo;
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LXIII. Vocación natural: Condiciones propias o particulares que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos; y
+LXVI. Vocación natural: Condiciones propias o particulares que presenta un ecosistema para sostener una o varias actividades sin que se produzcan desequilibrios ecológicos; y
 
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
-LXIV. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
+LXVII. Zonificación: El instrumento técnico de planeación que puede ser utilizado en el establecimiento de las áreas naturales protegidas, que permite ordenar su territorio en función del grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial, de conformidad con los objetivos dispuestos en la misma declaratoria. Asimismo, existirá una subzonificación, la cual consiste en el instrumento técnico y dinámico de planeación, que se establecerá en el programa de manejo respectivo, y que es utilizado en el manejo de las áreas naturales protegidas, con el fin de ordenar detalladamente las zonas núcleo y de amortiguamiento, previamente establecidas mediante la declaratoria correspondiente.
 
 ###### ARTÍCULO 3.
 
@@ -367,7 +381,9 @@ V. Prevenir y controlar actividades que generen riesgo, tales como las producida
 
 VI. Desarrollar programas tendientes a mejorar la calidad del aire, de aguas, suelo y subsuelo en bienes y zonas de jurisdicción estatal;
 
-VII. La regulación, creación, administración y vigilancia de áreas naturales protegidas;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+VII. La regulación, creación y administración de áreas naturales protegidas;
 
 VIII. La regulación de las actividades que no sean consideradas como altamente riesgosas, cuando por los efectos que puedan generar se afecten ecosistemas de la entidad o sus municipios;
 
@@ -450,6 +466,56 @@ XL. Verificar que las bolsas que se entreguen cumplan con los criterios y normas
 XLI. Prohibir que se entreguen para transportación, carga o traslado del consumidor final a título gratuito, de manera onerosa, o con motivo de cualquier acto comercial, bolsas de plástico que no estén sujetas a los criterios y normas para la producción y el consumo sustentable; y
 
 XLII. Las demás a que se refiere esta Ley y demás ordenamientos jurídicos complementarios y supletorios.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 5 BIS.- Corresponde a la Procuraduría Ambiental, ejercer las atribuciones de inspección, vigilancia, verificación, auditoría sustentable y el cumplimiento de las disposiciones contenidas en la presente Ley, así como de las demás disposiciones legales, normativas y reglamentarias aplicables, incluyendo todas aquellas que se desprendan de los acuerdos o convenios que se suscriban entre el Estado, la Federación y los Municipios, que tiendan a la preservación y restauración del equilibrio ecológico y la protección del ambiente.
+
+Las disposiciones de este Título se aplicarán en la realización de actos de inspección y vigilancia, ejecución de medidas de seguridad; determinación de infracciones administrativas y sus sanciones, procedimientos y recursos administrativos, cuando se trate de asuntos de competencia estatal y municipal normados por esta ley, por los reglamentos y bandos de policía y gobierno. A esta Procuraduría Ambiental le corresponde particularmente el ejercicio de las siguientes atribuciones:
+
+I. Prevenir y controlar la contaminación atmosférica generada por fuentes fijas que funcionen como industrias y móviles, que conforme a la Ley General no sean de competencia federal;
+
+II. Prevenir y controlar actividades que generen riesgo, tales como las producidas por empresas de servicio;
+
+III. Implementar, operar y supervisar sistemas de tratamiento de aguas residuales;
+
+IV. Verificar el cumplimiento de las Normas Oficiales Mexicanas, sobre la materia;
+
+V. Prevenir y controlar la contaminación generada por la emisión de ruido, vibraciones, energía térmica, lumínica, radiaciones electromagnéticas no ionizantes y olores perjudiciales al equilibrio ecológico o al ambiente, provenientes de fuentes fijas que funcionen como establecimientos industriales, comerciales o de servicios, así como, en su caso, de fuentes móviles que conforme a lo establecido en la Ley General, no sean de competencia federal;
+
+VI. Prevenir y controlar la contaminación generada por el aprovechamiento de las sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, tales como rocas o productos de su descomposición que sólo puedan utilizarse para la fabricación de materiales para la construcción u ornamento de obras;
+
+VII. Vigilar las áreas naturales protegidas de competencia estatal;
+
+VIII. Emitir las recomendaciones a las autoridades competentes en materia ambiental, con el propósito de promover el cumplimiento de la Ley Estatal;
+
+IX. Atender de manera coordinada con la Federación en asuntos que afecten el equilibrio ecológico de dos o más Entidades Federativas, cuando así lo consideren conveniente;
+
+X. Aplicar las medidas correctivas, de seguridad y sanciones administrativas que procedan, por infracciones a esta Ley y su Reglamento, o a las disposiciones que de dichos instrumentos legales emanen;
+
+XI. Realizar los convenios generados de procedimientos administrativos;
+
+XII. Ordenar la realización de visitas de inspección para verificar el cumplimiento de los preceptos de la presente Ley, su Reglamento, y demás normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo y las condicionantes que en materia ambiental se tengan en los registros, documentos y autorizaciones que se emitan;
+
+XIII. Clausurar y suspender las obras o actividades y en su caso, solicitar la revocación y cancelación de las licencias de construcción y uso de suelo cuando se violenten los criterios y disposiciones de esta Ley y su Reglamento;
+
+XIV. Emitir las resoluciones que pongan fin al procedimiento de inspección y vigilancia, cualquier actuación administrativa, que sea necesaria de conformidad con la presente Ley;
+
+XV. Dar trámite y resolver los recursos administrativos que le competen conforme al presente ordenamiento;
+
+XVI. Atender y resolver las denuncias ciudadanas, presentadas conforme a lo que establece esta Ley, de acuerdo a su competencia;
+
+XVII. Proporcionar la información pública que le sea solicitada, de conformidad con lo establecido en la ley respectiva;
+
+XVIII. Prevenir, controlar y abatir el uso de bolsas de plástico de uso único, de poliestireno de alta o baja densidad, que se entreguen a título gratuito, de manera onerosa o con motivo de cualquier acto comercial, para transportación, carga o traslado al consumidor final;
+
+XIX. Verificar que las bolsas que se entreguen conforme al artículo 108 Bis de esta Ley, cumplan con los criterios y normas de producción y consumo sustentable de reducción, reciclaje y reutilización, de modo que garanticen la disminución de los impactos ambientales; promoviendo el uso de materias primas provenientes de los recursos naturales, renovables y reciclables;
+
+XX. Prohibir que se entreguen para transportación, carga o traslado del consumidor final a título gratuito, de manera onerosa, o con motivo de cualquier acto comercial, bolsas de plástico de alta o baja densidad; y
+
+XXI. Promover el uso de materias primas provenientes de los recursos naturales renovables y reciclables; y
+
+XXII. Las demás a que se refiere esta Ley y demás ordenamientos jurídicos complementarios y supletorios.
 
 ###### ARTÍCULO 6.
 
@@ -719,11 +785,15 @@ El pago de derechos de Impacto y Riesgo Ambiental se efectuará en base y confor
 
 El monto del pago de prórrogas será de acuerdo al plazo de la prórroga solicitada.
 
-### CAPÍTULO II. DE LOS INSTRUMENTOS DE AUTORREGULACIÓN Y AUDITORÍAS AMBIENTALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+### CAPÍTULO II. DE LOS INSTRUMENTOS DE AUTORREGULACIÓN Y AUDITORÍAS SUSTENTABLES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 32.
 
-Las empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando los ordenamientos aplicables a la materia y se comprometan a cumplir o alcanzar las metas y beneficios en materia de protección ambiental, para tal efecto la Secretaría inducirá o concretará:
+Las empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental, respetando los ordenamientos aplicables a la materia y se comprometan a cumplir o alcanzar las metas y beneficios en materia de protección ambiental, para tal efecto la Secretaría por conducto de la Procuraduría Ambiental inducirá o concretará:
 
 I. El desarrollo de los procesos productivos eficientes y compatibles con el ambiente, así como sistemas de protección y restauración en la materia, convenidos con asociaciones o cámaras de industria, comercio, servicios y otras actividades productivas, organizaciones representativas de una zona o región, instituciones de investigación científica y tecnológica y otras organizaciones interesadas;
 
@@ -733,35 +803,51 @@ III. El establecimiento de sistemas de certificación de procesos para inducir p
 
 IV. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de la política ambiental superiores a las previstas en la normatividad ambiental establecida.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 33.
 
-Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoría ambiental, realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente.
+Los responsables del funcionamiento de una empresa podrán en forma voluntaria, a través de la auditoría sustentables (sic), realizar el examen metodológico de sus operaciones, respecto de la contaminación y el riesgo que generan, así como el grado de cumplimiento de la normatividad ambiental y de los parámetros internacionales y de buenas prácticas de operación e ingeniería aplicables, con el objeto de definir las medidas preventivas y correctivas necesarias para proteger el ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 34.
 
-La Secretaría desarrollará un programa dirigido a fomentar la realización de auditorías ambientales voluntarias y podrá supervisar su ejecución, de conformidad con los ordenamientos que se expidan debiendo:
+La Procuraduría Ambiental desarrollará un programa dirigido a fomentar la realización de auditorías sustentables voluntarias y podrá supervisar su ejecución, de conformidad con los ordenamientos que se expidan debiendo:
 
-I. Elaborar en los términos de referencia que establezcan la metodología para la realización de auditorías ambientales;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+I. Elaborar en los términos de referencia que establezcan la metodología para la realización de auditorías sustentables;
 
 II. Establecer un sistema de reconocimiento de peritos y auditores ambientales, determinando los procedimientos y requisitos que deberán cumplir los interesados para incorporarse a dicho sistema;
 
-III. Desarrollar programas de capacitación en materia de peritajes y auditorías ambientales;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
-IV. Instrumentar un sistema de reconocimiento y estímulos que permita identificar a las industrias que cumplan oportunamente los compromisos adquiridos en auditorías ambientales;
+III. Desarrollar programas de capacitación en materia de peritajes y auditorías sustentables;
 
-V. Convenir o concretar con personas físicas o morales, públicas o privadas, la realización de auditorías ambientales; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+IV. Instrumentar un sistema de reconocimiento y estímulos que permita identificar a las industrias que cumplan oportunamente los compromisos adquiridos en auditorías sustentables;
+
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+V. Convenir o concretar con personas físicas o morales, públicas o privadas, la realización de auditorías sustentables; y
 
 VI. Promover el apoyo a la mediana y pequeña industria, con el fin de inducir y facilitar la realización auditorías en dichos sectores.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría propondrá los programas preventivos y correctivos derivados de las auditorías ambientales, así como el diagnóstico básico del cual derivan estarán a disposición de quienes resulten o puedan resultar directamente afectados, respetando en todo caso, las disposiciones legales en relación con la confidencialidad de la información industrial y comercial.
+La Procuraduría Ambiental propondrá los programas preventivos y correctivos derivados de las auditorías sustentables; así como el diagnóstico básico del cual derivan estarán a disposición de quienes resulten o puedan resultar directamente afectados, respetando en todo caso, las disposiciones legales en relación con la confidencialidad de la información industrial y comercial.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 36.
 
-La Secretaría proporcionará la asesoría técnica y normativa necesaria a fin de fomentar la realización de auditorías ambientales en el sector productivo, de acuerdo a los instrumentos señalados en las Normas Oficiales Mexicanas o Normas Ambientales Estatales, y deberá promover la aplicación de dichos procedimientos en el ámbito municipal.
+La Procuraduría Ambiental proporcionará la asesoría técnica y normativa necesaria a fin de fomentar la realización de auditorías ambientales en el sector productivo, de acuerdo a los instrumentos señalados en las Normas Oficiales Mexicanas o Normas Técnicas Ambientales Estatales, y deberá promover la aplicación de dichos procedimientos en el ámbito municipal.
 
-Para coadyuvar en las acciones para la implementación de lo dispuesto en el presente capítulo, la Secretaría integrará un comité de trabajo, en el que participarán los representantes de instituciones de investigación, colegios y asociaciones profesionales y organizaciones del sector industrial y privado.
+Para coadyuvar en las acciones para la implementación de lo dispuesto en el presente capítulo, la Secretaría y la Procuraduría Ambiental integrarán un comité de trabajo, en el que participarán los representantes de instituciones de investigación, colegios y asociaciones profesionales y organizaciones del sector industrial y privado.
 
 ###### ARTÍCULO 37.
 
@@ -1077,9 +1163,11 @@ La Secretaría expedirá las normas técnicas estatales ambientales en el ámbit
 
 Cuando así se requiera para la protección de las especies, la Secretaría, previa opinión de los órganos consultivos, establecerá las medidas de regulación y restricción en forma total o parcial, a la exportación o importación de especímenes de flora y fauna silvestres.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 62.
 
-A la Secretaría le corresponde hacer cumplir las disposiciones que sobre preservación y aprovechamiento sustentable de especies de flora y fauna silvestre existan, y todas las demás leyes o disposiciones que se establezcan con motivo de las actividades económicas que se desarrollen.
+A la Procuraduría Ambiental le corresponde hacer cumplir las disposiciones que sobre preservación y aprovechamiento sustentable de especies de flora y fauna silvestre existan, y todas las demás leyes o disposiciones que se establezcan con motivo de las actividades económicas que se desarrollen.
 
 ###### ARTÍCULO 63.
 
@@ -1195,7 +1283,9 @@ I. Las naturales, que incluyen volcanes, incendios forestales no provocados por 
 
 II. Las antropogénicas, las cuales requerirán para su operación y funcionamiento, autorización de la Secretaría, entre las que se encuentran:
 
-a) Las fijas o semifijas, que incluyen calderas, aserraderos, fábricas que no correspondan a jurisdicción federal y talleres en general; incineradores industriales, comerciales, domésticos, los de servicio público o privado y cualquier otra fuente análoga a las anteriores, semifijas como trituradoras y plantas de asfalto;
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+a) Las fijas o semifijas, que incluyen calderas, aserraderos, ladrilleras, fábricas que no correspondan a jurisdicción federal y talleres en general; incineradores industriales, comerciales, domésticos, los de servicio público o privado y cualquier otra fuente análoga a las anteriores, semifijas como trituradoras y plantas de asfalto.
 
 b) Las móviles, como plantas móviles de emergencia, generadoras de energía eléctrica; plantas móviles elaboradoras de concreto; vehículos automotores de combustión interna; aviones, locomotoras, motocicletas y similares; y
 
@@ -1381,9 +1471,11 @@ No podrán emitirse ruidos, vibraciones, olores, energía lumínica, térmica, r
 
 En la construcción de obras, instalaciones o en la realización de actividades que generen ruido, vibraciones, olores, energía térmica, lumínica, radiaciones electromagnéticas no ionizantes y contaminación visual, deberán llevarse a cabo las acciones preventivas y correctivas necesarias para evitar los efectos nocivos contaminantes, en el equilibrio ecológico y el ambiente.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 101.
 
-La Secretaría y los Ayuntamientos en el ámbito de sus competencias, estarán facultados para emitir las disposiciones y medidas necesarias para evitar la contaminación por ruido, vibraciones, olores, energía térmica, lumínica, radiaciones electromagnéticas no ionizantes y visual, así como para llevar a cabo los actos necesarios de inspección, vigilancia y aplicación de medidas para exigir su cumplimiento y sancionar, en caso de transgresión, a las normas y límites permitidos.
+La Secretaría, la Procuraduría Ambiental y los Ayuntamientos en el ámbito de sus competencias, estarán facultados para emitir las disposiciones y medidas necesarias para evitar la contaminación por ruido, vibraciones, olores, energía térmica, lumínica, radiaciones electromagnéticas no ionizantes y visual, así como para llevar a cabo los actos necesarios de inspección, vigilancia y aplicación de medidas para exigir su cumplimiento y sancionar, en caso de transgresión, a las normas y límites permitidos.
 
 ### CAPÍTULO VII (SIC). DE LOS PRESTADORES DE SERVICIO
 
@@ -1395,7 +1487,75 @@ En dicho Sistema, la Secretaría deberá integrar, entre otros aspectos, informa
 
 La Secretaría reunirá informes y documentos relevantes que resulten de las actividades científicas, académicas, trabajos técnicos o cualquier otra índole en materia ambiental, y de protección o aprovechamiento sustentable de recursos naturales, realizados sobre el estado, por personas físicas o morales, nacionales o extranjeras, los que serán remitidos al Sistema Estatal de Información Ambiental y Recursos Naturales.
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO IX (SIC). DE LA PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN POR EL USO DE PLÁSTICOS
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 108 BIS. Se prohíbe a toda persona física o moral proporcionar plástico de un solo uso de manera gratuita u onerosa.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 108 TER. Se consideran plásticos de un solo uso de manera enunciativa más no limitativa, los siguientes:
+
+I. Bolsas de Plástico;
+
+II. Vasos de Plástico
+
+III. Cubiertos de Plástico;
+
+IV. Charolas de Unicel;
+
+V. Platos y vasos de Unicel, y
+
+VI. Popotes
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 108 QUÁTER. Se prohíbe la venta o comercialización de los plásticos mencionados en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 108 QUINQUIES. Las personas físicas o morales podrán utilizar, entregar o comercializar los siguientes tipos de bolsas:
+
+I. Ecológica o Reutilizable;
+
+II. Compostable; y
+
+III. De Papel Kraft.
+
+En el caso de las bolsas compostables, deberán presentar ante la Procuraduría Ambiental, un certificado de la composición de las mismas y que su degradación no sea mayor a 12 meses, el cual será expedido por una institución que cuente con la infraestructura necesaria y la certificación correspondiente.
+
+De igual forma las bolsas deberán tener impresas la leyenda de su composición y degradación.
+
+Las bolsas de papel Kraft deberán estar elaboradas con fibras reciclables y de conformidad con los lineamientos establecidos en las normas jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 108 SEXIES. Las personas físicas o morales procuraran utilizar, entregar o comercializar los siguientes tipos de botellas:
+
+I. Vidrio
+
+II. Botellas Retornables mayores a 1.5 L
+
+III. Latas
+
+IV. Tetrapack
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 108 SEPTIES. Las personas físicas o morales podrán utilizar, entregar o comercializar vasos, cubiertos, charolas, platos y popotes, hechos con polímeros naturales como almidón, semilla de aguacate, paja de trigo, caña de azúcar o fécula de maíz.
+
+Deberán presentar ante la Procuraduría Ambiental, un certificado de la composición de las mismas y que su degradación no sea mayor a 12 meses, el cual será expedido por una institución que cuente con la infraestructura necesaria y la certificación correspondiente.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 108 OCTIES. Las personas físicas y morales implementaran un esquema orientado a suprimir la adquisición de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 108 NONIES. La Procuraduría Ambiental será la encargada de vigilar y verificar el cumplimiento de este capítulo a los medianos y grandes generadores, productores y vendedores. En caso de incumplimiento de alguna de las disposiciones antes mencionada (sic), aplicará la sanción correspondiente.
+
+La Procuraduría Ambiental podrá celebrar convenios de colaboración con los ayuntamientos a fin de dar cumplimiento a lo previsto en este capítulo.
 
 ###### ARTÍCULO 103.
 
@@ -1427,11 +1587,13 @@ La Secretaría podrá convenir programas de evaluación o capacitación de Prest
 
 La Secretaría establecerá los lineamientos y procedimientos para incorporar al registro señalado en el presente capítulo, a los laboratorios ambientales de análisis de contaminantes en el aire, agua, suelo, subsuelo, materiales o residuos, atendiendo las acreditaciones, certificaciones o reconocimientos que hayan obtenido dichos laboratorios.
 
-### CAPÍTULO II. DE LAS AUTORIZACIONES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ## TÍTULO SEXTO. GESTIÓN AMBIENTAL Y PARTICIPACIÓN SOCIAL
 
-### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
+### CAPÍTULO II. DE LAS AUTORIZACIONES
 
 ###### ARTÍCULO 109.
 
@@ -1471,7 +1633,9 @@ VIII. La Secretaría desarrollará un Sistema Estatal de Información Ambiental 
 
 IX. Fomentarán acciones encaminadas a que los establecimientos que vendan alimentos y bebidas no promuevan el consumo de popotes, salvo que el usuario así lo disponga. Los establecimientos deberán cerciorarse de que el cliente realmente necesite de estos para su entrega.
 
-### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO I. DE LA INSPECCIÓN Y VIGILANCIA
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 112.
 
@@ -1523,15 +1687,15 @@ V. Por cumplirse el término de vigencia.
 
 ## TÍTULO SÉPTIMO. DEL CONTROL, SEGURIDAD Y SANCIONES
 
-### CAPÍTULO III. DE LA RESPONSABILIDAD POR DAÑO AMBIENTAL
+### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 116.
 
-La prevención y vigilancia del medio ambiente y de los recursos naturales, estará a cargo de la Secretaría, la que tendrá como función primordial la protección y vigilancia de las condiciones del medio ambiente, de acuerdo con esta Ley, sus reglamentos, Normas Oficiales Mexicanas y las demás disposiciones en la materia, así como la resolución de las respectivas infracciones administrativas.
+La prevención y vigilancia del medio ambiente y de los recursos naturales, estará a cargo de la Procuraduría Ambiental, la que tendrá como función primordial la protección y vigilancia de las condiciones del medio ambiente, de acuerdo con esta Ley, sus reglamentos, Normas Oficiales Mexicanas y las demás disposiciones en la materia, así como la resolución de las respectivas infracciones administrativas.
 
-La Secretaría y los Ayuntamientos, orientarán, propiciarán, promoverán y alentarán la capacitación y la instrucción a personas de la sociedad civil interesadas en las tareas de vigilancia.
+La Procuraduría Ambiental y los Ayuntamientos, orientarán, propiciarán, promoverán y alentarán la capacitación y la instrucción a personas de la sociedad civil interesadas en las tareas de vigilancia.
 
 ###### ARTÍCULO 117.
 
@@ -1539,11 +1703,15 @@ Las visitas de inspección podrán ser ordinarias y extraordinarias. Las ordinar
 
 Iniciada una diligencia en horas hábiles podrá concluirse y será válida aun cuando se actúe en horas inhábiles sin necesidad de determinación especial de la autoridad competente; de igual forma podrá habilitar los días y horas inhábiles para actuar o practicar diligencias, cuando hubiere causa urgente que las amerite, expresando cuál sea esta y las diligencias que hayan de practicarse.
 
-En materia procesal, será aplicado supletoriamente en lo que no se oponga a esta Ley, el Código de Justicia Administrativa para el Estado de Durango.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+En materia procesal, será aplicado supletoriamente lo que no se oponga a esta Ley y a la Ley de Justicia Administrativa del Estado de Durango.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 118.
 
-Para llevar a cabo la vigilancia, la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán por conducto del personal autorizado, las visitas de inspección que considere necesarias. Dicho personal, al realizar las visitas de inspección, deberá estar provisto del documento oficial que lo acredite como tal, así como de la orden escrita debidamente fundada y motivada expedida por autoridad competente, en la que se precisará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+Para llevar a cabo la vigilancia, la Procuraduría Ambiental y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán por conducto del personal autorizado, las visitas de inspección que considere necesarias. Dicho personal, al realizar las visitas de inspección, deberá estar provisto del documento oficial que lo acredite como tal, así como de la orden escrita debidamente fundada y motivada expedida por autoridad competente, en la que se precisará el lugar o zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
 
 ###### ARTÍCULO 119.
 
@@ -1599,15 +1767,19 @@ Admitidas y desahogadas las pruebas ofrecidas por el interesado, o habiendo tran
 
 En caso de que el presunto infractor no compareciera dentro del plazo fijado, se seguirá el procedimiento en rebeldía y se dictará la resolución procedente debidamente fundada y motivada.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 125.
 
-La verificación se llevará a cabo por personal de la Secretaría o del Ayuntamiento correspondiente, con la finalidad de conocer si se cumplió con las acciones encomendadas al infractor, o si dio cumplimiento con las, autorizaciones, permisos o licencias correspondientes por parte del infractor, ordenadas en el emplazamiento respectivo, y poder determinar la situación del mismo.
+La verificación se llevará a cabo por personal de la Procuraduría Ambiental o del Ayuntamiento correspondiente, con la finalidad de conocer si se cumplió con las acciones encomendadas al infractor, o si dio cumplimiento con las, autorizaciones, permisos o licencias correspondientes por parte del infractor, ordenadas en el emplazamiento respectivo, y poder determinar la situación del mismo.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 126.
 
-Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Secretaría procederá dentro de los diez días hábiles siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
+Una vez recibidos los alegatos o transcurrido el término para presentarlos, la Procuraduría Ambiental procederá dentro de los diez días hábiles siguientes, a dictar por escrito la resolución respectiva, misma que se notificará al interesado, personalmente o por correo certificado con acuse de recibo.
 
-Durante el procedimiento y antes de que se dé a conocer la resolución, a petición del interesado, la Secretaría o el Ayuntamiento correspondiente, podrá convenir sobre la realización de acciones o compensación de daños para la corrección de las irregularidades.
+Durante el procedimiento y antes de que se dé a conocer la resolución, a petición del interesado, la Procuraduría Ambiental o el Ayuntamiento correspondiente, podrá convenir sobre la realización de acciones o compensación de daños para la corrección de las irregularidades.
 
 ###### ARTÍCULO 127.
 
@@ -1617,13 +1789,17 @@ Dentro de los cinco días hábiles después del vencimiento del plazo otorgado a
 
 La Autoridad ambiental podrá revocar o modificar la sanción o sanciones impuestas cuando el infractor realice las medidas correctivas en los plazos ordenados y siempre y cuando dicho infractor no sea reincidente.
 
-La Secretaría o el Ayuntamiento, deberán hacer del conocimiento del Ministerio Público Federal o local cuando del procedimiento o verificaciones se advierta la comisión de delitos.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
-### CAPÍTULO IV. DE LAS SANCIONES
+La Procuraduría Ambiental o el Ayuntamiento, deberán hacer del conocimiento del Ministerio Público Federal o local cuando del procedimiento o verificaciones se advierta la comisión de delitos.
+
+### CAPÍTULO III. DE LA RESPONSABILIDAD POR DAÑO AMBIENTAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 128.
 
-En los casos de contaminación ambiental con repercusiones peligrosas en todo el territorio del estado, así como para los ecosistemas, sus componentes o para la salud pública, la Secretaría y los Ayuntamientos, en el ámbito de sus atribuciones, podrán aplicar de inmediato las siguientes medidas de seguridad:
+En los casos de contaminación ambiental con repercusiones peligrosas en todo el territorio del estado, así como para los ecosistemas, sus componentes o para la salud pública, la Procuraduría Ambiental y los Ayuntamientos, en el ámbito de sus atribuciones, podrán aplicar de inmediato las siguientes medidas de seguridad:
 
 I. Aislamiento de áreas o zonas;
 
@@ -1643,7 +1819,9 @@ VII. Las medidas urgentes que, a criterio de la autoridad, puedan evitar que se 
 
 Cuando se ordene cualquier medida de seguridad, prevista en esta Ley, deberá informársele al interesado sobre las acciones que debe realizar para subsanar las irregularidades que motivaron la imposición de dicha medida, así como los plazos para su realización, para que una vez que se ha cumplido con dichas acciones se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPÍTULO V. DE LOS DELITOS CONTRA LA ECOLOGÍA
+### CAPÍTULO IV. DE LAS SANCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 130.
 
@@ -1651,9 +1829,13 @@ Independientemente de las sanciones administrativas o penales que procedan, toda
 
 La indemnización a que se refiere este artículo se ejercerá sin perjuicio del ejercicio de la acción indemnizatoria ordinaria promovida por el directamente afectado.
 
-La Secretaría y los Ayuntamientos, dentro de su competencia, tendrán la facultad para exigir la reparación del daño ambiental.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
-La acción para demandar la responsabilidad por daños al ambiente prescribirá a los cinco años después de que hayan cesado los efectos del daño en cuestión, lo que, en todo caso, será valorado por la Secretaría.
+La Secretaría, Procuraduría Ambiental y los Ayuntamientos, dentro de su competencia, tendrán la facultad para exigir la reparación del daño ambiental.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+La acción para demandar la responsabilidad por daños al ambiente prescribirá a los cinco años después de que hayan cesado los efectos del daño en cuestión, lo que, en todo caso, será valorado por la Procuraduría Ambiental.
 
 ###### ARTÍCULO 131.
 
@@ -1663,9 +1845,9 @@ La responsabilidad por daño ambiental, a que se refiere este capítulo, se ejer
 
 En materia de daños al ambiente, serán competentes todas las autoridades judiciales del Estado de Durango de conformidad con las disposiciones legales correspondientes.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
-Para el desahogo del procedimiento en el que se ejerza la acción por daños al ambiente se seguirán las reglas establecidas para el procedimiento administrativo, establecido en de (sic) la Ley de Justicia Fiscal y Administrativa del Estado de Durango.
+Para el desahogo del procedimiento en el que se ejerza la acción por daños al ambiente se seguirán las reglas establecidas para el procedimiento administrativo, establecido en la Ley de Justicia Administrativa del Estado de Durango.
 
 Si con motivo del juicio en el que se ejerza la acción de responsabilidad por daño al ambiente, la autoridad determinará el pago de indemnizaciones, el monto de las mismas pasara a integrarse a los recursos de la Secretaría de Finanzas y Administración del Estado.
 
@@ -1673,13 +1855,11 @@ Si con motivo del juicio en el que se ejerza la acción de responsabilidad por d
 
 Cuando por infracción a las disposiciones de esta ley así como a sus disposiciones reglamentarias se ocasionen daños o perjuicios, los interesados podrán solicitar a la autoridad ambiental, la formulación de un dictamen técnico al respecto, el cual tendrá el valor de medio de convicción en caso de que se presente en juicio.
 
-### CAPÍTULO VI. DEL RECURSO DE INCONFORMIDAD
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+### CAPÍTULO V. DE LOS DELITOS CONTRA LA ECOLOGÍA
 
 ###### ARTÍCULO 134.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella se deriven, serán sancionados administrativamente por la Secretaría y los Ayuntamientos, en el ámbito de sus atribuciones, sin perjuicio de lo que otros ordenamientos aplicables establezcan, con una o más de las siguientes sanciones:
+Las violaciones a los preceptos de esta Ley, sus reglamentos y las disposiciones que de ella se deriven, serán sancionados administrativamente por la Procuraduría Ambiental y los Ayuntamientos, en el ámbito de sus atribuciones, sin perjuicio de lo que otros ordenamientos aplicables establezcan, con una o más de las siguientes sanciones:
 
 I. Amonestación con apercibimiento;
 
@@ -1707,11 +1887,15 @@ VIII. La remediación; y
 
 IX. El arresto hasta por treinta y seis horas.
 
-Para imponer una sanción, la Secretaría deberá notificar previamente al infractor del inicio del procedimiento, a fin de que este dentro de los cinco días hábiles siguientes exponga lo que a su derecho convenga y en su caso, aporte las pruebas que considere conveniente
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+Para imponer una sanción, la Procuraduría Ambiental deberá notificar previamente al infractor del inicio del procedimiento, a fin de que este dentro de los cinco días hábiles siguientes exponga lo que a su derecho convenga y en su caso, aporte las pruebas que considere conveniente.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 135.
 
-Cuando la gravedad de la infracción lo amerite, la Secretaría y los Ayuntamientos, en su ámbito de competencia, promoverán lo conducente ante las autoridades competentes a efecto de que se proceda a la revocación o cancelación de la concesión, permiso, licencia, y en general, de toda autorización otorgada para operar, funcionar, prestar servicios o aprovechar los recursos naturales.
+Cuando la gravedad de la infracción lo amerite, la Secretaría, la Procuraduría Ambiental y los Ayuntamientos, en su ámbito de competencia, promoverán lo conducente ante las autoridades competentes a efecto de que se proceda a la revocación o cancelación de la concesión, permiso, licencia, y en general, de toda autorización otorgada para operar, funcionar, prestar servicios o aprovechar los recursos naturales.
 
 ###### ARTÍCULO 136.
 
@@ -1741,7 +1925,9 @@ V. El beneficio directamente obtenido por el infractor por los actos que motiven
 
 VI. Cuando se trate de materias primas forestales maderables y no maderables, provenientes de aprovechamientos para los cuales no exista autorización.
 
-En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Secretaría o los Ayuntamientos, en el ámbito de sus respectivas competencias, impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+En caso de que el infractor realice las medidas correctivas o de urgente aplicación o subsane las irregularidades en que hubiere incurrido, previamente a que la Procuraduría Ambiental o los Ayuntamientos, en el ámbito de sus respectivas competencias, impongan una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
 
 Cuando a solicitud del infractor o la autoridad considere y justifique plenamente que no existe daño o repercusiones peligrosas por violaciones a la ley, se podrá condonar al infractor el pago correspondiente de la sanción a que se hubiese hecho acreedor a cambio de que se hagan inversiones equivalentes garantizándose éstas con la fianza correspondiente en la adquisición e instalación de equipo para evitar contaminación o en la protección, preservación o restauración del ambiente y de los recursos naturales.
 
@@ -1771,7 +1957,9 @@ III. Incumplir las medidas de tratamiento y reuso de aguas tratadas;
 
 IV. Rebasar los límites máximos permitidos en materia de aguas residuales, no realizar muestreos y análisis periódicos de éstas, no proporcionar la información correspondiente o impedir la verificación de las medidas dictadas por la autoridad correspondiente;
 
-V. Incumplir con las condiciones particulares de descarga de aguas residuales establecidas por la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+V. Incumplir con las condiciones particulares de descarga de aguas residuales establecidas por la Procuraduría Ambiental;
 
 VI. Descargar aguas residuales contaminantes a los cuerpos de agua o a los sistemas de drenaje y alcantarillado, sin cumplir los criterios y Normas Oficiales Mexicanas y Normas ambientales Estatales y no instalar plantas o sistemas de tratamiento;
 
@@ -1789,7 +1977,9 @@ XII. Incumplir con los programas ecológicos y de protección al ambiente;
 
 XIII. Realizar obras o actividades que signifiquen riesgos al ambiente que pongan en peligro la salud de la población, o que destruyan áreas naturales protegidas, de acuerdo a los criterios establecidos por esta Ley y otros ordenamientos aplicables;
 
-XIV. Desatender la solicitud de información a personas físicas o morales que formulen, en el ejercicio de sus atribuciones, la Secretaría o el Municipio sin causa justificada y motivada;
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+XIV. Desatender la solicitud de información a personas físicas o morales que formulen, en el ejercicio de sus atribuciones, a la Procuraduría Ambiental o el Municipio sin causa justificada y motivada;
 
 XV. Impedir al personal autorizado el acceso al lugar o lugares sujetos a inspección ambiental, en los términos previstos en la presente Ley y su Reglamento; y,
 
@@ -1827,7 +2017,9 @@ III. En los casos específicos que la autoridad señale, cuando se rebasen los l
 
 Cuando proceda como sanción el decomiso o la clausura temporal o definitiva, total o parcial, la suspensión de concesiones, permisos, licencias o autorizaciones, el personal comisionado para ejecutar dichas acciones procederá a levantar acta detallada de la diligencia, siguiendo los lineamientos establecidos para las inspecciones.
 
-En los casos en que se imponga como sanción la clausura temporal, la Secretaría y los Ayuntamientos, en sus respectivos ámbitos, deberán indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos de su realización, debiéndose mantener vigilancia para asegurar su cumplimiento en tiempo y forma.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+En los casos en que se imponga como sanción la clausura temporal, la Procuraduría Ambiental y los Ayuntamientos, en sus respectivos ámbitos, deberán indicar al infractor las medidas correctivas y acciones que debe llevar a cabo para subsanar las irregularidades que motivaron dicha sanción, así como los plazos de su realización, debiéndose mantener vigilancia para asegurar su cumplimiento en tiempo y forma.
 
 La Autoridad ambiental podrá con relación a los bienes decomisados, previo cumplimiento de las disposiciones al respecto, solicitar a las instancias correspondientes lo que resulte de la enajenación del bien decomisado o proceder a su destrucción cuando representen un peligro para el ambiente, la salud y bienestar de la población y para el desarrollo sustentable de los recursos naturales, debiéndose actuar cuando se trate de especies y subespecies de flora y fauna silvestres en donaciones a zoológicos que garanticen su existencia y desarrollo.
 
@@ -1843,7 +2035,9 @@ Los ingresos que se obtengan de las sanciones por infracción a lo dispuesto en 
 
 Los Municipios, en la esfera de su competencia, regularán las sanciones administrativas que correspondan por violaciones a los bandos y reglamentos que expidan para tal efecto, en concordancia con lo dispuesto en esta Ley.
 
-### CAPÍTULO VII. DE LA DENUNCIA POPULAR
+### CAPÍTULO VI. DEL RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 146.
 
@@ -1869,25 +2063,39 @@ VII. Comercializar sin la autorización correspondiente, especie de flora y faun
 
 Al que cometa de manera imprudencial, alguna infracción o algunos de los hechos u omisiones considerados como delitos en el artículo anterior, se le impondrá una multa de cincuenta a cinco mil veces la Unidad de Medida y Actualización, así como la reparación del daño; si los hechos u omisiones devienen de manera intencional la sanción consistirá en multa de quinientas a veinte mil veces la Unidad de Medida y Actualización y la reparación del daño, según los daños que se causen y que de manera fundada se determinen, independientemente de las sanciones a que se hago (sic) acreedor conforme a lo dispuesto por el Código Penal en vigor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 148.
 
-En aquellos casos que como resultado del ejercicio de sus atribuciones la Secretaría tenga conocimiento de actos u omisiones que pudieran constituir delitos, conforme a lo previsto en la legislación aplicable, formulará ante el Ministerio Público la denuncia correspondiente.
+En aquellos casos que como resultado del ejercicio de sus atribuciones la Procuraduría Ambiental tenga conocimiento de actos u omisiones que pudieran constituir delitos, conforme a lo previsto en la legislación aplicable, formulará ante el Ministerio Público la denuncia correspondiente.
 
 Toda persona podrá presentar directamente las denuncias penales que correspondan a los delitos ambientales previstos en la legislación aplicable.
 
-La Secretaría proporcionará, en las materias de su competencia los dictámenes técnicos o periciales que se soliciten en el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de los delitos ambientales.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+La Procuraduría Ambiental proporcionará, en las materias de su competencia los dictámenes técnicos o periciales que se soliciten en el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de los delitos ambientales.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 149.
 
-Para los efectos de la presente Ley, cuando de una inspección o auditoría se determine que existen delitos en materia de ecología y del medio ambiente, que se contemplan en el Código Penal Federal y en el Código Penal para el Estado Libre y Soberano de Durango, la Autoridad ambiental procederá a remitir el expediente correspondiente ante las procuradurías encargadas de conocer y actuar con relación a dichos delitos e independientemente de la pena a que se hagan acreedores, la Secretaría deberá llevar a cabo las medidas de seguridad que procedan.
+Para los efectos de la presente Ley, cuando de una inspección o auditoría se determine que existen delitos en materia de ecología y del medio ambiente, que se contemplan en el Código Penal Federal y en el Código Penal para el Estado Libre y Soberano de Durango, la Autoridad ambiental procederá a remitir el expediente correspondiente ante las fiscalías encargadas de conocer y actuar con relación a dichos delitos e independientemente de la pena a que se hagan acreedores, la Procuraduría Ambiental deberá llevar a cabo las medidas de seguridad que procedan.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 150.
 
-La Secretaría será coadyuvante del Ministerio Público Federal y del local en los términos de sus respectivos códigos de procedimientos penales. Lo anterior, sin perjuicio de la coadyuvancia que pueda accionar la víctima o el ofendido directo del ilícito, por sí mismo o a través de su representante legal.
+La Procuraduría Ambiental será coadyuvante del Ministerio Público Federal y del local en los términos de sus respectivos códigos de procedimientos penales. Lo anterior, sin perjuicio de la coadyuvancia que pueda accionar la víctima o el ofendido directo del ilícito, por sí mismo o a través de su representante legal.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 151.
 
-La Secretaría proporcionará, en las materias de su competencia los dictámenes técnicos o periciales que se soliciten por parte del Ministerio Público Federal, local o de las autoridades judiciales correspondientes para llevar a cabo la investigación relativa a la procuración e impartición de justicia en la comisión de los delitos ecológicos y ambientales.
+La Procuraduría Ambiental proporcionará, en las materias de su competencia los dictámenes técnicos o periciales que se soliciten por parte del Ministerio Público Federal, local o de las autoridades judiciales correspondientes para llevar a cabo la investigación relativa a la procuración e impartición de justicia en la comisión de los delitos ecológicos y ambientales.
+
+### CAPÍTULO VII. DE LA DENUNCIA POPULAR
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 152.
 
@@ -1983,9 +2191,13 @@ Cuando en la interposición del recurso de inconformidad, el promovente solicite
 
 I. Sea procedente el recurso; y,
 
-II. Se exhiba garantía por el monto del valor de lo decomisado, el cual será determinado por la Secretaría, de acuerdo con el precio que corra en el mercado, al momento en que deba otorgarse dicha garantía.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
-En el supuesto en que no se cumplan los requisitos anteriores, la Secretaría determinará el destino final de los productos perecederos y de las especies de flora y fauna silvestre vivas, de conformidad con lo dispuesto en esta Ley y las demás que resulten aplicables.
+II. Se exhiba garantía por el monto del valor de lo decomisado, el cual será determinado por la Procuraduría Ambiental, de acuerdo con el precio que corra en el mercado, al momento en que deba otorgarse dicha garantía.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+En el supuesto en que no se cumplan los requisitos anteriores, la Procuraduría Ambiental determinará el destino final de los productos perecederos y de las especies de flora y fauna silvestre vivas, de conformidad con lo dispuesto en esta Ley y las demás que resulten aplicables.
 
 Por lo que se refiere a los bienes distintos a los señalados en el párrafo anterior, éstos se mantendrán en el depósito y no podrá disponerse de ellos hasta en tanto cause estado la resolución correspondiente.
 
@@ -2017,7 +2229,7 @@ En todo caso los interesados afectados por los actos y resoluciones de la Secret
 
 ###### ARTÍCULO 164.
 
-Se concede acción popular, a toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades, para denunciar ante la Secretaría o los Ayuntamientos todo hecho, acto u omisión que genere contaminación o deterioro ambiental.
+Se concede acción popular, a toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades, para denunciar ante la Procuraduría Ambiental o los Ayuntamientos todo hecho, acto u omisión que genere contaminación o deterioro ambiental.
 
 ###### ARTÍCULO 165.
 
@@ -2031,19 +2243,25 @@ III. Los datos que permitan identificar al presunto infractor o localizar la fue
 
 IV. Las pruebas que en su caso ofrezca el denunciante.
 
-Así mismo, podrá formularse la denuncia vía telefónica, en cuyo caso supuesto el servidor público que la reciba, levantará acta circunstanciada, que deberá ser ratificada por escrito, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Secretaría investigue de oficio los hechos constitutivos de la denuncia.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+Así mismo, podrá formularse la denuncia vía telefónica, en cuyo caso supuesto el servidor público que la reciba, levantará acta circunstanciada, que deberá ser ratificada por escrito, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que la Procuraduría Ambiental investigue de oficio los hechos constitutivos de la denuncia.
 
 Si el denunciante solicita a las autoridades guardar secreto respecto a su identidad por razones de seguridad, esta realizará el seguimiento de la denuncia en la forma solicitada, conforme a sus atribuciones.
 
 No se admitirán denuncias notoriamente improcedentes o infundadas, aquellas en las que se advierta mala fe, carencia de fundamento o inexistencia de hechos, lo cual se notificará al denunciante.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 166.
 
-La Secretaría o el Ayuntamiento que corresponda al recibir la denuncia, identificará debidamente al denunciante y escuchará, en su caso, a la persona a quien pueda afectar el resultado de la misma; en el caso de denuncias en las que deba reservarse la identidad del denunciante por razones de seguridad, se tomarán medidas que lo identifiquen y en los términos de ley, reservar la información.
+La Procuraduría Ambiental o el Ayuntamiento que corresponda al recibir la denuncia, identificará debidamente al denunciante y escuchará, en su caso, a la persona a quien pueda afectar el resultado de la misma; en el caso de denuncias en las que deba reservarse la identidad del denunciante por razones de seguridad, se tomarán medidas que lo identifiquen y en los términos de ley, reservar la información.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 167.
 
-El personal competente de la Secretaría y de los Ayuntamientos deberá efectuar las visitas de inspección y, en general, las diligencias necesarias para la comprobación de la denuncia, con el propósito de determinar hechos, actos u omisiones sobre violaciones a la Ley Estatal.
+El personal competente de la Procuraduría Ambiental y de los Ayuntamientos deberá efectuar las visitas de inspección y, en general, las diligencias necesarias para la comprobación de la denuncia, con el propósito de determinar hechos, actos u omisiones sobre violaciones a la Ley Estatal.
 
 ###### ARTÍCULO 168.
 
@@ -2053,9 +2271,11 @@ Localizada que sea la fuente de contaminación o deterioro ambiental denunciada 
 
 Cuando una denuncia no implique violaciones a la normatividad ambiental, ni afecte cuestiones del orden público e interés social, de ser procedente, la autoridad competente podrá sujetar la misma a un procedimiento de conciliación. En todo caso, debe escucharse a las partes involucradas.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 170.
 
-Cuando la Secretaría o el Ayuntamiento que corresponda reciban denuncias de competencia federal, las remitirán a la Procuraduría Federal de Protección al Ambiente, por conducto de su delegación en el Estado.
+Cuando la Procuraduría Ambiental o el Ayuntamiento que corresponda reciban denuncias de competencia federal, las remitirán a la Procuraduría Federal de Protección al Ambiente, por conducto de su delegación en el Estado.
 
 T R A N S I T O R I O S
 
@@ -2144,3 +2364,17 @@ P.O. 18 DE NOVIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 183.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE GESTIÓN AMBIENTAL SUSTENTABLE PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. La prohibición a la que aluden los artículos 108 Bis y 108 quater, surtirá efectos a partir de 9 meses después de la entrada en vigor del presente decreto.
+
+CUARTO. La tramitación y resolución de los asuntos que se encuentren en trámite en la Secretaría de Recursos Naturales y Medio Ambiente, se concluirán de conformidad con las disposiciones vigentes al momento del inicio de los procedimientos respectivos.
+
+QUINTO. Los Ayuntamientos deberán reformar sus disposiciones de carácter general, bandos y reglamentos, de conformidad con el presente Decreto en un plazo que no exceda los 60 días.
