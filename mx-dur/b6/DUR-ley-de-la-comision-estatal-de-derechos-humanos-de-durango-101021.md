@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2018-12-25"
+last_updated: "2019-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -765,6 +765,10 @@ VII. Brindar a la Comisión el apoyo necesario para el cumplimiento de sus funci
 
 VIII. Las demás que le señale el Presidente de la Comisión y el Reglamento Interno.
 
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 69 BIS. La Secretaría Administrativa diseñará, en conjunto con el Presidente, e implementará un esquema administrativo interno, orientado a suprimir en la Comisión la adquisición oficial de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable. Dicho esquema deberá revisarse, actualizarse y evaluarse sus resultados de manera anual.
+
 ### CAPÍTULO SEXTO. ÓRGANO DE CONTROL INTERNO
 
 ###### Artículo 70.
@@ -1022,3 +1026,15 @@ P.O. 25 DE DICIEMBRE DE 2018.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan a lo establecido en el presente decreto
+
+P.O. 17 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 184.- QUE CONTIENE ADICIÓN A LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir de 1 de enero del año 2020.
+
+SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entrada en vigor del presente Decreto, la Secretaría Administrativa, en conjunto con el Presidente, deberá haber elaborado y publicado internamente el esquema administrativo referido en el artículo 69 BIS de la Ley de la Comisión Estatal de Derechos Humanos de Durango, objeto del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
