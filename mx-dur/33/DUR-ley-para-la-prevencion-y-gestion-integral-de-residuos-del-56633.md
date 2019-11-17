@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-prevencion-y-gestion-integral-de-residuos-del-56633
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-12"
-last_updated: "2019-10-15"
+last_updated: "2019-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de julio de 2007.
 
@@ -411,9 +411,17 @@ XVI. El establecimiento de acciones orientadas a recuperar las áreas degradadas
 
 XVII. La participación pública en la formulación de planes, programas y ordenamientos jurídicos relacionados con la gestión integral de los residuos, así como el acceso público a la información sobre todos los aspectos relacionados con ésta;
 
-XVIII. Los planes de manejo realizados por los particulares, estarán, en todo momento, ligados al manejo de residuos sólidos urbanos y de manejo especial, debiendo las autoridades competentes respetarlos aún y cuando los cambios políticos demanden lo contrario; y
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
-XIX. Los demás que establezca el Reglamento de esta Ley y el Programa Estatal para la Prevención y Gestión Integral de Residuos.
+XVIII. Los planes de manejo realizados por los particulares, estarán, en todo momento, ligados al manejo de residuos sólidos urbanos y de manejo especial, debiendo las autoridades competentes respetarlos aún y cuando los cambios políticos demanden lo contrario;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+XIX. Promover y fomentar la utilización de materiales biodegradables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+XX. Los demás que establezca el Reglamento de esta Ley y el Programa Estatal para la Prevención y Gestión Integral de Residuos.
 
 ### CAPÍTULO II. DE LA PLANEACIÓN Y PROGRAMACIÓN
 
@@ -1502,3 +1510,15 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 TERCERO. La tramitación y resolución de los asuntos que se encuentren pendientes de resolución en la Secretaría, se concluirán de conformidad con las disposiciones vigentes al momento de haberse iniciado los procedimientos respectivos.
 
 CUARTO.- En un término de ciento veinte días deberán realizarse las adecuaciones reglamentarias correspondientes.
+
+P.O. 17 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 191.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY PARA LA PREVENCIÓN Y GESTIÓN DE RESIDUOS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
