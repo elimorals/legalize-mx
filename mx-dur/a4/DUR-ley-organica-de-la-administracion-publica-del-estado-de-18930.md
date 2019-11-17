@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2019-05-30"
+last_updated: "2019-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -693,13 +695,17 @@ LXXXIV. Inscribir y transparentar la totalidad de los Financiamientos y Obligaci
 
 LXXXV. Publicar la información financiera de la Administración Pública Estatal, Centralizada y Paraestatal, de acuerdo con las disposiciones de la Ley General de Contabilidad Gubernamental y las normas expedidas por el Consejo Nacional de Armonización Contable. Para tal efecto, deberán presentar la opinión de la Entidad de Auditoría Superior del Estado, en la que se manifieste el cumplimiento de dicha publicación;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
-LXXXVI. Entregar la información financiera que solicite la Secretaría de Hacienda y Crédito Público del Gobierno Federal, en los términos de las disposiciones que para tal efecto emita, y
+LXXXVI. Entregar la información financiera que solicite la Secretaría de Hacienda y Crédito Público del Gobierno Federal, en los términos de las disposiciones que para tal efecto emita;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2019)</small>
 
-LXXXVII. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
+LXXXVII. Implementar un esquema administrativo para todas las dependencias de la Administración Pública Estatal, orientado a suprimir la adquisición gubernamental de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable. Dicho esquema deberá revisarse, actualizarse y evaluarse sus resultados de manera anual; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+LXXXVIII. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -2726,3 +2732,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La presentación de las declaraciones patrimoniales y de intereses se sujetarán a lo dispuesto en los acuerdos que para tal efecto emita el Comité Coordinador del Sistema Nacional Anticorrupción.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 182.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2020.
+
+SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entrada en vigor del presente Decreto, la Secretaría de Finanzas y de Administración, deberán (sic) diseñar y publicar el esquema administrativo referido en la fracción LXXXVII del artículo 30 de la Ley Orgánica de la Administración Pública del Estado de Durango, objeto del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
