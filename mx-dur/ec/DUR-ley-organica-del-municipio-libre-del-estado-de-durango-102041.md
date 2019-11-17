@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2019-10-13"
+last_updated: "2019-11-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -1037,7 +1037,13 @@ IX. Llevar y tener al corriente, los libros de contabilidad necesarios para la d
 
 X. Proponer al Presidente Municipal el nombramiento o remoción de los servidores públicos subalternos de la tesorería municipal.
 
-XI. Las demás que le confieren otras leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+XI. Elaborar y presentar al Ayuntamiento, a efecto de su análisis y aprobación, un esquema administrativo interno, orientado a suprimir en el Ayuntamiento y las dependencias y entidades de la administración pública municipal, la adquisición oficial de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable. Dicho esquema deberá revisarse, actualizarse y evaluarse sus resultados de manera anual.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+XII. Las demás que le confieren otras leyes y reglamentos.
 
 ### Capítulo IV. De la Delegación de Facultades y la Descentralización Administrativa
 
@@ -2456,3 +2462,15 @@ PRIMERO.- La presente reforma entrará en vigor el día 1 de septiembre de 2022,
 SEGUNDO.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
 
 TERCERO.- Los Ayuntamientos deberán expedir o adecuar la normatividad necesaria para hacer efectivas las reformas contenidas en el presente decreto en un término no mayor a 30 días a partir de la entrada en vigor del presente decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 185.- QUE CONTIENE ADICIONES AL ARTÍCULO 89 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2020.
+
+SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entrada en vigor del presente Decreto, el tesorero municipal o su equivalente, deberá diseñar y presentar al Ayuntamiento, a efecto de su análisis y aprobación, el esquema administrativo referido en la fracción XI del artículo 89 de la Ley Orgánica del Municipio Libre del Estado de Durango, objeto del presente Decreto. La aprobación final de tal esquema administrativo por parte del Ayuntamiento deberá realizarse en un plazo máximo de 60 días hábiles contados a partir de la presentación del mismo por parte del tesorero municipal o su equivalente.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
