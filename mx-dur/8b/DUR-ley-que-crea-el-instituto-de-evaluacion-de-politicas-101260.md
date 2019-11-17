@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-de-evaluacion-de-politicas-101260"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-16"
-last_updated: "2017-11-16"
+last_updated: "2019-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101260&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY QUE CREA EL INSTITUTO DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 16 de febrero de 2014.
 
@@ -385,6 +385,12 @@ XIX. Las demás necesarias para el cumplimiento de sus funciones, en los términ
 
 1. La estructura de la Dirección General, con estricto apego a los lineamientos y metodologías que determine el Consejo, realizará las actividades que en el Programa de trabajo le sean asignadas a fin de contribuir con el logro de los objetivos y atribuciones legales del Instituto.
 
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 23 Bis.
+
+La Dirección General deberá diseñar y previo acuerdo del Consejo, implementar un esquema administrativo interno, orientado a suprimir la adquisición oficial de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable. Dicho esquema deberá revisarse, actualizarse y evaluarse sus resultados de manera anual.
+
 ### CAPÍTULO SEXTO. DE LAS EVALUACIONES Y RECOMENDACIONES
 
 ###### Artículo 24.
@@ -578,3 +584,15 @@ P.O. 16 DE NOVIEMBRE DE 2017.
 PRIMERO. El presente decreto entrará en vigor a partir de la elaboración del anteproyecto de presupuesto de egresos para el ejercicio fiscal del año 2018, dicho decreto será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 187.- QUE CONTIENE ADICIÓN A LA LEY QUE CREA EL INSTITUTO DE EVALUACIÓN DE POLÍTICAS PÚBLICAS DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2020.
+
+SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entrada en vigor del presente Decreto, el Instituto deberá haber aprobado, elaborado y publicado internamente el esquema administrativo referido en el artículo 23 BIS de la Ley que crea el Instituto de Evaluación de Políticas Públicas del Estado de Durango, objeto del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
