@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2018-04-12"
+last_updated: "2019-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el miércoles 4 de mayo de 2016.
 
@@ -518,6 +520,10 @@ XXX. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 ###### Artículo 39.
 
 El informe que el Instituto presente ante el Congreso, deberá señalar los resultados obtenidos con base en lo establecido en los planes y programas, haciendo mención expresa de los indicadores y metas que den cuenta del cumplimiento de los objetivos. El informe anual será publicado y difundido con amplitud. Su circulación será obligatoria en los sujetos obligados.
+
+> <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2019)</small>
+
+Artículo 39 BIS. En el Instituto, previo acuerdo del Consejo General, y por medio del área conducente de la estructura administrativa, se deberá diseñar e implementar un esquema administrativo interno, orientado a suprimir la adquisición oficial de plásticos de un solo uso, estableciendo un mecanismo de sustitución por un modelo sustentable. Dicho esquema deberá revisarse, actualizarse y evaluarse sus resultados de manera anual.
 
 ### CAPÍTULO III. DE LOS COMITÉS DE TRANSPARENCIA
 
@@ -2306,3 +2312,15 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO.- El Instituto Duranguense de Acceso a la Información Pública y de Protección de Datos Personales rendirá su informe respecto del ejercicio del año 2017 a más tardar el 31 de mayo de 2018.
 
 TERCERO.- Se derogan todas aquellas disposiciones legales que se opongan al presente decreto.
+
+P.O. 17 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 189.- QUE CONTIENE ADICIÓN A LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1 de enero del año 2020.
+
+SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entrada en vigor del presente Decreto, el Instituto deberá haber aprobado, elaborado y publicado internamente el esquema administrativo referido en el artículo 39 BIS de la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, objeto del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
