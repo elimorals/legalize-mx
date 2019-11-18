@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2019-10-07"
+last_updated: "2019-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -309,11 +309,17 @@ XVII. Derecho a la intimidad;
 
 XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
-XIX. Derechos de niñas, niños y adolescentes migrantes; y
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+XIX. Derechos de niñas, niños y adolescentes migrantes;
 
-XX. Derecho de acceso a las tecnologías de la información y comunicación.
+> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+
+XX. Derecho de acceso a las tecnologías de la información y comunicación; y
+
+> <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+
+XXI. Derecho a una crianza positiva.
 
 Las autoridades federales, estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -1187,7 +1193,9 @@ En ningún caso una situación migratoria irregular de niña, niño o adolescent
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE OCTUBRE DE 2019)</small>
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+### Capítulo Vigésimo Primero. Del Derecho a una Crianza Positiva
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 100 Bis.
 
@@ -1211,6 +1219,26 @@ Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del inte
 
 En concordancia con el Derecho a la Educación, las autoridades competentes deberán establecer mecanismos para fomentar que niñas, niños y adolescentes, hagan uso responsable y seguro de las tecnologías de información y comunicación.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+
+###### Artículo 100 Bis 4.
+
+Toda niña, niño y adolescente tiene derecho al buen trato y a la crianza positiva, entendiéndose esta, como las acciones que tienen por objeto brindar una educación con amor, sin violencia, basada en el respeto recíproco, la comunicación y la confianza mutua.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 100 Bis 5.
+
+El derecho a una crianza positiva implica la prohibición expresa de cualquier medida que involucre castigo corporal o cualquier tipo de violencia como método de corrección o sanción disciplinaria.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 100 Bis 6.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligados a implementar mecanismos que garanticen la difusión, concientización y colaboración con quienes ejerzan tutela, guarda, custodia o relación con niñas, niños y adolescentes en materia de buen trato y crianza positiva.
+
 ### Capítulo Único. De los Centros de Asistencia Social
 
 ### Capítulo Primero. De las autoridades
@@ -1219,11 +1247,9 @@ En concordancia con el Derecho a la Educación, las autoridades competentes debe
 
 ### Capítulo Tercero. De la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia
 
-### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
-
 ## TÍTULO TERCERO. De las Obligaciones
 
-### Capítulo Quinto. Del Programa Estatal
+### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
 
 ###### Artículo 101.
 
@@ -1293,7 +1319,7 @@ No podrá declararse la caducidad, ni la prescripción en perjuicio de niñas, n
 
 ## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
-### Capítulo Sexto. De la Secretaría Ejecutiva
+### Capítulo Quinto. Del Programa Estatal
 
 ###### Artículo 106.
 
@@ -1425,7 +1451,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Séptimo. De la Evaluación y Diagnóstico
+### Capítulo Sexto. De la Secretaría Ejecutiva
 
 ###### Artículo 113.
 
@@ -1433,7 +1459,7 @@ Las autoridades estatales y municipales y de los organismos constitucionales aut
 
 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-### Capítulo Octavo. De los Sistemas Municipales de Protección
+### Capítulo Séptimo. De la Evaluación y Diagnóstico
 
 ###### Artículo 114.
 
@@ -1555,7 +1581,7 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezca el ordenamiento jurídico estatal y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y el Sistema DIF Hidalgo.
 
-### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
+### Capítulo Octavo. De los Sistemas Municipales de Protección
 
 ###### Artículo 118.
 
@@ -1649,7 +1675,7 @@ El nombramiento de la persona Titular de la Procuraduría de Protección deberá
 
 La Procuraduría de Protección, contara con Subprocuradurías Regionales a efecto de que logre la mayor presencia y cobertura posible en los municipios, quienes contaran con unidades de atención acorde a la autonomía e independencia presupuestal de cada municipio.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
 
 ###### Artículo 122.
 
@@ -1750,6 +1776,8 @@ El Sistema Estatal de Protección Integral se reunirá cuando menos dos veces al
 ###### Artículo 126.
 
 Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial.
+
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
 ###### Artículo 127.
 
@@ -1889,7 +1917,7 @@ V. La reincidencia del infractor.
 
 Las sanciones previstas en esta Ley se aplicarán por las siguientes autoridades:
 
-I. La Secretaria de Contraloría y Transparencia Gubernamental del Estado de Hidalgo, en los casos de las fracciones I y II del artículo 139 de esta Ley; y
+I. La Secretaria de Contraloria y Transparencia Gubernamental del Estado de Hidalgo, en los casos de las fracciones I y II del artículo 139 de esta Ley; y
 
 II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial del Estado; del Congreso del Estado Libre y Soberano de Hidalgo; órganos con autonomía constitucional, o del Tribunal de Justicia Fiscal y Administrativa del Estado o de tribunales del trabajo o agrarios, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales.
 
@@ -1962,3 +1990,11 @@ P.O. 7 DE OCTUBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 223 QUE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 142 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO; ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 225 RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO; Y ADICIONA LA FRACCIÓN XXI DEL ARTICULO 13, ASÍ COMO EL CAPÍTULO VIGÉSIMO PRIMERO DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 100 BIS 4, 100 BIS 5 Y 100 BIS 6 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
