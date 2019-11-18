@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2019-06-12"
+last_updated: "2019-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2019.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -4237,9 +4237,13 @@ P.O. 4 DE MAYO DE 2017.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-La reforma del artículo 24 relativa a la integración del Congreso del Estado, entrará en vigor el primero de febrero de 2020, para ser aplicable al proceso electoral local 2020-2021.
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
 
-SEGUNDO. El Congreso del Estado en un plazo de 60 días posteriores al inicio de vigencia del presente Decreto, deberá armonizar la legislación electoral del Estado conforme al artículo 112 de la Constitución Política del Estado, asimismo, en un plazo que no deberá exceder del primero de febrero de 2020 conforme al artículo 24 de la Constitución Política del Estado.
+La reforma del artículo 24 relativa a la integración del Congreso del Estado, entrará en vigor el primero de febrero de 2023, para ser aplicable al proceso electoral local 2023-2024.
+
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+
+SEGUNDO. El Congreso del Estado en un plazo de 60 días posteriores al inicio de vigencia del presente Decreto, deberá armonizar la legislación electoral secundaria, conforme al artículo 112 de la Constitución Política del Estado de Sinaloa. De igual manera, para los efectos del artículo 24 del mismo ordenamiento, antes del día primero de febrero de 2023, deberá realizar las modificaciones a la misma legislación electoral y a la Ley Orgánica del Congreso del Estado de Sinaloa, con relación a la reducción del número de Diputados por la Fórmula de Mayoría Relativa y de Representación Proporcional, para su aplicación como consecuencia en el proceso electoral a que refiere el artículo anterior y para la integración de la legislatura que en esas fechas corresponda.
 
 TERCERO. Comuníquese al Instituto Nacional Electoral el presente Decreto a efecto de que conforme a sus atribuciones constitucionales y legales, realice la demarcación territorial de los distritos electorales uninominales correspondientes al Estado de Sinaloa, que atiendan a la conformación del Congreso del Estado.
 
@@ -4308,3 +4312,9 @@ P.O. 12 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 155 QUE REFORMA EL ARTÍCULO 76 BIS A, Y ADICIONA LA FRACCIÓN XII AL ARTÍCULO 4 BIS B, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 295 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 105, QUE REFORMÓ LOS ARTÍCULOS 24, PÁRRAFOS PRIMERO, TERCERO, CUARTO Y SÉPTIMO; Y 112, FRACCIONES I, II Y III DEL PÁRRAFO TERCERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
