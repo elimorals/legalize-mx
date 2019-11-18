@@ -4,7 +4,7 @@ identifier: "HID-ley-de-archivos-del-estado-de-hidalgo-55549"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-07"
-last_updated: "2007-05-07"
+last_updated: "2019-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55549&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE ARCHIVOS DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DE ARCHIVOS PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 18 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS TREINTA DÍAS POSTERIORES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO.]</small>
+
 LEY DE ARCHIVOS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de mayo de 2007.
 
@@ -526,3 +528,37 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 222 QUE CREA LA LEY DE ARCHIVOS PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. La presente Ley entrará en vigor a los treinta días posteriores a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Una vez que entre en vigor la presente Ley, queda abrogada la Ley de Archivos del Estado de Hidalgo, publicada en el Periódico Oficial del Estado de Hidalgo, el 7 de mayo de 2007.
+
+TERCERO. En tanto se expidan los lineamientos y normatividad archivística correspondiente, se continuará aplicando lo dispuesto en las disposiciones reglamentarias vigentes en la materia, en lo que no se oponga a la presente Ley.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+
+Asimismo, el Estado de Hidalgo deberá realizar las previsiones y adecuaciones presupuestales necesarias para dar cumplimiento a las obligaciones establecidas en esta Ley.
+
+QUINTO. El Congreso del Estado, deberá adecuar y armonizar la legislación estatal relacionada con la presente Ley, dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
+
+SEXTO. El Consejo Estatal, deberá empezar a sesionar dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+En la primera sesión, el Consejo Estatal deberá aprobar sus reglas de operación conforme a la normatividad aplicable.
+
+SÉPTIMO. Los sujetos obligados deberán implementar su Sistema Institucional, dentro de los seis meses posteriores a la entrada en vigor de la presente Ley.
+
+OCTAVO. En un plazo de un año, contado a partir de la entrada en vigor del presente Decreto, los sujetos obligados deberán establecer programas de capacitación en materia de gestión documental y administración de archivos.
+
+NOVENO. El Archivo General del Estado pondrá en operación la plataforma y la aplicación informática del Registro Estatal, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
+
+DÉCIMO. Aquellos documentos que se encuentren en los archivos de concentración e históricos y que antes de la entrada en vigor de la presente Ley no han sido organizados y valorados, se les deberá aplicar estos procesos técnicos archivísticos, con el objetivo de identificar el contenido y carácter de la información y determinar su disposición documental.
+
+DÉCIMO PRIMERO. El Consejo Estatal de Archivos, expedirá el Reglamento de la presente Ley, en un plazo no mayor a ciento ochenta días, contados a partir de su instalación.
+
+DÉCIMO SEGUNDO. El personal adscrito actualmente a la Dirección General de Políticas para la Administración Documental y Archivo General adscrito a la Oficialía Mayor del Gobierno del Estado, pasarán a formar parte del Archivo General del Estado, no perderá ningún derecho adquirido con motivo de la entrada en vigor del presente Decreto.
