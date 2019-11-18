@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2019-06-10"
+last_updated: "2019-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -47,7 +47,7 @@ Por lo que en mérito de lo anteriormente expuesto; y
 
 C O N S I D E R A N D O
 
-...
+[...]
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -1576,6 +1576,10 @@ II.- Representar y administrar sus bienes.
 ###### Artículo 225.
 
 Quienes ejerzan la patria potestad, la custodia o tutela, tienen el deber de guiar la conducta de los menores de edad o personas con capacidades diferentes con actitud de disposición positiva, mostrando buen ejemplo. Dicha facultad no implica infligir al menor actos que atenten contra su integridad.
+
+> <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2019)</small>
+
+Los que ejercen la patria potestad, la custodia o tutela no podrán imponer castigo corporal o cualquier otro tipo de trato humillante como forma de corrección disciplinaria.
 
 Se concede acción popular para denunciar los malos tratos a los menores de edad, pudiendo ser de manera anónima para su investigación oficiosa, dando vista de manera inmediata al Ministerio Público para su intervención.
 
@@ -3288,3 +3292,11 @@ P.O. 10 DE JUNIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente Decreto.
+
+P.O. 18 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 223 QUE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 142 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO; ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 225 RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO; Y ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 13, ASÍ COMO EL CAPÍTULO VIGÉSIMO PRIMERO DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 100 BIS 4, 100 BIS 5 Y 100 BIS 6 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
