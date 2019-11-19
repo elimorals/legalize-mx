@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-entrega-recepcion-del-estado-de-jalisco-y-sus-89711"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-13"
-last_updated: "2019-10-12"
+last_updated: "2019-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 13 de octubre de 2012.
 
@@ -203,9 +203,11 @@ V. El Libro Blanco, cuando exista, y
 
 VI. La demás documentación e información señaladas, en los reglamentos de las entidades respectivas y la que a juicio del servidor público saliente deba ser incluida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 21.
 
-Los servidores públicos obligados a la entrega, son los directamente responsables de rendir por escrito y autorizar con su firma el contenido de la información señalada en el artículo anterior.
+Los servidores públicos obligados a elaborar un acta de entrega-recepción al separarse de su empleo, cargo o comisión en los términos de las disposiciones jurídicas aplicables, son los directamente responsables de rendir por escrito y autorizar con su firma el contenido de la información señalada en el artículo anterior, así como los instrumentos de control y consulta archivísticos actualizados, señalando los documentos con posible valor histórico, de acuerdo con el catálogo de disposición documental.
 
 Los servidores públicos entrantes deberán dejar constancia con su firma de los recursos, bienes y documentos que se les entregan.
 
@@ -350,3 +352,25 @@ P.O. 12 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27368/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 29 DE LA LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27589/LXII/19 QUE ABROGA LA LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS PÚBLICOS E HISTÓRICOS DEL ESTADO DE JALISCO, CONTENIDA EN EL DECRETO 17032 Y SUS RESPECTIVAS REFORMAS, Y EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+Segundo.- El Titular de la Dirección de Área del Archivo Histórico del Gobierno del Estado fungirá como encargado de la presidencia en el Consejo Estatal de Archivos y será el vínculo con el Consejo Nacional de Archivos en tanto se nombre al Titular de la Dirección General de Archivos del Estado.
+
+Tercero.- El Consejo Estatal de Archivos deberá estar constituido a más tardar el último día hábil de febrero del 2020.
+
+Cuarto.- Los sujetos obligados, a través de sus Áreas Coordinadoras de Archivos, deberán de integrar al Grupo Interdisciplinario al que se refiere la Ley de Archivos del Estado de Jalisco y sus Municipios dentro de los siguientes treinta días naturales a la entrada en vigor del presente decreto.
+
+Quinto.- Los sujetos obligados, a través de sus Áreas Coordinadoras de Archivos, deberán integrar su plan institucional de archivos y sus programas anuales a fin de que entren en operación durante el mes de junio de 2020.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+
+Séptimo.- Los sujetos obligados deberán realizar las adecuaciones presupuestales correspondientes al ejercicio fiscal 2021, a fin de incluir una partida presupuestal relativa a archivos.
+
+Octavo.- La integración de las auditorías archivísticas en el programa anual de auditorías, deberá ser contemplada en el programa anual 2020.
+
+Noveno.- Para aquellos sujetos obligados que a la entrada en vigor del presente decreto no cuenten con un portal electrónico al que se refiere el artículo 65 de la Ley de Archivos del Estado de Jalisco y sus Municipios que se expide a través de este decreto, la publicación de los expedientes de disposición documental y transferencia secundaria se realizará a través del portal del Archivo General del Estado en los términos de las disposiciones legales aplicables.
