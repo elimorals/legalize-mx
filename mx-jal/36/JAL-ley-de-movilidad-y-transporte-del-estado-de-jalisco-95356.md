@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2019-10-31"
+last_updated: "2019-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -195,41 +193,55 @@ XII. Comprobante de verificación vehicular: constancia, calcomanía, holograma,
 
 XIII. Instituto: El Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-XIV. Licencia: la autorización que concede el Estado a una persona física, por tiempo determinado, para conducir u operar vehículos, y que se acredita mediante el documento denominado de igual forma;
+XIV. Kgf: kilogramo fuerza;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-XV. Maquinaria agrícola: es aquella autopropulsada o remolcada, que tiene como uso exclusivo las actividades y servicios agrícolas y que transitan de manera eventual o excepcional en los caminos, carreteras y autopistas de jurisdicción estatal;
+XV. Licencia: la autorización que concede el Estado a una persona física, por tiempo determinado, para conducir u operar vehículos, y que se acredita mediante el documento denominado de igual forma;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-XVI. Permiso: acto administrativo de la Secretaría a través del cual autoriza al particular a realizar, conforme a lo establecido en la Ley y por el tiempo que ésta establece:
+XVI. Lineamientos: directrices generales que operan la regulación del transporte de carga en el Área Metropolitana de Guadalajara, emitidos por el Instituto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+XVII. Mapa Funcional: cartografía física y/o digital que señala las vías metropolitanas para la circulación y/u operación de vehículos de transporte de carga;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+XVIII. Maquinaria agrícola: es aquella autopropulsada o remolcada, que tiene como uso exclusivo las actividades y servicios agrícolas y que transitan de manera eventual o excepcional en los caminos, carreteras y autopistas de jurisdicción estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+XIX. Permiso: acto administrativo de la Secretaría a través del cual autoriza al particular a realizar, conforme a lo establecido en la Ley y por el tiempo que ésta establece:
 
 a) La prestación de servicios de transporte que precise la misma ley; o
 
 b) La circulación, conducción u operación de vehículos de manera provisional;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-XVII. Registro Estatal: el Registro Estatal de Movilidad y Transporte;
+XX. Registro Estatal: el Registro Estatal de Movilidad y Transporte;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-XVIII. Ruta: el trayecto con origen y destino que podrá ser troncal, alimentadora, integrada a un corredor o formar parte de una cuenca de servicio;
+XXI. Ruta: el trayecto con origen y destino que podrá ser troncal, alimentadora, integrada a un corredor o formar parte de una cuenca de servicio;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-XIX. Secretaría: La Secretaría de Transporte;
+XXII. Secretaría: La Secretaría de Transporte;
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-XX. Sistema integrado de transporte público: servicio de transporte público de una ciudad con una organización de alta eficiencia, eficacia y sustentabilidad, resultado de la integración sistémica infraestructura, operativa y tarifaria de las diferentes modalidades del transporte público y del transporte no motorizado; y
+XXIII. Sistema integrado de transporte público: servicio de transporte público de una ciudad con una organización de alta eficiencia, eficacia y sustentabilidad, resultado de la integración sistémica infraestructura, operativa y tarifaria de las diferentes modalidades del transporte público y del transporte no motorizado; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-XXI. Subrogación: acto administrativo mediante el cual los organismos públicos descentralizados del Ejecutivo, contratan con los particulares para que presten el servicio público de transporte por un tiempo determinado y bajo las condiciones que marca la ley.
+XXIV. Subrogación: acto administrativo mediante el cual los organismos públicos descentralizados del Ejecutivo, contratan con los particulares para que presten el servicio público de transporte por un tiempo determinado y bajo las condiciones que marca la ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
 Los conceptos y definiciones no contenidos en este artículo, se describirán en el reglamento respectivo.
 
@@ -1143,9 +1155,17 @@ e) Mixtos: los autorizados para transportar pasajeros, carga ligera u objetos, y
 
 f) Equipo móvil especial: los vehículos no comprendidos en las clasificaciones anteriores, previa autorización de la Secretaría;
 
-III. De uso oficial: los destinados a la prestación de servicios públicos estatales o municipales, y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-IV. De seguridad: los adaptados para servicios de seguridad, protección civil y emergencia, operados tanto por entidades públicas como por particulares, plenamente identificables por colores, rótulos y las señales de seguridad reglamentarias.
+III. De uso oficial: los destinados a la prestación de servicios públicos estatales o municipales;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+IV. De seguridad: los adaptados para servicios de seguridad, protección civil y emergencia, operados tanto por entidades públicas como por particulares, plenamente identificables por colores, rótulos y las señales de seguridad reglamentarias; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+V. De uso publicitario: todo vehículo particular destinado exclusivamente para difundir o promover publicidad, productos, marcas, servicios o personas. Queda prohibida su circulación en el Estado de Jalisco, con excepción de los carros alegóricos con publicidad en desfiles.
 
 ### Capítulo IV. Del registro y los requisitos para circular en la vía pública
 
@@ -1499,9 +1519,13 @@ En ningún caso se autorizará provisionalmente la circulación de las unidades 
 
 Para circular en las vías públicas de comunicación local, los propietarios, legítimos poseedores o conductores de vehículos, deberán acatar las siguientes normas:
 
-I. Todo vehículo cumplirá con los requerimientos de dimensiones y peso que se especifiquen en el reglamento;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-II. Queda prohibido transportar en un vehículo a un número mayor de personas que el especificado en la tarjeta de circulación, o carga que exceda a la capacidad autorizada;
+I. Todo vehículo, con excepción del transporte a que se refiere la fracción X del presente artículo, cumplirá con los requerimientos de dimensiones y peso que se especifiquen en el reglamento;
+
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+II. Queda prohibido transportar en un vehículo de uso privado a un número mayor de personas que el especificado en la tarjeta de circulación, o carga que exceda a la capacidad autorizada;
 
 III. Todo vehículo que circule en las vías públicas de comunicación local, tiene que estar en buen estado mecánico y contar con los equipos, sistemas, señales y dispositivos de seguridad que especifiquen esta ley y sus reglamentos;
 
@@ -1513,11 +1537,45 @@ V. Toda modificación a la estructura o diseño de vehículos automotores se rea
 
 VI. Los vehículos automotores registrados en el Estado, se someterán a las verificaciones vehiculares en términos del programa que emita la Secretaría de Medio Ambiente y Desarrollo Territorial, con la periodicidad establecida en el calendario oficial de verificación vigente para el Estado, para comprobar que se encuentran en condiciones ambientalmente óptimas para su circulación, conforme a las disposiciones de esta ley, su reglamento y demás disposiciones jurídicas aplicables;
 
-VII. Los conductores otorgarán la prelación de paso a los vehículos de seguridad que lleven encendidos códigos y sirenas, debiendo permitirles el paso si cruzan en una intersección, y cuando circulen sobre la misma vía en el mismo sentido, deberán colocarse en el extremo derecho de la vialidad y debiendo hacer alto. No deberán por ningún motivo aprovechar esta circunstancia para circular inmediatamente detrás de estos vehículos, y
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Los vehículos automotores utilizarán sistemas de retención infantil o asientos de seguridad, en el caso de que alguno de sus ocupantes sea un menor de doce años de edad o que por su constitución física lo requiera, el cual deberá estar situado en el asiento trasero y será acorde a la talla y peso del menor, salvo que el vehículo no cuente con asientos traseros.
+VII. Los conductores otorgarán la prelación de paso a los vehículos de seguridad que lleven encendidos códigos y sirenas, debiendo permitirles el paso si cruzan en una intersección, y cuando circulen sobre la misma vía en el mismo sentido, deberán colocarse en el extremo derecho de la vialidad y debiendo hacer alto. No deberán por ningún motivo aprovechar esta circunstancia para circular inmediatamente detrás de estos vehículos;
 
-El Reglamento de esta ley establecerá los procedimientos que permitan asegurar el cumplimiento de las disposiciones de este artículo.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Los vehículos automotores utilizarán sistemas de retención infantil o asientos de seguridad, en el caso de que alguno de sus ocupantes sea un menor de doce años de edad o que por su constitución física lo requiera, el cual deberá estar situado en el asiento trasero y será acorde a la talla y peso del menor, salvo que el vehículo no cuente con asientos traseros;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+IX. Los vehículos de carga, para la entrada, salida y circulación intraurbana dentro de los límites territoriales establecidos en el Mapa Funcional y en los lineamientos que para tal efecto emita el Instituto cuando se trate del Área Metropolitana de Guadalajara, deberán obtener el permiso correspondiente por parte de la Secretaría. Queda prohibida la circulación de los tractocamiones doblemente articulados, dentro de la delimitación territorial establecida por el Mapa Funcional, en los horarios que los lineamientos establezcan; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+X. Los vehículos de transporte de carga contemplados en la Norma Oficial Federal correspondiente, para su circulación en el Estado, deberán cumplir con las condiciones de peso y dimensiones máximas que dicha norma establezca.
+
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+El Reglamento de esta Ley establecerá los procedimientos que permitan asegurar el cumplimiento de las disposiciones de este artículo.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 71 Bis.
+
+Los lineamientos y el mapa funcional señalados en el artículo 71, fracción IX establecerán, por lo menos, la clasificación vehicular del transporte de carga y sus modalidades con base en la norma oficial que determine su peso y dimensiones máximas, los límites territoriales, así como la regulación de tránsito y horarios para su ingreso, salida y circulación intraurbana dentro de la delimitación territorial establecida.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 71 Ter.
+
+Respecto de las restricciones de circulación a los vehículos de carga establecidas en los lineamientos, la Secretaría, a petición del interesado, podrá otorgar autorización especial para ello, siempre y cuando cumplan con los requisitos señalados y que se encuentren previstos dentro de los casos de excepción que se establezcan en los lineamientos y el Mapa Funcional. De manera enunciativa, mas no limitativa, en el caso de servicios postales, paquetería y mensajería en los términos del reglamento federal de la materia, servicios públicos de emergencia o fuerza mayor, en materia de salud pública o privada, entre otros, obtendrán dicha autorización con el cumplimiento de los requisitos que establezcan los lineamientos.
+
+Los procedimientos, plazos y condiciones específicas para la expedición del permiso establecido en el Artículo 71 fracción IX o la autorización señalada en el primer párrafo del presente, se establecerán en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 71 Quater.
+
+Los vehículos de transporte de carga que regula esta Ley, para su circulación, podrán utilizar sistemas de Posicionamiento Global o cualquier otro medio de rastreo satelital que les permita ser monitoreadas por el Centro de Coordinación, Comando, Control, Comunicaciones y Computo del Estado de Jalisco, para efectos de seguridad.
 
 ###### Artículo 72.
 
@@ -3223,23 +3281,31 @@ Las infracciones dispuestas en los artículos 176 fracción I, 178 fracciones II
 
 La infracción dispuesta en el artículo 178 fracción XV se sancionará con multa de 5 a 10 unidades de medida y actualización. A esta infracción no le será aplicable la reducción del cobro señalada en el artículo 199 primer párrafo.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-Las infracciones dispuestas en los artículos 182, 183, 184 fracciones I y IV a VII, 190 fracciones I, II y III, 191 y 192 se aplicarán una sanción de 10 a 30 Unidades de Medida y Actualización.
+Las infracciones dispuestas en los artículos 182 con excepción de la fracción II, 183 con excepción de su fracción VI, 184 fracciones I y IV a VII, 190 fracciones I, II y III, 191 y 192 se aplicará una sanción de 10 a 30 Unidades de Medida y Actuaiización (sic).
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
 
 Las infracciones dispuestas en el artículo 176 fracción X y 184 fracciones II y III, se aplicará una sanción de 15 a 25 unidades de medida y actualización.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-Las infracciones dispuestas en los artículos 177, fracción VIII, 181, 182 fracción II, 186 y 187, se aplicarán una sanción de 150 a 200 veces el valor de la Unidad de Medida y Actualización.
+Las infracciones dispuestas en los artículos 183 fracción VI y 43 fracción V, se aplicará una sanción de 100 a 150 veces el valor de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+Las infracciones dispuestas en los artículos 177 fracción VIII, 181, 182 fracción II, 186 y 187 se aplicará una sanción de 150 a 200 veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
 En el caso donde proceda sanción pecuniaria, arresto administrativo inconmutable o trabajo comunitario, o aplique suspensión o cancelación de licencia o gafete, se observara lo dispuesto en la presente ley.
 
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
 En el caso de reincidencia de las infracciones contempladas en este capítulo se aplicará lo dispuesto en el artículo 188.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
 A las infracciones dispuestas en el artículo 183 BIS se aplicará una sanción de 20 a 60 unidades de medida y actualización, la cual será conmutable hasta por el cincuenta por ciento, al asistir a un curso de sensibilización sobre los derechos de los ciclistas que será impartido por la Secretaría o por las autoridades municipales en materia de movilidad.
 
@@ -3262,6 +3328,28 @@ V. La infracción dispuesta en el artículo 185 fracción II cometida con vehíc
 VI. La infracción dispuesta en el artículo 185 fracción II cometida con vehículos de las modalidades establecidas en el artículo 85 fracciones I y IV y vehículos pesados definidos conforme al Reglamento, que rebasen 1.5 veces los límites permisibles, se aplicará una sanción de 60 a 80 veces el valor de la Unidad de Medida y Actualización; y
 
 VII. La infracción dispuesta en el artículo 185 fracción II cometida con vehículos de las modalidades establecidas en el artículo 85 fracciones I y IV y vehículos pesados definidos conforme al Reglamento, que rebasen 2 veces o más los límites permisibles, se aplicará una sanción de 80 a 100 veces el valor de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 174 Ter.
+
+Se sancionará a los conductores o propietarios de vehículos de carga a que se refiere la fracción X del artículo 71 de esta ley, que excedan los máximos de peso, dimensiones o ambas, establecidos conforme a la norma oficial federal correspondiente, en los siguientes términos:
+
+I. Por exceder de alto hasta 20 centímetros, se aplicará una sanción de 25 a 70 veces el valor de la Unidad de Medida y Actualización;
+
+II. Por exceder de alto más de 20 centímetros, se aplicará una sanción de 75 a 100 veces el valor de la Unidad de Medida y Actualización;
+
+III. Por exceder de ancho hasta 25 centímetros, se aplicará una sanción de 25 a 100 veces el valor de la Unidad de Medida y Actualización;
+
+IV. Por exceder de ancho más de 25 centímetros, se aplicará una sanción de 150 a 250 veces el valor de la Unidad de Medida y Actualización;
+
+V. Por exceder las dimensiones de largo hasta en 100 centímetros, se aplicará una sanción de 25 a 50 veces el valor de la Unidad de Medida y Actualización;
+
+VI. Por exceder las dimensiones de largo más de 100 centímetros, se aplicará una sanción de 150 a 200 veces el valor de la Unidad de Medida y Actualización;
+
+VII. Por exceder de peso hasta 2000 kgf, se aplicará una sanción de 25 a 100 veces el valor de la Unidad de Medida y Actualización; y
+
+VIII. Por exceder de peso de 2001 hasta 3000 kgf, se aplicará una sanción de 100 a 150 veces el valor de la Unidad de Medida y Actualización. Por cada 1000 kgf o fracción que exceda de peso el límite anterior, aumentará la sanción de 75 a 80 veces el valor de la Unidad de Medida y Actualización.
 
 ###### Artículo 175.
 
@@ -3411,7 +3499,9 @@ I. Falta total de luces;
 
 II. Por moverse del lugar en un accidente de colisión, salvo en caso de llegar a un convenio las partes que participaron en dicho evento, o por instrucciones del policía vial o de tránsito municipal, quien está autorizado a utilizar cualquier medio, incluso los electrónicos, a efectos de establecer lo más pronto posible la circulación, o
 
-III. A los vehículos que transporten carga sin contar con las medidas de seguridad, equipo de protección e higiene, ya sea por exceso de dimensiones o derrama de la carga o pongan en riesgo la integridad o patrimonio de terceros.
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+III. A los vehículos que transporten carga sin contar con las medidas de seguridad, equipo de protección e higiene, o pongan en riesgo la integridad o patrimonio de terceros.
 
 ###### Artículo 181.
 
@@ -3457,7 +3547,9 @@ Los vehículos de transporte público colectivo y masivo, y los de transporte es
 
 V. A la persona que conduzca un vehículo de motor en ciclovías, zonas peatonales, jardines, plazas y pistas para uso exclusivo de peatones, a no ser que cuente con la autorización respectiva de la autoridad competente para circular por dichas zonas;
 
-VI. Los conductores de vehículos de carga pesada que circulen, por carriles centrales o de alta velocidad o por circular en zona prohibida, o
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+VI. Los conductores de vehículos de carga pesada que circulen por carriles centrales o de alta velocidad, por circular en zona prohibida o sin el permiso o autorización para circular conforme a los lineamientos y el Mapa Funcional respecto de los supuestos señalados en los artículos 71 fracción IX y 71 Ter.
 
 VII. Los conductores que circulen o se estacionen sin causa justificada por el carril de acotamiento.
 
@@ -4390,3 +4482,19 @@ P.O. 24 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27381/LXII/19 QUE ADICIONA UNA FRACCIÓN XXXVII AL ARTÍCULO 19, RECORRIÉNDOSE SUBSECUENTEMENTE LAS YA EXISTENTES DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27591/LXII/19 QUE REFORMA LOS ARTÍCULOS 5°, 43, 71, 174, 180 Y 183; Y SE CREAN LOS ARTÍCULOS 71 BIS, 71 TER, 71 QUÁTER Y 174 TER, DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Instituto de Planeación y Gestión del Desarrollo del Área Metropolitana de Guadalajara deberá expedir, a más tardar el 01 de diciembre de 2019, los lineamientos y el Mapa Funcional que determinen los límites de circulación a fin de que éstos sean remitidos y aprobados por la Junta de Coordinación Metropolitana del Área Metropolitana de Guadalajara.
+
+TERCERO. Las sanciones a la infracción que se establece en el artículo 183 fracción VI, respecto del permiso para el supuesto señalado en el artículo 71 fracción IX y la autorización del supuesto señalado en el artículo 71 Ter, ambos de esta Ley, serán aplicables a partir del primero de enero del 2020.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado, contará con un plazo de 60 días naturales para realizar las adecuaciones correspondientes al Reglamento de la Ley de Movilidad y Transporte del Estado.
+
+QUINTO. Se exhorta al Titular del Poder Ejecutivo del Estado, para que los ingresos que se recauden por concepto de las sanciones a las infracciones establecidas en el Artículo 183 fracción VI, se integren al Fideicomiso de Inversión y Administración para la Mejora de la Seguridad Vial, Fideicomiso 2003993-1, para lo cual se le solicita que en el ejercicio de sus facultades, en un plazo no mayor a 60 días naturales, realice las adecuaciones conducentes a dicho Fideicomiso.
+
+SEXTO. La Secretaría instalará una Mesa de Evaluación y Análisis de los Lineamientos y el Mapa Funcional que emita el Instituto, integrada por el Presidente de la Comisión de Movilidad y Transporte del Congreso del Estado de Jalisco, el Comité Estatal de Seguridad Vial y representantes del sector de transporte de carga.
