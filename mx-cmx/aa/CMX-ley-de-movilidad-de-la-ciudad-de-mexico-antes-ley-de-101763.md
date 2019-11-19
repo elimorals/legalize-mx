@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-movilidad-de-la-ciudad-de-mexico-antes-ley-de-101763"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-14"
-last_updated: "2019-05-20"
+last_updated: "2019-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101763&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2014-07-08"
 
 LEY DE MOVILIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 14 de julio de 2014.
 
@@ -74,9 +74,17 @@ II. El establecimiento, mejoramiento y uso adecuado de las áreas de tránsito p
 
 III. La señalización vial y nomenclatura;
 
-IV. La utilización de infraestructura de movilidad, servicios y demás elementos inherentes o incorporados a la vialidad; y
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-V. La infraestructura de movilidad y equipamiento auxiliar de los servicios públicos de transporte de pasajeros y de carga que garantice la eficiencia en la prestación del servicio.
+IV. La utilización de infraestructura de movilidad, servicios y demás elementos inherentes o incorporados a la vialidad;
+
+> <small>(REFORMADA, G.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+V. La infraestructura de movilidad y equipamiento auxiliar de los servicios públicos de transporte de pasajeros y de carga que garantice la eficiencia en la prestación del servicio; y
+
+> <small>(ADICIONADA, G.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+VI. La promoción del acceso de mujeres y niñas a transporte de calidad, seguro y eficiente, fomentando acciones para eliminar la violencia basada en género y el acoso sexual.
 
 ###### Artículo 3.
 
@@ -1178,9 +1186,11 @@ El servicio de transporte en todas sus modalidades se ajustará al Programa Inte
 
 A fin de satisfacer las necesidades de la población y la demanda de los usuarios del servicio de transporte público con un óptimo funcionamiento, la Administración Pública impulsará y promoverá la homologación de tarifas, horarios, intercambios, frecuencias y demás infraestructura y condiciones en las que se proporciona, buscando la conexión de rutas urbanas y metropolitanas con especial atención a las zonas que carecen de medios de transporte, de difícil acceso o que se encuentren mal comunicadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 61.
 
-Las unidades destinadas a la prestación del servicio de transporte de pasajeros, se sujetarán a los manuales y normas técnicas que en materia de diseño, seguridad y comodidad expida la Secretaría, tomando en consideración las alternativas más adecuadas que se desprendan de los estudios técnicos, sociales, antropométricos de la población mexicana para usuarios con discapacidad, y económicos correspondientes, sujetándose a lo establecido en la Ley Federal sobre Metrología y Normalización y normas oficiales mexicanas de la materia.
+Las unidades destinadas a la prestación del servicio de transporte de pasajeros, se sujetarán a los manuales y normas técnicas que en materia de diseño, seguridad y comodidad expida la Secretaría, tomando en consideración las alternativas más adecuadas que se desprendan de los estudios técnicos, sociales, antropométricos y económicos correspondientes de la población mexicana, incluyendo perspectiva de género y para personas con discapacidad, sujetándose a lo establecido en la Ley Federal sobre Metrología y Normalización y normas oficiales mexicanas de la materia.
 
 La Secretaría emitirá los lineamientos para la cromática de las unidades destinadas al servicio de transporte público de pasajeros. Con el propósito de afectar lo menos posible la economía de los concesionarios, ésta permanecerá vigente hasta por un periodo de diez años y sólo por causas justificadas se autorizará el cambio antes de este término, o cuando se emitan los lineamientos para la cromática del Sistema Integrado de Transporte Público.
 
@@ -3059,3 +3069,11 @@ Segundo. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Tercero. La Jefatura de Gobierno contará con un plazo de hasta 60 días naturales contados a partir de la entrada en vigor del presente Decreto para adecuar el Reglamento, los Lineamientos y demás disposiciones de carácter administrativo en materia de sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública, previendo en dichos instrumentos las sanciones que derivadas del incumplimiento de lo dispuesto por este Decreto correspondan.
 
 Cuarto. La Administración Pública de la Ciudad de México y los terceros autorizados para implementar sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública tendrán hasta 120 días naturales para realizar las acciones y adecuaciones pertinentes a fin de dar cumplimiento a lo previsto en el presente Decreto.
+
+G.O. 19 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL DISTRITO FEDERAL”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+Segundo.- Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
