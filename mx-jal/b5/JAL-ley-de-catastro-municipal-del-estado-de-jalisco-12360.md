@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-catastro-municipal-del-estado-de-jalisco-12360"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-18"
-last_updated: "2019-08-10"
+last_updated: "2019-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12360&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 18 de noviembre de 1997.
 
@@ -661,9 +661,11 @@ III. Sus facultades específicas se determinarán en el reglamento que expida el
 
 Las operaciones catastrales tienen como objetivos efectuar la descripción, clasificación y mensura de la propiedad inmobiliaria; inscribirla en los registros respectivos y valuarla, a fin de servir de apoyo para planificar y regular su utilización.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 25.
 
-La autoridad catastral llevará a cabo las operaciones que sean necesarias y que tiendan a la formación, conservación, mejoramiento y desarrollo del Catastro, con sus registros, padrones y archivos documentales correspondientes.
+La autoridad catastral llevará a cabo las operaciones que sean necesarias y que tiendan a la formación, conservación, mejoramiento y desarrollo del Catastro, con sus registros, padrones y expedientesrespectivos (sic), de conformidad con la Ley de Archivos del Estado de Jalisco y sus Municipios.
 
 ###### Artículo 26.
 
@@ -1494,3 +1496,25 @@ P.O. 10 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27304/LXII/19 QUE REFORMA LOS ARTÍCULOS 4, 19, 55, 92, 100 Y 102 DE LA LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “EI Estado de Jalisco”.
+
+P.O. 19 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27589/LXII/19 QUE ABROGA LA LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS PÚBLICOS E HISTÓRICOS DEL ESTADO DE JALISCO, CONTENIDA EN EL DECRETO 17032 Y SUS RESPECTIVAS REFORMAS, Y EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+Segundo.- El Titular de la Dirección de Área del Archivo Histórico del Gobierno del Estado fungirá como encargado de la presidencia en el Consejo Estatal de Archivos y será el vínculo con el Consejo Nacional de Archivos en tanto se nombre al Titular de la Dirección General de Archivos del Estado.
+
+Tercero.- El Consejo Estatal de Archivos deberá estar constituido a más tardar el último día hábil de febrero del 2020.
+
+Cuarto.- Los sujetos obligados, a través de sus Áreas Coordinadoras de Archivos, deberán de integrar al Grupo Interdisciplinario al que se refiere la Ley de Archivos del Estado de Jalisco y sus Municipios dentro de los siguientes treinta días naturales a la entrada en vigor del presente decreto.
+
+Quinto.- Los sujetos obligados, a través de sus Áreas Coordinadoras de Archivos, deberán integrar su plan institucional de archivos y sus programas anuales a fin de que entren en operación durante el mes de junio de 2020.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+
+Séptimo.- Los sujetos obligados deberán realizar las adecuaciones presupuestales correspondientes al ejercicio fiscal 2021, a fin de incluir una partida presupuestal relativa a archivos.
+
+Octavo.- La integración de las auditorías archivísticas en el programa anual de auditorías, deberá ser contemplada en el programa anual 2020.
+
+Noveno.- Para aquellos sujetos obligados que a la entrada en vigor del presente decreto no cuenten con un portal electrónico al que se refiere el artículo 65 de la Ley de Archivos del Estado de Jalisco y sus Municipios que se expide a través de este decreto, la publicación de los expedientes de disposición documental y transferencia secundaria se realizará a través del portal del Archivo General del Estado en los términos de las disposiciones legales aplicables.
