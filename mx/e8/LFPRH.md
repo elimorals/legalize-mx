@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2015-12-30"
+last_updated: "2019-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -1406,7 +1406,11 @@ Los Poderes Legislativo y Judicial y los entes autónomos, a través de sus resp
 
 Los ejecutores de gasto, en el ejercicio de sus respectivos presupuestos, deberán tomar medidas para racionalizar el gasto destinado a las actividades administrativas y de apoyo, sin afectar el cumplimiento de las metas de los programas aprobados en el Presupuesto de Egresos.
 
-Los ahorros generados como resultado de la aplicación de dichas medidas deberán destinarse, en los términos de las disposiciones generales aplicables, a los programas prioritarios del ejecutor de gasto que los genere.
+(NOTA: EL 5 DE ABRIL DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 139/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, D.O.F. 19 DE NOVIEMBRE DE 2019)</small>
+
+Los ahorros generados como resultado de la aplicación de dichas medidas deberán destinarse, en los términos de las disposiciones generales aplicables a los programas del ejecutor del gasto que los genere. Por cuanto hace al Poder Ejecutivo Federal, dichos ahorros se destinarán a los programas previstos en el Plan Nacional de Desarrollo O AL DESTINO QUE POR DECRETO DETERMINE EL TITULAR.
 
 > <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
@@ -2605,3 +2609,35 @@ Las secretarías de Hacienda y Crédito Público y de la Función Pública reali
 Las erogaciones que, en su caso, realicen las dependencias a que se refiere el párrafo anterior en cumplimiento a este Decreto, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
 
 Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 19 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE AUSTERIDAD REPUBLICANA; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS Y DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, ajustarán sus marcos normativos conforme a lo establecido en la Ley Federal de Austeridad Republicana.
+
+Tercero. Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, con el fin de dar cumplimiento a lo previsto por el artículo 9 de la Ley Federal de Austeridad Republicana, realizarán los ajustes necesarios para implementar las compras consolidadas en la adquisición de bienes y servicios, así como la contratación de obra pública y servicios relacionados con la misma de uso generalizado de los entes.
+
+Cuarto. Para el caso de las oficinas de representación de las dependencias y entidades de la Administración Pública Federal, éstas, en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, darán cumplimiento a lo dispuesto por el artículo 15 de la Ley Federal de Austeridad Republicana.
+
+Quinto. Los lineamientos a que se refiere la Ley Federal de Austeridad Republicana se expedirán en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Dichos lineamientos, entre otras cosas, establecerán las disposiciones relativas a la contratación de personal por honorarios y asesores en las dependencias de la Administración Pública Federal.
+
+La eliminación de las plazas de Dirección General Adjunta creadas a partir del ejercicio fiscal 2001, y que no cumplan con lo dispuesto en la fracción III del artículo 12 de la Ley Federal de Austeridad Republicana estará sujeta a lo previsto en el artículo transitorio segundo.
+
+Sexto. Se prohíbe y se cancela cualquier otro tipo de pensión que se hubiere creado exprofeso para el beneficio de los extitulares del Ejecutivo Federal.
+
+Asimismo, queda prohibida la asignación a extitulares del Ejecutivo Federal, de cualquier tipo de servidores públicos, personal civil o de las fuerzas armadas, cuyos costos sean cubiertos con recursos del Estado, así como de los bienes muebles o inmuebles que estén a su disposición y formen parte del patrimonio federal. Por lo que a partir de que esta Ley entre en vigencia, dichos recursos humanos y materiales se reintegrarán a las dependencias correspondientes.
+
+Séptimo. Dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, las secretarías de la Función Pública y de Hacienda y Crédito Público emitirán los Lineamientos para la operación y funcionamiento del Comité de Evaluación.
+
+La presidencia de dicho Comité estará a cargo de las secretarías de Hacienda y Crédito Público y de la Función Pública, quienes desempeñarán esta función en forma alterna por los periodos que señalen los Lineamientos a que se refiere el párrafo anterior.
+
+Octavo. En un plazo de hasta ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto, las Secretarías de la Función Pública y de Hacienda y Crédito Público analizarán la normatividad, las estructuras, patrimonio, objetivos, eficiencia y eficacia de los fideicomisos públicos, fondos, mandatos públicos o contratos análogos que reciban recursos públicos federales. El análisis será publicado a través de un Informe, el cual será remitido a la Cámara de Diputados. El resultado correspondiente a cada fideicomiso deberá ser tomado en cuenta por el Poder Ejecutivo Federal para la elaboración del Proyecto de Presupuesto de Egresos de la Federación correspondiente.
+
+Noveno. La Secretaría podrá convenir con las principales instituciones educativas especializadas en administración pública del país, convenios de colaboración para la capacitación y profesionalización del personal de los entes públicos de la Administración Pública Federal, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, responsable, eficiente y eficaz.
+
+Décimo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
