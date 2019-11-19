@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2019-11-05"
+last_updated: "2019-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -111,21 +111,35 @@ Asimismo, será parte integrante del Archivo General la base de datos del Regist
 
 La Dirección General del Registro Civil expedirá las certificaciones y extractos de las actas y documentos que se encuentren en sus archivos, conforme a las disposiciones de esta ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-Corresponde a la Dirección General del Registro Civil, la inspección, coordinación y supervisión de las Oficialías del Registro Civil en el Estado, a las cuales les proporcionará los manuales de procedimientos aplicables.
+La Dirección General del Registro Civil será la responsable, a través del Director del Archivo General, de organizar y conservar su acervo documental, y de su operación institucional en cumplimiento de las disposiciones de la legislación federal y estatal en la materia, y será parte integrante del respectivo Consejo Estatal de Archivos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-La Dirección General del Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Estado de Jalisco, en el que se inscribirá el nombre de las personas que haya (sic) dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial.
+Además, como sujeto obligado, tendrá las obligaciones que en los mencionados ordenamientos legales se contemplen para la adecuada gestión documental y administración del Archivo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
 
 El Registro expedirá un certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos, protegiendo los datos personales sensibles, no podrá darse a conocer el nombre del o los menores de edad acreedores, de conformidad con la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 7.
 
 La Dirección General del Registro Civil recomendará el uso de los mejores medios técnicos que existan y puedan aprovecharse, tanto por el Archivo General como por las oficialías, para la óptima conservación de los documentos y para la expedición de las copias certificadas.
+
+Como parte integral del Sistema Estatal de Archivos, el Archivo General se constituirá como un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, instrumentos, procedimientos y servicios tendientes a cumplir con los fines de la institución y con la conservación homogénea de los documentos bajo su jurisdicción.
+
+Así mismo estará coordinado con los Sistemas estatales de Transparencia y Anticorrupción y deberá:
+
+I. Fomentar la capacitación y la profesionalización del personal encargado de la organización y coordinación de los sistemas de archivo con una visión integral;
+
+II. Celebrar acuerdos interinstitucionales para el intercambio de conocimientos técnicos en materia archivística, transparencia, acceso a la información y rendición de cuentas;
+
+III. Promover acciones coordinadas de protección del patrimonio documental y del derecho de acceso a los archivos; y
+
+IV. Promover la digitalización de la información generada con motivo del ejercicio de sus funciones y atribuciones.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -133,9 +147,15 @@ La Dirección General del Registro Civil recomendará el uso de los mejores medi
 
 Para ser Director General del Registro Civil se requiere tener la nacionalidad mexicana; poseer título de abogado o licenciado en derecho legalmente expedido e inscrito en la Dirección de Profesiones del Estado; una práctica profesional de cinco años cuando menos y no ser menor de treinta años de edad, ni mayor de sesenta y cinco, el día de su designación.
 
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 9.
 
-Para ser titular del Archivo General del Registro Civil se requieren las mismas condiciones que establece el artículo anterior, salvo el de la práctica profesional y además, deberá tener conocimientos sobre archivonomía.
+Para ser titular del Archivo General del Registro Civil se requieren las mismas condiciones que establece el artículo anterior, salvo el de la práctica profesional y además deberá:
+
+I. Tener conocimientos sobre archivonomía; y
+
+II. Recibir, dentro de los primeros tres meses a partir del inicio de su encargo, capacitación en materia de conservación y administración de archivos.
 
 ###### Artículo 10.
 
@@ -1716,3 +1736,25 @@ P.O. 5 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27524/LXII/19 QUE REFORMA EL ARTÍCULO 43 Y ADICIONA EL ARTÍCULO 43 BIS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 19 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 27589/LXII/19 QUE ABROGA LA LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS PÚBLICOS E HISTÓRICOS DEL ESTADO DE JALISCO, CONTENIDA EN EL DECRETO 17032 Y SUS RESPECTIVAS REFORMAS, Y EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo.- El Titular de la Dirección de Área del Archivo Histórico del Gobierno del Estado fungirá como encargado de la presidencia en el Consejo Estatal de Archivos y será el vínculo con el Consejo Nacional de Archivos en tanto se nombre al Titular de la Dirección General de Archivos del Estado.
+
+Tercero.- El Consejo Estatal de Archivos deberá estar constituido a más tardar el último día hábil de febrero del 2020.
+
+Cuarto.- Los sujetos obligados, a través de sus Áreas Coordinadoras de Archivos, deberán de integrar al Grupo Interdisciplinario al que se refiere la Ley de Archivos del Estado de Jalisco y sus Municipios dentro de los siguientes treinta días naturales a la entrada en vigor del presente decreto.
+
+Quinto.- Los sujetos obligados, a través de sus Áreas Coordinadoras de Archivos, deberán integrar su plan institucional de archivos y sus programas anuales a fin de que entren en operación durante el mes de junio de 2020.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+
+Séptimo.- Los sujetos obligados deberán realizar las adecuaciones presupuestales correspondientes al ejercicio fiscal 2021, a fin de incluir una partida presupuestal relativa a archivos.
+
+Octavo.- La integración de las auditorías archivísticas en el programa anual de auditorías, deberá ser contemplada en el programa anual 2020.
+
+Noveno.- Para aquellos sujetos obligados que a la entrada en vigor del presente decreto no cuenten con un portal electrónico al que se refiere el artículo 65 de la Ley de Archivos del Estado de Jalisco y sus Municipios que se expide a través de este decreto, la publicación de los expedientes de disposición documental y transferencia secundaria se realizará a través del portal del Archivo General del Estado en los términos de las disposiciones legales aplicables.
