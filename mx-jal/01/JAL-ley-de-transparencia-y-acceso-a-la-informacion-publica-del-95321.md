@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-9532
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-08"
-last_updated: "2019-07-11"
+last_updated: "2019-11-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95321&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 8 de agosto de 2013.
 
@@ -121,7 +121,9 @@ Los sujetos obligados buscarán, en todo momento, que la información generada t
 
 b) Información pública ordinaria, que es la información pública de libre acceso no considerada como fundamental.
 
-La información pública que obra en documentos históricos será considerada como información pública ordinaria y, en este caso, los solicitantes deberán acatar las disposiciones que establezcan los sujetos obligados con relación al manejo y cuidado de ésta, de acuerdo a las disposiciones de la Ley que Regula la Administración de Documentos Públicos e Históricos del Estado de Jalisco; e
+> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+La información pública que obra en documentos históricos será considerada como información pública ordinaria y, en este caso, los solicitantes deberán acatar las disposiciones que establezcan los sujetos obligados con relación al manejo y cuidado de ésta, de acuerdo a las disposiciones de la Ley de Archivos del Estado de Jalisco y sus Municipios; e
 
 II. Información pública protegida, cuyo acceso es restringido y se divide en:
 
@@ -185,7 +187,9 @@ V. Datos personales: Cualquier información concerniente a una persona física i
 
 VI. Datos personales sensibles: aquellos datos personales que afecten a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. En particular, se consideran sensibles aquellos que puedan revelar aspectos como origen racial o étnico, estado de salud presente y futuro, información genética, creencias religiosas, filosóficas y morales, afiliación sindical, opiniones políticas, preferencia sexual;
 
-VII. Documentos: los expedientes, reportes, estudios, actas, dictámenes, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, datos, notas, memorandos, estadísticas, instrumentos de medición o bien, cualquier otro registro que documente el ejercicio de las facultades, funciones, actividad y competencias de los sujetos obligados, sus servidores públicos e integrantes, sin importar su fuente o fecha de elaboración, así como aquellos señalados por la Ley que regula la Administración de Documentos Públicos e Históricos del Estado de Jalisco, los cuales podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+
+VII. Documentos: los expedientes, reportes, estudios, actas, dictámenes, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, contratos, convenios, instructivos, datos, notas, memorandos, estadísticas, instrumentos de medición o bien, cualquier otro registro que documente el ejercicio de las facultades, funciones, actividad y competencias de los sujetos obligados, sus servidores públicos e integrantes, sin importar su fuente o fecha de elaboración, así como aquellos señalados por la Ley de Archivos del Estado de Jalisco y sus Municipios, los cuales podrán estar en cualquier medio, sea escrito, impreso, sonoro, visual, electrónico, informático u holográfico;
 
 VIII. Expediente: unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de los sujetos obligados;
 
@@ -689,9 +693,9 @@ XI. Los estudios financiados con recursos públicos;
 
 XII. Los ingresos recibidos por cualquier concepto señalando el nombre de los responsables de recibirlos, administrarlos y ejercerlos, así como su destino, indicando el destino de cada uno de ellos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2019)</small>
 
-XIII. El catálogo de disposición y guía de archivo documental; y
+XIII. El catálogo de disposición y guía de archivo documental; los dictámenes de baja y actas de baja documental y transferencia secundaria, programa e informe anual de desarrollo archivístico y actas de documentación siniestrada; así como, los resultados de las auditorías archivísticas, las determinaciones y resoluciones del Consejo Estatal de Archivos; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE NOVIEMBRE DE 2015)</small>
 
@@ -4518,3 +4522,25 @@ P.O. 11 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27289/LXII/19 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 2° Y ADICIONA LAS FACCIONES II Y III DEL ARTÍCULO 7°, RECORRIÉNDOSE LAS SUBSECUENTES, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 19 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27589/LXII/19 QUE ABROGA LA LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS PÚBLICOS E HISTÓRICOS DEL ESTADO DE JALISCO, CONTENIDA EN EL DECRETO 17032 Y SUS RESPECTIVAS REFORMAS, Y EXPIDE LA LEY DE ARCHIVOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco”.
+
+Segundo.- El Titular de la Dirección de Área del Archivo Histórico del Gobierno del Estado fungirá como encargado de la presidencia en el Consejo Estatal de Archivos y será el vínculo con el Consejo Nacional de Archivos en tanto se nombre al Titular de la Dirección General de Archivos del Estado.
+
+Tercero.- El Consejo Estatal de Archivos deberá estar constituido a más tardar el último día hábil de febrero del 2020.
+
+Cuarto.- Los sujetos obligados, a través de sus Áreas Coordinadoras de Archivos, deberán de integrar al Grupo Interdisciplinario al que se refiere la Ley de Archivos del Estado de Jalisco y sus Municipios dentro de los siguientes treinta días naturales a la entrada en vigor del presente decreto.
+
+Quinto.- Los sujetos obligados, a través de sus Áreas Coordinadoras de Archivos, deberán integrar su plan institucional de archivos y sus programas anuales a fin de que entren en operación durante el mes de junio de 2020.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y los subsecuentes.
+
+Séptimo.- Los sujetos obligados deberán realizar las adecuaciones presupuestales correspondientes al ejercicio fiscal 2021, a fin de incluir una partida presupuestal relativa a archivos.
+
+Octavo.- La integración de las auditorías archivísticas en el programa anual de auditorías, deberá ser contemplada en el programa anual 2020.
+
+Noveno.- Para aquellos sujetos obligados que a la entrada en vigor del presente decreto no cuenten con un portal electrónico al que se refiere el artículo 65 de la Ley de Archivos del Estado de Jalisco y sus Municipios que se expide a través de este decreto, la publicación de los expedientes de disposición documental y transferencia secundaria se realizará a través del portal del Archivo General del Estado en los términos de las disposiciones legales aplicables.
