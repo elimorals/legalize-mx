@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-adquisiciones-arrendamientos-y-contratacion-de-93676"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93676&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de marzo de 2013.
 
@@ -837,13 +837,19 @@ De las excepciones a la licitación pública
 
 En los supuestos que prevé el Artículo 42 de esta Ley, los entes gubernamentales, bajo su responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos a través de los procedimientos de invitación restringida o de adjudicación directa.
 
-Excepto en los casos previstos por la fracción I del Artículo 43, la selección del procedimiento de excepción deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que resulten procedentes para obtener las mejores condiciones para el Estado o Municipio, según corresponda.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
+
+Excepto en los casos previstos por la fracción I del Artículo 42, la selección del procedimiento de excepción deberá fundarse y motivarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad, honradez y transparencia que resulten procedentes para obtener las mejores condiciones para el Estado o Municipio, según corresponda.
 
 La acreditación del o de los criterios en los que se funda y la justificación de las razones en las que se sustente el ejercicio de la opción, deberán constar por escrito y ser firmadas por el titular de la unidad usuaria o requirente de los bienes o servicios y por el titular de la unidad contratante.
 
-Para las contrataciones a través de un método distinto a la licitación pública, el titular del área responsable de la contratación, a más tardar el último día hábil de los meses de abril, julio, octubre y enero, enviarán al órgano de control interno del ente gubernamental, dependencia o entidad de que se trate, un informe relativo a los contratos formalizados durante el trimestre de enero a marzo, de abril a junio, de julio a septiembre y de octubre a diciembre, respectivamente, acompañando copia del escrito aludido en este Artículo y de un dictamen en el que se hará constar el análisis de la o las propuestas y las razones para la adjudicación del contrato. No será necesario rendir el informe en los términos antes señalados, en las operaciones que se realicen al amparo de las fracciones I y V, del Artículo 43 de este ordenamiento. En el caso de la fracción I, en el mes de enero de cada año se enviará un informe respecto de las operaciones realizadas en el año inmediato anterior, en los términos establecidos en el Reglamento de esta Ley. Tratándose de los casos previstos por la fracción V, en el informe trimestral únicamente se deberá informar sobre el importe de la contratación.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
 
-En caso del procedimiento de invitación restringida fundamentada en las fracciones I, IV, VII, VIII, X primera oración, XI, XII, XIV, XV, XVI y XVII del Artículo 43 de esta Ley, el informe al que hace referencia el párrafo anterior deberá estar acompañado de los nombres y datos generales de las personas que fueron invitadas. Tratándose de adjudicaciones directas, en todos los casos deberá indicarse el nombre de la persona a quien se propuso realizarla. En ambos procedimientos, deberá acompañarse el resultado de la investigación de mercado que sirvió de base para su selección.
+Para las contrataciones a través de un método distinto a la licitación pública, el titular del área responsable de la contratación, a más tardar el último día hábil de los meses de abril, julio, octubre y enero, enviarán al órgano de control interno del ente gubernamental, dependencia o entidad de que se trate, un informe relativo a los contratos formalizados durante el trimestre de enero a marzo, de abril a junio, de julio a septiembre y de octubre a diciembre, respectivamente, acompañando copia del escrito aludido en este Artículo y de un dictamen en el que se hará constar el análisis de la o las propuestas y las razones para la adjudicación del contrato. No será necesario rendir el informe en los términos antes señalados, en las operaciones que se realicen al amparo de las fracciones I y V, del Artículo 42 de este ordenamiento. En el caso de la fracción I, en el mes de enero de cada año se enviará un informe respecto de las operaciones realizadas en el año inmediato anterior, en los términos establecidos en el Reglamento de esta Ley. Tratándose de los casos previstos por la fracción V, en el informe trimestral únicamente se deberá informar sobre el importe de la contratación.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
+
+En caso del procedimiento de invitación restringida fundamentada en las fracciones I, IV, VII, VIII, X primera oración, XI, XII, XIV, XV, XVI y XVII del Artículo 42 de esta Ley, el informe al que hace referencia el párrafo anterior deberá estar acompañado de los nombres y datos generales de las personas que fueron invitadas. Tratándose de adjudicaciones directas, en todos los casos deberá indicarse el nombre de la persona a quien se propuso realizarla. En ambos procedimientos, deberá acompañarse el resultado de la investigación de mercado que sirvió de base para su selección.
 
 A los procedimientos de contratación de invitación restringida y de adjudicación directa, les será aplicable el carácter a que hacen referencia las fracciones I, II y III del Artículo 29 de la presente Ley.
 
@@ -874,6 +880,14 @@ VIII. Se haya declarado desierta una licitación pública, siempre que se manten
 IX. Existan razones justificadas para la adquisición o arrendamiento de bienes o prestación de servicios de marca determinada;
 
 X. Se trate de adquisiciones de bienes perecederos, granos y productos alimenticios básicos o semiprocesados y semovientes. Asimismo, cuando se trate de bienes usados o reconstruidos en los que el precio no sea mayor al que se determine mediante avalúo que practicarán las instituciones de crédito o terceros habilitados para ello conforme a las disposiciones aplicables, expedido dentro de los seis meses previos y vigente al momento de la adjudicación del contrato respectivo;
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
+
+En los casos de bienes usados o reconstruidos, señalados en el párrafo anterior, serán adquiridos de conformidad con el presente artículo, siempre y cuando se determine previo análisis costo beneficio, y garantice en el respectivo contrato, el estado, calidad y vida útil.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
+
+La contratación de cualquier servicio de remanufacturado o reconstrucción de cualquier bien usado, será sujeta a los procedimientos convencionales establecidos en la presente Ley, de manera independiente a la adquisición de cualquier bien usado.
 
 XI. Se trate de servicios de consultorías, asesorías, estudios o investigaciones. En estos casos se deberá aplicar el procedimiento de adjudicación directa o invitación restringida, conforme a los montos de contratación establecidos por el Congreso del Estado para el ejercicio fiscal correspondiente;
 
@@ -1199,7 +1213,7 @@ Salvo que el Comité que corresponda dictamine la aplicación de alguno de los c
 
 Para estar en aptitud de licitar o en su caso de formalizar contratos para la adquisición de inmuebles destinados por el Estado para fines de interés público, se deberán reunir previamente los siguientes requisitos:
 
-I. La autorízación (sic) de la partida donde se autoriza el presupuesto correspondiente por parte de la Tesorería del Estado;
+I. La autorízación de la partida donde se autoriza el presupuesto correspondiente por parte de la Tesorería del Estado;
 
 II. Que no se disponga de inmuebles idóneos propiedad del Estado para satisfacer los requerimientos específicos; y
 
@@ -1650,3 +1664,11 @@ RODOLFO GÓMEZ ACOSTA
 EL C. CONTRALOR GENERAL
 
 JORGE MANJARREZ RIVERA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 185. SE MODIFICA EL PÁRRAFO SEGUNDO, CUARTO Y QUINTO, DEL ARTÍCULO 41, Y SE ADICIONA EL PÁRRAFO SEGUNDO Y TERCERO A LA FRACCIÓN X DEL ARTÍCULO 42, DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor a partir al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
