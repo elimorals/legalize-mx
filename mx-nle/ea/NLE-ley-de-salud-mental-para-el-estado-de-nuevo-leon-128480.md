@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-salud-mental-para-el-estado-de-nuevo-leon-128480"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-09"
-last_updated: "2018-05-09"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección III al Número 58 del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 2018.
 
@@ -331,9 +331,11 @@ En el ámbito de las actividades de procuración e impartición de justicia en l
 
 ### Capítulo IV. Del Centro Integral de Atención a la Salud Mental de Niñas, Niños y Adolescentes
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 22.
 
-El Titular del Poder Ejecutivo podrá crear mediante el instrumento jurídico idóneo, una unidad administrativa responsable de brindar apoyo, tratamiento y seguimiento, a través de programas terapéuticos e intervenciones en el ámbito socio familiar, a los casos de niñas, niños o adolescentes que lo requieran.
+El Titular del Poder Ejecutivo, deberá crear mediante el instrumento jurídico idóneo, una unidad administrativa responsable de brindar apoyo, tratamiento y seguimiento, a través de programas terapéuticos e intervenciones en el ámbito socio familiar, a los casos de niñas, niños o adolescentes que lo requieran.
 
 ###### Artículo 23.
 
@@ -976,3 +978,13 @@ GENARO ALANÍS DE LA FUENTE
 EL C. SECRETARIO DE SALUD
 
 MANUEL ENRIQUE DE LA O CAVAZOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 128. SE CONFIRMA LA APROBACIÓN DEL DECRETO NÚMERO 128 POR EL QUE SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 22 DE LA LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Titular del Poder Ejecutivo destinará los recursos necesarios en la Ley de Egresos del Estado de cada ejercicio fiscal, en cumplimiento a lo estipulado en los artículos 22, 24 fracción III, y Quinto Transitorio de la Ley de Salud Mental para el Estado de Nuevo León.
