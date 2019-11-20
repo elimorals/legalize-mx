@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interno-de-la-comision-de-derechos-humanos-de-la-138
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-23"
-last_updated: "2019-10-23"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2019-10-11"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE NOVIEMBRE DE 2019.
 
-Reglamento publicado en el Número 205 de la Gaceta Oficial de la Ciudad de México, el miércoles 23 de octubre de 2019.
+Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 23 de octubre de 2019.
 
 Comisión de Derechos Humanos de la Ciudad de México
 
@@ -974,15 +974,23 @@ VII. Realizar actividades de mediación social encaminadas a facilitar el diálo
 
 De la Dirección Ejecutiva de Promoción y Agendas en Derechos Humanos
 
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], G.O. 20 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 57.
 
 Integración
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 20 DE NOVIEMBRE DE 2019)</small>
+
 Para el cumplimiento de sus atribuciones, la Dirección Ejecutiva de Promoción y Agendas en Derechos Humanos contará con al menos:
 
-I. Dos Direcciones de Área;
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2019)</small>
 
-II. Una Coordinación General de Promoción e Información; y
+I. Una Coordinación General de Promoción e Información;
+
+> <small>(REFORMADA, G.O. 20 DE NOVIEMBRE DE 2019)</small>
+
+II. Una Dirección de Área, y
 
 III. El personal profesional, técnico y administrativo necesario que al efecto establezca la persona titular de la Presidencia para la adecuada realización de sus funciones.
 
@@ -2179,3 +2187,17 @@ En la Ciudad de México, a 11 de octubre de 2019.
 Nashieli Ramírez Hernández
 
 Presidenta de la Comisión de Derechos Humanos de la Ciudad de México y de su Consejo
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 20 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO 15/2019 DEL CONSEJO DE LA COMISIÓN DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, POR EL QUE SE REFORMA EL ARTÍCULO 57 DEL REGLAMENTO INTERNO DE ESTE ORGANISMO”.]
+
+Primero. La presente reforma al artículo 57 del Reglamento Interno fue aprobada por el Consejo de la Comisión de Derechos Humanos de la Ciudad de México, en la Sesión Ordinaria 10/2019 de fecha veintinueve de octubre de dos mil diecinueve, la cual entrará en vigor el mismo día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+## TRANSITORIO
+
+ÚNICO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
