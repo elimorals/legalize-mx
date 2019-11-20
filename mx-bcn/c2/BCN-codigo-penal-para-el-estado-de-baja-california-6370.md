@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2019-05-24"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3401,7 +3401,7 @@ Este delito se perseguirá por querella de la dependencia u Órgano Estatal o Mu
 
 CORRUPCION DE PERSONAS MENORES DE DIECIOCHO AÑOS DE EDAD O QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O DE PERSONAS QUE NO TIENEN CAPACIDAD PARA RESISTIRLO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 251.
 
@@ -3509,9 +3509,17 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 
 ### CAPITULO III. MOTIN
 
-###### Artículo 261.
+###### ARTÍCULO 261.
 
-Tipo y punibilidad.- Al que obligue, procure, facilite, o induzca la corrupción de una persona menor de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, induciéndola a la ebriedad o a vivir de la caridad pública sin justificación, se le aplicará de tres a seis años de prisión y de doscientos a quinientos días multa.
+Tipo y Punibilidad.- Al que obligue, procure, facilite o induzca la corrupción de una persona menor de dieciocho años de edad o de quien no tiene la capacidad para comprender el significado del hecho o persona que no tiene capacidad para resistirlo, induciéndola a la ebriedad, a vivir de la caridad pública sin justificación o a la ludopatía mediante apuestas en juegos de azar o máquinas tragamonedas, así como todo tipo de máquinas y/o medios equiparables que permitan apuestas de dinero a través de vías electrónicas de pago o fichas, se le aplicará de uno a cinco años de prisión y de cien a trescientos días multa.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
+
+Se impondrá prisión de 3 a 6 años y de doscientos a quinientos días de multa a quién produzca, acondicione, manufacture, trafique, comercie, suministre máquinas tipo tragamonedas y similares habilitadas para realizar apuestas en lugares públicos y/o clandestinos, sin las autorizaciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2019)</small>
+
+Así mismo, habrá lugar al decomiso de los bienes producto de las conductas antes descritas que procuren, faciliten o induzcan a la corrupción de menores.
 
 > <small>(REFORMADO POR DECRETO 545, P.O. 9 DE SEPTIEMBRE DE 2016)</small>
 
@@ -5978,5 +5986,11 @@ P.O. 24 DE MAYO DE 2019.
 P.O. 24 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 338 MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL TÍTULO PRIMERO, CAPÍTULO V, DENOMINADO “DELITOS CONTRA LA PRESTACIÓN DE UN SERVICIO PÚBLICO”, ASÍ COMO LA REFORMA DEL ARTÍCULO 250 TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 20 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 14 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 261 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
