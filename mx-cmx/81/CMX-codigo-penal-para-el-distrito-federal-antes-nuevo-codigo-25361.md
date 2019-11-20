@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2019-08-01"
+last_updated: "2019-11-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2002-07-11"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE NOVIEMBRE DE 2019 EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 1 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 20 DE NOVIEMBRE DE 2019.]</small>
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2752,7 +2752,9 @@ La misma pena se impondrá al empleado de la institución bancaria o financiera 
 
 XI. Utilizando como medio comisivo, una motocicleta.
 
-B) Se impondrá de cuatro a ocho años, cuando se trate de vehículo automotriz.
+> <small>(F. DE E., G.O. 20 DE NOVIEMBRE DE 2019)</small>
+
+B) Se impondrá de cuatro a ocho años de prisión, cuando se trate de vehículo automotriz.
 
 C) Se impondrá de cinco a nueve años de prisión cuando el robo se cometa en una oficina bancaria, recaudadora, u otra en que se conserven caudales o valores, o contra personas que las custodien o transporten.
 
