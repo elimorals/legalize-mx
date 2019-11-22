@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2019-10-18"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -4683,13 +4683,9 @@ ARTÍCULO 604 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 495 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA ADICIÓN DEL SEGUNDO PÁRRAFO AL PRESENTE ARTÍCULO, A SABER: "Son susceptibles de constituir el patrimonio de la familia los bienes inmuebles, y muebles a que refiere el artículo 727 de este ordenamiento". PARA CONSULTAR EL CONTENIDO DEL PRIMER PÁRRAFO, VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 715.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4757,27 +4753,9 @@ ARTÍCULO 604 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. DEL ANÁLISIS A LOS DECRETOS 229 Y 477 PUBLICADOS EN EL P.O. DEL 15 DE DICIEMBRE DE 2015 Y 10 DE JUNIO DE 2016, RESPECTIVAMENTE, SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE DEROGADO DE MANERA GRADUAL EN LOS DIVERSOS DISTRITOS JUDICIALES, PARA PASAR A FORMAR PARTE DE LA LEY DE FAMILIA DEL ESTADO. ASIMISMO, EN EL DECRETO 495 PUBLICADO EN EL P.O. DEL 1 DE JULIO DE 2016, SE ADICIONÓ CONTENIDO AL PRESENTE ARTÍCULO, Y MEDIANTE DECRETO 765 PUBLICADO EN EL P.O. DEL 17 DE MARZO DE 2017, SE REFORMÓ SU FRACCIÓN IV. SE SUGIERE CONSULTAR LA CRONOLOGÍA CORRESPONDIENTE.]</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2016)</small>
-
 ###### ARTÍCULO 727.
 
-Son objeto del patrimonio de familia:
-
-I. La casa, cualquiera que sea su valor, siempre que se trate de un inmueble destinado a la habitación de la familia.
-
-II. El menaje de la vivienda a que se refiere la fracción anterior.
-
-III. El vehículo destinado para uso y beneficio de la familia.
-
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
-
-IV. Los libros, biblioteca, escritorios, útiles, instrumentos computacionales y demás equipo y herramienta de la industria que le sirva de sustento económico, con un valor de hasta tres mil unidades de medida y actualización.
-
-El valor de los bienes afectados al patrimonio de la familia, será el del lugar donde se encuentren los bienes en que se constituya el patrimonio.
-
-El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente, tampoco será embargable; pero el valor original o su incremento, sí podrán disminuirse para encuadrarse dentro de los límites establecidos en las fracciones anteriores.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 494 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA ADICIÓN DEL SEGUNDO PÁRRAFO AL PRESENTE ARTÍCULO, A SABER: "El Ministerio Público y la Procuraduría para Niños, Niñas y la Familia serán oídos en la constitución, ampliación, reducción y extinción del patrimonio de la familia". PARA CONSULTAR EL CONTENIDO DEL PRIMER PÁRRAFO, VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]</small>
 
@@ -4823,13 +4801,9 @@ El incremento que sobrevenga respecto al valor de los mismos, originado por cual
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 494 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA REFORMA DEL PRESENTE ARTÍCULO, A SABER: "Cuando haya peligro de que un deudor de alimentos pierda sus bienes por mala administración o porque los esté dilapidando, su cónyuge o la persona a que se refiere el párrafo tercero del artículo 714, sus acreedores alimentistas, los representantes de éstos, la Procuraduría para Niños, Niñas y la Familia y el Ministerio Público pueden exigir judicialmente que se constituya el patrimonio de la familia, hasta por los valores fijados en el artículo 727". VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 735.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4945,15 +4919,9 @@ El incremento que sobrevenga respecto al valor de los mismos, originado por cual
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 494 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA REFORMA DEL PRESENTE ARTÍCULO, A SABER: "La constitución, ampliación, reducción y extinción del patrimonio de la familia voluntario también podrá llevarse a cabo por el interesado ante Notario Público del lugar donde se encuentren los bienes, quien hará constar su intervención en escritura pública cumpliendo con las disposiciones de este capítulo y de la Ley del Notariado para el Estado de Coahuila de Zaragoza.
-
-Cuando exista oposición del Ministerio Público o de la Procuraduría para Niños, Niñas y la Familia, el Notario Público suspenderá su actuación y remitirá lo actuado ante su fe a la autoridad judicial competente para que resuelva lo conducente". VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTÍCULO 755.
 
-(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 # LIBRO TERCERO. DEL DERECHO HEREDITARIO
 
@@ -6333,9 +6301,9 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 Testamento público simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición, o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado o de los municipios de la entidad, o cualquier dependencia u organismo de las administraciones estatal o municipales, aun los desconcentrados o descentralizados, o en acto posterior, de conformidad con lo siguiente:
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-I. Que el precio del inmueble o su valor según avalúo catastral, no exceda del equivalente a veinticinco unidades de medida y actualización al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto.
+I. Que el precio del inmueble o su valor según avalúo catastral, no exceda del equivalente a veinticinco unidades de medida y actualización elevadas al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto.
 
 II. El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de substitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces.
 
@@ -21260,3 +21228,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Poder Judicial del Estado de Coahuila de Zaragoza, a través del Instituto de Especialización Judicial, llevará a cabo programas de capacitación para los integrantes del poder judicial que estarán involucrados con la aplicación de la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza y conversatorios con los familiares de personas desaparecidas.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 374.- SE DEROGAN LOS ARTÍCULOS 715, 727, 735 Y 755, CONTENIDOS EN EL TÍTULO QUINTO, CAPÍTULO ÚNICO, DEL 14 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, RELATIVOS AL PATRIMONIO DE FAMILIA".]
+
+PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+SEGUNDO.- Los juicios para la constitución del patrimonio de familia, iniciados y que no se hubieran sido concluido durante el período de vigencia de las disposiciones que se derogan mediante el presente decreto, se seguirán tramitando conforme a las mismas.
+
+TERCERO.- Se deroga cualquier disposición contraria a lo dispuesto en este Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 375.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1025 DEL CÓDIGO CIVIL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
