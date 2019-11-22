@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-obra-publica-del-estado-de-queretaro-34824"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-12"
-last_updated: "2019-07-12"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34824&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "QUE"
 ---
 # LEY DE OBRA PUBLICA DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO NOVENO DE LA LEY PUBLICADA EN EL P.O. DE 22 DE DICIEMBRE DE 2019, SE DEROGA LA LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ORDENAMIENTOS, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE QUERÉTARO "LA SOMBRA DE ARTEAGA" DEL 3 DE OCTUBRE DE 2018 Y REFORMADA MEDIANTE DECRETOS PUBLICADOS EN EL MISMO ÓRGANO DE DIFUSIÓN OFICIAL EN FECHAS 19 DE DICIEMBRE DE 2018 Y 30 DE JUNIO DE 2019, EN CONSECUENCIA SE RESTITUYE ELTEXTO DE LAS DISPOSICIONES REFORMADAS POR EL DE LA REFORMA INMEDIATA ANTERIOR AL 3 DE OCTUBRE DE 2018.]
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 12 de noviembre de 2003.
 
@@ -399,9 +401,9 @@ En el caso de los concursos de obra pública bajo la modalidad de invitación re
 
 2. Cuando exista la necesidad de obras que requieran ser concursadas por invitación restringida a cuando menos tres contratistas, la dependencia, entidad o municipio interesado, deberá dirigirse por escrito a la autoridad competente, según corresponda para que convoque a la reunión del Comité de Selección, indicándole las características de aquellas, el origen de los recursos por invertir, la aprobación de los mismos, el presupuesto y el calendario de ejecución. Una vez cubierto lo anterior, la autoridad competente según corresponda, procederá dentro de los siguientes 5 días hábiles a la citación del Comité a que se refiere esta fracción, señalando el lugar, la fecha y la hora para su desahogo, a fin de proceder a la selección.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-3. El Comité de Selección de Contratistas, con base en los inscritos en el padrón respectivo, seleccionará a aquellos que cuenten con al menos el 30% de capital contable del monto aprobado de la obra, y cuya capacidad técnica y financiera se adecue a las características de la obra pública por ejecutar, tomando en consideración, además la experiencia y la especialidad requeridas, debiendo diversificar dicha selección, para evitar el acaparamiento de las obras a favor de uno o más contratistas. La Autoridad competente, según corresponda, emitirá los lineamientos para el control de los contratistas invitados, llevando un control de estos.
+3. El Comité de Selección de Contratistas, con base en los inscritos en el padrón respectivo, seleccionará a aquellos cuya capacidad técnica y financiera se adecúe a las características de la obra pública por ejecutar, tomando en consideración, además, la experiencia y la especialidad requeridas, procurando diversificar dicha selección para evitar el acaparamiento de las obras a favor de uno o más contratistas.
 
 4. Por cada una de las obras que fuesen a ejecutarse a cargo de las dependencias, entidades o municipios y que deban ser concursadas por invitación restringida, el Comité de Selección elegirá a tres o más contratistas, dependiendo el monto de que se trate.
 
@@ -1784,3 +1786,11 @@ Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a 
 ###### ARTÍCULO TERCERO.
 
 La Secretaría, la dependencia, entidad encargada de las obras públicas, según corresponda, tendrán un plazo de 120 días naturales a partir de la publicación de la presente para emitir los lineamientos previstos por el numeral 3 del artículo 26 de esta Ley.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL NUMERAL 3, DEL ARTÍCULO 26, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
