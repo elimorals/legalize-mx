@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-agencia-de-movilidad-y-modalidades-de-transporte-8648
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-03"
-last_updated: "2019-09-27"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 3 de marzo de 2012.
 
@@ -2601,7 +2601,15 @@ I. Tarifa general: La que se paga en forma ordinaria por los usuarios.
 
 II. Tarifa con descuento: La que cubren los usuarios que gozan de descuento por encontrarse en alguna de las condiciones particulares o personales a que se refiere la presente Ley. Los porcentajes de descuento para esta tarifa podrán ser entre el diez y el ochenta por ciento de la tarifa general.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Para el pago de la tarifa a que hace referencia esta fracción, los usuarios contarán con una ayuda social por parte del Poder Ejecutivo del Estado, la cual se entregará en los términos que se establezcan en los programas sociales y reglas de operación que al efecto se emitan.
+
 III. Tarifa integrada: La que cubren los usuarios de un sistema de rutas integradas, que en su caso se establezca en el servicio urbano, permitiéndoles realizar transbordos entre rutas del sistema con o sin un costo adicional.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+IV. Tarifa de transbordo: La que cubren en forma ordinaria los usuarios del sistema de transporte público colectivo urbano de la zona metropolitana de Querétaro, al abordar un segundo o posteriores autobuses del mismo sistema, para llegar a su destino final, dentro del lapso de tiempo que establezca el Instituto al aprobar la tarifa. Esta tarifa será general o con descuento y sólo aplicará en aquellos casos en que el pago se realice a través del Sistema de prepago a que se refiere la presente Ley.
 
 ###### Artículo 168.
 
@@ -2619,11 +2627,11 @@ IV. Los adultos mayores de sesenta años.
 
 Los niños menores de tres años quedan exentos de pago de la tarifa.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 169.
 
-Los usuarios de una tarifa con descuento del servicio público de transporte colectivo, para hacer efectivo dicho beneficio, deberán acreditar los requisitos, atender a los planes, programas o ayudad (sic) sociales que para tal efecto sean expedidos por la autoridad competente.
+Los usuarios de una tarifa con descuento del servicio público de transporte colectivo, para hacer efectivo dicho beneficio, deberán acreditar los requisitos de los planes o programas que para tal efecto sean expedidos por autoridad competente.
 
 ###### Artículo 170.
 
@@ -3904,3 +3912,11 @@ P.O. 27 DE SEPTIEMBRE DE 2019.
 Artículo Primero. La presente Ley iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
