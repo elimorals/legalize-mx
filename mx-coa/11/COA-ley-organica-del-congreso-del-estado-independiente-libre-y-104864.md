@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2019-09-24"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
-Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 30 de diciembre de 2014.
+Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
 QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
@@ -209,9 +209,11 @@ Independientemente de que su elección haya sido bajo el principio de mayoría r
 
 (DEROGADO, P.O. 5 DE JULIO DE 2019)
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 19.
 
-A las y los Diputados no podrá exigírseles responsabilidad legal alguna por las opiniones que manifiesten en el desempeño de su encargo y jamás podrán ser reconvenidos o enjuiciados por ellas. Sin embargo serán responsables por los delitos, faltas u omisiones, que cometan durante el tiempo de su encargo, pero no podrán ser detenidos, ni ejercitarse en su contra la acción penal, sino mediante el procedimiento constitucional para la declaratoria de procedencia y como consecuencia de ello, se proceda a la separación del cargo, sujetándose en lo conducente a lo establecido en la Constitución y en (sic) Ley de Responsabilidades de los Servidores Públicos del Estado de Coahuila de Zaragoza.
+A las y los Diputados no podrá exigírseles responsabilidad legal alguna por las opiniones que manifiesten en el desempeño de su encargo y jamás podrán ser reconvenidos o enjuiciados por ellas. Sin embargo, serán responsables por los delitos, faltas u omisiones, que cometan durante el tiempo de su encargo, y procederá la separación del cargo en los términos de lo dispuesto en el artículo 165 de la Constitución Política del Estado.
 
 ###### ARTÍCULO 20.
 
@@ -325,7 +327,9 @@ XXI. Rendir informe anual a la ciudadanía respecto de sus labores legislativas,
 
 Los derechos y deberes parlamentarios, de una Diputada o Diputado, serán suspendidos:
 
-I. Cuando se emita por el Congreso del Estado la declaratoria de procedencia por responsabilidad penal; o
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+I. Cuando se le imponga alguna medida cautelar, durante el proceso penal que se le siga en su contra, consistente en prisión preventiva, o alguna otra medida que restrinja o limite su libertad, según lo establezca la ley de la materia aplicable; o
 
 II. Se apruebe una solicitud de licencia.
 
@@ -1055,7 +1059,9 @@ XXII. De Energía, Minería e Hidrocarburos;
 
 XXIII. De Transparencia y Acceso a la Información;
 
-XXIV. Instructora de Juicio Político y de Declaración de Procedencia en Materia de Responsabilidad Penal.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+XXIV. Instructora de Juicio Político.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1571,9 +1577,11 @@ VI. Vigilar las actividades propias de la unidad de atención del Congreso del E
 
 VII. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 112.
 
-La Comisión Instructora de Juicio Político y de Declaración de Procedencia en Materia de Responsabilidad Penal, conocerá de los asuntos relacionados con las responsabilidades de los servidores públicos estatales y municipales, en los casos y conforme a los procedimientos que se establecen en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y en otros ordenamientos.
+La Comisión Instructora de Juicio Político, conocerá de los asuntos relacionados con las responsabilidades de los servidores públicos estatales y municipales, en los casos y conforme a los procedimientos que se establecen en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y en otros ordenamientos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1837,6 +1845,10 @@ El Comité de Seguimiento de Acuerdos tendrá el carácter de permanente, y se e
 
 I. Realizar el seguimiento oportuno de los acuerdos emitidos por el Pleno, la Diputación Permanente, y en su caso, por la Junta de Gobierno, las comisiones y los comités, especialmente los exhortos y solicitudes que por su conducto o naturaleza impliquen la necesidad de que los destinatarios generen una respuesta.
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+II. En coordinación con la Oficialía Mayor, publicar en la página electrónica del Poder Legislativo la relación de los exhortos y solicitudes emitidas, incluyendo la fecha de emisión, el resumen del acuerdo original, la petición concreta de cada uno y la respuesta correspondiente obsequiada por las autoridades, respetando en todo momento la información que se refiere a la vida privada y los datos personales en los términos que dispone la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados, el artículo 7 de la Constitución local, y las demás disposiciones aplicables.
+
 ###### ARTÍCULO 138.
 
 Corresponde al Comité de Gestoría y Quejas:
@@ -2037,6 +2049,10 @@ Las iniciativas a que se refiere el artículo anterior, deberán presentarse por
 
 Asimismo, deberán contener una exposición de motivos en la que se exprese el objeto de las mismas, las consideraciones jurídicas que las fundamentan, el texto del proyecto de ley o decreto, la fecha de presentación, el nombre (sic) quienes las suscriben y la solicitud de que sean aprobadas por el Congreso.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Además de los requisitos antes señalados, toda iniciativa de ley podrá contemplar en la exposición de motivos un apartado con un análisis del impacto jurídico, administrativo, presupuestario y social que se generaría con su eventual aprobación; así como las fuentes o partidas presupuestales de donde se obtendrían los recursos para financiar los gastos relacionados con su funcionamiento.
+
 ###### ARTÍCULO 157.
 
 Toda petición de particulares, corporaciones o autoridades que no tengan derecho de iniciativa, se mandará pasar directamente por el Presidente de la Mesa Directiva a la Comisión que corresponda, según la naturaleza del asunto de que se trate. Las comisiones dictaminarán si son de tomarse o no en consideración estas peticiones.
@@ -2115,7 +2131,9 @@ Los dictámenes se presentarán por escrito y contendrán:
 
 a) Una exposición clara y precisa del asunto a que se refieran, así como de sus antecedentes;
 
-b) Los dictámenes sobre iniciativas de ley, deberán incluir un análisis de impacto regulatorio y económico
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+b) Los dictámenes sobre iniciativas de ley, podrán incluir un análisis de impacto regulatorio y económico, además de señalar si se cumplieron los requisitos establecidos en el artículo 156 de esta ley.
 
 c) Las consideraciones que adopta la comisión sobre los aspectos de forma y fondo de la iniciativa o proposición respectiva;
 
@@ -3349,8 +3367,28 @@ SEGUNDO.- Se derogan las disposiciones legales que se opongan al presente decret
 
 P.O. 24 DE SEPTIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 350.- SE ADICIONA EL ARTÍCULO 238 BIS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 350.- SE ADICIONA EL ARTÍCULO 238 BIS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 392.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 156 Y SE MODIFICA EL CONTENIDO DEL INCISO B) DEL ARTÍCULO 164 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 393.- SE REFORMAN LOS ARTÍCULOS 19, 25 FRACCIÓN I, 88 FRACCIÓN XXIV, Y 112 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 394.- SE ADICIONA LA FRACCIÓN II AL ARTÍCULO 137 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
