@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2019-04-29"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE NOVIEMBRE DE 2019.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -283,9 +283,15 @@ III. Homologar criterios para la sustanciación de los procedimientos que sean c
 
 IV. Promover la interrelación de las unidades administrativas a su cargo con los programas de la Comisión;
 
-V. Proveer lo necesario para el adecuado seguimiento de las conciliaciones, mediaciones y Recomendaciones emitidas por el Organismo; y
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2019)</small>
 
-VI. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
+V. Proveer lo necesario para el adecuado seguimiento de las conciliaciones, mediaciones y Recomendaciones emitidas por el Organismo;
+
+> <small>(ADICIONADA, G.G. 22 DE NOVIEMBRE DE 2019)</small>
+
+VI. Coadyuvar con el Centro de Estudios en Derechos Humanos en el desarrollo de las actividades académicas correspondientes a la certificación en derechos humanos que realice la Comisión; y
+
+VII. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
 
 Atribuciones de las Visitadurías Generales
 
@@ -341,7 +347,9 @@ II. Proponer y ejecutar, en el ámbito de su competencia, los programas de la Co
 
 III. Proponer y ejecutar los programas para la protección, observancia, promoción, estudio y divulgación de los derechos humanos de niñas, niños y adolescentes;
 
-IV. (DEROGADA, G.G. 18 DE ENERO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 22 DE NOVIEMBRE DE 2019)</small>
+
+IV. Coadyuvar con el Centro de Estudios en Derechos Humanos en el desarrollo de las actividades académicas correspondientes a la certificación en derechos humanos que realice la Comisión;
 
 V. Coordinar el funcionamiento y operatividad del Archivo de Concentración del Organismo;
 
@@ -1899,6 +1907,8 @@ La Comisión podrá solicitar la colaboración de los organismos públicos prote
 
 Atribuciones del Centro de Estudios en Derechos Humanos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 115.
 
 El Centro de Mediación y Conciliación contará con las facultades señaladas en la Ley.
@@ -1913,7 +1923,7 @@ La organización y los procedimientos de mediación y los de conciliación que s
 
 ###### Artículo 117.
 
-Para efectos académicos relacionados con la impartición de estudios de posgrado en materia de derechos humanos, la comisión contara con un Centro de Estudios en Derechos Humanos.
+Para efectos académicos relacionados con la impartición de estudios de posgrado y certificación en materia de derechos humanos, la comisión contará con un Centro de Estudios en Derechos Humanos.
 
 Corresponde al Centro de Estudios en Derechos Humanos:
 
@@ -1937,9 +1947,15 @@ IX. Editar y reproducir el contenido de la información y documentación de la C
 
 X. Expedir constancias de no adeudo del material con que cuenta el Centro de Información y Documentación del Organismo;
 
-XI. Crear y desarrollar programas que permitan tener acceso a la información y documentación especializada y almacenada; y
+> <small>(REFORMADA, G.G. 22 DE NOVIEMBRE DE 2019)</small>
 
-XII. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
+XI. Crear y desarrollar programas que permitan tener acceso a la información y documentación especializada y almacenada;
+
+> <small>(ADICIONADA, G.G. 22 DE NOVIEMBRE DE 2019)</small>
+
+XII. Desarrollar las actividades académicas y administrativas correspondientes a la certificación en derechos humanos a que se refiere la fracción XXXIV del artículo 13 de la Ley, auxiliándose, para las actividades académicas, de la Primera Visitaduría General y de la Secretaría General; y
+
+XIII. Las demás que le confieren otras disposiciones y aquellas que le encomiende la Presidencia.
 
 La organización y funcionamiento se establecerán en los Reglamentos que para tal efecto se expidan.
 
@@ -2068,3 +2084,11 @@ PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Esta
 SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
 
 TERCERO. Aquellas disposiciones de igual o menor jerarquía que se opongan a la presente reforma, quedarán sin efectos a partir de su vigencia.
+
+G.G. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO EXTRAORDINARIO 1/2019-2E POR EL QUE SE REFORMA Y ADICIONA EL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, ASÍ COMO EL MANUAL GENERAL DE ORGANIZACIÓN DEL ORGANISMO, A EFECTO DE ESTABLECER LAS ATRIBUCIONES Y FUNCIONES DE LA PRIMERA VISITADURÍA GENERAL, SECRETARÍA GENERAL Y CENTRO DE ESTUDIOS EN DERECHOS HUMANOS, RELATIVAS A LA CERTIFICACIÓN EN DERECHOS HUMANOS”.]
+
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno", así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México.
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
