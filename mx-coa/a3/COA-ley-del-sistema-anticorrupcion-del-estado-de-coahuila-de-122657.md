@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-anticorrupcion-del-estado-de-coahuila-de-122657
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-14"
-last_updated: "2019-07-12"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122657&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 14 de julio de 2017.
 
@@ -284,6 +284,10 @@ El cargo de miembro de la Comisión de Selección será honorario. Quienes funja
 > <small>(ADICIONADO, P.O. 12 DE JULIO DE 2019)</small>
 
 La Comisión de Selección se conformará atendiendo al principio de paridad de género, por lo que cinco de sus integrantes deberán pertenecer a un mismo género.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Los integrantes de la Comisión de Selección deberán reunir los mismos requisitos que esta ley exige para ser Secretario Técnico, establecidos en el artículo 34.
 
 II. La Comisión de Selección deberá emitir una convocatoria, con el objeto de realizar una amplia consulta pública en el estado, dirigida a toda la sociedad, para que presenten sus postulaciones de aspirantes a ocupar el cargo.
 
@@ -732,3 +736,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para garantizar la equidad de género establecida en el presente Decreto, el Congreso del Estado, una vez que entre en vigor el presente mismo, cada vez que elija a un nuevo integrante de la Comisión de Selección, lo hará de tal forma que se cumpla con este principio.
 
 De igual forma y en los mismos términos se procederá en la integración de la (sic) Consejo de Participación Ciudadana para dar cumplimiento a la paridad de género.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 372.- SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 18 DE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
