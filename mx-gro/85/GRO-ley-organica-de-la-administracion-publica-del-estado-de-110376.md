@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-110376"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-23"
-last_updated: "2018-08-28"
+last_updated: "2019-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2015.
 
@@ -537,13 +537,25 @@ XLVII.- Regular la adquisición, arrendamiento, enajenación, destino o afectaci
 
 XLVIII.- Expedir las normas y procedimientos para la formulación de inventarios, para la realización y actualización de los avalúos sobre dichos bienes, así como expedir normas técnicas, autorizar y, en su caso, proyectar, construir, rehabilitar, conservar o administrar, directamente o a través de terceros, los edificios públicos y, en general, los bienes inmuebles del Estado;
 
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-XLIX.- Reivindicar los bienes propiedad del Estado, en los términos de las disposiciones legales aplicables.
+XLIX.- Reivindicar los bienes propiedad del Estado, en los términos de las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-L.- Los demás que le atribuyan expresamente las leyes y reglamentos.
+L.- Resolver los recursos administrativos previstos en el Código Fiscal del Estado de Guerrero número 429;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+LI.- Intervenir en los juicios de carácter fiscal que se ventilen ante cualquier Tribunal, cuando tenga interés la Hacienda Pública del Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+LII.- Ejercer la facultad económico coactiva conforme a las leyes relativas, por incumplimiento de obligaciones fiscales, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+LIII.- Los demás que le atribuyen expresamente las leyes y reglamentos.
 
 ###### ARTÍCULO 23.
 
@@ -1910,3 +1922,13 @@ QUINTO. En tanto se expidan los nuevos ordenamientos que (sic) regular los aspec
 SEXTO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales conducentes.
 
 SÉPTIMO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para su conocimiento general.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 267 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NÚMERO 08”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su difusión y conocimiento general.
