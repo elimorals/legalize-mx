@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2018-10-10"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -83,7 +83,9 @@ II. Balance presupuestario: el que así considera la Ley de Disciplina Financier
 
 III. Balance presupuestario de recursos disponibles: el que así considera la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-IV. Dependencias: las unidades administrativas encargadas de la atención de los asuntos encomendados a los sujetos de la Ley, determinadas en las leyes orgánicas o disposiciones análogas respectivas;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+IV. Dependencias o dependencias (sic): las unidades administrativas, cualquiera que sea la denominación con que se les designe, encargadas de la atención de los asuntos encomendados a los Sujetos de la Ley, determinadas en las leyes orgánicas o disposiciones análogas respectivas;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
@@ -97,9 +99,9 @@ VI. Entidades: las entidades paraestatales y paramunicipales que tengan ese car�
 
 VII. Estado: el Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Fortalecimiento financiero: las erogaciones que tengan por objeto hacer frente a compromisos de pago en materia de gasto social y obra social; contingencias financieras derivadas de, entre otras, avales, juicios laborales, civiles, fiscales, reintegros a la Tesorería de la Federación; presiones presupuestarias de programas gubernamentales, tanto estatales como federales; transferencias a Municipios, Poderes, Organismos Autónomos, Tribunales Administrativos y Organismos Públicos Descentralizados; así como para mantener el balance presupuestario en el ejercicio fiscal de que se trate, en términos de la presente Ley;
+VIII. Fortalecimiento financiero: las erogaciones que tengan por objeto hacer frente a compromisos de pago en materia de gasto social y obra social; contingencias financieras derivadas de, entre otras, avales, juicios laborales, civiles, fiscales, reintegros a la Tesorería de la Federación o a otros entes públicos federales; presiones presupuestarias de programas gubernamentales, tanto estatales como federales; transferencias a Municipios, Poderes, Organismos Autónomos, Tribunales Administrativos y Organismos Públicos Descentralizados; así como para mantener el balance presupuestario en el ejercicio fiscal de que se trate, en términos de la presente Ley;
 
 IX. Gasto administrativo: las erogaciones que se realizan para la gestión administrativa y servicios de la deuda pública, así como otros servicios de apoyo relacionados con dicha gestión;
 
@@ -107,9 +109,13 @@ IX. Gasto administrativo: las erogaciones que se realizan para la gestión admin
 
 X. Gasto corriente: el que así considera la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-XI. Gasto público: la totalidad de las erogaciones aprobadas en los Presupuestos de Egresos, que permiten dar cumplimiento al Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-XII. Gasto social: las erogaciones orientadas a los servicios de salud, educación, procuración de justicia, asistencia social, concertación, seguridad, cultura, recreación, deporte, investigación y desarrollo económico. Asimismo, incluye la inversión en obras y acciones que determine el titular del Poder Ejecutivo del Estado;
+XI. Gasto público: la totalidad de las erogaciones aprobadas en el presupuesto de egresos del Estado o de los Municipios, según corresponda, que permiten dar cumplimiento a su plan de desarrollo;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+XII. Gasto social: las erogaciones orientadas a los servicios de salud, educación, procuración de justicia, asistencia social, obra social, concertación, seguridad, cultura, recreación, deporte, investigación y desarrollo económico. Asimismo, incluye la inversión en obras y acciones que determine el titular del Poder Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2017)</small>
 
@@ -135,11 +141,13 @@ XVIII. Municipios: los señalados en la Constitución Política del Estado de Qu
 
 XIX. Organismos constitucionales autónomos y Tribunales administrativos: conjunta o separadamente, los que con ese carácter contemple la Constitución Política del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-XX. Obra social: las erogaciones destinadas a obras y acciones en materia de vivienda, alimentación, reducción de la pobreza, seguridad, fomento de la equidad, desarrollo urbano, saneamiento, desarrollo humano, promoción del empleo, infraestructura e inversión en activos, estudios y proyectos, así como aquellas orientadas al cumplimiento de los compromisos de pago adquiridos con motivo de los proyectos de infraestructura y obra pública y cualquier otro instrumento jurídico en el que se establezcan obligaciones de pago plurianuales y, en general, todas aquellas destinadas a proveer servicios y bienes públicos a las personas;
+XX. Obra social: las erogaciones destinadas a obras y acciones en materia de vivienda, alimentación, reducción de la pobreza, seguridad, fomento de la equidad, desarrollo urbano, transporte, saneamiento, desarrollo humano, promoción del empleo, subsidios, donativos y ayudas sociales, infraestructura e inversión en activos, estudios y proyectos, así como aquellas orientadas al cumplimiento de los compromisos de pago adquiridos con motivo de los proyectos de infraestructura y obra pública y cualquier otro instrumento jurídico en el que se establezcan obligaciones de pago plurianuales y, en general, todas aquellas destinadas a proveer servicios y bienes públicos a las personas;
 
-XXI. Órganos desconcentrados: los órganos de la administración pública con autonomía técnica y de gestión, jerárquicamente subordinados a las dependencias que al efecto se señalen, establecidos por el Gobernador del Estado de Querétaro;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+XXI. Órganos desconcentrados: los órganos de la administración pública con autonomía técnica y de gestión, jerárquicamente subordinados a las dependencias que al efecto se señalen, creados por Acuerdo del Gobernador del Estado, o por disposición legal;
 
 > <small>(ADICIONADA, P.O. 9 DE MAYO DE 2018)</small>
 
@@ -153,7 +161,9 @@ XXII. Poderes: los Poderes Legislativo, Ejecutivo y Judicial del Estado de Quer�
 
 XXII. Bis. Presupuesto aprobado: el Presupuesto de Egresos del Estado o Municipio, aprobado por la Legislatura o el Ayuntamiento, respectivamente, incluyendo las adecuaciones a los montos que específicamente se autoricen en el Decreto o el Acuerdo, según corresponda;
 
-XXIII. Recursos públicos: los ingresos que con base en las Leyes de Ingresos obtengan el Estado y los municipios, así como cualquier bien que conforme la hacienda pública;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+XXIII. Recursos públicos o fondos públicos: los ingresos que con base en las leyes de ingresos obtengan el Estado y los municipios, según sea el caso, así como cualquier bien que conforme la hacienda pública de que se trate;
 
 XXIV. Secretaría: la Secretaría de Planeación y Finanzas, dependiente del Poder Ejecutivo del Estado de Querétaro;
 
@@ -213,9 +223,9 @@ Son obligaciones de los sujetos de la Ley:
 
 I. Aplicar, en todo tiempo, con imparcialidad, los recursos públicos que les sean asignados, sin influir en la equidad de la competencia entre los partidos políticos, personas o instituciones que determine la Ley respectiva;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-II. Administrar los recursos de que dispongan, de acuerdo con los principios previstos en el artículo 104 de esta Ley, para satisfacer los objetivos a los que estén destinados;
+II. Administrar los recursos públicos de que dispongan, de acuerdo con los principios previstos en los artículos 104 de esta Ley y 134 de la Constitución Política de los Estados Unidos Mexicanos, para satisfacer los objetivos a los que estén destinados;
 
 III. Llevar su contabilidad en los términos establecidos por esta Ley;
 
@@ -747,23 +757,19 @@ En la formulación del proyecto de Decreto de Presupuesto de Egresos del Estado,
 
 ### Capítulo Primero. Disposiciones generales
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE MAYO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 54.
 
-Los titulares de las dependencias, conforme a lo dispuesto en esta Ley, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y los demás ordenamientos aplicables, serán responsables del ejercicio presupuestal y del cumplimiento de las metas y objetivos previstos en sus respectivos programas, así como de cumplir con el destino y propósito de los fondos públicos federales, estatales o municipales que les sean transferidos o asignados.
+Los titulares de las Dependencias y Entidades, como ejecutores de gasto, conforme a lo dispuesto en esta Ley, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y los demás ordenamientos aplicables, serán responsables del ejercicio presupuestal y del cumplimiento de las metas y objetivos previstos en sus respectivos programas, así como de cumplir con el destino y propósito de los fondos públicos federales, estatales o municipales que les sean transferidos o asignados.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
-
-Para efectos del párrafo anterior, se entenderá por titulares de las dependencias, la persona o personas que en términos de las disposiciones legales respectivas, cuenten con facultades de decisión sobre el ejercicio presupuestal, así como de ejecución de los programas de los mencionados sujetos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)</small>
 
 Los ejecutores de gasto son responsables directos e inmediatos del cumplimiento de las bases establecidas en el presente numeral y demás disposiciones jurídicas relacionadas con los fondos públicos federales, estatales y/o municipales, así como de la información a la que tengan acceso. De igual manera, los ejecutores de gasto, al tener a su cargo fondos públicos, tienen la responsabilidad de realizar las acciones que correspondan con la finalidad de acreditar y demostrar el origen, destino, aplicación, erogación, registro, documentación comprobatoria, integración de libros blancos y rendición de cuentas, conforme a las disposiciones federales, la normatividad específica de acuerdo al tipo de fondos públicos de que se trate, así como con los Lineamientos, autorizaciones o instrucciones que al efecto emitan la Secretaría o la dependencia encargada de las finanzas públicas municipales que corresponda, conforme al artículo 4 de esta Ley. Respecto de la información reservada están obligados a guardar estricta confidencialidad sobre la misma.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
-
-Para los efectos de esta disposición, se consideran ejecutores del gasto, quienes por cualquier medio tengan a su cargo fondos públicos.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2017)</small>
 
@@ -783,11 +789,17 @@ III. El incumplimiento a lo establecido en las fracciones anteriores por parte d
 
 La administración financiera de los recursos previstos en el Presupuesto de Egresos del Estado corresponde a la Secretaría, y en el caso de recursos previstos en el Presupuesto de Egresos del Municipio de que se trate corresponde a la dependencia encargada de las finanzas públicas del mismo, entendiéndose por lo anterior, la distribución o transferencia de recursos a los Sujetos de la Ley, así como dar cumplimiento a las autorizaciones de pago que realicen los ejecutores de gasto a que se refiere el artículo anterior, de conformidad con lo establecido en esta Ley, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las demás disposiciones aplicables.
 
-Los titulares de las dependencias y los ejecutores de gasto a que se refiere el artículo anterior, generarán la correspondiente autorización de pago, conforme a la normatividad aplicable y bajo su más estricta responsabilidad, a efecto de que la Secretaría, o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, pueda dar cumplimiento a la misma en los términos de este artículo y demás disposiciones relativas.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-Tratándose del cumplimiento a las autorizaciones de pago a que se refiere el primer párrafo de este artículo, la Secretaría o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, podrá utilizar como fuente de financiamiento, indistinta o conjuntamente, las que hace mención el artículo 7 Bis de esta Ley.
+Los titulares de las Dependencias y Entidades generarán la correspondiente autorización de pago, conforme a la normatividad aplicable y bajo su más estricta responsabilidad, a efecto de que la Secretaría, o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, pueda dar cumplimiento a la misma en los términos de este artículo y demás disposiciones relativas.
 
-Tratándose de Ingresos de libre disposición y de Disponibilidades, la Secretaría o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, podrá destinarlos, indistintamente, para cubrir las necesidades de gasto en materia de Fortalecimiento financiero, Gasto administrativo y Gasto corriente, a que se hace referencia en el artículo 2 de la presente Ley.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Tratándose del cumplimiento a las autorizaciones de pago a que se refiere el primer párrafo de este artículo, la Secretaría o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, podrá utilizar como fuente de financiamiento, indistinta o conjuntamente, las que hace mención el artículo 7 Bis de esta Ley, así como cualquier otra derivada de los ingresos previstos en la respectiva ley de ingresos.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Tratándose de Ingresos de libre disposición y de Disponibilidades, la Secretaría o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, podrá destinarlos, indistintamente, para cubrir las necesidades de gasto en materia de Fortalecimiento financiero, Gasto administrativo, Gasto social, Obra social y Gasto corriente, a que se hace referencia en el artículo 2 de la presente Ley.
 
 Los recursos correspondientes a los municipios se entregarán conforme a los plazos y en los términos que establezcan las disposiciones aplicables.
 
@@ -911,51 +923,55 @@ Tratándose de los municipios, el Ayuntamiento, a través del encargado de las f
 
 Los sujetos de la Ley, deberán informar a la Entidad Superior de Fiscalización del Estado, de las adecuaciones y transferencias presupuestales que realicen, al momento de rendir sus respectivas cuentas públicas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE MAYO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-### Capítulo Tercero. De los subsidios, donaciones y ayudas sociales
+### Capítulo Tercero. De los subsidios, donativos y ayudas sociales
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 73.
 
-Son subsidios, los recursos económicos que se asignan para apoyar el desarrollo de actividades prioritarias de interés general, como son, proporcionar a los consumidores los bienes y servicios básicos a precios y tarifas por debajo de los de mercado o de los costos de producción, así como para promover la producción, la inversión, la innovación tecnológica y el uso de nueva maquinaria.
+Son subsidios, los recursos económicos que se otorgan para el desarrollo de actividades prioritarias de interés general a través de los entes públicos a los diferentes sectores de la sociedad, con el propósito de: apoyar sus operaciones; mantener los niveles en los precios; apoyar el consumo, la distribución y comercialización de los bienes; motivar la inversión; cubrir impactos financieros; promover la innovación tecnológica; promover la prestación de servicios públicos; así como para el fomento de las actividades agropecuarias, industriales o de servicios, en términos de lo establecido por la Ley General de Contabilidad Gubernamental y los Acuerdos del Consejo Nacional de Armonización Contable.
+
+Los subsidios serán autorizados por los titulares de las Dependencias o Entidades que designe el Gobernador o el Ayuntamiento, según sea el caso. Dichos titulares, como ejecutores de gasto, serán responsables de la emisión del programa que justifique el otorgamiento de subsidios, así como del ejercicio de los fondos públicos y del cumplimiento de las metas y objetivos previstos en dicho programa, así como de las demás obligaciones que al efecto prevean esta Ley y demás disposiciones aplicables.
+
+Tratándose de designaciones a titulares de Entidades, será suficiente, para su ejecución, el acuerdo que para tal efecto expida el Gobernador o el Ayuntamiento, según sea el caso, a favor del Director General o equivalente correspondiente, a que hacen referencia los artículos 21 y 23 la Ley de la Administración Pública Paraestatal del Estado de Querétaro y, en lo conducente, la Ley Orgánica Municipal del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 74.
 
-Son donaciones las erogaciones para apoyar a los sectores social y privado, en dinero o en especie, que otorguen los sujetos de la Ley, destinados al apoyo de sectores marginales de la población e instituciones sin fines de lucro, que se autoricen en las partidas correspondientes en el Presupuesto de Egresos.
+Son donativos las erogaciones que los entes públicos destinan por causa de utilidad social a instituciones no lucrativas destinadas a actividades educativas, culturales, de salud, de investigación científica, de aplicación de nuevas tecnologías o de beneficencia, en términos de las disposiciones aplicables y de conformidad con lo establecido por la Ley General de Contabilidad Gubernamental y los Acuerdos del Consejo Nacional de Armonización Contable.
 
-Las adquisiciones que se realicen para destinarse a donaciones en especie, bajo la responsabilidad de la dependencia que la otorga, podrá realizarse directamente por ésta, siempre que la adquisición no rebase el límite establecido para la adjudicación directa prevista por la ley de la materia.
+Los donativos podrán otorgarse en dinero o en especie y no se otorgarán donativos a favor de beneficiarios que dependan económicamente del presupuesto de egresos respectivos, o cuyos principales ingresos provengan del mismo.
+
+Los donativos serán autorizados por los titulares de las Dependencias o Entidades que designe el Gobernador o el Ayuntamiento, según sea el caso. Dichos titulares, como ejecutores de gasto, serán responsables de justificar el otorgamiento y el ejercicio de los fondos públicos destinados a los donativos que autoricen.
+
+Tratándose de designaciones a titulares de Entidades, será suficiente, para su ejecución, el acuerdo que para tal efecto expida el Gobernador o el Ayuntamiento, según sea el caso, a favor del Director General o equivalente correspondiente, a que hacen referencia los artículos 21 y 23 la Ley de la Administración Pública Paraestatal del Estado de Querétaro y, en lo conducente, la Ley Orgánica Municipal del Estado de Querétaro.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 75.
 
-Los sujetos de la Ley, sólo podrán otorgar donaciones que contribuyan a la consecución de los objetivos que complementen los programas aprobados o que se consideren de beneficio general de la población, de sectores vulnerables de la misma o relacionados con actividades culturales, deportivas y de ayuda extraordinaria.
+Los donativos que otorgue el Poder Legislativo, se sujetarán a las disposiciones legales y administrativas vigentes.
 
-No se otorgarán a favor de beneficiarios que dependan económicamente del presupuesto o cuyos principales ingresos provengan del mismo.
-
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2018)</small>
-
-Los subsidios y donaciones deberán ser autorizadas por el Gobernador del Estado o por los funcionarios públicos que éste designe. En el caso de los municipios, los subsidios y donaciones deberán ser autorizados por el Ayuntamiento, a través de las personas que éste designe. Las ayudas sociales serán autorizadas por los titulares de las dependencias o los ejecutores de gasto a que se refiere el artículo 54 de esta Ley, de conformidad con los programas institucionales a su cargo, así como con las demás disposiciones que, en su caso, resulten aplicables.
-
-Las donaciones que otorgue el Poder Legislativo, se sujetarán a las disposiciones que determine el Pleno de la Legislatura.
-
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
-
-Para efectos del registro presupuestal de los subsidios, donaciones y ayudas sociales, deberán atenderse las disposiciones de la Ley General de Contabilidad Gubernamental.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 76.
 
-La Secretaría o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, no podrá liberar el otorgamiento de subsidios y donaciones, sin la autorización expresa a que se refiere el artículo anterior.
+La Secretaría o la dependencia encargada de las finanzas públicas del Municipio, según sea el caso, no podrá liberar el otorgamiento de subsidios, donativos o ayudas sociales, sin la autorización expresa a que se refieren los artículos 73, 74 y 80 Bis, de esta ley.
 
-Para el otorgamiento de subsidios o donativos, los funcionarios públicos a que se refiere el artículo anterior, deberán sujetarse a los criterios de objetividad, equidad, selectividad, transparencia y temporalidad, según corresponda, con base en las siguientes disposiciones:
+Para el otorgamiento de subsidios, donativos o ayudas sociales que estén sujetas a un programa, los funcionarios públicos a que hacen referencia los artículos 73, 74 y 80 Bis, deberán sujetarse a los criterios de objetividad, equidad, selectividad, transparencia y temporalidad, debiendo cumplir, además, con las siguientes disposiciones:
 
-I. Identificar con precisión la población a la que se destina, tanto por grupo específico como por región. Asimismo, el mecanismo de operación deberá garantizar que los recursos se canalicen debidamente, evitando su desvío entre aquellos miembros de la sociedad que no los necesiten;
+I. Contar con un estudio realizado por la propia Dependencia o Entidad a cuyo cargo esté el programa que contemple la prestación de bienes o servicios, sujetos al otorgamiento de subsidios, donativos o ayudas sociales, según corresponda, en el que se justifique el otorgamiento de los mismos;
 
-II. Asegurar que el mecanismo de operación, administración y evaluación de la asignación y aplicación de los beneficios económicos y sociales, no sea mayor al siete por ciento del monto del donativo o subsidio, incorporando mecanismos periódicos de evaluación y seguimiento que permitan ajustar las modalidades de su operación o decidir sobre su terminación;
+II. Identificar con precisión la población a la que se destina, tanto por grupo específico como por región. Asimismo, el mecanismo de operación deberá garantizar que los recursos se canalicen debidamente, evitando su desvío entre aquellos miembros de la sociedad que no los necesiten;
 
-III. Asegurar la coordinación de acciones entre las dependencias y entidades del Poder Ejecutivo y, a su vez, entre Poderes, para evitar duplicidades en el ejercicio de los recursos y reducir gastos administrativos; y
+III. Asegurar que el mecanismo de operación, administración y evaluación de la asignación y aplicación de los beneficios económicos y sociales, no sea mayor al siete por ciento del monto del donativo o subsidio, incorporando mecanismos periódicos de evaluación y seguimiento que permitan ajustar las modalidades de su operación o decidir sobre su terminación;
 
-IV. Procurar que los donativos y subsidios sean el medio más eficaz y eficiente para alcanzar los objetivos y metas que se pretenden en los programas prioritarios y estratégicos, después de analizar otras opciones.
+IV. Asegurar la coordinación de acciones entre las dependencias y entidades del Poder Ejecutivo y, a su vez, entre Poderes, para evitar duplicidades en el ejercicio de los recursos y reducir gastos administrativos; y
+
+V. Procurar que los donativos y subsidios sean el medio más eficaz y eficiente para alcanzar los objetivos y metas que se pretenden en los programas prioritarios y estratégicos, después de analizar otras opciones.
 
 ###### Artículo 77.
 
@@ -967,13 +983,13 @@ Los sujetos de la Ley que otorguen donativos o subsidios, deberán recabar el no
 
 Quienes reciban los subsidios y donativos deberán informar por escrito de su aplicación a quien lo otorgó.
 
-Los subsidios y donativos sólo se entregarán previa justificación del gasto, fin y destino del mismo, por el organismo que corresponda.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 Cuando los subsidios y donativos se manejen a través de fondos, fideicomisos y mandatos, éstos deberán tener como propósito, contribuir a la consecución de los proyectos aprobados, así como coadyuvar al impulso del Plan Estatal de Desarrollo.
 
 ###### Artículo 79.
 
-Para la vigilancia de la correcta aplicación de los recursos destinados a subsidios y donativos, los Poderes Legislativo y Ejecutivo desglosarán específicamente estos conceptos en la cuenta pública respectiva que rindan a la Entidad Superior de Fiscalización del Estado.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
@@ -981,13 +997,21 @@ Para la vigilancia de la correcta aplicación de los recursos destinados a subsi
 
 Con el propósito de asegurar que los subsidios, donaciones o ayudas sociales se apliquen efectivamente a los objetivos, programas y metas autorizados, además de ser plenamente justificados, será responsabilidad de los Sujetos de la Ley que otorgaron el subsidio, donativo o ayuda social, reportar su ejercicio al rendir la cuenta pública correspondiente.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 80 Bis.
 
-Son ayudas sociales las asignaciones que se otorgan a personas, instituciones y diversos sectores de la población, de acuerdo a los programas institucionales, así como las ayudas extraordinarias para adquisición o mejoramiento de vivienda, su equipamiento y becas que se otorguen a favor de los servidores públicos y/o sus dependientes económicos.
+Son ayudas sociales los recursos que los entes públicos otorgan a personas, instituciones y diversos sectores de la población, para propósitos sociales, en términos de lo establecido por la Ley General de Contabilidad Gubernamental y los Acuerdos del Consejo Nacional de Armonización Contable.
 
-Para fines del párrafo anterior, los titulares de las dependencias o los ejecutores de gasto, deberán identificar la población objetivo, el propósito o destino principal, la temporalidad de su otorgamiento, así como los mecanismos de distribución, operación y administración que permitan garantizar que los recursos se entreguen a la población objetivo.
+Las ayudas sociales podrán otorgarse en dinero, en especie, en servicios, o en vales canjeables por bienes o servicios, ya sea de manera directa o indirecta a los beneficiarios.
+
+Para efectos del presente artículo, se considera que la ayuda social se entrega de manera directa, cuando el ente público, a través de los servidores públicos que corresponda, realiza dicha entrega de manera personal a los beneficiarios.
+
+Se entenderá que la ayuda social se entrega de manera indirecta a los beneficiarios, cuando, por razones debidamente justificadas, la misma se realice con la participación de instituciones del sistema financiero o de personas físicas o morales.
+
+Las ayudas sociales serán autorizadas por los titulares de las Dependencias o Entidades, conforme al artículo 54 de esta Ley, y, en aquellos casos en que se establezcan reglas de operación para la aplicación de un programa que contemple el otorgamiento de ayudas sociales, los titulares de las Dependencias o Entidades, deberán identificar la población objetivo, el propósito o destino principal, justificar el importe de las ayudas, la temporalidad de su otorgamiento, así como los mecanismos de distribución, operación y administración que permitan garantizar que los recursos se entreguen a la población objetivo.
+
+Quedan comprendidos en las ayudas sociales, entre otros, los recursos que se entregan para adquisición o mejoramiento de vivienda, su equipamiento, programas para apoyar la economía de las familias, y las becas que se otorguen a favor de los servidores públicos y/o sus dependientes económicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2016)</small>
 
@@ -1854,3 +1878,11 @@ P.O. 10 DE OCTUBRE DE 2018.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO Y DE LA LEY DE MOVILIDAD PARA EL TRANSPORTE DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
