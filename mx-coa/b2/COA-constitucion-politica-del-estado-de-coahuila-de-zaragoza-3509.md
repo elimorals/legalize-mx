@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2018-12-17"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1764,9 +1764,21 @@ XX. Los demás deberes que le impongan la Constitución Política de los Estados
 
 La Administración Pública del Estado será centralizada y paraestatal y el Gobernador del Estado, en su carácter de titular del Poder Ejecutivo, será el Jefe de la misma, en los términos que establezcan esta Constitución y los demás ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
 El Congreso Local definirá en la Ley, las bases generales para la creación de las entidades paraestatales y la intervención que corresponde al Ejecutivo del Estado en su operación; así como las relaciones entre dichas entidades y el titular y las dependencias del Poder Ejecutivo Estatal.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
 Para asegurar la buena marcha de la Administración Pública Estatal, el Gobernador del Estado, sin más limitación que las prohibiciones consignadas en los ordenamientos antes señalados, podrá dictar los decretos, acuerdos y demás disposiciones de orden administrativo que estime necesarios; así como establecer nuevas dependencias y separar, unir o transformar las existentes, en atención al volumen de trabajo y trascendencia de los asuntos públicos.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+El Poder Ejecutivo contará con un Centro de Conciliación como organismo público descentralizado, especializado e imparcial, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, con funciones de instancia conciliatoria en conflictos o diferencias entre trabajadores y patrones, antes de acudir a los órganos jurisdiccionales en materia laboral a que se refiere el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. Su integración, facultades y funcionamiento se determinarán en las leyes y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+El Centro de Conciliación se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
 
 ### CAPITULO III.
 
@@ -2336,11 +2348,11 @@ Para realizar los objetivos de la educación y la enseñanza, el Estado contará
 
 De la Organización y Atribuciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 135.
 
-El poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal de Conciliación y Arbitraje, en los Tribunales Distritales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en el Consejo de la Judicatura y en los demás órganos judiciales que con cualquier otro nombre determinen las leyes.
+El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en el Tribunal de Conciliación y Arbitraje, en los Tribunales Distritales, en los Tribunales Laborales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación, en el Consejo de la Judicatura y en los demás órganos judiciales que con cualquier otro nombre determinen las leyes.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
@@ -2352,13 +2364,13 @@ I.- De quince años, para los Magistrados del Tribunal Superior de Justicia;
 
 II.- (DEROGADA, P.O. 22 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-III.- De seis años en el primer ejercicio del encargo para los Magistrados del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito, que se contará a partir de la fecha de su designación.
+III.- De seis años en el primer ejercicio del encargo para los Magistrados del Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del estado y de los Tribunales Distritales, que se contará a partir de la fecha de su designación.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-Al término del citado periodo podrán ser designados nuevamente, por única vez, por un periodo de nueve años.
+Al término del citado periodo las y los Magistrados del Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del estado podrán ser designados nuevamente, por única vez, por un periodo de nueve años.
 
 > <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2007)</small>
 
@@ -2378,9 +2390,13 @@ El Tribunal Superior de Justicia se compondrá de dieciséis Magistrados y funci
 
 Se establecerá una Sala Regional del Tribunal, cuya jurisdicción comprenderá los Distritos Judiciales de Torreón y San Pedro de las Colonias y tendrá la competencia que determine la propia ley. Esta Sala Regional se integrará por cinco Magistrados numerarios y cinco Magistrados supernumerarios. El Presidente de la Sala Regional será integrante del Pleno.
 
-Los Magistrados del Tribunal de Conciliación y Arbitraje y de los Tribunales Unitarios de Distrito no integrarán el Pleno.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-La competencia, procedimientos, organización del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de esta Constitución.
+Los Magistrados del Tribunal de Conciliación y Arbitraje y de los Tribunales Distritales no integrarán el Pleno.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+La competencia, procedimientos, organización del Tribunal de Conciliación y Arbitraje, de los Tribunales Distritales, de los Tribunales Laborales, de los Juzgados de Primera Instancia cualquiera que sea su denominación, y de los demás órganos jurisdiccionales que determinen las leyes, así como las facultades, deberes y responsabilidades de los servidores públicos judiciales, se regirán por lo dispuesto en las leyes según los principios de la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
 
 > <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -2414,11 +2430,11 @@ VI. El presidente del Tribunal de Conciliación y Arbitraje será elegido, de en
 
 VII. La administración, vigilancia y disciplina del Tribunal de Conciliación y Arbitraje corresponderán, en los términos que señale la ley, al Consejo de la Judicatura. El Presidente del Tribunal de Conciliación y Arbitraje formará parte del Consejo de la Judicatura siempre con voz, y voto únicamente en los asuntos que le competan al Tribunal que preside.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 137.
 
-El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal de Conciliación y Arbitraje y los Tribunales Unitarios de Distrito, están facultados para formar jurisprudencia local en los términos que establezca la ley.
+El Pleno y las Salas del Tribunal Superior de Justicia del Estado, el Tribunal de Conciliación y Arbitraje y los Tribunales Distritales, están facultados para formar jurisprudencia local en los términos que establezca la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
 
@@ -2488,15 +2504,27 @@ El Consejo de la Judicatura es un órgano del Poder Judicial del Estado, que ten
 
 El Consejo de la Judicatura estará integrado por seis Consejeros, uno de los cuales será el Presidente del Tribunal Superior de Justicia del Estado, quien lo presidirá con voz y voto de calidad; uno designado por el Ejecutivo del Estado; uno designado por el Congreso del Estado; un Magistrado del Tribunal Superior de Justicia, un Magistrado de Tribunal Distrital y un Juez de Primera Instancia, que serán los de mayor antigüedad en el ejercicio de los respectivos cargos. El Presidente del Tribunal de Conciliación y Arbitraje, formará parte siempre del Consejo con voz, pero sólo tendrá voto cuando se trate de asuntos relativos al Tribunal que preside.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+
 Los consejeros deberán reunir los requisitos para ser magistrados y durarán tres años en su cargo, salvo su Presidente. Por cada uno de los consejeros, habrá un suplente.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 Las ausencias temporales del Presidente, serán suplidas por el Consejero Magistrado del Tribunal Superior.
 
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
+
 Los consejeros ejercerán su función con independencia e imparcialidad y durante su encargo, sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 El Consejo designará a cinco abogados de reconocido prestigio en el Estado para que integren un Comité Consultivo que funcionará según lo disponga la ley.
 
-El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción, readscripción y remoción de magistrados de Tribunales Unitarios y jueces, así como de los demás asuntos que la ley determine y estará facultado para expedir los reglamentos y acuerdos generales con el fin de regular el adecuado funcionamiento del Poder Judicial, de conformidad con lo que establezca la ley. Las comisiones tendrán la duración, objeto y funciones que acuerde el Pleno del Consejo.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+El Consejo funcionará en Pleno o en comisiones. El Pleno resolverá sobre la designación, adscripción, readscripción y remoción de Magistrados de Tribunales Distritales y Jueces, así como de los demás asuntos que la ley determine y estará facultado para expedir los reglamentos y acuerdos generales con el fin de regular el adecuado funcionamiento del Poder Judicial, de conformidad con lo que establezca la ley. Las comisiones tendrán la duración, objeto y funciones que acuerde el Pleno del Consejo.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
 Las decisiones del Consejo se tomarán por mayoría de votos y serán definitivas e inatacables.
 
@@ -2538,11 +2566,11 @@ La lista de Candidatos podrá ser rechazada por el Ejecutivo en una sola ocasió
 
 En el caso de que el Congreso del Estado no apruebe un nombramiento, el Gobernador del Estado hará una nueva designación dentro de las propuestas, que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación del propio Congreso, en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros cinco días, el Congreso deberá aprobar o desaprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso desecha el nombramiento, se reiterará el procedimiento, cesando desde luego en sus funciones el Magistrado Provisional.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 147.
 
-Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera Instancia, cualquiera que sea su denominación, y los titulares de los demás órganos jurisdiccionales que integran el Poder Judicial, serán nombrados por el Consejo de la Judicatura del Estado, en los términos previstos por la propia Ley.
+Los Magistrados Distritales, los Jueces de Primera Instancia, cualquiera que sea su denominación, y los titulares de los demás órganos jurisdiccionales que integran el Poder Judicial, serán nombrados por el Consejo de la Judicatura del Estado, en los términos previstos por la propia Ley.
 
 (REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
@@ -2554,9 +2582,9 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 Los Magistrados del Tribunal Superior de Justicia y del Tribunal de Conciliación y Arbitraje, al iniciar el ejercicio de su cargo, rendirán la protesta de ley ante el Congreso del Estado y, en sus recesos, ante la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-Los Magistrados Unitarios de Distrito y los Jueces de Primera Instancia, cualquiera que sea su denominación, lo harán ante el Consejo de la Judicatura o ante el titular del órgano judicial que él autorice.
+Los Magistrados Distritales, las y los Jueces Laborales y los de Primera Instancia, cualquiera que sea su denominación, lo harán ante el Consejo de la Judicatura o ante el titular del Órgano Judicial que él autorice.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2658,9 +2686,9 @@ II. El acceso a la justicia se sujetará a lo siguiente:
 
 La defensoría pública, independientemente de su adscripción, contará con autonomía técnica, de gestión y operativa, y su objeto es coordinar, dirigir y controlar el servicio de la defensa pública, de acuerdo con las disposiciones de esta Constitución y demás ordenamientos legales aplicables. La defensoría pública desempeñará sus funciones jurídicas, técnicas y de gestión con independencia de su adscripción orgánica.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-6. El derecho a obtener una resolución fundada y motivada que ponga fin al proceso. Toda resolución deberá ser clara, precisa y accesible. Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública, previa citación de las partes.
+6. El derecho a obtener una resolución fundada y motivada que ponga fin al proceso. Toda resolución deberá ser clara, precisa, accesible y deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia. Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública, previa citación de las partes.
 
 > <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
@@ -3972,15 +4000,19 @@ No podrán formar parte de un mismo Ayuntamiento, dos personas que sean pariente
 
 Cuando hayan desaparecido los Poderes Legislativo y Ejecutivo del Estado, el Tribunal Superior de Justicia, si hubiere permanecido dentro del orden Constitucional, integrado por los Magistrados Numerarios y Supernumerarios en ejercicio, cuando menos en sus dos terceras partes, procederá a elegir un Gobernador Provisional dentro de los tres días siguientes a la desaparición de los otros poderes. En caso de empate en la votación, el Presidente del Tribunal tendrá voto de calidad.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+
 Cuando el Tribunal Superior de Justicia no hubiere podido reunirse en la forma prevista en el párrafo anterior, o hubieren desaparecido los tres Poderes, asumirá provisionalmente el mando del Gobierno el último Presidente del Tribunal que haya sido en el período Constitucional anterior, y a falta de éste los demás Magistrados en orden a su antigüedad y si esta es igual para todos, conforme a su designación.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
 El Instituto Electoral de Coahuila, convocará a elecciones dentro de los noventa días siguientes al que asumió el cargo el gobernador provisional conforme al párrafo que antecede. En todo caso, el gobernador provisional no podrá ser electo para el período para el cual haya convocado el Instituto conforme a este párrafo.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-Cuando hubieren desaparecido los tres poderes quien asuma provisionalmente el mando del gobierno, designará, también, con carácter provisional, a los Magistrados del Tribunal Superior de Justicia, los cuales, a su vez, deberán nombrar a los Magistrados Unitarios de Distrito, a los Jueces de Primera Instancia y demás titulares de los órganos jurisdiccionales que establezca la ley.
+Cuando hubieren desaparecido los tres poderes quien asuma provisionalmente el mando del gobierno, designará, también, con carácter provisional, a los Magistrados del Tribunal Superior de Justicia, los cuales, a su vez, deberán nombrar a los Magistrados Distritales, a los Jueces de Primera Instancia, y demás titulares de los órganos jurisdiccionales que establezca la ley.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 En el caso de que ninguna de las prevenciones anteriores fuese aplicable a la desaparición de los Poderes, se atenderá a lo dispuesto en la fracción V del artículo 76 de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -5267,3 +5299,33 @@ TERCERO.- Se proveerá al Poder Judicial del Estado de Coahuila de Zaragoza de l
 CUARTO.- El nombramiento de los Magistrados de la Sala Regional del Tribunal Superior de Justicia deberá realizarse en los términos del artículo 146 de la Constitución Política del Estado de Coahuila de Zaragoza.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 370.- SE REFORMA EL PRIMER PÁRRAFO, LA FRACCIÓN III DEL SEGUNDO PÁRRAFO Y EL TERCER PÁRRAFO DEL ARTÍCULO 135; EL CUARTO Y QUINTO PÁRRAFO DEL ARTÍCULO 136; EL ARTÍCULO 137; EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 143; EL ARTÍCULO 147; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 148; EL NUMERAL 6 DE LA FRACCIÓN II DEL ARTÍCULO 154 Y EL CUARTO PÁRRAFO DEL ARTÍCULO 193; Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 85, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Congreso del Estado, en un plazo máximo de 180 días a partir de la entrada en vigor del presente decreto, deberá llevar a cabo las adecuaciones legislativas necesarias para dar cumplimiento al mismo.
+
+TERCERO. En los términos que dispongan las leyes, se deberá prever la competencia de los Tribunales Laborales, así como lo relativo a su integración.
+
+CUARTO. Para la integración, instalación y operación de los Tribunales Laborales, el Consejo de la Judicatura determinará mediante un proceso de gradualidad, su inicio de operación en los Distritos Judiciales que, conforme a dicho proceso, determine.
+
+QUINTO. Los procedimientos que se encuentren en trámite una vez que entren en funciones el Centro de Conciliación y los Tribunales Laborales serán concluidos por las Juntas de Conciliación y Arbitraje de conformidad con las disposiciones vigentes al momento de su inicio, en términos de las disposiciones aplicables.
+
+SEXTO. En los términos del instrumento de creación del Centro de Conciliación previsto en la presente reforma, se deberá contemplar lo relativo a la integración, facultades y funcionamiento, así como al inicio de sus operaciones.
+
+SÉPTIMO. En tanto se instituye e inicia operaciones el Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza, así como el organismo descentralizado a que se refiere el decreto que reforma y adiciona diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación en fecha veinticuatro de febrero de dos mil diecisiete, las Juntas Locales de Conciliación y Arbitraje del Estado continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de los contratos colectivos de trabajo y de organizaciones sindicales.
+
+OCTAVO. Las Juntas Locales de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza, deberán remitir al organismo descentralizado que se refiere en el artículo cuarto del presente régimen transitorio, una relación de los emplazamientos a huelga que se encuentren en trámite en un plazo no mayor a ciento veinte días naturales después de la entrada en vigor del presente decreto.
+
+NOVENO.- Las autoridades competentes y las Juntas Locales de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza, deberán transferir los procedimientos, expedientes y documentación que tengan bajo su atención o resguardo, en el ámbito de sus respectivas competencias, al organismo descentralizado, citado en el artículo cuarto del presente régimen transitorio, que se encargará de atender los asuntos relacionados con el registro de contratos colectivos de trabajo y organizaciones sindicales.
+
+DÉCIMO.- Las Juntas Locales de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente decreto, presentarán al Titular de la Secretaría del Trabajo y a la autoridad local que corresponda, respectivamente, un plan de trabajo con un plazo máximo de duración de cuatro años para la conclusión de los asuntos en trámite y para la supresión gradual de dichos órganos.
+
+El plan de trabajo a que se refiere el párrafo anterior, se deberá implementar a partir del inicio de operaciones del Centro de Conciliación y deberá contener indicadores de medición de resultados e impacto por periodos semestrales, correspondiendo la medición de resultados e impacto al Órgano Interno de Control de cada Junta Local de Conciliación y Arbitraje del Estado.
+
+DÉCIMO PRIMERO.- El Congreso del Estado, el Poder Judicial y el Poder Ejecutivo a través de la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas, en el ámbito de sus respectivas competencias, determinarán las adecuaciones presupuestarias necesarias para dotar de los recursos humanos, financieros y materiales correspondientes, para el cumplimiento del presente decreto, en términos de las disposiciones aplicables.
+
+DÉCIMO SEGUNDO.- Se derogan las disposiciones que se opongan a este decreto.
