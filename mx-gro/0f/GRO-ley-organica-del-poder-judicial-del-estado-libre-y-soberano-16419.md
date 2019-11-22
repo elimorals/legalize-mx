@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-164
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-05-24"
-last_updated: "2019-09-26"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 24 de mayo de 2000.
 
@@ -325,9 +325,11 @@ El Pleno, celebrará sesión ordinaria, por lo menos dos veces al mes y extraord
 
 Para el despacho de los asuntos de su competencia, el Pleno contará con un Secretario General de Acuerdos, un Secretario Auxiliar de Acuerdos y demás personal que sea necesario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 16.
 
-Son atribuciones del Pleno del Tribunal las siguientes:
+Son atribuciones del pleno del Tribunal.
 
 I.- Velar por la autonomía del Poder Judicial, garantizando siempre su independencia, inviolabilidad e imparcialidad;
 
@@ -349,7 +351,9 @@ VII.- Resolver los conflictos de competencia o de cualquier otra índole que sur
 
 VIII.- Nombrar y remover a los Secretarios General y Auxiliar de Acuerdos del Tribunal Superior de Justicia, al Administrador General de los Tribunales del Sistema Penal Acusatorio, y demás personal necesario;
 
-IX.- Determinar el número, creación o supresión, organización y funcionamiento, así como especialización y competencia territorial, en su caso, de los Juzgados; crear y suprimir plazas de servidores públicos del Poder Judicial de acuerdo a la disponibilidad presupuestal;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+IX.- Determinar el número, creación o supresión, organización y funcionamiento, así como especialización y competencia territorial, en su caso, de los juzgados en los Distritos Judiciales. Para ello se realizará el diagnóstico de su funcionamiento, demanda, y otros requerimientos, cada tres años en los Distritos Judiciales. Como efecto de este, se propondrá y / o aprobará, en su caso, la ampliación o reducción de Juzgados en las instancias y materias que considere pertinente; Crear y suprimir plazas de servidores públicos del Poder Judicial. Al efecto elaborará, contemplara y solicitará, en el presupuesto anual del Poder Judicial dichas necesidades. Dicha ampliación técnicamente será previamente justificada, ello de acuerdo a la disponibilidad presupuestal existente.
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -2824,3 +2828,15 @@ SEGUNDA.- Remítase al Titular del Poder Ejecutivo para su conocimiento y para l
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general y para los efectos legales respectivos.
 
 CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 255 POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 16, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129".]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del estado de Guerrero.
+
+SEGUNDA.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+
+TERCERO.- Comuníquese al Poder Judicial del Estado Libre y Soberano de Guerrero.
+
+CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
