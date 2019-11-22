@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg508-2018-del-consejo-general-del-instituto-129074
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-06-15"
-last_updated: "2018-06-15"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129074&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2018-05-28"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE MODIFICAN LOS LINEAMIENTOS PARA LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES EN MATERIA DE PROPAGANDA Y MENSAJES ELECTORALES, APROBADOS MEDIANTE ACUERDO INE/CG20/2017, Y SE DEJA SIN EFECTOS EL FORMATO APROBADO MEDIANTE ACUERDO INE/ACRT/08/2017 DEL COMITÉ DE RADIO Y TELEVISIÓN, EN CUMPLIMIENTO A LAS SENTENCIAS DE LAS SALAS REGIONAL ESPECIALIZADA Y SUPERIOR, AMBAS DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, IDENTIFICADAS COMO SRE-PSC-25/2018, SRE-PSC-59/2018, SRE-PSC-64/2017 Y SUP-REP-120/2017, Y CON MOTIVO DE LOS CRITERIOS ESTABLECIDOS EN LAS SENTENCIAS SUP-REP- 96/2017 Y SUP-JRC-145/2017
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LAS MODIFICACIONES PUBLICADAS EN EL D.O.F. DE 22 DE NOVIEMBRE DE 2019, SE RECOMIENDA ACUDIR A LA PARTE FINAL DEL PRESENTE ORDENAMIENTO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección al Número 16 del Diario Oficial de la Federación, el viernes 15 de junio de 2018.
 
@@ -148,3 +150,43 @@ El presente Acuerdo fue aprobado en sesión ordinaria del Consejo General celebr
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
 
 Los anexos podrán consultados (sic) mediante la liga: https://www.ine.mx/sesion-ordinaria-del-consejo-general-28-mayo-2018/)
+
+D.O.F. 22 DE NOVIEMBRE DE 2019.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO INE/CG481/2019, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ACUERDO
+
+PRIMERO. Se aprueba la modificación al título y los artículos 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16 y la adición del numeral 6 de los Lineamientos para la protección de niñas, niños y adolescentes en materia de propaganda y mensajes electorales, aprobados mediante Acuerdos INE/CG20/2017 e INE/CG508/2018; las porciones normativas no modificadas permanecen en sus términos, salvo cuando se debe recorrer la numeración. Se agregan al presente y forman parte del mismo los Lineamientos modificados como Anexo 1.
+
+SEGUNDO. Se aprueba el Manual para recabar la opinión y el consentimiento informado de niñas, niños y adolescentes para la utilización de su imagen o cualquier dato que los haga identificables en propaganda político-electoral y mensajes electorales, actos políticos, actos de precampaña o campaña a través de cualquier medio de difusión, mismo que forma parte de este Acuerdo como Anexo 2.
+
+TERCERO. Se aprueban las modificaciones a las guías metodológicas para atender los criterios de las sentencias SRE-PSD-20/2019 y SRE-PSD-21/2019, las cuales se integran a esta (sic) Acuerdo como Anexo 3.
+
+CUARTO. Los Partidos Políticos Nacionales o locales, así como los candidatos independientes deberán verificar que, en caso de recibir aportaciones en especie, que consistan en algún bien o servicio que conlleve la utilización de la imagen, voz o cualquier dato que haga identificable a niñas, niños o adolescentes, se cumpla con lo establecido en los Lineamientos para la protección de los derechos de niñas, niños y adolescentes en materia político-electoral.
+
+QUINTO. Las modificaciones a los Lineamientos, la aprobación del Manual y las modificaciones a las guías metodológicas entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEXTO. Se instruye a la Secretaría Ejecutiva para que, a través de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, notifique el presente Acuerdo a los Partidos Políticos Nacionales a fin de que por su conducto se haga del conocimiento de las organizaciones vinculadas a ellos; y a los Organismos Públicos Locales Electorales, a fin de que por su conducto se notifique a su vez a los partidos políticos con registro local para su conocimiento y a su vez, para que lo hagan del conocimiento de las organizaciones vinculadas a ellos.
+
+SÉPTIMO. Se instruye a la Secretaría Ejecutiva para que, a través de la Dirección Ejecutiva de Prerrogativas y Partidos Políticos, notifique el presente Acuerdo a las autoridades electorales federales y locales.
+
+OCTAVO. Se instruye al Secretario Ejecutivo de este Instituto a realizar las acciones necesarias a fin de informar a la Sala Regional Especializada del Tribunal Electoral del Poder Judicial de la Federación, sobre el cumplimiento a las ejecutorias, dentro de las 24 horas siguientes de aprobado este Acuerdo.
+
+NOVENO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en la página electrónica del Instituto Nacional Electoral.
+
+El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Consejo General celebrada el 6 de noviembre de 2019, por diez votos a favor de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Doctora Adriana Margarita Favela Herrera, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y un voto en contra de la Consejera Electoral, Licenciada Alejandra Pamela San Martín Ríos y Valles.
+
+Se aprobaron en lo particular por lo que hace a los artículos 3, fracciones V y VI, y 5, de los Lineamientos para la protección de los derechos de niñas, niños y adolescentes en materia político-electoral, en los términos del Proyecto de Acuerdo originalmente circulado, por nueve votos a favor de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestro Marco Antonio Baños Martínez, Doctora Adriana Margarita Favela Herrera, Doctor Ciro Murayama Rendón, Doctor Benito Nacif Hernández, Maestro Jaime Rivera Velázquez, Doctor José Roberto Ruiz Saldaña, Maestra Beatriz Claudia Zavala Pérez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello, y dos votos en contra de las Consejeras Electorales, Maestra Dania Paola Ravel Cuevas y Licenciada Alejandra Pamela San Martín Ríos y Valles.
+
+El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+El Acuerdo y sus anexos pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-06-noviembre-2019/
+
+Página DOF
+
+www.dof.gob.mx/2019/INE/CGext201911_06_ap_8.pdf
