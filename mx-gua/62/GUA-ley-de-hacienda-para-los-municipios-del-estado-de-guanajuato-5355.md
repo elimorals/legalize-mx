@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2016-07-01"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -53,39 +53,59 @@ Los municipios del Estado de Guanajuato percibirán en cada ejercicio fiscal par
 
 Los ingresos que percibirá el Municipio son ordinarios o extraordinarios.
 
-I.- Ingresos ordinarios son: Contribuciones, productos, aprovechamientos y participaciones.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-A.- Son contribuciones: Los impuestos, derechos y contribuciones especiales.
+I.- Ingresos ordinarios son: Contribuciones, productos, aprovechamientos, ingresos por venta de bienes y prestación de servicios y otros ingresos, participaciones, aportaciones, convenios, incentivos derivados de la colaboración fiscal, fondos distintos de aportaciones, transferencias, asignaciones, subsidios y subvenciones.
 
-1.- Son impuestos las prestaciones en dinero que fija la Ley con carácter general y obligatorio, a cargo de personas físicas y morales que se encuentren en la situación jurídica o de hecho prevista por la misma, para cubrir los gastos públicos.
+A) Son contribuciones: Los impuestos, derechos y contribuciones de mejora.
 
-2.- Son derechos las contraprestaciones de dinero que la Ley establece a cargo de quien recibe un servicio del Municipio en sus funciones de derecho público.
+1. Son impuestos, las prestaciones establecidas en ley que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho prevista por la misma y que sean distintas de las contribuciones de mejora y derechos.
 
-3.- Son contribuciones especiales las prestaciones legales que se establecen a cargo de quienes se beneficien específicamente con alguna obra o servicio público. O de quienes, por el ejercicio de cualquier actividad particular, provocan un gasto público.
+2. Son derechos las prestaciones establecidas en ley por el uso o aprovechamiento de los bienes del dominio público, así como por recibir servicios que presta el Municipio en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados u órganos desconcentrados cuando en este último caso, se trate de contraprestaciones que no se encuentren previstas en las leyes correspondientes. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Municipio.
 
-B.- Son productos los ingresos que perciben los Municipios, por actividades que no corresponden al desarrollo de sus funciones propias de derecho público o por la explotación de derechos patrimoniales.
+3. Son contribuciones de mejora las establecidas en ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
 
-C.- Son aprovechamientos los recargos, las multas y todos los demás ingresos de derecho público que perciban los Municipios, que no sean clasificados como Contribuciones, Productos o Participaciones.
+B) Son productos los ingresos por contraprestaciones por los servicios que preste el Municipio en sus funciones de derecho privado.
 
-D.- Son participaciones las cantidades en dinero, que los Municipios perciben conforme a las Leyes respectivas, y los Convenios que se suscriban para tales efectos.
+C) Son aprovechamientos los ingresos que percibe el Municipio por funciones de derecho público distintos de: las contribuciones, los ingresos derivados de financiamientos y de los que obtengan los organismos descentralizados y las empresas de participación municipal.
 
-II.- Son ingresos extraordinarios aquellos cuya percepción se decrete excepcionalmente por el Congreso del Estado y se sujetarán a las disposiciones que establezcan las Leyes que los autoricen y a los convenios que de acuerdo con esas disposiciones se celebren.
+D) Son ingresos por venta de bienes, prestación de servicios y otros ingresos, los ingresos propios obtenidos por las entidades de la administración pública paramunicipal, por sus actividades de producción, comercialización o prestación de servicios; así como otros ingresos por sus actividades diversas no inherentes a su operación, que generen recursos.
+
+E) Son participaciones las cantidades en dinero, que recibe el Municipio que deriva de la adhesión al Sistema Nacional de Coordinación Fiscal.
+
+F) Son aportaciones los ingresos que reciben los municipios previstos en la Ley de Coordinación Fiscal, cuyo gasto está condicionado a la consecución y cumplimiento de los objetivos que para cada tipo de aportación establece la legislación aplicable en la materia.
+
+G) Son convenios los ingresos que reciben los municipios derivados de convenios de coordinación, colaboración, reasignación o descentralización según corresponda, los cuales se acuerdan entre la federación, las entidades federativas o los municipios.
+
+H) Son incentivos derivados de la colaboración fiscal los ingresos que reciben los municipios derivados del ejercicio de facultades delegadas por la federación mediante la celebración de convenios de colaboración administrativa en materia fiscal; que comprenden las funciones de recaudación, fiscalización y administración de ingresos federales y por las que a cambio reciben incentivos económicos que implican la retribución de su colaboración.
+
+I) Son fondos distintos de aportaciones los ingresos que reciben los municipios derivados de fondos distintos de aportaciones y previstos en disposiciones específicas.
+
+J) Son transferencias, asignaciones, subsidios y subvenciones, los recursos que reciben en forma directa o indirecta los entes públicos como parte de su política económica y social, de acuerdo con las estrategias y prioridades de desarrollo para el sostenimiento y desempeño de sus actividades.
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+II.- Son ingresos extraordinarios aquellos cuya percepción se decrete excepcionalmente y se sujetarán a las disposiciones que establezcan las leyes que los autoricen y a los convenios que de acuerdo con esas disposiciones se celebren. En este rubro se incluyen los ingresos derivados de financiamiento interno, que son los recursos que provienen de obligaciones contraídas por los municipios y en su caso, las entidades del sector paramunicipal, a corto o largo plazo, con acreedores nacionales y pagaderos en el interior del país en moneda nacional, considerando lo previsto en la legislación aplicable.
 
 ###### ARTICULO 3.
 
 Los Municipios del Estado de Guanajuato, tendrán obligación de pagar Impuestos y Derechos por los actos que realicen, que no correspondan a sus funciones de derecho público.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 4.
 
-A falta de disposición expresa en otras Leyes Fiscales, será aplicable esta Ley y como supletorias las normas de Derecho común vigente en el Estado de Guanajuato.
+A falta de disposición expresa en esta ley, aplicará de manera supletoria el Código Fiscal para el Estado de Guanajuato.
 
 ###### ARTICULO 5.
 
 Las Normas de Derecho Tributario que establezcan cargas a los particulares y las que señalen excepciones a las mismas, serán de aplicación estricta. Se considera que establecen cargas a los particulares las normas que se refieren al sujeto, objeto, base, tasa o tarifa. Las demás disposiciones fiscales se interpretarán aplicando cualquier método de interpretación jurídica.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 6.
 
-La aplicación de las disposiciones fiscales corresponde a los Ayuntamientos por conducto de las Tesorerías Municipales y sus diferentes Unidades Administrativas en los términos de la Ley Orgánica Municipal y del Reglamento Interior de dichas Tesorerías.
+La aplicación de las disposiciones fiscales corresponde a los ayuntamientos por conducto de las tesorerías municipales y sus diferentes unidades administrativas en los términos de la Ley Orgánica Municipal para el Estado de Guanajuato y de la reglamentación municipal.
 
 ### CAPITULO SEGUNDO. DE LOS SUJETOS
 
@@ -131,25 +151,37 @@ X.- Los terceros que para garantizar el interés fiscal constituyan depósito, p
 
 XI.- Los demás que establezcan las leyes fiscales.
 
-En los casos de responsabilidad solidaria, los responsables quedan obligados a cubrir la totalidad de los créditos fiscales, con excepción de las multas, por lo tanto, el fisco puede exigir de cualquiera de ellos, simultánea o separadamente el cumplimiento de las obligaciones fiscales.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+En los casos de responsabilidad solidaria, los responsables quedan obligados a cubrir la totalidad de los créditos fiscales, con excepción de las multas, por lo tanto, la Tesorería Municipal puede exigir de cualquiera de ellos, simultánea o separadamente el cumplimiento de las obligaciones fiscales.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 9.
 
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o, por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital, en presencia de dos testigos que autentifiquen el acto y puedan ser identificados por la autoridad fiscal.
+Toda persona puede comparecer ante las autoridades fiscales del Municipio, por sí o por medio de representante legal. La representación de las personas físicas o morales se acreditará mediante escritura otorgada ante Fedatario Público, o mediante carta poder ratificada ante Notario Público. En los trámites administrativos no se admitirá la gestión de negocios.
 
-Las promociones deberán presentarse con tres copias y tener por los menos lo siguientes requisitos:
+Toda promoción que se presente ante las autoridades fiscales deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella dactilar. En estos casos, el suscriptor de la promoción asumirá las responsabilidades que puedan derivarse de la falsedad o inexactitud de dichas promociones.
 
-I.- Constar por escrito.
+Los interesados o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones.
 
-II.- Nombre, denominación, o razón social.
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-III.- Registro Fiscal de Contribuyentes.
+###### ARTICULO 9-A.
 
-IV.- Domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas, en el caso de que el promovente señale a un tercero, para tal efecto.
+Las promociones deberán presentarse en original y una copia y tener por los (sic) menos los siguientes requisitos:
 
-V.- Señalar la autoridad a la que se dirige y el propósito de la promoción.
+I.- Constar por escrito;
 
-Cuando no se cumplan los requisitos a que se refiere este Artículo las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días, cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
+II.- Señalar el nombre, denominación o razón social, domicilio fiscal y en su caso, el registro federal de contribuyentes que corresponda al promovente o la clave única del registro de población;
+
+III.- Señalar la autoridad a la que se dirige y el propósito de la promoción;
+
+IV.- Señalar domicilio en el Municipio para oír y recibir notificaciones y el nombre de la persona autorizada para recibirlas; y
+
+V.- Señalar los hechos y circunstancias relacionados con la promoción.
+
+Cuando no se cumplan los requisitos a que se refiere este artículo, la Tesorería Municipal requerirá al promovente a fin de que en un plazo de tres días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
@@ -159,7 +191,9 @@ Los sujetos pasivos y los retenedores deberán dar aviso a la Tesorería Municip
 
 I.- De domicilio;
 
-II.- De razón o denominación social, al que acompañarán copia de la escritura pública correspondiente, tratándose de personas morales;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+II.- De razón o denominación social, al que acompañarán copia de la escritura pública;
 
 III.- De sus actividades cuando aumenten o disminuyan sus obligaciones fiscales;
 
@@ -209,7 +243,9 @@ B). Los Presidentes Municipales.
 
 C). Los Tesoreros Municipales.
 
-D). Autoridades, Interventores e Inspectores de la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+D). Las autoridades, interventores e inspectores de la Tesorería Municipal y los demás servidores públicos que determinen los reglamentos municipales correspondientes.
 
 ###### ARTICULO 16.
 
@@ -223,13 +259,17 @@ La Administración y la recaudación de los Impuestos y demás ingresos propios 
 
 Las Autoridades Fiscales, deberán dictar resolución sobre las consultas que planteen los interesados directamente en situaciones reales y concretas, sobre la aplicación que a éstas deba hacerse de las disposiciones fiscales. Se abstendrán de resolver consultas relativas a la interpretación general abstracta e impersonal de las normas.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 19.
 
-Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas dentro del plazo de cuatro meses; transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a este plazo, mientras no se dicte la resolución.
+Las instancias o peticiones que se formulen a las autoridades fiscales deberán ser resueltas dentro del plazo de tres meses; transcurrido dicho plazo sin que se notifique la resolución, el interesado podrá considerar que la autoridad resolvió negativamente e interponer los medios de defensa en cualquier tiempo posterior a este plazo, mientras no se dicte la resolución.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 20.
 
-Las resoluciones favorables a los particulares sólo podrán ser revocadas por las mismas autoridades que las hayan emitido cuando exista error matemático, caso en el cual se harán los ajustes procedentes.
+Las resoluciones favorables a los particulares sólo podrán ser revocadas por las mismas autoridades que las hayan emitido cuando exista error aritmético, caso en el cual se harán los ajustes procedentes. Dicha resolución será notificada al particular para que manifieste lo que a su interés convenga, frente a la propia autoridad en un término de cinco días, la cual resolverá dentro de los tres días siguientes. Este procedimiento no interrumpe los términos para ejercer los medios de defensa correspondientes.
 
 ###### ARTICULO 21.
 
@@ -507,21 +547,61 @@ El crédito fiscal es la obligación determinada en cantidad líquida conforme a
 
 El crédito fiscal debe pagarse en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa, deberá pagarse dentro de los quince días siguientes al nacimiento de la obligación fiscal o de la fecha en que haya surtido efectos la notificación del mismo.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo de la Tesorería Municipal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo de la Tesorería Municipal, no se actualizarán por fracciones de mes.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+El Índice Nacional de Precios al Consumidor será el que publique el Instituto Nacional de Estadística y Geografía en el Diario Oficial de la Federación. En los casos en que el índice correspondiente al mes anterior al más reciente del período, no haya sido publicado, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de esta, determinado en los pagos provisionales y del ejercicio, no será deducible ni acreditable.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Cuando el resultado de la operación a que se refiere el segundo párrafo de este artículo sea menor a uno, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo de la Tesorería Municipal, así como a los valores de bienes u operaciones de que se traten, será uno.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 46.
 
-El pago de los créditos fiscales deberá hacerse en moneda nacional. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como medio de pago.
+El pago de los créditos fiscales deberá hacerse en moneda nacional.
 
-También se admitirán como medio de pago los cheques de los contribuyentes que cumplan con los requisitos que para hacer uso de esta forma de pago, establezca la Tesorería Municipal.
+Se aceptará el pago de créditos fiscales a través de los siguientes medios de pago:
 
-A falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo hubiere librado, dará derecho para exigir del librador o quien resulte responsable el pago del importe del mismo y una indemnización del 20% del valor del cheque. Esta indemnización y el cobro del cheque se notificará y se hará efectivo mediante los procedimientos establecidos en esta Ley para los demás créditos fiscales, sin perjuicio de la denuncia respectiva ante las autoridades competentes, en caso de que proceda.
+I.- Efectivo;
+
+II.- Cheque de caja o certificado;
+
+III.- Tarjetas bancarias o de sociedades cooperativas de ahorro y préstamo;
+
+IV.- Transferencia electrónica de fondos; y
+
+V.- Los instrumentos de pago determinados por la Tesorería Municipal.
+
+A falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal por parte de la Institución a cuyo cargo hubiere librado, dará derecho para exigir del librador o quien resulte responsable el pago del importe del mismo y una indemnización del 20% del valor del cheque. La misma indemnización se deberá pagar cuando por motivos imputables al particular no resulte procedente el pago por tarjeta u otros medios electrónicos. Estas indemnizaciones se notificarán y se harán efectivas mediante el procedimiento establecido en esta ley para los demás créditos fiscales, sin perjuicio de la denuncia respectiva ante las autoridades.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 47.
 
-Las autoridades fiscales podrán conceder prorrogas para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo dentro del cual deban pagarse las parcialidades, no excederá de dos años.
+El titular de la Tesorería Municipal o la autoridad a quien delegue esta facultad, podrá conceder prórrogas para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades.
 
-En los casos anteriores deberá garantizarse el interés fiscal conforme a las disposiciones de esta Ley.
+La prórroga o el plazo dentro del cual deban pagarse las parcialidades, no excederá de dos años y debe sujetarse a los siguientes requisitos:
 
-Durante los plazos concedidos se causarán recargos conforme a la tasa que autorice anualmente la Ley de Ingresos.
+I.- El contribuyente o su representante legal deberá garantizar el interés fiscal conforme a las disposiciones de esta ley;
+
+II.- Se deberá pagar cuando menos el 10% del monto total del crédito fiscal al momento de la solicitud de autorización del pago a plazos. El monto total del adeudo se integrará por la suma de la suerte principal y accesorios vigentes al momento del convenio;
+
+III.- Durante los plazos concedidos se causarán recargos conforme a la tasa que autorice anualmente la Ley de Ingresos del Municipio que corresponda; y
+
+IV.- La autoridad, una vez recibida la solicitud y el proyecto de pagos procederá a efectuar la valoración y emitirá una resolución de aceptación o negación de la propuesta de pagos, según corresponda, dentro del plazo de quince días contados a partir del día siguiente a aquel en que se recibió la solicitud.
 
 ###### ARTICULO 48.
 
@@ -535,9 +615,11 @@ III.- Cuando, en su caso, deje de cubrirse alguna de las parcialidades dentro de
 
 IV.- Cuando el deudor incurra en acciones u omisiones que traigan como consecuencia la evasión de una prestación fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 49.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos en concepto de indemnización al fisco por falta de pago oportuno, conforme a la tasa que señale anualmente la Ley de Ingresos.
+Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos en concepto de indemnización a la Tesorería Municipal por falta de pago oportuno, conforme a la tasa que señale anualmente la ley de ingresos para cada Municipio.
 
 Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el artículo 54 los gastos de ejecución y las multas por infracción a disposiciones fiscales. Cuando el pago hubiere sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
@@ -547,11 +629,11 @@ Cuando el contribuyente pague en forma espontánea las contribuciones omitidas, 
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la Tesorería Municipal, ésta deberá aceptar el pago y proceder a exigir el remanente.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 50.
 
-Podrá hacerse el pago de créditos fiscales "bajo protesta" cuando la persona que los haga se proponga intentar recursos o medios de defensa. El pago así efectuado extingue el crédito fiscal y no implica consentimiento con la disposición o resolución a la que se dé cumplimiento.
-
-Dicho pago deberá hacerse constar por escrito, y se considerará definitivo cuando no se promuevan los recursos o medios de defensa mencionados, en los términos estipulados en esta Ley.
+El pago de un crédito fiscal extingue el mismo; sin embargo, no implica consentimiento con la disposición o resolución a la que se dé cumplimiento, cuando se promuevan por el particular los recursos o medios de defensa.
 
 ###### ARTICULO 51.
 
@@ -573,19 +655,23 @@ Los retenedores podrán solicitar la devolución, pero ésta se hará directamen
 
 Si el pago de lo indebido se hubiere efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiere quedado insubsistente.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 53.
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de dos meses siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que señale la forma oficial respectiva. Si dentro de dicho plazo no se efectúa la devolución, el fisco deberá pagar intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 49 de esta Ley. Los intereses se calcularán sobre las cantidades que proceda devolver, excluyendo los propios intereses y se computarán desde que se venció el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
+Cuando se solicite la devolución, esta deberá efectuarse dentro del plazo de quince días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que señale la forma oficial respectiva. Si dentro de dicho plazo no se efectúa la devolución, la Tesorería Municipal deberá pagar intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 49 de esta ley. Los intereses se calcularán sobre las cantidades que proceda devolver, excluyendo los propios intereses y se computarán desde que se venció el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
 
-El contribuyente que habiendo efectuado el pago de un crédito fiscal determinado por la autoridad interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco el pago de intereses conforme a la tasa que señale la Ley Anual de Ingresos para los recargos, sobre las cantidades pagadas indebidamente y a partir de que se efectuó el pago.
+El contribuyente que habiendo efectuado el pago de un crédito fiscal determinado por la autoridad interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener de la Tesorería Municipal el pago de intereses conforme a la tasa que señale la Ley de Ingresos del Municipio que corresponda para los recargos, sobre las cantidades pagadas indebidamente y a partir de que se efectuó el pago.
 
 ###### ARTICULO 54.
 
 No procederá la devolución de cantidades pagadas indebidamente cuando el crédito fiscal haya sido recaudado por terceros, y repercutido o trasladado por el contribuyente que hizo el entero correspondiente. Sin embargo, si la repercusión se realizó en forma expresa, mediante la indicación en el documento respectivo del monto del crédito fiscal cargado, el tercero que hubiere sufrido la repercusión, tendrá derecho a la devolución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 55.
 
-La compensación entre el Fisco del Estado y el Fisco Municipal, podrá obrar respecto de cualquier clase de créditos o deudas si unos y otros son líquidos y exigibles, si existe previo acuerdo entre las partes interesadas.
+La compensación entre autoridad fiscal estatal y la Tesorería Municipal, podrá obrar respecto de cualquier clase de créditos o deudas si unos y otros son líquidos y exigibles, si existe previo acuerdo entre las partes interesadas.
 
 Cuando se trate de créditos fiscales a cargo de los contribuyentes, la compensación será declarada por las autoridades fiscales a petición de la parte interesada, siempre que se deriven de un mismo crédito fiscal.
 
@@ -603,23 +689,31 @@ II.- La solicitud deberá efectuarse en forma directa por el sector que pretenda
 
 Las multas por infracción a las disposiciones fiscales y los recargos, podrán ser condonados total o parcialmente por el Tesorero Municipal según corresponda, quienes apreciarán discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 58.
 
-El Tesorero Municipal, podrá cancelar los créditos fiscales, cuando los sujetos de crédito sean insolventes, o el cobro del crédito sea incosteable.
+La Tesorería Municipal podrá cancelar créditos fiscales por ser incosteables en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-La cancelación de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del sujeto pasivo o de los responsables solidarios, no libera a uno ni a otro de su obligación, la cual podrá hacerse efectiva mediante el procedimiento correspondiente, en cuanto las circunstancias lo permitan, mientras no se produzca la prescripción.
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito.
+
+La cancelación de los créditos a que se refiere este artículo deberá estar debidamente fundada y motivada y no libera de su pago.
 
 ###### ARTICULO 59.
 
 Las multas cuya imposición hubiere quedado firme deberán ser canceladas, si por pruebas diversas de las presentadas ante las autoridades correspondientes, en su caso, se demuestra que no se cometió la infracción o que la persona a la que se atribuye no es responsable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 60.
 
-Los créditos fiscales se extinguen por prescripción en el término de 5 años. En el mismo término se extingue también por prescripción, la obligación del Fisco de devolver las cantidades pagadas indebidamente.
+Los créditos fiscales se extinguen por prescripción en el término de 5 años. En el mismo término se extingue también por prescripción, la obligación de la Tesorería Municipal de devolver las cantidades pagadas indebidamente.
 
 La prescripción del crédito principal extingue simultáneamente los recargos y los gastos de ejecución.
 
-La prescripción se inicia a partir de la fecha en que el crédito fiscal pueda ser legalmente exigido y será declarado por las autoridades fiscales a petición del interesado.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+La prescripción se inicia a partir de la fecha en que el crédito fiscal pueda ser legalmente exigido y será declarado por el titular de la Tesorería Municipal o la autoridad a quien delegue esta facultad. La declaración de prescripción podrá ser de oficio o a petición del interesado.
 
 ###### ARTICULO 61.
 
@@ -629,9 +723,11 @@ Si la autoridad determina el crédito o realiza el cobro, a pesar de haber opera
 
 La prescripción se interrumpe con cada gestión de cobro del acreedor, notificada o hecha saber al deudor o por el reconocimiento de éste, expreso o tácito, respecto de la existencia de la obligación de que se trate. De los requisitos señalados en este artículo deberá existir constancia por escrito.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 63.
 
-Los depósitos constituidos de acuerdo con esta Ley, para garantizar el cumplimiento de alguna obligación a favor del Fisco Municipal prescribirán a beneficio del mismo dentro del término de 5 años siguientes a la fecha en que sea exigible su devolución.
+Los depósitos constituidos de acuerdo con esta ley, para garantizar el cumplimiento de alguna obligación a favor de la Tesorería Municipal prescribirán a beneficio del mismo dentro del término de 5 años siguientes a la fecha en que sea exigible su devolución.
 
 ###### ARTICULO 64.
 
@@ -705,7 +801,9 @@ III.- No llevar los libros de contabilidad que requieren las disposiciones fisca
 
 IV.- Llevar doble juego de libros.
 
-V.- Hacer, mandar hacer o permitir en su contabilidad anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar raspar o tachar en perjuicio del Fisco cualquier anotación o constancia hecha en la contabilidad, o mandar o consentir que se hagan alteraciones, raspaduras o tachaduras.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+V.- Hacer, mandar hacer o permitir en su contabilidad anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar raspar o tachar en perjuicio de la Tesorería Municipal cualquier anotación o constancia hecha en la contabilidad, o mandar o consentir que se hagan alteraciones, raspaduras o tachaduras.
 
 VI.- Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria cuando no haya transcurrido el plazo de cinco años.
 
@@ -823,25 +921,11 @@ I.- La comprendida en la fracción I, la cantidad que represente el equivalente 
 
 II.- La comprendida en la fracción II, la cantidad que represente el equivalente de 2 a 20 veces la Unidad de Medida y Actualización diaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 77.
 
-Las cantidades que resulten de la aplicación de cuotas expresadas en la Unidad de Medida y Actualización diaria en este Título, se ajustarán de acuerdo con la siguiente:
-
-TABLA
-
-CANTIDADES
-
-Desde $500.01 hasta $1,000.00 a medias centenas de pesos
-
-Desde $1,000.01 hasta $10,000.00 a centenas de pesos
-
-Desde $10,000.01 en adelante a miles de pesos
-
-Desde $100,000.01 en adelante a millones de pesos
-
-Para efectuarse los ajustes a que se refiere este artículo las cantidades se aumentarán o disminuirán según sea el caso, a la unidad de ajuste más próxima; cuando la cantidad se encuentre a la misma distancia de dos unidades el ajuste se hará a la más baja.
+Para determinar las contribuciones se considerarán, inclusive, las fracciones de peso; no obstante, dicho monto se ajustará para que las cantidades de $0.01 a $0.50 en exceso de un peso, se ajusten al peso inmediato anterior y de $0.51 a $0.99 en exceso de un peso, se ajusten al peso inmediato superior.
 
 ## TITULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -849,9 +933,11 @@ Para efectuarse los ajustes a que se refiere este artículo las cantidades se au
 
 #### SECCION UNICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 78.
 
-La representación de las personas físicas o morales ante las autoridades fiscales, se acreditará en los términos de la legislación común.
+La representación de las personas físicas o morales se acreditará mediante escritura otorgada ante Fedatario Público, o mediante carta poder ratificada ante Notario Público.
 
 En ningún trámite Administrativo se admitirá la gestión de negocios.
 
@@ -863,9 +949,25 @@ Las notificaciones de los actos administrativos se harán:
 
 I.- Personalmente o por correo certificado con acuse de recibo, cuando se trate de citatorios, requerimientos, solicitudes de informes o documentos y de actos administrativos que puedan ser recurridos.
 
-II.- Por correo ordinario, estrados o telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-III.- Cuando hubiere de citarse a alguna persona que haya desaparecido, no tenga domicilio fijo o se ignore donde se encuentra, la notificación se hará por edictos, que serán publicados por tres veces consecutivas en el periódico oficial del gobierno del estado y en uno de los diarios locales de mayor circulación en el partido judicial que corresponda, o en el más próximo que los tenga.
+II.- Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior. También podrá realizarse mediante telefax, medios electrónicos o cualquier otro medio similar, cuando así lo haya autorizado expresamente el promovente o en caso urgente, siempre que pueda comprobarse fehacientemente su recepción. En estos supuestos se deberá dejar constancia en el expediente de la fecha y hora en que se realizó la recepción de la notificación;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+III.- Por estrados, cuando la persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación, se oponga a la diligencia de notificación o desocupe el lugar registrado como su domicilio, después de la notificación de la orden de visita y antes de un año contado a partir de dicha notificación, o bien, después de que se le hubiera notificado un crédito fiscal y antes de que este se haya garantizado, pagado o quedado sin efectos, o tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de pago; y en los demás casos que señalen las leyes fiscales. En este caso la notificación contendrá nombre de la persona, número del expediente y síntesis del acuerdo o resolución. En los autos se hará constar la fecha de la publicación de la lista;
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+IV.- Por edictos, cuando se desconozca el domicilio del interesado o en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre fuera del territorio del Estado sin haber dejado representante legal o hubiere fallecido y no se conozca al albacea de la sucesión; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+V.- Por instructivo, tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada, y si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, esta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina recaudadora.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Cuando se trate de notificaciones o actos que deban surtir efectos en otras entidades federativas, se podrán efectuar por las autoridades fiscales a través de los medios señalados en las fracciones I, II o IV de este artículo o por mensajería con acuse de recibo o por transmisión facsimilar con acuse de recibo por la misma vía. Las notificaciones que deban hacerse a las autoridades se harán siempre por oficio. También podrán realizarse mediante el uso de medios electrónicos o cualquier otro medio, siempre que pueda comprobarse fehacientemente su recepción.
 
 ###### ARTICULO 80.
 
@@ -875,15 +977,13 @@ También se podrán efectuar en el último domicilio que el interesado haya señ
 
 Toda notificación personal, realizada con quien debe entenderse será legalmente válida aún cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 81.
 
-Cuando la notificación se efectúe personalmente, se entenderá con la persona que deba ser notificada o su representante legal, a falta de ambos el notificador, cerciorado de ser el domicilio designado o establecido por la Ley para efectos fiscales dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente.
+Las notificaciones se entenderán con el interesado o su representante legal, previo cercioramiento de su domicilio. A falta de ambos, se dejará citatorio con cualquier persona mayor de edad que se encuentre en el domicilio para que espere a una hora fija del día hábil siguiente. Si a quien haya de notificarse no atiende el citatorio, la notificación se hará por conducto de cualquier persona mayor de edad que se encuentre en el domicilio en que se realice la diligencia y, de negarse a recibirla o ser menor de edad, se realizará por instructivo que se fijará en la puerta del domicilio del interesado. En los casos en que el domicilio se encuentre cerrado, la citación o notificación se entenderá con el vecino mayor de edad más cercano, fijándose una copia adicional en la puerta o lugar visible del domicilio. Si el vecino se niega a recibir la citación o notificación o fuere menor de edad, se efectuará por instructivo que se fijará en la puerta del domicilio del notificado.
 
-Si la persona citada o su representante legal no atendieran el citatorio, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con su vecino.
-
-En el momento de la notificación se entregará al notificado o a la persona con quien se entenderá la diligencia, copia del documento a que se refiere la notificación.
-
-De las diligencias en que conste la notificación o cita, el notificador levantará acta circunstanciada, por escrito.
+En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia simple del documento a que se refiere la notificación y de sus anexos cuando los hubiere.
 
 ###### ARTICULO 82.
 
@@ -945,17 +1045,23 @@ En ningún caso se aplicará el procedimiento administrativo de ejecución para 
 
 En los casos en que se presente coincidencia entre el Estado, la Federación y los Municipios sobre el cobro de créditos fiscales respecto de un mismo bien embargado, se atenderá a las siguientes reglas:
 
-I.- Los créditos fiscales por Impuestos sobre la Propiedad Raíz, serán preferentes tratándose de los frutos de los bienes inmuebles respectivos o del producto de la venta de éstos.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-II.- En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
+I.- Los créditos fiscales por impuestos sobre la propiedad raíz, serán preferentes tratándose de los frutos de los bienes inmuebles respectivos o del producto de la venta de estos; y
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+II.- En los demás casos, la preferencia corresponderá a la Tesorería Municipal que tenga el carácter de primer embargante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 91.
 
-En los casos en que la coincidencia se presente ante el fisco del Municipio y autoridades diversas a las fiscales, la preferencia respecto de los créditos fiscales, se sujetará a las siguientes reglas:
+En los casos en que la coincidencia se presente ante Tesorería Municipal y autoridades diversas a las fiscales, la preferencia respecto de los créditos fiscales, se sujetará a las siguientes reglas:
 
-I. Los créditos a favor del fisco del Municipio son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros de acuerdo con la Ley Federal del Trabajo;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+I.- Los créditos a favor de la Tesorería Municipal son preferentes a cualesquiera otros, con excepción de los créditos con garantía hipotecaria o prendaria, de alimentos, de salarios o sueldos devengados en el último año o de indemnizaciones a los obreros de acuerdo con la Ley Federal del Trabajo;
 
 II. En el caso de las garantías hipotecarias y, en su caso, las prendarias, se requiere que se encuentren debidamente inscritas en el Registro Público de la Propiedad; y
 
@@ -1219,9 +1325,9 @@ El remate deberá ser convocado para una fecha dentro de los 30 días siguientes
 
 La convocatoria se fijará en los sitios visibles y usuales de las Oficinas Ejecutoras y en los lugares públicos que se juzgue conveniente.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-En caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces la Unidad de Medida y Actualización diaria elevada al año, la convocatoria se publicará por una sola vez en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación dos veces con intervalo de 7 días, la última publicación se hará cuando menos 10 días antes de la fecha de remate.
+En caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el valor anual en moneda nacional de la Unidad de Medida y Actualización, la convocatoria se publicará por una sola vez en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación dos veces con intervalo de 7 días, la última publicación se hará cuando menos 10 días antes de la fecha de remate.
 
 ###### ARTICULO 123.
 
@@ -1281,11 +1387,15 @@ Si en la última postura se ofrece igual suma de contado por 2 o más licitantes
 
 Cuando el postor, en cuyo favor se hubiere fincado un remate, no cumpla con las obligaciones que contraiga y las que esta Ley señala, perderá el importe del depósito que hubiere constituido y se aplicará por las Oficinas Ejecutoras a favor de la Tesorería Municipal, como compensación de los perjuicios ocasionados. En este caso se reanudarán las almonedas en la forma y plazos que señalan los artículos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 131.
 
-Fincado el remate de bienes muebles, se aplicará el depósito constituido y el postor, dentro de los 3 días siguientes a la fecha del remate, enterará en la caja de la Oficina Ejecutora, el saldo de la cantidad ofrecida de contado en su postura o mejoras.
+Fincado el remate de bienes muebles, se aplicará el depósito constituido y el postor, dentro de los 3 días siguientes a la fecha del remate, enterará en la caja de la Tesorería Municipal, el saldo de la cantidad ofrecida de contado en su postura o mejoras.
 
-Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, la autoridad ejecutora procederá a entregarle los bienes que le hubiere adjudicado.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, la Tesorería Municipal, procederá a entregarle los bienes que le hubieren adjudicado.
 
 Una vez adjudicados los bienes al adquirente, este deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por almacenaje a partir del día siguiente, cuando el monto del derecho por almacenaje sea igual o superior al valor en que se adjudicarán los bienes, éstos se aplicarán a cubrir los adeudos que se generarán por este concepto.
 
@@ -1315,9 +1425,11 @@ Queda estrictamente prohibido adquirir los bienes objeto de un remate, por sí o
 
 El producto del remate se aplicará al pago del crédito fiscal, en el orden que establece el artículo 51 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 137.
 
-El fisco del Municipio, tendrá preferencia para adjudicarse, en cualquier almoneda, los bienes ofrecidos en remate:
+La Tesorería Municipal, tendrá preferencia para adjudicarse, en cualquier almoneda, los bienes ofrecidos en remate:
 
 I.- A falta de postores, por la base de la postura legal o mejorada.
 
@@ -1341,7 +1453,9 @@ Si tampoco se fincare el remate en la segunda almoneda, se considerará que el b
 
 Los bienes embargados podrán enajenarse fuera de subasta pública, cuando:
 
-I.- El embargado proponga comprador antes del día que se finque el remate, se enajenen o adjudiquen los bienes a favor del Fisco Municipal, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargados.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+I.- El embargado proponga comprador antes del día que se finque el remate, se enajenen o adjudiquen los bienes a favor de la Tesorería Municipal, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargados;
 
 II.- Se trate de bienes de fácil descomposición o deterioro, o de materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación.
 
@@ -1545,9 +1659,9 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 Están obligados al pago de éste impuesto las personas físicas o morales que sean propietarias o poseedoras de inmuebles por cualquier título.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-Los inmuebles del régimen ejidal y comunal, cuyo derecho de propiedad se confiere a sus titulares dentro del programa de certificación de derechos ejidales y titulación de solares urbanos, seguirán tributando en los mismos términos en que lo venían haciendo antes de la incorporación a dicho programa, sujetándose al pago de este impuesto en los términos de esta Ley, a partir del primer acto traslativo de dominio.
+Los inmuebles del régimen ejidal y comunal, cuyo derecho de propiedad se confiere a sus titulares dentro del programa de certificación de derechos ejidales y titulación de solares urbanos, tributarán a partir de la fecha de inscripción del título respectivo en el Registro Público de la Propiedad.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
@@ -1557,35 +1671,41 @@ Quedan exentos del pago de este impuesto los bines del dominio público de la Fe
 
 La base del Impuesto Predial será el valor fiscal de los inmuebles, el cual se determinará:
 
-I.- Mediante el valor manifestado por los contribuyentes de sus inmuebles, aplicando los valores unitarios de suelo y construcciones que anualmente señale la Ley de Ingresos para los Municipios del Estado;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-II.- Por avalúo practicado por peritos autorizados por la Tesorería Municipal; en tanto son valuados, el valor con que se encuentren registrados;
+I.- Mediante el valor manifestado por los contribuyentes de sus inmuebles, aplicando los valores unitarios de suelo y construcciones que anualmente establezca la ley de ingresos para cada Municipio;
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+II.- Por avalúo practicado por peritos certificados y autorizados por la Tesorería Municipal; y en tanto son valuados, el valor con que se encuentren registrados;
 
 III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1990)
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-IV.- Por avalúo realizado por peritos autorizados por la Tesorería Municipal, usando medios o técnicas fotogramétricas.
+IV.- Por avalúo realizado por peritos certificados y autorizados por la Tesorería Municipal, usando medios o técnicas fotogramétricas.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-Cuando se trate de vivienda de interés social o popular, en los términos del artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato, la base para el pago de éste impuesto será el setenta por ciento del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato, siempre y cuando se trate de la única propiedad o posesión del contribuyente.
+Cuando se trate de vivienda de interés social o popular, en los términos del artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato, la base para el pago de éste impuesto será el setenta por ciento del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la ley de ingresos para cada Municipio, siempre y cuando se trate de la única propiedad o posesión del contribuyente.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-Tratándose de los inmuebles en los que se presten el servicio de educación de tipo medio-superior y/o superior, a que se refiere el artículo 164 a) de esta Ley, la base será el 25% del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+Tratándose de los inmuebles en los que se presten el servicio de educación de tipo medio-superior o superior, a que se refiere el artículo 164 inciso A de esta Ley, la base será el 25% del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la ley de ingresos para cada Municipio.
 
 ###### ARTICULO 163.
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 164.
 
-El impuesto Predial, se determinará y liquidará de acuerdo con las tasas que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+El impuesto predial, se determinará y liquidará de acuerdo con las tasas que establezca anualmente la ley de ingresos para cada Municipio.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-Si como resultado de la aplicación de las tasas que señala la Ley de Ingresos para los Municipios, se obtiene una cantidad inferior a la cuota mínima anual que establece dicha Ley, el impuesto a pagar será la cuota mencionada.
+Si como resultado de la aplicación de las tasas que señala la ley de ingresos para cada Municipio, se obtiene una cantidad inferior a la cuota mínima anual que establece dicha Ley, el impuesto a pagar será la cuota mencionada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 1993)</small>
 
@@ -1603,9 +1723,9 @@ B).- Los que perteneciendo a particulares, estén destinados a un servicio públ
 
 C).- Los que sean propiedad de asociaciones, fundaciones e instalaciones de beneficencia y asistencia social, siempre que estén destinados directamente a los fines de las mismas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-D).- Las casas-habitación, que pertenezcan a jubilados y pensionados, o al cónyuge, concubina, concubinario, viudo o viuda de éstos, así como las personas de sesenta años o más de edad. Este beneficio se otorgará a una sola casa-habitación y cuyo valor fiscal no exceda de cuarenta veces la Unidad de Medida y Actualización diaria elevada al año.
+D).- Las casas-habitación, que pertenezcan a jubilados y pensionados, o al cónyuge, concubina, concubinario, viudo o viuda de estos, así como las personas de sesenta años o más de edad. Este beneficio se otorgará a una sola casa-habitación y cuyo valor fiscal no exceda de cuarenta veces el valor anual en moneda nacional de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1621,7 +1741,7 @@ En los supuestos de que estos inmuebles se realicen ampliaciones o mejoras a las
 
 > <small>[N. DE E. EN EL P.O. DE 1 DE JULIO DE 2016 PÁGINA 98, SE ADIVIERTE LA REFERENCIA DE ESTE PÁRRAFO, SIN EMBARGO, DE CONFORMIDAD CON EL DECRETO NÚMERO 29, PUBLICADO EN EL P.O. 26 DE DICIEMBRE DE 1997, FUE REFORMADO EL CONTENIDO DEL ANTEPENÚLTIMO PÁRRAFO]</small>
 
-En relación al…(sic)
+En relación al.(sic)
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1631,15 +1751,17 @@ Para los efectos de este artículo, se requiere solicitud por escrito del contri
 
 La solicitud con sus anexos, deberá presentarse a la Tesorería Municipal correspondiente, la que una vez analizada la misma, emitirá el dictamen respectivo; en todo caso, la cuota mínima surtirá sus efectos a partir del siguiente bimestre al en que se haya presentado la solicitud.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 165.
 
-Este Impuesto deberá cubrirse por anualidad en una sola exhibición durante el primer bimestre del año, o bien por bimestre dentro del primer mes que corresponda, a elección del contribuyente, hecha excepción de las cuotas mínimas a que se refiere la Ley de Ingresos para los Municipios del Estado, las cuales deberán cubrirse por anualidad durante el primer bimestre.
+Este impuesto deberá cubrirse por anualidad en una sola exhibición durante el primer bimestre del año, o bien por bimestre dentro del primer mes que corresponda, a elección del contribuyente, hecha excepción de las cuotas mínimas a que se refiere la ley de ingresos para cada Municipio, las cuales deberán cubrirse por anualidad durante el primer bimestre.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 166.
 
-Los sujetos de este Impuesto están obligados a manifestar a la Tesorería Municipal correspondiente:
+Los sujetos de este impuesto están obligados a dar aviso a la Tesorería Municipal correspondiente de:
 
 I.- El Valor manifestado de sus inmuebles;
 
@@ -1651,11 +1773,15 @@ IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1990)
 
 V.- Cualquier modificación que altere el valor fiscal de los inmuebles o los datos de su empadronamiento.
 
-Dichas manifestaciones deberán presentarse en las formas oficiales establecidas, acompañando a éstas los documentos que en ellas se requieran, dentro de los quince días siguientes a la fecha del acto o contrato que la motive.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Los avisos correspondientes deberán presentarse en las formas oficiales establecidas por la Tesorería Municipal, acompañando a estas los documentos que en ellas se requieran, dentro de los quince días siguientes a la fecha del acto o contrato que la motive.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 167.
 
-Todo inmueble deberá estar inscrito en los padrones fiscales. La violación de esta disposición, motivará que además de la aplicación de las sanciones que autoriza esta Ley, se haga el cobro del importe del Impuesto correspondiente a cinco años fiscales anteriores a la fecha en que fuere descubierta la infracción.
+Todo inmueble deberá estar inscrito en el catastro municipal. La violación de esta disposición, motivará que además de la aplicación de las sanciones que autoriza esta Ley, se haga el cobro del importe del impuesto correspondiente a cinco años fiscales anteriores a la fecha en que fuere descubierta la infracción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
@@ -1663,9 +1789,9 @@ Todo inmueble deberá estar inscrito en los padrones fiscales. La violación de 
 
 El valor fiscal de los inmuebles, solo podrá ser modificado, por la manifestación del valor de los inmuebles de los contribuyentes; cuando se produzca un cambio en cuanto al nombre del contribuyente, a las características del inmueble; o por otra circunstancia que origine una alteración de su valor con motivo de la ejecución de obras públicas, así como en la reconstrucción o rehabilitación de dichas obras.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-No habiendo alguna de las causas anteriores, el valor fiscal únicamente podrá ser modificado por avalúo, que tendrá vigencia por dos años, el cual se aplicará a partir del bimestre siguiente a la fecha en que se notifique. En este caso no podrá exigirse al contribuyente que cubra las diferencias que se deriven del nuevo valor fiscal y el anterior. Los bimestres posteriores a la notificación, deberán cubrirse conforme al nuevo valor fiscal.
+No habiendo alguna de las causas anteriores, el valor fiscal únicamente podrá ser modificado por avalúo, que tendrá vigencia por dos años, el cual se aplicará a partir del bimestre siguiente a la fecha en que se notifique. En este caso no podrá exigirse al contribuyente que cubra las diferencias que se deriven del nuevo valor fiscal y el anterior. Cuando el contribuyente cubra de manera bimestral el impuesto predial y la autoridad municipal ordene la práctica de un avalúo, una vez determinado el valor que arroje el último y este sea notificado, los pagos posteriores serán cubiertos conforme al nuevo valor fiscal.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -1675,9 +1801,11 @@ Al término de la vigencia establecida y en tanto se practica el nuevo avalúo, 
 
 Cuando el contribuyente cubra por anualidad el impuesto predial y posteriormente la autoridad municipal ordene la práctica de un avaluó, no podrá exigirse el pago de las diferencias que resulten del valor anterior y el que arroje el avaluó practicado, en el ejercicio fiscal en que se llevó a cabo el avaluó.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 169.
 
-La Tesorería Municipal tendrá acción real para el cobro del Impuesto Predial y de las prestaciones accesorias a éste. En consecuencia, el procedimiento administrativo de ejecución que establece esta Ley, afectará a los inmuebles directamente.
+La Tesorería Municipal tendrá acción real para el cobro del impuesto predial y de las prestaciones accesorias a este. En consecuencia, el procedimiento administrativo de ejecución que establece esta Ley afectará a los inmuebles directamente, sin perjuicio de lo establecido en los artículos 98 y 99 de esta ley.
 
 ###### ARTICULO 170.
 
@@ -1685,9 +1813,11 @@ Para los efectos de esta Ley se considera inmueble:
 
 Al terreno, a las construcciones de cualquier tipo o al terreno y construcciones comprendidos dentro de un perímetro cercado por linderos definidos.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 171.
 
-Los Ayuntamientos respectivos, tomando en consideración la ubicación del Inmueble, sus características, la factibilidad de dotación de servicios urbanos y demás elementos que permitan prever su destino, clasificarán para efectos fiscales los inmuebles como urbanos, suburbanos y rústicos, y fijarán los valores de calle de acuerdo con los valores señalados en el artículo 4 Fracción I de la Ley de Ingresos para los Municipios del Estado, no debiendo en ningún caso, ser mayores a los límites superiores.
+Los ayuntamientos respectivos, tomando en consideración la ubicación del inmueble, sus características, la factibilidad de dotación de servicios urbanos y demás elementos que permitan prever su destino, clasificarán para efectos fiscales los inmuebles como urbanos, suburbanos y rústicos, y fijarán los valores de calle de acuerdo con los valores señalados en la ley de ingresos para cada Municipio, no debiendo en ningún caso, ser mayores a los límites superiores.
 
 ###### ARTICULO 172.
 
@@ -1717,7 +1847,9 @@ La práctica de todo avalúo deberá ser ordenada por la Tesorería Municipal po
 
 Los resultados del avalúo y la determinación del Impuesto deberán notificarse al contribuyente, quien tendrá un plazo de treinta días para realizar las aclaraciones que considere pertinentes.
 
-La valuación se hará separadamente para el terreno y para las construcciones y se formulará en las formas oficiales expedidas para tales efectos, aplicando los valores unitarios del suelo y construcciones que establece anualmente la Ley de Ingresos para los Municipios del Estado.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+La valuación se hará separadamente para el terreno y para las construcciones y se formulará en las formas oficiales expedidas para tales efectos, aplicando los valores unitarios del suelo y construcciones que establece anualmente la ley de ingresos para cada Municipio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 1997)</small>
 
@@ -1787,21 +1919,23 @@ IX.- La adquisición, a través de permuta, caso en el que se considerará que s
 
 X.- La adjudicación que derive de procedimientos judiciales o administrativos;
 
-XI.- La devolución de la propiedad de bienes a consecuencia de la rescisión o terminación del contrato que le da origen, por mutuo acuerdo o la reversión en caso de expropiaciones, así como por procedimientos judiciales o administrativos; y
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+XI.- La reversión en caso de expropiaciones, así como por procedimientos judiciales o administrativos; y
 
 XII.- Cualquier otro acto o contrato por el que se adquieran bienes inmuebles o derechos sobre los mismos.
 
 No se causará este impuesto tratándose de adquisiciones de inmuebles que haya realizado la Federación, el Estado o los municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso; asimismo, en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos de los contratos de arrendamiento financiero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 180.
 
-La base de este impuesto será el valor más alto entre el fiscal registrado, en su caso, el de operación y el pericial realizado por peritos fiscales autorizados por la Tesorería Municipal correspondiente o por valuadores y unidades de valuación certificados, con antigüedad no mayor a un año.
+La base de este impuesto será el valor más alto entre el fiscal registrado, en su caso, el de operación y el pericial realizado por peritos fiscales certificados y autorizados por la Tesorería Municipal correspondiente o por valuadores y unidades de valuación certificados, el cual tendrá vigencia de un año contado a partir de la fecha de su autorización.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-Para los efectos de este impuesto, también podrá presentarse peritaje bancario con antigüedad no mayor a un año.
+Para los efectos de este impuesto, también podrá presentarse peritaje bancario, el cual tendrá vigencia de un año contado a partir de la fecha de su autorización.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -1815,19 +1949,19 @@ Cuando el inmueble no haya sufrido modificaciones, el valor del mismo, a elecci�
 
 En todas las operaciones se reducirá el valor del inmueble de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-I.- La cantidad que represente diez veces la Unidad de Medida y Actualización diaria elevada al año;
+I.- La cantidad que represente diez veces el valor anual en moneda nacional de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-II.- La cantidad que represente quince veces la Unidad de Medida y Actualización diaria elevada al año, cuando se trate de casas habitación de interés social, en los términos del artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato.
+II.- La cantidad que represente quince veces el valor anual en moneda nacional de la Unidad de Medida y Actualización, cuando se trate de casas habitación de interés social, en los términos del artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato.
 
 El mismo monto se reducirá tratándose de casas habitación adquiridas mediante financiamiento otorgado por el Instituto de Seguridad Social del Estado de Guanajuato; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo Nacional de Habitaciones Populares; Fondo de Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Fondo de la Vivienda para los Miembros del Ejército, Fuerza Aérea y Armada; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ESTE PÁRRAFO], P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-III.- La cantidad que represente veinte veces la Unidad de Medida y Actualización diaria elevada al año, cuando se trate de vivienda popular, cuyo valor no exceda del monto previsto en el artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato.
+III.- La cantidad que represente veinte veces el valor anual en moneda nacional de la Unidad de Medida y Actualización diaria elevada al año, cuando se trate de vivienda popular, cuyo valor no exceda del monto previsto en el artículo 462 del Código Territorial para el Estado y los Municipios de Guanajuato.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1993)</small>
 
@@ -1841,9 +1975,11 @@ Tratándose de inmuebles que estén constituidos por departamentos habitacionale
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 183.
 
-Este Impuesto se causará y liquidará, de acuerdo con las tasas que señale anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+Este impuesto se causará y liquidará de acuerdo con las tasas que señale anualmente la ley de ingresos para cada Municipio.
 
 > <small>(REFORMADO, P. O. 22 DE DICIEMBRE DE 1998)</small>
 
@@ -1883,9 +2019,11 @@ III.- Cuando la división de cosa común no tenga como resultado tipificar cualq
 
 El impuesto sobre división y lotificación de inmuebles se calculará sobre el valor de la fracción que se escinde del bien inmueble objeto de la división. Para tal efecto, se tomará el valor que resulte más alto entre el de la operación y el que arroje el avalúo practicado por perito fiscal autorizado por la Tesorería Municipal correspondiente.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 189.
 
-Este Impuesto se causará y liquidará de acuerdo con las tasas y cuotas que establezca la Ley Anual de Ingresos para los Municipios del Estado de Guanajuato.
+Este impuesto se causará y liquidará de acuerdo con las tasas y cuotas que establezca anualmente la ley de ingresos para cada Municipio.
 
 ###### ARTICULO 190.
 
@@ -1903,9 +2041,11 @@ Para la recaudación y control del impuesto serán aplicables las normas y plazo
 
 Están obligados al pago de este impuesto las personas físicas o morales que realicen fraccionamientos en el Estado, en los términos de la Ley de la materia.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 193.
 
-Este Impuesto se causará por metro cuadrado de superficie vendible, conforme a las cuotas establecidas anualmente en la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+Este impuesto se causará por metro cuadrado de superficie vendible, conforme a las cuotas establecidas anualmente en la ley de ingresos para cada Municipio.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1913,13 +2053,17 @@ Este Impuesto se causará por metro cuadrado de superficie vendible, conforme a 
 
 La Dirección de Obras Públicas del Municipio enviará a la Tesorería Municipal el proyecto aprobado del fraccionamiento, adjuntando un plano autorizado que precise las superficies destinadas a las vías públicas, plazas, parques, jardines, mercados, escuelas, la superficie de donación y la superficie vendible.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 195.
 
-Los fraccionadores o sus representantes deberán manifestar a la Tesorería Municipal de su jurisdicción los lotes vendidos o prometidos en venta, su ubicación y el nombre y domicilio de las personas con quienes contrataron, dentro del término de quince días siguientes a la fecha de la operación.
+Los fraccionadores o sus representantes deberán manifestar a la Tesorería Municipal los lotes vendidos o prometidos en venta, su ubicación y el nombre y domicilio de las personas con quienes contrataron, dentro del término de quince días siguientes a la fecha de la operación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 196.
 
-La Tesorería Municipal respectiva, una vez que reciba la documentación que se refiere el artículo anterior y en un plazo no mayor de quince días notificará al fraccionador el importe del impuesto conforme a las cuotas que para cada categoría señale la Ley Anual de Ingresos.
+La Tesorería Municipal respectiva, una vez que reciba la documentación a que se refiere el artículo anterior y en un plazo no mayor de quince días notificará al fraccionador el importe del impuesto conforme a las cuotas que para cada categoría señale anualmente la Ley de Ingresos para cada Municipio.
 
 El pago de la cuota anterior deberá hacerse dentro de los quince días siguientes a la fecha de la notificación.
 
@@ -1929,11 +2073,11 @@ El pago de la cuota anterior deberá hacerse dentro de los quince días siguient
 
 Una vez pagado o garantizado el Impuesto, la Tesorería Municipal, después de señalar la región y el número catastral que le corresponda a cada una de las manzanas de que se componga el fraccionamiento, entregará los planos aprobados con la anotación anterior al Ayuntamiento para que proceda, en su caso, a otorgar la licencia para la ejecución de las obras de urbanización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 198.
 
-En los casos de fraccionamientos que se hagan total o parcialmente sin la autorización que establece el Código Territorial para el Estado y los Municipios de Guanajuato y la aplicación de las sanciones procedentes, tanto administrativas como penales, se ordenará desde luego el registro de los lotes en que se divide el fraccionamiento, para que se apliquen las disposiciones relacionadas con el Impuesto Predial.
+En los casos de fraccionamientos que se hagan total o parcialmente sin la autorización que establece el Código Territorial para el Estado y los Municipios de Guanajuato, se ordenará desde luego el registro de los lotes en que se divide el fraccionamiento, para que se apliquen las disposiciones relacionadas con el impuesto predial, ello, sin perjuicio de las sanciones a las que haya lugar.
 
 En estos casos el adquirente de lotes de un fraccionamiento irregular será solidariamente responsable del pago del Impuesto sobre fraccionamientos y anexidades legales.
 
@@ -1943,23 +2087,35 @@ En estos casos el adquirente de lotes de un fraccionamiento irregular será soli
 
 Están obligados al pago de este Impuesto las personas físicas o morales que exploten los establecimientos en que se practiquen:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-I.- Los juegos permitidos de billares, boliches, futbolitos, máquinas de juegos de videos y otros simulares;
+I.- Los juegos permitidos, loterías y concursos de toda clase, tales como bolos, billar, boliche, de pelota en todas sus formas y denominaciones, carreras de personas, de vehículos y de animales y en general toda clase de deportes; así como de máquinas, siempre y cuando no se consideren tragamonedas;
 
-II.- Las apuestas permitidas que se realicen en los frontones de cualquier modalidad, carreras de caballos, peleas de gallos y otros espectáculos, sobre el total de las apuestas que se crucen. Este se causará independientemente del Impuesto sobre Diversiones y Espectáculos Públicos.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+II.- Las apuestas permitidas, rifas, sorteos o los concursos de toda clase que se realicen en los frontones de cualquier modalidad, carreras de caballos, peleas de gallos y otros espectáculos o establecimientos con fines lúdicos sobre el total de las apuestas que se crucen. Este se causará independientemente del impuesto sobre diversiones y espectáculos públicos; y
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+III.- Las apuestas remotas, también conocidos (sic) como libros foráneos, autorizados por la autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 200.
 
-La base para la determinación del Impuesto será el ingreso que perciba por concepto de cuota de admisión, boletos o cobros que den acceso al juego o importe de la apuesta de que se trate.
+La base para la determinación del impuesto será el ingreso que perciba por concepto de cuota de admisión, boletos o cobros que den acceso al juego, a la máquina de juego, al concurso o el importe de la apuesta de que se trate.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 201.
 
-Este Impuesto se causará y liquidará conforme a las tasas que establezcan anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+Este impuesto se causará y liquidará conforme a las tasas que establezca anualmente la ley de ingresos para cada Municipio.
+
+Los contribuyentes de este impuesto que también realicen actividades sujetas al impuesto al valor agregado deberán contar con la documentación que identifique y soporte los actos sujetos a una y otra contribución. En caso de que el contribuyente no cuente con la documentación señalada, se presumirá que todas sus actividades están sujetas al presente impuesto.
 
 ###### ARTICULO 202.
 
-La Tesorería Municipal podrá celebrar convenios con los contribuyentes para el pago de este impuesto, independientemente del monto de sus ingresos.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ###### ARTICULO 203.
 
@@ -1975,17 +2131,21 @@ II.- Tratándose de apuestas permitidas, al día siguiente hábil a su celebraci
 
 Están obligados al pago de este Impuesto las personas físicas o morales que habitual o eventualmente exploten u organicen cualquier diversión o espectáculo público con fines de lucro, excepto cinematógrafos.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 205.
 
-La base para la determinación del Impuesto sobre Diversiones y Espectáculos será el ingreso que se perciba diaria o mensualmente, por concepto de admisión, boletos, tarjetas que dan acceso a la diversión o espectáculos de que se trate.
+La base para la determinación del impuesto sobre diversiones y espectáculos será el ingreso que se perciba diaria o mensualmente, por concepto de admisión, boletos, tarjetas que dan acceso a la diversión o espectáculos de que se trate, con independencia de que se empleen medios electrónicos o físicos para su expedición.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 206.
 
-Este Impuesto se causará y liquidará de acuerdo a las tasas que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+Este impuesto se causará y liquidará de acuerdo a las tasas que establezca anualmente la ley de ingresos para cada Municipio.
 
 ###### ARTICULO 207.
 
-La Tesorería Municipal podrá celebrar convenios con los contribuyentes para el pago de este Impuesto, independientemente del monto de sus ingresos.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ###### ARTICULO 208.
 
@@ -1997,9 +2157,15 @@ II.- Cuando el impuesto se cause sobre el importe de los boletos vendidos o cuot
 
 III.- El importe de las liquidaciones adicionales formuladas por rectificación de errores cometidos en liquidaciones anteriores o por alguna otra causa, deberá ser cubierto por los contribuyentes en la Tesorería Municipal de su jurisdicción, en un plazo no mayor de cinco días hábiles a partir de la fecha de notificación de las liquidaciones adicionales.
 
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+IV.- En los casos en que se utilicen medios electrónicos para la expedición de boletos o control de asistencia a los eventos, espectáculos o diversiones públicas, las personas físicas o morales responsables de la operación de estos medios, deberán proporcionar a los organizadores el reporte de la venta de boletos con el corte al momento en que los interventores autorizados lo soliciten y proporcionar las facilidades necesarias para la determinación del impuesto.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 209.
 
-La Tesorería Municipal podrá suspender cualquier diversión o espectáculo cuando, quienes lo exploten y organicen, se nieguen a permitir que los interventores o liquidadores de la Tesorería Municipal vigilen la entrada y recauden el impuesto que establece este capítulo.
+El titular de la Tesorería Municipal o la autoridad a quien delegue esta facultad, podrá suspender cualquier diversión o espectáculo cuando, quienes lo exploten y organicen, se nieguen a permitir que los interventores o liquidadores de la Tesorería Municipal vigilen la entrada y recauden el impuesto que establece este Capítulo.
 
 ###### ARTICULO 210.
 
@@ -2033,21 +2199,25 @@ Se exceptúa de lo dispuesto en el párrafo anterior la obtención de ingresos d
 
 La base del impuesto serán los ingresos que se perciban sobre el total de los boletos vendidos o rifas, sorteos, loterías y concursos que se celebren en los Municipios del Estado; también será el monto del valor de los premios obtenidos.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 216.
 
-Este impuesto se causará y liquidará conforme a las tasas que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+Este impuesto se causará y liquidará conforme a las tasas que establezca anualmente la ley de ingresos para cada Municipio.
 
 ###### ARTICULO 217.
 
-La Tesorería Municipal podrá celebrar convenio con los contribuyentes para el pago de este impuesto.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 218.
 
-Las personas físicas o morales que celebren la rifa, lotería o concurso, quedarán obligadas a solicitar a la Tesorería Municipal respectiva, en las formas oficiales aprobadas, el permiso para la celebración del evento, adjuntando los boletos para que sean sellados y retener el importe del impuesto al momento de hacer entrega del premio y a enterarlo a la Tesorería Municipal correspondiente, dentro de un plazo no mayor de quince días.
+Las personas físicas o morales que celebren la rifa, lotería o concurso, quedarán obligadas a solicitar a la Tesorería Municipal respectiva, en las formas oficiales aprobadas, el permiso para la celebración del evento, adjuntando los boletos para que sean sellados, en caso de que el boletaje sea electrónico, deberá de presentar el reporte generado por el sistema de la totalidad de boletos y retener el importe del impuesto al momento de hacer entrega del premio y a enterarlo a la Tesorería Municipal correspondiente, dentro de un plazo no mayor de quince días.
 
 ###### ARTICULO 219.
 
-Los contribuyentes a que se refiere el artículo anterior están obligados a otorgar en favor de la Tesorería Municipal, antes de efectuar la lotería, rifa, sorteo o concurso, garantía especial para asegurar el premio y el pago del impuesto.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -2071,9 +2241,11 @@ Están obligados al pago de este impuesto las personas físicas o morales que se
 
 La base del impuesto será la cantidad en decímetros cuadrados, metros cúbicos, bloques y toneladas de material extraído.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 222.
 
-Este impuesto se causará y liquidará conforme a las cuotas que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+Este impuesto se causará y liquidará conforme a las cuotas que establezca anualmente la ley de ingresos para cada Municipio.
 
 ###### ARTICULO 223.
 
@@ -2089,9 +2261,11 @@ Este impuesto se pagará mensualmente a más tardar el día 15 de cada uno de lo
 
 ### CAPITULO PRIMERO. REGLAS GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 225.
 
-Los derechos por Servicios Públicos que proporcionen las diversas dependencias del Gobierno del Estado y de los Municipios, según corresponda, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque el gasto que deba ser remunerado por aquél, salvo el caso en que la disposición que fije el derecho, señale cosa distinta.
+Los derechos por servicios públicos que proporcionen los municipios se causarán en el momento en que se reciba la prestación del servicio o en el momento en que se provoque el gasto que deba ser remunerado por aquel, salvo el caso en que la disposición que fije el derecho señale cosa distinta.
 
 ###### ARTICULO 226.
 
@@ -2127,9 +2301,11 @@ II.- Por día, cuando se trate de difusión fonética; y
 
 III.- Por anuncio o por pieza, en los casos de publicidad móvil, temporal o inflable.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-ARTICULO 228 D.- Este derecho se causará y pagará de acuerdo con la tarifa que establezca la Ley de Ingresos para los Municipios del Estado.
+###### ARTICULO 228-D.
+
+Este derecho se causará y pagará de acuerdo con la tarifa que establezca la ley de ingresos para cada Municipio.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -2143,9 +2319,11 @@ III.- La publicidad que realicen el Estado y los municipios en funciones de dere
 
 IV.- Por publicidad que mediante difusión fonética y con elementos de su propiedad, realicen personas físicas comerciantes o prestadoras de servicios, sobre sus actividades o giros.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-ARTICULO 228 F.- Las licencias o permisos para el establecimiento de anuncios que tengan vigencia anual, podrán refrendarse pagando los derechos que se causen, de conformidad con lo dispuesto en la Ley de Ingresos para los Municipios del Estado.
+###### ARTICULO 228-F.
+
+Las licencias o permisos para el establecimiento de anuncios que tengan vigencia anual, podrán refrendarse pagando los derechos que se causen, de conformidad con lo dispuesto en la ley de ingresos para cada Municipio.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1999)</small>
 
@@ -2165,19 +2343,33 @@ ARTICULO 228 G.- La (sic) autoridades municipales regularán en sus reglamentos 
 
 El objeto de este derecho será el servicio de alumbrado público que se preste en las calles, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinarán al pago de dicho servicio y en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 228-I.
 
-La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados ante la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre doce y el importe que resulte de esta operación será el que se cobre en cada recibo que expida la Comisión Federal de Electricidad.
+La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global actualizado por el Municipio en la prestación de este servicio, entre el número de usuarios registrados ante la Comisión Federal de Electricidad y el número de predios rústicos y urbanos detectados que no estén registrados en la Comisión Federal de Electricidad. El resultado será dividido entre doce y el importe que resulte de esta operación será el que se cobre en cada recibo que expida la Comisión Federal de Electricidad.
 
-Las facilidades administrativas de cobro deberán preverse en las leyes de ingresos municipales.
+Se entiende como costo anual global actualizado la suma de los montos de los últimos 12 meses de los siguientes conceptos:
+
+I.- El gasto realizado por el Municipio para el otorgamiento del servicio de alumbrado público;
+
+II.- El importe que la Comisión Federal de Electricidad facture por consumo de energía respecto del alumbrado público; y
+
+III.- El ahorro energético en pesos que presente el Municipio.
+
+Para los efectos de los incisos anteriores, los últimos 12 meses son aquellos meses previos al mes de septiembre del año en el que se realiza el cálculo, incluyendo este último.
+
+La suma total antes referida será traída a valor presente tras la aplicación de un factor de actualización que se obtendrá dividiendo el Índice Nacional de Precios al Consumidor dado a conocer por el Instituto Nacional de Estadística y Geografía, o cualquier indicador que en su momento lo sustituya, correspondiente al mes de septiembre del año en que se realiza el cálculo, entre el Índice Nacional de Precios al Consumidor, o cualquier indicador que en su momento lo sustituya, correspondiente al mes de septiembre del año inmediato anterior.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 22 DE NOVIEMBRE DE 2019, PÁGINAS 23 Y 24.]</small>
+
+Adicionalmente el resultado del cálculo obtenido se dividirá entre el Factor de Ajuste Energético. Este factor se obtiene del promedio de los últimos 36 meses, de la inflación anual al mes de septiembre del año en que se realiza el cálculo. La inflación anual corresponde a la variación del Índice Nacional de Precios al Productor del sector de generación, transmisión y distribución de energía eléctrica, suministro de agua y de gas por ductos al consumidor final, contenido en el Índice de Mercancías y Servicios Finales, por origen publicado por el Instituto Nacional de Estadística y Geografía o cualquier indicador que en su momento lo sustituya.
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 22 DE NOVIEMBRE DE 2019, PÁGINA 24.]</small>
+
+Las facilidades administrativas de cobro deberán preverse en la ley de ingresos para cada Municipio.
 
 Los propietarios o poseedores de predios rústicos o urbanos que no estén registrados en la Comisión Federal de Electricidad, pagarán la tarifa resultante mencionada en este artículo, mediante el recibo que para tal efecto expida la Tesorería Municipal.
-
-Se entiende como «costo anual global actualizado erogado» la suma que resulte del total de las erogaciones por gasto directamente involucrado con la prestación de este servicio, traídos a valor presente tras la aplicación de un factor de actualización que se obtendrá para el ejercicio fiscal en que se cobrará el derecho, dividiendo el Índice Nacional de Precios al Consumidor, o cualquier indicador que en su momento lo sustituya, del mes de noviembre del año inmediato anterior entre el Índice Nacional de Precios al Consumidor, o cualquier indicador que en su momento lo sustituya, correspondiente al mes noviembre del año anterior al año considerado como inmediato anterior.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2203,13 +2395,19 @@ Para efectos del cobro de este derecho los ayuntamientos podrán celebrar conven
 
 Son sujetos de este derecho los propietarios o poseedores de predios urbanos o rústicos ubicados en el área territorial municipal.
 
-## TITULO SEXTO. DE LAS OBLIGACIONES ESPECIALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-#### SECCION PRIMERA. DE LA CONTRIBUCION POR EJECUCION DE OBRAS PUBLICAS
+## TÍTULO SEXTO. DE LAS CONTRIBUCIONES DE MEJORAS
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+#### Sección Única
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 229.
 
-Esta contribución es el pago obligatorio que deberán efectuar al fisco municipal, los propietarios o poseedores, en su caso, de bienes inmuebles que resulten beneficiados por una obra pública.
+Esta contribución es el pago obligatorio que deberán efectuar a la Tesorería Municipal, los propietarios o poseedores, en su caso, de bienes inmuebles que resulten beneficiados por una obra pública.
 
 ###### ARTICULO 230.
 
@@ -2415,9 +2613,11 @@ Los rendimientos producidos por organismos descentralizados y empresas de partic
 
 (DEROGADO, P.O. 7 DE JUNIO DE 2013)
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 257.
 
-Los bienes embargados por las Tesorerías Municipales, que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días a la fecha en que queden a disposición del particular así como los bienes depositados por cualquier otro motivo, causarán por concepto de almacenaje la cuota señalada anualmente en la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+Los bienes embargados por las tesorerías municipales, que se depositen en almacenes o locales pertenecientes al Municipio, cuando no se retiren después de cinco días a la fecha en que queden a disposición del particular, así como los bienes depositados por cualquier otro motivo, causarán por concepto de almacenaje la cuota señalada anualmente en la ley de ingresos para cada Municipio.
 
 ###### ARTICULO 258.
 
@@ -2427,7 +2627,7 @@ I.- Actos lucrativos en los establecimientos de asistencia Pública Municipal;
 
 II.- Porcentajes obtenidos por contratos de apariencia arrendamiento de tierras, aperos y otros elementos de labranza;
 
-III.- La venta o la ocupación de los locales interiores o exteriores en Mercados Municipales y Accesorios;
+III.- (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2019)
 
 IV.- La venta de esquilmos y desechos de los Municipios; y
 
@@ -2441,7 +2641,7 @@ V.- Cualquier otro acto productivo de los Municipios de acuerdo con las disposic
 
 Quedan comprendidos dentro de esta clasificación los Ingresos que se obtengan por concepto de:
 
-I.- Rezagos;
+I.- (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2019)
 
 II.- Recargos;
 
@@ -2463,19 +2663,25 @@ IX.- Administración de Impuestos, originados por la celebración de los conveni
 
 Los aprovechamientos se harán efectivos según proceda en cada caso, atendiendo a la naturaleza y origen del crédito, por medio del procedimiento administrativo de ejecución o por la vía judicial.
 
-Los rezagos por concepto de impuestos, derechos, contribuciones especiales y productos, se liquidarán y cobrarán conforme a las disposiciones legales vigentes en la época en que se causaron.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 261.
 
-Los recargos y gastos de ejecución se causarán conforme a las tasas establecidas anualmente en la Ley de Ingresos para los Municipios del Estado de Guanajuato.
+Los recargos y gastos de ejecución se causarán conforme a las tasas establecidas anualmente en la ley de ingresos para cada Municipio.
 
-## TITULO NOVENO. DE LAS PARTICIPACIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+## TÍTULO NOVENO. DE LAS PARTICIPACIONES Y APORTACIONES FEDERALES
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTICULO 262.
 
-Los Municipios del Estado recibirán las cantidades que les correspondan de las participaciones federales de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal del Estado.
+Los municipios del Estado recibirán las cantidades que les correspondan de las participaciones y aportaciones federales de acuerdo con lo dispuesto en la Ley de Coordinación Fiscal y la del Estado, así como en el Presupuesto de Egresos de la Federación.
 
 ## TRANSITORIOS
 
@@ -2682,3 +2888,9 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN".]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 111, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
