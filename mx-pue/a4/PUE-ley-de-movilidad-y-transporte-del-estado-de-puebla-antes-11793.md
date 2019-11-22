@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2018-08-31"
+last_updated: "2019-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -1651,6 +1651,10 @@ La persona que haya cedido los derechos de la concesión de la cual fue titular,
 
 ARTICULO 92 TER.- Queda prohibido que se coloque publicidad o propaganda impresa y electrónica en los costados o frente de cualquier vehículo destinado al Servicio Público de Transporte, únicamente se podrá colocar publicidad en el interior del vehículo, así como en el medallón del mismo, previa autorización que otorgue la autoridad competente, de conformidad con las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+La publicidad o propaganda impresa y electrónica autorizada a cualquier vehículo destinado al Servicio Público de Transporte, por ningún motivo podrá incluir contenido sexista, degradante o peyorativo sobre la mujer, entendiéndose a este tipo de contenido como aquel que presenta hechos, acciones, símbolos y expresiones basadas en estereotipos de los roles de género que atribuyan o asocien características denigrantes, de exclusión, de sumisión, de racismo, de burla, de animadversión o cualquier otra forma de discriminación hacia el género femenino.
+
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ARTICULO 92 QUATER.- Las Empresas de Redes de Transportes a que se refiere el artículo 12 Bis de la presente Ley, están obligadas a:
@@ -2702,3 +2706,11 @@ PRIMERO.- El presente Decreto se publicará en el Periódico Oficial del Estado,
 SEGUNDO.- Se derogan todas disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Las concesiones y permisos del Servicio del Transporte Mercantil que hayan sido otorgadas con anterioridad a la entrada en vigor del presente Decreto, tendrán una vigencia indeterminada, exceptuando las concesiones de Transporte Masivo, cuya vigencia continuará conforme a lo dispuesto por la Ley del Transporte para el Estado de Puebla.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+[N. DE. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 92 TER DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
