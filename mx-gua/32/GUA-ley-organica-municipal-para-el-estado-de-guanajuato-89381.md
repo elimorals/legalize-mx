@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2019-11-01"
+last_updated: "2019-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1159,6 +1159,10 @@ j) Promover la organización de asociaciones de habitantes y elaborar procedimie
 
 k) Contar con un registro del acontecer histórico local y con el archivo de los documentos históricos municipales.
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+l) Establecer el Consejo Consultivo Municipal de Turismo en los términos de la Ley General de Turismo, y
+
 VI. Las demás que le confieran las leyes y reglamentos para el cumplimiento de sus funciones.
 
 ### Capítulo VIII. De las Atribuciones de los Integrantes del Ayuntamiento
@@ -1217,7 +1221,11 @@ XXI. Solicitar autorización del Ayuntamiento, para ausentarse del Municipio por
 
 XXII. Coadyuvar con las autoridades federales y estatales en el ejercicio de sus atribuciones; y
 
-XXIII. Las demás que le señale esta Ley y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+XXIII. Presidir el Consejo Consultivo Municipal de Turismo;
+
+XXIV. Las demás que le señale esta Ley y otras disposiciones legales aplicables.
 
 Atribuciones de los síndicos
 
@@ -4456,3 +4464,15 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos del Estado contarán con un término de noventa días naturales para adecuar sus reglamentos, en congruencia con el presente Decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 110 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Expedición de disposiciones reglamentarias de la Ley
+
+Artículo Segundo. Los Ayuntamientos contarán con un periodo de 90 días posteriores a la entrada en vigor del presente Decreto, para adecuar sus reglamentos, en congruencia con el mismo.
