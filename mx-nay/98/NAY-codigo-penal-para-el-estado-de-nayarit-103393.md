@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2019-09-25"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
-Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
+Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
 Al margen un Sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Nayarit.
 
@@ -363,7 +363,9 @@ V. El consentimiento presunto;
 
 VI. Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
 
-Se presume que existe legítima defensa, salvo prueba en contrario, cuando se cause un daño a quien por cualquier medio trate de penetrar o penetre, sin derecho, al lugar en que habite de forma temporal o permanente el que se defiende, al de su familia o al de cualquier persona respecto de las que el agente tenga la obligación de defender, a sus dependencias o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación. Igual presunción existirá cuando el daño se cause a un intruso al momento de sorprenderlo en alguno de los lugares antes citados en circunstancias tales que revelen la posibilidad de una agresión;
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Se presume que existe legítima defensa, salvo prueba en contrario, cuando se cause cualquier daño, lesión o se prive de la vida, a quien por cualquier medio trate de penetrar o penetre, sin derecho, al lugar en que habite de forma temporal o permanente el que se defiende, al de su familia o al de cualquier persona respecto de las que el agente tenga la obligación de defender, a sus dependencias o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación. Igual presunción existirá cuando el daño, lesión o privación de la vida se cause a un intruso al momento de sorprenderlo en alguno de los lugares antes citados;
 
 VII. Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
 
@@ -461,15 +463,13 @@ IV. Abandono de familiares, salvo los casos de excepción que este mismo código
 
 V. Violencia familiar, salvo los casos a que se refiere el artículo 313, en los que el delito se perseguirá de oficio;
 
-VI. Golpes simples;
+VI. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2019)
 
-VII. Injurias;
+VII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2019)
 
-VIII. Difamación;
+VIII. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2019)
 
-(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-IX. CALUMNIAS;
+IX. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2019)
 
 X. Abuso de confianza;
 
@@ -1839,11 +1839,9 @@ De igual manera, se incrementará hasta el doble de la sanción prevista en el a
 
 Así también, se incrementará hasta el doble de la sanción prevista en el artículo 216, a quienes hayan tenido el carácter de servidores públicos en materia de seguridad pública de los tres niveles de gobierno de los cuerpos de seguridad pública o de las fuerzas armadas mexicanas.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
 ###### ARTÍCULO 217.
 
-Los ultrajes hechos al Ejecutivo, al Congreso del Estado, al Tribunal Superior de Justicia o a cualquiera otra Institución Pública, se sancionará con prisión de tres meses a un año y multa equivalente hasta de tres meses de la Unidad de Medida y Actualización.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ### CAPÍTULO V. ULTRAJES A INSIGNIAS PÚBLICAS
 
@@ -3107,8 +3105,6 @@ A quienes asalten un poblado o ranchería se les sancionará con prisión de vei
 
 ### CAPÍTULO I. GOLPES SIMPLES
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
 ###### ARTÍCULO 323.
 
 Se impondrán de seis meses a tres años de prisión y de veinticinco a cien días de multa, al particular que prive a otro de su libertad, sin el propósito de obtener un lucro, causar un daño o perjuicio a la persona privada de su libertad o a cualquier otra.
@@ -3155,8 +3151,6 @@ Las penas señaladas en el artículo anterior se incrementarán hasta en una mit
 
 ### CAPÍTULO III. DIFAMACIÓN
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
 ###### ARTÍCULO 328.
 
 Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, con la finalidad de obtener un lucro o beneficio para sí o para otro o causar un daño, se le impondrán de tres a nueve años de prisión y de cien a quinientos días multa.
@@ -3169,11 +3163,7 @@ Se impondrá además, una pena de dos a cinco años de prisión, cuando el sujet
 
 ### CAPÍTULO IV. CALUMNIA
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
 ### CAPÍTULO V. DISPOSICIONES COMUNES A LAS INJURIAS, DIFAMACIÓN Y CALUMNIAS
-
-(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### ARTÍCULO 329.
 
@@ -3197,43 +3187,43 @@ El delito de desaparición forzada se considera permanente, en tanto no se logre
 
 Los términos para la prescripción previstos en este Código, respecto del delito de desaparición forzada de personas, comenzarán a computarse a partir de que se localice a la víctima o sus restos.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ## TÍTULO DÉCIMO SÉPTIMO. DELITOS CONTRA EL HONOR
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ### CAPÍTULO I. LESIONES
 
 ###### ARTÍCULO 330.
 
-Se aplicará de tres meses a un año de prisión o multa de uno a diez días al que diere a otro, fuera de riña, una bofetada, latigazo o cualquiera otro golpe simple que no cause lesión alguna, si los infiere con intención de ofender, y no se hace en ejercicio del derecho de corrección. Dichas sanciones serán de tres meses a tres años de prisión y multa de uno a diez días, cuando los golpes simples se infieran a un ascendiente.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ###### ARTÍCULO 331.
 
-No se procederá contra el autor de golpes, sino por queja del ofendido, a no ser que el delito se cometa en una reunión o lugar público, o a un ascendiente.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ### CAPÍTULO II. HOMICIDIO
 
 ###### ARTÍCULO 332.
 
-Se entiende por injuria, toda expresión proferida o toda acción para manifestar desprecio a otro, o con el fin de hacerle alguna ofensa.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
-
-El delito de injurias se sancionará con prisión de tres meses a un año o multa de tres a diez días de Unidad de Medida y Actualización, a juicio del Juez.
-
-Cuando las injurias fueren recíprocas, el Juez podrá según las circunstancias, declarar exentas de sanción a las dos partes o exigirles caución de no ofender.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ### CAPÍTULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIOS
 
 ###### ARTÍCULO 333.
 
-Se aplicará prisión de tres meses a dos años y multa de tres a quince días al que comunicare a una o más personas la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado, que cause o puede causarle deshonra, descrédito o perjuicio, o exponerla al desprecio de alguien.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ###### ARTÍCULO 334.
 
-El acusado de difamación sólo podrá probar la verdad de la imputación en los casos siguientes:
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
-I. Si la imputación hubiere tenido por objeto defender o garantizar un interés público actual, y
-
-II. Si el hecho imputado está declarado cierto, por sentencia irrevocable y el inculpado obre por interés legítimo y sin ánimo de dañar.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ### CAPÍTULO IV. DISPARO DE ARMA DE FUEGO
 
@@ -3241,13 +3231,13 @@ II. Si el hecho imputado está declarado cierto, por sentencia irrevocable y el 
 
 ###### ARTÍCULO 335.
 
-Se aplicará de seis meses a dos años de prisión o multa de tres a quince días al que impute falsamente un delito, ya sea porque el hecho es falso o inocente la persona a quien se le imputa.
-
-(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ###### ARTÍCULO 336.
 
-Cuando haya pendiente un proceso o averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que en dicho proceso se dicte sentencia ejecutoria. En este caso, la prescripción comenzará a correr cuando termine el proceso.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
 ### CAPÍTULO V. INSTIGACIÓN O AYUDA AL SUICIDIO
 
@@ -3255,41 +3245,23 @@ Cuando haya pendiente un proceso o averiguación de un delito imputado a alguien
 
 ###### ARTÍCULO 337.
 
-No se procederá contra los autores de injurias, difamación O CALUMNIA, sino por querella de los ofendidos o de sus legítimos representantes.
-
-(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-Si la injuria, difamación O CALUMNIA son posteriores al fallecimiento del ofendido, sólo se procederá en virtud de querella de sus familiares o representantes legítimos.
-
-Si esos mismos delitos se cometen con anterioridad al fallecimiento del ofendido y éste hubiere perdonado la ofensa, o sabiendo que se había inferido, no hubiere presentado su querella pudiendo hacerlo, ni manifestado que lo hicieran sus herederos, se extinguirá la sanción penal de esos delitos.
-
-(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ###### ARTÍCULO 338.
 
-Cualquier objeto que hubiere servido de medio para cometer los delitos de injurias, difamación O CALUMNIA se inutilizará, a menos que se trate de algún documento público o privado que importe obligación, liberación o transmisión de derechos. En éste caso se anotará en el documento un resumen de la sentencia pronunciada contra el acusado o en hoja anexa si no cupiere.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ###### ARTÍCULO 339.
 
-Siempre que la injuria o la difamación se hagan de un modo encubierto o en términos equívocos y el inculpado se niegue a dar una explicación satisfactoria a juicio del Juez, se aplicará la sanción que corresponda a la injuria o a la difamación, como si el delito se hubiere cometido en las formas señaladas.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ###### ARTÍCULO 340.
 
-No se aplicará sanción alguna como responsable de difamación, ni de injurias:
-
-I. Al que manifieste técnicamente su parecer sobre alguna producción literaria, artística, científica o industrial;
-
-II. Al que manifieste su juicio sobre la capacidad, instrucción, aptitud o conducta de otro, si probare que obró en cumplimiento de un deber, o por interés público, o que con la debida reserva lo hizo por humanidad, por prestar un servicio a persona con quien tenga parentesco o amistad o dando informes que se le hubieren pedido si no lo hiciere a sabiendas calumniosamente, y
-
-III. Al autor de un escrito presentado o de un discurso pronunciado en los Tribunales, pues si hiciere uso de alguna expresión difamatoria o injuriosa, los jueces, según la gravedad del caso, le aplicarán alguna de las correcciones disciplinarias de las que permita la Ley.
-
-Lo prevenido en esta fracción, no comprende el caso en que la imputación sea calumniosa o se extienda a personas extrañas al litigio, o envuelva hechos que no se relacionen con el negocio de que se trata.
-
-(NOTA: EL 29 DE MAYO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO OCTAVO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 113/2015 Y SU ACUMULADA 116/2015, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 4 DE OCTUBRE DE 2015 SIENDO LA ENTRADA EN VIGOR DEL DECRETO IMPUGNADO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ###### ARTÍCULO 341.
 
-No servirá de excusa de la difamación, NI DE LA CALUMNIA, que el hecho imputado sea notorio, o que el responsable no haya hecho más que reproducir lo ya publicado en la República o en otro país.
+(DEROGADO, P.O. 22 DE NOVIEMBRE DE 2019)
 
 ## TÍTULO DÉCIMO OCTAVO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
@@ -3709,7 +3681,13 @@ b) Se detente, posea o custodie documentos falsos o alterados de propiedad de un
 
 La buena fe se demostrará cuando en la documentación probatoria de propiedad, se establezca la fecha de adquisición y el precio de su transmisión, el nombre, domicilio y número de identificación del vendedor con los datos de su credencial de elector o pasaporte, siempre que aquélla fuere de fecha cierta, y
 
-IX. El objeto del robo recaiga sobre cultivos de camarón o cualquier otra especie similar en las granjas acuícolas de particulares.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+IX. El objeto del robo recaiga sobre maquinaria, implementos, insumos o productos, del sector primario de la economía que comprende actividades productivas relacionadas con la agricultura, ganadería, apicultura, pesca y demás actividades acuícolas, minera, silvícola y explotación forestal.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, P.O. 22 DE NOVIEMBRE DE 2019]</small>
+
+Para efectos de esta fracción se actualiza la calificativa, siempre que dicha maquinaria, implementos, insumos o productos se encuentren en el lugar de producción o en el recipiente relacionado a éste donde se guarden o conserven.
 
 Además de las sanciones señaladas en el artículo 380 de éste Código, se aplicará de uno a cinco años de prisión al responsable del robo calificado.
 
@@ -4418,3 +4396,9 @@ P.O. 25 DE SEPTIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
