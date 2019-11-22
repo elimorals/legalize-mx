@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2018-12-24"
+last_updated: "2019-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -250,6 +250,14 @@ d) Los importes erogados para remunerar los trabajos sometidos al régimen de su
 ###### Artículo 8 Bis.
 
 Los empleadores que participen activamente y contraten o reciban la prestación del trabajo personal subordinado, orientado a la investigación científica y tecnológica, así como al desarrollo tecnológico e innovación gozarán de un estímulo fiscal, de conformidad con las disposiciones de carácter general que para tal efecto emita el Gobernador del Estado.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Los empleadores que contraten personal con discapacidad gozarán de una reducción del cien por ciento del impuesto sobre nómina determinado a pagar por las erogaciones realizadas al trabajo personal subordinado de las personas con discapacidad, y deberán acompañar a la declaración correspondiente, lo siguiente:
+
+I. Una manifestación del contribuyente en el sentido de que tiene establecida una relación laboral con personas con discapacidad, expresando el nombre de cada una de ellas y las condiciones de dicha relación; además, la empresa deberá llevar un registro especial y por separado en el que se consigne el monto de las erogaciones respecto de las cuales no se pagará el Impuesto Sobre Nóminas y los conceptos por los que se efectuaron tales erogaciones; y
+
+II. Certificación de discapacidad emitida por la autoridad competente, en los términos que señale la Ley de Salud del Estado de Guanajuato, del personal contratado, incluyendo las congénitas o de nacimiento, expedido por la autoridad competente.
 
 ### CAPÍTULO SEGUNDO. DE LOS IMPUESTOS CEDULARES SOBRE LOS INGRESOS DE LAS PERSONAS FÍSICAS
 
@@ -1358,3 +1366,9 @@ P.O. 24 DE DICIEMBRE DE 2018.
 Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2019, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Para el cálculo del impuesto sobre tenencia o uso de vehículos de aquellos vehículos cuyo año modelo es anterior a 2019, deberá hacerse el cálculo previsto en el artículo 48 Decies, según corresponda, con el único propósito de obtener un monto que se deberá multiplicar por el factor de la tabla de aminoración anual y con ello obtener el impuesto causado en 2019. El mismo mecanismo deberá emplearse en los años subsecuentes.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO CON LAS FRACCIONES I Y II AL ARTÍCULO 8 BIS DE LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
