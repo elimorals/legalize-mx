@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transporte-y-movilidad-sustentable-para-el-estado-de-127
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-10"
-last_updated: "2019-10-22"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 10 de noviembre de 2017.
 
@@ -1275,7 +1275,9 @@ IV. Comprobante del pago de derechos de control vehicular del año en curso en e
 
 V. Comprobante de verificación vehicular vigente;
 
-VI. Póliza de seguro que cubra la responsabilidad civil por daños, lesiones o muerte de los usuarios y de terceros;
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+VI. Póliza de seguro de cobertura amplia para el tipo de servicio que presta, y que cubra la responsabilidad civil por daños, lesiones o muerte de los usuarios y de terceros;
 
 VII. Estar al corriente en el pago de sus obligaciones fiscales;
 
@@ -2242,6 +2244,10 @@ IX. Análisis del impacto en la tarifa por las variaciones de los principales co
 X. Diagnóstico del servicio que incluya el análisis de la oferta, la demanda y la relación entre sí;
 
 XI. Planes o compromisos para el mejoramiento del servicio, que incluya entre otros aspectos la organización administrativa, infraestructura, renovación de flota vehicular, capacitación, operación y calidad.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+XII. El análisis detallado de los compromisos, de ser el caso, que fueron cumplidos o incumplidos por los concesionarios en relación al último incremento de tarifas que les fue autorizado.
 
 ###### ARTÍCULO 179.
 
@@ -4498,3 +4504,11 @@ P.O. 22 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 362.- SE ADICIONA LA FRACCIÓN XL DEL ARTÍCULO 3 Y REFORMAN EL ARTÍCULO 81 Y 184, ASÍ COMO LA FRACCIÓN IV DEL ARTÍCULO 185, EL ARTÍCULO 186, LA FRACCIÓN VI DEL ARTÍCULO 213 Y LA FRACCIÓN II DEL ARTÍCULO 216, DE LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 369.- SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 100, ASÍ MISMO SE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 178, AMBOS DE LA LEY DE TRANSPORTE Y MOVILIDAD SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
