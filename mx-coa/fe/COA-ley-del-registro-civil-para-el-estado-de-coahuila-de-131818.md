@@ -4,7 +4,7 @@ identifier: "COA-ley-del-registro-civil-para-el-estado-de-coahuila-de-131818"
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-27"
-last_updated: "2019-10-18"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "COA"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
-Ley publicada en la Primera Sección al Número 95 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 27 de noviembre de 2018.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 27 de noviembre de 2018.
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -1135,9 +1135,13 @@ III. Pago de derechos correspondientes.
 
 La Dirección dentro de los tres días hábiles siguientes a la presentación de la solicitud, y una vez verificada la extemporaneidad del registro en los archivos y base de datos, procederá a extender la constancia respectiva.
 
-###### Artículo 139.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-La Dirección del Registro Civil será la única entidad facultada para expedir las constancias de concubinato a las personas interesadas, lo anterior sin ningún tipo de discriminación, especialmente por género u orientación sexual, verificando que previamente se cumpla lo que dispone el artículo 248 y demás disposiciones relacionadas con el concubinato, contenidas en la Ley para la Familia de Coahuila de Zaragoza; siempre y cuando cumplan con los siguientes requisitos:
+###### ARTÍCULO 139.
+
+La Dirección del Registro Civil será la única entidad facultada para expedir las constancias de concubinato, o en su caso de cesación, a las personas interesadas, lo anterior sin ningún tipo de discriminación, especialmente por género u orientación sexual, verificando que previamente se cumpla lo que dispone el artículo 248 y demás disposiciones relacionadas con el concubinato, contenidas en la Ley para la Familia de Coahuila de Zaragoza.
+
+Para la expedición de constancias de Concubinato, deberán cumplirse los siguientes requisitos:
 
 I. Copia de identificación oficial de ambos concubinos.
 
@@ -1151,7 +1155,21 @@ V. Formato de solicitud, previamente llenado y firmado por ambos concubinos.
 
 VI. Comprobante de domicilio común.
 
-Las autoridades registrales, una vez recibida la documentación y verificados los requisitos, procederán a expedir la constancia de concubinato, la cual tendrá validez de un año a partir de su emisión.
+Para la expedición de constancias de Cesación de Concubinato, deberán cumplirse los siguientes requisitos:
+
+I. Copia de identificación oficial de ambos concubinos.
+
+II. Copia de acta de nacimiento de ambos concubinos.
+
+III. Declaración testimonial rendida ante la Procuraduría para Niños, Niñas y la Familia firmada uno o ambos concubinos.
+
+IV. Copia de acta de nacimiento de los hijos en caso de que los hubiere.
+
+V. Formato de solicitud, previamente llenado y firmado por uno o ambos concubinos, y
+
+VI. Comprobante de domicilio del solicitante.
+
+Las autoridades registrales, una vez recibida la documentación y verificados los requisitos, procederán a expedir la constancia de concubinato, o en su caso de cesación, la cual tendrá validez de un año a partir de su emisión.
 
 ## TÍTULO SEXTO. LOS Y LAS OFICIALES DEL REGISTRO DEL (SIC) CIVIL
 
@@ -1786,3 +1804,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El Poder Judicial del Estado de Coahuila de Zaragoza, a través del Instituto de Especialización Judicial, llevará a cabo programas de capacitación para los integrantes del poder judicial que estarán involucrados con la aplicación de la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza y conversatorios con los familiares de personas desaparecidas.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 371.- SE REFORMA EL ARTÍCULO 139 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
