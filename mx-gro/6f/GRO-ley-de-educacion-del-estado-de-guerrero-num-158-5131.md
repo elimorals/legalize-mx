@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "2015-10-09"
+last_updated: "2019-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NÚM. 158
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -182,6 +182,10 @@ XIV.- Fomentar y afianzar actitudes de respeto que incidan en la prevención de 
 > <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
 XIV (SIC).- Fomentar actitudes solidarias y positivas hacia el ahorro y el bienestar general.
+
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+XVI.- Garantizar el desarrollo psico-emocional del educando, fomentando para ello el uso adecuado de las herramientas de tecnología de la información y la comunicación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -372,6 +376,14 @@ VII.- Promover permanentemente el desarrollo y la investigación científica y t
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
 
 VIII.- Fomentar y difundir las actividades artísticas, culturales y físico deportivas en todas sus manifestaciones, así como implementar programas especiales de educación nutricional;
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Integrar los Comités de Protección Civil y Seguridad Escolar (CPC y SE), en todos los centros escolares públicos y privados, con la participación activa de docentes, administrativos, alumnos y padres de familia, de manera coordinada con las autoridades estatales y municipales de Seguridad Pública y Protección Civil, para elaborar el Programa Escolar de Protección Civil que contenga los estudios y diagnósticos técnicos de riesgo, llevar a cabo de manera calendarizada las prácticas de simulacros de actuación, resguardo y evacuación ante posibles escenarios de desastres como son: sismos, incendio y fenómenos meteorológicos.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Las autoridades educativas federal y estatal, de manera concurrente y con la participación de dichos Comités y de las autoridades estatales y municipales de Prevención y Protección Civil, establecerán y verificarán trimestralmente que los sistemas, los planes, programas y procedimientos así como los mecanismos y dispositivos operen satisfactoriamente para enfrentar los posibles escenarios de desastre señalados anteriormente.
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2009)</small>
 
@@ -723,6 +735,14 @@ El Estado también llevará a cabo programas asistenciales, ayudas alimenticias,
 
 > <small>(DEROGADO POR EL TRANSITORIO PRIMERO DE LA LEY NÚMERO 699 QUE ESTABLECE EL DERECHO AL ACCESO DE ÚTILES ESCOLARES, ZAPATOS Y UNIFORMES GRATUITOS, PARA LAS NIÑAS Y LOS NIÑOS DE LOS NIVELES DE PREESCOLAR, PRIMARIA Y SECUNDARIA DEL ESTADO DE GUERRERO, P.O. 6 DE MARZO DE 2015; SE SUGIERE CONSULTAR TAMBIÉN DECRETO NÚMERO 836 DE 23 DE DICIEMBRE DE 2011, PÁGINA 17)</small>
 
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Las autoridades educativas del Estado, además de los programas señalados en el párrafo segundo del presente artículo, deberán establecer Programas de orientación vocacional, desde el nivel secundaria, tomando en cuenta en su elaboración, el entorno actual de la oferta educativa estatal y nacional, los perfiles adecuados de los docentes que les corresponderá impartirlos, las aptitudes y destrezas de los educandos, para el seguimiento estadístico y evaluación de los planes de acceso a los niveles medio superior y superior de la población escolar demandante.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+También corresponderá a las autoridades educativas del Estado, fomentar la cultura de la civilidad y del respeto de los derechos humanos, para prevenir, desde los sistemas educativos dirigidos a garantizar la protección de niñas, niños y adolescentes contra las diferentes formas de violencia, las adicciones, la trata de personas y otras conductas asociadas, con el objetivo de garantizar la sana convivencia escolar y el desarrollo armónico de los educandos.
+
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2011)</small>
 
 ARTICULO 33 BIS. - Se buscará que las escuelas indígenas de educación básica sean escuelas de tiempo completo y las Autoridades Educativas garantizarán los recursos para su adecuado funcionamiento. Atendiendo a las características de cada escuela y las necesidades reales de la población indígena se diseñarán las líneas de trabajo.
@@ -734,6 +754,10 @@ Además de las actividades enumeradas en el artículo anterior, el Ejecutivo Est
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
 El Instituto Nacional para la Evaluación de la Educación y las autoridades educativas locales de conformidad a los lineamientos que para tal efecto expida el Instituto, evaluarán en los ámbitos de sus competencias los resultados de calidad educativa de los programas compensatorios antes mencionados.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Corresponderá a la Secretaría de Educación Guerrero además de evaluar los resultados de los programas compensatorios, en coordinación con las autoridades educativas federales, el puntual seguimiento y evaluación de los resultados de los programas señalados en los artículos 14 y 33 de la presente Ley.
 
 ###### ARTICULO 35.
 
@@ -796,6 +820,10 @@ Se brindarán cursos a los docentes y al personal que labora en los planteles de
 > <small>(ADICIONADO, P.O. 14 DE MARZO DE 2014)</small>
 
 En caso de que las y los educadores así como las autoridades educativas locales, tengan conocimiento de la comisión de algún delito en agravio de las y los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+Para garantizar el desarrollo psico-emocional del educando, y fomentar el uso responsable de la red de navegación por internet de los dispositivos móviles, así como para prevenir la comisión de delitos relacionado con el uso de dichos dispositivos, queda limitado al interior de las escuelas, el uso de celulares, Tabletas electrónicas, o cualquier dispositivo móvil de comunicación y de navegación en internet, en los niveles Preescolar, Primaria y Secundaria, a excepción de cuando se requieran su uso para fines pedagógicos o de enseñanza determinado por el programa de estudios o por los docentes. Estos y los directivos de cada plantel educativo, con el apoyo de los padres de familia y de acuerdo a los lineamientos emitidos por la Secretaría de Educación Guerrero, implementaran las medidas necesarias para cumplir con esta disposición.
 
 ###### ARTICULO 43.
 
@@ -1985,7 +2013,7 @@ DÉCIMO PRIMERO.- Para el personal que regula la Ley General del Servicio profes
 
 P.O. 6 DE MARZO DE 2015.
 
-PRIMERO. Se deroga el último parrafo de la fracción XIV del artículo 33 de la Ley de Educación del Estado de Guerrero Número 158.
+PRIMERO. Se deroga el último párrafo de la fracción XIV del artículo 33 de la Ley de Educación del Estado de Guerrero Número 158.
 
 SEGUNDO. Se emite la presente la (sic) Ley que Establece el Derecho al Acceso de Útiles Escolares, Zapatos y Uniformes Gratuitos para las Niñas y los Niños de los niveles de Preescolar, Primaria y Secundaria del Estado de Guerrero.
 
@@ -2008,3 +2036,33 @@ SEGUNDO.- El Ejecutivo del Estado, a través de la Secretaría de Educación Gue
 TERCERO.- Remítase al Ejecutivo del Estado y al titular de la Secretaría de Educación Guerrero, para los efectos legales conducentes.
 
 CUARTO.- Publíquese en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 264 POR EL QUE SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFO DE LA FRACCIÓN VIII DEL ARTÍCULO 14, Y DOS PÁRRAFOS FINALES AL ARTÍCULO 33 Y UN TERCER PÁRRAFO AL ARTÍCULO 34 DE LA LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NÚMERO 158”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto al Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 265 POR EL QUE SE ADICIONAN LA FRACCIÓN XVI AL ARTÍCULO 7 Y UN PÁRRAFO CUARTO AL ARTÍCULO 42, DE LA LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NÚMERO 158”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo, para su conocimiento y efectos constitucionales y legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los seis meses posteriores a la entrada en vigor de este decreto de reforma, la Secretaría de Educación Guerrero, deberá emitir y publicar los lineamientos para regular el uso de los dispositivos electrónicos móviles de comunicación y navegación por internet, en las instalaciones de las escuelas mencionadas. En la emisión de estos Lineamientos, se debe tomar en cuenta la opinión de los padres de familia, investigadores del tema y organizaciones afines a la educación.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
