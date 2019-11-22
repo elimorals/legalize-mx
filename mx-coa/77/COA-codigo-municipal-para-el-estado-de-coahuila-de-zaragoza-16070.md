@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2019-10-22"
+last_updated: "2019-11-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -181,9 +181,9 @@ V. Acceder a las políticas públicas con perspectiva de género, con la finalid
 
 VI. Recibir de manera permanente la atención integral con perspectiva de género a través de los ayuntamientos y sus unidades administrativas designadas particularmente a erradicar las malas condiciones y situaciones en contra de las mujeres.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-VII. Los demás derechos que se deriven de los bandos de policía y buen gobierno, reglamentos o cualquiera otra disposición de carácter general, expedida por el Ayuntamiento.
+VII. Los demás derechos que se deriven de los bandos de policía y gobierno, reglamentos o cualquiera otra disposición de carácter general, expedida por el Ayuntamiento.
 
 ###### ARTÍCULO 20.
 
@@ -1119,9 +1119,13 @@ III. Presentar al Ayuntamiento iniciativas de bandos, reglamentos y demás dispo
 
 IV. Ser el conducto para presentar iniciativas de ley en materia municipal.
 
-V. Mandar publicar en la gaceta oficial del municipio o en el periódico oficial del Gobierno del Estado, los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones de observancia general, en los términos de la fracción V del artículo 176 de este código.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-VI. Cumplir y hacer cumplir las leyes, los bandos de policía y buen gobierno, los reglamentos y demás disposiciones legales del orden municipal, estatal y federal.
+V. Mandar publicar en la gaceta oficial del municipio o en el periódico oficial del Gobierno del Estado, los bandos de policía y gobierno, reglamentos, circulares y disposiciones de observancia general, en los términos de la fracción V del artículo 176 de este código.
+
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+VI. Cumplir y hacer cumplir las leyes, los bandos de policía y gobierno, los reglamentos y demás disposiciones legales del orden municipal, estatal y federal.
 
 VII. En los municipios que no tengan jueces municipales, imponer las sanciones que se deriven de las infracciones a este código, o a cualquier ordenamiento legal del municipio, en los casos y términos previstos por el capítulo V, del título décimo del presente código.
 
@@ -1205,7 +1209,9 @@ III. Las demás que le señalen las leyes o reglamentos.
 
 Son facultades, competencias y obligaciones de los regidores:
 
-I. Presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a las mismas, de conformidad con lo dispuesto en el título quinto de este código.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+I. Presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a las mismas, de conformidad con lo dispuesto en el título quinto de este código.
 
 II. Vigilar que se cumplan los acuerdos y disposiciones del Ayuntamiento.
 
@@ -1253,7 +1259,9 @@ VI. Solicitar y obtener del tesorero municipal, la información relativa a la ha
 
 VII. Asistir a los remates y licitaciones públicas en los que tenga interés el Municipio.
 
-VIII. Presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos, de conformidad con lo dispuesto en el título quinto de este código.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Presentar al Ayuntamiento iniciativas de reglamentos, bandos de policía y gobierno y demás disposiciones administrativas de observancia general o, en su caso, de reformas y adiciones a los mismos, de conformidad con lo dispuesto en el título quinto de este código.
 
 IX. Solicitar autorización expresa, en cada caso que se trate, al Ayuntamiento para desistirse, transigir, comprometerse en arbitrios o hacer cesión de bienes.
 
@@ -2131,9 +2139,9 @@ XI. Los artículos transitorios, en los cuales habrán de preverse las condicion
 
 La formulación, expedición, y publicación de los ordenamientos legales municipales se llevarán a cabo de conformidad con las siguientes bases normativas de carácter procesal:
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2019)</small>
 
-I. El derecho de iniciar el reglamento interior para la organización política del Municipio y los bandos de policía y buen gobierno, compete al presidente municipal, a los regidores y a los síndicos.
+I. El derecho de iniciar el reglamento interior para la organización política del Municipio y los bandos de policía y gobierno, compete al presidente municipal, a los regidores y a los síndicos.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -3975,9 +3983,11 @@ La creación de los juzgados municipales en los municipios semi-urbanos o rurale
 
 Los juzgados municipales tendrán competencia en el territorio del municipio; con una estructura ya sea unitaria o colegiada y la organización y los recursos que determine el reglamento que para este efecto expida el Ayuntamiento, de conformidad con este código.
 
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 383.
 
-Es competencia de los juzgados municipales calificar las conductas previstas en los reglamentos, bandos de policía y buen gobierno, circulares y disposiciones administrativas de observancia general de los municipios.
+Es competencia de los juzgados municipales calificar las conductas previstas en los reglamentos, bandos de policía y gobierno, circulares y disposiciones administrativas de observancia general de los municipios.
 
 ###### ARTÍCULO 384.
 
@@ -4111,9 +4121,11 @@ En ningún caso, la suspensión de acto podrá tener por efecto modificar o rest
 
 ### CAPÍTULO V. DE LAS INFRACCIONES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 399.
 
-A quienes infrinjan las disposiciones contenidas en este código, en los reglamentos, bandos de policía y buen gobierno y en general en cualesquier ordenamiento legal del Municipio, se les podrá imponer de manera separada o conjunta, las siguientes sanciones:
+A quienes infrinjan las disposiciones contenidas en este código, en los reglamentos, bandos de policía y gobierno y en general en cualesquier ordenamiento legal del Municipio, se les podrá imponer de manera separada o conjunta, las siguientes sanciones:
 
 I. Multa.
 
@@ -4762,3 +4774,11 @@ P.O. 22 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 363.- SE REFORMA EL NUMERAL 4 DE LA FRACCIÓN IX DEL ARTÍCULO 102, LA FRACCIÓN X DEL ARTÍCULO 103 Y SE ADICIONA LA FRACCIÓN XI AL ARTÍCULO 103 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 373.- SE REFORMAN LOS ARTÍCULOS 19, FRACCIÓN VII, 104, APARTADO A, FRACCIONES V Y VI; 105, FRACCIÓN I, 106, FRACCIÓN VIII, 176, FRACCIÓN I, 383 Y 399 PRIMER PÁRRAFO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
