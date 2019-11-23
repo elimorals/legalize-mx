@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2019-10-08"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -1747,9 +1747,13 @@ IX. La fuerza o miedo graves;
 
 X. No acreditar ante el Oficial del Registro Civil, que los interesados recibieron el curso prematrimonial, a que se hace referencia en el artículo anterior.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-De estos impedimentos sólo es dispensable el enunciado en la fracción III.
+De estos impedimentos sólo serán dispensables los enunciados en las fracciones III y VII.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+Para la dispensa del impedimento señalado en la fracción VII es necesario que ambos contrayentes acrediten el conocimiento previo de la existencia de la enfermedad o padecimiento, mediante un certificado emitido por alguna institución o médico especialista acreditado, donde se haga constar que ambos tienen conocimiento sobre los alcances, efectos y prevención de los mismos y manifiesten ante el Oficial del Registro Civil su consentimiento expreso para contraer matrimonio.
 
 ###### Art. 269.
 
@@ -2313,7 +2317,9 @@ I. La falta de edad en los consortes, requerida por la ley;
 
 II. El error acerca de la persona con quien se contrae; y
 
-III. Celebrarse concurriendo alguno de los impedimentos señalados en las fracciones de la V a la IX del artículo 268.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+III. Celebrarse concurriendo alguno de los impedimentos señalados en las fracciones de la V a la IX del artículo 268, salvo las excepciones establecidas en el propio artículo 268.
 
 ###### Art. 382.
 
@@ -2363,9 +2369,11 @@ El juez que tenga conocimiento de esta situación dictará las medidas necesaria
 
 El parentesco por consanguinidad no dispensado, ilegítima el matrimonio y la acción que nace de esta causa de ilegitimidad puede deducirse por los ascendientes de los cónyuges dentro de los siguientes sesenta días a la celebración del matrimonio; pero éste quedará revalidado y surtirá efectos desde el día de su celebración, si antes de causar ejecutoria la sentencia que declare la ilegitimidad, se obtuviere la dispensa.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Art. 391.
 
-La ilegitimidad que se funde en alguna de las causas de la fracción VII del artículo 268, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+La ilegitimidad que se funde en alguna de las causas de la fracción VII del Artículo 268, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio; sin embargo, si se acreditó el conocimiento previo y el consentimiento de ambas partes en los términos del propio artículo 268, no procederá dicha petición.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -19132,3 +19140,9 @@ P.O. 8 DE OCTUBRE DE 2019.
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
 
 Segundo. Se concede al Poder Ejecutivo un plazo de noventa días, a partir de la entrada en vigor del presente decreto, para que se realicen las adecuaciones necesarias al Reglamento de la ley del Registro Civil del Estado de Jalisco.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27570/LXII/19 QUE REFORMA LOS ARTÍCULOS 268, 381 Y 391 DEL CÓDIGO CIVIL Y EL ARTÍCULO 82 DE LA LEY DEL REGISTRO CIVIL, AMBOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
