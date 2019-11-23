@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-salud-del-estado-de-zacatecas-127081"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2019-08-24"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SALUD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -439,7 +439,9 @@ VII. Hacer aportaciones en dinero o en especie a las instituciones prestadoras d
 
 La atención a la salud materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I. La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+I. La atención integral y bajo un enfoque de derechos humanos a la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
 
 II. La atención de la transmisión del VIH/Sida y otras infecciones de transmisión sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
 
@@ -449,9 +451,17 @@ IV. La revisión de retina y tamiz auditivo al prematuro;
 
 V. La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
 
-VI. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida, y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-VII. La atención del niño y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar.
+VI. El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VII. La atención del niño y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar, y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VIII. La capacitación al personal de salud, a fin de brindar atención materna y perinatal segura, competente y respetuosa de los derechos humanos, mejorando la calidad y calidez en la prestación de servicios de atención de la mujer durante el embarazo, parto y puerperio.
 
 ###### ARTÍCULO 31.
 
@@ -469,9 +479,21 @@ III. Al menos un banco de leche humana en los establecimientos de salud que cuen
 
 IV. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años;
 
-V. Acciones de diagnóstico y atención temprana de la displasia en el desarrollo de cadera, durante el crecimiento y desarrollo de los menores de cinco años, y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-VI. Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio.
+V. Acciones de diagnóstico y atención temprana de la displasia en el desarrollo de cadera, durante el crecimiento y desarrollo de los menores de cinco años;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VI. Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VII. Acciones que permitan mejorar la calidez del personal de salud en la atención a las mujeres embarazadas en el proceso del parto y puerperio, además de generar confianza a través de la información continua a familiares y acompañantes de la usuaria del servicio, y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Acciones que favorezcan la disponibilidad de personal capacitado y sensibilizado para la atención pre gestacional, prenatal, parto, puerperio que sirva de apoyo a la mujer en este proceso, a fin de brindar una atención segura, competente y respetuosa de los derechos humanos.
 
 ###### ARTÍCULO 33.
 
@@ -931,7 +953,13 @@ IV. La realización de estudios epidemiológicos;
 
 V. La difusión permanente de las dietas, hábitos alimenticios y procedimientos que conduzcan al consumo efectivo de los mínimos de nutrimentos por la población general, recomendados por la propia Secretaría de Salud, y
 
-VI. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VI. La actualización permanente del Sistema de Información en Crónicas, a fin de garantizar el abasto de medicamentos conforme a Guías de Práctica Clínica y Normas Oficiales Mexicanas vigentes, promoviendo la participación e impulsando un enfoque multisectorial que incluya al gobierno, sector privado, académico, y sociedad civil, coadyuvando a la prevención, detección, tratamiento y control de las Enfermedades No Trasmisibles.
+
+(REUBICADA, P.O. 23 DE NOVIEMBRE DE 2019)
+
+VII. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos que se presenten en la población.
 
 ###### ARTÍCULO 84.
 
@@ -2378,3 +2406,15 @@ P.O. 24 DE AGOSTO DE 2019.
 PRIMERO.- La presente disposición entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan a la presente.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 168.- SE REFORMA EL ARTÍCULO 83, FRACCIÓN VI, DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS".]
+
+PRIMERO (SIC). El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 194.- SE REFORMAN VARIAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE ZACATECAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
