@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-cultura-fisica-y-deporte-del-estado-de-zacatecas-108775"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-17"
-last_updated: "2018-03-14"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2015.
 
@@ -81,7 +81,9 @@ X. Promover en la práctica de actividades físicas, recreativas y deportivas el
 
 XI. Garantizar a todas las personas sin distinción de género, edad, discapacidad, condición social, religión, salud, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen; y
 
-XII. Las personas con discapacidad no serán objeto de discriminación alguna y gozarán plenamente de todos los derechos enunciados en la Ley.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XII. Fomentar la inclusión y participación de las personas con discapacidad en la cultura física y las actividades deportivas, tanto en el ámbito amateur como profesional, así como evitar todo tipo de discriminación en estas actividades.
 
 ###### Artículo 3.
 
@@ -1348,3 +1350,11 @@ P.O. 14 DE MARZO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 219.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍDICA Y DEPORTE DEL ESTADO DE ZACATECAS".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 180.- SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 2 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+SEGUNDO. Se derogan todas las (sic) que se opongan al presente Decreto.
