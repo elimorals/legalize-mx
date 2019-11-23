@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-notariado-del-estado-de-jalisco-52031"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-26"
-last_updated: "2018-12-25"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "JAL"
 
 LEY DEL NOTARIADO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 25 DE DICIEMBRE DE 2018 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 27218/LXII/18 PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 26 de septiembre de 2006.
 
@@ -1923,7 +1921,9 @@ Se amonestará por escrito al notario cuando incurra en la violación a las sigu
 
 Se impondrá multa al notario, hasta un máximo de 200 veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción, cuando incurra en la violación de los artículos 63, 64, 67, 68, 69, 74, 94 y 119 de esta Ley.
 
-Los salarios mínimos que servirán de base para la cuantificación de la multa, serán los generales vigentes en la Zona Metropolitana en la fecha del pago de la sanción.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+El valor diario de la Unidad de Medida y Actualización servirá de base para la cuantificación de la multa en la fecha del pago de la sanción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -3080,3 +3080,9 @@ CUARTO. Todas las atribuciones previstas en cualquier ordenamiento que refiera o
 QUINTO. Las órdenes emitidas para practicar visitas de inspección a notarías públicas, así como las visitas en práctica que hasta antes de la entrada en vigor del presente decreto estaban siendo substanciadas por la Procuraduría Social, continuarán siendo desahogadas por la Secretaría General de Gobierno hasta su conclusión.
 
 Por su parte, los procedimientos de queja, así como cualquier trámite o procedimiento vinculado a la función notarial, que hasta antes de la entrada en vigor del presente Decreto estaban siendo substanciados por la Secretaría General de Gobierno, continuarán siendo tramitados por dicha Secretaría; y los trámites y procedimientos vinculados a la función notarial que den inicio de forma posterior a la entrada en vigor del presente decreto serán substanciados por la Consejería Jurídica del Poder Ejecutivo del Estado hasta su conclusión.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27523/LXII/19 QUE REFORMA EL ARTÍCULO 151 DE LA LEY DEL NOTARIADO DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
