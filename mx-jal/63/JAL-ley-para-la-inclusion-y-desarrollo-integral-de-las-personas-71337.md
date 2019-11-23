@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-inclusion-y-desarrollo-integral-de-las-personas-713
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2019-08-29"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el jueves 31 de diciembre de 2009.
 
@@ -1113,13 +1113,13 @@ Sólo las autoridades municipales podrán imponer multas al mal uso de los espac
 
 ## TITULO QUINTO. SANCIONES
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 75.
 
-Las violaciones a lo establecido en la presente Ley, su reglamento y demás disposiciones que de ésta emanen, serán sancionadas por las autoridades estatales y municipales, en el ámbito de su competencia, conforme a lo establecido en la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios.
+Las violaciones a lo establecido en la presente Ley, su reglamento y demás disposiciones que de ésta emanen, serán sancionadas por las autoridades estatales y municipales, en el ámbito de su competencia, conforme a lo establecido en la Ley del Procedimiento Administrativo del Estado de Jalisco.
 
-Las violaciones a la presente Ley por acciones u omisiones cometidas por los servidores públicos, en el ejercicio de sus funciones, serán sancionadas de conformidad a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+Las violaciones a la presente Ley por acciones u omisiones cometidas por los servidores públicos, en el ejercicio de sus funciones, serán sancionadas de conformidad a lo previsto en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1175,13 +1175,13 @@ Será competencia de los municipios, en los términos de la regulación municipa
 
 Los municipios darán vista al DIF Municipal, según sea el caso, cuando tuvieren conocimiento de infracciones a la fracción III.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 Será competencia de la Secretaría del Transporte y de los municipios aplicar las multas establecidas en la fracción II.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Será competencia de la Secretaría de Educación aplicar las multas establecidas en la fracción V. Cuando la infracción fuere cometida en un establecimiento de educación pública se aplicarán las sanciones administrativas establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+Será competencia de la Secretaría de Educación aplicar las multas establecidas en la fracción V. Cuando la infracción fuere cometida en un establecimiento de educación pública se aplicarán las sanciones administrativas establecidas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
@@ -1253,7 +1253,7 @@ LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 19 DE ENERO DE 2012.
 
@@ -1344,3 +1344,9 @@ P.O. 29 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27320/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27520/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y DE LA LEY PARA LA OPERACIÓN DE ALBERGUES, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
