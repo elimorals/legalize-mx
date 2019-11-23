@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2019-09-10"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -139,9 +139,9 @@ El Congreso del Estado aprobará a más tardar al día treinta de noviembre de c
 
 Si por cualquier circunstancia el Congreso del Estado no aprobara la Ley de Ingresos respectiva, se tendrá como ley de ingresos aprobada para ese determinado ejercicio fiscal, la ley de ingresos que se hubiere aprobado para el ejercicio fiscal inmediato anterior.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Para la elaboración de presupuestos y control de las erogaciones municipales, se estará a lo que disponga la Ley Reglamentaria del Titulo Quinto de la Constitución Política del Estado de Jalisco, La Ley de Fiscalización Superior y de Auditoría Pública del Estado de Jalisco y demás ordenamientos.
+Para la elaboración de presupuestos y control de las erogaciones municipales, se estará a lo que disponga la Ley Reglamentaria del Titulo Quinto de la Constitución Política del Estado de Jalisco, La Ley de Fiscalización Superior Rendición de Cuentas del Estado de Jalisco y sus Municipios y demás ordenamientos.
 
 ###### Art. 16.
 
@@ -1015,7 +1015,9 @@ Los contribuyentes de este impuesto, simultáneamente a la presentación de su s
 
 Es objeto del impuesto predial, según el caso, la propiedad, la copropiedad, el condominio, la posesión, el usufructo y el derecho de superficie de predios, así como de las construcciones edificadas sobre los mismos.
 
-Para los efectos de este impuesto, se estará a las definiciones que sobre diversos conceptos contiene la Ley de Catastro Municipal.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+Para los efectos de este impuesto, se estará a las definiciones que sobre diversos conceptos contiene la Ley de Catastro Municipal del Estado de Jalisco.
 
 ###### Art. 93.
 
@@ -1063,11 +1065,13 @@ VIII. Si el causante acepta tanto los valores como los datos proporcionados por 
 
 IX. Cuando el causante no acepte los valores o alguno de los datos proporcionados por la autoridad catastral, podrá solicitar la rectificación de los mismos;
 
-X. Si la resolución emitida por la autoridad catastral con motivo de la rectificación solicitada por el causante tampoco fuere aceptada, el contribuyente podrá presentar ante la Tesorería Municipal, un avalúo por su cuenta y costo, que comprenda las características particulares del inmueble a valor real, y que sea realizado por perito valuador acreditado en los términos de la Ley de Catastro Municipal;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
+X. Si la resolución emitida por la autoridad catastral con motivo de la rectificación solicitada por el causante tampoco fuere aceptada, el contribuyente podrá presentar ante la Tesorería Municipal, un avalúo por su cuenta y costo, que comprenda las características particulares del inmueble a valor real, y que sea realizado por perito valuador acreditado en los términos de la Ley de Catastro Municipal del Estado de Jalisco;
 
-XI. Si el contribuyente incumple con lo establecido en las fracciones I, II, III y IV de este artículo, o bien los valores declarados y determinados sean inferiores a los valores de mercado, la Tesorería Municipal procederá a determinar el valor fiscal del predio y construcciones, con base en los datos del inmueble que proporcione la autoridad catastral, aplicando las tablas de valores unitarios aprobados por el Congreso del Estado, y publicados en los términos de la Ley de Catastro Municipal; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XI. Si el contribuyente incumple con lo establecido en las fracciones I, II, III y IV de este artículo, o bien los valores declarados y determinados sean inferiores a los valores de mercado, la Tesorería Municipal procederá a determinar el valor fiscal del predio y construcciones, con base en los datos del inmueble que proporcione la autoridad catastral, aplicando las tablas de valores unitarios aprobados por el Congreso del Estado, y publicados en los términos de la Ley de Catastro Municipal del Estado de Jalisco; y
 
 > <small>(REFORMADA, P.O. 25 DE JULIO DE 2000)</small>
 
@@ -1079,7 +1083,9 @@ XII. La aprobación y publicación de las tablas de valores unitarios a que se r
 
 La base del impuesto se cambiará:
 
-I. Cuando proceda la revaluación del predio, con construcciones o sin ellas, por efecto de alguna de las causas establecidas en la Ley de Catastro Municipal; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+I. Cuando proceda la revaluación del predio, con construcciones o sin ellas, por efecto de alguna de las causas establecidas en la Ley de Catastro Municipal del Estado de Jalisco; y
 
 II. Cuando por cualquier circunstancia el valor fiscal con que esté registrado un predio, sea inferior o superior en un 25 por ciento con respecto al valor real, previo dictamen practicado por la autoridad catastral municipal.
 
@@ -1215,9 +1221,9 @@ III. De urbanización de predios; y
 
 IV. De fusión, subdivisión y relotificación de predios.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Se tendrán por cumplidas estas obligaciones, respecto a la fracción I, con la presentación de los avisos exigidos por esta Ley, para el pago del impuesto sobre transmisiones patrimoniales; y para las fracciones II, III y IV, con los avisos que señale la Ley de Catastro Municipal.
+Se tendrán por cumplidas estas obligaciones, respecto a la fracción I, con la presentación de los avisos exigidos por esta ley, para el pago del impuesto sobre transmisiones patrimoniales; y para las fracciones II, III y IV, con los avisos que señale la Ley de Catastro Municipal del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1997)</small>
 
@@ -1327,7 +1333,9 @@ Tratándose de la transmisión, cualquiera que sea la forma en que se haga, de i
 
 Por lo que ve al destino o uso del inmueble materia de la operación, el adquiriente lo manifestará en el contrato o escritura pública, bajo protesta de decir verdad; en caso que manifieste destino o uso habitacional unifamiliar y posteriormente lo destine a otro uso o fin diverso, el adquiriente deberá pagar el diferencial, de haberlo, con actualización y recargos correspondientes, conforme a lo dispuesto en los incisos a) y b) que anteceden.
 
-II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, deberá presentarse avalúo practicado por perito valuador acreditado o dictamen de valor elaborado por la autoridad catastral, conforme a las disposiciones de la Ley de Catastro Municipal;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+II. Tratándose de inmuebles que no cuenten con accesorios o instalaciones especiales, deberá presentarse avalúo practicado por perito valuador acreditado o dictamen de valor elaborado por la autoridad catastral, conforme a las disposiciones de la Ley de Catastro Municipal del Estado de Jalisco;
 
 III. Tratándose de inmuebles que cuenten con accesorios o instalaciones especiales, deberá practicarse avalúo por perito valuador acreditado;
 
@@ -1335,7 +1343,9 @@ IV. Los peritos valuadores acreditados deberán presentar sus avalúos ante la a
 
 V. Si las autoridades advierten que los avalúos consignan valores inferiores a los reales, se practicará nuevo avalúo por un perito valuador acreditado, con cargo a la Tesorería Municipal correspondiente, a efecto de dar cumplimiento a lo dispuesto en la fracción II de este artículo;
 
-VI. Cuando el contribuyente considere que el dictamen de valor asignado al inmueble, con base en lo preceptuado en la fracción I de este artículo, es superior al valor real, podrá solicitar la reclasificación de los datos catastrales, a fin de que la autoridad catastral haga la ratificación o rectificación según corresponda, en los términos de la Ley de Catastro Municipal;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VI. Cuando el contribuyente considere que el dictamen de valor asignado al inmueble, con base en lo preceptuado en la fracción I de este artículo, es superior al valor real, podrá solicitar la reclasificación de los datos catastrales, a fin de que la autoridad catastral haga la ratificación o rectificación según corresponda, en los términos de la Ley de Catastro Municipal del Estado de Jalisco;
 
 VII. Cuando la autoridad catastral considere que el avalúo presentado para su revisión es coincidente con los valores reales, y éstos sean inferiores a los valores de tablas, estará facultada para emitir un dictamen, fundado y motivado, mediante el cual apruebe el avalúo correspondiente;
 
@@ -1359,11 +1369,11 @@ XIV. En el caso de municipios que no cuenten con tablas de valores actualizadas,
 
 El impuesto sobre transmisiones patrimoniales se causará y liquidará aplicando la tasa o tarifa que establezca la ley de ingresos de cada municipio a la base determinada conforme a las disposiciones del artículo 114 de esta ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Art. 116.
 
-El pago de este impuesto deberá efectuarse ante la tesorería municipal respectiva y, en su caso, ante las oficinas recaudadoras de la Secretaría de Planeación, Administración y Finanzas del gobierno del Estado, dentro de los dos meses siguientes a la fecha del documento en que se haga constar el hecho, acto o contrato correspondiente, o en la que se verifique el suceso o el supuesto preestablecido en el documento constitutivo del acto jurídico.
+El pago de este impuesto deberá efectuarse ante la tesorería municipal respectiva y, en su caso, ante las oficinas recaudadoras de la Secretaría de la Hacienda Pública del gobierno del Estado, dentro de los dos meses siguientes a la fecha del documento en que se haga constar el hecho, acto o contrato correspondiente, o en la que se verifique el suceso o el supuesto preestablecido en el documento constitutivo del acto jurídico.
 
 Para los efectos del pago del impuesto en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de bienes ubicados en el municipio, el adquirente, dentro del término establecido en el párrafo anterior, dará aviso por escrito, acompañando copia de la adquisición o contrato, a las autoridades fiscales competentes, en cuya jurisdicción se encuentren ubicados los inmuebles.
 
@@ -2031,9 +2041,11 @@ Ningún bien mueble podrá ser dado de baja, sin el previo acuerdo del Ayuntamie
 
 ### CAPITULO III. Cementerios
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Art. 184.
 
-La inhumación de cadáveres solamente podrá hacerse en los Cementerios Municipales, salvo las concesiones que en los términos de la Ley Orgánica Municipal otorguen los Ayuntamientos a los particulares para la prestación de este Servicio Público.
+La inhumación de cadáveres solamente podrá hacerse en los cementerios municipales, salvo las concesiones que en los términos de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco otorguen los ayuntamientos a los particulares para la prestación de este servicio público.
 
 ###### Art. 185.
 
@@ -2231,11 +2243,11 @@ Dichos indicadores de desempeño corresponderán a un índice, medida, cociente 
 
 La elaboración del presupuesto deberá realizarse por cada año calendario, en base a costos.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Art. 203.
 
-Las actividades de revisión y evaluación del gasto público municipal, estarán a cargo de la Auditoría Superior y el Congreso del Estado, de conformidad con la Constitución Política y la Ley de Fiscalización Superior y de Auditoría Pública, ambos ordenamientos del Estado de Jalisco.
+Las actividades de revisión y evaluación del gasto público municipal, estarán a cargo de la Auditoría Superior y el Congreso del Estado, de conformidad con la Constitución Política y la Ley de Fiscalización Superior y Rendición de Cuentas, ambos ordenamientos del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -2377,7 +2389,9 @@ XV. Los resultados de las finanzas públicas que abarquen un periodo de los tres
 
 XVI. En general, toda información que se considere útil para mostrar la propuesta en forma clara y completa.
 
-La proyección y resultados a que se refiere (sic) las fracciones VII y XV, comprenderán sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría de Planeación, Administración y Finanzas para cumplir con lo previsto en este artículo.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+La proyección y resultados a que se refiere (sic) las fracciones VII y XV, comprenderán sólo un año para el caso de los Municipios con una población menor a 200,000 habitantes, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía. Dichos Municipios contarán con el apoyo técnico de la Secretaría de la Hacienda Pública para cumplir con lo previsto en este artículo.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ABRIL DE 2017)</small>
 
@@ -2545,11 +2559,11 @@ A solicitud de la Auditoría Superior, el encargado de la hacienda municipal inf
 
 El encargado de la hacienda municipal está obligado a proporcionar a la a (sic) Auditoría Superior la información que se le solicite y a permitir la práctica de visitas, inspecciones y auditorías necesarias, que éste determine, para el esclarecimiento de los hechos.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Art. 228.
 
-Si el encargado de la hacienda municipal se negare a proporcionar la información solicitada por la Auditoria Superior del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público, ni permitiera la práctica de visitas, inspecciones y auditorías, la Auditoría Superior del Estado resolverá lo conducente y en los términos de la Ley de Fiscalización Superior y de Auditoría Pública del Estado de Jalisco.
+Si el encargado de la hacienda municipal se negare a proporcionar la información solicitada por la Auditoria Superior del Estado, o no permitiera la revisión de los libros, instrumentos y documentos comprobatorios y justificativos del ingreso y del gasto público, ni permitiera la práctica de visitas, inspecciones y auditorías, la Auditoría Superior del Estado resolverá lo conducente y en los términos de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus Municipios.
 
 ### CAPITULO II. De la Contabilidad
 
@@ -2583,15 +2597,11 @@ El encargado de la hacienda municipal suministrará a la Auditoría Superior la 
 
 La Auditoría Superior determinará la forma y términos en que el encargado de la hacienda municipal deberá llevar a cabo sus registros auxiliares y contabilidad y, en su caso, rendir sus informes y cuentas para fines de contabilización y consolidación. Asimismo, examinará periódicamente el funcionamiento del sistema y los procedimientos de contabilidad de cada dependencia de hacienda municipal y podrá autorizar sus modificaciones o simplificación y adecuarlas a las disposiciones federales que expida el Congreso de la Unión.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
-
-###### Artículo 235.
-
-Los estados financieros y demás información financiera y contable que emanen de la contabilidad de las haciendas municipales, serán consolidados por la Auditoría Superior del Estados (sic) y enviados al Congreso del Estado de conformidad con la Ley de Fiscalización Superior del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Art. 235.
 
-Los estados financieros y demás información financiera y contable que emanen de la contabilidad de las tesorerías municipales, serán consolidados por la Auditoría Superior del Estado, y sometidos a la consideración del Congreso del Estado.
+Los estados financieros y demás información financiera y contable que emanen de la contabilidad de las haciendas municipales, serán consolidados por la Auditoría Superior del Estados (sic) y enviados al Congreso del Estado de conformidad con la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus Municipios.
 
 ## TITULO CUARTO. De las Responsabilidades
 
@@ -2631,15 +2641,11 @@ II. A los particulares; sean personas físicas o morales, cuando aprovechándose
 
 Las responsabilidades que se constituyan a cargo de los servidores públicos, no eximen ni a las empresas privadas ni a los particulares, de sus obligaciones derivadas de la responsabilidad incurrida, cuyo cumplimiento se les exigirá, aún cuando la responsabilidad en que se hubiese incurrido fuese total o parcial.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
-
-###### Artículo 240.
-
-Si de la revisión de la cuenta pública de la hacienda municipal, se determinasen responsabilidades, la Auditoría Superior del Estado, realizará las acciones que correspondan en los términos de la Ley de Fiscalización Superior y de Auditoría Pública del Estado.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Art. 240.
 
-Si de la revisión de la cuenta pública de la Hacienda Municipal, se determinasen responsabilidades, la Auditoría Superior del Estado dará cuenta al Congreso del Estado a través de la Comisión de Inspección, para el ejercicio de las acciones que correspondan.
+Si de la revisión de la cuenta pública de la hacienda municipal, se determinasen responsabilidades, la Auditoría Superior del Estado, realizará las acciones que correspondan en los términos de la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Jalisco y sus Municipios.
 
 # LIBRO QUINTO. De los Procedimientos y Recursos
 
@@ -2971,11 +2977,11 @@ VIII. El depositario interventor que tuviere conocimiento de irregularidades en 
 
 Si las medidas urgentes que dicten los depositarios interventores en los casos previstos en la frac. VIII del artículo anterior, no fuesen acatadas por el deudor o el personal de la negociación secuestrada, la Tesorería Municipal ordenará de plano que el depositario interventor se convierta en administrador, o sea substituido por un depositario administrador, quien tomará posesión de su cargo desde luego.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Art. 276.
 
-El embargo de derechos reales o posesorios sobre bienes inmuebles o de negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad y del Comercio y en la Dirección de Catastro de la Secretaría de Planeación, Administración y Finanzas del Estado.
+El embargo de derechos reales o posesorios sobre bienes inmuebles o de negociaciones de cualquier género, se inscribirá en el Registro Público de la Propiedad y del Comercio y en la Dirección de Catastro de la Secretaría de la Hacienda Pública del Estado.
 
 La inscripción en la última Dependencia se verificará, cuando no se encuentren registrados los bienes en la primera. Cuando los bienes raíces o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público de la Propiedad y del Comercio, o Delegaciones de Catastro, en todas ellas se inscribirá el secuestro.
 
@@ -3941,6 +3947,12 @@ P.O. 11 DE MAYO DE 2019.
 
 P.O. 10 DE SEPTIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 27334/LXII/19 QUE REFORMA EL ARTÍCULO 114 DE LA LEY DE HACIENDA MUNICIPAL EL ESTADO DE JALISCO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 27334/LXII/19 QUE REFORMA EL ARTÍCULO 114 DE LA LEY DE HACIENDA MUNICIPAL EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor a los 30 días de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27397/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
