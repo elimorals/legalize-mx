@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-administracion-y-destino-de-bienes-asegurados-11047
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-28"
-last_updated: "2015-10-28"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS, DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 28 de octubre de 2015.
 
@@ -33,7 +33,9 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES CONFERIDAS POR EL ARTÍCULO 36, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO, Y CON BASE EN LOS SIGUIENTES:
 
-CONSIDERANDOS...
+CONSIDERANDOS
+
+[...]
 
 OCTAVO.- Que en virtud de lo anterior y tomando en cuenta que el Honorable Congreso del Estado, de conformidad con lo dispuesto por el artículo 36, fracción I de la Constitución Política Local, se encuentra facultado para expedir, reformar, adicionar, derogar y abrogar las leyes y decretos para la mejor administración del Estado, planeando su desarrollo económico y social. Por lo que se emite y somete a consideración del Pleno el siguiente:
 
@@ -67,7 +69,9 @@ Para efectos de esta Ley, se entenderá por:
 
 I. Aprovechamientos: Los ingresos que bajo esa denominación percibe el Estado conforme a lo dispuesto por la Ley de Hacienda del Estado de Tabasco;
 
-II. Autoridad Administrativa: La Secretaría de Seguridad Pública y las Direcciones de Tránsito Municipales, así como aquellas otras autoridades de orden administrativo, estatal o municipal establecidas en las leyes, entre cuyas atribuciones se hallen las de realizar aseguramientos distintos de los relacionados con los procedimientos penales;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+II. Autoridad Administrativa: La Secretaría de Seguridad y Protección Ciudadana y las Direcciones de Tránsito Municipales, así como aquellas otras autoridades de orden administrativo, estatal o municipal establecidas en las leyes, entre cuyas atribuciones se hallen las de realizar aseguramientos distintos de los relacionados con los procedimientos penales;
 
 III. Autoridad Jurisdiccional: Los órganos jurisdiccionales competentes para instruir los procedimientos penales o administrativos, en los términos establecidos por la legislación aplicable;
 
@@ -95,9 +99,19 @@ XIV. Reglamento: El Reglamento de la Ley para la Administración y Destino de Bi
 
 XV. Representante Legal: El encargado de la representación jurídica del interesado, mediante poder otorgado por el mismo;
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XV Bis. Secretaría: La Secretaría de Administración e Innovación Gubernamental;
+
 XVI. Servicio Estatal de Administración: El Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco; y
 
-XVII. Tribunal: El Tribunal de lo Contencioso Administrativo del Estado de Tabasco.
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XVI Bis. Titular: Al titular del Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados del Estado de Tabasco;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XVII. Tribunal: El Tribunal de Justicia Administrativa del Estado de Tabasco.
 
 ###### Artículo 4.
 
@@ -127,7 +141,9 @@ Las notificaciones personales surtirán sus efectos el día hábil siguiente al 
 
 Exención.
 
-Las publicaciones en el Periódico Oficial del Estado, así como las anotaciones y las inscripciones en el Instituto Registral del Estado u otros registros públicos, que ordene la autoridad con motivo de la aplicación de la presente Ley, estarán exentas del pago de los derechos correspondientes.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+Las publicaciones en el Periódico Oficial del Estado, así como las anotaciones y las inscripciones en la Dirección General del Registro Público de la Propiedad y del Comercio u otros registros públicos, que ordene la autoridad con motivo de la aplicación de la presente Ley, estarán exentas del pago de los derechos correspondientes.
 
 ### CAPÍTULO SEGUNDO. DEL SERVICIO ESTATAL DE ADMINISTRACIÓN
 
@@ -135,13 +151,19 @@ Las publicaciones en el Periódico Oficial del Estado, así como las anotaciones
 
 Servicio Estatal de Administración.
 
-El Servicio Estatal de Administración es un órgano desconcentrado de la Secretaría de Administración, con autonomía técnica, operativa y presupuestal, el cual tendrá a su cargo administrar y, en su caso, determinar el destino final de los bienes asegurados, abandonados o decomisados, en los supuestos previstos en la Ley, el Código Nacional y demás disposiciones aplicables. Será presidido por el Titular del órgano desconcentrado. Su autoridad superior de consulta, decisión y supervisión será el Órgano de Gobierno.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-En su funcionamiento, el Servicio Estatal de Administración se regirá por los principios de eficiencia, honestidad, imparcialidad, legalidad, lealtad y transparencia.
+El Servicio Estatal de Administración es un organismo público descentralizado del Poder Ejecutivo del Estado de Tabasco, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría, el cual tendrá a su cargo administrar y, en su caso, determinar el destino final de los bienes asegurados, abandonados o decomisados, en los supuestos previstos en la Ley, el Código Nacional y demás disposiciones aplicables. Al frente del Servicio Estatal de Administración estará su Titular. El Órgano de Gobierno será su autoridad superior de consulta, decisión y supervisión.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+En su funcionamiento, el Servicio Estatal de Administración se regirá por los principios de racionalidad, austeridad, honestidad, legalidad, transparencia, disciplina presupuestal, eficiencia y eficacia administrativa.
 
 En el Reglamento de la presente Ley se desarrollarán los sistemas de control y registro, procedimientos y demás lineamientos necesarios para garantizar la adecuada administración, guarda y custodia de los bienes que sean puestos a disposición del Servicio Estatal de Administración, derivados de procedimientos de orden penal o administrativo.
 
 Lo anterior, sin demérito de los instrumentos de índole reglamentaria o administrativa que en uso de sus respectivas atribuciones emitan los entes públicos que correspondan.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 7.
 
@@ -149,27 +171,41 @@ Integración del Órgano de Gobierno del Servicio Estatal de Administración.
 
 El Órgano de Gobierno estará integrado por:
 
-I. El Secretario de Administración, quien lo presidirá;
+I. El titular de la Secretaría, quien lo presidirá;
 
-II. El Secretario de Planeación y Finanzas;
+II. El titular de la Secretaría de Finanzas;
 
-III. El Secretario de Salud;
+III. El titular de la Coordinación General de Asuntos Jurídicos;
 
-IV. El Secretario de Seguridad Pública; y
+IV. El titular de la Secretaría de Seguridad y Protección Ciudadana;
 
-V. El Titular del Servicio Estatal de Administración, que fungirá como su Secretario Técnico; asistirá a las sesiones del Órgano de Gobierno con voz pero sin voto.
+IV Bis. El titular de la Secretaría de la Función Pública, en su calidad de Comisario, quien tendrá derecho a voz pero sin voto; y
 
-Los integrantes del Órgano de Gobierno, con excepción del Titular del Servicio Estatal de Administración, podrán nombrar a sus respectivos suplentes, quienes deberán tener un nivel no menor a Subsecretario.
+V. El Titular, quien fungirá como Secretario Técnico, con derecho a voz pero sin voto.
 
-El Secretario Técnico tendrá la representación del Órgano de Gobierno para todos los efectos legales.
+Los integrantes del Órgano de Gobierno, con excepción del Titular, podrán nombrar a sus respectivos suplentes, quienes deberán tener un nivel no menor a Director.
 
-Serán invitados permanentes a las sesiones del Órgano de Gobierno, con voz pero sin voto, el Poder Judicial del Estado, representado por el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura; y la Fiscalía General del Estado, representada por el Fiscal General. Cada uno podrá designar como suplente a un Consejero de la Judicatura o a un Vice fiscal, según corresponda. También asistirá a dichas sesiones, de forma permanente, el titular del órgano de control interno del Servicio Estatal de Administración.
+Serán invitados permanentes a las sesiones del Órgano de Gobierno, con voz pero sin voto, el Poder Judicial del Estado, representado por el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura; y la Fiscalía General del Estado, representada por el Fiscal General. Cada uno podrá designar como suplente a un Consejero de la Judicatura o a un Vicefiscal, según corresponda. También asistirá a dichas sesiones, de forma permanente, el titular del Órgano Interno de Control del Servicio Estatal de Administración.
 
 ###### Artículo 8.
 
 Sesiones.
 
 El Órgano de Gobierno sesionará cuando menos cada tres meses en forma ordinaria, y de manera extraordinaria cuando así resulte necesario. Sus reuniones serán válidas con la presencia de por lo menos cuatro de sus integrantes. Las resoluciones se tomarán por mayoría de votos presentes. El Presidente tendrá voto de calidad para el caso de empate.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 8 Bis.
+
+El Secretario Técnico tendrá las siguientes atribuciones:
+
+I. Elaborar el proyecto del orden del día de las sesiones del Órgano de Gobierno;
+
+II. Llevar el registro de los acuerdos que se tomen en las sesiones;
+
+III. Ejecutar los acuerdos y disposiciones que el Órgano de Gobierno ordene por conducto de su Presidente; y
+
+IV. Las demás que les sean otorgadas por las disposiciones normativas aplicables.
 
 ###### Artículo 9.
 
@@ -185,25 +221,63 @@ III. Nombrar y remover depositarios, administradores o interventores, con carác
 
 IV. Solicitar, examinar y aprobar los informes generales y periódicos que deba rendir el Titular del Servicio Estatal de Administración, o los específicos que se requieran, relacionados con la operación del servicio, la administración y manejo de los bienes objeto de la Ley, así como sobre el desempeño de los depositarios, interventores o administradores que se hubieren designado;
 
-V. Constituir, entre sus integrantes, comités o grupos de trabajo para la realización de estudios y demás acciones que el propio Órgano les encomiende, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+V. Constituir, entre sus integrantes, comités o grupos de trabajo para la realización de estudios y demás acciones que el propio Órgano de Gobierno les encomiende, en el ámbito de su competencia;
 
 VI. Supervisar que el Registro Público de Bienes Asegurados a que se refiere el Artículo 16 de la Ley, se encuentre debidamente actualizado y disponible;
 
-VII. Aprobar su Reglamento de sesiones, así como el Reglamento Interior del Servicio Estatal de Administración, ambos a propuesta de su Presidente; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Las demás que se le confieran en la Ley y otras disposiciones jurídicas aplicables.
+VII. Aprobar el proyecto del Estatuto Orgánico del Servicio Estatal de Administración, a propuesta del Titular;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Elaborar y aprobar los programas que sean propuestos por el Titular y que sean necesarios para el correcto funcionamiento del Servicio Estatal de Administración;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+IX. Aprobar el proyecto de presupuesto anual, informes de actividades y estados financieros trimestrales y anuales que le presente el Titular;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+X. Conocer los informes, dictámenes y recomendaciones del titular del Órgano Interno de Control y en su caso del Auditor Externo;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XI. Aprobar los Manuales de Organización, Procedimientos y de Servicios al Público del Servicio Estatal de Administración, así como de las reformas que sean procedentes;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XII. Aprobar la designación de los servidores públicos de nivel jerárquico inmediato inferior al Titular a propuesta de este, con excepción de aquellos nombramientos, que por disposición legal no le correspondan;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XIII. Conocer los Acuerdos y Convenios de Colaboración, Concertación y Coordinación suscritos por el Titular, en representación del Servicio Estatal de Administración;
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XIV. Autorizar al Titular, para que bajo su más estricta responsabilidad, realice los procedimientos de enajenación que establece la Ley; y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XV. Las demás que sean necesarias para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 10.
 
-Nombramiento del Titular del Servicio Estatal de Administración.
+Nombramiento del Titular
 
-El Titular del Servicio Estatal de Administración será nombrado por el Gobernador del Estado, a propuesta del Secretario de Administración.
+El Titular será nombrado por el Gobernador del Estado, a propuesta del titular de la Secretaría.
 
 ###### Artículo 11.
 
 Requisitos.
 
-El Titular del Servicio Estatal de Administración deberá reunir los requisitos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+El Titular deberá reunir los requisitos siguientes:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -213,39 +287,73 @@ III. Gozar de buena reputación y no haber sido condenado por delito doloso que 
 
 IV. Poseer el día de la designación, cédula profesional, indistintamente, de Licenciatura en Contaduría Pública, Derecho, Economía, Administración, o de cualquier otra profesión relacionada con las actividades de administración, expedida por autoridad o institución legalmente facultada para ello.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 12.
 
-Atribuciones.
+Atribuciones
 
-El Titular del Servicio Estatal de Administración tendrá las facultades siguientes:
+El Titular tendrá las atribuciones siguientes:
 
-Apartado A. En su calidad de Administrador:
+I. Representar legalmente al Servicio Estatal de Administración en las controversias que se susciten por causa del ejercicio de sus funciones, ante cualquier autoridad, quien podrá delegar o sustituir por escrito de forma conjunta y mancomunada con el titular de la Coordinación General de Asuntos Jurídicos, la representación jurídica del Servicio Estatal de Administración en los asuntos en materia penal, civil, laboral, administrativa, fiscal y autoral, de acuerdo con la legislación aplicable;
 
-I. Representar legalmente al Servicio Estatal de Administración, pudiendo delegar tal representación en apoderado legal, en los casos que resulte pertinente, conforme al Reglamento;
+II. Coordinar el resguardo, conservación y administración de los bienes que sean puestos a disposición del Servicio Estatal de Administración, de conformidad con las disposiciones jurídicas aplicables;
 
-II. Coordinar el resguardo, conservación y administración de los bienes que sean puestos a disposición del Servicio Estatal de Administración de conformidad con las disposiciones jurídicas aplicables;
+III. Nombrar y remover, de manera provisional, depositarios, interventores o administradores de los bienes y someter a consideración del Órgano de Gobierno la resolución definitiva, en la siguiente sesión que celebre dicho Órgano;
 
-III. Nombrar y remover, de manera provisional, depositarios, interventores o administradores de los bienes y someter a consideración del Órgano de Gobierno la resolución definitiva, en la sesión siguiente que celebre dicho Órgano;
+IV. Determinar el lugar o lugares y la forma en que serán custodiados y conservados los Bienes Asegurados, conforme a su naturaleza y particularidades;
 
-IV. Determinar el lugar o lugares y la forma en que serán custodiados y conservados los Bienes Asegurados, de acuerdo a su naturaleza y particularidades;
+V. Dirigir y coordinar las actividades del Servicio Estatal de Administración, de conformidad con lo dispuesto en la Ley y los demás ordenamientos jurídicos aplicables;
 
-V. Rendir los informes previos y justificados en los juicios de amparo, cuando el Servicio Estatal de Administración sea señalado como autoridad responsable;
+VI. Integrar y administrar la Base de Datos del Registro Público de Bienes Asegurados y dar seguimiento a las inscripciones o cancelaciones en los registros públicos correspondientes, que al efecto ordenen la autoridad jurisdiccional o el Ministerio Público;
 
-VI. Dirigir y coordinar las actividades del Servicio Estatal de Administración, de conformidad con lo dispuesto en la Ley y en los acuerdos que al efecto apruebe el Órgano;
+VII. Solicitar, examinar y aprobar los informes relacionados con la administración y manejo de Bienes Asegurados que deban rendir los depositarios, interventores y administradores;
 
-VII. Integrar y administrar la Base de Datos del Registro Público de Bienes Asegurados y dar seguimiento a las inscripciones o cancelaciones en los registros públicos correspondientes, que al efecto ordenen la autoridad jurisdiccional o el Ministerio Público;
+VIII. Presentar los informes relacionados con el estado legal y material que guarden los bienes puestos a disposición del Servicio Estatal de Administración, en las sesiones del Órgano de Gobierno, cuando le sea solicitado;
 
-VIII. Solicitar, examinar y aprobar los informes relacionados con la administración y manejo de Bienes Asegurados que deban rendir los depositarios, interventores y administradores; y
+IX. Presentar al Órgano de Gobierno los informes y estados financieros trimestrales, acompañados de los comentarios que al efecto formulen el titular del Órgano Interno de Control o, en su caso, el Auditor Externo;
 
-IX. Las demás que le correspondan, de conformidad con las leyes y normas aplicables.
+X. Proponer al Órgano de Gobierno las personas que ocuparán los cargos de nivel jerárquico inmediato inferior del Servicio Estatal de Administración, salvo aquellos que por disposición de ley no le correspondan, así como nombrar y remover a los demás servidores públicos que lo integren;
 
-Apartado B. En su calidad de Secretario Técnico:
+XI. Dirigir las relaciones laborales del Servicio Estatal de Administración, conforme con las disposiciones legales aplicables;
 
-I. Asistir, a las sesiones del Órgano de Gobierno con voz pero sin voto;
+XII. Celebrar los convenios, acuerdos, contratos administrativos, así como ejecutar los actos administrativos y jurídicos que sean indispensables para el cumplimiento de los objetivos del Servicio Estatal de Administración;
 
-II. Preparar el orden del día de las sesiones del Órgano de Gobierno y dar seguimiento a sus acuerdos; y
+XIII. Actuar en representación del Servicio Estatal de Administración con facultades generales para actos de administración, de dominio, para pleitos y cobranzas, así como aquellos que requieran cláusula especial conforme a las leyes. Para enajenar o gravar bienes muebles o inmuebles propiedad del Servicio Estatal de Administración, el Titular deberá contar con la autorización previa del Órgano de Gobierno y cumplir con las disposiciones aplicables a los bienes del sector público;
 
-III. Rendir en las sesiones del Órgano de Gobierno, los informes relacionados con el estado legal y material que guarden los bienes puestos a disposición del Servicio Estatal de Administración, cuando le sea solicitado.
+XIV. Elaborar anualmente el informe de actividades del Servicio Estatal de Administración y someterlo a la aprobación del Órgano de Gobierno;
+
+XV. Proponer al Órgano de Gobierno el proyecto de Estatuto Orgánico del Servicio Estatal de Administración;
+
+XVI. Fungir como Secretario Técnico del Órgano de Gobierno; y
+
+XVII. Las demás que le correspondan de conformidad con las leyes, el Reglamento, el Estatuto Orgánico y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 12 Bis.
+
+De la estructura orgánica del Servicio Estatal de Administración.
+
+El Estatuto Orgánico del Servicio Estatal de Administración normará las bases para la organización y funcionamiento de las unidades administrativas que lo integren.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 12 Ter.
+
+De las relaciones laborales.
+
+Las relaciones laborales entre el Servicio Estatal de Administración y sus trabajadores se regularán por la Ley de los Trabajadores al Servicio del Estado de Tabasco, las Condiciones Generales de Trabajo y las disposiciones que expida el Órgano de Gobierno del Servicio Estatal de Administración, y demás ordenamientos jurídicos aplicables, según corresponda.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 12 Quater.
+
+Del Órgano Interno de Control del Servicio Estatal de Administración.
+
+El Servicio Estatal de Administración contará con un Órgano Interno de Control, cuyo titular será designado y removido, previo acuerdo del Gobernador, por la Secretaría de la Función Pública y dependerá jerárquica y funcionalmente de la misma, de conformidad con lo establecido en la fracción X del artículo 43 de la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco.
+
+Tendrá las funciones y responsabilidades que establecen la Ley General de Responsabilidades Administrativas, el Reglamento Interior de la Secretaría de la Función Pública y las que señalen los demás ordenamientos aplicables en la materia. Para ello, contará con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, con la finalidad de garantizar la independencia entre ambas en el ejercicio de dichas funciones.
 
 ### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS BIENES ASEGURADOS
 
@@ -511,7 +619,9 @@ La devolución de los bienes asegurados incluirá la entrega de los frutos o ren
 
 La devolución de numerario comprenderá la entrega del principal y de sus rendimientos durante el tiempo en que haya sido administrado.
 
-A partir de la devolución de los bienes, el Interesado o su representante legal tendrán un plazo de treinta días naturales para interponer el recurso de inconformidad a que se refiere la Ley por las condiciones en que se encuentren los mismos y las cuentas que se les rindieron.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+A partir de la devolución de los bienes, el Interesado o su representante legal tendrán un plazo de quince días hábiles para interponer el recurso de inconformidad a que se refiere la Ley por las condiciones en que se encuentren los mismos y las cuentas que se les rindieron.
 
 ###### Artículo 42.
 
@@ -589,7 +699,9 @@ Cuando los aprovechamientos se deriven de bienes abandonados o decomisados en el
 
 Coordinación de actividades.
 
-El Servicio Estatal de Administración establecerá la coordinación necesaria con la Secretaría de Planeación y Finanzas y demás autoridades administrativas competentes, para llevar a cabo los procesos de documentación de vehículos asegurados, abandonados, decomisados o enajenados a efecto de brindar seguridad jurídica a sus poseedores o adquirentes finales.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+El Servicio Estatal de Administración establecerá la coordinación necesaria con la Secretaría de Finanzas y demás autoridades administrativas competentes, para llevar a cabo los procesos de documentación de vehículos asegurados, abandonados, decomisados o enajenados a efecto de brindar seguridad jurídica a sus poseedores o adquirentes finales.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DEL PROCEDIMIENTO DE ENAJENACIÓN
 
@@ -655,11 +767,13 @@ Para el caso de la fracción I de este artículo, la prohibición se extenderá 
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DEL RECURSO DE INCONFORMIDAD
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 60.
 
 Condiciones de interposición.
 
-Para reclamar por las condiciones en que se entreguen los bienes o las cuentas que rinda el Servicio Estatal de Administración, en términos de lo previsto por el artículo 41, párrafo tercero, de esta Ley, se podrá interponer por escrito recurso de inconformidad ante la Secretaría de Administración dentro de los treinta días naturales siguientes a la fecha de la devolución de los bienes.
+Para reclamar por las condiciones en que se entreguen los bienes o las cuentas que rinda el Servicio Estatal de Administración, en términos de lo previsto por el artículo 41, párrafo tercero, de esta Ley, se podrá interponer por escrito recurso de inconformidad ante la Secretaría dentro de los quince días hábiles siguientes a la fecha de la devolución de los bienes.
 
 ###### Artículo 61.
 
@@ -671,13 +785,17 @@ Podrán ofrecerse toda clase de pruebas, excepto la confesional, siempre que ten
 
 Desahogo de pruebas.
 
-Si se ofrecen pruebas que ameriten desahogo, se concederá al Interesado un plazo no menor de diez ni mayor de treinta días naturales para tal efecto. La Secretaría de Administración podrá allegarse los elementos de convicción que considere necesarios. En lo no previsto en esta Ley en materia de pruebas, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Tabasco.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+Si se ofrecen pruebas que ameriten desahogo, se concederá al Interesado un plazo no menor de diez ni mayor de treinta días naturales para tal efecto. La Secretaría podrá allegarse de los elementos de convicción que considere necesarios. En lo no previsto en esta Ley en materia de pruebas, se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado de Tabasco.
 
 ###### Artículo 63.
 
 Resolución.
 
-Concluido el período probatorio, la Secretaría de Administración resolverá dentro de los quince días hábiles siguientes.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+Concluido el período probatorio, la Secretaría resolverá dentro de los quince días hábiles siguientes.
 
 ###### Artículo 64.
 
@@ -726,3 +844,25 @@ SECRETARIO DE GOBIERNO.
 LIC. JUAN JOSÉ PERALTA FÓCIL
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 156 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN II Y XVII; 5; 6, PÁRRAFO PRIMERO Y SEGUNDO; 7; 9, FRACCIONES V, VII Y VIII; 10; 11, PÁRRAFO PRIMERO; 12; 41, PÁRRAFO TERCERO; 51; 60; 62; Y 63; SE ADICIONAN LA FRACCIÓN XV BIS Y XVI BIS AL ARTÍCULO 3; EL ARTÍCULO 8 BIS; LAS FRACCIONES IX, X, XI, XII, XIII, XIV, XV AL ARTÍCULO 9; LOS ARTÍCULOS 12 BIS, 12 TER Y 12 QUATER; TODOS DE LA LEY PARA LA ADMINISTRACIÓN Y DESTINO DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS, DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el 1 de enero de 2020.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. Los recursos humanos, financieros y materiales que se encuentran asignados al órgano desconcentrado denominado Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados del Estado de Tabasco, pasarán a formar parte del patrimonio del nuevo organismo descentralizado cuya denominación es homónima, que se crea por virtud del presente Decreto.
+
+Tratándose de los recursos humanos, la transferencia se realizará con pleno respeto a los derechos laborales.
+
+En un plazo que no exceda de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, las Secretarías de Finanzas, de Administración e Innovación Gubernamental, de la Función Pública, y la Coordinación General de Asuntos Jurídicos, realizarán los trámites administrativos necesarios para transferir los recursos humanos, materiales y financieros del Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco, al organismo descentralizado que por virtud del presente Decreto se crea.
+
+CUARTO. Dentro de los noventa días siguientes a la entrada en vigor del presente decreto, deberán realizarse las adecuaciones al Reglamento de la Ley para la Administración y Destino de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco.
+
+QUINTO. El titular del Poder Ejecutivo del Estado deberá expedir el Estatuto Orgánico del Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados del Estado de Tabasco, en un plazo no mayor a ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+SEXTO. Los asuntos que se encuentran actualmente en trámite en el Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados del Estado de Tabasco, serán atendidos por el nuevo organismo descentralizado que se crea por virtud del presente Decreto.
