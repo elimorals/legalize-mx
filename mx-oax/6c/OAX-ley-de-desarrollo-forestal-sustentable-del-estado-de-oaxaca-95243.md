@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-forestal-sustentable-del-estado-de-oaxaca-952
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-11"
-last_updated: "2016-04-08"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de junio de 2013.
 
@@ -489,9 +489,47 @@ XXXVIII. Coadyuvar en las labores de mitigación y adaptación al cambio climát
 
 #### SECCIÓN TERCERA. FUNCIONES DE LOS MUNICIPIOS
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 14.
 
-Corresponde a los Municipios lo que la Ley General de Desarrollo Forestal les confiere.
+Son atribuciones de los Municipios en materia forestal, las siguientes:
+
+I. Diseñar, formular y aplicar, en concordancia con la política nacional y estatal, la política forestal del municipio;
+
+II. Aplicar los criterios de política forestal previstos en esta Ley y en las disposiciones municipales en bienes y zonas de competencia municipal, en las materias que no estén expresamente reservadas a la Federación o al Estado;
+
+III. Participar en el ámbito de sus atribuciones, en el establecimiento de sistemas y esquemas de ventanilla única de atención eficiente para los usuarios del sector forestal;
+
+IV. Coadyuvar con el Estado en la realización y actualización del Inventario Estatal;
+
+V. Participar, en coordinación con la Federación y el Estado en la zonificación forestal, comprendiendo las áreas forestales permanentes de su ámbito territorial;
+
+VI. Celebrar acuerdos y convenios de coordinación, cooperación y concertación con la Federación, el Estado y otros Municipios en materia forestal;
+
+VII. Diseñar, desarrollar y aplicar incentivos para promover el desarrollo forestal, de conformidad con esta Ley, reglamentos municipales y los lineamientos de la política forestal del país,
+
+VIII. Participar en la planeación y ejecución de la reforestación, forestación y conservación de los bienes y servicios ambientales forestales, dentro de su ámbito territorial;
+
+IX. Llevar a cabo, en coordinación con el Estado, acciones de saneamiento en los ecosistemas forestales dentro de su ámbito de competencia;
+
+X. Promover la construcción y mantenimiento de la infraestructura en las áreas forestales del Municipio;
+
+XI. Participar en la vigilancia forestal, conforme a lo que se estipule en los convenios y acuerdos que al respecto se celebren con la Federación o el Estado;
+
+XII. Participar y coadyuvar con la Federación y el Estado, en la ejecución de los programas integrales de prevención y combate a la extracción ilegal y a la tala clandestina;
+
+XIII. Participar en los Consejos Forestales Regionales que estén representados en el Consejo Estatal Forestal
+
+XIV. Participar y coadyuvar en las acciones de prevención y combate de incendios forestales en coordinación con las autoridades federales y estatales y participar en la atención en general, de las emergencias y contingencias forestales; de acuerdo con los programas de protección civil;
+
+XV. Desarrollar y apoyar viveros y programas de producción de plantas;
+
+XVI. Hacer del conocimiento de las autoridades competentes y, en su caso, denunciar las Infracciones, faltas administrativas o delitos que se cometan en materia forestal;
+
+XVII. Regular y vigilar la disposición final de los residuos provenientes de la extracción de materias primas forestales; y
+
+XVIII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos.
 
 ### CAPÍTULO III. DE LA COMISIÓN ESTATAL FORESTAL
 
@@ -1675,7 +1713,7 @@ LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 
 P.O. 8 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO DECRETO NÚM. 1852.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1852.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca
 
@@ -1684,3 +1722,11 @@ SEGUNDO. La Junta de Gobierno de la Comisión Estatal Forestal que sufre modific
 TERCERO El Presidente de la Comisión Estatal Forestal dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto, convocarán para la presentación de nuevos integrantes y toma de protesta de los mismos, que conforman el órgano de gobierno que sufren modificación en su integración y funcionamiento conforme a este Decreto.
 
 CUARTO Se derogan las disposiciones que se opongan al presente Decreto
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 813.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE OAXACA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
