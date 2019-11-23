@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-integral-del-adulto-mayor-del-estado-828
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-15"
-last_updated: "2018-12-05"
+last_updated: "2019-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 15 de septiembre de 2011.
 
@@ -913,7 +913,9 @@ VI. En general, cualquier violación o infracción a las disposiciones de esta l
 
 VII. Evitar el realizar cualquier acto u omisión que ponga en riesgo la integridad física, mental, psicoemocional y sexual de los adultos mayores.
 
-En el supuesto de ser un servidor público en ejercicio de sus funciones quien realice alguna de las conductas anteriores, la Procuraduría Social dará aviso al superior jerárquico de dicho servidor, el cual procederá conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco para que determine lo que corresponda, dando aviso a la Procuraduría Social de la admisión y, en su caso, resolución del trámite.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+En el supuesto de ser un servidor público en ejercicio de sus funciones quien realice alguna de las conductas anteriores, la Procuraduría Social dará aviso al superior jerárquico de dicho servidor, el cual procederá conforme a la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco para que determine lo que corresponda, dando aviso a la Procuraduría Social de la admisión y, en su caso, resolución del trámite.
 
 ###### Artículo 63.
 
@@ -1190,3 +1192,9 @@ SÉPTIMO. Las facultades, derechos y obligaciones establecidos a cargo del organ
 OCTAVO. El Congreso del Estado realizará las reformas que, en su caso, resulten necesarias para adecuar el marco jurídico estatal a lo señalado en el presente Decreto.
 
 NOVENO. Las disposiciones reglamentarias vigentes seguirán aplicándose en tanto no se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27520/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLECENTES (SIC), DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y DE LA LEY PARA LA OPERACIÓN DE ALBERGUES, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
