@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2019-03-16"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -355,11 +355,11 @@ LXX. Unidad responsable: Para efectos presupuestales los Poderes Legislativo y J
 
 Los conceptos utilizados en la presente Ley que requieran ser precisados y que no se encuentren incluidos en este apartado, deberán incluirse en el Reglamento.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 3.
 
-La interpretación de esta Ley para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal corresponde a la Secretaría y a la Contraloría en el ámbito de su respectiva competencia. La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Justicia Administrativa para el Estado de Oaxaca, y el Código Fiscal para el Estado de Oaxaca serán supletorios de esta Ley en lo conducente.
+La interpretación de esta Ley para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal corresponde a la Secretaría y a la Contraloría en el ámbito de su respectiva competencia. La Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca, y el Código Fiscal para el Estado de Oaxaca serán supletorios de esta Ley en lo conducente.
 
 Las dependencias, entidades, órganos auxiliares del Gobernador del Estado y los órganos auxiliares de colaboración deberán observar las disposiciones generales que emitan la Secretaría y la Contraloría, en el ámbito de su respectiva competencia, para dar correcta aplicación a lo dispuesto en esta Ley y el Reglamento. En el caso de los Poderes Legislativo y Judicial y de los Órganos Autónomos, sus respectivas Unidades de administración deberán establecer las disposiciones generales correspondientes.
 
@@ -1077,7 +1077,9 @@ c) Se podrán plantear requerimientos específicos de información;
 
 d) En su caso, se podrán proponer acciones para avanzar en el logro de los objetivos planteados en el Plan Estatal de Desarrollo y los programas que deriven del mismo; y
 
-e) En el caso del Presupuesto de Egresos, la Comisión de Programación y Presupuesto de la Legislatura deberá acordar con la Junta de Coordinación Política los mecanismos de participación con el resto de las Comisiones Ordinarias en el examen y discusión del Presupuesto por sectores. Los legisladores de dichas Comisiones deberán tomar en cuenta en sus consideraciones y propuestas la disponibilidad de recursos, así como la evaluación de los programas y proyectos y las medidas que podrán impulsar el logro de los objetivos y metas anuales.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+e) En el caso del Presupuesto de Egresos, la Comisión Permanente de Presupuesto y Programación de la Legislatura deberá acordar con la Junta de Coordinación Política los mecanismos de participación con el resto de las Comisiones Permanentes en el examen y discusión del Presupuesto por sectores. Los legisladores de dichas Comisiones deberán tomar en cuenta en sus consideraciones y propuestas la disponibilidad de recursos, así como la evaluación de los programas y proyectos y las medidas que podrán impulsar el logro de los objetivos y metas anuales.
 
 VII. Podrán establecerse mecanismos de coordinación, colaboración y entendimiento entre el Poder Ejecutivo y el Poder Legislativo, con el objeto de hacer más eficiente el proceso de integración, aprobación y evaluación del Presupuesto de Egresos.
 
@@ -1839,9 +1841,11 @@ La Secretaría una vez validada la información capturada por cada una de las Ej
 
 ### CAPÍTULO SEGUNDO. DE LA EVALUACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 83.
 
-La Secretaría realizará semestralmente la evaluación económica de los ingresos y egresos en función de los calendarios de presupuesto de las dependencias y entidades. Las metas de los programas aprobados serán analizadas y evaluadas por las Comisiones Ordinarias del Congreso del Estado.
+La Secretaría realizará semestralmente la evaluación económica de los ingresos y egresos en función de los calendarios de presupuesto de las dependencias y entidades. Las metas de los programas aprobados serán analizadas y evaluadas por la Comisión Permanente de Presupuesto y Programación del Congreso del Estado.
 
 La evaluación del desempeño se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores de desempeño que permitan conocer los resultados de la aplicación de los recursos públicos estatales. Para tal efecto, la instancia Técnica de Evaluación se sujetará a lo siguiente:
 
@@ -2064,3 +2068,13 @@ P.O. 16 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 402.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y SE DEROGA (SIC) DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación, publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 832.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARÍA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
