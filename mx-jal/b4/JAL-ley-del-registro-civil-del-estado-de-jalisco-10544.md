@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2019-11-19"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -527,11 +527,11 @@ PODRÁ EFECTUAR EL REGISTRO DE SU HIJO, EL PADRE QUE EN COMPAÑÍA DE LOS ABUELO
 
 (NOTA: EL 19 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2019)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2019) (REPUBLICADO, P.O. 23 DE NOVIEMBRE DE 2019)
 
 EN CASO DE FALLECIMIENTO DEL PADRE, LA MADRE PODRÁ EFECTUAR EL REGISTRO DE SU HIJO EN COMPAÑÍA DE LOS ABUELOS PATERNOS O FAMILIARES HASTA EL CUARTO GRADO QUE DECLAREN LA RELACIÓN DE CONCUBINATO QUE EXISTIÓ ENTRE AMBOS PROGENITORES. LA CONCUBINA DEBERÁ EXHIBIR LAS CONSTANCIAS QUE ACREDITEN EL CONCUBINATO DE CONFORMIDAD CON EL ARTÍCULO AL ARTÍCULO (SIC) 778 PÁRRAFOS SEGUNDO Y TERCERO DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019) (REPUBLICADO, P.O. 23 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 43 Bis.
 
@@ -861,9 +861,11 @@ II. Identificación idónea o en su defecto cualquier otro medio de prueba que s
 
 III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que éstos no tienen impedimento legal para casarse; dichos testigos deberán identificarse ante el Oficial del Registro Civil, debiendo dejar copia de su identificación;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-IV. Un certificado médico en el que conste el resultado del análisis practicado por el laboratorio de instituciones de salud pública, o laboratorios privados, en donde el médico que lo extienda asegure bajo protesta de decir verdad, haber examinado a los pretendientes y deducir de dicho examen que no padecen Síndrome de Inmuno Deficiencia Adquirida, enfermedades contagiosas, hereditarias ni, en general, enfermedad alguna o deformaciones físicas que constituyan un impedimento para el matrimonio. En los lugares en donde no existan médicos titulados, el certificado será extendido por las personas que dirijan los servicios de salud pública en la localidad. Para los indigentes, tienen la obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de salud;
+IV. Un certificado médico en el que conste el resultado del análisis practicado por laboratorio de instituciones de salud pública, o laboratorios privados, en donde el médico que lo extienda asegure bajo protesta de decir verdad, haber examinado a los pretendientes y deducir de dicho examen que no padecen Síndrome de Inmunodeficiencia Adquirida, enfermedades contagiosas, hereditarias ni, en general, enfermedad alguna o deformaciones físicas que constituyan un impedimento para el matrimonio. En los lugares en donde no existan médicos titulados, el certificado será extendido por las personas que dirijan los servicios de salud pública en la localidad. Para los indigentes, tienen la obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de salud;
+
+En caso de solicitar sea dispensado esté impedimento, deberán anexar escrito firmado por ambas partes en el que conste que existe conocimiento previo y que ambos dan su consentimiento para celebrar el matrimonio; así como acreditación expedida por institución de salud pública, que han recibido la información sobre los alcances, efectos y prevención de la enfermedad.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -1758,3 +1760,15 @@ Séptimo.- Los sujetos obligados deberán realizar las adecuaciones presupuestal
 Octavo.- La integración de las auditorías archivísticas en el programa anual de auditorías, deberá ser contemplada en el programa anual 2020.
 
 Noveno.- Para aquellos sujetos obligados que a la entrada en vigor del presente decreto no cuenten con un portal electrónico al que se refiere el artículo 65 de la Ley de Archivos del Estado de Jalisco y sus Municipios que se expide a través de este decreto, la publicación de los expedientes de disposición documental y transferencia secundaria se realizará a través del portal del Archivo General del Estado en los términos de las disposiciones legales aplicables.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27524/LXII/19 QUE REFORMA EL ARTÍCULO 43 Y ADICIONA EL ARTÍCULO 43 BIS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27570/LXII/19 QUE REFORMA LOS ARTÍCULOS 268, 381 Y 391 DEL CÓDIGO CIVIL Y EL ARTÍCULO 82 DE LA LEY DEL REGISTRO CIVIL, AMBOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. Esta ley entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
