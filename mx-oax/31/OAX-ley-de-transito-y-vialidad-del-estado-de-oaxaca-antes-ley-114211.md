@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2018-11-10"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -413,11 +413,11 @@ Los integrantes de la Policía Vial Estatal, están facultados para asegurar y r
 
 I. Cuando el conductor se encuentre en estado de ebriedad o bajo la influencia de drogas enervantes, o en condiciones físicas o mentales que lo imposibiliten para manejar correctamente;
 
-II. Cuando el vehículo circule sin placas, las lleve ocultas o alteradas.
+II. (DEROGADO PRIMER PÁRRAFO [N. DE E. DE ESTA FRACCIÓN II], P.O. 23 DE NOVIEMBRE DE 2019)
 
-Se estimará que un vehículo no lleva placas, cuando no se hubieren canjeado y no se encuentren vigentes a pesar de haber transcurrido el plazo o prórroga concedidos para ello.
+> <small>(DEROGADO SEGUNDO PÁRRAFO [N. DE E. DE ESTA FRACCIÓN II], P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Se exceptúa de lo anterior cuando se justifique con documento idóneo la falta de una placa por causas ajenas a su voluntad.
+> <small>(DEROGADO TERCER PÁRRAFO [N. DE E. DE ESTA FRACCIÓN II], P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 En el caso de que se detecten indicios de alteraciones en números de identificación del vehículo, la policía vial pondrá el vehículo y el conductor a disposición de la autoridad competente para que determine lo procedente;
 
@@ -432,6 +432,10 @@ Los vehículos de motor asegurados se devolverán hasta que se cumplan los requi
 ###### Artículo 25.
 
 En ningún caso se asegurarán como garantía del pago de las infracciones el permiso para circular, la tarjeta de circulación, la licencia de manejo o placas, a los conductores que infrinjan esta Ley o su Reglamento.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+El derecho que tienen los conductores a no ser desposeídos de los bienes a que se refiere el presente Artículo, es irrenunciable.
 
 ###### Artículo 26.
 
@@ -1090,3 +1094,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La disposición normativa prevista en el párrafo segundo, del artículo 51, entrará en vigor seis meses después de la publicación del presente Decreto, tiempo en el que la Secretaría de Seguridad Pública en el ámbito de su competencia, deberá de realizar un programa para la difusión y concientización del procedimiento de regularización para la inscripción de los vehículos que no estén registrados.
 
 TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 833.- MEDIANTE EL CUAL DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO, MOVILIDAD Y VIALIDAD DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones, de igual o menor jerarquía, que se opongan al presente Decreto, aun cuando no estén expresamente derogadas.
