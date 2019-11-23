@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acuacultura-y-pesca-para-el-estado-de-jalisco-y-sus-9019
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-17"
-last_updated: "2019-10-12"
+last_updated: "2019-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 17 de noviembre de 2012.
 
@@ -193,7 +193,9 @@ XXV. Realizar inspecciones y verificaciones en los establecimientos pesqueros o 
 
 XXVI. Promover mecanismos y esquemas de financiamiento adecuados para el desarrollo integral de las actividades pesqueras y acuícolas;
 
-XXVII. Fomentar la igualdad de oportunidades de la mujer en las actividades de acuacultura y pesca, así como su inclusión en los programas que a la Secretaría le competa su diseño y ejecución;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XXVII. Promover la igualdad sustantiva o de resultados de las mujeres, jóvenes, productores tradicionales y productores con nuevas tecnologías en las actividades de acuacultura y pesca;
 
 XXVIII. Dictar, de conformidad con las normas oficiales aplicables, medidas de sanidad e inocuidad acuícola y pesquera para prevenir, controlar y erradicar agentes patógenos que representen un riesgo para las especies acuáticas o para el consumo humano de las mismas;
 
@@ -379,9 +381,17 @@ XXII. Los proyectos de inversión evaluados por su rentabilidad o viabilidad soc
 
 XXIII. El subsistema de información sobre los temas que integran las materias y los campos de la acuacultura y la pesca;
 
-XXIV. Los instrumentos, los mecanismos, los presupuestos públicos o las mezclas de recursos monetarios y en especie, que coadyuven al financiamiento de este subsector, y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-XXV. Los criterios para la coordinación y concertación con las secretarías, dependencias, organismos y entidades estatales que intervengan por razón de materia, así como con los ayuntamientos del estado, el Gobierno federal y con los sectores tanto social como privado, para su participación en la ejecución del programa.
+XXIV. Los instrumentos, los mecanismos, los presupuestos públicos o las mezclas de recursos monetarios y en especie, que coadyuven al financiamiento de este subsector;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XXV. Los criterios para la coordinación y concertación con las secretarías, dependencias, organismos y entidades estatales que intervengan por razón de materia, así como con los ayuntamientos del estado, el Gobierno federal y con los sectores tanto social como privado, para su participación en la ejecución del programa; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XXVI. Estrategias para concretar la igualdad sustantiva o de resultados entre mujeres, jóvenes, productores tradicionales y productores con nuevas tecnologías.
 
 ###### Artículo 14.
 
@@ -2230,3 +2240,9 @@ P.O. 12 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27363/LXII/19 MEDIANTE EL CUAL SE MODIFICA LA LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO, LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, Y LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 27398/LXII/19 QUE REFORMA LOS ARTÍCULOS 6 Y 13 DE LA LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
