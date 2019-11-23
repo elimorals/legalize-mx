@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-atencion-y-proteccion-a-personas-con-la-116
 country: "mx"
 rank: "ley"
 publication_date: "2016-08-24"
-last_updated: "2016-08-24"
+last_updated: "2019-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 24 de agosto de 2016.
 
@@ -92,6 +92,10 @@ Corresponde al Estado y a los municipios asegurar el respeto y ejercicio de los 
 ###### Artículo 5.
 
 Las autoridades estatales y municipales, en el ámbito de su competencia, con el objeto de dar cumplimiento a la presente Ley, deberán implementar de manera progresiva las políticas y acciones correspondientes conforme a los programas aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+Dentro de las acciones que deberán llevar a cabo las autoridades estatales y municipales, en los que exista la infraestructura para realizarlo, iluminarán sus inmuebles de color azul el día 2 de abril de cada año, con el objeto de conmemorar el Día Mundial de Concienciación sobre el Autismo.
 
 ###### Artículo 6.
 
@@ -330,3 +334,11 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Primera Legislatura del 
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los diez días del mes de agosto de dos mil dieciséis. EL GOBERNADOR DEL ESTADO DE ZACATECAS.- MIGUEL ALEJANDRO ALONSO REYES. EL SECRETARIO GENERAL DE GOBIERNO.- JAIME SANTOYO CASTRO. Rúbricas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 187.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 5 DE LA LEY ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
