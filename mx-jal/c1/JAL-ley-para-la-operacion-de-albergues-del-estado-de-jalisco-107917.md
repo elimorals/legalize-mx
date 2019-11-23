@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-la-operacion-de-albergues-del-estado-de-jalisco-107917
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-21"
-last_updated: "2019-08-29"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 21 de mayo de 2015.
 
@@ -915,9 +915,11 @@ VII. Realizar cualquiera de las acciones que establece el artículo 30 de esta L
 
 VIII. Cuando no cuente con un registro actualizado de los albergados, así como con la debida información de su situación jurídica y ésta sea del conocimiento de la autoridad competente.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 65.
 
-Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos serán sancionados en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+Las violaciones a los preceptos de esta Ley, sus reglamentos y disposiciones que de ella emanen, por parte de los servidores públicos serán sancionados en los términos de la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
 ### CAPÍTULO V. DE LAS DEFENSAS DE LOS ADMINISTRADOS
 
@@ -1032,5 +1034,11 @@ P.O. 4 DE MARZO DE 2017.
 P.O. 29 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27323/LXII/19 QUE REFORMA Y DEROGAN (SIC) DIVERSOS ARTÍCULOS DE LA LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27520/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLECENTES (SIC), DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y DE LA LEY PARA LA OPERACIÓN DE ALBERGUES, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
