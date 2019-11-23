@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transporte-transito-y-vialidad-del-estado-de-96734"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-20"
-last_updated: "2017-05-31"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 20 de noviembre de 2013.
 
@@ -35,7 +35,9 @@ DECRETO # 571
 
 LA HONORABLE SEXAGÉSIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN NOMBRE DEL PUEBLO, DECRETA
 
-CONSIDERANDO...
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, y con apoyo además de lo dispuesto por los artículos 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de Decretarse y se
 
@@ -114,6 +116,10 @@ d) Las avenidas, calles, calzadas, paseos, plazas, puentes peatonales y demás l
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
 XXII. Auxiliar vial.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XXIII. Ciclista: Persona que maneja o conduce una bicicleta, cualquiera que sea su clasificación.
 
 ###### ARTÍCULO 3.
 
@@ -239,6 +245,12 @@ XI. Aprobar las tarifas del servicio público de transporte;
 
 XII. Establecer las medidas necesarias para evitar que en la prestación del servicio público de transporte se efectúen prácticas monopólicas o de competencia desleal o que afecten la prestación general, regular, la seguridad y la eficiencia de tal servicio;
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 167, PÁGINA 11.]</small>
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XIII (SIC). Promover e impulsar los programas en términos de esta Ley tendientes a fomentar el uso del transporte no motorizado, colaborando con las autoridades municipales en la planeación y ejecución de acciones en favor de peatones y ciclistas.
+
 XIII. Promover la más amplia participación ciudadana que sea posible en el análisis y propuestas de solución de los problemas de tránsito y transporte. También, instituir mecanismos de consulta popular para mejorar el servicio público de transporte;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
@@ -312,6 +324,10 @@ b) Transparencia, rendición de cuentas y combate a la corrupción dentro de los
 c) Preservación del medio ambiente en la prestación del servicio público del transporte a través del fomento de tecnologías y fuentes de energía alternativas en colaboración con la Secretaría del Agua y Medio Ambiente y la Secretaría de Economía, y
 
 d) Respeto a los derechos de los niños, adultos mayores, mujeres gestantes y personas con discapacidad para acceder al servicio público de transporte;
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+e) Promover el uso de la bicicleta como medio de transporte alternativo a los medios de transporte motorizados, así como de su uso deportivo y recreativo para mejorar la salud pública, de sustitución de energéticos para el mejoramiento del ambiente y de desarrollo sustentable.
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -555,7 +571,9 @@ IV. Las demás que señale la presente Ley, los reglamentos y otras disposicione
 
 Las atribuciones de las autoridades auxiliares serán las que deriven del presente cuerpo normativo, los reglamentos de esta Ley y demás leyes aplicables en la materia. Así como las que deriven de sus respectivos ordenamientos.
 
-## TÍTULO SEGUNDO. DEL TRÁNSITO DE VEHÍCULOS, PEATONES, CONDUCTORES Y SEMOVIENTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+## TÍTULO SEGUNDO. DEL TRÁNSITO DE VEHÍCULOS, PEATONES, CICLISTAS, CONDUCTORES Y SEMOVIENTES
 
 ### CAPÍTULO I. De los Vehículos
 
@@ -599,21 +617,41 @@ Los vehículos con placas extranjeras que circulen en el Estado, podrán transit
 
 ### CAPÍTULO II. De los Peatones, Conductores y Semovientes
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 27.
 
-Los peatones que transiten por las vías públicas deberán cumplir, en lo que a ellos respecta, con las disposiciones de esta Ley y sus reglamentos, acatando las señales de la materia y las indicaciones que haga la corporación encargada de tránsito y la seguridad vial cuando ésta dirija la circulación.
+Los peatones y ciclistas que transiten por las vías públicas deberán cumplir, en lo que a ellos respecta, con las disposiciones de esta Ley y sus reglamentos, acatando las señales de la materia y las indicaciones que haga la corporación encargada de tránsito y la seguridad vial cuando ésta dirija la circulación.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 28.
 
-Los peatones, en todos los cruceros que carezcan de señales o dispositivos para controlar el tránsito, tendrán preferencia de paso y en aquellos lugares en que el tránsito sea controlado por los elementos de la Secretaría de Seguridad, ésta deberá velar por su seguridad.
+Los peatones y ciclistas en todos los cruceros que carezcan de señales o dispositivos para controlar el tránsito, tendrán preferencia de paso y en aquellos lugares en que el tránsito sea controlado por los elementos de la Secretaría de Seguridad, ésta deberá velar por su seguridad.
 
 ###### ARTÍCULO 29.
 
 Los peatones no deberán transitar por las superficies de rodamiento de las vías públicas destinadas a la circulación de vehículos, ni cruzar las vías rápidas por lugares no autorizados al efecto.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 29 BIS.- Serán obligaciones de los ciclistas:
+
+I. Respetar las disposiciones legales y reglamentarias, las señales de tránsito y las indicaciones de los elementos de la Secretaría de Seguridad Pública responsables de vigilar el cumplimiento de las normas de tránsito;
+
+II. Respetar los señalamientos y dispositivos que regulen la circulación vial compartida o la exclusiva, los espacios de circulación o accesibilidad peatonal y dar preferencia a las personas con discapacidad;
+
+III. Circular en el sentido de la vía;
+
+IV. No exceder la capacidad de transporte o carga de la bicicleta, evitando transportar a niños y niñas menores de cuatro años a menos que sea en un asiento especial para ese fin;
+
+V. Mantener su bicicleta en buen estado de modo que no corra riesgo de accidentes por la falla de la misma;
+
+VI. Usar aditamentos, bandas reflejantes y en su caso luces, para uso nocturno;
+
+VII. Rebasar sólo por el carril izquierdo; y
+
+VIII. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo o la mano. El Ejecutivo dispondrá en los reglamentos y normas técnicas correspondientes, los implementos con los que deban contar los vehículos de movilidad no motorizada.
 
 ###### ARTÍCULO 30.
 
@@ -1838,3 +1876,11 @@ Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, la
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 167.- SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
