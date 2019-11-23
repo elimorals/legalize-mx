@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2019-09-07"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -123,7 +123,9 @@ XVI.- La prevención de la invalidez y la rehabilitación de los inválidos;
 
 XVII.- La asistencia social;
 
-XVIII.- El desarrollo de los programas contra el alcoholismo, el tabaquismo y la farmacodependencia;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XVIII.- El desarrollo de los programas contra el alcoholismo, el tabaquismo, la farmacodependencia y la obesidad;
 
 XIX.- Ejercer la verificación y el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en las normas oficiales que al efecto se emitan;
 
@@ -207,15 +209,17 @@ IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la i
 
 V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que propicien el desarrollo satisfactorio de la vida;
 
-VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2019)</small>
+VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-VII.- Apoyar la práctica de la medicina tradicional indígena de acuerdo a sus características específicas en cada región del Estado, así como otorgar las facilidades necesarias para la asistencia y colaboración a médicos o a parteras tradicionales en sus respectivas actividades.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2019)</small>
+VII.- Apoyar la práctica de la medicina tradicional indígena, de acuerdo a sus características específicas en cada Región del Estado; y
 
-VIII.- Promover la realización de programas de fomento y mejoramiento de la salud, en los que participen activamente las personas que practican la medicina tradicional indígena, alternativa y complementaria.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VIII.- Fomentar un estilo de vida saludable para prevenir y combatir la obesidad y la desnutrición.
 
 > <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2019)</small>
 
@@ -257,9 +261,17 @@ XIII.- Coadyuvar a que la formación y la distribución de los recursos humanos 
 
 XIV.- Promover e impulsar la participación de la comunidad en el cuidado de la salud;
 
-XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud, y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-XVI.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XV.- Impulsar la permanente actualización de las disposiciones legales en materia de salud;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XVI.- Las demás atribuciones, afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables; y
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XVII.- Diseñar, promover e impulsar políticas públicas para prevenir, combatir y erradicar la obesidad y la desnutrición.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -749,9 +761,9 @@ II.- La atención del niño y la vigilancia de su crecimiento y desarrollo, incl
 
 III.- La promoción de la integración y del bienestar familiar, fomentando la responsabilidad paterna en el crecimiento de sus hijas e hijos.
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-IV.- El diagnóstico oportuno de condiciones de salud del neonato y detección de enfermedades hereditarias y congénitas, incluyendo la aplicación de la prueba del tamiz ampliado y su salud visual;
+IV.- El diagnóstico oportuno de condiciones de salud del neonato y detección de enfermedades hereditarias y congénitas, incluyendo la aplicación de la prueba del tamiz ampliado y su salud visual; así como la aplicación del tamiz cardiológico por oximetría de pulso para la detección de cardiopatías congénitas graves.
 
 > <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2017)</small>
 
@@ -839,9 +851,17 @@ II.- Las actividades recreativas de esparcimiento y culturales destinadas a fort
 
 III.- La vigilancia de actividades ocupacionales que puedan poner el peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV.- Los programas de prevención del maltrato infantil y de la violencia intrafamiliar; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-V.- Las demás que coadyuven a la salud infantil.
+IV.- Los programas de prevención del maltrato infantil y de la violencia intrafamiliar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+V.- La atención de los menores de 6 años, para que reciban la adecuada estimulación temprana de acuerdo con las normas técnicas que para tal efecto expida la Secretaria de Salud con el objetivo de potenciar sus capacidades de cognición, actividad motriz y el lenguaje; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VI.- Los demás que coadyuven a la salud infantil.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -987,11 +1007,13 @@ III.- Los convenios que al efecto se suscriban entre el Gobierno del Estado y la
 
 IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 72.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, ingeniería sanitaria, optometría, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
 Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, optometría, histopatología y embalsamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
 
@@ -1165,7 +1187,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ### CAPITULO III. NUTRICION
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 90.
 
@@ -1237,13 +1259,13 @@ Las autoridades sanitarias estatales en coordinación con las autoridades federa
 
 ###### ARTICULO 96.
 
-El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos así como de los sectores social y privado.
+El Gobierno del Estado formulará y desarrollará programas de nutrición estatales, estilo de vida saludable, promoviendo la participación en los mismos de las instituciones educativas, de las unidades estatales del sector salud, cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores social y privado.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 97.
 
-En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
+En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos nutritivos y de calidad de producción regional, y procurará, al efecto, la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos nutritivos y de calidad.
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
@@ -1361,7 +1383,9 @@ VI.- Fiebre amarilla, dengue y otras enfermedades vírales transmitidas por artr
 
 VII.- Paludismo, tifo, fiebre recurrente transmitida por piojo, otras rickettsiosis, leishemaniasis, tripanosomiasis, oncocercosis;
 
-VIII.- Sífilis, infecciones gonocóccicas y otras enfermedades de transmisión sexual;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VIII.- Sífilis, infecciones gonocóccicas, virus del papiloma humano y otras enfermedades de transmisión sexual;
 
 IX.- Lepra y mal del pinto;
 
@@ -1839,7 +1863,7 @@ II.- Organizar campañas educativas tendientes a erradicar la violencia intrafam
 
 III.- Procurar la atención especializada de las víctimas de violencia intrafamiliar, abuso sexual y abandono así como su protección.
 
-## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
+## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
 ### CAPITULO III. DE LAS CONSTRUCCIONES
 
@@ -2637,7 +2661,7 @@ V. Los demás que determine la Ley General de Salud, esta Ley y demás disposici
 
 > <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2018)</small>
 
-ARTICULO 260 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo, una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto sí se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
+ARTICULO 260 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
 
 El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
 
@@ -2861,7 +2885,7 @@ Las demás dependencias y entidades públicas en el Estado coadyuvarán a la vig
 
 ###### ARTICULO 297.
 
-El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procedieren, las mediadas de seguridad y las sanciones correspondientes en esos casos.
+El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, podrá ser objeto de orientación y educación de los infractores, con independencia de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes en esos casos.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3113,33 +3137,31 @@ IV.- La calidad de reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 322.
 
-Se sancionará con multa hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 109, 110, 111, 123, 164, 165, 169, 171, 174, 178, 181, 187, 193, 194, 195, 197, 209, 241, 262 y 263 de esta Ley.
+Se sancionará con multa hasta de mil veces el valor de la Unidad de Medida y Actualización vigente, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 89, 109, 110, 111, 123, 164, 165, 169, 171, 174, 178, 181, 187, 193, 194, 195, 197, 209, 241, 262 y 263 de esta Ley.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+La violación de las disposiciones en los artículos 301 y 315 de esta ley, se sancionará con multa equivalente de cincuenta hasta quinientas veces el valor de la Unidad de Medida y Actualización vigente.
 
-La violación de las disposiciones en los artículos 301 y 315 de esta ley, se sancionará con multa equivalente de cincuenta hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 323.
 
-Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación a las disposiciones contenidas en los artículos 101, 113, 119, 177, 180, 184, 203, 207, 223, 226, 238, 301 y 315 de esta Ley.
+Se sancionará con multa de mil hasta cuatro mil veces el valor de la Unidad de Medida y Actualización vigente, la violación a las disposiciones contenidas en los artículos 101, 113, 119, 177, 180, 184, 203, 207, 223, 226, 238, 301 y 315 de esta Ley.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 324.
 
-Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 62, 87, 88 y 102 de esta Ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el valor de la Unidad de Medida y Actualización vigente, la violación de las disposiciones contenidas en los artículos 62, 87, 88 y 102 de esta Ley.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTICULO 325.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a las reglas de calificación que se establecen en el artículo 321 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el valor de la Unidad de Medida y Actualización vigente, atendiendo a las reglas de calificación que se establecen en el artículo 321 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3237,7 +3259,7 @@ XI.- Buena fe.
 
 ###### ARTICULO 333.
 
-La Secretaría de Salud del Estado y los municipios con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
+La Secretaría de Salud del Estado y los municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 303 de esta Ley podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4°, apartado “A”, así como los establecimientos y servicios a que se refiere el apartado “B” del mismo artículo de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -3568,3 +3590,9 @@ P.O. 7 DE SEPTIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 825.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE SALUD”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
