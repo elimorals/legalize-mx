@@ -4,7 +4,7 @@ identifier: "OAX-ley-pecuaria-del-estado-de-oaxaca-82751"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2012-06-22"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PECUARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 18 de agosto de 2011.
 
@@ -265,7 +265,9 @@ LXVIII. Rebaño: Hato grande de ganado, especialmente del lanar;
 
 LXIX. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-LXX. Salario Mínimo: El salario mínimo diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+LXX. UMA: Unidad de cuenta, índice, base, medida o referencia establecida por el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y la ley reglamentaria de la materia.
 
 LXXI. Sanidad pecuaria: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas en los animales;
 
@@ -319,7 +321,9 @@ II. La Secretaría;
 
 III. Los Ayuntamientos del Estado;
 
-IV. Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+IV. Fiscalía General del Estado de Oaxaca;
 
 V. Secretaría de Seguridad Pública;
 
@@ -421,7 +425,9 @@ XVII. Llevar el registro y control de los medios de identificación que permitan
 
 XVIII. Apoyar, a través de los verificadores pecuarios, el realeo de ganado, cuando así lo soliciten los productores pecuarios o una autoridad judicial con el fin de acreditar la propiedad del ganado o la comisión de un delito;
 
-XIX. Determinar las sanciones establecidas en la presente Ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de Finanzas, para que aplique la sanción económica que se determine, empleando el procedimiento administrativo de ejecución fiscal, y a la Secretaría de la Contraloría y Transparencia Gubernamental, para los efectos de lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XIX. Determinar las sanciones establecidas en la presente Ley, su reglamento y demás normatividad vigente, comunicando las mismas a la Secretaría de Finanzas, para que aplique la sanción económica que se determine, empleando el procedimiento administrativo de ejecución fiscal, y a la Secretaría de la Contraloría y Transparencia Gubernamental, para los efectos de lo dispuesto en la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca;
 
 XX. Admitir, substanciar y resolver el recurso de inconformidad previsto en esta Ley y su reglamento;
 
@@ -495,11 +501,11 @@ VII. Las demás que señale esta Ley, su reglamento y otras disposiciones aplica
 
 La Secretaría de Finanzas del Gobierno del Estado hará efectivas las multas impuestas por la Secretaría por las violaciones a la presente Ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 12.
 
-La Procuraduría General de Justicia y la Secretaría de Seguridad Pública, a petición de la Secretaría, prestarán apoyo y auxilio a los verificadores pecuarios y al personal adscrito a los puntos de verificación e inspección ubicados en el territorio estatal, proporcionando elementos de sus corporaciones policíacas en cada uno de ellos para el cumplimiento de sus objetivos y atribuciones.
+La Fiscalía General del Estado de Oaxaca y la Secretaría de Seguridad Pública, a petición de la SECRETARÍA, prestarán apoyo y auxilio a los verificadores pecuarios y al personal adscrito a los puntos de verificación e inspección ubicados en el territorio estatal, proporcionando elementos de sus corporaciones policíacas en cada uno de ellos para el cumplimiento de sus objetivos y atribuciones.
 
 ###### ARTÍCULO 13.
 
@@ -611,7 +617,9 @@ VI. Expedir, cancelar o convalidar sin causa justificada la documentación que p
 
 VII. Proporcionar los formatos de las guías de tránsito y sello oficial a personas ajenas al servicio de inspección.
 
-Cuando los verificadores pecuarios incurran en cualquiera de las conductas que prohíbe este artículo se procederá de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, sin perjuicio de las sanciones a que se hagan acreedores en otros ordenamientos legales.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+Cuando los verificadores pecuarios incurran en cualquiera de las conductas que prohíbe este artículo se procederá de conformidad con lo que establece la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, sin perjuicio de las sanciones a que se hagan acreedores en otros ordenamientos legales.
 
 ### CAPÍTULO VI. DE LOS ESTABLECIMIENTOS
 
@@ -1529,9 +1537,11 @@ Si se altera la documentación o se sustituyen los animales, sus productos, subp
 
 El transporte de pieles de ganado mostrenco o cuya marca se hubiese cortado o borrado de algún modo, dará mérito para suponer al responsable culpable de robo en tanto no demuestre lo contrario, y en esa virtud será puesto a disposición a las autoridades competentes para que hagan las averiguaciones respectivas.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 139.
 
-Cuando la indebida introducción, movilización y salida de animales, productos, subproductos y esquilmos se haga contando con la ayuda, complicidad u omisión de servidores públicos, o estos falseen los datos de los documentos mediante los cuales se pretenda acreditar el origen de los animales en el Estado, la sanción al funcionario o autoridad coadyuvante será duplicada, independientemente de las faltas en que éste incurra por las violaciones a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y la legislación civil o penal aplicable.
+Cuando la indebida introducción, movilización y salida de animales, productos, subproductos y esquilmos se haga contando con la ayuda, complicidad u omisión de servidores públicos, o estos falseen los datos de los documentos mediante los cuales se pretenda acreditar el origen de los animales en el Estado, la sanción al funcionario o autoridad coadyuvante será duplicada, independientemente de las faltas en que éste incurra por las violaciones a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y la legislación civil o penal aplicable.
 
 ### CAPÍTULO III. RESTRICCIONES A LA MOVILIZACIÓN DE ANIMALES, PRODUCTOS, SUBPRODUCTOS Y ESQUILMOS
 
@@ -2035,11 +2045,11 @@ Asimismo, se promoverán programas que tiendan al cambio de colmenas rústicas a
 
 La captura y destrucción de enjambres que pongan en riesgo a la población se realizará exclusivamente por personal autorizado por las autoridades correspondientes, ajustando su labor en todo momento a la legislación aplicable vigente.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 222.
 
-Cuando un agricultor, ganadero o dueño de una propiedad tenga la necesidad de aplicar productos agroquímicos, estará obligado de dar aviso de este hecho y del producto que vaya a utilizar, a los apicultores instalados dentro de un radio de acción de tres kilómetros, que puedan verse afectados con dichos productos.
-
-Será también obligatorio dar este aviso a la Asociación Apícola del lugar en un término no menor de 72 horas.
+Queda prohibido el uso de insecticidas, plaguicidas y/o pesticidas de cualquier fórmula química dañina al medio ambiente, que no se encuentren registrados ante la Comisión Federal Para la Protección contra Riesgos Sanitarios, ello para la protección de la abeja.
 
 ###### ARTÍCULO 223.
 
@@ -2079,23 +2089,21 @@ La instalación de las colmenas para la prestación del servicio de polinizació
 
 ### CAPÍTULO I. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ### CAPÍTULO II. LAS SANCIONES Y SU APLICACIÓN
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
 
 ### CAPÍTULO III. DE LA DEFENSA DE PARTICULARES
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ## TÍTULO DÉCIMO OCTAVO. DE LAS RESPONSABILIDADES, SANCIONES Y DEFENSA DE PARTICULARES
 
 ###### ARTÍCULO 230.
 
-Las autoridades encargadas de aplicar esta Ley, y demás servidores públicos estatales y municipales competentes en la materia, están sujetos a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca; por lo tanto, cualquier persona podrá denunciar actos u omisiones que constituyan causa de responsabilidad de los servidores públicos.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
-
-Las denuncias serán presentadas ante la Secretaría o, en su caso, ante la Secretaría de la Contraloría y Transparencia Gubernamental del Estado.
+Las autoridades encargadas de aplicar esta Ley, y demás servidores públicos estatales y municipales competentes en la materia, están sujetos a las disposiciones de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; por lo tanto, cualquier persona podrá denunciar actos u omisiones que constituyan causa de responsabilidad de los servidores públicos.
 
 ###### ARTÍCULO 231.
 
@@ -2105,55 +2113,101 @@ Las violaciones a las disposiciones de esta Ley y demás disposiciones que emane
 
 Las personas físicas o morales que incumplan lo establecido en esta Ley serán sancionadas pecuniariamente cuando incurran en las siguientes conductas:
 
-I. A quien no registre los animales de su propiedad en el SIPEOAX en los términos de esta Ley, se hará acreedor a una multa equivalente a cien días de salario mínimo;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-II. Al que no manifieste el ejercicio del aprovechamiento pecuario en los términos de esta Ley, se hará acreedor a una multa equivalente a cien días de salario mínimo;
+I. A quien no registre los animales de su propiedad en el SIPEOAX en los términos de esta Ley, se hará acreedor a una multa equivalente a cien veces el valor diario de la UMA vigente;
 
-III. Al que críe o adquiera crías de vacas lecheras con ganado de carne y las comercialice como crías de ganado de carne, se hará acreedor a una multa de cinco mil a diez mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-IV. A quien haciendo uso de una servidumbre de paso o vía pecuaria, permita el apareamiento con animales que no le pertenezcan se hará acreedor a una multa de ciento cincuenta a trescientos días de salario mínimo;
+II. Al que no manifieste el ejercicio del aprovechamiento pecuario en los términos de esta Ley, se hará acreedor a una multa equivalente a cien veces el valor diario de la UMA vigente;
 
-V. Al que falsifique o altere el documento de transmisión de propiedad, guía de tránsito u orden de sacrificio, se hará acreedor a una multa equivalente de cinco mil a diez mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-VI. A los dueños de saladeros, curtidurías, talabarterías, textiles y demás establecimientos dedicados a la industrialización de pieles, productos y subproductos pecuarios, que no presenten la documentación a que les obliga la ley, se harán acreedores a una multa equivalente de cien a doscientos días de salario mínimo;
+III. Al que críe o adquiera crías de vacas lecheras con ganado de carne y las comercialice como crías de ganado de carne, se hará acreedor a una multa de cinco mil a diez mil veces el valor diario de la UMA vigente;
 
-VII. Al que ordene o transporte cualquier animal, producto y subproducto pecuario, o esquilmos, y no se detenga para su revisión correspondiente en los puntos de verificación e inspección estatal, se le impondrá una multa equivalente de dos mil a diez mil días de salario mínimo, se podrá tipificar como abigeato, y se dará vista al Ministerio Público;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-VIII. A quien se le detenga con animales mostrencos sin la documentación correspondiente que avale su legítima propiedad, y sin comprobar la legítima propiedad, se hará acreedor a una multa equivalente de cinco mil a diez mil días de salario mínimo, se podrá tipificar como abigeato, y se dará vista al Ministerio Público;
+V (SIC). A quien haciendo uso de una servidumbre de paso o vía pecuaria, permita el apareamiento con animales que no le pertenezcan se hará acreedor a una multa de ciento cincuenta a trescientas veces el valor diario de UMA vigente;
 
-IX. A quien transporte ganado, sus productos o subproductos, y esquilmos, sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de cincuenta a quinientos días de salario mínimo, tratándose de ganado mayor y un número mayor a 5 cabezas de ganado, la sanción se triplicará y se dará cuenta al Ministerio Público;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-X. Al propietario o usuario que no construya o no dé mantenimiento a los cercos de los terrenos utilizados como agostaderos, se le impondrá una multa equivalente de doscientos cincuenta a quinientos días de salario mínimo;
+V (SIC). Al que falsifique o altere el documento de transmisión de propiedad, guía de tránsito u orden de sacrificio, se hará acreedor a una multa equivalente de cinco mil a diez mil veces el valor diario de la UMA vigente;
 
-XI. A la persona que ordene o realice el transporte de animales afectados por enfermedad infectocontagiosa contemplada en el reglamento de esta Ley, se le aplicará una multa equivalente de cinco mil quinientos a diez mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-XII. Al que lleve a cabo compra-venta de animales afectados por enfermedad infecto-contagiosa, contemplada en el reglamento de esta Ley o en otras disposiciones legales aplicables, se hará acreedor a una multa equivalente de cinco mil quinientos a diez mil días de salario mínimo;
+VI. A los dueños de saladeros, curtidurías, talabarterías, textiles y demás establecimientos dedicados a la industrialización de pieles, productos y subproductos pecuarios, que no presenten la documentación a que les obliga la ley, se harán acreedores a una multa equivalente de cien a doscientas veces el valor diario de la UMA vigente;
 
-XIII. Al que abandone un animal o animales muertos por enfermedad infecto-contagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente de trescientos a quinientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-XIV. Al propietario de ganado que se introduzca dos o más veces en predios ajenos causando daños, se le impondrá una sanción de entre doscientos cincuenta y quinientos días de salario mínimo, previa reparación del daño;
+VII. Al que ordene o transporte cualquier animal, producto y subproducto pecuario, o esquilmos, y no se detenga para su revisión correspondiente en los puntos de verificación e inspección estatal, se le impondrá una multa equivalente de dos mil a diez mil veces el valor diario de la UMA vigente, se podrá tipificar como abigeato, y se dará vista al Ministerio Público;
 
-XV. A quien introduzca ganado, productos y subproductos pecuarios y esquilmos al Estado proveniente de otras Entidades Federativas sin haber acreditado su legal procedencia; animales afectados por enfermedad infecto-contagiosa o sospechosos de estarlo, así como las de sus productos, subproductos, despojos y esquilmos, y cualquier otro objeto que haya estado en contacto con ellos o con objetos susceptibles de transmitir el contagio; o que procedan directamente de otras entidades federativas o establecimientos cuyo status zoosanitario sea menor al que presente el Estado de Oaxaca; se le aplicará una multa equivalente de cinco mil a diez mil días de salario mínimo, dando vista al Ministerio Público y a las demás autoridades competentes, en su caso;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-XVI. A quien introduzca ganado de otra Entidad y lo movilice hacia un tercer Estado haciéndolo pasar como originario del Estado de Oaxaca, se le sancionará con multa equivalente de diez mil a veinte mil días de salario mínimo se dará vista al Ministerio Público;
+VIII. A quien se le detenga con animales mostrencos sin la documentación correspondiente que avale su legítima propiedad, y sin comprobar la legítima propiedad, se hará acreedor a una multa equivalente de cinco mil a diez mil veces el valor diario de la UMA vigente, se podrá tipificar como abigeato, y se dará vista al Ministerio Público;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-XVII. A quien una vez obtenido el visto bueno de la Secretaría para la movilización, altere la documentación o cualquier otra identificación o sustituya el ganado, se cancelará la documentación y se le impondrá multa de siete mil a quince mil días de salario mínimo;
+IX. A quien transporte ganado, sus productos o subproductos, y esquilmos, sin ampararse con la guía de tránsito correspondiente, se hará acreedor a una multa equivalente de cincuenta a quinientas veces el valor diario de la UMA vigente, tratándose de ganado mayor y un número mayor a 5 cabezas de ganado, la sanción se triplicará y se dará cuenta al Ministerio Público;
 
-XVIII. A quien incumpla con los artículos 179 y 183 de esta Ley, se hará acreedor de una multa equivalente de siete mil a quince mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-XIX. Al que afecte o altere sin causa justificada el destino de las áreas dedicadas al pastoreo, se hará acreedor de una multa equivalente de ciento cincuenta a trescientos días de salario mínimo previa reparación del daño;
+X. Al propietario o usuario que no construya o no dé mantenimiento a los cercos de los terrenos utilizados como agostaderos, se le impondrá una multa equivalente de doscientas cincuenta a quinientas veces el valor diario de la UMA vigente;
 
-XX. A quien transfiera autorizaciones para la internación de ganado, productos o subproductos pecuarios, se le sancionará con multa equivalente de diez mil a quince mil días de salario mínimo;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-XXI. Al propietario cuyo ganado provoque accidentes en las vías públicas estatales de comunicación, se le aplicará una multa equivalente de ciento cincuenta a trescientos días de salario mínimo previo pago de la reparación del daño;
+XI. A la persona que ordene o realice el transporte de animales afectados por enfermedad infectocontagiosa contemplada en el reglamento de esta Ley, se le aplicará una multa equivalente de cinco mil quinientas a diez mil veces el valor diario de la UMA vigente;
 
-XXII. Al propietario de animales dañeros que sean portadores de alguna enfermedad infecto-contagiosa se le impondrá una sanción de dos mil quinientos a cinco mil salarios mínimos;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-XXIII. A quien provoque los incendios a que se refiere el artículo 188 de esta Ley se hará acreedor a una sanción de cinco mil a diez mil días de salario mínimo;
+XII. Al que lleve a cabo compra-venta de animales afectados por enfermedad infecto-contagiosa, contemplada en el reglamento de esta Ley o en otras disposiciones legales aplicables, se hará acreedor a una multa equivalente de cinco mil quinientas a diez mil veces el valor diario de la UMA vigente;
 
-XXIV. Al que, a sabiendas, realice cualquier operación o contrato con el despojo de algún animal muerto por causa desconocida o enfermedad infecto-contagiosa, se hará acreedor de una multa equivalente de dos mil quinientos a cinco mil días de salario mínimo.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XIII. Al que abandone un animal o animales muertos por enfermedad infecto-contagiosa sin incinerarlos o enterrarlos, se le impondrá una multa equivalente de trescientas a quinientas veces el valor diario de la UMA vigente;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XIV. Al propietario de ganado que se introduzca dos o más veces en predios ajenos causando daños, se le impondrá una sanción de entre doscientas cincuenta y quinientas veces el valor diario de la UMA vigente, previa reparación del daño;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XV. A quien introduzca ganado, productos y subproductos pecuarios y esquilmos al Estado proveniente (sic) de otras Entidades Federativas sin haber acreditado su legal procedencia; animales afectados por enfermedad infecto-contagiosa o sospechosos de estarlo, así como las de sus productos, subproductos, despojos y esquilmos, y cualquier otro objeto que haya estado en contacto con ellos o con objetos susceptibles de transmitir el contagio; o que procedan directamente de otras entidades federativas o establecimientos cuyo status zoosanitario sea menor al que presente el Estado de Oaxaca; se le aplicará una multa equivalente de cinco mil a diez mil veces el valor diario de la UMA vigente, dando vista al Ministerio Público y a las demás autoridades competentes, en su caso;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XVI. A quien introduzca ganado de otra Entidad y lo movilice hacia un tercer Estado haciéndolo pasar como originario del Estado de Oaxaca, se le sancionará con multa equivalente de diez mil a veinte mil veces el valor diario de la UMA vigente se dará vista al Ministerio Público;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XVII. A quien una vez obtenido el visto bueno de la SECRETARÍA para la movilización, altere la documentación o cualquier otra identificación o sustituya el ganado, se cancelará la documentación y se le impondrá multa de siete mil a quince mil veces el valor diario de la UMA vigente;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XVIII. A quien incumpla con los artículos 179 y 183 de esta Ley, se hará acreedor de una multa equivalente de siete mil a quince mil veces el valor diario de la UMA vigente;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XIX. Al que afecte o altere sin causa justificada el destino de las áreas dedicadas al pastoreo, se hará acreedor de una multa equivalente de ciento cincuenta a trescientas veces el valor diario de la UMA vigente previa reparación del daño;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XX. A quien transfiera autorizaciones para la internación de ganado, productos o subproductos pecuarios, se le sancionará con multa equivalente de diez mil a quince mil veces el valor diario de la UMA vigente;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XXI. Al propietario cuyo ganado provoque accidentes en las vías públicas estatales de comunicación, se le aplicará una multa equivalente de ciento cincuenta a trescientas veces el valor diario de la UMA vigente previo pago de la reparación del daño;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XXII. Al propietario de animales dañeros que sean portadores de alguna enfermedad infecto-contagiosa se le impondrá una sanción de dos mil quinientas a cinco mil veces el valor diario de la UMA vigente;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XXIII. A quien provoque los incendios a que se refiere el artículo 188 de esta Ley se hará acreedor a una sanción de cinco mil a diez mil veces el valor diario de la UMA vigente;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XXIV. Al que, a sabiendas, realice cualquier operación o contrato con el despojo de algún animal muerto por causa desconocida o enfermedad infecto-contagiosa, se hará acreedor de una multa equivalente de dos mil quinientas a cinco mil veces el valor diario de la UMA vigente.
 
 ###### ARTÍCULO 233.
 
@@ -2163,7 +2217,9 @@ I. Cuando por error, u otras circunstancias se registren dos o más medios de id
 
 II. Cuando los expendios de carne clasificada que venda carne diferente a la autorizada, serán clausurados y cancelado el permiso.
 
-Se harán acreedores a una multa de dos mil quinientos a cinco mil días de salario mínimo.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+Se harán acreedores a una multa de dos mil quinientas a cinco mil veces el valor diario de la UMA vigente.
 
 ###### ARTÍCULO 234.
 
@@ -2177,31 +2233,47 @@ A los verificadores pecuarios, autoridades civiles y municipales, que otorguen g
 
 El verificador pecuario podrá hacerse acreedor a las siguientes sanciones:
 
-I. Multa de cinco mil días de salario mínimo vigente en el Estado cuando documente ganado que proceda de zonas que no le corresponda;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-II. Multa de cinco mil días de salario mínimo vigente en el Estado cuando se dedique directa o indirectamente a la compraventa de ganado, sus productos y subproductos;
+I. Multa de cinco mil veces el valor diario de la UMA vigente cuando documente ganado que proceda de zonas que no le corresponda;
 
-III. Multa de dos mil quinientos días de salario mínimo vigente en el Estado cuando niegue el servicio de su competencia que le sea solicitado previa comprobación de la omisión a sus funciones;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-IV. Multa de diez mil días de salario mínimo vigente en el Estado cuando expida, cancele o convalide sin causa justificada la documentación que pruebe la legítima propiedad, sanidad y/o movilización de ganado sus productos y subproductos, y
+II. Multa de cinco mil veces el valor diario de la UMA vigente cuando se dedique directa o indirectamente a la compraventa de ganado, sus productos y subproductos;
 
-V. Multa de diez mil días de salario mínimo vigente en el Estado cuando proporcione los formatos de las guías de tránsito y sello oficial a personas ajenas al servicio de inspección.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Cuando no expida las actas circunstanciadas que señale esta Ley, se le impondrá multa de diez mil días de salario mínimo vigente en el Estado.
+III. Multa de dos mil quinientas veces el valor diario de la UMA vigente cuando niegue el servicio de su competencia que le sea solicitado previa comprobación de la omisión a sus funciones;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+IV. Multa de diez mil veces el valor diario de la UMA vigente cuando expida, cancele o convalide sin causa justificada la documentación que pruebe la legítima propiedad, sanidad y/o movilización de ganado sus productos y subproductos, y
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+V. Multa de diez veces el valor diario de la UMA vigente cuando proporcione los formatos de las guías de tránsito y sello oficial a personas ajenas al servicio de inspección.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+Cuando no expida las actas circunstanciadas que señale esta Ley, se le impondrá multa de diez mil veces el valor diario de la UMA vigente.
 
 En caso de reincidencia en la comisión de infracciones o faltas a que alude el presente artículo, la sanción pecuniaria se incrementará hasta un cien por ciento y se le separará del cargo temporalmente y se le sujeta al proceso administrativo correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 237.
 
-Se impondrán multas de quinientos a mil salarios mínimos vigentes en la zona a quienes:
+Se impondrán multas de quinientas a mil veces el valor diario de la UMA vigente a quienes:
 
 I.- No cumplan con lo dispuesto al artículo 213, fracciones II, III y IV.
 
 II.- Incumplan con el artículo 192 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 238.
 
-Se impondrá una multa de mil a dos mil salarios mínimos vigentes en la zona a quienes:
+Se impondrá una multa de mil a dos mil Unidades de Medida y Actualización vigentes en la zona, a quienes:
 
 I.- Invadan intencionalmente la zona apícola de otro productor.
 
@@ -2220,6 +2292,10 @@ VII.- Transporten productos de la colmena sin la guía sanitaria correspondiente
 VIII.- Vendan o utilicen en sus colmenas productos farmacéuticos no permitidos.
 
 IX.- Utilicen agroquímicos tóxicos para las abejas en contravención con lo dispuesto en el artículo 158.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+X.- No cumpla con lo establecido en el primer párrafo del artículo 222, o deje de cumplir con el aviso establecido en el párrafo tercero del referido artículo, o dé el aviso fuera del plazo contemplado en el aludido precepto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -2255,7 +2331,7 @@ En los casos en que esta Ley no especifique la sanción correspondiente, pero ot
 
 ###### ARTÍCULO 243.
 
-En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento, se podrá interponer el recurso de inconformidad, previsto en la Ley de Justicia Administrativa para el Estado.
+En contra de los actos y resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación de esta Ley, su Reglamento, se podrá interponer el recurso de inconformidad, previsto en la Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca.
 
 ###### ARTÍCULO 244.
 
@@ -2320,3 +2396,19 @@ C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
 P.O. 22 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 814.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PECUARIA DEL ESTADO DE OAXACA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 824.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PECUARIA DEL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
