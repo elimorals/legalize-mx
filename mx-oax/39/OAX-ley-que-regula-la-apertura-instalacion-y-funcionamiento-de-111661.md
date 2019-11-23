@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-regula-la-apertura-instalacion-y-funcionamiento-de-1116
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2016-12-31"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE REGULA LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 31 de diciembre de 2015.
 
@@ -57,7 +57,9 @@ III. Días inhábiles: Los días establecidos en el Código y demás disposicion
 
 IV. Ley: Ley que Regula Apertura, Instalación y Funcionamiento de las Casas de Empeño en el Estado de Oaxaca;
 
-V. Ley de Justicia: Ley de Justicia Administrativa para el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+V. Ley de Justicia: Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca;
 
 VI. Permisionarios: Sujetos que obtienen la expedición, revalidación o modificación del Permiso;
 
@@ -401,11 +403,11 @@ II. El Permisionario acumule dos sanciones de suspensión temporal dentro de un 
 
 III. El Permisionario sin causa justificada suspenda las operaciones de la Casa de empeño autorizado al público por más de diez días hábiles.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 35.
 
-Se impondrá multa de cien a quinientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el Permisionario:
+Se impondrá multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización (UMA), cuando el Permisionario:
 
 I. Haga funcionar una Casa de empeño sin contar con el Permiso expedido por la Secretaría;
 
@@ -496,3 +498,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su pu
 SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
 
 Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 815.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA APERTURA, INSTALACION Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
