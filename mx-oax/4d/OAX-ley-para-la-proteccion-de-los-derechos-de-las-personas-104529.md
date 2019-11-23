@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-proteccion-de-los-derechos-de-las-personas-104529"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2019-08-31"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 20 de diciembre de 2014.
 
@@ -467,9 +467,11 @@ XVII. Realizar acciones de prevención que induzcan a la sociedad a conocer y to
 
 XVIII. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 17.
 
-La Secretaría de Salud deberá supervisar a las instituciones públicas, privadas o sociales, encargadas de la atención de las personas adultas mayores, a efecto de verificar su buen funcionamiento, debiendo ordenar la corrección inmediata de las irregularidades que sean detectadas, mediante la adopción de las medidas que correspondan o, en su caso, comunicar dicha situación a la autoridad competente.
+La Secretaría de Salud en coordinación con el Sistema para el Desarrollo Integral de la Familia del estado de Oaxaca, deberá realizar programas de supervisión y vigilancia de forma periódica en las instituciones públicas, privadas o sociales que se encuentran en el Estado, como son los centros de asistencia social, albergues, casas hogar, asilos y otros análogos, destinados a la atención y cuidado de las personas adultas mayores, para verificar que sus instalaciones se encuentren en buen estado, así como su correcto funcionamiento, y que la atención y los servicios que brinden a los adultos mayores que se encuentran albergados sean los adecuados para su edad y condición, lo anterior, con el ánimo de prevenir eventualidades y conductas de violencia o maltrato hacia estas personas, debiendo ordenar la corrección inmediata de las irregularidades que sean detectadas, mediante la adopción de las medidas que correspondan o, en su caso, comunicar dicha situación a la autoridad competente.
 
 ###### Artículo 18.
 
@@ -587,15 +589,21 @@ IV. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
 
 La Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en la ejecución de las atribuciones conferidas por la Ley Orgánica del Poder Ejecutivo del Estado de Oaxaca en su artículo 49 Bis, fracciones II, III, V, VI, VII, IX y XXII, deberá observar los principios en favor de las personas adultas mayores, contenidos en el artículo 8 de esta Ley, e incluir en la planeación del desarrollo del Estado, las previsiones necesarias para la consecución del objeto y los objetivos específicos del presente instrumento normativo, así como para la protección plena de los derechos que asisten a las personas adultas mayores de conformidad a la normatividad estatal, nacional e internacional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 25.
 
-La Secretaría de Vialidad y Transporte deberá:
+La Secretaría de Movilidad deberá:
 
 I. Establecer y/o promover tarifas preferenciales para las personas adultas mayores que hagan uso del servicio público de transporte;
 
 II. Procurará la celebración de convenios de colaboración con los concesionarios para que las unidades de transporte público cuenten con mecanismos o instrumentos que faciliten la accesibilidad de las personas adultas mayores a éstas; y
 
-III. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+III. Establecer con los concesionarios de las unidades de transporte público, la obligación de que sus conductores proporcionen un trato digno y de respeto hacia las personas adultas mayores que hagan uso del servicio público de transporte y en caso de incumplimiento, ser sancionados conforme a los ordenamientos legales aplicables, de acuerdo al caso en particular.
+
+IV. Las demás señaladas en esta Ley u otras disposiciones legales aplicables.
 
 ###### Artículo 26.
 
@@ -760,3 +768,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 823.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE OAXACA".]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
