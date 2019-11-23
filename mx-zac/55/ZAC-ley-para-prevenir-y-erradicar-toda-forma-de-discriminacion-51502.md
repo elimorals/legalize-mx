@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-prevenir-y-erradicar-toda-forma-de-discriminacion-5150
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-29"
-last_updated: "2018-09-29"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ZAC"
 
 LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 29 DE SEPTIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de julio de 2006.
 
@@ -671,7 +669,13 @@ IX. Establecer relaciones de coordinación con instituciones públicas federales
 
 X. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales o internacionales en el ámbito de su competencia; y
 
-XI. Las demás establecidas en esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XI. Diseñar, implementar y promover campañas de difusión en redes sociales y medios de comunicación, para prevenir, detectar y eliminar el discurso de odio en todas sus expresiones, procurando la participación del sector público y privado, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XII. Las demás establecidas en esta Ley.
 
 ###### Artículo 34.
 
@@ -914,3 +918,9 @@ P.O. 29 DE AGOSTO DE 2018.
 > <small>(F. DE E., P.O. 29 DE SEPTIEMBRE DE 2018)</small>
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 186.- SE REFORMA Y ADICIONA LA LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
