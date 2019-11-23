@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2019-11-09"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3535,6 +3535,10 @@ V.- Si los ladrones llevan armas, o porten instrumentos peligrosos;
 
 VI.- Cuando el ladrón se finja funcionario público o suponga una orden de la autoridad.
 
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VII.- Cuando se cometa en contra de un niño, niña o adolescente, persona adulta mayor, persona con discapacidad, persona en compañía de un infante o mujer embarazada.
+
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
 363.- Cuando el valor de lo robado no exceda de diez veces el salario, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna si no se ha ejecutado el robo por medio de la violencia.
@@ -4853,32 +4857,6 @@ NOVENO. En un período no mayor a ciento ochenta días contados a partir de la e
 
 DÉCIMO. A fin de dar cumplimiento a las atribuciones que se establecen en esta Ley, la Comisión Ejecutiva Estatal de Atención a Víctimas, realizará las adecuaciones a su Estatuto Orgánico y demás normatividad interna que sea necesaria. así como al fideicomiso que administra los recursos del Fondo de Ayuda, Asistencia y Reparación Integral, dentro del plazo del ciento ochenta días contados a partir de su entrada en vigor.
 
-P.O. 12 DE MAYO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1459.- MEDIANTE EL CUAL SE EXPIDE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE OAXACA.
-
-PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
-
-SEGUNDO. Se abroga la Ley para Prevenir Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos delitos en el Estado de Oaxaca, aprobada mediante decreto número 1251 de fecha 6 de junio de 2012 y publicada el 22 de junio de 2012.
-
-TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía a la presente Ley vigentes en el Estado.
-
-CUARTO. El Titular del Poder Ejecutivo del Estado de Oaxaca, contará con el plazo de sesenta días, contados a partir de la entrada en vigor de la presente Ley, para crear la Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas.
-
-QUINTO. El ejecutivo del Estado establecerá un fondo para la protección y asistencia a las víctimas de los delitos previstos en la presente Ley.
-
-Hasta en tanto no se integre el Fondo a que se refiere la presente Ley se seguirá aplicando el Fondo de Ayuda, Asistencia y Reparación Integral en el Estado de Oaxaca al que se refiere la Ley de Víctimas del Estado de Oaxaca.
-
-SEXTO. La Comisión Intersecretarial para Prevenir, Combatir y Sancionar los Delitos en Materia de Trata de Personas, una vez creada, contará con el término de noventa días para elaborar su Reglamento Interno.
-
-SÉPTIMO. La Fiscalía General del Estado contará con un plazo de noventa días posteriores a la fecha en que el presente Decreto entre en vigor, para crear y operar su Fiscalía Especializada para la investigación del delito de trata de personas, salvo en los casos que por falta de recursos suficientes deban ser ejercidas por la unidad administrativa especializada correspondiente.
-
-OCTAVO. Las disposiciones relativas a los delitos a que se refiere esta Ley previstas en el Código Penal para el Estado Libre y Soberano de Oaxaca vigentes hasta la entrada en vigor de la presente Ley, seguirán aplicándose por los hechos realizados durante su vigencia. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
-
-NOVENO. La Fiscalía General del Estado de Oaxaca, capacitará a su personal en materia de planeación de investigación dentro de los ciento ochenta días siguientes a la entrada en vigor de la presente Ley.
-
-DÉCIMO. La Fiscalía General del Estado de Oaxaca, contará con el término de ciento ochenta días naturales para la implementación de los programas a que se refiere esta Ley, en coordinación con la Secretaría General de Gobierno y demás entes intervinientes.
-
 P.O. 16 DE JUNIO DE 2018.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1395.- MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA.]
@@ -5094,3 +5072,9 @@ P.O. 9 DE NOVIEMBRE DE 2019.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 812.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno Estado de Oaxaca. Publíquese.
