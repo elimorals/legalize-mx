@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-anticorrupcion-de-zacatecas-122732"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-11-15"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 15 de julio de 2017.
 
@@ -519,9 +519,11 @@ La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exh
 
 #### Sección III. Secretaría Técnica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-El titular de la Secretaría Técnica será nombrado y removido por el órgano de gobierno de la Secretaría Ejecutiva, por el voto favorable de la mayoría de los integrantes del Comité de Participación Ciudadana. Durará tres años en su encargo, sin posibilidad de ser reelecto.
+El titular de la Secretaría Técnica será nombrado y removido por el órgano de gobierno de la Secretaría Ejecutiva, por el voto favorable de la mayoría de los integrantes del Comité de Participación Ciudadana. Durará cinco años en su encargo, sin posibilidad de ser reelecto.
 
 Para efectos del párrafo anterior, el Presidente del órgano de gobierno someterá al Comité de Participación Ciudadana una terna de personas que cumplan los requisitos para ser designado como Secretario Técnico, de conformidad con la presente Ley.
 
@@ -828,5 +830,13 @@ P.O. 15 DE NOVIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 211.- SE MODIFICA EL DECRETO 201 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES TRANSITORIAS DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS Y DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS PUBLICADO EL 13 DE SEPTIEMBRE DE 2017".]
 
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 169.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 40 DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado de Zacatecas.
 
 Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
