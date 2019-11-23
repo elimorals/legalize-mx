@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2019-10-05"
+last_updated: "2019-11-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -356,6 +356,10 @@ Niñas, niños y adolescentes tienen derecho a una alimentación saludable que a
 La desnutrición y la obesidad entre las niñas, niños y adolescentes, son asuntos de salud pública en el Estado.
 
 El Poder Ejecutivo del Estado y gobiernos municipales crearán programas de educación alimentaria y mejoramiento nutricional para las niñas, niños y adolescentes en la etapa inicial, preescolar, primaria, secundaria y medio (sic) superior en zonas identificadas con altos índices de desnutrición, anemia o en riesgo de desnutrición.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+El Poder Ejecutivo del Estado y los Gobiernos Municipales deberán instalar comedores en los centros públicos de educación inicial, preescolar, primaria, secundaria y media superior, y dotarlos de alimentos suficientes para garantizar que niñas, niños y adolescentes obtengan una alimentación adecuada, nutritiva y de calidad. Madres y padres de familia participarán en el cumplimiento de dicha garantía.
 
 ### CAPÍTULO IV. DEL DERECHO DE PRIORIDAD
 
@@ -1840,3 +1844,13 @@ P.O. 5 DE OCTUBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El Gobernador del Estado de Oaxaca deberá prever lo necesario para el cumplimiento de estas disposiciones en el proyecto de Presupuesto de Egresos del Estado que deberá presentar a más tardar el 17 de noviembre de 2019.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 816.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO: El Gobernador del Estado de Oaxaca, deberá prever lo necesario para el cumplimiento de las disposiciones contenidas en el presente Decreto, en el Presupuesto de Egresos del Estado que deberá presentar a más tardar el 17 de noviembre de 2019.
