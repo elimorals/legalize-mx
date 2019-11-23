@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-desarrollo-social-del-estado-de-tabasco-52037"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2018-10-20"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 30 de septiembre de 2006.
 
@@ -59,9 +59,11 @@ LEY DE DESARROLLO SOCIAL DEL ESTADO DE TABASCO
 
 Las disposiciones de la presente Ley son de orden público e interés social y tienen por objeto establecer las bases normativas, mecanismos, instrumentos y sistemas para promover, proteger y garantizar el cumplimiento de los derechos sociales de todos los habitantes del Estado de Tabasco.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 2.
 
-Corresponde al Gobierno del Estado la aplicación de esta Ley a través de la Secretaría de Desarrollo Social y Protección del Medio Ambiente y a los gobiernos municipales en el ámbito de sus respectivas competencias.
+La aplicación de esta Ley corresponde a las dependencias y entidades del Gobierno del Estado y a los municipios en el ámbito de sus respectivas competencias.
 
 ###### ARTÍCULO 3.
 
@@ -77,29 +79,61 @@ En el cumplimiento de los derechos sociales se privilegiará la dignificación s
 
 Para los efectos de esta Ley se entenderá por:
 
-Beneficiarios: Las personas que habitan en el territorio del Estado de Tabasco y que cumplan con la normatividad que requieren los programas de desarrollo social.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Consejo Estatal: Consejo Estatal de Desarrollo Social.
+I. Beneficiarios: las personas que habitan en el territorio del estado de Tabasco y que cumplan con la normatividad que requieren los programas de desarrollo social;
 
-Consejo Consultivo: Consejo Consultivo de Desarrollo Social.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Dependencias: Las que se consideran como tales en la Ley Orgánica del Poder Ejecutivo del Estado.
+II. Consejo Estatal: Consejo Estatal de Desarrollo Social;
 
-Derechos Sociales: Son los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, para el desarrollo de la sociedad con justicia social.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Estado: El territorio del Estado de Tabasco.
+III. Consejo Consultivo: Consejo Consultivo de Desarrollo Social;
 
-Grupos Sociales Vulnerables: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos enfrentan situaciones de riesgo, desamparo o discriminación que les impiden alcanzar mejores niveles de vida.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Ley: La presente Ley de Desarrollo Social del Estado de Tabasco.
+IV. Dependencias: las que se consideran como tales en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco;
 
-Organizaciones: Las agrupaciones civiles y sociales, legalmente constituidas con el propósito de realizar actividades relacionadas con el desarrollo social.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Padrón: El Padrón Único de Beneficiarios, como el registro de las personas beneficiarias de los programas de desarrollo social aplicados por la Federación, Estado y Ayuntamientos.
+V. Derechos Sociales: son los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, para el desarrollo de la sociedad con justicia social;
 
-Secretaría: La Secretaría de Desarrollo Social y Protección del Medio Ambiente del Estado.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Sistema Estatal: El Sistema Estatal de Desarrollo Social.
+VI. Estado: el territorio del estado de Tabasco;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VII. Grupos Sociales Vulnerables: aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos enfrentan situaciones de riesgo, desamparo o discriminación que les impiden alcanzar mejores niveles de vida;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Ley: la presente Ley de Desarrollo Social del Estado de Tabasco;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+IX. Organizaciones: las agrupaciones civiles y sociales, legalmente constituidas con el propósito de realizar actividades relacionadas con el desarrollo social;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+X. Padrón: el Padrón Único de Beneficiarios, como el sistema de información que integra y organiza datos sobre los beneficiarios o personas que reciben apoyos de programas de desarrollo social, a cargo de las dependencias y organismos de la administración pública federal, estatal y municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XI. Padrones de la Secretaría: registro de las personas beneficiarias de los programas de desarrollo social aplicados por conducto de la Secretaría;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XII. Secretaría: la Secretaría de Bienestar, Sustentabilidad y Cambio Climático del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XIII. Sistema Estatal: el Sistema Estatal de Desarrollo Social; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+XIV. Unidad de Evaluación del Desempeño del Poder Ejecutivo: la Coordinación de Evaluación del Desempeño.
 
 ### CAPÍTULO II
 
@@ -217,17 +251,21 @@ VII. Los programas específicos y sus líneas de acción correspondientes; y
 
 VIII. Los indicadores para la evaluación de los resultados.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 19.
 
-El Programa Estatal de Desarrollo Social deberá ser elaborado por el Ejecutivo del Estado por conducto de la Secretaría, en el seno del Consejo, en los términos y condiciones que indique la Ley de Planeación.
+El programa estatal en la materia deberá ser elaborado por el Ejecutivo del Estado por conducto de la Secretaría, en el seno del Consejo Estatal, en los términos y condiciones que indique la Ley de Planeación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 20.
 
-Para la ejecución de los programas, recursos y acciones de carácter estatal para el desarrollo social, el Ejecutivo del Estado creará mecanismos necesarios y reglas de operación para que preferentemente los municipios sean los ejecutores de dichos programas. Así mismo, convendrá con la federación que sus programas y recursos sean ejercidos por la instancia municipal, conforme a la Política de Desarrollo Social.
+Para la ejecución de los programas, recursos y acciones de carácter estatal para el desarrollo social, el Ejecutivo del Estado creará mecanismos necesarios y reglas de operación para que preferentemente los municipios sean los ejecutores de dichos programas. Asimismo, podrá convenir con la federación que sus programas y recursos sean ejercidos por la instancia municipal, conforme a la Política de Desarrollo Social.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-El Gobierno del Estado, conforme a lo dispuesto por la Ley General de Desarrollo Social, integrará con la Federación un Padrón Único de beneficiarios de los programas sociales estatales y municipales, en donde se registrarán las personas beneficiarias, los apoyos que reciben y la información sociodemográfica que se requiera para la correcta operación de los programas, las evaluaciones de impacto de los mismos y la planeación para el desarrollo social.
+El Gobierno del Estado, conforme a lo dispuesto por la Ley General de Desarrollo Social, integrará un Padrón Único de Beneficiarios de los programas sociales federales, estatales y municipales, en donde se registrarán las personas beneficiarias, los apoyos que reciben y la información sociodemográfica que se requiera para la correcta operación de los programas, las evaluaciones de impacto de los mismos y la planeación para el desarrollo social.
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2018)</small>
 
@@ -269,9 +307,11 @@ Deberá identificarse con el Escudo del Estado de Tabasco, la publicidad e infor
 
 ### CAPÍTULO III. DEL PRESUPUESTO Y GASTO PÚBLICO SOCIAL
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-El presupuesto del Gobierno del Estado destinado al gasto social, deberá ser superior en términos reales, al del año fiscal anterior, por lo que .se incrementará cuando menos en la misma proporción en que se prevea el crecimiento del Producto Interno Bruto a nivel estatal, en los Criterios Generales de Política Económica, tomando en consideración los ingresos y la disponibilidad de los recursos.
+El presupuesto del Gobierno del Estado destinado al gasto social no podrá ser inferior, en términos reales al del año fiscal anterior. Este se deberá incrementar por lo menos en la misma proporción en que se prevea el crecimiento del Producto Interno Bruto a nivel estatal conforme a los Criterios Generales de Política Económica, en congruencia con la disponibilidad de recursos a partir de los ingresos que autorice el Congreso local.
 
 ###### ARTÍCULO 24.
 
@@ -289,9 +329,11 @@ En el Presupuesto General de Egresos del Estado se establecerán las partidas y 
 
 El Gobierno del Estado y los ayuntamientos, podrán establecer convenios de colaboración que contemplen la unificación de metas y la asignación compartida de recursos para abatir el rezago en materia de infraestructura básica social.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 28.
 
-El Ejecutivo del Estado podrá establecer y administrar un fondo de contingencia social, como respuesta a fenómenos económicos y presupuestales imprevistos. Si no se aplicara en el ejercicio en que se establece, dicho fondo tendrá el carácter de refrendable para el siguiente ejercicio fiscal y deberá incrementarse en la misma proporción que se dicta para el presupuesto para el desarrollo social, en el Artículo 23 de esta misma Ley.
+El Ejecutivo del Estado podrá establecer y administrar un fondo de contingencia para el bienestar de la población, como respuesta a fenómenos económicos y presupuestales imprevistos. Si no se aplicara en el ejercicio en que se establece, dicho fondo tendrá el carácter de refrendable para el siguiente ejercicio fiscal y deberá incrementarse en la misma proporción que se establece para el presupuesto destinado al gasto social previsto en el artículo 23 de la Ley.
 
 ### CAPÍTULO IV. DE LAS ZONAS DE ATENCIÓN PRIORITARIA
 
@@ -299,9 +341,11 @@ El Ejecutivo del Estado podrá establecer y administrar un fondo de contingencia
 
 Las zonas de atención prioritaria son las áreas o regiones donde la población rural o urbana registran altos índices de pobreza y marginación.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 30.
 
-La determinación de las zonas de atención prioritaria, deberá atender los criterios de resultados que establezca el Consejo Nacional de Evaluación de la Política de Desarrollo Social previsto en la Ley General de Desarrollo Social, así como los estudios que al efecto realice la Secretaría.
+La determinación de las zonas de atención prioritaria, deberá atender los criterios de resultados que establezca el Consejo Nacional de Evaluación de la Política de Desarrollo Social previsto en la Ley General de Desarrollo Social, así como los estudios que al efecto realice la Secretaría y el Consejo Consultivo.
 
 ###### ARTÍCULO 31.
 
@@ -311,9 +355,11 @@ El Consejo Estatal revisará anualmente la zona de atención prioritaria conside
 
 El Consejo Estatal hará la declaratoria de zonas de atención prioritaria que deberán publicarse en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 32.
 
-La Declaratoria de Zonas de Atención Prioritaria tendrá las propiedades y efectos siguientes:
+La Declaratoria de Zonas de Atención Prioritaria tendrá los efectos siguientes:
 
 I. Aprobar los programas y proponer recursos destinados a elevar los índices de bienestar de la población en las Zonas de Atención Prioritaria, sin menoscabo de los orientados a otras zonas o regiones del Estado;
 
@@ -335,9 +381,11 @@ DE LA MEDICIÓN DE LA POBREZA Y VULNERABILIDAD SOCIAL.
 
 La medición de la pobreza y vulnerabilidad social, permitirá la planeación, el diseño y la evaluación del impacto en la aplicación de los programas de desarrollo social en la Entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 35.
 
-La Secretaría establecerá los criterios y lineamientos para la definición, identificación y medición de la pobreza y vulnerabilidad social, los cuales serán el instrumento básico para la formulación y ejecución de los programas de desarrollo social, debiendo utilizar los fijados por el Consejo Nacional de Evaluación de la Política de Desarrollo Social y la información estadística e indicadores que se generen por el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Nacional de Población y de la propia Secretaría, independientemente de otros datos provenientes de Instituciones u organismos de reconocido prestigio y solvencia moral, al menos sobre los siguientes indicadores:
+La Secretaría establecerá los criterios y lineamientos para la definición, identificación y medición de la pobreza y vulnerabilidad social, los cuales serán el instrumento básico para la formulación y ejecución de los programas de desarrollo social, debiendo utilizar los fijados por el Consejo Nacional de Evaluación de la Política de Desarrollo Social y la información estadística e indicadores que se generen por el Instituto Nacional de Estadística, Geografía e Informática, el Consejo Nacional de Población y de la propia Secretaría, independientemente de otros datos provenientes de instituciones u organismos de reconocido prestigio y solvencia moral, al menos sobre los siguientes indicadores:
 
 I. Ingreso corriente per cápita;
 
@@ -357,7 +405,9 @@ VIII. Grado de cohesión social;
 
 IX. Discriminación Social; y
 
-X. Condición de desamparo por discapacidad.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+X. Grado de accesibilidad a carretera pavimentada.
 
 ## TÍTULO TERCERO. SISTEMA ESTATAL DE DESARROLLO SOCIAL
 
@@ -397,7 +447,9 @@ Corresponde al Ejecutivo del Estado:
 
 I. Establecer las políticas generales de desarrollo social que deberán aplicarse en el ámbito estatal y municipal;
 
-II. Formular el Programa Estatal de Desarrollo Social atendiendo el Sistema Estatal de Planeación Democrática y, en su caso, las propuestas del Consejo Estatal previstas en la presente Ley;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+II. Formular el programa estatal en la materia atendiendo el Sistema Estatal de Planeación Democrática y, en su caso, las propuestas del Consejo Estatal previstas en la presente Ley;
 
 III. Promover el desarrollo social estableciendo acciones en coordinación con las organizaciones, instituciones académicas, grupos empresariales y los habitantes del Estado de Tabasco;
 
@@ -413,17 +465,29 @@ VII. Las demás que señale esta Ley y otros ordenamientos jurídicos federales 
 
 Corresponde a la Secretaría:
 
-I. Formular, instrumentar, supervisar, ejecutar y promover la Política Estatal para el Desarrollo Social e integrar el Programa Estatal de Desarrollo Social;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-II. Evaluar la política y programas de desarrollo social;
+I. Formular, instrumentar, supervisar, ejecutar y promover la Política Estatal para el Desarrollo Social e integrar un programa estatal en la materia;
 
-III. Orientar los programas y recursos estatales de desarrollo social conforme al Programa Estatal correspondiente, y de conformidad con las recomendaciones del Consejo Estatal y el Comité Consultivo;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-IV. Elaborar, administrar y operar el Padrón Único de Beneficiarios de los programas federales, estatales y municipales de desarrollo social;
+II. Coadyuvar en la evaluación de la política y los programas de desarrollo social;
 
-V. Fijar y actualizar los indicadores de medición de la pobreza y vulnerabilidad social en el estado en colaboración con los gobiernos municipales, sin perjuicio de los lineamientos y criterios que de conformidad con la Ley General de Desarrollo Social establezca el Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-VI. Considerar las recomendaciones que emita el Comité Consultivo;
+III. Orientar los programas y recursos estatales de desarrollo social conforme al programa estatal correspondiente, y de conformidad con las recomendaciones del Consejo Estatal y del Consejo Consultivo;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+IV. Elaborar los Padrones de la Secretaría;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+V. Fijar y actualizar los indicadores de medición de la pobreza y vulnerabilidad social en el Estado, en colaboración con los gobiernos municipales, sin perjuicio de los lineamientos y criterios que de conformidad con la Ley General de Desarrollo Social establezca el Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VI. Considerar las recomendaciones que emita el Consejo Consultivo;
 
 VII. Coadyuvar con los ayuntamientos del Estado en la formulación y diseño de los programas de desarrollo social y la correspondiente integración de sus presupuestos, cuando así lo soliciten; y
 
@@ -435,7 +499,9 @@ Corresponde a los Gobiernos municipales:
 
 I. Elaborar y ejecutar el Programa Municipal de Desarrollo Social, en los términos que establezcan los ordenamientos aplicables;
 
-II. Coordinar junto con el Ejecutivo del Estado la ejecución del Programa Estatal de Desarrollo Social;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+II. Coordinar junto con el Ejecutivo del Estado la ejecución del programa estatal en la materia;
 
 III. Proporcionar a la Secretaría la información de beneficiarios y programas de desarrollo social para su integración en el Padrón;
 
@@ -447,7 +513,9 @@ VI. Solicitar el apoyo a las Secretarías y dependencias relacionadas con el des
 
 VII. Establecer mecanismos de control y evaluación de los programas y proyectos de desarrollo social en concordancia con los criterios que emita la Secretaría y sin menoscabo de las establecidas en otras leyes u ordenamientos;
 
-VIII. Considerar las recomendaciones que emita el Comité Consultivo para el Desarrollo Social; y
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Considerar las recomendaciones que emita el Consejo Consultivo para el Desarrollo Social; y
 
 IX.- Las demás que señale esta Ley y otros ordenamientos jurídicos federales y locales en relación con el desarrollo social.
 
@@ -503,9 +571,11 @@ La Secretaría será responsable de llevar a cabo la revisión y seguimiento al 
 
 ### CAPÍTULO IV. DE LA EVALUACIÓN DE LA POLÍTICA DE DESARROLLO SOCIAL
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 46.
 
-La evaluación de la política de desarrollo social estará a cargo de la Secretaría, cuya finalidad será la de evaluar anualmente el cumplimiento del objetivo social de los programas, metas y acciones de la Política Estatal para el Desarrollo Social, para corregirlos, modificarlos, adicionarlos y reorientarlos en el seno del Consejo Estatal.
+La evaluación de la política de desarrollo social estará a cargo de la Unidad de Evaluación del Desempeño del Poder Ejecutivo, cuya finalidad será la de evaluar anualmente el cumplimiento del objetivo social de los programas, metas y acciones de la Política Estatal para el Desarrollo Social, para corregirlos, modificarlos, adicionarlos y reorientarlos en el seno del Consejo Estatal.
 
 ###### ARTÍCULO 47.
 
@@ -515,79 +585,153 @@ Para la evaluación de resultados, los programas sociales de manera invariable d
 
 Los indicadores de resultados que se establezcan deberán reflejar el cumplimiento de los objetivos sociales de los programas, metas y acciones de la Política Estatal para el Desarrollo Social.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 49.
 
-Los indicadores de gestión y servicios que establezca la Secretaría deberán reflejar los procedimientos y la calidad de los servicios de los programas, metas y acciones de la Política Estatal para el Desarrollo Social.
+Los indicadores de gestión y servicios que establezca la Unidad de Evaluación del Desempeño del Poder Ejecutivo deberán reflejar los procedimientos y la calidad de los servicios de los programas, metas y acciones de la Política Estatal para el Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 50.
 
-Las autoridades ejecutoras de los programas a evaluar, proporcionarán a la Secretaría todos los datos y las facilidades necesarias que requiera para rendir su informe trimestral, de conformidad con la fracción VII del artículo 54 de la presente Ley.
+Las autoridades ejecutoras de los programas a evaluar, proporcionarán a la Unidad de Evaluación del Desempeño del Poder Ejecutivo todos los datos y las facilidades necesarias que requiera para rendir su informe trimestral, de conformidad con la fracción V del artículo 54 de la Ley.
 
 ## TÍTULO CUARTO. CONSEJO ESTATAL DE DESARROLLO SOCIAL
 
-### CAPÍTULO I. DEL CONSEJO Y SUS FUNCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+### CAPÍTULO I. DEL CONSEJO ESTATAL Y SUS FUNCIONES
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 51.
 
-El Ejecutivo del Estado, a través de la Coordinación General de Planeación, en el seno del Comité de Planeación para el Desarrollo del Estado de Tabasco, instalará el Consejo Estatal de Desarrollo Social, durante el primer semestre del inicio de la administración pública.
+El Ejecutivo del Estado, a través de la Coordinación General de Vinculación con el Comité de Planeación para el Desarrollo del Estado de Tabasco (COPLADET), en el seno del Comité de Planeación para el Desarrollo del Estado de Tabasco, instalará el Consejo Estatal, durante el primer semestre del inicio de la administración pública.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 52.
 
-El Consejo estará integrado por un Presidente que será el Gobernador del Estado; un Secretario Técnico, que será el Titular de la Secretaría y un Secretario Ejecutivo, designado por éste. Asimismo, serán parte del Consejo los titulares de los Sectores de Educación, Ciencia y Tecnología, de Salud y Asistencia Social, de Desarrollo Agropecuario, Forestal y Pesca, de Comunicaciones, Asentamientos y Obras Públicas, así como los titulares de la Secretaría de Finanzas, de la Secretaría de Contraloría, de la Coordinación General de Planeación del Estado y de la Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia.
+El Consejo Estatal estará integrado por:
 
-El Consejo podrá invitar a los titulares de otras dependencias, entidades u órganos de la administración pública del Poder Ejecutivo cuando se requiera conocer de asuntos específicos.
+I. Un Presidente que será el Gobernador del Estado;
 
-Asimismo, invitará al Presidente de la Comisión Permanente de Atención a Grupos Vulnerables, Personas con Características Especiales y Adultos en Plenitud del Congreso del Estado, así como a los Presidentes Municipales respectivos, en este último caso, cuando se discutan asuntos relacionados con su competencia.
+II. Un Secretario Técnico que será el titular de la Secretaría;
+
+III. Un Secretario Ejecutivo que será el titular de la Coordinación General Ejecutiva de la Gubernatura;
+
+IV. El titular de la Secretaría de Finanzas;
+
+V. El titular de la Secretaría de la Función Pública;
+
+VI. El titular de la Coordinación General de Asuntos Jurídicos;
+
+VII. El titular de la Coordinación General de Vinculación con el Comité de Planeación para el Desarrollo del Estado de Tabasco (COPLADET);
+
+VIII. El titular de la Coordinación General del Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco;
+
+IX. El titular de la Secretaría de Educación;
+
+X. El titular de la Secretaría de Salud;
+
+XI. El titular de la Secretaría de Seguridad y Protección Ciudadana;
+
+XII. El titular de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca;
+
+XIII. El titular de la Secretaría para el Desarrollo Económico y la Competitividad;
+
+XIV. El titular de la Secretaría de Movilidad; y
+
+XV. El titular de la Secretaría de Administración e Innovación Gubernamental.
+
+El Consejo Estatal podrá invitar a los titulares de otras dependencias, entidades u órganos de la administración pública del Poder Ejecutivo cuando se requiera conocer de asuntos específicos.
+
+Asimismo, invitará al Presidente de la Comisión Ordinaria de Bienestar Social, Asuntos Indígenas, Atención a Grupos Vulnerables, Adultos Mayores y Personas con Discapacidades del Congreso del Estado, así como a los presidentes municipales, en este último caso, cuando se discutan asuntos relacionados con su competencia.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 53.
 
-El Consejo Estatal de Desarrollo Social realizará un diagnóstico. sobre el desarrollo social en el Estado, mismo que deberá publicarse en el Periódico Oficial del Estado, en un plazo no mayor de 60 días naturales contados a partir de la fecha de su instalación, a fin de que sea un instrumento de orientación de la política social.
+El Consejo Estatal realizará un diagnóstico sobre el desarrollo social en el Estado, mismo que deberá publicarse en el Periódico Oficial del Estado, en un plazo no mayor de 60 días naturales contados a partir de la fecha de su instalación, a fin de que sea un instrumento de orientación de la política social.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 54.
 
-El Consejo Estatal de Desarrollo Social tendrá las siguientes facultades y obligaciones:
+El Consejo Estatal tendrá las facultades y obligaciones siguientes:
 
 I. Proponer los recursos fiscales ordinarios a incorporarse en el anteproyecto anual de egresos estatal destinados al desarrollo social, observando las disposiciones de los artículos 23 y 24 de esta Ley;
 
-II. Analizar y, en su caso, aprobar la definición de las zonas de atención prioritaria que proponga la Secretaría, conforme al artículo 30 de esta Ley, así como los grupos vulnerables que deban incorporarse a la política de desarrollo social, con base en la evaluación que genere la propia Secretaría;
+II. Analizar y, en su caso, aprobar la determinación de las zonas de atención prioritaria que proponga la Secretaría, conforme al artículo 30 de esta Ley, así como los grupos vulnerables que deban incorporarse a la política de desarrollo social, con base en la evaluación que genere la propia Secretaría;
 
-III. Establecer convenios de colaboración con el Consejo Nacional de Evaluación a efecto de evaluar la política de desarrollo social en el Estado;
+III. Realizar la declaratoria de zonas de atención prioritaria, la cual deberá publicarse en el Periódico Oficial del Estado;
 
-IV. A través de la Secretaría Técnica, revisar los términos de los convenios de coordinación con el Gobierno Federal y los gobiernos municipales en materia de desarrollo social y proponer, en su caso, modificaciones;
+IV. Conocer, revisar y aprobar las reglas de operación de los programas estatales orientados al desarrollo social, a fin de garantizar su viabilidad en lo general y en cuanto a equidad en lo particular;
 
-V. Proponer que se incorporen recursos fiscales ordinarios en el Proyecto de Presupuesto de (sic) General de Egresos para cumplir con los convenios señalados en la fracción anterior;
+V. Reunirse trimestralmente para conocer los avances de la ejecución de los programas de desarrollo social que presente la Unidad de Evaluación del Desempeño del Poder Ejecutivo; y
 
-VI. Conocer, revisar y aprobar las reglas de operación de los programas estatales orientados al desarrollo social, a fin de garantizar su viabilidad en lo general y en cuanto a equidad en lo particular;
+VI. Revisar las recomendaciones del Consejo Consultivo para la realización de estudios o investigaciones específicas y en caso de aprobarse, proponer la incorporación de los recursos fiscales ordinarios en el proyecto de Presupuesto General del Egresos del Estado, para su ejecución.
 
-VII. Reunirse trimestralmente a fin de conocer las evaluaciones de los programas anuales de desarrollo social;
-
-VIII. A través de la Secretaría Técnica, y con el concurso de los sectores, realizar evaluaciones trianuales de impacto sobre el desarrollo social, a partir del diagnóstico realizado sobre el Desarrollo Social del Estado;
-
-IX. Publicar los resultados de las evaluaciones trianuales en el Periódico Oficial del Estado; y
-
-X. Revisar las recomendaciones del Comité Consultivo de Desarrollo Social para la realización de estudios o investigaciones específicas y en caso de aprobarse, proponer la incorporación de los recursos fiscales ordinarios en el proyecto de Presupuesto General del (sic) Egresos del Estado, para su ejecución.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 55.
 
-El Consejo deberá utilizar como referente los criterios y lineamientos que establezca el Consejo Nacional de Evaluación de la Política de Desarrollo Social para la definición y medición de la pobreza, para realizar sus diagnósticos y evaluaciones.
+El Consejo Estatal deberá utilizar como referente los criterios y lineamientos que establezca el Consejo Nacional de Evaluación de la Política de Desarrollo Social para la definición y medición de la pobreza, para realizar sus diagnósticos y evaluaciones.
 
-### CAPÍTULO II. DEL COMITÉ CONSULTIVO DE DESARROLLO SOCIAL
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 55 BIS. - Al Secretario Técnico le corresponde:
+
+I. A petición del Presidente, convocar por escrito a las reuniones trimestrales a que se refiere la fracción V del artículo 54 de esta Ley, por lo menos con cuatro días hábiles previos a la celebración de las mismas;
+
+II. Elaborar el proyecto del orden del día de las reuniones;
+
+III. Elaborar las actas de las reuniones;
+
+IV. Pasar lista de asistencia y verificar la existencia del quorum legal;
+
+V. Llevar el registro de los acuerdos que se tomen en las reuniones; y
+
+VI. Lo demás que le encomiende el Presidente.
+
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 55 TER.- Al Secretario Ejecutivo le corresponde:
+
+I. Elaborar e integrar el Padrón;
+
+II. Administrar, operar y controlar el Padrón; y
+
+III. Lo demás que le encomiende el Presidente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+### CAPÍTULO II. DEL CONSEJO CONSULTIVO DE DESARROLLO SOCIAL
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 56.
 
-El Consejo Estatal de Desarrollo Social deberá constituir un Comité Consultivo de Desarrollo Social de participación ciudadana y conformación plural, con el objeto de analizar propuestas y programas que incidan en el mejor desarrollo y aplicación de la política estatal de desarrollo social, con énfasis en formas y mecanismos que impulsen y propicien la participación ciudadana.
+El Consejo Estatal deberá constituir un Consejo Consultivo de participación ciudadana y conformación plural, con el objeto de analizar propuestas y programas que incidan en el mejor desarrollo y aplicación de la política estatal de desarrollo social, con énfasis en formas y mecanismos que impulsen y propicien la participación ciudadana.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 57.
 
-El Comité Consultivo estará integrado por un Presidente que será el titular de la Secretaría, el Secretario Ejecutivo del Consejo Estatal de Desarrollo Social, quien fungirá como Secretario Técnico y seis especialistas en temas relacionados con el desarrollo social y que pertenezcan a organizaciones sociales o privadas, a instituciones académicas de educación superior o de investigación científica o del sistema estatal de investigadores.
+El Consejo Consultivo estará integrado por un Presidente que será el titular de la Secretaría, el Secretario Ejecutivo del Consejo Estatal, quien fungirá como Secretario Técnico y seis especialistas en temas relacionados con el desarrollo social y que pertenezcan a organizaciones sociales o privadas, a instituciones académicas de educación superior o de investigación científica o del sistema estatal de investigadores.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 58.
 
-Los especialistas que se integren al Comité Consultivo se incorporarán a través de convocatoria pública que emita el Consejo, mismo que aprobará su integración. Durarán en su comisión tres años, tendrán carácter honorario y podrán ser ratificados para un nuevo periodo trianual total o parcialmente.
+Los especialistas que se integren al Consejo Consultivo se incorporarán a través de convocatoria pública que emita el Consejo Estatal, mismo que aprobará su integración. Durarán en su comisión tres años, tendrán carácter honorario y podrán ser ratificados para un nuevo periodo trianual total o parcialmente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 59.
 
-El Consejo deberá cuidar que los especialistas sean designados en atención a su conocimiento en las siguientes materias:
+El Consejo Estatal deberá cuidar que los especialistas sean designados en atención a su conocimiento en las siguientes materias:
 
 I. Educación Pública;
 
@@ -601,19 +745,29 @@ V. Derechos Humanos y grupos vulnerables; y
 
 VI. Productividad y empleo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 60.
 
-El Comité Consultivo de Desarrollo Social tendrá las siguientes funciones:
+El Consejo Consultivo tendrá las funciones siguientes:
 
-I. Proponer al Consejo la realización de estudios e investigaciones específicas;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+I. Proponer al Consejo Estatal la realización de estudios e investigaciones específicas;
 
 II. Revisar el diseño de la política de desarrollo social así como el programa estatal en la materia y proponer adecuaciones, adiciones o modificaciones;
 
-III. Revisar la congruencia del programa estatal de desarrollo social con los programas municipales de desarrollo social y proponer mecanismos de coordinación para mejorar su vinculación con la participación social;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-IV. Conocer y revisar las evaluaciones anuales de los programas de desarrollo social así como la evaluación trianual que realice el Consejo, para proponer mejoras en la aplicación de políticas y programas para el desarrollo social; y
+III. Revisar la congruencia del programa estatal en la materia con los programas municipales de desarrollo social y proponer mecanismos de coordinación para mejorar su vinculación con la participación social;
 
-V. Recibir, revisar y dar a conocer al Consejo propuestas de organizaciones que tengan por objeto impulsar el desarrollo social y que estén en posibilidades de participar activamente en sus acciones, ya sea a nivel estatal, regional, municipal o comunitario.
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+IV. Conocer y revisar las evaluaciones anuales de los programas de desarrollo social, así como la evaluación trianual que realice el Consejo Estatal, para proponer mejoras en la aplicación de políticas y programas para el desarrollo social; y
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+V. Recibir, revisar y dar a conocer al Consejo Estatal propuestas de organizaciones que tengan por objeto impulsar el desarrollo social y que estén en posibilidades de participar activamente en sus acciones, ya sea a nivel estatal, regional, municipal o comunitario.
 
 ## TÍTULO V. DE LAS DENUNCIAS Y SANCIONES
 
@@ -710,3 +864,11 @@ Se derogan todas las disposiciones que se opongan al contenido de la presente re
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado tendrá 90 días naturales para realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social del Estado de Tabasco, y demás disposiciones legales y reglamentarias aplicables, contados a partir de su entrada en vigor.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 155 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2; 5; 19; 20, PÁRRAFOS PRIMERO Y SEGUNDO; 23; 28; 30; 32; 35, FRACCIÓN X; 38 FRACCIÓN II; 39, FRACCIONES I, II, III, IV, V Y VI; 40, FRACCIONES II Y VIII; 46; 49; 50; 51; 52; 53; 54; 55; 56; 57; 58; 59; LA DENOMINACIÓN DEL CAPÍTULO I, PARA INTITULARSE “DEL CONSEJO ESTATAL Y SUS FUNCIONES” Y DEL CAPÍTULO II, PARA INTITULARSE “DEL CONSEJO CONSULTIVO DE DESARROLLO SOCIAL”; Y 60, PÁRRAFO PRIMERO Y FRACCIONES I, III, IV Y V; Y SE ADICIONAN LOS ARTÍCULOS 55 BIS Y 55 TER, TODOS DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
