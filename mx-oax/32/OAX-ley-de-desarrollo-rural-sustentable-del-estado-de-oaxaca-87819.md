@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2019-05-15"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -80,6 +80,10 @@ VIII. Promover la celebración de convenios con el sector privado de tiendas de 
 > <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
 IX. Promover acciones concretas de desarrollo sostenible en el campo, teniendo lazos de colaboración institucional con las demás dependencias del sector para focalizar sus acciones en las zonas de atención prioritaria a que se refiere la Ley de Desarrollo Social para el Estado de Oaxaca y como lo disponen las fracciones que anteceden.
+
+> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+X. Promover programas y apoyos dirigidos a desarrollar las capacidades de los jóvenes productores rurales que se dediquen preponderantemente a las actividades agropecuarias y agroforestales para favorecer el relevo generacional que contribuirá al desarrollo rural sustentable de nuestro estado, y demás aplicables a la presente Ley.
 
 ###### ARTÍCULO 4.
 
@@ -1047,9 +1051,9 @@ La Secretaría fomentará un desarrollo productivo, comercial y agropecuario en 
 
 El Ejecutivo Estatal con base en lo dispuesto por las leyes aplicables, establecerá y fortalecerá en coordinación con la Federación, el Sistema Estatal de Sanidad, Inocuidad y Calidad Agropecuaria y Alimentaria, con la participación del sector público y privado.
 
-> <small>(REFORMADO P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-Para tal efecto las acciones y programas se orientarán a inhibir gradualmente la importación, tránsito, manejo y siembra de organismos genéticamente modificados, para evitar la entrada de plagas y enfermedades al Estado, en particular las de interés cuarentenario; a controlar y erradicar las existentes y acreditar en el ámbito estatal y regional la condición sanitaria de la producción agropecuaria.
+Para tal efecto las acciones y programas se orientarán a inhibir gradualmente la importación, tránsito, manejo y siembra de organismos genéticamente modificados, para evitar la entrada de plagas y enfermedades al Estado, en particular las de interés cuarentenario; a controlar y erradicar las existentes y acreditar en el ámbito estatal y regional la condición sanitaria de la producción agropecuaria; e implementar acciones tendientes a prohibir el uso de insecticidas, plaguicidas y/o pesticidas de cualquier fórmula química que dañe el medio ambiente y la salud.
 
 La Secretaría participará y mantendrá estrecha coordinación con las dependencias y organismos federales y estatales que norman e inciden en la sanidad agropecuaria e inocuidad alimentaria, así como con las organizaciones y agentes de las cadenas agropecuarias, agroindustriales y de otras actividades económicas.
 
@@ -1700,3 +1704,19 @@ P.O. 15 DE MAYO DE 2019.
 PRIMERO.- El presente Decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 824.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PECUARIA DEL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 827.- MEDIANTE EL CUAL ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
