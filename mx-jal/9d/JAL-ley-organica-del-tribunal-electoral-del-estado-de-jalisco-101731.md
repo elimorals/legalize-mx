@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-tribunal-electoral-del-estado-de-jalisco-10173
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-08"
-last_updated: "2014-07-08"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Jalisco, el martes 8 de julio del 2014.
 
@@ -69,9 +69,11 @@ VI (SIC). Reglamento: El Reglamento Interno del Tribunal Electoral del Estado de
 
 VII. Tribunal: El Tribunal Electoral del Estado de Jalisco;
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 4.
 
-1. El Tribunal se integrará por cinco magistrados designados por el Senado de la República por el periodo; forma y términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la ley general de la materia. Para que pueda funcionar válidamente se requiere la concurrencia de la mayoría de sus integrantes.
+1. El Tribunal se integrará por tres magistrados designados por el Senado de la República por el periodo, forma y términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la ley general de la materia. Para que pueda funcionar válidamente se requiere la concurrencia de la mayoría de sus integrantes.
 
 ###### Artículo 5.
 
@@ -135,9 +137,11 @@ VII. Ejercer las demás atribuciones que le señalen otros ordenamientos aplicab
 
 ### CAPÍTULO III. DEL PLENO DEL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 13.
 
-1. El Pleno del Tribunal se integra con cinco magistrados designados por el Senado de la República y tendrá las siguientes atribuciones:
+1. El Pleno del Tribunal se integra con tres magistrados designados por el Senado de la República y tendrá las siguientes atribuciones:
 
 I. Designar a su presidente;
 
@@ -510,3 +514,11 @@ El Secretario General de Gobierno
 MTRO. ROBERTO LÓPEZ LARA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27571/LXII/19 QUE REFORMA LOS ARTÍCULOS 4 Y 13 DE LA LEY ORGÁNICA DEL TRIBUNAL ELECTORAL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor (sic) día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
