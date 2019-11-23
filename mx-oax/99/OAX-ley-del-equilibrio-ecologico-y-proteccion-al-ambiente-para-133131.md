@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2019-08-31"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
-Ley publicada en la Décima Primera Sección al Número 45 del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
+Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
 MTRO. ALEJANDRO ISMAEL MURAT HINOJOSA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 
@@ -977,7 +977,7 @@ El Consejo estará integrado por un máximo de quince miembros propietarios, qui
 
 Este Consejo tendrá como objetivo analizar los problemas y proponer prioridades, programas y acciones para el manejo del Sistema Estatal de Áreas Naturales Protegidas.
 
-Las opiniones y recomendaciones que formule el Consejo, deberán ser considerados por la Secretaría en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
+Las opiniones y recomendaciones que formule el Consejo, deberán ser considerados (sic) por la Secretaría en el ejercicio de las facultades que en materia de áreas naturales protegidas le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
 
 #### SECCIÓN II. DE LAS ÁREAS NATURALES PROTEGIDAS
 
@@ -2201,9 +2201,11 @@ Los propietarios o poseedores de predios y los titulares de áreas concesionadas
 
 Quienes realicen actividades agrícolas y pecuarias deberán llevar a cabo las prácticas de conservación y recuperación necesarias para evitar el deterioro de los suelos y del equilibrio ecológico.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 169.
 
-La Secretaría promoverá directamente o en coordinación con las dependencias federales y estatales competentes que los productores y agrupaciones agrícolas realicen un uso racional y con apego a las disposiciones aplicables de los plaguicidas y fertilizantes, propiciando el aprovechamiento y conservación del suelo.
+La Secretaría promoverá directamente o en coordinación con las dependencias federales y estatales competentes que los productores y agrupaciones agrícolas inhiban el uso de plaguicidas y/o pesticidas de cualquier fórmula química que dañe el medio ambiente y la salud; prohibidas por la Comisión Federal Para la Protección contra Riesgos Sanitarios, asimismo queda prohibido que dentro de las políticas públicas o programas sociales la Secretaría entregue agroquímicos que dañen el medio ambiente, de los cuales no se haya comprobado su seguridad y eficacia con riesgos ambientales.
 
 ### CAPÍTULO IV. ACTIVIDADES QUE NO SEAN CONSIDERADAS ALTAMENTE RIESGOSAS
 
@@ -3094,3 +3096,11 @@ P.O. 31 DE AGOSTO DE 2019.
 PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 824.- MEDIANTE EL CUAL REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PECUARIA DEL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO; Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE (SIC) EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
