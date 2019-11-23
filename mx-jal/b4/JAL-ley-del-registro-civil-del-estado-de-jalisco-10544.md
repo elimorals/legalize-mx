@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2019-11-19"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,21 +21,35 @@ state: "JAL"
 ---
 # LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
+REGLAMENTO PARA EL FUNCIONAMIENTO DEL CONSEJO CONSULTIVO DE PESCA Y ACUACULTURA DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2019.
+TEXTO ORIGINAL.
 
-Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
+Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 30 de junio de 2006.
 
-Al margen un sello que dice: Gobierno de Jalisco. Poder Ejecutivo. Secretaría General de Gobierno. Estados Unidos Mexicanos.
+EL C. LIC. JULIO CESAR ARENAS RUIZ, SECRETARIO FEDATARIO DEL XVIII AYUNTAMIENTO CONSTITUCIONAL DE ENSENADA, BAJA CALIFORNIA, CON FUNDAMENTO EN LO DISPUESTO POR LOS ARTICULOS 115 FRACCION II DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS; 81 DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; ARTICULO 5 DE LA LEY DEL REGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA Y ARTICULO 66, FRACCION IX Y X DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA; BAJA CALIFORNIA; HACE CONSTAR Y CERTIFICA, QUE EN SESION EXTRAORDINARIA DE CABILDO CELEBRADA EL DIA 30 DE MAYO DEL AÑO 2006, SE TOMO EL SIGUIENTE:
 
-Carlos Rivera Aceves, Gobernador Sustituto del Estado Libre y Soberano de Jalisco, a los habitantes del mismo hago saber:
+A C U E R D O:
 
-Que por la Secretaría del H. Congreso del Estado, se me ha comunicado el siguiente:
+Se aprobó por unanimidad de votos de los munícipes presentes del XVIII Ayuntamiento Constitucional de Ensenada, Baja California, el Dictamen No. 01/06, presentado por las Comisiones Conjuntas de Pesca y la de Gobernación y Legislación, Coordinadas por los CC. Regidores, María Nélida Pelayo Ponce y Orlando Toscano Montaño, relativo al Proyecto de Reglamento para el Funcionamiento del Consejo Consultivo de Pesca y Acuacultura del Municipio de Ensenada, B. C.
 
-DECRETO
+MA. NELlDA PELAYO PONCE, ORLANDO A. TOSCANO MONTAÑO, GILBERTO FLORES MUÑOZ, ARNOLDO CARLOS GARCIA GUERRERO, GEORGINA POSADA APARICIO, RICARDO LOMELI SEDANO, ERNESTO PEDRIN MARQUEZ, ALFONSO TALAVERA HERNANDEZ, Y ARMANDO REYES LEDEZMA; Los suscritos Regidores Integrantes de las respectivas comisiones de Pesca así como de la Comisión de Gobernación y Legislación del XVIII Ayuntamiento de Ensenada, tenemos a bien someter a la consideración de este H. Cabildo, para su Aprobación el presente PROYECTO DE REGLAMENTO PARA EL FUNCIONAMIENTO DEL CONSEJO CONSULTIVO DE PESCA Y ACUACULTURA DEL MUNICIPIO DE ENSENADA, B. C.
 
-NUMERO 15777.- El Congreso del Estado decreta:
+FUNDAMENTACION:.
+
+CUARTO.- Publíquese el Reglamento en el Periódico Oficial del Gobierno del Estado, lo anterior para los efectos de su entrada el (sic) vigor.
+
+Dado en la Sala de presidentes de Palacio Municipal, a los 30 treinta días del mes de Mayo del 2006.
+
+La votación fue la siguiente: - Catorce votos a favor, correspondientes a los CC. Regidores, Ernesto Pedrín Márquez, Ricardo Lomelí Sedano, Alfonso Talavera Hernández, Adela Lozano López, Georgina Posada Aparicio, María Nélida Pelayo Ponce, Jesús Salvador Abarca Macklis, José Felipe Romero Guzmán, Arnoldo Carlos García Guerrero, Armando Reyes Ledezma, Rocío López Gorosave, Gilberto Flores Muñóz, Orlando Toscano Montaño y al Presidente Municipal, César Mancillas Amador. Una ausencia momentánea, correspondiente al Síndico Procurador, Isaac Chapluk Pabloff.
+
+Se extiende la presente Certificación para los usos legales a que haya lugar, el día 21 de Junio del año dos mil seis, en la Ciudad de Ensenada, Baja California, México.
+
+El Secretario Fedatario del XVIII Ayuntamiento de Ensenada.
+
+LIC. JULIO CESAR ARENAS RUIZ.
+
+REGLAMENTO PARA EL FUNCIONAMIENTO DEL CONSEJO CONSULTIVO DE PESCA Y ACUACULTURA DEL MUNICIPIO DE ENSENADA, B.C.
 
 ###### ARTICULO UNICO.
 
@@ -43,345 +57,367 @@ Se expide la "Ley del Registro Civil del Estado de Jalisco, para quedar como sig
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-### CAPITULO I. Disposiciones generales
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+###### ARTÍCULO 1.
 
-###### Artículo 1.
+Se crea el Consejo Consultivo de Pesca y Acuacultura del Municipio de Ensenada, Baja California, para actuar en coordinación, colaboración y consulta con las autoridades municipales, estatales y federales en las materias de pesca y acuacultura, así como con los organismos productivos social y privado de los sectores primario y de servicios, con el propósito de fomentar, promover, apoyar y atender a quienes se dedican a esta actividad económica, mediante el aprovechamiento sustentable, integral y responsable de los recursos acuícolas y pesqueros del Municipio, teniendo como objetivos elevar el nivel de calidad de vida de los integrantes del sector pesquero, la competencia económica, el mantenimiento y generación de empleos, obtención de divisas y la extracción y producción de alimentos y otros recursos naturales del mar.
 
-El Registro Civil es una institución de orden público y de interés social por medio de la cual el Estado hace constar, en forma auténtica y da publicidad a los hechos y actos constitutivos, modificativos y extintivos del estado civil de las personas.
+###### ARTÍCULO 2.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+El Consejo Consultivo, es un organismo de participación ciudadana, auxiliar de la administración municipal que actuará directamente en colaboración con el área o dependencia a cargo de las actividades de fomento económico y vinculación empresarial del Ayuntamiento.
 
-###### Artículo 2.
+Participará en las tareas de: planeación, gestión, consulta, propuesta, seguimiento, evaluación y control de políticas y programas públicos que impulsen y promuevan: el desarrollo de la acuacultura y la pesca, el mejoramiento social en la calidad de vida de los ciudadanos que participan económicamente de ese sector, la vinculación con los sectores científicos y tecnológicos de la región.
 
-El Registro Civil es público, por ello toda persona puede solicitar copias o extractos certificados de las actas del estado civil así como de los documentos archivados y de las constancias de todo lo referente a la función propia de la Institución.
+###### ARTÍCULO 3.
 
-La certificación es el medio de publicidad de las actas y documentos que obren en los diversos archivos del Registro Civil.
+Para los efectos de este Reglamento, se entenderá por:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2017)</small>
+I. Consejo: El Consejo Consultivo de Pesca y Acuacultura del Municipio de Ensenada, B.C.;
 
-Las copias o extractos certificados tendrán pleno valor y podrán ser presentadas ante cualquier instancia pública o privada, con independencia de su fecha de expedición, salvo que se requiera acreditar el estado civil del interesado.
+II. Comisión: La Comisión de Pesca del Ayuntamiento;
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2018)</small>
+III. Consejero: Los miembros integrantes del Consejo, y
 
-Los certificados de actas y documentos impresos vía electrónica mediante las plataformas habilitadas para tal efecto que autorice el Estado o que mediante convenios valide con la Federación o las entidades federativas derivadas de la Base de Datos Nacional del Registro Civil, gozarán de valor pleno y deberán ser admitidos por las instancias públicas o privadas, siempre y cuando se desprendan de la impresión respectiva, los elementos de seguridad mediante los cuales se convalide la información y datos asentados.
+IV. Consejero Ciudadano: De los integrantes del Consejo, aquellos que representan a algún grupo del sector pesquero y que no formen parte de órganos de gobierno o instituciones educativas y/o de investigación.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+### CAPÍTULO SEGUNDO. DEL CONSEJO
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+###### ARTÍCULO 4.
 
-###### Artículo 3.
+El Consejo Consultivo tendrá los siguientes objetivos:
 
-Serán norma supletoria de las disposiciones de esta ley la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes, el Código Civil y el Código de Procedimientos Civiles, ambos del Estado de Jalisco.
+I. Contribuir al desarrollo sustentable en todas las acciones de las actividades propias de las pesquerías, que se desarrollan en aguas de jurisdicción del municipio de Ensenada, incluyendo un aprovechamiento óptimo de los recursos pesqueros y acuícolas con base en el mejor conocimiento científico y tecnológico, sin menoscabo de su conservación y respeto al medio ambiente y teniendo en cuenta los factores económicos y sociales de la región;
 
-### CAPITULO II. De la Dirección General del Registro Civil
+II. Promover, propiciar y asegurar la coordinación y colaboración entre los gobiernos federal, estatal y municipal, con la participación concertada de los sectores productivos y de investigación científica y tecnológica, en la ejecución de acciones programáticas en materia de administración de pesquerías previstas en los planes de desarrollo de los tres ordenes de gobierno;
 
-###### Artículo 4.
+III. Promover la difusión y la extensión entre los integrantes del sector pesquero y acuícola los resultados de las investigaciones científicas y tecnológicas desarrolladas en las instituciones estatales o regionales de investigación y educación superior;
 
-Las funciones del Registro Civil estarán a cargo de:
+IV. Promover la realización de convenios o acuerdos de coordinación entre los gobiernos federal, estatal y municipal y los productores, en materia de administración, inspección, vigilancia y sanidad de los recursos pesqueros y acuícolas que se aprovechan en el municipio;
 
-I. La Dirección General del Registro Civil;
+V. Colaborar, elaborar con los sectores productivos y promover ante las autoridades competentes, propuestas de lineamientos, acciones y procedimientos para mejorar la actividad pesquera con base en los criterios y principios de pesca responsable;
 
-II. Un oficial jefe del Registro Civil, en cada cabecera municipal; y
+VI. Promover y difundir ante los integrantes del sector, el acceso a los programas, fondos económicos y sus reglas de operación, con que cuentan los tres ordenes de gobierno y las instituciones financieras publicas y privadas;
 
-III. Las oficialías que sean necesarias para el cumplimiento eficaz de este servicio. El número y la ubicación de las oficialías del Registro Civil se determinará de acuerdo a las circunstancias socioeconómicas del lugar, sus distancias, medios de comunicación y distribución de la población.
+VII. Promover mediante la vinculación con los centros de educación e investigación públicos y privados, programas, actividades de capacitación en la gestión empresarial, tecnologías de captura, acuacultura, conservación, industrialización y comercialización, entre otras, tendientes a propiciar la actualización y modernización del sector;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+VIII. Promover el servicio social, las practicas profesionales, elaboración de tesis, trabajos de investigación de estudiantes de los centros de educación media y superior, principalmente en unidades de producción y aprovechamiento de recursos del mar privadas y sociales;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+IX. Promover ante los integrantes del sector cursos y talleres de capacitación con instituciones publicas y privadas sobre las bases normativas vigentes que intervienen en el desarrollo y fomento económico de este sector;
 
-Las autoridades previstas en este artículo atenderán de inmediato las medidas que en el ejercicio de sus funciones dicte la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+X. Promover el desarrollo social integral de las comunidades que se dedican a la actividad de la pesca y acuacultura en el municipio;
 
-###### Artículo 5.
+XI. Colaborar y coordinarse con las autoridades competentes en la aplicación, observancia y cumplimiento del marco legal vigente relacionado con todas las actividades de la pesca y la acuacultura;
 
-La Dirección General del Registro Civil dependerá de la Secretaría General de Gobierno del Estado; en tanto que los oficiales jefes y las oficialías dependerán de los ayuntamientos.
+XII. Proponer y participar en la elaboración de las políticas publicas federal, estatal y municipal que promuevan el aprovechamiento racional y sustentable, de los recursos pesqueros y acuícolas; así como el fomento y promoción de las actividades pesqueras y acuícolas que aseguren el desarrollo con justicia y equidad de quienes participen en ellas;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
+XIII. Promover de manera decidida el impulso de la acuacultura en las comunidades costeras rurales, como una alternativa de reconversión productiva y económica;
 
-###### Artículo 6.
+XIV. Impulsar la creación de un sistema para la certificación de calidad y origen de los productos pesqueros de Ensenada y Baja California.
 
-La Dirección General del Registro Civil tendrá a su cargo el Archivo General, donde se conservarán los ejemplares de las actas y los documentos relativos a las mismas, los que deberán de integrarse en expedientes relacionados conforme al número de acta que les corresponda. En caso de inscripción computarizada, la consulta, conservación y distribución de esta información se regirá conforme al procedimiento que establezca el reglamento respectivo.
+###### ARTÍCULO 5.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2007)</small>
+Son atribuciones del Consejo Consultivo:
 
-Asimismo, será parte integrante del Archivo General la base de datos del Registro Civil, la cual estará conformada por los archivos electrónicos de las imágenes digitalizadas y datos capturados de los ejemplares de las actas, así como de los documentos relativos a las mismas, por lo que dichos archivos electrónicos tendrán el mismo valor probatorio que los ejemplares de las actas resguardados en los libros respectivos, siempre y cuando se encuentren respaldados por la firma electrónica del oficial del Registro Civil ante el que se hayan levantado, o en su caso, del Director General del Registro Civil.
+I. Participar en la elaboración de los Planes de desarrollo estatal y municipal y en los programas estatal y municipal, en lo que se refiere a las actividades de pesca y acuacultura en el municipio de Ensenada, mediante procesos de planeación participativa;
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2007)</small>
+II. Someter a consideración del Ayuntamiento, los trabajos elaborados en el cumplimiento de los propósitos del Consejo;
 
-La Dirección General del Registro Civil expedirá las certificaciones y extractos de las actas y documentos que se encuentren en sus archivos, conforme a las disposiciones de esta ley y su reglamento.
+III. Conformar comisiones para promover y gestionar estudios técnicos y de diagnóstico, organizadas por pesquerías o áreas de interés, según corresponda;
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+IV. Debatir y aprobar los documentos que servirán de base en la elaboración del plan y programa anual de trabajo del Consejo y las Comisiones, a fin de establecer objetivos, definir metas y evaluar logros a corto y largo plazo;
 
-La Dirección General del Registro Civil será la responsable, a través del Director del Archivo General, de organizar y conservar su acervo documental, y de su operación institucional en cumplimiento de las disposiciones de la legislación federal y estatal en la materia, y será parte integrante del respectivo Consejo Estatal de Archivos.
+V. Informar, basado en estudios propios y ajenos, de las características especiales y específicas de la región a las autoridades responsables, con el objeto de que éstas tomen en consideración dichas circunstancias para la modificación y adecuación de la normatividad y aplicación de programas;
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+VI. Difundir los propósitos, objetivos generales y específicos y acuerdos del Consejo entre las dependencias y entidades de la administración pública, y sobre todo los sectores económicos y sociales vinculados con el sector, y en general a toda la población;
 
-Además, como sujeto obligado, tendrá las obligaciones que en los mencionados ordenamientos legales se contemplen para la adecuada gestión documental y administración del Archivo.
+VII. Actuar en coordinación permanente con el área de fomento económico y vinculación empresarial del Ayuntamiento, para promover proyectos con los productores, que sean financiables por los sectores publico y privado, viables y sustentables, asegurando que participen activamente las instituciones sociales, políticas y económicas que por naturaleza de los mismos sean convenientes;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+VIII. Promover ante las autoridades estatales y federales la elaboración de la carta acuícola y pesquera correspondiente al municipio de Ensenada;
 
-El Registro expedirá un certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos, protegiendo los datos personales sensibles, no podrá darse a conocer el nombre del o los menores de edad acreedores, de conformidad con la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Jalisco y sus Municipios.
+IX. Rendir informe anual de las actividades realizadas, ante el pleno del Cabildo, y
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+X. Rendir informes específicos ante la Comisión de Pesca del Ayuntamiento.
 
-###### Artículo 7.
+###### ARTÍCULO 6.
 
-La Dirección General del Registro Civil recomendará el uso de los mejores medios técnicos que existan y puedan aprovecharse, tanto por el Archivo General como por las oficialías, para la óptima conservación de los documentos y para la expedición de las copias certificadas.
+Los recursos económicos de los ordenes federal, estatal o municipal, o bien los privados o de fundaciones altruistas nacionales o internacionales, que sean destinados al Ayuntamiento para su aplicación, asignación o administración, mediante programas, proyectos o acciones, tendientes a impulsar y promover la pesca y la acuacultura en la jurisdicción de este municipio, será el Consejo, por votación de las dos terceras partes de sus integrantes, quien determine una propuesta de los destinatarios y/o beneficiarios de dichos fondos, misma que será sometida para su aprobación al Ayuntamiento.
 
-Como parte integral del Sistema Estatal de Archivos, el Archivo General se constituirá como un conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos, normas, instancias, instrumentos, procedimientos y servicios tendientes a cumplir con los fines de la institución y con la conservación homogénea de los documentos bajo su jurisdicción.
+###### ARTÍCULO 7.
 
-Así mismo estará coordinado con los Sistemas estatales de Transparencia y Anticorrupción y deberá:
+El Consejo Consultivo se integra con los siguientes consejeros propietarios y su suplente respectivo:
 
-I. Fomentar la capacitación y la profesionalización del personal encargado de la organización y coordinación de los sistemas de archivo con una visión integral;
+I. El Presidente Municipal o quien él designe;
 
-II. Celebrar acuerdos interinstitucionales para el intercambio de conocimientos técnicos en materia archivística, transparencia, acceso a la información y rendición de cuentas;
+II. Los integrantes de la comisión de pesca del ayuntamiento;
 
-III. Promover acciones coordinadas de protección del patrimonio documental y del derecho de acceso a los archivos; y
+III. El titular del área o dependencia a cargo de las actividades de Fomento Económico y vinculación empresarial del Ayuntamiento;
 
-IV. Promover la digitalización de la información generada con motivo del ejercicio de sus funciones y atribuciones.
+IV. Un representante de organizaciones o asociaciones que pertenecen a cada una de las siguientes ramas:
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+a. Armadores de pesca deportiva;
 
-###### Artículo 8.
+b. Organizaciones de la pesca deportiva;
 
-Para ser Director General del Registro Civil se requiere tener la nacionalidad mexicana; poseer título de abogado o licenciado en derecho legalmente expedido e inscrito en la Dirección de Profesiones del Estado; una práctica profesional de cinco años cuando menos y no ser menor de treinta años de edad, ni mayor de sesenta y cinco, el día de su designación.
+c. De la pesca ribereña del Golfo de California;
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2019)</small>
+d. De la pesca ribereña del Pacífico;
 
-###### Artículo 9.
+e. De pescadores asalariados;
 
-Para ser titular del Archivo General del Registro Civil se requieren las mismas condiciones que establece el artículo anterior, salvo el de la práctica profesional y además deberá:
+f. De acuacultura;
 
-I. Tener conocimientos sobre archivonomía; y
+g. De maricultura;
 
-II. Recibir, dentro de los primeros tres meses a partir del inicio de su encargo, capacitación en materia de conservación y administración de archivos.
+h. De pesca de altura;
 
-###### Artículo 10.
+i. Por cada Federación Regional de Sociedades Cooperativas;
 
-El director general del Registro Civil tendrá en todo tiempo la facultad de objetar la designación de los oficiales del Registro Civil y en su caso, proponer la remoción de los mismos, cuando a su juicio las personas designadas no cumplan los requisitos o incumplan reiteradamente sus obligaciones en el desempeño de su cargo, conforme a las disposiciones de esta ley y las demás aplicables, quedando a criterio del presidente municipal atender dichas observaciones.
+j. De la Cámara Nacional de la Industria Pesquera;
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+k. De pescadores de asociaciones gremiales;
 
-###### Artículo 11.
+l. De la asociación de comerciantes del mercado de mariscos de Ensenada, y
 
-La dependencia municipal responsable del Registro Civil, en coordinación con la Dirección General del Registro Civil, proporcionará y verificará la capacitación de los oficiales del Registro Civil, antes y durante el ejercicio de sus funciones, siendo esta capacitación obligatoria y con la finalidad de lograr la optimación (sic) de los recursos humanos y materiales de la institución.
+m. De PROTURISMO de Ensenada.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1999)</small>
+###### ARTÍCULO 8.
 
-Quien sea designado, se aplicará de inmediato a recibir capacitación en los términos del párrafo anterior, la que deberá concluir dentro de los tres meses siguientes. La inobservancia de lo anterior por causa imputable al designado, tendrá por efecto la pérdida del cargo.
+Para garantizar el mejor funcionamiento y desempeño del consejo o las comisiones estos podrán invitar a sus sesiones de trabajo, solo con derecho a voz para que emitan sus opiniones pertinentes, a los representantes de las Instituciones que se establecen en las fracciones siguientes:
 
-###### Artículo 12.
+I. Centro Regional de Investigación Pesquera (CRIP);
 
-La Dirección General del Registro Civil organizará en forma permanente y periódica, reuniones de capacitación y evaluación con los oficiales del Registro Civil y asimismo todo tipo de actos y eventos, cuya finalidad sea la superación de la institución y actualización de sus servidores públicos.
+II. Centro de Investigación Científica y de Educación Superior de Ensenada;
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
+III. Instituto de Investigaciones Oceanológicas de la Universidad Autónoma de Baja California;
 
-###### Artículo 13.
+IV. Centro de Estudios Tecnológicos del Mar;
 
-Corresponde a la Dirección General del Registro Civil proponer al Gobernador, con estricta observancia del artículo 12 de la Ley Orgánica del Poder Ejecutivo del Estado, la celebración de convenios de coordinación en materia de Registro Civil, con las autoridades federales, estatales y municipales, especialmente con las instituciones encargadas de la seguridad social.
+V. Secundaria Técnica Pesquera No. 8;
 
-###### Artículo 14.
+VI. Dirección de Pesca de la Secretaría de Fomento Agropecuario (SEFOA);
 
-La Dirección General del Registro Civil cuidará que las actas y actos del Registro Civil se lleven debidamente, pudiendo revisarlos en cualquier época, comunicando a la autoridad administrativa correspondiente, las faltas en el cumplimiento en que hubieren incurrido los servidores públicos respectivos; en el caso de que éstas constituyeren delitos, hará la denuncia correspondiente ante el ministerio público, para que ejercite las acciones que marca la ley; debiendo en todo caso rendir informe oportuno del resultado a la Secretaría General de Gobierno, del cuál se mandará agregar una copia al libro a que se refiere y otra al correspondiente que se halle en el Archivo del Registro.
+VII. Delegación de la Secretaria de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA);
 
-### CAPITULO III. De los oficiales del Registro Civil
+VIII. Secretaría del Medio Ambiente y Recursos Naturales;
 
-###### Artículo 15.
+IX. Dirección General de Inspección y Vigilancia de la Comisión Nacional de Acuacultura y Pesca;
 
-La titularidad de las oficialías estará a cargo de los servidores públicos denominados oficiales del Registro Civil, quienes tendrán fe pública en el desempeño de las labores propias de su cargo.
+X. Procuraduría Federal de Protección al Ambiente;
 
-###### Artículo 16.
+XI. Secretaría de Marina;
 
-Se designarán oficiales del Registro Civil auxiliares de la oficialía correspondiente, cuando las necesidades del trabajo lo requieran para la mejor prestación del servicio, los que estarán bajo la dirección, responsabilidad y vigilancia del titular de la oficialía.
+XII. Asociación de Oceanólogos de México, A.C.;
 
-###### Artículo 17.
+Así mismo, se podrá invitar a otros ciudadanos que por su experiencia y conocimientos se justifique o sea necesario contar con su presencia.
 
-El presidente municipal designará al oficial jefe y a los titulares de la Oficialía del Registro Civil y en su caso, a los oficiales del Registro Civil auxiliares adscritos.
+###### ARTÍCULO 9.
 
-###### Artículo 18.
+Para garantizar el buen funcionamiento y logro de los fines del Consejo y sus Comisiones el área o dependencia a cargo de las actividades de fomento económico y vinculación empresarial del Ayuntamiento, asegurara en su programa de actividades y presupuesto los medios técnicos, materiales y humanos que se requieran.
 
-El presidente municipal podrá realizar las funciones encomendadas al oficial del Registro Civil.
+###### ARTÍCULO 10.
 
-###### Artículo 19.
+Para el logro de sus fines y propósitos, el Consejo actuará en pleno y en Comisiones. Estas habrán de funcionar por actividades, pesquerías o temas específicos propios del sector y para vigilar y dar seguimiento a los acuerdos y resultados del Consejo.
 
-Son requisitos para ser oficial del Registro Civil:
+###### ARTÍCULO 11.
 
-I. Tener la nacionalidad mexicana;
+Las comisiones a las que se refiere el artículo anterior deberán funcionar por lo menos con los siguientes integrantes:
 
-II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
+I. Un coordinador;
 
-III. Estar avecindado por lo menos un año en el lugar de su adscripción, previamente a su designación;
+II. Un secretario, y
 
-IV. Estar en el pleno ejercicio de sus derechos ciudadanos;
+III. Los vocales que el consejo determine.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+###### ARTÍCULO 12.
 
-V. Poseer título de abogado o de licenciado en derecho y una práctica profesional de tres años; y
+Las comisiones deberán realizar las siguientes funciones:
 
-VI. No tener antecedentes penales por delito doloso.
+I. Promover y participar en la realización del plan y programa de pesca y acuacultura municipal el cual por lo menos deberá contener, los siguientes aspectos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+a. Diagnostico sobre el estado e historia de las pesquerías (comportamiento de la producción, esfuerzo y valor de la producción).
 
-###### Artículo 20.
+b. Caracterización de los productores y sus organizaciones.
 
-Los requisitos del artículo precedente podrán disminuir de conformidad con lo previsto en los párrafos siguientes, en los municipios con menos de treinta mil habitantes sólo respecto de la práctica profesional.
+c. Régimen de pesca, tecnologías y operaciones de explotación.
 
-Cuando el cargo de Oficial del Registro Civil esté vacante y no se encuentre quien cumpla con los requisitos señalados, el Presidente Municipal convocará, dentro de los treinta días siguientes a quienes cumplan con lo previsto por el artículo 19, excepto en lo relativo a la práctica profesional.
+d. Problemática y propuesta de solución.
 
-Cuando ninguno de los comparecientes reúna los requisitos mencionados, deberá expedirse una segunda convocatoria en la que se exigirá que la edad mínima sea de veintiún años e instrucción preparatoria concluida, debiéndose observar en lo conducente, lo ordenado en el párrafo anterior.
+II. Participar en la elaboración y vigilar que se mantenga actualizado el Sistema de Información acerca de las actividades pesca (sic) y acuacultura que se realizan en el municipio de Ensenada y que están a cargo de la Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA) en el Estado de Baja California, la cual contará con información clasificada por unidad de pesquería incluyendo registros de los agentes productivos;
 
-###### Artículo 21.
+III. Promover e Identificar nuevas áreas de oportunidad para el fomento y desarrollo de la pesca y acuacultura mediante el acopio de información científica, tecnológica y de aquella que se derive de la practica o experiencia pesquera, informando de estos resultados adecuadamente a los integrantes del sector;
 
-Son facultades y obligaciones de los oficiales del Registro Civil, además de las ya establecidas, las siguientes:
+IV. Proponer las medidas necesarias para el desarrollo ordenado de la pesca dentro del marco de la sustentabilidad, especialmente de aquellas relativas a modificaciones al régimen actual de administración pesquera, sistemas y métodos de pesca, organización del sector y alternativas de aprovechamiento, con base en el mejor conocimiento científico y tecnológico, debiéndose observar y tomar en cuenta el “criterio de precaución”, cuando se carezca de información suficiente;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2004)</small>
+V. Proponer a la Dirección General de Ordenamiento Pesquero y Acuícola, proyectos específicos para la regularización y ordenamiento de aquellas pesquerías que lo requieran;
 
-I. Tener en existencia las formas del registro civil necesarias para el levantamiento de las actas del registro civil, así como para la expedición de las copias certificadas, de los extractos de las mismas y documentos del apéndice;
+VI. Proponer a las autoridades normativas competentes la adopción de las disposiciones administrativas de regulación pesquera y acuícola con base en estudios científicos, tecnológicos y socioeconómicos;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+VII. Promover y participar en la elaboración de propuestas, con base en datos históricos, científicos, tecnológicos y socioeconómicos tendientes a mejorar el aprovechamiento de los recursos pesqueros y acuícolas que así lo ameriten;
 
-II. Expedir las copias o extractos certificados de las actas y de los documentos que el apéndice correspondiente, cuando le fueren solicitadas y se paguen los derechos respectivos, conforme a la Ley de Ingresos Municipal; asimismo el oficial podrá certificar las fotocopias de los documentos que se le hayan presentado con motivo de la realización de sus funciones;
+VIII. Participar en los trabajos de elaboración de propuestas de Leyes Federales, Estatales, reglamentos y sus reformas relacionadas con todas las actividades del sector;
 
-III. Rendir a las autoridades federales, estatales y municipales los informes, las estadísticas y los avisos que dispongan las leyes;
+IX. Establecer una coordinación efectiva con las entidades encargadas de implementar los programas operativos de control, inspección y vigilancia, para garantizar que la pesca se desarrolle con apego a la legislación, normatividad y disposiciones administrativas de regulación pesquera vigentes, así como su evaluación permanente, asegurando la participación de las organizaciones de productores integrantes del sector; (sic)
 
-IV. Fijar, en lugar visible de la oficialía, los derechos pecuniarios que causen las certificaciones y la inscripción de las actas del Registro Civil, así como una copia de la Ley de Ingresos Municipal en la que aparezcan todos los costos de los actos de la institución;
+###### ARTÍCULO 13.
 
-V. Contestar oportunamente las demandas interpuestas en su contra y dar aviso a sus superiores jerárquicos;
+Son obligaciones de los consejeros coordinadores de Comisión:
 
-VI. Organizar el despacho de su oficina de tal forma que toda tramitación sea oportuna, para brindar la mejor atención al público;
+I. Representar a su Comisión ante el Consejo;
 
-VII. Determinar las guardias en días festivos;
+II. Programar, convocar y coordinar las reuniones de la Comisión;
 
-VIII. Orientar e instruir al público sobre la trascendencia, consecuencias, requisitos y trámites para la inscripción de las actas del Registro Civil;
+III. Promover y supervisar que se cumplan las funciones y facultades de la Comisión, así como de los acuerdos que serán presentados ante el Consejo;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+IV. Elaborar y presentar los informes de la Comisión, y
 
-IX. Cancelar las formas que sean inutilizadas con la leyenda "NO PASO", debiendo asentar la causa en las mismas;
+V. La divulgación pública de las propuestas, acuerdos y compromisos de las comisiones, se deberán realizar a través del Consejo.
 
-X. Entregar y remitir los ejemplares de las formas que dispone la ley;
+###### ARTÍCULO 14.
 
-XI. Elaborar los índices alfabéticos de los registros de su oficialía;
+El cargo de consejero será honorífico. Tratándose de los representantes que no sean autoridades, duraran en su encargo dos años.
 
-XII. Expedir las constancias de inexistencia que le sean solicitadas, previa comprobación de que no obren en sus oficialías las actas respectivas;
+### CAPÍTULO TERCERO. DE LOS CONSEJEROS
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+###### ARTÍCULO 15.
 
-XIII. Conservar bajo su responsabilidad y cuidado los libros y archivos de la oficialía;
+Los representantes propietarios del Consejo Consultivo nombrarán un suplente, que actuará únicamente en sus ausencias temporales.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
+###### ARTÍCULO 16.
 
-XIV. Instar de manera verbal a quien o quienes comparezcan a efectuar el registro de nacimiento, cuando el nombre que deseen poner al menor, contenga abreviaturas, diminutivos, claves, números y adjetivos que puedan llegar a denigrar a la persona, o cuando a juicio del oficial del Registro Civil resulte impropio, denostante, cause afrenta, ya sea por su rareza, peculiaridad o dificultad en su emisión y articulación, solicitando se reconsidere su decisión.
+Cada miembro del Consejo Consultivo, tendrá derecho a voz y voto en las sesiones del mismo, siendo el Presidente quien contará con voto de calidad, y los acuerdos serán tomados por mayoría simple de los asistentes.
 
-Bajo ninguna circunstancia el Oficial del Registro Civil podrá efectuar sugerencias de nombres para los registrados, y
+###### ARTÍCULO 17.
 
-XV. Las demás que establezcan las leyes.
+Son obligaciones de los consejeros:
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+I. Asistir puntualmente a las reuniones del Consejo y de las comisiones de las que sea integrante;
 
-###### Artículo 22.
+II. Participar activamente en los trabajos del Consejo y de las comisiones de que formen parte;
 
-Los oficiales del Registro Civil serán suplidos en sus faltas temporales por quien determine el oficial jefe o presidente municipal; y a falta de designación de ellos, por quien designe la Dirección General del Registro Civil; cuando esto no fuere posible suplirá dichas faltas el presidente municipal.
+III. Emitir su opinión y voto en los asuntos que se traten ante el Consejo y las comisiones, y
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+IV. Firmar las actas y minutas correspondientes.
 
-Artículo 22 bis.- Las autoridades municipales deberán pagar horas extras a los Oficiales del Registro Civil que atiendan asuntos inherentes a sus funciones fuera de su horario de trabajo de conformidad a lo que disponga el presupuesto de egresos y la normatividad estatal y municipal correspondiente.
+###### ARTÍCULO 18.
 
-### CAPITULO IV. De los procedimientos
+Cuando alguno de los consejeros deje de asistir a dos reuniones ordinarias consecutivas, el Secretario Técnico por medio de oficio, lo exhortará para que atienda las convocatorias. El Consejero deberá enterarse de los acuerdos tomados en el Consejo durante su ausencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2007)</small>
+El Consejero que deje de asistir a tres sesiones ordinarias consecutivas o cinco en el año en forma injustificada, será removido de su cargo.
 
-###### Artículo 23.
+###### ARTÍCULO 19.
 
-Estará a cargo de los oficiales del Registro Civil, hacer constar los hechos y actos del estado civil y extender las actas relativas a:
+Para su organización y funcionamiento el Consejo contara con una mesa Directiva, integrada por:
 
-I. Nacimiento, reconocimiento de hijo y adopción;
+I. El Presidente Municipal o por quien él designe;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2007)</small>
+II. Un secretario técnico, que será el titular de la Dirección de Fomento Económico del área o dependencia a cargo de las actividades de fomento económico y vinculación empresarial del Ayuntamiento;
 
-II. Matrimonio y divorcio;
+III. Por el número de vocales que de acuerdo a sus necesidades el Consejo determine.
 
-III. Defunción, declaración de ausencia y presunción de muerte;
+###### ARTÍCULO 20.
 
-> <small>(REFORMADA, P.O. 30 DE JULIO DE 2011)</small>
+Son atribuciones del Presidente del Consejo:
 
-IV. Tutela y tutela voluntaria;
+I. Convocar, por conducto del Secretario Técnico, a las sesiones del Consejo;
 
-V. Emancipación; y
+II. Presidir y coordinar las sesiones plenarias del Consejo, así como firmar las actas y minutas correspondientes;
 
-VI. Pérdida o limitación de la capacidad legal para administrar bienes y el levantamiento de esta restricción;
+III. Hacer la declaratoria de quórum legal e instalar formalmente las sesiones del Consejo;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+IV. Supervisar y asegurar el cumplimiento de los acuerdos tomados en las sesiones del consejo;
 
-VII. Inscripciones generales y sentencias.
+V. Elaborar y publicar los informes trimestrales del Consejo, haciendo del conocimiento de los mismos al Ayuntamiento;
 
-###### Artículo 24.
+VI. Representar al Consejo ante las diferentes instancias de gobierno y organismos no gubernamentales;
 
-El registro de cualquier acto del estado civil, se regirá en cuanto a sus cobros, conforme a la Ley de Ingresos del municipio correspondiente y en caso de que dicho ordenamiento así lo señale, se otorgará la participación económica específica a los oficiales, para aquellos actos que sean fuera del horario normal de la oficina o a domicilio, apegándose en la forma de recaudación a lo que marque dicha ley.
+VII. Someter a votación los acuerdos que deba aprobar el Consejo;
 
-###### Artículo 25.
+VIII. Las demás que le otorgue este reglamento y las disposiciones aplicables.
 
-Si se perdiese o destruyese alguno de los ejemplares de las actas del registro civil, los oficiales o el titular del Archivo General según sea el caso, darán aviso del hecho a la Dirección General del Registro Civil así como al ministerio público.
+###### ARTÍCULO 21.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2004)</small>
+Son atribuciones del Secretario Técnico del Consejo:
 
-###### Artículo 26.
+I. Preparar el orden del día, levantar las actas y minutas correspondientes y firmar los acuerdos que sean tomados;
 
-La Dirección General del Registro Civil o las oficialías municipales, según el caso, en la pérdida o destrucción de documentos, tendrán la responsabilidad de disponer su reposición, sacándose copia de cualquiera de los ejemplares que existan, quedando como responsables únicos de la reposición, el oficial o el titular del archivo, según las disposiciones establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, quienes en caso de omisión, se harán acreedores a las sanciones que la misma establece.
+II. Tomar lista de asistencia en las sesiones del Consejo;
 
-###### Artículo 27.
+III. Resguardar los archivos del Consejo y dar cuenta de la correspondencia recibida y despachada;
 
-Cuando los interesados no puedan ocurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste en instrumento público, excepto cuando se trate de levantar las actas de divorcio.
+IV. Convocar, por instrucciones del presidente del Consejo, a las reuniones;
 
-###### Artículo 28.
+V. Emitir oficio de exhorto a los consejeros para que atiendan a las reuniones a las que se les convoca;
 
-Para establecer el estado civil adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se hayan inscrito en la oficina respectiva del Registro Civil en el Estado de Jalisco o de cualquiera otra entidad federativa.
+VI. Apoyar al presidente del Consejo en la elaboración de informes, y
 
-###### Artículo 29.
+VII. Las demás que le otorgue este reglamento y las disposiciones aplicables.
 
-En la formulación de las actas del estado civil se observarán las siguientes reglas:
+###### ARTÍCULO 22.
 
-I. Los testigos que intervengan en las actas del Registro Civil serán mayores de edad, prefiriéndose a los parientes de los interesados o en caso de no serlo, a quienes éstos designen;
+El Consejo se reunirá en Sesión de forma ordinaria por lo menos cada dos meses y extraordinaria cada vez que se considere necesario.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+### CAPÍTULO CUARTO. DE LA MESA DIRECTIVA
 
-Queda prohibido a los servidores públicos que laboran en el Registro Civil ser testigos en las actas que se elaboren en la oficina de su adscripción, en caso de hacerlo serán sancionados en los términos de la legislación aplicable.
+###### ARTÍCULO 23.
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+Para la realización de las sesiones ordinarias deberá emitirse una convocatoria, conteniendo el orden del día, fecha, lugar y hora programada para la reunión, así como la información correspondiente para el desarrollo de los asuntos a tratar y será notificada a cada consejero e invitados en su caso, cuando menos con setenta y dos horas de anticipación.
 
-II. Extendida el acta, será leída por el oficial del Registro Civil a los interesados y testigos; firmarán los ejemplares autógrafamente. En las actas de matrimonio se estamparán además las huellas digitales de los contrayentes; en las de nacimiento y en las de reconocimiento se estampará la huella digital del nacido o renocido (sic);
+Cuando se trate de sesiones extraordinarias, la notificación se hará cuando menos con veinticuatro horas de anticipación.
 
-III. Si alguno de los interesados quisiere imponerse por sí mismo del tenor del acta, podrá hacerlo; y si no supiese leer, uno de los testigos designados por él, lo hará a su ruego;
+###### ARTÍCULO 24.
 
-IV. Si un acto comenzado se entorpece porque las partes se nieguen a continuarlo o por cualquier otro motivo, se inutilizará el acta marcándola con dos líneas transversales y asentándose el motivo por el cual se suspendió, razón que deberán firmar el oficial del Registro Civil, los interesados y los testigos, estos dos últimos si fuere posible;
+Para que las sesiones se realicen con quórum legal, deberán contar con la asistencia de las dos terceras partes de los integrantes del Consejo.
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+###### ARTÍCULO 25.
 
-V. Los números que deban utilizarse en las actas, serán escritos con letra cuando el espacio del formato lo permita, además en los nombres de las personas no se emplearán abreviaturas. Los espacios no utilizados serán cubiertos con rayas horizontales;
+Al inicio de cada sesión se elegirá un moderador, con el fin de apoyar al Presidente y al Secretario Técnico, éste será electo de entre los consejeros, mediante votación simple por mayoría económica, y sus funciones consistirán en:
 
-VI. No se hará raspadura alguna ni se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará sobre ella una línea de manera que quede legible, se salvará con la palabra correcta poniéndola entre renglones, haciendo mención de dicha circunstancia al final del acta;
+I. Someter a los consejeros el orden del día para su aprobación;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+II. Desahogar el orden del día, y
 
-VII. Los documentos que presenten se anotarán poniéndoles el número de acta y el sello del Registro Civil, éstos se reunirán y depositarán en la Oficialía del Registro Civil; correspondiente, formándose un anexo al cual se hará referencia en la última hoja del libro;
+III. Llevar durante la sesión, en riguroso orden, la solicitud de la voz de los consejeros y de los invitados que se encuentren presentes.
 
-VIII. Se testarán de oficio las palabras que conduzcan a establecer que un hijo es incestuoso o que la muerte de personas ocurrió en prisión;
+###### ARTÍCULO 26.
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2004)</small>
+La renovación de los miembros del Consejo, que no sean autoridades, se realizará mediante convocatoria que apruebe y publique el Ayuntamiento, cada dos años.
 
-IX. No podrán dejar de anotarse los datos previstos en las formas del Registro Civil; y
+###### ARTÍCULO 27.
 
-X. No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+La convocatoria deberá emitirse en un plazo máximo de sesenta días, y un mínimo de cuarenta y cinco, antes del término del periodo del Consejo en funciones y contendrá fecha, hora y lugar de la elección, el orden del día, las bases de participación y los requisitos para ser consejero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2007)</small>
+La convocatoria deberá ser publicada en dos diarios de mayor circulación local y en la página electrónica del Ayuntamiento.
 
-###### Artículo 30.
+###### ARTÍCULO 28.
 
-Las actas del estado civil se levantarán en formatos con características especiales que serán expedidos por la Dirección General del Registro Civil, a los que se les denomina formas del registro civil, cuyas estructuras y contenido estarán determinados por las disposiciones legales relativas; su elaboración será, salvo lo previsto en el artículo 32 de esta ley, por quintuplicado en las actas de nacimiento, matrimonio, divorcio, defunción; y por cuadruplicado en los demás casos, se levantarán en forma computarizada o mecanografiada, debiendo contener la clave única del registro de población.
+La elección de los consejeros representantes de sector u organizaciones económicas, se llevará a cabo por el Ayuntamiento, en un plazo no mayor de treinta días y un mínimo de quince antes del término legal del Consejo en funciones, mediante el voto de las dos terceras partes de los integrantes del mismo.
 
-> <small>(F. DE E., 9 DE OCTUBRE DE 2004)</small>
+La propuesta que haga cada sector u organización económica, deberá acompañarse del acta aprobada y certificada de la asamblea o reunión correspondiente, en donde por mayoría simple se haya elegido a su representante.
 
-El hacer constar un acto y el asentamiento del acta en un formato no autorizado por la Dirección General del Registro Civil, producirá su nulidad absoluta, independientemente de las responsabilidades en que incurra el oficial del Registro Civil.
+###### ARTÍCULO 29.
+
+Para ser Consejero Ciudadano, se deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos;
+
+II. Ser mayor de 25 años;
+
+III. Tener residencia en el municipio durante los últimos cinco años;
+
+IV. No desempeñar cargos de elección popular;
+
+V. No desempeñar ni haber desempeñado el cargo de presidente nacional, estatal o municipal, o su equivalente de algún partido político, durante el año anterior a la fecha de su solicitud;
+
+VI. No haber desempeñado cargo de funcionario público de primer o segundo nivel, en la administración pública federal, estatal o municipal, durante el año anterior a la fecha de su solicitud;
+
+VII. Acreditar por lo menos una experiencia de 5 años en actividades propias del sector que solicite representar, y
+
+VIII. Cumplir con los demás requisitos que se establezcan en las bases de la convocatoria.
+
+###### ARTÍCULO 30.
+
+En caso de incumplimiento por parte de algún funcionario publico a lo establecido en el presente Reglamento, se aplicaran las sanciones a las que se refiere la Ley de Responsabilidades de los Servidores Públicos, en su capitulo correspondiente.
 
 ###### Artículo 31.
 
@@ -459,9 +495,7 @@ La Dirección General del Registro Civil, deberá verificar el cumplimiento por 
 
 Una vez recibida la relación de nacimientos diaria por unidad médica, la Dirección General realizará las acciones necesarias para el almacenamiento, conservación y actualización en el sistema electrónico que corresponda y procurará generar en tiempo real el acceso de consulta a la misma por parte de las oficialías de Registro Civil en el Estado, procurando con ello el derecho a la identidad de los menores y agilizando el procedimiento de registro que se solicite ante las oficialías del registro civil en los términos del reglamento de la presente Ley.
 
-### CAPITULO V. De las actas de nacimiento
-
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2019)</small>
+### CAPÍTULO QUINTO. DE LAS SESIONES
 
 ###### Artículo 40.
 
@@ -603,9 +637,7 @@ Si al dar aviso de un nacimiento, se comunicase también la muerte del recién n
 
 Cuando se trate de parto múltiple, se levantará una (sic) acta por cada uno de los nacidos.
 
-### CAPITULO VI. De los registros extemporáneos de nacimiento
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2004)</small>
+### CAPÍTULO SEXTO. DE LA CONVOCATORIA PARA LA INTEGRACIÓN DEL CONSEJO
 
 ###### Artículo 56.
 
@@ -623,9 +655,7 @@ La expedición de la primera acta de nacimiento se hará sin costo alguno, no ob
 
 Las actas de registro extemporáneo de nacimiento deberán contener los datos previstos por la ley y hacer referencia a la autorización respectiva.
 
-### CAPITULO VII. De las actas de reconocimiento de hijo
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2006)</small>
+### CAPÍTULO SÉPTIMO. DE LAS SANCIONES
 
 ###### Artículo 59.
 
@@ -1483,185 +1513,21 @@ XV. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 1996)
 
 ## TRANSITORIOS
 
-Artículo primero.- Esta ley entrará en vigor el día 14 de septiembre de 1995, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+PRIMERO. Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
-Artículo segundo.- Se abroga la Ley Reglamentaria del Título Cuarto del Código Civil para el Estado de Jalisco, contenida en el decreto número 11939, publicado en el Periódico Oficial "El Estado de Jalisco" de fecha 17 enero de 1985; y se derogan todas las disposiciones que se opongan al presente.
+SEGUNDO. El H. Ayuntamiento deberá convocar y dejar instalado el primer consejo a que se refiere el artículo 4 del presente reglamento, dentro de los 90 días posteriores, a la publicación del presente reglamento.
 
-SALON DE SESIONES DEL CONGRESO DEL ESTADO
+TERCERO. A fin de cumplir con los objetivos y propósitos del Consejo se acuerda crear la unidad de gestión y asistencia permanente para los sectores de acuacultura y pesca dependiente del área o dependencia a cargo de las actividades de Fomento Económico y Vinculación Empresarial del Ayuntamiento.
 
-Guadalajara, Jalisco, a 8 de febrero de 1995.
+Dado en la Sala de Cabildo del XVIII Ayuntamiento Constitucional de Ensenada, Baja California, el día treinta de Mayo del año dos mil seis.
 
-DIPUTADO PRESIDENTE
+QUIM CESAR MANCILLAS AMADOR
 
-ARTURO URIBE AVIN
+PRESIDENTE MUNICIPAL
 
-DIPUTADO SECRETARIO
+LIC. JULIO CESAR ARENAS RUIZ
 
-LEON DE LA TORRE GUTIERREZ
-
-DIPUTADO SECRETARIO
-
-GREGORIO ARRIETA LOPEZ
-
-Por tanto, mando se imprima publique, circule y se le dé el debido cumplimiento.
-
-Dado en Palacio del Poder Ejecutivo del Estado, a los veinticuatro días del mes de febrero de mil novecientos noventa y cinco.
-
-El Gobernador Sustituto del Estado
-
-Lic. Carlos Rivera Aceves.
-
-El Secretario General de Gobierno
-
-Lic. José Luis Leal Sanabria.
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 7 DE SEPTIEMBRE DE 1996.
-
-PRIMERO.- La denominación de "Dirección del Registro Civil", establecida en la plantilla de personal anexa al Presupuesto de Egresos del Gobierno del Estado, deberá ser modificada para ser congruente con las disposiciones establecidas en la presente ley.
-
-SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 15 DE JUNIO DE 1999.
-
-PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- La Dirección General del Registro Civil promoverá la suscripción de los convenios a que hace referencia el artículo 13 de esta Ley, para la promoción del uso oficial y aceptación de las certificaciones en extracto de las actas del Registro Civil.
-
-TERCERO.- Los extractos certificados de las actas de divorcio administrativo contendrán, además de los señalados en el inciso e) de la fracción VII del artículo 121, la expresión de que se hubiere tratado, de divorcio administrativo.
-
-P.O. 8 DE JULIO DE 1999.
-
-ÚNICO.- Este entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 5 DE OCTUBRE DE 2000.
-
-ÚNICO.- Este decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 21 DE JULIO DE 2001.
-
-ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco."
-
-P.O. 4 DE MARZO DE 2003.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
-
-SEGUNDO. El Ejecutivo del Estado en un término no mayor a 60 días deberá tomar las medidas administrativas pertinentes, para la correcta ejecución de lo contenido en el segundo párrafo del artículo 6.
-
-P.O. 24 DE JUNIO DE 2004.
-
-DECRETO NO. 20518, QUE REFORMA ARTÍCULOS 82 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
-
-SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad a lo previsto en el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
-
-P.O. 24 DE JUNIO DE 2004.
-
-DECRETO NO. 20519, QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO.
-
-ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 27 DE DICIEMBRE DE 2005.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 4 DE JULIO DE 2006.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 2 DE ENERO DE 2007.
-
-ÚNICO. El presente decreto entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 22 DE FEBRERO DE 2007.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
-
-SEGUNDO. En lo referente a las modificaciones respectivas al artículo 537 de este Código, se ajustará a las disposiciones contenidas en el decreto 21752.
-
-P.O. 20 DE OCTUBRE DE 2007.
-
-PRIMERO. El presente decreto entrará en vigor (sic) los cuarenta y cinco días siguientes a su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Llévense a cabo las transferencias presupuestales que sean necesarias para su cumplimiento; para ello, la Dirección General del Registro Civil del Estado se coordinará con la Secretaría de Finanzas para la debida presupuestación y aplicación de los recursos que sean necesarios para tal efecto.
-
-TERCERO. La Dirección General del Registro Civil del Estado deberá desarrollar los programas computacionales y demás herramientas técnico-administrativas que sean indispensables para la ejecución del presente, respetando en todo momento la autonomía de los municipios.
-
-P.O. 24 DE OCTUBRE DE 2009.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Se derogan las disposiciones que se opongan al presente.
-
-TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
-
-P.O. 30 DE JULIO DE 2011.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 15 DE SEPTIEMBRE DE 2011.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 15 DE DICIEMBRE DE 2011.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 6 DE JUNIO DE 2013.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 8 DE FEBRERO DE 2014.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 9 DE OCTUBRE DE 2014.
-
-ÚNICO. El presente decreto entrará en vigor el 1.° de enero de 2015, previa publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 5 DE SEPTIEMBRE DE 2015.
-
-PRIMERO. El presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. Se abroga la Ley de los Derechos de las niñas, los niños y adolescentes en el Estado de Jalisco.
-
-TERCERO. El titular del Poder Ejecutivo instalará el Sistema Estatal de Protección dentro de los quince días naturales siguientes a la entrada en vigor de este decreto, conforme a lo establecido por esta Ley.
-
-CUARTO. El Gobernador del Estado designará al Titular de la Procuraduría de Protección a Niñas, Niños y Adolescentes, antes de la entrada en vigor del presente Decreto.
-
-QUINTO. Se faculta al Gobernador del Estado, para que a través de las secretarías de Planeación, Administración y Finanzas y General de Gobierno, así como al Sistema Estatal DIF para que prevean presupuestalmente la creación de la Procuraduría de Protección de Niñas, Niños y Adolescentes en el presupuesto de egresos para el ejercicio fiscal inmediato posterior al inicio de vigencia del presente decreto.
-
-SEXTO. Los recursos materiales, humanos y financieros, así como los bienes y patrimonio del Consejo Estatal de Familia pasarán al Sistema Estatal DIF, a partir de la entrada en vigor del presente Decreto.
-
-En todo momento se respetarán los derechos laborales de los servidores públicos del Consejo Estatal de Familia, de conformidad con la Ley.
-
-SÉPTIMO. El Sistema Estatal DIF deberá realizar los ajustes administrativos necesarios para continuar con las funciones de atención y seguimiento a los asuntos derivados del Código Civil, Código de Procedimientos Civiles y del Código de Asistencia Social, todos del Estado de Jalisco, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en el ámbito de su competencia conforme a lo contenido en este decreto, para lo cual acreditará oportunamente a sus agentes y delegados institucionales ante las autoridades correspondientes.
-
-OCTAVO. El titular del Poder Ejecutivo del Estado deberá emitir las disposiciones reglamentarias correspondientes dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto.
-
-NOVENO. Los Ayuntamientos expedirán la regulación municipal para la operación del Sistema Municipal de Protección y del programa de atención de primer contacto con niñas, niños y adolescentes, en los términos de esta Ley, dentro de los treinta días naturales siguientes a la expedición del Reglamento a que se refiere el artículo cuarto transitorio del presente Decreto.
-
-DÉCIMO. Los municipios integrarán su Sistema Municipal de Protección dentro de los quince días siguientes a la instalación del Sistema Estatal de Protección a que se refiere el artículo tercero transitorio del presente Decreto.
-
-DÉCIMO PRIMERO. Los municipios expedirán el programa de atención de primer contacto con las niñas, niños y adolescentes, designar y capacitar a los servidores públicos de dicho programa, en los términos de esta Ley y la regulación municipal que expida el Ayuntamiento, dentro de los ciento veinte días naturales siguientes a la expedición de las disposiciones reglamentarias a que se refiere el artículo octavo transitorio del presente Decreto.
-
-DÉCIMO SEGUNDO. Los procedimientos y las representaciones legales de niñas, niños y adolescentes, iniciados antes de la entrada en vigor del presente Decreto se concluirán conforme a las normas vigentes con las que hubieren iniciado.
-
-DÉCIMO TERCERO. Los procedimientos que a la entrada en vigor del presente Decreto se hubieren iniciado en el Consejo Estatal de Familia o sus delegados, se concluirán por la Procuraduría de Protección de Niñas, Niños y Adolescentes.
-
-Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales de Familia, se concluirán los primeros por el Hogar Cabañas, y los segundos por los Sistemas DIF Municipales, de conformidad con el Reglamento que expida el Gobernador del Estado, a que hace referencia el artículo 46 del Código de Asistencia Social del Estado de Jalisco.
-
-DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
-
-DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
-
-P.O. 24 DE OCTUBRE DE 2015.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 11 DE OCTUBRE DE 2016.
+SECRETARIO FEDATARIO
 
 ## [N. DE E. TRANSITORIO DEL DECRETO 25840/LXI/16 POR EL QUE "SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO; CÓDIGO DE ASISTENCIA SOCIAL DEL ESTADO DE JALISCO; CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE JALISCO; CÓDIGO ELECTORAL Y DE PARTICIPACIÓN SOCIAL DEL ESTADO DE JALISCO; CÓDIGO FISCAL DEL ESTADO DE JALISCO; CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO; CÓDIGO URBANO PARA EL ESTADO DE JALISCO; DECRETO QUE CREA EL CONSEJO ESTATAL PARA EL DESARROLLO TURÍSTICO; LEY CONTRA LA DELINCUENCIA ORGANIZADA DEL ESTADO DE JALISCO; LEY DE ACUACULTURA Y PESCA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE JALISCO; LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE CATASTRO MUNICIPAL DEL ESTADO DE JALISCO; LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO; LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO; LEY DE EDUCACIÓN DEL ESTADO DE JALISCO; LEY DE FISCALIZACIÓN SUPERIOR Y AUDITORÍA PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO (SIC) JALISCO; LEY DE FOMENTO Y DESARROLLO PECUARIO DEL ESTADO DE JALISCO; LEY DE GESTIÓN INTEGRAL DE LOS RESIDUOS DEL ESTADO DE JALISCO; LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO; LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO; LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE JALISCO; LEY DE LIBRE CONVIVENCIA DEL ESTADO DE JALISCO; LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO; LEY DE LOS SÍMBOLOS OFICIALES DEL ESTADO DE JALISCO; LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO; LEY DE OBRA PÚBLICA DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CIVIL DEL ESTADO DE JALISCO; LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO PARA EL ESTADO DE JALISCO; LEY DE PROTECCIÓN Y CUIDADO DE LOS ANIMALES DEL ESTADO DE JALISCO; LEY DE PROYECTOS DE INVERSIÓN Y DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO; LEY DE SALUD DEL ESTADO DE JALISCO; LEY DE SUJETOS PROTEGIDOS PARA EL ESTADO DE JALISCO; LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY QUE REGULA LOS CENTROS DE ATENCIÓN INFANTIL EN EL ESTADO DE JALISCO; LEY PARA REGULAR LA VENTA Y EL CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE JALISCO; LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS; LEY PARA LA PROMOCIÓN DE INVERSIONES EN EL ESTADO DE JALISCO; LEY PARA LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA INTRAFAMILIAR DEL ESTADO DE JALISCO; LEY PARA LA OPERACIÓN DE ALBERGUES DEL ESTADO DE JALISCO; LEY PARA LA INTEGRACIÓN Y DESARROLLO INTEGRAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE JALISCO; LEY PARA EL EJERCICIO DE LAS ACTIVIDADES PROFESIONALES DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR DEL ESTADO DE JALISCO; LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO; LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO; LEY ORGÁNICA DE LA PROCURADURÍA SOCIAL; LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE JALISCO; LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; LEY DEL NOTARIADO DEL ESTADO DE JALISCO; LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS Y LEY DE VIVIENDA DEL ESTADO DE JALISCO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
 
