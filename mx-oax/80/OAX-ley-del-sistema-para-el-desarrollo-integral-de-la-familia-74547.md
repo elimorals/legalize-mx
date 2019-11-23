@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-para-el-desarrollo-integral-de-la-familia-74547
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-13"
-last_updated: "2010-03-13"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de marzo de 2010.
 
@@ -351,31 +351,85 @@ El Gobierno del Estado en forma prioritaria, proporcionará servicios de asisten
 
 Para los efectos de aplicación de esta Ley, se entiende por asistencia social, al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como a la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física o mental, hasta lograr su incorporación a una vida plena y productiva.
 
+> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación.
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-Serán sujetos de recepción de los servicios de asistencia social preferentemente:
+Tienen derecho a la asistencia social las personas y familias que por sus condiciones físicas, mentales, jurídicas, económicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar.
 
-I.- Niños, niñas y adolescentes en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+Son sujetos de asistencia social, preferentemente:
 
-II.- Niños y niñas menores de doce años que cometan conductas antisociales;
+I. Todas las niñas, niños y adolescentes, en especial aquellos que se encuentren en situación de riesgo o afectados por:
 
-III.- Alcohólicos, farmacodependientes, enfermos mentales e individuos en condiciones de indigencia;
+a) Desnutrición;
 
-IV.-. Mujeres con extrema necesidad en periodos de gestación, lactancia o víctimas de malos tratos;
+b) Deficiencias en su desarrollo físico o mental, o cuando éste sea afectado por condiciones familiares adversas;
 
-V.- Adultos mayores en desamparo, con discapacidad, incapaces, marginados o sujetos a maltrato;
+c) Maltrato o abuso;
 
-VI.- Personas con discapacidad por causas de ceguera, debilidad visual, problemas auditivos y de lenguaje, sordera, mudez, alteraciones neuro-músculo-esqueléticas deficiencias mentales u otras;
+d) Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos;
 
-VII.- Personas que por extrema necesidad requieran de servicios asistenciales;
+e) Ser víctimas de cualquier tipo de explotación;
 
-VIII.- Víctimas de la comisión de delitos, en estado de abandono;
+f) Vivir en la calle;
 
-IX.- Familiares que dependen económicamente de quienes se encuentran detenidos, sujetos a proceso penal o sentenciados, y que queden en estado de abandono;
+g) Ser víctimas del tráfico de personas, la pornografía y el comercio sexual;
 
-X.- Habitantes del medio rural o urbano, marginados que carezcan de lo indispensable para su subsistencia; y,
+h) Trabajar en condiciones que afecten su desarrollo e integridad física y mental;
 
-XI.- Damnificados según lo dispuesto en el artículo 5° de esta Ley.
+i) Infractores y víctimas del delito;
+
+j) Ser hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
+
+k) Ser migrantes y repatriados;
+
+l) Ser víctimas de conflictos armados y de persecución étnica o religiosa;
+
+m) Ser huérfanos.
+
+Para los efectos de esta Ley son niñas y niños las personas menores de 12 años, y adolescentes las personas de entre 12 años cumplidos y menos de 18 años de edad, tal como lo establece el Artículo 7 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca.
+
+II. Las mujeres:
+
+a) En estado de gestación o lactancia, las madres adolescentes y jefas de familia que tengan a su cuidado hijos menores de dieciocho años de edad;
+
+b) En situación de violencia, maltrato o abandono;
+
+c) En situación de explotación, incluyendo la sexual.
+
+III. Indígenas migrantes, desplazados o en situación vulnerable;
+
+IV. Migrantes;
+
+V. Personas adultas mayores:
+
+a) En desamparo, marginación o sujetos a maltrato;
+
+b) Con discapacidad;
+
+c) Que ejerzan la patria potestad.
+
+VI. Personas con algún tipo de discapacidad o necesidades especiales.
+
+VII. Dependientes de personas privadas de su libertad, de desaparecidos, de enfermos terminales, de alcohólicos o de fármaco dependientes.
+
+VIII. Víctimas de la comisión de delitos.
+
+IX. Indigentes.
+
+X. Alcohólicos y fármaco dependientes.
+
+XI. Las personas afectadas por desastres naturales según lo dispuesto en el artículo 5° de esta Ley.
+
+XII. Habitantes del medio rural o urbano, marginados, que carezcan de lo indispensable para su subsistencia.
+
+XIII. Personas que por extrema necesidad requieran de servicios asistenciales.
+
+XIV. Los demás sujetos considerados en otras disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 24.
 
@@ -748,3 +802,15 @@ Tlalixtac de Cabrera, Centro, Oax. a 1° de febrero del 2010.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 DR. EVENCIO NICOLAS MARTINEZ RAMIREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 822.- MEDIANTE EL CUAL ADICIONAN Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE OAXACA”.]
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO: Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO: Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Oaxaca.
