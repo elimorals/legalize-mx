@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-en-el-109731"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-05"
-last_updated: "2019-10-19"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 5 de septiembre de 2015.
 
@@ -1603,9 +1603,11 @@ Las sanciones a las que se refiere este capítulo de la presente Ley deberán fu
 
 Para la defensa jurídica en contra de las sanciones que las autoridades impongan en cumplimiento de la presente Ley, se estará a lo dispuesto por la Ley del Procedimiento Administrativo y de Justicia Administrativa, ambas del Estado de Jalisco.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 111.
 
-Para los efectos de este Título se aplicarán supletoriamente la Ley del Procedimiento Administrativo y la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+Para efectos de este Título se aplicarán supletoriamente la Ley del Procedimiento Administrativo del Estado de Jalisco y la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ## TRANSITORIOS
 
@@ -1828,3 +1830,9 @@ P.O. 19 DE OCTUBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El titular del Poder Ejecutivo del Estado deberá llevar a cabo las adecuaciones reglamentarias necesarias para la debida implementación de los mecanismos de prevención, detección temprana, atención y erradicación del ausentismo, abandono y deserción escolares, dentro de un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27520/LXII/19 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLECENTES, (SIC) DE LA LEY PARA EL DESARROLLO INTEGRAL DEL ADULTO MAYOR, DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD Y DE LA LEY PARA LA OPERACIÓN DE ALBERGUES, TODOS LOS ORDENAMIENTOS DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
