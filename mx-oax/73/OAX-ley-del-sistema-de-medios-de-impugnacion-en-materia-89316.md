@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-de-medios-de-impugnacion-en-materia-89316"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2012-08-17"
+last_updated: "2019-11-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 17 de agosto de 2012.
 
@@ -69,9 +69,13 @@ Para los efectos de esta Ley, se entenderá por:
 
 I. Constitución Estatal: La Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-II. Código: El Código de Instituciones Políticas y Procedimientos Electorales para el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-III. Tribunal: El Tribunal Estatal Electoral del Poder Judicial del Estado;
+II. LIPEEO: Ley de Instituciones y Procedimientos Electorales del Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+III. Tribunal: El Tribunal Electoral del Estado de Oaxaca;
 
 IV. Pleno: El Pleno del Tribunal;
 
@@ -267,7 +271,9 @@ d) Podrán ofrecer y aportar pruebas dentro de los plazos establecidos en esta l
 
 e) Los escritos deberán estar firmados autógrafamente.
 
-4. En el caso de coaliciones, la representación legal se acreditará en los términos del convenio respectivo, de conformidad con lo dispuesto en el Código.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+4. En caso de coaliciones, la representación legal se acreditará en los términos del convenio respectivo, de conformidad con lo dispuesto en la LIPEEO.
 
 ### CAPÍTULO VI. De la Legitimación y de la Personería
 
@@ -397,7 +403,9 @@ d) Los escritos y pruebas aportadas por los terceros interesados y los coadyuvan
 
 e) Un informe circunstanciado en el que constará la firma de quien lo rinda y se expresarán los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnada, en el que además expresará si el recurrente tiene reconocida su personalidad ante el órgano del Instituto;
 
-f) En el caso del recurso de inconformidad, el expediente completo con todas las actas y las hojas de incidentes levantadas por la autoridad electoral, así como los escritos de incidentes y de protesta que se hubieren presentado, en los términos del Código y la presente Ley;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+f) En el caso del recurso de inconformidad, el expediente completo con todas las actas y las hojas de incidentes levantadas por la autoridad electoral, así como los escritos de incidentes y de protesta que se hubieren presentado, en los términos de la LIPEEO y la presente ley;
 
 g) Las constancias en original que acrediten el trámite de publicidad dado al medio de impugnación, así como la certificación en la que conste si compareció o no algún tercero interesado dentro del plazo otorgado para ello; y
 
@@ -417,7 +425,7 @@ c) Turne el expediente recibido a un Magistrado Suplente Instructor, quien tendr
 
 2. El Magistrado Suplente Instructor propondrá al Magistrado Propietario de la ponencia a la que se encuentre adscrito el proyecto de sentencia por el que se deseche de plano el medio de impugnación, cuando se acredite cualquiera de las causales de notoria improcedencia señaladas en el numeral 1 del artículo 10 de esta ley. Asimismo, cuando el promovente incumpla los requisitos señalados en los incisos c) al f) del numeral 1 del artículo 9, y éstos no se puedan deducir de los elementos que obren en el expediente, se podrá formular requerimiento con el apercibimiento de tener por no presentado el medio de impugnación si no se cumple con el mismo, dentro de un plazo de veinticuatro horas contadas a partir del momento en que se le notifique el auto correspondiente, así también, en caso de que el escrito de interposición no cuente con la firma autógrafa del recurrente se le podrá requerir para que lo ratifique mediante comparecencia, bajo el apercibimiento de tener por no presentado el medio de impugnación en caso de que no se presente en la fecha señalada para ello;
 
-3. Cuando el escrito del tercero interesado, se presente en forma extemporánea, no se valorarán las pruebas presentadas por éste, pero si se le notificará personalmente como si fuera parte, únicamente para efectos informativos.
+3. Cuando el escrito del tercero interesado, se presente en forma extemporánea, no se valorarán las pruebas presentadas por éste, pero sí se le notificará personalmente como si fuera parte, únicamente para efectos informativos.
 
 4. Si el medio de impugnación reúne todos los requisitos establecidos por este ordenamiento, el Magistrado Suplente Instructor, dictará el auto de admisión que corresponda; una vez sustanciado el expediente y puesto en estado de resolución, se declarará cerrada la instrucción pasando el asunto a sentencia, remitiendo los autos al Magistrado Propietario de la ponencia a la que se encuentre adscrito.
 
@@ -455,7 +463,9 @@ El Presidente del Consejo General o el Presidente del Tribunal o los Magistrados
 
 1. El incidente sobre la pretensión de nuevo escrutinio y cómputo en las elecciones de que conozca el Tribunal solamente procederá cuando:
 
-El nuevo escrutinio y cómputo que se pretenda no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto en el Código.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+El nuevo escrutinio y cómputo que se pretenda no haya sido desahogado, sin causa justificada, en la sesión de cómputo correspondiente en los términos de lo dispuesto en la LIPEEO.
 
 2. El Tribunal deberá establecer si las inconsistencias pueden ser corregidas o subsanadas con algunos otros datos o elementos que obren en el expediente o puedan ser requeridos sin necesidad de recontar los votos.
 
@@ -521,7 +531,9 @@ Las sentencias que dicte el Tribunal serán definitivas.
 
 ###### Artículo 27.
 
-1. Las notificaciones personales se harán al interesado a más tardar al día siguiente al en que se emitió el acto o se dictó la resolución o sentencia, o en su caso al día siguiente a que se haya emitido el voto particular o razonado. Se entenderán personales, sólo aquellas notificaciones que con este carácter establezcan la presente Ley y el Código.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+1. Las notificaciones personales se harán al interesado a más tardar al día siguiente al en que se emitió el acto o se dictó resolución o sentencia, o en su caso al día siguiente a que se haya emitido el voto particular o razonado. Se entenderán personales, sólo aquellas notificaciones que con este carácter establezcan la presente Ley y la LIPEEO.
 
 2. Las cédulas de notificación personal deberán contener:
 
@@ -609,9 +621,11 @@ Cuando se tramiten en un mismo expediente asuntos que por su propia naturaleza d
 
 3. Se considerará incumplimiento, el retraso por medio de omisiones o procedimientos ilegales por la autoridad u órgano partidario responsable, o de cualquiera otra que intervenga en el trámite relativo.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 35.
 
-Si las resoluciones o sentencias del Tribunal no quedan cumplidas por las autoridades u órganos partidarios responsables en los plazos fijados, aquél hará el pronunciamiento respectivo. Si en vista del informe que rinda la responsable o de las constancias que integran el expediente, considera que el incumplimiento es excusable, dará un plazo improrrogable de tres días para que cumpla, dando cuenta a su superior jerárquico, si lo tiene, para los efectos legales correspondientes. Si considera que la inobservancia de éstas es inexcusable o hubiere transcurrido el plazo anterior para dar cumplimiento, dará parte al Ministerio Público para que se ejerciten las acciones pertinentes y al órgano competente en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y la Ley Orgánica Municipal del Estado de Oaxaca.
+Si las resoluciones o sentencias del Tribunal no quedan cumplidas por las autoridades u órganos partidarios responsables en los plazos fijados, aquél hará el pronunciamiento respectivo. Si en vista del informe que rinda la (sic) responsable o de las constancias que integran el expediente, considera que el incumplimiento es excusable, dará un plazo improrrogable de tres días para que cumpla, dando cuenta a su superior jerárquico, si lo tiene, para los efectos legales correspondientes. Si considera que la inobservancia de éstas es inexcusable o hubiere transcurrido el plazo anterior para dar cumplimiento, dará parte al Ministerio Público para que se ejerciten las acciones pertinentes y al órgano competente en términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y la Ley Orgánica Municipal.
 
 ###### Artículo 36.
 
@@ -665,7 +679,7 @@ e) Una vez concluido el plazo que antecede, el Magistrado Suplente Instructor ha
 
 f) El Magistrado Propietario acordará la recepción de los autos y una vez realizado el proyecto respectivo, turnará los autos al Magistrado Presidente el cual señalará la fecha en la que se someterá en sesión pública a la consideración del pleno el proyecto de resolución, ordenando que la determinación de mérito sea publicada mediante la lista de asuntos que se fija en los estrados del Tribunal.
 
-g) La sesión pública y la resolución del incidente se llevará a cabo conforme a las disposiciones previstas en el Libro Primero, Titulo Segundo, Capitulo X de esta Ley.
+g) La sesión pública y la resolución del incidente se llevará a cabo conforme a las disposiciones previstas en el Libro Primero, Título Segundo, Capítulo X de esta Ley.
 
 ### CAPÍTULO XIV. De los Impedimentos y de las Excusas
 
@@ -789,7 +803,9 @@ c) Las resoluciones que emita la unidad de fiscalización del Instituto.
 
 ###### Artículo 53.
 
-1. El recurso de apelación será procedente en cualquier tiempo, para impugnar la determinación, y en su caso, la aplicación de sanciones que en los términos del Código, realice el Consejo General.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+1. El recurso de apelación será procedente en cualquier tiempo, para impugnar la determinación, y en su caso, la aplicación de sanciones que en los términos de la LIPEEO, realice el Consejo General.
 
 2. El recurso de apelación también será procedente contra actos y resoluciones de las autoridades en materia de Participación Ciudadana.
 
@@ -807,19 +823,19 @@ Cuando se trate de impugnar la resolución del Consejo General respecto de los i
 
 El Tribunal es competente para conocer y resolver el recurso de apelación.
 
-### CAPÍTULO III. De la legitimación y de la Personería
+### CAPÍTULO III. De la Legitimación y de la Personería
 
 ###### Artículo 57.
 
 Podrán interponer el recurso de apelación:
 
-a) De acuerdo con los supuestos de procedencia previsto (sic) en el artículo 51 de esta ley, los partidos políticos acreditados y con registro ante el Instituto, en su caso, la organización de ciudadanos que haya solicitado su registro como partido político local;
+a) De acuerdo con los supuestos de procedencia previsto (sic) en el artículo 51 de esta Ley, los partidos políticos acreditados y con registro ante el Instituto, en su caso, la organización de ciudadanos que haya solicitado su registro como partido político local;
 
 b) En el caso de imposición de sanciones previsto por el artículo 52 de esta Ley, corresponderá a los partidos políticos, por conducto de sus representantes legítimos; y
 
-c) En el supuesto previsto en el artículo 53 de esta ley:
+c) En el supuesto previsto en el artículo 53 de esta Ley:
 
-I. Los partidos políticos que se encuentren en periodo de prevención o en liquidación, por conducto de sus representantes legítimos al momento del inicio del periodo de prevención; y
+I. Los partidos políticos que se encuentren en período de prevención o en liquidación, por conducto de sus representantes legítimos al momento del inicio del periodo de prevención; y
 
 II. Las personas físicas o morales que se ostenten como acreedores del partido político en liquidación, por propio derecho o a través de sus representantes.
 
@@ -871,7 +887,9 @@ Durante el proceso electoral exclusivamente en la etapa de cómputos, calificaci
 
 ###### Artículo 62.
 
-1. Son actos impugnables a través del recurso de inconformidad, en los términos del Código, y la presente Ley, los siguientes:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+1. Son actos impugnables a través del recurso de inconformidad, en los términos de la LIPEEO, y la presente Ley, los siguientes:
 
 a) En la elección de Gobernador del Estado:
 
@@ -937,7 +955,9 @@ f) El nombre, la firma y cargo partidario de quien lo presenta; y
 
 g) La narración sucinta de los hechos que se estimen violatorios de los preceptos legales que rigen el desarrollo de la jornada electoral.
 
-3. El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital o Municipal antes de que se inicie la sesión de cómputo correspondiente, en los términos que señale el Código.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+3. El escrito de protesta deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo o ante el Consejo Distrital o Municipal antes de que se inicie la sesión de cómputo correspondiente, en los términos que señale la LIPEEO.
 
 4. Los funcionarios de la casilla o del Consejo Distrital o Municipal ante el que se presente el escrito de protesta deberán acusar recibo o razonar de recibida una copia del respectivo escrito.
 
@@ -1013,7 +1033,7 @@ a) Confirmar el acto impugnado;
 
 b) Declarar la nulidad de la votación emitida en una o varias casillas para la elección de Gobernador del Estado, cuando se actualicen los supuestos previstos en el Título Quinto de este Libro y modificar, en consecuencia, el acta de cómputo distrital respectiva;
 
-c) Declarar la nulidad de la votación emitida en una o varias casillas cuando se actualicen los supuestos previstos en el Titulo Quinto de este Libro y modificar, en consecuencia, las actas de cómputo distrital, municipal, del Consejo General o de las previstas en el inciso f) numeral 1 del artículo 62 de esta Ley;
+c) Declarar la nulidad de la votación emitida en una o varias casillas cuando se actualicen los supuestos previstos en el Título Quinto de este Libro y modificar, en consecuencia, las actas de cómputo distrital, municipal, del Consejo General o de las previstas en el inciso f) numeral 1 del artículo 62 de esta Ley;
 
 d) Revocar la constancia expedida en favor de una fórmula o candidato a diputado o a favor de una planilla de concejales; para otorgarla al candidato o fórmula o a la planilla de candidatos que resulte ganadora como resultado de la anulación de la votación emitida en una o varias casillas, y modificar, en consecuencia, las actas de cómputo distrital, municipal o del Consejo General;
 
@@ -1047,7 +1067,9 @@ a) Al partido político que interpuso el recurso y a los terceros interesados, p
 
 b) Al Consejo General y a los Consejos distritales y municipales, la notificación se hará mediante oficio, acompañado de copia certificada de la sentencia. Esta documentación se entregará a más tardar dentro de las cuarenta y ocho horas siguientes a la fecha de la sentencia, en sus respectivos domicilios; y
 
-c) En su caso, a la Oficialía Mayor del Congreso del Estado, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dicte la sentencia.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+c) En su caso a la Secretaría de Servicios Parlamentarios del Congreso del Estado, a más tardar dentro de las cuarenta y ocho horas siguientes a la en que se dicte la sentencia.
 
 ## TÍTULO QUINTO. De las Nulidades
 
@@ -1055,7 +1077,7 @@ c) En su caso, a la Oficialía Mayor del Congreso del Estado, a más tardar dent
 
 ###### Artículo 72.
 
-1. Las nulidades establecidas en este Titulo podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o la elección para concejales a los ayuntamientos; o la elección para Gobernador del Estado, así como la elección en la circunscripción plurinominal.
+1. Las nulidades establecidas en este Título podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección impugnada; o la elección en un distrito electoral uninominal para la fórmula de diputados de mayoría relativa; o la elección para concejales a los ayuntamientos; o la elección para Gobernador del Estado, así como la elección en la circunscripción plurinominal.
 
 2. Los efectos de las nulidades decretadas por el Tribunal, respecto de la votación emitida en una o varias casillas o de una elección, modifican exclusivamente la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
 
@@ -1083,15 +1105,23 @@ b) Cuando se ejerza violencia física o presión sobre los funcionarios de la me
 
 c) Por haber mediado error grave o dolo manifiesto en el cómputo de votos, que beneficie a uno de los candidatos o fórmulas de candidatos y sea determinante para el resultado de la votación;
 
-d) Cuando sin causa justificada el paquete electoral sea entregado al Consejo Municipal o Distrital fuera de los plazos que en el Código señala;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
 
-e) Cuando sin causa justificada, se realice el escrutinio y cómputo en local diferente al que determinen los organismos electorales competentes o en local que no reúna las condiciones señaladas por el Código;
+d) Cundo (sic) sin causa justificada el paquete electoral sea entregado al Consejo Municipal (sic) Distrital fuera de los Plazos que en la LIPEEO señala;
 
-f) Cuando se haya permitido sufragar a personas sin credencial para votar o hubiesen votado personas que no aparecieron en la lista nominal de electores, salvo los casos de excepción que señala el Código, y siempre que ello sea determinante para el resultado de la votación;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+e) Cuando sin causa justificada, se realice el escrutinio y cómputo en local diferente al que determinen los organismos electorales competentes o en el local que no reúna las condiciones señaladas por la LIPEEO;
+
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+f) Cuando se haya permitido sufragar a personas sin credencial para votar o hubiesen votado personas que no aparecieron en la lista nominal de electores, salvo los casos de excepción que señala la LIPEEO, y siempre que ello sea determinante para el resultado de la votación;
 
 g) Recibir la votación con fecha distinta a la señalada para la celebración de la elección;
 
-h) Cuando la recepción de la votación fuera hecha por personas u organismos distintos a los facultados por el Código;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+h) Cuando la recepción de la votación fuera hecha por personas u organismos distintos a los facultados por la LIPEEO;
 
 i) Cuando se impida el acceso a las casillas a los representantes de los partidos políticos o se les expulse sin causa justificada;
 
@@ -1127,15 +1157,21 @@ III. Cuando se hayan cometido violaciones sustanciales en la jornada electoral y
 
 Se entiende por violaciones sustanciales:
 
-a) La realización de los escrutinios y cómputos en lugar que no cumpla con las condiciones señaladas por el Código, o en lugar distinto al determinado previamente por el órgano electoral competente;
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+a) La realización de los escrutinios y cómputos en lugar que no cumpla con las condiciones señaladas por la LIPEEO, o en lugar distinto al determinado previamente por el órgano electoral competente;
 
 b) La recepción de la votación se realice con una fecha distinta a la fecha señalada para la celebración de la elección; y
 
-c) La recepción de la votación se hiciera por persona u organismos distintos a los facultados por el Código.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+c) La recepción de la votación se hiciere por persona u organismos distintos a los facultados por la LIPEEO;
 
 IV. Cuando no se instale el 20% de las casillas electorales y consecuentemente la votación no hubiere sido recibida;
 
-V. Cuando el candidato a Gobernador del Estado que haya obtenido constancia de mayoría, no reúna los requisitos de elegibilidad previstos en la Constitución Estatal y en el Código;
+> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+V. Cuando el candidato a Gobernador del Estado que haya obtenido constancia de mayoría, no reúna los requisitos de elegibilidad previstos en la Constitución Estatal y la LIPEEO;
 
 VI. Cuando los dos integrantes de la fórmula de candidatos a diputados que hubieren obtenido constancia de mayoría sean inelegibles; y
 
@@ -1193,7 +1229,9 @@ b) Juicio para la protección de los derechos político electorales del ciudadan
 
 1. En lo que no contravenga a las reglas de este Libro, para el trámite, sustanciación y resolución de los medios de impugnación y de las nulidades en las elecciones que se rigen por Sistemas Normativos Internos, se seguirá en lo conducente el procedimiento establecido para los medios de impugnación en el Libro Primero de esta Ley.
 
-2. En la interposición, sustanciación y resolución que deriven de elecciones de concejales a los ayuntamientos que se rigen por Sistemas Normativos Internos, no tendrán intervención los partidos políticos ni sus representantes, en los términos previstos por el Código.
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
+2. En la interposición, sustanciación y resolución que deriven de elecciones de concejales a los ayuntamientos que se rigen por Sistemas Normativos Internos, no tendrán intervención los partidos políticos ni sus representantes, en los términos previstos por la LIPEEO;
 
 3. Tratándose de elecciones que se rigen bajo Sistemas Normativos Internos, cuando el medio de impugnación se presente ante una autoridad distinta a la que realizó el acto o dictó la resolución combatida, la autoridad que reciba el medio de impugnación deberá remitirlo inmediatamente a la autoridad electoral que emitió el acto para su tramitación, y ésta a su vez al organismo jurisdiccional para que conozca y resuelva el juicio.
 
@@ -1223,7 +1261,7 @@ a) El actor, que será quien estando legitimado, lo presente por sí mismo o por
 
 b) La autoridad responsable que haya realizado el acto o emitido la resolución que se impugna; y
 
-c) El tercero interesado, que es la comunidad a través de su representante o el ciudadano integrante de un pueblo o comunidad indígena con un interés legitimo en la causa derivado de un derecho incompatible con el que pretende el actor.
+c) El tercero interesado, que es la comunidad a través de su representante o el ciudadano integrante de un pueblo o comunidad indígena con un interés legítimo en la causa derivado de un derecho incompatible con el que pretende el actor.
 
 En cualquier caso, podrán ser asistidos por intérprete que tenga conciencia de su identidad indígena y conocimiento de la lengua y cultura del pueblo o comunidad indígena.
 
@@ -1305,7 +1343,7 @@ d) Hacer la corrección del cómputo municipal cuando sea impugnado por error ar
 
 ###### Artículo 93.
 
-1. Conforme a las condiciones especificas del lugar, las notificaciones se podrán hacer personalmente, por medio electrónico o cédula publicada en los estrados, por oficio, por correo certificado, por telegrama, fax, según se requiera para la eficacia del acto, sentencia o resolución a notificar, salvo disposición expresa de esta ley. En todo caso deberá garantizar la posibilidad material de adoptar una adecuada defensa de aquellos que la notificación genere perjuicio a su esfera jurídica.
+1. Conforme a las condiciones específicas del lugar, las notificaciones se podrán hacer personalmente, por medio electrónico o cédula publicada en los estrados, por oficio, por correo certificado, por telegrama, fax, según se requiera para la eficacia del acto, sentencia o resolución a notificar, salvo disposición expresa de esta ley. En todo caso deberá garantizar la posibilidad material de adoptar una adecuada defensa de aquellos que la notificación genere perjuicio a su esfera jurídica.
 
 2. Estas notificaciones se realizarán a más tardar dentro de los dos días siguientes a aquél en que se pronuncie la sentencia y conforme a las condiciones específicas del lugar.
 
@@ -1345,7 +1383,7 @@ El juicio para la protección de los derechos político electorales de la ciudad
 
 1. El juicio sólo será procedente cuando el actor haya realizado las gestiones necesarias para estar en condiciones de ejercer el derecho político electoral presuntamente violado, en la forma y en los plazos de los Sistemas Normativos Internos, o en su caso, los que las leyes respectivas establezcan para tal efecto.
 
-2. Para emitir la resolución que corresponda en este juicio, el Tribunal se regirá conforme a lo dispuesto por el artículo 79 de esta Ley. Asimismo, se aplicarán las normas establecidas en los capítulos I al V del Titulo Primero correspondiente al Libro Tercero de esta Ley.
+2. Para emitir la resolución que corresponda en este juicio, el Tribunal se regirá conforme a lo dispuesto por el artículo 79 de esta Ley. Asimismo, se aplicarán las normas establecidas en los capítulos I al V del Título Primero correspondiente al Libro Tercero de esta Ley.
 
 ###### Artículo 100.
 
@@ -1381,7 +1419,7 @@ c) Revocar o modificar el acto o resolución impugnado y restituir al promovente
 
 d) En ningún caso, la revocación o modificación del acto impugnado implicará que deba cambiar el Sistema Normativo Indígena para el proceso electoral en el que tiene lugar el juicio.
 
-2. Las sentencias recaídas a los juicios para la protección de los derechos político electorales de la ciudadanía en el Régimen de Sistemas Normativos Internos serán notificadas:
+2. Las sentencias recaídas a los juicios para la protección de los derechos político-electorales de la ciudadanía en el Régimen de Sistemas Normativos Internos serán notificadas:
 
 a) Al actor que promovió el juicio, y en su caso, a los terceros interesados, a más tardar dentro de los dos días siguientes al en que se dictó la sentencia, de forma personal siempre y cuando haya señalado domicilio en la ciudad sede de este Tribunal. En cualquier otro caso, la notificación se hará por correo certificado, por telegrama o por estrados; y
 
@@ -1441,7 +1479,7 @@ El Tribunal es competente para conocer y resolver el juicio para la protección 
 
 a) Confirmar el acto o resolución impugnado; y
 
-b) Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho politico electorales que le haya sido violado.
+b) Revocar o modificar el acto o resolución impugnado y restituir al promovente en el uso y goce del derecho (sic) político electorales que le haya sido violado.
 
 2. Las sentencias recaídas a los juicios para la protección de los derechos político electorales de los ciudadanos serán notificadas:
 
@@ -1451,7 +1489,7 @@ b) A la autoridad u órgano partidista responsable, a más tardar dentro de los 
 
 ###### Artículo 109.
 
-1. El juicio para la protección de los derechos politico electorales de los ciudadanos, se presentará en los términos que establece la presente Ley.
+1. El juicio para la protección de los derechos político electorales de los ciudadanos, se presentará en los términos que establece la presente Ley.
 
 2. La sustanciación se hará conforme a las reglas que establece esta Ley en el libro primero.
 
@@ -1521,9 +1559,11 @@ La suspensión será improcedente respecto a actos negativos y consumados
 
 Para el otorgamiento de la suspensión el tribunal, sin dejar de observar lo estipulado en el artículo anterior, valorara la comprobación de la apariencia del buen derecho invocado y el peligro en la demora.
 
+> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 116.
 
-La violación a la suspensión decretada por el Tribunal será sancionada conforme a la Ley de responsabilidades de los Servidores Públicos del Estado y Municipios del Estado de Oaxaca, independientemente de la responsabilidad penal en que se incurra.
+La violación a la suspensión decretada por el Tribunal será sancionada conforme a la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, independientemente de la responsabilidad penal en que se incurra.
 
 # LIBRO SEXTO. DEL RECURSO DE VERIFICACIÓN
 
@@ -1671,7 +1711,7 @@ Para la sustanciación y resolución del juicio previsto en el presente Libro qu
 
 ###### Artículo 136.
 
-Los efectos de la sentencia podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución Impugnado. En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor del Instituto o del Tribunal, estos últimos podrán negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado, por concepto de prima de antigüedad.
+Los efectos de la sentencia podrán ser en el sentido de confirmar, modificar o revocar el acto o resolución impugnado. En el supuesto de que la sentencia ordene dejar sin efectos la destitución del servidor del Instituto o del Tribunal, estos últimos podrán negarse a reinstalarlo, pagando la indemnización equivalente a tres meses de salario más doce días por cada año trabajado, por concepto de prima de antigüedad.
 
 T R A N S I T O R I O S.
 
@@ -1697,7 +1737,7 @@ DIP. IVONNE GALLEGOS CARREÑO.
 
 SECRETARIA.
 
-DIP. PERFECTO MECINAS QUERO
+DIP. PERFECTO MECINAS QUERO.
 
 SECRETARIO.
 
@@ -1724,3 +1764,21 @@ Tlalixtac de Cabrera, Centro, Oax., a 17 de agosto del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 828.- MEDIANTE EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 23 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 829.- MEDIANTE EN (SIC) EL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO: Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
