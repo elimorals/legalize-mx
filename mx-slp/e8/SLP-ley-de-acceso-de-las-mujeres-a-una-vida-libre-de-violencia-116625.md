@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1166
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-17"
-last_updated: "2019-10-03"
+last_updated: "2019-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL P.O. DE 25 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 17 de septiembre de 2016.
 
@@ -1388,3 +1390,15 @@ P.O. 3 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor a los treinta días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0314.- LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor de este Ordenamiento, se abroga la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el diecisiete de septiembre de dos mil dieciséis, Decreto Legislativo Número 384.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
