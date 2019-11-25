@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-la-juventud-para-el-estado-de-puebla-71034"
 country: "mx"
 rank: "ley"
 publication_date: "2009-11-09"
-last_updated: "2019-06-19"
+last_updated: "2019-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de noviembre de 2009.
 
@@ -255,6 +255,24 @@ Los Gobiernos Estatal y Municipales garantizarán la libre expresión de los dif
 
 Toda persona joven tiene derecho a formar parte activa de una familia y a integrar una nueva que promueva relaciones donde prevalezca el afecto, el respeto, la tolerancia, la responsabilidad y comprensión mutua entre sus miembros y a estar protegidos de todo tipo de maltrato o violencia.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 16 Bis.
+
+Los Gobiernos Estatal y Municipales, en el ámbito de sus respetivas (sic) competencias, desarrollarán políticas públicas encaminadas al reconocimiento y apoyo de las familias jóvenes.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 16 Ter.
+
+Las políticas públicas de apoyo a las familias jóvenes comprenderán las siguientes acciones:
+
+I.- La adopción de medidas para facilitar el acceso a la vivienda;
+
+II.- El asesoramiento especializado y la información precisa sobre el importante papel socializador que desempeña la familia;
+
+III.- La creación de programas de ayuda y apoyo para la familia joven monoparental.
+
 #### SECCIÓN SEXTA. DERECHO A LA LIBERTAD DE PENSAMIENTO, OPINIÓN Y EXPRESIÓN
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
@@ -423,9 +441,11 @@ Toda persona joven tiene derecho a la protección social frente a situaciones de
 
 Toda persona joven tiene el derecho a una vivienda digna y de calidad que les permita desarrollar su proyecto de vida y sus relaciones de comunidad.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 42.
 
-Los Gobiernos Estatal y Municipales implementarán los programas y acciones para hacer efectivo este derecho, de conformidad con la normatividad aplicable.
+Los Gobiernos Estatal y Municipales dependiendo de su capacidad presupuestaria, implementarán los programas y acciones que faciliten a las personas jóvenes el obtener financiamiento para la vivienda, y las necesarias para hacer efectivo el derecho a una vivienda digna y de calidad, de conformidad con la normatividad aplicable.
 
 #### SECCIÓN SÉPTIMA. DERECHO A UN MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
@@ -972,6 +992,14 @@ TERCERO. En los ordenamientos jurídicos que se refieren a joven; se entenderá 
 P.O. 19 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 12 DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LOS ARTÍCULOS 16 BIS Y 16 TER, Y REFORMA EL ARTÍCULO 42, TODOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
