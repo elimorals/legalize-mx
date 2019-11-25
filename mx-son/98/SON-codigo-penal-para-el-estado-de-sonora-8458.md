@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2019-06-27"
+last_updated: "2019-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 27 DE JUNIO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -2315,11 +2313,15 @@ I.- El servidor público que por sí o por interpósita persona, solicite o reci
 
 II.- El que, directa o indirectamente, dé u ofrezca dádivas a la persona encargada de un servicio público, sea o no servidor público, para que haga u omita un acto justo o injusto relacionado con sus funciones.
 
-> <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, B.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-El delito de cohecho se sancionará con prisión de seis meses a nueve años, multa de diez a doscientos cincuenta Unidades de Medida y Actualización, destitución, en su caso, e inhabilitación de seis meses a nueve años, para desempeñar otro empleo, cargo o comisión públicos.
+El delito de cohecho se sancionará con prisión de tres a nueve años, multa de diez a doscientos cincuenta Unidades de Medida y Actualización, destitución, en su caso, e inhabilitación de seis meses a nueve años, para desempeñar otro empleo, cargo o comisión pública.
 
 En todos los casos se decomisará a los responsables del delito de cohecho el dinero o dádivas entregados.
+
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+Este delito se agravará cuando sean cometidos por servidores públicos de alguna corporación policial, ministerial o de Seguridad Pública, de la Secretaría de Hacienda, del Instituto Superior de Auditoría y Fiscalización, de la Secretaría General de la Contraloría, del Tribunal de Justicia Administrativa, de la Tesorería de algún municipio o del Órgano de Control y Evaluación Gubernamental de algún municipio, aumentando la pena corporal en una mitad, y la inhabilitación de uno a diez años, para desempeñar otro empleo, cargo o comisión pública.
 
 ### CAPITULO VII. CONCUSION
 
@@ -5320,3 +5322,11 @@ El presente Decreto entrará en vigor el día de su publicación en el Boletín 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 76, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 185 DEL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
