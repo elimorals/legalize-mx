@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cambio-climatico-para-el-estado-de-guanajuato-y-sus-9661
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2018-10-10"
+last_updated: "2019-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -219,7 +217,9 @@ IX. Promover el desarrollo y la instalación de infraestructura y acciones encam
 
 X. Desarrollar la instalación de infraestructura y acciones encaminadas a minimizar y valorizar los residuos, así como para reducir y evitar las emisiones de metano provenientes de los residuos de manejo especial;
 
-XI. Realizar campañas de educación e información en materia de cambio climático en los sectores público y social para el uso de combustibles menos contaminantes en las fuentes fijas y móviles de jurisdicción estatal, sistemas de energía renovable y de emisiones derivadas por los patrones de producción y consumo;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+XI. Realizar campañas de educación e información en materia de cambio climático y sustentabilidad energética en los sectores público y social para el uso de combustibles menos contaminantes en las fuentes fijas y móviles de jurisdicción estatal, sistemas de energía renovable y de emisiones derivadas por los patrones de producción y consumo.
 
 XII. Impulsar, participar y coordinar proyectos de reducción, compensación y mitigación de emisiones de gases de efecto invernadero;
 
@@ -231,9 +231,13 @@ XV. Integrar el Registro Estatal con las fuentes que se identifiquen sujetas a r
 
 XVI. Integrar, actualizar y dar seguimiento, en coordinación con las autoridades en materia de cambio climático, al Subsistema Estatal de Información sobre el Cambio Climático;
 
-XVII. Formular, regular, dirigir y participar en la implementación de acciones de reducción, compensación y mitigación del cambio climático, y de instrumentos de la política ambiental, en las materias de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-a) Desarrollo Urbano y Ordenamiento Ecológico Territorial, en el ámbito de su competencia;
+XVII. Formular, regular, dirigir y participar, en el ámbito de su competencia, en la implementación de acciones de reducción, compensación y mitigación del cambio climático, y de instrumentos de la política ambiental, en las materias de:
+
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+a) Desarrollo Urbano y Ordenamiento Ecológico Territorial;
 
 b) Emisiones a la atmósfera;
 
@@ -243,7 +247,9 @@ d) Residuos de manejo especial;
 
 e) Impactos ambientales en sectores productivos; y
 
-f) Energías renovables y eficiencia energética.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+f) Energías renovables y sustentabilidad energética.
 
 XVIII. Gestionar fondos para apoyar e implementar acciones en la materia;
 
@@ -399,9 +405,15 @@ V. Coordinar con los municipios la definición de lineamientos y directrices dis
 
 VI. Convenir con los sectores social y privado la realización de acciones e inversiones concertadas para la mitigación y adaptación al cambio climático;
 
-VII. Elaborar, en coordinación con los ayuntamientos, un reporte sobre medidas tomadas para mejorar el ahorro y la eficiencia energética en sus instalaciones, así como elaborar sus metas a mediano y corto plazos; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Las demás que les señalen esta Ley y las disposiciones jurídicas aplicables.
+VII. Elaborar, en coordinación con los ayuntamientos, un reporte sobre medidas tomadas para mejorar el ahorro y la sustentabilidad energética en sus instalaciones, así como elaborar sus metas a mediano y corto plazos;
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Fomentar en el sector privado y social el uso óptimo de la energía con la finalidad de disminuir los impactos negativos ambientales derivados de su consumo; y
+
+IX. Las demás que les señalen esta Ley y las disposiciones jurídicas aplicables.
 
 Facultades de los ayuntamientos
 
@@ -825,7 +837,9 @@ III. Agricultura, ganadería, silvicultura, pesca y acuicultura;
 
 IV. Ecosistemas y biodiversidad;
 
-V. Energía, industria y servicios;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+V. Sustentabilidad energética, industria y servicios;
 
 VI. Infraestructura de transportes y comunicaciones;
 
@@ -1031,7 +1045,9 @@ Para reducir las emisiones, las dependencias y entidades de la Administración P
 
 I. Reducción de emisiones en el uso de energía:
 
-a) Fomentar prácticas de eficiencia energética y promover el uso de fuentes renovables de energía; así como la transferencia de tecnología de bajas emisiones de carbono, de conformidad con la Ley para el Fomento del Aprovechamiento de las Fuentes Renovables de Energía y Sustentabilidad Energética para el Estado y los Municipios de Guanajuato.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+a) Fomentar prácticas de eficiencia energética y promover el uso de fuentes renovables de energía; así como la transferencia de tecnología de bajas emisiones de carbono y la instalación y operación de empresas que utilicen fuentes renovables de energía de conformidad con la Ley para el Fomento del Aprovechamiento de las Fuentes Renovables de Energía y Sustentabilidad Energética para el Estado y los Municipios de Guanajuato.
 
 b) Desarrollar y aplicar incentivos a la inversión tanto pública como privada en la generación de energía eléctrica proveniente de fuentes renovables y tecnologías de cogeneración eficiente. Dichos incentivos se incluirán en la Estrategia Estatal.
 
@@ -1039,7 +1055,9 @@ c) Fomentar la utilización de energías renovables para la generación de elect
 
 d) Desarrollar políticas y programas que tengan por objeto la implementación de la cogeneración eficiente para reducir las emisiones.
 
-e) Fomentar prácticas de eficiencia energética, y de transferencia de tecnología bajas en emisiones de carbono.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+e) Fomentar prácticas de sustentabilidad energética, y de transferencia de tecnología bajas en emisiones de carbono.
 
 f) Expedir disposiciones jurídicas y elaborar políticas para a (sic) construcción de edificaciones sustentables, incluyendo el uso de materiales ecológicos y la eficiencia y sustentabilidad energética.
 
@@ -1346,6 +1364,10 @@ Informes
 ###### Artículo 68.
 
 Con base en el Subsistema Estatal de Información sobre el Cambio Climático, la Secretaría deberá elaborar, publicar y difundir informes sobre adaptación y mitigación del cambio climático y sus repercusiones, considerando la articulación de éstos en el Plan Estatal de Desarrollo y los programas estatales.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+La Secretaría en los informes formulará las especificaciones sobre las acciones y políticas públicas que a corto y mediano plazo deberán implementar los municipios para la adaptación ante los efectos del cambio climático en el estado.
 
 Integración de datos
 
@@ -1786,3 +1808,11 @@ Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 109 DE LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO MEDIANTE EL CUAL SE REFORMAN Y SE ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
