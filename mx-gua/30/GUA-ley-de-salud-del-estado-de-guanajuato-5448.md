@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2019-11-11"
+last_updated: "2019-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -2175,6 +2175,10 @@ II.- La educación a la familia para prevenir y disminuir el consumo de tabaco p
 
 ARTICULO 160 BIS.- El Consumo de tabaco se sujetará a lo dispuesto en el reglamento correspondiente y demás normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+En aquella área física cerrada con acceso al público o todo lugar de trabajo físico interior o de transporte público, por razones de orden público e interés social, queda prohibido consumir o tener encendido cualquier dispositivo que use o utilice productos con elementos alusivos al tabaco como el cigarro electrónico, lo anterior de conformidad con los lineamientos que emita la Secretaría de Salud.
+
 ### CAPITULO III. Programa contra la Farmacodependencia
 
 ###### ARTICULO 161.
@@ -3592,3 +3596,11 @@ P.O. 11 DE NOVIEMBRE DE 2019.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
 
 Artículo segundo. El Poder Ejecutivo del Estado deberá establecer los programas y acciones a que se refiere el artículo 101 del presente Decreto, en un plazo de 180 días posteriores a su entrada en vigor.
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 108 MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 160 BIS A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. El Poder Ejecutivo del Estado deberá emitir los lineamientos a efecto de dar cumplimiento al presente Decreto en un término de 90 días contados a partir de su vigencia.
