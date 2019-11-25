@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-rural-sustentable-del-estado-de-puebla-40976"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-18"
-last_updated: "2017-12-29"
+last_updated: "2019-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Puebla, el miércoles 18 de agosto de 2004.
 
@@ -43,9 +43,11 @@ LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE PUEBLA
 
 La presente Ley es de observancia general, sus disposiciones son de orden público y tienen por objeto fomentar el Desarrollo Rural Sustentable del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 2.
 
-Se considera de interés público el Desarrollo Rural Sustentable; que incluye la planeación y organización de la producción agropecuaria; el fomento tecnológico, la industrialización y comercialización de los bienes y servicios agropecuarios; y todas aquellas acciones tendientes a mejorar la calidad de vida de la población rural.
+Se considera de interés público el desarrollo rural sustentable; que incluye la planeación, organización y protección de la producción agropecuaria garantizando la inocuidad; el fomento tecnológico, la industrialización y comercialización de los bienes y servicios agropecuarios; y todas aquellas acciones tendientes a mejorar la calidad de vida de la población, bajo el principio de Inocuidad de los Alimentos que contribuya a la nutrición y la Salud Pública en el Estado.
 
 ###### ARTÍCULO 3.
 
@@ -55,7 +57,9 @@ En el ámbito de competencia estatal, son sujetos de esta Ley los ejidos, las co
 
 Para los efectos de esta Ley, se entiende por:
 
-I.- Actividades Agropecuarias.- Los procesos productivos primarios basados en recursos naturales renovables: agricultura, ganadería, silvicultura y acuacultura;
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+I.- Actividades Agropecuarias.- Los procesos productivos primarios basados en recursos naturales renovables: agricultura, ganadería, silvicultura, acuacultura y apícultura;
 
 II.- Actividades Económicas de la Sociedad Rural.- Las actividades productivas, industriales, comerciales y de servicios agropecuarios;
 
@@ -101,9 +105,17 @@ XXII.- Secretaría.- La Secretaría de Desarrollo Rural;
 
 XXIII.- Servicios Ambientales.- Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación entre otros;
 
-XXIV.- Sistema-Producto.- El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios incluyendo el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-XXV.- Sustentabilidad.- Acción que integra criterios e indicadores de carácter ambiental, económico social que tienda a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de las futuras generaciones.
+XXIV.- Sistema-Producto.- El conjunto de elementos y agentes concurrentes de los procesos productivos de productos agropecuarios incluyendo el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución y comercialización;
+
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+XXV.- Sustentabilidad.- Acción que integra criterios e indicadores de carácter ambiental, económico social que tienda a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de las futuras generaciones; y
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+XXVI.- Inocuidad Alimentaria.- Principio que rige la producción alimentaria, que abarca desde la producción hasta la cosecha, el procesamiento, el almacenamiento, la distribución, hasta la preparación y el consumo de los alimentos, lo anterior para combatir el uso de agentes patógenos nocivos que alteran o afectan al medio ambiente, dirigido a procurar la sanidad de los alimentos priorizando la salud de quien los consuma.
 
 ###### ARTÍCULO 5.
 
@@ -367,9 +379,11 @@ La Secretaría, en coordinación con las dependencias correspondientes suscribir
 
 La Secretaría coordinará el establecimiento y mantenimiento de los mecanismos para la evaluación y registro de las tecnologías aplicables en el Estado, a las diversas condiciones agroambientales y socioeconómicas de los productores, atendiendo a los méritos productivos, las implicaciones y restricciones de las tecnologías, la sustentabilidad y la bioseguridad.
 
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 36.
 
-En relación con los organismos genéticamente modificados, la Secretaría se orientará con los criterios de bioseguridad, e inocuidad y protección de la salud, conforme a lo dispuesto en materia federal.
+En relación con los organismos genéticamente modificados, la Secretaría se orientará con los criterios de bioseguridad, e inocuidad y protección de la salud, conforme a lo dispuesto en materia federal y lo establecido en el presente ordenamiento.
 
 ### CAPÍTULO III. DE LA CAPACITACIÓN Y ASISTENCIA TÉCNICA
 
@@ -733,9 +747,11 @@ Para impulsar la formación y consolidación de empresas rurales, los apoyos a l
 
 ### CAPÍTULO X. DE LA SANIDAD AGROPECUARIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 86.
 
-En materia de sanidad vegetal, salud animal y lo relativo a los organismos genéticamente modificados, la política se orientará a reducir los riesgos en estos subsectores y la salud pública, así como fortalecer su productividad y facilitar la comercialización regional, nacional e internacional de los productos y subproductos.
+En materia de sanidad vegetal, salud animal y lo relativo a los organismos genéticamente modificados, la política se orientará a reducir los riesgos en estos subsectores y la salud pública conforme al principio de inocuidad alimentaria, así como fortalecer su productividad y facilitar la comercialización regional, nacional e internacional de los productos y subproductos.
 
 Las acciones y programas que realicen las dependencias y entidades competentes se ajustarán a lo previsto por las leyes federales, estatales y a las convenciones internacionales en la materia.
 
@@ -755,7 +771,7 @@ Para delimitar las regiones fitozoosanitarias y realizar la inspección de la mo
 
 ###### ARTÍCULO 89.
 
-El Gobierno del Estado, a través de la Secretaría, participará en foros nacionales rectores de los criterios cuarentenarios e impulsará la formulación de otros criterios pertinentes para su adopción en las convenciones internacionales; asimismo, promoverá las adecuaciones convenientes en los programas y regulaciones nacionales que permitan actuar con oportunidad en defensa de los intereses del comercio de los productos nacionales, ante la implantación en el ámbito internacional de criterios regulatorios relativos a la inocuidad alimentaría, la cual será objeto de acciones programáticas y regulaciones específicas a cargo del Gobierno Estatal.
+El Gobierno del Estado, a través de la Secretaría, participará en foros nacionales rectores de los criterios cuarentenarios e impulsará la formulación de otros criterios pertinentes para su adopción en las convenciones internacionales; asimismo, promoverá las adecuaciones convenientes en los programas y regulaciones nacionales que permitan actuar con oportunidad en defensa de los intereses del comercio de los productos nacionales, ante la implantación en el ámbito internacional de criterios regulatorios relativos a la inocuidad alimentaria, la cual será objeto de acciones programáticas y regulaciones específicas a cargo del Gobierno Estatal.
 
 La Secretaría, promoverá la concertación con las autoridades agropecuarias y de sanidad de los Estados colindantes, para realizar campañas fitozoosanitarias conjuntas, con el fin de proteger la sanidad de la producción agropecuaria, forestal y acuícola estatal.
 
@@ -763,13 +779,15 @@ La Secretaría, promoverá la concertación con las autoridades agropecuarias y 
 
 Se consideran de interés público las medidas de prevención para que los organismos de origen animal, vegetal, productos y subproductos o genéticamente modificados sean inocuos para la salud humana, por lo que el Gobierno del Estado, a través de la Secretaría mediante convenios con el Gobierno Federal, establecerá mecanismos e instrumentos relativos a la bioseguridad y a la producción, movilización, propagación, liberación, consumo y, en general uso y aprovechamiento de dichos organismos, sus productos y subproductos, con la información suficiente y oportuna a los consumidores.
 
-En caso de presunción de riesgo fitozoosanitario o de efectos indeseados del uso de organismos genéticamente modificados, ante la insuficiencia de evidencias científicas adecuadas, las orientaciones y medidas correspondientes seguirán invariablemente el principio de precaución y el derecho a la protección de la salud. Esta materia se regulará por la normatividad aplicable al respecto.
+> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+En caso de presunción de riesgo fitozoosanitario o de efectos indeseados del uso de organismos genéticamente modificados, o en presencia de sustancias químicas o agentes patógenos nocivas (sic) o de lenta eliminación, este criterio con base a lo que establecen las Normas Oficiales Mexicanas y la Ley de Desarrollo Rural Sustentable, ante la insuficiencia de evidencias científicas adecuadas, las orientaciones y medidas correspondientes seguirán invariablemente el principio de precaución y el derecho a la protección de la salud. Esta materia se regulará por la normatividad aplicable al respecto.
 
 ###### ARTÍCULO 91.
 
 Los transportistas de animales, vegetales, sus productos y subproductos deberán detenerse en los puntos de verificación e inspección fitozoosanitarios, con el fin de permitir que la Secretaría verifique que cumplen con la normatividad aplicable.
 
-En caso de que los transportistas mencionados no cumplan con la normatividad aplicable, se les impedirá el transito, asimismo se formulará un acta circunstanciada, misma que se remitirá a la autoridad competente para su trámite correspondiente.
+En caso de que los transportistas mencionados no cumplan con la normatividad aplicable, se les impedirá el tránsito, asimismo se formulará un acta circunstanciada, misma que se remitirá a la autoridad competente para su trámite correspondiente.
 
 Para la movilización de animales, sus productos y subproductos en la Entidad, deberá acompañarse la guía de transito respectiva, y tratándose de productos y subproductos vegetales, la constancia de origen.
 
@@ -1205,7 +1223,9 @@ IX.- No cumplir con los términos convenidos en los proyectos y acciones de apoy
 
 X.- La omisión de los Municipios, respecto de no tratar las aguas residuales otorgadas por la federación y las descarguen sin tratar en los cultivos o cuerpos agua; y
 
-XI.- No cumplir con las disposiciones legales en materia de salud agropecuaria previstas en esta Ley.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+XI.- No cumplir con las disposiciones legales en materia de salud agropecuaria previstas en las leyes federales, generales, convenios internacionales y en esta Ley.
 
 ### CAPÍTULO II. DE LAS SANCIONES ADMINISTRATIVAS
 
@@ -1438,3 +1458,11 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 2, 4 FRACCIONES I, XXIV Y XXV, 36, 86 PRIMER PÁRRAFO, 90 SEGUNDO PÁRRAFO, 146 FRACCIÓN XI; Y ADICIONA LA FRACCIÓN XXVI AL ARTÍCULO 4, TODOS DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
