@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2019-05-06"
+last_updated: "2019-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,9 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
 
-Ley publicada en la Primera Sección al Número 28 del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de Julio de 2018.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
 GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE AGUASCALIENTES
 
@@ -53,7 +53,7 @@ Decreto Número 341
 
 ###### ARTÍCULO SEGUNDO.
 
-– Se Expide la Nueva Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, y para quedar en los siguientes términos:
+Se Expide la Nueva Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, y para quedar en los siguientes términos:
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
@@ -979,13 +979,17 @@ III. Lo referente a las acciones que realice el Gobierno del Estado, respecto de
 
 IV. Atender lo relativo a la atención integral y prioritaria de los jóvenes que se encuentren en algún supuesto de vulnerabilidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-V. La planificación, convocatoria, organización y realización de las Jornadas del Parlamento Juvenil del Congreso; mismas que habrán de celebrarse anualmente y como un evento en el que participen veintisiete jóvenes representantes y residentes en el Estado de Aguascalientes, los cuales serán elegidos según lo disponga la misma Comisión de Juventud; y
+V. La planificación, convocatoria, organización y realización de las Jornadas del Parlamento Juvenil del Congreso; mismas que habrán de celebrarse anualmente y como un evento en el que participen veintisiete jóvenes representantes y residentes en el Estado de Aguascalientes, los cuales serán elegidos según lo disponga la misma Comisión de Juventud;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-VI. Otros análogos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
+VI. La planificación, emisión de convocatoria, organización y realización del Concurso Anual de Oratoria, dirigido a jóvenes de entre 18 y 29 años, mismo que deberá realizarse el primer viernes de marzo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+VII. Otros análogos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
 ###### ARTÍCULO 70.
 
@@ -1037,9 +1041,17 @@ Corresponde a la Comisión de Postulaciones, el conocimiento, análisis, estudio
 
 I. El procedimiento establecido en términos de la Ley de Premios que Otorga el Congreso del Estado de Aguascalientes;
 
-II. Los procedimientos de designación de servidores públicos que tenga que llevar el Congreso del Estado, y sobre los que no se tenga una disposición expresa en contrario por la ley de la materia; y
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-III. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento de esta Comisión.
+II. Los procedimientos de designación de servidores públicos que tenga que llevar el Congreso del Estado, y sobre los que no se tenga una disposición expresa en contrario por la ley de la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+III. Las Inscripciones de nombres de personas físicas o morales, leyendas o apotegmas que tengan como objetivo rendir homenaje a un personaje, institución o suceso histórico de trascendencia para nuestro Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+IV. Otros análogos, que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento de esta Comisión.
 
 ###### ARTÍCULO 74.
 
@@ -2079,11 +2091,11 @@ Los Artículos Segundo, Tercero y Cuarto del presente Decreto entrarán en vigor
 
 ###### ARTÍCULO TERCERO.
 
-– El 14 de Septiembre de 2018 se Abrogan la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 364 de la LIX Legislatura, en fecha 04 de febrero de 2008; el Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 080 de la LX Legislatura, en fecha 16 de junio de 2008; el Reglamento de la Secretaría General del Congreso del Estado de Aguascalientes, publicado en virtud del Decreto Número 393 de la LX Legislatura, en fecha 05 de abril de 2010; el Reglamento de los Órganos Auxiliares del Congreso del Estado de Aguascalientes, publicado en virtud del Decreto Número 261 de la LX Legislatura, en fecha 13 de julio de 2009; el Reglamento del Servicio Civil de Carrera de los Servidores Públicos del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 188 de la LVII Legislatura, en fecha 23 de julio de 2001; y el Reglamento de los Sistemas de Archivo del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 102 de la LVIII Legislatura, en fecha 03 de noviembre de 2003.
+El 14 de Septiembre de 2018 se Abrogan la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 364 de la LIX Legislatura, en fecha 04 de febrero de 2008; el Reglamento de la Ley Orgánica del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 080 de la LX Legislatura, en fecha 16 de junio de 2008; el Reglamento de la Secretaría General del Congreso del Estado de Aguascalientes, publicado en virtud del Decreto Número 393 de la LX Legislatura, en fecha 05 de abril de 2010; el Reglamento de los Órganos Auxiliares del Congreso del Estado de Aguascalientes, publicado en virtud del Decreto Número 261 de la LX Legislatura, en fecha 13 de julio de 2009; el Reglamento del Servicio Civil de Carrera de los Servidores Públicos del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 188 de la LVII Legislatura, en fecha 23 de julio de 2001; y el Reglamento de los Sistemas de Archivo del Poder Legislativo del Estado de Aguascalientes, publicado en virtud del Decreto Número 102 de la LVIII Legislatura, en fecha 03 de noviembre de 2003.
 
 ###### ARTÍCULO CUARTO.
 
-– El Congreso del Estado deberá en un plazo de 180 días hábiles, contados a partir de la publicación del presente Decreto, realizar de conformidad las Reformas, Adiciones y/o Derogaciones al Código de Ética Legislativa del Honorable Congreso del Estado de Aguascalientes, y a la Ley del Sistema Estatal Anticorrupción de Aguascalientes.
+El Congreso del Estado deberá en un plazo de 180 días hábiles, contados a partir de la publicación del presente Decreto, realizar de conformidad las Reformas, Adiciones y/o Derogaciones al Código de Ética Legislativa del Honorable Congreso del Estado de Aguascalientes, y a la Ley del Sistema Estatal Anticorrupción de Aguascalientes.
 
 Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, a los veintiocho días del mes de junio del año dos mil dieciocho.
 
@@ -2118,3 +2130,19 @@ P.O. 6 DE MAYO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 245.- ARTÍCULO PRIMERO.- SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 73; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 73 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE ADICIONA UN TÍTULO DÉCIMO PRIMERO DENOMINADO "LOS CRITERIOS PARA LAS INSCRIPCIONES DE HONOR" CONFORMADO POR EL CAPÍTULO ÚNICO DENOMINADO "LINEAMIENTOS PARA LAS INSCRIPCIONES DE HONOR" INTEGRADO POR LOS ARTÍCULOS 210, 211, 212, 213, 214, 215, 216 Y 217 AL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 246.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES V Y VI Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
