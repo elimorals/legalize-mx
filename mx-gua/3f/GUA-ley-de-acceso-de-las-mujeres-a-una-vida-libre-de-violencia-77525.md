@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2019-08-01"
+last_updated: "2019-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -79,7 +79,9 @@ X. Sistema Nacional: el Sistema Nacional para Prevenir, Atender, Sancionar y Err
 
 XI. Víctima: la mujer de cualquier edad a quien se le inflige cualquier tipo de violencia, así como sus familiares o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida en su contra; y
 
-XII. Violencia contra las mujeres: cualquier acción u omisión que les cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+XII. Violencia contra las mujeres: acción u omisión por cualquier medio que les cause a las mujeres daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
 
 Principios rectores
 
@@ -137,7 +139,11 @@ X. Violencia política: es la acción u omisión que, en el ámbito político, p
 
 XI. Violencia por acoso: Es la agresión reflejada en cualquier acto expresivo, verbal o físico, motivada u orientada por discriminación con base en el género, que pretenda coaccionar a la persona acosada con molestias o requerimientos que la coloquen intencionalmente en una situación de riesgo, incluso en aquellos casos donde no exista subordinación, pero el acosador cometa un ejercicio abusivo del poder que ponga a la víctima en estado de indefensión; y
 
-XII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+XII. Violencia Digital: acción u omisión que se produce cuando una persona provoca o realiza daños físicos o psicológicos a una mujer, utilizando las tecnologías de la información y comunicación, vulnerando principalmente su dignidad, intimidad, libertad y vida privada; y
+
+XIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2018)</small>
 
@@ -176,6 +182,10 @@ II. Laboral y docente: es la que se ejerce por las personas que tienen un víncu
 III. En la comunidad: es cualquier tipo de violencia contra la mujer cometida en el ámbito público; y
 
 IV. Institucional: es cualquier tipo de violencia contra la mujer consistente en actos u omisiones cometidos por los servidores públicos de cualquier orden de gobierno.
+
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+V. En la comunidad digital: es la violencia que se ejerce dentro de un grupo de personas que forman una red digital, los cuales tienen intereses comunes por cada uno de sus miembros y tienen un código común de comunicación que es utilizado por enlaces electrónicos e interfaces gráficos de usuario.
 
 ### Capítulo III. Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres
 
@@ -595,7 +605,11 @@ X. Las demás previstas para el cumplimiento de esta Ley.
 
 #### Sección Novena. Facultades del titular de la Procuraduría General de Justicia
 
-Facultades del Procurador General de Justicia
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+Facultades de la Fiscalía General del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 22.
 
@@ -615,7 +629,7 @@ Facultades del titular del IMUG
 
 ###### Artículo 23.
 
-El titular de la Procuraduría General de Justicia ejercerá las siguientes facultades:
+El titular de la Fiscalía General del Estado ejercerá las siguientes facultades:
 
 I. Proporcionar periódicamente tratamiento de contención al personal especializado que atiende a las víctimas;
 
@@ -635,9 +649,9 @@ VI. Desarrollar campañas de difusión sobre los derechos que tienen las víctim
 
 VII. Formar y especializar con perspectiva de género, a los agentes del Ministerio Público, al personal de servicios periciales y en general al personal encargado de la procuración de justicia responsable de conocer la violencia contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas; así como en la investigación de los delitos de feminicidio, trata de personas y contra la libertad sexual;
+VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas; así como en la investigación de los delitos de feminicidio, violencia digital, trata de personas y contra la libertad sexual;
 
 > <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2012)</small>
 
@@ -847,13 +861,17 @@ IV. Servicio médico;
 
 V. Asesoría y asistencia jurídica;
 
-VI. Apoyo psicológico;
+> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2019)</small>
 
-VII. Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
+VI. Asesoría y asistencia tecnológica, en casos de violencia digital;
 
-VIII. Capacitación, para que puedan adquirir conocimientos para el desempeño de una actividad laboral; y
+VII. Apoyo psicológico;
 
-IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
+VIII. Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
+
+IX. Capacitación, para que puedan adquirir conocimientos para el desempeño de una actividad laboral; y
+
+X. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
 
 Atención a víctimas
 
@@ -1236,3 +1254,9 @@ Procesos de entrega recepción
 Artículo Noveno. El Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato transferirá al organismo público descentralizado de la administración pública estatal denominado Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y a la Secretaría de Gobierno, respectivamente y desde el ámbito de las competencias que les correspondan conforme al presente Decreto, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato haya venido destinando para la atención de las funciones que desempeñaba la unidad administrativa de dicho organismo denominada Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y de la unidad administrativa de dicho organismo denominada Secretaría Ejecutiva del Sistema de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato hasta antes de la entrada en vigencia del presente Decreto, a través de la entrega-recepción respectiva.
 
 El Comité Interno de entrega-recepción, para cada unidad administrativa, deberá quedar conformado dentro de los cuarenta y cinco días siguientes a la entrada en vigencia del presente Decreto, en el que participarán las unidades administrativas competentes del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato, el órgano interno de control de éste, la unidad administrativa Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, la Secretaría de Gobierno y su órgano interno de control, la Secretaría de Finanzas, Inversión y Administración y de la Secretaría de la Transparencia y Rendición de Cuentas.
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 106, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
