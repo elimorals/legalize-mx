@@ -4,7 +4,7 @@ identifier: "GUA-ley-ganadera-para-el-estado-de-guanajuato-13335"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-22"
-last_updated: "2016-05-03"
+last_updated: "2019-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13335&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY GANADERA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de diciembre de 1998.
 
@@ -801,33 +801,19 @@ La persona que careciendo de título de marca de herrar, señal de sangre o tatu
 
 ###### Artículo 33.
 
-La propiedad de los apiarios se acreditará con:
-
-I.- La factura o documento legal en que conste la transferencia de dominio;
-
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2006)</small>
-
-II.- La guía de tránsito y certificado zoosanitario que ampare el traslado del lugar de origen al de ubicación del apiario; o
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-III.- La patente del registro expedido por la Secretaría de Desarrollo Agroalimentario y Rural.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 34.
 
-La compraventa de colmenas y material apícola marcado, deberá efectuarse acompañada de la factura correspondiente; el comprador colocará su marca a un lado de la del vendedor sin borrarla.
-
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2016)</small>
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 35.
 
-Para la identificación de sus colmenas, los apicultores deberán marcar las cajas con letras o figuras a fuego similares a las que se utilizan para marcar las especies pecuarias, debiendo cumplir con la norma de identificación nacional SINIDA.
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2006)</small>
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 36.
 
-Los propietarios de apiarios deberán de celebrar convenios con los propietarios de los predios y ante la autoridad competente del lugar, para poder asentarse en los mismos.
+(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2019)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MAYO DE 2016)</small>
 
@@ -1616,3 +1602,17 @@ Artículo Cuarto. Los ayuntamientos, en el ámbito de sus competencias, adecuara
 Artículo Quinto. Los procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubiesen iniciado con antelación al inicio de vigencia del presente Decreto, se tramitarán y resolverán conforme a las disposiciones de la Ley con la que se les dio origen.
 
 Artículo Sexto. En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si la presente Ley ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de implementar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 105, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LA PROTECCIÓN A LAS ABEJAS Y EL DESARROLLO APÍCOLA PARA EL ESTADO DE GUANAJUATO Y SE DEROGAN LOS ARTÍCULOS 33, 34, 35 Y 36 DE LA LEY GANADERA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Ejecutivo del Estado deberá expedir el reglamento de la ley en un término que no exceda de 60 días a partir de que entre en vigor el presente decreto.
+
+Artículo Tercero. El Comité de Productores Apícolas, deberá quedar instalado en un término que no exceda de 90 días a partir de que entre en vigor el Reglamento de la ley.
+
+Artículo Cuarto. Los apicultores que ya cuentan con apiarios instalados en el estado, en un plazo no mayor de un año contado a partir de la fecha en que entre en vigor el presente Decreto, deberán registrarse en el padrón, en los términos previstos por esta ley.
+
+Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos para la aplicación del presente Decreto.
