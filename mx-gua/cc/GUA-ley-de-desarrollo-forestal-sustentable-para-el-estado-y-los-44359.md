@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-forestal-sustentable-para-el-estado-y-los-443
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-15"
-last_updated: "2018-10-10"
+last_updated: "2019-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44359&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO, PUBLICADA EN EL P.O. DE 25 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 10 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 15 de marzo de 2005.
 
@@ -955,7 +955,7 @@ EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 7 DE JUNIO DE 2013.
 
@@ -1010,3 +1010,39 @@ Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 107 MEDIANTE EL CUAL SE EXPIDE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2020 previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación y ultractividad de la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato
+
+Artículo Segundo. Se abroga la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato, expedida por la Quincuagésima Novena Legislatura, mediante el Decreto número 162, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 42 segunda parte de 15 de marzo de 2005, salvo lo establecido en el siguiente párrafo.
+
+Las disposiciones de la Ley de Desarrollo Forestal Sustentable para el Estado y los Municipios de Guanajuato que se abroga, continuarán aplicándose en lo conducente, a los trámites o procesos iniciados durante su vigencia o que por su naturaleza les resulte aplicable.
+
+Expedición del Reglamento de la Ley
+
+Artículo Tercero. El Reglamento de la presente Ley será expedido por el titular del Poder Ejecutivo del Estado de Guanajuato en un plazo que no exceda de ciento veinte días contados a partir de la entrada en vigor del presente Decreto.
+
+Expedición del Programa Estatal Forestal
+
+Artículo Cuarto. El Ejecutivo del Estado a más tardar en un término de ciento ochenta días posteriores al inicio de la vigencia del Reglamento de la presente Ley, expedirá el Programa Estatal Forestal.
+
+Expedición de disposiciones reglamentarlas de los ayuntamientos
+
+Artículo Quinto. Los ayuntamientos deberán adecuar sus reglamentos a las disposiciones de la presente Ley, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
+
+Constitución del Consejo Estatal Forestal
+
+Artículo Sexto. El Ejecutivo del Estado, a más tardar en un término de sesenta días posteriores a la expedición del Reglamento de esta Ley, constituirá el Consejo Estatal Forestal, en los términos del presente Decreto.
+
+Hasta en tanto se constituya el Consejo Estatal Forestal referido en el párrafo anterior, continuará la conformación, organización y atribuciones del Consejo Estatal Forestal constituido con antelación a la entrada en vigor de la presente Ley, en lo que no la contravenga.
+
+Ultractividad del Reglamento
+
+Artículo Séptimo. Hasta en tanto se expida el Reglamento de la presente Ley, se seguirá observando el Reglamento de la Ley abrogada, en lo que no se oponga al presente Decreto.
