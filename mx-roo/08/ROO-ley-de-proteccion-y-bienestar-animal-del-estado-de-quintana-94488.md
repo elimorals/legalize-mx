@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-bienestar-animal-del-estado-de-quintana-944
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-22"
-last_updated: "2014-12-09"
+last_updated: "2019-11-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PROTECCION Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO: 344 POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 25 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de Quintana Roo, el miércoles 22 de mayo de 2013.
 
@@ -1128,3 +1130,23 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones legales vigentes que se opongan al presente decreto.
 
 TERCERO. Los Honorables Ayuntamientos de los Municipios del Estado, deberán efectuar las adecuaciones correspondientes a los reglamentos y demás ordenamientos relativos en los ciento veinte días naturales posteriores a la entrada en vigor del presente decreto, a fin de dar cabal cumplimiento al mismo.
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 344 POR EL QUE SE EXPIDE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se abroga la Ley de Protección y Bienestar Animal del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de Quintana Roo, en fecha 22 de mayo de 2013.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de la presente Ley dentro de los ciento ochenta días naturales posteriores a la entrada en vigor de la presente Ley.
+
+CUARTO. Los Ayuntamientos de los Municipios del Estado deberán expedir o en su caso armonizar los reglamentos que permitan la aplicación de la presente ley en el ámbito de su competencia, en un plazo de ciento ochenta días naturales posteriores a la entrada en vigor de la presente ley.
+
+QUINTO. Los procedimientos administrativos que se encuentren en trámite ante los Ayuntamientos y la Procuraduría de Protección al Ambiente del Estado, serán concluidos por éstas de conformidad con las disposiciones vigentes al momento de su inicio.
+
+SEXTO. En un plazo que no exceda de seis meses posteriores a la entrada en vigor de la presente Ley, los propietarios o poseedores de equinos utilizados en calesas con fines turísticos deberán llevar a cabo las acciones correspondientes para retirar de dicha función a los equinos y brindarles las medidas de bienestar y trato digno de conformidad con las disposiciones de esta Ley. Según sea el caso, la Procuraduría de Protección al Ambiente en coordinación con las asociaciones protectoras de animales, realizarán lo conducente para salvaguarda del equino, para su albergue y conservación.
+
+En ningún caso, la autoridad municipal podrá otorgar mayores u otros permisos para el uso de calesas con fines turísticos.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
