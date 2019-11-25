@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2018-08-13"
+last_updated: "2019-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE NOVIEMBRE DE 2019.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -402,6 +402,44 @@ VI. Los que por causa de enfermedad mental tuvieren en suspenso el ejercicio de 
 ###### Artículo 20.
 
 Fuera de los casos ya especificados en el artículo anterior, la Ley determinará la duración de la suspensión así como también cuando se pierden tales derechos y los requisitos necesarios para que el ciudadano sonorense quede rehabilitado en sus prerrogativas o derechos suspendidos.
+
+> <small>(ADICIONADO, B.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 20-A.
+
+El Estado de Sonora garantizará una política pública encaminada a eliminar la discriminación y violencia contra la mujer comprometiéndose a:
+
+I.- Consagrar el principio de la igualdad del hombre y de la mujer y asegurar por ley u otros medios apropiados la realización práctica de ese principio;
+
+II.- Adoptar medidas adecuadas, legislativas y reglamentarias, que prohíban toda discriminación y violencia contra la mujer;
+
+III.- Garantizar a hombres y mujeres la igualdad en el goce de todos los derechos civiles, políticos, económicos, sociales y culturales;
+
+IV.- Realizar acciones a efecto de lograr la modificación de los patrones socioculturales de conducta de hombres y mujeres, con miras a alcanzar la eliminación de los prejuicios y las prácticas consuetudinarias que estén basados en la idea de la inferioridad o superioridad de cualquiera de los sexos o en funciones estereotipadas de hombres y mujeres;
+
+V.- Garantizar el derecho a tener igualdad de acceso a las funciones públicas del Estado y a participar en los asuntos públicos, incluyendo la toma de decisiones;
+
+VI.- Establecer el derecho de la mujer a ser valorada y educada libre de patrones estereotipados de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+
+VII.- Abstenerse de incurrir en todo acto a práctica de discriminación contra la mujer y velar porque las autoridades e instituciones públicas actúen de conformidad con esta obligación;
+
+VIII.- Adoptar medidas con perspectiva antidiscriminatoria, que se apliquen y desarrollen de manera transversal y progresiva en el quehacer público y privado;
+
+IX.- Evitar cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, político, obstétrico o sexual tanto en el ámbito privado como en el público;
+
+X.- Llevar una estadística detallada de los delitos cometidos contra las mujeres en el que se haya empleado cualquier tipo de violencia con ellas, tanto en la Fiscalía General de Justicia del Estado como en el Instituto Sonorense de las Mujeres;
+
+XI.- Impulsar que el Congreso del Estado legisle y los Ayuntamientos reglamenten con perspectiva de género;
+
+XII.- Promover y difundir en la sociedad, políticas públicas para evitar y prevenir conductas misóginas en contra de las mujeres;
+
+XIII.- Proporcionar recursos al sector público y sociedad civil organizada para llevar a cabo los programas y la implementación de las acciones de prevención y promoción del combate a la discriminación y violencia contra la mujer;
+
+XIV.- Adoptar medidas educativas y culturales para evitar la utilización de lenguaje sexista consistente en expresiones de la comunicación humana que invisibilizan a las mujeres, las subordinan, las humillan o estereotipan;
+
+XV.- Establecer un grupo permanente de carácter interinstitucional y multidisciplinario con perspectiva de género, conformado por sociedad-gobierno que dé el seguimiento a las acciones preventivas, de seguridad y justicia, para enfrentar y abatir la violencia feminicida; y
+
+XVI.- Utilizar acciones afirmativas en caso de la vulneración de los derechos fundamentales de las mujeres.
 
 ## TITULO TERCERO.
 
@@ -4194,3 +4232,13 @@ Se derogan las demás disposiciones que se opongan a la presente Ley.
 La Comisión de Administración del Tribunal de Justicia Administrativa deberá expedir la reglamentación para el funcionamiento de la misma y designar a los funcionarios responsables de la administración del Tribunal, a propuesta del presidente de la Sala Superior
 
 Los Juicios y Recursos de carácter administrativo y fiscal contra determinaciones emitidas por autoridades municipales y de sus organismos descentralizados, así como aquellos que se demande la responsabilidad patrimonial del Estado, de los municipios y de sus organismos descentralizados, que se encuentren en trámite en las diversas ponencias de la Sala Superior del Tribunal de Justicia Administrativa, deberán remitirse a la Presidencia de la Sala Superior del Tribunal de Justicia Administrativa, para efectos de que se reasignen a la Sala Especializada en Materia de Anticorrupción y Responsabilidades Administrativas, debiéndose resolver conforme a las disposiciones aplicables vigentes a su inicio. A su vez el Tribunal de Justicia Administrativa a través de su Comisión de Administración deberá expedir la reglamentación necesaria para el trámite de los asuntos en comento.
+
+B.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 77, QUE ADICIONA EL ARTÍCULO 20-A A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado (sic) Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado del Estado (sic) de Sonora.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en caso de resultar aprobada la presente Ley por las dos terceras partes de los ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
