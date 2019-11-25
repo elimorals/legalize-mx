@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-129545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-07-09"
-last_updated: "2018-08-13"
+last_updated: "2019-11-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2019.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -2133,6 +2131,98 @@ Si transcurrido el plazo previsto para la rendición del dictamen, y no habiénd
 
 En caso de que al finalizar el ejercicio fiscal, las comisiones de que se trate, no hubieran entregado las comprobaciones relativas a los gastos ejercidos de su Presupuesto asignado, la Secretaría disminuirá las cantidades no comprobadas de la dieta de quienes las haya ejercido una vez agotado el esquema de comprobación.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+## TÍTULO DÉCIMO PRIMERO. LOS CRITERIOS PARA LAS INSCRIPCIONES DE HONOR
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+### CAPÍTULO ÚNICO. LINEAMIENTOS PARA LAS INSCRIPCIONES DE HONOR
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 210.
+
+Las inscripciones de honor podrán ser nombres de personas físicas o morales, leyendas o apotegmas y tendrán como objetivo rendir homenaje a un personaje, institución o suceso histórico de trascendencia para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 211.
+
+Podrán presentar la solicitud de inscripción de letras de honor ante el Congreso del Estado, los sujetos establecidos en el Artículo 30 de la Constitución Política del Estado de Aguascalientes, a través de una Iniciativa.
+
+Las inscripciones de honor en el Congreso del Estado, serán procedentes cuando sean aprobadas por la mayoría relativa, previo dictamen que (sic) la Comisión de Postulaciones.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 212.
+
+Para presentar la solicitud a que hace referencia el Artículo anterior, ésta deberá realizarse por escrito dirigido a la Mesa Directiva del Periodo Constitucional de que se trate, con la correspondiente exposición de motivos que justifique la propuesta así como el proyecto de decreto correspondiente; y deberá acompañar además de todos los contenidos de una Iniciativa, un expediente, con documentos que acrediten la relevancia para el Estado de la persona, institución o suceso histórico de que se trate.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 213.
+
+Serán causas de improcedencia y desechamiento las siguientes:
+
+I. No ser presentada la solicitud por las personas establecidas en el Artículo 30 de la Constitución Política del Estado de Aguascalientes;
+
+II. No contar con el expediente que demuestre con documentos, la relevancia para el Estado de la persona, institución o suceso histórico de que se trate;
+
+III. Presentar información falsa o dudosa; y
+
+IV. En el caso de personas físicas, si no han pasado más de 10 años de su fallecimiento.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 214.
+
+La Comisión de Postulaciones resolverá sobre las propuestas de Inscripción presentadas, valorando los méritos, virtudes, grado de eminencia, aportaciones y servicios a la patria o a la humanidad; de personas vecinas del Estado de Aguascalientes y sus Municipios; sujetándose a los principios de imparcialidad, objetividad y transparencia, atendiendo a criterios de validez universal.
+
+De igual forma, la Comisión de Postulaciones podrá allegarse de información que justifique y respalde la propuesta presentada, asimismo podrá invitar a personas que por su trayectoria colaboren en la integración del dictamen correspondiente.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 215.
+
+La Inscripción se hará en el espacio físico adecuado para ello, del Pleno Legislativo, o bien, en los salones o auditorios que habitualmente se utilizan para las reuniones de las comisiones ordinarias, o demás espacios físicos de los inmuebles que integran el recinto legislativo a determinación de la Comisión de Postulaciones.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 216.
+
+Para realizar la Inscripción podrá realizarse una Sesión Solemne a la que concurrirán como invitados representantes de los diversos sectores de la sociedad, en la fecha acordada por la Junta de Coordinación Política.
+
+De ser este el caso, la Sesión Solemne se llevará a cabo bajo el siguiente orden:
+
+I. Lista de asistencia y declaración del quórum legal;
+
+II. Lectura y aprobación en su caso, del orden del día;
+
+III. Lectura y aprobación en su caso, del acta de la sesión previa;
+
+IV. La Comisión de Cortesía previamente designada, hará ingresar al Recinto Oficial del Congreso del Estado, al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia del Estado o sus representantes, para tal efecto, se declarará un receso, que no requerirá de nueva lista de asistencia;
+
+V. Honores a la Bandera y entonación del Himno Nacional;
+
+VI. Puestos de pie, se realizará la Develación de las Letras Doradas respectivas, para tal efecto se colocarán en el lugar determinado por la Comisión de Postulaciones, y llevarán a cabo la misma, el Presidente de la Mesa Directiva, el Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia del Estado o los representantes de estos dos últimos, así como en su caso algún representante o personaje allegado del personaje, institución o suceso histórico de trascendencia, al que se rinde honor.
+
+Culminado el acto solemne de referencia, los integrantes de la Mesa Directiva ocuparán de nueva cuenta los lugares que les corresponden e invitarán en su caso al representante o personaje allegado del personaje, institución o suceso histórico de trascendencia, al que se rinde honor, a que regrese a su asiento;
+
+VII. Una vez realizado lo anterior, y permaneciendo de pie, se llevará a cabo la entonación del Himno del Estado de Aguascalientes;
+
+VIII. Convocar a la siguiente sesión del Pleno Legislativo;
+
+IX. Clausura de los trabajos de la sesión solemne; y
+
+X. La Comisión de Cortesía previamente designada, acompañará a abandonar el Recinto Oficial del Congreso, al Gobernador del Estado y al Presidente del Supremo Tribunal de Justicia o sus representantes.
+
+> <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 217.
+
+La Mesa Directiva llevará el registro de las inscripciones y difundirá por los medios de comunicación a su alcance, el contenido y significado de éstas.
+
 T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
@@ -2172,3 +2262,13 @@ DIPUTADO PROSECRETARIO EN FUNCIONES DE PRIMER SECRETARIO
 MA. ESTELA CORTÉS MELÉNDEZ
 
 DIPUTADA SEGUNDA SECRETARIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 245.- ARTÍCULO PRIMERO.- SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 73; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 73 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE ADICIONA UN TÍTULO DÉCIMO PRIMERO DENOMINADO “LOS CRITERIOS PARA LAS INSCRIPCIONES DE HONOR” CONFORMADO POR EL CAPÍTULO ÚNICO DENOMINADO “LINEAMIENTOS PARA LAS INSCRIPCIONES DE HONOR” INTEGRADO POR LOS ARTÍCULOS 210, 211, 212, 213, 214, 215, 216 Y 217 AL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
