@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ciencia-desarrollo-tecnologico-e-innovacion-del-102735"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-09"
-last_updated: "2019-05-11"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el jueves 9 de octubre de 2014.
 
@@ -83,7 +83,9 @@ XI. Tecnologías de la Información y la Comunicación: Es el conjunto de recurs
 
 I. Definir los criterios en los que se basará el Gobierno del Estado para impulsar y fortalecer las actividades científicas, tecnológicas, de innovación y desarrollo del conocimiento en el Estado de Jalisco;
 
-II. Contribuir a la generación de una sociedad del conocimiento que propicie de manera dinámica, integral y permanente el bienestar económico y social del Estado;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+II. Contribuir a la generación de una sociedad del conocimiento que propicie de manera dinámica, integral y permanente el bienestar económico, social y ambiental del Estado;
 
 III. Promover una nueva cultura del conocimiento, la creatividad y la innovación tecnológica, que fortalezca e impulse el desarrollo de la sociedad jalisciense;
 
@@ -91,7 +93,9 @@ IV. Fomentar la vinculación de los sectores académico, científico y social co
 
 V. Establecer el Programa Sectorial de Innovación, Ciencia y Tecnología para el desarrollo;
 
-VI. Propiciar la elevación de la competitividad de las empresas mediante la incorporación de desarrollos e innovaciones tecnológicas a los procesos productivos, para la generación de nuevos y mejores bienes y servicios con altos valores agregados y competitivos a nivel mundial;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VI. Propiciar la elevación de la competitividad de las empresas mediante la incorporación de desarrollos e innovaciones tecnológicas a los procesos productivos, para la generación de nuevos y mejores bienes y servicios con altos valores agregados y competitivos a nivel mundial, promoverá la utilización de los recursos productivos, cuidando su conservación y el medio ambiente e implementando una política nacional para el desarrollo industrial sustentable;
 
 VII. Promover la conservación, consolidación, actualización y desarrollo de la infraestructura estatal de investigación existente, así como la inversión y el financiamiento, tanto público como privado, en materia de fomento a la investigación científica, tecnológica y la innovación;
 
@@ -141,7 +145,9 @@ VII. Las políticas, instrumentos y criterios con los que el Gobierno del Estado
 
 VIII. El Gobierno del Estado, de conformidad con lo dispuesto por esta ley, debe participar en el otorgamiento de recursos económicos y financieros para el desarrollo del conocimiento, considerándolo como inversión para el mejoramiento de la calidad de vida y el desarrollo económico del Estado;
 
-IX. La promoción a través de incentivos y mecanismos de fomento, para que el sector privado realice inversiones crecientes en la generación de conocimiento de amplio impacto económico y social;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+IX. La promoción a través de incentivos y mecanismos de fomento, para que el sector privado realice inversiones crecientes en la generación de conocimiento de amplio impacto económico, social y ambiental;
 
 X. La vinculación entre el conocimiento y el sector productivo público y privado deberá contribuir al desarrollo científico y tecnológico del Estado, permitiendo incursionar en nuevas líneas de trabajo y formar recursos humanos de alta calidad;
 
@@ -211,7 +217,9 @@ II. Impulsar y consolidar la administración pública electrónica, que posibili
 
 III. Normar, coordinar, implementar, desarrollar y unificar las funciones de modernización, desarrollo informático, de calidad y mejora continua, que requieran las dependencias y entidades de la administración pública estatal, así como proponer su implementación a los organismos públicos descentralizados y municipios, respetando en todo momento la autonomía municipal; y
 
-IV. Fomentar el uso de canales electrónicos en las comunicaciones internas y externas de la Administración Pública Estatal, así como el desarrollo de herramientas informáticas específicas de gestión, para los municipios pequeños y medianos, respetando en todo momento la autonomía municipal.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+IV. Fomentar el uso de canales electrónicos en las comunicaciones internas y externas de la Administración Pública Estatal, así como el desarrollo y apoyo en herramientas informáticas específicas de gestión, para los municipios pequeños y medianos, respetando en todo momento la autonomía municipal.
 
 ###### Artículo 10.
 
@@ -223,9 +231,17 @@ II. Celebrar, en su ámbito competencial, todos aquellos actos jurídicos que pr
 
 III. Fijar en sus presupuestos correspondientes, los recursos necesarios para la realización de las actividades relacionadas con el fomento a la investigación científica y tecnológica;
 
-IV. Apoyar la formación de recursos humanos de alto nivel académico, científico y tecnológico, mediante los esquemas de financiamiento que para el efecto se determinen; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-V. Las demás atribuciones que señalen esta Ley y otras disposiciones legales y reglamentarias aplicables.
+IV. Apoyar la formación de recursos humanos de alto nivel académico, científico y tecnológico, mediante los esquemas de financiamiento que para el efecto se determinen;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+V. Fomentar el uso de canales electrónicos en las comunicaciones internas y externas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VI. Las demás atribuciones que señalen esta Ley y otras disposiciones legales y reglamentarias aplicables.
 
 ### Capítulo III. Divulgación y Vinculación entre Investigación, Academia y Sector Productivo
 
@@ -980,3 +996,11 @@ P.O. 11 DE MAYO DE 2019.
 PRIMERO. El presente decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 27587/LXII/19 QUE REFORMAN LAS FRACCIONES II Y VI DEL ARTÍCULO 4; IX Y XIV DEL ARTÍCULO 6; II Y IV DEL ARTÍCULO 9; LA V Y ADICIONA LA FRACCIÓN VI AL ARTÍCULO 10; Y REFORMA EL ARTÍCULO 59 DE LA LEY DE CIENCIA, DESARROLLO TECNOLÓGICO E INNOVACIÓN DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. En un plazo que no excederá de ciento ochenta días hábiles a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias necesarias para su cumplimiento.
