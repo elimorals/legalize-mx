@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "2010-12-31"
+last_updated: "2019-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 266 DE CATASTRO PARA LOS MUNICIPIOS DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 26 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -950,3 +952,23 @@ El presente Decreto entrará en vigor el primero de enero del año dos mil once.
 ###### ARTICULO SEGUNDO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 266 DE CATASTRO PARA LOS MUNICIPIOS DEL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Catastro Municipal del Estado de Guerrero número 676, publicada en el Periódico Oficial del Gobierno del Estado número 1 Alcance, de fecha 3 de enero de 1984.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo que no excederá de treinta días naturales posteriores a la entrada en vigor de la presente ley, el titular del Poder Ejecutivo deberá expedir el reglamento correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+Remítase al Titular del Poder Ejecutivo del Estado para su promulgación y demás efectos constitucionales y legales conducentes.
