@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2019-08-08"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1343,9 +1343,9 @@ IV. A juicio de dos médicos, exista razón suficiente de que el producto padece
 
 A quien ejerza cualquier tipo de violencia física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, comparta éste o no, en contra de su cónyuge, concubina o concubinario, pariente hasta el cuarto grado en ambas líneas o incapaz sobre el que sea tutor o curador, se le impondrán, independientemente de las sanciones que correspondan por cualquier otro delito, de cuatro a seis años de prisión, multa de hasta seiscientas Unidades de Medida y Actualización, caución de no ofender y, en su caso, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio, patria potestad o tutela.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-En caso de que la víctima sea mujer o menor de edad, se sancionará con pena de cuatro a siete años de prisión y multa de hasta setecientos días de salario. En ambos casos, se sujetará al activo a las medidas reeducativas que establezca la Ley en la materia o la autoridad competente, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
+En caso de que la víctima sea mujer, niña, niño o adolescente o persona de sesenta años de edad o más, se sancionará con pena de cuatro a siete años de prisión y multa de hasta setecientas unidades de medida y actualización. En estos casos, se sujetará al activo a las medidas reeducativas que establezcan las leyes en la materia o la autoridad competente, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
 
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -5214,6 +5214,14 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 G.O. 8 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280 QUE REFORMA EL ARTÍCULO 220 DEL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 297 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 154 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
