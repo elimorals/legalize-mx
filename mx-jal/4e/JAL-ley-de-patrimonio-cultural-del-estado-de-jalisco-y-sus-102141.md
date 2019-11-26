@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-patrimonio-cultural-del-estado-de-jalisco-y-sus-102141"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-26"
-last_updated: "2019-08-29"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 26 de agosto de 2014.
 
@@ -185,9 +185,33 @@ f) Conocimientos tradicionales sobre gastronomía, ciclos agrícolas, herbolaria
 
 g) Las lenguas vivas, muertas y aquellas en proceso de extinción; y
 
-h) Todas aquellas tradiciones y expresiones que por identificar o caracterizar a la cultura jalisciense merezcan ser transmitidas y preservadas a futuras generaciones; y
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-VI. La toponimia de los asentamientos humanos, de las regiones, de su hidrografía y orografía, así como las nomenclaturas históricas, identificados como Patrimonio Cultural del Estado.
+h) Todas aquellas tradiciones y expresiones que por identificar o caracterizar a la cultura jalisciense merezcan ser transmitidas y preservadas a futuras generaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VI. Bienes Muebles, conforme a las siguientes topologías:
+
+a) De carácter arqueológico,
+
+b) De carácter histórico,
+
+c) De carácter etnográfico,
+
+d) De carácter artístico,
+
+e) De carácter artístico utilitario,
+
+f) De carácter documental,
+
+g) De carácter científico, y
+
+h) Monumento en espacio público.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VII. La toponimia de los asentamientos humanos, de las regiones, de su hidrografía y orografía, así como las nomenclaturas históricas, identificados como Patrimonio Cultural del Estado.
 
 ###### Artículo 9.
 
@@ -922,3 +946,11 @@ P.O. 29 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27318/LXII/19 QUE REFORMA LOS ARTÍCULOS 6 FRACCIONES IV Y XI, Y 84 FRACCIÓN I, DE LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
 
 Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 27856/LXII/19 QUE REFORMAN LAS FRACCIONES V INCISO H) Y VI; Y SE ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 8 DE LA LEY DE PATRIMONIO CULTURAL DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”].
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+Artículo Segundo.- El titular del Poder Ejecutivo del Estado deberá llevar a cabo las adecuaciones reglamentarias y disposiciones internas necesarias para efectos de dar cumplimiento en lo establecido en el presente decreto, dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente decreto.
