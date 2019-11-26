@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2019-08-14"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -841,7 +841,9 @@ VI. Inscribir proyectos para los "Convenios de Coordinación en materia de Reasi
 
 VII. Solicitar su inscripción al programa "Joyas de Veracruz"; y
 
-VIII. Acceder a la difusión en medios de comunicación, publicidad y eventos promocionales en los que participe el Gobierno del Estado.
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Acceder a la difusión en medios de comunicación, publicidad y eventos promocionales en los que participe el Gobierno del Estado, así como recibir el apoyo necesario para el diseño, implementación y operación de un sitio de internet exclusivo para su promoción turística.
 
 ###### Artículo 57.
 
@@ -854,6 +856,14 @@ II. Implementar en el municipio el estudio de perfil y grado de satisfacción de
 III. Elaborar su inventario turístico, con base en los parámetros del Índice de Vocación Turística y enviarlo a la Secretaría para su análisis y calificación; y
 
 IV. Destinar recursos presupuestales para el fomento de la actividad y desarrollo de infraestructura turística, así como participar en el financiamiento del Programa de Ordenamiento Turístico de su territorio.
+
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+V. Instalar, operar y actualizar de manera permanente un sitio de internet exclusivo para su promoción turística.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, P.O. 26 DE NOVIEMBRE DE 2019]</small>
+
+El sitio deberá incluir atractivos naturales, directorio de prestadores de servicios clasificados en giros comerciales de interés para el visitante, terminales y servicios de transporte, rutas para movilidad turística, directorio de autoridades municipales u otras asentadas en el municipio y ubicación de servicios médicos y de emergencia.
 
 ### CAPÍTULO III. De las zonas de desarrollo turístico sustentable
 
@@ -1536,3 +1546,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. A partir de la vigencia del presente Decreto, el Ejecutivo del Estado dispondrá de noventa días naturales para que realice las adecuaciones correspondientes al Reglamento de la Ley.
 
 Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 296 QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 56 Y ADICIONA UNA FRACCIÓN V AL ARTÍCULO 57 DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. La Secretaría de Turismo y Cultura del Estado de Veracruz de Ignacio de la Llave, contará con sesenta días naturales después de la publicación del presente Decreto para instrumentar lo necesario para que los municipios con vocación turística, operen en su totalidad sus respectivos sitios de internet.
