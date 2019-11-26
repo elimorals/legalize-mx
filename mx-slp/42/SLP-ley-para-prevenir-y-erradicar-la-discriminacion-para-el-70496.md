@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-y-erradicar-la-discriminacion-para-el-70496"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2018-05-15"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -167,13 +167,17 @@ XXXVII. Condicionar, limitar o restringir las oportunidades de empleo, permanenc
 
 No se considerará discriminación cuando el solicitante o trabajador, no reúna los requisitos o calificaciones necesarias para desempeñar, permanecer o ascender en el empleo;
 
-> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-XXXVIII. Solicitar antecedentes penales como condicionante para el acceso o ejercicio de algún derecho, y
+XXXVIII. Solicitar antecedentes penales como condicionante para el acceso o ejercicio de algún derecho;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-XXXIX. En general, cualquier otra conducta que atente contra la dignidad de la persona.
+XXXIX. Restringir o impedir el derecho de las mujeres a la lactancia materna en espacios públicos, y/o insultarlas o provocarles actos de molestia por hacerlo, y
+
+(REUBICADA, P.O. 26 DE NOVIEMBRE DE 2019)
+
+XL. En general, cualquier otra conducta que atente contra la dignidad de la persona.
 
 ## TITULO SEGUNDO (SIC). DE LAS ACCIONES DE PREVENCION Y LAS AUTORIDADES COMPETENTES
 
@@ -326,3 +330,11 @@ P.O. 15 DE MAYO DE 2018.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0321.- SE REFORMA EL ARTÍCULO 54 DE LA LEY DE SALUD DEL ESTADO; SE REFORMA Y ADICIONA EL ARTÍCULO 8, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
