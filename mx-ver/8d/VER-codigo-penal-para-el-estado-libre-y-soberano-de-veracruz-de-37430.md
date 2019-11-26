@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2019-08-08"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1343,9 +1343,9 @@ IV. A juicio de dos médicos, exista razón suficiente de que el producto padece
 
 A quien ejerza cualquier tipo de violencia física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, comparta éste o no, en contra de su cónyuge, concubina o concubinario, pariente hasta el cuarto grado en ambas líneas o incapaz sobre el que sea tutor o curador, se le impondrán, independientemente de las sanciones que correspondan por cualquier otro delito, de cuatro a seis años de prisión, multa de hasta seiscientas Unidades de Medida y Actualización, caución de no ofender y, en su caso, pérdida de los derechos que tenga respecto de la víctima, incluidos los de carácter sucesorio, patria potestad o tutela.
 
-> <small>(REFORMADO, G.O. 11 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-En caso de que la víctima sea mujer o menor de edad, se sancionará con pena de cuatro a siete años de prisión y multa de hasta setecientos días de salario. En ambos casos, se sujetará al activo a las medidas reeducativas que establezca la Ley en la materia o la autoridad competente, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
+En caso de que la víctima sea mujer, niña, niño o adolescente o persona de sesenta años de edad o más, se sancionará con pena de cuatro a siete años de prisión y multa de hasta setecientas unidades de medida y actualización. En estos casos, se sujetará al activo a las medidas reeducativas que establezcan las leyes en la materia o la autoridad competente, las que, en ningún caso, excederán del tiempo impuesto en la pena de prisión.
 
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -5219,25 +5219,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 2o. DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANOS".]
+G.O. 26 DE NOVIEMBRE DE 2019.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 297 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 154 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo.- A partir de la entrada en vigor de este Decreto, se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-Tercero.- El Congreso de la Unión, en un plazo de ciento ochenta días, contados a partir de la entrada en vigor de este Decreto, debe expedir la ley general de la materia y armonizar el marco jurídico de las leyes que correspondan, para adecuarlo al contenido del presente Decreto.
-
-Cuarto.- El Poder Ejecutivo Federal debe realizar las reformas a las disposiciones administrativas aplicables, para asegurar el respeto y la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en el presente instrumento; lo anterior, en un plazo de ciento ochenta días contados a partir de la entrada en vigor de la ley general que refiere el presente Decreto.
-
-Quinto.- Las autoridades de los tres órdenes de gobierno, en el ámbito de su competencia, deben realizar las adecuaciones normativas que aseguren las características de la libre determinación y autonomía de los pueblos y comunidades indígenas y afromexicanas, en el marco de la unidad nacional en los términos que establece esta Constitución, así como su reconocimiento como sujetos de derecho público y el respeto irrestricto a sus derechos; lo anterior, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
-
-Sexto.- Las erogaciones que se generen con motivo de la reforma efectuada por este Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes; en caso de que se realice alguna modificación a la estructura orgánica de los ejecutores, ésta deberá llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos en el presente ejercicio fiscal.
-
-Séptimo.- El Poder Ejecutivo Federal dispondrá que el texto normativo íntegro del presente Decreto se traduzca a las lenguas de los pueblos indígenas y ordenará la difusión correspondiente.
-
-Octavo.- Para la interpretación de lo dispuesto en este Decreto, se tomarán en cuenta lo previsto en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia de los que el Estado Mexicano sea parte, así como las consideraciones del dictamen.
-
-D.O.F. 30 DE OCTUBRE DE 2024.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO CUARTO Y SE ADICIONA UN PÁRRAFO QUINTO AL ARTÍCULO 28 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE VÍAS Y TRANSPORTE FERROVIARIO”.]
 
