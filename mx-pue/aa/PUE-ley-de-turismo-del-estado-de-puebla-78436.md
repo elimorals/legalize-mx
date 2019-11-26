@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2019-04-26"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -1157,7 +1157,9 @@ III.- El diseño y ejecución de acciones de coordinación entre dependencias y 
 
 IV.- La realización de acciones para favorecer las inversiones y proyectos turísticos de alto impacto en el sector, así como agilizar los mecanismos y procedimientos administrativos que faciliten su desarrollo y conclusión; y
 
-V.- Fomentar la profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad proporcionando entre otros: conocimientos en áreas de accesibilidad, tanto en infraestructura, como en la atención de las personas con discapacidad; trato preferencial, y manejo ecológico de los desechos.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+V.- Fomentar la profesionalización de quienes laboran en empresas turísticas o prestan servicios en la actividad, orientada a las características de las líneas de producto y la demanda, la certificación en competencias laborales, el fortalecimiento de la especialización del capital humano, así como en los conocimientos en áreas de accesibilidad e inclusión, tanto en infraestructura, como en la atención de las personas con discapacidad y personas adultas mayores; trato preferencial y el manejo ecológico de los desechos.
 
 ### CAPÍTULO VII. DE LA CAPACITACIÓN TURÍSTICA
 
@@ -1264,6 +1266,14 @@ El Congreso del Estado, dentro de los noventa días naturales siguientes contado
 P.O. 26 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIX Y XX DEL 13, Y ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 13 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 89 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
