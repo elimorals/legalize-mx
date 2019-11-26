@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2019-02-27"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -2805,7 +2805,9 @@ Habrá un Tribunal Electoral autónomo, de carácter permanente con personalidad
 
 Al Tribunal le corresponde garantizar los actos y resoluciones electorales, en los términos que disponen esta Constitución y la ley; actuará con autonomía e independencia en sus decisiones y serán definitivas en el ámbito de su competencia. Sus determinaciones se sustentarán en los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
 
-Funcionará de conformidad a lo dispuesto por la ley secundaria del ámbito local, y se integrará por cinco Magistrados designados por la Cámara de Senadores del Congreso de la Unión. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+Funcionará de conformidad a lo dispuesto por la ley secundaria del ámbito local, y se integrará por tres Magistrados designados por la Cámara de Senadores del Congreso de la Unión. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado.
 
 Los Magistrados del Tribunal Electoral designarán a su Presidente por mayoría de votos cada tres años de conformidad a las formalidades y procedimiento previsto en la ley.
 
@@ -2901,7 +2903,7 @@ EL OF. MAYOR ENCARGADO DE LA SRÍA. DE GOBNO.
 
 J.N. Muñoz Ruiz.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.]</small>
 
 P.O. 30 DE MARZO DE 1919.
 
@@ -4115,7 +4117,7 @@ OCTAVO.- La Ley reglamentaria garantizará los derechos laborales de los trabaja
 
 P.O. 27 DE FEBRERO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO QUE ADICIONA UN PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE ADICIONA UN PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al año siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
@@ -4124,3 +4126,25 @@ SEGUNDO.- En un plazo que no exceda de noventa días, posteriores a la entrada e
 TERCERO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los ayuntamientos de la entidad.
 
 CUARTO.- Se deberán realizar las adecuaciones presupuestales necesarias para garantizar la aplicación de la presente reforma.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA LA CONSTITUCIÓN DEL ESTADO LIBRE Y SOBERANO DE NAYARIT, EN MATERIA DE INTEGRACIÓN DEL TRIBUNAL ESTATAL ELECTORAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, sin perjuicio de lo dispuesto en los artículos subsecuentes.
+
+SEGUNDO.- En un plazo que no exceda de ciento ochenta días, posteriores a la entrada en vigor del presente Decreto, el Congreso del Estado deberá realizar las adecuaciones normativas correspondientes al marco jurídico local.
+
+Se derogan las disposiciones legales, reglamentarias, acuerdos y disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se deberán realizar las adecuaciones administrativas, reglamentarias y presupuestales necesarias para garantizar la aplicación de la presente reforma.
+
+CUARTO.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
+
+QUINTO.- Una vez concluido el proceso de reforma constitucional local, comuníquese el presente Decreto a la Cámara de Senadores del Honorable Congreso de la Unión, para los efectos legales conducentes.
+
+SEXTO.- La integración de tres Magistrados del Tribunal Estatal Electoral de Nayarit, surtirá sus efectos a partir del 16 de diciembre del 2021.
+
+(NOTA: EL 1 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 142/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TRANSITORIO SÉPTIMO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE ENERO DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+SÉPTIMO.- Los Magistrados que actualmente se encuentran en funciones seguirán en el cargo hasta la conclusión del periodo para el que fueron nombrados; A PARTIR DEL 16 DE DICIEMBRE DE 2019 Y HASTA EL 16 DE DICIEMBRE DE 2021, LA INTEGRACIÓN DEL TRIBUNAL ESTATAL ELECTORAL DE NAYARIT SERÁ DE CUATRO MAGISTRADOS.
