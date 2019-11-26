@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-derechos-cultura-y-desarrollo-de-los-pueblos-y-79100"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2019-03-13"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79100&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 24 de enero de 2011.
 
@@ -145,23 +145,31 @@ Esta Ley reconoce y protege a las autoridades tradicionales de las Comunidades I
 
 La representación de los Pueblos y Comunidades Indígenas, corresponderá a quienes conforme a sus sistemas normativos internos sean declarados autoridades o representantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 10.
 
-Los Pueblos y Comunidades Indígenas y sus integrantes, tienen el derecho de promover por sí mismos o a través de sus autoridades tradicionales de manera directa y sin intermediarios cualquier gestión ante las autoridades.
+Los Pueblos y Comunidades Indígenas y sus integrantes, tienen el derecho de promover por sí mismos o a través de sus autoridades tradicionales de manera directa y sin intermediarios cualquier gestión, servicio e información pública ante las autoridades.
 
 Para garantizar el acceso de los Pueblos y Comunidades Indígenas al ejercicio del derecho de petición, toda promoción que se presente ante las autoridades estatales o municipales en lo particular o por la autoridad tradicional, podrá ser redactada en su propia lengua o en español.
 
 Las autoridades estatales o municipales tendrán el deber de recibirla, previniendo en términos de Ley la intervención de un intérprete para darle respuesta escrita en el idioma o lengua que se haya presentado.
 
+> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+Las autoridades estatales y municipales según corresponda, tendrán el deber de promocionar, proteger y garantizar el acceso a las funciones públicas; así como propiciar la participación en la toma de decisiones de los asuntos públicos.
+
 ###### ARTÍCULO 11.
 
 Los Pueblos y Comunidades Indígenas tienen derecho social a vivir en libertad, paz y seguridad como Pueblos diferenciados y a gozar de plenas garantías contra cualquier acto de discriminación, violencia, reacomodos o desplazamientos ilegales, separación de niñas y niños indígenas de sus familias y Comunidades.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 12.
 
-Los Pueblos y Comunidades Indígenas tienen derecho a que sus lenguas originarias sean preservadas, por lo que las autoridades públicas correspondientes conservarán, respetarán y promoverán sus usos y enseñanza, así mismo en el ámbito de su competencia impulsarán políticas de investigación, difusión, estudios y documentación sobre las lenguas indígenas en la entidad y sus expresiones literarias.
+Los Pueblos y Comunidades Indígenas tienen derecho a que sus lenguas originarias sean preservadas, por lo que las autoridades públicas correspondientes, en los ámbitos de sus respectivas competencias, reconocerán, respetarán, protegerán y promoverán su preservación, desarrollo y uso.
+
+Por otra parte, la sociedad y en especial los habitantes y las instituciones de los Pueblos y las Comunidades Indígenas serán participantes activos en el uso y la enseñanza de las lenguas originarias en el ámbito familiar, comunitario y regional, con la finalidad de lograr la rehabilitación y conservación lingüística.
 
 ###### ARTÍCULO 13.
 
@@ -269,17 +277,41 @@ Los Pueblos y Comunidades Indígenas, en el marco de los artículos 2° y 3° de
 
 El Estado y los Municipios deberán, en el ámbito de sus respectivas competencias, y/o en forma subsidiaria y complementaria:
 
-I.- Garantizar la educación integral para todos los habitantes del Estado, proponiendo y en su caso, determinando y formulando, en los planes y programas de estudios, contenidos con enfoque intercultural que permitan generar un conocimiento de los diversos grupos sociales incluidas las culturas indígenas autóctonas que habitan en la Entidad, que describan y expliquen la diversidad cultural y la cosmovisión indígena, su historia, sus formas de organización, sus conocimientos y prácticas culturales;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-II.- Garantizar que los docentes de educación básica que son asignados a Comunidades Indígenas, dominen la lengua de la comunidad respectiva, que conozcan y respeten las prácticas, usos y costumbres indígenas;
+I.- Garantizar la educación integral para todos los habitantes del Estado, proponiendo y en su caso, determinando y formulando, en los planes y programas de estudios, contenidos con enfoque intercultural que permitan generar un conocimiento de los diversos grupos sociales incluidas las culturas indígenas autóctonas que habitan en la Entidad, que describan y expliquen la diversidad cultural y la cosmovisión indígena, su historia, sus formas de organización, sus conocimientos y prácticas culturales; así como el origen y evolución de las lenguas indígenas de la Entidad y sus aportaciones a la cultura estatal;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+II.- Garantizar que los docentes de educación básica que son asignados a Comunidades Indígenas hablen y escriban la lengua de la comunidad respectiva, que conozcan y respeten la cultura, prácticas, usos y costumbres indígenas;
 
 III.- Hacer efectivo a los Pueblos y Comunidades Indígenas su derecho a una educación bilingüe, gratuita y de calidad; tomando en cuenta criterios académicos y de desempeño profesional del personal docente asignado a las Comunidades;
 
 IV.- Establecer mecanismos de coordinación para que conjuntamente con los Pueblos y Comunidades Indígenas, se promueva el desarrollo de las actividades e instituciones de cultura, recreación y deporte indígena, respetando sus características específicas;
 
-V.- Impulsar acciones para que la educación básica, media-superior y superior, incluya contenidos sobre las culturas indígenas, promoviendo la interculturalidad; y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-VI.- Proporcionar la infraestructura educativa y tecnológica en condiciones de equidad, actualizando los servicios educativos orientados a incrementar las capacidades laborales y profesionales en personal comunitario en situación de trabajo, ligándolo con el financiamiento para el establecimiento y desarrollo de la pequeña empresa y la cooperativización de las necesidades y el autoempleo.
+V.- Impulsar acciones para que la educación básica, media-superior y superior, incluya contenidos sobre las culturas indígenas, promoviendo la interculturalidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VI.- Crear bibliotecas, hemerotecas, centros culturales u otras instancias que conserven los materiales lingüísticos en lenguas indígenas;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VII.- Procurar que en las bibliotecas públicas se reserve un lugar para la conservación de la información y documentación más representativa de la literatura y lenguas indígenas de la Entidad;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VIII.- Coadyuvar, en la medida de sus posibilidades, con las instituciones públicas y privadas, así como con las organizaciones de la sociedad civil, legalmente constituidas, que realicen investigaciones etnolingüísticas en el Estado;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+IX.- Apoyar la formación y acreditación profesional de intérpretes y traductores de lenguas indígenas estatales; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+X.- Proporcionar la infraestructura educativa y tecnológica en condiciones de equidad, actualizando los servicios educativos orientados a incrementar las capacidades laborales y profesionales del personal comunitario en situación de trabajo, ligándolo con el financiamiento para el establecimiento y desarrollo de la pequeña empresa, la cooperativización de las necesidades y el autoempleo.
 
 ###### ARTÍCULO 34.
 
@@ -558,3 +590,23 @@ P.O. 13 DE MARZO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 10 DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 10, EL ARTÍCULO 12, Y LAS FRACCIONES I, II, V Y VI DEL ARTÍCULO 33; Y ADICIONA LAS FRACCIONES VII A LA X AL ARTÍCULO 33, TODOS DE LA LEY DE DERECHOS, CULTURA Y DESARROLLO DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE PUEBLA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
