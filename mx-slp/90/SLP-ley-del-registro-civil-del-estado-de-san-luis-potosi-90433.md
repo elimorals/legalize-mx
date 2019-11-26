@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2019-10-03"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -727,11 +727,11 @@ Sí éste se presenta como hija o hijo de madre y padre desconocidos, el Oficial
 
 Cuando el nacido se presente como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de la madre y el padre; los nombres y domicilios de las abuelas y abuelos; y los de la persona que hubiere hecho la presentación.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 69.
 
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación se proporciona el nombre de la madre, se pondrá éste; si no se proporciona se hará constar esta circunstancia; pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones del Código Familiar para el Estado. Cuando figure el nombre de la madre y del padre, se hará constar en el acta de nacimiento, las generales de ambos.
-
-Queda absolutamente prohibido asentar en el acta que el hijo es natural o nacido fuera del matrimonio.
+La madre y el padre no tienen el derecho de dejar de reconocer a su hijo. Tienen la obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacer la presentación se proporciona el nombre de la madre se pondrá éste~ (sic) si no se proporciona se hará constar esta circunstancia~ (sic) pero la investigación de la maternidad podrá hacerse ante los tribunales de acuerdo con las disposiciones del Código Familiar para el Estado. Cuando figure el nombre de la madre y del padre, se hará constar en el acta de nacimiento, las (sic) generales de ambos. Queda absolutamente prohibido asentar en el acta que el hijo es natural, nacido fuera del matrimonio, o adulterino.
 
 ###### ARTÍCULO 70.
 
@@ -741,9 +741,11 @@ Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solici
 
 Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra, o en el domicilio de los progenitores, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al Oficial, del domicilio de los progenitores, si éstos lo pidieren; y en el segundo, se dispondrá para hacer el registro el término de ciento ochenta días que señala el artículo 63 de esta Ley, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 72.
 
-Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser éste haya desconocido a la hija o hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+Si el hijo fuere adulterino deberá asentarse el nombre del padre y de la madre, casados o solteros, si lo pidieren, a no ser que éstos hayan desconocido a la hija o hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
 
 No se expresará en el acta que el hijo es adulterino.
 
@@ -1602,6 +1604,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0256.- SE REFORMAN LOS ARTÍCULOS 63 Y 65, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0318.- SE REFORMAN LOS ARTÍCULOS 69 Y 72 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
