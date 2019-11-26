@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-09"
-last_updated: "2019-11-12"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 9 de mayo de 2016.
 
@@ -669,33 +669,23 @@ La CEGAIP contará con un Órgano Interno de Control, que tiene encomendada la f
 
 En el ejercicio de sus atribuciones la persona titular de la Contraloría Interna, se abstendrá de interferir en el desempeño de las funciones y en el ejercicio de las atribuciones de la CEGAIP.
 
-###### ARTÍCULO 38.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-La Contraloría Interna contará con las siguientes atribuciones:
+###### ARTICULO 38.
 
-I. Planear, programar, organizar y coordinar el sistema de control y evaluación;
+El Órgano Interno de Control contará con las siguientes atribuciones:
 
-II. Fiscalizar el ingreso y gasto público, así como su congruencia con el presupuesto de egresos;
+I. Llevar a cabo el cumplimiento de las normas y disposiciones establecidas en las leyes: General de Contabilidad Gubernamental; de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí; de Fiscalización y Rendición de Cuentas del Estado de San Luis Potosí, de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí; de Entrega-Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí, y demás normativa vigente aplicable a los órganos internos de control;
 
-III. Establecer la calendarización y las bases generales reglamentarias para la realización de auditorías internas e inspecciones;
+II. Planear, organizar, ejecutar y coordinar auditorías internas de carácter financiero, operacional y administrativo, a fin de comprobar el cumplimiento de la normatividad, criterios y procedimientos establecidos;
 
-IV. Participar en la entrega recepción de las unidades administrativas;
+III. Dictaminar los estados financieros del área administrativa, y verificar que los informes sean remitidos en tiempo al Pleno;
 
-V. Dictaminar los estados financieros del área administrativa, y verificar que los informes sean remitidos en tiempo al pleno;
+IV. Realizar los inventarios generales de bienes muebles e inmuebles de la CEGAIP;
 
-VI. Realizar los inventarios generales de bienes muebles e inmuebles de la CEGAIP;
+V. Presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la CEGAIP, y
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2017)</small>
-
-VII. Informar oportunamente a los servidores públicos acerca de la obligación de realizar sus declaraciones patrimonial, fiscal y de intereses en los casos en que corresponda; verificando que tal declaración se presente en los términos de ley;
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2017)</small>
-
-VIII. Vigilar el cumplimiento de las normas y disposiciones establecidas en la Ley General de Contabilidad, Responsabilidad Hacendaria del Estado, y todas aquellas tendientes a la fiscalización y ejercicio del presupuesto y gasto público, en su caso;
-
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
-
-IX. Llevar a cabo los procedimientos que la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí señala.
+VI. Informar oportunamente a los servidores públicos acerca de la obligación de realizar sus declaraciones patrimonial, fiscal y de intereses en los casos en que corresponda; verificando que tales declaraciones se presenten en los términos de la ley de la materia.
 
 ###### ARTÍCULO 39.
 
@@ -717,23 +707,29 @@ VII. No pertenecer o haber pertenecido en los cuatro años anteriores a su desig
 
 VIII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público.
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 40.
 
-La persona titular de la Contraloría Interna será designada, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes.
+La persona titular del Órgano Interno de Control será elegida, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros presentes. Durará en su encargo cuatro años, y no podrá ser reelecta; así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
 
-Durará en su encargo cuatro años, y no podrá ser reelecta; así mismo, no podrá ser removida sino por los casos y causas que establezcan las leyes de la materia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 41.
 
-En la designación la persona titular de la Contraloría Interna, el Congreso del Estado se sujetará a lo siguiente:
+En la elección de la persona titular del Órgano Interno de Control, el Congreso del Estado se sujetará a lo siguiente:
 
 I. Nombrará una comisión especial de cinco legisladores, encargada de sustanciar el procedimiento en los términos del presente artículo;
 
-II. La comisión especial emitirá una convocatoria pública, en la que se establecerán las bases a que se sujetará la elección la persona titular de la Contraloría Interna, y los requisitos que deberán cubrir las personas que aspiren a ejercer ese encargo misma que deberá ser publicada en el Periódico Oficial del Estado, y cuando menos en uno de los diarios locales de mayor circulación en la Entidad;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+II. La comisión especial emitirá una convocatoria pública que deberá ser difundida en el Periódico Oficial del Estado, y cuando menos en uno de los diarios locales de mayor circulación en la Entidad, y que deberá observar los requisitos establecidos para su elección, así como un sistema que garantice la igualdad de oportunidades en el acceso a la función pública con base en el mérito, y los mecanismos más idóneos y eficientes para su adecuada profesionalización, atrayendo a los mejores candidatos para ocupar los puestos, a través de procedimientos transparentes, objetivos y equitativos;
 
 III. La comisión integrará una lista no menor de tres aspirantes, que presentará a la consideración del Pleno del Congreso del Estado;
 
-IV. El Pleno del Congreso por mayoría de sus miembros presentes, de la lista presentada por la comisión especial, elegirá en votación por cédula, a quien deberá fungir como persona titular de la Contraloría Interna de la Comisión, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+IV. El Pleno del Congreso por mayoría de sus miembros presentes, de la lista presentada por la comisión especial, elegirá en votación por cédula, a quien deberá fungir como persona titular del órgano Interno de Control de la CEGAIP; y
 
 V. Efectuada la elección, se citará a la persona electa para que rinda la protesta de ley, ante el Pleno del Congreso.
 
@@ -3076,6 +3072,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 12 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0308.- SE REFORMAN LOS ARTÍCULOS 3°, 6°, 23, 34, 88, 200 Y 205 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0319.- SE REFORMAN LOS ARTÍCULOS 38, 40, Y 41 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
