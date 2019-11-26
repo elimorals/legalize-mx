@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2019-11-12"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1095,9 +1095,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de las personas usuarias;
 
-> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-II. Acciones de orientación, seguimiento y vigilancia institucional, fomento a la lactancia materna exclusiva y amamantamiento, haciendo énfasis en las ventajas y beneficios que aporta al menor, a fin de promover que éste sea su alimento exclusivo durante seis meses, y principal hasta avanzado el segundo año de vida; además de orientación durante el embarazo sobre el manejo y uso de alimentos con alto valor nutricional y bajo contenido calórico, resaltando su importancia durante la etapa gestacional y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
+II. Acciones de orientación, seguimiento y vigilancia institucional, fomento a la lactancia materna exclusiva y amamantanamiento (sic), haciendo énfasis en las ventajas y beneficios que aporta al menor, a fin de promover que éste sea su alimento exclusivo durante seis meses, y principal hasta avanzado el segundo año de vida; así como la promoción de su práctica en espacios públicos, bajo un entorno de respeto; además de orientación durante el embarazo sobre el manejo y uso de alimentos con alto valor nutricional y bajo contenido calórico, resaltando su importancia durante la etapa gestacional y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2017)</small>
 
@@ -4536,3 +4536,11 @@ P.O. 12 DE NOVIEMBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0321.- SE REFORMA EL ARTÍCULO 54 DE LA LEY DE SALUD DEL ESTADO; SE REFORMA Y ADICIONA EL ARTÍCULO 8, DE LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente Decreto.
