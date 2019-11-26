@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2019-10-23"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO EL 23 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1732,6 +1730,10 @@ En cada municipio se establecerá una Coordinación Municipal de Protección Civ
 Las Coordinaciones Municipales de Protección Civil tendrán a su cargo la organización, coordinación y operación de programas municipales de protección civil apoyándose en el respectivo Consejo Municipal.
 
 La Coordinación Municipal de Protección Civil será la autoridad encargada de dar la primer respuesta en la materia, debiendo asistir a las emergencias que se presenten en su demarcación; en caso de que su capacidad de respuesta sea superada, está obligada a notificar al Presidente Municipal para solicitar la intervención de la Coordinación General de Protección Civil del Estado de México.
+
+> <small>(ADICIONADO, G.G. 26 DE NOVIEMBRE DE 2019)</small>
+
+A la Coordinación Municipal de Protección Civil le corresponde otorgar el registro a los Comités Ciudadanos de Prevención de Protección Civil.
 
 > <small>(REFORMADO, G.G. 12 DE JUNIO DE 2019)</small>
 
@@ -4978,3 +4980,13 @@ QUINTO.- La Comisión de Derechos Humanos del Estado de México realizará las m
 SEXTO.- La Legislatura realizará las adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto, bajo los principios de transparencia y rendición de cuentas.
 
 SÉPTIMO.- La Certificación de competencias por única ocasión tendrá vigencia de 18 meses para los Defensores Municipales de Derechos Humanos en funciones, posterior a ellos se tendrá vigencia de tres años.
+
+G.G. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 91.- POR EL QUE SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 81 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 6.12 Y EL CAPÍTULO QUINTO BIS AL TÍTULO SEGUNDO DE LIBRO SEXTO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. En un plazo no mayor a noventa días los municipios deberán adecuar la normatividad correspondiente de las Coordinaciones Municipales de Protección Civil para dar cumplimiento a lo previsto en el presente Decreto.
