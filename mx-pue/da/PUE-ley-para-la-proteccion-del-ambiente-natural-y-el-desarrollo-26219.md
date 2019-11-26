@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2019-07-01"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -665,9 +665,17 @@ XV.- La orientación de las relaciones entre la sociedad y la naturaleza a trav�
 
 XVI.- El fomento de la riqueza cultural y natural de las regiones, la estructuración de itinerarios culturales con el propósito de conservar, rescatar y preservar el patrimonio cultural y ambiental de las regiones;
 
-XVII.- La coordinación entre los distintos niveles de Gobierno y la concertación con la sociedad, para la eficacia de las acciones ambientales y el establecimiento de la corresponsabilidad ambiental entre ellos; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-XVIII.- El fortalecimiento y la descentralización de recursos a los municipios para asumir la responsabilidad de la protección ambiental en su respectiva esfera de acción en términos de la presente Ley.
+XVII. El establecimiento de medidas eficaces para prevenir incidentes que pudieran generar daño ambiental grave o irreversible, basadas en los principios de precaución y progresividad;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVII], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+XVIII. La coordinación entre los distintos niveles de Gobierno y la concertación con la sociedad, para la eficacia de las acciones ambientales y el establecimiento de la corresponsabilidad ambiental entre ellos, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XVIII], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+XIX. El fortalecimiento y la descentralización de recursos a los Municipios para asumir la responsabilidad de la protección ambiental en su respectiva esfera de acción en términos de la presente Ley.
 
 ### CAPÍTULO III. DE LOS INSTRUMENTOS DE POLÍTICA AMBIENTAL
 
@@ -2571,8 +2579,16 @@ CUARTO. Las licencias, autorizaciones y permisos otorgadas hasta antes de la ent
 
 P.O. 1 DE JULIO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 143 BIS DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 143 BIS DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XVII Y XVIII Y ADICIONA LA FRACCIÓN XIX DEL ARTÍCULO 16 DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
