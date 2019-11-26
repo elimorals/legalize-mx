@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-ii-2019-del-136351"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-05-24"
-last_updated: "2019-05-24"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136351&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-05-17"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRECE DE MAYO DE DOS MIL DIECINUEVE, POR EL QUE SE ESTABLECEN LAS NORMAS RELATIVAS A LA PLANEACIÓN, PROGRAMACIÓN, PRESUPUESTO, CONTABILIDAD Y EVALUACIÓN DEL GASTO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE NOVIEMBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 24 de mayo de 2019.
 
@@ -1135,53 +1135,19 @@ La Oficialía Mayor podrá autorizar la adquisición de bienes o la contratació
 
 ###### Artículo 153.
 
-Se entenderá por bienes, obras o servicios de carácter restringido los siguientes, considerando el Clasificador vigente:
-
-I. Bienes inmuebles, comprendiendo su adquisición, arrendamiento o contratación de obra pública y servicios relacionados con la misma;
-
-II. Adquisición y arrendamiento de vehículos;
-
-III. Adquisición de equipo informático;
-
-IV. Arrendamiento de equipo informático y contratación de servicios de informática;
-
-V. Contratación de servicios de telefonía y telecomunicaciones;
-
-VI. Adquisición de equipos y aparatos de comunicaciones y telecomunicaciones;
-
-VII. Servicios profesionales, incluidos asesorías, consultorías, estudios y demás análogos, a excepción de la partida presupuestaria de servicios relacionados con procedimientos jurisdiccionales del Capítulo de Gasto 3000 Servicios Generales;
-
-VIII. Publicidad y Difusión, en relación con la partida presupuestaria de difusión de mensajes sobre programas y actividades gubernamentales del Capítulo de Gasto 3000 Servicios Generales;
-
-IX. Artículos promocionales, los cuales se sujetarán a los lineamientos que sobre el particular se emitan;
-
-X. Adquisición de mobiliario y equipo de administración, y
-
-XI. Todos los demás bienes y servicios a los que el Presidente o el Comité de Gobierno les otorgue tal carácter.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, D.O.F. 26 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 154.
 
-La solicitud deberá contener, además de la petición respectiva, la justificación técnica, financiera y jurídica de la ejecución, adquisición o contratación que se solicita, y tener como anexo, en todos los casos, el dictamen de suficiencia presupuestal que emita Presupuesto y Contabilidad a solicitud de las Unidades Responsables, previa verificación en el SIA por parte de las mismas de suficiencia de recursos presupuestales en las partidas presupuestarias que se van a afectar.
-
-En caso de no contar con los recursos presupuestales necesarios, las Unidades Responsables deberán gestionar previamente ante Presupuesto y Contabilidad las adecuaciones presupuestarias correspondientes.
-
-Cuando se solicite la adquisición de bienes deberá acompañarse el dictamen que emita Recursos Materiales sobre la inexistencia en el almacén del bien solicitado o señalando que los existentes no cumplen con los requerimientos de la Unidad Responsable solicitante. Asimismo, deberá acreditarse la pertinencia y procedencia de la adquisición con base en la justificación que realice el área de la necesidad, su alineamiento con su Programa Anual de Trabajo y la razonabilidad administrativa.
-
-Tratándose de bienes, sistemas y servicios de informática deberá contar con el dictamen técnico que respecto de la solicitud emita Tecnologías de la Información.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, D.O.F. 26 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 155.
 
-No se requerirá de la autorización cuando se trate de adquisiciones para reposición de un bien robado, extraviado o dañado por siniestro o accidente, siempre que se hayan cumplido los requisitos para su baja y desincorporación. Se exceptúa de lo anterior, la adquisición de bienes inmuebles por reposición de los existentes, la que autorizará el Presidente o el Comité de Gobierno.
-
-Cuando el costo del bien sea inferior al monto equivalente a 5,600 UMAS, su adquisición será autorizada por Recursos Materiales, de conformidad con los lineamientos que al efecto se emitan.
-
-No se requerirá autorización para las contrataciones de servicios de conducción de señales analógicas y digitales que requiera el Canal Judicial y de peritos para juicios, traductores y servicios relacionados con obra pública, así como de disertantes que participen en los programas de difusión y promoción de la cultura jurídica y jurisdiccional y, en general, los que afectan la partida presupuestaria de Servicios relacionados con procesos jurisdiccionales del Capítulo de Gasto 3000 Servicios Generales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, D.O.F. 26 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 156.
 
-Los dictámenes serán emitidos, previa solicitud de la Unidad Responsable interesada, bajo la más estricta responsabilidad de quien lo formula, quedando facultada la Oficialía Mayor para establecer, en su caso, el procedimiento a seguir para la emisión de los mismos.
-
-El dictamen de suficiencia presupuestaria solamente se formulará cuando se haya emitido el dictamen de la Unidad Responsable Integradora correspondiente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, D.O.F. 26 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 157.
 
@@ -1189,7 +1155,7 @@ La autorización de gastos por concepto de ceremonial y orden social, congresos,
 
 ###### Artículo 158.
 
-En el caso particular de las Casas de la Cultura, tratándose de adquisición o contratación de bienes y servicios no presupuestados de carácter no restringido, hasta por un monto de 700 UMAS los Titulares de las mismas podrán emitir las autorizaciones correspondientes bajo su más estricta responsabilidad, para lo cual deberán acreditar la suficiencia presupuestal, la cual sólo podrá comprender recursos del presupuesto asignado. Las Casas de la Cultura deberán verificar, de ser el caso, que no cuentan dentro de sus inventarios con los bienes que se solicitan. De superarse este monto, las Casas de la Cultura deberán solicitar autorización a la Dirección General de Casas, la que podrá autorizar hasta 5,600 UMAS, superado este monto se estará a lo establecido en este capítulo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, D.O.F. 26 DE NOVIEMBRE DE 2019)
 
 ### CAPÍTULO DÉCIMO QUINTO. DEL GASTO DE INVERSIÓN
 
@@ -1784,3 +1750,31 @@ SEXTO. Publíquese el presente Acuerdo General de Administración en el Semanari
 Así lo acordó y firma el señor Ministro Arturo Zaldívar Lelo de Larrea, Presidente de la Suprema Corte de Justicia de la Nación, el trece de mayo de dos mil diecinueve, ante el Director General de Asuntos Jurídicos que da fe.- Rúbrica.
 
 EL LICENCIADO JUAN SEBASTIÁN FRANCISCO DE ASÍS MIJARES ORTEGA, DIRECTOR GENERAL DE ASUNTOS JURÍDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN EL ARTÍCULO 9, FRACCIÓN X, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia del “ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO II/2019, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TRECE DE MAYO DE DOS MIL DIECINUEVE, POR EL QUE SE ESTABLECEN LAS NORMAS RELATIVAS A LA PLANEACIÓN, PROGRAMACIÓN, PRESUPUESTO, CONTABILIDAD Y EVALUACIÓN DEL GASTO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”, constante de ciento cincuenta y ocho fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General. Ciudad de México, diecisiete de mayo de dos mil diecinueve.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, POR EL QUE SE REGULAN LOS PROCEDIMIENTOS PARA LA ADQUISICIÓN, ARRENDAMIENTO, ADMINISTRACIÓN Y DESINCORPORACIÓN DE BIENES Y LA CONTRATACIÓN DE OBRAS Y PRESTACIÓN DE SERVICIOS REQUERIDOS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se ABROGA el Acuerdo General de Administración VI/2008, del veinticinco de septiembre de dos mil ocho, del Comité de Gobierno y Administración de la Suprema Corte por el que se regulan los procedimientos para la adquisición, administración y desincorporación de bienes y la contratación de obras, usos y servicios requeridos por este Tribunal y los Lineamientos Temporales para la distribución de funciones establecidas en el Acuerdo General de Administración VI/2008, del veinticinco de septiembre de dos mil ocho, del Comité de Gobierno y Administración de la Suprema Corte por el que se regulan los procedimientos para la adquisición, administración y desincorporación de bienes y la contratación de obras, usos y servicios requeridos por este Tribunal.
+
+Todos los procedimientos de contratación iniciados durante la vigencia del Acuerdo General de Administración VI/2008 que se encuentren pendientes de conclusión, así como los actos de ejecución de los contratos derivados de los mismos, se continuarán tramitando hasta su terminación conforme a las disposiciones de dicho Acuerdo y las aplicables relacionadas con el mismo.
+
+A partir de la entrada en vigor del presente Acuerdo General, para efectos del monto de las contrataciones, obras y servicios y demás actos jurídicos regulados por este Acuerdo que suscriba este Alto Tribunal, por medio de los órganos y áreas competentes; se utilizará como unidad estandarizada la Unidad de Medida y Actualización aplicable en el ejercicio fiscal en que se haya celebrado el acto respectivo; en el entendido de que continuarán utilizándose las Unidades de Inversión para aquellos actos suscritos o celebrados con anterioridad a su entrada en vigor y hasta su debida terminación y pago;
+
+TERCERO. Se DEROGAN los artículos 153, 154, 155, 156 y 158 del Acuerdo General de Administración Número II/2019, del Presidente de la Suprema Corte, de trece de mayo de dos mil diecinueve, por el que se Establecen las normas Relativas a la Planeación, Programación, Presupuesto, Contabilidad y Evaluación del Gasto de la Suprema Corte, así como cualquier otra disposición que se oponga al contenido del presente Acuerdo General.
+
+CUARTO. Se DEROGAN los artículos 66 y 72 del Acuerdo General de Administración VII/2008, del nueve de diciembre de dos mil ocho, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, relativo a diversas atribuciones administrativas de las Casas de la Cultura Jurídica de este Alto Tribunal; en el entendido de que para los casos relativos a monto de autorizaciones y otorgamiento de fianzas en los diversos procedimientos que lleven a cabo los titulares de las Casas de la Cultura Jurídica, deberán seguir las disposiciones previstas en el presente Acuerdo General.
+
+QUINTO. A la entrada en vigor del presente Acuerdo quedarán sin efecto las directrices para la adquisición de material bibliohemerográfico y contratación de bases de datos, tratándose de aquellos que, por las necesidades de la Suprema Corte de Justicia de la Nación, se requiere contar con la oportunidad debida, facultando al Centro de Documentación y Análisis, Archivos y Compilación de Leyes para adquirir, de manera directa, material hasta 5 mil UDIS, que fueron autorizadas en el Acuerdo Extraordinario 1, de la Quinta Sesión ordinaria del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, celebrada el 10 de abril de 2012.
+
+SEXTO. Hasta en tanto la Dirección General de Tecnologías de la Información realice las modificaciones y actualizaciones en el SIA que correspondan, lo cual deberá realizarse a más tardar el primero de enero de dos mil veinte, dicho Sistema funcionará como hasta la fecha se ha determinado, atendiendo a la normativa aplicable.
+
+SÉPTIMO. Dentro de los dos meses siguientes a la entrada en vigor de este Acuerdo General, el Comité deberá emitir la normativa y los formatos involucrados previstos en este ordenamiento, sin menoscabo de que hasta que estos entren en vigor se continuarán aplicando los vigentes a la fecha.
+
+OCTAVO. Tomando en consideración el contenido del artículo 212 del presente Acuerdo, las Direcciones Generales de Recursos Materiales y Presupuesto y Contabilidad deberán segregar y dar de baja de los registros de inventarios de activo fijo, los bienes muebles con valor unitario de adquisición menor a 70 veces el valor de la Unidad de Medida y Actualización (UMA), registrados antes de la entrada en vigor de dicha disposición como bienes de activo fijo, reclasificándolos como consumibles, y sujetos a diversos controles internos.
+
+NOVENO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, así como en el Portal de Internet e Intranet de la Suprema Corte.
