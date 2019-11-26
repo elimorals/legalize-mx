@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-apicola-y-proteccion-de-agentes-110446"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-20"
-last_updated: "2019-10-12"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el martes 20 de octubre de 2015.
 
@@ -927,9 +927,11 @@ Las medidas preventivas o de combate tendientes a evitar la propagación de plag
 
 ### CAPÍTULO XVII. DE LAS SANCIONES Y AMONESTACIONES
 
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 74.
 
-Corresponde a la Secretaría investigar, declarar y sancionar las infracciones a esta ley, así como turnar las actuaciones practicadas a la Secretaría de Planeación, Administración y Finanzas a fin de hacer efectivas las sanciones conforme al Código Fiscal del Estado de Jalisco.
+Corresponde a la Secretaría investigar, declarar y sancionar las infracciones a esta ley, así como turnar las actuaciones practicadas a la Secretaría de la Hacienda Pública a fin de hacer efectivas las sanciones conforme al Código Fiscal del Estado de Jalisco.
 
 ###### Artículo 75.
 
@@ -1116,3 +1118,9 @@ P.O. 12 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 27352/LXII/19, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5° Y SE ADICIONA UN CAPÍTULO DENOMINADO "DEL CUIDADO Y RETIRO DE ENJAMBRES EN ZONAS URBANAS Y CONURBADAS" A LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO DE JALISCO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco''.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27585/LXII/19 QUE REFORMA EL ARTÍCULO 74 DE LA LEY DE FOMENTO APÍCOLA Y PROTECCIÓN DE AGENTES POLINIZADORES DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco"
