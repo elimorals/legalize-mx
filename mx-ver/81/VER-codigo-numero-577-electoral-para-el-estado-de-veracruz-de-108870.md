@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2018-11-16"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 16 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 26 DE NOVIEMBRE DE 2019.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -5575,13 +5575,27 @@ IV. En el caso de utilización en actividades o actos de campaña de recursos pr
 
 V. Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;
 
-VI. Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la legislación aplicable; o
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-VII. Se reciban o utilicen recursos públicos en las campañas.
+VI. Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la legislación aplicable;
 
-Respecto de las causales contenidas en las fracciones IV, V, VI y VII, deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VII. Se reciban o utilicen recursos públicos en las campañas; o
+
+> <small>(ADICIONADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Se acredite violencia política en razón de género.
+
+> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+Respecto de las causales contenidas en las fracciones IV, V, VI, VII y VIII deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.
 
 En caso de nulidad de la elección, se convocará a elección extraordinaria, en la que no podrá participar la persona sancionada.
+
+> <small>(ADICIONADO, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+En caso de la fracción VIII se remitirá el expediente a la Fiscalía General del Estado para los fines legales que a ella competan.
 
 ### CAPÍTULO V. De los Servidores Públicos del Tribunal
 
@@ -6054,3 +6068,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. El titular del Poder Ejecutivo, el Congreso del Estado, los Ayuntamientos de la entidad, el Instituto Electoral Veracruzano y los organismos autónomos del Estado a los que se refiere el presente Decreto realizarán, dentro de los sesenta días naturales al inicio de vigencia de éste, las adecuaciones necesarias a los reglamentos respectivos, conforme a lo dispuesto en esta resolución.
+
+G.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 299 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
