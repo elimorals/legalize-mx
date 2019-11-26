@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2019-08-05"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -285,7 +285,9 @@ III. Los restantes municipios, con un Presidente, un regidor y un síndico de ma
 
 Por cada Regidor y Síndico propietarios se elegirá un suplente.
 
-En los municipios del Estado que cuenten con una población mayor de cuarenta mil habitantes, los síndicos deberán ser abogados titulados.
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+La o el síndico deberá tener título y cédula profesional de abogado, o licenciado en derecho, con una antigüedad mínima de tres años en el ejercicio de la profesión.
 
 Ningún integrante del Ayuntamiento podrá ocupar cargo honorífico o remunerado de director, jefe de departamento o empleado del Municipio, ni ningún otro de sus organismos intermunicipales o paramunicipales, debiendo constreñirse su responsabilidad al ejercicio propiamente edilicio.
 
@@ -991,6 +993,10 @@ IV. CELEBRAR A NOMBRE DEL AYUNTAMIENTO Y POR ACUERDO DE ÉSTE LOS ACTOS Y CONTRA
 
 V. Proponer al Ayuntamiento en la primera sesión de Cabildo, los nombramientos del Secretario, del Tesorero, del Contralor, y del Oficial Mayor y Delegados en su caso. La propuesta que presente el Presidente Municipal será sometida a la aprobación del Cabildo; de no acordarse procedente, el Presidente Municipal presentará en la misma sesión una terna de candidatos para cada puesto, de entre los cuales el Cabildo hará la designación respectiva; si dicho cuerpo colegiado no acordare favorablemente o negare en su caso la propuesta de los candidatos, el Presidente Municipal expedirá inmediatamente el nombramiento en favor de cualquiera de los integrantes de la terna propuesta para cada cargo;
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+En el nombramiento de la o el: secretario; tesorero; contralor; oficial mayor; y delegados, en su caso, el cabildo deberá observar que se cumplan de manera satisfactoria e íntegra los requisitos establecidos en los artículos, 77, 80, 83, 85 BIS, y 95, de este Ordenamiento;
+
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 VI. Nombrar a los servidores públicos municipales cuya designación no sea facultad exclusiva del Cabildo, garantizando que las relaciones laborales entre el Ayuntamiento y sus trabajadores, se apeguen a lo dispuesto en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios de San Luis Potosí.
@@ -1329,17 +1335,23 @@ Para el control del erario municipal cada ayuntamiento contará con un Tesorero,
 
 El tesorero y todos los empleados que manejen fondos y valores, están obligados a caucionar su manejo de manera honrada y responsable, debiéndose fijar una fianza de por lo menos el equivalente a un mes de los ingresos propios, misma que deberá depositarse para su resguardo en la tesorería municipal; no podrá ejercerse el cargo sin que se haya otorgado dicha garantía, además de cumplir con todas las obligaciones y responsabilidades previstas por el Reglamento Interior Municipal; el presidente municipal, y el propio tesorero, serán responsables de que se realice dicho depósito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2014)</small>
 
 ###### ARTICULO 80.
 
 Para ser Tesorero del ayuntamiento es necesario cumplir con los requisitos siguientes:
 
-I. Contar con título profesional a nivel licenciatura en el área contable, y
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-II. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad.
+I. Contar con título y cédula profesional de licenciado en contabilidad pública, administración pública o economía, con una antigüedad mínima de tres años en el ejercicio de la profesión;
+
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+II. No haber sido condenado por sentencia ejecutoriada por la comisión de delitos patrimoniales que hayan ameritado pena privativa de libertad, y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+III. No ser pariente consanguíneo o por afinidad hasta el cuarto grado de los integrantes del ayuntamiento.
 
 ###### ARTICULO 81.
 
@@ -1409,7 +1421,9 @@ Los municipios del Estado que cuenten con una población mayor de cuarenta mil h
 
 Para ser Oficial Mayor se requiere:
 
-I. Contar con título profesional de nivel licenciatura;
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+I. Contar con título profesional de nivel licenciatura, con una antigüedad mínima de tres años en el ejercicio de la profesión;
 
 II. No ser pariente consanguíneo o por afinidad, hasta el cuarto grado, de cualquiera de los integrantes del ayuntamiento, y
 
@@ -3164,3 +3178,11 @@ P.O. 5 DE AGOSTO DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0322.- SE REFORMA (SIC) LOS ARTÍCULOS 13, 70, 80 Y 83; Y ADICIONA AL ARTÍCULO 80 LA FRACCIÓN III, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que (sic) opongan al presente Decreto.
