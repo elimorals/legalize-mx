@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2019-08-08"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -397,7 +397,7 @@ VII. Tres mujeres representantes de Organizaciones Civiles Especializadas, con p
 
 (ADICIONADA, G.O. 23 DE NOVIEMBRE DE 2017) (F. DE E., G.O. 18 DE OCTUBRE DE 2018)
 
-VIII. Dos mujeres especializadas en los Derechos Humanos de las mujeres, representantes de Instituciones Académicas y de Investigación, designadas por el Congreso del Estado.
+VIII. Dos mujeres especializadas en los Derechos Humanos de las Mujeres, representantes de Instituciones Académicas y de Investigación, designadas por el Congreso del Estado.
 
 (ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017) (F. DE E., G.O. 18 DE OCTUBRE DE 2018)
 
@@ -773,7 +773,9 @@ I. Fomentar la adopción y aplicación de acciones y programas, por medio de los
 
 II. Otorgar la atención a víctimas por parte de las diversas instituciones del ámbito de la salud, así como de atención y de servicio, tanto públicas como privadas;
 
-III. Proporcionar a las víctimas, la atención médica, psicológica y jurídica, de manera integral, gratuita, expedita y en el idioma que hable la víctima; si ésta fuere indígena deberá ser asistida por un intérprete que hable exactamente su misma lengua;
+> <small>(REFORMADA, G.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+III. Proporcionar a las víctimas la atención médica, psicológica y jurídica, de manera integral, gratuita y expedita, por profesionales especializados y con la capacitación probada que asegure el trato digno, profesional y de respeto en todos los casos, en el idioma que hable la víctima y si ésta fuere indígena deberá ser asistida por un intérprete que hable exactamente su misma lengua;
 
 IV. Crear refugios seguros para las víctimas; y
 
@@ -1134,3 +1136,11 @@ G.O. 8 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 298 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 23 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
