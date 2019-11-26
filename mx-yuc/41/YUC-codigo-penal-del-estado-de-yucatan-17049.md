@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2019-07-31"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2345,7 +2345,7 @@ ARTÍCULO 243 BIS 4.- A quien coaccione, hostigue, o exija a otra persona, la el
 
 Cuando la conducta a que se refiere en el párrafo anterior sea cometida contra un menor de dieciocho años, la pena y sanción establecida se aumentará hasta en una mitad.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 241.
 
@@ -2374,6 +2374,44 @@ Si el agente pone en libertad a la persona plagiada espontáneamente, dentro de 
 ARTÍCULO 243 BIS 1. Este Capítulo, es aplicable en todo lo que no contravenga a lo dispuesto por la Ley General para prevenir y sancionar los Delitos en Materia de Secuestros, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE JULIO DE 2008)</small>
+
+### CAPÍTULO V TER. DELITOS INFORMÁTICOS
+
+> <small>(ADICIONADO, D.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 243 BIS 5. Al que sin autorización, para beneficio propio o ajeno, modifique, destruya o provoque pérdida de información contenida en sistemas o equipos informáticos protegidos por algún mecanismo de seguridad, se le impondrán de seis meses a dos años de prisión y de mil a dos mil días - multa.
+
+> <small>(ADICIONADO, D.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 243 BIS 6. Al que sin autorización se introduzca por cualquier medio a un sistema o equipo de informática protegido por algún mecanismo de seguridad, para beneficio propio o ajeno, para sustraer, eliminar o cambiar información contenida en él; con la intención de provocar un desperfecto en su funcionamiento que lo deje total o parcialmente inoperable; intercepte comunicaciones privadas con la intensión (sic) recabar información personal o financiera, se le impondrán de uno a tres años de prisión y de mil a dos mil días - multa.
+
+> <small>(ADICIONADO, D.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 243 BIS 7. Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, sustraiga información para beneficio personal o ajeno, o quien facilite esto a un tercero que no cuente con autorización, se le impondrán de uno a cuatro años de prisión y de mil a dos mil quinientos días - multa.
+
+> <small>(ADICIONADO, D.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 243 BIS 8. Al que estando autorizado para acceder a sistemas y equipos de informática del Estado, indebidamente modifique o provoque perdida de información para beneficio personal o ajeno, se le impondrán de uno a cuatro años de prisión y de mil a dos mil días - multa.
+
+> <small>(ADICIONADO, D.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 243 BIS 9. Al que estando autorizado para acceder a sistemas y equipos de informática, indebidamente modifique o provoque pérdida de información que contengan, se le impondrán de dos a cuatro años de prisión y de mil a dos mil días - multa.
+
+> <small>(ADICIONADO, D.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 243 BIS 10. Se impondrán de dos a cuatro años de prisión y de dos mil a tres mil días - multa a quien utilizando información que aparente provenir de instituciones financieras o empresas de servicios informáticos o electrónicos o dependencias del Poder Ejecutivo u otro poder u organismo del estado:
+
+I.- Provoque la instalación de programas informáticos en ordenadores o teléfonos inteligentes a fin de acceder a la información contenida en ellos o la que se genere por llamadas, mensajes, servicios que utilicen Internet o la ubicación en tiempo real mediante el sistema de posicionamiento global (GPS).
+
+II.- Provoque la sustracción o revelación de audio, video, fotografías digitales o información personal o financiera.
+
+> <small>(ADICIONADO, D.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 243 BIS 11. Las sanciones contenidas en los artículos 243 Bis 7 y 243 Bis 8 de este código, se duplicarán cuando la conducta tenga la intención de obstruir, entorpecer, obstaculizar, limitar o imposibilitar la procuración o impartición de justicia, o recaiga sobre los registros relacionados con un procedimiento penal resguardados por las autoridades competentes.
+
+Además de lo establecido en el párrafo anterior, si el sujeto activo es un servidor público, se impondrá la destitución del cargo o empleo y la inhabilitación para obtener otro en el servicio público por un término de hasta ocho años.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
 
 ### CAPÍTULO VI. DISCRIMINACIÓN
 
@@ -2483,15 +2521,11 @@ VAGANCIA, MALVIVENCIA Y VENTA ILÍCITA DE BEBIDAS ALCOHÓLICAS
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO IV. COALICIÓN DE SERVIDORES PÚBLICOS
-
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
-
 ###### ARTÍCULO 244.
 
 (DEROGADO, D.O. 23 DE JULIO DE 2008)
 
-### CAPÍTULO V. Uso Ilícito de Atribuciones y Facultades
+### CAPÍTULO IV. COALICIÓN DE SERVIDORES PÚBLICOS
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2531,7 +2565,9 @@ TÍTULO DECIMOTERCERO
 
 DELITOS POR HECHOS DE CORRUPCIÓN
 
-### CAPÍTULO VI. CONCUSIÓN
+### CAPÍTULO V. Uso Ilícito de Atribuciones y Facultades
+
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 247.
 
@@ -2569,9 +2605,7 @@ Para la individualización de las sanciones previstas en este título, el órgan
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO VI BIS. Intimidación
-
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+### CAPÍTULO VI. CONCUSIÓN
 
 ###### ARTÍCULO 250.
 
@@ -2597,9 +2631,9 @@ Al que cometa alguno de los delitos a que se refieren las fracciones I, II, III 
 
 Al infractor de las fracciones V, VI, VII y VIII se le impondrán de dos a siete años de prisión y de treinta a ciento cincuenta días-multa.
 
-### CAPÍTULO VII. EJERCICIO ABUSIVO DE FUNCIONES
+### CAPÍTULO VI BIS. Intimidación
 
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 251.
 
@@ -2641,7 +2675,7 @@ XV.- Incumplir con la obligación de impedir la ejecución de las conductas de p
 
 El delito de abuso de autoridad se sancionará con prisión de dos a ocho años y de diez a cien días-multa. Igual sanción se impondrá a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones X a XII del artículo anterior.
 
-### CAPÍTULO VIII. TRÁFICO DE INFLUENCIAS
+### CAPÍTULO VII. EJERCICIO ABUSIVO DE FUNCIONES
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2659,9 +2693,9 @@ A quienes cometan el delito de coalición de servidores públicos, se les impond
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO VIII BIS. Cohecho
+### CAPÍTULO VIII. TRÁFICO DE INFLUENCIAS
 
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 255.
 
@@ -2697,9 +2731,9 @@ Al que cometa el delito a que se refiere el presente artículo, se le impondrán
 
 (DEROGADO, D.O. 18 DE JULIO DE 2017)
 
-### CAPÍTULO IX. PECULADO
+### CAPÍTULO VIII BIS. Cohecho
 
-> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 257.
 
@@ -2717,7 +2751,7 @@ II.- Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinien
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO X. ENRIQUECIMIENTO ILÍCITO
+### CAPÍTULO IX. PECULADO
 
 > <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
@@ -2731,7 +2765,9 @@ II.- El servidor público que con motivo de la querella, denuncia o información
 
 Al que cometa el delito de intimidación se le impondrán de dos años a nueve años de prisión y de treinta a cien días-multa.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO X. ENRIQUECIMIENTO ILÍCITO
+
+> <small>(REFORMADO, D.O. 18 DE JULIO DE 2017)</small>
 
 ###### ARTÍCULO 259.
 
@@ -2763,7 +2799,7 @@ II.- Cuando estando legalmente obligado a entregar a una autoridad información 
 
 Al que cometa el delito a que se refiere este artículo, se le impondrán de tres meses a nueve años de prisión y de treinta a cien días-multa.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 261.
 
@@ -2785,7 +2821,7 @@ Al que cometa el delito de tráfico de influencia, se le impondrán de dos años
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
 
-### CAPÍTULO II. RESPONSABILIDAD MÉDICA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 262 Bis.
 
@@ -2815,7 +2851,7 @@ II.- Cuando la cantidad o el valor de la dádiva, los bienes, promesa o prestaci
 
 En ningún caso se devolverá a los responsables del delito de cohecho, el dinero o dádiva entregados o recibidos; estos se aplicarán en beneficio del erario público del estado.
 
-### CAPÍTULO III. RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
+### CAPÍTULO II. RESPONSABILIDAD MÉDICA
 
 ###### ARTÍCULO 263.
 
@@ -2839,7 +2875,7 @@ I.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no
 
 II.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente exceda del equivalente de quinientas unidades de medida y actualización en el momento de cometerse el delito, se impondrán de dos años a catorce años de prisión y de cien a ciento cincuenta días-multa.
 
-### CAPÍTULO I. FALSIFICACIÓN Y USO INDEBIDO DE SELLOS, LLAVES, MARCAS, CONTRASEÑAS Y OTROS OBJETOS
+### CAPÍTULO III. RESPONSABILIDAD DE ABOGADOS, PATRONOS Y LITIGANTES
 
 ###### ARTÍCULO 265.
 
@@ -2863,7 +2899,7 @@ TÍTULO DECIMOCUARTO
 
 DELITOS COMETIDOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA Y OTROS RAMOS DEL PODER PÚBLICO
 
-### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS EN GENERAL
+### CAPÍTULO I. FALSIFICACIÓN Y USO INDEBIDO DE SELLOS, LLAVES, MARCAS, CONTRASEÑAS Y OTROS OBJETOS
 
 ###### ARTÍCULO 267.
 
@@ -2947,9 +2983,7 @@ TÍTULO DECIMOQUINTO
 
 RESPONSABILIDAD PROFESIONAL
 
-### CAPÍTULO III. FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
-
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+### CAPÍTULO II. FALSIFICACIÓN DE DOCUMENTOS EN GENERAL
 
 ###### ARTÍCULO 269.
 
@@ -2959,7 +2993,9 @@ I. Además de las sanciones señaladas para los delitos que resulten cometidos, 
 
 II. Estarán obligados a la reparación del daño por sus propios actos y por los de sus auxiliares, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
 
-### CAPÍTULO IV. VARIACIÓN DEL NOMBRE O DOMICILIO
+### CAPÍTULO III. FALSEDAD EN DECLARACIONES JUDICIALES E INFORMES DADOS A UNA AUTORIDAD
+
+> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 270.
 
@@ -2983,7 +3019,7 @@ III. Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cu
 
 La misma sanción se impondrá a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente recetada por otra que cause daño o sea evidentemente inapropiada al padecimiento para el cual se prescribió.
 
-### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN Y USO INDEBIDO DE UNIFORME, INSIGNIA, DISTINTIVO O CONDECORACIÓN
+### CAPÍTULO IV. VARIACIÓN DEL NOMBRE O DOMICILIO
 
 ###### ARTÍCULO 273.
 
@@ -3023,7 +3059,7 @@ TÍTULO DECIMOSEXTO
 
 FALSEDAD
 
-### CAPÍTULO VI. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
+### CAPÍTULO V. USURPACIÓN DE FUNCIONES PÚBLICAS O DE PROFESIÓN Y USO INDEBIDO DE UNIFORME, INSIGNIA, DISTINTIVO O CONDECORACIÓN
 
 ###### ARTÍCULO 277.
 
@@ -3061,9 +3097,7 @@ V. A sabiendas, hiciera uso de las llaves, sellos, marcas y demás objetos expre
 
 Se impondrá prisión de uno a cinco años y de diez a cien días-multa, a quien en cualquier forma altere las señales, marcas de sangre o de fuego, que se utilizan para distinguir al ganado, sin autorización de la persona que lo tenga legalmente registrado ante la autoridad competente.
 
-### CAPÍTULO I. GOLPES
-
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+### CAPÍTULO VI. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
 
 ###### ARTÍCULO 281.
 
@@ -3139,7 +3173,9 @@ Si el sujeto activo es empleado o dependiente del ofendido, las penas se aumenta
 
 En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este artículo se aplicarán las reglas del concurso.
 
-### CAPÍTULO II. INJURIAS Y DIFAMACIÓN
+### CAPÍTULO I. GOLPES
+
+> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 285.
 
@@ -3185,9 +3221,7 @@ I. Con objeto de aprovechar ilícitamente la eficacia jurídica de una resoluci�
 
 II. Fundado en documentos o testigos falsos a sabiendas de que los son, proporcione datos falsos que produzcan indefensión y deduzca acción en contra de otro ante autoridades judiciales o administrativas con perjuicio de éste o de un tercero.
 
-### CAPÍTULO III. CALUMNIA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+### CAPÍTULO II. INJURIAS Y DIFAMACIÓN
 
 ###### ARTÍCULO 289.
 
@@ -3203,7 +3237,9 @@ III. Siendo servidor público en los actos propios de su cargo, atribuyere a una
 
 Lo dispuesto en este artículo no comprende a quien tenga el carácter de imputado en una investigación o proceso penal.
 
-### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS CAPÍTULOS II Y III PRECEDENTES
+### CAPÍTULO III. CALUMNIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 290.
 
@@ -3215,7 +3251,7 @@ II. Usare credenciales de servidor público o condecoraciones a que no tenga der
 
 III. Al que, sin tener título legal, se atribuya el carácter profesional y ejerza los actos propios de la profesión.
 
-### CAPÍTULO V. CHANTAJE
+### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS CAPÍTULOS II Y III PRECEDENTES
 
 ###### ARTÍCULO 291.
 
@@ -3229,33 +3265,15 @@ TÍTULO DECIMOSEPTIMO
 
 DELITOS CONTRA EL HONOR
 
-### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+### CAPÍTULO V. CHANTAJE
 
 ###### ARTÍCULO 293.
 
 Se aplicarán de tres meses a un año de prisión o de diez a veinte días-multa y de diez a veinte días de trabajo en favor de la comunidad, a quien, públicamente y fuera de riña, infiera a otro, sin lesionarlo, un golpe simple con ánimo de ofender. Este delito se perseguirá por querella de la parte ofendida.
 
-### CAPÍTULO I BIS. Acoso Sexual
+### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
-
-ARTÍCULO 308 BIS. Se impondrá pena de dos a tres años de prisión y de cien a quinientos días-multa a quien:
-
-I. Asedie, por cualquier medio, con fines lascivos, y a pesar de su oposición, a una persona o solicite la ejecución de un acto de naturaleza sexual, para sí o para un tercero, independientemente de que se realice en uno o varios eventos;
-
-II. Asedie reiteradamente, con fines lascivos, a cualquier persona, sin su consentimiento, en lugares públicos, o en instalaciones o vehículos destinados al transporte público de pasajeros;
-
-III. Capte imágenes o realice cualquier registro audiovisual del cuerpo de otra persona o de alguna parte de su cuerpo, sin su consentimiento y con un carácter erótico-sexual, o
-
-IV. Realice reiteradamente actos de exhibicionismo, remisión de imágenes o videos con connotación sexual, lasciva o de exhibicionismo corporal, o los solicite, sin que la víctima haya otorgado su consentimiento.
-
-Si el sujeto activo realiza cualquiera de las conductas previstas en este artículo aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, la pena prevista en el párrafo primero se incrementará en un cuarto.
-
-Si la víctima del delito de acoso sexual fuera menor de quince años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento; o que por cualquier causa no pueda resistirlo, se aumentará la pena prevista en el párrafo primero hasta en una mitad.
-
-Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de quince años o por cualquier circunstancia sea incapaz de comprender el delito, en cuyo caso se perseguirá de oficio.
 
 ###### ARTÍCULO 294.
 
@@ -3305,9 +3323,25 @@ Se consideran de carácter sedicioso las informaciones que inciten a las persona
 
 Para los efectos de este artículo se consideran que faltan al respeto a la vida privada las informaciones que penetran en la intimidad del hogar o en la conducta social de las personas o que tiendan a exhibirlas, a menoscabar su reputación o dañarlas en sus relaciones sociales.
 
-### CAPÍTULO II. ABUSO SEXUAL
+### CAPÍTULO I BIS. Acoso Sexual
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+
+ARTÍCULO 308 BIS. Se impondrá pena de dos a tres años de prisión y de cien a quinientos días-multa a quien:
+
+I. Asedie, por cualquier medio, con fines lascivos, y a pesar de su oposición, a una persona o solicite la ejecución de un acto de naturaleza sexual, para sí o para un tercero, independientemente de que se realice en uno o varios eventos;
+
+II. Asedie reiteradamente, con fines lascivos, a cualquier persona, sin su consentimiento, en lugares públicos, o en instalaciones o vehículos destinados al transporte público de pasajeros;
+
+III. Capte imágenes o realice cualquier registro audiovisual del cuerpo de otra persona o de alguna parte de su cuerpo, sin su consentimiento y con un carácter erótico-sexual, o
+
+IV. Realice reiteradamente actos de exhibicionismo, remisión de imágenes o videos con connotación sexual, lasciva o de exhibicionismo corporal, o los solicite, sin que la víctima haya otorgado su consentimiento.
+
+Si el sujeto activo realiza cualquiera de las conductas previstas en este artículo aprovechándose de cualquier circunstancia que produzca desventaja, indefensión o riesgo inminente para la víctima, la pena prevista en el párrafo primero se incrementará en un cuarto.
+
+Si la víctima del delito de acoso sexual fuera menor de quince años de edad o una persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento; o que por cualquier causa no pueda resistirlo, se aumentará la pena prevista en el párrafo primero hasta en una mitad.
+
+Este delito se perseguirá a petición de parte, salvo que la víctima sea menor de quince años o por cualquier circunstancia sea incapaz de comprender el delito, en cuyo caso se perseguirá de oficio.
 
 ###### ARTÍCULO 299.
 
@@ -3331,9 +3365,9 @@ Tampoco se aplicará sanción alguna al autor de una denuncia o querella, si los
 
 Cuando haya pendiente un procedimiento relacionado con un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que el juicio termine. En este caso, la prescripción comenzará a correr cuando éste concluya.
 
-### CAPÍTULO III. ESTUPRO
+### CAPÍTULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 301.
 
@@ -3359,7 +3393,9 @@ Siempre que sea condenado el autor de una injuria, difamación o de una calumnia
 
 No servirá de excusa de la difamación o de la calumnia, que el hecho imputado sea notorio o que el agente se limite a reproducir lo ya publicado o difundido en la República Mexicana o en otro país.
 
-### CAPÍTULO IV. VIOLACIÓN
+### CAPÍTULO III. ESTUPRO
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### ARTÍCULO 306.
 
@@ -3377,9 +3413,7 @@ TÍTULO DECIMOCTAVO
 
 DELITOS SEXUALES
 
-### CAPÍTULO V. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
+### CAPÍTULO IV. VIOLACIÓN
 
 ###### ARTÍCULO 308.
 
@@ -3399,13 +3433,13 @@ En caso de reincidencia se le impondrá sanción de tres a seis años de prisió
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE MARZO DE 2018)</small>
 
+### CAPÍTULO V. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 28 DE MARZO DE 2018)</small>
+
 ### CAPÍTULO I. REGLAS GENERALES
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
-
-### CAPÍTULO II. ABUSO DE CONFIANZA
-
-> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 309.
 
@@ -3421,7 +3455,9 @@ Se entenderá por actos lascivos los tocamientos, manoseos corporales obscenos, 
 
 A quien cometa el delito de abuso sexual en una persona menor de quince años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y de cuatrocientos a dos mil quinientos días-multa. Si se hiciere uso de la violencia física o psicológica, la sanción se aumentará hasta en una mitad. Este delito se perseguirá de oficio.
 
-### CAPÍTULO III. FRAUDE
+### CAPÍTULO II. ABUSO DE CONFIANZA
+
+> <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 311.
 
@@ -3431,7 +3467,7 @@ Al que tenga cópula con persona mayor de quince y menor de dieciocho años de e
 
 (DEROGADO, D.O. 2 DE MAYO DE 2016)
 
-### CAPÍTULO IV. EXTORSIÓN
+### CAPÍTULO III. FRAUDE
 
 ###### ARTÍCULO 313.
 
@@ -3457,7 +3493,7 @@ Se equipara a la violación y se sancionará con prisión de ocho a veinticinco 
 
 Si además se ejerciere violencia física o moral, el mínimo y el máximo de la sanción se aumentarán en una mitad.
 
-### CAPÍTULO V. USURA
+### CAPÍTULO IV. EXTORSIÓN
 
 ###### ARTÍCULO 316.
 
@@ -3485,13 +3521,13 @@ TÍTULO DECIMONOVENO
 
 DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO VI. DESPOJO DE COSA INMUEBLE
+### CAPÍTULO V. USURA
 
 ###### ARTÍCULO 317.
 
 Cuando se hable de unidad de medida y actualización en este título, se entenderá que se refiere a la unidad de medida y actualización, en su valor actualizado en el momento de consumarse el delito si fuere instantáneo; en el momento consumativo de la última conducta si fuere continuado y en el momento en que cesó la consumación si fuere permanente.
 
-### CAPÍTULO VII. ROBO
+### CAPÍTULO VI. DESPOJO DE COSA INMUEBLE
 
 ###### ARTÍCULO 318.
 
@@ -3545,7 +3581,7 @@ Para estimar la cuantía del abuso de confianza, se atenderá únicamente al val
 
 Se considera abuso de confianza y se sancionará con prisión de tres meses a tres años y hasta cien días-multa, al conductor o legítimo propietario de un vehículo que disponga indebidamente de este o se niegue sin justificación a entregarlo, si lo ha recibido en calidad de depósito por el Ministerio Público o por la autoridad judicial en un procedimiento relacionado con delitos por tránsito de vehículos, siempre que haya sido requerido por cualquiera de las autoridades que conozcan o sigan conociendo del caso.
 
-### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
+### CAPÍTULO VII. ROBO
 
 ###### ARTÍCULO 323.
 
@@ -3665,7 +3701,7 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 Si el agente restituye el objeto del ilícito directamente al ofendido o tribunal de los autos antes de dictarse sentencia definitiva de primera o segunda instancia, se impondrá al imputado de tres meses a una tercera parte del máximo de la que correspondería imponer o prescindir de la imposición de las mismas. En ambos casos, el juez o tribunal hará saber al imputado en el momento procedimental oportuno, este beneficio.
 
-### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
+### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
 
 ###### ARTÍCULO 327.
 
@@ -3673,9 +3709,7 @@ A quien sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo o
 
 Las sanciones se aumentarán hasta el doble si el constreñimiento se realiza mediante una asociación delictuosa o por quien sea o haya sido servidor público. En este caso, se impondrá además al servidor, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar empleo, cargo o comisión públicos y al ex-servidor público únicamente la inhabilitación por el mismo término.
 
-### CAPÍTULO I. ABANDONO DE PERSONAS
-
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+### CAPÍTULO IX. DISPOSICIONES COMUNES A LOS CAPÍTULOS PRECEDENTES
 
 ###### ARTÍCULO 328.
 
@@ -3689,7 +3723,9 @@ Si el sujeto activo reparare el daño, las sanciones a que se refiere el primer 
 
 La usura será perseguida por querella.
 
-### CAPÍTULO II. LESIONES
+### CAPÍTULO I. ABANDONO DE PERSONAS
+
+> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 329.
 
@@ -3711,7 +3747,7 @@ Si el despojo se efectúa por dos o más personas o con violencia, se aumentará
 
 Este delito se perseguirá por querella.
 
-### CAPÍTULO III. HOMICIDIO
+### CAPÍTULO II. LESIONES
 
 ###### ARTÍCULO 330.
 
@@ -3937,7 +3973,7 @@ IV. Comercie total o parcialmente cualquier bien robado.
 
 En caso de tratarse de robo de ganado, sea mayor o menor, o de aves de corral, las conductas a que se refiere este artículo, se sancionarán hasta en una mitad más de las establecidas en los artículos 339, 340 y 341.
 
-### CAPÍTULO IV. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
+### CAPÍTULO III. HOMICIDIO
 
 ###### ARTÍCULO 348.
 
@@ -3975,9 +4011,9 @@ En los casos de daño, destrucción o deterioro de cosa ajena o de cosa propia e
 
 Este delito será perseguido por querella.
 
-### CAPÍTULO V. ATAQUES PELIGROSOS
+### CAPÍTULO IV. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
-### CAPÍTULO VI. ABORTO
+### CAPÍTULO V. ATAQUES PELIGROSOS
 
 ###### ARTÍCULO 351.
 
@@ -3987,9 +4023,7 @@ Igualmente, se requerirá querella para la persecución de terceros que hubiesen
 
 ## TÍTULO VIGÉSIMO. DELITOS CONTRA LA VIDA E INTEGRIDAD CORPORAL
 
-### CAPÍTULO VII. HOMICIDIO EN RAZÓN DEL PARENTESCO O RELACIÓN
-
-> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2011)</small>
+### CAPÍTULO VI. ABORTO
 
 ###### ARTÍCULO 352.
 
@@ -4021,17 +4055,9 @@ No se impondrá pena alguna a la madre que entregue a su hijo por ignorancia o e
 
 Cuando alguna de las conductas delictivas a que se refiere este Capítulo se realice contra persona mayor de setenta años de edad, la sanción a imponer se aumentará hasta en el doble de la sanción máxima que corresponda a la conducta de que se trate.
 
-### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
+### CAPÍTULO VII. HOMICIDIO EN RAZÓN DEL PARENTESCO O RELACIÓN
 
-> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
-
-ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
-
-> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
-
-ARTÍCULO 394 TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 357.
 
@@ -4087,25 +4113,17 @@ Si las lesiones fueren inferidas en riña, se impondrán al responsable como san
 
 Cuando concurra una sola de las circunstancias a que se refiere el artículo 378 de este Código y la lesión fuere simple, se aumentará hasta en un tercio la sanción que correspondería; cuando concurran dos o más de dichas circunstancias, se aumentará la pena hasta en dos terceras partes.
 
-### CAPÍTULO IX. ESTERILIDAD PROVOCADA
+### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
-ARTÍCULO 394 QUATER. A quien sin haber dado su consentimiento, o de quien legalmente deba otorgarlo por razón de patria potestad, guarda, custodia o tutoría de una persona mayor de dieciocho años de edad, después de haber sido plenamente informada de las posibles consecuencias, practique en ella cualquier procedimiento, sea químico, quirúrgico o de cualquier otra índole, que le provoque esterilidad, se le impondrán de ocho a diez años de prisión y de mil a dos mil días-multa, así como el pago total de la reparación de los daños y perjuicios ocasionados, que incluirán los gastos de hospitalización, los del procedimiento, sea quirúrgico o de cualquier otra índole, necesario para revertir la esterilidad, en caso de que sea posible, y el tratamiento médico y psicológico.
+ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
-Si la conducta prevista en el párrafo anterior se cometiera aún con el consentimiento de la víctima, en una persona menor de dieciocho años, con algún trastorno mental, alguna discapacidad intelectual o en quien no tenga la capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo, la sanción prevista en el párrafo anterior se incrementará en una mitad.
+ARTÍCULO 394 TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
 
-Si como consecuencia de algún procedimiento médico o quirúrgico que se realice con el consentimiento de la persona se provoca esterilidad por negligencia o falta de cuidado, se le impondrá al sujeto activo una sanción de dos a cuatro años de prisión y de cincuenta a ciento cincuenta días-multa.
-
-A quien sin contar con cédula profesional que acredite su preparación médica, realice alguna actividad o procedimiento que provoque esterilidad, se le impondrá una sanción de ocho a quince años de prisión y de cien a cuatrocientos días-multa.
-
-> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
-
-Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un plazo igual al de la pena de prisión impuesta hasta la inhabilitación definitiva, siempre que en virtud de su ejercicio haya resultado un daño para la víctima; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 368.
 
@@ -4149,57 +4167,25 @@ Al responsable de homicidio en riña se le impondrá de cuatro a doce años de p
 
 ARTÍCULO 373 BIS.- No constituirá delito de homicidio, las conductas realizadas por el personal de las instituciones de salud, el representante que conste en el documento de voluntad anticipada ni los familiares del signatario de dicho documento, para efectos del cumplimiento de las disposiciones establecidas en la Ley de Voluntad Anticipada del Estado de Yucatán.
 
-### CAPÍTULO X. FEMINICIDIO
+### CAPÍTULO IX. ESTERILIDAD PROVOCADA
 
-> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
 
-ARTÍCULO 394 QUINQUIES. Comete el delito de feminicidio quien dolosamente prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las circunstancias siguientes:
-
-I.- La víctima presente signos de violencia sexual de cualquier tipo, previas o posteriores a la privación de la vida.
-
-II.- A la víctima se le hayan practicado mutilaciones genitales o de cualquier otro tipo, cuando estas impliquen menosprecio a la mujer o a su cuerpo.
-
-III.- Existan antecedentes de violencia familiar, laboral o escolar, motivada por razones de género, del sujeto activo en contra de la víctima.
-
-IV.- La pretensión infructuosa del sujeto activo de establecer o restablecer una relación de pareja o de intimidad con la víctima.
-
-> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
-
-V.- Haya existido entre el sujeto activo y la víctima una relación sentimental, afectiva o de confianza.
-
-> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
-
-VI.- Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima.
-
-> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
-
-VII.- La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
-
-> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
-
-VIII.- El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+ARTÍCULO 394 QUATER. A quien sin haber dado su consentimiento, o de quien legalmente deba otorgarlo por razón de patria potestad, guarda, custodia o tutoría de una persona mayor de dieciocho años de edad, después de haber sido plenamente informada de las posibles consecuencias, practique en ella cualquier procedimiento, sea químico, quirúrgico o de cualquier otra índole, que le provoque esterilidad, se le impondrán de ocho a diez años de prisión y de mil a dos mil días-multa, así como el pago total de la reparación de los daños y perjuicios ocasionados, que incluirán los gastos de hospitalización, los del procedimiento, sea quirúrgico o de cualquier otra índole, necesario para revertir la esterilidad, en caso de que sea posible, y el tratamiento médico y psicológico.
 
 > <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
-A quien cometa el delito de feminicidio se le impondrán de treinta y dos a cuarenta y cinco años de prisión y de mil quinientos a dos mil quinientos días- multa.
+Si la conducta prevista en el párrafo anterior se cometiera aún con el consentimiento de la víctima, en una persona menor de dieciocho años, con algún trastorno mental, alguna discapacidad intelectual o en quien no tenga la capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo, la sanción prevista en el párrafo anterior se incrementará en una mitad.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+Si como consecuencia de algún procedimiento médico o quirúrgico que se realice con el consentimiento de la persona se provoca esterilidad por negligencia o falta de cuidado, se le impondrá al sujeto activo una sanción de dos a cuatro años de prisión y de cincuenta a ciento cincuenta días-multa.
 
-Si entre el sujeto activo y la víctima existió una relación de parentesco por consanguinidad en línea recta, sin limitación de grado, o colateral hasta el cuarto grado o por afinidad hasta el cuarto grado; laboral, docente o sentimental, se impondrá una pena de prisión de cuarenta a sesenta años de prisión y de mil quinientos a dos mil quinientos días-multa.
+A quien sin contar con cédula profesional que acredite su preparación médica, realice alguna actividad o procedimiento que provoque esterilidad, se le impondrá una sanción de ocho a quince años de prisión y de cien a cuatrocientos días-multa.
 
-Además de las sanciones descritas en este artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
 
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
+Además de las penas señaladas en el párrafo anterior, se impondrá al responsable la suspensión del empleo o profesión por un plazo igual al de la pena de prisión impuesta hasta la inhabilitación definitiva, siempre que en virtud de su ejercicio haya resultado un daño para la víctima; o bien, en caso de que el responsable sea servidor público se le privará del empleo, cargo o comisión público que haya estado desempeñando, siempre que en virtud de su ejercicio haya cometido dicha conducta típica.
 
-Las autoridades investigadoras competentes, cuando se encuentren ante un probable delito de feminicidio deberán aplicar el protocolo correspondiente a dicho delito; en caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
-
-> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2014)</small>
-
-ARTÍCULO 394 SEXIES. Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación de un delito de feminicidio, se le impondrán de tres a ocho años de prisión y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
-
-TÍTULO VIGESIMOPRIMERO
-
-DELITOS ELECTORALES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 374.
 
@@ -4297,9 +4283,57 @@ De las lesiones o muerte que a una persona cause algún animal, será responsabl
 
 BIS. Se impondrá una sanción de dos a seis años de prisión y multa de cuarenta a ochenta unidades de medida y actualización, a los que sustraigan órganos o partes del cuerpo humano sin la autorización de quien corresponda darla y sin cumplir los requisitos legales correspondientes.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO X. FEMINICIDIO
 
-> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2014)</small>
+
+ARTÍCULO 394 QUINQUIES. Comete el delito de feminicidio quien dolosamente prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las circunstancias siguientes:
+
+I.- La víctima presente signos de violencia sexual de cualquier tipo, previas o posteriores a la privación de la vida.
+
+II.- A la víctima se le hayan practicado mutilaciones genitales o de cualquier otro tipo, cuando estas impliquen menosprecio a la mujer o a su cuerpo.
+
+III.- Existan antecedentes de violencia familiar, laboral o escolar, motivada por razones de género, del sujeto activo en contra de la víctima.
+
+IV.- La pretensión infructuosa del sujeto activo de establecer o restablecer una relación de pareja o de intimidad con la víctima.
+
+> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+
+V.- Haya existido entre el sujeto activo y la víctima una relación sentimental, afectiva o de confianza.
+
+> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+
+VI.- Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima.
+
+> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+
+VII.- La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida.
+
+> <small>(ADICIONADA, D.O. 19 DE JUNIO DE 2017)</small>
+
+VIII.- El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+A quien cometa el delito de feminicidio se le impondrán de treinta y dos a cuarenta y cinco años de prisión y de mil quinientos a dos mil quinientos días- multa.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+
+Si entre el sujeto activo y la víctima existió una relación de parentesco por consanguinidad en línea recta, sin limitación de grado, o colateral hasta el cuarto grado o por afinidad hasta el cuarto grado; laboral, docente o sentimental, se impondrá una pena de prisión de cuarenta a sesenta años de prisión y de mil quinientos a dos mil quinientos días-multa.
+
+Además de las sanciones descritas en este artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+
+> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
+
+Las autoridades investigadoras competentes, cuando se encuentren ante un probable delito de feminicidio deberán aplicar el protocolo correspondiente a dicho delito; en caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+> <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2014)</small>
+
+ARTÍCULO 394 SEXIES. Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, cuando se trate de la investigación de un delito de feminicidio, se le impondrán de tres a ocho años de prisión y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
+
+TÍTULO VIGESIMOPRIMERO
+
+DELITOS ELECTORALES
 
 ###### ARTÍCULO 388.
 
@@ -4313,7 +4347,9 @@ II. Al que ataque a alguien de tal manera que en razón del arma, instrumento u 
 
 Si de las agresiones mencionadas resultaren una o más lesiones, se observarán las reglas de acumulación, menos en los casos en que dichas lesiones causaren la muerte del ofendido o fueren de las que ponen en peligro la vida, en los que se aplicarán las sanciones correspondientes al delito de lesiones o de homicidio. Cuando el delito por ataques peligrosos no ponga en peligro la vida, éste se perseguirá por querella de la parte ofendida
 
-### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, D.O. 28 DE JUNIO DE 2014)</small>
 
 ###### ARTÍCULO 389.
 
@@ -4357,13 +4393,15 @@ IV. Cuando el aborto obedezca a causas económicas graves y justificadas y siemp
 
 V. Cuando se practique con el consentimiento de la madre y del padre en su caso y a juicio de dos médicos exista razón suficiente para suponer que el producto padece alteraciones genéticas o congénitas, que den por resultado el nacimiento de un ser con trastornos físicos o mentales graves.
 
-### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
+### CAPÍTULO II. DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS PARTICULARES
 
 ###### ARTÍCULO 394.
 
 A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación, se le impondrá prisión de treinta a cuarenta años y será privado de todo derecho de familia sobre los bienes de aquella persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela. Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 372 de este Código, sin menoscabo de observar alguna circunstancia que agrave o atenúe las sanciones a que se refieren los capítulos III y IV anteriores.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2008)</small>
+
+### CAPÍTULO III. DE LOS DELITOS ELECTORALES EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS ELECTORALES
 
 ### CAPÍTULO IV. DE LOS DELITOS EN QUE PUEDEN INCURRIR LOS FUNCIONARIOS PARTIDISTAS
 
@@ -4372,8 +4410,6 @@ A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea
 ### CAPÍTULO VI. DESTRUCCIÓN DE PROPAGANDA POLÍTICA
 
 ### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
-
-### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 395.
 
@@ -4389,9 +4425,7 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
-
-> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 397.
 
@@ -4402,6 +4436,10 @@ Las penas establecidas para los delitos electorales se aplicarán sin perjuicio 
 (DEROGADO, D.O. 28 DE JUNIO DE 2014)
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE JUNIO DE 2014)</small>
+
+### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
+
+> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 399.
 
@@ -4966,3 +5004,11 @@ A partir de la entrada en vigor de este decreto, el patrimonio, el presupuesto d
 Quinto. Procedimientos, juicios y asuntos en trámite
 
 Todos los procedimientos, juicios y demás asuntos relacionados con las materias relacionadas con este decreto que se encuentren en trámite a su entrada en vigor, se substanciarán y resolverán hasta su total conclusión de conformidad con las normas aplicables al momento en que fueron iniciados.
+
+D.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 131/2019 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN EN MATERIA DE DELITOS INFORMÁTICOS”.]
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Artículo segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en este decreto.
