@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-vii-2008-del-comite-de-89778"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-12-09"
-last_updated: "2018-06-14"
+last_updated: "2019-11-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89778&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-09"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN VII/2008, DEL NUEVE DE DICIEMBRE DE DOS MIL OCHO, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A DIVERSAS ATRIBUCIONES ADMINISTRATIVAS DE LAS CASAS DE LA CULTURA JURÍDICA DE ESTE ALTO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN: DÉCIMA ÉPOCA, LIBRO 56, TOMO II, JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE NOVIEMBRE DE 2019.
 
 Acuerdo publicado en el Semanario Judicial de la Federación y su Gaceta, Tomo XXIX, Enero de 2009, páginas de la 3095 a la 3124.
 
@@ -639,9 +639,7 @@ Todas las adquisiciones de bienes o contratación de servicios que rebasen los m
 
 ###### Artículo 66.
 
-Tratándose de la adquisición de bienes o la contratación de servicios previstos en el PACAUSOP, a los que se refiere el artículo 64 de este Acuerdo, el Titular de la Casa con el auxilio del Enlace Administrativo deberá iniciar y desarrollar los concursos que resulten necesarios, en la inteligencia de que la adquisición de bienes y la contratación de servicios de hasta 30,000 UDIS, las realizará por adjudicación directa. Tratándose de la contratación de servicios que superen este monto y hasta 75,000 UDIS se regirán por el concurso público sumario en los términos previstos por el respectivo Acuerdo General del Comité de Gobierno y Administración de la Suprema Corte por el que se establecen los procedimientos para la adquisición de bienes, la contratación de servicios, obra pública y desincorporación de bienes que requiera este Alto Tribunal.
-
-En el caso de requerimientos no previstos en el PACAUSOP, la autorización de la adquisición o contratación respectiva deberá someterse a la consideración del Director General, el que se sujetará a la regulación administrativa aplicable.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, D.O.F. 26 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 67.
 
@@ -665,7 +663,7 @@ Adquisiciones y Servicios deberá registrar el alta del activo en la contabilida
 
 ###### Artículo 72.
 
-Los contratos de servicios que excedan las 35,000 UDIS requerirán de garantía de cumplimiento, misma que deberá ser solicitada al prestador del servicio por el Enlace Administrativo y quedar bajo la custodia del Titular de la Casa, quien una vez que reciba el servicio a entera satisfacción procederá a liberarla.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO CUARTO DEL ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, D.O.F. 26 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 73.
 
@@ -842,3 +840,29 @@ QUINTO. Se deja sin efectos el acuerdo de veintiuno de mayo de dos mil trece del
 SEXTO. Todas las comisiones y disertaciones iniciadas antes de la vigencia de este Acuerdo General que se encuentren pendientes de conclusión y comprobación, se continuarán tramitando hasta su término, conforme a las disposiciones vigentes al momento de su inicio.
 
 SÉPTIMO. Publíquese este Acuerdo General en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta física en términos de lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública.
+
+D.O.F. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN XIV/2019, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE SIETE DE NOVIEMBRE DE DOS MIL DIECINUEVE, POR EL QUE SE REGULAN LOS PROCEDIMIENTOS PARA LA ADQUISICIÓN, ARRENDAMIENTO, ADMINISTRACIÓN Y DESINCORPORACIÓN DE BIENES Y LA CONTRATACIÓN DE OBRAS Y PRESTACIÓN DE SERVICIOS REQUERIDOS POR LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se ABROGA el Acuerdo General de Administración VI/2008, del veinticinco de septiembre de dos mil ocho, del Comité de Gobierno y Administración de la Suprema Corte por el que se regulan los procedimientos para la adquisición, administración y desincorporación de bienes y la contratación de obras, usos y servicios requeridos por este Tribunal y los Lineamientos Temporales para la distribución de funciones establecidas en el Acuerdo General de Administración VI/2008, del veinticinco de septiembre de dos mil ocho, del Comité de Gobierno y Administración de la Suprema Corte por el que se regulan los procedimientos para la adquisición, administración y desincorporación de bienes y la contratación de obras, usos y servicios requeridos por este Tribunal.
+
+Todos los procedimientos de contratación iniciados durante la vigencia del Acuerdo General de Administración VI/2008 que se encuentren pendientes de conclusión, así como los actos de ejecución de los contratos derivados de los mismos, se continuarán tramitando hasta su terminación conforme a las disposiciones de dicho Acuerdo y las aplicables relacionadas con el mismo.
+
+A partir de la entrada en vigor del presente Acuerdo General, para efectos del monto de las contrataciones, obras y servicios y demás actos jurídicos regulados por este Acuerdo que suscriba este Alto Tribunal, por medio de los órganos y áreas competentes; se utilizará como unidad estandarizada la Unidad de Medida y Actualización aplicable en el ejercicio fiscal en que se haya celebrado el acto respectivo; en el entendido de que continuarán utilizándose las Unidades de Inversión para aquellos actos suscritos o celebrados con anterioridad a su entrada en vigor y hasta su debida terminación y pago;
+
+TERCERO. Se DEROGAN los artículos 153, 154, 155, 156 y 158 del Acuerdo General de Administración Número II/2019, del Presidente de la Suprema Corte, de trece de mayo de dos mil diecinueve, por el que se Establecen las normas Relativas a la Planeación, Programación, Presupuesto, Contabilidad y Evaluación del Gasto de la Suprema Corte, así como cualquier otra disposición que se oponga al contenido del presente Acuerdo General.
+
+CUARTO. Se DEROGAN los artículos 66 y 72 del Acuerdo General de Administración VII/2008, del nueve de diciembre de dos mil ocho, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, relativo a diversas atribuciones administrativas de las Casas de la Cultura Jurídica de este Alto Tribunal; en el entendido de que para los casos relativos a monto de autorizaciones y otorgamiento de fianzas en los diversos procedimientos que lleven a cabo los titulares de las Casas de la Cultura Jurídica, deberán seguir las disposiciones previstas en el presente Acuerdo General.
+
+QUINTO. A la entrada en vigor del presente Acuerdo quedarán sin efecto las directrices para la adquisición de material bibliohemerográfico y contratación de bases de datos, tratándose de aquellos que, por las necesidades de la Suprema Corte de Justicia de la Nación, se requiere contar con la oportunidad debida, facultando al Centro de Documentación y Análisis, Archivos y Compilación de Leyes para adquirir, de manera directa, material (sic) hasta 5 mil UDIS, que fueron autorizadas en el Acuerdo Extraordinario 1, de la Quinta Sesión ordinaria del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, celebrada el 10 de abril de 2012
+
+SEXTO. Hasta en tanto la Dirección General de Tecnologías de la Información realice las modificaciones y actualizaciones en el SIA que correspondan, lo cual deberá realizarse a más tardar el primero de enero de dos mil veinte, dicho Sistema funcionará como hasta la fecha se ha determinado, atendiendo a la normativa aplicable.
+
+SÉPTIMO. Dentro de los dos meses siguientes a la entrada en vigor de este Acuerdo General, el Comité deberá emitir la normativa y los formatos involucrados previstos en este ordenamiento, sin menoscabo de que hasta que estos entren en vigor se continuarán aplicando los vigentes a la fecha.
+
+OCTAVO. Tomando en consideración el contenido del artículo 212 del presente Acuerdo, las Direcciones Generales de Recursos Materiales y Presupuesto y Contabilidad deberán segregar y dar de baja de los registros de inventarios de activo fijo, los bienes muebles con valor unitario de adquisición menor a 70 veces el valor de la Unidad de Medida y Actualización (UMA), registrados antes de la entrada en vigor de dicha disposición como bienes de activo fijo, reclasificándolos como consumibles, y sujetos a diversos controles internos.
+
+NOVENO. Publíquese el presente Acuerdo General de Administración en el Semanario Judicial de la Federación y su Gaceta, en el Diario Oficial de la Federación, así como en el Portal de Internet e Intranet de la Suprema Corte.
