@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-17781"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-31"
-last_updated: "2019-04-26"
+last_updated: "2019-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el viernes 31 de marzo de 2000.
 
@@ -263,13 +263,17 @@ XXVIII.- Promover la colaboración efectiva de alumnos, maestros, directivos y d
 
 XXIX.- Proporcionar las facilidades necesarias para que las Autoridades Educativas y el Instituto Nacional realicen actividades de evaluación para fines estadísticos y de diagnóstico, y recaben directamente en las escuelas la información necesaria para realizar la evaluación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-XXX.- Desarrollar cursos y actividades que fortalezcan la enseñanza de los menores y sus padres o tutores, respecto de la prevención de la violencia escolar en cualquiera de sus manifestaciones, incluso a través del uso de las tecnologías de la información y la comunicación, y
+XXX.- Desarrollar cursos y actividades que fortalezcan la enseñanza de los menores y sus padres o tutores, respecto de la prevención de la violencia escolar en cualquiera de sus manifestaciones, incluso a través del uso de las tecnologías de la información y la comunicación;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-XXXI.- Las demás que establezca la legislación aplicable.
+XXXI.- Fomentar el uso del lenguaje incluyente y no sexista; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE NOVIEMBRE DE 2019)</small>
+
+XXXII.- Las demás que establezca la legislación aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -1293,9 +1297,9 @@ III.- Considerará lo previsto en la legislación aplicable.
 
 Esta educación incluye la corresponsabilidad de los padres o tutores, así como la orientación a los educadores y al personal de escuelas de educación básica y media superior regulares que atiendan alumnos con necesidades especiales de educación.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019)</small>
 
-Tratándose de menores de edad con discapacidades y con la condición del espectro autista, esta educación propiciará su integración e inclusión a las instituciones de educación básica regular y media superior, mediante evaluaciones pedagógicas, aplicación de métodos, técnicas y materiales específicos, a fin de fortalecer la posibilidad de una vida independiente. Para quienes no logren esta integración, se procurará la satisfacción de necesidades básicas de aprendizaje, tendientes a lograr una autónoma convivencia social y productiva, mediante instituciones oficiales que la Autoridad Educativa Estatal creará para ese efecto, destinando los recursos necesarios, para lo cual se elaborarán programas y los materiales de apoyo didácticos necesarios.
+Tratándose de menores de edad con discapacidades y con la condición del espectro autista, esta educación propiciará su integración e inclusión a las instituciones de educación básica regular y media superior, tomando en cuenta sus capacidades y potencialidades, mediante evaluaciones pedagógicas, aplicación de métodos, técnicas y materiales específicos, a fin de fortalecer la posibilidad de una vida independiente. Para quienes no logren esta integración, se procurará la satisfacción de necesidades básicas de aprendizaje, tendientes a lograr una autónoma convivencia social y productiva, mediante instituciones oficiales que la Autoridad Educativa Estatal creará para ese efecto, destinando los recursos necesarios, para lo cual se elaborarán programas y los materiales de apoyo didácticos necesarios.
 
 > <small>(ADICIONADO, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -2094,6 +2098,22 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 P.O. 26 DE ABRIL DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XXX Y XXXI Y ADICIONA LA FRACCIÓN XXXII AL ARTÍCULO 8 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PENÚLTIMO PÁRRAFO DEL ARTÍCULO 65 DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
