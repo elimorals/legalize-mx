@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5696
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-20"
-last_updated: "2019-10-23"
+last_updated: "2019-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE NOVIEMBRE DE 2019.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 20 de septiembre de 2007.
 
@@ -151,13 +151,13 @@ VI. Violencia Política: Es el conjunto de acciones u omisiones cometidas por un
 
 VII. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden culminar en homicidio y otras formas de muerte violenta de mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2019)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE SEPTIEMBRE DE 2019) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2019)
 
-VIII. Violencia digital: Son aquellos actos de violencia de género cometidos en parte o totalmente, cuando se utilicen las tecnologías de la información y la comunicación, plataformas de redes sociales, correo electrónico, mensajes de texto o llamadas vía teléfono celular, que causen daño psicológico o emocional, refuercen los prejuicios, dañen la reputación, causen pérdidas económicas, planteen barreras a la participación en la vida pública o privada de la víctima o puedan conducir a formas de violencia sexual o física; y
+VIII. Violencia Digital: Son aquellos actos de violencia de género cometidos en parte o totalmente, cuando se utilicen las tecnologías de la información y la comunicación, plataformas de redes sociales, correo electrónico, mensajes de texto o llamadas vía teléfono celular, que causen daño psicológico o emocional, refuercen los prejuicios, dañen la reputación, causen pérdidas económicas, planteen barreras a la participación en la vida pública o privada de la víctima o puedan conducir a formas de violencia sexual o física;
 
-> <small>(ADICIONADA [N. DE E. CON LOS INCISOS QUE LA INTEGRAN], P.O. 23 DE OCTUBRE DE 2019)</small>
+(ADICIONADA [N. DE E. CON LOS INCISOS QUE LA INTEGRAN], P.O. 23 DE OCTUBRE DE 2019) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2019)
 
-VIII (SIC). Violencia Obstétrica: Es toda conducta u omisión por parte del personal de servicios de salud que tenga como consecuencia la pérdida de la autonomía y capacidad de la mujer para decidir libremente sobre su parto y sexualidad y que por negligencia y/o una deshumanizada atención médica durante el embarazo, parto o puerperio dañe, lastime o denigre a las mujeres de cualquier edad, que le genere una afectación física, psicológica o moral, que incluso llegue a provocar la pérdida de la vida de la mujer o, en su caso, del producto de la gestación o del recién nacido, derivado de la prestación de servicios médicos, mediante:
+VIII Bis. Violencia Obstétrica: Es toda conducta u omisión por parte del personal de servicios de salud que tenga como consecuencia la pérdida de la autonomía y capacidad de la mujer para decidir libremente sobre su parto y sexualidad y que por negligencia y/o una deshumanizada atención médica durante el embarazo, parto o puerperio dañe, lastime o denigre a las mujeres de cualquier edad, que le genere una afectación física, psicológica o moral, que incluso llegue a provocar la pérdida de la vida de la mujer o, en su caso, del producto de la gestación o del recién nacido, derivado de la prestación de servicios médicos, mediante:
 
 a) No atender oportuna y eficazmente las emergencias obstétricas;
 
