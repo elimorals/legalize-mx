@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-para-la-igualdad-de-genero-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-02"
-last_updated: "2017-08-02"
+last_updated: "2019-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección al Número 309 del Periódico Oficial del Estado de Chiapas, el miércoles 2 de agosto de 2017.
 
@@ -1285,7 +1285,11 @@ V. Canalizar a las víctimas de violencia a las instituciones que les presten as
 
 VI. Hacer del conocimiento del Ministerio Público, aquellos casos que se presuma que una mujer ha sido víctima de violencia, de acuerdo con las Normas Oficiales Mexicanas aplicables.
 
-VII. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE NOVIEMBRE DE 2019)</small>
+
+VII. Diseñar, promover y ejecutar acciones que fomenten las investigaciones y mecanismos para definir, medir, detectar y erradicar la violencia obstétrica.
+
+VIII. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 88.
 
@@ -1578,3 +1582,11 @@ Dado en el Salón de Sesiones Sergio Armando Valls Hernández del Honorable Cong
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 28 días del mes de Julio del año Dos Mil Diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 020 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES Y DE LA LEY DE SALUD DEL ESTADO DE CHIAPAS, EN MATERIA DE VIOLENCIA OBSTÉTRICA”.]
+
+Artículo Único. - El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
