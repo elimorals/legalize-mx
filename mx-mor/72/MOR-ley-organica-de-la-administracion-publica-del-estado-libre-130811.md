@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-libre-1308
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-10-04"
-last_updated: "2019-05-22"
+last_updated: "2019-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE NOVIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE NOVIEMBRE DE 2019.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 4 de octubre de 2018.
 
@@ -1737,7 +1737,7 @@ Respecto al nombramiento, facultades, operación y responsabilidades de los titu
 
 En los casos de escisión, fusión y liquidación de empresas de participación estatal mayoritaria, aquellas se realizarán en los términos previstos en sus estatutos y en la legislación correspondiente, con la intervención de la Secretaría coordinadora de sector, para señalar la forma y términos conforme a los cuales deba hacerse la fusión y la liquidación, que se harán conforme a las normas establecidas por la Secretaría de Hacienda, pero sin que ello implique oposición a los estatutos de dichas empresas y cuidará siempre la protección que debe darse al interés público, a los accionistas o titulares de partes sociales y los derechos, que en materia laboral, corresponden en la empresa a los servidores públicos.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. (REFORMADO, P.O. 22 DE MAYO DE 2019) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 95.
 
@@ -1791,17 +1791,17 @@ PATRIMONIO DEL INSTITUTO
 
 ###### Artículo 101.
 
-La asistencia social en el Estado se prestará por conducto de un organismo público descentralizado, denominado Sistema para el Desarrollo Integral de la Familia, que tendrá por objeto ejecutar los programas y acciones sobre la materia; sin perjuicio de la competencia que legalmente corresponda a la Procuraduría de Protección de Niñas, Niños y Adolescentes y la familia.
+La asistencia social en el Estado se prestará por conducto de un Organismo Público Descentralizado, denominado Sistema para el Desarrollo Integral de la Familia, que tendrá por objeto ejecutar los programas y acciones sobre la materia.
 
 ###### Artículo 102.
 
 El Sistema para el Desarrollo Integral de la Familia se incorporará a los programas nacionales de salud en el campo de asistencia social, a fin de lograr el apoyo y colaboración técnica y administrativa para alcanzar su finalidad asistencial en beneficio de la población del Estado.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(F. DE E., P.O. 27 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 103.
 
-La asistencia social en el Estado se prestará por conducto de un Organismo Público Descentralizado, denominado Sistema para el Desarrollo Integral de la Familia, que tendrá por objeto ejecutar los programas y acciones sobre la materia.
+Para el desarrollo de sus actividades, el organismo contará, además de las partidas que se le asignen en el Presupuesto de Egresos, con los subsidios, subvenciones y demás ingresos que los Gobiernos Federal y Estatal le otorguen, así como las aportaciones, donaciones, legados y demás liberalidades que reciba; las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la ley y, en general, los demás bienes, muebles e inmuebles, derechos e ingresos que obtenga por cualquier título.
 
 DISPOSICIONES TRANSITORIAS
 
