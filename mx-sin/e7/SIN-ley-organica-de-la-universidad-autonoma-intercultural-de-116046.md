@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-de-la-universidad-autonoma-intercultural-de-116046
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-19"
-last_updated: "2016-08-19"
+last_updated: "2019-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "SIN"
 
 (NOTA: EL 28 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 84/2016, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 624, POR EL QUE SE EXPIDE ESTA LEY ORGÁNICA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DIECINUEVE DE AGOSTO DE DOS MIL DIECISÉIS, LA CUAL SURTE EFECTOS A LOS DOCE MESES SIGUIENTES A SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA INDÍGENA DE MÉXICO DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA INTERCULTURAL DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 19 de agosto de 2016.
 
@@ -582,3 +584,31 @@ C. Gerardo O. Vargas Landeros
 Secretario de Educación Pública y Cultura
 
 C. Gómer Monárrez González
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 340 DEL H. CONGRESO DEL ESTADO.- LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA INDÍGENA DE MÉXICO."]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se abroga la Ley Orgánica de la Universidad Autónoma Intercultural de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" No. 101, de fecha 19 de agosto de 2016.
+
+TERCERO. Los Estatutos y Reglamentos a que se refiere esta Ley deberán ser expedidos por el nuevo Consejo Universitario, en un plazo que no excederá de ciento veinte días, contados a partir de la fecha de su instalación.
+
+Mientras tanto, continuarán aplicándose los ordenamientos vigentes de la Universidad Autónoma Intercultural de Sinaloa que no se contrapongan a la misma.
+
+CUARTO. El nuevo Consejo Universitario deberá quedar instalado en un plazo que no excederá de noventa días a partir de la entrada en vigor de esta Ley.
+
+La convocatoria respectiva se emitirá, a más tardar, dentro de los treinta días posteriores a la entrada en vigor del presente Decreto.
+
+QUINTO. La actual titular de Rectoría permanecerá en su cargo hasta la conclusión del periodo para el cual fue designada.
+
+SEXTO. Para todos los efectos a que hubiere lugar, la Universidad Autónoma Indígena de México sustituye a la Universidad Autónoma Intercultural de Sinaloa, por lo que se convierte en patrón sustituto y reconoce los derechos de antigüedad y condiciones de trabajo del personal de la Universidad Autónoma Intercultural de Sinaloa.
+
+De igual manera, los bienes muebles e inmuebles con que actualmente cuenta la Universidad Autónoma Intercultural de Sinaloa, pasarán a formar parte del patrimonio de la Universidad Autónoma Indígena de México, al inicio de la vigencia de este Decreto, mediante el proceso de entrega recepción correspondiente.
+
+SÉPTIMO. Los procedimientos y recursos administrativos que se hayan iniciado por las autoridades conforme a las leyes o reglamentos aplicables antes de la entrada en vigor de esta Ley y que se encuentren en trámite o pendientes de resolución, deberán sustanciarse y resolverse conforme a las disposiciones vigentes en el momento en el que se iniciaron tales procedimientos.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
