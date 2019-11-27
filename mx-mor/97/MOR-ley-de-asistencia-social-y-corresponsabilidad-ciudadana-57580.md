@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-asistencia-social-y-corresponsabilidad-ciudadana-57580"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2019-08-28"
+last_updated: "2019-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MOR"
 LEY DE ASISTENCIA SOCIAL Y CORRESPONSABILIDAD CIUDADANA PARA EL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 21 de noviembre de 2007.
 
