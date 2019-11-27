@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2019-10-30"
+last_updated: "2019-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -323,9 +323,9 @@ Las disposiciones que conforme a las leyes correspondan al Banco, por su propio 
 
 Las autorizaciones, opiniones y consultas respecto a entidades o intermediarios financieros, así como las observaciones y veto a comisiones que conforme a las leyes correspondan al Banco, por su propio derecho o como fiduciario, deberán ser firmadas por un funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central, junto con un funcionario de la Dirección que, conforme a este Reglamento, sea competente para atender y resolver el asunto de que se trate.
 
-> <small>(REFORMADO, D.O.F. 30 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
 
-Los requerimientos de información y notificaciones respecto de probables infracciones a las disposiciones que, conforme a las leyes aplicables, corresponda al Banco proveer a su observancia, serán firmados, en términos del primer párrafo del presente artículo, por funcionarios de la Unidad Administrativa que, conforme a este Reglamento, sea competente para supervisar el cumplimiento de las disposiciones respectivas o bien, por un funcionario de la Dirección de Regulación y Supervisión, junto con un funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central. Asimismo, las sanciones que imponga el Banco a las entidades financieras o intermediarios financieros serán firmadas por un funcionario de la Dirección de Regulación y Supervisión, junto con un funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central.
+Los requerimientos de información y notificaciones respecto de probables infracciones a las disposiciones que, conforme a las leyes aplicables, corresponda al Banco proveer a su observancia, serán firmados, en términos del primer párrafo del presente artículo, por funcionarios de la Unidad Administrativa que, conforme a este Reglamento, sea competente para supervisar el cumplimiento de las disposiciones respectivas o bien, por estos junto con un funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central. Asimismo, las sanciones que imponga el Banco a las entidades financieras o intermediarios financieros serán firmadas por un funcionario de la Dirección de Autorizaciones y Sanciones de Banca Central, junto con un funcionario de la Unidad Administrativa que, conforme al propio Reglamento, sea competente para supervisar el cumplimiento de las disposiciones respectivas. Cualquiera de las referidas Unidades Administrativas que participen en la firma de las sanciones respectivas podrá notificar estas y los demás actos del procedimiento sancionador en cuya emisión participe, a las entidades o intermediarios financieros de que se trate.
 
 > <small>(ADICIONADO, D.O.F. 30 DE OCTUBRE DE 2019)</small>
 
@@ -443,9 +443,9 @@ II. Supervisar el cumplimiento de las disposiciones, autorizaciones, observacion
 
 III. Diseñar e implementar, en coordinación con la Dirección de Política y Estudios de Sistemas de Pagos e Infraestructuras de Mercados, los programas de ajuste de cumplimiento forzoso tendientes a eliminar irregularidades en los Sistemas de Pagos e Infraestructuras de los Mercados, en términos de la Ley de Sistemas de Pagos.
 
-> <small>(REFORMADA, D.O.F. 30 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
 
-IV. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección de Autorizaciones y Sanciones de Banca Central, en términos del artículo 8o., las sanciones o medidas correctivas en términos de Ley.
+IV. Participar en la imposición de sanciones a las entidades e intermediarios financieros por infracciones a las disposiciones cuyo cumplimiento le corresponda supervisar conforme a este artículo.
 
 V. Cumplir con una labor de vigilancia sobre el cumplimiento en las infraestructuras de los mercados financieros de los principios para las infraestructuras financieras publicados por el Banco de Pagos Internacionales.
 
@@ -589,9 +589,9 @@ En las ausencias de los Cajeros Regionales de las sucursales, los Jefes de la Of
 
 VII. Custodiar la colección numismática del Banco;
 
-> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Proporcionar, en el ámbito de su competencia, a la Dirección General de Asuntos del Sistema Financiero, la información y documentación necesaria para que esta imponga, junto con la Dirección de Autorizaciones y Sanciones de Banca Central, las sanciones a que se refiere el artículo 48 Bis 1 de la Ley de Instituciones de Crédito;
+VIII. Participar en la imposición de sanciones a las entidades e intermediarios financieros por infracciones a las disposiciones cuyo cumplimiento le corresponda supervisar conforme a este artículo.
 
 IX. (DEROGADA, D.O.F. 15 DE AGOSTO DE 2017)
 
@@ -673,9 +673,9 @@ VII. Proporcionar dictámenes e información legal que corresponda dar al Banco,
 
 ARTICULO 17 BIS.- La Dirección de Autorizaciones y Sanciones de Banca Central tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, D.O.F. 30 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
 
-I. Imponer, junto con la Dirección de Regulación y Supervisión, las sanciones procedentes a las entidades e intermediarios financieros.
+I. Imponer, junto con la Unidad Administrativa que conforme a este Reglamento sea competente para supervisar el cumplimiento de las disposiciones respectivas, las sanciones procedentes a las entidades e intermediarios financieros.
 
 II. Resolver las solicitudes de autorización y las consultas que, de conformidad con las disposiciones aplicables al Sistema Financiero, sean planteadas al Banco con respecto a entidades o intermediarios financieros.
 
@@ -694,6 +694,10 @@ VIII. Participar en los procedimientos de formulación de observaciones y veto a
 > <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2019)</small>
 
 IX. Auxiliar a las Unidades Administrativas que, conforme a este Reglamento, sean competentes para supervisar el cumplimiento de las disposiciones aplicables a las entidades e intermediarios financieros, así como a los Sistemas de Pagos e Infraestructuras de Mercados, en la preparación de requerimientos de información y notificaciones respecto de probables infracciones a dichas disposiciones, que las referidas Unidades Administrativas puedan emitir en ejercicio de dicha atribución.
+
+> <small>(ADICIONADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
+
+X. Publicar las sanciones que el Banco de México imponga a las entidades o intermediarios financieros.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 30 DE MAYO DE 2018)</small>
 
@@ -821,9 +825,9 @@ XVIII. Participar en los procesos de selección de tecnologías y mecanismos de 
 
 XIX. Supervisar el cumplimiento de las disposiciones señaladas en la fracción VIII del artículo 29 Bis, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades o intermediarios financieros, en materia de seguridad de la información. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
 
-> <small>(ADICIONADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
 
-XX. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección de Autorizaciones y Sanciones de Banca Central, las sanciones que correspondan, en términos del artículo 8o.
+XX. Participar en la imposición de sanciones a las entidades e intermediarios financieros por infracciones a las disposiciones cuyo cumplimiento le corresponda supervisar conforme a este artículo.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -1157,13 +1161,11 @@ VI. Supervisar, sin perjuicio de aquellas otras atribuciones conferidas a las Un
 
 VII. Dar seguimiento a las operaciones que hayan realizado las entidades e intermediarios financieros, en las que existan elementos para suponer que no cumplen con las disposiciones expedidas por el Banco;
 
-> <small>(ADICIONADA, D.O.F. 30 DE OCTUBRE DE 2019)</small>
+VII Bis. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2019)
 
-VII Bis. Auxiliar a las Unidades Administrativas que, conforme a este Reglamento, sean competentes para supervisar el cumplimiento de las disposiciones aplicables a las entidades e intermediarios financieros, así como a los Sistemas de Pagos e Infraestructuras de Mercados, en la preparación de notificaciones respecto de probables infracciones a dichas disposiciones, que las referidas Unidades Administrativas puedan emitir en ejercicio de dicha atribución;
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE OCTUBRE DE 2019)</small>
-
-VIII. Participar en la imposición de sanciones a las entidades e intermediarios financieros;
+VIII. Participar en la imposición de sanciones a las entidades e intermediarios financieros por infracciones a las disposiciones cuyo cumplimiento le corresponda supervisar conforme a este artículo.
 
 IX. (DEROGADA, D.O.F. 10 DE FEBRERO DE 2011)
 
@@ -1181,13 +1183,9 @@ XII. Coordinar con las respectivas Unidades Administrativas competentes la parti
 
 XIII. Coordinar la inspección que, en el ámbito de sus competencias, realicen las demás Unidades Administrativas. La atribución de coordinación comprenderá, de manera enunciativa más no limitativa, la planeación de las visitas y de su ejecución ya sea que se realicen por el Banco solamente o con otras autoridades, la determinación del programa de visitas considerando los objetivos y finalidades del Banco, así como la integración y entrega de los resultados de la inspección a las entidades o intermediarios financieros y a otras autoridades;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+XIV. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2019)
 
-XIV. Notificar las sanciones y demás actos en cuya emisión participe, sin perjuicio de lo previsto en el artículo 28, fracción I, de este Reglamento, y
-
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
-
-XV. Publicar las sanciones que el Banco imponga a las entidades o intermediarios financieros.
+XV. (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2019)
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -1467,7 +1465,9 @@ V. Emitir políticas, lineamientos y estrategias institucionales para establecer
 
 VI. Supervisar el cumplimiento de las disposiciones, así como el cumplimiento de la entrega y veracidad de la información que el Banco solicite o recabe de las entidades o intermediarios financieros, en materia de interconexión a la infraestructura de cómputo y telecomunicaciones del Banco. La facultad de supervisión comprenderá las de vigilancia e inspección. Esta última deberá ejercerse en coordinación con la Dirección de Regulación y Supervisión.
 
-VII. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección de Autorizaciones y Sanciones de Banca Central, las sanciones que correspondan, en términos del artículo 8o.
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
+
+VII. Participar en la imposición de sanciones a las entidades e intermediarios financieros por infracciones a las disposiciones cuyo cumplimiento le corresponda supervisar conforme a este artículo.
 
 > <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
@@ -1503,9 +1503,9 @@ VII. Representar al Banco de México en foros especializados y ante otras autori
 
 VIII. Participar en el diseño, elaboración y, en su caso, expedición de disposiciones en materia de seguridad de la información, aplicables a las entidades e intermediarios financieros en el ámbito de las atribuciones del Banco de México; así como en la atención de autorizaciones, consultas y opiniones relacionadas con sus atribuciones.
 
-> <small>(REFORMADA, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2019)</small>
 
-IX. Proporcionar la información y documentación que requieran la Dirección de Seguridad y Organización de la Información y la Dirección de Regulación y Supervisión, para realizar la evaluación, supervisión y seguimiento de las disposiciones señaladas en la fracción anterior.
+IX. Proporcionar la información y documentación que requiera la Dirección de Seguridad y Organización de la Información para realizar la evaluación, supervisión y seguimiento de las disposiciones señaladas en la fracción anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 2017)</small>
 
@@ -3006,3 +3006,19 @@ SEGUNDO. Todas las referencias a las Unidades Administrativas que en virtud de l
 TERCERO. Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de estas modificaciones y que, conforme a las mismas, correspondan ser atendidos por una Unidad Administrativa diversa a la que haya estado a cargo de ellos hasta dicha entrada en vigor, continuarán su trámite y serán resueltos por aquella o aquellas Unidades Administrativas a las que se les atribuya la competencia en este ordenamiento.
 
 CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 27 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS "MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO".]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Todas las referencias a las Unidades Administrativas que en virtud de la entrada en vigor de las presentes modificaciones hayan desaparecido, cambiado de denominación o de adscripción, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las Unidades Administrativas que las sustituyan o cuenten con las atribuciones respectivas.
+
+TERCERO. Los procedimientos sancionadores iniciados con anterioridad a la entrada en vigor de las presentes modificaciones al Reglamento Interior del Banco de México continuarán tramitándose hasta su resolución, conforme a las disposiciones aplicables del citado Reglamento vigentes hasta antes de la entrada en vigor de estas reformas.
+
+Los procedimientos sancionadores que deriven de probables infracciones detectadas con anterioridad al 1 de abril de 2018 se iniciarán y tramitarán hasta su resolución, conforme a las disposiciones aplicables del Reglamento Interior del Banco de México que se encontraban vigentes antes de la entrada en vigor de las presentes modificaciones.
+
+CUARTO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados conservarán todo su valor y fuerza legales.
+
+Las presentes modificaciones al Reglamento Interior del Banco de México fueron aprobadas por su Junta de Gobierno, con fundamento en lo dispuesto por el artículo 46, fracción XVI, de la Ley del Banco de México, en sesión del 23 de octubre de 2019.
