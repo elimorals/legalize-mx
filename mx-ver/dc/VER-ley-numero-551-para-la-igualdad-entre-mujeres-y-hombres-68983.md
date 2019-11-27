@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-551-para-la-igualdad-entre-mujeres-y-hombres-68983"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-22"
-last_updated: "2014-06-20"
+last_updated: "2019-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 551 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 20 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 27 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 22 de junio de 2009.
 
@@ -435,9 +435,21 @@ V. Vincular todas las acciones financiadas para el logro de la igualdad;
 
 VI. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación, promoción y permanencia del personal en la administración pública;
 
-VII. Diseñar políticas y programas de desarrollo y de reducción de la pobreza para lograr la igualdad; y
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que apliquen políticas y prácticas en la materia.
+VII. Diseñar políticas y programas de desarrollo y de reducción de la pobreza para lograr la igualdad;
+
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que apliquen políticas y prácticas en la materia;
+
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2019)</small>
+
+IX. Garantizar el otorgamiento de salarios iguales a mujeres y hombres por trabajos iguales, desempeñados en puestos, jornadas y condiciones de eficiencia idénticas, dentro de la administración pública estatal y municipal, Poderes Legislativo y Judicial, en los organismos autónomos, así como en los ámbitos social y privado; y
+
+> <small>(ADICIONADA, G.O. 27 DE NOVIEMBRE DE 2019)</small>
+
+X. Establecer el principio de paridad de género en la conformación de la planta laboral de la administración pública estatal y municipal.
 
 ### CAPÍTULO CUARTO. De la Igualdad entre Mujeres y Hombres en el Ámbito de la Participación Política
 
@@ -479,7 +491,9 @@ III. Integrar el principio de igualdad en el ámbito de la protección social;
 
 IV. Impulsar acciones que aseguren la igualdad sustantiva en el ejercicio de los derechos sociales de mujeres y hombres;
 
-V. Promover campañas estatales de concientización para mujeres y hombres sobre su participación igualitaria en la atención de las personas dependientes de ellos;
+> <small>(REFORMADA, G.O. 27 DE NOVIEMBRE DE 2019)</small>
+
+V. Promover la responsabilidad compartida entre hombres y mujeres en el cuidado de niñas, niños, personas enfermas, personas de la tercera edad y en el trabajo doméstico;
 
 VI. Mejorar los sistemas estatales de inspección del trabajo, en lo que se refiere a las normas de igualdad de retribución; y
 
@@ -590,3 +604,11 @@ G.O. 20 DE JUNIO DE 2014.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Los ayuntamientos que a la entrada en vigor de este Decreto no tengan integrado su Sistema Municipal para la Igualdad entre Mujeres y Hombres, contarán con un plazo improrrogable de quince días para cumplir esta obligación.
+
+G.O. 27 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 300 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE VERACRUZ”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
