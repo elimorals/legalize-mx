@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2019-10-28"
+last_updated: "2019-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,11 @@ issue_date: "2017-02-05"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE DICIEMBRE DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 2019.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -1912,6 +1914,8 @@ E. Del funcionamiento del Congreso de la Ciudad de México
 
 8. El Congreso de la Ciudad de México contará con una Oficina Presupuestal, con carácter de órgano especializado con autonomía técnica y de gestión, a cargo de integrar y proporcionar información y estudios objetivos para contribuir al cumplimiento de sus facultades en materia hacendaria. La ley desarrollará su estructura y organización.
 
+> <small>[N. DE E. DE LA APLICACIÓN DEL DECRETO PUBLICADO EL 27 DE NOVIEMBRE DE 2019, SE ADVIERTE ÚNICAMENTE LA ACTUALIZACIÓN DE LAS AUTORIDADES Y ÓRGANOS FACULTADOS PARA INICIAR LEYES O DECRETOS, SE SUGIERE CONSULTAR LA HISTORIA LEGISLATIVA DE ESTE ARTÍCULO, G.O. 27 DE NOVIEMBRE DE 2019, PÁGINAS 5 Y 6]</small>
+
 Artículo 30
 
 De la iniciativa y formación de las leyes
@@ -1924,11 +1928,21 @@ b) Las diputadas y diputados al Congreso de la Ciudad de México;
 
 c) Las alcaldías;
 
-d) El Tribunal Superior de Justicia de la Ciudad de México, en las materias de su competencia; y
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2019)</small>
 
-e) Las y los ciudadanos que reúnan al menos el cero punto trece por ciento de la lista nominal de electores vigente en los términos previstos por esta Constitución y las leyes. Para que la iniciativa ciudadana sea considerada preferente deberá cumplir con lo establecido en el numeral 4 del apartado B del artículo 25 de esta Constitución.
+d) El Tribunal Superior de Justicia de la Ciudad de México, en las materias de su competencia;
 
-f) Los organismos autónomos, en las materias de su competencia.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE NOVIEMBRE DE 2019)</small>
+
+e) El Tribunal de Justicia Administrativa de la Ciudad de México, en las materias de su competencia;
+
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2019)</small>
+
+f) Las y los ciudadanos que reúnan al menos el cero punto trece por ciento de la lista nominal de electores vigente en los términos previstos por esta Constitución y las leyes. Para que la iniciativa ciudadana sea considerada preferente deberá cumplir con lo establecido en el numeral 4 del apartado B del artículo 25 de esta Constitución, y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 27 DE NOVIEMBRE DE 2019)</small>
+
+g) Los organismos autónomos, en las materias de su competencia.
 
 2. Las leyes establecerán los requisitos para la presentación de estas iniciativas.
 
@@ -2652,7 +2666,9 @@ a) Promover el respeto de los derechos humanos de toda persona;
 
 b) Definir los supuestos en los que las violaciones a los derechos humanos se considerarán graves;
 
-c) Iniciar e investigar, de oficio o a petición de parte, cualquier hecho o queja conducente al esclarecimiento de presuntas violaciones a los derechos reconocidos por esta Constitución;
+> <small>(REFORMADO, G.O. 27 DE NOVIEMBRE DE 2019)</small>
+
+c) Iniciar e investigar, de oficio o a petición de parte, cualquier hecho o queja conducente al esclarecimiento de presuntas violaciones a los derechos reconocidos por esta Constitución; y con base en ellas y la participación de las víctimas sugerir las medidas de reparación integral del daño para las víctimas de esas violaciones;
 
 d) Formular recomendaciones públicas y dar seguimiento a las mismas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia. Cuando las recomendaciones no sean aceptadas por las autoridades o las personas servidoras públicas, éstas deberán fundar, motivar y hacer pública su negativa;
 
@@ -4129,3 +4145,23 @@ Primero: El presente decreto entrará en vigor, al día siguiente de su publicac
 Segundo. Remítase a la Jefa de Gobierno para efectos de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 Tercero. Para el cumplimiento de lo dispuesto en el inciso e, del numeral 5, del apartado A, del artículo 44 la persona Titular de la Jefatura de Gobierno, deberá ordenar la realización de los exámenes señalados de la persona que habrá de proponer al Congreso y remitir el resultado de los mismos, al momento de hacer su propuesta.
+
+G.O. 27 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL INCISO C) DEL NUMERAL 4, DEL ARTÍCULO 48 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. - El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. - Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 27 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
