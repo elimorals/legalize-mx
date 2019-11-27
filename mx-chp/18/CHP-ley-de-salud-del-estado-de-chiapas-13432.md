@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-salud-del-estado-de-chiapas-13432"
 country: "mx"
 rank: "ley"
 publication_date: "1998-08-12"
-last_updated: "2019-05-29"
+last_updated: "2019-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE SALUD DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el miércoles 12 de agosto de 1998.
 
@@ -778,6 +778,10 @@ I.- PROCEDIMIENTOS QUE PERMITAN LA PARTICIPACION ACTIVA DE LA FAMILIA EN LA PREV
 II.- ACCIONES DE ORIENTACION Y VIGILANCIA INSTITUCIONAL, FOMENTO A LA LACTANCIA MATERNA Y AMAMANTAMIENTO, INCENTIVANDO A QUE LA LECHE MATERNA SEA ALIMENTO EXCLUSIVO DEL RECIEN NACIDO DURANTE SEIS MESES Y COMPLEMENTARIO HASTA AVANZADO EL SEGUNDO AÑO DE VIDA Y, EN SU CASO, LA AYUDA ALIMENTARIA DIRECTA TENDIENTE A MEJORAR EL ESTADO DE SALUD NUTRICIONAL DE LA MADRE Y DE LA HIJA O EL HIJO; ADEMAS DE IMPULSAR LA INSTALACION DE LACTARIOS EN LOS CENTROS DE TRABAJO DE LOS SECTORES PUBLICO Y PRIVADO, Y
 
 III.- ACCIONES PARA CONTROLAR LAS ENFERMEDADES PREVENIBLES POR VACUNACION Y LAS INFECCIONES RESPIRATORIAS AGUDAS, PROCESOS DIARREICOS DE LOS MENORES DE CINCO AÑOS.
+
+> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2019)</small>
+
+IV.- LAS ACCIONES NECESARIAS PARA PREVENIR, IDENTIFICAR, ATENDER Y ERRADICAR LA VIOLENCIA OBSTETRICA CONTRA LAS MUJERES, GARANTIZADO UN TRATO DIGNO DURANTE EL EMBARAZO, PARTO Y PUERPERIO.
 
 ###### ARTICULO 51.
 
@@ -3890,3 +3894,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Las acciones que realicen las dependencias de la Administración Pública del Estado para dar cumplimiento al presente Decreto, se sujetarán a los programas presupuestarios en la materia y se cubrirán con los recursos asignados en el Presupuesto de Egresos del ejercicio fiscal de que se trate, por lo que no se autorizará recursos adiciones (sic) para el presente ejercicio fiscal.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se oponga (sic) a lo dispuesto en el Presente Decreto.
+
+P.O. 27 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 020 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO CONSTITUCIONAL PARA LA IGUALDAD DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES Y DE LA LEY DE SALUD DEL ESTADO DE CHIAPAS, EN MATERIA DE VIOLENCIA OBSTÉTRICA”.]
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
