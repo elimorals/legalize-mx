@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2019-08-28"
+last_updated: "2019-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
+[NOTA 3: DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL "DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO", PUBLICADO EN P.O. 10 DE ABRIL DE 2019]
+
 [NOTA 1: DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA TERCERA DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, PUBLICADA EN EL P.O. DE 4 DE OCTUBRE DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 [NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 3: DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL "DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO", PUBLICADO EN P.O. 10 DE ABRIL DE 2019]
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE NOVIEMBRE DE 2019.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -1919,13 +1921,11 @@ IV. Proporcionar al comité técnico, en forma mensual, la información contable
 
 V. Acatar las demás órdenes que emita el comité técnico.
 
+(REFORMADO, P.O. 22 DE MAYO DE 2019) (F. DE E., P.O. 27 DE NOVIEMBRE DE 2019)
+
 ###### Artículo 101.
 
-Los contratos de los fideicomisos también deberán precisar las facultades especiales, que adicionalmente a las que establece esta Ley para los órganos de gobierno, determine el Gobernador del Estado para el comité técnico, y señalarán en todos los casos, cuales asuntos requiere de la aprobación de este último para el ejercicio de acciones y derechos que correspondan al fiduciario.
-
-Además, la institución fiduciaria se abstendrá de ejecutar actos o cumplir resoluciones que dicte el comité técnico en exceso de las facultades que expresamente lo determine el fideicomitente o en violación a las cláusulas del contrato de fideicomiso.
-
-Por otra parte, cuando para el cumplimiento de la encomienda fiduciaria sea necesaria la realización de actos urgentes, cuya omisión pueda causar graves perjuicios al patrimonio del fideicomiso y si por cualquiera circunstancia no fuera posible reunir al comité técnico, la institución fiduciaria deberá consultar al Gobernador del Estado, por conducto de la dependencia coordinadora de sector, la que autorizará la ejecución de aquellos actos que considere convenientes.
+La asistencia social en el Estado se prestará por conducto de un Organismo Público Descentralizado, denominado Sistema para el Desarrollo Integral de la Familia, que tendrá por objeto ejecutar los programas y acciones sobre la materia.
 
 ###### Artículo 102.
 
@@ -1933,13 +1933,11 @@ El Gobernador del Estado en los contratos constitutivos de fideicomisos de la ad
 
 ## TÍTULO QUINTO. DE LA ASISTENCIA SOCIAL
 
-### CAPÍTULO ÚNICO.
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+### CAPÍTULO ÚNICO.. (REFORMADO, P.O. 11 DE JULIO DE 2018) (F. DE E., 27 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 103.
 
-La asistencia social en el Estado se prestará por conducto de un Organismo Público Descentralizado, denominado Sistema para el Desarrollo Integral de la Familia, que tendrá por objeto ejecutar los programas y acciones sobre la materia.
+La asistencia social en el Estado se prestará por conducto de un organismo público descentralizado, denominado Sistema para el Desarrollo Integral de la Familia, que tendrá por objeto ejecutar los programas y acciones sobre la materia; sin perjuicio de la competencia que legalmente corresponda a la Procuraduría de Protección de Niñas, Niños y Adolescentes y la familia.
 
 ###### Artículo 104.
 
