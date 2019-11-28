@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2019-11-11"
+last_updated: "2019-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2653,13 +2653,13 @@ I. Acceder a la información contenida en un aparato para el procesamiento de da
 
 II. Interferir el buen funcionamiento de un sistema operativo, programa de computadora, base de datos o cualquier archivo informático, sin autorización de su propietario o poseedor legítimo.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-Al responsable del Acceso Informático Indebido se le aplicará de 3 a 6 meses de prisión, de 150 a 300 días multa así como el pago de la reparación de los daños y perjuicios ocasionados. Si quien realiza el Acceso Informático Indebido es el responsable del mantenimiento o seguridad del sistema de información sobre el que se perpetra, se le aplicará de 2 a 6 meses de prisión, de 300 a 600 días multa así como el pago de la reparación de daños y perjuicios ocasionados.
+Al responsable del Acceso Informático Indebido se le aplicará de 3 a 6 meses de prisión, de 150 a 300 días multa así como el pago de la reparación de los daños y perjuicios ocasionados. Si quien realiza el Acceso Informático Indebido es el responsable del mantenimiento o seguridad del sistema de información sobre el que se perpetra, se le aplicará de 6 meses a 1 año de prisión, de 300 a 600 días multa, así como el pago de la reparación de daños y perjuicios ocasionados.
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-Si mediante el Acceso Informático Indebido referido en la Fracción I, se accede o difunden imágenes o videos referentes al pene, senos, glúteos o la vagina, o bien actos sexuales de cualquier persona, sin permiso de ésta o bien, del propietario o tenedor legítimo del aparato para el procesamiento de datos o del dispositivo de almacenamiento de información de que se trate, al responsable se le aplicará de 1 a 3 años de prisión, de 300 a 600 días multa así como el pago de la reparación de daños y perjuicios ocasionados.
+Si mediante el Acceso Informático Indebido referido en la Fracción I, se accede a imágenes o videos referentes al pene, senos, glúteos o la vagina, o bien actos sexuales de cualquier persona, sin permiso de ésta o bien, del propietario o tenedor legítimo del aparato para el procesamiento de datos o del dispositivo de almacenamiento de información de que se trate, al responsable se le aplicará de 1 a 3 años de prisión, de 300 a 600 días multa, así como el pago de la reparación de daños y perjuicios ocasionados.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -2672,6 +2672,12 @@ También se considerará suplantación de la identidad cuando el titular otorgue
 Al responsable de Suplantación de la Identidad se aplicarán de 4 a 12 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 La pena de prisión y días de multa se aumentará hasta en una mitad en sus mínimos y sus máximos cuando el sujeto activo se aproveche de su profesión; de su calidad como servidor público; o se valga de su empleo dentro de cualquier institución crediticia para la comisión de la conducta.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+ARTÍCULO 181 B.- Violación a la intimidad personal. La violación a la intimidad personal consiste en divulgar, compartir, distribuir, comercializar, publicar o amenazar con publicar información personal, privada o confidencial de una persona, o bien una o más imágenes, audios o videos referentes al pene, senos, glúteos o la vagina, o bien actos sexuales o eróticos de cualquier persona, ya sea impreso, grabado o digital, sin autorización de quien sufre la afectación.
+
+Al responsable de violar la intimidad personal se le aplicarán de 1 a 4 años de prisión, y de 300 a 600 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ### CAPÍTULO XIII. Tipos Penales Protectores de la Seguridad y Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
 
@@ -3414,3 +3420,11 @@ P.O. 11 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 244.- ARTÍCULO PRIMERO.- SE REFORMAN EL PRIMER PÁRRAFO Y LAS FRACCIONES XIX Y XX DEL ARTÍCULO 3°; LA FRACCIÓN I, VIII Y IX DEL ARTÍCULO 8°; LA FRACCIÓN XV DEL ARTÍCULO 36; Y LA FRACCIÓN XIV DEL ARTÍCULO 48; ASÍ MISMO SE ADICIONAN LA FRACCIÓN XXI AL ARTÍCULO 3° Y LA FRACCIÓN X DEL ARTÍCULO 8° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 181, Y SE ADICIONA EL ARTÍCULO 181 B DEL CÓDIGO PENAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
