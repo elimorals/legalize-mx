@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-gestion-empresarial-y-mejora-regulatoria-para-el-96608"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-11"
-last_updated: "2017-07-03"
+last_updated: "2019-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,153 +21,43 @@ state: "AGU"
 ---
 # LEY DE GESTION EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES
+LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2008.
 
-Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
+Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 24 de mayo de 1996.
 
-CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+BENJAMIN CLARIOND REYES-RETANA, GOBERNADOR INTERINO DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON, A TODOS SUS HABITANTES HAGO SABER:
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
 
-La LXI Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
+DECRETO
 
-Decreto Número 381
+NUM. 218
 
-###### ARTÍCULO ÚNICO.
+LEY DEL SISTEMA DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
-Se aprueba la Ley de Gestión Empresarial y Mejora Regulatoria para el Estado de Aguascalientes, quedando en los siguientes términos:
+## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-LEY DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
-## TÍTULO PRIMERO. GENERALIDADES
+###### Artículo 1o.
 
-###### ARTÍCULO 1º.
+La presente Ley es de orden público e interés social, y tiene por objeto:
 
-La presente Ley es de orden público e interés social; sus disposiciones son de observancia general para las dependencias y entidades de la Administración Pública Estatal y Municipal, así como para los organismos autónomos de carácter constitucional; tiene por objeto impulsar la gestión empresarial así como la mejora regulatoria en el Estado de Aguascalientes, a través de la coordinación de acciones entre las autoridades y los sectores social y privado, así como procurar el uso de los medios electrónicos, magnéticos o de cualquier tecnología y el uso de la firma electrónica, archivos electrónicos y base de datos, a fin de hacer más eficientes los servicios, trámites y actos administrativos.
+I.- Regular la coordinación entre las diversas autoridades de seguridad pública del Estado, sus Municipios, y las instancias del Sistema Nacional, mediante la integración y funcionamiento del Sistema de Seguridad Pública del Estado de Nuevo León; y
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+II.- Establecer las bases para el ingreso a las instituciones policiales del Estado y de los Municipios de Nuevo León, así como los requisitos para permanecer adscrito a dichas instituciones.
 
-Los Poderes Judicial y Legislativo, los Municipios de la entidad, los Organismos Autónomos de carácter Constitucional, así como las dependencias y entidades de la Administración Pública Estatal y Municipal, comprendiendo en este rubro a los organismos paraestatales y paramunicipales, descentralizados, empresas de participación pública y desconcentrados, podrán suscribir convenios con el Poder Ejecutivo del Estado, a través del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, para facilitar la implementación del objeto señalado en el párrafo anterior.
+###### Artículo 2o.
 
-En los servicios, trámites y actos administrativos que se derivan de la aplicación de programas sociales federales, las dependencias observarán las reglas de operación y demás leyes aplicables, a los mismos y aplicarán sólo las disposiciones de la presente Ley a aquellas acciones que no se contrapongan a sus propias reglas.
+El Sistema de Seguridad Pública del Estado de Nuevo León se integra con las instancias, instrumentos, políticas, servicios y acciones previstos en la presente Ley, tendientes a cumplir los objetivos y fines de la seguridad pública.
 
-###### ARTÍCULO 2º.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
-Para efectos de esta Ley, se entiende por:
+###### Artículo 3o.
 
-I. Acto Administrativo: A la declaración unilateral de la voluntad dictada por las autoridades administrativas, en ejercicio de su potestad pública, que crea, declara, reconoce, modifica, transmite o extingue derechos u obligaciones;
-
-II. Autoridad Certificadora: Al órgano designado por el Poder Ejecutivo, que tiene a su cargo los servicios de certificación de firma electrónica;
-
-III. Centro Municipal de Negocios: A las áreas físicas, que cuenten con los recursos humanos, materiales y tecnológicos que los municipios podrán destinar para la prestación de los servicios, trámites o actos administrativos relacionados con el desarrollo económico del municipio;
-
-IV. Consejo Consultivo: Al Consejo Consultivo para la Gestión Empresarial y la Mejora Regulatoria;
-
-V. (DEROGADA, P.O. 15 DE JUNIO DE 2015)
-
-VI. Compromiso Administrativo: Mecanismo para mejorar y garantizar la eficiente gestión Gubernamental;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
-
-VII. Dependencias: Todas las unidades de la administración pública centralizada del Estado de Aguascalientes o de sus Municipios; los organismos descentralizados, organismos auxiliares, empresas de participación estatal mayoritaria y los fideicomisos públicos del Estado de Aguascalientes o de sus Municipios, así como los órganos autónomos previstos en la Constitución Política del Estado de Aguascalientes;
-
-VIII. Dictamen Regulatorio: Al documento que emite el Instituto respecto de una Manifestación de Impacto Regulatorio con carácter vinculante;
-
-IX. Dirección General: A la Dirección General del Instituto de Gestión Empresarial y Mejora Regulatoria;
-
-X. Empresa: Unidad de organización dedicada a actividades industriales, mercantiles o de prestación de servicios con fines lucrativos;
-
-XI. Firma Electrónica Certificada: El conjunto de datos en forma electrónica utilizados como medio para constatar la fecha y hora en que un mensaje de datos es enviado por el firmante o recibido por el destinatario;
-
-XII. Instituto: El Instituto de Gestión Empresarial y Mejora Regulatoria;
-
-XIII. Interesado: A la persona física o moral que tenga un interés legítimo respecto de un servicio, trámite o acto administrativo;
-
-XIV. Junta Directiva: A la Junta Directiva, órgano de Gobierno del Instituto de Gestión Empresarial y Mejora Regulatoria;
-
-XV. Ley: A la Ley de Gestión Empresarial y de Mejora Regulatoria para el Estado de Aguascalientes;
-
-XVI. Ley de Medios: A la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes;
-
-XVII. Manifestación de Impacto Regulatorio: Al documento justificatorio que contiene el análisis y evaluación del costo-beneficio de propuestas regulatorias elaborado por las dependencias;
-
-XVIII. Medios Electrónicos: A los dispositivos tecnológicos para transmitir o almacenar datos e información a través de computadoras, líneas telefónicas, enlaces dedicados, microondas de cualquier otra tecnología, en los términos de la Ley de Medios y su Reglamento;
-
-XIX. Mejora Regulatoria: A la política pública sistemática, participativa y transversal que busca la construcción de un marco regulatorio óptimo en las relaciones intra e inter gubernamentales y con el ciudadano, apoyada en los principios de economía administrativa, calidad, certidumbre jurídica, oportunidad, transparencia y accesibilidad virtual, con la finalidad de reducir o eliminar tiempos y costos económicos, la discrecionalidad, la duplicidad de requerimientos y trámites, y la opacidad administrativa a ciudadanos y empresas;
-
-XX. Normateca Interna: A la recopilación de la legislación aplicable vigente;
-
-XXI. Programa Estatal de Mejora Regulatoria: Al conjunto de acciones, indicadores y metas que tendrán la finalidad de dar seguimiento y evaluar las acciones de mejora regulatoria de las dependencias de la Administración Pública Estatal;
-
-XXII. Programa Operativo Municipal de Mejora Regulatoria: Al conjunto de acciones, indicadores y metas que tendrán la finalidad de dar seguimiento y evaluar las acciones de mejora regulatoria de las dependencias de la Administración Pública Municipal;
-
-XXIII. Propuesta de Mejora Regulatoria: A la manifestación de un ciudadano o persona moral, sobre la mejora de un trámite, servicio, sistemas, bases de datos, documentos u acto en general o específico, que involucra la prestación de un servicio o trámite; y las acciones al interior de la administración pública, presentada en forma física o por medios electrónicos a cualquier autoridad o las Unidades de Mejora Regulatoria;
-
-XXIV. Queja Regulatoria: A la manifestación formal de insatisfacción del ciudadano o persona moral, ante un posible cumplimiento parcial o negativa injustificada del servicio o trámite prestado por las autoridades, ante la deficiencia de oportunidad, accesibilidad, transparencia, calidad, economía administrativa del mismo u otro;
-
-XXV. Registro: Al Registro de Trámites y Servicios;
-
-XXVI. Reglamento: Al Reglamento de esta Ley;
-
-XXVII. REPA: Al Registro Estatal de Personas Acreditadas;
-
-XXVIII. SARE: Al Sistema de Apertura Rápida de Empresas que los municipios establezcan en el Estado de Aguascalientes;
-
-XXIX. Secretaría: A la Secretaría de Desarrollo Económico del Gobierno del Estado;
-
-XXX. Servicios: Al conjunto de elementos personales y materiales, coordinados por las dependencias de la administración pública, destinados a atender una necesidad de carácter general;
-
-XXXI. Sistema Electrónico: Al Sistema de Trámites y servicios que opere en forma electrónica;
-
-XXXII. Trámites: A cualquier solicitud o entrega de información que los particulares, sean personas físicas o morales, realicen ante una dependencia; y
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
-
-XXXIII. Unidades de Enlace de Mejora Regulatoria: A las áreas de cada Dependencia responsables de planear, organizar, dirigir, controlar y evaluar los proceso (sic) de Mejora Regulatoria al interior de cada una de ellas.
-
-###### ARTÍCULO 3º.
-
-De manera enunciativa más no limitativa, la presente Ley tendrá los siguientes objetivos específicos:
-
-I. Simplificar el marco regulatorio a través de la eliminación parcial o total de los actos administrativos, requerimientos y trámites;
-
-II. Impulsar la homologación de trámites, formatos, requerimientos, padrones y reglamentos, así como cualquier acto administrativo de las dependencias;
-
-III. Incidir en la regulación con principios de calidad, transparencia, eficiencia, accesibilidad virtual, certeza jurídica y oportunidad;
-
-IV. Fortalecer y ampliar los medios de participación de los sectores social y privado que estimulen la competitividad, la inversión y el crecimiento económico en el Estado;
-
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
-
-V. Otorgar permanencia y precisión a la coordinación entre el Estado, los Municipios y los sectores social y privado, en las tareas de gestión empresarial y mejora regulatoria;
-
-VI. Unir esfuerzos para procurar reducir los tiempos y costos derivados de las disposiciones normativas que afecten la actividad económica, el establecimiento y operación de las empresas;
-
-VII. Contribuir a la reducción y eliminación de tiempos y costos económicos, discrecionalidad, duplicidad de requerimientos, trámites y opacidad administrativa;
-
-VIII. Promover mecanismos y reformas al marco regulatorio que permitan fortalecer al mercado, a las empresas y las actividades comerciales, para así incrementar la productividad;
-
-IX. Diseñar e instrumentar herramientas jurídico-administrativas que nutran el proceso de mejora regulatoria tales como la manifestación de impacto regulatorio y dictamen regulatorio;
-
-X. Propiciar mecanismos que permitan la presentación formal de quejas y propuestas de mejora regulatoria y garantizar su atención;
-
-XI. Incidir en el diseño de los planes o programas de desarrollo de los gobiernos estatales y municipales, relativos a la Gestión Empresarial y a la Mejora Regulatoria y la simplificación administrativa;
-
-XII. Promover e impulsar la participación social en la Gestión Empresarial y la Mejora Regulatoria;
-
-XIII. Fomentar una cultura de mejora regulatoria y gestión gubernamental en las dependencias;
-
-XIV. Impulsar programas de capacitación en materia de mejora regulatoria entre los servidores públicos involucrados de las dependencias;
-
-XV. Instrumentar las tecnologías de la información en los trámites y servicios como herramienta transversal;
-
-XVI. Promover la aplicación de los medios electrónicos y el uso de la firma electrónica certificada o cualquier otro mecanismo electrónico en la realización de trámites y servicios;
-
-XVII. Fomentar el conocimiento por parte de la sociedad en general, de la normatividad estatal y municipal asociada con trámites y servicios públicos; y
-
-XVIII. Cualquier otro que sea compatible con el objeto de esta Ley.
+La seguridad pública es la función a cargo del Estado, que tiene por objeto salvaguardar la integridad, garantías individuales y derechos de las personas, preservar sus libertades, el orden y la paz pública, mediante la prevención, persecución y sanción de las infracciones y delitos, así como la readaptación social del delincuente y del adolescente infractor.
 
 ###### Artículo 4o.
 
@@ -201,1015 +91,1059 @@ VII.- Los prestadores de servicios de seguridad privada y otros auxiliares en se
 
 VIII.- Otras autoridades relacionadas con la seguridad pública.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+(REFORMADO, P.O. 10 DE ABRIL DE 2008) (F. DE E., P.O. 18 DE ABRIL DE 2008)
 
-Las autoridades competentes del Estado dictarán las medidas conducentes para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador, Secretario General de Gobierno, Secretario de Seguridad Pública, el Procurador General de Justicia, Subsecretario de Protección Ciudadana, Subprocurador del Ministerio Público y Director General de la Agencia Estatal de Investigaciones.
+Las autoridades competentes del Estado dictarán las medidas conducentes para brindar los elementos necesarios para la protección que en su caso resulte necesaria para los siguientes servidores públicos estatales: Gobernador, Secretario General de Gobierno, Secretario de Seguridad Pública, Procurador General de Justicia, Subsecretario de Protección Ciudadana, Subprocurador del Ministerio Público, Director General de la Agencia Estatal de Investigaciones, Director de Averiguaciones Previas, Agentes del Ministerio Público de la Procuraduría General de Justicia en el Estado; Presidente y Magistrados de las Salas de lo Penal, Jueces de lo Penal y Jueces Mixtos del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2008)</small>
 
-Las autoridades de Seguridad Preventiva de los municipios dictarán las medidas conducentes para brindar la protección necesaria a los Secretarios de la Policía Preventiva Municipal o Titular de la Policía Municipal y a los Directores o Subdirectores operativos, por lo que se efectuarán las previsiones necesarias en el presupuesto anual del Municipio correspondiente.
+Las autoridades de Seguridad Preventiva de los Municipios dictarán las medidas conducentes para brindar los elementos que en su caso resulten necesarios para la protección de los Secretarios de la Policía Preventiva Municipal o Titular de la Policía Municipal y a los Directores o Subdirectores operativos, por lo que se efectuarán las previsiones necesarias en el presupuesto anual del Municipio correspondiente.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2008)</small>
 
-Los servidores públicos señalados en los párrafos anteriores tendrán derecho a que las Instituciones de Seguridad Pública del Estado o del Municipio, según corresponda, otorguen protección a su integridad física, de su cónyuge y de su familia en la línea ascendente hasta en primer grado y la línea descendente hasta en un segundo grado durante el ejercicio de su encargo y hasta los dos años siguientes a la conclusión del mismo, término que será prorrogable a juicio de la autoridad competente tomando en consideración las circunstancias particulares del caso.
+Los servidores públicos señalados en los párrafos anteriores tendrán derecho a que las Instituciones de Seguridad Pública del Estado o del Municipio, según corresponda conforme al Reglamento que para tal efecto emita el Titular del Poder Ejecutivo o el Ayuntamiento respectivo, les otorguen protección a su integridad física, de su cónyuge y de su familia en la línea ascendente hasta en primer grado y la línea descendente hasta en un segundo grado durante el ejercicio de su encargo y al menos los dos años siguientes a la conclusión del mismo, término que será prorrogable a juicio de la autoridad competente tomando en consideración las circunstancias particulares del caso.
 
-###### ARTÍCULO 5º.
+###### Artículo 5o.
 
-Las dependencias podrán celebrar convenios con autoridades federales y con los sectores privado y académicos, y no deberán versar en las materias: laboral, electoral, procuración de justicia, agraria, responsabilidad administrativa y fiscal. Los actos señalados deberán, además, sujetarse a lo establecido en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
+Las autoridades competentes y los auxiliares en seguridad pública, deberán alcanzar sus objetivos, con estricto apego a los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez, respetando invariablemente los derechos humanos.
 
-Para dar certidumbre y celeridad jurídica a los trámites y solicitudes realizadas por el ciudadano, se aplicará lo conducente a las figuras de la afirmativa y negativa fictas, en los términos y formas establecidas en la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes y en la presente Ley.
+El Ejecutivo del Estado, reglamentará lo necesario a fin de inculcar estos principios en la formación policial.
 
-Asimismo, se propiciará la celebración de acuerdos interinstitucionales con uno o varios organismos internacionales.
+###### Artículo 6o.
 
-###### ARTÍCULO 6º.
+La coordinación a que se refiere esta Ley, comprenderá todas las acciones inherentes a la consecución de la seguridad pública, formación a la carrera policial obligatoria, e integración de los registros de información de seguridad pública del Estado, abarcando enunciativamente las siguientes materias:
 
-Los gastos que las dependencias requieran para implementar acciones en materia de Gestión Empresarial y Mejora Regulatoria, deberán considerarlos e incluirlos en sus programas operativos anuales.
+I.- Procedimientos e instrumentos de formación, reglas de selección, ingreso, permanencia, promoción y retiro de los miembros de las instituciones policiales;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+II.- Sistemas disciplinarios, así como de estímulos y recompensas;
 
-###### ARTÍCULO 7°.
+III.- Organización, administración, operación y modernización tecnológica de las instituciones de seguridad pública;
 
-En caso de controversia entre las distintas Dependencias de la administración pública estatal, con respecto a la aplicación de la presente Ley, será el Ejecutivo Estatal por conducto de la Jefatura de Gabinete, el encargado de emitir opinión que resuelva en forma definitiva dicha controversia, en términos de lo establecido en el artículo 11 fracción XI de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+IV.- Las propuestas de aplicación de recursos para la seguridad pública, incluido el financiamiento conjunto;
 
-En caso de controversias entre distintas Dependencias municipales, será el Presidente Municipal correspondiente quien resuelva sobre el particular.
+V.- Suministro, intercambio y sistematización de todo tipo de información sobre seguridad pública;
 
-## TÍTULO SEGUNDO. DE LOS ÓRGANOS ENCARGADOS DE LA MEJORA REGULATORIA Y DE LA GESTIÓN EMPRESARIAL
+VI.- Acciones policiales conjuntas;
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2007)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+VII.- Regulación y control de los servicios de seguridad privada y otros auxiliares;
+
+VIII.- Relaciones con la comunidad y fomento de la cultura de prevención de infracciones y delitos; y
+
+IX.- Las relacionadas con las anteriores, que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública.
+
+La coordinación se hará con respeto absoluto a las atribuciones constitucionales de las instituciones y autoridades de seguridad pública que participen en los Sistemas del Estado y Nacional.
+
+Cuando las acciones conjuntas sean para perseguir delitos, se cumplirán sin excepción los requisitos previstos en los ordenamientos constitucionales y legales, así como en los convenios aplicables.
+
+## TITULO SEGUNDO. DE LAS INSTANCIAS DE COORDINACION
+
+### CAPITULO I. DEL CONSEJO DE COORDINACION DE SEGURIDAD PUBLICA DEL ESTADO DE NUEVO LEON
 
 ###### Artículo 7o.
 
 El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, es la instancia interinstitucional de coordinación interna y nacional, planeación y supervisión del Sistema de Seguridad Pública del Estado de Nuevo León, así como de colaboración y participación ciudadana, que tiene como fin salvaguardar la integridad, derechos y garantías individuales de las personas, la preservación de la libertad, el orden y la paz pública.
 
-###### ARTÍCULO 8º.
+###### Artículo 8o.
 
-Las dependencias podrán recibir, a través de medios de comunicación electrónicos, las promociones o solicitudes que en términos de esta Ley los interesados deban presentar por escrito.
+El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, se integra con los siguientes miembros:
 
-En este caso se podrá emplear, en sustitución de la firma autógrafa, medios de identificación electrónica que previamente se deberán haber registrado ante la dependencia correspondiente. El uso del medio de comunicación electrónica será optativo para el interesado.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTÍCULO 9º.
+I.- Un Presidente, que será designado por el Gobernador del Estado;
 
-La verificación de la fecha y hora de recepción de las promociones o solicitudes y de la autenticidad de las manifestaciones vertidas en las mismas, deberán hacerse por la dependencia o autoridad administrativa bajo su responsabilidad.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTÍCULO 10.
+II.- El Secretario de Seguridad Pública del Estado;
 
-La dependencia o autoridad administrativa podrá hacer uso de los medios de comunicación electrónicos para realizar notificaciones, citatorios o requerimientos de documentación e información a los particulares.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTÍCULO 11.
+III.- Un Vicepresidente, que será el Procurador General de Justicia del Estado;
 
-Todo lo referente al uso de los medios de comunicación electrónicos, de la firma electrónica certificada, de medios de identificación electrónica y de archivos digitalizados que se mencionan en la presente Ley, será de conformidad con los términos de la Ley de Medios y su Reglamento, del Código Civil para el Estado de Aguascalientes y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2007)</small>
 
-###### ARTÍCULO 12.
+IV.- Los Presidentes Municipales de los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina, Escobedo, Apodaca, Cadereyta Jiménez, Santiago, Juárez y García, así como un representante del os Municipios de la zona Sur y un representante de los Municipios de la zona norte de Nuevo León, en los términos del artículo 18 de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
 
-Se crea el Instituto Estatal de Gestión Empresarial y Mejora Regulatoria como organismo público descentralizado de la Administración Pública, con personalidad jurídica y patrimonio propios. Dicho Instituto será un órgano con la misión de diseñar, regular, gestionar, dictaminar, coordinar y evaluar las acciones de Gestión Empresarial y Mejora Regulatoria en el Estado, con el objeto de promover la transparencia en la elaboración y aplicación de las regulaciones y que éstas generen beneficios superiores a sus costos y el máximo beneficio para la sociedad.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
+V.- El Subsecretario de Protección Ciudadana;
 
-###### ARTÍCULO 13.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
-El Instituto tiene como objeto:
+VI.- Los representantes en el Estado de la Secretaría de la Defensa Nacional y la Policía Federal Preventiva y el Delegado de la Procuraduría General de la República; y
 
-I. Estudiar, analizar y revisar los ordenamientos legales vigentes en la Entidad, con el propósito de proponer las medidas de mejora regulatoria necesarias para cumplir con los objetivos de esta Ley;
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+VII.- Un Secretario Ejecutivo, quien será el servidor público que designe el Presidente del Consejo.
 
-II. Llevar y mantener actualizado el Registro de Trámites y Servicios;
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
 
-III. Participar coordinadamente con los sectores productivo y social en el consenso y propuesta de elaboración de proyectos de iniciativas de ley, decretos, acuerdos, circulares y resoluciones que establezcan trámites y servicios que representen cargas o impactos a la actividad de los particulares;
+A convocatoria del Consejo, participarán además los servidores públicos que por razón de sus atribuciones estén vinculados con los fines de la seguridad pública, así como las personas que presten servicios de seguridad privada y otras auxiliares en la materia, interviniendo en las sesiones con voz pero sin voto. Todos los cargos del Consejo son honoríficos.
 
-IV. Gestionar y proponer procesos de mejora regulatoria en los municipios del Estado que permitan la apertura rápida de empresas, mediante la celebración de convenios;
+###### Artículo 9o.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, tendrá las siguientes atribuciones:
 
-V. Fortalecer las figuras de los Centros Municipales de Negocios o sus equivalentes y la Ventanilla Única de Gestión Empresarial, como unidades de apoyo y facilitadoras de las actividades emprendedoras;
+I.- La Coordinación del Sistema de Seguridad Pública del Estado de Nuevo León;
 
-VI. Proponer la celebración de convenios con diversas autoridades e instituciones del orden federal, estatal o municipal o con particulares, tendientes a lograr los objetivos de la presente Ley;
+II.- La determinación de lineamientos para el establecimiento de políticas generales en materia de seguridad pública en el Estado;
 
-VII. Emitir los dictámenes regulatorios respecto de las Manifestaciones de Impacto Regulatorio;
+III.- La determinación de medidas para vincular la seguridad pública en el Estado, con el Sistema Nacional, los estatales o regionales;
 
-VIII. Proponer a las dependencias la adopción de sistemas que estimulen la mejora regulatoria y la simplificación administrativa;
+IV.- La formulación de propuestas al Consejo Nacional para el Programa Nacional de Seguridad Pública, y para la celebración de acuerdos, programas específicos y convenios, sobre las materias de coordinación;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+V.- Proponer acciones de coordinación entre las policías estatales, municipales y federales;
 
-IX. Hacer valer los acuerdos y dictámenes que sobre las Dependencias estatales emita o los que se refieran a los municipios y órganos autónomos con quienes haya firmado convenio, asimismo le corresponderá la ejecución de los mismos.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1998)</small>
 
-X. Aprobar el Programa Estatal de Mejora Regulatoria;
+VI.- Evaluar los proyectos de creación o modificación de leyes o reglamentos que en materia de seguridad pública, se sometan a su consideración;
 
-XI. Revisar y actualizar el Programa Estatal de Mejora Regulatoria;
+VII.- El análisis y, en su caso aprobación, de proyectos y estudios que se sometan a su consideración, por conducto del Secretario Ejecutivo;
 
-XII. Impulsar la aprobación de los Programas Operativos Municipales de Mejora Regulatoria ante los Organismos Municipales correspondientes;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1998)</small>
 
-XIII. Promover el uso de los medios de comunicación electrónicos así como el uso de la firma electrónica certificada, a fin de hacer más eficientes los servicios, trámites y actos administrativos;
+VIII.- Examinar y opinar sobre las propuestas de integración, organización y funcionamiento del Sistema de Seguridad Pública del Estado que se sometan a su consideración;
 
-XIV. Promover e impulsar la realización de trámites a través de medios electrónicos, en coordinación con la Oficialía Mayor del Gobierno del Estado, buscando en todo momento la interoperabilidad de los sistemas y bases de datos de los gobiernos federal, estatal, municipales, los organismos autónomos y los sectores público y privado;
+IX.- La formulación de recomendaciones administrativas a las autoridades correspondientes, para que las instituciones de seguridad pública locales y municipales, desarrollen de manera más eficaz sus funciones;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+X.- Proponer al Gobernador la aprobación del Programa Estatal de Seguridad Pública;
 
-XV. Aprobar las acciones necesarias para la implementación y desarrollo de la política de mejora regulatoria; y
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-XVI. (DEROGADA, P.O. 15 DE JUNIO DE 2015)
+XI.- Discutir, proponer y dar seguimiento a la distribución entre el Estado y los Municipios, atendiendo a las solicitudes y necesidades que estos hagan, de los fondos federales, estatales y demás recursos económicos destinados a la seguridad pública; y
 
-XVII. Las demás que establezca esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+XII.- Las demás que determinen las leyes.
 
-###### ARTÍCULO 14.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 1998)</small>
 
-El Instituto contará con:
+###### Artículo 10.
 
-I. Una Junta Directiva, como órgano de gobierno;
+El Secretario Ejecutivo del Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, deberá reunir los siguientes requisitos:
 
-II. Una Dirección General, como órgano de administración; y
+I.- Ser ciudadano mexicano en pleno goce de sus derechos;
 
-III. Un Consejo Consultivo para la Gestión Empresarial y la Mejora Regulatoria, como órgano de consulta y vinculación con los sectores social y privado.
+II.- Tener más de 35 años de edad;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+III.- (DEROGADA, P.O. 2 DE FEBRERO DE 1998)
 
-###### ARTÍCULO 15.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 1998)</small>
 
-La Junta Directiva será el órgano supremo de gobierno del Instituto y estará integrada de la siguiente manera:
+IV.- Ser de reconocida capacidad y probidad y acreditar que cuenta con probada experiencia en el área de seguridad pública.
 
-I. Un Presidente, que será el Gobernador del Estado;
+###### Artículo 11.
 
-II. Un Vicepresidente, que será el Secretario de Desarrollo Económico, mismo que tendrá también el carácter de suplente del Presidente en ausencia del mismo;
+El Consejo se reunirá trimestralmente en las fechas que señale su Presidente, quien podrá convocarlo a sesión extraordinaria cuando lo estime necesario.
 
-III. El Jefe de Gabinete del Gobierno del Estado;
+Para que las sesiones del Consejo sean válidas, deberán asistir la mayoría de sus miembros, así como su Presidente y su Secretario Ejecutivo.
 
-IV. El Secretario de Gobierno;
+###### Artículo 12.
 
-V. El Secretario de Finanzas;
+Las convocatorias para las sesiones contendrán referencia expresa de la fecha y lugar en que se celebrarán, naturaleza de la sesión y el orden del día, que contendrá por lo menos los siguientes puntos:
 
-VI. El Oficial Mayor;
+I.- Verificación del quórum para declarar la apertura de la sesión;
 
-VII. El Secretario de Gestión Urbanística y Ordenamiento Territorial;
+II.- Lectura y en su caso, aprobación del acta de la sesión anterior;
 
-VIII. El Coordinador Estatal de Planeación y Proyectos;
+III.- Los informes y cuentas que rinda el Secretario Ejecutivo de los asuntos a su cargo, y de los demás acuerdos del Consejo; y
 
-IX. El Secretario de Desarrollo Rural y Agroempresarial;
+IV.- Los asuntos determinados a tratar.
 
-X. Los Presidentes Municipales de los dos Municipios que registren el mayor número de unidades económicas según el INEGI.
+De cada sesión se levantará acta que contenga las resoluciones y acuerdos tomados.
 
-El Director General fungirá como Secretario Ejecutivo, asistiendo a las sesiones con voz pero sin voto.
+###### Artículo 13.
 
-###### ARTÍCULO 16.
+Las resoluciones del Consejo se tomarán por mayoría de los miembros presentes.
 
-Los integrantes de la Junta Directiva desempeñarán su cargo en forma honorífica. Los funcionarios mencionados en el Artículo anterior deberán ser suplidos en caso de ausencia por un funcionario con nivel de subsecretario o por el funcionario que le siga en jerarquía.
+El Presidente del Consejo tendrá voto de calidad en caso de empate en las sesiones.
 
-Los integrantes de la Junta Directiva, tendrán derecho a voz y voto. El Presidente podrá invitar a las personas que considere convenientes, y tengan relación con los asuntos a tratar; dichas personas que sólo tendrán derecho a voz.
+###### Artículo 14.
 
-###### ARTÍCULO 17.
+El Presidente del Consejo tendrá las siguientes atribuciones:
 
-La Junta Directiva celebrará por lo menos una sesión ordinaria por semestre y extraordinaria las veces que se considere necesario, previa convocatoria del Presidente o del Vicepresidente, en los términos del Reglamento de esta Ley.
+I.- Convocar y presidir las sesiones, conduciendo los trabajos de las mismas;
 
-###### ARTÍCULO 18.
+II.- Proponer al Consejo la instalación de las comisiones para estudiar o evaluar políticas y acciones en materia de seguridad pública;
 
-El cargo de integrante de la Junta Directiva será honorífico, por lo que no recibirán emolumento o compensación alguna, teniendo derecho a voz y voto.
+III.- Proveer las medidas necesarias para la ejecución de las políticas y resoluciones adoptadas por el Consejo;
 
-### CAPÍTULO II. De los Objetivos
+IV.- Solicitar al Secretario Ejecutivo un informe mensual que incluya los estados financieros del Consejo, así como los resultados operativos;
 
-###### ARTÍCULO 19.
+IV (sic).- Celebrar convenios en representación del Consejo con otras autoridades; y
 
-Ninguna sesión de la Junta Directiva será válida sin la presencia de su Presidente o de la persona que deba suplirlo. Para sesionar válidamente la Junta de Gobierno se requerirá la presencia de la mitad más uno de sus integrantes.
+V.- Todas aquellas que le asignen expresamente las disposiciones jurídicas aplicables y las que le confiera el propio Consejo conforme a la Ley.
 
-###### ARTÍCULO 20.
+###### Artículo 15.
 
-Los acuerdos de la Junta Directiva, serán de observancia general y de aplicación obligatoria para todas las dependencias de la Administración Pública del Estado deberán tomarse por mayoría de votos de los presentes. Los dictámenes que se refieran a puntos regulatorios, serán publicados en el Periódico Oficial del Gobierno del Estado.
+El Vicepresidente del Consejo tendrá las siguientes atribuciones:
 
-De toda sesión de la Junta Directiva se levantará acta circunstanciada.
+I.- Vigilar el cumplimiento de los acuerdos y resoluciones del Consejo;
 
-El Secretario Ejecutivo conservará, con base en la información que se le proporcione, un registro con los nombres de los miembros de la Junta Directiva.
+II.- Informar al Consejo, sobre el resultado de la operatividad, políticas y resoluciones del Consejo; y
 
-###### ARTÍCULO 21.
+III.- Vigilar en cualquier tiempo las operaciones y administración del Consejo.
 
-La Junta Directiva podrá crear comités o grupos de trabajo para la atención de asuntos específicos que por su relevancia y atención especial así lo requieran.
+###### Artículo 16.
 
-###### ARTÍCULO 22.
+Los demás miembros del Consejo, tendrán las siguientes atribuciones:
 
-Serán facultades y obligaciones de la Junta Directiva, las siguientes:
+I.- Asistir con voz y voto a las sesiones del Consejo;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+II.- Desempeñar las comisiones que se les asignen;
 
-I. Autorizar y aprobar el presupuesto del Instituto que formule el Director General, y definir los criterios, prioridades y metas del mismo.
+III.- Proponer acuerdos y resoluciones al Consejo;
 
-II. Autorizar el proyecto de gestión empresarial, reforma regulatoria y simplificación administrativa de corto, mediano y largo plazo, así como los mecanismos de medición de avance;
+IV.- Aprobar en su caso, las actas e instrumentos jurídicos del Consejo;
 
-III. Definir los lineamientos y criterios para la celebración de convenios de colaboración, coordinación, concertación o asociación, con las dependencias y entidades paraestatales de la administración pública federal y de los Municipios y con las organizaciones de los sectores social y privado;
+V.- Proponer la celebración de los convenios necesarios; y
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+VI.- Las demás que les sean encomendadas por el Consejo o el Presidente.
 
-IV. Nombrar y remover a propuesta del Director General, a los servidores públicos de la entidad paraestatal que ocupen cargos en el segundo nivel jerárquico inferior al de aquél, así como aprobar la fijación de sueldos y prestaciones; Expedir y modificar el Reglamento Interior del Instituto, así como los lineamientos para la Manifestación de Impacto Regulatorio y Registro de Trámites y Servicios, los manuales y lineamientos que se requieran para su organización y funcionamiento; y
+###### Artículo 17.
 
-V. Las demás que le otorguen esta Ley, su Reglamento y otras disposiciones legales y reglamentarias aplicables.
+El Secretario Ejecutivo del Consejo tendrá las siguientes atribuciones:
 
-###### ARTÍCULO 23.
+I.- Expedir oportunamente las convocatorias a las sesiones;
 
-La Dirección General del Instituto estará a cargo de un Director General, que será designado por el Gobernador del Estado y tendrá las facultades siguientes:
+II.- Levantar y certificar las actas y acuerdos, llevar el archivo de éstos y de los demás documentos del Consejo;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+III.- Ejercer la representación del Consejo; con excepción de cuando esté reservada a su Presidente;
 
-I. Administrar, dirigir técnicamente y representar legalmente al Instituto;
+IV.- Ejercer la dirección administrativa de los recursos del Consejo;
 
-II. Ejecutar los acuerdos de la Junta Directiva;
+V.- Cumplir y dar seguimiento a los acuerdos y resoluciones del Consejo;
 
-III. Dar a conocer a la Junta Directiva las propuestas del Consejo Consultivo;
+VI.- Asesorar al Consejo, en las políticas, lineamientos, y acciones, para el buen desempeño de las instituciones de seguridad pública del Estado;
 
-IV. Informar a la Junta Directiva sobre el ejercicio de las facultades que esta Ley le otorga;
+VII.- Elaborar y publicar informes de actividades del Consejo;
 
-V. Emitir opiniones, asesorar, elaborar y proponer anteproyectos de iniciativas a las Dependencias en materia de gestión empresarial y reforma regulatoria; así como sobre la actualización del marco jurídico correspondiente;
+VIII.- Por acuerdo del Consejo, coordinarse con el servicio nacional de apoyo a la carrera policial a las instituciones locales de formación de policía;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+IX.- Rendir un informe administrativo mensual al Presidente del Consejo;
 
-VI. Solicitar a las Dependencias la elaboración de un programa de mejora regulatoria;
+X.- Proponer, en coordinación con las instituciones de seguridad pública, la realización de acciones conjuntas conforme a las bases y reglas que emita el Consejo y sin menoscabo de otras que realicen las autoridades competentes;
 
-VII. Expedir los acuerdos, políticas y procedimientos internos, lineamientos, circulares y demás disposiciones de carácter estratégico, organizacional y administrativo;
+XI.- Someter al Consejo, estudios especializados sobre las materias de seguridad pública;
 
-VIII. Nombrar y remover a los servidores públicos del Instituto, evaluar su desempeño, así como el funcionamiento de sus unidades administrativas;
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1998)</small>
 
-IX. Expedir y mantener actualizado el Manual de Organización del Instituto e informar de ello a la Junta Directiva;
+XII.- Proponer al Consejo acciones relacionadas con el Programa Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1998)</small>
 
-X. Coordinar e instrumentar la gestión empresarial, la mejora regulatoria y la simplificación administrativa en el ámbito estatal y en su caso, en el ámbito municipal, así como elaborar propuestas sustentadas para el proceso de mejora regulatoria en el ámbito federal;
+XIII.- Vigilar el cumplimiento de las leyes y reglamentos de la materia;
 
-XI. Coordinar la ejecución de los programas de gestión empresarial y reforma regulatoria de las Dependencias, así como someterlos a revisión de la Junta Directiva, y dar seguimiento a los mismos;
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1998)</small>
 
-XII. Brindar asesoría técnica y capacitación en materia de reforma regulatoria a las Dependencias;
+XIV.- Administrar y sistematizar los instrumentos de información del Sistema Estatal de Seguridad Pública, en coordinación con el Sistema Nacional de Información; y
 
-XIII. Coordinar y asesorar los Centros Municipales de Negocios, sus Unidades y Módulos, para que estos brinden una atención especializada, integral y de calidad a los particulares, a través de los instrumentos de gestión y asesoría de trámites vigentes, así como de los programas federales, estatales y municipales de apoyo a las empresas;
+XV.- Las demás que le instruya el Consejo o su Presidente.
 
-XIV. Coordinar y asesorar el SARE, que los Municipios establezcan en el Estado;
+###### Artículo 18.
 
-XV. Llevar el Registro de Trámites y Servicios, con la información que le proporcionen las Dependencias, debidamente actualizado;
+El Consejo, promoverá la implementación de normas, políticas y lineamientos, tendientes a lograr que la actuación de los integrantes de las instituciones policiales del Estado, se apegue a los principios constitucionales de legalidad, orden jurídico, honorabilidad, eficiencia, profesionalismo y honradez, así como la irrestricta observancia a los derechos humanos, considerando como mínimo los principios enunciados en el artículo 22, 23 y 24 de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad.
 
-XVI. Coordinar el Sistema Electrónico de Trámites y Servicios, establecer el diseño y los mecanismos para su control y evaluación;
+### CAPITULO II. DE LOS CONSEJOS MUNICIPALES E INTERMUNICIPALES DE COORDINACION DE SEGURIDAD PUBLICA
 
-XVII. Emitir dictamen de los anteproyectos a que se refiere el Capítulo V, del Título Tercero de esta Ley, denominado "De La Manifestación de Impacto Regulatorio";
+###### Artículo 19.
 
-XVIII. Asesorar a las Dependencias en la creación y actualización del REPA;
+Los Municipios que no tuvieran representación dentro del Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, instalarán a propuesta de este último, consejos municipales o intermunicipales de coordinación de seguridad pública, los cuales se integrarán de manera similar al propio Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León y tendrán las funciones relativas para hacer posible la coordinación y cumplir con los fines de seguridad pública en sus ámbitos de competencia.
 
-XIX. Promover los servicios que preste el Instituto, conforme a su objeto y funciones; de igual manera establecer las alianzas estratégicas con las autoridades federales, estatales y municipales, así como con los sectores social y privado;
+Por consejo municipal se entiende a aquél que se instala en un sólo Municipio, atendiendo a la problemática que, en materia de seguridad pública, se presenta dentro del mismo.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+Por consejo intermunicipal se entiende a aquél que se instala con la participación de dos o más municipios, en atención a sus características regionales, demográficas y de incidencia delictiva.
 
-XX. Suscribir, previo acuerdo de la Junta Directiva, los convenios de colaboración, coordinación, concertación o asociación con las Dependencias, con los Municipios y con los órganos autónomos, así como de cooperación técnica y científica con instituciones públicas y privadas, y en general todos aquellos actos en los que el Instituto sea parte;
+En todo caso, el Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, calificará la problemática de seguridad pública municipal, atendiendo a los registros y estadísticas reales en materia de delitos e infracciones, que para este fin se le presenten.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+###### Artículo 20.
 
-XXI. Proponer en el ámbito de su competencia a la Junta Directiva, de conformidad con la legislación aplicable, la suscripción de acuerdos interinstitucionales a formalizarse con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales, para intercambios o colaboración en relación a la materia;
+El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, fijará las reglas y procedimientos para la instalación y funcionamiento de los consejos municipales e intermunicipales.
 
-XXII. Designar a los representantes del Instituto que deban participar en foros nacionales e internacionales, así como establecer los lineamientos conforme a los cuales dichos representantes deban actuar;
+###### Artículo 21.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+Los consejos municipales se integran con:
 
-XXIII. Formular y someter a la aprobación de la Junta Directiva, el presupuesto del Instituto, los informes, estados y balances financieros de conformidad con las disposiciones aplicables, el presupuesto y el sistema de indicadores del desempeño y gestión del Instituto, proponer cambios en la organización, así como las modificaciones que correspondan al Reglamento Interior;
+I.- El Presidente Municipal, que será el Presidente del Consejo;
 
-XXIV. Resolver los asuntos administrativos que le correspondan, de acuerdo con la legislación aplicable;
+II.- Un representante del Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León;
 
-XXV. Resolver las dudas suscitadas sobre la interpretación o aplicación de esta Ley y su Reglamento, en el ámbito de su competencia, y sobre los casos no previstos en los mismos;
+III.- El titular de la seguridad pública preventiva del Municipio; y
 
-XXVI. Delegar cualquiera de sus funciones en algunos de los integrantes de la Junta Directiva del Instituto, sin perjuicio de ejercerlas directamente, con excepción de aquellas facultades que por disposición legal expresa o determinación de la Junta Directiva le correspondan exclusivamente;
+IV.- Un Secretario Ejecutivo, que será nombrado por el Consejo Municipal a propuesta del Presidente del Consejo Municipal.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+###### Artículo 22.
 
-XXVII. Ejercer las más amplias facultades de dominio, administración, pleitos y cobranzas, aún de aquellas que requieran de cláusula especial, así como para suscribir y negociar títulos de crédito;
+Los consejos intermunicipales se integran con:
 
-XXVIII. Otorgar, sustituir y revocar poderes generales y especiales con las facultades que se señalan en la Fracción anterior, incluso las que requieran autorización o cláusula especial;
+I.- Los Presidentes Municipales de los municipios que lo conforman, que lo Presidirán en forma alterna;
 
-XXIX. Ejercer el presupuesto del Instituto con sujeción a las disposiciones legales, reglamentarias y administrativas aplicables; y
+II.- Dos representantes del Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+III.- Un representante del Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León;
 
-XXX. Las demás que le otorguen la Junta Directiva, esta Ley, su Reglamento y otras disposiciones legales y reglamentarias.
+IV.- Los titulares de la seguridad pública preventiva de los Municipios participantes; y
 
-La Dirección General contará con las unidades administrativas centrales y en los Municipios que sean necesarias para el cumplimiento de su objeto y funciones.
+V.- Un Secretario Ejecutivo elegido de común acuerdo por los Presidentes Municipales de los municipios que lo conformen.
 
-###### ARTÍCULO 24.
+###### Artículo 23.
 
-El Consejo Consultivo para la Gestión Empresarial y la Mejora Regulatoria, será órgano de consulta del Instituto y de vinculación con los sectores social y productivo, y será el encargado de analizar, opinar y hacer propuestas a la Junta Directiva y al Director General, sobre las políticas y programas de acción pública para la Gestión Empresarial y Mejora Regulatoria. Estará integrado por:
+Tanto en los consejos municipales como en los intermunicipales, y cuando hubieren sido convocados para ello, podrán participar con voz pero sin voto, las personas que por razones de sus actividades se relacionen con la seguridad pública.
 
-I. Un Presidente que lo será el Director General del Instituto;
+###### Artículo 24.
 
-II. Cuatro representantes del sector empresarial que serán designados por el Gobernador del Estado;
+Los consejos municipales e intermunicipales tendrán, según corresponda, las siguientes atribuciones:
 
-III. Dos representantes de las Instituciones de Educación Superior del Estado;
+I.- Formular lineamientos para el establecimiento de políticas municipales o intermunicipales en materia de seguridad pública;
 
-IV. Dos representantes de organizaciones no gubernamentales;
+II.- Elaborar propuestas de reformas a leyes y reglamentos municipales en materia de seguridad pública;
 
-###### ARTÍCULO 25.
+III.- Formular propuestas para el Sistema de Seguridad Pública del Estado de Nuevo León;
 
-Los cargos que desempeñen los consejeros serán honoríficos y tendrán derechos (sic) a voz y voto.
+IV.- Coordinarse con el Sistema de Seguridad Pública del Estado de Nuevo León, a través del Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León; y
 
-###### ARTÍCULO 26.
+V.- Conocer y, en su caso, aprobar proyectos y estudios que se sometan a su consideración, por conducto de su Secretario Ejecutivo.
 
-El Presidente, en relación a los temas que se vayan a tratar, podrá invitar a las personas que estime pertinentes, quienes participarán en las sesiones con derecho a voz únicamente.
+###### Artículo 25.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
+Los consejos municipales e intermunicipales, comunicarán al Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, por conducto de sus Presidentes, los acuerdos que se tomen en la materia.
 
-## TÍTULO TERCERO. DE LOS INSTRUMENTOS DE LA MEJORA REGULATORIA
+###### Artículo 26.
 
-### CAPÍTULO III. De las Competencias y Marco de Actuación
+Cuando para la realización de acciones conjuntas se comprendan materias que rebasen los ámbitos de competencia del municipio, se deberán plantear ante las autoridades competentes o en su caso celebrarse convenios generales o específicos.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+## TITULO TERCERO. DE LA INFORMACION ESTATAL DE SEGURIDAD PUBLICA
 
-###### ARTÍCULO 4°.
+### CAPITULO I. DEL REGISTRO ESTATAL DE SEGURIDAD PUBLICA
 
-La aplicación de la presente Ley corresponde al Ejecutivo Estatal por conducto del Instituto de Gestión Empresarial y Mejora Regulatoria, a los Presidentes Municipales y a las demás autoridades estatales y municipales, en sus respectivos ámbitos de competencia.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
 
-###### ARTÍCULO 27.
+###### Artículo 27.
 
-El Consejo Consultivo sesionará al menos tres veces al año a convocatoria del Presidente.
+A fin de que se integre al Subsistema de Información Nacional sobre Seguridad Pública, el Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, promoverá la celebración de convenios para el suministro, intercambio y sistematización de información sobre Seguridad Pública, mediante los instrumentos tecnológicos que permitan el fácil y rápido acceso a las autoridades, exceptuándose a los prestadores de los servicios de seguridad privada y a otros auxiliares en la materia.
 
-El Consejo Consultivo, sesionará válidamente con la asistencia de la mitad más uno de la totalidad de sus miembros.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2007)</small>
 
-El Consejo Consultivo funcionará conforme a los términos establecidos en el Reglamento de esta Ley.
+###### Artículo 28.
 
-###### ARTÍCULO 28.
+En el Estado, se implementarán sistemas de registro en materia de seguridad pública, utilizando para tal fin los medios tecnológicos idóneos que permitan una fácil consulta a las autoridades, exceptuándose a los prestadores de los servicios de seguridad privada y a otros auxiliares en la materia.
 
-(DEROGADO, P.O. 15 DE JUNIO DE 2015)
+En todo caso el Ejecutivo del Estado, reglamentará lo necesario a fin de instrumentar los Registros.
 
-###### ARTÍCULO 29.
+###### Artículo 29.
 
-(DEROGADO, P.O. 15 DE JUNIO DE 2015)
+La utilización de los Registros se hará bajo los más estrictos principios de confidencialidad y de reserva. La consulta a los Registros se realizará única y exclusivamente en el ejercicio de funciones oficiales de seguridad publica; por ende, el público no tendrá acceso a la información que se contenga. El incumplimiento a esta disposición, así como el acceso a la información por parte de particulares, se equipara al delito de revelación de secretos y se sancionará como tal, sin perjuicio de responsabilidades de otra naturaleza en que se pudiera incurrir.
 
-###### ARTÍCULO 30.
+###### Artículo 30.
 
-(DEROGADO, P.O. 15 DE JUNIO DE 2015)
+Reglamentariamente se determinarán las bases para incorporar otros servicios o instrumentos que tiendan a integrar la información sobre seguridad pública y los mecanismos modernos que den agilidad y rapidez a su acceso.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2015)</small>
+También se determinarán las condiciones de seguridad sobre manejo y acceso a la información, la que tendrá siempre un responsable de inscripción. En los casos necesarios se asignará una clave confidencial a los responsables de inscribir y a las personas autorizadas para obtener la información de los sistemas, a fin de que quede la debida constancia de cualquier movimiento o consulta.
 
-### CAPÍTULO I
+### CAPITULO II. DEL REGISTRO ESTATAL DEL PERSONAL DE SEGURIDAD PUBLICA
 
-Del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2007)</small>
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+###### Artículo 31.
 
-###### ARTÍCULO 31.
+El Registro Estatal de Seguridad Pública, resguardará la información relativa al personal de los elementos de seguridad pública del Estado, los Municipios, exceptuándose a las autoridades judiciales, y contendrá por lo menos:
 
-El patrimonio del Instituto se integrará con:
+I.- Los datos que permitan identificar plenamente y localizar al servidor público, sus huellas digitales, fotografía, escolaridad y antecedentes laborales, así como su trayectoria en los servicios de seguridad pública o privada;
 
-I. Los bienes muebles e inmuebles, derechos y demás, que le asigne o transmita el Gobierno del Estado;
+II.- Los estímulos, reconocimientos y sanciones a que se haya hecho acreedor el servidor público;
 
-II. Las aportaciones federales, estatales y municipales que reciba;
+III.- Cualquier cambio de adscripción, actividad o rango del servidor público, así como las razones que lo motivaron.
 
-III. Los subsidios, donaciones y aportaciones de cualquier otra índole, que en su caso llegue a recibir;
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
 
-IV. Los recursos obtenidos para la ejecución de programas específicos;
+Cuando a los integrantes de las instituciones de seguridad pública, se les dicte cualquier auto de procesamiento, sentencia condenatoria o absolutoria, sanción administrativa o resolución que modifique, conforme (sic) o revoque dichos actos, la autoridad que conozca del caso respectivo notificará inmediatamente al Registro.
 
-V. Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
+Las órdenes de aprehensión o arresto administrativo se notificarán cuando no pongan en riesgo la investigación o la causa procesal.
 
-VI. Las acciones, derechos o productos que adquiera por cualquier otro título legal; y
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
 
-VII. Los demás bienes, servicios, derechos y aprovechamientos que le fijen las leyes y reglamentos, y los que provengan de otros fondos y aportaciones legalmente establecidos.
+###### Artículo 32.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+Las autoridades de seguridad pública en el Estado, inscribirán y mantendrán actualizados en el Registro los datos relativos a los integrantes de las instituciones de seguridad pública, en los términos de esta Ley y el Reglamento.
 
-###### ARTÍCULO 32.
+> <small>(REFORMADO, P.O. 25 DE JULIO DE 2007)</small>
 
-Los bienes muebles e inmuebles que formen el patrimonio del Instituto tendrán el carácter de inembargables e imprescriptibles conforme a las disposiciones legales aplicables.
+###### Artículo 33.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JUNIO DE 2015)</small>
+La consulta del Registro será obligatoria y previa al ingreso de todas las personas a cualquier institución policial estatal o municipal, incluyendo a las de formación policial. Con los resultados de la consulta la autoridad procederá de conformidad con las normas conducentes.
 
-###### ARTÍCULO 33.
+###### Artículo 34.
 
-Los titulares de las Dependencias en el ámbito estatal, designarán a un funcionario quien fungirá como titular de la Unidad de Enlace de Mejora Regulatoria quién será responsable de la mejora regulatoria al interior de cada una de éstas.
+Los integrantes de las instituciones de seguridad pública portarán una identificación que incluya fotografía, nombre, nombramiento y clave de inscripción en el registro.
 
-Los municipios y los organismos autónomos que hayan suscrito convenio con el propósito de poder cumplir con los objetivos de la presente Ley, contarán también con Unidades de Enlace de Mejora Regulatoria integrada por todas sus oficinas o áreas de trabajo.
+### CAPITULO III. DEL REGISTRO ESTATAL DE ARMAMENTO Y EQUIPO
 
-Los organismos descentralizados conformarán su propia Unidad de Enlace de Mejora Regulatoria.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JULIO DE 2007)</small>
 
-Deberá preferirse a los titulares de las Direcciones Jurídicas o Unidades Jurídicas para que encabecen estas Unidades de Enlace de Mejora Regulatoria. Los titulares de esta Unidad serán el enlace con el Instituto.
+###### Artículo 35.
 
-La designación de estos servidores públicos deberá publicarse en las páginas de Internet de la Dependencia correspondiente y en la del Instituto.
+Además de cumplir con lo dispuesto en otras Leyes, las autoridades de seguridad pública estatales y municipales deberán manifestar al Registro Estatal de Armamento y Equipo:
 
-En cada Unidad de Enlace de Mejora Regulatoria deberá haber un área encargada de la recepción, atención y seguimiento de las quejas y sugerencias.
+I.- Los vehículos que tuvieran asignados, anotándose el número de matrícula, las placas de circulación, la marca, modelo, tipo, número de serie y motor para el registro del vehículo;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
+II.- Las armas y municiones que les hayan sido autorizadas por las dependencias competentes, aportando el número de registro, la marca, modelo, calibre, matrícula y demás elementos de identificación.
 
-###### ARTÍCULO 34.
+###### Artículo 36.
 
-Son atribuciones de las Unidades de Enlace de Mejora Regulatoria las siguientes:
+Cualquier persona que ejerza funciones de seguridad, sólo podrá portar las armas de cargo que le hayan sido autorizadas individualmente o aquellas que se les hubiesen asignado, y que estén registradas colectivamente para la institución de seguridad a que pertenezcan, de conformidad con la Ley Federal de Armas de Fuego y Explosivos.
 
-I. Coordinar el proceso de mejora regulatoria en la dependencia y supervisar su cumplimiento, de conformidad con la presente Ley, su Reglamento y los lineamientos que apruebe el Consejo;
+###### Artículo 37.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+Las armas sólo podrán ser portadas durante el tiempo del ejercicio de funciones, o para un horario, misión o comisión determinados, de acuerdo con los ordenamientos de cada institución.
 
-II. Recibir y atender las quejas y propuestas regulatorias de las empresas y los ciudadanos;
+###### Artículo 38.
 
-III. Solicitar a cada una de las áreas que integran la unidad los planes de trabajo en materia de mejora regulatoria;
+En el caso de que los elementos de seguridad pública aseguren armas y/o municiones, lo comunicarán de inmediato al Registro Estatal de Armamento y Equipo y las pondrán a disposición de las autoridades competentes, en los términos de las disposiciones de la Ley Federal de Armas de Fuego y Explosivos.
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+###### Artículo 39.
 
-IV. Elaborar, ejecutar y dar seguimiento a los planes de trabajo de mejora regulatoria que integrarán el Programa Estatal de Mejora Regulatoria, en lo que respecta a las Dependencias del ámbito estatal y remitirlos a la Dirección General del Instituto, observando los lineamientos que emita la misma;
+El incumplimiento a las disposiciones de los artículos 36, 37, y 38 de esta Ley, dará lugar a que la portación de armas se considere ilegal y sea sancionada en los términos de las normas aplicables.
 
-V. Elaborar y ejecutar el Programa Operativo Municipal de Mejora Regulatoria, en lo que respecta a las dependencias del ámbito municipal;
+(DEROGADO CON EL ARTICULO QUE LO INTEGRA, P.O. 25 DE JULIO DE 2007).
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+### CAPITULO IV. DEL REGISTRO ESTATAL DE LOS SERVICIOS PRIVADOS DE SEGURIDAD Y DE OTROS AUXILIARES
 
-VI. Presentar trimestralmente a la Dirección General del Instituto, un informe de la aplicación del Programa Estatal de Mejora Regulatoria y del Programa Operativo Municipal de Mejora Regulatoria, respectivamente;
+###### Artículo 40.
 
-VII. Elaborar las Manifestaciones de Impacto Regulatorio;
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-VIII. Recibir, analizar, orientar y dar respuesta positiva o negativa según sea el caso, de la queja y/o propuesta regulatoria. Así mismo, deberá dar a conocer al Consejo y al Comité dichas manifestaciones ciudadanas y su análisis de mejora;
+### CAPITULO V. DE LA ESTADISTICA DE SEGURIDAD PUBLICA
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+###### Artículo 41.
 
-IX. Registrar en su (sic) la página de Internet los reportes y los dictámenes de las manifestaciones de impacto regulatorio que emita el Instituto;
+Reglamentariamente se señalarán los instrumentos de acopio de datos que permitan analizar la incidencia criminológica y, en general, la problemática de seguridad pública en los ámbitos del Estado y sus Municipios, con el propósito de planear las estrategias de las políticas tendientes a la preservación del orden y la paz públicos. El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León podrá evaluar las estadísticas, a fin de proponer las políticas de seguridad pública.
 
-X. Revisar periódicamente los trámites que se realicen en las dependencias; y
+###### Artículo 42.
 
-XI. Las demás que le señalen esta Ley, su Reglamento y otras disposiciones legales, así como el Consejo.
+La estadística de seguridad pública sistematizará los datos y cifras relevantes sobre servicios de seguridad preventiva, procuración y administración de justicia, sistemas de prisión preventiva, de ejecución de sentencias y de tratamiento de menores, y los factores asociados a la problemática de seguridad pública.
 
-### CAPÍTULO II. Del Comité de Calidad de la Mejora Regulatoria del Gobierno del Estado de Aguascalientes
+### CAPITULO VI. DE LA INFORMACION DE APOYO A LA PROCURACION DE JUSTICIA
 
-###### ARTÍCULO 35.
+###### Artículo 43.
 
-Los municipios del Estado, por conducto de sus ayuntamientos, promoverán la incorporación de la mejora regulatoria en su marco jurídico, su consecuente ejecución, así como el desarrollo de sus respectivas unidades de mejora regulatoria.
+Se integrará una base estatal de datos sobre personas probables y responsables de delitos, indiciadas detenidas, procesadas o sentenciadas, de consulta obligatoria en las actividades de seguridad pública, donde se incluyan sus características criminales, medios de identificación, recursos y modos de operación. Esta base de datos, se actualizará permanentemente y se conformará con la información que aporten las instituciones de prevención, procuración y administración de justicia, readaptación social y en general, todas las instituciones que deban contribuir a la seguridad pública, relativa a las investigaciones, averiguaciones previas, órdenes de detención y aprehensión, sentencias o ejecución de penas.
 
-###### ARTÍCULO 36.
+Esta información servirá para integrar el Registro de la Estadística de Seguridad Pública.
 
-Los municipios a través de sus dependencias, tendrán las siguientes atribuciones:
+La información se dará de baja por resoluciones de libertad, desvanecimiento de datos o falta de elementos para procesar, así como por sentencias absolutorias.
 
-I. Aprobar los Programas Operativos Municipales de Mejora Regulatoria;
+###### Artículo 44.
 
-II. Aplicar y dar seguimiento al Programa Operativo Municipal de Mejora Regulatoria que haya sido aprobado;
-
-III. Promover la transparencia en la elaboración y aplicación de las regulaciones, procurando que éstas generen beneficios superiores a sus costos para la sociedad;
-
-IV. Apoyar y fomentar el desarrollo de las actividades económicas, mediante la atención y asesoría al sector empresarial y a los particulares;
-
-V. Implementar procesos para detectar necesidades en materia de mejora regulatoria y para analizar propuestas ciudadanas enfocadas a impulsar la competitividad del municipio;
-
-VI. Diseñar y operar mecanismos de simplificación y agilización en los trámites y servicios;
-
-VII. Promover la realización de foros, encuentros, seminarios, comisiones de trabajo, encuestas y consultas estatales, nacionales e internacionales, entre los diversos sectores;
-
-VIII. Desarrollar acciones de capacitación para los servidores públicos involucrados en el área de mejora regulatoria;
-
-IX. Aprobar las acciones necesarias para mejorar la regulación en su ámbito competencial;
-
-X. Operar las actividades y funcionamiento de los SARE y Ventanillas Únicas de Gestión Empresarial que se encuentren bajo su competencia;
-
-XI. Procurar en sus procesos internos el catálogo de giros de actividades comerciales, industriales y/o de servicios conforme al Sistema de Clasificación Industrial de América del Norte, México (SCIAN); y
-
-XII. Las demás que prevea esta Ley, el Reglamento y otras disposiciones jurídicas aplicables, así como el Consejo.
-
-###### ARTÍCULO 37.
-
-El Programa Estatal de Mejora Regulatoria contendrá acciones en la materia, será elaborado por la Dirección General del Instituto y aprobado por la Junta Directiva y tendrá una vigencia de seis años, debiendo actualizarse cada vez que se considere conveniente y por lo menos en el tercer año de su vigencia. El Programa Estatal de Mejora Regulatoria deberá elaborarse dentro de los primeros seis meses del inicio de cada administración estatal y publicarse en el Periódico Oficial del Estado.
-
-###### ARTÍCULO 38.
-
-El Programa Estatal de Mejora Regulatoria deberá contemplar, por lo menos, la siguiente información:
-
-I. Trámites y servicios existentes, por modificar o eliminar en el Registro, así como los períodos en que esto ocurrirá;
-
-II. Períodos de realización de las revisiones de trámites y servicios;
-
-III. Diagnóstico del marco regulatorio vigente;
-
-IV. Programas de capacitación a los funcionarios públicos involucrados en materia de mejora regulatoria; y
-
-V. Las demás que determine el Consejo.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
-
-###### ARTÍCULO 39.
-
-Los responsables de las Unidades de Enlace de Mejora Regulatoria recopilarán los planes de trabajo de las Dependencias estatales a las que pertenezcan, con la finalidad de integrarlos al Programa Estatal de Mejora Regulatoria.
-
-En el caso de los organismos autónomos que hayan suscrito convenio, en los términos del Artículo 1° de esta Ley, observarán lo estipulado en el presente Capitulo, para efectos de integrar en el Programa Estatal de Mejora Regulatoria sus planes de trabajo.
-
-El Programa Estatal de Mejora Regulatoria se integrará conforme a los lineamientos estipulados en el Reglamento de esta Ley y los que determine la Junta Directiva.
-
-### CAPÍTULO III. Del Patrimonio del Instituto
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
-
-###### ARTÍCULO 40.
-
-El Programa Operativo Municipal de Mejora Regulatoria contendrá todas las acciones en materia de mejora regulatoria de las Dependencias de cada Municipio, a fin de cumplir con los objetivos establecidos en la presente Ley; será elaborado por las unidades de enlace de mejora regulatoria de los municipios que hayan suscrito el convenio correspondiente, mismo que deberá ser aprobado por cada Cabildo, dentro de los primeros 6 meses del inicio de la administración correspondiente y tendrá una vigencia no mayor a tres años.
-
-El Programa Operativo Municipal deberá incluir las propuestas que en su caso hayan presentado los organismos autónomos que hayan suscrito convenio con el Instituto y el mismo deberá ser congruente con el Programa Estatal de Mejora Regulatoria.
-
-### CAPÍTULO IV. De las Unidades de Enlace de Mejora Regulatoria en las Dependencias
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
-
-###### ARTÍCULO 41.
-
-El Programa Operativo Municipal de Mejora Regulatoria deberá contemplar, por lo menos, la siguiente información:
-
-I. Identificar los trámites y servicios que se pretenden crear, modificar y/o eliminar;
-
-II. Períodos de realización de las revisiones de trámites y servicios;
-
-III. Trámites y servicios que serán mejorados en períodos específicos;
-
-IV. Diagnóstico del marco regulatorio vigente; y
-
-V. Programas de capacitación a los funcionarios públicos involucrados en materia de mejora regulatoria.
-
-###### ARTÍCULO 42.
-
-Los responsables de las Unidades de Mejora Regulatoria de los municipios recopilarán los planes de trabajo de las dependencias a las que pertenezcan con la finalidad de integrarlos al Programa Operativo Municipal de Mejora Regulatoria.
-
-### CAPÍTULO V. De los Municipios
-
-###### ARTÍCULO 43.
-
-El Consejo, en la revisión de anteproyectos de trámites y ordenamientos jurídicos, que incidan en la actividad empresarial y en los servicios de atención a la ciudadanía, se sujetará a los siguientes criterios:
-
-I. Que obedezcan a una situación que cause o pueda causar un perjuicio público, de riesgo ambiental, de salud o de insuficiencia de información a los particulares, de tal magnitud que se justifique su creación o modificación;
-
-II. Que no puedan ser reemplazados por otras alternativas, incluidas las no obligatorias, que logren los mismos objetivos sobre los particulares a un menor costo;
-
-III. Que sean transparentes, claros, sencillos y precisos;
-
-IV. Que eviten el impacto negativo sobre las empresas, en especial las micro, pequeñas y medianas, al solicitar el menor número de trámites y datos, que reduzcan instancias, etapas o firmas, además que sean oportunos y prevengan la situación para no demorar el cumplimiento de la normatividad;
-
-V. Que generen beneficios que compensen los costos que implican para la sociedad, a través de la difusión y accesibilidad para que de esa manera los particulares estén veraz y suficientemente informados de los trámites y ordenamientos jurídicos vigentes;
-
-VI. Que estén sustentados por los recursos presupuestales y administrativos necesarios, para su aplicación y vigilancia;
-
-VII. Que se evalúe la posibilidad de incluir los costos establecidos en otro tipo de gravámenes;
-
-VIII. Que los formatos, procesos y trámites sean claros y entendibles;
-
-IX. Que requieran el menor tiempo de respuesta, se realicen en un solo lugar y estén incluidos todos los que correspondan a un mismo proceso, cuando sea conveniente;
-
-X. Que exista viabilidad para la adopción de la afirmativa o negativa ficta;
-
-XI. Que establezcan con claridad las razones o causas que las origina, la finalidad que buscan y exactamente el objeto y causa a regular;
-
-XII. Que aseguren congruencia con los tratados internacionales de comercio e inversión;
-
-XIII. Que busquen asociar trámites o gravámenes para incorporarse a alguno ya existente;
-
-XIV. Que señalen con claridad los gravámenes o derechos para evitar la discrecionalidad, indicando cantidades definidas que no queden sujetas a juicios subjetivos; y
-
-XV. Los que determine el Consejo para la mejora continua de la regulación estatal y municipal.
-
-###### ARTÍCULO 44.
-
-Se establece el mecanismo de compromiso administrativo, con la finalidad de mejorar y garantizar una eficiente y eficaz gestión gubernamental, y para asumir con responsabilidad el compromiso de otorgar respuesta al interesado en el plazo determinado por la legislación, reglamentación o decreto aplicable.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+Para efectos del Registro, el Ministerio Público sólo podrá reservarse la información que ponga en riesgo alguna investigación.
 
 ## TITULO CUARTO. DE LA PARTICIPACION CIUDADANA
 
-### CAPÍTULO I. Del Programa Estatal de Mejora Regulatoria
+### CAPITULO I. DE LOS COMITES DE CONSULTA Y PARTICIPACION CIUDADANA
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+###### Artículo 45.
 
-###### ARTÍCULO 45.
+El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, promoverá la integración de Comités de Consulta y Participación Ciudadana, que estarán vinculados con el propio Consejo y con los consejos municipales o intermunicipales que se estimen convenientes, convocando para ello a personas cuya actividad se relacione con la procuración y administración de justicia, readaptación social y seguridad pública, así como a las instituciones que fomenten la educación, la cultura o el deporte.
 
-Los titulares de las Dependencias designarán a un responsable de la Unidad de Enlace de Mejora Regulatoria, quien será el encargado de:
+###### Artículo 46.
 
-I. Coordinar el proceso de mejora regulatoria en el seno de la Dependencia correspondiente y supervisar su cumplimiento;
+El Comité Estatal de Consulta y Participación Ciudadana, elegirá de entre sus miembros una mesa directiva integrada por un Presidente, un Secretario Relator y el número de Vocales que determine el Consejo.
 
-II. Entregar al Instituto, cuando le sea solicitado, un programa de mejora regulatoria en relación con la normatividad y trámites que exige la Dependencia de que se trate, así como reportes trimestrales dentro de los primeros diez días del mes siguiente, sobre los avances correspondientes, mientras la Dependencia no concluya el proceso de mejora regulatoria y le sea proporcionada la certificación correspondiente por la Junta Directiva; y
+###### Artículo 47.
 
-III. Enviar al Instituto, los anteproyectos de leyes, reglamentos, decretos o acuerdos a que se refiere esta Ley y las manifestaciones de impacto regulatorio respectivas, que formule la Dependencia correspondiente, así como la información a inscribirse en el Registro Estatal de Trámites y Servicios.
+El Comité Estatal de Consulta y Participación ciudadana, promoverá la participación de la comunidad en actividades tales como:
 
-El Instituto hará públicos los programas y reportes a que se refiere la fracción II, así como los dictámenes que emita al respecto conforme a las disposiciones legales aplicables.
+I.- Conocer y opinar sobre políticas y seguridad pública;
 
-###### ARTÍCULO 46.
+II.- Sugerir medidas específicas y acciones concretas para mejorar esta función;
 
-Todo trámite de gestión administrativa, deberá contener en la regulación que lo fundamenta, el tiempo de que dispone la autoridad para dar respuesta, aplicando en lo conducente las disposiciones legales y reglamentarias, así como los acuerdos a que se refiere el Artículo siguiente.
+III.- Proponer reconocimientos por méritos o estímulos para los miembros de las instituciones policiales;
 
-###### ARTÍCULO 47.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-Los titulares de las dependencias podrán, mediante acuerdos generales publicados en el Periódico Oficial del Estado de Aguascalientes, establecer plazos de respuesta menores dentro de los máximos previstos en las leyes, reglamentos o decretos, y no exigir la presentación de datos y documentos previstos en las disposiciones mencionadas, cuando puedan obtener por otra vía la información correspondiente.
+IV.- Dar seguimiento a que el inculpado cumpla con el tratamiento al que se le sujetó, al que se refiere el artículo 287 bis 1 del Código Penal para el Estado de Nuevo León;
 
-###### ARTÍCULO 48.
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2008)</small>
 
-Ante el silencio de la autoridad administrativa para pronunciarse respecto al trámite solicitado por el particular, dentro de los plazos establecidos por las disposiciones legales o reglamentarias, así como en los acuerdos a que se refiere el Artículo anterior, se considerará que la respuesta a la solicitud del trámite será afirmativa o negativa según lo disponga la normatividad de la materia.
+V.- Realizar denuncias o quejas sobre irregularidades; y
 
-###### ARTÍCULO 49.
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2008)</small>
 
-Cuando en algún trámite opere la figura de la afirmativa o negativa ficta, su aplicación se hará sujetándose a los criterios establecidos en la normatividad de la materia, o a falta de estos en los siguientes:
+VI.- Auxiliara las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
 
-I. El tiempo de respuesta empezará a contar a partir del siguiente día hábil de la fecha en que fue presentada la solicitud de trámite, debidamente requisitada y completada la documentación correspondiente;
+El Comité podrá designar un vocal para coordinar cada una o varias de dichas actividades.
 
-II. Para que se declare incompleta una solicitud, la Dependencia deberá notificarle al interesado, dentro del plazo establecido para emitir su resolución, los requisitos que incumplió, los que cumplió parcialmente o los que presentó en forma incorrecta; de no hacer dicha notificación operará la figura correspondiente al trámite;
+###### Artículo 48.
 
-III. En caso de que se hubiera hecho la notificación respectiva, el plazo para que opere la afirmativa o negativa ficta empezará a contar a partir del siguiente día hábil de la fecha en que se cumplan correctamente los requisitos correspondientes;
+El Comité se reunirá para ocuparse de las actividades que le correspondan y, en su caso, formular planteamientos al Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León. El Secretario Relator deberá llevar las actas y acuerdos de las sesiones e instrumentar los asuntos que conozca y atienda el Comité.
 
-IV. Para declarar que opera la afirmativa ficta, es requisito que a la solicitud de trámite se anexen los documentos que acreditan el cumplimiento de todos los requisitos establecidos en las normas aplicables al caso específico, y que se haya desahogado el procedimiento administrativo previsto en la normatividad aplicable en su caso; y
+###### Artículo 49.
 
-V. En caso de la afirmativa ficta, una vez cumplido el plazo de otorgar respuesta a la solicitud de trámite del interesado, se considerará concedida o aprobado el mismo, para lo cual la autoridad administrativa, dentro de los cinco días hábiles siguientes, está obligada a obsequiar en sus términos lo solicitado. Dicha obligación deberá ser cumplida de oficio, pero también podrá ser ejecutada a instancia de la parte interesada.
+El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León por medio de su Secretario Ejecutivo, asistirá en sus tareas al Comité, cuyos miembros podrán participar en las sesiones del Consejo por conducto de su Presidente, quien tendrá voz pero no voto, para exponer sobre materias de su responsabilidad.
 
-La negligencia del servidor público, ante la aplicación de cualquiera de las fracciones anteriormente señaladas, será sancionada en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y de la presente Ley.
+### CAPITULO II. DE LOS SERVICIOS PRIVADOS DE SEGURIDAD
 
-### CAPÍTULO II. Del Programa Operativo Municipal de Mejora Regulatoria
+###### Artículo 50.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-###### ARTÍCULO 50.
+###### Artículo 51.
 
-Todo formato de solicitud de trámite de gestión administrativa deberá citar la regulación que lo fundamenta y el tiempo de respuesta. En los casos en que las dependencias no tengan establecido un formato, los interesados lo podrán solicitar a través de un escrito que contemple los requisitos en la normatividad aplicable.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-###### ARTÍCULO 51.
+###### Artículo 52.
 
-Las dependencias para una mayor agilidad en el cumplimiento de sus funciones, podrán utilizar en la dictaminación de las licencias, permisos y autorizaciones en general, la firma electrónica. Cuando las dependencias así lo determinen, ello será sólo una dictaminación preliminar, siendo formalizada posteriormente. En los casos de avisos se podrá dar por recibido con la firma electrónica.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-Se podrá utilizar la firma electrónica del interesado como un recurso preliminar de reconocimiento en las solicitudes efectuadas a través de los medios electrónicos puestos a su disposición para tal efecto.
+###### Artículo 53.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-###### ARTÍCULO 52.
+###### Artículo 54.
 
-Las Dependencias deberán entregar de manera periódica al Instituto la información respecto al número de solicitudes de trámites recibidas, el sentido afirmativo o negativo de las mismas y los casos de aplicación de la afirmativa o negativa ficta, para su evaluación en la revisión sistemática de trámites.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+###### Artículo 55.
 
-###### ARTÍCULO 53.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-Con el fin de agilizar la gestión gubernamental y empresarial, la actividad económica y el establecimiento, ampliación, reubicación y operación de Empresas, la Junta Directiva por conducto del Director General presentará ante las dependencias correspondientes, propuestas para realizar reformas o adiciones a la normatividad vigente a efecto de adoptar cuando sea conveniente, la figura de afirmativa ficta, así como mejorar la regulación y evitar la discrecionalidad.
+###### Artículo 56.
 
-###### ARTÍCULO 54.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-La Manifestación de Impacto Regulatorio tiene por objeto garantizar que los beneficios de las regulaciones sean superiores a sus costos y que fomenten la transparencia y la racionalidad.
+###### Artículo 57.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-###### ARTÍCULO 55.
+###### Artículo 58.
 
-Las Dependencias del ejecutivo estatal deberán presentar a la Dirección General del Instituto, las Manifestaciones de Impacto Regulatorio respecto de disposiciones y trámites por emitirse o modificarse de conformidad con el Reglamento de la Ley de Gestión Empresarial y Mejora Regulatoria.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-Las dependencias municipales podrán presentar a la Dirección General del Instituto las Manifestaciones de Impacto Regulatorio.
+###### Artículo 59.
 
-La Dirección General presentará en las sesiones correspondientes de la Junta Directiva las Manifestaciones de Impacto Regulatorio presentadas por las Dependencias.
+(DEROGADO, P.O. 25 DE JULIO DE 2007)
 
-No será necesario elaborar ni presentar Manifestación de Impacto Regulatorio respecto de proyectos de seguridad pública, fiscales, procuración de justicia, responsabilidad de servidores públicos, o que versen sobre las materias que son competencia de la Jefatura de Gabinete o del Ministerio Público en ejercicio de sus funciones constitucionales.
+### CAPITULO III. DE LOS SERVICIOS DE ATENCION A LA POBLACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
+###### Artículo 60.
 
-###### ARTÍCULO 56.
+El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, en Coordinación con el Consejo Nacional, impulsará el establecimiento en el Estado, de servicios de atención a la población, los que por lo menos, deberán comprender, los servicios de localización de personas, bienes, así como de reportes de la comunidad sobre quejas, emergencias, faltas y delitos.
 
-El Instituto elaborará y, en su caso, aprobará el Dictamen Regulatorio de la Manifestación de Impacto Regulatorio, que deberá estructurarse de conformidad con los principios de sencillez, transparencia y economía en los servicios, trámites y actos administrativos, a efecto de que permita conocer si los proyectos de regulaciones inciden en los siguientes lineamientos:
+###### Artículo 61.
 
-I. Los motivos de la regulación correspondiente;
+El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León, promoverá en el Estado, un servicio de atención y queja de la ciudadanía, en que se reporten las anomalías en la prestación de los servicios de seguridad pública, con objeto de conocer la opinión de la comunidad, y a fin de tratar de corregir las anomalías en la prestación de los servicios de seguridad pública en el Estado.
 
-II. El fundamento jurídico del proyecto propuesto y los antecedentes regulatorios existentes;
+El Consejo notificará a las autoridades competentes los reportes, a fin de que se actúe conforme al párrafo anterior.
 
-III. Los riesgos de no emitir la regulación;
-
-IV. Las alternativas consideradas y la solución propuesta;
-
-V. Los costos y beneficios de la regulación;
-
-VI. La identificación y descripción de los trámites; y
-
-VII. El método para asegurar el cumplimiento de la regulación.
-
-###### ARTÍCULO 57.
-
-Los lineamientos para la elaboración del dictamen regulatorio serán establecidos en el Reglamento de la presente Ley.
-
-###### ARTÍCULO 58.
-
-El Registro es el expediente electrónico que contiene los trámites y requisitos de las dependencias de la Administración Pública Estatal y Municipales, que permitirá su conocimiento público y que permite su aplicación a los ciudadanos.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
-
-###### ARTÍCULO 59.
-
-El Instituto será el encargado de integrar y operar el Registro.
-
-### CAPÍTULO III. De los Criterios para la Revisión de Trámites y Ordenamientos Jurídicos
-
-###### ARTÍCULO 60.
-
-Las dependencias deberán inscribir sus trámites o actos administrativos con la siguiente información, como mínimo:
-
-I. Nombre del servicio, trámite o acto administrativo;
-
-II. Nombre de la dependencia ante la cual se realiza el servicio, trámite o acto administrativo a que se refiere;
-
-III. Cargo del servidor público responsable de atenderlo y resolverlo;
-
-IV. Fundamento jurídico que da origen al servicio, trámite o acto administrativo a que se refiere;
-
-V. Casos o supuestos en los que debe prestarse el servicio, trámite o acto administrativo a que se refiere;
-
-VI. Formatos;
-
-VII. Horarios de atención, números de teléfono, fax, correo electrónico, domicilio y cualquier otro dato que facilite la localización de la dependencia;
-
-VIII. Listado de los requisitos que se deben de cumplir al gestionar el servicio, trámite o acto administrativo a que se refiere;
-
-IX. Datos de los anexos que se deben incluir al realizar el servicio, trámite o acto administrativo;
-
-X. Monto de los derechos;
-
-XI. Plazo máximo de respuesta y si conforme a las disposiciones jurídicas aplicables opera la afirmativa o la negativa ficta;
-
-XII. Recursos o medios de impugnación que puede hacer valer en caso de no ser satisfactoria la respuesta o no darse ésta en el plazo establecido;
-
-XIII. Vigencia del trámite; y
-
-XIV. Información adicional que se estime necesaria para facilitar el servicio, trámite o acto administrativo a que se refiere.
-
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
-
-###### ARTÍCULO 61.
-
-El Instituto por conducto de la Junta Directiva emitirá los lineamientos que las Dependencias deberán de observar para efectos de inscribir la información a que se refiere el artículo anterior en el Registro.
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2000)</small>
 
 ## TITULO QUINTO
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-### CAPÍTULO IV. Del Compromiso Administrativo
+### CAPITULO I. DE LA POLICIA PREVENTIVA
 
-###### ARTÍCULO 62.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2007)</small>
 
-Las Unidades de Mejora Regulatoria deberán revisar y actualizar periódicamente los trámites inscritos en el Registro.
+###### Artículo 62.
 
-###### ARTÍCULO 63.
+La Policía Preventiva se integra por las diversas instituciones policiales dependientes de la Secretaría de Seguridad Pública del Estado y por las pertenecientes a los Municipios de Nuevo León. Son autoridades de la Policía Preventiva del Estado de Nuevo León:
 
-La legalidad y el contenido de la información inscrita en el Registro, será de la estricta responsabilidad de las dependencias que proporcionen dicha información.
+I.- El Gobernador del Estado;
 
-###### ARTÍCULO 64.
+II.- El Secretario General de Gobierno;
 
-Las dependencias no podrán requerir a los interesados para la prestación de servicios, trámites y actos administrativos requisitos adicionales que no estén inscritos previamente en el Registro y publicados en la página de Internet correspondiente.
+III.- El Secretario de Seguridad Pública;
 
-###### ARTÍCULO 65.
+IV.- El Procurador General de Justicia;
 
-El Registro será regulado en los términos establecidos en el Reglamento de la presente Ley.
+V.- Los Subsecretarios y Directores dependientes de la Secretaría de Seguridad Pública que tengan a su cargo instituciones policiales.
 
-###### ARTÍCULO 66.
+VI.- Los Presidentes Municipales; y
 
-El REPA es la base de datos que contiene los documentos electrónicos probatorios de identidad, domicilio, estado civil u otro, que han sido presentados por el Interesado ante cualquier Dependencia, así como el historial de movimientos realizados, evitando la duplicidad de documentos.
+VII.- Los titulares de las instituciones policiales municipales.
 
-El Instituto será el encargado de conformar, coordinar y actualizar el REPA y compartir la información que competa a cada Dependencia.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-En el convenio que suscriban los municipios y los organismos autónomos deberán manifestar su conformidad de manera explícita, para compartir la información a que se refiere el párrafo anterior.
+Al Titular del Poder Ejecutivo del Estado le compete proteger la seguridad de las personas, sus bienes y derechos; así como mantener la paz, la tranquilidad y el orden público en todo el Estado, por conducto de las Dependencias que conforme a la Ley Orgánica de la Administración Pública deban ejercer esa atribución.
 
-###### ARTÍCULO 67.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-Las dependencias deberán asignar a los interesados una clave REPA de identificación conformada con base en el Registro Federal de Contribuyentes o en la Clave Única de Registro de Población, en su caso.
+###### Artículo 63.
 
-El ciudadano o las personas morales para hacer uso del REPA deberán tramitar su firma electrónica certificada, para así poder accesar y realizar promociones electrónicas.
+El servicio de seguridad pública que proporcione la policía preventiva se regirá por los principios constitucionales de legalidad, eficiencia, profesionalismo y honradez.
 
-Los titulares de la clave REPA serán responsables del uso, contenido y actualización de la documentación e información que conforme su expediente.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 68.
+###### Artículo 64.
 
-El REPA será de uso gratuito pero tan sólo para el interesado que tengan (sic) asignada la clave REPA. Los interesados deberán presentar, sin perjuicio de lo que señale el Reglamento, copia y original de los siguientes documentos, para su debido cotejo:
+El Ejecutivo del Estado podrá celebrar convenios con los municipios del Estado, previa aprobación de los Ayuntamientos correspondientes, para que de manera directa se haga cargo en forma temporal de la prestación del servicio público de policía preventiva, o bien se preste coordinadamente entre ambos niveles de gobierno, conforme a las prescripciones del artículo 6 de esta Ley.
 
-I. En el caso de personas morales, testimonio del acta constitutiva y estatutos vigentes inscritos en el Registro Público de la Propiedad y del Comercio que corresponda y la Cédula de Identificación Fiscal, así como los poderes de los representantes y su identificación oficial;
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-II. En el caso de personas físicas, identificación oficial con fotografía y la clave única del registro de población; y
+###### Artículo 65.
 
-III. Cualquier otro organismo o asociación civil, la documentación necesaria que acredite su estatus legal e identifique a su representante autorizado.
+A la Policía Preventiva comprenderá, entre otras acciones que determinen ésta y las demás leyes, las siguientes:
 
-Para la aplicación del presente Artículo, las dependencias deberán observar, además, las disposiciones legales de la normatividad en materia de identidad ciudadana.
+I.- Prevenir y evitar la comisión de delitos y demás actos contrarios a la seguridad de las personas y a su patrimonio;
 
-###### ARTÍCULO 69.
+II.- Vigilar el cumplimiento estricto de las leyes y reglamentos de policía y buen gobierno;
 
-Una vez inscrito el interesado en el REPA, las dependencias deberán consultar el mismo con la finalidad de verificar toda la información integrada del interesado, salvo que el servicio, trámite o acto administrativo de que se trate requiera documentación adicional.
+III.- Mantener el orden y la tranquilidad en los lugares públicos;
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+IV.- Auxiliar a las autoridades para que en el ámbito de su competencia se dé cumplimiento a las leyes y reglamentos de la materia;
 
-###### ARTÍCULO 70.
+V.- Colaborar en las labores preventivas y de auxilio en los casos de desastres naturales o los causados por la actividad humana.
 
-La Junta Directiva, emitirá los lineamientos para la creación, operación e interconexión informática del REPA, los cuales contendrán los mecanismos y procedimientos para establecer los formatos de inscripción y claves de identificación, en los términos de la presente Ley y su Reglamento.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2007)</small>
 
-### CAPÍTULO V. De la Manifestación de Impacto Regulatorio
+###### Artículo 66.
 
-###### ARTÍCULO 71.
+Los integrantes de las instituciones policiales a que se refiere la presente Ley están obligados a cumplir los siguientes deberes:
 
-El SARE es el proceso, transparente y competitivo, que ofrece la administración pública estatal y municipal a las empresas para obtener licencias o autorizaciones de funcionamiento.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-Preferentemente el SARE deberá estar instalado dentro del Centro Municipal de Negocios.
+I.- Respetar en forma estricta el orden jurídico y los derechos humanos;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 72.
+II.- Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
 
-El SARE será implementado por los municipios en coordinación con el Instituto y la Comisión Federal de Mejora Regulatoria, con base en los acuerdos o convenios firmados al respecto, conforme a los siguientes lineamientos:
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-I. Se establecerá un Formato Único de Apertura para la solicitud del trámite, impreso o en forma electrónica, pudiendo referirse, entre otros, a los siguientes trámites:
+III.- Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su raza, religión, sexo, condición económica o social, preferencia sexual, ideología política o por algún otro motivo;
 
-a) Licencia de uso de suelo, alineamiento y número oficial;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-b) Subdivisión de predios;
+IV.- Abstenerse en todo momento y bajo cualquier circunstancia de infligir, tolerar o permitir actos de tortura u otros tratos o sanciones crueles, inhumanos o degradantes, aun cuando se trate de orden superior o se argumenten circunstancias especiales, como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra de naturaleza similar. Si se tiene conocimiento de estos hechos lo denunciará inmediatamente a la autoridad competente;
 
-c) Estudio de factibilidad de servicios de agua potable y alcantarillado;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-d) Solicitud de contrato de conexión de servicios de agua potable y alcantarillado;
+V.- Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar, indebidamente, las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
 
-e) Permiso de descarga de aguas residuales;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-f) Licencia de construcción;
+VI.- Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción;
 
-g) Permiso de colocación de anuncios;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-h) Licencia de operación municipal;
+VII.- Abstenerse de realizar la detención de persona alguna sin cumplir con los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
 
-i) Informe preventivo;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-j) Manifestación de impacto ambiental;
+VIII.- Velar por la vida e integridad física de las personas detenidas, en tanto se ponen a disposición del Ministerio Público o de la autoridad competente;
 
-k) Aviso de alta en el registro de impuestos estatales; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2007)</small>
 
-l) Dictamen de impacto vial.
+IX.- Participar en operativos de coordinación con otras instituciones policiales, así como brindarles, en su caso, el apoyo que conforme a Derecho proceda;
 
-El formato único, en sus diversas modalidades, incluyendo los requisitos y tiempos de respuesta de los trámites iniciados, deberá publicarse en el Periódico Oficial del Estado.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+X.- Obedecer las órdenes de los superiores jerárquicos y cumplir con todas sus obligaciones, siempre y cuando sean conforme a Derecho;
 
-II. El Formato Único de Apertura se publicará en las páginas de internet de los municipios y del Instituto;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-III. Se publicará en la página de Internet de los municipios el catálogo de giros comerciales SARE, previa autorización del Cabildo correspondiente;
+XI.- Ser respetuoso con sus subordinados y ejemplo de honradez, disciplina, honor, lealtad a las instituciones y fiel observante de la legalidad;
 
-IV. Emitirá respuesta a las solicitudes de licencias municipales en un tiempo máximo de 72 horas;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-V. Enlazará, en su caso, los trámites federales y/o estatales de apertura, de conformidad con la legislación aplicable, fomentando el uso de las tecnologías de información; y
+XII.- Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan, con las excepciones que determinen las leyes; y
 
-VI. Las demás que determine esta Ley y su Reglamento.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 73.
+XIII.- Las demás acciones u omisiones que establezca el Reglamento de esta Ley.
 
-Las dependencias estatales y municipales instrumentaran en el ámbito de su competencia el SARE en sus diversas modalidades.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2007)</small>
 
-### CAPÍTULO IX. De los Centros Municipales de Negocios
+###### Artículo 67.
 
-###### ARTÍCULO 74.
+En consideración a la naturaleza del servicio público que prestan los integrantes de las instituciones policiales, tienen prohibido:
 
-Los Centros Municipales de Negocios o su equivalente, serán las áreas físicas, integradas con los recursos humanos, materiales y tecnológicos que los municipios podrán destinar para la prestación de los servicios, trámites o actos administrativos relacionados con el desarrollo económico del municipio, con la finalidad de brindar una atención integral a los emprendedores, micro, pequeñas y medianas empresas.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-Los municipios establecerán los lineamientos que faciliten la operación de los Centros Municipales de Negocios, en los términos de la presente Ley y su Reglamento.
+I.- Participar en actos públicos en los cuales se denigre a la institución, a los Poderes del Estado o a las instituciones jurídicas que rigen en el país;
 
-Los municipios, previo convenio, podrán ofrecer dentro de las instalaciones de los Centros Municipales de Negocios, los servicios y trámites en materia de mejora regulatoria que brindan las autoridades federales y los sectores privado y académico.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 75.
+II.- Abandonar el servicio o no realizar la comisión que se le haya ordenado, así como presentarse fuera de las horas señaladas para el servicio o comisión;
 
-De manera enunciativa más no limitativa, los servicios, trámites, actos administrativos y servicios que se ofrecen en los Centros Municipales de Negocios serán los siguientes:
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-I. Orientar a los interesados para iniciar operaciones o para realizar una actividad económica;
+III.- Tomar parte activa en calidad de participante en manifestaciones, mítines u otras reuniones de carácter público de igual naturaleza, así como realizar o participar de cualquier forma, por causa propia o por solidaridad con causa ajena, en cualquier movimiento o huelga, paro o actividad similar que implique o tienda a la suspensión o ineficacia del servicio;
 
-II. Informar a los interesados sobre los planes y programas de capacitación, asesoría, financiamiento, bolsa de trabajo, entre otros, enfocados a promover el desarrollo económico; y
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-III. Las demás que establezca esta Ley, su Reglamento y otras disposiciones jurídicas aplicables.
+IV.- Revelar los datos u órdenes secretas que reciba de sus superiores;
 
-### CAPÍTULO X. De la Queja y Propuesta Regulatoria
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-### CAPÍTULO VI. Del Registro Estatal de Trámites y Servicios
+V.- Rendir informes falsos a sus superiores respecto de los servicios o comisiones que le fueren encomendados;
 
-###### ARTÍCULO 76.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-El interesado que gestione un trámite o servicio, podrá manifestar su insatisfacción a través de la queja regulatoria, ya sea por el no otorgamiento de su solicitud o gestión o bien, una vez otorgado, lo estime deficiente con respecto a su oportunidad, accesibilidad, transparencia, calidad y economía administrativa.
+VI.- Valerse de su investidura para cometer cualquier acto que no sea de su competencia;
 
-Para la presentación de la queja deberá observarse lo siguiente:
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-I. Puede presentarse de manera física o electrónica;
+VII.- Incitar en cualquier forma a la comisión de delitos o faltas administrativas;
 
-II. Señalar la identidad del interesado;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-III. Presentarse, preferentemente, ante la dependencia competente del trámite. Sin embargo, el interesado podrá presentarla ante cualquier otra dependencia de la administración pública estatal o municipal o bien de los organismos autónomos, en términos del Artículo 1º de la presente Ley.
+VIII.- Cometer cualquier acto de indisciplina o abuso de autoridad en el servicio o fuera de él;
 
-###### ARTÍCULO 77.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-El ciudadano podrá en cualquier momento del proceso regulatorio o incluso sin darse este supuesto, manifestar recomendaciones, sugerencias, ideas y proyectos de mejora del marco regulatorio en cualquiera de sus elementos.
+IX.- Desobedecer las órdenes emanadas de las autoridades judiciales, especialmente en los casos relacionados con la libertad de las personas;
 
-###### ARTÍCULO 78.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-Cualquier dependencia de la administración pública estatal o los municipios firmantes deberá recibir las quejas y propuestas, a pesar de no estar notoriamente identificada con el mismo, y debiendo turnarla a la dependencia que juzgue conveniente de acuerdo a la normatividad y lo que muestre el Registro. Ante la duda, deberá hacerlas llegar a las unidades de mejora regulatoria de la dependencia del sector que pertenecen. Para el desahogo de la queja, las dependencias observaran, en lo que sea aplicable, la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+X.- Expedir órdenes cuya ejecución constituya un delito. El subalterno que las cumpla y el superior que las expida serán responsables conforme a la Ley;
 
-### CAPÍTULO XI. De la Transparencia y Acceso a la Información Pública
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 79.
+XI.- Permitir la participación de personas que se ostenten como policías sin serlo, en actividades que deban ser desempeñadas por miembros de la policía preventiva;
 
-Las dependencias de la Administración Pública Estatal y Municipales, así como los organismos autónomos que hayan suscrito convenio, en los términos del Artículo 1º de la presente Ley, deberán poner a disposición del público en general, toda la información y documentación señalada en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes, observando en todo momento los lineamientos que la propia ley de la materia señala.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 80.
+XII.- Salvar conductos al tratar asuntos del servicio;
 
-Una vez presentado el informe anual de avances y resultados del Programa Estatal o Municipal de Mejora Regulatoria, previsto en esta Ley, deberá publicarse en el Periódico Oficial del Estado de Aguascalientes y en los sitios web de la dependencia correspondiente.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 81.
+XIII.- Poner en libertad a los presuntos responsables de algún delito, sin haberlos puesto a disposición del Ministerio Público;
 
-Ante una solicitud de información en términos de la ley de la materia prevalecerá ésta, pero en el momento en que involucre una queja o propuesta regulatoria del ciudadano ante un trámite, serán materia de las unidades y autoridades de la mejora regulatoria.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-### CAPÍTULO XII. De las Infracciones y Sanciones Administrativas
+XIV.- Solicitar o recibir regalos o dádivas de cualquier especie, así como aceptar ofrecimiento o promesa, por acciones u omisiones del servicio y, en general, realizar cualquier acto de corrupción;
 
-###### ARTÍCULO 82.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-Los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de las quejas regulatorias que presenten los interesados y particulares.
+XV.- Presentarse o desempeñar su servicio o comisión bajo los efectos de alguna droga, en estado de ebriedad, con aliento alcohólico o ingiriendo bebidas alcohólicas; así como presentarse uniformado en casas de prostitución o centros de vicio y otros análogos a los anteriores, sin justificación en razón del servicio;
 
-###### ARTÍCULO 83.
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-Se considerará obstrucción empresarial cualquiera de las conductas siguientes:
+XVI.- Realizar colecta de fondos o rifas durante el servicio;
 
-I. Incumplimiento de plazos de respuesta establecidos en los servicios, trámites y actos administrativos ante dependencias y entidades tanto estatales como municipales;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-II. Sobrepedimento (sic) de información y documentos;
+XVII.- Utilizar en forma negligente o indebida, dañar, vender o pignorar el armamento que se le proporcione para la prestación del servicio; y
 
-III. Uso indebido de la información, registros, documentos, bases de datos u otro similar;
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-IV. Extravío de documentos;
+XVIII.- Las demás acciones u omisiones que establezca el Reglamento de esta Ley.
 
-V. Solicitud de gratificaciones o apoyos para beneficio particular;
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
-VI. Alteración de reglas y procedimientos;
+###### Artículo 68.
 
-VII. Negligencia o negativa en la recepción de documentos;
+La Secretaría de Seguridad Pública del Estado contará con unidades administrativas e instituciones policiales de carácter operativo, que prestarán directamente el servicio público de seguridad en las zonas urbanas y rurales del Estado, respectivamente, en los términos de lo previsto en esta Ley y su Reglamento. Se organizarán conforme al Reglamento que expida el Titular del Poder Ejecutivo, en el que se indicarán, entre otros aspectos, la estructura administrativa y operativa, clasificación de mandos y comandos y sus funciones específicas.
 
-VIII. Negligencia para dar seguimiento al trámite;
+El titular de la Secretaría de Seguridad Pública, así como los de las Subsecretarías que dependan de ésta y los de las Direcciones de las que dependan instituciones policiales serán designados y removidos por el Titular del Poder Ejecutivo del Estado.
 
-IX. Manejo indebido de la firma electrónica;
+Asimismo, las autoridades municipales expedirán los Reglamentos que regularán sus respectivas instituciones policiales.
 
-X. Negligencia o negativa en la aplicación de un trámite por desconocimiento de la normatividad aplicable; y
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-XI. Aquellas que incidan en perjuicio del establecimiento y operación de empresas o la satisfacción de una necesidad ciudadana.
+###### Artículo 69.
 
-###### ARTÍCULO 84.
+La carrera policiaca se establece con carácter obligatorio y permanente para los integrantes de las instituciones policiales, en virtud de que es el elemento básico para su formación. En el Reglamento de esta Ley se establecerán los requisitos y procedimientos de selección, ingreso, formación, capacitación, adiestramiento, desarrollo, actualización, permanencia, promoción y separación del servicio, así como su evaluación.
 
-Las sanciones que deberán aplicarse en el caso de las infracciones previstas en el Artículo anterior consistirán en:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2007)</small>
 
-I. Amonestación privada o pública en los casos de las infracciones previstas en el Artículo anterior Fracciones I y II;
+###### Artículo 70.
 
-II. Suspensión en el empleo, cargo o comisión en los casos de las infracciones previstas en el Artículo anterior fracciones III, IV, VII, VIII y X;
+El personal adscrito a la Secretaría de Seguridad Pública deberá capacitarse, previamente a su ingreso al servicio.
 
-III. Destitución en el empleo, cargo o comisión en los casos de las infracciones previstas en el Artículo anterior fracciones V, IX y XI; y
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+El personal administrativo recibirá la capacitación y adiestramiento que determine el Reglamento de esta Ley.
 
-IV. Sanción Económica, hasta de 30 veces el valor diario de la Unidad de Medida y Actualización, en los casos de las infracciones previstas en el Artículo anterior Fracción VI.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-Para la aplicación de las sanciones que correspondan con motivo de las mencionadas infracciones, se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes y en la Ley Municipal para el Estado de Aguascalientes, sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los servidores públicos.
+Los municipios del Estado procurarán que el personal de su policía preventiva acuda a la Academia Estatal de Policía para recibir la instrucción correspondiente, previa celebración de los convenios de cooperación respectivos, en los que se estipulen los términos, condiciones, modalidades y compensaciones aplicables.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-### CAPÍTULO XIII. Del Órgano de Vigilancia
+### CAPITULO II. DE LA ACADEMIA ESTATAL DE POLICIA
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
-###### ARTÍCULO 85.
+###### Artículo 71.
 
-El Órgano de Vigilancia del Instituto estará integrado por un Comisario Público propietario y un suplente, designados por el Gobernador del Estado, quien escuchará las propuestas que le formulen el Jefe de Gabinete y la Secretaría de Fiscalización y Rendición de Cuentas del Estado, para tal efecto.
+El Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Seguridad Pública, tendrá a su cargo la Academia Estatal de Policía, como unidad de capacitación y especialización, responsable de la instrucción de los integrantes de cuerpos de seguridad pública de carácter preventivo del Estado.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-### CAPÍTULO VII. Del Registro Estatal de Personas Acreditadas
+###### Artículo 72.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2015)</small>
+La instrucción que imparta la Academia Estatal de Policía se regirá por los principios de legalidad, eficiencia, profesionalismo y honradez, haciendo especial énfasis en los procedimientos y estrategias para combatir la corrupción. Para tal efecto, la formación que imparta la Academia inculcará en los integrantes de las instituciones policiacas el cumplimiento de los deberes y prohibiciones indicados en los artículos 66 y 67 de esta Ley.
 
-###### ARTÍCULO 86.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-El Comisario Público evaluará el desempeño general y por funciones del Instituto, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión y en general, solicitará la información y efectuará los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de Fiscalización y Rendición de Cuentas le asigne.
+###### Artículo 73.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+La Academia Estatal de Policía podrá proporcionar instrucción al personal de los cuerpos de seguridad pública de otros estados y de sus municipios, previa la celebración de convenios en los que se pacten los términos, condiciones, modalidades y compensaciones correspondientes. Así mismo, acreditará la capacitación del personal de los prestadores de servicios privados de seguridad, conforme a los términos y condiciones que establezca el Reglamento.
 
-###### ARTÍCULO 87.
+El Titular del Poder Ejecutivo del Estado podrá coordinarse con el Gobierno Federal y con los demás estados y sus municipios, para homologar procedimientos y equivalencias de los contenidos mínimos de los planes y programas para la formación de los integrantes de las instituciones policiales.
 
-Para el cumplimiento de las funciones del Comisario Público, la Junta Directiva y el Director General le proporcionarán la información que les solicite.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE MARZO DE 2007)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2015)</small>
+###### Artículo 74.
 
-### CAPÍTULO XIV. De las Suplencias
+Para el cumplimiento de sus objetivos, la Academia contará con un Consejo Técnico integrado por un representante, respectivamente de las dependencias y organismos siguientes:
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+I.- Secretaría General de Gobierno;
 
-### CAPÍTULO VIII. Del Sistema de Apertura Rápida de Empresas
+II.- Secretaría de Seguridad Pública;
 
-###### ARTÍCULO 88.
+III.- Procuraduría General de Justicia;
 
-El Director General será suplido en sus ausencias temporales conforme a lo previsto en el Reglamento Interior, quien lo supla contará con todas las facultades que correspondan al titular, independientemente las de su propio cargo o comisión.
+IV.- Secretaría de Finanzas y Tesorería General del Estado;
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+V.- Secretaría de Educación; y
 
-###### ARTÍCULO 89.
+VI.- Consejo de Coordinación de Seguridad Pública del Estado.
 
-Las ausencias temporales de los titulares de las direcciones y unidades administrativas, serán suplidas conforme a lo previsto en el Reglamento Interior.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+El Consejo será de naturaleza consultiva y estará facultado para examinar y dar opinión sobre los planes y programas de estudio y de otros proyectos académicos, así como sobre la organización y funcionamiento de la Academia, entre otras facultades de igual carácter que le señale el Reglamento.
 
-###### ARTÍCULO 90.
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-Los servidores públicos que cubran las ausencias, actuarán como encargados del despacho, con todas las facultades que correspondan al titular, independientemente de las de su propio cargo o comisión.
+###### Artículo 75.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2015)</small>
+El Director de la Academia deberá reunir los requisitos que señale el Reglamento y será nombrado y removido libremente por el Gobernador del Estado.
 
-### CAPÍTULO XV. Del Régimen Laboral
+La Academia contará con una planta docente seleccionada conforme al procedimiento que determine el Reglamento, bajo los principios de idoneidad, capacidad académica, honradez y vocación de servicio.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2000)</small>
 
-###### ARTÍCULO 91.
+### CAPITULO III. DE LA NATURALEZA DEL SERVICIO Y REGIMEN LABORAL
 
-Las relaciones laborales del Instituto y sus servidores públicos se regirán por las disposiciones del Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, de sus Municipios y Organismos Descentralizados.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2015)</small>
+###### Artículo 76.
 
-###### ARTÍCULO 92.
+El personal que integra las instituciones policiales del Estado y Municipios es de confianza, incluyendo a los que prestan los servicios en los Centros de Readaptación Social, Protección Civil, centros de internamiento de adolescentes infractores y Academia Estatal de Policía, en los términos de la Ley del Servicio Civil del Estado de Nuevo León.
 
-El personal del Instituto estará incorporado en los términos de la Ley relativa a las prestaciones de seguridad y servicios sociales para los servidores públicos del Estado de Aguascalientes.
+Por la naturaleza del servicio, los integrantes de las instituciones policiales anteriores están destinados a mantener la tranquilidad y el orden público, a proteger los intereses de la sociedad y de los individuos que la componen y, en general, a cumplir con la función que les encomiende la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nuevo León y los demás ordenamientos jurídicos aplicables, velando en todo momento por el irrestricto respeto a los derechos humanos y el combate a todo tipo de corrupción.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 77.
+
+Los nombramientos, derechos y obligaciones de carácter laboral de los integrantes de la policía preventiva del Estado y Municipios, se sujetarán a las disposiciones de esta Ley y de su Reglamento y, en lo no previsto, a lo indicado en la Ley del Servicio Civil del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 78.
+
+Las prestaciones relacionadas con la seguridad social de los integrantes de la policía preventiva se sujetará a las prescripciones de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León. En el caso de la policía preventiva de los municipios se observará, en su caso, lo dispuesto en la fracción II del Artículo 3 de la Ley citada.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 79.
+
+Adicionalmente a las prestaciones que señale la Ley aplicable, el Ejecutivo del Estado, previo el cumplimiento de los requisitos que señale el Reglamento de esta Ley, podrá otorgar una compensación adicional a los integrantes de la policía preventiva que resulten lesionados o incapacitados para continuar prestando sus funciones habituales; en cuyo caso, de ser posible, se les destinará a realizar labores administrativas.
+
+De igual manera, en los términos que indique el Reglamento de esta Ley, cuando ocurra un deceso o incapacidad total permanente como causa directa del cumplimiento del deber, se podrá otorgar una casa de interés social a sus dependientes económicos, en caso de que no tengan una en propiedad, así como una compensación que cubra los gastos funerarios y becas para la educación de los hijos menores de edad.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 80.
+
+El Ejecutivo del Estado, por conducto de la Dependencia competente tramitará los ascensos del personal, conforme a lo establecido en el Artículo 83 de la Ley, teniendo en cuenta los expedientes u hojas de servicios de los actuales miembros, respetando los derechos adquiridos.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 81.
+
+El ascenso o la promoción al grado inmediato superior, sólo se considerará dentro de la misma especialidad o servicio, excepto en los casos en los que no haya interesados para cubrir la vacante. Sólo se concederá el ascenso cuando haya plaza disponible. Los beneficios provenientes de un ascenso sólo pueden ser renunciados por aquellos a quienes corresponda el derecho de ascender. La renuncia al ascenso no implica la pérdida del empleo, cargo o comisión que desempeñe.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 82.
+
+Por ningún motivo se concederán ascensos a los individuos que se encuentren:
+
+a) Inhabilitados por sentencia judicial ejecutoriada;
+
+b) Disfrutando de licencia para asuntos particulares;
+
+c) Sujetos a un proceso penal;
+
+d) Desempeñando un cargo de elección popular; y
+
+e) En cualquier otro supuesto previsto en otras leyes.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 83.
+
+Los ascensos se concederán, teniendo en cuenta las circunstancias siguientes:
+
+a) Perfil y Capacidad;
+
+b) Antigüedad en la corporación;
+
+c) Conducta;
+
+d) Antigüedad como servidor público;
+
+e) Méritos especiales; y
+
+f) A través de los cursos de ascenso correspondiente.
+
+Cuando haya igualdad en las dos primeras, las segundas serán las que se tomen en cuenta y, en último caso, será decisión del Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 84.
+
+La antigüedad para los elementos de la Dirección de Seguridad Pública se contará desde la fecha en que hayan causado alta en cualquiera de las dependencias del Gobierno del Estado, en forma ininterrumpida.
+
+> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+###### Artículo 85.
+
+No se computará como tiempo de servicio:
+
+a) El de las licencias ordinarias y extraordinarias, cuando se concedieron para asuntos particulares;
+
+b) El de las comisiones fuera del servicio de la Policía; y
+
+c) El de las suspensiones, en los casos en que éstas sean obstáculos para la concesión del ascenso.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 18 DE OCTUBRE DE 2000)</small>
+
+### CAPITULO IV. DE LA COMISION DE HONOR Y JUSTICIA
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### Artículo 86.
+
+Para el conocimiento, trámite y resolución de las quejas que se presenten en relación con la actuación de los integrantes de las instituciones policiales de la Secretaría de Seguridad Pública del Estado, se crea la Comisión de Honor y Justicia, como un órgano de carácter administrativo, a cargo de dicha dependencia, integrado por cinco miembros designados por el Titular del Poder Ejecutivo del Estado.
+
+En cada municipio, en los términos de su reglamentación respectiva, se crearán comisiones con iguales fines.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### Artículo 87.
+
+La substanciación de procedimientos de responsabilidad administrativa o de remoción y la aplicación de sanciones a los miembros de las instituciones policiales del Estado y los municipios de Nuevo León, se ajustarán a lo dispuesto en la presente Ley y, de manera supletoria a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León. La Procuraduría General de Justicia aplicará las disposiciones de su Ley Orgánica en lo que no se oponga al presente ordenamiento.
+
+La Comisión de Honor y Justicia de la Secretaría de Seguridad Pública del Estado y las comisiones o unidades administrativas análogas de la Procuraduría General de Justicia y de los municipios, remitirán a la Dependencia de Control Interno del Gobierno del Estado copia de las resoluciones mediante las cuales se impongan sanciones, para el efecto de inscribirlas en el Registro de Servidores Públicos sancionados e inhabilitados o para efectos laborales en los términos de la Ley del Servicio Civil del Estado de Nuevo León.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 13 DE MARZO DE 2007)</small>
+
+### CAPITULO V. DEL INGRESO Y PERMANENCIA EN LAS INSTITUCIONES POLICIALES
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### Artículo 88.
+
+Para ingresar a las instituciones policiales del Estado o de los Municipios de Nuevo León se requiere:
+
+I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles.
+
+II.- Tener la edad requerida, de acuerdo a la institución policial:
+
+a) Mayor de 19 años pero menor de 29 años para la policía preventiva;
+
+b) Mayor de 21 años pero menor de 30 años para la policía ministerial.
+
+III.- Acreditar buena conducta y reconocida solvencia moral, no haber sido condenado por sentencia ejecutoriada como responsable de un delito doloso o por delito culposo calificado como grave por el Código Penal vigente en el Estado, ni estar sujeto a proceso penal;
+
+IV.- Acreditar haber cursado como nivel mínimo de estudios:
+
+a) Educación media superior o su equivalente, para ingresar a la policía preventiva;
+
+b) Educación superior o su equivalente, para ingresar a la policía ministerial.
+
+V.- No estar suspendido ni haber sido destituido o encontrarse inhabilitado por resolución firme como servidor público;
+
+VI.- Aprobar los exámenes de selección y de confianza previos a los cursos de formación básica o inicial;
+
+VII.- Aprobar el proceso de evaluación y formación básica o inicial conforme a las disposiciones legales y reglamentarias aplicables;
+
+VIII.- No hacer uso ilícito de sustancias psicotrópicas, estupefacientes, enervantes u otras que produzcan efectos similares, ni padecer alcoholismo;
+
+IX.- En caso de varones, tener acreditado el Servicio Militar Nacional; y
+
+X.- Los demás requisitos que establezcan las Leyes, Reglamentos y otras disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### Artículo 89.
+
+Son requisitos de permanencia en las instituciones policiales:
+
+I.- Cumplir con los requisitos de ingreso;
+
+II.- No ser sujeto de pérdida de confianza;
+
+III.- Seguir los programas de actualización y especialización que establezca la Institución;
+
+IV.- Aprobar los procesos de evaluación del desempeño de la institución;
+
+V.- No ausentarse del servicio, sin permiso o sin causa justificada por más de tres veces durante un período de 30 días;
+
+VI.- Cumplir debidamente con sus obligaciones, así como con las comisiones que le sean asignadas;
+
+VII.- No incurrir en faltas de probidad u honradez; y
+
+VIII.- Los demás requisitos que establezcan las disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### Artículo 90.
+
+Para el ingreso de los interesados a las instituciones policiales del Estado y de los Municipios de Nuevo León, los responsables de las unidades administrativas competentes deberán consultar previamente el Registro Estatal del Personal de Seguridad Pública, previsto en la presente Ley, y el Registro Nacional del Personal de Seguridad Pública, previsto en la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, cuya información se tomará en cuenta para adoptar la determinación que corresponda.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### Artículo 91.
+
+La terminación de los efectos del nombramiento de los integrantes de las instituciones policiales del Estado y de los Municipios de Nuevo León será:
+
+I.- Ordinaria, que comprende:
+
+a) La renuncia;
+
+b) La incapacidad permanente para el desempeño de sus funciones;
+
+c) La jubilación; y
+
+d) La muerte.
+
+II.- Extraordinaria, que comprende:
+
+a) La remoción del puesto, cargo o comisión por el incumplimiento de los requisitos de permanencia en la institución; y
+
+b) La terminación del ejercicio del cargo, debidamente emitida conforme a las disposiciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
+
+###### Artículo 92.
+
+Los titulares de las dependencias estatales o municipales con instituciones policiales a su cargo, mediante acuerdo, ordenarán que el personal de dichas instituciones y demás servidores públicos bajo su responsabilidad se sometan a los procesos de evaluación al desempeño, los cuales serán iniciales, permanentes, periódicos y obligatorios.
+
+Los procesos de evaluación al desempeño, constarán de los siguientes exámenes:
+
+I.- Patrimoniales y de entorno social;
+
+II.- Psicométricos y psicológicos;
+
+III.- Toxicológicos;
+
+IV.- Poligráficos; y
+
+V.- Los demás que se consideren necesarios para la calificación del personal.
+
+Los procesos de evaluación tendrán por objeto comprobar que los servidores públicos cumplan debidamente los principios de legalidad, eficacia, profesionalismo, honradez, lealtad e imparcialidad y de respeto a los derechos humanos.
+
+Dichos procesos serán coordinados por el área competente de las respectivas dependencias que, en los casos necesarios, se auxiliarán con los servicios y apoyo de otras unidades administrativas de las respectivas dependencias, de otras dependencias y organismos competentes, así como con servicios privados especializados.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2007)</small>
 
 ###### Artículo 93.
 
@@ -1257,92 +1191,112 @@ Para efectos de lo dispuesto en el presente artículo, se tendrá por supletorio
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO
 
-La presente Ley entrará en vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO
 
-Se derogan las disposiciones de la Ley para el Fomento a la Economía, la Inversión y el Empleo para el Estado de Aguascalientes en cuanto se opongan a las disposiciones que se contienen en la presente Ley.
+- Se abroga el Decreto número 212 por el cual se crea el Consejo Consultivo Estatal de Protección Ciudadana, publicado en el Periódico Oficial del Estado, de fecha 3 de julio de 1991.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO
 
-El Reglamento de la presente Ley deberá expedirse en un plazo máximo de noventa días naturales, contados a partir de la fecha de publicación de esta Ley.
+- Se deroga el artículo 69 de la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado de Nuevo León.
 
-###### ARTÍCULO CUARTO.
+###### ARTICULO CUARTO.
 
-El Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, su Dirección General, Junta Directiva y Consejo Consultivo de Mejora Regulatoria deberán estar instalados dentro de los treinta días naturales siguientes a la entrada en vigor de la presente Ley.
+El Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León deberá celebrar su sesión de instalación a más tardar el día 4 de junio de 1996, en la que se establecerán las bases para convocar e instalar los Consejos Municipales e Intermunicipales de Seguridad Pública, que deberán ser instalados a más tardar el día 4 de julio del mismo año.
 
-###### ARTÍCULO QUINTO.
+###### ARTICULO QUINTO.
 
-El Programa Estatal de Mejora Regulatoria para la actual Administración Pública Estatal, deberá elaborarse y publicarse en el Periódico Oficial del Estado de Aguascalientes, en un lapso máximo de seis meses, contados a partir de la entrada en vigencia de la presente Ley, su vigencia será al 30 de noviembre del 2016 y no será obligatorio la actualización trianual que señala el Artículo 30 de la presente Ley.
+El Ejecutivo del Estado, de acuerdo a las facultades que le concede la Ley de Administración Financiera y atendiendo la Ley de Egresos, trasladará recursos suficientes para el funcionamiento del Consejo de Coordinación de Seguridad Pública del Estado.
 
-###### ARTÍCULO SEXTO.
+###### ARTICULO SEXTO.
 
-Los Programas Operativos Municipales de Mejora Regulatoria, para cada una de las Administraciones Públicas Municipales deberán elaborarse y publicarse en el Periódico Oficial del Estado de Aguascalientes, en un lapso máximo de treinta días, contados a partir de la entrada en vigor de la presente Ley y tendrán vigencia anual, en el concepto de que los correspondientes al año 2014, tendrá vigencia al 31 de diciembre de dicho año, independientemente de la fecha en que sean publicados.
+Para los efectos del Artículo Cuarto Transitorio y por esta única vez el Gobernador del Estado designará al Secretario Ejecutivo del Consejo de Coordinación de Seguridad Pública del Estado de Nuevo León.
 
-###### ARTÍCULO SÉPTIMO.
+Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado.
 
-El Registro de Trámites y Servicios, y el Registro Estatal de Personas Acreditadas, deberán estar operando en un plazo máximo de noventa días naturales, contados a partir de la fecha de publicación de esta Ley.
+Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su Capital, a los veintiún días del mes de Mayo de mil novecientos noventa y seis. PRESIDENTE: DIP. HERIBERTO CANO QUINTANILLA, DIP. SECRETARIO: JULIAN JARA AGUILAR, DIP. SECRETARIO: JORGE H. SALAZAR SALAZAR.- RUBRICAS.
 
-###### ARTÍCULO OCTAVO.
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los veintidós días del mes de mayo de mil novecientos noventa y seis.
 
-La Secretaría de Finanzas del Gobierno del Estado, realizará las adecuaciones presupuestales necesarias para que inicie sus funciones el Instituto Estatal de Gestión Empresarial y Mejora Regulatoria y sus organismos.
+EL C. GOBERNADOR INTERINO DEL ESTADO
 
-Al Ejecutivo para su promulgación y publicación.
+BENJAMIN CLARIOND REYES-RETANA
 
-Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", a los veintinueve días del mes de julio del año dos mil trece.
+EL C. SECRETARIO GENERAL DE GOBIERNO
 
-Lo que tenemos el honor de comunicar a Usted, para los efectos constitucionales conducentes.
+JUAN FRANCISCO RIVERA BEDOYA
 
-Aguascalientes, Ags., a 29 de julio del año 2013.
+EL C. PROCURADOR GENERAL DE JUSTICIA
 
-SUFRAGIO EFECTIVO. NO REELECCIÓN.
+ESTEBAN TOMAS GONZALEZ ARDINES
 
-LA MESA DIRECTIVA
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-Dip. Mario Antonio Guevara Palomino,
+P.O. 2 DE FEBRERO DE 1998.
 
-PRESIDENTE.
+ÚNICO:- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
-Dip. Miriam Dennis Ibarra Rangel,
-
-PRIMERA SECRETARIA.
-
-Dip. Gilberto Carlos Ornelas,
-
-PROSECRETARIO EN FUNCIONES DE SEGUNDO SECRETARIO
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 8 de noviembre de 2013.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 15 DE JUNIO DE 2015.
+P.O. 18 DE OCTUBRE DE 2000.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+Este Decreto entrará en vigor 30-treinta días siguientes a su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se transforma el Instituto para la Gestión Empresarial y la Mejora Regulatoria del Estado de Aguascalientes, órgano desconcentrado de la Secretaría de Desarrollo Económico, en un organismo público descentralizado. Por tanto todos los derechos y obligaciones contraídos por el Instituto que se transforma serán asumidos por el organismo público descentralizado que se crea por virtud de las presentes reformas.
+Se abroga la Ley Orgánica de los Cuerpos de Seguridad Pública del Estado de Nuevo León, publicada en el Periódico Oficial del Estado de fecha 19 de enero de 1983 y sus reformas, así como cualquiera otras disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO TERCERO.
 
-La Secretaría de Finanzas del Gobierno del Estado, autorizará la transferencia de recursos financieros necesarios para la debida operación y funcionamiento del Instituto de Gestión Empresarial y Mejora Regulatoria.
+El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de esta Ley, dentro de un plazo no mayor a ciento ochenta días naturales, contados a partir de la fecha de entrada en vigor de este Decreto.
 
-###### ARTÍCULO CUARTO.
+P.O. 30 DE OCTUBRE DE 2002.
 
-El Reglamento del Instituto de Gestión Empresarial y Mejora Regulatoria, deberá expedirse en un plazo máximo de ciento ochenta días naturales, contados a partir de la fecha de publicación del presente Decreto.
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO QUINTO.
+P.O. 16 DE OCTUBRE DE 2006.
 
-La Oficialía Mayor del Gobierno del Estado tramitará la asignación de los recursos materiales y humanos necesarios para iniciar la operación y funcionamiento del Instituto de Gestión Empresarial y Mejora Regulatoria.
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
-P.O. 3 DE JULIO DE 2017.
+Artículo Segundo.- Gozarán de esta protección o beneficio quienes actualmente se desempeñen en el cargo y quienes en el futuro lo desempeñen deberán tener como mínimo un año en el cargo, en la inteligencia de que la autoridad en caso de que por motivos graves lo considere conveniente le otorgue la protección aún y cuando no tenga esa antigüedad.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 112.- LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+P.O. 13 DE MARZO DE 2007.
 
-###### ARTÍCULO ÚNICO.
+Artículo Primero.- Las disposiciones contenidas en el presente Decreto entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+Artículo Segundo.- Los miembros de las instituciones policiales que antes de la fecha del inicio de vigencia del presente Decreto estén sujetos a algún procedimiento de responsabilidad o de remoción concluirán dichos procedimientos con las normas que éstos iniciaron.
+
+Artículo Tercero.- Los Ayuntamientos, en el ámbito de su competencia, en un plazo de 90-noventa días naturales contados desde la vigencia del presente Decreto, deberán expedir los reglamentos que regularán sus respectivas instituciones policiales para dar cabal cumplimiento de lo establecido en el último párrafo del artículo 68 de la Ley del Sistema de Seguridad Pública del Estado de Nuevo León; asimismo realizarán las adecuaciones que resulten necesarias a la reglamentación municipal respectiva.
+
+P.O. 30 DE OCTUBRE DE 2002.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE JULIO DE 2007
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE NOVIEMBRE DE 2007.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2007.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Los Ayuntamientos pertenecientes a la zona Norte, que está comprendida por los Municipios de Abasolo, Agualeguas, Los Aldabas, Anáhuac, Bustamante, El Carmen, Cerralvo, Ciénega de Flores, China, Dr. Coss, Dr. González, Gral. Bravo, Gral. Treviño, Gral. Zuazua, Los Herrera, Higueras, Lampazos de Naranjo, Marín, Melchor Ocampo, Mina, Parás, Pesquería, Los Ramones, Sabinas de Hidalgo, Salinas Victoria, Hidalgo, Vallecillo y Villaldama, así como los Ayuntamientos pertenecientes a la zona Sur, que comprende los Municipios de Allende, Arramberri, Dr. Arroyo, Galeana, Gral. Terán, Gral. Zaragoza, Hualahulses, Iturbide, Linares, Mier y Noriega, Montemorelos y Rayones, deberán elegir por mayoría absoluta a sus respectivos representantes, mediante reunión extraordinaria que para tal fin deberá convocar el Presidente del Consejo de Coordinación de Seguridad Pública del Estado en un plazo no mayor de 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero.- La reforma contenida en el presente Decreto se expide sin demérito de lo dispuesto en el Título Segundo, Capítulo Segundo de esta Ley, y en tal sentido los Municipios de cualquier zona podrán seguir ejerciendo las facultades que les otorga el Capítulo en cita.
+
+P.O. 10 DE ABRIL DE 2008.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo.- El Ejecutivo del Estado, así como los Ayuntamientos de la entidad, en el ámbito de sus respectivas competencias, deberán expedir el Reglamento para la asignación de protección a los servidores públicos a que hace referencia en el Artículo 4° de la Ley del Sistema de Seguridad Pública del Estado de Nuevo León en un plazo no mayor de 90 días naturales.
+
+P.O. 7 DE JULIO DE 2008.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
