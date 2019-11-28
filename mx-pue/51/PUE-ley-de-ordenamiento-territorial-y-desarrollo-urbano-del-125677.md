@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-125677"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-29"
-last_updated: "2017-12-29"
+last_updated: "2019-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125677&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Décima Quinta Sección al Número 20 del Periódico Oficial de Puebla, el viernes 29 de diciembre de 2017.
 
@@ -149,7 +149,9 @@ XXXIV. Reservas: Las áreas de un centro de población que serán utilizadas par
 
 XXXV. Resiliencia: La capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
 
-XXXVI. Secretaría: La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial del Gobierno del Estado de Puebla;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XXXVI. Secretaría: La Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial del Gobierno del Estado de Puebla;
 
 XXXVII. Servicios urbanos: Las actividades operativas y servicios públicos prestados directamente por la autoridad competente o concesionada, para satisfacer necesidades colectivas en los centros de población;
 
@@ -699,7 +701,9 @@ b) La fundación, conservación, mejoramiento y crecimiento de los centros de po
 
 c) La protección, control y conservación de la biodiversidad de los ecosistemas como se establece en la legislación aplicable;
 
-d) Ordenar la distribución de la población y sus actividades en el territorio estatal, y
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+d) Los procesos de conurbación, ordenamiento territorial, distribución de la población y sus actividades en el territorio estatal; y
 
 e) Zonificar el territorio estatal para la aplicación de las políticas urbanas y ambientales a que se refieren los incisos c) y d) de esta fracción.
 
@@ -2830,3 +2834,13 @@ SEXTO. Las erogaciones que se deriven de la aplicación de la presente Ley, esta
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil diecisiete. Diputado Presidente. CUPERTINO ALEJO DOMÍNGUEZ. Rúbrica. Diputada Vicepresidenta. CAROLINA BEAUREGARD MARTÍNEZ. Rúbrica. Diputado Secretario. FRANCISCO JAVIER JIMÉNEZ HUERTA. Rúbrica. Diputado Secretario. CARLOS IGNACIO MIER BAÑUELOS. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil diecisiete. El Gobernador Constitucional del Estado. C. JOSÉ ANTONIO GALI FAYAD. Rúbrica. El Secretario General de Gobierno. C. DIÓDORO HUMBERTO CARRASCO ALTAMIRANO. Rúbrica. El Secretario de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial. C. RODRIGO RIESTRA PIÑA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXVI DEL ARTÍCULO 3 Y EL INCISO D) DE LA FRACCIÓN III DEL 35 DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
