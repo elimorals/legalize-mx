@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-servicio-de-administracion-y-83294"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-10-19"
-last_updated: "2012-05-25"
+last_updated: "2019-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83294&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-09-28"
 ---
 # ESTATUTO ORGANICO DEL SERVICIO DE ADMINISTRACION Y ENAJENACION DE BIENES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE ADMINISTRACIÓN DE BIENES Y ACTIVOS, PUBLICADO EN EL D.O.F. DE 28 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SERVICIO DE ADMINISTRACIÓN Y ENAJENACIÓN DE BIENES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 19 de octubre de 2011.
 
@@ -2272,3 +2274,23 @@ UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicaci�
 D.O.F. 25 DE MAYO DE 2012.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL ESTATUTO ORGÁNICO DEL INSTITUTO DE ADMINISTRACIÓN DE BIENES Y ACTIVOS”.]
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Servicio de Administración y Enajenación de Bienes, publicado en el Diario Oficial de la Federación el 19 de octubre de 2011.
+
+TERCERO.- Las disposiciones administrativas y documentos normativos, continuarán en vigor hasta que se expidan las que los sustituyan, en un término no mayor a 365 días naturales posteriores a su publicación.
+
+CUARTO.- Las atribuciones que se otorgan en leyes, decretos, reglamentos, acuerdos y demás disposiciones, a las unidades administrativas del Instituto que cambian de denominación por virtud del presente Estatuto, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme al mismo o a aquellas que asuman las facultades que correspondan.
+
+QUINTO.- Las Unidades Administrativas contarán con un término no mayor a 120 días naturales para transferir archivos, recursos humanos, adecuar sistemas y cualquier otra actividad inherente a las modificaciones a las Unidades Administrativas que incorporen nuevas facultades relacionadas con las mismas. Lo anterior en coordinación con las unidades administrativas de tecnologías de la información, recursos humanos y recursos materiales, para facilitar dichas actividades.
+
+SEXTO.- La unidad administrativa que brinde atención a los diversos asuntos de su competencia, antes de la entrada en vigor del presente Estatuto, continuará atendiéndolos hasta en tanto no transfiera dicha responsabilidad y todos los documentos necesarios para su atención a la unidad administrativa que deba asumirlas.
+
+SÉPTIMO.- Las unidades administrativas que conforme al presente Estatuto asuman competencia en asuntos que anteriormente correspondían a otras unidades administrativas, darán la atención y resolución que corresponda a los mismos, en términos de este ordenamiento a partir de la entrada en vigor del mismo.
+
+OCTAVO.- Los bienes que se encontraban en administración de la Coordinación de Recepción y Administración de Bienes Muebles, seguirán en administración por parte de la Dirección Ejecutiva de Bienes Muebles por medio de sus Coordinaciones en el ámbito de su competencia, hasta su destino final, o hasta que se haya entregado a la Coordinación adscrita a la Dirección Ejecutiva de Coordinación Regional que corresponda, previo acuerdo con el Director Corporativo de Coordinación Regional.
