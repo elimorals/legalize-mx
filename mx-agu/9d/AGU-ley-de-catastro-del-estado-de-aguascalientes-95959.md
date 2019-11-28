@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-catastro-del-estado-de-aguascalientes-95959"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-23"
-last_updated: "2017-07-03"
+last_updated: "2019-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de septiembre de 2013.
 
@@ -69,127 +69,133 @@ g) Atender solicitudes de trámites, así como prestar servicios catastrales med
 
 El registro y la valuación catastral se declaran de utilidad pública, para fines fiscales, socioeconómicos y urbanísticos.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 5º.
 
-A falta de disposición expresa, en cuanto a la aplicación e interpretación de esta Ley, se aplicarán supletoriamente, en cuanto se refieran a sus materias, el Código Fiscal, Código Civil, Ley sobre el Uso de Medios Electrónicos, Código de Procedimientos Civiles, Ley del Procedimiento Administrativo, Código Urbano, Ley de Transparencia y Acceso a la Información Pública, Ley de Hacienda, y Ley de Ingresos del ejercicio fiscal que corresponda, todas ellas del Estado de Aguascalientes y las Leyes de Hacienda de los Municipios y Leyes de Ingresos de los mismos del ejercicio fiscal que corresponda.
+A falta de disposición expresa, en cuanto a la aplicación e interpretación de esta Ley, se aplicarán supletoriamente, en cuanto se refieran a sus materias, el Código Fiscal del Estado de Aguascalientes, Código Civil para el Estado de Aguascalientes, Ley sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes, Código de Procedimientos Civiles del Estado de Aguascalientes, Ley del Procedimiento Administrativo del Estado de Aguascalientes, Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, Ley de Hacienda del Estado de Aguascalientes y Ley de Ingresos del Estado de Aguascalientes para el ejercicio fiscal que corresponda, y las Leyes de Hacienda de los Municipios y Leyes de Ingresos de los mismos para el ejercicio fiscal de los años que correspondan.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 6º.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Avalúo Catastral: Es la determinación del valor catastral de un bien inmueble, emitido por el Instituto y consignada en un documento físico o electrónico, mediante la aplicación de las Tablas de Valores Unitarios del suelo y/o construcciones vigentes;
+I.- Avalúo Catastral: Es la determinación del valor catastral de un bien inmueble, emitido por el Instituto y consignada en un documento físico o electrónico, mediante la aplicación de las Tablas de Valores Unitarios del suelo y/o construcciones vigentes;
 
-II. Avalúo Comercial: Es la determinación del valor comercial de los bienes inmuebles, consignada en un documento físico o electrónico, en el cual se establece el valor que tienen en el mercado, a través de los procedimientos de valuación vigentes.
+II.- Avalúo Comercial: Es la determinación del valor comercial de los bienes inmuebles, consignada en un documento físico o electrónico, en el cual se establece el valor que tienen en el mercado, a través de los procedimientos de valuación vigentes;
 
-III. Ayuntamiento: El Gobierno Constitucional de cada uno de los Municipios del Estado;
+III.- Ayuntamiento: El Gobierno Constitucional de cada uno de los Municipios del Estado;
 
-IV. Cartografía Catastral: Información gráfica, conformada por mapas y ortofotos del territorio del Estado, elaborada por el Instituto con los procedimientos técnicos y metodológicos del mismo, que define entre otras características, la forma y dimensión de los predios y sus construcciones, independientemente de su uso o actividad;
+IV.- Cartografía Catastral: Información gráfica, conformada por mapas y ortofotos del territorio del Estado, elaborada por el Instituto con los procedimientos técnicos y metodológicos del mismo, que define entre otras características, la forma y dimensión de los predios y sus construcciones, independientemente de su uso o actividad;
 
-V. Cédula Única Catastral Electrónica: Es el documento que contiene la información que permite la identificación y localización de cada uno de los bienes inmuebles del Estado y su vinculación con el Registro Público.
+V.- Cédula Única Catastral Electrónica: Es el documento que contiene la información que permite la identificación y localización de cada uno de los bienes inmuebles del Estado y su vinculación con el Registro Público;
 
-VI. Condominio: Régimen de propiedad por virtud del cual una persona puede ser dueño de un área exclusiva y al mismo tiempo de áreas comunes, con las modalidades que establece el Código Urbano en vigor, debiendo estarse a las definiciones que dicho ordenamiento establece.
+VI.- Código: El Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes;
 
-VII. Congreso: El Congreso del Estado Libre y Soberano de Aguascalientes;
+VII.- Condominio: El Régimen de propiedad por virtud del cual una persona puede ser dueño de un área exclusiva y al mismo tiempo de áreas comunes, con las modalidades que establece el Código de Ordenamiento Territorial Desarrollo Urbano y Vivienda en vigor, debiendo estarse a las definiciones que dicho ordenamiento establece;
 
-VIII. Construcción: La obra civil de cualquier tipo o destino, incluyendo los equipos o instalaciones adheridas permanentemente y que forman parte integrante de un inmueble;
+VIII.- Congreso: El Congreso del Estado Libre y Soberano de Aguascalientes;
 
-IX. Clave Catastral: Código asignado por el Instituto que identifica al predio en forma única, para su localización, el cual será homogéneo en todo el Estado.
+IX.- Construcción: La obra civil de cualquier tipo o destino, incluyendo los equipos o instalaciones adheridas permanentemente y que forman parte integrante de un inmueble;
 
-X. Documento Electrónico: El que define y precisa la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
+X.- Clave Catastral: El Código asignado por el Instituto que identifica al predio en forma única, para su localización, el cual será homogéneo en todo el Estado;
 
-XI. Documento Físico: Al documento en papel expedido por las Autoridades Competentes.
+XI.- Documento Electrónico: El que define y precisa la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes;
 
-XII. Estado: El Estado Libre y Soberano de Aguascalientes;
+XII.- Documento Físico: Al documento en papel expedido por las Autoridades Competentes;
 
-XIII. Firma Electrónica: La que define y precisa la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
+XIII.- Estado: El Estado Libre y Soberano de Aguascalientes;
 
-XIV. Forma Precodificada: Es el formato electrónico elaborado por el Instituto que contiene la información existente en los registros catastrales para el ingreso de cada trámite o servicio en específico de el o los predios involucrados;
+XIV.- Firma Electrónica: La que define y precisa la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes;
 
-XV. Fusión: Es la unión de dos o más terrenos, lotes, áreas o predios colindantes, a efecto de formar uno solo, en los términos en que lo establezca el Código Urbano en vigor;
+XV.- Forma Precodificada: El formato electrónico elaborado por el Instituto que contiene la información existente en los registros catastrales para el ingreso de cada trámite o servicio en específico de el o los predios involucrados;
 
-XVI. Fraccionamiento: La división de un terreno en manzanas y lotes, que requiera del trazo de una o más vías públicas, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, en los términos en que lo establezca el Código Urbano en vigor;
+XVI.- Fusión: La unión de dos o más terrenos, lotes, áreas o predios colindantes, a efecto de formar uno solo, en los términos en que lo establezca el Código de Ordenamiento Territorial Desarrollo Urbano y Vivienda en vigor;
 
-XVII. Gobierno del Estado: Gobierno del Estado de Aguascalientes.
+XVII.- Fraccionamiento: La división de un terreno en manzanas y lotes, que requiera del trazo de una o más vías públicas, así como la ejecución de obras de urbanización que le permitan la dotación de infraestructura, equipamiento y servicios urbanos, en los términos en que lo establezca el Código de Ordenamiento Territorial Desarrollo Urbano y Vivienda en vigor;
 
-XVIII. Inspección: Verificación de la información de los registros catastrales en campo por parte de la autoridad catastral en el Estado, para comprobar el cumplimiento de las disposiciones de la presente Ley;
+XVIII.- Gobierno del Estado: Al Gobierno del Estado de Aguascalientes;
 
-XIX. Interés Jurídico: El que tienen los particulares respecto de bienes inmuebles, por ser propietarios, poseedores, usufructuarios o colindantes de tales inmuebles o bien propietarios de inmuebles que tengan a su favor o en contra una servidumbre y acrediten tales supuestos con el título correspondiente o con el hecho probado de que adquirieron la posesión a título de dueño.
+XIX.- Inspección: La verificación de la información de los registros catastrales en campo por parte de la autoridad catastral en el Estado, para comprobar el cumplimiento de las disposiciones de la presente Ley;
 
-XX. Instituto: El Instituto Catastral del Estado de Aguascalientes;
+XX.- Interés Jurídico: El que tienen los particulares respecto de bienes inmuebles, por ser propietarios, poseedores, usufructuarios o colindantes de tales inmuebles o bien propietarios de inmuebles que tengan a su favor o en contra una servidumbre y acrediten tales supuestos con el título correspondiente o con el hecho probado de que adquirieron la posesión a título de dueño;
 
-XXI. Levantamiento de información Catastral: Conjunto de operaciones necesarias para la identificación y descripción de las características cualitativas y cuantitativas de los bienes inmuebles para su inscripción en los registros catastrales.
+XXI.- Instituto: El Instituto Catastral del Estado de Aguascalientes;
 
-XXII. Levantamiento Topográfico Catastral: Conjunto de operaciones necesarias para medir un terreno y representarlo a escala en un plano e integrarlo al sistema de información catastral;
+XXII.- Levantamiento de información Catastral: El conjunto de operaciones necesarias para la identificación y descripción de las características cualitativas y cuantitativas de los bienes inmuebles para su inscripción en los registros catastrales;
 
-XXIII. Localidad: Es el lugar ocupado con una o más edificaciones, las cuales pueden estar habitadas o no; este lugar es conocido por un nombre dado por alguna disposición legal o la costumbre;
+XXIII.- Levantamiento Topográfico Catastral: El conjunto de operaciones necesarias para medir un terreno y representarlo a escala en un plano e integrarlo al sistema de información catastral;
 
-XXIV. Manual de Procesos y Procedimientos: Documento que describe la secuencia lógica de las actividades a desarrollar por cada una de las unidades administrativas que conforman el Instituto.
+XXIV.- Localidad: El lugar ocupado con una o más edificaciones, las cuales pueden estar habitadas o no; este lugar es conocido por un nombre dado por alguna disposición legal o la costumbre;
 
-XXV. Manual de Valuación: El conjunto de reglas que determinan el procedimiento para la obtención de las Tablas de Valores Unitarios del suelo y/o construcciones, el cálculo del valor catastral de los inmuebles y la elaboración de los avalúos comerciales solicitados en los casos previstos en esta Ley;
+XXV.- Manual de Procesos y Procedimientos: El documento que describe la secuencia lógica de las actividades a desarrollar por cada una de las unidades administrativas que conforman el Instituto;
 
-XXVI. Manzana: Área formada por uno o varios lotes o predios colindantes, delimitada por vialidades públicas o privadas ubicadas en fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones, barrios o colonias de los centros de población, en los términos en que lo establezca el Código Urbano en vigor;
+XXVI.- Manual de Valuación: El conjunto de reglas que determinan el procedimiento para la obtención de las Tablas de Valores Unitarios del suelo y/o construcciones, el cálculo del valor catastral de los inmuebles y la elaboración de los avalúos comerciales solicitados en los casos previstos en esta Ley;
 
-XXVII. Municipios: Los Municipios del Estado Libre y Soberano de Aguascalientes;
+XXVII.- Manzana: Área formada por uno o varios lotes o predios colindantes, delimitada por vialidades públicas o privadas ubicadas en fraccionamientos, condominios, desarrollos inmobiliarios especiales, subdivisiones, barrios o colonias de los centros de población, en los términos en que lo establezca el Código de Ordenamiento Territorial Desarrollo Urbano y Vivienda en vigor;
 
-XXVIII. Operaciones catastrales: La integración de la información, inspección, medición, levantamientos topográficos, cálculo de superficies, planeación, valuación, registro, actualización del padrón y demás actos administrativos propios de la función catastral;
+XXVIII.- Municipios: Los Municipios del Estado Libre y Soberano de Aguascalientes;
 
-XXIX. Padrón Catastral: El conjunto de registros alfanuméricos y cartográficos en los que se contienen los datos generales y particulares de los bienes inmuebles ubicados en el territorio del Estado;
+XXIX.- Operaciones catastrales: La integración de la información, inspección, medición, levantamientos topográficos, cálculo de superficies, planeación, valuación, registro, actualización del padrón y demás actos administrativos propios de la función catastral;
 
-XXX. Perito Valuador Profesional: Es aquél que cuenta con autorización legal o con Cédula Profesional en el campo de la valuación;
+XXX.- Padrón Catastral: El conjunto de registros alfanuméricos y cartográficos en los que se contienen los datos generales y particulares de los bienes inmuebles ubicados en el territorio del Estado;
 
-XXXI. Plano Catastral Certificado: El plano elaborado por el Instituto respecto de un predio, mediante levantamiento topográfico catastral o por cualquier otro elemento disponible dentro de los registros cartográficos; que señale correctamente la ubicación, forma, superficie y medidas físicas del mismo; que esté autentificado mediante la certificación del propio Instituto teniendo por tanto, plena validez administrativa.
+XXXI.- Perito Valuador Profesional: Es aquél que cuenta con autorización legal o con Cédula Profesional en el campo de la valuación;
 
-XXXII. Portal Catastral: Sitio web del Instituto que permite al usuario, de forma fácil e integrada, el acceso a la información catastral, servicios electrónicos y trámites en línea ofrecidos por el mismo;
+XXXII.- Plano Catastral Certificado: El plano elaborado por el Instituto respecto de un predio, mediante los registros cartográficos; que señala correctamente la ubicación, forma, superficie y medidas físicas del mismo; que esté autentificado mediante la certificación del propio Instituto, teniendo por tanto plena validez administrativa;
 
-XXXIII. Predio: Porción de terreno comprendido dentro de un perímetro cerrado, con construcciones o sin ellas;
+XXXIII.- Portal Catastral: El Sitio web del Instituto que permite al usuario, de forma fácil e integrada, el acceso a la información catastral, servicios electrónicos y trámites en línea ofrecidos por el mismo;
 
-Los Predios se clasifican en
+XXXIV.- Predio: La Porción de terreno comprendido dentro de un perímetro cerrado, con construcciones o sin ellas, los cuales se clasifican en:
 
-A. Urbano: El que se encuentra dentro de los límites del área de influencia de las ciudades o centros de población y que cuenta con servicios de agua potable, drenaje y energía eléctrica o bien, cuando tenga la clasificación de uso o destino de suelo urbano expedido por la autoridad competente. La denominación "Urbano" podrá variar y usarse la que establezca el Código Urbano en vigor.
+A. Urbano: El que se encuentra dentro de los límites del área de influencia de las ciudades o centros de población y que cuenta con servicios de agua potable, drenaje y energía eléctrica o bien, cuando tenga la clasificación de uso o destino de suelo urbano expedido por la autoridad competente. La denominación "Urbano" podrá variar y usarse la que establezca el Código de Ordenamiento Territorial Desarrollo Urbano y Vivienda en vigor;
 
-B. En Transición: El que ha sufrido o es susceptible de un cambio de actividad primaria debido a su localización geográfica y por presiones de crecimiento poblacional, independientemente de contar con servicios públicos, calles trazadas y/o infraestructura urbana.
+B.- En Transición: El que ha sufrido o es susceptible de un cambio de actividad primaria debido a su localización geográfica y por presiones de crecimiento poblacional, independientemente de contar con servicios públicos, calles trazadas y/o infraestructura urbana; y
 
-C. Rurales o Rústicos: El que no cuenta con los servicios públicos a que se refiere el inciso anterior y se encuentra fuera de los límites de las ciudades o centros de población.
+C.- Rurales o Rústicos: El que no cuenta con los servicios públicos a que se refiere el inciso anterior y se encuentra fuera de los límites de las ciudades o centros de población;
 
-XXXIV. PUNTOS GPS: Sistema de posicionamiento, global, ubicación geográfica en base a coordenadas.
+XXXV.- Puntos GPS: El Sistema de posicionamiento, global, ubicación geográfica en base a coordenadas;
 
-XXXV. Red Geodésica Estatal: Es el conjunto de puntos ubicados en la superficie terrestre en los cuales se determinan su posición geográfica diferencial (latitud, longitud y elevación) mediante el uso de receptores GPS, creando un marco de referencia geográfica.
+XXXVI.- Red Geodésica Estatal: El conjunto de puntos ubicados en la superficie terrestre en los cuales se determinan su posición geográfica diferencial (latitud, longitud y elevación) mediante el uso de receptores GPS, creando un marco de referencia geográfica;
 
-XXXVI. Región Catastral: la delimitación de las áreas que resultan de la agrupación de Municipios de acuerdo con sus características geográficas, para efectos de administración y control catastral.
+XXXVII.- Región Catastral: La delimitación de las áreas que resultan de la agrupación de Municipios de acuerdo con sus características geográficas, para efectos de administración y control catastral;
 
-XXXVII. Registros Catastrales: El conjunto de datos contenidos en el Padrón Catastral, así como la contenida en los expedientes catastrales.
+XXXVIII.- Registros Catastrales: El conjunto de datos contenidos en el Padrón Catastral, así como la contenida en los expedientes catastrales;
 
-XXXVIII. Registro Público: El Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes.
+XXXIX.- Registro Público: El Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes;
 
-XXXIX. Reglamento: El Reglamento de la Ley de Catastro del Estado de Aguascalientes;
+XL.- Reglamento: El Reglamento de la Ley de Catastro del Estado de Aguascalientes;
 
-XL. Reglamento Interior: El Reglamento Administrativo que determina y organiza el trabajo de los funcionarios y empleados del Instituto;
+XLI.- Reglamento Interior: El Reglamento Administrativo que determina y organiza el trabajo de los funcionarios y empleados del Instituto;
 
-XLI. Secretaría: La Secretaría de Finanzas del Gobierno del Estado;
+XLII.- Secretaría: La Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral del Estado de Aguascalientes;
 
-XLII. Sector Catastral: La división de una zona geográfica que establece el Instituto y que agrupa a un número determinado de manzanas en función de su ubicación;
+XLIII.- Secretario: El Secretario de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral del Estado de Aguascalientes;
 
-XLIII. Sello Electrónico: El que define y precisa la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes.
+XLIV.- Sector Catastral: La división de una zona geográfica que establece el Instituto y que agrupa a un número determinado de manzanas en función de su ubicación;
 
-XLIV. Sistema de Información Catastral (SIC): Es la aplicación informática utilizada por el Instituto para la realización de las operaciones catastrales, el control y la preservación de los registros catastrales.
+XLV.- Sello Electrónico: El que define y precisa la Ley Sobre el Uso de Medios Electrónicos para el Estado de Aguascalientes;
 
-XLV. Subdivisión de Predios Urbanos: La partición de un terreno ubicado en zonas urbanas o urbanizables dentro de los límites de un centro de población urbano o rural, de conformidad con lo previsto en los programas de desarrollo urbano y ordenamiento del territorio aplicables, en dos o más fracciones o predios, que tengan acceso o requieran de la apertura de una vía pública y en su caso, la introducción de servicios urbanos;
+XLVI.- Sistema de Información Catastral: La aplicación informática utilizada por el Instituto para la realización de las operaciones catastrales, el control y la preservación de los registros catastrales;
 
-XLVI. Subdivisión de Predios Rústicos: la partición de un terreno en dos o más fracciones o predios, ubicado fuera de las zonas urbanas o urbanizables o de los límites de un centro de población urbano o rural, de conformidad con lo previsto en los programas de desarrollo urbano y ordenamiento del territorio aplicables;
+XLVII.- Subdivisión de Predios en Transición: La partición de un terreno rústico en etapa de transición para convertirse en urbano, en dos o más fracciones o predios;
 
-XLVII. Subdivisión de Predios en Transición: La partición de un terreno rústico en etapa de transición para convertirse en urbano, en dos o más fracciones o predios.
+XLVIII.- Subdivisión de Predios Rústicos y/o Rurales: La partición de un terreno en dos o más fracciones o predios, ubicado fuera de las zonas urbanas o urbanizables o de los límites de un centro de población urbano o rural, de conformidad con lo previsto en los programas de desarrollo urbano y ordenamiento del territorio aplicables;
 
-XLVIII. Tablas de Valores Unitarios: Documento oficial aprobado por el Congreso, que contiene los Valores Unitarios del Suelo y/o Construcciones y que podrán estar plasmados en planos impresos o digitales por sectores y/o zonas catastrales;
+XLIX.- Subdivisión de Predios Urbanos: La partición de un terreno ubicado en zonas urbanas o urbanizables dentro de los límites de un centro de población urbano o rural, de conformidad con lo previsto en los programas de desarrollo urbano y ordenamiento del territorio aplicables, en dos o más fracciones o predios, que tengan acceso o requieran de la apertura de una vía pública y en su caso, la introducción de servicios urbanos;
 
-XLIX. Trámites Catastrales: Todos y cada una de las solicitudes por medios físicos o electrónicos presentadas ante el Instituto por parte de los usuarios y que estén previstas en la ley.
+L.- Tablas de Valores Unitarios: El documento oficial aprobado por el Congreso, que contiene los Valores Unitarios del Suelo y/o Construcciones y que podrán estar plasmados en planos impresos o digitales por sectores y/o zonas catastrales;
 
-L. Valor Unitario: Precio por metro cuadrado de Suelo y/o Construcción aprobado por el Congreso;
+LI.- Trámites Catastrales: Todos (sic) y cada una de las solicitudes por medios físicos o electrónicos presentadas ante el Instituto por parte de los usuarios y que estén previstas en la Ley;
 
-LI. Valor Catastral: Es el determinado por el Instituto, compuesto de la suma de los productos de las superficies de terreno y/o construcción por su valor unitario
+LII.- Valor Unitario: El precio por metro cuadrado de Suelo y/o Construcción aprobado por el Congreso;
 
-LII. Zona Catastral: Son las áreas en las que se dividen los Municipios y que presentan características homogéneas en cuanto a sus aspectos físicos, económicos, sociales, de uso actual y potencial del suelo, que preferentemente estén delimitadas por rasgos físicos, como carreteras, caminos, brechas, vías y arroyos.
+LIII.- Valor Catastral: El determinado por el Instituto, compuesto de la suma de los productos de las superficies de terreno y/o construcción por su valor unitario;
 
-LIII. Zonificación Catastral: La demarcación del territorio del Estado en zonas y sectores catastrales, de acuerdo a las características señaladas en esta Ley y en los ordenamientos aplicables.
+LIV.- Zona Catastral: Las áreas en las que se dividen los Municipios y que presentan características homogéneas en cuanto a sus aspectos físicos, económicos, sociales, de uso actual y potencial del suelo, que preferentemente estén delimitadas por rasgos físicos, como carreteras, caminos, brechas, vías y arroyos; y
+
+LV.- Zonificación Catastral: La demarcación del territorio del Estado en zonas y sectores catastrales, de acuerdo con las características señaladas en esta Ley y en los ordenamientos aplicables.
 
 ### CAPÍTULO II. De las Autoridades de Catastro
 
@@ -201,7 +207,9 @@ I. El Gobernador del Estado;
 
 II. El H. Congreso del Estado;
 
-III. El Secretario de Finanzas del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+III. El Secretario de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral del Estado;
 
 IV. El Instituto Catastral del Estado;
 
@@ -225,9 +233,11 @@ IV. Las demás que expresamente determine esta Ley y demás disposiciones juríd
 
 Corresponde al Congreso del Estado analizar y en su caso aprobar las propuestas que los Ayuntamientos, en el ámbito de su competencia, formulen sobre las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las Tablas de Valores Unitarios del suelo y/o construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Las mencionadas tablas de valores serán enviadas al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 10.
 
-El Secretario de Finanzas del Estado tendrá las siguientes atribuciones:
+El Secretario tendrá las siguientes atribuciones:
 
 I. Establecer programas tendientes a lograr los objetivos del Catastro establecidos en el artículo 3° de esta Ley, así como suministrar los recursos necesarios para el funcionamiento del Instituto;
 
@@ -239,7 +249,9 @@ III. Las demás que expresamente determine esta Ley y demás disposiciones jurí
 
 Son atribuciones de los Ayuntamientos:
 
-I. Suscribir convenios de colaboración en materia catastral con el Instituto en los términos de la presente Ley;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+I. Suscribir convenios de colaboración en materia catastral con la Secretaría en los términos de la presente Ley;
 
 II. Participar, por conducto del Presidente Municipal o el funcionario que este designe en el Consejo Técnico Catastral y de Valuación;
 
@@ -287,9 +299,11 @@ Del Principio de Fe Pública Catastral.- Consiste en que debe presumirse, que lo
 
 ### CAPÍTULO V. Del Instituto Catastral
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 19.
 
-El Instituto Catastral del Estado de Aguascalientes, es un organismo público desconcentrado con autonomía técnica y de gestión, dependiente de la Secretaría de Finanzas del Gobierno del Estado, con domicilio en la ciudad de Aguascalientes, pudiendo tener dentro del Estado delegaciones y oficinas donde se requiera.
+El Instituto Catastral del Estado de Aguascalientes, es un organismo público desconcentrado con autonomía técnica y de gestión, dependiente de la Secretaría, con domicilio en la ciudad de Aguascalientes, pudiendo tener dentro del Estado delegaciones y oficinas donde se requiera.
 
 ###### ARTÍCULO 20.
 
@@ -341,11 +355,11 @@ XX. Fungir como órgano técnico de apoyo y consulta a los Poderes del Estado y 
 
 XXI. Establecer las bases técnicas, metodológicas y administrativas aplicables para la identificación de predios, registro de los mismos y mantenimiento del padrón catastral;
 
-XXII. Celebrar convenios con instituciones, organismos y Registros, para la homologación, estandarización e intercambio de información estableciendo mecanismos de vinculación a efecto de lograr con mayor eficiencia y seguridad sus objetivos.
+XXII. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2019)
 
-XXIII. Celebrar convenios de colaboración con los Ayuntamientos que lo soliciten para el ejercicio de las atribuciones que les correspondan en los términos de la presente ley y demás disposiciones legales aplicables;
+XXIII. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2019)
 
-XXIV. Celebrar convenios de coordinación, colaboración, cooperación o de cualquier otra naturaleza que resulten necesarios para el cumplimiento de sus objetivos o atribuciones, que no sean de facultad exclusiva del Poder Ejecutivo;
+XXIV. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2019)
 
 XXV. Elaborar y mantener actualizado El Padrón Catastral del Estado;
 
@@ -363,11 +377,13 @@ XXXI. Determinar las acciones generales y particulares para atender lo relativo 
 
 XXXII. Incluir e implementar acciones generales y particulares para atender todo lo relativo al manejo de inconsistencias detectadas entre la información del Registro Público y el Instituto.
 
-XXXIII. Elaborar anualmente el proyecto de los estudios técnicos referentes a las Tablas de Valores Unitarios del suelo y/o construcciones, del Estado.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XXXIII. Elaborar anualmente el proyecto de los estudios técnicos que sean solicitados a petición de los Municipios para la elaboración de las Tablas de Valores Unitarios del suelo y/o construcciones del Estado;
 
 XXXIV. Otorgar, negar o cancelar la inscripción catastral de bienes inmuebles;
 
-XXXV. Actualizar anualmente la Cartografía de las áreas que el Instituto considere necesarias a través de la adquisición de imágenes satelitales de alta resolución.
+XXXV. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2019)
 
 XXXVI. Implementar acciones necesarias para cumplir con lo establecido en el principio de validación de trámites;
 
@@ -375,31 +391,27 @@ XXXVII. Implementar las acciones necesarias para que toda tramitación en materi
 
 XXXVIII. Emitir con sello y firma electrónicos las constancias de los trámites realizados ante el Instituto, así como las claves y medidas de seguridad para tener acceso a la información del Sistema de Información Catastral.
 
-XXXIX. Las demás que le determinen esta Ley y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XXXIX. Asignar, o en su caso transferir o cancelar la clave catastral a cada uno de los predios ubicados en el Estado y la utilización de la misma en forma homologada;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XL. Aplicar las tablas de valores unitarios de suelo y/o construcciones, aprobados por el Congreso; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XLI. Las demás que le determinen esta Ley y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 22.
 
 La inscripción de un predio en el Padrón Catastral no genera ningún derecho de propiedad o posesión del mismo a favor de la persona a cuyo nombre aparezca inscrito.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-El Instituto estará conformado por las unidades administrativas que a continuación se señalan:
-
-I. Dirección General;
-
-II. Dirección Operativa;
-
-III. Unidad de Valuación e Inspección;
-
-IV. Unidad de Gestión Territorial;
-
-V. Unidad de Actualización;
-
-VI. Unidad Jurídica;
-
-VII. Unidad Administrativa;
-
-El Reglamento interior del Instituto, señalará la forma en que deberá sesionar y tomar sus acuerdos el Instituto.
+Para el estudio, planeación, despacho de los asuntos de su competencia y el logro de sus objetivos institucionales, el Instituto se auxiliará de las jefaturas de departamento y demás unidades administrativas necesarias con base en lo establecido en el Reglamento Interior.
 
 ###### ARTÍCULO 24.
 
@@ -423,7 +435,9 @@ El Director General del Instituto, tendrá las siguientes atribuciones y faculta
 
 I. Dirigir técnica y administrativamente la operación del Instituto;
 
-II. Expedir los Manuales que sean necesarios para el mejor funcionamiento del Instituto y sus operaciones, recabando el visto bueno del Secretario de Finanzas, así como proponer al Poder Ejecutivo del Estado por conducto de dicho Secretario los referidos manuales, para su revisión, aprobación y publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+II. Expedir los Manuales que sean necesarios para el mejor funcionamiento del Instituto y sus operaciones, recabando el visto bueno del Secretario, así como proponer al Poder Ejecutivo del Estado por conducto de dicho Secretario los referidos manuales, para su revisión, aprobación y publicación en el Periódico Oficial del Estado;
 
 III. Proponer al Poder Ejecutivo del Estado, los proyectos de reformas a esta Ley y a los Reglamentos, manuales y lineamientos del Instituto.
 
@@ -435,9 +449,11 @@ VI. Hacer cumplir los acuerdos del Consejo Técnico Catastral de Valuación;
 
 VII. Celebrar, otorgar y suscribir con firma autógrafa o electrónica todos los actos y documentos inherentes a las facultades que le otorga esta Ley, así como las certificaciones que debe expedir el Instituto;
 
-VIII. Suscribir convenios de coordinación, colaboración, cooperación o de cualquier otra naturaleza que resulten necesarios para el cumplimiento de los objetivos del Instituto;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-IX. Suscribir convenios y contratos con las instituciones públicas y privadas y/o personas físicas o morales que soliciten servicios relacionados con el objeto del Instituto;
+VIII. Proponer al Secretario los convenios de coordinación, colaboración, cooperación o de cualquier otra naturaleza que resulten necesarios para el cumplimiento de los objetivos del Instituto;
+
+IX. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2019)
 
 X. Hacer cumplir los acuerdos, atribuciones y mandamientos del Instituto;
 
@@ -449,7 +465,9 @@ XIII. Convocar al Consejo Técnico Catastral y de Valuación;
 
 XIV. Presidir el Consejo Técnico Catastral y de Valuación;
 
-XV. Enviar al Secretario de Gobierno, durante el mes de enero de cada año, el directorio de los Peritos Valuadores Profesionales inscritos en el Padrón Estatal de Peritos Valuadores Profesionales, para su publicación en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XV. Enviar al Secretario General de Gobierno, durante el mes de enero de cada año, el directorio de los Peritos Valuadores Profesionales inscritos en el Padrón Estatal de Peritos Valuadores Profesionales, para su publicación en el Periódico Oficial del Estado;
 
 XVI. Determinar las infracciones e imponer las sanciones que correspondan por violaciones a las disposiciones contempladas en la presente Ley;
 
@@ -459,39 +477,43 @@ XVIII. Expedir, previo el cumplimiento de los requisitos correspondientes, copia
 
 XIX. Expedir a los solicitantes, previo el cumplimiento de los requisitos correspondientes, en forma impresa o electrónica, la información cartográfica elaborada por el Instituto;
 
-XX. Suscribir Convenios para la homologación, estandarización e intercambio de información y mecanismos de vinculación;
+XX. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2019)
 
-XXI. Suscribir previo cumplimiento de los requisitos legales correspondientes los convenios de servicios electrónicos, con los usuarios.
+XXI. (DEROGADA, P.O. 28 DE NOVIEMBRE DE 2019)
 
 XXII. Las demás facultades o atribuciones que para el buen funcionamiento de la institución le otorguen otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 27.
 
-El trámite y resolución de los asuntos que sean competencia del Instituto, corresponden originariamente al Director General, quién podrá delegar cualquiera de sus facultades, al Director Operativo o a los Titulares de las Unidades Administrativas señalados en el Artículo 23 de la presente Ley, excepto aquellas que por disposición legal deba ejercer directamente.
+El trámite y resolución de los asuntos que sean competencia del Instituto, corresponden originariamente al Director General, quién podrá delegar cualquiera de sus facultades, al Jefe de Departamento o al servidor público de la jerarquía inmediata inferior que él designe.
 
-La Dirección Operativa suplirá en sus ausencias temporales al Director General, quien tendrá las atribuciones, funciones y obligaciones que el Director General le asigne, así como las que establezca el Reglamento Interior del Instituto. El Director Operativo y los demás funcionarios del Instituto, serán suplidos respectivamente, por el titular de la unidad que siga en el orden establecido en el Artículo 23 de la presente ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
 ### CAPÍTULO VII. Del Consejo Técnico Catastral y de Valuación
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 28.
 
-El Consejo Técnico Catastral y de Valuación estará integrado por un Presidente, un Secretario y los Vocales que en este mismo artículo se indican.
+El Consejo Técnico Catastral y de Valuación se integrará de la siguiente manera:
 
-La Presidencia del Consejo Técnico Catastral y de Valuación estará a cargo del Director General del Instituto, quién tendrá voto de calidad en caso de empate.
+I.- El Director General del Instituto, quién lo presidirá y tendrá voto de calidad en caso de empate;
 
-La Secretaría estará a cargo del Director Operativo del Instituto.
+II.- El Jefe de Departamento de Valuación del Instituto, es quien ocupará la Secretaría del Consejo Catastral y de Valuación;
+
+III.- Los Titulares de las Jefaturas de Topografía y Proyectos Especiales, Cartografía, Integración y Actualización de Predios y Evaluación y Seguimiento del Instituto respectivamente;
+
+IV.- Los Presidentes en turno del Colegio de Valuadores del Estado de Aguascalientes A.C., de la Sociedad de Arquitectos Valuadores A.C. y del Colegio de Corredores Públicos del Estado;
+
+V.- Un representante de la Secretaría; y
+
+VI.- Un representante de la Secretaria de Finanzas del Estado.
 
 Las ausencias temporales del Presidente y del Secretario, así como de los vocales que conforman el Consejo por parte del Instituto serán ocupadas por la persona que designe el Director General del mismo.
 
-Los Vocales serán:
-
-I. Los Titulares de las Unidades Administrativas del Instituto de: Valuación e Inspección, Gestión Territorial y de Actualización.
-
-II. Los Presidentes en turno del Colegio de Valuadores del Estado de Aguascalientes A.C., de la Sociedad de Arquitectos Valuadores A.C. y del Colegio de Corredores Públicos del Estado.
-
-III. Un representante de la Secretaría de Finanzas del Estado.
-
-IV. En caso de que el Consejo Técnico Catastral y de Valuación vaya a resolver algún asunto de interés de un Municipio en particular, se solicitará a su Presidente Municipal designe a una persona para que lo represente, el cual tendrá derecho a voz y voto.
+En caso de que el Consejo Técnico Catastral y de Valuación vaya a resolver algún asunto de interés de un Municipio en particular, se solicitará a su Presidente Municipal designe a una persona para que lo represente, el cual tendrá derecho a voz y voto.
 
 Los integrantes del Consejo Técnico Catastral y de Valuación tendrán voz y voto, y fungirán en estos cargos de manera honorífica.
 
@@ -577,19 +599,25 @@ Al inscribir un predio en el Padrón Catastral, el Instituto elaborará la Cédu
 
 El Instituto podrá realizar, visitas de inspección o verificación y de estudios técnicos en los predios para facilitar la operación de catastro, cumpliendo con los requisitos y procedimientos que establece la Ley del Procedimiento Administrativo. Cuando no coincidan los datos manifestados con las características reales del inmueble, se realizarán los trabajos de campo necesarios, y se impondrán las sanciones que procedan.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 38.
 
-El Instituto rechazará la inscripción en el padrón catastral, de los trámites relacionados con fusiones de predios de propietarios distintos, salvo que se trate de constitución de copropiedades. Igual se procederá en el caso de aportaciones de bienes a sociedades o asociaciones de cualquier tipo, si tales aportaciones implican fusión de predios de propietarios distintos. Para lo anterior se tomará en cuenta lo que disponga respecto el Código Urbano en vigor.
+El Instituto rechazará la inscripción en el padrón catastral, de los trámites relacionados con fusiones de predios de propietarios distintos, salvo que se trate de constitución de copropiedades. Igual se procederá en el caso de aportaciones de bienes a sociedades o asociaciones de cualquier tipo, si tales aportaciones implican fusión de predios de propietarios distintos. Para lo anterior se tomará en cuenta lo que disponga al respecto el Código.
 
 ###### ARTÍCULO 39.
 
 El Instituto proporcionará información y certificaciones de los datos que obren en el padrón catastral, previa solicitud de los particulares que acrediten su interés jurídico y hayan realizado el pago de los derechos respectivos.
 
-En relación con lo anterior, el Instituto deberá observar las disposiciones que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+En relación con lo anterior, el Instituto deberá observar las disposiciones que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 40.
 
-Las Constancias certificadas de los registros catastrales se expedirán a quien acredite tener interés jurídico en ello, y sólo serán tramitados y expedidos si las medidas propuestas por el solicitante son las correctas, previa inspección y verificación que se realice del predio motivo de certificación. En relación con lo anterior, el Instituto deberá observar las disposiciones que al afecto establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+Las Constancias certificadas de los registros catastrales se expedirán a quien acredite tener interés jurídico en ello, y sólo serán tramitados y expedidos si las medidas propuestas por el solicitante son las correctas, previa inspección y verificación que se realice del predio motivo de certificación. En relación con lo anterior, el Instituto deberá observar las disposiciones que al afecto establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
 
 ###### ARTÍCULO 41.
 
@@ -609,9 +637,11 @@ En cuanto se refiere a relotificaciones, sólo se inscribirán cuando los predio
 
 En los casos de predios no registrados, el Instituto está facultado para llevar a cabo su inscripción en el catastro, de acuerdo con el estado que guardan dichos predios en la fecha de su descubrimiento.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 44.
 
-El padrón catastral deberá contener registro sobre la constitución de reservas territoriales y áreas de protección ecológica, delimitación de centros de población, zonas destinadas a conservación y las zonas, edificaciones y elementos que formen el patrimonio natural y cultural de los centros de población. Para lo anterior se tomará en cuenta lo que establezca el Código Urbano en vigor.
+El padrón catastral deberá contener registro sobre la constitución de reservas territoriales y áreas de protección ecológica, delimitación de centros de población, zonas destinadas a conservación y las zonas, edificaciones y elementos que formen el patrimonio natural y cultural de los centros de población. Para lo anterior se tomará en cuenta lo que establezca el Código.
 
 ###### ARTÍCULO 45.
 
@@ -777,19 +807,25 @@ La información de la base de datos que se creará con el Sistema de Informació
 
 El padrón catastral estará bajo el control y administración del Instituto y podrá ser consultado por dependencias y organismos auxiliares del Estado o de la Federación, así como por los Ayuntamientos, previo cumplimiento de los requisitos y/o convenios que para tal efecto se requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 63.
 
-En todo caso, la información contenida en el Padrón Catastral será propiedad del Estado de Aguascalientes. Se deberán implementar todas las garantías para que su uso sea estrictamente para el cumplimiento de los fines y objetivos que se persiguen en esta Ley.
+La Secretaría podrá establecer convenios, gratuitos u onerosos con instituciones y dependencias públicas para el intercambio de información, siempre y cuando se justifique y se acredite el objeto y la necesidad para ello y se garantice en todo momento que se usará conforme a los fines y objetivos que establece esta Ley. Para lo anterior, se deberá observar las disposiciones que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
 
-El Instituto, a través de su Dirección General y previa autorización que obtenga de la Secretaría, podrá establecer convenios, gratuitos u onerosos con instituciones y dependencias públicas para el intercambio de información, siempre y cuando se justifique y se acredite el objeto y la necesidad para ello y se garantice en todo momento que se usará conforme a los fines y objetivos que establece esta Ley. Para lo anterior, el Instituto deberá observar las disposiciones que establece la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 64.
 
-La información contenida en el Sistema de Información Catastral deberá ser respaldada en los medios de almacenamiento digital, a través de procedimientos de recuperación de la información; dichos respaldos serán resguardados de acuerdo con los procedimientos de control, además de mantener replicada diariamente la información en un sitio alterno, conforme a los lineamientos establecidos por Oficialía Mayor del Gobierno del Estado.
+La información contenida en el Sistema de Información Catastral deberá ser respaldada en los medios de almacenamiento digital, a través de procedimientos de recuperación de la información; dichos respaldos serán resguardados de acuerdo con los procedimientos de control, además de mantener replicada diariamente la información en un sitio alterno, conforme a los lineamientos establecidos por la Secretaría de Administración del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 65.
 
-El Instituto en coordinación con Oficialía Mayor garantizará el respaldo, y el mantenimiento de la información Catastral.
+El Instituto en coordinación con la Secretaría de Administración del Estado garantizará el respaldo, y el mantenimiento de la información Catastral.
 
 ###### ARTÍCULO 66.
 
@@ -1011,9 +1047,11 @@ Los propietarios de inmuebles en el Estado tienen la obligación de manifestar a
 
 La obligación de manifestar al Instituto no exime a los propietarios de predios que por disposición de la Ley en la materia, se encuentren en el registro de exenciones.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 96.
 
-El Gobierno del Estado, a través de la Secretaría de Gestión Urbanística y Ordenamiento Territorial y los Ayuntamientos de los Municipios, por medio de sus órganos de Planeación, estarán obligados a proporcionar al Instituto los informes que sean necesarios para su incorporación al Padrón Catastral, tan pronto como sean acordadas o constituidas las reservas territoriales, áreas de protección ecológica o delimitación de centros de población, zonas destinadas a conservación o de edificaciones y elementos que formen el patrimonio natural y cultural de los centros de población.
+El Gobierno del Estado, a través de la Secretaría y los Ayuntamientos de los Municipios, por medio de sus órganos de Planeación, estarán obligados a proporcionar al Instituto los informes que sean necesarios para su incorporación al Padrón Catastral, tan pronto como sean acordadas o constituidas las reservas territoriales, áreas de protección ecológica o delimitación de centros de población, zonas destinadas a conservación o de edificaciones y elementos que formen el patrimonio natural y cultural de los centros de población.
 
 ###### ARTÍCULO 97.
 
@@ -1103,9 +1141,11 @@ En contra de los actos y las resoluciones definitivas que dicte el Instituto, el
 
 Las notificaciones que deban hacerse por el Instituto, a las autoridades, a los solicitantes, a los terceros interesados, o a cualquier otra persona, se harán en los términos en que lo ordene la Ley del Procedimiento Administrativo del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 108.
 
-Las notificaciones deberá hacerlas, el empleado o funcionario que sea habilitado como notificador por la Secretaría de Finanzas.
+Las notificaciones deberá hacerlas, el empleado o funcionario que sea habilitado como notificador por la Secretaría.
 
 ###### ARTÍCULO 109.
 
@@ -1160,3 +1200,27 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 247.- ARTÍCULO ÚNICO.- SE REFORMAN LOS ARTÍCULOS 5°; 6°; 7° FRACCIÓN III; 10 PÁRRAFO PRIMERO; 11 FRACCIÓN I; 19; 21 FRACCIONES XXXIII Y XXXIX, 23; 26 FRACCIONES II, VIII Y XV; 27 PRIMER PÁRRAFO; 28; 38; 39 PÁRRAFO SEGUNDO; 40; 44; 63 PÁRRAFO SEGUNDO; 64; 65; 96 Y 108; SE ADICIONAN LAS FRACCIONES XL Y XLI AL ARTÍCULO 21; Y SE DEROGAN LAS FRACCIONES DE LA XXII, XXIII, XXIV Y XXXV DEL ARTÍCULO 21; Y, LAS FRACCIONES IX, XX Y XXI DEL ARTÍCULO 26; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 27; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 63; TODOS DE LA LEY DE CATASTRO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días hábiles a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo deberá realizar las adecuaciones necesarias al Reglamento Interior del Instituto Catastral del Estado de Aguascalientes, a efecto de dar cumplimiento al objeto del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Consejo Técnico Catastral y de Valuación deberá quedar instalado atendiendo a la integración planteada en las presentes Reformas, Derogaciones y Adiciones.
+
+###### ARTÍCULO CUARTO.
+
+En materia catastral, todas las referencias hechas a la Secretaría de Finanzas del Estado, se entenderán realizadas a la Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral del Estado de Aguascalientes, para los efectos jurídicos a que haya lugar.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
