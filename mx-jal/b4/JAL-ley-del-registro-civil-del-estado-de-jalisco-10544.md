@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2019-11-23"
+last_updated: "2019-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "JAL"
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+
+[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE NOVIEMBRE DE 2019.]
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -527,11 +529,11 @@ PODRÁ EFECTUAR EL REGISTRO DE SU HIJO, EL PADRE QUE EN COMPAÑÍA DE LOS ABUELO
 
 (NOTA: EL 19 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 133/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYUSCULAS, LA CUAL SURTIÓ EFECTOS EL 20 DE OCTUBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2019) (REPUBLICADO, P.O. 23 DE NOVIEMBRE DE 2019)
+(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE NOVIEMBRE DE 2019) (F. DE E., P.O. 28 DE NOVIEMBRE DE 2019)
 
 EN CASO DE FALLECIMIENTO DEL PADRE, LA MADRE PODRÁ EFECTUAR EL REGISTRO DE SU HIJO EN COMPAÑÍA DE LOS ABUELOS PATERNOS O FAMILIARES HASTA EL CUARTO GRADO QUE DECLAREN LA RELACIÓN DE CONCUBINATO QUE EXISTIÓ ENTRE AMBOS PROGENITORES. LA CONCUBINA DEBERÁ EXHIBIR LAS CONSTANCIAS QUE ACREDITEN EL CONCUBINATO DE CONFORMIDAD CON EL ARTÍCULO AL ARTÍCULO (SIC) 778 PÁRRAFOS SEGUNDO Y TERCERO DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO.
 
-(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019) (REPUBLICADO, P.O. 23 DE NOVIEMBRE DE 2019)
+(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019) (F. DE E., P.O. 28 DE NOVIEMBRE DE 2019)
 
 ###### Artículo 43 Bis.
 
@@ -771,7 +773,7 @@ Este escrito deberá ser firmado por el solicitante y, si no pudiere o no supier
 
 Ter. A la solicitud a que se refiere el artículo anterior se acompañarán:
 
-I. Copia certificada del acta de nacimiento de la · persona interesada, identificación idónea o, en su defecto, cualquier otro medio de prueba que señale el Código Civil, para acreditar su nombre, nacionalidad, fecha y lugar de nacimiento, y
+I. Copia certificada del acta de nacimiento de la persona interesada, identificación idónea o, en su defecto, cualquier otro medio de prueba que señale el Código Civil, para acreditar su nombre, nacionalidad, fecha y lugar de nacimiento, y
 
 II. Un certificado médico en donde el profesional que lo extienda certifique bajo protesta de decir verdad, haber examinado al interesado en designar tutor voluntario y haber constatado su buen estado de salud psíquica.
 
