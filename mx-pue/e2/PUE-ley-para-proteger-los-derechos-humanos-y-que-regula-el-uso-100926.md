@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-proteger-los-derechos-humanos-y-que-regula-el-uso-1009
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-19"
-last_updated: "2018-11-15"
+last_updated: "2019-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY PARA PROTEGER LOS DERECHOS HUMANOS Y QUE REGULA EL USO LEGITIMO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE PUEBLA
 
-> <small>[N. DE E. EL DECRETO POR EL QUE SE ABROGA LA PRESENTE LEY SE PUBLICÓ POSTERIOR A ESTE DECRETO, EN EL P.O. 15 DE NOVIEMBRE DE 2018]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO Y SEGUNDO DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ABROGA LA LEY PARA PROTEGER LOS DERECHOS HUMANOS Y QUE REGULA EL USO LEGÍTIMO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE PUEBLA", PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, ASIMISMO EL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA EL TRANSITORIO SEGUNDO Y SE ADICIONA UN TRANSITORIO TERCERO A LA MINUTA DE DECRETO QUE ABROGA LA LEY PARA PROTEGER LOS DERECHOS HUMANOS Y QUE REGULA EL USO LEGÍTIMO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE PUEBLA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL QUINCE DE NOVIEMBRE DE DOS MIL DIECIOCHO".]</small>
 
 LEY PARA PROTEGER LOS DERECHOS HUMANOS Y QUE REGULA EL USO LEGÍTIMO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. 28 DE NOVIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de mayo de 2014.
 
@@ -526,3 +526,23 @@ TERCERO.- Las Instituciones Policiales del Estado de Puebla deberán realizar la
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ABROGA LA LEY PARA PROTEGER LOS DERECHOS HUMANOS Y QUE REGULA EL USO LEGÍTIMO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE PUEBLA”.]</small>
+
+PRIMERO. Se ABROGA la Ley para Proteger los Derechos Humanos y que Regula el Uso Legítimo de la Fuerza por parte de los Elementos de las Instituciones Policiales del Estado de Puebla.
+
+SEGUNDO. Se ABROGA el Decreto del Honorable Congreso del Estado, por el que se reforma el Transitorio Segundo y se adiciona un Transitorio Tercero a la Minuta de Decreto que Abroga la Ley para Proteger los Derechos Humanos y que Regula el Uso Legítimo de la Fuerza por parte de los elementos de las Instituciones Policiales del Estado de Puebla, publicado en el Periódico Oficial del Estado el quince de noviembre de dos mil dieciocho.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ABROGA LA LEY PARA PROTEGER LOS DERECHOS HUMANOS Y QUE REGULA EL USO LEGÍTIMO DE LA FUERZA POR PARTE DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO. Queda sin efectos la Minuta de Decreto que abroga la Ley para Proteger los Derechos Humanos y que regula el Uso Legítimo de la Fuerza por parte de los Elementos de las Instituciones Policiales del Estado de Puebla, aprobada por el Congreso del Estado el diecisiete de septiembre de dos mil dieciocho.
+
+TERCERO. Para efectos del presente Decreto, los actos y determinaciones de las autoridades reguladas o relacionadas con la aplicación de la Ley para Proteger los Derechos Humanos y que regula el Uso Legítimo de la Fuerza por parte de los Elementos de las Instituciones Policiales del Estado de Puebla, así como las consecuencias y procedimientos iniciados durante la vigencia de la misma, se sujetarán a aquella hasta su conclusión.
+
+CUARTO. En términos del Artículo Transitorio Tercero del Decreto por el que se expide la Ley Nacional sobre el Uso de la Fuerza, publicado en el Diario Oficial de la Federación el veintisiete de mayo de dos mil diecinueve, las Instituciones de Seguridad Pública en el Estado procurarán, en la medida de su disponibilidad presupuestaria, adquirir la tecnología correspondiente.
+
+QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
