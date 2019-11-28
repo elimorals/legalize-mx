@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-124168"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-10-27"
-last_updated: "2019-11-11"
+last_updated: "2019-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 27 de octubre de 2017.
 
@@ -553,11 +553,17 @@ LVII.- Establecer instrumentos, políticas, procedimientos, servicios y acciones
 
 LVIII.- Participar en la planeación, operación y seguimiento de las políticas públicas, programas y acciones que se implementen en la atención de migrantes y sus familias; y
 
-LIX.- Organizar, dirigir, evaluar y controlar los servicios de asesoría jurídica a las victimas u ofendidos de hechos delictivos y violación a sus derechos humanos a través de la Unidad Administrativa correspondiente; así como dar cumplimiento a la normatividad federal en la materia; y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+LIX.- Organizar, dirigir, evaluar y controlar los servicios de asesoría jurídica a las victimas u ofendidos de hechos delictivos y violación a sus derechos humanos a través de la Unidad Administrativa correspondiente; así como dar cumplimiento a la normatividad federal en la materia;
 
-LX.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+LX.- Implementar acciones de coordinación con las autoridades en los tres niveles de gobierno, en el ámbito de sus respectivas competencias, para el fortalecimiento y consolidación del Sistema de Justicia Penal, en términos de la legislación aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+LXI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
 
 #### SECCIÓN SEGUNDA. La Secretaría de Administración
 
@@ -837,65 +843,75 @@ XXVI.- Ejercer las atribuciones y facultades que le señalen las demás leyes, r
 
 #### SECCIÓN QUINTA. La Secretaría de Desarrollo Económico
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 36.
 
-A la Secretaría de Desarrollo Económico corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Económico le corresponde el despacho de los siguientes asuntos:
 
-I.- Dirigir, coordinar y controlar la ejecución de las políticas y programas para la promoción, consolidación y desarrollo de las actividades industriales, mineras, comerciales, de abasto y de las exportaciones en el Estado;
+I.- Dirigir, coordinar y controlar la ejecución de las políticas y programas para la promoción, consolidación y desarrollo de las actividades productivas, industriales, mineras, comerciales, de abasto y de las exportaciones en el Estado, por sí y con la participación de los sectores público, social y privado;
 
 II.- Promover el crecimiento económico de las regiones de la Entidad, procurando el desarrollo equilibrado, sustentable y sostenido, considerando las ventajas competitivas respectivas;
 
-III.- Fomentar la creación de fuentes de empleo, y atender y apoyar a la micro, pequeña y mediana empresa; incrementar su competitividad, e impulsar el establecimiento y desarrollo de la industria en el Estado, así como la creación de parques industriales y centros comerciales;
+III.- Fomentar la creación de fuentes de empleo, y atender y apoyar a la micro, pequeña y mediana empresa; incrementar su competitividad, e impulsar el establecimiento y desarrollo de la industria en el Estado, así como la creación de unidades industriales y centros comerciales;
 
-IV.- Evaluar los programas de desarrollo económico y social del Estado y vigilar su integralidad, a efecto de que beneficien en forma equitativa a las diferentes regiones y sectores de la población, revisando periódicamente los resultados obtenidos;
+IV.- Evaluar los programas de desarrollo económico del Estado y vigilar su integralidad, a efecto de que beneficien en forma equitativa a las diferentes regiones y sectores de la población, revisando periódicamente los resultados obtenidos;
 
 V.- Dirigir, coordinar y controlar la ejecución de los programas de fomento y promoción económica para el desarrollo de la Entidad;
 
-VI.- Promover la creación y operación de centros regionales de desarrollo con la participación de los sectores empresariales, que permitan fomentar e incrementar las actividades empresariales;
+VI.- Promover la creación y operación de centros regionales de desarrollo integral con la participación de los sectores públicos, privados y académicos que permitan fomentar e incrementar el desarrollo económico;
 
 VII.- Fomentar y participar con otras Entidades Federativas, en el desarrollo de proyectos regionales, económicos e industriales;
 
 VIII.- Fomentar la creación de condiciones económicas y de infraestructura necesarias para el desarrollo económico del Estado;
 
-IX.- Impulsar el desarrollo de la ciencia y la tecnología mediante la adecuada vinculación de los sectores productivo y educativo;
+IX.- Propiciar el crecimiento económico y el desarrollo social, a través de la transferencia e incorporación de tecnología y de la innovación;
 
-X.- Propiciar el crecimiento económico y el desarrollo social, a través de la transferencia e incorporación de tecnología y de la innovación;
+X.- Participar, en coordinación con las autoridades competentes en la planeación y programación de obras e inversiones tendientes a promover la explotación racional de los recursos del Estado;
 
-XI.- Participar, en coordinación con las autoridades competentes en la planeación y programación de obras e inversiones tendientes a promover la explotación racional de los recursos minerales del Estado;
+XI.- Organizar, administrar y mantener permanentemente actualizada la información sobre los recursos, características y participantes de las actividades económicas e industriales del Estado;
 
-XII.- Promover ejecutar y administrar las unidades industriales del Estado;
+XII.- Generar información actualizada, oportuna y confiable sobre las actividades económicas, coordinándose con la Coordinación General de Planeación y Proyectos para su difusión;
 
-XIII.- Organizar, administrar y mantener permanentemente actualizado un sistema integral de información sobre los recursos, características y participantes de las actividades económicas e industriales del Estado;
+XIII.- Apoyar programas de investigación científica y tecnológica industrial, así como fomentar su divulgación;
 
-XIV.- Generar información actualizada, oportuna y confiable sobre las actividades económicas, coordinándose con la Coordinación General de Planeación y Proyectos para su difusión;
+XIV.- Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia industrial, comercial, de abasto y exportaciones, contengan los convenios de coordinación y colaboración que al efecto se suscriban;
 
-XV.- Organizar y apoyar programas de investigación científica y tecnológica industrial, y fomentar su divulgación;
+XV.- Organizar y fomentar la producción artesanal del Estado, vigilando que su comercialización se haga en términos favorables para los artesanos;
 
-XVI.- Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones y funciones que en materia industrial, comercial, de abasto y exportaciones, contengan los convenios de coordinación y colaboración que al efecto se suscriban;
+XVI.- Fomentar la organización de industriales, comerciantes y exportadores en la Entidad, a fin de favorecer el desarrollo económico del Estado;
 
-XVII.- Organizar y fomentar la producción artesanal del Estado, vigilando que su comercialización se haga en términos favorables para los artesanos;
+XVII.- Coadyuvar en el desarrollo de las políticas establecidas por el Gobierno Federal, con relación a la distribución y el consumo de productos básicos;
 
-XVIII.- Procurar la organización de industriales, comerciantes y exportadores en la Entidad;
+XVIII.- Fomentar la constitución de cooperativas de producción de servicios y de consumo, así como de sociedades de solidaridad social;
 
-XIX.- Coadyuvar en el desarrollo de las políticas establecidas por el Gobierno Federal, con relación a la distribución y el consumo de productos básicos;
+XIX.- Participar en la formulación y ejecución de convenios de inversión con la Federación y con los Ayuntamientos;
 
-XX.- Fomentar la constitución de cooperativas de producción de servicios y de consumo, así como de sociedades de solidaridad social;
+XX.- Coadyuvar en el desarrollo de proyectos y programas que permitan consolidar en el Estado una nueva cultura laboral, que impulse la productividad y la competitividad, el mejoramiento de las condiciones de trabajo, y el fomento y promoción del empleo;
 
-XXI.- Participar en la formulación y ejecución de convenios de inversión con la Federación y con los Ayuntamientos;
+XXI.- Promover el establecimiento en la Entidad, de industrias prioritarias y empresas ambientalmente favorables al ecosistema estatal;
 
-XXII.- Promover y ejecutar programas y acciones en materia de producción, industrialización y comercialización, que contribuyan al desarrollo de las actividades productivas y de bienestar social, por sí y en coordinación con las Entidades de los sectores público, social y privado;
+XXII.- Implementar, conducir, divulgar y evaluar políticas públicas y programas de mejora regulatoria para el perfeccionamiento de las regulaciones y la simplificación de los trámites y servicios en el Estado, de acuerdo al ámbito de su competencia y legislación aplicable, con la finalidad de promover la transparencia en la elaboración y aplicación de los mismos, procurando que generen beneficios superiores a sus costos y el máximo beneficio para la sociedad;
 
-XXIII.- Fomentar la generación y promoción de proyectos, así como los servicios y asistencia técnica y de capacitación para el desarrollo de empresas;
+XXIII.- Desempeñar las funciones de coordinación, colaboración, supervisión y ejecución que establezca la Ley en materia de mejora regulatoria y gestión empresarial;
 
-XXIV.- Apoyar, en coordinación con la Secretaría de Desarrollo Rural y Agroempresarial, las gestiones de los productores y trabajadores organizados para la obtención de servicios, insumos, créditos, financiamiento, maquinaria y demás elementos necesarios para el desarrollo de las actividades agroindustriales;
+XXIV.- Llevar a cabo la planeación, programación, instrumentación, ejecución, supervisión y evaluación de políticas y acciones en el campo de la competitividad e innovación empresarial, que incentive el incremento en la inversión, la productividad y el empleo en el Estado de Aguascalientes;
 
-XXV.- Coadyuvar en el desarrollo de proyectos y programas que permitan consolidar en el Estado una nueva cultura laboral, que impulse la productividad y la competitividad, el mejoramiento de las condiciones de trabajo, y el fomento y promoción del empleo;
+XXV.- Promover la vinculación de las empresas con instituciones académicas y centros de investigación y desarrollo tecnológico, orientada a la generación de valor y al aumento en la eficiencia de sus procesos, productos y servicios;
 
-XXVI.- Promover el establecimiento en la Entidad, de industrias prioritarias y empresas ambientalmente favorables al ecosistema estatal; y
+XXVI.- Promover prácticas de calidad, competitividad e innovación para las empresas mediante la capacitación, obtención de certificaciones y formación empresarial, así como concertar planes y programas de trabajo con instituciones de educación superior públicas y privadas para el fomento y desarrollo de las tecnologías de la información;
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2018)</small>
+XXVII.- Informar las ventajas que el Estado ofrece para la inversión nacional y extranjera, apoyándolas en sus trámites administrativos y gestiones financieras;
 
-XXVII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
+XXVIII.- Asesorar técnicamente a quien lo solicite para el establecimiento de nuevas unidades económicas;
+
+XXIX.- Otorgar apoyos y subsidios que se ofrecerán a los emprendedores y MIPYMES, que presenten proyectos productivos que incentiven o proporcionen el emprendimiento; el crecimiento de microempresas; y el escalamiento de pequeñas y medianas empresas, que se encuentren formalmente constituidas y que tengan proyectos de expansión ylo (sic) crecimiento; así como señalar los requisitos, condiciones y mecanismos para tener acceso a los mismos;
+
+XXX.- Operar como organismo intermedio y promotor, ante instituciones y organismos de carácter público y privado, para la gestión de apoyos a las empresas, así como vincular esfuerzos e impulsar la comunicación entre los sectores público, privado y social en los campos de la competitividad y mejora tecnológica de las empresas en el Estado;
+
+XXXI.- Fomentar la vinculación de las empresas con el sector académico y centros de investigación y desarrollo tecnológico; y
+
+XXXII.- Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin prejuicio, de las atribuciones de otras dependencias.
 
 #### SECCIÓN SEXTA. La Secretaría de Salud
 
@@ -1745,13 +1761,13 @@ XVII.- Atender las quejas y denuncias que presenten los particulares, organizado
 
 XVIII.- Emitir los lineamientos y coordinar la Entrega-Recepción de las oficinas públicas del Poder Ejecutivo, y de los servidores públicos al separarse de su empleo, cargo o comisión, así como en cumplimiento de los convenios con otros entes;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XIX.- Conocer, investigar y calificar las conductas que cometan los servidores públicos de la Administración Pública Estatal Centralizada y actos de particulares vinculados con faltas administrativas graves, que puedan constituir responsabilidades administrativas en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, así como substanciar y en su caso resolver y sancionar, en el ámbito de su competencia, los procedimientos de responsabilidad administrativa que deriven de dichas conductas, actos u omisiones.
+XIX.- Conocer, investigar y calificar las conductas que cometan los servidores públicos de la Administración Pública Estatal Centralizada y actos de particulares vinculados con faltas administrativas graves, que puedan constituir responsabilidades administrativas en términos de la Ley aplicable, así como substanciar y en su caso resolver y sancionar, en el ámbito de su competencia, los procedimientos de responsabilidad administrativa que deriven de dichas conductas, actos u omisiones.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-En el caso de faltas administrativas graves y actos de particulares vinculados con faltas administrativas graves, turnar los expedientes a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, para continuar con el procedimiento establecido en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+En el caso de faltas administrativas graves y actos de particulares vinculados con faltas administrativas graves, turnar los expedientes a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, para continuar con el procedimiento establecido en la Ley de la materia;
 
 XX.- Presentar las denuncias o querellas penales cuando la conducta del servidor público pueda constituir la comisión de algún delito;
 
@@ -2112,3 +2128,285 @@ En dicha sesión el Consejo Directivo del Instituto deberá aprobar la estructur
 ###### ARTÍCULO DECIMO SEGUNDO.
 
 En congruencia con lo dispuesto en el presente Decreto, quedan derogadas y por tanto se dejan sin efecto las disposiciones que se contravengan al mismo.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 249.- ARTÍCULO ÚNICO.- SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DE LA FRACCIÓN XIX DEL ARTÍCULO 46 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 250.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 36 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE EXPIDE LA LEY DE MEJORA REGULATORIA Y GESTIÓN EMPRESARIAL PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO TERCERO. SE EXTINGUEN LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADOS “INSTITUTO ESTATAL DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA” Y EL “CENTRO DE COMPETITIVIDAD E INNOVACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo dispuesto en el ARTÍCULO TERCERO, cuya vigencia comenzará a partir del 01 de enero de 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del 1° de enero de 2020 se abrogan la Ley de Gestión Empresarial y Mejora Regulatoria para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes con fecha 11 de noviembre de 2013, así como la Ley que Crea el Centro de Competitividad e Innovación del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes con fecha 20 de enero de 2014, incluidas todas sus reformas y adiciones subsecuentes de ambos ordenamientos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y el Centro de Competitividad e Innovación del Estado de Aguascalientes, llevarán a cabo la resolución de los vínculos administrativos, legales, judiciales y financieros, así como la celebración de los acuerdos administrativos de transferencia con las Dependencias de la Administración Pública Estatal, atendiendo a la naturaleza de su competencia.
+
+Los casos no previstos en el presente Decreto, serán resueltos mediante acuerdos administrativos, celebrados por las dependencias o entidades de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Los encargados de llevar los trabajos y operaciones, desde la entrada en vigor del presente Decreto y hasta su extinción, será quien ocupe la titularidad del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, respectivamente, quienes además contarán con las siguientes facultades:
+
+I. Formular y actualizar el inventario de los activos pertenecientes al Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y al Centro de Competitividad e Innovación del Estado de Aguascalientes, así como de los pasivos a cargo de cada uno de estos;
+
+II. Administrar los activos de los organismos, respectivamente, hasta su transferencia a las dependencias o entidades que correspondan;
+
+III. Elaborar los acuerdos administrativos de transferencia en conjunto con las dependencias o entidades que, de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, les competa conocer;
+
+IV. Contratar un despacho externo para dictaminación de los estados financieros;
+
+V. Informar a la Secretaría de Desarrollo Económico, a la Secretaría de Finanzas, a la Secretaría de Administración y a la Contraloría del Estado, sobre el avance y estado que guarde (sic) los actos tendientes a la extinción, atendiendo a la naturaleza de su competencia, a fin de que manifiesten lo que a su interés convenga;
+
+VI. Elaborar el acta de cierre con corte al 31 de diciembre de 2019; y
+
+VII. Las demás que se consideren necesarias para la extinción del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, y para los efectos del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos administrativos, legales, judiciales; archivos, expedientes, documentos y carpetas del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, serán transferidos a la Secretaría de Desarrollo Económico, a través de los acuerdos administrativos de transferencia respectivos.
+
+###### ARTÍCULO SEXTO.
+
+Los bienes muebles e inmuebles del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, serán transferidos al Gobierno del Estado, a través de la Contraloría del Estado; mediante los acuerdos administrativos de transferencia respectivos; debiendo la Contraloría del Estado otorgar en resguardo los bienes a la Secretaría de Desarrollo Económico.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos financieros del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, serán transferidos al Gobierno del Estado, a través de la Secretaría de Finanzas del Estado; mediante los acuerdos administrativos de transferencia respectivos.
+
+###### ARTÍCULO OCTAVO.
+
+Las obligaciones laborales respecto de los trabajadores que serán transferidos del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, al Gobierno del Estado de Aguascalientes, a través de la Secretaría de Desarrollo Económico, serán asumidas por esta última, respetando los derechos de los trabajadores en términos de las disposiciones legales aplicables.
+
+Los derechos laborales de los trabajadores transferidos, serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, en la transferencia institucional que se realice a la Secretaría de Desarrollo Económico.
+
+La Secretaría de Desarrollo Económico, de acuerdo con las necesidades institucionales y el presupuesto asignado podrá determinar conjuntamente con la Secretaría de Administración, las transferencias de personal o la terminación de la relación laboral.
+
+###### ARTÍCULO NOVENO.
+
+La publicación en el Periódico Oficial del Estado de Aguascalientes de los acuerdos administrativos de transferencia, celebrados respecto de los asuntos pendientes del Órgano Interno de Control en el Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Órgano Interno de Control en el Centro de Competitividad e Innovación del Estado de Aguascalientes, hará las veces de notificación para los efectos legales a que haya lugar.
+
+###### ARTÍCULO DÉCIMO.
+
+En virtud de la extinción del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, inician los procesos de liquidación de éstos.
+
+El encargado de realizar las operaciones necesarias para concluir los negocios pendientes durante el proceso de liquidación de los organismos, a partir del 1° de enero de 2020, será el titular de la Secretaría de Desarrollo Económico.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El titular de la Secretaría de Desarrollo Económico, tendrá las siguientes facultades y atribuciones, en términos del artículo transitorio anterior:
+
+I. Ejercer las facultades y atribuciones de apoderado general para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y aún las especiales que de acuerdo con las leyes requieran poder o cláusula, así como para delegar su representación mediante poderes generales o especiales;
+
+II. Reintegrar el recurso no ejercido del presupuesto asignado al Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y al Centro de Competitividad e Innovación del Estado de Aguascalientes, para el Ejercicio Fiscal 2019, a la Secretaría de Finanzas del Estado, en los términos que ésta señale;
+
+III. Informar a la Secretaría de Finanzas, a la Secretaría de Administración y a la Controlaría del Estado, sobre el avance y estado que guarde el proceso de liquidación, según los asuntos que le competa conocer;
+
+IV. Presentar ante el Servicio de Administración Tributaria, el aviso de cancelación del Registro Federal de Contribuyentes, conjuntamente con la declaración final de la liquidación de los activos del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes;
+
+V. Elaborar el cierre contable y someter a revisión de la Contraloría y la Secretaría de Finanzas, y solicitar su visto bueno;
+
+VI. Elaborar el libro blanco de los resultados obtenidos del proceso de liquidación;
+
+VII. Conservar en depósito la documentación correspondiente al proceso de liquidación de manera digital y física de conformidad con lo establecido en la legislación aplicable;
+
+VIII. Atender las auditorías y/o requerimientos de los entes fiscalizadores estatales y/o federales; y
+
+IX. Las demás inherentes a sus atribuciones que le otorgue la legislación aplicable y que se consideren necesarias para la liquidación del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El titular de la Secretaría de Desarrollo Económico, deberá inscribir la extinción del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, en el Registro Público de la Propiedad y del Comercio del Estado, en la sección relativa a las Entidades Paraestatales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Para los efectos legales a que haya lugar, las referencias que se hagan tanto al Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, así como al Centro de Competitividad e Innovación del Estado de Aguascalientes, en otras disposiciones o instrumentos jurídicos emitidos con anterioridad a la entrada en vigor del presente Decreto, se entenderán efectuadas a la Secretaría de Desarrollo Económico.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Poder Ejecutivo del Estado, a través de las Dependencias de la Administración Pública Estatal competentes, llevará a cabo todos aquellos actos administrativos, jurídicos y financieros necesarios para el debido funcionamiento de la Secretaría de Desarrollo Económico en materia de Gestión Empresarial y Mejora Regulatoria, así como en materia de Competitividad e Innovación, con base en el techo presupuestal que se autorice para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se deberán considerar en el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal 2020 los recursos necesarios para la operatividad y funcionamiento de la unidades administrativas de la Secretaría de Desarrollo Económico, encargadas de la mejora regulatoria y gestión empresarial, así como de la competitividad e innovación en el Estado.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Poder Ejecutivo, deberá emitir las adecuaciones normativas correspondientes, a más tardar el 1° de enero de 2020, a efecto de garantizar los principios de legalidad, certeza y seguridad jurídica para el cumplimiento de lo establecido en el presente Decreto.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+El Consejo Estatal de Mejora Regulatoria deberá sesionar para su instalación, dentro de un plazo que no exceda los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Las Autoridades de Mejora Regulatoria y los sujetos obligados deberán considerar en su presupuesto anual los recursos económicos necesarios para el cumplimiento e implementación de las acciones en materia de mejora regulatoria y en términos del presente Decreto.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Consejo Estatal de Mejora Regulatoria deberá expedir los lineamientos, instrumentos, bases, mecanismos y demás normatividad necesaria para el cumplimiento de la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes dentro del plazo que no exceda a un año contado a partir de la entrada en vigor este Decreto.
+
+###### ARTÍCULO VIGÉSIMO.
+
+En un plazo que no exceda de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Económico deberá expedir los lineamientos para establecer los calendarios, mecanismos, formularios e indicadores para la implementación de los programas de mejora regulatoria y demás disposiciones necesarias para el cumplimiento de la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Las Autoridades de Mejora Regulatoria deberán expedir el Manual de Funcionamiento del Análisis de Impacto Regulatorio y demás disposiciones necesarias para el cumplimiento de la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes, dentro del plazo que no exceda a un año contado a partir de la entrada en vigor este Decreto.
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+La Estrategia Estatal de Mejora Regulatoria deberá ser propuesta para su aprobación al Consejo Estatal de Mejora Regulatoria dentro de un plazo que no exceda de noventa días naturales siguientes a la sesión de instalación del Consejo Estatal y en términos de las disposiciones de la Ley General de Mejora Regulatoria.
+
+###### ARTÍCULO VIGÉSIMO TERCERO.
+
+En un plazo de ciento ochenta días siguientes a la entrada en vigor del presente Decreto, las Herramientas de Mejora Regulatoria que ya se encuentren en funcionamiento se deberán adaptar a lo dispuesto en la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes.
+
+Los sujetos obligados deberán implementar gradualmente las Herramientas de Mejora Regulatoria previstas en esta Ley, tomando en consideración la complejidad de las herramientas y su capacidad técnica, operativa y presupuestal.
+
+El funcionamiento de las Herramientas de Mejora Regulatoria no podrá exceder de los tres años posteriores a la entrada en vigor de la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes.
+
+###### ARTÍCULO VIGÉSIMO CUARTO.
+
+Los Municipios, Poderes Legislativo y Judicial y Órganos Constitucionales Autónomos, en un plazo no mayor a un año calendario, contado a partir de la entrada en vigor de este Decreto, deberán adecuar sus disposiciones reglamentarias para dar cumplimiento a la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes.
+
+###### ARTÍCULO VIGÉSIMO QUINTO.
+
+Los Consejos Municipales de Mejora Regulatoria deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de las adecuaciones correspondientes a sus disposiciones reglamentarias.
+
+###### ARTÍCULO VIGÉSIMO SEXTO.
+
+Las menciones contenidas en cualquier ordenamiento jurídico respecto a la Manifestación de Impacto Regulatorio se entenderán referidas al Análisis de Impacto Regulatorio.
+
+Las manifestaciones de impacto regulatorio presentadas con anterioridad a la entrada en vigor de la Ley de Mejora Regulatoria para el Estado de Aguascalientes, serán concluidas conforme a las disposiciones aplicables vigentes a la fecha de su presentación.
+
+###### ARTÍCULO VIGÉSIMO SÉPTIMO.
+
+Quedan derogas todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 251.- ARTÍCULO PRIMERO.- SE REFORMAN LAS FRACCIONES LIX Y LX DEL ARTÍCULO 32 Y SE ADICIONA UNA FRACCIÓN LXI AL MISMO ARTÍCULO 32; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE REFORMAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 5°, FRACCIONES III Y IV DEL ARTÍCULO 10, ARTÍCULOS 36, 38 Y FRACCIONES XXIII Y XXIV DEL ARTÍCULO 39; Y SE ADICIONAN UNA FRACCIÓN XX AL ARTÍCULO 5°, UNA FRACCIÓN V AL ARTÍCULO 10, Y LAS FRACCIONES XXV, XXVI Y XXVII AL ARTÍCULO 39 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES; ARTÍCULO TERCERO. SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO ÓRGANO IMPLEMENTADOR DEL SISTEMA DE JUSTICIA PENAL EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo dispuesto en el ARTÍCULO TERCERO, cuya vigencia comenzará a partir del 01 de enero de 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del 1° de enero de 2020 se abroga la Ley para la Implementación del Sistema Penal Acusatorio, publicada el 02 de junio de 2014 en la Primera Sección del Periódico Oficial del Estado, así como sus reformas y adiciones subsecuentes.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, el Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, llevará a cabo la resolución de los vínculos administrativos, legales, judiciales y financieros, así como la celebración de los acuerdos administrativos de transferencia con las Dependencias de la Administración Pública Estatal, atendiendo a la naturaleza de su competencia.
+
+Los casos no previstos en el presente Decreto, serán resueltos mediante acuerdos administrativos, celebrados por las dependencias o entidades de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+El encargado de llevar los trabajos y operaciones, desde la entrada en vigor del presente Decreto y hasta su extinción, será quien ocupe la titularidad del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, quien además contará con las siguientes facultades:
+
+I. Formular y actualizar el inventario de los activos pertenecientes al Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, así como de los pasivos a su cargo;
+
+II. Administrar los activos del organismo hasta su transferencia a las dependencias o entidades que correspondan;
+
+III. Elaborar los acuerdos administrativos de transferencia en conjunto con las dependencias o entidades que, de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, les competa conocer;
+
+IV. Contratar un despacho externo, para dictaminación de los estados financieros;
+
+V. Informar a la Secretaría General de Gobierno, la Secretaría de Finanzas, la Secretaría de Administración y la Contraloría del Estado, sobre el avance y estado que guarde los actos tendientes a la extinción, atendiendo a la naturaleza de su competencia, a fin de que manifiesten lo que a su interés convenga;
+
+VI. Elaborar el acta de cierre con corte al 31 de diciembre de 2019; y
+
+VII. Las demás que se consideren necesarias para la extinción del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, y para los efectos del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos administrativos, legales, judiciales; archivos, expedientes, documentos y carpetas del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, serán transferidos a la Secretaría General de Gobierno; a través de los acuerdos administrativos de transferencias respectivos.
+
+###### ARTÍCULO SEXTO.
+
+Los bienes muebles e inmuebles del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, serán transferidos al Gobierno del Estado, a través de la Contraloría del Estado; mediante los acuerdos administrativos de transferencias respectivos; debiendo la Contraloría del Estado otorgar en resguardo los bienes a la Secretaría General de Gobierno.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos financieros del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, serán transferidos al Gobierno del Estado, a través de la Secretaría de Finanzas del Estado; mediante los acuerdos administrativos de transferencias respectivos.
+
+###### ARTÍCULO OCTAVO.
+
+Las obligaciones laborales respecto de los trabajadores que serán transferidos del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, al Gobierno del Estado de Aguascalientes, a través de la Secretaría General de Gobierno del Estado, serán asumidas por esta última, respetando los derechos de los trabajadores en términos de las disposiciones legales aplicables.
+
+Los derechos laborales de los trabajadores transferidos, serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, en la transferencia institucional que se realice a la Secretaría General de Gobierno.
+
+La Secretaría General de Gobierno, de acuerdo con las necesidades institucionales y el presupuesto asignado podrá determinar conjuntamente con la Secretaría de Administración, las transferencias de personal o la terminación de la relación laboral.
+
+###### ARTÍCULO NOVENO.
+
+La publicación en el Periódico Oficial del Estado de Aguascalientes de los acuerdos administrativos de transferencia, celebrados respecto de los asuntos pendientes del Órgano Interno de Control en el Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, hará las veces de notificación para los efectos legales a que haya lugar.
+
+###### ARTÍCULO DÉCIMO.
+
+En virtud de la extinción del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes inicia el proceso de liquidación del mismo.
+
+El encargado de realizar las operaciones necesarias para concluir los negocios pendientes durante el proceso de liquidación del organismo, será quien ocupe la titularidad del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, mismo que se encuentra orgánicamente dentro de la Secretaría General de Gobierno.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, tendrá las siguientes facultades y atribuciones, en términos del artículo transitorio anterior:
+
+I. Ejercer las facultades y atribuciones de apoderado general para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y aún las especiales que de acuerdo con las leyes requieran poder o cláusula, así como para delegar su representación mediante poderes generales o especiales;
+
+II. Reintegrar el recurso no ejercido del presupuesto asignado al Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes para el Ejercicio Fiscal 2019, a la Secretaría de Finanzas del Estado, en los términos que ésta señale;
+
+III. Informar a la Secretaría General de Gobierno, la Secretaría de Finanzas, la Secretaría de Administración y la Controlaría del Estado, sobre el avance y estado que guarde el proceso de liquidación, según los asuntos que le competa conocer;
+
+IV. Presentar ante el Servicio de Administración Tributaria, el aviso de cancelación del Registro Federal de Contribuyentes, conjuntamente con la declaración final de la liquidación de los activos del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes;
+
+V. Elaborar el cierre contable y someter a revisión de la Contraloría y la Secretaría de Finanzas, y solicitar su visto bueno;
+
+VI. Elaborar el libro blanco de los resultados obtenidos del proceso de liquidación;
+
+VII. Conservar en depósito la documentación correspondiente al proceso de liquidación de manera digital y física de conformidad con lo establecido en la legislación aplicable;
+
+VIII. Atender las auditorías y/o requerimientos de los entes fiscalizadores estatales y/o federales; y
+
+IX. Las demás inherentes a sus atribuciones que le otorgue la legislación aplicable y que se consideren necesarias para la liquidación del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Titular del Secretariado Ejecutivo del Sistema de Justicia Penal en el Estado de Aguascalientes, deberá inscribir la extinción del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes en el Registro Público de la Propiedad y del Comercio del Estado, en la sección relativa a las Entidades Paraestatales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El Comité Técnico del Fideicomiso 2222 “Fideicomiso del Estado de Aguascalientes para la Implementación del Sistema de Justicia Penal”, así como el Fideicomitente en el ámbito de sus competencias, realizarán las acciones necesarias para que se lleven a cabo las adecuaciones al contrato correspondiente, sin que ello implique la modificación de su objeto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las referencias que se hagan al Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, en otras disposiciones o instrumentos jurídicos emitidos con anterioridad a la entrada en vigor del presente Decreto, se entenderán efectuadas al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, a excepción de aquellas inherentes a la ejecución de determinada función de implementación del Sistema de Justicia Penal en el Estado.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Poder Ejecutivo del Estado, a través de las Dependencias de la Administración Pública Estatal competentes, llevará a cabo todos aquellos actos administrativos, jurídicos y financieros necesarios para el debido funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública en materia de consolidación del Sistema de Justicia Penal en el Estado, con base en el techo presupuestal que se autorice para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se deberán considerar en el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal 2020, los recursos necesarios para la operatividad y funcionamiento de la consolidación del Sistema de Justicia Penal que el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, adscrito a la Secretaría General de Gobierno, llevará a cabo.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+El Poder Ejecutivo, deberá emitir las adecuaciones normativas correspondientes, a más tardar al 1° de enero de 2020, a efecto de garantizar los principios de legalidad, certeza y seguridad jurídica para el cumplimiento de lo establecido en el presente Decreto.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
