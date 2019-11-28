@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2018-09-03"
+last_updated: "2019-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -121,13 +123,17 @@ XVI. Secretaría: A la Secretaría de Seguridad Pública del Estado de Aguascali
 
 XVII. Código: Al Código Nacional de Procedimientos Penales;
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XVIII. Medidas Cautelares y sus Condiciones: A las medidas cautelares personales, reales y las condiciones por cumplir para su imposición, sean restrictivas de la libertad personal o de otros derechos durante la suspensión condicional del proceso a prueba, así como las medidas de seguridad impuestas por la autoridad judicial por el tiempo indispensable para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento; y
+XVIII. Medidas Cautelares y sus Condiciones: A las medidas cautelares personales, reales y las condiciones por cumplir para su imposición, sean restrictivas de la libertad personal o de otros derechos durante la suspensión condicional del proceso a prueba, así como las medidas de seguridad impuestas por la autoridad judicial por el tiempo indispensable para asegurar la presencia del imputado en el procedimiento, garantizar la seguridad de la víctima u ofendido o del testigo, o evitar la obstaculización del procedimiento;
 
-> <small>(ADICIONADA, P.O. 23 DE MAYO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XIX. Sistema: Al Sistema Estatal de Seguridad Pública.
+XIX. Secretariado Ejecutivo: Al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XX. Sistema: Al Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 6º.
 
@@ -207,9 +213,17 @@ I. El Consejo;
 
 II. Los Consejos Municipales de Seguridad Pública;
 
-III. Las Instituciones de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-IV. Las Instancias de coordinación, equipos, programas, información, servicios y acciones tendientes a cumplir con los propósitos de la materia.
+III. Las Instituciones de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+IV. Las Instancias de coordinación, equipos, programas, información, servicios y acciones tendientes a cumplir con los propósitos de la materia; y
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+V. El Secretariado Ejecutivo.
 
 ###### Artículo 11.
 
@@ -523,11 +537,11 @@ La Secretaría, a través de la instancia que determine, será la titular de la 
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 36.
 
-El Consejo tendrá un Secretario Ejecutivo, quien será designado por el Gobernador del Estado.
+El Consejo tendrá un Secretario Ejecutivo, quien será el Titular del Secretariado Ejecutivo, adscrito a la Secretaría General de Gobierno.
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2014)</small>
 
@@ -535,9 +549,11 @@ El Consejo tendrá un Secretario Ejecutivo, quien será designado por el Goberna
 
 El Secretario Ejecutivo, para el cumplimiento de sus funciones, contará con instancias relativas a la prevención del delito y participación ciudadana, el Sistema Estatal de Estadística Criminológica y coadyuvará en acatamiento a los lineamientos e instrucciones giradas por el Secretario de Gobierno, en las actividades del Centro de Evaluación y Control de Confianza del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 38.
 
-El Secretario Ejecutivo del Sistema, contará con el personal administrativo necesario para el cumplimiento de sus funciones, en los términos del presupuesto aprobado.
+El Secretariado Ejecutivo, contará con el personal administrativo necesario para el cumplimiento de sus funciones, en los términos del presupuesto aprobado.
 
 ###### Artículo 39.
 
@@ -587,9 +603,25 @@ XXI. Proponer al Consejo los lineamientos, políticas y acciones en materia de p
 
 XXII. Promover la participación ciudadana para el fortalecimiento del Sistema;
 
-XXIII. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema; y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XXIV. Las demás que le otorga esta Ley y demás disposiciones jurídicas aplicables, así como las que le encomiende el Consejo o su Presidente.
+XXIII. Dictar las medidas necesarias para garantizar el adecuado funcionamiento del Sistema;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XXIV. Fungir como enlace operativo y de coordinación entre las autoridades de los tres niveles de gobierno, para el fortalecimiento y consolidación del Sistema de Justicia Penal, en términos de la normatividad aplicable, conforme al ámbito de sus respectivas competencias;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XXV. Coordinar, elaborar y presentar los estudios, análisis, estrategias y propuestas de diseño, planeación, ejecución y evaluación de los planes, programas y acciones necesarias para la consolidación del Sistema Penal Acusatorio;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XXVI. Celebrar aquellos actos jurídicos necesarios para la coordinación, colaboración y concertación del fortalecimiento y consolidación del Sistema de Justicia Penal; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XXVII. Las demás que le otorga esta Ley y demás disposiciones jurídicas aplicables, así como las que le encomiende el Consejo o su Presidente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2016)</small>
 
@@ -2278,3 +2310,119 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación el en (sic) Periódico Oficial del Estado.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 251.- ARTÍCULO PRIMERO.- SE REFORMAN LAS FRACCIONES LIX Y LX DEL ARTÍCULO 32 Y SE ADICIONA UNA FRACCIÓN LXI AL MISMO ARTÍCULO 32; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE REFORMAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 5°, FRACCIONES III Y IV DEL ARTÍCULO 10, ARTÍCULOS 36, 38 Y FRACCIONES XXIII Y XXIV DEL ARTÍCULO 39; Y SE ADICIONAN UNA FRACCIÓN XX AL ARTÍCULO 5°, UNA FRACCIÓN V AL ARTÍCULO 10, Y LAS FRACCIONES XXV, XXVI Y XXVII AL ARTÍCULO 39 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES; ARTÍCULO TERCERO. SE EXTINGUE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO ÓRGANO IMPLEMENTADOR DEL SISTEMA DE JUSTICIA PENAL EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo dispuesto en el ARTÍCULO TERCERO, cuya vigencia comenzará a partir del 01 de enero de 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del 1° de enero de 2020 se abroga la Ley para la Implementación del Sistema Penal Acusatorio, publicada el 02 de junio de 2014 en la Primera Sección del Periódico Oficial del Estado, así como sus reformas y adiciones subsecuentes.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, el Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, llevará a cabo la resolución de los vínculos administrativos, legales, judiciales y financieros, así como la celebración de los acuerdos administrativos de transferencia con las Dependencias de la Administración Pública Estatal, atendiendo a la naturaleza de su competencia.
+
+Los casos no previstos en el presente Decreto, serán resueltos mediante acuerdos administrativos, celebrados por las dependencias o entidades de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+El encargado de llevar los trabajos y operaciones, desde la entrada en vigor del presente Decreto y hasta su extinción, será quien ocupe la titularidad del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, quien además contará con las siguientes facultades:
+
+I. Formular y actualizar el inventario de los activos pertenecientes al Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, así como de los pasivos a su cargo;
+
+II. Administrar los activos del organismo hasta su transferencia a las dependencias o entidades que correspondan;
+
+III. Elaborar los acuerdos administrativos de transferencia en conjunto con las dependencias o entidades que, de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, les competa conocer;
+
+IV. Contratar un despacho externo, para dictaminación de los estados financieros;
+
+V. Informar a la Secretaría General de Gobierno, la Secretaría de Finanzas, la Secretaría de Administración y la Contraloría del Estado, sobre el avance y estado que guarde (sic) los actos tendientes a la extinción, atendiendo a la naturaleza de su competencia, a fin de que manifiesten lo que a su interés convenga;
+
+VI. Elaborar el acta de cierre con corte al 31 de diciembre de 2019; y
+
+VII. Las demás que se consideren necesarias para la extinción del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, y para los efectos del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos administrativos, legales, judiciales; archivos, expedientes, documentos y carpetas del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, serán transferidos a la Secretaría General de Gobierno; a través de los acuerdos administrativos de transferencias respectivos.
+
+###### ARTÍCULO SEXTO.
+
+Los bienes muebles e inmuebles del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, serán transferidos al Gobierno del Estado, a través de la Contraloría del Estado; mediante los acuerdos administrativos de transferencias respectivos; debiendo la Contraloría del Estado otorgar en resguardo los bienes a la Secretaría General de Gobierno.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos financieros del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, serán transferidos al Gobierno del Estado, a través de la Secretaría de Finanzas del Estado; mediante los acuerdos administrativos de transferencias respectivos.
+
+###### ARTÍCULO OCTAVO.
+
+Las obligaciones laborales respecto de los trabajadores que serán transferidos del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, al Gobierno del Estado de Aguascalientes, a través de la Secretaría General de Gobierno del Estado, serán asumidas por esta última, respetando los derechos de los trabajadores en términos de las disposiciones legales aplicables.
+
+Los derechos laborales de los trabajadores transferidos, serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, en la transferencia institucional que se realice a la Secretaría General de Gobierno.
+
+La Secretaría General de Gobierno, de acuerdo con las necesidades institucionales y el presupuesto asignado podrá determinar conjuntamente con la Secretaría de Administración, las transferencias de personal o la terminación de la relación laboral.
+
+###### ARTÍCULO NOVENO.
+
+La publicación en el Periódico Oficial del Estado de Aguascalientes de los acuerdos administrativos de transferencia, celebrados respecto de los asuntos pendientes del Órgano Interno de Control en el Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, hará las veces de notificación para los efectos legales a que haya lugar.
+
+###### ARTÍCULO DÉCIMO.
+
+En virtud de la extinción del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes inicia el proceso de liquidación del mismo.
+
+El encargado de realizar las operaciones necesarias para concluir los negocios pendientes durante el proceso de liquidación del organismo, será quien ocupe la titularidad del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, mismo que se encuentra orgánicamente dentro de la Secretaría General de Gobierno.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El Titular del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, tendrá las siguientes facultades y atribuciones, en términos del artículo transitorio anterior:
+
+I. Ejercer las facultades y atribuciones de apoderado general para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y aún las especiales que de acuerdo con las leyes requieran poder o cláusula, así como para delegar su representación mediante poderes generales o especiales;
+
+II. Reintegrar el recurso no ejercido del presupuesto asignado al Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes para el Ejercicio Fiscal 2019, a la Secretaría de Finanzas del Estado, en los términos que ésta señale;
+
+III. Informar a la Secretaría General de Gobierno, la Secretaría de Finanzas, la Secretaría de Administración y la Controlaría del Estado, sobre el avance y estado que guarde el proceso de liquidación, según los asuntos que le competa conocer;
+
+IV. Presentar ante el Servicio de Administración Tributaria, el aviso de cancelación del Registro Federal de Contribuyentes, conjuntamente con la declaración final de la liquidación de los activos del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes;
+
+V. Elaborar el cierre contable y someter a revisión de la Contraloría y la Secretaría de Finanzas, y solicitar su visto bueno;
+
+VI. Elaborar el libro blanco de los resultados obtenidos del proceso de liquidación;
+
+VII. Conservar en depósito la documentación correspondiente al proceso de liquidación de manera digital y física de conformidad con lo establecido en la legislación aplicable;
+
+VIII. Atender las auditorías y/o requerimientos de los entes fiscalizadores estatales y/o federales; y
+
+IX. Las demás inherentes a sus atribuciones que le otorgue la legislación aplicable y que se consideren necesarias para la liquidación del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El Titular del Secretariado Ejecutivo del Sistema de Justicia Penal en el Estado de Aguascalientes, deberá inscribir la extinción del Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes en el Registro Público de la Propiedad y del Comercio del Estado, en la sección relativa a las Entidades Paraestatales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El Comité Técnico del Fideicomiso 2222 “Fideicomiso del Estado de Aguascalientes para la Implementación del Sistema de Justicia Penal”, así como el Fideicomitente en el ámbito de sus competencias, realizarán las acciones necesarias para que se lleven a cabo las adecuaciones al contrato correspondiente, sin que ello implique la modificación de su objeto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Las referencias que se hagan al Órgano Implementador del Sistema de Justicia Penal en el Estado de Aguascalientes, en otras disposiciones o instrumentos jurídicos emitidos con anterioridad a la entrada en vigor del presente Decreto, se entenderán efectuadas al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, a excepción de aquellas inherentes a la ejecución de determinada función de implementación del Sistema de Justicia Penal en el Estado.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+El Poder Ejecutivo del Estado, a través de las Dependencias de la Administración Pública Estatal competentes, llevará a cabo todos aquellos actos administrativos, jurídicos y financieros necesarios para el debido funcionamiento del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública en materia de consolidación del Sistema de Justicia Penal en el Estado, con base en el techo presupuestal que se autorice para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Se deberán considerar en el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal 2020, los recursos necesarios para la operatividad y funcionamiento de la consolidación del Sistema de Justicia Penal que el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, adscrito a la Secretaría General de Gobierno, llevará a cabo.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+El Poder Ejecutivo, deberá emitir las adecuaciones normativas correspondientes, a más tardar al 1° de enero de 2020, a efecto de garantizar los principios de legalidad, certeza y seguridad jurídica para el cumplimiento de lo establecido en el presente Decreto.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
