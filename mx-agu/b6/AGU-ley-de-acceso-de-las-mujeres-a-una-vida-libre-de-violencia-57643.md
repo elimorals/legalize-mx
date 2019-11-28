@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2019-03-18"
+last_updated: "2019-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -85,9 +85,11 @@ X. Impulsar la planeación, diseño, implementación, ejecución, seguimiento y 
 
 XI. Garantizar la comunicación y difusión de los derechos de las mujeres y el acceso a una vida libre de violencia, contenidos en los instrumentos internacionales y en la presente ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### Artículo 3°.
 
-La violencia de género contra las mujeres, de manera enunciativa, no limitativa, comprende las siguientes formas:
+La violencia contra las mujeres, de manera enunciativa, no limitativa, comprende las siguientes formas:
 
 I. La violencia doméstica;
 
@@ -129,13 +131,17 @@ XVII. La imagen estereotipada de la mujer que presentan los medios de comunicaci
 
 XVIII. La invisibilización de la participación de las mujeres en la construcción de nuestra sociedad;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XIX. Difundir o publicar sin consentimiento mediante cualquier medio tecnológico, imágenes o grabaciones con contenido erótico o sexual obtenidas con o sin autorización de quien sufre la afectación; y
+XIX. La difusión o publicación a través de cualquier medio tecnológico, de imágenes o grabaciones con contenido erótico o sexual, o que sin tener expresamente este contenido, se use o manipule con estos fines, sin autorización de quien sufre la afectación;
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XX. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
+XX. La Captura, Producción, Manipulación o Alteración de Imágenes o grabaciones, con la finalidad de llevar a cabo las acciones señaladas en la fracción anterior, o de acosar, hostigar, intimidar o amenazar a mujeres por cualquier medio; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XXI. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
 
 ###### Artículo 4°.
 
@@ -183,9 +189,9 @@ El Poder Ejecutivo, Legislativo y Judicial, entidades municipales, desconcentrad
 
 Los tipos de violencia de género contra las mujeres son:
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-I. La violencia psicológica: Es cualquier acción u omisión que dañe la estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluaciones, marginación, desamor, indiferencia, infidelidad, comparaciones destructivas, rechazo, chantaje, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación o anulación de su autoestima e incluso al suicidio, así mismo la conducta descrita por la Fracción XIX del Artículo 3º de la presente Ley;
+I. La violencia psicológica: Es cualquier acción u omisión contra su estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celos, insultos, humillaciones, devaluaciones, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, chantaje, restricciones o amenazas, así como las acciones descritas en la fracción XIX del artículo 3° de la presente Ley;
 
 II. La violencia física: Es todo acto que inflige daño no accidental, usando la fuerza física, algún tipo de arma, objeto o sustancia que pueda provocar o no lesiones, ya sean internas, externas o ambas;
 
@@ -227,13 +233,17 @@ i) Retener a la mujer o al producto de la concepción en los centros de salud o 
 
 VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigamiento que se realice en contra de una persona en la vía pública, en el que haya o no contacto físico; consiste en comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, acecho, actos de exhibicionismo y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-VIII. Violencia Política de Genero: Como cualquier acción u omisión, que basada en el género de una persona; tenga por objeto limitar, menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos; o bien afectar la equidad en los procesos electorales locales; y
+VIII. Violencia Política de Género: Cualquier acción u omisión contra la mujer, que basada en su sexo, tenga por objeto limitar, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos políticos; o bien afectar la equidad en los procesos electorales locales donde participen;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-IX. Cualesquiera otras formas análogas que por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
+IX. Violencia Digital: Es la que se produce cuando una persona provoca, realiza o amenaza con realizar cualquier tipo de violencia contra una o más mujeres, utilizando cualquier medio tecnológico, vulnerando principalmente su dignidad, libertad y desarrollo psicosexual; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+X. Cualesquiera otras formas análogas que por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 9°.
 
@@ -581,9 +591,9 @@ XIII. Un representante del Presidente de la Comisión Estatal de Derechos Humano
 
 XIV. Un representante del Instituto Estatal Electoral;
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XV. Un representante de la Comisión de Equidad de Género del Congreso del Estado y otro de la Comisión de Derechos Humanos del Congreso del Estado;
+XV. Un representante de la Comisión de Igualdad Sustantiva y Equidad de Género del Congreso del Estado y otro de la Comisión de Derechos Humanos del Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
@@ -749,9 +759,9 @@ XII. Promover la cultura de denuncia de la violencia contra las mujeres en el ma
 
 XIII. Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas; y
 
-> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-XIV. Informar del uso de tecnologías de la información, para evitar la grabación transmisión y manipulación de imágenes sexuales o eróticas distribuidas sin consentimiento de quien sufre la afectación.
+XIV. Educar, capacitar e informar a las Dependencias integrantes del Consejo, así como a la población en general sobre las consecuencias, formas de prevención y erradicación de la violencia digital, promoviendo el uso adecuado de las tecnologías de la información y comunicación.
 
 ### CAPÍTULO VIII. De la Distribución de Competencias en Materia de Prevención, Atención y Sanción de la Violencia de Género Contra las Mujeres
 
@@ -1488,3 +1498,11 @@ P.O. 18 DE MARZO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 244.- ARTÍCULO PRIMERO.- SE REFORMAN EL PRIMER PÁRRAFO Y LAS FRACCIONES XIX Y XX DEL ARTÍCULO 3°; LA FRACCIÓN I, VIII Y IX DEL ARTÍCULO 8°; LA FRACCIÓN XV DEL ARTÍCULO 36; Y LA FRACCIÓN XIV DEL ARTÍCULO 48; ASÍ MISMO SE ADICIONAN LA FRACCIÓN XXI AL ARTÍCULO 3° Y LA FRACCIÓN X DEL ARTÍCULO 8° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 181, Y SE ADICIONA EL ARTÍCULO 181 B DEL CÓDIGO PENAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
