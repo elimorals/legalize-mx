@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2019-11-04"
+last_updated: "2019-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -253,7 +253,9 @@ LIII. Revista vehicular: Es la inspección física de los vehículos, equipamien
 
 LIV. Ruta: Recorrido autorizado para la prestación del servicio de transporte público;
 
-LV. SEDEC: Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+LV. SEGUOT: Secretaría de Gestión Urbanística, Ordenamiento Territorial, Registral y Catastral;
 
 LVI. SEFI: Secretaría de Finanzas;
 
@@ -483,7 +485,9 @@ V. Las demás que señalen las disposiciones aplicables.
 
 Son atribuciones de la Secretaría de Finanzas:
 
-I. Expedir, asignar y hacer entrega a los propietarios o legítimos poseedores de vehículos las placas metálicas, tarjetas de circulación, calcomanías y demás signos de identificación que por la naturaleza de los vehículos y condiciones de prestación de los servicios se requieran;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+I. Expedir, asignar y hacer entrega a los propietarios o legítimos poseedores de vehículos las placas metálicas, tarjetas de circulación, calcomanías y demás signos de identificación que por la naturaleza de los vehículos y condiciones de prestación de los servicios se requieran; con base a los ordenamientos que para tal efecto emitan las autoridades competentes, donde se regulen los diferentes usos de vehículos;
 
 II. Llevar y mantener actualizado el registro de altas, bajas y traslación de dominio de los vehículos, así como de canje de placas de circulación y calcomanía respectiva;
 
@@ -491,13 +495,21 @@ III. Establecer las reglas para la obligatoriedad del seguro de responsabilidad 
 
 IV. Emitir los formatos para el control vehicular, conforme a los lineamientos y normatividad correspondiente;
 
-V. Coordinar la operación, formulación y vigilancia de los fondos y fideicomisos creados en materia de movilidad, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+V. Suscribir los contratos de los Fideicomisos y crear los Fondos en materia de movilidad, de conformidad con la normatividad aplicable y en los términos que indique la CMOV;
 
 VI. Proponer al Gobernador del Estado, en coordinación con la CMOV, los planes de financiamiento público de la movilidad, de acuerdo con los instrumentos de planeación en la materia, garantizando la disciplina fiscal y la aplicación del gasto a los proyectos prioritarios;
 
 VII. Recaudar los diversos conceptos tributarios que deberán cubrir las personas en materia de servicios de movilidad y transporte a que se refiere la presente Ley, con excepción de aquellos que se deriven de las atribuciones que la misma señale como competencia de los municipios; y
 
-VIII. Las demás que señalen las disposiciones legales o reglamentarias aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+VIII. Destinar los recursos del Fondo Estatal para la Movilidad, acorde a las instrucciones que reciba por parte del Comité Técnico de dicho Fondo; y
+
+> <small>(REFORMADA Y REUBICADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+IX. Las demás que señalen las disposiciones legales o reglamentarias.
 
 ###### ARTÍCULO 16.
 
@@ -777,6 +789,8 @@ Todos los integrantes del Consejo Consultivo tendrán voz y voto en los temas qu
 
 ### CAPÍTULO QUINTO. Las Fuentes del Financiamiento
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 34.
@@ -969,9 +983,21 @@ La CMOV analizará la viabilidad de dichas propuestas y en caso de ser oportunas
 
 ###### ARTÍCULO 47.
 
-A fin de contribuir a la viabilidad presupuestal de las acciones en materia de movilidad, así como del cumplimiento de los principios rectores de esta Ley, se creará el Fondo Estatal para la Movilidad, que tendrá por objeto planear los esquemas de financiamiento, captar y administrar los recursos públicos y privados; así como financiar el fondo de apoyo a las tarifas preferenciales extraordinarias del transporte público a las que hace referencia el Artículo 76 de esta Ley.
+El Fondo Estatal para la Movilidad tendrá por objeto captar y administrar los recursos a que hace referencia el Artículo 48 de la presente ley para los siguientes fines:
 
-La operación y administración de este fondo estará a cargo de la SEFI en términos de las disposiciones jurídicas que resulten aplicables.
+I. Destinarlos a mejorar las condiciones de infraestructura, seguridad vial y acciones de cultura en materia de movilidad;
+
+II. Impulsar los proyectos y acciones presentados por entes públicos o privados siempre que tengan como finalidad instrumentar acciones concretas en materia de movilidad y transporte de acuerdo con los fines y principios establecidos en esta normatividad;
+
+III. Financiar las tarifas preferenciales extraordinarias del transporte público a las que hace referencia el artículo 76 de este ordenamiento; y
+
+IV. Apoyar y/o estimular el adecuado funcionamiento del servicio de transporte en el Estado.
+
+Lo referido en las Fracciones anteriores, deberá ser previamente analizado y aprobado por el Comité Técnico.
+
+El ejecutivo a través de la SEFI, creará el Fondo Estatal para la Movilidad teniendo como fines los establecidos en el presente Artículo.
+
+La administración de este fondo estará a cargo de la SEFI en términos de las disposiciones jurídicas que resulten aplicables.
 
 ###### ARTÍCULO 48.
 
@@ -981,13 +1007,17 @@ I. Las partidas destinadas a este fin en el Presupuesto de Egresos del Estado o 
 
 II. Los productos que se generen de su operación o las inversiones de sus fondos;
 
-III. Los derechos y accesorios de las contribuciones que se recauden de las sanciones impuestas a los infractores de esta normatividad, en el porcentaje que, en su caso determine la Ley de Ingresos del Estado;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+III. Los ingresos que se recauden de las sanciones impuestas a los infractores de esta Ley, con excepción de los gastos de ejecución;
 
 IV. Las donaciones realizadas por personas físicas o morales, nacionales o extranjeras;
 
 V. Las aportaciones de organismos y asociaciones internacionales;
 
-VI. La participación de los ingresos que trimestralmente aporten las empresas de redes de transporte administradoras de plataformas tecnológicas registradas; y
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+VI. Los ingresos que trimestralmente aporten las empresas de redes de transporte administradoras de plataformas tecnológicas registradas de acuerdo con la Fracción IV del Artículo 209 de esta Ley; y
 
 VII. Los demás recursos que se generen por cualquier otro concepto.
 
@@ -1001,15 +1031,37 @@ II. El Titular de la SEFI;
 
 III. El Titular de la SEGGOB;
 
-IV. El Titular de la SEDEC;
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+IV. El Titular de la SSP;
 
 V. El Titular de la SOP; y
 
-VI. El Titular de la Contraloría del Estado.
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+VI. El Titular de la Contraloría del Estado;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+VII. El Titular de la SEGUOT;
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+VIII. El Titular de la Coordinación General de Gabinete; y
+
+> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+IX. El Titular de la Coordinación General de Planeación y Proyectos.
+
+> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+Los integrantes del Comité a que se refiere el presente Artículo, podrán nombrar a su suplente, quien deberá ser del nivel jerárquico inmediato inferior, debiendo constar por escrito.
+
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 50.
 
-Las reglas de operación así como todos los aspectos que resulten necesarios para el adecuado funcionamiento del Fondo Estatal para la Movilidad y la competencia del Comité Técnico serán determinados mediante el Decreto que al efecto expida el Gobernador del Estado.
+Las reglas de operación, lineamientos y demás disposiciones que resulten necesarios para el adecuado funcionamiento del Fondo Estatal para la Movilidad serán elaboradas por la CMOV y aprobadas por el Comité Técnico.
 
 ###### ARTÍCULO 51.
 
@@ -2839,7 +2891,9 @@ II. Permitir el uso de su plataforma tecnológica únicamente a las personas que
 
 III. Proporcionar mensualmente a la CMOV el registro de operadores y vehículos inscritos en sus bases de datos, así como cualquier otra información disponible que se le solicite por motivos de seguridad;
 
-IV. Aportar a favor del Estado trimestralmente, cuando menos el uno punto cinco por ciento del total de los ingresos generados por los viajes contratados por medio de la plataforma administrada por cada empresa, los cuales serán destinados al Fondo Estatal de Movilidad; e
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+IV. Aportar a favor del Estado trimestralmente, cuando menos el uno punto cinco por ciento del total de los ingresos generados por los viajes contratados por medio de la plataforma administrada por cada empresa; de lo recaudado por este concepto, será destinado por parte de SEFI al Fondo Estatal para la Movilidad; e
 
 V. Informar oportunamente a la autoridad competente sobre cualquier irregularidad en la prestación del servicio de transporte de personas contratado a través de plataformas tecnológicas o el incumplimiento de esta Ley u otras disposiciones legales y normativas aplicables.
 
@@ -4591,7 +4645,7 @@ VIII. Por única ocasión, los trámites sucesorios y de renovación de concesio
 
 ###### ARTÍCULO DÉCIMO.
 
-Dentro de los siguientes ciento ochenta días a la expedición de la presente normatividad, el Poder Ejecutivo del Estado expedirá el Decreto a través del cual establezca las reglas de operación y funcionamiento del Fondo Estatal de Movilidad.
+(DEROGADO, P.O. 28 DE NOVIEMBRE DE 2019)
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -4637,7 +4691,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Al Ejecutivo para su promulgación y publicación.
 
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los veintiséis días del mes de abril del año dos mil dieciocho.
+Dado en el Salón de Sesiones "Soberana Convención Revolucionaria de Aguascalientes", del Palacio Legislativo, a los veintiséis días del mes de abril del año dos mil dieciocho.
 
 Lo (sic) que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
 
@@ -4670,3 +4724,15 @@ P.O. 4 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día 01 de Enero del 2020.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 248.- ARTÍCULO PRIMERO.- SE REFORMAN LA FRACCIÓN LV DEL ARTÍCULO 7º; LAS FRACCIONES I, V, VIII Y IX DEL ARTÍCULO 15; EL ARTÍCULO 47; LAS FRACCIONES III Y VI DEL ARTÍCULO 48; LAS FRACCIONES IV, V, Y VI DEL ARTÍCULO 49; EL ARTÍCULO 50; Y LA FRACCIÓN IV DEL ARTÍCULO 209. ASÍ COMO SE ADICIONAN UNAS FRACCIONES VII, VIII Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49; TODOS DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE DEROGA EL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO NÚMERO 288 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES, EL 30 DE ABRIL DE 2018, POR EL CUAL FUE EXPEDIDA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia, al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el funcionamiento del Fondo Estatal para la Movilidad a que se refiere el Artículo 50 del presente Decreto, el Comité Técnico deberá de publicar en el Periódico Oficial del Estado en un plazo no mayor a 90 días naturales, las reglas de operación, lineamientos propuestos por la Coordinación General de Movilidad.
