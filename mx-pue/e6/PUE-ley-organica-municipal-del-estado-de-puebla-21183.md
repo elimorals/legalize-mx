@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2019-02-08"
+last_updated: "2019-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -931,9 +931,11 @@ VI.- Los demás que le señalen esta Ley y disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LAS COMUNIDADES INDÍGENAS
 
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 44.
 
-Los Ayuntamientos, las Juntas Auxiliares y Órganos de Participación Ciudadana, promoverán y garantizarán el desarrollo integral de las comunidades indígenas que habiten en el Municipio.
+Los Ayuntamientos, las Juntas Auxiliares y Órganos de Participación Ciudadana, promoverán y garantizarán el desarrollo integral de las comunidades indígenas que habiten en el Municipio, asimismo deberán contar con los servicios de un traductor de las lenguas indígenas propias de la comunidad que se trate, para la comunicación por cualquier medio que se pretenda entre la autoridad y la ciudadanía en aquellos Municipios que cuenten con población indígena.
 
 ###### ARTÍCULO 45.
 
@@ -1793,13 +1795,17 @@ LX.- Proponer y vigilar el funcionamiento de los Consejos de Participación Ciud
 
 LXI.- Promover el desarrollo y adecuación de la infraestructura, el equipamiento y los servicios urbanos que garanticen la seguridad y libre tránsito que requieren las personas con discapacidad, así como asegurar la accesibilidad a estas personas en calles, avenidas, inmuebles destinados a un servicio público, así como en los bienes de uso común contemplados en el artículo 154 de esta Ley, atendiendo lo establecido en lineamientos técnicos y demás instrumentos vigentes relacionados con la materia;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-LXII.- Realizar las acciones necesarias para colocar la Nomenclatura en Sistema Braille e implementar la guía táctil en las principales calles, avenidas, inmuebles destinados a un servicio público, así como en los bienes de uso común contemplados en el artículo 154 de esta Ley, a fin de facilitar el libre desplazamiento de las personas con discapacidad visual; y
+LXII.- Realizar las acciones necesarias para colocar la Nomenclatura en Sistema Braille e implementar la guía táctil en las principales calles, avenidas, inmuebles destinados a un servicio público así como en los bienes de uso común contemplados en el artículo 154 de esta Ley, a fin de facilitar el libre desplazamiento de las personas con discapacidad visual;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
 
-LXIII.- Las demás que le confieran las leyes, reglamentos y las que acuerde el Cabildo.
+LXIII.- Procurar contar con los servicios de un traductor de lenguas indígenas propias de la región que se trate, en todo acto público que realice el Ayuntamiento en los municipios en donde exista población indígena; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+LXIV.- Las demás que le confieran las leyes, reglamentos y las que acuerde el Cabildo.
 
 ###### ARTÍCULO 92.
 
@@ -4204,6 +4210,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE FEBRERO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 229 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 44, LAS FRACCIONES LXII Y LXIII DEL ARTÍCULO 91; Y ADICIONA LA FRACCIÓN LXIV AL ARTÍCULO 91, TODOS DE LA LEY ORGÁNICA MUNICIPAL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
