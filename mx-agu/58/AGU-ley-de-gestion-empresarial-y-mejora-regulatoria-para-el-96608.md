@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-gestion-empresarial-y-mejora-regulatoria-para-el-96608"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-11"
-last_updated: "2017-07-03"
+last_updated: "2019-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE GESTION EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA Y GESTIÓN EMPRESARIAL PARA EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 28 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL 1° DE ENERO DE 2020.]</small>
+
 LEY DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
 
@@ -1246,3 +1248,165 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 250.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 36 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE EXPIDE LA LEY DE MEJORA REGULATORIA Y GESTIÓN EMPRESARIAL PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO TERCERO. SE EXTINGUEN LOS ORGANISMOS PÚBLICOS DESCENTRALIZADOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DENOMINADOS “INSTITUTO ESTATAL DE GESTIÓN EMPRESARIAL Y MEJORA REGULATORIA” Y EL “CENTRO DE COMPETITIVIDAD E INNOVACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo dispuesto en el ARTÍCULO TERCERO, cuya vigencia comenzará a partir del 01 de enero de 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir del 1° de enero de 2020 se abrogan la Ley de Gestión Empresarial y Mejora Regulatoria para el Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes con fecha 11 de noviembre de 2013, así como la Ley que Crea el Centro de Competitividad e Innovación del Estado de Aguascalientes, publicada en el Periódico Oficial del Estado de Aguascalientes con fecha 20 de enero de 2014, incluidas todas sus reformas y adiciones subsecuentes de ambos ordenamientos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y el Centro de Competitividad e Innovación del Estado de Aguascalientes, llevarán a cabo la resolución de los vínculos administrativos, legales, judiciales y financieros, así como la celebración de los acuerdos administrativos de transferencia con las Dependencias de la Administración Pública Estatal, atendiendo a la naturaleza de su competencia.
+
+Los casos no previstos en el presente Decreto, serán resueltos mediante acuerdos administrativos, celebrados por las dependencias o entidades de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+Los encargados de llevar los trabajos y operaciones, desde la entrada en vigor del presente Decreto y hasta su extinción, será quien ocupe la titularidad del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, respectivamente, quienes además contarán con las siguientes facultades:
+
+I. Formular y actualizar el inventario de los activos pertenecientes al Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y al Centro de Competitividad e Innovación del Estado de Aguascalientes, así como de los pasivos a cargo de cada uno de estos;
+
+II. Administrar los activos de los organismos, respectivamente, hasta su transferencia a las dependencias o entidades que correspondan;
+
+III. Elaborar los acuerdos administrativos de transferencia en conjunto con las dependencias o entidades que, de conformidad con lo establecido en la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, les competa conocer;
+
+IV. Contratar un despacho externo para dictaminación de los estados financieros;
+
+V. Informar a la Secretaría de Desarrollo Económico, a la Secretaría de Finanzas, a la Secretaría de Administración y a la Contraloría del Estado, sobre el avance y estado que guarde los actos tendientes a la extinción, atendiendo a la naturaleza de su competencia, a fin de que manifiesten lo que a su interés convenga;
+
+VI. Elaborar el acta de cierre con corte al 31 de diciembre de 2019; y
+
+VII. Las demás que se consideren necesarias para la extinción del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, y para los efectos del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos administrativos, legales, judiciales; archivos, expedientes, documentos y carpetas del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, serán transferidos a la Secretaría de Desarrollo Económico, a través de los acuerdos administrativos de transferencia respectivos.
+
+###### ARTÍCULO SEXTO.
+
+Los bienes muebles e inmuebles del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, serán transferidos al Gobierno del Estado, a través de la Contraloría del Estado; mediante los acuerdos administrativos de transferencia respectivos; debiendo la Contraloría del Estado otorgar en resguardo los bienes a la Secretaría de Desarrollo Económico.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos financieros del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, serán transferidos al Gobierno del Estado, a través de la Secretaría de Finanzas del Estado; mediante los acuerdos administrativos de transferencia respectivos.
+
+###### ARTÍCULO OCTAVO.
+
+Las obligaciones laborales respecto de los trabajadores que serán transferidos del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, al Gobierno del Estado de Aguascalientes, a través de la Secretaría de Desarrollo Económico, serán asumidas por esta última, respetando los derechos de los trabajadores en términos de las disposiciones legales aplicables.
+
+Los derechos laborales de los trabajadores transferidos, serán garantizados atendiendo a lo establecido en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, en la transferencia institucional que se realice a la Secretaría de Desarrollo Económico.
+
+La Secretaría de Desarrollo Económico, de acuerdo con las necesidades institucionales y el presupuesto asignado podrá determinar conjuntamente con la Secretaría de Administración, las transferencias de personal o la terminación de la relación laboral.
+
+###### ARTÍCULO NOVENO.
+
+La publicación en el Periódico Oficial del Estado de Aguascalientes de los acuerdos administrativos de transferencia, celebrados respecto de los asuntos pendientes del Órgano Interno de Control en el Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Órgano Interno de Control en el Centro de Competitividad e Innovación del Estado de Aguascalientes, hará las veces de notificación para los efectos legales a que haya lugar.
+
+###### ARTÍCULO DÉCIMO.
+
+En virtud de la extinción del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, inician los procesos de liquidación de éstos.
+
+El encargado de realizar las operaciones necesarias para concluir los negocios pendientes durante el proceso de liquidación de los organismos, a partir del 1° de enero de 2020, será el titular de la Secretaría de Desarrollo Económico.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El titular de la Secretaría de Desarrollo Económico, tendrá las siguientes facultades y atribuciones, en términos del artículo transitorio anterior:
+
+I. Ejercer las facultades y atribuciones de apoderado general para pleitos y cobranzas, actos de administración y dominio, con todas las facultades generales y aún las especiales que de acuerdo con las leyes requieran poder o cláusula, así como para delegar su representación mediante poderes generales o especiales;
+
+II. Reintegrar el recurso no ejercido del presupuesto asignado al Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y al Centro de Competitividad e Innovación del Estado de Aguascalientes, para el Ejercicio Fiscal 2019, a la Secretaría de Finanzas del Estado, en los términos que ésta señale;
+
+III. Informar a la Secretaría de Finanzas, a la Secretaría de Administración y a la Controlaría del Estado, sobre el avance y estado que guarde el proceso de liquidación, según los asuntos que le competa conocer;
+
+IV. Presentar ante el Servicio de Administración Tributaria, el aviso de cancelación del Registro Federal de Contribuyentes, conjuntamente con la declaración final de la liquidación de los activos del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de
+
+(sic) Aguascalientes;
+
+V. Elaborar el cierre contable y someter a revisión de la Contraloría y la Secretaría de Finanzas, y solicitar su visto bueno;
+
+VI. Elaborar el libro blanco de los resultados obtenidos del proceso de liquidación;
+
+VII. Conservar en depósito la documentación correspondiente al proceso de liquidación de manera digital y física de conformidad con lo establecido en la legislación aplicable;
+
+VIII. Atender las auditorías y/o requerimientos de los entes fiscalizadores estatales y/o federales; y
+
+IX. Las demás inherentes a sus atribuciones que le otorgue la legislación aplicable y que se consideren necesarias para la liquidación del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+El titular de la Secretaría de Desarrollo Económico, deberá inscribir la extinción del Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, y del Centro de Competitividad e Innovación del Estado de Aguascalientes, en el Registro Público de la Propiedad y del Comercio del Estado, en la sección relativa a las Entidades Paraestatales.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Para los efectos legales a que haya lugar, las referencias que se hagan tanto al Instituto Estatal de Gestión Empresarial y Mejora Regulatoria, así como al Centro de Competitividad e Innovación del Estado de Aguascalientes, en otras disposiciones o instrumentos jurídicos emitidos con anterioridad a la entrada en vigor del presente Decreto, se entenderán efectuadas a la Secretaría de Desarrollo Económico.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Poder Ejecutivo del Estado, a través de las Dependencias de la Administración Pública Estatal competentes, llevará a cabo todos aquellos actos administrativos, jurídicos y financieros necesarios para el debido funcionamiento de la Secretaría de Desarrollo Económico en materia de
+
+(sic) Gestión Empresarial y Mejora Regulatoria, así como en materia de Competitividad e Innovación, con base en el techo presupuestal que se autorice para dar cumplimiento al presente Decreto.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se deberán considerar en el Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal 2020 los recursos necesarios para la operatividad y funcionamiento de la unidades administrativas de la Secretaría de Desarrollo Económico, encargadas de la mejora regulatoria y gestión empresarial, así como de la competitividad e innovación en el Estado.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Poder Ejecutivo, deberá emitir las adecuaciones normativas correspondientes, a más tardar el 1° de enero de 2020, a efecto de garantizar los principios de legalidad, certeza y seguridad jurídica para el cumplimiento de lo establecido en el presente Decreto.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+El Consejo Estatal de Mejora Regulatoria deberá sesionar para su instalación, dentro de un plazo que no exceda los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Las Autoridades de Mejora Regulatoria y los sujetos obligados deberán considerar en su presupuesto anual los recursos económicos necesarios para el cumplimiento e implementación de las acciones en materia de mejora regulatoria y en términos del presente Decreto.
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+El Consejo Estatal de Mejora Regulatoria deberá expedir los lineamientos, instrumentos, bases, mecanismos y demás normatividad necesaria para el cumplimiento de la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes dentro del plazo que no exceda a un año contado a partir de la entrada en vigor (sic) este Decreto.
+
+###### ARTÍCULO VIGÉSIMO.
+
+En un plazo que no exceda de un año contado a partir de la entrada en vigor de este Decreto, la Secretaría de Desarrollo Económico deberá expedir los lineamientos para establecer los calendarios, mecanismos, formularios e indicadores para la implementación de los programas de mejora regulatoria y demás disposiciones necesarias para el cumplimiento de la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes.
+
+###### ARTÍCULO VIGÉSIMO PRIMERO.
+
+Las Autoridades de Mejora Regulatoria deberán expedir el Manual de Funcionamiento del Análisis de Impacto Regulatorio y demás disposiciones necesarias para el cumplimiento de la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes, dentro del plazo que no exceda a un año contado a partir de la entrada en vigor (sic) este Decreto.
+
+###### ARTÍCULO VIGÉSIMO SEGUNDO.
+
+La Estrategia Estatal de Mejora Regulatoria deberá ser propuesta para su aprobación al Consejo Estatal de Mejora Regulatoria dentro de un plazo que no exceda de noventa días naturales siguientes a la sesión de instalación del Consejo Estatal y en términos de las disposiciones de la Ley General de Mejora Regulatoria.
+
+###### ARTÍCULO VIGÉSIMO TERCERO.
+
+En un plazo de ciento ochenta días siguientes a la entrada en vigor del presente Decreto, las Herramientas de Mejora Regulatoria que ya se encuentren en funcionamiento se deberán adaptar a lo dispuesto en la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes.
+
+Los sujetos obligados deberán implementar gradualmente las Herramientas de Mejora Regulatoria previstas en esta Ley, tomando en consideración la complejidad de las herramientas y su capacidad técnica, operativa y presupuestal.
+
+El funcionamiento de las Herramientas de Mejora Regulatoria no podrá exceder de los tres años posteriores a la entrada en vigor de la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes.
+
+###### ARTÍCULO VIGÉSIMO CUARTO.
+
+Los Municipios, Poderes Legislativo y Judicial y Órganos Constitucionales Autónomos, en un plazo no mayor a un año calendario, contado a partir de la entrada en vigor de este Decreto, deberán adecuar sus disposiciones reglamentarias para dar cumplimiento a la Ley de Mejora Regulatoria y Gestión Empresarial para el Estado de Aguascalientes.
+
+###### ARTÍCULO VIGÉSIMO QUINTO.
+
+Los Consejos Municipales de Mejora Regulatoria deberán instalarse formalmente dentro de un plazo de noventa días naturales siguientes a la entrada en vigor de las adecuaciones correspondientes a sus disposiciones reglamentarias.
+
+###### ARTÍCULO VIGÉSIMO SEXTO.
+
+Las menciones contenidas en cualquier ordenamiento jurídico respecto a la Manifestación de Impacto Regulatorio se entenderán referidas al Análisis de Impacto Regulatorio.
+
+Las manifestaciones de impacto regulatorio presentadas con anterioridad a la entrada en vigor de la Ley de Mejora Regulatoria para el Estado de Aguascalientes, serán concluidas conforme a las disposiciones aplicables vigentes a la fecha de su presentación.
+
+###### ARTÍCULO VIGÉSIMO SÉPTIMO.
+
+Quedan derogas todas aquellas disposiciones que se opongan al presente Decreto.
