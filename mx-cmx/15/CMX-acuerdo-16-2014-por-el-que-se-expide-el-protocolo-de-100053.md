@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-16-2014-por-el-que-se-expide-el-protocolo-de-100053"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-04-02"
-last_updated: "2014-04-02"
+last_updated: "2019-11-29"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100053&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2014-03-27"
 ---
 # ACUERDO 16/2014 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACION DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL PARA LA ATENCION Y SEGURIDAD AL TURISMO EN LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DEL ACUERDO 77/2019 POR EL QUE SE CREA LA POLICÍA TURÍSTICA COMO CUERPO ESPECIALIZADO EN SEGURIDAD TURÍSTICA EN LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 29 DE NOVIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 ACUERDO 16/2014 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL PARA LA ATENCIÓN Y SEGURIDAD AL TURISMO EN LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2019 (SIN EFECTOS).
 
 Acuerdo publicado en la Gaceta Oficial del Distrito Federal, el miércoles 2 de abril de 2014.
 
@@ -269,3 +271,19 @@ h) Tiene derecho a que se le ponga, sin dilación, a disposición de la autorida
 5.4 En caso de tratarse de extranjeros, dicha lectura se hará en la lengua extranjera o idioma que sea de su comprensión.
 
 5.5 La Policía Turística encargada de la detención, de ser el caso, deberá actuar bajo la conducción y mando del Ministerio Público que esté a cargo de la investigación, y observar la cadena de custodia.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 29 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 77/2019 POR EL QUE SE CREA LA POLICÍA TURÍSTICA COMO CUERPO ESPECIALIZADO EN SEGURIDAD TURÍSTICA EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Acuerdo surte efectos al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La Policía Turística deberá dar inicio a sus operaciones a más tardar el 20 de diciembre de 2019.
+
+TERCERO. Se instruye a todas las Unidades Administrativas que integran a la Dependencia para que en el ámbito de su competencia realicen las acciones conducentes para la instrumentación del presente Acuerdo.
+
+CUARTO. Se instruye a la Oficialía Mayor, por conducto de la Dirección Ejecutiva de Desarrollo Organizacional y Administrativo, así como a la Dirección General de Asuntos Jurídicos, realicen las acciones necesarias dentro del ámbito de sus atribuciones para llevar a cabo el proceso de restructuración orgánica y la actualización del Manual Administrativo de la Dependencia ante las autoridades competentes, así como las reformas necesarias al Reglamento Interior.
+
+QUINTO. Se deja sin efectos el ACUERDO 16/2014 POR EL QUE SE EXPIDE EL PROTOCOLO DE ACTUACIÓN DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL PARA LA ATENCIÓN Y SEGURIDAD AL TURISMO EN LA CIUDAD DE MÉXICO, publicado en la Gaceta Oficial del Distrito Federal, el 2 de abril de 2014.
