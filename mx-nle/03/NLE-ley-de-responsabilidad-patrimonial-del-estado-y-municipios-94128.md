@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidad-patrimonial-del-estado-y-municipios-9412
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2016-10-21"
+last_updated: "2019-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de mayo de 2013.
 
@@ -173,13 +173,17 @@ c) Los recursos que previsiblemente serán aprobados y asignados en el rubro cor
 
 El procedimiento de actualización a que se refieren las fracciones V y VI se efectuará de conformidad con lo dispuesto en el artículo 18 Bis del Código Fiscal del Estado.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 17.
 
-El derecho a la indemnización a la que se refiere esta Ley, prescribe en noventa días naturales, que se computarán a partir del día siguiente a aquel en que se produzca el daño o perjuicio, salvo que se trate que (sic) actos de tracto sucesivo, en los cuales no se computará dicho plazo.
+El derecho a la indemnización a la que se refiere esta Ley, prescribe en 1 año, que se computarán a partir del día siguiente a aquel en que se produzca el daño o perjuicio, salvo que se trate que (sic) actos de tracto sucesivo, en los cuales no se computará dicho plazo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 El plazo de la prescripción sólo se interrumpirá al iniciarse el procedimiento de reclamación correspondiente.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 El derecho al cobro de la indemnización determinada conforme a esta Ley, se extingue por el transcurso de un año contado a partir del día en que fue exigible. Este plazo sólo se interrumpirá por cada gestión de cobro que realice el particular ante el ente público del Estado o Municipio correspondiente.
 
@@ -235,7 +239,11 @@ I. El nombre del ente público al cual se dirige;
 
 II. El nombre del promovente y, en su caso, del causahabiente, quien deberá ser acreditado con la documentación correspondiente;
 
-III. El domicilio del promovente para recibir notificaciones, en el lugar de la residencia del ente público ante el cual se realice la reclamación;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2019)</small>
+
+III. El domicilio del promovente para recibir notificaciones, en el lugar de la residencia del ente público ante el cual se realice la reclamación.
+
+En caso de que el promovente realice la reclamación a algún ente público con residencia en el Área Metropolitana de Monterrey, podrá señalar domicilio para recibir notificaciones dentro del área metropolitana.
 
 IV. La narración y descripción cronológica de los hechos y el razonamiento en el (sic) justifica su pretensión;
 
@@ -311,7 +319,9 @@ El procedimiento de reclamación terminará anticipadamente en los siguientes ca
 
 I. Por desistimiento;
 
-II. Por inactividad procesal, ante la falta de impulso del particular interesado durante más de 90 días naturales consecutivos; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2019)</small>
+
+II. Por inactividad procesal, ante la falta de impulso del particular interesado durante más de 90 días naturales consecutivos, excepto cuando el reclamante sea menor de edad; y
 
 III. En los demás casos en que, por disposición legal, haya impedimento para emitir resolución en cuanto al fondo de la reclamación.
 
@@ -411,6 +421,12 @@ Tercero.- El Ejecutivo del Estado como los municipios contaran con un plazo de 9
 
 P.O. 21 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 155. SE REFORMA POR MODIFICACIÓN EL ARTICULO 15 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN".]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 155. SE REFORMA POR MODIFICACIÓN EL ARTÍCULO 15 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 29 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 190. SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 17; LA FRACCIÓN III DEL ARTÍCULO 24 Y LA FRACCIÓN SEGUNDA DEL ARTÍCULO 29 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
