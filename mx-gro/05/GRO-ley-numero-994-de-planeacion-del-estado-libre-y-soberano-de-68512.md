@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-994-de-planeacion-del-estado-libre-y-soberano-de-685
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-26"
-last_updated: "2016-09-13"
+last_updated: "2019-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2008.
 
@@ -671,7 +671,7 @@ Asimismo fiscalizará los recursos federales que sean transferidos al Estado y l
 
 ###### ARTÍCULO 31.
 
-El Comité de Planeación para el Desarrollo del Estado de Guerrero es un órgano administrativo desconcentrado, sin personalidad jurídica ni patrimonio propio; y subordinado jerárquicamente al titular del Poder Ejecutivo Estatal.
+El Comité de Planeación para el Desarrollo del Estado de Guerrero es un órgano administrativo desconcentrado, sin personalidad jurídica ni patrimonio propio, y subordinado jerárquicamente al titular del Poder Ejecutivo Estatal.
 
 > <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE PÁRRAFO CORRESPONDÍA A LA PARTE FINAL DEL PRIMER PÁRRAFO, VÉASE PÁGINA 21, P.O. 13 DE SEPTIEMBRE DE 2016.]</small>
 
@@ -889,15 +889,23 @@ Los titulares de las Dependencias de la Administración Pública Estatal y Organ
 
 Para las actividades municipales de planeación se prevé un proceso de cinco etapas: formulación y aprobación, instrumentación, ejecución, control y evaluación. En todas ellas se vigilará la promoción del desarrollo sustentable con perspectiva de género:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2019)</small>
 
-I.- De formulación y aprobación, la elaboración del proyecto del Plan Municipal de Desarrollo, que debe ser sometido por el Presidente Municipal al Cabildo, durante los cuatro meses siguientes a la aprobación del Plan Estatal de Desarrollo del Estado se podrá adelantar conforme a las disposiciones siguientes.
+I.- De formulación y aprobación, la elaboración del proyecto del plan municipal de Desarrollo, que debe ser sometido por el Presidente Municipal al Cabildo. A más tardar el 30 de diciembre del año en el que entre en funciones incluyendo en él los programas generales de carácter anual de las áreas administrativas y de gobierno del ayuntamiento respectivo. Las actividades y procesos contemplados en esta Ley, para la formulación del plan de desarrollo municipal en tanto no se haya elaborado y aprobado el Plan Estatal de Desarrollo, podrán adelantarse. Así como cuando el plan de desarrollo del estado se encuentre con la vigencia y ejecución respectiva a mitad del mandato constitucional de la administración estatal en turno, se realizará conforme a las disposiciones siguientes.
 
-Una vez que sea electo el presidente municipal, todas las dependencias de la administración y en particular, las autoridades de planeación, le prestarán el apoyo administrativo, técnico y de información que sea necesario para adelantar las gestiones que permitan iniciar la formulación del plan de desarrollo.
+Cuando el Titular del Ejecutivo Estatal asuma la responsabilidad administrativa y de gobierno, en la consulta respectiva convocada, para la elaboración del Plan de Desarrollo Estatal. Los ayuntamientos podrán incluir de manera general sus propuestas a integrar en el plan estatal de desarrollo. Al cumplir las formalidades establecidos (sic) en esta ley y adquiera vigencia el plan estatal de desarrollo los ayuntamientos a través del órgano de planeación respectivo podrá (sic) en conjunto con la autoridad estatal de la materia adaptar en lo estrictamente concerniente aquellas materias de desarrollo que involucren al municipio respectivo en el Plan Estatal de Desarrollo.
 
-Las autoridades municipales de planeación garantizarán la participación activa de las comunidades y ejidos en el proceso de elaboración del plan.
+El estado por medio de el órgano de planeación del gobierno, recién inicie el mandato constitucional respectivo obligadamente tendrá que participar en los foros de consulta municipal para la elaboración del Plan municipal y coadyuvara, en su caso para alinear las materias y solicitudes procedentes de los municipios al Plan Estatal de Desarrollo, privilegiando el acuerdo y la negociación entre los dos ordenes de gobierno.
 
-El Cabildo Municipal, en un plazo que no exceda de treinta días a partir de su recepción, aprobará el Plan Municipal de Desarrollo, a fin de que se le otorgue vigencia, ordene su publicación en la Gaceta Municipal y proceda a su ejecución.
+Cuando los ayuntamientos inicien su gestión durante la mitad de gobierno estatal, el órgano de planeación del gobierno estatal obligadamente participará en los foros de consulta municipales para la elaboración del plan de desarrollo municipal coadyuvando y coordinándose en su caso, con los ayuntamientos en el alineamiento de los objetivos con el plan estatal de desarrollo. Dicha coadyuvancia se realizara respectando (sic), ineludiblemente la autonomía municipal. Ambas instancias buscaran en su caso el consenso que identifique objetivos y metas comunes a alcanzar. Así mismo se mantendrán en su caso después de realizar por el Cabildo el análisis respectivo las acciones, programas y obras del gobierno anterior que beneficien a la población.
+
+Una vez que sea electo el presidente o presidenta municipal, todas las dependencias de la administración y en particular, las autoridades de planeación, le prestarán el apoyo administrativo, técnico y de información que sea necesario para adelantar las gestiones que permitan iniciar el diseño, formulación y elaboración del Plan de Desarrollo del municipio.
+
+Las autoridades municipales de planeación garantizarán la participación activa de las comunidades y ejidos en el proceso de elaboración del Plan.
+
+El Cabildo Municipal, en un plazo que no exceda de treinta días naturales a partir del día siguiente de su recepción, analizará, discutirá y en su caso aprobara el Plan Municipal de Desarrollo, a fin de que se le otorgue vigencia, ordene su publicación en la Gaceta municipal y proceda su ejecución. El cabildo respectivo deberá participar y elaborar propuestas en su caso en los foros de consulta para la elaboración del plan de desarrollo municipal. La publicación se realizará asimismo en la página WEB y gaceta del ayuntamiento respectivo y no podrán pasar más de quince días para que se publiqué dicho plan. Del mismo modo remitirá dos ejemplares impresos al Congreso del Estado de Guerrero, ambos se destinara (sic) al acervo para consulta en la Biblioteca del Congreso y digitalmente a las Comisiones ordinarias. El mismo será remitido para su publicación al periódico oficial del Estado de Guerrero. Todo esto a más tardar el primero de febrero del primer año de ejercicio constitucional. La página WEB del Congreso albergará para consulta, también a los planes (sic) desarrollos municipales respectivos.
+
+El incumplimiento de esta disposición sin causa justificada serán aplicables las sanciones establecidas en la ley de responsabilidades de los servidores públicos (sic).
 
 II.- De instrumentación, en la que se procederá a la elaboración de los programas operativos anuales de corto plazo, que contendrán metas específicas o cuantificables; así como los requerimientos físicos, materiales, técnicos, humanos y recursos de toda índole para el cumplimiento de las mismas.
 
@@ -923,7 +931,7 @@ En su caso, explicará las desviaciones ocurridas y las medidas que se adopten p
 
 Dentro de los Sistemas Estatales y Municipales de Planeación Democrática tendrá lugar la participación y consulta de los diversos grupos sociales, con el propósito de que la población exprese sus opiniones para la elaboración, actualización y ejecución del Plan Estatal, de los Planes Municipales y de los Programas a que se refiere esta Ley.
 
-> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2016)</small>
 
 Las actividades de participación y consulta a las que se refiere la Ley número 878 del Equilibrio Ecológico y la Protección al Ambiente del Estado de Guerrero, en materia de Evaluación Ambiental Estratégica, formarán parte de las establecidas en el presente artículo.
 
@@ -1034,3 +1042,13 @@ TERCERO. Comuníquese al Titular del Poder Ejecutivo para su conocimiento y efec
 CUARTO. Se abrogan todas las disposiciones que se opongan al presente Decreto.
 
 QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
+
+P.O. 29 DE NOVIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO 253, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 45 DE LA LEY NÚMERO 994 DE PLANEACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+
+TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
