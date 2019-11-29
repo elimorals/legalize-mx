@@ -4,7 +4,7 @@ identifier: "LINS"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-26"
-last_updated: "2018-02-16"
+last_updated: "2019-11-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LINS"
 ---
 # LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LOS INSTITUTOS NACIONALES DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de mayo de 2000.
 
@@ -634,6 +636,22 @@ Los Institutos Nacionales de Salud prestarán los servicios de atención médica
 
 La Secretaría de Salud evaluará la calidad de la infraestructura hospitalaria y de los servicios de atención médica que presten los Institutos.
 
+> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 58.
+
+Los Institutos Nacionales de Salud podrán celebrar contratos con personas morales de carácter nacional e internacional, público o privado a fin de que les proporcionen los servicios médicos y otros relacionados con su objeto que convengan, a cambio de una contraprestación que será fijada de conformidad con lo dispuesto en el artículo 16, fracción III de esta Ley, los cuales se ajustarán a las siguientes bases:
+
+I. Definición de las responsabilidades que asuman las partes;
+
+II. La contraprestación establecida a favor del Instituto Nacional de Salud que corresponda, en términos de las bases que para tal efecto emita la Secretaría de Hacienda y Crédito Público, y
+
+III. Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+
+Los recursos que obtengan los Institutos Nacionales de Salud de conformidad con este artículo no serán tomados en consideración para determinar las asignaciones presupuestarias que les correspondan y, en consecuencia, no podrán ser considerados como ingresos excedentes.
+
+Los servicios que los Institutos Nacionales de Salud otorguen para dar cumplimiento a los contratos referidos en el presente artículo, deberán proporcionarse sin detrimento de los servicios que en términos de esta Ley, los Institutos Nacionales de Salud estén obligados a proporcionar a la población en general.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
@@ -719,3 +737,51 @@ D.O.F. 16 DE FEBRERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 6 DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD”.]
 
 Único: El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 29 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD Y DE LA LEY DE LOS INSTITUTOS NACIONALES DE SALUD”.]
+
+Primero. El presente Decreto entrará en vigor el 1o. de enero de 2020, excepto por lo que se establece en los artículos Sexto, Octavo, Noveno y Décimo transitorios.
+
+Segundo. El Ejecutivo Federal deberá emitir las disposiciones reglamentarias que permitan proveer en la esfera administrativa lo previsto en el presente Decreto, dentro de los 180 días siguientes a la entrada en vigor del presente Decreto.
+
+En el mismo plazo, el Reglamento Interior de la Secretaría de Salud deberá ser modificado a fin (sic) adecuarlo a lo previsto en el presente Decreto.
+
+Una vez cumplido lo anterior, las disposiciones que se opongan al mismo estarán derogadas.
+
+Tercero. Los recursos humanos, financieros y materiales con que cuente la Comisión Nacional de Protección Social en Salud serán transferidos al Instituto de Salud para el Bienestar, en términos de las disposiciones aplicables.
+
+El titular de la Unidad de Administración y Finanzas de la Secretaría de Salud será responsable del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerá y acordará lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la Administración Pública Federal.
+
+Las secretarías de Hacienda y Crédito Público y de la Función Pública emitirán, en sus respectivos ámbitos de competencia, los lineamientos y disposiciones de carácter general que sean necesarios para la transferencia de los recursos humanos, financieros y materiales y la debida ejecución de lo dispuesto en este artículo.
+
+Cuarto. Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto cambie de adscripción, se respetarán conforme a la ley de la materia.
+
+Quinto. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto serán concluidos por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables y de conformidad con lo previsto en el presente Decreto.
+
+Sexto. Las modificaciones al Capítulo VIII del Título Tercero Bis entrarán en vigor al día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación. La Junta de Gobierno del Instituto de Salud para el Bienestar se instalará en un periodo no mayor a los 30 días naturales siguientes.
+
+La Junta de Gobierno del Instituto de Salud para el Bienestar emitirá el Estatuto Orgánico de la entidad, en un plazo no mayor a 60 días naturales contados a partir de su instalación.
+
+Séptimo. Las entidades federativas tendrán un plazo de hasta 180 días naturales, contados a partir de la fecha de entrada en vigor del presente Decreto para armonizar sus leyes respectivas y demás disposiciones normativas vigentes en la materia.
+
+Octavo. Durante el ejercicio fiscal 2019, los gobiernos de las entidades federativas continuarán prestando los servicios de atención médica a que se refiere el Título Tercero Bis de la Ley General de Salud con los recursos asignados al Sistema de Protección Social en Salud para dicho ejercicio.
+
+Para tales efectos, dichos gobiernos locales podrán ejercer los recursos correspondientes al ejercicio fiscal 2019 a través de la totalidad de las unidades médicas de sus redes de servicios de salud.
+
+Noveno. Para efectos de lo previsto en el artículo 77 bis 9 de este Decreto, los dictámenes de acreditación de la calidad expedidos antes de su entrada en vigor, permanecerán vigentes hasta la fecha establecida en los mismos.
+
+Décimo. A partir del día siguiente de la publicación del presente Decreto en el Diario Oficial de la Federación, el Instituto de Salud para el Bienestar deberá llevar a cabo los actos necesarios para dar cumplimiento a lo previsto en el artículo 77 bis 29 de la Ley, para lo cual, con la participación que, en su caso, corresponda a las secretarías de Hacienda y Crédito Público y de Salud, procederá a modificar el contrato del Fideicomiso del Sistema de Protección Social en Salud. A partir de la celebración del convenio correspondiente, todas las referencias al Fideicomiso del Sistema de Protección Social en Salud se entenderán hechas al Fondo de Salud para el Bienestar.
+
+Sin perjuicio de lo anterior, se instruye a la institución fiduciaria del Fideicomiso del Sistema de Protección Social en Salud para que transfiera al Instituto de Salud para el Bienestar hasta cuarenta mil millones de pesos del patrimonio de dicho Fideicomiso, conforme al calendario que para tal efecto le notifique dicha entidad paraestatal. Los recursos señalados deberán destinarse a los fines que en materia de salud determine el Instituto de Salud para el Bienestar, en términos de las disposiciones aplicables. Dicha entidad paraestatal deberá informar al Congreso de la Unión sobre el uso y destino de los referidos recursos; dicha información será pública en términos de las disposiciones aplicables.
+
+Las obligaciones asumidas previamente a la publicación del presente Decreto y las pendientes que se tengan con terceros con cargo al Fideicomiso del Sistema de Protección Social en Salud, se continuarán atendiendo en términos de las disposiciones que lo (sic) regían.
+
+Décimo Primero. Las personas que, a la entrada en vigor del presente Decreto cuenten con afiliación vigente al Sistema de Protección Social en Salud, continuarán en pleno goce de los derechos que les correspondan.
+
+Décimo Segundo. Hasta en tanto se dé cumplimiento en su totalidad a las obligaciones establecidas en los acuerdos de coordinación a que se refiere el artículo 77 bis 16 A de la Ley General de Salud, las entidades federativas deberán establecer y operar un sistema en los mismos términos de la fracción XI del artículo 77 bis 35 de la misma Ley.
+
+El Instituto de Salud para el Bienestar deberá actualizar, como parte del análisis técnico a que se refiere el cuarto párrafo del artículo 77 bis 16 A de la Ley General de Salud, la plantilla ocupada de los trabajadores que participan en la prestación de los servicios, a que se refiere la fracción XI del artículo 77 bis 35 de la misma Ley.
+
+Décimo Tercero. En un periodo de tres años contados a partir de la entrada en vigor del presente Decreto el Instituto de Salud para el Bienestar deberá presentar al Congreso de la Unión un informe del cumplimiento de cobertura de la prestación gratuita de servicios de salud, medicamentos y demás insumos, especificando la cobertura de atención a los grupos vulnerables y marginación social.
