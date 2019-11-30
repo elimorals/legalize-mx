@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2019-08-24"
+last_updated: "2019-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -221,13 +221,17 @@ XXVIII. Fomentar entre los educandos el uso adecuado de las tecnologías de la i
 
 XXIX. Prevenir la comisión de delitos en materia de tecnologías y cibernética advirtiendo de los riesgos por el uso de internet y las redes sociales;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XXX. Gestionar conforme a los lineamientos expedidos por la autoridad educativa federal, se imparta educación con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el sexto año de educación primaria hasta el último año de educación media superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de legalidad y de paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales; y
+XXX. Realizar campañas de concientización por lo menos una vez durante el ciclo escolar en cada escuela conforme a los lineamientos expedidos por la autoridad educativa federal, con contenidos preventivos sobre el delito y la delincuencia, acorde al nivel educativo de los estudiantes, desde el sexto año de educación primaria hasta el último año de educación media superior, que comprenda la instrucción de conocimientos sobre los valores para una convivencia social armónica, las bases para vivir en una cultura de legalidad y de paz, así como alertar sobre los riesgos y características de las conductas delictivas o ilícitas, entre otros, que permitan al individuo tener información y conciencia sobre estos fenómenos sociales, para lo cual se podrán firmar los convenios que procedan con las instituciones de seguridad pública que correspondan;
 
-> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XXXI. Fomentar el uso del lenguaje incluyente y no sexista.
+XXXI. Fomentar el uso del lenguaje incluyente y no sexista; y
+
+> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2019)</small>
+
+XXXII. Fomentar directrices en protección al ambiente y combate al cambio climático, así como los principios de prevención, conservación, desarrollo sustentable, necesidad y responsabilidad común, realizando actividades prácticas mediante convenios de colaboración que lleven como fin orientar el aprendizaje educativo para implementar la temática de una educación sostenible.
 
 Los fines anteriores se realizarán gradual y coordinadamente, según la edad, el desarrollo mental de los educandos, tipo y grado de educación. En las escuelas normales, formadoras de docentes y en las de posgrados para docentes, se les dedicará una mayor atención, un estudio más profundo y un mayor número de prácticas operativas a dichos fines, a efecto de preparar mejor a quienes se dedicarán al ejercicio docente.
 
@@ -2052,5 +2056,11 @@ SEGUNDO.- Dentro de los 90 días naturales siguientes a la entrada en vigor del 
 P.O. 24 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 124 POR EL QUE SE REFORMAN LAS FRACCIONES XXIX Y XXX Y SE ADICIONA LA FRACCIÓN XXXI, TODAS DEL ARTÍCULO 11, DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 161 POR EL QUE SE REFORMAN LAS FRACCIONES XXX Y XXXI Y SE ADICIONA LA FRACCIÓN XXXII, TODAS DEL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
