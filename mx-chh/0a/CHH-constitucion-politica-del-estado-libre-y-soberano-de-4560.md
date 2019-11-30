@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2019-06-15"
+last_updated: "2019-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -149,25 +149,25 @@ La ley protegerá a las personas contra cualquier lesión en sus derechos, resul
 
 Para garantizar y hacer efectivo el adecuado y pleno ejercicio de los derechos de acceso a la información pública y protección de datos personales, se crea el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública como un organismo público autónomo, con personalidad jurídica y patrimonio propios y tendrá, en el ámbito de su competencia, facultades para sancionar.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-El Instituto tendrá un Consejo General, será el órgano supremo y se integrará por cinco consejeros propietarios, quienes designarán a su presidente de entre sus miembros.
+El Instituto tendrá un Consejo General, será el órgano supremo y se integrará por tres personas comisionadas propietarias, quienes designarán a la persona titular de la Presidencia de entre sus integrantes.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-Habrá cinco consejeros suplentes. Las faltas de los consejeros propietarios serán suplidas por aquellos, en los términos de la ley.
+Habrá tres personas comisionadas suplentes. Las faltas de las personas comisionadas propietarias serán suplidas por aquellas, en los términos de la ley.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-Los consejeros gozarán de las debidas garantías para ejercer su encargo con plena libertad e independencia.
+Las personas comisionadas gozarán de las debidas garantías para ejercer su encargo con plena libertad e independencia.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-Los consejeros propietarios y suplentes durarán en su encargo siete años y no podrán ser reelectos, en los términos de la ley. Serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Parlamentaria. El ejercicio de esta facultad está sujeto a las restricciones fijadas por la ley.
+Las personas comisionadas propietarias y suplentes durarán en su encargo siete años y no podrán ser reelectas, en los términos de la ley. Serán designadas cada una por el voto de cuando menos las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Política. El ejercicio de esta facultad está sujeto a las restricciones fijadas por la ley.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-El Consejo General designará, a propuesta del consejero presidente, a los funcionarios directivos del instituto.
+El Consejo General designará, a propuesta de la persona comisionada que ocupe la Presidencia, a los funcionarios directivos del instituto.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -1269,9 +1269,9 @@ A.- Elegir Gobernador interino, provisional o sustituto en los casos que estable
 
 B) Nombrar a las y los magistrados del Tribunal Superior de Justicia conforme al procedimiento previsto en el artículo 101 de esta Constitución y a los miembros del Consejo de la Judicatura del Estado que le correspondan; así como aprobar con el voto de las dos terceras partes de los miembros presentes, en un plazo de diez días hábiles a partir de que los reciba, el nombramiento que para tal efecto envíe el Gobernador, de quien ocupe la titularidad de la Fiscalía General del Estado, así como el de la persona Titular de la Secretaría responsable del Control Interno del Ejecutivo y, en su caso, aprobar por la misma votación, la remoción que de los mismos acuerde el Gobernador, conforme a lo previsto en esta Constitución y las leyes aplicables. En caso de que el nombramiento de los funcionarios antes señalados no alcance la votación requerida o no se designe en el plazo antes previsto, el Gobernador enviará nuevos nombramientos al cargo que se proponga. Si cualquiera de las hipótesis se repiten y no se realiza el nombramiento por parte del Congreso, el Titular del Ejecutivo Estatal procederá libremente a hacer la designación correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-C.- Elegir y remover a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+C) Elegir y remover a las personas comisionadas del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1309,9 +1309,9 @@ I).- Nombrar a quien ocupe la titularidad de la Fiscalía Especializada en Comba
 
 J).- Designar a las y los Magistrados del Tribunal Estatal de Justicia Administrativa conforme al procedimiento que establezca la ley.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XVI.- Recibir la protesta legal del Gobernador, de los Diputados; de los Magistrados del Tribunal Superior de Justicia, del Fiscal General del Estado; del Presidente y demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, así como de los Consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+XVI.- Recibir la protesta legal del Gobernador, de los Diputados; de los Magistrados del Tribunal Superior de Justicia, del Fiscal General del Estado; del Presidente y demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, así como de las personas comisionadas del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1321,9 +1321,9 @@ XVII.- Resolver sobre las renuncias que hagan de sus cargos los funcionarios a q
 
 XVIII.- Convocar para elecciones extraordinarias de Gobernador en los casos que determina esta Constitución y de diputados en el caso del artículo 60 y, cuando habiendo falta definitiva de un diputado propietario y de su suplente, hayan de transcurrir más de doce meses para que se efectúen las ordinarias.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al gobernador, a los diputados, a los magistrados del Tribunal Superior de Justicia, y al Presidente de la Comisión Estatal de los Derechos Humanos, cuando la de estos últimos sea por más de veinte días; así como a los consejeros del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
+XIX.- Conceder licencia temporal para separarse del ejercicio de sus funciones al gobernador, a los diputados, a los magistrados del Tribunal Superior de Justicia, y al Presidente de la Comisión Estatal de los Derechos Humanos, cuando la de estos últimos sea por más de veinte días; así como a las personas comisionadas del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3421,9 +3421,9 @@ V.- Del Tribunal Estatal Electoral, cuando esté en funciones, sus Magistrados, 
 
 VI.- Del Instituto Estatal Electoral, su presidente.
 
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-VII.- Del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, sus consejeros.
+VII.- Del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, las personas comisionadas.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -5142,3 +5142,19 @@ Conforme a lo dispuesto por el artículo 202 de la Constitución Política del E
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVI/RFCNT/0400/2019 I P.O., POR MEDIO DEL CUAL REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la presente reforma.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+El procedimiento previsto en el artículo 17, numeral 1) de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, en lo relativo a la convocatoria que debe emitirse por los tres Poderes del Estado para designar a quienes habrán de relevar a las comisionadas que concluyen su cargo el 31 de diciembre de 2019, no deberá llevarse a cabo, toda vez que la integración del Consejo General queda conformada con tres personas, tal como lo prevé la reforma contenida en el presente Decreto.
