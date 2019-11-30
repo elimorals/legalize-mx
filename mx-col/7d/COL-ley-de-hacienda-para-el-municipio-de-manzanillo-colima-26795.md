@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-08-24"
+last_updated: "2019-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3589,7 +3589,9 @@ b) Venta de productos no básicos 0.06
 
 c) Venta de productos suntuarios 0.07
 
-Por los conceptos a que se refiere esta fracción, las personas mayores de 60 años y los tianguistas, pagarán el 50 por ciento de la tarifa aplicable.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
+
+Por los conceptos a que se refiere esta fracción, las personas mayores de 60 años y personas con discapacidad pagarán el 25 por ciento de la tarifa aplicable, y los tianguistas pagarán el 50 por ciento de la tarifa aplicable.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -4804,5 +4806,11 @@ P.O. 27 DE JUNIO DE 2019.
 P.O. 24 DE AGOSTO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 123 POR EL QUE SE REFORMA LA FRACCIÓN XI, DEL ARTÍCULO 21; Y SE DEROGAN LAS FRACCIONES XII, XIII Y XIV, DEL ARTÍCULO 21, Y EL ARTÍCULO 30, TODOS DE LA LEY DE HACIENDA PARA CADA MUNICIPIO: ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MANZANILLO, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 30 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 165 POR EL QUE SE REFORMA EL ARTÍCULO 88 DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO, COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
