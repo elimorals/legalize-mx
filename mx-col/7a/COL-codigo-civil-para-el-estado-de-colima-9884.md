@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2019-11-02"
+last_updated: "2019-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -864,6 +864,12 @@ La Fiscalía General del Estado cuidará de que se cumpla esta disposición, y a
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
 ART. 39.- El estado civil de las personas sólo se comprueba con las constancias físicas o electrónicas relativas del Registro, firmadas en forma autógrafa o con la firma electrónica certificada y en los formatos autorizados para el efecto. Ningún otro documento físico o electrónico, ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
+
+ART. 39 BIS.- Las certificaciones de las actas del Registro Civil previstas en el artículo 35 de este Código tendrán una vigencia permanente, salvo que hayan sufrido cambios o ajustes legales por cambio de identidad, sustantivo, reconocimiento o desconocimiento, tutela, o cualquier modificación al contenido de la misma.
+
+La persona que utilice un acta superada será sancionada en los términos del Código Penal para el Estado de Colima.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -11696,3 +11702,9 @@ P.O. 2 DE NOVIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- El Poder Ejecutivo del Estado contará con un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, para que lleve a cabo las reformas reglamentarias que se deriven de éste, así como las que se requieran al sistema del Registro Civil.
+
+P.O. 30 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 159 POR EL QUE SE APRUEBA ADICIONAR EL ARTÍCULO 39 BIS, AL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
