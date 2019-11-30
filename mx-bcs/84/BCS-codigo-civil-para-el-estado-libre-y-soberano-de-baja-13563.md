@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2019-06-28"
+last_updated: "2019-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2019.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -6880,6 +6880,14 @@ IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitad
 X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento; y
 
 XI.- El que, conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos.
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2019)</small>
+
+XII.- El que haya sido condenado por delito cometido en contra del autor de la herencia; y
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2019)</small>
+
+XIII.- Los que hayan cometido conductos de discriminación, abuso, explotación, aislamiento, abandono, desamparo, marginación, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos al adulto mayor autor de la herencia.
 
 ###### Artículo 1222.
 
@@ -16030,3 +16038,11 @@ El presente decreto entrará en vigor a partir del día siguiente de su publicac
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 30 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2656 SE ADICIONAN LAS FRACCIONES XII Y XIII AL ARTÍCULO 1221 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
