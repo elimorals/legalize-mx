@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2019-10-31"
+last_updated: "2019-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE OCTUBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NO. 27385/LXII/19 PUBLICADO EN EL P.O. DE 24 DE OCTUBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -273,11 +271,11 @@ El Sistema Estatal fundará dichas acciones en los principios de igualdad de gé
 
 El Consejo Estatal es la instancia encargada de dictar los ejes rectores y transversales de las políticas públicas en la materia de igualdad de género, prevención, atención, sanción, erradicación de la violencia contra las mujeres y operadora del sistema estatal, a través de acciones afirmativas que propicien su acceso a una vida libre de violencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 17.
 
-El Consejo Estatal se conforma por las y los titulares o sus respectivos representantes que estos designen, de las siguientes dependencias y entidades:
+El Consejo Estatal se conforma por las y los titulares o sus respectivos representantes que estos designen, de las siguientes dependencias, entidades y poderes:
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -319,31 +317,43 @@ XI. Procuraduría Social del Estado;
 
 XII. El Sistema Estatal para el Desarrollo Integral de la Familia;
 
-XIII. (DEROGADA, P.O. 9 DE AGOSTO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-XIV. El Sistema Jalisciense de Radio y Televisión;
+XIII. El Poder Judicial; a través de la Magistrada titular de la Comisión Transitoria de Igualdad de Género y Derechos Humanos;
 
-XV. El Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2015)</small>
+XIV. El Poder Legislativo; a través de la Presidenta de la Comisión de Igualdad Sustantiva y de Género;
 
-XVI. Comisión Estatal Indígena.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+XV. El Sistema Jalisciense de Radio y Televisión;
 
-XVII. La Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2019)</small>
+XVI. El Consejo Estatal para la Prevención y Atención de la Violencia Intrafamiliar;
 
-XVIII. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ABRIL DE 2019)</small>
+XVII. Comisión Estatal Indígena;
 
-XIX. Al menos siete representantes de organizaciones de la sociedad civil, previamente acreditadas ante la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, cuyo trabajo se enmarque en el principio de progresividad de derechos humanos de las mujeres; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE ABRIL DE 2019)</small>
+XVIII. La Comisión Estatal de Derechos Humanos;
 
-XX. Un representante de los gobiernos municipales por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
+
+XIX. La Universidad de Guadalajara y dos especialistas en la materia de instituciones de Educación Superior reconocidas del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
+
+XX. Al menos siete representantes de organizaciones de la sociedad civil, previamente acreditadas ante la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, cuyo trabajo se enmarque en el principio de progresividad de derechos humanos de las mujeres; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2019)</small>
+
+XXI Un representante de los gobiernos municipales por cada una de las regiones administrativas en que se divide el Estado de Jalisco.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE NOVIEMBRE DE 2019)</small>
 
 Los titulares o los representantes que formen parte del Consejo tendrán cargos honoríficos.
 
@@ -1628,3 +1638,9 @@ P.O. 24 DE OCTUBRE DE 2019.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial “El Estado de Jalisco".
 
 SEGUNDO. Las dependencias y entidades obligadas por la presente ley a crear los protocolos contarán con un plazo de 180 días a partir de la publicación del presente decreto, para la elaboración y publicación de los mismos.
+
+P.O. 30 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27588/LXII/19 QUE REFORMA EL ARTÍCULO 17 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO, CON EL OBJETO DE INCORPORAR A LOS PODERES LEGISLATIVO Y JUDICIAL, AL CONSEJO ESTATAL PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
