@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1096
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-29"
-last_updated: "2019-03-13"
+last_updated: "2019-11-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109620&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de agosto de 2015.
 
@@ -279,9 +279,11 @@ Los recursos que lo integran serán ejercidos en forma directa por sus órganos 
 
 Los estados financieros del Organismo Garante serán revisados y fiscalizados en los términos de las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 17.
 
-El Organismo Garante tendrá un Consejo General que será su órgano supremo y se le denominará Pleno, integrado por cinco Comisionados (as) Propietarios (as) y cinco Comisionados (as) Suplentes, quienes durarán en su encargo siete años y no podrán ser reelectos (as).
+El Organismo Garante tendrá un Consejo General que será su órgano supremo y se le denominará Pleno, integrado por tres Comisionados (as) Propietarios (as) y tres Comisionados (as) Suplentes, quienes durarán en su encargo siete años y no podrán ser reelectos (as).
 
 Cada uno de los (las) Comisionados (as) será designado (a) por el H. Congreso del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Política.
 
@@ -309,7 +311,9 @@ c) La comisión, por consenso, integrará un listado con 20 candidatos de entre 
 
 d) La Junta de Coordinación Política, analizará el expediente, perfil y el resultado de la evaluación y de la entrevista de cada uno de los seleccionados, para integrar y enviar una relación de 10 candidatos a la consideración del Pleno, acompañado de un informe en el que se asienten los motivos por los cuales fueron seleccionados, con el propósito de que este designe a los (las) Comisionados (as) y determine quiénes serán propietarios (as) y suplentes.
 
-En la conformación del Pleno del Organismo Garante, no habrá más de tres Comisionados (as) de un mismo género, tanto de los (las) propietarios (as) como de los suplentes.
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2019)</small>
+
+En la conformación del Pleno del Organismo Garante, no habrá más de dos Comisionados (as) de un mismo género, tanto de los (las) propietarios (as) como de suplentes.
 
 En el procedimiento de designación se garantizará la transparencia, independencia y participación de la sociedad.
 
@@ -2554,3 +2558,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Las Comisarías de las entidades paraestatales de la Administración Pública Estatal seguirán desempeñando sus funciones hasta en tanto la Secretaría de la Función Pública del Estado designe a las personas titulares de los Órganos Internos de Control.
+
+P.O. 30 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVI/RFLEY/0401/2019 I P.O., POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 17, PÁRRAFOS I Y VII DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las personas comisionadas propietarias y suplentes del Organismo Garante en cuestión continuarán en sus cargos para cumplir con el período para el cual fueron designadas y, de ninguna forma, se afectarán los derechos derivados de su designación por el H. Congreso del Estado, por lo que durarán en su encargo el período que se señala en el Decreto de su designación.
+
+El personal de las Direcciones y áreas administrativas del Organismo Garante, de ninguna manera sufrirá afectación en sus derechos adquiridos en virtud de su relación laboral con el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública.
+
+###### ARTÍCULO TERCERO.
+
+El procedimiento previsto en el artículo 17, numeral 1) de la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, en lo relativo a la convocatoria que debe emitirse por los tres Poderes del Estado para designar a quienes habrán de relevar a las comisionadas que concluyen su cargo el 31 de diciembre de 2019, no deberá llevarse a cabo, toda vez que la integración del Consejo General queda conformada con tres personas, tal como lo prevé la reforma contenida en el presente Decreto.
