@@ -4,7 +4,7 @@ identifier: "SON-ley-de-cultura-fisica-y-deporte-del-estado-de-sonora-66847"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-16"
-last_updated: "2019-10-10"
+last_updated: "2019-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66847&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección IV del Boletín Oficial del Estado de Sonora, el lunes 16 de febrero de 2009.
 
@@ -167,9 +167,13 @@ III.- Dar seguimiento al cumplimiento del Programa Estatal así como llevar a ef
 
 IV.- Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la cultura física y el deporte;
 
-V.- Promover el acceso a los jóvenes a la práctica deportiva y al disfrute de espectáculos deportivos;
+> <small>(REFORMADA, B.O. 2 DE DICIEMBRE DE 2019)</small>
 
-VI.- Promover y garantizar la práctica del deporte en los jóvenes ya sea como medio para aprovechar productivamente el tiempo libre o como profesión; y
+V.- Promover el acceso a los niños, niñas, adolescentes, jóvenes y adultos mayores a la práctica deportiva y al disfrute de espectáculos deportivos;
+
+> <small>(REFORMADA, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+VI.- Promover y garantizar la práctica del deporte en los niños, niñas, adolescentes, jóvenes y adultos mayores, ya sea como medio para aprovechar productivamente el tiempo libre o como profesión; y
 
 VII.- Las demás que le otorgue esta ley u otros ordenamientos legales.
 
@@ -259,7 +263,7 @@ I.- Secretaria de Educación y Cultura;
 
 II.- Secretaria de Hacienda;
 
-III.- Secretaria de Salud Pública;
+III.- Secretaría de Salud Pública;
 
 IV.- Sistema para el Desarrollo Integral de la Familia del Estado de Sonora;
 
@@ -503,7 +507,9 @@ Las Asociaciones Deportivas Estatales debidamente reconocidas en términos de la
 
 I.- Calificar y organizar, en su caso, las actividades y competiciones deportivas oficiales;
 
-II.- Actuar, en coordinación con sus asociados, en la promoción general de su disciplina deportiva en todo el territorio estatal; y
+> <small>(REFORMADA, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+II.- Actuar, en coordinación con sus asociados, en la promoción general de su disciplina deportiva en todo el territorio estatal, debiendo incluir el deporte adaptado a dicha disciplina, salvo que la naturaleza de la misma no lo permita; y
 
 III.- Colaborar en la formación de técnicos deportivos y en la prevención, control y represión del uso de sustancias y grupos farmacológicos prohibidos y métodos no reglamentarios en el deporte.
 
@@ -539,13 +545,17 @@ I.- Estar inscritas en el Registro Estatal del Deporte; y
 
 II.- Cumplir con las obligaciones que se les imponga como integrantes del Sistema Estatal, lo previsto en el Programa Estatal, y las disposiciones derivadas del Estatuto y el Reglamento de la CODEME.
 
+> <small>(REFORMADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 39.
 
-Las Asociaciones Deportivas Estatales serán las únicas facultadas para convocar a competiciones realizadas bajo la denominación de "Campeonato Estatal", con estricto apego a los estatutos y reglamentos aplicables, y de acuerdo a los criterios que fije la Comisión.
+Las Asociaciones Deportivas Estatales serán las únicas facultadas para convocar a competiciones realizadas bajo la denominación de "Campeonato Estatal", con estricto apego a los estatutos y reglamentos aplicables, y de acuerdo a los criterios que fije la Comisión. En este tipo de competiciones deberá incluirse al menos una categoría en materia de Deporte Adaptado, salvo que la naturaleza de la disciplina deportiva no lo permita.
+
+> <small>(REFORMADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 40.
 
-Para la realización de competiciones deportivas oficiales nacionales dentro del territorio estatal, las Asociaciones Deportivas Estatales, tienen la obligación de registrarlas ante la Comisión, respetando en todo momento el procedimiento y requisitos que para tal efecto prevea el reglamento de la presente ley; asimismo, deberá cumplir y apegarse a lo dispuesto por los lineamientos previamente establecidos en este ordenamiento.
+Para la realización de competiciones deportivas oficiales nacionales dentro del territorio estatal, las Asociaciones Deportivas Estatales, tienen la obligación de registrarlas ante la Comisión, respetando en todo momento el procedimiento y requisitos que para tal efecto prevea el reglamento de la presente ley; asimismo, deberá cumplir y apegarse a lo dispuesto por los lineamientos previamente establecidos en este ordenamiento. En este tipo de competiciones deberá promoverse la inclusión del Deporte Adaptado dentro de la disciplina deportiva que se trate, salvo que la naturaleza de la misma no lo permita.
 
 ###### Artículo 41.
 
@@ -619,9 +629,17 @@ d.- Talentos deportivos y de alto rendimiento;
 
 e.- Deporte adaptado;
 
-f.- Deporte tradicional; y
+> <small>(REFORMADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
 
-g.- Deportes extremos.
+f.- Deporte tradicional;
+
+> <small>(REFORMADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+g.- Deportes extremos; y
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+h.- Deporte para el adulto mayor.
 
 II.- Subprogramas de apoyos:
 
@@ -1175,6 +1193,10 @@ Contra las resoluciones dictadas con fundamento en las disposiciones de la prese
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 27 DE ABRIL DE 2017)</small>
 
+## TÍTULO SEXTO. DEL DEPORTE PARA ADULTOS MAYORES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
 ### CAPÍTULO ÚNICO. DEL DEPORTE ADAPTADO
 
 > <small>(ADICIONADO, B.O. 27 DE ABRIL DE 2017)</small>
@@ -1220,6 +1242,40 @@ Los Institutos del deporte de los Municipios deberán contar con un departamento
 ###### Artículo 111.
 
 Las autoridades municipales, en el ámbito de sus respectivas circunscripciones deberán observar el debido cumplimiento del presente Título, así como de los demás ordenamientos establecidos en la presente Ley y su reglamento.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO ÚNICO. DEL DEPORTE PARA ADULTOS MAYORES
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 112.
+
+Todas las personas reconocidas como Adultos Mayores por la Ley de la materia, recibirán las prerrogativas y demás beneficios de esta Ley.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 113.
+
+La Comisión, así como los Institutos del Deporte de los Municipios, en el ámbito de sus respectivas competencias, deberán impulsar, alentar y publicitar la práctica de disciplinas deportivas para adultos mayores, con el fin de promover su bienestar físico y mental.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 114.
+
+Los organismos e instituciones públicas y privadas, así como, sociedades y asociaciones que organicen eventos u ofrezcan servicios con actividades deportivas en los que participen adultos mayores, deberán proporcionarles información relativa a la importancia del análisis médico que ayude a determinar el grado de actividad física recomendable de acuerdo a la edad y las condiciones físicas de cada persona; para lo cual, podrán solicitar el apoyo de la Comisión.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 115.
+
+La Comisión, en el ámbito de su competencia, deberá vigilar que los deportes específicos para esta población sean adecuados para la edad establecida.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 116.
+
+La Comisión coadyuvará con los institutos de seguridad social que promueven el deporte para adultos mayores.
 
 T R A N S I T O R I O S
 
@@ -1292,3 +1348,23 @@ B.O. 10 DE OCTUBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 2 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 69, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 2 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 70, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SONORA",]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el boletín oficial del gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá actualizar sus disposiciones reglamentarias, en un plazo de 60 días hábiles a partir de la entrada en vigor del presente Decreto.
