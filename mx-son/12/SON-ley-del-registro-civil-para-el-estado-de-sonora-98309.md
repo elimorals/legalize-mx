@@ -4,7 +4,7 @@ identifier: "SON-ley-del-registro-civil-para-el-estado-de-sonora-98309"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-09"
-last_updated: "2018-10-01"
+last_updated: "2019-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección VI del Boletín Oficial del Estado de Sonora, el jueves 9 de enero de 2014.
 
@@ -919,7 +919,13 @@ El procedimiento administrativo ante la Dirección General se sujetará a las si
 
 I. El interesado deberá llenar y suscribir el formato de solicitud de rectificación, conforme al formato que le proporcione la Dirección General o la Oficialía del Registro Civil que corresponda, para lo cual será necesario exhibir el acta del estado civil respectiva;
 
-II. En el caso de que se comparezca ante la Oficialía a que se refiere la fracción anterior, ésta remitirá a la Dirección General, mediante el pago de los derechos correspondientes, el formato de solicitud de rectificación junto con el acta cuya rectificación se solicita, así como los demás documentos que se señalen en el Reglamento, dentro de las veinticuatro horas siguientes al día de su recepción;
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+El derecho al servicio de rectificación será gratuito en aquellos casos que sean atribuibles a la autoridad correspondiente por actos de omisión, acción o error involuntario, para lo cual, por escrito, está deberá reconocer dicha responsabilidad.
+
+> <small>(REFORMADA, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+II. En el caso de que se comparezca ante la Oficialía a que se refiere la fracción anterior, ésta remitirá a la Dirección General, mediante el pago de los derechos correspondientes cuando no provenga de una acción atribuible a la autoridad, el escrito de acción atribuible, el formato de solicitud de rectificación junto con el acta cuya rectificación se solicita, así como los demás documentos que se señalen en el Reglamento, dentro de las veinticuatro horas siguientes al día de su recepción; para los casos de gratuidad de la prestación del servicio del derecho de rectificación, se apegara a lo que señala el párrafo segundo de la fracción anterior del presente artículo.
 
 III. Recibida la documentación a la que se refiere la fracción anterior, el Director General se allegará de los medios de pruebas necesarios y resolverá lo que proceda dentro de un plazo de diez días hábiles, comunicándola de inmediato al Oficial del Registro Civil que corresponda para que, en su caso, se realicen las anotaciones marginales a que haya lugar, dentro de veinticuatro horas siguientes y notifique al interesado, y
 
@@ -1179,8 +1185,14 @@ B.O. 1 DE OCTUBRE DE 2018.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL DOSCIENTOS CUARENTA Y DOS POR EL QUE SE REFORMA LA FRACCIÓN XXXI Y SE ADICIONA UNA FRACCIÓN XXXII RECORRIÉNDOSE LA SUBSECUENTE, DEL ARTICULO 31 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE MORELOS”.]
+B.O. 2 DE DICIEMBRE DE 2019.
 
-PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 74, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SONORA".]
 
-SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
