@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-81-de-los-derechos-de-ninas-ninos-y-adolescentes-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2019-06-13"
+last_updated: "2019-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 17 de diciembre de 2015.
 
@@ -803,7 +803,9 @@ XVIII. Administrar la disciplina escolar de modo compatible con la dignidad huma
 
 XIX. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana, derechos humanos o integridad, especialmente los tratos humillantes y degradantes.
 
-XX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente.
+> <small>(REFORMADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+XX. Inculcar en niñas, niños y adolescentes el fomento de hábitos dirigidos a respetar, valorar, proteger y conservar el medio ambiente; así como, la sensibilización sobre las causas y efectos del cambio climático.
 
 XXI. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación.
 
@@ -2066,6 +2068,14 @@ Las pruebas de control de confianza deberán aplicarse en un lapso no mayor a 60
 B.O. 13 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 27, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE PERSONAS CON DISCAPACIDAD O EN SITUACIÓN DE DISCAPACIDAD DEL ESTADO DE SONORA Y DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 2 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 72, QUE REFORMA EL ARTÍCULO 51, PÁRRAFO TERCERO, FRACCIÓN XX DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA”.]
 
 ###### ARTÍCULO ÚNICO.
 
