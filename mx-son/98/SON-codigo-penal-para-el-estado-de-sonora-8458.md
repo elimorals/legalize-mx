@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2019-11-25"
+last_updated: "2019-12-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE DICIEMBRE DE 2019.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -2008,6 +2008,28 @@ Esta conducta se actualizará incluso cuando el pago o promesa de pago con diner
 > <small>(REFORMADO, B.O. 3 DE AGOSTO DE 2017)</small>
 
 Al que sin ánimo de explotación concerte, encubra o permita la explotación sexual de una persona menor de dieciocho años a través de la pornografía, las exhibiciones corporales públicas o privadas y las relaciones sexuales remuneradas, se le aplicará prisión de cuatro a ocho años y multa de diez a doscientas Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 169-B.
+
+Se aplicará de nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta unidades de medida y actualización, a quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
+
+La misma pena se aplicará a quien cometa la conducta descrita del párrafo anterior, en contra de la persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+
+Si el agente hace uso de violencia física, las penas se aumentarán en una mitad más.
+
+El autor del delito deberá ser sujeto a tratamiento médico integral el tiempo que se requiera, mismo que no podrá exceder el tiempo que dure la pena de prisión impuesta.
+
+Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
+
+Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado, destituido o suspendido, de su empleo público o profesión por un término igual a la pena impuesta.
+
+> <small>(ADICIONADO, B.O. 2 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 169-C.
+
+Para efecto de determinar el daño ocasionado al libre desarrollo de la personalidad de la víctima por los delitos a los que se refiere el presente capítulo, se deberán solicitar los dictámenes necesarios para conocer su afectación. En caso de incumplimiento a la presente disposición por parte del Ministerio Público, éste será sancionado en los términos del presente Código y de la legislación aplicable. En los casos en que el sentenciado no pueda garantizar la atención médica psicológica o de la especialidad que requiera, el Estado deberá proporcionar esos servicios a la víctima.
 
 > <small>(REFORMADO, B.O. 7 DE ABRIL DE 2008)</small>
 
@@ -5330,3 +5352,11 @@ B.O. 25 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 2 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 71, QUE ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
