@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-instituto-electoral-de-la-ciudad-de-mexico-12288
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-08-16"
-last_updated: "2017-08-16"
+last_updated: "2019-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122884&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-08-04"
 ---
 # REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MEXICO EN MATERIA DE PROPAGANDA E INCONFORMIDADES PARA EL PROCESO DE ELECCION DE LOS COMITES CIUDADANOS Y LOS CONSEJOS DE LOS PUEBLOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL ACUERDO POR EL QUE SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO DE MÉXICO EN MATERIA DE PROPAGANDA E INCONFORMIDADES PARA EL PROCESO DE ELECCION DE LAS COMISIONES DE PARTICIPACION COMUNITARIA, PUBLICADO EN LA G.O. DE 2 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO EN MATERIA DE PROPAGANDA E INCONFORMIDADES PARA EL PROCESO DE ELECCIÓN DE LOS COMITÉS CIUDADANOS Y LOS CONSEJOS DE LOS PUEBLOS
 
-TEXTO ORIGINAL.XXX
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 2 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 16 de agosto de 2017.
 
@@ -577,3 +579,27 @@ Para el supuesto en el que la fórmula realice la sustitución de la o el integr
 Las resoluciones que emitan las Direcciones Distritales podrán impugnarse ante el Tribunal Electoral de la Ciudad de México, en términos de lo dispuesto por la Ley Procesal.
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 2 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO DE MÉXICO EN MATERIA DE PROPAGANDA E INCONFORMIDADES PARA EL PROCESO DE ELECCION DE LAS COMISIONES DE PARTICIPACION COMUNITARIA”.]
+
+PRIMERO. El presente Reglamento, entrará en vigor al momento de su publicación en los estrados de oficinas centrales del Instituto Electoral de la Ciudad de México.
+
+SEGUNDO. Las referencias a las Comisiones de Participación Comunitaria en la propaganda a que se hace mención en el artículo 17, último párrafo de este Reglamento, por única ocasión, para la elección que habrá de celebrarse en 2020, se entenderán alusivas a los Comités Ciudadanos, Consejos de Pueblos y Consejos Ciudadanos Delegacionales, que se encuentran en funciones actualmente.
+
+TERCERO. Las notificaciones por medio de la Plataforma de Participación estarán sujetas al desarrollo e implementación de la herramienta informática que generará la Unidad Técnica de Servicios Informáticos del Instituto Electoral de la Ciudad de México.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO POR EL CUAL SE APRUEBA EL REGLAMENTO DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO DE MÉXICO EN MATERIA DE PROPAGANDA E INCONFORMIDADES PARA EL PROCESO DE ELECCION DE LAS COMISIONES DE PARTICIPACION COMUNITARIA.]</small>
+
+PRIMERO. Se aprueba el Reglamento del Instituto Electoral de la Ciudad de México en materia de propaganda e inconformidades para el proceso de elección de las Comisiones de Participación Comunitaria, en términos de lo previsto en el presente Acuerdo y su Anexo, el cual forma parte integral del mismo.
+
+SEGUNDO. Se abroga el Reglamento del Instituto Electoral de la Ciudad de México en materia de propaganda e inconformidades para el proceso de elección de los Comités Ciudadanos y los Consejos de los Pueblos.
+
+TERCERO. El presente Acuerdo y su Anexo entraran en vigor a partir de su publicación en los estrados de las oficinas centrales del Instituto Electoral.
+
+CUARTO. Publíquese de inmediato el presente Acuerdo y Anexo en la Gaceta Oficial de la Ciudad de México, en los estrados del Instituto Electoral, tanto en sus oficinas centrales, como en sus treinta y tres direcciones distritales y en la página de Internet www.iecm.mx.
+
+QUINTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por este Consejo General, en el apartado de Transparencia del sitio de Internet www.iecm.mx y difúndase la misma en las redes sociales de este Instituto.
