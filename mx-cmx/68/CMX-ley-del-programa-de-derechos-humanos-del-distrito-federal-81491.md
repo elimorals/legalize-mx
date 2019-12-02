@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-programa-de-derechos-humanos-del-distrito-federal-81491
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-30"
-last_updated: "2012-06-15"
+last_updated: "2019-12-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81491&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2011-05-26"
 ---
 # LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO Y ARTÍCULO TRANSITORIO CUARTO DEL DECRETO POR EL QUE SE ABROGA LA LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL DISTRITO FEDERAL Y EXPIDE LA LEY DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 2 DE DICIEMBRE DEL 2019, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL 2 DE ENERO DE 2020; CON EXCEPCIÓN DEL CAPÍTULO I DEL TÍTULO III, DE DICHA LEY, QUE ENTRA EN VIGOR AL DÍA SIGUIENTE DE LA PUBLICACIÓN DE DICHO DECRETO.]</small>
+
 LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 2 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 30 de mayo de 2011.
 
@@ -485,3 +487,37 @@ G.O. 15 DE JUNIO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y aplicación.
+
+G.O. 2 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO POR EL QUE SE ABROGA LA LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL DISTRITO FEDERAL. SE EXPIDE LA LEY DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO.]</small>
+
+PRIMERO.- Se abroga la Ley del Programa de Derechos Humanos del Distrito Federal.
+
+SEGUNDO.- Se expide la Ley del Sistema Integral de Derechos Humanos de la Ciudad de México para quedar como sigue:
+
+[...]
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA LA LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL DISTRITO FEDERAL. SE EXPIDE LA LEY DEL SISTEMA INTEGRAL DE DERECHOS HUMANOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del 2 de enero de 2020; con excepción del Capítulo I del Título III, de esta Ley, que entrará en vigor al día siguiente de la publicación del presente Decreto.
+
+TERCERO. El Título IV, y demás disposiciones de la misma naturaleza contenidas en esta Ley, entrarán en vigor cuando se encuentre en vigor la legislación en materia de planeación, y se haya instalado el Instituto de Planeación Democrática y Prospectiva de la Ciudad de México, de conformidad con lo que establece el artículo DECIMO QUINTO TRANSITORIO de la Constitución Política de la Ciudad de México.
+
+CUARTO. A la entrada en vigor del presente Decreto, se abroga la Ley del Programa de Derechos Humanos y se derogan las demás disposiciones que se opongan a la presente Ley.
+
+QUINTO. La Secretaría de Administración y Finanzas de la Ciudad de México deberá de prever en el Proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2020, los recursos suficientes para el funcionamiento del organismo desconcentrado denominado Instancia Ejecutora del Sistema Integral de Derechos Humanos, adscrito a la Secretaría de Gobierno de la Ciudad de México, y dictaminar la estructura orgánica de la entidad, así como hacer las transferencias de los recursos materiales y de capital humano, con que actualmente cuenta la Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos de la Ciudad de México a la Instancia Ejecutora del Sistema Integral de Derechos Humanos de la Ciudad de México.
+
+Para estos efectos, la Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos de la Ciudad de México y la Secretaría de Administración y Finanzas de la Ciudad de México, acordarán un plan de migración de 15 días naturales posteriores a la publicación de la Ley a efecto de que a la entrada en vigor se transfieran inmediatamente los recursos a la Instancia Ejecutora del Sistema Integral de Derechos Humanos.
+
+Así mismo, serán garantizados y protegidos en términos de la legislación aplicable en la materia, la antigüedad y derechos laborales del capital humano dictaminado en la estructura orgánica del órgano desconcentrado de la Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos de la Ciudad de México, una vez que sean transferidos al organismo desconcentrado de la Instancia Ejecutora del Sistema Integral de Derechos Humanos de la Ciudad de México.
+
+SEXTO. La persona servidora pública que a la fecha de la entrada en vigor de la presente Ley sea titular de la Secretaría Ejecutiva del Mecanismo de Seguimiento y Evaluación del Programa de Derechos Humanos transitará a la titularidad de la Instancia Ejecutora del Sistema Integral, a efecto de garantizar una eficaz y eficiente transición. La titularidad de la Instancia Ejecutora del Sistema Integral deberá renovarse hasta el 16 de febrero de 2023.
+
+SEPTIMO. Las Organizaciones de la Sociedad Civil y las Instituciones de Educación Superior ubicadas en la Ciudad de México, que a la fecha de entrada en vigor de la presente Ley formen parte, como titulares o suplentes, del Comité del Mecanismo de Seguimiento y Evaluación del Programa transitarán a la titularidad y suplencia de las Organizaciones de la Sociedad Civil e instituciones académicas integrantes del Comité Coordinador, y deberán quedar renovadas mediante un procedimiento de selección a más tardar en junio de 2021.
+
+OCTAVO. El Mecanismo de Seguimiento y Evaluación del Programa, a partir de la entrada en vigor de la presente Ley, deberá iniciar los trabajos de elaboración de los diagnósticos para la actualización y elaboración del Programa de Derechos Humanos. Con este propósito, deberá solicitar la información necesaria a los entes obligados e iniciar las labores para asegurar la coordinación efectiva en este proceso.
+
+NOVENO. La persona titular de la Jefatura de Gobierno de la Ciudad de México deberá emitir el Reglamento de la Ley del Sistema Integral de Derechos humanos y mandarlo para su publicación a la Gaceta Oficial de la Ciudad de México, dentro de los 120 días naturales posteriores a la entrada en vigor de la presente Ley.
