@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-planeacion-del-estado-de-nayarit-136930"
 country: "mx"
 rank: "ley"
 publication_date: "2019-05-29"
-last_updated: "2019-05-29"
+last_updated: "2019-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE PLANEACION DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE DICIEMBRE DE 2019 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PLANEACIÓN DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE DICIEMBRE DE 2019.]</small>
 
 Ley publicada en la Sección Cuarta al Número 104 del Periódico Oficial del Estado de Nayarit, el miércoles 29 de mayo de 2019.
 
@@ -125,7 +125,9 @@ III. El Proceso de Ordenamiento del Territorio;
 
 IV. El Proceso de Geografía, Estadística y Evaluación;
 
-V. El Proceso de Desarrollo Gubernamental y Evaluación del Desempeño, y
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2019)</small>
+
+V. El Proceso de Evaluación del Desempeño, y
 
 VI. El Proceso de Gestión por Resultados.
 
@@ -529,25 +531,15 @@ V. Tomar en cuenta los efectos de las políticas fiscal, financiera y crediticia
 
 VI. Aquellas que el titular del Poder Ejecutivo del Estado determine y las que establezcan las disposiciones aplicables.
 
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 37.
 
 Corresponde a la Secretaría de la Contraloría General del Estado y a las Contralorías Municipales, el control, vigilancia y evaluación del desempeño de los recursos destinados a la consecución de los objetivos y prioridades del Sistema de Planeación, disponiendo las medidas necesarias para su aplicación de conformidad con las atribuciones que la Ley le confiere.
 
 Asimismo, vigilará y supervisará que los recursos federales transferidos al Estado y los que éste transfiere a su vez a los Municipios, en los términos que ordena la Ley o dispongan los convenios relativos, se apliquen con apego a la normatividad administrativa y técnica.
 
-Al efecto, la Secretaría de la Contraloría General, implementará las tareas siguientes:
-
-I. Coordinar las acciones de evaluación general de las instancias de Gobierno;
-
-II. Coordinar las acciones de control, así como el seguimiento y evaluación del desempeño de los programas y proyectos de las diferentes dependencias del Estado;
-
-III. Emitir los resultados de las evaluaciones y análisis, proporcionando los elementos de juicio para realizar adecuaciones pertinentes a la ejecución de las acciones implementadas, derivadas de los instrumentos de planeación;
-
-IV. Efectuar las evaluaciones anuales concernientes a los financiamientos e inversiones para el desarrollo del Estado, en base a los análisis de los informes y auditorías preventivas que se realicen con las dependencias y entidades ejecutoras;
-
-V. Establecer el mecanismo organizacional para la operación de una contraloría social, formando parte del Consejo General de Participación Ciudadana para el Desarrollo del Estado de Nayarit, y
-
-VI. Aquellas que el Gobernador del Estado, y otros ordenamientos legales y reglamentarios le establezcan.
+La coordinación de las acciones de evaluación general de las instancias de Gobierno, competerá a un organismo desconcentrado de la Secretaría de la Contraloría General.
 
 ### CAPÍTULO VII. CONSEJO GENERAL DE PARTICIPACIÓN CIUDADANA PARA EL DESARROLLO DEL ESTADO DE NAYARIT
 
@@ -831,7 +823,9 @@ SEXTO. Los recursos humanos y materiales que se encuentren asignados al Comité 
 
 SÉPTIMO. Las facultades y atribuciones con que cuentan las unidades administrativas de las dependencias que por virtud de la presente Ley se modifican, continuarán vigentes en términos de los reglamentos interiores que las rigen hasta en tanto sean publicadas las reformas a los mismos, sin perjuicio de su nueva adscripción.
 
-La transferencia de los recursos humanos, documentales, financieros y materiales, se hará de manera gradual, de acuerdo a un plan de capacitación y capacidad de recursos, sin que exceda del ejercicio fiscal 2019.
+> <small>(F. DE E., P.O. 3 DE DICIEMBRE DE 2019)</small>
+
+La transferencia de los recursos humanos, documentales, financieros, materiales, así como las obligaciones laborales, fiscales, de transparencia y administrativas, se hará de manera gradual, de acuerdo a un plan de capacitación y capacidad de recursos, sin que exceda del primer trimestre del ejercicio fiscal 2020.
 
 OCTAVO. La presente reforma garantizará y respetará todos los derechos de los trabajadores que modifiquen su adscripción conforme a la presente Ley.
 
