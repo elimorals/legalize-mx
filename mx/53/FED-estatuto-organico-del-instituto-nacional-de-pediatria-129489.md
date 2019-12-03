@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-pediatria-129489"
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-07-09"
-last_updated: "2018-07-09"
+last_updated: "2019-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129489&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2018-06-15"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PEDIATRÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE DICIEMBRE DE 2019.
 
 Estatuto publicado en la Primera Sección al Número 6 del Diario Oficial de la Federación, el lunes 9 de julio de 2018.
 
@@ -103,6 +103,8 @@ Dirección de Administración.
 
 Dirección de Planeación.
 
+> <small>(REFORMADO [N. DE E. CON SUS SUBDIRECCIONES], D.O.F. 3 DE DICIEMBRE DE 2019)</small>
+
 b) SUBDIRECCIONES:
 
 Subdirección de Medicina.
@@ -123,7 +125,7 @@ Subdirección de Investigación Médica.
 
 Subdirección de Medicina Experimental.
 
-Subdirección de Información y Documentación Científica.
+Subdirección de Tecnologías de la Información.
 
 Subdirección de Programación y Evaluación Educativa.
 
@@ -153,7 +155,7 @@ IV. COMITÉS:
 
 7. Comité de Medicina Transfusional
 
-8. Comité de Mejora Regulatoria Interna (COMERI)
+8. (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 2019)
 
 9. Comité de Mortalidad
 
@@ -167,7 +169,9 @@ IV. COMITÉS:
 
 14. Comité de Ética en Investigación
 
-15. Comité de Bioética
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 2019)</small>
+
+15. Comité Hospitalario de Bioética
 
 16. Comité de Investigación
 
@@ -299,15 +303,21 @@ X. Las demás que le encomiende el Presidente de la Junta de Gobierno.
 
 ### CAPÍTULO TERCERO. DE LA DIRECCIÓN GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 13.
 
-El Director General del Instituto será designado por la Junta de Gobierno, de una terna que deberá presentarle el Presidente de la misma. El nombramiento procederá siempre y cuando la persona reúna los requisitos establecidos en el Artículo 18 de la Ley, quien tendrá, además de las facultades que le confiere la Ley Federal de las Entidades Paraestatales y el Artículo 19 de la Ley, las siguientes:
+El Director General del Instituto será designado por la Junta de Gobierno, de una terna que deberá presentarle el presidente de la misma. El nombramiento procederá siempre y cuando la persona reúna los requisitos establecidos en el Artículo 18 de la Ley, quien tendrá, además de las facultades que le confiere la Ley Federal de las Entidades Paraestatales y el Artículo 19 de la Ley, las siguientes:
 
 I. Resolver los medios de impugnación cuyo trámite corresponda al Instituto de conformidad con las disposiciones jurídicas aplicables;
 
 II. Delegar facultades en los Titulares de las unidades administrativas y sustantivas del Instituto, sin perjuicio de conservar su ejercicio directo, y
 
 III. Iniciar, sustanciar y resolver los procedimientos administrativos de rescisión y de terminación anticipada, ordenar la suspensión, y otorgar los finiquitos de los contratos o convenios que celebre el Instituto; dictar todo tipo de medidas provisionales o precautorias a que se refieren la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, la Ley de Obras Públicas y Servicios Relacionados con las Mismas, y demás disposiciones jurídicas que de éstas deriven, así como aplicar las penas convencionales e iniciar los procesos de afectación de fianzas, según corresponda, en los términos de la legislación aplicable.
+
+> <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 2019)</small>
+
+IV. Expedir y Certificar las copias de los documentos o constancias que existan en los archivos a su cargo, cuando proceda.
 
 ###### Artículo 14.
 
@@ -473,7 +483,9 @@ IX. Operar los programas de capacitación, actualización y adiestramiento del p
 
 X. Realizar publicaciones especializadas en el campo de la Pediatría;
 
-XI. Integrar y operar los servicios de biblioteca, hemeroteca, filmoteca y videoteca del Instituto;
+> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 2019)</small>
+
+XI. Coordinar las funciones del Departamento de Información y Documentación Científica, para organizar el acceso a la información de la Biblioteca, Biblioteca Digital y Hemeroteca;
 
 XII. Integrar y operar los servicios de administración escolar del Instituto;
 
@@ -515,7 +527,9 @@ I. Conducir y aplicar las disposiciones legales y reglamentarias que regulen el 
 
 II. Dirigir la operación de los servicios de tecnologías de la información, telecomunicaciones e infraestructura de las unidades sustantivas y administrativas.
 
-III. Planear, coordinar, dirigir y supervisar las funciones asignadas a los Departamentos de Desempeño Organizacional, Diseño y Calidad, Gestión de la Información y Tecnologías de la Información.
+> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 2019)</small>
+
+III. Planear, coordinar, dirigir y supervisar las funciones asignadas a la Subdirección de Tecnologías de la Información, y a las de los Departamentos de Diseño y Calidad, Gestión de la Información y Desempeño Organizacional.
 
 IV. Someter a consideración del Director General los anteproyectos de los programas operativos de esta Dirección;
 
@@ -807,29 +821,49 @@ XIV. Las demás que sean necesarias para el cumplimiento de las anteriores.
 
 ###### Artículo 43.
 
-La Subdirección de Información y Documentación Científica tiene competencia para:
+(DEROGADO, D.O.F. 3 DE DICIEMBRE DE 2019)
 
-I. Planear, organizar, operar y evaluar el Centro de Información y Documentación Científica del Instituto;
+> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 2019)</small>
 
-II. Atender los requerimientos que en materia de información y documentación científica presenten los distintos órganos administrativos del Instituto, y en su caso, las solicitudes formuladas por otras instituciones del Sistema Nacional de Salud;
+###### Artículo 43. Bis.
 
-III. Participar en la elaboración de los manuales de procedimientos para la prestación de los servicios a su cargo;
+La Subdirección de Tecnologías de la Información tiene competencia para:
 
-IV. Establecer, con la intervención que corresponda a otros órganos del Instituto, convenios de préstamo interbibliotecario, con otras instituciones científicas nacionales y extranjeras;
+I. Aplicar y supervisar la implementación de los acuerdos relacionados con el cumplimiento del marco rector de los procesos establecidos en el Manual Administrativo de Aplicación General en Materia de Tecnologías de la Información y Comunicaciones y de Seguridad de la Información, con el propósito de armonizar y homologar las actividades que en materia de TIC y de seguridad de la información;
 
-V. Promover programas e impartir cursos sobre el uso de fuentes especializadas de información;
+II. Coordinar el Grupo para la Dirección de TIC y el Grupo Estratégico de TIC para que éstos cumplan con el objetivo por el cual fueron establecidos en beneficio del Instituto;
 
-VI. Determinar el programa de necesidades para la operación del Centro de Información y Documentación Científica del Instituto;
+III. Establecer y dirigir proyectos de infraestructura tecnológica alineados con los objetivos sustantivos del Instituto, así como evaluar el resultado de los mismos de acuerdo con los criterios establecidos en el Plan Estratégico de Tecnología de Información y Comunicaciones (PETIC);
 
-VII. Participar en el Sistema Nacional de Información en Salud;
+IV. Establecer y supervisar el cumplimiento de los programas de racionalización, innovación y actualización tecnológica en materia de telecomunicaciones que satisfagan las necesidades de comunicación del Instituto;
 
-VIII. Coordinar la Gestión Administrativa en el ámbito de la Enseñanza que permita generar informes de manera ordenada y sistematizada a través de bases de datos para el fortalecimiento en el Control y Gestión de la Información que apoyen al cumplimiento de los objetivos y programas institucionales.
+V. Supervisar y vigilar el proceso de modernización institucional a través del desarrollo de software que permita la sistematización y automatización de los procesos de las áreas médica, enseñanza e investigación, para llevar a cabo las tareas fundamentales del Instituto;
 
-IX. Contribuir en el Desarrollo de Proyectos que reúna la digitalización, la producción científica y académica de las actividades docentes, de investigación y médica del Instituto.
+VI. Implementar las políticas, normas, estándares y metodologías de implementación, desarrollo y uso de TIC con el fin de procurar la seguridad y protección de los bienes informáticos del Instituto;
 
-X. Participar en el establecimiento de normas para la selección, capacitación y adiestramiento de personal, y
+VII. Proponer el proyecto de presupuesto anual de refacciones, consumibles y gastos de mantenimiento, instalación y adquisición del equipo informático y de telecomunicaciones, así como realizar las gestiones conducentes para su aprobación, de acuerdo a las políticas internas establecidas;
 
-XI. Las demás que sean necesarias para el cumplimiento de las anteriores.
+VIII. Participar en los foros relacionados con Informática y Telecomunicaciones y realizar las gestiones que le sean propias, así como participar en los Comités que le sean designados por las autoridades del Instituto;
+
+IX. Establecer las medidas de seguridad informática en el Instituto para lograr el uso seguro de equipos y servicios;
+
+X. Asesorar o Emitir dictámenes técnicos en conformidad con la normatividad vigente para contribuir a la toma de decisiones sobre el uso, procesos de adquisición y arrendamiento de TlC.
+
+XI. Supervisar la elaboración y actualización de la página Web y sus herramientas para mantener un canal de comunicación entre la institución y el personal del Instituto;
+
+XII. Organizar y coordinar cursos de capacitación relacionados con el uso de herramientas y plataformas de tecnologías de la información y comunicación, a fin de mejorar el aprovechamiento de los mismos;
+
+XIII. Supervisar la aplicación de los lineamientos para la administración y la seguridad de la información del Instituto, con el objeto de disminuir el impacto de eventos adversos, que pueden llegar a constituir un riesgo para el logro de sus objetivos;
+
+XIV. Planear y coordinar la implementación de infraestructura tecnológica de los equipos de cómputo y telecomunicaciones, para dar el adecuado aprovisionamiento y soporte a las áreas sustantivas y administrativas que desarrolla el Instituto;
+
+XV. Coordinar la elaboración de anexos técnicos y documentación necesaria, para apoyar a las distintas áreas del Instituto en la adquisición de bienes y servicios de cómputo y telecomunicaciones;
+
+XVI. Supervisar la operación de los mecanismos y procesos establecidos para implementar y mantener los sistemas de cómputo que apoyen las actividades médicas, de enseñanza, investigación y administrativas que se realizan en el Instituto; así como de los equipos e infraestructura que los soportan, de acuerdo con las políticas internas establecidas;
+
+XVII. Supervisar la realización de los mecanismos y procesos establecidos para coordinar, administrar, operar y controlar el funcionamiento y mantenimiento de la red de voz y datos del Instituto, de acuerdo con las políticas internas establecidas;
+
+XVIII. Supervisar el cumplimiento del programa de mantenimiento preventivo y correctivo de los equipos de cómputo instalados, de acuerdo con las políticas internas establecidas;
 
 ###### Artículo 44.
 
@@ -1160,3 +1194,21 @@ Para su mayor difusión publíquese en el Diario Oficial de la Federación.
 Aprobado en la Ciudad de México, el día 26 de abril de dos mil dieciocho por la Honorable Junta de Gobierno del Instituto Nacional de Pediatría.
 
 Dado en la Ciudad de México, a los 15 días del mes de junio de 2018.- El Director General del Instituto Nacional de Pediatría, Alejandro Serrano Sierra.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PEDIATRÍA”.]
+
+###### ARTICULO PRIMERO.
+
+Las reformas al Estatuto Orgánico del Instituto Nacional de Pediatría, que se consignan en el presente entrarán en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+Las reformas aprobadas se deberán inscribir en el Registro Público de Organismos Descentralizados, en los términos de la Ley Federal de Entidades Paraestatales.
+
+###### ARTICULO TERCERO.
+
+Publíquese en su oportunidad en el Diario Oficial de la Federación, las reformas al Estatuto Orgánico del Instituto Nacional de Pediatría, aprobadas por la Junta de Gobierno.
