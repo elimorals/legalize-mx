@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2018-12-21"
+last_updated: "2019-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -319,13 +319,17 @@ Cuando alguno de los Ediles, sin causa justificada calificada por el Cabildo, fa
 
 El Congreso, por acuerdo de las dos terceras partes de sus integrantes, una vez cumplidas las formalidades establecidas en el Título Sexto relativas a la suspensión y revocación del mandato a los miembros de los Ayuntamientos, podrá suspender al Edil de que se trate y llamar al suplente.
 
-> <small>(ADICIONADO, G.O. 19 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 3 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 26 Bis.
 
-En el caso de las ausencias o licencias temporales de Agentes y Subagentes Municipales, que no excedan de sesenta días, el cabildo mandará llamar a la brevedad al suplente, para que ocupe el cargo por el tiempo señalado en la solicitud de licencia temporal o ausencia.
+En el caso de las ausencias temporales de agentes y subagentes municipales, el Cabildo autorizará la licencia correspondiente y mandará llamar a la brevedad al suplente, a efecto de que ocupe el cargo por el tiempo señalado en la misma. En ningún caso se podrán conceder licencias por lapsos indeterminados.
 
-Cuando se trate de ausencias definitivas o por un plazo mayor a 60 días, el Cabildo informará a la brevedad posible al Congreso del Estado o, en su caso, a la Diputación Permanente, para que se haga el llamado del suplente respectivo para que asuma la titularidad del cargo.
+> <small>(REFORMADO, G.O. 3 DE DICIEMBRE DE 2019)</small>
+
+Cuando se trate de ausencias definitivas de los agentes o subagentes municipales, por renuncia, incapacidad, inhabilitación, sentencia judicial o fallecimiento, el Cabildo acordará, en su caso, el llamado del suplente respectivo para que asuma la titularidad del cargo por el resto del periodo correspondiente. En este supuesto de ausencia definitiva y en el previsto en el párrafo anterior, si la licencia temporal excede de dos meses, el Ayuntamiento lo informará al Congreso del Estado, o en su caso, la Diputación Permanente.
+
+> <small>(ADICIONADO, G.O. 19 DE AGOSTO DE 2016)</small>
 
 Si una vez agotados los procedimientos señalados en los párrafos que preceden, no existiere quien ocupe el cargo, el Cabildo deberá elegir a la brevedad, por las dos terceras partes de sus integrantes, a quien funja de forma provisional como Agente o Subagente Municipal, en tanto el Ayuntamiento convoca a nuevas elecciones, las que deberán celebrarse en un plazo no mayor de 45 días, contado a partir de que realice la designación.
 
@@ -4354,3 +4358,11 @@ G.O. 21 DE DICIEMBRE DE 2018.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 3 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 301 QUE REFORMA LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 26 BIS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
