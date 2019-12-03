@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-bebe-seguro-de-la-ciudad-de-mexico-117740"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-22"
-last_updated: "2016-12-22"
+last_updated: "2019-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117740&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-12-19"
 
 LEY DE BEBÉ SEGURO DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 22 de diciembre de 2016.
 
@@ -174,9 +174,15 @@ I. Que la niña o niño haya nacido y resida en la Ciudad de México;
 
 II. Tener menos de doce meses de nacido;
 
-III. Ubicarse en la colonia de muy bajo, bajo y medio índice de desarrollo social además de lo establecido en la fracción VIII del artículo 5 de la presente Ley.
+III. (DEROGADA, G.O. 3 DE DICIEMBRE DE 2019)
 
-IV. Que su condición social estructural impida el acceso adecuado a la seguridad alimentaria para el recién nacido.
+> <small>(REFORMADA, G.O. 3 DE DICIEMBRE DE 2019)</small>
+
+IV. Que su condición social estructural impida el acceso adecuado a la seguridad alimentaria para el recién nacido, por lo que se deberá cubrir con el perfil socioeconómico establecido en las Reglas de Operación del Programa.
+
+> <small>(ADICIONADO, G.O. 3 DE DICIEMBRE DE 2019)</small>
+
+El acceso al programa en todo momento se sujetará a la suficiencia presupuestal disponible.
 
 ###### Artículo 10.
 
@@ -281,3 +287,11 @@ CUARTO.- Todas las disposiciones legales que contravengan la presente Ley se ten
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veinticinco días del mes de octubre del año dos mil dieciséis. POR LA MESA DIRECTIVA.- DIP. A. XAVIER LÓPEZ ADAME, PRESIDENTE.- DIP. SOCORRO MEZA MARTÍNEZ, SECRETARIA.- DIP. RAYMUNDO MARTÍNEZ VITE, PROSECRETARIO.- FIRMAS.
 
 Con fundamento en lo dispuesto por los artículos 122, Apartado A, Base III, de la Constitución Política de los Estados Unidos Mexicanos; Transitorios Primero y Segundo del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la Reforma Política de la Ciudad de México; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno de la Ciudad de México, a los diecinueve días del mes de diciembre del año dos mil dieciséis.- EL JEFE DE GOBIERNO DE LA CIUDAD DE MÉXICO, MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- LA SECRETARIA DE GOBIERNO, DORA PATRICIA MERCADO CASTRO.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JOSÉ RAMÓN AMIEVA GÁLVEZ.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 3 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ABROGA LA FRACCIÓN III, SE REFORMA LA FRACCIÓN IV Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 9 DE LA LEY DE BEBE SEGURO DE LA CIUDAD DE MÉXICO”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
