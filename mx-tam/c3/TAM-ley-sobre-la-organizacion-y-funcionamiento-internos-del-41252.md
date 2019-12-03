@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2019-10-17"
+last_updated: "2019-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1175,7 +1175,9 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 
 ###### ARTICULO 65.
 
-1. La Unidad de Comunicación Social tiene a su cargo la difusión de las actividades del Congreso, sirve de enlace con los medios de comunicación y es responsable del programa de publicaciones y material de divulgación.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2019)</small>
+
+1. La Unidad de Comunicación Social tiene a su cargo la difusión de las actividades del Congreso, a la vez que sirve de enlace con los medios de comunicación y es responsable del programa de publicaciones y del material de divulgación. En la realización de estas tareas cuidará en todo momento la utilización de lenguaje claro e inclusivo. Así mismo, dispondrá lo necesario para aprovechar al máximo los recursos didácticos y los avances tecnológicos a su alcance para la mayor divulgación de las actividades de la legislatura.
 
 2. La Unidad de Comunicación Social depende de la Junta de Coordinación Política para la divulgación de los aspectos de dirección política del Congreso.
 
@@ -1793,7 +1795,11 @@ En tratándose de dictámenes sobre iniciativas de reforma y adición a la Const
 
 1. El derecho de iniciativa corresponde a los sujetos señalados en el artículo 64 de la Constitución Política del Estado.
 
-2. Toda iniciativa se presentará por escrito y deberá comprender una parte expositiva y otra relativa al proyecto de resolución y estará dirigida al Congreso del Estado. Una vez conocida por el Pleno, será turnada a la comisión o comisiones que correspondan para su estudio y dictamen.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2019)</small>
+
+2. Toda iniciativa se presentará por escrito, será dirigida al Congreso del Estado, y deberá comprender una parte expositiva y otra relativa al proyecto de resolución.
+
+En las iniciativas se procurará la máxima utilización de lenguaje claro e inclusivo, al menos en su parte expositiva. Una vez conocida una iniciativa por el Pleno, será turnada a la comisión o comisiones que correspondan para su estudio y dictamen.
 
 3. Podrán presentarse iniciativas de ley, de decreto, de acuerdo y de acuerdo económico.
 
@@ -3328,6 +3334,14 @@ El presente Decreto entrará en vigor a partir de su expedición y deberá publi
 P.O. 17 DE OCTUBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-5 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35, PÁRRAFO 2, INCISO i) DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 3 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-10 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 65, PÁRRAFO PRIMERO; Y 93, PÁRRAFO SEGUNDO, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
