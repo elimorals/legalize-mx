@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2019-11-27"
+last_updated: "2019-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2017-02-05"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE DICIEMBRE DE 2019 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE NOVIEMBRE DE 2019.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO DEL 4 DE DICIEMBRE DE 2019.]</small>
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -1944,15 +1944,27 @@ f) Las y los ciudadanos que reúnan al menos el cero punto trece por ciento de l
 
 g) Los organismos autónomos, en las materias de su competencia.
 
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2019)</small>
+
 2. Las leyes establecerán los requisitos para la presentación de estas iniciativas.
+
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2019)</small>
 
 3. El día de la apertura del periodo ordinario de sesiones la o el Jefe de Gobierno podrá presentar una iniciativa para trámite preferente, en los términos previstos por esta Constitución. Las y los ciudadanos podrán hacerlo cumpliendo con lo establecido en el numeral 4 del apartado B del artículo 25 de esta Constitución. Los dictámenes de éstas deberán ser discutidos y votados por el pleno en un plazo máximo de cuarenta y cinco días naturales, de lo contrario las iniciativas serán discutidas y votadas en sus términos en la siguiente sesión del pleno. Las iniciativas de reforma a la Constitución no podrán tener carácter preferente.
 
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2019)</small>
+
 4. Cada decreto de ley aprobado por el Congreso de la Ciudad de México será remitido a la o el Jefe de Gobierno para su consideración; si ésta o éste tuviere observaciones, las remitirá durante los treinta días naturales a partir de su recepción al Congreso para su análisis; vencido este plazo el Ejecutivo dispondrá de hasta diez días naturales para promulgar el decreto. Transcurrido este segundo plazo, el proyecto será ley, se considerará promulgado y la mesa directiva del Congreso contará con un plazo máximo de diez días naturales para ordenar la publicación del decreto.
+
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2019)</small>
 
 5. Tras el análisis de las observaciones del Ejecutivo, si el Congreso insistiese en el mismo decreto con la confirmación de dos terceras partes de los presentes, el proyecto será ley. El Congreso lo remitirá al Ejecutivo, quien contará con quince días naturales para su promulgación y publicación. Si no lo hiciere en este término se considerará promulgado y la mesa directiva del Congreso ordenará la publicación del decreto en los siguientes diez días naturales. Quedan exceptuadas las reformas constitucionales, las normas aprobadas mediante referéndum, las leyes constitucionales, las normas de funcionamiento del Congreso, los ingresos, egresos y los asuntos o designaciones para los que esta Constitución disponga un procedimiento distinto, así como las decisiones del Congreso al resolver procedimientos de juicio político.
 
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2019)</small>
+
 6. Las leyes y decretos deberán aprobarse por la mayoría de las y los diputados, con excepción de las leyes constitucionales, que deberán ser aprobadas por el voto de las dos terceras partes de las y los integrantes del Congreso de la Ciudad. El procedimiento para su creación y reforma, será establecido por la ley.
+
+> <small>(F. DE E., P.O. 4 DE DICIEMBRE DE 2019)</small>
 
 7. El sistema al que se refiere el inciso q) del apartado D del artículo 29 de esta Constitución realizará la evaluación cuantitativa y cualitativa de las leyes.
 
@@ -4158,7 +4170,7 @@ TERCERO. - Publíquese en la Gaceta Oficial de la Ciudad de México, y para su m
 
 G.O. 27 DE NOVIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO 30 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
