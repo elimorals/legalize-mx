@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2019-08-07"
+last_updated: "2019-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2019.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -909,15 +909,15 @@ El órgano jurisdiccional determinará el momento a partir del cual debe correr 
 
 ### CAPITULO II. DELITOS CULPOSOS
 
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 61.
 
 Solamente se sancionan como delitos culposos los siguientes:
 
 (NOTA: EL 8 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 91/2019 Y SUS ACUMULADAS 92/2019 Y 93/2019, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE AGOSTO DE 2019, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 115 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
-
-Homicidio simple (Art. 110), homicidio en razón del parentesco o relación (Art. 111), homicidio en riña (Art. 114), lesiones (Arts. 116, 117 y 118), lesiones por contagio (Art. 120), lesiones en riña (Art. 122), aborto sufrido sin violencia (Art. 131), omisión de cuidado (Art. 139), allanamiento de morada (Art. 162), revelación de secreto (Art. 164), abigeato (Arts. 181, 182, 183, 184 y 185), daños (Art. 200), encubrimiento por receptación (Art. 201) párrafo tercero, ejercicio indebido del servicio público (Art. 235 fracciones I y II), evasión de presos (Art. 274), incumplimiento de los deberes de abogados, defensores o litigantes (Art. 281 fracción III), interrupción o dificultamiento del servicio público de comunicación (ARTS. 308 FRACCIÓN I, art. 309 y 310), violación de correspondencia (Art. 315), enajenación fraudulenta de medicinas nocivas o inapropiadas (Art. 344).
+Homicidio simple (Art. 110), homicidio en razón del parentesco o relación (Art. 111), homicidio en riña (Art. 114), lesiones (Arts. 116, 117 y 118), lesiones por contagio (Art. 120), lesiones en riña (Art. 122), aborto sufrido sin violencia (Art. 131), omisión de cuidado (Art. 139), allanamiento de morada (Art. 162), revelación de secreto (Art. 164), daños (Art. 200), encubrimiento por receptación (Art. 201) párrafo tercero, ejercicio indebido del servicio público (Art. 235 fracciones I y II), evasión de presos (Art. 274), incumplimiento de los deberes de abogados, defensores o litigantes (Art. 281 fracción III), interrupción o dificultamiento del servicio público de comunicación (ARTS. 308 FRACCIÓN I, art. 309 y 310), violación de correspondencia (Art. 315), enajenación fraudulenta de medicinas nocivas o inapropiadas (Art. 344).
 
 ###### Artículo 62.
 
@@ -2063,7 +2063,7 @@ Si el agente conoció o recibió el secreto o comunicación reservada con motivo
 
 ### CAPITULO II. ABIGEATO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 166.
 
@@ -2273,39 +2273,89 @@ Las penas previstas en los artículos 175, 177 y 179 se agravarán con prisión 
 
 ###### Artículo 181.
 
-Comete el delito de abigeato, al que se apodere independientemente del lugar en que se encuentren, de una o más cabezas de ganado bovino o equino sin derecho y sin consentimiento de quien legalmente pueda disponer de las mismas, se le impondrán las penas siguientes:
+Comete el delito de abigeato, quien se apodere, independientemente del lugar en que se encuentren, de una o más cabezas de ganado bovino o equino, sin derecho y sin consentimiento de quien legalmente pueda otorgarlo o disponer de las mismas, y se le impondrán las penas siguientes:
 
-I. Prisión de uno a dos años y de cien a ciento ochenta días multa, si la conducta descrita se ejecuta de una a dos cabezas de ganado;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
-II. Prisión de tres a cuatro años y de doscientos a cuatrocientos días multa, si la conducta descrita se ejecuta de tres a cinco cabezas de ganado;
+I. Prisión de cuatro a ocho años y de cien a doscientos días multa, si la conducta descrita se ejecuta en una a dos cabezas de ganado;
 
-III. Prisión de cinco a seis años y de quinientos a setecientos días multa, si la conducta descrita se ejecuta de seis a ocho cabezas de ganado; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
-IV. Prisión de siete a nueve años y de ochocientos a mil días multa, si la conducta descrita se ejecuta de nueve o más cabezas de ganado.
+II. Prisión de seis a diez años y de trescientos a quinientos días multa, si la conducta descrita se ejecuta en tres a cinco cabezas de ganado; y
 
-El apoderamiento de ganado asnal, mular o de cualquier otra de las clases no previstas en el presente artículo, se sancionará con prisión de cuatro a seis años y de doscientos a cuatrocientos días multa.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+III. Prisión de doce a dieciséis años y de seiscientos a ochocientos días multa, si la conducta descrita se ejecuta en seis o más cabezas de ganado.
+
+IV. (DEROGADA, P.O. 4 DE DICIEMBRE DE 2019)
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+El apoderamiento sin consentimiento de quien legalmente pueda otorgarlo, de ganado asnal, mular o de cualquier otra de las clases no previstas en el presente artículo, se sancionará con las penas siguientes:
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+I. Prisión de tres a seis años y de doscientos a cuatrocientos días multa, si se trata de una a tres cabezas de ganado; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+II. Prisión de seis a ocho años y de cuatrocientos a seiscientos días multa, si se trata de cuatro o más cabezas de ganado.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 181 Bis.
+
+Comete el delito de abigeato de forma equiparada, quien se apodere de una o más especies menores, sin derecho y sin consentimiento de quien legalmente pueda otorgarlo o disponer de las mismas, y se le impondrán las penas siguientes:
+
+I. Prisión de uno a cuatro años y de treinta a cincuenta días multa, si se trata de una a cuatro de estas especies; y
+
+II. Prisión de cuatro a ocho años y de cincuenta a cien días multas, si se trata de más de cuatro de estas especies.
+
+Para los efectos de este Capítulo, se entiende por especies mayores a los bovinos y equinos; y por especies menores a los caprinos, ovinos, porcinos, conejos, liebres, abejas y aves, a excepción de las aves de corral a que se refiere el artículo 186 del presente Código.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 182.
 
-Las penas del delito de abigeato señaladas en el artículo anterior, se agravarán cuando se concurran con algunas de las modalidades siguientes:
+Las penas del delito de abigeato señaladas en los artículos 181 y 181 Bis, se agravarán en términos del artículo 183 del presente Código, cuando se concurran con algunas de las modalidades siguientes:
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 I. Se cometa valiéndose de la nocturnidad;
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 II. Se cometa aprovechando alguna relación de trabajo, confianza o parentesco por consanguinidad o afinidad hasta el cuarto grado del activo con el pasivo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 III. Sea perpetrado por ganaderos inscritos como tales en cualquier unión o asociación ganadera;
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
+
 IV. Se ejecute con violencia física o moral en las personas ya sea al perpetrarse el hecho o después de consumado para lograr la fuga o defender el producto;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 V. El o los responsables simulen ser miembros de algún cuerpo de seguridad pública o de alguna otra autoridad;
 
-VI. Cuando se trate de animales para el mejoramiento genético;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
-VII. El o los responsables porten armas, aun y cuando no hagan uso de ellas; y
+VI. Cuando se trate de sementales y vientres de registro para el mejoramiento genético; entendiéndose por mejoramiento genético, el uso de herramientas biológicas y matemáticas tendentes a aumentar la frecuencia de aquellos genes relacionados con caracteres considerados favorables en una población de animales domésticos;
 
-VIII. Cuando el o los responsables sean posesionarios de los predios colindantes en los que sean sustraídos los animales.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+VII. El o los responsables porten armas, aun y cuando no hagan uso de ellas;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+VIII. Cuando el o los responsables sean propietarios o posesionarios de los predios colindantes o predios contiguos en los que sean sustraídos los animales; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+IX. Cuando para cometer el delito el sujeto activo utilice documentación falsa o supuesta orden de alguna autoridad.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
 Cuando la conducta a que se refiere este artículo se cometa por una asociación delictuosa, banda o pandilla, se sancionará en términos de los artículos 71 y 231 de este código según corresponda.
 
@@ -2315,47 +2365,79 @@ Cuando la conducta a que se refiere este artículo se cometa por una asociación
 
 Al responsable del delito de abigeato agravado, de conformidad con lo previsto en el artículo que antecede, se le impondrán las siguientes penas de acuerdo a las reglas que se consignan en los siguientes apartados:
 
-I. Si interviene alguna de las agravantes que se consignan en las fracciones I, III, V, VI y VIII del artículo anterior, la pena será de diez a doce años de prisión y de ochocientos a mil doscientos días multa.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
-II. Si interviene alguna de las agravantes que se consignan en las fracciones II, IV y VII del artículo anterior, la pena será de trece a quince años de prisión y de novecientos a mil cuatrocientos días multa.
+I. Si interviene alguna de las agravantes que se consignan en las fracciones I, III, V, VI y VIII del artículo anterior, la pena se incrementará en un tercio más de la pena que corresponda;
 
-III. Si se interviene en dos o más de las agravantes señaladas en el inciso anterior, la pena aumentará en una cuarta parte de la pena máxima prevista en el mismo.
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
+II. Si interviene alguna de las agravantes que se consignan en las fracciones II, IV y VII del artículo anterior, la pena se incrementará en una mitad más de la pena que corresponda; y
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+III. Si intervienen dos o más de las agravantes señaladas en las fracciones anteriores, la pena se incrementará en dos tercios más de la pena que corresponda.
 
 ###### Artículo 183 Bis.
 
-Se aplicará prisión de dos a cinco años y de doscientos a cuatrocientos días multa al que por sí o por medio de otro o para otro, adquiera ganado producto del abigeato distinto al señalado en el artículo anterior, o comercie con pieles o carnes u otros derivados obtenidos del abigeato de esta clase de ganado.
+(DEROGADO, P.O. 4 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
-
-Al que transporte ganado, carnes, pieles u otros derivados obtenidos mediante abigeato de cualquiera clase de ganado, se le impondrá prisión de uno a tres años y multa de veinte a doscientos días multa.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 184.
 
-Se equipara al delito de abigeato y se aplicará prisión de cinco a nueve años y de trescientos a seiscientos días multa, a quien:
+Se equipara también al delito de abigeato y se aplicará prisión de cinco a diez años y de mil a dos mil días multa, a quien:
 
-I. No acredite la propiedad de animales, productos o subproductos, ante cualquier autoridad competente que se lo requiera;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
-II. Marque, contramarque, señale o contraseñale uno o más animales, sin consentimiento de quien pueda otorgarlo conforme a la ley;
+I. No acredite la propiedad de una o más especies pecuarias mayores o menores, o de ganado asnal o mular, productos o subproductos, ante cualquier autoridad competente que se lo requiera;
 
-III. Altere, desfigure o elimine las marcas o señales de identificación de uno o más animales sin consentimiento de quien está facultado para realizarlo conforme a la ley;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
-IV. A sabiendas o sin tomar las medidas necesarias para cerciorarse de la procedencia legítima, consienta en rastros autorizados o en cualquier otro lugar de matanza, el sacrificio de animales para el consumo humano producto del abigeato;
+II. Marque, contramarque, señale o contraseñale una o más especies pecuarias mayores o menores, o de ganado asnal o mular, sin consentimiento de quien pueda otorgarlo conforme a la ley;
 
-V. Sacrifique intencionalmente ganado ajeno, sin consentimiento de su propietario;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
-VI. Extraiga, altere, modifique o encime dispositivos de identificación oficial de animales, sin consentimiento de quien pueda otorgarlo conforme a la ley;
+III. Altere, desfigure o elimine las marcas o señales de identificación de una o más especies pecuarias mayores o menores, o de ganado asnal o mular, sin consentimiento de quien esté facultado para realizarlo conforme a la ley;
 
-VII. Proteja dolosamente ganado obtenido del abigeato con documentación falsa; y
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
-VIII. A quien expida o haga uso de facturas, guía de tránsito, certificado zoosanitario o dispositivos de identificación oficial apócrifos, para simular ventas de animales, producto u subproductos, de los que no se acredite la propiedad o para trasladarlos para fines de movilización de vida o sacrificio para consumo humano, sin estar debidamente autorizado.
+IV. A sabiendas o sin tomar las medidas necesarias para cerciorarse de la procedencia legítima, consienta en rastros autorizados o en cualquier otro lugar de matanza, el sacrificio de una o más especies pecuarias mayores o menores, para el consumo humano producto del abigeato;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+V. Destace o sacrifique intencionalmente una o más especies pecuarias mayores o menores ajena (sic), o de ganado asnal o mular, sin consentimiento de su propietario;
+
+VI. (DEROGADA, P.O. 4 DE DICIEMBRE DE 2019)
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+VII. Proteja dolosamente una o más especies pecuarias mayores o menores, o de ganado asnal o mular, obtenidas del abigeato con documentación falsa;
+
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+VIII. Expida o haga uso de factura, guía de tránsito, certificado zoosanitario o dispositivo de identificación oficial apócrifo, para simular venta de una o más especies pecuarias mayores o menores, o de ganado asnal o mular, productos o subproductos, de los que no se acredite la propiedad o para trasladarlos para fines de movilización de vida o sacrificio para consumo humano, sin estar debidamente autorizado;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+IX. Transporte o movilice una o más especies pecuarias mayores o menores, o de ganado asnal o mular, en vehículo del servicio público estatal o federal que carezca de la autorización emitida por la autoridad competente, o del documento que avale la propiedad del ganado, o de la guía de tránsito, o de la documentación de movilización;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+X. Transporte o movilice una o más especies pecuarias mayores o menores ajenas, o de ganado asnal o mular, en vehículo particular sin consentimiento de quien legalmente pueda otorgarlo;
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+XI. Enajene, trafique o comercie una o más especies pecuarias mayores o menores ajenas, o de ganado asnal o mular, vivas o muertas, completas o en partes, producto del abigeato o sin consentimiento de quien legalmente pueda otorgarlo; y
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+XII. Oculte, posea o arree una o más especies pecuarias mayores o menores, o de ganado asnal o mular, ajenas, productos del abigeato o sin consentimiento de quien legalmente pueda otorgarlo.
+
+> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 185.
 
-Al servidor público que participe en el abigeato, además de las penas previstas en los artículos anteriores se les impondrá destitución e inhabilitación para desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público de uno a cinco años.
+Al servidor público que participe en la comisión del delito de abigeato, se le impondrá una cuarta parte más de las penas previstas en los artículos anteriores, además de destitución e inhabilitación para desempeñar un empleo, cargo o comisión de cualquier naturaleza en el servicio público por el doble de la pena de prisión que se le imponga.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -2368,6 +2450,28 @@ Se aplicará prisión de nueve a catorce años y de setecientos a mil días mult
 ###### Artículo 185 Bis 1.
 
 A las autoridades en general y los servidores públicos de los puntos de verificación e inspección que se le compruebe que intervinieron o participaron en las operaciones para la comisión del delito de abigeato, si no tomaron las medidas a las que estén obligadas, se les impondrá una pena de nueve a catorce años de prisión y de seiscientos a mil días multa, más la inhabilitación para desempeñar cargos públicos por el doble de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 185 Ter.
+
+Comete el delito contra la ganadería y se le sancionará con prisión de uno a seis años y de cincuenta a cien días multa, quien incurra en alguna de las conductas siguientes:
+
+I. Introduzca una o más especies pecuarias mayores o menores, o de ganado asnal o mular, al Estado sin la documentación legal que corresponda;
+
+II. Movilice o enajene una o más especies pecuarias mayores o menores, o de ganado asnal o mular, productos, subproductos o sus derivados, con restricciones sanitarias y sin autorización legal, dentro del Estado;
+
+III. Inicie el transporte o la movilización de ganado en el horario comprendido entre las 18:00 y las 06:00 horas, de conformidad con la ley vigente aplicable, sin causa justificada;
+
+IV. Expida guía de tránsito o documentación de movilización sin que se cumpla con los requisitos legales;
+
+V. Retire, altere, reutilice, encime o comercialice uno o más dispositivos de identificación individual de especies pecuarias mayores o menores, sin autorización de quien conforme a la ley pueda otorgarla;
+
+VI. Coloque en una o más especies pecuarias mayores o menores ajenas, dispositivo de identificación individual, sin autorización de quien conforme a la Ley pueda otorgarla;
+
+VII. Expida dictamen de la prueba de tuberculosis y brucelosis bovina o certificado zoosanitario de movilización para obtener guía de tránsito simulando venta, o haga uso de cualquiera de ellos, para cualquier negociación de especie o especies pecuarias mayores o pieles, o haga conducir especies pecuarias mayores que no sean de su propiedad sin estar debidamente autorizado; y
+
+VIII. Comercialice o fabrique dispositivos falsos de identificación individual especies pecuarias mayores o menores.
 
 ### CAPITULO VII. ADMINISTRACION FRAUDULENTA
 
@@ -5209,7 +5313,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto por el
 
 P.O. 7 DE AGOSTO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 116 POR EL QUE "SE REFORMAN, EL TÍTULO SÉPTIMO Y SU CAPÍTULO ÚNICO, ÉSTE ÚLTIMO PARA QUEDAR COMO CAPÍTULO PRIMERO, DE LA SECCIÓN PRIMERA, DEL LIBRO SEGUNDO; Y SE ADICIONA UN CAPÍTULO SEGUNDO, DENOMINADO "SEXTING'', CON SUS ARTÍCULOS 163 BIS, 163 TER Y 163 QUATER, AL TÍTULO SÉPTIMO, DE LA SECCIÓN PRIMERA, DEL LIBRO SEGUNDO; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+## [N. DE E. TRANSITORIOS DEL DECRETO 116 POR EL QUE “SE REFORMAN, EL TÍTULO SÉPTIMO Y SU CAPÍTULO ÚNICO, ÉSTE ÚLTIMO PARA QUEDAR COMO CAPÍTULO PRIMERO, DE LA SECCIÓN PRIMERA, DEL LIBRO SEGUNDO; Y SE ADICIONA UN CAPÍTULO SEGUNDO, DENOMINADO "SEXTING'', CON SUS ARTÍCULOS 163 BIS, 163 TER Y 163 QUATER, AL TÍTULO SÉPTIMO, DE LA SECCIÓN PRIMERA, DEL LIBRO SEGUNDO; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5218,3 +5322,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 4 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 158 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 61, 181, PÁRRAFO PRIMERO Y SUS FRACCIONES I, II Y III, Y SU PÁRRAFO SEGUNDO, 182, PÁRRAFO PRIMERO Y SUS FRACCIONES VI, VII Y VIII, 183, FRACCIONES I, II Y III, 184, PÁRRAFO PRIMERO Y SUS FRACCIONES I, II, III, IV, V, VII Y VIII, Y 185; SE ADICIONAN LAS FRACCIONES I Y II AL PÁRRAFO SEGUNDO DEL ARTÍCULO 181, EL ARTÍCULO 181 BIS, LA FRACCIÓN IX AL PÁRRAFO PRIMERO DEL ARTÍCULO 182, LAS FRACCIONES IX, X, XI Y XII AL ARTÍCULO 184 Y EL ARTÍCULO 185 TER; Y SE DEROGAN LA FRACCIÓN IV DEL PÁRRAFO PRIMERO DEL ARTÍCULO 181, EL ARTÍCULO 183 BIS Y LA FRACCIÓN VI DEL PÁRRAFO PRIMERO DEL ARTÍCULO 184; TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
