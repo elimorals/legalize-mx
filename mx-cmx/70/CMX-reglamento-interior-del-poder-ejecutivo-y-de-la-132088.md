@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2019-11-05"
+last_updated: "2019-12-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -12596,7 +12596,9 @@ Para el despacho de los asuntos que competan al Sistema de Aguas de la Ciudad de
 
 5. Dirección General de Apoyo Técnico y Planeación a la que queda adscrita:
 
-5.1. Dirección del Proyecto de Mejoría de Eficiencia y del Servicio de Agua Potable.
+> <small>(REFORMADO, G.O. 4 DE DICIEMBRE DE 2019)</small>
+
+5.1. Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable.
 
 6. Dirección General de Servicios a Usuarios a la que queda adscrita:
 
@@ -12808,9 +12810,11 @@ XII. Expedir y certificar copias de los documentos que obren en sus archivos; y
 
 XIII. Las demás que le confieran las disposiciones jurídicas y administrativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 310.
 
-La Dirección del Proyecto de Mejoría de Eficiencia y del Servicio de Agua Potable, tiene las siguientes atribuciones:
+La Dirección del Proyecto de Mejora de Eficiencia y del Servicio de Agua Potable, tiene las siguientes atribuciones:
 
 I. Diseñar e instrumentar las acciones necesarias para que se cuente con el hardware y software para la implementación y mantenimiento de las estaciones de automatización y medición del sistema hidráulico de agua potable;
 
@@ -12952,7 +12956,9 @@ IV. Asesorar jurídicamente a las diversas áreas que conforman al Sistema de Ag
 
 V. Pronunciar opinión jurídica sobre las modificaciones a las disposiciones jurídicas que propongan las otras Unidades Administrativas del Sistema de Aguas de la Ciudad de México o Dependencias de la Administración;
 
-VI. Emitir criterios o lineamientos, en caso de que ello se considere conveniente, para homogeneizar jurídicamente los procedimientos internos, la legalidad de los actos de autoridad, el respeto a los derechos humanos, las mejores prácticas en materia de mecanismos alternativos de solución de controversias, el cumplimiento de la normatividad ambiental, la reducción de la huella ecológica y, en general, para procurar la correcta gestión jurídica de las diversas Unidades Administrativas del Sistema de Aguas de la Ciudad de México;
+> <small>(REFORMADA, G.O. 4 DE DICIEMBRE DE 2019)</small>
+
+VI. Revisar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos y administrativos que deban ser suscritos por la persona titular del Sistema de Aguas de la Ciudad de México o los titulares de sus Unidades Administrativas;
 
 VII. Coordinar con la Procuraduría Fiscal de la Ciudad de México, la defensa de los asuntos de naturaleza fiscal, en los que sea parte el Sistema de Aguas de la Ciudad de México, como Autoridad Fiscal;
 
@@ -13653,6 +13659,14 @@ TERCERO.- Las referencias hechas a la Subsecretaría de Capital Humano y Adminis
 G.O. 5 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXV Y SE ADICIONA LA FRACCIÓN XXV BIS, DEL ARTÍCULO 315, DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 4 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
 
 PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
 
