@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-pensiones-del-estado-de-durango-124923"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-03"
-last_updated: "2017-12-03"
+last_updated: "2019-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PENSIONES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 3 de diciembre de 2017.
 
@@ -595,11 +595,15 @@ La cuantía diaria de pensión de este sistema no podrá ser mayor a dieciocho v
 
 Los afiliados y sus beneficiarios tendrán derecho a percibir el pago de las pensiones del Sistema de cualquier naturaleza, cuando se encuentren en los supuestos establecidos en esta Ley, siendo imprescriptible el derecho a disfrutarlas.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 59.
 
-La cuantía diaria de pensión de este sistema no podrá ser inferior a dos veces el salario mínimo, a excepción de las pensiones por retiro anticipado contempladas en el artículo 80 de esta Ley, así como las de sus beneficiarios.
+La cuantía diaria de pensión de este sistema no podrá ser inferior a dos veces el salario mínimo, a excepción de:
 
-En el caso de aquellos afiliados adscritos al Sistema Educativo, que perciban ingresos por hora-semana-mes, se aplicará lo establecido por el artículo 92 de esta Ley.
+I. Las pensiones por retiro anticipado contempladas en el artículo 80 de esta Ley, así como las de sus beneficiarios; y
+
+II. Lo dispuesto en el segundo párrafo del artículo 92 de esta Ley.
 
 ###### Artículo 60.
 
@@ -961,7 +965,9 @@ Cuando dos o más personas reclamen el derecho a recibir el pago de la pensión 
 
 Pensión garantizada es aquélla que la Dirección asegura a quienes reúnan los requisitos señalados en los artículos 77, 78, 81, 86 y 87 de esta Ley, y su monto mensual será el equivalente a dos salarios mínimos, dicha cantidad se actualizará anualmente para garantizar el poder adquisitivo de dicha pensión, conforme a lo establecido por el artículo 67 de esta Ley.
 
-En el caso de aquellos afiliados adscritos al Sistema Educativo que perciban ingresos por hora-semana-mes, y cuyo monto sea inferior a dos salarios mínimos, no serán sujetos de esta prestación, pudiendo retirar el monto de sus cuotas en una sola exhibición. Lo establecido en el presente párrafo será aplicable a sus beneficiarios.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2019)</small>
+
+En el caso de aquellos afiliados adscritos al Sistema Educativo que perciban ingresos por hora/semana/mes, y cuyo monto sea inferior a dos salarios mínimos, la pensión que les corresponda será el equivalente al porcentaje del Sueldo Regulador conforme a la pensión solicitada, o, en su caso, tendrán la opción de retirar el monto de sus cuotas en una sola exhibición. Lo establecido en el presente párrafo será aplicable a sus beneficiarios.
 
 ###### Artículo 93.
 
@@ -1672,3 +1678,13 @@ DR. JOSÉ ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ARQ. ADRIÁN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 199.- QUE CONTIENE REFORMA A LOS ARTÍCULOS 59 Y 92 DE LA LEY DE PENSIONES DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
