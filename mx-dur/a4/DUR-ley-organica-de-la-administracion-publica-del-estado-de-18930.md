@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2019-11-17"
+last_updated: "2019-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2019.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -1141,9 +1141,13 @@ XLV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2007)
 
 XLVI. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2007)
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE DICIEMBRE DE 2019)</small>
 
-XLVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XLVII. A través del área que corresponda, implementar los mecanismos y acciones de la política de mejora regulatoria conforme a los principios y disposiciones establecidos en las leyes de la materia; y
+
+(REUBICADA, P.O. 5 DE DICIEMBRE DE 2019)
+
+XLVIII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
@@ -1389,87 +1393,97 @@ XXIII. Las demás que señalen las leyes y reglamentos vigentes en el Estado, as
 
 La Secretaria de Salud, como dependencia del Gobierno Estatal, se coordinará y coadyuvará con el Organismo Público Descentralizado especializado en la materia, denominado Servicios de Salud de Durango, a fin de operar los servicios de salud y mejorar la cobertura de éstos en beneficio de la población del Estado, en los términos que establece el Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 35.
 
-La Secretaría de Educación, tiene a su cargo la función educativa del Estado, estructurada en el sistema estatal de educación, el cual forma parte del sistema educativo nacional.
+La Secretaría de Educación, tiene a su cargo la función educativa del Estado, estructurada en el Sistema Educativo Estatal, el cual forma parte del Sistema Educativo Nacional.
 
-Las funciones fundamentales del sistema estatal de educación son las de prestar los servicios educativos de su competencia, en los términos de la normatividad correspondiente, procurando elevar constantemente su calidad y lograr la cobertura programada; promover y apoyar la investigación pedagógica, científica y tecnológica y propiciar la participación organizada de la sociedad en la educación.
+Para el cumplimiento de las atribuciones que le competen, a la Secretaría de Educación del Estado de Durango le corresponde el despacho de los siguientes asuntos:
 
-Forman parte del sistema estatal de educación, las instituciones educativas creadas, incorporadas o reconocidas por el Gobierno del Estado; las que le transfiera legalmente el Gobierno Federal; los Colegios de Bachilleres; las Telesecundarias; las creadas por la legislación estatal; las que establezcan las empresas de acuerdo a lo dispuesto por la fracción XII del Apartado A) del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos; y las que sean establecidas por la legislación correspondiente.
+I. Instrumentar, dirigir y evaluar la política educativa, el desarrollo científico y tecnológico, tomando en cuenta los lineamientos generales de la autoridad educativa federal, los contenidos en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo, así como los que establezca el titular del Poder Ejecutivo del Estado y contribuir al fortalecimiento de las instituciones educativas públicas;
 
-Para el cumplimiento de las funciones que le competen, la Secretaría de Educación del Estado, tiene las siguientes atribuciones:
+II. Planear, organizar, desarrollar y vigilar que la prestación de servicios educativos, sea de excelencia, promoviendo el máximo logro del aprendizaje de los educandos para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad, elevando la calidad de la educación en todos los niveles y grados, que garanticen el máximo logro en los aprendizajes y la convivencia de los educandos, dentro del marco del federalismo previsto en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa;
 
-I. Instrumentar la política educativa, y el desarrollo científico y tecnológico en el Estado, tomando en cuenta los lineamientos generales de la autoridad educativa federal, cuando así proceda conforme a la legislación aplicable;
+III. Planear, supervisar y evaluar el desarrollo ordenado del Sistema Educativo Estatal, en todos sus tipos y modalidades, de acuerdo con el Programa Sectorial de Educación Estatal, que desarrollará los lineamientos educativos del Plan Estatal de Desarrollo y se coordinará con las acciones previstas en el Programa Sectorial de Educación Federal;
 
-II. Planear, organizar, dirigir y evaluar el sistema estatal de educación, de acuerdo a la normatividad aplicable;
+IV. Organizar y dirigir el Sistema Educativo Estatal con equidad e inclusión, hacia objetivos que permitan el mejoramiento integral constante y eleven la calidad y la cobertura programada de la educación Inicial, Básica, Media Superior y Superior y eviten su rezago en relación con el sistema nacional, de acuerdo a la distribución de competencias en el marco del federalismo educativo, estableciendo la estructura orgánica y los mecanismos funcionales de coordinación y de concertación pertinentes, para la plena cobertura de los servicios educativos;
 
-III. Planear el desarrollo ordenado del sistema estatal de educación, en todos sus tipos y modalidades, de acuerdo a la normatividad aplicable;
+V. Implementar los procesos de admisión, promoción y reconocimiento del personal docente, directivo o de supervisión en el Estado, de acuerdo a lo previsto por la Ley Reglamentaria del Sistema para la carrera de las maestras y los maestros; así como garantizar la capacitación y actualización del magisterio en el Estado, así como del personal directivo y de supervisión escolar, con el fin de contribuir a su profesionalización y al desarrollo de competencias, así mismo garantizar la capacitación y formación continuas del magisterio en el estado, así como del personal directivo y de supervisión escolar, con el fin de contribuir a su profesionalización y al desarrollo de competencias docentes, incluidas las referidas al aprovechamiento de tecnologías de la información y comunicación;
 
-IV. Organizar el sistema estatal de educación, de acuerdo a la distribución de competencias del federalismo educativo, señaladas en la legislación correspondiente, estableciendo la estructura orgánica y los mecanismos funcionales de coordinación y de concertación pertinentes, para la mejor prestación de los servicios educativos en el Estado;
+VI. Diseñar y aplicar en coordinación con la autoridad educativa federal las políticas y programas tendientes a hacer efectivo el derecho a la educación en el Estado; de manera laica, gratuita, incluyente, pertinente y de calidad, en todos los tipos, niveles y modalidades del Sistema Educativo Estatal, basado en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva;
 
-V. Dirigir el sistema estatal de educación hacia objetivos que eleven la calidad de la educación; logren la cobertura programada de la educación básica y normal y eviten su rezago, en relación al sistema nacional;
+VII. Presidir el Órgano de Gobierno de los organismos descentralizados y desconcentrados del Sector Educación, Ciencia y Tecnología, Cultura y Deporte, así como proponer al Titular del Poder Ejecutivo del Estado de Durango, la creación, cancelación o modificación de dichos organismos conforme al procedimiento legal correspondiente, según sea pertinente, para el eficiente cumplimiento de los programas y proyectos de la Secretaría de Educación y del Sistema Educativo Estatal;
 
-VI. Establecer mecanismos de articulación horizontal y vertical que propicien el desarrollo armónico del sistema estatal de educación;
+VIII. Coordinar a los organismos descentralizados y órganos administrativos desconcentrados que conforme a su decreto de creación impartan educación Básica, Media Superior y Superior realizando el seguimiento y control para la correcta aplicación de los recursos que la Secretaría de Educación del Estado les transfiera;
 
-VII. Hacer ajustes al calendario escolar correspondiente a la educación primaria, a la secundaria, a la normal y demás para la formación de maestros de educación básica, fijado por la Secretaría de Educación Pública, para cada ciclo lectivo;
+IX. Elaborar y proponer a la autoridad educativa federal, los contenidos de los proyectos y programas educativos que contemplen la realidad y el contexto regional y local, para incluirse en los planes y programas de estudio con perspectiva de género y orientación integral para educación Inicial, Básica, Media Superior y Superior;
 
-VIII. Proponer a la Secretaría de Educación Pública, los contenidos regionales para incluirse en planes y programas de educación primaria, secundaria y normal, y además para la formación de maestros de educación básica;
+X. Elevar el nivel académico y la capacidad de enseñanza del magisterio duranguense, mediante el establecimiento de políticas y programas, que permitan fortalecer el Sistema Estatal de Formación, Actualización, Capacitación y Superación Profesional para Profesores de Educación Inicial, Básica, Media Superior, Superior y de Formación Docente, o del Sistema que en su caso se cree para llevar a cabo dichos fines, de acuerdo a los lineamientos y perfiles generales que expida la Secretaría de Educación Pública y el organismo público dependiente del Sistema Nacional de Mejora Continua de la Educación;
 
-IX. Establecer y operar programas de actualización, capacitación y superación del magisterio en ejercicio, de formación de nuevos docentes con perfiles académicos de alto nivel e impulsar la carrera magisterial como un medio para elevar la calidad del servicio educativo, de conformidad con las disposiciones generales de la autoridad educativa federal;
+XI. Establecer sistemas de planeación, supervisión y evaluación pertinentes, así como impulsar el diseño de sistemas informáticos y tecnológicos, que eleven la calidad de la educación a cargo del Gobierno Estatal y de los particulares, en todos sus tipos, modalidades y niveles, con mecanismos de supervisión convenientes, de acuerdo con la Ley de Educación del Estado de Durango y demás disposiciones aplicables;
 
-X. Instrumentar programas en coordinación con la Secretaría de Educación Pública y con otros organismos nacionales o internacionales, para capacitar profesores e investigadores, a fin de lograr elevar la calidad de los servicios educativos en el Estado;
+XII. Otorgar, negar y revocar la autorización o reconocimiento de validez oficial de estudios a los particulares, para impartir educación Inicial, Básica, Media Superior y Superior, de acuerdo con la normatividad aplicable y las disposiciones emitidas por la Secretaría de Educación Pública;
 
-XI. Establecer políticas e implementar programas para elevar la calidad de la educación a cargo del Gobierno Estatal y de los particulares, en todos sus tipos, modalidades y niveles, y establecer los mecanismos de supervisión conveniente, de acuerdo a la legislación aplicable;
+XIII. Organizar y dirigir el Sistema Estatal para el Registro de Títulos y Expedición de Cédulas Profesionales, tanto Estatal como Federal, en coordinación con la Secretaría de Educación Pública;
 
-XII. Incorporar mediante autorización o reconocimiento de validez de estudios, instituciones educativas particulares, en los términos de la legislación correspondiente;
+XIV. Otorgar permisos provisionales para el ejercicio profesional, expedir certificaciones y constancias de estudios previo pago de los derechos correspondientes;
 
-XIII. Otorgar, negar y revocar autorización a los particulares para impartir educación básica obligatoria, normal y la formación de maestros de educación básica, de acuerdo a la normatividad aplicable;
+XV. Expedir constancias, certificaciones y acreditaciones de estudios, otorgar diplomas, títulos y grados académicos de las instituciones educativas del Sistema Educativo Estatal, conforme a las disposiciones legales aplicables;
 
-XIV. Expedir los documentos que certifiquen y acrediten los estudios que se imparten en el Estado, de conformidad con la normatividad aplicable;
+XVI. Otorgar mediante revalidación y equivalencia, validez a los estudios de Primaria, Secundaria, Normal, Media Superior y Superior y además para la formación de docentes de Educación Inicial, Básica y Media Superior, de acuerdo con los lineamientos generales que expida la autoridad educativa federal;
 
-XV. Revalidar y otorgar equivalencias de estudios, de acuerdo a la legislación aplicable y a los lineamientos generales que expida la autoridad educativa federal;
+XVII. Otorgar mediante revalidación, equivalencia y portabilidad, el reconocimiento a los estudios realizados dentro y fuera del Sistema Educativo Nacional de Educación Primaria, Secundaria, Normal, Media Superior y Superior, con base en la norma aplicable en esta materia;
 
-XVI. Llevar un registro de las instituciones educativas correspondientes al sistema estatal de educación;
+XVIII. Firmar los títulos profesionales que expidan las instituciones del Sistema Educativo Estatal, en los términos de la normatividad correspondiente;
 
-XVII. Llevar el registro y control de los profesionales que ejercen en el Estado y organizar el servicio social respectivo, de acuerdo a la normatividad aplicable;
+XIX. Llevar el registro y control de los profesionistas, en el Estado y organizar el servicio social profesional, vigilando el ejercicio de las profesiones, con el objeto de evitar el desempeño profesional sin los antecedentes académicos respectivos, de acuerdo con la legislación aplicable;
 
-XVIII. Elaborar, y en su caso, ejecutar los convenios de coordinación, respecto de las atribuciones concurrentes, así como los de colaboración, que en materia de educación, ciencia y tecnología, celebre el Estado con el gobierno federal; así como los que celebre con los ayuntamientos, y con otras instituciones nacionales o extranjeras;
+XX. Realizar el registro de los colegios de profesionistas y de las instituciones educativas de los niveles Medio Superior y Superior, autorizadas para expedir títulos, diplomas y grados académicos, así como implementar los mecanismos necesarios para la prestación del servicio social estudiantil, con base a la legislación correspondiente;
 
-XIX. Promover permanentemente la investigación pedagógica, que permita que el sistema estatal de educación, alcance niveles altamente competitivos, respecto del sistema nacional y en el orden internacional;
+XXI. Celebrar y ejecutar los convenios de coordinación, respecto de las atribuciones concurrentes, los de colaboración en materia de educación, ciencia, tecnología e innovación que celebre el Estado con el Gobierno Federal y/o otras autoridades educativas de los estados, así como los que celebre con los municipios o con instituciones nacionales o extranjeras y organismos educativos internacionales;
 
-XX. Implementar los programas para el fortalecimiento del espíritu cívico de los duranguenses; considerando los valores de la cultura en el Estado, su historia, tradiciones, sus exponentes en la ciencia y el arte; a fin de insertar la identidad Duranguense en los valores de la mexicanidad;
+XXII. Promover y apoyar la innovación educativa, el conocimiento de las ciencias y humanidades, la enseñanza de las matemáticas, la lectoescritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente, entre otras en el medio escolar la educación artística en el medio escolar (sic), para propiciar el cambio hacia un proyecto educativo dinámico y de integración global participativa;
 
-XXI. Establecer políticas y operar programas para el desarrollo de la investigación educativa, humanística, científica y tecnológica en el Estado;
+XXIII. Informar al Congreso del Estado de Durango, si para ello es requerido, de la situación que guardan los asuntos de la Secretaría de Educación del Estado y del Sistema Educativo Estatal, y en su caso, sobre las iniciativas de Ley correspondientes a la materia educativa;
 
-XXII. Editar libros y producir otros materiales didácticos distintos a los de texto gratuito;
+XXIV. Impulsar la edición y distribución de obras científicas, históricas y literarias sobre temas de interés para el Estado, producir materiales didácticos distintos a los de texto gratuito, así como promover obras editoriales con la participación de intelectuales comprometidos con el desarrollo de la sociedad;
 
-XXIII. Hacer la asignación de becas que se otorgan a estudiantes, pasantes y profesores, en los términos del Reglamento de Becas y demás normatividad aplicable;
+XXV. Promover programas y contenidos relativos a la perspectiva de género y de integración social de personas con capacidades diferentes, con el objetivo de eliminar barreras para el aprendizaje y la participación social en la educación;
 
-XXIV. Promover y coordinar programas de educación para la salud, de mejoramiento ecológico, de combate a la drogadicción, al alcoholismo y a otros problemas de salud social, en el marco de su competencia en coordinación con la Secretaría de Salud;
+XXVI. Asignar becas a educandos, pasantes y educadores, en los términos del Reglamento de Becas y demás normatividad aplicable;
 
-XXV. Participar en los programas interinstitucionales, para fomentar el amor a la patria y el respeto a los símbolos nacionales;
+XXVII. Organizar y promover el acceso, permanencia y participación en los servicios educativos de niñas, niños, adolescentes y jóvenes; así como llevar a cabo acciones tendientes al pleno desarrollo de la juventud y a su incorporación a las tareas estatales, estableciendo para ello sistemas de servicio social, centros de estudio, programas de recreación y de atención a los problemas de los jóvenes, así como crear y organizar para este fin sistemas de enseñanza especial para niños, adolescentes y jóvenes que lo requieran;
 
-XXVI. Establecer un sistema de información computarizado, que permita que la sociedad conozca, oportunamente, el desarrollo y los avances de la educación en el Estado;
+XXVIII. Promover y participar en actos cívicos escolares que fomenten el amor a la patria, el respeto a los símbolos patrios y a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia, en la justicia y la valoración de las tradiciones la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios, las instituciones nacionales y la valoración de las tradiciones y particularidades culturales del Estado, de acuerdo al calendario oficial; así como divulgar programas interinstitucionales que fomenten el amor a la patria;
 
-XXVII. Celebrar convenios con las empresas para los efectos de lo establecido en la fracción XII del apartado A) del artículo 123 de la Constitución Política de los Estado Unidos Mexicanos;
+XIX (SIC). Celebrar convenios con empresas agrícolas, industriales, mineras o de cualquier otra clase de trabajo, para los efectos de lo establecido en el artículo 123, fracción XII párrafo tercero del apartado A) de la Constitución Política de los Estados Unidos Mexicanos y asumir la dirección administrativa de las escuelas establecidas;
 
-XXVIII. Promover la realización de actos cívicos escolares, de acuerdo al calendario oficial;
+XXX. Elaborar programas y realizar campañas de alfabetización, educación comunitaria, educación para adultos y otras modalidades educativas similares, para responder a la demanda educativa de los diversos grupos étnicos, marginales y migratorios, existentes en el Estado;
 
-XXIX. Elaborar programas y realizar campañas de alfabetización, educación comunitaria, educación para adultos y otras modalidades educativas similares, para dar respuesta efectiva a la demanda educativa marginal;
+XXXI. Estimular la disciplina del ejercicio físico y promover la enseñanza y la práctica del deporte en los educandos, así como inculcar la importancia de la actividad física en la salud; y su participación en torneos y justas deportivas estatales, nacionales e internacionales;
 
-XXX. Estimular la disciplina del ejercicio físico y promover la enseñanza y la práctica de los deportes en los educandos, así como su participación en torneos y justas deportivas estatales, nacionales e internacionales;
+XXXII. Promover, por conducto de los Consejos Escolares de Participación Social o su equivalente, la participación de la sociedad en actividades que tengan por objeto mejorar y fortalecer la calidad de la educación pública, así como ampliar la cobertura de los servicios educativos, de acuerdo con la normatividad aplicable. Asimismo impulsar por conducto de los Consejos Técnicos Escolares o el que se establezca en su caso, la formulación de programas de mejora continua que contemplen, de manera integral, la infraestructura, el equipamiento, el avance de los planes y programas educativos, la formación y practicas docentes, la carga administrativa, la asistencia de los educandos, el aprovechamiento académico, el desempeño de las autoridades educativas y los contextos socioculturales;
 
-XXXI. Fomentar la participación organizada y conjunta de maestros, padres de familia y de la sociedad en general para fortalecer y elevar la calidad de la educación, de acuerdo con la normatividad aplicable;
+XXXIII. Emitir y formalizar los actos jurídicos que crean, modifican o extinguen derechos y obligaciones de los docentes de educación Inicial Básica y Media Superior, de conformidad con lo previsto en la Ley Reglamentaria del Sistema para la Carrera de las Maestras y los Maestros;
 
-XXXII. Promover la participación de los particulares y de las organizaciones sociales en el financiamiento de la educación;
+XXXIV. Gestionar ante la Secretaría de Hacienda y Crédito Público y la Secretaría de Educación Pública, la obtención y reasignación de fondos de aportaciones federales, así como de los recursos complementarios para cubrir el pago de servicios personales y gastos de operación derivados del Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo, a fin de fortalecer la gestión presupuestal educativa del Estado ante la Federación, de acuerdo a lo previsto en la Ley de Coordinación Fiscal;
 
-XXXIII. Vigilar y garantizar que cualquier incremento que experimente el servicio educativo, sea de calidad, completo, derivado de la planeación institucional y socialmente justificable;
+XXXV. Promover acciones de coordinación y difusión necesarias para la protección civil y la emergencia escolar, con el apoyo de los Consejos Escolares de Participación Social en la Educación o su equivalente;
 
-XXXIV. Evaluar periódicamente los rendimientos educativos institucionales y globales, de acuerdo a los lineamientos generales que fije la autoridad educativa federal;
+XXXVI. Conducir, en el ámbito de su competencia, las relaciones del Poder Ejecutivo con las autoridades educativas federales y municipales, con el Magisterio en el Estado, con instituciones especializadas en educación, con agrupaciones ciudadanas, organizaciones sociales y demás actores sociales en la materia;
 
-XXXV. Revisar la legislación educativa estatal a fin de actualizarla y orientarla hacia los objetivos de alta calidad y eficiencia que requiere el sistema educativo estatal; y
+XXXVII. Inspeccionar y vigilar los procesos de titulación y obtención de grados académicos de las instituciones educativas públicas y particulares;
 
-XXXVI. Los demás que le fijen expresamente las leyes, reglamentos y otros ordenamientos jurídicos.
+XXXVIII. Ajustar el calendario escolar para cada ciclo lectivo de educación Inicial, Básica, Normal y demás para la formación de maestros de Educación Básica, de conformidad con la autoridad educativa federal;
+
+XXXIX. Coadyuvar en las actividades de capacitación, acompañamiento, monitoreo y evaluación de resultados de los programas federales educativos relacionados con las tecnologías de la información y comunicación, desarrollando sistemas y proyectos tendientes a lograr la excelencia educativa y elevar la calidad de los servicios en las escuelas;
+
+XL. Fomentar la lectura en todo el Estado, especialmente entre la niñez y la juventud, así como coadyuvar con la autoridad educativa federal en la creación de repositorios en bibliotecas, tanto físicas como digitales, dirigidos a fortalecer la identidad colectiva y acrecentar la memoria histórica y cultural nacional, regional, local y comunitaria;
+
+XLI. Promover y coordinar programas de combate a la drogadicción, tabaquismo, alcoholismo y otras adicciones, en el marco de su competencia en coordinación con la Secretaría de Salud; y
+
+XLII. Los demás que le fijen expresamente las leyes, reglamentos y otros ordenamientos jurídicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -2744,3 +2758,23 @@ SEGUNDO. En un plazo máximo de 60 días hábiles posteriores a la fecha de entr
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 
 CUARTO. La reforma propuesta no se contrapone con lo dispuesto en la Ley de Gestión Ambiental Sustentable del Estado de Durango.
+
+P.O. 5 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 194.- QUE CONTIENE REFORMA AL ARTÍCULO 35 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El Reglamento Interior y el Manual de Organización de la Secretaría de Educación del Estado de Durango, deberán reformarse en lo conducente a más tardar en un plazo no mayor de 90 días naturales a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+CUARTO.- La Secretaría de Educación del Estado de Durango, contará con un plazo de 180 días naturales a partir de la publicación del presente decreto, para emitir la normatividad correspondiente, a fin de implementar los procedimientos, métodos, directrices e instancias necesarias, derivadas de las modificaciones al artículo 35 de la Ley Orgánica de la Administración Pública del Estado de Durango, dentro del ámbito de sus atribuciones y de sus Organismos Descentralizados.
+
+QUINTO.- Los procedimientos administrativos iniciados por las autoridades correspondientes con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme a las disposiciones aplicables a su inicio.
+
+P.O. 5 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIO DEL “DECRETO NO. 195.- QUE CONTIENE REFORMAS AL ARTÍCULO 32 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
