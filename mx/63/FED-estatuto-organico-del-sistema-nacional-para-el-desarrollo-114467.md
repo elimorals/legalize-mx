@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-11446
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-05-11"
-last_updated: "2016-05-11"
+last_updated: "2019-12-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-03-28"
 
 ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 11 de mayo de 2016.
 
@@ -1238,3 +1238,37 @@ TERCERO. Las menciones referidas a las demarcaciones territoriales en el present
 CUARTO. Los asuntos pendientes a la entrada en vigor de este Estatuto, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se les haya atribuido la competencia correspondiente.
 
 Se expide en la Ciudad de México, a los 28 días del mes marzo de dos mil dieciséis. La Titular del Sistema Nacional para el Desarrollo Integral de la Familia, Laura Ibernia Vargas Carrillo.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA”.]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el once de mayo de dos mil dieciséis.
+
+Las referencias que contengan todas (sic) disposiciones de jerarquía inferior al presente ordenamiento se entenderán implícitamente aludidas a los términos manejados por el presente Estatuto, sin que se requiera mayor modificación.
+
+Únicamente se derogan las disposiciones normativas de jerarquía inferior al presente ordenamiento en lo que se opongan o contravengan expresamente a sus disposiciones.
+
+La persona Titular del Organismo deberá impulsar, con el apoyo de la Dirección General de Asuntos Jurídicos y las demás unidades administrativas de la Entidad, coordinadas por dicha Dirección General, la actualización progresiva de la normatividad en comento, para su armonización con el presente Estatuto.
+
+TERCERO. Los nombramientos realizados a las personas servidoras públicas que actualmente ocupan la titularidad (sic) las unidades administrativas referidas en el presente Estatuto o del Órgano Interno de Control, mantendrán su vigencia, sin requerir ratificación e independientemente del cambio en la posición de la unidad administrativa a su cargo, dentro de la estructura orgánica del Organismo, o del cambio que haya existido en la denominación, en cuyo caso los nombramientos se entenderán conforme a las denominaciones señaladas en el presente ordenamiento.
+
+Lo anterior sin perjuicio de las facultades que pueden ejercer posterior a la entrada en vigor del presente Estatuto, las instancias correspondientes, respecto de las remociones y nombramientos que les competen.
+
+CUARTO. Los asuntos competencia de la persona Titular de la Oficialía Mayor a que se refiere el artículo 19, fracciones XI, XII y XIII, del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el once de mayo de dos mil dieciséis, serán transferidos y continuarán su trámite por la Dirección General de Profesionalización de la Asistencia Social.
+
+QUINTO. Salvo lo dispuesto en el Artículo Cuarto Transitorio, los asuntos en trámite por las personas titulares de la Oficialía Mayor, la Unidad de Asistencia e Integración Social, la Dirección General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil y la Dirección General de Rehabilitación, continuarán gestionándose hasta su total conclusión por las personas titulares de la Unidad de Administración y Finanzas, la Unidad de Asistencia e Inclusión Social, la Dirección General de Coordinación y Políticas para la Primera Infancia, Familias y Población en Situación de Vulnerabilidad y la Dirección General de Rehabilitación e Inclusión, respectivamente.
+
+SEXTO. Por lo que hace a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, los asuntos en trámite por las personas Titulares de la Dirección General de Representación Jurídica de Niñas, Niños y Adolescentes y la Dirección General de Restitución de Derechos de Niñas, Niños y Adolescentes, continuarán gestionándose hasta su total conclusión por la persona Titular de la Dirección General de Representación Jurídica y Restitución de Derechos de Niñas, Niños y Adolescentes.
+
+SÉPTIMO. Las acciones referidas en la fracción VI del artículo 39 del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado en el Diario Oficial de la Federación el once de mayo de dos mil dieciséis, serán transferidas y continuarán su ejecución por la Dirección General de Recursos Materiales y Servicios Generales.
+
+Dicha transferencia deberá quedar concluida en un plazo no mayor a sesenta días posteriores a la entrada en vigor del presente ordenamiento.
+
+OCTAVO. El “ACUERDO por el que el Titular del Sistema Nacional para el Desarrollo Integral de la Familia delega en el Oficial Mayor, las facultades a que se refieren las fracciones I, V, VII, VIII, X, XVI, XVIII, XXX y XXXI del artículo 10 del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia”, publicado en el Diario Oficial de la Federación el catorce de septiembre de dos mil dieciocho, permanecerá vigente, en sus facultades delegadas en las fracciones homólogas del presente Estatuto, entendiéndose referidas a la persona Titular de la Unidad de Administración y Finanzas, hasta la publicación de aquél que lo sustituya.
+
+NOVENO. En lo relativo al Órgano Interno de Control, se está a lo señalado en el artículo 37, fracción XII, de la Ley Orgánica de la Administración Pública Federal, y lo previsto en el sexto transitorio del “DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal”, publicado en el Diario Oficial de la Federación el treinta de noviembre de dos mil dieciocho, quedando a cargo la de la persona Titular de la Unidad de Administración y Finanzas la coordinación de las acciones respectivas.
