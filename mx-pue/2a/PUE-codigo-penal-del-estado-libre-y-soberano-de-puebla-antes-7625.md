@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2019-11-08"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -4157,9 +4157,11 @@ Se configura el delito de homicidio en razón de parentesco o relación, al priv
 
 Al que cometa el delito a que se refiere el artículo que antecede, se le impondrán de veinte a cincuenta años de prisión.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 337 Bis.
 
-(DEROGADO, P.O. 4 DE ENERO DE 2012)
+Si la víctima fuere mujer, se considerará el delito como feminicidio en términos del artículo 338 de este Código.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2015)</small>
 
@@ -4241,17 +4243,11 @@ Al que hiciere abortar a una mujer, se le aplicarán de uno a tres años de pris
 
 Si el aborto lo causare un médico, cirujano, o partera, además de las sanciones que le correspondan conforme al artículo anterior, se le suspenderá de dos a cinco años en el ejercicio de su oficio o profesión.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 342.
 
-Se impondrán de seis meses a un año de prisión a la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, si concurren las tres circunstancias siguientes:
-
-I.- Que no tenga mala fama;
-
-II.- Que haya logrado ocultar su embarazo;
-
-III.- Que éste no sea fruto de matrimonio.
-
-Faltando alguna de las circunstancias mencionadas, se le impondrán de uno a cinco años de prisión.
+Se impondrán de seis meses a un año de prisión a la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar.
 
 ###### Artículo 343.
 
@@ -6845,10 +6841,20 @@ SEGUNDO. EN LO APLICABLE SE DEBERÁ OBSERVAR LO DISPUESTO EN EL ARTÍCULO DÉCIM
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-8 DE NOVIEMBRE DE 2019.
+P.O. 8 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 309 Y ADICIONA UN SEGUNDO PÁRRAFO AL 323 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LOS SIGUIENTES ORDENAMIENTOS: LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA, LA LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA, EL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y EL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
