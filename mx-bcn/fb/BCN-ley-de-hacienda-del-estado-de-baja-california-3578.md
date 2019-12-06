@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2019-01-18"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -1681,95 +1681,203 @@ VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
 ### CAPITULO XIX. Del Impuesto sobre Loterías, Rifas, Sorteos, Juegos Permitidos y Concursos
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+#### SECCION PRIMERA. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS CON APUESTAS
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 156
 
-8.- Están obligadas al pago del impuesto sobre loterías, rifas, sorteos, juegos permitidos y concursos que se celebren en el Estado, las personas físicas o las morales que organicen loterías, rifas, sorteos, juegos con apuestas permitidas y concursos de toda clase, aún cuando por dichos eventos no se cobre cantidad alguna que represente el derecho a participar en los mismos.
+8.- Están obligados al pago del impuesto previsto en esta Sección las personas que realicen erogaciones dentro del territorio del Estado de Baja California, para participar en juegos con apuestas.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas independientemente del nombre con el que se les designe, aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
 
-Asimismo quienes obtengan los premios derivados o relacionados con las actividades de juegos con apuestas permitidas.
+Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
 
-Para efectos de este Capítulo, cuando en el mismo se haga mención a juegos con apuestas, se entenderá que incluye a las apuestas permitidas, así como a los establecimientos o agencias que reciban información con fines de lucro, en los que se apuesten sobre carreras de caballos, galgos o cualquier otro evento.
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos.
 
-El pago de este impuesto no libera de la obligación de obtener los permisos o autorizaciones correspondientes.
+Igualmente, quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas, así como a los establecimientos o agencias que reciban información con fines de lucro en los que se apuesten sobre carreras de caballos, galgos o cualquier otro evento.
 
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+Se incluyen como erogaciones para participar en juegos con apuestas, las cantidades que entreguen a operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
 
-###### ARTICULO 156
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en Moneda Nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
 
-9.- No se pagará el impuesto establecido en este Capítulo por las actividades a que se refiere el Artículo anterior, las que realicen los organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia o de beneficencia, debidamente autorizada por las Leyes de la materia, la Federación, Estado, Municipios, Lotería Nacional para la Asistencia Pública, Partidos Políticos Nacionales, así como las loterías, rifas y concursos en los que los premios sean Bonos del Ahorro Nacional.
-
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 156
 
-10.- Quienes organicen loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase, calcularán el impuesto aplicando la tasa que fije la Ley de Ingresos del Estado, al valor nominal de los billetes, boletos, apuestas y demás comprobantes que permitan participar en dichos eventos.
+8 BIS.- El impuesto se calculará aplicando la tasa del 10% al monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los mismos.
 
-Por lo que se refiere a las personas que organicen las actividades que se consignan en el presente capítulo, que emitan billetes, boletos, contraseñas u otros documentos, cualquiera que sea la denominación que se les dé, en los cuales no se exprese el valor de los mismos o sean distribuidos gratuitamente el impuesto se calculará aplicando la tasa del impuesto al valor total de los premios.
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refiere el artículo 156-8 o el uso o acceso a las máquinas a que se refiere el propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
 
-El impuesto a que se refiere este artículo no dará lugar a incremento en los precios señalados por los contribuyentes, ni se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-Tratándose de las personas que obtengan los premios derivados o relacionados con las actividades de juegos con apuestas permitidas, calcularán el impuesto aplicando al valor del premio la tasa que fije la Ley de Ingresos del Estado.
-
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 156
 
-11.- El impuesto a que se refiere este Capítulo, se causará en el momento en que se entreguen a los participantes los billetes, boletos y demás comprobantes, que permitan participar en loterías, rifas, sorteos, juegos permitidos con apuestas o concursos de toda clase.
+8 TER.- El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario distinto.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-Tratándose de las personas que obtengan premios derivados o relacionados con las actividades de juegos con apuestas permitidas, el impuesto se causará en el momento que los mismos les sean pagados o entregados por los organizadores de dichos eventos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 156
 
-12.- Para los efectos de este Capítulo se considerará como valor de las loterías, rifas, sorteos y concursos de toda clase la cantidad que se cobre o reciba por el boleto o billete de participación.
+8 QUATER.- El operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos recaudará el impuesto para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas a más tardar el día 25 del mes de calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
 
-Tratándose de las personas que organicen juegos con apuestas permitidas se considerará como valor de las mismas la cantidad que se cobre o reciba por el billete o boleto que permita la participación o apuesta, deduciéndose únicamente a dicha base gravable el valor del premio que se obtenga.
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en este capítulo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-###### ARTICULO 156
-
-13.- Los contribuyentes a que se refiere el Primer Párrafo del Artículo 156-8, tendrán las siguientes obligaciones:
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
-
-I.- Presentar declaraciones mensuales a más tardar el día veinticinco del mes siguiente a aquel al que corresponda el impuesto causado.
-
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1992)</small>
-
-II.- Llevar contabilidad conforme al Código Fiscal del Estado y un registro específico de las operaciones relativas a este impuesto.
-
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2000)</small>
-
-III.- Presentar ante la autoridad fiscal, la licencia o permiso otorgado por las autoridades competentes y solicitar autorización de boletos ante la propia Secretaría de Planeación y Finanzas, previamente a la iniciación de sus actividades o a la realización del evento, y
-
-> <small>(ADICIONADA, P.O. 10 DE ENERO DE 1992)</small>
-
-IV.- Manifestar ante la autoridad fiscal competente cualquier modificación de las bases para la celebración de loterías, rifas, sorteos, juegos permitidos con apuestas y concursos, dentro de los cinco días siguientes a que esto ocurra.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-V.- Retener el Impuesto que corresponda a las personas que obtengan los premios a que se refiere el Segundo Párrafo del Artículo 156-8 y enterarlo conjuntamente con la declaración mensual a que se refiere la Fracción I de este Artículo.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
-
-VI.- Proporcionar, cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio, en los casos que se preven en este Capítulo.
-
-> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1992)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 156
 
-14.- Quienes celebren loterías, rifas, sorteos, juegos permitidos con apuestas y concursos de toda clase en forma accidental por los que deban pagar el impuesto en los términos de este Capítulo, presentarán declaraciones en las oficinas autorizadas dentro de los cinco días siguientes a aquel en que se celebren dichos eventos.
+9.- El impuesto previsto en esta sección se causará y pagará con independencia de los impuestos a que se refiere la Sección Segunda de este Capítulo y el Capítulo XVII de esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+9 BIS.- Los operadores de los establecimientos en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 156-8 QUATER, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+9 TER.- Serán responsables solidarios del impuesto, en adición al operador del establecimiento en el que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o morales, cuando no sean ellas quienes reciban los pagos del contribuyente:
+
+I. Las que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 156-8;
+
+II. Los arrendatarios de los establecimientos en los que se realicen los juegos o concursos a que se refiere el artículo 156-8;
+
+III. Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto, y
+
+IV. Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+#### SECCION SEGUNDA. DEL IMPUESTO POR LA REALIZACIÓN DE JUEGOS CON APUESTAS Y SORTEOS
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+10.- Es objeto de este impuesto la realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio del Estado.
+
+Quedan comprendidos en los juegos con apuestas, aquéllos en los que solo se reciban, capten, crucen o exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+10 BIS.- Son sujetos de este impuesto las personas físicas, morales o unidades económicas que realicen los actos o actividades a que se refiere el artículo anterior, ya sea que organicen, administren, exploten o celebren juegos con apuestas y sorteos.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+10 TER.- El impuesto se calculará aplicando la tasa del 6% al valor de los actos o actividades realizados, a que se refiere el artículo 156-10.
+
+Se considerará como valor el total de las cantidades efectivamente percibidas de los participantes por dichas actividades. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas.
+
+Tratándose de los juegos o sorteos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes en Moneda Nacional que amparen dichos medios.
+
+Cuando en algún sorteo el premio ofrecido se encuentre contenido de manera referenciada y oculta en bienes cuya adquisición otorgue el derecho a participar en dicho sorteo, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en ese sorteo.
+
+Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente.
+
+Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
+
+Los valores a que se refiere este artículo se podrán disminuir con el monto de los siguientes conceptos:
+
+I. Los premios efectivamente pagados o entregados conforme a las disposiciones aplicables. Tratándose de premios diversos al efectivo, el monto que se podrá disminuir será el que corresponda al valor estipulado en el permiso otorgado por la autoridad competente o, en su defecto, el valor de mercado.
+
+II. Las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en contabilidad y, tratándose de juegos o sorteos en los que se apueste, también se registren en el sistema central de apuestas. Cuando el premio incluya la devolución de la cantidad efectivamente percibida del participante, dicho concepto se disminuirá únicamente como premio.
+
+Cuando el monto de los conceptos mencionados en las fracciones anteriores sea superior a los valores de las actividades a que se refiere el artículo 156-10 de esta Ley, correspondientes al mes de que se trate, la diferencia se podrá disminuir en los meses siguientes hasta agotarse.
+
+Se considerará también como valor de los actos o actividades realizados, el total de las cantidades efectivamente percibidas por los operadores de los establecimientos de los participantes por dichas actividades, por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+10 QUATER.- El impuesto se calculará mensualmente y se pagará a más tardar el día 25 del mes siguiente al en que corresponda dicho pago. Los pagos mensuales se realizarán mediante la presentación de una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas y tendrán el carácter de definitivos.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+11.- No se pagará el impuesto a que se refiere el artículo 156-10, en los siguientes supuestos:
+
+I. Cuando se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley del Impuesto sobre la Renta, a que se refiere el artículo 79, fracciones VI, X y XVII de dicha Ley, siempre que destinen la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas;
+
+II. Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio, y
+
+III. Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir un bien o contratar un servicio, siempre que el realizador cumpla los requisitos siguientes:
+
+a) No obtenga más de diez permisos para celebrar sorteos en un año de calendario.
+
+b) El monto total de los premios ofrecidos en un año de calendario no exceda el 3% de los ingresos obtenidos en el año inmediato anterior.
+
+Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos en dicho ejercicio para los efectos de lo dispuesto en este inciso. En el supuesto de que el monto de los premios ofrecidos exceda el por ciento a que se refiere el párrafo anterior, se pagará el impuesto que corresponda de conformidad con lo dispuesto en este capítulo con la actualización y los recargos respectivos.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+#### SECCION TERCERA. DEL IMPUESTO POR OBTENCIÓN DE PREMIOS
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+12.- Es objeto de este Impuesto la percepción de premios en el territorio de Estado, derivados de la celebración de loterías, rifas, sorteos y concursos de toda clase.
+
+También es objeto de este impuesto la percepción de premios derivados de la celebración de juegos con apuestas. Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas, independientemente del nombre con el que se les designe, aquellos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
+
+Igualmente, quedan comprendidos en los juegos con apuestas, aquéllos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas, así como a los establecimientos o agencias que reciban información con fines de lucro, en los que se apuesten sobre carreras de caballos, galgos, gallos o cualquier otro evento.
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+12 BIS.- Son sujetos de este impuesto las personas físicas, morales o unidades económicas que obtengan los ingresos referidos en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+12 TER.- El impuesto por los premios derivados de loterías, rifas, sorteos, concursos y juegos con apuestas se calculará sobre el valor del premio correspondiente a cada boleto o billete, sin deducción alguna, aplicando tasa del 6%.
+
+Cuando la persona que otorgue el premio pague por cuenta del contribuyente el impuesto que esta ley establece, el importe de dicho impuesto se considerará como ingreso de los comprendidos en este capítulo. No se pagará el impuesto establecido en este capítulo por la obtención de reintegros.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+13.- El impuesto que resulte de aplicar la tasa indicada en el artículo anterior, será retenido por las personas que paguen los premios, quienes deberán enterarlo a la Secretaría de Hacienda del Estado, dentro de los 25 días siguientes al en que realicen la retención. Lo anterior independientemente de que se trate de administradores, organizadores o anfitriones de algún establecimiento donde se lleven a cabo algunos de los juegos mencionados en el artículo anterior.
+
+Los Organismos Públicos Descentralizados de la Administración Pública Federal aunque conforme a otras Leyes o Decretos no causen impuestos locales o estén exentos de ellos, deberán efectuar las retenciones de este impuesto y enterarlo de acuerdo al párrafo anterior.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 156
+
+14.-Quienes entreguen los premios a que se refiere este capítulo, además de efectuar las retenciones de este impuesto, tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción en el Registro Estatal de Contribuyentes de la Secretaría de Hacienda del Estado, en su carácter de retenedores, utilizando para tales efectos las formas aprobadas. Las personas morales estarán obligadas a entregar una copia del acta o documento constitutivo;
+
+II. Proporcionar, cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio, y
+
+III. Conservar la documentación relacionada con las constancias y las retenciones de este impuesto, por plazo de cinco años, a disposición de la Secretaría de Hacienda del Estado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 31 DE DICIEMBRE DE 2010)</small>
+
+### CAPITULO XX. Del Impuesto Estatal sobre Tenencia o Uso de Vehículos
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156
 
@@ -2083,10 +2191,6 @@ Diciembre 0.08
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
-### CAPITULO XX. Del Impuesto Estatal sobre Tenencia o Uso de Vehículos
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2010)</small>
-
 ###### ARTICULO 156
 
 25.- Cuando el contribuyente del impuesto estatal sobre tenencia o uso de vehículos sufra el robo o pérdida total por accidente, pagará el impuesto correspondiente en proporción al número de meses transcurridos hasta dicha circunstancia, siempre y cuando quede debidamente acreditada la misma ante la autoridad competente; sin que dicha circunstancia origine el derecho de solicitar la devolución o compensación del impuesto, en caso de haberse cubierto el mismo con anterioridad al robo o pérdida total del vehículo.
@@ -2166,6 +2270,12 @@ Los que tengan más de un establecimiento, deberán presentar la información a 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2011)</small>
+
+### CAPITULO XXI. DEL IMPUESTO ESTATAL A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 156
 
@@ -2258,12 +2368,6 @@ II. Presentar las declaraciones relativas al impuesto previsto en el presente ca
 III. Proporcionar la información que en relación con este impuesto se les solicite en las declaraciones respectivas.
 
 IV. Registrar la obligación de pago del presente impuesto y los establecimientos en los que se realicen las actividades gravadas, ante la Recaudación de Rentas del Estado respectiva, dentro de los 15 días siguientes a que inicie operaciones o a que empiece a enajenar las bebidas señaladas en el artículo 156-33.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
-
-### CAPITULO XXI. DEL IMPUESTO ESTATAL A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3264,3 +3368,27 @@ P.O. 18 DE ENERO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 280 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 4, 10 Y 13 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 23 MEDIANTE EL CUAL SE REFORMA EL CAPÍTULO XIX, SE ADICIONAN LAS SECCIONES PRIMERA, SEGUNDA, TERCERA Y LOS ARTÍCULOS 156-8 BIS, 156-8 TER, 156-8 QUATER, 156-9 BIS, 156-9 TER, 156-10 BIS, 156-10 TER, 156-10 QUATER, 156-12 BIS, 156-12 TER Y SE REFORMAN LOS ARTÍCULOS 156-8, 156-9, 156-10, 156-11, 156-12, 156-13, 156-14, DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente iniciativa de decreto deberá de ser publicada en el Periódico Oficial del Estado y entrará en vigor el 01 de Enero del 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Hacienda del Estado realizará las acciones administrativas pertinentes para efecto de elaborar los formatos institucionales a través de los cuales los sujetos obligados enteraran los impuestos previstos en la presente iniciativa de decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Hacienda, preverá en la Ley de Ingresos de Estado para el ejercicio fiscal 2020, los impuestos previstos por la presente iniciativa de decreto, así como los ingresos proyectados.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Hacienda preverá en el presupuesto de egresos del ejercicio fiscal 2020 una campaña informativa respecto a las nuevas obligaciones fiscales en el Estado derivadas de la presente iniciativa de decreto, un programa integral de capacitación al personal responsable en el estado respecto al procedimiento de entero y cobro de los impuestos previsto por la presente iniciativa de decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Hacienda realizará las prevenciones financieras necesarias en el ejercicio fiscal 2020, para contar con una plataforma digital eficiente de cobro de los impuestos previstos en la presente iniciativa de decreto.
