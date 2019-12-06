@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2019-11-22"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -1309,6 +1309,10 @@ LIII. Nombrar al Titular de la Fiscalía Especializada en Delitos por Hechos de 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JULIO DE 2017)</small>
 
 LIV. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los demás ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+De conformidad a lo que disponga su ley orgánica, el Congreso del Estado, tratándose de expedición, abrogación o reformas de leyes o decretos en materia municipal, deberá notificarlo a los Ayuntamientos.
 
 ###### Artículo 68.
 
@@ -3784,6 +3788,10 @@ Los menores tienen derecho a una vida sana, a la salud, a la alimentación, a la
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a su salud física y mental. Las Leyes deberán ampararlos desde su concepción y determinarán los apoyos para su protección a cargo de las instituciones públicas.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+La Patria Potestad es el conjunto de derechos y deberes recíprocos, reflejo de la filiación, que corresponde por una parte a los padres y en su defecto a los abuelos y por la otra parte a los descendientes niñas o niños no emancipados, cuyo objeto es su desarrollo integral, la guarda de su persona y de sus bienes, así como su asistencia y representación legal. Es una función de interés público que se ejerce atendiendo al interés superior de la infancia, por lo tanto, dicha autoridad no podrá ser menoscabada, limitada ni suspendida sino mediante un mandamiento judicial, decretado fundadamente por un Juez, con conocimiento de causa y después de que los involucrados puedan ser oídos y vencidos en juicio, salvo lo dispuesto en las disposiciones aplicables, y los casos en que niños, niñas y adolescentes sean colocados en una situación de riesgo inminente e inmediato en la que se vean vulnerados sus derechos, debiendo actuar la autoridad competente de manera inmediata, urgente y expedita garantizando el interés superior de la infancia, mediante los mecanismos establecidos en la Ley de la Materia.
+
 > <small>(ADICIONADO, P.O. 13 DE ENERO DE 1989)</small>
 
 El Estado realizará una política de previsión, tratamiento, rehabilitación e integración de los minusválidos, a los que prestará la atención especializada que requieran.
@@ -5329,3 +5337,17 @@ El plan de trabajo a que se refiere el párrafo anterior, se deberá implementar
 DÉCIMO PRIMERO.- El Congreso del Estado, el Poder Judicial y el Poder Ejecutivo a través de la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas, en el ámbito de sus respectivas competencias, determinarán las adecuaciones presupuestarias necesarias para dotar de los recursos humanos, financieros y materiales correspondientes, para el cumplimiento del presente decreto, en términos de las disposiciones aplicables.
 
 DÉCIMO SEGUNDO.- Se derogan las disposiciones que se opongan a este decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 386.- SE ADICIONA UN PÁRRAFO FINAL AL ARTÍCULO 67 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
+
+Segundo. Se derogan las disposiciones legales que se opongan al presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 387.- SE ADICIONA UN NUEVO PÁRRAFO CUARTO AL ARTÍCULO 173, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
