@@ -4,7 +4,7 @@ identifier: "VER-ley-del-ejercicio-profesional-para-el-estado-de-veracruz-de-910
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-24"
-last_updated: "2016-12-30"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 24 de diciembre de 1963.
 
@@ -47,7 +47,9 @@ LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 Esta Ley es de orden público e interés social y sus disposiciones tienen por objeto regular el ejercicio de la profesión en la Entidad Veracruzana.
 
-Se entiende por título profesional el documento expedido por las instituciones del Estado o descentralizadas, y por instituciones particulares cuyos estudios tengan reconocimiento de validez oficial, a favor de la persona que haya concluido los estudios correspondientes o demostrado tener los conocimientos necesarios de conformidad con esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Se entiende por título profesional el documento en formato impreso o electrónico expedido por las instituciones del Estado o descentralizadas, y por instituciones particulares cuyos estudios tengan reconocimiento de validez oficial, a favor de la persona que haya concluido los estudios correspondientes, o demostrado tener los conocimientos necesarios de conformidad con esta Ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
 
@@ -127,9 +129,15 @@ XXXI. Las demás profesiones establecidas o que hayan sido comprendidas por Leye
 
 El Ejecutivo del Estado expedirá los acuerdos necesarios para deslindar el campo de acción de cada profesión y los límites para el ejercicio de éstas.
 
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 5.
 
-Para el ejercicio de una o varias especialidades, se requiere autorización del Departamento de Profesiones quien la expedirá al probársele previamente: 1.- Haber obtenido título relativo a una profesión en los términos de esta ley. 2.- Comprobar en forma idónea, haber realizado estudios especiales de perfeccionamiento técnico-científico, en la ciencia o rama de la ciencia de que se trate.
+Para el ejercicio de una o varias especialidades, se requiere autorización de la Coordinación de Profesiones, quien la expedirá al probársele previamente:
+
+I. Haber obtenido título relativo a una profesión en los términos de esta Ley; y
+
+II. Comprobar en forma idónea, haber realizado estudios especiales de perfeccionamiento técnico científico, en la ciencia o rama de la ciencia de que se trate.
 
 ###### ARTICULO 6.
 
@@ -151,13 +159,17 @@ Para obtener un título profesional es indispensable acreditar que se han cumpli
 
 #### SECCION I. TITULOS EXPEDIDOS EN EL ESTADO
 
-> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 9.
 
-La expedición de los títulos profesionales que emitan las instituciones que dependan del Gobierno del Estado o que se encuentren sectorizadas a éste, corresponde al secretario de Educación y Cultura, previa certificación de la Dirección General de Evaluación y Control Educativo de la Secretaría.
+La expedición de los títulos profesionales, diplomas de especialidad y grados académicos que emitan las instituciones que dependan del Gobierno del Estado o que se encuentren sectorizadas a éste, corresponde al Secretario de Educación, previa certificación de la Unidad de Planeación, Evaluación y Control Educativo de la Secretaría de Educación de Veracruz.
 
-En el caso de la expedición de los títulos profesionales que emitan las instituciones de educación superior autónomas y escuelas particulares, se estará a lo dispuesto en su legislación interna.
+En el caso de la expedición de los títulos profesionales, diplomas de especialidad y grados académicos que emitan las instituciones de educación superior autónomas, se estará a lo dispuesto en su legislación interna.
+
+Para la expedición de los títulos profesionales que emitan las escuelas particulares, se estará a lo dispuesto por la autoridad educativa que hubiese otorgado el Acuerdo de Reconocimiento de Validez Oficial de Estudios.
+
+Las autoridades educativas en el ámbito de su competencia, podrán generar y diseñar sus propios formatos impresos de títulos profesionales.
 
 ###### ARTICULO 10.
 
@@ -167,19 +179,11 @@ En el caso de la expedición de los títulos profesionales que emitan las instit
 
 ###### ARTICULO 11.
 
-Los títulos profesionales expedidos por las autoridades de otro Estado, serán registrados en éste, siempre que su otorgamiento se haya sujetado a sus leyes respectivas, de conformidad con la fracción V del artículo 121 de la Constitución Federal.
+(DEROGADO, G.O. 6 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 12.
 
-Para el efecto del artículo anterior, el Departamento de Profesiones, de acuerdo con esta Ley exigirá la comprobación de:
-
-I.- La existencia del plantel.
-
-II.- La identidad del profesional.
-
-III.- Haber cursado y aprobado, el profesional los estudios primarios, secundarios, preparatorios o normales, en su caso, y profesionales.
-
-IV.- En su caso, haber sido aprobado en el examen profesional respectivo.
+(DEROGADO, G.O. 6 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 13.
 
@@ -187,35 +191,39 @@ Por ningún concepto se registrarán títulos, ni se revalidarán estudios de aq
 
 #### SECCION III. REGISTRO DE TITULOS EXPEDIDOS EN EL EXTRANJERO
 
-> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 14.
 
-Los extranjeros podrán ejercer en el Estado las profesiones que regula la presente Ley, siempre que lo autorice el Departamento de Profesiones.
+Los extranjeros podrán ejercer en el Estado las profesiones que regula la presente Ley, siempre que lo autorice la Coordinación de Profesiones.
 
 ###### ARTICULO 15.
 
 Los extranjeros que posean título de cualesquiera de las profesiones que comprenda esta Ley, sólo podrán:
 
-I.- Ser profesores de especialidades que aún no se enseñen o en las que acrediten indiscutible y señalada competencia, en concepto del Departamento de Profesiones.
+> <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+I. Ser profesores de especialidades que aún no se enseñen o en las que acrediten indiscutible y señalada competencia, en concepto de la Coordinación de Profesiones.
 
 II.- Ser consultores o instructores destinados al establecimiento, organización o instalación de planteles de enseñanza civil o militar, y laboratorios o institutos de carácter esencialmente científico; y
 
 III.- Ser directores técnicos en la explotación de los recursos naturales del Estado, con las limitaciones que establece la Ley Federal del Trabajo y demás relativas.
 
-### CAPITULO IV. DEL DEPARTAMENTO DE PROFESIONES
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1996)</small>
+### CAPITULO IV. DE LA COORDINACIÓN DE PROFESIONES
+
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 16.
 
-El Departamento de profesiones de la Secretaría de Educación y Cultura se encargará de la vigilancia del ejercicio profesional y será el órgano de conexión entre el Estado y los Colegios Profesionales.
+La Coordinación de Profesiones de la Secretaría de Educación de Veracruz se encargará de la vigilancia del ejercicio profesional y será el órgano de conexión entre el Estado y los Colegios de Profesionales.
 
-> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 17.
 
-Son facultades y obligaciones del Departamento de Profesiones:
+Son facultades y obligaciones de la Coordinación de Profesiones:
 
 I.- Autorizar a los extranjeros el ejercicio de las profesiones que regula la presente Ley;
 
@@ -223,9 +231,13 @@ II.- Llevar a cabo el registro de los Colegios de Profesionales y la cancelació
 
 III.- Expedir autorización a los pasantes y profesionales cuyo título se encuentre en trámite para ejercer en la rama correspondiente;
 
-IV.- Ordenar la cancelación y en su caso, la reposición de la cédula profesional cuyo extravío se acredite fehacientemente; y cuando se trate de un título profesional solicitará a la escuela o institución que lo hubiere expedido, una certificación que lo sustituya para los efectos del registro; y
+> <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
-V.- Las demás que fijen las leyes, el Reglamento Interior de la Secretaría de Educación y Cultura y las demás disposiciones relativas y aplicables.
+IV. Registrar ante la Dirección General de Profesiones de la Secretaría de Educación Pública, los títulos profesionales electrónicos de las escuelas públicas y particulares, dependientes y sectorizadas a la Secretaría de Educación de Veracruz, y
+
+> <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+V. Las demás que fijen las leyes, el Reglamento Interior de la Secretaría de Educación de Veracruz y las demás disposiciones relativas y aplicables.
 
 ### CAPITULO V. DEL EJERCICIO PROFESIONAL
 
@@ -243,7 +255,9 @@ I.- Ser mexicano por nacimiento o naturalización, y estar en pleno goce y ejerc
 
 II.- Poseer título legalmente expedido y debidamente registrado de acuerdo con esta Ley.
 
-III.- Obtener en el Departamento de Profesiones patente de ejercicio.
+> <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+III. Obtener ante la Dirección General de Profesiones de la Secretaría de Educación Pública, patente de ejercicio.
 
 IV.- Para los profesionales no avecindados en el Estado, sólo se requiere la presentación de su patente de ejercicio expedida por la Dirección General de Profesiones, o por la correspondiente Dependencia, de otra Entidad.
 
@@ -265,9 +279,11 @@ Las autoridades judiciales y las que conozcan de asuntos contencioso-administrat
 
 El mandato para asunto judicial o contencioso-administrativo determinado, sólo podrá ser otorgado en favor de profesionales con título debidamente registrado en los términos de esta Ley.
 
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 21.
 
-En materia penal, el acusado podrá ser oído en defensa por sí o por medio de personas de su confianza o por ambos según su voluntad. Cuando la persona o personas de la confianza del acusado, designados como defensores no sean abogados, se le invitará para que designe, además, un defensor con título. En caso de que no hiciera uso de este derecho, se le nombrará al defensor de oficio, que en todo caso deberá ser titulado.
+En materia penal, el acusado podrá ser oído en defensa por un licenciado en derecho o abogado titulado, con cédula profesional. En caso de que no hiciera uso de este derecho, se le nombrará un defensor público que en todo caso deberá ser titulado.
 
 ###### ARTICULO 22.
 
@@ -279,7 +295,9 @@ Las personas que sin tener título profesional legalmente expedido actúen como 
 
 La calidad de pasante la adquiere el estudiante que habiendo cursado y aprobado la totalidad de asignaturas que para cada carrera señalen los planes de estudio vigentes de las instituciones de educación superior y demás escuelas, haya cumplido con los demás requisitos y pruebas que establezca la legislación aplicable.
 
-En cada caso se extenderá al pasante una credencial para ejercer en la que se precise el tiempo que gozará de tal autorización. Sólo el secretario de Educación y Cultura, en casos excepcionales, podrá extender una prórroga a dicha autorización, y una vez concluido dicho término ésta quedará automáticamente anulada.
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+En cada caso se extenderá al pasante una credencial para ejercer su profesión, en la que se precise el tiempo que gozará de tal autorización. Sólo el Secretario de Educación, en casos excepcionales, podrá extender una prórroga a dicha autorización, y una vez concluido dicho término ésta quedará automáticamente anulada.
 
 ###### ARTICULO 24.
 
@@ -339,9 +357,11 @@ Los profesionales que presten sus servicios al Gobierno Federal o del Estado, po
 
 El anuncio o la publicidad que un profesional haga de sus actividades no deberá rebasar las normas que establezca el Colegio respectivo. En todo caso el profesional deberá expresar la institución docente donde hubiere obtenido su título.
 
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 35.
 
-Para los efectos a que se contrae la fracción VII del artículo 17 de esta Ley, las autoridades judiciales deberán comunicar oportunamente al Departamento de Profesiones las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional, cuando éstas hayan causado ejecutoria.
+Para los efectos a que se contrae la fracción VII del artículo 17 de esta Ley, las autoridades judiciales deberán comunicar oportunamente a la Coordinación de Profesiones las resoluciones que dicten sobre inhabilitación o suspensión en el ejercicio profesional, cuando éstas hayan causado ejecutoria.
 
 ### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONALES
 
@@ -365,7 +385,9 @@ I.- Tener treinta socios como mínimo;
 
 II.- Cumplir con los requisitos que en materia de asociaciones y sociedades establece el Código Civil vigente en el Estado;
 
-III.- Exhibir ante el departamento de Profesiones los siguientes documentos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+III.- Exhibir ante la Coordinación de Profesiones los siguientes documentos:
 
 a).- Testimonio de la escritura pública de protocolización del acta constitutiva y de los estatutos que rijan, así como una copia simple de ambos documentos; y
 
@@ -405,13 +427,17 @@ e).- Fomentar la cultura y las relaciones con los Colegios similares del país o
 
 f).- Prestar la más amplia colaboración al Poder Público como cuerpos consultores cuando aquél lo solicita;
 
-g).- Representar a sus miembros o asociados ante el Departamento de Profesiones;
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
-h).- Formular los Estatutos del Colegio depositando un ejemplar en el mismo Departamento;
+g). Representar a sus miembros o asociados ante la Coordinación de Profesiones;
 
-> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
-i).- Presentar al Departamento de Profesiones una lista de peritos profesionales;
+h). Formular los Estatutos del Colegio depositando un ejemplar en la misma Coordinación;
+
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+i). Presentar a la Coordinación de Profesiones una lista de peritos profesionales;
 
 j).- (DEROGADO, G.O. 8 DE JULIO DE 2002)
 
@@ -433,21 +459,27 @@ Para los efectos de esta Ley se entiende por Servicio Social la actividad de car
 
 El servicio social tendrá como objetivos fundamentales:
 
-I. Contribuir a la satisfacción de necesidades sociales en las distintas regiones del Estado, bajo la coordinación del Departamento de Profesiones;
+> <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+I. Contribuir a la satisfacción de necesidades sociales en las distintas regiones del Estado, bajo la sinergia de la Coordinación de Profesiones;
 
 II. Fomentar en los estudiantes una conciencia de responsabilidad social, así como una actitud reflexiva, crítica y constructiva ante el entorno social; y
 
 III. Contribuir y auxiliar a los estudiantes que a través de las nuevas tecnologías cursan bachillerato o carrera universitaria en línea, bajo la coordinación del Instituto Consorcio Clavijero.
 
-> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 45.
 
-La prestación del servicio social dentro del territorio del Estado será por un término no menor de seis meses ni mayor de dos años. No se computará el tiempo en que por enfermedad u otra causa justificada, a juicio del Departamento de Profesiones, se permanezca fuera del lugar en donde deba prestarse.
+La prestación del servicio social dentro del territorio del Estado será por un término no menor de seis meses ni mayor de dos años. No se computará el tiempo en que por enfermedad u otra causa justificada, a juicio de la Coordinación de Profesiones, se permanezca fuera del lugar en donde deba prestarse.
 
-El Departamento de Profesiones podrá autorizar la prestación del servicio social fuera del territorio del Estado cuando medie convenio al respecto entre la institución educativa estatal, privada o de gobierno, en la que curse o haya cursado sus estudios el interesado y aquella de otra entidad federativa en la que existan condiciones idóneas para ello.
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
-Tendrán derecho a ser exentados de la prestación del servicio social los estudiantes o pasantes que acrediten, ante el Departamento de Profesiones, tener:
+La Coordinación de Profesiones podrá autorizar la prestación del servicio social fuera del territorio del Estado cuando medie convenio al respecto entre la institución educativa estatal, privada o de gobierno, en la que curse o haya cursado sus estudios el interesado y aquella de otra entidad federativa en la que existan condiciones idóneas para ello.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Tendrán derecho a ser exentados de la prestación del servicio social los estudiantes o pasantes que acrediten, ante la Coordinación de Profesiones, tener:
 
 I. Más de cincuenta años de edad;
 
@@ -505,11 +537,11 @@ El hecho de que alguna persona se atribuya el carácter de profesional sin tener
 
 (DEROGADO, G.O. 8 DE JULIO DE 2002)
 
-> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 57.
 
-El Departamento de Profesiones, previa audiencia de parte interesada, cancelará las inscripciones de títulos profesionales, instituciones educativas, Colegio de Profesionales o demás actos que deban registrarse en los siguientes casos:
+La Coordinación de Profesiones, previa audiencia de parte interesada, cancelará las inscripciones de títulos profesionales, instituciones educativas, Colegios de Profesionales o demás actos que deban registrarse en los siguientes casos:
 
 I.- Cuando se compruebe que el Título no fue expedido con los requisitos que esta Ley establece;
 
@@ -519,7 +551,9 @@ III.- Por error o falsedad en los documentos inscritos;
 
 IV.- Por disolución del Colegio de Profesionales; y
 
-V.- Las demás que establezcan las Leyes, el Reglamento Interior de la Secretaría de Educación y Cultura y demás disposiciones relativas y aplicables.
+> <small>(REFORMADA, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+V.- Las demás que establezcan las Leyes, el Reglamento Interior de la Secretaría de Educación de Veracruz y demás disposiciones relativas y aplicables.
 
 No se afectará la validez de los títulos otorgados con anterioridad, cuando se trate de la cancelación del registro por desaparición de la institución educativa facultada para expedir títulos profesionales o grados académicos equivalentes; así como de la revocación de la autorización o retiro del reconocimiento oficial de estudios.
 
@@ -555,9 +589,7 @@ Cuando no existiere el número de profesionales adecuado para la satisfacción d
 
 Las personas que ingresan al Magisterio y a la Docencia sin tener los títulos correspondientes, serán designados interinamente en las plazas respectivas.
 
-(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 1964)(REPUBLICADO, G.O. 3 DE DICIEMBRE DE 1964)
-
-ARTICULO TERCERO BIS.- Los Contadores Privados actualmente en ejercicio en el Estado, que demuestren haber cursado sus estudios con anterioridad a la expedición de esta Ley, conforme a los planes aprobados por las Autoridades Educativas competentes y haber desempeñado públicamente su actividad, podrán continuar en ejercicio, previa la autorización que en cada caso se conceda por el Departamento de Profesiones del Estado. Dicha autorización no los faculta para otorgar la fe pública.
+ARTICULO TERCERO BIS.- (DEROGADO, G.O. 6 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO CUARTO.
 
@@ -688,3 +720,15 @@ G.O. 30 DE DICIEMBRE DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 305 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE DERECHOS Y DE LA LEY DEL EJERCICIO PROFESIONAL, AMBOS DEL ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. La expedición de los títulos y cédulas profesionales que se encuentren en trámite será atendida de acuerdo a los procedimientos vigentes al momento de su inicio.
+
+Tercero. Las instituciones educativas comprendidas en la Ley del Ejercicio Profesional para el Estado de Veracruz de Ignacio de la Llave remitirán a la Coordinación de Profesiones, en un término de noventa días a partir de la entrada en vigor de este Decreto, una lista completa de los títulos y cédulas profesionales que hubieren expedido durante los últimos diez años.
+
+Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
