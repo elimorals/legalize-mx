@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-social-del-estado-de-coahuila-de-125289"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2019-05-28"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125289&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 26 de diciembre de 2017.
 
@@ -224,6 +224,10 @@ Los sujetos del desarrollo social tendrán derecho a:
 I. Recibir información de programas sociales, así como un trato oportuno, respetuoso y de calidad;
 
 II. Acceder a los programas que ofrezcan el gobierno estatal y los gobiernos municipales, a través de sus dependencias u organismos de acuerdo con la normativa que cada programa exige;
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Las autoridades competentes que señala la presente ley deberán orientar a los solicitantes de los apoyos y beneficiarios, sobre la normativa aplicable a cada programa, en la integración de la documentación durante el proceso de selección, así como facilitar y propiciar, de conformidad con la disponibilidad presupuestal, la incorporación de las personas que reúnan los requisitos o criterios de elegibilidad de cada programa, conforme a lo dispuesto por el artículo 12 de este mismo ordenamiento.
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 2019)</small>
 
@@ -966,3 +970,9 @@ P.O. 28 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 256.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 55 DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 395.- SE ADICIONA UN PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 13 DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Único. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
