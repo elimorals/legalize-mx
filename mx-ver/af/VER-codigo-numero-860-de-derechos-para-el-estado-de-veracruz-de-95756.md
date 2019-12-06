@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2019-03-20"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -1715,9 +1715,11 @@ d) Por la enmienda de los registros sobre instituciones
 
 que impartan educación profesional: 19.0849 UMA
 
-e) Por el registro de título profesional, de diploma, de
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
-especialidad y de gasto académico: 10.6027 UMA
+e) Por el registro de título profesional electrónico, de
+
+diploma, de especialidad y de gasto académico: 10.6027 UMA.
 
 f) Por el registro y autorización para colegios de
 
@@ -1735,13 +1737,9 @@ i) Por la expedición a pasantes de credencial de
 
 autorización para ejercer la profesión: 5.3014 UMA
 
-j) Por la expedición a pasantes de segunda credencial
+j) (DEROGADO, G.O. 6 DE DICIEMBRE DE 2019)
 
-de autorización para ejercer la profesión: 11.6630 UMA
-
-k) Por la expedición a pasantes de tercera credencial de
-
-autorización para ejercer la profesión: 13.7835 UMA
+k) (DEROGADO, G.O. 6 DE DICIEMBRE DE 2019)
 
 l) Por la reposición de credencial de autorización a
 
@@ -1759,19 +1757,17 @@ o) Por la enmienda con relación a título profesional, de
 
 diploma, de especialidad y de grado académico: 3.1808 UMA
 
-p) Por el duplicado de cédula profesional: 13.7835 UMA
+p) (DEROGADO, G.O. 6 DE DICIEMBRE DE 2019)
 
-q) Por la reposición de cédula profesional: 5.3014 UMA
+q) (DEROGADO, G.O. 6 DE DICIEMBRE DE 2019)
 
-r) Por el registro de títulos profesionales de otras
+r) (DEROGADO, G.O. 6 DE DICIEMBRE DE 2019)
 
-universidades del país: 10.6027 UMA
+> <small>(REFORMADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
 
-s) Por la gestoría de tramitación de registros de títulos
+s) Por el registro de títulos profesionales electrónicos
 
-profesionales y expedición de cédula profesional ante
-
-la Secretaría de Educación Pública: 7.4219 UMA
+ante la Secretaría de Educación Pública: 7.4219 UMA
 
 t) Por el cotejo de documentos: 4.2411 UMA
 
@@ -1793,11 +1789,15 @@ y) Por la expedición de constancia de documentación en
 
 trámite: 1.0603 UMA
 
+> <small>(ADICIONADO, G.O. 6 DE DICIEMBRE DE 2019)</small>
+
+z) Compulsa de Documentos por Titulación Electrónica: 4.2411 UMA.
+
 No se cobrarán los derechos a que se refiere esta fracción cuando se dé cualquiera de los siguientes supuestos:
 
 1. Por los registros correspondientes, a las instituciones que imparten educación profesional en el Estado de Veracruz, que dependan de la Secretaría de Educación de Veracruz.
 
-2. Por autorización para el ejercicio profesional, por registro de título profesional y por expedición de cédula profesional a los maestros con título específico para enseñanza en cualquiera de sus grados.
+2. (DEROGADO, G.O. 6 DE DICIEMBRE DE 2019)
 
 ### Capítulo Sexto. De los Derechos por Servicios Prestados por la Secretaría de Medio Ambiente
 
@@ -5950,3 +5950,15 @@ G.O. 20 DE MARZO DE 2019.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 305 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE DERECHOS Y DE LA LEY DEL EJERCICIO PROFESIONAL, AMBOS DEL ESTADO DE VERACRUZ".]
+
+Primero El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo La expedición de los títulos y cédulas profesionales que se encuentren en trámite será atendida de acuerdo a los procedimientos vigentes al momento de su inicio.
+
+Tercero Las instituciones educativas comprendidas en la Ley del Ejercicio Profesional para el Estado de Veracruz de Ignacio de la Llave remitirán a la Coordinación de Profesiones, en un término de noventa días a partir de la entrada en vigor de este Decreto, una lista completa de los títulos y cédulas profesionales que hubieren expedido durante los últimos diez años.
+
+Cuarto Se derogan todas las disposiciones que se opongan al presente Decreto.
