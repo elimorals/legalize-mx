@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2019-11-08"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -59,9 +59,11 @@ De manera enunciativa y no limitativa, esta Ley reconoce a las personas con disc
 
 Son sujetos de esta Ley, los individuos que de conformidad con la misma sean considerados como personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 3.
 
-Compete al Ejecutivo del Estado a través de la Secretaría de Salud, mediante el programa establecido dentro del Sistema para el Desarrollo Integral de la Familia del Estado, coordinar y verificar el cumplimiento de las acciones que establece la presente Ley.
+Corresponde al Ejecutivo del Estado, a través de las dependencias y entidades competentes y mediante los programas a su cargo, coordinar y verificar el cumplimiento de las acciones que establece la presente Ley.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2019)</small>
 
@@ -75,7 +77,9 @@ II.- Deficiencia: La pérdida o anormalidad permanente o transitoria de carácte
 
 III.- Discapacidad: Es la consecuencia de la presencia de una deficiencia o limitación física, mental, intelectual y sensorial en una persona, ya sea de naturaleza permanente o temporal, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-IV.- Discapacidad Física: Es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IV.- Discapacidad Física: Es la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura, así como trastornos o alteraciones de talla;
 
 V.- Discapacidad Intelectual: Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona;
 
@@ -92,6 +96,10 @@ X.- Impedimento: La incapacidad que constituye una desventaja para una persona, 
 XI.- Inclusión: Impulso y transformación de la administración pública y la sociedad para la inserción total de las personas con algún tipo y grado de discapacidad en las áreas de salud, trabajo, educación, transporte, servicios y demás materias para el desarrollo de una vida en condiciones normales, que provoca el diseño y aplicación de políticas públicas no discriminatorias;
 
 XII.- Índice Apgar: El sistema de puntuación que permite valorar la calidad de presión respiratoria y respuesta neurológica al momento del nacimiento, mediante la calificación de ciertos signos físicos;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII Bis.- Instituto.- Instituto de la Discapacidad del Estado de Puebla;
 
 XIII.- Legislación Asistencial: La Ley sobre el Sistema Estatal de Asistencia Social;
 
@@ -123,9 +131,11 @@ I.- El Titular del Poder Ejecutivo, a través de la administración pública cen
 
 II.- Los Ayuntamientos de los Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 6.
 
-La Secretaría de Salud, a través del Sistema DIF, en coordinación con las Instituciones competentes, coordinará la elaboración de un Programa de Integración Social de Personas con Discapacidad, que comprenderán los siguientes aspectos:
+El Titular del Poder Ejecutivo, a través de las dependencias y entidades competentes y con la participación de las instituciones facultadas, coordinará la elaboración de un Programa de Integración Social de Personas con Discapacidad, que comprenderán los siguientes aspectos:
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2011)</small>
 
@@ -161,7 +171,9 @@ VIII.- Registro detallado sobre población con diferentes tipos y grados de disc
 
 Corresponde al Titular del Poder Ejecutivo las atribuciones siguientes:
 
-I.- Coordinar y verificar, a través de la Coordinadora del Sector Salud, el cumplimiento de las acciones establecidas en el programa específico dentro del Sistema DIF, así como las previstas en esta Ley;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+I.- Coordinar y verificar, a través de las Secretarías de Salud y de Igualdad Sustantiva, el cumplimiento de las acciones establecidas en el programa específico, así como las previstas en esta Ley;
 
 II.- Aprobar y supervisar los Programas que en materia de personas con discapacidad instrumenten las diferentes dependencias y entidades de la administración pública estatal;
 
@@ -199,33 +211,37 @@ III.- La gestión para que el transporte e infraestructura urbana permita la mov
 
 IV.- La promoción y apoyo para fortalecer los proyectos y programas que impulsen el desarrollo y la superación de las personas con discapacidad, a fin de potencializar y sumar esfuerzos recursos y voluntades para el respeto e inclusión e integración de las personas con discapacidad, de conformidad con las disposiciones legales y administrativas aplicables;
 
-V.- La recopilación, procesamiento, sistematización e intercambio de información en la materia; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VI.- Las demás que sean necesarias para hacer efectivas las acciones, servicios, medidas e instrumentos interinstitucionales en la materia.
+V.- La recopilación, procesamiento, sistematización e intercambio de información en la materia;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VII.- Establecer políticas y programas, que consideren la protección y promoción de los derecho (sic) humanos de las personas con discapacidad;
+VI.- Establecer políticas y programas, que consideren la protección y promoción de los derechos humanos de las personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Prever en el ámbito de su competencia que las personas, empresas u organizaciones no discriminen por motivos de discapacidad;
+VII.- Prever en el ámbito de su competencia que las personas, empresas u organizaciones no discriminen por motivos de discapacidad;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IX.- Promover en el ámbito de su competencia la investigación, el desarrollo y disponibilidad de nuevas tecnologías con el fin de apoyar a las personas con discapacidad;
+VIII.- Promover en el ámbito de su competencia la investigación, el desarrollo y disponibilidad de nuevas tecnologías con el fin de apoyar a las personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-X.- Evitar en el ámbito de su competencia cualquier forma de explotación, violencia, abuso y toda forma de discriminación hacia las personas con discapacidad;
+IX.- Evitar en el ámbito de su competencia cualquier forma de explotación, violencia, abuso y toda forma de discriminación hacia las personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XI.- La protección legal a todas las personas con discapacidad, y
+X.- La protección legal a todas las personas con discapacidad;
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XII.- Detectar e investigar en el ámbito de su competencia los casos de explotación, violencia, abuso y toda forma de discriminación hacia las personas con discapacidad;
+XI.- Detectar e investigar en el ámbito de su competencia los casos de explotación, violencia, abuso y toda forma de discriminación hacia las personas con discapacidad; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII.- Las demás que sean necesarias para hacer efectivas las acciones, servicios, medidas e instrumentos interinstitucionales en la materia.
 
 ###### Artículo 10.
 
@@ -275,95 +291,183 @@ m) Los demás que resulten aplicables.
 
 ## TÍTULO SEGUNDO. DE LOS SERVICIOS INSTITUCIONALES PARA PERSONAS CON DISCAPACIDAD
 
-### CAPÍTULO PRIMERO. DE LA COMISIÓN ESTATAL COORDINADORA DE PERSONAS CON DISCAPACIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO PRIMERO. DEL INSTITUTO DE LA DISCAPACIDAD DEL ESTADO DE PUEBLA
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 11.
 
-El Ejecutivo del Estado a través de la Secretaría de Salud, instituirá dentro del Sistema para el Desarrollo Integral de la Familia, la Comisión Estatal Coordinadora de Personas con Discapacidad, los miembros de esta Comisión durarán en su encargo dos años, pudiendo ser ratificados de acuerdo a su efectividad y su objeto será coordinar y, en su caso, ejecutar los programas a que se refiere la presente Ley y su Reglamento, así como dar seguimiento al expediente de cada persona con discapacidad, desde su valoración hasta su total inclusión e integración social.
+El Instituto de la Discapacidad del Estado de Puebla, es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, con autonomía técnica y de gestión, sectorizado a la Secretaría de Igualdad Sustantiva, el cual tendrá su domicilio en la Ciudad de Puebla, Puebla, sin perjuicio de que pueda establecer oficinas o delegaciones en otras localidades de la entidad y contará con una estructura operativa para el cumplimiento de sus atribuciones, objetivos y fines.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 12.
 
-La Comisión Estatal Coordinadora, será la máxima autoridad para la planeación, ejecución y evaluación de los programas vigentes en la Entidad en materia de atención a personas con discapacidad.
+El Instituto será la máxima autoridad para la planeación, ejecución y evaluación de los programas vigentes en la Entidad en materia de atención a personas con discapacidad y tendrá por objeto la coordinación y ejecución, en su caso, de los programas a que se refieren la presente Ley, su reglamento y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 12 Bis.
+
+Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
+
+I.- Intervenir en la definición, instrumentación y promoción de una política estatal de discapacidad, en coordinación con las demás dependencias y entidades estatales, en el ámbito de sus respectivas competencias;
+
+II.- Coordinar y evaluar los programas y proyectos estatales en materia de personas con discapacidad, de conformidad a lo que establece el presente ordenamiento;
+
+III.- Vincular los programas, políticas, estrategias y acciones en materia de discapacidad, con los correspondientes en materia de salud, asistencia social e igualdad sustantiva;
+
+IV.- Articular las acciones, servicios, instrumentos y medidas interinstitucionales en materia de discapacidad, conforme a las disposiciones de esta Ley y demás ordenamientos aplicables;
+
+V.- Integrar un expediente general de cada persona con discapacidad y darle el debido seguimiento, desde su valoración hasta considerar que se ha logrado su total inclusión e integración social;
+
+VI.- Valorar a las personas con discapacidad y canalizarlas a las diversas instituciones u organismos especializados, sean éstos públicos o privados;
+
+VII.- Articular y ejecutar acciones para recabar recursos económicos o en especie, para que con éstos se apoyen los programas para las personas con discapacidad de bajos recursos económicos;
+
+VIII.- Fomentar la orientación a la comunidad y en lo particular a las familias de personas con discapacidad, en materia de convivencia social, apoyo y tratamiento de las mismas;
+
+IX.- Proporcionar la debida asesoría a los Ayuntamientos de la Entidad, para que establezcan las bases de desarrollo urbanístico y arquitectónico para las personas con discapacidad;
+
+X.- Promover el establecimiento de centros de servicios de rehabilitación somática, psicológica, social y ocupacional para las personas con discapacidad;
+
+XI.- Coadyuvar en la definición de las estrategias y políticas públicas necesarias, para eliminar la discriminación hacia las personas con discapacidad y promover su plena inclusión e integración por parte de las autoridades estatales y/o entidades privadas, en la prestación o suministro de bienes, servicios, instalaciones y programas;
+
+XII.- Determinar las acciones necesarias para difundir y en su caso fortalecer una cultura de respeto, sensibilización y conciencia hacia las personas con discapacidad;
+
+XIII.- Proponer al Titular del Poder Ejecutivo programas, proyectos, mecanismos e instrumentos, para la obtención de recursos provenientes de fuentes alternas de financiamiento, para el cumplimiento del objeto de esta ley;
+
+XIV.- Coordinar y concertar la participación de los sectores público, social y privado en la planeación, programación, ejecución, evaluación, impacto y supervisión de las acciones que se realicen a favor de las personas con discapacidad;
+
+XV.- Intervenir en la suscripción de convenios y acuerdos de coordinación y concertación, en materia de discapacidad;
+
+XVI.- Formular consultas estrechas para la colaboración activa con las personas con discapacidad, incluidos los niños y las niñas con discapacidad, a través de las organizaciones que las representen; y
+
+XVII.- Las demás que le señalen el presente ordenamiento, su Reglamento y demás disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 12 Ter.
+
+La administración y dirección del Instituto estará a cargo de las instancias siguientes:
+
+I.- Una Comisión Directiva;
+
+II.- Una o un Director General; y
+
+III.- Las unidades administrativas que sean necesarias para el mejor despacho de los asuntos de su competencia, de acuerdo al presupuesto autorizado y a las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 13.
 
-La Comisión Estatal Coordinadora, estará integrada por:
+La Comisión Directiva será la máxima autoridad del Instituto y estará integrada por:
 
-I.- Un Presidente Honorario, que será el Titular del Poder Ejecutivo;
+I.- Un Presidente Honorario, que será la o el Titular del Poder Ejecutivo;
 
-II.- Un Presidente Ejecutivo, que será el Secretario de Salud;
+II.- Un Presidente Ejecutivo, que será la o el Titular de la Secretaría de Igualdad Sustantiva;
 
-III.- Un Secretario, que será el Director General del Sistema DIF;
+III.- Un Secretario, que será la o el Titular de la Secretaria de Salud;
 
-IV.- Un Coordinador Técnico;
+IV.- Ocho Vocales, que serán las o los representantes de:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2011)</small>
+a) La Secretaría de Planeación y Finanzas;
 
-V.- Siete subcomisiones que representan a los siguientes sectores, mismos que serán presididos por el Secretario del ramo o por el representante que él designe, en los términos que para tal efecto señale el Reglamento Interior:
+b) La Secretaría de Administración;
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
+c) La Secretaría de Infraestructura;
 
-a) Salud, prevención, detección oportuna, rehabilitación de la discapacidad, bienestar y seguridad social;
+d) La Secretaría de Movilidad y Transporte;
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
+e) La Secretaría de Bienestar;
 
-b) Rehabilitación laboral, capacitación y trabajo;
+f) Una organización social cuyo objeto social tenga relación directa con la atención y la defensa de los derechos de las personas con discapacidad, a invitación del Presidente Ejecutivo;
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
+g) Una cámara u organización empresarial, a invitación del Presidente Ejecutivo; y
 
-c) Educación inclusiva e investigación;
+h) Una universidad o institución de educación superior, a invitación del Presidente Ejecutivo.
 
-d) DEPORTE, CULTURA Y RECREACIÓN
+La o el Titular del Órgano Interno de Control participará en las sesiones de la Comisión Directiva con voz, pero sin voto.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
+La o el Director General fungirá como Secretario Técnico del órgano de gobierno, con voz, pero sin voto.
 
-e) Comunicación, información y acceso a las tecnologías de la información;
+Los cargos de la Comisión Directiva serán honoríficos, por lo que quienes los asuman no recibirán retribución ni emolumento alguno. Todas las personas integrantes previstas en las fracciones I a IV tendrán voz y voto.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
+Las personas integrantes titulares de la Comisión Directiva podrán nombrar a sus respectivos suplentes, quienes tendrán las mismas facultades que a aquéllas les correspondan y deberán tener cuando menos nivel de Director o su equivalente.
 
-f) Accesibilidad; y
+La o el Presidente será suplido en su ausencia por la o el Secretario de Igualdad Sustantiva, en cuyo caso entrará en funciones la o el suplente de la o el Presidente Ejecutivo.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2011)</small>
+La o el Presidente y la o el Presidente Ejecutivo, a propuesta de la o el Director General, podrán invitar a las sesiones de la Comisión Directiva a representantes de instituciones públicas federales, estatales o municipales, así como organizaciones y asociaciones privadas que guarden relación con el objeto del Instituto, quienes tendrán derecho de voz.
 
-g) Legislación, derechos humanos, sensibilización y concientización de la población en relación a las personas con discapacidad.
+La Comisión Directiva sesionará de manera ordinaria cada tres meses y extraordinaria las veces que sea necesario; el quórum del órgano de gobierno se integrará con la mitad más uno de sus integrantes, y sus resoluciones se tomarán por mayoría de votos de las personas integrantes presentes, teniendo la o el Presidente, voto de calidad en caso de empate.
 
-h) (DEROGADO, P.O. 19 DE ENERO DE 2011)
+Las sesiones deberán convocarse por conducto del Secretario Técnico, con cuando menos cinco días de anticipación en el caso de las ordinarias y veinticuatro horas de anticipación en el caso de las extraordinarias, debiendo acompañar el orden del día propuesto.
 
-VI.- Doce vocales de apoyo.
-
-Los vocales serán representantes de universidades u organizaciones sociales cuyo objeto social tenga relación directa con la atención y la defensa de los derechos de las personas con discapacidad, los que serán designados de acuerdo a lo que establezca el Reglamento Interior.
-
-Todos los integrantes de la Comisión Estatal tendrán voz y voto.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 14.
 
-El Sistema DIF será la Institución encargada de articular las acciones, servicios, medidas e instrumentos interinstitucionales en la materia, conforme a las disposiciones de esta Ley, y demás ordenamientos legales y reglamentarios aplicables.
+La Comisión Directiva, tendrá las atribuciones que la Ley de Entidades Paraestatales del Estado de Puebla prevé para los órganos de gobierno y las que le confiera el Reglamento Interior del Instituto.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 14 Bis.
+
+La o el Director General será propuesto por el Titular del Poder Ejecutivo, y nombrado por la Comisión Directiva, para lo cual deberá reunir los requisitos establecidos en la Ley de Entidades Paraestatales del Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 15.
 
-La Comisión Estatal Coordinadora, tendrá las siguientes atribuciones y funciones:
+La o el Director General del Instituto, además de las atribuciones que le confiere la Ley de Entidades Paraestatales del Estado de Puebla, tendrá las siguientes:
 
-I.- Coordinar y evaluar los programas que en materia de personas con discapacidad se lleven a cabo de conformidad a lo que establece el presente ordenamiento;
+I.- Formular y someter a la aprobación de la Comisión Directiva el programa operativo anual, el anteproyecto del presupuesto de egresos; y, de manera trimestral, los estados financieros del Instituto;
 
-II.- Integrar un expediente general de cada persona con discapacidad y darle el debido seguimiento, hasta considerar que se ha logrado su inclusión e integración social;
+II.- Rendir un informe anual de actividades;
 
-III.- Valorar a las personas con discapacidad y canalizarlas a las diversas Instituciones u Organismos especializados, sean éstos públicos o privados;
+III.- Someter a la autorización de la Comisión Directiva, los contratos, acuerdos y convenios inherentes al objeto del Instituto, que pretenda celebrar;
 
-IV.- Llevar a cabo acciones para recabar recursos económicos o en especie, para que con éstos se apoyen los programas para las personas con discapacidad de bajos recursos económicos;
+IV.- Informar a la Comisión Directiva respecto del ejercicio de los poderes generales o especiales otorgados;
 
-V.- Fomentar la orientación a la comunidad y en lo particular a las familias de personas con discapacidad, en materia de convivencia social, apoyo y tratamiento de las mismas;
+V.- Promover la celebración de eventos y programas del Instituto, en colaboración con todos los sectores de la población;
 
-VI.- Proporcionar la debida asesoría a los Ayuntamientos de la Entidad, para que establezcan las bases de desarrollo urbanístico y arquitectónico para las personas con discapacidad;
+VI.- Someter a consideración de la Comisión Directiva, los proyectos de fuentes alternas de financiamiento del Instituto;
 
-VII.- Promover el establecimiento de centros de servicios de rehabilitación somática, psicológica, social y ocupacional para las personas con discapacidad;
+VII.- Asesorar al titular del Poder Ejecutivo del Estado y a los ayuntamientos en la definición de estrategias en proyectos de discapacidad;
 
-VIII.- Coadyuvar en la definición de las estrategias y políticas públicas necesarias, para eliminar la discriminación hacia las personas con discapacidad y promover su plena inclusión e integración por parte de las autoridades estatales y/o entidades privadas, en la prestación o suministro de bienes, servicios, instalaciones y programas;
+VIII.- Someter a la Comisión Directiva la organización de la estructura orgánica, los proyectos de Reglamento Interior y de manuales administrativos, y, en general, la normatividad interna del Instituto, así como las modificaciones necesarias para el cumplimiento de su objeto;
 
-IX.- Determinar las acciones necesarias para difundir y en su caso fortalecer una cultura de respeto, sensibilización y conciencia hacia las personas con discapacidad;
+IX.- Conducir, organizar y evaluar, con el apoyo de las unidades administrativas que correspondan, las actividades y funcionamiento del Instituto, en cumplimiento de su objeto, así como supervisar la operación y los servicios que se prestan;
 
-X.- Coordinar y concertar la participación de los sectores público, social y privado en la planeación, programación, ejecución, evaluación, impacto y supervisión de las acciones que se realicen a favor de las personas con discapacidad; y
+X.- Expedir, a petición de particulares o autoridades competentes, la certificación de datos o documentos que obren en los archivos del Instituto, previo pago de los derechos correspondientes, en los casos que proceda; y
 
-XI.- Las demás que le señalen el presente ordenamiento, su Reglamento y demás disposiciones legales.
+XI.- Las demás que le señale esta Ley y el ordenamiento jurídico que lo norme.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 15 Bis.
+
+El patrimonio del Instituto estará constituido por:
+
+I.- Las aportaciones, participaciones, subsidios, transferencias y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal;
+
+II.- Las aportaciones y donaciones que bajo cualquier título, le realicen personas físicas o jurídicas, de derecho público o privado, nacionales o extranjeras, así como las que reciba a través de fideicomisos en los que se le señale como fideicomisario;
+
+III.- Los bienes muebles e inmuebles que adquiera u obtenga por cualquier título legal para el cumplimiento de su objeto;
+
+IV.- Las utilidades, intereses, dividendos, rendimientos, contraprestaciones y en general, los bienes, derechos y demás ingresos que adquiera por cualquier título legal; y
+
+V.- Los ingresos derivados de la prestación de los servicios a su cargo y en cumplimiento de su objeto, que se regirán conforme a las disposiciones legales aplicables.
+
+Los bienes que formen parte del patrimonio del Instituto, se equipararán a los del dominio público y, por lo tanto, serán inembargables, inalienables e imprescriptibles.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 15 Ter.
+
+La vigilancia del Instituto estará a cargo de un Órgano Interno de Control, designado por la Secretaría de la Función Pública, quien tendrá las facultades que a estos órganos le otorgan las leyes y demás disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -467,9 +571,11 @@ VI.- Forma de sesionar.
 
 La valoración de las personas con discapacidad, tendrá por objeto detectar en forma integral todos los problemas físicos, psicológicos, familiares y sociales que éstas presenten, con el fin de integrar el expediente con el cual se le canalice a las diversas instancias en que pueda obtener los servicios que requiera para su rehabilitación e incorporación.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 22.
 
-Para llevar a cabo la valoración de las personas con discapacidad, la Comisión Estatal Coordinadora a través del Sistema DIF, contará con el Departamento de Integración Social de la Persona con Discapacidad y de un equipo multidisciplinario de especialistas, en materias como la medicina, la psicología, trabajo social y laboral y educación, procurando sean incluidos en forma preferencial a profesionales con discapacidad que reúnan los requisitos suficientes para desempeñar su labor u oficio.
+Para llevar a cabo la valoración de las personas con discapacidad, el Instituto contará con un equipo multidisciplinario de especialistas en medicina, psicología, educación, trabajo social y materia laboral, procurando la inclusión en forma preferencial de profesionales con discapacidad que reúnan los requisitos suficientes para desempeñar su labor u oficio.
 
 ###### Artículo 23.
 
@@ -485,9 +591,11 @@ III.- Valoración del ambiente familiar, social y laboral, especificando en cada
 
 IV.- Valoración del nivel socioeconómico, detallando el grado de apoyo que requiera para su rehabilitación total.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 24.
 
-El proceso de valoración deberá efectuarse dentro del plazo de treinta días, contados a partir de la presentación del solicitante a la Comisión Estatal Coordinadora.
+El proceso de valoración deberá efectuarse dentro del plazo de treinta días, contados a partir de la presentación del solicitante al Instituto.
 
 ### CAPÍTULO SEGUNDO. DE LA REHABILITACIÓN EN GENERAL
 
@@ -591,13 +699,17 @@ VI.- La incorporación a la vida social y a un sistema de trabajo, que permita a
 
 En los casos en que el grado de la discapacidad lo haga necesario, la educación deberá prestarse en centros especiales que funcionarán en coordinación con la Comisión de Educación del Programa para el Bienestar y la Incorporación al Desarrollo de las Personas con Discapacidad.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-El Sistema DIF por medio del Departamento de Integración Social de la Persona con Discapacidad en coordinación con la Secretaría de Educación Pública, deberá apoyar el proceso educativo de las y los niños, adolescentes y adultos en plenitud que se encuentren en rehabilitación.
+El Instituto, en coordinación con la Secretaría de Educación Pública y el Sistema DIF, deberá apoyar el proceso educativo de las y los niños, adolescentes y adultos en plenitud que se encuentren en rehabilitación.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 41.
 
-La Comisión Estatal Coordinadora, promoverá programas de becas educativas para personas con discapacidad ante la Institución correspondiente.
+El Instituto promoverá programas de becas educativas para personas con discapacidad ante la Institución correspondiente.
 
 ###### Artículo 42.
 
@@ -609,13 +721,11 @@ El sistema educativo estatal determinará el porcentaje del acervo que cada inst
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 43.
 
-Las personas con discapacidad tienen derecho al trabajo y la capacitación, en términos de igualdad de oportunidades y equidad.
-
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
-
-La Comisión Estatal Coordinadora procurará la incorporación de un tres por ciento como mínimo, en los ámbitos laborales correspondientes de aquellas personas con discapacidad en edad de laborar, así mismo, vigilará y recomendará que se garanticen las mismas condiciones y derechos laborales que la Ley Federal del Trabajo contempla sin discriminación alguna.
+Las personas con discapacidad tienen derecho al trabajo y la capacitación, en términos de igualdad de oportunidades y equidad. El Instituto procurará la incorporación de un tres por ciento como mínimo, en los ámbitos laborales correspondientes de aquellas personas con discapacidad en edad de laborar, así mismo, vigilará y recomendará que se garanticen las mismas condiciones y derechos laborales que la Ley Federal del Trabajo contempla sin discriminación alguna.
 
 ###### Artículo 44.
 
@@ -645,15 +755,17 @@ La Secretaría del Trabajo y Competitividad de forma conjunta y coordinada con l
 
 Los procesos de rehabilitación laboral y la capacitación permanente, serán proporcionados considerando la coordinación entre las áreas de salud, de educación y del trabajo.
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 48.
 
-La Comisión Estatal Coordinadora, propondrá a empresas y patrones, la consideración de un tres por ciento como mínimo de empleos para personas que, por el tipo y grado de su discapacidad puedan ser desempeñadas (sic) por éstas, incorporándose a la actividad laboral.
+El Instituto propondrá a empresas y patrones, la consideración de un tres por ciento como mínimo de empleos para personas que, por el tipo y grado de su discapacidad puedan ser desempeñadas por éstas, incorporándose a la actividad laboral.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 49.
 
-La Comisión Estatal Coordinadora, atendiendo a los programas vigentes, apoyará y promoverá a las personas con discapacidad que deseen establecerse como trabajadores independientes.
+El Instituto, atendiendo a los programas vigentes, apoyará y promoverá a las personas con discapacidad que deseen establecerse como trabajadores independientes.
 
 ###### Artículo 50.
 
@@ -673,11 +785,13 @@ Los patrones que contraten personas con discapacidad o que en virtud de dichas c
 
 ### CAPÍTULO ÚNICO
 
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 6 DE DICIEMBRE DE 2019, SE ADVIERTE QUE EL PÁRRAFO SEGUNDO DE ÉSTE ARTÍCULO SE INTEGRÓ AL PRIMERO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 53.
 
-La Comisión Estatal Coordinadora, a través de los programas vigentes, fomentará la práctica de la cultura física y deporte general y especial, así como la cultura y recreación de las personas con discapacidad.
-
-En este caso, se tomará en cuenta la disminución en su capacidad física, psicológica y de relación social comprendiendo los siguientes aspectos:
+El Instituto, a través de los programas vigentes, fomentará la práctica de la cultura física y deporte general y especial, así como la cultura y recreación de las personas con discapacidad. En este caso, se tomará en cuenta la disminución en su capacidad física, psicológica y de relación social comprendiendo los siguientes aspectos:
 
 I.- Instrucción;
 
@@ -689,27 +803,33 @@ IV.- Accesos; y
 
 V.- Equipo.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 54.
 
-La Comisión Estatal Coordinadora, promoverá programas de becas para la participación de la persona con discapacidad en la cultura deportiva nacional e internacional, así como organizar encuentros deportivos en las diversas zonas del Estado, en los que otorgará premios e incentivos a los equipos ganadores en las diversas áreas del deporte.
+El Instituto promoverá programas de becas para la participación de la persona con discapacidad en la cultura deportiva nacional e internacional, así como organizar encuentros deportivos en las diversas zonas del Estado, en los que otorgará premios e incentivos a los equipos ganadores en las diversas áreas del deporte.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 55.
 
-La Comisión Estatal Coordinadora fomentará y promoverá el derecho de las personas con discapacidad a la cultura, la recreación, así como el desarrollo de sus capacidades intelectuales y el ejercicio de sus derechos de propiedad intelectual. De igual forma se favorecerá y promoverá incentivos, becas y lo necesario para el cumplimiento de este objetivo.
+El Instituto fomentará y promoverá el derecho de las personas con discapacidad a la cultura, la recreación, así como el desarrollo de sus capacidades intelectuales y el ejercicio de sus derechos de propiedad intelectual. De igual forma se favorecerá y promoverá incentivos, becas y lo necesario para el cumplimiento de este objetivo.
 
 ###### Artículo 56.
 
 Los administradores u organizadores deberán establecer preferencialmente espacios reservados para personas con discapacidad que no puedan ocupar las butacas o asientos ordinarios en los auditorios, cines, teatros, salas de conciertos y de conferencias, centros recreativos, comerciales, deportivos y en general cualquier recinto en que se presenten espectáculos públicos, de conformidad con los reglamentos respectivos aplicables y el presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 57.
 
-La Comisión Estatal Coordinadora, fomentará el establecimiento de servicios y programas turísticos, que incluyan las facilidades de acceso y descuentos para las personas con discapacidad.
+El Instituto fomentará el establecimiento de servicios y programas turísticos, que incluyan las facilidades de acceso y descuentos para las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 58.
 
-Se proporcionará a través de la Comisión Estatal Coordinadora, dentro del Programa de Inclusión e Integración Social de Personas con Discapacidad, el apoyo necesario a los servicios turísticos de mercado, contemplando las necesidades especiales de las personas con discapacidad haciendo las modificaciones pertinentes y necesarias a los paquetes turísticos.
+Se proporcionará a través del Instituto, dentro del Programa de Integración Social de Personas con Discapacidad, el apoyo necesario a los servicios turísticos de mercado, contemplando las necesidades especiales de las personas con discapacidad haciendo las modificaciones pertinentes y necesarias a los paquetes turísticos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -717,11 +837,11 @@ Se proporcionará a través de la Comisión Estatal Coordinadora, dentro del Pro
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 59.
 
-La Comisión Estatal Coordinadora, promoverá ante las autoridades competentes, la transformación y adaptación de la infraestructura urbana, para garantizar el libre acceso de las personas con discapacidad, por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, a todos los espacios y edificios públicos.
+El Instituto promoverá ante las autoridades competentes, la transformación y adaptación de la infraestructura urbana, para garantizar el libre acceso de las personas con discapacidad, por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, a todos los espacios y edificios públicos.
 
 Los que deberán contar con las facilidades de accesibilidad y señalización necesarias, a fin de facilitar el libre tránsito, desplazamiento y uso seguro de estos espacios por las personas con discapacidad.
 
@@ -731,17 +851,17 @@ Los que deberán contar con las facilidades de accesibilidad y señalización ne
 
 Las personas con discapacidad gozarán del derecho de paso en todas las intersecciones y zonas señaladas para este efecto, así como a disfrutar de los servicios públicos y tener acceso y facilidades para poderse desplazar por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, en los espacios laborales, comerciales, oficiales y recreativos, a través de la construcción de accesos arquitectónicos apropiados, estando obligado el personal de seguridad pública y vial a brindarles la protección necesaria, efectuando las señales y realizando las maniobras que procedan según las circunstancias.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 61.
 
-La Comisión Estatal Coordinadora, propondrá a las autoridades competentes, estrategias permanentes y progresivas para reformar los reglamentos Estatales y Municipales vigentes, de acuerdo a las necesidades de la población con discapacidad, de igual forma impulsará el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminadas a motivar los hábitos de respeto hacia las personas con discapacidad que transiten por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable.
+El Instituto propondrá a las autoridades competentes, estrategias permanentes y progresivas para reformar los reglamentos Estatales y Municipales vigentes, de acuerdo a las necesidades de la población con discapacidad, de igual forma impulsara el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminadas a motivar los hábitos de respeto hacia las personas con discapacidad que transiten por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 62.
 
-La Comisión Estatal Coordinadora, impulsará propuestas para modificar la prestación del servicio público de transporte para permitir el acceso de las personas con discapacidad, por sí o con ayuda de prótesis, órtesis u otras ayudas funcionales sea humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte.
+El Instituto impulsará propuestas para modificar la prestación del servicio público de transporte para permitir el acceso de las personas con discapacidad, por sí o con ayuda de prótesis, órtesis u otras ayudas funcionales sea humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
@@ -781,9 +901,11 @@ Las oficinas de la Administración Pública Estatal donde se presten servicios a
 
 ## TÍTULO SÉPTIMO. DE LA COMUNICACIÓN E INFORMACIÓN ESTADÍSTICA
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 67.
 
-La Comisión Estatal Coordinadora establecerá programas de difusión masiva para impulsar y difundir la cultura de respeto y dignidad hacia las personas con discapacidad, así como la equidad de oportunidades para su inclusión e integración social.
+El Instituto establecerá programas de difusión masiva para impulsar y difundir la cultura de respeto y dignidad hacia las personas con discapacidad, así como la equidad de oportunidades para su inclusión social.
 
 ###### Artículo 68.
 
@@ -793,9 +915,11 @@ Con la finalidad de contar con una base de datos confiable, la Comisión Estatal
 
 En las Cartillas Nacionales de Vacunación que se expidan en el Estado de Puebla, deberá consignarse el registro del Índice Apgar, que permita su comprensión aun para personas analfabetas.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 70.
 
-La Comisión Estatal Coordinadora, promoverá la instalación de servicios de telecomunicaciones y herramientas de tecnologías de la información adaptados para las personas con discapacidad.
+El Instituto promoverá la instalación de servicios de telecomunicaciones y herramientas de tecnologías de la información adaptados para las personas con discapacidad.
 
 ###### Artículo 71.
 
@@ -930,6 +1054,34 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ACÁPITE DEL ARTÍCULO 16 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 20 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL; Y SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Se instruye a las Secretarías de Planeación y Finanzas y de Administración, tomen las previsiones presupuestales necesarias para el cumplimiento del presente Decreto.
+
+CUARTO. Los derechos y obligaciones contractuales, contraídos por la Secretaría de Igualdad Sustantiva en relación con la Dirección del Instituto de la Discapacidad del Estado de Puebla, serán atribuidos al Instituto que se crea con motivo de este Decreto, previa suscripción en su caso de los actos jurídicos necesarios. Las relaciones laborales entre el Instituto y sus trabajadores, se regirá por la normativa que resulte aplicable.
+
+QUINTO. El Instituto de la Discapacidad del Estado de Puebla, en cumplimiento a las medidas de racionalidad y eficiencia para el ejercicio del gasto, seguirá utilizando las formas oficiales, formatos y demás papelería existente en los que conste la denominación, hasta que se agote.
+
+SEXTO. Los integrantes de la Comisión Directiva del Instituto, celebrarán sesión de instalación dentro de los quince días hábiles siguientes a la entrada en vigor del presente Decreto. En esta sesión se aprobará la propuesta que realice el Ejecutivo Estatal respecto de la designación de la persona Titular de la Dirección General del Instituto, el calendario de las sesiones ordinarias del año y se evaluarán los asuntos que se presenten para su consideración.
+
+SÉPTIMO. El Titular del Poder Ejecutivo expedirá el Reglamento Interior del Instituto de la Discapacidad del Estado de Puebla aprobado por la Comisión Directiva del Instituto, dentro del plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+OCTAVO. Cuando se haga referencia a la Comisión Estatal Coordinadora, se debe entender como realizada al Instituto de la Discapacidad del Estado de Puebla.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 4 DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
