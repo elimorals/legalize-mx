@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-125101"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-19"
-last_updated: "2019-07-05"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección al Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2017.
 
@@ -1175,11 +1175,15 @@ V. Diseñar y dirigir programas de fomento al empleo, mediante la capacitación 
 
 VI. Fomentar y apoyar la organización social para el trabajo y el autoempleo;
 
-VII. Elaborar y resguardar los padrones de las asociaciones obreras, patronales y profesionales de jurisdicción estatal que se encuentren registradas ante la Junta de Conciliación y Arbitraje;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VII. Elaborar y resguardar los padrones de las asociaciones obreras, patronales y profesionales de jurisdicción estatal que se encuentren registradas ante las instancias competentes;
 
 VIII. Dirigir y coordinar (sic) la Procuraduría de la Defensa del Trabajo y el servicio social de estudiantes y practicantes en esta materia;
 
-IX. Coordinar la Integración de las Juntas Locales y Especiales de Conciliación y Arbitraje y vigilar su correcto funcionamiento;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX. Coordinar el Centro de Conciliación y vigilar su correcto funcionamiento;
 
 X. Participar, a petición de parte, en la negociación o revisión de contratos colectivos de trabajo;
 
@@ -1333,15 +1337,21 @@ La creación, funcionamiento, control y evaluación de las entidades que conform
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 37.
 
-La impartición de la justicia laboral, se realizará de acuerdo a lo previsto por el apartado A del artículo 123 de la Constitución Federal, a través de las Juntas Locales y Especiales de Conciliación y Arbitraje, en lo concerniente a las ramas no previstas por la Ley Federal del Trabajo.
+El Poder Ejecutivo contará con el Centro de Conciliación a que se refiere el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos como un organismo público descentralizado.
+
+Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 38.
 
-Para el conocimiento, trámite y resolución de los conflictos laborales que se presenten entre trabajadores y patrones, funcionarán las Juntas Locales y Especiales de Conciliación y Arbitraje necesarias, las que tendrán plena autonomía e independencia del Ejecutivo, se organizarán en los términos de la legislación correspondiente y conocerán y resolverán los conflictos de trabajo que no sean de la competencia de la Junta Federal de Conciliación y Arbitraje.
+El Centro de Conciliación debe ser un organismo especializado e imparcial, con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, con funciones de instancia conciliatoria en conflictos o diferencias entre trabajadores y patrones, antes de acudir a los órganos jurisdiccionales en materia laboral a dirimir sus controversias.
 
-El Titular del Ejecutivo determinará la sede de las Juntas Especiales que se requieran.
+Su integración, facultades y funcionamiento se determinarán en las leyes y demás disposiciones aplicables.
 
 ###### ARTÍCULO 39.
 
@@ -1470,3 +1480,35 @@ P.O. 5 DE JULIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 291.- SE AGREGA UN NUEVO CONTENIDO A LA FRACCIÓN XVIII, RECORRIENDO EL ACTUAL CONTENIDO A LA QUE SIGUE, HACIENDO LO MISMO CON LA FRACCIÓN XIX, PARA FINALMENTE CREAR LA FRACCIÓN XX DEL ARTÍCULO 33 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 385.- SE REFORMAN LAS FRACCIONES VII Y IX DEL ARTÍCULO 33 Y LOS ARTÍCULOS 37 Y 38, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Congreso del Estado, en un plazo máximo de 180 días a partir de la entrada en vigor del presente decreto, deberá llevar a cabo las adecuaciones legislativas necesarias para dar cumplimiento al mismo.
+
+TERCERO. En los términos que dispongan las leyes, se deberá prever la competencia de los Tribunales Laborales, así como lo relativo a su integración.
+
+CUARTO. Para la integración, instalación y operación de los Tribunales Laborales, el Consejo de la Judicatura determinará mediante un proceso de gradualidad, su inicio de operación en los Distritos Judiciales que, conforme a dicho proceso, determine.
+
+QUINTO. La reforma relativa a los artículos 37 y 38 de (sic) Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza, continuarán en vigor hasta que concluyan sus funciones las Juntas Locales y Especiales de Conciliación y Arbitraje en los términos de los transitorios del presente decreto y demás disposiciones aplicables.
+
+SEXTO. Los procedimientos que se encuentren en trámite una vez que entren en funciones el Centro de Conciliación y los Tribunales Laborales serán concluidos por las Juntas de Conciliación y Arbitraje de conformidad con las disposiciones vigentes al momento de su inicio, en términos de las disposiciones aplicables.
+
+SÉPTIMO. En los términos del instrumento de creación del Centro de Conciliación previsto en la presente reforma, se deberá contemplar lo relativo a la integración, facultades y funcionamiento, así como al inicio de sus operaciones.
+
+OCTAVO. En tanto se instituye e inicia operaciones el Centro de Conciliación Laboral del Estado de Coahuila de Zaragoza, así como el organismo descentralizado a que se refiere el decreto que reforma y adiciona diversas disposiciones de los artículos 107 y 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación en fecha veinticuatro de febrero de dos mil diecisiete, las Juntas Locales de Conciliación y Arbitraje del Estado continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de los contratos colectivos de trabajo y de organizaciones sindicales.
+
+NOVENO. Las Juntas Locales de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza, deberán remitir al organismo descentralizado que se refiere en el artículo cuarto del presente régimen transitorio, una relación de los emplazamientos a huelga que se encuentren en trámite en un plazo no mayor a ciento veinte días naturales después de la entrada en vigor del presente decreto.
+
+DÉCIMO.- Las autoridades competentes y las Juntas Locales de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza, deberán transferir los procedimientos, expedientes y documentación que tengan bajo su atención o resguardo, en el ámbito de sus respectivas competencias, al organismo descentralizado, citado en el artículo cuarto del presente régimen transitorio, que se encargará de atender los asuntos relacionados con el registro de contratos colectivos de trabajo y organizaciones sindicales.
+
+DÉCIMO PRIMERO.- Las Juntas Locales de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente decreto, presentarán al Titular de la Secretaría del Trabajo y a la autoridad local que corresponda, respectivamente, un plan de trabajo con un plazo máximo de duración de cuatro años para la conclusión de los asuntos en trámite y para la supresión gradual de dichos órganos.
+
+El plan de trabajo a que se refiere el párrafo anterior, se deberá implementar a partir del inicio de operaciones del Centro de Conciliación y deberá contener indicadores de medición de resultados e impacto por periodos semestrales, correspondiendo la medición de resultados e impacto al Órgano Interno de Control de cada Junta Local de Conciliación y Arbitraje del Estado.
+
+DÉCIMO SEGUNDO.- El Congreso del Estado, el Poder Judicial y el Poder Ejecutivo a través de la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas, en el ámbito de sus respectivas competencias, determinarán las adecuaciones presupuestarias necesarias para dotar de los recursos humanos, financieros y materiales correspondientes, para el cumplimiento del presente decreto, en términos de las disposiciones aplicables.
+
+DÉCIMO TERCERO.- Se derogan las disposiciones que se opongan a este decreto.
