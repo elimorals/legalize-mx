@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2019-09-24"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
-Código publicado en la Tercera Sección al Número 86 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
+Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
@@ -4553,6 +4553,18 @@ IX. (Robo a centros educativos)
 
 Cuando se cometa en contra de uno o más bienes de cualquier institución pública o privada que funcione como Centro Educativo.
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+X. (Robo de nuez y en lugar destinado a su cultivo, almacenamiento o venta)
+
+Cuando el robo recaiga sobre nuez con independencia de la cuantía de la misma, y se realice en lugar destinado a su cultivo, almacenamiento o venta.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XI. (Robo de vehículo automotor y retención de su conductor y/o sus ocupantes)
+
+Cuando se cometa tal delito estando detenido o en circulación el vehículo automotor, y/o sus ocupantes sean retenidos impidiéndoles momentáneamente denunciar tal ilícito y solicitar el auxilio correspondiente.
+
 Artículo 286 (Querella)
 
 Los delitos previstos en este capítulo se perseguirán por querella, salvo los cometidos con cualquiera de las modalidades agravantes previstas en las fracciones IX y XI del artículo 283 de este código, o bien, con cualquiera de las calificativas previstas en las fracciones I, II, V, VI, VII y VIII del artículo 284 de este código, o con cualquiera de las calificativas especiales del artículo 285 de este código.
@@ -7788,3 +7800,21 @@ P.O. 24 DE SEPTIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 346.- SE REFORMA: EL SEGUNDO PÁRRAFO, LA FRACCIÓN II Y LA FRACCIÓN V DEL ARTÍCULO 188; SE ADICIONA: LA FRACCIÓN VI Y LA FRACCIÓN VII, DEL MISMO ARTÍCULO DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 377.- SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 285 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 389.- SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 285 DEL CÓDIGO PENAL DE COAHUILA, PARA EL EFECTO DE INCORPORAR EXPRESAMENTE COMO CALIFICATIVA ESPECIAL EL DELITO DE ROBO DE VEHÍCULO AUTOMOTOR Y RETENCIÓN DE SU CONDUCTOR Y/O SUS OCUPANTES, IMPIDIÉNDOLES MOMENTÁNEAMENTE DENUNCIAR TAL ILÍCITO Y SOLICITAR EL AUXILIO CORRESPONDIENTE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Estado, una vez que haya entrado en vigor el Decreto No. 377 expedido por esta legislatura el 30 de octubre de 2019.
