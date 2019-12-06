@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-6285
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-22"
-last_updated: "2019-11-08"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 22 de agosto de 2008.
 
@@ -37,7 +37,7 @@ CONSIDERANDO
 
 [...]
 
-Por lo anteriormente expuesto y con fundamento en los artículos 63 fracción II y 64 de la Constitución Política del Estado Libre y Soberano de Puebla, 17 fracción XI, 43 fracciones I y X, 69 fracción II, 70 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 24 fracciones I y X, 93 fracción VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla y demás disposiciones aplicables, se emite la siguiente:
+Por lo anteriormente expuesto y con fundamento en los artículos 63 fracción II y 64 de la Constitución Política del Estado Libre Y Soberano de Puebla, 17 fracción XI, 43 fracciones I y X, 69 fracción II, 70 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 24 fracciones I y X, 93 fracción VII del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla y demás disposiciones aplicables, se emite la siguiente:
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA
 
@@ -55,9 +55,17 @@ II.- Generar las condiciones idóneas para lograr la eliminación de cualquier f
 
 III.- Definir los principios de actuación de los Poderes Públicos del Estado y de sus Municipios, a fin de prever las medidas necesarias y suficientes para eliminar y corregir en el sector público y privado, toda forma de discriminación por razón del sexo;
 
-IV.- Establecer las bases de coordinación entre los diferentes niveles de gobierno y de éstos con la sociedad civil para la integración y funcionamiento del Sistema Estatal para la igualdad entre mujeres y hombres; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-V.- Garantizar a las mujeres y a los hombres el pleno ejercicio de sus derechos, el desarrollo de su personalidad, aptitudes y capacidades.
+IV.- Establecer las bases de coordinación entre los diferentes niveles de gobierno y de éstos con la sociedad civil para la integración y funcionamiento del Sistema Estatal para la igualdad entre mujeres y hombres;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+V.- Garantizar la igualdad de oportunidades y de trato entre mujeres y hombres, el pleno ejercicio de sus derechos, el desarrollo de su personalidad, aptitudes y capacidades, y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VI.- Promover el empoderamiento de las mujeres y la lucha contra toda discriminación basada en el sexo.
 
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -85,9 +93,9 @@ II.- Igualdad de oportunidades: Se refiere a la obligación de los Poderes Públ
 
 III.- Respeto a la diversidad y a la diferencia: Conceptualizado como el compromiso de los Gobiernos Estatal y Municipales, de instrumentar los mecanismos y estrategias necesarias para que el proceso hacia la igualdad de sexos se realice, sin descuidar el necesario respeto tanto a la diversidad y las diferencias existentes entre mujer y hombre en cuanto a su condición biológica, psicológica, social, cultural y de vida, aspiraciones y necesidades, como la diversidad y diferencias existentes dentro de los propios colectivos de mujeres y hombres;
 
-IV.- Integración de la perspectiva de género: Para efectos de esta Ley, se entiende por integración de la perspectiva de género a la consolidación sistemática de las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres, incorporando objetivos y actualizaciones específicas dirigidas a eliminar las desigualdades y promover la igualdad en todas las políticas y acciones a todos los niveles y en todas sus fases de planificación, ejecución y evaluación.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-Los Poderes Públicos del Estado y sus Municipios, habrán de incorporar las perspectivas de género en todas sus políticas y acciones, de modo que se establezca en todas ellas el objetivo general de eliminar las desigualdades y promover la igualdad de mujeres y hombres;
+IV.- Integración de la perspectiva de género: La consolidación sistemática de las diferentes situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres, incorporando objetivos y actualizaciones específicas dirigidas a eliminar las desigualdades y promover la igualdad en todas las políticas y acciones a todos los niveles y en todas sus fases de planificación, ejecución y evaluación;
 
 V.- Acción positiva: Son el conjunto de medidas específicas y temporales en favor de las mujeres para eliminar situaciones patentes de desigualdad de hecho respecto de los hombres. Tales medidas serán aplicables en tanto subsistan dichas situaciones, habrán de ser razonables y proporcionadas en relación con el objetivo perseguido para promover la consecución de la igualdad real y efectiva de mujeres y hombres que los Poderes Públicos adoptarán;
 
@@ -109,45 +117,79 @@ I.- Acciones afirmativas: Es el conjunto de medidas de carácter temporal correc
 
 II.- Comisión: La Comisión de Derechos Humanos del Estado de Puebla;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+II Bis.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
 
-II Bis.- Discriminación contra la Mujer: Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+II Ter.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+II Quater.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
 
-II Ter.- Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+III.- Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos o libertades de las personas, grupos y comunidades en situaciones de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas.
 
-II Quater.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+También es discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, aporofobia, así como la discriminación racial y otras formas conexas de intolerancia;
 
-III.- Instituto: Instituto Poblano de las Mujeres;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IV.- Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Puebla;
+IV.- Igualdad de Género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-V.- Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
+V.- Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN VIII]</small>
 
 > <small>(ADICIONADA, P.O. 24 DE JULIO DE 2019)</small>
 
 V Bis.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales.
 
-VI.- Poderes Públicos del Estado: Los Poderes Ejecutivo, Legislativo y Judicial del Estado, de acuerdo a su organización y funcionamiento conforme a su normatividad aplicable y los demás que la legislación reconozca como autoridad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VII.- Principio de Igualdad: Posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias del género al que pertenezcan;
+VI.- Ley: La Ley para la Igualdad entre Mujeres y Hombres del Estado de Puebla;
 
-VIII.- Programa: Programa Estatal para la Igualdad entre Mujeres y Hombres;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IX.- Sistema Estatal: Sistema Estatal para la Igualdad entre Mujeres y Hombres; y
+VII.- Perspectiva de Género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN V BIS]</small>
 
-X.- Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Poderes Públicos del Estado: Los Poderes Ejecutivo, Legislativo y Judicial del Estado, de acuerdo a su organización y funcionamiento conforme a su normatividad aplicable y los demás que la legislación reconozca como autoridad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+X.- Principio de Igualdad: Posibilidad y capacidad de ser titulares cualitativamente de los mismos derechos, sin importar las diferencias del género al que pertenezcan;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XI.- Programa: Programa Estatal para la Igualdad entre Mujeres y Hombres;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII.- Secretaría: Secretaría de Igualdad Sustantiva;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIII.- Sistema Estatal: Sistema Estatal para la Igualdad entre Mujeres y Hombres;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIV.- Transversalidad: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas, y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV.- Paridad de Género: Principio que tiene como finalidad la igualdad sustantiva entre mujeres y hombres, que supone que sus derechos se ejerzan en condiciones de igualdad, libres de discriminación y violencia.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 5.
 
-En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley de la Comisión de Derechos Humanos del Estado de Puebla, el Decreto que Crea el Instituto Poblano de las Mujeres y demás ordenamientos aplicables en la materia.
+En lo no previsto en esta Ley, se aplicará en forma supletoria y en lo conducente, las disposiciones de la Ley General para la Igualdad entre Mujeres y Hombres, la Ley para Prevenir y Eliminar la Discriminación del Estado Libre y Soberano de Puebla, la Ley de la Comisión de Derechos Humanos del Estado de Puebla y demás ordenamientos aplicables en la materia.
 
 ###### Artículo 6.
 
@@ -159,11 +201,43 @@ La igualdad entre mujeres y hombres implica la eliminación de toda forma de dis
 
 Serán autoridades en la aplicación del presente ordenamiento las siguientes:
 
-1.- El Gobierno del Estado;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-2.- Los Municipios; y
+1.- El Gobierno del Estado, y
 
-3.- El Instituto Poblano de las Mujeres.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+2.- Los Municipios.
+
+3.- (DEROGADO, P.O. 6 DE DICIEMBRE DE 2019)
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 7 Bis.
+
+El Estado y los Municipios establecerán las bases de coordinación para la integración y funcionamiento del Sistema Estatal para la Igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 7 Ter.
+
+El Estado, a través de la Secretaría de Igualdad Sustantiva, podrá suscribir convenios o acuerdos de coordinación con la coparticipación del Instituto Nacional de las Mujeres, o con cualquier otro de naturaleza análoga, a fin de:
+
+I.- Fortalecer sus funciones y atribuciones en materia de igualdad;
+
+II.- Establecer mecanismos de coordinación para lograr la transversalidad de la perspectiva de género en la función pública estatal;
+
+III.- Impulsar la vinculación interinstitucional en el marco del Sistema;
+
+IV.- Coordinar las tareas en materia de igualdad mediante acciones específicas y, en su caso, afirmativas que contribuyan a una estrategia estatal, y
+
+V.- Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, deportiva, cultural y civil.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 7 Quáter.
+
+En la celebración de convenios o acuerdos de coordinación, deberán tomarse en consideración los recursos presupuestarios, materiales y humanos, para el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa y presupuestaria correspondiente.
 
 ### CAPÍTULO PRIMERO. DEL GOBIERNO ESTATAL
 
@@ -277,6 +351,10 @@ XII.- Incluir en la formulación, desarrollo y evaluación de políticas, estrat
 
 XIII.- Promover que en las prácticas de comunicación social de las dependencias de la Administración Pública Estatal, así como en los medios masivos de comunicación electrónicos e impresos, se eliminen el uso de estereotipos sexistas y discriminatorios e incorporen un lenguaje incluyente.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+La política estatal a que se refiere este artículo deberá desarrollar acciones interrelacionadas para alcanzar los objetivos que deben marcar el rumbo de la igualdad entre mujeres y hombres, conforme a los objetivos operativos y acciones específicas en la materia.
+
 ### CAPÍTULO SEGUNDO. DE LOS OBJETIVOS Y ACCIONES
 
 ###### Artículo 11.
@@ -289,7 +367,9 @@ Los Poderes Públicos están obligados a garantizar el derecho a la igualdad ent
 
 I.- El derecho a una vida libre de discriminación por razón de sexo;
 
-II.- La convivencia armónica y equilibrada en los ámbitos de la vida personal, laboral y familiar, lo que se considerará como el derecho de conciliación, encaminado a lograr el pleno desarrollo de los individuos; para contribuir al reparto equilibrado de las responsabilidades familiares se promoverá el reconocimiento del derecho de los padres a un permiso por paternidad de ocho días;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+II.- La convivencia armónica y equilibrada en los ámbitos de la vida personal, laboral y familiar, lo que se considerará como el derecho de conciliación, encaminado a lograr el pleno desarrollo de los individuos; para contribuir al reparto equilibrado de las responsabilidades familiares los padres contarán con el derecho legal a una licencia de paternidad por el nacimiento de sus hijas e hijos en términos de lo previsto por la Ley Federal del Trabajo;
 
 III.- El acceso a la información pública necesaria para hacer efectiva la igualdad entre mujeres y hombres, como sería: políticas, instrumentos y normas relativas a estas acciones;
 
@@ -311,11 +391,15 @@ II.- Orientar y capacitar al personal docente en las prácticas educativas para 
 
 III.- Eliminar los estereotipos tradicionales de dependencia de la mujer y fomentar la responsabilidad compartida de derechos y obligaciones del hombre y la mujer, así como el principio de colaboración y solidaridad.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 15.
 
-El Estado dictará las medidas necesarias para que todas las edificaciones e instalaciones de uso público dispongan de los servicios, equipamiento y facilidad que sean requeridos para su utilización por personas de uno u otro sexo.
+El Estado dictará las medidas necesarias para que todas las edificaciones e instalaciones de uso público dispongan de los servicios, equipamientos y facilidades a fin de que sean accesibles para todas las personas.
 
-### CAPÍTULO TERCERO. DE LOS INSTRUMENTOS DE LA POLÍTICA EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO TERCERO. DE LOS INSTRUMENTOS DE LA POLÍTICA ESTATAL EN MATERIA DE IGUALDAD ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 16.
 
@@ -333,17 +417,23 @@ En el diseño, elaboración, aplicación, evaluación y seguimiento de los instr
 
 ### CAPÍTULO CUARTO. DEL SISTEMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 18.
 
-El Sistema Estatal, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que convienen los Poderes Públicos del Estado entre sí, con la sociedad civil organizada y con instituciones académicas y de investigación, que tiene como fin promover, planear, elaborar y en su caso, aplicar las medidas necesarias para lograr la igualdad entre mujeres y hombres en el Estado.
+El Sistema Estatal, es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que convienen los Poderes Públicos del Estado entre sí, con los Municipios, con la sociedad civil y con instituciones académicas y de investigación, que tiene como fin promover, planear, elaborar y, en su caso, aplicar las medidas necesarias para lograr la igualdad entre mujeres y hombres en el Estado.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 19.
 
-El Instituto coordinará las acciones que el Sistema Estatal genere, sin perjuicio de las atribuciones y funciones contenidas en su Decreto de creación, y expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter similar o análogo.
+La Secretaría coordinará las acciones que el Sistema Estatal genere, sin perjuicio de las atribuciones y funciones contenidas en la Ley Orgánica de la Administración Pública del estado de Puebla, y expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter similar o análogo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 20.
 
-Corresponde al Instituto la realización de las siguientes funciones:
+Corresponde a la Secretaría la realización de las siguientes funciones:
 
 I.- Proponer los lineamientos para la Política Estatal en los términos de las Leyes aplicables y de conformidad con lo dispuesto por el Ejecutivo del Estado;
 
@@ -387,25 +477,41 @@ X.- Establecer los instrumentos y medidas necesarias que tiendan a lograr la err
 
 XI.- Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal y las que determinen las disposiciones aplicables.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Todas las Dependencias y Entidades que formen parte del Sistema, estarán obligadas a cumplir con proporcionar la información, estudios, reportes y cualquier dato que se les requiera, de manera diferenciada por sexos con esta Ley, atendiendo las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado.
+
 ### CAPÍTULO QUINTO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 22.
 
-El Programa Estatal, será propuesto por el Instituto y tomará en cuenta las necesidades de los Municipios, así como las particularidades de la desigualdad en cada región.
+El Programa Estatal, será propuesto por la Secretaría y tomará en cuenta las necesidades de los Municipios, así como las particularidades de la desigualdad en cada región.
 
 El Programa Estatal deberá integrarse al Plan Estatal de Desarrollo, así como a los programas sectoriales, institucionales y especiales a que se refiere la Ley de Planeación para el Desarrollo del Estado de Puebla; en congruencia con los objetivos establecidos en el Plan Nacional de Desarrollo.
 
 Los programas que elaboren los Municipios, con visión de mediano y largo alcance, indicarán los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta los criterios e instrumentos de la Política Estatal de igualdad en congruencia con los programas estatales.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 23.
 
-El Instituto deberá revisar el Programa Estatal de forma anual, a fin de procurar ante las instancias competentes su permanente actualización.
+La Secretaría deberá revisar el Programa Estatal de forma anual, a fin de procurar ante las instancias competentes su permanente actualización.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 23 Bis.
+
+La Secretaría entregará al Poder Ejecutivo del Estado los informes sobre el estado que guarda la ejecución del Programa, así como las demás acciones relativas al cumplimiento de lo establecido en la presente Ley, para que se incluyan en su informe anual.
 
 ### CAPÍTULO SEXTO. DE LA COORDINACIÓN INSTITUCIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 24.
 
-El Gobierno del Estado, a través de la Secretaría que corresponda según la materia de que se trate, o de las instancias administrativas que tengan relación con la materia de esta Ley, podrá suscribir convenios o acuerdos de coordinación con los Municipios que conforman la Entidad y con asociaciones públicas y privadas nacionales e internacionales, pudiendo contar con la coparticipación del Instituto Poblano de las Mujeres, a fin de:
+El Gobierno del Estado, a través de la Secretaría, podrá suscribir convenios o acuerdos de coordinación con los Municipios que conforman la Entidad y con asociaciones públicas y privadas nacionales e internacionales, a fin de:
 
 I.- Establecer acciones orientadas a eliminar la discriminación y a fortalecer la igualdad entre mujeres y hombres;
 
@@ -425,9 +531,11 @@ VII.- Diseñar, elaborar y en su caso, proponer iniciativas y políticas de coop
 
 En la celebración de convenios o acuerdos de coordinación los Gobiernos Estatal y Municipales, deberán tomar en consideración los recursos presupuestales, materiales y humanos disponibles, para el cumplimiento de la presente Ley, conforme a la normatividad jurídica, administrativa presupuestaria correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 26.
 
-Los Municipios coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con el Instituto o, en su caso, con las dependencias o entidades de la Administración Pública Estatal, a la consolidación y funcionamiento del Sistema Estatal.
+Los Municipios coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los acuerdos de coordinación que celebren con la Secretaría, a la consolidación y funcionamiento del Sistema Estatal.
 
 Asimismo, planearán, organizarán y desarrollarán en sus respectivas circunscripciones territoriales, sistemas municipales de igualdad entre mujeres y hombres, procurando su participación programática en el Sistema Estatal.
 
@@ -473,9 +581,11 @@ VII.- Fomentar la participación equilibrada y sin discriminación de mujeres y 
 
 ### CAPÍTULO SEGUNDO. DE LA VIDA ECONÓMICA Y LABORAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 31.
 
-La vida económica se fortalecerá mediante los siguientes objetivos:
+Será objetivo de la política estatal el fortalecimiento de la igualdad en materia de:
 
 I.- Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
@@ -494,6 +604,10 @@ V.- Garantizar el acceso a la capacitación, adiestramiento y asesoramiento téc
 > <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
 VI.- Establecimiento de medidas para fortalecer el acceso de las mujeres al empleo y la aplicación efectiva del principio de igualdad de trato y no discriminación en las condiciones de trabajo entre mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VII.- Promover la igualdad de oportunidades entre mujeres y hombres en el uso y aprovechamiento de los derechos reales de propiedad, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios, y
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE NOVIEMBRE DE 2017)</small>
 
@@ -523,25 +637,17 @@ IX.- Diseñar y aplicar lineamientos que aseguren la igualdad en la contratació
 
 X.- Diseñar políticas y programas de desarrollo y de reducción de la pobreza con perspectiva de género;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XI.- Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia. Para la expedición del certificado a empresas se observará lo siguiente:
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+XI.- Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en la materia como, entre otras, las siguientes:
 
 a) La existencia y aplicación de un código de ética que prohíba la discriminación de género y establezca sanciones internas por su incumplimiento.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
-
-b) La integración de la plantilla laboral por al menos el cuarenta por ciento de un mismo género, y que el diez por ciento del total de mujeres ocupen puestos directivos.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
+b) La integración de la plantilla laboral cuando ésta se componga de al menos el cuarenta por ciento de un mismo género, y el diez por ciento del total corresponda a mujeres que ocupen puestos directivos.
 
 c) La aplicación de procesos igualitarios en la selección del personal, contemplando desde la publicación de sus vacantes hasta el ingreso del personal.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2019)</small>
-
-d) El cumplimiento de las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral;
+d) Las demás consideraciones en materia de salubridad, protección y prevención de la desigualdad en el ámbito laboral, y
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
@@ -551,9 +657,11 @@ XII.- Promover condiciones de trabajo que eviten el acoso sexual y su prevenció
 
 XIII.- Promover la participación de mujeres rurales en programas sectoriales en materia agraria.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 33.
 
-Las bases normativas de las relaciones de la mujer en el trabajo están constituidas por el derecho al trabajo y la igualdad de acceso a todos los empleados a cargos, ascensos, oportunidades y a idéntica remuneración por igual trabajo.
+Las bases normativas de las relaciones de las mujeres en el trabajo están constituidas por el derecho al trabajo y la igualdad de acceso a todos los empleados a cargos, ascensos, oportunidades y a idéntica remuneración por igual trabajo.
 
 ###### Artículo 34.
 
@@ -593,9 +701,13 @@ IV.- Integrar el principio de igualdad en el ámbito de la protección social;
 
 V.- Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombres a la alimentación, la educación y la salud; y
 
-VI.- Promover campañas estatales de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO CUARTO. DE LA IGUALDAD EN EL ÁMBITO CIVIL
+VI.- Promover campañas estatales de concientización para mujeres y hombres sobre su participación equitativa en la atención de las personas dependientes de ellos. El contenido de la publicidad gubernamental o institucional a través de la cual se difundan las campañas deberá favorecer el lenguaje incluyente y estar desprovista de estereotipos establecidos en función del sexo de las personas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO CUARTO. DE LA IGUALDAD EN LA VIDA CIVIL
 
 ###### Artículo 37.
 
@@ -623,9 +735,17 @@ V.- Reforzar la cooperación y los intercambios de información sobre los derech
 
 VI.- Impulsar las reformas legislativas y políticas públicas para prevenir, atender, sancionar y erradicar la desigualdad en los ámbitos público y privado;
 
-VII.- Establecer los mecanismos para la atención de las víctimas en todos los tipos de violencia contra las mujeres; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+VII.- Establecer los mecanismos para la atención de las víctimas en todos los tipos y modalidades de violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Fomentar las investigaciones en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres, y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Contribuir a un reparto más equilibrado de las responsabilidades familiares, reconociendo a los padres biológicos y por adopción el derecho a una licencia por paternidad, en términos de la Ley Federal del Trabajo.
 
 ### CAPÍTULO QUINTO. DE LA ELIMINACIÓN DE ESTEREOTIPOS ESTABLECIDOS EN FUNCIÓN DEL SEXO
 
@@ -699,9 +819,11 @@ V.- Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ### CAPÍTULO OCTAVO. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 47.
 
-La trasgresión a los principios y programas que esta Ley prevé será sancionada de acuerdo a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla y, en su caso, por las leyes aplicables que regulen esta materia, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código de Defensa Social para el Estado Libre y Soberano de Puebla.
+La trasgresión a los principios y programas que esta Ley prevé será sancionada de acuerdo a lo dispuesto por la ley aplicable en materia de responsabilidades administrativas, sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado Libre y Soberano de Puebla.
 
 ## TRANSITORIOS
 
@@ -738,3 +860,13 @@ P.O. 8 DE NOVIEMBRE DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LOS SIGUIENTES ORDENAMIENTOS: LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA, LA LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA, EL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y EL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
