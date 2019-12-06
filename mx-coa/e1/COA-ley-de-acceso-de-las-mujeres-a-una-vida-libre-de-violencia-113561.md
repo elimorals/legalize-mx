@@ -4,7 +4,7 @@ identifier: "COA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1135
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-08"
-last_updated: "2019-09-24"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113561&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de marzo de 2016.
 
@@ -224,6 +224,10 @@ XXXIX. Mujer Víctima de Violencia: La mujer de cualquier edad, raza, religión,
 XL. Víctima indirecta de la violencia de género: Familiares de la víctima y/o personas que tengan o hayan tenido relación o convivencia con la misma y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida contra las mujeres; y
 
 XLI. Violencia estructural contra las mujeres: Es toda acción u omisión, que mediante la realización de uno o varios tipos de violencia, cause daño o sufrimiento a las mujeres, tanto en el ámbito público como privado;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XLII. Se entenderá por aplicaciones, herramientas digitales o tecnológicas aquellas que sean diseñadas por las autoridades competentes para dispositivos móviles que permita a los ciudadanos acceder a la información para prevenir, combatir y eliminar la violencia de género y la no discriminación hacia las mujeres.
 
 Se refiere a conductas ejercidas por las personas, el Estado y la sociedad; así como la ejercida en comunidades, relaciones humanas, prácticas e instituciones sociales, que el Estado reproduce y tolera al no garantizar la igualdad sustantiva, al perpetuar formas jurídicas, judiciales, políticas, económicas y sociales androcéntricas y de jerarquía de género; así como al no dar garantías de seguridad a las mujeres durante todas las etapas de su vida.
 
@@ -777,7 +781,13 @@ XXIV. Crear el banco estatal de datos e información sobre casos y delitos de vi
 
 XXV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; y
 
-XXVI. Las demás que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXVI. Fomentar, promover y difundir el conocimiento y respeto a los derechos fundamentales de las mujeres, con el auxilio de las herramientas digitales o tecnológicas creadas y puestas al acceso del público por las autoridades competentes.
+
+(REUBICADA, P.O. 6 DE DICIEMBRE DE 2019)
+
+XXVII. Las demás que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
 ###### Artículo 37.
 
@@ -1159,7 +1169,35 @@ XVII. Difundir la cultura de respeto a los derechos humanos de las mujeres y pro
 
 XVIII. Promover la cultura de denuncia de la violencia contra las mujeres; y
 
-XIX. Las demás previstas para el cumplimiento de esta Ley.
+> <small>(ADICIONADA CON SUS NUMERALES, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIX. Generar y actualizar en coordinación con las autoridades competentes, una aplicación para dispositivos móviles que permita a los ciudadanos acceder a la información para prevenir, combatir y eliminar la violencia de género y la no discriminación hacia las mujeres. Dicha aplicación deberá contener, al menos, información relacionada con:
+
+1. Derechos Humanos.
+
+2. Medios de protección y defensa de las víctimas.
+
+3. Programas de asistencia social.
+
+4. Tipos de violencia: causas y consecuencias.
+
+5. Cultura de la denuncia.
+
+6. Política estatal en materia de igualdad y no violencia de género.
+
+7. Incidencia delictiva y zonas de riesgo.
+
+8. Autoridades e instancias de procuración e impartición de justicia.
+
+9. Factores de riesgo.
+
+10. Qué hacer en casos de violencia;
+
+11. Otros tipos de información que consideren las autoridades competentes; y,
+
+(REUBICADA, P.O. 6 DE DICIEMBRE DE 2019)
+
+XX. Las demás previstas para el cumplimiento de esta Ley.
 
 ###### Artículo 56.
 
@@ -2096,6 +2134,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE SEPTIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 353.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 Y SE MODIFICA EL CONTENIDO DE LA FRACCIÓN I DEL ARTÍCULO 24 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 382.- SE ADICIONA LA FRACCIÓN XLII AL ARTÍCULO 6, SE ADICIONA UN NUEVO CONTENIDO A LA FRACCIÓN XXVI, RECORRIENDO EL ACTUAL A LA FRACCIÓN XXVII, QUE SE CREA, DEL ARTÍCULO 36; Y, SE ADICIONA TAMBIÉN UN NUEVO CONTENIDO A LA FRACCIÓN XIX, RECORRIENDO EL ACTUAL A LA FRACCIÓN XX, QUE SE CREA, DEL ARTÍCULO 55, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
