@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2019-08-15"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el día 30 de abril de 1985.
 
@@ -1747,9 +1747,11 @@ Para garantizar el derecho fundamental de igualdad, los jueces deberán identifi
 
 (NOTA: EL 1 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 294.
 
-El matrimonio es un contrato civil, por el cual UN SÓLO HOMBRE Y UNA SOLA MUJER, se unen en sociedad para PERPETUAR LA ESPECIE Y ayudarse en la lucha por la existencia.
+El matrimonio es un contrato civil, por el cual un sólo hombre y una sola mujer, se unen en sociedad para ayudarse en la lucha por la existencia.
 
 ###### Artículo 295.
 
@@ -1899,7 +1901,7 @@ Cualquier convenio contrario a la ayuda mutua que se deben los cónyuges se tend
 
 ###### Artículo 316.
 
-Cualquier pacto contrario a la perpetuación de la especie será ilícito, si se convino antes o en el momento de celebrar el matrimonio.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2019)
 
 ###### Artículo 317.
 
@@ -2373,9 +2375,11 @@ Las donaciones antenupciales no necesitan para su validez de aceptación expresa
 
 Las donaciones antenupciales no podrán ser revocadas por sobrevenir hijos al donante, ni por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos cónyuges y que los dos sean ingratos.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 386.
 
-Las donaciones antenupciales son revocables por adulterio o abandono injustificado del domicilio familiar por parte del donatario, cuando el donante fuere el otro cónyuge.
+Las donaciones antenupciales son revocables por abandono injustificado del domicilio familiar por parte del donatario, cuando el donante fuere el otro cónyuge.
 
 ###### Artículo 387.
 
@@ -3211,11 +3215,9 @@ Respecto de los menores los alimentos comprenden, además, los gastos necesarios
 
 Los hombres y las mujeres que al adquirir la mayoría de edad estén estudiando una carrera, tienen derecho a recibir alimentos hasta que obtengan el título correspondiente, si realizan sus estudios normalmente y sin interrupción.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2017)</small>
-
 ###### Artículo 500.
 
-Las mujeres que sean mayores de edad, fuera del supuesto anterior, tienen derecho a alimentos mientras no contraigan matrimonio y no cuenten con medios de subsistencia.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2019)
 
 ###### Artículo 501.
 
@@ -3267,13 +3269,11 @@ El tutor interino dará garantía por el importe anual de los alimentos y por el
 
 Si la necesidad del alimentista proviene de mala conducta, el Juez, con conocimiento de causa, puede disminuir la cantidad destinada a los alimentos.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 511.
 
-Además de los casos establecidos en la ley, la obligación de dar alimentos cesa:
-
-I.- Cuando el que la tiene carece de medios para cumplirla;
-
-II.- Cuando el alimentista deje de necesitar los alimentos.
+Además de los casos establecidos en la ley, la obligación de dar alimentos cesa cuando el alimentista deje de necesitar los alimentos.
 
 ###### Artículo 512.
 
@@ -3383,9 +3383,11 @@ III.- Si a dos o más personas manifestó ser hijo suyo, el de su mujer.
 
 Contra las presunciones establecidas por las fracciones II y III del artículo 527, no se admite otra prueba, que la de haber sido físicamente imposible al marido, tener acceso con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 530.
 
-El marido no podrá desconocer a los hijos favorecidos por las presunciones establecidas en las fracciones II y III del artículo 527, alegando adulterio de la madre, aunque ésta declare contra la paternidad de aquél, a no ser que el nacimiento se le haya ocultado, o que estando separada del marido, viva maritalmente con otro varón y éste reconozca como suyo al hijo de aquélla.
+El marido no podrá desconocer a las hijas e hijos favorecidos por las presunciones establecidas en las fracciones II y III del artículo 527, alegando infidelidad de la madre, aunque ésta declare contra la paternidad de aquél, a no ser que el nacimiento se le haya ocultado, o que estando separada del marido, tenga una relación de hecho con otro hombre y éste reconozca como suyo a la hija o hijo de aquélla.
 
 ###### Artículo 531.
 
@@ -3579,17 +3581,15 @@ Si el reconocimiento no se hizo por la madre y el padre al contraer matrimonio, 
 
 El padre puede reconocer, sin consentimiento de su esposa, a un hijo habido con persona distinta a ésta antes o durante el matrimonio.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 564.
 
-La mujer casada puede reconocer, sin consentimiento del esposo a un hijo habido con persona distinta a éste, antes de su matrimonio.
+La mujer casada puede reconocer, sin consentimiento del esposo a una hija o hijo habido con persona distinta a éste, antes o durante su matrimonio.
 
 ###### Artículo 565.
 
-El hijo de una mujer casada sólo podrá ser reconocido como hijo por otro hombre distinto del marido, en cualquiera de los dos casos siguientes:
-
-I.- Cuando el marido lo haya desconocido y por sentencia ejecutoriada se haya declarado que no es hijo suyo.
-
-II.- Cuando la madre del hijo reconocido por otro hombre distinto del marido, no viva con éste y acepte ella, como padre, a quien hizo el reconocimiento.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2019)
 
 ###### Artículo 566.
 
@@ -5599,11 +5599,9 @@ Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solici
 
 Para que un hijo sea reconocido al registrar su nacimiento, bastará que el padre o la madre, o ambos pidan al Juez del Registro del Estado Civil que se mencione su nombre y su carácter de padre o madre, respectivamente, en el acta de nacimiento y así se asentará en ésta, la cual surtirá tanto los efectos de acta de nacimiento, como de acta de reconocimiento.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
-
 ###### Artículo 865.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, no podrá el Juez del Registro Civil, asentar como padre a otro que al mismo marido, salvo en el caso previsto en la fracción I del artículo 565, en cuyo caso la madre del niño cuyo nacimiento se manifieste deberá exhibir copia certificada de la sentencia ejecutoriada a que se refiere dicha disposición.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2019)
 
 ###### Artículo 866.
 
@@ -5617,9 +5615,11 @@ En las actas que se levantaren en los casos del artículo anterior, se expresar�
 
 Los alcaldes, directores y administradores de las prisiones, y de cualquier casa de comunidad, especialmente de los hospitales y casas de maternidad, tienen obligación de declarar el nacimiento de los niños nacidos en esos lugares, especificándose en el acta respectiva, sólo la ubicación del lugar de nacimiento.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 869.
 
-Si los padres del niño tuvieren impedimento para contraer matrimonio entre sí, por estar uno de ellos o ambos casados con otra persona, no se hará ninguna mención de esa circunstancia y podrá asentarse el nombre de ambos padres si lo pidieren, observándose en su caso lo dispuesto en el artículo 565.
+Si la madre o el padre de la niña o el niño tuvieren impedimento para contraer matrimonio entre sí, por estar uno de ellos o ambos casados con otra persona, no se hará ninguna mención de esa circunstancia y podrá asentarse el nombre de ambos padres si lo pidieren.
 
 ###### Artículo 870.
 
@@ -5893,7 +5893,9 @@ IV.- Los nombres y apellidos de los padres del difunto, si se supieren;
 
 V.- La causa de la muerte, el destino del cadáver y el nombre y ubicación del panteón o crematorio;
 
-VI.- La hora, día, mes, año y lugar de la muerte si se supieren y todos los informes que se tengan en caso de muerte violenta;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VI.- La hora, día, mes, año y lugar de la muerte si se supieren y todos los informes que se tengan en caso de muerte violenta, haciendo las aclaraciones pertinentes si la muerte es causada por violencia de género o familiar;
 
 VII.- Nombre, apellidos, número de cédula profesional y domicilio del médico que certifique la defunción;
 
@@ -20586,3 +20588,13 @@ P.O. 15 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LOS SIGUIENTES ORDENAMIENTOS: LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA, LA LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA, EL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y EL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
