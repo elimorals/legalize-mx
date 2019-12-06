@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-libre-y-soberano-de-puebla-78369"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-08"
-last_updated: "2017-12-29"
+last_updated: "2019-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO TERCERO DE LA LEY DE HACIENDA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADA EN EL P.O. DE 6 DE DICIEMBRE DE 2019; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL DÍA PRIMERO DE ENERO DE DOS MIL VEINTE.]</small>
+
 LEY DE HACIENDA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 8 de diciembre de 2010.
 
@@ -37,7 +39,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO SÉPTIMO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción I, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y II, 69 fracción I, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21 y 24 fracciones I y II del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se emite la siguiente:
 
@@ -1374,3 +1378,17 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE HACIENDA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día primero de enero de dos mil veinte.
+
+SEGUNDO. Se dejan sin efecto aquellas disposiciones legales y administrativas que se opongan al presente Decreto.
+
+TERCERO. Se abroga la Ley de Hacienda del Estado Libre y Soberano de Puebla, publicada en el Periódico Oficial del Estado con fecha ocho de diciembre de dos mil diez.
+
+CUARTO. La Secretaría de Planeación y Finanzas, deberá coordinarse con las Autoridades competentes en las que incidan las disposiciones que establece la Ley materia del presente Decreto, con el objeto de instrumentar las acciones necesarias para facilitar su cumplimiento.
+
+QUINTO. Para efectos del pago del Impuesto a que se refiere el Capítulo VI, del Título Segundo de la presente Ley, la primera declaración del Ejercicio Fiscal 2020, deberá realizarse a más tardar el día diecisiete del mes de abril, incluyendo el periodo comprendido de enero a marzo del Ejercicio Fiscal 2020, sin que en este plazo se apliquen actualización y recargos por las contribuciones causadas en el mismo.
