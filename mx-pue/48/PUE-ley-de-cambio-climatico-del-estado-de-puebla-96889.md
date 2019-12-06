@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-cambio-climatico-del-estado-de-puebla-96889"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-29"
-last_updated: "2019-07-05"
+last_updated: "2019-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de noviembre de 2013.
 
@@ -463,9 +463,17 @@ XII. Conservación de los ecosistemas y su biodiversidad, dando prioridad a los 
 
 XIII. Promoción del aprovechamiento racional y sostenible de los recursos naturales, a fin de garantizar el desarrollo sustentable y la mitigación de los efectos adversos del cambio climático, así como reducir la vulnerabilidad de la población;
 
-XIV. Eficiencia energética en todas sus actividades, así como la sustitución de energías convencionales por energías renovables en aquellos sectores sujetos al ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XV. Promoción de una economía de bajas emisiones en carbono, como modelo de desarrollo industrial en el Estado.
+XIV. Eficiencia energética en todas sus actividades, así como la sustitución de energías convencionales por energías renovables en aquellos sectores sujetos al ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV. Promoción de una economía de bajas emisiones en carbono, como modelo de desarrollo industrial en el Estado; y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVI. Progresividad, a efecto de que las metas para el cumplimiento de esta Ley presenten una progresión y gradualidad a lo largo del tiempo, tomando en consideración el principio de responsabilidades comunes pero diferenciadas y sus capacidades respectivas, a la luz de las diferentes circunstancias del Estado; para lo cual se deberá considerar la mejor información científica disponible y los avances tecnológicos, todo ello en el contexto del desarrollo sostenible.
 
 ### CAPÍTULO II. ADAPTACIÓN
 
@@ -1216,6 +1224,14 @@ SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto p
 P.O. 5 DE JULIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXI DEL ARTÍCULO 3 Y EL 64, AMBOS DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES XIV Y XV, Y ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 13 DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
