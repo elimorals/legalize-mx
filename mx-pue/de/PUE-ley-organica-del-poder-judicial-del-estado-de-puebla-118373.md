@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-de-puebla-118373"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-01-09"
-last_updated: "2018-04-13"
+last_updated: "2019-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
-Ley publicada en la Segunda Sección al número 6 del Periódico Oficial del Estado de Puebla, el lunes 9 de enero de 2017.
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de enero de 2017.
 
 DECRETO del Honorable Congreso del Estado, por el que expide la LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA.
 
@@ -1367,7 +1367,7 @@ II. El Centro de Justicia Alternativa;
 
 III. El Centro de Convivencia Familiar Supervisada;
 
-IV. El Servicio Médico Forense;
+IV. (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
 
 V. El Archivo Judicial, y
 
@@ -1441,11 +1441,13 @@ III. Las demás que expresamente el confiera esta ley y demás disposiciones apl
 
 El Centro de Convivencia Familiar Supervisada es el órgano que tiene por objeto la convivencia paterno filial en los casos que a juicio de los titulares de los órganos jurisdiccionales, así como del Sistema Estatal para el Desarrollo Integral de la Familia, no pueda cumplirse de manera libre y se considere necesario para la protección del interés superior de las niñas, niños y adolescentes, contando para tal efecto con un Director, quien deberá acreditar la experiencia y capacidad indispensables para el desempeño del cargo.
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 #### SECCIÓN CUARTA. DEL SERVICIO MÉDICO FORENSE
 
 ###### Artículo 120.
 
-El Servicio Médico Forense es el órgano de apoyo judicial que auxilia la procuración, administración e impartición de justicia con la realización de estudios de carácter médico forense, de identificación de cadáveres, químico toxicológicos, histopatológicos, genéticos, antropométricos, odontológicos, dactiloscópicos, entomológicos y valoraciones psiquiátricas y psicológicas.
+(DEROGADO, P.O. 6 DE DICIEMBRE DE 2019)
 
 #### SECCIÓN QUINTA. DEL ARCHIVO JUDICIAL
 
@@ -2480,3 +2482,25 @@ PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Est
 SEGUNDO. Dentro del año siguiente a la entrada en vigor del presente Decreto, todos los órganos del Poder Legislativo, Judicial y Ejecutivo del Estado de Puebla, así como los órganos constitucionalmente autónomos, de acuerdo a su disponibilidad presupuestal, deberán contar con la certificación de la norma mexicana vigente en igualdad laboral y no discriminación.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 113, LA SECCIÓN CUARTA DEL CAPÍTULO IV, Y EL ARTÍCULO 120 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA; Y REFORMA LAS FRACCIONES I Y II DEL ARTÍCULO 23, Y ADICIONA LAS FRACCIONES III Y IV AL 23 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, el Consejo de la Judicatura del Poder Judicial del Estado de Puebla, transferirá a la Fiscalía General del Estado de Puebla, los asuntos y recursos humanos, materiales y financieros asignados al Servicio Médico Forense, con la intervención de los órganos internos de control respectivos, de conformidad con la normatividad aplicable.
+
+El Consejo de la Judicatura del Poder Judicial del Estado de Puebla y la Fiscalía General del Estado de Puebla, con el apoyo de las dependencias competentes, proveerán, acordarán y resolverán lo necesario para cumplir oportunamente el proceso de transferencia, incluyendo lo relativo a la reorganización de sus estructuras y las adecuaciones presupuestales conducentes conforme a lo dispuesto en la Ley de Egresos del Estado de Puebla, para el ejercicio fiscal que corresponda.
+
+CUARTO. El Servicio Médico Forense a cargo del Consejo de la Judicatura del Poder Judicial del Estado de Puebla, continuará en funciones durante el proceso de transferencia, a efecto de no suspender la prestación de los servicios respectivos, por lo que los procedimientos y asuntos que con motivo de la entrada en vigor de este Decreto deban pasar del Poder Judicial del Estado de Puebla a la Fiscalía General del Estado de Puebla, a través del Instituto de Ciencias Forenses, continuarán tramitándose por el Servicio Médico Forense hasta que termine totalmente dicha transferencia y se emita acuerdo de conclusión por el Presidente del Consejo de la Judicatura.
+
+QUINTO. El Consejo de la Judicatura del Poder Judicial del Estado de Puebla y la Fiscalía General del Estado de Puebla, deberán hacer las gestiones conducentes ante la Secretaría de Planeación y Finanzas, para que realice las adecuaciones presupuestales y tome las previsiones necesarias, para su inclusión en el presupuesto para el Ejercicio Fiscal 2020.
+
+SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente ordenamiento se refiera al Servicio Médico Forense, se entenderá atribuido al Instituto de Ciencias Forenses de la Fiscalía General del Estado.
+
+SÉPTIMO. Los derechos y obligaciones contractuales, contraídos por el Servicio Médico Forense, serán atribuidos al Instituto de Ciencias Forenses de la Fiscalía General del Estado.
+
+OCTAVO. Los derechos laborales del personal que en virtud del proceso de transferencia derivado del presente Decreto, pasen del Poder Judicial del Estado de Puebla a la Fiscalía General del Estado de Puebla, se respetarán en términos de la Ley de los Trabajadores al Servicio del Estado.
