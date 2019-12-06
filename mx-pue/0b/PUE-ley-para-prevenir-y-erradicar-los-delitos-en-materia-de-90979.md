@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-erradicar-los-delitos-en-materia-de-90979"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS ACUERDO DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -57,7 +59,9 @@ IV.- Vigilar que se garantice la reparación del daño a las víctimas;
 
 V.- Fomentar la participación ciudadana en la prevención de las conductas de los delitos de Trata de Personas; y
 
-VI.- Determinar disposiciones especiales para los procedimientos penales aplicables a los delitos de Trata de Personas incluidos derechos procedimentales a las víctimas de estos delitos.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VI.- Determinar disposiciones especiales para la instrumentación y operatividad de los procedimientos penales aplicables a los delitos de Trata de Personas incluidos derechos procedimentales a las víctimas de estos delitos.
 
 ###### ARTÍCULO 2.
 
@@ -95,17 +99,29 @@ XI.- La prohibición de devolución o expulsión;
 
 XII.- La garantía de no revictimización;
 
-XIII.- La laicidad y libertad de religión; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XIV.- La presunción de minoría de edad.
+XIII.- La laicidad y libertad de religión;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIV.- La presunción de minoría de edad, y
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV.- El derecho a la reparación del daño.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 5.
 
-Respecto de los delitos en materia de Trata de Personas y sus sanciones, se estará a lo que disponga el Código de Defensa Social del Estado Libre y Soberano de Puebla.
+Respecto de los delitos en materia de Trata de Personas y sus sanciones, se estará a lo que disponga la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y Para la Protección y Asistencia a las Víctimas de estos Delitos.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 6.
 
-En todo lo no previsto en esta Ley, en materia de Trata de Personas y en materia de investigación, procedimientos y sanciones, comprendidas en ésta la reparación del daño de estos delitos se aplicarán supletoriamente las disposiciones locales de las materias y la Ley General.
+En todo lo no previsto en esta Ley en materia de reparación del daño, se aplicarán supletoriamente las disposiciones de la Ley General, así como las locales de la materia.
 
 ###### ARTÍCULO 7.
 
@@ -115,25 +131,79 @@ Cuando el empleo gramatical de los términos refiera a un género se entenderán
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Centros de Atención Especializados: Los refugios, albergues y casas de medio camino con servicios integrales a víctimas de los delitos de Trata de Personas;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-II.- Comisión: La Comisión Interinstitucional para la Prevención y Erradicación de los delitos de Trata de Personas y para la Protección y Asistencia de sus Víctimas:
+I.- Abuso de poder: Aprovechamiento que realiza el sujeto activo para la comisión del delito derivado de una relación o vínculo familiar, sentimental, de confianza, de custodia, laboral, formativo, educativo, de cuidado, religioso o de cualquier otro que implique dependencia o subordinación de la víctima respecto al victimario, incluyendo a quien tenga un cargo público o se ostente de él, o pertenecer a la delincuencia organizada;
 
-III.- Fondo: El fondo destinado a la protección y asistencia a las víctimas de los delitos de Trata de Personas;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IV.- Ley: La Ley para Prevenir y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos en el Estado;
+II.- Asistencia y protección a las víctimas: Conjunto de medidas de apoyo y protección de carácter integral que se brindan a las víctimas desde el momento de su identificación o rescate y hasta su reincorporación plena a la sociedad, que cumplen la función de orientarlas legalmente, otorgar apoyo médico, psicológico, económico temporal, así como protección para ella y su familia;
 
-V.- Ley General: La Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a la (sic) Víctimas de estos Delitos;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VI.- Programa Estatal: El Programa Estatal para la Prevención y Erradicación de los delitos de Trata de Personas y para la Protección y Asistencia de sus Víctimas;
+III.- Centros de Atención Especializados: Los refugios, albergues y casas de medio camino con servicios integrales a víctimas de los delitos de Trata de Personas;
 
-VII.- Programa Municipal: Programa Municipal para la Prevención y Erradicación de los delitos de Trata de Personas y para la Protección y Asistencia de sus Víctimas;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Situación de vulnerabilidad: Condición particular de la víctima derivada de uno o más de las siguientes circunstancias que puedan derivar en que el sujeto pasivo realice la actividad, servicio o labor que se le pida o exija por el sujeto activo del delito:
+IV.- Comisión: La Comisión Interinstitucional para la Prevención y Erradicación de los delitos de Trata de Personas y para la Protección y Asistencia de sus Víctimas;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+V.- Daño grave o amenaza de daño grave: Cualquier daño físico, psicológico, financiero, sexual o a la reputación, o la sola amenaza para la víctima, capaz de hacerle creer que no tiene más opción que someterse o seguir sometida a la conducta de explotación, y que el sujeto activo, conociéndola, la utilice para obtener el sometimiento de la víctima;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VI.- Fondo: El fondo destinado a la protección y asistencia a las víctimas de los delitos de Trata de Personas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VII.- Informante: Toda persona que de forma directa o indirecta tiene conocimiento de la comisión de delitos, y por su situación o actividad que realiza, provee dicha información a las instancias de gobierno para la investigación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Ley: La Ley para Prevenir y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos en el Estado;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Ley General: La Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+X.- Ofendido: Tendrán tal carácter los familiares de la víctima hasta en cuarto grado, dependientes económicos, así como a cualquier otra persona que tenga una relación de hecho o convivencia afectiva con la víctima y que sufran, hayan sufrido o se encuentren en situación de riesgo de sufrir algún daño o perjuicio por motivos o a consecuencia de la comisión del delito. Entre los que se encuentran:
+
+a) Los hijos o hijas de la víctima;
+
+b) El cónyuge, concubina o concubinario;
+
+c) El heredero declarado judicialmente en los delitos cuyo resultado sea la muerte de la víctima u ofendido;
+
+d) La persona que hubiere vivido de forma permanente con la víctima durante por lo menos dos años anteriores al hecho, y
+
+e) La persona que haya sufrido daños al intervenir para asistir a la víctima en peligro o para prevenir la victimización;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XI.- Programa Estatal: El Programa Estatal para la Prevención y Erradicación de los delitos de Trata de Personas y para la Protección y Asistencia de sus Víctimas;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII.- Programa Municipal: Programa Municipal para la Prevención y Erradicación de los delitos de Trata de Personas y para la Protección y Asistencia de sus Víctimas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIII.- Publicidad engañosa: Para los fines de esta Ley, se considerará engañosa la publicidad que por cualquier medio induzca al error como consecuencia de la presentación del mensaje publicitario, como consecuencia de la información que transmite o como consecuencia de omisión de información en el propio mensaje, con objeto de captar o reclutar personas con el fin de someterlas a cualquier tipo de explotación o de inducir la comisión de cualquier delito en materia de trata de personas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIV.- Publicidad ilícita: Para los fines de esta Ley, se considerará ilícita la publicidad que, por cualquier medio, se utilice para propiciar de manera directa o indirecta la comisión de los delitos en materia de trata de personas que se prevén;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV.- Situación de vulnerabilidad: Condición particular de la víctima derivada de uno (sic) o más de las siguientes circunstancias que puedan derivar en que el sujeto pasivo realice la actividad, servicio o labor que se le pida o exija por el sujeto activo del delito:
 
 a) Su origen, edad, sexo, condición socioeconómica precaria;
 
-b) Nivel educativo, falta de oportunidades, embarazo, violencia o discriminación sufridas previas a la Trata y delitos relacionados;
+b) Nivel educativo, falta de oportunidades, embarazo, violencia o discriminación sufridos previamente a la Trata de Personas y delitos relacionados;
 
 c) Situación migratoria, trastorno físico o mental o discapacidad;
 
@@ -147,9 +217,17 @@ g) Una capacidad reducida para formar juicios por ser una persona menor de edad,
 
 h) Cualquier otra característica que sea aprovechada por el sujeto activo del delito.
 
-IX.- Trata de Personas: Los tipos penales así denominados en los términos que disponga el Código de Defensa Social para el Estado Libre y Soberano de Puebla; y
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-X.- Víctima: La persona titular del bien jurídico lesionado o puesto en peligro por las conductas de los delitos de Trata de Personas.
+XVI.- Testigo: Toda persona que, de forma directa o indirecta, a través de sus sentidos tiene conocimiento de los hechos que se investigan, por lo que puede aportar información para su esclarecimiento, independientemente de su situación legal;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVII.- Trata de Personas: Los tipos penales así denominados en los términos que dispone la Ley General, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVIII.- Víctima: La persona titular del bien jurídico lesionado o puesto en peligro por las conductas de los delitos de Trata de Personas.
 
 ### CAPÍTULO SEGUNDO. DE LA PREVENCIÓN
 
@@ -157,17 +235,43 @@ X.- Víctima: La persona titular del bien jurídico lesionado o puesto en peligr
 
 Las acciones tendientes a desarrollar la prevención de los delitos de Trata de Personas comprenderán lo siguiente:
 
-I.- Desarrollar estrategias y programas dirigidos a la población, con la finalidad de evitar la comisión de los delitos de Trata de Personas, señalando las consecuencias que conlleva el mismo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-II.- Realizar campañas informativas, talleres de capacitación y concientización dirigidas a la sociedad, con el objeto de prevenir la Trata de Personas;
+I.- Desarrollar políticas, estrategias, programas y otras acciones dirigidos a la población, con la finalidad de evitar y erradicar la comisión de los delitos de Trata de Personas, señalando las consecuencias que conlleva el mismo;
 
-III.- Sensibilizar a la sociedad mediante la divulgación de información referente a los derechos de las víctimas de los delitos de Trata de Personas;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+II.- Realizar actividades de investigación, campañas informativas y de difusión, talleres de capacitación y concientización dirigidas a la sociedad, así como coordinar el diseño y puesta en marcha de iniciativas sociales y económicas, con el objeto de prevenir y combatir la Trata de Personas;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+III.- Realizar campañas que tiendan a elevar niveles culturales, sociales, de bienestar social y sensibilización de la población sobre el problema en todas sus manifestaciones y mediante la divulgación de información referente a los derechos de las víctimas de los delitos de trata de personas;
 
 IV.- Informar a la sociedad sobre los riesgos que sufren las víctimas de Trata de Personas, tales como daños físicos, psicológicos y sexuales, así como los métodos o mecanismos empleados para cometer el delito o el sometimiento;
 
-V.- Firmar convenios y bases de coordinación entre el Estado y los Municipios, para promover la generación de prevención general, especial y social; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VI.- Las demás que considere necesarias para la prevención del delito.
+V.- Firmar convenios y bases de coordinación con la Federación y entre el Estado y los Municipios, para promover la generación de prevención general, especial y social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VI.- Implementar medidas educativas, sociales y culturales, a fin de desalentar la demanda que propicia cualquier forma de explotación que provoca la Trata de Personas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VII.- Atender, de manera especial, a las localidades aisladas y zonas urbanas que se hayan identificado como aquéllas con mayor incidencia en la comisión de los delitos de trata de personas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Llevar a cabo acciones de asistencia, ayudas alimentarias, campañas de salud, educación, vivienda y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en aumentar el riesgo de victimización del delito de trata de personas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Las demás que considere necesarias para la prevención del delito.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+En la implementación de las políticas, estrategias, programas y demás acciones que se adopten para la prevención del delito de trata de personas, cuando proceda, podrá contarse con la colaboración y cooperación de organizaciones no gubernamentales, otras organizaciones pertinentes y otros sectores de la sociedad.
 
 ###### Artículo 10.
 
@@ -177,9 +281,11 @@ Para autorizar la operación de los negocios que presten servicio de Internet, s
 
 Las autoridades municipales, de conformidad con sus atribuciones y facultades, deberán adoptar las medidas necesarias para la inspección de las agencias de colocación, a fin de impedir que las personas que buscan trabajo, en especial las mujeres, niñas, niños y adolescentes se expongan al peligro de la Trata de Personas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 11.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, fomentarán el diseño, evaluación y actualización de los planes y programas de capacitación y formación de servidores públicos conforme a lo siguiente:
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, fomentarán el diseño, evaluación y actualización de los planes y programas de capacitación y formación de las y los servidores públicos conforme a lo siguiente:
 
 I.- Incluirá la Legislación Internacional, Nacional y Estatal referente a la asistencia y protección de los derechos de las personas en situación de vulnerabilidad; y
 
@@ -209,31 +315,51 @@ La Comisión se integrará por las o los Titulares de las Dependencias y Entidad
 
 I.- El Gobernador del Estado, con el carácter de Presidente Honorario;
 
-II.- La Secretaría General de Gobierno, quien fungirá como Presidente Ejecutivo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-III.- La Procuraduría General de Justicia, quien fungirá como Secretario Técnico;
+II.- La Secretaría de Gobernación, quien fungirá como la persona titular de la Presidencia Ejecutiva;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+III.- La Fiscalía General del Estado, quien fungirá como Secretaria Técnica;
 
 IV.- La Secretaría de Seguridad Pública;
 
 V.- La Secretaría de Turismo;
 
-VI.- La Secretaría de Competitividad, Trabajo y Desarrollo Económico;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VII.- La Secretaria de Desarrollo Social;
+VI.- La Secretaría de Trabajo;
 
-VIII.- La Secretaría de Educación Pública;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VII.- La Secretaría de Bienestar;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- La Secretaría de Educación;
 
 IX.- La Secretaría de Salud;
 
-X.- La Secretaría de Transportes;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XI.- El Sistema Estatal para el Desarrollo Integral de la Familia;
+X.- La Secretaría de Movilidad y Transporte;
 
-XII.- El Instituto Poblano de las Mujeres;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XIII.- La Secretaría Ejecutiva del Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública; y
+XI.- La Secretaría de Igualdad Sustantiva;
 
-XIV.- El Representante del Consejo Estatal de Población.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII.- El Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIII.- La Secretaría Ejecutiva del Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Pública, y
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIV.- La persona representante del Consejo Estatal de Población.
 
 La Comisión tendrá como invitados permanentes a:
 
@@ -269,6 +395,8 @@ La Comisión tendrá las siguientes atribuciones:
 
 I.- Realizar un diagnóstico sobre la situación de la Trata de Personas en el Estado;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 II.- Elaborar, aprobar y ejecutar el Programa Estatal;
 
 III.- Aprobar el proyecto del programa de trabajo anual de la Comisión;
@@ -283,7 +411,9 @@ VII.- Promover la elaboración y aplicación de planes, protocolos, programas, m
 
 VIII.- Proponer a las instancias correspondientes las reformas legislativas y administrativas, encaminadas a la prevención y sanción de la Trata de Personas;
 
-IX.- Evaluar el cumplimiento de los objetivos, metas y prioridades del Programa Estatal;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Evaluar el cumplimiento de los objetivos, metas y prioridades del Programa Estatal; así como revisar y evaluar la eficacia de las políticas y acciones con base en los lineamientos que para tal efecto desarrollen las autoridades federales;
 
 X.- Propiciar la coordinación de acciones interinstitucionales para prevenir la Trata de Personas, así como la asistencia a víctimas;
 
@@ -309,9 +439,41 @@ XX.- Realizar campañas para promover la denuncia de los delitos de Trata de Per
 
 XXI.- Desarrollar programas educativos sobre los riesgos en el uso de internet y redes sociales;
 
-XXII.- Monitorear y vigilar de manera permanente que los anuncios clasificados que se publiquen por cualquier medio en territorio estatal, sean establecidos conforme a los lineamientos que emita el Gobierno Federal; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XXIII.- Las demás que la Comisión considere necesarias para el cumplimiento de la presente Ley.
+XXII.- Monitorear y vigilar de manera permanente que los anuncios clasificados que se publiquen por cualquier medio en territorio estatal, sean establecidos conforme a los lineamientos que emita el Gobierno Federal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXIII.- Generar indicadores sobre la aplicación y resultados de los programas para prevenir los delitos en materia de trata de personas, con la finalidad de que los avances puedan ser sujetos a evaluación;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXIV.- Prestar servicios de formación, actualización, capacitación y profesionalización para las y los actores institucionales, así como para las y los servidores públicos, que participan en los procesos de prevención, combate, sanción y erradicación a los delitos en materia de trata de personas y de asistencia y protección de las víctimas, con la finalidad de sensibilizarlos sobre la problemática y dotarlos de herramientas para cumplir con sus obligaciones, siendo siempre garantes de los derechos humanos de las víctimas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXV.- Editar y producir materiales de difusión para la prevención de los delitos en materia de trata de personas, así como de los factores de riesgo para posibles víctimas de estos delitos;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXVI.- Promover la investigación de los delitos en materia de trata de personas para que los resultados sirvan de base para el desarrollo de nuevas políticas y programas para su prevención y combate, así como para desarrollar nuevas medidas de atención, protección y asistencia a las víctimas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXVII.- Promover la investigación científica y el intercambio de experiencias entre las autoridades encargadas de la prevención, sanción y erradicación de los delitos en materia de trata de personas, a fin de desarrollar estrategias que permitan otorgar una atención integral a las víctimas de estos delitos, la cual deberá contemplar, como mínimo, la atención física, psicológica, social, médica, jurídica, de educación y de alimentación;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXVIII.- Establecer las medidas necesarias para garantizar el derecho de acceso a la justicia y a que se investiguen y resuelvan, con la debida diligencia y exhaustividad, los casos en materia de trata de personas, eliminando cualquier conducta o práctica de revictimización, libre de estereotipos y prejuicios;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXIX.- Identificar medidas de protección y tipos de atención a víctimas, ofendidos y testigos de los delitos de trata de personas con la finalidad de realizar una intervención acorde a sus necesidades, por medio de la examinación de los elementos de asistencia a las personas víctimas, ofendidas y testigos de este tipo de delitos, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXX.- Las demás que la Comisión considere necesarias para el cumplimiento de la presente Ley.
 
 ###### ARTÍCULO 21.
 
@@ -341,9 +503,11 @@ V.- Solicitar al Secretario Técnico un informe sobre el seguimiento de los acue
 
 VI.- Las demás que se consideren necesarias para el cumplimiento de las atribuciones de la Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 24.
 
-El Secretario Técnico tendrá las siguientes facultades:
+La Secretaria Técnica tendrá las siguientes facultades:
 
 I.- Coordinar los trabajos para la elaboración del Proyecto del Programa Estatal;
 
@@ -389,17 +553,23 @@ VIII.- Las demás que determine la Comisión.
 
 Los Programas Estatal y Municipales constituyen los instrumentos rectores, en los respectivos ámbitos de competencia, en materia de prevención y erradicación de los delitos de Trata de Personas, así como para la protección y asistencia de las víctimas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 27.
 
-El Programa Estatal tendrá los siguientes objetivos:
+El Programa Estatal tendrá como mínimo, los siguientes objetivos:
 
 I.- Prevenir la Trata de Personas a través de programas de desarrollo local que incluya medidas sociales, culturales, económicas, educativas, asistenciales y jurídicas, con perspectiva de género, a fin de disminuir los factores de vulnerabilidad, incluyendo mecanismos para identificar víctimas y posibles víctimas;
 
 II.- Procurar la protección y asistencia a las víctimas de estos delitos para su recuperación y resocialización para la reconstrucción de su autonomía a través de programas que incluyan asistencia jurídica;
 
-III.- Capacitar a los servidores públicos a nivel estatal y municipal en materia de detección, protección y asistencia a las víctimas de Trata de Personas; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IV.- Desarrollar sistemas de información relativos a las causas, modalidades, particularidades y consecuencias de la Trata de Personas en el Estado y sus Municipios.
+III.- Capacitar a las y los servidores públicos a nivel estatal y municipal en materia de detección, protección y asistencia a las víctimas de Trata de Personas con la finalidad de sensibilizarlos sobre la problemática y dotarlos de herramientas para cumplir con sus obligaciones, siendo siempre garantes de los derechos humanos de las víctimas, y
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IV.- Desarrollar sistemas de información relativos a las causas, modalidades, particularidades, consecuencias e incidencia de la Trata de Personas en el Estado y sus Municipios, así como de los grupos afectados o en mayor grado de vulnerabilidad, para la elaboración de un diagnóstico que permita un rediseño de las acciones y políticas implementadas en la materia.
 
 ###### ARTÍCULO 28.
 
@@ -431,15 +601,29 @@ El Programa Municipal tendrá los siguientes objetivos:
 
 I.- En concordancia con el Programa Estatal, formular políticas e instrumentar programas para prevenir y erradicar los delitos de Trata de Personas;
 
-II.- Promover la capacitación de los servidores públicos en materia de detección, protección y asistencia a las víctimas de Trata de Personas;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+II.- Promover la capacitación de las y los servidores públicos en materia de detección, protección y asistencia a las víctimas de Trata de Personas, con la finalidad de sensibilizarlos sobre la problemática y dotarlos de herramientas para cumplir con sus obligaciones, siendo siempre garantes de los derechos humanos de las víctimas;
 
 III.- Identificar las causas, modalidades, particularidades y consecuencias de la Trata de Personas en el Municipio; así como desarrollar sistemas de información relativos a éstos;
 
 IV.- Prevenir la Trata de Personas a través de medidas sociales, culturales, económicas, educativas, asistenciales y jurídicas, con perspectiva de género, a fin de disminuir los factores de vulnerabilidad, incluyendo mecanismos para identificar víctimas y posibles víctimas;
 
-V.- Procurar la protección y asistencia a las víctimas de estos delitos para su recuperación y resocialización para la reconstrucción de su autonomía, a través de programas que incluyan asistencia jurídica; así como promover la creación de Centros de Atención Especializados; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VI.- Establecer acciones de coordinación y colaboración con los diferentes niveles de gobierno para el cumplimiento a los fines materia de esta Ley.
+V.- Procurar la protección y asistencia a las víctimas de estos delitos para su recuperación y resocialización para la reconstrucción de su autonomía, a través de programas que incluyan asistencia jurídica; así como promover la creación de Centros de Atención Especializados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VI.- Apoyar la creación de refugios o modelos de protección y asistencia de emergencia, hasta que la autoridad competente tome conocimiento del hecho y proceda a proteger y asistir a la víctima, ofendido o testigo de los delitos de trata de personas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VII.- Detectar y prevenir la Trata de Personas en el territorio bajo su responsabilidad, a través de la autorización de funcionamiento de establecimientos como bares, clubes nocturnos, lugares de espectáculos, recintos feriales o deportivos, salones de masajes, hoteles, baños, vapores, loncherías, restaurantes, vía pública, cafés internet y otros, así como a través de la vigilancia e inspección de estos negocios, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Establecer acciones de coordinación y colaboración con los diferentes niveles de gobierno para el cumplimiento a los fines materia de esta Ley.
 
 ###### ARTÍCULO 30.
 
@@ -449,21 +633,37 @@ Las Dependencias y Entidades que constituyan la Comisión, deberán incluir en s
 
 Para financiar las acciones de los programas estatales y municipales materia de esta Ley, el Gobierno del Estado y los Gobiernos Municipales aplicarán los recursos previstos en los respectivos presupuestos de egresos, en otras disposiciones legales, así como los que provengan de donaciones que realicen las organizaciones civiles, instituciones académicas, grupos empresariales y organismos internacionales.
 
-### CAPÍTULO QUINTO. DE LA PROTECCIÓN Y ASISTENCIA DE LAS VÍCTIMAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO QUINTO. DE LA PROTECCIÓN Y ASISTENCIA A LAS PERSONAS VÍCTIMAS, OFENDIDAS Y TESTIGOS
 
 ###### ARTÍCULO 32.
 
 El Ministerio Público y la autoridad judicial garantizarán en todo momento los derechos de las víctimas previstos en el apartado C del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, esta Ley y la legislación aplicable en la materia, con el fin de brindar asistencia, protección, seguridad y acceso a la justicia.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Lo anterior con independencia de que se identifique, aprehenda, sujete a proceso o condene a la persona autora, coautora o partícipe del delito y con independencia de la relación familiar, de dependencia, laboral o económica que pudiera existir entre ésta y la víctima u ofendido.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Las personas ofendidas gozarán de los mismos derechos reconocidos a la víctima.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 33.
 
-Las víctimas de la Trata de Personas, en materia de protección y asistencia, de manera enunciativa más no limitativa, tienen derecho a:
+Las víctimas, ofendidos y testigos de los delitos de Trata de Personas, en materia de protección y asistencia, de manera enunciativa más no limitativa, tienen derecho a:
 
 I.- Recibir información sobre sus derechos en el idioma o lengua que comprenda y en forma accesible a su edad y madurez;
 
-II.- Recibir atención médica, jurídica, psicológica y psiquiátrica en todo momento;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-III.- Recibir, si así lo desean, alojamiento temporal y tratamiento terapéutico en los Centros de Atención Especializados creados para tal fin;
+II.- Recibir atención médica de calidad, jurídica, psicológica, psiquiátrica, física y social en todo momento, por conducto de las autoridades estatales encargadas en la materia, las que se podrán auxiliar de instituciones u organizaciones especializadas privadas, comunitarias y de la sociedad civil, en términos de la normativa aplicable;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+III.- Recibir, si así lo desean, alojamiento temporal adecuado y tratamiento terapéutico en los Centros de Atención Especializados creados para tal fin. Asimismo, se les ofrecerán modelos de medio camino y opciones dignas y viables para su reinserción social encaminada a la construcción de su autonomía;
 
 IV.- Ser tratadas con respeto en su dignidad;
 
@@ -471,19 +671,31 @@ V.- A que la autoridad correspondiente les informe y gestione servicios de salud
 
 VI.- Obtener protección y seguridad, salvaguardando su integridad y la de su familia;
 
-VII.- Derecho a la confidencialidad; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Los demás que tengan por objeto salvaguardar el libre desarrollo de la personalidad, su integridad y sus derechos.
+VII.- Acceso a la educación, capacitación y oportunidades de empleo, hasta su total recuperación y resocialización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Derecho a la confidencialidad, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Los demás que resulten pertinentes para salvaguardar su seguridad física, su libertad, dignidad, integridad física y mental, sus derechos humanos y la reparación del daño, así como el normal desarrollo de su personalidad.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 La atención a que se refieren las fracciones II y III podrá ser proporcionada por autoridades competentes en coordinación con organizaciones no gubernamentales y otros sectores de la sociedad civil.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 34.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, aplicarán las medidas destinadas a prever la recuperación física, psicológica y social de las víctimas de la Trata de Personas, incluso, en cooperación con organizaciones no gubernamentales especializadas en la materia y constituidas legalmente.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, aplicarán las medidas destinadas a prever la recuperación física, psicológica y social de las personas víctimas, ofendidas y testigos de la Trata de Personas, incluso, en cooperación con organizaciones no gubernamentales especializadas en la materia y constituidas legalmente.
 
-Para efectos del párrafo anterior, se procurará contar con Centros de Atención Especializados que podrán ser albergues, refugios o casas de medio camino, en los que se aplicarán los instrumentos especializados, reglamentos y protocolos en protección y asistencia a la víctima.
+Para efectos del párrafo anterior, se procurará contar con Centros de Atención Especializados que podrán ser albergues, refugios o casas de medio camino, en los que se aplicarán los instrumentos especializados, reglamentos y protocolos en protección y asistencia a las personas víctimas, ofendidas y testigos.
 
-En éstos, se brindarán las condiciones para garantizar el respeto a sus derechos humanos, alojamiento por el tiempo necesario, asistencia jurídica, médica, psicológica y psiquiátrica, alimentación y los cuidados, atendiendo a las necesidades particulares de las víctimas con especial referencia a las niñas, niños, adolescentes y mujeres.
+En éstos, se brindarán las condiciones para garantizar el respeto a sus derechos humanos, alojamiento por el tiempo necesario, asistencia jurídica, médica, psicológica y psiquiátrica, alimentación y los cuidados, atendiendo a las necesidades particulares de las personas víctimas, ofendidas y testigos con especial referencia a las niñas, niños, adolescentes y mujeres.
 
 ###### ARTÍCULO 35.
 
@@ -493,9 +705,11 @@ En ningún caso se alojará a las víctimas de la Trata de Personas en estableci
 
 A fin de facilitar la permanencia, el traslado o repatriación de las víctimas de Trata de Personas que carezcan de la documentación debida, las autoridades del Estado procurarán formular y ejecutar las acciones y estrategias pertinentes, así como celebrar los convenios que correspondan con las autoridades competentes, a fin de que las víctimas de estos delitos cuenten con un regreso seguro a su país de origen o al lugar en donde tengan su residencia.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 37.
 
-Los servidores públicos que intervengan en la investigación, persecución y sanción de los hechos de los delitos de Trata de Personas, así como de la asistencia a las víctimas, estarán obligados a proteger la privacidad e identidad de éstas, familiares y testigos, previendo la confidencialidad.
+Las y los servidores públicos que intervengan en la investigación, persecución y sanción de los hechos de los delitos de Trata de Personas, así como de la asistencia a las víctimas, estarán obligados a proteger la privacidad e identidad de éstas, ofendidos y testigos, garantizando la confidencialidad.
 
 ###### ARTÍCULO 38.
 
@@ -505,9 +719,11 @@ Sólo podrá proporcionarse dicha información a solicitud de la autoridad respo
 
 Cuando las autoridades den cumplimiento a lo previsto en el párrafo anterior, lo harán con las previsiones necesarias para que la información conserve su carácter de información reservada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 39.
 
-Las autoridades estatales y municipales, en el ámbito de sus competencias, preverán las medidas necesarias para la seguridad de las víctimas, familiares y testigos de Trata de Personas, mientras se encuentren en territorio estatal, para lo cual adoptarán además las medidas siguientes:
+Las autoridades estatales y municipales, en el ámbito de sus competencias, preverán las medidas necesarias para la seguridad de las personas víctimas, ofendidas y testigos de Trata de Personas, mientras se encuentren en territorio estatal, para lo cual adoptarán además las medidas siguientes:
 
 I.- Establecer mecanismos adecuados para identificar a las víctimas y posibles víctimas;
 
@@ -531,15 +747,37 @@ Las medidas de protección y los tratamientos médicos y psicológicos que se pr
 
 ### CAPÍTULO SEXTO. DE LA REPARACIÓN DEL DAÑO
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 42.
 
-La reparación del daño a toda víctima de Trata de Personas, comprenderá además de lo establecido por la legislación aplicable en la materia, lo siguiente:
+La reparación integral del daño a toda víctima de Trata de Personas deberá ser plena y efectiva, proporcional a la gravedad del daño causado y a la afectación del proyecto de vida, y comprenderá además de lo establecido por la legislación aplicable en la materia, lo siguiente:
 
-I.- Los costos del tratamiento médico y psicológico;
+I.- La restitución de los bienes o la cosa obtenida por el delito con sus frutos y accesorios, y el pago, en su caso, de los deterioros que hubiere sufrido, y si no fuese posible la restitución el pago de su valor actualizado;
 
-II.- Los costos de la terapia y recuperación y resocialización para la reconstrucción de su autonomía física y ocupacional; y
+II.- El pago de los daños físicos, materiales, psicológicos, así como la reparación integral al daño moral.
 
-III.- Los costos del transporte, incluido el de retorno a su lugar de origen, gastos de alimentación, vivienda provisional y cuidado de la víctima.
+Incluirá, por lo menos, los costos de tratamiento médico, medicina, exámenes clínicos e intervenciones necesarias, rehabilitación física, prótesis o aparatos ortopédicos, así también la terapia o tratamiento psiquiátrico, psicológico y rehabilitación social y ocupacional hasta la rehabilitación total de la víctima;
+
+III.- La pérdida de oportunidades, del empleo, educación y prestaciones sociales que de no haberse cometido el delito se tendrían; por tanto, deberá repararse el daño para que la persona víctima u ofendida puedan acceder a nuevos sistemas de educación, laborales y sociales acorde a sus circunstancias;
+
+IV.- El pago de los ingresos económicos que se hubieren perdido, así como y (sic) el lucro cesante ocasionado por la comisión del delito;
+
+V.- Los gastos de asistencia y representación jurídica o de peritos, hasta la total conclusión de los procedimientos legales;
+
+VI.- Los costos del transporte de retorno a su lugar de origen, si así lo decide la víctima, gastos de alimentación, vivienda provisional, vestido y los que sean necesarios durante la investigación, el proceso y la rehabilitación física y psíquica total de la víctima;
+
+VII.- La declaración que restablezca la dignidad y la reputación de la persona víctima u ofendida y de las personas vinculadas a ella, a través de los medios que solicite, y
+
+VIII.- La disculpa pública de reconocimiento de hechos y aceptación de responsabilidad, cuando en el delito participe servidor público o agente de autoridad.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 42 BIS.- Tienen derecho a la reparación integral del daño:
+
+I.- La víctima y la o las personas ofendidas, y
+
+II.- A falta de la víctima o de la o las personas ofendidas, sus dependientes económicos, herederos o derechohabientes, en la proporción que señale el derecho sucesorio.
 
 ###### ARTÍCULO 43.
 
@@ -555,9 +793,11 @@ Cuando la reparación del daño no sea cubierta total o parcialmente por el sent
 
 Los derechos de la autoridad para exigir al sentenciado la reparación del daño, quedarán a salvo para hacerlos efectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 45.
 
-El Fondo será administrado por la Procuraduría General de Justicia del Estado y se integrará por:
+El Fondo será administrado por la Fiscalía General del Estado y se integrará por:
 
 I.- Los Recursos aportados por la Federación, el Estado y en su caso, los Municipios;
 
@@ -677,9 +917,17 @@ VI.- Autorizar la utilización de cualquier medio, instrumentos o herramienta pa
 
 VII.- Toda aquélla que determinen las leyes aplicables.
 
+> <small>[N. DE E. ESTE PÁRRAFO ES SIMILAR AL ÚLTIMO PÁRRAFO DEL PRESENTE ARTÍCULO, P.O. 6 DE DICIEMBRE DE 2019]</small>
+
 Para los efectos de este artículo el Ministerio Público se podrá coordinar con la Procuraduría General de la República o con las Procuradurías de otros Estados en la investigación.
 
 Por informante se entenderá toda persona física o jurídica que de forma directa o indirecta tiene conocimiento de la comisión de delitos, y por su situación o actividad que realiza, provee dicha información a las instancias de gobierno para la investigación.
+
+> <small>[N. DE E. ESTE PÁRRAFO ES SIMILAR AL SEGUNDO PÁRRAFO DEL PRESENTE ARTÍCULO, P.O. 6 DE DICIEMBRE DE 2019]</small>
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Para los efectos de este artículo el Ministerio Público se podrá coordinar con la Fiscalía General de la República o con las Fiscalías de otros Estados en la investigación.
 
 ###### ARTÍCULO 52.
 
@@ -751,11 +999,11 @@ TERCERO.- El Ejecutivo del Estado y los Ayuntamientos realizarán las adecuacion
 
 CUARTO.- Se abroga la Ley para la Prevención del Delito de Trata de Personas y para la Protección y Asistencia de sus Víctimas del Estado de Puebla.
 
-QUlNTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SEXTO.- Las disposiciones legales de esta Ley que se refieren al Fondo destinado a la protección y asistencia a las víctimas de los delitos de Trata de Personas, entrarán en vigor una vez que se conforme el mismo, en términos de las disposiciones legales aplicables.
 
-SÉPTlMO.- El cumplimiento a lo previsto en el primer párrafo del artículo 44, queda sujeto a la integración del Fondo y a las disposiciones administrativas y presupuestarias que se emitan para tal efecto.
+SÉPTIMO.- El cumplimiento a lo previsto en el primer párrafo del artículo 44, queda sujeto a la integración del Fondo y a las disposiciones administrativas y presupuestarias que se emitan para tal efecto.
 
 OCTAVO.- Todos los asuntos que se encuentren en etapa de averiguación previa, proceso, hayan sido sentenciados o se encuentren en la ejecución de sentencia por delitos relacionados con el presente Decreto, seguirán rigiéndose por las normas vigentes al momento de la comisión del hecho delictivo.
 
@@ -768,3 +1016,15 @@ El Reglamento de la Ley para la Prevención del Delito de Trata de Personas y pa
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil doce.- Diputado Presidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- RAMÓN FELIPE LÓPEZ CAMPOS.- Rúbrica.- Diputado Secretario.- JESÚS SALVADOR ZALDÍVAR BENAVIDES.- Rúbrica.- Diputado Secretario.- ALEJANDRO OAXACA CARREÓN.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de diciembre de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LOS SIGUIENTES ORDENAMIENTOS: LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA, LA LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA, EL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y EL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
