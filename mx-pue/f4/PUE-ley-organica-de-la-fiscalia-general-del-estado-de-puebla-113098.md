@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2018-09-10"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -667,9 +667,21 @@ El Instituto de Ciencias Forenses se integra por peritos especialmente calificad
 
 El Instituto de Ciencias Forenses tendrá las funciones siguientes:
 
-I. Verificar hechos que requieren conocimientos técnicos, artísticos o científicos que escapan a la cultura común de la gente, sus causas y sus efectos; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-II. Suministrar reglas y conocimientos técnicos o científicos de su experiencia o especialidad para formar convicción sobre hechos e ilustrarlos, con el fin de que se entiendan y puedan apreciarse correctamente.
+I. Verificar hechos que requieren conocimientos técnicos, artísticos o científicos que escapan a la cultura común de la gente, sus causas y sus efectos;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+II. Suministrar reglas y conocimientos técnicos o científicos de su experiencia o especialidad para formar convicción sobre hechos e ilustrarlos, con el fin de que se entiendan y puedan apreciarse correctamente, con perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+III. A través del Servicio Médico Forense y de los peritos que lo integren, emitir estudios de carácter médico forense, identificación de cadáveres, químicos toxicológicos, histopatológicos, genéticos, antropométricos, odontológicos, dactiloscópicos, entomológicos, valoraciones psiquiátricas y psicológicas y demás estudios de esta naturaleza que resulten necesarios para el esclarecimiento de los hechos en materia de procuración e impartición de justicia, y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IV. Las demás que le sean asignadas por el Fiscal General del Estado.
 
 ### CAPÍTULO V. DE LA AGENCIA ESTATAL DE INVESTIGACIÓN
 
@@ -1500,3 +1512,25 @@ P.O. 10 DE SEPTIEMBRE DE 2018.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día de su publicación.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 113, LA SECCIÓN CUARTA DEL CAPÍTULO IV, Y EL ARTÍCULO 120 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA; Y REFORMA LAS FRACCIONES I Y II DEL ARTÍCULO 23, Y ADICIONA LAS FRACCIONES III Y IV AL 23 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, el Consejo de la Judicatura del Poder Judicial del Estado de Puebla, transferirá a la Fiscalía General del Estado de Puebla, los asuntos y recursos humanos, materiales y financieros asignados al Servicio Médico Forense, con la intervención de los órganos internos de control respectivos, de conformidad con la normatividad aplicable.
+
+El Consejo de la Judicatura del Poder Judicial del Estado de Puebla y la Fiscalía General del Estado de Puebla, con el apoyo de las dependencias competentes, proveerán, acordarán y resolverán lo necesario para cumplir oportunamente el proceso de transferencia, incluyendo lo relativo a la reorganización de sus estructuras y las adecuaciones presupuestales conducentes conforme a lo dispuesto en la Ley de Egresos del Estado de Puebla, para el ejercicio fiscal que corresponda.
+
+CUARTO. El Servicio Médico Forense a cargo del Consejo de la Judicatura del Poder Judicial del Estado de Puebla, continuará en funciones durante el proceso de transferencia, a efecto de no suspender la prestación de los servicios respectivos, por lo que los procedimientos y asuntos que con motivo de la entrada en vigor de este Decreto deban pasar del Poder Judicial del Estado de Puebla a la Fiscalía General del Estado de Puebla, a través del Instituto de Ciencias Forenses, continuarán tramitándose por el Servicio Médico Forense hasta que termine totalmente dicha transferencia y se emita acuerdo de conclusión por el Presidente del Consejo de la Judicatura.
+
+QUINTO. El Consejo de la Judicatura del Poder Judicial del Estado de Puebla y la Fiscalía General del Estado de Puebla, deberán hacer las gestiones conducentes ante la Secretaría de Planeación y Finanzas, para que realice las adecuaciones presupuestales y tome las previsiones necesarias, para su inclusión en el presupuesto para el Ejercicio Fiscal 2020.
+
+SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente ordenamiento se refiera al Servicio Médico Forense, se entenderá atribuido al Instituto de Ciencias Forenses de la Fiscalía General del Estado.
+
+SÉPTIMO. Los derechos y obligaciones contractuales, contraídos por el Servicio Médico Forense, serán atribuidos al Instituto de Ciencias Forenses de la Fiscalía General del Estado.
+
+OCTAVO. Los derechos laborales del personal que en virtud del proceso de transferencia derivado del presente Decreto, pasen del Poder Judicial del Estado de Puebla a la Fiscalía General del Estado de Puebla, se respetarán en términos de la Ley de los Trabajadores al Servicio del Estado.
