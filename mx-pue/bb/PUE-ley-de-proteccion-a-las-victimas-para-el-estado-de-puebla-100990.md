@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-las-victimas-para-el-estado-de-puebla-10099
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-19"
-last_updated: "2019-06-21"
+last_updated: "2019-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE PROTECCION A LAS VICTIMAS PARA EL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE VÍCTIMAS DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 6 DE DICIEMBRE DE 2019; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMERO DE ENERO DE DOS MIL VEINTE.]</small>
+
 LEY DE PROTECCIÓN A LAS VÍCTIMAS PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 19 de mayo de 2014.
 
@@ -37,7 +39,9 @@ Que por la Secretaría del H. Congreso se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 51, 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 102, 115, 119, 123 fracciones II, XII y XVI, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46, 47, 48 fracciones II, XII y XVI del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide la siguiente:
 
@@ -772,3 +776,25 @@ P.O. 21 DE JUNIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE EXPIDE LA LEY DE VÍCTIMAS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. La presente Ley deberá ser publicada en el Periódico Oficial del Estado y entrará en vigor el primero de enero de dos mil veinte, con la Ley de Egresos del Estado de Puebla para el ejercicio fiscal respectivo.
+
+SEGUNDO. A la entrada en vigor de la presente Ley quedará abrogada la Ley de Protección a las Víctimas para el Estado de Puebla, publicada en el Periódico Oficial del Estado el diecinueve de mayo de dos mil catorce.
+
+TERCERO. En un plazo de sesenta días naturales a partir de la publicación de la presente Ley, las instancias competentes deberán hacer las adecuaciones normativas pertinentes para la correcta operación de la Comisión Estatal y el Fondo Estatal, para evitar duplicidades, con pleno respeto a los derechos y obligaciones contractuales que en su caso sean materia de transferencia o subrogación.
+
+CUARTO. El Poder Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, y el Congreso del Estado, deberán realizar las adecuaciones presupuestales necesarias, establecer las partidas correspondientes en la Ley de Egresos para el ejercicio fiscal respectivo y tomar las previsiones conducentes, para la integración del Fondo Estatal en términos de la presente Ley y la Ley General. Las aportaciones para la constitución del Fondo Estatal deberán efectuarse a más tardar el treinta y uno de marzo de dos mil veinte, en los términos que dispongan las instancias competentes, de conformidad con las normas aplicables. Las erogaciones que deriven de la aplicación del presente Decreto están sujetas a la suficiencia presupuestal que autorice el Congreso del Estado.
+
+QUINTO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría de Gobernación, a través de la Subsecretaría de Prevención del Delito y Derechos Humanos, y la Fiscalía General del Estado de Puebla, a través de la Dirección General de Protección a Víctimas del Delito y Servicios a la Comunidad, deberán hacer las gestiones conducentes en materia de presupuestación y transferencia de recursos y asuntos a la Comisión Estatal para su adecuada operación, con la intervención de la Secretaría de Planeación y Finanzas y de los órganos internos de control respectivos, de conformidad con la normatividad aplicable.
+
+SEXTO. Toda referencia que, en los demás instrumentos legales, jurídicos o administrativos, se haga a las funciones en materia de Víctimas que regula esta Ley, se entenderá que son atribución o competencia de la Comisión Estatal en lo conducente.
+
+SÉPTIMO. Los derechos y obligaciones contractuales, contraídos por la Dirección General de Protección a Víctimas del Delito y Servicios a la Comunidad, serán atribuidos a la Comisión Estatal, y en el caso de los derechos laborales del personal que, en virtud del proceso de transferencia correspondiente, pasen de la Fiscalía General del Estado de Puebla a la Comisión Estatal, se respetarán en términos de la Ley de los Trabajadores al Servicio del Estado.
+
+OCTAVO. El reglamento de la presente Ley deberá emitirse al día siguiente de la entrada en vigor de la presente Ley.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
