@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2019-07-29"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -45,9 +45,11 @@ LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PU
 
 ### CAPÍTULO I. DEL OBJETO Y APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden público, interés social, observancia general y tienen por objeto establecer la coordinación entre el Estado y los Municipios, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como los principios, tipos, modalidades y mecanismos para garantizar su acceso a una vida libre de violencia, a fin de mejorar de manera integral su calidad de vida y el pleno ejercicio de todos sus derechos.
+Las disposiciones de esta Ley son de orden público, interés social, observancia general y tienen por objeto establecer la coordinación entre el Estado y los Municipios, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como los principios, tipos, modalidades y mecanismos para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia y el desarrollo integral y sustentable.
 
 ###### ARTÍCULO 2.
 
@@ -55,11 +57,11 @@ El Estado y los Municipios, en el ámbito de sus respectivas competencias, garan
 
 El Estado y los Municipios deberán coadyuvar con la Federación para garantizar el derecho a que se refiere el párrafo anterior, en términos de la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 3.
 
-En todo lo no previsto en el presente ordenamiento, serán aplicables de manera supletoria en lo conducente las leyes federales y locales en la materia, y los criterios contenidos en los Instrumentos Jurídicos Internacionales ratificados por el Estado Mexicano.
-
-Si con motivo de la aplicación de esta Ley se adviertan diferentes tipos o modalidades de violencia contra las mujeres, se deberá optar por aquellos ordenamientos que las protejan con mayor eficacia.
+En todo lo no previsto en el presente ordenamiento, será aplicable, de manera supletoria, la ley general en la materia.
 
 ###### ARTÍCULO 4.
 
@@ -69,9 +71,9 @@ Las medidas previstas en esta Ley garantizarán la prevención, atención, sanci
 
 En la instrumentación y ejecución de las políticas públicas estatales y municipales para el acceso de las mujeres a una vida libre de violencia, deberán ser observados los principios rectores siguientes:
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-I.- La igualdad jurídica entre la mujer y el hombre.
+I.- La igualdad sustantiva entre las mujeres y los hombres;
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
 
@@ -81,17 +83,15 @@ II.- El respeto a la dignidad humana de las mujeres.
 
 III.- La no discriminación, sea directa o indirecta, especialmente aquella que pueda derivar de la condición de maternidad, estado civil o asunción de obligaciones familiares.
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IV.- La equidad.
+IV.- La libertad de las mujeres, y
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-V.- La libertad de las mujeres.
+V.- La protección y garantía de los derechos humanos.
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
-
-VI.- La protección y garantía de los derechos humanos.
+VI.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 6.
 
@@ -103,55 +103,79 @@ I.- Consejo: El Consejo Estatal para la Atención de la Violencia Familiar;
 
 II.- Derechos Humanos de las Mujeres: Aquellos derechos subjetivos que corresponden universalmente y de manera integrante, inalienable e indivisible a toda persona de sexo femenino contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer y demás instrumentos nacionales e internacionales en la materia de los cuales el Estado Mexicano sea parte;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+II Bis.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
 
-II Bis.- Discriminación: Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-III.- Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+III.- Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos o libertades de las personas, grupos y comunidades en situaciones de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas.
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+También es discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, aporofobia, así como la discriminación racial y otras formas conexas de intolerancia;
 
-IV.- Instituciones Públicas o Privadas: Las instituciones públicas o privadas encargadas de la atención a las mujeres víctimas por violencia, ya sean asociaciones, sociedades o agrupaciones legalmente constituidas que tengan ese objeto, así como realizar acciones de prevención, atención y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-V.- Ley: La Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla;
+IV.- Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
-VI.- Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VII.- Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+V.- Instituciones Públicas o Privadas: Las instituciones públicas o privadas encargadas de la atención a las mujeres víctimas por violencia, ya sean asociaciones, sociedades o agrupaciones legalmente constituidas que tengan ese objeto, así como realizar acciones de prevención, atención y erradicación de la violencia contra las mujeres;
 
-VIII.- Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+VI.- Ley: La Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla;
 
-IX.- Víctima: La mujer de cualquier edad a quien se le causa algún tipo de violencia;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+VII.- Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
-IX Bis.- Persona en condición de vulnerabilidad: aquella que, por razón de su edad, género, estado físico o mental, o por circunstancias sociales, económicas, étnicas y/o culturales, encuentra especial dificultad para ejercitar con plenitud ante el sistema de justicia sus derechos humanos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-X.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquía de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+VIII.- Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-X Bis.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales;
+IX.- Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XI.- Presunto o presunta generador de violencia: El hombre o mujer que puede causar cualquier tipo de violencia contra las mujeres;
+X.- Víctima: La mujer de cualquier edad a quien se le causa algún tipo de violencia;
 
-XII.- Programa Integral: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+X Bis.- (DEROGADA, P.O. 6 DE DICIEMBRE DE 2019)
 
-XIII.- Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XIV.- Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+XI.- Persona en condición de vulnerabilidad: aquella que, por razón de su edad, género, estado físico o mental, o por circunstancias sociales, económicas, étnicas y/o culturales, encuentra especial dificultad para ejercitar con plenitud ante el sistema de justicia sus derechos humanos;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XV.- Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y
+XII.- Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquía de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XVI.- Violencia contra las Mujeres: Cualquier acción u omisión que, con motivo de su género, les cause daño físico, psicológico, económico, patrimonial, sexual, obstétrico o la muerte, en cualquier ámbito.
+XIII.- Presupuestos con perspectiva de género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la igualdad e integración transversal de la política de género en planes, programas y acciones gubernamentales;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIV.- Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV.- Programa Integral: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(REFORMADA, [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVI.- Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVII.- Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVIII.- Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIX.- Violencia contra las Mujeres: Cualquier acción u omisión que, con motivo de su género, les cause daño físico, psicológico, económico, patrimonial, sexual, obstétrico o la muerte, en cualquier ámbito.
 
 ###### ARTÍCULO 7.
 
@@ -205,19 +229,21 @@ Los tipos de violencia contra las mujeres son:
 
 I.- Violencia física.- Es todo acto que causa daño no accidental, por medio del empleo de la fuerza física, algún tipo de arma, objeto o sustancia que pueda provocar o no lesiones internas, externas, o ambas;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-II.- Violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica de la mujer, la cual puede consistir en amenazas, negligencia, abandono, descuido reiterado, insultos, gritos, humillaciones, marginación y/o restricción a la autodeterminación, las cuales conllevan a la mujer a la depresión, aislamiento, desvalorización, anulación de su autoestima e incluso al suicidio;
+II.- Violencia psicológica.- Es cualquier acto u omisión que dañe la estabilidad psicológica de la víctima, la cual puede consistir en amenazas, negligencia, abandono, descuido reiterado, insultos, gritos, humillaciones, marginación y/o restricción a la autodeterminación, celotipia, devaluación, indiferencia, infidelidad, comparaciones destructivas, rechazo o cualquier otra que conlleve a la víctima a la depresión, aislamiento, desvalorización, anulación de su autoestima e incluso al suicidio;
 
-III.- Violencia económica.- Es toda acción u omisión de cualquier persona que afecta la supervivencia económica de la mujer. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+III.- Violencia económica.- Es toda acción u omisión que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-IV.- Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la mujer. Se manifiesta en la sustracción, retención, destrucción o transformación de bienes, derechos u obligaciones o cualquier otro tipo de documentos comunes o propios de la víctima destinados a satisfacer sus necesidades;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+IV.- Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la sustracción, retención, destrucción, transformación o distracción de objetos, bienes, valores, derechos u obligaciones o cualquier otro tipo de documentos comunes o propios de la víctima destinados a satisfacer sus necesidades;
 
-V.- Violencia sexual.- Es cualquier acto que dañe o lesione el cuerpo y/o la sexualidad de la mujer, por tanto atenta contra su integridad física, libertad o dignidad;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+V.- Violencia sexual.- Es cualquier acto que degrade, dañe o lesione el cuerpo y/o la sexualidad de la víctima, por tanto atenta contra su integridad física, libertad y/o dignidad. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
 > <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -229,55 +255,43 @@ VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de da
 
 #### SECCIÓN PRIMERA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO FAMILIAR
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 11.
 
-La violencia contra las mujeres en el ámbito familiar, es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, obstétrica, o cualquier otra de naturaleza análoga a las mujeres, dentro o fuera del domicilio familiar, ejercida por cualquier persona que tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, cualquier otra relación de afectividad, convivencia conjunta, encauzada o que tenga como resultado constituir una relación de matrimonio o concubinato.
+La violencia contra las mujeres en el ámbito familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, obstétrica o cualquier otra de naturaleza análoga a las mujeres, dentro o fuera del domicilio familiar, cuando el agresor tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, cualquier otra relación de afectividad, convivencia conjunta, encauzada o que tenga como resultado constituir una relación de matrimonio o concubinato.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 12.
 
 Los modelos de prevención, investigación, atención, sanción y erradicación de la violencia que se establezcan en el Estado y los Municipios, son las medidas y acciones que deben garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos y deberá tomarse en consideración:
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+I.- Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las víctimas, favoreciendo su empoderamiento, así como garantizar la reparación del daño causado;
 
-I.- Proporcionar atención, asesoría jurídica y tratamiento psicológico especializado y gratuito a las mujeres a quienes se les ha causado violencia, favoreciendo su empoderamiento, así como garantizar la reparación del daño causado;
+II.- Brindar servicios integrales, especializados y gratuitos al agresor para erradicar las conductas violentas a través de una atención que elimine los estereotipos de supremacía masculina, y los patrones de conducta que generan la violencia;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+III.- La atención que reciban la víctima y el agresor será proporcionada por persona distinta y en lugar diferente. En ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
-II.- Brindar servicios integrales, especializados y gratuitos a la presunta o presunto generador de violencia para erradicar las conductas violentas a través de una atención que elimine los estereotipos de supremacía masculina, y los patrones de conducta que generan la violencia;
+IV.- Favorecer la separación y distanciamiento del agresor con respecto a la víctima, protegiendo necesariamente a ésta y a sus hijas e hijos;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+V.- Favorecer la instalación y mantenimiento de albergues, casas de medio camino y refugios para las víctimas, sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia, y
 
-III.- La atención que reciban la víctima y la presunta o presunto generador de violencia será proporcionada por persona distinta y en lugar diferente. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
-
-IV.- Favorecer la separación y distanciamiento del presunto o presunta generador de violencia con respecto a la víctima, protegiendo necesariamente a ésta y a sus hijas e hijos;
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
-
-V.- Favorecer la instalación y mantenimiento de instituciones públicas o privadas encargadas de la atención a víctimas, así como para sus hijas e hijos; la información sobre su ubicación será secreta. Las personas que laboren en éstas instituciones deberán contar con la preparación y experiencia profesional en la materia en que desarrollen su trabajo. No podrán laborar en los mismos las personas que hayan sido sancionadas por haber cometido algún tipo de violencia; y
-
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
-
-VI.- Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el generador de violencia y la víctima.
+VI.- Prohibir procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima.
 
 #### SECCIÓN SEGUNDA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO LABORAL O DOCENTE
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 13.
 
-La violencia contra las mujeres en el ámbito laboral o docente, consiste en el aprovechamiento indebido de una situación de superioridad jerárquica, ejercicio abusivo de cualquier facultad que sitúe a la mujer en un plano de subordinación, o bien, cualquier omisión en el cumplimiento de determinadas obligaciones suficiente, dolosa y motivada por razones de género, que menoscabe los derechos laborales de la mujer, que pueda dañar su salud e integridad física, psíquica, libertad o seguridad, así como su desarrollo profesional, académico o análogo, y que se ejerce por personas con quienes tiene un vínculo laboral, docente o análogo.
+La violencia contra las mujeres en el ámbito laboral o docente, consiste en el ejercicio abusivo de cualquier facultad que sitúe a la mujer en un plano de subordinación, o bien, cualquier omisión en el cumplimiento de determinadas obligaciones suficiente, dolosa y motivada por razones de género, que menoscabe los derechos laborales de la mujer, que pueda dañar su salud e integridad física, psíquica, libertad o seguridad, así como su desarrollo profesional, académico o análogo, y que se ejerce por personas con quienes tiene un vínculo laboral, docente o análogo, independientemente de la relación jerárquica.
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 14.
 
-La violencia contra las mujeres en el ámbito laboral, consiste en la privación del disfrute de derechos laborales a la mujer, motivados por razones de género, tales como la negativa a contratar a la agraviada, respetar su permanencia; la descalificación del trabajo realizado; obstaculización de la formación o promoción profesional; el menoscabo de su salario y sus condiciones de trabajo o asignación de las mismas desproporcionada e injustificadamente distintas a las de sus iguales; discriminación ocupacional; exclusión para acceder a puestos directivos; negativa injustificada de afiliación y participación en organizaciones sindicales u análogas; amenazas, hostigamiento, acoso sexual, las humillaciones, la explotación, el impedimento de regresar al trabajo después del embarazo y llevar a cabo el período de lactancia previsto en la Ley y todo tipo de discriminación por condición de género.
+La violencia contra las mujeres en el ámbito laboral, consiste en la privación del disfrute de derechos laborales a la víctima, motivados por razones de género, tales como la negativa a contratar a la agraviada, respetar su permanencia; la descalificación del trabajo realizado; obstaculización de la formación o promoción profesional; el menoscabo de su salario y sus condiciones de trabajo o asignación de las mismas desproporcionada e injustificadamente distintas a las de sus iguales; discriminación ocupacional; exclusión para acceder a puestos directivos; negativa injustificada de afiliación y participación en organizaciones sindicales u análogas; amenazas, hostigamiento, acoso sexual, las humillaciones, la explotación, el impedimento de regresar al trabajo después del embarazo y llevar a cabo el período de lactancia previsto en la Ley y todo tipo de discriminación por condición de género.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -285,27 +299,45 @@ La violencia contra las mujeres en el ámbito laboral, consiste en la privación
 
 La violencia contra las mujeres en el ámbito docente, consiste en aquellas conductas lesivas, motivadas por razones de género, que pueden dañar la autoestima de las mujeres por motivos de discriminación en razón de su sexo, edad, condición social, académica, limitaciones y/o características físicas, así como la obstaculización en el ejercicio de los derechos que le corresponden como madre de familia, en términos de la Ley General de Educación, causadas por el personal con funciones de dirección, supervisión y docente, en todos los niveles educativos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 16.
 
-El Estado en ejercicio de sus funciones y de acuerdo al ámbito de competencia deberá:
+El Estado y los municipios en ejercicio de sus funciones y dentro de su ámbito de competencia deberán:
 
 I.- Establecer políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
 
-II.- Difundir entre la población las figuras delictivas del hostigamiento y el acoso sexual;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+II.- Difundir entre la población las acciones constitutivas de hostigamiento y acoso sexual, así como los tipos penales correspondientes:
 
-III.- Diseñar programas que brinden servicios integrales especializados para víctimas y presunto o presunta generador de violencia; y
+a) Hostigamiento sexual: el ejercicio abusivo del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral o escolar, sistemático o no, que se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad y de connotación lasciva;
+
+b) Acoso sexual: es una forma de violencia similar al hostigamiento sexual, con la diferencia de que no existe una subordinación real de la víctima frente al agresor, pero igualmente hay un ejercicio abusivo de poder que conlleva un estado indeseable de sometimiento o indefensión y de riesgo para la víctima, independientemente de si se realiza en uno o varios eventos.
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+III.- Diseñar programas que brinden servicios integrales especializados para víctimas y agresores, los cuales deberán instrumentarse de forma individual y en lugares separados, y
 
 IV.- Difundir y dar seguimiento a la observancia del Código de Ética de los Servidores Públicos.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-ARTÍCULO 16 BIS.- Los Centros de Trabajo que integran las Dependencias y Entidades del sector público del Estado y los Municipios, deberán certificarse de acuerdo a la norma mexicana vigente en materia de igualdad laboral y no discriminación, a efecto de integrar, implementar y ejecutar dentro de sus procesos de gestión y de recursos humanos, prácticas que favorezcan el desarrollo integral de las y los trabajadores.
+ARTÍCULO 16 BIS.- Con el propósito de erradicar el hostigamiento y acoso, el Estado y los municipios, dentro de su ámbito de competencia, deberán implementar las siguientes acciones:
 
-El Ejecutivo del Estado deberá promover la certificación señalada en el párrafo anterior en todos los Centros de Trabajo del ámbito privado.
+I.- Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
+
+II.- Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales públicos y privados, mediante los acuerdos y convenios correspondientes;
+
+III.- Crear los procedimientos administrativos para la denuncia de estos ilícitos en los centros laborales y escuelas, sin que se haga público, en ningún caso, el nombre de la víctima o denunciante y evitar cualquier tipo de sobre victimización o que la víctima o denunciante sea boletinada o presionada para abandonar el lugar de trabajo o escuela; asimismo, se deberán establecer sanciones administrativas para los superiores jerárquicos del hostigador o acosador, cuando sean omisos en recibir o dar curso a una denuncia, y
+
+IV.- Proporcionar atención psicológica y legal, especializada y gratuita, a quien sea víctima de hostigamiento o acoso sexual.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 16 TER.- Los centros de trabajo que integran las dependencias y entidades del sector público del Estado y los municipios, deberán certificarse de acuerdo a la norma mexicana vigente en materia de igualdad laboral y no discriminación, a efecto de integrar, implementar y ejecutar dentro de sus procesos de gestión y de recursos humanos, prácticas que favorezcan el desarrollo integral de las y los trabajadores.
+
+El Ejecutivo del Estado deberá promover la certificación señalada en el párrafo anterior en todos los centros de trabajo del sector privado.
 
 #### SECCIÓN TERCERA. DE LA VIOLENCIA CONTRA LAS MUJERES EN LA COMUNIDAD
 
@@ -329,6 +361,38 @@ III.- El diseño de un centro de datos respecto a las órdenes de protección y 
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
+#### SECCIÓN CUARTA BIS. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO POLÍTICO
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 21 BIS.- Todas aquellas acciones y omisiones que, basadas en elementos de género y dadas en el marco del ejercicio de los derechos político-electorales, tengan por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 21 TER.- Constituyen acciones y omisiones que configuran violencia contra las mujeres en el ámbito político en términos del artículo anterior, las siguientes:
+
+I.- Imponer la realización de actividades distintas a las atribuciones inherentes a su empleo, cargo, comisión o función;
+
+II.- Restringir injustificadamente la realización de acciones o actividades inherentes a su empleo, cargo, comisión o función;
+
+III.- Proporcionar información o documentación incompleta o errónea con el objeto de impedir, restringir, anular o limitar el ejercicio pleno de los derechos político-electorales o inducir al ejercicio indebido de sus atribuciones o facultades;
+
+IV.- Ocultar información o documentación con el objeto de impedir, restringir, anular o limitar el ejercicio de sus derechos político-electorales o inducir al ejercicio indebido de sus atribuciones;
+
+V.- Proporcionar o difundir información con la finalidad impedir, restringir, anular o limitar el ejercicio de los derechos político-electorales o impedir el ejercicio de sus atribuciones o facultades;
+
+VI.- Impedir o restringir su incorporación, toma de protesta o acceso al cargo o función para el cual ha sido nombrada o elegida;
+
+VII.- Impedir o restringir su reincorporación al cargo o función posterior en los casos de licencia o permiso conforme a las disposiciones aplicables, y
+
+VIII.- Impedir u obstaculizar los derechos de asociación y afiliación en los partidos políticos.
+
+SECIÓN (SIC) QUINTA
+
+DE LA VIOLENCIA FEMINICIDA
+
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+
 ###### ARTÍCULO 19.
 
 Violencia contra las mujeres en al ámbito institucional, son los actos u omisiones de las y/o los servidores públicos del Estado o de los Municipios que tengan por objeto o por resultado discriminación, impedir el reconocimiento, goce o ejercicio pleno de los derechos humanos de las mujeres, así como su acceso a políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
@@ -341,19 +405,21 @@ El Estado y los Municipios, en el ámbito de sus respectivas competencias, propo
 
 El Estado y los Municipios promoverán las acciones conducentes para prevenir, atender, investigar y sancionar las conductas violentas cometidas por servidoras o servidores públicos en contra de las mujeres y en su caso, a reparar el daño, de conformidad con lo dispuesto por el ordenamiento legal aplicable.
 
-SECIÓN (SIC) QUINTA
-
-DE LA VIOLENCIA FEMINICIDA
-
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 22.
 
 Violencia feminicida es la manifestación extrema de violencia contra las mujeres, producto de la violación de sus derechos humanos, en cualquier ámbito, integrada por una serie de conductas misóginas que pueden implicar impunidad y originar la muerte.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+En los casos de feminicidio se aplicarán las sanciones previstas en el Código Penal del Estado Libre y Soberano de Puebla y demás Leyes aplicables.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 23.
 
-En el caso concreto de violencia feminicida se observarán las disposiciones respectivas a la alerta de violencia de género, conforme a lo dispuesto en la Ley General.
+En el caso que se declare una alerta de violencia de género contra las mujeres en el territorio del Estado, se deberán tomar todas las medidas indicadas en sus resolutivos estableciendo un programa de trabajo que dé cumplimiento a las medidas de prevención, seguridad y justicia, así como cualquier otra indicada en la declaratoria para hacer frente a la contingencia en la entidad y abatir la violencia feminicida, asignándose los recursos presupuestales, humanos y materiales necesarios para hacerle frente. La persona titular del Poder Ejecutivo el Estado deberá emitir un mensaje a la ciudadanía de cero tolerancia ante la comisión de conductas violentas en contra de las mujeres y niñas, el cual se deberá difundir, además de en español, en las principales lenguas indígenas que se hablen en la entidad, en todos los medios masivos de comunicación y radios comunitarias, así como a través de medios que sean accesibles para personas con discapacidad.
 
 ## TÍTULO TERCERO. DE LAS MEDIDAS DE PROTECCIÓN
 
@@ -389,13 +455,13 @@ Las órdenes de protección de emergencia y preventivas deberán expedirse dentr
 
 Son órdenes de protección de emergencia las siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-I.- Separar a la presunta o presunto generador de violencia, del domicilio familiar o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, con el fin de otorgar a la víctima la protección requerida en el inmueble que sirve de domicilio;
+I.- Separar al agresor del domicilio familiar o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, con el fin de otorgar a la víctima la protección requerida en el inmueble que sirve de domicilio;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-II.- Prohibir a la presunta o presunto generador de violencia para acercarse al domicilio, así como intimidar o molestar a la víctima o a cualquier integrante de su familia en su entorno social, ya sea lugar de trabajo, de estudios o el domicilio de las y/o los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+II.- Prohibir al agresor acercarse al domicilio, así como intimidar o molestar a la víctima o a cualquier integrante de su familia en su entorno social, ya sea lugar de trabajo, de estudios o el domicilio de las y/o los ascendientes y descendientes o cualquier otro que frecuente la víctima;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -407,11 +473,9 @@ IV.- Las demás previstas en otras disposiciones legales.
 
 Son órdenes de protección preventivas las siguientes:
 
-I.- Retener y resguardar las armas de fuego propiedad del presunto o presunta generador de violencia, independientemente de si cuenta con el documento que acredite su legal portación de acuerdo a la normatividad de la materia.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
-
-Tratándose de armas punzocortantes y punzocontundentes que independientemente de su uso, se hayan empleado para amenazar o lesionar a la víctima, se estará a lo dispuesto en el párrafo que precede;
+I.- Retener y resguardar las armas de fuego propiedad del agresor, independientemente de si cuenta con el documento que acredite su legal portación de acuerdo a la normatividad de la materia;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -433,7 +497,9 @@ V.- Entrega inmediata por parte de quien se encuentre en el domicilio o lugar en
 
 VI.- El auxilio de la fuerza pública como medida inmediata en favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre en el momento de solicitar el auxilio;
 
-VII.- Proporcionar servicios integrales especializados, gratuitos y con perspectiva de género al presunto o presunta generador de violencia, en Instituciones públicas o privadas debidamente acreditadas; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VII.- Proporcionar servicios integrales especializados, gratuitos y con perspectiva de género al agresor, en Instituciones públicas o privadas debidamente acreditadas, y
 
 VIII.- Las demás previstas en otras disposiciones legales.
 
@@ -450,6 +516,10 @@ III.- Posesión exclusiva de la víctima sobre el inmueble que sirvió de domici
 IV.- Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias, y
 
 V.- Obligación alimentaria provisional e inmediata.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Estas órdenes serán tramitadas ante los juzgados de lo familiar o a falta de éstos en los juzgados civiles que corresponda.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
 
@@ -491,7 +561,9 @@ Las órdenes de protección, atendiendo a su naturaleza, se decretarán de ofici
 
 Para hacer efectiva la procuración de los derechos contenidos en esta Ley, el Estado y los Municipios integrarán el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, que tiene por objeto la coordinación de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales en la materia.
 
-Las acciones, medidas y políticas públicas que lleven a cabo el Estado y los Municipios no discriminaran a las mujeres por motivo de su origen étnico, nacional o regional, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquiera otra que atente contra la dignidad humana.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Las acciones, medidas y políticas públicas que lleven a cabo el Estado y los Municipios no discriminarán a las mujeres por motivo de su origen étnico, nacional o regional, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquiera otra que atente contra la dignidad humana.
 
 ###### ARTÍCULO 33.
 
@@ -505,7 +577,9 @@ I.- La prevención de la violencia contra las mujeres y la atención integral de
 
 II.- La capacitación y certificación continúa en igualdad laboral y no discriminación del personal encargado de su prevención y atención;
 
-III.- Los servicios integrales especializados para las personas que ejercen violencia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+III.- Los servicios integrales especializados para los agresores;
 
 IV.- La recopilación, compilación, procesamiento y sistematización e intercambio de todo tipo de información en la materia;
 
@@ -519,49 +593,81 @@ VI.- Las demás relacionadas con las anteriores que sean necesarias para increme
 
 El Sistema Estatal se integrará y funcionará por las y los titulares de:
 
-I.- El Poder Ejecutivo del Estado, quien fungirá como Presidente Honorario;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+I.- La persona que ocupe el Poder Ejecutivo del Estado, fungirá como Presidenta o Presidente Honorario;
 
-II.- La Secretaría General de Gobierno cuyo titular fungirá como Presidente Ejecutivo:
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-III.- La Secretaria de Desarrollo Social;
+II.- La Secretaría de Gobernación, que fungirá como la persona titular de la Presidencia Ejecutiva;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IV.- La Fiscalía General del Estado;
+III.- La Secretaría de Igualdad Sustantiva que fungirá como secretaria ejecutiva del Sistema Estatal;
 
-V.- La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VI.- La Secretaría de Educación Pública;
+IV.- La Secretaría de Bienestar;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VII.- La Dirección General de Defensoría Pública:
+V.- La Fiscalía General del Estado;
 
-VIII.- Los Servicios de Salud del Estado;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IX.- El Instituto Poblano de las Mujeres;
+VI.- La Secretaría de Seguridad Pública;
 
-X.- El Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XI.- La Comisión de Derechos Humanos del Estado;
+VII.- La Secretaría de Educación;
 
-XII.- El Poder Legislativo del Estado, a través de la Presidencia de la Comisión respectiva;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+VIII.- La Secretaría de Cultura;
 
-XIII.- El Poder Judicial, a través del Presidente del Tribunal Superior de Justicia o el representante que se designe;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+IX.- La Secretaría de Trabajo;
 
-XIV.- El Consejo Estatal para la Atención de la Violencia Familiar, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2018)</small>
+X.- La Secretaría de Desarrollo Rural;
 
-XV.- Los titulares de los órganos municipales con funciones de atención a víctimas y prevención de la violencia contra la mujer.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-La titular del Instituto Poblano de las Mujeres realizará las funciones de Secretaria Ejecutiva del Sistema Estatal.
+XI.- La Dirección General de Defensoría Pública;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII.- Los Servicios de Salud del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIII.- El Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIV.- La Comisión de Derechos Humanos del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV.- El Poder Legislativo del Estado, a través de la Presidencia de la Comisión respectiva;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVI.- El Poder Judicial, a través de la Presidencia del Tribunal Superior de Justicia o el representante que se designe;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVII.- El Consejo Estatal para la Atención de la Violencia Familiar, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVIII.- Las o los titulares de los órganos municipales con funciones de atención a víctimas y prevención de la violencia contra la mujer.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Todas las Dependencias y Entidades que formen parte del Sistema, estarán obligadas a cumplir con proporcionar la información, estudios, reportes y cualquier dato que se les requiera, de manera diferenciada con esta Ley, atendiendo las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado.
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
@@ -609,6 +715,10 @@ XII.- Promover la cultura de denuncia de la violencia contra las mujeres en el �
 
 XIII.- Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las Dependencias y Entidades y las instituciones públicas o privadas encargadas de la atención a víctimas.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+La persona titular del Poder Ejecutivo del Estado propondrá en el Proyecto de Presupuesto de Egresos del Estado asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema Estatal y del Programa Estatal previstos en la presente ley.
+
 ###### ARTÍCULO 36.
 
 En la formulación e instrumentación de los Planes de Desarrollo Municipal se tomarán en consideración los objetivos del Programa Estatal.
@@ -641,7 +751,9 @@ VI.- Integrar el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar l
 
 VII.- Promover, en coordinación con la Federación, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de las mujeres y de la no violencia, de acuerdo con el Programa;
 
-VIII.- Impulsar programas locales para el adelanto y desarrollo de las mujeres y mejorar su calidad de vida;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Impulsar programas para el adelanto y desarrollo de las mujeres y mejorar su calidad de vida; para tal efecto, la Secretaría de Igualdad Sustantiva se constituye como el Mecanismo de Adelanto para las Mujeres en la Entidad.
 
 > <small>(REFORMADA, P.O. 24 DE JULIO DE 2019)</small>
 
@@ -653,7 +765,9 @@ X.- Favorecer la creación de instituciones públicas o privadas encargadas de l
 
 XI.- Promover programas de información a la población en la materia;
 
-XII.- Impulsar programas y servicios integrales especializados para los presuntos o presuntas generadores de violencia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII.- Impulsar programas y servicios integrales especializados para los agresores;
 
 XIII.- Difundir por todos los medios de comunicación el contenido de esta Ley;
 
@@ -681,7 +795,11 @@ XXII.- Canalizar a las víctimas a las instituciones públicas o privadas que se
 
 XXIII.- Participar activamente, en la ejecución del Programa Estatal, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
 
-XXIV.- Suscribir convenios de coordinación, colaboración y concertación en la materia; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXIV.- Suscribir convenios de coordinación, colaboración y concertación en la materia, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XXV.- Las demás previstas en otros ordenamientos legales aplicables.
 
@@ -689,39 +807,55 @@ XXV.- Las demás previstas en otros ordenamientos legales aplicables.
 
 Corresponde a la Secretaría de Gobernación las funciones siguientes:
 
-I.- Presidir el Sistema Estatal y solicitar la declaratoria nacional, en su caso, en términos de la Ley General;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+I.- Presidir el Sistema Estatal y en su caso, emitir la declaratoria correspondiente;
 
-II.- Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+II.- Coadyuvar con la Secretaría de Igualdad Sustantiva en el diseño de la política integral con perspectiva de género para promover la cultura del respeto a los derechos humanos de las mujeres;
 
 III.- Coordinar la elaboración e instrumentación del Programa Estatal con los demás integrantes del Sistema Estatal;
 
-IV.- Formular las bases para la coordinación entre las autoridades locales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IV.- Apoyar a la Secretaría de Igualdad Sustantiva en la formulación de las bases para la coordinación entre las autoridades locales y municipales, para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 V.- Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VI.- Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las Dependencias y Entidades de la Administración Pública Estatal;
+VI.- Procurar qué en la conducción y atención de los asuntos relativos a la política interior del Estado, se le dé visibilidad al problema de la violencia contra las mujeres, así como a las políticas, mecanismos y acciones que lleven a cabo las dependencias y entidades estatales y municipales, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
 
-VII.- Ejecutar y dar seguimiento a las acciones del Programa Estatal, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Diseñar, en el ámbito de su competencia, por sí o en coordinación con las Dependencias y Entidades de la Administración Pública, con una visión transversal, la política integral orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres, conforme a lo dispuesto por esta Ley;
+VII.- Promover la formación y especialización continua y de calidad de todo su personal en materia de los derechos humanos de las mujeres, para prevenir y erradicar cualquier tipo de violencia y/o discriminación en su agravio;
 
-IX.- Observar que los medios de comunicación favorezcan la erradicación de todos los tipos y modalidades de violencia y se fortalezca la dignidad de las mujeres;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Procurar qué en el ejercicio de las funciones o la prestación de los servicios a su cargo, se ponga especial atención al problema de la violencia contra las mujeres, canalizando a los órganos competentes los casos relacionados con este tema;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Observar qué los medios de comunicación favorezcan el lenguaje incluyente, la erradicación de todos los tipos y modalidades de violencia y se fortalezca la dignidad de las mujeres;
 
 X.- Realizar el Diagnóstico Estatal, así como estudios complementarios de manera periódica con perspectiva de género respecto de todos los tipos y modalidades de violencia contra las mujeres niñas, adolescentes y adultas, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas públicas en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-XI.- Difundir a través de diversos medios de comunicación, los resultados del Sistema y Programa Estatales, de conformidad con lo dispuesto en la ley de la materia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XII.- Suscribir convenios de coordinación, colaboración y concertación en la materia; y
+XI.- Coordinar la difusión de los resultados del Sistema y Programa Estatales, con los demás integrantes;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII.- Suscribir convenios de coordinación, colaboración y concertación en la materia, en representación del Sistema, y
 
 XIII.- Las demás previstas en otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 40.
 
-Corresponde a la Secretaría de Desarrollo Social las funciones siguientes:
+Corresponde a la Secretaría de Bienestar las funciones siguientes:
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -739,9 +873,17 @@ V.- Promover la igualdad de condiciones y oportunidades entre mujeres y hombres,
 
 VI.- Promover políticas de prevención y atención de la violencia contra las mujeres;
 
-VII.- Suscribir convenios de coordinación, colaboración y concertación en la materia; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Las demás previstas en otros ordenamientos legales aplicables.
+VII.- Suscribir convenios de coordinación, colaboración y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Las demás previstas en otros ordenamientos legales aplicables.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -749,9 +891,17 @@ VIII.- Las demás previstas en otros ordenamientos legales aplicables.
 
 Corresponde a la Fiscalía General del Estado las funciones siguientes:
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-I.- Promover la formación y especialización continua y de calidad de todo su personal en materia de derechos humanos de las mujeres, para prevenir y erradicar cualquier tipo de violencia o discriminación en su agravio;
+I.- Promover la formación y especialización continua y de calidad de todo su personal a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) Perspectiva de género para la debida diligencia en la conducción de carpetas de investigación y procesos judiciales relacionados con discriminación, violencia y feminicidio;
+
+c) Incorporación de la perspectiva de género en los servicios periciales;
+
+d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -775,9 +925,45 @@ VI.- Proporcionar a las víctimas, información objetiva que les permita ubicar 
 
 VII.- Promover la cultura de respeto a los derechos humanos de las mujeres, así como garantizar la seguridad de aquellas personas que denuncian;
 
-VIII.- Suscribir convenios de coordinación, colaboración y concertación en la materia; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IX.- Las demás previstas en otros ordenamientos legales aplicables.
+VIII.- Suscribir convenios de coordinación, colaboración y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Crear un registro sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de la relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+X.- Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XI.- Crear una base Estatal de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel Estatal; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada.
+
+La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII.- Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) Perspectiva de género para la debida diligencia en la conducción de carpetas de investigación y procesos judiciales relacionados con discriminación, violencia y feminicidio;
+
+c) Incorporación de la perspectiva de género en los servicios periciales; eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIII.- Crear un registro sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características socio demográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIV.- Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV.- Las demás previstas en otros ordenamientos legales aplicables.
 
 ###### ARTÍCULO 42.
 
@@ -791,7 +977,9 @@ III.- Integrar el Centro Estatal de Datos e Información referente a los Casos d
 
 IV.- Diseñar la política integral para la prevención de delitos contra las mujeres, en cualquier ámbito de la vida;
 
-V.- Establecer las acciones y medidas que se deberán tomar para la readaptación y reinserción social del presunto o presunta generador de violencia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+V.- Establecer las acciones y medidas que se deberán tomar para la readaptación y reinserción social del agresor;
 
 VI.- Ejecutar y dar seguimiento a las acciones del Programa Estatal que le correspondan;
 
@@ -803,9 +991,17 @@ VII.- Formular acciones y programas orientados a fomentar la cultura del respeto
 
 VIII.- Diseñar en coordinación con la Secretaría General de Gobierno y demás dependencias que integran la Administración Pública Estatal y Municipal, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, investigación, sanción y erradicación de la violencia y discriminación contra las mujeres;
 
-IX.- Suscribir convenios de coordinación, colaboración y concertación en la materia; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-X.- Las demás previstas en otros ordenamientos legales aplicables.
+IX.- Realizar una página de Internet específica en la cual se encuentren los datos generales de las mujeres y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres y niñas desaparecidas. Esta página deberá actualizarse de forma permanente;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+X.- Suscribir convenios de coordinación, colaboración y concertación en la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XI.- Las demás previstas en otros ordenamientos legales aplicables.
 
 En el caso de la fracción III, la información que se genere integrará la base del Centro Estatal de Datos e Información referente a los casos de violencia contra las mujeres, que conforme a las disposiciones de esta Ley no requerirá de estructura orgánica adicional.
 
@@ -847,9 +1043,51 @@ XI.- Suscribir convenios de coordinación, colaboración y concertación en la m
 
 XII.- Las demás previstas en otros ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 43 BIS.- Corresponde a la Secretaría de Cultura las funciones siguientes:
+
+I.- Coordinar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en todos los ámbitos culturales;
+
+II.- Asesorar y dar opiniones dentro de los programas educativos de la Secretaría de Educación, en todos los niveles de la instrucción, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conductas sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
+
+III.- Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las situaciones de desventaja de género;
+
+IV.- Promover políticas de prevención y atención de la violencia contra las mujeres, y
+
+V.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y Programas Estatales.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 43 TER.- Corresponde a la Secretaría de Trabajo las siguientes funciones:
+
+I.- Impulsar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia de trabajo y previsión social;
+
+II.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia laboral contra las mujeres;
+
+III.- Promover la cultura de respeto a los derechos humanos de las mujeres en el ámbito laboral;
+
+IV.- Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los centros de trabajo, y
+
+V.- Orientar a las víctimas de violencia laboral sobre las instituciones que prestan atención y protección a las mujeres.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 43 QUÁTER.- Corresponde a la Secretaría de Desarrollo Rural las siguientes funciones:
+
+I.- Coordinar acciones que propicien la igualdad de oportunidades y la no discriminación de mujeres y de hombres en materia agraria;
+
+II.- Delinear, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres en las comunidades agrarias y ejidos, incluyendo a las de origen étnico;
+
+III.- Fomentar la cultura de respeto a los derechos humanos de las mujeres que habitan en zonas rurales, incluyendo a las de origen étnico, y
+
+IV.- Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los ejidos y comunidades agrarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 44.
 
-Corresponde a la Procuraduría del Ciudadano las funciones siguientes:
+Corresponde a la Dirección General de Defensoría Pública las funciones siguientes:
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -879,53 +1117,91 @@ I.- En el marco de la política de salud integral de las mujeres, diseñar con p
 
 II.- Brindar por medio de las Instituciones del Sector Salud de manera integral e interdisciplinaria atención médica y psicológica con perspectiva de género a las víctimas;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-III.- Aplicar los criterios para la prevención y atención de violencia familiar, sexual y contra las mujeres establecidos en la norma oficial mexicana vigente;
+III.- Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y se garanticen la atención a las víctimas y la aplicación de las normas oficiales mexicanas vigentes en la materia;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IV.- Brindar servicios integrales especializados a las víctimas y a los presuntos o presuntas generadores de violencia, a fin de que logren estar en condiciones de participar plenamente en cualquier ámbito de la vida;
+IV.- Establecer programas y servicios profesionales y eficaces, con horario de veinticuatro horas en las dependencias públicas relacionadas con la atención de la violencia contra las mujeres;
 
-V.- Difundir en las Instituciones del Sector Salud, material referente a la prevención y atención de la violencia contra las mujeres;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+V.- Aplicar los criterios para la prevención y atención de violencia familiar, sexual y contra las mujeres establecidos en la norma oficial mexicana vigente;
 
-VI.- Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VII.- Contribuir con las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la información siguiente:
+VI.- Brindar servicios reeducativos integrales especializados a las víctimas y a los agresores, a fin de que logren estar en condiciones de participar plenamente en cualquier ámbito de la vida;
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VII.- Difundir en las Instituciones del Sector Salud, material referente a la prevención y atención de la violencia contra las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Canalizar a las víctimas a las instituciones que prestan atención y protección a las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Mejorar la calidad de la atención, que se preste a las mujeres víctimas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+X.- Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, en colaboración con las demás autoridades encargadas de la aplicación de la presente ley;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XI.- Asegurar que en la prestación de los servicios del sector salud sean respetados los derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII.- Capacitar al personal del sector salud, con la finalidad de que detecten la violencia contra las mujeres;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA CON SUS INCISOS], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIII.- Contribuir con las autoridades encargadas de efectuar investigaciones en materia de violencia contra las mujeres, proporcionando la información siguiente:
 
 a) La relativa al número de víctimas a las que se atiende y prestan los servicios en los centros hospitalarios;
 
 b) La referente a las situaciones de violencia en que se encuentran las mujeres;
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
-
 c) El tipo de violencia por la cual se atendió a las víctimas;
 
-d) Los efectos causados por la violencia en las mujeres; y
+d) Los efectos causados por la violencia en las mujeres, y
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+e) Los recursos erogados en la atención de las víctimas;
 
-e) Los recursos erogados en la atención de las víctimas.
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Suscribir convenios de coordinación, colaboración y concertación en la materia; y
+XIV.- Suscribir convenios de coordinación, colaboración y concertación en la materia, y
 
-IX.- Las demás previstas en otros ordenamientos legales aplicables.
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV.- Las demás previstas en otros ordenamientos legales aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 46.
 
-Corresponde al Instituto Poblano de las Mujeres las funciones siguientes:
+Corresponde a la Secretaría de Igualdad Sustantiva las funciones siguientes:
 
-I.- Desempeñar las funciones de Secretaria Ejecutiva del Sistema, a través de su representante legal;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+I.- Fungir como Secretaria Ejecutiva del Sistema Estatal y coadyuvar en la solicitud de la declaratoria nacional, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+I Bis.- Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos humanos de las mujeres;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+II.- Recibir e integrar los estudios e investigaciones efectuados por las Dependencias y Entidades de la Administración Pública Estatal, sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de:
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+a) Las personas servidoras públicas encargadas de la atención, investigación, prevención, sanción y erradicación de la violencia contra las mujeres;
 
 > <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
-
-II.- Integrar los estudios e investigaciones promovidas por las Dependencias y Entidades de la Administración Pública Estatal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de:
-
-a) Los servidores públicos encargados de la atención, investigación, prevención, sanción y erradicación de la violencia contra las mujeres;
 
 b) Las medidas de prevención, atención y erradicación, que generen las Dependencias y Entidades del Estado, municipales, asociaciones o agrupaciones civiles.
 
@@ -933,9 +1209,9 @@ Los resultados de los estudios e investigaciones serán dados a conocer pública
 
 III.- Proponer a las autoridades encargadas de la aplicación de esta Ley, los programas, medidas y acciones que consideren pertinentes, así como elaborar los proyectos respectivos, con la finalidad de erradicar la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IV.- Colaborar con las Dependencias, Entidades e Instituciones del Sistema Estatal en el diseño y evaluación del modelo de atención en las instituciones públicas privadas encargadas de la atención de víctimas;
+IV.- Colaborar con las Dependencias y Entidades de la Administración Pública y con las Instituciones del Sistema Estatal, en el diseño y evaluación de la política integral y del modelo de atención en las instituciones públicas y privadas, encargadas de la atención de víctimas, con una visión transversal, orientada a la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -955,7 +1231,37 @@ VIII.- Difundir la cultura de respeto a los derechos humanos de las mujeres y pr
 
 IX.- Suscribir convenios de coordinación, colaboración y concertación en la materia; y
 
-X.- Las demás previstas en otros ordenamientos legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+X.- Formular las bases para la coordinación entre las autoridades locales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XI.- Dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades estatales y municipales;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII.- Dar seguimiento a las acciones del Programa Estatal, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIII.- Impulsar la creación de instituciones públicas o privadas de atención y protección a las víctimas, previstas en la Ley;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIV.- Difundir a través de diversos medios de comunicación, los resultados del Sistema y Programa Estatales, de conformidad con lo dispuesto en la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV.- Observar y emitir recomendaciones para que los medios de comunicación integren el lenguaje incluyente y con perspectiva de género, que contribuya a la erradicación de todos los tipos y modalidades de violencia y se fortalezca la dignidad de las mujeres;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVI.- Fomentar que en el desarrollo político y en la ciudadanización de los organismos electorales, se observen la paridad y la perspectiva de género, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVII.- Las demás previstas en otros ordenamientos legales aplicables.
 
 ###### ARTÍCULO 47.
 
@@ -963,7 +1269,9 @@ Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia las fun
 
 I.- Contar con el personal capacitado para la prevención, atención y erradicación de la violencia en contra de las mujeres, dentro de su competencia;
 
-II.- Impulsar la creación de programas de servicios especializados integral para los presuntos o presuntas generadores de violencia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+II.- Impulsar la creación de programas de servicios especializados integrales para los agresores;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -1003,7 +1311,9 @@ III.- Promover, en coordinación con el Estado, cursos de capacitación a las pe
 
 IV.- Ejecutar las acciones necesarias para el cumplimiento de los Programas Integral y Estatal;
 
-V.- Apoyar la creación de programas de servicios integrales especializados para los presuntos o presuntas generadores de violencia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+V.- Apoyar la creación de programas de servicios integrales especializados para los agresores;
 
 VI.- Impulsar programas educativos sobre la igualdad y equidad entre géneros para eliminar la violencia contra las mujeres;
 
@@ -1039,9 +1349,9 @@ II.- Promover la atención y servicio a víctimas por parte de las diversas inst
 
 III.- Proporcionar a las víctimas, la atención médica, psicológica y jurídica, de manera integral, gratuita y expedita;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IV.- Canalizar a las víctimas a las instituciones públicas o privadas encargadas de su atención; y
+IV.- Canalizar a las víctimas a los albergues, casas de medio camino, refugios e instituciones públicas o privadas encargadas de su atención, y
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -1063,15 +1373,25 @@ IV.- Recibir asesoría jurídica gratuita y expedita;
 
 V.- Recibir atención médica y psicológica;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VI.- Contar para su resguardo con una Institución pública o privada encargada de la atención a las víctimas, mientras se requiera y necesite; y
+VI.- Contar para su resguardo con una Institución pública o privada encargada de la atención a las víctimas, mientras se requiera y necesite;
 
-VII.- Ser valoradas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+VII.- Ser valoradas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
 
-En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a las instituciones públicas o privadas encargadas de la atención para las víctimas.
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podrán acudir a los albergues, casas de medio camino y refugios con éstos, y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- La víctima no será obligada a participar en mecanismos de conciliación con su agresor.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y defensores de oficio que tengan conocimiento de su lengua y cultura.
 
 > <small>(REFORMADO, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -1079,15 +1399,15 @@ En los casos de violencia familiar, las mujeres que tengan hijas y/o hijos podr�
 
 Cuando exista sentencia condenatoria por delitos en los que se hayan realizado acciones u omisiones tendentes a ejercer violencia en agravio de la mujer, la autoridad judicial, impondrá al responsable cumplir con medidas de rehabilitación en las que se fomente su participación en programas integrales especializados para prevenir y erradicar las mismas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO V. DE LAS INSTITUCIONES PÚBLICAS O PRIVADAS ENCARGADAS DE LA ATENCIÓN A LAS VICTIMAS
+### CAPÍTULO V. DE LAS INSTITUCIONES PÚBLICAS Y PRIVADAS, LOS ALBERGUES, CASAS DE MEDIO CAMINO Y REFUGIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 53.
 
-Las instituciones públicas o privadas encargadas de la atención a las víctimas, desde la perspectiva de género les corresponden:
+A las Instituciones Públicas y Privadas, los albergues, casas de medio camino y refugios desde la perspectiva de género les corresponde:
 
 I.- Aplicar el Programa Estatal;
 
@@ -1107,17 +1427,17 @@ VI.- Contar con el personal debidamente capacitado y especializado en la materia
 
 VII.- Procurar las demás que tengan o guarden relación con la prevención, atención y protección de las personas que se encuentren en los casos concretos.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 54.
 
-Las instituciones públicas o privadas encargadas de la atención a las víctimas deberán ser lugares seguros para éstas. Queda prohibido proporcionar su ubicación a personas no autorizadas para acudir a ellos.
+Las Instituciones Públicas y Privadas, los albergues, casas de medio camino y refugios encargados de la atención a las víctimas deberán ser lugares seguros para éstas. Queda prohibido proporcionar la ubicación de los refugios a personas no autorizadas para acudir a ellos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 55.
 
-Las instituciones públicas o privadas encargadas de la atención a las víctimas deberán prestar a éstas y, en su caso, a sus descendientes los servicios especializados y gratuitos siguientes:
+Las Instituciones Públicas y Privadas, los albergues, casas de medio camino y refugios encargados de la atención a las víctimas deberán prestar a éstas y, en su caso, a sus descendientes los servicios especializados y gratuitos siguientes:
 
 I.- Habitación;
 
@@ -1129,23 +1449,51 @@ IV.- Asesoría y orientación jurídica gratuita;
 
 V.- Apoyo psicológico;
 
-VI.- Vestido y calzado; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VII.- Programas con servicios integrales especializados a fin de que logren estar en condiciones de participar plenamente en cualquier ámbito de la vida.
+VI.- Vestido y calzado;
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VII.- Programas con servicios integrales especializados a fin de que logren estar en condiciones de participar plenamente en cualquier ámbito de la vida;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Capacitación, para que puedan adquirir conocimientos para el desempeño de una actividad laboral, y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IX.- Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 56.
 
-En las instituciones públicas o privadas encargadas de la atención, las víctimas podrán permanecer hasta tres meses, salvo que subsista su inestabilidad física, psicológica o su situación de riesgo.
-
-Para efectos del párrafo que precede, el personal médico, psicológico y jurídico de la Institución pública o privada encargada de la atención a víctimas, realizará la valoración respecto de su condición.
+En las Instituciones Públicas y Privadas, los albergues, casas de medio camino y refugios encargados de la atención, las víctimas podrán permanecer hasta tres meses, salvo que subsista su inestabilidad física, psicológica o su situación de riesgo.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
+Para efectos del párrafo que precede, el personal médico, psicológico y jurídico de la Institución pública o privada encargada de la atención a víctimas, realizará la valoración respecto de su condición.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 57.
 
-En ningún caso o por motivo alguno se podrá mantener a las víctimas en las instituciones públicas o privadas encargadas de la atención, en contra de su voluntad, salvo mandato de autoridad competente.
+En ningún caso o por motivo alguno se podrá mantener a las víctimas en los albergues, casas de medio camino y refugios encargados de la atención, en contra de su voluntad, salvo mandato de autoridad competente.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO V. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 58.
+
+Será causa de responsabilidad administrativa el incumplimiento de esta ley y se sancionará conforme a las leyes en la materia.
 
 ## TRANSITORIOS
 
@@ -1266,3 +1614,13 @@ P.O. 29 DE JULIO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LOS SIGUIENTES ORDENAMIENTOS: LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA, LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA, LA LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA, EL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA Y EL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Instituto Poblano de las Mujeres seguirá ejerciendo las facultades que le correspondían antes de la presente reforma y hasta su extinción, conforme a las disposiciones aplicables de la Ley Orgánica de la Administración Pública del Estado de Puebla, y al traslado de sus atribuciones a las unidades administrativas correspondientes de la Secretaría de Igualdad Sustantiva.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado realizará las modificaciones reglamentarias necesarias en términos del presente Decreto, en un plazo no mayor a 40 días hábiles a partir de la entrada en vigor del presente Decreto.
