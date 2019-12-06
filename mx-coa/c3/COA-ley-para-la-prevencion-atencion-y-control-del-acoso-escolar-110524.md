@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-prevencion-atencion-y-control-del-acoso-escolar-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2019-06-25"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado Coahuila, el viernes 13 de noviembre de 2015.
 
@@ -43,11 +43,11 @@ LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE
 
 ### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto prevenir y erradicar el acoso escolar en las instituciones educativas públicas y privadas del Estado, sobre la base de que un ambiente libre de violencia es fundamental para respetar los derechos humanos, consolidar la democracia y garantizar los principios de equidad y no discriminación, la dignidad humana, la paz entre los educandos y el interés superior de la niñez.
+La presente Ley es de orden público e interés social y tiene por objeto prevenir y erradicar el acoso escolar en las instituciones educativas públicas y privadas del Estado con un enfoque integral en la Cultura de Paz, sobre la base de que un ambiente libre de violencia es fundamental para respetar los derechos humanos, consolidar la democracia y garantizar los principios de equidad y no discriminación, la dignidad humana, la paz entre los educandos y el interés superior de la niñez.
 
 ###### Artículo 2.
 
@@ -241,7 +241,9 @@ El Plan de Prevención del Acoso Escolar para las escuelas, será de cumplimient
 
 Son objetivos del Plan de Prevención del Acoso Escolar, los siguientes:
 
-I. Evitar, prevenir y erradicar el acoso escolar en las escuelas públicas y privadas de Estado;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+I. Evitar, prevenir y erradicar el acoso escolar en las escuelas públicas y privadas del Estado implementando y fomentando la Cultura de Paz;
 
 II. Integrar a todo el alumnado mejorando las relaciones de convivencia entre todos los miembros de la comunidad educativa, en un ambiente libre de violencia;
 
@@ -564,6 +566,14 @@ P.O. 25 DE JUNIO DE 2019.
 P.O. 25 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO 273.- SE REFORMA LA FRACCIÓN XVI Y SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 8 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 381.- SE REFORMA EL ARTÍCULO 1 Y LA FRACCIÓN I DEL ARTÍCULO 13 DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 ###### ARTÍCULO ÚNICO.
 
