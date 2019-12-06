@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2019-07-31"
+last_updated: "2019-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -75,9 +75,11 @@ El Gobernador tiene facultad para ejercer de manera directa cualquier atribució
 
 De igual forma, el Gobernador podrá delegar, transferir, coordinar y concentrar atribuciones temporalmente, entre dependencias o entre éstas y las entidades, con el objeto de cumplir con los fines de la planeación para el desarrollo del estado o responder a situaciones emergentes. Todos los acuerdos emitidos en ejercicio de estas facultades deberán publicarse en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 6.
 
-El Gobernador proveerá en la esfera administrativa a la exacta aplicación de la Ley, para lo cual expedirá reglamentos, decretos, acuerdos, órdenes, circulares y demás disposiciones de carácter y aplicación general, en los diversos ramos de la Administración Pública, o que se requieran para regular el funcionamiento de las dependencias y entidades.
+El Gobernador proveerá en la esfera administrativa a la exacta aplicación de la Ley, para lo cual expedirá reglamentos, decretos, acuerdos, órdenes, circulares y demás disposiciones de carácter y aplicación general, en los diversos ramos de la Administración Pública, o que se requieran para regular el funcionamiento de las dependencias y entidades, los cuales deberán publicarse en el Periódico Oficial del Estado para que produzcan efectos jurídicos.
 
 Tratándose de las entidades, los reglamentos interiores deberán ser previamente aprobados por el respectivo órgano de gobierno o de administración, de conformidad con las disposiciones jurídicas aplicables.
 
@@ -145,6 +147,10 @@ La distribución de facultades por medio de los reglamentos interiores, manuales
 
 Cada servidor público, de acuerdo con sus facultades, será responsable de observar los principios que rigen el servicio público y de vigilar que con su actuación se impida la actualización de las figuras jurídicas de prescripción, preclusión, caducidad, lesividad o cualquier otra que extinga el ejercicio de un derecho adjetivo o sustantivo, cause daños o perjuicios a la hacienda pública o implique la pérdida o menoscabo del patrimonio que es propio del Estado.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+La autoridad administrativa, de oficio o a petición de parte, tendrá la potestad indelegable de reexaminar y, en su caso, anular, invalidar o dejar sin efectos los actos que haya emitido y sean contrarios a derecho o declarar su inexistencia por la ausencia de un elemento esencial del mismo, debiendo en todo caso ordenar las medidas provisionales que estime pertinentes en atención al interés social y al orden público, además de garantizar el derecho de audiencia de las personas que tengan un interés jurídico en que subsista.
+
 ###### ARTÍCULO 16.
 
 Los titulares de las dependencias y entidades de la Administración Pública Estatal al tomar posesión y al término de su cargo, elaborarán un inventario de los bienes que se encuentren en poder de las mismas, con la intervención de la Secretaría de la Función Pública, para verificar y certificar su exactitud; comprobando que el inventario de bienes corresponda a lo registrado en su toma de posesión y notificará los resultados a la Secretaría de Administración.
@@ -195,17 +201,25 @@ VII. Coordinar la representación del Gobernador en instancias nacionales, feder
 
 VIII. Coordinar las funciones de la oficina de representación del Gobierno del Estado en la Ciudad de México, así como de la representación en general del Gobierno;
 
-IX. Fungir como titular de la unidad de transparencia del Gobernador;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-X. Autorizar los lineamientos generales que emita la Coordinación General de Comunicación Social y Medios Digitales, para la planeación, definición, coordinación, supervisión y evaluación de las políticas, estrategias y campañas de comunicación social de las dependencias y entidades de la Administración Pública, de conformidad con las disposiciones aplicables;
+IX. Constituir la unidad de transparencia del Gobernador y sus órganos auxiliares y el Comité de Transparencia respectivo, designar al titular de aquélla y a los integrantes de éste, así como vigilar su correcto funcionamiento, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+X. Coadyuvar con la Coordinación General de Comunicación y Agenda Digital, en la definición y desarrollo de las políticas, estrategias y campañas de comunicación social de la Gubernatura y sus órganos auxiliares;
 
 XI. Autorizar los lineamientos generales que emita la Coordinación General para la Innovación Gubernamental y la Estrategia Digital, tanto del Gobernador como de las dependencias y entidades de la Administración Pública;
 
-XII. Supervisar la recepción y trámite por parte de la Coordinación General de Atención Ciudadana y Vinculación Interinstitucional de las peticiones que la ciudadanía haga al Gobernador, así como realizar el vínculo institucional necesario entre las dependencias y entidades a fin de que sean debidamente atendidas e informar al Gobernador periódicamente de sus avances;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII. A través de la Coordinación respectiva, intervenir en la definición y seguimiento de las políticas de participación ciudadana, supervisar la recepción y trámite de las peticiones que la ciudadanía haga al Gobernador, realizar la vinculación interinstitucional necesaria a fin de que sean debidamente atendidas e informar al Gobernador periódicamente de sus avances;
 
 XIII. Auxiliar al Gobernador en la comunicación y seguimiento de sus instrucciones y de las prioridades que establezca, y
 
-XIV. Las demás que le confieran expresamente las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIV. Las conferidas a las secretarías por las fracciones III a VII, IX a XIII y XV a XIX, del artículo 30 de esta Ley, por analogía, así como las demás que expresamente le concedan los ordenamientos jurídicos vigentes o le encomiende el Gobernador.
 
 ###### ARTÍCULO 22.
 
@@ -245,7 +259,13 @@ XVI. Organizar, administrar y controlar el Archivo de Notarías del Estado;
 
 XVII. Designar a los notarios públicos que deban dar fe de los actos o contratos en que sea parte el Gobernador, directamente o por conducto de sus dependencias, y autorizar las respectivas cartas de instrucción;
 
-XVIII. Coordinar y vigilar el ejercicio de las funciones de registro público de la propiedad y de catastro en el estado, a través del órgano desconcentrado competente, en estricta observancia de la normatividad especial aplicable;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Coadyuvar con la Secretaría de Planeación y Finanzas, de conformidad con las disposiciones aplicables, en la modernización, regulación, profesionalización, evaluación y cuidado de las funciones de registro público, catastro y cartografía territorial del estado, así como su vinculación sistematizada, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVIII Bis. Tramitar lo relacionado con las propuestas, nombramientos, remociones, renuncias y licencias de las y los servidores públicos de la Administración Pública Estatal que deba suscribir u ordene el Gobernador, así como del Fiscal General del Estado;
 
 XIX. Presidir la Comisión de Estudios Jurídicos del Gobierno del Estado, integrada por los responsables de las áreas o unidades de asuntos jurídicos de cada dependencia y entidad de la Administración Pública Estatal, para su adecuada coordinación en materia jurídica;
 
@@ -265,7 +285,9 @@ XXVI. Recibir, tramitar, substanciar y dejar en estado de resolución, los proce
 
 XXVII. Revisar y validar con su rúbrica todos los documentos jurídicos que requieran la firma del Gobernador, y
 
-XXVIII. Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el estado.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXVIII. Las conferidas a las secretarías por las fracciones III a VII, IX a XIII y XV a XIX, del artículo 30 de esta Ley, por analogía, así como las demás que expresamente le concedan los ordenamientos jurídicos vigentes o le encomiende el Gobernador.
 
 ## TÍTULO II. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -283,9 +305,11 @@ Los titulares de las dependencias ejercerán las funciones de su competencia en 
 
 Los titulares de las dependencias formularán, respecto de los asuntos de su competencia, los proyectos de leyes, reglamentos, decretos, convenios, acuerdos y demás documentos, disposiciones y ordenamientos legales, que deba firmar el Gobernador, los que se remitirán al Gobernador por conducto de la Consejería Jurídica, para su análisis, trámite, y en su caso, firma correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 26.
 
-Todos los reglamentos, decretos y acuerdos expedidos por el Gobernador, para su validez y observancia deberán ser refrendados por el secretario del ramo al que corresponda el asunto, y cuando se refieran a asuntos de la competencia de dos o más secretarías deberán ser refrendados por los titulares de las mismas.
+Las iniciativas de leyes o de decretos que presente el Gobernador ante la legislatura local, para su trámite, así como los reglamentos, decretos y acuerdos normativos expedidos por éste, para su validez y observancia, deberán ser firmados por él y refrendados por el secretario del ramo al que corresponda el asunto, y cuando se refieran a asuntos de la competencia de dos o más secretarías, deberán ser refrendados por los titulares de las mismas.
 
 Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del titular de la Secretaría de Gobernación.
 
@@ -339,9 +363,17 @@ XVI. Desempeñar y ejecutar las comisiones y encargos que les sean conferidos po
 
 XVII. Nombrar y remover a los servidores públicos y empleados de la dependencia, previstos en la estructura y el presupuesto autorizados, cuyo nombramiento o remoción no sea facultad exclusiva del Gobernador ni esté determinado de otro modo en la legislación local;
 
-XVIII. Coordinarse y permitir la coadyuvancia de las otras dependencias cuando así se indique en sus atribuciones, y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XIX. Expedir copia certificada en el ámbito de sus atribuciones, de los documentos emitidos por los servidores públicos adscritos a la Secretaría en el desempeño de sus funciones, que obren en sus archivos.
+XVIII. Coordinarse y permitir la coadyuvancia de las otras dependencias cuando así se indique en sus atribuciones;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIX. Expedir copia certificada en el ámbito de sus atribuciones, de los documentos emitidos por los servidores públicos adscritos a la Secretaría en el desempeño de sus funciones, que obren en sus archivos, y
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XX. Crear Unidades de Igualdad Sustantiva en la estructura administrativa de cada dependencia y entidad, a efecto de instrumentar, coordinar y supervisar la ejecución y cumplimiento de los programas municipales, estatales, federales y mecanismos de cooperación internacional, en materia de igualdad sustantiva con un enfoque de derechos humanos y transversalidad con perspectiva de género.
 
 ###### ARTÍCULO 31.
 
@@ -403,13 +435,23 @@ VII. Intervenir, de conformidad con la normatividad legal vigente en los conflic
 
 VIII. Presidir el Consejo Estatal de Coordinación del Sistema Nacional de Seguridad Publica;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VIII Bis. Presidir el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres; atender lo relacionado con las solicitudes y declaraciones de alerta de violencia de género, así como coordinar y dar seguimiento a las políticas, programas, mecanismos y acciones correspondientes, en coordinación con la Secretaría de Igualdad Sustantiva;
+
 IX. Administrar el Periódico Oficial del Estado y publicar las leyes y decretos que expida el Congreso del Estado, así como los reglamentos, acuerdos y demás ordenamientos de carácter general, y mantener actualizado un portal de internet para la consulta del orden jurídico del estado, en coordinación con la Consejería Jurídica;
 
 X. Llevar el control y archivo de los convenios que celebre el Gobernador con los Poderes de la Unión, los estados, los ayuntamientos, órganos constitucionalmente autónomos, asociaciones y sociedades, con el apoyo de la Consejería Jurídica;
 
 XI. Otorgar al Poder Judicial del Estado el auxilio que requiera para el debido ejercicio de sus funciones;
 
-XII. Tramitar lo relacionado con las propuestas, nombramientos, remociones, renuncias y licencias de los servidores públicos de la Administración Pública Estatal que deba suscribir u ordene el Gobernador, así como del Fiscal General del Estado;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII. Colaborar como autoridad corresponsable o coadyuvante, en el ámbito del Poder Ejecutivo del Estado, con las autoridades jurisdiccionales, administrativas, penitenciarias y ministeriales, en materia de ejecución, seguimiento y supervisión de penas, sanciones y medidas; de supervisión de libertad; de servicios para la reinserción y reintegración familiar y social, así como de valoración de conductas, a través de los órganos técnicos o auxiliares respectivos incluyendo la materia de adolescentes;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII Bis. Establecer comisiones intersecretariales con las demás autoridades corresponsables a nivel estatal y coordinar los trabajos de aquéllas, sin perjuicio de lo dispuesto por el artículo 12 de esta ley, con el objeto de diseñar e implementar programas de servicios para la reinserción al interior de los centros penitenciarios o de internamiento y de servicios post-penales a nivel estatal; de favorecer la inclusión educativa, social y laboral de las personas privadas de la libertad próximas a ser liberadas; de desarrollar mecanismos de participación, y de promover la firma de convenios de colaboración con organizaciones de la sociedad civil, a fin de diseñar, instrumentar o brindar servicios en internamiento o de naturaleza post-penal;
 
 XIII. Tramitar lo relativo al ejercicio de las facultades que al Gobernador otorga la Constitución Política del Estado Libre y Soberano de Puebla, sobre el nombramiento y destitución de los magistrados del Tribunal Superior de Justicia del Estado y del Tribunal de Justicia Administrativa;
 
@@ -445,9 +487,21 @@ XXVIII. Prestar, a través de la unidad administrativa o instancia correspondien
 
 XXIX. Recibir de las dependencias y entidades de la Administración Pública Estatal, la información respectiva en materia de derechos humanos, cuando así corresponda en el ámbito de su competencia;
 
-XXX. Coordinar y vigilar el debido funcionamiento de los Consejos y demás órganos adscritos a esta Secretaría, y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XXXI. Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el estado.
+XXX. Coordinar y vigilar el debido funcionamiento de los Consejos y demás órganos adscritos a esta Secretaría;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXXI. Articular el funcionamiento del sistema estatal en materia de derechos humanos, a fin de fortalecer su promoción y defensa, con perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXXII. Coordinar el diseño y la ejecución de políticas, programas y acciones relativos a la cohesión social y la prevención social de la violencia y de la delincuencia, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXXIII. Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el Estado.
 
 ### CAPÍTULO III. DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS
 
@@ -563,7 +617,17 @@ LIII. Intervenir a través de la Procuraduría Fiscal en toda clase de procedimi
 
 LIV. Analizar el impacto presupuestal de las propuestas de modificación de las estructuras orgánicas, con el fin de verificar que el número de personal solicitado esté dentro del presupuesto de plazas autorizado y no genere desequilibrio presupuestario o faltas a la disciplina financiera;
 
-LV. Realizar el cobro de los derechos de expedición de las placas, tarjetas de circulación, engomado alfanumérico y fiscal, licencias y demás documentos relativos a conductores y vehículos de transporte público, mercantil y particular, cuya asignación, suscripción y emisión corresponde a la Secretaría de Movilidad y Transportes, y coadyuvar con ésta y con la Secretaría de Administración, de conformidad con sus atribuciones fiscales, en el establecimiento, integración, administración y control de los Registros Estatal Vehicular, de Concesiones y Permisos, de Empresas de Redes de Transporte y de Licencias de Conducir;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+LV. Establecer, integrar, administrar, controlar y mantener actualizado el Registro Estatal Vehicular, de conformidad con sus respectivas atribuciones; asignar, expedir, entregar y sustituir las placas, calcomanías de identificación vehicular, tarjetas de circulación y demás documentos relativos a vehículos del servicio particular, así como licencias de conducir que correspondan a los diversos tipos de vehículos y servicios de que se trate conforme a la ley, previa revisión, verificación y autorización de la documentación del solicitante y cobro de los derechos correspondientes, haciendo constar electrónicamente en el respectivo sistema de control vehicular, todos los movimientos relacionados, en coordinación con las Secretarías de Administración y de Movilidad y Transporte y de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+LV Bis. Suscribir, junto con la Secretaría de Movilidad y Transporte, las tarjetas de circulación de vehículos particulares y del servicio de transporte en el estado, así como coordinarse con esta dependencia para el establecimiento, administración y mantenimiento de los sistemas de registro y control de concesiones, permisos y autorizaciones que se otorguen de conformidad con las disposiciones aplicables en materia de transporte;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+LV Ter. Coordinar y vigilar, por sí o a través del órgano desconcentrado respectivo, el ejercicio de las funciones de registro público de la propiedad y del comercio, catastro y cartografía territorial del Estado, así como su vinculación sistematizada entre sí y el establecimiento de la clave única registral y catastral, de conformidad con la normatividad aplicable;
 
 LVI. Adquirir, suministrar y controlar las formas oficiales valoradas y las formas oficiales de reproducción restringida que se utilicen en la prestación de los servicios a cargo de las dependencias y entidades de la Administración Pública del Estado, así como destruirlas con intervención de la Secretaría de la Función Pública;
 
@@ -593,7 +657,9 @@ III. Emitir normas, lineamientos, políticas y criterios de observancia obligato
 
 IV. Coordinar y supervisar las áreas que realicen funciones de coordinación administrativa en las dependencias y sus equivalentes en las entidades;
 
-V. Verificar los sistemas y estructuras administrativos que tengan en operación las dependencias y entidades del Gobierno del Estado, para asegurar su correcto funcionamiento y proponer adecuaciones o dar nuevos métodos, sistemas, estructuras, procedimientos y controles que aseguren una mayor eficiencia en el desarrollo de los programas de gobierno y la modernización constante del mismo;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+V. Analizar y, en su caso, autorizar las propuestas de modificación de las estructuras orgánicas y los sistemas administrativos de las dependencias y entidades, previo análisis y determinación favorable por parte de la Secretaría de Planeación y Finanzas en el ámbito presupuestal; así como verificar su funcionamiento u operación, llevar los registros correspondientes y proponer adecuaciones o nuevos métodos, sistemas, procedimientos, controles y estructuras, con el fin de asegurar una mayor eficiencia en el desarrollo de los programas de gobierno y la modernización constante del mismo;
 
 VI. Coadyuvar con la Secretaría de la Función Pública y con la instancia técnica competente, en el diseño, instrumentación, coordinación y operación del Sistema de Evaluación del Desempeño de la Administración Pública Estatal, así como el monitoreo de indicadores estratégicos, e informar pormenorizadamente a la Secretaría de la Función Pública sobre los resultados de desempeño y su incorporación al proceso de programación y presupuestación;
 
@@ -1147,9 +1213,17 @@ IX. Promover, organizar y evaluar, con la participación de las autoridades y se
 
 X. Establecer las políticas públicas en materia de seguridad vial, desde una perspectiva de salud pública, promover la cultura de seguridad y elaborar e implementar los programas respectivos, prestando especial atención a las necesidades de las personas en situación de vulnerabilidad;
 
-XI. Asignar, expedir y entregar las placas, tarjetas de circulación, engomados alfanuméricos, licencias de conducir y demás documentos relativos a conductores y vehículos registrados de transporte público, mercantil y particular, previa revisión, verificación y autorización de la documentación del solicitante y pago de los derechos correspondientes, en caso de que sea procedente de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XII. Establecer, integrar, administrar, controlar y mantener actualizados los Registros Estatal Vehicular, de Concesiones y Permisos, de Empresas de Redes de Transporte y de Licencias de Conducir, en coordinación con las Secretarías de Planeación y Finanzas y de Administración, de conformidad con sus respectivas atribuciones, con el objeto de hacer constar electrónicamente en los sistemas respectivos, todos los movimientos relacionados con la asignación, reasignación, expedición, sustitución, revocación, cancelación, abandono, baja, regulación y pago de derechos, de placas, tarjetas de circulación, engomados alfanuméricos, licencias y demás documentos relativos a vehículos de transporte público, mercantil y particular;
+XI. Asignar, expedir y entregar las placas, tarjetas de circulación, calcomanías de identificación vehicular y demás documentos relativos a conductores y vehículos registrados de los servicios de transporte en el estado, previa revisión, verificación y autorización de la documentación del solicitante y pago de los derechos correspondientes, en caso de que sea procedente de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII. Establecer, integrar, administrar, controlar y mantener actualizados los Registros de Concesiones y Permisos, y de Empresas de Redes de Transporte, en coordinación con las Secretarías de Planeación y Finanzas y de Administración, con el objeto de hacer constar electrónicamente en los sistemas respectivos y controlar todos los movimientos relacionados con la asignación, reasignación, expedición, sustitución, revocación, cancelación, abandono, baja, regulación y pago de derechos, de placas, tarjetas de circulación, calcomanías de identificación vehicular, concesiones, permisos, autorizaciones y demás documentos relativos a vehículos de transporte público y mercantil, de conformidad con las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XII Bis. Suscribir, junto con la Secretaría de Planeación y Finanzas, las tarjetas de circulación de vehículos del servicio de transporte en el estado y particulares;
 
 XIII. Establecer los requisitos que deban satisfacer los particulares y el personal técnico del servicio de transporte, así como otorgar concesiones y expedir las licencias, permisos y autorizaciones respectivas dentro del ámbito de su competencia que le señale la ley de la materia;
 
@@ -1563,55 +1637,101 @@ LIII. Los demás que le atribuyan las leyes, reglamentos, decretos, convenios, a
 
 A la Secretaría de Igualdad Sustantiva le corresponde el despacho de los siguientes asuntos:
 
-I. Proponer al Gobernador políticas generales, programas, estrategias y acciones públicas en materia de derechos prestacionales y humanos, para alcanzar la plena igualdad material de los grupos en situación de vulnerabilidad, construir una sociedad más justa y solidaria y eliminar prácticas discriminatorias por cuestión de género, edad, identidad, expresión y orientación sexo-afectiva, origen étnico y condición de discapacidad, de conformidad con los tratados internacionales de derechos humanos y la legislación nacional y estatal en estas materias; así como formular, orientar, conducir y evaluar, de manera integral, las normas, políticas y lineamientos relativos, con una proyección de corto, mediano y largo plazo, en coordinación con las autoridades y entidades competentes de los tres niveles de gobierno, para lo cual deberá observar los objetivos y directivas establecidos en los ordenamientos y programas aplicables;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-II. Instrumentar, coordinar y supervisar la ejecución de los programas estatales y federales y los mecanismos de cooperación internacional especializados en los grupos identificados en la fracción anterior, de acuerdo con los convenios suscritos;
+I. Proponer al Gobernador políticas generales, programas, estrategias y acciones públicas, para construir una sociedad más justa y solidaria, disminuir la desigualdad entre mujeres y hombres así como las prácticas discriminatorias, en cualquiera de sus modalidades para aquellas personas susceptibles de sufrirlas, de conformidad con los tratados internacionales y la legislación nacional y estatal en estas materias; así como formular, orientar, conducir y evaluar de manera integral, las normas, políticas y lineamientos relativos, con una proyección de corto, mediano y largo plazo, en coordinación con las autoridades y entidades competentes de los tres niveles de gobierno, para lo cual deberá observar los objetivos y directivas establecidos en los ordenamientos y programas aplicables;
 
-III. Aprobar y participar, en coordinación con las instancias competentes, en la formulación, ejecución y evaluación de los programas y proyectos que realicen las dependencias y entidades de la Administración Pública Estatal con relación a la igualdad sustantiva, garantizando la transversalidad institucional, la interculturalidad y la pertinencia económica, social, cultural, política, lingüística y de género;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IV. Coordinarse con las dependencias y entidades de la Administración Pública Estatal y coadyuvar con los municipios, para el diseño, implementación y evaluación de una política transversal de derechos prestacionales y humanos para alcanzar la plena igualdad material y reflejarlos en sus propios programas, políticas, proyectos y actividades en el ámbito de su competencia, así como generar un informe anual sobre su avance y cumplimiento;
+II. Instrumentar, coordinar y supervisar la ejecución y cumplimiento de los programas estatales, federales y mecanismos de cooperación internacional, especializados en igualdad sustantiva de acuerdo con los convenios suscritos y con un enfoque de derechos humanos y perspectiva de género, con el apoyo de las Unidades de Igualdad Sustantiva que se establezcan dentro de la estructura administrativa de cada dependencia y entidad, mediante acuerdo con su titular;
 
-V. Garantizar la difusión y el acceso a la ciudadanía, a la información relativa en materia de igualdad sustantiva, conforme al principio de máxima publicidad, y asegurar la difusión del informe anual de avances y objetivos mencionado en la fracción anterior;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-VI. Diseñar, coordinar e implementar planes de formación, capacitación, especialización y profesionalización continua y sistemática de las personas servidoras públicas en materia de igualdad sustantiva, con énfasis en su transversalización e institucionalización y con un enfoque interseccional, intercultural, intergeneracional, intersectorial y de perspectiva de género, para que incorporen estos elementos en el desempeño de sus funciones; así como promover estos planes para su implementación en los municipios que lo soliciten;
+III. Participar en la aprobación, formulación, ejecución y evaluación de los programas y proyectos que realicen las dependencias y entidades de la Administración Pública Estatal con relación a la igualdad sustantiva, garantizando la transversalidad de la perspectiva de género, la interculturalidad e interseccionalidad, en coordinación con las autoridades competentes;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+IV. Coordinarse con las dependencias, entidades de la Administración Pública Estatal y coadyuvar con los municipios, para el diseño, implementación y evaluación de una política transversal en igualdad sustantiva, con un enfoque de derechos humanos y una política para prevenir, atender, sancionar y erradicar la violencia contra las mujeres; reflejarlas en sus propios programas, proyectos y actividades en el ámbito de su competencia, e integrar un informe anual sobre sus objetivos, avances y cumplimiento;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+V. Garantizar la difusión y el acceso de la población, a la información relativa en materia de igualdad sustantiva, de prevención, atención, sanción y erradicación de la violencia contra las mujeres, así como de principios, tipos, modalidades y mecanismos para garantizar su acceso a una vida libre de violencia, conforme al principio de máxima publicidad, y asegurar la difusión del informe anual de objetivos, avances y cumplimiento mencionado en la fracción anterior;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+VI. Impulsar estrategias de comunicación, difusión y capacitación con énfasis en la transversalización e institucionalización de la perspectiva de género, con un enfoque interseccional y de igualdad sustantiva, para que los sectores público, privado y social de la entidad, incorporen estos elementos en el desempeño de sus funciones; así como supervisar su cumplimiento y avance;
 
 VII. Propiciar cambios culturales para la eliminación de estereotipos y la erradicación de prácticas discriminatorias, mediante estrategias de comunicación, difusión y educación, con todos los sectores de la sociedad;
 
-VIII. Promover e impulsar acciones afirmativas a favor de las mujeres, de las personas adultas mayores, indígenas o en condición de discapacidad y de las que estén en situación de vulnerabilidad por su identidad, expresión u orientación sexo-afectiva, a través de procesos de transversalidad en el ámbito estatal y municipal;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-IX. Vincularse con las instituciones y organismos municipales, locales, nacionales e internacionales, cuyo objeto esté relacionado con las atribuciones de la Secretaría, con el fin de desarrollar estrategias de colaboración y acciones en beneficio de las personas identificadas en la fracción que antecede, en congruencia con los programas y normas aplicables;
+VIII. Promover e impulsar acciones afirmativas a través de procesos de transversalidad de la perspectiva de género en el ámbito estatal y municipal a favor de las mujeres, que sean susceptibles de ser vulneradas mediante actos de violencia, discriminación, brechas de género o cualquier otro que atente contra sus derechos humanos;
 
-X. Desarrollar y articular la operación de instrumentos, mecanismos, metodologías y estrategias, para la atención integral de las mujeres, de las personas adultas mayores, indígenas o en condición de discapacidad y de las que estén en situación de vulnerabilidad por su identidad, expresión u orientación sexo-afectiva, así como para la educación y sensibilización de las demás personas, con el fin de prevenir, combatir y eliminar toda forma de discriminación y violencia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XI. Coordinar, gestionar e implementar las políticas estatales para el acceso de las mujeres a una vida libre de violencia, así como para la prevención, atención, sanción y erradicación de la violencia contra mujeres y niñas, monitoreando y evaluando sus resultados;
+IX. Vincularse con los sectores público, privado y social de la entidad, cuyo objeto esté relacionado con las atribuciones de la Secretaría, con la finalidad de establecer líneas de trabajo conjuntas en beneficio de la población, y en congruencia con los programas y normas aplicables;
 
-XII. Presidir el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres y representar al Estado de Puebla en el Sistema Nacional;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XIII. Formular, coordinar y vigilar las políticas de apoyo a la participación de las mujeres en los diversos ámbitos de desarrollo;
+X. Desarrollar y articular con los sectores público, privado y social de la entidad, la operación de instrumentos, mecanismos, metodologías y estrategias, para la atención integral de las personas con independencia de la condición en que se encuentren, o que sean susceptibles de ser vulneradas mediante actos de violencia, discriminación, brechas de género o cualquier otro que atente contra sus derechos humanos, así como para la sensibilización de la población, con la finalidad de prevenir, atender, sancionar y erradicar la discriminación y la violencia en su contra, además de vigilar que se cumpla con los principios, tipos, modalidades y mecanismos que garanticen su acceso a una vida libre de violencia, o contribuyan al mejoramiento integral de su calidad de vida y el goce pleno del ejercicio de sus derechos;
 
-XIV. Promover, orientar, dar seguimiento y evaluar los resultados de políticas públicas estatales que promuevan el acceso igualitario de las mujeres a los recursos económicos, a la propiedad y control de la tierra, la vivienda y otros bienes, a los servicios financieros y los recursos naturales;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XV. Impulsar, en colaboración con los sectores público, social y privado, la realización de acciones que conlleven a la valoración y aprovechamiento de las distintas capacidades que poseen las personas adultas mayores o con discapacidad, así como la implementación de políticas preferenciales para ellas, que comprendan precios especiales, con descuentos o gratuitos, en servicios médicos, hospitalarios, farmacéuticos, asistenciales, deportivos, educativos, culturales, turísticos, recreativos, de entretenimiento, de hospedaje, de transporte y cualquier otro que coadyuve a su atención, bienestar, desarrollo y plena integración;
+XI. Coordinar, gestionar e implementar políticas públicas con especial énfasis en los mecanismos institucionales para el adelanto de las mujeres, así como en la prevención, atención, sanción y erradicación de la violencia contra mujeres y niñas, monitoreando y emitiendo opinión acerca de sus resultados de conformidad con la Ley;
 
-XVI. Pugnar porque se establezcan políticas de infraestructura y equipamiento, que faciliten el acceso, el traslado y la movilidad de las personas adultas mayores o con discapacidad, y hacer las recomendaciones que considere necesarias;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XVII. Coordinar a las dependencias y entidades de la Administración Pública Estatal para la inclusión y desarrollo de las personas adultas mayores o con discapacidad, dando seguimiento continuo a la ejecución de las políticas y programas, procurando que las medidas de nivelación y de inclusión se reflejen de manera transversal con el objetivo de promover la igualdad de oportunidades, accesibilidad universal, no discriminación, participación e inclusión, plenas y efectivas, en la sociedad;
+XII. Fungir como Secretaría Ejecutiva del Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres y constituirse como el Mecanismo de Adelanto para las Mujeres en la entidad;
 
-XVIII. Mantener contacto continuo con las personas adultas mayores, con discapacidad o con alguna otra condición de vulnerabilidad, las organizaciones de la sociedad civil y los grupos de atención a estos grupos (sic), para asegurar su activa participación en la elaboración de las normas, implementación de las políticas públicas o cualquier otro proceso de decisión relacionado con ellas, así como asegurar la realización de las consultas requeridas de manera previa y efectiva;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XIX. Coadyuvar y auxiliar en el desarrollo integral y sustentable, así como la plena efectividad de los derechos sociales, económicos y culturales, de los pueblos y comunidades indígenas, respetando su identidad social y cultural, sus costumbres, tradiciones y sus instituciones;
+XIII. Proponer a los tres niveles de Gobierno, acciones destinadas a incluir la participación de las mujeres y la paridad, en los ámbitos legislativo, administrativo, político, económico, cultural y social de la entidad, así como coordinar y dar seguimiento a su cumplimiento;
 
-XX. Propiciar la participación y cooperación de los pueblos y comunidades indígenas en los instrumentos de planeación del Gobierno del Estado, con el objeto de mejorar sus condiciones de vida, trabajo, educación y nivel de salud; así como garantizar la realización de las consultas previas, informadas y efectivas que deben realizarse en los procedimientos administrativos que los afecten, en sus respectivas lenguas;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XXI. En coordinación con las dependencias y entidades competentes, diseñar, promover, coordinar, ejecutar e instrumentar políticas, programas y proyectos especiales que promuevan el desarrollo de los pueblos y comunidades indígenas, que fortalezcan su organización y su identidad cultural, bajo el marco de la Constitución Federal, la Constitución Local y demás legislación aplicable;
+XIV. Dar seguimiento y emitir opiniones sobre los resultados de políticas públicas estatales que promuevan el acceso igualitario y el adelanto de las mujeres en los ámbitos citados en la fracción anterior;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XV. Impulsar, en colaboración con los sectores público, privado y social, la realización de políticas y acciones preferenciales, que conlleven a la valoración y aprovechamiento de las distintas capacidades que posean las personas, con independencia de la condición en que se encuentren, o que sean susceptibles de ser vulneradas mediante actos de violencia, discriminación o cualquier otro que atente contra sus derechos humanos, y que coadyuven a su atención, bienestar, desarrollo y plena integración;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVI. Supervisar que la infraestructura y equipamiento públicos, cumplan con las características de fácil acceso, traslado y movilidad incluyente, así como evaluar el cumplimiento de la normatividad correspondiente, y hacer las recomendaciones que esta Secretaría estime necesarias;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVII. Coordinar con los tres niveles de gobierno y con los sectores privado y social de la entidad, acciones destinadas a la inclusión y desarrollo de la población vigilando que la ejecución de las políticas, programas y proyectos especiales garanticen la transversalidad de la perspectiva de género, la interculturalidad, la inclusión y la no discriminación en la sociedad;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Mantener contacto continuo con la población objetivo y las organizaciones de la sociedad civil, para asegurar su participación en la elaboración de las normas, implementación de las políticas públicas o cualquier otro proceso de decisión relacionado con ellas, así como coordinar y vigilar su cumplimiento y asegurar la realización de las consultas requeridas de manera previa, informada y efectiva;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XIX. Impulsar el desarrollo integral, igualitario y la plena efectividad de los derechos humanos, económicos y culturales de la población indígena de la entidad, respetando su identidad social y cultural, sus costumbres, tradiciones y sus instituciones;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XX. Propiciar la participación y cooperación de las mujeres y de la población objetivo en los instrumentos de planeación del Gobierno del Estado, con el objeto de transversalizar la perspectiva de género, buscar la igualdad sustantiva y mejorar sus condiciones de bienestar, desarrollo y plena integración;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXI. En coordinación con las dependencias y entidades competentes, diseñar, promover, coordinar, ejecutar e instrumentar políticas, programas y proyectos especiales que promuevan el desarrollo de las personas que sean susceptibles de ser vulneradas, desde la perspectiva de género, la no discriminación y el respeto a sus derechos humanos;
 
 XXII. Gestionar y concertar la colaboración de los sectores social y privado, para unir esfuerzos y consolidar la participación ciudadana, así como de organizaciones de la sociedad civil, en la elaboración, seguimiento y evaluación de políticas públicas a favor de la igualdad sustantiva, mediante mecanismos de gestión, ejecución, evaluación y gobernanza;
 
-XXIII. Realizar estudios técnicos y diagnósticos estratégicos con enfoque de género e inclusión de personas adultas mayores, con discapacidad, condición y participación de pueblos y comunidades indígenas, y con identidad, expresión y orientación sexo afectiva, que resulten necesarios para orientar la toma de decisiones y la definición de las políticas públicas que aseguren la igualdad sustantiva en el estado;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-XXIV. Proponer y promover la incorporación de los conceptos de igualdad sustantiva, perspectiva de género e inclusión, mediante la adecuación y actualización del marco normativo estatal y municipal, así como las demás modificaciones que sean necesarias, a efecto de armonizarlos conforme al derecho internacional y nacional en materia de derechos humanos en los ámbitos de su competencia y contribuir a eliminar las causas de discriminación, opresión, desigualdad, injusticia y jerarquización de las personas;
+XXIII. Realizar estudios técnicos y diagnósticos estratégicos con enfoque de género e inclusión de la población que resulten necesarios para orientar la toma de decisiones y la definición de las políticas públicas que promuevan o aseguren la igualdad sustantiva en el Estado;
 
-XXV. Promover, apoyar, documentar y difundir investigaciones y estudios especializados en materia de igualdad sustantiva;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXIV. Proponer y promover la adecuación y actualización del marco normativo estatal y municipal, para la incorporación de los principios de igualdad sustantiva, perspectiva de género e inclusión, así como lo relativo a la prevención, atención sanción y erradicación de la violencia contra las mujeres y niñas a efecto de armonizarlas conforme al derecho internacional y nacional en los ámbitos de su competencia;
+
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+XXV. Impulsar, documentar y difundir información en materia de igualdad sustantiva, transversalidad de la perspectiva de género, interculturalidad, interseccionalidad, así como prevención, atención, sanción y erradicación de la violencia contra las mujeres y niñas, en la sociedad;
 
 XXVI. Gestionar información y estadísticas, con el fin de integrar y elaborar diagnósticos e indicadores estatales, regionales y municipales, en las materias de su competencia;
 
@@ -1850,3 +1970,33 @@ En tanto no se expidan los reglamentos a que se refiere el párrafo anterior, la
 El GOBERNADOR INTERINO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de julio de dos mil diecinueve. Diputada Presidenta. C. MARÍA DE CARMEN CABRERA CAMACHO. Rúbrica. Diputado Vicepresidente. C. FERNANDO SÁNCHEZ SASIA. Rúbrica. Diputada Secretaria. C. NORA YESSICA MERINO ESCAMILLA. Rúbrica. Diputada Secretaria. C. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintinueve días del mes de julio de dos mil diecinueve. El Gobernador Interino del Estado Libre y Soberano de Puebla. C. GUILLERMO PACHECO PULIDO. Rúbrica. El Secretario General de Gobierno. C. FERNANDO LUIS MANZANILLA PRIETO. Rúbrica. El Secretario de Finanzas y Administración. C. CHARBEL JORGE ESTEFAN CHIDIAC. Rúbrica. La Encargada de Despacho de la Secretaría de la Contraloría. C. KAREN BERLANGA VALDÉS. Rúbrica. El Secretario de Competitividad, Trabajo y Desarrollo Económico. C. JAIME RAÚL OROPEZA CASAS. Rúbrica. El Secretario de Cultura y Turismo. C. ALEJANDRO CAÑEDO PRIESCA. Rúbrica. El Secretario de Desarrollo Rural. C. FRANCISCO RODRÍGUEZ ÁLVAREZ. Rúbrica. El Secretario de Infraestructura, Movilidad y Transportes. C. ANTONIO PENICHE GARCÍA. Rúbrica. La Secretaria de Salud. C. INOCENCIA LUCÍA OJEDA LARA. Rúbrica. El Secretario de Educación Pública. C. AURELIO MIGUEL ROBLES BÁRCENA. Rúbrica. El Secretario de Bienestar. C. MARIO MONTERROSAS ALONSO. Rúbrica. El Secretario de Seguridad Pública. C. MANUEL ALONSO GARCÍA. Rúbrica. El Secretario de Medio Ambiente y Ordenamiento Territorial. C. RAFAEL REYNOSO MORA Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para el cumplimiento de este Decreto, el Gobernador, a través de las instancias competentes, podrá reorganizar la estructura de las dependencias creando, fusionando, escindiendo o disolviendo las unidades administrativas y oficinas necesarias; asimismo, podrá trasladar o crear las nuevas unidades administrativas y oficinas que resulten necesarias, realizando las adecuaciones presupuestales de conformidad con lo estipulado en la Ley de Egresos del Estado de Puebla para el ejercicio fiscal que corresponda.
+
+CUARTO. Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente ordenamiento, la Consejería Jurídica, la Secretaría de Planeación y Finanzas y la Secretaría de Administración, en el ámbito de sus respectivas competencias, coordinarán el proceso de transferencia de atribuciones, asuntos y recursos humanos, materiales y financieros existentes, entre las dependencias reorganizadas, representadas por sus titulares o el personal que éstos designen, bajo la vigilancia de la Secretaría de la Función Pública y el cumplimiento de las disposiciones generales y especiales emitidas por ésta, para su entrega-recepción.
+
+Los asuntos y recursos con que cuenten las unidades administrativas cuya adscripción cambie por disposición o consecuencia del presente ordenamiento, serán transferidos a su nueva dependencia en un plazo máximo de sesenta días a partir de la entrada en vigor del mismo.
+
+Los titulares de las dependencias y unidades administrativas de origen y de nueva creación, con el apoyo de las dependencias coordinadoras del proceso de transferencia, proveerán y acordarán lo necesario para cumplir oportunamente el mismo.
+
+La Consejería Jurídica y las Secretarías de Planeación y Finanzas, de Administración y de la Función Pública, en el ámbito de sus respectivas competencias, resolverán sobre los aspectos administrativos no contemplados en el presente ordenamiento, escuchando previamente la opinión de la dependencia involucrada.
+
+QUINTO. Cuando algún órgano desconcentrado o unidad administrativa deba pasar de una dependencia a otra, la transferencia se realizará incluyendo los recursos humanos, financieros y materiales que el órgano desconcentrado o la unidad administrativa utilice para la atención de los asuntos de su conocimiento.
+
+SEXTO. Los procedimientos y demás asuntos que con motivo de la entrada en vigor de esta Ley deban pasar de una dependencia a otra, continuarán tramitándose por las unidades administrativas de origen hasta que éstas se incorporen a las nuevas dependencias o entidades o, en su caso, se establezcan las unidades administrativas que deban conocer aquéllos, en términos de esta Ley.
+
+SÉPTIMO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada del presente ordenamiento, se refiera a las dependencias que dejan de tener a su cargo el despacho de los asuntos respectivos, se entenderá atribuido a las dependencias a que se refiere el presente ordenamiento y a las que se asignen las facultades específicas que en cada caso se relacionen, incluidas las de coordinación de sector de las entidades respectivas y participación en sus órganos de gobierno, siendo facultad del Gobernador, por conducto de la Consejería Jurídica, hacer la interpretación legal correspondiente y aclarar cualquier duda al respecto.
+
+OCTAVO. Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra se respetarán en términos de la Ley de los Trabajadores al Servicio del Estado, así como de los lineamientos para el Servicio Civil de Carrera vigentes.
+
+NOVENO. El Gobernador dentro los sesenta días naturales a partir de la entrada en vigor de la presente Ley, expedirá las reformas a los reglamentos interiores correspondientes y en tanto no se expidan las mismas, se seguirán aplicando las disposiciones vigentes en todo aquello que no contravenga este Decreto.
