@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2019-11-22"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -2113,7 +2113,9 @@ La reglamentación municipal debe contener las normas de observancia general que
 
 Los bandos de policía y gobierno, los reglamentos, las circulares y en general todas las disposiciones de observancia general y obligatoria en los municipios, deberán sujetarse a las siguientes bases generales:
 
-I. El respeto absoluto a la Constitución Política de los Estados Unidos Mexicanos, a la particular del Estado de Coahuila y en general a la legislación ordinaria federal y local, con estricta y especial observancia de las garantías individuales.
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+I. El respeto absoluto a la Constitución Política de los Estados Unidos Mexicanos, a la particular del Estado de Coahuila y en general a la legislación ordinaria federal y local, así como a los Tratados Internacionales de los que el país sea parte, con estricto y especial respeto y protección de los derechos humanos.
 
 II. La delimitación precisa de la materia que se regula.
 
@@ -2150,6 +2152,10 @@ II. El derecho de iniciar reglamentos administrativos interiores, circulares o c
 III. Los reglamentos que sea necesario expedir para regular la intervención que le compete al Municipio en la organización y funcionamiento de entidades desconcentradas de la administración municipal; empresas de participación municipal y fideicomisos públicos municipales, podrán ser iniciados ante el ayuntamiento por el presidente municipal, los regidores, el síndico y los representantes legales de las mencionadas entidades.
 
 IV. Para la expedición de cualesquier ordenamiento legal de observancia general y obligatoria en la jurisdicción municipal, el ayuntamiento deberá sesionar con la asistencia de por lo menos las dos terceras partes de sus integrantes. La secretaría del ayuntamiento deberá convocar a la sesión correspondiente con un mínimo de tres días hábiles de anticipación. El reglamento interior para la organización política del Municipio, regulará de conformidad con este código, todo lo relativo a las etapas legislativas de discusión y aprobación de los ordenamientos jurídicos de que se trata.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+En todo caso, las iniciativas para la expedición, reforma, derogación o abrogación de la legislación municipal, deberán presentarse en sesión de cabildo y ser turnadas a la o las comisiones que correspondan para su dictamen.
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -4782,3 +4788,13 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 PRIMERO.- El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado; y
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 376.- SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 175 Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV, DEL ARTÍCULO 176 DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado;
+
+SEGUNDO.- Los ayuntamientos deberán reformar sus reglamentos en un plazo no mayor a 30 días naturales posteriores a la publicación del decreto; y
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
