@@ -4,7 +4,7 @@ identifier: "COA-ley-de-victimas-para-el-estado-de-coahuila-de-zaragoza-100658"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2019-11-22"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 2 de mayo de 2014.
 
@@ -791,9 +791,9 @@ II. La resolución firme emitida por la autoridad judicial;
 
 La determinación del Comité Interdisciplinario Evaluador, deberá dictar dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-El monto de la compensación subsidiaria, podrá ser hasta de quinientas veces el salario mínimo mensual y será proporcional a la gravedad del daño sufrido sin que implique, por sí mismo, el enriquecimiento de la víctima.
+El monto de la compensación subsidiaria, podrá ser hasta de quinientas veces el salario mínimo mensual y será proporcional a la gravedad del daño sufrido, atendiendo a lo dispuesto por los estándares internacionales que contemplan los tratados en materia de derechos humanos en los que el Estado Mexicano sea parte y la jurisprudencia que emita la Corte Interamericana de Derechos Humanos, sin que implique, por sí mismo, el enriquecimiento de la víctima.
 
 ###### Artículo 51.
 
@@ -2432,3 +2432,11 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 ###### ARTÍCULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 388.- SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 50 DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
