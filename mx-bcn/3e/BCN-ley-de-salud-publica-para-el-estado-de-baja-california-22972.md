@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2019-05-24"
+last_updated: "2019-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -2293,7 +2293,7 @@ Los transportes de carga señalados en el artículo anterior que circulen por el
 
 #### SECCION I. DE LAS AUTORIZACIONES
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 147.
 
@@ -2439,85 +2439,115 @@ III.- Conformar grupos de trabajo para la realización y seguimiento de tareas e
 
 IV.- Las demás que le establezca el Reglamento Interno.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 #### SECCION II. DE LA REVOCACION DE LAS AUTORIZACIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 #### SECCION III. DE LOS CERTIFICADOS
 
-### CAPITULO DECIMO PRIMERO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
+### CAPITULO DECIMO PRIMERO. DE LA COMISIÓN ESTATAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 149.
 
-La autorización sanitaria es el acto administrativo mediante el cual la Secretaría de Salud del Estado permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, con los requisitos y modalidades que determine esta Ley, normas oficiales mexicanas y demás disposiciones aplicables.
+Las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan a la Secretaria de Salud en materia de salubridad local, serán ejercidas a través del órgano desconcentrado denominado Comisión Estatal de Protección Contra Riesgos Sanitarios, a la que corresponde:
 
-Para efectos de esta Ley se entenderá por autorización sanitaria, las licencias y las tarjetas de control sanitario.
+I. Ejercer la regulación, control, vigilancia y fomento sanitarios de los productos, actividades, establecimientos y servicios, así como evaluar, expedir o revocar las autorizaciones y emitir los actos de autoridad, en apego a las disposiciones previstas en la Ley General de Salud, la presente Ley, reglamentos, acuerdos específicos, Normas Oficiales Mexicanas, y demás normativa aplicable;
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+II. Elaborar y proponer, las normas técnicas locales para la regulación, control y fomento sanitario, así como someterlas a consideración del Secretario de Salud para su aprobación, aplicación y publicación en su caso;
+
+III. Proponer y coordinar la política estatal de protección contra riesgos sanitarios;
+
+IV. Representar al Estado en el Sistema Federal Sanitario;
+
+V. Coordinar las acciones para la prestación de los servicios de salud a la comunidad en materia de su competencia, así como para el destino de los recursos previstos para tal efecto de conformidad con las disposiciones aplicables y en términos de los acuerdos de colaboración y coordinación;
+
+VI. Identificar, analizar, evaluar, regular, controlar, fomentar y difundir las condiciones y requisitos para la prevención y manejo de los riesgos sanitarios en el estado;
+
+VII. Realizar y en su caso coordinar la integración de diagnósticos situacionales, investigaciones, evaluaciones de riesgo en materia de regulación, control y fomento sanitario en coordinación con otras autoridades competentes, e instituciones de investigación o académicas;
+
+VIII. Expedir certificados oficiales de la condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
+
+IX. Emitir, revalidar, prorrogar o revocar las autorizaciones sanitarias en las materias de su competencia, en los términos de la Ley General de Salud, la presente Ley, sus reglamentos, las Normas Oficiales Mexicanas, las normas técnicas locales y demás disposiciones legales aplicables;
+
+X. Ejecutar los procedimientos administrativos que correspondan conforme a la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California, la presente Ley y de más (sic) normativa aplicable;
+
+XI. Aplicar estrategias de investigación, evaluación y seguimiento de riesgos sanitarios, conjuntamente o en coadyuvancia con otras autoridades competentes;
+
+XII. Vigilar e imponer sanciones administrativas por el incumplimiento de disposiciones de esta Ley, la Ley General, Normas Oficiales Mexicanas y demás ordenamientos aplicables, así como determinar medidas de seguridad, preventivas y correctivas, en el ámbito de su competencia;
+
+XIII. Ejercer las acciones de control, regulación y fomento sanitario correspondientes, para prevenir y reducir los riesgos sanitarios derivados de la exposición de la población a factores químicos, físicos y biológicos;
+
+XIV. Participar, en coordinación con las unidades administrativas correspondientes de la Secretaría en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, cuando éstas se relacionen con los riesgos sanitarios derivados de los procesos, productos, métodos, instalaciones, servicios o actividades en las materias de su competencia;
+
+XV. Efectuar la identificación, evaluación y control de los riesgos a la salud en las materias de su competencia;
+
+XVI. Proponer la política de protección contra riesgos sanitarios en la entidad, así como su instrumentación en materia de salubridad local, regulación, control y fomento sanitario que le correspondan al Estado;
+
+XVII. Hacer del conocimiento de las autoridades competentes, la opinión sobre la publicidad de las actividades, productos y servicios a los que se refiere esta ley y sus reglamentos, que se difunda en el Estado;
+
+XVIII. Planear, organizar, dirigir y controlar los recursos humanos, materiales, y financieros que les sean asignados, así como proponer al Congreso del Estado su presupuesto de egresos e ingresos, que deberá de contener los costos de servicios y montos de sanciones en su caso;
+
+XIX. Suscribir convenios y acuerdos de colaboración para el cumplimiento de sus atribuciones;
+
+XX. Realizar por conducto del personal autorizado, las visitas de inspección, vigilancia y verificación de cumplimiento de esta Ley, la Ley General de Salud, Normas Oficiales Mexicanas y demás ordenamientos aplicables en materia sanitaria, en los domicilios de los establecimientos comerciales o instituciones públicas;
+
+XXI. Coordinarse, en su caso, con las autoridades responsables de regular y verificar las condiciones de seguridad y protección civil, para la ejecución de las acciones de regulación, control, fomento y vigilancia sanitaria a su cargo, y
+
+XXII. Las demás que señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 150.
 
-Las autorizaciones sanitarias serán expedidas cuando el solicitante hubiese satisfecho los requisitos que señalen las normas aplicables y cubierto en su caso, las contribuciones previstas en la Ley de Ingresos del Estado.
+La Comisión Estatal de Protección Contra Riesgos Sanitarios tendrá autonomía administrativa, técnica, operativa y de gestión. Su titular será designado y removido por el Gobernador del Estado a propuesta del Secretario de Salud.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+Todo lo relacionado a la organización y funcionamiento de la Comisión Estatal de Protección Contra Riesgos Sanitarios se establecerá en su Reglamento Interno.
 
-### CAPITULO DECIMO SEGUNDO. DE LA VIGILANCIA SANITARIA
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO DECIMO SEGUNDO. DE LAS AUTORIZACIONES, REVOCACIONES Y CERTIFICADOS
 
 ###### ARTÍCULO 151.
 
-Las autorizaciones sanitarias serán otorgadas por tiempo determinado, pudiendo ser revalidadas.
+La autorización sanitaria es el acto administrativo mediante el cual la Secretaría de Salud del Estado por conducto de la Comisión Estatal de Protección Contra Riesgos Sanitarios permite a una persona física o moral, la realización de actividades relacionadas con la salud humana, con los requisitos y modalidades que determine esta Ley, Normas Oficiales Mexicanas y demás disposiciones aplicables.
 
-La revalidación de una autorización deberá solicitarse ante la autoridad sanitaria que lo haya otorgado, dentro de los treinta días naturales anteriores a su vencimiento.
+Para efectos de esta Ley se entenderá por autorización sanitaria, las licencias y las tarjetas de control sanitario.
 
-Solo procederá la revalidación de una autorización cuando se acredite que el interesado puede desarrollar las actividades relacionadas con la salud humana que corresponda.
+Cuando la autorización sea de la competencia de los Ayuntamientos, estos actuarán dentro de la competencia que la Ley General de Salud, esta Ley y los convenios respetivos lo establezcan, así como las demás leyes aplicables.
 
-Los obligados a contar con autorización sanitaria deberán mostrarla al visitador sanitario, cuando así sean requeridos en el cumplimiento de sus funciones.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 152.
 
-Los derechos que se generen por la aplicación de esta Ley, se regirán por lo que disponga la Legislación Fiscal y los acuerdos de coordinación que celebren en la materia el Ejecutivo Federal y las Autoridades Sanitarias del Estado.
+Las autorizaciones sanitarias serán expedidas cuando el solicitante cumpla con los requisitos que señalen las normas aplicables y cubierto en su caso, las contribuciones previstas en la Ley de Ingresos del Estado y serán otorgadas por tiempo determinado, pudiendo ser revalidadas.
+
+La revalidación de una autorización deberá solicitarse ante la autoridad sanitaria que lo (sic) haya otorgado, dentro de los treinta días naturales anteriores a su vencimiento. Solo procederá la revalidación de una autorización cuando se acredite que el interesado puede desarrollar las actividades relacionadas con la salud humana que corresponda.
+
+Los obligados a contar con autorización sanitaria deberán mostrarla al visitador sanitario, cuando así sean requeridos en el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 153.
 
-Requieren de licencia sanitaria:
+Los derechos que se generen por la aplicación de esta Ley, se regirán por lo que disponga la Ley de Ingresos del Estado, la legislación fiscal y los acuerdos de coordinación que celebren en la materia el Ejecutivo Federal y las Autoridades Sanitarias del Estado.
 
-I.- Los establecimientos dedicados al expendio de alimentos, bebidas alcohólicas y no alcohólicas;
-
-II.- Los establecimientos que presten servicios de asistencia social;
-
-III.- Los rastros;
-
-IV.- Las albercas y los baños públicos;
-
-V.- Los centros de reunión y espectáculos;
-
-VI.- Los establecimientos dedicados a la prestación de servicios estéticos como peluquerías, salas de belleza o masaje;
-
-VII.- Los establecimientos de hospedaje;
-
-VIII.- Las funerarias;
-
-IX.- Los transportes de carga de alimentos y perecederos;
-
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2009)</small>
-
-X.- Los Centros de Desarrollo Infantil y Estancias Infantiles Familiares; y
-
-XI.- Los demás que se señalen en esta Ley y otras disposiciones legales aplicables.
-
-Cuando los establecimientos a que se refiere este artículo cambien su ubicación, requerirán nueva licencia sanitaria.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 154.
 
-Para el caso de los establecimientos que presten servicios de asistencia, solamente la Secretaría de Salud del Estado podrá expedir la licencia sanitaria.
+Para el caso de los establecimientos que presten servicios de asistencia, únicamente la Secretaría de Salud del Estado por conducto de la Comisión Estatal de Protección Contra Riesgos Sanitarios podrá expedir la licencia sanitaria que corresponda.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 155.
 
-La Secretaría de Salud del Estado no otorgará autorización sanitaria, si los interesados no han obtenido previamente de los Ayuntamientos el permiso de uso de suelo, construcción, reconstrucción, modificación, acondicionamiento, de seguridad y prevención de siniestros, de capacidad máxima, de ocupación del inmueble y demás a que se refieren los reglamentos municipales.
+La Comisión Estatal de Protección Contra Riesgos Sanitarios, no otorgará autorización sanitaria, si los interesados no han obtenido previamente de los Ayuntamientos el permiso de uso de suelo, construcción, reconstrucción, modificación, acondicionamiento, de seguridad y prevención de siniestros, de capacidad máxima, de ocupación del inmueble y demás a que se refieren los reglamentos municipales.
 
-La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetará a las normas oficiales mexicanas y demás disposiciones aplicables.
+La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetará a las Normas Oficiales Mexicanas y demás disposiciones aplicables.
 
 ###### ARTÍCULO 156.
 
@@ -2527,7 +2557,7 @@ Requieren de tarjeta de control sanitario las personas que realicen actividades 
 
 ###### ARTÍCULO 157.
 
-La Autoridad Sanitaria podrá revocar las autorizaciones sanitarias que haya otorgado, en los siguientes casos:
+La Comisión Estatal de Protección Contra Riesgos Sanitarios podrá revocar las autorizaciones sanitarias que haya otorgado, en los siguientes casos:
 
 I.- Cuando por causas supervenientes, se compruebe que el ejercicio de las actividades que se hubieren autorizado constituya un riesgo o daño para la salud;
 
@@ -2549,15 +2579,19 @@ VIII.- Cuando lo solicite el interesado; y
 
 IX.- En los demás casos que conforme a la Ley determine la autoridad sanitaria.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 158.
 
-En los casos a que se refiere el artículo anterior, la Autoridad Sanitaria competente, citará al interesado a una audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
+En los casos a que se refiere el artículo anterior, la Comisión Estatal de Protección Contra Riesgos Sanitarios, citará al interesado a una audiencia para que éste ofrezca pruebas y alegue lo que a su derecho convenga.
 
 En el citatorio, que se entregará personalmente al interesado, se le hará saber la causa que motive el procedimiento, el lugar, día y hora de celebración de la audiencia, el derecho que tiene para ofrecer pruebas y alegar lo que a su interés convenga, así como el apercibimiento de que si no comparece sin justa causa, la resolución se dictará tomando en cuenta sólo las constancias del expediente.
 
 La audiencia se celebrará dentro de un plazo no menor de cinco días hábiles, contados a partir del día siguiente al de la notificación.
 
-En los casos en que las Autoridades Sanitarias del Estado fundadamente no puedan realizar la notificación en forma personal, ésta se practicará a través del Periódico Oficial del Estado, mediante dos publicaciones, con una semana de intervalo entre una y otra. En este caso el plazo a que se refiere el párrafo anterior, empezará a contar a partir del día siguiente de la última publicación.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+En los casos en que la Comisión Estatal de Protección Contra Riesgos Sanitarios no pueda realizar la notificación en forma personal, ésta se practicará a través del Periódico Oficial del Estado, mediante dos publicaciones, con una semana de intervalo entre una y otra. En este caso el plazo a que se refiere el párrafo anterior, empezará a contar a partir del día siguiente de la última publicación.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2573,9 +2607,11 @@ La audiencia se celebrará el día y hora señalados, con o sin la asistencia de
 
 La celebración de la audiencia podrá diferirse por una sola vez, cuando lo solicite el interesado por una causa debidamente justificada y por un término que no exceda de cinco días hábiles.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 162.
 
-La Autoridad Sanitaria competente emitirá la resolución que corresponda, al concluir la audiencia o dentro de los diez días hábiles siguientes, la cual se notificará de manera personal al interesado.
+La Comisión Estatal de Protección Contra Riesgos Sanitarios competente emitirá la resolución que corresponda, al concluir la audiencia o dentro de los diez días hábiles siguientes, la cual se notificará de manera personal al interesado.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
 
@@ -2617,25 +2653,31 @@ Los certificados a que se refiere este Capítulo se extenderán por las Autorida
 
 Las Autoridades Judiciales o Administrativas, sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
 
-### CAPITULO DECIMO TERCERO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2012)</small>
+### CAPITULO DECIMO TERCERO. DE LA VIGILANCIA SANITARIA
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 168.
 
-Corresponde a las Autoridades Sanitarias del Estado en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones que se emitan conforme a ella.
+Corresponde a la Comisión Estatal de Protección Contra Riesgos Sanitarios la vigilancia y verificación del cumplimiento de las disposiciones contenidas en esta Ley, la Ley General de la materia, Normas Oficiales Mexicanas y demás ordenamientos aplicables en materia sanitaria.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 169.
 
-Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y, cuando encontraren irregularidades que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento de las Autoridades Sanitarias correspondientes.
+Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del cumplimiento de las normas sanitarias y, cuando encontraren irregularidades que a su juicio constituyan violaciones a las mismas, lo harán del conocimiento de la Comisión Estatal de Protección Contra Riesgos Sanitarios.
 
 ###### ARTÍCULO 170.
 
 El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones que de ella emanen, serán objeto de orientación y educación de los infractores con independencia de que se apliquen si procedieren, las medidas de seguridad y sanciones correspondientes.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 171.
 
-La vigilancia sanitaria se realizará a través de visitas sanitarias a cargo del personal expresamente autorizado por la Autoridad Sanitaria correspondiente, quienes deberán realizar las diligencias de conformidad con esta Ley y demás disposiciones aplicables.
+La vigilancia sanitaria se realizará a través de visitas sanitarias a cargo del personal expresamente autorizado por la Comisión Estatal de Protección Contra Riesgos Sanitarios, quienes deberán realizar las diligencias de conformidad con esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 172.
 
@@ -2653,11 +2695,15 @@ Los visitadores en el ejercicio de sus funciones tendrán libre acceso a los edi
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes objeto de la visita, estarán obligados a permitir el acceso y a dar facilidades e informes a los visitadores para el desarrollo de la visita sanitaria.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 175.
 
 En la diligencia de visita sanitaria se observarán las siguientes reglas:
 
-I.- Al iniciar, el visitador deberá exhibir la credencial vigente, expedida por la Autoridad Sanitaria competente, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo 171 de esta Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo. Esta circunstancia se deberá anotar en el acta correspondiente;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+I.- Al iniciar, el visitador deberá exhibir la credencial vigente, expedida por la Comisión Estatal de Protección Contra Riesgos Sanitarios, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo 171 de esta Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento o conductor del vehículo. Esta circunstancia se deberá anotar en el acta correspondiente;
 
 II.- Posterior a la presentación y comentario del objeto de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento, o conductor del transporte, que proponga dos testigos quienes deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará el visitador que practique la visita sanitaria. Esta circunstancia se hará constar en el acta;
 
@@ -2667,13 +2713,19 @@ IV.- Al concluir la visita sanitaria, se dará oportunidad al propietario, respo
 
 V.- La recolección de muestra se efectuará conforme a lo señalado en la Ley General de Salud; el procedimiento de muestreo no impide que la Autoridad Sanitaria correspondiente ejecute las medidas de seguridad sanitaria que procedan.
 
-### CAPITULO DECIMO CUARTO. DE LAS SANCIONES ADMINISTRATIVAS
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2009)</small>
+Cuando el procedimiento sea realizado por los ayuntamientos, estos actuarán dentro de la competencia que la Ley General de Salud, esta Ley y los convenios respetivos establezcan.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO DECIMO CUARTO. DE LAS MEDIDAS DE SEGURIDAD SANITARIA
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 176.
 
-Se consideran medidas de seguridad sanitaria las disposiciones que dicte la Autoridad Sanitaria de conformidad con los preceptos de esta Ley, la Constitución Política de los Estados Unidos Mexicanos en sus artículos 14 y 16, y demás disposiciones aplicables, tendientes a proteger la salud de la población. Las medidas de seguridad, en casos inaplazables, en casos inminentes, próximos, graves e inmediatos riesgos sanitarios serán de inmediata ejecución y se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
+Se consideran medidas de seguridad sanitaria las disposiciones que dicte la Comisión Estatal de Protección Contra Riesgos Sanitarios de conformidad con los preceptos de esta Ley, la Constitución Política de los Estados Unidos Mexicanos en sus artículos 14 y 16, y demás disposiciones aplicables, tendientes a proteger la salud de la población. Las medidas de seguridad, en casos inaplazables, en casos inminentes, próximos, graves e inmediatos riesgos sanitarios serán de inmediata ejecución y se aplicarán sin perjuicio de las sanciones que en su caso correspondieren.
 
 ###### ARTÍCULO 177.
 
@@ -2721,11 +2773,15 @@ IX.- Desocupación o desalojo de casas, edificios, establecimientos y en general
 
 X.- Las demás de carácter sanitario que determine la Secretaría de Salud del Estado tendientes a evitar se causen o continúen causando riesgos o daños a la salud.
 
-### CAPITULO DECIMO QUINTO. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO DECIMO QUINTO. DE LAS SANCIONES ADMINISTRATIVAS
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 179.
 
-Las violaciones a los preceptos de esta Ley, Normas Oficiales Mexicanas, reglamentos y demás disposiciones aplicables, serán sancionadas administrativamente por las Autoridades Sanitarias sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+Las violaciones a los preceptos de esta Ley, Normas Oficiales Mexicanas, reglamentos y demás disposiciones aplicables, serán sancionadas administrativamente por la Comisión Estatal de Protección Contra Riesgos Sanitarios, y demás autoridades sanitarias en su ámbito de competencia, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
 
 ###### ARTÍCULO 180.
 
@@ -2767,11 +2823,15 @@ La aplicación de las sanciones será sin perjuicio de que se dicten las medidas
 
 Cuando la Autoridad Fiscal haga efectiva la multa, deberá dar aviso a la Autoridad que impuso la sanción.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 185.
 
 Procederá la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
 
-I.- Cuando requerido por la Autoridad Sanitaria del Estado, el propietario, responsable, encargado u ocupante de un establecimiento se niegue a cumplir con las indicaciones que legalmente le hubiere hecho la Autoridad para evitar riesgos en la salud de las personas;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+I.- Cuando requerido por la Comisión Estatal de Protección Contra Riesgos Sanitarios, el propietario, responsable, encargado u ocupante de un establecimiento se niegue a cumplir con las indicaciones que legalmente le hubiere hecho la Autoridad para evitar riesgos en la salud de las personas;
 
 II.- Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la Autoridad Sanitaria correspondiente;
 
@@ -2795,11 +2855,15 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la Autoridad correspondiente para que la ejecute.
 
-### CAPITULO DECIMO SEXTO. DEL RECURSO DE INCONFORMIDAD
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO DECIMO SEXTO. DEL PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+
+> <small>(ADICIONADO [N. DE E. REFORMADO PRIMER PÁRRFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 188.
 
-El ejercicio de las medidas de seguridad y sanciones previstas en esta Ley por parte de la Autoridad Sanitaria competente, se sujetará a los siguientes criterios:
+El ejercicio de las medidas de seguridad y sanciones previstas en esta Ley por parte de la Comisión Estatal de Protección Contra Riesgos Sanitarios, y demás autoridades sanitarias dentro de su ámbito de competencia, se sujetará a los siguientes criterios:
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2012)</small>
 
@@ -2815,27 +2879,31 @@ III.- Se considerará la trascendencia del asunto de que se trate, los riesgos q
 
 La resolución que se adopte se hará saber por escrito al interesado dentro del plazo de cuatro meses. En los casos de haber sido declarada Emergencia Epidemiológica, el plazo no podrá ser mayor a un mes.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 189.
 
-Las Autoridades Sanitarias del Estado con base en los resultados de la visita sanitaria, dictarán las medidas para corregir las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
+Las Comisión Estatal de Protección Contra Riesgos Sanitarios, o en su caso la autoridad competente, con base en los resultados de la visita sanitaria, dictarán las medidas para corregir las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización. En los casos de haber sido declarada emergencia epidemiológica, el plazo no podrá ser mayor a quince días.
 
-En los casos de haber sido declarada emergencia epidemiológica, el plazo no podrá ser mayor a quince días.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 190.
 
-Las Autoridades Sanitarias del Estado, harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+La Comisión Estatal de Protección Contra Riesgos Sanitarios, y demás autoridades sanitarias dentro de su ámbito de competencia, harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 191.
 
-Levantada un acta de visita, se le dará copia al interesado o a la persona con quién se haya entendido la diligencia, notificándole en ese acto que cuenta con un plazo de quince días para comparecer ante la Autoridad Sanitaria correspondiente a manifestar lo que a su derecho convenga y ofrecer las pruebas que estime pertinentes, en relación con los hechos asentados en la misma. En la comparecencia que realice el interesado deberá señalar el domicilio para oír y recibir todo tipo de notificaciones aún las de carácter personal, en caso contrario las subsecuentes notificaciones incluso las de carácter personal se formularán en el lugar de la visita. La citación al interesado se hará en el momento de la diligencia si éste participa en ella, o por conducto del representante legal, responsable, encargado del establecimiento, ocupante del establecimiento o conductor del transporte, con quien se haya entendido.
+Levantada un acta de visita, se le dará copia al interesado o a la persona con quién se haya entendido la diligencia, notificándole en ese acto que cuenta con un plazo de quince días para comparecer ante la Comisión Estatal de Protección Contra Riesgos Sanitarios, o la autoridad sanitaria correspondiente a manifestar lo que a su derecho convenga y ofrecer las pruebas que estime pertinentes, en relación con los hechos asentados en la misma.
+
+En la comparecencia que realice el interesado deberá señalar el domicilio para oír y recibir todo tipo de notificaciones aún las de carácter personal, en caso contrario las subsecuentes notificaciones incluso las de carácter personal se formularán en el lugar de la visita. La citación al interesado se hará en el momento de la diligencia si éste participa en ella, o por conducto del representante legal, responsable, encargado del establecimiento, ocupante del establecimiento o conductor del transporte, con quien se haya entendido.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 192.
 
-El cómputo de los plazos que señale la Autoridad Sanitaria competente para el cumplimiento de sus disposiciones, se hará entendiendo los días naturales, con las excepciones que esta Ley establezca.
+El cómputo de los plazos que señale la Comisión Estatal de Protección Contra Riesgos Sanitarios, o la autoridad sanitaria competente para el cumplimiento de sus disposiciones, se hará entendiendo los días naturales, con las excepciones que esta Ley establezca.
 
 ###### ARTÍCULO 193.
 
@@ -2853,7 +2921,9 @@ En los casos de suspensión de trabajos o de servicios, de clausura temporal o d
 
 Cuando del contenido de un acta de visita sanitaria se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
 
-### CAPITULO DECIMO SEPTIMO. DE LA PRESCRIPCION
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO DECIMO SEPTIMO. DEL RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 197.
 
@@ -2906,6 +2976,10 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 ###### ARTÍCULO 204.
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO DECIMO OCTAVO. DE LA PRESCRIPCION
 
 ###### ARTÍCULO 205.
 
@@ -3442,3 +3516,33 @@ P.O. 24 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 337 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 261 DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA REFORMA AL ARTÍCULO 101 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 22 MEDIANTE EL CUAL SE REFORMAN LOS CAPÍTULOS DÉCIMO PRIMERO, DÉCIMO SEGUNDO, DÉCIMO TERCERO, DÉCIMO CUARTO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y SE ADICIONA EL CAPÍTULO DÉCIMO OCTAVO, ASÍ COMO LOS ARTÍCULOS 149, 150, 151, 152, 153, 154, 155, 157, 158, 162, 168, 169, 171, 175, 176, 179, 185, 188, 189, 190, 191 Y 192 DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reformas entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los sesenta días naturales contados a partir de la entrada en vigor de la presente reforma, el Titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios remitirá al Gobernador del Estado la propuesta de reglamento interno para su validación y publicación en su caso.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los sesenta días naturales contados a partir de la entrada en vigor de la presente reforma, el Instituto de Servicios de Salud Pública de Baja California (ISESALUD), remitirá al Gobernador del Estado la propuesta de modificación a su reglamento interno por lo que hace la Subdirección General para la Protección Contra Riesgos Sanitarios para armonizarlo con la presente reforma.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaria de Salud, así como el Instituto de Servicios de Salud Pública de Baja California (ISESALUD), dentro de los sesenta días naturales contados a partir de la entrada en vigor de la presente reforma, realizarán las acciones administrativas necesarias para que el patrimonio, recursos y personal asignados actualmente a la Subdirección General para la Protección Contra Riesgos Sanitarios dependiente del Instituto de Servicios de Salud Pública de Baja California (ISESALUD), sea asignado a la Comisión Estatal de Protección Contra Riesgos Sanitarios.
+
+Para lograr lo anterior se conformará una comisión técnica, que será integrada por la Secretaria de Salud, el Instituto de Servicios de Salud Pública de Baja California (ISESALUD) Comisión Estatal de Protección Contra Riesgos Sanitarios, Secretaria de Hacienda, Oficialía Mayor y la Secretaria General de Gobierno.
+
+###### ARTÍCULO QUINTO.
+
+Las obligaciones y compromisos que el Ejecutivo Estatal y la Secretaria de Salud, hayan adquirido mediante acuerdos, convenios de colaboración o de trasferencia de recursos, con la federación en materia sanitaria, en el cual el Instituto de Servicios de Salud Pública de Baja California (ISESALUD) tenga participación, para el Ejercicio Fiscal 2019, continuará hasta su conclusión, con la participación de la Comisión Estatal de Protección Contra Riesgos Sanitarios.
+
+###### ARTÍCULO SEXTO.
+
+Entrada en vigor la presente reforma y designado el Titular de la Comisión Estatal de Protección Contra Riesgos Sanitarios, por el Gobernador del Estado, la Secretaria de Salud del Estado harán del conocimiento de la Secretaria de Salud Federal, así como de la creación normativa y operativa de la Comisión Estatal de Protección Contra Riesgos Sanitarios, en Baja California, para efecto de que sea considerada para la suscripción de acuerdos, convenios de colaboración o de trasferencia de recursos, con la federación en materia sanitaria para el Ejercicio Fiscal 2020.
