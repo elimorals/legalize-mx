@@ -4,7 +4,7 @@ identifier: "COL-ley-de-profesiones-del-estado-de-colima-52082"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-07"
-last_updated: "2018-03-24"
+last_updated: "2019-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LA LEY DE PROFESIONES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento No. 3 al Periódico Oficial del Estado de Colima, el sábado 7 de octubre de 2006.
 
@@ -1219,6 +1219,10 @@ Cada Colegio contará con un Consejo Directivo, conformado por lo menos por un p
 
 El Servicio Social de los Estudiantes y Profesionales es un conjunto de actividades de carácter solidario. Su objetivo es apoyar a la población en situaciones de desventaja económica, cooperar en el desarrollo de la entidad, generar condiciones de bienestar común y, en el caso de los primeros, incidir favorablemente en su formación.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2019)</small>
+
+El objetivo del servicio social se cumplirá con el desempeño en las ciencias, la técnica, la cultura, los derechos humanos y los valores ambientales, fomentando una conciencia de solidaridad y fraternidad ante la comunidad a la cual pertenece.
+
 #### SECCIÓN I. Del Servicio Social de los Estudiantes
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MARZO DE 2018)</small>
@@ -1228,6 +1232,14 @@ El Servicio Social de los Estudiantes y Profesionales es un conjunto de activida
 El Servicio Social de los Estudiantes es obligatorio; será realizado como requisito previo para obtener el Título Profesional y siempre deberá relacionarse con el perfil académico del estudiante, por lo cual será considerado experiencia laboral, más no se acreditará como una relación laboral.
 
 El Servicio Social de los Estudiantes se prestará en instituciones públicas.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 47 BIS.- Quedarán exentos de la obligación del servicio social, las y los estudiantes:
+
+I. Que formulen y ejecuten proyectos sociales altruistas en favor de su comunidad; actividad que debe desarrollarse con base en sus estudios respectivos, siempre que el proyecto dure por lo menos 4 meses y se acredite el beneficio a la sociedad con informes mensuales detallados; o
+
+II. Que realicen actividades en beneficio del medio ambiente, con un seguimiento de por lo menos 4 meses, lo que deberá documentarse con informes mensuales detallados y que preferentemente sean georreferenciados.
 
 ###### ARTÍCULO 48.
 
@@ -1908,3 +1920,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente a su publicaci
 SEGUNDO.- La Secretaría de Educación del Gobierno del Estado de Colima dispondrá las medidas que considere necesarias y suficientes para hacer una amplia difusión del contenido de este Decreto.
 
 TERCERO.- Queda derogada toda disposición que contravenga lo dispuesto por el presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 162 POR EL QUE SE APRUEBA ADICIONAR UN SEGUNDO PÁRRAFO AL ARTÍCULO 46 Y EL ARTÍCULO 47 BIS, A LA LEY DE PROFESIONES DEL ESTADO DE COLIMA, ASÍ COMO, REFORMAR EL ARTÍCULO 22 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. El Ejecutivo Estatal contará con un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones respectivas a las disposiciones reglamentarias de estas leyes.
