@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2019-08-24"
+last_updated: "2019-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -69,7 +69,9 @@ La relación jurídica de trabajo reconocida por esta Ley, se entiende estableci
 
 Trabajador público es todo aquél que preste un trabajo personal físico, intelectual o de ambos géneros, en cualquiera de las Entidades o dependencias mencionadas en el Artículo 2 de esta Ley, en virtud de nombramiento expedido por la autoridad competente o por figurar en las listas de raya de los trabajadores temporales.
 
-Se presume la existencia de la relación de servicio público entre el particular que presta un trabajo personal y la Entidad pública que lo recibe.
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2019)</small>
+
+Se presume la existencia de la relación de servicio público entre el particular que presta un trabajo personal y la Entidad pública que lo recibe. Esta última garantizará en todo momento la paridad de género.
 
 ###### ARTICULO 5.
 
@@ -1838,3 +1840,11 @@ P.O. 24 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 125 POR EL QUE SE ADICIONA EL ARTÍCULO 49 BIS, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA".]
 
 ÚNICO.- El presente Decreto entrará en vigor el día 01 de enero de 2020 y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 163 POR EL QUE SE APRUEBA REFORMAR LA FRACCIÓN X DEL ARTÍCULO 30 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE COLIMA, ASÍ COMO, REFORMAR EL SEGUNDO PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. La observancia del principio de paridad de género a que se refiere el artículo 4 de la Ley de los Trabajadores al Servicio del Gobierno, Ayuntamientos y Organismos Descentralizados del Estado de Colima habrá de realizarse de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
