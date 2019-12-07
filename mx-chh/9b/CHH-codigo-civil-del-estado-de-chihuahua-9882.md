@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2019-11-09"
+last_updated: "2019-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -991,7 +991,7 @@ De estos impedimentos solo es dispensable el parentesco de consanguinidad en lí
 
 145.- El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
 
-146.- La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz un hijo. En los casos de nulidad o de divorcio, puede contarse este tiempo desde que se interrumpió la cohabitación.
+146.- (DEROGADO, P.O. 7 DE DICIEMBRE DE 2019)
 
 147.- El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la cual no se le concederá por el Presidente Municipal respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
 
@@ -1341,7 +1341,9 @@ IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan he
 
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
 
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 147 y cuando se celebre sin que hayan transcurrido los términos fijados en el artículo 146.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2019)</small>
+
+II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 147.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2017)</small>
 
@@ -1455,9 +1457,9 @@ La protección para los hijos e hijas menores de edad implica las medidas de seg
 
 Para los efectos de la fracción IV del presente artículo, se podrá establecer un sistema de convivencia supervisada, a través del Centro de Convivencia Familiar o cualquiera de sus unidades de apoyo, en los términos de la Ley Orgánica del Poder Judicial del Estado de Chihuahua, y su Reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 1981)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2019)</small>
 
-257.- Los cónyuges divorciados podrán contraer nuevo matrimonio inmediatamente después de obtenido el divorcio; pero la mujer no podrá hacerlo si no tuviere trescientos días de separada físicamente de su esposo, o mediare examen médico que acredite que no está embarazada.
+257.- Los cónyuges divorciados podrán contraer nuevo matrimonio después de obtenido el divorcio e inscrito en el registro civil.
 
 258.- Las acciones de divorcio no podrán ejercitarse cuando haya mediado el perdón expreso o tácito debidamente comprobado.
 
@@ -1653,11 +1655,13 @@ Por violencia familiar se entiende cualquier acción u omisión que pueda causar
 
 301.- Se presumen hijos de los cónyuges:
 
-I.- Los hijos nacidos después de 180 días contados desde la celebración del matrimonio;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
+I.- Los hijos nacidos después de la celebración del matrimonio;
 
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio, salvo lo establecido en el artículo 257 de este Código. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2019)</small>
+
+II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
 302.- Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros 120 días de los 300 que han precedido al nacimiento.
 
@@ -1691,7 +1695,9 @@ IV.- Si el hijo no nació capaz de vivir.
 
 310.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los 180 días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados, desde aquél en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
-311.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el artículo 146, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2019)</small>
+
+311.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 1981)</small>
 
@@ -1703,7 +1709,7 @@ II.- Se presume que el hijo es del segundo si nace después de ciento ochenta d�
 
 El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye.
 
-III.- El hijo se presume nacido fuera de matrimonio si nace antes de 180 días de la celebración del segundo matrimonio y después de 300 días de la disolución del primero.
+III.- (DEROGADA, P.O. 7 DE DICIEMBRE DE 2019)
 
 312.- El desconocimiento de un hijo, de parte del marido, o de sus herederos, se hará por demanda en forma ante el Juez competente. Todo desconocimiento practicado de otra manera es nulo.
 
@@ -13158,6 +13164,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE NOVIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0391/2019 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFCOD/0396/2019 I P.O. POR MEDIO DEL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
