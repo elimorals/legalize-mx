@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-derechos-de-los-pueblos-indigenas-del-estado-de-95015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-29"
-last_updated: "2017-08-30"
+last_updated: "2019-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de junio de 2013.
 
@@ -369,6 +369,12 @@ El Poder Ejecutivo del Estado, a través de la Secretaría General de Gobierno, 
 
 La ausencia en este registro no menoscabará o condicionará los derechos reconocidos por la ley.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 30 Bis.
+
+La Comisión Estatal para los Pueblos Indígenas, conforme a lo que establece la Ley para la Protección del Patrimonio Cultural del Estado de Chihuahua y demás disposiciones aplicables en la materia, coadyuvará con la Secretaría de Cultura Estatal en la adopción de medidas eficaces para la protección del patrimonio cultural material, inmaterial y biocultural de los pueblos y comunidades indígenas, así como para que estos mantengan y controlen la propiedad intelectual de dicho patrimonio.
+
 ###### Artículo 31.
 
 Corresponde a los ayuntamientos, en el ámbito de su competencia en materia del reconocimiento de los derechos de los pueblos y las comunidades indígenas, las siguientes atribuciones:
@@ -560,3 +566,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- En las Reglas de Operación de los Programas de Alimentación a que se refiere el presente Decreto, las Autoridades Estatales y Municipales incorporarán las formas y procedimientos para que los pueblos y comunidades indígenas participen en el ejercicio y vigilancia de los mismos, sujetándose para ello a las disposiciones de la Ley de Desarrollo Social y Humano para el Estado de Chihuahua.
 
 TERCERO.- Para el diseño y operación de los Programas de Alimentación a que se refiere el presente Decreto, las Autoridades Estatales y Municipales, para el ejercicio fiscal de 2018 y subsecuentes, deberán haber cumplido previamente con las disposiciones de la Ley de Derechos de los Pueblos Indígenas del Estado de Chihuahua, a fin de garantizar el derecho al consentimiento de los pueblos originarios y que sean estos quienes de común acuerdo determinen la forma en que deberán llevarse a cabo dichos programas.
+
+P.O. 7 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVI/RFLEY/0383/2019 I P.O. POR MEDIO DEL CUAL SE ADICIONA UN ARTÍCULO 30 BIS A LA LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado y el Poder Ejecutivo realizarán la traducción del presente Decreto a las lenguas indígenas del Estado y se le dará una amplia difusión.
