@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-98675"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-08"
-last_updated: "2019-11-30"
+last_updated: "2019-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98675&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de febrero de 2014.
 
@@ -447,9 +447,11 @@ IV. El desarrollo de la investigación pedagógica y la difusión de la cultura 
 
 La autoridad educativa estatal de conformidad con lo que establece la Ley General del Servicio Profesional Docente, establecerá la permanencia de los docentes frente a grupo, con la posibilidad para este personal de ir obteniendo mejores condiciones y mayor reconocimiento social.
 
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 22.
 
-Los beneficiados directamente por los servicios educativos deberán prestar servicio social, en los casos y términos de las disposiciones reglamentarias correspondientes. En éstas se preverá su prestación como requisito previo para obtener título o grado académico.
+Los beneficiados directamente por los servicios educativos deberán prestar servicio social, en los casos y términos de la Ley de Profesiones del Estado de Colima y demás disposiciones reglamentarias correspondientes. En estas se preverá su prestación como requisito previo para obtener título o grado académico.
 
 ###### ARTÍCULO 23.
 
@@ -2064,3 +2066,11 @@ P.O. 30 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 161 POR EL QUE SE REFORMAN LAS FRACCIONES XXX Y XXXI Y SE ADICIONA LA FRACCIÓN XXXII, TODAS DEL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 7 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 162 POR EL QUE SE APRUEBA ADICIONAR UN SEGUNDO PÁRRAFO AL ARTÍCULO 46 Y EL ARTÍCULO 47 BIS, A LA LEY DE PROFESIONES DEL ESTADO DE COLIMA, ASÍ COMO, REFORMAR EL ARTÍCULO 22 DE LA LEY DE EDUCACIÓN DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO. El Ejecutivo Estatal contará con un plazo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones respectivas a las disposiciones reglamentarias de estas leyes.
