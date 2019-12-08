@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2019-05-28"
+last_updated: "2019-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -197,9 +197,9 @@ V.- Impulsar una formación que contribuya al desarrollo de la democracia y al f
 
 VI.- Fomentar el cuidado de la salud individual, difundiendo información sobre los daños físicos, mentales, morales y sociales que producen las adicciones a las drogas y otros tóxicos que apartan a las personas del estudio, del trabajo y de la orientación hacia una vida social saludable y productiva;
 
-> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
-VII.- Promover la convivencia de respeto y de armonía en condiciones de igualdad y libre de cualquier forma de maltrato físico, psicológico o verbal entre estudiantes;
+VII.- Promover la convivencia de respeto y de armonía en condiciones de igualdad y libre de cualquier forma de maltrato físico, psicológico o verbal entre estudiantes; impulsando proyectos de intervención educativa en materia de habilidades socio-emocionales.
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -613,9 +613,9 @@ XLIV.- Instrumentar un sistema accesible a los ciudadanos y docentes para la pre
 
 XLV.- Concertar acciones y establecer convenios con instituciones de educación superior, para que sus egresados presten servicio social en escuelas de las comunidades rurales, zonas urbanas marginadas y regiones habitadas por las comunidades indígenas de la Entidad.
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
-XLVI.- Disponer que en los planteles de Educación Básica y Media Superior, el número de alumnos en cada grupo de clase no exceda de 30; y
+XLVI.- Disponer que en los planteles de Educación Básica y Media Superior, el número de alumnos en cada grupo de clase no exceda de 30;
 
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 28 DE MAYO DE 2019)</small>
 
@@ -636,6 +636,28 @@ e) Firmar Convenios de Colaboración con los Ayuntamientos, a fin de que en las 
 f) El Estado promoverá la participación de las Organizaciones de la Sociedad Civil en los procesos educativos tendientes a fortalecer o complementar los servicios educativos otorgados; y
 
 g) Las demás que sean necesarias para el cumplimiento de la presente Ley.
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+XLVIII.- Elaborar en coordinación con la Secretaría de Salud del Estado, un protocolo de prevención y actuación ante posibles conductas o tendencias suicidas, mismo que será conocido, estudiado y aplicado por la comunidad educativa de cada plantel escolar.
+
+El protocolo dará a conocer las características que pudiera manifestar un estudiante con tendencias suicidas y establecerá de manera clara las acciones a seguir de profesores, estudiantes y familiares cuando se encuentren ante un caso real, para la consiguiente canalización con el profesional respectivo del estudiante que lo requiera;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+XLIX.- Procurar la implementación de programas permanentes orientados a las escuelas públicas y privadas, de carácter incluyente entre educandos, educadores y padres de familia, con el fin propiciar y favorecer entre los estudiantes el uso adecuado y aprovechamiento ético de los medios informáticos y tecnologías de la comunicación y generar conciencia de los riesgos y consecuencias negativas por mal uso de las redes sociales y el internet;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+L.- Promover, por sí misma o mediante convenios de colaboración, proyectos de intervención educativa en materia de habilidades socio-emocionales, a fin de disminuir el acoso escolar, y a través de los cuales los estudiantes de los diversos niveles, trabajen e integren en su vida conceptos, valores, y actitudes que les permitan comprender y manejar sus emociones, construir una identidad personal, mostrar atención y cuidado hacia los demás, colaborar y establecer relaciones positivas, tomar decisiones responsables y aprender a manejar situaciones de reto, de manera constructiva y ética;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+LI.- Implementar acciones a fin de evitar el ausentismo, abandono y la deserción escolar, y establecer los mecanismos para notificar a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango, de los casos identificados conforme la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Durango; y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+LII.- Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2006)</small>
 
@@ -1170,6 +1192,10 @@ La Secretaría actuará para mejorar la equidad entre instituciones educativas, 
 ###### ARTICULO 77.
 
 La Secretaría instrumentará Programas Educativos de Apoyo, dirigidos de manera preferente, a los grupos sociales y regiones con mayor rezago educativo, que enfrenten condiciones económicas, culturales y sociales de desventaja o a personas con problemas de discapacidad mental o física. En la aplicación de estos Programas, tendrán prioridad los educandos de 6 a 15 años de edad. Igualmente desarrollará de manera permanente, programas especializados, a fin de prevenir y atender casos de cualquier tipo de maltrato entre los estudiantes, evitando el acoso y la discriminación escolar.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+Para la atención de situaciones constitutivas de acoso escolar, en cada centro escolar abra un responsable para la recepción de denuncias, mismo que será capacitado para la oportuna intervención en estos casos, así como en atención de trastornos emocionales derivados.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
@@ -2193,6 +2219,94 @@ VII.- Promover en sus hijas, hijos o pupilos hábitos alimenticios saludables y 
 
 VIII.- Acudir de manera periódica a verificar el estado que guardan las evaluaciones a que son sujetos los educandos, con el fin de coadyuvar en el proceso educativo de sus hijos.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 171 BIS.- La Escuela para Madres y Padres será un instrumento enfocado a ofrecer a las madres y padres de familia, estrategias para atender, apoyar, comprender y dar respuesta a los cambios propios del proceso de desarrollo de sus hijos, así como promover en ellos la integración familiar, coadyuvar en la formación académica e inculcar los valores universales para una mejor cohesión social.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 171 TER.- Las escuelas para madres y padres tendrán, entre otros, los objetivos siguientes:
+
+I. Concientizar a la sociedad sobre la importancia que tienen las madres y padres de familia en el sano desarrollo de sus hijos;
+
+II. Fomentar la socialización en las niñas, niños y adolescentes;
+
+III. Promover actitudes y conductas basadas en los valores universales que repercutan en la formación de buenos hábitos entre madres, padres e hijos;
+
+IV. Fortalecer el papel de las madres y padres en la educación cívica de las niñas, niños y adolescentes;
+
+V. Diseñar y ejecutar estrategias y conocimientos para desarrollar el potencial de los hijos;
+
+VI. Concientizar sobre la importancia de las relaciones interpersonales positivas y respetuosas;
+
+VII. Fomentar la armonía familiar a través del conocimiento personal;
+
+VIII. Impulsar la actitud positiva hacia la escuela, y
+
+IX. Robustecer el respeto hacia los profesores por parte de los educandos.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 171 QUATER.- Las escuelas para madres y padres operarán bajo el esquema de promotores voluntarios, quienes estarán al frente de cada grupo de padres de familia. En esta responsabilidad se dará prioridad a estudiantes del servicio social de las áreas de Ciencias y Humanidades, profesionistas y profesores de los planteles educativos que manifiesten la voluntad de participar en la ejecución del mecanismo.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 171 QUINQUIES.- Las aulas escolares de las instituciones públicas y privadas podrán fungir como espacios físicos para la organización de grupos de trabajo.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 171 SEXIES.- Los grupos atendidos con el mecanismo serán de padres de familia en general, así como de instituciones educativas del Estado y las instituciones de los particulares, en los niveles de educación básica y medio superior.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 171 SEPTIES.- La aplicación de escuela para madres y padres se podrá complementar con el apoyo de las siguientes herramientas académicas:
+
+I. Cursos;
+
+II. El resumen;
+
+III. Talleres;
+
+IV. La lectura;
+
+V. Conferencias;
+
+VI. Mapas conceptuales;
+
+VII. Proyecciones;
+
+VIII. Cuadros sinópticos, y
+
+IX. Redacción de textos.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 171 OCTIES.- En las acciones que se implementen en los grupos de trabajo, para la ejecución de las escuelas para madres y padres, a través de la información, el diálogo, la reflexión y la práctica de lo aprendido, se desarrollarán entre otros, los siguientes temas:
+
+I. La misión de las madres y padres de familia en la educación y formación de las hijas e hijos;
+
+II. El papel de las madres y padres en la educación cívica de las niñas, niños y adolescentes;
+
+III. Apoyar el crecimiento de las hijas e hijos para su mejor bienestar;
+
+IV. La instrucción de las hijas e hijos como elemento esencial del desarrollo humano;
+
+V. La socialización en la niña, niño y el adolescente;
+
+VI. La responsabilidad de las madres y padres de familia en el cuidado de las hijas e hijos;
+
+VII. Saber comprender a las hijas e hijos en las diferentes etapas de su desarrollo;
+
+VIII. La disciplina como elemento en la formación de las hijas e hijos;
+
+IX. La obligación de proveer lo indispensable a las hijas e hijos para su desarrollo;
+
+X. La importancia de las relaciones interpersonales positivas y respetuosas;
+
+XI. La actitud positiva hacia la escuela, y
+
+XII. El respeto hacia las profesoras y profesores por parte de los educandos.
+
 #### Sección 2. De las Asociaciones de Padres de Familia
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
@@ -2702,3 +2816,39 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de
 Artículo Segundo. Las autoridades realizarán las adecuaciones correspondientes en el presupuesto de egresos 2020, para iniciar su aplicación con los educandos en el ciclo escolar 2020-2021.
 
 Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 196.- POR EL CUAL SE ADICIONAN DIVERSOS ARTÍCULOS A LA LEY DE EDUCACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El ciudadano Gobernador del Estado, sancionará promulgará y dispondrá se publique, circule y observe.
+
+P.O. 8 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 197.- QUE CONTIENE REFORMAS A LA LEY DE EDUCACIÓN PÚBLICA DEL ESTADO DE DURANGO, EN MATERIA DE PREVENCIÓN DEL SUICIDIO, PREVENCIÓN EN EL USO DE NUEVAS TECNOLOGÍAS, EDUCACIÓN EMOCIONAL Y EN MATERIA DE DERECHOS HUMANOS ESPECÍFICAMENTE EN EL DERECHO A LA EDUCACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 198.- POR EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 77 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
