@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-economico-para-el-estado-de-durango-110885"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-01"
-last_updated: "2018-05-13"
+last_updated: "2019-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 1 de diciembre de 2015.
 
@@ -163,7 +163,9 @@ II. Promover y direccionar el desarrollo económico del Estado, impulsando la ac
 
 III. Apoyar la integración de cadenas productivas y agrupamientos empresariales en base a las ventajas competitivas locales.
 
-IV. Colaborar con la Secretaría de Educación del Gobierno del Estado, para impulsar la educación emprendedora en las instituciones de educación del nivel medio superior y superior, que permita fomentar la cultura del emprendimiento.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+IV. Colaborar con la Secretaría de Educación del Gobierno del Estado, para impulsar la educación emprendedora en las instituciones de educación del nivel básico, medio superior y superior, que permita fomentar la cultura del emprendimiento.
 
 V. Coadyuvar con las diferentes instituciones gubernamentales, empresariales y asociaciones de la sociedad civil, con la finalidad de desarrollar estrategias orientadas a vincular y financiar los proyectos innovadores, creativos y competitivos, para lograr su consolidación.
 
@@ -175,7 +177,9 @@ VIII. Gestionar esquemas de apoyo y facilitar el acceso al financiamiento públi
 
 IX. Asesorar y brindar consultoría a las MIPYMES.
 
-X. Promover que las dependencias y entidades de la Administración Pública Estatal realicen la planeación de sus adquisiciones de bienes, contratación de servicios y de obra pública, para adjudicarlas a las MIPYMES de forma preferente en igualdad de circunstancias, en los términos que señale el Reglamento de la presente Ley.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+X. Promover que las dependencias y entidades de la Administración Pública Estatal y de los Ayuntamientos realicen la planeación de sus adquisiciones de bienes, contratación de servicios y de obra pública, para adjudicarlas a las MIPyMES de forma preferente en igualdad de circunstancias, en los términos que señale el Reglamento de la presente Ley
 
 XI. Posicionar el interés que el Estado tiene en ofrecer a los consumidores, productos elaborados en la entidad.
 
@@ -193,9 +197,9 @@ XVI. Proponer al Consejo para el Desarrollo el Programa anual de promoción del 
 
 XVII. Promover la participación de los municipios, a través de los convenios que celebre para la consecución de los objetivos de la presente Ley, considerando las necesidades, el potencial y vocación productiva de cada región.
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
 
-XVIII. Colaborar con la Secretaría de Desarrollo Social del Gobierno del Estado, para la implementación de programas de desarrollo empresarial a grupos en situación de vulnerabilidad, en especial para aquellos que se encuentren adicionalmente en situación de vulnerabilidad, por su condición de género.
+XVIII. Colaborar con la Secretaría de Bienestar Social del Gobierno del Estado, para la implementación de estrategias y programas de desarrollo empresarial a favor de grupos en situación de vulnerabilidad, en especial para aquellos que se encuentren adicionalmente en situación de vulnerabilidad, por su condición de género.
 
 XIX. Establecer, en coordinación con el órgano encargado de la evaluación de políticas públicas, los mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las empresas y emprendedores, en la reglamentación respectiva.
 
@@ -210,6 +214,10 @@ XXI. Colaborar en coordinación con el Instituto Nacional de Economía Social en
 XXII. Coordinar los trabajos del Consejo para el Desarrollo y los Comités Regionales de Promoción Económica.
 
 XXIII. Las demás, que esta Ley, su Reglamento y el Consejo le propongan.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+Tratándose de población en situación de pobreza, la Secretaría promoverá la implementación de programas específicos de financiamiento, desarrollo de capacidades y asociación productiva, especialmente para la reactivación de zonas marginadas en las distintas regiones del Estado.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2017)</small>
 
@@ -665,9 +673,15 @@ II. Mentoría, capacitación y asesoría en análisis, revisión y perfeccionami
 
 III. Vinculación a esquemas de incubadoras, grupos de ángeles inversionistas, créditos para jóvenes emprendedores, incentivos y subsidios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 49.
 
-El Estado, por conducto de la Secretaría, y los municipios deberán impulsar la cultura emprendedora, que favorezca la formación y educación del espíritu empresarial, ya sea mediante acciones en los diferentes niveles del sistema educativo o bien a través de acciones dirigidas a la ciudadanía en general y en particular a los jóvenes, mujeres jefas de familia, adultos mayores, personas con discapacidad, indígenas y personas desempleadas.
+El Estado, por conducto de la Secretaría, y los municipios deberá promover la cultura emprendedora, que favorezca la formación y vocación empresarial, mediante acciones en los diferentes niveles del sistema educativo y a través de acciones dirigidas a la ciudadanía en general y en particular a los jóvenes, mujeres jefas de familia, adultos mayores, personas con discapacidad, indígenas y personas desempleadas.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría de Desarrollo Económico promoverá en coordinación con la Secretaría de Educación, la incorporación de temas y contenidos que incentiven la cultura emprendedora, en los diferentes niveles del sistema educativo, a través de los planes, programas de estudio y actividades formativas.
 
 #### SECCIÓN ÚNICA. DEL EMPRENDIMIENTO JUVENIL
 
@@ -682,6 +696,10 @@ Para coadyuvar en el fomento de la cultura emprendedora y empresarial en los jó
 ###### ARTÍCULO 52.
 
 Las instituciones de educación media superior y superior oficiales e incorporadas al Sistema Educativo Estatal, deberán añadir temas y contenidos en sus planes y programas de estudio, para fomentar y promover la cultura y formación emprendedora.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría de Desarrollo Económico promoverá el desarrollo de estrategias orientadas a motivar el espíritu emprendedor entre los Jóvenes duranguenses, bajo un esquema científico y tecnológico, coadyuvando con las diferentes instancias educativas, empresariales y de la sociedad civil.
 
 ### CAPÍTULO II. DEL SISTEMA ESTATAL DE INCUBADORAS DE EMPRESAS
 
@@ -1730,3 +1748,27 @@ P.O. 13 DE MAYO DE 2018.
 PRIMERO. Las reformas a esta Ley entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 208.- QUE CONTIENE ADICIÓN AL ARTÍCULO 71 BIS (SIC) DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 209.- QUE CONTIENE REFORMA AL ARTÍCULO 6, FRACCIÓN IV Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 52 DE LA LEY DE FOMENTO ECONÓMICO, PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 210.- QUE CONTIENE REFORMAS Y ADICIONES AL ARTÍCULO 6, FRACCIÓN X DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE DURANGO, EN MATERIA DE APOYO A LA MICRO, PEQUEÑA Y MEDIANAS EMPRESAS”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
