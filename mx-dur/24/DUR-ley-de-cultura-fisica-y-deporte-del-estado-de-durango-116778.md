@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-fisica-y-deporte-del-estado-de-durango-116778"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-22"
-last_updated: "2017-03-19"
+last_updated: "2019-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2019.
 
 Ley publicada en el número 76 del Periódico Oficial del Estado de Durango, el jueves 22 de septiembre de 2016.
 
@@ -179,6 +179,10 @@ XVI. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las aso
 
 XVII. Ligas: Son organizaciones que en cada disciplina deportiva, cuenten con la afiliación de clubes y equipos con el objeto de realizar competencia en forma sistemática y permanente.
 
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Niñas, niños y adolescentes con aptitudes sobresalientes: Los estudiantes de nivel básico que destaquen significativamente por sus habilidades y destrezas en la práctica de una disciplina deportiva.
+
 ###### Artículo 8.
 
 El Estado y los municipios en coordinación con la Federación, fomentarán la activación física, la cultura física y el deporte en el ámbito de su competencia, de conformidad con las bases de coordinación previstas en esta Ley, el Reglamento y demás ordenamientos aplicables.
@@ -218,6 +222,10 @@ Los sectores social y privado podrán participar en el Sistema, conforme a lo pr
 ###### Artículo 15.
 
 Los municipios que se adhieran al Sistema, procurarán destinar los recursos presupuestales suficientes para apoyar las obligaciones del Sistema, así como para la construcción, el mantenimiento y la conservación de las instalaciones deportivas.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+El Gobierno del Estado y los Ayuntamientos podrán establecer convenios de colaboración con organizaciones sociales o privadas, a fin de fortalecer la construcción, la conservación, el mantenimiento y/o cualquier otra acción que permita contar con instalaciones deportivas funcionales y seguras.
 
 ### CAPÍTULO III. DE LAS AUTORIDADES DEPORTIVAS
 
@@ -701,7 +709,13 @@ XI. Recibir toda clase de becas, estímulos, premios, reconocimientos y recompen
 
 XII. Los demás que le otorgue esta Ley u otros ordenamientos legales.
 
-A fin de concretar lo anterior, el Gobierno del Estado a través del Instituto celebrará convenios con las instituciones de educación básica, media superior y superior, tanto públicas como privadas, con la finalidad de otorgar becas a los talentos deportivos y atletas de alto rendimiento y conocer las facilidades necesarias para que dichos deportistas puedan continuar sus estudios, practicar y participar en eventos deportivos, según sus necesidades.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+A fin de concretar lo anterior, el Gobierno del Estado a través del Instituto podrá celebrar convenios con las instituciones de educación básica, media superior y superior, tanto públicas como privadas, así como organizar periódicamente jornadas de detección de niñas, niños y adolescentes con aptitudes sobresalientes con la finalidad de otorgar becas a los mismos y conocer las facilidades necesarias para que dichos sujetos puedan iniciar o continuar sus estudios, practicar y participar en eventos deportivos, según sus necesidades.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría de Educación del Gobierno del Estado instrumentará un programa de seguimiento y registro de niñas, niños y adolescentes con aptitudes sobresalientes.
 
 ###### Artículo 64.
 
@@ -1048,3 +1062,21 @@ SEGUNDO. El valor de la Unidad de Medida y Actualización, será el publicado po
 TERCERO. A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en esta ley, así como en cualquier disposición jurídica que emane de la misma, se entenderán referidas a la Unidad de Medida y Actualización.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 8 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NO. 211.- POR EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 15 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO, EN MATERIA DE INFRAESTRUCTURA FÍSICA DEPORTIVA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 212.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE DURANGO, EN MATERIA DE DETECCIÓN Y APOYO A TALENTOS DEPORTIVOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado en un termino que no exceda de 90 días a partir del inicio de vigencia del presente decreto, emitirá la reglamentación necesaria para dar cumplimiento al objeto del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y administrativas que contravengan al presente decreto.
