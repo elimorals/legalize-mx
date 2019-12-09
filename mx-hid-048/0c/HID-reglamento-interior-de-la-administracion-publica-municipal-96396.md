@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-administracion-publica-municipal-9639
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-21"
-last_updated: "2018-07-09"
+last_updated: "2019-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE PACHUCA DE SOTO, HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en el Número 42 del Periódico Oficial del Estado de Hidalgo, el lunes 21 de octubre de 2013.
 
@@ -583,9 +583,9 @@ VI.- Supervisar y evaluar el cotejo, revisión y firma de las certificaciones de
 
 VII.- Supervisar la observancia del Reglamento para el Funcionamiento de Establecimientos Mercantiles y Espectáculos Públicos del Municipio, sobre los criterios aplicables a la celebración de espectáculos, horarios y características generales conducentes; en su caso, instruir lo necesario a efecto de que se produzcan las visitas de verificación correspondientes, evaluando los procesos y procedimientos previstos en la normatividad aplicable en la materia;
 
-VIII.- Validar la expedición y renovación de las licencias para el funcionamiento de establecimientos mercantiles, así como las ampliaciones de giros y horarios, previo cumplimiento a los procesos y procedimientos previstos en el Reglamento para el Funcionamiento de Establecimientos Mercantiles y Espectáculos Públicos del Municipio de Pachuca de Soto, Hidalgo;
+VIII.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2019)
 
-IX.- Coordinar con la Secretaría de Desarrollo Económico Municipal, la integración de información estadística económica básica de los establecimientos mercantiles que operen en el Municipio; así como ordenar la ejecución de estrategias para la elaboración, digitalización, conservación y actualización de las bases (sic) datos recurrentes;
+IX.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2019)
 
 X.- Diseñar las políticas, programas y lineamientos municipales en materia de protección civil, bomberos y gestión integral de riesgos; a efecto de dar cumplimiento a lo previsto en la Ley Orgánica;
 
@@ -821,7 +821,9 @@ XI. Las demás que determinen las disposiciones legales y reglamentarias aplicab
 
 A la Dirección de Reglamentos y Espectáculos le corresponderá el ejercicio de las siguientes atribuciones:
 
-I. Implementar el procedimiento para la expedición y renovación de las licencias para el funcionamiento (sic) establecimientos mercantiles, así como las ampliaciones de giros y horarios de conformidad con las disposiciones reglamentarias en la materia, sometiéndolas a la validación de la o el Titular de la Secretaría para su autorización;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
+
+I. Implementar el procedimiento para la expedición y renovación de permisos para espectáculos públicos, así como las ampliaciones de giros y horarios de conformidad con las disposiciones reglamentarias en la materia;
 
 II. Autorizar, renovar, negar o cancelar previa validación y firma del Titular de la Secretaría, los procedimientos correspondientes que le faculte el reglamento aplicable en la materia;
 
@@ -831,7 +833,7 @@ IV. Imponer las sanciones conducentes por infracciones cometidas a las disposici
 
 V. Conocer y resolver, en coordinación con la Dirección General Jurídica, los recursos administrativos interpuestos sobre actos administrativos emitidos por la Dirección, en el ejercicio de sus funciones;
 
-VI. Mantener actualizado el padrón de registro y la base de datos de todos los establecimientos mercantiles que operen dentro de su jurisdicción;
+VI. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2019)
 
 VII. Buscar establecer mecanismos de colaboración con las distintas Cámaras de Comercio, con la finalidad de coadyuvar a la prestación de mejores servicios a la ciudadanía;
 
@@ -839,9 +841,9 @@ VIII. Ordenar la suspensión de actividades para el público en los establecimie
 
 IX. Vigilar el adecuado cumplimiento de las disposiciones jurídicas y administrativas aplicables en el ámbito de su competencia;
 
-X. Tramitar la recepción, registro, autorización o negación, en su caso, de la solicitud de suspensión y cese de actividades que la o él Titular de una licencia de funcionamiento presente a la Dirección;
+X. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2019)
 
-XI. Organizar el funcionamiento del Registro Comercial de los establecimientos mercantiles que operen en el municipio; así como ejecutar estrategias para la elaboración, digitalización, conservación y actualización de las bases de datos;
+XI. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2019)
 
 XII. Establecer mecanismos de coordinación, cooperación y vinculación intergubernamentales e intermunicipales, para el adecuado cumplimiento de sus funciones; y
 
@@ -1029,13 +1031,17 @@ VI. Contribuir con las secretarías municipales que proporcionan servicios concu
 
 VII. Administrar el portal web del Municipio, así como mantener actualizada la información presentada dentro del mismo, coordinando a las secretarías y entidades;
 
-VIII. Promover el uso del portal web del Municipio, como medio de difusión de los programas, actividades y servicios que brinda el mismo a la ciudadanía;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
+
+VIII. Promover el uso del portal web del Municipio, como medio de difusión de los programas, actividades, trámites y servicios que brinda el mismo a la ciudadanía;
 
 IX. Promover e impulsar el desarrollo del gobierno electrónico, a través del portal de Internet del Municipio.
 
 X. Proponer a la o a él Titular de la Secretaría, soluciones innovadoras en materia de tecnologías de la información y sistemas que permitan a las diferentes áreas del Municipio, brindar servicios de manera más ágil y oportuna a la ciudadanía;
 
-XI. Generar y coordinar las estrategias tecnológicas para proporcionar trámites y servicios públicos en línea;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XI. Implementar, administrar, mantener, actualizar y conservar el Sistema Electrónico de Trámites y Servicios;
 
 XII. Asesorar a las secretarías y entidades en materia de herramientas tecnológicas aplicadas a la automatización de procesos y desarrollo de sistemas;
 
@@ -2589,9 +2595,25 @@ XV. Manejar y supervisar el sistema de información comercial, gestoría y apoyo
 
 XVI. Promover la simplificación de normas y trámites que inhiban el desarrollo económico en los diversos sectores de la actividad empresarial y social;
 
-XVII. Operar, organizar y actualizar el Sistema Municipal de Información Económica y de Registro Estadístico Empresarial; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
 
-XVIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jerárquico.
+XVII. Operar, organizar y actualizar el Sistema Municipal de Información Económica y de Registro Estadístico Empresarial, así como el Sistema de Apertura Rápida de Empresas;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Autorizar las Licencias de funcionamiento para los establecimientos mercantiles de mediano riesgo y someter a la consideración del Secretario de Desarrollo Económico los expedientes y proyectos de Licencia para giros de alto riesgo;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XIX. Gestionar de las autoridades municipales competentes las autorizaciones necesarias para la operación de dichos establecimientos en el Municipio;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XX. Coordinar la integración de información estadística económica básica de los establecimientos mercantiles que operen en el Municipio; así como ordenar la ejecución de estrategias para la elaboración, digitalización, conservación y actualización de las bases datos recurrentes; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XXI. Las demás que determinen las disposiciones legales y reglamentarias aplicables en la materia y su superior jera quico (sic).
 
 ###### ARTÍCULO 94.
 
@@ -3510,3 +3532,29 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
 
 SEGUNDO.- (SIC) Por lo anterior expuesto, se somete a la aprobación del Honorable Ayuntamiento el presente dictamen de las Comisiones Permanentes de Hacienda Municipal Gobernación, Bandos, Reglamentos y Circulares del Honorable Ayuntamiento de Pachuca de Soto, Estado de Hidalgo.
+
+P.O. 9 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MUNICIPAL NÚMERO TREINTA, QUE CONTIENE LAS REFORMAS, ADICIONES Y DEROGACIONES AL DECRETO DE CREACIÓN DEL SISTEMA DE APERTURA RÁPIDA DE EMPRESAS; AL REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS MERCANTILES Y ESPECTÁCULOS PÚBLICOS; AL REGLAMENTO DE MEJORA REGULATORIA; AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL; AL REGLAMENTO DE PROTECCIÓN CIVIL, Y AL REGLAMENTO DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE”.]
+
+PRIMERA. Este Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDA. Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERA. El grupo de trabajo a que se refiere el artículo 17 del Reglamento del Sistema de Apertura Rápida de Empresas someterá a la consideración del Ayuntamiento el proyecto de Catálogo Municipal de Actividades Económicas dentro de los quince días siguientes a la publicación de este Decreto.
+
+El Ayuntamiento aprobará el Catálogo dentro de los treinta días siguientes a que se haya presentado el proyecto.
+
+CUARTA. La Dirección de Vinculación e Innovación Institucional integrará al Sistema Electrónico de Trámites y Servicios, la Tabla de Normatividad de Usos de Suelo y los planos de la zonificación secundaria de la mancha urbana y por localidades, vigentes conforme al Programa Municipal de Desarrollo Urbano, dentro de los quince días siguientes a la publicación de este Decreto, en coordinación con las Direcciones competentes.
+
+QUINTA. Al revalidar las Licencias de funcionamiento vigentes los giros actuales se asimilarán a los previstos en el Catálogo Municipal de Actividades Económicas.
+
+SEXTA. Respecto de Solicitudes que se presenten para obtener Licencia de funcionamiento en inmuebles comprendidos en polígonos cuyos usos de suelo no estén previstos en el Programa Municipal de Desarrollo Urbano, las mismas se sujetarán al procedimiento previsto en el artículo 8 C del Decreto de Creación del Sistema de Apertura Rápida de Empresas y las Disposiciones Normativas sobre el Sistema de Apertura Rápida de Empresas.
+
+En estos supuestos, el Departamento del Sistema de Apertura Rápida de Empresas solicitará al Instituto Municipal de Investigación y Planeación que emita un dictamen sobre la factibilidad para el funcionamiento del establecimiento mercantil tomando en consideración la zonificación primaria prevista en el Programa Municipal de Desarrollo Urbano y las consideraciones urbanísticas que estime pertinentes. El dictamen a que se refiere este párrafo hará las veces de la constancia de uso de suelo a que se refiere la fracción I del numeral a que se refiere el párrafo anterior.
+
+SÉPTIMA. Los trámites iniciados antes de la vigencia de estas reformas se resolverán conforme a las normas vigentes al momento de su inicio, salvo que las nuevas disposiciones resulten más favorables para los particulares.
+
+OCTAVA. Los establecimientos que al inicio de la vigencia de las presentes reformas estén funcionando sin la Licencia respectiva deberán presentar su Solicitud a más tardar dentro del primer trimestre del ejercicio fiscal 2020, con el objeto de obtener la Licencia respectiva.
+
+En caso de que el Giro Principal no pueda ser autorizado en la ubicación donde esté operando el establecimiento, el Titular podrá optar por cambiar la actividad económica a alguna de ellas que estén permitidas o sean condicionadas en atención al uso de suelo aplicable, tramitando la Solicitud respectiva.
