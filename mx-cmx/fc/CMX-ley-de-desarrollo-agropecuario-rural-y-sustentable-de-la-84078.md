@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-agropecuario-rural-y-sustentable-de-la-84078"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-08"
-last_updated: "2018-02-26"
+last_updated: "2019-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84078&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2011-12-07"
 
 LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 26 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 8 de diciembre de 2011.
 
@@ -766,6 +766,14 @@ VIII. Inducir la formación de mecanismos de reconocimiento, en el mercado, de l
 
 IX. Fortalecer el mercado interno y la competitividad de la producción local.
 
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+X. Elaborar y mantener actualizado un padrón de organizaciones, asociaciones, sociedades y empresas para la comercialización de productos agrícolas de acuerdo con los lineamientos para la protección de datos personales de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XI. Crear una plataforma digital de consulta y una aplicación para dispositivos móviles denominada “PEQUEÑOS PRODUCTORES Ciudad de México” en las que esté disponible el padrón de organizaciones, asociaciones, sociedades y empresas para la comercialización de productos agrícolas con el fin de impulsar su vinculación comercial.
+
 ###### Artículo 48.
 
 Para los efectos del artículo anterior, la Secretaría, con la opinión del Consejo Rural, elaborará programas orientados a la producción y comercialización de productos ofertados por los agentes de la sociedad rural.
@@ -1009,3 +1017,11 @@ G.O. 26 DE FEBRERO DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor el 17 de septiembre de 2018, en términos del Artículo Primero Transitorio del Decreto por el que se expide la Constitución Política de la Ciudad de México, publicado en el Diario Oficial de la Federación y en la Gaceta Oficial de la Ciudad de México el 05 de febrero de 2017.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 9 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES X Y XI AL ARTÍCULO 47 DE LA LEY DE DESARROLLO AGROPECUARIO, RURAL Y SUSTENTABLE DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
