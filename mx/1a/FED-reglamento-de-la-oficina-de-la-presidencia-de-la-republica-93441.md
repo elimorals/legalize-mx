@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-oficina-de-la-presidencia-de-la-republica-9344
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2015-10-01"
+last_updated: "2019-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-03-27"
 ---
 # REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA, PUBLICADO EN EL D.O.F. DE 9 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -622,3 +624,17 @@ D.O.F. 1 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para tal fin a la Oficina de la Presidencia de la República, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+D.O.F. 9 DE DICIEMBRE DE 2019.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de la Oficina de la Presidencia de la República, publicado el 2 de abril de 2013 en el Diario Oficial de la Federación.
+
+TERCERO. Se abroga el Acuerdo por el que se crea la Secretaría Ejecutiva del Consejo Consultivo de Ciencias, como unidad de asesoría y apoyo técnico del Ejecutivo Federal, publicado el 24 de enero de 1989 en el Diario Oficial de la Federación.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento, incluidas las que resulten de las modificaciones competenciales y de la estructura orgánica, deberán cubrirse con cargo al presupuesto aprobado para el ejercicio fiscal 2019 y subsecuentes, mediante movimientos compensados, de conformidad con las disposiciones jurídicas aplicables. No se autorizarán ampliaciones al presupuesto regularizable de la Oficina de la Presidencia.
+
+SEXTO. Cuando, en términos del último párrafo del artículo 38 de este Reglamento, el auxilio que proporcione la Oficina de la Presidencia al Órgano Interno de Control de la Secretaría de la Función Pública, involucre recursos presupuestarios, dicho apoyo se efectuará conforme a los criterios que determine la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, observando lo previsto en el artículo Transitorio Quinto del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación de fecha 30 de noviembre de 2018.
