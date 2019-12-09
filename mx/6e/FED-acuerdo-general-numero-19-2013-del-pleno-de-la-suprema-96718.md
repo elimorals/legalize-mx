@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-19-2013-del-pleno-de-la-suprema-96718"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-29"
-last_updated: "2016-04-18"
+last_updated: "2019-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96718&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2013-11-26"
 ---
 # ACUERDO GENERAL NUMERO 19/2013 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [POR EL QUE SE REGULA LA DIFUSION DEL SEMANARIO JUDICIAL DE LA FEDERACION VIA ELECTRONICA, A TRAVES DE LA PAGINA DE INTERNET DE ESTE ALTO TRIBUNAL]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 16/2019, DE VEINTIOCHO DE NOVIEMBRE DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA PUBLICACIÓN Y DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 9 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL NÚMERO 19/2013, DE VEINTICINCO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN VÍA ELECTRÓNICA, A TRAVÉS DE LA PÁGINA DE INTERNET DE ESTE ALTO TRIBUNAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de noviembre del 2013.
 
@@ -242,3 +244,15 @@ SEGUNDO. Se abroga el Acuerdo General Plenario 6/2005, de siete de febrero de do
 TERCERO. El subvínculo del Semanario Judicial de la Federación denominado “Sistema de precedentes en controversias constitucionales y en acciones de inconstitucionalidad”, será consultable a partir del diecinueve de septiembre de dos mil dieciséis, y se integrará con las sentencias dictadas a partir de septiembre de dos mil catorce en controversias constitucionales y en acciones de inconstitucionalidad, así como en recursos e incidentes derivados de esos asuntos. La Secretaría General de Acuerdos remitirá a la Coordinación de Compilación y Sistematización de Tesis los temas de las sentencias antes referidas, dictadas antes de la entrada en vigor del presente instrumento normativo, con copia al Secretario de Estudio y Cuenta responsable del engrose respectivo.
 
 CUARTO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y, en su momento, en el diverso 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 19/2013 en dichos medios electrónicos.
+
+D.O.F. 9 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 16/2019, DE VEINTIOCHO DE NOVIEMBRE DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REGULA LA PUBLICACIÓN Y DIFUSIÓN DEL SEMANARIO JUDICIAL DE LA FEDERACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General Plenario Número 19/2013, de veinticinco de noviembre de dos mil trece, así como todas las disposiciones emitidas con anterioridad que se opongan a lo establecido en este Acuerdo General.
+
+TERCERO. A efecto de contar con una reserva histórica en términos del artículo 6, fracción XVIII, de la Ley General de Bienes Nacionales, se elaborarán mensualmente tres ejemplares impresos de la Gaceta del Semanario Judicial de la Federación que se resguardarán de la siguiente forma: un ejemplar por el Archivo General de la Nación, un ejemplar por el Centro de Documentación y Análisis, Archivos y Compilación de Leyes y un ejemplar por la Dirección General de la Coordinación de Compilación y Sistematización de Tesis.
+
+CUARTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación; en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública.
