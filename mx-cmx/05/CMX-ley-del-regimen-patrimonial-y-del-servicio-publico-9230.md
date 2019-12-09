@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-regimen-patrimonial-y-del-servicio-publico-9230"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-20"
-last_updated: "2019-05-20"
+last_updated: "2019-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9230&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "1996-12-10"
 
 LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 20 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 9 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 20 de diciembre de 1996.
 
@@ -1262,25 +1262,35 @@ I. A título gratuito, cuando no se exija al particular una contraprestación pe
 
 II. A título oneroso cuando se exija una contraprestación pecuniaria o en especie a cambio del uso y goce del inmueble permisionado, la que en todo caso deberá estar fijada previamente por Oficialía y Finanzas.
 
-> <small>(REFORMADO, G.O. 15 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 106.
 
-Los Permisos Administrativos Temporales Revocables tendrán una vigencia máxima de 10 años, los cuales podrán prorrogarse, especialmente en los casos en que la persona física o moral a la que se haya otorgado el permiso, tenga como finalidad la asistencia privada, el desarrollo de actividades educativas y deportivas, así como las que reporten un beneficio en general a la comunidad o se deriven de proyectos para el desarrollo del Distrito Federal.
+Los Permisos Administrativos Temporales Revocables tendrán una vigencia máxima de 10 años, los cuales podrán prorrogarse, especialmente en los casos en que la persona física o moral a la que se haya otorgado el permiso, tenga como finalidad la asistencia privada, el desarrollo de actividades educativas, deportivas, de ocio, culturales, lúdicas, científicas, o que reporten directamente un beneficio en general a la comunidad o se deriven de proyectos para el desarrollo de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 107.
 
 En aquellos casos en que el permiso sea otorgado para actividades comerciales o de lucro, la prórroga de la vigencia del permiso no podrá exceder de dos veces el plazo original por el cual se otorgó.
 
+Los particulares que se encuentren en el supuesto establecido en el párrafo anterior y continúen interesados en mantener un Permiso Administrativo Temporal Revocable respecto del mismo bien y con las mismas características que aquel que está por fenecer; deberán iniciar dentro de los últimos seis meses de vigencia del permiso prorrogado, nuevamente el trámite ante la Administración para obtenerlo.
+
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 108.
 
-Los requisitos bajo los cuales serán los permisos a que se refiere este capítulo, son:
+Los requisitos indispensables para que sean otorgados los permisos a que se refiere este capítulo son:
 
 I. Solicitud por escrito del interesado;
 
-II. Croquis de la ubicación del predio y, en su caso, delimitación del espacio solicitado, acompañado de medidas, linderos y colindancias, y
+II. Croquis de la ubicación del predio y, en su caso, delimitación del espacio solicitado, acompañado de medidas, linderos y colindancias;
 
-III. Uso y destino del inmueble solicitado.
+III. Uso y destino del inmueble solicitado, y
+
+IV. Opinión de viabilidad emitido por la Alcaldía correspondiente.
+
+Para el otorgamiento de los permisos a que se refiere el presente capítulo, la Administración preferentemente deberá preferir y priorizar aquellos que tengan por objeto desarrollar alguna o algunas de las actividades a que se refiere el artículo 106, a fin de contribuir al fortalecimiento del tejido social de la comunidad.
 
 > <small>(ADICIONADO, G.O. 20 DE MAYO DE 2019)</small>
 
@@ -1613,3 +1623,11 @@ Segundo. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Tercero. La Jefatura de Gobierno contará con un plazo de hasta 60 días naturales contados a partir de la entrada en vigor del presente Decreto para adecuar el Reglamento, los Lineamientos y demás disposiciones de carácter administrativo en materia de sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública, previendo en dichos instrumentos las sanciones que derivadas del incumplimiento de lo dispuesto por este Decreto correspondan.
 
 Cuarto. La Administración Pública de la Ciudad de México y los terceros autorizados para implementar sistemas de control, supervisión y cobro de estacionamiento de vehículos en la vía pública tendrán hasta 120 días naturales para realizar las acciones y adecuaciones pertinentes a fin de dar cumplimiento a lo previsto en el presente Decreto.
+
+G.O. 9 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 106, 107 Y 108 DE LA LEY DEL RÉGIMEN PATRIMONIAL Y DEL SERVICIO PÚBLICO”.]
+
+Primero. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
