@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2014-11-28"
+last_updated: "2019-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2007-12-12"
 
 LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
 
@@ -482,15 +482,17 @@ XI.- Difusión de las culturas, investigaciones y desarrollo del deporte.
 
 El Premio al Mérito Deportivo que se entregará anualmente por el Jefe de Gobierno del Distrito Federal o la persona que éste designe, de conformidad con las bases y lineamientos que se expidan para tal efecto por el Consejo del Deporte.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ### CAPÍTULO SEXTO
 
-DE LA PARTICIPACIÓN DE LAS DELEGACIONES EN EL SISTEMA DE CULTURA FÍSICA Y DEPORTE DEL DISTRITO FEDERAL.
+DE LA PARTICIPACIÓN DE LAS ALCADÍAS EN EL SISTEMA DE CULTURA FÍSICA Y DEPORTE DE LA CIUDAD DE MÉXICO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 31.
 
-Los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales del Distrito Federal tendrán facultades las (sic) siguientes:
+Los Órganos Político-Administrativo de cada una de las Alcaldías de la Ciudad de México, tendrán las facultades siguientes:
 
 I.- Promover y organizar en sus respectivas circunscripciones actividades y prácticas físico-deportivas;
 
@@ -498,7 +500,9 @@ II.- Constituir un Comité Delegacional del Deporte que estará conformado por l
 
 III.- Coordinarse con los Comités y Ligas Delegacionales deportivas, en todas sus promociones de carácter no profesional en el área del deporte;
 
-IV.- Facilitar la plena utilización de las instalaciones deportivas en su circunscripción, a través de la programación de su uso, de conformidad con la reglamentación establecida;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+IV.- Facilitar la plena utilización de las instalaciones deportivas en su circunscripción a todas las personas, incluyendo los espacios sujetos a concesión o renta a particulares, a través de la programación de su uso, de conformidad con la reglamentación establecida;
 
 V.- Apegarse a los lineamientos establecidos en el Programa del Deporte;
 
@@ -772,11 +776,13 @@ DE LAS INSTALACIONES DEPORTIVAS, RESPONSABILIDADES Y CLAUSURA.
 
 Para los efectos de esta ley se entiende por instalación deportiva, los deportivos, complejos deportivos o unidades deportivas independientemente de la denominación que adopten y en general todo inmueble construido o adecuado para la práctica de actividades físicas e intelectuales, que realicen las personas con propósitos competitivos o de esparcimiento.
 
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 63.
 
-Se declara de utilidad social e interés público la construcción, remodelación, ampliación, conservación y mantenimiento de las instalaciones deportivas, con el objeto de atender adecuadamente las demandas que requiera la practica del deporte, la Asamblea Legislativa promoverá la asignación de recursos suficientes para la construcción y rehabilitación de instalaciones deportivas adscritas a los Órganos Político-Administrativos de cada una de las Demarcaciones Territoriales.
+Se declara de utilidad social e interés público la construcción, remodelación, ampliación, conservación y mantenimiento de las instalaciones deportivas, con el objeto de atender adecuadamente las demandas que requiera la práctica del deporte, el Congreso de la Ciudad de México promoverá la asignación de recursos suficientes para la construcción y rehabilitación de instalaciones deportivas adscritas a cada una de las Alcaldías.
+
+Los recursos obtenidos mediante autogenerados, obligatoriamente se deberán destinar para estos fines en las instalaciones deportivas en que fueron recaudados.
 
 ###### Artículo 64.
 
@@ -975,3 +981,13 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 9 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 31 Y SE MODIFICA Y ADICIONA UN PÁRRAFO AL ARTÍCULO 63 DE LA LEY DE EDUCACIÓN FÍSICA Y DE (SIC) DEPORTE DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto
