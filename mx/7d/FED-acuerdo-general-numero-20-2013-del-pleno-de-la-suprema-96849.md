@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-20-2013-del-pleno-de-la-suprema-96849"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-12-12"
-last_updated: "2013-12-12"
+last_updated: "2019-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "2013-11-29"
 ---
 # ACUERDO GENERAL NUMERO 20/2013 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LAS REGLAS PARA LA ELABORACION, ENVIO Y PUBLICACION EN EL SEMANARIO JUDICIAL DE LA FEDERACION Y SU GACETA, DE LAS TESIS QUE EMITEN LA SUPREMA CORTE DE JUSTICIA DE LA NACION, LOS PLENOS DE CIRCUITO Y LOS TRIBUNALES COLEGIADOS DE CIRCUITO]
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 17/2019, PUBLICADO EN EL D.O.F. DE 9 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 17/2019, DE VEINTIOCHO DE NOVIEMBRE DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LAS REGLAS PARA LA ELABORACIÓN, ENVÍO Y PUBLICACIÓN EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y EN SU GACETA, DE LAS TESIS QUE EMITEN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, LOS PLENOS DE CIRCUITO Y LOS TRIBUNALES COLEGIADOS DE CIRCUITO, PUBLICADO EN EL D.O.F. DE 9 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 ACUERDO GENERAL NÚMERO 20/2013, DE VEINTICINCO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LAS REGLAS PARA LA ELABORACIÓN, ENVÍO Y PUBLICACIÓN EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA, DE LAS TESIS QUE EMITEN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, LOS PLENOS DE CIRCUITO Y LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DOS DE ENERO DE DOS MIL CATORCE.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 12 de diciembre de 2013.
 
@@ -1006,3 +1004,17 @@ El Presidente de la Suprema Corte de Justicia de la Nación, Ministro Juan N. Si
 El licenciado Rafael Coello Cetina, Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, CERTIFICA: Este ACUERDO GENERAL NÚMERO 20/2013, DE VEINTICINCO DE NOVIEMBRE DE DOS MIL TRECE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LAS REGLAS PARA LA ELABORACIÓN, ENVÍO Y PUBLICACIÓN EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y SU GACETA, DE LAS TESIS QUE EMITEN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, LOS PLENOS DE CIRCUITO Y LOS TRIBUNALES COLEGIADOS DE CIRCUITO, fue emitido por el Tribunal Pleno en Sesión Privada celebrada el día de hoy, por unanimidad de once votos de los señores Ministros Alfredo Gutiérrez Ortiz Mena, José Ramón Cossío Díaz, Margarita Beatriz Luna Ramos, José Fernando Franco González Salas, Arturo Zaldívar Lelo de Larrea, Jorge Mario Pardo Rebolledo, Luis María Aguilar Morales, Sergio A. Valls Hernández, Olga Sánchez Cordero de García Villegas, Alberto Pérez Dayán y Presidente Juan N. Silva Meza.- México, Distrito Federal, a veinticinco de noviembre de dos mil trece.- Rúbrica.
 
 EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de setenta y seis fojas útiles concuerda fiel y exactamente con el original del Acuerdo General Plenario 20/2013, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos y se expide para su publicación en el Diario Oficial de la Federación.- México, Distrito Federal, a veintinueve de noviembre de dos mil trece.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 9 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO 17/2019, DE VEINTIOCHO DE NOVIEMBRE DE DOS MIL DIECINUEVE, DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LAS REGLAS PARA LA ELABORACIÓN, ENVÍO Y PUBLICACIÓN EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN Y EN SU GACETA, DE LAS TESIS QUE EMITEN LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, LOS PLENOS DE CIRCUITO Y LOS TRIBUNALES COLEGIADOS DE CIRCUITO”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Acuerdo General número 20/2013 de veinticinco de noviembre de dos mil trece, del Pleno de la Suprema Corte de Justicia de la Nación, relativo a las reglas para la elaboración, envío y publicación en el Semanario Judicial de la Federación y su Gaceta, de las tesis que emiten la Suprema Corte de Justicia de la Nación, los Plenos de Circuito y los Tribunales Colegiados de Circuito.
+
+TERCERO. En el caso de los Tribunales Colegiados de Circuito se implementará un mecanismo de asesoría, consulta y cursos de capacitación por parte de la Dirección General, con apoyo del Instituto de la Judicatura Federal, para facilitar el cumplimiento de lo establecido en este Acuerdo.
+
+CUARTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación; en el Semanario Judicial de la Federación y, en términos de lo dispuesto en los artículos 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública, y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública, en medios electrónicos de consulta pública.
