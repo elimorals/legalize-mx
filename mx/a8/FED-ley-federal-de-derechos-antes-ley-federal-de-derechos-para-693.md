@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2018-12-28"
+last_updated: "2019-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2019.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 21 DE DICIEMBRE DE 2018.
 
@@ -467,19 +467,11 @@ d). Miembros de la tripulación en activo que ingresen al país a bordo de aeron
 
 e). Cuando sean autorizados bajo los convenios de cooperación o intercambio educativo, cultural y científico.
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 12.
 
-Por la prestación de los servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que abandonen el territorio nacional, se cobrará la cuota de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$77.91 $78
+Por la prestación de los servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que abandonen el territorio nacional, se cobrará la cuota de $149.02
 
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -629,19 +621,17 @@ Los extranjeros a los que se les autorice la condición de estancia bajo los sup
 
 No se pagarán derechos por servicios migratorios por el cotejo de documentos para la realización de trámites migratorios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 18-A.
 
-Los ingresos que se obtengan por la recaudación del derecho establecido en la fracción I del artículo 8o. de la presente Ley, por lo que se refiere a los Visitantes sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos, se destinarán en un 20% al Instituto Nacional de Migración para mejorar los servicios que en materia migratoria proporciona, y en un 80% al Consejo de Promoción Turística de México para la promoción turística del país, el cual transferirá el 10% de la recaudación total del derecho al Fondo Nacional de Fomento al Turismo para los estudios, proyectos y la inversión en infraestructura que éste determine con el objeto de iniciar o mejorar los destinos turísticos del país.
+Los ingresos que se obtengan por la recaudación del derecho establecido en la fracción I del artículo 8o. de la presente Ley, por lo que se refiere a los Visitantes sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos, se destinarán en un 20% al Instituto Nacional de Migración para mejorar los servicios que en materia migratoria proporciona, y el 80% restante se destinará para estudios, proyectos e inversión en infraestructura que determine el Gobierno Federal con objeto de conectar, fortalecer, generar accesibilidad, iniciar o mejorar los destinos turísticos del país, entre otros.
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 Los demás ingresos que se obtengan por la recaudación de los derechos establecidos en esta Sección, serán destinados a programas de modernización, equipamiento e infraestructura para mejorar el control fronterizo en la línea divisoria internacional del sur del país y a mejorar las instalaciones, equipos, mobiliario, sistemas y la calidad integral de los servicios en materia migratoria que presta el Instituto Nacional de Migración.
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2010)</small>
-
-Los ingresos que se destinen al Fondo Nacional de Fomento al Turismo de conformidad con el primer párrafo de este artículo podrán ser utilizados para pago de adeudos generados con motivo de los financiamientos contratados para las inversiones en infraestructura a que se refiere dicho párrafo.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -713,11 +703,11 @@ $2,039.82 $2,040
 
 Los ingresos que se obtengan por el derecho de publicaciones a que se refiere este artículo, se destinarán al Diario Oficial de la Federación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 19-B.
 
-No se pagará el derecho de publicaciones a que se refiere el artículo anterior, cuando sean ordenadas por los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Públicos Autónomos, cuando obedezcan a actos administrativos de carácter general e interés público, siempre que la publicación del acto en el Diario Oficial de la Federación, sea ordenada con fundamento en las disposiciones jurídicas que regulen la emisión del propio acto, o se trate de la publicación de convocatorias públicas abiertas de plazas, que establece la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
+No se pagará el derecho de publicaciones a que se refiere el artículo anterior, cuando sean ordenadas por los poderes Legislativo, Ejecutivo y Judicial, así como los Organismos Públicos Autónomos, siempre que la publicación del acto en el Diario Oficial de la Federación, sea ordenada expresamente en la Constitución, en las leyes y reglamentos de carácter federal, en los tratados internacionales o en el Presupuesto de Egresos de la Federación, o se trate de la publicación de los acuerdos que expidan los titulares de las dependencias del Ejecutivo Federal y las convocatorias públicas abiertas de plazas, que establece la Ley del Servicio Profesional de Carrera en la Administración Pública Federal.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -875,17 +865,7 @@ VII.- (DEROGADA, D.O.F. 18 DE NOVIEMBRE DE 2010)
 
 VIII.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-IX.- Cuando los servicios a que se refiere la fracción VI de este artículo, se presten fuera del horario ordinario o de las instalaciones de la Dirección General de Radio, Televisión y Cinematografía, se pagarán adicionalmente, por hora de servicio, las siguientes cuotas:
-
-a).- Por la primera hora $354.52 $355
-
-b).- Por cada hora o fracción
-
-adicional $177.21 $177
-
-Para efectos de esta fracción se entiende como horario ordinario el de 9:00 a 18:00 horas.
+IX.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
@@ -3741,7 +3721,9 @@ servicios de carga, descarga, estiba, acarreo
 
 y trasbordo de mercancías en el recinto fiscal $12,786.41 $12,786
 
-f).- Por la autorización de apoderado aduanal $10,147.93 $10,148
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+f).- Por la autorización de representante legal $10,147.93
 
 g).- Por la autorización de dictaminador
 
@@ -3815,13 +3797,25 @@ en ellos almacenadas puedan ser objeto de
 
 elaboración, transformación o reparación $8,973.75 $8,974
 
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Los derechos a que se refieren los incisos b), c), d), e), h), k), l), m), n), ñ), o), p) y q) de este artículo se pagarán anualmente. Los derechos a que se refieren los incisos a), f), g), i) y j) de este artículo se pagarán por única vez.
+r).- Por la autorización para prestar el servicio de almacenamiento de mercancías en depósito fiscal y/o en su caso colocar marbetes o precintos $9,163.79
 
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Por la prórroga de las autorizaciones a que se refieren los incisos b), c), h), i), k), n), ñ), o) y p) de este artículo, así como por la renovación de las autorizaciones a que se refieren los incisos a) y m) de este artículo, se pagarán las mismas cuotas que se establecen para cada inciso.
+s).- Por la adición de cada bodega, sucursal o instalación a la autorización para prestar el servicio de almacenamiento de mercancías en depósito fiscal y/o en su caso colocar marbetes o precintos $3,785.98
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+t).- Por la autorización para la fabricación o importación de candados a que se refiere la Ley Aduanera $1,730.82
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Los derechos a que se refieren los incisos b), c), d), e), h), k), l), m), n), ñ), o), p), q), s) y t) de este artículo se pagarán anualmente. Los derechos a que se refieren los incisos a), f), g), i), j) y r) de este artículo se pagarán por única vez.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Por la prórroga de las autorizaciones a que se refieren los incisos b), c), g), h), i), k), n), ñ), o), p) y t) de este artículo, así como por la renovación de las autorizaciones a que se refieren los incisos a) y m) de este artículo, se pagarán las mismas cuotas que se establecen para cada inciso.
 
 > <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
@@ -4125,23 +4119,21 @@ Tratándose de los derechos de trámite aduanero que se recauden en Colombia, Nu
 
 (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 51.
 
-Por los servicios que a continuación se señalan que se presten a los aspirantes para obtener patente de agente aduanal, autorización de apoderado aduanal, de dictaminador aduanero o de mandatario de agente aduanal y a los agentes aduanales, se pagarán derechos conforme a las siguientes cuotas:
+Por los servicios que a continuación se señalan que se presten a los aspirantes para obtener patente de agente aduanal, autorización de representante legal, de dictaminador aduanero o de mandatario de agente aduanal y a los agentes aduanales, se pagarán derechos conforme a las siguientes cuotas:
 
 Cuota
 
 Sin ajuste Con ajuste
 
-I.- Por el examen para aspirante a agente
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-aduanal, apoderado aduanal o dictaminador
+I.- Por el examen para aspirante a agente aduanal,
 
-aduanero $10,324.46 $10,324
+representante legal o dictaminador aduanero $10,324.46
 
 II.- Por la expedición de la patente de
 
@@ -4162,6 +4154,18 @@ IV.- Por el estudio y aprobación de las escrituras
 constitutivas de las sociedades o asociaciones
 
 que exploten la patente de agente aduanal $16,393.50 $16,393
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+V.- Por la expedición de autorización de
+
+aduana adicional $1,895.67
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+VI.- Por la expedición de autorización de
+
+cambio de aduana de adscripción $2,016.54
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
@@ -4379,13 +4383,7 @@ Sin ajuste Con ajuste
 
 a). Permisos de distribución de gas natural $732,892.28 $732,892
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-b). Permisos de transporte de gas natural para
-
-usos propios en su modalidad de sociedades de
-
-autoabastecimiento $445,529.01 $445,529
+b). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -4393,19 +4391,13 @@ c). Permisos de transporte de gas natural de
 
 acceso abierto $732,892.28 $732,892
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-d). Permisos de transporte de gas natural para
-
-usos propios $363,147.49 $363,147
+d). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 e). Tratándose de permisos para el
 
 almacenamiento de gas natural: $4,921,796.23 $4,921,796
 
-f). Tratándose de permisos de almacenamiento
-
-de gas natural para usos propios: $191,554.86 $191,555
+f). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 II. Por la supervisión de los permisos de gas natural, se pagará anualmente el derecho, conforme a las siguientes cuotas:
 
@@ -4431,11 +4423,7 @@ d). Permisos de transporte de
 
 gas natural para usos propios $206,659.71 $206,660
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-e). Permisos de almacenamiento de
-
-gas natural para usos propios $134,267.07 $134,267
+e). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -4493,15 +4481,13 @@ b). Permisos para el transporte de gas licuado
 
 de petróleo por medio de ductos $720,727.67 $720,728
 
-c). Permisos para el transporte de gas licuado
+c). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-de petróleo por ductos para autoconsumo $272,362.05 $272,362
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-d). Permisos para el almacenamiento de gas
+d). Permisos para el almacenamiento de gas licuado
 
-licuado de petróleo mediante planta de
-
-suministro o depósito $720,727.67 $720,728
+de petróleo $720,727.67
 
 > <small>(REFORMADA, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -4515,17 +4501,13 @@ b). Permisos para el transporte de gas
 
 licuado de petróleo por medio de ductos $525,990.85 $525,991
 
-c). Permisos para el transporte de gas
+c). (DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-licuado de petróleo por ductos para
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-autoconsumo $206,659.71 $206,660
+d). Permisos para el almacenamiento de gas
 
-d). Permisos para el almacenamiento de
-
-gas licuado de petróleo mediante planta
-
-de suministro o depósito $705,453.24 $705,453
+licuado de petróleo $705,453.24
 
 III. Por la modificación de los títulos de permiso de gas licuado de petróleo, se pagarán derechos conforme a las siguientes cuotas:
 
@@ -4541,67 +4523,9 @@ b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
 (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
 ###### ARTICULO 59.
 
-Por los servicios que proporciona la Dirección General de Gas L.P., referentes a la recepción y análisis de solicitudes y expedición de registros, autorizaciones, permisos y certificaciones, se pagarán derechos conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Por el otorgamiento del certificado de
-
-cumplimiento de las Normas Oficiales
-
-Mexicanas a través de pruebas periódicas
-
-al producto o verificación mediante el
-
-sistema de calidad de la línea de producción $7,346.03 $7,346
-
-II.- Por el análisis de la solicitud y, en su caso,
-
-por el otorgamiento de permisos señalados en
-
-el Reglamento de Gas Licuado de Petróleo,
-
-con excepción de los otorgados por la Comisión
-
-Reguladora de Energía $26,593.77 $26,594
-
-III.- Por la modificación de las condiciones
-
-originales a los permisos otorgados,
-
-derivadas de cada uno de los avisos, así
-
-como por el análisis de cada solicitud y, en
-
-su caso, el otorgamiento de autorizaciones $1,944.76 $1,945
-
-> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
-
-Tratándose de la autorización para instalar bodegas de distribución adicionales, se pagarán derechos por cada solicitud, independientemente del número de bodegas que se incluyan en la misma.
-
-IV.- Por los servicios de verificación establecidos
-
-en la Ley Reglamentaria del Artículo 27
-
-Constitucional en el ramo del Petróleo, pagarán
-
-derechos por hora de verificación $1,063.62 $1,064
-
-V.- Por el estudio y trámite y, en su caso, la
-
-obtención del registro como empresa con
-
-equipo certificado, taller de equipos de
-
-carburación o centros de destrucción $1,745.71 $1,746
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
@@ -6789,9 +6713,13 @@ fracción, conforme a la cuota de $14.81 $15
 
 II.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-El derecho a que se refiere este artículo, se deberá calcular y enterar por cada aeronave, inmediatamente posterior a su arribo o de manera previa al despegue de la misma, según corresponda. Asimismo, los contribuyentes con operaciones regulares podrán pagar el derecho mensualmente por cada aeronave dentro de los diez días del mes siguiente a aquél en que se reciban los servicios. Dentro de ese mismo plazo, los contribuyentes deberán presentar ante el SENEAM el documento que contenga el desglose de las operaciones efectuadas en el mes anterior por cada aeronave respecto de la cual se realiza el pago.
+El derecho a que se refiere este artículo, se deberá calcular y enterar por cada aeronave, inmediatamente posterior a su arribo o de manera previa al despegue de la misma, según corresponda. Asimismo, los contribuyentes con operaciones regulares podrán pagar el derecho mensualmente por cada aeronave dentro de los diez días del mes siguiente a aquél en que se reciban los servicios. Dentro de ese mismo plazo, los contribuyentes deberán presentar ante el SENEAM la copia del comprobante de pago con sello legible de la oficina autorizada, así como el archivo electrónico que contenga el desglose de las operaciones que dieron lugar al pago del derecho.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Para los efectos del párrafo anterior, así como de la fracción I del artículo 291 de esta Ley, mediante reglas de carácter general que al respecto emita el Servicio de Administración Tributaria, se establecerán los requisitos para la presentación de la información ante el SENEAM.
 
 ###### ARTICULO 151.
 
@@ -7185,7 +7113,9 @@ $ 2,068.80 $2,069
 
 No se pagarán los derechos a que se refiere este artículo cuando los servicios correspondientes sean solicitados por el personal de la Secretaría de Comunicaciones y Transportes.
 
-#### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios Marítimos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+#### SECCION SEPTIMA. Registro Público Marítimo Nacional y Servicios a la Marina Mercante
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
@@ -7211,261 +7141,105 @@ $ 519.91 $ 520
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 165.
 
-Por la solicitud, análisis y, en su caso, resolución de trámites a cargo de la Secretaría de Comunicaciones y Transportes en sus funciones de autoridad marítima, se pagarán derechos conforme a las siguientes cuotas:
+Por la solicitud, análisis y, en su caso, resolución de trámites a cargo de la Secretaría de Comunicaciones y Transportes en sus funciones de autoridad en materia de marina mercante, se pagarán derechos conforme a las siguientes cuotas:
 
 Cuota
 
 Sin ajuste Con ajuste
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+I.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-I.- Por el otorgamiento de abanderamiento y dimisión de bandera de embarcaciones o artefactos navales, tomando en cuenta el arqueo bruto:
+II.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-a).- Hasta de 50 toneladas $ 704.39 $ 704
+III.- Por la expedición de autorización para la permanencia de artefactos navales y permiso para servicio de dragado en zonas marinas mexicanas, por unidad de arqueo bruto o fracción de registro internacional:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-b).- De más de 50 hasta 500 toneladas $ 1,409.35 $ 1,409
+a).- Hasta 500 unidades de arqueo
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+bruto $10.2531
 
-c).- De más de 500 hasta 5,000 toneladas $ 2,466.89 $ 2,467
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+b).- De 500.01 hasta 1,000 unidades de arqueo
 
-d).- De más de 5,000 hasta 15,000 toneladas $ 3,524.50 $ 3,524
+bruto $8.4770
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-e).- De 15,000.01 hasta 25,000.00 toneladas $ 8,811.89 $ 8,812
+c).- De 1,000.01 hasta 5,000 unidades de arqueo
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+bruto $7.0433
 
-f).- De 25,000.01 hasta 50,000.00 toneladas $ 12,336.65 $ 12,337
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+d).- De 5,000.01 hasta 15,000 unidades de arqueo
 
-g).- De más 50,000.01 toneladas $ 14,099.24 $ 14,099
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-II.- Por la expedición, revalidación o reposición del certificado de matrícula:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-a).- Tratándose de embarcaciones para el servicio de recreo:
-
-1.- Hasta de 5 toneladas brutas de arqueo $ 704.39 $ 704
-
-2.- De 5.01 hasta 10 toneladas brutas
-
-de arqueo $ 1,057.96 $ 1,058
-
-3.- De 10.01 hasta 20 toneladas brutas
-
-de arqueo $ 1,408.91 $ 1,409
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-b).- Embarcaciones para navegación interior de carga, pasajeros o carga y pasajeros:
-
-1.- Hasta de 5 toneladas brutas de arqueo $ 350.75 $ 351
-
-2.- De 5.01 hasta 10 toneladas brutas
-
-de arqueo $ 528.92 $ 529
-
-3.- De 10.01 hasta 20 toneladas brutas
-
-de arqueo $ 704.39 $ 704
-
-c).- Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
-
-1.- Hasta de 5 toneladas brutas de arqueo $ 528.92 $ 529
-
-2.- De 5.01 hasta 10 toneladas brutas
-
-de arqueo $ 704.39 $ 704
-
-3.- De 10.01 hasta 20 toneladas brutas
-
-de arqueo $ 1,057.96 $ 1,058
-
-d).- Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
-
-1.- Hasta de 5 toneladas brutas de arqueo $ 520.82 $ 521
-
-2.- De 5.01 hasta 10 toneladas brutas
-
-de arqueo $ 869.03 $ 869
-
-3.- De 10.01 hasta 20 toneladas brutas
-
-de arqueo $ 1,217.25 $ 1,217
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-e).- Para embarcaciones que efectúen en cualquier tipo de servicio, navegación de altura, cabotaje e interior, o para artefactos navales que efectúen cualquier tipo de servicio:
-
-1.- De 20.01 hasta 100 toneladas brutas
-
-de arqueo $ 1,432.36 $ 1,432
-
-2.- De 100.01 hasta 500 toneladas brutas
-
-de arqueo $ 1,704.18 $ 1,704
-
-3.- De 500.01 hasta 5,000 toneladas brutas
-
-de arqueo $ 1,973.65 $ 1,974
-
-4.- De 5,000.01 hasta 15,000 toneladas brutas
-
-de arqueo $ 2,348.31 $ 2,348
-
-5.- De 15,000.01 hasta 25,000 toneladas
-
-brutas de arqueo $ 6,526.92 $ 6,527
-
-6.- De 25,000.01 hasta 50,000 toneladas
-
-brutas de arqueo $ 9,137.19 $ 9,137
-
-7.- De más de 50,000.01 toneladas
-
-brutas de arqueo $ 10,443.75 $ 10,444
-
-Para el caso de las embarcaciones de hasta 10 metros de eslora sin cubierta corrida, destinadas a la pesca ribereña, se pagará la cuota de
-
-$ 118.14 $118
-
-f). (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
+bruto $5.2804
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-III.- Por la expedición de autorización para la permanencia de artefactos navales y dragas en zonas marinas nacionales, por tonelada bruta o fracción de registro internacional:
-
-a).- Hasta 500 toneladas $10.2531
-
-b).- De 500.01 hasta 1,000 toneladas $ 8.4770
-
-c).- De 1,000.01 hasta 5,000 toneladas $ 7.0433
-
-d).- De 5,000.01 hasta 15,000 toneladas $ 5.2804
 
 e).- De 15,000.01 en adelante $ 3.5172
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+IV.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-IV.- Por expedición de pasavantes por tonelaje bruto de arqueo:
+V.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-a).- Hasta de 5 toneladas $ 140.46 $ 140
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-b).- De más de 5 hasta 10 toneladas $ 246.22 $ 246
+VI. Por la expedición del permiso de navegación para embarcaciones mercantes extranjeras de carga en general, o mixto incluyendo el de pasajeros, por unidad de arqueo bruto o fracción de registro internacional:
 
-c).- De más de 10 hasta 20 toneladas $ 351.86 $ 352
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-d).- De 20.01 hasta 100.00 toneladas $ 880.72 $ 881
+a).- Hasta 500 unidades de arqueo bruto $38.36
 
-e).- De 100.01 hasta 500.00 toneladas $ 1,056.91 $ 1,057
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-f).- De 500.01 hasta 1,000.00 toneladas $ 1,409.35 $ 1,409
+b).- De 500.01 hasta 1,000 unidades de arqueo
 
-g).- De 1,000.01 hasta 5,000.00 toneladas $ 2,466.89 $ 2,467
+bruto $31.80
 
-h).- De 5,000.01 hasta 15,000.00 toneladas $ 3,171.79 $ 3,172
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-i).- De 15,000.01 hasta 25,000.00 toneladas $ 4,229.37 $ 4,229
+c).- De 1,000.01 hasta 5,000 unidades de arqueo
 
-j).- De 25,000.01 hasta 50,000.00 toneladas $ 5,286.89 $ 5,287
+bruto $26.66
 
-k).- De más de 50,000.01 toneladas $ 7,049.37 $ 7,049
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+d).- De 5,000.01 hasta 15,000 unidades de arqueo
 
-V.- Por la revisión de los cálculos de arqueo y de la marca de máxima carga o francobordo:
-
-a).- Hasta 1,000 toneladas brutas de arqueo $ 3.3349
-
-b).- De más de 1,000 hasta 5,000 toneladas,
-
-por las primeras 1.000 la cuota señalada en
-
-el inciso anterior, y por cada una o fracción
-
-de las excedentes $ 1.9971
-
-c).- De más de 5,000 hasta 15,000 toneladas,
-
-por las primeras 5,000, la cuota señalada en
-
-el inciso anterior y por cada una o fracción de
-
-las excedentes $ 1.6623
-
-d).- De más de 15,000 toneladas, por las
-
-primeras 15,000, la cuota señalada en el
-
-inciso anterior y por cada una o fracción
-
-de las excedentes $ 1.3284
+bruto $20.02
 
 > <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-VI.- Por la expedición del permiso de navegación para embarcaciones mercantes extranjeras de carga en general, o mixto incluyendo el de pasajeros, por tonelada bruta o fracción de registro internacional:
-
-a).- Hasta 500 toneladas $ 38.36 $ 38
-
-b).- De 500.01 hasta 1,000 toneladas $31.80 $ 32
-
-c).- De 1,000.01 hasta 5,000 toneladas $ 26.66 $ 27
-
-d).- De 5,000.01 hasta 15,000 toneladas $ 20.02 $ 20
-
 e).- De 15,000.01 en adelante $ 13.31 $ 13
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-VII.- Por la expedición del permiso especial para servicio de pasajeros a partir de 2 toneladas, por tonelada bruta de arqueo o fracción
+VII. Por la expedición del permiso especial para servicio de
 
-$9.04 $9
+pasajeros a partir de 2 unidades de arqueo bruto, por unidad
+
+de arqueo bruto o fracción $9.04
 
 VIII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
 IX. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-X.- Por la expedición de autorización para la
-
-extracción, remoción o reflotación de embarcaciones,
-
-aeronaves o artefactos navales $ 5,400.81 $ 5,401
+X.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 XI. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+XII.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-XII.- Por la autorización para el desguace
-
-de embarcaciones o artefactos navales $ 7,509.46 $ 7,509
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-XIII.- Por autorizar el embarque de técnicos
-
-extranjeros en embarcaciones mexicanas y,
-
-en su caso, por la renovación de autorización,
-
-por cada técnico $ 1,248.17 $ 1,248
+XIII.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 165-A.
 
@@ -7541,23 +7315,27 @@ IV.- Las instalaciones de señales marítimas y maniobras de rescate.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 168-B.
 
-Por otorgar permisos, o la renovación de éstos, para la explotación de embarcaciones en servicio de navegación interior y de cabotaje, se pagará anualmente el derecho de servicio de navegación interior y de cabotaje, por cada embarcación conforme a las cuotas siguientes:
+Por otorgar permisos, o la renovación de éstos, para la explotación de embarcaciones en servicio de navegación de cabotaje, se pagará anualmente el derecho de servicio de navegación de cabotaje, por cada embarcación conforme a las cuotas siguientes:
 
 Cuota
 
 Sin ajuste Con ajuste
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+
 I.- Cruceros turísticos:
 
-a).- Embarcaciones menores de pasajeros
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-equipadas para brindar servicios de pernocta,
+a).- Embarcaciones de pasajeros, de hasta 499.99 unidades
 
-descanso y recreativos a bordo y en puerto $ 18,071.57 $ 18,072
+de arqueo bruto, equipadas para brindar servicios de
+
+pernocta, descanso y recreativos a bordo y en puerto $18,071.57
 
 b).- Embarcaciones de 500 hasta 1,000
 
@@ -7571,7 +7349,9 @@ d).- Embarcaciones de más de 5,000.01
 
 unidades de arqueo bruto $ 58,322.89 $ 58,323
 
-II.- Transporte de pasajeros:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+II.- Transporte de pasajeros en navegación de cabotaje:
 
 a).- Embarcaciones cuya capacidad sea
 
@@ -7585,259 +7365,29 @@ c).- Embarcaciones de 500 o más unidades
 
 de arqueo bruto $ 3,212.53 $ 3,213
 
-III.- Turismo náutico:
-
-a).- Embarcaciones cuya capacidad sea
-
-hasta 3.5 unidades de arqueo bruto $ 1,642.86 $ 1,643
-
-b).- Embarcaciones mayores a 3.5 y menores
-
-de 500 unidades de arqueo bruto $ 3,285.72 $ 3,286
-
-c).- Embarcaciones de 500 o más unidades
-
-de arqueo bruto $ 5,749.06 $ 5,749
+III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 IV. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
 ###### ARTICULO 168-C.
 
-Por otorgar permiso o su prórroga para la prestación de servicios en navegación interior, en el que se incluyan hasta cinco embarcaciones, se pagará la cuota anual de
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$ 3,568.83 $ 3,569
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
-
-Tratándose de:
-
-I.- Servicio de transporte de pasajeros, con embarcaciones cuya dimensión máxima sea de 3.5 unidades de arqueo bruto o capacidad máxima de 16 pasajeros.
-
-II.- Servicio de turismo náutico, con embarcaciones de recreo o deportivas tipo moto acuática, kayak, botes de remos o similares en porte; cuya dimensión máxima sea de 0.5 unidades de arqueo bruto.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 169.
 
-Por las inspecciones de seguridad para salvaguardar la vida humana en el mar y prevenir la contaminación por las embarcaciones o artefactos navales, se pagará el derecho de reconocimiento, certificación o revalidación anual de los certificados, según corresponda, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-I.- Por reconocimiento:
-
-a).- Hasta 10 toneladas $ 94.66 $ 95
-
-b).- De más de 10 y hasta 20 toneladas $ 189.46 $ 189
-
-c).- De más de 20 y hasta 50 toneladas $ 758.57 $ 759
-
-d).- De más de 50 y hasta 75 toneladas $ 2,370.80 $ 2,371
-
-e).- De más de 75 y hasta 100 toneladas $ 2,845.08 $ 2,845
-
-f).- De más de 100 y hasta 200 toneladas $ 4,267.71 $ 4,268
-
-g).- De más de 200 y hasta 300 toneladas $ 5,216.07 $ 5,216
-
-h).- De más de 300 y hasta 500 toneladas $ 7,587.11 $ 7,587
-
-i).- De más de 500 y hasta 1,000 toneladas $ 10,432.33 $ 10,432
-
-j).- De más de 1,000 y hasta 2,000 toneladas $ 12,329.17 $ 12,329
-
-k).- De más de 2,000 toneladas brutas de
-
-arqueo, por las primeras 2,000 la cuota
-
-señalada en el inciso anterior, y por cada
-
-una o fracción de las excedentes $ 3.0801
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-Si se efectúa un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
-
-II. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-III.- Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos y proyectos de construcción:
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-a). Hasta de 100 toneladas $3,099.78 $3,100
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-b). De más de 100 hasta 500 toneladas $4,133.12 $4,133
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-c). De más de 500 hasta 1,000 toneladas $5,166.61 $5,167
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-d). De más de 1,000 a 5,000 toneladas $6,716.76 $6,717
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-e). De más de 5,000 a 10,000 toneladas $8,266.81 $8,267
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-f). De más de 10,000 toneladas $10,333.61 $10,334
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
-
-IV.- Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos o proyectos que impliquen reformas o modificaciones:
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-a). Hasta de 100 toneladas $1,032.86 $1,033
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-b). De más de 100 hasta 500 toneladas $2,066.28 $2,066
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-c). De más de 500 hasta 1,000 toneladas $3,616.43 $3,616
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-d). De más de 1,000 a 5,000 toneladas $5,166.61 $5,167
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-e). De más de 5,000 a 10,000 toneladas $7,233.51 $7,234
-
-> <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-f). De más de 10,000 toneladas $9,300.27 $9,300
-
-V.- (DEROGADA, D.O.F. 27 DE DICIEMBRE DE 2006)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-VI.- Por el reconocimiento total en los casos de construcción, reparación o modificación para verificar el estado de avance y el cumplimiento de las especificaciones y normas aplicables, se pagarán los derechos correspondientes de acuerdo al tonelaje conforme a las siguientes cuotas:
-
-a).- Hasta 50 toneladas brutas de arqueo
-
-comprendiendo 3 inspecciones parciales. $6,888.81 $6,889
-
-b).- De más de 50 hasta 100 toneladas
-
-brutas de arqueo, comprendiendo 3
-
-inspecciones parciales $10,333.61 $10,334
-
-c).- De más de 100 hasta 200 toneladas
-
-brutas de arqueo, comprendiendo 4
-
-inspecciones parciales $13,778.45 $13,778
-
-d).- De más de 200 hasta 300 toneladas
-
-brutas de arqueo, comprendiendo 4
-
-inspecciones parciales $17,223.14 $17,223
-
-e).- De más de 300 hasta 500 toneladas
-
-brutas de arqueo, comprendiendo 4
-
-inspecciones parciales $20,667.99 $20,668
-
-f).- De más de 500 hasta 1000 toneladas
-
-brutas de arqueo, comprendiendo 4
-
-inspecciones parciales $27,557.31 $27,557
-
-g).- De más de 1000 hasta 5000 toneladas
-
-brutas de arqueo, comprendiendo 4
-
-inspecciones parciales $34,446.85 $34,447
-
-h).- De más de 5000 hasta 15000 toneladas
-
-brutas de arqueo, comprendiendo 5
-
-inspecciones parciales $41,336.42 $41,336
-
-i).- De más de 15000 hasta 25000 toneladas
-
-brutas de arqueo, comprendiendo 5
-
-reparaciones parciales $51,670.85 $51,671
-
-j).- De más de 25000 hasta 50000 toneladas
-
-brutas de arqueo, comprendiendo 6
-
-inspecciones parciales $86,118.15 $86,118
-
-k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $3.4368 por cada tonelada o fracción excedente.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 169-A.
 
-Por la autorización y determinación de señalamiento marítimo con que deben cumplir las instalaciones privadas o concesionadas, se pagará el derecho de señalamiento marítimo, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Señales en escolleras $2,700.32 $2,700
-
-II.- Señales en faros $10,801.87 $10,802
-
-III.- Señales en muelles $2,700.32 $2,700
-
-IV.- Señales en atracaderos y peines
-
-de marinas turísticas $2,700.32 $2,700
-
-V.- Señales de enfilaciones $5,400.81 $5,401
-
-VI.- Señales flotantes $2,160.17 $2,160
-
-VII.- Señales diurnas $2,700.32 $2,700
-
-VIII.- Señales laterales fijas $2,160.17 $2,160
-
-IX.- Señales acústicas $4,050.47 $4,050
-
-X.- Señales radioeléctricas $6,481.04 $6,481
-
-XI.- Otras señales $7,291.27 $7,291
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 170.
 
-Por los servicios que presta la Capitanía de Puerto a embarcaciones nacionales o extranjeras en horario ordinario de operación, que efectúen cualquier clase de navegación de altura o cabotaje, se pagará el derecho de capitanía de puerto por cada autorización de arribo, despacho, maniobra de fondeo, o enmienda, en este último caso cuando sea a solicitud del particular, conforme a las siguientes cuotas:
+Por los servicios que presta la autoridad competente a embarcaciones nacionales o extranjeras en horario ordinario de operación, que efectúen cualquier clase de navegación de altura o cabotaje, se pagará el derecho por cada autorización de arribo, despacho, maniobra de fondeo o enmienda, cuando sea a solicitud del particular, conforme a las siguientes cuotas:
 
 Cuota
 
@@ -7847,41 +7397,47 @@ I.- De más de 3 hasta 20 unidades de arqueo
 
 Bruto $301.39 $301
 
-II.- De más de 20 hasta 100 toneladas
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-brutas de arqueo $454.03 $454
+II.- De más de 20 hasta 100 unidades de arqueo
 
-III.- De más de 100 hasta 500 toneladas
+bruto $454.03
 
-brutas de arqueo $744.41 $744
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+III.- De más de 100 hasta 500 unidades
+
+de arqueo bruto $744.41
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 IV.- De más de 500 hasta 1,000
 
-toneladas brutas de arqueo $1,515.12 $1,515
+unidades de arqueo bruto $1,515.12
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-V. De más de 1,000 hasta 15,000 toneladas
+V.- De más de 1,000 hasta 15,000 unidades
 
-brutas de arqueo $3,039.04 $3,039
+de arqueo bruto $3,039.04
 
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-VI. De más de 15,000 hasta 25,000 toneladas
+VI.- De más de 15,000 hasta 25,000 unidades
 
-brutas de arqueo $3,871.88 $3,872
+de arqueo bruto $3,871.88
 
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-VII. De más de 25,000 hasta 50,000 toneladas
+VII.- De más de 25,000 hasta 50,000 unidades
 
-brutas de arqueo $4,465.91 $4,466
+de arqueo bruto $4,465.91
 
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-VIII. De más de 50,000 toneladas brutas
+VIII.- De más de 50,000 unidades de
 
-de arqueo $5,384.80 $5,385
+arqueo bruto $5,384.80
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -7903,357 +7459,67 @@ No se pagará el derecho a que se refiere este artículo por las embarcaciones q
 
 No pagarán el derecho a que se refiere este artículo, las embarcaciones nacionales, de hasta 30 unidades de arqueo bruto que se dediquen a las actividades pesqueras.
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-El pago que deba realizarse a la Capitanía de Puerto por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
+El pago que deba realizarse a la autoridad competente por los servicios anteriormente descritos, podrá ser efectuado en su totalidad previo a la autorización del despacho de la embarcación del puerto de que se trate.
 
 ###### ARTICULO 170-A.
 
-Por los servicios de verificación de las pruebas de estabilidad, banco, botadura, sistemas y equipamiento, pruebas de mar y tirón a punto fijo, se pagará por cada embarcación, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Hasta 200 unidades de arqueo bruto $5,643.82 $5,644
-
-II.- De más de 200 hasta 300 unidades
-
-de arqueo bruto $6,156.92 $6,157
-
-III.- De más de 300 hasta 1000 unidades
-
-de arqueo bruto $8,722.46 $8,722
-
-IV.- De más de 1000 hasta 5000
-
-unidades de arqueo bruto $10,261.81 $10,262
-
-V.- De más de 5000 hasta 10000
-
-unidades de arqueo bruto $15,392.79 $15,393
-
-VI.- De más de 10000 unidades de
-
-arqueo bruto $20,523.78 $20,524
-
-VII.- Por la revisión del protocolo de la prueba
-
-de estabilidad, banco, botadura, sistemas y
-
-equipamiento, pruebas de mar y tirón a punto
-
-fijo, se pagará por cada embarcación $1,817.64 $1,818
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 170-B.
 
-Por la revisión de cuadernos de estabilidad, manual de cargas, manual de operación, manual de carga de grano, por aprobación de libros de hidrocarburos o de registro de basuras, plan de emergencia para prevenir la contaminación y, en su caso, por la expedición de la carta de cumplimiento, se pagará por cada documento presentado, el derecho de revisión conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Hasta 200 unidades de arqueo bruto $5,643.81 $5,644
-
-II.- De más de 200 hasta 300 unidades
-
-de arqueo bruto $6,156.92 $6,157
-
-III.- De más de 300 hasta 1000 unidades
-
-de arqueo bruto $8,722.46 $8,722
-
-IV.- De más de 1000 hasta 5000 unidades
-
-de arqueo bruto $10,261.81 $10,262
-
-V.- De más de 5000 hasta 10000 unidades
-
-de arqueo bruto $15,392.79 $15,393
-
-VI.- De más de 10000 unidades de arqueo
-
-bruto $20,523.78 $20,524
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 170-C.
 
-Por la revisión del manual de operación de dique flotante y, en su caso, aprobación y expedición de la carta de cumplimiento, se pagará el derecho de revisión anualmente por cada embarcación, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Dique menor de 150 metros de eslora $20,523.78 $20,524
-
-II.- Dique de 150 metros o más de eslora $30,785.78 $30,786
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 170-D.
 
-Por la inspección, verificación y, en su caso, certificación del cumplimiento de la normatividad de estaciones de servicio a balsas salvavidas y botes totalmente cerrados, así como a estaciones de servicio para los equipos contra incendio de las embarcaciones, se pagarán derechos, conforme a la cuota de:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$33,207.67 $33,208
-
-Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de:
-
-$1,739.44 $1,739
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 170-E.
 
-Por la autorización a sociedades clasificadoras de buques, a personas físicas o morales, para realizar a nombre del Gobierno Mexicano, la inspección, reconocimiento o certificación de embarcaciones o artefactos navales, así como la autorización de proyecto de construcción, reparación o modificación, se pagarán anualmente derechos, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Por persona moral $25,788.62 $25,789
-
-II.- Por persona física $2,363.66 $2,364
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 170-F.
 
 (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2011)
 
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 170-G.
 
-Se pagará el derecho de cumplimiento del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, por cada buque o instalación portuaria, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-I.- Por la revisión de la evaluación de protección:
-
-a).- De más de 10 hasta 200 unidades
-
-de arqueo bruto $4,490.95 $4,491
-
-b).- De más de 200 hasta 500 unidades
-
-de arqueo bruto $5,597.88 $5,598
-
-c).- De más de 500 hasta 1,000 unidades
-
-de arqueo bruto $6,695.98 $6,696
-
-d).- De más de 1,000 hasta 5,000
-
-unidades de arqueo bruto $9,537.08 $9,537
-
-e).- De más de 5,000 hasta 10,000
-
-unidades de arqueo bruto $13,312.93 $13,313
-
-f).- De más de 10,000 unidades
-
-de arqueo bruto $22,054.10 $22,054
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-II.- Por la revisión y, en su caso, aprobación del Plan de Protección:
-
-a).- De más de 10 hasta 200 unidades
-
-de arqueo bruto $4,877.48 $4,877
-
-b).- De más de 200 hasta 500
-
-unidades de arqueo bruto $6,096.85 $6,097
-
-c).- De más de 500 hasta 1,000
-
-unidades de arqueo bruto $7,275.85 $7,276
-
-d).- De más de 1,000 hasta 5,000
-
-unidades de arqueo bruto $10,366.43 $10,366
-
-e).- De más de 5,000 hasta 10,000
-
-unidades de arqueo bruto $14,472.58 $14,473
-
-f).- De más de 10,000 unidades
-
-de arqueo bruto $23,986.84 $23,987
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones en el Plan de Protección de cada buque.
-
-> <small>(ADICIONADA, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
-
-III.- Por la verificación de la implantación del Plan de Protección y, en su caso, certificación o renovación anual:
-
-a).- De más de 10 y hasta 200 unidades
-
-de arqueo bruto $4,573.51 $4,574
-
-b).- De más de 200 y hasta 500 unidades
-
-de arqueo bruto $5,698.01 $5,698
-
-c).- De más de 500 y hasta 1,000 unidades
-
-de arqueo bruto $6,817.23 $6,817
-
-d).- De más de 1,000 y hasta 5,000 unidades
-
-de arqueo bruto $9,711.04 $9,711
-
-e).- De más de 5,000 y hasta 10,000 unidades
-
-de arqueo bruto $13,553.67 $13,554
-
-f).- De más de 10,000 unidades de arqueo
-
-bruto $22,451.19 $22,451
-
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-IV. Por el estudio, trámite y, en su caso, la
-
-expedición del certificado de cumplimiento
-
-por parte de las instalaciones portuarias $3,791.17 $3,791
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+Por el estudio, trámite y, en su caso, la expedición del certificado de cumplimiento por parte de las instalaciones portuarias, se pagará el derecho de cumplimiento del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, por cada instalación portuaria $3,927.65
 
 ###### ARTICULO 170-H.
 
-Se pagará el derecho de cumplimiento del Código Internacional de Gestión de la Seguridad, por cada buque o empresa, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, conforme a las cuotas de:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Por la revisión de documentación y, en su caso, expedición de documento de cumplimiento o certificado, según corresponda:
-
-a).- Por empresa $10,294.38 $10,294
-
-b).- Por buque:
-
-1.- De 10 hasta 200 unidades de arqueo
-
-bruto $3,758.28 $3,758
-
-2.- De más de 200 hasta 500 unidades
-
-de arqueo bruto $4,996.95 $4,997
-
-3.- De más de 500 hasta 1,000 unidades
-
-de arqueo bruto $5,980.88 $5,981
-
-4.- De más de 1,000 hasta 5,000 unidades
-
-de arqueo bruto $7,456.79 $7,457
-
-5.- De más de 5,000 hasta 10,000 unidades
-
-de arqueo bruto $10,622.94 $10,623
-
-6.- De más de 10,000 unidades de arqueo
-
-Bruto $14,792.35 $14,792
-
-También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones a los documentos de gestión de la seguridad de la empresa o de cada buque.
-
-II.- Por la verificación del cumplimiento del Código Internacional de Gestión de la Seguridad y, en su caso, expedición o renovación anual del documento de cumplimiento o certificado, según corresponda:
-
-a).- Por empresa $28,286.25 $28,286
-
-b).- Por buque:
-
-1.- De más de 10 y hasta 200
-
-unidades de arqueo bruto $4,573.51 $4,574
-
-2.- De más de 200 y hasta 500
-
-unidades de arqueo bruto $5,698.01 $5,698
-
-3.- De más de 500 y hasta 1,000
-
-unidades de arqueo bruto $6,817.23 $6,817
-
-4.- De más de 1,000 y hasta 5,000
-
-unidades de arqueo bruto $9,711.04 $9,711
-
-5.- De más de 5,000 y hasta 10,000
-
-unidades de arqueo bruto $13,553.67 $13,554
-
-6.- De más de 10,000 unidades
-
-de arqueo bruto $22,451.19 $22,451
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 170-I.
 
-Por la revisión y, en su caso, aprobación u homologación de chalecos salvavidas, aros salvavidas, dispositivos y medios de salvamento, por cada tipo, se pagará anualmente el derecho conforme a la cuota de:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-$3,399.85 $3,400
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 ###### ARTICULO 170-J.
 
-No pagarán los derechos a que se refieren los artículos 169, 170-G y 170-H de esta Ley, las siguientes embarcaciones:
-
-I.- Las dedicadas exclusivamente a fines educativos, humanitarios o científicos.
-
-II.- Las pertenecientes al Gobierno Federal, Estados o Municipios, que estén dedicadas a servicios oficiales.
+(DEROGADO, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 171.
 
-Por la expedición y en su caso reposición de los siguientes documentos, se pagará el derecho de identidad marítima, conforme a las siguientes cuotas:
+Por la expedición y en su caso reposición de los siguientes documentos, se pagará el derecho correspondiente, conforme a las siguientes cuotas:
 
 Cuota
 
 Sin ajuste Con ajuste
 
-I.- Expedición y reposición de Libretas de
+I.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-mar e identidad Marítima $359.72 $360
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 II.- Títulos profesionales al Personal de la
 
@@ -8261,21 +7527,29 @@ marina mercante nacional, tanto de cubierta
 
 como de máquinas $1,080.17 $1,080
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 III.- Certificados de competencia para mandar
 
 embarcaciones, tanto en el departamento de
 
 cubierta como en el de máquinas $719.95 $720
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+
 IV.- Certificados de competencia especial para
 
 mandar o laborar en buques especializados $1,440.46 $1,440
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-V.- Documento oficial para poder ejercer como tripulante a bordo de las embarcaciones mercantes mexicanas:
+V.- Documento oficial para poder ejercer como tripulante en la categoría inmediata superior a bordo de las embarcaciones mercantes mexicanas:
 
-a).- Personal subalterno $719.95 $720
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+a).- Personal subalterno, para ejercer un cargo
+
+que requiera certificado de competencia $719.95
 
 b).- Personal titulado $1,080.17 $1,080
 
@@ -8923,6 +8197,20 @@ Sin ajuste Con ajuste
 
 $7,534.55 $7,535
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 173-C.
+
+Por el estudio y, en su caso, la expedición de la constancia de autorización para el uso y aprovechamiento de bandas de frecuencias del espectro radioeléctrico para uso secundario, así como por la autorización de las modificaciones técnicas, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por el otorgamiento $14,113.00
+
+II. Por aquellas modificaciones técnicas
+
+que no impliquen la ampliación de cobertura o
+
+cambio de ubicación geográfica $7,328.34
+
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
@@ -8975,6 +8263,10 @@ a). Por la expedición del título de concesión $19,504.61 $19,505
 
 b). Por la prórroga $8,629.38 $8,629
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+III. Para uso público, por la prórroga $8,629.38
+
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
@@ -8987,9 +8279,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
-
-I. Por la acreditación de representantes o apoderados, después de los primeramente designados $1,574.56 $1,575
+I. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -8997,39 +8287,35 @@ II. Por el cambio de la titularidad
 
 por cesión de derechos $17,088.41 $17,088
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-III. Por reformas a los estatutos sociales $3,409.14 $3,409
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+IV. Por la prestación de servicios adicionales para concesiones que hagan uso del espectro radioeléctrico $21,552.19
 
-IV. Por la prestación de un servicio adicional para concesiones que hagan uso del espectro radioeléctrico $21,552.19 $21,552
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+V. Por la prestación de servicios adicionales para concesiones que no hagan uso del espectro radioeléctrico $7,880.09
 
-V. Por la prestación de un servicio adicional para concesiones que no hagan uso del espectro radioeléctrico $7,880.09 $7,880
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
-
-VI. Por la ampliación de plazos para el cumplimiento de obligaciones establecidas en el título de concesión o autorizaciones $1,200.00 $1,200
+VI. Por la ampliación de plazos para el cumplimiento de obligaciones establecidas en cada título de concesión o en cada autorización $1,200.00
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 VII. Por cualquier supuesto de suscripción o enajenación de acciones o partes sociales que requiera autorización en términos de la Ley Federal de Telecomunicaciones y Radiodifusión $12,307.38 $12,307
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-VIII. Por las modificaciones a cada estación de radiodifusión que requiera de estudio técnico, tales como potencia, ubicación de planta transmisora, instalación y operación de equipo complementario de zona de sombra y cambio de altura del centro eléctrico $11,453.00 $11,453
+VIII. Por las modificaciones a cada estación de radiodifusión que requiera de estudio técnico, tales como potencia, ubicación de planta transmisora, instalación y operación de equipo complementario de zona de sombra, cambio de altura del centro eléctrico y horario de operación tratándose de estaciones de amplitud modulada $11,453.00
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-IX. Por las modificaciones a cada estación de radiodifusión que no requiera de estudio técnico, tales como horario de operación, distintivo de llamada y autorización de transmisiones digitales $6,264.22 $6,264
+IX. Por las modificaciones a cada estación de radiodifusión que no requiera de estudio técnico, tal como distintivo de llamada $6,264.22
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-X. Por el cambio de canal, frecuencias,
-
-bandas de frecuencias o recursos orbitales $13,785.43 $13,785
+X. Por el cambio o el intercambio, por título de concesión involucrado en la operación de que se trate, de canal, frecuencias, bandas de frecuencias o recursos orbitales $13,785.43
 
 XI. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2016)
 
@@ -9071,11 +8357,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. Por la acreditación de representantes o
-
-apoderados, después de los primeramente
-
-designados $1,574.56 $1,575
+I. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 II. Por cambio en la titularidad por cesión
 
@@ -9083,7 +8365,7 @@ o transferencia de derechos, según
 
 corresponda $3,278.96 $3,279
 
-III. Por reformas a los estatutos sociales $3,409.14 $3,409
+III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 IV. Por la ampliación de plazos para el
 
@@ -9125,11 +8407,7 @@ Cuota
 
 Sin ajuste Con ajuste
 
-I. Por la acreditación de representantes o
-
-apoderados, después de los primeramente
-
-designados $1,574.56 $1,575
+I. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 II. Por cambio en la titularidad por cesión
 
@@ -9137,7 +8415,7 @@ o transferencia de derechos, según
 
 corresponda $3,278.96 $3,279
 
-III. Por reformas a los estatutos sociales $3,409.14 $3,409
+III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 IV. Por la ampliación de plazos para el
 
@@ -9165,33 +8443,35 @@ II. Por la prórroga $5,933.53 $5,934
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 174-I.
 
-Por el estudio y, en su caso, aprobación de las solicitudes de modificaciones técnicas, administrativas y legales de la autorización para la explotación de los derechos de emisión y recepción de señales y bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en el territorio nacional, se pagarán derechos conforme a las siguientes cuotas:
+Por el estudio y, en su caso, aprobación de las solicitudes de modificaciones técnicas, administrativas y legales de las concesiones y autorizaciones para explotar los derechos de emisión y recepción de señales y bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en el territorio nacional, se pagarán derechos conforme a las siguientes cuotas:
 
 Cuota
 
 Sin ajuste Con ajuste
 
-I. Por la acreditación de representantes o
+I. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-apoderados, después de los primeramente
-
-designados $1,574.56 $1,575
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 II. Por el cambio en la titularidad por
 
 transferencia de derechos $3,278.96 $3,279
 
-III. Por reformas a los estatutos sociales $3,409.14 $3,409
+III. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 IV. Por la ampliación de plazos para el
 
 cumplimiento de obligaciones establecidas
 
 en la autorización $1,200.00 $1,200
+
+> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 V. Por modificación en las
 
@@ -9241,31 +8521,55 @@ II. Por Exámenes $699.27 $699
 
 III. Por Revalidación $1,012.85 $1,013
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-###### ARTÍCULO 174-L.
+###### ARTICULO 174-L.
 
-Para los efectos de los artículos 173, 174-A, 174-B y 174-C, se estará a lo siguiente:
+Para los efectos de los artículos 5, fracciones I y III, 173, 174-A, 174-B y 174-C, se estará a lo siguiente:
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 I. Tratándose de las concesiones para uso público y social, previstas en el artículo 173, se pagará el 20% de las cuotas establecidas en el apartado C del mismo.
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-II. Tratándose de las concesiones para uso social, previstas en el artículo 174-B, se pagará el 20% de las cuotas establecidas en la fracción II del mismo.
+II. Tratándose de las concesiones para uso social y público, previstas en el artículo 174-B, se pagará el 20% de las cuotas establecidas en las fracciones II y III del mismo, respectivamente.
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-III. No se pagarán los derechos a que se refieren los artículos 173, 174-A y 174-B, cuando el servicio se vincule a concesiones para uso social comunitario o indígena.
+III. No se pagarán los derechos a que se refieren los artículos 5, fracciones I y III, 173, 174-A, 174-B y 174-C, cuando el servicio se vincule a concesiones para uso social comunitario o indígena.
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 IV. Tratándose de las modificaciones de concesiones para uso público y social previstas en el artículo 174-C, se pagará el 50% de las cuotas establecidas en el mismo, según corresponda.
 
-> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+V. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-V. Tratándose de las modificaciones de concesiones para uso social comunitario o indígena, previstas en el artículo 174-C, se pagará el 20% de las cuotas establecidas en el mismo, según corresponda.
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 174-L
+
+1. Por el estudio y, en su caso, la expedición de licencia de estación de radio a bordo de barcos y/o aeronaves $1,569.74
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 174-L
+
+2. Por el estudio y, en su caso, la asignación de códigos de identidad del servicio móvil marítimo MMSI $1,569.74
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 174-L
+
+3. Por el estudio de la solicitud y, en su caso, la acreditación de peritos en materia de telecomunicaciones y/o radiodifusión, se pagarán los derechos conforme a las siguientes cuotas:
+
+I. Por la acreditación de perito por primera vez $6,662.22
+
+II. Por la revalidación de la acreditación $2,838.73
+
+III. Por la acreditación de perito en una
+
+segunda especialidad $2,570.75
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -10381,7 +9685,11 @@ para la sustitución de titular de los derechos
 
 de la concesión acuícola $2,089.54 $2,090
 
-VIII.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+VIII.- Por el otorgamiento de un permiso
+
+para acuacultura comercial $3,936.78
 
 IX.- (DEROGADA, D.O.F. 27 DE NOVIEMBRE DE 2009)
 
@@ -10455,49 +9763,29 @@ para explotar, usar o aprovechar aguas nacionales
 
 incluyendo su registro $4,077.69 $4,078
 
-II.- Por cada permiso de descarga de aguas
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-residuales provenientes de procesos
+II.- Por cada permiso de descarga de aguas residuales
 
-industriales a un cuerpo receptor, incluyendo
+a un cuerpo receptor, incluyendo su registro $5,584.73
 
-su registro $5,584.73 $5,585
+III.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-III.- Por cada permiso de descarga de aguas
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-residuales, distintas a las que prevé la fracción
+IV.- Por la prórroga o modificación, a petición de
 
-anterior, incluyendo su registro $1,861.47 $1,861
+parte interesada, de los títulos o permisos a que se
 
-IV.- Por cada prórroga o modificación, a
+refieren las fracciones I y II de este artículo $2,085.26
 
-petición de parte interesada, a las
-
-características de los títulos o permisos
-
-a que se refieren las fracciones I, II y III
-
-de este artículo, respecto a la extracción,
-
-derivación, a la explotación, uso o
-
-aprovechamiento de aguas nacionales,
-
-profundización, sustitución de usuarios,
-
-relocalización o reposición de pozos,
-
-punto o calidad de descarga o plazo $2,085.26 $2,085
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 V.- Por cada transmisión de títulos de concesión
 
-y permisos de descarga cuando se modifiquen
+y permisos de descarga $3,758.49
 
-las características del título $3,758.49 $3,758
-
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
-
-Tratándose de los casos previstos en las fracciones IV y V de este artículo, los interesados pagarán además el derecho de la inscripción correspondiente en el Registro Público de Derechos de Agua en términos del artículo 192-C de esta Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
@@ -10541,55 +9829,127 @@ subsuelo o para la construcción de obras en
 
 zona federal $5,277.15 $5,277
 
-IV.- Por cada título de concesión para el uso
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-o aprovechamiento de infraestructura hidráulica
+IV.- Por cada permiso que corresponda autorizar a la Comisión
 
-federal, incluyendo la prestación de los
+Nacional del Agua para la construcción de las siguientes obras
 
-servicios respectivos $5,553.80 $5,554
+hidráulicas u obras que afecten bienes nacionales a cargo de la
 
-V.- Por la prórroga o modificación, a petición
+Comisión Nacional del Agua: $305,508.98
 
-de parte interesada, a las características de
+a). Presas con capacidad de almacenamiento igual o mayor a tres
 
-los títulos o permisos a que se refieren las
+millones de metros cúbicos o con una cortina de igual o mayor
 
-fracciones I a IV de este artículo, respecto a la
+a quince metros de altura desde la parte más baja de la cimentación
 
-explotación, uso o aprovechamiento, sustitución
+hasta la corona;
 
-de usuario, ubicación o plazo, por cada uno $2,085.26 $2,085
+b). Puentes carreteros que comunican a zonas metropolitanas a
+
+que se refiere la Ley General de Asentamientos Humanos,
+
+Ordenamiento Territorial y Desarrollo Urbano;
+
+c). Puentes carreteros de caminos y carreteras a que se refiere la
+
+Ley de Caminos, Puentes y Autotransporte Federal;
+
+d). Puentes ferroviarios de vías férreas que sean vías generales
+
+de comunicación a que se refiere la Ley Reglamentaria del
+
+Servicio Ferroviario;
+
+e). Puentes, canales o tuberías de conducción de agua para riego
+
+de áreas mayores a diez mil hectáreas o para abastecimiento
+
+de agua potable a zonas metropolitanas a que se refiere la Ley
+
+General de Asentamientos Humanos, Ordenamiento Territorial
+
+y Desarrollo Urbano;
+
+f). Puentes para ductos de hidrocarburos, petrolíferos y
+
+petroquímicos con diámetros iguales o mayores a 50.8 centímetros;
+
+g). De encauzamiento de corrientes libres en zonas agrícolas
+
+mayores a diez mil hectáreas o para la protección a zonas
+
+metropolitanas a que se refiere la Ley General de Asentamientos
+
+Humanos, Ordenamiento Territorial y Desarrollo Urbano;
+
+h). Presas de jales a que se refiere la norma oficial mexicana
+
+NOM-141-SEMARNAT-2003 o la que la sustituya;
+
+i). Pozo exploratorio costero y pozo de extracción costero,
+
+entendido el primero como el pozo construido en la franja
+
+terrestre comprendida entre la bajamar y un kilómetro tierra
+
+adentro de la pleamar, con el fin de investigar el
+
+comportamiento hidrodinámico, las características hidráulicas
+
+y la salinidad del agua del acuífero y; el segundo como aquel
+
+pozo construido en la franja terrestre comprendida entre la
+
+bajamar y un kilómetro tierra adentro de la pleamar, cuyo
+
+caudal de extracción procede del mar;
+
+j). Pozo, pozo de alivio, pozo de avanzada, pozo de disposición
+
+y pozo exploratorio, todos ellos para la exploración y extracción
+
+de hidrocarburos en yacimientos no convencionales, y
+
+k). Para la exploración o explotación de yacimientos geotérmicos
+
+hidrotermales a que se refiere la Ley de Aguas Nacionales.
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+V.- Por cada título de concesión para el uso o aprovechamiento
+
+de infraestructura hidráulica federal, incluyendo la prestación de
+
+los servicios respectivos $5,553.80
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+VI.- Por la prórroga o modificación, a petición de parte
+
+interesada, de los títulos o permisos a que se refieren las
+
+fracciones I a V de este artículo $2,085.26
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+VII.- Por cada transmisión de títulos de concesión a que
+
+se refieren las fracciones I, II y V de este artículo $3,893.80
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Los derechos a que se refiere este artículo, se pagarán independientemente de los que corresponden por el uso o goce de inmuebles, conforme al Título II de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Tratándose del caso previsto en la fracción V de este artículo, los interesados pagarán además el derecho de la inscripción correspondiente en el Registro Público de Derechos de Agua en términos del artículo 192-C de esta Ley.
-
-> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 192-B.
 
-Por la expedición de los certificados siguientes, se pagarán derechos conforme a las siguientes cuotas:
-
-Cuota
-
-Sin ajuste Con ajuste
-
-I.- Por la expedición del certificado de calidad
-
-del agua, a que se refieren las fracciones V
-
-del artículo 224 y IV del artículo 282, por
-
-cada uno $5,398.85 $5,399
-
-II.- (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2013)
+Por el estudio y trámite y, en su caso, la expedición del certificado de calidad del agua, a que se refiere la fracción V del artículo 224, se pagarán derechos conforme a la cuota de $5,593.21
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
@@ -11683,19 +11043,19 @@ y embalajes de madera que se importan como
 
 soporte de mercancías $ 198.41 $ 198
 
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 IV.- Por la expedición del acta para la certificación
 
-de dispositivos excluidores de tortugas
+de dispositivos excluidores de tortugas marinas
 
-marinas a embarcaciones mayores dedicadas
+a embarcaciones mayores dedicadas al aprovechamiento
 
-al aprovechamiento de todas las especies de
+de todas las especies de camarón en aguas marinas
 
-camarón en aguas marinas de jurisdicción
+de jurisdicción federal, que acrediten la debida
 
-federal, que acrediten la debida instalación
-
-de los excluidores, por cada acta $ 1,991.45 $ 1,991
+instalación de los excluidores, por cada acta $2,327.72
 
 V.- Por la expedición de la constancia de no
 
@@ -13299,13 +12659,1053 @@ Por la modificación de la opinión respectiva $5,023.88 $5,024
 
 ### CAPITULO XX. De la Secretaría de Marina
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 1 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-#### SECCION UNICA. Cartas Náuticas
+#### SECCION UNICA. Servicios Marítimos
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 195-Z.
 
-(DEROGADO, D.O.F. 18 DE NOVIEMBRE DE 2010)
+Por la solicitud, análisis y, en su caso, resolución de trámites a cargo de la Secretaría de Marina en el ejercicio de la Autoridad Marítima Nacional, se pagarán derechos conforme a las siguientes cuotas:
+
+I. Por el abanderamiento o dimisión de bandera de embarcaciones o artefactos navales, tomando en cuenta la unidad de arqueo bruto:
+
+a). Hasta de 50 unidades de arqueo bruto $1,224.38
+
+b). De más de 50 hasta 500 unidades de
+
+arqueo bruto $1,465.70
+
+c). De más de 500 hasta 5,000 unidades de
+
+arqueo bruto $2,763.08
+
+d). De más de 5,000 hasta 15,000 unidades
+
+de arqueo bruto $3,806.76
+
+e). De 15,000.01 hasta 25,000 unidades de
+
+arqueo bruto $8,851.47
+
+f). De 25,000.01 hasta 50,000 unidades de
+
+arqueo bruto $12,780.77
+
+g). De más de 50,000.01 unidades
+
+de arqueo bruto $14,409.42
+
+II. Por la expedición del certificado de matrícula para embarcaciones o artefactos navales, tomando en cuenta la unidad de arqueo bruto:
+
+a). Tratándose de embarcaciones para el servicio de recreo o deportivas:
+
+1. Hasta de 5 unidades de arqueo bruto $1,066.91
+
+2. De 5.01 hasta 10 unidades de
+
+arqueo bruto $1,234.38
+
+3. De 10.01 hasta 20 unidades de
+
+arqueo bruto $1,526.85
+
+b). Embarcaciones para navegación interior de carga, pasajeros o mixto (carga y pasaje):
+
+1. Hasta de 5 unidades de arqueo bruto $1,066.91
+
+2. De 5.01 hasta 10 unidades de
+
+arqueo bruto $1,234.38
+
+3. De 10.01 hasta 20 unidades de
+
+arqueo bruto $1,401.85
+
+c). Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
+
+1. Hasta de 5 unidades de arqueo bruto $937.58
+
+2. De 5.01 hasta 10 unidades de
+
+arqueo bruto $1,234.38
+
+3. De 10.01 hasta 20 unidades de
+
+arqueo bruto $1,401.85
+
+d). Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
+
+1. Hasta de 5 unidades de arqueo bruto $959.00
+
+2. De 5.01 hasta 10 unidades de
+
+arqueo bruto $1,268.18
+
+3. De 10.01 hasta 20 unidades
+
+de arqueo bruto $1,478.70
+
+e). Para embarcaciones que efectúen en cualquier tipo de servicio, navegación de altura, cabotaje e interior, o para artefactos navales que efectúen cualquier tipo de servicio:
+
+1. De 20.01 hasta 100 unidades de
+
+arqueo bruto $1,483.92
+
+2. De 100.01 hasta 500 unidades
+
+de arqueo bruto $1,734.72
+
+3. De 500.01 hasta 5,000 unidades
+
+de arqueo bruto $2,044.70
+
+4. De 5,000.01 hasta 15,000 unidades
+
+de arqueo bruto $2,354.71
+
+5. De 15,000.01 hasta 25,000 unidades
+
+de arqueo bruto $6,761.89
+
+6. De 25,000.01 hasta 50,000 unidades
+
+de arqueo bruto $9,466.13
+
+7. De más de 50,000.01 unidades
+
+de arqueo bruto $10,819.73
+
+f). Para el caso de las embarcaciones de
+
+hasta 10 metros de eslora sin cubierta corrida,
+
+destinadas a la pesca ribereña, se pagará la
+
+cuota de $278.39
+
+III. Por la reposición o modificación del certificado de matrícula por cambio de características, cambio de nombre de la embarcación o artefacto naval, cambio de propietario, cambio del tipo de navegación o cambio de puerto:
+
+a). Tratándose de embarcaciones para el servicio de recreo o deportivas:
+
+1. Hasta de 5 unidades de arqueo bruto $921.07
+
+2. De 5.01 hasta 10 unidades de
+
+arqueo bruto $1,240.55
+
+3. De 10.01 hasta 20 unidades
+
+de arqueo bruto $1,524.84
+
+b). Embarcaciones para navegación interior de carga, pasajeros o mixto (carga y pasaje):
+
+1. Hasta de 5 unidades de arqueo bruto $911.07
+
+2. De 5.01 hasta 10 unidades de
+
+arqueo bruto $924.81
+
+3. De 10.01 hasta 20 unidades de
+
+arqueo bruto $1,293.71
+
+c). Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
+
+1. Hasta de 5 unidades de arqueo bruto $921.07
+
+2. De 5.01 hasta 10 unidades de
+
+arqueo bruto $956.07
+
+3. De 10.01 hasta 20 unidades de
+
+arqueo bruto $1,189.65
+
+d). Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
+
+1. Hasta de 5 unidades de arqueo bruto $883.67
+
+2. De 5.01 hasta 10 unidades de
+
+arqueo bruto $921.07
+
+3. De 10.01 hasta 20 unidades de
+
+arqueo bruto $1,293.71
+
+e). Para embarcaciones o artefactos navales que efectúen cualquier tipo de servicio y/o cualquier tipo de navegación:
+
+1. De 20.01 hasta 100 unidades de
+
+arqueo bruto $1,682.10
+
+2. De 100.01 hasta 500 unidades
+
+de arqueo bruto $1,811.96
+
+3. De 500.01 hasta 5,000 unidades de
+
+arqueo bruto $1,968.90
+
+4. De 5,000.01 hasta 15,000 unidades
+
+de arqueo bruto $2,503.73
+
+5. De 15,000.01 hasta 25,000 unidades
+
+de arqueo bruto $6,518.32
+
+6. De 25,000.01 hasta 50,000 unidades
+
+de arqueo bruto $8,909.17
+
+7. De más de 50,000.01 unidades de
+
+arqueo bruto $10,142.73
+
+f). Para el caso de las embarcaciones de
+
+hasta 10 metros de eslora sin cubierta corrida,
+
+destinadas a la pesca ribereña, se pagará
+
+la cuota de $278.39
+
+IV. Por expedición de pasavantes, se cobrarán las siguientes cuotas por unidades de arqueo bruto:
+
+a). Hasta de 5 unidades de arqueo bruto $145.52
+
+b). De más de 5 hasta 10 unidades de
+
+arqueo bruto $255.08
+
+c). De más de 10 hasta 20 unidades
+
+de arqueo bruto $364.53
+
+d). De 20.01 hasta 100 unidades de
+
+arqueo bruto $912.43
+
+e). De 100.01 hasta 500 unidades de
+
+arqueo bruto $1,094.96
+
+f). De 500.01 hasta 1,000 unidades
+
+de arqueo bruto $1,460.09
+
+g). De 1,000.01 hasta 5,000 unidades
+
+de arqueo bruto $2,555.70
+
+h). De 5,000.01 hasta 15,000 unidades
+
+de arqueo bruto $3,285.97
+
+i). De 15,000.01 hasta 25,000 unidades
+
+de arqueo bruto $4,381.63
+
+j). De 25,000.01 hasta 50,000 unidades
+
+de arqueo bruto $5,477.22
+
+k). De más de 50,000.01 unidades de
+
+arqueo bruto $7,303.15
+
+V. Por la revisión de los cálculos de arqueo y de francobordo y, en su caso, por la expedición de certificados, de conformidad con lo siguiente:
+
+a). Hasta 1,000 unidades de arqueo bruto $4.7016
+
+b). De más de 1,000 hasta 5,000 unidades
+
+de arqueo bruto, por las primeras 1,000, la
+
+cuota señalada en el inciso anterior, y por
+
+cada una o fracción de las excedentes $2.4516
+
+c). De más de 5,000 hasta 15,000 unidades de arqueo
+
+bruto, por las primeras 5,000, la cuota señalada en
+
+el inciso anterior y por cada una o fracción
+
+de las excedentes $2.1959
+
+d). De más de 15,000 unidades de arqueo bruto,
+
+por las primeras 15,000, la cuota señalada en el inciso
+
+anterior y por cada una o fracción de las excedentes $1.9402
+
+VI. Por la expedición de autorización para la extracción,
+
+remoción o reflotación de embarcaciones, aeronaves
+
+o artefactos navales $5,696.11
+
+VII. Por la autorización para el desguace de
+
+embarcaciones o artefactos navales $7,700.94
+
+VIII. Por autorizar el embarque de técnicos
+
+extranjeros en embarcaciones y artefactos navales
+
+con permiso o autorización para operar en las zonas
+
+marinas mexicanas, por cada técnico $1,293.10
+
+IX. Autorización para realizar regatas o
+
+competencias deportivas náuticas $1,349.89
+
+X. Autorización de amarre temporal de
+
+embarcaciones y artefactos navales $1,355.43
+
+No pagarán los derechos a que se refiere este artículo, las embarcaciones o artefactos navales siguientes:
+
+I. Las dedicadas exclusivamente a fines humanitarios o científicos, y
+
+II. Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+1. Por la solicitud, análisis y, en su caso, por el abanderamiento, dimisión de bandera, expedición de certificado de matrícula, reposición o modificación del certificado de matrícula de una unidad fija mar adentro, se tomará en cuenta su peso en toneladas:
+
+I. Hasta 5,000 toneladas $1,417.60
+
+II. De más de 5,000 hasta 10,000 toneladas $1,765.32
+
+III. De más de 10,000 hasta 20,000 toneladas $1,932.60
+
+IV. De más de 20,000 hasta 30,000 toneladas $2,344.60
+
+V. De más de 30,000 hasta 40,000 toneladas $6,374.79
+
+VI. De más de 40,000 hasta 50,000 toneladas $8,846.81
+
+VII. De más de 50,000 toneladas $10,280.90
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+2. Por la solicitud, análisis y, en su caso, expedición de permisos, o la renovación de éstos, para la explotación de embarcaciones, se pagará anualmente el derecho por cada embarcación conforme a las cuotas siguientes:
+
+I. Transporte de pasajeros para embarcaciones menores en navegación interior:
+
+a). Embarcaciones cuya capacidad sea hasta 3.5 unidades
+
+de arqueo bruto $832.04
+
+b). Embarcaciones mayores a 3.5 y menores
+
+de 500 unidades de arqueo bruto $1,664.08
+
+II. Turismo náutico:
+
+a). Embarcaciones cuya capacidad sea hasta 3.5 unidades
+
+de arqueo bruto $1,764.53
+
+b). Embarcaciones mayores a 3.5 y menores
+
+de 500 unidades de arqueo bruto $4,643.83
+
+c). Embarcaciones de 500 o más unidades
+
+de arqueo bruto $6,206.54
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+3. Por la solicitud, análisis y, en su caso, expedición del permiso de transporte de pasajeros en navegación interior y turismo náutico, en el que se incluyan hasta cinco embarcaciones, se pagará la cuota anual de $4,579.72
+
+Tratándose de:
+
+I. Servicio de transporte de pasajeros con embarcaciones de hasta de 3.5 unidades de arqueo bruto.
+
+II. Servicio de turismo náutico, con embarcaciones de recreo o deportivas, tales como motos acuáticas, kayaks, botes de remos y otras de hasta 3 metros de eslora.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+4. Por el reconocimiento y, en su caso, expedición de certificados o revalidación anual de certificados de seguridad para salvaguardar la vida humana en el mar y prevenir la contaminación, se pagará conforme a las siguientes cuotas:
+
+I. Por el reconocimiento de embarcaciones o artefactos navales:
+
+a). Hasta 10 unidades de arqueo bruto $418.08
+
+b). De más de 10 y hasta 20 unidades de
+
+arqueo bruto $469.21
+
+c). De más de 20 y hasta 50 unidades de
+
+arqueo bruto $819.34
+
+d). De más de 50 y hasta 75 unidades de
+
+arqueo bruto $2,932.68
+
+e). De más de 75 y hasta 100 unidades de
+
+arqueo bruto $3,379.33
+
+f). De más de 100 y hasta 200 unidades de
+
+arqueo bruto $4,502.65
+
+g). De más de 200 y hasta 300 unidades de
+
+arqueo bruto $5,581.46
+
+h). De más de 300 y hasta 500 unidades de
+
+arqueo bruto $7,961.35
+
+i). De más de 500 y hasta 1,000 unidades de
+
+arqueo bruto $10,684.34
+
+j). De más de 1,000 y hasta 2,000 unidades
+
+de arqueo bruto $12,694.67
+
+k). De más de 2,000 unidades de arqueo brutos,
+
+por las primeras 2,000 la cuota señalada en el
+
+inciso anterior, y por cada una o fracción de las excedentes $3.1650
+
+Si se efectúa un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
+
+II. Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos y proyectos de construcción:
+
+a). Hasta de 100 unidades de arqueo bruto $3,474.36
+
+b). De más de 100 hasta 500 unidades de
+
+arqueo bruto $4,360.74
+
+c). De más de 500 hasta 1,000 unidades de
+
+arqueo bruto $5,307.84
+
+d). De más de 1,000 a 5,000 unidades de
+
+arqueo bruto $6,925.91
+
+e). De más de 5,000 a 10,000 unidades de
+
+arqueo bruto $8,395.92
+
+f). De más de 10,000 unidades de
+
+arqueo bruto $10,681.14
+
+III. Por la revisión y, en su caso, aprobación de especificaciones técnicas, planos o proyectos que impliquen reformas o modificaciones:
+
+a). Hasta de 100 unidades de arqueo bruto $1,531.12
+
+b). De más de 100 hasta 500 unidades de
+
+arqueo bruto $2,110.68
+
+c). De más de 500 hasta 1,000 unidades de
+
+arqueo bruto $4,582.34
+
+d). De más de 1,000 a 5,000 unidades de
+
+arqueo bruto $5,519.87
+
+e). De más de 5,000 a 10,000 unidades de
+
+arqueo bruto $7,501.82
+
+f). De más de 10,000 unidades de
+
+arqueo bruto $9,683.69
+
+IV. Por el reconocimiento total en los casos de construcción, reparación o modificación para verificar el estado de avance y el cumplimiento de las especificaciones y normas aplicables, se pagarán los derechos correspondientes de acuerdo a las unidades de arqueo bruto conforme a las siguientes cuotas:
+
+a). Hasta 50 unidades de arqueo bruto,
+
+comprendiendo 3 inspecciones parciales $7,236.19
+
+b). De más de 50 hasta 100 unidades de arqueo
+
+bruto, comprendiendo 3 inspecciones parciales $10,645.38
+
+c). De más de 100 hasta 200 unidades de arqueo
+
+bruto, comprendiendo 4 inspecciones parciales $14,452.68
+
+d). De más de 200 hasta 300 unidades de arqueo
+
+bruto, comprendiendo 4 inspecciones parciales $17,500.03
+
+e). De más de 300 hasta 500 unidades de arqueo
+
+bruto, comprendiendo 4 inspecciones parciales $20,932.82
+
+f). De más de 500 hasta 1000 unidades de arqueo
+
+bruto, comprendiendo 4 inspecciones parciales $27,840.33
+
+g). De más de 1000 hasta 5000 unidades de arqueo
+
+bruto, comprendiendo 4 inspecciones parciales $34,353.64
+
+h). De más de 5000 hasta 15000 unidades de arqueo bruto,
+
+comprendiendo 5 inspecciones parciales $43,200.21
+
+i). De más de 15000 hasta 25000 unidades de arqueo
+
+bruto, comprendiendo 5 reparaciones parciales $52,024.70
+
+j). De más de 25000 hasta 50000 unidades de arqueo bruto,
+
+comprendiendo 6 inspecciones parciales $86,505.55
+
+k). De más de 50000 unidades de arqueo bruto en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más $3.4955 por cada unidad de arqueo bruto o fracción excedente.
+
+V. Por el reconocimiento en dique seco o testificación de inspección submarina de embarcaciones y artefactos navales, conforme a las siguientes cuotas:
+
+a). Hasta 200 unidades de arqueo bruto $5,639.15
+
+b). De más de 200 hasta 300 unidades de
+
+arqueo bruto $6,785.88
+
+c). De más de 300 hasta 1000 unidades
+
+de arqueo bruto $9,063.57
+
+d). De más de 1000 hasta 5000 unidades
+
+de arqueo bruto $11,181.89
+
+e). De más de 5000 hasta 10000 unidades de
+
+arqueo bruto $16,083.76
+
+f). De más de 10000 unidades de arqueo
+
+bruto $20,648.20
+
+VI. Por el reconocimiento de unidades fijas mar adentro:
+
+a). Hasta 300 toneladas $5,581.46
+
+b). De más de 300 y hasta 500 toneladas $7,961.35
+
+c). De más de 500 y hasta 1,000 toneladas $10,684.34
+
+d). De más de 1,000 y hasta 2,000 toneladas $12,694.67
+
+e). De más de 2,000 toneladas, por las
+
+primeras 2,000 la cuota señalada en el inciso
+
+anterior, y por cada una o fracción de las
+
+excedentes $3.1650
+
+Si se efectúa un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+5. Por la autorización y determinación de señalamiento marítimo con que deben cumplir las instalaciones privadas o concesionadas, se pagará el derecho de señalamiento marítimo, conforme a las siguientes cuotas:
+
+I. Señales en escolleras $6,463.56
+
+II. Señales en faros $32,590.48
+
+III. Señales en muelles $7,619.50
+
+IV. Señales en atracaderos y peines de
+
+marinas turísticas $25,272.23
+
+V. Señales de enfilaciones $14,680.06
+
+VI. Señales flotantes $15,539.84
+
+VII. Señales diurnas $8,738.13
+
+VIII. Señales laterales fijas $7,335.90
+
+IX. Señales acústicas $15,920.25
+
+X. Señales radioeléctricas $25,864.02
+
+XI. Otras señales $7,291.27
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+6. Por los servicios de verificación de las pruebas de estabilidad, banco, botadura, sistemas y equipamiento, pruebas de mar y tirón a punto fijo, se pagará por cada embarcación, conforme a las siguientes cuotas:
+
+I. Hasta 200 unidades de arqueo bruto $5,749.95
+
+II. De más de 200 hasta 300 unidades
+
+de arqueo bruto $6,785.88
+
+III. De más de 300 hasta 1,000 unidades
+
+de arqueo bruto $9,063.57
+
+IV. De más de 1,000 hasta 5,000 unidades
+
+de arqueo bruto $11,181.89
+
+V. De más de 5,000 hasta 10,000 unidades
+
+de arqueo bruto $16,083.76
+
+VI. De más de 10,000 unidades de
+
+arqueo bruto $20,648.20
+
+VII. Por la revisión del protocolo de la prueba
+
+de estabilidad, banco, botadura, sistemas y
+
+equipamiento, pruebas de mar y tirón a punto
+
+fijo, se pagará por cada embarcación $1,854.99
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+7. Por la revisión de los documentos técnicos, de embarcaciones y artefactos navales, establecidos en el Reglamento de la Ley de Navegación y Comercio Marítimos y, en su caso, expedición del documento de cumplimiento, se pagará por cada documento presentado, las siguientes cuotas:
+
+I. Hasta 200 unidades de arqueo bruto $6,149.08
+
+II. De más de 200 hasta 300 unidades
+
+de arqueo bruto $6,922.25
+
+III. De más de 300 hasta 1,000 unidades
+
+de arqueo bruto $9,455.81
+
+IV. De más de 1,000 hasta 5,000 unidades
+
+de arqueo bruto $10,648.17
+
+V. De más de 5,000 hasta 10,000 unidades
+
+de arqueo bruto $16,214.84
+
+VI. De más de 10,000 unidades de
+
+arqueo bruto $20,896.65
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+8. Por la revisión del manual de operación de dique flotante y, en su caso, expedición del documento de aprobación, se pagará el derecho de revisión anual, conforme a las siguientes cuotas:
+
+I. Dique menor de 150 metros de eslora $20,722.14
+
+II. Dique de 150 metros o más de eslora $31,592.22
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+9. Por la inspección, verificación y, en su caso, expedición del documento de aprobación para estaciones de servicio a balsas salvavidas, botes totalmente cerrados, equipos contra incendio de las embarcaciones o artefactos navales, astilleros, varaderos, diques flotantes e instalaciones receptoras de desechos, se pagarán derechos, conforme a la cuota de $33,341.65
+
+Por el análisis de la solicitud y, en su caso, autorización del personal técnico distinto o del que sustituya al considerado en el certificado otorgado, se pagará el derecho por cada persona, conforme a la cuota de $2,025.38
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+10. Por la revisión de los documentos y, en su caso, autorización como inspector naval privado a personas físicas o morales, se pagarán anualmente las siguientes cuotas:
+
+I. Por persona moral $26,206.43
+
+II. Por persona física $3,474.36
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+11. Se pagará el derecho de cumplimiento del Código Internacional para la Protección de los Buques y de las Instalaciones Portuarias, por cada buque, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, conforme a las siguientes cuotas:
+
+I. Por la revisión de la evaluación de protección:
+
+a). De más de 10 hasta 200 unidades
+
+de arqueo bruto $5,519.87
+
+b). De más de 200 hasta 500 unidades
+
+de arqueo bruto $6,542.63
+
+c). De más de 500 hasta 1,000 unidades
+
+de arqueo bruto $7,680.76
+
+d). De más de 1,000 hasta 5,000 unidades
+
+de arqueo bruto $9,966.33
+
+e). De más de 5,000 hasta 10,000 unidades
+
+de arqueo bruto $13,982.03
+
+f). De más de 10,000 unidades de arqueo
+
+bruto $22,538.07
+
+II. Por la revisión y, en su caso, aprobación del Plan de Protección:
+
+a). De más de 10 hasta 200 unidades de
+
+arqueo bruto $5,819.22
+
+b). De más de 200 hasta 500 unidades de
+
+arqueo bruto $6,891.96
+
+c). De más de 500 hasta 1,000 unidades de
+
+arqueo bruto $9,303.64
+
+d). De más de 1,000 hasta 5,000 unidades
+
+de arqueo bruto $10,582.01
+
+e). De más de 5,000 hasta 10,000 unidades
+
+de arqueo bruto $15,893.35
+
+f). De más de 10,000 de unidades de arqueo bruto $25,701.30
+
+También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones en el Plan de Protección de cada buque.
+
+III. Por la verificación de la implantación del Plan de Protección y, en su caso, certificación o renovación anual:
+
+a). De más de 10 y hasta 200 unidades de
+
+arqueo bruto $5,519.87
+
+b). De más de 200 y hasta 500 unidades
+
+de arqueo bruto $6,542.63
+
+c). De más de 500 y hasta 1,000 unidades
+
+de arqueo bruto $7,680.76
+
+d). De más de 1,000 y hasta 5,000 unidades
+
+de arqueo bruto $9,966.33
+
+e). De más de 5,000 y hasta 10,000 unidades
+
+de arqueo bruto $15,303.38
+
+f). De más de 10,000 unidades de arqueo bruto $22,538.07
+
+IV. Por la expedición del Certificado Internacional de Protección del Buque y del Certificado Internacional de Protección del Buque Provisional:
+
+a). De más de 10 hasta 200 unidades de
+
+arqueo bruto $5,519.87
+
+b). De más de 200 y hasta 500 unidades
+
+de arqueo bruto $6,542.63
+
+c). De más de 500 y hasta 1,000 unidades
+
+de arqueo bruto $7,680.76
+
+d). De más de 1,000 y hasta 5,000 unidades
+
+de arqueo bruto $9,966.33
+
+e). De más de 5,000 y hasta 10,000 unidades
+
+de arqueo bruto $13,982.03
+
+f). De más de 10,000 unidades de arqueo bruto $22,538.07
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+12. Se pagará el derecho de cumplimiento del Código Internacional de Gestión de la Seguridad, por cada buque o empresa, con excepción de los buques pesqueros o de cualquier otro giro, que no siendo de altura, realicen su actividad en puertos nacionales, así como el cumplimiento del Sistema de Administración de la Seguridad (SAS), conforme a las cuotas de:
+
+I. Por la revisión de documentación y, en su caso, expedición de documento de cumplimiento o certificado, según corresponda:
+
+a). Por empresa $10,480.02
+
+b). Por buque:
+
+1. De 10 hasta 200 unidades de arqueo bruto $4,229.85
+
+2. De más de 200 hasta 500 unidades
+
+de arqueo bruto $5,081.29
+
+3. De más de 500 hasta 1,000 unidades
+
+de arqueo bruto $6,274.50
+
+4. De más de 1,000 hasta 5,000 unidades
+
+de arqueo bruto $8,758.64
+
+5. De más de 5,000 hasta 10,000 unidades
+
+de arqueo bruto $11,018.36
+
+6. De más de 10,000 unidades de
+
+arqueo bruto $15,364.04
+
+También se pagarán los derechos establecidos en esta fracción, cuando se lleven a cabo modificaciones a los documentos de gestión de la seguridad de la empresa o de cada buque.
+
+II. Por la verificación del cumplimiento del Código Internacional de Gestión de la Seguridad y, en su caso, expedición o renovación anual del documento de cumplimiento o certificado, según corresponda:
+
+a) Por empresa $28,745.00
+
+b) Por buque:
+
+1. De más de 10 y hasta 200 unidades de
+
+arqueo bruto $5,519.87
+
+2. De más de 200 y hasta 500 unidades
+
+de arqueo bruto $6,542.63
+
+3. De más de 500 y hasta 1,000 unidades
+
+de arqueo bruto $7,680.76
+
+4. De más de 1,000 y hasta 5,000 unidades
+
+de arqueo bruto $9,966.33
+
+5. De más de 5,000 y hasta 10,000 unidades
+
+de arqueo bruto $13,982.03
+
+6. De más de 10,000 unidades de
+
+arqueo bruto $22,538.07
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+13. Por la revisión y, en su caso, aprobación u homologación de chalecos salvavidas, aros salvavidas, dispositivos y medios de salvamento, por cada tipo, se pagará anualmente el derecho conforme a la cuota de $5,519.87
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+14. No pagarán los derechos a que se refieren los artículos 195-Z-4, 195-Z-11 y 195-Z-12 de esta Ley, las siguientes embarcaciones:
+
+I. Las dedicadas exclusivamente a fines educativos, humanitarios o científicos.
+
+II. Las pertenecientes al Gobierno Federal, Estados o Municipios, que estén dedicadas a servicios oficiales.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+15. Por la expedición y, en su caso, reposición de los siguientes documentos, se pagará el derecho conforme a las siguientes cuotas:
+
+I. Expedición y reposición de libreta de mar y documento
+
+de identidad marítima se pagará por cada uno $444.99
+
+II. Por la expedición o reposición de refrendo y
+
+dispensa a personal subalterno $719.45
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+16. Por la revisión y, en su caso, validación de:
+
+I. Cada certificado estatutario emitido por los inspectores navales privados y las Organizaciones Reconocidas (OR) autorizadas, conforme a las siguientes cuotas:
+
+a). Hasta 10 unidades de arqueo bruto $41.78
+
+b). De más de 10 y hasta 20 unidades
+
+de arqueo bruto $46.89
+
+c). De más de 20 y hasta 50 unidades
+
+de arqueo bruto $81.20
+
+d). De más de 50 y hasta 75 unidades
+
+de arqueo bruto $293.23
+
+e). De más de 75 y hasta 100 unidades
+
+de arqueo bruto $337.69
+
+f). De más de 100 y hasta 200 unidades
+
+de arqueo bruto $226.41
+
+g). De más de 200 y hasta 300 unidades
+
+de arqueo bruto $279.39
+
+h). De más de 300 y hasta 500 unidades
+
+de arqueo bruto $398.84
+
+i). De más de 500 y hasta 1,000 unidades
+
+de arqueo bruto $534.10
+
+j). De más de 1,000 y hasta 2,000 unidades
+
+de arqueo bruto $634.49
+
+k). Por las primeras 2,000 unidades de aqueo bruto
+
+la cuota señalada en el inciso anterior, y por cada
+
+una o fracción de las excedentes $1.5833
+
+II. Cada reporte de cada servicio de evaluación y
+
+verificación de protección marítima a embarcaciones,
+
+que realizan las Organizaciones de Protección Reconocidas
+
+(OPR), se pagará la cuota de: $1,650.17
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+17. Por el trámite y, en su caso,
+
+expedición del certificado técnico de
+
+operación y navegabilidad $1,531.12
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+18. Para obtener la aprobación inicial y,
+
+en su caso, renovación de la aprobación de los talleres de
+
+reparaciones navales $2,363.18
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+19. Por el trámite y, en su caso, la
+
+expedición de la autorización a terceros para la elaboración
+
+de documentos técnicos $1,531.12
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+20. Por el trámite y, en su caso, expedición de los certificados de exención de francobordo se pagará por cada embarcación conforme a las siguientes cuotas:
+
+I. De más de 10 hasta 200 unidades de
+
+arqueo bruto $5,519.87
+
+II. De más de 200 hasta 500 unidades
+
+de arqueo bruto $6,542.63
+
+III. De más de 500 hasta 1,000 unidades
+
+de arqueo bruto $7,680.76
+
+IV. De más de 1,000 hasta 5,000 unidades
+
+de arqueo bruto $9,966.33
+
+V. De más de 5,000 hasta 10,000 unidades
+
+de arqueo bruto $13,982.03
+
+VI. De más de 10,000 unidades de
+
+arqueo bruto $22,538.07
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+21. Por el trámite y, en su caso, expedición del certificado de exención SOLAS se pagará por cada embarcación, conforme a las siguientes cuotas:
+
+I. De más de 10 hasta 200 unidades de
+
+arqueo bruto $5,519.87
+
+II. De más de 200 hasta 500 unidades de
+
+arqueo bruto $6,542.63
+
+III. De más de 500 hasta 1,000 unidades
+
+de arqueo bruto $7,680.76
+
+IV. De más de 1,000 hasta 5,000 unidades
+
+de arqueo bruto $9,966.33
+
+V. De más de 5,000 hasta 10,000 unidades
+
+de arqueo bruto $13,982.03
+
+VI. De más de 10,000 unidades de
+
+arqueo bruto $22,538.07
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 195-Z
+
+22. Por el trámite y, en su caso, autorización del Registro Sinóptico Continuo, se pagará por cada embarcación $676.62
 
 ## TITULO II. De los Derechos por el Uso o Aprovechamiento de Bienes del Dominio Público
 
@@ -14645,7 +15045,7 @@ en templos de propiedad federal o sus
 
 anexidades, por cada depósito $916.59 $917
 
-XI.- (DEROGADA POR TRANSITORIO DÉCIMO TERCERO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DE INGRESOS DE LA FEDERACIÓN PARA EL EJERCICIO FISCAL DE 2019, PUBLICADA EN EL D.O.F. DE 28 DE DICIEMBRE DE 2018)
+XI.- (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
 Las cuotas señaladas en las fracciones III y IV que anteceden, sólo se aplicarán cuando la actividad señalada en cada caso constituya la principal del concesionario o permisionario. En todo caso los contribuyentes podrán optar por pagar conforme a lo establecido en la fracción I de este artículo.
 
@@ -14765,9 +15165,9 @@ En aquellos casos en que las entidades federativas y municipios hayan celebrado 
 
 La Federación, las entidades federativas y los municipios que hayan convenido en dar el destino a los ingresos obtenidos conforme a lo señalado en el párrafo anterior, también podrán convenir en crear fondos para cumplir con los fines señalados en el mismo párrafo. La aportación a dichos fondos, se hará por la entidad federativa, por el municipio o cuando así lo acuerden por ambos, en un equivalente a dos veces el monto aportado por la Federación. En ningún caso la aportación de la Federación excederá del porcentaje que le corresponda como participación derivada del convenio de colaboración administrativa en materia fiscal federal y sólo se efectuará respecto de los ingresos que provengan de derechos efectivamente pagados y que hayan quedado firmes.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Tratándose de la zona XI de la tabla contenida en este artículo, previo a la conformación de los fondos mencionados en el párrafo anterior, sin perjuicio de los porcentajes que en términos de los convenios celebrados para la creación de tales fondos deban destinarse a la vigilancia, administración, mantenimiento, preservación y limpieza de la zona federal marítimo terrestre a que se refiere el párrafo que antecede, cuando menos el 25% de los ingresos recaudados por el derecho que corresponda cubrir en términos de este precepto deberá destinarse única y exclusivamente a la recuperación, conservación y mantenimiento de las playas ubicadas en dicha zona, incluso para el pago de adeudos generados con motivo de los financiamientos contratados para la realización de dichas actividades.
+Tratándose de la zona XI de la tabla contenida en este artículo, previo a la conformación de los fondos mencionados en el párrafo anterior, sin perjuicio de los porcentajes que en términos de los convenios celebrados para la creación de tales fondos deban destinarse a la vigilancia, administración, mantenimiento, preservación y limpieza de la zona federal marítimo terrestre a que se refiere el párrafo que antecede, cuando menos el 30% de los ingresos recaudados por el derecho que corresponda cubrir en términos de este precepto deberá destinarse única y exclusivamente a la recuperación, conservación y mantenimiento de las playas ubicadas en dicha zona, así como a la atención integral de los efectos negativos provocados por fenómenos naturales que alteren la citada zona, incluso para el pago de adeudos generados con motivo de los financiamientos contratados para la realización de dichas actividades.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -14783,7 +15183,9 @@ ZONA II.- Estado de Guerrero: Azoyu, Copala, Benito Juárez y Tecpan de Galeana;
 
 ZONA III. Estado de Campeche: Champotón; Estado de Colima: Armería y Tecomán; Estado de Chiapas: Tapachula y Tonalá; Estado de Guerrero: Petatlán y La Unión; Estado de Jalisco: La Huerta; Estado de Michoacán: Coahuayana y Lázaro Cárdenas; Estado de Oaxaca: Salina Cruz y San Pedro Pochutla; Estado de Sinaloa: Ahome; Estado de Sonora: Caborca, Hermosillo y Huatabampo; Estado de Tamaulipas: Altamira, Cd. Madero; Estado de Veracruz: Martínez de la Torre, Medellín de Bravo y Pueblo Viejo; Estado de Yucatán: Hunucma, Sinanche, Yobain, Dzidzantún, Dzilam de Bravo y Tizimín.
 
-ZONA IV. Estado de Campeche: El Carmen; Estado de Nayarit: Tecuala; Estado de Quintana Roo: Lázaro Cárdenas y Othón P. Blanco; Estado de Veracruz: Ángel R. Cabada, La Antigua, Lerdo de Tejada, Mecayapan, Ozuluama, Pajapan, Papantla, Tatahuicapan, Tampico Alto; Estado de Yucatán: Telchac Puerto, Río Lagartos y San Felipe.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+ZONA IV.- Estado de Campeche: El Carmen; Estado de Nayarit: Tecuala; Estado de Quintana Roo: Othón P. Blanco; Estado de Veracruz: Ángel R. Cabada, La Antigua, Lerdo de Tejada, Mecayapan, Ozuluama, Pajapan, Papantla, Tatahuicapan, Tampico Alto; Estado de Yucatán: Telchac Puerto, Río Lagartos y San Felipe.
 
 ZONA V. Estado de Baja California: Mexicali; Estado de Campeche: Campeche; Estado de Nayarit: San Blas; Estado de Sinaloa: Navolato; Estado de Veracruz: Vega de Alatorre, Tamiahua, Nautla, Alto Lucero, Cazones de Herrera, San Andrés Tuxtla, Catemaco, Actopan, Úrsulo Galván, Agua Dulce y Tuxpan; Estado de Yucatán: Celestum e Ixil.
 
@@ -14805,9 +15207,9 @@ ZONA IX. Estado de Baja California Sur: La Paz; Estado de Guerrero: José Azueta
 
 ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco de Juárez; Estado de Jalisco: Puerto Vallarta.
 
-> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Puerto Morelos, Solidaridad y Tulum.
+ZONA XI.- Subzona A. Estado de Quintana Roo: Cozumel y Lázaro Cárdenas. Subzona B. Estado de Quintana Roo: Benito Juárez, Puerto Morelos, Solidaridad y Tulum.
 
 > <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE MODIFICACIÓN AL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, D.O.F. DEL 21 DE DICIEMBRE DE 2018.]</small>
 
@@ -15266,6 +15668,14 @@ Aquellos concesionarios o permisionarios u otros usuarios de servicios de teleco
 > <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Las instituciones de asistencia médica o de beneficencia o de prevención y atención de accidentes y desastres, no contribuyentes del impuesto sobre la renta y los usuarios de las frecuencias que se autoricen durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, siempre que acrediten dichas circunstancias, estarán exentas del pago del derecho por el uso del espectro radioeléctrico previsto en esta sección. Asimismo, quedan exentas del pago de derechos previsto en esta sección, las bandas de uso oficial otorgadas a las Entidades Federativas y Municipios, dedicadas a actividades de prevención y atención de accidentes, desastres, seguridad pública, seguridad nacional, salud, seguridad social, protección del ambiente y educación.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Los concesionarios de espectro radioeléctrico para servicios de telecomunicaciones para uso social indígena que no tengan relación ni vínculos de tipo comercial, organizativo, económico o jurídico con concesionarios del espectro radioeléctrico para uso comercial que generen influencia directa o indirecta en la administración u operación de la concesión, estarán exentos del pago de los derechos por el uso del espectro radioeléctrico previstos en el presente Capítulo.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Para efectos de acceder al beneficio previsto en el párrafo anterior, los titulares de las concesiones, durante el ejercicio fiscal anterior al que corresponda el pago, no deberán incurrir en la causal de revocación establecida en la fracción XIV del artículo 303 de la Ley Federal de Telecomunicaciones y Radiodifusión, de lo contrario se deberá cubrir el monto del derecho correspondiente. Para el caso de nuevos concesionarios del espectro radioeléctrico para servicios de telecomunicaciones para uso social indígena, no será aplicable el requisito previsto en el presente párrafo durante el primer ejercicio fiscal de vigencia de la concesión correspondiente.
 
 > <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
@@ -16459,19 +16869,29 @@ El pago del derecho señalado en este artículo, se efectuará con independencia
 
 El Servicio de Administración Tributaria podrá expedir las disposiciones de carácter general necesarias para la correcta y debida aplicación de este artículo.
 
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 271.
 
-El Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros se integrará con los recursos por derechos sobre minería a que se refieren los artículos 268, 269 y 270 de esta Ley y deberán ser empleados en inversión física con un impacto social, ambiental y de desarrollo urbano positivo, incluyendo:
+Los ingresos que se obtengan por la recaudación de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley podrán ser empleados en acciones para mejorar las condiciones de los centros educativos y de los servicios de salud, así como en inversión física con un impacto social, ambiental y de desarrollo urbano positivo, incluyendo:
 
-I. La construcción, remodelación y equipamiento de centros escolares, así como de espacios públicos urbanos;
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+I. La construcción, remodelación y equipamiento de espacios públicos urbanos;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 II. Obras de pavimentación y mantenimiento de calles y caminos locales, de instalación y mantenimiento de alumbrado público, respetuosas con el ambiente, así como de servicios públicos basados en la eficiencia energética y las energías renovables;
 
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
 III. Obras de infraestructura para la protección ambiental, como rellenos sanitarios, plantas de tratamiento de agua, instalación y mantenimiento de obras de drenaje público, manejo integral de residuos sólidos urbanos, mejora y monitoreo de calidad del aire, agua y suelo, así como para el suministro de agua potable;
 
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
 IV. Obras que preserven áreas naturales, como por ejemplo protección, restauración, rescate o rehabilitación de ecosistemas acuáticos y terrestres, y para la conservación y aprovechamiento sustentable de la vida silvestre, y
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 V. Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas de trenes suburbanos, metrocable de transporte o equivalentes, o cualquier otro sistema de transporte público respetuoso con el ambiente y de bajas emisiones de carbono.
 
@@ -16493,25 +16913,17 @@ V. Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas
 
 Los Estados y la Ciudad de México participarán en los ingresos de los derechos sobre minería a que se refiere el artículo 263 de esta Ley, en los términos de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará en un 77.5% al Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, el cual se distribuirá, en un 62.5% a los municipios y demarcaciones territoriales de la Ciudad de México en los que tuvo lugar la explotación y obtención de sustancias minerales y el 37.5% restante a la entidad federativa correspondiente, a fin de que se apliquen en términos de lo dispuesto por el artículo 271 de esta Ley, y en un 2.5% a la Secretaría de Desarrollo Agrario, Territorial y Urbano para desempeñar las funciones encomendadas en el presente Capítulo.
+Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará en un 85% a la Secretaría de Educación Pública, la cual en un 80% de la recaudación total de los derechos citados se deberá aplicar en términos de lo dispuesto por el artículo 271 de esta Ley y el 5% restante para desempeñar las funciones encomendadas en el presente artículo; en un 5% a la Secretaría de Economía, para la realización de acciones de fortalecimiento del sector minero, así como de mejora a los sistemas de registro y control de la actividad minera; y en un 10% al Gobierno Federal, mismos que se destinarán a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-La distribución de estos recursos entre los municipios y demarcaciones del Distrito Federal, y entre las entidades federativas correspondientes, se determinará con base en el porcentaje del valor de la actividad extractiva del municipio o demarcación del Distrito Federal correspondiente, respecto del valor total de la actividad extractiva en el territorio nacional, de acuerdo al registro estadístico de producción minera que para tales efectos elabore la Secretaría de Economía en el año que corresponda.
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Para aplicar los recursos del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, se conformará en cada entidad federativa un Comité de Desarrollo Regional para las Zonas Mineras, el cual estará integrado por un representante de la Administración Pública Federal, en este caso, por parte del titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano a cargo del Comité; un representante del Gobierno del Estado o del Distrito Federal; un representante del o de los municipios o demarcaciones en donde se localicen las actividades mineras; en los casos en donde éstas se realicen en comunidades indígenas o agrarias, un representante de dichas comunidades, así como un representante de las empresas mineras relevantes con actividades en la demarcación.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Los ingresos que obtenga el Gobierno Federal derivado de la aplicación de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, se destinaran a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
-
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
-
-Con periodicidad trimestral, las entidades federativas deberán publicar, entre otros medios, a través de su página oficial de Internet, y entregar a la Secretaría de Hacienda y Crédito Público, la información relativa a los montos que reciban, el ejercicio y destino del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, desagregándola en términos de la Ley General de Contabilidad Gubernamental.
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -16675,6 +17087,10 @@ Baja California Sur: Arroyos San José de Gracia, La Purísima, San Isidro, Paso
 
 Campeche: Río Champotón en el municipio de Champotón; Laguna de Silvituc en el municipio de Calakmul; Río Palizada en el municipio de Palizada; Ríos Mamantel y Candelaria en los municipios de El Carmen y Escárcega; Río Chumpán en el municipio de El Carmen; Acuífero de la Península de Yucatán en los nueve municipios del Estado; Zona Costera del Estado de Campeche en los municipios de El Carmen, Tenabo, Hecelchakán, Calkiní, Champotón y Campeche.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Ciudad de México: Río Magdalena, Río de los Remedios, Río Churubusco, Río San Buenaventura, Río San Joaquín, Río de la Compañía, Interceptor Poniente, Interceptor Oriente, Interceptor Oriente-Oriente, Interceptor Central, Interceptor Centro Poniente, Interceptor Oriente Sur, Canal General, Canal Nacional, Semiprofundo Canal Nacional, Gran Canal del Desagüe, Canal de Chalco, Ciénega Chica de Xochimilco, Túnel Emisor Central, Túnel Emisor del Poniente y Túnel Emisor Oriente, todos en la Ciudad de México.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 Coahuila: Río Bravo en los municipios de Ocampo, Acuña, Jiménez, Piedras Negras, Nava, Guerrero e Hidalgo; Arroyo Las Vacas en el municipio de Acuña; Río San Diego en los municipios de Zaragoza y Jiménez; Río San Rodrigo en los municipios Zaragoza, Jiménez y Piedras Negras; Arroyo el Tornillo en el municipio de Piedras Negras; Río Escondido en los municipios de Zaragoza, Nava y Piedras Negras; Río San Juan de Sabinas en los municipios de Múzquiz y San Juan de Sabinas; Río Álamos en los municipios de Múzquiz y San Juan de Sabinas; Río Sabinas en los municipios de San Juan de Sabinas, Sabinas, Progreso y Juárez; Río Salado de los Nadadores en los municipios de Lamadrid, Sacramento, Nadadores, San Buenaventura, Escobedo, Progreso y Juárez; Río Salado en el municipio de Juárez; Río Monclova en el municipio de Monclova; Río Nazas en los municipios de Torreón, Francisco I. Madero y San Pedro de las Colonias; Río Aguanaval en los municipios de Torreón, Matamoros y Viesca; Tanques Genty y Aguilereño en el municipio de Viesca.
@@ -16687,17 +17103,21 @@ Chiapas: Río Grijalva y sus afluentes en los municipios de Berriozábal, La Con
 
 Chihuahua: Río Conchos en los municipios de Carichi, Nonoava y Bocoyna; Río Casas Grandes en el municipio de Ignacio Zaragoza; Río Santa María en el municipio de Bachíniva; Río Papigochi en el municipio de Temosachi; Río San Pedro en el municipio de Cusihuiriachi; Río Mayo en los municipios de Chinipas y Moris; Río Chinipas en los municipios de Chinipas, Guazapares y Uruachi; Río Urique en los municipios de Batopilas, Guachochi y Urique; Río San Miguel en los municipios de Balleza, Batopilas, Guachochi y Morelos, Ríos Sinaloa, Mohinora y Chinatu en los municipios de Guadalupe y Calvo; Río Septentrión en los municipios de Temoris y Urique; Río Moris en los municipios de Ocampo y Moris; Río Candameño en el municipio de Ocampo; Ríos Balleza, Porvenir y Agujas en el municipio de Balleza; Río Nonoava en el municipio de Nonoava; Río Los Loera en los municipios de Guadalupe y Calvo; Río Oteros en el municipio de Bocoyna; Río Batopilas en los municipios de Batopilas y Guachochi; Río Verde en los municipios de Guerrero y Temosachi; Ríos Aros y Tutuaca en los municipios de Temosachi y Madera.
 
-Distrito Federal: Río Magdalena en la Delegación Magdalena Contreras.
+> <small>(DEROGADO [N. DE E. DISTRITO FEDERAL], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 Durango: Río Sauceda en los municipios de Durango y Canatlán; Río Nazas en los municipios de Cuencamé, Indé, El Oro, Rodeo, Nazas, Lerdo y Gómez Palacio; Río Santiago en los municipios de Durango, Canatlán y Santiago Papasquiaro; Río Tepehuanes en los municipios de Tepehuanes y Santiago Papasquiaro; Río Ramos en los municipios de Santiago Papasquiaro, El Oro e Indé; Río Sextín (El Oro) en los municipios de Tepehuanes, Guanaceví, San Bernardo, El Oro e Indé; Río San Juan en los municipios de Pánuco de Coronado, San Juan del Río y Rodeo; Río del Peñón o Covadonga en los municipios de Peñón Blanco y Nazas; Arroyo Cuencamé en el municipio de Cuencamé; Río Tamazula en los municipios de Canelas, Tamazula y Topia; Río San Lorenzo en los municipios de Santiago Papasquiaro, Tamazula y Canelas; Río Piaxtla en los municipios de Durango y San Dimas; Río Presidio en los municipios de Durango, Pueblo Nuevo y San Dimas; Ríos El Tunal y Santiago Bayacora en los municipios de Durango y Mezquital; Río Durango en los municipios de Durango y Nombre de Dios; Río Acaponeta en los municipios de Durango y Pueblo Nuevo; Río Humaya en los municipios de Guanaceví, Tepehuanes, Tamazula, Canelas y Topia; Río Florido en los municipios de Hidalgo, Indé, Ocampo y San Bernardo; Arroyo Cerro Gordo en el municipio Hidalgo; Río Mezquital en los municipios de Mezquital y Nombre de Dios, Río Súchil en los municipios de Nombre de Dios, Vicente Guerrero y Súchil; Río Poanas en el municipio de Poanas; Río Baluarte en el municipio de Pueblo Nuevo; Río Verde en el municipio de San Dimas; Río Habitas en los municipios de San Dimas y Tamazula; Río Graseros en los municipios de Súchil, Vicente Guerrero y Nombre de Dios; Arroyos Seco y Acequia Grande en el municipio de Durango; Río Aguanaval en los municipios de Santa Clara, Cuencamé, Poanas, San Juan Guadalupe y Simón Bolívar; Río Los Remedios en los municipios de Otáez y Tamazula; Río San Juan de Camarones en los municipios de Santiago Papasquiaro y Canelas, Río San Gregorio en el municipio de Santiago Papasquiaro; Río El Presidio en el municipio de Otáez; Arroyo San Juan en el municipio de Durango; Arroyos Pánuco y Las Casas en el municipio de Pánuco de Coronado; Arroyo El Gato en el municipio de Nuevo Ideal; Arroyo Guanaceví en el municipio de Guanaceví; Arroyo San Bernardo en el municipio de San Bernardo; Arroyos Las Pilitas y La Unión en el municipio de Indé; Arroyo Coneto en el municipio de Coneto de Comonfort; Arroyos Santa María y La Parrita en el municipio de El Oro; Arroyo Cuevecillas en el municipio de Canelas; Arroyo San Ignacio en el municipio de Tamazula; Río Topia en los municipios de Canelas y Topia; Arroyo Prieto en los municipios de Canatlán y Nuevo Ideal; Río Santa Clara (Río Santiago) en el municipio de Santa Clara; Río La Villa (Nombre de Dios) y Arroyo La Ciénega en el municipio de Nombre de Dios; Arroyo El Álamo en el municipio de Peñón Blanco; Arroyos La Rosilla y Quebrada El Salto en el municipio de Pueblo Nuevo; Arroyo El Mimbre en el municipio de Canatlán.
 
-Estado de México: Río Amanalco en el municipio de Amanalco.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Estado de México: Río Amanalco, Río Ameca, Río Avenidas de Pachuca, Río Churubusco, Río Coatepec, Río Cuautitlán, Río de la Compañía, Río de los Remedios, Río Hondo de Naucalpan, Río Hondo de Tepotzotlán, Río Salado, Río San Juan, Río San Rafael, Río San Juan Teotihuacán, Río Apatlaco, Río Tlalnepantla, Río Moritas, Río Apozonalco, Río el Oro, Río el Silencio, Río la Presa, Río la Salitrera, Río los Arcos, Río los Sabios, Río Aculco, Río Ajolotes, Río Chico de los Remedios, Río Chiquito, Río de la Mano, Río Hondo, Río Huepaya, Río Jalapango, Río Manzano, Río Miraflores, Río Ojo de Agua, Río Panoya, Río Papalotla, Río San Francisco, Río San Javier, Río San Luis, Río San Pedro, Río Totolica, Canal Colector, Canal Río Grande, Canal Nexquipayac, Canal Emisor Poniente, Gran Canal de Desagüe, Canal Papalotla, Canal las Sales, Canal Amecameca, Canal Cartagena, Canal Coxcacoac, Canal Grande, Canal la Palma, Canal Miraflores, Canal Río Chiquito, Canal Texcoco, Canal Tonanitla, Canal Xaltocan, Canal Río Cuautitlán, Canal Río de los Remedios, Dren Xochiaca, Dren Cartagena, Dren Chimalhuacán II, Dren General del Valle, Túnel Emisor Poniente, Túnel Emisor Poniente 1, Túnel Emisor Poniente 2, Túnel Emisor Oriente, Nuevo Túnel de Tequixquiac, Antiguo Túnel de Tequisquiac, Presa Guadalupe, Presa La Concepción, Tajo de Nochistongo, Vaso de Cristo, Lago de Guadalupe, Lago de Zumpango, Sistema Ramos Millán (Escurridero Deshielo del Volcán Popocatépetl), Sistema Morelos (escurridero deshielo del Volcán Popocatépetl), Barranca Francisco Villa, Arroyo San José, Arroyo Chopanac, Arroyo Tetzahua, Arroyo Ocosintla, Arroyo Panoaya, Arroyo los Reyes, Arroyo las Majadas, Arroyo Palmilla, Arroyo San Javier, Arroyo la Cañada, Arroyo Xinte, Arroyo Estete, Arroyo Conejos, Arroyo la Gloria, Arroyo San Pablo, Arroyo Agua Caliente, Arroyo Ahuayoto, Arroyo Alcaparrosa, Arroyo Atla, Arroyo Borracho, Arroyo Cajones, Arroyo Cerro Gordo, Arroyo Chiquito, Arroyo Coatlinchán, Arroyo Córdoba, Arroyo Cuautitlán, Arroyo Hueyatla, Arroyo Lanzarote, Arroyo Macho Rucio, Arroyo Majada Grande, Arroyo Mambrú, Arroyo Maxatla, Arroyo Miguaca, Arroyo Navarrete, Arroyo Palo Hueco, Arroyo Piedras Negras, Arroyo Puente el Muerto, Arroyo Puentecillas, Arroyo Río Hondo, Arroyo Salado de Hueypoxtla, Arroyo Santa Ana, Arroyo Santo Domingo, Arroyo Sila, Arroyo Sotula, Arroyo Tecuatítla, Arroyo Telolo, Arroyo Tlapacoya, Arroyo Totolingo, Arroyo Treviño, Arroyo Tulpias, Arroyo Xido, Arroyo Zarco, Arroyo el Cedral, Arroyo el Arcón, Arroyo el Capulín, Arroyo el Esclavo, Arroyo el Hongo, Arroyo el Manzano, Arroyo el Muerto, Arroyo el Órgano, Arroyo el Potrero, Arroyo el Puerto, Arroyo el Pulpito, Arroyo el Soldado, Arroyo el Sordo, Arroyo el Trigo, Arroyo las Ánimas, Arroyo la Cruz, Arroyo la Pila, Arroyo la Rosa, Arroyo la Zanja, Arroyo las Bateas, Arroyo las Jícaras, Arroyo las Palomas y Arroyo los Gavilanes, todos en el Estado de México.
 
 Guanajuato: Río Lerma en los municipios de Acámbaro, Salvatierra, Jaral del Progreso, Salamanca, Valle de Santiago, Pueblo Nuevo, Abasolo, Huanímaro y Pénjamo; Arroyos La Patiña, El Calvillo y Los Castillos en el municipio de León; Arroyos Santa Ana y Llano Largo en el municipio de Guanajuato.
 
 Guerrero: Río La Cofradía en el municipio de La Unión de Isidoro Montes de Oca; Río La Unión y sus afluentes directos: Ríos San Cristóbal y Las Juntas en los municipios de la Unión de lsidoro Montes de Oca y Coahuayutla de José María Izazaga; Río Pantla en el municipio de Teniente José Azueta; Río Ixtapa en los municipios de José Ma. lzazaga y La Unión; Río San Jeronimito en los municipios de Teniente José Azueta y Petatlán; Ríos Petatlán y Coyuquilla en el municipio de Petatlán; Ríos San Luis y Tecpan en el municipio de Tecpan de Galeana; Río Tecpan y su afluente directo el Río Chiquito en los municipios de Tecpan de Galeana y Atoyac de Álvarez; Río Atoyac en los municipios de Atoyac de Álvarez y Benito Juárez; Río Piloncillo afluente del Río Atoyac en el municipio de Atoyac de Álvarez; Río Coyuca y su afluente directo el Río La Hamaca o Aguas Blancas en el municipio de Coyuca de Benítez; Río la Sabana, Arroyos El Camarón, Aguas Blancas, Garita, Costa Azul, Deportivo e Icacos en el municipio de Acapulco de Juárez; Río Papagayo en los municipios de Acapulco de Juárez, San Marcos, Juan R. Escudero y Chilpancingo de los Bravo y sus afluentes: Río Omitlán en los municipios de Juan R. Escudero y Tecoanapa; Río San Miguel en el municipio de Chilpancingo de Los Bravo; Río La Unión en los municipios de Quechultenango, Tlacoapa, Tecoanapa y Acatepec; Río Azul en el municipio de Quechultenango; Río Huacapa en los municipios de Chilpancingo de Los Bravo, Quechultenango y Mochitlán; Ríos Cortés y La Estancia en el municipio de San Marcos; Río Nexpa los municipios de Cruz Grande y Ayutla de Los Libres y sus afluentes directos: Ríos Sauces, Tecoanapa y Tlatenango en los municipios de Tecoanapa y Ayutla de los Libres, Río Ayutla en los municipios de Tecoanapa, Acatepec y Ayutla de los Libres; Río Copala en los municipios de Copala y Cuautepec y sus afluentes directos: Río Cuautepec en el municipio de Cuautepec, Río Concordia en los municipios de Cuautepec, San Luis Acatlán y Ayutla de Los Libres, Río Yautepec en los municipios de Cuautepec y San Luis Acatlán; Río Marquelia en los municipios de Cuajinicuilapa, Azoyú y San Luis Acatlán y sus afluentes: Río Juchitán en el municipio de Azoyú y Río Chiquito en el municipio de San Luis Acatlán; Río Quetzala en los municipios de Cuajinicuilapa, Ometepec, lgualapa y Metlatonoc y sus afluentes directos: Río Cortijos en el municipio de Cuajinicuilapa, Río Santa Catarina en los municipios de Cuajinicuilapa, Ometepec, Xochistlahuaca y Tlacoachistlahuaca; Río Balsas en los municipios de Copalillo, Mártir de Cuilapa, Eduardo Neri, Cuetzalapa del Progreso, Tepecuacuilco, Apaxtla, San Miguel Totolapan, Arcelia, Tlapehuala, Pungarabato, Coyuca de Catalán, Zirándaro, Coahuayutla y La Unión de lsidoro Montes de Oca y sus afluentes directos: Río Tlapaneco en los municipios de Tlapa de Comonfort, Xalpatláhuac, Alpoyeca, Huamuxtitlán, Xochihuehuetlán, Olinalá y Copalillo, Río Mitlancingo en los municipios de Atlistac, Olinalá, Ahuacuotzingo y Copalillo, Río Amacuzac en los municipios de Atenango del Río y Copalillo, Río Tlapehualapa o Atzacualoya en los municipios de Zitlala y Copalillo, Río Apango en los municipios de Mártir de Cuilapa y Tixtla de Guerrero; Río Tepecuacuilco en los municipios de Tepecuacuilco de Trujano y Eduardo Neri; Río Cañón del Zopilote en el municipio de Eduardo Neri y su afluente directo el Río Huacapa en los municipios de Eduardo Neri y Leonardo Bravo, Río Cocula o Iguala en los municipios de Cocula, Eduardo Neri e Iguala de La Independencia, y sus afluentes directos Río Ahuehuepán en los municipios de Iguala de La Independencia y Teloloapan, Río los Sabinos en los municipios de Cocula, Teloloapan, Iguala de La Independencia e Ixcateopan de Cuauhtémoc; Río Cuetzala en el municipio de Cuetzala del Progreso; Río Coatepec en el municipio de Gral. Heliodoro Castillo; Río Oxtotitlán en los municipios de Teloloapan y Apaxtla; Río Ototlán o Truchas o Tetela en los municipios de Gral. Heliodoro Castillo y San Miguel Totolapan, y su afluente directo el Río Yextla en el municipio de Gral. Heliodoro Castillo; Río Pesoapa en los municipios de Teloloapan, Apaxtla y Arcelia; Río Poliutla o San Pedro o Palos Altos en los municipios de Tlapehuala, Tlalchapa, Arcelia y Gral. Canuto A. Neri, y sus afluentes el Río Santo Niño y Río Arcelia en el municipio de Arcelia; Río Tlalchapa en el municipio de Tlalchapa; Río Ajuchitlán en el municipio de Ajuchitlán del Progreso y sus afluentes: Río Minero en el municipio de San Miguel Totolapan y Río La Esperanza en el municipio de Ajuchitlán del Progreso; Río Amuco o Tamacua o El Coyol en los municipios de Ajuchitlán del Progreso y Coyuca de Catalán y sus afluentes directos: Río Cuirio o Hacienda de Dolores y Río Tarétaro o Las Trojas en el municipio de Coyuca de Catalán; Río Cutzamala en los municipios de Cutzamala de Pinzón y Pungarabato, y sus afluentes: Río Ixtapan y Palmar Grande en el municipio de Cutzamala de Pinzón; Río del Oro o Frío en los municipios de Coyuca de Catalán y Zirándaro, y sus afluentes directos: Río San José y Arroyo El Chivo en el municipio de Zirándaro; Ríos Santa Rita y San Antonio en el municipio de Cohuayutla; Bahías de Zihuatanejo e Ixtapa en el municipio de Teniente José Azueta; Bahía de Puerto Marqués y Bahía de Acapulco en el municipio de Acapulco de Juárez.
 
-Hidalgo: Río Calabozo en el municipio de Huautla; Río Atlapexco en el municipio de Atlapexco; Río Candelaria en el municipio de Tlanchinol; Ríos Candelaria, Chinguiñoso, Malila, Tahuizán y Tecoluco en el municipio de Huejutla de Reyes; Río Claro en los municipios de Juárez, Hidalgo, Molango y Chapulhuacán.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Hidalgo: Río Calabozo en el municipio de Huautla; Río Atlapexco en el municipio de Atlapexco; Río Candelaria en el municipio de Tlanchinol; Ríos Candelaria, Chinguiñoso, Malila, Tahuizán y Tecoluco en el municipio de Huejutla de Reyes; Río Claro en los municipios de Juárez, Hidalgo, Molango y Chapulhuacán; Canal Salto Tlamaco y Río El Salto en el municipio de Atotonilco de Tula.
 
 Jalisco: Río Ayuquila o Armería en los municipios de Tolimán, Tuxcacuesco y Zapotitlán; Río Manantlán o San José en el municipio de Autlán; Río Chico o Mezquitic o Bolaños en los municipios de Mezquitic, Villa Guerrero y Bolaños; Río Santiago en los municipios de Ocotlán, Poncitlán, Zapotlán del Rey y Chapala; Canal de Atequiza en los municipios de Chapala, Iztlahuacán de los Membrillos, Poncitlán, Tlajomulco de Zúñiga y Tlaquepaque; Río San Pedro o Verde en los municipios de Teocaltiche, Villa Hidalgo, Jalostotitlán, Mexticacán, Villa Obregón, Valle de Guadalupe, Yahualica, Cuquío, Tepatitlán de Morelos, Acatic, Zapotlanejo e Ixtlahuacán del Río; Arroyo Cuixtla en el municipio de San Martín de Bolaños y San Cristóbal de la Barranca; Río Lerma en los municipios de Degollado, Ayotlán, Jamay y La Barca; Ríos Tomatlán y María García en el municipio de Tomatlán; Arroyos Las Amapas y El Nogalito y Ríos Cuale y Mismaloya en el municipio de Puerto Vallarta; Arroyo Chamela y Ríos Cuitzmala y Purificación en el municipio de La Huerta; Río Tecolote o Carmesí en el municipio de Casimiro Castillo; Río Zula o Los Sabinos en los municipios de Tototlán y Ocotlán; Arroyo San Marcos en el municipio de Chapala; Río La Pasión en el municipio de Tizapán El Alto; Río Calderón en los municipios de Tepatitlán y Acatic; Río El Valle en el municipio del Valle de Guadalupe; Río El Jihuite en el municipio de Tepatitlán de Morelos; Río Bramador en los municipios de Tomatlán y Talpa de Allende; Río San Juan de los Lagos en el municipio de San Juan de los Lagos.
 
@@ -22312,3 +22732,51 @@ No procederá la imposición de sanciones respecto del periodo de incumplimiento
 En términos del artículo 6, fracción VII de la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita, el Servicio de Administración Tributaria deberá emitir y publicar en el Diario Oficial de la Federación las reglas de carácter general que regulen la aplicación de los programas de auto regularización, en un plazo máximo de 60 días contados a partir de la entrada en vigor de la presente Ley.
 
 Décimo Quinto.- El presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2019 aprobado deberá prever una asignación de la recaudación estimada para la Federación por concepto del impuesto especial sobre producción y servicios aplicable a las bebidas saborizadas, de acuerdo con lo previsto en el artículo 1o. de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2019, una vez descontadas las participaciones que correspondan a las entidades federativas, para destinarse a programas de promoción, prevención, detección, tratamiento, control y combate a la desnutrición, sobrepeso, obesidad y enfermedades crónico degenerativas relativas, así como para apoyar el incremento en la cobertura de los servicios de agua potable en localidades rurales, y proveer bebederos con suministro continuo de agua potable en inmuebles escolares públicos con mayor rezago educativo, de conformidad con los artículos 7 y 11 de la Ley General de la Infraestructura Física Educativa.
+
+D.O.F. 9 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS".]
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2020, salvo:
+
+I. La modificación al artículo 12 de la Ley Federal de Derechos, la cual entrará en vigor a partir del 1 de abril de 2020.
+
+II. La derogación de la fracción XI del artículo 232 de la Ley Federal de Derechos, la cual surtirá efectos a partir de la entrada en vigor de las disposiciones a que se refieren los artículos 12, fracción XXXIV y 72 de la Ley de la Industria Eléctrica, que emita la Comisión Reguladora de Energía.
+
+En tanto no entren en vigor las disposiciones señaladas, continuará aplicándose la fracción XI del artículo 232 de la Ley Federal de Derechos respecto a la infraestructura del Sistema Eléctrico Nacional sobre la cual la Comisión Reguladora de Energía no haya emitido las disposiciones respectivas en términos de la Ley de la Industria Eléctrica.
+
+Segundo. Durante el año 2020, en materia de derechos se aplicarán las siguientes disposiciones:
+
+I. Por el registro de título de técnico o profesional técnico expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto que corresponda en términos de las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+II. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refiere el artículo 29-D de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2020, con excepción de las instituciones de banca múltiple, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-D, podrán pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2019 hubieren optado por pagar para el referido ejercicio fiscal, más el 4% de dicha cuota. En ningún caso los derechos a pagar para el ejercicio fiscal de 2020 por concepto de inspección y vigilancia, podrán ser inferiores a la cuota mínima establecida para cada sector para el ejercicio fiscal de 2020, conforme a lo previsto en el propio artículo 29-D.
+
+Las entidades financieras a que se refiere el artículo 29-D, fracciones I, III, V, VI, VIII, IX, XI, XIII, XV, XVIII y XIX de la Ley Federal de Derechos que se hayan constituido en el ejercicio fiscal de 2019, podrán optar por pagar la cuota mínima correspondiente para el ejercicio fiscal de 2020 conforme a las citadas fracciones del artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en tales fracciones de la referida Ley.
+
+Tratándose de las casas de bolsa, para determinar la cuota mínima correspondiente al ejercicio fiscal de 2020 para los efectos de la opción a que se refieren los párrafos anteriores de esta fracción, se considerará como capital mínimo requerido para funcionar como casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión.
+
+III. Las instituciones de banca múltiple a que se refiere el artículo 29-D, fracción IV de la Ley Federal de Derechos, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere dicha fracción, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2019 hubieren optado por pagar para dicho ejercicio fiscal, más el 10% del resultado de la suma de los incisos a) y b) de la propia fracción IV del citado artículo 29-D. En ningún caso los derechos a pagar podrán ser inferiores a la cuota mínima establecida para dicho sector para el ejercicio fiscal de 2020, conforme a lo previsto en la mencionada fracción IV del artículo 29-D.
+
+Las entidades financieras a que se refiere el párrafo anterior que se hayan constituido en el ejercicio fiscal de 2019, podrán optar por pagar la cuota mínima para el ejercicio fiscal de 2020 conforme a la citada fracción del referido artículo 29-D en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en dicha fracción.
+
+IV. Las bolsas de valores a que se refiere el artículo 29-E, fracción III de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2020, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-E, fracción III, podrán optar por pagar la cantidad equivalente en moneda nacional que resulte de multiplicar 1% por su capital contable. En caso de ejercer la opción a que se refiere la presente fracción, las bolsas de valores deberán estarse a lo dispuesto por el artículo 29-K, fracción II de la Ley Federal de Derechos.
+
+V. Cuando los contribuyentes ejerzan la opción de pagar los derechos por concepto de inspección y vigilancia en los términos previstos en las fracciones II, III y IV de este artículo y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2020, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+VI. Los mexicanos que deseen obtener testamento público abierto en una oficina consular en el extranjero, pagarán el 50% del monto que corresponda en términos de la fracción III del artículo 23 de la Ley Federal de Derechos.
+
+Tercero. Para efectos de los artículos 275 de la Ley Federal de Derechos y 25, fracción IX de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2019, los ingresos recaudados en el ejercicio fiscal de 2019 y anteriores, deberán apegarse a las disposiciones vigentes en el ejercicio fiscal de 2019.
+
+Cuarto. Con motivo del ajuste contemplado en los artículos Cuarto y Sexto transitorios de los Decretos por los que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos, publicados en el Diario Oficial de la Federación los días 1 de diciembre de 2004 y 24 de diciembre de 2007, respectivamente, y derivado de la inflación acumulada de los Estados Unidos de América, se actualizarán las cuotas de los derechos por servicios prestados en oficinas autorizadas en el extranjero, conforme a lo siguiente:
+
+a) Las cuotas de los derechos por servicios prestados en oficinas autorizadas en el extranjero fijadas en dólares estadounidenses, con excepción de las establecidas en el inciso b) del presente artículo, se actualizarán a partir del 1 de enero de 2020 en un 34.60% de manera gradual de 2020 a 2023. De tal forma que de 2020 a 2022 se actualizarán en un 10% por cada año. En el 2023 se actualizarán en un 4.6%, más el porcentaje que resulte de dividir el Índice de Precios de Consumo de los Estados Unidos de América (Consumer Price Index o CPI) de noviembre de 2022 entre el CPI de junio de 2019.
+
+A partir del año 2024 los citados derechos se actualizarán anualmente el primero de enero de cada año, considerando el periodo comprendido desde el decimotercer mes inmediato anterior y hasta el último mes anterior a aquél en que se efectúa la actualización.
+
+Para efectos del párrafo anterior, las cuotas se actualizarán aplicando el factor de actualización que resulte de dividir el CPI del mes inmediato anterior al más reciente del periodo, entre el CPI correspondiente al mes anterior al más antiguo del periodo, o bien, para los derechos que se adicionen o sufran modificaciones en su cuota, durante el ejercicio fiscal que corresponda, el del mes anterior a aquél en que entró en vigor la adición o modificación.
+
+b) Las cuotas de los derechos por servicios prestados por oficinas autorizadas en el extranjero, contenidas en las fracciones I, II y III del artículo 20 de la Ley Federal de Derechos, se actualizarán a partir del 1 de enero de 2020 en un 22% de manera gradual de 2020 a 2023. De tal forma que de 2020 a 2022 se actualizarán en un 6% por cada año. En 2023 se actualizarán en 4% más el porcentaje que resulte de dividir el CPI de noviembre de 2022 entre el CPI de junio de 2019.
+
+A partir del año 2024 los citados derechos se actualizarán anualmente el primero de enero de cada año, considerando el periodo comprendido desde el decimotercer mes inmediato anterior y hasta el último mes anterior a aquél en que se efectúa la actualización.
+
+Para efectos del párrafo anterior, las cuotas se actualizarán aplicando el factor de actualización que resulte de dividir el CPI del mes inmediato anterior al más reciente del periodo, entre el CPI correspondiente al mes anterior al más antiguo del periodo, o bien para los derechos que se adicionen o sufran modificaciones en su cuota, durante el ejercicio fiscal que corresponda, el del mes anterior a aquél en que entró en vigor la adición o modificación.
