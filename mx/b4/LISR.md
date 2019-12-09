@@ -4,7 +4,7 @@ identifier: "LISR"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-11"
-last_updated: "2016-11-30"
+last_updated: "2019-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96834&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LISR"
 ---
 # LEY DEL IMPUESTO SOBRE LA RENTA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el miércoles 11 de diciembre de 2013.
 
@@ -38,7 +40,7 @@ DECRETO
 
 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO AL VALOR AGREGADO; DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS; DE LA LEY FEDERAL DE DERECHOS, SE EXPIDE LA LEY DEL IMPUESTO SOBRE LA RENTA, Y SE ABROGAN LA LEY DEL IMPUESTO EMPRESARIAL A TASA ÚNICA, Y LA LEY DEL IMPUESTO A LOS DEPÓSITOS EN EFECTIVO
 
-…
+[…]
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -62,13 +64,27 @@ III. Los residentes en el extranjero, respecto de los ingresos procedentes de fu
 
 Para los efectos de esta Ley, se considera establecimiento permanente cualquier lugar de negocios en el que se desarrollen, parcial o totalmente, actividades empresariales o se presten servicios personales independientes. Se entenderá como establecimiento permanente, entre otros, las sucursales, agencias, oficinas, fábricas, talleres, instalaciones, minas, canteras o cualquier lugar de exploración, extracción o explotación de recursos naturales.
 
-No obstante lo dispuesto en el párrafo anterior, cuando un residente en el extranjero actúe en el país a través de una persona física o moral, distinta de un agente independiente, se considerará que el residente en el extranjero tiene un establecimiento permanente en el país, en relación con todas las actividades que dicha persona física o moral realice para el residente en el extranjero, aun cuando no tenga en territorio nacional un lugar de negocios o para la prestación de servicios, si dicha persona ejerce poderes para celebrar contratos a nombre o por cuenta del residente en el extranjero tendientes a la realización de las actividades de éste en el país, que no sean de las mencionadas en el artículo 3 de esta Ley.
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SUS FRACCIONES], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+No obstante lo dispuesto en el párrafo anterior, cuando un residente en el extranjero actúe en el país a través de una persona física o moral, distinta de un agente independiente, se considerará que el residente en el extranjero tiene un establecimiento permanente en el país, en relación con todas las actividades que dicha persona física o moral realice para el residente en el extranjero, aun cuando no tenga en territorio nacional un lugar de negocios, si dicha persona concluye habitualmente contratos o desempeña habitualmente el rol principal que lleve a la conclusión de contratos celebrados por el residente en el extranjero y estos:
+
+I. Se celebran a nombre o por cuenta del mismo;
+
+II. Prevén la enajenación de los derechos de propiedad, o el otorgamiento del uso o goce temporal de un bien que posea el residente en el extranjero o sobre el cual tenga el derecho del uso o goce temporal, u
+
+III. Obligan al residente en el extranjero a prestar un servicio.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Para efectos del párrafo anterior, no se considerará que existe un establecimiento permanente en territorio nacional cuando las actividades realizadas por dichas personas físicas o morales sean las mencionadas en el artículo 3 de esta Ley.
 
 En caso de que un residente en el extranjero realice actividades empresariales en el país, a través de un fideicomiso, se considerará como lugar de negocios de dicho residente, el lugar en que el fiduciario realice tales actividades y cumpla por cuenta del residente en el extranjero con las obligaciones fiscales derivadas de estas actividades.
 
 Se considerará que existe establecimiento permanente de una empresa aseguradora residente en el extranjero, cuando ésta perciba ingresos por el cobro de primas dentro del territorio nacional u otorgue seguros contra riesgos situados en él, por medio de una persona distinta de un agente independiente, excepto en el caso del reaseguro.
 
-De igual forma, se considerará que un residente en el extranjero tiene un establecimiento permanente en el país, cuando actúe en el territorio nacional a través de una persona física o moral que sea un agente independiente, si éste no actúa en el marco ordinario de su actividad. Para estos efectos, se considera que un agente independiente no actúa en el marco ordinario de sus actividades cuando se ubique en cualquiera de los siguientes supuestos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+De igual forma, se considerará que un residente en el extranjero tiene un establecimiento permanente en el país, cuando actúe en el territorio nacional a través de una persona física o moral que sea un agente independiente, si éste no actúa en el marco ordinario de su actividad. Para estos efectos, se considera que un agente independiente no actúa en el marco ordinario de sus actividades, entre otros, cuando se ubique en cualquiera de los siguientes supuestos:
 
 I. Tenga existencias de bienes o mercancías, con las que efectúe entregas por cuenta del residente en el extranjero.
 
@@ -82,6 +98,10 @@ V. Perciba sus remuneraciones independientemente del resultado de sus actividade
 
 VI. Efectúe operaciones con el residente en el extranjero utilizando precios o montos de contraprestaciones distintos de los que hubieran usado partes no relacionadas en operaciones comparables.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Se presume que una persona física o moral no es un agente independiente, cuando actúe exclusiva o casi exclusivamente por cuenta de residentes en el extranjero que sean sus partes relacionadas.
+
 Tratándose de servicios de construcción de obra, demolición, instalación, mantenimiento o montaje en bienes inmuebles, o por actividades de proyección, inspección o supervisión relacionadas con ellos, se considerará que existe establecimiento permanente solamente cuando los mismos tengan una duración de más de 183 días naturales, consecutivos o no, en un periodo de doce meses.
 
 Para los efectos del párrafo anterior, cuando el residente en el extranjero subcontrate con otras empresas los servicios relacionados con construcción de obras, demolición, instalaciones, mantenimiento o montajes en bienes inmuebles, o por actividades de proyección, inspección o supervisión relacionadas con ellos, los días utilizados por los subcontratistas en el desarrollo de estas actividades se adicionarán, en su caso, para el cómputo del plazo mencionado.
@@ -90,9 +110,11 @@ Se considerarán ingresos atribuibles a un establecimiento permanente en el paí
 
 También se consideran ingresos atribuibles a un establecimiento permanente en el país, los que obtenga la oficina central de la sociedad o cualquiera de sus establecimientos en el extranjero, en la proporción en que dicho establecimiento permanente haya participado en las erogaciones incurridas para su obtención.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 3.
 
-No se considerará que constituye establecimiento permanente:
+No se considerará que constituye establecimiento permanente un lugar de negocios cuyo único fin sea la realización de actividades de carácter preparatorio o auxiliar respecto a la actividad empresarial del residente en el extranjero. Se considera que no se constituye un establecimiento permanente cuando se realicen las siguientes actividades, siempre que tengan el carácter de preparatorio o auxiliar:
 
 I. La utilización o el mantenimiento de instalaciones con el único fin de almacenar o exhibir bienes o mercancías pertenecientes al residente en el extranjero.
 
@@ -100,9 +122,19 @@ II. La conservación de existencias de bienes o de mercancías pertenecientes al
 
 III. La utilización de un lugar de negocios con el único fin de comprar bienes o mercancías para el residente en el extranjero.
 
-IV. La utilización de un lugar de negocios con el único fin de desarrollar actividades de naturaleza previa o auxiliar para las actividades del residente en el extranjero, ya sean de propaganda, de suministro de información, de investigación científica, de preparación para la colocación de préstamos, o de otras actividades similares.
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+IV. La utilización de un lugar de negocios con el único fin de desarrollar actividades de propaganda, de suministro de información, de investigación científica, de preparación para la colocación de préstamos, o de otras actividades similares.
 
 V. El depósito fiscal de bienes o de mercancías de un residente en el extranjero en un almacén general de depósito ni la entrega de los mismos para su importación al país.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+El párrafo anterior no será aplicable cuando el residente en el extranjero realice funciones en uno o más lugares de negocios en territorio nacional que sean complementarias como parte de una operación de negocios cohesiva, a las que realice un establecimiento permanente que tenga en territorio nacional, o a las que realice en uno o más lugares de negocios en territorio nacional una parte relacionada que sea residente en México o residente en el extranjero con establecimiento permanente en el país. Tampoco será aplicable el párrafo anterior cuando el residente en el extranjero o una parte relacionada, tenga en territorio nacional algún lugar de negocios en donde se desarrollen funciones complementarias que sean parte de una operación de negocios cohesiva, pero cuya combinación de actividades dé como resultado que no tengan el carácter preparatorio o auxiliar.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Lo dispuesto en este artículo también será aplicable en el caso de actividades realizadas a través de una persona física o moral, distinta de un agente independiente.
 
 ###### Artículo 4.
 
@@ -113,6 +145,42 @@ Además de lo previsto en el párrafo anterior, tratándose de operaciones entre
 En los casos en que los tratados para evitar la doble tributación establezcan tasas de retención inferiores a las señaladas en esta Ley, las tasas establecidas en dichos tratados se podrán aplicar directamente por el retenedor; en el caso de que el retenedor aplique tasas mayores a las señaladas en los tratados, el residente en el extranjero tendrá derecho a solicitar la devolución por la diferencia que corresponda.
 
 Las constancias que expidan las autoridades extranjeras para acreditar la residencia surtirán efectos sin necesidad de legalización y solamente será necesario exhibir traducción autorizada cuando las autoridades fiscales así lo requieran.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 4-A.
+
+Para efectos de esta Ley, las entidades extranjeras transparentes fiscales y las figuras jurídicas extranjeras sin importar que la totalidad o parte de sus miembros, socios, accionistas o beneficiarios acumulen los ingresos en su país o jurisdicción de residencia, tributarán como personas morales y estarán obligadas al pago del impuesto sobre la renta de conformidad con el Título II, III, V o VI de esta Ley, en caso que les sea aplicable. Para efectos de lo anterior, cuando actualicen lo dispuesto por la fracción II del artículo 9 del Código Fiscal de la Federación se considerarán residentes en México.
+
+Se consideran entidades extranjeras, las sociedades y demás entes creados o constituidos conforme al derecho extranjero, a condición de que tengan personalidad jurídica propia, así como las personas morales constituidas conforme a derecho mexicano que sean residentes en el extranjero, y se consideran figuras jurídicas extranjeras, los fideicomisos, las asociaciones, los fondos de inversión y cualquier otra figura jurídica similar del derecho extranjero, siempre que no tengan personalidad jurídica propia.
+
+Se considera que las entidades extranjeras y las figuras jurídicas extranjeras son transparentes fiscales, cuando no sean residentes fiscales para efectos del impuesto sobre la renta, en el país o jurisdicción donde estén constituidas ni donde tengan su administración principal de negocios o sede de dirección efectiva, y sus ingresos sean atribuidos a sus miembros, socios, accionistas o beneficiarios. Cuando se consideren residentes fiscales en México, dejarán de considerarse transparentes fiscales para efectos de esta Ley.
+
+Lo dispuesto en este artículo no será aplicable a los tratados para evitar la doble imposición, en cuyo caso, serán aplicables las disposiciones contenidas en los mismos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 4-B.
+
+Los residentes en México y los residentes en el extranjero con establecimiento permanente en el país por los ingresos atribuibles al mismo, están obligados a pagar el impuesto de conformidad con esta Ley, por los ingresos que obtengan a través de entidades extranjeras transparentes fiscales en la proporción que les corresponda por su participación en ellas. En los casos que la entidad extranjera sea parcialmente transparente, los contribuyentes sólo acumularán el ingreso que se les atribuya. Para determinar el monto de los ingresos señalados en este párrafo, se considerará la utilidad fiscal del año de calendario de la entidad extranjera calculada en los términos del Título II de esta Ley.
+
+Los residentes en México y los residentes en el extranjero con establecimiento permanente en el país por los ingresos atribuibles al mismo, también se encuentran obligados a pagar el impuesto de conformidad con esta Ley, por los ingresos que obtengan a través de figuras jurídicas extranjeras en la proporción que les corresponda, sin importar su tratamiento fiscal en el extranjero. En caso que las figuras jurídicas extranjeras sean transparentes fiscales, los ingresos se acumularán en los términos del Título de esta Ley que le corresponda al contribuyente y serán gravables en el mismo año de calendario en que se generen. En estos casos, los contribuyentes podrán efectuar la deducción por los gastos e inversiones que realizó la figura jurídica siempre que sean deducibles de conformidad con el Título de esta Ley que les corresponda, siempre que se realice en la misma proporción que acumularon los ingresos y se cumpla con las reglas de carácter general que emita el Servicio de Administración Tributaria.
+
+En caso que las figuras jurídicas extranjeras sean consideradas residentes fiscales en un país o jurisdicción en el extranjero o en México, el monto de los ingresos será la utilidad fiscal del año de calendario de dicha figura jurídica calculada en los términos del Título II de esta Ley y se deberán de acumular por el contribuyente al 31 de diciembre del año de calendario que se generaron.
+
+Lo dispuesto en este artículo sólo será aplicable cuando el residente en México tenga una participación directa sobre la entidad extranjera transparente fiscal o figura jurídica extranjera, o cuando tengan una participación indirecta que involucre otras entidades extranjeras transparentes fiscales o figuras jurídicas extranjeras. En caso que su participación indirecta involucre por lo menos una entidad extranjera que no sea transparente fiscal, los ingresos que se obtengan a través de la entidad extranjera transparente fiscal o la figura jurídica extranjera sobre la cual tiene participación la entidad extranjera que no sea transparente fiscal, estarán sujetos a lo dispuesto por el Capítulo I del Título VI de esta Ley en caso de ser aplicable.
+
+Los ingresos obtenidos de conformidad con este artículo se considerarán generados directamente por el contribuyente. Los impuestos pagados por o a través de entidades extranjeras transparentes o figuras jurídicas extranjeras a las que se refiere este artículo, se considerarán pagados directamente por el contribuyente, en la misma proporción en que hayan acumulado el ingreso de dicha entidad o figura.
+
+Si los ingresos de la entidad extranjera transparente fiscal o figura jurídica extranjera están sujetos a un impuesto establecido en esta Ley y éste ha sido efectivamente pagado, el mismo podrá ser acreditado por el contribuyente en los términos del artículo 5 de esta Ley y demás disposiciones fiscales aplicables. En estos casos, el mismo será acreditable en su totalidad considerando la misma proporción en que se haya acumulado el ingreso de dicha entidad o figura.
+
+Los contribuyentes señalados en este artículo deberán llevar una cuenta por cada una de las entidades extranjeras transparentes fiscales y figuras jurídicas extranjeras en los mismos términos del artículo 177 de esta Ley, para efectos de no duplicar la acumulación del ingreso cuando dicha entidad distribuya efectivamente un dividendo o utilidad, o cuando la figura jurídica entregue dichos ingresos o los ponga a disposición del contribuyente.
+
+Se considera que las entidades extranjeras son parcialmente transparentes, cuando la legislación fiscal extranjera de que se trate atribuya una parte de sus ingresos a sus socios o accionistas, mientras que la parte restante se atribuya a dicha entidad.
+
+Lo dispuesto en los párrafos anteriores será aplicable aun cuando la entidad extranjera transparente fiscal o figura jurídica extranjera no distribuya o entregue los ingresos regulados por este artículo. Para determinar la proporción de los ingresos que le corresponda a los contribuyentes, sobre las entidades extranjeras transparentes fiscales y las figuras jurídicas extranjeras, se considerará lo dispuesto por los párrafos cuarto y quinto del artículo 177 de esta Ley sin importar que las personas obligadas de conformidad con este artículo no tengan control sobre dichas entidades o figuras.
+
+Adicionalmente, la contabilidad de la entidad extranjera transparente fiscal o figura jurídica extranjera, o la documentación que permita comprobar sus gastos e inversiones, deberá estar a disposición de las autoridades fiscales. En caso de no cumplir con esta obligación, no se permitirá la deducción de los gastos e inversiones realizados por dicha entidad o figura jurídica.
 
 ###### Artículo 5.
 
@@ -199,6 +267,10 @@ Las personas morales residentes en México que obtengan ingresos por dividendos 
 Cuando un residente en el extranjero tenga un establecimiento permanente en México y sean atribuibles a dicho establecimiento ingresos de fuente ubicada en el extranjero, se podrá efectuar el acreditamiento en los términos señalados en este artículo, únicamente por aquellos ingresos atribuibles que hayan sido sujetos a retención.
 
 Se considerará que un impuesto pagado en el extranjero tiene la naturaleza de un impuesto sobre la renta cuando cumpla con lo establecido en las reglas generales que expida el Servicio de Administración Tributaria. Se considerará que un impuesto pagado en el extranjero tiene naturaleza de impuesto sobre la renta cuando se encuentre expresamente señalado como un impuesto comprendido en un tratado para evitar la doble imposición en vigor de los que México sea parte.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+No se otorgará el acreditamiento previsto en el primer párrafo de este artículo, cuando el impuesto también haya sido acreditado en otro país o jurisdicción por motivo distinto de un acreditamiento similar al señalado en los párrafos segundo y cuarto de este artículo, salvo que el ingreso por el cual se pagó dicho impuesto también se haya acumulado en el otro país o jurisdicción donde se haya acreditado el mismo. No se otorgará el acreditamiento previsto en los párrafos segundo y cuarto de este artículo, cuando el dividendo o utilidad distribuida represente una deducción o una reducción equivalente para la persona moral residente en el extranjero que realiza dicho pago o distribución.
 
 ###### Artículo 6.
 
@@ -362,11 +434,17 @@ Tratándose del segundo ejercicio fiscal, el primer pago provisional comprender�
 
 Cuando en el último ejercicio de doce meses no resulte coeficiente de utilidad conforme a lo dispuesto en esta fracción, se aplicará el correspondiente al último ejercicio de doce meses por el que se tenga dicho coeficiente, sin que ese ejercicio sea anterior en más de cinco años a aquél por el que se deban efectuar los pagos provisionales.
 
-II. La utilidad fiscal para el pago provisional se determinará multiplicando el coeficiente de utilidad que corresponda conforme a la fracción anterior, por los ingresos nominales correspondientes al periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que se refiere el pago.
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Las personas morales que distribuyan anticipos o rendimientos en los términos de la fracción II del artículo 94 de esta Ley, disminuirán la utilidad fiscal para el pago provisional que se obtenga conforme al párrafo anterior con el importe de los anticipos y rendimientos que las mismas distribuyan a sus miembros en los términos de la fracción mencionada, en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que se refiere el pago. Se deberá expedir comprobante fiscal en el que conste el monto de los anticipos y rendimientos distribuidos, así como el impuesto retenido.
+II. La utilidad fiscal para el pago provisional se determinará multiplicando el coeficiente de utilidad que corresponda conforme a la fracción anterior, por los ingresos nominales correspondientes al periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que se refiere el pago y, en su caso, se disminuirán los siguientes conceptos:
 
-A la utilidad fiscal determinada conforme a esta fracción se le restará, en su caso, la pérdida fiscal de ejercicios anteriores pendiente de aplicar contra las utilidades fiscales, sin perjuicio de disminuir dicha pérdida de la utilidad fiscal del ejercicio.
+a) El monto de la participación de los trabajadores en las utilidades de las empresas pagada en el mismo ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. El citado monto de la participación de los trabajadores en las utilidades de las empresas se deberá disminuir, por partes iguales, en los pagos provisionales correspondientes a los meses de mayo a diciembre del ejercicio fiscal. La disminución a que se refiere este inciso se realizará en los pagos provisionales del ejercicio de manera acumulativa y el monto que se disminuya en términos de este párrafo en ningún caso será deducible de los ingresos acumulables del contribuyente, de conformidad con lo previsto en la fracción XXVI del artículo 28 de esta Ley.
+
+Para los efectos del párrafo anterior, la disminución de la participación de los trabajadores en las utilidades de las empresas se realizará hasta por el monto de la utilidad fiscal determinada para el pago provisional que corresponda y en ningún caso se deberá recalcular el coeficiente de utilidad determinado en los términos de la fracción I de este artículo.
+
+b) Las personas morales que distribuyan anticipos o rendimientos en los términos de la fracción II del artículo 94 de esta Ley, disminuirán la utilidad fiscal con el importe de los anticipos y rendimientos que las mismas distribuyan a sus miembros en los términos de la fracción mencionada, en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que se refiere el pago. Se deberá expedir comprobante fiscal en el que conste el monto de los anticipos y rendimientos distribuidos, así como el impuesto retenido.
+
+c) La pérdida fiscal de ejercicios anteriores pendiente de aplicar contra las utilidades fiscales, sin perjuicio de disminuir dicha pérdida de la utilidad fiscal del ejercicio.
 
 III. Los pagos provisionales serán las cantidades que resulten de aplicar la tasa establecida en el artículo 9 de esta Ley, sobre la utilidad fiscal que se determine en los términos de la fracción que antecede, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del mismo ejercicio efectuados con anterioridad. También podrá acreditarse contra dichos pagos provisionales la retención que se le hubiera efectuado al contribuyente en el periodo, en los términos del artículo 54 de esta Ley.
 
@@ -712,17 +790,17 @@ Los pagos que se efectúen mediante cheque nominativo, deberán contener la clav
 
 IV. Estar debidamente registradas en contabilidad y que sean restadas una sola vez.
 
-V. Cumplir con las obligaciones establecidas en esta Ley en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos. Tratándose de pagos al extranjero, éstos sólo se podrán deducir siempre que el contribuyente proporcione la información a que esté obligado en los términos del artículo 76 de esta Ley.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+V. Cumplir con las obligaciones establecidas en esta Ley y las demás disposiciones fiscales en materia de retención y entero de impuestos a cargo de terceros o que, en su caso, se recabe de éstos copia de los documentos en que conste el pago de dichos impuestos. Tratándose de pagos al extranjero, éstos sólo se podrán deducir siempre que el contribuyente proporcione la información a que esté obligado en los términos del artículo 76 de esta Ley.
 
 Los pagos que a la vez sean ingresos en los términos del Capítulo I del Título IV, de esta Ley, se podrán deducir siempre que las erogaciones por concepto de remuneración, las retenciones correspondientes y las deducciones del impuesto local por salarios y, en general, por la prestación de un servicio personal independiente, consten en comprobantes fiscales emitidos en términos del Código Fiscal de la Federación y se cumpla con las obligaciones a que se refiere el artículo 99, fracciones I, II, III y V de la presente Ley, así como las disposiciones que, en su caso, regulen el subsidio para el empleo y los contribuyentes cumplan con la obligación de inscribir a los trabajadores en el Instituto Mexicano del Seguro Social cuando estén obligados a ello, en los términos de las leyes de seguridad social.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Tratándose de subcontratación laboral en términos de la Ley Federal del Trabajo, el contratante deberá obtener del contratista copia de los comprobantes fiscales por concepto de pago de salarios de los trabajadores que le hayan proporcionado el servicio subcontratado, de los acuses de recibo, así como de la declaración de entero de las retenciones de impuestos efectuadas a dichos trabajadores y de pago de las cuotas obrero patronales al Instituto Mexicano del Seguro Social. Los contratistas estarán obligados a entregar al contratante los comprobantes y la información a que se refiere este párrafo.
-
-VI. Que cuando los pagos cuya deducción se pretenda realizar se hagan a contribuyentes que causen el impuesto al valor agregado, dicho impuesto se traslade en forma expresa y por separado en el comprobante fiscal correspondiente.
+VI. Que cuando los pagos cuya deducción se pretenda realizar se hagan a contribuyentes que causen el impuesto al valor agregado, dicho impuesto se traslade en forma expresa y por separado en el comprobante fiscal correspondiente. Asimismo, deberán cumplir con la obligación de retención y entero del impuesto al valor agregado que, en su caso, se establezca en la Ley de la materia.
 
 En los casos en los que las disposiciones fiscales establezcan la obligación de adherir marbetes o precintos en los envases y recipientes que contengan los productos que se adquieran, la deducción a que se refiere la fracción II del artículo 25 de esta Ley, sólo podrá efectuarse cuando dichos productos tengan adherido el marbete o precinto correspondiente.
 
@@ -733,8 +811,6 @@ VII. Que en el caso de intereses por capitales tomados en préstamo, éstos se h
 En el caso de capitales tomados en préstamo para la adquisición de inversiones o para la realización de gastos o cuando las inversiones o los gastos se efectúen a crédito, y para los efectos de esta Ley dichas inversiones o gastos no sean deducibles o lo sean parcialmente, los intereses que se deriven de los capitales tomados en préstamo o de las operaciones a crédito, sólo serán deducibles en la misma proporción en la que las inversiones o gastos lo sean.
 
 Tratándose de los intereses derivados de los préstamos a que se refiere la fracción III del artículo 143 de la presente Ley, éstos se deducirán hasta que se paguen en efectivo, en bienes o en servicios.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
@@ -884,8 +960,6 @@ XIII. Los pagos por el uso o goce temporal de aviones y embarcaciones, que no te
 
 Tratándose de pagos por el uso o goce temporal de casas habitación, sólo serán deducibles en los casos en que reúnan los requisitos que señale el Reglamento de esta Ley. Las casas de recreo, en ningún caso serán deducibles.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 Tratándose de automóviles, sólo serán deducibles los pagos efectuados por el uso o goce temporal de automóviles hasta por un monto que no exceda de $200.00, diarios por automóvil o $285.00, diarios por automóvil cuya propulsión sea a través de baterías eléctricas recargables, así como por automóviles eléctricos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, siempre que además de cumplir con los requisitos que para la deducción de automóviles establece la fracción II del artículo 36 de esta Ley, los mismos sean estrictamente indispensables para la actividad del contribuyente. Lo dispuesto en este párrafo no será aplicable tratándose de arrendadoras, siempre que los destinen exclusivamente al arrendamiento durante todo el periodo en el que le sea otorgado su uso o goce temporal.
@@ -934,7 +1008,23 @@ El límite que establece esta fracción no incluye los gastos relacionados con l
 
 XXII. Los pagos por servicios aduaneros, distintos de los honorarios de agentes aduanales y de los gastos en que incurran dichos agentes o la persona moral constituida por dichos agentes aduanales en los términos de la Ley Aduanera.
 
-XXIII. Los pagos hechos a personas, entidades, fideicomisos, asociaciones en participación, fondos de inversión, así como cualquier otra figura jurídica, cuyos ingresos estén sujetos a regímenes fiscales preferentes, salvo que demuestren que el precio o el monto de la contraprestación es igual al que hubieran pactado partes no relacionadas en operaciones comparables excepto por lo previsto en la fracción XXXI de este artículo.
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Los pagos realizados a partes relacionadas o a través de un acuerdo estructurado, cuando los ingresos de su contraparte estén sujetos a regímenes fiscales preferentes.
+
+Esta fracción también será aplicable cuando el pago no se considere un ingreso sujeto a un régimen fiscal preferente, si el receptor directo o indirecto del mismo, utiliza su importe para realizar otros pagos deducibles a otro miembro del grupo o en virtud de un acuerdo estructurado, que se consideren ingresos sujetos a regímenes fiscales preferentes. Lo dispuesto anteriormente será aplicable sin importar que el pago que realice el receptor se efectúe con anterioridad al pago que realice el contribuyente. Se presume lo anterior, salvo prueba en contrario, cuando dicho receptor realice pagos deducibles que se consideren para su contraparte ingresos sujetos a regímenes fiscales preferentes, si el monto de los mismos es igual o mayor al 20% del pago realizado por el contribuyente. En este caso, no será deducible el monto equivalente al pago deducible realizado por el receptor que se considere un ingreso sujeto a un régimen fiscal preferente. Lo dispuesto anteriormente, se calculará independientemente del número de transacciones involucradas, y será aplicable solo por operaciones realizadas entre miembros del mismo grupo o en virtud de un acuerdo estructurado. El Servicio de Administración Tributaria emitirá reglas de carácter general para regular la interacción de la aplicación de este párrafo, con reglas similares contenidas en la legislación extranjera que nieguen la deducción de pagos realizados a regímenes fiscales preferentes o en virtud de que se encuentren sujetos a mecanismos híbridos.
+
+Esta fracción no será aplicable cuando el pago que se considere un ingreso sujeto a un régimen fiscal preferente, derive del ejercicio de la actividad empresarial del receptor del mismo, siempre que se demuestre que éste cuenta con el personal y los activos necesarios para la realización de dicha actividad. Este párrafo solo será aplicable cuando el receptor del pago tenga su sede de dirección efectiva y esté constituido en un país o jurisdicción con el que México tenga un acuerdo amplio de intercambio de información.
+
+Lo dispuesto en el párrafo anterior no será aplicable, cuando el pago se considere un ingreso sujeto a un régimen fiscal preferente por motivo de un mecanismo híbrido. Para efectos de esta fracción, se considera que existe un mecanismo híbrido, cuando la legislación fiscal nacional y extranjera caractericen de forma distinta a una persona moral, figura jurídica, ingreso o el propietario de los activos o un pago, y que dé como resultado una deducción en México y que la totalidad o una parte del pago no se encuentre gravado en el extranjero. Tampoco será aplicable lo dispuesto en el párrafo anterior, cuando el pago sea atribuido a un establecimiento permanente o a una sucursal de un miembro del grupo o por virtud de un acuerdo estructurado, siempre que dicho pago no se encuentre gravado en el país o jurisdicción de residencia fiscal del receptor del mismo, ni en donde se encuentre ubicado dicho establecimiento permanente o sucursal.
+
+Lo dispuesto en el párrafo anterior no será aplicable a los pagos efectuados por el contribuyente a uno de sus socios o accionistas, cuando la legislación fiscal del país o jurisdicción en donde residen estos últimos considere dichos ingresos inexistentes o no gravables en virtud de que al contribuyente se le considere como transparente fiscal para efectos de dicha legislación. Este párrafo solo será aplicable cuando el receptor del pago acumule los ingresos generados por el contribuyente en la parte proporcional a su participación y siempre que estos no se consideren como ingresos sujetos a regímenes fiscales preferentes. No obstante lo anterior, si el monto total de los pagos realizados a que se refiere este párrafo, excede del monto total de los referidos ingresos del contribuyente que hayan sido acumulados por el receptor del pago, la diferencia será no deducible. Si se genera un importe no deducible en el ejercicio por motivo de momentos distintos en la acumulación de ingresos entre el contribuyente y sus socios o accionistas, dicho importe podrá deducirse en los términos que dispongan las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria.
+
+No se aplicará lo señalado en esta fracción en la proporción que el pago esté gravado de forma indirecta por motivo de la aplicación del artículo 4-B o el Capítulo I del Título VI de esta Ley, o disposiciones similares contenidas en la legislación fiscal extranjera en los términos que dispongan las reglas de carácter general que expida el Servicio de Administración Tributaria. Tampoco será aplicable lo señalado en esta fracción, cuando el pago se encuentre sujeto a la tasa de retención establecida en el artículo 171 de esta Ley. Lo señalado en este párrafo no será aplicable en el supuesto establecido en el párrafo quinto de esta fracción.
+
+Para efectos de esta fracción, se considera un acuerdo estructurado, cualquier acuerdo en el que participe el contribuyente o una de sus partes relacionadas, y cuya contraprestación se encuentre en función de pagos realizados a regímenes fiscales preferentes que favorezcan al contribuyente o a una de sus partes relacionadas, o cuando con base en los hechos o circunstancias se pueda concluir que el acuerdo fue realizado para este propósito.
+
+Para efectos de esta fracción, se considera que dos miembros se encuentran en un mismo grupo cuando uno de ellos tenga el control efectivo del otro, o bien, cuando un tercero tenga el control efectivo de ambos. Se considerará control efectivo lo señalado en el artículo 176 de esta Ley, sin importar la residencia fiscal de las partes involucradas.
 
 XXIV. Los pagos de cantidades iniciales por el derecho de adquirir o vender, bienes, divisas, acciones u otros títulos valor que no coticen en mercados reconocidos, de acuerdo con lo establecido por el artículo 16-C del Código Fiscal de la Federación, y que no se hubiera ejercido, siempre que se trate de partes contratantes que sean relacionadas en los términos del artículo 179 de esta Ley.
 
@@ -964,33 +1054,51 @@ XXVIII. Los anticipos por las adquisiciones de las mercancías, materias primas,
 
 Para los efectos de esta fracción, el monto total de las adquisiciones o de los gastos, se deducirán en los términos de la Sección III del Título II de esta Ley, siempre que se cuente con el comprobante fiscal que ampare la totalidad de la operación por la que se efectuó el anticipo.
 
-XXIX. Los pagos que efectúe el contribuyente cuando los mismos también sean deducibles para una parte relacionada residente en México o en el extranjero.
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Lo dispuesto en esta fracción no será aplicable cuando la parte relacionada que deduce el pago efectuado por el contribuyente, acumule los ingresos generados por este último ya sea en el mismo ejercicio fiscal o en el siguiente.
+XXIX. Los pagos que efectúe el contribuyente que también sean deducibles para un miembro del mismo grupo, o para el mismo contribuyente en un país o jurisdicción en donde también sea considerado residente fiscal. Si el contribuyente es un residente en el extranjero con establecimiento permanente en territorio nacional, esta fracción también será aplicable cuando el pago sea deducible para el residente en el extranjero en su país o jurisdicción de residencia fiscal.
+
+Lo dispuesto en esta fracción no será aplicable cuando el miembro del mismo grupo o el residente en el extranjero, referidos en el párrafo anterior, acumulen los ingresos generados por el contribuyente en la parte proporcional a su participación. En el caso que el contribuyente también sea considerado residente fiscal en otro país o jurisdicción, lo dispuesto en esta fracción no será aplicable siempre que los ingresos gravados en México también se acumulen en el otro país o jurisdicción. No obstante lo anterior, si el monto total de los pagos realizados a que se refiere esta fracción, excede del monto total de los ingresos del contribuyente que hayan sido acumulados por los referidos sujetos, el importe que corresponda a dicha diferencia será no deducible en proporción a su participación. Si se genera un importe no deducible en el ejercicio por motivo de momentos distintos en la acumulación de ingresos entre el contribuyente y el miembro del mismo grupo o residente en el extranjero, dicho importe podrá deducirse en los términos que dispongan las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria.
+
+Lo señalado en la fracción XXIII de este artículo será aplicable para efecto de determinar si dos miembros se encuentran en un mismo grupo.
 
 XXX. Los pagos que a su vez sean ingresos exentos para el trabajador, hasta por la cantidad que resulte de aplicar el factor de 0.53 al monto de dichos pagos. El factor a que se refiere este párrafo será del 0.47 cuando las prestaciones otorgadas por los contribuyentes a favor de sus trabajadores que a su vez sean ingresos exentos para dichos trabajadores, en el ejercicio de que se trate, no disminuyan respecto de las otorgadas en el ejercicio fiscal inmediato anterior.
 
-XXXI. Cualquier pago que cumpla con el inciso a), que además se efectúe por alguno de los conceptos señalados en el inciso b) y que se encuentre en cualquiera de los supuestos del inciso c):
+XXXI. (DEROGADA, D.O.F. 9 DE DICIEMBRE DE 2019)
 
-a) Que el pago se realice a una entidad extranjera que controle o sea controlada por el contribuyente.
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Se entenderá por control, cuando una de las partes tenga sobre la otra el control efectivo o el de su administración, a grado tal, que pueda decidir el momento de reparto o distribución de los ingresos, utilidades o dividendos de ellas, ya sea directamente o por interpósita persona.
+XXXII. Los intereses netos del ejercicio que excedan del monto que resulte de multiplicar la utilidad fiscal ajustada por el 30%.
 
-b) Que el pago se efectúe por alguno de los siguientes conceptos:
+Esta fracción solo será aplicable a los contribuyentes cuyos intereses devengados durante el ejercicio que deriven de sus deudas excedan de $20,000,000.00. Esta cantidad aplicará conjuntamente a todas las personas morales sujetas a este Título y establecimientos permanentes de residentes en el extranjero que pertenezcan a un mismo grupo o que sean partes relacionadas. Se considerará como grupo lo establecido por el último párrafo del artículo 24 de esta Ley. Esta cantidad se repartirá entre las personas miembros del grupo o partes relacionadas, en la proporción de los ingresos acumulables generados durante el ejercicio anterior por los contribuyentes a los que les aplica esta fracción.
 
-1. Intereses definidos conforme al artículo 166 de esta Ley.
+Los intereses netos del ejercicio corresponderán a la cantidad que resulte de restar al total de los intereses devengados durante el ejercicio que deriven de deudas del contribuyente, el total de los ingresos por intereses acumulados durante el mismo periodo y la cantidad señalada en el párrafo anterior. Esta fracción no será aplicable cuando el monto de los intereses acumulados sea igual o superior al monto de los intereses devengados.
 
-2. Regalías o asistencia técnica. También se considerarán regalías cuando se enajenen los bienes o derechos a que se refiere el artículo 15-B del Código Fiscal de la Federación, siempre que dicha enajenación se encuentre condicionada al uso, disposición o productividad de los mismos bienes o derechos.
+La utilidad fiscal ajustada será la cantidad que resulte de sumar a la utilidad fiscal señalada en la fracción I del artículo 9 de esta Ley, el total de los intereses devengados durante el ejercicio que deriven de deudas del contribuyente, así como el monto total deducido en el ejercicio por concepto de activos fijos, gastos diferidos, cargos diferidos y erogaciones realizadas en periodos preoperativos de conformidad con esta Ley y demás disposiciones fiscales.
 
-c) Que se encuentre en alguno de los siguientes supuestos:
+La utilidad fiscal ajustada será determinada aun cuando no se obtenga una utilidad fiscal de conformidad con la fracción I del artículo 9 de esta Ley o se genere una pérdida fiscal durante el ejercicio de conformidad con el párrafo primero del artículo 57 del mismo ordenamiento. En el caso que se genere una pérdida fiscal, se restará el monto de la misma de los conceptos señalados en el párrafo anterior. Cuando el monto de la utilidad fiscal ajustada resulte en cero o en un número negativo, se negará la deducción de la totalidad de los intereses a cargo del contribuyente, salvo por el monto que no se encuentre sujeto a esta fracción.
 
-1. Que la entidad extranjera que percibe el pago se considere transparente en términos del artículo 176 de esta Ley. No se aplicará este numeral, en la medida y proporción que los accionistas o asociados de la entidad extranjera transparente estén sujetos a un impuesto sobre la renta por los ingresos percibidos a través de dicha entidad extranjera, y que el pago hecho por el contribuyente sea igual al que hubieren pactado partes independientes en operaciones comparables.
+Para efectos de los párrafos anteriores, el total de los intereses devengados durante el ejercicio que deriven de deudas del contribuyente, sólo incluye los montos deducibles de conformidad con esta Ley. Asimismo, el total de ingresos por intereses solo incluye los montos que se encuentren gravados durante el mismo ejercicio en términos de esta Ley.
 
-2. Que el pago se considere inexistente para efectos fiscales en el país o territorio donde se ubique la entidad extranjera.
+Para efectos del cálculo señalado en esta fracción, el monto de la utilidad fiscal ajustada y los ingresos por intereses que tengan fuente extranjera, sólo se incluirán en estos conceptos por la misma proporción que deba pagarse el impuesto establecido por esta Ley, después de disminuir los impuestos sobre la renta extranjeros acreditados en términos del artículo 5 de esta Ley. Los ingresos acumulados y erogaciones deducibles para efectos de determinar el impuesto establecido en los artículos 176 y 177 de esta Ley, no se encuentran comprendidos dentro de los cálculos establecidos en esta fracción.
 
-3. Que dicha entidad extranjera no considere el pago como ingreso gravable conforme a las disposiciones fiscales que le sean aplicables.
+Para efectos de esta fracción, las ganancias o pérdidas cambiarias devengadas por la fluctuación de moneda extranjera no tendrán el tratamiento de intereses, salvo que deriven de un instrumento cuyo rendimiento sea considerado interés. Tampoco será considerado interés para efectos de esta fracción, las contraprestaciones por aceptación de un aval, salvo que se relacionen con un instrumento cuyo rendimiento sea considerado interés.
 
-Para los efectos de este inciso c), un pago incluye el devengo de una cantidad a favor de cualquier persona y, cuando el contexto así lo requiera, cualquier parte de un pago.
+El monto de los intereses no deducibles se determinará restando a los intereses netos del ejercicio, el límite determinado conforme a esta fracción. Si el resultado de este cálculo es cero o negativo, se permitirá la deducción de la totalidad de los intereses devengados a cargo del contribuyente de conformidad con esta fracción.
+
+El monto de los intereses netos del ejercicio que no sean deducibles de conformidad con esta fracción, podrán deducirse durante los diez ejercicios siguientes hasta agotarlo. El monto no deducido en los diez ejercicios siguientes, será no deducible. Dichos intereses netos pendientes por deducir, tendrán que sumarse a los intereses netos del siguiente ejercicio y la cantidad resultante deberá cumplir con lo dispuesto por esta misma fracción. Se considera que los primeros intereses por deducir, son los correspondientes a los ejercicios anteriores. Para efectos de este párrafo, se aplicarán las mismas reglas señaladas en el artículo 57 de esta Ley, salvo que algo distinto se señale expresamente en esta fracción. Lo dispuesto en este párrafo solo será aplicable si el contribuyente lleva un registro de los intereses netos pendientes por deducir, que esté a disposición de la autoridad fiscal.
+
+Lo dispuesto en esta fracción no será aplicable a los intereses que deriven de deudas contratadas para financiar obras de infraestructura pública, así como para financiar construcciones, incluyendo para la adquisición de terrenos donde se vayan a realizar las mismas, ubicados en territorio nacional; para financiar proyectos para la exploración, extracción, transporte, almacenamiento o distribución del petróleo y de los hidrocarburos sólidos, líquidos o gaseosos, así como para otros proyectos de la industria extractiva y para la generación, transmisión o almacenamiento de electricidad o agua. Esta fracción tampoco será aplicable a los rendimientos de deuda pública. Los ingresos que deriven de las actividades señaladas en este párrafo se tendrán que disminuir de la utilidad fiscal ajustada calculada de conformidad con esta fracción.
+
+Lo señalado en esta fracción no será aplicable a las empresas productivas del Estado, ni a los integrantes del sistema financiero en la realización de las operaciones propias de su objeto.
+
+Lo dispuesto en esta fracción solo será aplicable cuando el monto de los intereses no deducibles determinado de conformidad con los párrafos anteriores sea superior al determinado de conformidad con la fracción XXVII de este artículo, en cuyo caso, dicha fracción no será aplicable.
+
+Lo señalado en esta fracción podrá determinarse, en el caso de sociedades pertenecientes a un mismo grupo de forma consolidada en los términos que dispongan las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXXII, D.O.F. 9 DE DICIEMBRE DE 2019.]</small>
+
+El cálculo señalado en esta fracción se realizará al finalizar el ejercicio fiscal de que se trate y se reflejará en la declaración anual correspondiente.
 
 Los conceptos no deducibles a que se refiere esta Ley, se deberán considerar en el ejercicio en el que se efectúe la erogación y no en aquel ejercicio en el que formen parte del costo de lo vendido.
 
@@ -1396,7 +1504,9 @@ Para los efectos del artículo 44 de esta Ley, se considerará deuda, cualquier 
 
 También son deudas, los pasivos y las reservas del activo, pasivo o capital, que sean o hayan sido deducibles. Para estos efectos, se considera que las reservas se crean o incrementan mensualmente y en la proporción que representan los ingresos del mes del total de ingresos en el ejercicio.
 
-En ningún caso se considerarán deudas las originadas por partidas no deducibles, en los términos de las fracciones I, VIII y IX del artículo 28 de esta Ley, así como el monto de las deudas que excedan el límite a que se refiere el primer párrafo de la fracción XXVII del mismo artículo.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+En ningún caso se considerarán deudas las originadas por partidas no deducibles, en los términos de las fracciones I, VIII y IX del artículo 28 de esta Ley, así como el monto de las deudas que excedan el límite a que se refiere el primer párrafo de la fracción XXVII y el monto de las deudas de las cuales deriven intereses no deducibles de conformidad con la fracción XXXII del mismo artículo, según sean aplicables durante el ejercicio. Sin embargo, en el caso de la fracción XXXII del artículo 28 de esta Ley, cuando el monto de los intereses no deducibles, sea deducido en un ejercicio posterior de conformidad con dicha fracción, el monto de la deuda de la cual deriven dichos intereses sí se considerará para el cálculo señalado en el artículo 44 de esta Ley en dicho ejercicio.
 
 Para los efectos del artículo 44 de esta Ley, se considerará que se contraen deudas por la adquisición de bienes y servicios, por la obtención del uso o goce temporal de bienes o por capitales tomados en préstamo, cuando se dé cualquiera de los supuestos siguientes:
 
@@ -1925,6 +2035,20 @@ Tratándose de las personas morales que se dediquen exclusivamente a las activid
 ###### Artículo 74-A.
 
 Las personas físicas que obtengan ingresos por actividades agrícolas, ganaderas, silvícolas o pesqueras, y que dichos ingresos representen cuando menos el 25% de sus ingresos totales en el ejercicio, sin incluir los ingresos por las enajenaciones de activos fijos o activos fijos y terrenos, de su propiedad que hubiesen estado afectos a las citadas actividades, y que además sus ingresos totales en el ejercicio no rebasen 8 veces el salario mínimo general elevado al año, no pagarán el impuesto sobre la renta por los ingresos provenientes de las citadas actividades hasta por un monto, en el ejercicio, de 1 salario mínimo general elevado al año.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 74-B.
+
+Las personas morales de derecho agrario que obtengan al menos el 80% de sus ingresos totales por la industrialización y comercialización de productos derivados de actividades agrícolas, ganaderas, silvícolas o pesqueras, constituidas únicamente por socios o asociados personas físicas que estén reconocidos como ejidatarios o comuneros de acuerdo con la Ley Agraria, o por ejidos o comunidades constituidos en términos de la referida Ley, que hubieran tenido ingresos totales en el ejercicio inmediato anterior, sin incluir los ingresos por las enajenaciones de activos fijos o activos fijos y terrenos de su propiedad que hubiesen estado afectos a su actividad, que no hubieran excedido de la cantidad de cinco millones de pesos, cumplirán con las obligaciones establecidas en esta Ley conforme a lo dispuesto en la Sección I del Capítulo II del Título IV de la misma y determinarán el impuesto sobre la renta que corresponda aplicando la tasa establecida en el artículo 9 de esta Ley. El impuesto determinado se reducirá en un 30%.
+
+Las personas morales a que refiere este artículo que inicien actividades, podrán optar por aplicar lo dispuesto en el presente artículo, cuando estimen que sus ingresos totales del ejercicio, en los que al menos un 80% sean obtenidos por la industrialización y comercialización de productos derivados de actividades agrícolas, ganaderas, silvícolas o pesqueras, no excederán de la cantidad de cinco millones de pesos. Cuando en el ejercicio citado realicen operaciones por un periodo menor de doce meses, para determinar el citado monto, dividirán los ingresos manifestados entre el número de días que comprende el periodo y el resultado se multiplicará por 365 días.
+
+Los contribuyentes que opten por aplicar lo dispuesto en el presente artículo deberán presentar en enero del año de que se trate, un aviso ante las autoridades fiscales en los términos que para tales efectos establezca el Servicio de Administración Tributaria mediante reglas de carácter general, en el que manifiesten que aplicarán lo dispuesto en este artículo.
+
+Cuando los contribuyentes dejen de cumplir con los requisitos a que se refiere este artículo o cuando sus ingresos en el periodo transcurrido desde el inicio del ejercicio y hasta el mes de que se trate, excedan de la cantidad señalada en el primer párrafo de este artículo, dejarán de aplicar lo dispuesto en este artículo y deberán pagar el impuesto sobre la renta en los términos de la presente Ley en el régimen correspondiente, a partir del ejercicio siguiente a aquél en que ocurra el incumplimiento de dichos requisitos. En el caso de que los contribuyentes obtengan ingresos que excedan de la cantidad de cinco millones de pesos, dicho excedente no tendrá el beneficio de la reducción del impuesto a que se refiere este artículo. Cuando los contribuyentes dejen de aplicar lo dispuesto en este artículo, en ningún caso podrán volver a aplicarlo en los términos del mismo.
+
+Las declaraciones de pagos provisionales y del ejercicio, así como el registro de operaciones se podrán realizar a través de los medios y formatos que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
 
 ###### Artículo 75.
 
@@ -2850,6 +2974,24 @@ Las personas físicas, así como las personas morales a que se refiere el Títul
 
 Los contribuyentes que presten servicios subordinados a personas no obligadas a efectuar la retención, de conformidad con el último párrafo del artículo 99 de esta Ley, y los que obtengan ingresos provenientes del extranjero por estos conceptos, calcularán su pago provisional en los términos de este precepto y lo enterarán a más tardar el día 17 de cada uno de los meses del año de calendario, mediante declaración que presentarán ante las oficinas autorizadas.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 96
+
+Bis. Las personas morales que hagan pagos en una sola exhibición a personas físicas con cargo a la subcuenta del seguro de retiro o a la subcuenta de retiro, cesantía en edad avanzada y vejez, previstas en la Ley del Seguro Social y los que obtengan los trabajadores al servicio del Estado con cargo a la cuenta individual del sistema de ahorro para el retiro, prevista en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, distintos de los conceptos señalados en el artículo 93, fracción IV de esta Ley, deberán retener y enterar el impuesto conforme a lo siguiente:
+
+I. Se dividirá el monto total del ingreso recibido entre el número total de años en que los trabajadores contribuyeron a las subcuentas del seguro de retiro o a la subcuenta de retiro, cesantía en edad avanzada y vejez, previstas en la Ley del Seguro Social o a las subcuentas de ahorro para el retiro y de retiro, cesantía en edad avanzada y vejez, previstas en la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+II. Al resultado obtenido conforme a la fracción anterior, se le aplicará la tarifa que corresponda conforme al artículo 152 de esta Ley.
+
+III. La cantidad que resulte conforme a la fracción anterior, se dividirá entre el resultado obtenido conforme a la fracción I de este artículo, el cociente así obtenido se multiplicará por cien y el producto se expresará en por ciento.
+
+IV. El porcentaje que resulte conforme a la fracción anterior, será el que se aplique sobre el excedente del monto exento del total de los recursos que se entregarán, de conformidad con lo previsto en el artículo 93, fracción XIII de esta Ley, y el resultado será la retención que deba realizarse a cada contribuyente.
+
+V. La retención se enterará ante las oficinas autorizadas, a más tardar el día 17 del mes inmediato siguiente a aquél al que corresponda el pago, y se deberá expedir el comprobante fiscal en el que conste el monto del pago, así como el impuesto retenido.
+
+El impuesto retenido en términos de este artículo se podrá considerar como pago definitivo cuando las personas físicas únicamente obtengan ingresos en el mismo ejercicio por los pagos a que se refiere el primer párrafo de este artículo.
+
 ###### Artículo 97.
 
 Las personas obligadas a efectuar retenciones en los términos del artículo 96 de esta Ley, calcularán el impuesto anual de cada persona que le hubiere prestado servicios personales subordinados.
@@ -3050,7 +3192,13 @@ Se tomará como base la tarifa del artículo 96 de esta Ley, sumando las cantida
 
 Contra el pago provisional determinado conforme a este artículo, se acreditarán los pagos provisionales del mismo ejercicio efectuados con anterioridad.
 
-Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener, como pago provisional, el monto que resulte de aplicar la tasa del 10% sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes comprobante fiscal y constancia de la retención las cuales deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 96 de esta Ley. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Cuando los contribuyentes presten servicios profesionales a las personas morales, éstas deberán retener, como pago provisional, el monto que resulte de aplicar la tasa del 10% sobre el monto de los pagos que les efectúen, sin deducción alguna, debiendo proporcionar a los contribuyentes comprobante fiscal en el que conste el monto del impuesto retenido, el cual deberá enterarse, en su caso, conjuntamente con las retenciones señaladas en el artículo 96 de esta Ley. El impuesto retenido en los términos de este párrafo será acreditable contra el impuesto a pagar que resulte en los pagos provisionales de conformidad con este artículo.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Las personas morales obligadas a efectuar la retención podrán optar por no proporcionar el comprobante fiscal a que se refiere el párrafo anterior, siempre que la persona física que preste los servicios profesionales les expida un comprobante fiscal que cumpla con los requisitos a que se refieren los artículos 29 y 29-A del Código Fiscal de la Federación y en el comprobante se señale expresamente el monto del impuesto retenido. En este caso, las personas físicas que expidan el comprobante fiscal podrán considerarlo como comprobante de retención del impuesto y efectuar el acreditamiento del mismo en los términos de las disposiciones fiscales. Lo previsto en este párrafo en ningún caso libera a las personas morales de las obligaciones de efectuar, en tiempo y forma, la retención y entero del impuesto y la presentación de las declaraciones informativas correspondientes, en los términos de las disposiciones fiscales respecto de las personas a las que les hubieran efectuado dichas retenciones.
 
 ###### Artículo 107.
 
@@ -3156,6 +3304,10 @@ IV. Las personas físicas que obtengan ingresos a que se refiere este Capítulo 
 
 V. Los contribuyentes que realicen actividades a través de fideicomisos o asociación en participación.
 
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+VI. Las personas físicas que presten servicios o enajenen bienes por Internet, a través de las plataformas tecnológicas, aplicaciones informáticas y similares a que se refiere la Sección III de este Capítulo, únicamente por los ingresos que perciban por la utilización de dichos medios.
+
 Los contribuyentes a que se refiere este artículo, calcularán y enterarán el impuesto en forma bimestral, el cual tendrá el carácter de pago definitivo, a más tardar el día 17 de los meses de marzo, mayo, julio, septiembre, noviembre y enero del año siguiente, mediante declaración que presentarán a través de los sistemas que disponga el Servicio de Administración Tributaria en su página de Internet. Para estos efectos, la utilidad fiscal del bimestre de que se trate se determinará restando de la totalidad de los ingresos a que se refiere este artículo obtenidos en dicho bimestre en efectivo, en bienes o en servicios, las deducciones autorizadas en la Ley que sean estrictamente indispensables para la obtención de los ingresos a que se refiere esta Sección, así como las erogaciones efectivamente realizadas en el mismo periodo para la adquisición de activos, gastos y cargos diferidos y la participación de los trabajadores en las utilidades de las empresas pagada en el ejercicio, en los términos del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Cuando los ingresos percibidos, sean inferiores a las deducciones del periodo que corresponda, los contribuyentes deberán considerar la diferencia que resulte entre ambos conceptos como deducibles en los periodos siguientes.
@@ -3172,11 +3324,11 @@ Para determinar el impuesto, los contribuyentes de esta Sección considerarán l
 
 A la utilidad fiscal que se obtenga conforme al sexto párrafo de este artículo, se le aplicará la siguiente:
 
-> <small>N. DE E. VÉASE TARIFA BIMESTRAL EN LA TERCERA SECCIÓN DEL D.O.F. 11 DE DICIEMBRE DE 2013, PÁGINA 40.</small>
+> <small>[N. DE E. VÉASE TARIFA BIMESTRAL EN LA TERCERA SECCIÓN DEL D.O.F. 11 DE DICIEMBRE DE 2013, PÁGINA 40.]</small>
 
 El impuesto que se determine se podrá disminuir conforme a los porcentajes y de acuerdo al número de años que tengan tributando en el régimen previsto en esta Sección, conforme a la siguiente:
 
-> <small>N. DE E. VÉASE TABLA DE REDUCCIÓN DEL IMPUESTO SOBRE LA RENTA A PAGAR EN EL RÉGIMEN DE INCORPORACIÓN EN LA TERCERA SECCIÓN DEL D.O.F. 11 DE DICIEMBRE DE 2013, PÁGINA 40.</small>
+> <small>[N. DE E. VÉASE TABLA DE REDUCCIÓN DEL IMPUESTO SOBRE LA RENTA A PAGAR EN EL RÉGIMEN DE INCORPORACIÓN EN LA TERCERA SECCIÓN DEL D.O.F. 11 DE DICIEMBRE DE 2013, PÁGINA 40.]</small>
 
 > <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -3185,8 +3337,6 @@ Esta tarifa se actualizará en los términos y condiciones que establece el art�
 Contra el impuesto reducido, no podrá deducirse crédito o rebaja alguno por concepto de exenciones o subsidios.
 
 Los contribuyentes que opten por aplicar lo dispuesto en esta Sección, sólo podrán permanecer en el régimen que prevé la misma, durante un máximo de diez ejercicios fiscales consecutivos. Una vez concluido dicho periodo, deberán tributar conforme al régimen de personas físicas con actividades empresariales y profesionales a que se refiere la Sección I del Capítulo II del Título IV de la presente Ley.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
@@ -3246,9 +3396,115 @@ Lo dispuesto en el párrafo anterior no será aplicable cuando el adquirente de 
 
 El enajenante de la propiedad deberá acumular el ingreso por la enajenación de dichos bienes y pagar el impuesto en los términos del Capítulo IV del Título IV de esta Ley.
 
-#### SECCIÓN I. DEL RÉGIMEN GENERAL
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN II. DE LA ENAJENACIÓN DE ACCIONES EN BOLSA DE VALORES
+#### SECCIÓN III
+
+DE LOS INGRESOS POR LA ENAJENACIÓN DE BIENES O LA PRESTACIÓN DE SERVICIOS A TRAVÉS DE INTERNET, MEDIANTE PLATAFORMAS TECNOLÓGICAS, APLICACIONES INFORMÁTICAS Y SIMILARES
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 113-A.
+
+Están obligados al pago del impuesto establecido en esta Sección, los contribuyentes personas físicas con actividades empresariales que enajenen bienes o presten servicios a través de Internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares que presten los servicios a que se refiere la fracción II del artículo 18-B de la Ley del Impuesto al Valor Agregado, por los ingresos que generen a través de los citados medios por la realización de las actividades mencionadas, incluidos aquellos pagos que reciban por cualquier concepto adicional a través de los mismos.
+
+El impuesto a que se refiere el párrafo anterior, se pagará mediante retención que efectuarán las personas morales residentes en México o residentes en el extranjero con o sin establecimiento permanente en el país, así como las entidades o figuras jurídicas extranjeras que proporcionen, de manera directa o indirecta, el uso de las citadas plataformas tecnológicas, aplicaciones informáticas y similares.
+
+La retención se deberá efectuar sobre el total de los ingresos que efectivamente perciban las personas físicas por conducto de los citados medios a que se refiere el primer párrafo de este artículo, sin incluir el impuesto al valor agregado. Esta retención tendrá el carácter de pago provisional. Al monto total de los ingresos mencionados se le aplicarán las tasas de retención previstas en las siguientes tablas:
+
+I. Tratándose de prestación de servicios de transporte terrestre de pasajeros y de entrega de bienes.
+
+Monto del ingreso mensual Tasa de retención
+
+Hasta $5,500 2
+
+Hasta $15,000 3
+
+Hasta $21,000 4
+
+Más de $21,000 8
+
+II. Tratándose de prestación de servicios de hospedaje.
+
+Monto del ingreso mensual Tasa de retención
+
+Hasta $5,000 2
+
+Hasta $15,000 3
+
+Hasta $35,000 5
+
+Más de $35,000 10
+
+III. Tratándose de enajenación de bienes y prestación de servicios.
+
+Monto del ingreso mensual Tasa de retención
+
+Hasta $1,500 0.4%
+
+Hasta $5,000 0.5%
+
+Hasta $10,000 0.9%
+
+Hasta $25,000 1.1%
+
+Hasta $100,000 2.0%
+
+Más de $100,000 5.4%
+
+Las cantidades establecidas en moneda nacional contenidas en las tablas previstas en el párrafo anterior, se actualizarán en los términos y condiciones que establece el artículo 152, último párrafo de esta Ley.
+
+Cuando las personas físicas a que se refiere el primer párrafo de este artículo reciban una parte del pago de las contraprestaciones por la prestación de servicios o la enajenación de bienes directamente de los usuarios o los adquirentes de los mismos, y el total de sus ingresos, incluyendo aquellos efectivamente percibidos por conducto de las citadas plataformas, no excedan de trescientos mil pesos anuales, podrán optar por pagar el impuesto sobre la renta por dichos ingresos recibidos directamente de los usuarios de los servicios o adquirientes de bienes, aplicando las tasas de retención a que se refiere el presente artículo al total de los ingresos recibidos, incluyendo aquellos efectivamente percibidos por conducto de las citadas plataformas tecnológicas, aplicaciones informáticas y similares, y deberán acreditar el impuesto que, en su caso, les hubieran retenido en los términos del presente artículo. El impuesto que se pague en términos de este párrafo se considerará como pago definitivo.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 113-B.
+
+Las personas físicas a que se refiere el artículo anterior, podrán optar por considerar como pagos definitivos las retenciones que les efectúen conforme a la presente Sección, en los siguientes casos:
+
+I. Cuando únicamente obtengan ingresos a los que se refiere el primer párrafo del artículo 113-A de esta Ley, que en el ejercicio inmediato anterior no hayan excedido de la cantidad de trescientos mil pesos.
+
+Las personas físicas que inicien actividades podrán optar por considerar como pago definitivo la retención a que se refiere esta Sección, cuando estimen que sus ingresos del ejercicio no excederán del límite mencionado. Cuando en el ejercicio citado realicen operaciones por un periodo menor de doce meses, para determinar el monto a que se refiere el párrafo anterior, dividirán los ingresos manifestados entre el número de días que comprende el periodo y el resultado se multiplicará por 365 días; si la cantidad obtenida excede del importe del monto citado, en el ejercicio siguiente no se podrá optar por lo establecido en este artículo.
+
+II. Tratándose de las personas físicas a que se refiere la fracción anterior que además obtengan ingresos de los señalados en los Capítulos I y VI de este Título.
+
+Las personas físicas que ejerzan la opción establecida en este artículo estarán a lo siguiente:
+
+a) No podrán hacer las deducciones que correspondan por las actividades realizadas a través de las plataformas tecnológicas, aplicaciones informáticas y similares a que se refiere el artículo anterior, respecto del impuesto calculado con las tasas previstas en esta Sección.
+
+b) Deberán conservar el comprobante fiscal digital por Internet que les proporcione la plataforma tecnológica, aplicaciones informáticas y similares, por los ingresos efectivamente cobrados por la plataforma tecnológica de los usuarios de los bienes y servicios, incluidos aquellos pagos que reciban por cualquier concepto adicional a través de los mismos, y las retenciones efectuadas.
+
+c) Deberán expedir comprobantes fiscales que acrediten los ingresos que perciban, en aquellos casos en que la prestación de servicios o la enajenación de bienes se realice de manera independiente a través de las plataformas tecnológicas, aplicaciones informáticas y similares a que se refiere el artículo anterior.
+
+Para los efectos de este inciso, se entiende que la prestación de servicios o la enajenación de bienes son independientes cuando no se realicen por cuenta de las plataformas tecnológicas, aplicaciones informáticas y similares.
+
+d) Deberán presentar ante el Servicio de Administración Tributaria, en los términos y condiciones que se establezcan mediante reglas de carácter general que para tal efecto emita dicho órgano desconcentrado, un aviso en el que manifiesten su voluntad de optar porque las retenciones que se les realicen en términos del artículo anterior, sean consideradas como definitivas, dentro de los 30 días siguientes a aquel en que el contribuyente perciba el primer ingreso por el pago de las contraprestaciones por las actividades a que se refiere esta Sección.
+
+Una vez ejercida la opción a que se refiere este artículo ésta no podrá variarse durante un período de cinco años contados a partir de la fecha en que el contribuyente haya presentado el aviso a que se refiere el inciso d) de este artículo. Cuando el contribuyente deje de estar en los supuestos a que se refieren las fracciones I y II de este artículo, cesará el ejercicio de la opción prevista en el presente artículo y no podrá volver a ejercerla.
+
+Adicionalmente, los contribuyentes personas físicas a que se refiere el artículo 113-A de esta Ley, deberán proporcionar a las personas morales residentes en México o residentes en el extranjero con o sin establecimiento permanente en el país, así como las entidades o figuras jurídicas extranjeras que proporcionen, de manera directa o indirecta, el uso de las citadas plataformas tecnológicas, aplicaciones informáticas y similares, la información a que se refiere la fracción III del artículo 18-J de la Ley del Impuesto al Valor Agregado, en los términos y condiciones que establece el último párrafo de dicha fracción. Esta obligación será independiente al ejercicio de la opción establecida en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 113-C.
+
+Las personas morales residentes en México o residentes en el extranjero con o sin establecimiento permanente en el país, así como las entidades o figuras jurídicas extranjeras a que se refiere el segundo párrafo del artículo 113-A de esta Ley, tendrán las siguientes obligaciones:
+
+I. En el caso de residentes en el extranjero sin establecimiento permanente en el país y de entidades o figuras jurídicas extranjeras, deberán cumplir con las obligaciones previstas en las fracciones I, VI y VII del artículo 18-D e inciso d), fracción II del artículo 18-J, de la Ley del Impuesto al Valor Agregado.
+
+II. Proporcionar comprobantes fiscales a las personas físicas a las que se les hubiera efectuado la retención a que se refiere el artículo 113-A de esta Ley, en los que conste el monto del pago y el impuesto retenido, a más tardar dentro de los cinco días siguientes al mes en que se efectúe la retención, el cual deberá estar acompañado de la información que señale el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+III. Proporcionar al Servicio de Administración Tributaria la información a que se refiere la fracción III del artículo 18-J de la Ley del Impuesto al Valor Agregado, de conformidad con lo previsto en el último párrafo de dicha fracción.
+
+IV. Retener y enterar el impuesto sobre la renta que corresponda conforme a lo dispuesto en el artículo 113-A de esta Ley, mediante declaración que presentarán ante las oficinas autorizadas a más tardar el día 17 del mes inmediato siguiente al mes por el que se efectúo la retención.
+
+En el caso de que los contribuyentes no proporcionen su clave del Registro Federal de Contribuyentes prevista en el inciso b) de la fracción III del artículo 18-J de la Ley del Impuesto al Valor Agregado, se deberá retener el impuesto que corresponda por los ingresos a que se refiere el artículo 113-A de esta Ley, aplicando la tasa del 20% sobre los ingresos referidos.
+
+V. Conservar como parte de su contabilidad la documentación que demuestre que efectuaron la retención y entero del impuesto sobre la renta correspondiente.
+
+Las obligaciones establecidas en las fracciones III, IV y V de este artículo, deberán cumplirse de conformidad con las reglas de carácter general que para tal efecto emita el Servicio de Administración Tributaria.
+
+#### SECCIÓN I. DEL RÉGIMEN GENERAL
 
 ### CAPÍTULO III. DE LOS INGRESOS POR ARRENDAMIENTO Y EN GENERAL POR OTORGAR EL USO O GOCE TEMPORAL DE BIENES INMUEBLES
 
@@ -3298,7 +3554,13 @@ Los contribuyentes que únicamente obtengan ingresos de los señalados en este C
 
 Tratándose de subarrendamiento, sólo se considerará la deducción por el importe de las rentas del mes o del trimestre que pague el subarrendador al arrendador.
 
-Cuando los ingresos a que se refiere este Capítulo se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 10% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes constancias de la retención y comprobante fiscal; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 96 de esta Ley. El impuesto retenido en los términos de este párrafo podrá acreditarse contra el que resulte de conformidad con el segundo párrafo de este artículo.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Cuando los ingresos a que se refiere este Capítulo se obtengan por pagos que efectúen las personas morales, éstas deberán retener como pago provisional el monto que resulte de aplicar la tasa del 10% sobre el monto de los mismos, sin deducción alguna, debiendo proporcionar a los contribuyentes comprobante fiscal en el que conste el monto del impuesto retenido; dichas retenciones deberán enterarse, en su caso, conjuntamente con las señaladas en el artículo 96 de esta Ley. El impuesto retenido en los términos de este párrafo podrá acreditarse contra el que resulte de conformidad con el segundo párrafo de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Las personas morales obligadas a efectuar la retención podrán optar por no proporcionar el comprobante fiscal a que se refiere el párrafo anterior, siempre que la persona física que haya otorgado el uso o goce temporal de bienes les expida un comprobante fiscal que cumpla con los requisitos a que se refieren los artículos 29 y 29-A del Código Fiscal de la Federación y en el comprobante se señale expresamente el monto del impuesto retenido. En este caso, las personas físicas que expidan el comprobante fiscal podrán considerarlo como comprobante de retención del impuesto y efectuar el acreditamiento del mismo en los términos de las disposiciones fiscales. Lo previsto en este párrafo en ningún caso libera a las personas morales de las obligaciones de efectuar, en tiempo y forma, la retención y entero del impuesto y la presentación de las declaraciones informativas correspondientes, en los términos de las disposiciones fiscales respecto de las personas a las que les hubieran efectuado dichas retenciones.
 
 ###### Artículo 117.
 
@@ -3318,6 +3580,14 @@ II. Llevar contabilidad de conformidad con el Código Fiscal de la Federación y
 
 III. Expedir comprobantes fiscales por las contraprestaciones recibidas.
 
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Tratándose de juicios de arrendamiento inmobiliario en los que se condene al arrendatario al pago de las rentas vencidas, la autoridad judicial requerirá al acreedor que compruebe haber emitido los comprobantes fiscales a que se refiere esta fracción. En caso de que el acreedor no acredite haber emitido dichos comprobantes, la autoridad judicial deberá informar al Servicio de Administración Tributaria la omisión mencionada en un plazo máximo de 5 días contados a partir del vencimiento del plazo que la autoridad judicial haya otorgado al acreedor para cumplir el requerimiento.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+La información a que se refiere el párrafo anterior, deberá enviarse al órgano desconcentrado mencionado de conformidad con las reglas de carácter general que al efecto emita dicho órgano.
+
 IV. Presentar declaraciones provisionales y anual en los términos de esta Ley.
 
 V. Informar a las autoridades fiscales, a través de los medios y formatos electrónicos, que señale el Servicio de Administración Tributaria mediante reglas de carácter general, a más tardar el día 17 del mes inmediato posterior a aquel en el que se realice la operación, de las contraprestaciones recibidas en efectivo, en moneda nacional, así como en piezas de oro o de plata, cuyo monto sea superior a cien mil pesos.
@@ -3327,6 +3597,8 @@ La información a que se refiere esta fracción estará a disposición de la Sec
 Cuando los ingresos a que se refiere este Capítulo sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien lleve los libros, expida los comprobantes fiscales y efectúe los pagos provisionales. Las personas a las que correspondan los rendimientos deberán solicitar a la institución fiduciaria y el comprobante a que se refiere el último párrafo del artículo anterior, el que deberán acompañar a su declaración anual.
 
 ### CAPÍTULO IV. DE LOS INGRESOS POR ENAJENACIÓN DE BIENES
+
+#### SECCIÓN II. DE LA ENAJENACIÓN DE ACCIONES EN BOLSA DE VALORES
 
 ###### Artículo 119.
 
@@ -4164,13 +4436,21 @@ Para efectos de los párrafos anteriores, el impuesto se determinará aplicando 
 
 Los contribuyentes que obtengan ingresos de los señalados en los párrafos primero y segundo de este artículo, tendrán la obligación de expedir comprobante fiscal por las contraprestaciones recibidas. Cuando dichos ingresos sean percibidos a través de operaciones de fideicomiso, será la institución fiduciaria quien expida el comprobante fiscal y efectúe la retención a que se refiere el párrafo anterior.
 
-En los ingresos por otorgar el uso o goce temporal de bienes muebles, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando los bienes muebles destinados a actividades comerciales, industriales, agrícolas, ganaderas y de pesca, se utilicen en el país. Se presume, salvo prueba en contrario, que los bienes muebles se destinan a estas actividades y se utilizan en el país, cuando el que usa o goza el bien es residente en México o residente en el extranjero con establecimiento permanente en territorio nacional. En el caso de que los bienes muebles se destinen a actividades distintas de las anteriores, cuando en el país se haga la entrega material de los bienes muebles.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Para los efectos del párrafo anterior, el impuesto se determinará aplicando la tasa del 25% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención las personas que hagan los pagos. Tratándose de contenedores, remolques o semirremolques que sean importados de manera temporal hasta por un mes en los términos de la Ley Aduanera; así como de aviones y embarcaciones que tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, el impuesto se determinará aplicando la tasa del 5% siempre que dichos bienes sean utilizados directamente por el arrendatario en la transportación de pasajeros o bienes.
+En los ingresos por otorgar el uso o goce temporal de bienes muebles, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando los bienes muebles destinados a actividades agrícolas, ganaderas y de pesca, se utilicen en el país. Se presume, salvo prueba en contrario, que los bienes muebles se destinan a estas actividades y se utilizan en el país, cuando el que usa o goza el bien es residente en México o residente en el extranjero con establecimiento permanente en territorio nacional. En el caso de que los bienes muebles se destinen a actividades distintas de las anteriores, cuando en el país se haga la entrega material de los bienes muebles.
 
-Lo dispuesto en los dos párrafos anteriores no es aplicable a los bienes muebles a que se refieren los artículos 166 y 167 de esta Ley.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-En los ingresos derivados de contratos de fletamento, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando las embarcaciones fletadas realicen navegación de cabotaje en territorio nacional. En este caso, el impuesto se determinará aplicando la tasa del 10% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención la persona que haga los pagos.
+Para los efectos del párrafo anterior, el impuesto se determinará aplicando la tasa del 25% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención las personas que hagan los pagos.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Lo dispuesto en los dos párrafos anteriores no es aplicable a los bienes muebles a que se refiere el artículo 166 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+En los ingresos derivados de contratos de fletamento, salvo que estos correspondan al arrendamiento de equipo comercial, industrial o científico, se considerará que la fuente de riqueza se encuentra en territorio nacional, cuando las embarcaciones fletadas realicen navegación de cabotaje en territorio nacional. En este caso, el impuesto se determinará aplicando la tasa del 10% sobre el ingreso obtenido, sin deducción alguna, debiendo efectuar la retención la persona que haga los pagos.
 
 ###### Artículo 159.
 
@@ -4458,9 +4738,15 @@ Tratándose de ingresos por regalías, por asistencia técnica o por publicidad,
 
 El impuesto se calculará aplicando al ingreso que obtenga el contribuyente, sin deducción alguna, la tasa que en cada caso se menciona:
 
-I. Regalías por el uso o goce temporal de carros de ferrocarril. 5%
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+I. Regalías por el uso o goce temporal de carros de ferrocarril; de contenedores, remolques o semirremolques que sean importados de manera temporal hasta por un mes en los términos de la Ley Aduanera; así como de embarcaciones que tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, siempre que dichos bienes sean utilizados directamente por el arrendatario en la transportación de pasajeros o bienes. 5%
 
 II. Regalías distintas de las comprendidas en la fracción I, así como por asistencia técnica 25%
+
+> <small>(ADICIONADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+III. Regalías por el uso o goce temporal de aviones que tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, siempre que dichos bienes sean utilizados directamente por el arrendatario en la transportación de pasajeros o bienes. 1%
 
 Tratándose de regalías por el uso o goce temporal de patentes o de certificados de invención o de mejora, marcas de fábrica y nombres comerciales, así como por publicidad, la tasa aplicable al ingreso que obtenga el contribuyente por dichos conceptos será la tasa máxima para aplicarse sobre el excedente del límite inferior que establece la tarifa contenida en el artículo 152 de esta Ley.
 
@@ -4586,53 +4872,71 @@ VII. Intereses, los previstos en los artículos 163 y 166 de esta Ley, los cuale
 
 Lo dispuesto en las fracciones II, III y V de este artículo, también es aplicable para las personas morales.
 
-## TÍTULO VI. DE LOS REGÍMENES FISCALES PREFERENTES Y DE LAS EMPRESAS MULTINACIONALES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO I. DE LOS REGÍMENES FISCALES PREFERENTES
+## TÍTULO VI. DE LAS ENTIDADES EXTRANJERAS CONTROLADAS SUJETAS A REGÍMENES FISCALES PREFERENTES Y DE LAS EMPRESAS MULTINACIONALES
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO I. DE LAS ENTIDADES EXTRANJERAS CONTROLADAS SUJETAS A REGÍMENES FISCALES PREFERENTES
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 176.
 
-Los residentes en México y los residentes en el extranjero con establecimiento permanente en el país, están obligados a pagar el impuesto conforme a lo dispuesto en este Capítulo, por los ingresos sujetos a regímenes fiscales preferentes que obtengan a través de entidades o figuras jurídicas extranjeras en las que participen, directa o indirectamente, en la proporción que les corresponda por su participación en ellas, así como por los ingresos que obtengan a través de entidades o figuras jurídicas extranjeras que sean transparentes fiscales en el extranjero.
+Los residentes en México y los residentes en el extranjero con establecimiento permanente en el país, están obligados a pagar el impuesto conforme a lo dispuesto en este Capítulo, por los ingresos sujetos a regímenes fiscales preferentes que obtengan a través de entidades extranjeras en las que participen, directa o indirectamente, en la proporción que les corresponda por su participación en ellas.
 
-Los ingresos a que se refiere este Capítulo son los generados en efectivo, en bienes, en servicios o en crédito por las entidades o figuras jurídicas extranjeras y los que hayan sido determinados presuntamente por las autoridades fiscales, aun en el caso de que dichos ingresos no hayan sido distribuidos por ellas a los contribuyentes de este Capítulo.
+Los ingresos a que se refiere este Capítulo son los generados en efectivo, en bienes, en servicios o en crédito por las entidades extranjeras y los que hayan sido determinados presuntamente por las autoridades fiscales, aun en el caso de que dichos ingresos no hayan sido distribuidos por ellas a los contribuyentes de este Capítulo.
 
-Para los efectos de esta Ley, se considerarán ingresos sujetos a regímenes fiscales preferentes, los que no están gravados en el extranjero o lo están con un impuesto sobre la renta inferior al 75% del impuesto sobre la renta que se causaría y pagaría en México, en los términos de los Títulos II o IV de esta Ley, según corresponda. No se considerará el impuesto sobre dividendos señalado en el segundo párrafo del artículo 140 de la presente Ley al momento de determinar los ingresos sujetos a regímenes fiscales preferentes.
+Para los efectos de esta Ley, se considerarán ingresos sujetos a regímenes fiscales preferentes, los que no están gravados en el extranjero o lo están con un impuesto sobre la renta inferior al 75% del impuesto sobre la renta que se causaría y pagaría en México, en los términos de los Títulos II o IV de esta Ley, según corresponda. No se considerará el impuesto sobre dividendos señalado en el segundo párrafo del artículo 140, ni en el segundo párrafo de la fracción V del artículo 142 de la presente Ley, al momento de determinar los ingresos sujetos a regímenes fiscales preferentes.
 
 Se considerará que los ingresos están sujetos a un régimen fiscal preferente cuando el impuesto sobre la renta efectivamente causado y pagado en el país o jurisdicción de que se trate sea inferior al impuesto causado en México en los términos de este artículo por la aplicación de una disposición legal, reglamentaria, administrativa, de una resolución, autorización, devolución, acreditamiento o cualquier otro procedimiento.
 
-Para determinar si los ingresos se encuentran sujetos a regímenes fiscales preferentes en los términos del párrafo anterior, se considerará cada una de las operaciones que los genere. Cuando los ingresos los obtenga el contribuyente a través de una entidad extranjera en la que sea miembro, socio, accionista o beneficiario de ella, o a través de una figura jurídica que se considere residente fiscal en algún país y tribute como tal en el impuesto sobre la renta en ese país, se considerará la utilidad o pérdida que generen todas las operaciones realizadas en ella.
+Para determinar si los ingresos se encuentran sujetos a regímenes fiscales preferentes en los términos de los párrafos anteriores se considerará la utilidad o pérdida que generen todas las operaciones realizadas en el año de calendario por cada entidad extranjera. Si se tiene participación en dos o más entidades extranjeras residentes de un mismo país o jurisdicción, y éstas consolidan para efectos fiscales en su país de residencia, la determinación se podrá realizar de forma consolidada en los términos que dispongan las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria. Para fines de otros Capítulos de esta Ley, la determinación señalada se realizará por cada operación.
 
-En los casos en los que los ingresos se generen de manera indirecta a través de dos o más entidades o figuras jurídicas extranjeras, se deberán considerar los impuestos efectivamente pagados por todas las entidades o figuras jurídicas a través de las cuales el contribuyente realizó las operaciones que generan el ingreso, para efectos de determinar el impuesto sobre la renta inferior a que se refiere este artículo.
+Para realizar la determinación señalada en los párrafos anteriores, se considerarán todos los impuestos sobre la renta pagados por la entidad extranjera, sin importar que los mismos se paguen en un país o jurisdicción distintos al de su residencia o a diferentes niveles de gobierno. No se considera que un impuesto fue pagado, entre otros, cuando el mismo se realizó mediante el acreditamiento de impuestos sobre la renta o estímulos fiscales.
 
-Tendrán el tratamiento fiscal de este Capítulo, los ingresos que se obtengan a través de entidades o figuras jurídicas extranjeras que sean transparentes fiscales en el extranjero, aun cuando dichos ingresos no tengan un régimen fiscal preferente.
+Si los ingresos generados por una entidad extranjera en un año de calendario se encuentran sujetos a un régimen fiscal preferente y estos se distribuyen a otra entidad extranjera, la determinación que deberá realizarse de conformidad con los párrafos anteriores podrá considerar el monto del impuesto pagado por la segunda entidad correspondiente a dichos ingresos. Lo dispuesto en este párrafo solo será aplicable si la distribución se realiza en el mismo año de calendario en el que se generaron los ingresos o dentro de los seis meses siguientes a la finalización del mismo, y en este mismo periodo se haya pagado dicho impuesto.
 
-Se considera que las entidades o figuras jurídicas extranjeras son transparentes fiscales, cuando no son consideradas como contribuyentes del impuesto sobre la renta en el país en que están constituidas o tienen su administración principal o sede de dirección efectiva y sus ingresos son atribuidos a sus miembros, socios, accionistas, o beneficiarios.
+En lugar de comparar el impuesto pagado por la entidad extranjera frente al impuesto que se causaría y pagaría en México de conformidad con los párrafos anteriores, el contribuyente podrá comparar la tasa estatutaria del impuesto sobre la renta del país o jurisdicción de su residencia fiscal, con la tasa establecida en el artículo 9 de esta Ley o la tasa máxima para aplicarse sobre el excedente del límite inferior que establece la tarifa contenida en el artículo 152 de la misma, según corresponda. En estos casos, no se considerarán ingresos sujetos a regímenes fiscales preferentes cuando dichas utilidades estén gravadas con una tasa igual o mayor al 75% de las tasas mencionadas anteriormente, siempre que sean gravables todos sus ingresos, salvo los dividendos percibidos entre entidades que sean residentes del mismo país o jurisdicción, y que sus deducciones sean o hayan sido realmente erogadas, a condición que se acumulen o deduzcan, respectivamente, en los mismos momentos señalados en los Títulos II o IV de esta Ley, según corresponda. Lo señalado en este párrafo solo será aplicable si la entidad extranjera no está sujeta a algún crédito o beneficio fiscal en su país o jurisdicción de residencia que reduzca su base imponible o impuesto a pagar que no se otorgaría en México, y cuando dicho país o jurisdicción tenga un acuerdo amplio de intercambio de información con México. Lo señalado en este párrafo no será aplicable cuando la entidad extranjera esté sujeta a diversas tasas estatuarias en su país o jurisdicción de residencia. Para estos efectos, se presume, salvo prueba en contrario, que no se reúnen los elementos previstos en este párrafo.
 
-Se consideran entidades extranjeras, las sociedades y demás entes creados o constituidos conforme al derecho extranjero que tengan personalidad jurídica propia, así como las personas morales constituidas conforme al derecho mexicano que sean residentes en el extranjero, y se consideran figuras jurídicas extranjeras, los fideicomisos, las asociaciones, los fondos de inversión y cualquier otra figura jurídica similar del derecho extranjero que no tenga personalidad jurídica propia.
+Lo dispuesto en este artículo no será aplicable a los ingresos que obtenga el contribuyente a través de una entidad extranjera transparente fiscal o figura jurídica extranjera en la que tenga una participación directa, sin importar que los ingresos de estas últimas estén sujetos a un régimen fiscal preferente. Tampoco será aplicable este artículo, a los ingresos que obtenga el contribuyente a través de una entidad extranjera transparente fiscal o figura jurídica extranjera, sin importar que los mismos estén sujetos a un régimen fiscal preferente, cuando su participación indirecta en dicha entidad o figura jurídica esté constituida por una estructura que integre exclusivamente una o varias entidades extranjeras transparentes fiscales o figuras jurídicas extranjeras. Lo anterior, es aplicable a los ingresos que obtenga el contribuyente a través de cada una de estas entidades o figuras que integran dicha estructura. Los casos señalados en este párrafo, estarán sujetos a lo dispuesto por el artículo 4-B de esta Ley.
 
-No se considerarán ingresos sujetos a regímenes fiscales preferentes en los términos de este artículo, los obtenidos a través de entidades o figuras jurídicas extranjeras que realicen actividades empresariales, salvo que sus ingresos pasivos representen más del 20% de la totalidad de sus ingresos.
+Lo dispuesto en este artículo aplicará a los ingresos que obtenga una entidad extranjera a través de entidades extranjeras transparentes fiscales o figuras jurídicas extranjeras en proporción a su participación. Cuando los ingresos generados a través de las entidades extranjeras transparentes fiscales o figuras jurídicas extranjeras no se hayan acumulado por la primera entidad extranjera, se considerarán los mismos para determinar si los ingresos de esta última se encuentran sujetos a un régimen fiscal preferente. Cuando la entidad extranjera transparente o figura jurídica extranjera pague un impuesto sobre la renta sobre dichos ingresos, se considerará para efectos de esta determinación en la proporción que le corresponda a la primera entidad extranjera.
 
-Para los efectos de este Capítulo, se consideran ingresos pasivos: los intereses; dividendos; regalías; las ganancias en la enajenación de acciones, títulos valor o bienes intangibles; las ganancias provenientes de operaciones financieras derivadas cuando el subyacente se refiera a deudas o acciones; las comisiones y mediaciones, así como los ingresos provenientes de la enajenación de bienes que no se encuentren físicamente en el país, territorio o jurisdicción donde resida o se ubique la entidad o figura jurídica extranjera y los ingresos provenientes de servicios prestados fuera de dicho país, territorio o jurisdicción, así como los ingresos derivados de la enajenación de bienes inmuebles, los derivados del otorgamiento del uso o goce temporal de bienes, así como los ingresos percibidos a título gratuito.
+Lo dispuesto en este Capítulo sólo será aplicable cuando el contribuyente ejerza el control efectivo sobre la entidad extranjera de que se trate. Para estos efectos, se entenderá que existe control efectivo cuando se actualice cualquiera de los siguientes supuestos:
 
-No se considerarán ingresos sujetos a regímenes fiscales preferentes los generados a través de entidades extranjeras que sean residentes fiscales en algún país, territorio o jurisdicción y tributen como tales en el impuesto sobre la renta en el mismo, cuando sus utilidades estén gravadas con una tasa igual o mayor al 75% de la tasa establecida en el artículo 9 de esta Ley, siempre que sean gravables todos sus ingresos, salvo los dividendos percibidos de entidades que sean residentes del mismo país, territorio o jurisdicción, y que sus deducciones sean o hayan sido realmente erogadas, aun cuando se acumulen o deduzcan, respectivamente, en momentos distintos a los señalados en los Títulos II y IV de esta Ley. Para estos efectos, se presume, salvo prueba en contrario, que no se reúnen los elementos previstos en este párrafo.
+I. Cuando la participación promedio diaria del contribuyente sobre la entidad extranjera le permita contar con más del 50% del total de derecho de voto en la entidad, le confiera el derecho de veto en las decisiones de la entidad o se requiera su voto favorable para la toma de dichas decisiones, o dicha participación corresponda a más del 50% del valor total de las acciones emitidas por la entidad.
 
-Tampoco se considerarán ingresos sujetos a régimen fiscal preferente los percibidos por las entidades o figuras jurídicas del extranjero por concepto de regalías pagadas por el uso o concesión de uso de una patente o secretos industriales, siempre que se cumpla con lo siguiente:
+II. Cuando por motivo de algún acuerdo o título valor distinto de los señalados en la fracción anterior, el contribuyente tenga derecho a más del 50% sobre los activos o utilidades de la entidad extranjera en caso de cualquier tipo de reducción de capital o liquidación, en cualquier momento del año de calendario.
 
-I. Que dichos intangibles se hayan creado y desarrollado en el país en donde se ubica o resida la entidad o figura jurídica del extranjero que es propietaria de los mismos. No será necesario cumplir con este requisito, si dichos intangibles fueron o son adquiridos a precios o montos que hubieran utilizado partes independientes en operaciones comparables, por dicha entidad o figura jurídica del extranjero.
+III. En el caso que no se cumplan los porcentajes señalados en las fracciones anteriores, cuando la suma de ambos signifique que el contribuyente tiene más del 50% de los derechos referidos.
 
-II. Que las regalías pagadas no generen una deducción autorizada para un residente en México.
+IV. Cuando el contribuyente y la entidad extranjera consoliden sus estados financieros con base en las normas contables que les sean aplicables.
 
-III. Que los pagos de regalías percibidos por dicha entidad o figura jurídica extranjera se hagan a precios y montos que hubieran utilizado con o entre partes independientes en operaciones comparables.
+V. Cuando considerando los hechos y circunstancias, o cualquier tipo de acuerdo o título valor, el contribuyente tenga derecho, de forma directa o indirecta, a determinar unilateralmente los acuerdos de las asambleas o las decisiones de administración de la entidad extranjera, incluso por interpósita persona.
 
-IV. Tener a disposición de las autoridades fiscales la contabilidad de las entidades o figuras jurídicas extranjeras a que se refiere este párrafo y presentar dentro del plazo correspondiente la declaración informativa a que se refiere el artículo 178 de esta Ley.
+Lo señalado en el párrafo anterior será aplicable cuando el contribuyente tenga una participación directa o indirecta sobre la entidad de que se trate. No obstante, también se considerará que existe control efectivo para efectos de las fracciones I, II y III antes señaladas, cuando el contribuyente:
 
-No se considerarán ingresos sujetos a régimen fiscal preferente, los que se generen con motivo de una participación promedio por día en entidades o figuras jurídicas extranjeras que no le permita al contribuyente tener el control efectivo de ellas o el control de su administración, a grado tal, que pueda decidir el momento de reparto o distribución de los ingresos, utilidades o dividendos de ellas, ya sea directamente o por interpósita persona. Para estos efectos, se presume salvo prueba en contrario, que el contribuyente tiene control de las entidades o figuras jurídicas extranjeras que generan los ingresos sujetos a regímenes fiscales preferentes.
+A. Tenga el derecho, directa o indirectamente, de conformidad con la fracción I a ejercer el control efectivo de cada una de las entidades extranjeras intermedias que lo separan de la entidad extranjera en cuestión;
 
-Para la determinación del control efectivo, se considerará la participación promedio diaria del contribuyente y de sus partes relacionadas, en los términos del artículo 179 de esta Ley o personas vinculadas, ya sean residentes en México o en el extranjero. Para los efectos de este párrafo, se considerará que existe vinculación entre personas, si una de ellas ocupa cargos de dirección o de responsabilidad en una empresa de la otra, si están legalmente reconocidos como asociadas en negocios o si se trata del cónyuge o la persona con quien viva en concubinato o son familiares consanguíneos en línea recta ascendente o descendente, colaterales o por afinidad, hasta el cuarto grado.
+B. Tenga el derecho, directa o indirectamente, sobre más del 50% de los activos o utilidades de cada una de las entidades intermedias que lo separan de la entidad extranjera en cuestión en caso de cualquier tipo de reducción de capital o liquidación, por motivo de algún acuerdo o título valor distinto a los señalados en el apartado anterior; o
 
-Las autoridades fiscales podrán autorizar a los contribuyentes de este Capítulo para no aplicar las disposiciones del mismo a los ingresos pasivos generados por entidades o figuras jurídicas del extranjero que tengan autorización para actuar como entidades de financiamiento por las autoridades del país en que residan, cuando dichos ingresos se utilicen para cumplir con los requisitos que al efecto se establezcan para el otorgamiento de créditos contratados con personas, figuras o entidades que no sean consideradas como partes relacionadas en los términos del artículo 179 de esta Ley y no se genere una deducción autorizada para un residente en México.
+C. En el caso que no se cumplan los porcentajes señalados en los apartados anteriores, cuando la suma de ambos signifique que el contribuyente tiene más del 50% de los derechos referidos.
 
-La autorización a que se refiere el párrafo anterior, estará sujeta a las condiciones que se establezcan en las reglas de carácter general que al efecto expidan las autoridades fiscales.
+Para efectos de determinar si existe control efectivo de conformidad con los párrafos anteriores, se considerarán todos los derechos que tenga el contribuyente y sus partes relacionadas y personas vinculadas, sin importar su residencia fiscal o lugar de constitución. En el caso de las partes relacionadas y personas vinculadas que sean residentes en México o establecimientos permanentes en territorio nacional de residentes en el extranjero, se encuentran obligadas a cumplir con las disposiciones de este capítulo, sin importar que por sí mismas no cumplan con el requisito de tener el control efectivo sobre la entidad extranjera de que se trate. En el caso que los derechos estén bajo el control de una figura jurídica, se considera que los mismos le pertenecen al contribuyente o a una entidad extranjera en proporción a su participación sobre la misma.
+
+Se considerará que existe vinculación entre personas, si una de ellas ocupa cargos de dirección o de responsabilidad en una empresa de la otra, si están legalmente reconocidas como asociadas en negocios o si se trata del cónyuge o la persona con quien viva en concubinato o son familiares consanguíneos en línea recta ascendente o descendente, colaterales o por afinidad, hasta el cuarto grado.
+
+Se presume, salvo prueba en contrario, que el contribuyente tiene el control efectivo de las entidades extranjeras que generan los ingresos sujetos a regímenes fiscales preferentes.
+
+No se considerarán ingresos sujetos a las disposiciones de este Capítulo, los obtenidos a través de entidades extranjeras que realicen actividades empresariales, salvo que sus ingresos pasivos representen más del 20% de la totalidad de sus ingresos. Lo dispuesto en este párrafo no será aplicable, cuando más del 50% de los ingresos de la entidad extranjera tengan fuente de riqueza en territorio nacional o hayan representado una deducción en México directa o indirectamente.
+
+Para los efectos de este Capítulo, se consideran ingresos pasivos: los intereses; dividendos; regalías; las ganancias en la enajenación de acciones, títulos valor o bienes intangibles; las ganancias provenientes de operaciones financieras derivadas cuando el subyacente se refiera a deudas o acciones; las comisiones y mediaciones, así como los ingresos provenientes de la enajenación de bienes que no se encuentren físicamente en el país o jurisdicción donde resida o se ubique la entidad y los ingresos provenientes de servicios prestados fuera de dicho país o jurisdicción, o a personas que no residan en dicho país o jurisdicción, así como los ingresos derivados de la enajenación de bienes inmuebles, los derivados del otorgamiento del uso o goce temporal de bienes, así como los ingresos percibidos a título gratuito.
+
+Las autoridades fiscales podrán autorizar a los contribuyentes de este Capítulo para no aplicar las disposiciones del mismo a los ingresos pasivos generados por entidades extranjeras que tengan autorización para actuar como entidades de financiamiento por las autoridades del país en que residan, cuando dichos ingresos se utilicen para cumplir con los requisitos que al efecto se establezcan para el otorgamiento de créditos contratados con personas, figuras o entidades que no sean consideradas como partes relacionadas en los términos del artículo 179 de esta Ley y no se genere una deducción autorizada para un residente en México.
+
+La autorización a que se refiere el párrafo anterior, estará sujeta a las condiciones que se establezcan en las reglas de carácter general que al efecto expida el Servicio de Administración Tributaria.
 
 Cuando se enajenen acciones dentro de un mismo grupo, derivadas de una reestructuración internacional, entre ellas la fusión y escisión, que generen ingresos comprendidos dentro de este Capítulo, los contribuyentes podrán no aplicar las disposiciones del mismo a dichos ingresos, siempre y cuando se cumplan con los requisitos y documentación siguientes:
 
@@ -4644,31 +4948,57 @@ Cuando se enajenen acciones dentro de un mismo grupo, derivadas de una reestruct
 
 4. Que las acciones que forman parte de la reestructuración no se enajenen a una persona, entidad o figura jurídica que no pertenezca a dicho grupo, dentro de los dos años posteriores a la fecha en que terminó la reestructura.
 
-Para efectos de este Capítulo, se entenderá por grupo el conjunto de sociedades cuyas acciones con derecho a voto representativas del capital social sean propiedad directa o indirecta de una misma persona moral en por lo menos 51%.
+Para efectos de este Capítulo, se entenderá por grupo el conjunto de sociedades cuyas acciones con derecho a voto representativas del capital social sean propiedad directa o indirecta de una misma persona moral en por lo menos 51%. Lo dispuesto en el párrafo anterior no será aplicable, respecto a los ingresos generados por la enajenación de acciones que hayan sido emitidas por un residente en México o cuando su valor contable provenga directa o indirectamente en más de un 50% de bienes inmuebles ubicados en el país.
+
+Cuando una entidad extranjera o entidades extranjeras que consolidan fiscalmente en el mismo país o jurisdicción, estén sujetos a un régimen fiscal preferente por motivo de una diferencia en el momento de acumulación de ingresos, deducción de sus erogaciones o pago del impuesto, podrán solicitar una autorización a las autoridades fiscales para efectos de no aplicar las disposiciones de este Capítulo. Esta autorización solo se podrá otorgar si dicha diferencia temporal no sobrepasa un periodo de cuatro años contados a partir del ejercicio fiscal de que se trate y si se cumplen los requisitos adicionales que para tal efecto expida el Servicio de Administración Tributaria mediante reglas de carácter general.
+
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 177.
 
-Para los efectos de este Capítulo, los ingresos a que se refiere el artículo 176 de esta Ley serán gravables para el contribuyente en el ejercicio en que se generen, de conformidad con lo dispuesto en los Títulos II o IV de esta misma Ley, según corresponda, en la proporción de su participación directa o indirecta promedio por día en dicho ejercicio en la entidad o figura jurídica extranjera que los perciba, aun cuando ella no se los distribuya al contribuyente.
+Para los efectos de este Capítulo, los ingresos a que se refiere el artículo 176 de esta Ley serán gravables para el contribuyente en el ejercicio en que se generen en la proporción de su participación directa o indirecta en la entidad extranjera que los perciba, aun cuando ella no se los distribuya al contribuyente. Los contribuyentes deberán calcular el impuesto sobre la renta, aplicando al resultado fiscal de la entidad extranjera la tasa del impuesto que corresponda.
+
+El resultado fiscal de la entidad extranjera se determinará de conformidad con el Título II de esta Ley. El resultado fiscal del ejercicio se determinará en la moneda extranjera en la que deba llevar la contabilidad la entidad extranjera y deberá convertirse a moneda nacional al tipo de cambio del último día hábil del cierre del ejercicio. El Servicio de Administración Tributaria podrá emitir reglas de carácter general para la aplicación de este párrafo.
+
+En el caso en que resulte pérdida fiscal, únicamente podrá disminuirse de las utilidades fiscales de ejercicios posteriores que tenga la misma entidad extranjera que la generó, en los términos del artículo 57 de esta Ley.
+
+Después de determinar el resultado fiscal de la entidad extranjera, el contribuyente deberá calcular el mismo en proporción a su participación directa o indirecta que tenga sobre la misma. Para determinar dicha proporción se considerará lo siguiente:
+
+I. En caso de tener el control efectivo de conformidad con la fracción I o el apartado A del artículo 176 de esta Ley, se considerará su participación directa o indirecta promedio por día del contribuyente sobre la entidad extranjera en el ejercicio de que se trate.
+
+II. En caso de tener el control efectivo de conformidad con la fracción II o apartado B del artículo 176 de esta Ley, se considerará la participación directa o indirecta que tenga el contribuyente sobre los activos y utilidades de la entidad extranjera, en caso de cualquier tipo de reducción de capital o liquidación. En caso que este porcentaje haya variado durante el año de calendario, se considerará el más alto de ellos.
+
+III. En caso de tener control efectivo de conformidad con las fracciones I o II, o los apartados A o B del artículo 176 de esta Ley, o alguna combinación de ellos, el contribuyente deberá sumar las participaciones a las que hacen referencia las fracciones I y II de este artículo, aun cuando alguna de ellas no le genere control efectivo de conformidad con el referido artículo.
+
+IV. En caso de tener el control efectivo de conformidad con la fracción III o apartado C del artículo 176 de esta Ley, se considerará la participación directa o indirecta que le corresponda al contribuyente de conformidad con las fracciones I y II de este artículo.
+
+V. En caso de tener el control efectivo de conformidad con la fracción IV del artículo 176 de esta Ley, se considerará la participación controladora directa o indirecta de conformidad con las normas contables que le sean aplicables.
+
+VI. En caso de tener el control efectivo de conformidad con la fracción V del artículo 176 de esta Ley, se considerará la participación directa o indirecta promedio por día del contribuyente sobre la entidad extranjera en el ejercicio de que se trate, y el porcentaje que tenga el contribuyente sobre los activos y utilidades de la entidad extranjera en caso de cualquier tipo de reducción de capital o liquidación por motivo de un acuerdo o título valor distinto a las acciones.
+
+Si el contribuyente se encuentra en más de uno de los supuestos establecidos en el párrafo anterior, deberá considerar como proporción de su participación directa o indirecta, la más alta de ellas.
+
+Los contribuyentes que opten por efectuar la determinación de forma consolidada a que se refiere el párrafo quinto del artículo 176 de esta Ley, podrán calcular el impuesto de forma consolidada por los ingresos considerados para dicha determinación.
+
+Los contribuyentes deben tener a disposición de las autoridades fiscales la contabilidad de las entidades extranjeras a que se refiere el artículo 176 de esta Ley y presentar dentro del plazo correspondiente la declaración informativa a que se refiere el artículo 178 de la misma. En caso de incumplimiento, se acumulará la totalidad de los ingresos de la entidad extranjera, sin deducción alguna, en la proporción que les corresponda por su participación directa o indirecta en ella.
+
+En el caso de contribuyentes sujetos al Título II de esta Ley, el impuesto se determinará aplicando la tasa prevista en el artículo 9 de esta Ley al resultado fiscal a que se refiere este artículo. En el caso de contribuyentes sujetos al Título IV de esta Ley, el impuesto se determinará aplicando la tasa máxima para aplicarse sobre el excedente del límite inferior que establece la tarifa contenida en el artículo 152 de esta Ley.
 
 Los ingresos gravables a que se refiere este artículo se determinarán cada año de calendario y no se acumularán a los demás ingresos del contribuyente, inclusive para los efectos de los artículos 14, 106, 144 y 145 de esta Ley, según corresponda. El impuesto que resulte de dichos ingresos se enterará conjuntamente con la declaración anual.
 
-Cuando los ingresos se generen a través de una entidad extranjera o a través de una figura jurídica extranjera que sea considerada residente fiscal en algún país y tribute como entidad en el impuesto sobre la renta en ese país, deberá determinarse la utilidad fiscal del ejercicio de dicha entidad o figura jurídica extranjera derivada de esos ingresos en los términos del Título II de esta Ley, considerando como ejercicio el que tenga ella en el país en que esté constituida o resida. Para estos efectos, la utilidad fiscal del ejercicio se determinará en la moneda extranjera en la que deba llevar su contabilidad la entidad o la figura jurídica extranjera y convertirse a moneda nacional al tipo de cambio del día de cierre del ejercicio.
+Los impuestos sobre la renta pagados por las entidades extranjeras por ingresos sujetos a regímenes fiscales preferentes, en México y el extranjero, podrán acreditarse contra el impuesto sobre la renta causado de conformidad con este Capítulo en los mismos términos que el artículo 5 de esta Ley. El monto del impuesto acreditable se determinará en la misma proporción, que se determine el resultado fiscal en términos del párrafo cuarto de este artículo. Lo dispuesto en este párrafo no incluye el impuesto pagado por otras entidades o figuras jurídicas extranjeras, salvo que los ingresos de estas últimas hayan sido incluidos como ingresos de la entidad extranjera de que se trate para efectos de la determinación señalada en el artículo 176 de esta Ley y para el cálculo del resultado fiscal de conformidad con este artículo.
 
-La utilidad fiscal del ejercicio que resulte de lo dispuesto en el párrafo anterior será gravable para el contribuyente en el año de calendario en que termine el ejercicio de la entidad o figura jurídica extranjera en el cual se generó la utilidad, en la proporción que le corresponda por la participación directa o indirecta promedio por día que haya tenido en ella en ese ejercicio. En el caso en que resulte pérdida fiscal, únicamente podrá disminuirse de las utilidades fiscales de ejercicios posteriores que tenga la misma entidad o figura jurídica que la generó, en los términos del artículo 57 de esta Ley.
+Adicionalmente, será acreditable el impuesto sobre la renta pagado por una entidad extranjera en virtud de la aplicación de disposiciones fiscales extranjeras similares a las contenidas en este Capítulo, siempre que el contribuyente tenga una participación accionaria directa o indirecta sobre la entidad que realiza el pago. Lo dispuesto en este párrafo se sujetará a lo señalado en el artículo 5 de esta Ley.
 
-Los ingresos que se generen a través de figuras jurídicas extranjeras que no tributen en algún país como entidades residentes en el mismo, se determinarán por cada tipo de ingreso en forma separada, en los términos del Título II o del Título IV de esta Ley, según le corresponda al contribuyente, y serán gravables para el mismo en el año de calendario en el cual se generen, en la proporción que le corresponda por la participación directa o indirecta promedio por día que haya tenido en dicha entidad en ese año, haciendo su conversión a moneda nacional al tipo de cambio del último día de dicho año.
+El contribuyente deberá llevar una cuenta por cada una de las entidades extranjeras en las que participe que generen los ingresos a que se refiere el artículo 176 de esta Ley. Esta cuenta se adicionará con la utilidad fiscal o el resultado fiscal de cada ejercicio de la entidad extranjera que le corresponda al contribuyente por su participación en ella que ya haya pagado el impuesto a que se refiere este artículo, restando del monto de la misma, el impuesto acreditable de conformidad con el párrafo anterior, y se disminuirá con los ingresos, dividendos o utilidades que la entidad extranjera le distribuya al contribuyente. En caso que la entidad extranjera sujeta a un régimen fiscal preferente de que se trate pague el impuesto señalado en este Capítulo en nombre y por cuenta del contribuyente, el impuesto efectivamente pagado por ésta también deberá ser disminuido de esta cuenta, sin que esto le genere un ingreso acumulable al contribuyente. Cuando el saldo de esta cuenta sea inferior al monto de los dividendos o utilidades distribuidos al contribuyente, deberá pagarse el impuesto por la diferencia aplicando la tasa prevista en el artículo 9 de esta Ley, o la tasa máxima para aplicarse sobre el excedente del límite inferior que establece la tarifa contenida en el artículo 152 de la misma, según corresponda.
 
-Los contribuyentes deben tener a disposición de las autoridades fiscales la contabilidad de las entidades o figuras jurídicas extranjeras a que se refiere el artículo 176 de esta Ley y presentar dentro del plazo correspondiente la declaración informativa a que se refiere el artículo 178 de la misma. En caso de incumplimiento, se considerará gravable la totalidad de los ingresos de la entidad o figura jurídica extranjera, sin deducción alguna, en la proporción que les corresponda por su participación directa o indirecta en ella.
+El saldo de la cuenta prevista en el párrafo anterior, que se tenga al último día de cada ejercicio, sin incluir la utilidad fiscal o el resultado fiscal del propio ejercicio, se actualizará por el periodo comprendido, desde el mes en que se efectuó la última actualización y hasta el último mes del ejercicio de que se trate. Cuando el contribuyente perciba utilidades o dividendos con posterioridad a la actualización prevista en este párrafo, el saldo de la cuenta que se tenga a la fecha de la distribución se actualizará por el periodo comprendido, desde el mes en que se efectuó la última actualización y hasta el mes en que se distribuyan los ingresos, dividendos o utilidades.
 
-El impuesto se determinará aplicando la tasa prevista en el artículo 9 de esta Ley, al ingreso gravable, la utilidad fiscal o el resultado fiscal a que se refiere este artículo, según sea el caso.
+Los dividendos o utilidades que perciban las personas morales residentes en México, disminuidos con el impuesto sobre la renta que se haya pagado por ellos en los términos de este artículo, se adicionará a la cuenta de utilidad fiscal neta a que se refiere el artículo 77 de esta Ley de dichas personas.
 
-El contribuyente deberá llevar una cuenta por cada una de las entidades o figuras jurídicas extranjeras en las que participe que generen los ingresos a que se refiere el artículo 176 de esta Ley. Esta cuenta se adicionará con los ingresos gravables, la utilidad fiscal o el resultado fiscal de cada ejercicio de la entidad o figura jurídica extranjera que le corresponda al contribuyente por su participación en ella que ya hayan pagado el impuesto a que se refiere este artículo, restando del monto de ellos dicho impuesto, y se disminuirá con los ingresos, dividendos o utilidades que la entidad o figura jurídica extranjera le distribuya al contribuyente. Cuando el saldo de esta cuenta sea inferior al monto de los ingresos, dividendos o utilidades distribuidos al contribuyente, deberá pagarse el impuesto por la diferencia aplicando la tasa prevista en el artículo 9 de esta Ley.
+No obstante los párrafos anteriores, cuando los contribuyentes personas físicas obtengan dividendos o utilidades de las entidades extranjeras previstas en este Capítulo, deberán de pagar el impuesto adicional al que se refiere el artículo 142, fracción V, segundo párrafo de esta Ley.
 
-El saldo de la cuenta prevista en el párrafo anterior, que se tenga al último día de cada ejercicio, sin incluir los ingresos gravados, la utilidad fiscal o el resultado fiscal del propio ejercicio, se actualizará por el periodo comprendido, desde el mes en que se efectuó la última actualización y hasta el último mes del ejercicio de que se trate. Cuando el contribuyente perciba ingresos, utilidades o dividendos con posterioridad a la actualización prevista en este párrafo, el saldo de la cuenta que se tenga a la fecha de la distribución se actualizará por el periodo comprendido, desde el mes en que se efectuó la última actualización y hasta el mes en que se distribuyan los ingresos, dividendos o utilidades.
-
-Los ingresos, dividendos o utilidades que perciban las personas morales residentes en México, disminuidos con el impuesto sobre la renta que se haya pagado por ellos en los términos de este artículo, se adicionará a la cuenta de utilidad fiscal neta a que se refiere el artículo 77 de esta Ley de dichas personas.
-
-Cuando el contribuyente enajene acciones de la entidad o figura jurídica extranjera o su participación en ella, se determinará la ganancia en los términos del tercer párrafo del artículo 22 de esta Ley. El contribuyente podrá optar por aplicar lo previsto en el artículo 22 de la misma Ley, como si se tratara de acciones emitidas por personas morales residentes en México.
+Cuando el contribuyente enajene acciones de la entidad extranjera o su participación en ella, se determinará la ganancia en los términos del tercer párrafo del artículo 22 de esta Ley. El contribuyente podrá optar por aplicar lo previsto en el artículo 22 de la misma Ley, como si se tratara de acciones emitidas por personas morales residentes en México.
 
 Tratándose de ingresos derivados de la liquidación o reducción del capital de las entidades extranjeras a las que refiere este artículo, el contribuyente deberá determinar el ingreso gravable en los términos del artículo 78 de esta Ley. Para estos efectos el contribuyente llevará una cuenta de capital de aportación que se adicionará con las aportaciones de capital y las primas netas por suscripción de acciones efectuadas por cada accionista y se disminuirá con las reducciones de capital que se efectúen a cada accionista.
 
@@ -4676,15 +5006,9 @@ El saldo de la cuenta prevista en el párrafo anterior que se tenga al día de c
 
 El capital de aportación por acción actualizado se determinará dividiendo el saldo de la cuenta de capital de aportación de cada accionista, a que se refiere este artículo, entre el total de las acciones que tiene cada uno de ellos de la persona moral, a la fecha del reembolso, incluyendo las correspondientes a la reinversión o capitalización de utilidades o de cualquier otro concepto que integre el capital contable de la misma.
 
-Los contribuyentes a que se refiere este Capítulo podrán acreditar el impuesto pagado en el extranjero por las entidades o figuras jurídicas extranjeras en las que participen, en la misma proporción en que los ingresos de dichas entidades o figuras sean gravables para ellos, contra el impuesto sobre la renta que causen en México, por dichos ingresos, siempre que puedan comprobar el pago en el extranjero del impuesto que acrediten.
+La contabilidad de los contribuyentes relativa a los ingresos a que se refiere este Capítulo deberá reunir los requisitos que establece el inciso a) de la fracción XVII del artículo 76 de esta Ley y deberá estar a disposición de las autoridades fiscales. Para los efectos de este Capítulo, se considera que el contribuyente tiene a disposición de las autoridades fiscales la contabilidad de las entidades extranjeras a que se refiere el primer párrafo del artículo 176 de esta Ley, cuando deba proporcionársela a dicha autoridad al ejercer sus facultades de comprobación.
 
-Los contribuyentes podrán efectuar el acreditamiento del impuesto sobre la renta que se haya retenido y enterado en los términos del Título V de esta Ley, por los ingresos percibidos por las entidades o figuras jurídicas extranjeras en las que participen, en la misma proporción en la que dichos ingresos sean gravables para ellos, contra el impuesto sobre la renta que causen en México, por esos ingresos en los términos de este Capítulo, siempre que los ingresos gravables incluyan el impuesto sobre la renta retenido y enterado en México.
-
-El monto del impuesto acreditable a que se refiere el párrafo anterior no excederá de la cantidad que resulte de aplicar la tasa prevista en el primer párrafo del artículo 9 de esta Ley, al ingreso gravado en los términos del Título V de la misma. Cuando el impuesto acreditable se encuentre dentro del límite a que se refiere este párrafo y no pueda acreditarse total o parcialmente, el acreditamiento podrá efectuarse en los diez ejercicios siguientes, hasta agotarlo. En ningún caso el contribuyente tendrá derecho a la devolución del impuesto que no hubiere podido acreditar.
-
-La contabilidad de los contribuyentes relativa a los ingresos a que se refiere este Capítulo deberá reunir los requisitos que establece el inciso a) de la fracción XVII del artículo 76 de esta Ley y deberá estar a disposición de las autoridades fiscales. Para los efectos de este Capítulo, se considera que el contribuyente tiene a disposición de las autoridades fiscales la contabilidad de las entidades o figuras jurídicas extranjeras a que se refiere el primer párrafo del artículo 176 de esta Ley, cuando deba proporcionársela a dicha autoridad al ejercer sus facultades de comprobación.
-
-Para los efectos de este Título y la determinación de los ingresos de fuente de riqueza en el país, las autoridades fiscales podrán, como resultado del ejercicio de las facultades de comprobación que les conceden las leyes, determinar la simulación de los actos jurídicos exclusivamente para efectos fiscales, la cual tendrá que quedar debidamente fundada y motivada dentro del procedimiento de comprobación y declarada su existencia en el propio acto de determinación de su situación fiscal a que se refiere el artículo 50 del Código Fiscal de la Federación, siempre que se trate de operaciones entre partes relacionadas en términos del artículo 179 de esta Ley.
+Para los efectos de esta Ley las autoridades fiscales podrán, como resultado del ejercicio de las facultades de comprobación que les conceden las leyes, determinar la simulación de los actos jurídicos exclusivamente para efectos fiscales, la cual tendrá que quedar debidamente fundada y motivada dentro del procedimiento de comprobación y declarada su existencia en el propio acto de determinación de su situación fiscal a que se refiere el artículo 50 del Código Fiscal de la Federación, siempre que se trate de operaciones entre partes relacionadas en términos del artículo 179 de esta Ley.
 
 En los actos jurídicos en los que exista simulación, el hecho imponible gravado será el efectivamente realizado por las partes.
 
@@ -4704,7 +5028,9 @@ En los casos que se determine simulación en los términos de los cuatro párraf
 
 Los contribuyentes de este Título, además de las obligaciones establecidas en otros artículos de esta Ley, deberán presentar en el mes de febrero de cada año, ante las oficinas autorizadas, declaración informativa sobre los ingresos que hayan generado o generen en el ejercicio inmediato anterior sujetos a regímenes fiscales preferentes, o en sociedades o entidades cuyos ingresos estén sujetos a dichos regímenes, que corresponda al ejercicio inmediato anterior, acompañando los estados de cuenta por depósitos, inversiones, ahorros o cualquier otro, o en su caso, la documentación que mediante reglas de carácter general establezca el Servicio de Administración Tributaria. Para los efectos de este artículo, se consideran ingresos sujetos a regímenes fiscales preferentes, tanto los depósitos como los retiros. La declaración a que se refiere este artículo, será utilizada únicamente para efectos fiscales.
 
-No obstante lo dispuesto por este Capítulo, los contribuyentes que generen ingresos de cualquier clase provenientes de alguno de los territorios señalados en las disposiciones transitorias de esta Ley, así como los que realicen operaciones a través de figuras o entidades jurídicas extranjeras transparentes fiscalmente a que se refiere el artículo 176 de la misma, deberán presentar la declaración informativa prevista en el párrafo anterior, sin que por este solo hecho se considere que se están generando ingresos sujetos a regímenes fiscales preferentes, salvo que se ubiquen en alguno de los supuestos previstos en el artículo 176 de esta Ley, o cuando no cumplan con la presentación de la declaración informativa a que se refiere este párrafo.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+No obstante lo dispuesto por este Capítulo, los contribuyentes que generen ingresos de cualquier clase provenientes de alguno de los territorios señalados en las disposiciones transitorias de esta Ley, así como los que realicen operaciones a través de entidades extranjeras transparentes fiscales y figuras jurídicas extranjeras a que se refiere el artículo 4-B de la misma, deberán presentar la declaración informativa prevista en el párrafo anterior, sin que por este solo hecho se considere que se están generando ingresos sujetos a regímenes fiscales preferentes, salvo que se ubiquen en alguno de los supuestos previstos en el artículo 176 de esta Ley, o cuando no cumplan con la presentación de la declaración informativa a que se refiere este párrafo.
 
 El titular y los cotitulares de los ingresos previstos en el primer párrafo de este artículo serán quienes deberán presentar la declaración antes señalada y las instituciones financieras sólo estarán relevadas de presentar la misma, siempre que conserven copia de la declaración presentada en tiempo y forma por el titular y cotitulares de los ingresos sujetos a un régimen fiscal preferente.
 
@@ -4876,29 +5202,45 @@ Las personas residentes en el país que hayan optado por aplicar lo dispuesto en
 
 Las personas residentes en el país que realicen, además de la operación de maquila a que se refiere el artículo 181 de la presente Ley, actividades distintas a ésta, podrán acogerse a lo dispuesto en este artículo únicamente por la operación de maquila.
 
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 183.
 
 No se considerará que tienen establecimiento permanente en el país los residentes en el extranjero que proporcionen directa o indirectamente materias primas, maquinaria o equipo, para realizar las actividades de maquila a través de empresas con programa de maquila bajo la modalidad de albergue autorizado por la Secretaría de Economía, siempre que dichos residentes en el extranjero no sean partes relacionadas de la empresa con programa de maquila bajo la modalidad de albergue de que se trate, ni de una parte relacionada de dicha empresa.
 
-Lo dispuesto en el presente artículo será aplicable siempre que las empresas con programa de maquila bajo la modalidad de albergue, presenten anualmente ante las autoridades fiscales, a más tardar en el mes de junio del año de que se trate, declaración informativa de las operaciones realizadas a través de la empresa maquiladora en la modalidad de albergue o de sus partes relacionadas. La información a que se refiere este párrafo se deberá presentar desglosada por cada uno de los residentes en el extranjero que realizan actividades de maquila a través de la empresa con programa de maquila bajo la modalidad de albergue.
+Lo dispuesto en el presente artículo será aplicable siempre que los residentes en el extranjero, por conducto de las empresas con programa de maquila bajo la modalidad de albergue con las que realicen operaciones de maquila cumplan, además de las obligaciones establecidas en las disposiciones fiscales y aduaneras, con lo siguiente:
 
-A las empresas con programa de maquila bajo la modalidad de albergue que apliquen lo dispuesto en este artículo, en ningún caso les aplicará lo previsto en los artículos 181 y 182 de esta Ley.
+I. Solicitar su inscripción en el Registro Federal de Contribuyentes sin obligaciones fiscales.
 
-Las empresas con programa de maquila bajo la modalidad de albergue deberán cumplir, además de las obligaciones establecidas en este artículo y en las disposiciones fiscales y aduaneras, con lo siguiente:
+II. Presentar declaraciones de pagos provisionales y declaración anual, de conformidad con lo dispuesto en esta Ley y con las reglas que para tales efectos emita el Servicio de Administración Tributaria.
 
-I. Observar lo dispuesto por el quinto párrafo del artículo 32-D del Código Fiscal de la Federación, únicamente respecto de las fracciones I, II y III del citado precepto legal.
+III. Presentar anualmente ante las autoridades fiscales, a más tardar en el mes de junio del año siguiente del que se trate, declaración informativa de sus operaciones de maquila en términos de lo que establezca el Servicio de Administración Tributaria mediante reglas de carácter general.
 
-II. Presentar las siguientes declaraciones en los términos y condiciones establecidas en las disposiciones fiscales:
+IV. Presentar un aviso ante el Servicio de Administración Tributaria cuando dejen de realizar las actividades en los términos a que se refiere el presente artículo, dentro del mes siguiente en el que ocurra dicho supuesto.
 
-a) Anuales y mensuales definitivas de los impuestos federales a que estén obligados, con independencia de que en las mismas resulte o no cantidad a pagar.
+Para los efectos de este artículo, la jurisdicción fiscal del residente en el extranjero deberá tener en vigor un acuerdo amplio de intercambio de información con México, sin perjuicio del cumplimiento a los requisitos contenidos en el instrumento internacional aplicable.
 
-b) Informativa de operaciones con terceros.
+En ningún caso, los residentes en el extranjero podrán enajenar productos manufacturados en México que no se encuentren amparados con un pedimento de exportación ni podrán enajenar a la empresa con programa de maquila bajo la modalidad de albergue, la maquinaria, equipo, herramientas, moldes y troqueles y otros activos fijos similares e inventarios, de su propiedad, de sus partes relacionadas residentes en el extranjero o clientes extranjeros, ni antes ni durante el periodo en el que se aplique lo dispuesto en este artículo.
 
-c) Módulo correspondiente a sus operaciones de comercio exterior de la Declaración Informativa de Empresas Manufactureras, Maquiladoras y de Servicios de Exportación.
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-Cuando una empresa con programa de maquila bajo la modalidad de albergue incumpla con alguna de las obligaciones previstas en los incisos anteriores, el Servicio de Administración Tributaria requerirá a dicha empresa para que en un plazo que no exceda de 30 días naturales aclare lo que a su derecho convenga sobre el incumplimiento y en caso de que no se subsane el mismo en el plazo citado, se procederá a la suspensión de dicha empresa en el Padrón de Importadores a que se refiere el artículo 59, fracción IV de la Ley Aduanera.
+###### Artículo 183
 
-Los residentes en el extranjero que realicen actividades de maquila a través de la empresa de maquila bajo la modalidad de albergue, únicamente podrán aplicar lo dispuesto en este artículo por un periodo de 4 años consecutivos.
+Bis. Para efectos del artículo 183 de esta Ley, las empresas con programa de maquila bajo la modalidad de albergue deberán cumplir con lo siguiente:
+
+I. Identificar las operaciones y determinar la utilidad fiscal que corresponda a cada uno de los residentes en el extranjero a que se refiere el artículo 183 de esta Ley, conforme al monto mayor que resulte de comparar lo dispuesto en el artículo 182, fracciones I y II de esta Ley o bien podrán solicitar una resolución particular en términos del artículo 34-A del Código Fiscal de la Federación, para cada uno de los residentes en el extranjero mencionados, para efectos de determinar y enterar el impuesto que resulte de aplicar a dicha utilidad la tasa prevista en el artículo 9 de esta Ley.
+
+Para efectos del párrafo anterior, en la determinación de la utilidad fiscal se considerarán exclusivamente los activos fijos e inventarios de materia prima que son utilizados en la operación de maquila, así como los costos y gastos atribuibles a la operación de maquila en México correspondientes a cada residente en el extranjero.
+
+II. Mantener a disposición de las autoridades fiscales la documentación que acredite que la información de las empresas de residentes en el extranjero se encuentra debidamente identificada de forma individual por cada una de dichas empresas en la contabilidad de la empresa con programa de maquila bajo la modalidad de albergue, durante el plazo establecido en el artículo 30 del Código Fiscal de la Federación.
+
+Las empresas con programa de maquila bajo la modalidad de albergue serán responsables solidarios en el cálculo y entero del impuesto determinado por cuenta del residente en el extranjero, en términos del artículo 26, fracción VIII del Código Fiscal de la Federación.
+
+A las empresas con programa de maquila bajo la modalidad de albergue que apliquen lo dispuesto en el artículo 183 de esta Ley, en ningún caso les aplicará lo previsto en los artículos 181 y 182 de esta Ley, salvo lo dispuesto en la fracción I de este artículo.
+
+Cuando una empresa con programa de maquila bajo la modalidad de albergue incumpla con alguna de las obligaciones previstas en las fracciones anteriores, el Servicio de Administración Tributaria requerirá a dicha empresa para que, en un plazo que no exceda de 30 días naturales, aclare lo que a su derecho convenga sobre el incumplimiento.
+
+En caso de que la empresa con programa de maquila bajo la modalidad de albergue no subsane el incumplimiento en el plazo previsto en el párrafo anterior, se procederá a la suspensión de dicha empresa en el Padrón de Importadores a que se refiere el artículo 59, fracción IV de la Ley Aduanera y se considerará que el residente en el extranjero tiene establecimiento permanente en México, por lo que deberá cumplir con todas las obligaciones de carácter fiscal, de conformidad con el artículo 76 de esta Ley, por las operaciones de maquila que realice en el territorio nacional una vez que proceda la suspensión a que se refiere el presente párrafo.
 
 ###### Artículo 184.
 
@@ -4934,11 +5276,17 @@ Los contribuyentes que realicen pagos de primas de contratos de seguro que tenga
 
 ### CAPÍTULO II. DE LOS PATRONES QUE CONTRATEN A PERSONAS QUE PADEZCAN DISCAPACIDAD Y ADULTOS MAYORES
 
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 186.
 
-El patrón que contrate a personas que padezcan discapacidad motriz y que para superarla requieran usar permanentemente prótesis, muletas o sillas de ruedas; mental; auditiva o de lenguaje, en un ochenta por ciento o más de la capacidad normal o tratándose de invidentes, podrá deducir de sus ingresos, un monto equivalente al 100% del impuesto sobre la renta de estos trabajadores retenido y enterado conforme al Capítulo I del Título IV de esta Ley, siempre y cuando el patrón esté cumpliendo respecto de dichos trabajadores con la obligación contenida en el artículo 12 de la Ley del Seguro Social y además obtenga del Instituto Mexicano del Seguro Social el certificado de discapacidad del trabajador.
+Se otorga un estímulo fiscal a los contribuyentes, personas físicas o morales del impuesto sobre la renta, que empleen a personas que padezcan discapacidad motriz, que para superarla requieran usar permanentemente prótesis, muletas o sillas de ruedas; mental; auditiva o de lenguaje, en un ochenta por ciento o más de la capacidad normal o tratándose de invidentes.
 
-Se otorgará un estímulo fiscal a quien contrate adultos mayores, consistente en el equivalente al 25 % del salario efectivamente pagado a las personas de 65 años y más. Para estos efectos, se deberá considerar la totalidad del salario que sirva de base para calcular, en el ejercicio que corresponda, las retenciones del impuesto sobre la renta del trabajador de que se trate, en los términos del artículo 96 de esta Ley.
+El estímulo fiscal consiste en poder deducir de los ingresos acumulables del contribuyente para los efectos del impuesto sobre la renta por el ejercicio fiscal correspondiente, un monto equivalente al 25% del salario efectivamente pagado a las personas antes señaladas. Para estos efectos, se deberá considerar la totalidad del salario que sirva de base para calcular, en el ejercicio que corresponda, las retenciones del impuesto sobre la renta del trabajador de que se trate, en los términos del artículo 96 de esta Ley. El estímulo fiscal a que se refiere este párrafo será aplicable siempre que los contribuyentes obtengan el certificado de discapacidad expedido por el Instituto Mexicano del Seguro Social, respecto de los citados trabajadores.
+
+Se otorga un estímulo fiscal a quien contrate adultos mayores, consistente en deducir de sus ingresos acumulables para los efectos del impuesto sobre la renta del ejercicio fiscal correspondiente, el equivalente al 25% del salario efectivamente pagado a las personas de 65 años y más. Para estos efectos, se deberá considerar la totalidad del salario que sirva de base para calcular, en el ejercicio que corresponda, las retenciones del impuesto sobre la renta del trabajador de que se trate, en los términos del artículo 96 de esta Ley.
+
+Los contribuyentes que apliquen los beneficios previstos en este artículo, deberán cumplir con las obligaciones contenidas en el artículo 15 de la Ley del Seguro Social.
 
 ### CAPÍTULO III. DE LOS FIDEICOMISOS DEDICADOS A LA ADQUISICIÓN O CONSTRUCCIÓN DE INMUEBLES
 
@@ -4958,13 +5306,43 @@ III. Que al menos el 70% del patrimonio del fideicomiso esté invertido en los b
 
 IV. Que los bienes inmuebles que se construyan o adquieran se destinen al arrendamiento y no se enajenen antes de haber transcurrido al menos cuatro años contados a partir de la terminación de su construcción o de su adquisición, respectivamente. Los bienes inmuebles que se enajenen antes de cumplirse dicho plazo no tendrán el tratamiento fiscal preferencial establecido en el artículo 188 de esta Ley.
 
-V. Que la fiduciaria emita certificados de participación por los bienes que integren el patrimonio del fideicomiso y que dichos certificados se coloquen en el país entre el gran público inversionista o bien, sean adquiridos por un grupo de inversionistas integrado por al menos diez personas, que no sean partes relacionadas entre sí, en el que ninguna de ellas en lo individual sea propietaria de más del 20% de la totalidad de los certificados de participación emitidos.
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+V. Que la fiduciaria emita certificados de participación por los bienes que integren el patrimonio del fideicomiso y que dichos certificados se coloquen en el país entre el gran público inversionista.
 
 VI. Que la fiduciaria distribuya entre los tenedores de los certificados de participación cuando menos una vez al año, a más tardar el 15 de marzo, al menos el 95% del resultado fiscal del ejercicio inmediato anterior generado por los bienes integrantes del patrimonio del fideicomiso.
 
 VII. Que cuando la fiduciaria estipule en los contratos o convenios de arrendamiento que para determinar el monto de las contraprestaciones se incluyan montos variables o referidos a porcentajes, excepto en los casos en que la contraprestación se determine en función de un porcentaje fijo de las ventas del arrendatario, estos conceptos no podrán exceder del 5% del monto total de los ingresos anuales por concepto de rentas del fideicomiso.
 
 VIII. Que se encuentre inscrito en el Registro de Fideicomisos dedicados a la adquisición o construcción de inmuebles, de conformidad con las reglas que al efecto expida el Servicio de Administración Tributaria.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+IX. Que la fiduciaria presente a más tardar el 15 de febrero de cada año:
+
+a) La información de identificación de los fideicomitentes.
+
+b) La información y documentación de cada una de las operaciones mediante las cuales se realizó la aportación al fideicomiso de cada uno de los inmuebles, incluyendo la identificación de los mismos, así como el monto y número de los certificados de participación entregados a los fideicomitentes. En caso de que los inmuebles aportados al fideicomiso hayan sido arrendados a dichos fideicomitentes, los contratos respectivos.
+
+c) Informe de cada inmueble aportado al fideicomiso que contenga:
+
+1. Fecha de aportación.
+
+2. Valor de la aportación.
+
+3. Años transcurridos entre la fecha de construcción y la de su aportación.
+
+4. Domicilio.
+
+5. Uso o destino.
+
+6. Datos de identificación del portafolio de inversión al que se integra el inmueble, de ser el caso.
+
+7. Cuando el inmueble sea enajenado por la institución fiduciaria, incluir en el informe la fecha de enajenación, valor de enajenación y ganancia o pérdida.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, D.O.F. 9 DE DICIEMBRE DE 2019.]</small>
+
+La información y documentación a que se refiere esta fracción deberá presentarse de conformidad con las reglas de carácter general que al efecto emita el Servicio de Administración Tributaria.
 
 ###### Artículo 188.
 
@@ -5024,9 +5402,11 @@ XII. Cuando los fideicomitentes aporten bienes inmuebles al fideicomiso que sean
 
 ### CAPÍTULO IV. DE LOS ESTÍMULOS FISCALES A LA PRODUCCIÓN Y DISTRIBUCIÓN CINEMATOGRÁFICA Y TEATRAL NACIONAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 189.
 
-Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al monto que, en el ejercicio fiscal de que se trate, aporten a proyectos de inversión en la producción cinematográfica nacional o en la distribución de películas cinematográficas nacionales, contra el impuesto sobre la renta que tengan a su cargo en el ejercicio en el que se determine el crédito. Este crédito fiscal no será acumulable para efectos del impuesto sobre la renta. En ningún caso, el estímulo podrá exceder del 10% del impuesto sobre la renta causado en el ejercicio inmediato anterior al de su aplicación.
+Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al monto que, en el ejercicio fiscal de que se trate, aporten a proyectos de inversión en la producción cinematográfica nacional o en la distribución de películas cinematográficas nacionales, contra el impuesto sobre la renta del ejercicio y de los pagos provisionales del mismo ejercicio, causado en el ejercicio en el que se determine el crédito. Este crédito fiscal no será acumulable para efectos del impuesto sobre la renta. En ningún caso, el estímulo podrá exceder del 10% del impuesto sobre la renta causado en el ejercicio inmediato anterior al de su aplicación.
 
 Cuando dicho crédito sea mayor al impuesto sobre la renta que tengan a su cargo en el ejercicio fiscal en el que se aplique el estímulo, los contribuyentes podrán acreditar la diferencia que resulte contra el impuesto sobre la renta que tengan a su cargo en los diez ejercicios siguientes hasta agotarla.
 
@@ -5036,7 +5416,9 @@ Asimismo, se considerarán proyectos de inversión en la distribución de pelíc
 
 Para la aplicación del estímulo fiscal a que se refiere el presente artículo, se estará a lo siguiente:
 
-I. Se creará un Comité Interinstitucional que estará formado por un representante del Consejo Nacional para la Cultura y las Artes, uno del Instituto Mexicano de Cinematografía y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité Interinstitucional y tendrá voto de calidad.
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+I. Se creará un Comité Interinstitucional que estará formado por un representante del Consejo Nacional para la Cultura y las Artes, uno del Instituto Mexicano de Cinematografía, uno del Servicio de Administración Tributaria y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité Interinstitucional y tendrá voto de calidad.
 
 II. El monto total del estímulo a distribuir entre los aspirantes del beneficio, no excederá de 650 millones de pesos por cada ejercicio fiscal para los proyectos de inversión en la producción cinematográfica nacional ni de 50 millones de pesos por cada ejercicio fiscal para los proyectos de inversión en la distribución de películas cinematográficas nacionales.
 
@@ -5050,27 +5432,49 @@ IV. El Comité Interinstitucional publicará a más tardar el último día de fe
 
 V. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+El estímulo fiscal a que se refiere este artículo no podrá aplicarse conjuntamente con otros tratamientos fiscales que otorguen beneficios o estímulos fiscales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 190.
 
-Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al monto que, en el ejercicio fiscal de que se trate, aporten a proyectos de inversión en la producción teatral nacional; de artes visuales; danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto, y jazz; contra el impuesto sobre la renta del ejercicio y de los pagos provisionales del mismo ejercicio, causado en el ejercicio en el que se determine el crédito. Este crédito fiscal no será acumulable para efectos del impuesto sobre la renta. En ningún caso el estímulo podrá exceder del 10% del impuesto sobre la renta causado en el ejercicio inmediato anterior al de su aplicación.
+Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al monto que, en el ejercicio fiscal de que se trate, aporten a proyectos de inversión en la producción teatral nacional; en la edición y publicación de obras literarias nacionales; de artes visuales; danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto, y jazz; contra el impuesto sobre la renta del ejercicio y de los pagos provisionales del mismo ejercicio, causado en el ejercicio en el que se determine el crédito. Este crédito fiscal no será acumulable para efectos del impuesto sobre la renta. En ningún caso el estímulo podrá exceder del 10% del impuesto sobre la renta causado en el ejercicio inmediato anterior al de su aplicación.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 Cuando el crédito a que se refiere el párrafo anterior sea mayor al impuesto sobre la renta causado en el ejercicio en el que se aplique el estímulo, los contribuyentes podrán aplicar la diferencia que resulte contra el impuesto sobre la renta causado en los diez ejercicios siguientes hasta agotarla.
 
-Para los efectos de este artículo, se considerarán como proyectos de inversión en la producción teatral nacional; artes visuales; danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto y jazz, las inversiones en territorio nacional, destinadas específicamente al montaje de obras dramáticas; de artes visuales; danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto y jazz; a través de un proceso en el que se conjugan la creación y realización, así como los recursos humanos, materiales y financieros necesarios para dicho objeto.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Para los efectos de este artículo, se considerarán como proyectos de inversión en la producción teatral nacional; artes visuales; danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto y jazz, las inversiones en territorio nacional, destinadas específicamente al montaje de obras dramáticas; de artes visuales; danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto y jazz; a través de un proceso en el que se conjugan la creación y realización, así como los recursos humanos, materiales y financieros necesarios para dicho objeto. En el caso de proyectos de inversión para la edición y publicación de obras literarias nacionales, se considerarán únicamente a aquellas obras originales cuyos autores sean mexicanos que no tengan obras traducidas a otro idioma extranjero ni reeditadas en ningún país; y no se trate de obras por encargo en términos de la Ley Federal del Derecho de Autor.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. CON SUS FRACCIONES], D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 Para la aplicación del estímulo fiscal a que se refiere el presente artículo, se estará a lo siguiente:
 
-I. Se creará un Comité Interinstitucional que estará formado por un representante de la Secretaría de Cultura, uno del Instituto Nacional de Bellas Artes y Literatura y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité y tendrá voto de calidad.
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
-II. El monto total del estímulo fiscal a distribuir entre los aspirantes del beneficio no excederá de 150 millones de pesos por cada ejercicio fiscal ni de 2 millones de pesos por cada contribuyente y proyecto de inversión en la producción teatral nacional; de artes visuales, danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto y jazz.
+I. Se creará un Comité Interinstitucional que estará formado por un representante de la Secretaría de Cultura, uno del Instituto Nacional de Bellas Artes y Literatura, uno del Servicio de Administración Tributaria y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité y tendrá voto de calidad.
+
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+II. El monto total del estímulo fiscal a distribuir entre los aspirantes del beneficio no excederá de 200 millones de pesos por cada ejercicio fiscal ni de 2 millones de pesos por cada contribuyente y proyecto de inversión en la producción teatral nacional; de artes visuales, danza; música en los campos específicos de dirección de orquesta, ejecución instrumental y vocal de la música de concierto y jazz.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+El Comité podrá autorizar un monto de hasta 10 millones de pesos a proyectos a los que se refiere el párrafo anterior, siempre que se trate de proyectos que por sus características de producción, riqueza artística y cultural, requieran un monto de inversión mayor a 6 millones de pesos.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+En el caso de los proyectos de inversión en la edición y publicación de obras literarias nacionales, el beneficio no podrá exceder de 500 mil pesos por proyecto de inversión ni de 2 millones de pesos por contribuyente.
 
 III. El Comité Interinstitucional a que se refiere la fracción I de este artículo publicará a más tardar el último día de febrero de cada ejercicio fiscal, el monto del estímulo fiscal distribuido durante el ejercicio anterior, así como los contribuyentes beneficiados y los proyectos por los cuales fueron merecedores de dicho beneficio.
 
 IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional a que se refiere la fracción I de este artículo.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 El estímulo fiscal a que se refiere este artículo, no podrá aplicarse conjuntamente con otros tratamientos fiscales que otorguen beneficios o estímulos fiscales.
 
@@ -5308,8 +5712,6 @@ El Servicio de Administración Tributaria podrá instrumentar, mediante reglas d
 
 ### CAPÍTULO IX. DEL ESTÍMULO FISCAL A LA INVESTIGACIÓN Y DESARROLLO DE TECNOLOGÍA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 202.
@@ -5324,7 +5726,9 @@ Para los efectos de este artículo, se consideran gastos e inversiones en invest
 
 Para la aplicación del estímulo fiscal a que se refiere el presente artículo, se estará a lo siguiente:
 
-I. Se creará un Comité Interinstitucional que estará formado por un representante del Consejo Nacional de Ciencia y Tecnología, uno de la Secretaría de Economía, uno de la Presidencia de la República responsable de los temas de ciencia y tecnología, uno del Servicio de Administración Tributaria y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité Interinstitucional y tendrá voto de calidad. La Secretaría Técnica del Comité estará a cargo del Consejo Nacional de Ciencia y Tecnología.
+> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+I. Se creará un Comité Interinstitucional que estará formado por un representante del Consejo Nacional de Ciencia y Tecnología, uno de la Secretaría de Economía, uno del Servicio de Administración Tributaria y uno de la Secretaría de Hacienda y Crédito Público, quien presidirá el Comité Interinstitucional y tendrá voto de calidad. La Secretaría Técnica del Comité estará a cargo del Consejo Nacional de Ciencia y Tecnología.
 
 II. El monto total del estímulo a distribuir entre los aspirantes del beneficio, no excederá de 1,500 millones de pesos por cada ejercicio fiscal ni de 50 millones de pesos por contribuyente.
 
@@ -5332,7 +5736,7 @@ III. El Comité Interinstitucional publicará a más tardar el último día de f
 
 IV. Los contribuyentes deberán cumplir lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional. Estas reglas también establecerán compromisos de desarrollo de prototipos y otros entregables equivalentes, así como de generación de patentes que se deberán registrar en México.
 
-Los contribuyentes a que se refiere el primer párrafo de este artículo, además de cumplir las obligaciones establecidas en otros artículos de esta Ley, deberán presentar en el mes de febrero de cada año, ante las oficinas autorizadas, una declaración informativa en la que se detallen los gastos e inversiones realizados correspondientes al proyecto de investigación y desarrollo de tecnología autorizado, validado por contador público registrado, así como llevar un sistema de cómputo mediante el cual se proporcione al Servicio de Administración Tributaria, en forma permanente, la información relacionada con la aplicación de los recursos del estímulo en cada uno de los rubros de gasto e inversión que dicho órgano desconcentrado determine. El Servicio de Administración Tributaria establecerá mediante reglas de carácter general las características técnicas, de seguridad y requerimientos de información del sistema de cómputo señalado.
+> <small>(DEROGADO SEXTO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 El estímulo fiscal a que se refiere este artículo, no podrá aplicarse conjuntamente con otros tratamientos fiscales que otorguen beneficios o estímulos fiscales.
 
@@ -5342,17 +5746,21 @@ El estímulo fiscal a que se refiere este artículo, no podrá aplicarse conjunt
 
 ### CAPÍTULO X. DEL ESTÍMULO FISCAL AL DEPORTE DE ALTO RENDIMIENTO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 203.
 
-Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al monto que, en el ejercicio fiscal de que se trate, aporten a proyectos de inversión en infraestructura e instalaciones deportivas altamente especializadas, así como a programas diseñados para el desarrollo, entrenamiento y competencia de atletas mexicanos de alto rendimiento, contra el impuesto sobre la renta causado en el ejercicio en que se determine el crédito. Este crédito fiscal no será acumulable para efectos del impuesto sobre la renta. En ningún caso, el estímulo podrá exceder del 10% del impuesto sobre la renta causado en el ejercicio inmediato anterior al de su aplicación.
+Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al monto que, en el ejercicio fiscal de que se trate, aporten a proyectos de inversión en infraestructura e instalaciones deportivas altamente especializadas, así como a programas diseñados para el desarrollo, entrenamiento y competencia de atletas mexicanos de alto rendimiento, contra el impuesto sobre la renta del ejercicio y de los pagos provisionales del mismo ejercicio, causado en el ejercicio en que se determine el crédito. Este crédito fiscal no será acumulable para efectos del impuesto sobre la renta. En ningún caso, el estímulo podrá exceder del 10% del impuesto sobre la renta causado en el ejercicio inmediato anterior al de su aplicación.
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 Cuando dicho crédito fiscal sea mayor al impuesto sobre la renta que tengan a su cargo en el ejercicio fiscal en el que se aplique el estímulo, los contribuyentes podrán acreditar la diferencia que resulte contra el impuesto sobre la renta que tengan a su cargo en los diez ejercicios siguientes hasta agotarla. En el caso de que el contribuyente no aplique el crédito en el ejercicio en el que pudiera hacerlo, perderá el derecho a acreditarlo en los ejercicios posteriores y hasta por la cantidad en la que pudo haberlo efectuado.
 
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
+
 Para los efectos de este artículo, se considerarán como proyectos de inversión, las inversiones en territorio nacional que se destinen al desarrollo de infraestructura e instalaciones deportivas altamente especializadas, las cuales no deberán tener fines preponderantemente económicos o de lucro y no estar vinculadas directa o indirectamente con la práctica profesional del deporte, así como los gastos de operación y mantenimiento de las citadas instalaciones deportivas. Asimismo, se considerarán como programas aquéllos diseñados para su aplicación en el territorio nacional, dirigidos al desarrollo, entrenamiento y competencia de los atletas mexicanos de alto rendimiento.
+
+> <small>(ADICIONADO ESTE PÁRRAFO [N. DE E. CON SUS FRACCIONES], D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 Para la aplicación del estímulo fiscal a que se refiere el presente artículo, se estará a lo siguiente:
 
@@ -5366,7 +5774,9 @@ III. El Comité Interinstitucional publicará a más tardar el último día de f
 
 IV. Los contribuyentes deberán cumplir con lo dispuesto en las reglas generales que para el otorgamiento del estímulo publique el Comité Interinstitucional.
 
-Los contribuyentes a que se refiere el primer párrafo de este artículo, además de cumplir las obligaciones establecidas en otros artículos de esta Ley, deberán presentar en el mes de febrero de cada año, ante las oficinas autorizadas, una declaración informativa en la que se detallen los gastos e inversiones realizados en los proyectos de inversión y programas que tengan por objeto la formación de deportistas de alto rendimiento, validado por contador público registrado, así como llevar un sistema de cómputo mediante el cual se proporcione al Servicio de Administración Tributaria, en forma permanente, la información relacionada con la aplicación de los recursos del estímulo en cada uno de los rubros de gasto e inversión que dicho órgano desconcentrado determine. El Servicio de Administración Tributaria establecerá, mediante reglas de carácter general, las características técnicas, de seguridad y requerimientos de información del sistema de cómputo señalado.
+> <small>(DEROGADO QUINTO PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+> <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2016)</small>
 
 El estímulo fiscal a que se refiere este artículo, no podrá aplicarse conjuntamente con otros tratamientos fiscales que otorguen beneficios o estímulos fiscales.
 
@@ -5385,6 +5795,24 @@ El estímulo fiscal a que se refiere este artículo, no podrá aplicarse conjunt
 Se otorga un estímulo fiscal a los contribuyentes del impuesto sobre la renta, consistente en aplicar un crédito fiscal equivalente al 30% del monto de las inversiones que en el ejercicio fiscal de que se trate, realicen en equipos de alimentación para vehículos eléctricos, siempre que éstos se encuentren conectados y sujetos de manera fija en lugares públicos, contra el impuesto sobre la renta que tengan a su cargo en el ejercicio en el que se determine el crédito. El crédito fiscal no será acumulable para efectos del impuesto sobre la renta.
 
 Cuando dicho crédito sea mayor al impuesto sobre la renta que tengan a su cargo en el ejercicio fiscal en el que se aplique el estímulo, los contribuyentes podrán acreditar la diferencia que resulte contra el impuesto sobre la renta que tengan a su cargo en los diez ejercicios siguientes hasta agotarla. En el caso de que el contribuyente no aplique el crédito en el ejercicio en el que pudiera hacerlo, perderá el derecho a acreditarlo en los ejercicios posteriores y hasta por la cantidad en la que pudo haberlo efectuado.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 205.
+
+Las figuras jurídicas extranjeras que administren inversiones de capital de privado que inviertan en personas morales residentes en México, que se consideren transparentes fiscales en el país o jurisdicción de su constitución, gozarán de dicha transparencia para efectos de esta Ley. Los socios de dichas figuras tributarán de conformidad con el Título de esta Ley que les corresponda. Lo señalado en este artículo será aplicable solo por los ingresos que obtengan por intereses, dividendos, ganancias de capital o por el arrendamiento de bienes inmuebles. Lo dispuesto en el párrafo anterior será aplicable siempre que:
+
+I. El administrador de dicha figura jurídica o su represente legal en el país, presente ante el Servicio de Administración Tributaria, un registro de todos los integrantes o miembros de dicha figura en el ejercicio fiscal anterior. Si durante el ejercicio fiscal hay una variación respecto a los integrantes o miembros de dicha figura, esto deberá ser reportado por el administrador o su representante legal, a más tardar en el mes de febrero del siguiente año de calendario. El registro referido deberá incluir la documentación que acredite la residencia fiscal de cada uno de los integrantes o miembros de dicha figura, incluyendo el administrador. En caso que el integrante o miembro sea un organismo internacional o un fondo de pensiones y jubilaciones, podrán presentar su acuerdo sede o convenio constitutivo. En caso de no contar con dicha documentación de alguno de los integrantes o miembros, la figura jurídica no gozará de la transparencia fiscal en la proporción de su participación.
+
+II. Que la figura jurídica haya sido constituida en un país o jurisdicción con el que México tenga un acuerdo amplio de intercambio de información.
+
+III. Que los integrantes o miembros de dicha figura jurídica, incluyendo el administrador, residan en un país o jurisdicción con el que México tenga un acuerdo amplio de intercambio de información. En caso que un integrante o miembro no resida en un país o jurisdicción con el que México tenga un acuerdo amplio de intercambio de información, la figura jurídica no gozará de la transparencia fiscal en la proporción de su participación.
+
+IV. Que los integrantes o miembros que integren dicha figura, incluyendo el administrador, sean los beneficiarios efectivos de los ingresos percibidos por dicha figura. En caso que un integrante o miembro no sea efectivamente el beneficiario efectivo de dichos ingresos, la figura jurídica no gozará de la transparencia fiscal en la proporción de su participación.
+
+V. Que los ingresos señalados en esta Ley, atribuibles a los integrantes o miembros residentes en el extranjero, sean acumulados por los mismos. En caso contrario, la figura jurídica no gozará de la transparencia fiscal en la proporción a la participación del integrante o miembro cuyo ingreso no fue acumulado.
+
+VI. Que los ingresos que obtengan los integrantes o miembros residentes en México o establecimientos permanentes de residentes en el extranjero, se acumulen de conformidad con los artículos 4-B o 177 de esta Ley, incluso si los integrantes o miembros hubiesen estado exentos del impuesto respecto de dichos ingresos. En caso contrario, la figura jurídica no gozará de la transparencia fiscal en la proporción de la participación del integrante o miembro cuyo ingreso no fue acumulado en virtud de los artículos 4-B o 177 de esta Ley.
 
 DISPOSICIONES DE VIGENCIA TEMPORAL DE LA LEY DEL IMPUESTO SOBRE LA RENTA
 
@@ -5936,7 +6364,7 @@ México, D.F., a 31 de octubre de 2013.- Sen. Raúl Cervantes Andrade, President
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a seis de diciembre de dos mil trece.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
 
-N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O.F. 18 DE NOVIEMBRE DE 2015.
 
@@ -6545,3 +6973,67 @@ XI. El Comité Interinstitucional a que se refiere el artículo 190 de la Ley de
 ## Transitorio
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2017.
+
+D.O.F. 9 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS Y DEL CÓDIGO FISCAL DE LA FEDERACIÓN”.]</small>
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO SOBRE LA RENTA
+
+Artículo Segundo.- En relación con las modificaciones a las que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
+
+I. Las personas morales de derecho agrario que al 31 de diciembre de 2019 tributen en los términos del Título II de la Ley del Impuesto sobre la Renta y cumplan con los requisitos a que se refiere el artículo 74-B de dicha Ley, podrán optar por aplicar lo dispuesto en el citado artículo siempre que presenten, a más tardar el 31 de enero de 2020, un aviso ante el Servicio de Administración Tributaria en los términos que para tales efectos se establezcan mediante reglas de carácter general, en el que manifiesten que aplicarán lo dispuesto en dicho artículo.
+
+Las personas morales de derecho agrario a que se refiere esta fracción deberán estar a lo siguiente:
+
+a) No deberán efectuar la acumulación de los ingresos que perciban efectivamente a partir del 1 de enero de 2020, cuando dichos ingresos hayan sido acumulados hasta el 31 de diciembre de 2019, de conformidad con el Título II, Capítulo I de la Ley del Impuesto sobre la Renta.
+
+b) Las deducciones que hubieran efectuado al 31 de diciembre de 2019, conforme al Título II, Capítulo II, Sección I de la Ley del Impuesto sobre la Renta, no se podrán volver a deducir a partir del ejercicio en el que opten por aplicar lo dispuesto en el artículo 74-B de la Ley del Impuesto sobre la Renta.
+
+c) En caso de que al 31 de diciembre de 2019, tengan inventario de mercancías, materias primas, productos semiterminados o terminados, y que a dicha fecha estén pendientes de deducir, deberán seguir aplicando lo dispuesto en el Título II, Capítulo II, Sección III de la Ley del Impuesto sobre la Renta, hasta que se agote dicho inventario.
+
+Para efectos de lo dispuesto en este inciso se considerará que lo primero que se enajena es lo primero que se había adquirido con anterioridad al 1 de enero de 2020.
+
+II. La Secretaría de Hacienda y Crédito Público podrá, mediante reglas de carácter general, implementar un esquema que permita facilitar el cumplimiento de las obligaciones fiscales de las personas físicas que realicen actividades empresariales con el público en general como vendedores independientes de productos al menudeo por catálogo o similares.
+
+III. La Sección III, denominada “De los ingresos por la enajenación de bienes o la prestación de servicios a través de Internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares”, del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, entrará en vigor a partir del 1 de junio de 2020.
+
+El Servicio de Administración Tributaria emitirá las reglas de carácter general a que se refiere la Sección III del Capítulo mencionado en el párrafo anterior, a más tardar el 31 de enero de 2020.
+
+IV. Los contribuyentes personas físicas que al 31 de diciembre de 2019, tributen en los términos de la Sección II del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, deberán aplicar lo dispuesto en el artículo 111, fracción VI de la Ley del Impuesto sobre la Renta.
+
+No obstante lo dispuesto en el párrafo anterior, y hasta en tanto entren en vigor las disposiciones a que hace referencia la fracción III de este artículo, dichos contribuyentes deberán pagar el impuesto sobre la renta por dichos ingresos conforme a la Sección II del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta.
+
+V. Los contribuyentes personas físicas distintas a las que se refiere la fracción anterior, que a partir del 1 de enero de 2020, perciban ingresos por la enajenación de bienes o la prestación de servicios a través de Internet, mediante plataformas tecnológicas, aplicaciones informáticas y similares, y hasta en tanto entren en vigor las disposiciones a que hace referencia la fracción III de este artículo, deberán pagar el impuesto sobre la renta por dichos ingresos conforme a la Sección I del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta.
+
+VI. Para los efectos de lo dispuesto en el artículo 113-B, inciso d) de la Ley del Impuesto sobre la Renta, las personas físicas que a la fecha de entrada en vigor de las disposiciones a que se refiere la fracción III de las presentes disposiciones Transitorias ya estén recibiendo ingresos por las actividades celebradas mediante plataformas tecnológicas, aplicaciones informáticas y similares, deberán presentar el aviso a más tardar el 30 de junio de 2020.
+
+VII. Para los efectos de lo dispuesto en el artículo 113-C, fracción II de la Ley del Impuesto sobre la Renta, durante 2020 los residentes en el extranjero sin establecimiento permanente en el país, así como las entidades o figuras jurídicas extranjeras, en sustitución del comprobante fiscal a que se refiere dicha fracción, podrán expedir un comprobante de la retención efectuada que reúna los requisitos que establezca el Servicio de Administración Tributaria mediante reglas de carácter general que permitan identificar, entre otros aspectos, el monto, concepto, el tipo de operación y el Registro Federal de Contribuyentes de la persona a la que se le retiene el impuesto.
+
+VIII. Para los efectos del cuarto párrafo del artículo 113-A de la Ley del Impuesto sobre la Renta, la primera actualización de las cantidades en moneda nacional de las tablas previstas en dicho artículo, deberá realizarse en la fecha en que se actualicen las cantidades en moneda nacional de la tarifa contenida en el artículo 152 de la citada Ley.
+
+IX. Los residentes en el extranjero sin establecimiento permanente en el país que realicen actividades de maquila a través de empresas con programas de maquila bajo la modalidad de albergue de conformidad con lo previsto en el artículo 183 de la Ley del Impuesto sobre la Renta vigente hasta el 31 de diciembre de 2019, que a la entrada en vigor del presente Decreto se encuentren dentro del periodo de aplicación de 4 años a que se refiere el último párrafo de dicho artículo, podrán seguir aplicando lo dispuesto en el referido artículo hasta que concluya el periodo referido. Cuando se agote el periodo mencionado deberán aplicar lo dispuesto en los artículos 183 y 183-Bis de la Ley del Impuesto sobre la Renta vigente a partir del 1 de enero de 2020, a partir del mes siguiente al en que concluyan los 4 años.
+
+X. Para efectos del artículo 187 de la Ley del Impuesto sobre la Renta, los certificados de participación que hayan sido adquiridos por un grupo de inversionistas integrado por al menos diez personas, que no sean partes relacionadas entre sí, en el que ninguna de ellas en lo individual hubiera sido propietaria de más del 20% de la totalidad de los certificados de participación emitidos, que al 31 de diciembre de 2019, hubieran aplicado el estímulo establecido en el artículo 187 de la Ley del Impuesto sobre la Renta que se abroga, estarán a lo siguiente:
+
+1. Los fideicomitentes que aportaron bienes inmuebles al fideicomiso, acumularán la ganancia por la enajenación de los bienes aportados, cuando se actualice cualquiera de los siguientes supuestos:
+
+a) Enajenen los certificados de participación obtenidos por su aportación al fideicomiso, en la proporción que dichos certificados representen del total de los certificados que recibió el tenedor por la aportación del inmueble al fideicomiso, siempre que no se hubiera acumulado dicha ganancia previamente.
+
+b) El fideicomiso enajene los bienes aportados, en la proporción que la parte que se enajene represente de los mismos bienes, siempre que no se hubiera acumulado dicha ganancia previamente.
+
+Si al 31 de diciembre de 2021 no se han dado los supuestos a que se refieren los incisos anteriores, los tenedores de los certificados a que se refiere este numeral deberán acumular la totalidad de la ganancia por la enajenación de los bienes aportados que no se haya acumulado previamente, debiendo actualizar el impuesto que corresponda a la ganancia por la enajenación de los citados bienes, desde la aportación de los mismos y hasta que se presente la declaración anual correspondiente al ejercicio de 2021.
+
+2. El impuesto correspondiente a la ganancia a que se refiere el primer párrafo del numeral anterior, se actualizará desde la aportación de los bienes inmuebles y hasta el mes en el que se acumule.
+
+XI. Las referencias que otras disposiciones, ordenamientos, reglamentos o acuerdos hagan al artículo 106, último párrafo de la Ley del Impuesto sobre la Renta, se entenderán referidas al artículo 106, penúltimo párrafo, del mismo ordenamiento; en tanto que las que se hagan al artículo 116, último párrafo, de la Ley del Impuesto sobre la Renta, se entenderán referidas al artículo 116, penúltimo párrafo, del mismo ordenamiento.
+
+XII. Los artículos 4-A y 205 de la Ley del Impuesto sobre la Renta entrarán en vigor el 1 de enero de 2021.
+
+XIII. Las Entidades Federativas adheridas al Sistema Nacional de Coordinación Fiscal en las que se enajenen bienes inmuebles y que por dichas operaciones se cause el impuesto a que se refiere el artículo 126 de la Ley del Impuesto sobre la Renta, podrán recibir como incentivo el 100% de la recaudación neta del citado impuesto, que se hubiera causado por las enajenaciones realizadas en la Entidad Federativa de que se trate, siempre que celebren convenio de colaboración administrativa en materia fiscal federal, en los términos establecidos en el Capítulo III de la Ley de Coordinación Fiscal. La recaudación de este impuesto no formará parte de la recaudación federal participable a que se refiere el artículo 2o. de la Ley de Coordinación Fiscal.
+
+Las Entidades Federativas deberán participar cuando menos el 20% del incentivo señalado en el párrafo anterior, a sus municipios o demarcaciones territoriales que se distribuirá entre ellos en la forma que determine la legislatura respectiva.
+
+## Transitorio
+
+Único. El presente Decreto entrará en vigor el 1 de enero de 2020.
