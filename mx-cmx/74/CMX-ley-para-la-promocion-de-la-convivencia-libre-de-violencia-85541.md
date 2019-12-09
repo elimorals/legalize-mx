@@ -4,7 +4,7 @@ identifier: "CMX-ley-para-la-promocion-de-la-convivencia-libre-de-violencia-8554
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-31"
-last_updated: "2017-10-05"
+last_updated: "2019-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85541&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2012-01-25"
 ---
 # LEY PARA LA PROMOCION DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DE LA CIUDAD DE MEXICO -- ANTES LEY PARA LA PROMOCION DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL DISTRITO FEDERAL --
 
-LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL DISTRITO FEDERAL
+LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 31 de enero de 2012.
 
@@ -42,15 +42,19 @@ DECRETO POR EL QUE SE EXPIDE LA LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE D
 
 Se expide la Ley para la Promoción de la Convivencia Libre de Violencia en el Entorno Escolar del Distrito Federal, para quedar como sigue:
 
-LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DE LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### Capítulo I. Del objeto, definiciones y principios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público, interés social y observancia general en el Distrito Federal y tienen por objeto:
+Las disposiciones de esta Ley son de orden público, interés social y observancia general en la Ciudad de México y tienen por objeto:
 
 > <small>(REFORMADA, G.O. 5 DE OCTUBRE DE 2017)</small>
 
@@ -64,7 +68,9 @@ IV. Establecer mecanismos de participación y seguimiento en el diseño e instru
 
 V. Promover la creación y, en su caso, la modificación de los planes y programas de estudio que contribuyan a la prevención del maltrato escolar desde un ámbito integral y multidisciplinario en coordinación con las autoridades de los distintos niveles de gobierno, y
 
-VI. Fomentar la corresponsabilidad social y la cohesión comunitaria para garantizar un ambiente libre de violencia en el entorno escolar del Distrito Federal.
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+VI. Fomentar la corresponsabilidad social y la cohesión comunitaria para garantizar un ambiente libre de violencia en el entorno escolar de la Ciudad de México;
 
 > <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2017)</small>
 
@@ -82,19 +88,25 @@ I. Comunidad educativa: la conformada por las y los estudiantes, así como por e
 
 II. Cultura de la paz: el conjunto de valores, actitudes y comportamientos, modos de vida y acción que, inspirándose en ella, reflejan el respeto de la vida, de la persona humana, de su dignidad y sus derechos, el rechazo de la violencia, comprendidas todas las formas de terrorismo, y la adhesión a los principios de libertad, justicia, solidaridad, tolerancia y entendimiento tanto entre los pueblos como entre los grupos y las personas;
 
-III. Debida diligencia: la obligación de las personas que tienen la calidad de servidores públicos en las dependencias y entidades de la Administración Pública del Distrito Federal, para dar respuesta eficiente, eficaz, oportuna y responsable que garantice la aplicación y respeto los (sic) derechos de las niñas, los niños, las y los jóvenes;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+III. Debida diligencia: la obligación de las personas que forman parte de la Comunidad escolar, para dar respuesta eficiente, eficaz, oportuna y responsable que garantice la aplicación y respeto los derechos de las niñas, los niños, las y los jóvenes;
 
 IV. Discriminación entre la comunidad educativa: toda distinción, exclusión o restricción que, basada en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra, tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas que integran la comunidad educativa;
 
-V. Estudiante: persona que curse sus estudios en algún plantel educativo en el Distrito Federal que cuente con reconocimiento de validez oficial de estudios por parte de las autoridades correspondientes;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-VI. Ley: Ley para la Promoción de la Convivencia Libre de Violencia en el Entorno Escolar del Distrito Federal;
+V. Estudiante: persona que curse sus estudios en algún plantel educativo de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+VI. Ley: Ley para la Promoción de la Convivencia Libre de Violencia en el Entorno Escolar de la Ciudad de México;
 
 VII. Organizaciones de la Sociedad Civil: agrupaciones u organizaciones mexicanas que, estando legalmente constituidas, realicen alguna o algunas de las actividades de apoyo, promoción y defensa de los derechos humanos, en materia de prevención o atención de la violencia en el entorno escolar o maltrato escolar que no persigan fines de lucro ni de proselitismo partidista, político-electoral o religioso, sin menoscabo de las obligaciones señaladas en otras disposiciones legales;
 
-> <small>(REFORMADA, G.O. 12 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-VIII. Personas involucradas en una dinámica de violencia en el entorno escolar: las personas que en forma individual o colectiva forman parte de una dinámica de violencia dentro del ámbito escolar y que situacionalmente pueden asumir roles de reproductores o de receptores de la misma, tanto de forma directa como indirecta. Las principales personas que pueden asumir los referidos roles son fundamentalmente: los estudiantes, los profesores, el personal administrativo de las instituciones escolares así como los familiares y tutores;
+VIII. Personas involucradas en una dinámica de violencia en el entorno escolar: las personas que en forma individual o colectiva forman parte de una dinámica sistemática y reiterada de violencia dentro del ámbito escolar y que situacionalmente pueden asumir roles de reproductores o de receptores de la misma, tanto de forma directa como indirecta. Las principales personas que pueden asumir los referidos roles son fundamentalmente: los estudiantes, los profesores, el personal administrativo de las instituciones escolares así como los familiares y tutores;
 
 IX. Persona receptora de maltrato escolar: integrante de la comunidad educativa que sufra algún tipo de maltrato en cualquiera de sus tipos o modalidades por parte de otro integrante o integrantes de la comunidad educativa;
 
@@ -104,13 +116,35 @@ X. Persona reproductora de maltrato escolar: integrante de la comunidad educativ
 
 XI. Programa: el Programa General para la Prevención y Atención de la Violencia en el Entorno Escolar del Distrito Federal;
 
-XII. Red: la Red Interinstitucional sobre Convivencia en el Entorno Escolar en el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-XIII. Secretaría de Educación: la Secretaría de Educación del Gobierno del Distrito Federal;
+XII. Comisión Interinstitucional: Comisión Interinstitucional para la Convivencia Libre de Violencia en el Entorno Escolar de la Ciudad de México;
 
-XIV. Receptor indirecto del maltrato escolar: familiares y, en su caso, tutores de la persona receptora del maltrato en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos, y
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XIII. Secretaría de Educación: la Secretaría de Educación, Ciencia, Tecnología e Innovación de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XIV. Receptor indirecto del maltrato escolar: familiares y, en su caso, tutores de la persona receptora del maltrato sistemático y reiterado en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos;
 
 XV. Observatorio: el Observatorio sobre Convivencia en el Entorno Escolar del Distrito Federal.
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XVI. Bullying: palabra con la que se denomina la violencia reiterada y sistemática en el entorno escolar;
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XVII. Autoridad escolar: personal inmediatamente jerárquico superior al Director del Plantel;
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Director del Plantel: persona responsable en última instancia y con facultades de mando, de la disciplina del centro o plantel escolar, e
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XIX. Interés superior del niño y el adolescente: principio rector interpretativo de la presente ley que en su contenido más amplio, deberá ser remitido al texto de la Convención de los Derechos del Niño, ratificado (sic) por los Estados Unidos Mexicanos el 21 de septiembre de 1990.
 
 ###### Artículo 3.
 
@@ -184,9 +218,11 @@ V. Recibir información, atención y acompañamiento médico y psicológico por 
 
 VI. Acceder a procedimientos expeditos y accesibles de procuración y administración de justicia.
 
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 6.
 
-Las autoridades, en el ámbito de su competencia, deberán adoptar todas las medidas pertinentes que aseguren a las personas integrantes de la comunidad educativa la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad.
+Las autoridades y la Comunidad escolar, en el ámbito de su competencia, deberán adoptar todas las medidas pertinentes que aseguren a las personas integrantes de la comunidad educativa la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad.
 
 ###### Artículo 7.
 
@@ -204,13 +240,17 @@ En todas las acciones que se deriven con motivo de la aplicación de la Ley, se 
 
 Las autoridades para efectos de la presente Ley, en los Anteproyectos de Presupuestos que formulen, contendrán la previsión de gasto para el desarrollo de acciones de conocimiento, atención y prevención de violencia en el entorno escolar y de maltrato escolar.
 
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 11.
 
-La Secretaría de Finanzas del Distrito Federal, preverá en el Proyecto de Presupuesto de Egresos que el Jefe de Gobierno envíe a la Asamblea Legislativa del Distrito Federal para su análisis, discusión y, en su caso, aprobación, las partidas presupuestales respectivas para la aplicación de acciones de atención y prevención en el entorno escolar conforme a las previsiones de gasto realicen las autoridades de la presente Ley.
+La Secretaría de Finanzas de la Ciudad de México, preverá en el Proyecto de Presupuesto de Egresos que la persona titular de la Jefatura de Gobierno envíe al Congreso de la Ciudad de México para su análisis, discusión y, en su caso, aprobación, las partidas presupuestales respectivas para la aplicación de acciones de atención y prevención en el entorno escolar conforme a las previsiones de gasto realicen las autoridades de la presente Ley.
+
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 12.
 
-La Asamblea Legislativa del Distrito Federal, durante el análisis, discusión y aprobación del Presupuesto de Egresos para cada ejercicio fiscal, tomará en cuenta las previsiones de gasto que formulen las autoridades de la presente Ley para el desarrollo de acciones de conocimiento, atención y prevención de violencia en el entorno escolar y de maltrato escolar, debiendo asignar los recursos de manera específica y en programas prioritarios.
+El Congreso de la Ciudad de México, durante el análisis, discusión y aprobación del Presupuesto de Egresos para cada ejercicio fiscal, tomará en cuenta las previsiones de gasto que formulen las autoridades de la presente Ley para el desarrollo de acciones de conocimiento, atención y prevención de violencia en el entorno escolar y de maltrato escolar, debiendo asignar los recursos de manera específica y en programas prioritarios.
 
 ###### Artículo 13.
 
@@ -222,21 +262,39 @@ En todo lo no previsto por la presente Ley, se observarán las disposiciones nor
 
 Son autoridades competentes para la aplicación de la presente Ley:
 
-I. El Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-II. La Secretaría de Salud del Distrito Federal;
+I. La persona titular de la Jefatura de Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+II. La Secretaría de Salud de la Ciudad de México;
 
 III. La Secretaría de Educación;
 
-IV. La Secretaría de Desarrollo Social del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-V. La Secretaría de Seguridad Pública del Distrito Federal;
+IV. La Secretaría de Inclusión y Bienestar Social de la Ciudad de México;
 
-VI. La Procuraduría General de Justicia del Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-VII. Las Jefaturas Delegacionales de las 16 demarcaciones territoriales, y
+V. La Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
-VIII. El Sistema para el Desarrollo Integral de la Familia del Distrito Federal.
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+VI. La Procuraduría General de Justicia de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+VII. Los Alcaldes de las 16 demarcaciones territoriales;
+
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+VIII. El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+IX. Los directores de los planteles escolares.
 
 ###### Artículo 15.
 
@@ -356,9 +414,11 @@ X. Realizar estudios estadísticos e investigaciones referentes al acceso a la j
 
 XI. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 20.
 
-Corresponde a las Jefaturas Delegacionales:
+Corresponde a las y los alcaldes:
 
 I. Coordinarse con las autoridades correspondientes para fomentar un ambiente libre de violencia en el entorno escolar, priorizando su prevención;
 
@@ -392,69 +452,121 @@ VI. Intervenir en casos de maltrato a escolares cuando lo realice el padre, madr
 
 VII. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+Artículo 21 bis. Corresponde a la Comunidad escolar, a través del director del plantel y con ayuda de los padres y madres de familia y tutores:
+
+I. Discutir y proponer un protocolo de actuación que prevea las circunstancias específicas del entorno escolar;
+
+II. Informar a las autoridades escolares acerca del protocolo de actuación;
+
+III. Difundir ampliamente el protocolo de actuación, entre los miembros de la comunidad escolar;
+
+IV. Revisar el protocolo de actuación cada 6 meses;
+
+V. Informar por escrito a las autoridades escolares, sobre las problemáticas sociales o económicas generadoras de bullying, que necesiten ser atendidas de forma inmediata;
+
+VI. Canalizar a las autoridades correspondientes los asuntos de violencia escolar que requieran ser atendidos por las mismas;
+
+VII. Fomentar, preparar, organizar y evaluar, cada 6 meses, actividades que fortalezcan la promoción de la convivencia libre de violencia en el entorno escolar, y
+
+VIII. Mantener una comunicación directa con la Comisión Interinstitucional.
+
 ## TÍTULO SEGUNDO. DE LA COORDINACIÓN INTERINSTITUCIONAL Y LA PARTICIPACIÓN SOCIAL
 
-### Capítulo I. De la Red Interinstitucional sobre Convivencia en el Entorno Escolar del Distrito Federal
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+### Capítulo I. De la Comisión Interinstitucional para la Convivencia Libre de Violencia en el Entorno Escolar de la Ciudad de México
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 22.
 
-La Red es un órgano especializado de consulta, análisis asesoría y evaluación, de los planes, programas y acciones que, en materia de conocimiento, atención y prevención de la violencia en el entorno escolar y de maltrato escolar, realice el Gobierno del Distrito Federal para promover espacios educativos libres de violencia.
+La Comisión Interinstitucional es un órgano especializado de consulta, análisis asesoría y evaluación, de los planes, programas y acciones que, en materia de conocimiento, atención y prevención de la violencia en el entorno escolar y de maltrato escolar, realice el Gobierno de la Ciudad de México para promover espacios educativos libres de violencia.
 
-La Red estará integrada por las y los titulares de las siguientes instancias del Distrito Federal:
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-I. Jefatura de Gobierno del Distrito Federal, quien la presidirá;
+La Comisión Interinstitucional estará integrada por las y los titulares de las siguientes instancias de la Ciudad de México:
 
-II. La Secretaría de Educación, quien fungirá como Secretaria Técnica y suplirá la ausencia de la Presidencia de la Red;
+I. La persona titular de la Jefatura de Gobierno de la Ciudad de México, quien la presidirá;
 
-III. La Secretaría de Salud del Distrito Federal;
+II. La Secretaría de Educación, quien fungirá como Secretaria Técnica y suplirá la ausencia de la Presidencia de la Comisión Interinstitucional;
 
-IV. La Secretaría de Desarrollo Social del Distrito Federal;
+III. La Secretaría de Salud de la Ciudad de México;
 
-V. La Secretaría de Seguridad Pública del Distrito Federal;
+IV. La Secretaría de Inclusión y Bienestar Social de la Ciudad de México;
 
-VI. La Procuraduría General de Justicia del Distrito Federal;
+V. La Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
-VII. El Sistema para el Desarrollo Integral de la Familia del Distrito Federal;
+VI. La Procuraduría General de Justicia de la Ciudad de México;
+
+VII. El Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
 
 VIII. Un representante por cada demarcación territorial;
 
-IX. Un representante de la Asamblea Legislativa del Distrito Federal nombrado por su Pleno a propuesta de la Comisión de Salud y Asistencia Social;
+IX. Un representante del Congreso de la Ciudad de México;
 
-X. Dos representantes de las organizaciones de la sociedad civil que formen parte del Observatorio sobre convivencia escolar, y
+X. Representantes de las Zonas Escolares de la Ciudad de México;
 
-XI. Dos representantes de instituciones académicas.
+XI. Dos representantes de Asociaciones de padres de familia de escuelas públicas y/o privadas de la Ciudad de México;
 
-> <small>(ADICIONADA, G.O. 5 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-XII. Dos representantes de Asociaciones de padres de familia de escuelas públicas y/o privadas de la Ciudad de México.
+XII. La Secretaría de las Mujeres de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XIII. El Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México; Y
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XIV. La Comisión de Derechos Humanos de la Ciudad de México;
 
 Los integrantes señalados en la fracción X y XI durarán en el ejercicio de esta representación un año, al cabo del cual el propio Observatorio elegirá a quienes deban sustituirlos. Deberá considerarse que en la renovación de los miembros se alternen los sectores que participan en el Observatorio.
 
-Los miembros de la Red serán vocales propietarios con carácter honorífico, con derecho a voz y voto, sin retribución económica por su desempeño y podrán designar mediante oficio o, en su caso, comunicado escrito, un vocal suplente de nivel jerárquico inmediato inferior con derecho a voz y voto en las sesiones con la finalidad de garantizar su participación en las mismas, quienes desempeñarán las mismas funciones del vocal propietario.
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-El Presidente de la Red formulará invitación para que formen parte de la misma, en calidad de invitados permanentes con derecho a voz a la Administración Federal de Servicios Educativos del Distrito Federal, a la Comisión de Derechos Humanos del Distrito Federal y al Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México.
+Los miembros de la Comisión Interinstitucional serán vocales propietarios con carácter honorífico, con derecho a voz y voto, sin retribución económica por su desempeño y podrán designar mediante oficio o, en su caso, comunicado escrito, un vocal suplente de nivel jerárquico inmediato inferior con derecho a voz y voto en las sesiones con la finalidad de garantizar su participación en las mismas, quienes desempeñarán las mismas funciones del vocal propietario.
+
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+El Presidente de la Comisión Interinstitucional formulará invitación para que forme parte de la misma, en calidad de invitado permanente con derecho a voz a la Autoridad Educativa Federal en la Ciudad de México.
 
 Adicionalmente, se invitará a las sesiones, con voz pero sin voto, a personas expertas en materia de maltrato entre escolares representantes del sector público, social y privado; a representantes de instituciones públicas locales o federales; a representantes de instituciones educativas y de investigación y a representantes de organismos internacionales cuando se traten asuntos relacionados con sus respectivas atribuciones o especialidades, o cuya experiencia profesional sea útil para el análisis de los casos particulares que se presenten a deliberación para que emitan opiniones, aporten información, o apoyen acciones sobre los temas que se aborden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 23.
 
-La Red sesionará de manera ordinaria de forma cuatrimestral y de manera extraordinaria cuando sea necesario o a petición de cualquiera de sus miembros, quienes solicitarán la reunión a través de la Presidencia o la Secretaría Técnica.
+La Comisión Interinstitucional sesionará de manera ordinaria de forma cuatrimestral y de manera extraordinaria cuando sea necesario o a petición de cualquiera de sus miembros, quienes solicitarán la reunión a través de la Presidencia o la Secretaría Técnica.
 
-La Red sesionará válidamente con la asistencia de la mayoría de sus integrantes. Si la sesión no pudiera celebrarse el día señalado por falta de quórum, se emitirá una nueva convocatoria, en la cual se indicará la fecha para celebrar la sesión.
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-Las decisiones serán tomadas por mayoría simple de votos de los integrantes presentes de la Red, teniendo el Presidente o el Presidente Suplente, en ausencia de éste, voto de calidad en caso de empate.
+La Comisión Interinstitucional sesionará válidamente con la asistencia de la mayoría de sus integrantes. Si la sesión no pudiera celebrarse el día señalado por falta de quórum, se emitirá una nueva convocatoria, en la cual se indicará la fecha para celebrar la sesión.
+
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+Las decisiones serán tomadas por mayoría simple de votos de los integrantes presentes de la Comisión Interinstitucional, teniendo el Presidente o el Presidente Suplente, en ausencia de éste, voto de calidad en caso de empate.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 24.
 
-La convocatoria de la sesión respectiva deberá realizarse a los integrantes de la Red, por oficio o por cualquier medio electrónico que asegure su recepción, a través del Secretario Técnico, cuando menos cinco días hábiles antes de la celebración de la misma, tratándose de sesiones ordinarias y con 24 horas de anticipación tratándose de sesiones extraordinarias.
+La convocatoria de la sesión respectiva deberá realizarse a los integrantes de la Comisión Interinstitucional, por oficio o por cualquier medio electrónico que asegure su recepción, a través del Secretario Técnico, cuando menos cinco días hábiles antes de la celebración de la misma, tratándose de sesiones ordinarias y con 24 horas de anticipación tratándose de sesiones extraordinarias.
 
-Sólo podrán tratarse en las sesiones los asuntos que se incluyeron y aprobaron en el orden del día; sin embargo, cuando la importancia de los mismos lo requiera, podrán tratarse otros asuntos que no se hayan indicado en la convocatoria siempre y cuando los miembros de la Red aprueben su desahogo.
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-Por cada sesión que se celebre, deberá levantarse el acta correspondiente, misma que para su validez deberá ser firmada por todos los asistentes. En ella constarán, en su caso, los compromisos adquiridos por cada una de las áreas y el nombre del responsable de su ejecución, a los cuales se les dará puntual seguimiento por la Presidencia de la Red a través de la Secretaría Técnica.
+Sólo podrán tratarse en las sesiones los asuntos que se incluyeron y aprobaron en el orden del día; sin embargo, cuando la importancia de los mismos lo requiera, podrán tratarse otros asuntos que no se hayan indicado en la convocatoria siempre y cuando los miembros de la Comisión Interinstitucional aprueben su desahogo.
+
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+Por cada sesión que se celebre, deberá levantarse el acta correspondiente, misma que para su validez deberá ser firmada por todos los asistentes. En ella constarán, en su caso, los compromisos adquiridos por cada una de las áreas y el nombre del responsable de su ejecución, a los cuales se les dará puntual seguimiento por la Presidencia de la Comisión Interinstitucional a través de la Secretaría Técnica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 25.
 
-Corresponde a la Red las siguientes atribuciones, sin menoscabo de las señaladas en la presente Ley para sus integrantes:
+Corresponde a la Comisión Interinstitucional las siguientes atribuciones, sin menoscabo de las señaladas en la presente Ley para sus integrantes:
 
 I. Establecer coordinación y comunicación con las autoridades correspondientes para el cumplimiento de las disposiciones de la presente Ley que fomenten un ambiente libre de violencia en el entorno escolar;
 
@@ -476,11 +588,15 @@ IX. Fomentar y fortalecer la coordinación, colaboración e intercambio de infor
 
 X. Coordinar y ejecutar políticas, programas y acciones de promoción de los derechos humanos de las niñas, los niños, las y los jóvenes, la cultura de la paz, cohesión comunitaria, no discriminación y convivencia armónica en la comunidad educativa;
 
-XI. Rendir un informe anual que dé cuenta del estado que guarda el clima de convivencia entre escolares, las medias (sic) adoptadas y los indicadores sobre el avance en la aplicación de métodos para prevenir y eliminar cualquier forma de discriminación y de violencia en el entorno escolar, y de maltrato escolar que serán de dominio público y se difundirán en los portales de transparencia de las instancias integrantes de la Red;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XI. Rendir un informe anual al Congreso de la Ciudad de México que dé cuenta del estado que guarda el clima de convivencia entre escolares, las medias adoptadas y los indicadores sobre el avance en la aplicación de métodos para prevenir y eliminar cualquier forma de discriminación y de violencia en el entorno escolar, y de maltrato escolar que serán de dominio público y se difundirán en los portales de transparencia de las instancias integrantes de la Comisión Interinstitucional;
 
 XII. Analizar y aprobar los lineamientos administrativos y técnicos en esta materia, así como los protocolos de atención más adecuados para esta problemática;
 
-XIII. Facilitar la generación de sistemas y bases de datos para la medición y diagnóstico de la incidencia de la violencia en el entorno escolar, el maltrato escolar y el maltrato entre escolares; la información que, en su caso se genere, deberá desagregarse por edad, sexo, nivel escolar y demás variables que se determinen por la Red;
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+XIII. Facilitar la generación de sistemas y bases de datos para la medición y diagnóstico de la incidencia de la violencia en el entorno escolar, el maltrato escolar y el maltrato entre escolares; la información que, en su caso se genere, deberá desagregarse por edad, sexo, nivel escolar y demás variables que se determinen por la Comisión Interinstitucional;
 
 XIV. Establecer grupos de trabajo, organizado en función de las materias concretas cuyo estudio y análisis se les encomiende, y
 
@@ -490,67 +606,19 @@ XV. Las demás que señalen otras disposiciones legales.
 
 ###### Artículo 26.
 
-Corresponde a la Secretaría de Educación instalar el Observatorio, como un órgano plural especializado y multidisciplinario en temas de convivencia entre escolares, al que le corresponde realizar diagnósticos en materia de violencia en el entorno escolar y de maltrato escolar, elaborar estadísticas, indicadores e informes que formulen propuestas y recomendaciones de actuación, que contribuyan a mejorar la eficacia de las acciones encaminadas a prevenir, atender y erradicar el fenómeno objeto de la presente Ley.
+(DEROGADO, G.O. 9 DE DICIEMBRE DE 2019)
 
 ###### Artículo 27.
 
-Corresponde al Observatorio las funciones siguientes:
-
-I. Actuar como órgano de asesoría, análisis y difusión periódica de información especializada en temas de convivencia y violencia en el entorno escolar y maltrato escolar;
-
-II. Recopilar, analizar y difundir la información generada, administrada o en posesión de los miembros de la Red o de cualquier otra autoridad del Distrito Federal, sobre medidas y actuaciones realizadas por las diferencias (sic) instancias, públicas, privadas y sociales para prevenir, detectar y evitar situaciones de violencia en el entorno escolar y de maltrato escolar, además de fortalecer la cohesión comunitaria;
-
-III. Realizar estudios estadísticos e investigaciones que permitan determinar si existe vínculo causal entre los diversos tipos y modalidades de violencia y el maltrato escolar, con el fin de elaborar propuestas que permitan combatir la raíz de esa problemática;
-
-IV. Establecer las acciones y medidas que se deberán tomar para la atención oportuna de la persona generadora de maltrato escolar que posibilite la convivencia armónica con las demás que integran la comunidad educativa;
-
-V. Difundir las buenas prácticas educativas que favorecen un ambiente libre de violencia en el entorno escolar y de maltrato escolar, y fomenten la cultura de la paz y el fortalecimiento de la cohesión comunitaria;
-
-VI. Actuar como espacio de encuentro interdisciplinario respecto del aprendizaje de la convivencia escolar libre de maltrato;
-
-VII. Realizar informes, estudios, diagnósticos e investigaciones multidisciplinarias sobre el fenómeno de maltrato escolar, como cultura de paz, clima escolar, victimización, sentimiento de inseguridad en las escuelas, participación e involucramiento de las autoridades educativas, así como el rol que juega la familia en el maltrato escolar, entre otros;
-
-VIII. Desarrollar un centro de documentación especializado, que fungirá como un espacio de referencia para la investigación y publicación de estudios sobre la problemática de violencia en el entorno escolar, maltrato escolar y demás temas afines;
-
-IX. Realizar estudios estadísticos e investigaciones que permitan elaborar políticas públicas que prevengan la violencia cometida en contra de las niñas y las jóvenes en el ámbito escolar por condición de género;
-
-X. Dar seguimiento a las acciones que se deriven para el cumplimiento de la presente ley, con la finalidad de emitir opiniones sobre el enfoque de género que deben tener y su impacto en el respeto y reconocimiento de los derechos humanos de las mujeres;
-
-XI. Formular observaciones y definir medidas para enfrentar y atender la violencia en las escuelas de manera integral, con un enfoque de derechos humanos y perspectiva de género, realizando propuestas específicas de intervención a la Red;
-
-XII. Aprobar las normas de operación y funcionamiento del Comité Técnico del Observatorio, a propuesta del Presidente;
-
-XIII. Realizar consulta con la comunidad educativa y, en su caso, organismo (sic) internacionales, y
-
-XIV. Elaborar un informe anual sobre el grado de cumplimiento de Programa, recomendaciones y tendencias presentes y futuras del fenómeno de la violencia en el entorno escolar y maltrato escolar.
+(DEROGADO, G.O. 9 DE DICIEMBRE DE 2019)
 
 ###### Artículo 28.
 
-Para el desarrollo de sus funciones, todos los entes públicos estarán obligados a proporcionar la información especializada y necesaria que el Observatorio requiera.
+(DEROGADO, G.O. 9 DE DICIEMBRE DE 2019)
 
 ###### Artículo 29.
 
-El Observatorio funcionará a través de un Comité que estará integrado de la siguiente manera:
-
-I. El titular de la Secretaría de Educación, quien fungirá como Presidente;
-
-II. El titular de la Coordinación General de Educación, quien fungirá como Secretario Técnico;
-
-III. Dos representantes de la Red;
-
-IV. Tres especialistas en temas de convivencia escolar, integrantes de organizaciones de la sociedad civil de reconocido prestigio y trayectoria en la temática de referencia, a invitación del Presidente;
-
-V. Tres especialistas en temas de convivencia escolar, integrantes de universidades públicas o privadas de reconocido prestigio y trayectoria en la temática de referencia, a invitación del Presidente;
-
-VI. Dos representantes de las Asociaciones de Padres de Familia en el Distrito Federal;
-
-VII. Dos representantes de los Sindicatos docentes con representación en el Distrito Federal, y
-
-VIII. Dos representantes de las Asociaciones de Alumnos en el Distrito Federal.
-
-Los integrantes señalados en las fracciones IV, V, VI, VII y VIII deberán renovarse cada tres años, de conformidad con la normatividad interna de su organización y la que al efecto emita el Observatorio.
-
-El Presidente del Comité formulará invitación para que formen parte del mismo, en calidad de invitados permanentes, a la Administración Federal de Servicios Educativos del Distrito Federal, a la Comisión de Derechos Humanos del Distrito Federal y al Consejo para Prevenir y Eliminar la Discriminación de la Ciudad de México.
+(DEROGADO, G.O. 9 DE DICIEMBRE DE 2019)
 
 ### Capítulo III. Del Programa General para la Prevención y Atención de la Violencia en el Entorno Escolar del Distrito Federal
 
@@ -600,11 +668,15 @@ El personal docente, directivos escolares y el personal administrativo de las es
 
 ### Capítulo II. De la prevención
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 35.
 
-La prevención es el conjunto de acciones positivas que deberán llevar a cabo principalmente los integrantes de la Red, para evitar la comisión de los distintos actos de maltrato entre escolares, atendiendo a los posibles factores de riesgo tanto sociales como culturales.
+La prevención es el conjunto de acciones positivas que deberá llevar a cabo principalmente la comunidad escolar bajo los lineamientos que establezca la Comisión Interinstitucional, para evitar la comisión de los distintos actos de maltrato entre escolares, atendiendo a los posibles factores de riesgo tanto sociales como culturales.
 
-Las medidas de prevención son aquellas que, desde los distintos ámbitos de acción de las autoridades, están destinadas a toda la población de las comunidades educativas del Distrito Federal, evitando el maltrato entre escolares, fomentando la convivencia armónica y, el desarrollo de las y los estudiantes.
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+Las medidas de prevención son aquellas que, desde los distintos ámbitos de acción de las autoridades, están destinadas a toda la población de las comunidades escolares de la Ciudad de México, evitando el maltrato entre escolares, fomentando la convivencia armónica y, el desarrollo de las y los estudiantes.
 
 ###### Artículo 36.
 
@@ -630,23 +702,37 @@ I. Atención integral: se realizará considerando el conjunto de necesidades der
 
 II. Efectividad: se adoptarán las medidas necesarias para que las y los estudiantes receptores de maltrato, sobre todo aquellos que se encuentran en mayor condición de vulnerabilidad, accedan a los servicios integrales que les garantice el goce efectivo de sus derechos;
 
-III. Auxilio oportuno: brindar apoyo inmediato y eficaz a los estudiantes en situación de riesgo o que hayan sido receptores de maltrato entre escolares, así como brindar protección a sus derechos fundamentales; este auxilio será extendido a las personas que sean generadoras de violencia en el entorno escolar con el fin de combatir en tiempo y de manera adecuada, las causas que dan origen a que ejerza violencia; y
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
-IV. Respeto a los Derechos Humanos de las y los estudiantes: abstenerse en todo momento y bajo cualquier circunstancia de hacer uso indebido de la fuerza, de infligir, tolerar o permitir actos de tortura u otros tratos o sanciones crueles, inhumanas o degradantes en contra de las y los estudiantes.
+III. Auxilio oportuno: brindar apoyo inmediato y eficaz a los estudiantes en situación de riesgo o que hayan sido receptores de maltrato entre escolares, así como brindar protección a sus derechos fundamentales; este auxilio será extendido a las personas que sean generadoras de violencia en el entorno escolar con el fin de combatir en tiempo y de manera adecuada, las causas que dan origen a que ejerza violencia;
+
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+IV. Respeto a los Derechos Humanos de las y los estudiantes: abstenerse en todo momento y bajo cualquier circunstancia de hacer uso indebido de la fuerza, de infligir, tolerar o permitir actos de tortura u otros tratos o sanciones crueles, inhumanas o degradantes en contra de las y los estudiantes; y
+
+> <small>(ADICIONADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+V. El interés superior del niño y del adolescente.
 
 ###### Artículo 39.
 
 Con el fin de proporcionar una efectiva atención al maltrato entre escolares, se diseñará y aplicará un Modelo Único de Atención Integral, que garantice las intervenciones que en cada ámbito del maltrato que correspondan, con base en una unidad conceptual y un conjunto de lineamientos de coordinación que impidan la fragmentación de la acción de las dependencias y entidades y la revictimización que sufren las personas receptoras de violencia o de maltrato escolar al acudir a servicios de atención sin coordinación.
 
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-La elaboración del Modelo Único de Atención Integral será coordinada por la Secretaría de Educación, quien lo someterá a aprobación de la Red.
+La elaboración del Modelo Único de Atención Integral será diseñada y coordinada por la Secretaría de Educación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 41.
 
-El Modelo Único de Atención Integral establecerá que los servicios de atención social, psicológica, jurídica y médica de las distintas dependencias y entidades se coordinen para operar a través de la Red, mediante una cédula de registro único, de tal manera que, con independencia de la institución a la que acudan por primera vez los estudiantes que vivan el fenómeno de maltrato, se garantice el seguimiento del caso hasta su conclusión.
+El Modelo Único de Atención Integral establecerá que los servicios de atención social, psicológica, jurídica y médica de las distintas dependencias y entidades se coordinen para operar a través de la Comisión Interinstitucional, mediante una cédula de registro único, de tal manera que, con independencia de la institución a la que acudan por primera vez los estudiantes que vivan el fenómeno de maltrato, se garantice el seguimiento del caso hasta su conclusión.
 
-El Reglamento de la presente Ley, contemplará las características y el mecanismo para instrumentar la cédula de registro único y el seguimiento posterior de los casos atendidos, cuya coordinación será responsabilidad de la Secretaría de Educación, observando las disposiciones contenidas en la Ley de Protección de Datos Personales del Distrito Federal.
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+El Reglamento de la presente Ley, contemplará las características y el mecanismo para instrumentar la cédula de registro único y el seguimiento posterior de los casos atendidos, cuya coordinación será responsabilidad de la Secretaría de Educación, observando las disposiciones contenidas en la Ley de Protección de Datos Personales para el Distrito Federal.
 
 ###### Artículo 42.
 
@@ -664,13 +750,17 @@ V. Seguimiento, como el conjunto de acciones para vigilar el cumplimiento de los
 
 VI. Intervención educativa, que consiste en las acciones que se realicen en el centro escolar, tendientes a medir el impacto de la situación de maltrato vivido y restituir el clima escolar apropiado, a través de actividades que fomenten la construcción de una cultura de paz en el mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 43.
 
-Las dependencias, entidades, instituciones y organismos que conozcan o atienden a las y los estudiantes en el Distrito Federal en el ámbito de maltrato entre escolares deberán:
+Las dependencias, entidades, instituciones y organismos que conozcan o atienden a las y los estudiantes en la Ciudad de México en el ámbito de maltrato entre escolares deberán:
 
 I. Actuar en todo momento con debida diligencia;
 
-II. Canalizar de manera inmediata a las y los estudiantes receptores y generadores de maltrato entre escolares a las instituciones que conforman la Red, y
+> <small>(REFORMADA, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+II. Canalizar de manera inmediata a las y los estudiantes receptores y generadores de maltrato entre escolares a las instituciones que conforman la Comisión Interinstitucional, y
 
 III. Desarrollar campañas de difusión para la identificación del maltrato entre escolares y sus formas de prevenirlo.
 
@@ -678,13 +768,19 @@ III. Desarrollar campañas de difusión para la identificación del maltrato ent
 
 Las dependencias de gobierno que atiendan a los receptores de maltrato entre escolares deberán llevar un registro y control de las incidencias reportadas de conformidad con lo que se determine en el Reglamento.
 
-El registro y control será la base para que la Red, en coordinación con el Observatorio, elaboren un diagnóstico e indicadores que permitan conocer la problemática del maltrato escolar y distinguirlo de otras conductas que incidan en la generación de violencia para su debida atención.
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+El registro y control será la base para que la Comisión Interinstitucional elabore un diagnóstico e indicadores que permitan conocer la problemática del maltrato escolar y distinguirlo de otras conductas que incidan en la generación de violencia para su debida atención.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 45.
 
-Las dependencias y entidades de la Administración Pública del Distrito Federal, así como las instituciones privadas y sociales que presten servicio de atención en materia de maltrato entre escolares deberán contar con personal profesional y especializado, quienes deberán recibir continuamente capacitación en materia de maltrato entre escolares de acuerdo a los principios rectores de la presente Ley.
+Las dependencias y entidades de la Administración Pública de la Ciudad de México, así como las instituciones privadas y sociales que presten servicio de atención en materia de maltrato entre escolares deberán contar con personal profesional y especializado, quienes deberán recibir continuamente capacitación en materia de maltrato entre escolares de acuerdo a los principios rectores de la presente Ley.
 
-El Modelo Único de Atención Integral será de observancia obligatoria para la Administración Pública del Distrito Federal.
+> <small>(REFORMADO, G.O. 9 DE DICIEMBRE DE 2019)</small>
+
+El Modelo Único de Atención Integral será de observancia obligatoria para la Administración Pública de la Ciudad de México.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -725,3 +821,11 @@ G.O. 5 DE OCTUBRE DE 2017.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 9 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN EL NOMBRE, EL ARTÍCULO 1 PÁRRAFO PRIMERO Y LA FRACCIÓN VI, EL ARTÍCULO 2 FRACCIONES I, III, V, VI, VIII, XII, XIII Y XIV, ADICIONÁNDOSE LAS FRACCIONES XVI, XVII, XVIII Y XIX; SE REFORMAN LOS ARTÍCULOS 6, 11, 12, 14 FRACCIONES I, II, IV, V, VI, VII, VIII, ADICIONÁNDOSE UNA FRACCIÓN IX; SE REFORMA EL ARTÍCULO 20 Y SE ADICIONA UN ARTÍCULO 21 BIS CON LAS FRACCIONES I, II, III, IV, V, VI, VII Y VIII; SE MODIFICA EL ARTÍCULO 22 PÁRRAFOS PRIMERO Y SEGUNDO Y LAS FRACCIONES I, II, III, IV, V, VI, VII, IX, SE DEROGA LA FRACCIÓN X REAJUSTÁNDOSE LAS SUBSECUENTES, SE REFORMAN LAS FRACCIONES X Y XI Y SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV, ASÍ COMO LOS PÁRRAFOS TERCERO Y CUARTO; SE REFORMAN LOS ARTÍCULOS 23 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO, ARTÍCULO 24 PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO, ARTÍCULO 25 PÁRRAFO PRIMERO Y LAS FRACCIONES XI Y XIII; SE DEROGAN LOS ARTÍCULOS 26, 27, 28 Y 29; SE REFORMA EL ARTÍCULO 35 PÁRRAFOS PRIMERO Y SEGUNDO; SE REFORMA LA FRACCIÓN IV Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 38; SE REFORMAN LOS ARTÍCULOS 40, 41 PÁRRAFOS PRIMERO Y SEGUNDO, 43 PÁRRAFO PRIMERO Y LA FRACCIÓN II, 44 PÁRRAFO SEGUNDO Y ARTÍCULO 45 PÁRRAFOS PRIMERO Y SEGUNDO DE LA LEY PARA LA PROMOCIÓN DE LA CONVIVENCIA LIBRE DE VIOLENCIA EN EL ENTORNO ESCOLAR DEL DISTRITO FEDERAL".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México, para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
