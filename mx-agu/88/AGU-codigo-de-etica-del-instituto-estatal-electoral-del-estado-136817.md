@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-estatal-electoral-del-estado-1368
 country: "mx"
 rank: "codigo"
 publication_date: "2019-06-17"
-last_updated: "2019-06-17"
+last_updated: "2019-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2019.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de junio de 2019.
 
@@ -585,12 +585,28 @@ II.- La página de internet oficial del Instituto. Asimismo, deberá entregarse 
 
 En su caso, corresponderá al OIC regular la integración, organización, atribuciones y funcionamiento del órgano referido en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 27.
 
-Regulación del órgano de vigilancia. Para la conformación y regulación del órgano de vigilancia del presente Código y del Código de Conducta, se conformará conforme lo establecido en el capítulo IV sección segunda del Reglamento Interior del Instituto Estatal Electoral de Aguascalientes.
+Regulación del órgano de vigilancia.
+
+La conformación y regulación del órgano de vigilancia del presente Código y del Código de Conducta, se realizará acorde a lo establecido en el "Lineamiento de Integración y Funcionamiento del Comité de Ética del Instituto Estatal Electoral de Aguascalientes", que al efecto emita el Órgano Interno de Control, en este caso, la Contrataría Interna del Instituto Estatal Electoral de Aguascalientes.
 
 TRANSITORIOS (SIC)
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Código iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL “ACUERDO DE LA CONTRALORÍA INTERNA DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 27 DEL CÓDIGO DE ÉTICA DEL INSTITUTO ESTATAL ELECTORAL DE AGUASCALIENTES”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+SEGUNDO.- Publíquese el presente acuerdo en el Periódico Oficial del Estado de Aguascalientes, así como en la página oficial de internet del Instituto Estatal Electoral de Aguascalientes, con fundamento en lo establecido por los artículos 16 de la Ley General de Responsabilidades Administrativas; 4 º y 288 párrafo segundo del Código Electoral para el Estado de Aguascalientes; 4º del Reglamento Interior de la Contraloría Interna del Instituto Estatal Electoral de Aguascalientes y Lineamiento Décimo Tercero de los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, para su conocimiento general y en atención al principio de máxima publicidad.
+
+TERCERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+CUARTO.- Instrúyase al Secretario Ejecutivo del Instituto Estatal Electoral de Aguascalientes para que en el ámbito de sus funciones realice la gestión correspondiente para la publicación del presente acuerdo en el Periódico Oficial del Estado de Aguascalientes.
