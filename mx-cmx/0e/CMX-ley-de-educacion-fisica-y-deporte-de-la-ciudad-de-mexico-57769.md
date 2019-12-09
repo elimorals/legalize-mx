@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-educacion-fisica-y-deporte-de-la-ciudad-de-mexico-57769"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-04"
-last_updated: "2014-11-28"
+last_updated: "2019-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57769&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,249 +20,403 @@ issue_date: "2007-12-12"
 ---
 # LEY DE EDUCACION FISICA Y DEPORTE DE LA CIUDAD DE MEXICO -- ANTES LEY DE EDUCACION FISICA Y DEPORTE DEL DISTRITO FEDERAL --
 
-LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO, PUBLICADO EN LA G.G. DE 10 DE AGOSTO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 4 de enero de 2008.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
-(Al margen superior un escudo que dice: Ciudad de México.- Capital en Movimiento)
+Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 14 de julio de 2005.
 
-LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL
+LA JUNTA DIRECTIVA DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO, EN EJERCICIO DE LA ATRIBUCION QUE LE CONFIERE EL ARTICULO 11 FRACCION V DEL DECRETO DEL EJECUTIVO DEL ESTADO POR EL QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE CARACTER ESTATAL DENOMINADO UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO; Y
 
-MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
+C O N S I D E R A N D O...
 
-Que la H. Asamblea Legislativa del Distrito Federal, IV Legislatura se ha servido dirigirme el siguiente:
+Que en razón de lo anterior, ha tenido a bien expedir el siguiente:
 
-DECRETO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO
 
-(Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- IV LEGISLATURA)
-
-ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL IV LEGISLATURA.
-
-D E C R E T A
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
-
-DECRETO POR EL QUE SE EXPIDE LA LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL.
-
-Artículo Único.- Se expide la Ley de Educación Física y Deporte del Distrito Federal para quedar como sigue:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
-
-LEY DE EDUCACIÓN FÍSICA Y DEPORTE DEL DISTRITO FEDERAL.
-
-### CAPÍTULO PRIMERO
-
-DISPOSICIONES GENERALES.
+### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
 ###### Artículo 1.
 
-Las disposiciones de la presente Ley son de orden público e interés social y tienen por objeto normar las actividades tendientes a fomentar, organizar, coordinar, promocionar y desarrollar la educación física y el deporte en el Distrito Federal.
+El presente Reglamento tiene por objeto regular la organización y el funcionamiento de la Universidad Politécnica del Valle de México.
 
 ###### Artículo 2.
 
-Para efectos del presente ordenamiento y sin perjuicio de otros ordenamientos legales, se entiende por:
+Para efectos del presente Reglamento, se entiende por:
 
-I. Deporte.- La práctica de actividades físicas e intelectuales que las personas, de manera individual o en conjunto, realicen con propósitos competitivos o de esparcimiento en apego a su reglamentación. Dicha práctica propiciará el desarrollo de las aptitudes del individuo, el cuidado de su salud y promoverá su integración y desarrollo en la sociedad;
+I. Decreto, al Decreto del Ejecutivo del Estado por el que se crea el organismo público descentralizado de carácter estatal denominado Universidad Politécnica del Valle de México.
 
-II. Educación física.- La preparación física del ser humano por medio de procesos pedagógicos.
+II. Universidad u Organismo, a la Universidad Politécnica del Valle de México.
 
-III. Delegaciones.- Las demarcaciones territoriales y los órganos político-administrativos con los que cuenta la Administración Pública del Distrito Federal;
+III. Junta Directiva, a la Junta Directiva de la Universidad Politécnica del Valle de México.
 
-IV. Instituto: El Instituto del Deporte del Distrito Federal;
-
-V. Fondo: El Fondo de Apoyo para Deportistas de Alto Rendimiento del Distrito Federal;
-
-VI. Programa: Programa del Deporte del Distrito Federal;
-
-VII. Registro: El Registro del Deporte del Distrito Federal;
-
-VIII. Sistema: El Sistema de Cultura Física y Deporte y Deporte (sic) del Distrito Federal;
-
-IX. Consejo: Consejo del Deporte del Distrito Federal;
-
-X. Cultura física: Sistema de categorías desprendidas del (sic) la actividad motriz del hombre y manifestada en diferentes connotaciones determinadas en la práctica diaria vital, de donde se desprenden como categorías el entrenamiento deportivo, la educación física y la recreación física; y
-
-XI. Liga: Organismo deportivo que tiene como finalidad agrupar, coordinar y estimular la formación de equipos para la práctica de una disciplina, independientemente de la denominación que adopte.
-
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
+IV. Rector, al Rector de la Universidad Politécnica del Valle de México.
 
 ###### Artículo 3.
 
-La función social del deporte y la educación física es la de fortalecer la interacción e integración de la sociedad, para desarrollar de manera armónica las aptitudes físicas e intelectuales de las personas que contribuyan a fomentar la solidaridad como valor social; además de promover y estimular la actividad y recreación física como medios importantes para la preservación de la salud y la prevención de enfermedades.
-
-Los titulares de las oficinas de dependencias de la Administración Pública local, tendrán la obligación de fomentar la práctica de actividades físicas o deportivas entre sus trabajadores; se promoverán, de acuerdo a las características de cada área y oficina, programas de activación física en donde se dediquen al menos 20 minutos de la jornada laboral para estas actividades.
+La Universidad tiene a su cargo el despacho de los asuntos que le confiere el Decreto y otras disposiciones legales.
 
 ###### Artículo 4.
 
-La Función Educativa del Deporte debe implicar además de la enseñanza de técnicas y el desarrollo de las cualidades físicas de los alumnos, la transmisión de hábitos, valores y actitudes.
-
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
+La Universidad se sujetará a lo dispuesto por la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México y su reglamento, así como por lo que establezcan otros ordenamientos legales.
 
 ###### Artículo 5.
 
-Son sujetos de la presente Ley los deportistas, educadores físicos, entrenadores deportivos, técnicos, los organismos deportivos de los sectores público, social y privado, equipos, clubes, asociaciones y ligas deportivas, jueces, árbitros y demás personas que por su naturaleza, condición o funciones sean susceptibles de integrarse al Sistema de Cultura Física y Deporte en esta Ciudad.
+La Universidad conducirá sus actividades en forma programada, con base en lo señalado en el Plan de Desarrollo del Estado de México y en los programas regionales, sectoriales y especiales que estén a su cargo o en los que participe, de acuerdo con la normatividad aplicable.
 
 ###### Artículo 6.
 
-Se reconoce el derecho de todo individuo al conocimiento, difusión y práctica del deporte sin distinción, exclusión o restricción basada en cualquier origen étnico, sexo, edad, discapacidad, condición social o económica, condiciones de salud, lengua, opiniones, preferencias sexuales, estado civil, militancia o creencia religiosa.
+La dirección y administración de la Universidad corresponden:
+
+I. A la Junta Directiva; y
+
+II. Al Rector.
 
 ###### Artículo 7.
 
-Corresponde al Instituto del Deporte del Distrito Federal ser el órgano rector de la política deportiva en esta ciudad.
+La Junta Directiva es el órgano de gobierno de la Universidad y le corresponde el ejercicio de las atribuciones señaladas en el Decreto, así como el cumplimiento de las obligaciones establecidas en otros ordenamientos legales.
 
-Para ello contará con las facultades que le otorga esta Ley, así como las que le otorguen otras disposiciones legales para el mejor desarrollo fomento y promoción de la educación física y el deporte en el Distrito Federal.
+Las determinaciones de la Junta Directiva tendrán carácter obligatorio para el Rector y las demás unidades administrativas que integran al Organismo.
 
-### CAPÍTULO SEGUNDO
-
-DEL SISTEMA DE CULTURA FÍSICA Y DEPORTE DEL DISTRITO FEDERAL.
+### CAPITULO II. DE LA JUNTA DIRECTIVA
 
 ###### Artículo 8.
 
-El Sistema de Cultura Física y Deporte del Distrito Federal estará constituido por el conjunto de instrumentos, métodos, acciones, recursos y procedimientos que los individuos, agrupaciones sociales y organismos deportivos de los sectores público, social y privado del Distrito Federal establezcan y lleven a cabo entre sí y con los diversos organismos que conforman el Sistema Nacional del Deporte.
+La Junta Directiva se integrará de acuerdo con lo establecido por el Decreto y funcionará de conformidad con las disposiciones aplicables.
 
 ###### Artículo 9.
 
-Las funciones que conforme a esta Ley corresponden al Sistema estarán a cargo del Instituto del Deporte del Distrito Federal.
+El Rector será nombrado por el Gobernador del Estado a propuesta del Secretario de Educación.
 
 ###### Artículo 10.
 
-Las instituciones educativas públicas y privadas promoverán el deporte en sus planteles, de conformidad a los programas educativos diseñados por la autoridad competente, por lo que cuidarán que se imparta la clase de educación física cuando menos tres veces por semana; en caso de no contar con el espacio suficiente podrán utilizar las instalaciones deportivas públicas más cercanas previa autorización de la autoridad delegacional correspondiente.
+Corresponde al Rector, además de las señaladas en el Decreto, las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Someter a la aprobación de la Junta Directiva los planes y programas de la Universidad.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+II. Disponer lo necesario para la instalación y el funcionamiento de los Consejos Social y de Calidad conforme a lo dispuesto por el Decreto.
 
-Las instituciones educativas privadas podrán permitir el acceso y uso de sus instalaciones a sus alumnos y a los padres de familia de éstos; y en su caso los deportistas y/o habitantes del Distrito Federal, ajenos a los Planteles; dentro de los horarios y condiciones que establezca su Reglamento respectivo; por lo que hace a los deportistas y/o habitantes del Distrito Federal se les podrá cobrar una cuota de recuperación para el mantenimiento de sus instalaciones, la cual será de una vez la Unidad de Cuenta de la Ciudad de Méxicovigente (sic), al momento de realizarse la actividad o deporte.
+III. Someter a la aprobación de la Junta Directiva los proyectos académicos de la Universidad.
+
+IV. Administrar el patrimonio de la Universidad, informando lo conducente a la Junta Directiva.
+
+V. Resolver las dudas que se susciten con motivo de la interpretación y aplicación de este Reglamento, así como los casos no previstos en el mismo.
+
+VI. Proponer a la Junta Directiva programas, estrategias y acciones para la modernización administrativa de la Universidad.
+
+VII. Proponer a la Junta Directiva la creación de nuevas carreras acordes con los objetivos de la Universidad y con los requerimientos sociales.
+
+VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones.
+
+IX. Expedir los diplomas, constancias, certificados de estudios, títulos profesionales y grados académicos, así como validar las actas de exámenes profesionales que otorgue la Universidad.
+
+X. Otorgar las licencias, permisos y autorizaciones que le correspondan.
+
+XI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende la Junta Directiva.
 
 ###### Artículo 11.
 
-El Sistema y el Programa de Educación Física y el Deporte del Distrito Federal, se apegarán a los lineamientos establecidos en el Sistema y el Programa Nacional del Deporte, estableciendo los mecanismos de coordinación para integrar en ellos las actividades que realicen otras instituciones públicas o privadas relacionadas con el deporte e informarán públicamente el desarrollo de los mismos.
+Para el estudio, planeación, despacho, control y evaluación de los asuntos de su competencia, el Rector se auxiliará de las unidades administrativas básicas siguientes:
+
+I. Dirección de División de Ingeniería Industrial y de Sistemas.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+II. Dirección de División de Ingeniería Mecánica y Electrónica.
+
+III. Dirección de División de Ingeniería en Informática.
+
+IV. Dirección de Administración y Finanzas.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+V. Subdirección de Apoyo y Desarrollo Académico.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+VI. Subdirección de Extensión Universitaria y Vinculación.
+
+VII. (DEROGADA, G.G. 6 DE AGOSTO DE 2008)
+
+VIII. Abogado General.
+
+La Universidad contará con las demás unidades administrativas que le sean autorizadas, cuyas funciones y líneas de autoridad se establecerán en su manual general de organización; asimismo, se auxiliará de los servidores públicos necesarios para el cumplimiento de sus atribuciones, de acuerdo con la estructura orgánica y presupuesto que le sean autorizados.
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 12.
 
-Se consideran integrantes del Sistema de Cultura Física y Deporte:
+Al frente de cada Dirección y Subdirección habrá un titular, quien se auxiliará de los servidores públicos que las necesidades del servicio requieran, de acuerdo con la normatividad aplicable, estructura orgánica y presupuesto de egresos autorizado.
 
-a) Deportista: Las personas que realicen actividades deportivas de orden competitivo o recreativo bajo reglamentación establecida;
-
-b) Órganos deportivos: La agrupación formada libremente por individuos, personas morales u organizaciones deportivas como:
-
-I.- Equipos y Clubes;
-
-II.- Ligas;
-
-III.- Asociaciones Deportivas;
-
-IV.- Unión Deportiva;
-
-V.- Comités Delegacionales del Deporte;
-
-VI.- Consejo del Deporte; y
-
-VII.- Comité del Deporte Adaptado del Distrito Federal.
-
-c) Órganos de representación ciudadana que establezca la Ley de Participación Ciudadana;
-
-d) Entrenadores deportivos, Educadores Físicos y demás profesionales de la materia;
-
-e) Especialistas en medicina deportiva; y
-
-f) Personas que por su naturaleza y funciones sean susceptibles de integrarse al Sistema de Cultura Física y Deporte del Distrito Federal.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 13.
 
-Los organismos deportivos previamente incorporados al Sistema deberán estar registrados obligatoriamente para tener acceso a los servicios ante el Instituto presentando su programa anual de actividades, para su inclusión y seguimiento en el Programa del Deporte del Distrito Federal.
+Corresponde a los directores y subdirectores:
 
-Al efectuar dicho registro de programas anuales serán considerados para la utilización de instalaciones deportivas dentro del Distrito Federal.
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones encomendadas a la unidad administrativa a su cargo.
+
+II. Formular los planes, programas, dictámenes, estudios e informes que les sean solicitados por el Rector.
+
+III. Acordar con el Rector el despacho de los asuntos a su cargo que requieran de su intervención.
+
+IV. Participar, en el ámbito de su competencia, en la formulación de los programas anuales de actividades y de presupuesto de la Universidad.
+
+V. Ejecutar los programas anuales de actividades de la unidad administrativa a su cargo.
+
+VI. Suscribir los documentos relativos al ejercicio de sus atribuciones y aquellos que les sean señalados por delegación o los que les correspondan por suplencia.
+
+VII. Coordinar sus actividades con las demás unidades administrativas de la Universidad, cuando así se requiera.
+
+VIII. Proponer al Rector el ingreso, licencia, promoción, remoción y cese del personal de la unidad administrativa a su cargo.
+
+IX. Proponer modificaciones jurídicas y administrativas que tiendan a modernizar la organización y el funcionamiento de la unidad administrativa a su cargo y vigilar su cumplimiento.
+
+X. Proporcionar, en el ámbito de su competencia, información, datos, apoyo técnico o la asesoría que les sea requerida.
+
+XI. Promover y vigilar la aplicación de las disposiciones que rigen la organización y el funcionamiento de la unidad administrativa a su cargo.
+
+XII. Participar, en el ámbito de su competencia, en la elaboración y actualización de los reglamentos, manuales administrativos y demás ordenamientos que regulen la organización y el funcionamiento de la Universidad.
+
+XIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector.
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.G. 6 DE AGOSTO DE 2008)</small>
+
+> <small>(REFORMADA SU DENOMINACION, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 14.
 
-Son también integrantes del Sistema los deportistas profesionales del Distrito Federal, que conforme a la reglamentación deportiva internacional sean susceptibles de ostentar la representación del Distrito Federal o la nacional.
+Corresponde a las direcciones de División, en su respectivo ámbito de competencia:
+
+I. Proponer normas y lineamientos para el desarrollo de las actividades de docencia e investigación de la División a su cargo, y vigilar su cumplimiento.
+
+II. Proponer al Rector el perfil del personal académico y de investigación de la División a su cargo.
+
+III. Someter a la consideración del Rector programas para la actualización y superación académica del personal de la División a su cargo.
+
+IV. Proponer técnicas de enseñanza y métodos de evaluación para eficientar las actividades académicas de la División a su cargo y vigilar su cumplimiento.
+
+V. Promover el otorgamiento de estímulos al personal académico y de investigación con desempeño o aportaciones sobresalientes en la División a su cargo.
+
+VI. Impulsar la celebración de convenios para la ejecución de los programas académicos en la División a su cargo.
+
+VII. Presentar al Rector proyectos para la ampliación y mejoramiento de los espacios físicos y servicios educativos en la División a su cargo.
+
+VIII. Coadyuvar con las unidades administrativas competentes en el proceso de selección de alumnos de nuevo ingreso a la División a su cargo.
+
+IX. Elaborar y someter a la aprobación del Rector los programas de estadías, tutorías y servicio social.
+
+X. Supervisar el desarrollo de las actividades del personal docente adscrito a la División a su cargo.
+
+XI. Conducir los procesos relacionados con el ingreso, promoción y permanencia del personal académico, de conformidad con lo establecido en la legislación aplicable en la materia.
+
+XII. Vigilar el cumplimiento de los planes y programas de estudio y de las actividades de investigación de la División a su cargo.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+XIII. Proponer la actualización y mejora a los contenidos temáticos de los programas de estudio de la División a su cargo.
+
+XIV. Participar en la evaluación curricular de la carrera a su cargo.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+XV. Promover mecanismos de coordinación con el sector productivo para la realización de estancias y estadías de los alumnos de la Universidad.
+
+XVI. Integrar la planta docente de la División a su cargo y someterla a la consideración del Rector.
+
+XVII. Fomentar la titulación de los alumnos egresados de la carrera a su cargo.
+
+XVIII. Proponer políticas y lineamientos para la asignación de becas a los estudiantes de la División a su cargo.
+
+XIX. Las demás que les confieren otras disposiciones legales y aquellas que les encomiende el Rector.
 
 ###### Artículo 15.
 
-En el Registro del Deporte del Distrito Federal, como instrumento del Sistema, deberá constar la inscripción actualizada de los deportistas, jueces, árbitros, técnicos, entrenadores, educadores físicos, especialistas en medicina deportiva, las organizaciones deportivas, y demás profesionales en la materia; así como las instalaciones y espacios para la práctica del deporte y, las competencias y actividades deportivas que determina el reglamento de esta ley.
+Corresponde a la Dirección de Administración y Finanzas:
+
+I. Aplicar las políticas, normas, sistemas y procedimientos para la programación, presupuestación y administración integral de los recursos humanos, materiales y financieros de la Universidad.
+
+II. Integrar y someter a la consideración del Rector, los anteproyectos de presupuesto anual de ingresos y de egresos de la Universidad, de acuerdo con la normatividad en la materia.
+
+III. Ejecutar los procedimientos y mecanismos sobre el ejercicio y control del presupuesto de gasto corriente y de inversión, y verificar su aplicación.
+
+IV. Administrar los recursos humanos de la Universidad, de conformidad con las normas aplicables.
+
+V. Formular conjuntamente con las unidades administrativas de la Universidad los programas anuales de adquisiciones, arrendamientos y servicios de la Universidad, en los términos de la legislación aplicable.
+
+VI. Presidir el comité de adquisiciones y servicios de la Universidad, de acuerdo con la normatividad aplicable.
+
+VII. Coordinar y, en su caso, ejecutar los procedimientos de adquisiciones y arrendamientos de bienes, contratación de servicios, obra pública y servicios relacionados con la misma que requiera Universidad, de acuerdo con la normatividad aplicable.
+
+VIII. Suscribir los contratos y convenios derivados de los procesos adquisitivos de bienes, servicios, obra pública y servicios relacionados con la misma, con base en la normatividad aplicable, previo acuerdo con el Rector.
+
+IX. Proveer de bienes y servicios necesarios para el desarrollo de las actividades académicas y administrativas de la Universidad.
+
+X. Supervisar el registro, mantenimiento y conservación de los bienes muebles e inmuebles de la Universidad.
+
+XI. Integrar y someter a la consideración del Rector, los proyectos de manuales de organización y de procedimientos de la Universidad.
+
+XII. Promover la capacitación y desarrollo del personal administrativo y docente de la Universidad.
+
+XIII. Salvaguardar el patrimonio de la Universidad, proponiendo medidas para su conservación y mantenimiento.
+
+XIV. Realizar los movimientos y registros presupuestales y contables de la Universidad, de conformidad con las disposiciones aplicables.
+
+XV. Integrar los estados financieros de la Universidad y presentarlos al Rector.
+
+XVI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 16.
 
-Los derechos de los integrantes del Sistema son:
+Corresponde a la Subdirección de Apoyo y Desarrollo Académico:
 
-I.- Participar en el o los deportes de su elección;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
 
-II.- Asociarse para la práctica del deporte y, en su caso, para la defensa de sus derechos;
+I. Organizar y controlar las funciones de registro y control escolar de los alumnos de la Universidad.
 
-III.- Utilizar las instalaciones deportivas de acuerdo con la normatividad establecida;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
 
-IV.- Recibir asistencia y entrenamiento deportivos, así como los servicios médicos adecuados en competencias oficiales; así como durante sus prácticas y entrenamientos;
+II. Coordinar la elaboración de las constancias, actas, certificados, diplomas y títulos de los estudiantes de la Universidad.
 
-V.- Participar en eventos deportivos reglamentarios u oficiales, emanados del Sistema;
+III. Atender las solicitudes de revalidación y equivalencia de estudios realizados en la Universidad.
 
-VI.- Elegir y, en su caso, ser electos para cargos directivos en los organismos deportivos a los que pertenezcan;
+IV. Realizar y controlar el proceso de inscripción, reinscripción, cambios, bajas temporales y definitivas de los alumnos de la Universidad.
 
-VII.- Recibir los premios, estímulos y becas, en dinero o en especie, ofrecidos en las competencias o eventos deportivos de que se trate, o los que determine esta ley;
+V. Coordinar sus acciones con las instancias competentes para la aplicación de exámenes a los aspirantes a ingresar a la Universidad.
 
-VIII.- Recibir apoyo logístico en aquellas competencias que organicen, previo informe al Instituto del Deporte del Distrito Federal y al Órgano Político-Administrativo de la Demarcación Territorial del Distrito Federal. El apoyo logístico se otorgará de acuerdo a la suficiencia presupuestal con que se cuente;
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
 
-IX.- Representar a su Club, Asociación, Demarcación Territorial del Distrito Federal, al Distrito Federal o al país, en competencias deportivas oficiales;
+VI. Llevar el seguimiento y registro de las evaluaciones académicas de los alumnos de la Universidad.
 
-X.- Participar en la elaboración del programa del deporte, así como de programas y reglamentos deportivos a convocatoria de la autoridad rectora;
+VII. Proponer al Rector el calendario escolar, en coordinación con las Direcciones de División.
 
-XI.- Obtener de las autoridades correspondientes el registro que lo acredite como deportista; y
+VIII. Proponer, difundir y vigilar el cumplimiento de las políticas, lineamientos y procedimientos para el ingreso, permanencia y promoción de los alumnos de la Universidad.
 
-XII.- Los demás que le otorguen esta ley u otros ordenamientos legales.
+IX. Establecer políticas, lineamientos y procedimientos para el otorgamiento de la documentación escolar de los alumnos de la Universidad.
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+X. Coordinar y supervisar la prestación de los servicios que ofrece el Centro de Información de la Universidad.
+
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2008)</small>
+
+XI. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 17.
 
-Son obligaciones de los integrantes del Sistema:
+Corresponde a la Subdirección de Extensión Universitaria y Vinculación:
 
-I.- Cumplir con los Estatutos y Reglamentos de su deporte, especialidad o actividad;
+I. Proponer al Rector programas de extensión universitaria y llevar a cabo su ejecución.
 
-II.- Respetar los lineamientos del Sistema y del Programa del Deporte del Distrito Federal;
+II. Supervisar los programas de educación continua para fomentar la actualización profesional, la formación para el trabajo y la cultura tecnológica.
 
-III.- Cuidar y vigilar que la infraestructura deportiva utilizada en sus prácticas, se ocupe para el fin adecuado, procurando se conserve en buen estado, conforme a lo establecido en los Reglamentos aplicables;
+III. Proponer al Rector la suscripción de convenios con organizaciones e instituciones públicas, sociales y privadas, que contribuyan al cumplimiento del objeto de la Universidad.
 
-IV.- Informar a la Institución competente sobre el uso de los apoyos materiales o financieros recibidos, considerándose éstos como etiquetados quedando prohibido su utilización para fines distintos a los que fueron destinados de conformidad con el Reglamento y las disposiciones del Sistema de Cultura Física y Deporte del Distrito Federal;
+IV. Proponer al Rector mecanismos de vinculación con los sectores público, privado y social, y llevar a cabo su seguimiento.
 
-V.- Fomentar la participación organizada de la sociedad a través del deporte;
+V. Promover, organizar, vigilar y evaluar el desarrollo de actividades culturales, recreativas y demás eventos que contribuyan a la formación de los estudiantes.
 
-VI.- Participar en el desarrollo de la cultura del deporte, conforme a lo dispuesto en esta Ley;
+VI. Promover y difundir las carreras y programas académicos y de investigación de la Universidad.
 
-VII.- Mantener en óptimas condiciones de uso y mantenimiento las instalaciones deportivas; equipándolas con todos y cada uno de los elementos materiales necesarios para la práctica de cada especialidad, contando con infraestructura de punta y avances tecnológicos;
+VII. (DEROGADA, G.G. 6 DE AGOSTO DE 2008)
 
-> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2008)</small>
 
-VIII.- Proporcionar la vigilancia y resguardo de las instalaciones; así como la seguridad para los deportistas que entrenen o compitan en ellas;
+VIII. Coordinar la prestación del servicio social de los alumnos de la Universidad.
 
-> <small>(REFORMADA, G.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2008)</small>
 
-IX.- Promover medidas necesarias para erradicar la violencia en todos los espacios deportivos y de recreación, además de fomentar los principios encaminados a la prevención de las adicciones y farmacodependencia.
+IX. Integrar, operar y mantener actualizado el Sistema Integral de Información de la Universidad.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 8 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2008)</small>
 
-X.- Las contenidas en el texto de esta Ley y demás disposiciones aplicables.
+X. las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Rector.
 
 ###### Artículo 18.
 
-La participación en el Sistema de Cultura Física y Deporte del Distrito Federal, es obligatoria para la Administración Pública del Distrito Federal.
+(DEROGADO, G.G. 6 DE AGOSTO DE 2008)
 
 ###### Artículo 19.
 
-Las personas físicas que realicen actividades deportivas podrán participar en el Sistema de Cultura Física y Deporte del Distrito Federal en lo individual o mediante organismos deportivos en los términos que señalen esta ley y su reglamento.
+Corresponde al Abogado General:
+
+I. Representar a la Universidad en los asuntos judiciales en los que sea parte, previo mandato que al efecto le otorgue el Rector.
+
+II. Asesorar jurídicamente al Rector en los asuntos competencia de la Universidad.
+
+III. Formular y revisar los proyectos de reglamentos, acuerdos, convenios, contratos y cualquier otro ordenamiento que pretenda expedir o suscribir la Universidad.
+
+> <small>(REFORMADA G.G. 6 DE AGOSTO DE 2008)</small>
+
+IV. Proporcionar asesoría jurídica en materia educativa a las unidades administrativas de la Universidad.
+
+> <small>(REFORMADA G.G. 6 DE AGOSTO DE 2008)</small>
+
+V. Asesorar en la aplicación de las disposiciones que regulan las relaciones de trabajo en la Universidad.
+
+VI. Actuar como órgano de consulta y difusión de las disposiciones jurídicas que rijan la organización y el funcionamiento de la Universidad.
+
+VII. Proponer disposiciones normativas complementarias que coadyuven a eficientar el funcionamiento de la Universidad.
+
+VIII. Las demás que le confieren otras disposiciones aplicables y aquellas que le encomiende el Rector.
 
 ###### Artículo 20.
 
-Los integrantes del Sistema deberán contar con la constancia actualizada de inscripción en el Registro del Deporte del Distrito Federal como requisito indispensable para obtener cualquier clase de apoyo y estímulos previstos en la ley.
+El Rector será suplido en sus ausencias temporales hasta por 15 días, por el Director que aquél designe. En las mayores de 15 días, por el servidor público que designe el Presidente de la Junta Directiva.
 
-La constancia de inscripción se obtendrá, actualizará y revocará en los términos que establezca el Reglamento de esta Ley.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 21.
 
-Los deportistas, agrupaciones, organismos deportivos y demás personas que tengan por objeto el desarrollo de actividades vinculadas con el deporte y que su fin no implique necesariamente la competencia deportiva, podrán inscribirse en el Registro del Deporte, siempre y cuando no tengan fines lucrativos.
+Los Directores de División y Subdirectores serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Rector.
 
-### CAPÍTULO TERCERO
+T R A N S I T O R I O S
 
-DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL.
+PRIMERO.- Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+Aprobado por la Junta Directiva de la Universidad Politécnica del Valle de México, según consta en acta de su Sexta Sesión Ordinaria, celebrada en el municipio de Tultitlán, México, a los diecisiete días del mes junio de dos mil cinco.
+
+ING. AGUSTIN GASCA PLIEGO
+
+SECRETARIO DE EDUCACION, CULTURA Y BIENESTAR SOCIAL Y PRESIDENTE DE LA JUNTA DIRECTIVA
+
+(RUBRICA).
+
+DR. FRANCISCO JOSE PLATA OLVERA
+
+RECTOR DE LA UNIVERSIDAD POLITECNICA DEL VALLE DE MEXICO Y SECRETARIO DE LA JUNTA DIRECTIVA
+
+(RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 6 DE AGOSTO DE 2008.
+
+PRIMERO.- Publíquese el presente Acuerdo en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igualo menor jerarquía que sean contrarias a las establecidas en el presente Acuerdo.
+
+G.G. 10 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Universidad Politécnica del Valle de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 14 de julio del 2005.
+
+### CAPITULO III. DEL RECTOR
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 22.
 
@@ -338,9 +492,9 @@ XXIII. Otorgar el aval para la realización de eventos deportivos selectivos y r
 
 XXIV. Todas las demás que deriven del Sistema y Programas Nacionales del Deporte y de la operación y funcionamiento del Sistema; y en particular, las tendientes a dar seguimiento constante y puntual a los nuevos valores deportivos, estimulando su continuidad en la práctica de su deporte o actividad.
 
-### CAPÍTULO CUARTO
+### CAPÍTULO IV. DE LOS DIRECTORES Y SUBDIRECTORES
 
-DEL CONSEJO DEL DEPORTE.
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2008)</small>
 
 ###### Artículo 24.
 
@@ -412,9 +566,7 @@ El Comité de Arbitraje Deportivo deberá estar integrado por un Representante d
 
 XIII. Expedir sus lineamientos de organización y funcionamiento.
 
-### CAPÍTULO QUINTO
-
-DEL PROGRAMA DEL DEPORTE DEL DISTRITO FEDERAL.
+### CAPÍTULO V. DE LAS DIRECCIONES, SUBDIRECCIONES Y ABOGADO GENERAL
 
 ###### Artículo 27.
 
@@ -482,11 +634,7 @@ XI.- Difusión de las culturas, investigaciones y desarrollo del deporte.
 
 El Premio al Mérito Deportivo que se entregará anualmente por el Jefe de Gobierno del Distrito Federal o la persona que éste designe, de conformidad con las bases y lineamientos que se expidan para tal efecto por el Consejo del Deporte.
 
-### CAPÍTULO SEXTO
-
-DE LA PARTICIPACIÓN DE LAS DELEGACIONES EN EL SISTEMA DE CULTURA FÍSICA Y DEPORTE DEL DISTRITO FEDERAL.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE AGOSTO DE 2013)</small>
+### CAPITULO VI. DE LA SUPLENCIA DE LOS TITULARES
 
 ###### Artículo 31.
 
