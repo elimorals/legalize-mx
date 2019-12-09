@@ -4,7 +4,7 @@ identifier: "LIH"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-08-11"
-last_updated: "2018-12-24"
+last_updated: "2019-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "LIH"
 ---
 # LEY DE INGRESOS SOBRE HIDROCARBUROS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "MODIFICACIÓN AL ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018", PUBLICADA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 24 DE DICIEMBRE DE 2018.]</small>
+NOTA 1: PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "MODIFICACIÓN AL ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018", PUBLICADA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 24 DE DICIEMBRE DE 2018.
+
+NOTA2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.
 
 LEY DE INGRESOS SOBRE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -598,9 +600,11 @@ El registro y reconocimiento de costos, gastos, inversiones e ingresos que se re
 
 ### CAPÍTULO I. DEL DERECHO POR LA UTILIDAD COMPARTIDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 39.
 
-Los Asignatarios pagarán anualmente el derecho por la utilidad compartida aplicando una tasa del 65% a la diferencia que resulte de disminuir del valor de los Hidrocarburos extraídos durante el ejercicio fiscal de que se trate, incluyendo el consumo que de estos productos efectúe el Asignatario, así como las mermas por derramas o quema de dichos productos, las deducciones permitidas en el artículo 40 de esta Ley.
+Los Asignatarios pagarán anualmente el derecho por la utilidad compartida aplicando una tasa del 54% a la diferencia que resulte de disminuir del valor de los Hidrocarburos extraídos durante el ejercicio fiscal de que se trate, incluyendo el consumo que de estos productos efectúe el Asignatario, así como las mermas por derramas o quema de dichos productos, las deducciones permitidas en el artículo 40 de esta Ley.
 
 El derecho a que se refiere este artículo se enterará mediante declaración que se presentará ante las oficinas autorizadas a más tardar el último día hábil del mes de marzo del año siguiente a aquel al que corresponda el pago.
 
@@ -654,9 +658,11 @@ La parte deducible de los gastos, costos e inversiones conforme a las fracciones
 
 Para los efectos de las fracciones I y II de este artículo se considerará como Barril de petróleo crudo equivalente a la suma del volumen de Petróleo y Condensados extraídos en Barriles más el volumen de Gas Natural extraído en millones de BTU dividido entre el factor de 5.15.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 42.
 
-A cuenta del derecho a que se refiere el artículo 39 de esta Ley se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél a que correspondan los pagos provisionales, aplicando la tasa establecida en el primer párrafo del artículo 39 al valor de los Hidrocarburos extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, disminuyéndose de dicho valor los siguientes conceptos:
+A cuenta del derecho a que se refiere el artículo 39 de esta Ley se harán pagos provisionales mensuales, a más tardar el día 25 del mes posterior a aquél al que correspondan los pagos provisionales; cuando el mencionado día sea inhábil, el pago se deberá realizar al siguiente día hábil. Los pagos provisionales mensuales se calcularán aplicando la tasa establecida en el primer párrafo del artículo 39 al valor de los Hidrocarburos extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, disminuyéndose de dicho valor los siguientes conceptos:
 
 I. Los costos, gastos y la parte proporcional de las inversiones correspondientes al mismo periodo conforme a lo dispuesto en el artículo 40 de esta Ley, sin que excedan de los montos máximos en los siguientes términos:
 
@@ -734,9 +740,11 @@ XX. Aquéllos que no sean estrictamente indispensables para las actividades por 
 
 ### CAPÍTULO II. DEL DERECHO DE EXTRACCIÓN DE HIDROCARBUROS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 44.
 
-El Asignatario estará obligado a pagar mensualmente el derecho de extracción de hidrocarburos, aplicando la tasa que corresponda de conformidad con las fracciones I a III de este artículo al valor del Hidrocarburo de que se trate extraído en el mes. Las tasas se determinarán empleando los precios de los Hidrocarburos en dólares por unidad, según corresponda, conforme a lo siguiente:
+El Asignatario estará obligado a pagar mensualmente el derecho de extracción de hidrocarburos, a más tardar el día 25 del mes posterior a aquél al que corresponda el pago; cuando el mencionado día sea inhábil, el pago se deberá realizar al siguiente día hábil. El pago mensual se calculará aplicando la tasa que corresponda de conformidad con las fracciones I a III de este artículo al valor del Hidrocarburo de que se trate extraído en el mes. Las tasas se determinarán empleando los precios de los Hidrocarburos en dólares por unidad, según corresponda, conforme a lo siguiente:
 
 I. Al valor del Petróleo, se le aplicará la siguiente tasa:
 
@@ -752,7 +760,7 @@ a) Cuando se trate de Gas Natural Asociado:
 
 Precio del Gas Natural
 
-Tasa = –––––––––––––––––
+Tasa = -----------------
 
 100
 
@@ -762,9 +770,9 @@ i. Cuando el precio del Gas Natural sea menor o igual a 5 dólares de los Estado
 
 ii. Cuando el precio del Gas Natural sea mayor a 5 y menor a 5.5 dólares de los Estados Unidos de América por millón de BTU:
 
-(Precio del Gas Natural – 5) x 60.5
+(Precio del Gas Natural - 5) x 60.5
 
-Tasa = [––––––––––––––––––––––––––––] %
+Tasa = [----------------------------] %
 
 Precio del Gas Natural
 
@@ -772,7 +780,7 @@ iii. Cuando el precio del Gas Natural sea mayor o igual a 5.5 dólares de los Es
 
 Precio del Gas Natural
 
-Tasa = ––––––––––––––––––
+Tasa = ------------------
 
 100
 
@@ -782,7 +790,7 @@ a) Cuando el precio de los Condensados sea inferior a 60 dólares de los Estados
 
 b) Cuando el precio de los Condensados sea mayor o igual a 60 dólares de los Estados Unidos de América por Barril:
 
-Tasa= [ (0.125 x Precio de los Condensados) – 2.5 ] %
+Tasa= [ (0.125 x Precio de los Condensados) - 2.5 ] %
 
 Para la determinación de las tasas para el cálculo del derecho a que se refiere este artículo se deberán considerar los efectos de las variaciones en el Índice de Precios al Productor de los Estados Unidos de América o el que lo sustituya. Para ello, la Secretaría se sujetará a los lineamientos que para este propósito emita, los cuales deberán ser publicados en el Diario Oficial de la Federación.
 
@@ -807,6 +815,10 @@ II. A partir del mes 2,750 pesos por kilómetro cuadrado
 Asignación y en adelante
 
 Las cuotas del derecho de exploración de hidrocarburos se actualizarán cada año en el mes de enero, de acuerdo a la variación en el Índice Nacional de Precios al Consumidor en el año inmediato anterior.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+La declaración de pago del derecho a que se refiere el presente artículo se presentará a más tardar el día 17 del mes calendario inmediato posterior a aquél al que corresponda dicho pago.
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES DE LOS ASIGNATARIOS
 
@@ -946,9 +958,15 @@ Las cuotas del impuesto previsto en el presente Título, se actualizarán anualm
 
 No se causará el impuesto por la actividad de exploración y extracción de hidrocarburos en aquellos casos en que el contribuyente justifique, que por causas no imputables a él, se encuentra imposibilitado para realizar las actividades de Exploración y Extracción de Hidrocarburos en el Área Contractual o Área de Asignación, según se trate. El Servicio de Administración Tributaria emitirá las disposiciones de carácter general necesarias para la aplicación de la exención.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 56.
 
-El contribuyente determinará el impuesto por la actividad de exploración y extracción de hidrocarburos por mes o fracción de éste, y deberá pagarlo a más tardar el día 17 del mes inmediato siguiente a aquel que corresponda el pago.
+El contribuyente determinará el impuesto por la actividad de exploración y extracción de hidrocarburos por mes o fracción de éste, y deberá pagarlo a más tardar el día 17 del mes inmediato siguiente a aquél que corresponda el pago.
+
+> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2019)</small>
+
+Cuando en la declaración de los pagos mensuales del impuesto por la actividad de exploración y extracción de hidrocarburos resulte saldo a favor del contribuyente, se podrá compensar contra los pagos posteriores del propio impuesto a cargo del contribuyente. Dicha compensación deberá realizarse conforme a lo previsto en el artículo 17-A del Código Fiscal de la Federación, considerándose el periodo comprendido desde el mes en el que se obtenga la cantidad a favor, hasta el mes en el que se realice la compensación.
 
 Para el cumplimiento de lo dispuesto en este Título se aplicarán en lo conducente, las disposiciones fiscales y las reglas de carácter general expedidas por el Servicio de Administración Tributaria.
 
@@ -1165,3 +1183,11 @@ RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 6 DE ENERO DE 2017
 RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 24 DE DICIEMBRE DE 2018.
 
 > <small>[N. DE E. VÉASE MODIFICACIÓN AL ANEXO 27 PUBLICADA EN EL D.O.F. DE 24 DE DICIEMBRE DE 2018, PRIMERA SECCIÓN, PÁGINA 32, EN “ANEXOS 1-A, 5, 8, 11 Y 27 DE LA QUINTA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2018, PUBLICADA EL 21 DE DICIEMBRE DE 2018”.]</small>
+
+D.O.F. 9 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS".]
+
+Primero. El presente Decreto entrará en vigor el 1 de enero de 2020.
+
+Segundo. Para los efectos de lo previsto en los artículos 39 y 42 de la Ley de Ingresos sobre Hidrocarburos, durante el ejercicio fiscal de 2020, los Asignatarios aplicarán la tasa de 58% en sustitución de la prevista en el citado artículo 39.
