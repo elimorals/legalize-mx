@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2019-11-05"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1977,9 +1977,11 @@ XV. Cuando recaiga sobre implementos o infraestructura de producción agropecuar
 
 XVI. Cuando recaiga sobre embarcaciones, motores o redes, destinados a la actividad pesquera o acuícola.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 194.
 
-La sanción que conforme a este Código deba imponerse por la comisión del delito de robo simple, se aumentará de uno a tres años de prisión cuando se cometa en edificio, vivienda, aposento o cuarto que estén habitados o inhabitados pero destinados para habitación o en lugar cerrado. Comprende esta denominación no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos. En los mismos términos se sancionará al que se apodere de un vehículo estacionado y no ocupado por persona alguna.
+La sanción que conforme a este Código deba imponerse por la comisión del delito de robo simple, se aumentará de uno a tres años de prisión cuando se cometa en edificio, vivienda, aposento o cuarto que estén habitados o inhabitados pero destinados para habitación o en lugar cerrado, así como en aquellos lugares o establecimientos destinados a actividades comerciales. Comprende esta denominación no sólo (sic) los que estén fijos en la tierra, sino también los movibles, sean cual fuere la materia de que estén construidos. En los mismos términos se sancionará al que se apodere de un vehículo estacionado y no ocupado por persona alguna.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2014)</small>
 
@@ -4390,6 +4392,16 @@ P.O. 5 DE NOVIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 80 POR EL QUE "SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 169 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
 
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+P.O. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 84 “SE REFORMA EL ARTÍCULO 194 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
