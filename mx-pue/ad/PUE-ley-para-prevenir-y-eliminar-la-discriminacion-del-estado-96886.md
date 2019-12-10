@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-96886
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2019-06-21"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de noviembre de 2013.
 
@@ -37,7 +37,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 44 fracción II, 119, 123 fracción II, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46, 47 y 48 fracción II del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla y demás relativos y aplicables, se expide la siguiente:
 
@@ -87,7 +89,11 @@ I Bis. Ajustes razonables: Las modificaciones y adaptaciones necesarias y adecua
 
 II. Comité: El Comité para Prevenir y Eliminar la Discriminación;
 
-III. Discriminación: La negación, exclusión, distinción, menoscabo, impedimento o restricción de alguno o algunos de los derechos humanos de las personas, grupos y comunidades en situación de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, por razón de su origen étnico, nacional, lengua, sexo, género, identidad indígena, de género, expresión de rol de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación o preferencia sexual, estado civil, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+III. Discriminación: La negación, exclusión, distinción, menoscabo, impedimento, restricción, anulación o preferencia, de alguno o algunos de los derechos humanos o libertades de las personas, grupos y comunidades en situaciones de discriminación, imputables a personas físicas o jurídicas o entes públicos con intención o sin ella, dolosa o culpable, por acción u omisión, que no sea objetiva, racional ni proporcional, por razón de su origen étnico o nacional, color de piel, cultura, lengua, sexo, género, identidad indígena, de género, edad, discapacidad, condición jurídica, social o económica, apariencia física, condiciones de salud, características genéticas, situación migratoria, embarazo, religión, opiniones políticas, académicas o filosóficas, identidad o filiación política, orientación sexual, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales, por su forma de pensar, vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de los derechos humanos, así como la igualdad de las personas;
+
+También es discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, aporofobia, así como la discriminación racial y otras formas conexas de intolerancia;
 
 IV. Entes públicos: A los Poderes Públicos, las Dependencias y Entidades de la Administración Pública Estatal y Municipales, y a los organismos constitucionales o legalmente autónomos;
 
@@ -105,9 +111,11 @@ X. Políticas públicas: Un conjunto de acciones que formulan e implementan los 
 
 XI. Respeto: Actitud que nace con el reconocimiento del valor de una persona o grupo, ya sea inherente o también relacionado con una habilidad o comportamiento.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 5.
 
-Queda prohibida cualquier forma de discriminación en el Estado Libre y Soberano de Puebla.
+Queda prohibida toda práctica discriminatoria que tenga por objeto o efecto impedir o anular el reconocimiento o ejercicio de los derechos y la igualdad real de oportunidades en el Estado Libre y Soberano de Puebla.
 
 ###### ARTÍCULO 6.
 
@@ -496,6 +504,14 @@ SEGUNDO. Se derogan todas (sic) disposiciones que se opongan al presente Decreto
 P.O. 21 DE JUNIO DE 2019.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 6 BIS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 4 Y EL 5 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
