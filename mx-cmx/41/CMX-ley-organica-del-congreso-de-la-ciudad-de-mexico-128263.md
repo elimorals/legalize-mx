@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-07-08"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -504,7 +504,13 @@ CXVI. Recibir las peticiones ciudadanas mediante el sitio web del Congreso misma
 
 CXVII. Realizar investigaciones y estudios referentes a la situación de las mujeres y los hombres en la Ciudad de México, a fin de que las leyes u otros ordenamientos legales que expida el Congreso de la Ciudad de México promuevan la igualdad ante los sexos y mejoren su condición de vida;
 
-CXVIII. Las demás que establezcan la Constitución Política de los Estados Unidos Mexicanos, Constitución Local, y las leyes.
+> <small>(ADICIONADA, G.O. 10 DE DICIEMBRE DE 2019)</small>
+
+CXVIII. Designar por mayoría calificada de las dos terceras partes de los integrantes presentes en la sesión respectiva, a dos integrantes del Consejo de la Judicatura de la Ciudad de México, en los términos previstos por el artículo 35, apartado E de la Constitución de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2019)</small>
+
+CXIX. Las demás que establezcan la Constitución Política, la Constitución Local y las Leyes.
 
 ### CAPÍTULO II. De la Jefatura de Gobierno
 
@@ -1174,7 +1180,13 @@ XXI. Suscribir acuerdos relativos a los asuntos que se desahoguen en el Pleno;
 
 XXII. Sustituir a sus integrantes y someterlos para su ratificación al Pleno del Congreso, durante los recesos la ratificación corresponderá a la Comisión Permanente, y
 
-XXIII. Las demás que le atribuyen la Constitución Política, la Constitución Local, la presente ley, el reglamento y demás ordenamientos aplicables.
+> <small>(ADICIONADA, G.O. 10 DE DICIEMBRE DE 2019)</small>
+
+XXIII. Someter a la aprobación del Pleno del Congreso, el acuerdo para la designación de dos integrantes del Consejo de la Judicatura de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2019)</small>
+
+XXIV. Las demás que le atribuyen la Constitución Política, la Constitución Local, la presente Ley, el Reglamento y demás ordenamientos aplicables.
 
 > <small>(REFORMADO, G.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1986,9 +1998,7 @@ III. La Comisión emitirá un dictamen a fin de que el mismo sea puesto a consid
 
 Las atribuciones del Consejo Judicial Ciudadano serán:
 
-(NOTA: EL 18 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 112/2018, DECLARÓ LA INVALIDEZ DEL INCISO A) DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-a) DESIGNAR A LAS Y LOS CONSEJEROS DE LA JUDICATURA;
+a) (DEROGADO, G.O. 10 DE DICIEMBRE DE 2019)
 
 b) Proponer, con la aprobación de las dos terceras partes de sus integrantes, a la o el Jefe de Gobierno una terna de candidatos, a fin de que éste someta al Congreso la designación de la o el titular de la Fiscalía General de Justicia de la Ciudad de México, y
 
@@ -2691,3 +2701,13 @@ PRIMERO: El presente Decreto entrará en vigor el 1 de septiembre de 2021.
 SEGUNDO: Publíquese en la Gaceta Oficial de la Ciudad de México y para su mayor difusión en el Diario Oficial de la Federación.
 
 TERCERO: Se derogan todas aquellas disposiciones que resulten contrarias al contenido del presente Decreto.
+
+G.O. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 38, 209, 210, 213, LA FRACCIÓN IX DEL ARTÍCULO 218 Y EL ARTÍCULO TERCERO TRANSITORIO, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 4 DE MAYO DE 2018. SE ADICIONA UNA FRACCIÓN CXVIII Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 13; SE ADICIONA UNA FRACCIÓN XXIII Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 49; Y SE DEROGA EL INCISO A) DE LA FRACCIÓN III, DEL ARTÍCULO 118 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
