@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-vialidad-transito-y-control-vehicular-del-estado-de-6164
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-09"
-last_updated: "2019-11-05"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 9 de junio de 2008.
 
@@ -155,7 +155,17 @@ XVII. Remitir a las personas poniéndolas a disposición de las instancias legal
 
 XVIII. Instrumentar en coordinación con otras dependencias y con los Municipios, programas y campañas permanentes de educación vial y cortesía urbana, encaminados a mejorar las condiciones bajo las cuales se presta el servicio de transporte en el Estado, respeto al peatón, así como la prevención de accidentes, a través de la formación de una conciencia social de los problemas viales y una cultura urbana en la población; y
 
-XIX. Las demás que le confiera esta Ley y los reglamentos que de ella emanen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+XIX. Implementar campañas de educación vial específica dirigidas a los conductores de motocicletas y bicicletas, para observar las disposiciones de vialidad a que se refiere el presente ordenamiento y su reglamento, con el propósito de evitar accidentes que pongan en riesgo la vida de las personas.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+XX. Difundir entre los peatones las disposiciones de vialidad orientadas a la cultura de prevención de accidentes en la vía pública, a fin de ser observadas en todas las vialidades.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+XXI. Las demás que le confiera esta Ley y los reglamentos que de ella emanen.
 
 ###### Artículo 11.
 
@@ -1394,3 +1404,11 @@ P.O. 5 DE NOVIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, que se opongan al contenido del presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 82 POR EL QUE "SE REFORMA LA FRACCIÓN XIX Y SE ADICIONAN LAS FRACCIONES XX Y XXI AL ARTÍCULO 10 DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
