@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2018-09-20"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -149,9 +149,11 @@ XXIII. Secretario Ejecutivo Intermunicipal: al Secretario Ejecutivo del Consejo 
 
 XXIV. Universidad: a la Universidad Mexiquense de Seguridad.
 
+> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 7.
 
-El Estado y los Municipios desarrollarán políticas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas.
+El Estado y los Municipios realizarán análisis de los factores de riesgo que propician la delincuencia de manera regional y general, y desarrollarán políticas públicas eficaces, progresivas y proactivas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas; las cuales deberán ser medibles a corto, mediano y largo plazo para verificar su efectividad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4550,3 +4552,11 @@ DÉCIMO SÉPTIMO. La Secretaría de Finanzas asignará recursos presupuestales p
 DÉCIMO OCTAVO. El Ejecutivo Estatal y los municipios, respectivamente, deberán instalar los órganos colegiados a que se refiere el artículo 204 del presente Decreto, en un plazo no mayor de sesenta días naturales, a partir de la entrada en vigor del mismo.
 
 DÉCIMO NOVENO. Los procedimientos y demás actos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión, en el ámbito de sus respectivas competencias, por la Unidad de Asuntos Internos o la Comisión de Honor y Justicia de la Secretaría de Seguridad, de conformidad con la legislación vigente al momento de su instauración.
+
+G.G. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 97.- POR EL QUE SE REFORMA EL ARTÍCULO 7 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
