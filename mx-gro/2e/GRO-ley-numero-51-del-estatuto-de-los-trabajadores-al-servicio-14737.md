@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-51-del-estatuto-de-los-trabajadores-al-servicio-1473
 country: "mx"
 rank: "ley"
 publication_date: "1976-04-21"
-last_updated: "2015-08-25"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 LEY NUMERO 51: ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. LA PRESENTE LEY FUE DEROGADA PARCIALMENTE POR LO QUE HACE A LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA Y PARAESTATAL, DEL PODER LEGISLATIVO Y DEL PODER JUDICIAL, SUBSISTIENDO CON PLENA VIGENCIA ENTRATÁNDOSE DE SERVIDORES PÚBLICOS MUNICIPALES, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO NÚMERO 248 PUBLICADA EN EL PERIODICO OFICIAL EL 6 DE ENERO DE 1989.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 21 de abril de 1976.
 
@@ -689,6 +687,14 @@ Los plazos para deducir las acciones a que se refieren las fracciones anteriores
 
 Desde el momento en que se determine la naturaleza de la incapacidad o de la enfermedad contraída; desde la fecha de la muerte del trabajador o desde que el Tribunal haya dictado la resolución definitiva.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 74 BIS. La caducidad tendrá por desistida de la acción y de la demanda intentada; operará de pleno derecho cualquiera que sea el estado procesal del juicio, desde el emplazamiento hasta antes de que se dicte el laudo, si transcurrido el término de noventa días naturales, no hubiere promoción de cualquiera de las partes que impulse el procedimiento.
+
+Una vez transcurrido el lapso antes señalado, el Tribunal de oficio o a petición de parte declarará la Caducidad; antes de declararla, el Secretario de Acuerdos levantará en el expediente la certificación correspondiente, haciendo constar esta circunstancia, dando cuenta de ello a los integrantes del Tribunal, quienes dictarán la resolución que corresponda.
+
+No operará la caducidad, cuando exista pendiente el desahogo de diligencias que deban practicarse fuera del local del Tribunal, cualquier otra promoción no se considerará como actividad de las partes, ni impedirán que la caducidad se realice.
+
 T I T U L O V.
 
 DEL TRIBUNAL DE ARBITRAJE PARA LOS TRABAJADORES DEL ESTADO, MUNICIPIOS Y ORGANISMOS PUBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO Y DEL PROCEDIMIENTO QUE DEBE SEGUIRSE CON ELLOS.
@@ -956,3 +962,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Comuníquese el presente Decreto al titular del Poder Ejecutivo Estatal, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
+
+P.O. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 275 POR EL QUE SE ADICIONA EL ARTÍCULO 74 BIS A LA LEY NÚMERO 51, ESTATUTO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, DE LOS MUNICIPIOS Y DE LOS ORGANISMOS PÚBLICOS COORDINADOS Y DESCENTRALIZADOS DEL ESTADO DE GUERRERO".]
+
+PRIMERO: El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO: Publíquese en el Periódico Oficial del Gobierno del Estado, en la página Web del Congreso del Estado y divúlguese en los medios de comunicación.
