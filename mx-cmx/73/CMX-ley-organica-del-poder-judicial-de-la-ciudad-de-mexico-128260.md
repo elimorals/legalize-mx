@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2019-04-26"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -512,11 +512,11 @@ XXIII. Las demás que expresamente le confieran esta Ley y otras disposiciones a
 
 ### CAPÍTULO II. DE LA PRESIDENCIA DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-(NOTA: EL 18 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 112/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 38.
 
-La o el Magistrado que presida el Tribunal Superior de Justicia de la Ciudad de México DURARÁ EN SU CARGO UN AÑO y será electo por mayoría de votos en sesión pública y mediante sufragio secreto. La persona que haya sido electa para este cargo no podrá volver a ocuparlo ni de forma sucesiva ni alternada, independientemente de la calidad con que lo haya ostentado.
+La o el Magistrado que presida el Tribunal Superior de Justicia de la Ciudad de México, será electo por las y los magistrados integrantes del Pleno del Tribunal Superior de Justicia, por mayoría de votos en sesión pública y mediante sufragio secreto; durará en su encargo cuatro años. La persona que haya ocupado la presidencia bajo los supuestos del presente numeral, no podrá volver a ocuparla posteriormente bajo ningún concepto, ni sucesiva, ni alternadamente, independientemente de la calidad con que pueda ostentarla.
 
 El periodo de ejercicio del Presidente iniciará en el mes de enero y rendirá la protesta de ley ante el Pleno del Tribunal Superior de Justicia, en la primera sesión del año en curso.
 
@@ -2210,11 +2210,15 @@ Los honorarios de los mediadores, conciliadores y árbitros privados que atienda
 
 El Consejo de la Judicatura de la Ciudad de México, es un órgano del Poder Judicial de la Ciudad de México dotado de autonomía, independencia técnica y de gestión para realizar sus funciones; estará encargado de la administración, vigilancia, evaluación, disciplina y servicio de carrera del Tribunal Superior de Justicia, de los Juzgados, demás órganos judiciales y desconcentrados, en los términos que esta Ley establece. Sus resoluciones serán definitivas e inatacables.
 
-(NOTA: EL 18 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 112/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA "DESIGNADOS POR EL CONSEJO JUDICIAL CIUDADANO" Y, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA "DE LOS CUALES TRES DEBERÁN CONTAR CON CARRERA JUDICIAL" DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 209.
 
-El Consejo de la Judicatura se integra por siete Consejeras o Consejeros DESIGNADOS POR EL CONSEJO JUDICIAL CIUDADANO, DE LOS CUALES TRES DEBERÁN CONTAR CON LA CARRERA JUDICIAL.
+El Consejo de la Judicatura se integra por quien preside el Tribunal y seis personas Consejeras, que serán una persona Magistrada y dos Juezas o Jueces elegidos por al menos, las dos terceras partes del Pleno del Tribunal en votación; asimismo, dos Consejeras o Consejeros electos por el Congreso de la Ciudad de México, y una designada por la persona titular de la Jefatura de Gobierno de la Ciudad de México.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE DICIEMBRE DE 2019)</small>
+
+La designación de las tres últimas personas Consejeras que refiere el párrafo anterior, deberá recaer en personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas y administrativas.
 
 El Consejo de la Judicatura funcionará en Pleno y en Comisiones y contará con los órganos auxiliares necesarios para el desempeño de sus atribuciones. Para que funcione en Pleno, bastará la presencia de cinco de sus miembros.
 
@@ -2226,15 +2230,19 @@ III. Nombrará y removerá al personal administrativo del Poder Judicial respeta
 
 IV. Tendrá las demás facultades que la Constitución Local y la presente Ley establezcan.
 
-(NOTA: EL 18 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 112/2018, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 210.
 
-Los integrantes del Consejo de la Judicatura durarán seis años en el cargo y no podrán ser nombrados para un nuevo período. EN CASO DE AUSENCIA DEFINITIVA DE ALGÚN INTEGRANTE, EL CONSEJO JUDICIAL CIUDADANO, EN UN PLAZO NO MAYOR A TREINTA DÍAS NATURALES DESDE QUE SE PRODUJO LA VACANTE, NOMBRARÁ A QUIEN DEBA SUSTITUIRLO, SIN POSIBILIDAD DE REELECCIÓN. Las Concejeras y Consejeros de la Judicatura elegirán de entre sus miembros, por mayoría de votos en sesión pública, y mediante sufragio secreto, a la persona que lo presidirá. Quien lo presida durará en su encargo tres años sin posibilidad de reelección alguna, sea sucesiva o alternada, independientemente de la calidad con que lo haya ostentado. Las y los Consejeros serán sustituidos en forma escalonada cada dos años.
+Salvo quien presida el Consejo de la Judicatura, el resto de sus integrantes durarán seis años en el cargo y no podrán ser nombrados para un nuevo período, ni sucesiva ni alternadamente, con independencia de la forma en que hayan sido electos.
 
-(NOTA: EL 18 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 112/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 10 DE DICIEMBRE DE 2019)</small>
 
-QUIEN PRESIDA EL CONSEJO DE LA JUDICATURA NO PODRÁ PRESIDIR EL TRIBUNAL SUPERIOR DE JUSTICIA.
+En caso de ausencia definitiva de algún integrante, según corresponda, el Pleno del Tribunal Superior de Justicia o el Congreso de la Ciudad de México, deberán iniciar el proceso de elección de la persona que ocupará dicho encargo por el periodo restante, en un plazo no mayor a treinta días naturales desde que se produjo la vacante, y en su caso, la o el Jefe de Gobierno de la Ciudad de México deberá hacer la designación correspondiente. Las y los Consejeros serán sustituidos conforme se produzcan las vacantes una vez concluido el periodo para el cual fueron designados.
+
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2019)</small>
+
+Quien presida el Tribunal Superior de Justicia también presidirá el Consejo de la Judicatura por el tiempo que dure su encargo, y será sustituido de este conforme lo sea en la Presidencia del Tribunal.
 
 Los Consejeros deberán reunir los requisitos que para ser Magistrada o Magistrado establece el artículo 21 de esta Ley.
 
@@ -2252,9 +2260,13 @@ a) Comisión de Disciplina Judicial; y
 
 b) Comisión de Administración y Presupuesto.
 
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 213.
 
-Los integrantes del Consejo estarán sujetos a las mismas responsabilidades en el ejercicio de su función que los del Tribunal Superior de Justicia y la Sala Constitucional; durarán seis años en su cargo, serán sustituidos de manera escalonada cada dos años y no podrán ser nombrados para un nuevo periodo. Recibirán los mismos emolumentos que las y los Magistrados. Los integrantes del Consejo sólo podrán ser removidos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Constitución.
+Las y los integrantes del Consejo estarán sujetos a las mismas responsabilidades en el ejercicio de su función que los del Tribunal Superior de Justicia y la Sala Constitucional; y salvo quien lo presida, serán sustituidos escalonadamente, conforme se produzcan las vacantes una vez concluido el periodo para el cual se les hubiere designado; la persona que presida el Consejo será sustituida conforme lo sea en la Presidencia del Tribunal. Recibirán los mismos emolumentos que las y los Magistrados.
+
+Los integrantes del Consejo sólo podrán ser removidos en los términos del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos y la Constitución.
 
 ###### Artículo 214.
 
@@ -2330,11 +2342,11 @@ La detención que se practique en contravención a este precepto y sus correlati
 
 VIII. Pedir a quien ostente la Presidencia del Consejo y a sus integrantes el fiel cumplimiento de sus obligaciones y en su caso fincar la responsabilidad en que incurran de acuerdo con esta Ley y leyes en la materia;
 
-(NOTA: EL 18 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 112/2018, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADA, G.O. 10 DE DICIEMBRE DE 2019)</small>
 
-IX. ELABORAR EL PRESUPUESTO DEL TRIBUNAL SUPERIOR DE JUSTICIA, DE LOS JUZGADOS Y DEMÁS ÓRGANOS JUDICIALES, INCLUIDO EL CONSEJO DE LA JUDICATURA, DANDO PRIORIDAD AL MEJORAMIENTO DE LA IMPARTICIÓN DE JUSTICIA Y PROCURANDO SU VINCULACIÓN CON LAS METAS Y OBJETIVOS DEL PROGRAMA GENERAL DE TRABAJO DEL TRIBUNAL.
+IX. Elaborar y someter a la aceptación del Pleno del Tribunal Superior de Justicia, el presupuesto del Tribunal Superior de Justicia, de los Juzgados y demás Órganos Judiciales, incluido el Consejo de la Judicatura, el cual deberá priorizar el mejoramiento de la impartición de justicia y su vinculación con las metas y objetivos del plan institucional y programas que de él deriven.
 
-EL PRESUPUESTO SE DEBERÁ REMITIR AL TITULAR DE LA JEFATURA DE GOBIERNO PARA EL SÓLO EFECTO DE QUE SE INCORPORE, EN CAPÍTULO POR SEPARADO Y EN LOS MISMOS TÉRMINOS FORMULADOS POR EL CONSEJO DE LA JUDICATURA, AL PROYECTO DE PRESUPUESTO DE EGRESOS DE LA CIUDAD DE MÉXICO, QUE SERÁ SOMETIDO A LA APROBACIÓN DEL CONGRESO;
+El presupuesto deberá remitirse a la persona titular de la Jefatura de Gobierno para el sólo efecto de que se incorpore, en capítulo por separado y en los mismos términos formulados por el Consejo, al proyecto de Presupuesto de Egresos de la Ciudad de México, que será sometido a la aprobación del Congreso.
 
 X. Determinar el número de Salas, Magistraturas, Juzgados, y demás personal con el que contará el Tribunal Superior de Justicia.
 
@@ -4630,11 +4642,11 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para efectos de su 
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
 
-(NOTA: EL 18 DE JUNIO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 112/2018, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL TRANSITORIO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 18 DE JUNIO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, G.O. 10 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, G.O. 26 DE ABRIL DE 2019)</small>
+TERCERO.- De conformidad con el artículo Décimo Primero Transitorio de la Constitución Política de la Ciudad de México, la presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta de la Ciudad de México, con excepción de las disposiciones que establezcan una entrada en vigor diferente en la Constitución y la presente ley.
 
-TERCERO.- DE CONFORMIDAD CON EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO, LA PRESENTE LEY ENTRARÁ EN VIGOR EL UNO DE JUNIO DEL AÑO DOS MIL DIECINUEVE, CON EXCEPCIÓN A LAS RELATIVAS AL CONSEJO JUDICIAL CIUDADANO Y EL CONSEJO DE LA JUDICATURA, QUE INICIARÁN SU VIGENCIA EN TÉRMINOS DE LO DISPUESTO POR EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO ANTERIORMENTE CITADO.
+De conformidad con el artículo Vigésimo Tercero Transitorio de la Constitución Política de la Ciudad de México, con el propósito de sustituir de forma escalonada a las y a los integrantes del Consejo de la Judicatura, quienes, a la fecha de entrada en vigor del presente, ocupen dicho encargo, concluirán el periodo para el que fueron electos. La persona, que actualmente ocupa la presidencia del Pleno del Tribunal y del Consejo de la Judicatura, concluirá el periodo para el cual haya sido electo y, en su caso, podrá participar en el proceso de elección siguiente.
 
 > <small>(REFORMADO, G.O. 26 DE ABRIL DE 2019)</small>
 
@@ -4685,3 +4697,13 @@ G.O. 26 DE ABRIL DE 2019.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. La presente reforma entrará en vigor inmediatamente después de que entre (sic) entren en vigor las reformas correspondientes al articulado transitorio de la Constitución de la Ciudad de México aludido en este decreto.
+
+G.O. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 38, 209, 210, 213, LA FRACCIÓN IX DEL ARTÍCULO 218 Y EL ARTÍCULO TERCERO TRANSITORIO, TODOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 4 DE MAYO DE 2018. SE ADICIONA UNA FRACCIÓN CXVIII Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 13; SE ADICIONA UNA FRACCIÓN XXIII Y SE RECORRE LA SUBSECUENTE DEL ARTÍCULO 49; Y SE DEROGA EL INCISO A) DE LA FRACCIÓN III, DEL ARTÍCULO 118 DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Publíquese en la Gaceta Oficial de la Ciudad de México, y para su mayor difusión en el Diario Oficial de la Federación.
