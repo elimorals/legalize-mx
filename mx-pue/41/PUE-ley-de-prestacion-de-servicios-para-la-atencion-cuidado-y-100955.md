@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-10095
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-30"
-last_updated: "2017-12-14"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sexagésima Quinta Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2013.
 
@@ -160,6 +160,10 @@ El ingreso de niñas y niños a los servicios para la atención, cuidado y desar
 Corresponde a las dependencias y entidades que integran el Consejo, en el ámbito de sus respectivas competencias y de conformidad con el Reglamento de la presente Ley, las siguientes atribuciones:
 
 I. Formular, conducir y evaluar la política estatal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, en congruencia con la política nacional en la materia;
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+La Política Estatal deberá promover el acceso de niñas y niños con discapacidad, que se encuentren en situación de calle, que habiten en el medio rural, migrantes o jornaleros agrícolas, comunidades indígenas y en general población que habite en zonas marginadas o de extrema pobreza, a los servicios que menciona esta Ley, sin importar sus condiciones físicas, intelectuales o sensoriales, acorde con los modelos de atención.
 
 II. Elaborar, aprobar, ejecutar y evaluar el Programa Estatal en materia de prestación de servicios para la atención, cuidado y desarrollo integral infantil, de conformidad con las disposiciones relativas en materia de planeación;
 
@@ -632,6 +636,14 @@ TERCERO.-Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE DICIEMBRE DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 26 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 10 DE LA LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
