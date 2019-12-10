@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2019-06-12"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -951,15 +951,21 @@ XVII. Sustraer tarjetas o listas de puntualidad y asistencia del lugar destinado
 
 XVIII. Las análogas a las establecidas en las fracciones anteriores, de igual manera graves y de consecuencias semejantes en lo que al trabajo se refiere; e
 
-> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE DICIEMBRE DE 2019)</small>
 
-XIX. Incurrir en actos de violencia laboral, entendiéndose por éstos los relativos a discriminación, acoso u hostigamiento sexual.
+XIX. Incurrir en actos de violencia laboral, entendiéndose por éstos los relativos a discriminación, acoso u hostigamiento sexual y acoso laboral.
+
+> <small>(ADICIONADO [N. DE E. CON SUS APARTADOS], G.G. 6 DE MARZO DE 2010)</small>
 
 Para los efectos de la presente fracción se entiende por:
 
 A. Acoso sexual, es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos; y
 
 B. Hostigamiento sexual, es el ejercicio del poder, en una relación de subordinación real de la víctima frente a la persona agresora en los ámbitos laboral y/o escolar. Se expresa en conductas verbales o no verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva.
+
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2019)</small>
+
+C. Acoso laboral, la conducta que se presenta dentro de una relación laboral, con el objetivo de intimidar, opacar, aplanar, amedrentar o consumir emocional o intelectualmente a una persona, con el fin de excluirla de la organización o a satisfacer la necesidad, que suele presentar el hostigador, de agredir o controlar o destruir; a partir de una serie de actos o comportamientos hostiles hacia uno de los integrantes de la relación laboral, en contra de algún empleado o del jefe mismo; así como la exclusión total de cualquier labor asignada a la víctima, las agresiones verbales contra su persona, una excesiva carga en los trabajos que ha de desempeñar, y cualquier otra conducta similar o análoga que atente contra la dignidad del trabajador.
 
 > <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -1005,9 +1011,9 @@ Son causas de rescisión de la relación laboral, sin responsabilidad para el se
 
 I. Engañarlo la institución pública o dependencia en relación a las condiciones en que se le ofreció el trabajo. Esta causa dejará de tener efecto después de 30 días naturales a partir de su incorporación al servicio;
 
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2019)</small>
 
-II. Incurrir alguno de sus superiores jerárquicos o personal directivo, o bien familiares de éstos, en faltas de probidad u honradez, actos de violencia, amenazas, injurias, malos tratos, violencia laboral u otros análogos, en contra del servidor público, su cónyuge, concubina o concubinario, padres, hijos o hermanos;
+II. Incurrir alguno de sus superiores jerárquicos o personal directivo y/o sus representantes o compañeros de trabajo, dentro del servicio, en faltas de probidad u honradez, actos de violencia, amenazas, injurias, malos tratos, actos de violencia laboral entendiéndose por éstos los relativos a discriminación, acoso u hostigamiento sexual y acoso laboral, en contra del servidor público, su cónyuge, concubina o concubinario, padres, hijos o hermanos;
 
 III. Incumplir la institución pública o dependencia las condiciones laborales y salariales acordadas para el desempeño de sus funciones y las que estipula esta ley;
 
@@ -3540,3 +3546,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 TERCERO.- Se instruye a la Dirección General de Comunicación Social para que dé a conocer esta Iniciativa a la ciudadania mediante los mecanismos correspondientes a fin de cumplir con el principio de máxima publicidad y el derecho de acceso a la información pública.
+
+G.G. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 99.- POR EL QUE SE REFORMAN LA FRACCIÓN XIX DEL ARTÍCULO 93 Y LA FRACCIÓN II DEL ARTÍCULO 95; SE ADICIONA UN APARTADO C A LA FRACCIÓN XIX DEL ARTÍCULO 93 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
