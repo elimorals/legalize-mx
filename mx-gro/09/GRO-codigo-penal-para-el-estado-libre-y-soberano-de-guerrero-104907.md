@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2019-11-08"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -373,6 +373,10 @@ Se presume que hay consentimiento cuando el hecho se realice en circunstancias t
 
 IV. Legítima defensa como causa de justificación. Se repela una agresión real, actual o inminente, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad razonable de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de quien lo defienda;
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+Existe defensa legítima propia al ejercicio del derecho de defenderse, al hecho de causar daño, lesión o privación de la vida, salvo prueba en contrario, a quien por cualquier medio trate de penetrar o se introduzca sin derecho al inmueble donde se encuentre el hogar o lugar de trabajo, incluidos inmuebles ubicados en bienes comunales, ejidales y de pequeña propiedad, del agente pasivo, víctima o víctimas, al de su familia, comunidad afectiva o a las de cualquier persona que tenga la obligación de defender. Al sitio donde se encuentren bienes propios o ajenos, respecto de los que exista la misma obligación de proteger; o bien, se encuentren algunos de aquellos bienes, en lugares y en circunstancias tales que revelen la posibilidad de una agresión actual e inminente.
+
 En los casos de agresiones provenientes de menores se evitará lesionar al agresor y sólo se ejercerá la defensa necesaria y proporcional ante ataques graves. La contravención a esta disposición será considerada un exceso en la legítima defensa conforme a lo dispuesto en el artículo 87 de este código;
 
 V. Estado de necesidad justificante y estado de necesidad disculpante. Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tenga el deber jurídico de afrontarlo, y
@@ -399,7 +403,9 @@ X. No exigibilidad de otra conducta como causa de inculpabilidad. En atención a
 
 Las causas de exclusión del delito se resolverán de oficio en cualquier parte del procedimiento.
 
-Si en los casos de las fracciones IV, V y VI de este artículo la persona se excede, se atenderá a lo previsto en el artículo 87 de este código.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+Si en los casos de las fracciones V y VI de este artículo la persona se excede, se atenderá a lo previsto en el artículo 87 de este código.
 
 ## Título Cuarto. Consecuencias jurídicas del delito
 
@@ -1031,11 +1037,15 @@ En caso de que el error a que se refiere el inciso a) fracción VIII del artícu
 
 Si el error vencible es el previsto en el inciso b) de la misma fracción, se impondrá hasta una tercera parte de la pena o medida de seguridad señalada para el delito correspondiente.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 87.
 
 Exceso en las causas de justificación
 
-A quien incurra en exceso en los casos previstos en las fracciones IV, V y VI del artículo 31 de este código, se le impondrá la cuarta parte de la pena o medida de seguridad correspondiente al delito de que se trate, siempre que con relación al exceso no se actualice otra causa de exclusión del delito.
+A quien incurra en exceso en los casos previstos en las fracciones V y VI del artículo 31 de este código, se le impondrá la cuarta parte de la pena o medida de seguridad correspondiente al delito de que se trate, siempre que con relación al exceso no se actualice otra causa de exclusión del delito.
+
+No se considerará exceso en la defensa legítima propia, cuando concurran circunstancias en las que la persona que se defiende se encuentre en estado de confusión, miedo o terror, que afecte su capacidad para determinar el límite adecuado de su respuesta o racionalidad de los medios empleados para defenderse.
 
 ### Capítulo VII. Sustitución de penas
 
@@ -4836,3 +4846,15 @@ SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los
 TERCERO.- Comuníquese al Poder Judicial del Estado Libre y Soberano de Guerrero.
 
 CUARTO.-. Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 260, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siquiente de su publicación.
+
+SEGUNDO.- Remítase al titular del Poder Ejecutivo para su conocimiento para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general.
+
+CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
