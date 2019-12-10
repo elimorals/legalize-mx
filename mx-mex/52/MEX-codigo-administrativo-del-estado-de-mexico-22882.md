@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2019-11-26"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2019.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1390,6 +1390,10 @@ XV. Coordinar la elaboración de programas de prevención, atención y erradicac
 > <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
 
 XVI. Promover y fomentar investigaciones con perspectiva de género en materia de salud, así como para prevenir, atender y erradicar la violencia contra las mujeres estableciendo mecanismos para la atención de las víctimas;
+
+> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2019)</small>
+
+XVI Bis. Desarrollar programas que fomenten la atención integral de la mujer durante el embarazo, el parto, el puerperio o en emergencia obstétrica, así como, coordinar la implementación de políticas públicas transversales, y la elaboración de programas de promoción, orientación y prevención, encaminados a erradicar la violencia obstétrica.
 
 > <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -18306,3 +18310,11 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. En un plazo no mayor a noventa días los municipios deberán adecuar la normatividad correspondiente de las Coordinaciones Municipales de Protección Civil para dar cumplimiento a lo previsto en el presente Decreto.
+
+G.G. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 98.- POR EL QUE SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 2.22 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
