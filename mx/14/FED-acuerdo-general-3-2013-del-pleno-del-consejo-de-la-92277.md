@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2019-11-22"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -211,9 +211,9 @@ VI. SEXTO CIRCUITO:
 
 2. Dos tribunales unitarios con sede en San Andrés Cholula.
 
-> <small>(REFORMADO POR EL ARTÍCULO 13 DEL ACUERDO GENERAL 32/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 27/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
 
-3. Quince juzgados de Distrito especializados en el Estado de Puebla: dos de procesos penales federales; ocho de amparo en materia civil, administrativa y de trabajo y de juicios federales; y cinco de amparo en materia penal; los trece primeros, con residencia en San Andrés Cholula y los dos restantes, con residencia en Puebla, Puebla.
+3. Quince juzgados de Distrito especializados en el Estado de Puebla: uno de procesos penales federales; nueve de amparo en materia civil, administrativa y de trabajo y de juicios federales y cinco de amparo en materia penal; los trece primeros con residencia en San Andrés Cholula y los dos restantes, con residencia en Puebla, Puebla.
 
 4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en San Andrés Cholula.
 
@@ -7622,3 +7622,15 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotarán a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
 
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+D.O.F. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 27/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN DEL ACTUAL JUZGADO PRIMERO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE PUEBLA, CON RESIDENCIA EN SAN ANDRÉS CHOLULA, A JUZGADO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE PUEBLA, CON RESIDENCIA EN SAN ANDRÉS CHOLULA; A LA CONCLUSIÓN DE FUNCIONES DEL JUZGADO SEGUNDO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE PUEBLA, CON RESIDENCIA EN SAN ANDRÉS CHOLULA Y DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LE PRESTA SERVICIO; AL INICIO DE FUNCIONES DEL JUZGADO NOVENO DE DISTRITO EN MATERIA DE AMPARO CIVIL, ADMINISTRATIVO Y DE TRABAJO Y DE JUICIOS FEDERALES EN EL MISMO ESTADO Y RESIDENCIA; A LA JURISDICCIÓN TERRITORIAL Y DOMICILIO; ASÍ COMO LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO INDICADOS; Y QUE REFORMA EL SIMILAR 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA, Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que inicia funciones de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que darán servicio a los órganos jurisdiccionales que inician funciones.
