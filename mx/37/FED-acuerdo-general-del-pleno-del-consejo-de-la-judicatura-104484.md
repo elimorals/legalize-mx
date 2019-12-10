@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-104484"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-15"
-last_updated: "2019-09-23"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104484&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2015-01-06"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 15 de enero de 2015.
 
@@ -409,23 +409,21 @@ En el supuesto de que se presenten demandas en forma masiva, el personal adscrit
 
 Para no afectar la recepción, registro y turno de los diversos asuntos y promociones que se presenten en dichas oficinas, por excepción a lo dispuesto en el primer párrafo del artículo 37 del presente Acuerdo, las demandas presentadas en forma masiva se registrarán y turnarán conforme las cargas de trabajo lo permitan.
 
-> <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 6 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 32.
 
-La oficina de correspondencia común de los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México, funcionará durante dos semanas en cada uno de los reclusorios preventivos en los que se encuentran ubicados los órganos jurisdiccionales, trasladándose del reclusorio norte al oriente y, luego al sur, continuando en ese orden sucesivamente, con los lineamientos y horario que se indican en los siguientes párrafos.
+Para el turno de los nuevos asuntos de los Juzgados de Distrito de Procesos Penales Federales en la Ciudad de México, las Oficinas de Correspondencia Común que les presten servicio funcionarán durante dos semanas en cada uno de los reclusorios preventivos en los que se encuentren ubicados esos órganos jurisdiccionales, alternando su operación, entre el reclusorio norte, oriente y sur, continuando en ese orden sucesivamente, con los lineamientos y horario que se indican en los siguientes párrafos.
 
-Todos los asuntos urgentes y no urgentes que se presenten de lunes a jueves de 8:30 a 14:30 horas serán turnados de forma aleatoria o relacionada, según sea procedente, entre los 5 juzgados de Distrito de Procesos Penales Federales con residencia en el reclusorio donde se encuentre instalada la Oficina de Correspondencia Común.
+Todos los asuntos urgentes y no urgentes que se presenten de lunes a jueves de 8:30 a 14:30 horas serán turnados de forma aleatoria o relacionada, según sea procedente, entre los 3 juzgados de Distrito de Procesos Penales Federales con residencia en el reclusorio correspondiente.
 
-En las dos semanas en que funcione la Oficina de Correspondencia Común en cada uno de los reclusorios preventivos, los juzgados de Distrito correspondientes deberán establecer una guardia de 2 juzgados por semana, con la finalidad de recibir todo tipo de asuntos en días y horario inhábil e igualmente asuntos urgentes el día viernes, así como sábado y domingo.
+En las dos semanas en que funcione la Oficina de Correspondencia Común en cada uno de los reclusorios preventivos, los Juzgados de Distrito correspondientes deberán establecer una guardia de 1 juzgado por semana, con la finalidad de recibir todo tipo de asuntos en días y horario inhábil e igualmente asuntos urgentes el día viernes, así como sábado y domingo.
 
-En la primera semana la guardia se integrará entre dos juzgados de Distrito, en la segunda entre otros dos de ellos, y en cada periodo de guardia, uno de los cinco órganos jurisdiccionales se irá alternando para no recibir asuntos en ese periodo y así sucesivamente.
+En la primera semana la guardia se integrará por 1 Juzgado de Distrito, en la segunda por otro de ellos, y en cada periodo de guardia, uno de los tres órganos jurisdiccionales por sede se irá alternando para no recibir asuntos en ese periodo y así sucesivamente.
 
-Para los efectos del párrafo anterior, los juzgados de Distrito continuarán con el rol de guardias que actualmente tienen señalado en el Acuerdo CCNO 12/2015, el cual, en caso de ser necesario, podrán modificarlo con el consenso mayoritario de todos los titulares de dichos órganos jurisdiccionales.
+Para los efectos del párrafo anterior, los Juzgados de Distrito continuarán con el rol de guardias que actualmente tienen, conforme al Acuerdo General 19/2019 del Pleno del Consejo de la Judicatura Federal, el cual, en caso de ser necesario, podrán modificarlo con el consenso mayoritario de todos los titulares de dichos órganos jurisdiccionales.
 
-> <small>(REFORMADO [N. DE E. ANTES PÁRRAFOS SEXTO Y SÉPTIMO], D.O.F. 15 DE AGOSTO DE 2017)</small>
-
-El secretario autorizado por los dos titulares de los órganos jurisdiccionales a los que corresponda la guardia semanal recibirá los asuntos conforme a lo siguiente:
+El secretario autorizado por los titulares de los órganos jurisdiccionales a los que corresponda la guardia semanal recibirá los asuntos conforme a lo siguiente:
 
 I. De lunes a jueves entre las 14:31 horas y 8:29 horas del día siguiente, recibirá los asuntos urgentes y no urgentes;
 
@@ -433,9 +431,9 @@ II. De las 8:30 horas a las 14:30 horas de cada viernes hábil, exclusivamente l
 
 III. De las 14:31 horas del viernes a las 8:29 horas del lunes siguiente, dicho secretario continuará recibiendo los asuntos urgentes y no urgentes.
 
-Si son asuntos urgentes se distribuirán de manera equitativa entre los dos juzgados que están de guardia.
+Si son asuntos urgentes lo recibirá el juzgado que están (sic) de guardia.
 
-Si no son asuntos urgentes, esperará al día hábil siguiente para remitirlos a la Oficina de Correspondencia Común, donde se turnarán de forma aleatoria o relacionada, según sea procedente, entre los 5 juzgados del reclusorio.
+Si no son asuntos urgentes, esperará al día hábil siguiente para remitirlos a la Oficina de Correspondencia Común, donde se turnarán de forma aleatoria o relacionada, según sea procedente, entre los 3 juzgados del reclusorio.
 
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2017)</small>
 
@@ -3602,3 +3600,17 @@ D.O.F. 23 DE SEPTIEMBRE DE 2019.
 PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
 
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y LA DE LOS TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; Y AL INICIO DE FUNCIONES DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES Y TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; CON SEDE EN LOS RECLUSORIOS NORTE, SUR Y ORIENTE EN LA CIUDAD DE MÉXICO; Y QUE REFORMA EL SIMILAR 3/2016, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE Y EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir del 1 de febrero de 2020, con excepción del artículo cuarto transitorio que será vigente a partir de la aprobación de este instrumento.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los asuntos que se encuentren radicados en los Tribunales Unitarios en Materia Penal del Primer Circuito correspondientes a los Centros de Justicia Penal Federal en la Ciudad de México, con sede en los Reclusorios Oriente, Sur y Norte, con anterioridad a la entrada en vigor del presente acuerdo, continuarán siendo del conocimiento del tribunal que los recibió, hasta su conclusión.
+
+CUARTO. Desde la fecha de aprobación del presente acuerdo hasta el inicio de su vigencia, la Oficina de Correspondencia Común que presta servicio a los Tribunales Unitarios en Materia Penal del Primer Circuito, turnará los nuevos asuntos durante dos semanas en cada uno de los reclusorios en donde están ubicados, alternando el envío entre el reclusorio norte, oriente y sur, continuando en ese orden sucesivamente, con los lineamientos y horarios vigentes.
+
+QUINTO. Las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos entre las Oficinas de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales y los Tribunales Unitarios en Materia Penal del Primer Circuito habilitados como tribunal de alzada, para, en su caso, compensar entre ellos la carga de trabajo en su doble función, prevista en el artículo 17, penúltimo párrafo y el Transitorio SEGUNDO del Acuerdo General 3/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en la Ciudad de México, con sede en los Reclusorios Oriente, Sur y Norte.
