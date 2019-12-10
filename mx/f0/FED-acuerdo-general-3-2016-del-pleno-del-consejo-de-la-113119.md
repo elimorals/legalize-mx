@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2016-del-pleno-del-consejo-de-la-113119"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-02-26"
-last_updated: "2018-08-24"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113119&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2016-02-18"
 
 ACUERDO GENERAL 3/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE AGOSTO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2019.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
@@ -217,7 +217,9 @@ I. La sustitución recaerá en otro juez de Distrito del mismo Centro, con exclu
 
 II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal Federal más cercano.
 
-Tratándose de la sustitución del Tribunal de Alzada de los Centros, se habilita a los Tribunales Unitarios en Materia Penal del Primer Circuito, con residencia en la Ciudad de México, para conocer, con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramitan en los Centros, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+> <small>(REFORMADO POR EL ARTÍCULO 5 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
+
+Tratándose de la sustitución del Tribunal de Alzada de los Centros, se habilita a los dos Tribunales Unitarios en Materia Penal del Primer Circuito, con residencia en la Ciudad de México, que funcionan en cada reclusorio para conocer, con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramitan en los Centros, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
 La sustitución del Juez de Ejecución recaerá en cualquier otro juez de Distrito del Centro.
 
@@ -243,7 +245,9 @@ Para las áreas administrativas del Consejo de la Judicatura Federal, entrará e
 
 Los Administradores de los Centros llevarán a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
 
-SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita a los Tribunales Unitarios en Materia Penal del Primer Circuito, con residencia en la Ciudad de México, para conocer, en el orden numérico de su denominación, de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO 5 DEL ACUERDO GENERAL 28/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 10 DE DICIEMBRE DE 2019)</small>
+
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Primer y Tercer Tribunales Unitarios en Materia Penal del Primer Circuito con sede en el Reclusorio Norte; Segundo y Cuarto Tribunales en el Reclusorio Sur; Quinto y Sexto Tribunales en el Reclusorio Oriente, como Tribunales de Alzada para que conozcan de los recursos de su competencia que se interpongan respecto de los asuntos que se tramiten en los Centros de Justicia Penal en los respectivos reclusorios, de conformidad con lo previsto en el Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
 Los Tribunales Unitarios indicados precisarán en los actos procesales que celebren la denominación con la que actúen, dependiendo si lo hacen conforme al citado Código o al Código Federal de Procedimientos Penales.
 
@@ -828,3 +832,17 @@ DÉCIMO SEGUNDO. Se abroga el Acuerdo General del Pleno del Consejo de la Judica
 DÉCIMO TERCERO. Las referencias que se hagan en cualquier disposición al Juez Administrador del Centro de Justicia Penal Federal se entenderán hechas al Administrador del Centro de Justicia Penal Federal.
 
 DÉCIMO CUARTO. La Visitaduría Judicial deberá presentar al Pleno la propuesta de metodología de inspección a los Centros de Justicia Penal Federal, en términos de lo previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+
+D.O.F. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 28/2019, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES CON RESIDENCIA EN LA CIUDAD DE MÉXICO Y LA DE LOS TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; Y AL INICIO DE FUNCIONES DE LAS OFICINAS DE CORRESPONDENCIA COMÚN DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES Y TRIBUNALES UNITARIOS EN MATERIA PENAL DEL PRIMER CIRCUITO; CON SEDE EN LOS RECLUSORIOS NORTE, SUR Y ORIENTE EN LA CIUDAD DE MÉXICO; Y QUE REFORMA EL SIMILAR 3/2016, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS ORIENTE, SUR Y NORTE Y EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES".]
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir del 1 de febrero de 2020, con excepción del artículo cuarto transitorio que será vigente a partir de la aprobación de este instrumento.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. Los asuntos que se encuentren radicados en los Tribunales Unitarios en Materia Penal del Primer Circuito correspondientes a los Centros de Justicia Penal Federal en la Ciudad de México, con sede en los Reclusorios Oriente, Sur y Norte, con anterioridad a la entrada en vigor del presente acuerdo, continuarán siendo del conocimiento del tribunal que los recibió, hasta su conclusión.
+
+CUARTO. Desde la fecha de aprobación del presente acuerdo hasta el inicio de su vigencia, la Oficina de Correspondencia Común que presta servicio a los Tribunales Unitarios en Materia Penal del Primer Circuito, turnará los nuevos asuntos durante dos semanas en cada uno de los reclusorios en donde están ubicados, alternando el envío entre el reclusorio norte, oriente y sur, continuando en ese orden sucesivamente, con los lineamientos y horarios vigentes.
+
+QUINTO. Las Direcciones Generales de Gestión Judicial y de Tecnologías de la Información implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos entre las Oficinas de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales y los Tribunales Unitarios en Materia Penal del Primer Circuito habilitados como tribunal de alzada, para, en su caso, compensar entre ellos la carga de trabajo en su doble función, prevista en el artículo 17, penúltimo párrafo y el Transitorio SEGUNDO del Acuerdo General 3/2016 del Pleno del Consejo de la Judicatura Federal, que crea los Centros de Justicia Penal Federal en la Ciudad de México, con sede en los Reclusorios Oriente, Sur y Norte.
