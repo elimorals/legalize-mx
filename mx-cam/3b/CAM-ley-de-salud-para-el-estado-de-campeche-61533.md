@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2018-10-16"
+last_updated: "2019-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -619,11 +619,19 @@ En materia de higiene escolar, corresponde a la Secretaría Estatal vigilar el c
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias y educativas competentes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+### Capítulo V Bis. Atención a la Salud de la Mujer
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+Artículo 63 bis.- La atención a la salud de la mujer comprende principalmente los programas de prevención de cáncer cérvico-uterino, cáncer mamario, así como la prevención y control de riesgo preconcepcional, climaterio, menopausias y las enfermedades de transmisión sexual.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
+
+Artículo 63 ter.- La Secretaría Estatal, en coordinación con las instituciones del sector salud promocionará los programas de prevención, detección y tratamiento para atender la salud de la mujer de manera integral.
+
 ### Capítulo VI. Servicios de Planificación Familiar
-
-### Capítulo VII. Salud Mental
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 64.
 
@@ -657,7 +665,9 @@ Los Comités de Salud, a que se refiere el artículo 55 de esta Ley, promoverán
 
 La Secretaría Estatal coadyuvará, con la Secretaría Federal, en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y en las del Programa de Planificación Familiar del Sector y cuidará que se incorporen a los programas estatales de salud.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo VII. Salud Mental
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2018)</small>
 
 ###### Artículo 68.
 
@@ -681,11 +691,11 @@ Las bases y modalidades para garantizar el acceso a los servicios de salud menta
 
 (DEROGADO, P.O. 16 DE OCTUBRE DE 2018)
 
-### Capítulo II. De los Beneficios de la Protección Social en Salud
+### Capítulo I. Disposiciones Generales
 
 ## Título Cuarto. De la Protección Social en Salud
 
-### Capítulo III. De las Cuotas Familiares
+### Capítulo II. De los Beneficios de la Protección Social en Salud
 
 ###### Artículo 73.
 
@@ -743,7 +753,7 @@ VIII. Proporcionar a la Secretaría Federal la información relativa al ejercici
 
 IX. Promover la participación de los Municipios en el Régimen y sus aportaciones económicas mediante la suscripción de convenios.
 
-### Capítulo IV. Derechos y Obligaciones de los Beneficiarios
+### Capítulo III. De las Cuotas Familiares
 
 ###### Artículo 78.
 
@@ -793,7 +803,7 @@ El Régimen proveerá de manera integral los servicios de salud y los medicament
 
 Con la finalidad de fortalecer el mantenimiento y desarrollo de infraestructura en salud, el Estado a partir de las transferencias que reciba, en los términos de este Título, destinará los recursos necesarios para la inversión en infraestructura médica, de conformidad con el plan maestro que para el efecto elabore la Secretaría Federal.
 
-### Capítulo V. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
+### Capítulo IV. Derechos y Obligaciones de los Beneficiarios
 
 ###### Artículo 82.
 
@@ -817,7 +827,7 @@ La Secretaría Estatal presentará a la Secretaría Federal, conforme a los line
 
 Bajo el principio de solidaridad social, las cuotas familiares no serán objeto de devolución bajo ninguna circunstancia, ni podrán aplicarse a años subsecuentes en el caso de suspensión temporal de los beneficios de la protección social en salud.
 
-### Capítulo I. Profesionales, Técnicos y Auxiliares de la Salud
+### Capítulo V. Causas de Suspensión y Cancelación al Sistema de Protección Social en Salud
 
 ###### Artículo 87.
 
@@ -885,7 +895,7 @@ X. Hacer uso responsable de los servicios de salud; y
 
 XI. Proporcionar, de manera fidedigna, la información necesaria para documentar su incorporación al Régimen y para la definición del monto a pagar por concepto de cuota familiar.
 
-### Capítulo II. Servicio Social de Pasantes y Profesionales
+### Capítulo I. Profesionales, Técnicos y Auxiliares de la Salud
 
 ###### Artículo 90.
 
@@ -915,7 +925,7 @@ En los casos en que se materialicen los supuestos a que se refiere este Capítul
 
 ## Título Quinto. Recursos Humanos para los Servicios de Salud
 
-### Capítulo III. Formación, Capacitación y Actualización del Personal
+### Capítulo II. Servicio Social de Pasantes y Profesionales
 
 ###### Artículo 93.
 
@@ -945,7 +955,7 @@ En el caso en que exista convenio entre el Estado y la Federación en materia de
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares, así como las especialidades, a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### Capítulo Único
+### Capítulo III. Formación, Capacitación y Actualización del Personal
 
 ###### Artículo 97.
 
@@ -1009,7 +1019,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## Título Sexto. Investigación para la Salud
 
-### Capítulo I. Disposiciones Comunes
+### Capítulo Único
 
 ###### Artículo 107.
 
@@ -1059,7 +1069,7 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ## Título Séptimo. Información para la Salud
 
-### Capítulo II. Educación para la Salud
+### Capítulo I. Disposiciones Comunes
 
 ###### Artículo 112.
 
@@ -1077,9 +1087,7 @@ Los profesionales, técnicos y auxiliares de salud y los establecimientos que pr
 
 ## Título Octavo. Promoción de la Salud
 
-### Capítulo III. Nutrición
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
+### Capítulo II. Educación para la Salud
 
 ###### Artículo 114.
 
@@ -1099,7 +1107,9 @@ IV. Salud ocupacional; y
 
 V. Fomento Sanitario.
 
-### Capítulo IV. Efectos del Ambiente en la Salud
+### Capítulo III. Nutrición
+
+> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 116.
 
@@ -1115,7 +1125,7 @@ III. Orientar y capacitar a la población preferentemente en materia de nutrici�
 
 La Secretaría Estatal, en coordinación con las autoridades estatales y federales competentes, propondrá y desarrollará programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población y promoverá programas de educación para la salud que puedan ser difundidos en los medios masivos de comunicación social existentes en el Estado.
 
-### Capítulo V. Salud Ocupacional
+### Capítulo IV. Efectos del Ambiente en la Salud
 
 ###### Artículo 118.
 
@@ -1157,7 +1167,7 @@ VIII. Proveer de mecanismos necesarios para dar acceso a suplementos alimenticio
 
 IX. Coordinarse con la Secretaría de Educación para implementar programas tendientes a evitar la venta de productos de bajo contenido nutricional, dentro de los establecimientos educativos, particularmente en instituciones de educación básica.
 
-### Capítulo I. Disposiciones Comunes
+### Capítulo V. Salud Ocupacional
 
 ###### Artículo 120.
 
@@ -1183,7 +1193,7 @@ Los propietarios de unidades de rayos equis, de uso odontológico, notificarán 
 
 La Secretaría Estatal se coordinará con las dependencias federales competentes, para la prestación de los servicios a que se refiere este Capítulo.
 
-### Capítulo II. Enfermedades Transmisibles
+### Capítulo I. Disposiciones Comunes
 
 ###### Artículo 123.
 
@@ -1199,7 +1209,7 @@ Para los efectos de esta Ley se consideran bajo la denominación de establecimie
 
 ## Título Noveno. Prevención y Control de Enfermedades Transmisibles, No Transmisibles y Accidentes
 
-### Capítulo III. Enfermedades No Transmisibles
+### Capítulo II. Enfermedades Transmisibles
 
 ###### Artículo 126.
 
@@ -1213,7 +1223,7 @@ III. Realizar los programas y actividades que las demás autoridades competentes
 
 IV. Promover, de acuerdo con las demás autoridades competentes, la colaboración de las instituciones de los sectores público, social y privado del Estado, así como de los profesionales, técnicos y auxiliares para la salud y de la población en general, para el óptimo desarrollo de los programas y actividades a que se refieren las fracciones II y III de este artículo.
 
-### Capítulo IV. Accidentes
+### Capítulo III. Enfermedades No Transmisibles
 
 ###### Artículo 127.
 
@@ -1333,11 +1343,11 @@ La Secretaría Estatal determinará las formas de disponer de los productos, sub
 
 Se prohíbe la introducción o el transporte por el territorio del Estado de animales que padezcan una enfermedad transmisible al ser humano, de cadáveres de aquéllos, así como el comercio con sus productos. Así mismo, se prohíbe la introducción o el transporte de animales que provengan de áreas que consideren infectadas la Secretaría Estatal, por conducto de su Comisión para la Protección Contra Riesgos Sanitarios; la Secretaría Federal, por conducto de su Comisión Federal para la Protección Contra Riesgos Sanitarios y la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
 
+### Capítulo IV. Accidentes
+
 ### Capítulo Único
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
-
-### Capítulo I. Programa Contra el Alcoholismo
 
 ###### Artículo 143.
 
@@ -1361,7 +1371,7 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la Secretaría Estatal les requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### Capítulo II. Programa Contra el Tabaquismo
+### Capítulo I. Programa Contra el Alcoholismo
 
 ###### Artículo 146.
 
@@ -1391,9 +1401,7 @@ VI. La promoción de la participación de la comunidad en la prevención de acci
 
 ## Título Décimo. Asistencia Social, Prevención y Rehabilitación de Personas con Discapacidad
 
-### Capítulo III. Programa Contra la Farmacodependencia
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
+### Capítulo II. Programa Contra el Tabaquismo
 
 ###### Artículo 149.
 
@@ -1519,7 +1527,7 @@ La Secretaría Estatal, en coordinación con otras dependencias y entidades, pro
 
 ## Título Undécimo. Programas Permanentes de Salud
 
-### Capítulo IV. Del Consejo Estatal Contra las Adicciones
+### Capítulo III. Programa Contra la Farmacodependencia
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
@@ -1551,7 +1559,9 @@ IV. Efectos del abuso en el consumo de bebidas alcohólicas, en los ámbitos fam
 
 La Secretaría Estatal vigilará el cumplimiento de las determinaciones normativas relativas a bebidas alcohólicas contenidas en la Ley General. Lo relativo a expendios de bebidas alcohólicas se sujetará a lo dispuesto en dicha Ley General, en esta Ley, en la Ley para el Funcionamiento, Expedición y Revalidación de Licencias y Permisos a Distribuidores y Comercializadores de Bebidas Alcohólicas del Estado de Campeche y en las demás disposiciones legales y reglamentarias aplicables.
 
-### Capítulo V. Programa de Farmacovigilancia
+### Capítulo IV. Del Consejo Estatal Contra las Adicciones
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
 ###### Artículo 166.
 
@@ -1567,7 +1577,7 @@ Para poner en práctica las acciones contra el tabaquismo se seguirán los linea
 
 (DEROGADO, P.O. 23 DE JULIO DE 2010)
 
-### Capítulo VI. Programa Contra el Síndrome de Inmunodeficiencia Adquirida
+### Capítulo V. Programa de Farmacovigilancia
 
 ###### Artículo 169.
 
@@ -1651,7 +1661,7 @@ Artículo 171 bis.- Cuando el centro o institución de salud reciba reporte de n
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE JULIO DE 2010)</small>
 
-### Capítulo Único
+### Capítulo VI. Programa Contra el Síndrome de Inmunodeficiencia Adquirida
 
 ###### Artículo 172.
 
@@ -1729,7 +1739,7 @@ X. Evitar, mediante las acciones señaladas en las fracciones anteriores, las ac
 
 ## Título Duodécimo. Control Sanitario de Productos y Servicios
 
-### Capítulo I. Disposiciones Generales
+### Capítulo Único
 
 ###### Artículo 175.
 
@@ -1775,7 +1785,7 @@ Título Decimotercero
 
 Publicidad
 
-### Capítulo II. Agua Potable y Alcantarillado
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 180.
 
@@ -1785,7 +1795,7 @@ Título Decimocuarto
 
 Del Consejo Estatal de Trasplantes
 
-### Capítulo III. Venta de Alimentos en la Vía Pública
+### Capítulo II. Agua Potable y Alcantarillado
 
 ###### Artículo 181.
 
@@ -1821,7 +1831,7 @@ Título Decimoquinto
 
 Salubridad Local
 
-### Capítulo Único
+### Capítulo III. Venta de Alimentos en la Vía Pública
 
 ###### Artículo 186.
 
@@ -1923,7 +1933,7 @@ Queda terminantemente prohibido que los pozos artesianos que dejen de funcionar 
 
 La COPRISCAM, en coordinación con las autoridades federales, ejidales, comunales y las encargadas de la administración de los Distritos de Riego en el Estado, orientará a la población para evitar la contaminación, por plaguicidas, sustancias tóxicas y desperdicios o basura, de las aguas provenientes de ríos, lagos y lagunas, así como las pluviales o que emanen de cualesquiera otras fuentes, que se utilicen para riego o para uso doméstico.
 
-### Capítulo I. Medidas de Seguridad Sanitaria
+### Capítulo Único
 
 ###### Artículo 199.
 
@@ -1975,6 +1985,40 @@ Título Decimosexto
 
 Certificados
 
+### Capítulo I. Medidas de Seguridad Sanitaria
+
+###### Artículo 208.
+
+Para los efectos de esta Ley, se entiende por certificado la constancia expedida en los términos que establezca la Secretaría Estatal para la comprobación o información de determinados hechos.
+
+###### Artículo 209.
+
+Para fines sanitarios se extenderán los siguientes certificados:
+
+I. Prenupciales;
+
+II. De defunción;
+
+III. De muerte fetal; y
+
+IV. Los demás que determine esta Ley y demás disposiciones legales y reglamentarias aplicables.
+
+###### Artículo 210.
+
+El certificado médico prenupcial será requerido por las autoridades del Registro del Estado Civil a quienes pretendan contraer matrimonio, con las excepciones que establezcan las disposiciones legales y reglamentarias aplicables.
+
+###### Artículo 211.
+
+Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas facultadas por la Secretaría Estatal.
+
+###### Artículo 212.
+
+Los certificados a que se refiere este Título, serán expedidos en los modelos o formatos aprobados por la Secretaría Estatal, de conformidad con las normas oficiales mexicanas correspondientes. Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en este artículo y en el precedente.
+
+Título Decimoséptimo
+
+Vigilancia Sanitaria
+
 ### Capítulo I bis. De los Centros de Rehabilitación de Adicciones
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
@@ -2016,42 +2060,6 @@ V. La internación en los Centros de Rehabilitación de Adicciones deberá ser v
 Los Centros de Rehabilitación de Adicciones de los sectores privado o social que vienen operando en el Estado, en tanto no cuenten con el personal profesional para la asistencia médica, el tratamiento psicológico y social, podrán seguir funcionando, pero deberán promover la participación de profesionistas mediante la prestación del servicio social o prácticas profesionales, previa celebración del convenio respectivo con las instituciones de educación superior.
 
 Los programas de tratamiento para la rehabilitación de los adictos, no deben contemplar acciones que atenten contra la dignidad y salud.
-
-###### Artículo 208.
-
-Para los efectos de esta Ley, se entiende por certificado la constancia expedida en los términos que establezca la Secretaría Estatal para la comprobación o información de determinados hechos.
-
-###### Artículo 209.
-
-Para fines sanitarios se extenderán los siguientes certificados:
-
-I. Prenupciales;
-
-II. De defunción;
-
-III. De muerte fetal; y
-
-IV. Los demás que determine esta Ley y demás disposiciones legales y reglamentarias aplicables.
-
-###### Artículo 210.
-
-El certificado médico prenupcial será requerido por las autoridades del Registro del Estado Civil a quienes pretendan contraer matrimonio, con las excepciones que establezcan las disposiciones legales y reglamentarias aplicables.
-
-###### Artículo 211.
-
-Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas facultadas por la Secretaría Estatal.
-
-###### Artículo 212.
-
-Los certificados a que se refiere este Título, serán expedidos en los modelos o formatos aprobados por la Secretaría Estatal, de conformidad con las normas oficiales mexicanas correspondientes. Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en este artículo y en el precedente.
-
-Título Decimoséptimo
-
-Vigilancia Sanitaria
-
-### Capítulo II. Sanciones Administrativas
-
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 213.
 
@@ -2159,7 +2167,9 @@ Titulo Decimoctavo
 
 Medidas de Seguridad Sanitaria. De los Centros de Rehabilitación de Adicciones. Sanciones y Delitos
 
-### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+### Capítulo II. Sanciones Administrativas
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 ###### Artículo 226.
 
@@ -2263,11 +2273,11 @@ La desocupación o desalojo de casas, edificios, establecimientos y, en general,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
+### Capítulo III. Procedimiento para Aplicar las Medidas de Seguridad y Sanciones
+
 ### Capítulo IV. Del Procedimiento Administrativo
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-### Capítulo V. Prescripción
 
 ###### Artículo 239.
 
@@ -2369,7 +2379,7 @@ II. A la persona que en rebeldía se niegue a cumplir los requerimientos y dispo
 
 Solo procederá esta sanción, si previamente se dictó cualquiera otra de las sanciones a que se refiere este Capítulo. Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### Capítulo VI. Delitos
+### Capítulo V. Prescripción
 
 ###### Artículo 251.
 
@@ -2444,6 +2454,8 @@ En los casos de suspensión de trabajos o de servicios, o de clausura temporal o
 ###### Artículo 260.
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público que corresponda, sin perjuicio de la aplicación de la sanción administrativa correspondiente.
+
+### Capítulo VI. Delitos
 
 ###### Artículo 261.
 
@@ -2604,3 +2616,11 @@ SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias de igual o 
 TERCERO. El Gobernador del Estado deberá expedir el Reglamento de la presente Ley dentro de un plazo de 90 días contados a partir de la entrada en vigor del presente decreto.
 
 CUARTO. El Consejo de Salud Mental a que se refiere la presente Ley deberá ser instalado en un plazo no mayor a 60 días, contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 86 POR EL QUE “SE ADICIONA AL TÍTULO TERCERO UN CAPÍTULO V BIS DENOMINADO “ATENCIÓN A LA SALUD DE LA MUJER” CON LOS ARTÍCULOS 63 BIS Y 63 TER A LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los diez días después de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal que se opongan al contenido del presente decreto.
