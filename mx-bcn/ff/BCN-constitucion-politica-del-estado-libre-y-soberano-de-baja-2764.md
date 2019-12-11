@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2019-10-31"
+last_updated: "2019-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -333,7 +333,11 @@ El acceso al agua para consumo personal y doméstico es un derecho que tiene tod
 
 Toda persona tiene el derecho de adquirir y disfrutar una vivienda digna, decorosa y adecuada a las necesidades del hogar. El Estado y los Municipios promoverán los instrumentos, políticas y apoyos necesarios para la inversión, construcción, financiamiento y adquisición de viviendas con la participación de los sectores privado y social, a fin de alcanzar un nivel de vida adecuado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JULIO DE 2017)</small>
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+El disfrute de una movilidad segura en las vialidades del Estado es un derecho que tiene toda persona. La Ley establecerá las bases y programas para garantizar la seguridad vial del peatón, conductor y pasajero, en las distintas modalidades del transporte público o privado, incluyendo el no motorizado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 11 DE DICIEMBRE DE 2019)</small>
 
 Toda persona tiene el derecho humano a vivir libre de corrupción.
 
@@ -1585,7 +1589,17 @@ XXIV.- Solicitar la remoción de los Fiscales a los que se refiere la fracción 
 
 XXV.- Planear y conducir el desarrollo integral del Estado en la esfera de su competencia, establecer procedimientos de participación y de consulta popular en el Sistema de Planeación Democrática, coordinar la ejecución del Plan Estatal de Desarrollo, integrando a este los planes municipales que formulen los Ayuntamientos y con la participación de los grupos sociales organizados; de conformidad con las disposiciones legales que emita el Congreso del Estado, y
 
-XXVI.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+XXVI.- Intervenir mediante el organismo de la administración pública paraestatal que determine la Ley, en la formulación y aplicación de programas de movilidad, priorizando el respeto a la dignidad humana y el transporte público, así como en la prestación y regulación de dicho servicio, conforme a la Ley de la materia.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+XXVII.- Promover y fomentar el derecho a la movilidad, garantizando la seguridad vial del peatón, conductor, pasajero, así como el acceso a un transporte público y privado de calidad para los habitantes del Estado.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+XXVIII.- Las demás que le señalen expresamente esta Constitución y las Leyes Federales.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE OCTUBRE DE 2019)</small>
 
@@ -2465,7 +2479,7 @@ VII.- Celebrar convenios para la administración y custodia de zonas federales;
 
 VIII.- Garantizar la sustentabilidad del desarrollo en su territorio, creando las condiciones para la adecuada prestación de los servicios sociales a su cargo y alentando la coordinación y concertación de acciones con los gobiernos federal y estatal, así como la participación social, a fin de elevar la calidad de vida de las personas;
 
-IX.- Prestar y regular en sus competencias territoriales el servicio de transporte público;
+IX.- (DEROGADA, P.O. 11 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -4920,3 +4934,17 @@ SEGUNDO.- Concluido el procedimiento previsto por el artículo 112 de la Constit
 TERCERO.- Las reformas contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 CUARTO.- El Ejecutivo del Estado dentro de un Plazo no mayor a 180 días hábiles realizará las reformas complementarias a la legislación secundaria y reglamentaria impactada por la presente reforma
+
+P.O. 11 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 06 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 7, 49, 83; LA ADICIÓN DE LAS FRACCIONES XXVII Y XXVIII AL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobadas que sean las presentes reformas, túrnese a los Ayuntamientos del Estado de Baja California, para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo, y de obtener aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+CUARTO.- El Congreso del Estado deberá emitir las disposiciones jurídicas materia de movilidad.
+
+QUINTO.- El Congreso del Estado deberá expedir dentro de los treinta días siguientes a que entren en vigor las presentes reformas, la legislación que instrumente las disposiciones contenidas en el presente Decreto.
