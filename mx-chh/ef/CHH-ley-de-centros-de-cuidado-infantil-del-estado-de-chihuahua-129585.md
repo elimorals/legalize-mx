@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-centros-de-cuidado-infantil-del-estado-de-chihuahua-1295
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-30"
-last_updated: "2018-12-08"
+last_updated: "2019-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # LEY DE CENTROS DE CUIDADO INFANTIL DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 11 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CENTROS DE CUIDADO INFANTIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de junio de 2018.
 
@@ -786,3 +788,47 @@ P.O. 8 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFDEC/0042/2018 I P.O., POR MEDIO DEL CUAL SE REFORMAN DIVERSOS ARTÍCULOS TRANSITORIOS DEL DECRETO N° LXV/EXLEY/0743/2018 II P.O., MEDIANTE EL CUAL SE EXPIDE LA LEY DE CENTROS DE CUIDADO INFANTIL DEL ESTADO DE CHIHUAHUA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVI/EXLEY/0395/2019 I P.O LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Centros de Cuidado Infantil del Estado de Chihuahua, publicada mediante Decreto No. LXV/EXLEY/0743/2018 II P.O., en el Periódico Oficial del Estado No. 52, de fecha 30 de junio de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones reglamentarias de esta Ley deberán ser expedidas por el Poder Ejecutivo Estatal dentro de los 180 días siguientes a la entrada en vigor de la misma.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, y los Consejos Municipales correlativos, que ya se encuentren instalados y en operación, continuarán en funciones ajustando su integración en los términos de los artículos 68 y 73 de la presente Ley.
+
+Los ayuntamientos que carezcan del Consejo Municipal al que se refiere el artículo 73 de esta Ley, contarán con un plazo de 30 días posteriores a la entrada en vigor del presente Decreto, para su integración y operación.
+
+###### ARTÍCULO QUINTO.
+
+El Área Estatal y las Áreas de Centros de Atención Infantil de los municipios que ya se encuentren instaladas y en operación, continuarán en funciones ajustando su integración en los términos del artículo 59 de la presente Ley.
+
+Los ayuntamientos que carezcan de Áreas de Centros de Atención Infantil, deberán integrarse y estar en funcionamiento dentro de los 30 días posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+El Programa Estatal de Supervisión contemplado en la presente Ley, deberá estar diseñado y en operación a más tardar dentro de los 180 días posteriores a que el presente Decreto entre en vigor.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Desarrollo Social y el DIF Estatal, deberán iniciar inmediatamente con las actividades tendientes a la integración del Registro Estatal previsto en esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Las acciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Estatal deberán solventarse de manera progresiva.
+
+###### ARTÍCULO NOVENO.
+
+A la fecha de entrada en vigor del presente Decreto, todas las menciones a la Ley de Centros de Cuidado Infantil del Estado de Chihuahua previstas en las leyes locales, así como en cualquier disposición jurídica, se entenderán referidas a la Ley que Regula la Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil del Estado de Chihuahua.
