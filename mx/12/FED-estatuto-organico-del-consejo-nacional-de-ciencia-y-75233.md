@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-75233"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-06-10"
-last_updated: "2017-09-05"
+last_updated: "2019-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,13 +21,11 @@ issue_date: "2010-05-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2019.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 10 de junio de 2010.
 
 Al margen un logotipo, que dice: Consejo Nacional de Ciencia y Tecnología.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 22 DE JULIO DE 2015, EN TODAS AQUELLAS DISPOSICIONES EN LAS QUE SE HAGA REFERENCIA A LA DIRECCIÓN ADJUNTA DE PLANEACIÓN Y COOPERACIÓN INTERNACIONAL DEBERÁ ENTENDERSE COMO LA DIRECCIÓN ADJUNTA DE PLANEACIÓN Y EVALUACIÓN, SALVO AQUELLAS ACCIONES QUE SE REFIERAN A TEMAS DE CARÁCTER INTERNACIONAL EN CUYO CASO CORRESPONDERÁN A LA DIRECCIÓN DE COOPERACIÓN INTERNACIONAL.</small>
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA.
 
@@ -40,8 +38,6 @@ Segundo. Que el 30 de diciembre de 2005 se publicó en el Diario Oficial de la F
 Tercero. Que el 12 de junio de 2009 se publicó en el Diario Oficial de la Federación el Decreto de reformas a la Ley de Ciencia y Tecnología, lo que aunado a las medidas de austeridad, a la transversalidad necesaria para el cumplimiento de las atribuciones del CONACYT, la actualización de las funciones correspondientes a las unidades sustantivas y de apoyo y la readscripción de las funciones de cooperación internacional, comunicación e información, motiva la reestructuración de su Estatuto Orgánico.
 
 Con fundamento en lo dispuesto por los artículos 1, 2, 6, fracciones XV y XVIII y 9, fracciones I, XIII y XVII de la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, el CONACYT a través de su Junta de Gobierno ha tenido a bien expedir el siguiente:
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL ACUERDO DE LA JUNTA DE GOBIERNO DEL CONACYT, PUBLICADO EN EL D.O.F. DE 2 DE SEPTIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
@@ -349,7 +345,9 @@ a) Comisión Asesora.
 
 b) Foro Consultivo Científico y Tecnológico.
 
-IV. Oficialía Mayor, Direcciones Adjuntas y Unidad de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+IV. Direcciones Adjuntas y Unidades de:
 
 a) Desarrollo Científico.
 
@@ -361,11 +359,17 @@ d) Centros de Investigación.
 
 e) Desarrollo Regional.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
-f) Planeación y Evaluación, y;
+f) Planeación y Evaluación;
 
-g) Unidad de Asuntos Jurídicos.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+g) Unidad de Asuntos Jurídicos, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+h) Unidad de Administración y Finanzas.
 
 V. Secretaría Ejecutiva de la CIBIOGEM.
 
@@ -411,7 +415,9 @@ VII. Un representante de la Secretaría de Salud.
 
 VIII. El Secretario General de la Asociación Nacional de Universidades e Instituciones de Educación Superior.
 
-IX. El Coordinador General del Foro.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+IX. Un miembro de la mesa directiva del Foro
 
 X. Dos investigadores en funciones, preferentemente de los dos niveles superiores del SNI y dos representantes del sector empresarial, propuestos por el Director General.
 
@@ -577,15 +583,23 @@ Conducir la política y acciones de cooperación internacional en materia de cie
 
 VI. Expedir los ordenamientos internos que los procesos administrativos del CONACYT requieran.
 
-Expedir los ordenamientos internos necesarios que los programas y proyectos requieran, así como interpretar y resolver cualquier circunstancia no prevista en los mismos y delegar esa función en los Titulares de las Direcciones Adjuntas, el de la Unidad de Asuntos Jurídicos o en el Oficial Mayor, en el ámbito de su competencia.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+Expedir los ordenamientos internos necesarios que los programas y proyectos requieran, así como interpretar y resolver cualquier circunstancia no prevista en los mismos y delegar esa función en los Titulares de las Direcciones Adjuntas, el de la Unidad de Asuntos Jurídicos o de la Unidad de Administración y Finanzas, en el ámbito de su competencia.
 
 Fijar las condiciones generales de trabajo del CONACYT.
 
-Adscribir orgánicamente las unidades del CONACYT y por conducto de la Oficialía Mayor, expedir el Manual de Organización y demás instrumentos normativos necesarios para el funcionamiento de la entidad, así como las modificaciones que resulten necesarias para mantenerlos permanentemente actualizados.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
-Nombrar por conducto de la Oficialía Mayor, a los servidores públicos que el CONACYT requiera para el cumplimiento de su objeto, salvo aquellos cuyo nombramiento sea competencia de la Junta de Gobierno.
+Adscribir orgánicamente las unidades del CONACYT y por conducto de la Unidad de Administración y Finanzas, expedir el Manual de Organización y demás instrumentos normativos necesarios para el funcionamiento de la entidad, así como las modificaciones que resulten necesarias para mantenerlos permanentemente actualizados.
 
-Otorgar al personal de confianza licencias, en términos de la normatividad aplicable, a través de la Oficialía Mayor, en aquellos casos y por los periodos que el propio Director General determine.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+Nombrar por conducto de la Unidad de Administración y Finanzas, a los servidores públicos que el CONACYT requiera para el cumplimiento de su objeto, salvo aquellos cuyo nombramiento sea competencia de la Junta de Gobierno.
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+Otorgar al personal de confianza licencias, en términos de la normatividad aplicable, a través de la Unidad de Administración y Finanzas, en aquellos casos y por los periodos que el propio Director General determine.
 
 Formular y promover, de manera conjunta con las autoridades competentes, los planes de carrera de los investigadores, respetando los derechos laborales adquiridos en forma individual y colectiva.
 
@@ -623,9 +637,9 @@ X. Ejercer la Vicepresidencia de la CIBIOGEM, presidiendo las sesiones en ausenc
 
 XI. Coordinar a través de la Dirección Adjunta de Planeación y Evaluación, las reuniones de seguimiento del PECITI.
 
-> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
-Revisar y analizar, a través de la Oficialía Mayor y de la Dirección Adjunta de Planeación y Evaluación, de manera conjunta con la SHCP, el proyecto consolidado de presupuesto anual de las dependencias y entidades de la administración pública federal en materia de ciencia, tecnología e innovación, en el marco del comité intersecretarial para la integración del presupuesto federal en ciencia, tecnología e innovación establecido en la LCYT.
+Revisar y analizar, a través de la Unidad de Administración y Finanzas y de la Dirección Adjunta de Planeación y Evaluación, de manera conjunta con la SHCP, el proyecto consolidado de presupuesto anual de las dependencias y entidades de la administración pública federal en materia de ciencia, tecnología e innovación, en el marco del comité intersecretarial para la integración del presupuesto federal en ciencia, tecnología e innovación establecido en la LCYT.
 
 Nombrar conjuntamente con la SHCP, al Secretario Técnico del Comité Intersecretarial para la Integración del Presupuesto Federal en Ciencia, Tecnología e Innovación.
 
@@ -639,7 +653,9 @@ XV. Proveer las acciones correspondientes en cumplimiento a lo establecido en la
 
 XVI. Promover e instrumentar con las autoridades competentes, toda clase de actos en materia de comercio exterior y de propiedad intelectual que beneficien a la comunidad científica y tecnológica, en el marco de las disposiciones legales aplicables.
 
-XVII. Delegar en la Oficialía Mayor, los actos necesarios para la ejecución de las resoluciones dictadas por los diversos órganos fiscalizadores, en coordinación con la Unidad de Asuntos Jurídicos.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+XVII. Delegar en la Unidad de Administración y Finanzas, los actos necesarios para la ejecución de las resoluciones dictadas por los diversos órganos fiscalizadores, en coordinación con la Unidad de Asuntos Jurídicos.
 
 XVIII. Interpretar la LCYT para efectos administrativos y resolver las dudas que se susciten con motivo de la interpretación y la aplicación de este ordenamiento.
 
@@ -703,7 +719,9 @@ m) El Titular de la Dirección Adjunta de Desarrollo Regional.
 
 n) El Titular de la Dirección Adjunta de Centros de Investigación.
 
-o) El Oficial Mayor.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+o) El titular de la Unidad de Administración y Finanzas.
 
 IV. Serán invitados permanentes:
 
@@ -731,21 +749,31 @@ IX. La Comisión Asesora, sesionará válidamente con la mitad más uno de sus m
 
 Foro Consultivo Científico y Tecnológico
 
-> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 22.
 
-Se constituye el Foro Consultivo Científico y Tecnológico como órgano autónomo y permanente de consulta del Poder Ejecutivo, del Consejo General y de la Junta de Gobierno del CONACYT, cuyo objetivo es promover la expresión de la comunidad científica, académica y tecnológica, así como de los sectores social, privado, productivo y de servicios, para la formulación de propuestas en materia de políticas y programas de investigación científica, desarrollo tecnológico e innovación.
+Se constituye el Foro Consultivo Científico y Tecnológico como órgano autónomo y permanente de consulta del Poder Ejecutivo, del Consejo General y de la Junta de Gobierno del Consejo, cuyo objetivo es promover la expresión de la comunidad científica, académica y tecnológica, así como de los sectores social, privado, productivo y de servicios, para la formulación de propuestas en materia de políticas y programas de investigación científica, desarrollo tecnológico e innovación.
+
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 El Foro estará integrado por científicos, tecnólogos, empresarios y por representantes de las organizaciones e instituciones reconocidas por sus tareas permanentes en la investigación científica, desarrollo tecnológico e innovación, quienes participarán, salvo en los casos previstos en la Ley, de manera voluntaria y honorífica, para su integración se observarán los criterios señalados en el artículo 36 de la LCYT.
 
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
+
 El Foro contará con una mesa directiva y con un secretario técnico, este último será designado por el Director General. La organización del Foro estará basada en Comités de trabajo especializados, de conformidad con lo dispuesto en la LCYT.
 
-Sin perjuicio de otros canales, El CONACYT deberá transmitir a las dependencias, entidades y demás instancias competentes, las opiniones y propuestas del Foro, informando a éste sobre el resultado de las mismas. Las opiniones y propuestas que presente el Foro, se formularán con base en las recomendaciones que realicen sus comités, tomando en cuenta la opinión de las comunidades científicas, académicas, tecnológicas y empresariales.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
-El Foro propondrá las bases de su integración, funcionamiento y organización, las cuales serán expedidas conjuntamente por su mesa directiva y el CONACYT. Para la materialización de sus actos el Foro se constituirá en una asociación civil.
+El CONACYT deberá transmitir al Consejo General y a las dependencias, entidades y demás instancias competentes, las opiniones y propuestas del Foro, informando a éste sobre el resultado de las mismas. Las opiniones y propuestas que presente el Foro, se formularán con base en las recomendaciones que realicen sus comités, tomando en cuenta la opinión de las comunidades científicas, académicas y tecnológicas, así como de los sectores social y privado.
 
-El Coordinador General del Foro será miembro de la Junta de Gobierno del CONACYT y el Secretario Técnico de la mesa directiva del mismo, participará como vocal de la Comisión Asesora del CONACYT, teniendo las facultades que establece la LCYT, la LOCNCYT, la LBOGM, el presente Estatuto, las Bases de Funcionamiento del Foro y los demás ordenamientos aplicables.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+La Dirección Adjunta de Desarrollo Científico y la Dirección Adjunta de Desarrollo Tecnológico e Innovación propondrán las bases de su integración, funcionamiento y organización, las cuales serán expedidas conjuntamente por su mesa directiva y el CONACYT.
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+Se invitará a formar parte de la Junta de Gobierno a un miembro de la Mesa Directiva del Foro y el Secretario Técnico de ésta participará en la Comisión Asesora del CONACYT, teniendo las facultades que establece la LCYT, la LOCNCYT, la LBOGM, el presente Estatuto, las Bases de Funcionamiento del Foro y los demás ordenamientos aplicables.
 
 > <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
@@ -755,11 +783,17 @@ Corresponde al Foro, las siguientes atribuciones:
 
 I. Proponer y opinar sobre las políticas nacionales y programas sectoriales y especiales de apoyo a la investigación científica, desarrollo tecnológico y la innovación.
 
-II. Participar en la formulación del PECITI, así como opinar y evaluar en el ámbito de sus atribuciones su eficacia e impacto, emitiendo su opinión a las dependencias y entidades que intervengan y colaboren en su integración y ejecución conforme a lo dispuesto por la LCYT.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
-III. Participar en la formulación y evaluación de políticas de apoyo a la investigación científica y al desarrollo tecnológico e innovación emitiendo su opinión sobre las mismas.
+II. Convocar a la comunidad académica, científica y tecnológica, así como a los sectores social y privado, para que opinen y formulen propuestas para la elaboración y evaluación de la eficacia y el impacto del PECITI y los programas anuales prioritarios y de atención especial.
 
-IV. Participar en la formulación, evaluación y difusión de las disposiciones legales o las reformas adicionales a las mismas, que resulten necesarias para impulsar la investigación científica, el desarrollo y la innovación tecnológica del país.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+III. Convocar a la comunidad académica, científica y tecnológica, así como a los sectores social y privado, para que opinen y formulen propuestas para la elaboración y evaluación de políticas de apoyo a la investigación científica y al desarrollo tecnológico e innovación.
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+IV. A petición del Poder Legislativo Federal o del CONACYT, analizar, opinar, proponer y difundir las disposiciones legales o las reformas necesarias para impulsar la investigación científica, el desarrollo tecnológico y la innovación en el país;
 
 V. Proponer áreas y acciones prioritarias y de gasto que demanden atención y apoyo en materia de investigación científica, desarrollo tecnológico e innovación, formación de investigadores, difusión y divulgación del conocimiento científico y tecnológico, así como de cooperación técnica internacional.
 
@@ -767,15 +801,21 @@ VI. Formular sugerencias tendientes a vincular el desarrollo tecnológico y la i
 
 VII. Opinar sobre la creación, transformación, transferencia, enajenación, fusión, extinción, liquidación, disolución o desincorporación de centros públicos de investigación, de conformidad con lo dispuesto por la LCYT.
 
-VIII. Evaluar los distintos instrumentos de fomento a la investigación científica, desarrollo tecnológico e innovación, a cargo del CONACYT, proponiendo medidas tendientes a su mejoramiento y formulando propuestas para la instrumentación de las políticas nacionales en esas materias.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
-IX. Participar en el ámbito de su competencia en la integración, operación y funcionamiento del SINECYT.
+VIII. Proponer medidas tendientes al mejoramiento de los instrumentos de fomento a la investigación científica, desarrollo tecnológico e innovación, a cargo del Consejo, previa valoración que realice de ellos, así como, esquemas para la instrumentación de las políticas nacionales en esas materias.
+
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+IX. Opinar y valorar en el ámbito de su competencia, sobre la integración, operación y funcionamiento del SlNECYT.
 
 X. Proponer acciones relacionadas con estímulos fiscales, esquemas de financiamiento, facilidades administrativas, facilidades en materia de comercio exterior, así como modificaciones a los regímenes de propiedad industrial y derechos de autor, para el cumplimiento del PECITI.
 
-XI. Desarrollar las funciones que en el ámbito de su competencia le establezcan las disposiciones legales y administrativas aplicables.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
-XII. Proponer a las autoridades administrativas o judiciales, así como a las instancias alternativas de resolución de controversias que así lo requieran, a los expertos calificados para la elaboración de opiniones o dictámenes técnicos en su materia.
+XI. Desarrollar las funciones que en el ámbito de su competencia le establezcan las disposiciones legales y administrativas aplicables, y el Director General.
+
+XII. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2019)
 
 XIII. Las demás funciones que se establezcan en la LCYT, la LOCNCYT, la LBOGM, el presente Estatuto y las que le sean encomendadas por el Director General en el ámbito de su competencia.
 
@@ -789,7 +829,7 @@ El CONACYT de conformidad con lo dispuesto por la LCYT, otorgará los apoyos nec
 
 ### CAPITULO SEPTIMO. Unidades Administrativas adscritas a la Dirección General
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 24 DE FEBERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 25.
 
@@ -807,9 +847,11 @@ Asistir y participar en las reuniones de órganos de gobierno o cuerpos colegiad
 
 Integrar el Comité Directivo de Cátedras CONACYT.
 
-> <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
-III. Celebrar, otorgar y suscribir toda clase de actos y documentos relacionados con el objeto de la Oficialía Mayor.
+III. Celebrar, otorgar y suscribir toda clase de actos y documentos relacionados con el objeto de la Unidad de Administración y Finanzas.
+
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 Delegar las facultades que tienen atribuidas, sin perjuicio de conservar su ejercicio directo.
 
@@ -845,9 +887,9 @@ VIII. Colaborar en el diseño y operación de los programas y apoyos a la difusi
 
 IX. Auxiliar al Director General para el desempeño de sus atribuciones como Secretario Ejecutivo del Consejo General.
 
-> <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
-X. Someter a la autorización del Director General por conducto de la Oficialía Mayor, los nombramientos del personal de su área hasta el nivel de subdirector.
+X. Someter a la autorización del Director General por conducto de la Unidad de Administración y Finanzas, los nombramientos del personal de su área hasta el nivel de subdirector.
 
 > <small>(REFORMADA, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
@@ -1075,7 +1117,9 @@ Corresponde a la Dirección Adjunta de Centros de Investigación:
 
 I. Dirigir la política científica, tecnológica y de innovación, en su calidad de coordinadora sectorial de los Centros Públicos de Investigación CONACYT, de conformidad con lo establecido en la LCYT, el PECITI y demás disposiciones legales y administrativas aplicables.
 
-II. Coordinar la vida institucional, operación, aspectos normativos y programático-presupuestales, en acuerdo con la Oficialía Mayor, de los CPI CONACYT y del sistema en su conjunto.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+II. Coordinar la vida institucional, operación, aspectos normativos y programático-presupuestales, en acuerdo con la Unidad de Administración y Finanzas, de los CPI CONACYT y del sistema en su conjunto.
 
 III. Establecer estrategias y mecanismos para la vinculación de los CPI CONACYT y del sistema en su conjunto con los sectores público, social y privado.
 
@@ -1161,7 +1205,9 @@ XIX. Representar al CONACYT, en la planeación, elaboración de estadísticas e 
 
 XX. Planear prioridades y criterios de asignación del gasto en ciencia, tecnología e innovación del Ramo Presupuestal del CONACYT.
 
-XXI. Determinar, en coordinación con la Oficialía Mayor, la integración de la propuesta de estructura programática y la elaboración de la exposición de motivos del Presupuesto de Egresos de la Federación a emplear en cada ejercicio presupuestal.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+XXI. Determinar, en coordinación con la Unidad de Administración y Finanzas, la integración de la propuesta de estructura programática y la elaboración de la exposición de motivos del Presupuesto de Egresos de la Federación a emplear en cada ejercicio presupuestal.
 
 XXII. Establecer los mecanismos de operación, administración y resultados esperados del SIICYT, así como coordinar el establecimiento de convenios de colaboración entre el CONACYT y diferentes instancias para el desarrollo de sistemas de información a fin de que sean incorporados al mismo.
 
@@ -1191,7 +1237,9 @@ II. Formular opinión sobre la normatividad del CONACYT y la que los centros pú
 
 III. Proponer acciones de difusión de la normatividad del CONACYT y gestionar, en su caso, su publicación en el Diario Oficial de la Federación.
 
-IV. Instrumentar, en coordinación con la Oficialía Mayor, los actos jurídicos y administrativos que corresponda ejecutar al Director General en cumplimiento de resoluciones dictadas por órganos fiscalizadores.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+IV. Instrumentar, en coordinación con la Unidad de Administración y Finanzas, los actos jurídicos y administrativos que corresponda ejecutar al Director General en cumplimiento de resoluciones dictadas por órganos fiscalizadores.
 
 V. Asesorar jurídicamente a las unidades administrativas en la constitución, operación, modificación, extinción, de los fondos establecidos en la LCYT, y brindar apoyo técnico jurídico para la creación, reconocimiento, transformación, extinción o desincorporación de los centros públicos de investigación.
 
@@ -1203,7 +1251,9 @@ VIII. Asesorar a los centros públicos de investigación CONACYT en sus operacio
 
 IX. Llevar el registro de los poderes generales y especiales otorgados por el Director General y por otros servidores públicos facultados para ello, así como de la revocación de los mismos.
 
-X. Convenir y transigir en las controversias de carácter laboral y asesorar a la Oficialía Mayor en la revisión de las Condiciones Generales de Trabajo del CONACYT.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+X. Convenir y transigir en las controversias de carácter laboral y asesorar a la Unidad de Administración y Finanzas en la revisión de las Condiciones Generales de Trabajo del CONACYT.
 
 XI. Gestionar el registro y digitalización de autógrafos de los servidores públicos del CONACYT facultados para hacer constar la legitimidad de documentos, ante la Secretaría de Gobernación.
 
@@ -1221,47 +1271,81 @@ XVII. Asesorar en la elaboración de las resoluciones que recaigan a los recurso
 
 XVIII. Analizar y en su caso ejecutar las acciones para la recuperación de adeudos de terceros con CONACYT o emitir, en su caso, el dictamen de irrecuperabilidad, conforme a la normatividad aplicable.
 
-XIX. Someter a consideración de la Comisión Federal de Mejora Regulatoria los anteproyectos de disposiciones jurídico-administrativas y las manifestaciones de impacto regulatorio que elaboren las unidades administrativas del CONACYT, así como solicitar a dicha Comisión las modificaciones a la información relacionada con Trámites y Servicios.
+XIX. (DEROGADA, D.O.F. 11 DE DICIEMBRE DE 2019)
 
 XX. Llevar a cabo todas las actividades que como Unidad de Enlace le encomienda la legislación en materia de Transparencia y Acceso a la Información.
 
 XXI. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende el Director General.
 
-> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 33.
 
-Corresponde a la Oficialía Mayor:
+Corresponde a la Unidad de Administración y Finanzas:
+
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
 
 I. Dirigir la administración del patrimonio y los recursos financieros, materiales, humanos y de las tecnologías de la información y comunicación del CONACYT, así como participar en la coordinación sectorial de las políticas de planeación, programación y presupuestación.
 
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
+
 II. Participar, en coordinación con la Dirección Adjunta de Planeación y Evaluación, en la integración de la propuesta de estructura programática para cada ejercicio presupuestal.
+
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
 
 III. Fungir como instancia administrativa única para tramitar ante la SHCP, las solicitudes y consultas en materia presupuestaria y contable, y ante la Función Pública en materia organizacional y de administración de personal de las entidades del Ramo 38.
 
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
+
 IV. Dirigir los registros presupuestales y contables, así como la elaboración de los estados financieros. Coordinar la elaboración y entrega de la Cuenta de la Hacienda Pública Federal del CONACYT, así como la integración de la misma, de los informes trimestrales y demás documentos que se requieran a nivel de Ramo.
+
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
 
 V. Planear y coordinar la administración de los recursos humanos, así como dirigir el registro y actualización de la estructura orgánica del CONACYT.
 
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
+
 VI. Coordinar la integración y expedir, en coordinación con la Unidad de Asuntos Jurídicos, previa aprobación del Director General, el Estatuto Orgánico, el Manual de Organización, así como los demás manuales necesarios para la operación y funcionamiento del CONACYT.
+
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
 
 VII. Dirigir las acciones en materia de adquisiciones y servicios del CONACYT.
 
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
+
 VIII. Dirigir el control de los archivos institucionales, y los mecanismos para su organización y conservación.
+
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
 
 IX. Coordinar la integración de la información financiera y proporcionar soporte operativo a los Fondos CONACYT.
 
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
+
 X. Administrar los fondos institucionales, salvo en aquellos en que se faculte a otra unidad administrativa.
+
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
 
 XI. Coordinar, en colaboración con la Unidad de Asuntos Jurídicos, la modificación o extinción de los fondos CONACYT, en términos de lo dispuesto por la LCyT.
 
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
+
 XII. Dirigir la administración de las tecnologías de información y comunicaciones del CONACYT, garantizando los niveles de servicio en apego a la normatividad aplicable.
+
+> <small>(REFORMADA, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
 
 XIII. Planear y dirigir el cumplimiento del Programa de Seguridad y Vigilancia en las instalaciones del CONACYT, así como el Programa de Protección Civil, de conformidad con la normativa y lineamientos aplicables.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+XIV. Coordinar la implementación de los instrumentos, las herramientas, las acciones y los procedimientos en materia de mejora regulatoria concernientes al Consejo.
+
+> <small>(REFORMADO, D.O.F. 5 DE SEPTIEMBRE DE 2017)</small>
+
 Atender las demás funciones y tareas que le asignen las disposiciones legales y administrativas en el ámbito de su competencia, así como las que sean encomendadas por el Director General.
 
-Las anteriores atribuciones podrá realizarlas la Oficialía Mayor por sí o a través de la Estructura Orgánica bajo su adscripción.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+Las anteriores atribuciones podrá realizarlas la Unidad de Administración y Finanzas por sí o a través de la Estructura Orgánica bajo su adscripción.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 FEBRERO DE 2016)</small>
 
@@ -1417,7 +1501,9 @@ III. Representar al CONACYT en los diferentes organismos internacionales relacio
 
 IV. Formular el presupuesto y administrar los recursos presupuestales bajo su responsabilidad, supervisando el desarrollo de los programas, proyectos, convenios, contratos y acuerdos que se relacionen con los asuntos de su competencia.
 
-V. Formular a la autorización del Director General por conducto de la Oficialía Mayor, los nombramientos del personal de su área hasta el nivel de subdirector.
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+V. Formular a la autorización del Director General por conducto de la Unidad de Administración y Finanzas, los nombramientos del personal de su área hasta el nivel de subdirector.
 
 VI. Instrumentar la planeación, constitución, operación, control, seguimiento y evaluación de los programas, proyectos y apoyos de cooperación internacional, y de los fondos establecidos en la LCyT, en el ámbito de su competencia, para verificar el cumplimiento de las condiciones establecidas en las convocatorias, convenios, programas y fondos, mediante los que se apoyen proyectos de CTI, así como coadyuvar en el ámbito de su competencia, en la obtención de información para realizar, en coordinación con la Dirección Adjunta de Planeación y Evaluación, la evaluación de impacto de sus programas y la actualización de los diversos sistemas de información.
 
@@ -1487,13 +1573,17 @@ En los órganos colegiados que se considere la participación del Organo Interno
 
 ### CAPITULO DECIMO PRIMERO. Suplencia de los Servidores Públicos del CONACYT
 
-> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 43.
 
-Durante las ausencias del Director General, el despacho y resolución de los asuntos administrativos quedarán a cargo del Oficial Mayor o Titular de Dirección Adjunta o Unidad de Asuntos Jurídicos que el mismo designe.
+Durante las ausencias del Director General, el despacho y resolución de los asuntos administrativos quedarán a cargo del Titular de la Dirección Adjunta o de la Unidad que el mismo designe.
 
-Los Titulares de las Direcciones Adjuntas, Unidad de Asuntos Jurídicos, el Oficial Mayor, el Coordinador de Proyectos, Comunicación e Información Estratégica y los Directores de Area, serán suplidos en sus ausencias por los funcionarios de la jerarquía inmediata inferior de su respectiva adscripción.
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+Los titulares de las Direcciones Adjuntas, de la Unidad de Asuntos Jurídicos, de la Unidad de Administración y Finanzas, el Coordinador de Proyectos, Comunicación e Información Estratégica y los Directores de Área, serán suplidos en sus ausencias por los funcionarios de la jerarquía inmediata inferior de su respectiva adscripción.
+
+> <small>(REFORMADO, D.O.F. 2 DE SEPTIEMBRE DE 2014)</small>
 
 Las ausencias del Titular del Organo Interno de Control, así como la de los titulares de las áreas de Responsabilidades, Auditoría Interna, Auditoría para Desarrollo y Mejora de la Gestión Pública y de Quejas, serán suplidas de conformidad con lo dispuesto en el Reglamento Interior de la SFP.
 
@@ -1558,3 +1648,11 @@ D.O.F. 5 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA”.]
 
 Las modificaciones al presente Estatuto entrarán en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA”.]
+
+PRIMERO- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO- En todas aquellas disposiciones en las que se haga referencia a la Oficialía Mayor deberá entenderse como la Unidad de Administración y Finanzas. Asimismo, en las que se haga referencia al Oficial Mayor, deberán entenderse al Titular de la Unidad de Administración y Finanzas.
