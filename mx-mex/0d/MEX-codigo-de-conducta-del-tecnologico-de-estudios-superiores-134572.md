@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-tecnologico-de-estudios-superiores-13457
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-27"
-last_updated: "2019-02-27"
+last_updated: "2019-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL TECNOLOGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO, ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO, PUBLICADO EN LA G.G. DE 11 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 27 de febrero de 2019.
 
@@ -600,3 +602,15 @@ L.C. CRESCENCIO REYES HERNÁNDEZ
 DIRECTOR GENERAL Y SECRETARIO DE LA H. JUNTA DIRECTIVA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 11 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL TECNOLÓGICO DE ESTUDIOS SUPERIORES DE VALLE DE BRAVO.]
+
+PRIMERO.- Publíquese el presente Código de Conducta en el Periódico Oficial "Gaceta del Gobierno", y posteriormente en el portal electrónico del Tecnológico de Estudios Superiores de Valle de Bravo.
+
+SEGUNDO.- Este Código de Conducta entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Código de Conducta del Tecnológico de Estudios Superiores de Valle de Bravo, publicado en fecha 27 de febrero del año 2019, en el Periódico Oficial "Gaceta del Gobierno", así como las disposiciones legales de igual o menor jerarquía que contravengan lo estipulado en el presente Código.
