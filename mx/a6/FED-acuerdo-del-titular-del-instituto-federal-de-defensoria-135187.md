@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-del-titular-del-instituto-federal-de-defensoria-135187"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2019-04-09"
-last_updated: "2019-05-06"
+last_updated: "2019-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135187&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2019-02-12"
 ---
 # ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA [POR EL QUE SE ORDENA LA PUBLICACION DE LAS BASES GENERALES DE ORGANIZACION Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PUBLICA]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PÚBLICA, PUBLICADAS EN EL D.O.F. DE 11 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección al Número 7 del Diario Oficial de la Federación, el martes 9 de abril de 2019.
 
@@ -88,3 +90,23 @@ D.O.F. 6 DE MAYO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE LA JUNTA DIRECTIVA DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, CORRESPONDIENTE A LA SEGUNDA SESIÓN EXTRAORDINARIA CELEBRADA EL 29 DE ABRIL DE DOS MIL DIECINUEVE, POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA VIGENTES”.]
 
 ÚNICO. Las presentes modificaciones a las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública vigentes, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 11 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS "BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORIA PÚBLICA".]
+
+PRIMERO. Se abrogan las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública, publicadas en el Diario Oficial de la Federación el 6 de mayo de 2019.
+
+SEGUNDO. Las presentes Bases entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública estarán disponibles para su consulta en la página electrónica oficial del Instituto.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL "ACUERDO DEL TITULAR DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA POR EL QUE SE ORDENA LA PUBLICACIÓN DE LAS BASES GENERALES DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA" QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. En cumplimiento a lo ordenado por la Junta Directiva del Instituto Federal de Defensoría Pública, en sesión ordinaria del treinta de octubre del año dos mil diecinueve, publíquese el presente acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del treinta de octubre del año dos mil diecinueve, estarán disponibles en los siguientes vínculos electrónicos: www.ifdp.cjf.gob.mx/resources/documentos/2019/BasesGeneralesOrganizacionFuncionamientoIFDP.pdf y www.dof.gob.mx/2019/CJF/Bases_Generales_IFDP.pdf.
+
+## TRANSITORIO
+
+ÚNICO. Las Bases Generales de Organización y Funcionamiento del Instituto Federal de Defensoría Pública aprobadas por la Junta Directiva en sesión ordinaria del treinta de octubre del año dos mil diecinueve, entrarán en vigor al día siguiente de la publicación del presente acuerdo en el Diario Oficial de la Federación.
