@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-municipal-del-estado-de-campeche-97757"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-12-24"
-last_updated: "2018-09-20"
+last_updated: "2019-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO FISCAL MUNICIPAL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 24 de diciembre de 2013.
 
@@ -203,7 +205,9 @@ Cuando de conformidad con las disposiciones fiscales se deban realizar operacion
 
 Cuando los contribuyentes o responsables solidarios, no cubran las contribuciones o los aprovechamientos en la fecha o dentro del plazo fijado por las disposiciones fiscales, su monto se actualizara desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe; además, deberán pagarse recargos en concepto de indemnización al fisco municipal por la falta de pago oportuno.
 
-Los recargos a que se refiere el párrafo anterior se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que fije anualmente el Congreso del Estado de Campeche, en la Ley de Ingresos de cada Municipio.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+Los recargos a que se refiere el párrafo anterior se calcularán aplicando al monto de las contribuciones o de los aprovechamientos actualizados por el período a que se refiere este párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el período de actualización de la contribución o aprovechamiento de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que mediante Ley fije anualmente el Congreso de la Unión.
 
 Los recargos por falta de pago oportuno de contribuciones o aprovechamientos se causarán hasta por cinco años, salvo en los casos previstos en este Código, supuestos en los cuales los recargos se causarán hasta en tanto no se extingan las facultades de las autoridades fiscales para determinar las contribuciones o aprovechamientos omitidos y sus accesorios, y se calcularán sobre el total del crédito fiscal, excluyendo salvo disposición expresa en contrario, los propios recargos, y los gastos de ejecución.
 
@@ -2218,3 +2222,11 @@ PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes al
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
 TERCERO.- En un término de 120 días contados a partir de la entrada en vigor del presente decreto, los Municipios deberán adecuar las disposiciones municipales que correspondan
+
+P.O. 11 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14 DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrara en vigor el día primero de enero del año dos mil veinte, previa su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
