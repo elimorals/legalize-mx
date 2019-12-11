@@ -4,7 +4,7 @@ identifier: "LGCFD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-06-07"
-last_updated: "2018-01-19"
+last_updated: "2019-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94515&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCFD"
 
 LEY GENERAL DE CULTURA FÍSICA Y DEPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de junio de 2013.
 
@@ -62,7 +62,9 @@ II. Elevar, por medio de la activación física, la cultura física y el deporte
 
 III. Fomentar la creación, conservación, mejoramiento, protección, difusión, promoción, investigación y aprovechamiento de los recursos humanos, materiales y financieros destinados a la activación física, cultura física y el deporte;
 
-IV. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud y prevención de enfermedades;
+> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2019)</small>
+
+IV. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la preservación de la salud, prevención de enfermedades, así como la prevención de las adicciones y el consumo de sustancias psicoactivas;
 
 V. Fomentar el desarrollo de la activación física, la cultura física y el deporte, como medio importante en la prevención del delito;
 
@@ -1973,3 +1975,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- En tanto entra en vigor la Constitución Política de la Ciudad de México, las disposiciones a las que este Decreto hace referencia a las Legislaturas de las Entidades Federativas se entenderán conferidas a la Asamblea Legislativa del Distrito Federal para el caso de la Ciudad de México.
 
 Asimismo, las disposiciones establecidas en este Decreto para las alcaldías serán aplicables una vez que entre en vigor la Constitución Política de la Ciudad de México.
+
+D.O.F. 11 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 2 DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
