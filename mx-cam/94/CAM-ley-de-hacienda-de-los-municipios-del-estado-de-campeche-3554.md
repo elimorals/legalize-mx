@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2018-10-16"
+last_updated: "2019-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -1225,133 +1225,21 @@ Es objeto de este derecho la prestación de servicios que proporcionen las autor
 
 Son sujetos de este derecho, quienes hagan uso de los servicios mencionados en los dos artículos anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTÍCULO 74.
 
-Los derechos por servicios que prestan las autoridades de tránsito de los municipios se pagarán en la tesorería municipal, y/o lugar que esta determine se causarán al equivalente al número de veces el salario mínimo general diario vigente en el Estado conforme a la siguiente:
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2019)
 
-TARIFA
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
 
-GRUPOS 1,2,3
+###### ARTÍCULO 74
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+BIS.- Los derechos por servicios que prestan las autoridades de tránsito de los municipios se pagarán en la tesorería municipal, y/o lugar que esta determine se causarán al equivalente a la unidad de medida y actualización vigente en el Estado conforme a la siguiente:
 
-I.- Por juego de placas de circulación, incluyendo calcomanía y tarjeta de circulación del año:
+T A R I F A
 
-A. Para automóviles de servicio particular 10
+G R U P O S 1 2 3
 
-B. Para automóviles de alquiler de
-
-servicio público local 20
-
-C. Para vehículo de carga de servicio
-
-particular con capacidad hasta de cinco
-
-toneladas 20
-
-D. Para vehículo de carga de servicio
-
-particular con capacidad superior a
-
-cinco toneladas 20
-
-E. Para vehículo de carga de servicio
-
-público local con capacidad hasta de
-
-cinco toneladas 20
-
-F. Para vehículo de carga de servicio
-
-público local con capacidad superior a
-
-cinco toneladas 20
-
-G. Para camión de pasajeros de servicio
-
-particular y servicio público local. 30
-
-H. Para demostración y para vehículos
-
-propiedad de empresas arrendadoras 40
-
-I. Para motocicletas o motonetas
-
-de servicio particular y servicio público
-
-local 6
-
-J. Para bicicletas 2
-
-K. Para vehículo de tracción animal 2
-
-L. Para carros y carretillas de mano 2
-
-M. Por reposición de placas se cubrirá la misma cuota que corresponda de acuerdo con los incisos que anteceden. Si es por extravío o robo, deberá comprobarse haber denunciado previamente el hecho ante la autoridad competente.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
-II.- Por otros servicios de tránsito:
-
-A. Permisos para que transiten vehículos sin
-
-placas hasta por quince días 20
-
-B. Por expedición de licencias para conducir:
-
-a). Para automovilistas 5
-
-b). Para chofer 7
-
-c). Para motociclistas 4
-
-d) Para automovilistas de servicio público 17
-
-e) Para chofer de servicio público 17
-
-f) Para Motocicletas de servicio público 7
-
-C. Permiso para práctica de manejo sin licencia,
-
-hasta por quince días 20
-
-D. Por la reposición de tarjeta de circulación 2
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
-
-E. Por refrendo anual de placas,
-
-que incluye calcomanía y tarjeta
-
-de circulación para automóviles,
-
-autobuses, camiones, camionetas,
-
-tractores, automotores, remolques,
-
-semirremolques, y otros similares. 6
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2014)</small>
-
-F.- Por refrendo anual de placas,
-
-que incluye calcomanía y tarjeta de
-
-circulación para motocicletas,
-
-cuatrimotos, motonetas, trimotos
-
-o similares. 3
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
-
-III.- El pago de las cuotas que anteceden se efectuarán en las oficinas autorizadas al efecto. El plazo para el refrendo anual a que se refiere el apartado E y F, de la fracción II, deberá´ realizarse durante el primer trimestre del año; la expedición de placas de los vehículos a que se refieren los incisos I, J, K y L de la fracción I, dentro de los primeros cuatro meses del año. En los demás casos dentro de los quince días siguientes a la adquisición del vehículo.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-IV.- Para los efectos de la fracción I, previo a la solicitud de estas contraprestaciones será requisito indispensable que los contribuyentes acrediten haber cumplido con las obligaciones fiscales que le impone, en su caso, el artículo 48 de la Ley de Hacienda del Estado de Campeche.
+> <small>[N. DE E. VÉASE TABLAS EN LA SEGUNDA SECCIÓN DEL P.O. DE 11 DE DICIEMBRE DE 2019, PÁGINAS DE LA 4 A LA 6.]</small>
 
 #### SECCION SEGUNDA. POR LOS SERVICIOS DE USO DE RASTRO PUBLICO
 
@@ -2972,3 +2860,11 @@ PRIMERO.- El presente decreto entrará en vigor a los tres días después de su 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
 TERCERO.- En un término de 120 días contados a partir de la entrada en vigor del presente decreto, los municipios deberán adecuar las disposiciones municipales que correspondan.
+
+P.O. 11 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO NUMERO 105 DEL H. AYUNTAMIENTO DEL MUNICIPIO DE PALIZADA, POR EL CUAL SE APRUEBA LA INICIATIVA PARA DEROGAR EL ARTICULO 74 Y ADICIONAR EL ARTÍCULO 74-BIS DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE; Y DE REFORMAR EL PÁRRAFO SEGUNDO DEL ARTICULO 14 DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrara en vigor el día primero de enero del año dos mil veinte, previa su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
