@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "2018-12-31"
+last_updated: "2019-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -215,11 +215,11 @@ Cuando por circunstancias especiales deban aumentase las horas de jornada máxim
 
 Por cada seis días de trabajo, disfrutará el trabajador cuando menos de un día de descanso, con goce de salario íntegro.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
 
 ###### Art. 24o.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. En caso de parto prematuro o cuando así lo requiera por decisión propia, la mujer trabajadora tendrá derecho a que se acumule al descanso posterior del parto, el lapso de descanso que no hizo efectivo antes del mismo, de modo de completar los tres meses.
+Las mujeres disfrutarán de un mes de Licencia de Maternidad antes de la fecha que aproximadamente se fije para el parto y de otros dos después del mismo. En caso de parto prematuro o cuando así lo requiera por decisión propia, la mujer trabajadora tendrá derecho a que se acumule su Licencia de Maternidad posterior del parto, el lapso de licencia que no hizo efectivo antes del mismo, de modo de completar los tres meses.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
@@ -243,11 +243,29 @@ En el caso de adopción de un menor de edad que sea mayor a seis meses de edad, 
 
 La licencia de maternidad se concede independientemente de las vacaciones establecidas o demás días de descanso obligatorio que se estipulen en la Ley. Si el correspondiente período vacacional coincide o queda comprendido dentro de este período, dicho periodo empezará a correr al día siguiente de la fecha en que se concluya la licencia respectiva.
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
 
 ###### Art. 24 Bis 3.
 
-Los hombres trabajadores a que se refiere esta Ley gozarán de licencia de paternidad, en el caso del nacimiento de un hijo, que consistirá en el descanso de cinco días con goce de sueldo, dicha licencia será otorgada también en el caso de adopción.
+Los hombres trabajadores a que se refiere esta Ley gozarán de licencia de paternidad, en el caso del nacimiento de un hijo, que consistirá en el descanso de sesenta días con goce de sueldo, dicha licencia será otorgada también en el caso de adopción.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+###### Art. 24 Bis 4.
+
+Los hombres trabajadores a que se refiere esta Ley, tendrán derecho a solicitar una ampliación de la Licencia de Paternidad, con goce de sueldo, en los periodos y bajo las consideraciones siguientes:
+
+I. Por quince días hábiles, en caso de enfermedad grave del hijo o hija recién nacido, así como por complicaciones graves de salud que pongan en riesgo la vida de la madre; sustentada en la constancia médica respectiva;
+
+II. Por quince días hábiles, en caso de parto múltiple, sustentado en la constancia médica respectiva; y
+
+III. Por quince días hábiles adicionales, si durante los primeros quince días posteriores al parto, la madre falleciere, se deberá presentar el acta de defunción correspondiente dentro de los cinco días siguientes al concluir la licencia de paternidad, referida en esta fracción.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+###### Art. 24 Bis 5.
+
+Podrá otorgarse una Licencia por Enfermedad Infantil hasta de quince días hábiles al año con goce de sueldo, a los padres y madres trabajadoras a que se refiere esta Ley, que tengan decretada a su favor, por juez competente la guarda y custodia de hija(s) e hijo(s) menores de doce años, lo cual aplica también para casos de adopción, por causa de enfermedad debidamente acreditada mediante constancia médica, adjuntando la resolución judicial correspondiente. Dicha licencia será intransferible a la pareja.
 
 ###### Art. 25o.
 
@@ -1026,3 +1044,29 @@ P.O. 31 DE DICIEMBRE DE 2018.
 Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Estado.
 
 Segundo.- Envíese al Ejecutivo del Estado para que en términos del Artículo 71 de la Constitución Política del Estado Libre y Soberano de Nuevo León, lo publique sin demora.
+
+P.O. 11 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 163. SE TIENEN POR RECIBIDAS EN TIEMPO Y FORMA, LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO 163, DE FECHA 18 DE SEPTIEMBRE DE 2019; CON FUNDAMENTO EN EL ARTÍCULO 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, SE ACEPTAN PARCIALMENTE LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO 163. EN RAZÓN DE LO ANTERIOR, SE REFORMA EL ARTÍCULO 24 Y 24 BIS 3 Y SE ADICIONAN LOS ARTÍCULOS 24 BIS 4 Y 24 BIS 5 A LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León, a excepción de lo establecido en el Artículo Segundo Transitorio.
+
+Segundo.- A fin de establecer progresivamente el periodo de la licencia de paternidad de sesenta días establecida en el artículo 24 Bis 3, se dispondrá un incremento gradual por año a partir de 2020 conforme a la siguiente tabla:
+
+ANO DIAS DE LICENCIA DE PATERNIDAD
+
+A partir de su publicación 15 Días
+
+2020 22 Días
+
+2021 29 Días
+
+2022 36 Días
+
+2023 43 Días
+
+2024 50 Días
+
+2025 60 Días
+
+Tercero.- Para dar cumplimiento a las obligaciones emanadas de la presente reforma, se deberán tomar en cuenta en el Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente.
