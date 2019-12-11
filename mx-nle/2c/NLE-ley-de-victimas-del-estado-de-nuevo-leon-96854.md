@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-victimas-del-estado-de-nuevo-leon-96854"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2015-05-27"
+last_updated: "2019-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 7 de diciembre de 2013.
 
@@ -702,6 +702,14 @@ IV. Un organismo internacional de protección de los derechos humanos reconocido
 Lo anterior sin perjuicio de las responsabilidades civiles, penales y administrativas que los mismos hechos pudieran implicar y conforme lo dispuesto por la presente Ley.
 
 En los casos de víctimas de delitos se estará a lo dispuesto en los montos máximos previstos en el artículo 48 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+Cuando no exista la determinación de un monto de compensación fijado por las autoridades y organismos señalados, corresponderá a la Comisión Ejecutiva Estatal de Atención a Víctimas el fijar dicho monto, atendiendo a lo dispuesto por los estándares internacionales que contemplan los tratados en materia de Derechos Humanos y la jurisprudencia que emita la Corte Interamericana de Derechos Humanos, siempre que nuestro país sea suscriptor ratificado de éstas.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2019)</small>
+
+Los montos a los que se refiere el párrafo anterior jamás serán fijados bajo criterios limitativos, sino se atenderá en todo momento a la interpretación más favorable a la víctima de violaciones a derechos humanos por parte de agentes del Estado; ello atendiendo a la interpretación pro persona que debe hacerse en todos los asuntos de la materia.
 
 ###### Artículo 47.
 
@@ -1496,5 +1504,11 @@ ALFREDO FLORES GÓMEZ
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE MAYO DE 2015.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 138. LA LXXV LEGISLATURA DEL H. CONGRESO DEL ESTADO DE NUEVO LEÓN, TIENE POR RECIBIDAS EN TIEMPO Y FORMA, LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO NO 138 DE FECHA 14 DE MAYO DEL AÑO 2019; CON FUNDAMENTO EN EL ARTÍCULO 71 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, SE RECHAZAN LAS OBSERVACIONES REALIZADAS POR EL EJECUTIVO DEL ESTADO AL DECRETO NÚM. 138. EN RAZÓN DE LO ANTERIOR, SE REFORMA POR ADICIÓN DE DOS PÁRRAFOS, EL ARTÍCULO 46 DEL TÍTULO SEGUNDO, CAPÍTULO V, SECCIÓN LL (SIC), DE LA LEY DE VÍCTIMAS DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
