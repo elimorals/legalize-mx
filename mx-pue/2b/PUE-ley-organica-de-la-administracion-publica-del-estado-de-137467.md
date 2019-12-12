@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-137467"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-07-31"
-last_updated: "2019-12-06"
+last_updated: "2019-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 31 de julio de 2019.
 
@@ -1205,7 +1205,9 @@ V. Regular, capacitar, vigilar, inspeccionar y controlar el uso adecuado de la i
 
 VI. Expedir, tramitar, otorgar, negar, revocar y modificar, las concesiones o permisos que prevén los ordenamientos legales y las disposiciones administrativas en la materia;
 
-VII. Diseñar y establecer las políticas y criterios para el establecimiento de rutas, itinerarios, horarios y tarifas de transporte, autorizando, modificando, cancelando y verificando su correcta aplicación;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+VII. Diseñar y establecer las políticas y criterios para el establecimiento de rutas, itinerarios, horarios y tarifas de transporte, así como tarifas para el arrastre, arrastre y salvamento, traslado y depósito de vehículos, autorizando, modificando, cancelando y verificando su correcta aplicación;
 
 VIII. Normar y establecer las políticas y criterios para llevar a cabo directamente o a través de terceros, los estudios y proyectos de ingeniería de tránsito y del servicio de transporte, así como determinar la instalación y mantenimiento de la señalización en las obras viales del estado y en las vías de jurisdicción estatal, en coordinación con las autoridades competentes y en términos de las disposiciones aplicables;
 
@@ -1975,7 +1977,7 @@ Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el P
 
 P.O. 6 DE DICIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
 
@@ -2000,3 +2002,11 @@ SÉPTIMO. Todo instrumento legal, jurídico o administrativo y norma en sentido 
 OCTAVO. Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley, pasen de una dependencia a otra se respetarán en términos de la Ley de los Trabajadores al Servicio del Estado, así como de los lineamientos para el Servicio Civil de Carrera vigentes.
 
 NOVENO. El Gobernador dentro los sesenta días naturales a partir de la entrada en vigor de la presente Ley, expedirá las reformas a los reglamentos interiores correspondientes y en tanto no se expidan las mismas, se seguirán aplicando las disposiciones vigentes en todo aquello que no contravenga este Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 42 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado, y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
