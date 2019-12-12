@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2019-12-03"
+last_updated: "2019-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -921,9 +921,9 @@ e) De Asuntos Patrimoniales y Municipales.
 
 3. Si por causa extraordinaria el Congreso suspende sus sesiones o culmina el periodo ordinario sin haber electo a la Diputación Permanente, actuará como tal la última Mesa Directiva del Congreso.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2019)</small>
 
-4. El Grupo Parlamentario que por sí mismo tenga la mayoría absoluta contará con cuatro de los siete Diputados que conforman la Diputación Permanente, el Grupo Parlamentario que tenga la segunda mayoría contará con dos Diputados en su integración, el séptimo Diputado corresponderá a una de las agrupaciones por afiliación partidista que se determine incluir en la propuesta y que no constituya Grupo Parlamentario, con base en los acuerdos que se produzcan para ese efecto por la Junta de Coordinación Política; dos de los Suplentes corresponderán uno para cada uno de los Grupos Parlamentarios que cuenten con la primera y segunda mayoría en la integración de este órgano legislativo, quienes actuarán en suplencia de cualquiera de los miembros de sus respectivos Grupos Parlamentarios, y un tercer suplente del séptimo Diputado corresponderá a cualquiera de las agrupaciones por afiliación partidista que no constituya Grupo Parlamentario, también con base en los acuerdos conducentes.
+4. El Grupo Parlamentario que por sí mismo tenga la mayoría absoluta contará con cuatro de los siete Diputados que conforman la Diputación Permanente, el Grupo Parlamentario que tenga la segunda mayoría contará con dos Diputados en su integración, el séptimo Diputado corresponderá a una de las agrupaciones por afiliación partidista que se determine incluir en la propuesta con base en los acuerdos que se produzcan para ese efecto por la Junta de Coordinación Política y privilegiando en su caso la que tenga un mayor número de integrantes; dos de los Suplentes corresponderán uno para cada uno de los Grupos Parlamentarios que cuenten con la primera y segunda mayoría en la integración de este órgano legislativo, quienes actuarán en suplencia de cualquiera de los miembros de sus respectivos Grupos Parlamentarios, y un tercer suplente del séptimo Diputado corresponderá a cualquiera de las agrupaciones por afiliación partidista restantes que se determine, con base en los acuerdos conducentes.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2016)</small>
 
@@ -3342,6 +3342,14 @@ El presente Decreto entrará en vigor a partir de su expedición y deberá publi
 P.O. 3 DE DICIEMBRE DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LXIV-10 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 65, PÁRRAFO PRIMERO; Y 93, PÁRRAFO SEGUNDO, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIV-11 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 53, PÁRRAFO 4, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
