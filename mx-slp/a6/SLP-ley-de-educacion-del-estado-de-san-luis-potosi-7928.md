@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2019-10-23"
+last_updated: "2019-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -861,9 +861,17 @@ I.- Propósitos de formación general, adquisición de habilidades y destrezas c
 
 II.- Contenidos fundamentales de estudio, organizados en asignaturas u otras unidades de aprendizaje, que como mínimo, el educando deba acreditar para cumplir con los propósitos de cada nivel educativo;
 
-III.- Secuencias indispensables que deben respetarse entre las asignaturas o unidades de aprendizaje, que constituyan un nivel educativo; y
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
 
-IV.- Criterios y procedimientos de evaluación y acreditación, para verificar que el educando cumple los propósitos de cada nivel educativo.
+III.- Secuencias indispensables que deben respetarse entre las asignaturas o unidades de aprendizaje, que constituyan un nivel educativo;
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+IV.- Criterios y procedimientos de evaluación y acreditación, para verificar que el educando cumple los propósitos de cada nivel educativo, y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+V.- La inclusión de los elementos del Programa Estatal de Educación Ambiental, bajo los términos y principios contenidos en la Ley Ambiental del Estado de San Luis Potosí.
 
 Los programas de estudio fijan los propósitos específicos de aprendizaje y determinan el orden y distribución de los contenidos educativos mínimos de cada grado, área o asignatura de un ciclo escolar, así como los criterios y procedimientos que servirán de base para su evaluación y acreditación.
 
@@ -2544,5 +2552,13 @@ P.O. 23 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0280.- SE REFORMA EL ARTÍCULO 75 EN SU FRACCIÓN IV BIS, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0324.- SE ADICIONA AL ARTÍCULO 143 BIS LOS PÁRRAFOS SEGUNDO A SÉPTIMO DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA Y ADICIONA EL ARTÍCULO 42 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
