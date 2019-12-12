@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fiscalizacion-superior-del-estado-de-durango-22984"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-30"
-last_updated: "2019-06-23"
+last_updated: "2019-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -285,7 +285,9 @@ Son atribuciones del Auditor Superior las siguientes:
 
 I. Representar legalmente a la Entidad e intervenir en toda clase de juicios en que éste sea parte. No podrá absolver posiciones y sólo estará obligado a rendir declaración, siempre que las preguntas se formulen por medio de oficio expedido por autoridad competente, las que contestará por escrito dentro del término que señale la ley;
 
-II. Elaborar el proyecto de presupuesto anual de la Entidad y remitirlo al Congreso por conducto de la Gran Comisión, a más tardar el último día del mes de octubre, para su inclusión en el Proyecto de Presupuesto que se presenta a la Secretaría, para la elaboración de la iniciativa de ley de egresos del Estado;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+II. Elaborar el proyecto de presupuesto anual de la Entidad y remitirlo al Congreso por conducto de la Junta de Gobierno y Coordinación Política, a más tardar el último día del mes de octubre, para su inclusión en el Proyecto de Presupuesto que se presenta a la Secretaría, para la elaboración de la iniciativa de ley de egresos del Estado;
 
 III. Administrar los bienes y recursos a cargo de la Entidad, resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios, sujetándose a lo dispuesto en las leyes de la materia, así como gestionar la incorporación y destino o desincorporación de bienes inmuebles del dominio público del Estado, afectos a su servicio;
 
@@ -333,11 +335,15 @@ Corresponde originalmente al Auditor Superior, el trámite y resolución de los 
 
 Para el mejor desempeño de sus funciones, la Entidad contará con las Auditorías Generales y dependencias necesarias para el desarrollo de la fiscalización superior, como dependencias subalternas, las que, a su vez, contarán con los servidores públicos estrictamente necesarios para el cumplimiento de sus funciones, debiendo precisarse su estructura en el reglamento Interior de conformidad con el presupuesto autorizado; el personal adscrito a la entidad deberá en todo caso cumplir los principios de imparcialidad, profesionalismo y objetividad, por tanto deberán incorporarse al servicio civil de carrera.
 
-Los titulares de las Auditorías Generales, deberán cumplir los mismos requisitos exigidos para ser Auditor Superior y serán designados por la Gran Comisión, con el voto de la mayoría de sus integrantes, a propuesta del Auditor Superior.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+Los titulares de las Auditorías Generales, deberán cumplir los mismos requisitos exigidos para ser Auditor Superior y serán designados por la Junta de Gobierno y Coordinación Política, con el voto de la mayoría de sus integrantes, a propuesta del Auditor Superior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 13.
 
-En caso de falta definitiva, renuncia o remoción del Auditor Superior, la Comisión informará al Congreso para que éste designe a quien deba sustituirle, conforme al procedimiento previsto en el artículo 9 de esta ley. En tanto el Congreso lo designa, fungirá en calidad de encargado, el servidor público subalterno que señale el Reglamento Interior.
+En caso de falta definitiva, renuncia o remoción del Auditor Superior, la Comisión informará al Congreso para que éste designe a quien deba sustituirle, conforme al procedimiento previsto en el artículo 9 de esta ley. En tanto el Congreso lo designa, tratándose de renuncia o remoción, fungirá en calidad de encargado, el servidor público subalterno que señale el Reglamento Interior; en caso de falta definitiva o conclusión del encargo la Junta de Gobierno y Coordinación Política del H. Congreso del Estado designará al Auditor Superior Interino cuyo nombramiento no podrá exceder de 120 días.
 
 El Auditor Superior será suplido en sus ausencias temporales, que no excederán de 30 días naturales y de las que deberá dar aviso al Congreso por conducto de la Comisión, por el servidor público que señale el Reglamento Interior de la Entidad. Si la ausencia es mayor, se considerará falta definitiva.
 
@@ -365,7 +371,9 @@ IV. Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, 
 
 V. Conducirse con parcialidad en el proceso de revisión de las Cuentas Públicas y en los procedimientos de fiscalización, así como en el cumplimiento de las disposiciones de esta ley.
 
-Los Auditores Generales, podrán ser removidos también por las causas graves a que se refiere este artículo, por la Gran Comisión.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+Los Auditores Generales, podrán ser removidos también por las causas graves a que se refiere este artículo, por la Junta de Gobierno y Coordinación Política.
 
 ### CAPÍTULO III. DE LA COMISIÓN
 
@@ -906,3 +914,11 @@ SEGUNDO. La presentación de las declaraciones patrimoniales y de intereses se s
 TERCERO. Los servidores públicos pertenecientes al Poder Legislativo, deberán rendir su declaración patrimonial y de intereses ante la Entidad de Auditoría Superior de Estado, hasta en tanto dicho Poder crea su órgano de control interno; los servidores públicos adscritos a la Entidad de Auditoría Superior deberán rendir su declaración patrimonial y de intereses ante su propio órgano de control interno.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 252.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día 14 de diciembre de 2019, previa publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
