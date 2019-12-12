@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2019-10-22"
+last_updated: "2019-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -160,6 +160,10 @@ XXII. Deterioro Ambiental: la alteración de las relaciones de interdependencia 
 XXIII. Disposición Final: acción de depositar o confinar permanentemente residuos en sitios e instalaciones, cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población, a los ecosistemas y sus elementos;
 
 XXIV. Ecosistema: la comunidad de diferentes especies que interactúan entre sí y con los factores físicos y químicos que conforman su entorno no vivo;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+XXIV Bis. Educación Ambiental: proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente, a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, conciencia ambiental, conductas y competencias tecnológicas para el desarrollo de ecotecnias, con el propósito de lograr la protección al medio ambiente, y de garantizar la preservación de la vida;
 
 XXV. Elementos Antrópicos: todos los elementos materiales, como herramientas, construcciones y productos hechos o transformados por la actividad social y cultural;
 
@@ -1791,13 +1795,17 @@ VIII. La incineración de residuos sólidos urbanos y de residuos de manejo espe
 
 IX. El uso de popotes plásticos para el consumo de bebidas en establecimientos comerciales y mercantiles.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2019)</small>
 
-Las disposiciones establecidas en los artículos, 104 fracción V inciso c), y 107 fracción IX, de esta Ley, no son aplicables en el uso de bolsas de empaque o productos de origen, para conservación de alimentos, para uso médico, y cien por ciento biodegradables y compostables.
+Las disposiciones establecidas en los artículos, 104 fracción V inciso c), y 107 fracción IX, de esta Ley, no son aplicables en el uso de bolsas de empaque o productos de origen, para conservación de alimentos, para uso médico, y cien por ciento biodegradables o compostables.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2019)</small>
 
-No se sancionará a aquellos establecimientos comerciales y mercantiles que proporcionen para el acarreo de los productos, bolsas reutilizables o desechables cuando éstas sean cien por ciento compostables y biodegradables, en los términos de lo descrito en la fracción VI del artículo 47 de esta Ley.
+No se sancionará a aquellos establecimientos comerciales y mercantiles que proporcionen para el acarreo de los productos, bolsas reutilizables o desechables cuando éstas sean cien por ciento compostables o biodegradables, en los términos de lo descrito en la fracción VI del artículo 47 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+Para los efectos de esta Ley, biodegradable es lo que se descompone con elementos químicos naturales por acción de agentes biológicos, como el sol, el agua, las bacterias, las plantas o los animales. En tanto que lo compostable implica que el material se degrada biológicamente, produciendo bióxido de carbono, agua, compuestos orgánicos o biomasa, a la misma velocidad que el resto de materia orgánica que se está compostando con éste, sin dejar residuos tóxicos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2009)</small>
 
@@ -2476,6 +2484,30 @@ Asimismo, promoverá la difusión de programas de cultura y educación ambiental
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2018)</small>
 
 ARTICULO 143 BIS. El Gobierno del Estado, a través de la SEGAM, y la SEGE, elaborará, instaurará y difundirá el Programa Estatal de Educación Ambiental para el Desarrollo Sustentable; el cual deberá establecer una educación ambiental desde el nivel básico hasta el nivel medio superior, instaurando en cada una de las escuelas el respeto al medio ambiente como uno de los valores máximos. Además, de incluir en las asignaturas relacionadas, temas de importancia que fomenten la preservación del medio ambiente.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+El Programa Estatal Ambiental deberá incluir los siguientes elementos de forma enunciativa, más no limitativa:
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+I. Educación ambiental formal e informal;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+II. Desarrollo sustentable y recursos naturales;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+III. Sensibilización ambiental;
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+IV. Cambio climático, y
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2019)</small>
+
+V. Actividades prácticas.
 
 (REUBICADO, P.O. 19 DE JUNIO DE 2012)
 
@@ -3427,7 +3459,31 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 22 DE OCTUBRE DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO 0273.- SE REFORMAN LOS ARTÍCULOS 7° Y 8°; Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 7° Y 8° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0273.- SE REFORMAN LOS ARTÍCULOS 7° Y 8°; Y ADICIONAN FRACCIONES A LOS ARTÍCULOS 7° Y 8° DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0323.- SE REFORMA Y ADICIONA EL ARTÍCULO 107 DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0324.- SE ADICIONA AL ARTÍCULO 143 BIS LOS PÁRRAFOS SEGUNDO A SÉPTIMO DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA Y ADICIONA EL ARTÍCULO 42 DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0325.- SE ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XXIV BIS DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
