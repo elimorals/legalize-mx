@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-mejora-regulatoria-del-estado-de-yucatan-113950"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-09"
-last_updated: "2019-07-31"
+last_updated: "2019-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 9 de abril de 2016.
 
@@ -726,3 +726,51 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 12 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 134/2019 POR EL QUE SE EMITE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Abrogación de la ley
+
+Se abroga la Ley de Mejora Regulatoria del Estado de Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán el 9 de abril de 2016.
+
+Tercero. Órganos colegiados de mejora regulatoria
+
+El Consejo Estatal de Mejora Regulatoria de Yucatán y los consejos municipales de mejora regulatoria deberán instalarse en un plazo que no exceda de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Lo dispuesto en el párrafo anterior no será aplicable para los órganos colegiados de mejora regulatoria, tanto estatales como municipales, creados previo a la entrada en vigor de este decreto que incluyan participación ciudadana y su integración y atribuciones se apeguen a lo previsto en la Ley General de Mejora Regulatoria y en este decreto, los cuales podrán continuar ejerciendo sus funciones, sin necesidad de llevar a cabo una nueva integración o sesión de instalación.
+
+Cuarto. Designación de las autoridades de mejora regulatoria
+
+El gobernador del estado deberá designar a la autoridad de mejora regulatoria estatal dentro de un plazo de treinta días, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Designación de comisionados municipales
+
+Los presidentes municipales deberán designar a los comisionados municipales de mejora regulatoria dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+Sexto. Adecuaciones normativas
+
+Los sujetos obligados en términos de esta ley, en un plazo de un año, contado a partir de la entrada en vigor de este decreto, deberán expedir o, en su caso, modificar las disposiciones normativas que sean necesarias para darle pleno cumplimiento.
+
+Séptimo. Referencias a la manifestación de impacto regulatorio
+
+Cuando en las disposiciones legales o normativas se haga referencia a la manifestación de impacto regulatorio, se entenderá que se refieren, en todos los casos, al análisis de impacto regulatorio.
+
+Octavo. Plazo para la implementación de las herramientas de mejora regulatoria
+
+La implementación de las herramientas de mejora regulatoria a que se refiere esta ley se hará de forma gradual, en consideración de la complejidad de las herramientas y la capacidad técnica, operativa y presupuestal de los sujetos obligados, pero deberá concluirse en un plazo de dos años, contado a partir de la entrada en vigor de este decreto, salvo en el caso de aquellas cuyo cumplimiento se encuentre sujeto a la entrada en vigor de lineamientos y demás normas administrativas generales que ordena expedir la Ley General de Mejora
+
+Regulatoria, que serán exigibles cuando así lo establezcan dichas disposiciones.
+
+Noveno. Previsión presupuestal
+
+La Secretaría de Administración y Finanzas y su equivalente en los ayuntamientos, deberán realizar las adecuaciones presupuestales necesarias para dar cumplimiento a lo previsto en este decreto.
+
+Décimo. Manifestaciones de impacto regulatorio
+
+Las manifestaciones de impacto regulatorio presentadas por las autoridades con anterioridad a la entrada en vigor de esta ley, serán concluidas conforme a las disposiciones aplicables vigentes a la fecha de su presentación.
