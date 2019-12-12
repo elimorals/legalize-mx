@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transporte-del-estado-de-yucatan-14429"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-15"
-last_updated: "2019-07-31"
+last_updated: "2019-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Diario Oficial del estado de Yucatán, el sábado 15 de Mayo de 1999.
 
@@ -53,17 +53,21 @@ Las disposiciones de esta Ley son de orden público e interés social y rigen en
 
 Es objeto de esta Ley regular el servicio de transporte, tanto público como particular, en sus diferentes tipos, y los servicios auxiliares de éstos.
 
+> <small>(REFORMADO, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 3.
 
-El servicio de transporte, tanto público como particular, que se preste en el Estado, garantizará la satisfacción de las necesidades de traslado de personas y de bienes en las condiciones económicas y sociales más convenientes, bajo las premisas de generalidad, regularidad, seguridad y eficiencia.
+El servicio de transporte, tanto público como particular, que se preste en el Estado, garantizará la satisfacción de las necesidades de traslado de personas y de bienes en las condiciones económicas y sociales más convenientes, bajo las premisas de generalidad, regularidad, seguridad, eficiencia e igualdad.
 
 ###### ARTÍCULO 4.
 
 Corresponde al Ejecutivo del Estado la aplicación de las disposiciones de esta Ley y su Reglamento.
 
+> <small>(REFORMADO, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 5.
 
-Son sujetos de esta Ley las personas físicas o morales que pretendan efectuar o efectúen servicios de transporte público o particular en el Estado, de conformidad con las disposiciones de esta Ley, su reglamento y demás disposiciones legales aplicables.
+Son sujetos de esta ley las personas físicas o morales que pretendan efectuar o efectúen servicios de transporte público o particular en el Estado, o que lo reciban como usuarios, de conformidad con las disposiciones de la misma, su reglamento y demás disposiciones legales aplicables.
 
 ###### ARTÍCULO 6.
 
@@ -89,7 +93,9 @@ b).La carga es propiedad de las personas físicas o morales que realizan el tran
 
 VI. Concesión: Acto de la administración pública estatal en virtud del cual se otorga a una persona física o moral, mediante determinados requisitos y condiciones, el derecho de prestar un servicio de transporte, sea público o particular en cualquiera de sus tipos;
 
-VII. Concesionario: Es la persona física o moral que cuenta con el derecho que otorga el Ejecutivo del Estado para explotar un servicio público de transporte;
+> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
+VII. Concesionario: Es la persona física o moral que cuenta con el derecho que otorga el Ejecutivo del Estado para prestar el servicio público de transporte.
 
 VIII. Permiso: Es la autorización que otorga la autoridad competente para la realización de una o varias acciones determinadas, relativas al servicio particular de transporte de conformidad con lo dispuesto en esta Ley;
 
@@ -115,13 +121,17 @@ XIV. Plataforma tecnológica: la plataforma o aplicación informática mediante 
 
 XV. Empresa de redes de transporte: la persona moral que, basándose en el desarrollo de las tecnologías de los teléfonos inteligentes y los sistemas de posicionamiento global, promueva, administre u opere la plataforma tecnológica en el estado, ya sea directamente o a través de una filial, subsidiaria o empresa relacionada, en virtud de acuerdos comerciales que tenga celebrados y en vigor;
 
-> <small>(ADICIONADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
 
-XVI. Constancia: el documento, expedido por el Titular del Ejecutivo del Estado, mediante el cual se autoriza a una empresa de redes de transporte para promover, administrar u operar plataformas tecnológicas, y
+XVI. Constancia: el documento, expedido por el Titular del Ejecutivo del Estado, mediante el cual se autoriza a una empresa de redes de transporte para promover, administrar u operar plataformas tecnológicas;
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
 
-XVII. Certificado vehicular: el documento, expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial, mediante el cual se autoriza a un operador, y su vehículo, para prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas.
+XVII. Certificado vehicular: el documento, expedido por el Instituto de Movilidad y Desarrollo Urbano Territorial, mediante el cual se autoriza a un operador, y su vehículo, para prestar el servicio de transporte de pasajeros contratado a través de plataformas tecnológicas, y
+
+> <small>(ADICIONADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Usuario: Es la persona física que usa el servicio de transporte prestado por un concesionario, sujeta a los derechos y obligaciones establecidas en esta ley.
 
 ###### ARTÍCULO 7.
 
@@ -173,7 +183,9 @@ III. Instrumentar las medidas encaminadas al mejoramiento del servicio de transp
 
 IV. Dictar las medidas necesarias para la renovación y la conservación del parque vehicular de los concesionarios y permisionarios;
 
-V. Disponer la implementación de las medidas necesarias, para evitar que en la prestación del servicio público de transporte, se realicen prácticas monopólicas o de competencia desleal o que atenten contra la generalidad, regularidad, seguridad y eficiencia, del mismo;
+> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
+V. Disponer la implementación de las medidas necesarias, para evitar que en la prestación del servicio público de transporte, se realicen prácticas monopólicas, de competencia desleal, o discriminatorias contra los usuarios, que atenten contra la generalidad, regularidad, seguridad, eficiencia e igualdad.
 
 VI. Ordenar la ejecución de las medidas que se consideren pertinentes para que se mantengan en buen estado las obras e instalaciones destinadas a la prestación del servicio público o particular de transporte, así como aquéllas destinadas a la seguridad de las personas y los bienes;
 
@@ -525,9 +537,17 @@ XI. Informar, mediante escrito motivado, al Instituto de Movilidad y Desarrollo 
 
 XII. Someter las unidades destinadas a la prestación del servicio público de transporte a verificación periódica, a efecto de controlar la emisión de contaminantes a la atmósfera, de acuerdo con lo que establezca la legislación en materia ambiental;
 
-XIII. Proporcionar a las autoridades de transporte toda la información que le sea requerida, para conocer y evaluar la forma de prestación de dichos servicios; y
+> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
 
-XIV. Las demás que señalen esta Ley, su reglamento, la concesión y otras disposiciones legales aplicables.
+XIII. Proporcionar a las autoridades de transporte toda la información que le sea requerida, para conocer y evaluar la forma de prestación de dichos servicios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 12 DE DICIEMBRE DE 2019)</small>
+
+XIV. Respetar los derechos de los usuarios establecidos en esta ley, y
+
+> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
+XV. Las demás que señalen esta ley, su reglamento, la concesión y otras disposiciones legales aplicables.
 
 ### CAPÍTULO II BIS. DE LA CONSTANCIA
 
@@ -731,6 +751,8 @@ IX. Entregar una copia de la póliza del seguro vehicular a que se refiere el ar
 
 ### CAPÍTULO I. DE LOS USUARIOS DEL SERVICIO DE TRANSPORTE DE PASAJEROS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
 ### CAPÍTULO II. DE LOS USUARIOS DEL SERVICIO PÚBLICO DE TRANSPORTE DE CARGA
 
 ###### ARTÍCULO 41.
@@ -783,9 +805,11 @@ VII. Muerte del titular siempre que no se hubiere designado beneficiario en el c
 
 El Ejecutivo del Estado reconocerá los derechos del beneficiario para continuar operando la concesión o permiso siempre que este se ajuste a las disposiciones de esta Ley y su reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 44.
 
-Son causas de revocación:
+Son causales de revocación de la concesión o permiso:
 
 I. No iniciar la prestación del servicio dentro del plazo señalado para tal efecto en la concesión o permiso, salvo el caso de fuerza mayor o de que la falta de cumplimiento obedezca a obstáculos insuperables ajenos a la voluntad del titular;
 
@@ -811,13 +835,17 @@ VII. No cubrir las indemnizaciones por daños que se originen con motivo de la p
 
 VIII. No cumplir con lo dispuesto en los artículos 34 y 39 de esta Ley;
 
-> <small>(REFORMADA, D.O. 22 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
 
-IX. Prestar un servicio distinto del autorizado, y
+IX. Prestar un servicio distinto del autorizado;
 
-> <small>(F. DE E., P.O. 23 DE SEPTIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
 
-X. Cometer infracciones graves en más de dos ocasiones a las disposiciones establecidas en esta Ley, su reglamento y la concesión, que no sean causas específicas de revocación, de conformidad con lo señalado en las fracciones anteriores.
+X. Violar reiteradamente alguno de los derechos del usuario establecidos en el artículo 77 de esta ley, y
+
+> <small>(REFORMADA, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
+XI. Cometer infracciones graves en más de dos ocasiones a las disposiciones establecidas en esta ley, su reglamento y la concesión, que no sean causas específicas de revocación, de conformidad con las fracciones anteriores.
 
 > <small>(REFORMADO, D.O. 22 DE JUNIO DE 2016)</small>
 
@@ -1009,7 +1037,7 @@ En el caso del servicio de transporte foráneo de pasajeros, sólo se permitirá
 
 ###### ARTÍCULO 74.
 
-Los usuarios tienen derecho a que el servicio público de transporte de pasajeros, se preste en forma regular, continua y permanente en las mejores condiciones de seguridad, comodidad, higiene y eficacia. Cualquier persona puede, previo pago de la tarifa autorizada, hacer uso de éste servicio, salvo en los siguientes casos:
+Los usuarios tienen derecho a recibir el servicio público de transporte en forma regular, continua y permanente, en condiciones de seguridad, comodidad, higiene, respeto e igualdad. Cualquier persona puede hacer uso del servicio de transporte previo pago de la tarifa autorizada, salvo en los siguientes casos:
 
 I. Encontrarse el solicitante del servicio en estado de ebriedad o bajo la influencia de estupefacientes o psicotrópicos;
 
@@ -1031,25 +1059,73 @@ II. Solicitar que el concesionario le otorgue, con todos los medios a su alcance
 
 Los usuarios del servicio público de transporte de pasajeros, no tendrán los derechos a que se refiere el artículo anterior cuando el transporte les sea proporcionado a título gratuito, con tarifas reducidas que no estén disponibles al público, o cuando se presenten fuera del tiempo fijado para salida del vehículo.
 
+> <small>(REFORMADO, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 77.
 
-Los usuarios del servicio público de transporte de pasajeros tendrán, además, los siguientes derechos:
+Los usuarios del servicio público de transporte tendrán los siguientes derechos:
 
-I. Recibir el servicio que ampara el boleto en los términos y condiciones que correspondan;
+I. A que los operadores respeten su solicitud de servicio, siempre que hagan esta en los paraderos establecidos,
 
-II. Conservar en su poder el equipaje que por su volumen y naturaleza pueda llevarse a bordo sin que ocasione molestias a los demás pasajeros ni ponga en riesgo la seguridad;
+II. Recibir el servicio de transporte, previo pago de la tarifa autorizada,
 
-III. Se les admita en el mismo vehículo por concepto de equipaje de mano y libre de cobro por cada boleto un máximo de diez kilogramos;
+III. Recibir boleto con seguro para viajero,
 
-IV. Recibir en su caso, el comprobante que ampare su equipaje en el interior del compartimento del vehículo;
+IV. El ascenso y el descenso en los paraderos autorizados,
 
-V. Recibir el importe, en caso de extravío o desperfecto, del equipaje declarado y que acredite con su comprobante respectivo, previa identificación que presente;
+V. A que el vehículo cubra todo el recorrido por la ruta autorizada,
 
-VI. Que se le pague el seguro de viajero en caso de siniestro; y
+VI. A la seguridad de la frecuencia de los autobuses, en los horarios autorizados,
 
-VII. Recibir del operador un trato amable y correcto.
+VII. A viajar con un menor de cinco años sin que este pague boleto,
 
-Los usuarios del servicio particular de transporte de pasajeros tendrán los derechos que se establecen en las fracciones II, III, VI y VII.
+VIII. A ser tratado con cortesía por parte del operador del vehículo,
+
+IX. Abordar completamente el vehículo, antes de que el operador lo ponga en movimiento.
+
+X. Descender completamente del vehículo, antes de que el operador lo ponga en movimiento,
+
+XI. Recibir el servicio en vehículos limpios,
+
+XII. Recibir el servicio en vehículos que cuenten con bancas en buen estado de conservación,
+
+XIII. A que se les respeten las tarifas autorizadas, incluyendo las preferenciales para estudiantes, adultos mayores y personas con discapacidad,
+
+XIV. A no ser discriminado al solicitar el servicio, por razones de edad, género, condición económica o aspecto físico,
+
+XV. Recibir el pago del seguro del viajero en caso de ser lesionado en accidente del vehículo que lo transporta.
+
+La violación reiterada de los derechos contenidos en el presente artículo será sancionada con retiro de las unidades de transporte, multas económicas y suspensión o revocación de la concesión o permiso, en términos de lo establecido en la presente ley y su reglamento.
+
+> <small>(ADICIONADO, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 77 BIS.- Los usuarios del servicio público de transporte tendrán las siguientes obligaciones:
+
+I. Solicitar el servicio en los paraderos autorizados;
+
+II. No ocupar los espacios designados como exclusivos para usuarios con alguna preferencia por género, edad o discapacidad;
+
+III. No proferir insultos o palabras altisonantes cuando se encuentre a bordo del vehículo;
+
+IV. No ingerir bebidas alcohólicas, substancias psicotrópicas o enervantes cuando se encuentre a bordo del vehículo;
+
+V. No realizar actos contra la moral o contra la seguridad de otros usuarios;
+
+VI. No tirar basura dentro de los vehículos;
+
+VII. No dañar, destruir o pintar los asientos de los vehículos;
+
+VIII. No faltarle al respeto al conductor del vehículo, ni a cualquiera de los demás usuarios;
+
+IX. Conservar el boleto de pago mientras se encuentre en el vehículo, así como mostrárselo a los inspectores que se lo soliciten;
+
+X. Guardar orden y compostura al estar dentro del vehículo;
+
+XI. No viajar con animales en los vehículos, con excepción de perros guías de personas con discapacidad visual, y
+
+XII. No viajar con objetos que puedan atentar contra la integridad física de los demás usuarios.
+
+En caso de la omisión de alguna de las obligaciones establecidas en este artículo, el operador podrá solicitar al usuario que abandone el vehículo.
 
 ###### ARTÍCULO 78.
 
@@ -1224,3 +1300,19 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 12 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 135/2019 POR EL QUE SE MODIFICA LA LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN, EN MATERIA DE DERECHOS DE LOS USUARIOS”.]
+
+Primero. Entrada en vigor
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Disposiciones reglamentarias
+
+El titular del Poder Ejecutivo Estatal dictará lo correspondiente a efecto de establecer en el Reglamento de la Ley de Transporte del Estado de Yucatán las disposiciones que permitan la vigencia de las disposiciones contenidas en este decreto.
+
+Tercero. Disposiciones complementarias
+
+El Instituto de Movilidad y Desarrollo Urbano Territorial del Gobierno del Estado de Yucatán deberá implementar las medidas necesarias para el cumplimiento de las disposiciones ordenadas en este decreto.
