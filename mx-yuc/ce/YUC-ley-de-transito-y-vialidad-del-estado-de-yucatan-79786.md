@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transito-y-vialidad-del-estado-de-yucatan-79786"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-22"
-last_updated: "2019-11-14"
+last_updated: "2019-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Diario Oficial del Gobierno del Estado de Yucatán, el martes 22 de febrero de 2011.
 
@@ -526,6 +526,28 @@ Se exceptúan de lo dispuesto en el primer párrafo del artículo anterior, los 
 ###### Artículo 34.
 
 Las licencias o permisos de conducir vehículos de combustión, híbridos o mixtos o eléctricos, serán suspendidos o revocados por las causas y motivos que establezcan el Reglamento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 34 Bis.
+
+La Secretaría determinará la cancelación en forma definitiva de los permisos o licencias de conducir de la persona responsable cuando éste cause un accidente de tránsito bajo los influjos del alcohol, drogas, psicotrópicos, estupefacientes u otras sustancias análogas en los niveles descritos que señala el reglamento, y que por este hecho ocasione lesiones de carácter permanente o la muerte.
+
+Dicha cancelación sin perjuicio de las sanciones civiles o penales que correspondan al conductor.
+
+> <small>(ADICIONADO, D.O. 12 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 34 Ter.
+
+Con independencia de lo establecido en el reglamento relativo a las sanciones que pudieren aplicarse a las personas que contravengan las disposiciones de tránsito y vialidad se dispondrá lo siguiente:
+
+I.- Si el conductor del vehículo presenta una tasa de alcohol en la sangre (BAC) superior a 0.080 miligramos por 100 mililitros o de alcohol en aire espirado (BrAC) superior a 0.40 miligramos/litro o se encuentren bajo el influjo de drogas, psicotrópicos, estupefacientes, u otras sustancias análogas, entre las que se incluirán, en cualquier caso, los medicamentes (sic) u otras sustancias bajo cuyo efecto se altere el estado físico o mental apropiado para conducir sin peligro, además de las sanciones y/o infracciones a las que sea acreedor el referido conductor, se procederá a la suspensión de su licencia o permiso de conducir por un lapso de tiempo de 18 meses.
+
+II.- Si el conductor del vehículo reincide por segunda ocasión en los supuestos estipulados en la fracción primera de este artículo, y se encontrare conduciendo con licencia o sin ella, además de las sanciones y/o infracciones a las que sea acreedor el referido conductor, se procederá a la suspensión de su licencia o permiso de conducir por un lapso de 3 años.
+
+III.- Si el conductor del vehículo reincide por tercera ocasión en los supuestos estipulados en la fracción primera de este artículo, y se encontrare conduciendo con licencia o sin ella, además de las sanciones y/o infracciones a las que sea acreedor el referido conductor, se procederá a la suspensión de su licencia o permiso de conducir de manera definitiva.
+
+Los conductores de vehículos destinados al servicio público de transporte, no deberán presentar ninguna cantidad de alcohol en la sangre, síntomas simples de aliento alcohólico, síntomas simples de estar bajo la influencia de enervantes, estupefacientes, psicotrópicos o sustancias análogas, y en caso de presentarlos, el conductor será remitido a la Secretaría en calidad de detenido y será sancionado de acuerdo a este artículo, a los ordenamientos y demás disposiciones legales y normativas aplicables.
 
 ### Capítulo III. De las Obligaciones de los Propietarios y Posesionarios de Vehículos
 
@@ -1166,3 +1188,11 @@ D.O. 14 DE NOVIEMBRE DE 2019.
 Artículo Primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 12 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 136/2019 POR EL QUE SE MODIFICA LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN, EN MATERIA DE CANCELACIÓN DE PERMISO Y LICENCIA DE CONDUCIR”.]
+
+Artículo Único. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
