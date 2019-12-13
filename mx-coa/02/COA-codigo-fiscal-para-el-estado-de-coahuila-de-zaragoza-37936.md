@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2019-06-25"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -829,8 +829,6 @@ IV. Ostentar la firma del funcionario competente y, en su caso, el nombre o nomb
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 40.
@@ -848,6 +846,14 @@ II. Imponer la multa que corresponda en los términos de este Código.
 III. Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente o responsable solidario, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a éstos, conforme a lo establecido en el artículo 40-A de este Código.
 
 Para lo dispuesto en esta fracción, la autoridad que practique el aseguramiento precautorio deberá levantar acta circunstanciada en la que precise de que manera el contribuyente se opuso u obstaculizó físicamente el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, y deberá observar en todo momento las disposiciones contenidas en la Sección II del Capítulo III del Título V de este Código.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En caso de que el contribuyente se encuentre desaparecido y exista denuncia, reporte o queja de su desaparición en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza, no serán procedentes las medidas de apremio durante los cinco meses siguientes a la presentación de aquellas, salvo que concluido este término, se promueva el procedimiento de declaración especial de ausencia hasta su resolución, de conformidad con la ley especial en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Las medidas de apremio a que se refiere este artículo, no serán procedentes cuando el contribuyente cuente con declaración especial de ausencia de conformidad con la ley especial en la materia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2209,6 +2215,14 @@ No se exigirá garantía adicional si en el procedimiento administrativo de ejec
 
 En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora conducente, de conformidad con lo dispuesto en las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En caso de que el contribuyente se encuentre desaparecido y exista denuncia, reporte o queja de su desaparición en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza, se suspenderá la ejecución del acto que determine un crédito fiscal en su contra, durante los cinco meses siguientes a la presentación de aquellas, salvo que concluido este término, se promueva el procedimiento de declaración especial de ausencia hasta su resolución, de conformidad con la ley especial en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el contribuyente cuente con declaración especial de ausencia de conformidad con la ley especial en la materia, se suspenderá la ejecución del acto que determine un crédito fiscal en su contra, hasta que sea encontrado con o sin vida.
+
 ### CAPITULO III. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 #### SECCION I. DISPOSICIONES GENERALES
@@ -2228,6 +2242,14 @@ El embargo precautorio practicado antes de la fecha en que el crédito fiscal se
 Si el particular garantiza el interés fiscal en los términos del artículo 123 de este Código, se levantará el embargo.
 
 Son aplicables al embargo precautorio a que se refiere este artículo y al previsto por el artículo 41, fracción III de este Código, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En caso de que el contribuyente adeude un crédito fiscal, se encuentre desaparecido y exista denuncia, reporte o queja de su desaparición en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza, se suspenderá su cobro durante los cinco meses siguientes a la presentación de aquellas, salvo que concluido este término, se promueva el procedimiento de declaración especial de ausencia hasta su resolución, de conformidad con la ley especial en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el contribuyente adeude créditos fiscales y cuente con declaración especial de ausencia de conformidad con la ley especial en la materia, se suspenderá su cobro ante cualquier instancia hasta que sea localizado con o sin vida.
 
 ###### ARTICULO 128.
 
@@ -2882,3 +2904,13 @@ P.O. 25 DE JUNIO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 269.- SE MODIFICA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE CONDECORACIONES Y RECONOCIMIENTOS AL VALOR Y HONOR DE LOS INTEGRANTES DE LAS FUERZAS DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA Y SUS MUNICIPIOS; DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN A TESTIGOS Y TERCEROS INVOLUCRADOS EN EL PROCESO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA EL DESARROLLO INTEGRAL DE LA JUVENTUD DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA IMPLEMENTACIÓN, SEGUIMIENTO Y EVALUACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO Y ORAL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA LOCALIZACIÓN, RECUPERACIÓN E IDENTIFICACIÓN FORENSE DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y CONTROL DEL ACOSO ESCOLAR PARA EL ESTADO DE COAHUILA; DE LA LEY PARA LA PREVENCIÓN, PROTECCIÓN, ATENCIÓN Y ASISTENCIA A LAS VÍCTIMAS Y OFENDIDOS DE LOS DELITOS EN MATERIA DE TRATA DE PERSONAS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PROTECCIÓN DE LAS PERSONAS DEFENSORAS DE DERECHOS HUMANOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY PARA LA PROTECCIÓN DE LAS Y LOS PERIODISTAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 401.- SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las personas que hayan obtenido una declaración de ausencia conforme a lo dispuesto en la Ley de Declaración de Ausencia de Personas Desaparecidas del Estado de Coahuila de Zaragoza, o una declaración especial de ausencia, conforme a lo previsto en la Ley de Declaración de Ausencia para personas Desaparecidas del Estado de Coahuila de Zaragoza, conservarán la protección de derechos en los términos de la sentencia, en concordancia con lo establecido en el régimen transitorio del Decreto 261, publicado el 28 de mayo de 2019 en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
