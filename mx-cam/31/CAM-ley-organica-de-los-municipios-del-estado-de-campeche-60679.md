@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2019-04-26"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -768,6 +768,10 @@ VI. Jefes de manzana.
 ###### ARTÍCULO 78.
 
 Corresponde a las autoridades auxiliares del Ayuntamiento mantener dentro de su jurisdicción el orden, la tranquilidad, la paz social, la seguridad y la protección de los vecinos, conforme a las atribuciones que les señala esta Ley, el Bando Municipal y los demás reglamentos municipales.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 78 BIS.- Los Ayuntamientos y sus autoridades auxiliares garantizarán a las comunidades indígenas el derecho a ser asistidos por intérpretes, traductores y defensores que tengan conocimiento de su lengua y cultura, los cuales serán proporcionados por estas instancias de manera gratuita.
 
 ### CAPÍTULO SEGUNDO. DE LAS JUNTAS MUNICIPALES
 
@@ -2493,7 +2497,7 @@ DÉCIMO.- Los Ayuntamientos dispondrán de un plazo de seis meses contados a par
 
 Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los diecinueve días del mes de febrero del año dos mil ocho.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 27 DE OCTUBRE DE 2011.
 
@@ -2588,3 +2592,13 @@ P.O. 26 DE ABRIL DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de inicio de vigencia del decreto de reformas al artículo 4° de la Constitución Política del Estado, con motivo de la creación de los Municipios de Seybaplaya y de Dzitbalché, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 88 POR EL QUE “SE ADICIONA UN ARTÍCULO 78 BIS AL CAPÍTULO PRIMERO DENOMINADO "DE LAS AUTORIDADES AUXILIARES" DEL TÍTULO CUARTO DENOMINADO "AUTORIDADES AUXILIARES DEL AYUNTAMIENTO Y ÓRGANOS DE PARTICIPACIÓN CIUDADANA" A LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el 1º de enero del año 2020, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Lo establecido en este decreto, se realizará preferentemente con el personal del que dispongan los ayuntamientos y sus autoridades auxiliares, con conocimiento de la lengua y cultura indígena de que se trate.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
