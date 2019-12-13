@@ -4,7 +4,7 @@ identifier: "COA-codigo-financiero-para-los-municipios-del-estado-de-96562"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-07"
-last_updated: "2018-07-06"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96562&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Coahuila de Zaragoza, el jueves 7 de noviembre del 2013.
 
@@ -3571,6 +3571,14 @@ I. La responsabilidad civil en que incurran quienes manejen fondos públicos del
 
 II. Las fianzas constituidas por disposición de la ley o por acuerdo de las autoridades judiciales o administrativas cuando sean exigibles y cuyo cobro ordene la autoridad competente.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En caso de que el contribuyente adeude un crédito fiscal, se encuentre desaparecido y exista denuncia, reporte o queja de su desaparición en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza, se suspenderá su cobro durante los cinco meses siguientes a la presentación de aquellas, salvo que concluido este término, se promueva el procedimiento de declaración especial de ausencia hasta su resolución, de conformidad con la ley especial en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el contribuyente adeude créditos fiscales y cuente con declaración especial de ausencia de conformidad con la ley especial en la materia, se suspenderá su cobro ante cualquier instancia hasta que sea localizado con o sin vida.
+
 ###### ARTÍCULO 424.
 
 Se suspenderá el procedimiento administrativo de ejecución durante la tramitación de los recursos administrativos o del juicio contencioso administrativo, cuando lo solicite el interesado y garantice el crédito fiscal de que se trate, los recargos y los accesorios legales. La suspensión podrá ser solicitada dentro de los quince días siguientes a la fecha en que surta efectos la notificación del acto cuya ejecución se suspende, ante la Tesorería Municipal acompañando copia sellada del escrito con el que hubiere iniciado el recurso administrativo o el juicio de que se trate.
@@ -3966,6 +3974,14 @@ En caso de conflicto, el remanente quedará depositado ante la propia ejecutora,
 Las autoridades fiscales municipales tendrán facultades para determinar que se ha cometido una infracción de las enunciadas en este capítulo y para imponer las sanciones procedentes que establezca este código.
 
 La aplicación de las sanciones administrativas que procedan, se hará sin perjuicio de que se exijan las obligaciones fiscales respectivas, y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En caso de que el contribuyente o deudor solidario tenga alguna sanción por las infracciones previstas en esta Sección, se encuentre desaparecido y exista denuncia, reporte o queja de su desaparición en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza, se suspenderá su cobro durante los cinco meses siguientes a la presentación de aquellas, salvo que concluido este término, se promueva el procedimiento de declaración especial de ausencia hasta su resolución, de conformidad con la ley especial en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el contribuyente o deudor solidario tenga alguna sanción por las infracciones previstas en esta Sección y cuente con declaración especial de ausencia de conformidad con la ley especial en la materia, se suspenderá su cobro ante cualquier instancia hasta que sea localizado con o sin vida.
 
 ###### ARTÍCULO 470.
 
@@ -4458,3 +4474,13 @@ P.O. 6 DE JULIO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el día primero de diciembre del año 2018.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 401.- SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las personas que hayan obtenido una declaración de ausencia conforme a lo dispuesto en la Ley de Declaración de Ausencia de Personas Desaparecidas del Estado de Coahuila de Zaragoza, o una declaración especial de ausencia, conforme a lo previsto en la Ley de Declaración de Ausencia para personas Desaparecidas del Estado de Coahuila de Zaragoza, conservarán la protección de derechos en los términos de la sentencia, en concordancia con lo establecido en el régimen transitorio del Decreto 261, publicado el 28 de mayo de 2019 en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
