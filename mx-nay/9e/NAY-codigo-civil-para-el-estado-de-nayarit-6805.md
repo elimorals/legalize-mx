@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2018-12-22"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -2243,11 +2243,11 @@ El obligado a dar alimentos cumple la obligación asignando una pensión compete
 
 El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 304.
 
-Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien debe recibirlos. Determinados por convenio, o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual de la UMA, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiere obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien debe recibirlos. Determinados por convenio, o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al monto de recuperación del salario mínimo general, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiere obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 ###### Artículo 305.
 
@@ -16470,3 +16470,9 @@ P.O. 22 DE DICIEMBRE DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 304 DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
