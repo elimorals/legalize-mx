@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-3730"
 country: "mx"
 rank: "ley"
 publication_date: "1993-08-10"
-last_updated: "2017-12-26"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 10 de agosto de 1993.
 
@@ -487,6 +487,14 @@ En ningún caso podrá admitirse como avalista a un trabajador o pensionado que 
 
 Los adeudos por préstamos a corto plazo que después de tres meses de su vencimiento no fuesen cubiertos por el trabajador o pensionado y que no hayan sido descontados de sus percepciones, por cualquier circunstancia, podrán ser cobrados después de agotarse las gestiones extrajudiciales, mediante la acción legal correspondiente, que deberá ejercitar el Instituto.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el trabajador cuente con resolución de declaración especial de ausencia, así como aquellos trabajadores a los que se le es (sic) haya solicitado la declaración especial de ausencia y esta se encuentre en trámite y tenga préstamos a corto plazo con el Instituto, se suspenderá su cobro hasta la localización del trabajador conforme a la ley especial de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Los préstamos a que se refiere el párrafo anterior, quedarán sin efecto, transcurridos quince años contados a partir de que concluya la licencia sin goce de sueldo que establece la fracción VIII, inciso d) del artículo 86 del Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila y la ley en materia de declaración especial de ausencia.
+
 ### CAPITULO CUARTO. DE LOS CREDITOS CON GARANTIA HIPOTECARIA
 
 ###### ARTICULO 56.
@@ -548,6 +556,14 @@ El resultado de la anterior operación, representa el porcentaje que el trabajad
 ###### ARTICULO 60.
 
 Si por separación del servicio del trabajador o por causas graves justificadas a juicio de el Instituto, no fuere cubierto el préstamo hipotecario, el deudor podrá gozar de una espera para el cumplimiento de su obligación hasta por diez meses, debiendo al término de este plazo, reanudar sus pagos, incrementando en un 5% las amortizaciones calculadas de acuerdo con el Artículo 59 de esta Ley, que al momento de la separación se encuentren pendientes de pago.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el trabajador cuente con resolución de declaración especial de ausencia o la solitud de esta se encuentre en trámite y tenga un préstamo o crédito con garantía hipotecaria con el Instituto, se suspenderá su cobro hasta la localización del trabajador conforme a la ley especial de la materia. Si el trabajador es localizado con vida, se reanudará la obligación de pago sin el incremento del 5% a que se refiere el párrafo anterior, salvo lo dispuesto en el párrafo siguiente.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+El préstamo o crédito con garantía hipotecaria, quedará sin efectos transcurridos quince años, contados a partir de que concluya la licencia sin goce de sueldo que establece la fracción VIII, inciso d) del artículo 86 del Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila.
 
 ## TITULO CUARTO. DE LOS MEDIOS DE IMPUGNACION
 
@@ -1002,3 +1018,11 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 398.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA; DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA “DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO”; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA “DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA”; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ACUÑA, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE CUATROCIÉNEGAS, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE MÚZQUIZ, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ZARAGOZA, COAHUILA DE ZARAGOZA; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
