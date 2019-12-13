@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2018-02-21"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -6717,6 +6717,14 @@ El acta de nacimiento se levantará con la asistencia de dos testigos que puedan
 
 Si el nacimiento ocurriere en un establecimiento de reclusión del Estado, el oficial del registro civil deberá asentar como domicilio del nacido, el que señalen sus padres. El oficial pondrá los apellidos paternos de los progenitores, en los términos de los artículos 34, 36 y 37.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+El Oficial del Registro Civil expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Las copias certificadas de las actas de registro de nacimiento expedidas por el Oficial del Registro Civil no tendrán caducidad, por lo que se podrán utilizar en la realización de trámites ante cualquier ente público o privado, siempre que se encuentren legibles y no presenten tachaduras, enmendaduras o cualquier aspecto que altere su contenido, o sobrevenga un cambio de nombre, de estado familiar, u otro que afecte los datos inscritos en ese documento.
+
 ###### Artículo 1130.
 
 Las actas de nacimiento se levantarán conforme a las siguientes bases:
@@ -7418,3 +7426,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para efecto de materializar la coadyuvancia que se señala en el artículo 38, fracción II de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Sinaloa, el Instituto Sinaloense de las Mujeres, la Fiscalía General del Estado y el Poder Judicial del Estado deberán celebrar convenio de coordinación dentro de los treinta días siguientes al inicio de vigencia del presente Decreto.
 
 TERCERO. Dentro del término de ciento veinte días naturales posteriores al inicio del Presente Decreto, la Fiscalía General del Estado en coordinación con el Poder Judicial deberán emitir el Protocolo de Actuación para la implementación de órdenes de protección para mujeres en situación de violencia en el Estado de Sinaloa.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 314 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONAN (SIC) LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 1129 DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
