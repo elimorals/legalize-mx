@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2016-12-28"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -3747,6 +3747,82 @@ El recurso o la demanda sólo interrumpirán los plazos de que se trata cuando l
 
 II. Por consulta entre autoridades, si de dicha consulta depende la entrega de los bienes a los interesados.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO IV. Del Procedimiento de declaratoria de abandono ante autoridades administrativas
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 251.
+
+Los bienes abandonados en beneficio del estado de Yucatán, ante autoridades distintas a las fiscales conforme a las leyes administrativas aplicables, quedarán en custodia de las autoridades encargadas de su almacenaje, junto con la documentación que justifique los actos, la cual deberá ser proporcionada a estas por las autoridades que originaron el almacenaje, para su guarda, aplicación, adjudicación, remate o venta, donación o destrucción, según proceda.
+
+Los bienes a que se refiere este artículo deberán inventariarse y mantenerse actualizado. Dicho inventario deberá cotejarse con el control administrativo a cargo del propio Gobierno estatal y, en caso de diferencias entre el control físico y administrativo, deberá darse vista al órgano de control interno correspondiente, a efecto de deslindar responsabilidades de las personas que estén a cargo de esos controles.
+
+Los bienes y valores que se encuentren a disposición de la autoridad investigadora del Ministerio Público o de las autoridades judiciales, conforme al Código Penal del Estado de Yucatán, y que hubieran causado abandono, se venderán e invertirán de conformidad con las disposiciones legales y administrativas aplicables. El procedimiento administrativo de venta estará a cargo de la Fiscalía General del Estado o del Consejo de la Judicatura. Los bienes perecederos de consumo y durables y aquellos que carezcan de valor o este sea menor a lo que pudiera costar su enajenación, podrán ser donados a instituciones de asistencia pública del estado de Yucatán, en los términos y condiciones que se establezcan, mediante acuerdo que emita la Fiscalía General del Estado o el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 252.
+
+Para los créditos fiscales inherentes a los bienes abandonados, operará de pleno derecho su cancelación sin necesidad de autorización alguna, para lo cual, la autoridad encargada del almacenaje de bienes deberá remitir la documentación respectiva a la Agencia de Administración Fiscal de Yucatán a fin de que se reconozca dicha cancelación en los registros que correspondan.
+
+No se generará el cobro de los derechos de almacenaje previstos en el artículo 55 de la Ley General de Hacienda del Estado de Yucatán, cuando se trate de bienes del Gobierno del estado a que se refiere este capítulo.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 253.
+
+Una vez que la autoridad encargada del almacenaje verifique la documentación comprobatoria que le entregue la autoridad que ordenó o solicitó el almacenaje, a fin de constatar que esta notificó al interesado que el bien quedó a su disposición a partir de que surtió efectos la notificación correspondiente, la autoridad encargada del almacenaje hará del conocimiento de la Secretaría de Administración y Finanzas esta situación, a efecto de que esta, o la unidad administrativa en quien delegue esta función, determine el destino de los bienes abandonados, que podrán ser:
+
+I. Rematados en subasta pública, conforme a lo previsto en los artículos 459, 460, 461, 463, 464, 465, 466, 476, 477 y 478 el (sic) Código de Procedimientos Civiles del Estado de Yucatán, en donde la Secretaría de Administración y Finanzas ejercerá las funciones que el referido código otorga al juez.
+
+El avalúo de los bienes será practicado por la Secretaría de Administración y Finanzas o por peritos, instituciones de crédito, agentes especializados o corredores públicos y deberán consignar, al menos, el valor comercial y el de realización inmediata.
+
+Para la realización del remate de bienes se anunciará su venta mediante la publicación de un aviso en el Diario Oficial del Gobierno del Estado de Yucatán y en, al menos, un diario de circulación estatal, así como a través de medios electrónicos, por lo menos una vez al año.
+
+En la formulación de la postura, el oferente deberá entregar, en el acto del remate, a la Secretaría de Administración y Finanzas el monto para cubrir la garantía que se fije en el aviso a que se refiere el párrafo anterior, la cual será devuelta al oferente una vez fincado el remate si este no resulta ganador o, en caso contrario, aplicada al pago del bien adjudicado.
+
+La Secretaría de Administración y Finanzas decidirá de plano conforme a las disposiciones aplicables, bajo su responsabilidad, sobre cualquier asunto que se suscite respecto al remate.
+
+II. Enajenados fuera de remate, previo dictamen de la Secretaría de Administración y Finanzas, en el que haga constar por escrito que se trata de bienes de fácil descomposición o deterioro o de materiales inflamables o no fungibles; o que su conservación resulte incosteable para el estado; o que su valor sea menor de ciento cincuenta mil unidades de inversión; o que en primer remate público no se hayan vendido; o que exista una oferta para su compra presentada por alguna entidad paraestatal o por el gobierno de algún ayuntamiento.
+
+Cuando no se trate de bienes chatarra, el valor base para la enajenación, podrá ser, el que se encuentra en la Lista de Valores Mínimos para Desechos de Bienes Muebles que Generen las Dependencias y Entidades de la Administración Pública Federal vigente, publicada en el Diario Oficial de la Federación, en casos de bienes no enlistados podrá realizar la enajenación por mejor precio ofertado.
+
+El producto obtenido por la realización de los procedimientos previstos en los incisos I y II ingresará a la Agencia de Administración Fiscal de Yucatán.
+
+III. Adjudicados a favor del estado de Yucatán, para que sean destinados para su uso en un área específica del propio Gobierno del estado, conforme a las reglas de carácter general que dicte la Secretaría de Administración y Finanzas.
+
+IV. Destruidos cuando la Secretaría de Administración y Finanzas, en acuerdo con la autoridad encargada del almacenaje de los bienes, determine que la utilidad de los bienes antes referidos sea nula y no exista la posibilidad de obtener provecho alguno por su venta o de sus residuos. La Secretaría de Administración y Finanzas podrá ordenar dicha destrucción, previa resolución debidamente justificada y el levantamiento de un acta administrativa, en la que participe, en su caso, la autoridad que ordenó o solicitó el almacenaje de los bienes y la que fungió como almacenadora, en caso de ser diferentes.
+
+En toda destrucción se deberán observar las disposiciones de seguridad, salud, protección al medio ambiente y demás que resulten aplicables.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 254.
+
+En los actos de remate, venta, adjudicación al estado de Yucatán, donación o destrucción, intervendrá un representante de la Secretaría de la Contraloría General.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 255.
+
+Para los efectos de este código, se entenderá por bienes chatarra, aquellos que se encuentren deteriorados, inservibles, destruidos, desbaratados, podridos o inutilizados permanentemente.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 256.
+
+Cuando se determine la destrucción de los bienes, la autoridad encargada de almacenarlos deberá realizar un inventario de los bienes que se encuentren en sus depósitos, bodegas o locales, el cual constará en un acta debidamente circunstanciada en presencia de fedatario público, a efecto de hacer constar el estado en que se encuentran al momento en que se practique el inventario y el deterioro que guardan.
+
+El producto de la enajenación de los vehículos remitidos a los depósitos vehiculares por los municipios, se destinará al municipio que los haya remitido, como recursos de aplicación automática, de conformidad con la normativa aplicable, para destinarlos a obras y trabajos para mejoramiento urbano del municipio, y programas ambientales.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 257.
+
+Cuando de la documentación relativa a los bienes abandonados se desprenda la existencia de impedimentos legales para disponer de ellos, la autoridad encargada de su almacenaje lo informará a la Secretaría de Administración y Finanzas para que se abstenga de continuar con los procedimientos establecidos en este capítulo, en tanto desaparece el impedimento.
+
 ARTÍCULOS TRANSITORIOS:
 
 PRIMERO. Este Código entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
@@ -3840,3 +3916,15 @@ Este decreto entrará en vigor el 1 de enero de 2017, previa publicación en el 
 Segundo. Derogación tácita.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 138/2019 POR EL QUE SE MODIFICA EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN Y LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN, EN MATERIA DE ENAJENACIÓN DE VEHÍCULOS ABANDONADOS”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Plazo para actualizar el inventario
+
+El proceso de inventario se realizará en un plazo de seis meses a partir de la entrada en vigor de este Decreto.
