@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-33-2016-del-pleno-del-consejo-de-la-115056"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2016-06-09"
-last_updated: "2019-03-06"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115056&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,9 +23,7 @@ issue_date: "2016-06-02"
 
 ACUERDO GENERAL 33/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA LOS CENTROS DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE BAJA CALIFORNIA, CON RESIDENCIA EN LAS CIUDADES DE MEXICALI Y TIJUANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2018.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 6 DE MARZO DE 2019 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL D.O.F. DE 13 DE NOVIEMBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2019.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 9 de junio de 2016.
 
@@ -87,9 +85,9 @@ IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito;
 
 V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio; y con competencia en ejecución;
 
-> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADA POR EL PUNTO SEXTO DEL ACUERDO GENERAL 29/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE DICIEMBRE DE 2019)</small>
 
-V Bis. Juez de Ejecución: Juez de Distrito especializado en el sistema penal acusatorio con competencia en ejecución, en el Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana;
+V Bis. Juez de Ejecución: Juez de Distrito especializado en el sistema penal acusatorio con competencia en ejecución, en el Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana y Mexicali;
 
 > <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2017)</small>
 
@@ -878,3 +876,15 @@ CUARTO. En materia de ejecución de sanciones penales se deberá observar lo dis
 QUINTO. Los asuntos que se encuentren ingresados en el Centro de Justicia Penal Federal en el Estado de Baja California, con residencia en Tijuana, con anterioridad a la entrada en vigor del presente Acuerdo, continuarán siendo del conocimiento de dicho Centro.
 
 SEXTO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+D.O.F. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 29/2019 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES PARA ESTABLECER LA ADSCRIPCIÓN DE LOS JUECES DE DISTRITO CON COMPETENCIA EN EJECUCIÓN, EN LOS CENTROS DE JUSTICIA PENAL FEDERAL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 15 de diciembre de dos mil diecinueve, con excepción de lo previsto en el párrafo siguiente.
+
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que los jueces de Ejecución inicien funciones en la fecha señalada en este artículo.
+
+SEGUNDO. Los jueces de Distrito con competencia en ejecución conocerán y resolverán los procedimientos de ejecución dentro del nuevo sistema de justicia penal, en la competencia del Centro de Justicia respectivo, tanto de aquellos que se inicien a partir de su adscripción, como de los que se encuentran en trámite en el respectivo Centro.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
