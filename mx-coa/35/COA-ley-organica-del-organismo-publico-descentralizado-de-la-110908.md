@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-organismo-publico-descentralizado-de-la-110908
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-12-29"
-last_updated: "2019-09-13"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 29 de diciembre de 2015.
 
@@ -1147,6 +1147,14 @@ De no existir beneficiarios de pensionados o jubilados el adeudo se considerará
 
 El Organismo, para hacer efectivos los préstamos que conceda, independientemente de poder hacer el descuento en las nóminas quincenales, se reserva el derecho de ejercer, para su cobro, las vías que procedan conforme a la Ley.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el trabajador cuente con resolución de declaración especial de ausencia o la solitud de esta se encuentre en trámite y tenga adeudos por préstamos, se suspenderá su cobro hasta su localización, de conformidad con la ley especial en la materia, salvo lo dispuesto en el párrafo siguiente.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Los préstamos a que se hace referencia en el primer párrafo del presente artículo, quedarán sin efectos transcurridos quince años contados a partir de que concluya la licencia sin goce de sueldo que establece la fracción IX, del artículo 294 del Código Municipal para el Estado de Coahuila de Zaragoza.
+
 ###### ARTÍCULO 94.
 
 Los periodos de licencia sin goce de sueldo del servidor público teniendo éste préstamo quirografario, se descontarán a su aval por el periodo de su ausencia.
@@ -1544,3 +1552,11 @@ P.O. 13 DE SEPTIEMBRE DE 2019.
 PRIMERO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 SEGUNDO.- Se derogan (sic) cualquier disposición contraria al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 398.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA; DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA "DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO"; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA "DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA"; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ACUÑA, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE CUATROCIÉNEGAS, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE MÚZQUIZ, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ZARAGOZA, COAHUILA DE ZARAGOZA; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
