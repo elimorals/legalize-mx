@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-de-la-educacion-al-1023
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-09-02"
-last_updated: "2016-08-09"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 2 de septiembre de 2014.
 
@@ -451,6 +451,18 @@ VII.- Hacer las deducciones que solicite la Sección Sindical siempre que se aju
 
 VIII.- Otorgar permiso de paternidad de diez días laborables con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de la adopción de un infante, en este último caso el derecho corresponderá en igualdad de condiciones para hombres o mujeres.
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+IX.- Conceder licencia sin goce de sueldo cuando el trabajador cuente con Declaración Especial de Ausencia, de conformidad con la ley especial en la materia; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+X.- Con goce de sueldo cuando el trabajador sea familiar de una persona desaparecida y deba ausentarse de su centro de trabajo para la realización de trámites, gestiones o diligencias ante cualquier autoridad administrativa o jurisdiccional, debidamente acreditados, así como organizaciones de derechos humanos o de protección a víctimas conocidas en el ámbito estatal, nacional o internacional.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 13 DE DICIEMBRE DE 2019.]</small>
+
+Para efectos de esta fracción, se entiende por familiar y persona desaparecida lo que establece la fracción IX y XVII respectivamente, del artículo 4 de la Ley en Materia de Personas Desaparecidas del Estado de Coahuila de Zaragoza.
+
 ###### ARTÍCULO 38.
 
 Son obligaciones de la Secretaría de Educación, respecto de los trabajadores de base no docentes, así como para aquellos no contemplados por la Ley del Servicio Profesional Docente, las siguientes:
@@ -520,6 +532,14 @@ Q).- Las vacantes temporales de plazas no docentes y las de aquellos no contempl
 R).- Las vacantes temporales de plazas no docentes y las de aquellos no contemplados por la Ley del Servicio Profesional Docente, mayores de seis meses serán las que se originen por licencias otorgadas a un trabajador de base; y
 
 S).- El procedimiento para resolver las permutas de empleos, así como las inconformidades de los trabajadores afectados por trámites o movimientos escalafonarios, será previsto en las normatividad correspondiente.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 38 BIS.- Los beneficiarios del trabajador que tenga la calidad de persona desaparecida de conformidad con la ley de la materia, durante los cinco meses siguientes a la fecha de la presentación de la denuncia, reporte o queja de su desaparición, conservarán el derecho a recibir la asistencia médica, de maternidad, quirúrgica, farmacéutica y hospitalaria que sea necesaria, en términos de las disposiciones aplicables., (sic) salvo que las leyes dispongan lo contrario.
+
+Si se promueve el procedimiento de declaración especial de ausencia ante la autoridad competente, en los términos establecido (sic) por la ley especial en la materia, continuarán conservando los derechos a que se refiere este artículo hasta su conclusión.
+
+Cuando a favor del trabajador, se decrete la declaración especial de ausencia, sus beneficiarios conservarán los derechos previstos en el primer párrafo de este artículo, en términos de la ley especial en la materia.
 
 ## TÍTULO CUARTO. DEL SERVICIO PROFESIONAL DOCENTE
 
@@ -600,6 +620,14 @@ Los trabajadores de confianza podrán ser cesados de sus cargos en cualquier mom
 El trabajador que sea separado injustificadamente de su trabajo podrá solicitar al Tribunal de Conciliación y Arbitraje que se le reinstale en el trabajo que desempeñaba, o que se le indemnice con el importe de tres meses de su salario.
 
 Por lo que respecta al incumplimiento de las obligaciones previstas en la Ley General del Servicio Profesional Docente a los sujetos obligados a ella, se regirán por el procedimiento establecido en la misma Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Queda prohibido a las dependencias dar de baja o terminar la relación laboral de los trabajadores de la educación que tengan la calidad de personas desaparecidas, siempre que exista denuncia, reporte o queja, en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza y únicamente durante los cinco meses siguientes a la presentación de aquellas, salvo que concluido el plazo se promueva el procedimiento de declaración especial de ausencia, caso en el cual continuará la prohibición.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En el caso del párrafo anterior, se tendrá al trabajador con licencia sin goce de sueldo.
 
 ## TÍTULO SEXTO. DE LA ORGANIZACIÓN COLECTIVA DE LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -870,6 +898,22 @@ I.- Contra los incapacitados mentales, sino cuando se haya discernido su tutela 
 II.- Contra los trabajadores incorporados al servicio militar en tiempo de guerra y que por alguno de los conceptos contenidos en este Estatuto se hayan hecho acreedores a indemnización.
 
 III.- Contra la Secretaría de Educación, en el caso de la fracción II inciso a) del artículo 76 de éste Estatuto, hasta en tanto los representantes legales tengan conocimiento formal de la causa o causas que motiven la suspensión, cese, terminación de nombramiento y disciplinar las faltas.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+IV.- Contra los trabajadores que cuenten con Declaración Especial de Ausencia, de conformidad con la ley especial en la materia.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+V.- Contra los trabajadores que tengan denuncia, reporte o queja de desaparición de conformidad con la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza y demás disposiciones aplicables, únicamente durante los cinco meses siguientes contados a partir de la fecha de su interposición.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+VI.- Si se promueve el procedimiento de declaración especial de ausencia ante la autoridad competente, en los términos establecidos por la ley especial en la materia.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 13 DE DICIEMBRE DE 2019.]</small>
+
+Una vez concluido el procedimiento en definitiva, sin que se decrete la declaración especial de ausencia solicitada, la prescripción comenzará o continuará corriendo en su caso.
 
 ###### ARTÍCULO 79.
 
@@ -1228,5 +1272,13 @@ P.O. 9 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NO. 485 POR EL QUE “SE MODIFICA EL ARTÍCULO 4 DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 398.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA; DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA “DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO”; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA “DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA”; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ACUÑA, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE CUATROCIÉNEGAS, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE MÚZQUIZ, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ZARAGOZA, COAHUILA DE ZARAGOZA; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
