@@ -4,7 +4,7 @@ identifier: "COA-ley-de-victimas-para-el-estado-de-coahuila-de-zaragoza-100658"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2019-12-06"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 2 de mayo de 2014.
 
@@ -199,7 +199,13 @@ g. Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodis
 
 h. Ley General de Salud; y
 
-i. Las demás que expida el Congreso de la Unión.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+i. Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+j. Las demás que expida el Congreso de la Unión.
 
 II. Leyes Estatales, tales como:
 
@@ -215,9 +221,23 @@ e. Ley para Prevenir y Sancionar la Tortura en el Estado de Coahuila de Zaragoza
 
 f. Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza; y
 
-g. Las demás que expida el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+g. Ley en Materia de Desaparición de Personas para el Estado de Coahuila de Zaragoza;
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+h. Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+i. Las demás que expida el Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
 III. Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+IV. Ley Federal de Declaración Especial de Ausencia para Personas Desaparecidas.
 
 ###### Artículo 9.
 
@@ -627,6 +647,10 @@ IV. Garantizar la reparación del daño a la víctima del delito, además de los
 
 V. Que el Ministerio Público dicte o solicite desde el inicio de la investigación y durante el ejercicio de la acción penal, las medidas necesarias a efecto de recabar pruebas suficientes para acreditar los daños y perjuicios causados a la víctima u ofendido del delito, incluyendo la fijación del monto de la reparación material y moral, así como solicitar el aseguramiento y embargo precautorio de bienes para ese efecto.
 
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+VI. En los casos de desaparición forzada de personas y desaparición cometida por particulares, solicitar y dar seguimiento hasta su resolución del procedimiento para la declaración especial de ausencia.
+
 ### CAPÍTULO NOVENO. MEDIDAS ECONÓMICAS Y DE DESARROLLO
 
 ###### Artículo 37.
@@ -659,7 +683,9 @@ Las medidas de atención y asistencia en materia de procuración y administraci�
 
 I. La asistencia a la víctima durante cualquier procedimiento administrativo relacionado con su condición de víctima;
 
-II. La asistencia a la víctima en el proceso penal durante la etapa de investigación;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+II. La asistencia a la víctima en el proceso penal durante la etapa de investigación; en los casos de desaparición forzada de personas y desaparición cometida por particulares la asistencia a la Víctima durante el proceso de declaración Especial de ausencia;
 
 III. La asistencia a la víctima durante el juicio; y
 
@@ -2071,7 +2097,9 @@ I. Asistir y asesorar a la víctima desde el primer momento en que tenga contact
 
 II. Representar a la víctima de manera integral en todos los procedimientos y juicios en los que sea parte, para lo cual deberá realizar todas las acciones legales tendientes a su defensa, incluyendo las que correspondan en materia de derechos humanos tanto en el ámbito nacional como internacional;
 
-III. Proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar, laboral y administrativa;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+III. Proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar, laboral, administrativa y de declaración especial de ausencia;
 
 IV. Informar a la víctima, respecto al sentido y alcance de las medidas de protección, ayuda, asistencia, atención, y reparación integral, y, en su caso, tramitarlas ante las autoridades judiciales y administrativas;
 
@@ -2087,7 +2115,13 @@ IX. Tramitar y entregar copias de su expediente a la víctima, en caso de que é
 
 X. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando el Asesor Jurídico Estatal de las Víctimas considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público, y
 
-XI. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XI. Iniciar a solicitud de persona facultada el procedimiento de Declaración Especial de Ausencia, así como dar seguimiento hasta el cumplimiento de la resolución que se emita, conforme a la ley especial de la materia.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XII. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
 
 ###### Artículo 147.
 
@@ -2440,3 +2474,13 @@ P.O. 6 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 401.- SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las personas que hayan obtenido una declaración de ausencia conforme a lo dispuesto en la Ley de Declaración de Ausencia de Personas Desaparecidas del Estado de Coahuila de Zaragoza, o una declaración especial de ausencia, conforme a lo previsto en la Ley de Declaración de Ausencia para personas Desaparecidas del Estado de Coahuila de Zaragoza, conservarán la protección de derechos en los términos de la sentencia, en concordancia con lo establecido en el régimen transitorio del Decreto 261, publicado el 28 de mayo de 2019 en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
