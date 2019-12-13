@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-492-de-hacienda-municipal-del-estado-de-guerrero-124
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-01"
-last_updated: "2017-12-01"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 492 DE HACIENDA MUNICIPAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 1 de diciembre de 2017.
 
@@ -707,19 +707,29 @@ Los adquirientes de predios afectos al pago de derechos de cooperación que se e
 
 #### Sección Tercera. Servicio de alumbrado público
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 77.
 
-Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes de los municipios. Se entiende por servicio de alumbrado público, el que prestan los Ayuntamientos a la ciudadanía en las calles, plazas, jardines y lugares de uso común.
+Es objeto de este derecho la prestación del servicio de alumbrado público para los habitantes de los municipios. Se entenderá por servicio de alumbrado público, la prestación por parte del Ayuntamiento de éste a la ciudadanía en las calles, plazas, jardines y lugares de uso común, a través de la instalación, mantenimiento y conservación, comprendiendo la ampliación, mejora, rehabilitación y reposición de líneas, luminarias, lámparas y accesorios.
 
-Se consideran sujetos de este derecho los propietarios o poseedores que se beneficien del servicio de alumbrado público que proporcionen los Ayuntamientos, sin importar que la fuente de alumbrado se encuentre o no frente a su predio, casa habitación o negocio.
+Para los efectos de la presente ley este derecho será identificado y reconocido como Derecho de Operación y Mantenimiento del Alumbrado Público
+
+Se considerarán sujetos de este derecho los contribuyentes que se beneficien con su uso, sin importar que la fuente de alumbrado se encuentre o no frente a su predio, casa habitación o negocio.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 78.
 
-Servirá de base para el cálculo de este derecho el importe del consumo que los propietarios o poseedores de predios cubran a la empresa que suministre la energía eléctrica, aplicando el porcentaje que no podrá ser mayor al 15 por ciento del consumo, y previa propuesta que formulen anualmente al Congreso del Estado para su aprobación en sus Leyes de Ingresos Municipales.
+Servirá de base para cálculo del costo de este derecho, el importe total del gasto anual que calcule el Ayuntamiento y proponga al Congreso del Estado para su aprobación en su respectiva Ley de Ingresos, el cual comprenderá los siguientes componentes:
 
-El cobro por concepto de este derecho, lo llevará a cabo el Ayuntamiento por conducto de la empresa suministradora del servicio quien realizará la respectiva retención, señalando el cargo a pagar en el aviso-recibo que expida bimestralmente.
+I. Costo promedio anual del consumo de la energía eléctrica causada por el alumbrado público en el ejercicio fiscal anterior;
 
-Las cantidades que recaude por este concepto la empresa suministradora, deberá enterarlas a los Ayuntamientos por conducto de las Secretarías de Finanzas Municipales o su equivalente.
+II. Monto de los gastos erogados con motivo de las adquisición o contrataciones necesarias para la ampliación o extensión de la infraestructura del alumbrado público municipal: postes, lámparas, cableado y todo material o recurso humano que se utilice para la prestación del servicio por primera vez;
+
+III. Monto de los gastos de operación y mantenimiento en el correcto funcionamiento del alumbrado público existente, y
+
+IV. El monto que genere el gasto por la recaudación del Derecho, cuando se realice por un tercero.
 
 #### Sección Cuarta. Comercio ambulante
 
@@ -1042,3 +1052,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. FLORENCIO SALAZAR ADAME.
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 276, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 492 DE HACIENDA MUNICIPAL DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese al Titular del Poder Ejecutivo para efectos de su promulgación, y demás efectos constitucionales y legales conducentes.
