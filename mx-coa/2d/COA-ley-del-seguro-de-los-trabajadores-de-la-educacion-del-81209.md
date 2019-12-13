@@ -4,7 +4,7 @@ identifier: "COA-ley-del-seguro-de-los-trabajadores-de-la-educacion-del-81209"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2017-12-26"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de mayo de 2011.
 
@@ -131,17 +131,17 @@ XXI.- Por cédula testamentaria, al documento en el cual el Derechohabiente desi
 
 Todos los trabajadores al servicio de la educación, dependientes de las Instituciones y Organismos citados en el Artículo 2°, por el solo hecho de recibir el nombramiento correspondiente, se considerarán titulares de la póliza y tendrán derecho a gozar de los beneficios que esta Ley establece.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 5.
 
-Para los efectos anteriores, el Seguro de los Trabajadores de la Educación concederá a sus miembros una Póliza del Seguro de los Trabajadores, una de Fondo de Retiro y una de Fondo de Defunción, que se harán efectivas en caso de muerte, de invalidez o de incapacidad total y permanente, según corresponda.
+Para los efectos anteriores, el Seguro de los Trabajadores de la Educación concederá a sus miembros una Póliza del Seguro de los Trabajadores, una de Fondo de Retiro y una de Fondo de Defunción, que se harán efectivas en caso de declaración especial de ausencia, de muerte, de invalidez o de incapacidad total y permanente, según corresponda.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 6.
 
-Se considerarán como acreedores de la Póliza correspondiente, los trabajadores que se jubilen o pensionen, de conformidad con lo dispuesto por los artículos 1 y 2 de esta Ley, y en caso de muerte, las personas que dichos trabajadores hayan señalado como beneficiarios. Si el trabajador no designó beneficiario alguno, se procederá con apego a lo que señala el Código Civil del Estado.
+Se considerarán como acreedores de la Póliza correspondiente, los trabajadores que se jubilen o pensionen, de conformidad con lo dispuesto por los artículos 1 y 2 de esta Ley, y en caso de declaración especia de ausencia o muerte, las personas que dichos trabajadores hayan señalado como beneficiarios. Si el trabajador no designó beneficiario alguno, se procederá con apego a lo que señala el Código Civil del Estado.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -149,11 +149,11 @@ Se considerarán como acreedores de la Póliza correspondiente, los trabajadores
 
 Cada trabajador inmediatamente que cause efectos legales su ingreso a cualquiera de las entidades u organismos establecidos en esta Ley, entregará al Consejo de Administración una cédula testamentaria en la que señale el o los beneficiarios de sus Pólizas, en la inteligencia de que podrá cambiar su disposición cuando lo estime pertinente. Estas disposiciones testamentarias se ajustarán a lo estipulado en el Código Civil para el Estado de Coahuila de Zaragoza y en la Ley para la Familia de Coahuila de Zaragoza.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 8.
 
-No gozarán de los beneficios a que hace referencia esta Ley, ni tendrán derecho a reclamar sus aportaciones los trabajadores que se separen definitivamente del servicio, por causas distintas a la pensión o jubilación.
+No gozarán de los beneficios a que hace referencia esta Ley, ni tendrán derecho a reclamar sus aportaciones los trabajadores que se separen definitivamente del servicio, por causas distintas a la pensión o jubilación, a excepción de los trabajadores que cuenten con declaración especial de ausencia o la misma se encuentre en trámite.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -343,6 +343,10 @@ Los términos y condiciones de este tipo de préstamos se establecerán en el re
 
 En los casos de los trabajadores que a la fecha de pensionarse presenten saldo insoluto en su crédito se descontarán de su pensión los subsecuentes pagos en favor del Organismo.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En los casos de trabajadores que cuenten con resolución de declaración especial de ausencia o la solitud de esta se encuentre en trámite y presenten saldos insolutos de su crédito, se deberá suspender su pago hasta su localización.
+
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 24.
@@ -421,13 +425,11 @@ Lo anterior de acuerdo a las posibilidades económicas de la institución, esto 
 
 #### SECCIÓN TERCERA. DE LA PÓLIZA DE FONDO DE RETIRO
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 32.
 
-La póliza de Fondo de Retiro tiene un valor fijo de $40,000.00, cumpliéndose el pago al 100% directamente al trabajador al momento de su jubilación o pensión, o a sus beneficiarios en caso de fallecimiento.
-
-Los requisitos para solicitar el pago de dicha póliza serán los que para tal efecto señale el Reglamento respectivo.
+La póliza de Fondo de Retiro tiene un valor fijo de $40,000.00, cumpliéndose el pago al 100% directamente al trabajador al momento de su jubilación o pensión, o a sus beneficiarios en caso de fallecimiento o declaración especial de ausencia de conformidad con la ley de la materia.
 
 > <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
 
@@ -772,3 +774,11 @@ SEXTO.- Los gastos de administración a que se refiere el artículo 21 de la Ley
 Los gastos de administración antes referidas (sic) corresponderán al 1.5% de la nómina integrada del personal activo afiliado a la dirección de pensiones bajo el régimen de cuentas individuales cuyo monto se deducirá de las aportaciones que realicen las entidades aportantes a que se refiere el artículo 2 la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila Zaragoza. El remanente será distribuido a las cuentas individuales en la forma y términos que corresponda.
 
 SÉPTIMO.- Se abrogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 398.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA; DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA "DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO"; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA "DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA"; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ACUÑA, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE CUATROCIÉNEGAS, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE MÚZQUIZ, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ZARAGOZA, COAHUILA DE ZARAGOZA; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
