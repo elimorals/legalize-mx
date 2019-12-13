@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-gestion-integral-de-los-residuos-solidos-60694"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-04"
-last_updated: "2016-07-04"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY PARA LA GESTION INTEGRAL DE LOS RESIDUOS SOLIDOS URBANOS, DE MANEJO ESPECIAL Y PELIGROSO DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS, DE MANEJO ESPECIAL Y PELIGROSO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el martes 4 de marzo de 2008.
 
@@ -75,9 +77,17 @@ IX. Fomentar la innovación tecnológica, la eficiencia ecológica y la competit
 
 X. Establecer un sistema de información relativa a la generación y gestión integral de los residuos sólidos urbanos y de manejo especial, así como de sitios contaminados y remediados;
 
-XI. Establecer la verificación, inspección y vigilancia, del cumplimiento de esta ley y de las disposiciones que de ella deriven, así como las medidas de seguridad, remediación y sanciones que correspondan, y
+> <small>(REFORMADA [N. DE. E. ADICIONADA], P.O. 13 DE DICIEMBRE DE 2019)</small>
 
-XII. Brindar certeza jurídica a la participación privada en la gestión integral de los residuos.
+XI. Impulsar la transición al uso de materiales biodegradables, a efecto de restringir el uso de bolsas de plástico de acarreo de un solo uso y popotes de plástico, en cualquier establecimiento. La restricción no incluirá los popotes y demás utensilios de plástico de un solo uso que se empleen en hospitales y clínicas o por cuestiones médicas. No será aplicable en los casos en que se empleen por razones de higiene, embasado (sic) o conservación de alimentos;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XII. Establecer la verificación, inspección y vigilancia del cumplimiento de esta Ley y de las disposiciones que de ella deriven, así como las medidas de seguridad, remediación y sanciones que correspondan, y
+
+> <small>(ADICIONADA [N. DE. E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XIII. Brindar certeza jurídica a la participación privada en la gestión integral de los residuos.
 
 ### CAPÍTULO II. SUPLETORIEDAD Y DEFINICIONES DE LA LEY
 
@@ -96,6 +106,10 @@ I. Acopio.- Acción tendiente a reunir residuos en un lugar determinado, autoriz
 II. Almacenamiento.- Es la retención temporal de los residuos, en lugares propicios, para prevenir daños al ambiente, a los recursos naturales y a la salud de la población, conforme a las disposiciones de esta ley;
 
 III. Aprovechamiento de residuos.- Conjunto de acciones cuyo objetivo es mantener a los materiales que los constituyen en los ciclos económicos o comerciales; así como conservar en equilibrio los ciclos biológicos, mediante su reutilización y manufactura, rediseño, reprocesamiento, reciclado y recuperación de materiales secundarios o de energía, con lo cual no se desperdicia su valor económico y previene la contaminación del ambiente;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+III bis. Bolsas de plástico de acarreo de un solo uso. Aquellas que se utilizan para la transportación, carga o traslado de productos al consumidor final.
 
 IV. Composta.- Proceso de descomposición de materia orgánica mediante la acción de microorganismos específicos y mezcla de tierra;
 
@@ -159,9 +173,9 @@ XXXI. Residuos Sólidos Urbanos.- Los generados en la casa habitación, que resu
 
 XXXII. Reutilización.- El empleo de un material o residuo previamente empleado; sin que medie un proceso de transformación:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
-XXXIII. Secretaría: La Secretaría de Medio Ambiente y Recursos Naturales del Estado de Campeche.
+XXXIII. Secretaría.- La Secretaría de Medio Ambiente, Biodiversidad y Cambio Climático del Estado de Campeche
 
 ### CAPÍTULO III. DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
 
@@ -200,6 +214,22 @@ XIV. Coadyuvar al gobierno estatal en la integración de los subsistemas de info
 XV. Formular, establecer y evaluar los sistemas de manejo ambiental del Gobierno Estatal;
 
 XVI. Registrar y, en su caso autorizar, las obras y actividades relacionadas con la instalación y operación de sitios e infraestructura y para el traslado de residuos sólidos urbanos;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XVII. Diseñar políticas públicas para que los establecimientos y empresas implementen campañas para eliminar el uso de plásticos desechables de un solo uso;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XVIII. Realizar campañas de difusión y concientización hacia la población sobre la importancia de la no utilización de bolsas y popotes de plástico, y dar a conocer las alternativas con las que, de ser necesario, podrán sustituirse estos productos, así como las ventajas que esto conlleva para su salud y protección del medio ambiente;
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XIX. Elaborar y difundir programas de transición gradual y hasta lograr la sustitución de los productos de plástico no biodegradable de un solo uso en establecimientos mercantiles o comerciales entregadas a título gratuito al consumidor final; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XX. Promover el uso de sustitutos de artículos de plásticos desechables.
 
 ###### Artículo 6.
 
@@ -255,15 +285,31 @@ XIII. Establecer convenios con las autoridades estatales y federales competentes
 
 XIV. Realizar las actividades de inspección para verificar el cumplimiento de los ordenamientos jurídicos en la materia de su competencia y, en su caso, imponer las sanciones que correspondan;
 
-XV. Atender los demás asuntos que en materia de residuos sólidos urbanos y de manejo especial y peligroso, de servicios de limpia se presenten, así como de prevención de la contaminación por residuos y la remediación de sitios contaminados con ellos.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XV. Atender los demás asuntos que en materia de residuos sólidos urbanos y de manejo especial y peligrosos, de servicios de limpia se presenten, así como de prevención de la contaminación por residuos y la remediación de sitios contaminados con ellos; y
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XVI. Implementar programas municipales orientados a restringir el uso de bolsas de plástico de acarreo de un solo uso y popotes de plástico desechables.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Artículo 6 bis. La Secretaría, fomentará la participación de los diferentes sectores de la sociedad en la gestión integral de residuos, para lo cual:
+
+I. Promoverán la realización de campañas permanentes entre los diferentes sectores de la sociedad, referentes a la difusión sobre el impacto ambiental producido por los plásticos no biodegradables, así como para fomentar la utilización de materiales que faciliten su reúso o reciclado y que sean de pronta biodegradación o de productos compostables; y
+
+II. Implementarán, en coordinación con las cámaras empresariales, instituciones educativas, organizaciones de la sociedad civil y la sociedad en general, estrategias y campañas de concientización ambiental sobre el uso de productos de plásticos no biodegradables de un solo uso.
 
 ## TÍTULO II. PREVENCIÓN DE LA GENERACIÓN DE RESIDUOS
 
 ### CAPÍTULO I. PREVENCIÓN DE LA GENERACIÓN DE RESIDUOS
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 7.
 
-Es responsabilidad de los productores de bienes y de los consumidores el controlar la cantidad de residuos sólidos urbanos y de manejo especial que se generen como subproducto del consumo.
+Es responsabilidad de los productores de bienes y de los consumidores el controlar la cantidad de residuos sólidos urbanos y de manejo especial que se generen como subproducto del consumo; así como fomentar la utilización de materiales biodegradables.
 
 ###### Artículo 8.
 
@@ -1145,11 +1191,17 @@ Cuando exista riesgo inminente de contaminación por residuos o un mal manejo de
 
 Las violaciones a los preceptos de esta ley, sus reglamentos y disposiciones que de ella emanen, constituyen infracción y serán sancionadas administrativamente por la Secretaría, con una o más de las siguientes sanciones:
 
-I. Las fracciones I, IV, VII, IX y X del artículo 109, con multa por el equivalente de veinte hasta mil días de salario mínimo diario vigente en el Estado en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
-II. Las fracciones II, III, VI, XI, XII y XIV del artículo 109, con multa por el equivalente de mil un hasta cinco mil días de salario mínimo diario vigente en el Estado en el momento de imponer la sanción;
+I. Las fracciones I, IV, VII, IX y X del artículo 109, con multa por el equivalente de veinte hasta mil Unidades Diarias de Medida y Actualización en el momento de imponer la sanción;
 
-III. Las fracciones V, VIII y XIII del artículo 109, con multa por el equivalente de cinco mil uno hasta veinte mil días de salario mínimo diario vigente en el Estado en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+II. Las fracciones II, III, VI, XI, XII y XIV del artículo 109, con multa por el equivalente de mil un hasta cinco mil Unidades Diarias de Medida y Actualización en el momento de imponer la sanción;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+III. Las fracciones V, VIII y XIII del artículo 109, con multa por el equivalente de cinco mil uno hasta veinte mil Unidades Diarias de Medida y Actualización en el momento de imponer la sanción;
 
 Dependiendo de la reincidencia o la gravedad de la infracción adicionalmente también se podrá imponer como sanción:
 
@@ -1272,3 +1324,15 @@ P.O. 4 DE JULIO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL DECRETO NO. 87 POR EL QUE “SE REFORMAN LAS FRACCIONES XI Y XII Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 2; SE ADICIONA UNA FRACCIÓN III BIS Y SE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 4; SE ADICIONAN LAS FRACCIONES XVII, XVIII, XIX Y XX AL ARTÍCULO 5; SE REFORMA LA FRACCIÓN XV Y SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 6; SE ADICIONA UN ARTÍCULO 6 BIS Y SE REFORMA EL ARTÍCULO 7 Y LAS FRACCIONES I, II Y III DEL PÁRRAFO PRIMERO DEL ARTÍCULO 111 DE LA LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS, DE MANEJO ESPECIAL Y PELIGROSO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La restricción definitiva de la utilización de popotes y de bolsas de plástico de acarreo de un solo uso a que se refiere este decreto, se aplicará paulatinamente en un plazo máximo de 12 meses posteriores al inicio de vigencia del presente decreto.
+
+TERCERO.- Concluido el plazo señalado en el artículo anterior, todos los establecimientos comerciales, deberán llevar a cabo la sustitución de popotes y de bolsas de plástico de acarreo de un solo uso.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
