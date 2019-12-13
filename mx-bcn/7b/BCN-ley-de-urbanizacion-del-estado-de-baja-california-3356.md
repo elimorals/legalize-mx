@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "2011-12-30"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -123,9 +123,17 @@ Tratándose de extrema pobreza, por incapacidad física, temporal o permanente d
 
 El Ejecutivo del Estado, en los términos del párrafo anterior, podrá otorgar subsidios para el pago de las contribuciones de mejoras a los Organismos Descentralizados o a las Instituciones de Asistencia Pública o Privada, así como a las que realicen actividades educativas o culturales o tiendan a la protección de los menores o de las clases económicamente débiles.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 13 DE DICIEMBRE DE 2019)</small>
 
-Tratándose de pensionados, jubilados, indigentes mayores de sesenta años; discapacitados que acrediten tal calidad; padre o madre jefe de familia, así como personas que acrediten tener a su cargo y sostenimiento económico a un familiar en primer grado con discapacidad y reúnan los requisitos establecidos en el Título noveno de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue: los pensionados, jubilados, personas con discapacidad, padre o madre jefe de familia y personas que acrediten tener a su cargo y sostenimiento económico a un familiar en primer grado con discapacidad, que realicen alguna actividad económicamente productiva y que obtengan ingresos diarios de hasta cinco veces el salario mínimo general, en el cincuenta por ciento de la contribución de mejoras determinada a su cargo; y los indigentes mayores de sesenta años o discapacitados que no desempeñen actividad productiva, el cien por ciento en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad. En la misma forma el Presidente Municipal podrá otorgar subsidio para el pago de las contribuciones de mejoras por concepto de las obras realizadas bajo el sistema de cooperación, a los Organismos, Instituciones de Asistencia y personas físicas señaladas anteriormente.
+Tratándose de pensionados, jubilados, y demás personas mayores de sesenta años; discapacitados que acrediten tal calidad; padre o madre jefe de familia, así como personas que acrediten tener a su cargo y sostenimiento económico a un familiar en primer grado con discapacidad y reúnan los requisitos establecidos en el Título Noveno de la Ley de Hacienda del Estado de Baja California, quedarán exentos como sigue:
+
+A) Los pensionados, jubilados, personas con discapacidad, padre o madre jefe de familia y personas que acrediten tener a su cargo y sostenimiento económico a un familiar en primer grado con discapacidad, que realicen alguna actividad económicamente productiva y que obtengan ingresos diarios de hasta cinco veces el salario mínimo general, en el cincuenta por ciento de la contribución de mejoras determinada a su cargo; y,
+
+B) Las personas mayores de sesenta años, que no sean pensionados ni jubilados y que sus ingresos no excedan de dos veces el salario diario mínimo general o personas con discapacidad que no desempeñen actividad productiva, el cien por ciento en los conceptos señalados, otorgándose este beneficio sólo por un inmueble de su propiedad.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En la misma forma el Presidente Municipal podrá otorgar subsidio para el pago de las contribuciones de mejoras por concepto de las obras realizadas bajo el sistema de cooperación, a los Organismos, Instituciones de Asistencia y personas físicas señaladas anteriormente.
 
 ###### ARTICULO 10.
 
@@ -1330,3 +1338,11 @@ P.O. 30 DE ABRIL DE 2010.
 P.O. 30 DE DICIEMBRE DE 2011.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 04 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las autoridades respectivas darán cumplimiento de la presente reforma en base a los requisitos señalados por el artículo 172, fracción II, en correlación con el artículo 174 de la Ley de Hacienda del Estado de Baja California, con el hecho de comprobar la edad de la persona con el acta de nacimiento, o bien que se identifique con credencial expedida por el Instituto Nacional de las Personas Adultas Mayores.
