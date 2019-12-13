@@ -4,7 +4,7 @@ identifier: "COA-estatuto-juridico-para-los-trabajadores-al-servicio-del-4466"
 country: "mx"
 rank: "estatuto"
 publication_date: "1972-10-21"
-last_updated: "2019-04-12"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Estatuto publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 21 de octubre de 1972.
 
@@ -579,6 +579,14 @@ b).- Cuando el trabajador falte sin causa justificada por más de tres días en 
 
 Para los efectos de esta Ley, dos medias jornadas computan un día de labores.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Queda prohibido a las dependencias dar de baja o terminar la relación laboral de los trabajadores de base o de base sindicalizados que tengan la calidad de personas desaparecidas, siempre que exista denuncia, reporte o queja, en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza y únicamente durante los cinco meses siguientes a aquellas, salvo que concluido este término, se promueva el procedimiento de declaración especial de ausencia, caso en el cual continuará la prohibición.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En el caso del párrafo anterior, se tendrá al trabajador con licencia sin goce de sueldo.
+
 c).- Por destruir intencionalmente edificios, obras, maquinaria, instrumentos, materias primas, documentos y demás objetos relacionados con el trabajo.
 
 d).- Por cometer actos inmorales durante el trabajo.
@@ -602,6 +610,14 @@ En el caso de que el cese sea justificado, el trabajador no tiene derecho al pag
 ###### ARTICULO 49.
 
 Los efectos del nombramiento de los trabajadores de confianza se darán por terminados sin responsabilidad para los titulares de las dependencias, en cualquier tiempo y por acuerdo del funcionario autorizado por la Ley para hacerlo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Queda prohibido a las dependencias dar de baja o terminar la relación laboral de los trabajadores de confianza que tengan la calidad de personas desaparecidas, siempre que exista denuncia, reporte o queja, en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza y únicamente durante los cinco meses siguientes a la presentación de aquellas, salvo que concluido el plazo se promueva el procedimiento de declaración especial de ausencia, caso en el cual continuará la prohibición.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En el caso del párrafo anterior, se tendrá al trabajador con licencia sin goce de sueldo.
 
 ## TITULO CUARTO.
 
@@ -927,6 +943,16 @@ b) Con o sin goce de sueldo cuando sean promovidos temporalmente al ejercicio de
 
 c) Sin goce de sueldo tratándose de funcionarios de elección popular.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+d) Sin goce de sueldo cuando el trabajador cuente con Declaración Especial de Ausencia, de conformidad con la ley especial en la materia; y
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+e) Con goce de sueldo cuando el trabajador sea familiar de una persona desaparecida y deba ausentarse de su centro de trabajo para la realización de trámites, gestiones o diligencias ante cualquier autoridad administrativa o jurisdiccional, debidamente acreditados, así como organizaciones de derechos humanos o de protección a víctimas conocidas en el ámbito estatal, nacional o internacional.
+
+Para efectos de este inciso, se entiende por familiar y persona desaparecida lo que establece la fracción IX y XVII respectivamente, del artículo 4 de la Ley en Materia de Personas Desaparecidas del Estado de Coahuila de Zaragoza.
+
 IX.- Conceder licencia con o sin goce de sueldo a sus trabajadores para la atención de asuntos particulares o cuando vayan a realizar cursos de capacitación o de post-graduados y estudios que en alguna forma beneficien al buen funcionamiento de la dependencia.
 
 Las licencias que se concedan en los términos de esta fracción y de la anterior, se computarán como tiempo efectivo de servicios dentro del escalafón y se acordarán según lo dispuesto por el artículo 139;
@@ -962,6 +988,14 @@ XVII.- Tratándose de trabajadores con discapacidad, otorgar los permisos para s
 ###### ARTICULO 87.
 
 Los titulares de las dependencias no podrán intervenir en forma alguna en el régimen interno del sindicato, ni ejecutar cualquier acto que restrinja a los trabajadores los derechos que les otorgan las leyes.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 87 BIS.- Los beneficiarios del trabajador que tenga la calidad de persona desaparecida de conformidad con la ley de la materia, durante los cinco meses siguientes a la fecha de presentación de la denuncia, reporte o queja de su desaparición, conservarán el derecho a recibir la asistencia médica, de maternidad, quirúrgica, farmacéutica y hospitalaria que sea necesaria, en términos de las disposiciones aplicables, salvo que las leyes dispongan lo contrario.
+
+Si se promueve el procedimiento de declaración especial de ausencia ante la autoridad competente, en los términos establecidos por la ley especial en la materia, continuarán conservando los derechos a que se refiere este artículo hasta su conclusión.
+
+Cuando a favor del trabajador, se decrete la declaración especial de ausencia, sus beneficiarios conservarán los derechos previstos en el primer párrafo de este artículo, en términos de la ley especial en la materia.
 
 ## TITULO SEXTO.
 
@@ -1590,6 +1624,20 @@ II.- Contra los menores de 18 y mayores de 14 años que no teniendo quien ejerza
 III.- Contra los trabajadores incorporados al servicio militar en tiempo de guerra, y que por alguno de los conceptos contenidos en esta Ley se hayan hecho acreedores a indemnización;
 
 IV.- Durante el tiempo que el trabajador se encuentre privado de su libertad, siempre que haya sido absuelto por sentencia ejecutoriada.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+V.- Contra los trabajadores que cuenten con Declaración Especial de Ausencia, de conformidad con la ley especial en la materia.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+VI.- Contra los trabajadores que tengan denuncia, reporte o queja de desaparición de conformidad con la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza y demás disposiciones aplicables, únicamente durante los cinco meses siguientes contados a partir de la fecha de su interposición.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+VII.- Si se promueve el procedimiento de declaración especial de ausencia ante la autoridad competente, en los términos establecidos por la ley especial en la materia.
+
+Una vez concluido el procedimiento en definitiva, sin que se decrete la declaración especial de ausencia solicitada, la prescripción comenzará o continuará corriendo en su caso.
 
 ### CAPITULO IV.
 
@@ -2264,3 +2312,11 @@ P.O. 12 DE ABRIL DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
 
 SEGUNDO.- Las dependencias y entidades de los Poderes Públicos deberán realizar un cómputo de las personas adultas mayores y personas con discapacidad que se encuentran actualmente laborando. El cómputo mencionado incluirá cualquier modalidad de contratación laboral que vincule directamente a los trabajadores con el empleador público.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 398.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA; DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA “DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO”; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA “DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA”; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ACUÑA, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE CUATROCIÉNEGAS, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE MÚZQUIZ, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ZARAGOZA, COAHUILA DE ZARAGOZA; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
