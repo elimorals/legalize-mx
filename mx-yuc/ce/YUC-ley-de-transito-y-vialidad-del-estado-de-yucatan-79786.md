@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transito-y-vialidad-del-estado-de-yucatan-79786"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-22"
-last_updated: "2019-12-12"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
-Ley publicada en el Suplemento al Diario Oficial del Gobierno del Estado de Yucatán, el martes 22 de febrero de 2011.
+Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 22 de febrero de 2011.
 
 DECRETO NÚMERO 380
 
@@ -661,6 +661,24 @@ El Conductor y los pasajeros de vehículos de combustión, híbridos o mixtos o 
 
 Cuando se transporte a un Pasajero menor de 5 años de edad, el Conductor tendrá la obligación de asegurarlo en una silla porta infante, debiendo sentarlo en el asiento posterior; en caso de contar con dicho asiento.
 
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 44 Bis.
+
+Queda estrictamente prohibida la circulación en carreteras de jurisdicción estatal o federal que estén transferidas al estado de bicimotos, motocicletas, triciclos automotor, trimotos y cuatrimotos, así como aquellos similares impulsados con energía eléctrica, que transporten pasajeros menores de 5 años de edad o que aún habiendo cumplido dicha edad, éstos no puedan sujetarse por sus propios medios o apoyar sus pies en el pedal del pasajero.
+
+Se exceptúa de lo anterior en los siguientes casos:
+
+I.- Se trate de menores de edad con discapacidad, cuyo transporte debe contener las medidas de seguridad que garanticen su protección.
+
+II.- Traslado médico de emergencia.
+
+III.- Las personas que padecen acondroplasia, trastorno o alteración de talla que sean mayores de 5 años, dentro de lo establecido en el artículo 2 de la Ley General para la Inclusión de las Personas con Discapacidad.
+
+Adicionalmente para transportar a menores de edad en alguno de los vehículos señalados, se deberán tomar todas las medidas preventivas de seguridad tales como el uso de casco apropiado, así como algún aditamento que los sujete con firmeza a la persona que conduce. Dichas medidas y aditamentos deberán ser de acuerdo al tamaño corporal del menor de edad.
+
+En todos los casos, se deberá de considerar el uso de estribos que aseguren la estabilidad del menor de edad al vehículo que lo transporta.
+
 ### Capítulo II. De los Peatones
 
 ###### Artículo 45.
@@ -833,7 +851,7 @@ La autoridad correspondiente autorizará los lugares y horarios apropiados, en c
 
 ###### Artículo 60.
 
-Las terminales son los lugares donde las empresas que prestan el servicio público de transporte de pasajeros o de carga, sujetos o no a itinerarios previamente establecidos, estacionan sus vehículos antes de iniciar o al ·terminar el recorrido de las rutas autorizadas.
+Las terminales son los lugares donde las empresas que prestan el servicio público de transporte de pasajeros o de carga, sujetos o no a itinerarios previamente establecidos, estacionan sus vehículos antes de iniciar o al terminar el recorrido de las rutas autorizadas.
 
 ###### Artículo 61.
 
@@ -987,6 +1005,14 @@ b) El Vehículo no cuente con la póliza a que se refiere el artículo 30 de est
 
 II.- El retiro del Vehículo de la Vía Pública: siempre que éste constituya peligro, cause graves perturbaciones a la circulación de vehículos, peatones o al funcionamiento de algún servicio público o pueda presumirse racionalmente su abandono.
 
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 80 Bis.
+
+Cuando se trate de operativos llevados a cabo por la Secretaría de Seguridad Pública, con el objeto de retirar de la vía pública vehículos chatarra o abandonados, deberá identificarlos, para verificar si cuentan o están relacionados con un reporte de robo o algún otro delito, para, en caso afirmativo, ponerlos a disposición del ministerio público, quien actuará en el marco de sus atribuciones.
+
+En caso de que no se encuentren datos que relacionen los vehículos con hechos delictivos, la Secretaría de Seguridad Pública procederá conforme al artículo 82 bis.
+
 ###### Artículo 81.
 
 Las multas que impongan la Secretaría o las unidades administrativas de Tránsito y Vialidad o su equivalente de los Ayuntamientos, se deberán cubrir dentro de los quince días hábiles siguientes a su notificación. Pasado ese plazo sin ser pagadas adquirirán el carácter de crédito fiscal para su cobro, en términos del Código Fiscal del Estado de Yucatán.
@@ -996,6 +1022,18 @@ Las multas que impongan la Secretaría o las unidades administrativas de Tránsi
 Las multas formuladas por los agentes por cualquier infracción de Tránsito, se notificarán por regla general en el momento inmediato al de su comisión al Conductor, dándole a conocer la disposición de la Ley o Reglamento que se esté violando.
 
 La notificación de las infracciones podrá efectuarse en un momento posterior, cuando el Conductor no se encuentre en el momento del hecho, la circulación vehicular no lo permita, concurran factores meteorológicos adversos, hayan obras u otras circunstancias en que la detención del Vehículo pueda originar un riesgo concreto o cuando la autoridad haya tenido conocimiento de los hechos de Tránsito a través de dispositivos tecnológicos especializados u otros instrumentos que permitan conocer la conducta infractora.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 82 Bis.
+
+Los propietarios de los vehículos que se encuentren retenidos en los depósitos vehiculares a cargo del estado solo podrán retirarlos acreditando el interés jurídico, presentando la documentación que justifique el retiro y cubriendo el monto de los derechos a su cargo, conforme a la Ley General de Hacienda del Estado de Yucatán.
+
+Si han transcurrido sesenta días naturales de que el vehículo quedó a disposición del propietario y este no lo retira, en cumplimiento de esta ley y su reglamento, causará abandono a favor de estado y se seguirá el procedimiento establecido para bienes abandonados, previsto en el Código Fiscal del Estado de Yucatán. Se considera que el vehículo quedó a disposición del propietario a partir del día que surtió efectos la notificación que realice la autoridad administrativa competente.
+
+Para efectos de la notificación a que se refiere el párrafo anterior, la Secretaría de Seguridad Pública deberá publicar en su sitio web y en el Diario Oficial del Gobierno del Estado de Yucatán los datos identificativos del vehículo en la fecha de ingreso, señalando el nombre del propietario del bien, en caso de que se conozca, la fecha y el lugar del que fue retirado, la fecha en que ingresó en el depósito vehicular, así como el nombre y ubicación del depósito en el que se encuentra, momento a partir del cual se entenderá que queda a disposición del propietario.
+
+El plazo de abandono a que se refiere este artículo se interrumpirá por la interposición de algún medio de defensa en contra del acto o procedimiento que dio origen al almacenaje, hasta que se resuelva de manera definitiva.
 
 ## TÍTULO DÉCIMO. JUECES DE VIALIDAD Y LOS MEDIOS DE IMPUGNACIÓN
 
@@ -1196,3 +1234,27 @@ D.O. 12 DE DICIEMBRE DE 2019.
 Artículo Único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 138/2019 POR EL QUE SE MODIFICA EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN Y LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN, EN MATERIA DE ENAJENACIÓN DE VEHÍCULOS ABANDONADOS”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Plazo para actualizar el inventario
+
+El proceso de inventario se realizará en un plazo de seis meses a partir de la entrada en vigor de este Decreto.
+
+D.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 145/2019 POR EL QUE SE MODIFICA LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero. Entrada en Vigor.
+
+Este decreto entrará en vigor el 1 de enero de 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Disposición Reglamentaria.
+
+El Poder Ejecutivo deberá realizar las adecuaciones al Reglamento de la Ley de Tránsito y Vialidad del Estado de Yucatán en un plazo no mayor a 180 días a partir de la entrada en vigor del presente Decreto.
