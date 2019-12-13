@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2019-11-26"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2989,7 +2989,9 @@ RESPONSABILIDAD PROFESIONAL
 
 Sin perjuicio de las prevenciones contenidas en la Ley de Salud del Estado o en otras normas que reglamentan el ejercicio profesional, en su caso, los profesionales, artistas o técnicos y sus auxiliares, incluyendo farmacéuticos, maestros de obra y en general todos los que se dediquen a actividades profesionales, técnicas o artísticas, serán responsables de los delitos que cometan en el ejercicio de su actividad, en los términos siguientes:
 
-I. Además de las sanciones señaladas para los delitos que resulten cometidos, según sean dolosos o culposos, se les aplicará suspensión de tres meses a tres años en el ejercicio de la profesión o definitiva en caso de reincidencia, y
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+I. Además de las sanciones señaladas para los delitos que resulten cometidos, según sean dolosos o culposos, se les aplicará suspensión de tres meses a tres años en el ejercicio de la profesión o definitiva en caso de reincidencia, y por responsabilidad relacionada al ejercicio de su actividad, y
 
 II. Estarán obligados a la reparación del daño por sus propios actos y por los de sus auxiliares, cuando éstos obren de acuerdo con las instrucciones de aquéllos.
 
@@ -3000,6 +3002,14 @@ II. Estarán obligados a la reparación del daño por sus propios actos y por lo
 ###### ARTÍCULO 270.
 
 Se impondrá sanción de seis meses a cinco años de prisión, de cien a trescientos días-multa, estarán obligados a la reparación del daño causado por su acto u omisión y, suspensión de tres meses a un año, a los médicos que habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, sin causa justificada y sin aviso oportuno, lo abandonen en su tratamiento o en casos urgentes, así como al facultativo que se negare sin causa justificada a prestar sus servicios a una persona que los necesitare.
+
+> <small>(ADICIONADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 270 BIS. Se impondrá sanción de seis meses a tres años de prisión y, de cincuenta a doscientos días - multa, a quien lleve a cabo un procedimiento quirúrgico sin contar con el equipo médico especializado y sin cumplir con lo establecido en la Ley General de Salud. Lo anterior con independencia de las sanciones previstas en el artículo 269 de este Código en caso de los delitos que resultaren como consecuencia del ejercicio de su profesión.
+
+Los procedimientos de cirugía plástica, estética y reconstructiva relacionada con cambiar o corregir el contorno o forma de diferentes zonas o regiones de la cara y del cuerpo, serán estrictamente realizados por un especialista en la materia y con equipo médico especializado, de acuerdo a la Ley General de Salud.
+
+En el último supuesto del párrafo anterior quedan exceptuados aquellos casos en los que, por razón de urgencia médica, a fin de salvaguardar la vida o integridad física del paciente, no se encuentre disponible un médico con la especialidad correspondiente para realizar el procedimiento quirúrgico.
 
 ###### ARTÍCULO 271.
 
@@ -3017,7 +3027,13 @@ II. Retener sin necesidad a un recién nacido, por los motivos a que se refiere 
 
 III. Retardar o negar por cualquier motivo la entrega de un cadáver, excepto cuando se requiera orden de autoridad competente.
 
-La misma sanción se impondrá a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente recetada por otra que cause daño o sea evidentemente inapropiada al padecimiento para el cual se prescribió.
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+IV. Autorice la práctica de un procedimiento médico quirúrgico de especialidad en las instalaciones bajo su dirección, encargo o administración, por persona que no cuente con los requisitos establecidos en la Ley General de Salud; o bien, sin contar con licencia sanitaria vigente. Lo anterior sin perjuicio de la responsabilidad penal que pudiere imputarse a la persona física o jurídica correspondiente por su complicidad en los delitos que en su caso resultaren como consecuencia de la responsabilidad médica.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+La misma sanción se impondrá a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina específicamente recetada por otra que cause daño o sea evidentemente inapropiado al padecimiento para el cual se prescribió.
 
 ### CAPÍTULO IV. VARIACIÓN DEL NOMBRE O DOMICILIO
 
@@ -5012,3 +5028,9 @@ D.O. 26 DE NOVIEMBRE DE 2019.
 Artículo primero.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
 
 Artículo segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en este decreto.
+
+D.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 140/2019 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE CIRUGÁS PLÁSTICAS”.]
+
+Artículo único. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
