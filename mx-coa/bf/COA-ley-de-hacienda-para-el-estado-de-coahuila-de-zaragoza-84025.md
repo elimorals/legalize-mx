@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2019-10-22"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ NOTA: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRE
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -1093,9 +1093,9 @@ XV. Búsqueda de actas en el Registro Civil, $70.00 (SETENTA PESOS 00/100 M.N.);
 
 XVI. Por otros servicios no especificados, $179.00 (CIENTO SETENTA Y NUEVE PESOS 00/100 M.N.).
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
 
-No causarán derechos, los servicios prestados por concepto de inscripción y registro de actas de adopción, inscripción y registro de actas de tutela; así como la inscripción y registro de adopción y/o tutela que se realice de forma automatizada.
+No causarán derechos, los servicios prestados por concepto de inscripción y registro de actas de adopción, inscripción y registro de actas de tutela, la inscripción y registro de adopción y/o tutela que se realice de forma automatizada, así como la expedición de copias certificadas del registro civil e inscripción solicitadas para el trámite del procedimiento de declaración especial de ausencia o de la resolución correspondiente.
 
 ###### ARTICULO 86.
 
@@ -1307,7 +1307,7 @@ El pago de los derechos a que se refiere esta Sección, deberá efectuarse en la
 
 ###### ARTICULO 90.
 
-Los servicios prestados por el organismo desconcentrado de la Secretaría de Gobierno, denominado “Periódico Oficial del Gobierno del Estado”, causarán derechos conforme a la siguiente:
+Los servicios prestados por el organismo desconcentrado de la Secretaría de Gobierno, denominado "Periódico Oficial del Gobierno del Estado", causarán derechos conforme a la siguiente:
 
 TARIFA
 
@@ -1342,6 +1342,10 @@ IX. Por costo de tipografía relativa a los fierros de registro, arete o collar 
 PAGO
 
 El pago de las cuotas establecidas en la fracción IV, darán derecho a que el contribuyente reciba por la suscripción, todos los ejemplares incluyendo Códigos, Leyes y Reglamentos.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+No causarán derechos las publicaciones del Periódico Oficial del Gobierno del Estado, ordenadas dentro del procedimiento de declaración especial de ausencia, de conformidad con la ley de la materia.
 
 ###### ARTICULO 91.
 
@@ -3534,3 +3538,13 @@ P.O. 22 DE OCTUBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 401.- SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO FINANCIERO PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Las personas que hayan obtenido una declaración de ausencia conforme a lo dispuesto en la Ley de Declaración de Ausencia de Personas Desaparecidas del Estado de Coahuila de Zaragoza, o una declaración especial de ausencia, conforme a lo previsto en la Ley de Declaración de Ausencia para personas Desaparecidas del Estado de Coahuila de Zaragoza, conservarán la protección de derechos en los términos de la sentencia, en concordancia con lo establecido en el régimen transitorio del Decreto 261, publicado el 28 de mayo de 2019 en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
