@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2019-04-12"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCN"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+(NOTA 1: EL 15 DE NOVIEMBRE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 35/2020, DECLARÓ LA INVALIDEZ DEL DECRETO 03 POR EL QUE SE REFORMÓ LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA PARA CREAR UN ARTÍCULO 294, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TRECE DE DICIEMBRE DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[NOTA 2. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -3167,6 +3169,22 @@ El retiro forzoso de los Magistrados se producirá al cumplir setenta años de e
 
 El Magistrado que haya sido removido de su cargo, en términos de lo dispuesto por el párrafo sexto inciso d) del artículo 58 de la Constitución Política del Estado Libre y Soberano de Baja California, no tendrá derecho al haber por retiro.
 
+(NOTA: EL 15 DE NOVIEMBRE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 35/2020, DECLARÓ LA INVALIDEZ DEL DECRETO 03 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+###### ARTÍCULO 294.
+
+Al retirarse del cargo los Jueces del Poder Judicial que hayan alcanzado los setenta años de edad o completado los quince años en el ejercicio del encargo o que les haya sobrevenido una incapacidad física que les impida seguir en la función, tendrán derecho a recibir un haber de retiro, el cual tendrá carácter de intransferible, con una duración de dos años contados a partir del día siguiente al último día en que hayan estado en funciones, mismo que no será mayor al cincuenta por ciento de la última percepción que recibió como Juez del Poder Judicial del Estado.
+
+El Consejo de la Judicatura expedirá el Reglamento del Haber de Retiro de los Jueces del Poder Judicial del Estado, donde se determine el esquema, cuantía y condiciones para su entrega, el cual deberá ser aprobado por las dos terceras partes de sus integrantes.
+
+En el Reglamento del Haber de Retiro, se deberá contemplar la creación de un Fondo autofinanciable para el otorgamiento de este, en el que, mediante estudios de índole actuarial contable realizados a solicitud y patrocinio del Poder Judicial, y previa opinión de viabilidad financiera de la autoridad facultada para su emisión en su caso, se establecerá la determinación del esquema de aportaciones económicas por parte de los Jueces para cubrir y tener derecho al Haber de Retiro.
+
+El Juez que haya sido removido de su cargo, en términos de lo dispuesto por el párrafo sexto inciso d) del artículo 58 de la Constitución Política del Estado libre y Soberano de Baja California o por resolución judicial, no tendrá derecho al haber por retiro.
+
+El Juez del Poder Judicial del Estado que sometido al procedimiento de ratificación no fuere ratificado, o solicite su retiro voluntario, no tendrá derecho al haber de retiro, pero podrá solicitar la devolución de las aportaciones retenidas durante el tiempo que duró en el cargo.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
@@ -3662,3 +3680,17 @@ TERCERO.- El Consejo de la Judicatura, deberá expedir el Reglamento relativo al
 CUARTO.- Los Magistrados Numerarios, que hayan sido nombrados, previa (sic) a la entrada en vigor del presente Decreto tendrán derechos a un haber de retiro de hasta 12 años en los términos dispuestos en la presente reforma y el reglamento correspondiente.
 
 QUINTO.- El Plan a que hace referencia el Contrato No. 140898-2 de Fideicomiso Irrevocable para la creación del Fondo Judicial de Retiro para el pago de Haber de Retiro para Magistrados Numerarios del H. Tribunal Superior de Justicia del Estado de Baja California, celebrado entre el Poder Judicial del Estado y Banco Nacional de México, S.A., deberá sujetarse, para su ejecución, al Reglamento a que hace referencia el (sic) 293 de la Ley Orgánica del Poder Judicial del Estado de Baja California.
+
+(NOTA: EL 15 DE NOVIEMBRE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 35/2020, DECLARÓ LA INVALIDEZ DEL DECRETO 03 POR EL QUE SE REFORMÓ LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA PARA CREAR UN ARTÍCULO 294, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL TRECE DE DICIEMBRE DE DOS MIL DIECINUEVE, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 03 MEDIANTE EL CUAL SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA PARA CREAR UN ARTÍCULO 294”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Consejo de la Judicatura, deberá expedir el Reglamento relativo al Haber de Retiro, dentro de un término de 60 días posteriores a la entrada en vigor de la presente reforma.
+
+TERCERO.- La expedición de la Reglamentación deberá establecer el monto de las aportaciones que deberán hacer los Jueces del Poder Judicial del Estado al Fondo correspondiente sin excepción alguna y establecerá en su caso el mecanismo para compensar las aportaciones de los años en que no lo hubieren hecho.
+
+CUARTO.- El Consejo de la Judicatura del Poder Judicial del Estado deberá gestionar en su momento la viabilidad financiera ante la autoridad correspondiente sobre la base de que el Fondo para el pago del Haber de Retiro de los Jueces del Poder Judicial del Estado sea autofinanciable y no dependa del subsidio estatal ordinario que aporta el Poder Ejecutivo del Gobierno del Estado y no genere endeudamiento de ninguna especie.
