@@ -4,7 +4,7 @@ identifier: "COA-codigo-municipal-para-el-estado-de-coahuila-de-zaragoza-16070"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-07-20"
-last_updated: "2019-12-06"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 20 de julio de 1999.
 
@@ -3245,9 +3245,35 @@ c). Jubilación y pensión por invalidez, vejez o muerte.
 
 d). Asistencia médica y medicinas para los familiares del trabajador en los términos de la ley que rija a la institución médica con la cual se haya contratado la prestación del servicio.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el trabajador cuente con resolución de declaración especial de ausencia en términos de la legislación especial en la materia, las entidades públicas municipales deberán cubrir las aportaciones a que se refiere esta fracción para que sus beneficiarios reciban los beneficios a que se refieren los incisos a), b) y d) anteriores.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Los beneficiarios del trabajador que tenga la calidad de persona desaparecida de conformidad con la ley de la materia, durante los cinco meses siguientes a la fecha de la denuncia, reporte o queja de su desaparición, conservarán el derecho a que se refiere el párrafo anterior, en términos de las disposiciones aplicables, salvo que las leyes dispongan lo contrario.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Si se promueve el procedimiento de declaración especial de ausencia ante la autoridad competente, en los términos establecido (sic) por la ley especial en la materia, continuarán conservando los derechos a que se refiere este artículo hasta su conclusión.
+
 VIII. Conceder licencias sin goce de sueldo a sus trabajadores para el desempeño de las comisiones sindicales que se les confieran, cuando sean promovidos temporalmente al ejercicio de otras comisiones en una dependencia diferente a la de su plaza o como funcionario de elección popular.
 
 IX. Conceder licencia con o sin goce de sueldo a sus trabajadores para la atención de asuntos particulares o cuando vayan a realizar cursos de capacitación, de postgrado o estudios que en alguna forman beneficien al buen funcionamiento de la dependencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Conceder licencia sin goce de sueldo a sus trabajadores que cuente (sic) con resolución de declaración especial de ausencia de conformidad con la Ley de Declaración Especial de Ausencia para Personas Desaparecidas del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Conceder licencia con goce de sueldo cuando el trabajador sea familiar de una persona desaparecida y deba ausentarse de su centro de trabajo para la realización de trámites, gestiones o diligencias ante cualquier autoridad administrativa o jurisdiccional, debidamente acreditados así como ante organizaciones de derechos humanos o de protección a víctimas conocidas en el ámbito estatal, nacional o internacional.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Para efectos de esta fracción, se entiende por familiar y persona desaparecida lo que establece la fracción IX y XVII respectivamente, del artículo 4 de la Ley en Materia de Personas Desaparecidas del Estado de Coahuila de Zaragoza.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 13 DE DICIEMBRE DE 2019)</small>
 
 Las licencias que se conceden en los términos de esta fracción y de la anterior salvo las que se otorguen para asuntos particulares, se computarán como tiempo efectivo de servicios dentro del escalafón y se acordarán según lo dispuesto por el artículo siguiente.
 
@@ -3320,6 +3346,14 @@ III. Por terminación de la obra; vencimiento del término o por falta de los re
 IV. La incapacidad física o mental o inhabilidad manifiesta del trabajador, que haga imposible la prestación del servicio.
 
 V. Las demás que prevengan las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Queda prohibido a las dependencias dar de baja o terminar la relación laboral de los trabajadores de base y de confianza que tengan la calidad de personas desaparecidas, siempre que exista denuncia, reporte o queja, en términos de la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza y únicamente durante los cinco meses siguientes a la presentación de aquellas, salvo que concluido el plazo se promueva el procedimiento de declaración especial de ausencia, caso en el cual continuará la prohibición.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En el caso del párrafo anterior, se tendrá al trabajador con licencia sin goce de sueldo.
 
 ### CAPÍTULO DÉCIMO. DE LA RESCISIÓN DE LA RELACIÓN JURÍDICA LABORAL
 
@@ -3792,6 +3826,22 @@ I. Contra las personas con discapacidad intelectual, sino cuando se haya discern
 II. Contra los trabajadores incorporados al servicio militar en tiempo de guerra.
 
 III. Durante el tiempo que el trabajador se encuentre privado de su libertad, siempre que haya sido absuelto por sentencia ejecutoriada.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+IV. Contra los trabajadores que cuenten con Declaración Especial de Ausencia, de conformidad con la ley especial en la materia.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+V. Contra los trabajadores que tengan denuncia, reporte o queja de desaparición de conformidad con la Ley en Materia de Desaparición de Personas del Estado de Coahuila de Zaragoza y demás disposiciones aplicables, únicamente durante los cinco meses siguientes contados a partir de la fecha de su interposición.
+
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+VI. Si se promueve el procedimiento de declaración especial de ausencia ante la autoridad competente, en los términos establecidos por la ley especial en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Una vez concluido el procedimiento en definitiva, sin que se decrete la declaración especial de ausencia solicitada, la prescripción comenzará o continuará corriendo en su caso.
 
 ###### ARTÍCULO 360.
 
@@ -4798,3 +4848,11 @@ PRIMERO.- El decreto entrará en vigor al día siguiente de su publicación en e
 SEGUNDO.- Los ayuntamientos deberán reformar sus reglamentos en un plazo no mayor a 30 días naturales posteriores a la publicación del decreto; y
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 398.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA; DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA "DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO"; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA "DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA"; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ACUÑA, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE CUATROCIÉNEGAS, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE MÚZQUIZ, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ZARAGOZA, COAHUILA DE ZARAGOZA; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
