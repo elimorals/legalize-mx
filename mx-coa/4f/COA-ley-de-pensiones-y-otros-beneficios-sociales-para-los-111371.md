@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-111371"
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-08"
-last_updated: "2017-12-26"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111371&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 8 de enero de 2016.
 
@@ -1433,6 +1433,10 @@ El derecho del trabajador o pensionado y, en su caso, de sus beneficiarios a rec
 
 Los créditos respecto a los cuales la Dirección de Pensiones tenga el carácter de acreedor, cualquiera que sea su especie, prescribirán en diez años a partir de la fecha en que la propia Dirección pueda, conforme a la ley, ejercitar sus derechos.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el trabajador cuente con resolución de Declaración Especial de Ausencia, los créditos a que se refiere el párrafo anterior, quedarán sin efectos transcurridos quince años contados a partir de que concluya la licencia sin goce de sueldo que establece la fracción IX, del artículo 37 del Estatuto Jurídico para los Trabajadores de la Educación al Servicio del Estado y los Municipios de Coahuila de Zaragoza.
+
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 106.
@@ -1505,6 +1509,10 @@ V. Los préstamos causarán intereses equivalentes al doble de la Tasa de Inter�
 
 VI. En el caso de incumplimiento por parte del trabajador o pensionado, se causarán intereses moratorios, a razón de 1.5 veces la tasa mencionada en la fracción anterior.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+En caso de que el trabajador cuente con resolución de declaración especial de ausencia o la solitud (sic) de esta se encuentre en trámite, de conformidad con la ley especial en la materia, no se causarán los intereses moratorios a que se refiere el primer párrafo de esta fracción.
+
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2017)</small>
 
 VII. Se podrán realizar abonos a capital por concepto de pago anticipado, haciéndose las reestructuraciones correspondientes en los términos de la normatividad interna que para tales efectos emita la Dirección de Pensiones.
@@ -1544,6 +1552,10 @@ El monto del préstamo será documentado con títulos de crédito a favor de la 
 Los adeudos por préstamos que después de 1 mes del vencimiento de la amortización que corresponda no hayan sido descontados de las percepciones correspondientes, o no fuesen cubiertos por otros medios por el trabajador o pensionado, se procederá a realizar el cobro al aval registrado en los términos del último párrafo del artículo 111 de esta ley.
 
 En caso de no actualizarse ninguno de los supuestos referidos en el párrafo anterior, la Dirección de Pensiones ejercitará las acciones extra judiciales y judiciales que tenga a su favor en los términos de la normatividad interna que para tales efectos emita.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el trabajador cuente con resolución de declaración especial de ausencia o la solitud (sic) de esta se encuentre en trámite, de conformidad con la ley especial de la materia, y tenga adeudos por préstamos, se suspenderá su cobro hasta su localización. Esta suspensión también será aplicable al aval.
 
 ### CAPÍTULO SEXTO. DE LAS RESPONSABILIDADES Y SANCIONES
 
@@ -2064,3 +2076,11 @@ SEXTO.- Los gastos de administración a que se refiere el artículo 21 de la Ley
 Los gastos de administración antes referidas corresponderán al 1.5% de la nómina integrada del personal activo afiliado a la dirección de pensiones bajo el régimen de cuentas individuales cuyo monto se deducirá de las aportaciones que realicen las entidades aportantes a que se refiere el artículo 2 (sic) la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila (sic) Zaragoza. El remanente será distribuido a las cuentas individuales en la forma y términos que corresponda.
 
 SÉPTIMO.- Se abrogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 398.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA; DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA “DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO”; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA “DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA”; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ACUÑA, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE CUATROCIÉNEGAS, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE MÚZQUIZ, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ZARAGOZA, COAHUILA DE ZARAGOZA; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
