@@ -4,7 +4,7 @@ identifier: "COA-ley-del-organismo-publico-descentralizado-de-la-113415"
 country: "mx"
 rank: "ley"
 publication_date: "2016-02-19"
-last_updated: "2018-04-20"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO “DIRECCIÓN DE PENSIONES Y BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de febrero de 2016.
 
@@ -723,6 +723,14 @@ En caso de fallecer el trabajador o pensionado, y tener adeudos al Patrimonio de
 
 Para hacer efectivos los préstamos que conceda, independientemente de poder hacer el descuento en las nóminas, la Dirección de Pensiones se reserva el derecho de ejercer para su cobro las vías que procedan conforme a la legislación correspondiente.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Cuando el trabajador cuente con resolución de declaración especial de ausencia o la solitud de esta se encuentre en trámite y tenga adeudos por préstamos, se suspenderá su cobro hasta su localización, de conformidad con la especial en la materia, salvo lo dispuesto en el párrafo siguiente.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2019)</small>
+
+Los préstamos a que se hace referencia en el primer párrafo del presente artículo, quedarán sin efectos transcurridos quince años contados a partir de que concluya la licencia sin goce de sueldo que establece la fracción IX, del artículo 294 del Código Municipal para el Estado de Coahuila de Zaragoza.
+
 ###### ARTÍCULO 80.
 
 Los créditos para la adquisición de propiedades de casa o terrenos, y construcción de las mismas destinadas a la habitación familiar del trabajador con garantía hipotecaria, se otorgarán de conformidad con las posibilidades económicas de la Dirección, de acuerdo con lo establecido en el reglamento interior.
@@ -1054,3 +1062,11 @@ P.O. 20 DE ABRIL DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los préstamos quirográficos otorgados antes de la entrada en vigor del presente decreto y los que se encuentren en proceso de ser aprobados, se sujetarán al plazo de dos años establecido en el artículo 77.
+
+P.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 398.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA; DEL ESTATUTO JURÍDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA TRABAJADORES AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL FONDO DE LA VIVIENDA PARA LOS TRABAJADORES DE LA EDUCACIÓN AL SERVICIO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA "DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO"; DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADA "DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA"; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ACUÑA, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE CUATROCIÉNEGAS, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE MÚZQUIZ, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE RAMOS ARIZPE, COAHUILA DE ZARAGOZA; DE LA LEY DE PENSIONES DEL MUNICIPIO DE ZARAGOZA, COAHUILA DE ZARAGOZA; Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
