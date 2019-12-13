@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2019-11-14"
+last_updated: "2019-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE DICIEMBRE DE 2019.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -35,7 +35,7 @@ Que el H. Congreso del mismo, ha expedido el siguiente
 
 DECRETO NUM. 3
 
-"(SIC) El XXV Congreso Constitucional del Estado Libre y Soberano de Yucatán, en funciones de Constituyente, a nombre y con la autoridad del pueblo yucateco ha tenido a bien expedir la siguiente:
+"El XXV Congreso Constitucional del Estado Libre y Soberano de Yucatán, en funciones de Constituyente, a nombre y con la autoridad del pueblo yucateco ha tenido a bien expedir la siguiente:
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE YUCATAN
 
@@ -593,11 +593,17 @@ La declaración de validez, la asignación de Diputados y Regidores de represent
 
 El Congreso no puede iniciar sus sesiones ni ejercer sus atribuciones, sin la concurrencia de más de la mitad de la totalidad de sus integrantes; los presentes deberán reunirse el día señalado por la Ley y compeler a los ausentes, a que concurran bajo las penas que se establezcan; llamando a quien deba suplirlo, a fin de que funcionen mientras se presentan los propietarios y en los demás casos, conforme a lo que dispongan las leyes.
 
-> <small>(REFORMADO, D.O. 24 DE MAYO DE 2006)</small>
+> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA SE ADVIERTE QUE EL CONTENIDO DEL PRIMER PÁRRAFO DEL PRESENTE ARTÍCULO, FUE DIVIDIDO EN DOS PÁRRAFOS, VÉASE LITERALIDAD DEL DECRETO NÚMERO 144/2029 PUBLICADO EN EL D.O. EL 13 DE DICIEMBRE DE 2019.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 27.
 
-El Congreso para tratar y resolver los asuntos programados y los demás que se le presenten, tendrá cada año tres períodos ordinarios de sesiones. El primero, del 1 de septiembre al 15 de diciembre; el segundo, del 16 de enero al 15 de abril y el tercero del 16 de mayo al 15 de julio. El tercer período podrá ampliarse hasta el 31 de agosto, del año en que el Congreso concluye su gestión.
+El Congreso para tratar y resolver los asuntos programados y los demás que se le presenten, tendrá cada año dos períodos ordinarios de sesiones.
+
+> <small>(REFORMADO, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+El primer período será del 1 de septiembre hasta el 15 de diciembre, pudiéndose aplazar hasta el 30 de diciembre cuando se trate del año de renovación de la persona titular del poder ejecutivo estatal; y el segundo período será del 1 de febrero hasta el 31 de mayo.
 
 En los períodos ordinarios, se ocupará del estudio, discusión, dictaminación y votación de todos los asuntos, conforme a esta Constitución y la ley.
 
@@ -2473,6 +2479,10 @@ XIV.- Garantizar la libre opinión ciudadana, a través de los procesos de parti
 
 XV.- Establecer políticas públicas dirigidas a fomentar una alimentación nutritiva, suficiente y de calidad con el fin de combatir la obesidad y los trastornos de la conducta alimentaria en los habitantes del Estado.
 
+> <small>(ADICIONADA, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+XVI.- Establecer en el sistema educativo básico las condiciones y los procedimientos para rescatar, fomentar y preservar la lengua nativa de la entidad.
+
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
 ###### Artículo 88.
@@ -2499,9 +2509,9 @@ Apartado A.- De la Educación.
 
 Son bases de la Educación que se imparta en el Estado, las siguientes:
 
-> <small>(REFORMADA, D.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2019)</small>
 
-I.- Será progresista, con contenido nacional y regional, democrática y tenderá a la igualdad entre las personas, procurará siempre desarrollar de manera armónica las facultades del ser humano hasta el máximo de sus posibilidades, fomentará el civismo, la identidad nacional y el máximo aprovechamiento sustentable de los recursos naturales y promoverá el respeto a los derechos humanos, libertades fundamentales y al medio ambiente.
+I.- Será progresista, con contenido nacional y regional, democrática y tenderá a la igualdad entre las personas, procurará siempre desarrollar de manera armónica las facultades del ser humano hasta el máximo de sus posibilidades, fomentará, la inclusión, la no discriminación, el civismo, la identidad nacional y el máximo aprovechamiento sustentable de los recursos naturales y promoverá la enseñanza de la lengua de señas mexicana, en la educación básica y el respeto a los derechos humanos, libertades fundamentales y al medio ambiente;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE DICIEMBRE DE 2007)</small>
 
@@ -2511,13 +2521,15 @@ Cuando se tratare de programas educativos de contenido regional, el Estado deber
 
 III.- Coadyuvará con la nación, en la defensa de nuestra independencia política y económica;
 
-> <small>(REFORMADA, D.O. 15 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2019)</small>
 
-IV.- Será laica, combatirá la ignorancia, el fanatismo y los prejuicios, preparando desde la infancia, para asumir una vida responsable, basada en la comprensión, armonía, tolerancia, equidad de género y cooperación entre todos los pueblos;
+IV.- Será laica, combatirá la ignorancia, el fanatismo y los prejuicios, preparando desde la infancia, para asumir una vida responsable, basada en la comprensión, armonía, tolerancia, equidad de género, inclusión, la no discriminación y cooperación entre todos los pueblos;
 
 V.- El Estado apoyará la investigación científica y tecnológica, su resultado será sustento de la actividad educativa;
 
-VI.- El Estado, impartirá gratuitamente educación preescolar, primaria y secundaria; asimismo promoverá todos los tipos y modalidades;
+> <small>(REFORMADA, D.O. 13 DE DICIEMBRE DE 2019)</small>
+
+VI.- El Estado, impartirá gratuitamente educación inclusiva preescolar, primaria y secundaria inclusiva; asimismo promoverá todos los tipos y modalidades;
 
 VII.- La educación media superior y superior podrán ser gratuitas, según lo determinen las leyes;
 
@@ -4508,3 +4520,53 @@ El Congreso deberá realizar las previsiones y adecuaciones presupuestales neces
 Décimo segundo. Recursos y espacios de la vicefiscalía
 
 En tanto se llevan a cabo las adecuaciones presupuestales, las transferencias y demás actos necesarios para dotar de recursos propios a la Fiscalía Especializada en Combate a la Corrupción continuará ejerciendo los recursos y ocupando los espacios que actualmente tiene asignados la Vicefiscalía Especializada en Combate a la Corrupción en la Fiscalía General del Estado.
+
+D.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 142/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE PRESERVACIÓN DE LA LENGUA NATIVA DE LA ENTIDAD”.]
+
+Artículo primero. Entrada en vigor
+
+Este decreto entrará en vigor el primero de enero del año 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Obligación normativa
+
+El Congreso del Estado deberá armonizar el presente decreto con la Ley de Educación del Estado de Yucatán, en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
+
+D.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 143/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE ENSEÑANZA DE LA LENGUA DE SEÑAS MEXICANA”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el primero de enero del año 2020, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Obligación normativa
+
+El Congreso del Estado deberá armonizar el presente decreto con la Ley de Educación del Estado de Yucatán, en un plazo de ciento ochenta días naturales, contados a partir de su entrada en vigor.
+
+D.O. 13 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 144/2019 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE PERÍODOS ORDINARIOS DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor.
+
+Este decreto entrará en vigor a partir del día siguiente al de su publicación en el diario oficial del estado.
+
+Artículo segundo. Períodos ordinarios.
+
+A partir de que inicie el año 2020 se realizarán los períodos ordinarios de sesiones de este H. Congreso del Estado de Yucatán conforme a las fechas establecidas en este decreto.
+
+Artículo tercero. Ajuste de fechas de las entregas de reconocimientos y medallas que realiza el H. Congreso del Estado de Yucatán.
+
+El Congreso del Estado de Yucatán deberá ajustar las fechas de todos los reconocimientos y medallas que anualmente entrega, de conformidad con los nuevos periodos ordinarios de sesiones contemplados en este decreto.
+
+El presidente de la mesa directiva deberá realizar todas las gestiones y trámites necesarios para el cumplimiento de lo establecido en el párrafo anterior.
+
+Artículo cuarto. Adecuación normativa.
+
+El Congreso del Estado de Yucatán deberá adecuar la legislación secundaria en la materia en un plazo que no exceda de los 180 días naturales a la entrada en vigor del presente decreto.
+
+Artículo quinto. Derogación expresa.
+
+Se derogan todas las disposiciones de mayor o menor rango que se opongan a lo dispuesto en el presente decreto.
