@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-cuauhtemoc-colima-26791"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2019-08-24"
+last_updated: "2019-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3603,6 +3603,18 @@ VII. Traspaso de títulos de propiedad 4.00
 
 Por el permiso de construcción de monumentos, se cobrará el uno por ciento del monto de la construcción, incluyendo materiales y mano de obra. Si este pago resulta inferior a dos UMA, se cobrará esta cantidad.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2019)</small>
+
+ARTICULO 98 BIS.- Las personas a quienes les sea autorizada la expedición de una licencia para el establecimiento de un cementerio particular, deberán pagar lo siguiente:
+
+Número de UMA
+
+I) Por la expedición de la licencia para el funcionamiento de cementerio particular se deberá pagar:
+
+a) Cementerio Privado 400
+
+El costo del refrendo de la licencia de funcionamiento será del 50 por ciento del costo total por la expedición de la licencia. Los derechos por refrendo de la licencia se pagarán en los meses de enero y febrero del año que corresponda.
+
 #### SECCION CUARTA. RASTRO MUNICIPAL
 
 ###### ARTICULO 99.
@@ -4242,3 +4254,9 @@ P.O. 24 DE AGOSTO DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 123 POR EL QUE SE REFORMA LA FRACCIÓN XI, DEL ARTÍCULO 21; Y SE DEROGAN LAS FRACCIONES XII, XIII Y XIV, DEL ARTÍCULO 21, Y EL ARTÍCULO 30, TODOS DE LA LEY DE HACIENDA PARA CADA MUNICIPIO: ARMERÍA, COLIMA, COMALA, COQUIMATLÁN, CUAUHTÉMOC, IXTLAHUACÁN, MANZANILLO, MINATITLÁN, TECOMÁN Y VILLA DE ÁLVAREZ.”]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 192 POR EL QUE SE ADICIONA UN ARTÍCULO 98 BIS, A LA LEY DE HACIENDA PARA EL MUNICIPIO DE CUAUHTÉMOC, COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
