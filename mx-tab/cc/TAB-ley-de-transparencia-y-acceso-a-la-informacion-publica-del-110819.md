@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1108
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2017-07-05"
+last_updated: "2019-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el martes 15 de diciembre de 2015.
 
@@ -473,11 +473,11 @@ V. Colaborar con los integrantes del Sistema Estatal, para fortalecer y garantiz
 
 El Instituto Tabasqueño de Transparencia y Acceso a la Información Pública es un órgano constitucional autónomo, especializado, imparcial y colegiado, dotado de plena autonomía técnica, jurídica, de gestión y presupuestaria, con personalidad jurídica y patrimonio propios, con facultades para hacer cumplir a los Sujetos Obligados y sancionar la inobservancia de las disposiciones jurídicas en materia de Acceso a la Información Pública, en los términos del artículo 7 de la presente Ley.
 
-(NOTA: EL 9 DE MAYO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE MAYO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 39.
 
-La dirección y administración del Instituto estará a cargo del Pleno, que será su órgano de gobierno, el cual estará integrado por 3 comisionados.
+La dirección y administración del Instituto estará a cargo del Pleno, que será su órgano de gobierno, el cual estará integrado por 3 comisionados, que serán nombrados atendiendo el principio de paridad de género.
 
 ###### Artículo 40.
 
@@ -499,11 +499,13 @@ VII. No haber sido condenado por delito doloso; y
 
 VIII. No ser ministro de culto religioso.
 
-(NOTA: EL 9 DE MAYO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 1/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 9 DE MAYO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
 ###### Artículo 41.
 
 El Congreso del Estado, previa realización de una consulta a la sociedad, a propuesta de la Junta de Coordinación Política, con el voto de las dos terceras partes de los miembros presentes, nombrará al Comisionado que deba cubrir cada vacante.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2019)</small>
+
+La convocatoria que al efecto emita el Congreso del Estado, deberá atender el principio de paridad de género.
 
 El nombramiento podrá ser objetado por el Gobernador del Estado en un plazo de diez días hábiles. Si el Gobernador del Estado no objetara el nombramiento dentro de dicho plazo, ocupará el cargo de Comisionado la persona nombrada por el Congreso del Estado.
 
@@ -2602,3 +2604,19 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 14 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 161 POR EL QUE “SE REFORMA EL ARTÍCULO 39 Y SE ADICIONA UN PÁRRAFO QUE SE INSERTA COMO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS SEGUNDO Y TERCERO, PARA QUEDAR COMO PÁRRAFOS TERCERO Y CUARTO, RESPECTIVAMENTE, DEL ARTÍCULO 41, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Notifíquese el presente Decreto a la Suprema Corte de Justicia de la Nación, con el objeto de que tenga por cumplida la sentencia dictada en la acción de inconstitucionalidad 1/2016, de fecha 09 de mayo 2019.
