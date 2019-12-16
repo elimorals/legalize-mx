@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-atencion-y-proteccion-a-migrantes-y-sus-familias-del-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-21"
-last_updated: "2018-12-21"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NAY"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A MIGRANTES Y SUS FAMILIAS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
-Ley publicada en la Sección Cuarta al Número 133 del Periódico Oficial del Estado de Nayarit, el viernes 21 de diciembre de 2018.
+Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el viernes 21 de diciembre de 2018.
 
 Al margen un Sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Nayarit.
 
@@ -837,9 +837,11 @@ Sus propuestas deberán ser por escrito, dirigidas a la Directora o Director, qu
 
 ### CAPÍTULO ÚNICO. RECONOCIMIENTO AL MIGRANTE NAYARITA
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 88.
 
-El Reconocimiento al Migrante Nayarita será un galardón que otorgará el Poder Ejecutivo del Estado para rendir un reconocimiento al esfuerzo, sacrificio, contribución al desarrollo del Estado, así como a la preservación de la unidad familiar, cultural y tradiciones de las localidades de origen, al migrante nayarita o asociación de migrantes nayaritas que sea propuesto de manera libre y espontánea por las ciudadanas y los ciudadanos nayaritas en la Entidad o el extranjero.
+El Reconocimiento al Migrante Nayarita “Ernesto Galarza” será un galardón que otorgará el Poder Ejecutivo del Estado para rendir un reconocimiento al esfuerzo, sacrificio, contribución al desarrollo del Estado, así como a la preservación de la unidad familiar, cultural y tradiciones de las localidades de origen, al migrante nayarita o asociación de migrantes nayaritas que sea propuesto de manera libre y espontánea por las ciudadanas y los ciudadanos nayaritas en la Entidad o el extranjero.
 
 ###### Artículo 89.
 
@@ -916,3 +918,11 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" del Honorable Congr
 Dip. Eduardo Lugo López, Presidente.- Rúbrica.- Dip. Ma. de la Luz Verdín Manjarrez, Secretaria.- Rúbrica.- Dip. Marisol Sánchez Navarro, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintiún días del mes de Diciembre del año dos mil dieciocho.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica. El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL ARTÍCULO 88 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A MIGRANTES Y SUS FAMILIAS DEL ESTADO DE NAYARIT".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
