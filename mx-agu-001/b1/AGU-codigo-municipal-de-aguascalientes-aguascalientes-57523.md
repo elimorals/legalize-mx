@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2019-10-21"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -19289,6 +19289,10 @@ XVIII. Solicitar el permiso correspondientes, en la Dirección de Reglamentos, p
 
 XIX. Respetar cualquiera de las limitaciones que le impone este Título, al giro de que se trate, así como las demás que se desprendan de la Ley o que determine la autoridad municipal.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XX. Deberán colocar en el exterior del establecimiento un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañado del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
+
 Todo Centro Comercial, tiene la obligación de contar con el servicio de seguridad; por lo cual deberá contratar el servicio de seguridad privada y/o pagar los derechos por los servicios que presta la Secretaría de Seguridad Pública del Municipio de Aguascalientes; por lo cual deberá tener el número suficiente de integrantes operativos y en su caso de los vehículos necesarios para otorgar el servicio de vigilancia, garantizando la seguridad de las personas y de sus bienes al interior del inmueble.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
@@ -19329,7 +19333,7 @@ XIII. Dar mal uso a los colores y símbolos nacionales así como retratos o esta
 
 ### CAPÍTULO XII. De los Hoteles, Moteles, Casas de Huéspedes, Mesones y Otros Establecimientos Similares
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 1323.
 
@@ -19437,7 +19441,11 @@ La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, podrá form
 
 ###### ARTÍCULO 1330.
 
-Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, tienen la obligación de requerir a todo huésped el equipaje correspondiente y sus datos personales previa identificación oficial que deberán anotarse en el libro de registro e independientemente de lo anterior, se prohíbe el ingreso de parejas menores de edad, o con uniforme escolar sin acompañarse de sus padres o familiares, así como personas que se aprecie su ingreso sin el debido consentimiento, o bien que no esté en aptitudes de manifestarlo. La violación a las obligaciones anteriores será materia de sanción, en los términos de este Código.
+Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, tienen la obligación de requerir a todo huésped el equipaje correspondiente y sus datos personales que deberán anotarse en el libro de registro. Independientemente de lo anterior, se prohíbe el ingreso de parejas menores de edad o, en su caso, de personas con uniforme escolar sin acompañarse de sus padres o familiares; así como de personas que se aprecie su ingreso sin el debido consentimiento, o bien que no estén en aptitudes de manifestarlo.
+
+Asimismo, deberán colocar en el exterior de la fachada del establecimiento un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañado del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
+
+La violación a las obligaciones anteriores será materia de sanción en los términos de este Código.
 
 > <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO V], P.O. 4 DE MARZO DE 2013)</small>
 
@@ -19448,6 +19456,16 @@ Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesone
 ###### ARTÍCULO 1331.
 
 Los establecimientos cuyo giro sea la renta de mesas de billar para adultos y líneas de boliche, deberán contar con licencia expedida en términos de este Código y sujetarse a un horario de las nueve a las veinticuatro horas; queda prohibido permitir el acceso a menores de edad a las mesas de billar para adultos.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2019, PÁGINAS 55 Y 56.]</small>
+
+I. a la III ....[SIC]
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 16 DE DICIEMBRE DE 2019, PÁGINAS 55 Y 56.]</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+IV. Colocar en el exterior del establecimiento un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañado del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes. (SIC)
 
 ###### ARTÍCULO 1332.
 
@@ -19479,6 +19497,10 @@ XI. Colocar en lugar visible mensajes en el que se señalen las prohibiciones qu
 
 XII. Cumplir con las disposiciones que establece el presente Código y demás que resulten aplicables.
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XIII.- Deberán colocar en el exterior del establecimiento un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA'', acompañada del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1333.
@@ -19500,6 +19522,12 @@ VI. Prohibir el consumo o venta de bebidas alcohólicas o cigarros dentro del es
 VII. Prohibir la comercialización o reproducción de documentos oficiales que no sean públicos, música, textos y en general cualquier reproducción que contravenga la Ley.
 
 VIII. Las demás que determine la autoridad.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+IX. Deberán colocar en el exterior del establecimiento mercantil un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañada del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
+
+(REPUBLICADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 Los requisitos para el otorgamiento de esta licencia de carácter especial serán: uso del suelo que emitirá la autoridad correspondiente, identificación oficial con fotografía, contrato de arrendamiento en caso de no ser propietario u otro documento que acredite la legal posesión del mismo, comprobante del domicilio particular actual del solicitante, fotografías del exterior y de las instalaciones del negocio, constancia del número de equipos de cómputo que se registren ante la Dirección de Reglamentación.
 
@@ -19550,6 +19578,10 @@ IV. Deberán contar con un área de acceso para muestreo del catálogo de videog
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 V. Deberán vender, rentar y/o intercambiar fonogramas o videogramas cuya reproducción sea lícita.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+VI.- Deberán colocar en la entrada del establecimiento un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA'', acompañada del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
@@ -19984,6 +20016,10 @@ VII. Mantener la seguridad y el orden público dentro de los mercados, así como
 VIII. Otorgar licencias para uso de los locales de los mercados, así como concesionar el servicio sanitario.
 
 IX. La donación de bienes perecederos de conformidad con lo dispuesto en el artículo 1596 del presente ordenamiento.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+X. Deberán colocar en el exterior e interior de los mercados a su adscripción un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañada del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
 
 ###### ARTÍCULO 1363.
 
@@ -23053,6 +23089,10 @@ b) Permitir el consumo de bebidas alcohólicas dentro de los establecimientos me
 
 c) No colocar anuncios visibles que contengan la leyenda de: "El abuso en el consumo del alcohol es nocivo para la salud"; y
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+d) No colocar anuncio visible y legible que contengan la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañada del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes; y
+
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
 III. Sanción de treinta a ciento cincuenta días de salario mínimo general vigente en el Estado por:
@@ -24708,3 +24748,13 @@ P.O. 21 DE OCTUBRE DE 2019.
 PRIMERO. Publíquese el presente ordenamiento en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO. Este ordenamiento entrará en vigor al día siguiente de su publicación.
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS Y ADICIONES DE DIVERSOS ARTÍCULOS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, ASÍ COMO AL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+PRIMERO.- Las presentes reformas y adiciones al Código Municipal de Aguascalientes entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Las personas titulares de las licencias o permisos referidos en el Libro Séptimo del Código Municipal de Aguascalientes y respecto de las modificaciones al Reglamento de Estacionamientos del Municipio de Aguascalientes tendrán 90 días naturales, a partir de la entrada en vigor de las presentes disposiciones reglamentarias, para dar cumplimiento a las mismas.
+
+TERCERO.- La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, por conducto de la Dirección de Mercados, Estacionamientos y Áreas Comerciales, al término del plazo señalado en el artículo transitorio anterior, procederá a verificar el cumplimiento de las presentes disposiciones reglamentarias en todos los establecimientos mercantiles domiciliados en el Municipio de Aguascalientes, imponiendo las sanciones y/o multas respectivas en caso de contravención a las mismas por parte de las personas titulares de las licencias.
