@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2018-12-10"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -2429,11 +2429,11 @@ Se podrán aplicar a la base del presente impuesto las deducciones, subsidios y 
 
 #### SECCION QUINTA. De la Tasa y el Pago
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 67.
 
-Este impuesto se causará y pagará aplicando a la base, la tasa del 2% sobre los pagos efectuados en dinero, en especie o en servicios, por concepto de remuneraciones al trabajo personal por cada uno de los meses del año calendario.
+Este impuesto se causará y pagará aplicando a la base, la tasa del 2.5% sobre los pagos efectuados en dinero, en especie o en servicios, por concepto de remuneraciones al trabajo personal por cada uno de los meses del año calendario.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3316,3 +3316,15 @@ P.O. 10 DE DICIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 1° de enero de 2019.
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 271.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 67 DE LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 01 de enero del año dos mil veinte.
+
+###### ARTICULO SEGUNDO.
+
+La tasa a que se refiere el Artículo 67 de la Ley de Hacienda del Estado de Aguascalientes será aplicable durante los ejercicios fiscales de 2020 y 2021. A partir de los ejercicios subsecuentes la tasa aplicable al Impuesto Sobre Nómina será del 2%.
