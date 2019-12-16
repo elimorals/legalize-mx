@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2019-10-28"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -295,11 +295,11 @@ V.- El Comité de Desarrollo Urbano y Rural;
 
 VI.- El Comité de Adquisiciones; y
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-VII. Comité de Ciudades Hermanas y;
+VII. Consejo Municipal de la Mujer; y
 
-(REUBICADA, P.O. 18 DE DICIEMBRE DE 2017)
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 VIII. Aquellos Comités o Consejos Ciudadanos que estén previstos en alguna Ley o sean aprobados por acuerdo del Ayuntamiento.
 
@@ -24710,3 +24710,11 @@ Artículo Segundo.- La creación del departamento de Trabajo Social adscrito a l
 Artículo Tercero.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
 
 Artículo Cuarto.- Cúmplase.
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL DE CALVILLO, AGUASCALIENTES".]</small>
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Cúmplase.
