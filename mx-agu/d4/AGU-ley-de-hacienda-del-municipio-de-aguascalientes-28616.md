@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "2018-09-10"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -1483,19 +1483,15 @@ Será objeto de los Derechos a que se refiere este Capítulo, la expedición por
 
 Los Derechos que establece el artículo anterior, se fijarán tomando en cuenta el número de hojas en que se hagan constar los Certificados, Certificaciones, Actas, Legalizaciones y Copias, además la mayor o menor dificultad y tiempo que tenga que emplearse en la búsqueda del documento que ha de copiarse o sea necesario consultar.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 138.
 
-Los Derechos a que se refiere este capítulo se causarán y liquidarán de acuerdo a las tarifas que la efecto establece la Ley de Ingresos del Municipio.
+El servicio de alumbrado público estará a cargo de este Municipio de Aguascalientes y será suministrado dentro del territorio del mismo, conforme a lo siguiente:
 
-(NOTA: EL 30 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, PARTE FINAL, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2019, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+I. El Municipio de Aguascalientes determinara la forma de recaudación de la aportación social del alumbrado público, (ASAP), a través del convenio que establezca con la Comisión Federal de Electricidad.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 1995)</small>
-
-ARTICULO 138 bis.- Son causantes del derecho por concepto de alumbrado público en calles, plazas, jardines y demás lugares de uso común, los consumidores de energía eléctrica clasificados en las tarifas 1, 2, 3, OM, HM, HS, HSL, HT, HTL, 1-15, 1-30, HS-R, HS-RF, HS-RM, HT-R, HT-RF, HT-RM, HM-R, HM-RF H, HM-RM, publicadas en el Diario Oficial de fecha 31 de diciembre de 1986, 10 de noviembre de 1991, 3 de abril de 1992, 13 de mayo de 1993, 4 de octubre de 1993 y 30 de septiembre de 1994.
-
-Los derechos de alumbrado público se cubrirán en un 10% del importe de energía eléctrica de los sujetos obligados al pago de este derecho; los importes que resulten será (sic) recaudados por conducto de la Comisión Federal de Electricidad adicionando su monto en las facultades de los consumidores.
-
-Mensualmente la Comisión Federal de Electricidad presentará estado de cuenta de las aplicaciones al Ayuntamiento para su análisis y aprobación.
+ARTICULO 138 BIS.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ### CAPITULO XII. Por Cooperación para Obras Públicas
 
@@ -1870,3 +1866,11 @@ P.O. 10 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del 01 de enero de dos mil diecinueve.
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 274.-ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 138 Y SE DEROGA EL ARTÍCULO 138 BIS, DE LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES.-ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 122 A Y SE DEROGAN LOS ARTÍCULOS 122 B, 122 C, 122 D, 122 E DE LA LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES.- ARTÍCULO TERCERO.- SE REFORMA EL ARTÍCULO 67 A Y SE DEROGAN LOS ARTÍCULOS 67 B, 67 C, 67 D, 67 E, 67 F, 67 G, 67 H, 67 I, 67 J, 67 K, 67 L Y 67 M DE LA LEY DE HACIENDA DEL MUNICIPIO DE RINCÓN DE ROMOS, AGUASCALIENTES.- ARTÍCULO CUARTO.- SE REFORMAN LOS ARTÍCULOS 214, 215 Y 216; LA DENOMINACIÓN DE LA SECCIÓN ÚNICA, DEL CAPÍTULO II, DEL TÍTULO QUINTO PARA QUEDAR COMO “POR EL USO Y MANTENIMIENTO DE LAS LUMINARIAS EN ÁREAS PÚBLICAS (UMLAP)”; SE DEROGAN LOS ARTÍCULOS 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227 Y 228 DE LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 01 de enero de 2020.
