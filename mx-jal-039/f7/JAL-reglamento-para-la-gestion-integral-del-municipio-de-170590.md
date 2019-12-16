@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-para-la-gestion-integral-del-municipio-de-170590"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-07-15"
-last_updated: "2018-09-29"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "JAL"
 
 REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 29 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA MUNICIPAL: 16 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en el Suplemento de la Gaceta Municipal del Estado de Guadalajara, el viernes 15 de julio de 2016.
 
@@ -90,6 +90,10 @@ VII. Áreas de Cesión para Destino: Las que determina el Código Urbano para el
 VIII. Áreas y Predios de Conservación Ecológica: Las tierras, aguas y bosques que por sus características de valor científico, ambiental o paisajístico deben ser conservadas, de conformidad con la legislación aplicable;
 
 IX. Arroyo Vial: Franja destinada a la circulación de los vehículos, delimitada por los acotamientos o las banquetas;
+
+> <small>(ADICIONADA, G.M. 16 DE DICIEMBRE DE 2019)</small>
+
+IX Bis. Asistencia Social: Es el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan a las personas su desarrollo integral, así como la protección física, mental y social de quienes se encuentren en condición de vulnerabilidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva. La asistencia social comprende acciones de promoción, previsión, prevención, protección y rehabilitación, sin fines lucrativos;
 
 X. Banqueta: El espacio público que comprende del inicio del Arroyo Vial al límite de propiedad, la cual se compone por tres franjas:
 
@@ -172,6 +176,10 @@ XXXII. Instrumentos de Planeación Urbana: Los descritos en el artículo 78 del 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 XXXII Bis. Local Comercial: Se entenderá como la suma de la superficie edificada que esté destinada para la operación de un Giro, incluyéndose el área de venta, exhibición de productos, producción, almacenaje, oficinas de administración, salas de espera, circulaciones y cualquier otra relacionada con el Giro, ya sea de comercio o de servicios. Las áreas que no computan para dicha estimación son las áreas verdes o ajardinadas, cajones de estacionamiento ni baños. No se exentará del cómputo a cajones de estacionamiento o baños cuando estos constituyan el Giro.
+
+> <small>(ADICIONADA, G.M. 16 DE DICIEMBRE DE 2019)</small>
+
+XXXII Ter. Lote: Fracción de un predio resultado de su división, debidamente deslindado e incorporado;
 
 XXXIII. Ordenamiento Territorial de los Asentamientos Humanos: Es el proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en el territorio;
 
@@ -717,23 +725,31 @@ Cuando en los Planes Parciales se declaren polígonos de desarrollo controlado, 
 
 ### CAPÍTULO II. Del Control de Usos y Destinos para las Zonas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 29.
 
-El Uso Predominante asignado en la Zonificación Secundaria, determina el Impacto al Contexto que las zonas pueden soportar. Los Usos, Destinos y Giros que sean compatibles deben ajustarse a los lineamientos de control de impacto de la zona, según se establece a continuación:
+De acuerdo con la clasificación de la zonificación secundaria, los Usos y Destinos deberán ajustarse a los lineamientos de control de impacto, que se establecen a continuación:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 16 DE DICIEMBRE DE 2019)</small>
 
-I. Impacto Mínimo: En las zonas con esta denominación, y en zonas habitacionales, los giros compatibles observarán los siguientes lineamientos de control de impacto:
+I. Impacto Mínimo: En las zonas con esta denominación, los Usos y Destinos, permitidos o condicionados, observarán los siguientes lineamientos de control de impacto:
 
 > <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 a) Serán permitidos tanto en edificaciones habitacionales, como de comercio y servicios, industriales o de equipamiento;
 
-> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.M. 16 DE DICIEMBRE DE 2019)</small>
 
-b) El tamaño máximo del conjunto de locales comerciales, y sus circulaciones, será de 30 metros cuadrados. Estarán en planta baja y con acceso directo a la vía pública, cuando sean de atención al público, pudiendo desarrollarse en otros niveles, cuando se trate de giros sin atención al público. Tratándose de Giros de Equipamiento en Predios Públicos, pueden ocupar la totalidad del mismo, por tratarse de la prestación de un servicio público.
+b) El tamaño máximo del conjunto de locales comerciales y sus circulaciones, será:
+
+1. 75 metros cuadrados para lotes menores de 100 metros cuadrados;
+
+2. 150 metros cuadrados para lotes entre 100 y 250 metros cuadrados; y
+
+3. 200 metros cuadrados para lotes mayores a 250 metros cuadrados.
+
+Estarán en planta baja y con acceso directo a la vía pública cuando sean de atención al público, pudiendo desarrollarse en otros niveles cuando se trate de giros sin atención al público. El resto del predio deberá incorporar vivienda.
 
 c) (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
@@ -743,17 +759,17 @@ e) Las descargas de agua residual que generan son solo el resultado de actividad
 
 f) Genera residuos sólidos considerados municipales de acuerdo a la NOM 161 SEMARNAT 2011.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 16 DE DICIEMBRE DE 2019)</small>
 
-II. Impacto Bajo: Los giros con esta denominación observarán los siguientes lineamientos de control de impacto:
+II. Impacto Bajo: En las zonas con esta denominación, los usos y destinos, permitidos o condicionados, observarán los siguientes lineamientos de control de impacto:
 
 > <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
 
 a) Serán permitidos tanto en edificaciones habitacionales, como de comercio y servicios, industriales o de equipamiento;
 
-> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.M. 16 DE DICIEMBRE DE 2019)</small>
 
-b) El tamaño máximo del conjunto de locales comerciales, y sus circulaciones, será el equivalente a la superficie del lote, y deberá localizarse preferentemente en planta baja o hasta el primer nivel, con acceso directo a la vía pública.
+b) Para las zonas con uso de Comercios y Servicios (CS), el tamaño máximo del conjunto de locales comerciales y sus circulaciones, será el equivalente a la superficie del lote, localizándose preferentemente en planta baja con acceso directo a la vía pública.
 
 > <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -769,13 +785,13 @@ f) Generan residuos sólidos, que incluyen, además del tipo municipal, desechos
 
 g) No realizan actividades que representen molestias, incomodidades o riesgos a la comunidad circundante.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 16 DE DICIEMBRE DE 2019)</small>
 
-III. Impacto Medio: En las zonas con esta denominación, los giros compatibles observarán los siguientes lineamientos de control de impacto:
+III. Impacto Medio: En las zonas con esta denominación, los Usos y Destinos, permitidos o condicionados, observarán los siguientes lineamientos de control de impacto:
 
-> <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.M. 16 DE DICIEMBRE DE 2019)</small>
 
-a) El tamaño máximo del conjunto de los locales comerciales, y sus circulaciones, no será mayor del 60% del potencial edificable del lote;
+a) Para las zonas con uso de Comercios y Servicios (CS), el tamaño máximo del conjunto de los locales comerciales, y sus circulaciones, no será mayor del 60% del potencial edificable del lote:
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -787,9 +803,9 @@ d) Generan residuos sólidos, que incluyen, además del tipo municipal, desechos
 
 e) (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 16 DE DICIEMBRE DE 2019)</small>
 
-IV. Impacto Alto: En las zonas con esta denominación, los giros compatibles observarán los siguientes lineamientos de control de impacto:
+IV. Impacto Alto: En las zonas con esta denominación, los usos y destinos, permitidos o condicionados, observarán los siguientes lineamientos de control de impacto:
 
 a) No son asimilables a la vivienda;
 
@@ -807,9 +823,9 @@ e) Generan residuos sólidos, que incluyen, además del tipo municipal, desechos
 
 f) (DEROGADO, G.M. 20 DE DICIEMBRE DE 2017)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.M. 16 DE DICIEMBRE DE 2019)</small>
 
-V. Impacto Máximo: En las zonas con esta denominación, los giros compatibles observarán los siguientes lineamientos de control de impacto:
+V. Impacto Máximo: En las zonas con esta denominación, los Usos y Destinos, permitidos o condicionados, observaran los siguientes lineamientos de control de impacto:
 
 > <small>(REFORMADO, G.M. 24 DE ABRIL DE 2017)</small>
 
@@ -839,6 +855,24 @@ i) Requieren del uso de equipos de transporte con capacidad mayor a 30- treinta 
 
 j) Aun contando con área para carga y descarga, utiliza vehículos pesados que afectan la circulación del lugar o lo hace en horas inhábiles.
 
+> <small>(ADICIONADO, G.M. 16 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 29 Bis.
+
+Independientemente del impacto asignado a la zonificación secundaria, se permitirá la ocupación de actividades comerciales y de servicios, en la totalidad de la superficie del lote y la edificación, en los siguientes casos:
+
+I. Zonas con uso Equipamiento (E);
+
+II. Zonas con uso Industrial (I);
+
+III. Predios de propiedad pública donde se desarrollen actividades del sector público;
+
+IV. Predios de propiedad privada donde se desarrollen actividades del sector público;
+
+V. Predios de propiedad privada que desarrollen actividades y acciones de asistencia social, educativas o del sector salud; y
+
+VI. Predios de propiedad privada donde se presten servicios de educación preescolar y guarderías.
+
 > <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
 ###### Artículo 30.
@@ -855,27 +889,55 @@ III. Prohibidos: Aquellos que no cumplen con alguna de las dos fracciones anteri
 
 En cualquier caso, las Direcciones de Ordenamiento del Territorio, de Movilidad y Transporte, de Medio Ambiente, y de Resiliencia, podrán indicar otras condicionantes contempladas en la normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.M. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.M. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 31.
 
-La Matriz de Compatibilidad, es el instrumento mediante el cual, se define la compatibilidad de usos y destinos en las Zonas Secundarias, estableciéndose los usos permitidos, condicionados y prohibidos para cada una de las zonas. Para determinar la permisibilidad, deberá leerse de manera horizontal desde la Zona Secundaria en la que se encuentre clasificado el Predio de referencia (A), cruzándose con los usos y destinos establecidos para cada zona (B). La letra P se refiere a que el uso se encuentra permitido; la letra C, se refiere a que el uso se encuentra condicionado, y la letra X, a que el uso se encuentra prohibido (Tabla 2):
+La Matriz de Compatibilidad, es el instrumento mediante el cual, se define la compatibilidad de Usos y Destinos en las Zonas Secundarias, estableciéndose los usos permitidos, condicionados y prohibidos para cada una de las zonas. Para determinar la permisibilidad, deberá leerse de manera horizontal desde la Zona Secundaria en la que se encuentre clasificado el Predio de referencia (A), cruzándose con los Usos y Destinos establecidos para cada zona (B). La letra P se refiere a que el uso se encuentra permitido; la letra C, se refiere a que el uso se encuentra condicionado, y la letra X, a que el uso se encuentra prohibido (Tabla 2):
+
+* La tabla queda en sus términos.
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.M. DE 15 DE JULIO DE 2016, PÁGINA 21.]</small>
 
 > <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA G.M. DE 24 DE ABRIL DE 2017 PÁGINA 11; 20 DE DICIEMBRE DE 2017, PÁGINA 9 .]</small>
 
-> <small>(REFORMADO, G.M. 29 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.M. 16 DE DICIEMBRE DE 2019)</small>
+
+Habrá excepciones y condiciones especiales a la Matriz de Compatibilidad, para algunas actividades económicas o giros, las cuales estarán previstas en el reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios en el Municipio de Guadalajara.
+
+> <small>(REFORMADO, G.M. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 32.
 
-Las acciones urbanísticas en todas las zonas secundarias, cuyo uso de suelo solicitado es permitido o condicionado, se sujetarán a los lineamientos de control de impacto de dicha zona incluyendo el tamaño máximo de los locales, de conformidad con el artículo 29 de este Reglamento.
+Las acciones urbanísticas y demás actos administrativos que se deriven de los planes parciales de desarrollo urbano, cuyo uso de suelo solicitado es permitido o condicionado, serán aplicables las siguientes reglas:
 
-Los usos compatibles serán aplicables únicamente para el establecimiento de Giros y no para las Normas de Control de la Urbanización y Edificación ni para la superficie máxima de operación del Giro.
+I. Se sujetarán a los lineamientos de control de impacto de la zona a la que pertenecen, incluyendo el tamaño máximo de los locales, de conformidad con el artículo 29 de este Reglamento;
 
-En las zonas con uso predominante Habitacional, cualquiera que sea el tipo de los señalados en el artículo 21 fracciones I a la V, los giros, independientemente de su impacto y compatibilidad, no podrán exceder de 30.00 metros cuadrados de superficie de operación.
+II. Los usos compatibles serán aplicables únicamente para el establecimiento de giros y no para las Normas de Control de la Urbanización y Edificación ni para la superficie máxima de operación del Giro; y
 
-En predios zonificados como Equipamiento, los giros compatibles podrán implementarse siempre y cuando sean complementarios, y se mantenga como uso principal el equipamiento.
+III. En las zonas con uso predominante Habitacional, cualquiera que sea el tipo de los señalados en el artículo 21 fracciones I a la V, aplica lo siguiente:
+
+a) El tamaño máximo del conjunto de locales comerciales y sus circulaciones, será:
+
+1. 75 metros cuadrados para lotes menores de 100 metros cuadrados;
+
+2. 150 metros cuadrados para lotes entre 100 y 250 metros cuadrados;
+
+3. 200 metros cuadrados para lotes mayores a 250 metros cuadrados.
+
+Estarán en planta baja y con acceso directo a la vía pública cuando sean de atención al público, pudiendo desarrollarse en otros niveles cuando se trate de giros sin atención al público. El resto del predio deberá incorporar vivienda.
+
+b) Se permitirá la ocupación por actividades de prestación de servicios, en la totalidad dé la superficie del lote y la edificación, para:
+
+1. Equipamientos;
+
+2. Predios de propiedad pública donde se desarrollen actividades del sector público;
+
+3. Predios de propiedad privada donde se desarrollen actividades del sector público;
+
+4. Predios de propiedad privada que desarrollen actividades y acciones de asistencia social, debidamente acreditadas; y
+
+5. Predios de propiedad privada donde se presten servicios de educación preescolar y guarderías.
 
 > <small>(REFORMADO, G.M. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -5568,3 +5630,15 @@ Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalaja
 Segundo. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
 
 Tercero. Una vez publicadas las presentes reformas, remítase mediante oficio un tanto de ella al Congreso del Estado de Jalisco, para los efectos ordenados en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
+
+G.M. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL REGLAMENTO PARA LA GESTIÓN INTEGRAL DEL MUNICIPIO DE GUADALAJARA; AL REGLAMENTO PARA EL FUNCIONAMIENTO DE GIROS COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS EN EL MUNICIPIO DE GUADALAJARA Y AL ANEXO DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE GIROS COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS EN EL MUNICIPIO DE GUADALAJARA".]
+
+Primero. Publíquense las presentes reformas en la Gaceta Municipal de Guadalajara.
+
+Segundo. Estas reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Municipal de Guadalajara.
+
+Tercero. Quedan derogadas las disposiciones de orden municipal que se opongan a lo establecido.
+
+Cuarto. Una vez publicadas las presentes reformas, remítase una copia al Congreso del Estado de Jalisco para efectos de lo ordenado en la fracción VII del artículo 42 de la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco.
