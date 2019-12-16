@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-879-de-derechos-y-cultura-indigenas-para-el-77488"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-03"
-last_updated: "2018-11-21"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "VER"
 
 LEY NÚMERO 879 DE DERECHOS Y CULTURAS INDÍGENAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2019.
 
-Ley publicada en el Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 3 de noviembre de 2010.
+Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 3 de noviembre de 2010.
 
 PODER EJECUTIVO
 
-Al margen un sello que dice: Estados Unidos Mexicanos.-Gobernador del Estado de Veracruz de Ignacio de la Llave.
+Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
 "2010 año del bicentenario de la Independencia Nacional y del centenario de la Revolución Mexicana."
 
@@ -877,6 +877,26 @@ V. Incluir la Comisión de Asuntos Indígenas, cuando en su territorio se asient
 
 VI. Establecer asignaciones presupuestales específicas que permitan el cumplimiento de lo establecido en las disposiciones de la materia.
 
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2019)</small>
+
+VII. Fomentar la industrialización y comercialización de los productos agropecuarios de las comunidades indígenas desde un enfoque orientado a la integración de cadenas productivas, a través de programas y proyectos específicos;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2019)</small>
+
+VIII. Impulsar el establecimiento de talleres de organización, capacitación y administración, dirigidos a los indígenas artesanos, así como acciones para fomentar la producción artesanal, la comercialización de las artesanías en los mercados local, nacional e internacional, en coordinación con el Ejecutivo del Estado;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2019)</small>
+
+IX. Incluir políticas de igualdad de género en las diversas acciones que realicen para garantizar la participación de las mujeres en las mismas condiciones que los varones, propiciando la realización de proyectos y acciones institucionales que garanticen la incorporación al desarrollo, tanto de mujeres como de hombres indígenas;
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2019)</small>
+
+X. Promover la creación de áreas administrativas encargadas de atender los asuntos indígenas. Las personas que ocupen dichos cargos serán preferentemente miembros de los pueblos o comunidades indígenas que habiten dentro del territorio del Municipio; y
+
+> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XI. Crear las políticas públicas que sean necesarias para la aplicación de programas y proyectos encaminados al desarrollo integral de las comunidades indígenas del Estado.
+
 T R A N S I T O R I O S
 
 Artículo primero. La presente Ley entrará en vigor el día de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado.
@@ -940,3 +960,11 @@ G.O. 21 DE NOVIEMBRE DE 2018.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 306 QUE ADICIONA DIVERSAS FRACCIONES AL ARTÍCULO 101 DE LA LEY DE DERECHOS Y CULTURAS INDÍGENAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
