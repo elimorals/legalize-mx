@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-1017
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2019-10-21"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101700&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 3 de julio de 2014.
 
@@ -579,7 +579,9 @@ Los medios de comunicación implementarán el uso de tecnología y, en su caso, 
 
 Las autoridades competentes deberán:
 
-I. Establecer medidas que garanticen la plena incorporación de las personas con discapacidad en todas las acciones y programas de desarrollo social del Estado;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+I. Establecer medidas que garanticen la plena incorporación de las personas con discapacidad en todas las acciones y programas de desarrollo social del Estado, así como fomentar que las dependencias utilicen formatos accesibles y con las tecnologías adecuadas a los diferentes tipos de discapacidad para la difusión de información dirigida al público, de manera oportuna y sin costo adicional;
 
 II. Establecer los lineamientos para la recopilación de información y estadística estatal de la población con discapacidad;
 
@@ -589,7 +591,9 @@ IV. Concertar la apertura de centros asistenciales y de protección para persona
 
 V. Buscar que las políticas de asistencia social que se promuevan para las personas con discapacidad estén dirigidas a lograr su plena inclusión social y a la creación de programas interinstitucionales de atención integral;
 
-VI. Propiciar el diseño y la formación de un sistema de información sobre los servicios públicos en materia de discapacidad, con el objeto de identificar y difundir la existencia de los diferentes servicios de asistencia social y las instancias que los otorguen;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+VI. Propiciar el diseño y la formación de un sistema de información sobre los servicios públicos en materia de discapacidad, a través de la utilización de la lengua de señas mexicana, el sistema braille, así como los sistemas y tecnologías de acceso a la información y las comunicaciones e internet con los que se cuente, con el objeto de identificar y difundir la existencia de los diferentes servicios de asistencia social y las instancias que los otorguen;
 
 VII. Impulsar el desarrollo de la investigación de la asistencia social para las personas con discapacidad, a fin de que la prestación de estos servicios se realice adecuadamente;
 
@@ -1070,3 +1074,9 @@ Primero.- El presente Decreto entrará en vigor el día uno de enero de 2020.
 Segundo.- El presupuesto de Egresos del Estado de Nuevo León, para el ejercicio fiscal 2020, deberá contemplar las previsiones financieras necesarias para el cumplimiento del presente Decreto.
 
 Tercero.- El Estado y los Municipios de Nuevo León, deberán ajustarse en todo momento a lo señalado en los artículos 10, 13 y 14 según corresponda, de la Ley de Disciplina Financiera de las Entidades Federativas y Municipios, en relación con las erogaciones en servicios personales y el uso de recursos excedentes.
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 195. SE REFORMA POR MODIFICACIÓN LAS FRACCIONES I Y VI DEL ARTÍCULO 37 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
