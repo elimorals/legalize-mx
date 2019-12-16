@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2019-07-16"
+last_updated: "2019-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -49,15 +49,11 @@ LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
 La presente ley es de orden público y tiene por objeto regular la organización y funcionamiento del Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 2.
 
-Corresponde a los Tribunales del Poder Judicial, en los términos de la Constitución Política del Estado Libre y Soberano de México, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil, familiar, penal, de justicia para adolescentes y en las demás materias del fuero común y del orden federal, en los casos en que expresamente los ordenamientos legales les confieran jurisdicción.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Corresponde a los Tribunales del Poder Judicial, en los términos de la Constitución Política del Estado Libre y Soberano de México, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil, familiar, penal, de justicia para adolescentes laboral y en las demás materias del fuero común y del orden federal en los casos en que expresamente los ordenamientos legales les confieran jurisdicción.
 
 > <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
@@ -71,11 +67,17 @@ II. El Consejo de la Judicatura;
 
 III. Los juzgados y tribunales de primera instancia;
 
-IV. Los juzgados de cuantía menor; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 16 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+IV. Los tribunales laborales;
 
-V. Los servidores públicos de la administración de justicia, en los términos que establece esta ley, el Código de Procedimientos Civiles, el Código Nacional de Procedimientos Penales y, demás disposiciones legales.
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+V. Los juzgados de cuantía menor, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+VI. Los servidores públicos de la administración de justicia, en los términos que establece esta ley, el Código de Procedimientos Civiles, el Código Nacional de Procedimientos Penales, la Ley Federal del Trabajo y, demás disposiciones legales.
 
 > <small>(REFORMADO, G.G. 26 DE OCTUBRE DE 2011)</small>
 
@@ -115,9 +117,13 @@ X. Los tutores, curadores, depositarios, albaceas y los interventores judiciales
 
 XI.- Los mediadores y conciliadores, en los casos y términos establecidos en la ley;
 
-> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 16 DE DICIEMBRE DE 2019)</small>
 
-XII.- Los demás a quienes las leyes les confieran este carácter.
+XII. Las autoridades laborales y de seguridad social, estatales y federales, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+XIII. Los demás a quienes las leyes les confieran ese carácter.
 
 ###### Artículo 6.
 
@@ -975,13 +981,11 @@ XIII. Las demás que le otorguen las leyes.
 
 ### CAPITULO SEXTO. De los Tribunales y Juzgados de Primera Instancia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 65.
 
-En cada distrito o región judicial habrá el número de tribunales o juzgados de primera instancia que el Consejo de la Judicatura determine, los que tendrán competencia para conocer de los asuntos civiles, mercantiles, penales, de lo familiar, de justicia para adolescentes y demás materias en que ejerzan su jurisdicción.
+En cada distrito o región judicial podrán crearse el número de tribunales o juzgados de primera instancia, que el Consejo de la Judicatura determine, los que tendrán competencia para conocer de los asuntos laborales, civiles, mercantiles, penales, de lo familiar, de justicia para adolescentes, y demás materias en que ejerzan su jurisdicción.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE JULIO DE 2019)</small>
 
@@ -1419,11 +1423,11 @@ Los ejecutores, notificadores y los demás servidores desempeñarán las labores
 
 1.- El Consejo de la Judicatura podrá crear centrales de ejecutores y notificadores por Distrito Judicial o en parte de éste, las que tendrán a su cargo realizar las notificaciones personales y diligencias físicas o electrónicas que deban efectuarse fuera de los órganos jurisdiccionales y dentro de la competencia territorial que ejerzan estos.
 
-> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 93.
 
-2.- Los secretarios de acuerdos de los órganos jurisdiccionales o los notificadores adscritos deberán remitir los expedientes o instructivos con las constancias necesarias a las centrales de ejecutores y notificadores para su diligenciación con la oportunidad debida.
+2.- Los secretarios de acuerdos e instructores de los órganos jurisdiccionales o los notificadores adscritos deberán remitir los expedientes o instructivos con las constancias necesarias a las centrales de ejecutores y notificadores para su diligenciación con la oportunidad debida.
 
 > <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
 
@@ -2323,7 +2327,9 @@ Para ser perito se requiere:
 
 I. Ser ciudadano mexicano;
 
-II. Tener conocimiento, capacidad y preparación en la ciencia, arte u oficio sobre el que va a dictaminar y poseer, en su caso, título profesional expedido por una institución de enseñanza superior legalmente facultada para ello;
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+II. Tener conocimiento, capacidad y preparación en la ciencia, arte u oficio sobre el que va a dictaminar y poseer, en su caso, título profesional expedido por una institución de enseñanza superior legalmente facultada para ello; si la profesión o el arte estuvieren legalmente reglamentados, los peritos deben acreditar estar autorizados conforme a la Ley.
 
 > <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
 
@@ -2335,9 +2341,11 @@ V. No tener impedimento físico o enfermedad que lo imposibilite para el ejercic
 
 VI. No ser ministro de ningún culto religioso.
 
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 173.
 
-Los peritos del tribunal intervendrán únicamente en los casos de rebeldía de la parte demandada o como terceros en discordia, cuando así lo soliciten los magistrados o los jueces que requieran de su intervención.
+Los peritos del tribunal intervendrán únicamente en los casos de rebeldía de la parte demandada, o como terceros en discordia, cuando así lo soliciten los magistrados o los jueces que requieran de su intervención; o bien, cuando sean designados por los Tribunales Laborales.
 
 ###### Artículo 174.
 
@@ -2790,6 +2798,70 @@ Artículo 201 ter.- (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 ###### Artículo 212.
 
 (DEROGADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+## TITULO DECIMO QUINTO. De los Tribunales Laborales
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 213.
+
+La función jurisdiccional en materia laboral se ejerce por los Tribunales Laborales.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 214.
+
+Los jueces laborales tendrán fe pública en el ejercicio de su función.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 215.
+
+Los jueces laborales conocerán de los conflictos individuales y colectivos, de conformidad con las disposiciones de la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 216.
+
+El tribunal laboral contará con el personal siguiente:
+
+I. Juez laboral;
+
+II. Secretarios, y
+
+III. Los servidores públicos que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 217.
+
+Los jueces laborales tendrán las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 218.
+
+Los secretarios de los tribunales laborales, además de las facultades que señala la Ley Federal del Trabajo, tendrán las siguientes:
+
+I. A petición del Juez laboral, dictar los acuerdos relativos a la etapa escrita del procedimiento;
+
+II. Al inicio de las audiencias, hacer constar oralmente en el registro la fecha, hora y lugar de realización, el nombre de los servidores públicos del Tribunal, y demás personas que intervendrán;
+
+III. Tomar protesta previa de que se conducirán con verdad las partes y los terceros que intervengan en el desarrollo de las audiencias, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad;
+
+IV. Certificar el medio en donde se encuentre registrada la audiencia respectiva, identificar dicho medio con el número de expediente y tomar las medidas necesarias para evitar que pueda alterarse;
+
+V. Firmar las resoluciones que así lo ameriten, el día en que se emitan;
+
+VI. Decretar las providencias cautelares previstas en la Ley Federal del Trabajo, y
+
+VII. Las demás que determine la ley o el Consejo de la Judicatura.
 
 T R A N S I T O R I O S
 
@@ -3266,3 +3338,65 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Los procedimientos y actividades que se hayan iniciado previo a la entrada en vigor del presente Decreto, en relación con las disposiciones del mismo, deberán tramitarse hasta su conclusión en los términos de las normas que estuvieron vigentes en su inicio.
+
+G.G. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 101.- POR EL QUE SE EXPIDE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MÉXICO, SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO Y DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+Primero. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+Segundo. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”, sin perjuicio de lo dispuesto por los transitorios siguientes.
+
+Tercero. A partir de la entrada en vigor del presente Decreto y para dar cumplimiento a las disposiciones contenidas en el mismo:
+
+a) El Titular del Ejecutivo Estatal deberá designar al Director General del Centro de Conciliación Laboral del Estado de México en un plazo que no excederá los ciento ochenta días naturales a su publicación en el Periódico Oficial “Gaceta del Gobierno".
+
+b) La Secretaría de Finanzas incluirá en el proyecto de presupuesto de egresos para el ejercicio fiscal 2020, los recursos que sean necesarios para la creación, operación e inicio de funciones del Centro de Conciliación Laboral del Estado de México, mismo que será enviado a la Legislatura Estatal para su aprobación.
+
+c) El Poder Judicial del Estado de México incluirá en su proyecto de presupuesto de egresos para el ejercicio fiscal 2020, los recursos que sean necesarios para la creación, operación e inicio de funciones de los Tribunales Laborales.
+
+Cuarto. Hasta en tanto el Centro Federal de Conciliación y Registro Laboral no inicie sus funciones registrales, las Juntas locales de Conciliación y Arbitraje continuarán con las funciones registrales previstas en la Ley Federal del Trabajo vigente al momento de su inicio.
+
+Quinto. El Centro de Conciliación Laboral del Estado de México a que hace referencia el presente Decreto iniciará operaciones en la misma fecha en que lo hagan los Tribunales Laborales del Estado de México, conforme a las disposiciones previstas en el presente Decreto.
+
+Una vez que entren en operación el Centro de Conciliación Laboral del Estado de México y los Tribunales Laborales, los procedimientos y los juicios se ventilarán ante ellos de conformidad con las disposiciones prevista en el Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
+
+Sexto. Los procedimientos que se encuentren en trámite ante las Juntas locales de Conciliación y Arbitraje del Estado de México, serán concluidos por estas de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Séptimo. Hasta en tanto entre en funciones el Centro de Conciliación Laboral del Estado de México, la Procuraduría de la Defensa del Trabajo conservará la facultad para citar a los patrones o sindicatos a juntas de avenimiento o conciliatorias, apercibiéndolos que de no comparecer a dichas diligencias, se les impondrá la medida de apremio a que se refiere la fracción I del artículo 731 de la Ley Federal del Trabajo, bajo la condición que si el solicitante del servicio no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.
+
+Dichos procedimientos se tramitarán conforme a las disposiciones de la Ley Federal del Trabajo y demás leyes vigentes hasta antes de la entrada en vigor del Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
+
+Octavo. En la implementación de las disposiciones a que se refiere el Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019, el Centro de Conciliación Laboral del Estado de México y los Tribunales Laborales deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+Noveno. La persona titular de la Secretaría del Trabajo, en su calidad de Presidente del Consejo Directivo del Centro de Conciliación Laboral del Estado de México, convocará a la primera sesión de dicho órgano dentro de los treinta días naturales siguientes a la fecha de designación de su titular.
+
+El Director General presentará en la primera sesión del Consejo Directivo, los documentos previstos en las fracciones III, IV, V, VI y VII del artículo 19 de la Ley del Centro, con excepción del Código de Conducta, el cual será emitido en términos de las disposiciones aplicables.
+
+Décimo. Las convocatorias a concurso para la selección de personal del Centro de Conciliación Laboral del Estado de México y de los Tribunales Laborales serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de las Juntas de Conciliación y Arbitraje.
+
+Décimo Primero. Las Juntas Locales de Conciliación y Arbitraje se ajustarán al plan de trabajo que hubieren presentado al Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral, respecto a la conclusión de los asuntos en trámite y la ejecución eficaz de los laudos así como para el cierre y conclusión de labores en forma paulatina y gradual de dichos órganos.
+
+Décimo Segundo. La Legislatura del Estado emitirá la Declaratoria de entrada en funciones de los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de México, a más tardar el 30 de septiembre de 2020. Dicha Declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+Décimo Tercero. De conformidad con la capacidad presupuestal y recursos humanos e informáticos del Poder Judicial, el Consejo de la Judicatura emitirá los acuerdos generales para implementar las herramientas necesarias para el funcionamiento del sistema de justicia laboral. Lo que hará del conocimiento de los interesados a través del periódico oficial "Gaceta del Gobierno", del Boletín Judicial y por cualquier otro medio de difusión.
+
+Décimo Cuarto. El Consejo de la Judicatura deberá emitir los lineamientos administrativos a que se refiere este Decreto, entre otros, los referentes a los Sistemas de Notificación Electrónica y del Expediente Electrónico, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+Décimo Quinto. El Consejo de la judicatura implementará un sistema de gestión que garantice el control y eficiencia de las Centrales de Ejecutores y Notificadores en materia del trabajo.
+
+Décimo Sexto. Se instalará a la brevedad posible el Grupo Interinstitucional para la Implementación de la Reforma al Sistema de Justicia Laboral en el Estado de México, como instancia local de consulta, planeación y coordinación, en términos de los lineamientos de operación que emita, y se integrará por un representante de las entidades públicas siguientes:
+
+a) Secretaría del Trabajo;
+
+b) Secretaría de Finanzas;
+
+c) Secretaría de Justicia y Derechos Humanos;
+
+d) Poder Judicial del Estado de México, y
+
+e) Poder Legislativo del Estado de México.
+
+Décimo Séptimo. La Legislatura del Estado proveerá de los recursos necesarios para la implementación de la reforma del sistema de justicia laboral del Estado de México y para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+Décimo Octavo. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
