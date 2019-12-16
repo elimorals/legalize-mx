@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-aguas-del-estado-de-baja-california-sur-21957"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-31"
-last_updated: "2016-10-31"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 2016.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de julio de 2001.
 
@@ -403,7 +403,9 @@ XIV. Establecer relaciones de coordinación con las autoridades federales, estat
 
 XV. Ordenar que se practiquen las visitas de inspección y verificación, de conformidad con lo señalado en la sección IV del Capitulo IV del Título III de la presente Ley;
 
-XVI. Ordenar que se practiquen, en forma regular y periódica, muestras y análisis del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como a la que una vez utilizada se vierta a los causes o vasos, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XVI. Ordenar que se practiquen examenes, análisis y muestreos para determinar la calidad del agua para uso y consumo humano, de conformidad con las Normas Oficiales Mexicanas; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como a la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable. La información que se genere con motivo del ejercicio de esta atribución se considerará de carácter relevante, razón por la cual, se constituirá como una obligación especifica de transparencia para la Comisión y por tanto deberá ser publicada en su página de internet, misma que necesariamente incluirá el calendario anual de muestreos a realizar y los resultados de cada una de las muestras realizadas, agregando a los resultados obtenidos la relativa a la ublicación (sic) y el tipo de muestra realizada. Toda esta información deberá conservarse en archivo digital y sus valores se actualizarán dentro de los 15 dias posteriores a la realización de las muestras.
 
 XVII. Realizar las actividades que se requieran para lograr que el Organismo preste a la comunidad servicios adecuados y eficientes;
 
@@ -507,7 +509,15 @@ XVIII. Aplicar las sanciones que se establecen en el Artículo 140, por las infr
 
 XIX. Resolver los recursos y demás medios de impugnación interpuestos en contra de sus actos o resoluciones;
 
-XX. Las demás atribuciones que les otorguen ésta u otras disposiciones legales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XX. Garantizar que el agua suministrada para el uso y consumo humano sea de calidad, para lo cual en coordinación con las autoridades competentes deberán practicar los examenes, analisis y muestreos que correspondan, de conformidad con las Normas Oficiales Mexicanas; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como a la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable. La información que se genere con motivo del ejercicio de esta atribución se considerará de carácter relevante, razón por la cual, se constituirá como una obligación especifica de transparencia para los Ayuntamientos y por tanto deberá ser publicada en sus páginas de internet,
+
+(sic) misma que necesariamente incluirá el calendario anual de muestreos a realizar y los resultados de cada una de las muestras realizadas, agregando a los resultados obtenidos la relativa a la ublicación (sic) y el tipo de muestra realizada. Toda esta información deberá conservarse en archivo digital y sus valores se actualizarán dentro de los 15 dias posteriores a la realización de las muestras.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XXI. Las demás atribuciones que les otorguen ésta u otras disposiciones legales.
 
 ###### Artículo 20.
 
@@ -723,7 +733,9 @@ XIII. Establecer relaciones de coordinación con las autoridades federales, esta
 
 XIV. Ordenar que se practiquen las visitas de inspección y verificación, de conformidad con lo señalado en el Artículo 123 de la presente Ley;
 
-XV. Ordenar que se practiquen en forma regular y periódica, muestras y análisis del agua; Llevar (sic) estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XV. Ordenar que se practiquen examenes, análisis y muestreos para determinar la calidad del agua para uso y consumo humano, de conformidad con las Normas Oficiales Mexicanas; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como a la que una vez utilizada se vierta a los cauces o vasos, de conformidad con la legislación aplicable. La información que se genere con motivo del ejercicio de esta atribución se considerará de carácter relevante, razón por la cual, se constituirá como una obligación especifica de transparencia para los organismos operadores y por tanto deberá ser publicada en sus páginas de internet, misma que necesariamente incluirá el calendario anual de muestreos a realizar y los resultados de cada una de las muestras realizadas, agregando a los resultados obtenidos la relativa a la ublicación (sic) y el tipo de muestra realizada. Toda esta información deberá conservarse en archivo digital y sus valores se actualizarán dentro de los 15 dias posteriores a la realización de las muestras.
 
 XVI. Realizar las actividades que se requieran para lograr que el Organismo preste a la comunidad servicios adecuados y eficientes;
 
@@ -1343,7 +1355,7 @@ La Junta de Gobierno de la Comisión vigilará la correcta aplicación de las f�
 
 ###### Artículo 114.
 
-Las cuotas y tarifas se actualizarán automáticamente cada vez que el índice Nacional de Precios al Consumidor se incremente en un cinco por ciento respecto del que estaba vigente la última vez que se establecieron.
+Las cuotas y tarifas se actualizarán automáticamente cada vez que el Índice Nacional de Precios al Consumidor se incremente en un cinco por ciento respecto del que estaba vigente la última vez que se establecieron.
 
 ###### Artículo 115.
 
@@ -1868,3 +1880,11 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2684 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
