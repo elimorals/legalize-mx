@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2018-09-19"
+last_updated: "2019-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -1429,13 +1429,9 @@ Los ingresos, promociones y reconocimientos deberán ser oportunamente notificad
 
 Será nula y, en consecuencia, no surtirá efecto alguno toda forma de ingreso o de promoción distinta a lo establecido en la Ley General del Servicio Profesional Docente. Dicha nulidad será declarada por el área competente, aplicando para ello el procedimiento previsto en el artículo 75 de la Ley General del Servicio Profesional Docente.
 
-> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2014)</small>
-
 ###### Artículo 73.
 
-Será separado del servicio público sin responsabilidad para la Autoridad Educativa Estatal o para el organismo descentralizado, y sin necesidad de que exista resolución previa del Tribunal Estatal de Conciliación y Arbitraje o Junta de Conciliación y Arbitraje competente del Estado de México, según sea el caso, el evaluador que no se excuse de intervenir en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge, su concubina o concubinario, o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles.
-
-Lo anterior, sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2014)</small>
 
@@ -1445,13 +1441,9 @@ La Autoridad Educativa Estatal y los organismos descentralizados deberán revisa
 
 De comprobarse que la documentación es apócrifa o ha sido alterada, se desechará el trámite. En cualquier caso se dará parte a las autoridades competentes para los efectos legales que procedan.
 
-> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2014)</small>
-
 ###### Artículo 75.
 
-El incumplimiento de las obligaciones establecidas en el artículo 69 de la Ley General del Servicio Profesional Docente dará lugar a la terminación de los efectos del nombramiento correspondiente sin responsabilidad para la Autoridad Educativa Estatal o para el organismo descentralizado y sin necesidad de que exista resolución previa del Tribunal Estatal de Conciliación y Arbitraje o de la Junta de Conciliación y Arbitraje competente del Estado de México.
-
-Lo anterior, sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2014)</small>
 
@@ -1461,13 +1453,9 @@ Cuando la Autoridad Educativa Estatal o el organismo descentralizado considere q
 
 La Autoridad Educativa Estatal o el organismo descentralizado dictarán resolución en un plazo máximo de diez días hábiles con base en los datos aportados por el probable infractor y demás constancias que obren en el expediente respectivo.
 
-> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2014)</small>
-
 ###### Artículo 77.
 
-Con el propósito de asegurar la continuidad en el servicio educativo, el servidor público del Sistema Educativo Estatal, el personal docente y el personal con funciones de dirección o de supervisión en la educación básica y media superior que incumpla con la asistencia a sus labores por más de tres días consecutivos o discontinuos, en un periodo de treinta días naturales, sin causa justificada será separado del servicio sin responsabilidad para la Autoridad Educativa Estatal o para el organismo descentralizado, y sin necesidad de que exista resolución previa del Tribunal Estatal de Conciliación y Arbitraje o de la Junta de Conciliación y Arbitraje competente del Estado de México, aplicando para ello el procedimiento previsto en el artículo 75 de la Ley General del Servicio Profesional Docente.
-
-Lo anterior, sin perjuicio del derecho del interesado de impugnar la resolución respectiva ante las instancias jurisdiccionales que correspondan.
+(DEROGADO, G.G. 16 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2014)</small>
 
@@ -3022,3 +3010,65 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Para la aplicación e implementación de las disposiciones contenidas en el presente Decreto, la Legislatura del Estado deberá proveer los recursos necesarios.
+
+G.G. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 101.- POR EL QUE SE EXPIDE LA LEY DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE MÉXICO, SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DEL ADULTO MAYOR DEL ESTADO DE MÉXICO Y DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+Primero. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+Segundo. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”, sin perjuicio de lo dispuesto por los transitorios siguientes.
+
+Tercero. A partir de la entrada en vigor del presente Decreto y para dar cumplimiento a las disposiciones contenidas en el mismo:
+
+a) El Titular del Ejecutivo Estatal deberá designar al Director General del Centro de Conciliación Laboral del Estado de México en un plazo que no excederá los ciento ochenta días naturales a su publicación en el Periódico Oficial “Gaceta del Gobierno".
+
+b) La Secretaría de Finanzas incluirá en el proyecto de presupuesto de egresos para el ejercicio fiscal 2020, los recursos que sean necesarios para la creación, operación e inicio de funciones del Centro de Conciliación Laboral del Estado de México, mismo que será enviado a la Legislatura Estatal para su aprobación.
+
+c) El Poder Judicial del Estado de México incluirá en su proyecto de presupuesto de egresos para el ejercicio fiscal 2020, los recursos que sean necesarios para la creación, operación e inicio de funciones de los Tribunales Laborales.
+
+Cuarto. Hasta en tanto el Centro Federal de Conciliación y Registro Laboral no inicie sus funciones registrales, las Juntas locales de Conciliación y Arbitraje continuarán con las funciones registrales previstas en la Ley Federal del Trabajo vigente al momento de su inicio.
+
+Quinto. El Centro de Conciliación Laboral del Estado de México a que hace referencia el presente Decreto iniciará operaciones en la misma fecha en que lo hagan los Tribunales Laborales del Estado de México, conforme a las disposiciones previstas en el presente Decreto.
+
+Una vez que entren en operación el Centro de Conciliación Laboral del Estado de México y los Tribunales Laborales, los procedimientos y los juicios se ventilarán ante ellos de conformidad con las disposiciones prevista (sic) en el Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
+
+Sexto. Los procedimientos que se encuentren en trámite ante las Juntas locales de Conciliación y Arbitraje del Estado de México, serán concluidos por estas de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Séptimo. Hasta en tanto entre en funciones el Centro de Conciliación Laboral del Estado de México, la Procuraduría de la Defensa del Trabajo conservará la facultad para citar a los patrones o sindicatos a juntas de avenimiento o conciliatorias, apercibiéndolos que de no comparecer a dichas diligencias, se les impondrá la medida de apremio a que se refiere la fracción I del artículo 731 de la Ley Federal del Trabajo, bajo la condición que si el solicitante del servicio no asiste a la junta de avenimiento o conciliatoria, se le tendrá por desistido de su petición sin responsabilidad para la Procuraduría, salvo que acredite que existió causa justificada para no comparecer.
+
+Dichos procedimientos se tramitarán conforme a las disposiciones de la Ley Federal del Trabajo y demás leyes vigentes hasta antes de la entrada en vigor del Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019.
+
+Octavo. En la implementación de las disposiciones a que se refiere el Decreto en materia de Justicia Laboral, Libertad Sindical y Negociación Colectiva, publicado en el Diario Oficial de la Federación el 1 de mayo de 2019, el Centro de Conciliación Laboral del Estado de México y los Tribunales Laborales deberán incorporar en sus programas de formación y capacitación, metodologías y contenidos para brindar atención y asesoría en materia de protección de derechos humanos a personas en situación de vulnerabilidad.
+
+Noveno. La persona titular de la Secretaría del Trabajo, en su calidad de Presidente del Consejo Directivo del Centro de Conciliación Laboral del Estado de México, convocará a la primera sesión de dicho órgano dentro de los treinta días naturales siguientes a la fecha de designación de su titular.
+
+El Director General presentará en la primera sesión del Consejo Directivo, los documentos previstos en las fracciones III, IV, V, VI y VII del artículo 19 de la Ley del Centro, con excepción del Código de Conducta, el cual será emitido en términos de las disposiciones aplicables.
+
+Décimo. Las convocatorias a concurso para la selección de personal del Centro de Conciliación Laboral del Estado de México y de los Tribunales Laborales serán de carácter abierto y garantizarán el derecho de participar en igualdad de oportunidades al personal de las Juntas de Conciliación y Arbitraje.
+
+Décimo Primero. Las Juntas Locales de Conciliación y Arbitraje se ajustarán al plan de trabajo que hubieren presentado al Consejo de Coordinación para la Implementación de la Reforma al Sistema de Justicia Laboral, respecto a la conclusión de los asuntos en trámite y la ejecución eficaz de los laudos así como para el cierre y conclusión de labores en forma paulatina y gradual de dichos órganos.
+
+Décimo Segundo. La Legislatura del Estado emitirá la Declaratoria de entrada en funciones de los Tribunales Laborales y el Centro de Conciliación Laboral del Estado de México, a más tardar el 30 de septiembre de 2020. Dicha Declaratoria deberá ser ampliamente difundida en todo el territorio del Estado y publicarse en el Periódico Oficial "Gaceta de Gobierno".
+
+Décimo Tercero. De conformidad con la capacidad presupuestal y recursos humanos e informáticos del Poder Judicial, el Consejo de la Judicatura emitirá los acuerdos generales para implementar las herramientas necesarias para el funcionamiento del sistema de justicia laboral. Lo que hará del conocimiento de los interesados a través del periódico oficial "Gaceta del Gobierno", del Boletín Judicial y por cualquier otro medio de difusión.
+
+Décimo Cuarto. El Consejo de la Judicatura deberá emitir los lineamientos administrativos a que se refiere este Decreto, entre otros, los referentes a los Sistemas de Notificación Electrónica y del Expediente Electrónico, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+Décimo Quinto. El Consejo de la judicatura implementará un sistema de gestión que garantice el control y eficiencia de las Centrales de Ejecutores y Notificadores en materia del trabajo.
+
+Décimo Sexto. Se instalará a la brevedad posible el Grupo Interinstitucional para la Implementación de la Reforma al Sistema de Justicia Laboral en el Estado de México, como instancia local de consulta, planeación y coordinación, en términos de los lineamientos de operación que emita, y se integrará por un representante de las entidades públicas siguientes:
+
+a) Secretaría del Trabajo;
+
+b) Secretaría de Finanzas;
+
+c) Secretaría de Justicia y Derechos Humanos;
+
+d) Poder Judicial del Estado de México, y
+
+e) Poder Legislativo del Estado de México.
+
+Décimo Séptimo. La Legislatura del Estado proveerá de los recursos necesarios para la implementación de la reforma del sistema de justicia laboral del Estado de México y para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+Décimo Octavo. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
