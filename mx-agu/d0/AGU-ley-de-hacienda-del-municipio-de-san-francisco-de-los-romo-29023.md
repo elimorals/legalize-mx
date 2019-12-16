@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-san-francisco-de-los-romo-2902
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-16"
-last_updated: "2019-02-18"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1995.
 
@@ -1311,27 +1311,19 @@ Los servicios prestados por la Dirección de Seguridad Pública y Vialidad, ser�
 
 ### CAPITULO XIV. Por Servicios de Alumbrado Público
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
-ARTICULO 122 A.- El objeto de este derecho será el servicio de alumbrado público que se preste por parte del Municipio, en las vías públicas, calles, callejones, parques, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinaran al pago de dicho servicio y en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
+ARTICULO 122 A.- El servicio de alumbrado público estará a cargo de este Municipio de San Francisco de los Romo y será suministrado dentro del territorio del mismo, conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
+I. El Municipio de San Francisco de los Romo determinara la forma de recaudación de la aportación social del alumbrado público, (ASAP), a través del convenio que establezca con la Comisión Federal de Electricidad.
 
-ARTICULO 122 B.- Serán sujetos del pago de derecho de alumbrado público, los propietarios o poseedores de predios que se encuentren en el territorio de éste Municipio de San Francisco de los Romo, consumidores de energía eléctrica clasificados en las Categorías tarifas DB1, DB2, PDBT, GDBT, GDMTH, GDMTO, DIST, DIT.
+ARTICULO 122 B.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
+ARTICULO 122 C.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
-ARTICULO 122 C.- El Ayuntamiento está facultado para determinarla (sic) forma del cobro de este derecho, previéndose en la correspondiente Ley de Ingresos o mediante el convenio que establezca con la Comisión Federal de Electricidad.
+ARTICULO 122 D.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
-(NOTA: EL 30 DE SEPTIEMBRE DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, PARTE FINAL, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 15/2019, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 3 DE OCTUBRE DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
-
-ARTICULO 122 D.- Los derechos de alumbrado público se cubrirán en un 10% del importe de energía eléctrica de los sujetos obligados al pago de este derecho.
-
-> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2019)</small>
-
-ARTICULO 122 E.- El Presidente Municipal podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.
+ARTICULO 122 E.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ARTICULO 122 F.- (DEROGADO, P.O. 18 DE FEBRERO DE 2019)
 
@@ -1682,3 +1674,11 @@ P.O. 18 DE FEBRERO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial del estado.
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 274.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 138 Y SE DEROGA EL ARTÍCULO 138 BIS, DE LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES.- ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 122 A Y SE DEROGAN LOS ARTÍCULOS 122 B, 122 C, 122 D, 122 E DE LA LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES.- ARTÍCULO TERCERO.- SE REFORMA EL ARTÍCULO 67 A Y SE DEROGAN LOS ARTÍCULOS 67 B, 67 C, 67 D, 67 E, 67 F, 67 G, 67 H, 67 I, 67 J, 67 K, 67 L Y 67 M DE LA LEY DE HACIENDA DEL MUNICIPIO DE RINCÓN DE ROMOS, AGUASCALIENTES.- ARTÍCULO CUARTO.- SE REFORMAN LOS ARTÍCULOS 214, 215 Y 216; LA DENOMINACIÓN DE LA SECCIÓN ÚNICA, DEL CAPÍTULO II, DEL TÍTULO QUINTO PARA QUEDAR COMO "POR EL USO Y MANTENIMIENTO DE LAS LUMINARIAS EN ÁREAS PÚBLICAS (UMLAP)"; SE DEROGAN LOS ARTÍCULOS 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227 Y 228 DE LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 01 de enero de 2020.
