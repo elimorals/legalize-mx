@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2017-12-16"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -119,11 +119,13 @@ El Gobernador del Estado, por sí o por conducto del Jefe de la Oficina del Ejec
 
 El Gobernador del Estado podrá nombrar y remover libremente a los funcionarios y empleados de confianza de la administración pública estatal, cuyo nombramiento o remoción no esté determinado de otro modo en la Constitución Política o en las leyes del Estado, garantizando el principio de igualdad de género.
 
+> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 13.
 
-Las dependencias y entidades de la administración pública del Estado deberán conducir sus actividades de acuerdo con los planes, programas, políticas presupuestales y medidas de simplificación administrativa y transparencia, conforme a la legislación aplicable.
+Las dependencias y entidades de la Administración Pública Estatal y Paraestatal actuarán conforme al Plan Estatal de Desarrollo, a los programas sectoriales y a los programas institucionales, según corresponda, y que para tal efecto se aprueben, sujetándose al Presupuesto de Egresos del Estado y con base en las políticas, prioridades y restricciones que conforme a la Ley, para el logro de los objetivos y metas de los planes y programas de Gobierno establezca el Gobernador del Estado.
 
-El Gobernador del Estado evaluará y promoverá lo necesario para asegurar el cumplimiento de los objetivos, metas y compromisos establecidos en los planes y programas respectivos.
+El Gobernador del Estado, a través de la Secretaría de Finanzas y Administración, evaluará y promoverá lo necesario para asegurar el cumplimiento de los objetivos, metas y compromisos establecidos en los planes y programas respectivos.
 
 ###### ARTÍCULO 14.
 
@@ -169,21 +171,29 @@ VIII.- Secretaría de Pesca, Acuacultura y Desarrollo Agropecuario;
 
 > <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2017)</small>
 
-IX. Secretaría del Trabajo y Desarrollo Social;
+IX.- Secretaría del Trabajo y Desarrollo Social;
 
 X.- (DEROGADA, B.O. 30 DE NOVIEMBRE DE 2017)
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2017)</small>
 
-XI. Procuraduría General de Justicia;
+XI.- Procuraduría General de Justicia;
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2017)</small>
 
-XII. Contraloría General; y
+XII.- Contraloría General; y
 
 > <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 2017)</small>
 
-XIII. Secretaría de Seguridad Pública.
+XIII.- Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+Cada Secretaría ejercerá las partidas presupuestales que les sean asignadas en el Presupuesto de Egresos del Estado. Los titulares de las Secretarías serán responsables de que la planeación, programación, presupuestación, aprobación, ejercicio, control, seguimiento y evaluación de los ingresos y egresos públicos, se realicen de conformidad con lo establecido en la Ley de Planeación del Estado, en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las disposiciones administrativas que para tal efecto se emitan. Asimismo, serán responsables de la aplicación y cumplimiento de la Ley General de Contabilidad Gubernamental y de las disposiciones emitidas por el Consejo Nacional de Armonización Contable.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+Los titulares de las Secretarías serán responsables de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación del Estado de Baja California Sur y serán responsables también del cumplimiento del programa sectorial a su cargo y de que los programas presupuestarios a través de los cuáles se ejerce el gasto en la Secretaría a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
 
 ###### ARTÍCULO 17.
 
@@ -359,7 +369,9 @@ VIII. Ejecutar los pagos de acuerdo a los programas y presupuestos aprobados;
 
 IX. Ejercer las acciones conducentes para preservar el patrimonio del Estado;
 
-X. Presentar denuncias o querellas ante el Ministerio Público e intervenir en los juicios y demás medios de defensa que se ventilen ante cualquier tribunal o instancia administrativa, cuando se afecte o se trate de afectar la hacienda pública del Estado, en coordinación con la Secretaría General de Gobierno;
+> <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+X. Presentar denuncias o querellas ante el Ministerio Público, intervenir y asumir la defensa en los juicios y demás medios de defensa que se ventilen ante cualquier tribunal o instancia administrativa Estatal o Federal, incluso en los juicios sobre cumplimiento de Convenios de Coordinación, cuando se afecte o se trate de afectar la Hacienda Pública del Estado;
 
 XI. Asesorar al Poder Ejecutivo para celebrar convenios en materia hacendaria;
 
@@ -945,6 +957,14 @@ La Secretaria de Finanzas y Administración y la Contraloría General deberán v
 
 Los organismos descentralizados contarán con personalidad jurídica y patrimonio propios; tendrán por objeto la prestación de un servicio público o social, la protección, o en su caso la explotación de bienes o recursos propiedad del Estado, la investigación científica y tecnológica, la promoción, estudio o divulgación de asuntos de interés público o la obtención y aplicación de recursos para fines de asistencia, seguridad social o para el estímulo de la inversión y el desarrollo. Para tales efectos contarán con autonomía de gestión financiera y administrativa.
 
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+Cada organismo descentralizado ejercerá las partidas presupuestales que les sean asignadas en el Presupuesto de Egresos del Estado. Los titulares de los organismos descentralizados serán responsables de que la planeación, programación, presupuestación, aprobación, ejercicio, control, seguimiento y evaluación de los ingresos y egresos públicos se realicen de conformidad con lo establecido en la Ley de Planeación del Estado, en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado, en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y en las disposiciones administrativas que para tal efecto se emitan. Asimismo, serán responsables de la aplicación y cumplimiento de la Ley General de Contabilidad Gubernamental y de las disposiciones emitidas por el Consejo Nacional de Armonización Contable.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+Los titulares de las (sic) organismos descentralizados serán responsables de la planeación orientada a resultados, con apego a lo establecido en la Ley de Planeación del Estado de Baja California Sur y serán responsables también del cumplimiento del programa sectorial a su cargo y de que los programas presupuestarios a través de los cuáles se ejerce el gasto en el organismo a su cargo tengan una orientación a resultados y cumplan con las metas establecidas, así como de la implementación del Sistema de Evaluación del Desempeño y de la incorporación de sus resultados al proceso de programación y presupuestación de los recursos públicos bajo su responsabilidad.
+
 ###### ARTÍCULO 42.
 
 El decreto que expida el Congreso del Estado para la creación de un organismo descentralizado deberá contener, entre otros, los siguientes elementos:
@@ -1262,3 +1282,11 @@ TERCERO.- Los recursos humanos, materiales y bienes patrimoniales, así como las
 Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
 
 CUARTO.- Cuando en otras leyes, reglamentos, convenios, contratos o cualquier otro instrumento equivalente, haya sido otorgada la denominación de Subsecretaría de Seguridad Pública, se entenderá referida a la Secretaría de Seguridad Pública, a partir de la entrada en vigor del presente Decreto.
+
+B.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2671 SE REFORMA Y ADICIONA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
