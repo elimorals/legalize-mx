@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2019-09-30"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2020 EN EL P.O. DEL ESTADO DE AGUSCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FICHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -83,7 +85,9 @@ IV.- Anteproyectos de Presupuesto del Municipio: Los que elaboren las Dependenci
 
 V.- Asignaciones Presupuestales: Las previsiones de Gasto Público, aprobado mediante el Presupuesto de Egresos del Estado, que realiza el Titular del Ejecutivo a través de la Secretaría a los Ejecutores de Gasto del Estado;
 
-VI.- Autoridades Fiscalizadoras: Son aquellas facultadas para vigilar y revisar Gasto Público en el ámbito de sus competencias federal, estatal o municipal, entre otras se pueden considerar como tales: la Auditoria Superior de la Federación, la Secretaría de la Función Pública del Poder Ejecutivo Federal; así como el Órgano Superior de Fiscalización del Estado, instancias competentes de los Poderes Legislativo y Judicial del Estado y de los órganos Autónomos, la Secretaria de Fiscalización y Rendición de Cuentas del Gobierno del Estado, la CEPLAP así como las Contralorías Municipales;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+VI.- Autoridades fiscalizadoras: Son aquellas facultadas para vigilar y revisar el Gasto Público en el ámbito de sus competencias federal, estatal o municipal, entre otras se pueden considerar como tales: la Auditoria Superior de la Federación, la Secretaría de la Función Pública del Poder Ejecutivo Federal; así como el Órgano Superior de Fiscalización del Estado, instancias competentes de los Poderes Legislativo y Judicial del Estado y de los Órganos Autónomos, la Contraloría del Estado, la CPLAP, así como las Contralorías Municipales;
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2018)</small>
 
@@ -106,6 +110,10 @@ XIII.- Dependencias del Municipio: Las Dependencias de la administración públi
 XIII A.- Disponibilidades: los recursos provenientes de los ingresos que durante los ejercicios fiscales anteriores no fueron pagados ni devengados para algún rubro del gasto presupuestado, excluyendo a las Transferencias federales etiquetadas;
 
 XIV.- Disponibilidad Presupuestaria: Los recursos públicos que disponen los Ejecutores de Gasto en virtud de las Asignaciones Presupuestales previstas en el Presupuesto de Egresos, hasta que son aplicados o ejercidos a los conceptos de gasto correspondientes;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XIV A.- Economías: Son los remanentes de recursos no devengados del presupuesto modificado;
 
 XV.- Ejecutores de Gasto: Las Dependencias y Entidades del Poder Ejecutivo, Legislativo y Judicial, los Órganos Autónomos, todos del Estado de Aguascalientes, así como los Municipios y sus correspondientes Dependencias y Entidades que ejerzan Gasto Público;
 
@@ -145,7 +153,9 @@ XXVIII.- Gasto Público: Gasto total que comprende la totalidad de las erogacion
 
 XXIX.- Impacto Presupuestal: Es el costo total por ejercicio fiscal que generaría para el erario público la aplicación de reformas o nuevas leyes, decretos, reglamentos, convenios y demás documentos análogos;
 
-XXX.- Indicadores de Desempeño: Las expresiones cuantitativas o cualitativas, formuladas por la CEPLAP o por la COMUPLA, según sea el caso, correspondiente a un índice, medida, cociente o fórmula, que establece un parámetro del avance en el cumplimiento de los objetivos y metas. Dichos indicadores podrán ser de tipo estratégico o de gestión;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XXX.- Indicadores de desempeño: Las expresiones cuantitativas o cualitativas, formuladas por la CPLAP o por la COMUPLA, según sea el caso, correspondiente a un índice, medida, cociente o fórmula que establece un parámetro del avance en el cumplimiento de los objetivos y metas. Dichos indicadores podrán ser de tipo estratégico o de gestión;
 
 XXXI.- Indicadores Estratégicos: Indicador de desempeño que mide el grado de cumplimiento de los objetivos de las políticas públicas y de los programas presupuestarios que impactan de manera directa en la población objetivo o área de enfoque;
 
@@ -161,7 +171,9 @@ XXXV.- Ley de Ingresos de los Municipios: La Ley de Ingresos de los Municipios, 
 
 XXXVI.- Metodología del Marco Lógico: Es la herramienta desarrollada por la CPLAP o las COMUPLA, de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
 
-XXXVII.- Órganos Autónomos: Las personas de derecho público con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado de Aguascalientes, a los que se asignen recursos del Presupuesto de Egresos en el ramo autónomo que les corresponde;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XXXVII.- Órganos Autónomos: Las personas de derecho público con autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado de Aguascalientes, a los (sic) que se asignen recursos del Presupuesto de Egresos del Estado;
 
 XXXVIII.- Plan Sexenal.- Plan Sexenal de Gobierno del Estado de Aguascalientes;
 
@@ -189,7 +201,9 @@ XLVIII.- Proyectos de Prestación de Servicios y/o Asociaciones Público-Privada
 
 XLIX.- Proyectos de Presupuesto de Egresos: Los que elaboren los Poderes Legislativo y Judicial, así como los órganos Autónomos, que se envían al Ejecutivo para incorporarse al Proyecto de Presupuesto de Egresos del Estado;
 
-L.- Reasignaciones: Son las modificaciones al Presupuesto de Egresos del Estado que puede hacer la Secretaría, según las reglas contenidas en el Presupuesto de Egresos del Estado y que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los Ejecutores de Gasto, en donde los capítulos, conceptos, partidas, ramos y Ejecutores del Gasto son disminuidos en sus recursos cuando sirven como origen, y en donde los capítulos, conceptos, partidas, ramos y Ejecutores del Gasto tienen incremento de recursos cuando sirven como destino;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+L.- Reasignaciones: Son las modificaciones al Presupuesto de Egresos del Estado que pueden realizarse, según las reglas contenidas en el Presupuesto de Egresos del Estado del ejercicio correspondiente y que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los Ejecutores de Gasto, en donde los capítulos, conceptos, partidas y Ejecutores del Gasto son disminuidos en sus recursos cuando sirven como origen, y en donde los capítulos, conceptos, partidas y Ejecutores del Gasto tienen incremento de recursos cuando sirven como destino;
 
 LI.- Reasignaciones por Convenio: Fuente de financiamiento del gasto público que se integra de los subsidios o reasignaciones que el Gobierno Federal transfiere, de conformidad a lo establecido en los convenios y demás instrumentos jurídicos que determinan su naturaleza y destino, que significan ingresos adicionales a los contemplados en la Ley de Ingresos, sin que para ello se requiera la aprobación del Congreso. En todos los casos, tanto los ingresos como a los egresos, estas aplicaciones de recursos de origen federal deberán incluirse en la Cuenta Pública;
 
@@ -203,7 +217,9 @@ LIV.- Sistema de Evaluación del Desempeño: El conjunto de elementos metodológ
 
 LV.- Suficiencia Presupuestaria: La capacidad de recursos financieros de un Ejecutor de Gasto en función de las Asignaciones Presupuestales autorizadas;
 
-LVI.- Tesorerías: Las Tesorerías Municipales a que se refiere la Ley Municipal para el Estado de Aguascalientes
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+LVI.- Tesorería: Las Secretarías de Finanzas en el ámbito Municipal a que se refiere la Ley Municipal para el Estado de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
@@ -265,9 +281,9 @@ LXX.- Gasto no etiquetado: Las erogaciones que realizan los Ejecutores de Gasto 
 
 LXXI.- Ingresos de libre disposición: Los Recursos Fiscales, así como los recursos que, en su caso, se reciban del Fondo de Estabilización de los Ingresos de las Entidades Federativas en los términos del artículo 19 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y cualquier otro recurso que no esté destinado a un fin específico;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
-LXXII.- Inversión pública productiva: La definida como tal en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios;
+LXXII.- Inversión pública productiva: La definida como tal en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
@@ -379,9 +395,11 @@ III.- Las acciones que correspondan realizar conforme a los Criterios Generales 
 
 IV.- Las demás acciones que conforme a la Ley de Disciplina Financiera de las Entidades Federativas y sus Municipios deban realizarse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 12.
 
-La Programación anual del Gasto Público del Estado, se realizará con apoyo en los Anteproyectos de Presupuesto del Estado que elaboren las Dependencias y Entidades del Ejecutivo en coordinación con la CEPLAP para cada ejercicio fiscal, y con base en:
+La Programación anual del Gasto Público del Estado, se realizará con apoyo en los Anteproyectos de Presupuesto del Estado que elaboren las Dependencias y Entidades del Ejecutivo en coordinación con la CPLAP para cada ejercicio fiscal, y con base en:
 
 I.- Las políticas del Plan Sexenal, los programas sectoriales y los Programas Presupuestarios anuales;
 
@@ -411,9 +429,11 @@ V.- La situación económica y financiera nacional, y la propia del Estado de Ag
 
 VI.- Las políticas financieras, fiscales y crediticias que establezcan las Tesorerías, así como las bases, lineamientos y normas que determine sobre los procesos de planeación, programación y elaboración anual de los presupuestos de egresos de los Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 14.
 
-En materia de programación y presupuestación, la CEPLAP y la COMUPLA, en el ámbito de sus respectivas competencias, y sin perjuicio de lo que establecen otras disposiciones legales, deberán:
+En materia de programación y presupuesto, la CPLAP y la COMUPLA, en el ámbito de sus respectivas competencias, y sin perjuicio de lo que establecen otras disposiciones legales, deberán:
 
 I.- Emitir el conjunto de políticas, normas y lineamientos para la programación del Gasto Público, con base en el Plan Sexenal o en el Plan Municipal de Desarrollo respectivo, y observando en todo caso lo establecido por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables;
 
@@ -447,7 +467,9 @@ II.- Las proyecciones de finanzas publicas en los formatos que emita el Consejo 
 
 III.- La descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de las obligaciones contingentes, acompañados de propuestas de acción para enfrentarlos.
 
-IV.- Los resultados de las finanzas públicas que abarquen u (sic) periodo de los cinco últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin, y las recomendaciones que emita el propio del Estado; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+IV.- Los resultados de las finanzas públicas que abarquen un periodo de los cinco últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin, y las recomendaciones que emita el propio del (sic) Estado; y
 
 V.- Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada tres años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
 
@@ -485,15 +507,19 @@ VI.- Las previsiones del gasto de acuerdo con lo establecido en la clasificació
 
 VII.- Las demás previsiones que se estimen necesarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 18.
 
-Los Programas Presupuestarios de las Dependencias del Ejecutivo y de las Entidades del Ejecutivo, deberán ser analizados y compatibilizados por la CEPLAP, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan Sexenal y de los programas que de éste se deriven, en los términos de las leyes aplicables.
+Los Programas Presupuestarios de las Dependencias del Ejecutivo y de las Entidades del Ejecutivo, deberán ser analizados y compatibilizados por la CPLAP, para que sean congruentes entre sí y respondan a los objetivos prioritarios del Plan Sexenal y de los programas que de éste se deriven, en los términos de las leyes aplicables.
 
 En el caso de los Municipios, esta función será llevada a cabo por la COMUPLA respecto a los programas que les corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 19.
 
-Los Anteproyectos de Presupuesto del Estado se elaborarán por las unidades responsables de las Dependencias del Ejecutivo y Entidades del Ejecutivo en coordinación con la CEPLAP, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas así como los Indicadores de Desempeño para medir su cumplimiento.
+Los Anteproyectos de Presupuesto del Estado se elaborarán por las unidades responsables de las Dependencias y Entidades del Ejecutivo en coordinación con la CPLAP, estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores de desempeño para medir su cumplimiento. Estará a cargo de la CPLAP concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales.
 
 Estará a cargo de la CEPLAP concertar, coordinar, instaurar y evaluar, los programas de inversión, de desarrollo social y productivo, que se realicen con los recursos estatales o federales.
 
@@ -747,17 +773,25 @@ II. Sea necesario cubrir el costo de la reconstrucción provocada por los desast
 
 III. Se tenga la necesidad de prever un costo mayor al 2 por ciento del Gasto no etiquetado observado en el Presupuesto de Egresos del ejercicio fiscal inmediato anterior, derivado de la implementación de ordenamientos jurídicos o medidas de política fiscal que, en ejercicios fiscales posteriores, contribuyan a mejorar ampliamente el Balance presupuestario de recursos disponibles negativo, ya sea porque generen mayores ingresos o menores gastos permanentes; es decir, que el valor presente neto de dicha medida supere ampliamente el costo de la misma en el ejercicio fiscal que se implemente.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 39 Ter.
 
-En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos del Estado o Ley de Ingresos de los Municipios, el Titular del Ejecutivo o el Presidente Municipal, por conducto de la Secretaría una vez ejercidos, en su caso, los recursos disponibles del Fondo de Estabilización señalado en el Artículo 49 Bis de esta Ley, Tesorería Municipal o sus equivalentes, a efecto de cumplir con el principio de sostenibilidad del Balance presupuestario y del Balance presupuestario de recursos disponibles, deberá aplicar ajustes al Presupuesto de Egresos en los rubros de gasto en el siguiente orden:
+En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos del Estado o en las Leyes de Ingresos de los Municipios, el Titular del Ejecutivo o el Presidente Municipal, por conducto de la Secretaría o Tesorería, una vez ejercidos, en su caso, los recursos con los que cuenten en materia de estabilización de los ingresos, en conjunto con los recursos disponibles que deriven de la aplicación de reglas de disciplina financiera, a efecto de cumplir con el principio de sostenibilidad del balance presupuestario y del balance presupuestario de recursos disponibles, deberá aplicar ajustes al Presupuesto de Egresos en los rubros de gasto en el siguiente orden:
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
 
 I. Gastos de comunicación social;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+
 II. Gasto corriente que no constituya un subsidio entregado directamente a la población, en términos de lo dispuesto por el Artículo 46, Fracción VII de la presente Ley; y
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2017)</small>
+
 III. Gasto en servicios personales, prioritariamente las erogaciones por concepto de Percepciones extraordinarias.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2017)</small>
 
 En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
 
@@ -833,9 +867,11 @@ Los montos presupuestarios de las Entidades del Ejecutivo no devengados que prov
 
 Cuando los recursos de naturaleza federal no se hayan ejercido en el período que les corresponde, los Ejecutores de Gasto se estarán a la normatividad federal aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 42.
 
-Las Dependencias del Ejecutivo y las Entidades del Ejecutivo que elaboren proyectos de iniciativas de leyes y decretos que se tengan programado presentar al Congreso, así como reglamentos, decretos, convenios, acuerdos y demás documentos análogos que impliquen repercusiones financieras, realizarán una evaluación sobre su Impacto Presupuestal, el cual deberá adjuntarse al proyecto y remitirse a la Secretaria y a la Oficialía Mayor del Gobierno del Estado de Aguascalientes, previo a su trámite ante las demás instancias que proceda.
+Las Dependencias del Ejecutivo y las Entidades del Ejecutivo que elaboren proyectos de iniciativas de leyes y decretos que se tengan (sic) programado presentar al Congreso, así como reglamentos, decretos, convenios, acuerdos y demás documentos análogos que impliquen repercusiones financieras, realizarán una evaluación sobre su impacto presupuestal, el cual deberá adjuntarse al proyecto y remitirse a la Secretaría y a la Secretaría de Administración del Gobierno del Estado de Aguascalientes, previo a su trámite ante las demás instancias que proceda.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
 
@@ -925,11 +961,15 @@ La información señalada en el párrafo anterior deberá hacerse pública a tra
 
 VIII. Una vez concluida la vigencia del Presupuesto de Egresos, con excepción de lo dispuesto en el Artículo 55 de esta Ley, sólo procederá realizar pagos con base en dicho presupuesto, por los conceptos efectivamente devengados en el año que corresponda y que se hubieren registrado en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio respetando los porcentajes mencionados en el Artículo 22 Quáter de esta Ley. En el caso de las Transferencias federales etiquetadas se estará a lo dispuesto en el Artículo 47 Bis de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 47.
 
-La Secretaría, previa instrucción de las Dependencias del Ejecutivo, o excepcionalmente de las Entidades del Ejecutivo, y en concordancia, cuando corresponda, con el expediente técnico aprobado por la CEPLAP, realizará los pagos a quien corresponda, para cubrir el Gasto de Capital.
+La Secretaría, previa instrucción de las Dependencias del Ejecutivo, o excepcionalmente de las Entidades del Ejecutivo, y en concordancia, cuando corresponda, con el expediente técnico aprobado por la CPLAP, realizará los pagos a quien corresponda, para cubrir el gasto de capital.
 
-En los casos en que exista expediente técnico aprobado por la CEPLAP, esta deberá realizar un seguimiento del avance del Gasto de Capital, y deberá anexarlo al expediente técnico anteriormente referido.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+En los casos en que exista expediente técnico aprobado por la CPLAP, esta deberá realizar un seguimiento del avance del gasto de capital, y deberá anexarlo al expediente técnico anteriormente referido.
 
 Tratándose del Gasto Corriente, las Dependencias del Ejecutivo instruirán a la Secretaría la realización de los pagos correspondientes y, para tal efecto, deberán presentar la documentación a que haya lugar.
 
@@ -951,9 +991,17 @@ Los reintegros deberán incluir los rendimientos financieros generados.
 
 Para los efectos de este Artículo, se entenderá que el Estado, los Municipios o sus Ejecutores del Gasto han devengado o comprometido las Transferencias federales etiquetadas, en los términos previstos en el Artículo 4, Fracciones XIV y XV de la Ley General de Contabilidad Gubernamental.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 48.
 
-La Secretaría podrá realizar Reasignaciones de conformidad con las reglas contenidas en el Presupuesto de Egresos del Estado.
+Durante el ejercicio fiscal se podrán realizar Reasignaciones Presupuestarias en las Dependencias del Ejecutivo y Entidades del Ejecutivo de conformidad a las reglas contenidas en el Presupuesto de Egresos del Estado.
+
+Las Reasignaciones Presupuestarias podrán ser:
+
+I. Reasignaciones Presupuestarias Internas: Son aquellas que permiten realizar movimientos dentro de un mismo capítulo en diferentes partidas, las cuales quedan bajo responsabilidad de las Dependencias del Ejecutivo o Entidades del Ejecutivo, ya que se realizan de manera directa por las unidades que dentro de su estructura orgánica lleven a cabo funciones administrativas o financieras, son denominadas como Reasignaciones por Dependencia o Entidad en el sistema de contabilidad gubernamental respectivo.
+
+II. Reasignaciones presupuestarias externas: Son aquellas que permiten realizar movimientos entre los diferentes meses, proyectos, capítulos, tipo de gasto y objetos del gasto dentro de una misma o diferente ejecutora, que las Dependencias o Entidades del Ejecutivo presentan ante la Secretaría para autorización, las cuales deberán quedar registradas en el sistema de contabilidad gubernamental respectivo.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
 
@@ -975,7 +1023,9 @@ I.- De los diversos conceptos en los términos de los Artículos 41 y 49 de la L
 
 II.- En su caso, de los Ingresos Excedentes derivados de Ingresos de libre disposición que se destinen en los términos del Inciso b) de la Fracción II del Artículo 40 Bis de la Ley, por parte de las Dependencias del Ejecutivo y Entidades del Ejecutivo;
 
-III.- (DEROGADA, P.O. 28 DE JUNIO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+III.- De los Ingresos que obtenga el Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes por la enajenación de inmuebles; y
 
 IV.- Del ejercicio de los derechos que como fideicomisario tiene el Gobierno del Estado en los fideicomisos públicos considerados como Entidades del Ejecutivo, que no se encuentren previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente.
 
@@ -1001,63 +1051,15 @@ La determinación de la existencia o no de menores entregas se llevará a cabo c
 
 II.- La cuenta prevista en la Fracción I de este Artículo, será revolvente y, para cada ejercicio fiscal, procurará alcanzar un saldo objetivo correspondiente al seis punto cincuenta por ciento de la estimación, sin considerar aquellas a distribuirse entre los Municipios, para el Gobierno del Estado de Aguascalientes del Fondo General de Participaciones que publica para cada ejercicio fiscal la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación, en cumplimiento a lo dispuesto por el Artículo 3° de la Ley de Coordinación Fiscal; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 16 DE DICIEMBRE DE 2019)</small>
 
-III.- Una vez concluido el segundo trimestre del ejercicio fiscal correspondiente, habiendo alcanzado el saldo objetivo y considerando la inexistencia de caídas en los ingresos en los dos primeros trimestres del ejercicio, con el resto de los recursos patrimoniales, se determinará el destino de los recursos entre:
+III.- Una vez concluido el primer trimestre del ejercicio fiscal correspondiente, habiendo alcanzado el saldo objetivo y considerando la existencia o no de caídas en los ingresos en el primer trimestre del ejercicio, con el resto de los recursos patrimoniales, se determinará el destino de los recursos entre:
 
-a) Pagar en forma anticipada la deuda pública del Gobierno del Estado, la prelación de pagos de la deuda pública se definirá con base en el análisis costo-beneficio; o
+a) Pagar en forma anticipada la deuda pública del Gobierno del Estado, la prelación de pagos de la deuda pública se definirá con base en el análisis costo-beneficio y el porcentaje se determinará de acuerdo con el nivel de endeudamiento conforme a la clasificación del Sistema de Alertas; y/o
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JUNIO DE 2019)</small>
+b) Transferir el remanente de los recursos a la Secretaría para la creación de un Fondo de Inversiones Público Productivas y Programas Prioritarios.
 
-b) Disponer los recursos para el desarrollo de proyectos o programas a través de las Dependencias del Ejecutivo y Entidades del Ejecutivo, cuyo destino sea el siguiente:
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-1) Obra pública y servicios relacionados, incluidos los dictámenes, permisos, licencias, derecho de vía e indemnizaciones.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-2) Servicios públicos.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-3) Infraestructura social.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-4) Seguridad pública.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-5) Desarrollo económico, rural o agroindustrial.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-6) La participación en convenios cuando sean destinados en inversión pública como contraparte con otros órdenes de gobierno.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-7) La aportación a fideicomisos públicos cuya naturaleza sea el desarrollo económico.
-
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-8) El otorgamiento de estímulos en la atracción de inversiones y generación de empleos de conformidad con el Plan Estatal de Desarrollo.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-Los recursos dispuestos se constituirán como fuente de financiamiento para el desarrollo de proyectos o programas, independientemente de la denominación que se les otorgue en la Ley o disposiciones que los regulen.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-Las Dependencias y Entidades del Ejecutivo deberán contar con la aprobación de los recursos por parte del Comité Técnico de manera previa al inicio del procedimiento o acto respectivo.
-
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
-
-Los recursos dispuestos deberán encontrarse vinculados a obligaciones formales de pago a más tardar el último día del ejercicio fiscal en que se realice su disposición, y en su caso, podrán ser ejercidos hasta la conclusión total del proyecto o programa, durante el ejercicio fiscal siguiente.
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2018)</small>
-
-El monto de la disposición de los recursos aprobados, no formará parte del saldo objetivo que se determine en el primer bimestre de cada ejercicio fiscal.
+Por lo que respecta a los recursos fideicomitidos referidos en el Artículo 49 Bis fracción III de esta Ley, podrán disponerse inmediatamente a su aportación, según determine el Comité Técnico conforme a lo dispuesto en los incisos a) y b) de la Fracción III del presente Artículo, siempre y cuando se cuente con el saldo objetivo, habiendo existencia o no de caídas en los ingresos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1083,47 +1085,47 @@ III.- A propuesta del Presidente del Comité Técnico, determinar en cada trimes
 
 IV.- En caso de existir caída en los ingresos, autorizar el retiro de la cuenta específica para entregar a la Secretaría, la cantidad existente para compensar la caída; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JUNIO DE 2019)</small>
+V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2019)
 
-V.- A partir del tercer trimestre del ejercicio fiscal correspondiente, recibir y analizar los proyectos o programas a que se refiere el inciso b) de la Fracción III del Artículo 49 Ter, los cuales deberán contener como mínimo los siguientes requisitos:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+VI.- Disponer y/o transferir los recursos del Fondo de Estabilización en los términos de la Fracción III del Artículo 49 Ter.
 
-a) Una exposición de motivos del proyecto o programa que genere directa o indirectamente un beneficio y su atención dentro de los objetivos y acciones previstas en el Plan Estatal de Desarrollo; y
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JUNIO DE 2019)</small>
+###### Artículo 49 Sexies.
 
-b) Un análisis costo-beneficio del proyecto o programa, cuando su valor en monto rebase el equivalente a diez millones de Unidades de Inversión, en el cual se demuestre que dicho proyecto o programa es susceptible de generar, en cada caso, un beneficio social neto bajo supuestos razonables que consideren lo siguiente:
+Se crea el Fondo de Inversiones Público Productivas y Programas Prioritarios, a que hace referencia el Artículo 49 Ter, Fracción III, inciso b) de esta Ley, mismo que tiene por objeto disponer de los recursos para el desarrollo de proyectos o programas a través de las Dependencias del Ejecutivo, Entidades del Ejecutivo y fideicomisos no considerados como parte de las Entidades del Ejecutivo.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+La administración y operación de los recursos de este fondo, será a través del Comité Técnico, a que hace referencia el Artículo 49 Septies de la presente Ley, los cuales a su vez, serán ejecutados por las Dependencias del Ejecutivo, Entidades del Ejecutivo y Fideicomisos no considerados como parte de las Entidades del Ejecutivo, responsables de la ejecución de los proyectos o programas de Inversiones Públicos (sic) Productivas o Programas Prioritarios.
 
-1. Factibilidad Ambiental: los estudios del proyecto o programa cumplen con la normatividad aplicable en materia ambiental;
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+###### Artículo 49 Septies.
 
-2. Factibilidad Económica: los estudios sobre la cuantificación de los costos y beneficios del proyecto o programa, en donde se demuestre que el mismo es susceptible de generar, por sí mismo beneficios netos bajo supuestos razonables;
+El Fondo de Inversiones Pública (sic) Productivas y Programas Prioritarios, tendrá un Comité Técnico, el cual se integrará de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+I. El Titular de la CPLAP, quien lo presidirá;
 
-3. Factibilidad Legal: los estudios en donde se demuestre que el proyecto o programa de inversión cumple con las disposiciones jurídicas en el ámbito federal, estatal y municipal según corresponda; y
+II. El Titular de la Secretaría, quien será el Secretario Técnico del Comité;
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+III. El Titular de la Secretaría General de Gobierno;
 
-4. Factibilidad Técnica: los estudios sobre los materiales, maquinaria, equipo, tecnología y demás que se requieran para la ejecución y operación del proyecto o programa, en donde se determine si el proyecto o programa se apega a las normas establecidas por la dependencia o entidad.
+IV. El Titular de la Coordinación General de Gabinete;
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2019)</small>
+V. El Titular de la Contraloría del Estado; y
 
-En aquellos proyectos o programas cuyo valor en monto del mismo, sea igual o menor a 10 millones de Unidades de Inversión, se deberá contar con una ficha técnica que contenga una evaluación en los términos del artículo 44 fracción XXV de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, aprobada tanto por la CPLAP, a través del Sistema Estatal de Proyectos de Inversión, como por la Dependencia o Entidad del Ejecutivo que conforme a sus facultades orgánicas tenga a su cargo la materia del proyecto o programa;
+VI. El Titular de la Secretaría de Administración.
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2019)</small>
+Las reglas de operación, lineamientos y demás disposiciones que resulten necesarios para el adecuado funcionamiento del Fondo serán emitidas y aprobadas por el Comité Técnico.
 
-VI.- A partir del tercer trimestre del ejercicio fiscal correspondiente, aprobar la distribución de los recursos del Fondo de Estabilización en los términos del Artículo 49 Ter, así como seleccionar los proyectos o programas señalados en el Inciso b) de la Fracción III de dicho Artículo, observando lo establecido en la Fracción anterior. Las Dependencias y Entidades del Ejecutivo en el ejercicio de los recursos aprobados por el Comité Técnico, se apegarán a los procedimientos y disposiciones normativas aplicables para su ejecución.
+Las reglas de operación, así como los proyectos o programas de Inversión Público Productivas o Programas Prioritarios de las Dependencias, Entidades del Ejecutivo y Fideicomisos no considerados como parte de las Entidades del Ejecutivo que emita el Comité Técnico, deberán estar alineadas al Plan Estatal de Desarrollo mediante validación de la CPLAP a través de dictamen técnico.
 
-Se considerarán válidas las sesiones, así como los acuerdos tomados por el Comité Técnico, cuando asistan por lo menos la mitad más uno de los integrantes, debiendo estar siempre presente su Presidente y el miembro independiente.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 50.
 
-Cuando se realicen Adecuaciones Presupuestarias, derivadas de ampliaciones o reducciones presupuestarias, las Dependencias y Entidades del Ejecutivo o de los Municipios en su caso, podrán modificar sus Programas Presupuestarios en cuanto a sus objetivos, indicadores y metas, avisando de ello a la CEPLAP, en el ámbito estatal, y a la COMUPLA, en el ámbito municipal.
+Cuando se realicen adecuaciones presupuestarias, derivadas de ampliaciones o reducciones presupuestarias, las Dependencias y Entidades del Ejecutivo o de los Municipios en su caso, podrán modificar sus Programas Presupuestarios en cuanto a sus objetivos, indicadores y metas, avisando de ello a la CPLAP, en el ámbito estatal, y a la COMUPLA, en el ámbito municipal.
 
 ###### Artículo 51.
 
@@ -1183,7 +1185,9 @@ I.- Que se demuestren debidamente contabilizados como compromisos devengados al 
 
 II.- Que exista Disponibilidad Presupuestaria para el registro de los compromisos devengados con cargo al Presupuesto de Egresos correspondiente a ese año; y
 
-III.- Que los bienes, servicios, contraprestaciones adquiridas o avance por trabajos ejecutados en obras públicas, registrados como compromisos devengados al treinta y uno de diciembre de ese ejercicio fiscal se paguen a más tardar el último día de febrero del año subsiguiente.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+III.- Que los bienes, servicios, contraprestaciones adquiridas o avance por trabajos ejecutados en obras públicas, registrados como compromisos devengados al treinta y uno de diciembre de ese ejercicio fiscal se paguen a más tardar el último día de marzo del año subsiguiente.
 
 De no cumplirse con los requisitos antes señalados, se podrán cubrir dichos compromisos con cargo al Presupuesto de Egresos correspondiente que al efecto apruebe el Congreso.
 
@@ -1209,13 +1213,17 @@ Los recursos económicos de que dispongan los Ejecutores de Gasto serán sujetos
 
 La Evaluación del Desempeño que se realice en los términos de esta Ley, se efectuará sin perjuicio de lo que establezcan otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 61.
 
-La CEPLAP en el ámbito estatal y, tratándose de los municipios, las COMUPLA, serán las instancias técnicas de evaluación a que se refiere el segundo párrafo del Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y tendrán como propósito propiciar que los recursos económicos se asignen en los respectivos presupuestos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+La CPLAP en el ámbito estatal y, tratándose de los municipios, las COMUPLA, serán las instancias técnicas de evaluación a que se refiere el segundo párrafo del Artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y tendrán como propósito propiciar que los recursos económicos se asignen en los respectivos presupuestos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 62.
 
-Corresponderá a la CEPLAP y a las COMUPLA, en sus respectivas competencias, lo siguiente:
+Corresponderá a la CPLAP y a las COMUPLA, en sus respectivas competencias, lo siguiente:
 
 I.- Diseñar, coordinar y operar el Sistema de Evaluación del Desempeño;
 
@@ -1235,13 +1243,17 @@ VIII.- Elaborar un informe anual que contenga los resultados de las evaluaciones
 
 IX.- Impartir a petición de parte capacitación en materia de Evaluación del Desempeño.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 63.
 
-El Titular del Ejecutivo, a través de la CEPLAP y a petición expresa del Congreso, del Poder Judicial y de los Órganos Autónomos, les proporcionará la asesoría y apoyo técnico que requieran en materia de Evaluación del Desempeño, así como todos los datos estadísticos, estudios o informes que soliciten y que sean necesarios para llevar a cabo tal evaluación en el ámbito de su competencia.
+El Titular del Ejecutivo, a través de la CPLAP y a petición expresa del Congreso, del Poder Judicial y de los Órganos Autónomos, les proporcionará la asesoría y apoyo técnico que requieran en materia de evaluación del desempeño, así como todos los datos estadísticos, estudios o informes que soliciten y que sean necesarios para llevar a cabo tal evaluación en el ámbito de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 64.
 
-Las atribuciones que esta Ley le confiere a la CEPLAP en materia de Evaluación de Desempeño, son sin perjuicio de las que tenga la Secretaría de Fiscalización y Rendición de Cuentas, así como de las que la legislación correspondiente confiera al Órgano Superior de Fiscalización del Estado de Aguascalientes.
+Las atribuciones que esta Ley le confiere a la CPLAP en materia de evaluación de desempeño, son sin perjuicio de las que tenga la Contraloría del Estado, así como de las que la legislación correspondiente confiera al Órgano Superior de Fiscalización del Estado de Aguascalientes.
 
 Asimismo, las atribuciones que esta Ley le confiere a la COMUPLA en materia de Evaluación de Desempeño, son sin perjuicio de las que la legislación correspondiente confiera al Órgano Superior de Fiscalización del Estado de Aguascalientes.
 
@@ -1249,7 +1261,9 @@ Asimismo, las atribuciones que esta Ley le confiere a la COMUPLA en materia de E
 
 Son obligaciones de las Dependencias del Ejecutivo y de las Entidades del Ejecutivo, así como de las Dependencias del Municipio y de las Entidades del Municipio, en materia de Evaluación del Desempeño, las siguientes:
 
-I.- Elaborar y proponer a la CEPLAP y a la COMUPLA, según corresponda, los Indicadores de Desempeño de los Programas Presupuestarios a su cargo conforme a los lineamientos señalados en el Artículo 62 de la Ley;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+I.- Elaborar y proponer a la CPLAP y a las COMUPLA, según corresponda, los Indicadores de Desempeño de los Programas Presupuestarios a su cargo conforme a los lineamientos señalados en el Artículo 62 de la Ley;
 
 II.- Autoevaluarse mediante la medición por sí mismos o a través de evaluadores externos, del grado de cumplimiento de los Indicadores de Desempeño;
 
@@ -1257,11 +1271,15 @@ III.- Dar seguimiento y monitoreo de los Indicadores Estratégicos e Indicadores
 
 IV.- Atender las revisiones y recomendaciones de las Evaluaciones del Desempeño;
 
-V.- Informar trimestralmente a la CEPLAP o a las COMUPLA según corresponda, los resultados de los Indicadores de Desempeño de los Programas Presupuestarios a su cargo, dentro de los diez días siguientes a la conclusión del periodo correspondiente, respecto de los Indicadores de Desempeño, cuya periodicidad de su cálculo así lo permita;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+V.- Informar trimestralmente a la CPLAP o a las COMUPLA según corresponda, los resultados de los Indicadores de Desempeño de los Programas Presupuestarios a su cargo, dentro de los diez días siguientes a la conclusión del periodo correspondiente, respecto de los indicadores de desempeño, cuya periodicidad de su cálculo así lo permita;
 
 VI.- Elaborar e implementar proyectos de mejora para incorporar en el diseño, adecuación y operación de los programas a su cargo, atendiendo los resultados de las evaluaciones e informar los avances con oportunidad; y
 
-VII.- Acordar con la CEPLAP y con la COMUPLA, según corresponda, las adecuaciones a los Programas Presupuestarios en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+VII.- Acordar con la CPLAP y con las COMUPLA, según corresponda, las adecuaciones a los Programas Presupuestarios en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación.
 
 ###### Artículo 66.
 
@@ -1295,9 +1313,11 @@ El conjunto de la documentación contable consistente en libros de contabilidad,
 
 Las Dependencias y Entidades del Ejecutivo y de los Municipios en su caso, publicarán en Internet, en los términos de la legislación aplicable la información de los Programas Presupuestarios aprobados en sus presupuestos de egresos.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 69.
 
-La CEPLAP y la COMUPLA publicarán en internet, en los términos de la legislación aplicable en materia de trasparencia, la información que se derive de los resultados de la aplicación de los Indicadores del Desempeño. Igual obligación tendrán los (sic) el Congreso y el Poder Judicial, así como los Órganos Autónomos en el ámbito de su competencia.
+La CPLAP y las COMUPLA publicarán en internet, en los términos de la legislación aplicable en materia de trasparencia, la información que se derive de los resultados de la aplicación de los indicadores del desempeño. Igual obligación tendrán el Congreso y el Poder Judicial, así como los Órganos Autónomos en el ámbito de su competencia.
 
 ###### Artículo 70.
 
@@ -1339,9 +1359,11 @@ En el ámbito municipal, la facultad señalada en el párrafo anterior correspon
 
 Los Ejecutores de Gasto, estarán obligados a proporcionar a las Autoridades Fiscalizadoras, en el ámbito de sus respectivas competencias, toda la información que les soliciten para el cumplimiento de sus labores de vigilancia y verificación del ejercicio del Gasto Público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 75.
 
-A la Secretaría de Fiscalización y Rendición de Cuentas, así como a los órganos de control interno del Congreso, del Poder Judicial, de los Órganos Autónomos y de los Municipios, en el ámbito de su competencia, quedará encomendada la vigilancia y verificación del Gasto Público, por medio de visitas, inspecciones y auditorías, sin detrimento de las facultades legales que correspondan al Órgano Superior de Fiscalización del Estado.
+A la Contraloría del Estado, así como a los órganos de control interno del Congreso, del Poder Judicial, de los Órganos Autónomos y de los Municipios, en el ámbito de su competencia, quedará encomendada la vigilancia y verificación del Gasto Público, por medio de visitas, inspecciones y auditorías, sin detrimento de las facultades legales que correspondan al Órgano Superior de Fiscalización del Estado.
 
 Los servidores públicos de los Ejecutores de Gasto están obligados a proporcionar a dichas Autoridades Fiscalizadoras, en el ámbito de su competencia, todos los documentos, datos e informes que les soliciten.
 
@@ -1369,9 +1391,11 @@ El uso de los medios de identificación electrónica que se establezcan conforme
 
 Los Sujetos de esta Ley serán responsables por el incumplimiento a las disposiciones contenidas en esta Ley y serán sancionados política, administrativa y penalmente, en los términos de las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 80.
 
-Se sancionará en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, las conductas previstas en el artículo 85 de la Ley General de Contabilidad Gubernamental.
+Las conductas previstas en el artículo 85 de la Ley General de Contabilidad Gubernamental, serán sancionadas en términos de la Ley aplicable en materia de responsabilidades administrativas.
 
 TRANSITORIOS:
 
@@ -1560,3 +1584,31 @@ P.O. 30 DE SEPTIEMBRE DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 270.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES VI, XXX, XXXVII, L, LVI, LXXII DEL ARTÍCULO 3º; EL PRIMER PÁRRAFO DEL ARTÍCULO 12; EL PRIMER PÁRRAFO DEL ARTÍCULO 14; LA FRACCIÓN IV DEL ARTÍCULO 16; EL PRIMER PÁRRAFO DEL ARTÍCULO 18; EL PRIMER PÁRRAFO DEL ARTÍCULO 19; EL PRIMER PÁRRAFO DEL ARTÍCULO 39 TER; EL PRIMER PÁRRAFO DEL ARTÍCULO 42; EL PRIMER Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 47; EL ARTÍCULO 48; LA FRACCIÓN III DEL ARTÍCULO 49 BIS; LA FRACCIÓN III DEL ARTÍCULO 49 TER; LA FRACCIÓN VI DEL ARTÍCULO 49 QUINQUIES; EL ARTÍCULO 50, LA FRACCIÓN III DEL ARTÍCULO 56; EL ARTÍCULO 61; EL PRIMER PÁRRAFO DEL ARTÍCULO 62; EL ARTÍCULO 63; EL PRIMER PÁRRAFO DEL ARTÍCULO 64; LAS FRACCIONES I, V, Y VII DEL ARTÍCULO 65; EL ARTÍCULO 69; EL PRIMER PÁRRAFO DEL ARTÍCULO 75; Y EL ARTÍCULO 80; SE ADICIONA LA FRACCIÓN XIV A AL ARTÍCULO 3°; LOS ARTÍCULOS 49 SEXIES Y 49 SEPTIES; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 49 QUINQUIES; DE LA LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, salvo lo dispuesto a los siguientes transitorios.
+
+###### ARTÍCULO SEGUNDO.
+
+Los proyectos o programas aprobados por el Comité Técnico, en el ejercicio fiscal 2019, a que hace referencia los Artículos 49 Ter, fracción III, inciso b) y 49 Quinquies fracción VI, continuarán con sus procedimientos hasta su total conclusión.
+
+###### ARTÍCULO TERCERO.
+
+El Fidecomiso del Fondo de Estabilización deberá realizar las modificaciones necesarias al Contrato del Fideicomiso que derivan del presente Decreto, en un plazo no mayor a 180 días naturales.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos que al 31 de diciembre de 2019 no hubieran sido comprometidos y se encuentren en el Patrimonio del Fideicomiso del Fondo de Estabilización, se sujetarán a las disposiciones del presente Decreto, sin considerar los recursos correspondientes al saldo objetivo que se determine en el ejercicio fiscal 2020 conforme al Artículo 49 Ter fracción II de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+El Comité Técnico a que se refiere el Artículo 49 Septies, deberá quedar instalado en los 30 días posteriores a que el Comité técnico del Fideicomiso del Fondo de Estabilización, transfiera los recursos a la Secretaría.
+
+###### ARTÍCULO SEXTO.
+
+Una vez instalado el Comité Técnico a que hace referencia el Artículo 49 Septies, deberá emitir en un plazo no mayor a 180 días naturales, las reglas de operación, lineamientos y demás disposiciones que resulten necesarios para su adecuado funcionamiento.
