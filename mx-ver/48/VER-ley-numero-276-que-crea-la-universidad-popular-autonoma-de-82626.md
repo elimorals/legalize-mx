@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-276-que-crea-la-universidad-popular-autonoma-de-8262
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-01"
-last_updated: "2011-08-01"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 276 QUE CREA LA UNIVERSIDAD POPULAR AUTONOMA DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL:16 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 1 de agosto de 2011.
 
@@ -104,6 +104,10 @@ VI. Los demás bienes o derechos que reciba por cualquier título legal.
 ###### Artículo 8.
 
 La Universidad administrará su patrimonio con sujeción a las disposiciones jurídicas y demás instrumentos legales aplicables, para destinarlo al cumplimiento de sus fines.
+
+> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2019)</small>
+
+Todo convenio que la Universidad celebre con cualquier persona física o moral y que en el cumplimiento de su objeto se modifique el patrimonio de la Institución, deberá ser enterado por el Rector dentro de los informes trimestrales que formulará y someterá a la aprobación de la Junta de Gobierno.
 
 ###### Artículo 9.
 
@@ -237,7 +241,9 @@ VIII. Aprobar el informe anual del Rector de la Universidad;
 
 IX. Autorizar el proyecto de presupuesto de egresos de la Universidad, para su inclusión en el Presupuesto de Egresos del Estado;
 
-X. Aprobar el programa operativo anual que someta a su consideración el Rector de la Universidad, así como el programa de adquisiciones, arrendamientos y servicios, conforme a las disposiciones aplicables; y
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2019)</small>
+
+X. Aprobar el programa operativo anual que someta a consideración el Rector de la Universidad, el programa de adquisiciones, arrendamientos y servicios, conforme a las disposiciones aplicables, así como los informes trimestrales de gestión financiera que se presenten al Congreso del Estado, los cuales deberán precisar el estado actual del patrimonio de la Universidad, así como las modificaciones que éste haya sufrido derivado de la celebración de convenios con personas físicas o morales; y
 
 XI. Las demás que le otorgue la presente Ley, las que expresamente le atribuyan las leyes del Estado, la normatividad universitaria y demás disposiciones aplicables.
 
@@ -281,7 +287,9 @@ VIII. Coordinar la evaluación institucional de los planes y programas de educac
 
 IX. Planear, administrar y evaluar la prestación de los servicios que brinde la Universidad;
 
-X. Formular y someter a la aprobación de la Junta de Gobierno, los proyectos anuales de presupuesto de ingresos y de egresos, el programa operativo anual de adquisiciones, arrendamientos y servicios, y los informes trimestrales de gestión financiera que se presenten al Congreso del Estado;
+> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2019)</small>
+
+X. Formular y someter a la aprobación de la Junta de Gobierno los proyectos anuales de presupuesto de ingresos y de egresos, el programa operativo anual de adquisiciones, arrendamientos y servicios, y los informes trimestrales de gestión financiera que se presenten al Congreso del Estado, los cuales deberán precisar el estado actual del patrimonio de la Universidad, así como las modificaciones que éste haya sufrido derivado de la celebración de convenios con personas físicas o morales;
 
 XI. Ejercer el presupuesto anual de egresos de la Universidad, de conformidad con los ordenamientos y disposiciones aplicables;
 
@@ -380,3 +388,15 @@ Sufragio efectivo. No reelección
 Dr. Javier Duarte de Ochoa
 
 Gobernador del Estado.-Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 304 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA LA UNIVERSIDAD POPULAR AUTÓNOMA DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Universidad Popular Autónoma de Veracruz, a través de la Junta de Gobierno, deberá hacer las adecuaciones a su normativa interna para dar cumplimiento al mismo.
