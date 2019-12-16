@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-jesus-maria-aguascalientes-723
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2017-07-03"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE JESUS MARIA, AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de enero de 2010.
 
@@ -1941,137 +1943,89 @@ Las licencias o permisos para el establecimiento de anuncios que tengan vigencia
 
 La autoridad municipal regulará en su Código Municipal o mediante disposiciones de carácter general publicadas en el Periódico Oficial del Estado, los requisitos para la obtención de las licencias o permisos para el establecimiento de anuncios, carteles o publicidad; así como sus características, contenido, dimensiones, espacios en que se fijen o instalen, el procedimiento para su colocación, los materiales, estructuras, soportes, sistemas de iluminación que se utilicen en su construcción y su permanencia.
 
-#### SECCIÓN ÚNICA. Por Servicio Público de Alumbrado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN ÚNICA. Por el Uso y Mantenimiento de las Luminarias en Áreas Públicas (UMLAP)
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 214.
 
-Se considera servicio de alumbrado público a la actividad técnica que realiza el Ayuntamiento consistente en iluminar las avenidas, calles, plazas, parques, áreas públicas comerciales e industriales, edificios públicos y demás lugares de uso común, de manera permanente, regular y continua, encaminado a la satisfacción de la necesidad colectiva de iluminación, la cual se constituye de interés general y se presta sin aspiración alguna de lucro.
+Se considera el uso y mantenimiento de las luminarias en áreas públicas, el tener iluminación en las avenidas, calles, plazas, parques, áreas públicas comerciales e industriales, edificios públicos y demás lugares de uso común, y el mantenimiento al gasto que se genera por la instalación y sustitución de postes, lámparas, cableado y demás actividades para su funcionamiento de manera permanente, regular y continua que el Municipio presta por mandato Constitucional.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 215.
 
-Las personas físicas o morales, habitantes o residentes, propietarias o poseedoras de predios, construidos o no, ubicados en las zonas urbanas, rurales o poblaciones del Municipio, están obligadas a contribuir para el sostenimiento del servicio de alumbrado público, a través del pago de los derechos correspondientes en la forma y términos que se establecen en este Capítulo.
+Las personas físicas o morales, habitantes o residentes, propietarias o poseedoras de predios del Municipio, están obligadas a contribuir para el sostenimiento del uso y mantenimiento de las luminarias en áreas públicas y el cálculo de su distribución se hará tomando como base gravable, el gasto directo e indirecto que se genera para el Ayuntamiento.
+
+La Ley de Ingresos fijara en forma anual la tarifa o cuota que pagar por cada sujeto obligado.
+
+El H. Ayuntamiento podrá celebrar convenios con instituciones públicas o privadas por el cobro del Uso y Mantenimiento de las Luminarias en Áreas Públicas.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 216.
 
-La Dirección de Finanzas Municipal determinará el crédito fiscal que corresponda a cada contribuyente, recaudará la contribución y aplicará, en su caso, la facultad económico-coactiva, para hacerla efectiva.
+El gasto que se genera por el Uso y Mantenimiento de las Luminarias en Áreas Públicas se compondrá, por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
 
-El Ayuntamiento podrá celebrar convenios con instituciones públicas o privadas para el cobro de los Derechos por el Servicio de Alumbrado Público.
+I. Costo por servicios personales empleados en el año en la instalación, operación y mantenimiento de luminarias, entendido como tal los sueldos, salarios, compensaciones, servicio y contribuciones que se deriven de la administración de la nómina del Servicio Público;
 
-###### ARTÍCULO 217.
+II. Costo de los materiales, suministros y gastos de mantenimiento que sean empleados durante el año en las luminarias, el cual se compondrá del erogado en los conceptos por compras y adquisiciones reposición de lámparas, el mantenimiento de líneas eléctricas y postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento de esta;
 
-El pago de los derechos por el servicio se causará en todas las colonias, comunidades, centros de población, rancherías, parques industriales y demás unidades poblacionales, comerciales o industriales, y el cálculo de su distribución se hará tomando como base gravable, el costo total anual que se genera para el Ayuntamiento, ocasionado con motivo de la prestación del servicio de alumbrado público en todo el Municipio.
-
-La Ley de Ingresos señalará en forma anual el costo total anual del servicio de alumbrado público correspondiente al año de que se trate, así como la tarifa o cuota a pagar por cada usuario beneficiado en razón del sistema de fórmulas establecidas en el presente Capítulo.
-
-###### ARTÍCULO 218.
-
-El costo total del servicio de alumbrado público, se distribuirá entre los propietarios y poseedores de predios urbanos en la forma que se señala en este Capítulo. En caso de arrendamiento, el arrendador podrá trasladar al arrendatario el costo de esta contribución.
-
-###### ARTÍCULO 219.
-
-El costo total del servicio de alumbrado público se compondrá por aquellas cantidades que representen o sean equivalentes a los siguientes conceptos:
-
-I. Costo por servicios personales empleados en el año en la instalación, operación y mantenimiento del servicio de alumbrado público, entendido como tal los sueldos, salarios, compensaciones, servicio y contribuciones que se deriven de la administración de la nómina del Servicio Público;
-
-II. Costo de los materiales, suministros y gastos de mantenimiento que sean empleados durante el año en el servicio de alumbrado público, el cual se compondrá del erogado en los conceptos por compras y adquisiciones reposición de lámparas, el mantenimiento de líneas eléctricas y postes, materiales, seguridad, herramientas y maquinaria, así como la operación y mantenimiento de esta;
-
-III. Costo de la reserva de contingencia que se establezca para el año, para el servicio de alumbrado público por parte del Cabildo del Ayuntamiento;
+III. Costo de la reserva de contingencia que se establezca para el año, para el uso y mantenimiento de las luminarias por parte del Cabildo del Ayuntamiento;
 
 IV. Costo del suministro de energía eléctrica, el cual se compondrá del que deba ser pagado en base a los históricos acumulados por ello, adicionado por el crecimiento de la inflación, los aumentos propios del servicio, así como los que se sufran por mayor cobertura y nuevos proyectos;
 
-V. Costo de la ejecución de los nuevos proyectos de ampliación e introducción de servicio de alumbrado público.
+V. Costo de la ejecución de los nuevos proyectos de ampliación de iluminación.
+
+###### ARTÍCULO 217.
+
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
+
+###### ARTÍCULO 218.
+
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
+
+###### ARTÍCULO 219.
+
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 220.
 
-Para calcular el costo total anual aplicable en un ejercicio, se considerará el costo total del año inmediato anterior, a aquél para el cual se aplicará el tributo, incrementado en un porcentaje igual al índice de inflación esperado por el Gobierno Federal en su programa económico para ese mismo Ejercicio Fiscal, adicionado como los costos de los nuevos proyectos, expansión y crecimiento natural del servicio.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 221.
 
-El costo total anual del servicio será el que al efecto apruebe anualmente el Congreso del Estado previa propuesta del Ayuntamiento que se realice en la iniciativa de Ley del (sic) Ingresos del año de que se trate.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 222.
 
-El Ayuntamiento deberá someter de igual forma a la aprobación anual del Congreso del Estado dentro de la Ley de Ingresos del año de que se trate el número total de beneficiarios que se proyecte para dicho año.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 223.
 
-La determinación del crédito fiscal individual de cada contribuyente, se calculará aplicando las siguientes fórmulas:
-
-(VÉASE ARCHIVO ANEXO)
-
-CTS= Costo Total del Servicio
-
-La cantidad resultante de la suma de los conceptos que establece el Artículo 67, F de la presente Ley, aprobado por el Congreso del Estado.
-
-FS= Factor Seguridad
-
-Se obtendrá de la división lograda entre el número de delitos totales del Municipio en el año próximo anterior, entre el valor neto del nivel de seguridad que perciben los habitantes del Municipio, el cual habrá de obtenerse mediante el estudio de opinión que se aplique cada año en el mes de septiembre, dividiendo dicho resultado a su vez entre la población total del Municipio.
-
-FB = Factor de Bienestar
-
-Se obtendrá el presente factor de la división lograda entre el número total de beneficiarios del servicio de alumbrado público entre la cantidad resultante a su vez de la división efectuada del total de población, entre los beneficios totales, los cuales se obtienen de la suma total de las escuelas, panteones, centros de salud, festividades locales, plazas públicas, así como aquellos que determine el Cabildo en sesión que para ello se convoque.
-
-NE= Nivel Económico (Capacidad de Pago)
-
-Se obtendrá el presente factor a través de la asignación que se haya otorgado para la autorización del fraccionamiento de que se trate, y en su defecto, ante su falta, será determinado por el Cabildo para cada uno de los fraccionamientos, colonias, comunidades, localidades y centros de población del Municipio en razón de su nivel económico, desarrollo e infraestructura, en términos de la siguiente tabla:
-
-Tipo de Fraccionamiento, Colonia,
-
-Comunidad o Centro de Población. Factor
-
-Habitacionales Urbanos y Rurales:
-
-Residenciales 2
-
-De Tipo Medio 1
-
-De Tipo Popular 0.5
-
-De Interés Social 0.3
-
-Pobreza Extrema 0.2
-
-Mixtos 0.6
-
-TB = Total de Beneficiarios
-
-El presente factor se entiende como las personas físicas y morales, sujetos de derechos y obligaciones, causantes del Derecho del Servicio de Alumbrado Público, que se obtiene anualmente según la propuesta del Ayuntamiento al Congreso del Estado del estudio y análisis que se realice entre el total de la población, número de cuentas catastrales, número de usuarios de la Comisión Federal de Electricidad, usuarios de servicio de agua potable y alcantarillado, así como el factor que se considere oportuno incluir, y de entre los que se prorratea el costo total anual del servicio.
-
-TC= Total de Comercios
-
-El presente factor se obtendrá de la suma total de las licencias comerciales y de servicios que se tengan registradas en el Ayuntamiento al 30 de octubre del año anterior.
-
-TP= Total de Población
-
-Para el presente se obtendrá del que determine el INEGI de acuerdo con el último Censo o Conteo Poblacional.
-
-TT= Total de Trabajadores
-
-El Presente valor se obtendrá del número de registro de trabajadores que tenga dados de alta la empresa ante el Instituto Mexicano del Seguro Social.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 224.
 
-Los derechos a que se refiere este Capítulo se causarán en forma anual y se pagarán bimestralmente durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre, en la Tesorería Municipal o en las instituciones que ésta autorice mediante la celebración de los convenios respectivos.
-
-Esta contribución podrá cubrirse en forma anual durante el primer bimestre, en cuyo caso se aplicará el descuento que al efecto establezca la Ley de Ingresos del año de que se trate.
-
-De igual forma la presente contribución podrá ser pagada en forma anual (sic) conjunción de tiempos y sistema con el pago de las licencias comerciales, reglamentarias, industriales y de servicio, así como del impuesto predial.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 225.
 
-La Federación, Estado y Municipios, estarán exentos de esta contribución y no serán considerados en la aplicación de la fórmula de distribución de la carga tributaria.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 226.
 
-El Ayuntamiento podrá realizar descuentos al costo de los Derechos por el Servicio de Alumbrado Público en los porcentajes y supuestos que sean previstos en la Ley de Ingresos.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 227.
 
-Los derechos por la prestación de servicios públicos que presten las diversas dependencias municipales, se causarán en el momento que el particular reciba la prestación del servicio o en el momento en que se provoque por parte del Municipio, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fije el derecho, señale cosa distinta.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 228.
 
-El importe de las tasas que para cada derecho señala la Ley de Ingresos Municipal, deberá ser cubierto en la Tesorería Municipal.
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2019)
 
 ## TÍTULO SEXTO. DE LAS CONTRIBUCIONES ESPECIALES
 
@@ -2434,3 +2388,11 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 274.- ARTÍCULO PRIMERO.- SE REFORMA EL ARTÍCULO 138 Y SE DEROGA EL ARTÍCULO 138 BIS, DE LA LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES.- ARTÍCULO SEGUNDO.- SE REFORMA EL ARTÍCULO 122 A Y SE DEROGAN LOS ARTÍCULOS 122 B, 122 C, 122 D, 122 E DE LA LEY DE HACIENDA DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES.- ARTÍCULO TERCERO.- SE REFORMA EL ARTÍCULO 67 A Y SE DEROGAN LOS ARTÍCULOS 67 B, 67 C, 67 D, 67 E, 67 F, 67 G, 67 H, 67 I, 67 J, 67 K, 67 L Y 67 M DE LA LEY DE HACIENDA DEL MUNICIPIO DE RINCÓN DE ROMOS, AGUASCALIENTES.- ARTÍCULO CUARTO.- SE REFORMAN LOS ARTÍCULOS 214, 215 Y 216; LA DENOMINACIÓN DE LA SECCIÓN ÚNICA, DEL CAPÍTULO II, DEL TÍTULO QUINTO PARA QUEDAR COMO "POR EL USO Y MANTENIMIENTO DE LAS LUMINARIAS EN ÁREAS PÚBLICAS (UMLAP)"; SE DEROGAN LOS ARTÍCULOS 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227 Y 228 DE LA LEY DE HACIENDA DEL MUNICIPIO DE JESÚS MARÍA, AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día 01 de enero de 2020.
