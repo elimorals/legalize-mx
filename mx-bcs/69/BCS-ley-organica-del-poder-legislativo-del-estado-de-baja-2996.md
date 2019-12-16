@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2019-08-10"
+last_updated: "2019-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -1883,6 +1883,14 @@ Si por falta de Quórum no pudiera verificarse esta Sesión Extraordinaria, el P
 
 Son Sesiones Públicas aquellas que se celebren permitiéndose el acceso al público al Recinto Oficial.
 
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+Durante el desarrollo de las sesiones del Congreso a que se refiere este artículo, se dispondrá de una o un intérprete de Lengua de Señas Mexicanas, con el fin de traducir a las personas con discapacidad auditiva, los asuntos que se desahogan en el Pleno, por lo que para los efectos de las transmisiones en tiempo real, se colocará un recuadro permanente en la pantalla donde se enfoque en todo momento a la o el intérprete.
+
+> <small>(ADICIONADO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+
+La o él intérprete a que se hace referencia en el párrafo anterior, prestara sus servicios bajo el régimen de honorarios asimilados a salarios.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 93.
@@ -3666,3 +3674,9 @@ PRIMERO. EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA DE SU APROBACIÓN Y SE EN
 SEGUNDO.- EN VIRTUD DE LAS PRESENTES REFORMAS Y ADICIONES, POR ÚNICA OCASIÓN, Y UNA VEZ APROBADAS LAS MISMAS, QUEDAN RECONOCIDAS LAS FRACCIONES PARLAMENTARIAS DE LOS PARTIDOS POLÍTICOS ENCUENTRO SOCIAL Y ACCIÓN NACIONAL QUE EN TÉRMINOS DE LOS ARTÍCULOS 68 Y 69 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ LO COMUNICARON A LA MESA DIRECTIVA AL INICIO DEL PRIMER PERÍODO ORDINARIO DE SESIONES DEL PRIMER AÑO DE EJERCICIO CONSTITUCIONAL, POR LO QUE A PARTIR DEL DÍA PRIMERO DE SEPTIEMBRE DEL PRESENTE AÑO Y HASTA EL TREINTA Y UNO DE AGOSTO DEL AÑO DOS MIL VEINTE, PRESIDIRÁ LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA LA FRACCIÓN DEL PARTIDO ENCUENTRO SOCIAL Y A PARTIR DEL PRIMERO DE SEPTIEMBRE DEL AÑO DOS MIL VEINTE Y HASTA LA CONCLUSIÓN DE ESTA XV LEGISLATURA, PRESIDIRÁ LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA, QUIÉN COORDINE LOS TRABAJOS DE LA FRACCIÓN PARLAMENTARIA DEL PARTIDO ACCIÓN NACIONAL.
 
 TERCERO.- POR ÚNICA OCASIÓN EN TÉRMINOS DE LO ESTABLECIDO POR EL SEGUNDO PÁRRAFO DEL ARTÍCULO 67 DE LA PRESENTE REFORMA, Y CON LA FINALIDAD DE QUE HAYA MAYOR PARTICIPACIÓN DE LAS CORRIENTES IDEOLÓGICAS REPRESENTADAS EN ESTE PODER LEGISLATIVO EN LOS ÓRGANOS DE GOBIERNO DE ESTA XV LEGISLATURA, LAS DIPUTADAS Y DIPUTADOS QUE NO CONFORMAN FRACCIÓN O SIN PARTIDO, PODRÁN INTEGRAR UNA FRACCIÓN PARLAMENTARIA MIXTA QUIENES NO PODRÁN PRESIDIR LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA DE LA XV LEGISLATURA DEL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2680 SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 92 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
