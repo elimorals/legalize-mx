@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-coordinacion-fiscal-del-estado-de-aguascalientes-10922"
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-03"
-last_updated: "2018-03-12"
+last_updated: "2019-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 3 de noviembre de 1996.
 
@@ -131,7 +131,9 @@ IV.- La recaudación que obtenga el Estado del Impuesto Especial sobre Producci�
 
 > <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 68.]</small>
 
-V.- La recaudación en el Estado del Impuesto sobre Automóviles Nuevos; de acuerdo a la siguiente fórmula:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+V.- La recaudación que obtenga el Estado del Impuesto sobre Automóviles Nuevos y del Fondo de Compensación que se establece en el Artículo 14 de la Ley Federal del Impuesto Sobre Automóviles Nuevos, así como los montos percibidos por el Estado en la recaudación de dicho impuesto, deberán calcularse de acuerdo con la siguiente formula:
 
 > <small>[N. DE E. VÉASE FÓRMULA Y NOMENCLATURA EN EL P.O. 31 DE DICIEMBRE DE 2014, PÁGINA 69.]</small>
 
@@ -526,3 +528,11 @@ P.O. 12 DE MARZO DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 272.- ARTÍCULO ÚNICO.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN V DEL CUARTO PÁRRAFO DEL ARTÍCULO 3º DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
