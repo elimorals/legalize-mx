@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-sociedad-del-114795"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-23"
-last_updated: "2018-09-10"
+last_updated: "2019-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de mayo de 2016.
 
@@ -75,7 +75,9 @@ XI. Impulsar el fortalecimiento del Sistema Estatal de investigadores a través 
 
 XII. Divulgar y garantizar el acceso abierto a la información científica, tecnológica y de innovación en el Estado; y
 
-XIII. Establecer el sistema presupuestal y contable que permita identificar plenamente el monto destinado por el Estado de Aguascalientes a la Ciencia, Tecnología e Innovación, monto que no podrá ser menor al 1% de la recaudación fiscal del Estado.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+XIII. Establecer el sistema presupuestal y contable que permita identificar plenamente el monto destinado por el Estado de Aguascalientes a la Ciencia, Tecnología e Innovación, monto que no podrá ser menor al 1.5% de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
@@ -237,7 +239,9 @@ XXV. Realizar las demás actividades inherentes al cumplimiento de su objeto en 
 
 El patrimonio del Instituto, se integrará con:
 
-I. Los recursos presupuestarios que se le asignen anualmente, los cuales no pueden ser inferiores al 1% de la recaudación fiscal del Estado;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
+I. Los recursos presupuestarios que se le asignen anualmente, los cuales no pueden ser inferiores al 1.5% de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria;
 
 II. Los bienes muebles e inmuebles, derechos y demás, que le asigne o transmita el Poder Ejecutivo Estatal;
 
@@ -643,9 +647,11 @@ Para el cumplimiento de las funciones del Comisario Público, la Junta de Gobier
 
 ### CAPÍTULO PRIMERO. Del Financiamiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 32.
 
-El Ejecutivo del Estado, aportará recursos destinados a financiar la realización de proyectos de investigación científica, innovación, desarrollo tecnológico, así como actividades directamente vinculadas al fomento de una cultura científica y tecnológica y a la formación de recursos en una cantidad no menor al 1% de la recaudación fiscal del Estado. En el entendido de que dicho porcentaje se aplicará adicionalmente al presupuesto anual autorizado por el Congreso del Estado al Organismo Público Descentralizado IDSCEA.
+El Ejecutivo del Estado, aportará recursos destinados a financiar la realización de proyectos de investigación científica, innovación, desarrollo tecnológico, así como actividades directamente vinculadas al fomento de una cultura científica y tecnológica y a la formación de recursos en una cantidad no menor al 1.5% de la recaudación fiscal del Estado, sujeto a que exista la disponibilidad presupuestaria. En el entendido de que dicho porcentaje se aplicará adicionalmente al presupuesto anual autorizado por el Congreso del Estado al Organismo Público Descentralizado IDSCEA.
 
 El IDSCEA gestionará ante los órganos de finanzas, organismos públicos y privados, nacionales e internacionales, apoyos económicos que deberán aplicarse a proyectos científicos y tecnológicos.
 
@@ -1064,3 +1070,11 @@ P.O. 10 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 273.- ARTÍCULO ÚNICO.- SE REFORMAN LA FRACCIÓN XIII DEL ARTÍCULO 1°; LA FRACCIÓN I DEL ARTÍCULO 7°; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 32 DE LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y SOCIEDAD DEL CONOCIMIENTO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
