@@ -4,7 +4,7 @@ identifier: "SON-ley-estatal-de-responsabilidades-del-estado-de-sonora-122668"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2019-05-16"
+last_updated: "2019-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ESTATAL DE RESPONSABILIDADES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el martes 18 de julio de 2017.
 
@@ -2473,6 +2473,12 @@ Los servidores públicos de los órganos de control interno y de la Secretaría,
 
 Artículo Séptimo.- El titular del Poder Ejecutivo y el Congreso del Estado, a la brevedad que el caso amerita, realizaran las adecuaciones presupuestales que resulten necesarias a fin de dotar de los recursos materiales y financieros que permitan el cumplimiento de las atribuciones de la Sala Especializada en materia anticorrupción y responsabilidades administrativas.
 
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2019)</small>
+
+Artículo Octavo.- Los municipios del Estado, cuya población sea menor a cincuenta mil habitantes, derivado de la determinación de observaciones de las cuales se desprendan faltas no graves detectadas por el Instituto Superior de Auditoria y Fiscalización del Estado de Sonora, podrán concertar y celebrar convenios con dicho instituto por medio de los órganos internos de control de los municipios o de quien resulte facultado para ello a efecto que el instituto en cuestión sea el encargado de llevar a cabo las tareas de investigación y substanciación de las faltas administrativas calificadas como no graves, hasta la etapa de conclusión de dichas etapas, enviando el expediente al Órgano de Control Interno que se trate, a efecto que sea este último quien continúe con la admisión y valoración de las pruebas recibidas con la finalidad que estos resuelvan lo conducente y determinen la sanción aplicable de acuerdo a la ley de la materia.
+
+Lo señalado en el párrafo anterior surtirá sus efectos durante el periodo comprendido del 1º de enero del año 2020 al 31 de diciembre del año 2021, periodo en el cual dichas autoridades municipales deberán de implementar las áreas de Investigación y Substanciación.
+
 Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.- SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO. Hermosillo, Sonora, 06 de julio de 2017. C. CARLOS ALBERTO LEÓN GARCÍA, DIPUTADO PRESIDENTE.- RÚBRICA.- C. FERMÍN TRUJILLO FUENTES, DIPUTADO SECRETARIO.- RÚBRICA.- C. ANA MARÍA LUISA VALDÉS AVILÉS, DIPUTADA SECRETARIA.- RÚBRICA.
 
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
@@ -2484,6 +2490,14 @@ Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a
 B.O. 16 DE MAYO DE 2019.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 29, QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ESTATAL DE RESPONSABILIDADES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 17 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 86, QUE ADICIONA UN ARTÍCULO OCTAVO TRANSITORIO A LA LEY ESTATAL DE RESPONSABILIDADES”.]
 
 ###### ARTÍCULO ÚNICO.
 
