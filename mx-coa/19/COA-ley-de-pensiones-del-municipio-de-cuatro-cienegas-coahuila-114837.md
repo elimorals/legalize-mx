@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-del-municipio-de-cuatro-cienegas-coahuila-1148
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-17"
-last_updated: "2019-12-13"
+last_updated: "2019-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DE PENSIONES DEL MUNICIPIO DE CUATRO CIÉNEGAS, COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 17 de mayo de 2016.
 
@@ -83,9 +83,53 @@ X.- Por fondo, al fondo de pensiones que estará fideicomitido.
 
 El Fondo de Pensiones se constituirá de la siguiente manera:
 
-I.- Con la aportación obligatoria del Ayuntamiento de Cuatro Ciénegas, equivalente al 15.00% del sueldo de cotización de los trabajadores.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2019)</small>
 
-II.- Con la cuota obligatoria de los trabajadores de una cantidad equivalente al 15.00% del sueldo de cotización que perciban.
+I.- Con la aportación obligatoria del Ayuntamiento de Cuatro Ciénegas, equivalente al porcentaje descrito en la siguiente tabla sobre el sueldo de cotización de los trabajadores:
+
+AÑO PORCENTAJE
+
+PATRÓN
+
+2019 8%
+
+2020 9%
+
+2021 10%
+
+2022 11%
+
+2023 12%
+
+2024 13%
+
+2025 14%
+
+2026 en adelante 15%
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2019)</small>
+
+II.- Con la cuota obligatoria de los trabajadores de una cantidad equivalente al porcentaje descrito en la siguiente tabla sobre el del sueldo de cotización que perciban:
+
+AÑO PORCENTAJE
+
+TRABAJADOR
+
+2019 8%
+
+2020 9%
+
+2021 10%
+
+2022 11%
+
+2023 12%
+
+2024 13%
+
+2025 14%
+
+2026 en adelante 15%
 
 III.- Con los intereses, rentas y demás utilidades que se obtengan de la inversión o préstamos de acuerdo a este ordenamiento de las cuotas y aportaciones a que se refiere las fracciones anteriores.
 
@@ -848,3 +892,9 @@ P.O. 13 DE DICIEMBRE DE 2019.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 410.- SE MODIFICA EL ARTÍCULO 3 DE LA LEY DE PENSIONES DEL MUNICIPIO DE CUATRO CIÉNEGAS, COAHUILA DE ZARAGOZA, EN SUS FRACCIONES I Y II".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
