@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-las-personas-jovenes-en-la-ciudad-de-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-13"
-last_updated: "2019-05-08"
+last_updated: "2019-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109366&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de agosto de 2015.
 
@@ -54,21 +54,41 @@ LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO
 
 ### CAPÍTULO I. OBJETO Y ÁMBITO DE APLICACIÓN DE LA LEY
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público, interés social y de observancia general en el Distrito Federal, y tiene por objeto:
+La presente ley es de orden público, interés social y de observancia general en la Ciudad de México, y tiene por objeto:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 17 DE DICIEMBRE DE 2019)</small>
 
 I. Lograr el reconocimiento, promoción, protección, respeto y defensa de los derechos humanos de las personas jóvenes que habitan y transitan en la Ciudad de México;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 17 DE DICIEMBRE DE 2019)</small>
+
 II. Normar las políticas, medidas y acciones que contribuyan al desarrollo integral de las personas jóvenes en la Ciudad de México;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 17 DE DICIEMBRE DE 2019)</small>
 
 III. Regular mecanismos para la integración, elaboración, utilización y sistematización de la información a efecto de generar políticas tendientes a consolidar el desarrollo integral de las personas jóvenes;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 17 DE DICIEMBRE DE 2019)</small>
+
 IV. Desarrollar en la población una cultura de conocimiento y participación en temas relacionados con la juventud de la Ciudad de México; y
 
-V. Regular la organización del Instituto de la Juventud del Distrito Federal.
+> <small>(ADICIONADA, G.O. 17 DE DICIEMBRE DE 2019)</small>
 
-La aplicación de la presente ley corresponde al titular del Gobierno del Distrito Federal, por medio de las dependencias o entidades establecidas en el presente ordenamiento, que por competencia corresponda o bien, que él designe; del titular del Tribunal Superior de Justicia del Distrito Federal mediante las unidades de género, atención y protección de la juventud, los que tendrán la obligación de hacer efectivo por los medios a su alcance, el ejercicio de los derechos consagrados en esta Ley.
+V. Garantizar el derecho de las personas jóvenes a participar en la observación electoral y en la toma de decisiones públicas que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen, les afecten o sean de su interés; y
+
+> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 2019)</small>
+
+VI. Regular la organización del Instituto de la Juventud de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2019)</small>
+
+La aplicación de la presente ley corresponde al titular del Gobierno de la Ciudad de México, por medio de las dependencias o entidades establecidas en el presente ordenamiento, que por competencia corresponda o bien, que él designe; del titular del Tribunal Superior de Justicia de la Ciudad de México mediante las unidades de género, atención y protección de la juventud, los que tendrán la obligación de hacer efectivo por los medios a su alcance, el ejercicio de los derechos consagrados en esta Ley.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 17 DE DICIEMBRE DE 2019)</small>
 
 Las disposiciones de esta Ley no contravendrán lo dispuesto en el Código Civil y el Código Penal ambos para el Distrito Federal y demás disposiciones jurídicas aplicables.
 
@@ -160,11 +180,13 @@ XXXIX. Transversalidad. Es el proceso que permite garantizar la incorporación d
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS FUNDAMENTALES
 
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 3.
 
-Las personas jóvenes son titulares de los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte y demás normas legales aplicables en el Distrito Federal, restringiéndose sólo en los casos y situaciones previstas en los ordenamientos jurídicos anteriormente señalados.
+Las personas jóvenes son titulares de los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, en la Constitución Política de la Ciudad de México, y demás normas legales aplicables en la Ciudad de México, restringiéndose sólo en los casos y situaciones previstas en los ordenamientos jurídicos anteriormente señalados. Las personas jóvenes tendrán la protección de la ley para participar en la vida pública y en la planeación y el desarrollo de la Ciudad. Las autoridades adoptarán medidas para garantizar el pleno ejercicio de sus derechos, en particular a la identidad individual y colectiva, al libre desarrollo de su personalidad, a la autonomía, independencia y emancipación; a la participación política, económica, social, ambiental y cultural, y a la educación, al trabajo digno y a la vivienda. En razón de lo anterior se reconocerá el carácter diverso y heterogéneo de las personas jóvenes, así como sus necesidades específicas.
 
-Las personas jóvenes entre 12 años cumplidos y menores de 18 años de edad, gozarán de los derechos que reconoce esta Ley, sin detrimento de los derechos, responsabilidades y obligaciones de los padres y/o tutores que para ellos contiene la Convención sobre los Derechos del Niño, la Ley de los Derechos de las Niñas y los Niños en el Distrito Federal, y demás disposiciones jurídicas aplicables, por lo que se reconoce la obligación que tienen las autoridades del Distrito Federal de promover, respetar, proteger y garantizar sus derechos, atendiendo a los principios pro persona, interés superior del niño y de autonomía progresiva en el ejercicio de los mismos, tomándose en cuenta el grado de desarrollo cognoscitivo y evolutivo de sus facultades.
+Las personas jóvenes entre 12 años cumplidos y menores de 18 años de edad, gozarán de los derechos que reconoce esta Ley, sin detrimento de los derechos, responsabilidades y obligaciones de los padres y/o tutores que para ellos contiene la Convención sobre los Derechos del Niño, la Ley de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México, y demás disposiciones jurídicas aplicables, por lo que se reconoce la obligación que tienen las autoridades de la Ciudad de México de promover, respetar, proteger y garantizar sus derechos, atendiendo a los principios pro persona, interés superior del niño y de autonomía progresiva en el ejercicio de los mismos, tomándose en cuenta el grado de desarrollo cognoscitivo y evolutivo de sus facultades.
 
 ###### Artículo 4.
 
@@ -256,11 +278,13 @@ c) Establecer mecanismos para garantizar los derechos de las personas jóvenes e
 
 ### CAPÍTULO III. DEL FORTALECIMIENTO E INCENTIVO A JÓVENES EMPRENDEDORES
 
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 15.
 
-El Gobierno por medio de las Dependencias o Entidades que por competencia corresponda, integrará y establecerá reglas y programas de operación específicos que abonen a la constitución de políticas públicas que promuevan el fomento emprendedor en el marco de esta Ley y su reglamento.
+El Gobierno de la Ciudad de México, a través de sus instituciones, dependencias o Entidades que por competencia corresponda, integrará y establecerá reglas y programas de operación específicos que abonen a la conformación de políticas públicas que promuevan el fomento emprendedor en el marco de esta Ley y su reglamento.
 
-Se buscará además fomentar y promover la cultura y formación emprendedora impulsando sus temas y contenidos en los planes y programas de estudio en los planteles de los niveles de educación media superior y superior, incorporadas al Sistema Educativo del Distrito Federal, así como promover y fomentar la inserción de las personas jóvenes en el Distrito Federal al mundo empresarial. Asimismo, establecerá mecanismos de mejora regulatoria, compensación y estímulo que contribuyan al fomento emprendedor de las personas jóvenes.
+Se buscará además fomentar y promover la cultura y formación emprendedora impulsando sus temas y contenidos en los planes y programas de estudio en los planteles de los niveles de educación media superior y superior, incorporadas al Sistema Educativo de la Ciudad de México, así como promover y fomentar la inserción de las personas jóvenes en la Ciudad de México al mundo empresarial. Asimismo, establecerá mecanismos de mejora regulatoria, compensación y estímulo que contribuyan al fomento de las personas jóvenes emprendedoras, además agilicen su constitución y fortalezcan capacidades, competencias laborales y acceso al crédito.
 
 ###### Artículo 16.
 
@@ -1945,3 +1969,11 @@ SEGUNDO: Para los efectos del artículo 71 de la Ley Orgánica de las Alcaldía 
 TERCERO: Para efectos de la Ley de los Derechos de las Personas Jóvenes de la Ciudad de México, los Órganos Político Administrativos de cada una de las demarcaciones territoriales denominadas "Delegaciones", ahora se deberán entender como "Alcaldías" de la Ciudad de México, en tanto se armonice integralmente su contenido con lo dispuesto en la Constitución Política de la Ciudad de México.
 
 CUARTO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 17 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1, 3 Y 15 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES EN LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
