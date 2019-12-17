@@ -4,7 +4,7 @@ identifier: "COA-ley-de-proyectos-para-prestacion-de-servicios-para-el-57285"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-11"
-last_updated: "2018-01-23"
+last_updated: "2019-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE PROYECTOS PARA PRESTACION DE SERVICIOS PARA EL ESTADO LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 17 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROYECTOS PARA PRESTACIÓN DE SERVICIOS PARA EL ESTADO LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 11 de septiembre de 2007.
 
@@ -1008,3 +1010,29 @@ P.O. 23 DE ENERO DE 2018.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Al entrar en vigor el presente decreto se abrogará la Ley de Proyectos para Prestación de Servicios para el Estado Libre y Soberano de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 11 de septiembre de 2007.
+
+TERCERO.- El reglamento de la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza deberá emitirse a más tardar a los noventa días hábiles siguientes a la entrada en vigor del presente decreto.
+
+Los lineamientos técnicos y los lineamientos financieros a que se refiere la presente Ley, deberán emitirse en un plazo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente decreto.
+
+CUARTO.- Los procedimientos ya iniciados conforme a la Ley de Proyectos para Prestación de Servicios para el Estado Libre y Soberano de Coahuila de Zaragoza, así como la celebración y perfeccionamiento de los contratos que correspondan, continuarán regulándose bajo dicha normativa hasta su conclusión.
+
+QUINTO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEXTO.- El funcionamiento del sistema de juicio en línea iniciará para las entidades municipales de la siguiente manera:
+
+a) 60 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales de Saltillo, Torreón, Monclova y Piedras Negras.
+
+b) 120 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales de Acuña, Ramos Arizpe, Parras, Sabinas, San Juan de Sabinas, Castaños y Frontera.
+
+c) 180 días posteriores a la emisión de los Acuerdos Generales a que a que (sic) se refiere el Tercero Transitorio por lo que hace a las autoridades municipales del resto de los municipios del Estado.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan a este decreto.
