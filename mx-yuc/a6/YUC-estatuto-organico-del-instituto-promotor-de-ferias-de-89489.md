@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-promotor-de-ferias-de-89489"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-09-24"
-last_updated: "2013-07-01"
+last_updated: "2019-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PROMOTOR DE FERIAS DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 17 DE DICIEMBRE DE 2019.
 
 Estatuto publicado en el No. 32,199 del Diario Oficial del Estado de Yucatán, el lunes 24 de septiembre de 2012.
 
@@ -83,9 +83,17 @@ a) Dirección Administrativa;
 
 b) Dirección de Operaciones;
 
-c) Dirección de Eventos, y
+> <small>(REFORMADO, D.O. 17 DE DICIEMBRE DE 2019)</small>
 
-d) Dirección Jurídica.
+c) Dirección de Eventos;
+
+> <small>(REFORMADO, D.O. 17 DE DICIEMBRE DE 2019)</small>
+
+d) Dirección Jurídica, y
+
+> <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2019)</small>
+
+e) Dirección de Mercadotecnia y Relaciones Públicas.
 
 ###### Artículo 5.
 
@@ -111,9 +119,11 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Administración y Finanzas del Estado;
 
-IV. El Secretario Técnico del Gabinete, Planeación y Evaluación del Estado;
+IV. (DEROGADA, D.O. 17 DE DICIEMBRE DE 2019)
 
-V. El Secretario de Fomento Económico del Estado;
+> <small>(REFORMADA, D.O. 17 DE DICIEMBRE DE 2019)</small>
+
+V. El Secretario de Fomento Económico y Trabajo del Estado;
 
 VI. El Secretario de Fomento Turístico del Estado, y
 
@@ -279,57 +289,57 @@ VII. Recopilar la información de los recursos financieros e integración de la 
 
 VIII. Gestionar los recursos financieros y la documentación relativa para el pago de nómina del personal permanente y eventual del Instituto, y
 
-IX. Auxiliar al Director General con el proceso de liquidación de boletos de acceso general, estacionamiento y eventos durante la Feria Yucatán.
+> <small>(REFORMADA, D.O. 17 DE DICIEMBRE DE 2019)</small>
+
+IX. Auxiliar al director general con el proceso de liquidación de los boletos de estacionamiento, acceso general y eventos de la Feria Yucatán y de los demás eventos o actividades organizados por el Instituto.
 
 ### Capítulo VI. Del Director de Operaciones
+
+> <small>(REFORMADO, D.O. 17 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 22.
 
 El Director de Operaciones tendrá las siguientes facultades y obligaciones:
 
-I. Coordinar las acciones de las áreas operativas de control de ingreso a las instalaciones de la Feria y espectáculos;
+I. Coordinar las acciones de las unidades operativas de control de ingreso a las instalaciones de la Feria Yucatán y a los demás eventos y actividades organizados por el Instituto;
 
-II. Coordinarse con la Secretaria de Educación de Yucatán, en el desarrollo del programa escolar durante la feria;
+II. Coordinar con la Secretaría de Educación el desarrollo de los programas escolares que se realicen durante la Feria Yucatán y los demás eventos y actividades organizados por el Instituto;
 
-III. Establecer los lineamientos normativos de visita, a diversos eventos de instancias educativas públicas y privadas;
+III. Establecer los lineamientos normativos de visita a los diversos eventos y actividades organizados por el Instituto;
 
-> <small>(REFORMADA, D.O. 1 DE JULIO DE 2013)</small>
+IV. Establecer los criterios tarifarios del servicio de transporte, en atención a los programas escolares que se realicen para asistir a los diversos eventos y actividades organizados por el Instituto;
 
-IV. Establecer los criterios tarifarios de servicio de transporte en atención al Programa Escolar;
+V. Llevar registro y control de la comercialización del boletaje emitido en la Feria Yucatán y en los demás eventos y actividades organizados por el Instituto;
 
-> <small>(REFORMADA, D.O. 1 DE JULIO DE 2013)</small>
+VI. Coordinar y supervisar el desarrollo de las actividades de mantenimiento y de los servicios que se requieran en las instalaciones utilizadas por el Instituto;
 
-V. Llevar registro y control de la comercialización del boletaje emitido en la Feria Yucatán;
+VII. Supervisar el acceso y la salida de vehículos, equipo y mobiliario propiedad de los expositores o proveedores de los diversos recintos en los que se desarrollen los eventos y actividades organizados por el Instituto, y
 
-> <small>(ADICIONADA, D.O. 1 DE JULIO DE 2013)</small>
-
-VI. Coordinar y supervisar las actividades de mantenimiento y servicios que se requieran en las instalaciones del recinto de la Feria Yucatán;
-
-> <small>(ADICIONADA, D.O. 1 DE JULIO DE 2013)</small>
-
-VII. Supervisar el acceso y salida de vehículos, equipo y mobiliario de expositores y/o proveedores al recinto durante y fuera del periodo ferial, y
-
-> <small>(ADICIONADA, D.O. 1 DE JULIO DE 2013)</small>
-
-VIII. Establecer estrategias y acciones de vigilancia de manera permanente en las instalaciones y perímetros externos del recinto de la Feria Yucatán.
+VIII. Establecer, en coordinación con las autoridades competentes, estrategias y acciones de vigilancia en las instalaciones utilizadas por el Instituto.
 
 ### Capítulo VII. Del Director de Eventos
+
+> <small>(REFORMADO, D.O. 17 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 23.
 
 El Director de Eventos tendrá las siguientes facultades y obligaciones:
 
-I. Organizar y coordinar las actividades artísticas, culturales, recreativas y deportivas que se le asignen al Instituto;
+I. Organizar y coordinar las actividades culturales, artísticas, deportivas y recreativas del Instituto;
 
-II. Proponer al Director General la contratación de espectáculos y eventos;
+II. Elaborar el programa de eventos y espectáculos para la Feria Yucatán y para los demás eventos y actividades organizados por el Instituto;
 
-III. Establecer y elaborar, de acuerdo a las indicaciones del Director General, los contratos de eventos artísticos, culturales, recreativos, deportivos y asociaciones;
+III. Proponer al Director General la contratación de eventos y espectáculos para el cumplimiento de los objetivos del Instituto;
 
-IV. Realizar la contratación, previa aprobación del Director General, de medios publicitarios para la difusión de la feria;
+IV. Realizar, de acuerdo con las indicaciones del Director General, los trámites necesarios para la contratación de eventos y asociaciones;
 
-V. Coordinar la realización de ruedas de prensa con medios de comunicación, y
+V. Coordinar la realización de ruedas de prensa con medios de comunicación;
 
-VI. Gestionar y coordinar los recursos logísticos requeridos para la operación de eventos artísticos, culturales, recreativos y deportivos.
+VI. Gestionar y coordinar los recursos logísticos requeridos para el desarrollo de los eventos competencia del Instituto;
+
+VII. Coordinar con las dependencias y entidades de los gobiernos federal, estatales o municipales su participación en la Feria Yucatán y en los demás eventos y actividades organizados por el Instituto, y
+
+VIII. Asesorar, de acuerdo con las indicaciones del Director General, a los ayuntamientos que lo soliciten en la organización de las ferias tradicionales, exposiciones ganaderas y demás eventos y actividades que pretendan desarrollar.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 1 DE JULIO DE 2013)</small>
 
@@ -363,9 +373,29 @@ X. Auxiliar al Director General respecto del cumplimiento de la normatividad vig
 
 XI. Auxiliar a las direcciones del Instituto en los procedimientos de licitación y adjudicación de contratos.
 
-### Capítulo IX. De las ausencias
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 17 DE DICIEMBRE DE 2019)</small>
 
-### Capítulo X. De las sanciones
+### Capítulo VIII bis. Del Director de Mercadotecnia y Relaciones Públicas
+
+> <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2019)</small>
+
+Artículo 24 bis. El Director de Mercadotecnia y Relaciones Públicas tendrá las siguientes facultades y obligaciones:
+
+I. Coordinar el desarrollo de las acciones de difusión, comunicación y prensa del Instituto;
+
+II. Supervisar el contenido, edición, coedición e impresión de las publicaciones del Instituto;
+
+III. Administrar el contenido de los sitios web y redes sociales del Instituto;
+
+IV. Realizar tareas de investigación para la organización y el desarrollo de proyectos por parte del Instituto;
+
+V. Elaborar y difundir los paquetes publicitarios del Instituto, previa autorización del Director General;
+
+VI. Coordinar la venta de paquetes publicitarios para lograr el cumplimiento de los objetivos del Instituto, y
+
+VII. Vigilar el cumplimiento de los acuerdos establecidos por el Instituto con patrocinadores.
+
+### Capítulo IX. De las ausencias
 
 ###### Artículo 25.
 
@@ -374,6 +404,8 @@ Las ausencias del Director General serán suplidas por los servidores públicos 
 ###### Artículo 26.
 
 Las ausencias temporales de los directores de área y coordinadores serán cubiertas por los servidores públicos que designe el Director General.
+
+### Capítulo X. De las sanciones
 
 ###### Artículo 27.
 
@@ -404,3 +436,15 @@ PRIMERO. Este Acuerdo entrará en vigor el día siguiente al de su publicación 
 SEGUNDO. El Director General del Instituto Promotor de Ferias de Yucatán deberá inscribir en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, las modificaciones aprobadas mediante este Acuerdo al Estatuto Orgánico dentro de los 30 días siguientes a su entrada en vigor.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor rango, emitidas por la Junta de Gobierno del Instituto Promotor de Ferias de Yucatán, que se opongan a este Estatuto.
+
+D.O. 17 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO IPFY 1/2019 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO PROMOTOR DE FERIAS DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Instituto Promotor de Ferias de Yucatán, en un plazo de treinta días naturales, contado a partir de la entrada en vigor de este acuerdo, deberá de realizar la inscripción de las modificaciones efectuadas al Estatuto Orgánico del Instituto Promotor de Ferias de Yucatán en el Registro de Entidades Paraestatales de la Secretaría de Administración y Finanzas.
