@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2018-05-04"
+last_updated: "2019-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 4 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 17 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -176,11 +176,11 @@ Queda expresamente prohibida la caza y captura de cualquier especie de fauna sil
 
 Las autoridades del Distrito Federal deben auxiliar a las federales para aplicar las medidas necesarias para la regulación del comercio de animales silvestres, sus productos o subproductos, así como para evitar la posesión y exhibición ilegal de éstos, mediante la celebración de convenios o acuerdos de coordinación, conforme a la ley en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O.17 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 4°.
 
-Para los efectos de esta Ley, además de los conceptos definidos en la Ley Ambiental del Distrito Federal, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley Federal de Sanidad Animal, las normas ambientales en materia de protección a los animales en la Ciudad de México y las normas oficiales mexicanas, se entenderá por:
+Para los efectos de esta Ley, además de los conceptos definidos en la Ley Ambiental de Protección a la Tierra en el Distrito Federal, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General de Vida Silvestre, la Ley Federal de Sanidad Animal, las normas ambientales en materia de protección a los animales en la Ciudad de México y las normas oficiales mexicanas, se entenderá por:
 
 > <small>(ADICIONADA, G.O. 4 DE MAYO DE 2018)</small>
 
@@ -302,9 +302,9 @@ XIX BIS 1. Centros de Atención Canina y Felina: Todos los establecimientos oper
 
 XX. Centros de control animal, asistencia y zoonosis. Los centros públicos destinados para la captura y sacrificio humanitario de animales abandonados, o ferales, que pueden ofrecer los servicios de esterilización, orientación y clínica a los animales de la ciudadanía que así lo requieran, centros antirrábicos y demás que realicen acciones análogas;
 
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O.17 DE DICIEMBRE DE 2019)</small>
 
-XX BIS. Centro Hospitalario de Asistencia para la Atención y Protección de los Animales del Distrito Federal. Dependiente de la Secretaría de Salud del Distrito Federal;
+XX BIS. Hospital Veterinario de la Ciudad de México: Centro de Atención médica veterinaria para animales de compañía;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -624,8 +624,6 @@ V. Promover la participación ciudadana a través de sus órganos de representac
 
 VI. Las demás que le confiera esta Ley, su reglamento y ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2017)</small>
-
 ###### Artículo 9°.
 
 Corresponde a la Secretaría, en el ámbito de su competencia, el ejercicio de las siguientes facultades:
@@ -658,9 +656,13 @@ VII. Coordinar la creación y operación del Padrón de las Asociaciones Protect
 
 VIII. Promover la participación ciudadana a través de sus órganos de representación ciudadana e instrumentos de participación, a fin de difundir la cultura y la protección a los animales; y
 
+> <small>(ADICIONADA, G.O.17 DE DICIEMBRE DE 2019)</small>
+
+IX. Coordinar, supervisar y administrar la operación del Hospital Veterinario de la Ciudad de México, a través de la Agencia de Atención Animal de la Ciudad de México;
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 18 DE JUNIO DE 2012)</small>
 
-IX. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieran.
+X. Las demás que esta Ley y aquellos ordenamientos jurídicos aplicables le confieren;
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -2046,7 +2048,13 @@ XXIV. En coordinación con las autoridades competentes determinará con base a l
 
 XXV. Realizar el registro estadístico de las sentencias firmes relacionadas a delitos de maltrato y crueldad animal; y
 
-XXVI. Las demás que le otorguen está Ley y la legislación vigente.
+> <small>(ADICIONADA, G.O.17 DE DICIEMBRE DE 2019)</small>
+
+XXVI. Coordinar, supervisar y administrar la operación y regulación del funcionamiento del Hospital Veterinario de la Ciudad de México.
+
+(REUBICADA [N. DE E. REUBICADA Y REFORMADA], G.O.17 DE DICIEMBRE DE 2019)
+
+XXVII. Las demás que le otorguen esta Ley y la legislación vigente.
 
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -2285,3 +2293,17 @@ Los establecimientos dedicados a la celebración de espectáculos públicos o pr
 ###### ARTÍCULO TERCERO.
 
 Todas aquellas referencias realizadas a la Unidad de Cuenta de la Ciudad de México se entenderán hechas a la Unidad de Medida y Actualización, en tanto se modifiquen los artículos que a aquella hacen mención las presentes leyes.
+
+G.O. 17 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XX BIS DEL ARTÍCULO 4; SE ADICIONA UNA FRACCIÓN IX, RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 9; ASIMISMO, SE ADICIONA UNA FRACCIÓN XXVI, RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 73; TODOS DE LA LEY DE PROTECCIÓN A LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente ordenamiento entrará en vigor el día siguiente de su publicación.
+
+TERCERO.- Para garantizar y dar cumplimiento a los artículos 9° fracción IX y 73 de la presente Ley, así como a las nuevas atribuciones que se le otorgan a la Agencia de Atención Animal, la Secretaría de Finanzas de la Ciudad de México deberá transferir a la Secretaría del Medio Ambiente de la Ciudad de México los recursos materiales y financieros destinados al Hospital de la Ciudad de México; asimismo, el Órgano Legislativo de la Ciudad de México y la Secretaría de Finanzas en el ámbito de sus respectivas competencias harán las previsiones necesarias para que el Hospital Veterinario de la Ciudad de México cuente con los recursos materiales, humanos y financieros para el cumplimiento de sus obligaciones.
+
+CUARTO.- En un plazo de 60 días posteriores a la publicación del presente decreto, el Gobierno de la Ciudad de México deberá expedir las modificaciones al Reglamento Interior del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, que considere necesarias, con el objeto de que el Hospital Veterinario de la Ciudad de México quede adscrito a la Secretaría del Medio Ambiente, bajo la supervisión, administración, operación, regulación y funcionamiento de la Agencia de Atención Animal.
+
+QUINTO.- El Congreso de la Ciudad de México deberá expedir las modificaciones a la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México, así como a la Ley de Salud del Distrito Federal, con el objeto de que el Hospital Veterinario de la Ciudad de México, quede adscrito a la Secretaría del Medio Ambiente, bajo la supervisión, administración, operación, regulación y funcionamiento de la Agencia de Atención Animal.
