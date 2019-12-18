@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2018-12-31"
+last_updated: "2019-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO 012 POR EL QUE SE EXPIDE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 2019 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -8022,3 +8022,43 @@ También se consideran como derechos para los efectos de este artículo, las con
 CUARTO. Todos los contribuyentes quedarán obligados a presentar sus declaraciones con el Registro Federal de Contribuyentes asignado por el Servicio de Administración Tributaria.
 
 QUINTO. Las atribuciones, facultades u obligaciones conferidas en las disposiciones de esta Ley a la Secretaria de Finanzas y Planeación, se entenderán conferidas al Servicio de Administración Tributaria del Estado de Quintana Roo cuando corresponda al ámbito de su competencia conforme a la Ley del Servicio de Administración Tributaria del Estado de Quintana Roo.
+
+P.O. 18 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 012 POR EL QUE SE EXPIDE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. La presente ley entrará en vigor a partir del día 1 de enero de 2020.
+
+SEGUNDO. Se abroga la Ley de Hacienda del Estado de Quintana Roo, expedida mediante Decreto 78, emitido por la H. VII Legislatura del Estado de Quintana Roo, y publicada en el Periódico Oficial del Gobierno del Estado de Quintana Roo, número 24 Ordinario de fecha 30 de diciembre de 1994 y todas sus reformas y adiciones.
+
+TERCERO. Se dejan sin efecto todas las disposiciones legales que se opongan a la presente ley.
+
+CUARTO. Por lo que respecta a los informes previstos en el artículo 10 de la presente Ley, en tanto se implemente el Sistema Único de Información, los sujetos obligados deberán presentarlo por escrito ante la Secretaría de Finanzas y Planeación del Estado de Quintana Roo.
+
+QUINTO. Para el cumplimiento de la obligación dispuesta en el artículo 79 de esta ley, las Entidades Paraestatales y Fideicomisos, deberán publicar en el Periódico Oficial del Estado de Quintana Roo, a más tardar el 31 de diciembre de 2019, los rubros, conceptos, cuotas y tarifas por la prestación de servicios públicos o sociales a su cargo, autorizados por sus órganos de gobierno.
+
+En caso de no cumplir con la disposición anterior en el plazo establecido, podrán aplicar hasta el 31 de enero de 2020, los rubros, conceptos, cuotas y tarifas establecidas en las (sic) Ley de Derechos del Estado de Quintana Roo, vigente en el 2019.
+
+SEXTO. Los impuestos causados conforme a la Ley que se abroga serán determinados conforme a las disposiciones de dicho ordenamiento.
+
+SÉPTIMO. Los asuntos que a la entrada en vigor de la presente ley se encuentren en trámite, serán resueltos hasta su conclusión, en los términos de la Ley de Hacienda del Estado de Quintana Roo que ha quedado abrogada.
+
+OCTAVO. En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los impuestos siguientes:
+
+I. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial;
+
+II. Sobre productos y rendimientos de capital de manera parcial;
+
+III. Al comercio y la industria;
+
+IV. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables;
+
+V. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables;
+
+VI. Sobre la compraventa de primera mano de productos agrícolas;
+
+VII. Sobre compraventa o permuta de ganado o sus esquilmos;
+
+VIII. Sobre la cría de ganado, y
+
+IX. Sobre explotación y venta de primera mano de diversos materiales para construcción.
