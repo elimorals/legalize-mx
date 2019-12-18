@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2018-12-25"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -1205,9 +1205,9 @@ II.- En la solicitud se indicará el lugar y el plazo en el cual se deben propor
 
 III.- Los informes, datos o documentos, así como la contabilidad o parte de ella que le sean requeridos deberán ser proporcionados por la persona a quien se dirigió la solicitud, por su representante o por la persona que hubiere recibido la solicitud conforme a lo establecido en la fracción I de este artículo, sin que tal circunstancia invalide el ejercicio de las facultades de comprobación de las autoridades fiscales.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-IV.- Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario.
+IV.- Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario, quien podrá ser notificado de conformidad con lo establecido en el artículo 133 de este Código.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
@@ -1326,6 +1326,16 @@ b).- Cuando se trate de los documentos de los que deba tener en su poder el cont
 c).- En los demás casos tendrá quince días contados a partir del siguiente al que surta efectos la notificación de la solicitud respectiva.
 
 Los plazos a los que se refieren los incisos b) y c) se podrán ampliar por las autoridades fiscales hasta diez días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### ARTICULO 53-A.
+
+Con relación a las facultades de comprobación previstas en el artículo 44, fracciones II y III de este Código, las autoridades fiscales podrán revisar uno o más rubros o conceptos específicos, correspondientes a una o más contribuciones o aprovechamientos, que no se hayan revisado anteriormente, sin más limitación que lo que dispone el artículo 67 de este Código.
+
+Cuando se comprueben hechos diferentes la autoridad fiscal podrá volver a revisar los mismos rubros o conceptos específicos de una contribución o aprovechamiento por el mismo periodo y en su caso, determinar contribuciones o aprovechamientos omitidos que deriven de dichos hechos.
+
+La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros; en los datos aportados por los particulares en las declaraciones complementarias que se presenten, o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales, a menos que en este último supuesto la autoridad no haya objetado de falso el documento en el medio de defensa correspondiente pudiendo haberlo hecho o bien, cuando habiéndolo objetado, el incidente respectivo haya sido declarado improcedente.
 
 ###### ARTICULO 54.
 
@@ -1473,9 +1483,11 @@ Las copias o reproducciones de microfilm de documentos que tengan en su poder la
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 65.
 
-Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del siguiente mes a la fecha en que surta efectos su notificación.
+Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los treinta días siguientes a aquél en que haya surtido efectos su notificación.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -1669,7 +1681,9 @@ V.- Cuando por un acto u omisión se infrinjan diversas disposiciones de caráct
 
 Cuando se omita total o parcialmente el pago de contribuciones, a las que correspondan varias multas, sólo se aplicará la mayor de ellas.
 
-En el caso de que la multa se pague dentro del mes siguiente a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+En el caso de que la multa se pague dentro de los cuarenta y cinco días siguientes a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un veinte por ciento de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -2107,9 +2121,11 @@ II.- Se atribuya como propias actividades ajenas ante el registro estatal de con
 
 III.- No rinda al Registro Estatal de Contribuyentes, los informes o no presente los avisos a que se encuentre obligado o lo haga con falsedad.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-IV.- Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de la notificación de la orden de visita y antes de un año contado a partir de dicha notificación, o bien después de que se le hubiere notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efecto.
+IV.- Desocupe o desaparezca del lugar donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de la notificación de la orden de visita domiciliaria o del requerimiento de la contabilidad, documentación o información de conformidad con la fracción II del artículo 44 de este Código y antes de un año contado a partir de dicha notificación, o bien después de que se le hubiere notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efecto, o cuando las autoridades fiscales tengan conocimiento de que fue desocupado el domicilio derivado del ejercicio de sus facultades de comprobación.
+
+Para los efectos de esta fracción, se entiende que el contribuyente desaparece del lugar en donde tiene su domicilio fiscal cuando la autoridad acuda en tres ocasiones consecutivas a dicho domicilio dentro de un periodo de doce meses y no pueda practicar la diligencia en términos de este Código.
 
 No se formulará querella, si quien encontrándose en los supuestos anteriores se registra o informa del hecho a la autoridad fiscal espontáneamente.
 
@@ -2233,19 +2249,19 @@ VI.- Determinen el valor de los bienes embargados, a que se refiere el artículo
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 118.
 
-La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal Fiscal del Estado.
+La interposición del recurso de revocación será optativa para el interesado antes de acudir al Tribunal de Justicia Administrativa del Estado de Tamaulipas.
 
 > <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 119.
 
-El escrito de interposición del recurso deberá presentarse ante la autoridad que emitió o ejecutó el acto impugnado, dentro del mes siguiente a la fecha en que surta efectos su notificación.
+El escrito de interposición del recurso deberá presentarse ante la autoridad que emitió o ejecutó el acto impugnado, dentro de los treinta días siguientes a la fecha en que surta efecto su notificación.
 
 Si el particular tiene su domicilio fuera de la población en que radique la autoridad que emitió o ejecutó el acto impugnado, el escrito de interposición del recurso podrá presentarse en la Oficina Fiscal más cercana a dicho domicilio o enviarlo a la autoridad que emitió o ejecutó el acto, por correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue a la oficina exactora o se deposite en la oficina de correos.
 
@@ -2297,7 +2313,9 @@ I.- Que no afecten el interés jurídico del recurrente.
 
 II.- Que sean resoluciones dictadas en recursos administrativos o en cumplimiento de éstos o de sentencias.
 
-III.- Que hayan sido impugnados ante el Tribunal Fiscal del Estado.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+III.- Que hayan sido impugnados ante el Tribunal de Justicia Administrativa del Estado de Tamaulipas.
 
 IV.- Que se hayan consentido, entendiéndose por consentimiento el hecho de no haberse promovido el recurso en el plazo señalado al efecto.
 
@@ -2321,9 +2339,11 @@ III.- Cuando de las constancias que obran en el expediente administrativo, quede
 
 IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 124.
 
-El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal Fiscal del Estado. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente del otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
+El interesado podrá optar por impugnar un acto a través del recurso de revocación o promover directamente contra dicho acto, juicio ante el Tribunal de Justicia Administrativa del Estado de Tamaulipas. Deberá intentar la misma vía elegida si pretende impugnar un acto administrativo que sea antecedente o consecuente del otro, a excepción de las resoluciones dictadas en cumplimiento de las emitidas en recursos administrativos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
@@ -2561,9 +2581,9 @@ Si se confirma en forma definitiva la validez de la resolución impugnada, la au
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal. En todo caso, se observará lo dispuesto en el antepenúltimo párrafo del Artículo 139 de este Código.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal Fiscal del Estado u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recurso, acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso, el otorgamiento de la garantía de interés fiscal.
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán promover el incidente de suspensión de la ejecución ante el Tribunal de Justicia Administrativa del Estado de Tamaulipas u ocurrir al superior jerárquico de la autoridad ejecutora, si se está tramitando recursos acompañando los documentos en que conste el medio de defensa hecho valer y el ofrecimiento o, en su caso, el otorgamiento de la garantía de interés fiscal.
 
 ### CAPITULO III. Del Procedimiento Administrativo de Ejecución
 
@@ -2643,7 +2663,9 @@ El término de la prescripción se inicia a partir de la fecha en que el pago pu
 
 No se extinguen por prescripción las obligaciones ni los créditos a favor del fisco, en los casos que habiendo obligación de presentar avisos y manifestaciones ante las autoridades fiscales, éstos se omitieren.
 
-Los particulares podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -2703,9 +2725,9 @@ Los gastos de ejecución, se determinarán por la autoridad ejecutora, debiendo 
 
 Las autoridades fiscales, para hacer efectivo un crédito fiscal exigible y el importe de sus accesorios legales, requerirán el pago al deudor y, tratándose de adeudos provenientes de créditos fiscales sobre bienes inmuebles el requerimiento se hará a quien aparezca como propietario o detentador del mismo.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-Si el contribuyente no cubre lo que se le reclama y sus accesorios legales dentro de los seis días siguientes a que se le haya requerido para ello, se procederá inmediatamente como sigue:
+Si el contribuyente no cubre lo que se le reclama y sus accesorios legales en el momento en que se le haya requerido para ello, se procederá inmediatamente como sigue:
 
 I.- A embargar bienes suficientes para, en su caso rematarlos, enajenarlos fuera de subasta o adjudicarlos a favor del fisco.
 
@@ -2715,6 +2737,14 @@ El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier
 
 Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del registro público que corresponda, en todas ellas se inscribirá el embargo.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Si la exigibilidad se origina por cese de la prórroga o de la autorización para pagar en parcialidades o por error aritmético en las declaraciones, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+No se practicará embargo respecto de aquellos créditos fiscales que hayan sido impugnados en sede administrativa o jurisdiccional y se encuentren garantizados en términos de lo establecido en las disposiciones legales aplicables.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 147.
@@ -2723,13 +2753,11 @@ El ejecutor designado por el jefe de la oficina exactora se constituirá en el d
 
 Si la notificación del crédito fiscal adeudado o del requerimiento en su caso, se hizo por edictos, la diligencia se entenderá con alguna autoridad local o municipal distinta a la que notifica, de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciere el deudor, en cuyo caso se entenderá con él.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 148.
 
-Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras bajo su responsabilidad, nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme las disposiciones legales. Cuando se efectúe la remoción del depositario, éste deberá poner a disposición de la autoridad ejecutora los bienes que fueron objeto de la depositaría, pudiendo ésta realizar la sustracción de los bienes para depositarlos en almacenes bajo su resguardo o entregarlos al nuevo depositario.
+Los bienes o negociaciones embargados se podrán dejar bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas ejecutoras, bajo su responsabilidad, nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales. Cuando se efectúe la remoción del depositario, éste deberá poner a disposición de la autoridad ejecutora los bienes que fueron objeto de la depositaría, pudiendo ésta realizar la sustracción de los bienes para depositarlos en almacenes bajo su resguardo o entregarlos al nuevo depositario.
 
 En los embargos de bienes raíces o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según el caso, con las facultades y obligaciones señaladas en los artículos 159, 160 y 161 de este Código.
 
@@ -3512,3 +3540,11 @@ El presente Decreto entrará en vigor el primero de enero de 2019, previa public
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIV-63 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO, DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS".]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
