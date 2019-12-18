@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2018-12-25"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -189,6 +189,10 @@ XIII.- (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
 XIV.- El 20 por ciento como mínimo de los recursos provenientes del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+XV.- El 100% de la recaudación que se obtenga del Impuesto Sobre la Renta que efectivamente se entere a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en las dependencias del Municipio, así como en sus respectivos organismos autónomos y entidades paramunicipales, siempre que el salario sea efectivamente pagado por los entes mencionados con cargo a sus participaciones u otros ingresos locales y se cumpla además con los requisitos que al efecto señale la Secretaría de Hacienda y Crédito Público.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
@@ -293,6 +297,12 @@ TAt= Suma de la recaudación que por el Impuesto sobre Tenencia o Uso de Vehícu
 
 Para los efectos de la fórmula anterior se entiende por recaudación del Impuesto sobre Tenencia o Uso de Vehículos el monto cobrado durante el ejercicio de que se trate así como las cantidades subsidiadas por concepto de dicho Impuesto, sin incluir accesorios.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 7 BIS.- El 30% del excedente del Fondo de Fomento Municipal, establecido en el artículo 2-A, fracción III, de la Ley de Coordinación Fiscal, se distribuirá entre aquellos Municipios que celebren convenio en materia de administración del Impuesto Predial con el Estado.
+
+Para la determinación del coeficiente de participación de cada Municipio se tomará como base la variación porcentual de su recaudación del Impuesto Predial de los dos ejercicios fiscales anteriores al actual, el resultado será ponderado por su población, y la cantidad que se determine se dividirá entre la sumatoria del total de Municipios, para así obtener el coeficiente de participación. El cociente que se determine como resultado de la variación en la recaudación de Impuesto Predial de cada Municipio nunca podrá ser superior a 2.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
@@ -327,7 +337,13 @@ III. El 9/11 de la Cuota a la Venta Final de Gasolinas y Diesel que se recaude e
 
 Corresponde a la Auditoría Superior del Congreso del Estado proporcionar la información de la recaudación del Impuesto Predial de los Municipios y de los Derechos de Agua que obtengan los organismos operadores, a más tardar el día último del mes de febrero del año siguiente al que se tomará en cuenta para la distribución de los Fondos de Participaciones a los Municipios.
 
-Si la Secretaria de Finanzas no recibe la información citada en el plazo señalado, estará facultada para considerar el 50 por ciento de la recaudación con que se efectuó el último cálculo de los coeficientes. El Estado aplicará los nuevos coeficientes a las cantidades que hubiera determinado provisionalmente y efectuará a más tardar el 30 de junio, las liquidaciones o descuentos que procedan.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Si la Secretaría de Finanzas no recibe la información citada en el plazo señalado, a causa de que algún Municipio u organismo de agua no reporte su recaudación de Impuesto Predial o Derechos de Agua a la Auditoría Superior del Estado, se considerará el 50% de la recaudación con que se efectuó el último cálculo de los coeficientes, este importe se mantendrá sin cambio en los ejercicios fiscales posteriores, hasta el ejercicio en que el Municipio u organismo reporte una nueva cifra de recaudación.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+El Estado aplicará los nuevos coeficientes a las cantidades que hubiera determinado provisionalmente y efectuará a más tardar el 30 de junio, las liquidaciones o descuentos que procedan.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1038,3 +1054,11 @@ El presente Decreto entrará en vigor el primero de enero de 2019, previa public
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIV-63 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO, DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS.
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
