@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-procedimiento-contencioso-administrativo-del-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-08"
-last_updated: "2018-10-30"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121849&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Anexo al Número 69 del Periódico Oficial del Estado de Tamaulipas, el jueves 8 de junio de 2017.
 
@@ -547,7 +547,9 @@ II. El documento en que acredite su personalidad cuando el demandado sea un part
 
 III. El cuestionario que deberán desahogar los peritos y el interrogatorio que deberán contestar los testigos, debidamente firmados por el demandado, expresando los nombres y domicilios de los mismos;
 
-IV. En su caso, constancia del acto, procedimiento o resolución impugnados y de las respectivas notificaciones, excepto cuando el demandante haya manifestado bajo protesta de decir verdad que no se le entregaron;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+IV. En su caso, constancia del acto, procedimiento o resolución impugnados y de las respectivas notificaciones, cuando el demandante haya manifestado bajo protesta de decir verdad que no se le entregaron;
 
 V. En su caso, la ampliación del cuestionario para el desahogo de la pericial ofrecida por el demandante; y
 
@@ -1618,3 +1620,11 @@ En relación a lo señalado en el último párrafo del artículo 22 de la Ley de
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LXIV-63 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO, DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
