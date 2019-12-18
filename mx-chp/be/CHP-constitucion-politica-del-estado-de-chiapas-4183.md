@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2019-10-23"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -991,7 +991,9 @@ X. Autorizar al Ejecutivo y a los ayuntamientos, en cada caso, para que enajenen
 
 XI. Autorizar premios y recompensas por servicios eminentes prestados al Estado.
 
-XII. Aprobar los nombramientos de los Magistrados del Poder Judicial con base a lo que establece el artículo 73 de esta Constitución.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+XII. Aprobar los nombramientos de los Magistrados del Poder Judicial del Estado, conforme lo establece esta Constitución.
 
 XIII. Designar al Fiscal General del Estado y formular objeción a la remoción del mismo, de conformidad con el procedimiento previsto en el artículo 94, de esta Constitución.
 
@@ -1127,7 +1129,9 @@ II. A los Diputados del Congreso del Estado.
 
 III. Al Titular del poder Judicial del Estado, en lo relativo a su orden jurídico interno; así como de aquellas materias que en razón de su actividad jurisdiccional tengan conocimiento.
 
-IV. Al Titular del Tribunal de Justicia Administrativa del Estado de Chiapas, en lo relativo a su orden jurídico interno; así como de aquellas materias que en razón de su actividad jurisdiccional tengan conocimiento.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+IV. Al Titular del Tribunal Administrativo, en lo relativo a su orden jurídico interno; así como de aquellas materias que en razón de su actividad jurisdiccional tenga conocimiento.
 
 V. A quien presida la Comisión Estatal de los Derechos Humanos, en materia de su ramo.
 
@@ -1177,25 +1181,33 @@ Las entidades fiscalizadas deberán llevar el control y registro contable, patri
 
 El Órgano de Fiscalización Superior del Congreso del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas estatales y municipales. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior del Congreso del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión.
 
-Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, el Órgano de Fiscalización Superior del Congreso del Estado, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. El Órgano de Fiscalización Superior del Congreso del Estado rendirá un informe específico al propio congreso y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa, la Fiscalía de Combate a la Corrupción o las autoridades competentes;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones que determine la Ley, derivado de denuncias, el Órgano de Fiscalización Superior del Congreso del Estado, podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la Ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. El Órgano de Fiscalización Superior del Congreso del Estado rendirá un informe específico al propio congreso y, en su caso, promoverá las acciones que correspondan ante el Tribunal Administrativo, la Fiscalía de Combate a la Corrupción o las autoridades competentes;
 
 II. Entregar al Congreso del Estado, el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la Cuenta Pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de las Cuentas Públicas, los cuales se someterá a la consideración del Pleno del Congreso. El Informe General Ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones del Órgano de Fiscalización Superior del Congreso del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.
 
 Para tal efecto, de manera previa a la presentación del Informe General Ejecutivo y de los informes individuales de auditoría, se darán a conocer a las entidades fiscalizadas la parte que les corresponda de los resultados de su revisión, a efecto de que éstas presenten las justificaciones y aclaraciones que correspondan, las cuales deberán ser valoradas por el Órgano de Fiscalización Superior del Congreso del Estado para la elaboración de los informes individuales de auditoría.
 
-El titular del Órgano de Fiscalización Superior del Congreso del Estado enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los 10 días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal de Justicia Administrativa, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+El titular del Órgano de Fiscalización Superior del Congreso del Estado enviará a las entidades fiscalizadas los informes individuales de auditoría que les corresponda, a más tardar a los diez días hábiles posteriores a que haya sido entregado el informe individual de auditoría respectivo al Congreso del Estado, mismos que contendrán las recomendaciones y acciones que correspondan para que, en un plazo de hasta treinta días hábiles, presenten la información y realicen las consideraciones que estimen pertinentes; en caso de no hacerlo se harán acreedores a las sanciones establecidas en (sic) Ley. Lo anterior, no aplicará a las promociones de responsabilidades ante el Tribunal Administrativo, las cuales se sujetarán a los procedimientos y términos que establezca la Ley.
 
 El Órgano de Fiscalización Superior del Congreso del Estado deberá pronunciarse en un plazo de 120 días hábiles sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las recomendaciones y acciones promovidas.
 
 En el caso de las recomendaciones, las entidades fiscalizadas deberán precisar ante el Órgano de Fiscalización Superior del Congreso del Estado las mejoras realizadas, las acciones emprendidas o, en su caso, justificar su improcedencia.
 
-El Órgano de Fiscalización Superior del Congreso del Estado deberá entregar al Congreso del Estado, los días 1 de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, se incluirán los montos efectivamente resarcidos a la Hacienda Pública Estatal o Municipal o al patrimonio de sus entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal de Justicia Administrativa.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+El Órgano de Fiscalización Superior del Congreso del Estado deberá entregar al Congreso del Estado, los días uno de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de esta fracción. En dicho informe, el cual tendrá carácter público, se incluirán los montos efectivamente resarcidos a la Hacienda Pública Estatal o Municipal o al patrimonio de sus entes públicos, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procedimientos iniciados ante el Tribunal Administrativo.
 
 El Órgano de Fiscalización Superior del Congreso del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo al Congreso del Estado a que se refiere esta fracción; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;
 
 III. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos, y
 
-IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía de Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales y a los particulares.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+IV. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal Administrativo y la Fiscalía de Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos estatales y municipales y a los particulares.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
 
@@ -1557,37 +1569,35 @@ El Servicio Profesional de Carrera se regirá por los principios de: mérito, ig
 
 ### Capítulo I. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 72.
 
-El Poder Judicial, para el ejercicio de sus atribuciones se deposita en los órganos siguientes:
+El Poder Judicial, para el ejercicio de sus atribuciones, se deposita en los órganos siguientes:
 
-I. El Tribunal Superior de Justicia.
+I. El Tribunal Superior de Justicia;
 
-II. El Consejo de la Judicatura.
+II. El Consejo de la Judicatura; y
 
-III. El Tribunal del Trabajo Burocrático.
+III. El Tribunal Administrativo.
 
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2018)</small>
+La organización y funcionamiento de éstos estarán regulados en el Código de Organización del Poder Judicial del Estado y en el reglamento interior que al efecto se emita, salvo el Tribunal Administrativo que se regirá bajo su propia normativa.
 
-IV. El Tribunal Laboral.
+Corresponde al Poder Judicial garantizar el derecho a que se imparta justicia de manera pronta, completa, gratuita e imparcial por Jueces y Magistrados independientes, responsables y sometidos únicamente al imperio de la ley. Compete a la autoridad judicial la imposición de las penas, su modificación y duración.
 
-La organización y funcionamiento de éstos serán regulados en el Código de Organización del Poder Judicial y en el reglamento interior que al efecto emita cada uno de ellos.
-
-Corresponde al Poder Judicial garantizar el derecho a que se imparta justicia de manera pronta, completa, gratuita e imparcial por jueces y magistrados independientes, responsables y sometidos únicamente al imperio de la ley. Compete a la autoridad judicial la imposición de las penas, su modificación y duración.
-
-En la impartición de justicia en Chiapas, habrán medios alternativos para la resolución de controversias de derechos, sobre los cuales los particulares puedan disponer libremente sin afectar el orden público y valiéndose de la autonomía de la voluntad y la libertad contractual. La justicia estará basada en el principio de oralidad para la resolución de aquellas controversias cuya naturaleza jurídica lo permita.
+En la impartición de justicia en Chiapas, habrán medios alternativos para la resolución de controversias de derechos, sobre los cuales los particulares puedan disponer libremente sin afectar el orden público y valiéndose de la autonomía de la voluntad y la libertad contractual. La justicia alternativa estará basada en el principio de oralidad para la resolución de aquellas controversias cuya naturaleza jurídica lo permita.
 
 En cualquiera de sus modalidades, la impartición de justicia será pronta, gratuita y comprometida con el pueblo chiapaneco para preservar el estado de derecho, la paz social y el orden público.
 
-Esta Constitución y el Código garantizarán la estabilidad e independencia de los magistrados, jueces y demás servidores públicos judiciales en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
+Esta Constitución y el Código de Organización del Poder Judicial del Estado garantizarán la estabilidad e independencia de los Magistrados, Jueces y demás servidores públicos judiciales en el ejercicio de sus funciones, así como la plena ejecución de sus resoluciones.
 
-El Código establecerá las bases del sistema institucional para la selección, formación y actualización de servidores públicos, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de honestidad, objetividad, imparcialidad, independencia, profesionalismo y excelencia. El Código y el reglamento respectivo establecerán el concurso de oposición abierto para ocupar cualquier plaza de servidor público judicial o juez, salvo los previstos en el párrafo décimo del artículo 73 de esta Constitución.
+El Código de Organización del Poder Judicial del Estado establecerá las bases del sistema institucional para la selección, formación y actualización de servidores públicos, así como para el desarrollo y fortalecimiento de la carrera judicial, la cual se regirá por los principios de honestidad, objetividad, imparcialidad, independencia, profesionalismo y excelencia. Dicha función se desarrollará a través del Instituto de Formación, Profesionalización y Carrera Judicial, que estará a cargo de un Magistrado Regional o de un Juez de Primera Instancia, el cual mientras desarrolle dicha función, no realizará funciones jurisdiccionales y durará en el cargo dos años, con posibilidad de ser reelecto para un periodo más; concluido su encargo, se reincorporará a sus funciones jurisdiccionales por el tiempo que le falte para concluir su mandato constitucional o el nombramiento de Juez de Primera Instancia respectivo.
 
-El Titular del Ejecutivo y el Congreso del Estado deberán velar que en el nombramiento de los magistrados del Poder Judicial y de los consejeros de la Judicatura, se incluyan como máximo al setenta por ciento de personas del mismo género.
+En el Código de Organización del Poder Judicial del Estado y en su reglamento, se establecerá la organización y funcionamiento del Instituto de Formación, Profesionalización y Carrera Judicial, así como las atribuciones y el mecanismo para la elección de su titular. De la misma forma en el Código de Organización del Poder Judicial del Estado se determinarán los procesos y formalidades que correspondan para ocupar cualquier plaza o función como servidor público judicial o Juez, salvo los Juzgados de Paz y Conciliación Indígena, que se estarán a lo dispuesto en la ley correspondiente.
 
-Ningún servidor público del Poder Judicial podrá aceptar o desempeñar otro empleo o cargo, salvo la docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia, siempre y cuando no comprometan su horario o perjudique el óptimo desempeño de su función. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
+En el nombramiento de los servidores públicos del Poder Judicial del Estado, se procurará observar las reglas y el principio de paridad entre los géneros establecido (sic) en esta Constitución.
+
+Ningún servidor público del Poder Judicial podrá aceptar o desempeñar otro empleo o cargo, salvo los de docencia y los honoríficos en asociaciones científicas, artísticas o de beneficencia, siempre y cuando no comprometan su horario ni perjudique el óptimo desempeño de su función. La infracción de este artículo será castigada con la pérdida del cargo judicial respectivo.
 
 Cuando en un Distrito Judicial no exista Notario Público, los Jueces Civiles o Mixtos de primera instancia, podrán actuar como tales por receptoría.
 
@@ -1595,103 +1605,101 @@ Cuando en un Distrito Judicial no exista Notario Público, los Jueces Civiles o 
 
 ### Capítulo II. Del Tribunal Superior de Justicia del Estado
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 73.
 
 El Tribunal Superior de Justicia se integra por:
 
-I. El Tribunal de Justicia Constitucional.
+I.- Las Salas Regionales Colegiadas o Unitarias, especializadas en materia Civil, Familiar, Mercantil, Penal y de Justicia para Adolescentes, que conocerán y resolverán los asuntos que determine la legislación correspondiente.
 
-II. Las salas regionales colegiadas.
+II.- Las Salas Regionales Colegiadas o Unitarias Mixtas, que conocerán y resolverán las materias que determine el Consejo de la Judicatura, de conformidad con la legislación correspondiente.
 
-III. Los juzgados de Primera Instancia, dentro de los cuales se entenderán como tales a los:
+III.- Los Juzgados de Primera Instancia, que serán:
 
-a) Juzgados de Control y Tribunales de Enjuiciamiento.
+a) Juzgados Especializados o Mixtos, que conocerán las materias que determine el Consejo de la Judicatura, en términos de la legislación correspondiente.
 
-b) Juzgados de Primera Instancia Especializados en Juicio Oral Mercantil.
+b) Juzgados de Control y Tribunales de Enjuiciamiento.
 
-IV. Los Juzgados y Tribunales de Alzada especializados en justicia para adolescentes.
+c) Juzgados de Primera Instancia Especializados en Juicio Oral que determine el Consejo de la Judicatura.
 
-V. Los Juzgados de Paz y Conciliación.
+d) Juzgados Especializados en Justicia para Adolescentes.
 
-VI. Los Juzgados de Paz y Conciliación indígena.
+IV.- Los Juzgados Especializados en Materia Burocrática, que conocerán y resolverán las controversias que surjan de las relaciones jurídicas del trabajo burocrático establecidas entre los Titulares de los Poderes Ejecutivo y Legislativo, de los Municipios y de las Entidades Públicas Estatales y los trabajadores de base y de confianza al servicio de éstos, en términos de la Ley del Servicio Civil del Estado y los Municipios de Chiapas y demás legislación aplicable.
 
-VII. Los Juzgados Municipales.
+V.- Los Juzgados Especializados en Materia Laboral, que conocerán y resolverán los asuntos relativos a las diferencias o los conflictos entre trabajadores y patrones que no sea (sic) competencia del Tribunal Laboral del Poder Judicial de la Federación, en términos de lo que dispone el artículo 123 Apartado “A” fracción XX de la Constitución Política de los Estados Unidos Mexicanos. Los Juzgados Especializados en Materia Laboral, serán la máxima autoridad jurisdiccional en la materia, sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos, de conformidad y como lo establezca la Ley Reglamentaria del Apartado A, del Artículo 123, de la Constitución Política Federal.
 
-VIII. El Centro Estatal de Justicia Alternativa.
+El Código de Organización del Poder Judicial determinará su competencia, forma de organización y funcionamiento.
 
-IX. El Instituto de la Defensoría Pública.
+VI.- Los Juzgados de Paz y Conciliación.
 
-El Tribunal de Justicia Constitucional residirá en la capital del Estado, sus atribuciones serán las establecidas en esta Constitución y en el Código, funcionará en Pleno y en Sala, en sesiones públicas y por excepción secretas en los casos en que así lo exijan la moral y el interés público y tomarán resoluciones por mayoría de votos.
+VII.- Los Juzgados de Paz y Conciliación Indígena.
 
-El Tribunal de Justicia Constitucional, en Pleno se integrará por tres magistrados que durarán en su encargo nueve años y podrán ser reelectos para ejercer un siguiente periodo consecutivo.
+VIII.- Los Juzgados Municipales.
 
-El Presidente del Tribunal de Justicia Constitucional lo será también del Tribunal Superior de Justicia, quien será electo por el Pleno cada tres años con posibilidades de reelección y a él corresponderá la administración del Tribunal de Justicia Constitucional.
+IX.- El Centro Estatal de Justicia Alternativa.
 
-El Presidente del Tribunal Superior de Justicia será el Titular del Poder Judicial. De manera anual enviará al Congreso un informe escrito sobre el estado que guarda la impartición y administración de justicia en la entidad.
+X.- El Instituto de la Defensoría Pública.
 
-Los magistrados del Tribunal de Justicia Constitucional serán nombrados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de las dos terceras partes de sus integrantes.
+El Presidente del Tribunal Superior de Justicia será el Titular del Poder Judicial del Estado, durará en su encargo tres años y será designado por el Pleno de Distrito de entre los Magistrados Regionales, pudiendo ser reelecto por un periodo más.
 
-La competencia del Tribunal de Justicia Constitucional en Pleno y en Sala, se regirán por lo que dispongan las leyes de conformidad con las bases que esta constitución establece.
+De manera anual enviará al Congreso del Estado un informe escrito sobre el estado que guarda la impartición y administración de justicia en la Entidad.
 
-Los magistrados que integren las Salas Regionales Colegiadas y las Especializadas en Justicia para Adolescentes del Tribunal Superior de Justicia, durarán en sus funciones seis años, con posibilidad de ser reelectos en los términos del Código de Organización del Poder Judicial. La adscripción de los magistrados del Tribunal Superior de Justicia, a excepción de los del Tribunal de Justicia Constitucional, será acordada por el Consejo de la Judicatura.
+El Presidente del Tribunal Superior de Justicia, lo será también del Consejo de la Judicatura; no integrará Sala ni realizará funciones jurisdiccionales, y una vez concluido su encargo como Presidente podrá reincorporarse a sus funciones jurisdiccionales por el tiempo que le falte para concluir su mandato constitucional.
 
-Los nombramientos de los magistrados del Tribunal Superior de Justicia, salvo los magistrados del Tribunal de Justicia Constitucional, serán aprobados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, con la aprobación de la mayoría de sus integrantes.
+Los Magistrados Regionales del Tribunal Superior de Justicia durarán en sus funciones seis años, con posibilidad de ser reelectos por un periodo más en términos del Código de Organización del Poder Judicial del Estado. Su adscripción será acordada por el Consejo de la Judicatura; todos tendrán la misma categoría y percepciones, y gozarán de los mismos emolumentos, los cuales no podrán ser disminuidos durante el periodo de su encargo.
 
-Los jueces de primera instancia durarán en su encargo seis años, quienes presten sus servicios en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán ser reelectos por el Consejo de la Judicatura.
+Los nombramientos de los Magistrados Regionales del Tribunal Superior de Justicia, serán aprobados por el Pleno del Congreso del Estado o la Comisión Permanente en su caso, a propuesta del Titular del Poder Ejecutivo, por la mayoría de sus integrantes.
 
-Los jueces de paz y conciliación, de paz y conciliación indígena y los municipales, serán nombrados por el Consejo de la Judicatura a propuesta de los ayuntamientos respectivos, quienes deberán estar sujetos a un programa de capacitación en materia de medios alternativos de solución de controversias aprobado por el Centro Estatal de Justicia Alternativa del Poder Judicial.
+Los Jueces de Primera Instancia durarán en su encargo seis años. Los jueces que presten sus servicios en forma tal que se hayan distinguido por su diligencia, probidad, honradez en el ejercicio de sus funciones y honorabilidad en su conducta ciudadana, podrán ser reelectos por el Consejo de la Judicatura, en términos del Código de Organización del Poder Judicial del Estado.
 
-El Tribunal Superior de Justicia contará con un órgano de mediación, conciliación y arbitraje denominado Centro Estatal de Justicia Alternativa, el cual actuará bajo los principios de equidad, imparcialidad, rapidez, profesionalismo, confidencialidad y gratuidad. El Código delimitará su estructura y funcionamiento en tanto que los procedimientos respectivos estarán señalados en la ley de la materia.
+Los Jueces de Paz y Conciliación Indígena y los Municipales, serán nombrados por el Consejo de la Judicatura a propuesta de los Ayuntamientos respectivos, y estarán sujetos a un programa permanente de capacitación en materia de medios alternativos de solución de controversias.
 
-El Director General del Centro Estatal de Justicia Alternativa será nombrado por el Consejo de la Judicatura a propuesta del Titular del Ejecutivo, para la designación de los demás servidores públicos del Centro, se nombrarán dentro de aquéllos que aprueben satisfactoriamente el curso de formación para mediadores, conciliadores y árbitros, mediante un proceso riguroso de oposición. Las bases, requisitos y procedimientos serán establecidos por el Consejo de la Judicatura.
+El Tribunal Superior de Justicia contará con un órgano de mediación, conciliación y arbitraje denominado Centro Estatal de Justicia Alternativa, que actuará bajo los principios de equidad, imparcialidad, rapidez, profesionalismo, confidencialidad y gratuidad. Su Titular deberá ser un Juez de Primera Instancia designado por el Presidente del Tribunal Superior de Justicia. En el Código de Organización del Poder Judicial del Estado se determinará sus atribuciones, organización y funcionamiento, en tanto que los procedimientos de su competencia estarán previstos en la ley de la materia.
 
-El Instituto de la Defensoría Pública del Estado de Chiapas, tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y a la justicia mediante la orientación, asesoría y representación jurídica a la población más desprotegida del Estado, que no se encuentra en condiciones económicas de atender por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho. La Ley de la defensoría Pública del Estado de Chiapas regirá lo respectivo a la organización, atribuciones y funcionamiento del Instituto.
+La designación de los demás servidores públicos del Centro Estatal de Justicia Alternativa, se hará preferentemente de entre aquellos que aprueben satisfactoriamente el curso de formación para mediación, conciliación y arbitraje, los cuales deberán contar, además, con carrera judicial, y no podrán tener un salario superior al de un Secretario de Acuerdos de Juzgado. Las bases, requisitos y procedimientos serán establecidos por el Consejo de la Judicatura, con la intervención del Instituto de Formación, Profesionalización y Carrera Judicial.
 
-El Tribunal de Justicia Constitucional elaborará su proyecto de presupuesto, el Consejo de la Judicatura lo hará para el resto del Poder Judicial en los términos previstos por esta Constitución, el Código y demás legislación aplicable; los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial y remitidos directamente por el Consejo de la Judicatura al Congreso del Estado.
+El Instituto de la Defensoría Pública del Estado de Chiapas tiene como fin garantizar el acceso real y equitativo del derecho a la defensa pública adecuada y a la justicia, mediante la orientación, asesoría y representación jurídica a la población más desprotegida del Estado, que no se encuentra en condiciones económicas de atender por su cuenta los gastos de un proceso jurisdiccional, contribuyendo a superar desigualdades sociales y a consolidar el estado de derecho. La Ley de la Defensoría Pública del Estado de Chiapas regirá lo respectivo a la organización, atribuciones y funcionamiento del Instituto.
 
-Para garantizar la efectividad del Sistema de Justicia Acusatorio, el Tribunal Superior de Justicia contará, además, con órganos cuya actuación se regirá bajo los principios de publicidad, contradicción, concentración, continuidad, e inmediación, en las formas que la ley de la materia determine.
+El Tribunal Superior de Justicia elaborará su proyecto de presupuesto y lo integrará con el que elabore el Consejo de la Judicatura y el Tribunal Administrativo, para hacerlo llegar a la instancia correspondiente, en términos de lo previsto en esta Constitución, el Código de Organización del Poder Judicial del Estado y demás legislación aplicable; los proyectos elaborados y aprobados por cada uno de los órganos facultados para hacerlo, serán incluidos dentro del proyecto de presupuesto del Poder Judicial y remitidos directamente por el Consejo de la Judicatura al Congreso del Estado.
+
+En la integración del presupuesto del Poder Judicial del Estado, se ponderará la función jurisdiccional, por lo que ningún puesto o categoría con funciones administrativas o de asesoría podrá tener una percepción superior a la de un Juez de Primera Instancia, salvo el caso de los Consejeros de la Judicatura que tendrán un ingreso equivalente al de un Magistrado Regional.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ### Capítulo III. Del Consejo de la Judicatura
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 74.
 
-El Consejo de la Judicatura es un órgano del Poder Judicial, con independencia técnica, encargado de la vigilancia, disciplina, administración y carrera judicial de los órganos del Poder Judicial, con las excepciones previstas en esta Constitución.
+El Consejo de la Judicatura es un órgano del Poder Judicial con independencia técnica, encargado de la vigilancia, disciplina, administración y carrera judicial de los órganos del Poder Judicial, con las excepciones previstas en esta Constitución.
 
-El Consejo de la Judicatura se integrará por cinco miembros, que serán designados de la forma siguiente:
+El Consejo de la Judicatura estará integrado por el Presidente del Tribunal Superior de Justicia del Estado, que será también el Presidente del Consejo de la Judicatura, así como por cuatro miembros más designados de entre los Magistrados Regionales o Jueces que integren o hayan integrado el Poder Judicial del Estado, a propuesta, dos del Presidente del Tribunal Superior de Justicia del Estado y, dos del Titular del Poder Ejecutivo, con la aprobación de la mayoría de los integrantes del Pleno del Congreso del Estado o, en su caso, de la Comisión Permanente.
 
-I. Dos serán representantes del Poder Judicial, de los cuales uno será el Presidente del Tribunal Superior de Justicia, que también lo será del Consejo, y el otro será designado por el Tribunal de Justicia Constitucional de entre los miembros de carrera judicial que integran el Tribunal Superior de Justicia del Estado.
+El Presidente del Tribunal Superior de Justicia, así como los Magistrados o Jueces en funciones de Consejeros de la Judicatura del Poder Judicial del Estado, actuarán con absoluta independencia de quien los designe. Los Consejeros de la Judicatura durarán en su cargo tres años, salvo el Presidente del Consejo de la Judicatura, quien ejercerá dicho encargo durante la temporalidad para la que haya sido designado como Presidente del Tribunal Superior de Justicia.
 
-II. Dos consejeros designados por el Pleno del Congreso del Estado o por la Comisión Permanente, en su caso.
+Los Consejeros de la Judicatura no podrán ser reelectos para el periodo inmediato posterior, pero sí podrán ser designados nuevamente para un periodo más, siempre y cuando entre la designación anterior como Consejero y el nuevo nombramiento medie un periodo de un año. Las percepciones recibidas con motivo al desempeño de las atribuciones como Consejero de la Judicatura, serán equivalentes a las de los Magistrados Regionales del Tribunal Superior de Justicia, y no podrán ser disminuidas durante el periodo de su encargo, serán únicas y no podrán duplicarse con las de otra función, siendo incompatibles con otro salario dentro del Poder Judicial.
 
-III. Uno nombrado por el Titular del Ejecutivo.
+Los Consejeros de la Judicatura deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión o encargo, y deberán cumplir, para su designación, los requisitos establecidos en esta Constitución.
 
-Los consejeros actuarán con absoluta independencia de quien los nombre. Durarán cuatro años en su cargo, con posibilidad de reelección para un periodo igual. Las percepciones recibidas con motivo al desempeño de sus atribuciones, serán equivalentes a las de los magistrados del Tribunal de Justicia Constitucional, mismas que no podrán ser disminuidas durante el periodo del encargo.
-
-Los consejeros de la Judicatura deberán ser personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de su profesión, deberán tener cuando menos treinta años de edad cumplidos al día de la designación y contar con una antigüedad mínima de cinco años en el ejercicio profesional, con título y cédula de licenciado en derecho, además de cumplir con las condiciones establecidas en las fracciones I, IV, V y VI, del artículo 76, de esta Constitución.
-
-El Consejo de la Judicatura será presidido por el Presidente del Tribunal Superior de Justicia y contará con un Secretario Ejecutivo que será designado por el propio Consejo, a propuesta de su Presidente.
+El Consejo de la Judicatura será presidido por el Presidente del Tribunal Superior de Justicia, y contará con un Secretario Ejecutivo que será designado por el propio Consejo, a propuesta de su Presidente, quien tendrá el nivel y percepciones equivalentes a las de un Secretario General de Sala Regional.
 
 Corresponde al Consejo de la Judicatura:
 
-I. Participar en la designación de magistrados en los términos de lo establecido en esta Constitución.
+I. Participar en la designación de Magistrados en los términos de lo establecido en esta Constitución.
 
-II. Designar, adscribir o remover en los términos de esta Constitución y la ley de la materia, los servidores públicos judiciales y personal administrativo.
+II. Designar, adscribir o remover en los términos de esta Constitución y la ley de la materia, a los servidores públicos judiciales y el personal administrativo.
 
-III. Emitir acuerdos generales a fin de lograr una adecuada distribución entre los órganos del Poder Judicial para la mejor y mayor prontitud de su despacho.
+III. Emitir acuerdos generales a fin de lograr una adecuada distribución, coordinación y funcionamiento entre los órganos del Poder Judicial, para la mejor y mayor prontitud del despacho de los asuntos de su competencia.
 
-IV. Establecer y ejecutar el sistema de carrera judicial en los términos y condiciones que establece esta Constitución.
+IV. Establecer y ejecutar el sistema de formación, profesionalización y carrera judicial, a través del Instituto de Formación, Profesionalización y Carrera Judicial, en términos y condiciones que establece esta Constitución y demás normativa aplicable.
 
-V. Administrar los recursos humanos, materiales y financieros del Poder Judicial, con excepción del Tribunal de Justicia Constitucional cuya administración corresponderá a su Presidente; así como del Tribunal del Trabajo Burocrático, quienes lo harán a través de una comisión de administración.
+V. Administrar los recursos humanos, materiales y financieros del Poder Judicial.
 
-VI. Determinar los distritos judiciales en que se divida el Estado, el número de salas, juzgados de primera instancia, juzgados y salas especializados en justicia para adolescentes, juzgados de paz y conciliación indígena, juzgados municipales y subdirecciones del Centro Estatal de Justicia Alternativa; así como la residencia, adscripción, jurisdicción territorial y especialización que por materia les corresponda.
+VI. Determinar los Distritos Judiciales y Regiones en que se divida el Estado, así como el número e integración de Salas Regionales, Juzgados de Primera Instancia, Juzgados Especializados, Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales, preferentemente de manera consecutiva para mejor identificación en toda la Entidad, así como la residencia, adscripción, jurisdicción territorial y especialización que por materia o materias les correspondan.
 
-VII. Administrar los recursos financieros del Fondo Auxiliar para la Administración de Justicia, conforme a los lineamientos señalados en esta Constitución, el Código y demás normatividad aplicable.
+VII. Administrar los recursos financieros del Fondo Auxiliar para la Administración de Justicia, conforme a los lineamientos señalados en esta Constitución, el Código de Organización del Poder Judicial del Estado y demás normatividad aplicable.
 
 VIII. Los demás asuntos que esta Constitución y las leyes determinen.
 
@@ -1699,129 +1707,75 @@ Las decisiones del Pleno del Consejo de la Judicatura serán definitivas e inata
 
 El Código establecerá las bases mínimas para la práctica de las visitas judiciales y la emisión de los dictámenes correspondientes, realizados por la Visitaduría del Consejo de la Judicatura, así como su integración.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### Capítulo IV. Del Tribunal del Trabajo Burocrático
+### Capítulo IV. Del Nombramiento del Personal Judicial
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 75.
 
-El Tribunal del Trabajo Burocrático será la máxima autoridad jurisdiccional en la materia, sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos, sesionará en Pleno y en Salas y sus sesiones serán públicas. El Código determinará sus respectivas competencias y la forma de su organización y funcionamiento.
+Para ser Magistrado o Consejero de la Judicatura del Poder Judicial se requiere:
 
-Estará integrado de la manera siguiente:
-
-I. Dos magistrados designados por el Titular del Ejecutivo.
-
-II. Un magistrado designado por el Tribunal de Justicia Constitucional.
-
-III. Dos magistrados designados por el Congreso del Estado, a propuesta escrita de tres de los Ayuntamientos de mayor población en la Entidad.
-
-IV. Dos magistrados propuestos de la misma forma por las unidades burocráticas de mayor representatividad en el Estado.
-
-La designación de los magistrados nombrados por el Titular del Ejecutivo será directa. Las propuestas de designación de los magistrados formuladas por los ayuntamientos y las unidades burocráticas a que hace mención el párrafo anterior, deberán ser aprobadas por el Congreso del Estado en términos del Código. Para ser nombrado magistrado, deberá acreditarse experiencia en materia laboral por un periodo no menor de tres años.
-
-Durarán en sus funciones seis años con posibilidad de ser reelectos en los términos del Código. El Tribunal de Justicia Constitucional del Tribunal Superior de Justicia del Estado nombrará a su Presidente, durará en su cargo tres años, pudiendo ser ratificado.
-
-Para los efectos de la fracción V del artículo 74, la administración, vigilancia y disciplina de los recursos presupuestales del Tribunal del Trabajo Burocrático corresponderán en los términos que señale el Código, a la Comisión de Administración, que estará integrada por su Presidente y dos consejeros de la Judicatura.
-
-La Comisión de Administración será presidida por el Titular del Tribunal Burocrático y tendrá atribución para presentar su anteproyecto de presupuesto al Consejo de la Judicatura, para su inclusión en el proyecto de presupuesto del Poder Judicial.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
-
-### Capítulo V. Del Nombramiento del Personal Judicial
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 76.
-
-Para ser magistrado del Poder Judicial se requiere:
-
-I. Ser ciudadano chiapaneco, mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos, así como tener su domicilio en el Estado.
+I. Ser ciudadano chiapaneco, mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, así como tener su domicilio en el Estado.
 
 II. Tener cuando menos treinta y cinco años cumplidos al día de la designación, y hasta setenta y cinco años como edad máxima.
 
-III. Poseer el día del nombramiento con antigüedad mínima de diez años, título universitario y cédula profesional de licenciado en derecho, expedida por autoridad o institución legalmente facultada para ello.
+III. Poseer el día del nombramiento, experiencia laboral con antigüedad mínima de diez años, título universitario y cédula profesional de licenciado en derecho, expedida por autoridad o institución legalmente facultada para ello.
 
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite una pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, concusión, cohecho, enriquecimiento ilícito, fraude, falsificación, falsedad en declaración ante la autoridad judicial, abuso de confianza, contra la salud, u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena.
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite una pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, concusión, cohecho, enriquecimiento ilícito, fraude, falsificación, falsedad en declaraciones ante la autoridad judicial, abuso de confianza, contra la salud, u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena.
 
-V. No ser ministro de culto religioso, salvo que se separe del cargo, dos años antes del día de su nombramiento.
+V. No ser ministro de culto religioso, salvo que se separe del cargo dos años antes del día de su nombramiento.
 
-VI. Que la persona que vaya a designarse no haya sido titular de una Secretaría de Estado, Fiscal General del Estado, Senador, Diputado Federal, Diputado Local, Presidente Municipal, a menos que se haya separado del cargo un año antes del día de su nombramiento.
+VI. Que la persona que vaya a designarse no haya sido titular de una Secretaría de Estado, de la Fiscalía General del Estado o Diputado Federal, a menos que se haya separado del cargo un año antes del día de su nombramiento.
 
 VII. Acreditar conocimientos especializados en la materia de que se trate el referido nombramiento.
 
-VIII. Los demás requisitos que señale la ley.
+VIII. Los demás requisitos que señale el Código de Organización del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### Capítulo VI. Del Control Constitucional
+### Capítulo V. Del Control Constitucional
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 76.
+
+Los nombramientos de Magistrados Regionales deberán hacerse de manera preferente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia, o bien de aquellos que por su honorabilidad, competencia y profesionalismo se hayan destacado en otras ramas de la profesión jurídica.
+
+Cuando ocurra una vacante definitiva por defunción, renuncia, incapacidad o cualquier otra causa de algún Magistrado Regional del Poder Judicial, se dará aviso inmediato al Titular del Ejecutivo para que proceda al nombramiento de la Magistratura vacante, en términos de lo que establece esta Constitución.
+
+La designación de los Magistrados Regionales se hará dentro de un plazo que no excederá de siete días hábiles respecto de aquel en que fue presentado el nombramiento por el Titular del Ejecutivo. Si el Congreso no resuelve dentro de dicho plazo, ocupará el cargo de Magistrado Regional la persona designada. Cuando, por cualquier circunstancia, el Pleno del Congreso del Estado o la Comisión Permanente, en su caso no se pronuncien sobre dos nombramientos sucesivos de la misma vacante, el Titular del Ejecutivo hará un tercer nombramiento, el cual surtirá sus efectos con carácter provisional, sin perjuicio de ser ratificado por el Congreso del Estado. En caso de ratificación de los Magistrados Regionales del Poder Judicial, el Titular del Ejecutivo deberá recabar la opinión del Consejo de la Judicatura, en términos del Código.
+
+Tanto Jueces como Magistrados del Poder Judicial y Consejeros de la Judicatura, tendrán derecho a un haber único a la conclusión ordinaria o definitiva del encargo, mismo que no será menor del equivalente de seis meses del total de su remuneración que tenga asignada al momento de la separación. Los beneficios recibidos por conclusión ordinaria del encargo y por razones de edad, así como los estímulos económicos al personal, podrán ser proveídos con cargo al Fondo Auxiliar para la Administración de Justicia, en los términos que determine la ley.
+
+Los Jueces, Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado, únicamente podrán ser destituidos previo procedimiento que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores o incurrieron en alguna de las hipótesis previstas en el Título Décimo de esta Constitución y las demás que señala la legislación en materia de responsabilidades de los Servidores Públicos del Estado de Chiapas.
+
+Los Jueces, Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado, no podrán actuar como representantes de cualquier naturaleza, en ningún proceso ante los órganos del Poder Judicial, durante los tres meses siguientes al de su separación o retiro.
+
+La remuneración (sic) Jueces, Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado, no podrá ser disminuida durante el tiempo de su gestión.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### Capítulo VI. Del Pleno de Distrito
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 77.
 
-Los nombramientos de magistrados deberán hacerse de manera preferente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la impartición de justicia, o en quienes por su honorabilidad, competencia y profesionalismo se hayan destacado en otras ramas de la profesión jurídica.
+La justicia del control constitucional local se erige dentro del régimen interior del Estado, como un medio de control para mantener la eficacia y la actualización democrática de esta Constitución, bajo el principio de supremacía constitucional. Tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior de la Entidad, conforme y con los límites y restricciones que establezca la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás legislación aplicable.
 
-Cuando ocurra una vacante definitiva por defunción, renuncia, incapacidad o cualquier otra causa de algún magistrado del Poder Judicial, a excepción de los magistrados del Tribunal de Justicia Constitucional, dará aviso inmediato al Titular del Ejecutivo para que proceda al nombramiento de la magistratura vacante, en términos de lo que establece esta Constitución. Para el caso de los magistrados del Tribunal de Justicia Constitucional, será el Presidente del Tribunal Superior de Justicia quien dará el aviso al Titular del Ejecutivo.
-
-La designación de los magistrados se hará dentro de un plazo que no excederá de siete días hábiles respecto de aquel en que fue presentada la propuesta por el Titular del Ejecutivo. Si el Congreso no resuelve dentro de dicho plazo, ocupará el cargo de magistrado la persona que haya sido propuesta. Cuando el Pleno del Congreso del Estado o la Comisión Permanente, en su caso, no apruebe dos nombramientos sucesivos respecto de una misma vacante, el Titular del Ejecutivo hará un tercer nombramiento, el cual surtirá sus efectos con carácter provisional, sin perjuicio de ser ratificado por el Congreso del Estado.
-
-En caso de ratificación de los magistrados del Poder Judicial, el Titular del Ejecutivo podrá recabar la opinión del Consejo de la Judicatura, en términos del Código.
-
-Tanto jueces como magistrados del Poder Judicial y consejeros de la Judicatura tendrán derecho a un haber único a la conclusión ordinaria y definitiva del encargo, mismo que no será menor del equivalente de tres meses del total de su remuneración que tenga asignada al momento de la separación. Para el caso de conclusión del encargo por haber cumplido setenta y cinco años, a que se refiere el artículo 76 fracción II de esta Constitución, tendrán derecho a un haber único correspondiente a seis meses de las percepciones ordinarias al tiempo de su separación.
-
-Los beneficios recibidos por conclusión ordinaria del encargo y por razones de edad, así como los estímulos económicos al personal, podrán ser proveídos con cargo al Fondo Auxiliar para la Administración de Justicia, en los términos que determine la ley.
-
-Los jueces, magistrados del Poder Judicial y consejeros de la Judicatura exclusivamente podrán ser destituidos previo procedimiento que demuestre que actuaron dolosa o negligentemente en el desempeño de sus labores o incurrieron en alguna de las hipótesis previstas en el Título Noveno de esta Constitución y las demás que señala la legislación en materia de responsabilidades de los Servidores Públicos del Estado de Chiapas.
-
-Los jueces, magistrados del Poder Judicial y consejeros de la Judicatura no podrán actuar como representantes de cualquier naturaleza, en ningún proceso ante los órganos del Poder Judicial, durante el año siguiente al de su separación o retiro.
-
-La remuneración de los jueces, magistrados del Poder Judicial y consejeros de la Judicatura, no podrá ser disminuida durante el tiempo de su gestión.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
-
-###### Artículo 78.
-
-El Tribunal de Justicia Constitucional será el órgano rector de los criterios jurídicos de interpretación conforme a esta Constitución y las leyes que de ella emanen. Tendrá las siguientes atribuciones:
-
-I. Garantizar la supremacía y control de esta Constitución mediante su interpretación; siempre y cuando no sea contraria a lo establecido en el artículo 133, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos, ni a la jurisprudencia de la Suprema Corte de Justicia de la Nación.
-
-II. Conocer de las controversias constitucionales, acciones de inconstitucionalidad, acciones por omisión legislativa y de las cuestiones de inconstitucionalidad en términos del artículo 79 de esta Constitución.
-
-III. Conocer de oficio, los casos de contradicción de criterios que se susciten entre las salas regionales y determinar la aplicación obligatoria de sus resoluciones.
-
-IV. Resolver los conflictos de competencia que se susciten entre salas regionales o entre juzgados de primera instancia.
-
-V. Designar al miembro del Consejo de la Judicatura y al magistrado del Tribunal del Trabajo Burocrático que correspondan al Poder Judicial.
-
-VI. Conocer de los asuntos que por su interés o transcendencia así lo ameriten a petición fundada del Fiscal General del Estado.
-
-VII. Las demás atribuciones que les confieran esta Constitución y la ley.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
-
-### Capítulo VII. Del Tribunal Laboral
-
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2018)</small>
-
-###### Artículo 79.
-
-La justicia del control constitucional local se erige dentro del régimen interior del Estado, como un medio de control para mantener la eficacia y la actualización democrática de esta Constitución, bajo el principio de supremacía constitucional.
-
-Tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 103, 105 y 107, de la Constitución Política de los Estados Unidos Mexicanos.
-
-Para el cumplimiento de las atribuciones del control constitucional local señaladas en la fracción I del artículo 78 de esta Constitución, el Tribunal de Justicia Constitucional conocerá y resolverá en los términos que establezca la ley, con excepción en la materia electoral, de los medios de control constitucional siguientes:
+Para el cumplimiento de las atribuciones de control constitucional local que establece esta Constitución y demás legislación aplicable, con excepción en materia electoral, conocerá y resolverá el Pleno de Distrito en los términos que establezca la ley, de los medios de control constitucional siguientes:
 
 I. De las controversias constitucionales que surjan entre:
 
-a) Dos o más municipios.
+a) Dos o más Municipios del Estado.
 
-b) Uno o más municipios y el Poder Ejecutivo o el Legislativo.
+b) Uno o más Municipios y el Poder Ejecutivo o el Legislativo del Estado.
 
-c) El Poder Ejecutivo y el Legislativo.
+c) El Poder Ejecutivo y el Legislativo del Estado.
 
-Siempre que las controversias versen sobre disposiciones generales de los Poderes Ejecutivo, Legislativo, o de los municipios, y la resolución del pleno del Tribunal de Justicia Constitucional las declare inconstitucionales, éstas tendrán efectos generales si hubieren sido aprobadas y surtirán efectos a partir de su publicación en el Periódico Oficial.
+Siempre que las controversias versen sobre disposiciones generales de los Poderes Ejecutivo, Legislativo, o de los Municipios del Estado, y las resoluciones del Pleno de Distrito las declaren inconstitucionales, tendrán efectos generales si hubieren sido aprobadas por unanimidad de votos, y surtirán efectos a partir de su publicación en el Periódico Oficial.
 
 II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, y que se ejerzan dentro de los treinta días naturales siguientes a su publicación por:
 
@@ -1829,35 +1783,99 @@ a) El Gobernador del Estado.
 
 b) El equivalente al 33% de los integrantes del Congreso del Estado, en contra de leyes expedidas por el Congreso del Estado.
 
-c) El Fiscal General del Estado, respecto de leyes emitidas por el Congreso del Estado en materia penal así como las relacionadas con el ámbito de sus competencias.
+c) El Fiscal General del Estado, respecto de leyes emitidas por el Congreso del Estado, en materia penal, así como las relacionadas con el ámbito de sus competencias.
 
-d) El equivalente al 33% de los ayuntamientos de la entidad.
+d) El Presidente del Tribunal Superior de Justicia del Estado.
 
-e) El Presidente de la Comisión Estatal de los Derechos Humanos, en el ámbito de su competencia.
+e) El equivalente al 33% de los Ayuntamientos de la Entidad.
 
-Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por el Pleno del Tribunal de Justicia Constitucional, y surtirán efectos a partir de su publicación en el Periódico Oficial sin efecto retroactivo, excepto cuando se trate de asuntos del orden penal en beneficio del inculpado o imputado.
+f) El Presidente de la Comisión Estatal de los Derechos Humanos, en el ámbito de su competencia.
 
-III. De las acciones por omisión legislativa cuando se considere que el Congreso del Estado no ha resuelto alguna ley o decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:
+Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por unanimidad en el Pleno de Distrito, y surtirán efectos a partir de su publicación en el Periódico Oficial, sin efecto retroactivo, excepto cuando se trate de asuntos del orden penal en beneficio del inculpado o imputado.
+
+III. De las acciones por Omisión Legislativa cuando se considere que el Congreso del Estado no ha resuelto alguna ley o decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:
 
 a) El Gobernador del Estado.
 
 b) Cuando menos la tercera parte de los miembros del Congreso del Estado.
 
-c) Cuando menos la tercera parte de los ayuntamientos.
+c) Cuando menos la tercera parte de los Ayuntamientos.
 
 d) Cuando menos el 5% de los ciudadanos inscritos en el padrón electoral.
 
-La resolución que emita el Tribunal de Justicia Constitucional que decrete la existencia de omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial; en dicha resolución se determinará como plazo un periodo ordinario de sesiones del Congreso del Estado, para que éste resuelva la omisión correspondiente. Tratándose de legislación que deba de aprobarse por el mismo Congreso del Estado, por mandato de la Constitución Política de los Estados Unidos Mexicanos o de la Constitución Local, si el Congreso del Estado no lo hiciere en el plazo fijado, el Tribunal de Justicia Constitucional lo hará provisionalmente en su lugar y dicha legislación estará vigente hasta que el Congreso del Estado subsane la omisión legislativa.
+Las resoluciones que por unanimidad emita el Pleno de Distrito, a través de las cuales se decrete la existencia de omisión legislativa, surtirán efectos a partir de que sean publicadas en el Periódico Oficial. En esas resoluciones se determinará, como plazo, un periodo ordinario de sesiones del Congreso del Estado, para que éste resuelva la omisión correspondiente. Tratándose de legislación que deba de aprobarse por el mismo Congreso del Estado, por mandato de la Constitución Política de los Estados Unidos Mexicanos o de la Constitución Local, si el Congreso del Estado no lo hiciere en el plazo fijado, el Pleno de Distrito lo hará provisionalmente en su lugar y dicha legislación estará vigente hasta que el Congreso del Estado subsane la omisión legislativa.
 
-IV. A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada por magistrados o jueces cuando tengan duda sobre la constitucionalidad o aplicación de una ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor de treinta días.
+IV. A efecto de dar respuesta fundada y motivada a las cuestiones de inconstitucionalidad formulada (sic) por Magistrados o Jueces cuando tengan duda sobre la constitucionalidad o aplicación de una ley local, en el proceso sobre el cual tengan conocimiento, las peticiones deberán ser desahogadas en un plazo no mayor detreinta (sic) días.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE MARZO DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 78.
+
+El Pleno de Distrito es el órgano colegiado facultado para conocer y resolver los asuntos de control constitucional a que se refiere esta Constitución.
+
+El Pleno de Distrito será el órgano rector de los criterios jurídicos de interpretación conforme a esta Constitución y las leyes que de ella emanen. Funcionará en Pleno y sus decisiones se tomarán por mayoría de votos de sus integrantes, salvo las consideraciones previstas en esta Constitución y la legislación aplicable.
+
+El Pleno de Distrito tendrá las atribuciones generales siguientes:
+
+I. Garantizar la supremacía y control de esta Constitución mediante su interpretación; siempre y cuando no sea contrario a lo establecido en el artículo 133, de la Constitución Política de los Estados Unidos Mexicanos, ni a la jurisprudencia de la Suprema Corte de Justicia de la Nación.
+
+II. Conocer de las controversias constitucionales, acciones de inconstitucionalidad, acciones por omisión legislativa y de las cuestiones de inconstitucionalidad en términos de esta Constitución.
+
+III. Conocer de oficio, los casos de contradicción de criterios que se susciten entre las Salas Regionales y determinar la aplicación obligatoria de sus resoluciones.
+
+IV. Resolver los conflictos de competencia que se susciten entre Salas Regionales o entre los Juzgados del Tribunal Superior de Justicia.
+
+V. Designar al Presidente del Poder Judicial, de entre los Magistrados que integren el Tribunal Superior de Justicia.
+
+VI. Conocer de los asuntos que por su interés o trascendencia así lo ameriten a petición fundada del Fiscal General del Estado.
+
+VII. Las demás atribuciones que les confieran esta Constitución y la ley.
+
+Las decisiones del Pleno de Distrito serán definitivas e inatacables.
+
+El Pleno de Distrito se integrará por los Presidentes de las Salas Regionales Especializadas del Tribunal Superior de Justicia del Estado, correspondientes al Distrito Judicial en donde exista mayor número de Juzgados de Primera Instancia; funcionará, únicamente, cuando existan asuntos de su competencia. La integración se hará preferentemente por quienes Presidan la (sic) Salas Especializadas con mayor antigüedad en su creación.
+
+Los Magistrados Regionales integrantes del Pleno de Distrito, no dejarán de desempeñar la función jurisdiccional que les corresponda en la Sala Regional Especializada a la que se encuentren adscritos, y por ende, no percibirán salario extraordinario alguno.
+
+El Pleno de Distrito será Presidido por el Magistrado Regional que elijan por mayoría de votos sus integrantes, y durará en funciones dos años.
+
+El Pleno de Distrito contará con un Secretario General de Acuerdos y del Pleno, que será designado por el Consejo de la Judicatura, a propuesta del Presidente del Pleno; tendrá el nivel y percepciones equivalentes a las de un Secretario General de Sala.
+
+El funcionamiento, designación del personal que se requiera y las atribuciones específicas del Pleno de Distrito, estarán determinadas en el Código de Organización del Poder Judicial del Estado y en los Acuerdos Generales que emita el Consejo de la Judicatura.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### Capítulo VII. Del Tribunal Administrativo
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 79.
+
+El Tribunal Administrativo es un órgano integrante del Poder Judicial del Estado de Chiapas, dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones, los cuales estarán determinados de manera específica en las leyes secundarias y en la ley orgánica del propio Tribunal.
+
+El Tribunal Administrativo tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales, por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos locales o municipales.
+
+Corresponde al Tribunal Administrativo conocer y resolver del recurso de revisión en materia administrativa, así como de los demás asuntos que se establezcan en las leyes aplicables de la materia, e imponer sanciones a servidores públicos y particulares que incumplan gravemente en resoluciones del organismo garante en materia de acceso a la información y protección de datos personales.
+
+El Tribunal Administrativo expedirá su Reglamento Interno, así como los acuerdos generales para su adecuado funcionamiento, en los términos que señale su ley orgánica.
+
+El Tribunal Administrativo estará integrado por:
+
+I. La Sala de Revisión;
+
+II. Los Juzgados Especializados en Responsabilidad Administrativa; y,
+
+III. Los Juzgados de Jurisdicción Administrativa.
+
+La Sala de Revisión del Tribunal Administrativo estará integrada por tres Magistrados, que serán designados de entre los Magistrados Regionales del Tribunal Superior de Justicia del Estado, de manera directa por la mayoría de los integrantes del Pleno del Congreso del Estado, o en sus recesos, por la Comisión Permanente. Durarán en su encargo seis años y podrán ser reelectos por una sola vez para ejercer un periodo consecutivo. En el nombramiento de los Magistrados del Tribunal Administrativo deberán observarse los requisitos establecidos en el artículo 75 de esta Constitución.
+
+El Presidente del Tribunal Administrativo será electo por mayoría de los integrantes de la Sala de Revisión, durará en su cargo tres años con posibilidad de reelección por tres años más; le corresponderá la administración de dicho Tribunal en términos de su ley orgánica y de su reglamento interior. El Magistrado Presidente rendirá por escrito anualmente, ante el Congreso del Estado, un informe sobre el estado que guardan los asuntos de su competencia, en los términos que establezca la Ley Orgánica.
+
+La administración, vigilancia y disciplina de los recursos presupuestales del Tribunal Administrativo, corresponderá directamente a su Presidente, y será regulada por los acuerdos que emita la Sala de Revisión, por la mayoría de sus integrantes, en observancia a su ley orgánica y demás normativa aplicable, como excepción a lo dispuesto en el artículo 74 de esta Constitución y en plena observancia a la autonomía dispuesta en la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 79 Bis.
 
-El Tribunal Laboral, será la máxima autoridad jurisdiccional en la materia, sus resoluciones serán emitidas con plenitud de jurisdicción y sus fallos serán definitivos. El Código determinará sus respectivas competencias y la forma de su organización y funcionamiento.
-
-La resolución de las diferencias o los conflictos entre trabajadores y patrones que no sea competencia del Tribunal Laboral del Poder Judicial de la Federación, estará a cargo del Tribunal Laboral del Poder Judicial del Estado de Chiapas, a que se refiere el artículo 123 Apartado “A” fracción XX de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2269,73 +2287,25 @@ La educación superior en Chiapas deberá incidir en el desarrollo de las comuni
 
 La Universidad Autónoma de Chiapas, desde su fundación está orientada a la formación de ciudadanos que contribuyan al desarrollo sostenible de sus comunidades para lo que se constituye como un organismo autónomo descentralizado, de interés público, con personalidad jurídica y patrimonio propio, al servicio de los intereses de la Nación y del Estado.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ### Capítulo VI. Del Tribunal de Justicia Administrativa
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2017)</small>
-
 ###### Artículo 105.
 
-El Tribunal de Justicia Administrativa es un organismo constitucional autónomo, de carácter permanente, con personalidad jurídica y patrimonio propio, independiente en sus decisiones, y será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determine esta Constitución y su Ley Orgánica respectiva.
-
-Su organización y funcionamiento estarán regulados en la Ley Orgánica.
-
-Corresponde al Tribunal de Justicia Administrativa, conocer y resolver del recurso de revisión en materia administrativa, así como de los demás asuntos que se establezcan en las leyes aplicables de la materia.
-
-Asimismo será el órgano competente para imponer las sanciones a los servidores públicos por las responsabilidades administrativas que la ley determina como graves y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o al patrimonio de los entes públicos; así como imponer sanciones a servidores públicos y particulares que incumplan gravemente en resoluciones del organismo garante en materia de acceso a la información y protección de datos personales.
-
-El Tribunal de Justicia Administrativa, expedirá su Reglamento Interno, así como los acuerdos generales para su adecuado funcionamiento, en los términos que señale su Ley Orgánica.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2018)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 106.
 
-El Tribunal de Justicia Administrativa residirá en la capital del Estado y estará integrado por:
-
-I. El Pleno de la Sala General.
-
-II. Las Salas Regionales Unitarias de Primera de (sic) Instancia.
-
-III. Las Salas Especializadas de Primera Instancia.
-
-IV. Por el Instituto de Defensoría Social.
-
-V. Por el Instituto de Investigaciones Jurídicas, Administrativas y Fiscales.
-
-VI. Por el Fondo Auxiliar para la Administración de la Justicia Administrativa.
-
-El Pleno del Tribunal de Justicia Administrativa estará conformado por tres Magistrados que serán propuestos por el Titular del Poder Ejecutivo y designados por el voto de las dos terceras partes de los miembros del Congreso del Estado, o en sus recesos, por la Comisión Permanente. Durarán en su encargo 9 años, y podrán ser reelectos para ejercer un siguiente periodo consecutivo.
-
-El Presidente del Tribunal de Justicia Administrativa, será electo por el Pleno del mismo, cada tres años, con posibilidades de reelección; le corresponderá la administración de dicho Tribunal y del Fondo Auxiliar para la Administración de la Justicia Administrativa, en los términos de su Ley Orgánica y Reglamento.
-
-Los Magistrados que integren las Salas Regionales Unitarias y las Especializadas en Primera Instancia, durarán en sus funciones seis años, deberán cumplir con los mismos requisitos de elegibilidad y procedimiento de selección establecido para los Magistrados integrantes del Pleno del Tribunal, con posibilidad de ser reelectos en los términos que establezca su Ley Orgánica. La adscripción de los Magistrados Regionales y Especializados de Primera Instancia, será por acuerdo del Pleno del Tribunal.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 107.
 
-El magistrado presidente comparecerá y rendirá anualmente, ante el Congreso del Estado, un informe sobre el estado que guardan los asuntos de su competencia, en los términos que establezca la Ley orgánica.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 108.
 
-Para ser magistrado del Tribunal de Justicia Administrativa se requiere:
-
-I. Ser ciudadano chiapaneco, mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, así como tener su domicilio en el Estado.
-
-II. Tener cuando menos 35 años cumplidos al día de su designación.
-
-III. Poseer al día de su nombramiento, con antigüedad mínima de 10 años, título universitario y cédula profesional de licenciado en derecho, expedidas por autoridad o institución legalmente facultada para ello.
-
-IV. Gozar de buena reputación y no haber sido condenado por delito que amerite una pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
-
-V. No ser ministro de culto religioso, salvo que se separe del cargo, dos años antes del día de su nombramiento.
-
-VI. No haber sido designado Secretario de Estado, Fiscal de Justicia del Estado, Senador, Diputado Federal, Diputado Local, o Presidente Municipal, a menos que se haya separado del cargo dos años antes del día de su nombramiento.
-
-VII. Haber residido en el país durante los dos años anteriores al día de su designación.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2375,15 +2345,21 @@ Las leyes determinarán los casos y las circunstancias en los que se deba sancio
 
 III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones.
 
-Las faltas administrativas graves serán investigadas y substanciadas por el Órgano de Fiscalización Superior del Congreso del Estado y los órganos internos de control, según corresponda y serán resueltas por el Tribunal de Justicia Administrativa. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Las faltas administrativas graves serán investigadas y substanciadas por el Órgano de Fiscalización Superior del Congreso del Estado y los órganos internos de control, según corresponda y serán resueltas por el Tribunal Administrativo. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control.
 
 Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el Código de Organización del Poder Judicial, sin perjuicio de las atribuciones del Órgano de Fiscalización Superior del Congreso del Estado en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
 La ley establecerá los supuestos y procedimientos para impugnar la clasificación de las faltas administrativas como no graves, que realicen los órganos internos de control.
 
-Los entes públicos tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía de Combate a la Corrupción a que se refiere esta Constitución.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-IV. El tribunal de justicia administrativa impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, prestación de servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella.
+Los entes públicos tendrán órganos internos de control con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas a las que son competencia del Tribunal Administrativo; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales y municipales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía de Combate a la Corrupción a que se refiere esta Constitución.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+IV. El Tribunal Administrativo impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, prestación de servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella.
 
 También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones.
 
@@ -2393,7 +2369,9 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
-El Órgano de Fiscalización Superior del Congreso del Estado y los órganos internos de control de los entes públicos, podrán recurrir las determinaciones de la Fiscalía de Combate a la Corrupción y del Tribunal de Justicia Administrativa.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+El Órgano de Fiscalización Superior del Congreso del Estado y los órganos internos de control de los entes públicos, podrán recurrir las determinaciones de la Fiscalía de Combate a la Corrupción y del Tribunal Administrativo.
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
@@ -2405,15 +2383,23 @@ Podrán ser sujetos de juicio político: El Gobernador del Estado; los Diputados
 
 Cuando los servidores públicos mencionados, así como los Presidentes Municipales incurran en violaciones graves a la Constitución del Estado y a las leyes que de ella emanen, así como en el manejo indebido de fondos y recursos estatales o municipales, se observará el procedimiento establecido en este precepto.
 
-Para la aplicación de las sanciones a que se refiere este artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectiva ante el Tribunal de Justicia Administrativa. Cuando los servidores públicos mencionados, así como los Presidentes Municipales incurran en violaciones graves a la Constitución del Estado y a las leyes que de ella emanen, así como en el manejo indebido de fondos y recursos estatales o municipales, se observará el procedimiento establecido en este precepto.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-Para la aplicación de las sanciones a que se refiere este artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectiva ante el Tribunal de Justicia Administrativa del Estado, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión del mismo, después de haber substanciado el procedimiento respectivo y con la audiencia del inculpado.
+Para la aplicación de las sanciones a que se refiere este artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectiva ante el Tribunal Administrativo. Cuando los servidores públicos mencionados, así como los Presidentes Municipales incurran en violaciones graves a la Constitución del Estado y a las leyes que de ella emanen, así como en el manejo indebido de fondos y recursos estatales o municipales, se observará el procedimiento establecido en este precepto.
 
-En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribunal de Justicia Administrativa aplicará la sanción correspondiente mediante resolución emitida cuando menos por mayoría de votos de magistrados presentes en la respectiva sesión del Pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una Comisión del Jurado de acusación integrada por dos diputados.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Para la aplicación de las sanciones a que se refiere este artículo, el Congreso del Estado erigido en Jurado de Acusación, procederá a la acusación respectiva ante el Tribunal Administrativo, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión del mismo, después de haber substanciado el procedimiento respectivo y con la audiencia del inculpado.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribunal Administrativo aplicará la sanción correspondiente mediante resolución emitida cuando menos por mayoría de votos de magistrados presentes en la respectiva sesión del Pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una Comisión del Jurado de acusación integrada por dos diputados.
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público, previa declaración de la mayoría absoluta del número de los miembros presentes en sesión del mismo, después de haber substanciado el procedimiento respectivo y con la audiencia del inculpado.
 
-En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribunal de Justicia Administrativa aplicará la sanción correspondiente mediante resolución emitida cuando menos por mayoría de votos de magistrados presentes en la respectiva sesión del Pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una Comisión del Jurado de acusación integrada por dos diputados.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+En conocimiento de la acusación, y erigido el Tribunal de Sentencia, el Tribunal Administrativo aplicará la sanción correspondiente mediante resolución emitida cuando menos por mayoría de votos de magistrados presentes en la respectiva sesión del Pleno, una vez practicadas las diligencias correspondientes y con audiencia del acusado, de su defensor y de una Comisión del Jurado de acusación integrada por dos diputados.
 
 Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
@@ -2431,17 +2417,25 @@ Cuando el Gobernador del Estado, los Diputados al Congreso del Estado y los Magi
 
 Las sanciones penales se aplicarán de acuerdo a lo dispuesto en la legislación penal y, tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de reparar los daños y resarcir los perjuicios causados por su conducta ilícita.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 113.
 
-De los actos u omisiones en que incurran los servidores públicos en el desempeño de sus empleos, cargos o comisiones, que impliquen responsabilidad administrativa, conocerá el Congreso del Estado como Jurado de Acusación y el Tribunal de Justicia Administrativa erigido en Tribunal de Sentencia; el Jurado de acusación declarará por mayoría relativa de sus miembros presentes si el encausado es o no culpable, si la declaración fuere de no responsabilidad, el servidor público continuará en el ejercicio de su cargo, si fuere la de culpabilidad quedará separado inmediatamente del mismo y se turnará el caso al Tribunal de Justicia Administrativa, con audiencia del encausado, de su defensor y de una Comisión del Jurado de Acusación integrada por dos Diputados Locales, resolverá por mayoría de votos lo que proceda de acuerdo con la Ley.
+De los actos u omisiones en que incurran los servidores públicos en el desempeño de sus empleos, cargos o comisiones, que impliquen responsabilidad administrativa, conocerá el Congreso del Estado como Jurado de Acusación y el Tribunal Administrativo erigido en Tribunal de Sentencia; el Jurado de acusación declarará por mayoría relativa de sus miembros presentes si el encausado es o no culpable, si la declaración fuere de no responsabilidad, el servidor público continuará en el ejercicio de su cargo, si fuere la de culpabilidad quedará separado inmediatamente del mismo y se turnará el caso al Tribunal de Justicia Administrativa, con audiencia del encausado, de su defensor y de una Comisión del Jurado de Acusación integrada por dos Diputados Locales, resolverá por mayoría de votos lo que proceda de acuerdo con la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 Las sanciones por responsabilidad administrativa, consistirán en la suspensión, destitución, inhabilitación del servidor público y multa que deberá establecerse de acuerdo con los beneficios económicos obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones a que se refiere el artículo 110, fracción III, de esta Constitución, pero que no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.
 
-La sentencia correspondiente será emitida antes de un año a partir del momento en que conozca el Tribunal de Justicia Administrativa.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-Las declaraciones y resoluciones del Congreso del Estado y del Tribunal de Justicia Administrativa del Estado emitidas en los casos a que se refiere este capítulo son inatacables.
+La sentencia correspondiente será emitida antes de un año a partir del momento en que conozca el Tribunal Administrativo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Las declaraciones y resoluciones del Congreso del Estado y del Tribunal Administrativo del Estado emitidas en los casos a que se refiere este capítulo son inatacables.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 En todos los casos señalados en este capítulo en que el inculpado sea Diputado del Congreso del Estado o Magistrado, éste desde luego, será inhabilitado para intervenir en la votación correspondiente.
 
@@ -4616,3 +4610,57 @@ P.O. 23 DE OCTUBRE DE 2019.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan o contravengan lo establecido en el presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS -EN MATERIA DE ADMINISTRACIÓN DE JUSTICIA E INTEGRACIÓN DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS-“.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Dentro de los cuarenta y cinco días hábiles siguientes a la publicación de la entrada en vigor del presente Decreto, deberá iniciarse y en su caso, aprobarse, los decretos de reformas al Código de Organización del Poder Judicial del Estado, a la Ley del Servicio Civil del Estado y los Municipios de Chiapas y demás normativa aplicable, para su adecuación al texto constitucional vigente.
+
+Artículo Cuarto.- Los Magistrados del Tribunal de Justicia Constitucional, del Tribunal del Trabajo Burocrático y del Tribunal de Justicia Administrativa, cesarán de inmediato en su encargo con la entrada en vigor del presente Decreto, y se les otorgará un haber único por terminación de funciones, equivalente a tres meses del total de sus percepciones mensuales.
+
+El actual Presidente del Tribunal Superior de Justicia, seguirá en funciones hasta en tanto se designe al nuevo Titular del Poder Judicial del Estado.
+
+Artículo Quinto.- Los Consejeros de la Judicatura que actualmente se desempeñan en el cargo, seguirán haciéndolo hasta en tanto concluya el periodo para el que fueron nombrados o se proceda a la designación de los integrantes del nuevo Consejo de la Judicatura, en los términos previstos en este Decreto.
+
+Artículo Sexto.- El Consejo de la Judicatura, a través de la Oficialía Mayor y la instancia o instancias que se requieran, deberán proceder a la cancelación, supresión o modificación de los órganos y plazas que por este Decreto se extinguen, así como determinar lo relativo al personal administrativo que los integran.
+
+El personal del extinto Tribunal del Trabajo Burocrático que realiza funciones jurisdiccionales en Salas, será reubicado y adscrito conforme lo determine el Consejo de la Judicatura, quedando sujetos al régimen y reglas de formación, permanencia, profesionalización y carrera judicial del Poder Judicial del Estado.
+
+Artículo Séptimo.- Dentro de los sesenta días siguientes a la publicación de las reformas al Código de Organización del Poder Judicial del Estado de Chiapas y a la Ley del Servicio Civil del Estado y los Municipios de Chiapas, que regulen la estructura y funciones en materia de jurisdicción burocrática, deberán quedar instalados y funcionando los Juzgados Especializados en Materia Burocrática en términos y como lo establece este Decreto.
+
+Con el propósito de no retrasar la atención y resolución de los conflictos del trabajo burocrático a que se refiere la Ley del Servicio Civil del Estado y los Municipios de Chiapas, y en términos del artículo 17 de la Constitución Política de los Estados Unidos Mexicanos, hasta en tanto no se designen los Jueces Especializados competentes, los actuales Secretarios Generales de Sala fungirán como jueces para dar atención, seguimiento y resolución a los asuntos de su conocimiento.
+
+Artículo Octavo.- Las referencias, atribuciones o menciones que hagan otros ordenamientos legales, administrativos y demás normativa aplicable, en relación a los Tribunales que por este Decreto se extinguen, se entenderán conferidas y serán atendidas de la forma siguiente:
+
+a) Las contenidas en la Ley del Servicio Civil del Estado y los Municipios de Chiapas, el Código de Organización del Poder Judicial del Estado y demás legislación aplicable, atribuidas al extinto Tribunal del Trabajo Burocrático, funcionando en Pleno o en Salas, a los Juzgados Especializados en materia Burocrática.
+
+b) Las contenidas en la Ley de Control Constitucional para el Estado de Chiapas, el Código de Organización del Poder Judicial del Estado y demás legislación aplicable en materia de control constitucional, que correspondían al extinto Tribunal de Justicia Constitucional, al Pleno de Distrito que por este Decreto se instituye.
+
+c) Las relativas a la resolución de las diferencias o conflictos entre trabajadores y patrones que no sea (sic) competencia del Tribunal Laboral o Juzgados de Distrito del Poder Judicial de la Federación, a que se refiere la fracción XX, del artículo 123, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos, y su ley reglamentaria, a partir de la implementación del nuevo sistema de justicia laboral, a los Juzgados Especializados en Materia Laboral.
+
+Los Juzgados Especializados en Materia Laboral, empezarán a funcionar conforme lo establecen los Artículos Transitorios del Decreto por el que se Reforman, Adicionan y Derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva, publicado en el Diario Oficial de la Federación el día uno de mayo de dos mil diecinueve.
+
+d) Las contenidas en la Ley de Procedimientos Administrativos para el Estado de Chiapas, la Ley de Responsabilidades Administrativas y demás normativa que se refiera o correspondan al Tribunal de Justicia Administrativa, que se extingue, al Tribunal Administrativo del Poder Judicial del Estado que por este Decreto se instituye.
+
+El Congreso del Estado deberá legislar lo conducente para la creación y funcionamiento de los Juzgados Especializados en Responsabilidad Administrativa y de Jurisdicción Administrativa, en un plazo de sesenta días siguientes a la publicación de este Decreto.
+
+Artículo Noveno.- Los recursos materiales y financieros, así como los recursos humanos con funciones estrictamente jurisdiccionales, que a la entrada en vigor del presente Decreto, se encontraban asignados y correspondían al Tribunal de Justicia Constitucional y al Tribunal del Trabajo Burocrático, serán transferidos al Tribunal Superior de Justicia, por conducto del Consejo de la Judicatura.
+
+Los recursos materiales, humanos y financieros que a la entrada en vigor del presente Decreto, se encontraban asignados y correspondían al Tribunal de Justicia Administrativa, serán transferidos al Tribunal Administrativo del Poder Judicial del Estado.
+
+Artículo Décimo.- La Secretaría de Hacienda, en el ámbito de su competencia, llevará a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones legales y administrativas aplicables.
+
+Artículo Décimo Primero.- Los ex titulares de los Tribunales que por este Decreto se extinguen, serán responsables del proceso administrativo de extinción y liquidación del organismo correspondiente y deberán hacer entrega integral de los recursos a más tardar dentro de los quince días hábiles siguientes a la entrada en vigor del presente Decreto, en los términos previstos en el mismo.
+
+Artículo Décimo Segundo.- El Titular del Poder Judicial del Estado, en un plazo de cuarenta y cinco días naturales, contados a partir de la entrada en vigor del presente Decreto, deberá instar las leyes o decretos que correspondan al marco jurídico de su actuación, a efecto de hacerlos congruentes con las disposiciones del presente Decreto.
+
+De la misma forma deberá realizar las acciones relativas para promover las adecuaciones administrativas o presupuestales que se requieran para el cumplimiento de este Decreto.
+
+Artículo Décimo Tercero.- El Congreso del Estado deberá legislar dentro del plazo que establece la reforma a la Ley Federal del Trabajo del uno de mayo de dos mil diecinueve, lo relativo al Artículo Segundo Transitorio, del Decreto por el que se reforman y Adicionan Diversas Disposiciones de los Artículos 107 y 123, de la Constitución Política de los Estados Unidos Mexicanos, en materia de justicia laboral.
+
+La Junta Local de Conciliación y Arbitraje, así como las especiales y las demás instancias que las integran, seguirán funcionando y atendiendo de manera normal los conflictos de trabajo de su competencia y demás atribuciones que tienen asignadas, hasta en tanto se implemente el nuevo Sistema de Justicia Laboral, derivado del decreto de reforma a la Constitución Política de los Estados Unidos Mexicanos, del año 2017, a que se refiere el párrafo que antecede, así como de lo dispuesto en el Decreto por el que se Reforman, Adicionan y Derogan diversas disposiciones de la Ley Federal del Trabajo, de la Ley Orgánica del Poder Judicial de la Federación, de la Ley Federal de la Defensoría Pública, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores y de la Ley del Seguro Social, en materia de justicia laboral, libertad sindical y negociación colectiva, publicado en el Diario Oficial de la Federación el día uno de mayo de dos mil diecinueve.
