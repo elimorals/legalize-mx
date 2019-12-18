@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2018-05-08"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2019.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -3556,6 +3556,10 @@ IV. Dictar las medidas que estime pertinentes con base a la Ley y el presente Re
 
 4. La Cámara otorgará anualmente la medalla "Sor Juana Inés de la Cruz", para reconocer y premiar a las mujeres que hayan incidido y destacado en la lucha social, cultural, política, científica y económica a favor de los derechos humanos de las mujeres y de la igualdad de género, de conformidad con lo que establece el Decreto de su creación, así como el Reglamento que regule su entrega.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2019)</small>
+
+5. La Cámara otorgará anualmente la Medalla “Francisco Toledo”, para reconocer y premiar a la o el artista comprometido socialmente, que haya contribuido con su obra o acciones en la formación, defensa conservación, rescate y difusión del patrimonio natural, cultural y artístico de México.
+
 ###### Artículo 262.
 
 1. La Cámara podrá realizar inscripciones dentro del Recinto, en los espacios adecuados para tal fin, conforme a los Criterios para las Inscripciones de Honor en el Recinto de la Cámara de Diputados que emita la Comisión de Régimen, Reglamentos y Prácticas Parlamentarias. Para ello, deberá presentarse iniciativa en los términos de este Reglamento.
@@ -4165,3 +4169,11 @@ D.O.F. 8 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
 
 Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN NUMERAL 5 AL ARTÍCULO 261 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados contará con un plazo de noventa días contados a partir de la entrada de (sic) vigor del presente Decreto para expedir el Reglamento que regula la entrega de esta condecoración.
