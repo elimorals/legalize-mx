@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2019-01-09"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -567,9 +567,9 @@ a).- Por orden de autoridad competente;
 
 b).- Por la acumulación de infracciones cometidas en forma reiterada a esta ley o a su reglamento, ya sea estatal o el de algún municipio; y
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-c).- A quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos b) y c), de esta ley, o sus colectivos en el Reglamento estatal o municipal de que se trate, pudiendo suspenderse hasta por tres meses, independientemente de otras infracciones a que se haga acreedor.
+c).- A quien infrinja lo establecido en el artículo 19 Ter, fracciones I, incisos b) y c), II y III de esta ley, o sus colectivos en el Reglamento estatal o municipal de que se trate, pudiendo suspenderse hasta por seis meses, independientemente de otras infracciones a que se haga acreedor.
 
 III. Cancelación de licencia:
 
@@ -868,3 +868,11 @@ El presente decreto iniciará su vigencia el día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo y Los Ayuntamientos dispondrán de un término de 90 días contados a partir del inicio de vigencia del presente decreto, para colocar, en las vialidades de su competencia, la señalética vial que indique la prohibición del uso de dispositivos de comunicación, tales como radios, teléfonos celulares y otros, al conducir un vehículo, de acuerdo con las Normas Oficiales Mexicanas aplicables.
+
+P.O. 18 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIV-63 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO, DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS".
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
