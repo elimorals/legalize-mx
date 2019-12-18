@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-del-estado-de-quintana-roo-132199"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2019-04-22"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -39,15 +41,19 @@ D E C R E T A:
 
 LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO
 
-## TÍTULO I. GENERALIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, observancia general y obligatoria para el Estado de Quintana Roo y tiene por objeto regular el cobro de los derechos que se causen por el uso, goce o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, cuando se presten por el Poder Legislativo, las Dependencias y Entidades del Poder Ejecutivo, Poder Judicial y Órganos Autónomos.
+La presente Ley es de orden público, observancia general y obligatoria para el Estado de Quintana Roo y tiene por objeto regular el cobro de los derechos que se causen por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta éste, en sus funciones de derecho público, a través de las Dependencias y órganos desconcentrados del Poder Ejecutivo.
 
 ###### Artículo 2.
 
@@ -57,39 +63,43 @@ La Hacienda Pública del Estado de Quintana Roo, percibirá en cada ejercicio fi
 
 Esta Ley se regirá conforme a lo dispuesto en la Ley de Ingresos del Estado de Quintana Roo que anualmente expide el Congreso del Estado y en el Código Fiscal del Estado de Quintana Roo.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 4.
 
-La recaudación y administración de las contribuciones de las Dependencias establecidas en esta ley, es competencia de la Secretaría de Finanzas y Planeación, sus órganos auxiliares y las que autorice el Ejecutivo del Estado.
+La recaudación y administración de las contribuciones de las Dependencias establecidas en esta ley, es competencia de la Secretaría, sus órganos desconcentrados y las que autorice el Ejecutivo del Estado.
 
-La recaudación de las contribuciones de las Entidades, es competencia de la Secretaría de Finanzas y Planeación, sus órganos auxiliares y las que autorice el Ejecutivo del Estado y será destinada para el objeto de la propia Entidad.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-La recaudación y administración de las contribuciones del Poder Legislativo, Poder Judicial y los Órganos Autónomos contenidas en esta ley, será de conformidad a las disposiciones legales que al efecto expidan, debiendo informar trimestralmente a la Secretaría de Finanzas y Planeación los recursos captados por concepto de los servicios que presten en sus funciones de derecho público.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 5.
 
-Las dependencias y Entidades deberán informar a la Secretaría de Finanzas y Planeación a más tardar dentro de los 30 días naturales del mes de enero del ejercicio correspondiente, los montos de los ingresos por concepto de derechos que hayan enterado a la misma, durante el ejercicio fiscal inmediato anterior.
+Las dependencias, los organismos descentralizados, los fideicomisos públicos, las empresas de participación estatal mayoritaria, los Poderes Legislativo y Judicial y los Órganos Autónomos, deberán remitir mediante el Sistema Único de Información, un informe mensual dentro de los primeros 10 días naturales de concluido el mes a la Secretaría sobre la evolución de los ingresos obtenidos, respecto de la estimación de sus ingresos y una explicación detallada de la misma, así como los que tengan programados percibir durante el mes inmediato, para que sea revisado por la Secretaría, conjunta o indistintamente con la Secretaría de la Contraloría; asimismo mediante el Sistema citado, deberán informar a la Secretaría a más tardar el treinta y uno del mes de enero del ejercicio correspondiente, los montos de los ingresos que hayan generado, durante el ejercicio fiscal inmediato anterior.
 
-Los ingresos que recauden las dependencias y entidades se concentrarán forzosamente en la Secretaría de Finanzas y Planeación y deberán reflejarse en la contabilidad gubernamental.
+Los ingresos que recauden las dependencias y entidades se concentrarán forzosamente en la Secretaría y deberán reflejarse en la contabilidad gubernamental.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+Los programas y/o proyectos anuales de las Dependencias y sus órganos desconcentrados deberán contener la previsión de los ingresos que generen por la prestación de servicios públicos por el uso, goce o aprovechamiento de bienes del dominio público que tengan asignados.
 
-Los programas y/o proyectos anuales de las Dependencias y Entidades deberán contener la previsión de los ingresos que generen por la prestación de servicios públicos por el uso, goce o aprovechamiento de bienes del dominio público que tengan asignados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 6.
 
-Las Dependencias y Entidades deberán utilizar las oficinas y medios autorizados por la Secretaría de Finanzas y Planeación con base en la Ley de Ingresos del Estado de Quintana Roo para el cobro de los derechos que se causen por el uso, goce o aprovechamiento de los bienes del dominio público del Estado, así como por los servicios que presta en sus funciones de derecho público, debiendo remitir para su registro, informe dentro de los primeros 10 días naturales de concluido el trimestre a la Secretaría de Finanzas y Planeación sobre la evolución de los ingresos, situación respecto de las metas de recaudación y una explicación detallada de la misma, así como las que tengan programadas percibir durante el trimestre inmediato.
+Las contribuciones que se establecen en esta Ley se pagarán en las oficinas y medios autorizados por la Secretaría a través del Servicio de Administración Tributaria del Estado de Quintana Roo, en el monto, forma y época de pago que la misma Ley disponga.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-Las Dependencias y Entidades deberán poner a disposición del público en general y mantener actualizada, en sus respectivos portales de transparencia, la información de los subsidios, estímulos o descuentos, según sea el caso, que se otorguen en la prestación de servicios públicos a su cargo. Debiendo informar a la Secretaría de Finanzas y Planeación de los servicios proporcionados, dentro de los 10 días naturales de concluidos el trimestre.
+Las Dependencias y sus órganos desconcentrados deberán poner a disposición del público en general y mantener actualizada, en sus respectivos portales de transparencia, la información de los subsidios, estímulos, descuentos o exenciones, según sea el caso, que se otorguen en la prestación de servicios públicos a su cargo.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Para hacer efectivo las exenciones o descuentos previstos en la presente Ley, se estará a lo dispuesto en las reglas de carácter general emitidas por la Secretaría.
 
 ###### Artículo 7.
 
@@ -97,21 +107,19 @@ Los derechos por la prestación de los servicios que establece esta Ley deberán
 
 Cuando se concesione o autorice que la prestación de un servicio que grava esta Ley se proporcione total o parcialmente por los particulares, deberán disminuirse del cobro del derecho que se establece por el mismo en la proporción que represente el servicio concesionado o prestado por un particular respecto del servicio total.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
-
 ###### Artículo 8.
 
-Los derechos que se establecen en esta Ley se pagarán en el monto, forma, lugar y época de pago que en cada Capítulo se señalan o conforme a las disposiciones legales que establezcan para tal efecto el Poder Legislativo, el Poder Judicial y los Órganos Autónomos.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE ABRIL DE 2019)</small>
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 9.
 
-Cuando en esta Ley se tomen como base para el pago de los créditos fiscales a cargo de los sujetos pasivos, los ingresos, se entenderá que quedan comprendidos tanto los que se perciban en efectivo como en especie.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 10.
 
 Cuando no se cubra el pago de los derechos en los plazos previstos en la presente Ley, el monto de los mismos se actualizará conforme a lo previsto en el artículo 20 del Código Fiscal del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 11.
 
@@ -119,91 +127,79 @@ Para efectos de esta Ley, en singular o plural se entenderá por:
 
 I. Código: Código Fiscal del Estado de Quintana Roo;
 
-II. Dependencias: Las previstas en el artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo;
+II. Dependencias: Las previstas en el artículo 19 de la Ley Orgánica de la Administración Pública del Estado de Quintana Roo y sus órganos desconcentrados;
 
 III. Días: Días hábiles;
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+IV. Estado: El Estado de Quintana Roo;
 
-IV. Entidades: Los Organismos Descentralizados de la Administración Pública Paraestatal;
+V. Ley: Ley de Derechos del Estado de Quintana Roo;
 
-V. Estado: El Estado de Quintana Roo;
+VII. SATQ: Servicio de Administración Tributaria del Estado de Quintana Roo;
 
-VI. Ley: Ley de Derechos del Estado de Quintana Roo;
+VII. Secretaría: Secretaría de Finanzas y Planeación, y
 
-VII. Órganos Autónomos: Personas de derecho público de carácter estatal con la autonomía en el ejercicio de sus funciones y en su administración, creadas por disposición expresa de la Constitución Política del Estado Libre y Soberano de Quintana Roo;
+VIII. UMA: Valor Diario de la Unidad de Medida y Actualización.
 
-VIII. Poderes: Ejecutivo y Judicial;
-
-IX. Secretaría: Secretaría de Finanzas y Planeación, y
-
-X. UMA: Valor diario de la Unidad de Medida y Actualización.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 12.
 
-Le corresponde a la Secretaría, la aplicación de esta Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal, sin menoscabo de la interpretación que realicen los Órganos jurisdiccionales estatales o federales. A falta de disposición expresa y en cuanto no se oponga a lo que establece este ordenamiento se aplicará supletoriamente el Código Fiscal de la Federación y su Reglamento, y en su defecto las del Código de Comercio y del derecho común.
+Le corresponde a la Secretaría, la aplicación de esta Ley por sí o a través del SATQ, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal, sin menoscabo de la interpretación que realicen los Órganos jurisdiccionales estatales o federales. A falta de disposición expresa y en cuanto no se oponga a lo que establece este ordenamiento se aplicará supletoriamente el Código Fiscal de la Federación y su Reglamento, y en su defecto las del Código de Comercio y del derecho común.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
-
-Cuando los servicios que presta una Dependencia o una Entidad sean proporcionados por otras Dependencias o Entidades, se entenderá que las disposiciones señaladas en esta Ley para aquéllos se aplicarán a éstos, así como cuando cambien de nombre los registros o padrones que conforman el servicio o la Ley que lo establece, se seguirán pagando los derechos correspondientes conforme a los preceptos que los establecen.
+Cuando los servicios que presta una Dependencia sean proporcionados por otras Dependencias, se entenderá que las disposiciones señaladas en esta Ley para aquéllos se aplicarán a éstos, así como cuando cambien de nombre los registros o padrones que conforman el servicio o la Ley que lo establece; se seguirán pagando los derechos correspondientes conforme a los preceptos que los establecen.
 
 ###### Artículo 13.
 
 Las violaciones a las disposiciones establecidas en este ordenamiento serán sancionadas de conformidad con lo dispuesto en el Código.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
-
 ###### Artículo 14.
 
-Tratándose del servicio de copias solicitadas ante el Poder Legislativo, cualquier Dependencia o Entidad, Poder Judicial y Órganos Autónomos, siempre y cuando no contravenga lo dispuesto en la sección respectiva, se pagarán derechos conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Por expedición de Copias simples
+## TÍTULO II. DE LOS DERECHOS
 
-Por foja tamaño carta:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-a) Por la primera foja 0.178
+### CAPÍTULO I. DE LA SECRETARÍA DE GOBIERNO
 
-b) Por cada foja excedente 0.06
-
-Por foja tamaño oficio:
-
-a) Por la primera foja 0.237
-
-b) Por cada foja excedente 0.07
-
-2. Por legalizaciones y certificaciones 1.73
-
-3. Copias certificadas de convenios
-
-transaccionales, exhortos y autorizaciones
-
-para escrituraciones. 9.00
-
-## TÍTULO II. DE LOS DERECHOS DEL PODER EJECUTIVO
-
-### CAPÍTULO I. DE LOS SERVICIOS QUE PRESTAN LAS DEPENDENCIAS
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA SU DENOMINACIÓN], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA DE GOBIERNO
+
+> <small>(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 APARTADO A
 
 APOSTILLAMIENTO DE DOCUMENTOS
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 15.
 
-Quienes soliciten los servicios por apostillamiento de documentos diversos deberán pagar 4.00 UMA.
+Por los servicios que preste la Secretaría de Gobierno, se causarán los derechos, conforme a la tarifa siguiente:
 
-APARTADO B
+CONCEPTO UMA
 
-DIRECCIÓN GENERAL DE NOTARÍAS
+I. Apostillamiento de documentos 4.00
 
-#### SECCIÓN SEGUNDA. SECRETARÍA DE DESARROLLO SOCIAL
+II. Por análisis y calificación de documentos para Aspirante al ejercicio del Notariado 25.00
+
+III. Por el examen para obtención de Patente de Notario Público 60.00
+
+IV. Por el examen para obtención de Nombramiento de Aspirante al ejercicio del Notariado 30.00
+
+> <small>(REFORMADA [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. DE LA DIRECCIÓN GENERAL DE NOTARÍAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 16.
 
-Quienes soliciten los servicios de la Dirección General de Notarías, pagarán un derecho conforme a lo siguiente:
+Por los servicios que preste la Dirección General de Notarías, se causarán los derechos, conforme a la tarifa siguiente:
 
 CONCEPTO UMA
 
@@ -237,101 +233,97 @@ actas notariales, documentos que integran
 
 el apéndice y testamentos, por cada instrumento 5.75
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 17.
 
-Los notarios públicos o quienes ejerzan sus funciones, pagarán un derecho:
+Por los servicios que preste la Dirección General de Notarías a los notarios públicos o quienes ejerzan sus funciones, se causarán los derechos, conforme a la tarifa siguiente:
 
 CONCEPTO UMA
 
-I. Por la autorización de cada libro del protocolo 18.00
+I. Por la autorización de 200 fojas foliadas del Protocolo de Actas de Cotejos y Certificaciones 18.00
 
-II. Por la autorización de 200 fojas foliadas del
+II. Por la autorización de 200 fojas foliadas del Protocolo de Escrituras y Actas 18.00
 
-protocolo abierto especial 18.00
+III. Por el registro del sello, firma y antefirma de los Notarios Públicos Titulares y/o suplentes 6.00
 
-III. Por el registro del sello de los Notarios
+IV. Por el registro de firma y antefirma de los Notarios Públicos Auxiliares 6.00
 
-Públicos Titulares y/o suplentes 6.00
+V. Reposición de sellos 6.00
 
-IV. Por expedición de testimonios de escrituras
+VI. Por expedición de testimonios de escrituras públicas o actas notariales 8.05
 
-públicas o actas notariales, a razón de 8.05
+VII. Por reconocimiento y certificación de firmas 1.15
 
-V. Por ratificación o reconocimiento de firmas 1.15
+VIII. Por cotejo de documentos 1.15
 
-VI. Por cotejo de documentos. 1.15
+IX. Por certificación de otros actos. 1.15
 
-VII. Por certificación de otros actos. 1.15
+X. Por registro de Patente o Nombramiento de Notario Público 75.00
+
+XI. Por registro de Nombramiento de Aspirante al Ejercicio del Notariado 37.50
+
+XII. Por registro de Convenio de Suplencia entre titulares 37.50
+
+XIII. Por actualización y certificación notarial 36.00
 
 ###### Artículo 18.
 
-Por registro de patente de notario público pagará 75.00 UMA.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-APARTADO C
+> <small>(REFORMADA [N. DE E. ANTES APARTADO C], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-DIRECCIÓN GENERAL DEL REGISTRO CIVIL Y OFICIALÍA CENTRAL
+#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL Y OFICIALÍA CENTRAL
 
-#### SECCIÓN TERCERA. SECRETARÍA DE FINANZAS Y PLANEACIÓN
-
-APARTADO A
-
-EXPEDICIÓN DE LICENCIAS DE FUNCIONAMIENTO
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 19.
 
-Por la expedición de certificaciones que consten en la Oficialía Central del Registro Civil, causarán derechos conforme a la tarifa siguiente:
+Por los servicios que preste la Dirección General del Registro Civil por concepto de expedición de certificaciones que consten en la Oficialía Central del Registro Civil, se causarán derechos conforme a la tarifa siguiente:
 
 CONCEPTO UMA
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+I. Por Acta de Nacimiento:
 
-a) Por Acta de nacimiento:
+a) Local 0.50
 
-1. Local 0.50
-
-2. Foránea 2.75
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ABRIL DE 2019)</small>
+b) Foránea 2.75
 
 Por la expedición de la primera copia certificada del acta de nacimiento local, procederá la exención de su cobro.
 
-b) Por Acta de matrimonio. 2.00
+II. Por Acta de matrimonio. 2.00
 
-c) Por Acta de divorcio. 4.50
+III. Por Acta de divorcio. 4.50
 
-d) Por Acta de defunción. 2.00
+IV. Por Acta de defunción. 2.00
 
-e) No especificado. 3.50
+V. No especificado. 3.50
 
-f) Constancia de inexistencia de registro. 3.50
+VI. Constancia de inexistencia de registro. 3.50
 
-g) Aclaración administrativa. 4.50
+VII. Aclaración administrativa. 4.50
 
-h) Anotación marginal. 1.00
+VIII. Anotación marginal. 1.00
 
-i) Autorización de registro extemporáneo. 2.75
+IX. Autorización de registro extemporáneo. 2.75
 
-j) Por la expedición de fotocopias de actos
+X. Por la expedición de fotocopias de actos
 
 registrados certificados 0.50
-
-I. (DEROGADA, P.O. 22 DE ABRIL DE 2019)
-
-II. (DEROGADA, P.O. 22 DE ABRIL DE 2019)
-
-III. (DEROGADA, P.O. 22 DE ABRIL DE 2019)
 
 ###### Artículo 20.
 
 Se entiende por este derecho la prestación por la validez jurídica que otorga el Registro Civil en los distintos actos que determinan la situación civil de los habitantes del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 21.
 
-Los derechos por los servicios que presta el Registro Civil se pagarán de acuerdo con las cuotas que señala la tarifa siguiente:
-
-I. Nacimientos:
+Por los servicios que preste el Registro Civil, se causarán los derechos, conforme a la tarifa siguiente:
 
 CONCEPTO UMA
+
+I. Nacimientos:
 
 a) En las Oficinas del Registro Civil en horas inhábiles. 1.00
 
@@ -352,8 +344,6 @@ e) Inscripción de actas de mexicanos nacidos
 y registrados en el extranjero. 4.00
 
 II. Matrimonios:
-
-CONCEPTO UMA
 
 a) En las Oficinas del Registro Civil en horas hábiles. 1.00
 
@@ -393,8 +383,6 @@ contraen matrimonio en el extranjero 8.50
 
 III. Divorcios:
 
-CONCEPTO UMA
-
 a) Divorcios voluntarios:
 
 1. Por acta de solicitud 10.00
@@ -417,7 +405,7 @@ d) Por acta de divorcio decretada por las
 
 autoridades judiciales que se inscriban
 
-en el Registro Civil 7.50
+en el Registro Civil 70.50
 
 e) Inscripción de actas de mexicanos que
 
@@ -431,11 +419,9 @@ a) En la oficina 0.30
 
 b) Levantada a domicilio 2.50
 
-V. Tutela, Emancipación, Adopción o Reconocimiento 2.00 UMA.
+V. Tutela, Emancipación, Adopción o Reconocimiento 2.00
 
-VI. Otros:
-
-CONCEPTO UMA
+VI. Otros
 
 a) Inscripción de sentencias ejecutorias 6.50
 
@@ -457,113 +443,119 @@ con anotación marginal 5.50
 
 i) Trámite de actas certificadas de otras entidades federativas:
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
-
 1. Reconocimiento o adopción 2.75
 
 2. Matrimonio, defunción, divorcio o inscripción de actos 6.50
 
 ###### Artículo 22.
 
-Los actos de Registro Civil se efectuarán previo aviso y pago de los derechos en las oficinas, establecimientos, instituciones de crédito o a través de los medios electrónicos autorizados por la Secretaría.
+(DEROGADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)
 
 Los oficiales del Registro Civil que actúen sin que hayan sido cubiertos los derechos, serán responsables solidarios de su pago.
 
 ###### Artículo 23.
 
-El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y 10% de los derechos cobrados conforme a la fracción II incisos b), c) y d) del artículo 21 de esta Ley.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 24.
 
 En los casos de desastres naturales o programas de regularización como matrimonios colectivos a solicitud oficial de las autoridades o instituciones competentes, la Dirección General del Registro Civil del Estado, a través de la Secretaría, podrá subsidiar hasta el 100% de los derechos que causen las actas de Registro Civil.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Durante las campañas realizadas por el Registro Civil con motivo de días conmemorativos, por la expedición de copia certificada del acta de nacimiento local, procederá la exención de su cobro.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Cuando se trate de personas de escasos recursos, previa aplicación del estudio socioeconómico correspondiente, se exentará del pago de derechos que se causen por la expedición de actas certificadas de nacimiento, constancias de inexistencia de registro y rectificación y/o aclaración de actas con anotación marginal, siempre y cuando sea bajo el amparo de alguno de los programas institucionales a través de la Dirección General del Registro Civil o el Sistema Estatal para el Desarrollo Integral de la Familia.
+
 ###### Artículo 25.
 
-Por la reproducción documental que a juicio de la autoridad competente o a solicitud del interesado se efectúe, a excepción de lo que establece el artículo 53 fracción III de esta Ley, se causará un derecho de 0.35 UMA por hoja.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 26.
 
-No causaran los derechos a que se refiere este Capítulo:
-
-I. Los certificados de estudios escolares.
-
-II. Las copias certificadas expedidas como consecuencia inmediata y necesaria del ejercicio de las facultades u obligaciones de los funcionarios o autoridades que las expidan.
-
-III. Los certificados de supervivencia expedidos a los pensionistas de los Gobiernos Federal y de los Estados.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 27.
 
-Los derechos a que se refiere este apartado, incluyendo la búsqueda de los documentos se pagarán en las oficinas, establecimientos, instituciones de crédito o a través de los medios electrónicos autorizados por la Secretaría, previamente a la prestación del servicio de que se trate.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-APARTADO D
+> <small>(REFORMADA [N. DE E. ANTES APARTADO D], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-DEL REGISTRO ESTATAL DE PERITOS VALUADORES
+#### SECCIÓN CUARTA. DEL REGISTRO ESTATAL DE PERITOS VALUADORES
 
-#### SECCIÓN CUARTA. SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 28.
 
-Los derechos por los servicios que presta la Secretaría de Gobierno, relacionados con el Registro Estatal de Peritos Valuadores de conformidad con la Ley de Valuación para el Estado de Quintana Roo, se pagarán conforme a la tarifa siguiente:
+Por los servicios que preste la Secretaría de Gobierno, relacionados con el Registro Estatal de Peritos Valuadores de conformidad con la Ley de Valuación para el Estado de Quintana Roo, se causarán los derechos conforme a la tarifa siguiente:
 
 CONCEPTO UMA
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+I. Por el análisis y calificación de documentos
 
-a) Por análisis y calificación de
+para la inscripción en el
 
-documentos para la inscripción en el
+Registro Estatal de Peritos Valuadores 50.00
 
-Registro Estatal de Peritos Valuadores 25.00
+II. Por el análisis y calificación de
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2019)</small>
+documentos para el refrendo de cada
 
-b) Por el análisis y calificación de
-
-documentos para el refrendo de la
-
-inscripción en el Registro Estatal
+especialidad inscrita en el Registro Estatal
 
 de Peritos Valuadores 25.00
 
-APARTADO E
+> <small>(REFORMADA [N. DE E. ANTES APARTADO E], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
+#### SECCIÓN QUINTA. DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
-#### SECCIÓN QUINTA. SECRETARÍA DE OBRAS PÚBLICAS
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 29.
 
-Los servicios que se presten en el Registro Público de la Propiedad causarán derechos conforme a la tarifa siguiente:
+Los servicios que se presten en el Registro Público de la Propiedad y del Comercio causarán derechos conforme a la tarifa siguiente:
 
-a) Por solicitud de análisis y calificación de documentos que contengan actos inscribibles, se cobrará 65.00 UMA por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 UMA por cada foja que contenga el documento incluyendo sus anexos.
+CONCEPTO UMA
 
-b) Por solicitud de análisis y calificación de documentos que contengan actos anotables ya sean preventiva o definitivamente, se cobrará 65.00 UMA por cada acto o negocio jurídico del que deba de emitir se (sic) una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 UMA por cada foja que contenga el documento incluyendo sus anexos.
+I. Por solicitud de análisis y calificación de documentos que contengan actos inscribibles, por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado. 65.00
 
-c) Por solicitud de asiento de presentación de aviso preventivo con vigencia de 30 y de 90 días 12.00 UMA.
+II. Por solicitud de análisis y calificación de documentos que contengan actos anotables ya sean preventiva o definitivamente por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado. 65.00
 
-d) Por la expedición de copias certificadas relativas a los actos que obren en el programa informático se cobrará por hoja 2.00 UMA.
+III. Por solicitud de asiento de presentación de aviso preventivo con vigencia de 30 y de 90 días. 12.00
 
-e) Por expedición de certificados de información o datos que obren en el sistema de registro, en atención a la naturaleza de la solicitud formulada ya sea por nombre o por folio, se cobrará por cada uno de ellos 5.00 UMA.
+IV. Por la expedición de copias certificadas relativas a los actos que obren en el programa informático por hoja. 2.00
 
-Para la aplicación del presente inciso, el solicitante deberá especificar la forma en que requiera el certificado, ya sea por nombre en el que se certificará los folios que reporte el sistema por dicho nombre; o bien ya sea por folio, en el que se certificará los actos que reporte el sistema por dicho folio.
+V. Por expedición de certificados de información o datos que obren en el sistema de registro, en atención a la naturaleza de la solicitud formulada ya sea por nombre o por folio. 5.00
 
-f) Por expedición de constancias de asiento registral por folio 5.00 UMA.
+Para la aplicación del presente inciso (sic), el solicitante deberá especificar la forma en que requiera el certificado, ya sea por nombre en el que se certificará los folios que reporte el sistema por dicho nombre; o bien ya sea por folio, en el que se certificará los actos que reporte el sistema por dicho folio.
 
-g) Por búsqueda que se realice a través del Programa Informático para la expedición de constancia de propiedad y no propiedad, por cada nombre buscado 5.00 UMA.
+VI. Por expedición de constancias de asiento registral por folio 5.00
 
-h) Por el depósito de testamentos, si se hace en la oficina del Registro 10.00 UMA.
+VII. Por búsqueda que se realice a través del Programa Informático para la expedición de constancia de propiedad y no propiedad, por cada nombre buscado 5.00
 
-i) Si se hace fuera de la oficina del Registro 12.00 UMA.
+VIII. Por el depósito de testamentos
 
-j) Si el depósito se hace fuera de las horas de oficina, será de 15.00 UMA.
+a) Si se hace en la oficina del Registro 10.00
 
-k) Por la ratificación de documentos privados en el caso a que se refiere el artículo 2599 y 3162 fracción III del Código Civil para el Estado Libre y Soberano de Quintana Roo y la constancia de la misma se cobrará 15.00 UMA.
+b) Si se hace fuera de la oficina del Registro 12.00
 
-l) Por el análisis y calificación de actos relativos a anotaciones de actas aclaratorias consistentes en rectificación de ubicación, medidas, colindancias, clave catastral, localidad, coordenadas y vialidad, se cobrarán 5.00 UMA.
+c) Si el depósito se hace fuera de las horas de oficina. 15.00
 
-m) Por cancelación de avisos preventivos que anuncian la formalización de actos ordenados por los Notarios, se cobrarán 8.00 UMA.
+d) Por búsqueda para la emisión de informe de existencia de depósito de testamento. 10.00
 
-Para el pago de los 0.20 UMA por cada foja a que se refieren los incisos a) y b) de este artículo, en el supuesto que un mismo documento presentado contenga actos inscribibles y anotables, sólo una vez se pagará este importe por dicho documento.
+IX. Por la ratificación de documentos privados en el caso a que se refiere el artículo 2599 y 3162 fracción III del Código Civil para el Estado Libre y Soberano de Quintana Roo y la constancia de la misma. 15.00
+
+X. Por el análisis y calificación de actos relativos a anotaciones de actas aclaratorias consistentes en rectificación de ubicación, medidas, colindancias, clave catastral, localidad, coordenadas y vialidad. 5.00
+
+XI. Por cancelación de avisos preventivos que anuncian la formalización de actos ordenados por los Notarios. 8.00
+
+XII. Por inscripción del acta de matrimonio por cuanto hace al régimen patrimonial de aquél. 30.00
+
+XIII. Por cada foja de los documentos a que se refieren las fracciones I y II de este artículo. 0.20
+
+En el supuesto que un mismo documento presentado contenga actos inscribibles y anotables, solo una vez se pagará este importe por dicho documento.
 
 ###### Artículo 30.
 
@@ -587,481 +579,315 @@ V. Los contratos en que se pacten prestaciones periódicas se valuarán en la su
 
 Se exceptúan del pago de los derechos de inscripción en el Registro Público del Comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas del Sistema Educativo Quintanarroense que estén bajo su vigilancia.
 
-APARTADO F
+> <small>(REFORMADA [N. DE E. ANTES APARTADO F], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-DIRECCIÓN GENERAL DEL PERIÓDICO OFICIAL
+#### SECCIÓN SEXTA. DE LA DIRECCIÓN GENERAL DEL PERIÓDICO OFICIAL
 
-#### SECCIÓN SEXTA. SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 32.
 
 Los servicios que presta la Dirección General del Periódico Oficial del Estado se sujetarán al pago de los derechos con base a las tarifas siguientes:
 
+CONCEPTO UMA
+
 I. Inserción de publicaciones
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINA 514.]</small>
+a) Edición ordinaria por página (tamaño de letra 10, interlineado 1.5) 9.00
 
-II. Suscripciones
+b) Edición extraordinaria por página (tamaño de letra 10, interlineado 1.5) 16.00
 
-CONCEPTO UMA
+c) Gráficos, mapas, planos, croquis en ambas ediciones.
 
-a) Anual 24 números ordinarios 12.00
+1. Carta, 215x280 mm 1.00
 
-III. Venta de ejemplares
+2. A4, 210X325 mm 1.50
 
-CONCEPTO UMA
+Lo dispuesto en la fracción I, inciso c) del presente artículo, se aplicará únicamente cuando sean anexos al contenido del texto a publicar; cuando sean parte del texto se aplicará lo que disponen los incisos a) y b).
 
-a) Ejemplar de hasta 8 hojas 1.00
+II. Venta de ejemplares.
 
-b) Ejemplar de 9 hasta100 hojas 1.50
+a) Ejemplar de hasta 8 hojas. 1.00
 
-c) Ejemplar de más de 101 hojas 4.00
+b) Ejemplar de 9 hasta100 hojas. 1.50
 
-IV. Otros Servicios
+c) Ejemplar de más de 101 hojas. 4.00
 
-CONCEPTO UMA
+III. Otros servicios
 
-a) Búsqueda de publicación 1.00
+a) Búsqueda de publicación. 1.00
 
-b) Certificación de ejemplares agotados 1.00
+b) Certificación de ejemplares. 1.50
 
-c) Certificación de inexistencia de ejemplares 1.00
+IV. Servicios notariales.
 
-V. Servicios notariales
+a) Autorización de Licencias. 42.00
 
-a) Autorización de Licencias 42.00
+b) Reinicio de funciones. 42.00
 
-b) Revocación de Licencias 42.00
+c) Nombramiento de Notario Público Suplente o Auxiliar. 42.00
 
-c) Asignacion de Notario Suplente 42.00
+d) Nombramiento de Aspirante al ejercicio del Notariado. 21.00
 
-d) Designación de Notario Auxiliar 42.00
+e) Cambio de domicilio. 32.00
 
-e) Cambio de domicilio 32.00
+f) Cambio de adscripción. 32.00
 
-f) Cambio de adscripción 32.00
+g) Extracto de la solicitud de devolución de fianza. 32.00
 
-g) Extracto de la solicitud de devolución de fianza 32.00
+h) Aviso de inicio de funciones, sea titular, suplente o auxiliar. 42.00
 
-h) Aviso de inicio de funciones, sea titular,
+i) Expedición de Patente de Notario Público Titular. 32.00
 
-suplente o auxiliar 42.00
+j) Patente de Notario Público Titular Requisitada. 32.00
 
-Esta tarifa será aplicable para las ediciones ordinarias. Para las extraordinarias se estará a lo dispuesto en la fracción I inciso b) del presente artículo.
+k) Nombramiento (sic) Notario Público Suplente o Auxiliar Requisitado. 32.00
+
+l) Convenio de Suplencia entre Notarios Públicos Titulares. 60.00
+
+Esta tarifa será aplicable para las ediciones ordinarias o extraordinarias.
 
 El pago por los servicios señalados en el presente artículo, se harán previamente a la publicación solicitada.
 
-#### SECCIÓN SÉPTIMA. SECRETARÍA DE DESARROLLO ECONÓMICO
+Las personas físicas representadas por el Instituto de Defensoría Pública del Estado de Quintana Roo, gozarán de un descuento del 80% para la publicación de edictos derivados de acuerdos emitidos por autoridad jurisdiccional en asuntos de índole familiar.
 
-#### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN NOVENA. SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL Y PESCA
+#### SECCIÓN SÉPTIMA. DE LA COORDINACIÓN ESTATAL DE PROTECCIÓN CIVIL
 
-#### SECCIÓN DÉCIMA. SECRETARÍA DE EDUCACIÓN
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 32 Bis.
+
+Por los Servicios que presta la Coordinación Estatal de Protección Civil, se causarán los derechos, conforme a la tarifa siguiente:
+
+TASA (UMA) Unitarias y por nivel
+
+de riesgo
+
+CONCEPTO MEDIANO ALTO RIESGO
+
+RIESGO
+
+I. Análisis de Riesgos 118.36 177.54
+
+II. Dictámenes Técnicos de
+
+Protección Civil 94.69 142.54
+
+III. Diagnóstico de Riesgos 53.26
+
+IV. Programas Internos de
+
+Protección Civil 53.26
+
+Establecimiento de Unidades Internas de Protección Civil
+
+V. Capacitación de Unidades Internas 53.26
+
+VI. Validación de Unidades Internas 53.26
+
+VII. Simulacros 17.75
+
+VIII. Registro de Prestadores de Servicios 243.06
+
+IX. Capacitación de primeros auxilios 97.22
+
+X. Elaboración de programas internos 72.92
+
+XI. Uso y manejo de extintores 48.61
+
+XII. Evacuación, búsqueda y rescate 24.31
+
+XIII. Revisión de proyectos de factibilidad 236.71 355.07
+
+XIV. Emisión de Opinión Favorable para la fabricación de armas de fuego, armas de gas y municiones, fabricación de pólvoras, explosivos, artificios o de substancias químicas relacionadas con los explosivos 591.79
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. SECRETARÍA DE DESARROLLO SOCIAL
+
+#### SECCIÓN PRIMERA. DE LA EXPEDICIÓN DE LICENCIAS DE BEBIDAS ALCOHÓLICAS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS DE CONTROL VEHICULAR
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 33.
 
-Por copias de documentos existentes en la Secretaría de Desarrollo Social, se pagará con base a las tarifas siguientes:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN TERCERA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+### CAPÍTULO II. DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN
 
-1. Por expedición de Copias simples
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTRGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-Por foja tamaño carta:
+APARTADO A
 
-a) Por la primera foja 0.178
+EXPEDICIÓN DE LICENCIAS DE FUNCIONAMIENTO
 
-b) Por cada foja excedente 0.06
+### CAPÍTULO III. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
 
-Por foja tamaño oficio:
-
-a) Por la primera foja 0.237
-
-b) Por cada foja excedente 0.07
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2019)</small>
-
-2. Por legalizaciones y certificaciones 1.73
-
-### CAPÍTULO II. DE LOS SERVICIOS QUE PRESTAN LAS ENTIDADES
-
-### CAPÍTULO ÚNICO.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 34.
 
-Las personas físicas, morales o unidades económicas que realicen actividades comerciales, industriales, de servicios, y de inversión de capital, salvo disposición expresa en contrario, deberán solicitar mediante los medios electrónicos dispuestos por la Secretaría o acudiendo de forma personal ante las oficinas autorizadas por la Secretaría, su inscripción en el Registro Estatal de Contribuyentes dentro del mes siguiente, a aquel en que realicen las situaciones jurídicas o de hecho previstas en las leyes fiscales del Estado de Quintana Roo y obtener la Licencia de Funcionamiento por cada establecimiento o sucursal, con independencia de que se encuentren ubicados en el mismo domicilio fiscal, atendiendo al giro o actividad a realizar; debiendo acompañar los documentos siguientes:
-
-I. Folio del aviso de inscripción o apertura de establecimiento realizado en el Servicio de Administración Tributaria;
-
-II. Domicilio fiscal del contribuyente y del establecimiento;
-
-III. Giro o actividad;
-
-IV. En su caso, el número de licencia de bebidas alcohólicas con refrendo vigente;
-
-V. En su caso, el número de operación del recibo de pago de comodato vigente;
-
-VI. En su caso, número de autorización vigente para operar como casa de empeño y préstamo;
-
-VII. En su caso, número de autorización vigente para operar como prestador de servicios de seguridad privada;
-
-VIII. Obligaciones fiscales a cargo;
-
-IX. Clave Catastral;
-
-X. Correo electrónico, y
-
-XI. Folio Electrónico Registral del inmueble que ocupará el establecimiento.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 35.
 
-Tratándose de aumento de obligaciones se contará con tres días para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, para lo cual deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 36.
 
-Tratándose de disminución de obligaciones se contará con tres días para presentar el aviso correspondiente a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, para lo cual deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 37.
 
-Tratándose de cambio de domicilio, se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, acompañándose de la referencia de los documentos siguientes:
-
-a) Folio de aviso de cambio de domicilio del establecimiento realizado en el Servicio de Administración Tributaria;
-
-b) Domicilio fiscal del contribuyente;
-
-c) Domicilio del establecimiento y referencias;
-
-d) En su caso, número de licencia de bebidas alcohólicas con refrendo vigente;
-
-e) En su caso, número de operación del recibo de pago de comodato vigente;
-
-f) En su caso, número de autorización vigente para operar como casa de empeño y préstamo; y
-
-g) En su caso, número de autorización vigente para operar como operador de servicios de seguridad privada.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 38.
 
-Tratándose de cambio de giro o actividad, se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener la licencia de funcionamiento actualizada, acompañándose de la referencia de los documentos siguientes:
-
-a) Folio del aviso de actualización de actividades económicas y obligaciones del establecimiento realizado en el Servicio de Administración Tributaria; y
-
-b) Giro o actividad.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 39.
 
-Tratándose de cierre de establecimiento o suspensión de actividades se contará con un mes para presentar los avisos correspondientes a la Secretaría a través de los medios electrónicos dispuestos por ésta, a efecto de obtener cancelación de la Licencia de Funcionamiento, para lo cual deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley y acompañar a su aviso la referencia al folio del aviso de suspensión de actividades económicas del establecimiento realizado en el Servicio de Administración Tributaria.
-
-Las licencias a que se refiere este Apartado, deberán de exhibirse en lugar visible, a la vista del público en el establecimiento o local para el cual fueron expedidas, incluyendo las actualizadas derivadas de algún movimiento, y tendrán una vigencia al 31 de diciembre de cada ejercicio fiscal y deberán renovarse en los dos primeros meses del siguiente ejercicio fiscal; en efecto, para la procedencia de lo dispuesto en este párrafo se deberá haber dado cumplimiento a las obligaciones fiscales que hubiese tenido a su cargo o de existir alguna, cumplirlas en términos de Ley.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 40.
 
-La Secretaría se reserva la facultad de verificar mediante la inspección al establecimiento que la información proporcionada para la obtención de la Licencia de Funcionamiento o sus cambios y actualizaciones son auténticos, contrario a esto se impondrán las infracciones a que se refiere el Código.
-
-No se encuentran obligados a obtener Licencia de Funcionamiento, las personas físicas o morales que contraten personal por obra y tiempo determinado en obras de construcción, edificaciones de obra, acabados, modificaciones y/o remodelaciones.
-
-En caso de que el contribuyente fallezca, un tercero legalmente autorizado, podrá solicitar el cierre de establecimiento o suspensión de actividades, quien deberá acompañar el acta de defunción correspondiente en copia certificada, sujetándose a lo dispuesto en el artículo 139-A del Código.
-
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2019)</small>
-
-Para el caso de la expedición de la Licencia de Bebidas Alcohólicas, la Secretaría llevará a cabo la verificación física del establecimiento, previo el pago de derechos de 4.00 UMA.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 41.
 
-Por la expedición de las Licencias de Funcionamiento se causará anualmente un derecho con base a la tarifa siguiente:
-
-CONCEPTO UMA
-
-I. ACADEMIA DE BAILE 6.00
-
-II. ACADEMIA DE CORTE Y CONFECCIÓN 6.00
-
-III. AGENCIAS DE GUÍAS TURÍSTICAS 53.00
-
-IV. ACADEMIAS DE IDIOMAS 6.00
-
-V. ACADEMIA DE KARATE, JUDO, ETC. 6.00
-
-VI. ACADEMIA DE MÚSICA 8.00
-
-VII. AGENCIAS ADUANALES 53.00
-
-VIII. AGENCIAS QUE RENTEN
-
-BICICLETAS POR UNIDAD 3.00
-
-IX. AGENCIAS QUE RENTEN CALANDRIAS 6.00
-
-X. AGENCIAS QUE RENTEN AUTOMÓVILES
-
-POR UNIDAD 14.00
-
-XI. AGENCIAS QUE RENTEN LANCHAS
-
-DEPORTIVAS Y BARCOS POR UNIDAD 14.00
-
-XII. AGENCIAS QUE RENTEN
-
-MOTOCICLETAS POR UNIDAD 3.00
-
-XIII. AGENCIAS DE LOTERÍA NACIONAL 11.00
-
-XIV. AGENCIAS FUNERARIAS 11.00
-
-XV. AGENCIAS DE GAS DOMÉSTICOS O
-
-INDUSTRIAL, EXCEPTO ANHÍDRIDO CARBÓNICO 11.00
-
-XVI. AGENCIAS DE VEHÍCULOS 11.00
-
-XVII. AGENCIAS DE VIAJES 53.00
-
-XVIII. AGENCIAS DE PRONÓSTICOS DEPORTIVOS 11.00
-
-XIX. ARTESANÍAS 11.00
-
-XX. ARTÍCULO (SIC) ELECTRÍCOS Y NOVEDADES 16.00
-
-XXI. ACADEMIA COMERCIAL 11.00
-
-XXII. BODEGAS 8.00
-
-XXIII. BIENES RAÍCES 11.00
-
-XXIV. BONETERÍA, MERCERÍA Y NOVEDADES 6.00
-
-XXV. BILLARES 8.00
-
-XXVI. CONSTRUCTORAS 53.00
-
-XXVII. COCINAS ECONÓMICAS SIN
-
-VENTA DE BEBIDAS ALCOHÓLICAS 27.00
-
-XXVIII. CONGELADORAS Y EMPACADORAS 27.00
-
-XXIX. CARPINTERÍAS 27.00
-
-XXX. CLÍNICAS Y LABORATORIOS DE
-
-ANÁLISIS QUÍMICOS 27.00
-
-XXXI. CASA DE HUÉSPEDES 6.00
-
-XXXII. CARNICERÍA 11.00
-
-XXXIII. CINES Y TEATROS 27.00
-
-XXXIV. CAFETERÍA 8.00
-
-XXXV. ESTACIÓN DE SERVICIOS (GASOLINERÍAS) 53.00
-
-XXXVI. ESTANQUILLOS DE REVISTAS,
-
-PERIÓDICOS, ETC. 6.00
-
-XXXVII. ESTUDIOS FOTOGRÁFICOS 8.00
-
-XXXVIII. FABRICACIÓN Y VENTA DE
-
-PUERTAS, CANCELES, ETC. DE ALUMINIO 16.00
-
-XXXIX. FÁBRICA DE MUEBLES 27.00
-
-XL. FÁBRICA DE BLOQUES Y MOSAICOS 27.00
-
-XLI. FLORERÍAS 11.00
-
-XLII. FARMACIAS Y BOTICAS 11.00
-
-XLIII. FERRETERÍAS 16.00
-
-XLIV. FÁBRICA DE HIELO 16.00
-
-XLV. FRACCIONAMIENTO DE TERRENO 16.00
-
-Sobre el monto total del presupuesto de obras de urbanización por ejecutar en el fraccionamiento o en las zonas que van a desarrollarse 2%. En este caso los derechos comprenden los gastos de revisión y el estudio de planos y proyectos, así como la urbanización y se cobrarán en efectivo al quedar definidos los proyectos, antes de iniciar las obras.
-
-El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1%, en los mismos términos del párrafo anterior.
-
-XLVI. FABRICAS DE AGUAS PURIFICADAS
-
-NO GASEOSAS 14.00
-
-XLVII. HOTELES
-
-a) De lujo 105.00
-
-b) De primera clase 79.00
-
-c) De segunda clase 53.00
-
-XLVIII. IMPRENTAS 16.00
-
-XLIX. JOYERÍAS 27.00
-
-L. LÍNEAS DE TRANSPORTE URBANO
-
-POR CADA UNIDAD 6.00
-
-LI. LÍNEAS DE TRANSPORTE FORÁNEO 16.00
-
-LII. LÍNEAS DE TRANSPORTE AÉREO 53.00
-
-LIII. LIBRERÍAS, PAPELERÍAS Y
-
-ARTÍCULOS ESCOLARES 11.00
-
-LIV. MOLINOS PARA GRANOS 27.00
-
-LV. MADERERÍAS 16.00
-
-LVI. MUEBLERÍAS Y ARTÍCULOS PARA EL HOGAR 27.00
-
-LVII. ÓPTICAS 16.00
-
-LVIII. PESCADERÍAS 16.00
-
-LIX. PALETERÍAS Y NEVERÍAS 16.00
-
-LX. PERFUMES Y COSMÉTICOS 27.00
-
-LXI. POLLERÍAS 11.00
-
-LXII. RENTA DE EQUIPO DE BUCEO Y PESCA 27.00
-
-LXIII. AGENCIAS 53.00
-
-LXIV. RESTAURANTES, sin venta de bebidas alcohólicas,
-
-a) De lujo, hasta 53.00
-
-b) De primera clase 37.00
-
-c) Cenadurías 21.00
-
-d) Fondas 11.00
-
-LXV. REFACCIONARIA 16.00
-
-LXVI. ROSTICERÍA 11.00
-
-LXVII. RENTADORA DE VAJILLAS,
-
-MESAS, SILLAS, ETC. 27.00
-
-LXVIII. REFRESQUERÍA Y NEVERÍA 16.00
-
-LXIX. SALONES DE BELLEZA Y PELUQUERÍAS 16.00
-
-LXX. SASTRERÍAS 16.00
-
-LXXI. SALA DE ESTÉTICA Y BELLEZA 27.00
-
-LXXII. SERVICIO DE LAVADO Y ENGRASADO 16.00
-
-LXXIII. TALLER DE HERRERÍA 16.00
-
-LXXIV. TORTILLERÍA 11.00
-
-LXXV. TIENDA DE ABARROTES
-
-SIN VENTA DE BEBIDAS ALCOHÓLICAS 11.00
-
-LXXVI. TALLER DE ELECTRICIDAD
-
-Y ELECTRÓNICOS 16.00
-
-LXXVII. TALLER MECÁNICO 16.00
-
-LXXVIII. TRANSPORTE DE MATERIALES
-
-PARA CONSTRUCCIÓN, POR UNIDAD 8.00
-
-LXXIX. TALLER DE REPARACIÓN DE
-
-BICICLETAS Y MOTOS, POR UNIDAD 11.00
-
-LXXX. TALLER DE REPARACIÓN DE RELOJES 11.00
-
-LXXXI. TALLER DE REFRIGERACIÓN
-
-DOMÉSTICO Y AUTOMOTRIZ 21.00
-
-LXXXII. TALLER DE COSTURA 21.00
-
-LXXXIII. TIENDA DE ROPA, TELAS,
-
-ARTÍCULOS ELÉCTRICOS, ARTÍCULOS
-
-PARA REGALOS, NOVEDADES, ETC. 16.00
-
-LXXXIV. TIENDAS DE ARTÍCULOS
-
-DE IMPORTACIÓN 27.00
-
-LXXXV. TALLER DE HOJALATERÍA Y PINTURA 16.00
-
-LXXXVI. TALLER MECÁNICO AUTOMOTRIZ 16.00
-
-LXXXVII. TALLER DE ALINEACIÓN Y BALANCEO 21.00
-
-LXXXVIII. TINTORERÍAS Y LAVANDERÍAS 11.00
-
-LXXXIX. VENTA DE MATERIALES
-
-PARA CONSTRUCCIÓN 16.00
-
-XC. VENTA DE CORTINAS, CORTINEROS,
-
-TAPICES, ALFOMBRAS, ETC. 16.00
-
-XCI. VENTA DE MUEBLES Y EQUIPOS
-
-PARA OFICINA 21.00
-
-XCII. VENTA DE ARTÍCULOS DE PLÁSTICO 11.00
-
-XCIII. VENTA DE SEGUROS 11.00
-
-XCIV. VENTA DE ARTÍCULOS DEPORTIVOS 27.00
-
-XCV. VENTA DE FRUTAS Y VERDURAS 11.00
-
-XCVI. VENTA DE JUGOS Y LICUADOS 11.00
-
-XCVII. VENTA DE DISCOS, CARTUCHOS,
-
-CASSETES, ETC. 16.00
-
-XCVIII. VULCANIZADORAS 11.00
-
-XCIX. ZAPATERÍAS 11.00
-
-C. COCTELERÍA SIN VENTA DE CERVEZA 11.00
-
-CI. RENTADORA DE PELÍCULAS DE VIDEOS 16.00
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 42.
 
-Los giros que no se encuentren especificados en las fracciones que anteceden, serán equiparados por similitud con los mismos; en el supuesto de que no se encuentre uno semejante se aplicará hasta 53.00 UMA
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-APARTADO B
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-DE LOS SERVICIOS DE CONTROL VEHICULAR
+#### SECCIÓN TERCERA. POR EL CONTROL, VIGILANCIA Y EVALUACIÓN
 
-#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
+###### Artículo 42
 
-#### SECCIÓN DÉCIMA TERCERA. SECRETARÍA DE LA CONTRALORÍA
+Bis.Por los servicios que preste la Dirección General de Licencias de Bebidas Alcohólicas, se causarán los derechos, conforme a la tarifa siguiente:
+
+CONCEPTO TARIFA
+
+EXPEDICIÓN DE LICENCIAS. UMA
+
+I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 3,624.00
+
+II. Venta de bebidas alcohólicas en envase abierto o al copeo; 5,072.00
+
+III. Venta de bebidas alcohólicas en envase cerrado; 2,898.00
+
+IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo, y 5,072.00
+
+V. Bodega o almacén de bebidas alcohólicas como sucursal sin venta directa al público. SIN COSTO
+
+Para la expedición de licencias únicas, se pagará la tarifa correspondiente por cada giro o establecimiento, que incluya esta licencia.
+
+CONCEPTO TARIFA
+
+CAMBIO DE PROPIETARIO. UMA
+
+I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 604.00
+
+II. Venta de bebidas alcohólicas en envase abierto o al copeo; 800.00
+
+III. Venta de bebidas alcohólicas en envase cerrado; 483.00
+
+IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 604.00
+
+CONCEPTO TARIFA
+
+CAMBIO DE DOMICILIO UMA
+
+I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 363.00
+
+II. Venta de bebidas alcohólicas en envase abierto o al copeo 724.00
+
+III. Venta de bebidas alcohólicas en envase cerrado; 289.00
+
+IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 363.00
+
+El derecho por cambio de giro corresponderá a la diferencia entre el costo del giro autorizado y el giro solicitado.
+
+Por la transferencia temporal del uso de los derechos y obligaciones de una licencia de bebidas alcohólicas, mediante el contrato de comodato se generará a cargo del comodatario un derecho equivalente a:
+
+CONCEPTO TARIFA
+
+COMODATO UMA
+
+l. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 237.00
+
+II. Venta de bebidas alcohólicas en envase abierto o al copeo; 355.00
+
+III. Venta de bebidas alcohólicas en envase cerrado; 118.00
+
+IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 307.00
+
+Las licencias de bebidas alcohólicas se deberán refrendar anualmente en la Secretaría, dentro de los primeros dos meses del año, de acuerdo con las tarifas siguientes:
+
+CONCEPTO TARIFA
+
+REFRENDO UMA
+
+l. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos; 213.00
+
+II. Venta de bebidas alcohólicas en envase abierto o al copeo; 319.00
+
+III. Venta de bebidas alcohólicas en envase cerrado; 106.00
+
+IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 276.00
+
+CONCEPTO TARIFA
+
+PERMISOS ESPECIALES. UMA
+
+I. Cuando se enajenen bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominados souvenirs; 240.00
+
+II. Por evento; 80.00
+
+III. Servicio público especializado. 110.00
+
+CONCEPTO TARIFA
+
+PERMISO PROVISIONAL UMA
+
+I. Venta de bebidas alcohólicas en envase abierto o al copeo, exclusivamente con alimentos. 100.00
+
+II. Venta de bebidas alcohólicas en envase abierto o al copeo 120.00
+
+III. Venta de bebidas alcohólicas en envase cerrado; 80.00
+
+IV. Venta de bebidas alcohólicas en envase cerrado para su distribución al mayoreo. 150.00
+
+OTROS CONCEPTOS UMA
+
+I. Renovación 40.00
+
+II. Reposición de licencia 53.00
+
+> <small>(REFORMADA [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN CUARTA. DE LA APERTURA DE CASA DE EMPEÑO O PRÉSTAMO
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 43.
 
 Todos los servicios de control vehicular que proporcione la Secretaría causarán los derechos de conformidad a la tarifa siguiente:
 
-I.- Vehículos que se matriculen y registren en el Estado
-
 CONCEPTO UMA
+
+I. Vehículos que se matriculen y registren en el Estado
 
 a) Automóviles y Camiones 2.30
 
@@ -1075,83 +901,95 @@ e) Carros de mano 0.58
 
 f) Remolques:
 
-hasta de 15 toneladas 1.15
+1. hasta de 15 toneladas 1.15
 
-De más de 15 a 20 toneladas 1.73
+2. De más de 15 a 20 toneladas 1.73
 
-De más de 20 toneladas 2.88
+3. De más de 20 toneladas 2.88
 
 g) Embarcaciones particulares:
 
-de 5 a 10 metros 4.30
+1. de 5 a 10 metros 4.30
 
-De más de 10 metros 5.18
+2. De más de 10 metros 5.18
 
 h) Embarcaciones para servicio público:
 
-Hasta de 5 metros 15.53
+1. Hasta de 5 metros 15.53
 
-De más de 5 hasta 10 metros 22.43
+2. De más de 5 hasta 10 metros 22.43
 
-De más de 10 metros 51.75
+3. De más de 10 metros 51.75
 
-II.- Derechos por control vehicular por dotación y canje de placas:
+II. Derechos por control vehicular por dotación y canje de placas:
 
-a) Para automóviles, camionetas, camiones y autobuses 13.50 UMA.
+a) Para automóviles, camionetas, camiones y autobuses 13.50
 
-b) Para remolques 6.25 UMA.
+b) Para remolques 6.25
 
-c) Para motocicletas 4.50 UMA.
+c) Para motocicletas 4.50
 
-d) Para bicicletas de servicio particular 1.15 UMA y servicio público 1.70 UMA.
+d) Para bicicletas de:
 
-e) Para triciclos de servicio particular 1.15 UMA y servicio público 3.45 UMA.
+1. servicio particular 1.15
 
-f) Para carros de tracción animal 1.15 UMA.
+2. servicio público 1.70
 
-g) Para carros de mano 1.15 UMA.
+e) Para triciclos de:
 
-h) Para automóviles utilizados para demostración 17.25 UMA.
+1. servicio particular 1.15
 
-Los derechos por dotación de placas a que se refiere esta fracción deberán pagarse dentro de los treinta días hábiles siguientes a la fecha de facturación o a la fecha de la legal introducción al país o pedimento cuando se trate de vehículos usados de importación o inmediatamente previo al alta correspondiente en el padrón vehicular cuando se trate de vehículos emplacados en otras entidades federativas.
+2. servicio público 3.45
 
-Los derechos por canje de placas deberán pagarse los primeros tres meses de cada tres años, contados a partir del último canje autorizado por el titular del Poder Ejecutivo del Estado de Quintana Roo.
+f) Para carros de tracción animal 1.15
 
-III.- Derechos por control vehicular por revalidación y refrendo:
+g) Para carros de mano 1.15
 
-a) Para los incisos a) y b) de la fracción anterior por el servicio de revalidación de placas vehiculares 3.45 UMA.
+h) Para automóviles utilizados para demostración 17.25
 
-b) Para el inciso c) de la fracción anterior por el servicio de revalidación de placas vehiculares para el servicio particular 1.15 UMA y para el servicio público 2.00 veces la UMA.
+Los derechos por dotación de placas a que se refiere esta fracción deberán pagarse dentro de los treinta días hábiles siguientes a la fecha de facturación o a la fecha de la legal introducción al país o pedimento cuando se trate de vehículos usados de importación o inmediatamente previo al alta correspondiente en el Registro Estatal Vehicular cuando se trate de vehículos emplacados en otras entidades federativas.
 
-c) Para el inciso h) de la fracción anterior por su refrendo anual 4.60 UMA.
+Los derechos por canje de placas deberán pagarse los primeros tres meses de cada tres años, contados a partir del último canje autorizado por el titular del Poder Ejecutivo del Estado.
+
+CONCEPTO UMA
+
+III. Derechos por control vehicular por refrendo:
+
+a) Para los incisos a) y b) de la fracción anterior por el servicio de refrendo de placas vehiculares 3.45
+
+b) Para el inciso c) de la fracción anterior por el servicio de refrendo de placas vehiculares para el:
+
+1. Servicio particular 1.15
+
+2. Servicio público 2.00
+
+c) Para el inciso h) de la fracción anterior por su refrendo anual 4.60
 
 El plazo del pago de los derechos a que se refiere esta fracción será los primeros tres meses de cada año.
 
-IV.- Por permisos provisionales para circulación de vehículos por:
+IV. Por permisos provisionales para circulación de vehículos por:
 
-a) 15 días sin placas, 3.45 UMA.
+a) 15 días sin placas, 3.45
 
-b) 30 días sin placas, 6.90 UMA.
+b) 30 días sin placas, 6.90
 
-V.- Derechos por control vehicular por la expedición y reposición de la tarjeta de circulación por un año 1.25 UMA.
+V. Derechos por control vehicular por la expedición y reposición de la tarjeta de circulación por un año 1.25
 
-VI.- Derechos por control vehicular por inscripción y refrendo en el padrón estatal de embarcaciones 3.00 UMA.
+VI. Derechos por control vehicular por inscripción y refrendo en el padrón estatal de embarcaciones 3.00
 
-Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
+Tratándose de personas afiliadas al Instituto Nacional de las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
 
 El plazo para la inscripción de embarcaciones será de treinta días hábiles a partir de la fecha de facturación o a la fecha de la legal introducción al país o pedimento cuando se trate de embarcaciones usadas de importación o inmediatamente previo a la inscripción correspondiente en el padrón estatal de embarcaciones cuando se trate de embarcaciones inscritas en otras entidades federativas; para el refrendo, los primeros tres meses de cada año contados a partir de la inscripción.
 
-VII.- Por la expedición de historial de pagos 2.00 UMA.
+CONCEPTO UMA
 
-VIII.- Por la búsqueda de registro vehicular en otras entidades federativas 2.00 UMA
+VII. Por la expedición de historial de pagos 2.00
+
+VIII. Por la búsqueda de registro vehicular en otras entidades federativas 2.00
 
 ###### Artículo 44.
 
-Los derechos por los servicios de control vehicular que preste el Gobierno del Estado, que no sean pagados dentro de los plazos previstos en esta Ley, causarán recargos conforme a lo establecido por el Código.
-
-La Secretaría, solicitará el apoyo de la unidad administrativa competente de la Secretaría de Seguridad Pública en materia de control vehicular, para realizar los actos de verificación y comprobación.
-
-Independientemente de lo señalado en el párrafo anterior, se aplicarán las sanciones que correspondan conforme al Código.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 45.
 
@@ -1171,67 +1009,61 @@ V. Informar a la Secretaría de Hacienda y Crédito Público de los movimientos 
 
 Los contribuyentes tendrán la obligación de efectuar los trámites de altas, bajas, cambios y rectificaciones que procedan en el registro, conforme a lo dispuesto en el Reglamento del Código.
 
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 APARTADO C
 
 DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
 
 ###### Artículo 47.
 
-Por la verificación, control y fiscalización que las leyes en la materia encomiendan a la Secretaría de la Contraloría y al Órgano de Fiscalización Superior del Estado, los contratistas con quien se celebren los contratos de Obra Pública Estatal o para los servicios relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-Las dependencias y organismos auxiliares de la Administración Pública Estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior y lo enterarán a la oficina, establecimiento o institución de crédito autorizada por la Secretaría, quien a su vez registrará el 50% de todo lo recaudado por este concepto a favor de la partida presupuestal de la Secretaría de la Contraloría y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo. El otro 50% de todo lo recaudado por este concepto será transferido por la Secretaría al Órgano de Fiscalización Superior del Estado para su integración al Fondo para el Fortalecimiento de la Fiscalización Superior.
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA CUARTA. OFICIALÍA MAYOR
+#### SECCIÓN QUINTA. DEL INSTITUTO GEOGRÁFICO Y CATASTRAL DEL ESTADO
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 48.
 
 Por llevar a cabo el control, vigilancia y evaluación de los recursos que se reciban por convenios o de Programas Federales, se retendrá, hasta el equivalente de 5 al millar del monto total de los recursos aportados en efectivo; importe que será ejercido conforme a los lineamientos convenidos.
 
-APARTADO D
+> <small>(REFORMADA [N. DE E. ANTES APARTADO D], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-POR LA APERTURA DE CASA DE EMPEÑO O PRÉSTAMO
+#### SECCIÓN SEXTA. DE LOS SERVICIOS EN ZONAS ARQUEOLÓGICAS
 
-#### SECCIÓN DÉCIMA QUINTA. SECRETARÍA DE SEGURIDAD PÚBLICA
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 49.
 
 Por el trámite y expedición para la apertura y operación de casas de empeño o préstamos, causarán los siguientes derechos con base a la tarifa siguiente:
 
-a) Por el análisis y calificación de documentos para la apertura de casa de empeño o préstamo 130.00 UMA.
+CONCEPTO UMA
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+I. Por el análisis y calificación de documentos para la apertura de casa de empeño o préstamo 130.00
 
-b) Por el análisis y calificación de documentos para la revalidación anual, para operar casas de empeño o préstamo 110.00 UMA.
+II. Por el análisis y calificación de documentos para la revalidación anual, para operar casas de empeño o préstamo 110.00
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+III. Por el análisis y calificación de documentos para la modificación o cancelación al registro para operar casas de empeño o préstamo 110.00
 
-c) Por el análisis y calificación de documentos para la modificación o cancelación al registro para operar casas de empeño o préstamo 110.00 UMA.
+> <small>(REFORMADA [N. DE E. ANTES APARTADO E], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-APARTADO E
-
-INSTITUTO GEOGRÁFICO Y CATASTRAL DEL ESTADO
-
-#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE DESARROLLO TERRITORIAL URBANO SUSTENTABLE
 
 ###### Artículo 50.
 
-Los servicios prestados por el Instituto Geográfico y Catastral del Estado (IGECE), causarán derechos cuyo pago deberá efectuarse al momento de solicitarse el servicio y de acuerdo con la tarifa siguiente:
-
-I. Por la subdivisión de predios:
+Los servicios prestados por el Instituto Geográfico y Catastral del Estado, causarán derechos cuyo pago deberá efectuarse al momento de solicitarse el servicio y de acuerdo con la tarifa siguiente:
 
 CONCEPTO UMA
+
+I. Por la subdivisión de predios:
 
 a) cuando resulten dos lotes 4.60
 
 b) Cuando resulten más de dos lotes, por lote excedente 4.00
 
 II. Expedición de croquis y planos:
-
-CONCEPTO UMA
 
 a) Plano de localización impreso tamaño carta o
 
@@ -1273,45 +1105,41 @@ o archivo digital (formato PDF) 10.00
 
 h) Por Ortofoto en archivo digital (formato PDF) 15.00
 
-III. Por copias de planos.
-
-CONCEPTO UMA
+III. Por copias de planos:
 
 a) En papel bond blanco y negro.
 
-Tamaño carta 3.00
+1. Tamaño carta 3.00
 
-Tamaño doble carta 5.00
+2. Tamaño doble carta 5.00
 
-Tamaño 45x60 cm 6.00
+3. Tamaño 45x60 cm 6.00
 
-Tamaño 90x60 cm 8.00
+4. Tamaño 90x60 cm 8.00
 
-Tamaño 90x120 cm 10.00
+5. Tamaño 90x120 cm 10.00
 
 b) Copias en papel bond a color.
 
-Tamaño carta 4.00
+1. Tamaño carta 4.00
 
-Tamaño doble carta 6.00
+2. Tamaño doble carta 6.00
 
-Tamaño 45x60 cm 8.00
+3. Tamaño 45x60 cm 8.00
 
-Tamaño 90x60 cm 10.00
+4. Tamaño 90x60 cm 10.00
 
-Tamaño 90x120 cm 12.00
+5. Tamaño 90x120 cm 12.00
 
-IV. Por expedición de certificados de valor catastral 4.00 UMA.
+IV. Por expedición de certificados de valor catastral 4.00
 
 V. Por la práctica de avalúos del suelo que realicen peritos designados por el IGECE a solicitud del interesado, se ajustará a lo siguiente:
-
-CONCEPTO UMA
 
 a) Terrenos Urbanos
 
 1. Hasta de 150 metros cuadrados 15.00
 
-2. De 151 250 metros cuadrados 20.00
+2. De 151 a 250 metros cuadrados 20.00
 
 3. De 251 a 500 metros cuadrados 35.00
 
@@ -1328,8 +1156,6 @@ que resulte entre la distancia de la sede
 del IGECE al lugar de prestación por
 
 servicio se cobrarán: 10.00
-
-CONCEPTO UMA
 
 b) Predios rústicos
 
@@ -1353,11 +1179,9 @@ VI. Por deslinde y levantamiento topográfico de predios rústicos y urbanos, se
 
 a) Predios rústicos.
 
-CONCEPTO UMA
-
 1. De hasta una hectárea 60.00
 
-2. De mas de 1 hectárea a 5 hectáreas 120.00
+2. De más de 1 hectárea a 5 hectáreas 120.00
 
 3. De más de 5 hectáreas a 10 hectáreas 180.00
 
@@ -1374,8 +1198,6 @@ del predio
 b) Predios urbanos.
 
 Se aplicará la tabla de predios rústicos, para el caso de los predios urbanos en el que la superficie sea mayor de una hectárea.
-
-CONCEPTO UMA
 
 1. Certificado de deslinde y levantamiento de
 
@@ -1395,8 +1217,6 @@ predios urbanos, lotes de 5001 hasta
 
 VII. Los servicios catastrales no previstos en esta sección, pagarán una cuota que no excederá del costo de los mismos, la que será fijada por el Gobierno del Estado.
 
-CONCEPTO UMA
-
 VIII. Constancias de inexistencia de registro
 
 en la plataforma Catastral. 6.00
@@ -1405,63 +1225,101 @@ Por cada 25 kilómetros o fracción adicional,
 
 que resulte entre la distancia de la sede del
 
-IGECE al lugar de prestación por servicio se cobrarán 10.00
+IGECE al lugar de prestación por servicio se cobrarán: 10.00
 
-IX. Constancias de Registro 6.00 UMA.
+IX. Constancias de Registro 6.00
 
 X. Realización de vuelo fotogramétrico georreferenciado mediante RPAS (equipo aéreo no tripulado) según lo siguiente:
 
-CONCEPTO UMA
-
 a) Predios de 1 a 80 hectáreas. 370.00
 
-b) Predio de más de 80 el costo del inciso a). más 15.00 UMA
+b) Predio de más de 80 hectáreas más 15.00 UMA
 
-por cada
+el costo del inciso a). por cada
 
 5 hectáreas
 
 adicionales.
 
-XI. Por dictámenes técnicos en agrimensura o planimetría 60.00 UMA.
+XI. Por dictámenes técnicos en agrimensura o planimetría 60.00
 
-Por cada 25 kilómetros o fracción adicional, que resulte entre la distancia de la sede del IGECE al lugar de prestación por servicio se cobrarán 10.00 UMA.
+XII. Por cada 25 kilómetros o fracción adicional, que resulte entre la distancia de la sede del IGECE al lugar de prestación por servicio se cobrarán: 10.00
+
+XIII. Constancia de Actualización de datos catastrales 8.00
 
 ###### Artículo 51.
 
-Constancia de Actualización de datos catastrales 8.00 UMA.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN SEGUNDA. DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL
 
-#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
+###### Artículo 51
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+Bis. Por el Uso de las Unidades de Servicio en sitios inmediatos a las zonas arqueológicas, se causarán los derechos, conforme a la tarifa siguiente:
 
-#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
+CONCEPTO UMA
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+I. Cobá 0.8876
 
-#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
+II. Chacchoben 0.7101
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+III. Dzibanché-Kinichná 0.7101
 
-#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
+IV. El Meco 0.6509
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+V. El Rey 0.6509
 
-#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
+VI. Museo Maya de Cancún 0.8876
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+VII. Kohunlich 0.8876
 
-### CAPÍTULO I. FISCALÍA GENERAL DEL ESTADO
+VIII. Muyil 0.5326
 
-#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
+IX. Oxtankah 0.6509
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+X. San Gervasio 0.8876
+
+XI. San Miguelito 0.8876
+
+XII. Tulum 0.8876
+
+XIII. Xelhá 0.8876
+
+XIV. Xcaret 0.8876
+
+Pagarán el 50% de los derechos a que se refiere este artículo las personas mayores de 60 años, menores de 10 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a los museos, monumentos y zonas arqueológicas a que se refiere este artículo.
+
+Estarán exentos del pago de este derecho los visitantes nacionales y extranjeros residentes en México, los domingos.
+
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN CUARTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. DEL INSTITUTO DE BIODIVERSIDAD Y ÁREAS NATURALES PROTEGIDAS
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN TERCERA. DE LA PROCURADURÍA DE PROTECCIÓN AL AMBIENTE
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN SÉPTIMA. SECRETARÍA DE DESARROLLO ECONÓMICO
+
+#### SECCIÓN OCTAVA. SECRETARÍA DE TRABAJO Y PREVISIÓN SOCIAL
+
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO IV. DE LA SECRETARÍA DE OBRAS PÚBLICAS
+
+#### SECCIÓN SEGUNDA. DEL REGISTRO DE TÍTULOS PROFESIONALES
 
 ###### Artículo 52.
 
@@ -1535,15 +1393,9 @@ III. Por la reposición de la Acreditación de Asesor
 
 Inmobiliario 15.00
 
-APARTADO A
+> <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-DE LA CONSTANCIA DE COMPATIBILIDAD TERRITORIAL
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
-
-#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN ÚNICA. EN HOSPITALES Y JURISDICCIONES SANITARIAS
 
 ###### Artículo 54.
 
@@ -1551,83 +1403,29 @@ Por el análisis y calificación de proyectos para la expedición de la Constanc
 
 CONCEPTO DE CONSTANCIA UMA
 
-I. Constancia de Compatibilidad Territorial en modalidad
+I. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para construcción o ampliación de vialidades regionales, metropolitanas u otros componentes de la infraestructura para la movilidad que comuniquen a más de un municipio: 0.2% del presupuesto de obras.
 
-de Dictamen de Impacto Territorial para construcción o
+II. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para Vialidades Primarias, tales como periféricos y libramientos: 0.2 % del presupuesto de la obra.
 
-ampliación de vialidades regionales, metropolitanas u otros
+III. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para centrales de carga, terminales multimodales, centrales de autobuses, ferrocarriles, aeropuertos:
 
-componentes de la infraestructura para la movilidad que
+a) Por metro cuadrado de superficie de construcción: 0.40
 
-comuniquen a más de un municipio: 0.2% del presupuesto
+IV. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para plantas de almacenamiento y venta de combustibles para servicio público o privado: Por m2 de superficie de terreno: 0.50
 
-de obras.
+V. Constancia de Compatibilidad Territorial para equipamiento institucional educativo, de salud, abasto o mercado, religioso o recreación, mayores de 1,500 m2 de construcción o mayores de 2,500 m2 de superficie; por m2 de superficie de construcción 0.30
 
-II. Constancia de Compatibilidad Territorial en modalidad de
+VI. Constancia de Compatibilidad Territorial para todas las acciones urbanísticas mayores de 2,500 m2 de superficie o de 1,500 m2 de construcción, a excepción de lo dispuesto en las fracciones V y VIII del presente artículo:
 
-Dictamen de Impacto Territorial para Vialidades Primarias,
+a) Por m2 de superficie de construcción para categoría económica y popular: 0.30
 
-tales como periféricos y libramientos: 0.2 % del presupuesto
+b) Por m2 de superficie de construcción para categoría tradicional y media: 0.60
 
-de la obra.
+c) Por m2 de superficie de construcción para categoría residencial y comercial: 0.75
 
-III. Constancia de Compatibilidad Territorial en modalidad de
+d) Por m2 de superficie de construcción para categoría residencial plus: 0.90
 
-Dictamen de Impacto Territorial para centrales de carga,
-
-terminales multimodales, centrales de autobuses, ferrocarriles,
-
-aeropuertos:
-
-Por metro cuadrado de superficie de construcción: 0.40
-
-IV. Constancia de Compatibilidad Territorial en modalidad
-
-de Dictamen de Impacto Territorial para plantas de
-
-almacenamiento y venta de combustibles para servicio
-
-público o privado: Por m2 de superficie de terreno: 0.50
-
-V. Constancia de Compatibilidad Territorial para
-
-equipamiento institucional educativo, de salud,
-
-abasto o mercado, religioso o recreación, mayores
-
-de 1,500 m2 de construcción o mayores de 2,500 m2
-
-de superficie; por m2 de superficie de construcción 0.30
-
-VI. Constancia de Compatibilidad Territorial para todas
-
-las acciones urbanísticas mayores de 2,500 m2 de
-
-superficie o de 1,500 m2 de construcción, a excepción
-
-de lo dispuesto en las fracciones V y VIII del presente
-
-artículo:
-
-a) Por m2 de superficie de construcción para categoría
-
-económica y popular 0.30
-
-b) Por m2 de superficie de construcción para categoría tradicional y
-
-media: 0.60
-
-c) Por m2 de superficie de construcción para categoría residencial y
-
-comercial: 0.75
-
-d) Por m2 de superficie de construcción para categoría
-
-residencial plus: 0.90
-
-VII. Constancia de Compatibilidad Territorial para zonificación
-
-incluyente:
+VII. Constancia de Compatibilidad Territorial para zonificación incluyente:
 
 a) Por m2 de superficie de terreno: 0.03
 
@@ -1635,221 +1433,103 @@ b) Predios de 50 a 99 hectáreas: 0.02
 
 c) Predios a partir de 100 hectáreas por m2: 0.01
 
-VIII. Constancia de Compatibilidad Territorial para
+VIII. Constancia de Compatibilidad Territorial para Acciones Urbanísticas en modalidad de Hoteles mayores de 1,200 m2 de superficie de construcción:
 
-Acciones Urbanísticas en modalidad de Hoteles mayores
+a) Por m2 de superficie de construcción para hotel de 1 a 2 estrellas, categoría económica: 0.45
 
-de 1,200 m2 de superficie de construcción:
+b) Por m2 de superficie de construcción para hotel de 3 estrellas, categoría media: 0.75
 
-a) Por m2 de superficie de construcción para hotel de 1 a
+c) Por m2 de superficie de construcción para hotel de 4 estrellas, categoría alta: 0.90
 
-2 estrellas, categoría económica: 0.45
+d) Por m2 de superficie de construcción para hotel de 5 estrellas o más, categoría: 1.05
 
-b) Por m2 de superficie de construcción para hotel de 3
+IX. Constancia de Compatibilidad Territorial para industrias de cualquier tipo, por m2 de superficie de construcción: 0.40
 
-estrellas, categoría media: 0.75
+X. Constancia de Compatibilidad Territorial para relotificación, parcelación o subdivisión de terrenos con superficies igual o mayor a los 5,500 m2 por fracción resultante: 12.00
 
-c) Por m2 de superficie de construcción para hotel de 4
+XI. Constancia de Compatibilidad Territorial para fusión de terrenos con superficie resultante igual o mayor a los 5,000 m2: 12.00
 
-estrellas, categoría alta: 0.90
+XII. Constancia de Compatibilidad Territorial para Fraccionamientos o Conjuntos Urbanos
 
-d) Por m2 de superficie de construcción para hotel de 5
+a) Fraccionamientos o Conjuntos Urbanos en cualquiera de sus modalidades (m2 de superficie de vialidad): 0.5% del presupuesto de las obras de urbanización según los m2 de la superficie de vialidad.
 
-estrellas o más, categoría: 1.05
+b) En el caso de modificación del Fraccionamiento o Conjunto Urbano, este derecho será adicional al presupuesto de obras de urbanización que se incrementen: 40.00
 
-IX. Constancia de Compatibilidad Territorial para industrias
+XIII. Constancia de Compatibilidad Territorial para construcción o modificación de Régimen de Propiedad en Condominio:
 
-de cualquier tipo, por m2 de superficie de construcción: 0.40
+a) Por cada Unidad en el caso de desarrollos habitacionales de categoría económica y popular: 16.00
 
-X. Constancia de Compatibilidad Territorial para
+b) Por cada Unidad en el caso de desarrollos habitacionales de categoría tradicional y media: 24.00
 
-relotificación, parcelación o subdivisión de terrenos
-
-con superficies igual o mayor a los 5,500 m2 por
-
-fracción resultante: 12.00
-
-XI. Constancia de Compatibilidad Territorial para
-
-fusión de terrenos con superficie resultante igual o
-
-mayor a los 5,000 m2: 12.00
-
-XII. Constancia de Compatibilidad Territorial para
-
-Fraccionamientos o Conjuntos en cualquiera de sus
-
-modalidades: 0.5% del presupuesto de las obras de
-
-urbanización según los m2 de la superficie de vialidad.
-
-XIII. Constancia de Compatibilidad Territorial para
-
-construcción o modificación de Régimen de Propiedad
-
-en Condominio:
-
-a) Por cada Unidad en el caso de desarrollos
-
-habitacionales de categoría económica y popular: 16.00
-
-b) Por cada Unidad en el caso de desarrollos
-
-habitacionales de categoría tradicional y media: 24.00
-
-c) Por cada Unidad en el caso de desarrollo
-
-habitacionales de categoría residencial y residencial
-
-plus: 48.00
+c) Por cada Unidad en el caso de desarrollo habitacionales de categoría residencial y residencial plus: 48.00
 
 d) Por cada Unidad comercial: 52.00
 
-e) En el caso de modificación de Régimen de Propiedad
+e) En el caso de modificación de Régimen de Propiedad en Condominio, este derecho será adicional al de las unidades de propiedad exclusiva que se incrementen: 40.00
 
-en Condominio, este derecho será adicional al de las
+XIV. Constancia de Compatibilidad Territorial para modificación, demolición o ampliación de inmuebles de patrimonio cultural: Por m2 de la superficie de construcción: 0.40
 
-unidades de propiedad exclusiva que se incrementen: 40.00
+XV. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para Bancos de Extracción de Materiales Pétreos; por m2 de superficie de terreno: 0.05
 
-XIV. Constancia de Compatibilidad Territorial para
-
-modificación, demolición o ampliación de inmuebles de
-
-patrimonio cultural: Por m2 de la superficie de construcción 0.40
-
-XV. Constancia de Compatibilidad Territorial en modalidad
-
-de Dictamen de Impacto Territorial para Bancos de Extracción
-
-de Materiales Pétreos; por m2 de superficie de terreno: 0.05
-
-XVI. Constancia de Compatibilidad Territorial en modalidad
-
-de Dictamen de Impacto Territorial para proyectos de
-
-vivienda que tengan más de 15,000 m2 de construcción.
+XVI. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para proyectos de vivienda que tengan más de 15,000 m2 de construcción.
 
 a) Para Fraccionamientos o Conjuntos Urbanos:
 
-- 0.5% del presupuesto de las obras de urbanización
+1. 0.5% del presupuesto de las obras de urbanización según los m2 de superficie de vialidad.
 
-según los m2 de superficie de vialidad.
+b) Para constitución de Régimen de Propiedad en Condominio:
 
-b) Para constitución de Régimen de Propiedad en
+1. Por Unidad para categoría económica y popular: 16.00
 
-Condominio:
+2. Por Unidad para categoría tradicional y media: 24.00
 
-- Por Unidad para categoría económica y popular: 16.00
+3. Por Unidad para categoría residencial y residencial plus: 48.00
 
-- Por Unidad para categoría tradicional y media: 24.00
+4. Por Unidad privativa para categoría comercial: 52.00
 
-- Por Unidad para categoría residencial y residencial plus 48.00
+XVII. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para proyectos que incluyan oficinas, comercios o servicios, por más de 4,500 m2 de construcción: Por m2 de superficie de construcción: 0.90
 
-- Por Unidad privativa para categoría comercial: 52.00
+XVIII. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para establecimientos mercantiles en los que se pretenda preponderantemente la venta de artículos que conforman la canasta de productos básicos, bajo el sistema de autoservicio, de más de 900 m2 de construcción, por m2 de superficie de construcción: 0.50
 
-XVII. Constancia de Compatibilidad Territorial en modalidad
+XIX. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para industrias de más de 3,000 m2 de superficie de construcción, por m2 de superficie de construcción 0.50
 
-de Dictamen de Impacto Territorial para proyectos que
-
-incluyan oficinas, comercios o servicios, por mas de 4,500 m2
-
-de construcción: Por m2 de superficie de construcción: 0.90
-
-XVIII. Constancia de Compatibilidad Territorial en
-
-modalidad de Dictamen de Impacto Territorial para
-
-establecimientos mercantiles en los que se pretenda
-
-preponderantemente la venta de artículos que
-
-conforman la canasta de productos básicos, bajo el
-
-sistema de autoservicio, de más de 900 m2 de
-
-construcción, por m2 de superficie de construcción: 0.50
-
-XIX. Constancia de Compatibilidad Territorial en
-
-modalidad de Dictamen de Impacto Territorial para
-
-industrias de más de 3,000 m2 de superficie de construcción,
-
-por m2 de superficie de construcción: 0.50
-
-XX. Constancia de Compatibilidad Territorial en
-
-modalidad de Dictamen de Impacto Territorial para
-
-equipamiento institucional educativo, de salud, abasto
-
-o mercado, recreación que brinden servicios
-
-regionales o que supongan edificaciones mayores a
-
-4,500 m2 de superficie de construcción: 0.45
+XX. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial para equipamiento institucional educativo, de salud, abasto o mercado, recreación que brinden servicios regionales o que supongan edificaciones mayores a 4,500 m2 de superficie de construcción: 0.45
 
 Todos los demás causarán derechos conforme a lo establecido en la fracción XVII del presente artículo.
 
-XXI. Constancia de Compatibilidad Territorial en modalidad
-
-de Dictamen de Impacto Territorial por densificación urbana:
+XXI. Constancia de Compatibilidad Territorial en modalidad de Dictamen de Impacto Territorial por densificación urbana:
 
 a) Hoteles:
 
-- Por cuarto densificado para hotel de 1 a 2 estrellas,
+1. Por cuarto densificado para hotel de 1 a 2 estrellas, categoría económica: 100.00
 
-categoría económica: 100.00
+2. Por cuarto densificado para hotel de 3 estrellas, categoría media: 150.00
 
-- Por cuarto densificado para hotel de 3 estrellas,
+3. Por cuarto densificado para hotel 4 estrellas, categoría alta: 200.00
 
-categoría media: 150.00
+4. Por cuarto densificado para hotel 5 estrellas, o más, categoría lujo 250.00
 
-- Por cuarto densificado para hotel 4 estrellas,
-
-categoría alta: 200.00
-
-- Por cuarto densificado para hotel 5 estrellas, o
-
-más, categoría lujo: 250.00
-
-Este derecho será adicional al derecho causado por
-
-las viviendas permitidas de acuerdo al uso de suelo
-
-correspondiente, independientemente de las medidas
-
-de mitigación y/o compensación que resultaren.
+Este derecho será adicional al derecho causado por las viviendas permitidas de acuerdo al uso de suelo correspondiente, independientemente de las medidas de mitigación y/o compensación que resultaren.
 
 b) Habitacional:
 
-- Por vivienda densificado para categoría económica y
+1. Por vivienda densificada para categoría económica y popular: 50.00
 
-popular: 50.00
+2. Por vivienda densificada para categoría tradicional y media: 150.00
 
-- Por vivienda densificado para categoría tradicional
+3. Por vivienda densificado para categoría residencial: 350.00
 
-y media: 150.00
+4. Por vivienda densificado para residencial plus: 400.00
 
-- Por vivienda densificado para categoría residencial: 350.00
+XXII. Por reposición de la Constancia de Compatibilidad Territorial (Constancia de Compatibilidad Urbana): 45.00
 
-- Por vivienda densificado para residencial plus: 400.00
+Las dependencias y entidades de la administración pública paraestatal, estarán exentas del pago de los derechos previstos en este artículo, cuando realicen obra pública.
 
-Este derecho será adicional al derecho causado por
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN QUINTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-las viviendas permitidas de acuerdo al uso de suelo
+### CAPÍTULO V. DE LA SECRETARÍA DE ECOLOGÍA Y MEDIO AMBIENTE
 
-correspondiente, independientemente de las medidas
-
-de mitigación y/o compensación que resultaren.
-
-XXII. Por reposición de la Constancia de Compatibilidad
-
-Territorial (Constancia de Compatibilidad Urbana): 45.00
-
-### CAPITULO II. INSTITUTO DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 55.
 
@@ -1873,77 +1553,85 @@ para la renovación del registro en el Padrón de
 
 Contratistas del Estado de Quintana Roo. 10.00
 
-### CAPITULO III. TRIBUNAL DE JUSTICIA ADMINISTRATIVA
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN SEXTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
+### CAPÍTULO VI. DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL Y PESCA
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA. SECRETARÍA DE TURISMO
 
 ###### Artículo 56.
 
-Por cada verificación vehicular, que deberá efectuarse sobre la emisión de contaminantes generados por los vehículos automotor, su propietario o poseedor deberá pagar los derechos, conforme a las tarifas siguientes:
-
-I. Por verificación anual a vehículos con motor a gasolina, diesel, gas LP o cualquier otro tipo de combustible:
+Por los servicios que preste la Secretaría de Ecología y Medio Ambiente, por cada verificación vehicular, que deberá efectuarse sobre la emisión de contaminantes generados por los vehículos automotor, su propietario o poseedor se causarán los derechos, conforme a la tarifa siguiente:
 
 CONCEPTO UMA
 
-a) Holograma Cero “0” 8.00
+I. Por verificación anual a vehículos con motor a gasolina, diesel, gas LP o cualquier otro tipo de combustible:
 
-b) Holograma dos “2” 8.00
+a) Holograma Cero "0" 8.00
+
+b) Holograma dos "2" 8.00
 
 II. Por verificación bianual a vehículos con motor a gasolina, diesel, gas LP o cualquier otro tipo de combustible:
 
-a) Holograma Doble Cero “00” 16.00 UMA.
+a) Holograma Doble Cero "00" 16.00
 
-III. Por la búsqueda y reposición de certificados y/o hologramas de verificación vehicular de emisión de contaminantes: 2.00 UMA.
+III. Por la búsqueda y reposición de certificados y/o hologramas de verificación vehicular de emisión de contaminantes 2.00
 
 El pago de los derechos a que se refiere este artículo deberá realizarse de acuerdo a lo establecido en el Programa de Verificación Vehicular para el estado de Quintana Roo y Reglamento en Materia de Prevención y Control de la Contaminación Ambiental.
 
 Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Tránsito correspondiente, constancia sobre los resultados de la verificación del vehículo debidamente sellado y marcado por el centro de verificación vehicular autorizado por la Secretaría de Ecología y Medio Ambiente, a fin de que sea realizado el trámite de revalidación de vigencia de la matrícula vehicular.
 
+CONCEPTO UMA
+
 a) Cuando el interesado aporte los elementos necesarios para la localización del certificado correspondiente, tratándose de vehículos:
 
-1. Vehículos con motor a gasolina y diesel incluyendo motocicletas 2.30 UMA.
+1. Vehículos con motor a gasolina y diesel incluyendo motocicletas 2.30
 
 b) Cuando el interesado no aporte los elementos necesarios para la localización del certificado correspondiente, se cobrará una cuota adicional a lo anterior que será de, tratándose de vehículos:
 
-1. Vehículos con motor a gasolina incluyendo motocicletas 2.30 UMA.
+1. Vehículos con motor a gasolina incluyendo motocicletas 2.30
 
 El pago de los derechos a que se refiere este artículo deberá realizarse semestralmente en los meses de enero, febrero y marzo, para el primero, y en los meses de julio, agosto y septiembre para el segundo semestre de cada año.
 
 Los sujetos pasivos de este derecho deberán presentar ante la autoridad de tránsito correspondiente, el comprobante debidamente sellado y marcado con la máquina registradora de las oficinas, establecimientos, instituciones de crédito o a través de los medios electrónicos autorizados por la Secretaría, o del centro de verificación al efecto autorizado a fin de que sea tramitada su revista mecánica.
 
-IV. El costo por el estudio, verificación del sitio y análisis de la documentación para obtener la concesión vehicular será de: 500.00 UMA.
+CONCEPTO UMA
 
-V. El costo para obtener la concesión para la operación de un centro de verificación vehicular será de: 3,500.00 UMA.
+IV. El costo por el estudio, verificación del sitio y análisis de la documentación para obtener la concesión vehicular será de: 500.00
 
-VI. El costo para obtener el refrendo anual para la operación del centro de verificación vehicular concesionado será de: 1,800.00 UMA.
+V. El costo para obtener la concesión para la operación de un centro de verificación vehicular será de: 3,500.00
+
+VI. El costo para obtener el refrendo anual para la operación del centro de verificación vehicular concesionado será de: 1,800.00
 
 VII. El costo para obtener la calcomanía y su constancia de baja emisión de contaminantes será:
 
-CONCEPTO UMA
+a) Holograma Doble Cero "00": 5.00
 
-a) Holograma Doble Cero “00”: 5.00
+b) Holograma Cero "0": 2.00
 
-b) Holograma Cero “0”: 2.00
+c) Holograma Dos "2": 2.00
 
-c) Holograma Dos “2”: 2.00
-
-VIII. El costo para obtener la hoja de rechazo será de 1.00 UMA.
+VIII. El costo para obtener la hoja de rechazo será de: 1.00
 
 Únicamente los concesionarios de los centros de verificación vehicular autorizados por la Secretaría de Ecología y Medio Ambiente en el Estado de Quintana Roo, podrán obtener dichas hojas de rechazo y calcomanías con sus respectivas constancias de baja emisión de contaminantes.
 
-IX. El costo por autorización en el incremento de cada línea de verificación Vehicular en los Centros de Verificación Vehicular autorizados será de 500.00 UMA.
+CONCEPTO UMA
+
+IX. El costo por autorización en el incremento de cada línea de verificación Vehicular en los Centros de Verificación Vehicular autorizados será de: 500.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 57.
 
 Por los servicios que en materia de Impacto y Riesgo Ambiental, presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la tarifa siguiente:
 
+CONCEPTO UMA
+
 I. Por concepto de recepción y evaluación en materia de impacto ambiental como a continuación se indica:
 
 a) Evaluación y Resolución de la Manifestación de Impacto Ambiental modalidad Ordinaria, de acuerdo a lo siguiente:
-
-CONCEPTO UMA
 
 1. De 0.1 a 3 hectáreas: 350.00
 
@@ -1953,8 +1641,6 @@ CONCEPTO UMA
 
 b) Evaluación y Resolución de la Manifestación de Impacto Ambiental, modalidad Detallada, de acuerdo a lo siguiente:
 
-CONCEPTO UMA
-
 1. De 0.1 a 3 hectáreas: 400.00
 
 2. De 3.1 a 5 hectáreas: 450.00
@@ -1962,8 +1648,6 @@ CONCEPTO UMA
 3. De 5.1 hectáreas en adelante: 500.00
 
 c) Evaluación y Resolución de la Manifestación de Impacto Ambiental, que identifique los impactos negativos generados al ambiente y establezca las medidas para mitigar, rehabilitar y compensar dichos impactos, de acuerdo a lo siguiente:
-
-CONCEPTO UMA
 
 1. De 0.1 a 3 hectáreas: 500.00
 
@@ -1973,8 +1657,6 @@ CONCEPTO UMA
 
 d) Evaluación y Resolución del Informe Preventivo en materia de impacto ambiental, de acuerdo a lo siguiente:
 
-CONCEPTO UMA
-
 1. De 0.1 a 3 hectáreas: 200.00
 
 2. De 3.1 a 5 hectáreas: 225.00
@@ -1982,8 +1664,6 @@ CONCEPTO UMA
 3. De 5.1 hectáreas en adelante: 250.00
 
 e) Evaluación y resolución del Informe Preventivo en materia de Impacto Ambiental para el aprovechamiento de materiales pétreos, de acuerdo a lo siguiente:
-
-CONCEPTO UMA
 
 1. De 0.1 a 3 hectáreas: 400.00
 
@@ -1993,117 +1673,223 @@ CONCEPTO UMA
 
 4. Mayores a 10.1 hectáreas: 600.00
 
-f) Análisis y resolución de la modificación de proyectos en materia de Impacto Ambiental 150.00 UMA.
+f) Análisis y resolución de la modificación de proyectos en materia de Impacto Ambiental 150.00
 
-g) Análisis y resolución de la renovación de la vigencia de proyectos en materia de Impacto Ambiental 100.00 UMA.
+g) Análisis y resolución de la renovación de la vigencia de proyectos en materia de Impacto Ambiental 100.00
 
-h) Análisis y resolución de la exención del procedimiento en materia de Impacto Ambiental 150.00 UMA.
+h) Análisis y resolución de la exención del procedimiento en materia de Impacto Ambiental.
 
-i) Inscripción al Padrón Estatal de Prestadores de Servicios en Materia de Impacto Ambiental 100.00 UMA.
+Las dependencias y entidades estarán exentas del pago de este derecho, cuando realicen obra pública. 150.00
 
-j) Refrendo Anual al Padrón Estatal de Prestadores de Servicios en Materia de Impacto Ambiental 80.00 UMA.
+i) Inscripción al Padrón Estatal de Prestadores de Servicios en Materia de Impacto Ambiental 100.00
+
+j) Refrendo Anual al Padrón Estatal de Prestadores de Servicios en Materia de Impacto Ambiental. 80.00
 
 II. Por concepto de recepción y evaluación en materia de Riesgo Ambiental como a continuación se indica:
 
-a) Análisis y resolución del Estudio de Riesgo Ambiental y Programa para la Prevención de Accidentes ambientales 300.00 UMA.
+a) Análisis y resolución del Estudio de Riesgo Ambiental y Programa para la Prevención de Accidentes ambientales 300.00
 
-b) Análisis y resolución de la modificación del Estudio de Riesgo Ambiental y Programa para la Prevención de Accidentes ambientales 100.00 UMA.
+b) Análisis y resolución de la modificación del Estudio de Riesgo Ambiental y Programa para la Prevención de Accidentes ambientales. 100.00
+
+Tratándose del inciso h) fracción I de este artículo, estarán exentos del pago de los derechos, cuando el servicio sea requerido por la federación, estado y municipios.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 58.
 
 Por los servicios que en materia de Prevención y Control de la Contaminación Ambiental presta la Secretaría de Ecología y Medio Ambiente, conforme al Reglamento en la materia, las personas físicas y morales pagarán conforme a la tarifa siguiente:
 
+CONCEPTO UMA
+
 I. Por los servicios relacionados con la materia de Prevención y Control de la Contaminación Ambiental como a continuación se indica:
 
-a) Certificación inicial anual de vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas 70.00 UMA.
+a) Certificación inicial anual de vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas 70.00
 
-b) Refrendo anual de la certificación del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas 40.00 UMA.
+b) Refrendo anual de la certificación del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas 40.00
 
-c) Por solicitud extemporánea del refrendo anual de la certificación del vehículo automotor para el transporte de aguas residuales y aguas residuales tratadas 60.00 UMA.
+c) Por solicitud extemporánea del refrendo anual de la certificación del vehículo automotor para el transporte de aguas residuales y aguas residuales tratadas 60.00
 
-d) Por análisis y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 300.00 UMA.
+d) Por análisis y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 300.00
 
-e) Por refrendo y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 120.00 UMA.
+e) Por refrendo y resolución de la Cédula de Desempeño Ambiental, que opera de acuerdo a la Licencia de Funcionamiento Ambiental 150.00
 
-f) Por solicitud extemporánea de la Cédula de Desempeño Ambiental 400.00 UMA.
+f) Por solicitud extemporánea de la Cédula de Desempeño Ambiental 400.00
 
-g) Por solicitud extemporánea del refrendo de la Cédula de Desempeño Ambiental que opera de acuerdo a la Licencia de Funcionamiento ambiental 200.00 UMA.
+g) Por solicitud extemporánea del refrendo de la Cédula de Desempeño Ambiental que opera de acuerdo a la Licencia de Funcionamiento ambiental 200.00
 
-h) Inscripción al Padrón de Prestadores de Servicios en Materia de Prevención y Control de la Contaminación Ambiental 100.00 UMA.
+h) Inscripción al Padrón de Prestadores de Servicios en Materia de Prevención y Control de la Contaminación Ambiental 100.00
 
-i) Refrendo anual al Padrón de Prestadores de Servicios en Materia de Prevención y Control de la Contaminación Ambiental 80.00 UMA.
+i) Refrendo anual al Padrón de Prestadores de Servicios en Materia de Prevención y Control de la Contaminación Ambiental 80.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 59.
 
 Por los servicios que en materia de Residuos de competencia Estatal presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la tarifa siguiente:
 
-I. Por análisis y resolución de Planes de Manejo de Residuos 157.00 UMA.
+CONCEPTO UMA
 
-II. Por análisis y calificación para el Refrendo anual de los Planes de Manejo de Residuos de competencia estatal 50.00 UMA.
+I. Por análisis y resolución de Planes de Manejo de Residuos de Gran Generador Tipo "A", así como centros de acopio y centros de compostaje. 136.00
 
-III. Por análisis y calificación para la inscripción y refrendo anual al padrón de Asesores y/o Gestores relacionados con el manejo integral de Residuos Sólidos Urbanos y de Manejo Especial 100.00 UMA.
+II. Por análisis y resolución de Planes de Manejo de Residuos de Gran Generador Tipo "B", 157.00
 
-IV. Por análisis y calificación para la inscripción y refrendo anual al padrón de Centros de acopio de Residuos Sólidos Urbanos y de Manejo Especial 50.00 UMA.
+III. Por análisis y resolución de planes de manejo de residuos de gran generador tipo "C" 178.00
 
-V. Por análisis y calificación para la inscripción y resolución anual al padrón de recolección y Transporte de Residuos Sólidos Urbanos y de Manejo Especial 50.00 UMA.
+IV. Por análisis y resolución al refrendo del segundo año de Planes de Manejo de Residuos de Gran Generador Tipo "A", así como centros de acopio tipo B y C 86.00
 
-VI. Por el análisis y resolución derivado de la verificación de las instalaciones de los establecimientos que soliciten la exención a presentar plan de manejo bajo el esquema de gran generador de residuos sólidos urbanos (27.3 k/día) o generador de residuos de manejo especial 60.00 UMA.
+V. Por análisis y resolución al refrendo del segundo año de Planes de Manejo de Residuos de Gran Generador Tipo "B". 107.00
 
-VII. Por análisis y resolución del informe y bitácora anual del Plan de Manejo de Residuos de Competencia Estatal 50.00 UMA.
+VI. Por análisis y resolución al refrendo del segundo año de Planes de Manejo de Residuos de Gran Generador Tipo "C". 128.00
+
+VII. Por análisis y calificación para refrendo anual al Padrón de Asesores y/o Gestores relacionados con el manejo integral de Residuos Sólidos Urbanos y de Manejo Especial 110.00
+
+VIII. Por análisis y resolución de Planes de Manejo de responsabilidad extendida 178.00
+
+IX. Por análisis y resolución del refrendo de Planes de Manejo de Responsabilidad Extendida 128.00
+
+X. Por análisis y calificación para la inscripción por primera vez y resolución anual al Padrón de Centros de acopio de Residuos Sólidos Urbanos y de Manejo Especial:
+
+a) Tipo "A", aquellos que ocupan una superficie menor a los 200 m2 40.00
+
+b) Tipo "B", aquellos que ocupan una superficie mayor o igual a 200 m2 y menor a 600 m2. 50.00
+
+c) Tipo "C", aquellos que ocupan una superficie mayor a los 600 m2. 60.00
+
+XI. Refrendo y resolución anual al Padrón de Centros de Acopio de Residuos Sólidos Urbanos y de Manejo Especial.
+
+a) Tipo "A" aquellos que ocupan una superficie menor a 200 m2. 35.00
+
+b) Tipo "B" aquellos que ocupan una superficie mayor o igual a 200 m2 y menor a 600 m2. 45.00
+
+c) Tipo "C" aquellos que ocupan una superficie mayor a 600 m2. 55.00
+
+XII. Por análisis y calificación para la inscripción y refrendo anual al Padrón de Recolección y Transporte de Residuos Sólidos Urbanos y de Manejo Especial 38.17
+
+XIII. Por el análisis y resolución derivado de la verificación de las instalaciones de los establecimientos que soliciten la exención a presentar plan de manejo bajo el esquema de gran generador de residuos sólidos urbanos (27.3 k/día) o generador de residuos de manejo especial 72.00
+
+XIV. Por análisis y resolución del Informe y Bitácora Anual del Plan de Manejo de Residuos de Competencia Estatal 50.00
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 60.
 
 Por los servicios que en materia de Ordenamiento Ecológico que presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la tarifa siguiente:
 
-I. Análisis y calificación para emitir la congruencia de uso de suelo obras u actividades que pretendan realizarse en el territorio estatal 30.00 UMA.
+CONCEPTO UMA
 
-II. Análisis y calificación para emitir la congruencia de uso de suelo de los predios colindantes en Zonas Federales Marítimo Terrestre y Terrenos ganados al Mar 30.00UMA.
+I. Análisis y calificación para emitir la congruencia de uso de suelo, obras o actividades que pretendan realizarse en el territorio estatal 30.00
 
-APARTADO A
+II. Análisis y calificación para emitir la congruencia de uso de suelo de los predios colindantes en zonas federales marítimo terrestre y terrenos ganados al mar 30.00
 
-INSTITUTO DE BIODIVERSIDAD Y ÁREAS NATURALES PROTEGIDAS
+> <small>(REFORMADA [N. DE E. ANTES APARTADO A], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN PRIMERA. DE LA SECRETARÍA DE LA CONTRALORÍA
 
 ###### Artículo 61.
 
-Por el concepto de cobro por ingreso y/o servicios en las Áreas Naturales Protegidas Estatales (ANP´s) que presta la Secretaría de Ecología y Medio Ambiente, las personas físicas y morales pagarán un derecho conforme a la siguiente:
+Por los servicios que preste el Instituto de Biodiversidad y Áreas Naturales Protegidas, se causarán los derechos, conforme a la tarifa siguiente:
 
-T A R I F A
+CONCEPTO UMA POR DÍA
 
-Por concepto de ingreso a los ANP's estatales y/o de servicios otorgados a los usuarios, de acuerdo a la siguiente clasificación:
+I. PARQUE ECOLOGICO ESTATAL KABAH
 
-CONCEPTO UMA
+1. Admisión:
 
-a) Quintanarroenses 0.30
+a) Locales (Cancún) 0.0592
 
-b) Nacionales 0.50
+b) Locales pase mensual: 1.7753 UMA
 
-c) Extranjeros 1.00
+c) Quintanarroenses 0.1184
 
-d) Pase Mensual para Quintanarroenses,
+d) Nacionales 0.2367
 
-mismo que será personal e intransferible. 1.87
+e) Extranjeros 0.5918
 
-I. Por concepto de estudios de investigación que se vayan a efectuar dentro de las ANP’S por las instituciones académicas y de investigación, nacionales o extranjeras 3.00 UMA.
+f) Menores de 8 años, mayores de
 
-II. Por concepto de filmaciones y sesiones fotográficas con fines comerciales 160.00 UMA.
+65 años y personas con discapacidad exentos
 
-III. Por autorizaciones anuales a prestadores de servicios náuticos, acuático-recreativos, de ecoturismo de bajo impacto 380.00 UMA.
+2. Estacionamiento
 
-IV. Por el uso de la imagen de ANP`S y sus recursos 380.00 UMA.
+a) Servicio a Automóvil Particular 0.1184
 
-Asimismo, quedan exceptuados de pago los menores de 8 años, mayores de 65 años y las personas con capacidades diferentes.
+b) Servicio Público/Van 0.5918
 
-APARTADO B
+3. Prestadores de Servicios Diversos
 
-PROCURADURÍA DE PROTECCIÓN AL AMBIENTE
+a) Prestación de Servicios Culturales por mes: 1.8937 UMA
 
-#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
+4. Otros Servicios
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+a) Filmaciones /Fotografía y/o Publicidad con fines comerciales 23.6714
+
+b) Recorridos guiados/ grupos de hasta 30 personas 1.7754
+
+c) Renta de Palapa de 1-4 Horas 5.9179
+
+d) Por autorización para el uso de la imagen del sitio y sus recursos. 59.1786
+
+II. SANTUARIO DE LA TORTUGA MARINA XCACEL-XCACELITO
+
+1. Admisión:
+
+a) Locales por día (Chemuyil-Akumal-Tulum) 0.1184
+
+b) Quintanarroenses 0.2959
+
+c) Nacionales 0.5326
+
+d) Extranjeros 1.0060
+
+e) Menores de 8 años, mayores de 65 años
+
+y personas con discapacidad Exento
+
+f) Estudiantes con credencial vigente, Profesores
+
+e Investigadores de la Universidad de Quintana Roo Exento
+
+2. Visitas guiadas para observación de tortugas y liberación de crías:
+
+a) Locales (Chemuyil-Akumal-Tulum) 1.1836
+
+b) Quintanarroenses 2.3671
+
+c) Nacionales 3.5507
+
+d) Extranjeros 5.9179
+
+e) Menores de 8 años, mayores de 65 años y
+
+personas con discapacidad Exentos
+
+f) Estudiantes con credencial vigente, Profesores e
+
+Investigadores de la Universidad de Quintana Roo Exentos
+
+3. Acceso al cenote:
+
+a) Locales Chemuyil-Akumal-Tulum) (sic) 0.2367
+
+b) Quintanarroenses 0.3551
+
+c) Nacionales 0.5918
+
+d) Extranjeros 0.7101
+
+e) Menores de 8 años, mayores de 65 años y
+
+personas con discapacidad Exentos
+
+f) Estudiantes con credencial vigente, Profesores
+
+e Investigadores de la Universidad de Quintana Roo Exentos
+
+> <small>(REFORMADO [N. DE E. ANTES APARTADO B], P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN SEGUNDA. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PÚBLICA
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 62.
 
@@ -2113,203 +1899,113 @@ I. Por concepto de recepción y evaluación de los documentos que se enlistan a 
 
 CONCEPTO UMA
 
-a) Auditorías Ambientales 440.00
+a) Auditorías Ambientales 220.00
 
 b) Aclaraciones, rectificaciones o ampliaciones
 
 al contenido de las auditorías ambientales 80.00
 
-#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
+Cuando el servicio contemplado en el inciso a) sea solicitado dentro de los tres primeros meses del año el importe a pagar será del 50% de la tarifa establecida.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+Estarán exentos del pago de los derechos a que se refiere el presente artículo, la federación, el estado y los municipios.
+
+> <small>(DEROGADA CON EL ARTÍCULO LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN PRIMERA. INSTITUTO DE LA CULTURA Y LAS ARTES DE QUINTANA ROO
 
 ###### Artículo 63.
 
-Por de (sic) documentos existentes en la Secretaría de Desarrollo Económico, se pagará un derecho conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-Por hoja tamaño carta:
-
-a) Por la primera hoja 0.50
-
-b) Por cada hoja excedente 0.06
-
-Por hoja tamaño oficio:
-
-a) Por la primera hoja 0.70
-
-b) Por cada hoja excedente 0.07
-
-#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN SEGUNDA. SERVICIOS EDUCATIVOS DE QUINTANA ROO
 
 ###### Artículo 64.
 
-Los derechos por los servicios que prestan las autoridades laborales del Estado, a través del Tribunal y Junta Local de Conciliación y Arbitraje, Procuraduría de la Defensa del Trabajo, la Dirección del Trabajo y los Inspectores de Trabajo, se pagarán conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-I. Por la expedición de documentos en copia simple 0.011 UMA por cada foja tamaño carta y 0.012 UMA por cada foja en tamaño oficio y legal.
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN NOVENA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de información exceda diez fotocopias.
+### CAPÍTULO VII. SECRETARÍA DE EDUCACIÓN
 
-II. Por la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refiere la fracción I de este artículo, se realizará el pago a que se refiere el artículo 14 de esta Ley.
-
-### CAPÍTULO IV. COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
-
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 65.
 
-Por las copias de documentos existentes en la Secretaría de Desarrollo Agropecuario, Rural y Pesca, pagarán un derecho conforme a la tarifa siguiente:
+Por los servicios que preste la Secretaría de Desarrollo Agropecuario, Rural y Pesca, causarán los derechos, conforme a la tarifa siguiente:
 
 CONCEPTO UMA
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+I. Análisis y verificación de documentación para acreditar fierros, marcas, tatuajes o instrumentos para la identificación ganadera, con vigencia de 5 años. 4.00
 
-1. Por expedición de Copias simples
+II. Análisis y verificación de documentación para acreditar fierros, marcas, tatuajes o instrumentos para la identificación apícola, con vigencia de 5 años. 4.00
 
-Por foja tamaño carta:
+III. Análisis y verificación de documentación para acreditar la calidad de engordador, con vigencia de 1 año. 6.00
 
-a) Por la primera foja 0.178
+IV. Análisis y verificación de documentación para acreditar la calidad de acopiador, con vigencia de 1 año. 6.00
 
-b) Por cada foja excedente 0.06
+V. Permiso de internación de ganado al estado, con vigencia de 5 días. 3.00
 
-Por foja tamaño oficio:
+VI. Expedición de Guías de Tránsito, movilización externa, con vigencia de 5 días. 1.00
 
-a) Por la primera foja 0.237
+VII. Expedición de Guías de Tránsito, movilización interna, con vigencia de 5 días. 0.80
 
-b) Por cada foja excedente 0.07
+VIII. Libros de registro pecuarios (bitácora). 12.00
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2019)</small>
+IX. Verificación de animales, productos y subproductos para ingreso al Estado. 7.50
 
-2. Por legalizaciones y certificaciones: 1.73
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN DÉCIMA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VIII. DE LA SECRETARÍA DE SALUD
 
-> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN TERCERA. SERVICIOS ESTATALES DE SALUD
 
 ###### Artículo 66.
 
-Los derechos por los servicios que presta la Secretaría de Educación se pagarán conforme a la tarifa siguiente:
+Por los servicios que preste la Secretaría de Educación, causarán los derechos, conforme a la tarifa siguiente:
 
 CONCEPTO UMA
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+I. Reconocimiento de validez oficial de estudios a particulares para impartir educación media superior. 200.00
 
-CONCEPTO UMA
+II. Reconocimiento de validez oficial de estudios a particulares para impartir educación superior. 250.00
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+III. Análisis y calificación para el seguimiento y control escolar en cada ciclo escolar, por alumno de bachillerato o educación superior. 2.00
 
-I. Reconocimiento de validez oficial de estudios
+IV. Certificaciones de estudios de bachillerato o educación superior, por alumno. 3.50
 
-a particulares para impartir educación media superior. 200.00
+V. Exámenes extraordinarios de bachillerato o educación superior, por alumno. 1.70
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+VI. Exámenes profesionales o de grado de bachillerato bivalente, licenciatura y posgrados. 13.00
 
-II. Reconocimiento de validez oficial de estudios
+VII. Trámite de equivalencia o revalidación de estudios de bachillerato, licenciaturas o posgrados. 12.00
 
-a particulares para impartir educación superior. 250.00
+VIII. Legalización de firmas de documentos académicos de todos los niveles. 2.00
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
+IX. Reconocimiento de validez oficial de estudios a particulares para impartir educación técnica o capacitación para el trabajo. 150.00
 
-III. Análisis y calificación para el seguimiento y
+X. Expedición de diplomas de educación técnica o capacitación para el trabajo por alumno. 1.20
 
-control escolar en cada ciclo escolar, por
+XI. Análisis y calificación para el Registro de Colegios de Profesionistas autorizados por la Secretaría de Educación. 11.00
 
-alumno de bachillerato o educación superior. 2.00
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
-
-IV. Certificaciones de estudios de bachillerato
-
-o educación superior, por alumno. 3.50
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
-
-V. Exámenes extraordinarios de bachillerato
-
-o educación superior, por alumno. 1.70
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
-
-VI. Exámenes profesionales o de grado de
-
-bachillerato bivalente, licenciatura y posgrados. 13.00
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
-
-VII. Trámite de equivalencia o revalidación de
-
-estudios de bachillerato, licenciaturas o posgrados. 12.00
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
-
-VIII. Legalización de firmas de documentos académicos
-
-de todos los niveles. 2.00
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
-
-IX. Reconocimiento de validez oficial de estudios
-
-a particulares para impartir educación técnica o
-
-capacitación para el trabajo. 150.00
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
-
-X. Expedición de diplomas de educación técnica o
-
-capacitación para el trabajo por alumno. 1.20
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
-
-XI. Análisis y calificación para el Registro
-
-de Colegios de Profesionistas autorizados por la
-
-Secretaría de Educación. 11.00
-
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2019)</small>
-
-XII. Expedición de la Constancia del Registro Estatal
-
-de Profesionistas. 2.3671
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
+XII. Expedición de la Constancia del Registro Estatal de Profesionistas. 2.3671
 
 XIII. Constitución del Colegio de Profesionistas. 11.8357
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
+XIV. Gestión de registro de establecimiento educativo ante la Dirección General de Profesiones. 11.8357
 
-XIV. Gestión de registro de establecimiento educativo
+XV. Gestión de registro de planes y mapas de estudio ante la Dirección General de Profesiones. 5.9179
 
-ante la Dirección General de Profesiones. 11.8357
+XVI. Gestión para la adición de carreras ante la Dirección General de Profesiones. 5.9179
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
+XVII. Cambio de nomenclatura de Institución Educativa, Carrera y/o Estudios de Posgrado de Educación Media Superior y Superior Particulares con Reconocimiento de Validez Oficial de Estudios vigente 5.9179
 
-XV. Gestión de registro de planes y mapas de estudio
+> <small>(REFORMADA [N. DE E. ANTES APARTADO A] , P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-ante la Dirección General de Profesiones. 5.9179
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
-
-XVI. Gestión para la adición de carreras ante la Dirección
-
-General de Profesiones. 5.9179
-
-APARTADO A
-
-REGISTRO DE TÍTULOS PROFESIONALES
-
-#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN CUARTA. RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE QUINTANA ROO
 
 ###### Artículo 67.
 
@@ -2323,15 +2019,11 @@ II. Los demás profesionales. 13.80
 
 III. Peritos valuadores. 17.25
 
-SECCIÓN DÉCIMAPRIMERA
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN DÉCIMA PRIMERA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-SECRETARÍA DE SALUD
+### CAPÍTULO IX. DE LA SECRETARÍA DE LA CONTRALORÍA
 
-HOSPITALES Y JURISDICCIONES SANITARIAS
-
-#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN QUINTA. COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO (SIC) QUINTANA ROO
 
 ###### Artículo 68.
 
@@ -2343,69 +2035,37 @@ El pago de los derechos por este concepto se hará en la caja de los propios hos
 
 La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a cargo de las oficinas autorizadas por la Secretaría cuyos encargados podrán efectuar las inspecciones que estimen pertinentes.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 69.
 
 Los servicios médicos asistenciales que se otorguen a la población abierta se cobrarán en las unidades administrativas a que se refiere el artículo anterior y causarán los derechos establecidos, salvo los diagnósticos considerados dentro del sistema de protección social en salud, para su población afiliada, con base a la tarifa siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 561 A LA 609.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 32 A LA 37.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 32 A LA 37; P.O. 18 DE DICIEMBRE DE 2019, PÁGINAS DE LA 70 A LA 106.]</small>
 
-#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN SEXTA. COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 70.
 
-Por el uso de las Unidades de Servicio establecidas por la Secretaría de Turismo, en sitios inmediatos a las zonas arqueológicas, causarán derechos con base en la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN DÉCIMA TERCERA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-I. En Cobá 0.47
+### CAPÍTULO X. DE LA OFICIALÍA MAYOR
 
-II. En Chacchoben 0.37
-
-III. En Dzibanché-Kinichná 0.37
-
-IV. En El Meco 0.34
-
-V. En El Rey 0.34
-
-VI. En Konhunlich 0.45
-
-VII. En Muyil 0.29
-
-VIII. En Oxtankah 0.34
-
-IX. En San Gervasio 0.37
-
-X. En San Miguelito 0.47
-
-XI. En Tulum 0.47
-
-XII. En Xelhá 0.34
-
-No pagarán el derecho a que se refiere este artículo las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios a fines a las zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho los visitantes nacionales y extranjeros residentes en los Estados Unidos Mexicanos, los domingos.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
 
 ###### Artículo 71.
 
-Por copias de constancias y documentos existentes en la Secretaría de la Contraloría, se pagará la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-Por hoja tamaño carta:
-
-a) por a (sic) primera hoja 0.50
-
-b) por cada hoja excedente 0.06
-
-Por hoja tamaño oficio:
-
-a) por a (sic) primera hoja 0.70
-
-b) por cada hoja excedente 0.07
-
-#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN SÉPTIMA. CENTRO DE ESTUDIOS DE BACHILLERATO TÉCNICO EVA SÁMANO DE LÓPEZ MATEOS
 
 ###### Artículo 72.
 
@@ -2415,9 +2075,21 @@ Por la constancia de no inhabilitación, 1.00 UMA.
 
 Por el análisis de la documentación para participar en la designación de despacho externo que realizan auditorías externas sobre estados financieros y/o con extensión fiscal, 6.20 UMA.
 
-#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN OCTAVA. COLEGIO DE BACHILLERES DEL ESTADO DE QUINTANA ROO
+
+###### Artículo 73
+
+Bis. Por la verificación, control y fiscalización que las leyes en la materia encomiendan a la Secretaría de la Contraloría y al Órgano de Fiscalización Superior del Estado, los contratistas con quien se celebren los contratos de Obra Pública Estatal o para los servicios relacionados con la misma, cuyo financiamiento se realice con recursos propios o con empréstitos otorgados directamente al Gobierno del Estado o en los que éste sea aval, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de trabajo.
+
+Las dependencias y organismos auxiliares de la Administración Pública Estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior y lo enterarán a la oficina, establecimiento o institución de crédito autorizada por la Secretaría, quien a su vez registrará el 50% de todo lo recaudado por este concepto a favor de la partida presupuestal de la Secretaría de la Contraloría y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto y Gasto Público del Estado de Quintana Roo. El otro 50% de todo lo recaudado por este concepto será transferido por la Secretaría al Órgano de Fiscalización Superior del Estado para su integración al Fondo para el Fortalecimiento de la Fiscalización Superior.
+
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN DÉCIMA CUARTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO XI. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 74.
 
@@ -2425,25 +2097,23 @@ Por los servicios que presta la Oficialía Mayor, se causarán los derechos, con
 
 CONCEPTO UMA
 
+> <small>(REFORMADA [N. DE E. REPÚBLICADA], P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 I. Bases de licitación 29.5893 a
 
 35.5071
 
-II. Por la expedición de copias simples
+II. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
-Por foja tamaño carta:
+III. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2019)
 
-a) Por la primera foja 0.178
+> <small>(REFORMADO [N. DE E. ANTES SECCIÓN DÉCIMA QUINTA], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-b) Por cada foja excedente 0.06
+### CAPÍTULO II. DE LOS SERVICIOS QUE PRESTAN LAS ENTIDADES
 
-Por foja tamaño oficio:
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-a) Por la primera foja 0.237
-
-b) Por cada foja excedente 0.07
-
-III. Por legalizaciones y certificaciones 1.73
+### CAPÍTULO ÚNICO.
 
 ###### Artículo 75.
 
@@ -2491,15 +2161,9 @@ d) Cinco años
 
 3. Licencia de motociclista 5.75
 
-Tratándose de personas afiliadas al
+Tratándose de personas afiliadas al Instituto Nacional de las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
 
-Instituto Nacional para las Personas Adultas
-
-Mayores que acrediten su vigencia, gozarán
-
-del 50% de descuento en los pagos a que se
-
-refiere esta fracción.
+Durante la vigencia de las diversas Ferias de Empleo, organizadas por la Secretaría del Trabajo y Previsión Social, los buscadores de empleo gozarán del 50% de descuento en el pago de los derechos a que se refiere esta fracción.
 
 II. Permiso provisional para manejar sin licencia por:
 
@@ -2599,1581 +2263,407 @@ CENTRO ESTATAL DE EVALUACIÓN Y CONTROL DE CONFIANZA
 
 Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confianza, consistente en la aplicación de la Evaluación de Control de Confianza, se causará un derecho de 88.00 UMA por persona.
 
-#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+### CAPÍTULO I. FISCALÍA GENERAL DEL ESTADO
+
+#### SECCIÓN NOVENA. INSTITUTO TECNOLÓGICO SUPERIOR DE FELIPE CARRILLO PUERTO
 
 ###### Artículo 83.
 
-Por los servicios que presta el Instituto de la Cultura y las Artes de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 617 A LA 621.]</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 38 A LA 41.]</small>
-
-#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN DÉCIMA. UNIVERSIDAD DE QUINTANA ROO
 
 ###### Artículo 84.
 
-Por los servicios que preste los Servicios Educativos de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1.- Análisis y calificación para la autorización a
-
-particulares para impartir Educación Preescolar,
-
-Primaria y Secundaria. 175.00
-
-2.- Análisis y calificación para la autorización a
-
-particulares para impartir Educación Normal. 250.00
-
-3.- Análisis y calificación para el seguimiento y
-
-control escolar a particulares que imparten
-
-educación preescolar, primaria, secundaria y
-
-normal, en cada ciclo escolar, por alumno. 1.00
-
-4.- Certificaciones de estudios de educación primaria,
-
-secundaria y normal, por alumno. 1.40
-
-5.- Exámenes extraordinarios de regularización de
-
-educación secundaria y normal, por asignatura 1.50
-
-6.- Evaluación General de Conocimientos de
-
-educación primaria y secundaria, por alumno. 6.50
-
-7.- Exámenes Profesionales de educación normal,
-
-por alumno. 50.00
-
-8.- Revalidación de Estudios de educación
-
-primaria y secundaria. 4.50
-
-9.- Equivalencia de Estudios de Secundaria. 8.00
-
-10.- Expedición de Constancia de registro
-
-de Control Escolar 1.00
-
-11.- Reposición de Cartillas de Educación Básica. 1.00
-
-12. Pago de derecho de examen EXANI-I CENEVAL 2.8406
-
-13. Preparatoria Abierta
-
-13.1 Curso de inducción 1.1836
-
-13.2 Credencial de nuevo ingreso 0.4734
-
-13.3 Duplicado de credencial 0.3551
-
-13.4 Pago de derechos de exámenes 0.8640
-
-13.5 Constancia con calificaciones 0.5089
-
-13.6 Constancia sin calificaciones 0.2959
-
-13.7 Certificado de ciclo 1.3611
-
-13.8 Certificado parcial 1.3611
-
-13.9 Duplicado de certificado 0.6391
-
-14. Universidad Pedagógica Nacional (UPN)
-
-14.1 Constancia con calificaciones (UPN) 2.0121
-
-14.2 Examen de ingreso a Licenciatura (UPN) 11.8357
-
-14.3 Exámenes de ingreso a Posgrado de
-
-Educación Normal (UPN) 17.7536
-
-14.4 Credenciales de Educación Normal (UPN) 1.0060
-
-14.5 Reinscripción Licenciatura A 15.9782
-
-14.6 Reinscripción Posgrado Maestría en
-
-Educación Campo de Formación Docente A 65.0965
-
-14.7 Reinscripción Posgrado Maestría en
-
-Educación Básica A 41.4250
-
-14.8 Reinscripción Licenciatura B 13.5815
-
-14.9 Reinscripción Posgrado Maestría en
-
-Educación Campo de Formación Docente B 55.3320
-
-14.10 Reinscripción Posgrado Maestría en
-
-Educación Básica B 35.2113
-
-14.11 Inscripción y curso propedéutico alumnos
-
-de nuevo ingreso licenciatura 19.5289
-
-14.12 Inscripción alumnos nuevo ingreso Posgrado
-
-Maestría en Educación Campo de Formación
-
-Docente 71.0143
-
-14.13 Inscripción alumnos nuevo ingreso Posgrado
-
-Maestría en Educación Básica 44.3840
-
-14.14 Inscripción asesoría titulación Licenciatura 6.8292
-
-14.15 Inscripción asesoría titulación Posgrado 24.8550
-
-14.16 Constancias de Estudio 1.00
-
-14.17 Carta de Pasante 1.40
-
-14.18 Inscripción cuatrimestral 1 módulo LEX 4.44
-
-14.19 Inscripción cuatrimestral 2 módulos LEX 8.88
-
-14.20 Inscripción cuatrimestral 3 módulos 13.32
-
-15. Centro Regional de Educación Normal
-
-15.1 Felipe Carrillo Puerto
-
-15.1.1 Constancias de Estudios 1.0060
-
-15.12. Constancias de Estudios con calificaciones 2.0121
-
-15.1.3 Exámenes extraordinarios de regularización
-
-por asignatura 1.4795
-
-15.1.4 Exámenes profesionales 50.3018
-
-15.1.5 Exámenes de ingreso a licenciatura 6.5096
-
-15.1.6 Exámenes de ingreso a Posgrado 17.7536
-
-15. 1.7 Inscripciones nuevo ingreso 23.6714
-
-15.1.8 Reinscripciones a licenciatura 19.5289
-
-15.1.9 Credenciales 1.0060
-
-15.1.10 Transferencias internas para sinodalia 26.6304
-
-15.2 Bacalar
-
-15.2.1 Constancias de estudios 1.0060
-
-15.2.2 Constancias de estudio con calificaciones 2.0121
-
-15.2.3 Exámenes extraordinarios de regularización
-
-por asignatura 1.4795
-
-15.2.4 Exámenes profesionales 50.3018
-
-15.2.5 Exámenes de ingreso a licenciatura 6.5096
-
-15.2.6 Exámenes de ingreso a posgrado 17.7536
-
-15.2.7 Reinscripciones a licenciatura 19.5289
-
-15.2.8 Credenciales 0.9824
-
-15.2.9 Inscripción de nuevo ingreso 23.6714
-
-15.2.10 Transferencias internas de sinodalía 26.6304
-
-15.3 Centro de Actualización Magisterial
-
-15.3.1 Constancias de estudios 1.0060
-
-15.3.2 Constancia de estudios con calificaciones 2.0121
-
-15.3.3 Exámenes Extraordinarios de regularización
-
-por asignatura 1.4795
-
-15.3.4 Exámenes profesionales 50.3018
-
-15.3.5 Exámenes de ingreso a licenciatura 6.5096
-
-15.3.6 Exámenes de ingreso a posgrado 17.7536
-
-15.3.7 Inscripción de nuevo ingreso 23.6714
-
-15.3.8 Reinscripción Licenciatura 19.5289
-
-15.3.9 Credenciales 1.0060
-
-15.3.10 Transferencias internas de sinodalía 26.6304
-
-#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN DÉCIMA PRIMERA. UNIVERSIDAD DEL CARIBE
 
 ###### Artículo 85.
 
-Los servicios que presten, las autoridades de los Servicios Estatales de Salud, de acuerdo con la Ley de Salud del Estado de Quintana Roo, a los particulares que por cuestiones de calidad y salud lo requieran para la realización de su actividad, causarán los derechos con base a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 22 DE ABRIL DE 2019)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-I. Por expedición o Reposición de Tarjetas de Control Sanitario para Manejadores de alimentos y/o bebidas.
-
-a) En los municipios de Othón P. Blanco y Bacalar 1.83 UMA.
-
-b) En los municipios de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 1.38 UMA.
-
-c) En los municipios de Benito Juárez, Puerto Morelos, Solidaridad, Isla Mujeres, Cozumel y Tulum 2.37 UMA.
-
-II. Análisis de laboratorios
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 623 A LA 627.]</small>
-
-III. Verificación sanitaria, desinfectación o desinfección para vehículos, embarcaciones y aeronaves que se dediquen al transporte de pasajeros:
-
-CONCEPTO UMA
-
-a) Con cupo de hasta 10 pasajeros 10.00
-
-b) Con cupo de más de 10 y hasta 100 pasajeros 20.00
-
-c) Con cupo de más de 100 pasajeros 80.00
-
-IV. Verificación sanitaria desinfectación o desinfección para vehículos, embarcaciones y aeronaves que se dediquen al transporte de carga, por tonelada de carga: 20.00 UMA
-
-V. Guía sanitaria por embarque: 2 al millar ad valoren.
-
-VI. Verificación sanitaria solicitada:
-
-CONCEPTO UMA
-
-a) En los municipios de Othón P. Blanco y Bacalar 6.00
-
-b) En el municipio de Felipe Carrillo Puerto,
-
-José María Morelos y Lázaro Cárdenas 4.00
-
-c) En el municipio de Benito Juárez,
-
-Puerto Morelos, Solidaridad, Isla Mujeres,
-
-Cozumel y Tulum 12.00
-
-VII. Por desinfección o desinfectación: 8.00 UMA
-
-VIII. Por reposición o expedición extemporánea de aviso de funcionamiento de salubridad local:
-
-CONCEPTO UMA
-
-a) En los municipios de Othón P. Blanco y Bacalar. 3.00
-
-b) En el municipio de Felipe Carrillo Puerto,
-
-José María Morelos y Lázaro Cárdenas. 2.00
-
-c) En el municipio de Benito Juárez,
-
-Puerto Morelos, Solidaridad, Isla Mujeres,
-
-Cozumel y Tulum. 4.00
-
-IX. Por verificación de productos del mar: 12.00 UMA.
-
-X. Autorización y verificación de planos por metro cuadrado: 0.13 UMA.
-
-XI. Por expedición de certificado médico sin tipo de sangre: 0.76 UMA.
-
-XII. Por expedición de certificado médico con tipo de sangre: 1.34 UMA.
-
-XIII. Por expedición de certificado médico prenupcial con tipo de sangre y VDRL: 1.82 UMA.
-
-XIV. Por expedición de certificado médico prenupcial con tipo de sangre y VDRL, incluyendo prueba de VIH: 3.94 UMA.
-
-XV. Oxigenación hiperbárica por servicio: 6.92 UMA.
-
-XVI. Hemodiálisis con equipo para residentes nacionales: 28.87 UMA.
-
-XVII. Hemodiálisis con equipo para residentes extranjeros: 92.39 UMA.
-
-XVIII. Descompresión por hora: 21.17 UMA.
-
-XIX. SERVICIO DEL BANCO DE SANGRE CUANDO NO SE ENCUENTRE INCLUIDO EN UN PAQUETE BÁSICO A QUE HACE REFERENCIA EL SISTEMA ESTATAL DE CUOTAS DE RECUPERACIÓN Y MANUAL DE NORMAS Y PROCEDIMIENTOS PARA SU OPERACIÓN, CUYAS TARIFAS SON:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 630 A LA 635.]</small>
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE ABRIL DE 2019)</small>
-
-XX. Análisis clínicos (sic) laboratorio.
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 635 A LA 646.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 45 A LA 69.]</small>
-
-XXI. En cualquier otro servicio no especificado: de 1.00 a 10.00 UMA.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
-
-XXII. Por expedición de tarjetas de salud y control venéreo
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 69 A LA 70.]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
-
-XXIII. Por servicios de traslado en ambulancia, cuyas tarifas a aplicar por kilómetro son:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE ABRIL DE 2019, PÁGINA DE LA 70.]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
-
-XXIV. Por Servicios que presta la Dirección de Protección Contra Riesgos Sanitarios.
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 70 A LA 71.]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
-
-XXV. Vacunas de la Cartilla Internacional de Salud, siendo las tarifas a aplicar:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE ABRIL DE 2019, PÁGINA DE LA 71.]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
-
-XXVI. TOMOGRAFÍAS COMPUTADAS:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE ABRIL DE 2019, PÁGINA 71.]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
-
-XXVII. ULTRASONIDO:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE ABRIL DE 2019, PÁGINA 72.]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE ABRIL DE 2019)</small>
-
-XXVIII. RESONANCIA MAGNETICA:
-
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE ABRIL DE 2019, PÁGINA 72 A LA 74.]</small>
-
-#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN DÉCIMA SEGUNDA. UNIVERSIDAD INTERCULTURAL MAYA DE QUINTANA ROO
 
 ###### Artículo 86.
 
-La Incorporación por familia al Régimen Estatal de Protección Social en Salud de Quintana Roo, será conforme a la cuota siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-Decil de ingresos Cuota familiar anual
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-(clasificación en función a la situación
-
-económica del solicitante)
-
-Del I al IV (sic) __
-
-V $2,074.97
-
-VI $2,833.56
-
-VII $3,647.93
-
-VIII $5,650.38
-
-IX $7,518.97
-
-X $11,378.86
-
-#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
+#### SECCIÓN DÉCIMA TERCERA. UNIVERSIDAD POLITÉCNICA DE BACALAR
 
 ###### Artículo 87.
 
-Por los servicios que preste el Colegio de Estudios Científicos y Tecnológicos del Estado (sic) Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Certificado Parcial de Estudios 1.1836
-
-2. Duplicado de Certificado 1.1836
-
-3. Expedición de Credencial 0.8285
-
-4. Duplicado de Credencial 0.8285
-
-5. Evaluación Extraordinaria 0.5918
-
-6. Curso Intersemestral 0.5918
-
-7. Baja Temporal 0.3551
-
-8. Baja Definitiva 0.3551
-
-9. Trámite de Titulación 1.1836
-
-10. Recursamiento 3.8466
-
-11. Expedición de Certificado 1.1836
-
-12. Seguro Estudiantil 1.1836
-
-13. Cuadernillo curso de Inducción 1.1836
-
-14. Libros Didácticos (anglo digital) 1.7162
-
-15. Constancia de Autenticidad 0.9469
-
-16. Asesoría por Módulo prepa modular 2.9589
-
-17. Otros derechos 0.3551 a 3.8466
-
-#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN DÉCIMA CUARTA. UNIVERSIDAD TECNOLÓGICA DE CANCÚN
 
 ###### Artículo 88.
 
-Por los servicios que preste el Colegio de Educación Profesional Técnica del Estado de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Modulo a Recursar 2,9589
-
-2. Expedición o Reposición de Credencial 1.4203
-
-3. Constancia de Estudios 1.0652
-
-4. Expedición de Certificado de Terminación (sic) 2.1304
-
-Estudios
-
-5. Asesorías Complementarias Intersemestrales 2.1304
-
-6. Asesorías Complementarias semestrales 2.1304
-
-7. Certificado de Terminación (sic) Estudios
-
-(Por Reposición y/o Extravío) 2.3671
-
-8. Certificado de Estudios Técnico Auxiliar y
-
-Técnico Básico 2.3671
-
-9. Reconocimiento de Competencias
-
-Adquiridas de Manera Autodidacta por Capacitación
-
-o Experiencia en el Trabajo 2.0121
-
-10. Seguro Estudiantil 1.1837
-
-11. Historial Académico 0.8285
-
-12. Constancia de Certificación y Título 1.7754
-
-13. Examen Especial de Regularización por
-
-Asignación 1.7754
-
-14. Reposición de Certificado de Plan 97 y
-
-Generaciones Anteriores 2.0121
-
-15. Acto protocolario 1.4203
-
-16. Curso de capacitación y certificación 1.1835 a 59.1786
-
-17. Constancia de Baja Temporal 1.0652
-
-18. Constancia de Baja Definitiva 1.0652
-
-19. Reposición de constancia de Servicio Social 1.0652
-
-20. Reposición de Constancia de Prácticas
-
-Profesionales 1.0652
-
-21. Bases de Licitación 17.7535
-
-22. Otros derechos 0.8285 a 59.1786
-
-#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN DÉCIMA QUINTA. UNIVERSIDAD TECNOLÓGICA DE CHETUMAL
 
 ###### Artículo 89.
 
-Por los servicios que preste el Centro de Estudios de Bachillerato Técnico Eva Sámano de López Mateos, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTOS UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Curso Repetición 5.5036
-
-2. Expedición credencial 1.2427
-
-3. Constancia de Estudio sin Calificaciones 0.7456
-
-4. Constancias de Estudios con Calificaciones 0.8877
-
-5. Examen Extraordinario 1 1.5386
-
-6. Examen Extraordinario 2 2.2488
-
-7. Examen Especial 3.4915
-
-8. Certificado Parcial 1.5623
-
-9. Cuadernillo para curso Propedéutico 2.308
-
-10. Duplicado de Certificado Total 1.9884
-
-11. Reposición de Credencial 1.3611
-
-12. Bases de Licitación 11.8357 a 35.5071
-
-13. Módulo de Asesoría 2.9589
-
-14. Otros derechos 0.8877 a 11.8357
-
-#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
-
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
+#### SECCIÓN DÉCIMA SEXTA. UNIVERSIDAD TECNOLÓGICA DE LA RIVIERA MAYA
 
 ###### Artículo 90.
 
-Por los servicios que preste el Colegio de Bachilleres del Estado de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 651 A LA 664.]</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 78 A LA 86.]</small>
+#### SECCIÓN DÉCIMA SÉPTIMA. UNIVERSIDAD POLITÉCNICA DE QUINTANA ROO
 
 ###### Artículo 91.
 
-Por los servicios que preste el Instituto Tecnológico Superior de Felipe Carrillo Puerto, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Inscripción 20.1207
-
-2. Inscripción en residencias profesionales 11.8357
-
-3. Expedición de Constancias 0.4734
-
-4. Expedición de Certificado General 2.3671
-
-5. Trámite de Convalidación Académica 8.5217
-
-6. Ficha de Examen de Admisión 4.1425
-
-7. Credencial Duplicado 0.4734
-
-8. Curso de capacitación (hora) 9.4686
-
-9. Trámite de titulación 18.9372
-
-10. Otros derechos 0.4734 a 20.1207
+#### SECCIÓN DECIMA OCTAVA. INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 92.
 
-Por los servicios que preste la Universidad de Quintana Roo, se causarán los derechos, conforme a tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 665 A LA 667.]</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 87 A LA 93.]</small>
+#### SECCIÓN DÉCIMA NOVENA. COMISIÓN DE AGUA POTABLE Y ALCANTARILLADO
 
 ###### Artículo 93.
 
-Por los servicios que preste la Universidad del Caribe, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Mexicanos
-
-1.1. Reinscripción Licenciatura 25.3284
-
-1.2. Convenio Licenciatura 12.6642
-
-1.3. Inscripción Licenciatura 25.3284
-
-2. Extranjeros
-
-2.1. Reinscripción Licenciatura 157.7228
-
-2.2. Convenio Licenciatura 39.4366
-
-2.3. Inscripción Licenciatura 157.7228
-
-3. Maestría
-
-3.1. Inscripción 47.3429
-
-4. Examen Extraordinario 4.0123
-
-5. Examen Maestría 52.9885
-
-6. Duplicado de Certificado 5.6220
-
-7. Certificación Maestría 7.3973
-
-8. Certificación Especialidad 7.3973
-
-9. Certificado Parcial 5.6220
-
-10. Revalidación o Equivalencia 9.6343
-
-11. Credencial 0.6155
-
-12. Cambio de Programa Educativo 6.4268
-
-13. Alta / Baja de Materia 0.8048
-
-14. Prácticas de Invierno / Verano 3.8584
-
-15. Materia Aislada 3.8584
-
-16. Constancia de Estudios 1.1836
-
-17. Diplomas 5.6220
-
-18. Trámite de Titulación Licenciatura 43.1649
-
-19. Trámite de Titulación Especialidad 43.1649
-
-20. Trámite de Titulación Maestría 43.1649
-
-21. Trámite para la obtención de
-
-Cédula Profesional 9.8236
-
-22. Proceso de Admisión Licenciatura 8.8768
-
-23. Proceso de Admisión Maestría 7.1014
-
-24. Kardex 0.9469
-
-25. Boleta de Calificaciones 0.9469
-
-26. Historial Académico 0.9469
-
-27. Horario 0.9469
-
-28. Módulo de Especialidad 41.4250
-
-29. Módulo de Especialidad Egresados
-
-UCARIBE 20.7125
-
-30. Módulo de Especialidad Gobierno 31.0688
-
-31. Crédito Maestría 7.1014
-
-32. Crédito Maestría Egresados UCARIBE 3.5507
-
-33. Crédito Maestría Gobierno 4.9710
-
-34. Reexpedición de Contenidos 2.3671
-
-35. Cursos 11.8357 a 177.5358
-
-36. Talleres 11.8357 a 177.5358
-
-37. Diplomados 11.8357 a 355.0716
-
-38. Otros derechos 0.6155 a 355.0716
+#### SECCIÓN VIGÉSIMA. INSTITUTO DE MOVILIDAD
 
 ###### Artículo 94.
 
-Por los servicios que preste la Universidad Intercultural Maya de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Inscripción 11.8357
-
-2. Reinscripción Licenciatura 10.0604
-
-3. Emisión de Constancias 0.1775
-
-4. Reimpresión de Kárdex 0.1775
-
-5. Reposición de credenciales 0.5918
-
-6. Reimpresión de Acta de Examen Profesional 1.7754
-
-7. Materia de Maestría 17.7536
-
-8. Formación con fines de certificación de
-
-Competencias Laborales por persona 11.8357
-
-9. Evaluación con Fines de Certificación de
-
-Competencias Laborales por persona 14.2029
-
-10. Formación y Evaluación con Fines de
-
-certificación de Competencias Laborales por
-
-persona 26.0386
-
-11. Formación sin Estándar de Competencia
-
-Laboral por persona 1.7754
-
-12. Curso de lengua a externos 23.6714
-
-13. Curso de lengua a extranjeros 106.5214
-
-14. Curso de verano para extranjeros
-
-(español o maya) 95.8693
-
-15. Certificación Lengua Maya 35.5071
-
-16. Certificación inglés (TOEFL, ITP, TOEFL
-
-Junior) 9.4685
-
-17. Cursos de preparación para examen de
-
-inglés o maya 23.6714
-
-18. Cursos remediales de idioma para
-
-estudiantes que adeuden algún nivel de maya
-
-o inglés 17.7535
-
-19. Credencial del CIAL para externos 0.5917
-
-20. Otros derechos 0.1775 a 26.0386
+#### SECCIÓN VIGÉSIMA PRIMERA. AGENCIA DE PROYECTOS ESTRATÉGICOS
 
 ###### Artículo 95.
 
-Por los servicios que preste la Universidad Politécnica de Bacalar, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Examen de Admisión 7.6932
-
-2. Inscripción 17.5169
-
-3. Reinscripción 17.5169
-
-4. Altas y Bajas de Asignaturas 0.8877
-
-5. Constancias de Estudio 1.1836
-
-6. Reposición de Credencial a Estudiantes 0.7101
-
-7. Cambio de Carrera 5.9179
-
-8. Solicitud de Revalidación o Equivalencia
-
-de Estudios 8.8768
-
-9. Examen Extraordinario 1.7754
-
-10. Asignatura de Regularización 5.9179
-
-11. Gestión y Trámite de Proceso de
-
-Titulación 48.2897
-
-12. Certificación de Nivel de Inglés TOEFL 11.8357
-
-13. Baja Temporal 3.5507
-
-14. Baja Definitiva 1.7754
-
-15. Certificado Parcial de Estudios 2.9589
-
-16. Otros derechos 0.7101 a 48.2897
+#### SECCIÓN VIGÉSIMA SEGUNDA. COMISIÓN PARA LA JUVENTUD Y EL DEPORTE DE QUINTANA ROO
 
 ###### Artículo 96.
 
-Por los servicios que preste la Universidad Tecnológica de Cancún, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 670 A LA 672.]</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 98 A LA 102.]</small>
+#### SECCIÓN VIGÉSIMA TERCERA. INSTITUTO DE INFRAESTRUCTURA FÍSICA EDUCATIVA DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 97.
 
-Por los servicios que preste la Universidad Tecnológica de Chetumal, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Examen de Admisión 4.7343
-
-2. Inscripciones TSU 14.2029
-
-3. Inscripciones en Licenciaturas e
-
-Ingenierías 16.5700
-
-4. Reinscripciones TSU 14.2029
-
-5. Reinscripciones Licenciaturas e
-
-Ingenierías 16.5700
-
-6. Trámites de Titulación 5.9179
-
-7. Examen Extraordinario 0.5918
-
-8. Examen Especial 1.1836
-
-9. Certificado Parcial de Estudios 2.9589
-
-10. Constancia Simple 0.2959
-
-11. Constancia con Calificaciones 0.4143
-
-12. Copia de Recibo de Pago 0.1184
-
-13. Reposición de contraseña 0.1184
-
-14. Reposición de Credencial 0.8285
-
-15. Constancia de Acreditación del Nivel
-
-de Inglés 1.7754
-
-16. Revalidación de Asignatura 2.3671
-
-17. Cursos 2.9589 a 142.0286
-
-18. Asesoría 0.5918 a 8.8768
-
-19. Otros derechos 0.1184 a 236.7144
+#### SECCIÓN VIGÉSIMA CUARTA. CONSEJO QUINTANARROENSE DE CIENCIA Y TECNOLOGÍA
 
 ###### Artículo 98.
 
-Por los servicios que preste la Universidad Tecnológica de la Riviera Maya de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Examen de Admisión Despresurizado 4.7343
-
-2. Examen de Admisión Presurizado 4.7343
-
-3. Examen de Admisión Licenciatura
-
-Presurizado 2.9589
-
-4. Inscripción y Reinscripción al
-
-Cuatrimestre de TSU Despresurizado 11.8357
-
-5. Inscripción y Reinscripción al Cuatrimestre
-
-de TSU Presurizado 14.2029
-
-6. Inscripción y Reinscripción a la Carrera
-
-TSU Gastronomía Presurizado 17.7536
-
-7. Inscripción y Reinscripción a Ingenierías
-
-y Licenciaturas Presurizado 14.2029
-
-8. Inscripción y Reinscripción a la
-
-Licenciatura en Gastronomía Presurizado 17.7536
-
-9. Tramite de Titulación TSU, Ingenierías y
-
-Licenciaturas Despresurizado 29.5893
-
-10. Tramite de Titulación TSU, Ingenierías y
-
-Licenciaturas Presurizado 29.5893
-
-11. Curso de Idioma Extranjero para
-
-Personal Externo Presurizado 15.3864
-
-12. Curso de Idioma Extranjero para Personal
-
-Interno Presurizado 9.4686
-
-13. Certificado Parcial de Estudios
-
-Presurizado 2.9589
-
-14. Plan de Estudios Despresurizado 2.9589
-
-15. Plan de Estudios Presurizado 2.9589
-
-16. Constancia de Estudios Sin Calificaciones
-
-Presurizada 0.5918
-
-17. Constancia de Estudios con Calificaciones
-
-Presurizada 1.1836
-
-18. Constancia de Estudios con Calificaciones
-
-Despresurizada 1.1836
-
-19. Examen Extraordinario Presurizado 3.5507
-
-20. Examen Extraordinario Despresurizado 3.5507
-
-21. Reposición de Credencial Presurizado 1.7754
-
-22. Reposición de Credencial Despresurizado 1.7754
-
-23. Copias de Comprobante de Inscripción y
-
-Reinscripción Presurizado 0.5918
-
-24. Copias de Comprobante de Inscripción y
-
-Reinscripción Despresurizado 0.5918
-
-25. Curso de introducción a la lengua inglesa
-
-(cuatrimestre 0) Presurizado 5.9179
-
-26. Curso de nivelación de inglés
-
-Despresurizado 5.9179
-
-27. Curso de nivelación de inglés
-
-Presurizado 5.9179
-
-28. Curso de nivelación de estadía
-
-Despresurizado 5.9179
-
-29. Curso de nivelación de estadía
-
-Presurizado 5.9179
-
-30. Evaluación por unidad temática
-
-Despresurizado 0.5918
-
-31. Evaluación por unidad temática
-
-Presurizado 0.5918
-
-32. Placement test y Progress test
-
-Despresurizado 3.4708 a 15.3125
-
-33. Placement test y Progress test
-
-Presurizado 3.4708 a 15.3125
-
-34. Asesoría personalizada para concluir
-
-proyecto de titulación Despresurizada 21.3043
-
-35. Asesoría personalizada para concluir
-
-Proyecto de titulación Presurizada 21.3043
-
-36. Curso de Capacitación y Evaluación de
-
-Competencias Laborales
-
-36.1 Capacitación Despresurizada 11.8357 a 15.3125
-
-36.2 Capacitación Presurizada 22.8429 a 15.3125
-
-36.3 Evaluación Despresurizada 8.285 a 15.3125
-
-36.4 Evaluación Presurizada 17.7536 a 15.3125
-
-36.5 Certificación Despresurizada 3.5507
-
-36.6 Certificación Presurizada 3.5507
-
-37. Otros derechos 0.5918 a 29.5893
+#### SECCIÓN VIGÉSIMA QUINTA. SISTEMA QUINTANARROENSE DE COMUNICACIÓN SOCIAL
 
 ###### Artículo 99.
 
-Por los servicios que preste la Universidad Politécnica de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-No. CONCEPTO UMA
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-1. Examen de admisión 8.70
-
-2. Inscripción y reinscripción 27.30
-
-3. Reinscripción generación anterior a 2017 19.80
-
-4. Reinscripción generación 2017 y anteriores 24.80
-
-5. Registro de título y expedición de cédula y
+#### SECCIÓN VIGÉSIMA SEXTA. COMISIÓN EJECUTIVA DE ATENCIÓN A VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
 ###### Artículo 100.
 
-Por los servicios que preste el Instituto de Capacitación para el Trabajo del Estado de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 676 A LA 684.]</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 108 A LA 119.]</small>
+#### SECCIÓN VIGÉSIMA SÉPTIMA. INSTITUTO QUINTANARROENSE DE LA MUJER
 
 ###### Artículo 101.
 
-Los contribuyentes que soliciten los servicios a cargo de la Comisión de Agua Potable y Alcantarillado, causarán y pagarán derechos conforme a las cuotas establecidas en la Ley de Agua Potable y Alcantarillado del Estado de Quintana Roo y la Ley de Cuotas y Tarifas para los Servicios Públicos de Agua Potable y Alcantarillado, Tratamiento y Disposición de Aguas Residuales del Estado de Quintana Roo.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 102.
 
-La Comisión de Agua Potable y Alcantarillado, deberá remitir informe dentro de los 10 días naturales de concluido el trimestre a la Secretaría, sobre la evolución de los ingresos que obtenga, la situación respecto de las metas de recaudación y una explicación detallada de la misma, así como las que tengan programados percibir durante el trimestre inmediato.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 103.
 
-La Comisión de Agua Potable y Alcantarillado, deberá poner a disposición del público y mantener actualizada, en sus respectivos medios electrónicos, la información de los subsidios, estímulos, descuentos o exenciones, según sea el caso, que se otorguen en la prestación de servicios públicos a su cargo.
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-Debiendo también informar a la Secretaría de los servicios proporcionados a que se hace referencia en el párrafo anterior para la conciliación correspondiente, dentro de los 10 días naturales de concluidos el trimestre.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN VIGÉSIMA OCTAVA. SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
 ###### Artículo 104.
 
-Por los servicios que preste el Instituto de Movilidad del Estado de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
-
-CONCEPTO UMA
-
-1. Revisión, análisis de documentos y elaboración
-
-del dictamen previo de la concesión, permiso o
-
-autorización del servicio público de transporte 17.7535
-
-2. Revisión, análisis y consideración de los
-
-instrumentos jurídicos idóneos para la
-
-transmisión o transferencia o cesión de derechos
-
-y obligaciones derivados de la concesión para la
-
-prestación del servicio público de transporte
-
-2.1 Servicio público de Transporte de Pasajeros. 40.00
-
-2.2 Servicio público de Transporte de Carga. 20.00
-
-2.3 Servicio Público de Transporte de Renta de
-
-toda clase de vehículos. 40.00
-
-2.4 Servicio Público de Transporte Especializado. 40.00
-
-2.5 Servicio Público de Transporte contratado a
-
-través de Plataformas Digitales. No aplica
-
-3. Revisión, análisis de documentos y expedición
-
-de constancia de toda información, registro, folio
-
-y certificación que realice el Registro Público de
-
-Transporte. (cuando el error se origine en el servicio
-
-prestado por la autoridad se actualizará,
-
-la exención de este derecho). 10.00
-
-4. Revisión y análisis de documentos para la
-
-modificación de concesiones, permisos o
-
-autorizaciones para el Servicio Público de
-
-Transporte de competencia estatal. 30.00
-
-5. Revisión y análisis de documentos para el
-
-otorgamiento de prórroga para la operación de
-
-la concesión, permiso o autorización para el
-
-Servicio Público de Transporte de competencia
-
-estatal 30.00
-
-6. Revisión, análisis y expedición para el
-
-otorgamiento, renovación o reposición de licencias
-
-de conducir para servicio público de transporte. Sin costo
-
-6.1 Licencia de servicio público estatal (vigencia
-
-1 año) 3.5980
-
-6.2 Licencia de servicio público estatal (vigencia
-
-2 años) 5.7403
-
-7. Inspección documental y físico mecánica de
-
-las unidades, equipamiento auxiliar o infraestructura
-
-para el cumplimiento de la obligación del proceso
-
-anual de revista vehicular. 5.91
-
-8. Expedición anual del certificado vehicular
-
-para vehículo mediante el que se preste el
-
-servicio público de transporte a través de
-
-plataformas tecnológicas o digitales 13.50
-
-9. Renovación del certificado vehicular para
-
-vehículo mediante el que se preste el servicio
-
-público de transporte a través de plataformas
-
-tecnológicas o digitales. 13.50
-
-10. Realización de auditorías de movilidad y
-
-seguridad vial (cuando .una empresa decida
-
-hacer un estacionamiento privado y que la
-
-autoridad requiere una revisión de condiciones
-
-para dictar viabilidad). 440.00
-
-11. Refrendo 5.91
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
 ###### Artículo 105.
 
 (DEROGADO, P.O. 22 DE ABRIL DE 2019)
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+#### SECCIÓN VIGÉSIMA NOVENA. FUNDACIÓN DE PARQUES Y MUSEOS DE COZUMEL
+
 ###### Artículo 106.
 
-Por los servicios que preste la Agencia de Proyectos Estratégicos del Estado de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
-
-I. Emisión de estado de cuenta 1.00
-
-II. Deslinde de terrenos (por m2) 0.50
-
-III. Constancia de no propiedad 2.00
-
-IV. Constancia de no adeudo 2.00
-
-V. Suspensión de rescisión 18.00
-
-VI. Croquis de ubicación 0.50
-
-VII. Por expedición de copias simples:
-
-Por foja tamaño carta:
-
-a) Por la primera foja 0.178
-
-b) Por cada foja excedente 0.06
-
-Por foja tamaño oficio:
-
-a) Por la primera foja 0.237
-
-b) Por cada foja excedente 0.07
-
-VIII. Por expedición de otras legalizaciones
-
-y certificaciones 1.73
-
-IX. Cesión de derechos 53.2607
-
-X. Por elaboración del Acuerdo Administrativo
-
-de reconocimiento de derechos y obligaciones
-
-contractuales, ante fedatario público:
-
-a) Habitacional y comercial 53.26
-
-b) Reserva 82.85
-
-XI. Por elaboración del acuerdo Administrativo de
-
-reconocimiento y ejecución de derechos y
-
-obligaciones contractuales, derivados de una
-
-resolución judicial. 8.47
-
-XII. Por elaboración de convenio de ratificación
-
-de voluntad para la cesión respecto de los
-
-derechos y obligaciones contractuales:
-
-a) Habitacional y comercial 53.26
-
-c) (sic) Reserva 82.85
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 107.
 
-Por los servicios que preste la Comisión para la Juventud y el Deporte de Quintana Roo, se causaran los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 698 A LA 701.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 122 A LA 124.]</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 108.
 
-Por los servicios que preste el Instituto de Infraestructura Física Educativa del Estado de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
-
-1 Convocatoria de obras públicas.
-
-Bases de licitación 1.1836 a 295.8930
-
-2 Asesorías
-
-2.1 De 1 m2 hasta 150 m2 0.1775
-
-2.2 De 151 m2 hasta 300 m2 0.1539
-
-2.3 De 301 m2 hasta 500 m2 0.1184
-
-2.4 De 501 m2 hasta 800 m2 0.1124
-
-2.5 De 801 m2 hasta 1100 m2 0.1065
-
-2.6 De 1101 m2 hasta 1400 m2 0.0947
-
-2.7 De 1401 m2 hasta 2000 m2 0.0769
-
-2.8 De 2001 m2 hasta 2500 m2 0.0651
-
-2.9 De 2501 hasta 3000 m2 0.0592
-
-2.10 De 3001 m2 hasta 6000 m2 0.0473
-
-2.11 De 6001 m2 hasta 8000 m2 0.0414
-
-2.12 De 8001 m2 hasta mayor a 1000m2 0.0355
-
-3 Certificación de Escuelas Nuevas
-
-3.1 Dictamen documental
-
-3.1.1 Básico de 1 a 3 88.7679
-
-3.1.2 Básico de 1 a 3 (más de 3 niveles) 104.7461
-
-3.1.3 Básico de 4 a 6 104.7461
-
-3.1.4 Básico de 4 a 6 (más de 3 niveles) 115.7533
-
-3.1.5 Básico de 7 a 10 115.7533
-
-3.1.6 Básico de 7 a 10 (más de 3 niveles) 139.5431
-
-3.1.7 Media Superior de 1 a 3 106.5215
-
-3.1.8 Media Superior de 1 a 3 (más de 3 niveles) 117.5287
-
-3.1.9 Media Superior de 4 a 6 117.5287
-
-3.1.10 Media Superior de 4 a 6 (más de 3 niveles) 141.3185
-
-3.1.11 Media Superior de 7 a 10 141.3185
-
-3.1.12 Media Superior de 7 a 10 (más de 3 niveles) 149.1301
-
-3.1.13 Superior de 1 a 3 119.6591
-
-3.1.14 Superior de 1 a 3 (más de 3 niveles) 143.4489
-
-3.1.15 Superior de 4 a 6 143.4489
-
-3.1.16 Superior de 4 a 6 (más de 3 niveles) 151.2605
-
-3.1.17 Superior de 7 a 10 151.2605
-
-3.1.18 Superior de 7 a 10 (más de 3 niveles) 164.7532
-
-3.2 Evaluación de la INFE
-
-3.2.1 Básico de 1 a 3 118.3572
-
-3.2.2 Básico de 1 a 3 (más de 3 niveles) 139.6615
-
-3.2.3 Básico de 4 a 6 139.6615
-
-3.2.4 Básico de 4 a 6 (más de 3 niveles) 154.3378
-
-3.2.5 Básico de 7 a 10 154.3378
-
-3.2.6 Básico de 7 a 10 (más de 3 niveles) 186.0575
-
-3.2.7 Media Superior de 1 a 3 142.0286
-
-3.2.8 Media Superior de 1 a 3 (más de 3 niveles) 156.7049
-
-3.2.9 Media Superior de 4 a 6 156.7049
-
-3.2.10 Media Superior de 4 a 6 (más de 3 niveles) 188.4247
-
-3.2.11 Media Superior de 7 a 10 188.4247
-
-3.2.12 Media Superior de 7 a 10 (más de 3 niveles) 198.8401
-
-3.2.13 Superior de 1 a 3 159.5455
-
-3.2.14 Superior de 1 a 3 (más de 3 niveles) 191.2652
-
-3.2.15 Superior de 4 a 6 191.2652
-
-3.2.16 Superior de 4 a 6 (más de 3 niveles) 201.6807
-
-3.2.17 Superior de 7 a 10 201.6807
-
-3.2.18 Superior de 7 a 10 (más de 3 niveles) 219.6710
-
-3.3 Certificación
-
-3.3.1 Básico de 1 a 3 88.7679
-
-3.3.2 Básico de 1 a 3 (más de 3 niveles) 104.7461
-
-3.3.3 Básico de 4 a 6 104.7461
-
-3.3.4 Básico de 4 a 6 (más de 3 niveles) 115.7533
-
-3.3.5 Básico de 7 a 10 115.7533
-
-3.3.6 Básico de 7 a 10 (más de 3 niveles) 139.5431
-
-3.3.7 Media Superior de 1 a 3 106.5215
-
-3.3.8 Media Superior de 1 a 3 (más de 3 niveles) 117.5287
-
-3.3.9 Media Superior de 4 a 6 117.5287
-
-3.3.10 Media Superior de 4 a 6 (más de 3 niveles) 141.3185
-
-3.3.11 Media Superior de 7 a 10 141.3185
-
-3.3.12 Media Superior de 7 a 10 (más de 3 niveles) 149.1301
-
-3.3.13 Superior de 1 a 3 119.6591
-
-3.3.14 Superior de 1 a 3 (más de 3 niveles) 143.4489
-
-3.3.15 Superior de 4 a 6 143.4489
-
-3.3.16 Superior de 4 a 6 (más de 3 niveles) 151.2605
-
-3.3.17 Superior de 7 a 10 151.2605
-
-3.3.18 Superior de 7 a 10 (más de 3 niveles) 164.7532
-
-4 Certificación de Escuelas con Ampliación
-
-4.1 Básico de 1 a 3 edificios (de 1 a 3 niveles) 346.7866
-
-4.2 Básico de 1 a 3 edificios (más de 3 niveles) 400.0473
-
-4.3 Básico de 4 a 6 edificios (de 1 a 3 niveles) 400.0473
-
-4.4 Básico de 4 a 6 edificios (más de 3 niveles) 436.7381
-
-4.5 Básico de 7 a 10 edificios (de 1 a 3 niveles) 436.7381
-
-4.6 Básico de 7 a 10 edificios (más de 3 niveles) 516.0374
-
-4.7 Media Superior de 1 a 3 edificios (de 1 a 3 niveles) 521.9553
-
-4.8 Media Superior de 1 a 3 edificios (más de 3 niveles) 562.1967
-
-4.9 Media Superior de 4 a 6 edificios (de 1 a 3 niveles) 562.1967
-
-4.10 Media Superior de 4 a 6 edificios (más de 3 niveles) 589.4189
-
-4.11 Media Superior de 7 a 10 edificios (de 1 a 3 niveles) 589.4189
-
-4.12 Media Superior de 7 a 10 edificios (más de 3 niveles) 615.4575
-
-4.13 Superior de 1 a 3 edificios (de 1 a 3 niveles) 622.5589
-
-4.14 Superior de 1 a 3 edificios (más de 3 niveles) 643.8632
-
-4.15 Superior de 4 a 6 edificios (de 1 a 3 niveles) 643.8632
-
-4.16 Superior de 4 a 6 edificios (más de 3 niveles) 681.7375
-
-4.17 Superior de 7 a 10 edificios (de 1 a 3 niveles) 681.7375
-
-4.18 Superior de 7 a 10 edificios (más de 3 niveles) 714.8775
-
-5 Renovación de Certificación de Escuela
-
-5.1 Básico de 1 a 3 edificios (de 1 a 3 niveles) 230.2048
-
-5.2 Básico de 1 a 3 edificios (más de 3 niveles) 275.7723
-
-5.3 Básico de 4 a 6 edificios (de 1 a 3 niveles) 275.7723
-
-5.4 Básico de 4 a 6 edificios (más de 3 niveles) 323.1152
-
-5.5 Básico de 7 a 10 edificios (de 1 a 3 niveles) 323.1152
-
-5.6 Básico de 7 a 10 edificios (más de 3 niveles) 387.0281
-
-5.7 Media Superior de 1 a 3 edificios (de 1 a 3 niveles) 281.6901
-
-5.8 Media Superior de 1 a 3 edificios (más de 3 niveles) 329.0330
-
-5.9 Media Superior de 4 a 6 edificios (de 1 a 3 niveles) 329.0330
-
-5.10 Media Superior de 4 a 6 edificios (más de 3 niveles) 392.9459
-
-5.11 Media Superior de 7 a 10 edificios (de 1 a 3 niveles) 392.9459
-
-5.12 Media Superior de 7 a 10 edificios (más de 3 niveles) 432.0038
-
-5.13 Superior de 1 a 3 edificios (de 1 a 3 niveles) 336.1345
-
-5.14 Superior de 1 a 3 edificios (más de 3 niveles) 400.0473
-
-5.15 Superior de 4 a 6 edificios (de 1 a 3 niveles) 400.0473
-
-5.16 Superior de 4 a 6 edificios (más de 3 niveles) 439.1052
-
-5.17 Superior de 7 a 10 edificios (de 1 a 3 niveles) 439.1052
-
-5.18 Superior de 7 a 10 edificios (más de 3 niveles) 484.0810
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 109.
 
-Por los servicios que preste el Consejo Quintanarroense de Ciencia y Tecnología, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 703 A LA 705.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 129 A LA 131.]</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 110.
 
-Por los servicios que preste el Sistema Quintanarroense de Comunicación Social, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 705 A LA 712.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 131 A LA 134.]</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 111.
 
 (DEROGADO, P.O. 22 DE ABRIL DE 2019)
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 112.
 
-Por los servicios que preste el Instituto Quintanarroense de la Mujer, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
-
-1. Por expedición de Copias simples
-
-Por foja tamaño carta:
-
-a) Por la primera foja 0.178
-
-b) Por cada foja excedente 0.06
-
-Por foja tamaño oficio:
-
-a) Por la primera foja 0.237
-
-b) Por cada foja excedente 0.07
-
-2. Por legalizaciones y certificaciones. 1.73
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 113.
 
-Por los servicios que preste el Sistema para el Desarrollo Integral de la Familia, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 714 A LA 716.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 135 A LA 143.]</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 114.
 
-Por los servicios que preste la Fundación de Parques y Museos de Cozumel, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2018, PÁGINAS DE LA 717 A LA 719.]</small>
-
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, P.O. DE 22 DE ABRIL DE 2019, PÁGINAS DE LA 144 A LA 145.]</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 SECCIÓN TRIGÉSIMA
 
 INSTITUTO ESTATAL PARA LA EDUCACIÓN DE JÓVENES Y ADULTOS
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
-
 ###### Artículo 115.
 
-Por los servicios que preste el Instituto Estatal para la Educación de Jóvenes y Adultos, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-CONCEPTO UMA
-
-1. Por expedición de Copias simples
-
-Por foja tamaño carta:
-
-a) Por la primera foja 0.178
-
-b) Por cada foja excedente 0.06
-
-Por foja tamaño oficio:
-
-a) Por la primera foja 0.237
-
-b) Por cada foja excedente 0.07
-
-2. Por legalizaciones y certificaciones 1.73
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 SECCIÓN TRIGÉSIMA PRIMERA
 
 INSTITUTO PARA EL DESARROLLO DEL PUEBLO MAYA Y LAS COMUNIDADES INDÍGENAS DEL ESTADO DE QUINTANA ROO
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2019)</small>
-
 ###### Artículo 116.
 
-Por los servicios que preste el Instituto para el Desarrollo del Pueblo Maya y las Comunidades Indígenas del Estado de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO III. DE LOS DERECHOS DEL PODER JUDICIAL
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO II. INSTITUTO DE ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO
+
+###### Artículo 117.
+
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO IV. DE LOS DERECHOS DE LOS ÓRGANOS AUTÓNOMOS
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### CAPITULO III. TRIBUNAL DE JUSTICIA ADMINISTRATIVA
+
+###### Artículo 118.
+
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO IV. COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE QUINTANA ROO
+
+###### Artículo 119.
+
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 120.
+
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO I. OTROS DERECHOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 121.
+
+(DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2019)</small>
+
+## TÍTULO V. DE LOS DERECHOS DE LAS UNIDADES DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCION DE DATOS PERSONALES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE ABRIL DE 2019)</small>
+
+### CAPÍTULO II. ACCESORIOS DE LOS DERECHOS
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 122.
+
+Por los materiales que se utilicen para reproducir la información que proporcionen las Dependencias, a través de sus Unidades de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, se causarán derechos conforme a la tarifa siguiente:
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+I. Para la expedición de copia simple blanco y negro por cada foja tamaño carta 0.011 UMA.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+II. Para la expedición de copia simple blanco y negro por cada foja tamaño oficio 0.012 UMA.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+III. Expedición de copia a color tamaño carta por foja 0.0828 UMA y tamaño oficio por foja 0.1183 UMA.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+IV. Versiones Públicas por foja 0.040 UMA.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+V. Por la expedición de copias simples de planos geográficos o arquitectónicos que por sus características y dimensiones requieran de mecanismos especiales o equipo tecnológico especial para su reproducción se aplicará la tarifa prevista en la fracción III del artículo 50 de esta Ley.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+VI. Por la expedición de la información digital en disco compacto, multimedia, memoria usb:
+
+CONCEPTO TARIFA
+
+CD 0.1372
+
+CD REGRABABLE 0.2698
+
+DVD 0.0686
+
+DVD REGRABABLE 0.1763
+
+USB 8GB 1.5102
+
+USB 16 GB 1.7848
+
+USB 32 GB 2.5262
+
+USB 64 GB 3.5285
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2019)</small>
+
+VII. Por el escaneo de documentos para entregarlos en medios magnéticos, por cada hoja 0.005 UMA.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+En la expedición de copias simples incluyendo la de datos personales (Acceso, Rectificación, Cancelación y Oposición), el cobro a que se refieren las fracciones I, II y III se realizará únicamente cuando la reproducción de la información exceda de veinte fotocopias.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2019)</small>
+
+Lo dispuesto en la fracción VI, no se realizará cobro alguno, cuando el solicitante se presente ante la Unidad de Transparencia que corresponda, con el material señalado en esa fracción o cualquier otra que se requiera para la reproducción de la información solicitada, siempre y cuando no exceda de veinte hojas.
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+En la expedición de copias certificadas, además del precio de la copia a que se refieren las fracciones I, II y III de este artículo, se realizará el pago a que se refiere el numeral 1 del artículo 123 de esta Ley.
+
+Para el envío de documentos o de material que contenga información a través de correo certificado o mensajería, además del pago de derechos a que se refieren las fracciones I, II, III, IV, V, VI y VII el solicitante deberá cubrir el costo del servicio respectivo por lo que deberá notificar a la Unidad de Transparencia correspondiente los servicios que ha contratado para que ésta última proceda al envío.
+
+Cualquier institución pública estatal no prevista en la presente ley, que presten servicios o realicen actividades contempladas en el presente artículo y por las que deban percibir una contraprestación económica, se sujetarán a lo dispuesto en este mismo artículo.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO VI. OTROS DERECHOS, SUS ACCESORIOS Y EJERCICIOS FISCALES ANTERIORES
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO III. DERECHOS CAUSADOS EN EJERCICIOS FISCALES ANTERIORES PENDIENTES DE LIQUIDACIÓN O PAGO
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 123.
+
+Son las contribuciones derivadas por contraprestaciones no incluidas en los tipos anteriores, de conformidad con la legislación aplicable en la materia.
 
 CONCEPTO UMA
 
 1. Por expedición de Copias simples
 
-Por foja tamaño carta:
+a) Por foja tamaño carta: 0.178
 
-a) Por la primera foja 0.178
+b) Por la primera foja 0.06
 
-b) Por cada foja excedente 0.06
-
-Por foja tamaño oficio:
+Por cada foja excedente Por foja tamaño oficio:
 
 a) Por la primera foja 0.237
 
@@ -4181,221 +2671,19 @@ b) Por cada foja excedente 0.07
 
 2. Por legalizaciones y certificaciones 1.73
 
-## título 40.90. 6. Altas y bajas por materia 1.36
+3. Copias certificadas de convenios transaccionales, exhortos y autorizaciones para escrituraciones. 9.00
 
-7. Constancias por materia 1.98
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-8. Constancias de Estudios. 1.36
+###### Artículo 124.
 
-9. Expedición de certificados 6.82
+Son los ingresos que se perciben por concepto de recargos, sanciones, gastos de ejecución, indemnizaciones, entre otros, asociados a los derechos, cuando éstos no se cubran oportunamente, de conformidad con la legislación aplicable en la materia.
 
-10. Expedición de Credencial 1.36
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-11. Cambio de Carrera 6.82
+###### Artículo 125.
 
-12. Solicitud de revalidación o equivalencia
-
-de estudios 9.92
-
-13. Inscripción estudiante extranjero 109.18
-
-14. Reinscripción de estudiante extranjero 109.18
-
-15. Reposición de boleta de calificaciones 0.68
-
-16. Curso propedéutico 7.44
-
-17. Evaluación Autodidacta 12.41
-
-18. Evaluación extemporánea 18.61
-
-19. Evaluación Global 24.81
-
-20. Curso de Idiomas para el público en
-
-general 15.51
-
-21. Curso de Idiomas para comunidad
-
-universitaria 9.31
-
-22. Certificado del Programa Office 12.41
-
-23. Certificado en desarrollo de Software 14.89
-
-24. Insumos de Laboratorio 3.72
-
-25. Reinscripción Deportiva y Cultural 13.65
-
-26. Reinscripción Kantunilkin 21.09
-
-27. Expedición de Kardex 1.36
-
-28. Reinscripción estudiantes nacionales
-
-al cursar carrera simultánea 13.645
-
-29. Reinscripción estudiantes extranjeros al
-
-cursar carrera simultánea 54.59
-
-30. Otros Derechos 0.68 a 109.18
-
-###### Artículo 117.
-
-Por expedición de copias certificadas a cargo del Poder Judicial, 1.00 UMA.
-
-## TÍTULO III. DE LOS DERECHOS DEL PODER JUDICIAL
-
-###### Artículo 118.
-
-Por los servicios que presta la Fiscalía General del Estado de Quintana Roo, se causarán derechos conforme a la tarifa siguiente:
-
-CONCEPTO UMA
-
-I. Expedición de certificados de antecedentes penales 2.44
-
-II. Acta Certificada de extravío de documentos oficiales 10.00
-
-III. Examen antidoping 6.00
-
-###### Artículo 119.
-
-Por los materiales que se utilicen para reproducir la información que proporcione la Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Instituto, se causarán derechos conforme a lo siguiente:
-
-I. Para la expedición de copia simple blanco y negro por cada foja tamaño carta 0.011 UMA.
-
-II. Para la expedición de copia simple blanco y negro por cada foja tamaño oficio 0.012 UMA.
-
-III. Expedición de copia a color tamaño carta por foja 0.0828 UMA y tamaño oficio por foja 0.1183 UMA.
-
-IV. Por la elaboración de Versiones Públicas por foja 0.040 UMA.
-
-V. Por la expedición de copias simples de planos geográficos o arquitectónicos que por sus características y dimensiones requieran de mecanismos especiales o equipo tecnológico especial para su reproducción se aplicará la tarifa prevista en la fracción III del artículo 50 de esta Ley.
-
-VI. Por la expedición de la información digital en disco compacto, multimedia, memoria usb:
-
-CONCEPTO TARIFA
-
-CD 0.1372
-
-CD REGRABABLE 0.2698
-
-DVD 0.0686
-
-DVD REGRABABLE 0.1763
-
-USB 8GB 1.5102
-
-USB 16 GB 1.7848
-
-USB 32 GB 2.5262
-
-USB 64 GB 3.5285
-
-VII. Por el escaneo de documentos para entregarlos en medios magnéticos, por cada foja 0.005 UMA.
-
-En la expedición de copias simples incluyendo la de datos personales (Acceso, Rectificación, Cancelación, Oposición y Portabilidad, por sus siglas ARCOP), el cobro a que se refieren las fracciones I, II y III se realizará únicamente cuando la reproducción de la información exceda de veinte fotocopias.
-
-Lo dispuesto en la fracción VI, no se realizará cobro alguno, cuando el solicitante se presente ante la Unidad de Transparencia que corresponda, con el material señalado en esa fracción o cualquier otra que se requiera para la reproducción de la información solicitada, siempre y cuando no exceda de veinte hojas.
-
-En la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refieren las fracciones I, II y III de este artículo, se realizará el pago a que se refiere el numeral 2 del artículo 14 de esta Ley.
-
-Para el envío de documentos o de material que contenga información a través de correo certificado o mensajería, además del pago de derechos a que se refieren las fracciones I, II, III, IV, V, VI y VII el solicitante deberá cubrir el costo del servicio respectivo por lo que deberá notificar a la Unidad de Transparencia correspondiente los servicios que ha contratado para que ésta última proceda al envío.
-
-###### Artículo 120.
-
-Por expedición de copias certificadas a cargo del Tribunal de Justicia Administrativa, 1.00 UMA.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2019)</small>
-
-###### Artículo 121.
-
-Por los servicios que presta la Comisión de los Derechos Humanos del Estado de Quintana Roo, se causarán los derechos, conforme a la tarifa siguiente:
-
-CONCEPTO UMA
-
-1. Expedición de copias simples
-
-1.1 Por primera foja (tamaño carta) 0.178
-
-1.2 Por cada foja excedente (tamaño carta) 0.0600
-
-1.3 Por primera foja (tamaño oficio) 0.237
-
-1.4 Por cada foja excedente (tamaño oficio) 0.0700
-
-2. Por certificación de copias 1.0000
-
-3. Inscripción a Posgrado, sede Cancún 29.5900
-
-4. Mensualidad a Posgrado, sede Cancún 37.8800
-
-5. Inscripción a posgrado, sede Chetumal 23.6800
-
-6. Mensualidad sede Chetumal 29.0000
-
-7. Reinscripción 14.8000
-
-8. Constancia simple 0.6000
-
-9. Repetición de materia 11.8400
-
-10. Reposición de credencial 0.8300
-
-11. Certificado parcial de estudios 5.3300
-
-12. Trámite de titulación 38.4700
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULO QUE LO INTEGRAN, P.O. 22 DE ABRIL DE 2019)</small>
-
-## TÍTULO IV. DE LOS DERECHOS DE LOS ÓRGANOS AUTÓNOMOS
-
-###### Artículo 122.
-
-Por los materiales que se utilicen para reproducir la información que proporcionen el Poder Legislativo, las Dependencias, Entidades, el Poder Judicial y Órganos Autónomos, a través de sus Unidades de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, se causarán derechos conforme a la tarifa siguiente:
-
-I. Para la expedición de copia simple blanco y negro por cada foja tamaño carta 0.011 UMA.
-
-II. Para la expedición de copia simple blanco y negro por cada foja tamaño oficio 0.012 UMA.
-
-III. Expedición de copia a color tamaño carta por foja 0.828 UMA y tamaño oficio por foja 0.1183 UMA.
-
-IV. Versiones Públicas por foja 0.040 UMA.
-
-V. Por la expedición de copias simples de planos geográficos o arquitectónicos que por sus características y dimensiones requieran de mecanismos especiales o equipo tecnológico especial para su reproducción se aplicará la tarifa prevista en la fracción III del artículo 50 de esta Ley.
-
-VI. Por la expedición de la información digital en disco compacto, multimedia, memoria usb:
-
-CONCEPTO TARIFA
-
-CD 0.1372
-
-CD REGRABABLE 0.2698
-
-DVD 0.0686
-
-DVD REGRABABLE 0.1763
-
-USB 8GB 1.5102
-
-USB 16 GB 1.7848
-
-USB 32 GB 2.5262
-
-USB 64 GB 3.5285
-
-VII. Por el escaneo de documentos para entregarlos en medios magnéticos, por cada hoja 0.005 UMA.
-
-En la expedición de copias simples incluyendo la de datos personales (Acceso, Rectificación, Cancelación, Oposición y Portabilidad), el cobro a que se refieren las fracciones I, II y III se realizará únicamente cuando la reproducción de la información exceda de veinte fotocopias.
-
-Lo dispuesto en la fracción VI, no se realizará cobro alguno, cuando el solicitante se presente ante la Unidad de Transparencia que corresponda, con el material señalado en esa fracción o cualquier otra que se requiera para la reproducción de la información solicitada, siempre y cuando no exceda de veinte hojas.
-
-En la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refieren las fracciones I, II y III de este artículo, se realizará el pago a que se refiere el numeral 2 del artículo 14 de esta Ley.
-
-Para el envío de documentos o de material que contenga información a través de correo certificado o mensajería, además del pago de derechos a que se refieren las fracciones I, II, III, IV, V, VI y VII el solicitante deberá cubrir el costo del servicio respectivo por lo que deberá notificar a la Unidad de Transparencia correspondiente los servicios que ha contratado para que ésta última proceda al envío.
-
-Cualquier institución pública estatal no prevista en la presente ley, que presten servicios o realicen actividades contempladas en el presente artículo y por las que deban percibir una contraprestación económica, se sujetarán a lo dispuesto en este mismo artículo.
+Son los ingresos que se recauden en el ejercicio corriente, por derechos pendientes de liquidación o pago causados en ejercicios fiscales anteriores, no incluidos en la Ley de Ingresos vigente.
 
 T R A N S I T O R I O S
 
@@ -4467,10 +2755,6 @@ EL GOBERNADOR DEL ESTADO DE QUINTANA ROO, C.P. CARLOS MANUEL JOAQUÍN GONZÁLEZ,
 
 P.O. 22 DE ABRIL DE 2019.
 
-## TÍTULO V. DE LOS DERECHOS DE LAS UNIDADES DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCION DE DATOS PERSONALES
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE ABRIL DE 2019)</small>
-
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 314 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado.
@@ -4522,3 +2806,59 @@ CUARTO. Los organismos públicos descentralizados tendrán garantizada la devolu
 En el caso de los Poderes, Órganos Constitucionales Autónomos y cualquier otro ente público no previsto en los lineamientos a que hace referencia el párrafo anterior, podrán adherirse a los esquemas de recaudación y reintegro de las contraprestaciones derivadas de los servicios prestados en sus funciones de derecho público.
 
 QUINTO. Se dejan sin efecto las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 011 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS (SIC) ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día 1 de enero de 2020.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Por lo que respecta al informe previsto en el artículo 5 de la presente Ley, en tanto se implemente el Sistema Único de Información, los sujetos obligados deberán presentarlo por escrito ante la Secretaría.
+
+CUARTO. Cuando en la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo se refiera a la Ley de Hacienda del Estado se entenderá que se trata de la Ley de Derechos del Estado de Quintana Roo.
+
+QUINTO. Por cuanto a los derechos señalados en el artículo 51-Bis correspondientes al Uso de las Unidades de Servicio en sitios inmediatos a las zonas arqueológicas, comenzarán su aplicación a los 120 días naturales posteriores a la entrada en vigor de la expedición del presente decreto.
+
+SEXTO. En tanto el Estado de Quintana Roo, permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los derechos siguientes:
+
+I. Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de las siguientes:
+
+a) Licencias de construcción.
+
+b) Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+c) Licencias para fraccionar o lotificar terrenos.
+
+d) Licencias para conducir vehículos.
+
+e) Expedición de placas y tarjeta para la circulación de vehículos.
+
+f) Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales, cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+g) Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto los que se realicen por medio de televisión, radio, periódicos y revistas.
+
+II. Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro Civil
+
+2. Registro de la Propiedad y del Comercio.
+
+III. Uso de las vías públicas o la tenencia de bienes sobre las mismas. No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+IV. Actos de inspección y vigilancia.
+
+V. Los conceptos a que se refieren las fracciones anteriores, sin excepción alguna, en relación con las actividades o servicios que realicen o presten las personas respecto del uso, goce, explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de hidrocarburos o de telecomunicaciones.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto tratándose de derechos diferenciales por los conceptos a los que se refieren los incisos del a) al g) de la fracción I y la fracción III.
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedará comprendida dentro de lo dispuesto en las fracciones I y II de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, se entenderá que limita la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aun cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.
+
+También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros. Cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SÉPTIMO. Los conceptos y tarifas previstas en el Capítulo II, Título II de esta Ley, que se derogan en el presente Decreto, podrán ser utilizados por las Entidades Paraestatales y Fideicomisos para auxiliarse en el cobro de los servicios que presten en concepto de ingresos propios, hasta el 31 de enero de 2020.
