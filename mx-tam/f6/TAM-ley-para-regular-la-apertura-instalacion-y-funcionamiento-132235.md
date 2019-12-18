@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-regular-la-apertura-instalacion-y-funcionamiento-13223
 country: "mx"
 rank: "ley"
 publication_date: "2019-01-09"
-last_updated: "2019-01-09"
+last_updated: "2019-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Tamaulipas, el miércoles 9 de enero de 2019.
 
@@ -173,7 +173,7 @@ La Secretaría, al resolver favorablemente la solicitud de un permiso, requerir�
 
 El permiso que se expida será personal e intransferible y con vigencia de un año fiscal.
 
-En caso de que el permisionario realice la solicitud de inscripción después del 30 de junio del año de que se trate, solo pagará el importe equivalente al 50% del monto establecido para tal efecto en la Ley de Hacienda para el Estado de Tamaulipas.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTÍCULO 14.
 
@@ -502,3 +502,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiún días del mes de diciembre del año dos mil dieciocho.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIV-63 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO, DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS".
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
