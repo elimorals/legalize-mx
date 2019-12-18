@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2018-12-25"
+last_updated: "2019-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -63,7 +63,9 @@ A falta de disposición expresa en esta ley, se aplicará supletoriamente el Có
 
 Para los efectos de esta ley se entenderá por:
 
-I.- Abarrotes: Establecimiento dedicado a la venta de alimentos y bebidas sin preparar, artículos para el hogar y similares que expende, complementariamente, bebidas alcohólicas en envase cerrado al menudeo;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+I.- Abarrotes: Establecimiento dedicado a la venta de alimentos y bebidas sin preparar, artículos para el hogar y similares que expende, complementariamente, bebidas alcohólicas en envase cerrado al menudeo, deberá contar con un área de servicio no menor de 50 metros cuadrados y el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores. El valor de la existencia de bebidas alcohólicas dispuesta para su venta en el establecimiento, no debe ser superior al 20% del importe total de la mercancía en el mismo;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -139,79 +141,99 @@ XXX.- Envasadora: Negociación que se dedica al envasamiento de bebidas alcohól
 
 XXXI.- Establecimiento: Lugar destinado para la enajenación, distribución o consumo de bebidas alcohólicas, independientemente del nombre con que se le designe;
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+XXXII.- Establecimiento con cruce o captación de apuestas: Establecimientos en los que se realicen juegos con cruce o captación de apuestas incluidos sorteos, independientemente de la denominación que se les dé, así como apuestas remotas para eventos o competencias deportivas y para los cuales se requiera permiso conforme a lo dispuesto por la Ley Federal de Juegos y Sorteos y su Reglamento;
+
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
-XXXII.- Expendio o depósito: Establecimiento en donde se enajena cerveza en envase cerrado para su posterior consumo en lugar distinto a este;
+XXXIII.- Expendio o depósito: Establecimiento en donde se enajena cerveza en envase cerrado para su posterior consumo en lugar distinto a este;
 
-XXXIII.- Feria: Lugar o espacio habilitado o construido para efecto de exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza lícita, con el objeto de promover el desarrollo del Estado, en el que se puede enajenar bebidas alcohólicas, servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
+XXXIV.- Feria: Lugar o espacio habilitado o construido para efecto de exponer, exhibir y dar a conocer artículos y actividades comerciales, industriales, artísticas, culturales, artesanales, deportivas y de cualquier otra naturaleza lícita, con el objeto de promover el desarrollo del Estado, en el que se puede enajenar bebidas alcohólicas, servidas en envase desechable, de plástico o de cualquier otro material que no represente peligro alguno;
 
-XXXIV.- Fonda, lonchería, taquería, cenaduría, comedor y similares: Lugares donde se expenden alimentos preparados, que de manera complementaria podrán enajenar únicamente cerveza para su consumo en el interior del mismo lugar y en forma simultánea al consumo de alimentos;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-XXXV.- Licencia: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que consta la autorización, los términos y las condiciones en que se puede enajenar, distribuir o permitir el consumo de bebidas alcohólicas, ya sea en envase cerrado o abierto;
+XXXV.- Fonda: Fonda, lonchería, taquería, cenaduría, comedor y similares: Lugares donde se expenden alimentos preparados, que de manera complementaria podrán enajenar únicamente cerveza para su consumo en el interior del mismo lugar y en forma simultánea al consumo de alimentos;
 
-XXXVI.- Licorería: Establecimiento cuya actividad predominante sea la enajenación de bebidas alcohólicas en envase cerrado y al menudeo;
+XXXVI.- Licencia: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que consta la autorización, los términos y las condiciones en que se puede enajenar, distribuir o permitir el consumo de bebidas alcohólicas, ya sea en envase cerrado o abierto;
 
-XXXVII.- Mercancía: Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización y venta;
+XXXVII.- Licorería: Establecimiento cuya actividad predominante sea la enajenación de bebidas alcohólicas en envase cerrado y al menudeo;
+
+XXXVIII.- Mercancía: Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización y venta;
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XXXVIII.- Microcervecería: Se entiende aquel establecimiento independiente donde se produce y almacena para su distribución y venta, cerveza artesanal, de producción propia así como un diverso productor de cerveza artesanal, y cuenta con sala de degustación con música en vivo o grabada, área en el interior o exterior para dar servicio, autorizado en los términos de la normatividad aplicable;
+XXXIX.- Microcervecería: Se entiende aquel establecimiento independiente donde se produce y almacena para su distribución y venta, cerveza artesanal, de producción propia así como un diverso productor de cerveza artesanal, y cuenta con sala de degustación con música en vivo o grabada, área en el interior o exterior para dar servicio, autorizado en los términos de la normatividad aplicable;
 
-XXXIX.- Minisuper: Establecimiento con prestación de autoservicio, cuyo objeto primordial es la venta al público de alimentos y bebidas sin preparar, así como productos de uso y de consumo, el cual podrá complementariamente enajenar bebidas alcohólicas en envase cerrado para su consumo en lugar distinto;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-XL.- Permiso: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que se autoriza la enajenación de bebidas alcohólicas en envase abierto desechable, de plástico o de cualquier otro material que no represente peligro alguno y se permite su consumo en un espacio previamente delimitado;
+XL.- Minisúper: Establecimiento con prestación de autoservicio, cuyo objeto primordial es la venta al público de alimentos y bebidas sin preparar, así como productos de uso y de consumo, el cual podrá complementariamente enajenar bebidas alcohólicas en envase cerrado para su consumo en lugar distinto, deberá contar con un área de servicio no menor de 50 metros cuadrados y el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores. El valor de la existencia de bebidas alcohólicas dispuesta para su venta en el establecimiento, no debe ser superior al 20% del importe total de la mercancía en el mismo.
 
-XLI.- Propietario: Persona física o moral que enajena bebidas alcohólicas en los términos de esta ley, así como aquella que con el carácter de dependiente, gerente, administrador, representante u otro similar, sea responsable de la operación y funcionamiento de algún establecimiento;
+XLI.- Permiso: Documento otorgado por el Ejecutivo del Estado, por conducto de la Secretaría, en el que se autoriza la enajenación de bebidas alcohólicas en envase abierto desechable, de plástico o de cualquier otro material que no represente peligro alguno y se permite su consumo en un espacio previamente delimitado;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+XLII.- Propietario: Persona física o moral que enajena bebidas alcohólicas en los términos de esta ley, así como aquella que con el carácter de dependiente, gerente, administrador, representante u otro similar, sea responsable de la operación y funcionamiento de algún establecimiento;
 
-XLII.- Restaurante: Establecimiento donde se expenden alimentos y bebidas alcohólicas, para su consumo en el mismo, debiendo contar con menú de los platillos que expenda y las materias primas suficientes para su preparación;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+XLIII.- Restaurante: Establecimiento donde se expenden alimentos y bebidas alcohólicas, para su consumo en el mismo, debiendo contar con menú de los platillos que expenda y las materias primas suficientes para su preparación, deberá contar con un mínimo de 10 mesas con sus sillas, cocina que incluya: estufa, refrigerador, utensilios de cocina, vajillas, deberá contar con visibilidad al interior del establecimiento, sanitario independiente para ambos sexos, un área de servicio no menor de 50 metros cuadrados, el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores, deberá estar independiente de cualquier otro establecimiento y no deberá tener restricción alguna al acceso familiar;
 
-XLIII.- Restaurant bar: Establecimiento donde se expenden alimentos para su consumo en el mismo, que en su interior cuente con una área donde solo se expendan bebidas alcohólicas, que además podrá contar con pista de baile para su clientela, menú de los platillos que expenda y alimentos suficientes para su preparación;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+XLIV.- Restaurant-Bar: Establecimiento donde se expenden alimentos para su consumo en el mismo, que en su interior cuente con una área donde solo se expendan bebidas alcohólicas, que además podrá contar con pista de baile para su clientela, menú de los platillos que expenda y alimentos suficientes para su preparación, deberá contar con un mínimo de 10 mesas con sus sillas, cocina que incluya: estufa, refrigerador, utensilios de cocina, vajillas, deberá contar con visibilidad al interior del establecimiento, sanitario independiente para ambos sexos, un área de servicio no menor de 50 metros cuadrados, el exterior del local no deberá ostentar publicidad de bebidas alcohólicas o de sus proveedores, deberá estar independiente de cualquier otro establecimiento y no deberá tener restricción alguna al acceso familiar;
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XLIV.- Sala de degustación para la venta exclusiva de cerveza artesanal: Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos y que cuente con música grabada o en vivo;
+XLV.- Sala de degustación para la venta exclusiva de cerveza artesanal: Establecimiento mercantil cuya actividad exclusiva es la venta para consumo de cerveza artesanal hecha en México con o sin alimentos y que cuente con música grabada o en vivo;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-XLV.- Salón de Fiestas y Eventos: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para diversión de los asistentes y por prestar servicios de banquete, el cual incluye el consumo de bebidas alcohólicas en envase abierto y al copeo en el interior del mismo durante el desarrollo del evento, dicho lugar no podrá funcionar como discoteca, bar, restaurant-bar o cualquier otro giro.
+XLVI.- Sala de fiestas y eventos: Lugar destinado a la realización de fiestas y bailes eventuales, el cual además se caracteriza por presentar espectáculos para diversión de los asistentes y por prestar servicios de banquete, el cual incluye el consumo de bebidas alcohólicas en envase abierto y al copeo en el interior del mismo durante el desarrollo del evento, dicho lugar no podrá funcionar como discoteca, bar, restaurant-bar o cualquier otro giro;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-XLVI.- Secretaría: La Secretaría de Finanzas;
+XLVII.- Secretaría: La Secretaría de Finanzas;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-XLVII.- Secretario: El titular de la Secretaría de Finanzas;
+XLVIII.- Secretario: El titular de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-XLVIII.- Supermercado: Establecimiento comercial organizado por departamentos con sistema de autoservicio, con enajenación complementaria de bebidas alcohólicas al menudeo en envase cerrado, para su consumo en lugar distinto;
+XLIX.- Supermercado: Establecimiento comercial organizado por departamentos con sistema de autoservicio, con enajenación complementaria de bebidas alcohólicas al menudeo en envase cerrado, para su consumo en lugar distinto, deberá contar con carritos de autoservicio, estacionamiento para más de 10 vehículos y en este tipo de giro la enajenación de bebidas alcohólicas, deberá ser de un 20% contra un 80% de la demás mercancía;
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2017)</small>
 
-XLIX.- Tienda de Cerveza Artesanal: Establecimiento mercantil especializado en la venta de cerveza artesanal, hecha en México, en envase cerrado al menudeo, mercancías relacionadas con su consumo externo;
+L.- Tienda de Cerveza Artesanal: Establecimiento mercantil especializado en la venta de cerveza artesanal, hecha en México, en envase cerrado al menudeo, mercancías relacionadas con su consumo externo;
 
-L.- Venta: Toda actividad relacionada con la enajenación de bebidas alcohólicas;
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-LI.- Venta al mayoreo: Enajenación de bebidas alcohólicas en cartón o caja cerrada;
+LI.- Tienda de Conveniencia: Establecimiento que ofrece una gran variedad de productos, como comida rápida, bebidas alcohólicas y no alcohólicas, enlatados, congelados, periódicos y revistas, fármacos de venta libre, además de ofrecer servicios de transacciones, depósitos y pago de servicios, debiendo contar con una superficie menor a los 500 metros cuadrados, pudiendo funcionar las 24 horas del día y los 365 días del año, pero para la venta de bebidas alcohólicas deberán sujetarse a los horarios establecidos por la ley;
 
-LII.- Venta al menudeo: Enajenación de bebidas alcohólicas en envase o botella cerrada o abierta o al copeo; y,
+LII.- Venta: Toda actividad relacionada con la enajenación de bebidas alcohólicas;
 
-LIII.- Visitador: Servidor Público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de esta ley.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+LIII.- Venta al mayoreo: Enajenación de bebidas alcohólicas en cartón o caja cerrada cuando esta sea mayor de cinco cajas o cartones;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+LIV.- Venta al menudeo: Enajenación de bebidas alcohólicas en envase o botella cerrada o abierta o al copeo, y que esta sea de cinco cajas o cartones o menos; y
+
+LV.- Visitador: Servidor Público que se le ordena practicar visitas domiciliarias a un determinado establecimiento, con el fin de verificar el cumplimiento de esta ley.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 Para los efectos de esta ley se considera que la actividad se realiza de manera complementaria cuando el importe de la enajenación por concepto de bebidas alcohólicas no exceda del 40% del total de las enajenaciones efectuadas en un mes de calendario.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 6o.
 
-En los abarrotes, agencias o subagencias, almacenes, bodegas, centros comerciales, distribuidoras, expendios o depósitos, licorerías, minisúper y supermercados, la enajenación o distribución de bebidas alcohólicas sólo podrá efectuarse en envase cerrado y para su posterior consumo en lugar distinto a éstos.
+En los abarrotes, agencias o subagencias, almacenes, bodegas, centros comerciales, distribuidoras, expendios o depósitos, licorerías, minisúper, tiendas de conveniencia y supermercados, la enajenación o distribución de bebidas alcohólicas sólo podrá efectuarse en envase cerrado y para su posterior consumo en lugar distinto a éstos.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Únicamente se autoriza destapar las bebidas en el interior a efecto de que estas sean preparadas con otros ingredientes, pero no podrán consumirse en el mismo lugar, siendo únicamente para llevar y deberán entregarse al cliente en recipiente tapado.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -228,6 +250,10 @@ Los establecimientos destinados al almacenamiento, distribución y enajenación 
 ###### ARTICULO 9o.
 
 Para la operación y funcionamiento de los establecimientos destinados al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, en envase cerrado o abierto, o al copeo, deberán contar previamente cada uno con la licencia o permiso expedido por el Ejecutivo del Estado, por conducto de la Secretaría, la que las otorgará en los términos y bajo las condiciones que establece la presente ley.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+En los establecimientos comerciales sea cual fuere su giro no podrán tener en existencia cualquier tipo y cantidad de bebidas alcohólicas, ni permitir el consumo de estas, sin contar con la licencia o permiso correspondiente.
 
 ###### ARTICULO 10.
 
@@ -309,6 +335,14 @@ XXX.- Supermercado; y
 
 XXXI.- Tienda de cerveza artesanal.
 
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+XXXII.- Tienda de Conveniencia; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+XXXIII.- Establecimiento con Cruce o Captación de Apuestas.
+
 ###### ARTICULO 11.
 
 Los establecimientos similares a los señalados en el artículo anterior, no enunciados en éste, cualquiera que sea su denominación o identificación, serán clasificados por la Secretaría, por analogía.
@@ -375,7 +409,9 @@ XI.- Pintar en la parte exterior y al frente del establecimiento, en lugar visib
 
 XII.- Impedir la entrada a menores de edad o a personas que no estén en pleno goce de sus facultades mentales, tratándose de bar, cabaret o centro nocturno, cantina o taberna, o cervecería, debiendo fijar letreros visibles en el exterior del establecimiento, señalando esta prohibición.
 
-XIII.- Impedir que las personas que concurran a los establecimientos de bar, cabaret o centro nocturno, cantina, cervecería o discoteca permanezcan en ellos después del horario fijado en el artículo 19 de esta ley;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+XIII.- Impedir que las personas que concurran a los establecimientos de bar, cabaret o centro nocturno, cantina, cervecería o discoteca permanezcan en ellos después del horario fijado en el artículo 19 de esta ley; en los casos de restaurantes y restaurant-bar, éstos podrán permanecer abiertos, pero no deberán enajenar ni permitir el consumo de bebidas alcohólicas fuera del horario fijado en el artículo 19 de esta Ley;
 
 XIV.- Iniciar las actividades autorizadas en la licencia en un plazo no mayor de noventa días naturales a partir de la fecha en que fue expedida la misma;
 
@@ -423,9 +459,9 @@ Los establecimientos a que se refiere esta ley, se regirán, para la distribuci�
 
 La enajenación de bebidas alcohólicas al público podrá realizarse solo en los días y horarios siguientes:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-I.- Los abarrotes, expendios o depósitos, licorerías, minisuper y supermercados, de lunes a sábado, de las diez a las veinticuatro horas, y los domingos de las diez a las veinte horas;
+I.- Los abarrotes, expendios o depósitos, licorerías, minisúper, supermercados, tienda de cerveza artesanal y tiendas de conveniencia, de lunes a sábado, de las diez a las veinticuatro horas, y los domingos de las diez a las veinte horas;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -445,21 +481,25 @@ V.- Los billares o boliches, de lunes a sábado de las doce a las veinticuatro h
 
 VI.- Los centros recreativos, deportivos o clubes, centros de espectáculos, casinos, círculos o clubes sociales, café cantantes, de lunes a sábado de las doce a las dos horas del día siguiente, y los domingos de las doce a las veinticuatro horas;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-VII.- Los cabarets o centros nocturnos y discotecas, de domingo a jueves de las veinte a las dos horas del día siguiente, y los viernes y sábados de las veinte a las cuatro horas del día siguiente;
+VII.- Los cabarets o centros nocturnos, discotecas y establecimiento con cruce y captación de apuesta, de domingo a jueves de las veinte a las dos horas del día siguiente, y los viernes y sábados de las veinte a las cuatro horas del día siguiente;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Los bares, bares de hotel y motel, restaurantes y restaurantes-bar, de lunes a sábado de las diez a las dos horas del día siguiente, y los domingos de las diez a las veinticuatro horas; y
+VIII.- Los bares, bares de hotel y motel, restaurantes, restaurantes-bar, las microcervecerías y sala de degustación para la venta exclusiva de cerveza artesanal, de lunes a sábado de las diez a las dos horas del día siguiente, y los domingos de las diez a las veinticuatro horas;
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
 En los casos de los restaurantes y restaurant-bar, estos podrán permanecer abiertos, pero no deberán enajenar ni permitir el consumo de bebidas alcohólicas fuera de este horario.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-IX.- Los salones de fiestas y eventos, de lunes a sábado de las diez a las cuatro horas del día siguiente, y los domingos de las diez a las veinticuatro horas. En los días 15 de septiembre, 24 y 31 de diciembre se observará el horario aplicable a sábado.
+IX.- Los salones de fiestas y eventos, de lunes a sábado de las diez a las cuatro horas del día siguiente, y los domingos de las diez a las veinticuatro horas.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+En los días 15 de septiembre, 24 y 31 de diciembre se observará el horario aplicable al sábado.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -513,9 +553,9 @@ VII.- Croquis o plano en que se indique, en forma clara y precisa, la ubicación
 
 VIII.- Licencia o constancia expedida por la autoridad sanitaria de la jurisdicción que corresponda, en la que se acredite que el local reúne los requisitos sanitarios en vigor;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-IX.- Constancia expedida por el Ayuntamiento y/o por la Secretaría de Finanzas, respecto al cumplimiento de los requisitos en materia del uso de la construcción o edificación del establecimiento y de las distancias a que se refiere la fracción XII de éste Artículo;
+IX.- Constancia expedida por el Ayuntamiento respecto al cumplimiento de los requisitos en materia del uso de la construcción o edificación del establecimiento y de las distancias a que se refiere la fracción XII de éste artículo;
 
 X.- Constancia de no adeudos fiscales, expedida por la Oficina Fiscal del Estado, así como de estar inscrito en el Registro Estatal de Contribuyentes;
 
@@ -753,6 +793,14 @@ IX.- Cuando se presente alguna de las causales previstas en el Artículo 53 Frac
 
 La Secretaría iniciará el procedimiento de cancelación de la licencia, y notificará por oficio al propietario o su representante legal la causa que lo funda y motiva, concediéndole un plazo de diez días hábiles, contados a partir del siguiente a aquel al de su notificación, para que exponga su inconformidad y ofrezca las pruebas que estime pertinentes, mismas que deberán ser de tal naturaleza que puedan desahogarse en un plazo máximo de diez días hábiles. Transcurrido dicho plazo, sino hubiera presentado inconformidad y las pruebas respectivas, se tendrán por consentidos los hechos consignados en el oficio.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+La Secretaría dará inicio al procedimiento de cancelación de licencia al que se refiere el presente artículo y el artículo 50 de la presente Ley, solo cuando las hipótesis jurídicas que dieren lugar a ello se actualicen fuera del ejercicio de las facultades de comprobación de la propia Secretaría.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Cuando las infracciones cometidas por el contribuyente sean descubiertas por la autoridad con motivo del ejercicio de sus facultades de comprobación, el plazo de diez días a que hace referencia el primer párrafo de este artículo, será otorgado al particular al momento de determinar la sanción correspondiente.
+
 ###### ARTICULO 50.
 
 La Secretaría, al resolver sobre un procedimiento de cancelación, apreciará las pruebas ofrecidas por el interesado y expondrá en sus resoluciones los fundamentos de hecho y de derecho que apoyen su resolución.
@@ -951,9 +999,9 @@ La imposición de las sanciones económicas deberá hacerse entre el mínimo y e
 
 El incumplimiento de las obligaciones que establece esta ley, se sancionará de acuerdo a lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-I.- Con multa de setenta y cinco a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de quince días, en los siguientes casos:
+I.- Con multa de ochenta y tres a ciento sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de quince días, en los siguientes casos:
 
 a).- Por no tener en lugar visible al público la licencia y, en su caso, el permiso original respectivo;
 
@@ -963,9 +1011,9 @@ c).- Por no pintar en el exterior del establecimiento, en lugar visible, un rect
 
 d).- A quienes no conserven en el establecimiento los comprobantes de pago de los derechos correspondientes a la licencia. En este caso solo se aplicará la sanción económica;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-II.- Con multa de ciento cincuenta y uno a trescientas veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
+II.- Con multa de ciento sesenta y siete a trescientas treinta veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
@@ -979,9 +1027,9 @@ d).- A quienes vendan o permitan el consumo de cerveza sin alimentos en los esta
 
 e).- A quienes enajenen y permitan el consumo de bebidas alcohólicas en los sitios y lugares mencionados en el artículo 63 de la presente ley;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-III.- Con multa de trescientos uno a quinientas veces el valor diario de la Unidad de Medida y Actualización, y clausura temporal hasta por un plazo de sesenta días, en los siguientes casos:
+III.- Con multa de trescientas treinta y dos a quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, y clausura temporal hasta por un plazo de sesenta días, en los siguientes casos:
 
 a).- Cuando un establecimiento funcione en un domicilio distinto al señalado en la licencia, o con clasificación distinta, sin haberse obtenido previamente la autorización correspondiente;
 
@@ -999,11 +1047,11 @@ g).- Por la enajenación de bebidas alcohólicas fuera de los horarios estableci
 
 h).- Por la enajenación de bebidas alcohólicas en los días prohibidos por las autoridades encargadas de su aplicación, conforme a lo señalado en la presente ley; e
 
-i).- Cuando se enajenen al mayoreo bebidas alcohólicas a establecimientos que no estén autorizados en los términos de esta ley;
+i).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2019)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-IV.- Con multa de quinientos uno a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, clausura definitiva y cancelación de la licencia o permiso, en los siguientes casos:
+IV.- Con multa de quinientas cincuenta y dos a mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, clausura definitiva y cancelación de la licencia o permiso, en los siguientes casos:
 
 a).- A los que vendan bebidas alcohólicas a las personas señaladas en el artículo 16 Fracción I de esta ley;
 
@@ -1041,25 +1089,29 @@ m).- A los que vendan bebidas alcohólicas extranjeras sin el debido pago de imp
 
 En este último caso adicionalmente a la multa, la autoridad visitadora, podrá en el acto embargar precautoriamente la mercancía ilegal y ponerla a disposición de la autoridad competente en materia de comercio exterior y aduanera.
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-V.- Con multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando en los establecimientos en que se enajenen bebidas alcohólicas se utilicen como casas habitación, viviendas, departamentos u oficinas, o que estén comunicados con ellos. Igual sanción se impondrá al propietario o poseedor de la casa habitación que venda o permita que se vendan bebidas alcohólicas, así como a quienes violen lo dispuesto en los artículos 14 y 62 fracciones I y II de esta ley;
+V.- Con multa de ciento diez a quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, cuando en los establecimientos en que se enajenen bebidas alcohólicas se utilicen como casas habitación, viviendas, departamentos u oficinas, o que estén comunicados con ellos. Igual sanción se impondrá al propietario o poseedor de la casa habitación que venda o permita que se vendan bebidas alcohólicas, así como a quienes violen lo dispuesto en los artículos 14 y 62 fracciones I y II de esta Ley;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-VI.- Con multa de setenta y cinco a quinientas veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de treinta días, cuando el establecimiento se destine a un giro distinto al autorizado en la licencia o permiso correspondiente. La clausura será definitiva cuando se opere el establecimiento como bar, cabaret o centro nocturno, cantina o taberna, cervecería o discoteca, y en la licencia o permiso respectivo tenga autorizado giro distinto;
+VI.- Con multa de ochenta y tres a quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de treinta días, cuando el establecimiento se destine a un giro distinto al autorizado en la licencia o permiso correspondiente. La clausura será definitiva cuando se opere el establecimiento como bar, cabaret o centro nocturno, cantina o taberna, cervecería o discoteca, y en la licencia o permiso respectivo tenga autorizado giro distinto;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-VII.- Con multa de trescientos a quinientas veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por treinta días, cuando por cualquier otro acto u omisión se infrinjan las disposiciones de esta ley, que no se encuentre previsto en las fracciones anteriores;
+VII.- Con multa de trescientas treinta a quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por treinta días, cuando por cualquier otro acto u omisión se infrinjan las disposiciones de esta ley, que no se encuentre previsto en las fracciones anteriores;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-VIII.- Con arresto administrativo hasta por treinta y seis horas, multa de quinientas una a mil quinientas veces el valor diario de la Unidad de Medida y Actualización y clausura definitiva, a los propietarios de los establecimientos que expendan o suministren las bebidas alcohólicas, sin contar con licencia o permiso correspondiente, siendo solidariamente responsables los distribuidores que surtan a dichos establecimientos; y
+VIII.- Con arresto administrativo hasta por treinta y seis horas, multa de quinientas cincuenta y dos a mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización y clausura definitiva, a los propietarios de los establecimientos que expendan o suministren las bebidas alcohólicas, sin contar con licencia o permiso correspondiente, siendo solidariamente responsables los distribuidores que surtan a dichos establecimientos;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
 
-IX.- Con multa de diez mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización, a quienes no presenten la declaración a que se refiere el artículo 16 fracción XVII de esta ley o la presente después de haber sido requerida por la Oficina Fiscal del Estado que corresponda al domicilio del obligado.
+IX.- Con multa de once mil a veintidós mil veces el valor diario de la Unidad de Medida y Actualización, a quienes no presenten la declaración a que se refiere el artículo 16 fracción XVII de esta Ley o la presente después de haber sido requerida por la Oficina Fiscal del Estado que corresponda al domicilio del obligado; y
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+X.- Con multa de quinientas cincuenta a mil seiscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, cuando se enajenen al mayoreo bebidas alcohólicas a establecimientos que no estén autorizados en los términos de esta Ley.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2017)</small>
 
@@ -1123,7 +1175,9 @@ V.- Los agravios que el recurrente estime le causa la resolución o acto impugna
 
 Cuando no se acompañe el documento a que se refiere la fracción I del presente artículo, la autoridad correspondiente tendrá por no interpuesto el recurso. Si se omitieren las pruebas, se tendrán por no ofrecidas.
 
-Cuando no se acompañen los documentos señalados en las fracciones II y III de este artículo se requerirá al recurrente para que los presente en un plazo de tres días hábiles; transcurrido dicho término, y el promovente no los presentare, se tendrá por no interpuesto el recurso.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
+Cuando no se acompañen algunos de los requisitos a que se refieren las fracciones II, III y V de este precepto, la autoridad fiscal requerirá al promovente para que en el plazo de tres días los presente, su falta de presentación dará lugar a que se tenga por no interpuesto el recurso.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -1141,9 +1195,11 @@ La Secretaría, dentro de los treinta días hábiles siguientes a la celebració
 
 La Secretaría, al emitir resolución, motivará y fundará la razón de la misma, por lo que valorará las pruebas ofrecidas y expondrá las consideraciones de hecho y de derecho.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTICULO 80.
 
-En contra de la resolución que resuelva el recurso de reconsideración, no procede recurso administrativo alguno, y podrá recurrirse al juicio de nulidad ante el Tribunal Fiscal del Estado, en los términos previstos en el Código Fiscal del Estado.
+En contra de la resolución que resuelva el recurso de reconsideración, no procede recurso administrativo alguno, y podrá recurrirse al juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Tamaulipas, en los términos previstos en el Código Fiscal del Estado de Tamaulipas.
 
 T R A N S I T O R I O S
 
@@ -1350,3 +1406,11 @@ El presente Decreto entrará en vigor el primero de enero de 2019, previa public
 ###### ARTÍCULO SEGUNDO.
 
 Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIV-63 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO, DE LA LEY DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero de 2020, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Quedan derogadas todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
