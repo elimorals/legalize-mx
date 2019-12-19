@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2019-11-25"
+last_updated: "2019-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 25 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2019.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -598,6 +598,14 @@ Artículo 25 E. La Ley determinará los procedimientos de participación y consu
 ###### Artículo 25-F.
 
 Las autoridades estatales y municipales en el ámbito de su competencia, deberán implementar políticas públicas de mejora regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establezca la Ley Estatal de la materia. Serán principios rectores los de mejora en el desempeño y racionalidad en el ejercicio del gasto en las funciones de las dependencias y entidades, así como incentivar la competitividad y el beneficio social-productivo.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 25-G.
+
+A efecto de lograr el desarrollo integral y sustentable del Estado de Sonora, se reconoce como Municipio Rural a todo aquel Municipio con una población de cincuenta mil habitantes o menos, y en el caso de los Municipios con más de cincuenta mil habitantes se reconoce como Localidad Rural a toda aquella localidad con cincuenta mil habitantes o menos.
+
+El Gobierno del Estado y los ayuntamientos tienen la obligación de fomentar el desarrollo económico, social, educativo, sustentable, político y cultural, de los habitantes de los municipios y localidades rurales, en el marco de sus respectivas competencias.
 
 > <small>(REFORMADO, B.O. 11 DE NOVIEMBRE DE 1996)</small>
 
@@ -4242,3 +4250,11 @@ B.O. 25 DE NOVIEMBRE DE 2019.
 La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado (sic) Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado del Estado (sic) de Sonora.
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y en caso de resultar aprobada la presente Ley por las dos terceras partes de los ayuntamientos de los Municipios del Estado, la remitan al titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 19 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DE LA "LEY NÚMERO 79 QUE ADICIONA UN ARTÍCULO 25-G A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado Sonora, previo cómputo que se realice de la aprobación o rechazo que emitan los ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, para los efectos dispuestos por el artículo 163 de la Constitución Política del Estado del Estado de Sonora.
