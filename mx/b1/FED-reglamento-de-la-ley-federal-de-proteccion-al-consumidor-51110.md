@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-proteccion-al-consumidor-51110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-03"
-last_updated: "2016-09-09"
+last_updated: "2019-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51110&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-07-31"
 ---
 # REGLAMENTO DE LA LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR, PUBLICADO EN EL D.O.F. DE 19 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 3 de agosto de 2006.
 
@@ -550,3 +552,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las medidas de apremio impuestas con anterioridad a la entrada en vigor del presente Decreto, seguirán haciéndose efectivas hasta su conclusión.
 
 TERCERO.- A partir de la fecha en que entre en vigor este Decreto, se dejan sin efectos las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 19 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Reglamento de la Ley Federal de Protección al Consumidor publicado en el Diario Oficial de la Federación el tres de agosto del año dos mil seis.
+
+Tercero.- Las disposiciones administrativas emitidas por la Procuraduría que no se opongan al presente Reglamento, continuarán vigentes hasta en tanto se emitan las que las sustituyan.
+
+Cuarto.- Las erogaciones que se deriven para la aplicación del presente Decreto se realizarán con cargo al presupuesto de la Procuraduría Federal del Consumidor y no requerirán recursos adicionales, ni se incrementará su presupuesto regularizable en materia de servicios personales.
