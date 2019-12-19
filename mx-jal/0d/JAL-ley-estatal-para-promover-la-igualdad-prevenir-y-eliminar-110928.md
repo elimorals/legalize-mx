@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-para-promover-la-igualdad-prevenir-y-eliminar-11092
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2016-10-11"
+last_updated: "2019-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Sección LXIV del Periódico Oficial del Estado de Jalisco, el jueves 17 de diciembre de 2015.
 
@@ -79,7 +79,7 @@ VIII. Discriminación: La negación, distinción, exclusión, restricción, meno
 
 También se entenderá como discriminación la misoginia, la xenofobia, el acoso, la incitación a la discriminación así como otras formas conexas que produzcan un efecto negativo sobre los derechos fundamentales;
 
-IX Ente Público: Las autoridades, poderes públicos estatales y los órganos que conforman la administración pública estatal y municipal; los órganos autónomos, aquellos que auxilien en la administración pública estatal o municipal y ejerzan gasto público y las personas físicas o jurídicas que auxilien a las autoridades y órganos antes citados o ejerzan gasto público;
+IX. Ente Público: Las autoridades, poderes públicos estatales y los órganos que conforman la administración pública estatal y municipal; los órganos autónomos, aquellos que auxilien en la administración pública estatal o municipal y ejerzan gasto público y las personas físicas o jurídicas que auxilien a las autoridades y órganos antes citados o ejerzan gasto público;
 
 X. Inclusión: Enfoque que responde positivamente a la diversidad de las personas y a las diferencias individuales, proporcionando un acceso equitativo y haciendo ajustes permanentes para permitir la participación en los procesos políticos, económicos, sociales, culturales, civiles o de cualquier otro tipo, de todas las personas y valorando su aporte a la sociedad;
 
@@ -91,7 +91,9 @@ XIII. Medidas nivelación: Son aquellas que buscan hacer efectivo el acceso de t
 
 XIV. Medidas de inclusión: son aquellas disposiciones, de carácter preventivo o correctivo, cuyo objeto es eliminar mecanismos de exclusión o diferenciaciones desventajosas para que todas las personas gocen y ejerzan sus derechos en igualdad de trato;
 
-XV. Órganos de control disciplinario: los previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, encargados de coordinar y controlar el cumplimiento de la función disciplinaria de los servidores públicos, entre cuyas atribuciones se encuentra la de atender las quejas y sugerencias respecto del actuar de los servidores públicos que pudieran constituir una responsabilidad administrativa, e integrar los procedimientos administrativos internos que resuelvan la presunta responsabilidad de los servidores públicos;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2019)</small>
+
+XV. Órganos internos de control: los previstos por la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, encargados de coordinar y controlar el cumplimiento de la función disciplinaria de los servidores públicos, entre cuyas atribuciones se encuentra la de atender las quejas y sugerencias respecto del actuar de los servidores públicos que pudieran constituir una responsabilidad administrativa, e integrar los procedimientos administrativos internos que resuelvan la presunta responsabilidad de los servidores públicos;
 
 XVI. Programa Estatal: El Programa Estatal para Promover la Igualdad, Prevenir y Eliminar la Discriminación en Jalisco, incluye los lineamientos generales para la ejecución de políticas públicas e implementación de acciones de corto, mediano y largo plazo para promover la igualdad de trato y oportunidades, detectar, prevenir, atender y erradicar la discriminación en el Estado de Jalisco y sus municipios; y
 
@@ -669,9 +671,11 @@ Cuando los órganos de control disciplinario estimen que la presunta conducta di
 
 Los órganos de control disciplinario conocerán de los procedimientos de queja que se presenten con motivo de conductas o prácticas en contra de la igualdad de trato y oportunidades así como discriminatorias realizadas por cualquier autoridad estatal o municipal.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 47.
 
-Las denuncias a que se refiere este capítulo se desahogarán y resolverán conforme a las bases, principios, lineamientos, términos y plazos dispuestos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco para sustanciar las responsabilidades administrativas de los servidores públicos del estado y sus municipios.
+Las denuncias a que se refiere este capítulo se desahogarán y resolverán conforme a las bases, principios, lineamientos, términos y plazos dispuestos en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco para sustanciar las responsabilidades administrativas de los servidores públicos del estado y sus municipios.
 
 ###### Artículo 48.
 
@@ -691,9 +695,11 @@ En el informe anual de cada Poder Público y ayuntamiento, se incluirá un apart
 
 Los órganos de control disciplinario, de oficio o a petición de parte, realizará la investigación de los actos que violenten los derechos establecidos en esta Ley, respetando el derecho de audiencia e impondrá las medidas de reparación, satisfacción y garantías de no repetición.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 52.
 
-Para verificar la comisión de presuntas conductas discriminatorias, la adopción de las medidas establecidas en esta ley y las que resulten del Programa, los órganos de control disciplinario podrán solicitar a los entes públicos y autoridades, los documentos o informes necesarios, así como efectuar visitas de investigación, conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco.
+Para verificar la comisión de presuntas conductas discriminatorias, la adopción de las medidas establecidas en esta ley y las que resulten del Programa, los órganos internos de control podrán solicitar a los entes públicos y autoridades, los documentos o informes necesarios, así como efectuar visitas de investigación, conforme a lo dispuesto en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco.
 
 ###### Artículo 53.
 
@@ -735,9 +741,11 @@ VI. Cualquier otra medida encaminada al resarcimiento del daño ocasionado por l
 
 #### SECCIÓN TERCERA. DE LAS SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 57.
 
-Los órganos de control disciplinario propondrán a los titulares y superiores jerárquicos de las entidades y dependencias, respecto de los servidores públicos que cometa (sic) las conductas discriminatorias establecidas en la presente Ley, además de las previstas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, las siguientes sanciones:
+Los órganos internos de control propondrán a los titulares y superiores jerárquicos de las entidades y dependencias, respecto de los servidores públicos que cometa (sic) las conductas discriminatorias establecidas en la presente Ley, además de las previstas en la Ley de Responsabilidades Políticas y Administrativas del Estado de Jalisco, las siguientes sanciones:
 
 I. Al que por primera vez cometa alguna conducta discriminatoria se le propondrá una amonestación pública;
 
@@ -826,3 +834,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 25873/LXI/16 QUE REFORMA EL ARTÍCULO 7 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 19 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 27594/LXII/19, QUE REFORMA LOS ARTÍCULOS 3, 47, 52 Y 57 DE LA LEY ESTATAL PARA PROMOVER LA IGUALDAD, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
