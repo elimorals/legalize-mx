@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2019-10-21"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -398,6 +398,12 @@ XX.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
 El Estado también llevará a cabo programas asistenciales, ayudas alimenticias, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 16 Bis.
+
+La autoridad educativa estatal, dotará a los planteles educativos con instalaciones, personal y equipo necesarios y de calidad para atender satisfactoriamente la demanda educativa, especialmente para la atención de niñas, niños y adolescentes con alguna discapacidad, conforme a su disponibilidad presupuestal.
 
 #### SECCIÓN 2. DE LA CALIDAD EN LA EDUCACIÓN
 
@@ -969,15 +975,23 @@ La educación básica, en sus tres niveles, tendrá las adaptaciones requeridas 
 
 Para el caso de los servicios educativos correspondientes a los tipos medio superior y superior, las autoridades educativas promoverán acciones similares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 49.
 
-La educación especial está destinada a personas con discapacidad, transitoria o definitiva, así como a aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género.
+La educación especial está destinada a personas con discapacidad, transitoria o definitiva, así como a aquellas con aptitudes sobresalientes. Atenderá a los educandos de manera adecuada a sus propias condiciones, estilos y ritmos de aprendizaje en un contexto educativo incluyente, basándose en los principios de respeto, equidad, no discriminación, igualdad sustantiva y perspectiva de género.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-Tratándose de niñas, niños y adolescentes con discapacidad propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos; para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios. Los profesores de educación preescolar y primaria deberán estar capacitados para poder detectar oportunamente a los alumnos con necesidades educativas especiales, la capacitación estará a cargo de la autoridad educativa estatal en base a su disponibilidad presupuestal, acorde a la Ley General del Servicio Profesional Docente, y demás disposiciones legales que resulten aplicables.
+Tratándose de niñas, niños y adolescentes con discapacidad propiciará su integración a los planteles de educación básica regular, mediante la aplicación de métodos, técnicas y materiales específicos; para quienes no logren esa integración, esta educación procurará la satisfacción de necesidades básicas de aprendizaje para la autónoma convivencia social y productiva, para lo cual se elaborarán programas y materiales de apoyo didácticos necesarios. Las instituciones educativas del Estado promoverán y facilitarán la continuidad de sus estudios en los niveles de educación media superior y superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Los profesores de educación preescolar y primaria deberán estar capacitados para poder detectar oportunamente a los alumnos con necesidades educativas especiales, la capacitación promoverá la educación inclusiva y desarrollará las competencias necesarias para su adecuada atención la cual estará a cargo de la autoridad educativa estatal en base a su disponibilidad presupuestal, acorde a las disposiciones legales que resulten aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Los planteles educativos, en donde se imparta la educación especial, deberán ser accesibles y contar al menos con un titular y un suplente facultados para la atención de las niñas, niños y adolescentes con alguna discapacidad, cuando así se requiera.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -985,7 +999,9 @@ La educación especial proporcionará orientación a los padres, madres de famil
 
 Para apoyar el desarrollo pleno de los alumnos con necesidades educativas especiales deberán establecerse programas educativos adecuados a su edad, madurez y potencial cognoscitivo, encaminados a aprovechar toda su capacidad, proporcionando el Estado los medios materiales, técnicos y económicos necesarios para su máximo desarrollo personal y profesional, ampliando las oportunidades para su formación integral, evitando cualquier acto de discriminación que impida su desarrollo, de conformidad con los conocimientos interdisciplinarios más avanzados que se hayan desarrollado a este respecto.
 
-En el caso de personas con discapacidad, la educación deberá atender lo dispuesto en la Ley para las Personas con Discapacidad del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+En el caso de personas con discapacidad, la educación deberá atender lo dispuesto en la Ley para la Protección de los Derechos de las Personas con Discapacidad.
 
 ###### Artículo 50.
 
@@ -2230,3 +2246,9 @@ P.O. 21 DE OCTUBRE DE 2019.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- La presente reforma será aplicada a partir del ciclo escolar 2020-2021, para lo cual la Secretaría de Educación del Estado, tendrá un plazo de hasta 90 días, a partir de la entrada en vigor del presente Decreto, para emitir las reglas que permitan dar cumplimiento a la presente reforma.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 201. SE REFORMA POR ADICIÓN DE UN ARTÍCULO 16 BIS Y POR MODIFICACIÓN AL ARTÍCULO 49 DE LA LEY DE EDUCACIÓN DEL ESTADO; Y SE REFORMA POR ADICIÓN DE UN ARTÍCULO 27 BIS A LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
