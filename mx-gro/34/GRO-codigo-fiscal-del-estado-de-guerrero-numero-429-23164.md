@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2018-12-31"
+last_updated: "2019-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -229,13 +229,13 @@ IV.- El Procurador Fiscal;
 
 V.- El Coordinador General de Catastro;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-VI.- Los Directores Generales de Recaudación y de Fiscalización de la Subsecretaría de Ingresos;
+VI.- Los Directores Generales de Cobro Coactivo y Vigilancia, de Recaudación y de Fiscalización de la Subsecretaría de Ingresos;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-VII.- Los Jefes de Departamento de las Direcciones Generales de Recaudación, de Fiscalización y de la Coordinación General de Catastro de las Subsecretaría de Ingresos;
+VII.- Los Directores de Área y Jefes de Departamento de las Direcciones Generales de Cobro Coactivo y Vigilancia, de Recaudación, de la Procuraduría Fiscal, de Fiscalización y de la Coordinación General de Catastro de la Subsecretaría de Ingresos;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -245,11 +245,9 @@ VIII.- Los Administradores y Agentes Fiscales Estatales;
 
 IX.- Los Coordinadores y Auditores Fiscales Estatales;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-X.- Los subadministradores fiscales estatales.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+X.- Los Titulares de las Oficinas Regionales de Cobro Coactivo y Vigilancia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
@@ -2931,17 +2929,15 @@ Las notificaciones se harán en el último domicilio que la persona a quien se d
 
 La diligencia de notificación se entenderá con la persona que deba ser notificada o su representante legal, a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día siguiente, si el domicilio se encuentra cerrado, el citatorio se dejará con el vecino más inmediato o con un agente de la policía.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
 En el momento de la notificación se entregará al notificado o, a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación, asentándose razón por el notificador.
 
 Las notificaciones practicadas en los términos de los párrafos anteriores se tendrán por hechas en forma legal.
 
 b).- Por edicto que se publique una sola vez en el Periódico Oficial del Estado y durante tres días consecutivos en uno de los periódicos de mayor circulación, cuando el causante a notificar haya desaparecido, se ignore su domicilio en la entidad, se encuentre en el extranjero sin haber dejado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-c) Por estrados, cuando la persona a quien deba notificarse desaparezca después de haberse iniciado tanto el procedimiento administrativo de ejecución, como después de haberse iniciado las facultades de comprobación, se opongan a la diligencia de notificación o no haya notificado su cambio de domicilio, después de que la autoridad le haya notificado la orden de visita o un crédito fiscal y antes que este se haya garantizado, pagado o quedado sin efecto y en los demás casos que señalen las leyes fiscales. Esta notificación se hará fijando durante 15 días hábiles el documento que se pretenda notificar en un sitio abierto al público de la oficina de la autoridad que efectúe la notificación o publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. La autoridad deberá dejar constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
+c).- Por estrados, cuando la persona a quien deba notificarse desaparezca después de haberse iniciado tanto el procedimiento administrativo de ejecución, como después de haberse iniciado las facultades de comprobación, se opongan a la diligencia de notificación o no haya notificado su cambio de domicilio, después de que la autoridad le haya notificado la orden de visita o un crédito fiscal y antes que este se haya garantizado, pagado o quedado sin efecto y en los demás casos que señalen las leyes fiscales. Esta notificación se hará fijando durante 15 días hábiles el documento que se pretenda notificar en un sitio abierto al público de la oficina de la autoridad que efectúe la notificación y publicando el documento citado, durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales. La autoridad deberá dejar constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del décimo sexto día hábil contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 d).- En los demás casos por medio de oficios o telegramas.
 
@@ -2949,9 +2945,13 @@ d).- En los demás casos por medio de oficios o telegramas.
 
 e).- Por instructivo cuando la persona a quien haya de notificarse no atendiere el citatorio, y la persona que se encuentre en el domicilio en que se realice la diligencia se niegue a recibirla, la notificación se realizará fijando el documento en la puerta del domicilio, asentando las circunstancias que dieron origen a la notificación por instructivo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-f) Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento, honorarios por la cantidad de 5.29 unidades de medidas y actualización.
+f).- Por buzón tributario.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento, honorarios por la cantidad de 5.29 unidades de medidas y actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3009,11 +3009,9 @@ IV.- Las que se hagan por edicto desde el día siguiente hábil al de la última
 
 V.- Desde la fecha en que el interesado o su representante manifiesten que conocen la resolución o acuerdo respectivo si lo hacen con anterioridad a la fecha en que la notificación deba surtir efectos, de acuerdo con las fracciones anteriores;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2008)</small>
-
-VI.- Las que se hagan por estrados, se tendrá como fecha de notificación, la del sexto día siguiente a aquel en que se hubiera fijado el documento.
+VI.- Las que se hagan por estrados, se tendrá como fecha de notificación, la del décimo sexto día hábil contado a partir del día siguiente a aquel en que se hubiera fijado y publicado el documento.
 
 ###### ARTICULO 139.
 
@@ -4088,3 +4086,11 @@ SEGUNDO. Para la aplicación de las fracciones XIV y XV del artículo 86 de este
 TERCERO. Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 281 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO NÚMERO 429".]
+
+PRIMERO.- Las reformas relativas al presente Decreto, entrarán en vigor el día 01 de enero del 2020.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes, y su publicación en el Periódico Oficial del Gobierno del Estado para su observancia y conocimiento general.
