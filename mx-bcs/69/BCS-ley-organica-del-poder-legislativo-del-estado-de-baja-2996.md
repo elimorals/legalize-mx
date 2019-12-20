@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2019-12-16"
+last_updated: "2019-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -1642,6 +1642,10 @@ Para los efectos de las Fracciones IV, XXIX, y XXX del Artículo 64 y demás rel
 ###### ARTICULO 80.
 
 La Auditoría Superior del Estado, hará la revisión, fiscalización y auditorias de todas las cuentas de los Poderes Ejecutivo, Legislativo y Judicial, de los entes públicos estatales, Gobiernos Municipales, entes públicos Municipales y entes públicos autónomos que manejen recursos públicos, así como del destino del gasto público que reciban, administren o ejerzan bajo cualquier concepto todas las personas física y morales de derecho privado, que sean presentadas al Congreso del Estado.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+A efectos de cumplir con la revisión, auditorias y fiscalización previstas en el primer párrafo, la Auditoria Superior del Estado de Baja California Sur, utilizará preferentemente la vía electrónica y pedirá que los Entes Públicos o Sujetos Fiscalizables, le entreguen la información preferentemente en la misma vía con su respectiva firma electrónica. Lo anterior implicara no destruir por siete años previos, ninguno de los documentos que obran en la Auditoria Superior del Estado de Baja California Sur.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3680,3 +3684,9 @@ B.O. 16 DE DICIEMBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2680 SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 92 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2651 SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 80 DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO”.]
+
+ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
