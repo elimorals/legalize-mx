@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2019-11-13"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2019.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -1039,7 +1039,7 @@ Los procedimientos administrativos de imposición de sanciones como la destituci
 
 > <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-#### SECCIÓN PRIMERA
+#### SECCIÓN PRIMERA. DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE
 
 #### SECCIÓN SEGUNDA
 
@@ -1211,9 +1211,9 @@ Artículo 55 Quaterdecies. La Contraloría, a través de la Dirección General d
 
 > <small>(ADICIONADO, D.O.F. 6 DE OCTUBRE DE 2017)</small>
 
-### CAPÍTULO SEGUNDO
+### CAPÍTULO SEGUNDO. DÍAS DE ASUETO
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 56.
 
@@ -1313,9 +1313,9 @@ La interpretación de este Capítulo corresponde a la Comisión de Administraci�
 
 La Comisión de Administración podrá emitir disposiciones administrativas para la operación del registro automatizado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
 
-## TÍTULO SEGUNDO. DE LOS PREMIOS, PRESTACIONES Y LICENCIAS
+## TÍTULO SEGUNDO. DE LOS PREMIOS, DÍAS DE ASUETO, PRESTACIONES Y LICENCIAS
 
 ### CAPÍTULO TERCERO. FONDO DE RESERVA INDIVIDUALIZADO
 
@@ -1345,7 +1345,7 @@ La Comisión de Administración realizará el análisis de los candidatos que re
 
 El premio se entregará en ceremonia especial, con motivo del Día del Servidor Público del Poder Judicial de la Federación.
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
 
 ### CAPÍTULO CUARTO. CENTROS DE DESARROLLO INFANTIL
 
@@ -1354,6 +1354,26 @@ El premio se entregará en ceremonia especial, con motivo del Día del Servidor 
 ###### Artículo 74.
 
 (DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 74 Bis.
+
+Las madres y padres trabajadores del Consejo, gozarán de un día de asueto con motivo de la celebración del “Día de la Madre” y del “Día del Padre”, según corresponda.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 74 Ter.
+
+El día de asueto para las madres y padres trabajadores del Consejo, se otorgará previo acuerdo con el titular del área administrativa a la que se encuentre adscrito, a fin de no afectar las labores en los centros de trabajo respectivos.
+
+> <small>(ADICIONADO POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 74 Quater.
+
+Para el otorgamiento del día de asueto, las madres y padres, deberán comunicar por escrito al titular del área administrativa a la que se encuentren adscritos, la fecha en la que se propone disfrutar de éste, con al menos cinco días hábiles de anticipación.
+
+El día de asueto deberá estar comprendido entre los meses de mayo a diciembre, tratándose de las madres; y de junio a diciembre, tratándose de los padres; en el año que corresponda, no deberá ser inmediatamente previo o posterior a un periodo vacacional o licencia; y no podrá ser acumulado para años subsecuentes.
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO CUARTO TRANSITORIO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO, D.O.F. 5 DE OCTUBRE DE 2015)</small>
 
@@ -13328,3 +13348,13 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. La Dirección General de Recursos Humanos verificará que el personal de nuevo ingreso suscriba el formato correspondiente dentro del procedimiento para su alta como servidor público.
 
 CUARTO. La Dirección General de Recursos Humanos contará con un plazo de tres meses, para instrumentar las acciones necesarias a efecto de que todas y todos los servidores públicos que se encuentren en activo llenen el formato correspondiente.
+
+D.O.F. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dos de enero de dos mil veinte.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
+
+TERCERO. Se deja sin efectos la Circular 10/2011 del Pleno del Consejo de la Judicatura Federal que establece los lineamientos para otorgar el día de asueto que con motivo de la celebración del día de las madres a las juzgadoras federales del Consejo de la Judicatura Federal, así como las circulares 11/2019 y 12/2019 emitidas por la Dirección General de Recursos Humanos.
