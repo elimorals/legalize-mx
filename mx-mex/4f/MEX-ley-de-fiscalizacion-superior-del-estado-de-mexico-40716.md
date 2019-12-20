@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2019-10-01"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2019.
 
-Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
+Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 26 de agosto de 2004.
 
 DECRETO NÚMERO 69
 
@@ -341,9 +341,13 @@ I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y polític
 
 II. Tener más de treinta años de edad al día de su nombramiento;
 
-III. No haber sido, durante los tres años anteriores a su designación, titular de dependencias u organismos auxiliares del Poder Ejecutivo del Estado, Senador, Diputado al Congreso de la Unión o Local, Magistrado, Juez, Presidente Municipal, integrante de tribunales administrativos u organismos autónomos estatales, ni miembro o dirigente de partido político alguno;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2019)</small>
 
-IV. Poseer título y cédula profesional legalmente expedidos en cualquiera de las siguientes licenciaturas: Contaduría Pública, Derecho, Economía, Administración Pública, Administración de Empresas, o cualquier otra relacionada con las actividades de contraloría y contar con una experiencia mínima de cinco años en las mismas;
+III. No haber sido, durante los tres años anteriores a su designación, titular de dependencias u organismos auxiliares del Poder Ejecutivo del Estado, Magistrado, Juez, Presidente Municipal, integrante de tribunales administrativos, organismos autónomos estatales o dirigente de partido político alguno;
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2019)</small>
+
+IV. Poseer título y cédula profesional legalmente expedidos en cualquiera de las siguientes licenciaturas: Contaduría Pública, Derecho, Economía, Administración Pública, Administración de Empresas, o cualquier otra relacionada con las actividades de contraloría, transparencia o rendición de cuentas y contar con una experiencia mínima de cinco años en las mismas;
 
 > <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -493,7 +497,9 @@ En cualquier caso, hasta en tanto se hace la designación de Auditor Superior, a
 
 Queda prohibido al Auditor Superior y a los Auditores Especiales, durante el ejercicio de su cargo:
 
-I. Ser miembro o dirigente de partido político alguno;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2019)</small>
+
+I. Ser dirigente de partido político alguno;
 
 II. Participar en actos políticos partidistas o hacer cualquier tipo de promoción o proselitismo político;
 
@@ -1664,3 +1670,11 @@ TERCERO.- Los recursos humanos, materiales y presupuestales de la Coordinación 
 CUARTO.- El Órgano Superior de Fiscalización del Estado de México en un plazo máximo de noventa días naturales, contados a partir de la entrada en vigor del presente, modificará su normatividad interna a efecto de ajustar sus disposiciones con el contenido de este Decreto, siendo sometida a consideración de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
 
 QUINTO.- El Reglamento de la Unidad Técnica de Evaluación y Control de la Comisión de Vigilancia del Órgano Superior de Fiscalización deberá publicarse a más tardar, en ciento veinte días naturales, después de la publicación de este Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 102.- POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 11 Y LA FRACCIÓN I DEL ARTÍCULO 17 DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
