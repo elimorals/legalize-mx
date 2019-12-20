@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2019-04-20"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -261,11 +261,11 @@ II. Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Dem
 
 Los montos de recursos que integrarán los Fondos de Aportaciones señalados en el presente artículo, serán las que se determinen en el Presupuesto de Egresos de la Federación de cada ejercicio fiscal.
 
-> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 13 Bis.
 
-Los montos que correspondan a cada municipio de los Fondos de Aportaciones a que se refiere el artículo anterior, se calcularán y distribuirán con base en los porcentajes determinados en esta Ley, aplicando el procedimiento establecido en la Ley de Coordinación, debiendo publicar dicha información en el Boletín Oficial a más tardar el 31 de enero del ejercicio fiscal aplicable, así como el calendario de entero, fórmula y metodología, justificando cada elemento y el calendario de ministraciones.
+Los montos que correspondan a cada municipio de los Fondos de Aportaciones a que se refiere el artículo anterior, se calcularán y distribuirán con base en los porcentajes determinados en esta Ley, aplicando el procedimiento establecido en la Ley de Coordinación, debiendo publicarse por parte del Gobierno del Estado, la información que le haga llegar la Secretaría de Finanzas y Administración, en el Boletín Oficial a más tardar el 31 de enero del ejercicio fiscal aplicable, así como el calendario de entero, fórmula y metodología, justificando cada elemento y el calendario de ministraciones.
 
 > <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2015)</small>
 
@@ -614,3 +614,9 @@ B.O. 20 DE ABRIL DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2664 SE REFORMA LA LEY DE COORDINACIÓN FISCAL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
