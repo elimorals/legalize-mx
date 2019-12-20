@@ -4,7 +4,7 @@ identifier: "COA-ley-forestal-del-estado-de-coahuila-de-zaragoza-52032"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-03"
-last_updated: "2016-06-24"
+last_updated: "2019-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY FORESTAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 3 de octubre de 2006.
 
@@ -126,6 +126,10 @@ XXIX. Promover los bienes y servicios ambientales para contribuir a la fijación
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
 
 XXX. Dotar de mecanismos de coordinación y cooperación a las instituciones Estatales y Municipales del sector forestal, así como con otras instancias afines para la vigilancia, conservación y regulación del aprovechamiento y uso de los recursos forestales.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXXI. Impulsar el desarrollo ambiental mediante una política ecológica transversal y promover la creación de corredores verdes y espacios dedicados a fines forestales y de preservación de nuestra flora.
 
 ###### Artículo 5.
 
@@ -281,7 +285,9 @@ XI. Elaborar y aplicar de forma coordinada con los municipios, programas de refo
 
 XII. Diseñar, desarrollar y aplicar instrumentos económicos para promover el desarrollo forestal de la entidad, de conformidad con esta ley y la Política Nacional Forestal;
 
-XIII. Promover e invertir en el mejoramiento de la infraestructura en las áreas forestales del Estado;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XIII. Promover el mejoramiento de la infraestructura en las áreas forestales del Estado; contemplando como parte de dicha infraestructura un esquema ambiental y de forestación que desarrolle corredores verdes en las zonas urbanas con mayor índice de contaminación.
 
 XIV. Fortalecer y ampliar la participación de la producción forestal en el crecimiento económico estatal;
 
@@ -317,7 +323,9 @@ IX. Crear y promover programas y proyectos de educación, capacitación, prevenc
 
 X. Llevar a cabo, en coordinación con el Gobierno del Estado, acciones de saneamiento en los ecosistemas forestales dentro del ámbito de su competencia;
 
-XI. Promover la construcción y mantenimiento de la infraestructura en las áreas forestales del municipio;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XI. Promover la construcción y mantenimiento de la infraestructura en las áreas forestales del municipio; coadyuvando para la incorporación de un esquema ambiental y de forestación que desarrolle corredores verdes en las zonas urbanas con mayor índice de contaminación.
 
 XII. Promover la participación de organismos públicos, privados y no gubernamentales en proyectos de apoyo directo al desarrollo forestal sustentable;
 
@@ -1242,3 +1250,9 @@ P.O. 24 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 451.- SE REFORMA Y ADICIONA EL ARTÍCULO 13 EN SU FRACCIÓN IX DE LA LEY FORESTAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 411.- SE ADICIONA LA FRACCIÓN XXXI AL ARTÍCULO 4 Y SE REFORMA LA FRACCIÓN XIII DEL ARTÍCULO 12; ASÍ COMO LA FRACCIÓN XI DEL ARTÍCULO 13 DE LA LEY FORESTAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
