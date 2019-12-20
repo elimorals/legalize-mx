@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2019-10-29"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -1517,7 +1517,17 @@ III. La prevención específica en cada caso y la vigilancia de su cumplimiento;
 
 IV. La realización de estudios epidemiológicos, y
 
-V. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos, que se presenten en la población.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+V. La prevención de padecimientos fisiológicos, tanto como psicológicos y sociológicos, causados por la exposición al ruido excesivo;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+VI. Hacer campañas tendientes a difundir entre ciudadanos e instituciones, información sobre los daños que causa la contaminación sonora, en el estado de salud de la población; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+VII. Las demás que sean necesarias para la prevención, tratamiento y control de los padecimientos, que se presenten en la población.
 
 ###### Artículo 123.
 
@@ -3880,3 +3890,11 @@ P.O. 29 DE OCTUBRE DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 367.- (SIC) REFORMAN EL ARTÍCULO 4, APARTADO A, FRACCIÓN II; ARTÍCULO 6, FRACCIÓN IV; Y EL ARTÍCULO 29, FRACCIÓN IV; TODOS DE LA LEY ESTATAL DE SALUD".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 408.- SE MODIFICA LA FRACCIÓN X, DEL ARTÍCULO 7 DE LA LEY PARA COMBATIR EL RUIDO EN EL ESTADO DE COAHUILA DE ZARAGOZA; Y SE MODIFICA LA FRACCIÓN V DEL ARTÍCULO 122 Y SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 122 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
