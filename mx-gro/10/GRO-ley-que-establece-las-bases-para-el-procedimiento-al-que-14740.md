@@ -4,7 +4,7 @@ identifier: "GRO-ley-que-establece-las-bases-para-el-procedimiento-al-que-14740"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-17"
-last_updated: "2016-12-27"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERA AJUSTARSE LA INSCRIPCION DE LOS PREDIOS SUB-URBANOS Y RUSTICOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE GUERRERO
 
-LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERA AJUSTARSE LA INSCRIPCIÓN DE LOS PREDIOS SUB-URBANOS Y RÚSTICOS EN EL REGISTRO PÚBLICO DE LA PROPIEDAD
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
+LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERÁ AJUSTARSE LA INSCRIPCIÓN DE LOS PREDIOS SUB-URBANOS Y RÚSTICOS EN EL REGISTRO PÚBLICO DE LA PROPIEDAD
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 17 de junio de 1988.
 
@@ -75,23 +77,19 @@ Para los efectos de esta Ley se considerarán predios Sub urbanos, los que está
 
 Quienes estén en posesión de predios sub urbanos y rústicos, que tengan una extensión no mayor de 30 hectáreas en cualquier calidad y cuyo valor no exceda de la cantidad de $1,000,000.00 (Un Millón de Pesos 00/100 M.N.), reuniendo los requerimientos de tiempo y condiciones exigidas para prescribirlos, y no posean un Título de Propiedad, o teniéndolo y éste sea defectuoso, podrán regularizar su situación legal mediante la presentación de una solicitud por escrito dirigida al Titular del Poder ejecutivo, acompañado de la totalidad de los documentos siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+I. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2019)
 
-I. Constancia de Posesión expedida por el Presidente Municipal, con medidas y nombre de los colindantes, la cual no deberá tener una vigencia mayor a seis meses de su expedición.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-II. En su caso, escritura o título de propiedad, privados o públicos que no reúnan los requisitos de Ley para su inscripción.
+II. Escritura, título de propiedad o contrato de compraventa, privados o públicos que no reúnan los requisitos de Ley para su inscripción, cuando no cuente con ninguno de éstos, deberá presentar Acta Testimonial de Hechos Propios, expedida por un Fedatario Público, la cual deberá contener la mención en el texto, de la posesión que detenta la persona solicitante y que el predio no se encuentra inscrito en el Registro Público de la Propiedad y del Comercio del Estado.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 III. Plano topográfico que contenga su cuadro de construcción, con coordenadas UTM geo referenciadas a la red geodésica nacional, elaborado y firmado por un perito en materia de topografía que cuente con cédula profesional.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+IV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2019)
 
-IV. Constancia de no afectación a terrenos ejidales o comunales, expedida por el Comisariado Ejidal o Comunal del lugar donde se encuentre el predio. Tratándose de predios donde no haya comisariado ejidal o comunal, se presentará la constancia expedida por el Registro Agrario Nacional.
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
-
-V. En los casos en que no cuente con Escritura, deberá incluir Acta Testimonial de Hechos Propios expedida por fedatario público, la cual deberá contener la mención en el texto, que el predio no se encuentra inscrito en el Registro Público de la Propiedad y del Comercio en el Estado.
+V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2019)
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
@@ -113,9 +111,9 @@ IX. Copia del Acta de Nacimiento, CURP y Credencial oficial vigente.
 
 X. Carta Responsiva de Derechos de Propiedad firmada por el beneficiario, y
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-XI. Las demás que sean requeridas por la Coordinación General de Catastro de la Secretaría de Finanzas y Administración.
+XI. Las demás que sean requeridas por la Coordinación General de Catastro de la Secretaría de Finanzas y Administración, siempre que se refieran a la acreditación o identificación (sic) la posesión del predio.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
@@ -139,11 +137,11 @@ El Gobierno del Estado por conducto de la Coordinación General de Catastro valo
 
 Si durante el procedimiento y hasta entes de la resolución se presentase persona alguna alegando derechos sobre el procedimiento objeto de la promoción, acreditando interés jurídico, el procedimiento se suspenderá, quedando a salvo los derechos de los interesados para que los hagan valer ante la autoridad judicial competente.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
 ###### ARTICULO 9o.
 
-El Título de Propiedad que expida el Gobierno del Estado, por conducto de los Titulares de la Secretaría de Finanzas y Administración y de la Coordinación General de Catastro, será inscrito el Registro Público de la Propiedad y del Comercio, sin mayor trámite o protocolización, pudiendo el interesado, elevar dicho Título de Propiedad a Escritura Pública ante el Notario Público.
+El Gobierno del Estado, a través de los Titulares de la Secretaría de Finanzas y Administración y de la Coordinación General de Catastro, expedirá de manera gratuita el Título de Propiedad, ordenando su inscripción en los mismos términos, ante el Registro Público de la Propiedad y del Comercio, sin mayor trámite o protocolización, pudiendo el interesado, elevarlo a Escritura Pública ante el Notario Público.
 
 ###### ARTICULO 10o.
 
@@ -204,3 +202,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día 02 de enero del año 201
 SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 282 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERÁ AJUSTARSE LA INSCRIPCIÓN DE LOS PREDIOS SUB-URBANOS Y RÚSTICOS EN EL REGISTRO PÚBLICO DE LA PROPIEDAD”.]
+
+PRIMERO.- Las reformas, adiciones y derogaciones relativas al presente Decreto, entrarán en vigor el día 01 de enero del 2020.
+
+SEGUNDO.- Remítase al Poder Ejecutivo para los efectos legales conducentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, así como en la página oficial del Poder Legislativo, para su observancia y conocimiento general.
