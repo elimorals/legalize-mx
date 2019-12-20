@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-obras-publicas-y-servicios-relacionados-con-las-43851"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2016-10-31"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 2004.
 
@@ -63,11 +65,17 @@ Los contratos que celebren las Dependencias con las Entidades, o entre Entidades
 
 No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecutarse para crear la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan concesionados, en los términos de la legislación aplicable, cuando éstos las lleven a cabo.
 
-Los proyectos de infraestructura productiva de largo plazo, se realizarán conforme a lo dispuesto por el Presupuesto del (sic) Egresos del Estado, así como a la Ley de Presupuesto y Control del Gasto Publico Estatal, y la Ley Estatal de Deuda Pública en lo que corresponda; y estarán regidos por esta Ley únicamente en lo que se refiere a los procedimientos de contratación y ejecución de obra pública.
+Los proyectos de infraestructura productiva de largo plazo, se realizarán conforme a lo dispuesto por el Presupuesto del (sic) Egresos del Estado, así como a la Ley de Presupuesto y Control del Gasto Público Estatal, y la Ley Estatal de Deuda Pública en lo que corresponda; y estarán regidos por esta Ley únicamente en lo que se refiere a los procedimientos de contratación y ejecución de obra pública.
 
 Los Titulares de las Dependencias y los Órganos de Gobierno de las Entidades emitirán, bajo su responsabilidad y de conformidad con este mismo ordenamiento, las políticas, bases y lineamientos para las materias a que se refiere este Artículo.
 
 Las Dependencias y Entidades se abstendrán de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de contratos, que evadan lo previsto en este ordenamiento.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 1 Bis.
+
+Todas las obras públicas y servicios relacionados con las mismas, con cargo total a recursos públicos estatales o municipales, se licitarán o adjudicarán con eficacia, eficiencia, calidad, economía, transparencia y honradez, conforme a lo previsto en esta Ley, la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, en concordancia con los artículos 6 y 134 de la Constitución Política de los Estados Unidos Mexicanos y 13 apartado "B" y 161 de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
 
 ###### Artículo 2.
 
@@ -103,7 +111,11 @@ XIII. Licitante: La persona física o moral que participe en cualquier procedimi
 
 XIV. Cámara: Cámara Mexicana de la Industria de la Construcción; y
 
-XV. Colegios: Colegios de Ingenieros Civiles y de Arquitectos de Baja California Sur.
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XV. Observatorio Ciudadano: El Observatorio Ciudadano de Obras Públicas y Servicios Relacionados con las Mismas; y
+
+XVI. Colegios: Colegios de Ingenieros Civiles y de Arquitectos de Baja California Sur.
 
 ###### Artículo 3.
 
@@ -294,6 +306,14 @@ XIV. Los permisos, autorizaciones y licencias que se requieran;
 XV. Toda instalación pública deberá asegurar la accesibilidad, evacuación, libre tránsito sin barreras arquitectónicas, para todas las personas; y deberán cumplir con las normas de diseño y de señalización que se emitan, en instalaciones, circulaciones, servicios sanitarios y demás instalaciones análogas para las personas con capacidades distintas, y
 
 XVI. Las demás previsiones que deban tomarse en cuenta según la naturaleza y características de la obra.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 18 Bis.
+
+Las Dependencias y Entidades pondrán a disposición del público en general, a través del sistema electrónico de contrataciones gubernamentales (Compranet Estatal) y de su página en Internet, durante el primer trimestre de cada año, su Programa Anual de Obras Públicas y Servicios Relacionados con las Mismas correspondiente al ejercicio fiscal de que se trate, con excepción de aquella información que, de conformidad con las disposiciones aplicables, sea de naturaleza reservada o confidencial, en los términos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Baja California Sur.
+
+Las obras públicas y servicios contenidos en el citado programa podrán ser adicionados, modificados, suspendidos o cancelados, sin responsabilidad alguna para la dependencia o entidad de que se trate, debiendo informar de ello a la Contraloría General y actualizar en forma mensual el programa en el sistema electrónico de contrataciones gubernamentales (Compranet Estatal).
 
 ###### Artículo 19.
 
@@ -653,7 +673,7 @@ las Dependencias y Entidades, bajo su responsabilidad, podrán contratar obra p�
 
 Se podrá adjudicar directamente cuando:
 
-I. El contrato solo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
+I. El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos;
 
 II. Existan condiciones o circunstancias extraordinarias o impredecibles;
 
@@ -683,15 +703,17 @@ XII. Se realicen dos procedimientos de invitación que hayan sido declarados des
 
 Asimismo, las Dependencias o Entidades podrán optar por realizar la adjudicación de los contratos a través del procedimiento de invitación en lugar de adjudicación directa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 40.
 
-Cuando por razón del monto de la obra, resulte inconveniente llevar a cabo el procedimiento a que se refiere el Artículo 27, por el costo que éste representa, las Dependencias y Entidades podrán contratar sin ajustarse a dicho procedimiento.
+Cuando por razón del monto de la obra, resulte inconveniente llevar a cabo el procedimiento a que se refiere el Artículo 27, por el costo que este representa, las Dependencias y Entidades podrán contratar sin ajustarse a dicho procedimiento.
 
 La opción que las Dependencias y Entidades ejerzan en los términos del párrafo anterior, deberán fundarse, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado o el Municipio que corresponda:
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-I. Las Dependencias y Entidades podrán contratar por asignación directa, cuando no se exceda del importe equivalente a diez mil veces el valor diario de la Unidad de Medida y Actualización que rija en el momento de la obra; y
+I. Las Dependencias y Entidades podrán contratar por asignación directa, cuando no se exceda del importe equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización que rija en el momento de la obra; y
 
 > <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -1399,6 +1421,114 @@ En el supuesto de que las partes lleguen a una conciliación, los acuerdos forma
 
 Las personas físicas o morales que pretendan participar en cualquier procedimiento de licitación pública o de invitación a por lo menos tres personas, deberán acreditar que han cumplido con la capacitación de su personal, tal y como lo establece la autoridad laboral competente, conforma a la Ley Federal del Trabajo.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+## TÍTULO DÉCIMO. DE LA VINCULACIÓN CON EL SISTEMA ESTATAL ANTICORRUPCION Y PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO PRIMERO. DE LA VINCULACIÓN
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 101.
+
+El Comité Coordinador del Sistema Estatal Anticorrupción, en el ejercicio de sus facultades, podrá establecer bases y principios para la efectiva coordinación de las autoridades de los diferentes órdenes de gobierno en materia de fiscalización y control de recursos públicos que se relacionen con las obras públicas y servicios relacionados con las mismas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+### CAPÍTULO SEGUNDO. DEL OBSERVATORIO CIUDADANO DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 102.
+
+El Observatorio Ciudadano, es un instrumento de participación ciudadana, que tiene por objeto el análisis, seguimiento y evaluación de las políticas públicas de las Dependencias y Entidades, así como de la revisión, estudio, planteamiento de propuestas y opiniones respecto a las distintas problemáticas que viven sectores de la sociedad en materia de obras públicas y servicios relacionados con las mismas.
+
+El Observatorio Ciudadano tendrá su residencia en la Capital del Estado y deberá contar con un Reglamento Interno en el que se regulará su funcionamiento.
+
+Los integrantes del Observatorio Ciudadano duraran cuatro años en su encargo y se integrará de acuerdo a lo previsto en la presente Ley.
+
+El Congreso del Estado de Baja California Sur a través de la Comisión Permanente de Infraestructura, emitirá una convocatoria pública para elegir a los integrantes del observatorio referidos en la fracción VII del artículo 103 de la presente Ley y una vez concluida dicha selección, la Comisión Permanente de Infraestructura, solicitará por escrito a las organizaciones e Instituciones referidas en las fracciones I a VI del citado artículo, designen a sus representantes a fin de concluir la conformación e instalación del observatorio ciudadano.
+
+La convocatoria a que se refiere el párrafo anterior, será publicado (sic) en el diario de mayor circulación en el Estado por un espacio de tres en tres días y en la página de Internet del Congreso del Estado por un espacio de 15 días.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 103.
+
+El Observatorio Ciudadano, se integrará por:
+
+I. Un representante designado por la Cámara Mexicana de la Industria de la Construcción en el Estado (CMIC);
+
+II. Un representante designado por el Colegio de Ingenieros en el Estado, a fin a la obra pública;
+
+III. Un representante designado por el Colegio de Arquitectos en el Estado;
+
+IV. Un representante designado por el Colegio de Peritos Valuadores del Estado de Baja California Sur;
+
+V. Un representante, académico designado por el departamento de Ciencias de la tierra del Instituto Tecnológico de La Paz;
+
+VI. Un representante, académico designado por la Universidad Autónoma de Baja California Sur; y
+
+VII. Tres representantes, integrantes de las organizaciones de la sociedad civil.
+
+En su integración se procurará cumplir con el principio de paridad de género, a efecto de que no se integre con más de 60% de personas del mismo sexo.
+
+La participación de los integrantes del Observatorio es honorífica, por lo que no recibirán retribución económica alguna por las funciones que desempeñen con tal carácter.
+
+El Observatorio ciudadano sesionará a convocatoria de su Presidente, emitida con al menos veinticuatro horas de anticipación, con la periodicidad que señale su Reglamento Interno, debiendo haber una asistencia de más de la mitad de sus integrantes para que las sesiones sean válidas.
+
+Las decisiones del Observatorio Ciudadano se tomarán por mayoría simple de votos de sus integrantes y en caso de empate, el Presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 104.
+
+El Observatorio Ciudadano, conforme a su reglamento, podrá constituir las Delegaciones Municipales que se estimen necesarias para el cumplimiento de sus objetivos y para su conformación, su Presidente, a propuesta del Pleno, podrá formular las invitaciones correspondientes a ciudadanos o instituciones del sector privado, social o académico para que participen en el desarrollo de los trabajos que realizan las distintas Comisiones.
+
+Los integrantes del Observatorio Ciudadano, deberán conducirse en el desempeño de sus atribuciones con objetividad, imparcialidad, honestidad, responsabilidad y manejar en forma confidencial aquella documentación o información que por razón de su naturaleza y contenido pueda producir algún daño, peligro o afectación a personas o instituciones.
+
+Los integrantes del Observatorio Ciudadano deberán excusarse de conocer o intervenir en todo asunto en el que tengan conflicto de intereses.
+
+De igual forma se abstendrán de utilizar al Observatorio Ciudadano como medio de presión política o para conseguir beneficios económicos para sí o para terceros.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 105.
+
+Corresponde al Observatorio Ciudadano en materia de obras públicas y servicios relacionados con las mismas, las siguientes:
+
+I. Cuando se le solicite, emitir opiniones a las Dependencias y Entidades respecto a las distintas problemáticas que viven sectores de la sociedad;
+
+II. Llevar a cabo el análisis, seguimiento y evaluación de la ejecución de las políticas públicas por parte de las Dependencias y Entidades;
+
+III. Proponer en términos del numeral 104 de ésta Ley, la oportuna integración, instalación y funcionamiento de las Delegaciones Municipales que el Observatorio Ciudadano considere necesarias;
+
+IV. Dar seguimiento y evaluar los programas, proyectos y acciones de las Entidades y Dependencias, así como desarrollar estudios e investigaciones que sean pertinentes, a fin de analizar los datos, cifras, indicadores o estadísticas;
+
+V. Fungir como foro de consulta, para el estudio, análisis y deliberaciones de los asuntos específicos relacionados con los objetivos y fines de la presente Ley, y sobre aquellos problemas que en la materia de la misma aquejen a los habitantes del Estado;
+
+VI. Llevar a cabo foros y eventos de carácter informativo y formativo a fin de fomentar la cultura de la legalidad, estableciendo mecanismos que permitan incorporar las propuestas sociales;
+
+VII. Canalizar, a las instancias correspondientes, las quejas y problemas, inquietudes, así como las propuestas de obras y acciones expresadas por la ciudadanía;
+
+VIII. Formular y aprobar su Reglamento Interno para el funcionamiento del Observatorio Ciudadano, así como fijar las políticas y programas que habrá de ejecutar, y
+
+IX. Las demás que le atribuyan su Reglamento Interno.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 106.
+
+Las Entidades y Dependencias deberán proporcionar al Observatorio Ciudadano, la información que le facilite el cumplimiento de su objeto.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 107.
+
+Las opiniones emitidas por el Observatorio Ciudadano, de ningún modo tendrán el carácter de vinculantes e imperativas.
+
 T R A N S I T O R I O S.
 
 PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
@@ -1454,3 +1584,21 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2654 SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 53 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS Y LA FRACCIÓN I DEL ARTÍCULO 40 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, AMBAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Único.- El presente decreto entrará en vigor a partir del día 01 de enero del año 2020, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2666 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- El "Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas", deberá quedar instalado en un plazo que no exceda de 120 días hábiles siguientes a partir de la publicación del presente Decreto, para estos efectos, por única ocasión el Congreso del Estado de Baja California Sur a través de la Comisión Permanente de Transparencia y Anticorrupción convocara a las asociaciones e instituciones señaladas en la fracciones I a la VI del artículo 103, para que designen a sus representantes para la conformación del Observatorio.
+
+Dentro del mismo plazo antes señalado deberá expedir la convocatoria para la elección de los integrantes del "Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas" referidos en la fracción VII del numeral 103 de ésta Ley.
+
+Tercero.- Una vez constituido el "Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas", éste contará con un plazo de 60 días hábiles, para expedir su Reglamento Interno.
