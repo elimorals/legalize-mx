@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-aguas-del-estado-de-baja-california-sur-21957"
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-31"
-last_updated: "2019-12-16"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de julio de 2001.
 
@@ -44,6 +44,10 @@ LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR
 ###### Artículo 1.
 
 Las disposiciones de esta Ley son de orden público e interés social y tiene por objeto regular en el Estado de Baja California Sur, de conformidad con el Artículo 27 párrafo quinto, y 115 fracción III, de la Constitución Política de los Estados Unidos Mexicanos y los correlativos de la Constitución Política del Estado, lo relativo en la Ley de Equilibrio Ecológico y Protección del Ambiente en el Estado y la Ley Orgánica Municipal, la participación de las autoridades estatales y municipales, en el ámbito de su competencia, en la realización de acciones relacionadas con la explotación, desalación, uso y aprovechamiento del recurso agua, así como los servicios públicos de agua potable, alcantarillado y saneamiento.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+En materia de planeación hídrica el Estado a través de la Comisión Estatal del Agua deberá elaborar un Plan Estatal Hídrico, de largo plazo, de cuando menos una extensión de 25 años. Este Plan deberá ser considerado en el Plan Estatal de Desarrollo y por los Proyectos Estratégicos de Desarrollo. El Plan Estatal Hídrico deberá estar orientado a generar estrategias, acciones, elaboración de estudios, proyectos, ejecución, rehabilitación, mantenimiento y ampliación de obras de desarrollo urbano e infraestructura hidráulica que permitan la recarga de los acuíferos, el aprovechamiento del agua de precipitaciones, que protejan a la población de eventos hidrometeorológicos catastróficos, y abatan el déficit de agua creciente que enfrentan las zonas urbanas, y consideren la optimización de la red de distribución y la generación de políticas alternativas de uso de agua: desalación y reuso, así como el fomento de la cultura del agua en la población. Este plan el Estado deberá elaborarlo con la participación de las organizaciones de la sociedad civil, asociaciones y cámaras empresariales, especialistas, universidades públicas y privadas y la sociedad en general. El Plan Estatal Hídrico deberá publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 ###### Artículo 2.
 
@@ -379,7 +383,9 @@ II. Presentar a la Junta de Gobierno, para su aprobación, las acciones de plane
 
 III. Publicar, en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en el diario de mayor circulación de la localidad, las cuotas y tarifas determinadas por la Junta de Gobierno, cuando la Comisión preste los servicios públicos;
 
-IV. Ordenar que se elabore el Proyecto Estratégico de Desarrollo de la Comisión y actualizarlo periódicamente, sometiéndolo a la aprobación de la Junta de Gobierno;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+IV. Ordenar la Elaboración del Plan Estatal Hídrico de largo plazo cuando le corresponda y su actualización periódica, sometiéndolo a la aprobación de la Junta de Gobierno. Ordenar que se elabore el Proyecto Estratégico de Desarrollo de la Comisión y actualizarlo periódicamente, sometiéndolo a la aprobación de la Junta de Gobierno. El Proyecto Estratégico de Desarrollo deberá elaborarse, aprobarse y publicarse dentro de un plazo de seis meses contados a partir de la fecha en que tome posesión el Gobernador del Estado, y su vigencia no excederá del Período Constitucional que le corresponda, aunque podrá contener consideraciones y proyecciones de más largo plazo. Una vez aprobado y publicado en el Boletín Oficial del Gobierno del Estado, también deberá ser publicado en la página de internet de la Comisión, de igual forma se deberán publicar las actualizaciones periódicas que sufra el referido proyecto;
 
 V. Supervisar la ejecución del Proyecto Estratégico de Desarrollo aprobado por la Junta de Gobierno;
 
@@ -456,6 +462,10 @@ Los Municipios o los prestadores de los servicios serán responsables del tratam
 Los Municipios, los prestadores de los servicios o contratistas deberán adoptar las medidas necesarias para que se alcance la autonomía financiera en la prestación de los servicios públicos y establecerán los mecanismos de control para que se realicen con eficacia técnica y administrativa.
 
 Para tal efecto, estarán obligados a diseñar y a revisar periódicamente un Proyecto Estratégico de Desarrollo, en los términos del Artículo 3, fracción XVIII de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+El Proyecto Estratégico de Desarrollo deberá elaborarse, aprobarse y publicarse dentro de un plazo de cuatro meses contados a partir de la fecha de la toma de posesión de los Ayuntamientos respectivos y su vigencia no excederá del período que les corresponde, aunque podrá contener consideraciones y proyecciones de más largo plazo. Una vez aprobado y publicado en el Boletín Oficial del Gobierno del Estado, también deberá ser publicado en la página de internet de la Comisión, de igual forma se deberán publicar las actualizaciones periódicas que sufra el referido proyecto.
 
 ###### Artículo 18.
 
@@ -1165,15 +1175,35 @@ Cuando se trate de tomas solicitadas por giros o establecimientos ubicados en fo
 
 Es obligatoria la instalación de aparatos medidores para la verificación del consumo de agua del servicio público para todos los usuarios no domésticos; en el caso de los usuarios domésticos será obligatorio cuando el análisis de los costos y los beneficios correspondientes lo justifique. Al efecto, las tomas deberán instalarse en la entrada de los predios o establecimientos, y los medidores en lugares accesibles, junto a dicha entrada, en forma tal que se puedan llevar a cabo sin dificultad las lecturas de consumo, las pruebas de funcionamiento de los aparatos y, cuando sea necesario, el cambio de los medidores. Los usuarios, bajo su estricta responsabilidad, cuidarán que no se deterioren los medidores.
 
-Los aparatos medidores solo podrán ser instalados por el personal del Organismo Operador previa verificación de su correcto funcionamiento y retirados por el mismo personal, cuando hayan sufrido daños, funcionen defectuosamente ó exista cualquier otra causa justificada que amerite su retiro.
+Los aparatos medidores sólo podrán ser instalados por el personal del Organismo Operador previa verificación de su correcto funcionamiento y retirados por el mismo personal, cuando hayan sufrido daños, funcionen defectuosamente ó exista cualquier otra causa justificada que amerite su retiro.
 
 ###### Artículo 85.
 
 Instalada la toma y hechas las conexiones respectivas, el prestador de los servicios comunicará al propietario o poseedor del predio o establecimiento de que se trate, la fecha de la conexión y la apertura de su cuenta para efectos de cobro.
 
-En los casos en que con motivo de la instalación de la toma o las descargas, se destruya el pavimento, la guarnición o la banqueta, el prestador de los servicios realizará de inmediato su reparación, con cargo al usuario, en los términos de la presente Ley. Los trabajos deberán efectuarse en un plazo que no exceda de siete días hábiles contados a partir de la fecha en que se ordene su reparación.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-Cuando el prestador de los servicios no cumpla con la obligación establecida en este precepto en el plazo señalado, el Municipio deberá hacer la reparación del pavimento, la guarnición o la banqueta, según sea el caso, con cargo al prestador de los servicios.
+En los casos en que con motivo de la instalación de la toma o las descargas, se destruya el pavimento, la guarnición o la banqueta, el prestador de los servicios estará obligado a realizar de inmediato su reparación en los términos de la presente Ley. Los trabajos deberán efectuarse en un plazo improrrogable de siete días hábiles contados a partir de la fecha en que se hayan concluidos (sic) los trabajos de instalación. La ejecución de los trabajos de reparación deberá realizarse utilizando materiales de óptima calidad y procurando restablecer las condiciones en las que se encontraba originalmente el pavimento, la guarnición o la banqueta.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Cuando el prestador de los servicios no cumpla con la obligación establecida en este precepto en el plazo señalado, el Municipio deberá hacer la reparación del pavimento, la guarnición o la banqueta en un plazo improrrogable de cinco días hábiles contados a partir de la fecha en que el Municipio tenga conocimiento de incumplimiento de la reparación por parte del prestador de servicios; según sea el caso, las reparaciones se harán con cargo al prestador de los servicios. En estos casos el Síndico Municipal deberá dar vista al Órgano de Control Interno del Prestador de Servicios a efectos de que inicie al (sic) procedimiento administrativo sancionador por el incumplimiento de la obligación señalada en el párrafo anterior.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+A efecto de prevenir accidentes, durante el desarrollo de los trabajos de reparación del pavimento, guarnición o la banqueta se deberá colocar la debida señalización. El incumplimiento de esta disposición hará acreedor a los responsables y ejecutantes de la obra a las sanciones a que haya lugar de conformidad con las leyes de la materia, sin perjuicio de las responsabilidades patrimoniales y civiles que se les sean imputables en caso que (sic) suscitarse accidentes por la falta oportuna de la reparación en los términos previstos en el presente artículo o de la colación (sic) de la señalización correspondiente.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+En todos los casos previstos en el presente artículo y en los mismos plazos ya señalados, los Organismos Operadores Municipales deberán retirar el remanente de material y escombros que se generen con motivo de la obra, en caso de omisión se deberá proceder en los términos dispuestos en el primero y segundo párrafo de este artículo.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 85 Bis.
+
+En los casos en que los Organismos Operadores Municipales, con motivo de la reparación de la toma o las descargas, destruyan banquetas, guarniciones y pavimentos, deberán observar las disposiciones previstas en el artículo anterior.
+
+Así mismo, los Organismos Operadores Municipales vigilarán que las alcantarillas cuenten con las tapas correspondientes y en caso que por motivo de robo o cualquier otra causa no cuenten con ella, procurarán de inmediato su sustitución. En todos los casos, mientras se lleva a cabo la sustitución, se deberá colocar la señalización correspondiente para evitar accidentes.
 
 ###### Artículo 86.
 
@@ -1299,9 +1329,17 @@ VIII. Formar Comités para la promoción de la construcción, conservación, man
 
 IX. Adoptar las figuras jurídicas que estimen pertinentes para el mantenimiento y operación de los sistemas de agua potable y alcantarillado en los centros de población de las zonas rurales, debiendo el Municipio o el Organismo Operador prestar el apoyo necesario;
 
-X. Constituir personas morales a las que se pudiera otorgar en concesión o con los que se pudieran celebrar contratos para construir y operar sistemas, prestar los servicios públicos o administrar, operar, conservar y mantener la infraestructura hidráulica respectiva; y
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-XI. Participar, a través de los Consejos Consultivos, en la planeación, programación, administración, operación, supervisión o vigilancia del prestador de los servicios en los términos de la presente Ley.
+X. Constituir personas morales a las que se pudiera otorgar en concesión o con los que se pudieran celebrar contratos para construir y operar sistemas, prestar los servicios públicos o administrar, operar, conservar y mantener la infraestructura hidráulica respectiva;
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XI. Participar, a través de los Consejos Consultivos, en la planeación, programación, administración, operación, supervisión o vigilancia del prestador de los servicios en los términos de la presente Ley, y
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XII. Exigir al Prestador de los Servicios la reparación del pavimento, guarnición o la banqueta en los términos de la presente Ley, cuando estas (sic) hayan sido destruidos con motivo de la instalación o reparación de tomas o drenaje.
 
 #### Sección Tercera. De las cuotas y tarifas
 
@@ -1888,3 +1926,19 @@ B.O. 16 DE DICIEMBRE DE 2019.
 Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2655 SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 12 Y EL SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 85 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1 Y UN TERCER PÁRRAFO AL ARTÍCULO 17, UN CUARTO PÁRRAFO AL ARTÍCULO 85, UN ARTÍCULO 85 BIS Y UNA FRACCIÓN XII AL ARTÍCULO 107, TODOS DE LA LEY DE AGUAS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+TERCERO.- Sin perjuicio de lo dispuesto en el artículo transitorio SEGUNDO, el "Plan Estatal Hídrico de largo plazo (25 años)", procurará ser elaborado por la Comisión Estatal del Agua y publicado a más tardar durante el último semestre de la presente Administración Pública Estatal 2015-2021, en caso de no ser elaborado durante la actual administración, este deberá ser elaborado y publicado por la Comisión Estatal del Agua en el Boletín Oficial del Gobierno del Estado de Baja California Sur, correspondiente a la nueva Administración Pública Estatal 2021-2027, a más tardar el 31 de diciembre del año 2022.
+
+CUARTO.- Sin perjuicio de lo dispuesto en el artículo transitorio SEGUNDO, el plazo señalado en el presente Decreto para la elaboración y publicación de los "Proyectos Estratégicos de Desarrollo" por parte de la Comisión Estatal del Agua y los Organismos Operadores Municipales, no será aplicable para el actual Director General de la Comisión Estatal del Agua, ni para los actuales Organismos Operadores Municipales.
+
+QUINTO.- Los Organismos Operadores Municipales deberán proveer en su esfera administrativa y reglamentaria lo conducente para dar cumplimiento al presente Decreto.
+
+SEXTO.- Se Derogan las Disposiciones legales que se opongan al presente Decreto.
