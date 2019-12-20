@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2018-12-31"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2020, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL ALCANCE VIII DEL P.O. DE 20 DE DICIEMBRE DE 2019.]</small>
+
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -339,9 +341,7 @@ a).- Para fines distintos de lo señalado en la fracción I, sobre el valor nomi
 
 b).- Por loterías, rifas, sorteos y concursos de toda clase, ocasionales en que no se emitan billetes o boletos, sobre el importe individual de suscripción.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
-
-c).- En los casos de actos ocasionales o eventuales, el impuesto deberá pagarse a más tardar al siguiente día hábil de realizado el evento, mediante declaración ante las oficinas fiscales y por los medios autorizados.
+c).- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2019)
 
 ###### ARTÍCULO 33.
 
@@ -370,6 +370,10 @@ III.- Presentar ante las (sic) Administración o Agencia Fiscal Estatal autoriza
 IV.- Proporcionar a los interventores que en su caso designe la Secretaría de Finanzas y Administración, la Administración o Agencia Fiscal autorizada, los libros, comprobantes y demás documentos que se consideren necesarios.
 
 V.- Los organizadores o promotores de los eventos a que hace alusión el artículo 30, estarán obligados a retener y enterar a la Administración o Agencia Fiscal Estatal autorizada de su jurisdicción, el impuesto correspondiente, sobre los premios que se otorguen.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+En los casos de actos ocasionales o eventuales, el impuesto deberá pagarse a más tardar al día hábil siguiente, de realizado el evento, mediante declaración ante las oficinas fiscales y por los medios autorizados.
 
 ###### ARTÍCULO 36.
 
@@ -413,9 +417,11 @@ Son sujetos de este impuesto las personas físicas y morales, así como las Asoc
 
 La federación, el Estado, los municipios, los organismos autónomos, descentralizados, fideicomisos y demás entidades paraestatales y municipales, deberán cubrir el impuesto a su cargo.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 41.
 
-Quienes contraten servicios de contribuyentes residentes fuera del territorio del Estado, para la prestación de mano de obra, tendrán la obligación de retener el impuesto por la mano de obra contratada.
+Quienes contraten servicios de contribuyentes con domicilio fiscal fuera del territorio del Estado, tendrán la obligación de retener y enterar el Impuesto que se genere por las remuneraciones pagadas por el trabajo personal.
 
 ###### ARTÍCULO 42.
 
@@ -455,9 +461,11 @@ Las personas físicas y morales que celebren contratos de prestación de servici
 
 VI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 46.
 
-Los retenedores de este impuesto deberán enterarlo mediante declaración mensual ante las oficinas autorizadas, a más tardar el día 17 del mes de calendario inmediato posterior al en que se efectuaron las retenciones.
+Los retenedores de este impuesto deberán enterarlo mediante declaración mensual en las oficinas autorizadas, a más tardar el día 17 del mes inmediato posterior al mes en que se efectuaron las retenciones.
 
 ###### ARTÍCULO 47.
 
@@ -725,6 +733,8 @@ IV.- Las autoridades competentes que expidan los certificados de aeronavegabilid
 
 En el caso de vehículos nuevos hasta de 15 pasajeros, así como motocicletas, aeronaves y vehículos eléctricos, el impuesto se calculará tomando en consideración su valor total.
 
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2020, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL ALCANCE VIII DEL P.O. DE 20 DE DICIEMBRE DE 2019.]</small>
+
 ###### ARTÍCULO 70.
 
 El impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
@@ -746,6 +756,8 @@ V.- En la enajenación o importación de vehículos nuevos de año modelo poster
 Las cantidades establecidas en la tarifa se actualizarán en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel por el que se van a aplicar la tarifa entre el mes de noviembre de dos años inmediatos anteriores a dicha aplicación, el cual se publicará en el Periódico Oficial del Estado, a más tardar el diez de enero de cada año.
 
 El Índice Nacional de precios al Consumidor que aplicará para los efectos del párrafo anterior es el publicado por el Instituto Nacional de Estadística y Geografía (INEGI) en los términos de los articulos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación.
+
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2020, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL ALCANCE VIII DEL P.O. DE 20 DE DICIEMBRE DE 2019.]</small>
 
 ###### ARTÍCULO 71.
 
@@ -782,6 +794,8 @@ I.- El valor total del automóvil se multiplicará por el factor de depreciació
 II.- La cantidad obtenida, se multiplicará por el 0.245%.
 
 Las cantidades que resulten de la aplicación de los factores de la presente tabla, se actualizarán en el mes de enero de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquel por el que se van aplicar los factores entre el mes de noviembre de dos años inmediatos anteriores a dicha aplicación, el cual se publicará en el periódico oficial del Gobierno del Estado a más tardar el día 10 de enero de cada año.
+
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO PRIMERO DE LA PRESENTE LEY, PARA EL EJERCICIO FISCAL DEL AÑO 2020, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN EL ALCANCE VIII DEL P.O. DE 20 DE DICIEMBRE DE 2019.]</small>
 
 ###### ARTÍCULO 72.
 
@@ -857,17 +871,17 @@ Diciembre 0.08
 
 En los casos de pérdida total del vehículo por robo o siniestro, el impuesto sobre tenencia o uso de vehículos a que se refiere éste capítulo, se atenderá de acuerdo a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-Los propietarios del vehículo pagarán el impuesto en la parte proporcional correspondiente a los meses del año en que se tuvo la tenencia del vehículo, la cual deberá acreditarse con la documentación correspondiente ante la Secretaría de Finanzas y Administración.
+Los propietarios del vehículo pagarán el impuesto correspondiente a los meses del año en que se obtuvo la tenencia del vehículo, la cual deberá acreditarse con la documentación correspondiente ante la Secretaría de Finanzas y Administración.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-En los casos en que el propietario del vehículo, haya efectuado el pago del impuesto antes del robo o siniestro, tendrá derecho a la devolución del mismo en la parte proporcional correspondiente a los meses del año, a partir del mes en que suceda el hecho ante la Secretaría de Finanzas y Administración.
+En los casos en que el propietario, tenedor y/o usuario del vehículo haya efectuado el pago del impuesto antes del robo o siniestro, tendrá derecho a la devolución del mismo por los meses posteriores del ejercicio en que sucedió el hecho, acreditado ante la Secretaría de Finanzas y Administración.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-Para determinar la parte proporcional de la devolución, se aplicarán los factores señalados en la tabla que antecede.
+El pago o la devolución a que se refieren los dos párrafos anteriores, se determinará dividiendo el pago total del impuesto entre 12 y multiplicado por el número de meses en que se tuvo o se dejó de tener el vehículo, respectivamente.
 
 ###### ARTÍCULO 74.
 
@@ -891,7 +905,9 @@ No se pagará el impuesto de tenencia y uso de los siguientes vehículos:
 
 I.- Los importados temporalmente en los términos de la legislación aduanera.
 
-II.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+II.- Los vehículos de la Federación, Estados, Municipios y la Ciudad de México que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos.
 
 III.- Los automóviles al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, excluyendo a los cónsules generales honorarios, cónsules y vicecónsules honorarios, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
 
@@ -1719,6 +1735,12 @@ V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2018)
 
 VI.- POR LAS CUOTAS DE RECUPERACIÓN POR LA PRESTACIÓN DE SERVICIOS MÉDICOS.
 
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+VII. Por los servicios analíticos que presta el Laboratorio Estatal de Salud Pública:
+
+> <small>[N. DE E. VÉASE TABLA DE TARIFAS EN EL P.O. DE 20 DE DICIEMBRE DE 2019, PAGINAS DE LA 11 A LA 17.]</small>
+
 Las personas físicas y morales que utilicen los servicios médicos que prestan las instituciones dependientes de la Secretaría de Salud del Gobierno del Estado de Guerrero pagarán Derechos, los que tendrán el carácter de cuotas de recuperación del costo de los servicios conforme al Tabulador de Cobro de Derechos que publique la Secretaría de Finanzas y Administración.
 
 El monto de las cuotas citadas se determinará atendiendo a las condiciones socioeconómicas del solicitante, conforme al siguiente Tabulador, en Unidades de Medida y Actualización:
@@ -2075,9 +2097,13 @@ El pago por este Derecho se realizará conforme al Tabulador que publique en el 
 
 Por la autorización e inscripción al Registro Estatal de Peritos Valuadores de bienes inmuebles, para fines fiscales se pagará en Unidad de Medida y Actualización
 
-I.- Expedición Inicial 170.0
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
 
-II.- Refrendo Anual 58.0
+I.- Inscripción Inicial 80
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+II.- Refrendo Anual 36.9
 
 ###### ARTÍCULO 125.
 
@@ -2525,17 +2551,7 @@ II.- Multas fiscales, judiciales y administrativas por violaciones a la Legislac
 
 III.- Rezagos de cuentas correspondientes a ejercicios fiscales anteriores, concesiones, contratos, reintegros, indemnizaciones, cancelaciones de contratos, donativos, subsidios, cauciones cuyas pérdidas se declaren por resolución firme a favor del Gobierno del Estado, cooperación de los municipios para el sostenimiento de los Centros de Readaptación Social del Estado, y Gastos de Requerimiento y Ejecución.
 
-IV.- Los incentivos que la Federación cubra al Estado por las actividades de colaboración administrativa que este último realice, en los términos de los convenios que al efecto se celebren:
-
-a).- Impuesto sobre automóviles nuevos.
-
-b).- Por actos de fiscalización concurrente y verificación.
-
-c).- Por la regularización de automóviles extranjeros.
-
-d).- Aplicación del Convenio de Colaboración Administrativa en Materia Fiscal Federal y de sus anexos 1, 4, 5, 8, 9, 11 y 13.
-
-e).- Incentivos diversos.
+IV.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2019)
 
 V).- Otros.
 
@@ -2580,6 +2596,20 @@ h) Otras participaciones:
 4.- Derechos de inscripción en el Registro Nacional de Turismo.
 
 5.- 5 al millar sobre el derecho de vigilancia, inspección y control de la obra pública.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+ARTÍCULO 143 BIS.- Los incentivos que la Federación cubra al Estado por las actividades de colaboración administrativa que este último realice, en los términos de los convenios que al efecto se celebren:
+
+a).- Impuesto sobre automóviles nuevos.
+
+b).- Por actos de fiscalización concurrente y verificación.
+
+c).- Por la regularizaciónn (sic) de automóviles extranjeros.
+
+d).- Aplicación del Convenio de Colaboración Administrativa en Materia Fiscal Federal y de sus anexos 1, 4, 5, 8, 9, 11 y 13.
+
+e).- Incentivos diversos.
 
 ###### ARTÍCULO 144.
 
@@ -4028,3 +4058,23 @@ Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, pa
 ###### ARTÍCULO TERCERO.
 
 Comuniquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas, adiciones y derogaciones relativas al presente decreto, entrarán en vigor el día 01 de enero del 2020.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo para los efectos legales conducentes y para su publicación en el Periódico Oficial del Gobierno del Estado para su observancia y conocimiento general.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DETERMINAN LOS FACTORES DE ACTUALIZACIÓN PARA LOS EFECTOS DE LOS ARTÍCULOS 70, 71 Y 72 DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. El presente Acuerdo tendrá vigencia del primero de enero al treinta y uno de diciembre del 2020.
