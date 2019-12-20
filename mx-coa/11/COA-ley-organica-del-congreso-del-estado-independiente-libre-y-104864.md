@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2019-11-22"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -1033,7 +1033,9 @@ IX. De Educación, Cultura, Familias y Actividades Cívicas;
 
 X. De Desarrollo Rural;
 
-XI. De Desarrollo Urbano Infraestructura y Transporte;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XI. De Desarrollo Urbano, Infraestructura, Transporte y Movilidad Sustentable;
 
 XII. De Salud, Medio Ambiente, Recursos Naturales y Agua;
 
@@ -1295,9 +1297,11 @@ V. Tierras y aguas para uso agrícola y ganadero; y
 
 VI. Otros asuntos que sean o se consideren de la competencia de esta comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
 ###### ARTÍCULO 99.
 
-La Comisión de Desarrollo Urbano, Infraestructura y Transporte conocerá de los asuntos relacionados con:
+La Comisión de Desarrollo Urbano, Infraestructura, Transporte y Movilidad Sustentable conocerá de los asuntos relacionados con:
 
 I. Desarrollo urbano y obras públicas;
 
@@ -3387,7 +3391,15 @@ P.O. 22 DE NOVIEMBRE DE 2019.
 
 P.O. 22 DE NOVIEMBRE DE 2019.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO 394.- SE ADICIONA LA FRACCIÓN II AL ARTÍCULO 137 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO 394.- SE ADICIONA LA FRACCIÓN II AL ARTÍCULO 137 DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 437.- SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 88 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 99, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
 
 ###### ARTÍCULO ÚNICO.
 
