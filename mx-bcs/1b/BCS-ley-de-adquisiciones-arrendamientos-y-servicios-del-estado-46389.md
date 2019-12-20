@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-4638
 country: "mx"
 rank: "ley"
 publication_date: "2005-09-14"
-last_updated: "2016-10-31"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 14 de septiembre de 2005.
 
@@ -725,9 +725,9 @@ XVIII. Cuando no existan por lo menos tres proveedores idóneos, previa investig
 
 Las Dependencias, Entidades y Organismos Autónomos, podrán optar por no llevar a cabo el procedimiento de Licitación Pública en los siguientes supuestos:
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
-I. Podrá contratarse por adjudicación directa cuando el importe de cada operación no exceda del equivalente a la cantidad de cuatro mil setecientas un veces el valor diario de la Unidad de Medida y Actualización, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo;
+I. Podrá contratarse por adjudicación directa cuando el importe de cada operación no exceda del equivalente a la cantidad de dos mil trescientas cincuenta y un veces el valor diario de la Unidad de Medida y Actualización, siempre que las operaciones no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo;
 
 > <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
 
@@ -1274,3 +1274,9 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2654 SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 53 DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS Y LA FRACCIÓN I DEL ARTÍCULO 40 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS, AMBAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Único.- El presente decreto entrará en vigor a partir del día 01 de enero del año 2020, previa publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
