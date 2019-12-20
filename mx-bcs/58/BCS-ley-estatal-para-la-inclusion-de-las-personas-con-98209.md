@@ -4,7 +4,7 @@ identifier: "BCS-ley-estatal-para-la-inclusion-de-las-personas-con-98209"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-27"
-last_updated: "2017-09-30"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 27 de enero de 2014.
 
@@ -951,9 +951,15 @@ La Secretaría del Trabajo y Previsión Social o la instancia que al efecto se h
 
 Las personas con discapacidad que presten servicios laborales, gozarán de iguales derechos y estarán sujetos a las mismas obligaciones que la legislación laboral prescribe, siempre y cuando las consideraciones hechas en el certificado correspondiente lo permitan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
 ###### Artículo 74.
 
-Las empresas, industrias, comercios y establecimientos en general cuyo capital sea privado, procurarán contratar por lo menos el dos por ciento de su planta laboral a personas con discapacidad, en el caso de que así les sea solicitado por éstas.
+Los Poderes y Ayuntamientos del Estado, deberán contratar progresivamente, a personas con alguna discapacidad, siempre y cuanto satisfagan los requisitos necesarios, conocimientos y habilidades para desempeñar el perfil laboral solicitado, hasta alcanzar cuando menos el tres por ciento de su planta laboral.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Las empresas de capital privado dedicados a los sectores industrial, comercial y de servicios, de tamaño micro y pequeño, deberán contratar progresivamente, a personas que acrediten alguna discapacidad, hasta alcanzar al menos, el diez por ciento de su plantilla laboral. Las empresas de tamaño mediano y grande, deberán contratar, a personas con alguna discapacidad, debidamente acreditada, hasta alcanzar al menos, cinco y diez por ciento, respectivamente, de su plantilla laboral.
 
 ## TÍTULO X. DEL DEPORTE, LA CULTURA, RECREACIÓN Y TURISMO
 
@@ -1525,7 +1531,7 @@ II.- Los antecedentes del infractor;
 
 III.- Las condiciones socio-económicas del infractor;
 
-IV.- La reincidencia en el incumplimiento de obligaciones, en su caso; y;
+IV.- La reincidencia en el incumplimiento de obligaciones, en su caso, y;
 
 V.- El monto del beneficio, daño o perjuicio económico, derivado del incumplimiento de obligaciones, si lo hubiere.
 
@@ -1594,3 +1600,9 @@ B.O. 30 DE SEPTIEMBRE DE 2017.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2469 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 120 DE LA LEY ESTATAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2652 SE REFORMA Y ADICIONA EL ARTÍCULO 74 DE LA LEY ESTATAL PARA LA INCLUSIÓN DE PERSONAS CON DISCAPACIDAD EN BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
