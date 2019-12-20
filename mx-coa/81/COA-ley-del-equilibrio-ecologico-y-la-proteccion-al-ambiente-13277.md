@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2019-07-05"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -145,7 +145,7 @@ XX.- Desarrollo Sustentable: El proceso evaluable mediante criterios e indicador
 
 XXI.- Desequilibrio ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente entre sí, o con los elementos artificiales introducidos a consecuencia de las actividades humanas, que afecta negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos.
 
-XXII.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2006)
+XXII.- (DEROGADA, P.O. 15 DE DICIEMBRE DE 2006)
 
 XXIII.- Distrito de conservación: Unidad natural para el uso racional de la naturaleza, delimitada por parte aguas y sus salidas naturales, que permite la ordenación ecológica integral y congruente de las actividades económicas, de investigación y de uso y conservación de los ecosistemas, mediante la regulación adecuada de las actividades productivas, a fin de garantizar un rendimiento óptimo y sostenido de los recursos naturales; armónico con la protección del ambiente y la evolución y continuidad de los ciclos naturales que le dieron origen.
 
@@ -153,7 +153,9 @@ XXIV.- Ecología: El estudio de la estructura y funcionamiento de los ecosistema
 
 XXV.- Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el ambiente, en un espacio y tiempo determinados.
 
-XXVI.- Educación ambiental: Proceso educativo tendiente a la formación de una conciencia crítica ante los problemas ambientales.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XXVI.- Educación ambiental: Proceso educativo tendiente a la formación de una conciencia crítica ante los problemas ambientales, en el que el individuo asimila los conceptos e interioriza las actitudes que le permitan evaluar las relaciones de interdependencia establecidas entre la sociedad y su medio natural considerando el ámbito educativo formal e informal y de la cultura ambiental que permita a la ciudadanía participar responsablemente en la atención y solución de los problemas ambientales, para contribuir al tránsito hacia el desarrollo sostenible en el Estado;
 
 XXVII.- Equilibrio ecológico: La relación de interdependencia entre los elementos que conforman el ambiente que hace posible la existencia, transformación y desarrollo del hombre y demás seres vivos.
 
@@ -3225,7 +3227,7 @@ SEGUNDO.- Los manuales de sistemas de manejo ambiental deberán expedirse a más
 
 P.O. 15 DE ENERO DE 2019.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 187.- SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN DEL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO 187.- SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN DEL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 Primero.- El presente Decreto entrará en vigor dentro de los 12 meses contados a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -3254,3 +3256,11 @@ P.O. 5 DE JULIO DE 2019.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 409.- SE MODIFICA EL CONTENIDO DE LA FRACCIÓN XXVI, DEL ARTÍCULO 7 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; SE MODIFICAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
