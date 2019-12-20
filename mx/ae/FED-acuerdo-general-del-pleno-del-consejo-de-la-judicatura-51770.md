@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2019-10-17"
+last_updated: "2019-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2019.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -1055,7 +1055,9 @@ La designación del secretario que deba suplir a un Magistrado de Tribunal Coleg
 
 Tratándose del sistema penal acusatorio, para la sustitución de los juzgadores de los Centros de Justicia Penal Federal se estará a lo dispuesto en los acuerdos generales que regulan la creación, organización y funcionamiento de dichos Centros.
 
-## TITULO NOVENO. De las Vacaciones y Días Inhábiles
+> <small>(REFORMADA SU DENOMINACIÓN POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+
+## TITULO NOVENO. De las Vacaciones, Días Inhábiles y Días de Asueto
 
 ###### Artículo 99.
 
@@ -1112,6 +1114,36 @@ VII. El dieciséis de septiembre;
 VIII. El doce de octubre; y
 
 IX. El veinticinco de diciembre.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 104 Bis.
+
+Las madres y padres adscritos a los órganos jurisdiccionales, gozarán de un día de asueto con motivo de la celebración del “Día de la Madre” y del “Día del Padre”, según corresponda.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 104 Ter.
+
+El día de asueto para las madres y padres adscritos a los órganos jurisdiccionales, con excepción de los titulares, se otorgará previo acuerdo con éstos, a fin de no afectar las labores del órgano jurisdiccional, observando, en lo conducente, lo dispuesto en el artículo 104 Quater del presente Acuerdo.
+
+> <small>(ADICIONADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE, D.O.F. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 104 Quater.
+
+En el caso de las juzgadoras y juzgadores federales, para el otorgamiento del día de asueto, se deberá comunicar por escrito a la Secretaría Ejecutiva de Carrera Judicial, con al menos cinco días hábiles de anticipación al día de asueto.
+
+La comunicación deberá contener:
+
+I. La fecha en la que propone disfrutar del día de asueto, la cual deberá estar comprendida entre los meses de mayo a diciembre, tratándose de las madres; y de junio a diciembre, tratándose de los padres, en el año que corresponda, tomando en cuenta lo siguiente:
+
+a) El día de asueto no deberá ser inmediatamente previo o posterior a un periodo vacacional o licencia;
+
+b) El día de asueto no deberá coincidir con los periodos de turno, así como durante el desarrollo de visitas de inspección practicadas por la Visitaduría Judicial; y
+
+c) El día de asueto no podrá ser acumulado para años subsecuentes.
+
+II. El nombre del secretario que quedará encargado del despacho del órgano jurisdiccional.
 
 ## TITULO DECIMO. De las Licencias
 
@@ -2170,3 +2202,13 @@ PRIMERO. El presente Acuerdo entrará en vigor el día de su publicación.
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 TERCERO. Los procedimientos iniciados con anterioridad a la entrada en vigor del presente Acuerdo, serán concluidos conforme a las disposiciones con las que fueron iniciados.
+
+D.O.F. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS, EN RELACIÓN A LOS DÍAS DE ASUETO CON MOTIVO DE LA CELEBRACIÓN DEL DÍA DE LA MADRE Y DEL DÍA DEL PADRE”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dos de enero de dos mil veinte.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en internet.
+
+TERCERO. Se deja sin efectos la Circular 10/2011 del Pleno del Consejo de la Judicatura Federal que establece los lineamientos para otorgar el día de asueto que con motivo de la celebración del día de las madres a las juzgadoras federales del Consejo de la Judicatura Federal, así como las circulares 11/2019 y 12/2019 emitidas por la Dirección General de Recursos Humanos.
