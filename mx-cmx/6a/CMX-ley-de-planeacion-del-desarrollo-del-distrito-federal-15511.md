@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-planeacion-del-desarrollo-del-distrito-federal-15511"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-27"
-last_updated: "2013-06-28"
+last_updated: "2019-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15511&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "1999-12-31"
 ---
 # LEY DE PLANEACION DEL DESARROLLO DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 20 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PLANEACIÓN DEL DESARROLLO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de enero de 2000.
 
@@ -781,3 +783,45 @@ G.O. 28 DE JUNIO DE 2013.
 PRIMERO.- Túrnese el presente Decreto al Jefe de Gobierno del Distrito Federal, para su promulgación y publicación.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DEL SISTEMA DE PLANEACIÓN DEL DESARROLLO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga la Ley de Planeación del Desarrollo del Distrito Federal publicada en la Gaceta Oficial del Distrito Federal del 27 de enero de 2000.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+Por cuanto hace a la Ley de Desarrollo Urbano del Distrito Federal, conservará su vigencia hasta en tanto no se lleve a cabo la armonización con la presente Ley, así como con la Ley Orgánica del Instituto de Planeación Democrática y Prospectiva de la Ciudad de México.
+
+QUINTO. La Administración Pública Local y las Alcaldías iniciarán la formulación de los programas de su competencia conforme a la presente Ley una vez que entren en vigor el Plan General y el Programa General; en tanto continuarán aplicándose los programas vigentes.
+
+Los programas de desarrollo urbano mantendrán su vigencia, independientemente de los términos de su publicación, hasta que sean aprobados los programas de ordenamiento territorial en la escala correspondiente conforme a lo establecido en la Constitución y en esta Ley. Aquellos programas que se encuentren en proceso de elaboración y/o aprobación a la entrada en vigor de la presente Ley, concluirán su procedimiento de aprobación conforme a la Ley de Desarrollo Urbano del Distrito Federal. Y una vez creado el Instituto, serán ratificados conforme al mecanismo constitucional.
+
+SEXTO. El Congreso aprobará la Ley de Ordenamiento Territorial durante el Segundo Periodo Ordinario del Segundo Año de Ejercicio de la I Legislatura, previa consulta a los pueblos y barrios originarios y comunidades indígenas residentes respecto de aquellos contenidos que sean susceptibles de afectar sus derechos.
+
+SÉPTIMO. El Congreso y la Administración Pública Local tomarán las medidas legislativas, administrativas y presupuestarias para que el lnstituto cuente con la estructura orgánica y administrativa como máximo el 01 de enero de 2020 para cumplir con el adecuado ejercicio de sus atribuciones.
+
+La integración de los órganos del instituto deberá llevarse a cabo en un periodo de sesenta días a partir de la fecha de entrada en vigor de la presente ley.
+
+OCTAVO. El Plan General entrará en vigor el 01 de octubre de 2020, el Programa de Gobierno y los programas de gobierno de las Alcaldías lo harán el 01 de enero de 2021, y el Programa General y los programas de ordenamiento territorial de cada una de las demarcaciones territoriales el 01 de octubre de 2021.
+
+El Instituto elaborará y remitirá al Congreso, a la administración pública local y a las Alcaldías, a más tardar el 30 de julio de 2020, un diagnóstico sobre los asentamientos humanos irregulares y las propuestas de acciones y medidas a implementar previo a la entrada en vigor de los programas de ordenamiento territorial a que se refiere el párrafo anterior. La administración pública local y las Alcaldías deberán implementar de inmediato las acciones y medidas contenidas en el diagnostico antes señalado, debiendo informar de manera trimestral al Congreso sobre su avance y cumplimiento.
+
+NOVENO. El programa de gobierno, elaborado por la persona titular de la Jefatura de Gobierno que entró en funciones el 05 de diciembre de 2018, estará vigente hasta el 31 de diciembre de 2020.
+
+DÉCIMO. Las cinco personas integrantes del Comité de Selección a que se refiere el artículo 28 de la presente Ley serán sustituidas de forma escalonada, por lo que, en su primera integración, una de ellas será nombrada por un periodo de tres años, dos por cuatro años y dos por cinco años.
+
+DÉCIMO PRIMERO. Las once personas integrantes del Comité Técnico de Selección a que se refiere el artículo 29 de la presente Ley serán sustituidas de forma escalonada, por lo que, en su primera integración, tres de ellas serán nombradas por un periodo de tres años, cuatro por cuatro años y cuatro por cinco años.
+
+DÉCIMO SEGUNDO. Las siete personas consejeras ciudadanas que conformarán la Junta de Gobierno serán sustituidas de forma escalonada, por lo que el Comité Técnico de Selección nombrará, en su primera integración, a tres de ellas por un periodo de dos años y cuatro por tres años. Las ocho personas restantes del Directorio Técnico serán nombradas, en su primera integración, cuatro por un periodo de dos años y cuatro por un periodo de tres años.
+
+DÉCIMO TERCERO. Las doce personas que conformarán el Consejo Ciudadano serán sustituidas de forma escalonada, por lo que, en su primera integración, cuatro serán nombradas por un periodo de un año, cuatro por dos años y cuatro por tres años, de manera equitativa entre los sectores público, social, privado y académico.
+
+DÉCIMO CUARTO. El Comité de Planeación para el Desarrollo del Distrito Federal conservará las facultades respecto de la aprobación, creación y operación de programas de desarrollo social de acuerdo con lo establecido en la legislación vigente.
+
+DÉCIMO QUINTO. Para la integración del proyecto de Presupuesto de Egresos para el ejercicio fiscal 2020, la Secretaría de Administración y Finanzas establecerá los lineamientos necesarios para el cumplimiento de las disposiciones establecidas en esta Ley.
