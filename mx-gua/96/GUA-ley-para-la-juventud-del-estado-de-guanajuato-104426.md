@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-juventud-del-estado-de-guanajuato-104426"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-16"
-last_updated: "2018-10-10"
+last_updated: "2019-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2018.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 10 DE OCTUBRE DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 16 de diciembre de 2014.
 
@@ -81,7 +79,11 @@ IX. Organismo municipal. La dependencia, organismo desconcentrado o entidad para
 
 X. Organizaciones de atención a la juventud. Aquellas integradas por jóvenes o, en su caso, por adultos que se dedican a realizar acciones tendientes a la participación de los jóvenes en la sociedad, así como a su desarrollo integral; y
 
-XI. Vulnerabilidad. Conjunto de circunstancias derivadas de los factores personales, familiares, económicos o sociales, que provocan un estado de amenaza en los jóvenes de sufrir daños físicos, psicológicos o emocionales, o cualquier otro que impida su desarrollo integral.
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+XI. Violencia digital. Acción que se produce cuando una persona provoca o realiza daños físicos o psicológicos a un joven, utilizando medios de comunicación electrónicas (sic), telecomunicaciones o cualquier otra tecnología de transmisión de datos, vulnerando su dignidad, intimidad, libertad, vida privada; y
+
+XII. Vulnerabilidad. Conjunto de circunstancias derivadas de los factores personales, familiares, económicos o sociales, que provocan un estado de amenaza en los jóvenes de sufrir daños físicos, psicológicos o emocionales, o cualquier otro que impida su desarrollo integral.
 
 Autoridades competentes
 
@@ -437,25 +439,65 @@ Espacio para realizar servicio social
 
 Las autoridades estatales, municipales y organismos municipales, deberán crear los mecanismos necesarios para establecer un espacio destinado a la juventud que requiera realizar su servicio social, así como participar en la elaboración de un programa anual de prestadores del servicio social.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+#### Sección Décima Quinta. Derecho a una vida libre de violencia
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Vida libre de violencia
+
+###### Artículo 42 Bis.
+
+Las autoridades estatales y municipales garantizarán en el ambito de sus respectivas competencias el ejercicio pleno del derecho de los jóvenes a una vida libre de violencia. Los organismos públicos autónomos conforme a sus atribuciones y la sociedad civil contribuirán a ello.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Vida libre de violencia digital
+
+###### Artículo 42 Ter.
+
+Los jóvenes tienen derecho a una vida libre de violencia digital.
+
+El Instituto coadyuvará con las autoridades en materia de seguridad y procuración de justicia en la prevención de la violencia digital.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Prevención y erradicación de la violencia digital
+
+###### Artículo 42 Quáter.
+
+Para prevenir y erradicar la violencia digital el Instituto realizará las siguientes acciones:
+
+I. Informar y generar campañas para prevenir y erradicar la violencia digital;
+
+II. Establecer un programa preventivo y de atención encaminado a que los jóvenes utilicen responsablemente los medios de comunicación electrónicas (sic), telecomunicaciones o cualquier otra tecnología de transmisión de datos de manera que se evite la violencia digital;
+
+III. Asesorar y asistir en materia tecnológica a los jóvenes en casos de violencia digital; y
+
+IV. Establecer estrategias que promuevan los valores y el respeto a las personas.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+###### Artículo 42 Quinquies.
+
+La víctima de violencia digital gozará de las medidas de atención, protección, apoyo y reparación integral por el daño sufrido, conforme a las disposiciones normativas establecidas para tal efecto.
+
+### Capítulo IV. Deberes de los Jóvenes
+
 #### Sección Primera. Deberes contenidos en la Constitución
 
 Respetar y cumplir
 
-### Capítulo IV. Deberes de los Jóvenes
+###### Artículo 43.
+
+Es deber de los jóvenes respetar y cumplir las disposiciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y las leyes que de ellas emanen, en concordancia con el respeto, práctica y promoción de los valores humanos con el fin de promover la convivencia pacífica con la sociedad, y la familia.
 
 #### Sección Segunda. Deberes de los jóvenes con la familia, la sociedad y el estado
 
 Deberes y obligaciones
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
-
-###### Artículo 43.
-
-Es deber de los jóvenes respetar y cumplir las disposiciones establecidas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato y las leyes que de ellas emanen, en concordancia con el respeto, práctica y promoción de los valores humanos con el fin de promover la convivencia pacífica con la sociedad, y la familia.
-
-#### Sección Primera. Competencia del Poder Ejecutivo y de los ayuntamientos
-
-Competencia del Ejecutivo del Estado
 
 ###### Artículo 44.
 
@@ -596,6 +638,10 @@ XVI. Fomentar la investigación científica y tecnológica, así como la creativ
 XVII. Promover la creación de la infraestructura necesaria para el desarrollo de las actividades en favor de la juventud.
 
 ### Capítulo VI. Atribuciones de las autoridades en materia de juventud
+
+#### Sección Primera. Competencia del Poder Ejecutivo y de los ayuntamientos
+
+Competencia del Ejecutivo del Estado
 
 ###### Artículo 51.
 
@@ -1286,3 +1332,11 @@ Artículo Noveno. El Gobernador del Estado expedirá los reglamentos, así como 
 En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
 
 Artículo Décimo. Los ayuntamientos actualizarán o expedirán los reglamentos y demás disposiciones normativas o administrativas necesarias para el cumplimiento del presente Decreto, en un plazo que no exceda de ciento ochenta días, contado a partir de la entrada en vigor del presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+[N. DE. E. TRANSITORIOS DEL “DECRETO NÚMERO 113, EMITIDO POR LA SEXAGÉSIMA CUARTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 2, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN, Y LA SECCION DÉCIMA QUINTA DENOMINADA DERECHO A UNA VIDA LIBRE DE VIOLENCIA, QUE CONTIENE LOS ARTÍCULOS 42 BIS, 42 TER, 42 QUÁTER Y 42 QUINQUIES A LA LEY PARA LA JUVENTUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El titular del Poder Ejecutivo y los Municipios deberán realizar los ajustes en los reglamentos y demás disposiciones que deriven de este Decreto en un término de 180 días posteriores a su entrada en vigor.
