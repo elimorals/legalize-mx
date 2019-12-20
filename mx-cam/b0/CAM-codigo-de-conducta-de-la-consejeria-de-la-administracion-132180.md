@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-de-la-consejeria-de-la-administracion-132180
 country: "mx"
 rank: "codigo"
 publication_date: "2018-10-17"
-last_updated: "2018-10-17"
+last_updated: "2019-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA DE LA CONSEJERIA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA CONSEJERÍA JURÍDICA DE LA AMINISTRACIÓN (SIC) PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2019, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA CONSEJERÍA JURÍDICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2019 (ABROGADO).
 
 Código publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el miércoles 17 de octubre de 2018.
 
@@ -354,3 +356,13 @@ SEGUNDO.- El presente Código de Conducta entrará en vigor al día siguiente de
 En virtud de lo anterior, se aprueba y se expide el Código de Conducta para su difusión y observancia interior de la Consejería Jurídica, en la ciudad de San Francisco de Campeche, Municipio y Estado de Campeche, a los doce días del mes de octubre del año dos mil dieciocho.
 
 PRESIDENTA: MTRA. LAURA LUNA GARCÍA, CONSEJERA JURÍDICA..- SECRETARIA EJECUTIVA: MTRA. KARLA ISABEL VILLACÍS CHABLÉ, DIRECTORA DE COORDINACIÓN DE ARCHIVOS E IGUALDAD DE GÉNERO.- VOCAL 1: LIC. LEÓN FELIPE REYES PÉREZ, DIRECTOR DE SERVICIOS LEGALES.- VOCAL 2: MTRO. PEDRO MANUEL GÓNGORA GUERRERO, DIRECTOR DE ESTUDIOS JURÍDICOS.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA CONSEJERÍA JURÍDICA DE LA AMINISTRACIÓN (SIC) PÚBLICA ESTATAL".]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- El presente Acuerdo abroga el Código de Conducta de la Consejería jurídica de la Administración Pública del Estado de Campeche, emitido mediante acuerdo publicado en el Periódico Oficial del Estado el 17 de octubre de 2018.
