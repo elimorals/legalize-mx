@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2019-12-06"
+last_updated: "2019-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2019.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -2487,7 +2487,7 @@ Queda prohibido aplicar un tratamiento terapéutico en instituciones de reclusi�
 
 En caso de personas con desarrollo intelectual retardado o trastorno mental que no implique inimputabilidad permanente, de ser posible según peritos, se les podrá fijar medida de seguridad terapéutica en otro lugar adecuado para su tratamiento, incluyendo el seno familiar.
 
-Lo mismo se observará para quienes sufran trastorno mental permanente, si a juicio de dos médicos siquiatras no necesiten internamiento o ya no lo requieran, porque debido a sus condiciones o al tratamiento terapéutico proporcionado, ya no representan peligro para sí mismo (sic) o para terceras personas. Esta medida siempre será reversible por el juez de ejecución penal, si así resulta necesario.
+Lo mismo se observará para quienes sufran trastorno mental permanente, si a juicio de dos médicos siquiatras no necesiten internamiento o ya no lo requieran, porque debido a sus condiciones o al tratamiento terapéutico proporcionado, ya no representan peligro para sí mismo o para terceras personas. Esta medida siempre será reversible por el juez de ejecución penal, si así resulta necesario.
 
 Artículo 143 (Tratamiento para imputables disminuidos)
 
@@ -3243,6 +3243,8 @@ La deformidad será grave, cuando la asimetría corporal, facial o de la cabeza,
 
 Si en un mismo contexto de ocasión, se le causan a la víctima varias de las lesiones previstas en las fracciones de este artículo, sólo se impondrán las penas que correspondan a las lesiones de mayor gravedad, sin perjuicio de tomar en cuenta las demás lesiones causadas cuando se individualice la pena, según las pautas señaladas en la ley para tal efecto.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
 Artículo 201 (Lesiones calificadas)
 
 Las lesiones dolosas serán calificadas cuando se cometan con una o más de las circunstancias previstas en el artículo 184 de este código.
@@ -3250,6 +3252,20 @@ Las lesiones dolosas serán calificadas cuando se cometan con una o más de las 
 Cuando respecto a la conducta lesiva concurran hasta tres circunstancias calificativas de las previstas en el artículo 184 de este código, se aumentará en una mitad el mínimo y el máximo de las penas señaladas para las lesiones simples en el artículo 200 de este código, según las lesiones de que se trate conforme a dicho artículo 200.
 
 Más si respecto a la conducta lesiva concurren más de tres circunstancias calificativas de las previstas en el artículo 184 de este código, se incrementará en tres cuartas partes el mínimo y el máximo de las penas señaladas para las lesiones simples en el artículo 200 de este código, según la lesión de que se trate conforme a dicho artículo 200.
+
+También se considerarán lesiones calificadas las lesiones que se causen dolosamente lesiones (sic) a una mujer en razón de su género.
+
+Se considera que existe razón de género cuando concurra cualquiera de las siguientes circunstancias:
+
+1) Que previo a la lesión infringida, haya datos que establezcan que se han cometido amenazas, acoso o violencia del agresor en contra de la víctima siendo esta última de sexo femenino.
+
+2) Si entre el agresor y la victima existió una relación sentimental, afectiva o de confianza, de parentesco, laboral, docente o cualquiera que implique subordinación o un grado de superioridad y, sea acreditado que en base a esa relación fueron infringidas las lesiones infamantes, degradantes o mutilaciones.
+
+3) Las lesiones se hayan infligido en zonas genitales.
+
+Cuando respecto a la conducta lesiva concurran cualquiera de las circunstancias de las previstas (sic) el párrafo anterior, se aumentará en una mitad el mínimo y el máximo de las penas señaladas para las lesiones simples en el artículo 200 de este código, según las lesiones de que se trate conforme a dicho artículo 200.
+
+Más si respecto a la conducta lesiva concurren una o más circunstancias de las previstas en el artículo 184 de este código con alguna de las previstas en el párrafo anterior, se incrementará en tres cuartas partes el mínimo y el máximo de las penas señaladas para las lesiones simples en el artículo 200 de este código, según la lesión de que se trate conforme a dicho artículo 200.
 
 Artículo 202 (Lesiones atenuadas por riña)
 
@@ -4988,6 +5004,10 @@ Protección de bienes jurídicos colectivos
 Artículo 313 (Usurpación de profesión)
 
 Se impondrá de uno a dos años de prisión y de doscientos a trescientos días multa, o de uno a dos años de libertad supervisada y de doscientos a trescientos días multa, a quien se ostente como si tuviera un título en alguna profesión y realice actos propios de la misma, sin tener el título que la ley exija para ejercerla.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2019)</small>
+
+Se aumentará en un tanto el mínimo y el máximo de las penas previstas en el párrafo anterior, para quien realice actos propios de la profesión médica, sin tener el título que la ley exige para ejercerla, así como para el médico que practique un procedimiento médico quirúrgico de especialidad, y no cuente con los requisitos establecidos en la Ley General de Salud, salvo que se trate de atención del embarazo o parto así como urgencias médicas.
 
 ## Título Primero. Delitos contra la seguridad de profesiones y la prestación pública de servicios
 
@@ -7818,3 +7838,17 @@ El presente decreto iniciará su vigencia el día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 Publíquese en el Periódico Oficial del Estado, una vez que haya entrado en vigor el Decreto No. 377 expedido por esta legislatura el 30 de octubre de 2019.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 403.- SE REFORMA EL ARTÍCULO 201 DEL CÓDIGO PENAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 404.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 313 DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
